@@ -29,7 +29,7 @@ Jack Sargeant is elected to the Welsh Assembly, three months after his father wa
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: Elon Musk's Tesla Roadster, Space Oddity, SpaceX, elliptic orbit, Falcon Heavy, Mars, Falcon Heavy Demonstration Mission_
+_Context: elliptic orbit, Falcon Heavy, Space Oddity, SpaceX, Mars, Falcon Heavy Demonstration Mission, Elon Musk's Tesla Roadster_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-recovering-only-over-less-populated-areas.md)
