@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in the Damascus countryside from Lebanese airspace, with Syrian air defenses destroying most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-the-damascus-countryside-from-lebanese-airspace-with-syrian-a.md)
-_Context: Damascus, Lebanese, Syria, Israel, Israeli involvement in the Syrian Civil War_
+_Context: Israel, Israeli involvement in the Syrian Civil War, Lebanese, Damascus, Syria_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
@@ -16,8 +16,8 @@ Macedonia is ready to add a geographical qualifier to its name to help resolve a
 The European Parliament has voted overwhelmingly to dismiss one of its vice presidents. Ryszard Czarnecki of Poland&#39;s ruling PiS party had compared a rival Polish MEP to a Nazi collaborator.
 
 ##### Prehistoric Britain
-### [The DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-britain-had-blue-eyes-and-dark-skin-the-name-cheddar-man-was.md)
-_Context: Prehistoric Britain, Cheddar Man, Great Britain_
+### [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md)
+New research adds to a growing body of evidence showing how the British Isles received waves of immigrants over tens of thousands of years.
 
 ## [Previous Day...](/news/2018/02/6/index.md)
 
