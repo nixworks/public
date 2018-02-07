@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/6/jack-sargeant-was-elected-as-the-new-assembly-me
 ### [2018-02-6](/news/2018/02/6/index.md)
 
 ##### Alyn and Deeside by-election, 2018
-# Jack Sargeant was elected as the new Assembly Member for the Welsh Assembly constituency of Alyn and Deeside, which was vacated after the death of the former AM Carl Sargeant on November 2017. There was a 5.3% swing to Labour from the Conservatives. 
+# Jack Sargeant was elected as the new Assembly Member for the Welsh Assembly constituency of Alyn and Deeside, which was vacated after the death of his father, Carl Sargeant, in November 2017. There was a 5.3% swing to Labour from the Conservatives. 
 
 Jack Sargeant is elected to the Welsh Assembly, three months after his father was found dead.
 

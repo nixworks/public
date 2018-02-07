@@ -20,16 +20,16 @@ Turkey has so far detained 573 people for social media posts and protests critic
 Mohamed Nasheed asks for India to help release political prisoners amid a worsening crisis.
 
 ##### Amendment to the Act on the Institute of National Remembrance
-### [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md)
+### [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the Holocaust during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md)
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### Alyn and Deeside by-election, 2018
-### [Jack Sargeant was elected as the new Assembly Member for the Welsh Assembly constituency of Alyn and Deeside, which was vacated after the death of the former AM Carl Sargeant on November 2017. There was a 5.3% swing to Labour from the Conservatives. ](/news/2018/02/6/jack-sargeant-was-elected-as-the-new-assembly-member-for-the-welsh-assembly-constituency-of-alyn-and-deeside-which-was-vacated-after-the-de.md)
+### [Jack Sargeant was elected as the new Assembly Member for the Welsh Assembly constituency of Alyn and Deeside, which was vacated after the death of his father, Carl Sargeant, in November 2017. There was a 5.3% swing to Labour from the Conservatives. ](/news/2018/02/6/jack-sargeant-was-elected-as-the-new-assembly-member-for-the-welsh-assembly-constituency-of-alyn-and-deeside-which-was-vacated-after-the-de.md)
 Jack Sargeant is elected to the Welsh Assembly, three months after his father was found dead.
 
 ##### Falcon Heavy Demonstration Mission
-### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: elliptic orbit, SpaceX, Falcon Heavy, Falcon Heavy Demonstration Mission, Mars, Space Oddity, Elon Musk's Tesla Roadster_
+### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Space Oddity" by David Bowie, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
+_Context: Falcon Heavy, SpaceX, Space Oddity, elliptic orbit, Elon Musk's Tesla Roadster, David Bowie, Mars, Falcon Heavy Demonstration Mission_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-recovering-only-over-less-populated-areas.md)

@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controv
 ### [2018-02-6](/news/2018/02/6/index.md)
 
 ##### Amendment to the Act on the Institute of National Remembrance
-# Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. 
+# Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the Holocaust during the Nazi occupation. 
 
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
@@ -18,7 +18,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 ### Changes:
 
 1. [Polish President Andrzej Duda says he will sign a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defended the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-says-he-will-sign-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-du.md) _2018-02-06 19:30:11 (First version)_
-1. [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the holocaust committed during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md) _(Current version)_
+1. [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the Holocaust during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md) _(Current version)_
 
 ### Related:
 
