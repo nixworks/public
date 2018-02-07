@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian
 
 ### [2018-02-4](/news/2018/02/4/index.md)
 
-##### Anglo-Eastern Group
+##### Maritime incidents in 2018
 # An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. 
 
 There has been no contact with the Marine Express and its Indian sailors since Thursday.

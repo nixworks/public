@@ -9,7 +9,7 @@ Macedonia is ready to add a geographical qualifier to its name to help resolve a
 
 ##### Prehistoric Britain
 ### [The DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-britain-had-blue-eyes-and-dark-skin-the-name-cheddar-man-was.md)
-_Context: Prehistoric Britain, Great Britain, Cheddar Man_
+_Context: Cheddar Man, Prehistoric Britain, Great Britain_
 
 ## [Previous Day...](/news/2018/02/6/index.md)
 

@@ -9,7 +9,7 @@ Macedonia is ready to add a geographical qualifier to its name to help resolve a
 
 ##### Prehistoric Britain
 ### [The DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-britain-had-blue-eyes-and-dark-skin-the-name-cheddar-man-was.md)
-_Context: Prehistoric Britain, Great Britain, Cheddar Man_
+_Context: Cheddar Man, Prehistoric Britain, Great Britain_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -41,7 +41,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Space Oddity" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: elliptic orbit, SpaceX, Space Oddity, Elon Musk's Tesla Roadster, Mars, Falcon Heavy Demonstration Mission, Falcon Heavy, David Bowie_
+_Context: SpaceX, Falcon Heavy Demonstration Mission, Falcon Heavy, Mars, elliptic orbit, Space Oddity, Elon Musk's Tesla Roadster, David Bowie_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
@@ -65,7 +65,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: United Kingdom, Michel Barnier, Prime Minister, Theresa May, Secretary of State for Exiting the European Union, David Davis, Brexit, Brexit negotiations, European Union, London_
+_Context: Prime Minister, United Kingdom, Theresa May, London, Secretary of State for Exiting the European Union, Michel Barnier, European Union, Brexit negotiations, David Davis, Brexit_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
