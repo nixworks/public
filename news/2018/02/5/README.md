@@ -8,7 +8,7 @@ Formats: [HTML](2018/02/5/index.html)  [JSON](2018/02/5/index.json)  [XML](2018/
 A Palestinian stabbed and killed an Israeli man on Monday in a Jewish settlement in the occupied West Bank, Israeli officials said.
 
 ##### Syrian Civil War
-### [Syrian government airstrikes pound downtown on rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-downtown-on-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-in.md)
+### [Syrian government airstrikes pound rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-including-four.md)
 Syrian Observatory for Human Rights says 4 children among dead after &#039;dozens&#039; of air raids by government forces
 
 ##### Wall Street
@@ -17,7 +17,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Michel Barnier, Brexit negotiations, Prime Minister, European Union, United Kingdom, Secretary of State for Exiting the European Union, Brexit, Theresa May, David Davis, London_
+_Context: London, Brexit, Michel Barnier, Secretary of State for Exiting the European Union, Brexit negotiations, Prime Minister, United Kingdom, David Davis, European Union, Theresa May_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)

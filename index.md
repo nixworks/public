@@ -20,8 +20,8 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### Falcon Heavy Demonstration Mission
-### [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of Mars for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md)
-_Context: SpaceX, Falcon Heavy Demonstration Mission, Space Oddity, Elon Musk's Tesla Roadster, elliptic orbit, Mars, Falcon Heavy_
+### [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md)
+_Context: Falcon Heavy Demonstration Mission, elliptic orbit, SpaceX, Falcon Heavy, Mars, Space Oddity, Elon Musk's Tesla Roadster_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated regions where the most of ozone depletion occured. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-recovering-only-over-less-populated-region.md)
@@ -40,7 +40,7 @@ Most of the daily information we see on the mainstream media today is the news e
 A Palestinian stabbed and killed an Israeli man on Monday in a Jewish settlement in the occupied West Bank, Israeli officials said.
 
 ##### Syrian Civil War
-### [Syrian government airstrikes pound downtown on rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-downtown-on-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-in.md)
+### [Syrian government airstrikes pound rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-including-four.md)
 Syrian Observatory for Human Rights says 4 children among dead after &#039;dozens&#039; of air raids by government forces
 
 ##### Wall Street
@@ -49,7 +49,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Michel Barnier, Brexit negotiations, Prime Minister, European Union, United Kingdom, Secretary of State for Exiting the European Union, Brexit, Theresa May, David Davis, London_
+_Context: London, Brexit, Michel Barnier, Secretary of State for Exiting the European Union, Brexit negotiations, Prime Minister, United Kingdom, David Davis, European Union, Theresa May_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -97,11 +97,11 @@ Ecuadoreans on Sunday vote in a referendum on whether to prevent unlimited presi
 
 ##### Politics of Yemen
 ### [2011 Nobel Peace Prize co-winner Tawakkol Karman is ordered suspended from the Islah party's ranks after she likened the Saudi-led intervention in Yemen to "reckless adventurism" and "ugly occupation". ](/news/2018/02/4/2011-nobel-peace-prize-co-winner-tawakkol-karman-is-ordered-suspended-from-the-islah-party-s-ranks-after-she-likened-the-saudi-led-intervent.md)
-_Context: Nobel Peace Prize, Saudi-led intervention in Yemen, Islah, Politics of Yemen, Tawakkol Karman_
+_Context: Islah, Tawakkol Karman, Nobel Peace Prize, Saudi-led intervention in Yemen, Politics of Yemen_
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Cabinet of Greece, Republic of Macedonia, Macedonia naming dispute, Athens_
+_Context: Cabinet of Greece, Athens, Macedonia naming dispute, Republic of Macedonia_
 
 ##### Weinstein effect
 ### [Robert Doyle resigns as Lord Mayor of Melbourne after allegations of sexual misconduct were made against him. Melbourne City Council is investigating the allegations. ](/news/2018/02/4/robert-doyle-resigns-as-lord-mayor-of-melbourne-after-allegations-of-sexual-misconduct-were-made-against-him-melbourne-city-council-is-inve.md)

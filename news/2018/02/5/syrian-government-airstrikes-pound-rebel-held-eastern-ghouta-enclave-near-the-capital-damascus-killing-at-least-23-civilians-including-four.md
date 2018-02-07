@@ -15,6 +15,11 @@ Syrian Observatory for Human Rights says 4 children among dead after &#039;dozen
 2. [Times of Israel](https://www.timesofisrael.com/syria-strikes-said-to-kill-23-civilians-in-rebel-area-near-damascus/)
 2. [Cover Image](https://static.timesofisrael.com/www/uploads/2018/02/000_YI5DW-1024x640.jpg)
 
+### Changes:
+
+1. [Syrian government airstrikes pound downtown on rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-downtown-on-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-in.md) _2018-02-06 23:30:11 (First version)_
+1. [Syrian government airstrikes pound rebel-held Eastern Ghouta enclave near the capital Damascus, killing at least 23 civilians including four children. ](/news/2018/02/5/syrian-government-airstrikes-pound-rebel-held-eastern-ghouta-enclave-near-the-capital-damascus-killing-at-least-23-civilians-including-four.md) _(Current version)_
+
 ### Related:
 
 1. [A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. ](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-convoy-brings-food-and-medical-aid-to-40-000-people-on-the-verge-of-starvation-in-the-towns.md) _Context: Damascus, Ghouta, Syrian Civil War_

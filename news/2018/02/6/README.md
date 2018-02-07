@@ -20,8 +20,8 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
 ##### Falcon Heavy Demonstration Mission
-### [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of Mars for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md)
-_Context: SpaceX, Falcon Heavy Demonstration Mission, Space Oddity, Elon Musk's Tesla Roadster, elliptic orbit, Mars, Falcon Heavy_
+### [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md)
+_Context: Falcon Heavy Demonstration Mission, elliptic orbit, SpaceX, Falcon Heavy, Mars, Space Oddity, Elon Musk's Tesla Roadster_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated regions where the most of ozone depletion occured. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-recovering-only-over-less-populated-region.md)
