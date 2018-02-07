@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-e
 
 ### [2018-02-6](/news/2018/02/6/index.md)
 
-##### magnitude
+##### 2018 Hualien earthquake
 # Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. 
 
 Two people have been killed and more than 100 are injured after two earthquakes struck Taiwan. The island&#039;s Premier, William Lai, confirmed 114 people had sustained &quot;light or severe injuries&quot; and others were reportedly trapped inside collapsed buildings. 

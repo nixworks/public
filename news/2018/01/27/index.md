@@ -13,7 +13,7 @@ Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x
 
 ##### Energy in Europe
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
-_Context: Rex Tillerson, Nord Stream 2, energy security, United States Secretary of State, Poland, Energy in Europe_
+_Context: energy security, Poland, Rex Tillerson, Energy in Europe, Nord Stream 2, United States Secretary of State_
 
 ##### Paris
 ### [Riverside homes and businesses in Paris are on high alert as the swollen River Seine threatens to overflow its banks. ](/news/2018/01/27/riverside-homes-and-businesses-in-paris-are-on-high-alert-as-the-swollen-river-seine-threatens-to-overflow-its-banks.md)
@@ -24,7 +24,7 @@ The River Seine has burst its banks in places, and is expected to reach its peak
 Fighting raged in northwestern Syria Saturday as Turkish troops and allied militiamen tried to advance their week-long offensive in a Kurdish-controlled enclave, Syrian opposition activists said.
 
 ##### Weinstein effect
-### [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
+### [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as Republican National Committee finance chairman following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md)
 Wynn has been a prolific Republican donor and has led fundraising efforts for President Trump 
 
 ##### Czech presidential election, 2018
