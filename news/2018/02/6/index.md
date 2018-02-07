@@ -16,7 +16,7 @@ Mr. Wynn, a billionaire casino mogul, stepped down on Tuesday as chief executive
 Turkey has so far detained 573 people for social media posts and protests criticizing its military offensive in Syria, the government said on Monday.
 
 ##### Politics of the Maldives
-### [Former President of the Maldives Mohamed Nasheed has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-has-called-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the.md)
+### [Former President of the Maldives Mohamed Nasheed calls from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asks India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-calls-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the-islan.md)
 Mohamed Nasheed asks for India to help release political prisoners amid a worsening crisis.
 
 ##### Amendment to the Act on the Institute of National Remembrance
@@ -29,7 +29,7 @@ Jack Sargeant is elected to the Welsh Assembly, three months after his father wa
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: elliptic orbit, Falcon Heavy, Space Oddity, SpaceX, Mars, Falcon Heavy Demonstration Mission, Elon Musk's Tesla Roadster_
+_Context: elliptic orbit, SpaceX, Falcon Heavy, Falcon Heavy Demonstration Mission, Mars, Space Oddity, Elon Musk's Tesla Roadster_
 
 ##### ozone layer
 ### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-recovering-only-over-less-populated-areas.md)
