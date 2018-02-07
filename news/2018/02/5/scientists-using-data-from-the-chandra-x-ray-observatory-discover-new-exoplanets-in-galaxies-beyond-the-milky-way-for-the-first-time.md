@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/5/scientists-using-data-from-the-chandra-x-ray-obs
 
 ### [2018-02-5](/news/2018/02/5/index.md)
 
-##### Chandra X-ray Observatory
+##### Discoveries of exoplanets
 # Scientists using data from the Chandra X-ray Observatory discover new exoplanets in galaxies beyond the Milky Way for the first time. 
 
 A new study gives the first evidence that exoplanets exist beyond the Milky Way.

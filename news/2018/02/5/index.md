@@ -17,7 +17,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Secretary of State for Exiting the European Union, Michel Barnier, Theresa May, Brexit negotiations, David Davis, European Union, Brexit, London, Prime Minister, United Kingdom_
+_Context: United Kingdom, Michel Barnier, Prime Minister, Theresa May, Secretary of State for Exiting the European Union, David Davis, Brexit, Brexit negotiations, European Union, London_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -31,7 +31,7 @@ Esmond Bradley Martin, whose groundbreaking investigations helped the fight agai
 ### [The President of the Maldives, Abdulla Yameen, declares a 15-day state of emergency. Security forces storm the Supreme Court of the Maldives in a bid to block the court-ordered release of jailed opposition politicians. Police arrest former President Maumoon Abdul Gayoom. ](/news/2018/02/5/the-president-of-the-maldives-abdulla-yameen-declares-a-15-day-state-of-emergency-security-forces-storm-the-supreme-court-of-the-maldives.md)
 Maumoon Abdul Gayoom is seized at his home as a political crisis grips the island nation.
 
-##### Chandra X-ray Observatory
+##### Discoveries of exoplanets
 ### [Scientists using data from the Chandra X-ray Observatory discover new exoplanets in galaxies beyond the Milky Way for the first time. ](/news/2018/02/5/scientists-using-data-from-the-chandra-x-ray-observatory-discover-new-exoplanets-in-galaxies-beyond-the-milky-way-for-the-first-time.md)
 A new study gives the first evidence that exoplanets exist beyond the Milky Way.
 

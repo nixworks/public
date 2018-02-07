@@ -7,6 +7,10 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
 Macedonia is ready to add a geographical qualifier to its name to help resolve a dispute with Greece that has held up its prospects of joining the European Union and NATO, Prime Minister Zoran Zaev said on Tuesday.
 
+##### Prehistoric Britain
+### [The DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-britain-had-blue-eyes-and-dark-skin-the-name-cheddar-man-was.md)
+_Context: Prehistoric Britain, Great Britain, Cheddar Man_
+
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
 Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
@@ -16,7 +20,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/02/6/index.md)
 
 ##### 2018 Hualien earthquake
-### [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-2-people-are-killed-and-over-100-are.md)
+### [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-7-people-are-killed-and-over-250-are.md)
 Two people have been killed and more than 100 are injured after two earthquakes struck Taiwan. The island&#039;s Premier, William Lai, confirmed 114 people had sustained &quot;light or severe injuries&quot; and others were reportedly trapped inside collapsed buildings. 
 
 ##### Weinstein effect
@@ -35,16 +39,12 @@ Mohamed Nasheed asks for India to help release political prisoners amid a worsen
 ### [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the Holocaust during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md)
 Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
 
-##### Alyn and Deeside by-election, 2018
-### [Jack Sargeant was elected as the new Assembly Member for the Welsh Assembly constituency of Alyn and Deeside, which was vacated after the death of his father, Carl Sargeant, in November 2017. There was a 5.3% swing to Labour from the Conservatives. ](/news/2018/02/6/jack-sargeant-was-elected-as-the-new-assembly-member-for-the-welsh-assembly-constituency-of-alyn-and-deeside-which-was-vacated-after-the-de.md)
-Jack Sargeant is elected to the Welsh Assembly, three months after his father was found dead.
-
 ##### Falcon Heavy Demonstration Mission
-### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Space Oddity" by David Bowie, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: Falcon Heavy Demonstration Mission, Mars, Elon Musk's Tesla Roadster, Space Oddity, SpaceX, David Bowie, elliptic orbit, Falcon Heavy_
+### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Space Oddity" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
+_Context: elliptic orbit, SpaceX, Space Oddity, Elon Musk's Tesla Roadster, Mars, Falcon Heavy Demonstration Mission, Falcon Heavy, David Bowie_
 
-##### ozone layer
-### [Scientists warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-warn-that-the-ozone-layer-that-protects-people-from-the-sun-s-ultraviolet-radiation-is-recovering-only-over-less-populated-areas.md)
+##### Ozone depletion
+### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
 While the hole over Antarctica has been closing, the protective ozone is thinning at the lower latitudes, where the sunlight is stronger and billions of people live
 
 ---
@@ -65,7 +65,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Secretary of State for Exiting the European Union, Michel Barnier, Theresa May, Brexit negotiations, David Davis, European Union, Brexit, London, Prime Minister, United Kingdom_
+_Context: United Kingdom, Michel Barnier, Prime Minister, Theresa May, Secretary of State for Exiting the European Union, David Davis, Brexit, Brexit negotiations, European Union, London_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
@@ -79,7 +79,7 @@ Esmond Bradley Martin, whose groundbreaking investigations helped the fight agai
 ### [The President of the Maldives, Abdulla Yameen, declares a 15-day state of emergency. Security forces storm the Supreme Court of the Maldives in a bid to block the court-ordered release of jailed opposition politicians. Police arrest former President Maumoon Abdul Gayoom. ](/news/2018/02/5/the-president-of-the-maldives-abdulla-yameen-declares-a-15-day-state-of-emergency-security-forces-storm-the-supreme-court-of-the-maldives.md)
 Maumoon Abdul Gayoom is seized at his home as a political crisis grips the island nation.
 
-##### Chandra X-ray Observatory
+##### Discoveries of exoplanets
 ### [Scientists using data from the Chandra X-ray Observatory discover new exoplanets in galaxies beyond the Milky Way for the first time. ](/news/2018/02/5/scientists-using-data-from-the-chandra-x-ray-observatory-discover-new-exoplanets-in-galaxies-beyond-the-milky-way-for-the-first-time.md)
 A new study gives the first evidence that exoplanets exist beyond the Milky Way.
 
