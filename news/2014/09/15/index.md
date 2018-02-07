@@ -13,7 +13,7 @@ _Context: $, Cognizant_
 
 ##### Microsoft
 ### [Microsoft agrees to buy Swedish company Mojang, the makers of Minecraft, for US$2.5 billion. ](/news/2014/09/15/microsoft-agrees-to-buy-swedish-company-mojang-the-makers-of-minecraft-for-us-2-5-billion.md)
-_Context: Mojang, Minecraft, Swede, Microsoft_
+_Context: Mojang, Microsoft, Swede, Minecraft_
 
 ##### giant white rabbit
 ### [An accidental fire severely burns a giant white rabbit erected by Dutch artist Florentijn Hofman in Taoyuan, Taiwan. ](/news/2014/09/15/an-accidental-fire-severely-burns-a-giant-white-rabbit-erected-by-dutch-artist-florentijn-hofman-in-taoyuan-taiwan.md)
@@ -29,11 +29,11 @@ _Context: Bass Lake, California_
 
 ##### Ewa Kopacz
 ### [Ewa Kopacz becomes Poland's second female prime minister. ](/news/2014/09/15/ewa-kopacz-becomes-poland-s-second-female-prime-minister.md)
-_Context: Poland, Ewa Kopacz, prime minister_
+_Context: prime minister, Poland, Ewa Kopacz_
 
 ##### Swedish Minister of Finance
 ### [Swedish Minister of Finance Anders Borg quits politics after he was considered to be the next leader of the Moderate Party, which he did not want. ](/news/2014/09/15/swedish-minister-of-finance-anders-borg-quits-politics-after-he-was-considered-to-be-the-next-leader-of-the-moderate-party-which-he-did-not.md)
-_Context: Moderate Party, Swedish Minister of Finance, Anders Borg_
+_Context: Anders Borg, Moderate Party, Swedish Minister of Finance_
 
 ## [Previous Day...](/news/2014/09/14/index.md)
 

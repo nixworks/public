@@ -5,15 +5,15 @@ Formats: [HTML](2004/04/12/index.html)  [JSON](2004/04/12/index.json)  [XML](200
 
 ##### Lieutenant General
 ### [ Lieutenant General Ricardo S. Sanchez states that the mission of the U.S. forces is to kill or capture Muqtada al-Sadr. ](/news/2004/04/12/lieutenant-general-ricardo-s-sanchez-states-that-the-mission-of-the-u-s-forces-is-to-kill-or-capture-muqtada-al-sadr.md)
-_Context: Muqtada al-Sadr, Lieutenant General, Ricardo S. Sanchez_
+_Context: Ricardo S. Sanchez, Muqtada al-Sadr, Lieutenant General_
 
 ##### Argentina
 ### [ Argentine president Nstor Kirchner spends his fourth day in hospital for a bleeding peptic ulcer. ](/news/2004/04/12/argentine-president-nestor-kirchner-spends-his-fourth-day-in-hospital-for-a-bleeding-peptic-ulcer.md)
-_Context: Nstor Kirchner, peptic ulcer, Argentina_
+_Context: Argentina, Nstor Kirchner, peptic ulcer_
 
 ##### Pakistan
 ### [ Pakistani opposition leader Javed Hashmi, president of the Alliance for Restoration of Democracy is sentenced to 23 years in prison for inciting mutiny and sedition in the armed forces. He distributed a letter critical of Pakistani president Pervez Musharraf. ](/news/2004/04/12/pakistani-opposition-leader-javed-hashmi-president-of-the-alliance-for-restoration-of-democracy-is-sentenced-to-23-years-in-prison-for-inc.md)
-_Context: Javed Hashmi, Pakistan, Alliance for Restoration of Democracy, armed force, sedition, mutinous soldiers, Pervez Musharraf_
+_Context: Javed Hashmi, Pervez Musharraf, mutinous soldiers, Pakistan, armed force, sedition, Alliance for Restoration of Democracy_
 
 ##### seal
 ### [ Canada starts its largest seal hunt in 50 years. ](/news/2004/04/12/canada-starts-its-largest-seal-hunt-in-50-years.md)

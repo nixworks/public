@@ -9,7 +9,7 @@ _Context: Athens_
 
 ##### bomb explodes
 ### [A bomb explodes in the Nigerian capital Abuja, killing four people. ](/news/2010/12/31/a-bomb-explodes-in-the-nigerian-capital-abuja-killing-four-people.md)
-_Context: Abuja, bomb explodes, Nigeria_
+_Context: Abuja, Nigeria, bomb explodes_
 
 ##### Tunisia
 ### [A protestor dies of his injuries in Tunisia as protests continue across the country over unemployment and poor living conditions. ](/news/2010/12/31/a-protestor-dies-of-his-injuries-in-tunisia-as-protests-continue-across-the-country-over-unemployment-and-poor-living-conditions.md)
@@ -21,15 +21,15 @@ Singer Annie Lennox is recognised in the New Year Honours, along with actors Dav
 
 ##### Estonia
 ### [Estonia, one of the Baltic republics of the former Soviet Union, adopts the euro as its official currency, becoming the 17th country to do so. ](/news/2010/12/31/estonia-one-of-the-baltic-republics-of-the-former-soviet-union-adopts-the-euro-as-its-official-currency-becoming-the-17th-country-to-do-s.md)
-_Context: euro, Estonia, Soviet_
+_Context: euro, Soviet, Estonia_
 
 ##### Tibetan writers
 ### [Three Tibetan writers, detained earlier this year by Chinese authorities, are sentenced to jail terms of three to four years for "inciting activities to split the nation" ](/news/2010/12/31/three-tibetan-writers-detained-earlier-this-year-by-chinese-authorities-are-sentenced-to-jail-terms-of-three-to-four-years-for-inciting-a.md)
-_Context: Tibetan writers, Chinese police_
+_Context: Chinese police, Tibetan writers_
 
 ##### Ikililou Dhoinine
 ### [Ikililou Dhoinine is elected President of the Comoros, defeating rival Mohamed Said Fazul with 61% of the vote. ](/news/2010/12/31/ikililou-dhoinine-is-elected-president-of-the-comoros-defeating-rival-mohamed-said-fazul-with-61-of-the-vote.md)
-_Context: Mohamed Said Fazul, President of the, elected, Ikililou Dhoinine, Comoros_
+_Context: President of the, elected, Comoros, Ikililou Dhoinine, Mohamed Said Fazul_
 
 ##### Foreign Minister
 ### [After an official protest by German Foreign Minister, Guido Westerwelle, Iran allows access to two journalists arrested in mid-October for interviewing family members of Sakineh Mohammadi Ashtiani, sentenced to death by stoning for alleged adultery. ](/news/2010/12/31/after-an-official-protest-by-german-foreign-minister-guido-westerwelle-iran-allows-access-to-two-journalists-arrested-in-mid-october-for-i.md)

@@ -17,7 +17,7 @@ The BPO firm says the video was outsourced to another agency
 
 ##### Fiji First Party
 ### [The Fiji First Party led by Voreqe Bainimarama wins 32 out of 50 seats in the Parliament in last week's general election. ](/news/2014/09/22/the-fiji-first-party-led-by-voreqe-bainimarama-wins-32-out-of-50-seats-in-the-parliament-in-last-week-s-general-election.md)
-_Context: democratic elections, Parliament, Fiji First Party, Voreqe Bainimarama_
+_Context: democratic elections, Fiji First Party, Parliament, Voreqe Bainimarama_
 
 ##### Hong Kong
 ### [Students from more than 20 universities and colleges in Hong Kong are boycotting class in protest against Beijing's decision to rule out fully democratic elections. ](/news/2014/09/22/students-from-more-than-20-universities-and-colleges-in-hong-kong-are-boycotting-class-in-protest-against-beijingas-decision-to-rule-out-f.md)
@@ -25,7 +25,7 @@ Week-long boycott of classes in protest against Beijing’s decision to rule out
 
 ##### NASA
 ### [NASA's MAVEN space probe successfully arrives in orbit over Mars. ](/news/2014/09/22/nasa-s-maven-space-probe-successfully-arrives-in-orbit-over-mars.md)
-_Context: MAVEN, Mars, NASA_
+_Context: Mars, NASA, MAVEN_
 
 ## [Previous Day...](/news/2014/09/21/index.md)
 

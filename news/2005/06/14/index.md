@@ -21,27 +21,27 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: 22 people have died following a suicide bombing in Kirkuk, northern Iraq. ](/news/2005/06/14/conflict-in-iraq-22-people-have-died-following-a-suicide-bombing-in-kirkuk-northern-iraq.md)
-_Context: suicide bomb, Conflict in Iraq, Kirkuk, Iraq_
+_Context: suicide bomb, Kirkuk, Iraq, Conflict in Iraq_
 
 ##### George Best
 ### [ George Best, the former Manchester United star from Northern Ireland, has been arrested and bailed on suspicion of indecently assaulting a young girl. ](/news/2005/06/14/george-best-the-former-manchester-united-star-from-northern-ireland-has-been-arrested-and-bailed-on-suspicion-of-indecently-assaulting-a.md)
-_Context: arrest, Northern Ireland, indecently assaulting, George Best, Manchester United_
+_Context: indecently assaulting, George Best, arrest, Northern Ireland, Manchester United_
 
 ##### Sudan
 ### [ Sudan rejects the UN's decision to use the International Criminal Court to try criminals in relation to the atrocities of the Darfur conflict, and instead opens its own recently-created special court. ](/news/2005/06/14/sudan-rejects-the-un-s-decision-to-use-the-international-criminal-court-to-try-criminals-in-relation-to-the-atrocities-of-the-darfur-confli.md)
-_Context: UN, ICC, Darfur conflict, Sudan_
+_Context: UN, Sudan, Darfur conflict, ICC_
 
 ##### The Irish Times
 ### [ A TNS-MRBI Irish Times opinion poll predicts that Ireland, previously seen as certain to vote "yes", is likely to vote "no" in its planned referendum on the European Constitution. Only 30% of voters indicated that they would vote for the constitution, the lowest level in any country in the European Union to date. ](/news/2005/06/14/a-tns-mrbi-irish-times-opinion-poll-predicts-that-ireland-previously-seen-as-certain-to-vote-yes-is-likely-to-vote-no-in-its-planned.md)
-_Context: EU Constitution, The Irish Times, European Union, Ireland, referendum, opinion poll_
+_Context: Ireland, referendum, The Irish Times, opinion poll, EU Constitution, European Union_
 
 ##### Mission: SPACE
 ### [ A four-year-old boy is reported dead shortly after losing consciousness while riding Mission: SPACE at Walt Disney World's Epcot. ](/news/2005/06/14/a-four-year-old-boy-is-reported-dead-shortly-after-losing-consciousness-while-riding-mission-space-at-walt-disney-world-s-epcot.md)
-_Context: Walt Disney World, Mission: SPACE, Epcot_
+_Context: Epcot, Walt Disney World, Mission: SPACE_
 
 ##### Washington Post
 ### [ According to "Washington Post", US and Russian defense officials blocked NATO demand of investigation into crackdown of unrest in Uzbekistan ](/news/2005/06/14/according-to-washington-post-us-and-russian-defense-officials-blocked-nato-demand-of-investigation-into-crackdown-of-unrest-in-uzbekista.md)
-_Context: Russia, Washington Post, Uzbekistan, NATO, United States_
+_Context: Washington Post, NATO, Uzbekistan, Russia, United States_
 
 ##### Indonesia
 ### [ In Indonesia, lawyers of Schapelle Corby file appeal in Bali court ](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.md)

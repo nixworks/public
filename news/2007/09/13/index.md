@@ -9,35 +9,35 @@ _Context: Miami_
 
 ##### Google
 ### [ Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. ](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.md)
-_Context: moon, gigabyte, Google, earth, $, spaceflight_
+_Context: Google, earth, $, spaceflight, gigabyte, moon_
 
 ##### 2007
 ### [ 2007 Atlantic hurricane season: Tropical Storm Ingrid forms in the Atlantic Ocean 800 miles from the outer Caribbean islands. ](/news/2007/09/13/2007-atlantic-hurricane-season-tropical-storm-ingrid-forms-in-the-atlantic-ocean-800-miles-from-the-outer-caribbean-islands.md)
-_Context: 2007, Atlantic Ocean, Caribbean_
+_Context: Caribbean, Atlantic Ocean, 2007_
 
 ##### Ethiopia
 ### [ Ethiopia will deploy 5,000 troops as part of a joint United Nations - African Union mission in the Darfur region of Sudan. ](/news/2007/09/13/ethiopia-will-deploy-5-000-troops-as-part-of-a-joint-united-nations-african-union-mission-in-the-darfur-region-of-sudan.md)
-_Context: Ethiopia, United Nations, African Union, Darfur, Sudan_
+_Context: African Union, Darfur, Ethiopia, United Nations, Sudan_
 
 ##### United Nations General Assembly
 ### [ After deliberating for 22 years, the United Nations General Assembly adopts the non-binding Declaration on the Rights of Indigenous Peoples; 143 countries vote in favour, while 11 abstain and Australia, Canada, New Zealand and the United States vote against. ](/news/2007/09/13/after-deliberating-for-22-years-the-united-nations-general-assembly-adopts-the-non-binding-declaration-on-the-rights-of-indigenous-peoples.md)
-_Context: Australia, United States, United Nations General Assembly, New Zealand, Canadian, Declaration on the Rights of Indigenous Peoples_
+_Context: United States, United Nations General Assembly, Australia, New Zealand, Canadian, Declaration on the Rights of Indigenous Peoples_
 
 ##### Pakistani troops
 ### [ At least fifteen Pakistani Army soldiers die in a bombing at their mess at the Terbella Ghazi base north of Islamabad. ](/news/2007/09/13/at-least-fifteen-pakistani-army-soldiers-die-in-a-bombing-at-their-mess-at-the-terbella-ghazi-base-north-of-islamabad.md)
-_Context: Terbella Ghazi, Pakistani troops, Islamabad_
+_Context: Terbella Ghazi, Islamabad, Pakistani troops_
 
 ##### 2007 Formula One Season
 ### [ 2007 Formula One Season: The Fdration Internationale de l'Automobile (FIA) fines the McLaren Formula One team $US100 million and removes all its points in the Constructors' Championship. ](/news/2007/09/13/2007-formula-one-season-the-federation-internationale-de-l-automobile-fia-fines-the-mclaren-formula-one-team-us100-million-and-removes.md)
-_Context: McLaren, Fdration Internationale de l'Automobile, 2007 Formula One Season, $, Formula One, Constructors' Championship_
+_Context: $, Formula One, 2007 Formula One Season, Constructors' Championship, McLaren, Fdration Internationale de l'Automobile_
 
 ##### Alexis Debat
 ### [ Alexis Debat, a consultant for ABC News and writer at "The National Interest", alleged expert on terrorism, is forced to resign after "Rue 89" revealed that he made two bogus interviews, one with Barack Obama and another with Alan Greenspan. ](/news/2007/09/13/alexis-debat-a-consultant-for-abc-news-and-writer-at-the-national-interest-alleged-expert-on-terrorism-is-forced-to-resign-after-rue.md)
-_Context: Rue 89, Barack Obama, ABC News, The National Interest, Alexis Debat, Alan Greenspan, terrorism_
+_Context: Alexis Debat, Rue 89, ABC News, Barack Obama, Alan Greenspan, terrorism, The National Interest_
 
 ##### Rita Verdonk
 ### [ Rita Verdonk, a controversial and popular Dutch politician, is expelled from the VVD. ](/news/2007/09/13/rita-verdonk-a-controversial-and-popular-dutch-politician-is-expelled-from-the-vvd.md)
-_Context: Rita Verdonk, VVD, Netherlands_
+_Context: Netherlands, Rita Verdonk, VVD_
 
 ##### Sheikh Sittar
 ### [ A key US ally, Sheikh Sittar, is killed by a bomb. ](/news/2007/09/13/a-key-us-ally-sheikh-sittar-is-killed-by-a-bomb.md)
@@ -45,7 +45,7 @@ _Context: Sheikh Sittar_
 
 ##### Hurricane Humberto
 ### [ Hurricane Humberto makes landfall on the southeast Texas coast near the Louisiana border. ](/news/2007/09/13/hurricane-humberto-makes-landfall-on-the-southeast-texas-coast-near-the-louisiana-border.md)
-_Context: Hurricane Humberto, Louisiana, Texas_
+_Context: Texas, Hurricane Humberto, Louisiana_
 
 ##### Shinzo Abe
 ### [ Shinzo Abe is hospitalised the day after his resignation. ](/news/2007/09/13/shinzo-abe-is-hospitalised-the-day-after-his-resignation.md)

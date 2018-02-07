@@ -17,7 +17,7 @@ _Context: Quiznos_
 
 ##### Mumbai
 ### [A 7-story building in Mumbai, India, collapses, killing 7 people and injuring 4. ](/news/2014/03/14/a-7-story-building-in-mumbai-india-collapses-killing-7-people-and-injuring-4.md)
-_Context: Mumbai, India_
+_Context: India, Mumbai_
 
 ##### explosion
 ### [Rescue crew continue to search for victims in the explosion in the New York City neighborhood of East Harlem, which killed 8 and injured more than 70. ](/news/2014/03/14/rescue-crew-continue-to-search-for-victims-in-the-explosion-in-the-new-york-city-neighborhood-of-east-harlem-which-killed-8-and-injured-mor.md)
@@ -33,7 +33,7 @@ Move comes after revelations about National Security Agency surveillance
 
 ##### Joko Widodo
 ### [Joko Widodo is chosen as the nominee for the Indonesian Democratic Party - Struggle for the upcoming presidential election. ](/news/2014/03/14/joko-widodo-is-chosen-as-the-nominee-for-the-indonesian-democratic-party-a-struggle-for-the-upcoming-presidential-election.md)
-_Context: Joko Widodo, is now president, PDIP_
+_Context: is now president, PDIP, Joko Widodo_
 
 ##### United States Secretary of State
 ### [United States Secretary of State John Kerry and Russian Foreign Affairs Minister Sergey Lavrov meet in London, United Kingdom, to discuss the current Crimean crisis. ](/news/2014/03/14/united-states-secretary-of-state-john-kerry-and-russian-foreign-affairs-minister-sergey-lavrov-meet-in-london-united-kingdom-to-discuss-th.md)

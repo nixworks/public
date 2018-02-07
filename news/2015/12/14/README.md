@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/14/index.html)  [JSON](2015/12/14/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015)
 ### [Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. ](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.md)
-_Context: United Arab Emirates, Yemen, Sudanese military, Taiz, Yemeni Civil War (2015), Yemeni, OTR-21 Tochka, Saudi, Houthi, Saudi-led intervention in Yemen, Saudi Arabia, forces_
+_Context: Yemen, Yemeni Civil War (2015), Saudi, Taiz, forces, Houthi, Saudi Arabia, Saudi-led intervention in Yemen, OTR-21 Tochka, United Arab Emirates, Yemeni, Sudanese military_
 
 ##### Flight 9268
 ### [Egypt's Civil Aviation Ministry reports their investigation of the 31 October 2015 deadly crash of Russian Metrojet Flight 9268 in the Sinai has not found any evidence of terrorism. Prior to this, the working assumption has been that plane was brought down by a bomb, and a group affiliated with ISIL said it was responsible. ](/news/2015/12/14/egypt-s-civil-aviation-ministry-reports-their-investigation-of-the-31-october-2015-deadly-crash-of-russian-metrojet-flight-9268-in-the-sinai.md)
@@ -21,7 +21,7 @@ Syrian government forces have regained control of a military airbase on the east
 
 ##### 2015 PKK rebellion
 ### [At least seven people are killed in clashes between Turkish security forces and Kurdish protesters across southeast Turkey, as Turkish authorities declare new curfews across the restive region. According to the Human Rights Foundation of Turkey, 52 curfews have been imposed since mid-August by Turkish authorities across seven Turkish provinces in the region, placing around 1.3 million people under curfew. ](/news/2015/12/14/at-least-seven-people-are-killed-in-clashes-between-turkish-security-forces-and-kurdish-protesters-across-southeast-turkey-as-turkish-autho.md)
-_Context: Human Rights Foundation of Turkey, 2015 PKK rebellion, Turkish provinces, Turkey, Kurds_
+_Context: Kurds, 2015 PKK rebellion, Turkish provinces, Turkey, Human Rights Foundation of Turkey_
 
 ##### Federal Reserve System
 ### [Oil price reached its lowest since December 2008. Other indicators in broader markets caused investor jitters ahead of the expected interest rate hike by the U.S. central bank on Wednesday. ](/news/2015/12/14/oil-price-reached-its-lowest-since-december-2008-other-indicators-in-broader-markets-caused-investor-jitters-ahead-of-the-expected-interest.md)
@@ -49,7 +49,7 @@ Michigan city asks for more federal help while it deals with the fallout from wa
 
 ##### Australia
 ### [An Australian court orders British consumer goods company Reckitt Benckiser to stop selling several versions of the popular painkiller, Nurofen, that were identical to its standard ibuprofen pills but nearly twice as expensive. ](/news/2015/12/14/an-australian-court-orders-british-consumer-goods-company-reckitt-benckiser-to-stop-selling-several-versions-of-the-popular-painkiller-nuro.md)
-_Context: Nurofen, Australia, ibuprofen, Reckitt Benckiser, pain medications, Great Britain_
+_Context: Australia, ibuprofen, Great Britain, pain medications, Reckitt Benckiser, Nurofen_
 
 ##### United States soldier
 ### [United States Army sergeant Bowe Bergdahl will face a court martial on charges of misbehavior before the enemy and desertion related to his capture by the Taliban-aligned Haqqani network in Afghanistan in June 2009. ](/news/2015/12/14/united-states-army-sergeant-bowe-bergdahl-will-face-a-court-martial-on-charges-of-misbehavior-before-the-enemy-and-desertion-related-to-his.md)
@@ -61,7 +61,7 @@ Muhuammad Abu Kaf of East Jerusalem was indicted on 8 counts of incitement to vi
 
 ##### Geminids
 ### [The Geminids meteor shower is visible tonight. ](/news/2015/12/14/the-geminids-meteor-shower-is-visible-tonight.md)
-_Context: meteor shower, Geminids_
+_Context: Geminids, meteor shower_
 
 ## [Previous Day...](/news/2015/12/13/index.md)
 

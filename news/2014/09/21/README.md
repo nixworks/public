@@ -25,7 +25,7 @@ Authorities in Sierra Leone say a three-day curfew aimed at containing the Ebola
 
 ##### Moscow
 ### [More than 26,000 people in Moscow participate in the largest demonstration so far against Russian president Vladimir Putin and the War in Donbass. ](/news/2014/09/21/more-than-26-000-people-in-moscow-participate-in-the-largest-demonstration-so-far-against-russian-president-vladimir-putin-and-the-war-in-do.md)
-_Context: War in Donbass, Moscow, Vladimir Putin, largest demonstration_
+_Context: largest demonstration, Vladimir Putin, War in Donbass, Moscow_
 
 ##### War in Donbass
 ### [Rallies in support of Ukraine and against the War in Donbass take place in Boston, New York, Sydney, Dublin, Madrid, London, Paris, Oslo, Tallinn, Limassol, Istanbul, Antalya, Cologne, Milan, Rome, Vienna, Munich, Prague, Berlin, Moscow, Volgograd, Yekaterinburg, Perm, Krasnoyarsk, Novosibirsk, Berlaul and Petropavlovsk-Kamchatsky. ](/news/2014/09/21/rallies-in-support-of-ukraine-and-against-the-war-in-donbass-take-place-in-boston-new-york-sydney-dublin-madrid-london-paris-oslo-ta.md)

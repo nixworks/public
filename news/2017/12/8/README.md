@@ -13,7 +13,7 @@ António Guterres, UN secretary general, described the attack by an Islamist ext
 
 ##### Japan-European Union relations
 ### [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md)
-_Context: European Union, Japan, Japan-European Union relations_
+_Context: Japan-European Union relations, Japan, European Union_
 
 ##### December 2017 Southern California wildfires
 ### [Donald Trump approves California's request for an emergency declaration, allowing the Federal Emergency Management Agency to coordinate disaster relief efforts across five Southern California counties. ](/news/2017/12/8/donald-trump-approves-california-s-request-for-an-emergency-declaration-allowing-the-federal-emergency-management-agency-to-coordinate-disa.md)
@@ -53,7 +53,7 @@ Deputy national security adviser Dina Powell will step down from her position ea
 
 ##### Ukrainian crisis
 ### [Mikheil Saakashvili is arrested again by the National Police of Ukraine. He was on the run since December 5. He has been leading anti-corruption rallies against Petro Poroshenko. ](/news/2017/12/8/mikheil-saakashvili-is-arrested-again-by-the-national-police-of-ukraine-he-was-on-the-run-since-december-5-he-has-been-leading-anti-corrup.md)
-_Context: Petro Poroshenko, Ukrainian crisis, Mikheil Saakashvili, Ukrainian police_
+_Context: Petro Poroshenko, Mikheil Saakashvili, Ukrainian police, Ukrainian crisis_
 
 ## [Previous Day...](/news/2017/12/7/index.md)
 

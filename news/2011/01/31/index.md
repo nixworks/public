@@ -13,11 +13,11 @@ _Context: Sudan_
 
 ##### Nigeria
 ### [Nigerian police say they have foiled a bomb attack at a church in the city of Bauchi, days after deadly clashes between Christian and Muslim youths. ](/news/2011/01/31/nigerian-police-say-they-have-foiled-a-bomb-attack-at-a-church-in-the-city-of-bauchi-days-after-deadly-clashes-between-christian-and-muslim.md)
-_Context: Christian, Bauchi, Nigeria, Muslim_
+_Context: Christian, Bauchi, Muslim, Nigeria_
 
 ##### suicide bomber
 ### [A suicide bomber kills DSP Rashid Khan, a senior local police official in the northwestern Pakistani city of Peshawar, and at least three others. ](/news/2011/01/31/a-suicide-bomber-kills-dsp-rashid-khan-a-senior-local-police-official-in-the-northwestern-pakistani-city-of-peshawar-and-at-least-three-ot.md)
-_Context: Pakistan, Peshawar, suicide bomber_
+_Context: suicide bomber, Pakistan, Peshawar_
 
 ##### Bangladesh
 ### [Police in Bangladesh fire tear gas at 20,000 demonstrators protesting against government plans to build an airport south of the capital Dhaka. A policeman is killed in the incident. ](/news/2011/01/31/police-in-bangladesh-fire-tear-gas-at-20-000-demonstrators-protesting-against-government-plans-to-build-an-airport-south-of-the-capital-dhak.md)
@@ -37,19 +37,19 @@ _Context: Suez Canal, oil_
 
 ##### Johor
 ### [2 people are killed and 29,000 are evacuated following floods in Johor, southern Malaysia. ](/news/2011/01/31/2-people-are-killed-and-29-000-are-evacuated-following-floods-in-johor-southern-malaysia.md)
-_Context: Johor, Malaysia_
+_Context: Malaysia, Johor_
 
 ##### Japanese government
 ### [The Japanese government urges residents living near the Shinmoedake volcano in Kyushu to evacuate as eruptions become worse. ](/news/2011/01/31/the-japanese-government-urges-residents-living-near-the-shinmoedake-volcano-in-kya-sha-to-evacuate-as-eruptions-become-worse.md)
-_Context: Japanese government, Shinmoedake, Kyushu, volcano_
+_Context: Japanese government, Kyushu, Shinmoedake, volcano_
 
 ##### Anna Bligh
 ### [Anna Bligh, the Premier of the Australian state of Queensland warns tens of thousands of people to prepare for evacuation ahead of Cyclone Yasi expected to hit later in the week. ](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.md)
-_Context: Cyclone Yasi, Premier, Queensland, Australia, Anna Bligh_
+_Context: Anna Bligh, Premier, Australia, Cyclone Yasi, Queensland_
 
 ##### European Union
 ### [The European Union and United States impose new sanctions against Belarus President Alexander Lukashenko and close associates. ](/news/2011/01/31/the-european-union-and-united-states-impose-new-sanctions-against-belarus-president-alexander-lukashenko-and-close-associates.md)
-_Context: United States, European Union, Alexander Lukashenko, Belarus_
+_Context: Alexander Lukashenko, Belarus, European Union, United States_
 
 ##### Oman
 ### [Oman says it has uncovered a spy network from the United Arab Emirates operating in the country. ](/news/2011/01/31/oman-says-it-has-uncovered-a-spy-network-from-the-united-arab-emirates-operating-in-the-country.md)
@@ -73,7 +73,7 @@ A judge said the insurance mandate in the health law made it unconstitutional, g
 
 ##### China
 ### [China's state broadcaster China Central Television reportedly uses footage from the 1986 film "Top Gun" as a substitute for its coverage of the country's air force. ](/news/2011/01/31/china-s-state-broadcaster-china-central-television-reportedly-uses-footage-from-the-1986-film-top-gun-as-a-substitute-for-its-coverage-of.md)
-_Context: China Central Television, Top Gun, China_
+_Context: China, Top Gun, China Central Television_
 
 ##### Southern Sudan
 ### [Southern Sudan announces it plans to officially declare independence from Sudan on July 9, 2011. ](/news/2011/01/31/southern-sudan-announces-it-plans-to-officially-declare-independence-from-sudan-on-july-9-2011.md)
@@ -89,7 +89,7 @@ Niger&amp;&#x23;039&#x3B;s&#x20;junta&#x20;leader&#x20;Salou&#x20;Djibo&#x20;cal
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton convenes a mass meeting of United States ambassadors from around the world. ](/news/2011/01/31/the-united-states-secretary-of-state-hillary-clinton-convenes-a-mass-meeting-of-united-states-ambassadors-from-around-the-world.md)
-_Context: ambassadors, Hillary Clinton, United States Secretary of State, United States_
+_Context: Hillary Clinton, United States, United States Secretary of State, ambassadors_
 
 ##### 40th Canadian Parliament
 ### [The 40th Canadian Parliament returns to session amid speculation of an impending election after an extended "holiday break". ](/news/2011/01/31/the-40th-canadian-parliament-returns-to-session-amid-speculation-of-an-impending-election-after-an-extended-holiday-break.md)
@@ -97,7 +97,7 @@ Canadian Prime Minister Stephen Harper will be under pressure from opposition la
 
 ##### Sudan
 ### [The Sudanese government closes down Ahlia University and the Islamic University of Omdurman following an anti-government protest in which at least one student died. ](/news/2011/01/31/the-sudanese-government-closes-down-ahlia-university-and-the-islamic-university-of-omdurman-following-an-anti-government-protest-in-which-at.md)
-_Context: Ahlia University, government, Sudan, Islamic University of Omdurman_
+_Context: Islamic University of Omdurman, government, Sudan, Ahlia University_
 
 ## [Previous Day...](/news/2011/01/30/index.md)
 

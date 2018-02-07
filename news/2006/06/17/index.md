@@ -5,7 +5,7 @@ Formats: [HTML](2006/06/17/index.html)  [JSON](2006/06/17/index.json)  [XML](200
 
 ##### Sri Lanka
 ### [ Violence intensifies in Sri Lanka as government troops allegedly attack Tamils in a church in response to an attack on the navy by the Tamil Tigers. ](/news/2006/06/17/violence-intensifies-in-sri-lanka-as-government-troops-allegedly-attack-tamils-in-a-church-in-response-to-an-attack-on-the-navy-by-the-tami.md)
-_Context: Tamil Tigers, Tamil, Sri Lanka_
+_Context: Tamil Tigers, Sri Lanka, Tamil_
 
 ## [Previous Day...](/news/2006/06/16/index.md)
 

@@ -25,7 +25,7 @@ Scientists working in Ethiopia have uncovered a jawbone fossil which may push th
 
 ##### Microsoft
 ### [Microsoft co-founder Paul Allen and his team of researchers find the "Musashi", one of Japan's biggest and most famous battleships which was sunk by American forces in 1944, on the floor of the Sibuyan Sea. ](/news/2015/03/4/microsoft-co-founder-paul-allen-and-his-team-of-researchers-find-the-musashi-one-of-japan-s-biggest-and-most-famous-battleships-which-was.md)
-_Context: ''Musashi'', Microsoft, Japan, Sibuyan Sea, Paul Allen_
+_Context: Microsoft, Paul Allen, Japan, Sibuyan Sea, ''Musashi''_
 
 ## [Previous Day...](/news/2015/03/3/index.md)
 

@@ -17,7 +17,7 @@ U.S. coal producer Peabody Energy Corp BTUUQ.PK said on Wednesday it is closer t
 
 ##### Iran-United States relations
 ### [Ayatollah Khamenei warns that Iran will retaliate if sanctions that breach the Nuclear Deal are approved. ](/news/2016/11/23/ayatollah-khamenei-warns-that-iran-will-retaliate-if-sanctions-that-breach-the-nuclear-deal-are-approved.md)
-_Context: Iran, Iran-United States relations, Ayatollah Khamenei, Joint Comprehensive Plan of Action_
+_Context: Iran, Ayatollah Khamenei, Iran-United States relations, Joint Comprehensive Plan of Action_
 
 ##### white supremacist
 ### [White supremacist Thomas Mair is found guilty of the murder of British Member of Parliament Jo Cox and is sentenced to life imprisonment with a whole life order. ](/news/2016/11/23/white-supremacist-thomas-mair-is-found-guilty-of-the-murder-of-british-member-of-parliament-jo-cox-and-is-sentenced-to-life-imprisonment-wit.md)
@@ -29,7 +29,7 @@ Serial killer Stephen Port is found guilty of murdering four men he met on datin
 
 ##### Cameroon security forces
 ### [Cameroon security forces arrest about 100 people after days of protests against alleged discrimination against the English-speaking minority. ](/news/2016/11/23/cameroon-security-forces-arrest-about-100-people-after-days-of-protests-against-alleged-discrimination-against-the-english-speaking-minority.md)
-_Context: Cameroon security forces, English_
+_Context: English, Cameroon security forces_
 
 ##### Texas
 ### [A Texas jury awards T. Boone Pickens and his Mesa Petroleum partners $140 million as a result of systemic underpayment of profits and ownership from 160 oil wells in Reeves and Pecos counties. ](/news/2016/11/23/a-texas-jury-awards-t-boone-pickens-and-his-mesa-petroleum-partners-140-million-as-a-result-of-systemic-underpayment-of-profits-and-owners.md)

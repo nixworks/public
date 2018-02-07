@@ -9,11 +9,11 @@ REUTERS - Troops in Myanmar have murdered, tortured and raped civilians since fi
 
 ##### wave of terror attacks
 ### [At least 50 are killed and more than 240 injured in a wave of terror attacks across 10 cities in Iraq. ](/news/2012/03/20/at-least-50-are-killed-and-more-than-240-injured-in-a-wave-of-terror-attacks-across-10-cities-in-iraq.md)
-_Context: wave of terror attacks, Iraq_
+_Context: Iraq, wave of terror attacks_
 
 ##### Somalia
 ### [Militants attack Somalia's presidential palace in Mogadishu for the second night running. ](/news/2012/03/20/militants-attack-somalia-s-presidential-palace-in-mogadishu-for-the-second-night-running.md)
-_Context: Somalia, Villa Somalia, Mogadishu_
+_Context: Villa Somalia, Mogadishu, Somalia_
 
 ##### John Carter
 ### ["John Carter" records one of the biggest losses in cinema history, forcing Disney to take a $200 million writedown. ](/news/2012/03/20/john-carter-records-one-of-the-biggest-losses-in-cinema-history-forcing-disney-to-take-a-200-million-writedown.md)
@@ -29,11 +29,11 @@ _Context: India_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court unanimously rejects two patents held by Prometheus Laboratories, a unit of Nestle S.A., continuing a trend in recent years toward a narrowing of the grounds of patentability. ](/news/2012/03/20/the-u-s-supreme-court-unanimously-rejects-two-patents-held-by-prometheus-laboratories-a-unit-of-nestla-c-s-a-continuing-a-trend-in-recent.md)
-_Context: Supreme Court of the United States, Nestle S.A., Prometheus Laboratories, patent_
+_Context: patent, Nestle S.A., Supreme Court of the United States, Prometheus Laboratories_
 
 ##### 7.4-magnitude earthquake
 ### [A 7.4-magnitude earthquake strikes near the border of the Mexican states of Guerrero and Oaxaca. ](/news/2012/03/20/a-7-4-magnitude-earthquake-strikes-near-the-border-of-the-mexican-states-of-guerrero-and-oaxaca.md)
-_Context: 7.4-magnitude earthquake, Oaxaca, Guerrero, Mexican state_
+_Context: Oaxaca, 7.4-magnitude earthquake, Mexican state, Guerrero_
 
 ##### 
 ### [Record breaking rainfall hits northern New Zealand. ](/news/2012/03/20/record-breaking-rainfall-hits-northern-new-zealand.md)
@@ -45,15 +45,15 @@ At least 15 people die after a train hits a vehicle carrying passengers at a lev
 
 ##### Parliament's
 ### [A Pakistani parliamentary committee calls for an end to NATO drone strikes and an apology for an air strike in November 2011 that killed 24 Pakistani Army soldiers. ](/news/2012/03/20/a-pakistani-parliamentary-committee-calls-for-an-end-to-nato-drone-strikes-and-an-apology-for-an-air-strike-in-november-2011-that-killed-24.md)
-_Context: Pakistani troops, Parliament's, NATO_
+_Context: NATO, Pakistani troops, Parliament's_
 
 ##### Ross Mirkarimi
 ### [Ross Mirkarimi, the head of the Sheriff's Department in the US city of San Francisco is put on probation for three years for false imprisonment of his wife on New Years Eve 2011. ](/news/2012/03/20/ross-mirkarimi-the-head-of-the-sheriff-s-department-in-the-us-city-of-san-francisco-is-put-on-probation-for-three-years-for-false-imprisonm.md)
-_Context: captivity, San Franciscan sheriff deputies, Ross Mirkarimi, New Years Eve, San Francisco, California_
+_Context: Ross Mirkarimi, New Years Eve, San Francisco, California, captivity, San Franciscan sheriff deputies_
 
 ##### China
 ### [Media reports in the People's Republic of China claim that former Chongqing Communist Party boss Bo Xilai interfered in a police investigation into a family member before he was dismissed. ](/news/2012/03/20/media-reports-in-the-people-s-republic-of-china-claim-that-former-chongqing-communist-party-boss-bo-xilai-interfered-in-a-police-investigati.md)
-_Context: Bo Xilai, Chongqing, China, Communist Party of China_
+_Context: Bo Xilai, Communist Party of China, China, Chongqing_
 
 ##### Illinois
 ### [Voters in the US state of Illinois go to the polls for the Republican primary with Mitt Romney projected as the winner.](/news/2012/03/20/voters-in-the-us-state-of-illinois-go-to-the-polls-for-the-republican-primary-with-mitt-romney-projected-as-the-winner.md)

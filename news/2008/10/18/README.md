@@ -5,11 +5,11 @@ Formats: [HTML](2008/10/18/index.html)  [JSON](2008/10/18/index.json)  [XML](200
 
 ##### NASA
 ### [ NASA launches Interstellar Boundary Explorer satellite that will study the edge of solar system. ](/news/2008/10/18/nasa-launches-interstellar-boundary-explorer-satellite-that-will-study-the-edge-of-solar-system.md)
-_Context: NASA, edge, Interstellar Boundary Explorer, solar system_
+_Context: Interstellar Boundary Explorer, NASA, edge, solar system_
 
 ##### China
 ### [ Nine Chinese oil workers and two Sudanese drivers are kidnapped in the province of Kordofan in Sudan. ](/news/2008/10/18/nine-chinese-oil-workers-and-two-sudanese-drivers-are-kidnapped-in-the-province-of-kordofan-in-sudan.md)
-_Context: kidnap, Sudan, Kordofan, China_
+_Context: Kordofan, kidnap, China, Sudan_
 
 ##### United States
 ### [ United States President George W. Bush meets with French President Nicolas Sarkozy and European Commission President Jos Manuel Barroso to discuss a proposal for a summit of world leaders to discuss the current economic crisis. ](/news/2008/10/18/united-states-president-george-w-bush-meets-with-french-president-nicolas-sarkozy-and-european-commission-president-jose-manuel-barroso-to.md)
@@ -21,7 +21,7 @@ _Context: Ingushetia, Russia, Muslim_
 
 ##### amino acid
 ### [ Modern techniques reveal several amino acids in vials left from the 1953 Miller-Urey experiment in addition to those that were detected by Stanley Miller. ](/news/2008/10/18/modern-techniques-reveal-several-amino-acids-in-vials-left-from-the-1953-miller-urey-experiment-in-addition-to-those-that-were-detected-by.md)
-_Context: Miller-Urey experiment, Stanley Miller, 1953, amino acid_
+_Context: 1953, Stanley Miller, Miller-Urey experiment, amino acid_
 
 ## [Previous Day...](/news/2008/10/17/index.md)
 

@@ -25,7 +25,7 @@ Rescuers in Indonesia are trying to reach the site where a Trigana Airlines plan
 
 ##### U.S. Department of Energy
 ### [Experiments at the U.S. Department of Energy's SLAC National Accelerator Laboratory map brain signalling processes at an atomic level, in this case, the SNARE complex (neuronal SNAREs and synaptotagmin-1), which influences the control and release of neurotransmitters.](/news/2015/08/17/experiments-at-the-u-s-department-of-energy-s-slac-national-accelerator-laboratory-map-brain-signalling-processes-at-an-atomic-level-in-th.md)
-_Context: SNARE, synaptotagmin, U.S. Department of Energy, neurotransmitters, SLAC National Accelerator Laboratory_
+_Context: U.S. Department of Energy, SLAC National Accelerator Laboratory, neurotransmitters, SNARE, synaptotagmin_
 
 ##### South Korea
 ### [South Korea and the United States commence a joint military exercise despite threats from North Korea. ](/news/2015/08/17/south-korea-and-the-united-states-commence-a-joint-military-exercise-despite-threats-from-north-korea.md)

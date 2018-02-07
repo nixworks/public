@@ -5,11 +5,11 @@ Formats: [HTML](2008/10/20/index.html)  [JSON](2008/10/20/index.json)  [XML](200
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: The Sri Lankan military reports that they have breached a key defensive line near the Tamil Tiger headquarters in northern Sri Lanka. ](/news/2008/10/20/sri-lankan-civil-war-the-sri-lankan-military-reports-that-they-have-breached-a-key-defensive-line-near-the-tamil-tiger-headquarters-in-nor.md)
-_Context: Tamil Tiger, Sri Lankan military, Sri Lanka, Sri Lankan Civil War_
+_Context: Sri Lankan military, Sri Lanka, Sri Lankan Civil War, Tamil Tiger_
 
 ##### President
 ### [ Former President of Botswana, Festus Mogae is awarded the $5m Mo Ibrahim Foundation Prize for Achievement in African Leadership for 2008. ](/news/2008/10/20/former-president-of-botswana-festus-mogae-is-awarded-the-5m-mo-ibrahim-foundation-prize-for-achievement-in-african-leadership-for-2008.md)
-_Context: President, USD, Mo Ibrahim Foundation, Festus Mogae_
+_Context: Mo Ibrahim Foundation, USD, President, Festus Mogae_
 
 ## [Previous Day...](/news/2008/10/19/index.md)
 

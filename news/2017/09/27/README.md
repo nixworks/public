@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/27/index.html)  [JSON](2017/09/27/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Russian aircraft carry out air strikes on the Christian-majority Qaina and Yaqobia villages, in the western countryside of Idlib, killing a child and injuring 5 others. ](/news/2017/09/27/russian-aircraft-carry-out-air-strikes-on-the-christian-majority-qaina-and-yaqobia-villages-in-the-western-countryside-of-idlib-killing-a.md)
-_Context: Christian, Russia, Syrian Civil War, Idlib_
+_Context: Christian, Russia, Idlib, Syrian Civil War_
 
 ##### Russia and weapons of mass destruction
 ### [Russia announces it has completed the destruction of all of its chemical weapons under the terms of the Chemical Weapons Convention. ](/news/2017/09/27/russia-announces-it-has-completed-the-destruction-of-all-of-its-chemical-weapons-under-the-terms-of-the-chemical-weapons-convention.md)
@@ -13,7 +13,7 @@ Presiding over the weapons’ destruction, President Vladimir V. Putin suggested
 
 ##### 2017 Kalynivka ammunition depot explosion
 ### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
-_Context: Government of Ukraine, 2017 Kalynivka ammunition depot explosion, sabotage, Ukraine, Kiev, Kalynivka_
+_Context: sabotage, Government of Ukraine, 2017 Kalynivka ammunition depot explosion, Ukraine, Kalynivka, Kiev_
 
 ##### Atlantic hurricanes
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)
@@ -53,7 +53,7 @@ California will move its presidential primary from June to March under a bill si
 
 ##### Russian interference in the 2016 United States elections 
 ### [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md)
-_Context: Twitter, House Intelligence Committee, Google, Facebook, Russian interference in the 2016 United States elections , Senate Intelligence Committee_
+_Context: Google, Facebook, House Intelligence Committee, Senate Intelligence Committee, Russian interference in the 2016 United States elections , Twitter_
 
 ## [Previous Day...](/news/2017/09/26/index.md)
 

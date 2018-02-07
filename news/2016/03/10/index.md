@@ -5,7 +5,7 @@ Formats: [HTML](2016/03/10/index.html)  [JSON](2016/03/10/index.json)  [XML](201
 
 ##### Syrian Civil War spillover in Lebanon
 ### [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md)
-_Context: Lebanese Army, Ras Baalbek, Syrian Civil War spillover in Lebanon, Syria, Lebanon_
+_Context: Ras Baalbek, Lebanon, Syrian Civil War spillover in Lebanon, Syria, Lebanese Army_
 
 ##### War in Afghanistan (2015-present)
 ### [Dozens of militants are killed in fighting between rival Taliban factions in Afghanistan's western Herat Province. ](/news/2016/03/10/dozens-of-militants-are-killed-in-fighting-between-rival-taliban-factions-in-afghanistan-s-western-herat-province.md)
@@ -17,7 +17,7 @@ Huge military trucks rumbled through neighborhoods in northern Louisiana on Thur
 
 ##### United States-Venezuela relations
 ### [Venezuela recalls its charge d'affaires from its embassy in Washington, D.C. after U.S. President Barack Obama renewed a decree imposing sanctions on several top Venezuelan officials. ](/news/2016/03/10/venezuela-recalls-its-charga-c-d-affaires-from-its-embassy-in-washington-d-c-after-u-s-president-barack-obama-renewed-a-decree-imposing-sa.md)
-_Context: United States-Venezuela relations, its embassy, Barack Obama, U.S. President, Washington, D.C., Venezuela, charge d'affaires_
+_Context: Barack Obama, Washington, D.C., United States-Venezuela relations, charge d'affaires, Venezuela, its embassy, U.S. President_
 
 ##### North Korea-South Korea relations
 ### [North Korea fires two missiles into the Sea of Japan and announces its intention to liquidate all remaining South Korean assets on its territory. ](/news/2016/03/10/north-korea-fires-two-missiles-into-the-sea-of-japan-and-announces-its-intention-to-liquidate-all-remaining-south-korean-assets-on-its-terri.md)
@@ -29,7 +29,7 @@ Former Russian Press Minister Mikhail Lesin, who was found dead in a Washington 
 
 ##### U.S. federal court
 ### [A jury in a U.S. federal court in Scranton, Pennsylvania says that Cabot Oil must pay plaintiffs $4.2 million in damages that resulted from Cabot's fracking operations in the northeast part of that state. ](/news/2016/03/10/a-jury-in-a-u-s-federal-court-in-scranton-pennsylvania-says-that-cabot-oil-must-pay-plaintiffs-4-2-million-in-damages-that-resulted-from.md)
-_Context: U.S. federal court, Cabot Oil, Scranton, Pennsylvania, fracking_
+_Context: Cabot Oil, Scranton, Pennsylvania, fracking, U.S. federal court_
 
 ##### Myanmar's president's office
 ### [Three candidates are put forward to become President of Myanmar: Htin Kyaw and Sai Nyunt Lwin from the National League for Democracy and Khin Aung Myint from the military. ](/news/2016/03/10/three-candidates-are-put-forward-to-become-president-of-myanmar-htin-kyaw-and-sai-nyunt-lwin-from-the-national-league-for-democracy-and-khi.md)

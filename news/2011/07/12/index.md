@@ -5,7 +5,7 @@ Formats: [HTML](2011/07/12/index.html)  [JSON](2011/07/12/index.json)  [XML](201
 
 ##### United States
 ### [7 people are killed and 3 others are injured by a United States drone attack in Pakistan's South Waziristan region. ](/news/2011/07/12/7-people-are-killed-and-3-others-are-injured-by-a-united-states-drone-attack-in-pakistan-s-south-waziristan-region.md)
-_Context: United States, drones launch, Pakistan, South Waziristan_
+_Context: United States, South Waziristan, drones launch, Pakistan_
 
 ##### Chile
 ### [Miners clash with police in Chile. ](/news/2011/07/12/miners-clash-with-police-in-chile.md)
@@ -41,7 +41,7 @@ _Context: EuroMillions_
 
 ##### Sherwood Schwartz
 ### [American television producer Sherwood Schwartz, the creator of "Gilligan's Island" and "The Brady Bunch", dies in Los Angeles, California. ](/news/2011/07/12/american-television-producer-sherwood-schwartz-the-creator-of-gilligan-s-island-and-the-brady-bunch-dies-in-los-angeles-california.md)
-_Context: California, Sherwood Schwartz, The Brady Bunch, Los Angeles, California, Gilligan's Island_
+_Context: California, Los Angeles, California, Gilligan's Island, The Brady Bunch, Sherwood Schwartz_
 
 ##### Irish
 ### [Ireland's debt rating is reduced to "junk" status by Moody's. ](/news/2011/07/12/ireland-s-debt-rating-is-reduced-to-junk-status-by-moody-s.md)
@@ -49,7 +49,7 @@ Credit agency Moody&#39;s has downgraded Ireland&#39;s debt rating to junk statu
 
 ##### Apple Inc.
 ### [Apple's chief patent lawyer is leaving the company, Reuters reports, amidst a slew of patent-related conflicts with Google, Samsung, Nokia, others. ](/news/2011/07/12/apple-s-chief-patent-lawyer-is-leaving-the-company-reuters-reports-amidst-a-slew-of-patent-related-conflicts-with-google-samsung-nokia.md)
-_Context: Apple Inc., patent, Samsung, Nokia, Google_
+_Context: Apple Inc., Nokia, patent, Google, Samsung_
 
 ##### Japan
 ### [Japanese officials announce their intention to send the country's whaling fleet back to Antarctica later in the year; the Sea Shepherd Conservation Society (SSCS) is also to return. ](/news/2011/07/12/japanese-officials-announce-their-intention-to-send-the-country-s-whaling-fleet-back-to-antarctica-later-in-the-year-the-sea-shepherd-conse.md)
@@ -57,7 +57,7 @@ Financial constraints, maritime regulations and campaigns by activists will not 
 
 ##### Evangelos Florakis Navy Base explosion
 ### [Evangelos Florakis Navy Base explosion: Thousands of people march on the Presidential Palace in Nicosia, Cyprus; police fire tear gas at the demonstrators who tie a banner to the palace gates stating "Christofias [their ruler] is a murderer and must go to jail". ](/news/2011/07/12/evangelos-florakis-navy-base-explosion-thousands-of-people-march-on-the-presidential-palace-in-nicosia-cyprus-police-fire-tear-gas-at-the.md)
-_Context: tear gas, Cyprus, Evangelos Florakis Navy Base explosion, Presidential Palace, Christofias, Nicosia_
+_Context: tear gas, Nicosia, Evangelos Florakis Navy Base explosion, Presidential Palace, Christofias, Cyprus_
 
 ##### earthquake
 ### [Four earthquakes ranging from 5 to 6.2 in magnitude hit the Philippines. ](/news/2011/07/12/four-earthquakes-ranging-from-5-to-6-2-in-magnitude-hit-the-philippines.md)
@@ -89,19 +89,19 @@ Police in Guatemala arrest two men in connection with the killing of Argentine s
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [A three judge panel of the U.S. 9th Circuit Court of Appeals rules that Jared Lee Loughner, the suspect in the 2011 Tucson shooting, has the right to refuse antipsychotic medication while he appeals the treatment prescribed by prison mental health authorities. ](/news/2011/07/12/a-three-judge-panel-of-the-u-s-9th-circuit-court-of-appeals-rules-that-jared-lee-loughner-the-suspect-in-the-2011-tucson-shooting-has-the.md)
-_Context: United States Court of Appeals for the Ninth Circuit, 2011 Tucson shooting, antipsychotic, Jared Lee Loughner_
+_Context: Jared Lee Loughner, United States Court of Appeals for the Ninth Circuit, antipsychotic, 2011 Tucson shooting_
 
 ##### Halle Berry
 ### [U.S. actress Halle Berry is granted a restraining order against a convicted felon arrested on her Hollywood Hills property on Monday. ](/news/2011/07/12/u-s-actress-halle-berry-is-granted-a-restraining-order-against-a-convicted-felon-arrested-on-her-hollywood-hills-property-on-monday.md)
-_Context: Hollywood Hills, Halle Berry, felons_
+_Context: felons, Halle Berry, Hollywood Hills_
 
 ##### CNN
 ### [CNN reports that the U.S. Bureau of Alcohol, Tobacco, Firearms, and Explosives has lost track of 1,400 guns involved in Operation Fast and Furious aimed at tracing the flow of weapons to Mexican drug cartels. ](/news/2011/07/12/cnn-reports-that-the-u-s-bureau-of-alcohol-tobacco-firearms-and-explosives-has-lost-track-of-1-400-guns-involved-in-operation-fast-and-f.md)
-_Context: Operation Fast and Furious, CNN, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Mexican drug cartel_
+_Context: Operation Fast and Furious, Bureau of Alcohol, Tobacco, Firearms, and Explosives, Mexican drug cartel, CNN_
 
 ##### California's 36th congressional district
 ### [Voters in California's 36th congressional district go to the polls for a special election to replace former Rep. Jane Harman with Democrat Janice Hahn defeating Republican Craig Huey. ](/news/2011/07/12/voters-in-california-s-36th-congressional-district-go-to-the-polls-for-a-special-election-to-replace-former-rep-jane-harman-with-democrat-j.md)
-_Context: Jane Harman, Janice Hahn, special election, California's 36th congressional district, Democrat, Craig Huey, Republican_
+_Context: Republican, California's 36th congressional district, Democrat, Janice Hahn, special election, Craig Huey, Jane Harman_
 
 ##### the coalition
 ### [The UK Government states its intention to support a Labour Party motion in the House of Commons calling for the withdrawal of News Corporation's bid to take over BSkyB. ](/news/2011/07/12/the-uk-government-states-its-intention-to-support-a-labour-party-motion-in-the-house-of-commons-calling-for-the-withdrawal-of-news-corporati.md)
@@ -117,11 +117,11 @@ _Context: Northern Ireland, Belfast marching season_
 
 ##### Republican
 ### [U.S. Republican presidential candidate Ron Paul announces that he will not stand again for his Texas district in 2012. ](/news/2011/07/12/u-s-republican-presidential-candidate-ron-paul-announces-that-he-will-not-stand-again-for-his-texas-district-in-2012.md)
-_Context: Texas, Ron Paul, Republican, district_
+_Context: Republican, Ron Paul, Texas, district_
 
 ##### Governor
 ### [The Governor of the U.S. state of Arizona calls a recall election for state Senate President Russell Pearce known for his immigration legislation. ](/news/2011/07/12/the-governor-of-the-u-s-state-of-arizona-calls-a-recall-election-for-state-senate-president-russell-pearce-known-for-his-immigration-legisl.md)
-_Context: U.S. state, Russell Pearce, Arizona, recall, Governor, state Senate President_
+_Context: U.S. state, Arizona, state Senate President, Russell Pearce, recall, Governor_
 
 ##### NASA
 ### [NASA astronauts on board "Atlantis" complete the final spacewalk of the Space Shuttle era, recouping an ammonia pump on the International Space Station (ISS). ](/news/2011/07/12/nasa-astronauts-on-board-atlantis-complete-the-final-spacewalk-of-the-space-shuttle-era-recouping-an-ammonia-pump-on-the-international-sp.md)

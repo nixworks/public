@@ -9,7 +9,7 @@ _Context: human rights, Kate Burton, Palestinian, Scotland_
 
 ##### bomb
 ### [ A bomb explodes in downtown Palu, Indonesia, killing at least eight people and wounding 45 people. ](/news/2005/12/31/a-bomb-explodes-in-downtown-palu-indonesia-killing-at-least-eight-people-and-wounding-45-people.md)
-_Context: Palu, Indonesia, bomb_
+_Context: Indonesia, bomb, Palu_
 
 ##### Napa
 ### [ After heavy rains, Napa, California experienced its worst flooding in 20 years. ](/news/2005/12/31/after-heavy-rains-napa-california-experienced-its-worst-flooding-in-20-years.md)

@@ -13,7 +13,7 @@ SAINT-DENIS, France — A woman blew herself up in a Paris suburb early Wednesda
 
 ##### Boko Haram insurgency
 ### [A twin-suicide bombing of a mobile phone market in the northern Nigerian city of Kano kills at least fifteen people. ](/news/2015/11/18/a-twin-suicide-bombing-of-a-mobile-phone-market-in-the-northern-nigerian-city-of-kano-kills-at-least-fifteen-people.md)
-_Context: suicide bombing, Boko Haram insurgency, Kano, Nigeria, mobile phone_
+_Context: Kano, mobile phone, suicide bombing, Nigeria, Boko Haram insurgency_
 
 ##### Syrian Civil War
 ### [The Russian Air Force destroys around 500 fuel tanker vehicles used by ISIS and other extremist groups for transporting illegal oil from Syria to Iraq. ](/news/2015/11/18/the-russian-air-force-destroys-around-500-fuel-tanker-vehicles-used-by-isis-and-other-extremist-groups-for-transporting-illegal-oil-from-syr.md)
@@ -65,7 +65,7 @@ On Wednesday, U.S. and Cuban officials signed an environmental accord in Havana,
 
 ##### Sweden
 ### [Sweden's terror threat level is raised to 'high' for the first time in history, as national security service "Sapo" says that police are hunting a suspected terrorist. ](/news/2015/11/18/sweden-s-terror-threat-level-is-raised-to-high-for-the-first-time-in-history-as-national-security-service-sa-po-says-that-police-are-hu.md)
-_Context: Sapo, Sweden_
+_Context: Sweden, Sapo_
 
 ##### Washington College
 ### [Washington College, on the U.S. Delmarva Peninsula, closes until Sunday, November 30, as police search for an upset, potentially armed student who just returned to campus. His Pennsylvania high school is on alert. ](/news/2015/11/18/washington-college-on-the-u-s-delmarva-peninsula-closes-until-sunday-november-30-as-police-search-for-an-upset-potentially-armed-stude.md)

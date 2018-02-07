@@ -21,7 +21,7 @@ South Korea plans to break up its coastguard in the wake of the ferry disaster i
 
 ##### Pyongyang
 ### [An apartment building collapses in Pyongyang, North Korea, with casualties estimated to be in the hundreds. ](/news/2014/05/19/an-apartment-building-collapses-in-pyongyang-north-korea-with-casualties-estimated-to-be-in-the-hundreds.md)
-_Context: North Korea, Pyongyang_
+_Context: Pyongyang, North Korea_
 
 ##### Seoul Metropolitan Subway
 ### [An electrical problem causes an explosion south of Seoul in Seoul Metropolitan Subway Gunpo station, injuring 11 people. ](/news/2014/05/19/an-electrical-problem-causes-an-explosion-south-of-seoul-in-seoul-metropolitan-subway-gunpo-station-injuring-11-people.md)
@@ -37,7 +37,7 @@ _Context: Saudi Arabia, Tripoli, Libya_
 
 ##### same-sex couples
 ### [Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-u-s-federal-district-court-judge-rules-that-the-state-s-ban-on-such-marriages-violates-equal.md)
-_Context: Oregon, same-sex couples, Constitution_
+_Context: same-sex couples, Oregon, Constitution_
 
 ##### Egypt
 ### [An Egyptian court acquits 169 Muslim Brotherhood members for charges relating to unrest that followed the ousting of former Egyptian President Mohamed Morsi. ](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.md)

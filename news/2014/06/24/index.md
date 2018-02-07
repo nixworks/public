@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/24/index.html)  [JSON](2014/06/24/index.json)  [XML](201
 
 ##### 2014 pro-Russian conflict in Ukraine
 ### [Russian President Vladimir Putin formally asks Russia's upper house of parliament to revoke the right that it earlier granted for Russian forces to intervene militarily in Ukraine in defense of Russian-speakers there. ](/news/2014/06/24/russian-president-vladimir-putin-formally-asks-russia-s-upper-house-of-parliament-to-revoke-the-right-that-it-earlier-granted-for-russian-fo.md)
-_Context: Vladimir Putin, 2014 pro-Russian conflict in Ukraine, Russia's upper house of parliament_
+_Context: Vladimir Putin, Russia's upper house of parliament, 2014 pro-Russian conflict in Ukraine_
 
 ##### car bomb
 ### [A car bombing occurs in a Shiite suburb of Lebanon's capital Beirut killing the bomber and injuring five other people. ](/news/2014/06/24/a-car-bombing-occurs-in-a-shiite-suburb-of-lebanon-s-capital-beirut-killing-the-bomber-and-injuring-five-other-people.md)
@@ -41,7 +41,7 @@ Strikes by French air traffic control staff have led to dozens of European fligh
 
 ##### trawler
 ### [Nine commercial fisherman are killed and three others are missing after two fishing trawlers collide near Pisco in central Peru. ](/news/2014/06/24/nine-commercial-fisherman-are-killed-and-three-others-are-missing-after-two-fishing-trawlers-collide-near-pisco-in-central-peru.md)
-_Context: Pisco, trawler_
+_Context: trawler, Pisco_
 
 ##### Sinking of the MV ''Sewol''
 ### [The South Korean trial of the captain and 14 crew members in relation to the Sinking of the MV Sewol begins. ](/news/2014/06/24/the-south-korean-trial-of-the-captain-and-14-crew-members-in-relation-to-the-sinking-of-the-mv-sewol-begins.md)

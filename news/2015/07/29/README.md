@@ -17,7 +17,7 @@ _Context: Wragg Fire_
 
 ##### Indian
 ### [Debris found near the Indian Ocean island of Reunion is consistent with material from a Boeing 777 and is being examined to confirm whether it is from Malaysia Airlines Flight 370. ](/news/2015/07/29/debris-found-near-the-indian-ocean-island-of-ra-c-union-is-consistent-with-material-from-a-boeing-777-and-is-being-examined-to-confirm-whether.md)
-_Context: Reunion, Malaysia Airlines Flight 370, Boeing 777, Indian_
+_Context: Boeing 777, Malaysia Airlines Flight 370, Reunion, Indian_
 
 ##### Mexico
 ### [At least 27 people are killed and 149 injured after a out of control truck runs into a religious procession in the Mexican state of Zacatecas. ](/news/2015/07/29/at-least-27-people-are-killed-and-149-injured-after-a-out-of-control-truck-runs-into-a-religious-procession-in-the-mexican-state-of-zacateca.md)

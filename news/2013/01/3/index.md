@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/3/index.html)  [JSON](2013/01/3/index.json)  [XML](2013/
 
 ##### suicide bombing
 ### [A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. ](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pilgrims-and-injures-60-others.md)
-_Context: Shiite, suicide bombing, Mussayab_
+_Context: suicide bombing, Mussayab, Shiite_
 
 ##### Mexico
 ### [Mexican troops kill 12 alleged drug traffickers who opened fire at a checkpoint in La Estacin, Zacatecas. ](/news/2013/01/3/mexican-troops-kill-12-alleged-drug-traffickers-who-opened-fire-at-a-checkpoint-in-la-estacion-zacatecas.md)
@@ -21,15 +21,15 @@ Russia grants citizenship to Gerard Depardieu, who has threatened to quit France
 
 ##### Romanian
 ### [Romanian film director, actor and politician Sergiu Nicolaescu dies at the age of 82 after complications from surgery which led to cardiac arrest. ](/news/2013/01/3/romanian-film-director-actor-and-politician-sergiu-nicolaescu-dies-at-the-age-of-82-after-complications-from-surgery-which-led-to-cardiac-a.md)
-_Context: film director, Sergiu Nicolaescu, Romanian_
+_Context: Sergiu Nicolaescu, film director, Romanian_
 
 ##### Al Jazeera
 ### [News channel Al Jazeera acquires Current TV from Al Gore and Joel Hyatt. ](/news/2013/01/3/news-channel-al-jazeera-acquires-current-tv-from-al-gore-and-joel-hyatt.md)
-_Context: Al Gore, Al Jazeera, Joel Hyatt, Current TV_
+_Context: Current TV, Joel Hyatt, Al Gore, Al Jazeera_
 
 ##### Hormel
 ### [Hormel is announced to be purchasing Skippy peanut butter from Unilever for $700 million. ](/news/2013/01/3/hormel-is-announced-to-be-purchasing-skippy-peanut-butter-from-unilever-for-700-million.md)
-_Context: Skippy peanut butter, Unilever, Hormel_
+_Context: Skippy peanut butter, Hormel, Unilever_
 
 ##### Starbucks
 ### [Starbucks plans to open a coffee shop in Ho Chi Minh City, Vietnam, expanding its reach to 12 Asian nations. ](/news/2013/01/3/starbucks-plans-to-open-a-coffee-shop-in-ho-chi-minh-city-vietnam-expanding-its-reach-to-12-asian-nations.md)
@@ -37,7 +37,7 @@ Coffee giant opening first outlet in the country next month
 
 ##### Subaru
 ### [Subaru issues a recall for nearly 634,000 vehicles in the United States due to a lighting problem. ](/news/2013/01/3/subaru-issues-a-recall-for-nearly-634-000-vehicles-in-the-united-states-due-to-a-lighting-problem.md)
-_Context: United States, Subaru_
+_Context: Subaru, United States_
 
 ##### Prime Minister
 ### [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md)

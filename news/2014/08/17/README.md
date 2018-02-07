@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/17/index.html)  [JSON](2014/08/17/index.json)  [XML](201
 
 ##### Military
 ### [Chadian troops rescue 85 hostages from Boko Haram who had been kidnapped in Nigeria and taken over the border into Chad. ](/news/2014/08/17/chadian-troops-rescue-85-hostages-from-boko-haram-who-had-been-kidnapped-in-nigeria-and-taken-over-the-border-into-chad.md)
-_Context: Nigeria, Military, Chad, Boko Haram_
+_Context: Boko Haram, Chad, Nigeria, Military_
 
 ##### Kurdish Peshmerga
 ### [Kurdish forces, supported by U.S. airstrikes, retake control of the Mosul Dam after its capture by IS militants. ](/news/2014/08/17/kurdish-forces-supported-by-u-s-airstrikes-retake-control-of-the-mosul-dam-after-its-capture-by-is-militants.md)

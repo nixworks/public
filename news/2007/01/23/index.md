@@ -9,11 +9,11 @@ Recently Japan caught a very rare deep ocean shark. This type of shark is very d
 
 ##### United Nations Mission in Nepal
 ### [ The United Nations Mission in Nepal is established through United Nations Security Council Resolution 1740 to monitor disarmament of the Communist Party of Nepal (Maoist) and preparations for the Nepalese Constituent Assembly election, 2007. ](/news/2007/01/23/the-united-nations-mission-in-nepal-is-established-through-united-nations-security-council-resolution-1740-to-monitor-disarmament-of-the-co.md)
-_Context: Elections, United Nations Security Council Resolution 1740, Maoist supporters, United Nations Mission in Nepal_
+_Context: Maoist supporters, United Nations Mission in Nepal, United Nations Security Council Resolution 1740, Elections_
 
 ##### Ukraine
 ### [ Volodymyr Yelchenko, Ukraine's ambassador to Austria, is fired after he makes an unauthorized offer of a visa to Ukraine for exiled Turkmen opposition leader Hudayberdi Ozarow. Ozarow and opposition leader Nurmuhammet Hanamow allegedly visited Kiev last week and met with Ukrainian Transportation Minister Mykola Rudkovskiy, but this has been denied by several officials. ](/news/2007/01/23/volodymyr-yelchenko-ukraine-s-ambassador-to-austria-is-fired-after-he-makes-an-unauthorized-offer-of-a-visa-to-ukraine-for-exiled-turkmen.md)
-_Context: Turkmenistan, Nurmuhammet Hanamow, Hudayberdi Ozarow, Ukraine, Kiev, Mykola Rudkovskiy, Austria_
+_Context: Kiev, Turkmenistan, Nurmuhammet Hanamow, Mykola Rudkovskiy, Austria, Hudayberdi Ozarow, Ukraine_
 
 ##### Israel
 ### [ Israel's Ministry of Justice says it plans to charge Israeli President Moshe Katsav with rape and abuse of power. ](/news/2007/01/23/israel-s-ministry-of-justice-says-it-plans-to-charge-israeli-president-moshe-katsav-with-rape-and-abuse-of-power.md)
@@ -25,7 +25,7 @@ _Context: 2007 Guinean uprising, Conakry_
 
 ##### Qiu Xiaohua
 ### [ Qiu Xiaohua, former head of China's National Bureau of Statistics, is expelled from the Communist Party of China for corruption charges. ](/news/2007/01/23/qiu-xiaohua-former-head-of-china-s-national-bureau-of-statistics-is-expelled-from-the-communist-party-of-china-for-corruption-charges.md)
-_Context: anti-corruption, NBS, Communist Party of China, Qiu Xiaohua_
+_Context: Communist Party of China, NBS, anti-corruption, Qiu Xiaohua_
 
 ##### One and Unified Revolt
 ### [ One and Unified Revolt: Hezbollah-led protesters spark clashes with government loyalists in Lebanon, resulting in 3 deaths and 133 wounded. Opposition forces later call off the general strike they had held. ](/news/2007/01/23/one-and-unified-revolt-hezbollah-led-protesters-spark-clashes-with-government-loyalists-in-lebanon-resulting-in-3-deaths-and-133-wounded.md)
@@ -33,11 +33,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Australian Prime Minister
 ### [ The Prime Minister of Australia, John Howard, reshuffles his Ministry with Joe Hockey and Malcolm Turnbull promoted to Cabinet and Amanda Vanstone losing her position. ](/news/2007/01/23/the-prime-minister-of-australia-john-howard-reshuffles-his-ministry-with-joe-hockey-and-malcolm-turnbull-promoted-to-cabinet-and-amanda-v.md)
-_Context: John Howard, Australian Prime Minister, Amanda Vanstone, Joe Hockey, Malcolm Turnbull_
+_Context: Malcolm Turnbull, Joe Hockey, Australian Prime Minister, Amanda Vanstone, John Howard_
 
 ##### Guinea
 ### [ Trade union leaders in Guinea are released and meet with President Lansana Conte as the general strike escalates. ](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.md)
-_Context: general strike, President of Guinea, Guinea, Lansana Conte_
+_Context: Guinea, Lansana Conte, President of Guinea, general strike_
 
 ##### two years of helping
 ### [ War in Somalia: Ethiopia begins withdrawing troops from Mogadishu. ](/news/2007/01/23/war-in-somalia-ethiopia-begins-withdrawing-troops-from-mogadishu.md)
@@ -45,7 +45,7 @@ _Context: two years of helping, Mogadishu_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush delivers the 2007 State of the Union Address, in which he remains steadfast to his Iraq policies, but also reaches out to political opponents by proposing environmental and social reforms. ](/news/2007/01/23/president-of-the-united-states-george-w-bush-delivers-the-2007-state-of-the-union-address-in-which-he-remains-steadfast-to-his-iraq-polic.md)
-_Context: Democrat, U.S. President, George W. Bush, 2007 State of the Union Address, U.S. presence in Iraq_
+_Context: 2007 State of the Union Address, Democrat, U.S. presence in Iraq, U.S. President, George W. Bush_
 
 ## [Previous Day...](/news/2007/01/22/index.md)
 

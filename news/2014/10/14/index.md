@@ -17,19 +17,19 @@ Australian author Richard Flanagan wins the £50,000 Man Booker Prize for his wa
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Vongfong leaves Japan as a tropical storm having caused at least one death, two people missing and 93 injured. ](/news/2014/10/14/typhoon-vongfong-leaves-japan-as-a-tropical-storm-having-caused-at-least-one-death-two-people-missing-and-93-injured.md)
-_Context: Typhoon Vongfong, tropical storm, 2014 Pacific typhoon season, Japan_
+_Context: Japan, tropical storm, 2014 Pacific typhoon season, Typhoon Vongfong_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [The death toll from Cyclone Hudhud rises to 24 with 400,000 people needing assistance in India's Andhra Pradesh and Orissa states. ](/news/2014/10/14/the-death-toll-from-cyclone-hudhud-rises-to-24-with-400-000-people-needing-assistance-in-india-s-andhra-pradesh-and-orissa-states.md)
-_Context: Andhra Pradesh, 2014 North Indian Ocean cyclone season, India, Cyclone Hudhud, Orissa State_
+_Context: Orissa State, India, 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud_
 
 ##### schizophrenia
 ### [A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. ](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-three-students-and-a-police-negotiator-at-a-secondary-school-in-a1-2aa-r-nad-sa-zavou-czech-rep.md)
-_Context: Zdar nad Sazavou, Czech Republic, police, schizophrenia_
+_Context: Zdar nad Sazavou, police, Czech Republic, schizophrenia_
 
 ##### President of the Generalitat of Catalonia
 ### [The President of the Generalitat of Catalonia, Artur Mas i Gavarro, drops plans for a referendum on independence on November 9 from Spain following opposition from the Constitutional Court of Spain. ](/news/2014/10/14/the-president-of-the-generalitat-of-catalonia-artur-mas-i-gavarra3-drops-plans-for-a-referendum-on-independence-on-november-9-from-spain-f.md)
-_Context: Artur Mas i Gavarro, President of the Generalitat of Catalonia, Spain, Constitutional Court_
+_Context: Constitutional Court, Spain, Artur Mas i Gavarro, President of the Generalitat of Catalonia_
 
 ## [Previous Day...](/news/2014/10/13/index.md)
 

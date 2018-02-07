@@ -5,11 +5,11 @@ Formats: [HTML](2009/10/5/index.html)  [JSON](2009/10/5/index.json)  [XML](2009/
 
 ##### United States
 ### [ The United States Federal Trade Commission issues regulations for writers of blogs. ](/news/2009/10/5/the-united-states-federal-trade-commission-issues-regulations-for-writers-of-blogs.md)
-_Context: U.S. Federal Trade Commission, blogs, United States_
+_Context: blogs, U.S. Federal Trade Commission, United States_
 
 ##### Nobel Prize in Medicine
 ### [ The 2009 Nobel Prize in Medicine goes to Elizabeth H. Blackburn, Carol W. Greider, and Jack W. Szostak, "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase". ](/news/2009/10/5/the-2009-nobel-prize-in-medicine-goes-to-elizabeth-h-blackburn-carol-w-greider-and-jack-w-szostak-for-the-discovery-of-how-chromosom.md)
-_Context: Elizabeth H. Blackburn, Nobel Prize in Medicine, Jack W. Szostak, enzyme, telomerase, telomere, chromosome, Carol W. Greider_
+_Context: chromosome, enzyme, telomerase, Carol W. Greider, Jack W. Szostak, telomere, Nobel Prize in Medicine, Elizabeth H. Blackburn_
 
 ##### Bangkok
 ### [ An early morning passenger train bound for Bangkok derails in Hua Hin, killing at least seven people and injuring dozens more. ](/news/2009/10/5/an-early-morning-passenger-train-bound-for-bangkok-derails-in-hua-hin-killing-at-least-seven-people-and-injuring-dozens-more.md)
@@ -17,7 +17,7 @@ _Context: Bangkok, Hua Hin_
 
 ##### Samoa
 ### [ Samoans cram into churches and community halls to remember friends and relatives killed in a recent tsunami. ](/news/2009/10/5/samoans-cram-into-churches-and-community-halls-to-remember-friends-and-relatives-killed-in-a-recent-tsunami.md)
-_Context: Samoa, the deadly tsunami_
+_Context: the deadly tsunami, Samoa_
 
 ##### Canadian
 ### [ The Canadian province of Quebec is planning a lawsuit against tobacco companies to seek damages for healthcare costs. ](/news/2009/10/5/the-canadian-province-of-quebec-is-planning-a-lawsuit-against-tobacco-companies-to-seek-damages-for-healthcare-costs.md)
@@ -33,11 +33,11 @@ Roberto Micheletti cancels decree limiting freedom of speech, assembly and movem
 
 ##### United States
 ### [ United States President Barack Obama delays a meeting with the Dalai Lama until after a visit to China. ](/news/2009/10/5/united-states-president-barack-obama-delays-a-meeting-with-the-dalai-lama-until-after-a-visit-to-china.md)
-_Context: United States, U.S. President, 14th Dalai Lama, China, Barack Obama_
+_Context: 14th Dalai Lama, United States, Barack Obama, China, U.S. President_
 
 ##### France Tlcom
 ### [ The Deputy Chief Executive of France Tlcom, Louis-Pierre Wene, resigns over a series of suicides at the company. ](/news/2009/10/5/the-deputy-chief-executive-of-france-telecom-louis-pierre-wene-resigns-over-a-series-of-suicides-at-the-company.md)
-_Context: suicide, France Tlcom_
+_Context: France Tlcom, suicide_
 
 ##### Europe
 ### [ Airline pilots in Europe stage demonstrations in several cities against working hours. ](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.md)

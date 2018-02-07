@@ -9,11 +9,11 @@ A suicide bomber kills two policemen in south-eastern Turkey, in an attack offic
 
 ##### Kurdish-Turkish conflict
 ### [ Three Turkish soldiers are killed and 14 others wounded in an armed attack by Kurdish militants during a military operation in the town of Nusaybin, Turkey. ](/news/2016/05/1/three-turkish-soldiers-are-killed-and-14-others-wounded-in-an-armed-attack-by-kurdish-militants-during-a-military-operation-in-the-town-of.md)
-_Context: Kurds, Turkey, Nusaybin, Kurdish-Turkish conflict_
+_Context: Kurdish-Turkish conflict, Kurds, Nusaybin, Turkey_
 
 ##### Yemeni Civil War
 ### [Houthi rebels capture the Umaliqa military base in 'Amran Governorate, endangering a shaky ceasefire. ](/news/2016/05/1/houthi-rebels-capture-the-umaliqa-military-base-in-amran-governorate-endangering-a-shaky-ceasefire.md)
-_Context: 'Amran Governorate, Houthi, Yemeni Civil War_
+_Context: Houthi, Yemeni Civil War, 'Amran Governorate_
 
 ##### Iraqi Civil War
 ### [ Two car bombs kill at least 32 people and wounded 75 others in Samawa, Iraq. Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/05/1/two-car-bombs-kill-at-least-32-people-and-wounded-75-others-in-samawa-iraq-islamic-state-of-iraq-and-the-levant-claims-responsibility-for.md)
@@ -21,7 +21,7 @@ Two suicide car bombs claimed by Islamic State killed at least 32 people and wou
 
 ##### Moro conflict
 ### [Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. ](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-group-had-kidnapped-from-their-tugboat-and-barge-on-march-28.md)
-_Context: Indonesia, Moro conflict, Abu Sayyaf_
+_Context: Abu Sayyaf, Indonesia, Moro conflict_
 
 ##### Halliburton
 ### [Halliburton Co. and Baker Hughes Inc., the second- and third-largest oilfield service firms, announce the cancellation of their $28 billion merger which has faced opposition from U.S. and European antitrust regulators. Halliburton will reportedly have to pay Baker Hughes a $3.5 billion termination fee if the deal is called off. ](/news/2016/05/1/halliburton-co-and-baker-hughes-inc-the-second-and-third-largest-oilfield-service-firms-announce-the-cancellation-of-their-28-billion.md)
@@ -57,7 +57,7 @@ Battered bodies of the two men were found in bushes in separate areas in rural J
 
 ##### CPP-NPA-NDF rebellion
 ### [Jose Maria Sison, who is the leader of the guerrilla Communist Party of the Philippines, says that the presidency of Rodrigo Duterte is "good for national unity." ](/news/2016/05/1/jose-maria-sison-who-is-the-leader-of-the-guerrilla-communist-party-of-the-philippines-says-that-the-presidency-of-rodrigo-duterte-is-goo.md)
-_Context: Jose Maria Sison, CPP-NPA-NDF rebellion, Rodrigo Duterte, Communist_
+_Context: Communist, Rodrigo Duterte, Jose Maria Sison, CPP-NPA-NDF rebellion_
 
 ##### May Day
 ### [Thousands are set for May Day demonstrations across the United States for immigrant and worker rights, and for civility in presidential campaign rhetoric. Organizers and authorities in California are urging participants to remain calm, given the violence this week connected with Presidential campaign protests. ](/news/2016/05/1/thousands-are-set-for-may-day-demonstrations-across-the-united-states-for-immigrant-and-worker-rights-and-for-civility-in-presidential-camp.md)
@@ -65,7 +65,7 @@ May Day march organizers are asking participants to remain peaceful while police
 
 ##### 2015-16 Iraqi protests
 ### [Protesters demanding political reform leave Baghdad's Green Zone after camping for 24 hours in the heavily fortified government district. These activists, followers of Shi'ite Muslim cleric Muqtada al-Sadr, support Prime Minister Haider al-Abadi's anti-corruption proposals to replace party-affiliated ministers with technocrats. A grid-locked parliament has been unable to act on these changes. ](/news/2016/05/1/protesters-demanding-political-reform-leave-baghdad-s-green-zone-after-camping-for-24-hours-in-the-heavily-fortified-government-district-th.md)
-_Context: 2015-16 Iraqi protests, anti-corruption, Iraq Prime Minister, Shia, Baghdad, technocrats, Haider al-Abadi, Muqtada al-Sadr, Green Zone, cleric, Iraqi Parliament_
+_Context: Shia, technocrats, Iraqi Parliament, Muqtada al-Sadr, anti-corruption, Iraq Prime Minister, Haider al-Abadi, Green Zone, cleric, 2015-16 Iraqi protests, Baghdad_
 
 ##### Puerto Rican government-debt crisis
 ### [Puerto Rico Governor Alejandro Garcia Padilla says the Commonwealth will default on a $422 million bond payment due Monday. Garcia Padilla says debt payments have been suspended in order to pay for essential services for the 3.5 million American citizens. Congress has been unable to pass a debt restructuring bill for Puerto Rico. ](/news/2016/05/1/puerto-rico-governor-alejandro-garcaa-padilla-says-the-commonwealth-will-default-on-a-422-million-bond-payment-due-monday-garcaa-padilla.md)

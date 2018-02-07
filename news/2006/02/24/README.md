@@ -21,15 +21,15 @@ Astronomers have detected a new type of cosmic outburst that they can&#039;t yet
 
 ##### Ken Livingstone
 ### [ Ken Livingstone, the Mayor of London, is suspended from his position for one month by a three member panel of the Adjudication Panel for England for being "unnecessarily insensitive" in comparing a Jewish "Evening Standard" reporter to a Nazi concentration camp guard. Nicky Gavron, his deputy, will take over his responsibilities whilst Livingstone is suspended. ](/news/2006/02/24/ken-livingstone-the-mayor-of-london-is-suspended-from-his-position-for-one-month-by-a-three-member-panel-of-the-adjudication-panel-for-en.md)
-_Context: Nicky Gavron, Nazi, Adjudication Panel for England, Mayor of London, Ken Livingstone, Evening Standard_
+_Context: Mayor of London, Adjudication Panel for England, Ken Livingstone, Nicky Gavron, Evening Standard, Nazi_
 
 ##### Abqaiq
 ### [ An explosion and gunshots are reported at Abqaiq, home of largest Saudi Arabian oil facilities. ](/news/2006/02/24/an-explosion-and-gunshots-are-reported-at-abqaiq-home-of-largest-saudi-arabian-oil-facilities.md)
-_Context: Abqaiq, Saudi Arabian_
+_Context: Saudi Arabian, Abqaiq_
 
 ##### Thailand
 ### [ After months of an increasing political power struggle, the Thai Prime Minister Thaksin Shinawatra dissolves the House of Representatives and calls for new election to be held on April 2. ](/news/2006/02/24/after-months-of-an-increasing-political-power-struggle-the-thai-prime-minister-thaksin-shinawatra-dissolves-the-house-of-representatives-a.md)
-_Context: Thailand, House of Representatives, Thaksin Shinawatra_
+_Context: Thailand, Thaksin Shinawatra, House of Representatives_
 
 ##### Chittagong
 ### [ A fire in a textile mill in Chittagong, Bangladesh, kills 51 people and injures over 100. ](/news/2006/02/24/a-fire-in-a-textile-mill-in-chittagong-bangladesh-kills-51-people-and-injures-over-100.md)
@@ -37,7 +37,7 @@ _Context: Chittagong, Bangladesh_
 
 ##### MP
 ### [ Australian Member of Parliament and Treasurer Peter Costello challenges Muslim leaders to pledge their allegiance to Australia. ](/news/2006/02/24/australian-member-of-parliament-and-treasurer-peter-costello-challenges-muslim-leaders-to-pledge-their-allegiance-to-australia.md)
-_Context: Peter Costello, MP, Treasurer of Australia_
+_Context: MP, Peter Costello, Treasurer of Australia_
 
 ## [Previous Day...](/news/2006/02/23/index.md)
 

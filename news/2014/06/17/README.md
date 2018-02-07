@@ -9,11 +9,11 @@ A North Korean propaganda film posted on the internet reveals footage of a newly
 
 ##### South Thailand insurgency
 ### [Emergency rule in the southern Thai provinces of Pattani, Yala and Narithiwat is extended for another three months. ](/news/2014/06/17/emergency-rule-in-the-southern-thai-provinces-of-pattani-yala-and-narithiwat-is-extended-for-another-three-months.md)
-_Context: Thailand, South Thailand insurgency, Narathiwat, Pattani, Yala Province_
+_Context: Yala Province, Narathiwat, Thailand, South Thailand insurgency, Pattani_
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants attack Poromoko village in Kenya, killing 15 people and burning multiple houses down. ](/news/2014/06/17/al-shabaab-militants-attack-poromoko-village-in-kenya-killing-15-people-and-burning-multiple-houses-down.md)
-_Context: Kenya, Al-Shabaab_
+_Context: Al-Shabaab, Kenya_
 
 ##### United States military personnel
 ### [275 United States Military personnel are deployed to Iraq to provide extra protection for the American embassy in Baghdad. ](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.md)
@@ -25,19 +25,19 @@ Alleged ringleader in 2012 attack captured in operation in Libya involving Speci
 
 ##### War in North-West Pakistan
 ### [At least 25 militants are killed as the Pakistan Air Force strikes terrorist hideouts in North Waziristan. ](/news/2014/06/17/at-least-25-militants-are-killed-as-the-pakistan-air-force-strikes-terrorist-hideouts-in-north-waziristan.md)
-_Context: North Waziristan, Pakistan Air Force, War in North-West Pakistan_
+_Context: War in North-West Pakistan, Pakistan Air Force, North Waziristan_
 
 ##### Islamist insurgency in Nigeria
 ### [A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-fifa-world-cup-in-damaturu-niger.md)
-_Context: Nigeria, suicide bomber, Islamist insurgency in Nigeria, Damaturu, 2014 FIFA World Cup_
+_Context: 2014 FIFA World Cup, Nigeria, Damaturu, suicide bomber, Islamist insurgency in Nigeria_
 
 ##### Ontario
 ### [A tornado hits southern in Ontario, Canada causing extensive damage in the corridor from Angus to Barrie. ](/news/2014/06/17/a-tornado-hits-southern-in-ontario-canada-causing-extensive-damage-in-the-corridor-from-angus-to-barrie.md)
-_Context: Angus, Ontario, Canadian, Barrie_
+_Context: Ontario, Canadian, Barrie, Angus_
 
 ##### South Africa
 ### [South African wild fires kill seven people, five in Kokstad in KwaZulu-Natal and two in the Abaqulusi Local Municipality, as well as destroying thousands of hectares of forest and grazing land. ](/news/2014/06/17/south-african-wild-fires-kill-seven-people-five-in-kokstad-in-kwazulu-natal-and-two-in-the-abaqulusi-local-municipality-as-well-as-destroy.md)
-_Context: Abaqulusi Local Municipality, wild fire, South Africa, KwaZulu-Natal, Kokstad_
+_Context: Abaqulusi Local Municipality, Kokstad, South Africa, KwaZulu-Natal, wild fire_
 
 ##### U.S. President
 ### [The President of the United States, Barack Obama, proposes to expand the Pacific Remote Islands Marine National Monument, creating the world's largest marine sanctuary in the Central Pacific Ocean. ](/news/2014/06/17/the-president-of-the-united-states-barack-obama-proposes-to-expand-the-pacific-remote-islands-marine-national-monument-creating-the-world.md)

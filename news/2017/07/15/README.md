@@ -9,7 +9,7 @@ At least eight people were killed on Saturday in a stampede in a soccer stadium 
 
 ##### South China Sea disputes
 ### [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md)
-_Context: South China Sea disputes, Natuna, China, Indonesia, South China Sea_
+_Context: Indonesia, China, South China Sea, Natuna, South China Sea disputes_
 
 ##### Crime in Iran
 ### [An attack by a man armed with a knife in Tehran Metro's Shahr-e-Rey Station leaves two injured. The attacker is shot dead by the police. ](/news/2017/07/15/an-attack-by-a-man-armed-with-a-knife-in-tehran-metro-s-shahr-e-rey-station-leaves-two-injured-the-attacker-is-shot-dead-by-the-police.md)
@@ -29,7 +29,7 @@ Stanford University’s Maryam Mirzakhani was the first and only woman to win th
 
 ##### Tardigrade
 ### [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md)
-_Context: Earth, tardigrade, Tardigrade, life_
+_Context: tardigrade, life, Earth, Tardigrade_
 
 ## [Previous Day...](/news/2017/07/14/index.md)
 

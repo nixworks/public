@@ -13,23 +13,23 @@ _Context: lawmakers, Emergency Economic Stabilization Act, subprime mortgage cri
 
 ##### Texas Supreme Court
 ### [ The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. ](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.md)
-_Context: Barack Obama, John McCain, Bob Barr, Texas Supreme Court_
+_Context: Texas Supreme Court, John McCain, Barack Obama, Bob Barr_
 
 ##### Barack Obama
 ### [ An effigy of Barack Obama is found hanging from a tree at George Fox University in Newberg, Oregon. ](/news/2008/09/25/an-effigy-of-barack-obama-is-found-hanging-from-a-tree-at-george-fox-university-in-newberg-oregon.md)
-_Context: Newberg, Barack Obama, Oregon, George Fox University_
+_Context: Barack Obama, George Fox University, Oregon, Newberg_
 
 ##### Canadian
 ### [ A young Canadian man is found guilty in the 2006 Toronto terrorism case of participating in a plot to storm the Parliament of Canada and behead the Prime Minister of Canada, Stephen Harper. ](/news/2008/09/25/a-young-canadian-man-is-found-guilty-in-the-2006-toronto-terrorism-case-of-participating-in-a-plot-to-storm-the-parliament-of-canada-and-be.md)
-_Context: behead, Canadian, Stephen Harper, Prime Minister of Canada, Parliament of Canada, 2006 Toronto terrorism case_
+_Context: Canadian, Stephen Harper, Prime Minister of Canada, 2006 Toronto terrorism case, Parliament of Canada, behead_
 
 ##### Jobless
 ### [ Jobless claims in the United States rise to a seven-year high while orders for durable goods fall to their lowest level in 18 months, underscoring the weakness of the United States economy. ](/news/2008/09/25/jobless-claims-in-the-united-states-rise-to-a-seven-year-high-while-orders-for-durable-goods-fall-to-their-lowest-level-in-18-months-under.md)
-_Context: Jobless, United States, United States economy, durable goods_
+_Context: United States, Jobless, United States economy, durable goods_
 
 ##### British Energy
 ### [ Following the purchase of British Energy by Electricit de France, plans for a new Hinkley Point C nuclear power station have been announced. ](/news/2008/09/25/following-the-purchase-of-british-energy-by-electricite-de-france-plans-for-a-new-hinkley-point-c-nuclear-power-station-have-been-announce.md)
-_Context: Hinkley Point C nuclear power station, British Energy, Electricit de France_
+_Context: Hinkley Point C nuclear power station, Electricit de France, British Energy_
 
 ##### Typhoon Hagupit
 ### [ The death toll from Typhoon Hagupit rises to 18 with 10 people dead in the People's Republic of China as well as 8 people killed earlier in the Philippines. ](/news/2008/09/25/the-death-toll-from-typhoon-hagupit-rises-to-18-with-10-people-dead-in-the-people-s-republic-of-china-as-well-as-8-people-killed-earlier-in.md)
@@ -37,7 +37,7 @@ _Context: China, Typhoon Hagupit, Philippines_
 
 ##### Kgalema Motlanthe
 ### [ Kgalema Motlanthe is sworn in as the third post-apartheid President of South Africa. ](/news/2008/09/25/kgalema-motlanthe-is-sworn-in-as-the-third-post-apartheid-president-of-south-africa.md)
-_Context: apartheid, Kgalema Motlanthe, President_
+_Context: Kgalema Motlanthe, apartheid, President_
 
 ##### Dark flow
 ### [ Dark flow, a new and unexplained cosmic phenomenon, is observed by astronomers for the first time. ](/news/2008/09/25/dark-flow-a-new-and-unexplained-cosmic-phenomenon-is-observed-by-astronomers-for-the-first-time.md)

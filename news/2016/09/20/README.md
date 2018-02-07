@@ -5,7 +5,7 @@ Formats: [HTML](2016/09/20/index.html)  [JSON](2016/09/20/index.json)  [XML](201
 
 ##### DR Congo
 ### [A day after street violence in the Democratic Republic of the Congo between protesters opposed to President Joseph Kabila and security forces left at least 44 dead, armed men in military uniforms burn down the headquarters of the main opposition Union for Democracy and Social Progress (UDPS) in Kinshasa, DR Congo, killing at least two people. ](/news/2016/09/20/a-day-after-street-violence-in-the-democratic-republic-of-the-congo-between-protesters-opposed-to-president-joseph-kabila-and-security-force.md)
-_Context: Kinshasa, Union for Democracy and Social Progress, President, Kabila government, DR Congo_
+_Context: Union for Democracy and Social Progress, Kinshasa, DR Congo, President, Kabila government_
 
 ##### Angelina Jolie
 ### [Citing irreconcilable differences, Angelina Jolie files for divorce from Brad Pitt and seeks full custody of their six children. The couple married in 2014 and had been in a relationship since 2005. ](/news/2016/09/20/citing-irreconcilable-differences-angelina-jolie-files-for-divorce-from-brad-pitt-and-seeks-full-custody-of-their-six-children-the-couple.md)
@@ -25,7 +25,7 @@ Two pilots ejected safely after a U-2 spy plane went down in Sutter County, just
 
 ##### 2015-16 Zika virus epidemic
 ### [Authorities diagnose six more cases of the Zika virus in the provinces of Cebu and Iloilo in the Visayas and Laguna province near Metro Manila, Philippines. ](/news/2016/09/20/authorities-diagnose-six-more-cases-of-the-zika-virus-in-the-provinces-of-cebu-and-iloilo-in-the-visayas-and-laguna-province-near-metro-mani.md)
-_Context: Philippines, Metro Manila, Visayas, Cebu, Zika virus, Iloilo, Laguna province, 2015-16 Zika virus epidemic_
+_Context: Zika virus, 2015-16 Zika virus epidemic, Cebu, Iloilo, Metro Manila, Laguna province, Philippines, Visayas_
 
 ##### Accession of Bosnia and Herzegovina to the European Union
 ### [The European Union's 28 member states formally accept Bosnia and Herzegovina's membership application. The European Commission (EC) will now determine whether Bosnia meets the criteria to join the union, a process that is expected to take a year. ](/news/2016/09/20/the-european-union-s-28-member-states-formally-accept-bosnia-and-herzegovina-s-membership-application-the-european-commission-ec-will-now.md)
@@ -37,7 +37,7 @@ In the last General Assembly address of his presidency, Mr. Obama was focused as
 
 ##### five members
 ### [A court sentences five members of the Cuba men's national volleyball team to prison for a gang rape of a Finnish woman that took place in Tampere, Finland, in July 2016 during the FIVB Volleyball World League. ](/news/2016/09/20/a-court-sentences-five-members-of-the-cuba-men-s-national-volleyball-team-to-prison-for-a-gang-rape-of-a-finnish-woman-that-took-place-in-ta.md)
-_Context: five members, FIVB Volleyball World League, Tampere, Cuba men's national volleyball team, Finland_
+_Context: Finland, five members, Tampere, FIVB Volleyball World League, Cuba men's national volleyball team_
 
 ## [Previous Day...](/news/2016/09/19/index.md)
 

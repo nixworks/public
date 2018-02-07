@@ -9,15 +9,15 @@ _Context: Girija Prasad Koirala, Maoist supporters, Gyanendra of Nepal, Prime Mi
 
 ##### President of Chad
 ### [ President of Chad Idriss Dby refuses to delay upcoming presidential elections despite pressure from U.S. diplomat Donald Yamamoto, high ranking Chadian Christian officials, and the head of the Chadian human rights league. However, he announced the Chadian government is negotiating with the United Front for Democratic Change rebel group to avoid violence. ](/news/2006/05/1/president-of-chad-idriss-deby-refuses-to-delay-upcoming-presidential-elections-despite-pressure-from-u-s-diplomat-donald-yamamoto-high-ra.md)
-_Context: Donald Yamamoto, Chadian rebels, presidential elections, President of Chad, Idriss Dby, Chadian government_
+_Context: President of Chad, Chadian rebels, Donald Yamamoto, Chadian government, presidential elections, Idriss Dby_
 
 ##### Spain
 ### [ Spain, Portugal, Finland and Greece join the United Kingdom, Republic of Ireland and Sweden in allowing workers from the ten countries which joined the European Union two years ago free access to their labour markets. ](/news/2006/05/1/spain-portugal-finland-and-greece-join-the-united-kingdom-republic-of-ireland-and-sweden-in-allowing-workers-from-the-ten-countries-whic.md)
-_Context: Irish, Finland, Spain, Sweden, Portugal, European Union, Greece, United Kingdom_
+_Context: Sweden, Greece, Finland, United Kingdom, European Union, Spain, Portugal, Irish_
 
 ##### Bolivian Gas War
 ### [ Bolivian Gas War: President Evo Morales has signed a decree nationalising the nation's natural gas industry, instructing foreign energy firms to channel their activities through the Bolivian government within a six-month deadline or face expulsion, and ordering the Bolivian military to occupy and secure key energy installations. ](/news/2006/05/1/bolivian-gas-war-president-evo-morales-has-signed-a-decree-nationalising-the-nation-s-natural-gas-industry-instructing-foreign-energy-fir.md)
-_Context: Bolivian military, natural gas, Bolivian Gas War, nationalising, President of Bolivia, Evo Morales_
+_Context: Bolivian military, natural gas, nationalising, President of Bolivia, Bolivian Gas War, Evo Morales_
 
 ##### Puerto Rico budget crisis
 ### [ Puerto Rico budget crisis: The government of Puerto Rico is partially shut down, including public schools. More than 90,000 employees of the public sector are put in license without salary. Their salary will not be paid until further notice, but they will remain employed whether they present themselves to work or not. If they present themselves to work it will be on a voluntary basis without retroactive payment. ](/news/2006/05/1/puerto-rico-budget-crisis-the-government-of-puerto-rico-is-partially-shut-down-including-public-schools-more-than-90-000-employees-of-th.md)
@@ -37,7 +37,7 @@ _Context: Beaconsfield, Tasmania, Beaconsfield mine collapse_
 
 ##### United States
 ### [ Immigrant workers and their supporters across the United States stay home from work or school and abstain from commerce during the 2006 Immigration Policy Boycott in the United States, also called the "Great American Boycott" or "Day Without Immigrants", a protest against the enforcement of immigration law. Demonstrations are planned nationwide. In Latin America, a one-day boycott of American products called the "Nothing Gringo Boycott" is planned in conjunction with U.S. events. ](/news/2006/05/1/immigrant-workers-and-their-supporters-across-the-united-states-stay-home-from-work-or-school-and-abstain-from-commerce-during-the-2006-imm.md)
-_Context: demonstration, Latin America, 2006 Immigration Policy Boycott in the United States, United States_
+_Context: 2006 Immigration Policy Boycott in the United States, demonstration, Latin America, United States_
 
 ##### Batticaloa
 ### [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md)
@@ -45,7 +45,7 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 
 ##### last year's toxic chemical spill
 ### [ A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. ](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-toxic-chemical-spill-in-jilin-city-china-trapped-in-the-frozen-amur-and-songhua-rivers-durin.md)
-_Context: Amur, Jilin City, Songhua River, last year's toxic chemical spill, Far East, China, Khabarovsk_
+_Context: Far East, Songhua River, Khabarovsk, Amur, last year's toxic chemical spill, Jilin City, China_
 
 ## [Previous Day...](/news/2006/04/30/index.md)
 

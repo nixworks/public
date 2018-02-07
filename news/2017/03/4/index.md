@@ -5,7 +5,7 @@ Formats: [HTML](2017/03/4/index.html)  [JSON](2017/03/4/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [According to provincial officials, at least eight people are killed and another 22 are injured by a roadside bomb in Farah Province. However, according to locals, the attack was actually an airstrike. ](/news/2017/03/4/according-to-provincial-officials-at-least-eight-people-are-killed-and-another-22-are-injured-by-a-roadside-bomb-in-farah-province-however.md)
-_Context: War in Afghanistan (2015-present), Farah Province_
+_Context: Farah Province, War in Afghanistan (2015-present)_
 
 ##### Libyan Civil War (2014-present)
 ### [The Benghazi Defense Brigades, an ally of the Shura Council of Benghazi Revolutionaries, claims to have captured five cities and two oil-production areas from forces loyal to Khalifa Haftar in the east of Libya. ](/news/2017/03/4/the-benghazi-defense-brigades-an-ally-of-the-shura-council-of-benghazi-revolutionaries-claims-to-have-captured-five-cities-and-two-oil-pro.md)
@@ -21,7 +21,7 @@ More than 100 people have starved to death in a single region of Somalia within 
 
 ##### Malaysia-North Korea relations
 ### [Malaysia expels Kang Chol, North Korea's ambassador, after he criticised the former's investigation into the death of Kim Jong-nam. ](/news/2017/03/4/malaysia-expels-kang-chol-north-korea-s-ambassador-after-he-criticised-the-former-s-investigation-into-the-death-of-kim-jong-nam.md)
-_Context: Malaysia, Kim Jong-nam, Malaysia-North Korea relations, North Korea_
+_Context: Malaysia-North Korea relations, Kim Jong-nam, North Korea, Malaysia_
 
 ##### Mexico-United States relations
 ### [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.md)

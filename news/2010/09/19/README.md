@@ -13,11 +13,11 @@ _Context: United States soldier, Afghanistan, United States_
 
 ##### 2 car bomb
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
-_Context: 2 car bomb, Iraq, Baghdad_
+_Context: Iraq, 2 car bomb, Baghdad_
 
 ##### Government of India
 ### [3 more people die in protests against the Government of India in the state of Jammu and Kashmir. ](/news/2010/09/19/3-more-people-die-in-protests-against-the-government-of-india-in-the-state-of-jammu-and-kashmir.md)
-_Context: Government of India, Jammu and Kashmir_
+_Context: Jammu and Kashmir, Government of India_
 
 ##### Tajik
 ### [At least 40 Tajik soldiers are killed in an attack in the Rasht Valley in eastern Tajikistan. ](/news/2010/09/19/at-least-40-tajik-soldiers-are-killed-in-an-attack-in-the-rasht-valley-in-eastern-tajikistan.md)
@@ -33,7 +33,7 @@ Two Taiwanese tourists are injured after gunmen open fire in Delhi, weeks before
 
 ##### Otlubayir
 ### [5 people are killed in an armed fight in Otlubayir in eastern Agri. ](/news/2010/09/19/5-people-are-killed-in-an-armed-fight-in-otlubaya-r-in-eastern-aara.md)
-_Context: Agri, Otlubayir_
+_Context: Otlubayir, Agri_
 
 ##### The King's Speech
 ### ["The King's Speech" is premiered at the 35th Toronto International Film Festival. ](/news/2010/09/19/the-king-s-speech-is-premiered-at-the-35th-toronto-international-film-festival.md)
@@ -45,7 +45,7 @@ Original handwritten manuscripts by Harry Potter author JK Rowling are going on 
 
 ##### northwest China
 ### [Rain-triggered floods killed four people and left two others missing Sunday in northwest China's Xinjiang Uyghur Autonomous Region's in Atush city. ](/news/2010/09/19/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-northwest-china-s-xinjiang-uyghur-autonomous-region-s-in-atus.md)
-_Context: Atush, Xinjiang Uyghur Autonomous Region, northwest China_
+_Context: Xinjiang Uyghur Autonomous Region, Atush, northwest China_
 
 ##### northern India
 ### [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in-a.md)
@@ -69,11 +69,11 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 
 ##### United Kingdom
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: terrorism, Uganda, Amsterdam, Somalia, United Kingdom, Amsterdam Airport Schiphol_
+_Context: Amsterdam, terrorism, Amsterdam Airport Schiphol, United Kingdom, Uganda, Somalia_
 
 ##### Air India Flight 182
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
-_Context: Air India Flight 182, Narita International Airport, perjury_
+_Context: Narita International Airport, Air India Flight 182, perjury_
 
 ##### Police
 ### [At least four people are killed and a police officer seriously wounded in a shooting incident at a hospital in Lorrach, Germany. ](/news/2010/09/19/at-least-four-people-are-killed-and-a-police-officer-seriously-wounded-in-a-shooting-incident-at-a-hospital-in-laprrach-germany.md)
@@ -81,7 +81,7 @@ Four people are killed and one seriously injured in a shooting at a German hospi
 
 ##### Metropolitan Police
 ### [The Metropolitan Police release six men arrested on suspicion of being terrorists during Pope Benedict XVI's visit to the United Kingdom without charge. ](/news/2010/09/19/the-metropolitan-police-release-six-men-arrested-on-suspicion-of-being-terrorists-during-pope-benedict-xvi-s-visit-to-the-united-kingdom-wit.md)
-_Context: terrorism, Pope Benedict XVI, visit of Pope Benedict XVI, Metropolitan Police_
+_Context: visit of Pope Benedict XVI, Metropolitan Police, Pope Benedict XVI, terrorism_
 
 ##### Mexican
 ### [Eight Mexican police officers from the state of Guerrero are found dead. ](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.md)
@@ -93,7 +93,7 @@ Copac outreach meetings in Harare were Sunday abandoned after violence and chaos
 
 ##### Sweden
 ### [Voters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/voters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-minister-of-sweden-fredrik-re.md)
-_Context: Fredrik Reinfeldt, The Alliance, Swedish general election, Sweden, prime minister_
+_Context: Sweden, Swedish general election, prime minister, Fredrik Reinfeldt, The Alliance_
 
 ##### United Front for Democracy Against Dictatorship
 ### [The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. ](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.md)
@@ -101,19 +101,19 @@ Thai security forces stepped up patrols today as anti-government protesters acro
 
 ##### Raul Castro
 ### [Raul Castro, the President of Cuba, sacks Yadira Garcia Vera as Minister for Basic Industry for "weak control over resources set aside for investment and production.". ](/news/2010/09/19/raul-castro-the-president-of-cuba-sacks-yadira-garcaa-vera-as-minister-for-basic-industry-for-weak-control-over-resources-set-aside-for.md)
-_Context: Raul Castro, President, Minister for Basic Industry, Yadira Garcia Vera_
+_Context: Raul Castro, President, Yadira Garcia Vera, Minister for Basic Industry_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
-_Context: John Henry Newman, England, visit of Pope Benedict XVI, Pope Benedict XVI, Cardinal, beatified, Birmingham_
+_Context: John Henry Newman, England, beatified, Pope Benedict XVI, visit of Pope Benedict XVI, Birmingham, Cardinal_
 
 ##### cult
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: Palmdale, cult, California, Jesus, United States, El Salvador_
+_Context: cult, Jesus, United States, Palmdale, El Salvador, California_
 
 ##### Armenia
 ### [Approximately 2,000 Armenians worship at the 10th century Church of the Holy Cross on Akdamar Island in Turkey for the first time since 1915. ](/news/2010/09/19/approximately-2-000-armenians-worship-at-the-10th-century-church-of-the-holy-cross-on-akdamar-island-in-turkey-for-the-first-time-since-1915.md)
-_Context: Armenia, Turkey, Akdamar Island, 10th century_
+_Context: Armenia, Akdamar Island, 10th century, Turkey_
 
 ## [Previous Day...](/news/2010/09/18/index.md)
 

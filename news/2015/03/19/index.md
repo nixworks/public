@@ -13,7 +13,7 @@ Vanuatu warns it faces imminent food shortages in the wake of Cyclone Pam that s
 
 ##### Diecai Hill
 ### [A huge boulder falls upon tourists awaiting to board a ship at the scenic Diecai Hill of China's Guilin region killing seven of them. ](/news/2015/03/19/a-huge-boulder-falls-upon-tourists-awaiting-to-board-a-ship-at-the-scenic-diecai-hill-of-china-s-guilin-region-killing-seven-of-them.md)
-_Context: Guilin, Diecai Hill, China_
+_Context: China, Diecai Hill, Guilin_
 
 ##### Euro zone
 ### [The Euro zone tells Greece that it must stay with its reform package or risk being forced out of the euro zone by cash-flow problems. ](/news/2015/03/19/the-euro-zone-tells-greece-that-it-must-stay-with-its-reform-package-or-risk-being-forced-out-of-the-euro-zone-by-cash-flow-problems.md)

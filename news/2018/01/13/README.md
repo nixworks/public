@@ -37,7 +37,7 @@ India News: The Bar Council of India (BCI) has formed a seven-member delegation 
 
 ##### Nigeria
 ### [Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. ](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-zakzaky-who-is-detained-at-an-unknown-location-without-charges-since-december-2015-makes-a.md)
-_Context: Islamic Movement, Ibrahim Zakzaky, Nigeria, Shia, doctor_
+_Context: Nigeria, Shia, Ibrahim Zakzaky, Islamic Movement, doctor_
 
 ##### mass shooting
 ### [Two people are killed and another is injured in a mass shooting in Vancouver, Canada. ](/news/2018/01/13/two-people-are-killed-and-another-is-injured-in-a-mass-shooting-in-vancouver-canada.md)

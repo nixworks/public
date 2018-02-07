@@ -33,7 +33,7 @@ Frontpage | New Straits Times : Authoritative source for Malaysia latest news on
 
 ##### unemployment rate
 ### [ The unemployment rate across the Eurozone reaches a ten-year high of 9.5%. ](/news/2009/09/1/the-unemployment-rate-across-the-eurozone-reaches-a-ten-year-high-of-9-5.md)
-_Context: unemployment rate, Eurozone_
+_Context: Eurozone, unemployment rate_
 
 ##### Chile
 ### [ Chile's government sets aside 4 billion pesos for the purchase of more fuel-efficient trucks for citizens through its "Cambia tu Camion" ("Change your Truck") program. ](/news/2009/09/1/chile-s-government-sets-aside-4-billion-pesos-for-the-purchase-of-more-fuel-efficient-trucks-for-citizens-through-its-acambia-tu-camia3na.md)
@@ -41,11 +41,11 @@ The Chilean government will subsidize the purchase of more fuel-efficient trucks
 
 ##### European Union
 ### [ The European Union bans the manufacture or import of 100 watt incandescent light bulbs, beginning a phase-out in favour of energy-saving compact fluorescent lamps. ](/news/2009/09/1/the-european-union-bans-the-manufacture-or-import-of-100-watt-incandescent-light-bulbs-beginning-a-phase-out-in-favour-of-energy-saving-co.md)
-_Context: compact fluorescent lamp, incandescent light bulb, European Union, bans the manufacture or import_
+_Context: European Union, compact fluorescent lamp, incandescent light bulb, bans the manufacture or import_
 
 ##### Pakistani troops
 ### [ The Pakistani Army claims to have killed at least 20 suspected militants in clashes across north-west Pakistan. ](/news/2009/09/1/the-pakistani-army-claims-to-have-killed-at-least-20-suspected-militants-in-clashes-across-north-west-pakistan.md)
-_Context: Pakistani troops, Pakistan_
+_Context: Pakistan, Pakistani troops_
 
 ##### diarrhoea
 ### [ An outbreak of diarrhoea in Orissa, India, kills at least 26 people and hospitalises 237. ](/news/2009/09/1/an-outbreak-of-diarrhoea-in-orissa-india-kills-at-least-26-people-and-hospitalises-237.md)
@@ -57,7 +57,7 @@ A ban on Samurai swords comes into effect from today with those breaking the law
 
 ##### Ali Ben Bongo
 ### [ Ali Ben Bongo, Pierre Mamboundou and Andre Mba Obame each declare victory in the Gabonese presidential election. ](/news/2009/09/1/ali-ben-bongo-pierre-mamboundou-and-andre-mba-obame-each-declare-victory-in-the-gabonese-presidential-election.md)
-_Context: disputed presidential election, Pierre Mamboundou, Andre Mba Obame, Ali Ben Bongo_
+_Context: disputed presidential election, Andre Mba Obame, Pierre Mamboundou, Ali Ben Bongo_
 
 ##### illegally fish
 ### [ 91 countries agree to the first ever global treaty focused specifically on the problem of IUU fishing. ](/news/2009/09/1/91-countries-agree-to-the-first-ever-global-treaty-focused-specifically-on-the-problem-of-iuu-fishing.md)
@@ -65,7 +65,7 @@ _Context: disputed presidential election, Pierre Mamboundou, Andre Mba Obame, Al
 
 ##### British government
 ### [ Documents released by the British government show that the United Kingdom gave in to Libyan demands that the Lockerbie bomber be eligible for transfer home to serve his sentence there. ](/news/2009/09/1/documents-released-by-the-british-government-show-that-the-united-kingdom-gave-in-to-libyan-demands-that-the-lockerbie-bomber-be-eligible-f.md)
-_Context: British government, United Kingdom, Libyan, Lockerbie bomber_
+_Context: British government, Lockerbie bomber, United Kingdom, Libyan_
 
 ##### Sri Lanka
 ### [ A Sri Lankan journalist is jailed for 20 years on charges of "inciting racial hatred" and "supporting terrorism" for writing articles critical of the government's military operations. ](/news/2009/09/1/a-sri-lankan-journalist-is-jailed-for-20-years-on-charges-of-inciting-racial-hatred-and-supporting-terrorism-for-writing-articles-criti.md)
@@ -73,19 +73,19 @@ A Sri Lankan reporter, recently named by US President Barack Obama as an example
 
 ##### Guatemala
 ### [ A Guatemalan court sentences Felipe Cusanero, an ex-paramilitary officer, to 150 years in prison for the forced disappearance of civilians in the 36-year Guatemalan Civil War. ](/news/2009/09/1/a-guatemalan-court-sentences-felipe-cusanero-an-ex-paramilitary-officer-to-150-years-in-prison-for-the-forced-disappearance-of-civilians.md)
-_Context: Civil War, Felipe Cusanero, Guatemala_
+_Context: Guatemala, Civil War, Felipe Cusanero_
 
 ##### South Africa
 ### [ A plane carrying South African Deputy President Kgalema Motlanthe back from an African Union summit in Tripoli, Libya makes an emergency landing on an unlit runway in northern Congo after missing a fuel stop. ](/news/2009/09/1/a-plane-carrying-south-african-deputy-president-kgalema-motlanthe-back-from-an-african-union-summit-in-tripoli-libya-makes-an-emergency-la.md)
-_Context: DR Congo, Tripoli, Kgalema Motlanthe, Libya, South Africa, African Union_
+_Context: South Africa, Libya, African Union, DR Congo, Kgalema Motlanthe, Tripoli_
 
 ##### diarrhea
 ### [ A diarrhea epidemic kills 34 people in Ethiopia and infects more than 5,000, with 500 hospitalised in Addis Ababa in one day alone. ](/news/2009/09/1/a-diarrhea-epidemic-kills-34-people-in-ethiopia-and-infects-more-than-5-000-with-500-hospitalised-in-addis-ababa-in-one-day-alone.md)
-_Context: diarrhea, Addis Ababa, Ethiopia_
+_Context: Addis Ababa, Ethiopia, diarrhea_
 
 ##### Saba
 ### [ Saba threatens to secede from the Netherlands Antilles in a letter to Dutch Prime Minister Jan Peter Balkenende. ](/news/2009/09/1/saba-threatens-to-secede-from-the-netherlands-antilles-in-a-letter-to-dutch-prime-minister-jan-peter-balkenende.md)
-_Context: Dutch Prime Minister, Jan Peter Balkenende, Netherlands Antilles, Saba_
+_Context: Jan Peter Balkenende, Saba, Netherlands Antilles, Dutch Prime Minister_
 
 ## [Previous Day...](/news/2009/08/31/index.md)
 

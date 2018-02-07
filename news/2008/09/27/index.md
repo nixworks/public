@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/27/index.html)  [JSON](2008/09/27/index.json)  [XML](200
 
 ##### bomb blast
 ### [ A bomb blast in Delhi, India kills 2 and injures 23. ](/news/2008/09/27/a-bomb-blast-in-delhi-india-kills-2-and-injures-23.md)
-_Context: Delhi, India, bomb blast_
+_Context: India, Delhi, bomb blast_
 
 ##### 2008 Atlantic hurricane season
 ### [ 2008 Atlantic hurricane season: Tropical Storm Kyle strengthens into Hurricane Kyle with predictions that it will make landfall in the New England region of the United States or Canada's Maritime Provinces on Sunday. ](/news/2008/09/27/2008-atlantic-hurricane-season-tropical-storm-kyle-strengthens-into-hurricane-kyle-with-predictions-that-it-will-make-landfall-in-the-new.md)
@@ -17,11 +17,11 @@ _Context: automaker, United States Senate, offshore_
 
 ##### People's Council
 ### [ The People's Council of Turkmenistan, implementing changes approved in the Constitution, passes a vote to abolish itself and allow opposition parties. ](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.md)
-_Context: Constitution, People's Council, Turkmenistan_
+_Context: People's Council, Turkmenistan, Constitution_
 
 ##### Shenzhou 7
 ### [ During mission Shenzhou 7, Zhai Zhigang successfully performs the first spacewalk by a Chinese astronaut, as China becomes the third country to carry out extra-vehicular activity independently. ](/news/2008/09/27/during-mission-shenzhou-7-zhai-zhigang-successfully-performs-the-first-spacewalk-by-a-chinese-astronaut-as-china-becomes-the-third-countr.md)
-_Context: Zhai Zhigang, astronaut, extra-vehicular activity, Shenzhou 7, China_
+_Context: China, Zhai Zhigang, extra-vehicular activity, Shenzhou 7, astronaut_
 
 ##### Hawthorn Football Club
 ### [ In Australian football, the Hawthorn Football Club defeats the Geelong Football Club in the 2008 AFL Grand Final by 115 points to 89. ](/news/2008/09/27/in-australian-football-the-hawthorn-football-club-defeats-the-geelong-football-club-in-the-2008-afl-grand-final-by-115-points-to-89.md)
@@ -29,7 +29,7 @@ Hawthorn won its first AFL premiership for 17 years at the MCG, emphatically top
 
 ##### 2008 Damascus car bomb
 ### [ 2008 Damascus car bomb: A suspected car bomb targeting a military installation in Damascus, Syria kills at least 17 and injures 14 others. ](/news/2008/09/27/2008-damascus-car-bomb-a-suspected-car-bomb-targeting-a-military-installation-in-damascus-syria-kills-at-least-17-and-injures-14-others.md)
-_Context: Damascus, Syria, car bomb, 2008 Damascus car bomb_
+_Context: 2008 Damascus car bomb, Damascus, Syria, car bomb_
 
 ##### Mersenne prime
 ### [ A 12.9 million digit Mersenne prime is discovered. ](/news/2008/09/27/a-12-9-million-digit-mersenne-prime-is-discovered.md)
@@ -41,7 +41,7 @@ _Context: Bradford & Bingley, subprime mortgage crisis_
 
 ##### United Nations Security Council
 ### [ United Nations Security Council passed Resolution 1835 on Iran, calling for compliance with previous resolutions, with no further sanctions. ](/news/2008/09/27/united-nations-security-council-passed-resolution-1835-on-iran-calling-for-compliance-with-previous-resolutions-with-no-further-sanctions.md)
-_Context: United Nations Security Council, United Nations Security Council resolution, Iran_
+_Context: United Nations Security Council, Iran, United Nations Security Council resolution_
 
 ## [Previous Day...](/news/2008/09/26/index.md)
 

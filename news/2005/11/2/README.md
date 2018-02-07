@@ -5,19 +5,19 @@ Formats: [HTML](2005/11/2/index.html)  [JSON](2005/11/2/index.json)  [XML](2005/
 
 ##### Guinea-Bissau
 ### [ Guinea-Bissau's President Nino Vieira appoints Aristides Gomes, a former African Development Bank official, as new Prime Minister, replacing the dismissed Carlos Gomes Jnior. ](/news/2005/11/2/guinea-bissau-s-president-nino-vieira-appoints-aristides-gomes-a-former-african-development-bank-official-as-new-prime-minister-replacin.md)
-_Context: Carlos Gomes Jnior, Aristides Gomes, Guinea-Bissau, African Development Bank, Nino Vieira_
+_Context: Guinea-Bissau, Nino Vieira, Aristides Gomes, African Development Bank, Carlos Gomes Jnior_
 
 ##### Donald E. Powell
 ### [ Donald E. Powell, former chief executive of the First National Bank of Amarillo, Texas and current Federal Deposit Insurance Corporation chairman is named to coordinate rebuilding of the Gulf Coast by President George W. Bush. ](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.md)
-_Context: Texas, FDIC, Gulf Coast, Donald E. Powell, Amarillo, George W. Bush_
+_Context: FDIC, George W. Bush, Texas, Gulf Coast, Donald E. Powell, Amarillo_
 
 ##### The Washington Post
 ### [ "The Washington Post" reports that the Central Intelligence Agency has been operating, perhaps as illegally, a covert network of "black site" prisons for terrorist suspects in eight foreign countries, including Afghanistan, Thailand, and several Eastern European democracies for the last four years, with little or no oversight from the United States Congress. ](/news/2005/11/2/the-washington-post-reports-that-the-central-intelligence-agency-has-been-operating-perhaps-as-illegally-a-covert-network-of-black-sit.md)
-_Context: black site, Eastern Europe, Afghanistan, lawmakers, The Washington Post, Central Intelligence Agency, Thailand_
+_Context: lawmakers, Afghanistan, black site, The Washington Post, Eastern Europe, Central Intelligence Agency, Thailand_
 
 ##### Iran
 ### [ Iran's President Mahmoud Ahmadinejad nominates Sadeq Mahsouli as Supervisor of Ministry of Petroleum of OPEC's number two producer, risking domestic political commotion and a parliamentary veto after already making a disturbance abroad with a call for Israel's destruction. ](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.md)
-_Context: OPEC, Iran, Israel's destruction, Supervisor of Ministry of Petroleum, Mahmoud Ahmadinejad, veto, Islamic Consultative Assembly, Sadeq Mahsouli_
+_Context: Mahmoud Ahmadinejad, Sadeq Mahsouli, veto, OPEC, Israel's destruction, Iran, Islamic Consultative Assembly, Supervisor of Ministry of Petroleum_
 
 ##### Delhi
 ### [ The Delhi police release three sketches of one of the suspected bombers involved in 29 October 2005 Delhi bombings. ](/news/2005/11/2/the-delhi-police-release-three-sketches-of-one-of-the-suspected-bombers-involved-in-29-october-2005-delhi-bombings.md)

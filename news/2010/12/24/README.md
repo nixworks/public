@@ -5,15 +5,15 @@ Formats: [HTML](2010/12/24/index.html)  [JSON](2010/12/24/index.json)  [XML](201
 
 ##### Christmas Eve
 ### [At least 32 people are killed in bomb blasts detonated during Christmas Eve celebrations near the city of Jos, Nigeria, while at least six people die in attacks on churches by suspected Islamists in the north-eastern city of Maiduguri.](/news/2010/12/24/at-least-32-people-are-killed-in-bomb-blasts-detonated-during-christmas-eve-celebrations-near-the-city-of-jos-nigeria-while-at-least-six-p.md)
-_Context: Nigeria, Islamists, Maiduguri, Jos, Christmas Eve_
+_Context: Maiduguri, Nigeria, Islamists, Jos, Christmas Eve_
 
 ##### Darfur
 ### [Rebel groups in the Darfur region of Sudan clash with government forces, three days after resuming ceasefire negotiations. ](/news/2010/12/24/rebel-groups-in-the-darfur-region-of-sudan-clash-with-government-forces-three-days-after-resuming-ceasefire-negotiations.md)
-_Context: Sudan, Darfur, ceasefire_
+_Context: Darfur, ceasefire, Sudan_
 
 ##### Boko Haram
 ### [Suspected Boko Haram members attack a church in northern Nigeria during Christmas Eve services. ](/news/2010/12/24/suspected-boko-haram-members-attack-a-church-in-northern-nigeria-during-christmas-eve-services.md)
-_Context: Nigeria, Christmas Eve, Boko Haram_
+_Context: Nigeria, Boko Haram, Christmas Eve_
 
 ##### Hizbul Islam
 ### [The Hizbul Islam group in Somalia join forces with al-Shabaab. ](/news/2010/12/24/the-hizbul-islam-group-in-somalia-join-forces-with-al-shabaab.md)
@@ -21,11 +21,11 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 
 ##### Iranian Revolutionary Guard
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)
-_Context: Iranian Revolutionary Guard, NATO, International Security Assistance Force, Afghanistan_
+_Context: NATO, International Security Assistance Force, Iranian Revolutionary Guard, Afghanistan_
 
 ##### Christmas
 ### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's "Thought for the Day" programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
-_Context: Christmas, Pope Benedict XVI, BBC Radio 4, Thought for the Day, United Kingdom_
+_Context: Pope Benedict XVI, United Kingdom, Christmas, Thought for the Day, BBC Radio 4_
 
 ##### Bethlehem
 ### [Thousands of people gather in Bethlehem to celebrate Christmas. ](/news/2010/12/24/thousands-of-people-gather-in-bethlehem-to-celebrate-christmas.md)
@@ -77,7 +77,7 @@ State television in Ivory Coast goes off air outside the main city, Abidjan, ami
 
 ##### South Korea
 ### [South Korea says it will keep a giant Christmas tree near the border with North Korea lit until January 8, amid threats from North Korea. ](/news/2010/12/24/south-korea-says-it-will-keep-a-giant-christmas-tree-near-the-border-with-north-korea-lit-until-january-8-amid-threats-from-north-korea.md)
-_Context: South Korea, North Korea, Christmas tree_
+_Context: North Korea, Christmas tree, South Korea_
 
 ##### India
 ### [Indian police search for four people in Mumbai suspected of being members of the Lashkar-e-Taiba group responsible for the 2008 Mumbai attacks. ](/news/2010/12/24/indian-police-search-for-four-people-in-mumbai-suspected-of-being-members-of-the-lashkar-e-taiba-group-responsible-for-the-2008-mumbai-attac.md)
@@ -97,7 +97,7 @@ _Context: Tunisia_
 
 ##### Roman Catholic Church
 ### [The Roman Catholic Church in Cuba announces that the government will release two more political prisoners to exile in Spain. ](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.md)
-_Context: Roman Catholic Church, Cuba, political prisoner, Spain_
+_Context: political prisoner, Cuba, Spain, Roman Catholic Church_
 
 ##### Cte d'Ivoire
 ### [State television in Cte d'Ivoire goes off the air outside the capital Abidjan amid a political crisis. The Economic Community of West African States threatens to remove incumbent President Laurent Gbagbo by "legitimate force". ](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.md)

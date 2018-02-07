@@ -21,7 +21,7 @@ Italian news reports say rescue crews have discovered some 17 bodies in the hull
 
 ##### British Museum
 ### [The British Museum announces that it will loan one of the Elgin Marbles in its collection, originally taken from Greece, to the Hermitage Museum in Saint Petersburg. Greece's Prime Minister Antonis Samaras calls the move "a provocation to the Greek people." ](/news/2014/12/5/the-british-museum-announces-that-it-will-loan-one-of-the-elgin-marbles-in-its-collection-originally-taken-from-greece-to-the-hermitage-mu.md)
-_Context: Saint Petersburg, Hermitage Museum, Elgin Marbles, Antonis Samaras, Greek Prime Minister, British Museum, Greece_
+_Context: Greece, British Museum, Greek Prime Minister, Antonis Samaras, Elgin Marbles, Saint Petersburg, Hermitage Museum_
 
 ##### Supreme People's Procuratorate
 ### [China's Supreme People's Procuratorate arrests former Politburo Standing Committee member Zhou Yongkang on corruption charges and expels him from the Communist Party of China. ](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.md)
@@ -37,7 +37,7 @@ Lack of documentation puts pressure on accuser.
 
 ##### The first flight test
 ### [The first flight test of NASA's Orion spacecraft launches successfully at 7:05 EST (12:05 UTC) and splashes down safely in the Pacific Ocean at 8:29 PST (16:29 UTC). ](/news/2014/12/5/the-first-flight-test-of-nasa-s-orion-spacecraft-launches-successfully-at-7-05-est-12-05-utc-and-splashes-down-safely-in-the-pacific-ocean.md)
-_Context: Orion spacecraft, EST, NASA, The first flight test, PST_
+_Context: PST, The first flight test, NASA, EST, Orion spacecraft_
 
 ## [Previous Day...](/news/2014/12/4/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/19/index.html)  [JSON](2011/11/19/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: At least 19 people are killed across Syria by security forces as protests continue against the regime of President Bashar al-Assad. ](/news/2011/11/19/2011-syrian-uprising-at-least-19-people-are-killed-across-syria-by-security-forces-as-protests-continue-against-the-regime-of-president-bas.md)
-_Context: President, Bashar al-Assad, Syria, 2011 Syrian uprising_
+_Context: President, Syria, Bashar al-Assad, 2011 Syrian uprising_
 
 ##### Cairo
 ### [At least two people are killed and over 600 injured in violent clashes with police in Cairo's Tahrir Square, following mass protests against Egypt's post-revolutionary military leadership. ](/news/2011/11/19/at-least-two-people-are-killed-and-over-600-injured-in-violent-clashes-with-police-in-cairo-s-tahrir-square-following-mass-protests-against.md)

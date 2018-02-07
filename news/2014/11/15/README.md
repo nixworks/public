@@ -13,7 +13,7 @@ _Context: magnitude earthquake, Kyrgyzstan_
 
 ##### Kota Ternate
 ### [A 7.1 magnitude earthquake occurs in waters off Kota Ternate in Indonesia with the potential to trigger a tsunami to hit Indonesia and the Philippines. ](/news/2014/11/15/a-7-1-magnitude-earthquake-occurs-in-waters-off-kota-ternate-in-indonesia-with-the-potential-to-trigger-a-tsunami-to-hit-indonesia-and-the-p.md)
-_Context: tsunami, Philippines, Indonesia, Kota Ternate_
+_Context: Philippines, tsunami, Kota Ternate, Indonesia_
 
 ##### ninth G-20 summit
 ### [The ninth G-20 summit gets underway in the Australian city of Brisbane. ](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-australian-city-of-brisbane.md)

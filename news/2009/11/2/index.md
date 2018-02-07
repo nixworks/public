@@ -13,7 +13,7 @@ _Context: Venezuela, rationing water_
 
 ##### Royal Bank of Scotland
 ### [ The Royal Bank of Scotland announces cuts of 3,700 staff in the United Kingdom. ](/news/2009/11/2/the-royal-bank-of-scotland-announces-cuts-of-3-700-staff-in-the-united-kingdom.md)
-_Context: United Kingdom, Royal Bank of Scotland_
+_Context: Royal Bank of Scotland, United Kingdom_
 
 ##### Philippines
 ### [ 16 people are killed in a fire that destroyed 58 houses in the Philippine city of Bacolod. ](/news/2009/11/2/16-people-are-killed-in-a-fire-that-destroyed-58-houses-in-the-philippine-city-of-bacolod.md)
@@ -37,7 +37,7 @@ _Context: Simon Mann, Equatorial Guinea, mercenaries, coup d'etat_
 
 ##### death penalty
 ### [ Four people are sentenced to death by hanging in Tanzania for the killing of an Albino man last year. ](/news/2009/11/2/four-people-are-sentenced-to-death-by-hanging-in-tanzania-for-the-killing-of-an-albino-man-last-year.md)
-_Context: death penalty, albino, Tanzania, hanging_
+_Context: hanging, Tanzania, albino, death penalty_
 
 ##### Bosnian Serb
 ### [ Former Bosnian Serb leader Radovan Karadzic is to attend his war crimes trial on Tuesday, after boycotting previous sittings. ](/news/2009/11/2/former-bosnian-serb-leader-radovan-karada3-4ia-is-to-attend-his-war-crimes-trial-on-tuesday-after-boycotting-previous-sittings.md)
@@ -45,11 +45,11 @@ Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribu
 
 ##### spreading false information
 ### [ Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. ](/news/2009/11/2/two-people-are-charged-with-spreading-false-information-about-the-health-of-thailand-s-king-bhumibol-adulyadej.md)
-_Context: Thailand, Bhumibol Adulyadej, spreading false information_
+_Context: Thailand, spreading false information, Bhumibol Adulyadej_
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md)
-_Context: presidential election, Ban Ki-moon, Afghanistan, United Nations Secretary-General_
+_Context: Afghanistan, presidential election, Ban Ki-moon, United Nations Secretary-General_
 
 ## [Previous Day...](/news/2009/11/1/index.md)
 

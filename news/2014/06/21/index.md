@@ -9,11 +9,11 @@ Fighters led by ISIL capture more territory as Prime Minister Nouri al-Maliki co
 
 ##### South Korean army
 ### [A South Korean soldier fatally shoots five comrades at an outpost in Gangwon Province before fleeing with a weapon. ](/news/2014/06/21/a-south-korean-soldier-fatally-shoots-five-comrades-at-an-outpost-in-gangwon-province-before-fleeing-with-a-weapon.md)
-_Context: South Korean army, Gangwon Province_
+_Context: Gangwon Province, South Korean army_
 
 ##### Belarus
 ### [Belarusian human rights' activist Ales Bialiatski is freed from prison and is received by his wife and supporters in Minsk. ](/news/2014/06/21/belarusian-human-rights-activist-ales-bialiatski-is-freed-from-prison-and-is-received-by-his-wife-and-supporters-in-minsk.md)
-_Context: Minsk, Ales Bialiatski, Belarus_
+_Context: Belarus, Minsk, Ales Bialiatski_
 
 ## [Previous Day...](/news/2014/06/20/index.md)
 

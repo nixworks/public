@@ -9,7 +9,7 @@ A hospital in north Yemen run by the medical aid group Medecins Sans Frontieres 
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports the Islamic State, on Sunday, executed three detainees in the ancient Syrian city of Palmyra by strapping them to pillars and blowing them up with the antiquities. ISIL has yet to tell locals the identities of the three individuals or say why they had been killed. ](/news/2015/10/27/the-syrian-observatory-for-human-rights-reports-the-islamic-state-on-sunday-executed-three-detainees-in-the-ancient-syrian-city-of-palmyra.md)
-_Context: Syria, Syrian Observatory for Human Rights, ISIL, Syrian Civil War, destroyed, Palmyra_
+_Context: Syrian Civil War, Syrian Observatory for Human Rights, ISIL, Syria, Palmyra, destroyed_
 
 ##### U.S. airstrikes
 ### [United States Defense Secretary Ashton Carter says the U.S. will begin "direct action on the ground" against the ISIL forces in Iraq and Syria, aiming to intensify pressure on the militants as progress against the militants remains elusive. The U.S. has done some special operations raids in Syria, e.g., last week's rescue operation with Kurdish forces in northern Iraq to free hostages held by ISIL. Carter also said the U.S. would intensify the air campaign against ISIL with heavier airstrikes and will focus on Raqqa, the group's declared capital in Syria. ](/news/2015/10/27/united-states-defense-secretary-ashton-carter-says-the-u-s-will-begin-direct-action-on-the-ground-against-the-isil-forces-in-iraq-and-syr.md)
@@ -69,15 +69,15 @@ Philippines President Benigno Aquino said his country has &#034;no capacity&#034
 
 ##### Guatemala
 ### [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-th.md)
-_Context: public hospital, kickback scheme, President, Guatemala, United Nations, Alvaro Colom, organized crime_
+_Context: organized crime, kickback scheme, President, Alvaro Colom, United Nations, public hospital, Guatemala_
 
 ##### United Kingdom
 ### [Britain is reviewing the powers of the House of Lords after the unelected peers stalled legislation yesterday that would have eliminated some tax allowances for the nation's poor. Senior Conservatives say the upper chamber of Parliament stepped out of their usual roles as technical overseers of legislation. However, Conservative MP David Davis warned that such a move was "bully politics" that would "disgust" the public. ](/news/2015/10/27/britain-is-reviewing-the-powers-of-the-house-of-lords-after-the-unelected-peers-stalled-legislation-yesterday-that-would-have-eliminated-som.md)
-_Context: Conservatives, House of Lords, MP, David Davis, Parliament, bully politics, United Kingdom_
+_Context: United Kingdom, David Davis, House of Lords, bully politics, Parliament, Conservatives, MP_
 
 ##### Ivorian presidential election, 2015
 ### [Partial results from Sunday's election give Ivory Coast's President Alassane Ouattara an overwhelming lead (83.18 percent) on the way to a second five-year term. This weekend's vote was judged to be peaceful and transparent by observers, making it the first in Cote d'Ivoire's history not to be marred by serious rights violations or irregularities. ](/news/2015/10/27/partial-results-from-sunday-s-election-give-ivory-coast-s-president-alassane-ouattara-an-overwhelming-lead-83-18-percent-on-the-way-to-a-s.md)
-_Context: President, Ivorian presidential election, 2015, serious rights violations or irregularities, observers, Alassane Ouattara, Ivory Coast_
+_Context: Ivorian presidential election, 2015, Ivory Coast, President, observers, serious rights violations or irregularities, Alassane Ouattara_
 
 ## [Previous Day...](/news/2015/10/26/index.md)
 

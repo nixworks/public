@@ -21,19 +21,19 @@ Exxon Mobil Corp. and OAO Rosneft, Russia’s biggest oil producer, will announc
 
 ##### United States Justice Department
 ### [The United States Justice Department files an antitrust lawsuit to prevent AT&T from taking over T-Mobile USA. ](/news/2011/08/31/the-united-states-justice-department-files-an-antitrust-lawsuit-to-prevent-at-t-from-taking-over-t-mobile-usa.md)
-_Context: reduced competition and higher prices, United States Justice Department, T-Mobile USA, AT&T_
+_Context: T-Mobile USA, AT&T, United States Justice Department, reduced competition and higher prices_
 
 ##### Wildfire
 ### [Wildfires severely damage homes and infrastructure in the US states of Texas and Oklahoma. ](/news/2011/08/31/wildfires-severely-damage-homes-and-infrastructure-in-the-us-states-of-texas-and-oklahoma.md)
-_Context: Oklahoma, Texas, Wildfire_
+_Context: Texas, Wildfire, Oklahoma_
 
 ##### Hurricane Katia
 ### [Hurricane Katia becomes the second hurricane of the 2011 Atlantic hurricane season. ](/news/2011/08/31/hurricane-katia-becomes-the-second-hurricane-of-the-2011-atlantic-hurricane-season.md)
-_Context: hurricane, Hurricane Rina, Hurricane Katia_
+_Context: Hurricane Katia, hurricane, Hurricane Rina_
 
 ##### High Court of Australia
 ### [The High Court of Australia rules against plans by the government of Australia to send 800 asylum seekers to Malaysia. ](/news/2011/08/31/the-high-court-of-australia-rules-against-plans-by-the-government-of-australia-to-send-800-asylum-seekers-to-malaysia.md)
-_Context: government of Australia, asylum seeker, Malaysia, High Court of Australia_
+_Context: government of Australia, Malaysia, asylum seeker, High Court of Australia_
 
 ## [Previous Day...](/news/2011/08/30/index.md)
 

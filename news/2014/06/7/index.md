@@ -21,7 +21,7 @@ _Context: New Jersey Turnpike, James McNair, Tracy Morgan, Robert Wood Johnson U
 
 ##### President
 ### [Ten supporters of former President of Egypt Mohammed Morsi's Muslim Brotherhood movement are sentenced to death in absentia for allegedly inciting violence and blocking a road last July. ](/news/2014/06/7/ten-supporters-of-former-president-of-egypt-mohammed-morsi-s-muslim-brotherhood-movement-are-sentenced-to-death-in-absentia-for-allegedly-in.md)
-_Context: in absentia, Mohammed Morsi, Muslim Brotherhood, President_
+_Context: in absentia, Muslim Brotherhood, President, Mohammed Morsi_
 
 ##### Altaf Hussain
 ### [Altaf Hussain, the exiled founder of the Muttahida Qaumi Movement in Pakistan, is released in London on money laundering charges. ](/news/2014/06/7/altaf-hussain-the-exiled-founder-of-the-muttahida-qaumi-movement-in-pakistan-is-released-in-london-on-money-laundering-charges.md)
@@ -37,7 +37,7 @@ Petro Poroshenko will be sworn in on Saturday as Ukraine&#039;s president, buoye
 
 ##### Binyamin Ben-Eliezer
 ### [Binyamin Ben-Eliezer of the Israeli Labor Party withdraws from the presidential election on 10 June as a result of a graft probe. ](/news/2014/06/7/binyamin-ben-eliezer-of-the-israeli-labor-party-withdraws-from-the-presidential-election-on-10-june-as-a-result-of-a-graft-probe.md)
-_Context: Israeli Labor Party, presidential election, Binyamin Ben-Eliezer, graft_
+_Context: graft, presidential election, Israeli Labor Party, Binyamin Ben-Eliezer_
 
 ##### Michael Gove
 ### [UK Education Secretary Michael Gove apologises to Prime Minister David Cameron over a row with Home Secretary Theresa May about how to tackle Islamic extremism following recent revelations about a Muslim plot to take over schools in Birmingham. ](/news/2014/06/7/uk-education-secretary-michael-gove-apologises-to-prime-minister-david-cameron-over-a-row-with-home-secretary-theresa-may-about-how-to-tackl.md)

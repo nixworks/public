@@ -5,15 +5,15 @@ Formats: [HTML](2008/08/27/index.html)  [JSON](2008/08/27/index.json)  [XML](200
 
 ##### internet
 ### [ A flaw in the internet's Border Gateway Protocol that was described ten years ago now "can be used to invisibly eavesdrop on all traffic originating from a particular set of IP blocks." ](/news/2008/08/27/a-flaw-in-the-internet-s-border-gateway-protocol-that-was-described-ten-years-ago-now-can-be-used-to-invisibly-eavesdrop-on-all-traffic-or.md)
-_Context: internet, Border Gateway Protocol_
+_Context: Border Gateway Protocol, internet_
 
 ##### Democratic National Convention
 ### [ Senator Barack Obama is formally selected by acclamation as the nominee of the Democratic Party. Senator Joe Biden is formally selected as the vice presidential Democratic nominee in the same manner by acclamation. ](/news/2008/08/27/senator-barack-obama-is-formally-selected-by-acclamation-as-the-nominee-of-the-democratic-party-senator-joe-biden-is-formally-selected-as.md)
-_Context: Democratic National Convention, Barack Obama, acclamation, Joe Biden, Democrat_
+_Context: Barack Obama, Joe Biden, acclamation, Democratic National Convention, Democrat_
 
 ##### illegal immigrant
 ### [ As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean off the coast of Malta. ](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-drowned-after-their-boat-sinks-in-the-mediterranean-off-the-coast-of-malta.md)
-_Context: Malta, illegal immigrant_
+_Context: illegal immigrant, Malta_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama cancels two international trips (Mexico & Dominican Republic) to undergo medical tests due to "exhaustion". ](/news/2008/08/27/the-dalai-lama-cancels-two-international-trips-mexico-dominican-republic-to-undergo-medical-tests-due-to-exhaustion.md)
@@ -37,7 +37,7 @@ _Context: Haiti, landfall, Hurricane Gustav_
 
 ##### earthquake
 ### [ The earthquake with a magnitude 9.0 occurred off the southern coast of Lake Baikal. It was felt strongly in Baykalsk and Slyudyanka, two towns in Slyudyansky District, Irkutsk Oblast, Russia. ](/news/2008/08/27/the-earthquake-with-a-magnitude-9-0-occurred-off-the-southern-coast-of-lake-baikal-it-was-felt-strongly-in-baykalsk-and-slyudyanka-two-to.md)
-_Context: earthquake, Irkutsk Oblast, Baykalsk, Slyudyansky District, Slyudyanka, Lake Baikal_
+_Context: Slyudyansky District, earthquake, Baykalsk, Lake Baikal, Slyudyanka, Irkutsk Oblast_
 
 ## [Previous Day...](/news/2008/08/26/index.md)
 

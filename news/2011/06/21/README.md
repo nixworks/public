@@ -53,7 +53,7 @@ Former South Korean foreign minister re-elected by acclamation as secretary gene
 
 ##### First Lady
 ### [First Lady of the United States Michelle Obama begins a six-day visit to southern Africa with her daughters; they are granted an audience with Nelson Mandela. ](/news/2011/06/21/first-lady-of-the-united-states-michelle-obama-begins-a-six-day-visit-to-southern-africa-with-her-daughters-they-are-granted-an-audience-wi.md)
-_Context: Michelle Obama, First Lady, Nelson Mandela, southern Africa_
+_Context: First Lady, southern Africa, Nelson Mandela, Michelle Obama_
 
 ##### China
 ### [A Chinese court sentences a forklift driver to death for killing a protester in an incident that started unrest in Inner Mongolia. ](/news/2011/06/21/a-chinese-court-sentences-a-forklift-driver-to-death-for-killing-a-protester-in-an-incident-that-started-unrest-in-inner-mongolia.md)
@@ -61,7 +61,7 @@ _Context: China, Inner Mongolia_
 
 ##### Yvan Colonna
 ### [A French court upholds a life sentence for Yvan Colonna, a former shepherd and Corsican separatist convicted of fatally shooting police prefect Claude Erignac near a concert hall in Ajaccio in 1998. Colonna has denied killing Erignac. ](/news/2011/06/21/a-french-court-upholds-a-life-sentence-for-yvan-colonna-a-former-shepherd-and-corsican-separatist-convicted-of-fatally-shooting-police-pref.md)
-_Context: prefect, Ajaccio, Claude Erignac, shepherd, Yvan Colonna_
+_Context: Ajaccio, prefect, Claude Erignac, shepherd, Yvan Colonna_
 
 ##### Georges Tron
 ### [Former French minister Georges Tron, who resigned last month due to allegations of sexual assault, is arrested by police. ](/news/2011/06/21/former-french-minister-georges-tron-who-resigned-last-month-due-to-allegations-of-sexual-assault-is-arrested-by-police.md)

@@ -17,7 +17,7 @@ In face of outcry, AIG board decides against joining lawsuit from shareholder gr
 
 ##### SeaStreak
 ### [A SeaStreak ferry travelling to Lower Manhattan, New York City, crashes into the dock, injuring 85 people. ](/news/2013/01/9/a-seastreak-ferry-travelling-to-lower-manhattan-new-york-city-crashes-into-the-dock-injuring-85-people.md)
-_Context: SeaStreak, ferry, New York City, Lower Manhattan_
+_Context: SeaStreak, Lower Manhattan, ferry, New York City_
 
 ##### United Kingdom
 ### [Retired British businessman Christopher Tappin is sentenced to 33 months in prison by a U.S. court after pleading guilty to selling weapon parts to Iran. ](/news/2013/01/9/retired-british-businessman-christopher-tappin-is-sentenced-to-33-months-in-prison-by-a-u-s-court-after-pleading-guilty-to-selling-weapon-p.md)
@@ -29,7 +29,7 @@ Saudi Arabia beheads a Sri Lankan domestic worker for killing a baby in her care
 
 ##### United States Secretary of Labor
 ### [U.S. Secretary of Labor Hilda Solis announces her resignation from the position, and is expected to step down some time around the presidential inauguration in late January. ](/news/2013/01/9/u-s-secretary-of-labor-hilda-solis-announces-her-resignation-from-the-position-and-is-expected-to-step-down-some-time-around-the-president.md)
-_Context: Hilda Solis, United States Secretary of Labor, second inauguration_
+_Context: United States Secretary of Labor, Hilda Solis, second inauguration_
 
 ##### Venezuela
 ### [The Venezuelan Supreme Tribunal of Justice rules that the latest inauguration of President Hugo Chavez can be deferred while his recovery continues from a cancer operation. ](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.md)

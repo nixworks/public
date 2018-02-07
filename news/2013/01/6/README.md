@@ -9,7 +9,7 @@ Syrian President Bashar al-Assad delivers a rare televised speech, denouncing th
 
 ##### Indian Army
 ### [A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldier-and-another-crit.md)
-_Context: Indian Army, Kashmir, Kashmir conflict, Pakistan Army_
+_Context: Indian Army, Kashmir conflict, Kashmir, Pakistan Army_
 
 ##### drones launch
 ### [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md)
@@ -37,7 +37,7 @@ _Context: Minister of Colonial Affairs, Gerard Helders_
 
 ##### Apple Inc.
 ### [At Apple, applications developers say they gave Apple plenty of warning about issues with its iOS maps issues. ](/news/2013/01/6/at-apple-applications-developers-say-they-gave-apple-plenty-of-warning-about-issues-with-its-ios-maps-issues.md)
-_Context: Apple Inc., iOS, developers_
+_Context: Apple Inc., developers, iOS_
 
 ## [Previous Day...](/news/2013/01/5/index.md)
 

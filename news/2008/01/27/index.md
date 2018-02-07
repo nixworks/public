@@ -9,7 +9,7 @@ _Context: Kenya, post-election violence_
 
 ##### Taiwan
 ### [ Taiwan's Premier Chang Chun-hsiung remains in office as President Chen Shui-bian rejects his resignation. ](/news/2008/01/27/taiwan-s-premier-chang-chun-hsiung-remains-in-office-as-president-chen-shui-bian-rejects-his-resignation.md)
-_Context: Premier, Chang Chun-hsiung, Taiwan, President, Chen Shui-bian_
+_Context: President, Premier, Chen Shui-bian, Chang Chun-hsiung, Taiwan_
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present): Troops close in on Darra Adam Khel in Pakistan after fierce clashes. ](/news/2008/01/27/war-in-pakistan-2004apresent-troops-close-in-on-darra-adam-khel-in-pakistan-after-fierce-clashes.md)

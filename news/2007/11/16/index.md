@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/16/index.html)  [JSON](2007/11/16/index.json)  [XML](200
 
 ##### Airbus
 ### [ An Airbus A340-600, scheduled to be delivered at Etihad Airways' base in Abu Dhabi, crashes into a barrier at Toulouse Blagnac International Airport during tests. Five people are injured. ](/news/2007/11/16/an-airbus-a340-600-scheduled-to-be-delivered-at-etihad-airways-base-in-abu-dhabi-crashes-into-a-barrier-at-toulouse-blagnac-internationa.md)
-_Context: Airbus, A340-600, Abu Dhabi, Toulouse Blagnac International Airport, Etihad Airways_
+_Context: Airbus, A340-600, Abu Dhabi, Etihad Airways, Toulouse Blagnac International Airport_
 
 ##### Russia
 ### [ Russia's deputy finance minister Sergei Storchak, one of Russia's top officials on international financial relations, is detained as part of a criminal investigation. ](/news/2007/11/16/russia-s-deputy-finance-minister-sergei-storchak-one-of-russia-s-top-officials-on-international-financial-relations-is-detained-as-part-o.md)
@@ -13,23 +13,23 @@ _Context: Russia, Sergei Storchak_
 
 ##### President of Georgia
 ### [ President Mikheil Saakashvili lifts the state of emergency that was imposed on November 6. ](/news/2007/11/16/president-mikheil-saakashvili-lifts-the-state-of-emergency-that-was-imposed-on-november-6.md)
-_Context: President of Georgia, state of emergency, Mikheil Saakashvili_
+_Context: state of emergency, Mikheil Saakashvili, President of Georgia_
 
 ##### public-sector strikes
 ### [ Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. ](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-against-president-nicolas-sarkozy-s-pension-reform-enters-its-third-day.md)
-_Context: train driver, strike, pension reform, French President, France, public-sector strikes, Nicolas Sarkozy_
+_Context: public-sector strikes, train driver, pension reform, France, Nicolas Sarkozy, French President, strike_
 
 ##### German
 ### [ German architect Heike Hanada of Weimar wins the international competition for extending the Stockholm Public Library. ](/news/2007/11/16/german-architect-heike-hanada-of-weimar-wins-the-international-competition-for-extending-the-stockholm-public-library.md)
-_Context: Heike Hanada, architect, German, competition, central library, Weimar_
+_Context: Weimar, German, Heike Hanada, competition, architect, central library_
 
 ##### International Criminal Tribunal for Rwanda
 ### [ The International Criminal Tribunal for Rwanda sentences Juvnal Rugambarara, the former mayor of Bicumbi, to 11 years in jail for crimes he committed during the Rwandan Genocide. ](/news/2007/11/16/the-international-criminal-tribunal-for-rwanda-sentences-juvenal-rugambarara-the-former-mayor-of-bicumbi-to-11-years-in-jail-for-crimes-h.md)
-_Context: Juvnal Rugambarara, Rwandan Genocide, International Criminal Tribunal for Rwanda, mayor, Bicumbi_
+_Context: Rwandan Genocide, mayor, International Criminal Tribunal for Rwanda, Bicumbi, Juvnal Rugambarara_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon holds talks with Lebanese political leaders, trying to break an impasse over the election of the next President. ](/news/2007/11/16/united-nations-secretary-general-ban-ki-moon-holds-talks-with-lebanese-political-leaders-trying-to-break-an-impasse-over-the-election-of-t.md)
-_Context: President of Lebanon, United Nations Secretary-General, impasse, political leader, Lebanon, United Nations, Ban Ki-moon_
+_Context: Ban Ki-moon, United Nations Secretary-General, Lebanon, political leader, President of Lebanon, impasse, United Nations_
 
 ##### German
 ### [ The German train driver strike enters its third day. ](/news/2007/11/16/the-german-train-driver-strike-enters-its-third-day.md)
@@ -37,7 +37,7 @@ _Context: German, train driver, strike_
 
 ##### Turkey
 ### [ Turkish prosecutors ask the Constitutional Court to ban the Kurdish Democratic Society Party, claiming it has links to the outlawed Kurdistan Workers Party. ](/news/2007/11/16/turkish-prosecutors-ask-the-constitutional-court-to-ban-the-kurdish-democratic-society-party-claiming-it-has-links-to-the-outlawed-kurdist.md)
-_Context: prosecutor, Constitutional Court of Turkey, Democratic Society Party, Turkey, Kurdistan Workers Party_
+_Context: Democratic Society Party, Kurdistan Workers Party, Constitutional Court of Turkey, Turkey, prosecutor_
 
 ##### OSCE
 ### [ The Organization for Security and Co-operation in Europe announces it will not be able to monitor the 2007 Russian legislative election since its staff has been denied visas. ](/news/2007/11/16/the-organization-for-security-and-co-operation-in-europe-announces-it-will-not-be-able-to-monitor-the-2007-russian-legislative-election-sin.md)
@@ -45,31 +45,31 @@ _Context: visa, OSCE, parliamentary elections_
 
 ##### United States
 ### [ United States Deputy Secretary of State John Negroponte speaks with former Prime Minister Benazir Bhutto on the phone and tells her that "moderate forces" should work together to bring the country back to democracy. ](/news/2007/11/16/united-states-deputy-secretary-of-state-john-negroponte-speaks-with-former-prime-minister-benazir-bhutto-on-the-phone-and-tells-her-that-m.md)
-_Context: US Deputy Secretary of State, Benazir Bhutto, Prime Minister, United States, democratic, John Negroponte_
+_Context: democratic, John Negroponte, Prime Minister, United States, US Deputy Secretary of State, Benazir Bhutto_
 
 ##### Donald Tusk
 ### [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md)
-_Context: Polish Prime Minister, Donald Tusk, Polish People's Party, Civic Platform_
+_Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_
 
 ##### Uttar Pradesh
 ### [ Police in Uttar Pradesh arrest three Pakistani members of Jaish-e-Mohammed who were plotting to kidnap an Indian politician. ](/news/2007/11/16/police-in-uttar-pradesh-arrest-three-pakistani-members-of-jaish-e-mohammed-who-were-plotting-to-kidnap-an-indian-politician.md)
-_Context: Uttar Pradesh, Pakistan, kidnap, Jaish-e-Mohammed, India_
+_Context: Jaish-e-Mohammed, Pakistan, kidnap, Uttar Pradesh, India_
 
 ##### Japan
 ### [ Japanese Prime Minister Yasuo Fukuda flies to the United States to hold talks with U.S. President George W. Bush. ](/news/2007/11/16/japanese-prime-minister-yasuo-fukuda-flies-to-the-united-states-to-hold-talks-with-u-s-president-george-w-bush.md)
-_Context: George W. Bush, Yasuo Fukuda, Japan, Prime Minister of Japan, U.S. President, United States_
+_Context: Yasuo Fukuda, Japan, United States, U.S. President, George W. Bush, Prime Minister of Japan_
 
 ##### Cyclone Sidr
 ### [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md)
-_Context: Cyclone Sidr, Dhaka, Bangladesh_
+_Context: Cyclone Sidr, Bangladesh, Dhaka_
 
 ##### Russia
 ### [ Former Russian frogman Eduard Koltsov claims he killed British diver Lionel Crabb while he was spying on a Soviet warship in 1956. ](/news/2007/11/16/former-russian-frogman-eduard-koltsov-claims-he-killed-british-diver-lionel-crabb-while-he-was-spying-on-a-soviet-warship-in-1956.md)
-_Context: Eduard Koltsov, diver, Russia, espionage, Lionel Crabb, United Kingdom, frogman, warship, Soviet_
+_Context: frogman, Lionel Crabb, Russia, diver, warship, Eduard Koltsov, United Kingdom, Soviet, espionage_
 
 ##### John Kerry
 ### [ U.S. Senator John Kerry accepts T. Boone Pickens' one-million-dollar Swift Boat challenge. ](/news/2007/11/16/u-s-senator-john-kerry-accepts-t-boone-pickens-one-million-dollar-swift-boat-challenge.md)
-_Context: Swift Boat challenge, T. Boone Pickens, John Kerry_
+_Context: John Kerry, T. Boone Pickens, Swift Boat challenge_
 
 ## [Previous Day...](/news/2007/11/15/index.md)
 

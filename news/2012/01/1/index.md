@@ -25,7 +25,7 @@ The Queen has appointed former prime minister John Howard a member of the Order 
 
 ##### Rio Tinto Alcan
 ### [Rio Tinto Alcan locks out hundreds of workers from a smelter in the Canadian town of Alma, Quebec. ](/news/2012/01/1/rio-tinto-alcan-locks-out-hundreds-of-workers-from-a-smelter-in-the-canadian-town-of-alma-quebec.md)
-_Context: Rio Tinto Alcan, smelter, locks out, Alma, Canadian, Quebec_
+_Context: Alma, smelter, Quebec, Canadian, Rio Tinto Alcan, locks out_
 
 ##### earthquake
 ### [A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. ](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japan-no-damage-is-caused.md)
@@ -41,7 +41,7 @@ Iran&#39;s navy said Sunday it test-fired an advanced surface-to-air missile dur
 
 ##### Pakistan
 ### [Pakistan and India give each other a list of their nuclear sites. ](/news/2012/01/1/pakistan-and-india-give-each-other-a-list-of-their-nuclear-sites.md)
-_Context: Pakistan, India_
+_Context: India, Pakistan_
 
 ##### North Korea
 ### [A joint New Year editorial by North Korean media calls for "human shields" to protect new Supreme Leader Kim Jong-un. ](/news/2012/01/1/a-joint-new-year-editorial-by-north-korean-media-calls-for-human-shields-to-protect-new-supreme-leader-kim-jong-un.md)

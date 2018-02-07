@@ -9,31 +9,31 @@ Smoke billowing over Homs after night of intense gunfire
 
 ##### Guinea
 ### [Forces loyal to Guinean President Alpha Conde repel an attack by unknown assailants on his residence in Conakry. ](/news/2011/07/19/forces-loyal-to-guinean-president-alpha-conda-c-repel-an-attack-by-unknown-assailants-on-his-residence-in-conakry.md)
-_Context: President, Guinea, Conakry, Alpha Conde's_
+_Context: Conakry, Guinea, Alpha Conde's, President_
 
 ##### United Nations
 ### [A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. ](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.md)
-_Context: war crime, Sudan, conflict, South Kordofan, United Nations_
+_Context: South Kordofan, war crime, conflict, United Nations, Sudan_
 
 ##### Pakistan
 ### [Eight Pakistani employees of the United States based American Refugee Committee are kidnapped in southwest Pakistan near the border with Afghanistan. ](/news/2011/07/19/eight-pakistani-employees-of-the-united-states-based-american-refugee-committee-are-kidnapped-in-southwest-pakistan-near-the-border-with-afg.md)
-_Context: Pakistan, United States, Afghanistan, American Refugee Committee_
+_Context: Afghanistan, American Refugee Committee, Pakistan, United States_
 
 ##### Israeli Navy
 ### [Israel's navy confiscates a French yacht bound for Gaza, which departed from Greece and attempted to run the blockade after repeated warnings to make for Ashdod instead. No casualties are reported. ](/news/2011/07/19/israel-s-navy-confiscates-a-french-yacht-bound-for-gaza-which-departed-from-greece-and-attempted-to-run-the-blockade-after-repeated-warning.md)
-_Context: Greece, Gaza Strip, Israeli Navy, Ashdod, blockade, France_
+_Context: blockade, France, Greece, Gaza Strip, Ashdod, Israeli Navy_
 
 ##### earthquake
 ### [A 6.1 magnitude earthquake strikes in southern Kyrgyzstan, near the border with Uzbekistan. ](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.md)
-_Context: Uzbekistan, earthquake, Kyrgyzstan_
+_Context: Kyrgyzstan, earthquake, Uzbekistan_
 
 ##### Typhoon Ma-on
 ### [Typhoon Ma-on, the second typhoon of the 2011 Pacific typhoon season, approaches the main Japanese island of Honshu leading to cancellation of air services. ](/news/2011/07/19/typhoon-ma-on-the-second-typhoon-of-the-2011-pacific-typhoon-season-approaches-the-main-japanese-island-of-honshu-leading-to-cancellation.md)
-_Context: Honshu Island, 2011 Pacific typhoon season, Japan, Typhoon Ma-on_
+_Context: Typhoon Ma-on, 2011 Pacific typhoon season, Japan, Honshu Island_
 
 ##### Hurricane Jova
 ### [Tropical Storm Dora becomes a hurricane with a tropical storm watch issued for southwestern Mexico. ](/news/2011/07/19/tropical-storm-dora-becomes-a-hurricane-with-a-tropical-storm-watch-issued-for-southwestern-mexico.md)
-_Context: hurricane, Mexico, Hurricane Jova_
+_Context: hurricane, Hurricane Jova, Mexico_
 
 ##### ASEAN
 ### [ASEAN foreign ministers get together for their annual summit on the island of Bali in Indonesia with concerns over territorial claims on the South China Sea. ](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.md)
@@ -53,11 +53,11 @@ Assaults, smoke bombs and vandalism were left in the wake of a protest in San Fr
 
 ##### China
 ### [Chinese Vice President Xi Jinping says the Chinese government will "smash" attempts for an independent Tibet in a speech outside the Potala Palace. ](/news/2011/07/19/chinese-vice-president-xi-jinping-says-the-chinese-government-will-smash-attempts-for-an-independent-tibet-in-a-speech-outside-the-potala.md)
-_Context: China, independent, Tibet, Xi Jinping, Potala Palace, Vice President_
+_Context: Vice President, Xi Jinping, China, Potala Palace, Tibet, independent_
 
 ##### Northern Mariana Islands Governor
 ### [Northern Mariana Islands Governor Benigno Fitial and Guam Governor Eddie Calvo state that they are in serious talks to potentially merge the U.S. territories of Guam and the Northern Mariana Islands. ](/news/2011/07/19/northern-mariana-islands-governor-benigno-fitial-and-guam-governor-eddie-calvo-state-that-they-are-in-serious-talks-to-potentially-merge-the.md)
-_Context: Guam Governor, Northern Mariana Islands Governor, Benigno Fitial, Eddie Calvo, Northern Mariana Islands, Guam, U.S. territories_
+_Context: Benigno Fitial, Northern Mariana Islands Governor, Guam Governor, Northern Mariana Islands, Eddie Calvo, U.S. territories, Guam_
 
 ##### News Corporation
 ### [News Corporation Chief Executive Rupert Murdoch and his son James Murdoch appear before a select committee of the United Kingdom parliament over the "News of the World" phone hacking affair. Murdoch Senior apologises for the scandal, but says he is not responsible for it. ](/news/2011/07/19/news-corporation-chief-executive-rupert-murdoch-and-his-son-james-murdoch-appear-before-a-select-committee-of-the-united-kingdom-parliament.md)
@@ -77,11 +77,11 @@ _Context: House of Representatives, United States Senate_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md)
-_Context: Justin Rigali, Roman Catholic Archdiocese of Philadelphia, Cardinal, Pope Benedict XVI, Denver, Colorado, Charles J. Chaput, Archbishop_
+_Context: Pope Benedict XVI, Roman Catholic Archdiocese of Philadelphia, Justin Rigali, Denver, Colorado, Charles J. Chaput, Cardinal, Archbishop_
 
 ##### Iran
 ### [Iran says it has installed faster nuclear centrifuges to enrich uranium. ](/news/2011/07/19/iran-says-it-has-installed-faster-nuclear-centrifuges-to-enrich-uranium.md)
-_Context: nuclear centrifuge, uranium enrichment, Iran_
+_Context: Iran, uranium enrichment, nuclear centrifuge_
 
 ##### Space Shuttle Atlantis
 ### [The Space Shuttle Atlantis undocks from the International Space Station for the final time in the history of the space shuttle program. ](/news/2011/07/19/the-space-shuttle-atlantis-undocks-from-the-international-space-station-for-the-final-time-in-the-history-of-the-space-shuttle-program.md)

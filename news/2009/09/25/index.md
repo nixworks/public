@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/25/index.html)  [JSON](2009/09/25/index.json)  [XML](200
 
 ##### Spain
 ### [ Photographs of Spanish Prime Minister Jos Luis Rodrguez Zapatero and his family are published in the United States and subsequently published on the front pages of newspapers in his home country. A controversy occurs as many Spaniards have never before seen the children of the intensely private Prime Minister. ](/news/2009/09/25/photographs-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-and-his-family-are-published-in-the-united-states-and-subsequently-publi.md)
-_Context: Spain, United States, Prime Minister, Jos Luis Rodrguez Zapatero_
+_Context: Prime Minister, Jos Luis Rodrguez Zapatero, United States, Spain_
 
 ##### Poland
 ### [ Poland approves a law making chemical castration mandatory for paedophiles. ](/news/2009/09/25/poland-approves-a-law-making-chemical-castration-mandatory-for-paedophiles.md)
@@ -17,7 +17,7 @@ _Context: Greece_
 
 ##### Nigeria
 ### [ Nigerian MPs ask the government to investigate the status of Chinese citizens living in the country, after allegations that Nigerians in China have been mistreated. ](/news/2009/09/25/nigerian-mps-ask-the-government-to-investigate-the-status-of-chinese-citizens-living-in-the-country-after-allegations-that-nigerians-in-ch.md)
-_Context: China, Nigeria_
+_Context: Nigeria, China_
 
 ##### Israel
 ### [ The trial of former Israeli Prime Minister Ehud Olmert on corruption charges begins in Jerusalem. He is the first ever Israeli Prime Minister to be brought to trial. ](/news/2009/09/25/the-trial-of-former-israeli-prime-minister-ehud-olmert-on-corruption-charges-begins-in-jerusalem-he-is-the-first-ever-israeli-prime-minist.md)
@@ -29,15 +29,15 @@ The US President said he preferred diplomacy in dealing with Iran over its nucle
 
 ##### Prime Minister
 ### [ Lawyers for the former Prime Minister of France, Dominique de Villepin, say they will sue President Nicolas Sarkozy for having called him "guilty" of the "Clearstream" affair and violating the principle of presumption of innocence. ](/news/2009/09/25/lawyers-for-the-former-prime-minister-of-france-dominique-de-villepin-say-they-will-sue-president-nicolas-sarkozy-for-having-called-him.md)
-_Context: Dominique de Villepin, Nicolas Sarkozy, French President, Prime Minister, Clearstream, presumption of innocence_
+_Context: Clearstream, Nicolas Sarkozy, Prime Minister, French President, Dominique de Villepin, presumption of innocence_
 
 ##### Santo Andr
 ### [ At least two people are killed and fifteen injured in a blast at a fireworks shop in Santo Andr, Greater So Paulo, Brazil. ](/news/2009/09/25/at-least-two-people-are-killed-and-fifteen-injured-in-a-blast-at-a-fireworks-shop-in-santo-andre-greater-sao-paulo-brazil.md)
-_Context: Brazil, Greater So Paulo, Santo Andr_
+_Context: Santo Andr, Greater So Paulo, Brazil_
 
 ##### Birmingham
 ### [ Hundreds of people queue in Birmingham, United Kingdom, to see part of the Staffordshire hoard. ](/news/2009/09/25/hundreds-of-people-queue-in-birmingham-united-kingdom-to-see-part-of-the-staffordshire-hoard.md)
-_Context: United Kingdom, Birmingham, Staffordshire hoard_
+_Context: Staffordshire hoard, United Kingdom, Birmingham_
 
 ##### Palau
 ### [ Palau is to create the world's first "shark sanctuary", banning all commercial shark fishing in its waters. ](/news/2009/09/25/palau-is-to-create-the-world-s-first-shark-sanctuary-banning-all-commercial-shark-fishing-in-its-waters.md)

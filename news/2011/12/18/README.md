@@ -5,11 +5,11 @@ Formats: [HTML](2011/12/18/index.html)  [JSON](2011/12/18/index.json)  [XML](201
 
 ##### Arab League
 ### [The Arab League threatens to take Syria to the United Nations within two weeks if the country does not accept its proposals to end the crackdown on the uprising. ](/news/2011/12/18/the-arab-league-threatens-to-take-syria-to-the-united-nations-within-two-weeks-if-the-country-does-not-accept-its-proposals-to-end-the-crack.md)
-_Context: United Nations, Arab League, Syria, 2011 Syrian uprising_
+_Context: Syria, 2011 Syrian uprising, United Nations, Arab League_
 
 ##### Cairo
 ### [Clashes continue in Cairo's Tahrir Square for a third day between the Egyptian Army and protesters. ](/news/2011/12/18/clashes-continue-in-cairo-s-tahrir-square-for-a-third-day-between-the-egyptian-army-and-protesters.md)
-_Context: Tahrir Square, Cairo, Egyptian Army_
+_Context: Cairo, Egyptian Army, Tahrir Square_
 
 ##### United States soldier
 ### [The last convoy of United States Army soldiers withdraws from Iraq, marking the formal end of the Iraq War. ](/news/2011/12/18/the-last-convoy-of-united-states-army-soldiers-withdraws-from-iraq-marking-the-formal-end-of-the-iraq-war.md)
@@ -25,7 +25,7 @@ Angry protesters rally in the capital of a Kazakh oil-producing region after two
 
 ##### coal mine
 ### [Nine people die following an explosion in a coal mine in Binzhou City in China's Hunan Province. ](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.md)
-_Context: China, Binzhou City, Hunan Province, coal mine_
+_Context: Binzhou City, Hunan Province, China, coal mine_
 
 ##### drilling rig
 ### [The drilling rig "Kolskaya" with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-result.md)
@@ -33,7 +33,7 @@ Rescuers have saved 14 of the 67 people who were on board a floating oil rig whi
 
 ##### Philippines
 ### [The Philippines Red Cross estimates that the death toll from the floods caused by Tropical Storm Washi has risen to 521. ](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.md)
-_Context: Philippines, Tropical Storm Washi, Red Cross_
+_Context: Tropical Storm Washi, Red Cross, Philippines_
 
 ##### Iran
 ### [Iran releases two Kuwaiti journalists accused of spying. ](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.md)
@@ -45,11 +45,11 @@ _Context: Occupy Wall Street_
 
 ##### rebellion by villagers in Wukan
 ### [Villagers revolting in Wukan, southern China, threaten to march on government offices this week if detained protesters are not released. ](/news/2011/12/18/villagers-revolting-in-wukan-southern-china-threaten-to-march-on-government-offices-this-week-if-detained-protesters-are-not-released.md)
-_Context: rebellion by villagers in Wukan, China_
+_Context: China, rebellion by villagers in Wukan_
 
 ##### protest
 ### [Thousands protest in several Russian cities for a second week, against the results of the parliamentary elections. ](/news/2011/12/18/thousands-protest-in-several-russian-cities-for-a-second-week-against-the-results-of-the-parliamentary-elections.md)
-_Context: parliamentary elections, Russia, protest_
+_Context: Russia, protest, parliamentary elections_
 
 ##### Vclav Havel
 ### [Vclav Havel, former President of Czechoslovakia and President of the Czech Republic, dies. ](/news/2011/12/18/vaclav-havel-former-president-of-czechoslovakia-and-president-of-the-czech-republic-dies.md)

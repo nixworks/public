@@ -5,11 +5,11 @@ Formats: [HTML](2015/03/23/index.html)  [JSON](2015/03/23/index.json)  [XML](201
 
 ##### Iraqi insurgency (2011-present)
 ### [Multiple bombings in Baghdad, Iraq, kill at least nineteen people and wound another thirty-six. ](/news/2015/03/23/multiple-bombings-in-baghdad-iraq-kill-at-least-nineteen-people-and-wound-another-thirty-six.md)
-_Context: Iraqi insurgency (2011-present), Baghdad, Iraq_
+_Context: Iraq, Baghdad, Iraqi insurgency (2011-present)_
 
 ##### China
 ### [China's biggest state-owned chemical company ChemChina acquires a 26% stake in Italian tire manufacturer Pirelli with an additional offer to buy the remaining outstanding shares. ](/news/2015/03/23/china-s-biggest-state-owned-chemical-company-chemchina-acquires-a-26-stake-in-italian-tire-manufacturer-pirelli-with-an-additional-offer-to.md)
-_Context: ChemChina, outstanding shares, Italian, Pirelli, China_
+_Context: Italian, China, outstanding shares, Pirelli, ChemChina_
 
 ##### Huarmey
 ### [A bus crashes into traffic near Huarmey in northern Peru, leaving at least thirty-seven people dead and dozens injured. ](/news/2015/03/23/a-bus-crashes-into-traffic-near-huarmey-in-northern-peru-leaving-at-least-thirty-seven-people-dead-and-dozens-injured.md)
@@ -17,7 +17,7 @@ At least 37 people are killed after a bus swerves into oncoming traffic in Peru,
 
 ##### National Assembly of Armenia
 ### [The National Assembly of Armenia approves a declaration recognizing the Greek and Assyrian genocides by Ottoman Turkey between 1915 and 1923. ](/news/2015/03/23/the-national-assembly-of-armenia-approves-a-declaration-recognizing-the-greek-and-assyrian-genocides-by-ottoman-turkey-between-1915-and-1923.md)
-_Context: Greek, Ottoman-era, National Assembly of Armenia, genocide, Assyrian_
+_Context: Greek, Assyrian, Ottoman-era, National Assembly of Armenia, genocide_
 
 ##### North Gauteng High Court
 ### [The South Gauteng High Court sitting in Palm Ridge, Katlehong, finds former doubles tennis champion Bob Hewitt guilty of two counts of rape and one of sexual assault of three former students that he coached in South Africa. ](/news/2015/03/23/the-south-gauteng-high-court-sitting-in-palm-ridge-katlehong-finds-former-doubles-tennis-champion-bob-hewitt-guilty-of-two-counts-of-rape.md)

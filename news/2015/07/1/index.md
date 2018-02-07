@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/1/index.html)  [JSON](2015/07/1/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [Shells fired by Houthi forces have killed at least 18 people near the southern port city of Aden, meanwhile United Nations officials have warned that a deadly dengue fever outbreak is rapidly gaining pace in the war-torn country. ](/news/2015/07/1/shells-fired-by-houthi-forces-have-killed-at-least-18-people-near-the-southern-port-city-of-aden-meanwhile-united-nations-officials-have-wa.md)
-_Context: Aden, dengue, Yemeni Civil War (2015), United Nations, Houthi_
+_Context: Aden, United Nations, Houthi, dengue, Yemeni Civil War (2015)_
 
 ##### July 2015 Sinai attacks
 ### [Militants launch attacks on Egyptian Armed Forces checkpoints in North Sinai, leaving dozens of security personnel and insurgents killed. The Islamic State of Iraq and the Levant claims responsibility for the assaults. ](/news/2015/07/1/militants-launch-attacks-on-egyptian-armed-forces-checkpoints-in-north-sinai-leaving-dozens-of-security-personnel-and-insurgents-killed-th.md)
@@ -13,7 +13,7 @@ At least 60 Egyptian soldiers were on Wednesday killed as heavily-armed IS milit
 
 ##### Egypt
 ### [Egypt's security forces kill nine 'terrorists' during a raid in a Western Cairo suburb. The group were among "the most dangerous terrorists" wanted in Egypt according to Giza deputy security director Magdy Abd El-Aal. It has also been reported that Nasser al-Hafi, a former MP and a leading lawyer for the Muslim Brotherhood was among those killed. ](/news/2015/07/1/egypt-s-security-forces-kill-nine-terrorists-during-a-raid-in-a-western-cairo-suburb-the-group-were-among-the-most-dangerous-terrorists.md)
-_Context: Cairo, Egypt, Nasser al-Hafi, Giza, Egyptian Muslim Brotherhood_
+_Context: Egyptian Muslim Brotherhood, Nasser al-Hafi, Cairo, Giza, Egypt_
 
 ##### U.S. branch of the Communion
 ### [The Episcopal Church in the United States adopts its liturgy for same sex marriages. ](/news/2015/07/1/the-episcopal-church-in-the-united-states-adopts-its-liturgy-for-same-sex-marriages.md)
@@ -21,7 +21,7 @@ The measure passed by an overwhelming margin at the denomination&#x27;s national
 
 ##### Greek government-debt crisis
 ### [Greece becomes the first advanced economy to miss a payment to the International Monetary Fund in the 71-year history of the IMF, unwinding decades of precedent and affecting consequences for the fund's future rescues. ](/news/2015/07/1/greece-becomes-the-first-advanced-economy-to-miss-a-payment-to-the-international-monetary-fund-in-the-71-year-history-of-the-imf-unwinding.md)
-_Context: International Monetary Fund, Greek government-debt crisis, Greece_
+_Context: Greece, Greek government-debt crisis, International Monetary Fund_
 
 ##### World Bank
 ### [The World Bank urges the People's Republic of China to undertake financial reforms to keep economic growth on track. ](/news/2015/07/1/the-world-bank-urges-the-people-s-republic-of-china-to-undertake-financial-reforms-to-keep-economic-growth-on-track.md)
@@ -37,7 +37,7 @@ Russian gas firm Gazprom halts gas supplies to Ukraine after Kiev suspends energ
 
 ##### United States
 ### [The United States and Cuba officially announce that embassies will be reopened in each other's countries for the first time since 1961. ](/news/2015/07/1/the-united-states-and-cuba-officially-announce-that-embassies-will-be-reopened-in-each-other-s-countries-for-the-first-time-since-1961.md)
-_Context: embassies, Cuba, United States, Cuba-United States relations_
+_Context: Cuba, United States, embassies, Cuba-United States relations_
 
 ##### Department of Justice
 ### [The United States Department of Justice begins an investigation into whether US airlines entered into collusion to illegally keep ticket prices high. ](/news/2015/07/1/the-united-states-department-of-justice-begins-an-investigation-into-whether-us-airlines-entered-into-collusion-to-illegally-keep-ticket-pri.md)
@@ -45,7 +45,7 @@ The Justice Department investigates if US airlines are colluding to keep ticket 
 
 ##### Shooting of Kathryn Steinle
 ### [A woman, Kathryn Steinle, is shot dead in a random attack at the busy Embarcadero district in San Francisco, California. A Mexican national is arrested in connection with her death. ](/news/2015/07/1/a-woman-kathryn-steinle-is-shot-dead-in-a-random-attack-at-the-busy-embarcadero-district-in-san-francisco-california-a-mexican-national.md)
-_Context: San Francisco, California, Embarcadero, Mexican, Shooting of Kathryn Steinle_
+_Context: Mexican, San Francisco, California, Embarcadero, Shooting of Kathryn Steinle_
 
 ##### Hong Kong
 ### [Thousands of people are expected at a pro-democracy demonstration in Hong Kong on a holiday to mark the transfer from British to Chinese rule. ](/news/2015/07/1/thousands-of-people-are-expected-at-a-pro-democracy-demonstration-in-hong-kong-on-a-holiday-to-mark-the-transfer-from-british-to-chinese-rul.md)
@@ -61,7 +61,7 @@ _Context: Russian legislative election, 2016, Constitutional Court of Russia_
 
 ##### black hole
 ### [The black hole in the Milky Way galaxy's V404 Cygni system wakes up (becomes energized, with a flow of gamma rays and very brief intense flashes of light) after 26 years. ](/news/2015/07/1/the-black-hole-in-the-milky-way-galaxy-s-v404-cygni-system-wakes-up-becomes-energized-with-a-flow-of-gamma-rays-and-very-brief-intense-fla.md)
-_Context: black hole, V404 Cygni, gamma rays, Milky Way galaxy_
+_Context: Milky Way galaxy, gamma rays, black hole, V404 Cygni_
 
 ## [Previous Day...](/news/2015/06/30/index.md)
 

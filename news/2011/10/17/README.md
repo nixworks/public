@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/17/index.html)  [JSON](2011/10/17/index.json)  [XML](201
 
 ##### civil war
 ### [2011 Libyan civil war: National Transitional Council forces gain control of Muammar Gaddafi's former stronghold of Bani Walid, after a bloody six-week siege. ](/news/2011/10/17/2011-libyan-civil-war-national-transitional-council-forces-gain-control-of-muammar-gaddafi-s-former-stronghold-of-bani-walid-after-a-blood.md)
-_Context: Bani Walid, civil war, Muammar Gaddafi, National Transitional Council, bloody six-week siege_
+_Context: Bani Walid, Muammar Gaddafi, National Transitional Council, civil war, bloody six-week siege_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: At least 12 people die in another major outbreak of fighting in the Yemeni capital Sana'a between supporters and opponents of President Ali Abdullah Saleh. ](/news/2011/10/17/2011-yemeni-uprising-at-least-12-people-die-in-another-major-outbreak-of-fighting-in-the-yemeni-capital-sana-a-between-supporters-and-oppon.md)

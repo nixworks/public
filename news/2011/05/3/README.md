@@ -9,7 +9,7 @@ The Pakistani government lashed out at the American raid that killed Osama bin L
 
 ##### civil war
 ### [Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. ](/news/2011/05/3/thousands-of-people-are-at-risk-of-death-from-thirst-and-starvation-in-yafran-due-to-muammar-gaddafi-s-forces-besieging-the-city-shutting-o.md)
-_Context: Yafran, civil war_
+_Context: civil war, Yafran_
 
 ##### Saudi Arabian protests
 ### [Human Rights Watch has asked the government of Saudi Arabia to release a rights activist who was arrested for participating in peaceful demonstrations, saying a recent wave of arrests is jeopardizing any chance of reform. ](/news/2011/05/3/human-rights-watch-has-asked-the-government-of-saudi-arabia-to-release-a-rights-activist-who-was-arrested-for-participating-in-peaceful-demo.md)
@@ -25,11 +25,11 @@ _Context: Ethiopia, Kenya_
 
 ##### car bomb
 ### [A car bomb in Baghdad, Iraq, kills at least 16 people in a cafe with young men watching a football match. ](/news/2011/05/3/a-car-bomb-in-baghdad-iraq-kills-at-least-16-people-in-a-cafe-with-young-men-watching-a-football-match.md)
-_Context: car bomb, Baghdad, Iraq_
+_Context: Iraq, Baghdad, car bomb_
 
 ##### police
 ### [Up to ten Afghan police officers are killed in a NATO air strike on a highway in Ghazni Province. ](/news/2011/05/3/up-to-ten-afghan-police-officers-are-killed-in-a-nato-air-strike-on-a-highway-in-ghazni-province.md)
-_Context: Ghazni Province, police, NATO_
+_Context: Ghazni Province, NATO, police_
 
 ##### National Armed Forces of Cote d'Ivoire
 ### [Dozens of people are killed in fighting between the National Armed Forces of Cote d'Ivoire and forces loyal to former President of the Ivory Coast Laurent Gbagbo in Abidjan. ](/news/2011/05/3/dozens-of-people-are-killed-in-fighting-between-the-national-armed-forces-of-ca-te-d-ivoire-and-forces-loyal-to-former-president-of-the-ivor.md)
@@ -49,7 +49,7 @@ A tornado ripped through a busy shopping centre in the north Auckland suburb of 
 
 ##### flight recorder
 ### [Searchers find the second flight recorder from Air France Flight 447 that crashed into the Atlantic Ocean on June 1, 2009. ](/news/2011/05/3/searchers-find-the-second-flight-recorder-from-air-france-flight-447-that-crashed-into-the-atlantic-ocean-on-june-1-2009.md)
-_Context: flight recorder, crash of Air France Flight 447, Atlantic Ocean_
+_Context: crash of Air France Flight 447, Atlantic Ocean, flight recorder_
 
 ##### US Army Corps of Engineers
 ### [The US Army Corps of Engineers blasts a hole in two levees along the Mississippi River, flooding some 200 sqmi of Missouri farmland in an effort to save the town of Cairo, Illinois further downriver from record-breaking flood waters. ](/news/2011/05/3/the-us-army-corps-of-engineers-blasts-a-hole-in-two-levees-along-the-mississippi-river-flooding-some-200-sqmi-of-missouri-farmland-in-an-ef.md)
@@ -61,7 +61,7 @@ TUSCALOOSA, Alabama -- The city says the number of missing people in Tuscaloosa 
 
 ##### San Juan de Sabinas Municipality
 ### [A mine explosion in San Juan de Sabinas Municipality in the Mexican state of Coahuila kills three people, injures one and leaves another 11 trapped. ](/news/2011/05/3/a-mine-explosion-in-san-juan-de-sabinas-municipality-in-the-mexican-state-of-coahuila-kills-three-people-injures-one-and-leaves-another-11.md)
-_Context: Mexico, Coahuila, San Juan de Sabinas Municipality_
+_Context: Coahuila, Mexico, San Juan de Sabinas Municipality_
 
 ##### Prime Minister of Israel
 ### [Israeli Prime Minister Netanyahu calls on Palestinian Authority President Abbas to choose peace with Israel and not Hamas, saying that the Fatah-Hamas unity government deal would jeopardize the already-stalled peace process because Hamas opposes the existence of Israel; Abbas rejects the call as "unacceptable interference". ](/news/2011/05/3/israeli-prime-minister-netanyahu-calls-on-palestinian-authority-president-abbas-to-choose-peace-with-israel-and-not-hamas-saying-that-the-f.md)
@@ -69,11 +69,11 @@ As Palestinian political factions prepared Tuesday to formally sign a political 
 
 ##### European Union
 ### [European Union Foreign Affairs head, Catherine Ashton, condemns Iran for its ongoing executions of juvenile offenders following the public execution of two juveniles in Bandar Abbas, Iran. ](/news/2011/05/3/european-union-foreign-affairs-head-catherine-ashton-condemns-iran-for-its-ongoing-executions-of-juvenile-offenders-following-the-public-e.md)
-_Context: Iran, Bandar Abbas, European Union, Catherine Ashton_
+_Context: Bandar Abbas, Catherine Ashton, European Union, Iran_
 
 ##### exiled Tibetan parliament
 ### [A Tibetan parliament-in-exile delegation appeals to foreign embassies in New Delhi, India, for help to release three monks from the Kirti monastery in northeastern Tibet detained by Chinese authorities and to address additional human rights violations in Tibet by China. ](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.md)
-_Context: New Delhi, exiled Tibetan parliament, Tibet, Kirti monastery, India, repressive policies in Tibet_
+_Context: repressive policies in Tibet, India, New Delhi, Tibet, exiled Tibetan parliament, Kirti monastery_
 
 ##### Sellafield
 ### [Five people are arrested near the Sellafield nuclear power plant in Cumbria, England, under the Terrorism Act. ](/news/2011/05/3/five-people-are-arrested-near-the-sellafield-nuclear-power-plant-in-cumbria-england-under-the-terrorism-act.md)
@@ -81,7 +81,7 @@ Five men are being held under the Terrorism Act after being arrested close to th
 
 ##### Iranian police
 ### [Iranian police clash with protesters at a club soccer match between Piroozi Athletic and Saudi Arabia's Ittihad FC. ](/news/2011/05/3/iranian-police-clash-with-protesters-at-a-club-soccer-match-between-piroozi-athletic-and-saudi-arabia-s-ittihad-fc.md)
-_Context: Piroozi Athletic, soccer, Saudi Arabia, Ittihad FC, Iranian police_
+_Context: soccer, Iranian police, Ittihad FC, Saudi Arabia, Piroozi Athletic_
 
 ##### South Africa
 ### [The murder of a South African lesbian activist who was stoned and stabbed to death is condemned as part of an "epidemic" of hate crimes against gays in South Africa. ](/news/2011/05/3/the-murder-of-a-south-african-lesbian-activist-who-was-stoned-and-stabbed-to-death-is-condemned-as-part-of-an-epidemic-of-hate-crimes-agai.md)
@@ -97,7 +97,7 @@ The Conservative Party will again govern Canada, this time with a majority, foll
 
 ##### Republican
 ### [American Republican politician Beth Gaines is elected to the district in the California State Assembly previously held by her husband Ted Gaines who is now serving in the California State Senate. ](/news/2011/05/3/american-republican-politician-beth-gaines-is-elected-to-the-district-in-the-california-state-assembly-previously-held-by-her-husband-ted-ga.md)
-_Context: district, Ted Gaines, Republican, Beth Gaines, California state senator, California State Assembly_
+_Context: California State Assembly, Ted Gaines, California state senator, Republican, district, Beth Gaines_
 
 ##### United Nations
 ### [The United Nations projects that the world's population will pass 7 billion on October 31, 2011. ](/news/2011/05/3/the-united-nations-projects-that-the-world-s-population-will-pass-7-billion-on-october-31-2011.md)

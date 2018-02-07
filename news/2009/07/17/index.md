@@ -5,11 +5,11 @@ Formats: [HTML](2009/07/17/index.html)  [JSON](2009/07/17/index.json)  [XML](200
 
 ##### FARC
 ### [ Footage of FARC leader Jorge Briceno saying he financed Ecuadorian President Rafael Correa's 2006 campaign is broadcast on Colombian television. ](/news/2009/07/17/footage-of-farc-leader-jorge-bricea-o-saying-he-financed-ecuadorian-president-rafael-correa-s-2006-campaign-is-broadcast-on-colombian-telev.md)
-_Context: President, Ecuador, FARC, Jorge Briceno, 2006 campaign, Rafael Correa, Colombia_
+_Context: FARC, Rafael Correa, Colombia, 2006 campaign, Ecuador, President, Jorge Briceno_
 
 ##### Timothy Kirkhope
 ### [ Timothy Kirkhope MEP defends alleged homophobic remarks made by European Conservatives and Reformists' leader Michal Kaminski in a television interview. ](/news/2009/07/17/timothy-kirkhope-mep-defends-alleged-homophobic-remarks-made-by-european-conservatives-and-reformists-leader-michaa-kamiaski-in-a-televi.md)
-_Context: anti-gay, Michal Kaminski, ECR, Member of the European Parliament, Timothy Kirkhope_
+_Context: Michal Kaminski, Timothy Kirkhope, Member of the European Parliament, ECR, anti-gay_
 
 ##### Pope
 ### [ Pope Benedict XVI slips in the bath in his mountain chalet and is treated for a fractured wrist in Aosta, Italy. ](/news/2009/07/17/pope-benedict-xvi-slips-in-the-bath-in-his-mountain-chalet-and-is-treated-for-a-fractured-wrist-in-aosta-italy.md)
@@ -17,7 +17,7 @@ Pope Benedict slipped in the bath today and broke his wrist but aides said there
 
 ##### Marseille
 ### [ A second person dies from the collapse of a stage being built in Marseille for Madonna's forthcoming tour to France. ](/news/2009/07/17/a-second-person-dies-from-the-collapse-of-a-stage-being-built-in-marseille-for-madonna-s-forthcoming-tour-to-france.md)
-_Context: Marseille, France, Madonna_
+_Context: Madonna, France, Marseille_
 
 ##### Irish
 ### [ Irish President Mary McAleese announces her intention to convene a meeting of the Council of State on 22 July. ](/news/2009/07/17/irish-president-mary-mcaleese-announces-her-intention-to-convene-a-meeting-of-the-council-of-state-on-22-july.md)
@@ -25,11 +25,11 @@ President Mary McAleese is to convene a meeting of the Council of State next Wed
 
 ##### Brazil
 ### [ Brazil complains of 64 containers with over 1,400 tonnes of British used condoms, syringes and rotting nappies located in three of the country's ports. ](/news/2009/07/17/brazil-complains-of-64-containers-with-over-1-400-tonnes-of-british-used-condoms-syringes-and-rotting-nappies-located-in-three-of-the-coun.md)
-_Context: United Kingdom, Brazil_
+_Context: Brazil, United Kingdom_
 
 ##### South Africa
 ### [ Two journalists from South Africa and the United Kingdom are due in court after being allegedly attacked and then arrested while filming seal hunters in Namibia. ](/news/2009/07/17/two-journalists-from-south-africa-and-the-united-kingdom-are-due-in-court-after-being-allegedly-attacked-and-then-arrested-while-filming-se.md)
-_Context: Namibia, United Kingdom, South Africa_
+_Context: Namibia, South Africa, United Kingdom_
 
 ##### Hong Kong
 ### [ Hong Kong appoints a new chief executive of the Hong Kong Monetary Authority. ](/news/2009/07/17/hong-kong-appoints-a-new-chief-executive-of-the-hong-kong-monetary-authority.md)
@@ -53,11 +53,11 @@ _Context: Wikipedia, National Portrait Gallery_
 
 ##### suicide attacks on two hotels
 ### [ Bombings at the Marriott and Ritz-Carlton Hotels in Jakarta, Indonesia, kill at least nine people and injure at least 50 others. ](/news/2009/07/17/bombings-at-the-marriott-and-ritz-carlton-hotels-in-jakarta-indonesia-kill-at-least-nine-people-and-injure-at-least-50-others.md)
-_Context: Marriott International, Indonesia, Jakarta, suicide attacks on two hotels, Ritz-Carlton_
+_Context: suicide attacks on two hotels, Marriott International, Indonesia, Ritz-Carlton, Jakarta_
 
 ##### Iranian President
 ### [ Former Iranian President Akbar Hashemi Rafsanjani holds Friday prayers in Tehran and calls for the release of political prisoners from the election protests. ](/news/2009/07/17/former-iranian-president-akbar-hashemi-rafsanjani-holds-friday-prayers-in-tehran-and-calls-for-the-release-of-political-prisoners-from-the.md)
-_Context: protests against the regime, Tehran, Akbar Hashemi Rafsanjani, Iranian President, Friday mass prayer, political prisoner_
+_Context: Akbar Hashemi Rafsanjani, protests against the regime, Tehran, political prisoner, Friday mass prayer, Iranian President_
 
 ##### Serbia
 ### [ At least 14 people, including 11 Serbian tourists, are killed and at least 10 tourists are injured in a bus collision with a lorry on a road near Port Safaga, Egypt. ](/news/2009/07/17/at-least-14-people-including-11-serbian-tourists-are-killed-and-at-least-10-tourists-are-injured-in-a-bus-collision-with-a-lorry-on-a-roa.md)
@@ -73,7 +73,7 @@ The heads of BBC radio and TV stations and senior corporation management figures
 
 ##### Sicily
 ### [ 49 members of a Sicilian Mafia syndicate are jailed in Italy in what the government describes as a landmark case. ](/news/2009/07/17/49-members-of-a-sicilian-mafia-syndicate-are-jailed-in-italy-in-what-the-government-describes-as-a-landmark-case.md)
-_Context: Sicily, Italy_
+_Context: Italy, Sicily_
 
 ## [Previous Day...](/news/2009/07/16/index.md)
 

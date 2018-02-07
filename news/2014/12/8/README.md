@@ -31,7 +31,7 @@ _Context: Xinjiang, Chinese court_
 ### [A U.S. District Judge sentences the back office director, Daniel Bonventre, to ten years. ](/news/2014/12/8/a-u-s-district-judge-sentences-the-back-office-director-daniel-bonventre-to-ten-years.md)
 ##### Supreme Court of the United States
 ### [The US Supreme Court rejects BP's challenge to their "Deepwater Horizon" gulf oil spill settlement. ](/news/2014/12/8/the-us-supreme-court-rejects-bp-s-challenge-to-their-deepwater-horizon-gulf-oil-spill-settlement.md)
-_Context: BP, Deepwater Horizon oil spill, Supreme Court of the United States_
+_Context: Deepwater Horizon oil spill, Supreme Court of the United States, BP_
 
 ##### Barack Obama
 ### [United States President Barack Obama unveils new limits on racial profiling. These new limits outlaw profiling based on race, gender, ethnicity, nationality, religion, or sexual orientation. ](/news/2014/12/8/united-states-president-barack-obama-unveils-new-limits-on-racial-profiling-these-new-limits-outlaw-profiling-based-on-race-gender-ethnic.md)
@@ -39,7 +39,7 @@ Attorney General Eric Holder says he hopes state and local police will adopt the
 
 ##### Israel
 ### [The Israeli Knesset votes to dissolve itself with new elections called for March 17. ](/news/2014/12/8/the-israeli-knesset-votes-to-dissolve-itself-with-new-elections-called-for-march-17.md)
-_Context: Israeli legislative election, 2015, parliament in Israel, Israel_
+_Context: parliament in Israel, Israeli legislative election, 2015, Israel_
 
 ## [Previous Day...](/news/2014/12/7/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2017/08/27/index.html)  [JSON](2017/08/27/index.json)  [XML](201
 
 ##### Rohingya insurgency in Western Myanmar
 ### [Dozens of Rohingya Muslims fleeing renewed violence in Rakhine State are detained by Bangladeshi and Burmese authorities after they attempt to cross the border from Myanmar to Bangladesh. Many were en route to Kutupalong Refugee Camp, a refugee camp in Ukhia, Bangladesh, mostly inhabited by Rohingya refugees. ](/news/2017/08/27/dozens-of-rohingya-muslims-fleeing-renewed-violence-in-rakhine-state-are-detained-by-bangladeshi-and-burmese-authorities-after-they-attempt.md)
-_Context: Rakhine State, Bangladesh, Rohingya, Islam, Myanmar, Ukhia, Rohingya insurgency in Western Myanmar, 2016-17 Rohingya persecution in Myanmar, Kutupalong Refugee Camp, 2016-17 Northern Rakhine State clashes_
+_Context: Rakhine State, 2016-17 Northern Rakhine State clashes, Rohingya, Ukhia, 2016-17 Rohingya persecution in Myanmar, Islam, Bangladesh, Myanmar, Rohingya insurgency in Western Myanmar, Kutupalong Refugee Camp_
 
 ##### Iraqi Civil War
 ### [The Iraqi Army announces it is in full control of the Iraqi Turkmen city of Tal Afar in the Nineveh Governorate, after eight days of clashes with ISIL militants inside the city. ](/news/2017/08/27/the-iraqi-army-announces-it-is-in-full-control-of-the-iraqi-turkmen-city-of-tal-afar-in-the-nineveh-governorate-after-eight-days-of-clashes.md)
@@ -21,7 +21,7 @@ The Houston region is being pummeled Saturday by bands of heavy rain and some po
 
 ##### Maritime incidents in 2017
 ### [A dry cargo vessel broke in two in the Black Sea off Turkey's northwest coast, television images showed early on Sunday, while the 11-man crew was rescued. "Leonardo", a 114 meter dry cargo ship flagged from Mongolia, started buckling and broke in two while on anchor off Istanbul's Kilyos coast. ](/news/2017/08/27/a-dry-cargo-vessel-broke-in-two-in-the-black-sea-off-turkeyas-northwest-coast-television-images-showed-early-on-sunday-while-the-11-man.md)
-_Context: Mongolia, Maritime incidents in 2017, Black Sea_
+_Context: Maritime incidents in 2017, Mongolia, Black Sea_
 
 ##### Austria
 ### [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md)
@@ -37,7 +37,7 @@ More than 100 people are treated in hospital after a suspected chemical leak alo
 
 ##### Pakistan-United States relations
 ### [Pakistan postpones a visit from U.S. acting Assistant Secretary of State Alice Wells, its foreign ministry says, as some protest President Donald Trump's accusations that Pakistan is harbouring terrorists. ](/news/2017/08/27/pakistan-postpones-a-visit-from-u-s-acting-assistant-secretary-of-state-alice-wells-its-foreign-ministry-says-as-some-protest-president-d.md)
-_Context: Pakistan-United States relations, foreign ministry, Donald Trump, Pakistan_
+_Context: Pakistan-United States relations, Donald Trump, foreign ministry, Pakistan_
 
 ##### Politics of Guatemala
 ### [President of Guatemala Jimmy Morales announced Sunday he is expelling the head of the International Commission against Impunity in Guatemala (CICIG), a U.N. anti-corruption commission that is investigating the president's campaign financing. ](/news/2017/08/27/president-of-guatemala-jimmy-morales-announced-sunday-he-is-expelling-the-head-of-the-international-commission-against-impunity-in-guatemala.md)

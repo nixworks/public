@@ -5,11 +5,11 @@ Formats: [HTML](2015/10/20/index.html)  [JSON](2015/10/20/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [The United States Chairman of the Joint Chiefs of Staff, Marine Corps General Joseph Dunford arrived in Iraq to discuss the ongoing battle against ISIS. ](/news/2015/10/20/the-united-states-chairman-of-the-joint-chiefs-of-staff-marine-corps-general-joseph-dunford-arrived-in-iraq-to-discuss-the-ongoing-battle-a.md)
-_Context: Marine, Chairman of the Joint Chiefs of Staff, Iraq, Joseph Dunford, Iraqi Civil War (2014-present), American-led intervention in Iraq, ISIL, General, United States_
+_Context: Iraqi Civil War (2014-present), Chairman of the Joint Chiefs of Staff, United States, American-led intervention in Iraq, Iraq, Marine, Joseph Dunford, ISIL, General_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead-of-meetings-with-israeli-and-palestinia.md)
-_Context: Israel, Palestinians, Ban Ki-moon, United Nations Secretary-General, Jerusalem, Israeli-Palestinian conflict (2015)_
+_Context: Palestinians, Ban Ki-moon, Jerusalem, Israeli-Palestinian conflict (2015), Israel, United Nations Secretary-General_
 
 ##### Syrian Civil War
 ### [Russian airstrikes in Syria's coastal Latakia province have killed a top FSA commander, Basil Zamo, and several other rebel fighters. ](/news/2015/10/20/russian-airstrikes-in-syriaas-coastal-latakia-province-have-killed-a-top-fsa-commander-basil-zamo-and-several-other-rebel-fighters.md)
@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### European migrant crisis
 ### [European Union members agree to provide 291 border guards to Greece and Italy to help identify and register migrants. ](/news/2015/10/20/european-union-members-agree-to-provide-291-border-guards-to-greece-and-italy-to-help-identify-and-register-migrants.md)
-_Context: border guard, European migrant crisis, European Union, Italy, Greece_
+_Context: European Union, Greece, European migrant crisis, border guard, Italy_
 
 ##### Saudi Arabia
 ### [Saudi Arabia receives US State Department approval for the purchase of four Multi-Mission Combat Ships for $11.25 billion. ](/news/2015/10/20/saudi-arabia-receives-us-state-department-approval-for-the-purchase-of-four-multi-mission-combat-ships-for-11-25-billion.md)
@@ -65,11 +65,11 @@ The Israeli leader shocked allies and foes alike by claiming Jerusalem&rsquo;s g
 
 ##### Israel Defense Forces
 ### [The Israel Defense Forces arrest senior Hamas leader Sheikh Hassan Yousef for alleged incitement to commit violence. ](/news/2015/10/20/the-israel-defense-forces-arrest-senior-hamas-leader-sheikh-hassan-yousef-for-alleged-incitement-to-commit-violence.md)
-_Context: Hamas, Hassan Yousef, Israel Defense Forces_
+_Context: Israel Defense Forces, Hassan Yousef, Hamas_
 
 ##### French public prosecutor
 ### [A French public prosecutor said charges against far-right leader Marine Le Pen should be dropped. Le Pen is being tried for comments she made five years ago comparing Muslim street prayers to Nazi occupation. Prosecutor Bernard Reynaud said, "Madame Le Pen in denouncing prayers in public space addressed not the entire Muslim community but a minority and was only exercising her freedom of expression." ](/news/2015/10/20/a-french-public-prosecutor-said-charges-against-far-right-leader-marine-le-pen-should-be-dropped-le-pen-is-being-tried-for-comments-she-mad.md)
-_Context: far-right extremist, Nazi occupation, Marine Le Pen, French public prosecutor, freedom of communication and expression, Muslim street prayers_
+_Context: Marine Le Pen, French public prosecutor, Muslim street prayers, freedom of communication and expression, far-right extremist, Nazi occupation_
 
 ##### United States Senate
 ### [Former Virginia Senator Jim Webb announces his withdrawal from the race for the Democratic presidential nomination during a press conference at the National Press Club. He added that he would consider his other options in the coming weeks. Webb's campaign said he is weighing an independent bid. ](/news/2015/10/20/former-virginia-senator-jim-webb-announces-his-withdrawal-from-the-race-for-the-democratic-presidential-nomination-during-a-press-conference.md)

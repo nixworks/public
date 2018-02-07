@@ -5,15 +5,15 @@ Formats: [HTML](2008/12/26/index.html)  [JSON](2008/12/26/index.json)  [XML](200
 
 ##### China
 ### [ China's People's Liberation Army Navy begins escorting three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to combat piracy in Somalia. ](/news/2008/12/26/china-s-people-s-liberation-army-navy-begins-escorting-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-c.md)
-_Context: People's Liberation Army Navy, warships, destroyer, replenishment oiler, Gulf of Aden, Somali pirates, Somalia, China_
+_Context: China, Somali pirates, Gulf of Aden, replenishment oiler, Somalia, destroyer, People's Liberation Army Navy, warships_
 
 ##### Kosovo
 ### [ Ten suspected former members of the Kosovo Liberation Army are arrested in Serbia. ](/news/2008/12/26/ten-suspected-former-members-of-the-kosovo-liberation-army-are-arrested-in-serbia.md)
-_Context: Kosovo Liberation Army, Kosovo, Serbia_
+_Context: Kosovo, Serbia, Kosovo Liberation Army_
 
 ##### Pakistan
 ### [ Pakistan deploys between five and twenty thousand additional troops along its border with India. ](/news/2008/12/26/pakistan-deploys-between-five-and-twenty-thousand-additional-troops-along-its-border-with-india.md)
-_Context: Pakistan, India, its border_
+_Context: India, its border, Pakistan_
 
 ##### South Korea
 ### [ South Korean television workers strike to protest legislation that would permit cross-ownership of newspapers and broadcasters. ](/news/2008/12/26/south-korean-television-workers-strike-to-protest-legislation-that-would-permit-cross-ownership-of-newspapers-and-broadcasters.md)

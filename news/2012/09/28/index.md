@@ -13,11 +13,11 @@ Dozens of inmates, including some terror suspects, seize weapons from store room
 
 ##### Director of National Intelligence
 ### [The spokesperson for the United States Director of National Intelligence claims there was a pre-organised plot in the attack on the U.S. Consulate in Benghazi, Libya, on September 11. ](/news/2012/09/28/the-spokesperson-for-the-united-states-director-of-national-intelligence-claims-there-was-a-pre-organised-plot-in-the-attack-on-the-u-s-con.md)
-_Context: attack on the U.S. Consulate in Benghazi, Libya, Director of National Intelligence_
+_Context: Director of National Intelligence, attack on the U.S. Consulate in Benghazi, Libya_
 
 ##### Dornier Do 228
 ### [A Dornier Do 228 light aircraft operated by Sita Air crashes on the outskirts of the Nepalese capital of Kathmandu, killing all 16 passengers and three crew on board. ](/news/2012/09/28/a-dornier-do-228-light-aircraft-operated-by-sita-air-crashes-on-the-outskirts-of-the-nepalese-capital-of-kathmandu-killing-all-16-passenger.md)
-_Context: Dornier Do 228, crashes, Kathmandu, Nepal, Sita Air_
+_Context: Sita Air, Nepal, crashes, Kathmandu, Dornier Do 228_
 
 ##### World Health Organization
 ### [The World Health Organization says the novel coronavirus that originated from Saudi Arabia is not highly contagious. ](/news/2012/09/28/the-world-health-organization-says-the-novel-coronavirus-that-originated-from-saudi-arabia-is-not-highly-contagious.md)
@@ -33,7 +33,7 @@ The official Xinhua News translation of a Communist Party statement expelling di
 
 ##### SPD
 ### [Social Democratic Party of Germany president Sigmar Gabriel proposes Peer Steinbrck as the party's Chancellor candidate for the next German federal election to be held in 2013. ](/news/2012/09/28/social-democratic-party-of-germany-president-sigmar-gabriel-proposes-peer-steinbruck-as-the-party-s-chancellor-candidate-for-the-next-german.md)
-_Context: next German federal election, Sigmar Gabriel, Peer Steinbrck, Chancellor, SPD_
+_Context: SPD, Sigmar Gabriel, Chancellor, Peer Steinbrck, next German federal election_
 
 ## [Previous Day...](/news/2012/09/27/index.md)
 

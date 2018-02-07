@@ -25,11 +25,11 @@ Mexico&#039;s Colima volcano erupts, spewing out ash and thick black smoke and f
 
 ##### Socialist Workers' Party
 ### [The leader of the Spanish Socialist Workers' Party, Pedro Sanchez, resigns. ](/news/2016/10/1/the-leader-of-the-spanish-socialist-workers-party-pedro-sa-nchez-resigns.md)
-_Context: Socialist Workers' Party, Pedro Sanchez_
+_Context: Pedro Sanchez, Socialist Workers' Party_
 
 ##### Obama administration
 ### [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md)
-_Context: U.S. Commerce Department, Internet Corporation for Assigned Names and Numbers, Obama administration, Internet_
+_Context: U.S. Commerce Department, Obama administration, Internet Corporation for Assigned Names and Numbers, Internet_
 
 ## [Previous Day...](/news/2016/09/30/index.md)
 

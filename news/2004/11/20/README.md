@@ -13,19 +13,19 @@ _Context: GBP, Children in Need, BBC, telethon_
 
 ##### Conseil Reprsentatif des Institutions juives de France
 ### [ The Conseil Reprsentatif des Institutions juives de France (CRIF), an umbrella group of French Jewish organisations, accused the French government of failing to protect citizens from broadcasts by Hezbollah's al-Manar TV, which includes films that CRIF claims are anti-Semitic and incite Muslims to attack Jews. ](/news/2004/11/20/the-conseil-representatif-des-institutions-juives-de-france-crif-an-umbrella-group-of-french-jewish-organisations-accused-the-french-go.md)
-_Context: anti-Semitic, Hezbollah, Conseil Reprsentatif des Institutions juives de France_
+_Context: Hezbollah, Conseil Reprsentatif des Institutions juives de France, anti-Semitic_
 
 ##### China Eastern
 ### [ A small China Eastern airlines jet, a Bombardier CRJ2000, crashes in Baotou, Inner Mongolia, causing the deaths of 53 persons. ](/news/2004/11/20/a-small-china-eastern-airlines-jet-a-bombardier-crj2000-crashes-in-baotou-inner-mongolia-causing-the-deaths-of-53-persons.md)
-_Context: China Eastern, crashes, Bombardier Aerospace, Baotou, CRJ2000_
+_Context: Bombardier Aerospace, crashes, CRJ2000, China Eastern, Baotou_
 
 ##### Indian Army
 ### [ Indian policemen and soldiers of the Indian Army recover 300&nbsp;kg of RDX from a grocery store near the southern Kashmir town of Anantnag, 55&nbsp;km from Srinagar. This is the biggest ever explosive haul in the state of Jammu and Kashmir. ](/news/2004/11/20/indian-policemen-and-soldiers-of-the-indian-army-recover-300-nbsp-kg-of-rdx-from-a-grocery-store-near-the-southern-kashmir-town-of-anantnag.md)
-_Context: Anantnag, Srinagar, Jammu and Kashmir, RDX, Indian Army, Kashmir_
+_Context: Indian Army, RDX, Srinagar, Kashmir, Jammu and Kashmir, Anantnag_
 
 ##### Madras High Court
 ### [ The Madras High Court in India dismisses the bail petition of Kanchi Shankaracharya Jayendra Saraswathi, the prime accused in the murder of temple manager Sankararaman. ](/news/2004/11/20/the-madras-high-court-in-india-dismisses-the-bail-petition-of-kanchi-shankaracharya-jayendra-saraswathi-the-prime-accused-in-the-murder-of.md)
-_Context: Madras High Court, Kanchi Shankaracharya, Jayendra Saraswathi_
+_Context: Jayendra Saraswathi, Madras High Court, Kanchi Shankaracharya_
 
 ## [Previous Day...](/news/2004/11/19/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2006/12/9/index.html)  [JSON](2006/12/9/index.json)  [XML](2006/
 
 ##### William J. Jefferson
 ### [ William J. Jefferson is reelected as the member for Louisiana's 2nd congressional district in a runoff election defeating fellow Democrat Karen Carter despite facing an ongoing bribery investigation. ](/news/2006/12/9/william-j-jefferson-is-reelected-as-the-member-for-louisiana-s-2nd-congressional-district-in-a-runoff-election-defeating-fellow-democrat-k.md)
-_Context: Democrat, William J. Jefferson, bribes, Karen Carter, 2nd congressional election_
+_Context: bribes, Karen Carter, Democrat, William J. Jefferson, 2nd congressional election_
 
 ##### United States Senate
 ### [ The United States Senate passes legislation normalising trade with Vietnam, renewing tax cuts and opening the Gulf of Mexico to new drilling for oil and gas fields. The legislation had earlier been passed by the United States House of Representatives and will now go to President of the United States George W. Bush for approval. ](/news/2006/12/9/the-united-states-senate-passes-legislation-normalising-trade-with-vietnam-renewing-tax-cuts-and-opening-the-gulf-of-mexico-to-new-drillin.md)
@@ -21,7 +21,7 @@ _Context: Discovery, STS-116_
 
 ##### Turkmenistan
 ### [ Two months after it opened, the "The World of Turkmenbashi Tales" themepark in Turkmenistan is made operational. The park, which is named after the Turkmenbashi, Saparmurat Niyazov, is expected to attract more children now that the rides work and all libraries have been closed. ](/news/2006/12/9/two-months-after-it-opened-the-the-world-of-turkmenbashi-tales-themepark-in-turkmenistan-is-made-operational-the-park-which-is-named-a.md)
-_Context: Saparmurat Niyazov, Turkmenistan_
+_Context: Turkmenistan, Saparmurat Niyazov_
 
 ##### coup in 2006
 ### [ 2006 Fijian coup d'tat: Media reports that gunfire had been heard near military barracks in Suva have been dismissed as being mistaken identification of a game of cricket. ](/news/2006/12/9/2006-fijian-coup-d-etat-media-reports-that-gunfire-had-been-heard-near-military-barracks-in-suva-have-been-dismissed-as-being-mistaken-ide.md)
@@ -29,7 +29,7 @@ _Context: Suva, coup in 2006_
 
 ##### DNA testing
 ### [ DNA testing confirms that blood with a high blood alcohol content did indeed belong to Henri Paul, the driver in the crash that killed Diana, Princess of Wales, Dodi al Fayed and Paul himself in 1997. ](/news/2006/12/9/dna-testing-confirms-that-blood-with-a-high-blood-alcohol-content-did-indeed-belong-to-henri-paul-the-driver-in-the-crash-that-killed-dian.md)
-_Context: DNA testing, blood alcohol content, grandmother, Dodi al Fayed, 1997, Henri Paul_
+_Context: DNA testing, blood alcohol content, 1997, Henri Paul, grandmother, Dodi al Fayed_
 
 ## [Previous Day...](/news/2006/12/8/index.md)
 

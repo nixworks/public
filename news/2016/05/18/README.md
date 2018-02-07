@@ -9,7 +9,7 @@ A Pakistani police official says a twin bombing has killed a police officer and 
 
 ##### Iraqi civil war (2014-present)
 ### [Iraqi police claim ISIL militants fired chemical weapons, suspected to be mustard gas or chlorine, in the May 8 attacks on Bashir near Kirkuk, Iraq. ](/news/2016/05/18/iraqi-police-claim-isil-militants-fired-chemical-weapons-suspected-to-be-mustard-gas-or-chlorine-in-the-may-8-attacks-on-bashir-near-kirku.md)
-_Context: Bashir, Use of chemical weapons in the Iraqi civil war, ISIL, Iraqi police, chlorine, mustard gas, Kirkuk, Iraqi civil war (2014-present)_
+_Context: Iraqi police, Bashir, Use of chemical weapons in the Iraqi civil war, ISIL, chlorine, Kirkuk, Iraqi civil war (2014-present), mustard gas_
 
 ##### Chibok schoolgirls kidnapping
 ### [One of the girls kidnapped in 2014 by Boko Haram in Nigeria is found and reunited with her family. ](/news/2016/05/18/one-of-the-girls-kidnapped-in-2014-by-boko-haram-in-nigeria-is-found-and-reunited-with-her-family.md)
@@ -29,7 +29,7 @@ Around 150 people are feared dead after more than three days of heavy rain trigg
 
 ##### earthquake
 ### [A powerful 6.7 magnitude earthquake hits Ecuador near the town of Muisne, one person is killed. ](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuador-near-the-town-of-muisne-one-person-is-killed.md)
-_Context: Ecuador, earthquake, Muisne_
+_Context: Muisne, Ecuador, earthquake_
 
 ##### United States Air Force
 ### [A United States Air Force B-52 Stratofortress crashes at Andersen Air Force Base on Guam. All seven aircrew members escaped. No injuries have been reported. ](/news/2016/05/18/a-united-states-air-force-b-52-stratofortress-crashes-at-andersen-air-force-base-on-guam-all-seven-aircrew-members-escaped-no-injuries-hav.md)
@@ -37,7 +37,7 @@ A B-52 crashed around 8:30 a.m. Thursday on Andersen AFB&#39;s flight line.
 
 ##### Cross-Strait relations
 ### [China stages joint war games featuring mock beach landing, helicopter assaults and tank battles along its east coast, just days before the inauguration of Taiwanese president Tsai Ing-Wen. ](/news/2016/05/18/china-stages-joint-war-games-featuring-mock-beach-landing-helicopter-assaults-and-tank-battles-along-its-east-coast-just-days-before-the-i.md)
-_Context: Taiwan, China, Cross-Strait relations, drill, Tsai Ing-Wen_
+_Context: Taiwan, Cross-Strait relations, Tsai Ing-Wen, China, drill_
 
 ##### Timothy Wiltsey
 ### [ Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. ](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-her-five-year-old-son-timothy-wiltsey-25-years-ago-in-new-jersey.md)

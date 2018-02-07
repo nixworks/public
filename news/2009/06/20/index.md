@@ -17,11 +17,11 @@ The US will order all its troops in Afghanistan to undergo new training after co
 
 ##### New Zealand
 ### [ A New Zealand jury convicts Nai Yin Xue, who sparked an international hunt in 2007, of murdering his wife. ](/news/2009/06/20/a-new-zealand-jury-convicts-nai-yin-xue-who-sparked-an-international-hunt-in-2007-of-murdering-his-wife.md)
-_Context: New Zealand, Nai Yin Xue, convicts_
+_Context: Nai Yin Xue, convicts, New Zealand_
 
 ##### Greece
 ### [ Greece's Acropolis Museum in Athens is unveiled. ](/news/2009/06/20/greece-s-acropolis-museum-in-athens-is-unveiled.md)
-_Context: Athens, Greece, Acropolis Museum_
+_Context: Athens, Acropolis Museum, Greece_
 
 ##### United Kingdom
 ### [ The bodies of two British hostages in Iraq are discovered. ](/news/2009/06/20/the-bodies-of-two-british-hostages-in-iraq-are-discovered.md)
@@ -41,7 +41,7 @@ Security forces enter Lalgarh region of West Bengal under rebel control.
 
 ##### Taza bombing
 ### [ At least 67 people are killed and over 200 are injured in a suicide attack near Kirkuk in Iraq. ](/news/2009/06/20/at-least-67-people-are-killed-and-over-200-are-injured-in-a-suicide-attack-near-kirkuk-in-iraq.md)
-_Context: suicide attack, Taza bombing, Kirkuk, Iraq_
+_Context: Kirkuk, suicide attack, Iraq, Taza bombing_
 
 ## [Previous Day...](/news/2009/06/19/index.md)
 

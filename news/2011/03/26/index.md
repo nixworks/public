@@ -9,7 +9,7 @@ Five suspected al Qaeda members were killed in a clash with Yemeni forces when t
 
 ##### New People's Army
 ### [Three people are killed by leftist rebels in Tampakan, southern Philippines. ](/news/2011/03/26/three-people-are-killed-by-leftist-rebels-in-tampakan-southern-philippines.md)
-_Context: Philippines, Tampakan, New People's Army_
+_Context: Tampakan, Philippines, New People's Army_
 
 ##### Hamas
 ### [Hamas states that it will agree to a ceasefire and halt their rocket fire at Israel if Israel stops attacking targets in the Gaza Strip. ](/news/2011/03/26/hamas-states-that-it-will-agree-to-a-ceasefire-and-halt-their-rocket-fire-at-israel-if-israel-stops-attacking-targets-in-the-gaza-strip.md)
@@ -37,7 +37,7 @@ _Context: Burma, Mandalay_
 
 ##### Swindon
 ### [British Police are granted an extension by magistrates to continue questioning a Swindon man suspected of the murder of Sian O'Callaghan. ](/news/2011/03/26/british-police-are-granted-an-extension-by-magistrates-to-continue-questioning-a-swindon-man-suspected-of-the-murder-of-sian-o-callaghan.md)
-_Context: murder of Sian O'Callaghan, Swindon_
+_Context: Swindon, murder of Sian O'Callaghan_
 
 ##### Australia
 ### [Voters in the Australian state of New South Wales go to the polls for the NSW state election with the Liberal-National coalition led by Barry O'Farrell winning government by a landslide. ](/news/2011/03/26/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-the-nsw-state-election-with-the-liberal-national-coalition-led-by-barr.md)
@@ -49,11 +49,11 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 ##### Geraldine Ferraro
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: House of Representatives, Geraldine Ferraro, Boston, Massachusetts, Vice-President of the United States, Democrat_
+_Context: Boston, Massachusetts, Democrat, House of Representatives, Geraldine Ferraro, Vice-President of the United States_
 
 ##### Governor-General of Canada
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
-_Context: Governor-General of Canada, 2011 Canadian federal election, David Johnston, Parliament of Canada_
+_Context: Governor-General of Canada, David Johnston, 2011 Canadian federal election, Parliament of Canada_
 
 ## [Previous Day...](/news/2011/03/25/index.md)
 

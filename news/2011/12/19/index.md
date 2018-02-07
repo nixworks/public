@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/19/index.html)  [JSON](2011/12/19/index.json)  [XML](201
 
 ##### Cairo
 ### [Fighting continues in Cairo's Tahrir Square for a fourth successive day. ](/news/2011/12/19/fighting-continues-in-cairo-s-tahrir-square-for-a-fourth-successive-day.md)
-_Context: Tahrir Square, Cairo_
+_Context: Cairo, Tahrir Square_
 
 ##### Syria
 ### [Syria agrees to an Arab League plan to allow monitors into the country amid the uprising. ](/news/2011/12/19/syria-agrees-to-an-arab-league-plan-to-allow-monitors-into-the-country-amid-the-uprising.md)
@@ -25,7 +25,7 @@ A Southern California teenager was sentenced on Monday to 21 years in state pris
 
 ##### Death of Kim Jong-il
 ### [The death of North Korean supreme leader Kim Jong-il on December 17 is announced by Korean Central Television. ](/news/2011/12/19/the-death-of-north-korean-supreme-leader-kim-jong-il-on-december-17-is-announced-by-korean-central-television.md)
-_Context: Death of Kim Jong-il, Korean Central Television, North Korea, Kim Jong-il, leader_
+_Context: Death of Kim Jong-il, Korean Central Television, leader, North Korea, Kim Jong-il_
 
 ##### DR Congo
 ### [Congolese opposition leader Etienne Tshisekedi calls on the army to stop following orders from President Joseph Kabila. ](/news/2011/12/19/congolese-opposition-leader-etienne-tshisekedi-calls-on-the-army-to-stop-following-orders-from-president-joseph-kabila.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2007/10/14/index.html)  [JSON](2007/10/14/index.json)  [XML](200
 
 ##### bomb
 ### [ A bomb explodes in a movie theatre in Ludhiana in India's Punjab state killing at least six people and wounding at least 30 others. ](/news/2007/10/14/a-bomb-explodes-in-a-movie-theatre-in-ludhiana-in-india-s-punjab-state-killing-at-least-six-people-and-wounding-at-least-30-others.md)
-_Context: Punjab, India, Ludhiana, bomb, movie theatre_
+_Context: bomb, Ludhiana, movie theatre, India, Punjab_
 
 ##### Italy
 ### [ Three million Italians go to the polls to elect the leader of the new Democratic Party. The current Mayor of Rome, Walter Veltroni, wins with about 75% of the votes. ](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.md)
-_Context: Democratic Party, Italy, Walter Veltroni, Mayor of Rome_
+_Context: Democratic Party, Mayor of Rome, Walter Veltroni, Italy_
 
 ##### Israel
 ### [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he-w.md)
-_Context: Israeli Prime Minister, Prime Minister, Ehud Olmert, Israel_
+_Context: Israel, Israeli Prime Minister, Ehud Olmert, Prime Minister_
 
 ##### Burma
 ### [ Burma restores some Internet access but continues to deny access to foreign news services such as the BBC and CNN, blogs and dissident sites. ](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.md)
-_Context: CNN, Internet, BBC, blog, Burma_
+_Context: Burma, CNN, blog, Internet, BBC_
 
 ##### Interfax
 ### [ The Interfax news agency reports that Russian security forces have received a warning of plans to assassinate the President of Russia Vladimir Putin in Iran.](/news/2007/10/14/the-interfax-news-agency-reports-that-russian-security-forces-have-received-a-warning-of-plans-to-assassinate-the-president-of-russia-vladi.md)

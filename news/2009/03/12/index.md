@@ -9,35 +9,35 @@ _Context: retail sales, China_
 
 ##### Iraq
 ### [ Iraqi journalist Muntadhar al-Zaidi is sentenced to three years in prison for throwing shoes at then-United States President George W. Bush. ](/news/2009/03/12/iraqi-journalist-muntadhar-al-zaidi-is-sentenced-to-three-years-in-prison-for-throwing-shoes-at-then-united-states-president-george-w-bush.md)
-_Context: United States, U.S. President, throws a shoe, Iraq, Muntadhar al-Zaidi, George W. Bush_
+_Context: United States, throws a shoe, U.S. President, Muntadhar al-Zaidi, Iraq, George W. Bush_
 
 ##### National Semiconductor
 ### [ National Semiconductor will cut 1,725 jobs. ](/news/2009/03/12/national-semiconductor-will-cut-1-725-jobs.md)
-_Context: National Semiconductor, cut_
+_Context: cut, National Semiconductor_
 
 ##### Pope
 ### [ Pope Benedict XVI acknowledges mistakes in rescinding Bishop Richard Williamson's excommunication for Holocaust denial. ](/news/2009/03/12/pope-benedict-xvi-acknowledges-mistakes-in-rescinding-bishop-richard-williamson-s-excommunication-for-holocaust-denial.md)
-_Context: Bishop, Pope, Holocaust denial, excommunicate, Pope Benedict XVI, Holocaust, Richard Williamson_
+_Context: Holocaust, Pope Benedict XVI, Holocaust denial, Richard Williamson, Bishop, excommunicate, Pope_
 
 ##### Zimbabwe
 ### [ Zimbabwe releases Deputy Agriculture Minister-designate Roy Bennett from government custody. ](/news/2009/03/12/zimbabwe-releases-deputy-agriculture-minister-designate-roy-bennett-from-government-custody.md)
-_Context: Zimbabwe, Politics of Zimbabwe, Roy Bennett, Deputy Agriculture Minister-designate_
+_Context: Politics of Zimbabwe, Deputy Agriculture Minister-designate, Zimbabwe, Roy Bennett_
 
 ##### United States
 ### [ American businessman Bernard Madoff pleads guilty to 11 charges surrounding his US$65-billion Ponzi scheme. ](/news/2009/03/12/american-businessman-bernard-madoff-pleads-guilty-to-11-charges-surrounding-his-us-65-billion-ponzi-scheme.md)
-_Context: United States, Bernard Madoff, Ponzi scheme, $, investment fraud_
+_Context: Bernard Madoff, $, United States, Ponzi scheme, investment fraud_
 
 ##### Astronaut
 ### [ Astronauts aboard the International Space Station briefly evacuate to a Russian escape pod as space debris passes. ](/news/2009/03/12/astronauts-aboard-the-international-space-station-briefly-evacuate-to-a-russian-escape-pod-as-space-debris-passes.md)
-_Context: space debris, Russia, International Space Station, escape pod, Astronaut_
+_Context: space debris, International Space Station, Russia, Astronaut, escape pod_
 
 ##### Cougar Helicopters
 ### [ One person is killed and 16 are missing after Cougar Helicopters Flight 491 ditches into the Atlantic Ocean near St. John's, Newfoundland and Labrador, Canada. ](/news/2009/03/12/one-person-is-killed-and-16-are-missing-after-cougar-helicopters-flight-491-ditches-into-the-atlantic-ocean-near-st-john-s-newfoundland-a.md)
-_Context: Atlantic Ocean, Canadian, Newfoundland and Labrador, St. John's, Flight 491, ditching, Cougar Helicopters_
+_Context: ditching, St. John's, Newfoundland and Labrador, Flight 491, Cougar Helicopters, Canadian, Atlantic Ocean_
 
 ##### United States
 ### [ An American drone aircraft's missiles kill at least 12 people in Pakistan's Kurram Valley. ](/news/2009/03/12/an-american-drone-aircraft-s-missiles-kill-at-least-12-people-in-pakistan-s-kurram-valley.md)
-_Context: missile, drone, United States, Kurram, Pakistan_
+_Context: Kurram, Pakistan, drone, United States, missile_
 
 ## [Previous Day...](/news/2009/03/11/index.md)
 

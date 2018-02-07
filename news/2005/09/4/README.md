@@ -5,7 +5,7 @@ Formats: [HTML](2005/09/4/index.html)  [JSON](2005/09/4/index.json)  [XML](2005/
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: PNA President Mahmoud Abbas said that 97.5 percent of Gaza Strip lands that Israel would evacuate from were state-owned lands and that the Islamic University was entitled to receive lands in order to expand its facilities.](/news/2005/09/4/israeli-palestinian-conflict-pna-president-mahmoud-abbas-said-that-97-5-percent-of-gaza-strip-lands-that-israel-would-evacuate-from-were-s.md)
-_Context: Palestinian Authority, Gaza Strip, Israeli-Palestinian conflict, Mahmoud Abbas_
+_Context: Palestinian Authority, Mahmoud Abbas, Gaza Strip, Israeli-Palestinian conflict_
 
 ##### New Orleans
 ### [ Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.md)
@@ -17,11 +17,11 @@ _Context: Typhoon Talim, China, Anhui_
 
 ##### Wistar Institute
 ### [ Wistar Institute scientists say they will present details of research on their creation of "miracle mice" next week at a Cambridge University conference on Regeneration. The experimental animals are able to regenerate amputated limbs or body organs.](/news/2005/09/4/wistar-institute-scientists-say-they-will-present-details-of-research-on-their-creation-of-miracle-mice-next-week-at-a-cambridge-universi.md)
-_Context: regenerate, Wistar Institute_
+_Context: Wistar Institute, regenerate_
 
 ##### Bregenz
 ### [ In Bregenz, Austria, a German woman attacks the Roy Lichtenstein painting "Nudes in Mirror" with a jackknife. Witnesses say that the woman claimed that the painting was not authentic. Although there were several slashes in the painting, valued at EUR4 million, it can be repaired. ](/news/2005/09/4/in-bregenz-austria-a-german-woman-attacks-the-roy-lichtenstein-painting-nudes-in-mirror-with-a-jackknife-witnesses-say-that-the-woman.md)
-_Context: jackknife, Austria, German, Bregenz, Roy Lichtenstein_
+_Context: German, jackknife, Roy Lichtenstein, Austria, Bregenz_
 
 ## [Previous Day...](/news/2005/09/3/index.md)
 

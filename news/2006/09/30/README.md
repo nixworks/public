@@ -5,11 +5,11 @@ Formats: [HTML](2006/09/30/index.html)  [JSON](2006/09/30/index.json)  [XML](200
 
 ##### Los Angeles Times
 ### [ The "Los Angeles Times" has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-of.md)
-_Context: Roger Clemens, Major League Baseball, Jason Grimsley, doping, Los Angeles Times, Andy Pettitte, Miguel Tejada_
+_Context: Los Angeles Times, Jason Grimsley, Miguel Tejada, Major League Baseball, Roger Clemens, doping, Andy Pettitte_
 
 ##### Nigeria
 ### [ In Nigeria, the collapse of a dam wall kills forty people in Gusau, Zamfara state. ](/news/2006/09/30/in-nigeria-the-collapse-of-a-dam-wall-kills-forty-people-in-gusau-zamfara-state.md)
-_Context: Nigeria, Zamfara state, Gusau_
+_Context: Gusau, Nigeria, Zamfara state_
 
 ##### TaCNYana Kucharova
 ### [ Eighteen-year-old TaCNYana Kucharova from the Czech Republic was crowned Miss World 2006 at the conclusion of a ceremony held at Sala Kongresowa in Warsaw, Poland. 1st Runner-Up was Ioana Boitor from Romania and 2nd Runner-Up was Sabrina Housammi from Australia. 104 nations competed for the title. ](/news/2006/09/30/eighteen-year-old-taacnya-na-kuchaaova-from-the-czech-republic-was-crowned-miss-world-2006-at-the-conclusion-of-a-ceremony-held-at-sala-k.md)

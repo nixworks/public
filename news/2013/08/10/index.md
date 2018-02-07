@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/10/index.html)  [JSON](2013/08/10/index.json)  [XML](201
 
 ##### Thailand
 ### [Gunmen kidnap four Thai tourists traveling in Nigeria's Rivers State. ](/news/2013/08/10/gunmen-kidnap-four-thai-tourists-traveling-in-nigeria-s-rivers-state.md)
-_Context: Nigeria, Rivers State, Thailand_
+_Context: Rivers State, Thailand, Nigeria_
 
 ##### Baghdad
 ### [A bomb kills four people and wounds 16 in a park south of Baghdad, Iraq. ](/news/2013/08/10/a-bomb-kills-four-people-and-wounds-16-in-a-park-south-of-baghdad-iraq.md)
@@ -25,11 +25,11 @@ A volcano erupts on an Indonesian island, spewing hot ash on to a nearby beach a
 
 ##### Al Hoceima
 ### [A bus accident in Al Hoceima, Morocco, kills at least 16 Royal Guardsmen. ](/news/2013/08/10/a-bus-accident-in-al-hoceima-morocco-kills-at-least-16-royal-guardsmen.md)
-_Context: Morocco, Al Hoceima, Royal Guardsmen_
+_Context: Al Hoceima, Morocco, Royal Guardsmen_
 
 ##### Manitou Springs
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: Manitou Springs, United States, Colorado_
+_Context: United States, Colorado, Manitou Springs_
 
 ##### Belfast
 ### [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md)

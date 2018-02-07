@@ -13,7 +13,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### avian influenza
 ### [ The first case of avian influenza (bird flu) has been discovered in the United Kingdom from a South American parrot. Tests are being carried out on the parrot, which died in quarantine, to determine whether it had the H5N1 strain of the virus. ](/news/2005/10/22/the-first-case-of-avian-influenza-bird-flu-has-been-discovered-in-the-united-kingdom-from-a-south-american-parrot-tests-are-being-carrie.md)
-_Context: bird flu, avian influenza, United Kingdom, quarantine_
+_Context: avian influenza, quarantine, bird flu, United Kingdom_
 
 ##### 
 ### [ The Lozells riots in Birmingham begin, leaving according to the most recent reports at least two dead. ](/news/2005/10/22/the-lozells-riots-in-birmingham-begin-leaving-according-to-the-most-recent-reports-at-least-two-dead.md)

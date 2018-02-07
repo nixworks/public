@@ -9,7 +9,7 @@ Finance ministers and centralbank heads from the G20 nations met in London on Fr
 
 ##### Bulgarians
 ### [ At least 15 people, mostly Bulgarians, drown in Lake Ohrid, Republic of Macedonia, as a tourist boat sinks. ](/news/2009/09/5/at-least-15-people-mostly-bulgarians-drown-in-lake-ohrid-republic-of-macedonia-as-a-tourist-boat-sinks.md)
-_Context: Bulgarians, Lake Ohrid, tourist boat sinks, Republic of Macedonia_
+_Context: tourist boat sinks, Lake Ohrid, Bulgarians, Republic of Macedonia_
 
 ##### Communist Party of China
 ### [ The Communist Party Chief in rmqi, China, is removed from his post following recent protests over a series of stabbings with hypodermic needles. ](/news/2009/09/5/the-communist-party-chief-in-urumqi-china-is-removed-from-his-post-following-recent-protests-over-a-series-of-stabbings-with-hypodermic-n.md)
@@ -21,11 +21,11 @@ Minister for Foreign Affairs Micheál Martin is is expected to arrive in Khartou
 
 ##### Libya
 ### [ An oil deal and trade concerns with Libya were at one point considered as factors in the Lockerbie bomber's release, British Justice Secretary Jack Straw says in an interview. ](/news/2009/09/5/an-oil-deal-and-trade-concerns-with-libya-were-at-one-point-considered-as-factors-in-the-lockerbie-bomber-s-release-british-justice-secret.md)
-_Context: United Kingdom, Jack Straw, Lockerbie bomber, Libya_
+_Context: Jack Straw, Libya, United Kingdom, Lockerbie bomber_
 
 ##### Venezuela
 ### [ Thousands of people attend rival demonstrations for or against the policies of Venezuelan President Hugo Chvez in Venezuela, Spain, Honduras and in other Latin American capitals. ](/news/2009/09/5/thousands-of-people-attend-rival-demonstrations-for-or-against-the-policies-of-venezuelan-president-hugo-chavez-in-venezuela-spain-hondur.md)
-_Context: Spain, President, Venezuela, Honduras, Hugo Chvez_
+_Context: Spain, Honduras, Venezuela, President, Hugo Chvez_
 
 ##### right-wing
 ### [ Around 90 people are arrested in clashes between right wing anti-Islamic groups and anti-Fascist protesters in Birmingham, England. ](/news/2009/09/5/around-90-people-are-arrested-in-clashes-between-right-wing-anti-islamic-groups-and-anti-fascist-protesters-in-birmingham-england.md)
@@ -33,7 +33,7 @@ Hundreds of people clashed in Birmingham city centre yesterday as right-wing pro
 
 ##### Grenada
 ### [ Grenada releases the last seven prisoners convicted in the murder of Grenadian Prime Minister Maurice Bishop during the 1983 coup, including former deputy prime minister Bernard Coard. ](/news/2009/09/5/grenada-releases-the-last-seven-prisoners-convicted-in-the-murder-of-grenadian-prime-minister-maurice-bishop-during-the-1983-coup-includin.md)
-_Context: Bernard Coard, Grenadian Prime Minister, Maurice Bishop, Grenada, 1983 coup_
+_Context: Grenada, 1983 coup, Maurice Bishop, Grenadian Prime Minister, Bernard Coard_
 
 ## [Previous Day...](/news/2009/09/4/index.md)
 

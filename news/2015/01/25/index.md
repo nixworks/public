@@ -9,7 +9,7 @@ At least 30 people were killed in heavy fighting between police and Muslim rebel
 
 ##### Miss Universe
 ### [The Miss Universe pageant crowns Miss Colombia Paulina Vega in Miami, Florida. ](/news/2015/01/25/the-miss-universe-pageant-crowns-miss-colombia-paulina-vega-in-miami-florida.md)
-_Context: Paulina Vega, Miss Universe, Miss Colombia, crowns, Miami, the state_
+_Context: Paulina Vega, Miss Universe, crowns, Miami, Miss Colombia, the state_
 
 ##### Pakistan
 ### [A massive blackout strikes Pakistan, leaving as much as 80 percent of the country without electricity at its height as officials rush to restore power. ](/news/2015/01/25/a-massive-blackout-strikes-pakistan-leaving-as-much-as-80-percent-of-the-country-without-electricity-at-its-height-as-officials-rush-to-res.md)

@@ -9,11 +9,11 @@ Formats: [HTML](2017/02/6/index.html)  [JSON](2017/02/6/index.json)  [XML](2017/
 
 ##### Afghanistan
 ### [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md)
-_Context: Pakistan, Karachi, Afghanistan_
+_Context: Afghanistan, Karachi, Pakistan_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md)
-_Context: Elizabeth II, Sapphire Jubilee_
+_Context: Sapphire Jubilee, Elizabeth II_
 
 ##### Agricultural Ministry
 ### [South Korea's Agricultural Ministry confirms a case of foot-and-mouth disease at a dairy farm in Boeun County. This is the first instance of this disease in the country since March 29, 2016. ](/news/2017/02/6/south-korea-s-agricultural-ministry-confirms-a-case-of-foot-and-mouth-disease-at-a-dairy-farm-in-boeun-county-this-is-the-first-instance-of.md)

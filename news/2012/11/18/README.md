@@ -25,7 +25,7 @@ Actor Jackie Chan, famed for his daring stunts, confirms he will be steering awa
 
 ##### Tamweel Tower
 ### [A fire breaks out at a residential highrise, the Tamweel Tower in the Jumeirah Lake Towers, Dubai, UAE. ](/news/2012/11/18/a-fire-breaks-out-at-a-residential-highrise-the-tamweel-tower-in-the-jumeirah-lake-towers-dubai-uae.md)
-_Context: Dubai, UAE, Tamweel Tower, Jumeirah Lake Towers_
+_Context: Jumeirah Lake Towers, Tamweel Tower, Dubai, UAE_
 
 ##### ASEAN
 ### [ASEAN leaders sign a controversial human rights declaration. ](/news/2012/11/18/asean-leaders-sign-a-controversial-human-rights-declaration.md)

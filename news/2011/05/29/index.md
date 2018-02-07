@@ -9,7 +9,7 @@ Deadly attack in volatile southwestern province followed small arms fire on US M
 
 ##### defense contractor
 ### [U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. ](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-largest-military-contractor-in-the-world-is-targeted-by-a-significant-and-tenacious-cyber-at.md)
-_Context: Lockheed, cyber attack, defense contractor_
+_Context: Lockheed, defense contractor, cyber attack_
 
 ##### French-born
 ### [Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md)
@@ -29,15 +29,15 @@ Historically, a European has led the international financial body, but emerging 
 
 ##### hip-hop
 ### [US hip-hop singer Sean Kingston is rushed to hospital after crashing his jet-ski into a Miami Beach bridge. ](/news/2011/05/29/us-hip-hop-singer-sean-kingston-is-rushed-to-hospital-after-crashing-his-jet-ski-into-a-miami-beach-bridge.md)
-_Context: Miami Beach, jet-ski, Sean Kingston, hip-hop_
+_Context: Miami Beach, hip-hop, jet-ski, Sean Kingston_
 
 ##### Greenpeace India's
 ### [3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. ](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.md)
-_Context: Greenpeace India's, Greenland, Denmark_
+_Context: Greenpeace India's, Denmark, Greenland_
 
 ##### Dennis Daugaard
 ### [Dennis Daugaard, the Governor of the US state of South Dakota, warns residents living south of the state capital of Pierre to prepare evacuation plans ahead of likely flooding of the Missouri River. ](/news/2011/05/29/dennis-daugaard-the-governor-of-the-us-state-of-south-dakota-warns-residents-living-south-of-the-state-capital-of-pierre-to-prepare-evacua.md)
-_Context: South Dakota, Missouri River, Pierre, South Dakota Governor, Dennis Daugaard_
+_Context: Pierre, Dennis Daugaard, South Dakota, Missouri River, South Dakota Governor_
 
 ##### Mich.
 ### [Storms in the US state of Michigan lead to the loss of power to 100,000 houses. ](/news/2011/05/29/storms-in-the-us-state-of-michigan-lead-to-the-loss-of-power-to-100-000-houses.md)
@@ -45,11 +45,11 @@ _Context: Mich._
 
 ##### Ferenc Madl
 ### [Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. ](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.md)
-_Context: Budapest, President of Hungary, Ferenc Madl_
+_Context: President of Hungary, Budapest, Ferenc Madl_
 
 ##### Sergei Bagapsh
 ### [Sergei Bagapsh, the President of the breakaway Georgian province of Abkhazia, dies from complications of lung surgery in Moscow. ](/news/2011/05/29/sergei-bagapsh-the-president-of-the-breakaway-georgian-province-of-abkhazia-dies-from-complications-of-lung-surgery-in-moscow.md)
-_Context: Moscow, Abkhazia, President,  Georgian, Sergei Bagapsh_
+_Context: Moscow, President,  Georgian, Sergei Bagapsh, Abkhazia_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan is sworn in as President of Nigeria at a ceremony attended by foreign heads of state in Abuja. ](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.md)
@@ -69,7 +69,7 @@ Political parties reach last-minute deal, saving the Assembly and averting a pol
 
 ##### Mohamed Bin Hammam
 ### [Mohamed Bin Hammam of Qatar announces he is to no longer run for the presidency of FIFA. ](/news/2011/05/29/mohamed-bin-hammam-of-qatar-announces-he-is-to-no-longer-run-for-the-presidency-of-fifa.md)
-_Context: Mohamed Bin Hammam, FIFA, Qatar_
+_Context: Qatar, FIFA, Mohamed Bin Hammam_
 
 ##### Sepp Blatter
 ### [Sepp Blatter is found to have no case to answer. ](/news/2011/05/29/sepp-blatter-is-found-to-have-no-case-to-answer.md)

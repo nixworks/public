@@ -9,7 +9,7 @@ FM Alain Juppe says &#39;vise is tightening&#39; around Assad regime; pro-regime
 
 ##### drones launch
 ### [Suspected US drone missiles kill 13 militants in a compound in Pakistan's South Waziristan province. ](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.md)
-_Context: South Waziristan, Pakistan, drones launch_
+_Context: South Waziristan, drones launch, Pakistan_
 
 ##### House of Representatives
 ### [The chairman of the U.S. House of Representatives' Oversight Committee, Darrell Issa, whose panel has been investigating charges that defunct lender Countrywide Financial used its VIP-lending program to buy influence, says that a forthcoming report will include "significant new findings" on that point. ](/news/2011/11/16/the-chairman-of-the-u-s-house-of-representatives-oversight-committee-darrell-issa-whose-panel-has-been-investigating-charges-that-defunc.md)
@@ -17,7 +17,7 @@ _Context: House of Representatives, Countrywide Financial, House Oversight Commi
 
 ##### Thai authorities
 ### [Thai authorities consider constructing a waterway linking existing natural canals into a 200-km long "super-canal" that would hold 1.6B cubic meters of water and speed the draining of run-off to prevent flooding like that currently inundating Bangkok and other parts of the country. ](/news/2011/11/16/thai-authorities-consider-constructing-a-waterway-linking-existing-natural-canals-into-a-200-km-long-super-canal-that-would-hold-1-6b-cubi.md)
-_Context: super-canal, floods, Bangkok, Thai authorities_
+_Context: Bangkok, super-canal, Thai authorities, floods_
 
 ##### collides
 ### [Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. ](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-overloaded-school-bus-collides-with-a-coal-truck-in-northwest-china-s-gansu-province.md)
@@ -33,19 +33,19 @@ President Obama said the move to base 2,500 Marines in Australia is not intended
 
 ##### White House
 ### [Two bullets are found to have been fired at the White House in Washington, DC., one into a window that was stopped by bullet-proof glass. ](/news/2011/11/16/two-bullets-are-found-to-have-been-fired-at-the-white-house-in-washington-dc-one-into-a-window-that-was-stopped-by-bullet-proof-glass.md)
-_Context: Washington, DC., bullet-proof glass, White House_
+_Context: bullet-proof glass, Washington, DC., White House_
 
 ##### Mario Monti
 ### [Mario Monti is sworn in as Italian prime minister and temporary finance minister, with the task of implementing austerity measures to prevent the euro area's third-biggest economy from collapsing as a result of the debt crisis. ](/news/2011/11/16/mario-monti-is-sworn-in-as-italian-prime-minister-and-temporary-finance-minister-with-the-task-of-implementing-austerity-measures-to-preven.md)
-_Context: Eurozone, Eurozone crisis, Mario Monti, Italian Prime Minister, third-biggest economy, Economy Minister_
+_Context: third-biggest economy, Mario Monti, Eurozone, Economy Minister, Italian Prime Minister, Eurozone crisis_
 
 ##### Gordon Lilo Darcy
 ### [Gordon Lilo Darcy of the ruling National Coalition for Reform and Advancement is elected Prime Minister of the Solomon Islands in a 29-20 parliamentary vote over Milner Tozaka. ](/news/2011/11/16/gordon-lilo-darcy-of-the-ruling-national-coalition-for-reform-and-advancement-is-elected-prime-minister-of-the-solomon-islands-in-a-29-20-pa.md)
-_Context: Prime Minister, Gordon Lilo Darcy, Milner Tozaka, National Coalition for Reform and Advancement_
+_Context: Gordon Lilo Darcy, Milner Tozaka, Prime Minister, National Coalition for Reform and Advancement_
 
 ##### Greek Prime Minister
 ### [The new Greek prime minister, Lucas Papademos, wins a vote of confidence in Parliament, opening the way for his government of national unity to take the steps to restore financial stability in Greece. ](/news/2011/11/16/the-new-greek-prime-minister-lucas-papademos-wins-a-vote-of-confidence-in-parliament-opening-the-way-for-his-government-of-national-unity.md)
-_Context: Lucas Papademos, Greek Prime Minister, Hellenic Parliament, Greek government debt crisis_
+_Context: Greek Prime Minister, Greek government debt crisis, Lucas Papademos, Hellenic Parliament_
 
 ## [Previous Day...](/news/2011/11/15/index.md)
 

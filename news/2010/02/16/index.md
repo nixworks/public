@@ -13,11 +13,11 @@ The Pope has told Irish bishops at a special summit in the Vatican that paedophi
 
 ##### ''Queen Mary 2''
 ### [The "Queen Mary 2" arrives at the Port of Shanghai, making her first port call in China since her maiden voyage in 2004. ](/news/2010/02/16/the-queen-mary-2-arrives-at-the-port-of-shanghai-making-her-first-port-call-in-china-since-her-maiden-voyage-in-2004.md)
-_Context: 2004, ''Queen Mary 2'', Port of Shanghai_
+_Context: Port of Shanghai, 2004, ''Queen Mary 2''_
 
 ##### Queen Rania
 ### [Queen Rania of Jordan meets with CEOs of mobile operators from around the world in Barcelona on Monday to rally support for the 1GOAL global education campaign. ](/news/2010/02/16/queen-rania-of-jordan-meets-with-ceos-of-mobile-operators-from-around-the-world-in-barcelona-on-monday-to-rally-support-for-the-1goal-global.md)
-_Context: Jordan, education, Barcelona, Queen Rania_
+_Context: Jordan, Queen Rania, education, Barcelona_
 
 ##### Libya
 ### [Libya detains Irish nationals at its airport in Tripoli due to the escalation of a dispute between it and Switzerland which has led Libya to refuse anyone from the Schengen area, despite Ireland not being a member. ](/news/2010/02/16/libya-detains-irish-nationals-at-its-airport-in-tripoli-due-to-the-escalation-of-a-dispute-between-it-and-switzerland-which-has-led-libya-to.md)
@@ -25,7 +25,7 @@ TWO IRISH nationals have been detained at the airport in Libya&rsquo;s capital T
 
 ##### EMI
 ### [EMI places its Abbey Road Studios in St John's Wood, London, up for sale in an attempt to ease the debt burden created by Terra Firma Capital Partners' leveraged buyout of the company. ](/news/2010/02/16/emi-places-its-abbey-road-studios-in-st-john-s-wood-london-up-for-sale-in-an-attempt-to-ease-the-debt-burden-created-by-terra-firma-capita.md)
-_Context: EMI, St John's Wood, Abbey Road Studios, London, Terra Firma Capital Partners, leveraged buyout_
+_Context: Terra Firma Capital Partners, Abbey Road Studios, London, St John's Wood, leveraged buyout, EMI_
 
 ## [Previous Day...](/news/2010/02/15/index.md)
 

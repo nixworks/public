@@ -9,7 +9,7 @@ Syrian forces use mortars and helicopters in a day-long assault on Aleppo, where
 
 ##### NATO
 ### [Two NATO service members are killed in an attack in eastern Afghanistan. ](/news/2012/07/28/two-nato-service-members-are-killed-in-an-attack-in-eastern-afghanistan.md)
-_Context: NATO, Afghanistan_
+_Context: Afghanistan, NATO_
 
 ##### Ethiopia
 ### [Ethnic clashes in southern Ethiopia lead to the killing of at least 18 people and wounding of 12 others. ](/news/2012/07/28/ethnic-clashes-in-southern-ethiopia-lead-to-the-killing-of-at-least-18-people-and-wounding-of-12-others.md)
@@ -17,7 +17,7 @@ Deadly clashes between two communities in southern Ethiopia cause 20,000 people 
 
 ##### German
 ### [The sunken German U-Boat "U-550" is discovered off the coast of Massachusetts, United States. ](/news/2012/07/28/the-sunken-german-u-boat-u-550-is-discovered-off-the-coast-of-massachusetts-united-states.md)
-_Context: Massachusetts, United States, German, U-550_
+_Context: Massachusetts, German, U-550, United States_
 
 ##### Andriy Shevchenko
 ### [Andriy Shevchenko announces his retirement from football in order to go into politics. ](/news/2012/07/28/andriy-shevchenko-announces-his-retirement-from-football-in-order-to-go-into-politics.md)

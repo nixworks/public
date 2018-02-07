@@ -33,11 +33,11 @@ HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish s
 
 ##### Crossville
 ### [Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. ](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.md)
-_Context: U.S., Tennessee, Crossville_
+_Context: Tennessee, Crossville, U.S._
 
 ##### India
 ### [An Indian court sentences four men to death for the 2012 Delhi gang rape case. ](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.md)
-_Context: 2012 Delhi gang rape case, India_
+_Context: India, 2012 Delhi gang rape case_
 
 ##### Bill Shorten
 ### [Bill Shorten and Anthony Albanese will contest a month-long ballot process to determine who will be the Leader of the Australian Labor Party and Leader of the Opposition. ](/news/2013/09/13/bill-shorten-and-anthony-albanese-will-contest-a-month-long-ballot-process-to-determine-who-will-be-the-leader-of-the-australian-labor-party.md)
@@ -45,7 +45,7 @@ The gang&#039;s all here. Labor, Liberal, National - everyone is trying to remem
 
 ##### Narendra Modi
 ### [Narendra Modi is named as the Bharatiya Janata Party leader in next year's Indian general election. ](/news/2013/09/13/narendra-modi-is-named-as-the-bharatiya-janata-party-leader-in-next-year-s-indian-general-election.md)
-_Context: Narendra Modi, Indian general election, Bharatiya Janata Party_
+_Context: Bharatiya Janata Party, Indian general election, Narendra Modi_
 
 ## [Previous Day...](/news/2013/09/12/index.md)
 

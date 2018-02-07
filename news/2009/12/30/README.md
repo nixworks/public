@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/30/index.html)  [JSON](2009/12/30/index.json)  [XML](200
 
 ##### United States
 ### [ Seven American CIA agents are killed by a suicide bomb attack in a US military base in Khost Province, Afghanistan. Two of the seven killed are contractors for Blackwater Worldwide. The CIA considers contractors to be officers. ](/news/2009/12/30/seven-american-cia-agents-are-killed-by-a-suicide-bomb-attack-in-a-us-military-base-in-khost-province-afghanistan-two-of-the-seven-killed.md)
-_Context: Blackwater Worldwide, Khost, Central Intelligence Agency, suicide bomb, United States, Afghanistan_
+_Context: United States, suicide bomb, Central Intelligence Agency, Afghanistan, Blackwater Worldwide, Khost_
 
 ##### Canadian
 ### [ Four Canadian soldiers and a journalist, Michelle Lang of the "Calgary Herald, "are killed in a vehicle explosion in Kandahar, Afghanistan. ](/news/2009/12/30/four-canadian-soldiers-and-a-journalist-michelle-lang-of-the-calgary-herald-are-killed-in-a-vehicle-explosion-in-kandahar-afghanistan.md)
@@ -41,7 +41,7 @@ New figures show there will be 4,000 fewer Indian nationals coming to Australia 
 
 ##### Iran
 ### [ Thousands of pro-government supporters in Iran demonstrate against recent anti-government protests on Ashura. ](/news/2009/12/30/thousands-of-pro-government-supporters-in-iran-demonstrate-against-recent-anti-government-protests-on-ashura.md)
-_Context: anti-government protests, Iran, Ashura_
+_Context: Iran, anti-government protests, Ashura_
 
 ##### China
 ### [ A senior Chinese admiral says the country may build its first foreign naval base in the Middle East. ](/news/2009/12/30/a-senior-chinese-admiral-says-the-country-may-build-its-first-foreign-naval-base-in-the-middle-east.md)
@@ -49,7 +49,7 @@ China&#039;s rapidly-expanding navy is considering building its first foreign na
 
 ##### Bushfire
 ### [ Bushfires consume 13,400 hectares (33,000 acres) of land and destroy at least 37 homes near Toodyay, northeast of Perth, Western Australia. ](/news/2009/12/30/bushfires-consume-13-400-hectares-33-000-acres-of-land-and-destroy-at-least-37-homes-near-toodyay-northeast-of-perth-western-australia.md)
-_Context: Toodyay, Bushfire, Western Australia, Perth_
+_Context: Toodyay, Perth, Bushfire, Western Australia_
 
 ##### Italy
 ### [ Police in Italy locate a wooden toy guitar sculpture which co-founder of Cubism Pablo Picasso made for his daughter Paloma. ](/news/2009/12/30/police-in-italy-locate-a-wooden-toy-guitar-sculpture-which-co-founder-of-cubism-pablo-picasso-made-for-his-daughter-paloma.md)

@@ -45,7 +45,7 @@ Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against
 
 ##### Portugal
 ### [Voters in Portugal go to the polls for the Portuguese legislative election after months of a caretaker government and financial problems that led to a request for an international bailout - the opposition Social Democrats led by Pedro Passos Coelho won. ](/news/2011/06/5/voters-in-portugal-go-to-the-polls-for-the-portuguese-legislative-election-after-months-of-a-caretaker-government-and-financial-problems-tha.md)
-_Context: Portugal, Social Democratic Party, Pedro Passos Coelho, Portuguese legislative election, international bailout_
+_Context: Pedro Passos Coelho, Portuguese legislative election, Portugal, international bailout, Social Democratic Party_
 
 ##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia go to the polls for parliamentary elections. ](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.md)
@@ -61,7 +61,7 @@ _Context: Bangladesh_
 
 ##### Greek
 ### [Tens of thousands of people protest outside the Parliament of Greece in Athens against budget cuts. ](/news/2011/06/5/tens-of-thousands-of-people-protest-outside-the-parliament-of-greece-in-athens-against-budget-cuts.md)
-_Context: Athens, Greek, Parliament of Greece_
+_Context: Athens, Parliament of Greece, Greek_
 
 ## [Previous Day...](/news/2011/06/4/index.md)
 

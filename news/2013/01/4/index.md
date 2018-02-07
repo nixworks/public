@@ -45,7 +45,7 @@ South Korean firm Hyundai paid a ransom of $190,000 (£118,000) to free six work
 
 ##### Nepal
 ### [Former Nepalese Colonel Kumar Lama is charged with torture in the UK stemming from allegations of human rights abuses during the Nepalese Civil War. ](/news/2013/01/4/former-nepalese-colonel-kumar-lama-is-charged-with-torture-in-the-uk-stemming-from-allegations-of-human-rights-abuses-during-the-nepalese-ci.md)
-_Context: Nepal, human rights, Nepalese Civil War, UK, Colonel Kumar Lama_
+_Context: Nepalese Civil War, UK, human rights, Colonel Kumar Lama, Nepal_
 
 ##### U.S. media
 ### [U.S. media report that celebrity Naomi Campbell has been assaulted in Paris. Reports say two men on a motorcycle tried to make off with her handbag during the attack. ](/news/2013/01/4/u-s-media-report-that-celebrity-naomi-campbell-has-been-assaulted-in-paris-reports-say-two-men-on-a-motorcycle-tried-to-make-off-with-her.md)
@@ -57,19 +57,19 @@ The Pakistani schoolgirl activist shot in the head by the Taliban is discharged 
 
 ##### sexual violence
 ### [Demonstrations against sexual violence after Delhi gang rape spread across Asia and are now happening in Nepal, Sri Lanka, Pakistan and Bangladesh. ](/news/2013/01/4/demonstrations-against-sexual-violence-after-delhi-gang-rape-spread-across-asia-and-are-now-happening-in-nepal-sri-lanka-pakistan-and-bang.md)
-_Context: Sri Lanka, Bangladesh, sexual violence, 2012 Delhi gang rape case, Nepal, Pakistan_
+_Context: Nepal, Sri Lanka, 2012 Delhi gang rape case, Bangladesh, sexual violence, Pakistan_
 
 ##### China
 ### [Journalists in China call for the resignation of the propaganda chief in Guangdong province over "excessive censorship" amid the closure of a liberal website. ](/news/2013/01/4/journalists-in-china-call-for-the-resignation-of-the-propaganda-chief-in-guangdong-province-over-excessive-censorship-amid-the-closure-of.md)
-_Context: China, censorship, liberal, Guangdong province_
+_Context: Guangdong province, liberal, censorship, China_
 
 ##### Venezuela
 ### [The Venezuelan government announces that president Hugo Chavez is being treated for a "respiratory deficiency" after complications from a severe lung infection. ](/news/2013/01/4/the-venezuelan-government-announces-that-president-hugo-cha-vez-is-being-treated-for-a-respiratory-deficiency-after-complications-from-a-s.md)
-_Context: Venezuela, Hugo Chavez, lung infection_
+_Context: lung infection, Hugo Chavez, Venezuela_
 
 ##### lawmakers
 ### [The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. ](/news/2013/01/4/the-united-states-congress-officially-declares-president-barack-obama-the-winner-of-the-2012-presidential-election.md)
-_Context: United States presidential election, 2012, lawmakers, Barack Obama, U.S. President_
+_Context: United States presidential election, 2012, U.S. President, lawmakers, Barack Obama_
 
 ##### Sudan
 ### [The leaders of Sudan and South Sudan, Omar al-Bashir and Salva Kiir Mayardit, respectively, will meet in Addis Ababa to convene for talks regarding escalating tensions is response to Sudan's recent seizure of Abyei. ](/news/2013/01/4/the-leaders-of-sudan-and-south-sudan-omar-al-bashir-and-salva-kiir-mayardit-respectively-will-meet-in-addis-ababa-to-convene-for-talks-re.md)
@@ -77,7 +77,7 @@ The leaders of Sudan and South Sudan reaffirm their commitment to setting up a b
 
 ##### Spanish throne
 ### [King of Spain Juan Carlos I gives a rare television interview to coincide with his 75th birthday. ](/news/2013/01/4/king-of-spain-juan-carlos-i-gives-a-rare-television-interview-to-coincide-with-his-75th-birthday.md)
-_Context: Spanish throne, Juan Carlos I_
+_Context: Juan Carlos I, Spanish throne_
 
 ##### Church of England
 ### [The Church of England drops its prohibition on gay clergy in civil partnerships becoming bishops, so long as they promise to be celibate. ](/news/2013/01/4/the-church-of-england-drops-its-prohibition-on-gay-clergy-in-civil-partnerships-becoming-bishops-so-long-as-they-promise-to-be-celibate.md)

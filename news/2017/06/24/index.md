@@ -5,11 +5,11 @@ Formats: [HTML](2017/06/24/index.html)  [JSON](2017/06/24/index.json)  [XML](201
 
 ##### Israeli-Syrian ceasefire line incidents during the Syrian Civil War
 ### [Israel and Syria exchange weapons fire in the disputed Golan Heights, with Israel destroying several targets, including two Syrian tanks. Although there were deaths on the ground in Syria, the number of casualties among Syrian forces is unknown. No Israeli troops were injured. ](/news/2017/06/24/israel-and-syria-exchange-weapons-fire-in-the-disputed-golan-heights-with-israel-destroying-several-targets-including-two-syrian-tanks-al.md)
-_Context: Israel, Golan Heights, Israeli-Syrian ceasefire line incidents during the Syrian Civil War, Syria_
+_Context: Syria, Golan Heights, Israel, Israeli-Syrian ceasefire line incidents during the Syrian Civil War_
 
 ##### 2017 Sichuan landslide
 ### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
-_Context: Sichuan Province, 2017 Sichuan landslide, Aba Prefecture, Mao County_
+_Context: Mao County, Aba Prefecture, 2017 Sichuan landslide, Sichuan Province_
 
 ##### 2016-17 Yemen cholera outbreak
 ### [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md)
@@ -21,7 +21,7 @@ MPs are unable to access emails remotely, as Westminster deals with a hacking at
 
 ##### Papua New Guinean general election, 2017
 ### [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md)
-_Context: Peter O'Neill, Papua New Guinean general election, 2017, opinion poll, Papua New Guinea, People's National Congress, Prime Minister, National Parliament, governing coalition_
+_Context: Papua New Guinean general election, 2017, People's National Congress, National Parliament, Peter O'Neill, Prime Minister, Papua New Guinea, opinion poll, governing coalition_
 
 ## [Previous Day...](/news/2017/06/23/index.md)
 

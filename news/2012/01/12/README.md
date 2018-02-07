@@ -17,7 +17,7 @@ The Arab League is delaying sending more monitors to Syria, as its mission runs 
 
 ##### Supreme Court
 ### [The Supreme Court of Israel upholds a law banning Palestinians who marry Israelis from gaining Israeli citizenship. ](/news/2012/01/12/the-supreme-court-of-israel-upholds-a-law-banning-palestinians-who-marry-israelis-from-gaining-israeli-citizenship.md)
-_Context: Supreme Court, Israeli citizenship, Palestinians_
+_Context: Palestinians, Israeli citizenship, Supreme Court_
 
 ## [Previous Day...](/news/2012/01/11/index.md)
 

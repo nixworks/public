@@ -5,7 +5,7 @@ Formats: [HTML](2012/06/15/index.html)  [JSON](2012/06/15/index.json)  [XML](201
 
 ##### Yemen
 ### [The Yemeni army captures Shuqra, the third militant stronghold to fall in the last week. ](/news/2012/06/15/the-yemeni-army-captures-shuqra-the-third-militant-stronghold-to-fall-in-the-last-week.md)
-_Context: Yemen, Shuqra_
+_Context: Shuqra, Yemen_
 
 ##### Paraguay
 ### [Police officers attempting to evict landless farmers occupying a property in the Paraguayan department of Canindey turn into clashes, killing 16 officers and farmers. ](/news/2012/06/15/police-officers-attempting-to-evict-landless-farmers-occupying-a-property-in-the-paraguayan-department-of-canindeyu-turn-into-clashes-killi.md)
@@ -21,15 +21,15 @@ The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off 
 
 ##### Goldman Sachs
 ### [Former Goldman Sachs director Rajat Gupta is convicted of three counts of securities fraud and one count of conspiracy related to insider trading in 2011.](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.md)
-_Context: insider trading in 2011, Goldman Sachs, Rajat Gupta_
+_Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
 
 ##### Moody's Investor Service
 ### [Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
-_Context: credit rating, Moody's Investor Service, Dutch, ING Bank_
+_Context: Moody's Investor Service, credit rating, ING Bank, Dutch_
 
 ##### Herman Van Rompuy
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
-_Context: Herman Van Rompuy, European Council, Greece_
+_Context: Greece, Herman Van Rompuy, European Council_
 
 ##### Yili Group
 ### [Chinese manufacturer Yili Group recalls baby formula after some products are discovered with high mercury levels. ](/news/2012/06/15/chinese-manufacturer-yili-group-recalls-baby-formula-after-some-products-are-discovered-with-high-mercury-levels.md)
@@ -41,11 +41,11 @@ A rare functioning Apple 1 computer sells for more than double the estimated pri
 
 ##### Hurricane Carlotta
 ### [Hurricane Carlotta makes landfall on the coast of Mexico. ](/news/2012/06/15/hurricane-carlotta-makes-landfall-on-the-coast-of-mexico.md)
-_Context: Mexico, Hurricane Carlotta_
+_Context: Hurricane Carlotta, Mexico_
 
 ##### Mich.
 ### [Canada and the U.S. state of Michigan announce a deal to construct a bridge between the U.S. city of Detroit and the Canadian city of Windsor, Ontario. ](/news/2012/06/15/canada-and-the-u-s-state-of-michigan-announce-a-deal-to-construct-a-bridge-between-the-u-s-city-of-detroit-and-the-canadian-city-of-windso.md)
-_Context: Mich., Detroit, Windsor, Ontario, a bridge between_
+_Context: Windsor, Ontario, a bridge between, Detroit, Mich._
 
 ##### Japan
 ### [Police in Japan arrest Katsuya Takahashi of the Aum Shinrikyo cult, the last fugitive wanted over the March 1995 sarin gas attack on the Tokyo subway that killed 13 people. ](/news/2012/06/15/police-in-japan-arrest-katsuya-takahashi-of-the-aum-shinrikyo-cult-the-last-fugitive-wanted-over-the-march-1995-sarin-gas-attack-on-the-tok.md)
@@ -77,11 +77,11 @@ _Context: Congress of Colombia_
 
 ##### Holy See
 ### [The Holy See establishes the Personal Ordinariate of Our Lady of the Southern Cross, for former Anglicans in Australia. ](/news/2012/06/15/the-holy-see-establishes-the-personal-ordinariate-of-our-lady-of-the-southern-cross-for-former-anglicans-in-australia.md)
-_Context: Our Lady of the Southern Cross, Australia, Holy See, Anglicans, Personal Ordinariate_
+_Context: Holy See, Australia, Our Lady of the Southern Cross, Anglicans, Personal Ordinariate_
 
 ##### Bulgarian remains
 ### [Bulgarian remains believed by some to be John The Baptist are scientifically dated to the first century AD. ](/news/2012/06/15/bulgarian-remains-believed-by-some-to-be-john-the-baptist-are-scientifically-dated-to-the-first-century-ad.md)
-_Context: John The Baptist, Bulgarian remains_
+_Context: Bulgarian remains, John The Baptist_
 
 ## [Previous Day...](/news/2012/06/14/index.md)
 

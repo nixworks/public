@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/22/index.html)  [JSON](2006/11/22/index.json)  [XML](200
 
 ##### Surabaya
 ### [ A gas pipeline explodes near the city of Surabaya in Java, killing seven people. ](/news/2006/11/22/a-gas-pipeline-explodes-near-the-city-of-surabaya-in-java-killing-seven-people.md)
-_Context: Java, Surabaya_
+_Context: Surabaya, Java_
 
 ##### Iran
 ### [ Hinting at Iran, Israeli Prime Minister Ehud Olmert tells Orthodox Union (OU) in Jerusalem: "Israel's main problem is threat that comes from those who openly talk about wiping us off the map; we have heard these voices in the past; we can't afford to listen and not to react." ](/news/2006/11/22/hinting-at-iran-israeli-prime-minister-ehud-olmert-tells-orthodox-union-ou-in-jerusalem-israel-s-main-problem-is-threat-that-comes-fro.md)
@@ -25,11 +25,11 @@ _Context: flood, Somalia_
 
 ##### United Nations
 ### [ The United Nations claims that 3,709 Iraqi civilians died during October 2006 as sectarian violence worsens. ](/news/2006/11/22/the-united-nations-claims-that-3-709-iraqi-civilians-died-during-october-2006-as-sectarian-violence-worsens.md)
-_Context: United Nations, Iraq_
+_Context: Iraq, United Nations_
 
 ##### Federal District Judge
 ### [ United States district judge for the Eastern District of Louisiana Eldon Fallon rules that over seven thousand federal lawsuits against pharmaceutical company Merck claiming that its drug Vioxx caused heart problems could not be combined into one class action suit. ](/news/2006/11/22/united-states-district-judge-for-the-eastern-district-of-louisiana-eldon-fallon-rules-that-over-seven-thousand-federal-lawsuits-against-pha.md)
-_Context: Eldon Fallon, Federal District Judge, Vioxx, Eastern District of Louisiana, Merck & Co., class action_
+_Context: Eastern District of Louisiana, Vioxx, Eldon Fallon, Federal District Judge, Merck & Co., class action_
 
 ##### Nigeria
 ### [ Seven foreign oil workers are taken hostage in Nigeria. Four people die in a rescue effort including one hostage, a soldier and two of the kidnappers. ](/news/2006/11/22/seven-foreign-oil-workers-are-taken-hostage-in-nigeria-four-people-die-in-a-rescue-effort-including-one-hostage-a-soldier-and-two-of-the.md)
@@ -41,7 +41,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Prime Minister
 ### [ The Prime Minister of Nepal Girija Prasad Koirala and Maoist guerilla leader Prachanda sign a peace treaty ending 11 years of civil war in Nepal. ](/news/2006/11/22/the-prime-minister-of-nepal-girija-prasad-koirala-and-maoist-guerilla-leader-prachanda-sign-a-peace-treaty-ending-11-years-of-civil-war-in.md)
-_Context: Nepal, Prime Minister, Maoist, civil war, Prachanda, Girija Prasad Koirala_
+_Context: Girija Prasad Koirala, Nepal, Maoist, Prachanda, Prime Minister, civil war_
 
 ## [Previous Day...](/news/2006/11/21/index.md)
 

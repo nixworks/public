@@ -41,11 +41,11 @@ Fifty-eight foot American-owned yacht seized off the coast of Oman with four US 
 
 ##### tear gas
 ### [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md)
-_Context: water cannon, Dresden, tear gas_
+_Context: tear gas, water cannon, Dresden_
 
 ##### Iran
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
-_Context: Nader and Simin, A Separation, 61st Berlin International Film Festival, Asghar Farhadi, German, Golden Bear, Albania, Iran, Argentina, Hungary_
+_Context: 61st Berlin International Film Festival, Argentina, German, Asghar Farhadi, Hungary, Iran, Albania, Nader and Simin, A Separation, Golden Bear_
 
 ##### International Petroleum Investment Company
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
@@ -61,11 +61,11 @@ The Cuban government frees a jailed dissident journalist who refused to go into 
 
 ##### Madagascar
 ### [The return of former Madagascan President Marc Ravalomanana, in exile in South Africa, is blocked by the government on the island. Tear gas is fired to disperse supporters at the international airport. ](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.md)
-_Context: President, Marc Ravalomanana, Madagascar, South Africa_
+_Context: Madagascar, Marc Ravalomanana, President, South Africa_
 
 ##### Governor of Wisconsin
 ### [Governor of Wisconsin Scott Walker rejects union concessions on the state budget as protests continue in the state capital. ](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.md)
-_Context: Madison, Wisconsin, Governor of Wisconsin, Scott Walker_
+_Context: Governor of Wisconsin, Scott Walker, Madison, Wisconsin_
 
 ##### President of Tunisia
 ### [Thousands of political prisoners of former President of Tunisia Zine al-Abidine Ben Ali are released in Tunisia. ](/news/2011/02/19/thousands-of-political-prisoners-of-former-president-of-tunisia-zine-al-abidine-ben-ali-are-released-in-tunisia.md)
@@ -81,7 +81,7 @@ Prime Minister Ahmed Shafiq said on Saturday Egypt would release more than 200 p
 
 ##### Ahmad Vahidi
 ### [Iran's defense minister Ahmad Vahidi unveils 32 scientific and research projects conducted at Malek Ashtar Industrial University. ](/news/2011/02/19/iran-s-defense-minister-ahmad-vahidi-unveils-32-scientific-and-research-projects-conducted-at-malek-ashtar-industrial-university.md)
-_Context: Malek Ashtar Industrial University, Ahmad Vahidi_
+_Context: Ahmad Vahidi, Malek Ashtar Industrial University_
 
 ## [Previous Day...](/news/2011/02/18/index.md)
 

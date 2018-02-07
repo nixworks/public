@@ -29,7 +29,7 @@ BEIJING (AP) — Eight people in an eastern Chinese city were killed when the co
 
 ##### Breighton Aerodrome
 ### [A helicopter crashes at Breighton Aerodrome in the United Kingdom, with reports of five casualties. ](/news/2016/07/17/a-helicopter-crashes-at-breighton-aerodrome-in-the-united-kingdom-with-reports-of-five-casualties.md)
-_Context: United Kingdom, Breighton Aerodrome_
+_Context: Breighton Aerodrome, United Kingdom_
 
 ##### 2016 shooting of Baton Rouge police officers
 ### [At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wounded-by-a-gunman-in-baton-rouge-louisiana.md)

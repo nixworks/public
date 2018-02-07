@@ -9,7 +9,7 @@ At least 15 people have died in landslides following floods in Indian-administer
 
 ##### Turkey
 ### [Large parts of Turkey experience a power outage affecting public services and infrastructure including air traffic control, trams, and subways in Istanbul. As much as 65% of the country is without power. ](/news/2015/03/31/large-parts-of-turkey-experience-a-power-outage-affecting-public-services-and-infrastructure-including-air-traffic-control-trams-and-subwa.md)
-_Context: air traffic control, power outage, Turkey, Istanbul_
+_Context: air traffic control, Turkey, Istanbul, power outage_
 
 ##### Lufthansa
 ### [Germanwings' owner Lufthansa officially acknowledges that it knew there were mental health issues with Andreas Lubitz before the crash. ](/news/2015/03/31/germanwings-owner-lufthansa-officially-acknowledges-that-it-knew-there-were-mental-health-issues-with-andreas-lubitz-before-the-crash.md)
@@ -33,7 +33,7 @@ A Turkish prosecutor and two gunmen who took him hostage have been killed after 
 
 ##### Bucharest
 ### [An incident at a shooting range complex in Bucharest, Romania leaves two people dead. ](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.md)
-_Context: Romania, Bucharest_
+_Context: Bucharest, Romania_
 
 ##### Nigerian general election, 2015
 ### [Nigerian voters elect Muhammadu Buhari (who previously ruled as a military dictator in 1983-1985) of the All Progressives Congress as the next President of Nigeria. ](/news/2015/03/31/nigerian-voters-elect-muhammadu-buhari-who-previously-ruled-as-a-military-dictator-in-1983-1985-of-the-all-progressives-congress-as-the-ne.md)

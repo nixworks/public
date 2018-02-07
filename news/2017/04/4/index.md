@@ -25,7 +25,7 @@ The ruling is a major victory for LGBTQ community fighting discrimination
 
 ##### Bertha
 ### [Bertha, once the world's largest tunnel boring machine, completes its 9,270 ft tunnel under Seattle, Washington, after four years of digging and a lengthy delay near the beginning of the project. ](/news/2017/04/4/bertha-once-the-world-s-largest-tunnel-boring-machine-completes-its-9-270-ft-tunnel-under-seattle-washington-after-four-years-of-digging.md)
-_Context: Seattle, tunnel, tunnel boring machine, Bertha_
+_Context: tunnel, Seattle, tunnel boring machine, Bertha_
 
 ##### National Assembly
 ### [The National Assembly of Hungary passes a bill that undermines the functioning of the Central European University (CEU). Academics and academic institutions worldwide have expressed support for CEU. ](/news/2017/04/4/the-national-assembly-of-hungary-passes-a-bill-that-undermines-the-functioning-of-the-central-european-university-ceu-academics-and-acade.md)

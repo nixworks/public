@@ -13,7 +13,7 @@ Police in India say they have killed a top Maoist guerrilla, wanted in connectio
 
 ##### bombs
 ### [Two bombs explode in the Mexican city of Ciudad Victoria, the capital of Tamaulipas, outside the municipal police station and the Televisa television station. ](/news/2010/08/27/two-bombs-explode-in-the-mexican-city-of-ciudad-victoria-the-capital-of-tamaulipas-outside-the-municipal-police-station-and-the-televisa-t.md)
-_Context: Mexico, Ciudad Victoria, Tamaulipas, Televisa, bombs_
+_Context: Mexico, bombs, Televisa, Tamaulipas, Ciudad Victoria_
 
 ##### Indian security forces
 ### [Almost 45 people are injured in clashes between stone-throwing protesters and Indian security forces in India's Kashmir Valley. ](/news/2010/08/27/almost-45-people-are-injured-in-clashes-between-stone-throwing-protesters-and-indian-security-forces-in-india-s-kashmir-valley.md)
@@ -25,7 +25,7 @@ Ben S. Bernanke signaled that the Fed was prepared to take several steps if the 
 
 ##### Department of Justice
 ### [The United States Department of Justice closes an antitrust probe into a proposed merger of United Airlines and Continental Airlines clearing the way for shareholders to vote on the proposal. ](/news/2010/08/27/the-united-states-department-of-justice-closes-an-antitrust-probe-into-a-proposed-merger-of-united-airlines-and-continental-airlines-clearin.md)
-_Context: Department of Justice, Continental Airlines, United Airlines, antitrust_
+_Context: antitrust, Continental Airlines, Department of Justice, United Airlines_
 
 ##### lead contamination
 ### [As many as 30 children die of lead poisoning in northern Nigeria. ](/news/2010/08/27/as-many-as-30-children-die-of-lead-poisoning-in-northern-nigeria.md)
@@ -45,7 +45,7 @@ State television in Iran says an earthquake east of Tehran has caused damage in 
 
 ##### Flood
 ### [Floods and landslides have killed at least 34 people in Nicaragua and affected 84,000 since the start of the rainy season on May 15. ](/news/2010/08/27/floods-and-landslides-have-killed-at-least-34-people-in-nicaragua-and-affected-84-000-since-the-start-of-the-rainy-season-on-may-15.md)
-_Context: rainy season, landslide, Nicaragua, Flood_
+_Context: Flood, rainy season, landslide, Nicaragua_
 
 ##### India
 ### [India cancels defence exchanges with China after the latter refused to grant a visa to a general from Kashmir. ](/news/2010/08/27/india-cancels-defence-exchanges-with-china-after-the-latter-refused-to-grant-a-visa-to-a-general-from-kashmir.md)
@@ -57,11 +57,11 @@ Doctors remove 13 nails and five needles from a Sri Lankan housemaid who said he
 
 ##### Muslim
 ### [Muslims protest outside the United States embassy in Jakarta about plans by the Dove World Outreach Center in Gainesville, Florida to burn Korans on the 9th anniversary of the September 11 attacks. ](/news/2010/08/27/muslims-protest-outside-the-united-states-embassy-in-jakarta-about-plans-by-the-dove-world-outreach-center-in-gainesville-florida-to-burn-k.md)
-_Context: Muslim, Jakarta, September 11 attacks, United States, Gainesville, Florida, burn Korans, church_
+_Context: Gainesville, Florida, Jakarta, September 11 attacks, church, United States, Muslim, burn Korans_
 
 ##### France
 ### [France rejects criticism from the United Nations Committee on the Elimination of Discrimination over its Romani removal strategy. ](/news/2010/08/27/france-rejects-criticism-from-the-united-nations-committee-on-the-elimination-of-discrimination-over-its-romani-removal-strategy.md)
-_Context: France, Roma, United Nations_
+_Context: Roma, United Nations, France_
 
 ##### United Nations
 ### [A draft United Nations report says crimes by the Rwandan army and allied rebels in Democratic Republic of the Congo during the Second Congo War could be classified as genocide. ](/news/2010/08/27/a-draft-united-nations-report-says-crimes-by-the-rwandan-army-and-allied-rebels-in-democratic-republic-of-the-congo-during-the-second-congo.md)
@@ -73,7 +73,7 @@ Ex-US President Jimmy Carter secures the release of an American, Aijalon Mahli G
 
 ##### President of Kenya
 ### [The President of Kenya Mwai Kibaki enacts the new constitution. ](/news/2010/08/27/the-president-of-kenya-mwai-kibaki-enacts-the-new-constitution.md)
-_Context: new constitution, Mwai Kibaki, President of Kenya_
+_Context: new constitution, President of Kenya, Mwai Kibaki_
 
 ##### Mexico
 ### [The chief investigator of the mass killing of 72 people in Mexico's Tamaulipas state has been missing since Wednesday. ](/news/2010/08/27/the-chief-investigator-of-the-mass-killing-of-72-people-in-mexico-s-tamaulipas-state-has-been-missing-since-wednesday.md)
@@ -89,11 +89,11 @@ Myanmars defence minister and other top generals resigned their junta and milita
 
 ##### Governor-General of Australia
 ### [Legal advice clears Governor-General of Australia Mrs. Quentin Bryce to make a decision on who will be the next Prime Minister of Australia despite family ties to Australian Labor Party powerbroker Bill Shorten. ](/news/2010/08/27/legal-advice-clears-governor-general-of-australia-mrs-quentin-bryce-to-make-a-decision-on-who-will-be-the-next-prime-minister-of-australia.md)
-_Context: Australian Labor Party, Australia, Quentin Bryce, Australian Prime Minister, Governor-General of Australia, Bill Shorten_
+_Context: Australia, Bill Shorten, Governor-General of Australia, Australian Labor Party, Quentin Bryce, Australian Prime Minister_
 
 ##### University of Liverpool
 ### [A team of scientists, led by Neil Hall from the University of Liverpool, releases draft sequences of the wheat genome. ](/news/2010/08/27/a-team-of-scientists-led-by-neil-hall-from-the-university-of-liverpool-releases-draft-sequences-of-the-wheat-genome.md)
-_Context: University of Liverpool, wheat, genome_
+_Context: genome, University of Liverpool, wheat_
 
 ##### Arrowhead
 ### [Arrowheads found in the Sibudu Cave in northern KwaZulu-Natal, South Africa show that humans were using bow and arrows 64000 years ago. ](/news/2010/08/27/arrowheads-found-in-the-sibudu-cave-in-northern-kwazulu-natal-south-africa-show-that-humans-were-using-bow-and-arrows-64000-years-ago.md)

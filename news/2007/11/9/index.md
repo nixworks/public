@@ -9,35 +9,35 @@ A leader of the nascent Venezuelan student movement protesting President Hugo Ch
 
 ##### China
 ### [ The People's Republic of China suspends the export of toys covered in a toxic chemical 1,4-butanediol that have been recalled in both the United States and China. ](/news/2007/11/9/the-people-s-republic-of-china-suspends-the-export-of-toys-covered-in-a-toxic-chemical-1-4-butanediol-that-have-been-recalled-in-both-the-u.md)
-_Context: 1,4-butanediol, China, China, toy, United States_
+_Context: 1,4-butanediol, United States, China, China, toy_
 
 ##### Governor of California
 ### [ The Governor of California Arnold Schwarzenegger declares a state of emergency to clean up an oil spill in San Francisco Bay caused by a container ship hitting the San Francisco Bay Bridge on Wednesday. ](/news/2007/11/9/the-governor-of-california-arnold-schwarzenegger-declares-a-state-of-emergency-to-clean-up-an-oil-spill-in-san-francisco-bay-caused-by-a-co.md)
-_Context: state of emergency, Arnold Schwarzenegger, Governor of California, container ship, San Francisco Bay Bridge, San Francisco Bay_
+_Context: Arnold Schwarzenegger, state of emergency, container ship, Governor of California, San Francisco Bay Bridge, San Francisco Bay_
 
 ##### Mogadishu
 ### [ At least 40 people die in Mogadishu in heavy fighting between Ethiopian forces and Somalian Islamist insurgents. ](/news/2007/11/9/at-least-40-people-die-in-mogadishu-in-heavy-fighting-between-ethiopian-forces-and-somalian-islamist-insurgents.md)
-_Context: Mogadishu, Ethiopia, Islamist, Somalia_
+_Context: Islamist, Ethiopia, Somalia, Mogadishu_
 
 ##### Uganda
 ### [ Ugandan Lord's Resistance Army chief Joseph Kony tells peace negotiator Norbert Mao that Vincent Otti, his former deputy, is not dead as rumored, but is under house arrest for espionage. ](/news/2007/11/9/ugandan-lord-s-resistance-army-chief-joseph-kony-tells-peace-negotiator-norbert-mao-that-vincent-otti-his-former-deputy-is-not-dead-as-ru.md)
-_Context: espionage, negotiation, Joseph Kony, Norbert Mao, Uganda, Lord's Resistance Army, house arrest, Vincent Otti_
+_Context: espionage, Uganda, Lord's Resistance Army, negotiation, Norbert Mao, Vincent Otti, Joseph Kony, house arrest_
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: The United States Army releases five Iranian suspects who had been arrested in Iraq. ](/news/2007/11/9/iraqi-insurgency-the-united-states-army-releases-five-iranian-suspects-who-had-been-arrested-in-iraq.md)
-_Context: Iran, United States soldier, Iraq, Iraqi insurgency_
+_Context: United States soldier, Iraqi insurgency, Iraq, Iran_
 
 ##### 2007 North Sea flood
 ### [ 2007 North Sea flood: The Environment Agency of England and Wales issues eight severe flood warnings for eastern England with residents ordered to evacuate from 7,500 homes in Great Yarmouth. ](/news/2007/11/9/2007-north-sea-flood-the-environment-agency-of-england-and-wales-issues-eight-severe-flood-warnings-for-eastern-england-with-residents-ord.md)
-_Context: England, Wales, flood, Environment Agency, 2007 North Sea flood, Great Yarmouth_
+_Context: Environment Agency, England, flood, Great Yarmouth, Wales, 2007 North Sea flood_
 
 ##### Benazir Bhutto
 ### [ Benazir Bhutto is placed under house arrest hours before a proposed mass rally against the 2007 Pakistani state of emergency. Over 5000 supporters of Pakistan Peoples Party have been arrested to avert rally. ](/news/2007/11/9/benazir-bhutto-is-placed-under-house-arrest-hours-before-a-proposed-mass-rally-against-the-2007-pakistani-state-of-emergency-over-5000-sup.md)
-_Context: Pakistan Peoples Party, Benazir Bhutto, 2007 Pakistani state of emergency_
+_Context: Benazir Bhutto, 2007 Pakistani state of emergency, Pakistan Peoples Party_
 
 ##### Srinagar
 ### [ Protests break out in Srinagar, Jammu and Kashmir, India, over the caricatures of Grand Ayatollah Ali Khamenei in a local newspaper. ](/news/2007/11/9/protests-break-out-in-srinagar-jammu-and-kashmir-india-over-the-caricatures-of-grand-ayatollah-ali-khamenei-in-a-local-newspaper.md)
-_Context: Grand Ayatollah Ali Khamenei, Srinagar, India, caricature, Jammu and Kashmir_
+_Context: caricature, India, Jammu and Kashmir, Grand Ayatollah Ali Khamenei, Srinagar_
 
 ## [Previous Day...](/news/2007/11/8/index.md)
 

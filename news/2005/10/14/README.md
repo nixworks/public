@@ -9,7 +9,7 @@ _Context: Zimbabwe, United States_
 
 ##### 2005 Kashmir earthquake
 ### [ 2005 Kashmir earthquake: SOS Children's Villages have been appointed temporary custodian of unaccompanied children. SOS will run the family tracing database and look after children in their emergency centre in Islamabad and in other six villages in Kashmir. ](/news/2005/10/14/2005-kashmir-earthquake-sos-children-s-villages-have-been-appointed-temporary-custodian-of-unaccompanied-children-sos-will-run-the-family.md)
-_Context: 2005 Kashmir earthquake, SOS Children, Islamabad_
+_Context: SOS Children, 2005 Kashmir earthquake, Islamabad_
 
 ##### Central Intelligence Agency
 ### [ A high ranking undercover Central Intelligence Agency officer, known only as "Jose," will coordinate CIA, FBI, and State Department spying operations as the new director of the National Clandestine Service. ](/news/2005/10/14/a-high-ranking-undercover-central-intelligence-agency-officer-known-only-as-jose-will-coordinate-cia-fbi-and-state-department-spying.md)

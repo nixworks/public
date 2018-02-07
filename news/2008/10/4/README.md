@@ -9,7 +9,7 @@ _Context: Mexico, narcotics, Tijuana_
 
 ##### Mahir al-Zubaydi
 ### [ Mahir al-Zubaydi, senior commander for al Qaeda in Iraq for Baghdad east of the Tigris River, is killed by U.S. troops. ](/news/2008/10/4/mahir-al-zubaydi-senior-commander-for-al-qaeda-in-iraq-for-baghdad-east-of-the-tigris-river-is-killed-by-u-s-troops.md)
-_Context: Mahir al-Zubaydi, Tigris River, Baghdad, al Qaeda in Iraq, U.S._
+_Context: Baghdad, Mahir al-Zubaydi, al Qaeda in Iraq, Tigris River, U.S._
 
 ##### Ivan Petrik
 ### [ Colonel Ivan Petrik, chief of staff of the Russian ground force in South Ossetia, is confirmed dead from wounds he suffered in the Friday blast in Tskhinvali.](/news/2008/10/4/colonel-ivan-petrik-chief-of-staff-of-the-russian-ground-force-in-south-ossetia-is-confirmed-dead-from-wounds-he-suffered-in-the-friday-b.md)

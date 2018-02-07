@@ -45,11 +45,11 @@ A massive wildfire has swept through a residential area of Colorado&#039;s secon
 
 ##### Orange Lake Resort
 ### [An 11-year-old girl, Ashton Jojo, vacationing with her family at a miniature golf course at Orange Lake Resort, in Orange County, Florida, is accidentally electrocuted after she falls into a 2-foot deep pond at the course while looking for her lost golf ball. ](/news/2012/06/27/an-11-year-old-girl-ashton-jojo-vacationing-with-her-family-at-a-miniature-golf-course-at-orange-lake-resort-in-orange-county-florida-i.md)
-_Context: Orange Lake Resort, Orange County, Florida_
+_Context: Orange County, Florida, Orange Lake Resort_
 
 ##### Somalia
 ### [The Somali president urges everyone to donate funds to Somalia to help combat pirates. ](/news/2012/06/27/the-somali-president-urges-everyone-to-donate-funds-to-somalia-to-help-combat-pirates.md)
-_Context: Somalia, Somali pirates_
+_Context: Somali pirates, Somalia_
 
 ##### Pennsylvania
 ### [Former Pennsylvania State Representative Stephen Stetler is convicted of all six counts in his corruption case. ](/news/2012/06/27/former-pennsylvania-state-representative-stephen-stetler-is-convicted-of-all-six-counts-in-his-corruption-case.md)

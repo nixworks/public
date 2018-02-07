@@ -21,7 +21,7 @@ NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is ordered to stand trial for alleged campaign finance fraud during his failed 2012 presidential election campaign. ](/news/2017/02/7/former-president-of-france-nicolas-sarkozy-is-ordered-to-stand-trial-for-alleged-campaign-finance-fraud-during-his-failed-2012-presidential.md)
-_Context: French President, Nicolas Sarkozy, 2012 presidential election_
+_Context: Nicolas Sarkozy, 2012 presidential election, French President_
 
 ##### U.S. immigration suspension
 ### [The Ninth Circuit Court of Appeals holds a hearing, by telephone, for the U.S. Justice Department and plaintiffs (states of Washington and Minnesota) arguments whether or not to reinstate the travel ban suspended on Friday by U.S. District Court Judge James Robart. Judge Michelle Friedland states the court will work to deliver its decision quickly. ](/news/2017/02/7/the-ninth-circuit-court-of-appeals-holds-a-hearing-by-telephone-for-the-u-s-justice-department-and-plaintiffs-states-of-washington-and-m.md)
@@ -29,7 +29,7 @@ The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and l
 
 ##### Women in Russia
 ### [President of Russia Vladimir Putin signs into law the decriminalization of domestic violence. ](/news/2017/02/7/president-of-russia-vladimir-putin-signs-into-law-the-decriminalization-of-domestic-violence.md)
-_Context: Russian President, Women in Russia, decriminalization, domestic violence, Vladimir Putin_
+_Context: Russian President, domestic violence, decriminalization, Women in Russia, Vladimir Putin_
 
 ##### Cory Bernardi
 ### [Incumbent Australian Senator Cory Bernardi defects from the centre-right Liberal Party of Australia to establish his own minor party, the Australian Conservatives. ](/news/2017/02/7/incumbent-australian-senator-cory-bernardi-defects-from-the-centre-right-liberal-party-of-australia-to-establish-his-own-minor-party-the-au.md)

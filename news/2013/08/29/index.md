@@ -29,7 +29,7 @@ Desperate for rest in a frenzied world, at least 8.6 million Americans take pres
 
 ##### Vienna
 ### [Scientists at Vienna's Institute of Molecular Biotechnology and Edinburgh University's Human Genetics Unit in Edinburgh, Scotland, clone a human mini-brain (a cerebral organoid), using stem cells; the first time brain tissue development has been replicated in three dimensions - which could help with schizophrenia and autism neurological research. ](/news/2013/08/29/scientists-at-vienna-s-institute-of-molecular-biotechnology-and-edinburgh-university-s-human-genetics-unit-in-edinburgh-scotland-clone-a-h.md)
-_Context: Edinburgh, Scotland, Edinburgh University, Vienna_
+_Context: Edinburgh, Edinburgh University, Vienna, Scotland_
 
 ##### Indian Mujahideen
 ### [The head of the Indian Mujahideen (IM), Yasin Bhatkal, is arrested by police. ](/news/2013/08/29/the-head-of-the-indian-mujahideen-im-yasin-bhatkal-is-arrested-by-police.md)

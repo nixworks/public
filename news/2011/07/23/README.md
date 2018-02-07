@@ -13,7 +13,7 @@ DAMASCUS, Syria, July 23 - UN officials have said Syrian security forces may hav
 
 ##### civil war
 ### [2011 Libyan civil war: Rebels claim to have fired rockets at a meeting of senior Gaddafi-regime officials in the capital Tripoli. ](/news/2011/07/23/2011-libyan-civil-war-rebels-claim-to-have-fired-rockets-at-a-meeting-of-senior-gaddafi-regime-officials-in-the-capital-tripoli.md)
-_Context: Muammar Gaddafi, civil war, Tripoli_
+_Context: Tripoli, Muammar Gaddafi, civil war_
 
 ##### 2011 Mumbai bombings
 ### [2011 Mumbai bombings: The death toll from the attacks rises to 22. ](/news/2011/07/23/2011-mumbai-bombings-the-death-toll-from-the-attacks-rises-to-22.md)
@@ -29,7 +29,7 @@ Tributes are being paid to singer Amy Winehouse, who was found dead at her Londo
 
 ##### Escondida
 ### [Workers at the Escondida copper mine in northern Chile vote to continue a strike for a second day. ](/news/2011/07/23/workers-at-the-escondida-copper-mine-in-northern-chile-vote-to-continue-a-strike-for-a-second-day.md)
-_Context: Escondida, Chile_
+_Context: Chile, Escondida_
 
 ##### CRH
 ### [Two CRH bullet trains collide in near Wenzhou, Zhejiang province, China, killing at least 35. ](/news/2011/07/23/two-crh-bullet-trains-collide-in-near-wenzhou-zhejiang-province-china-killing-at-least-35.md)
@@ -41,7 +41,7 @@ _Context: famine, Somalia, Unicef_
 
 ##### Kim Sung-hwan
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
-_Context: Indonesia, Bali, Pak Ui-chun, Kim Sung-hwan, North Korea, South Korea, ASEAN_
+_Context: ASEAN, South Korea, Indonesia, Kim Sung-hwan, North Korea, Bali, Pak Ui-chun_
 
 ##### asylum seekers
 ### [Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. ](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.md)
@@ -61,7 +61,7 @@ _Context: Tehran, Daryoush Rezaei_
 
 ##### Federal Aviation Administration
 ### [Nearly 4,000 employees of the US Federal Aviation Administration are furloughed due to Congressional authorisation for its programs lapsing. ](/news/2011/07/23/nearly-4-000-employees-of-the-us-federal-aviation-administration-are-furloughed-due-to-congressional-authorisation-for-its-programs-lapsing.md)
-_Context: lawmakers, Federal Aviation Administration, furlough_
+_Context: lawmakers, furlough, Federal Aviation Administration_
 
 ##### Sri Lanka
 ### [Voters in Sri Lanka go to the polls for local elections, with one person dying in clashes between supporters of rival parties in the Anuradhapura district. ](/news/2011/07/23/voters-in-sri-lanka-go-to-the-polls-for-local-elections-with-one-person-dying-in-clashes-between-supporters-of-rival-parties-in-the-anuradh.md)
@@ -69,7 +69,7 @@ Sri Lankans vote in local elections - many in the northern former war zone, wher
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for the Latvian parliamentary dissolution referendum with 95 per cent of voters supporting dissolution of the Saeima. ](/news/2011/07/23/voters-in-latvia-go-to-the-polls-for-the-latvian-parliamentary-dissolution-referendum-with-95-per-cent-of-voters-supporting-dissolution-of-t.md)
-_Context: Saeima, Latvian parliamentary dissolution referendum, Latvia_
+_Context: Latvia, Saeima, Latvian parliamentary dissolution referendum_
 
 ##### CERN
 ### [CERN's Large Hadron Collider (LHC) produces notable fluctuations in search for Higgs Boson particle. ](/news/2011/07/23/cern-s-large-hadron-collider-lhc-produces-notable-fluctuations-in-search-for-higgs-boson-particle.md)

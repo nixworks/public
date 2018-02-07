@@ -21,7 +21,7 @@ Fires which have raged across swathes of southern Europe are being brought under
 
 ##### Felipe Massa
 ### [ Felipe Massa is critically injured in a 160mph crash during qualifying for the 2009 Hungarian Grand Prix, when a suspension component from Rubens Barrichello's car hits him on his helmet. ](/news/2009/07/25/felipe-massa-is-critically-injured-in-a-160mph-crash-during-qualifying-for-the-2009-hungarian-grand-prix-when-a-suspension-component-from.md)
-_Context: 2009, Rubens Barrichello, Felipe Massa_
+_Context: Felipe Massa, Rubens Barrichello, 2009_
 
 ## [Previous Day...](/news/2009/07/24/index.md)
 

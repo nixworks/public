@@ -13,7 +13,7 @@ Seventeen people were killed in Iraq on Saturday in air strikes targeting areas 
 
 ##### Boko Haram
 ### [Suspected Boko Haram militants storm the Christian-majority town of Shani, Nigeria, leaving dozens dead. ](/news/2014/11/29/suspected-boko-haram-militants-storm-the-christian-majority-town-of-shani-nigeria-leaving-dozens-dead.md)
-_Context: Shani, Nigeria, Christian, Boko Haram_
+_Context: Boko Haram, Christian, Shani, Nigeria_
 
 ##### President
 ### [A Cairo court clears former President of Egypt Hosni Mubarak on murder charges related to the death of hundreds of protesters in the 2011 Egyptian revolution. ](/news/2014/11/29/a-cairo-court-clears-former-president-of-egypt-hosni-mubarak-on-murder-charges-related-to-the-death-of-hundreds-of-protesters-in-the-2011-eg.md)
@@ -21,7 +21,7 @@ _Context: Hosni Mubarak, 2011 Egyptian revolution, President_
 
 ##### Shooting of Michael Brown
 ### [Ferguson PD officer Darren Wilson resigns following a grand jury decision not to indict him in the Michael Brown case. ](/news/2014/11/29/ferguson-pd-officer-darren-wilson-resigns-following-a-grand-jury-decision-not-to-indict-him-in-the-michael-brown-case.md)
-_Context: police force, indicted, Shooting of Michael Brown_
+_Context: indicted, police force, Shooting of Michael Brown_
 
 ##### Jiang Yi-huah
 ### [Jiang Yi-huah resigns as the Premier of Taiwan as the ruling Kuomintang suffers heavy losses in local government elections. ](/news/2014/11/29/jiang-yi-huah-resigns-as-the-premier-of-taiwan-as-the-ruling-kuomintang-suffers-heavy-losses-in-local-government-elections.md)
@@ -29,7 +29,7 @@ Jiang Yi-huah announced that he had stepped down, saying that he took “politic
 
 ##### 2014 pro-democracy street protests
 ### [Thousands of pro-democracy demonstrators clash with police in the Mong Kok district as they try to reclaim their former protest site. ](/news/2014/11/29/thousands-of-pro-democracy-demonstrators-clash-with-police-in-the-mong-kok-district-as-they-try-to-reclaim-their-former-protest-site.md)
-_Context: 2014 pro-democracy street protests, Mong Kok_
+_Context: Mong Kok, 2014 pro-democracy street protests_
 
 ##### Sunni Muslim
 ### [Sunni candidates retain a majority of seats in the Bahraini Council of Representatives after an election which was boycotted by the main Shi'ite opposition. ](/news/2014/11/29/sunni-candidates-retain-a-majority-of-seats-in-the-bahraini-council-of-representatives-after-an-election-which-was-boycotted-by-the-main-shi.md)

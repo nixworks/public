@@ -25,7 +25,7 @@ High winds caused by Storm Frank have resulted in long delays at Belfast airport
 
 ##### Iraqi Civil War (2014-present)
 ### [Iraq's Foreign Minister, Ibrahim al-Jaafari, renewed demands that Turkey fully withdraw its troops from northern Iraq, asserting that Turkey must respect Iraq's sovereignty or face potential military action. Last month the Turkish army mounted a big offensive invasion into Iraq's Kurdish territory including tanks and artillery without permission or even negotiation with the Iraqi government. ](/news/2015/12/30/iraq-s-foreign-minister-ibrahim-al-jaafari-renewed-demands-that-turkey-fully-withdraw-its-troops-from-northern-iraq-asserting-that-turkey.md)
-_Context: Iraq, Iraqi Civil War (2014-present), Ibrahim al-Jaafari, Foreign Minister, Turkey, Iraq-Turkey relations_
+_Context: Iraq, Iraq-Turkey relations, Ibrahim al-Jaafari, Turkey, Iraqi Civil War (2014-present), Foreign Minister_
 
 ##### War on Terror
 ### [Belgium cancels New Year's Eve firework celebrations in Brussels amid fears of an Islamic terrorist attack in an unspecified European capital city. ](/news/2015/12/30/belgium-cancels-new-year-s-eve-firework-celebrations-in-brussels-amid-fears-of-an-islamic-terrorist-attack-in-an-unspecified-european-capita.md)
@@ -45,7 +45,7 @@ The turmoil and an upsurge of violence in the capital Bangui in September repeat
 
 ##### United States
 ### [The freak weather system responsible for heavy rain and tornadoes in the U.S., and high winds and rainfall in the British Isles, also has impacted the Arctic where the average winter temperature is normally around -20 F. Temperatures around the North Pole have surpassed the 32 F threshold for a brief moment, according to the U.S. National Oceanic and Atmospheric Administration's Ocean Prediction Center, which is 50 F-change higher than usual for December. ](/news/2015/12/30/the-freak-weather-system-responsible-for-heavy-rain-and-tornadoes-in-the-u-s-and-high-winds-and-rainfall-in-the-british-isles-also-has-im.md)
-_Context: Ocean Prediction Center, British Isles, Arctic, North Pole, U.S.  National Oceanic and Atmospheric Administration, United States_
+_Context: Arctic, U.S.  National Oceanic and Atmospheric Administration, Ocean Prediction Center, North Pole, United States, British Isles_
 
 ## [Previous Day...](/news/2015/12/29/index.md)
 

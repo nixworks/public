@@ -9,7 +9,7 @@ _Context: Free Syrian Army_
 
 ##### Gulf Cartel
 ### [Alleged members of the Gulf Cartel storm a bar in Monterrey and kill 10 people. ](/news/2012/08/14/alleged-members-of-the-gulf-cartel-storm-a-bar-in-monterrey-and-kill-10-people.md)
-_Context: Gulf Cartel, Monterrey_
+_Context: Monterrey, Gulf Cartel_
 
 ##### suicide bombings
 ### [A series of suicide bombings across Afghanistan kill at least 46 people and injure up to 80 others. ](/news/2012/08/14/a-series-of-suicide-bombings-across-afghanistan-kill-at-least-46-people-and-injure-up-to-80-others.md)
@@ -21,7 +21,7 @@ _Context: Hseyin Aygn_
 
 ##### Alameda, California
 ### [Kariem McFarlin, 35, of Alameda, California, is arrested and charged with residential burglary and selling stolen property from the Northern California home of the late Steve Jobs. ](/news/2012/08/14/kariem-mcfarlin-35-of-alameda-california-is-arrested-and-charged-with-residential-burglary-and-selling-stolen-property-from-the-northern.md)
-_Context: Steve Jobs, Northern California, Alameda, California_
+_Context: Alameda, California, Steve Jobs, Northern California_
 
 ##### Almaty
 ### [Eleven bodies of individuals stabbed to death are found in the mountainous Ile Alatau national park, near Kazakh capital Almaty. ](/news/2012/08/14/eleven-bodies-of-individuals-stabbed-to-death-are-found-in-the-mountainous-ile-alatau-national-park-near-kazakh-capital-almaty.md)

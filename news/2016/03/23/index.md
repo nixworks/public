@@ -17,7 +17,7 @@ The Department of Labor on Wednesday released a long-awaited rule requiring comp
 
 ##### 2015-16 North American winter
 ### [A powerful blizzard sweeping Denver, Colorado, forces authorities to close Denver International Airport, Interstate 70, Interstate 25 and leaves more than 100,000 people without power. The Colorado Army National Guard has been deployed to help rescue those stranded by the storm. ](/news/2016/03/23/a-powerful-blizzard-sweeping-denver-colorado-forces-authorities-to-close-denver-international-airport-interstate-70-interstate-25-and-le.md)
-_Context: Interstate 70, Colorado Army National Guard, Late March 2016 North American blizzard, Denver, Colorado, 2015-16 North American winter, Interstate 25, blizzard, Denver, Colorado_
+_Context: blizzard, Colorado, 2015-16 North American winter, Late March 2016 North American blizzard, Interstate 25, Denver, Colorado, Interstate 70, Colorado Army National Guard, Denver_
 
 ##### European migrant crisis
 ### [Medecins Sans Frontieres (Doctors Without Borders) and the UN refugee agency, UNHCR, announce they are withdrawing from the so-called hotspots on the Greek islands because of the new EU-Turkey deal. UNHCR's Melissa Fleming says, "Under the new provisions, these sites (hotspots) have now become detention facilities." MSF's Marie Elisabeth Ingres says, "We will not allow our assistance to be instrumentalized (sic) for a mass expulsion operation, and we refuse to be part of a system that has no regard for the humanitarian or protection needs of asylum seekers and migrants." ](/news/2016/03/23/ma-c-decins-sans-frontia-res-doctors-without-borders-and-the-un-refugee-agency-unhcr-announce-they-are-withdrawing-from-the-so-called-hots.md)
@@ -37,7 +37,7 @@ Incumbent wins 92 percent of runoff vote after opposition calls for boycott.
 
 ##### Senegalese constitutional referendum, 2016
 ### [Voters in Senegal approve a series of constitutional reforms, which include a reduction of presidential terms from seven to five years, with 63 percent of the vote. ](/news/2016/03/23/voters-in-senegal-approve-a-series-of-constitutional-reforms-which-include-a-reduction-of-presidential-terms-from-seven-to-five-years-with.md)
-_Context: Senegal, Senegalese constitutional referendum, 2016_
+_Context: Senegalese constitutional referendum, 2016, Senegal_
 
 ##### 2016 U.S. presidential election
 ### [Tuesday, March 22 primaries-caucusesFront runners Hillary Clinton and Donald Trump each won the Democratic and Republican primary in Arizona, respectively. ](/news/2016/03/23/tuesday-march-22-primaries-caucusesfront-runners-hillary-clinton-and-donald-trump-each-won-the-democratic-and-republican-primary-in-arizona.md)

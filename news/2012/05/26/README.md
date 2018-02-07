@@ -9,7 +9,7 @@ A sombre milestone has been reached in the Afghanistan war after an American sai
 
 ##### Mali
 ### [Two rebel groups in northern Mali, Ansar Dine and the National Movement for the Liberation of the Azawad join forces to form an independent Islamic state in the territory they occupy. ](/news/2012/05/26/two-rebel-groups-in-northern-mali-ansar-dine-and-the-national-movement-for-the-liberation-of-the-azawad-join-forces-to-form-an-independent.md)
-_Context: Mali, Ansar Dine, Islamic state, National Movement for the Liberation of the Azawad_
+_Context: National Movement for the Liberation of the Azawad, Islamic state, Mali, Ansar Dine_
 
 ##### Houla
 ### [There are widespread reports of at least 92 people being killed in the village of Houla in Syria Homs Governorate. ](/news/2012/05/26/there-are-widespread-reports-of-at-least-92-people-being-killed-in-the-village-of-houla-in-syria-homs-governorate.md)
@@ -21,11 +21,11 @@ Sweden&#039;s Loreen wins Eurovision in Azerbaijan before a television audience 
 
 ##### landslide
 ### [At least six people are dead and another six missing after a landslide at an illegal gold mine in the Bogor district in Indonesia's West Java area. ](/news/2012/05/26/at-least-six-people-are-dead-and-another-six-missing-after-a-landslide-at-an-illegal-gold-mine-in-the-bogor-district-in-indonesia-s-west-jav.md)
-_Context: Bogor, Indonesia, West Java, gold mine, landslide_
+_Context: Bogor, West Java, gold mine, landslide, Indonesia_
 
 ##### China
 ### [China releases an annual report on human rights, criticizing the United States' human rights record, citing the arrest of Occupy Wall Street protesters and Internet restrictions. ](/news/2012/05/26/china-releases-an-annual-report-on-human-rights-criticizing-the-united-states-human-rights-record-citing-the-arrest-of-occupy-wall-street.md)
-_Context: China, Internet, Occupy Wall Street protesters, United States' human rights record, human rights_
+_Context: human rights, Occupy Wall Street protesters, Internet, China, United States' human rights record_
 
 ##### Hyvinkaa
 ### [A gunman in the town of Hyvinkaa near the Finnish capital Helsinki kills 2 people and injures 7 in a shooting before being arrested. ](/news/2012/05/26/a-gunman-in-the-town-of-hyvinka-a-near-the-finnish-capital-helsinki-kills-2-people-and-injures-7-in-a-shooting-before-being-arrested.md)
@@ -41,11 +41,11 @@ _Context: Holy See, Pope Benedict XVI_
 
 ##### Lesotho
 ### [Voters in Lesotho go to the polls for a general election with a close result expected. ](/news/2012/05/26/voters-in-lesotho-go-to-the-polls-for-a-general-election-with-a-close-result-expected.md)
-_Context: Lesotho, general election_
+_Context: general election, Lesotho_
 
 ##### Singapore
 ### [In Singapore, the Hougang by-election conclude with almost 22,000 voters casting ballots. Png Eng Huat of the Workers' Party emerged as the winner with 62.08% of the valid votes cast. This was the first Singaporean by-election after over 19 years. ](/news/2012/05/26/in-singapore-the-hougang-by-election-conclude-with-almost-22-000-voters-casting-ballots-png-eng-huat-of-the-workers-party-emerged-as-the.md)
-_Context: Hougang by-election, Workers' Party, Singapore, Png Eng Huat_
+_Context: Workers' Party, Hougang by-election, Singapore, Png Eng Huat_
 
 ## [Previous Day...](/news/2012/05/25/index.md)
 

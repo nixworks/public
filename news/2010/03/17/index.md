@@ -5,11 +5,11 @@ Formats: [HTML](2010/03/17/index.html)  [JSON](2010/03/17/index.json)  [XML](201
 
 ##### Thailand
 ### [Protests in Thailand by the National United Front of Democracy Against Dictatorship continue, with supporters throwing their own blood outside the house of Prime Minister Abhisit Vejjajiva. ](/news/2010/03/17/protests-in-thailand-by-the-national-united-front-of-democracy-against-dictatorship-continue-with-supporters-throwing-their-own-blood-outsi.md)
-_Context: blood, Thailand, red shirt, Prime Minister, Abhisit Vejjajiva_
+_Context: red shirt, Abhisit Vejjajiva, blood, Thailand, Prime Minister_
 
 ##### France
 ### [A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. ](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.md)
-_Context: Basque separatist, Paris, ETA, France_
+_Context: Paris, France, Basque separatist, ETA_
 
 ##### Ladies in White
 ### [30 members of the "Ladies in White" opposition movement in Cuba are arrested at a demonstration in the capital Havana. ](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.md)

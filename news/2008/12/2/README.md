@@ -9,11 +9,11 @@ Zimbabwe&#039;s cholera epidemic is spiralling out of control, the United Nation
 
 ##### Membership Action Plan
 ### [ NATO member countries decide not to offer MAP to Georgia and Ukraine, the war in South Ossetia and the Ukrainian government collapse being the main reasons.](/news/2008/12/2/nato-member-countries-decide-not-to-offer-map-to-georgia-and-ukraine-the-war-in-south-ossetia-and-the-ukrainian-government-collapse-being.md)
-_Context: Ukraine, the Ukrainian government collapse, the war,  Georgian, South Ossetia, Membership Action Plan_
+_Context: the war,  Georgian, the Ukrainian government collapse, Membership Action Plan, South Ossetia, Ukraine_
 
 ##### Reserve Bank of Australia
 ### [ The Reserve Bank of Australia cuts interest rates by 100 basis points to 4.25%. ](/news/2008/12/2/the-reserve-bank-of-australia-cuts-interest-rates-by-100-basis-points-to-4-25.md)
-_Context: Reserve Bank of Australia, interest rates_
+_Context: interest rates, Reserve Bank of Australia_
 
 ##### Don Mueang International Airport
 ### [ A blast at Don Mueang Airport kills at least one anti-government protestor and injures another 22. ](/news/2008/12/2/a-blast-at-don-mueang-airport-kills-at-least-one-anti-government-protestor-and-injures-another-22.md)

@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Taliban
 ### [Taliban insurgents attack a Pakistani military post in Jogi with the Pakistani Army suffering seven casualties and another 10 soldiers killed. ](/news/2012/01/31/taliban-insurgents-attack-a-pakistani-military-post-in-jogi-with-the-pakistani-army-suffering-seven-casualties-and-another-10-soldiers-kille.md)
-_Context: Taliban, Pakistani troops, Pakistan, Jogi_
+_Context: Pakistan, Taliban, Pakistani troops, Jogi_
 
 ##### Afghanistan
 ### [An Afghan woman was killed by her husband and mother-in-law 3 months after giving birth to her third daughter after not producing a son. ](/news/2012/01/31/an-afghan-woman-was-killed-by-her-husband-and-mother-in-law-3-months-after-giving-birth-to-her-third-daughter-after-not-producing-a-son.md)
@@ -21,11 +21,11 @@ _Context: Al Mahwit Governorate, Yemen_
 
 ##### Royal Bank of Scotland
 ### [Former Royal Bank of Scotland CEO Fred Goodwin loses his knighthood from Queen Elizabeth II as a result of the near collapse of the bank in 2008. ](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.md)
-_Context: Royal Bank of Scotland, Queen Elizabeth II, knighthood, Fred Goodwin_
+_Context: Royal Bank of Scotland, Fred Goodwin, Queen Elizabeth II, knighthood_
 
 ##### Turkey
 ### [A search continues off Turkey's Black Sea coast for eight missing crew members of the Cambodia-flagged freighter the Vera. ](/news/2012/01/31/a-search-continues-off-turkey-s-black-sea-coast-for-eight-missing-crew-members-of-the-cambodia-flagged-freighter-the-vera.md)
-_Context: Black Sea, freighter, Cambodia, Turkey_
+_Context: Turkey, Cambodia, freighter, Black Sea_
 
 ##### Italian
 ### [Italian divers end their search for victims in the Costa Concordia disaster in the underwater section of the wreck. ](/news/2012/01/31/italian-divers-end-their-search-for-victims-in-the-costa-concordia-disaster-in-the-underwater-section-of-the-wreck.md)
@@ -33,11 +33,11 @@ Italian divers have abandoned their search for bodies inside the wrecked cruise 
 
 ##### Alaska Volcano Observatory
 ### [The Alaska Volcano Observatory raises its alert warning for the Cleveland Volcano after it starts forming a new lava dome indicating that the mountain could explode. ](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.md)
-_Context: Alaska Volcano Observatory, Cleveland Volcano, lava dome_
+_Context: Alaska Volcano Observatory, lava dome, Cleveland Volcano_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md)
-_Context: Bashar al-Assad, Arab League, President, United Nations Security Council, Syria, 2011-2012 Syrian uprising_
+_Context: United Nations Security Council, Bashar al-Assad, Syria, President, 2011-2012 Syrian uprising, Arab League_
 
 ##### IAEA
 ### [The International Atomic Energy Agency gives its approval to nuclear reactor safety checks made by Japan. ](/news/2012/01/31/the-international-atomic-energy-agency-gives-its-approval-to-nuclear-reactor-safety-checks-made-by-japan.md)
@@ -45,7 +45,7 @@ The UN watchdog says it is satisfied with series of safety tests carried out by 
 
 ##### China
 ### [China tightens control of monasteries and on main roads in Tibet following deadly protests in the region. ](/news/2012/01/31/china-tightens-control-of-monasteries-and-on-main-roads-in-tibet-following-deadly-protests-in-the-region.md)
-_Context: China, Tibet Autonomous Region_
+_Context: Tibet Autonomous Region, China_
 
 ##### the state
 ### [Voters in the US state of Florida go to the polls for a Republican primary with Mitt Romney projected to win. ](/news/2012/01/31/voters-in-the-us-state-of-florida-go-to-the-polls-for-a-republican-primary-with-mitt-romney-projected-to-win.md)
@@ -53,7 +53,7 @@ The latest Quinnipiac poll show former Massachusetts governor Mitt Romney surgin
 
 ##### Japan
 ### [The Cabinet of Japan approves a bill to put a 40-year cap on the life of nuclear reactors following the Fukushima Daiichi nuclear disaster. ](/news/2012/01/31/the-cabinet-of-japan-approves-a-bill-to-put-a-40-year-cap-on-the-life-of-nuclear-reactors-following-the-fukushima-daiichi-nuclear-disaster.md)
-_Context: a bill, Fukushima Daiichi nuclear disaster, Japan, nuclear reactor_
+_Context: a bill, Japan, nuclear reactor, Fukushima Daiichi nuclear disaster_
 
 ##### Israeli Prime Minister
 ### [The Prime Minister of Israel Benjamin Netanyahu comfortably wins a leadership election for the Likud Party defeating Moshe Feiglin. ](/news/2012/01/31/the-prime-minister-of-israel-benjamin-netanyahu-comfortably-wins-a-leadership-election-for-the-likud-party-defeating-moshe-feiglin.md)
@@ -61,7 +61,7 @@ Prime minister says there is &quot;still time&quot; until general elections; Net
 
 ##### Democrat
 ### [Democratic Party candidate Suzanne Bonamici wins a special election to represent the 1st congressional district of Oregon in the United States House of Representatives. ](/news/2012/01/31/democratic-party-candidate-suzanne-bonamici-wins-a-special-election-to-represent-the-1st-congressional-district-of-oregon-in-the-united-stat.md)
-_Context: House of Representatives, Oregon, special election, Democrat, 1st congressional district, Suzanne Bonamici_
+_Context: Democrat, House of Representatives, Oregon, special election, Suzanne Bonamici, 1st congressional district_
 
 ## [Previous Day...](/news/2012/01/30/index.md)
 

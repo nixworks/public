@@ -5,15 +5,15 @@ Formats: [HTML](2007/08/12/index.html)  [JSON](2007/08/12/index.json)  [XML](200
 
 ##### Bulk-carrier
 ### [ Bulk-carrier M-V "New Flame" collides with an oil tanker and runs aground near the southernmost tip of Gibraltar. ](/news/2007/08/12/bulk-carrier-m-v-new-flame-collides-with-an-oil-tanker-and-runs-aground-near-the-southernmost-tip-of-gibraltar.md)
-_Context: Bulk-carrier, Gibraltar, M/V ''New Flame'', oil tanker_
+_Context: Gibraltar, Bulk-carrier, M/V ''New Flame'', oil tanker_
 
 ##### United Nations
 ### [ African Union nations pledge up to 12,000 troops for the joint United Nations-African Union mission to Darfur. ](/news/2007/08/12/african-union-nations-pledge-up-to-12-000-troops-for-the-joint-united-nations-african-union-mission-to-darfur.md)
-_Context: African Union, United Nations, Darfur_
+_Context: Darfur, African Union, United Nations_
 
 ##### Taliban
 ### [ A clash between Taliban militants and Afghan security forces in Kandahar province results in nine militants dead with five police dying in a bomb. ](/news/2007/08/12/a-clash-between-taliban-militants-and-afghan-security-forces-in-kandahar-province-results-in-nine-militants-dead-with-five-police-dying-in.md)
-_Context: Kandahar, Taliban, Afghanistan, bomb_
+_Context: Kandahar, Afghanistan, bomb, Taliban_
 
 ##### Peru
 ### [ Peru issues a map of outlining its claim to maritime territory also claimed by Chile. ](/news/2007/08/12/peru-issues-a-map-of-outlining-its-claim-to-maritime-territory-also-claimed-by-chile.md)
@@ -25,15 +25,15 @@ _Context: homeless, Mauritanian_
 
 ##### Dallas, Texas
 ### [ A gunman kills two people and wounds two others before killing himself on a Dallas, Texas freeway. ](/news/2007/08/12/a-gunman-kills-two-people-and-wounds-two-others-before-killing-himself-on-a-dallas-texas-freeway.md)
-_Context: freeway, Dallas, Texas_
+_Context: Dallas, Texas, freeway_
 
 ##### Governor of Wisconsin
 ### [ Former Governor of Wisconsin Tommy Thompson withdraws as a candidate for the Republican nomination in the United States presidential election, 2008 following his low level of support in the Ames Straw Poll. ](/news/2007/08/12/former-governor-of-wisconsin-tommy-thompson-withdraws-as-a-candidate-for-the-republican-nomination-in-the-united-states-presidential-electi.md)
-_Context: Ames Straw Poll, Tommy Thompson, Republican, Governor of Wisconsin, 2008_
+_Context: Republican, Governor of Wisconsin, Ames Straw Poll, Tommy Thompson, 2008_
 
 ##### Guatemala
 ### [ Guatemalan authorities find 46 children believed to have been taken from the parents for illegal adoption overseas in Antigua Guatemala. ](/news/2007/08/12/guatemalan-authorities-find-46-children-believed-to-have-been-taken-from-the-parents-for-illegal-adoption-overseas-in-antigua-guatemala.md)
-_Context: adoption, Guatemala, Antigua Guatemala_
+_Context: Antigua Guatemala, adoption, Guatemala_
 
 ##### Neosho, Missouri
 ### [ A gunman kills three people and injures as many as ten others in a church in Neosho, Missouri. ](/news/2007/08/12/a-gunman-kills-three-people-and-injures-as-many-as-ten-others-in-a-church-in-neosho-missouri.md)
@@ -41,15 +41,15 @@ _Context: Neosho, Missouri_
 
 ##### Tiger Woods
 ### [ Tiger Woods wins the 2007 PGA Championship played at the Southern Hills Country Club in Tulsa, Oklahoma. ](/news/2007/08/12/tiger-woods-wins-the-2007-pga-championship-played-at-the-southern-hills-country-club-in-tulsa-oklahoma.md)
-_Context: PGA Championship, Southern Hills Country Club, Tulsa, Oklahoma, Tiger Woods_
+_Context: Tulsa, Oklahoma, Southern Hills Country Club, PGA Championship, Tiger Woods_
 
 ##### South Africa
 ### [ South Africa refuses to set up a refugee camp for the influx of people fleeing Zimbabwe. ](/news/2007/08/12/south-africa-refuses-to-set-up-a-refugee-camp-for-the-influx-of-people-fleeing-zimbabwe.md)
-_Context: Zimbabwe, South Africa, refugee camp_
+_Context: South Africa, refugee camp, Zimbabwe_
 
 ##### Turkey
 ### [ People claiming to be from Turkey attack the United Nations website forcing some sections to be taken offline. ](/news/2007/08/12/people-claiming-to-be-from-turkey-attack-the-united-nations-website-forcing-some-sections-to-be-taken-offline.md)
-_Context: United Nations, Turkey_
+_Context: Turkey, United Nations_
 
 ##### Nouri al-Maliki
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, calls for emergency talks with Iraq's political leaders to try to save his national unity government. ](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.md)
@@ -57,11 +57,11 @@ Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad, the President of Iran, replaces his Oil Minister Kazem Vaziri-Hamaneh with Gholamhossein Nozari, head of the National Iranian Oil Company acting as his deputy. ](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.md)
-_Context: Mahmoud Ahmadinejad, NIOC, President, Kazem Vaziri-Hamaneh, Gholamhossein Nozari, Oil_
+_Context: Gholamhossein Nozari, NIOC, Mahmoud Ahmadinejad, President, Oil, Kazem Vaziri-Hamaneh_
 
 ##### Italy
 ### [ Italian police uncover a secret plan to smuggle Russian weapons into Iraq. ](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.md)
-_Context: Russia, Italy, smuggle, Iraq_
+_Context: Russia, smuggle, Italy, Iraq_
 
 ##### Mount Karangetang
 ### [ Five hundred people are evacuated from the slopes of Mount Karangetang, an active volcano that is spewing ash and lava, on the island of Siau in Indonesia. ](/news/2007/08/12/five-hundred-people-are-evacuated-from-the-slopes-of-mount-karangetang-an-active-volcano-that-is-spewing-ash-and-lava-on-the-island-of-si.md)
@@ -69,7 +69,7 @@ More than 500 people have been evacuated from the slopes of Mount Karangetang, w
 
 ##### Denmark
 ### [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.md)
-_Context: Lomonosov Ridge, Arctic, Denmark, Greenland_
+_Context: Arctic, Greenland, Denmark, Lomonosov Ridge_
 
 ##### Jakarta
 ### [ A Jakarta conference of Islamists sponsored by the Hizb ut-Tahrir discusses plans to reestablish a caliphate. ](/news/2007/08/12/a-jakarta-conference-of-islamists-sponsored-by-the-hizb-ut-tahrir-discusses-plans-to-reestablish-a-caliphate.md)
@@ -77,11 +77,11 @@ A meeting is beginning in the Indonesian capital, Jakarta, to discuss the re-est
 
 ##### Fossil
 ### [ Fossilised remains of an ancient cypress forest estimated at 8 million years old are discovered in an open cast coal mine in Bkkbrny, Hungary. ](/news/2007/08/12/fossilised-remains-of-an-ancient-cypress-forest-estimated-at-8-million-years-old-are-discovered-in-an-open-cast-coal-mine-in-bukkabrany-hu.md)
-_Context: forest, cypress, Bkkbrny, coal mine, Hungary, Fossil_
+_Context: cypress, Hungary, forest, Fossil, coal mine, Bkkbrny_
 
 ##### Gloria Arroyo
 ### [ Gloria Arroyo, the President of the Philippines, sends the chief of the army Romeo Tolentino to Zamboanga in the southern Philippines to direct operations against militants. ](/news/2007/08/12/gloria-arroyo-the-president-of-the-philippines-sends-the-chief-of-the-army-romeo-tolentino-to-zamboanga-in-the-southern-philippines-to-di.md)
-_Context: Gloria Arroyo, Zamboanga City, President, Romeo Tolentino, Philippines_
+_Context: Zamboanga City, President, Romeo Tolentino, Gloria Arroyo, Philippines_
 
 ## [Previous Day...](/news/2007/08/11/index.md)
 

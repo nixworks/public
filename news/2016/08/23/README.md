@@ -41,11 +41,11 @@ The matter is likely to come up when US Vice&nbsp;President Joe Biden&nbsp;trave
 
 ##### 2015 Bangkok bombing
 ### [A Thai military court commences the trial of two Uighurs from the People's Republic of China with the bombing of a popular shrine in Bangkok that killed 20 people. ](/news/2016/08/23/a-thai-military-court-commences-the-trial-of-two-uighurs-from-the-people-s-republic-of-china-with-the-bombing-of-a-popular-shrine-in-bangkok.md)
-_Context: Bangkok, Uighur, China, 2015 Bangkok bombing, Thailand_
+_Context: China, 2015 Bangkok bombing, Uighur, Thailand, Bangkok_
 
 ##### drug crackdown
 ### [The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. ](/news/2016/08/23/the-philippine-human-rights-commission-says-that-the-international-criminal-court-may-have-jurisdiction-over-the-mass-killings.md)
-_Context: drug crackdown, ICC, Commission on Human Rights_
+_Context: Commission on Human Rights, drug crackdown, ICC_
 
 ##### The New York Times
 ### ["The New York Times" reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that-t.md)

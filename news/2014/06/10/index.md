@@ -13,7 +13,7 @@ _Context: Jinnah International Airport_
 
 ##### Kenya
 ### [Gunmen in Kenya's port city of Mombasa kill Mohamed Idris, chairman of the Council of Imams and Preachers of Kenya, who opposed the radical preachings of Somalia's Al-Qaeda-linked Al-Shabaab insurgents. ](/news/2014/06/10/gunmen-in-kenya-s-port-city-of-mombasa-kill-mohamed-idris-chairman-of-the-council-of-imams-and-preachers-of-kenya-who-opposed-the-radical.md)
-_Context: Kenya, Mombasa, Somalia, al-Qaeda, Al-Shabaab_
+_Context: al-Qaeda, Somalia, Mombasa, Kenya, Al-Shabaab_
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-military-flee.md)
@@ -37,7 +37,7 @@ _Context: Reynolds High School, Troutdale, Oregon_
 
 ##### Israel
 ### [Israeli lawmakers choose Reuven Rivlin to be the next President of Israel. ](/news/2014/06/10/israeli-lawmakers-choose-reuven-rivlin-to-be-the-next-president-of-israel.md)
-_Context: Reuven Rivlin, President, Israel_
+_Context: Israel, Reuven Rivlin, President_
 
 ##### United States
 ### [United States House Majority Leader Eric Cantor is defeated by newcomer Tea Party-backed candidate David Brat in a Virginia congressional primary election. ](/news/2014/06/10/united-states-house-majority-leader-eric-cantor-is-defeated-by-newcomer-tea-party-backed-candidate-david-brat-in-a-virginia-congressional-pr.md)

@@ -9,7 +9,7 @@ The rescue operation at an 11-storey building that collapsed in the Indian city 
 
 ##### Australians
 ### [Australian entertainer Rolf Harris is sentenced to 5 years and 9 months at Southwark Crown Court in London, United Kingdom, convicted on 12 charges of indecently assaulting female minors between 1968 and 1986. Harris will be eligible for release on licence after half of the sentence in 2017. ](/news/2014/07/4/australian-entertainer-rolf-harris-is-sentenced-to-5-years-and-9-months-at-southwark-crown-court-in-london-united-kingdom-convicted-on-12.md)
-_Context: United Kingdom, indecently assaulting, Australians, London, Rolf Harris, Southwark Crown Court_
+_Context: Australians, indecently assaulting, United Kingdom, Rolf Harris, Southwark Crown Court, London_
 
 ##### 
 ### [A Kindergarten teacher is stabbed and killed in front of students at the Edouard Herriot school in Albi in southern France. The suspect was the mother of a new student who suffered from psychiatric problems. ](/news/2014/07/4/a-kindergarten-teacher-is-stabbed-and-killed-in-front-of-students-at-the-edouard-herriot-school-in-albi-in-southern-france-the-suspect-was.md)
@@ -21,15 +21,15 @@ _Context: Bourbon Street, New Orleans, Louisiana_
 
 ##### Aminata Tour
 ### [Aminata Tour is dismissed as Prime Minister of Senegal by the country's parliament following her failure to win a seat from Dakar in the 2014 local elections. ](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.md)
-_Context: 2014 local elections, Prime Minister of Senegal, Dakar, Aminata Tour_
+_Context: Aminata Tour, Dakar, 2014 local elections, Prime Minister of Senegal_
 
 ##### National Congress of Bolivia
 ### [The National Congress of Bolivia backs a new law on child labour, allowing 10-year-olds into the workforce under special conditions. ](/news/2014/07/4/the-national-congress-of-bolivia-backs-a-new-law-on-child-labour-allowing-10-year-olds-into-the-workforce-under-special-conditions.md)
-_Context: child labour, National Congress of Bolivia_
+_Context: National Congress of Bolivia, child labour_
 
 ##### United Nations
 ### [The United Nations announces in a policy statement that it will begin recognizing staff members' legal same-sex unions ](/news/2014/07/4/the-united-nations-announces-in-a-policy-statement-that-it-will-begin-recognizing-staff-members-legal-same-sex-unions.md)
-_Context: same-sex unions, United Nations_
+_Context: United Nations, same-sex unions_
 
 ## [Previous Day...](/news/2014/07/3/index.md)
 

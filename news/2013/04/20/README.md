@@ -17,7 +17,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### California
 ### [In southern California, United States, 200 residents are evacuated due to a brush fire. ](/news/2013/04/20/in-southern-california-united-states-200-residents-are-evacuated-due-to-a-brush-fire.md)
-_Context: California, United States, brush fire_
+_Context: United States, California, brush fire_
 
 ##### Vail
 ### [Five people are killed and 17 are injured in Vail, Arizona, United States, when a car accident occurs during a U.S. Border Patrol pursuit. ](/news/2013/04/20/five-people-are-killed-and-17-are-injured-in-vail-arizona-united-states-when-a-car-accident-occurs-during-a-u-s-border-patrol-pursuit.md)
@@ -53,7 +53,7 @@ The launch, which may be visible from the District, has been rescheduled for Sun
 
 ##### kilt
 ### [A study finds that men who wear kilts and no underwear have higher sperm counts than men who sport underwear. ](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.md)
-_Context: kilt, underwear, sperm_
+_Context: sperm, underwear, kilt_
 
 ## [Previous Day...](/news/2013/04/19/index.md)
 

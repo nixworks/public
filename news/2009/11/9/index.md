@@ -9,27 +9,27 @@ _Context: Brandenburg Gate, Berlin Wall_
 
 ##### Burma
 ### [ A senior Burmese diplomat says the military government will release Aung San Suu Kyi soon. ](/news/2009/11/9/a-senior-burmese-diplomat-says-the-military-government-will-release-aung-san-suu-kyi-soon.md)
-_Context: State Peace and Development Council, Aung San Suu Kyi, Burma_
+_Context: State Peace and Development Council, Burma, Aung San Suu Kyi_
 
 ##### Somali pirates
 ### [ Somali pirates attack a Hong Kong-flagged oil tanker with long range rocket-propelled grenades 1,000 miles east off the Somali coast in the Indian Ocean. ](/news/2009/11/9/somali-pirates-attack-a-hong-kong-flagged-oil-tanker-with-long-range-rocket-propelled-grenades-1-000-miles-east-off-the-somali-coast-in-the.md)
-_Context: Indian, rocket-propelled grenade, Hong Kong, Somali pirates, oil tanker, Somalia_
+_Context: Somali pirates, rocket-propelled grenade, Hong Kong, Indian, oil tanker, Somalia_
 
 ##### Lebanon
 ### [ Lebanese Prime Minister Saad Hariri announces the formation of a unity government with Hezbollah. ](/news/2009/11/9/lebanese-prime-minister-saad-hariri-announces-the-formation-of-a-unity-government-with-hezbollah.md)
-_Context: Saad Hariri, Lebanon, unity, Hezbollah, Prime Minister of Lebanon_
+_Context: Prime Minister of Lebanon, Hezbollah, Saad Hariri, unity, Lebanon_
 
 ##### 2009 gubernatorial election and runoff
 ### [ The Northern Mariana Islands election commission sets November 23 as the guberntorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. ](/news/2009/11/9/the-northern-mariana-islands-election-commission-sets-november-23-as-the-guberntorial-runoff-election-between-governor-benigno-fitial-and-c.md)
-_Context: Northern Mariana Islands, runoff election, Governor of the Northern Mariana Islands, 2009 gubernatorial election and runoff, Benigno Fitial, Heinz Hofschneider_
+_Context: Governor of the Northern Mariana Islands, runoff election, Northern Mariana Islands, 2009 gubernatorial election and runoff, Benigno Fitial, Heinz Hofschneider_
 
 ##### Iraq
 ### [ Iraq sets its next general election for January 21, 2010. ](/news/2009/11/9/iraq-sets-its-next-general-election-for-january-21-2010.md)
-_Context: Iraq, next general election_
+_Context: next general election, Iraq_
 
 ##### Gautrain
 ### [ A high speed rail link under construction, Gautrain, will not be ready for the 2010 FIFA World Cup in South Africa. ](/news/2009/11/9/a-high-speed-rail-link-under-construction-gautrain-will-not-be-ready-for-the-2010-fifa-world-cup-in-south-africa.md)
-_Context: South Africa, Gautrain, 2010 FIFA World Cup_
+_Context: Gautrain, 2010 FIFA World Cup, South Africa_
 
 ##### United States
 ### [ Three American hikers detained on the border between Iraqi Kurdistan and Iran are to be charged for espionage by Iranian authorities. ](/news/2009/11/9/three-american-hikers-detained-on-the-border-between-iraqi-kurdistan-and-iran-are-to-be-charged-for-espionage-by-iranian-authorities.md)
@@ -45,7 +45,7 @@ Clashes between ethnic Uighurs and Han Chinese in western China left more than 2
 
 ##### Movement for Democratic Change
 ### [ MDC official Roy Bennett's trial on terrorism charges begins in Zimbabwe. ](/news/2009/11/9/mdc-official-roy-bennett-s-trial-on-terrorism-charges-begins-in-zimbabwe.md)
-_Context: Roy Bennett, Movement for Democratic Change, Zimbabwe_
+_Context: Roy Bennett, Zimbabwe, Movement for Democratic Change_
 
 ##### El Salvador
 ### [ The death toll in El Salvador's floods and mudslides reaches 140. ](/news/2009/11/9/the-death-toll-in-el-salvador-s-floods-and-mudslides-reaches-140.md)
@@ -57,7 +57,7 @@ Tawang (Arunachal Pradesh): Tibetan spiritual leader the Dalai Lama on Monday ca
 
 ##### Downing Street
 ### [ Downing Street defends Prime Minister Gordon Brown's habits after the mother of a soldier killed in Afghanistan labels a misspelled letter she received from him as a "hastily scrawled insult". ](/news/2009/11/9/downing-street-defends-prime-minister-gordon-brown-s-habits-after-the-mother-of-a-soldier-killed-in-afghanistan-labels-a-misspelled-letter.md)
-_Context: Prime Minister, Gordon Brown, Downing Street, Afghanistan_
+_Context: Gordon Brown, Prime Minister, Afghanistan, Downing Street_
 
 ##### Jason Somerville
 ### [ "House of Horrors" murderer Jason Somerville pleads guilty to strangling his wife Rebecca Somerville and neighbour Tisha Lowry before having sex with their corpses in Christchurch, New Zealand. ](/news/2009/11/9/house-of-horrors-murderer-jason-somerville-pleads-guilty-to-strangling-his-wife-rebecca-somerville-and-neighbour-tisha-lowry-before-havin.md)
@@ -69,7 +69,7 @@ The private train North Korean leader Kim Jong-il uses on his trips either withi
 
 ##### Connecticut
 ### [ Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. ](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.md)
-_Context: Connecticut, Jodi Rell, Governor, re-election in 2010_
+_Context: Governor, re-election in 2010, Connecticut, Jodi Rell_
 
 ## [Previous Day...](/news/2009/11/8/index.md)
 

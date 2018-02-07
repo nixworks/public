@@ -9,7 +9,7 @@ The Taliban has issued a warning to Afghans whose names might appear on the leak
 
 ##### Israeli Air Force
 ### [The Israeli Air Force launches several air strikes on the Gaza Strip following a BM-21 Grad missile strike by the Aza Din al-Kassem Gazan militant group on the Israeli town of Ashkelon. A Hamas rocket maker is killed and 13 other people are injured. ](/news/2010/07/30/the-israeli-air-force-launches-several-air-strikes-on-the-gaza-strip-following-a-bm-21-grad-missile-strike-by-the-aza-din-al-kassem-gazan-mi.md)
-_Context: Aza Din al-Kassem, Ashkelon, Hamas, Israeli Air Force, Grad rocket, Israel, Gaza Strip_
+_Context: Ashkelon, Gaza Strip, Grad rocket, Israel, Aza Din al-Kassem, Israeli Air Force, Hamas_
 
 ##### Gaza Strip
 ### [Thousands of children in Gaza appear to have broken their own world record for the number of kites flown at the same time, the UN says. ](/news/2010/07/30/thousands-of-children-in-gaza-appear-to-have-broken-their-own-world-record-for-the-number-of-kites-flown-at-the-same-time-the-un-says.md)
@@ -37,19 +37,19 @@ Police in California seize $1.7bn worth of marijuana in the Sierra Nevada mounta
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudry appears in a Suva court to face charges of tax evasion and money laundering. ](/news/2010/07/30/former-prime-minister-of-fiji-mahendra-chaudry-appears-in-a-suva-court-to-face-charges-of-tax-evasion-and-money-laundering.md)
-_Context: Mahendra Chaudhry, Prime Minister, money laundering, Fiji, Suva, tax fraud_
+_Context: Suva, tax fraud, money laundering, Fiji, Prime Minister, Mahendra Chaudhry_
 
 ##### U.S. Vice President
 ### [Former Vice President of the United States Al Gore is cleared of claims that he assaulted a masseuse in Portland, Oregon in 2006. ](/news/2010/07/30/former-vice-president-of-the-united-states-al-gore-is-cleared-of-claims-that-he-assaulted-a-masseuse-in-portland-oregon-in-2006.md)
-_Context: Al Gore, U.S. Vice President, Portland, Oregon, masseuse_
+_Context: Al Gore, masseuse, U.S. Vice President, Portland, Oregon_
 
 ##### Armenia
 ### [Two Armenian men sue Turkey, the Central Bank of the Republic of Turkey and Ziraat Bankasi bank in the United States district court in California for damages allegedly caused by the Armenian genocide in 1915. ](/news/2010/07/30/two-armenian-men-sue-turkey-the-central-bank-of-the-republic-of-turkey-and-ziraat-bankasa-bank-in-the-united-states-district-court-in-cali.md)
-_Context: Turkey, Ziraat Bankasi, damages, California, U.S. federal court, Armenia, Armenian genocide, Central Bank of the Republic of Turkey_
+_Context: damages, California, U.S. federal court, Armenian genocide, Central Bank of the Republic of Turkey, Armenia, Ziraat Bankasi, Turkey_
 
 ##### Syria
 ### [Syrian President Bashar al-Assad, Saudi King Abdullah, and Qatari Emir Sheikh Hamad bin Khalifa al-Thani visit Lebanon amid reports that the Special Tribunal for Lebanon will indict members of Hezbollah ](/news/2010/07/30/syrian-president-bashar-al-assad-saudi-king-abdullah-and-qatari-emir-sheikh-hamad-bin-khalifa-al-thani-visit-lebanon-amid-reports-that-the.md)
-_Context: King, Hezbollah, Qatar, Qatar Emir, Abdullah, Lebanon, Special Tribunal for Lebanon, Saudi Arabia, President, Bashar al-Assad, Syria, Sheikh Hamad bin Khalifa al-Thani_
+_Context: Special Tribunal for Lebanon, Bashar al-Assad, Lebanon, President, Sheikh Hamad bin Khalifa al-Thani, Saudi Arabia, Qatar, King, Abdullah, Qatar Emir, Syria, Hezbollah_
 
 ##### Vanuatu
 ### [Vanuatu marks thirty years of independence. ](/news/2010/07/30/vanuatu-marks-thirty-years-of-independence.md)
@@ -57,7 +57,7 @@ The Australian government is about to hand over a special gift to Vanuatu on its
 
 ##### Bangladesh
 ### [Thousands of Bangladeshi garment workers block highways, attack factories and loot shops in Dhaka after rejecting a minimum wage increase offered by the Government of Bangladesh. ](/news/2010/07/30/thousands-of-bangladeshi-garment-workers-block-highways-attack-factories-and-loot-shops-in-dhaka-after-rejecting-a-minimum-wage-increase-of.md)
-_Context: Bangladesh, minimum wage, Dhaka, Government of Bangladesh_
+_Context: Government of Bangladesh, Bangladesh, minimum wage, Dhaka_
 
 ##### Italy
 ### [A split develops in Italy's governing People of Freedom Party after a dispute between Prime Minister Silvio Berlusconi and Gianfranco Fini, President of the Chamber of Deputies. ](/news/2010/07/30/a-split-develops-in-italy-s-governing-people-of-freedom-party-after-a-dispute-between-prime-minister-silvio-berlusconi-and-gianfranco-fini.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2005/09/16/index.html)  [JSON](2005/09/16/index.json)  [XML](200
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 10 people died as a Shia Mosque is bombed in Tuz Khurmatu, Central Iraq. ](/news/2005/09/16/conflict-in-iraq-at-least-10-people-died-as-a-shia-mosque-is-bombed-in-tuz-khurmatu-central-iraq.md)
-_Context: Shia, Mosque, Iraq, Conflict in Iraq, Tuz Khurmatu_
+_Context: Shia, Conflict in Iraq, Iraq, Tuz Khurmatu, Mosque_
 
 ##### Hamas
 ### [ Hamas hold a huge prayer rally in the now abandoned Israeli settlements in the Gaza Strip, leading thousands of Palestinian Muslims in Friday Prayers (Salat ul Jum'a). ](/news/2005/09/16/hamas-hold-a-huge-prayer-rally-in-the-now-abandoned-israeli-settlements-in-the-gaza-strip-leading-thousands-of-palestinian-muslims-in-frid.md)
-_Context: Gaza Strip, Palestinian, Israeli settlement, Hamas, Muslim, Friday Prayer, salat_
+_Context: Palestinian, Muslim, Israeli settlement, Hamas, Friday Prayer, salat, Gaza Strip_
 
 ##### journalist
 ### [ 87 journalists are arrested at a protest in Nepal. ](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nepal.md)
-_Context: Nepal, protest, journalist_
+_Context: protest, Nepal, journalist_
 
 ##### president
 ### [ The President of Pakistan, Pervez Musharraf, has evoked outrage by suggesting that rape victims in Pakistan are part of a "money making concern". ](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-evoked-outrage-by-suggesting-that-rape-victims-in-pakistan-are-part-of-a-money-making-con.md)
-_Context: rape, president, Pakistan, Pervez Musharraf_
+_Context: Pakistan, president, Pervez Musharraf, rape_
 
 ##### Hurricane Ophelia
 ### [ Hurricane Ophelia is downgraded to a tropical storm as it appears to head out to the Atlantic Ocean. ](/news/2005/09/16/hurricane-ophelia-is-downgraded-to-a-tropical-storm-as-it-appears-to-head-out-to-the-atlantic-ocean.md)
@@ -25,7 +25,7 @@ _Context: Atlantic Ocean, tropical storm, Hurricane Ophelia_
 
 ##### Bicentennial
 ### [ The Bicentennial of the Battle of Trafalgar and the death of Admiral Lord Nelson is commemorated by a re-enactment of the 1806 waterborne state funeral procession on the River Thames in London. ](/news/2005/09/16/the-bicentennial-of-the-battle-of-trafalgar-and-the-death-of-admiral-lord-nelson-is-commemorated-by-a-re-enactment-of-the-1806-waterborne-s.md)
-_Context: Battle of Trafalgar, re-enactment, state funeral, 1806, Bicentennial, River Thames, Admiral Lord Nelson, London_
+_Context: Admiral Lord Nelson, 1806, re-enactment, state funeral, River Thames, Bicentennial, Battle of Trafalgar, London_
 
 ##### New Zealand
 ### [ New Zealand prepares to go to the polls on Saturday. ](/news/2005/09/16/new-zealand-prepares-to-go-to-the-polls-on-saturday.md)

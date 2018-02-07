@@ -13,15 +13,15 @@ A gunman opened fire Monday in a hair salon in the Romanian capital, killing two
 
 ##### Iraqi police
 ### [Gunmen disguised as police kill 27 members of Iraq's security forces in the town of Haditha. ](/news/2012/03/5/gunmen-disguised-as-police-kill-27-members-of-iraq-s-security-forces-in-the-town-of-haditha.md)
-_Context: Iraq, Iraqi police, Haditha_
+_Context: Iraqi police, Haditha, Iraq_
 
 ##### battle
 ### [The death toll in a battle between the Yemeni Army and Al-Qaeda on the outskirts of Zinjibar yesterday rises to over 130. ](/news/2012/03/5/the-death-toll-in-a-battle-between-the-yemeni-army-and-al-qaeda-on-the-outskirts-of-zinjibar-yesterday-rises-to-over-130.md)
-_Context: al-Qaeda, Zinjibar, Yemeni Army, battle_
+_Context: battle, Yemeni Army, al-Qaeda, Zinjibar_
 
 ##### Burundi
 ### [A soldier from Burundi is killed in an explosion in northern Mogadishu, Somalia. ](/news/2012/03/5/a-soldier-from-burundi-is-killed-in-an-explosion-in-northern-mogadishu-somalia.md)
-_Context: Mogadishu, Somalia, Burundi_
+_Context: Burundi, Somalia, Mogadishu_
 
 ##### The Lorax
 ### ["The Lorax" brings in US$70.7M during its opening weekend, the highest opener of 2012, and fifth highest total for an animated film ever. ](/news/2012/03/5/the-lorax-brings-in-us-70-7m-during-its-opening-weekend-the-highest-opener-of-2012-and-fifth-highest-total-for-an-animated-film-ever.md)
@@ -57,7 +57,7 @@ The trial of former Icelandic Prime Minister Geir Haarde, on charges of negligen
 
 ##### OSCE
 ### [International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-presidential-election-was-skewed.md)
-_Context: OSCE, Vladimir Putin, last week's election_
+_Context: Vladimir Putin, last week's election, OSCE_
 
 ##### correlation
 ### [A study finds a correlation between snoring as a toddler and behavior problems later in childhood. ](/news/2012/03/5/a-study-finds-a-correlation-between-snoring-as-a-toddler-and-behavior-problems-later-in-childhood.md)
@@ -65,7 +65,7 @@ Children who snore, or who have other night-time breathing conditions are at ris
 
 ##### Merck & Co.
 ### [Merck announces that a new drug, ragweed AIT, significantly reduced ragweed allergy symptoms in a Phase III clinical trial. ](/news/2012/03/5/merck-announces-that-a-new-drug-ragweed-ait-significantly-reduced-ragweed-allergy-symptoms-in-a-phase-iii-clinical-trial.md)
-_Context: Phase III clinical trial, Merck & Co., ragweed_
+_Context: Merck & Co., Phase III clinical trial, ragweed_
 
 ##### Apple App Store
 ### [The Apple App Store passes 25 billion downloads. ](/news/2012/03/5/the-apple-app-store-passes-25-billion-downloads.md)

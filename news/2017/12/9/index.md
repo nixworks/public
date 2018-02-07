@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/9/index.html)  [JSON](2017/12/9/index.json)  [XML](2017/
 
 ##### United States recognition of Jerusalem as Israeli capital
 ### [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md)
-_Context: United States recognition of Jerusalem as Israeli capital, Gaza Strip, West Bank_
+_Context: United States recognition of Jerusalem as Israeli capital, West Bank, Gaza Strip_
 
 ##### Iraq-United States relations
 ### [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md)

@@ -29,7 +29,7 @@ _Context: Bratoszewice, Poland_
 
 ##### U.S. Bank Arena
 ### [A fire ignites at the U.S. Bank Arena in Cincinnati during pyrotechnic testing before "WWE Raw". No one was injured. ](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.md)
-_Context: WWE Raw, Cincinnati, U.S. Bank Arena_
+_Context: U.S. Bank Arena, Cincinnati, WWE Raw_
 
 ##### bank fraud
 ### [Four people are sentenced to death for their involvement in a bank fraud scandal in Iran. ](/news/2012/07/30/four-people-are-sentenced-to-death-for-their-involvement-in-a-bank-fraud-scandal-in-iran.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/5/index.html)  [JSON](2016/10/5/index.json)  [XML](2016/
 
 ##### Mexico
 ### [Mexican tequila producer Jose Cuervo will delay its IPO until after the U.S. presidential election due to concern over potential market volatility. ](/news/2016/10/5/mexican-tequila-producer-jose-cuervo-will-delay-its-ipo-until-after-the-u-s-presidential-election-due-to-concern-over-potential-market-vola.md)
-_Context: IPO, Jose Cuervo, tequila, Mexico_
+_Context: tequila, IPO, Jose Cuervo, Mexico_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md)
@@ -21,7 +21,7 @@ Haitian election officials postponed Sunday&rsquo;s rerun presidential and legis
 
 ##### United Nations Secretary-General selection, 2016
 ### [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md)
-_Context: United Nations Secretary-General selection, 2016, United Nations Secretary-General, Portuguese, General Assembly, Antonio Guterres, United Nations Security Council_
+_Context: General Assembly, United Nations Secretary-General, Portuguese, United Nations Secretary-General selection, 2016, United Nations Security Council, Antonio Guterres_
 
 ##### Paris climate change agreement
 ### [The Paris Agreement on climate change which governs greenhouse gas emissions will take effect in November. ](/news/2016/10/5/the-paris-agreement-on-climate-change-which-governs-greenhouse-gas-emissions-will-take-effect-in-november.md)
@@ -53,7 +53,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 
 ##### French-born
 ### [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md)
-_Context: nanotechnology, Nobel Prize in Chemistry, Dutch, Scotsman, Ben Feringa, Jean-Pierre Sauvage, French-born, Fraser Stoddart_
+_Context: Scotsman, Nobel Prize in Chemistry, Fraser Stoddart, Jean-Pierre Sauvage, nanotechnology, French-born, Ben Feringa, Dutch_
 
 ##### Aerospace manufacturer
 ### [Aerospace manufacturer Blue Origin tests its New Shepard reusable launch system in Van Horn, Texas. ](/news/2016/10/5/aerospace-manufacturer-blue-origin-tests-its-new-shepard-reusable-launch-system-in-van-horn-texas.md)

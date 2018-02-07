@@ -17,7 +17,7 @@ A stabbing at a Tube station in east London, in which one man suffered serious i
 
 ##### Kantajew Temple
 ### [A bombing of people gathered at Kantajew Temple in Bangladesh leaves 10 injured. ](/news/2015/12/5/a-bombing-of-people-gathered-at-kantajew-temple-in-bangladesh-leaves-10-injured.md)
-_Context: Bangladesh, Kantajew Temple_
+_Context: Kantajew Temple, Bangladesh_
 
 ##### Colombia
 ### [Colombian President Juan Manuel Santos announces the discovery of the Spanish galleon San Jose which sunk off that country's coast over 300 years ago. The discovery was a joint venture between Colombia and U.S. firm Sea Search Armada, which filed a lawsuit when Colombia claimed the wreck as a heritage site. The wreck's cargo is placed somewhere in the $4 to $17 billion range. ](/news/2015/12/5/colombian-president-juan-manuel-santos-announces-the-discovery-of-the-spanish-galleon-san-josa-c-which-sunk-off-that-countryas-coast-over-3.md)

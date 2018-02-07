@@ -33,7 +33,7 @@ _Context: Mahmoud Sarsak, Hamas_
 
 ##### Eva Rausing
 ### [Eva Rausing, wife of Tetra Pak heir Hans Kristian Rausing, is found dead in west London and a man arrested in connection to her death. ](/news/2012/07/10/eva-rausing-wife-of-tetra-pak-heir-hans-kristian-rausing-is-found-dead-in-west-london-and-a-man-arrested-in-connection-to-her-death.md)
-_Context: Tetra Pak, Eva Rausing, Hans Kristian Rausing_
+_Context: Eva Rausing, Tetra Pak, Hans Kristian Rausing_
 
 ##### Trades Union Congress
 ### [Britain's Trades Union Congress confirms the appointment of its first female General Secretary. Frances O'Grady will take up the role at the end of the year. ](/news/2012/07/10/britain-s-trades-union-congress-confirms-the-appointment-of-its-first-female-general-secretary-frances-o-grady-will-take-up-the-role-at-the.md)
@@ -45,7 +45,7 @@ The government abandons plans for a crucial vote on its plans to reform the Hous
 
 ##### San Bernardino, California
 ### [The US city of San Bernardino becomes the third city in the state of California to file for bankruptcy protection. ](/news/2012/07/10/the-us-city-of-san-bernardino-becomes-the-third-city-in-the-state-of-california-to-file-for-bankruptcy-protection.md)
-_Context: San Bernardino, California, California_
+_Context: California, San Bernardino, California_
 
 ## [Previous Day...](/news/2012/07/9/index.md)
 

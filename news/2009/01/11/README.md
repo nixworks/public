@@ -5,11 +5,11 @@ Formats: [HTML](2009/01/11/index.html)  [JSON](2009/01/11/index.json)  [XML](200
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev criticizes Prime Minister Vladimir Putin's government for not acting quickly enough to deal with the current financial crisis. ](/news/2009/01/11/russian-president-dmitry-medvedev-criticizes-prime-minister-vladimir-putin-s-government-for-not-acting-quickly-enough-to-deal-with-the-curr.md)
-_Context: Russian President, Prime Minister of Russia, current economic crisis, Russia, Dmitry Medvedev, Russian government, Vladimir Putin_
+_Context: Vladimir Putin, Russian government, current economic crisis, Russian President, Prime Minister of Russia, Dmitry Medvedev, Russia_
 
 ##### European Union
 ### [ European Union monitors arrive to ensure that Russia restarts its natural-gas delivery to Europe. ](/news/2009/01/11/european-union-monitors-arrive-to-ensure-that-russia-restarts-its-natural-gas-delivery-to-europe.md)
-_Context: gas, Europe, Russia, European Union, restarts_
+_Context: gas, restarts, Europe, European Union, Russia_
 
 ##### Israel
 ### [ Israeli Defense Forces and Hamas and Islamic Jihad militants battle in Sheikh Ajleen, a suburb of Gaza City. ](/news/2009/01/11/israeli-defense-forces-and-hamas-and-islamic-jihad-militants-battle-in-sheikh-ajleen-a-suburb-of-gaza-city.md)

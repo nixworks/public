@@ -25,7 +25,7 @@ Prominent Chinese human rights lawyer Jiang Tianyong is released and allowed to 
 
 ##### President
 ### [President Goodluck Jonathan of Nigeria wins the presidential election held on 16 April. ](/news/2011/04/20/president-goodluck-jonathan-of-nigeria-wins-the-presidential-election-held-on-16-april.md)
-_Context: Nigeria, President, Goodluck Jonathan, presidential election_
+_Context: President, Nigeria, Goodluck Jonathan, presidential election_
 
 ## [Previous Day...](/news/2011/04/19/index.md)
 

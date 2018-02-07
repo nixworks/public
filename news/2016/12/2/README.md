@@ -25,15 +25,15 @@ European Union ministers on Friday backed lowering the caps for how much mobile 
 
 ##### Hubei
 ### [At least 18 people die and two more are injured in a bus accident in Hubei, China. ](/news/2016/12/2/at-least-18-people-die-and-two-more-are-injured-in-a-bus-accident-in-hubei-china.md)
-_Context: Hubei, China_
+_Context: China, Hubei_
 
 ##### 2016 Southeastern United States wildfires
 ### [The death toll from the wildfire that hit the U.S. town of Gatlinburg, Tennessee, rises to 13. ](/news/2016/12/2/the-death-toll-from-the-wildfire-that-hit-the-u-s-town-of-gatlinburg-tennessee-rises-to-13.md)
-_Context: Gatlinburg, Tennessee, 2016 Southeastern United States wildfires_
+_Context: 2016 Southeastern United States wildfires, Gatlinburg, Tennessee_
 
 ##### China
 ### [The bodies of 21 coal miners are retrieved from an unlicensed coal mine in the Chinese city of Qitaihe in the province of Heilongjiang. Four people have been arrested including the owner of the mine and three managers. ](/news/2016/12/2/the-bodies-of-21-coal-miners-are-retrieved-from-an-unlicensed-coal-mine-in-the-chinese-city-of-qitaihe-in-the-province-of-heilongjiang-four.md)
-_Context: Qitaihe, China, Heilongjiang_
+_Context: Heilongjiang, Qitaihe, China_
 
 ##### 2016 Oakland warehouse fire
 ### [At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. ](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missing-in-a-warehouse-fire-in-oakland-california.md)
@@ -49,7 +49,7 @@ The bloc suspends Venezuela for failing to meet basic trade and human rights rul
 
 ##### Dolj County
 ### [A shooting in Palilula, Dolj County, Romania, leaves at least three people dead, including the gunman, with two more injured. ](/news/2016/12/2/a-shooting-in-palilula-dolj-county-romania-leaves-at-least-three-people-dead-including-the-gunman-with-two-more-injured.md)
-_Context: Dolj County, Romania_
+_Context: Romania, Dolj County_
 
 ##### Russian Central Bank
 ### [The Russian Central Bank says hackers, who were attempting to steal about 5 billion rubles, did take more than 2 billion ($31 million) this year from member bank accounts. ](/news/2016/12/2/the-russian-central-bank-says-hackers-who-were-attempting-to-steal-about-5-billion-rubles-did-take-more-than-2-billion-31-million-this.md)
@@ -57,7 +57,7 @@ _Context: Dolj County, Romania_
 
 ##### Muslim
 ### [Approximately 200,000 Muslims protest in the Indonesian capital Jakarta against the Governor Basuki Tjahaja Purnama for alleged blasphemy. This is the second mass protest in a month against the minority Christian governor. ](/news/2016/12/2/approximately-200-000-muslims-protest-in-the-indonesian-capital-jakarta-against-the-governor-basuki-tjahaja-purnama-for-alleged-blasphemy-t.md)
-_Context: gubernatorial, Indonesia, Jakarta, Muslim, Basuki Tjahaja Purnama, Christian, blasphemy_
+_Context: Basuki Tjahaja Purnama, gubernatorial, Muslim, blasphemy, Jakarta, Christian, Indonesia_
 
 ##### Joko Widodo
 ### [Indonesian president Joko Widodo attends the main event of the rally, Friday mass prayer, easing the tension of protesters. ](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-main-event-of-the-rally-friday-mass-prayer-easing-the-tension-of-protesters.md)

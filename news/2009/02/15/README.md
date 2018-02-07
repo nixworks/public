@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/15/index.html)  [JSON](2009/02/15/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The United Kingdom confirms the first case of a person contracting Creutzfeldt-Jakob disease after receiving contaminated blood plasma. ](/news/2009/02/15/the-united-kingdom-confirms-the-first-case-of-a-person-contracting-creutzfeldt-jakob-disease-after-receiving-contaminated-blood-plasma.md)
-_Context: blood plasma, infecting, United Kingdom, Creutzfeldt-Jakob disease, contaminated, receiving_
+_Context: Creutzfeldt-Jakob disease, receiving, United Kingdom, contaminated, blood plasma, infecting_
 
 ##### hostel
 ### [ At least 15 people are killed and seven injured in a hostel fire in Molodyozhny, Astrakhan, Russia. ](/news/2009/02/15/at-least-15-people-are-killed-and-seven-injured-in-a-hostel-fire-in-molodyozhny-astrakhan-russia.md)
@@ -13,11 +13,11 @@ At least 15 people died and seven were injured when a three-storey wooden hostel
 
 ##### Israel
 ### [ Israel will pay US$50,000 to the family of a Palestinian man who was killed by the country's Defense Forces in December 2003. ](/news/2009/02/15/israel-will-pay-us-50-000-to-the-family-of-a-palestinian-man-who-was-killed-by-the-country-s-defense-forces-in-december-2003.md)
-_Context: 2003, $, Palestinian, Israel, Israel Defense Forces_
+_Context: Palestinian, $, 2003, Israel Defense Forces, Israel_
 
 ##### Zimbabwe
 ### [ Zimbabwe replaces a treason charge against Deputy Agriculture Minister-designate Roy Bennett with "conspiring to acquire arms with a view to disrupting essential services." ](/news/2009/02/15/zimbabwe-replaces-a-treason-charge-against-deputy-agriculture-minister-designate-roy-bennett-with-conspiring-to-acquire-arms-with-a-view-t.md)
-_Context: treason, conspiracy, service, Zimbabwe, Roy Bennett, Deputy Agriculture Minister-designate, arms, indicted_
+_Context: arms, Roy Bennett, conspiracy, treason, Zimbabwe, Deputy Agriculture Minister-designate, indicted, service_
 
 ##### Karen National Union
 ### [ The Karen National Union attacks Myawaddy, Burma. ](/news/2009/02/15/the-karen-national-union-attacks-myawaddy-burma.md)
@@ -25,31 +25,31 @@ _Context: Myawaddy, Burma, Karen National Union_
 
 ##### Colombia
 ### [ Colombia's Galeras volcano erupts. ](/news/2009/02/15/colombia-s-galeras-volcano-erupts.md)
-_Context: Galeras, volcano, Colombia_
+_Context: volcano, Colombia, Galeras_
 
 ##### Venezuela
 ### [ Fifty-four percent of participating Venezuelan voters approve a constitutional referendum to remove term limits for elected offices, including the Presidency. ](/news/2009/02/15/fifty-four-percent-of-participating-venezuelan-voters-approve-a-constitutional-referendum-to-remove-term-limits-for-elected-offices-includ.md)
-_Context: elected offices, the constitution, referendum, Venezuela, Venezuelan President, term limit_
+_Context: the constitution, Venezuela, term limit, Venezuelan President, elected offices, referendum_
 
 ##### Israeli Prime Minister
 ### [ Prime Minister Ehud Olmert denies reports that Israel is negotiating with Hamas. ](/news/2009/02/15/prime-minister-ehud-olmert-denies-reports-that-israel-is-negotiating-with-hamas.md)
-_Context: fire, Ehud Olmert, Israel, Hamas, Israeli Prime Minister_
+_Context: Ehud Olmert, Israeli Prime Minister, fire, Hamas, Israel_
 
 ##### General strikes
 ### [ General strikes over high living costs continue in Guadeloupe and Martinique. ](/news/2009/02/15/general-strikes-over-high-living-costs-continue-in-guadeloupe-and-martinique.md)
-_Context: living costs, Martinique, General strikes, Guadeloupe_
+_Context: General strikes, living costs, Guadeloupe, Martinique_
 
 ##### Cancer Research UK
 ### [ Cancer Research UK's London Institute discovers a "danger receptor" that may initiate an immune reaction to cancer. ](/news/2009/02/15/cancer-research-uk-s-london-institute-discovers-a-danger-receptor-that-may-initiate-an-immune-reaction-to-cancer.md)
-_Context: receptor, cancer, London Research Institute, Cancer Research UK, modified immune cells_
+_Context: London Research Institute, modified immune cells, receptor, Cancer Research UK, cancer_
 
 ##### Taliban
 ### [ The Taliban announces a ten-day ceasefire in its war in northwest Pakistan's Swat Valley. ](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.md)
-_Context: ceasefire, War in North-West Pakistan, Northwestern Pakistan, Taliban, Pakistan, Swat, Pakistan_
+_Context: Northwestern Pakistan, War in North-West Pakistan, Taliban, ceasefire, Swat, Pakistan, Pakistan_
 
 ##### NASCAR
 ### [ NASCAR driver Matt Kenseth wins the rain-shortened 2009 Daytona 500 at Daytona International Speedway after 152 of 200 laps. ](/news/2009/02/15/nascar-driver-matt-kenseth-wins-the-rain-shortened-2009-daytona-500-at-daytona-international-speedway-after-152-of-200-laps.md)
-_Context: 2009 Daytona 500, Matt Kenseth, NASCAR, Daytona International Speedway_
+_Context: 2009 Daytona 500, Daytona International Speedway, NASCAR, Matt Kenseth_
 
 ## [Previous Day...](/news/2009/02/14/index.md)
 

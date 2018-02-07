@@ -13,19 +13,19 @@ Sydney&#039;s Opera House failed to make the cut as the organisers of a huge onl
 
 ##### bus
 ### [ A bus crash in Java kills at least 14 people. 48 people were injured, many seriously. ](/news/2007/07/7/a-bus-crash-in-java-kills-at-least-14-people-48-people-were-injured-many-seriously.md)
-_Context: bus, Java_
+_Context: Java, bus_
 
 ##### 2007 Amirli bombing
 ### [ 2007 Amirli bombing: At least 105 people are killed when a suicide truck bomber attacks a market in Amirli in northern Iraq with a majority Shiite Turkmen population. ](/news/2007/07/7/2007-amirli-bombing-at-least-105-people-are-killed-when-a-suicide-truck-bomber-attacks-a-market-in-amirli-in-northern-iraq-with-a-majority.md)
-_Context: Amirli, Turkmen, Shiite, Iraq, suicide bomber, 2007 Amirli bombing_
+_Context: Turkmen, Amirli, 2007 Amirli bombing, suicide bomber, Iraq, Shiite_
 
 ##### Afghanistan
 ### [ The Government of Afghanistan states that it will investigate claims that United States and NATO air strikes caused heavy civilian casualties in Farah Province and Kunar Province. ](/news/2007/07/7/the-government-of-afghanistan-states-that-it-will-investigate-claims-that-united-states-and-nato-air-strikes-caused-heavy-civilian-casualti.md)
-_Context: Farah Province, Afghanistan, United States, NATO, Kunar Province_
+_Context: NATO, United States, Afghanistan, Kunar Province, Farah Province_
 
 ##### Live Earth
 ### [ Live Earth gets underway with concerts in Australia, the United States, Germany, South Africa, the United Kingdom, Brazil, Japan and China. ](/news/2007/07/7/live-earth-gets-underway-with-concerts-in-australia-the-united-states-germany-south-africa-the-united-kingdom-brazil-japan-and-china.md)
-_Context: Live Earth, German, China, United Kingdom, Japan, Brazil, Australia, United States, South Africa_
+_Context: Australia, United Kingdom, South Africa, United States, China, Live Earth, Japan, Brazil, German_
 
 ## [Previous Day...](/news/2007/07/6/index.md)
 

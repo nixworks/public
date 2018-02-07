@@ -5,7 +5,7 @@ Formats: [HTML](2006/04/6/index.html)  [JSON](2006/04/6/index.json)  [XML](2006/
 
 ##### World Meteorological Organization
 ### [ The World Meteorological Organization has announced the retirement of a record five storm names from the 2005 Atlantic hurricane season. Retired names include Dennis, Katrina, Rita, Stan and Wilma. ](/news/2006/04/6/the-world-meteorological-organization-has-announced-the-retirement-of-a-record-five-storm-names-from-the-2005-atlantic-hurricane-season-re.md)
-_Context: Stan, Rita, 2005 Atlantic hurricane season, Dennis, World Meteorological Organization, Hurricane Katrina, Hurricane Wilma_
+_Context: Stan, Dennis, Hurricane Katrina, World Meteorological Organization, 2005 Atlantic hurricane season, Hurricane Wilma, Rita_
 
 ##### National Geographic Society
 ### [ The National Geographic Society unveils the restored Gospel of Judas in Washington, D.C. Written in Coptic, the document is thought to have come from the 2nd century. It had been deteriorating rapidly when found. ](/news/2006/04/6/the-national-geographic-society-unveils-the-restored-gospel-of-judas-in-washington-d-c-written-in-coptic-the-document-is-thought-to-have.md)
@@ -13,11 +13,11 @@ Researchers say they have discovered the only known copy of the Gospel of Judas,
 
 ##### pyramid
 ### [ A 1,500-year-old pyramid called the Hill of the Star has been found in Mexico City. ](/news/2006/04/6/a-1-500-year-old-pyramid-called-the-hill-of-the-star-has-been-found-in-mexico-city.md)
-_Context: pyramid, Mexico City, Hill of the Star_
+_Context: Mexico City, Hill of the Star, pyramid_
 
 ##### Orthodox Jews
 ### [ Orthodox Jews in Boro Park in New York City continue to protest after a 75-year-old Hasidic man was beaten and arrested by police for talking on a cell phone while driving. NYPD Chief Joseph Esposito allegedly cursed out the protestors in anti-Semitic terms, resulting in condemnations and calls for him to step down. ](/news/2006/04/6/orthodox-jews-in-boro-park-in-new-york-city-continue-to-protest-after-a-75-year-old-hasidic-man-was-beaten-and-arrested-by-police-for-talki.md)
-_Context: Joseph Esposito, Boro Park, Orthodox Jews, New York City Police Department_
+_Context: New York City Police Department, Joseph Esposito, Boro Park, Orthodox Jews_
 
 ##### Paleontologists
 ### [ Palaeontologists announce the discovery of the "Tiktaalik" genus, an important fossil link between fish and land animals. ](/news/2006/04/6/palaeontologists-announce-the-discovery-of-the-tiktaalik-genus-an-important-fossil-link-between-fish-and-land-animals.md)
@@ -25,15 +25,15 @@ The 375 million-year-old fish fossil exhibits changes that anticipate the emerge
 
 ##### Israel
 ### [ Israeli police arrest and release Khaled Abu Arafa, minister of Jerusalem affairs in the new Hamas-led government of the Palestinian Authority. ](/news/2006/04/6/israeli-police-arrest-and-release-khaled-abu-arafa-minister-of-jerusalem-affairs-in-the-new-hamas-led-government-of-the-palestinian-author.md)
-_Context: Israel, Jerusalem, Palestinian Authority, Hamas, Khaled Abu Arafa_
+_Context: Israel, Khaled Abu Arafa, Hamas, Jerusalem, Palestinian Authority_
 
 ##### Parliament of New Zealand
 ### [ The Parliament of New Zealand passes a bill that on receiving Royal Assent will make New Zealand Sign Language the third official language of New Zealand, alongside English and Maori. ](/news/2006/04/6/the-parliament-of-new-zealand-passes-a-bill-that-on-receiving-royal-assent-will-make-new-zealand-sign-language-the-third-official-language.md)
-_Context: Parliament of New Zealand, New Zealand Sign Language, Royal Assent, Maori_
+_Context: Royal Assent, Parliament of New Zealand, Maori, New Zealand Sign Language_
 
 ##### swan
 ### [ Health experts announce that a dead swan found in Scotland has tested positive for bird flu. ](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-in-scotland-has-tested-positive-for-bird-flu.md)
-_Context: Scotland, Avian flu virus, swan_
+_Context: Avian flu virus, Scotland, swan_
 
 ## [Previous Day...](/news/2006/04/5/index.md)
 

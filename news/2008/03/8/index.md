@@ -9,7 +9,7 @@ Senator Barack Obama beat Senator Hillary Rodham Clinton by a wide margin, conti
 
 ##### Sweden
 ### [ Swedish Minister for Foreign Affairs Carl Bildt becomes the first foreign minister to visit Kosovo since the country declared its independence. ](/news/2008/03/8/swedish-minister-for-foreign-affairs-carl-bildt-becomes-the-first-foreign-minister-to-visit-kosovo-since-the-country-declared-its-independe.md)
-_Context: Carl Bildt, unilateral declaration of independence, Sweden, Kosovo_
+_Context: Sweden, Kosovo, Carl Bildt, unilateral declaration of independence_
 
 ##### Police
 ### [ Police in Memphis, Tennessee make an arrest in connection with the killing of four adults and two children. ](/news/2008/03/8/police-in-memphis-tennessee-make-an-arrest-in-connection-with-the-killing-of-four-adults-and-two-children.md)

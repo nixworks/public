@@ -9,11 +9,11 @@ Mexican security forces say they have arrested the drug lord known as &#034;Ugly
 
 ##### new eastern span
 ### [The new eastern span of the San Francisco-Oakland Bay Bridge opens to the public after a decade-long project to replace the old span which was damaged during the 1989 Loma Prieta earthquake. ](/news/2013/09/2/the-new-eastern-span-of-the-san-franciscoaoakland-bay-bridge-opens-to-the-public-after-a-decade-long-project-to-replace-the-old-span-which.md)
-_Context: San Francisco-Oakland Bay Bridge, new eastern span, 1989 Loma Prieta earthquake_
+_Context: 1989 Loma Prieta earthquake, new eastern span, San Francisco-Oakland Bay Bridge_
 
 ##### Verizon Communications
 ### [Verizon Communications agrees to acquire Vodafone's stake in Verizon Wireless for $130 billion, the third largest M&A deal ever. ](/news/2013/09/2/verizon-communications-agrees-to-acquire-vodafone-s-stake-in-verizon-wireless-for-130-billion-the-third-largest-m-a-deal-ever.md)
-_Context: pre-merger, Verizon Wireless, United States dollars, Vodafone Group Plc, Verizon Communications_
+_Context: Verizon Communications, pre-merger, United States dollars, Vodafone Group Plc, Verizon Wireless_
 
 ## [Previous Day...](/news/2013/09/1/index.md)
 

@@ -17,7 +17,7 @@ Devastating rainfall flooding, dangerous storm surge and high winds are expected
 
 ##### Iran-Qatar relations
 ### [Qatar restores diplomatic ties with Iran. Tehran welcomes the move. ](/news/2017/08/24/qatar-restores-diplomatic-ties-with-iran-tehran-welcomes-the-move.md)
-_Context: Iran-Qatar relations, Iran, Qatar_
+_Context: Iran, Iran-Qatar relations, Qatar_
 
 ##### Colombia-Venezuela relations
 ### [Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. ](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.md)

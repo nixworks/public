@@ -17,7 +17,7 @@ More than 50 cars crash on a motorway in northern China, killing 17 people.
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Otto impacts Panama. A tropical storm watch is issued for Nicaragua from Bluefields to Sandy Bay Sirpi. ](/news/2016/11/22/hurricane-otto-impacts-panama-a-tropical-storm-watch-is-issued-for-nicaragua-from-bluefields-to-sandy-bay-sirpi.md)
-_Context: Bluefields, Hurricane Otto, 2016 Atlantic hurricane season, Nicaragua, Panama_
+_Context: Panama, Bluefields, Hurricane Otto, Nicaragua, 2016 Atlantic hurricane season_
 
 ##### European migrant crisis
 ### [Rescuers recovered 8 bodies and saved 1400 migrants adrift on the Mediterranean Sea today. ](/news/2016/11/22/rescuers-recovered-8-bodies-and-saved-1400-migrants-adrift-on-the-mediterranean-sea-today.md)
@@ -25,7 +25,7 @@ The migrant corpses and survivors were transferred to rescue vessels from at lea
 
 ##### Egypt
 ### [Former Egyptian Interior Minister Habib el-Adly is placed under house arrest on embezzlement charges. ](/news/2016/11/22/former-egyptian-interior-minister-habib-el-adly-is-placed-under-house-arrest-on-embezzlement-charges.md)
-_Context: Egypt, embezzlement, Habib el-Adly_
+_Context: Habib el-Adly, embezzlement, Egypt_
 
 ##### Presidency of Donald Trump
 ### [Trump's aide Kellyanne Conway announces that the president-elect will not seek new charges against Hillary Clinton for possible crimes related to her email server. ](/news/2016/11/22/trump-s-aide-kellyanne-conway-announces-that-the-president-elect-will-not-seek-new-charges-against-hillary-clinton-for-possible-crimes-relat.md)

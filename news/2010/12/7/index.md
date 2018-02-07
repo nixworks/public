@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/7/index.html)  [JSON](2010/12/7/index.json)  [XML](2010/
 
 ##### bomb blast
 ### [One child is killed and 20 people are injured in a bomb blast at a temple in Varanasi, northern India. ](/news/2010/12/7/one-child-is-killed-and-20-people-are-injured-in-a-bomb-blast-at-a-temple-in-varanasi-northern-india.md)
-_Context: India, bomb blast, Varanasi_
+_Context: India, Varanasi, bomb blast_
 
 ##### John James Audubon
 ### [A copy of John James Audubon's "Birds of America" is sold at auction in London for a record GBP7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-agbp7-3-million-10-3-million.md)
@@ -41,7 +41,7 @@ MET Eireann was the focus of public anger today as heavy falls of fresh snow cam
 
 ##### Cote d'Ivoire
 ### [Cote d'Ivoire is expelled from the Economic Community of West African States (ECOWAS). ](/news/2010/12/7/ca-te-d-ivoire-is-expelled-from-the-economic-community-of-west-african-states-ecowas.md)
-_Context: ECOWAS, Cote d'Ivoire_
+_Context: Cote d'Ivoire, ECOWAS_
 
 ##### Nobel Peace Prize
 ### [19 countries are to miss the Nobel Peace Prize ceremony for Chinese dissident Liu Xiaobo; 44 are to attend. China described supporters of Liu as "clowns". ](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.md)
@@ -61,7 +61,7 @@ Results indicate ruling party takes 80 per cent of parliament seats, which the o
 
 ##### Haitian general election, 2010-2011
 ### [The Haitian presidential election will go to the second round run-off between former first lady Mirlande Manigat and Jude Celestin from the governing Unity Party. ](/news/2010/12/7/the-haitian-presidential-election-will-go-to-the-second-round-run-off-between-former-first-lady-mirlande-manigat-and-jude-celestin-from-the.md)
-_Context: Haitian general election, 2010-2011, Mirlande Manigat, Jude Celestin_
+_Context: Mirlande Manigat, Haitian general election, 2010-2011, Jude Celestin_
 
 ##### Elizabeth Edwards
 ### [Attorney, author, and activist Elizabeth Edwards dies of cancer. ](/news/2010/12/7/attorney-author-and-activist-elizabeth-edwards-dies-of-cancer.md)

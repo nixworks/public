@@ -9,7 +9,7 @@ A rogue officer who &quot;went berserk&quot; was responsible for an attack on a 
 
 ##### 2016 Nice attack
 ### [A truck plows into a mass of revelers during the Bastille Day fireworks on the Promenade des Anglais in Nice, France, with a death toll as high as 80 and 100 people injured. ](/news/2016/07/14/a-truck-plows-into-a-mass-of-revelers-during-the-bastille-day-fireworks-on-the-promenade-des-anglais-in-nice-france-with-a-death-toll-as-h.md)
-_Context: Bastille Day, Promenade des Anglais, 2016 Nice attack, Nice, France_
+_Context: France, Promenade des Anglais, Bastille Day, Nice, 2016 Nice attack_
 
 ##### 68th Primetime Emmy Awards
 ### [The nominees are announced in Los Angeles. "Game of Thrones", "Veep" and "The People v. O. J. Simpson: American Crime Story" lead in nominations. ](/news/2016/07/14/the-nominees-are-announced-in-los-angeles-game-of-thrones-veep-and-the-people-v-o-j-simpson-american-crime-story-lead-in-nominat.md)

@@ -45,7 +45,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### 2016 Naivasha oil tanker explosion
 ### [An oil tanker explodes on a main highway near Naivasha, Kenya, killing at least 42 people, according to the Kenya National Disaster Operation Centre. ](/news/2016/12/11/an-oil-tanker-explodes-on-a-main-highway-near-naivasha-kenya-killing-at-least-42-people-according-to-the-kenya-national-disaster-operatio.md)
-_Context: 2016 Naivasha oil tanker explosion, Kenya, Naivasha, Kenya National Disaster Operation Centre_
+_Context: 2016 Naivasha oil tanker explosion, Naivasha, Kenya National Disaster Operation Centre, Kenya_
 
 ##### Uyo church collapse
 ### [The death toll from yesterday's church collapse in Uyo, Nigeria, rises to 160 with the death toll expected to rise further. ](/news/2016/12/11/the-death-toll-from-yesterday-s-church-collapse-in-uyo-nigeria-rises-to-160-with-the-death-toll-expected-to-rise-further.md)
@@ -83,19 +83,19 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Macedonian parliamentary election, 2016
 ### [ Macedonian voters elect a new parliament. ](/news/2016/12/11/macedonian-voters-elect-a-new-parliament.md)
-_Context: Republic of Macedonia, Macedonian parliamentary election, 2016, parliament_
+_Context: Macedonian parliamentary election, 2016, Republic of Macedonia, parliament_
 
 ##### earlier this month
 ### [Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. ](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-parliamentary-elections-exit-polls-show-the-social-democratic-party-winning-by-a-wide-margin.md)
-_Context: earlier this month, PSD, Romanians_
+_Context: Romanians, earlier this month, PSD_
 
 ##### Italian constitutional referendum, 2016
 ### [Paolo Gentiloni becomes the new Prime Minister of Italy. ](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-of-italy.md)
-_Context: Italy, Italian Prime Minister, Italian constitutional referendum, 2016, Paolo Gentiloni_
+_Context: Paolo Gentiloni, Italian constitutional referendum, 2016, Italy, Italian Prime Minister_
 
 ##### Gambian presidential election, 2016
 ### [Defeated dictator Yahya Jammeh vows to contest the election results in The Gambian supreme court. ](/news/2016/12/11/defeated-dictator-yahya-jammeh-vows-to-contest-the-election-results-in-the-gambian-supreme-court.md)
-_Context: Yahya Jammeh, The Gambia, Gambian presidential election, 2016_
+_Context: The Gambia, Yahya Jammeh, Gambian presidential election, 2016_
 
 ##### Mexico
 ### [Mexico's Coronado Islands become a national reserve. ](/news/2016/12/11/mexico-s-coronado-islands-become-a-national-reserve.md)

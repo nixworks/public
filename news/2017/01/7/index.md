@@ -29,11 +29,11 @@ U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for informatio
 
 ##### President
 ### [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md)
-_Context: President, Prime Minister of Portugal, Mario Soares_
+_Context: Mario Soares, Prime Minister of Portugal, President_
 
 ##### Nana Akufo-Addo
 ### [Nana Akufo-Addo is sworn in as the fifth President of Ghana. ](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.md)
-_Context: Nana Akufo-Addo, President of Ghana_
+_Context: President of Ghana, Nana Akufo-Addo_
 
 ##### Presidential transition of Donald Trump
 ### [United States President-elect Donald Trump indicates that he will nominate former Indiana senator Dan Coats as Director of National Intelligence. ](/news/2017/01/7/united-states-president-elect-donald-trump-indicates-that-he-will-nominate-former-indiana-senator-dan-coats-as-director-of-national-intellig.md)

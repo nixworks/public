@@ -17,7 +17,7 @@ The confirmed death toll from the Ebola outbreak has passed 3,000 as the World H
 
 ##### United Nations
 ### [The United Nations Human Rights Council votes in favor of LGBT rights. ](/news/2014/09/27/the-united-nations-human-rights-council-votes-in-favor-of-lgbt-rights.md)
-_Context: LGBT rights, favor, Human Rights Council, United Nations_
+_Context: LGBT rights, Human Rights Council, favor, United Nations_
 
 ##### Vaughan Foods beheading incident
 ### [Vaughan Foods beheading incident. A recent convert to Islam goes on a rampage in a grocery warehouse in Oklahoma, beheading a woman with a knife and stabbing another female colleague. ](/news/2014/09/27/vaughan-foods-beheading-incident-a-recent-convert-to-islam-goes-on-a-rampage-in-a-grocery-warehouse-in-oklahoma-beheading-a-woman-with-a-k.md)
@@ -29,7 +29,7 @@ _Context: David Cunliffe, New Zealand general election, Labour Party_
 
 ##### Artur Mas i Gavarr
 ### [Artur Mas i Gavarr, the President of the Spanish region of Catalonia, authorises a referendum on independence on November 9 despite the opposition of the Government of Spain. ](/news/2014/09/27/artur-mas-i-gavarro-the-president-of-the-spanish-region-of-catalonia-authorises-a-referendum-on-independence-on-november-9-despite-the-opp.md)
-_Context: Catalonia, Spanish government, Spain, Artur Mas i Gavarr, President of the Generalitat of Catalonia_
+_Context: President of the Generalitat of Catalonia, Spain, Artur Mas i Gavarr, Catalonia, Spanish government_
 
 ##### Hong Kong
 ### [Dozens of people are arrested as Hong Kong pro-democracy rallies continue. ](/news/2014/09/27/dozens-of-people-are-arrested-as-hong-kong-pro-democracy-rallies-continue.md)

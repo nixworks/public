@@ -5,7 +5,7 @@ Formats: [HTML](2008/10/19/index.html)  [JSON](2008/10/19/index.json)  [XML](200
 
 ##### Afghanistan
 ### [ Afghan officials claim that the Taliban has executed as many as 30 of 50 people captured on a bus in Kandahar Province. ](/news/2008/10/19/afghan-officials-claim-that-the-taliban-has-executed-as-many-as-30-of-50-people-captured-on-a-bus-in-kandahar-province.md)
-_Context: Kandahar Province, Afghanistan, Taliban_
+_Context: Taliban, Afghanistan, Kandahar Province_
 
 ##### Delhi Mass Rapid Transit System
 ### [ A bridge under construction for the Delhi Mass Rapid Transit System in East Delhi collapses, killing 1 and leaving at least 9 injured. ](/news/2008/10/19/a-bridge-under-construction-for-the-delhi-mass-rapid-transit-system-in-east-delhi-collapses-killing-1-and-leaving-at-least-9-injured.md)

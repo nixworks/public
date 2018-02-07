@@ -17,7 +17,7 @@ An explosion caused by what the authorities believe was a homemade bomb injured 
 
 ##### St. Cloud, Minnesota mall stabbing
 ### [A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. ](/news/2016/09/17/a-mass-stabbing-at-crossroads-center-in-st-cloud-minnesota-u-s-leaves-nine-injured-an-off-duty-police-officer-shoots-dead-the-perpetra.md)
-_Context: Crossroads Center, St. Cloud, Minnesota, St. Cloud, Minnesota mall stabbing_
+_Context: St. Cloud, Minnesota mall stabbing, Crossroads Center, St. Cloud, Minnesota_
 
 ##### Aftermath of the United Kingdom European Union membership referendum, 2016
 ### [President of the European Council Donald Tusk states that the UK could begin its formal process of withdrawing from the European Union early next year, after a meeting with Prime Minister Theresa May last week. ](/news/2016/09/17/president-of-the-european-council-donald-tusk-states-that-the-uk-could-begin-its-formal-process-of-withdrawing-from-the-european-union-early.md)

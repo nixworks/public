@@ -9,11 +9,11 @@ The United Nations and Washington on Monday condemned air strikes on medical fac
 
 ##### Kashmir conflict
 ### [India imposes a curfew in some parts of Kashmir following a general strike being called by separatists to protest the death of two protesters. ](/news/2016/02/15/india-imposes-a-curfew-in-some-parts-of-kashmir-following-a-general-strike-being-called-by-separatists-to-protest-the-death-of-two-protester.md)
-_Context: curfew, Kashmir, Kashmir conflict, India, general strike_
+_Context: general strike, curfew, India, Kashmir conflict, Kashmir_
 
 ##### Insurgency in the North Caucasus
 ### [A car bomb kills two policemen at a checkpoint in Russia's republic of Dagestan. ](/news/2016/02/15/a-car-bomb-kills-two-policemen-at-a-checkpoint-in-russia-s-republic-of-dagestan.md)
-_Context: car bomb, Dagestan, Republic, policemen, Russia, Insurgency in the North Caucasus_
+_Context: policemen, Dagestan, Republic, Insurgency in the North Caucasus, Russia, car bomb_
 
 ##### Yemeni Civil War
 ### [Cross-border shelling from Yemen kills a Saudi Arabian border guard in the Jizan Region. ](/news/2016/02/15/cross-border-shelling-from-yemen-kills-a-saudi-arabian-border-guard-in-the-jizan-region.md)
@@ -53,7 +53,7 @@ _Context: Israeli Prime Minister, Ehud Olmert_
 
 ##### German
 ### [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md)
-_Context: intelligence, German, Al Qaeda_
+_Context: Al Qaeda, German, intelligence_
 
 ##### Central African general election, 2015-16
 ### [Officials are counting ballots from Sunday's presidential election. The final results of the run-off are not expected for several weeks. ](/news/2016/02/15/officials-are-counting-ballots-from-sunday-s-presidential-election-the-final-results-of-the-run-off-are-not-expected-for-several-weeks.md)

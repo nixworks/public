@@ -5,11 +5,11 @@ Formats: [HTML](2009/11/4/index.html)  [JSON](2009/11/4/index.json)  [XML](2009/
 
 ##### New York Yankees
 ### [ The New York Yankees defeat the Philadelphia Phillies 7-3 in Game 6 to win the 2009 World Series. ](/news/2009/11/4/the-new-york-yankees-defeat-the-philadelphia-phillies-7-3-in-game-6-to-win-the-2009-world-series.md)
-_Context: Philadelphia Phillies, baseball world series, New York Yankees_
+_Context: baseball world series, Philadelphia Phillies, New York Yankees_
 
 ##### Houthi
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Saudi Arabia, Shia insurgency in Yemen, Houthi, Yemen_
+_Context: Saudi Arabia, Houthi, Shia insurgency in Yemen, Yemen_
 
 ##### Israeli navy
 ### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
@@ -37,7 +37,7 @@ Twenty-three US secret agents, accused of seizing imam, sentenced to jail in abs
 
 ##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Burma, Aung San Suu Kyi, United States, Thein Sein, Prime Minister_
+_Context: Burma, Prime Minister, Thein Sein, United States, Aung San Suu Kyi_
 
 ##### President of Sierra Leone
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
@@ -57,7 +57,7 @@ _Context: Shanghai, Disney, China, theme park_
 
 ##### Australia
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
-_Context: Voreqe Bainimarama, Prime Minister, Fiji, New Zealand, Australia_
+_Context: Australia, Voreqe Bainimarama, Fiji, New Zealand, Prime Minister_
 
 ##### Huwei
 ### [ A fire at a warehouse in Huwei Yunlin County, Taiwan, destroys between 400 and 500 historic puppets. ](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.md)

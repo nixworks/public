@@ -5,7 +5,7 @@ Formats: [HTML](2007/04/11/index.html)  [JSON](2007/04/11/index.json)  [XML](200
 
 ##### United States
 ### [ Trade officials from the United States, European Union, India and Brazil meet in New Delhi, India, to revive the World Trade Organization's Doha round of negotiations. ](/news/2007/04/11/trade-officials-from-the-united-states-european-union-india-and-brazil-meet-in-new-delhi-india-to-revive-the-world-trade-organization-s.md)
-_Context: Doha round of negotiations, India, World Trade Organization, United States, Brazil, European Union, New Delhi_
+_Context: New Delhi, India, World Trade Organization, United States, European Union, Brazil, Doha round of negotiations_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert M. Gates meets with the Defense Ministers of the United Kingdom, Australia, Canada, the Netherlands and Denmark as well as officials from Estonia and Romania to discuss progress in Afghanistan in expectation of a Taliban offensive. Two Canadian soldiers are killed when a roadside bomb explodes. ](/news/2007/04/11/the-united-states-secretary-of-defense-robert-m-gates-meets-with-the-defense-ministers-of-the-united-kingdom-australia-canada-the-nethe.md)
@@ -13,11 +13,11 @@ Critics of the Bush administration say that the focus on the Iraq war has jeopar
 
 ##### United States Senate
 ### [ The United States Senate votes to ease funding restrictions on stem-cell research but President Bush threatens to veto the bill. ](/news/2007/04/11/the-united-states-senate-votes-to-ease-funding-restrictions-on-stem-cell-research-but-president-bush-threatens-to-veto-the-bill.md)
-_Context: George W. Bush, stem-cell research, United States Senate, veto, U.S. President_
+_Context: U.S. President, George W. Bush, United States Senate, veto, stem-cell research_
 
 ##### United States
 ### [ The United States extends the tour of duty for troops in Iraq and Afghanistan from a year to 15 months. ](/news/2007/04/11/the-united-states-extends-the-tour-of-duty-for-troops-in-iraq-and-afghanistan-from-a-year-to-15-months.md)
-_Context: Afghanistan, Iraq, United States, tour of duty_
+_Context: United States, Iraq, tour of duty, Afghanistan_
 
 ##### Joseph Biden
 ### [ Joseph Biden, chair of the United States Senate Foreign Relations Committee and a presidential candidate, calls for the use of military force in Darfur. ](/news/2007/04/11/joseph-biden-chair-of-the-united-states-senate-foreign-relations-committee-and-a-presidential-candidate-calls-for-the-use-of-military-for.md)
@@ -29,27 +29,27 @@ _Context: midwestern, snow, spring_
 
 ##### United States Senate
 ### [ Former U.S. Senator and prospective presidential candidate Fred Thompson announces he has lymphoma. ](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.md)
-_Context: Fred Thompson, United States Senate, lymphoma, 2008_
+_Context: 2008, lymphoma, Fred Thompson, United States Senate_
 
 ##### Prime Minister
 ### [ Former Prime Minister of Bangladesh Sheikh Hasina is charged with murder. ](/news/2007/04/11/former-prime-minister-of-bangladesh-sheikh-hasina-is-charged-with-murder.md)
-_Context: Prime Minister, Sheikh Hasina, murder_
+_Context: Sheikh Hasina, murder, Prime Minister_
 
 ##### water vapor
 ### [ Traces of water vapor are reported to have been found in the atmosphere of HD 209458 b, a first for extrasolar planets. ](/news/2007/04/11/traces-of-water-vapor-are-reported-to-have-been-found-in-the-atmosphere-of-hd-209458-b-a-first-for-extrasolar-planets.md)
-_Context: extrasolar planet, water vapor, HD 209458 b, atmosphere_
+_Context: extrasolar planet, water vapor, atmosphere, HD 209458 b_
 
 ##### recent bomb attacks
 ### [ Several explosions in Algiers, Algeria, leave 23 dead and dozens of people injured. ](/news/2007/04/11/several-explosions-in-algiers-algeria-leave-23-dead-and-dozens-of-people-injured.md)
-_Context: recent bomb attacks, Algiers, Algeria_
+_Context: recent bomb attacks, Algeria, Algiers_
 
 ##### Russia
 ### [ Russian deputy Prime Minister Sergei Ivanov says a U.S. war against Iran would lead to a catastrophe. ](/news/2007/04/11/russian-deputy-prime-minister-sergei-ivanov-says-a-u-s-war-against-iran-would-lead-to-a-catastrophe.md)
-_Context: Sergei Ivanov, Russia, Iran, United States, deputy, Prime Minister_
+_Context: Russia, Iran, Prime Minister, United States, Sergei Ivanov, deputy_
 
 ##### Macau
 ### [ Macau's Monetary Authority says that holders of the North Korean accounts frozen at a bank by the United States can now withdraw or transfer their money. ](/news/2007/04/11/macau-s-monetary-authority-says-that-holders-of-the-north-korean-accounts-frozen-at-a-bank-by-the-united-states-can-now-withdraw-or-transfe.md)
-_Context: North Korea, United States, Macau_
+_Context: North Korea, Macau, United States_
 
 ##### North Korea
 ### [ North Korea claims that it can shut down its main nuclear reactor within a month. ](/news/2007/04/11/north-korea-claims-that-it-can-shut-down-its-main-nuclear-reactor-within-a-month.md)
@@ -57,15 +57,15 @@ _Context: North Korea_
 
 ##### Bishkek
 ### [ Protestors gather in Bishkek, Kyrgyzstan, to call for the resignation of President Kurmanbek Bakiyev. ](/news/2007/04/11/protestors-gather-in-bishkek-kyrgyzstan-to-call-for-the-resignation-of-president-kurmanbek-bakiyev.md)
-_Context: Bishkek, president, Kurmanbek Bakiyev, Kyrgyzstan_
+_Context: president, Kurmanbek Bakiyev, Bishkek, Kyrgyzstan_
 
 ##### Premier of the People's Republic of China
 ### [ Premier of the People's Republic of China Wen Jiabao arrives in Japan for a summit visit that could help improve bilateral relations. He is the first Chinese Premier to visit Japan in almost seven years. ](/news/2007/04/11/premier-of-the-people-s-republic-of-china-wen-jiabao-arrives-in-japan-for-a-summit-visit-that-could-help-improve-bilateral-relations-he-is.md)
-_Context: bilateral relations, Wen Jiabao, Japan, Premier of the People's Republic of China_
+_Context: Premier of the People's Republic of China, bilateral relations, Wen Jiabao, Japan_
 
 ##### second round
 ### [ There will be a runoff election to select the next President of East Timor after no candidate achieves a majority of votes in the first round of voting. There are three candidates in contention for the runoff; the Prime Minister of East Timor Dr Jos Ramos-Horta, the Fretilin candidate Francisco Guterres and Fernando de Arajo of the Democratic Party. ](/news/2007/04/11/there-will-be-a-runoff-election-to-select-the-next-president-of-east-timor-after-no-candidate-achieves-a-majority-of-votes-in-the-first-rou.md)
-_Context: Jos Ramos-Horta, President, 2007, second round, Prime Minister of East Timor, Fretilin, Francisco Guterres, Fernando de Arajo, Democratic Party_
+_Context: second round, Democratic Party, Francisco Guterres, Prime Minister of East Timor, 2007, President, Jos Ramos-Horta, Fretilin, Fernando de Arajo_
 
 ## [Previous Day...](/news/2007/04/10/index.md)
 

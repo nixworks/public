@@ -41,7 +41,7 @@ China promises a &quot;thorough&quot; investigation into a top politician linked
 
 ##### the High Court in Edinburgh
 ### [In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. ](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom-television-cameras-are-allowed-into-the-high-court-in-edinburgh-to-film-the-sentencing-of-d.md)
-_Context: murder of Suzanne Pilley, the High Court in Edinburgh_
+_Context: the High Court in Edinburgh, murder of Suzanne Pilley_
 
 ## [Previous Day...](/news/2012/04/17/index.md)
 

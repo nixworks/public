@@ -13,15 +13,15 @@ _Context: USA, North Side Strangler, Milwaukee_
 
 ##### statue
 ### [ A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. ](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-unesco-world-heritage-site-at-hierapolis-turkey.md)
-_Context: Turkey, statue, Hierapolis, UNESCO, Apollo, world heritage site_
+_Context: world heritage site, Hierapolis, UNESCO, statue, Turkey, Apollo_
 
 ##### Norway
 ### [ Two Norwegians, Joshua French and Tjostolv Moland, on trial for alleged murder and espionage, are found guilty on both counts and sentenced to death by a Congolese military tribunal. ](/news/2009/09/8/two-norwegians-joshua-french-and-tjostolv-moland-on-trial-for-alleged-murder-and-espionage-are-found-guilty-on-both-counts-and-sentenced.md)
-_Context: Norway, Democratic Republic of Congo, murder, espionage, Joshua French and Tjostolv Moland_
+_Context: Joshua French and Tjostolv Moland, Norway, Democratic Republic of Congo, espionage, murder_
 
 ##### wireless mobile carriers
 ### [ Mobile network operators T-Mobile and Orange agree to merge their British businesses. ](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agree-to-merge-their-british-businesses.md)
-_Context: United Kingdom, wireless mobile carriers, Orange, T-Mobile_
+_Context: Orange, United Kingdom, T-Mobile, wireless mobile carriers_
 
 ##### magnitude
 ### [ A magnitude 6.2 earthquake strikes northern Georgia. ](/news/2009/09/8/a-magnitude-6-2-earthquake-strikes-northern-georgia.md)
@@ -33,7 +33,7 @@ At least 42 people killed and dozens more trapped in explosion at Henan coal min
 
 ##### Kenya
 ### [ Kenya replaces almost all of its senior police officers after they were blamed for deaths during post-election violence in 2007 and 2008. ](/news/2009/09/8/kenya-replaces-almost-all-of-its-senior-police-officers-after-they-were-blamed-for-deaths-during-post-election-violence-in-2007-and-2008.md)
-_Context: post-election violence, Kenya_
+_Context: Kenya, post-election violence_
 
 ##### Sudan
 ### [ Sudanese journalist Lubna al-Hussein is freed from one day in jail after being prosecuted for wearing trousers &ndash; the fine was paid by the Journalist Union. ](/news/2009/09/8/sudanese-journalist-lubna-al-hussein-is-freed-from-one-day-in-jail-after-being-prosecuted-for-wearing-trousers-ndash-the-fine-was-paid-by.md)
@@ -41,7 +41,7 @@ Journalist union pays $200 fine to release woman jailed for indecency.
 
 ##### Argentina
 ### [ A storm, with rain, hail and winds of over 60 mph kills at least 14 people in northern Argentina and southern Brazil. ](/news/2009/09/8/a-storm-with-rain-hail-and-winds-of-over-60-mph-kills-at-least-14-people-in-northern-argentina-and-southern-brazil.md)
-_Context: Brazil, Argentina_
+_Context: Argentina, Brazil_
 
 ## [Previous Day...](/news/2009/09/7/index.md)
 

@@ -29,11 +29,11 @@ At least 30 people were killed when two buses collided in a head-on crash in Pak
 
 ##### Ludwigshafen
 ### [An explosion and fire in Ludwigshafen, at the largest production site of BASF in Germany, kills at least two people and injures six more with two people still missing. BASF is the world's biggest chemical producer. ](/news/2016/10/17/an-explosion-and-fire-in-ludwigshafen-at-the-largest-production-site-of-basf-in-germany-kills-at-least-two-people-and-injures-six-more-wit.md)
-_Context: chemical producer, Ludwigshafen, German, BASF_
+_Context: BASF, chemical producer, German, Ludwigshafen_
 
 ##### East India
 ### [A fire breaks out at a hospital in the East Indian city of Bhubaneswar, Odisha, killing at least 20 people. ](/news/2016/10/17/a-fire-breaks-out-at-a-hospital-in-the-east-indian-city-of-bhubaneswar-odisha-killing-at-least-20-people.md)
-_Context: East India, Bhubaneswar, Odisha_
+_Context: Bhubaneswar, East India, Odisha_
 
 ##### Yemeni Civil War
 ### [The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). ](/news/2016/10/17/the-united-nations-announces-that-the-warring-parties-in-yemen-have-agreed-to-a-72-hour-ceasefire-starting-october-19-at-23-59-ast-4-59-edt.md)
@@ -41,7 +41,7 @@ SANAA, Yemen (AP) — The warring parties in Yemen have agreed to a 72-hour ceas
 
 ##### Syrian Civil War
 ### [The European Union condemns Russia's air campaign in Syria, saying it may be guilty of war crimes, and it vowed to impose more sanctions on President Bashar al-Assad's government. The bloc's 28 foreign ministers sought to show their anger at the Russian-backed campaign, which has killed several hundred people including dozens of children since the collapse of a truce brokered by Russia and the United States. ](/news/2016/10/17/the-european-union-condemns-russia-s-air-campaign-in-syria-saying-it-may-be-guilty-of-war-crimes-and-it-vowed-to-impose-more-sanctions-on.md)
-_Context: Syrian Civil War, European Union_
+_Context: European Union, Syrian Civil War_
 
 ##### Circuit Court Judge
 ### [Circuit Court Judge Debra Nelson in Seminole County, Florida, sentences Matthew Apperson, convicted by a jury last month of second-degree attempted murder, to 20 years in prison for shooting at George Zimmerman, who had shot and killed unarmed Trayvon Martin in February 2012. ](/news/2016/10/17/circuit-court-judge-debra-nelson-in-seminole-county-florida-sentences-matthew-apperson-convicted-by-a-jury-last-month-of-second-degree-at.md)

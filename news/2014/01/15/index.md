@@ -9,7 +9,7 @@ At least 73 people have been killed in a series of bomb attacks in central Iraq,
 
 ##### women's rights
 ### [A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. ](/news/2014/01/15/a-thailand-based-women-s-rights-group-accuses-myanmar-of-using-rape-as-a-weapon-of-war.md)
-_Context: rape as a weapon of war, Myanmar, women's rights_
+_Context: women's rights, rape as a weapon of war, Myanmar_
 
 ##### Westerners
 ### [Western and Arab countries pledge to give an additional US$1.4 billion for United Nations aid. ](/news/2014/01/15/western-and-arab-countries-pledge-to-give-an-additional-us-1-4-billion-for-united-nations-aid.md)
@@ -45,7 +45,7 @@ The agency has put software in thousands of computers that allows for surveillan
 
 ##### Egyptians
 ### [Egyptians vote on a constitution that will ban political parties based on religion, give women equal rights and protect the status of minority Coptic Christians. ](/news/2014/01/15/egyptians-vote-on-a-constitution-that-will-ban-political-parties-based-on-religion-give-women-equal-rights-and-protect-the-status-of-minori.md)
-_Context: Egyptians, Coptic, political parties based on religion, women's rights_
+_Context: Coptic, political parties based on religion, women's rights, Egyptians_
 
 ##### Bangkok
 ### [Thai protesters continue to shutdown Bangkok in order to force Yingluck to step down. ](/news/2014/01/15/thai-protesters-continue-to-shutdown-bangkok-in-order-to-force-yingluck-to-step-down.md)

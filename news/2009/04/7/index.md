@@ -9,43 +9,43 @@ Minister for Finance Brian Lenihan has outlined six steps to restore the Irish e
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian terrorist in East Jerusalem as he rams them with his tractor. ](/news/2009/04/7/the-israel-police-kill-a-palestinian-terrorist-in-east-jerusalem-as-he-rams-them-with-his-tractor.md)
-_Context: Israeli police, East Jerusalem, Palestinian, Israel_
+_Context: Palestinian, Israeli police, East Jerusalem, Israel_
 
 ##### United States
 ### [ United States District Judge Emmet G. Sullivan overturns the conviction of former Alaska Senator Ted Stevens. ](/news/2009/04/7/united-states-district-judge-emmet-g-sullivan-overturns-the-conviction-of-former-alaska-senator-ted-stevens.md)
-_Context: U.S. District Court for the District of Columbia, Alaska, United States, Ted Stevens, United States Senate, conviction, Emmet Sullivan_
+_Context: United States Senate, Emmet Sullivan, Alaska, U.S. District Court for the District of Columbia, Ted Stevens, United States, conviction_
 
 ##### Peru
 ### [ Former Peruvian President Alberto Fujimori is convicted of violating human rights and imprisoned until 2034. ](/news/2009/04/7/former-peruvian-president-alberto-fujimori-is-convicted-of-violating-human-rights-and-imprisoned-until-2034.md)
-_Context: human rights, jail, Peru, Alberto Fujimori, convicted, President_
+_Context: human rights, jail, Alberto Fujimori, President, Peru, convicted_
 
 ##### Malaysia
 ### [ Malaysia holds by-elections in Bukit Selambau, Bukit Gantang, and Batang Ai. ](/news/2009/04/7/malaysia-holds-by-elections-in-bukit-selambau-bukit-gantang-and-batang-ai.md)
-_Context: Batang Ai, Bukit Gantang, by-election, Malaysia, Bukit Selambau_
+_Context: Bukit Selambau, by-election, Batang Ai, Bukit Gantang, Malaysia_
 
 ##### demonstration
 ### [ Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. ](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.md)
-_Context: demonstration, protesters, absolute majority, Moldova, election, Parliament, PCRM, Chisinau_
+_Context: demonstration, election, protesters, Parliament, Chisinau, Moldova, absolute majority, PCRM_
 
 ##### shooting
 ### [ Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. ](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-shooting-in-landshut-bavaria-germany.md)
-_Context: German, shooting, Bavaria, Landshut_
+_Context: Bavaria, shooting, German, Landshut_
 
 ##### Fokker F27
 ### [ Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. ](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.md)
-_Context: airliner, crashes, Fokker F27, Indonesia, West Java, Bandung_
+_Context: Bandung, crashes, airliner, West Java, Indonesia, Fokker F27_
 
 ##### France
 ### [ French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. ](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.md)
-_Context: Isere, France, French police, ETA, raid, Grenoble, bomb_
+_Context: ETA, bomb, Isere, Grenoble, French police, raid, France_
 
 ##### Australia
 ### [ Australia's government announces a A$43-billion investment for the National Broadband Network. ](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.md)
-_Context: National Broadband Network, Australia, A$, Government of Australia, investment_
+_Context: Australia, A$, Government of Australia, investment, National Broadband Network_
 
 ##### General Assembly
 ### [ The General Assembly legalizes same-sex marriage in Vermont, United States. ](/news/2009/04/7/the-general-assembly-legalizes-same-sex-marriage-in-vermont-united-states.md)
-_Context: United States, same-sex marriage, General Assembly, Vermont, legalizes_
+_Context: General Assembly, legalizes, same-sex marriage, Vermont, United States_
 
 ## [Previous Day...](/news/2009/04/6/index.md)
 

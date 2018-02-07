@@ -5,11 +5,11 @@ Formats: [HTML](2005/05/27/index.html)  [JSON](2005/05/27/index.json)  [XML](200
 
 ##### King Fahd
 ### [ The King Fahd of Saudi Arabia, has been taken to hospital, overtly for tests; however, the BBC quotes an unofficial source who claims the King has water in his lungs. ](/news/2005/05/27/the-king-fahd-of-saudi-arabia-has-been-taken-to-hospital-overtly-for-tests-however-the-bbc-quotes-an-unofficial-source-who-claims-the-k.md)
-_Context: lungs, King Fahd, BBC, hospital_
+_Context: hospital, lungs, BBC, King Fahd_
 
 ##### Qur'an desecration by US military
 ### [ Qur'an desecration by US military: Protests have occurred in Egypt, Pakistan, Jordan, Lebanon and Malaysia after the US military admitted that the Qur'an had been "mishandled" by soldiers. ](/news/2005/05/27/qur-an-desecration-by-us-military-protests-have-occurred-in-egypt-pakistan-jordan-lebanon-and-malaysia-after-the-us-military-admitted-t.md)
-_Context: Jordan, Pakistan, Egypt, Qur'an desecration by US military, Qur'an, Lebanon, Malaysia, US military_
+_Context: US military, Malaysia, Qur'an, Jordan, Lebanon, Egypt, Qur'an desecration by US military, Pakistan_
 
 ##### Bundesrat of Germany
 ### [ The Bundesrat of Germany ratifies the Treaty establishing a Constitution for Europe. ](/news/2005/05/27/the-bundesrat-of-germany-ratifies-the-treaty-establishing-a-constitution-for-europe.md)
@@ -17,7 +17,7 @@ _Context: European constitution, Bundesrat of Germany_
 
 ##### Australia
 ### [ Australian Schapelle Corby has been found guilty by a Bali court of importing a narcotic into Indonesia. She has appealed the AU$13,875 fine and the 20-year jail sentence. ](/news/2005/05/27/australian-schapelle-corby-has-been-found-guilty-by-a-bali-court-of-importing-a-narcotic-into-indonesia-she-has-appealed-the-au-13-875-fin.md)
-_Context: Schapelle Corby, Australia, narcotic, Indonesia, Australian Dollar, Bali_
+_Context: Australian Dollar, Bali, Australia, narcotic, Schapelle Corby, Indonesia_
 
 ##### Federal Court of Australia
 ### [ The Federal Court of Australia rejects an attempt from ](/news/2005/05/27/the-federal-court-of-australia-rejects-an-attempt-from.md)
@@ -25,23 +25,23 @@ _Context: Federal Court of Australia_
 
 ##### World Trade Organization
 ### [ The 148 members of the World Trade Organization officially appoint the former European Union Trade Commissioner, Pascal Lamy, as its 5th Director-General. ](/news/2005/05/27/the-148-members-of-the-world-trade-organization-officially-appoint-the-former-european-union-trade-commissioner-pascal-lamy-as-its-5th-di.md)
-_Context: World Trade Organization, Director-General, Pascal Lamy, European Union_
+_Context: Pascal Lamy, World Trade Organization, European Union, Director-General_
 
 ##### Basque
 ### [ The majority of members of Basque parliament, Spain, condemn the ETA bomb attack in Madrid, though the communists abstain. A bomb explodes later in a Basque train station. ](/news/2005/05/27/the-majority-of-members-of-basque-parliament-spain-condemn-the-eta-bomb-attack-in-madrid-though-the-communists-abstain-a-bomb-explodes.md)
-_Context: Basque, abstain, ETA, Madrid, Spain, Basque_
+_Context: Basque, ETA, Basque, Madrid, Spain, abstain_
 
 ##### BBC
 ### [ The planned 48 hour strike at the BBC in Britain is called off, unions announce, following talks. ](/news/2005/05/27/the-planned-48-hour-strike-at-the-bbc-in-britain-is-called-off-unions-announce-following-talks.md)
-_Context: United Kingdom, BBC_
+_Context: BBC, United Kingdom_
 
 ##### Islamabad
 ### [ 14 people die as a bomb explodes near a shrine in Islamabad, Pakistan. ](/news/2005/05/27/14-people-die-as-a-bomb-explodes-near-a-shrine-in-islamabad-pakistan.md)
-_Context: Islamabad, Pakistan_
+_Context: Pakistan, Islamabad_
 
 ##### 2005 elections
 ### [ Ethiopian general elections: European Union observers report that the National Elections Board of Ethiopia (NEBE) may be losing control of the vote counting for the recent May 15 election, potentially marring the most open election in Ethiopian history. Meanwhile the NEBE has postponed announcement of the election's provisional results until June 8, due to the volume of complaints of election irregularities. ](/news/2005/05/27/ethiopian-general-elections-european-union-observers-report-that-the-national-elections-board-of-ethiopia-nebe-may-be-losing-control-of.md)
-_Context: May 15, 2005 elections, June 8, European Union_
+_Context: June 8, 2005 elections, European Union, May 15_
 
 ## [Previous Day...](/news/2005/05/26/index.md)
 

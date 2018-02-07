@@ -13,7 +13,7 @@ _Context: Hungarian Prime Minister, Ferenc Gyurcsny, Romania_
 
 ##### John Kerry
 ### [ Hundreds gather at the Ohio statehouse to demand a recount of votes, citing fraud that took votes from John Kerry and gave them to George W. Bush. A lawsuit challenging the Volusia County, Florida, election is thrown out for being a day late. The suit claims paperwork is missing from 59 of Volusia's 179 precincts and that precinct printouts show different numbers. ](/news/2004/12/5/hundreds-gather-at-the-ohio-statehouse-to-demand-a-recount-of-votes-citing-fraud-that-took-votes-from-john-kerry-and-gave-them-to-george-w.md)
-_Context: George W. Bush, John Kerry, Volusia County, Florida_
+_Context: George W. Bush, Volusia County, Florida, John Kerry_
 
 ##### Politics of Thailand
 ### [ The Thai government drops millions of origami cranes on its restive, predominantly Muslim provinces of Narathiwat, Pattani and Yala, saying that they are a gesture of goodwill and peace. ](/news/2004/12/5/the-thai-government-drops-millions-of-origami-cranes-on-its-restive-predominantly-muslim-provinces-of-narathiwat-pattani-and-yala-saying.md)
@@ -25,15 +25,15 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Prime Minister
 ### [ French Prime Minister Jean-Pierre Raffarin seeks to ban Hizbullah's TV channel al-Manar from broadcasting in France due to purported anti-Semitic content, most recently involving a commentator speaking of "Zionist attempts to transmit AIDS to Arab countries". al-Manar claims to be anti-Israeli rather than anti-Semitic. ](/news/2004/12/5/french-prime-minister-jean-pierre-raffarin-seeks-to-ban-hizbullah-s-tv-channel-al-manar-from-broadcasting-in-france-due-to-purported-anti-s.md)
-_Context: Arab countries, Zionist, anti-Semitic, Jean-Pierre Raffarin, Prime Minister, al-Manar, AIDS, Israel, Hizbullah_
+_Context: Israel, anti-Semitic, Arab countries, Zionist, al-Manar, Jean-Pierre Raffarin, AIDS, Hizbullah, Prime Minister_
 
 ##### prisoner exchange
 ### [ In a prisoner exchange between Israel and Egypt, Egypt releases Azzam Azzam, an Israeli Druze businessman sentenced to 15 years imprisonment by Egypt in 1997 on charges of spying for Israel, while Israel releases six Egyptian students who allegedly infiltrated Israel to kidnap soldiers. ](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-egypt-releases-azzam-azzam-an-israeli-druze-businessman-sentenced-to-15-years-imprisonmen.md)
-_Context: Azzam Azzam, Druze, Egypt, spying, prisoner exchange, Israel_
+_Context: Egypt, Druze, prisoner exchange, Israel, Azzam Azzam, spying_
 
 ##### agriculture
 ### [ With more than 1000 people dead or missing, devastation in the northern agricultural regions, and damaged infrastructure after Monday's storm and Thursday's Typhoon Nanmadol, Philippines President Gloria Macapagal-Arroyo suspends logging and pledges to prosecute violators. ](/news/2004/12/5/with-more-than-1000-people-dead-or-missing-devastation-in-the-northern-agricultural-regions-and-damaged-infrastructure-after-monday-s-sto.md)
-_Context: Typhoon Nanmadol, President, agriculture, Philippines, Gloria Macapagal-Arroyo_
+_Context: agriculture, Typhoon Nanmadol, Gloria Macapagal-Arroyo, President, Philippines_
 
 ## [Previous Day...](/news/2004/12/4/index.md)
 

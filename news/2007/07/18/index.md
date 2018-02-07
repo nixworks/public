@@ -9,15 +9,15 @@ _Context: TAM Linhas Areas Flight 3054_
 
 ##### steam pipe explodes
 ### [ A steam pipe explodes in Midtown New York City outside Grand Central Terminal; killing 1 person, injuring 44 and causing evacuations and delays throughout the area. ](/news/2007/07/18/a-steam-pipe-explodes-in-midtown-new-york-city-outside-grand-central-terminal-killing-1-person-injuring-44-and-causing-evacuations-and-de.md)
-_Context: Grand Central Terminal, steam pipe explodes, evacuation centers, Midtown, New York City_
+_Context: evacuation centers, New York City, Grand Central Terminal, steam pipe explodes, Midtown_
 
 ##### ''Nature''
 ### [ A study in "Nature" confirms that the island of Britain was severed from continental Europe by a giant flood that cut away the Weald-Artois Anticline about 200,000 years ago. ](/news/2007/07/18/a-study-in-nature-confirms-that-the-island-of-britain-was-severed-from-continental-europe-by-a-giant-flood-that-cut-away-the-weald-artois.md)
-_Context: ''Nature'', Weald-Artois Anticline, island, flood, Europe, Great Britain_
+_Context: Great Britain, Europe, flood, ''Nature'', island, Weald-Artois Anticline_
 
 ##### the state
 ### [ Florida Governor Charlie Crist ends the state's temporary voluntary moratorium on the death penalty by signing the death warrant of Mark Dean Schwab, convicted in 1992 of kidnapping, raping and murdering an 11-year-old boy in Cocoa, Florida. He is scheduled to die on November 15, 2007. ](/news/2007/07/18/florida-governor-charlie-crist-ends-the-state-s-temporary-voluntary-moratorium-on-the-death-penalty-by-signing-the-death-warrant-of-mark-de.md)
-_Context: Charlie Crist, Florida Governor, 1992, the state, capital punishment, death warrant, Mark Dean Schwab, moratorium, Cocoa, Florida_
+_Context: Charlie Crist, Cocoa, Florida, death warrant, Mark Dean Schwab, moratorium, capital punishment, Florida Governor, 1992, the state_
 
 ##### Atlanta Falcons
 ### [ Atlanta Falcons quarterback Michael Vick and three others are indicted by a federal grand jury in connection with the Bad Newz Kennels dog fighting investigation. ](/news/2007/07/18/atlanta-falcons-quarterback-michael-vick-and-three-others-are-indicted-by-a-federal-grand-jury-in-connection-with-the-bad-newz-kennels-dog.md)
@@ -33,11 +33,11 @@ Envoys in Beijing on Wednesday worked towards a deal to press North Korea to dis
 
 ##### Iraq War
 ### [ Iraq War: The US Senate, with a 52-47 vote, fails by 8 votes to pass a bill that would have required withdrawal of all US troops (except for a small force) from Iraq by April 30, 2008.](/news/2007/07/18/iraq-war-the-us-senate-with-a-52-47-vote-fails-by-8-votes-to-pass-a-bill-that-would-have-required-withdrawal-of-all-us-troops-except-fo.md)
-_Context: bill that would have required withdrawal of all US troops, Iraq War, US Senate_
+_Context: Iraq War, bill that would have required withdrawal of all US troops, US Senate_
 
 ##### China
 ### [ As China struggles to deal with flooding in the provinces of Sichuan, Guizhou, Anhui, Hubei, and Jiangsu, the city of Chongqing is hit with the largest rainstorm in the city's meteorological records, killing 32. 12 people are reported missing. The city's transportation network has been shut down completely. ](/news/2007/07/18/as-china-struggles-to-deal-with-flooding-in-the-provinces-of-sichuan-guizhou-anhui-hubei-and-jiangsu-the-city-of-chongqing-is-hit-with.md)
-_Context: flooding, Sichuan, Anhui, China, Guizhou, Jiangsu, Hubei, Chongqing_
+_Context: China, Anhui, Sichuan, Chongqing, flooding, Hubei, Jiangsu, Guizhou_
 
 ## [Previous Day...](/news/2007/07/17/index.md)
 

@@ -21,7 +21,7 @@ Hamas military wing claims responsibility for more than 50 mortar shells fired a
 
 ##### polar bear
 ### [The polar bear Knut dies at the Berlin Zoo. ](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.md)
-_Context: Knut, Berlin Zoo, polar bear_
+_Context: polar bear, Berlin Zoo, Knut_
 
 ##### Tripura
 ### [A fire at a refugee camp in Tripura, northeastern India, kills at least 14 people. ](/news/2011/03/19/a-fire-at-a-refugee-camp-in-tripura-northeastern-india-kills-at-least-14-people.md)
@@ -41,11 +41,11 @@ Repercussions of Japan&#39;s triple disaster came into clearer focus Monday afte
 
 ##### U.S. Coast Guard
 ### [The U.S. Coast Guard begins investigating a reported oil spill in the Gulf of Mexico. ](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, U.S. Coast Guard, oil spill_
+_Context: U.S. Coast Guard, oil spill, Gulf of Mexico_
 
 ##### Carlos Pascual
 ### [Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. ](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.md)
-_Context: Carlos Pascual, President, Felipe Calderon, United States Ambassador to Mexico_
+_Context: President, United States Ambassador to Mexico, Felipe Calderon, Carlos Pascual_
 
 ##### Edinburgh University
 ### [Edinburgh University students vote in favour of boycotting Israeli goods and services, citing Israeli treatment of Palestinians.](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.md)
@@ -73,15 +73,15 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Iraq War
 ### [Anti-Iraq War demonstrators are arrested outside the White House in Washington DC including Daniel Ellsberg, the man who leaked the Pentagon Papers. ](/news/2011/03/19/anti-iraq-war-demonstrators-are-arrested-outside-the-white-house-in-washington-dc-including-daniel-ellsberg-the-man-who-leaked-the-pentagon.md)
-_Context: White House, Pentagon Papers, Iraq War, Daniel Ellsberg, Washington DC_
+_Context: Daniel Ellsberg, White House, Pentagon Papers, Washington DC, Iraq War_
 
 ##### Peru
 ### [Peruvian President Alan Garcia swears in Rosario Fernandez as Prime Minister, after the sudden resignation of Jose Antonio Chang. ](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.md)
-_Context: Rosario Fernandez, Alan Garcia, President, Prime Minister, Jose Antonio Chang, Peru_
+_Context: Alan Garcia, President, Jose Antonio Chang, Rosario Fernandez, Peru, Prime Minister_
 
 ##### moon
 ### [The moon reaches its closest point to the Earth since March 1993, and will appear 30% brighter and 14% larger than at its furthest point. ](/news/2011/03/19/the-moon-reaches-its-closest-point-to-the-earth-since-march-1993-and-will-appear-30-brighter-and-14-larger-than-at-its-furthest-point.md)
-_Context: moon, closest point_
+_Context: closest point, moon_
 
 ## [Previous Day...](/news/2011/03/18/index.md)
 

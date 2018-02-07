@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/28/index.html)  [JSON](2012/10/28/index.json)  [XML](201
 
 ##### Damascus
 ### [Opposition activists report at least 128 deaths around the country, as the UN-brokered ceasefire appears to collapse. The Syrian Army bombards three Damascus districts and the city of Bara near Idlib, killing at least 22 people. ](/news/2012/10/28/opposition-activists-report-at-least-128-deaths-around-the-country-as-the-un-brokered-ceasefire-appears-to-collapse-the-syrian-army-bombar.md)
-_Context: Damascus, Idlib_
+_Context: Idlib, Damascus_
 
 ##### eight car bombings
 ### [Iraqi insurgency: Car bombings in and around Baghdad kill 15 and injure 33 others. ](/news/2012/10/28/iraqi-insurgency-car-bombings-in-and-around-baghdad-kill-15-and-injure-33-others.md)

@@ -9,15 +9,15 @@ _Context: Ronald Reagan, Alzheimer's disease, 41st_
 
 ##### pseudomembranous colitis
 ### [ An outbreak of pseudomembranous colitis, a "Clostridium difficile" infection, is believed to have killed as many as 89 people in hospitals in Montreal, Quebec and Calgary, Alberta. ](/news/2004/06/5/an-outbreak-of-pseudomembranous-colitis-a-clostridium-difficile-infection-is-believed-to-have-killed-as-many-as-89-people-in-hospitals.md)
-_Context: Montreal, Calgary-based, pseudomembranous colitis, Clostridium difficile_
+_Context: Calgary-based, Montreal, pseudomembranous colitis, Clostridium difficile_
 
 ##### Nol Mamre
 ### [ Nol Mamre, mayor of Bgles (near Bordeaux), France, celebrates the first same-sex marriage in France, between Bertrand Charpentier and Stphane Chapin. Interior minister Dominique de Villepin states that the wedding is illegal and announces that the mayor will face censure. Mamre claims he is interpreting French law, inspired by similar actions in San Francisco and other US cities. ](/news/2004/06/5/noel-mamere-mayor-of-begles-near-bordeaux-france-celebrates-the-first-same-sex-marriage-in-france-between-bertrand-charpentier-and-st.md)
-_Context: San Francisco, Bordeaux, Nol Mamre, gay marriage, Dominique de Villepin, similar actions, Bgles_
+_Context: Dominique de Villepin, similar actions, San Francisco, gay marriage, Bordeaux, Bgles, Nol Mamre_
 
 ##### North Light
 ### [ North Light wins the 225th Epsom Derby, the second race in the British Triple Crown of Thoroughbred Racing. ](/news/2004/06/5/north-light-wins-the-225th-epsom-derby-the-second-race-in-the-british-triple-crown-of-thoroughbred-racing.md)
-_Context: Triple Crown of Thoroughbred Racing, Epsom Derby, North Light_
+_Context: North Light, Triple Crown of Thoroughbred Racing, Epsom Derby_
 
 ##### Belmont Stakes
 ### [ Belmont Stakes: Birdstone defeats Smarty Jones to prevent Smarty Jones from winning the United States Triple Crown of Thoroughbred Racing. ](/news/2004/06/5/belmont-stakes-birdstone-defeats-smarty-jones-to-prevent-smarty-jones-from-winning-the-united-states-triple-crown-of-thoroughbred-racing.md)

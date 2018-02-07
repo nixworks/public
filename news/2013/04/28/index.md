@@ -5,7 +5,7 @@ Formats: [HTML](2013/04/28/index.html)  [JSON](2013/04/28/index.json)  [XML](201
 
 ##### Syria
 ### [Syrian rebels capture three military airbases in the north. ](/news/2013/04/28/syrian-rebels-capture-three-military-airbases-in-the-north.md)
-_Context: Syria, Free Syrian Army_
+_Context: Free Syrian Army, Syria_
 
 ##### technicals
 ### [Men in technicals, pickup trucks with anti-aircraft guns, block off and surround the Libyan foreign ministry in the capital Tripoli demanding a ban on Gaddafi-era officials working in the government ](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.md)
@@ -25,11 +25,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Albuquerque
 ### [A man stabs and wounds four people at a church in Albuquerque, New Mexico, United States. ](/news/2013/04/28/a-man-stabs-and-wounds-four-people-at-a-church-in-albuquerque-new-mexico-united-states.md)
-_Context: United States, New Mexico, Albuquerque_
+_Context: United States, Albuquerque, New Mexico_
 
 ##### Italy
 ### [In Italy, a man shoots and wounds two policemen outside Palazzo Chigi, during the swearing ceremony of the new Prime Minister Enrico Letta. ](/news/2013/04/28/in-italy-a-man-shoots-and-wounds-two-policemen-outside-palazzo-chigi-during-the-swearing-ceremony-of-the-new-prime-minister-enrico-letta.md)
-_Context: Palazzo Chigi, Italy, Enrico Letta, Italian Prime Minister_
+_Context: Enrico Letta, Italy, Italian Prime Minister, Palazzo Chigi_
 
 ##### Valley Springs, California
 ### [In Valley Springs, California (a rural town of about 2,500 people) authorities are searching for an intruder who fatally stabbed an 8-year-old girl, Leila Fowler, at her home. After her 12-year-old brother discovered him, the intruder fled. ](/news/2013/04/28/in-valley-springs-california-a-rural-town-of-about-2-500-people-authorities-are-searching-for-an-intruder-who-fatally-stabbed-an-8-year-o.md)

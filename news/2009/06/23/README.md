@@ -13,7 +13,7 @@ Additional stress was found where the wings attach to the sides of the plane, bu
 
 ##### French National Assembly
 ### [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md)
-_Context: burqa, French National Assembly, France_
+_Context: burqa, France, French National Assembly_
 
 ##### Ukraine
 ### [ Ukraine sets 17 January 2010 as the date for the next presidential election said to be crucial for its future direction. ](/news/2009/06/23/ukraine-sets-17-january-2010-as-the-date-for-the-next-presidential-election-said-to-be-crucial-for-its-future-direction.md)
@@ -29,11 +29,11 @@ President McAleese has described recent racist attacks in Belfast as distressing
 
 ##### New York State
 ### [ In the New York State legislative deadlock, Senate Democrats lock themselves into the Senate chamber due to a refusal to accept Pedro Espada as Senate President. ](/news/2009/06/23/in-the-new-york-state-legislative-deadlock-senate-democrats-lock-themselves-into-the-senate-chamber-due-to-a-refusal-to-accept-pedro-espad.md)
-_Context: legislative deadlock, New York State, Pedro Espada_
+_Context: Pedro Espada, New York State, legislative deadlock_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev meets Egyptian President Hosni Mubarak in Cairo at the start of a four-day trip to Africa. ](/news/2009/06/23/russian-president-dmitry-medvedev-meets-egyptian-president-hosni-mubarak-in-cairo-at-the-start-of-a-four-day-trip-to-africa.md)
-_Context: Dmitry Medvedev, Russian President, Cairo, Egypt, Hosni Mubarak, Africa, President, Russia_
+_Context: Russia, Dmitry Medvedev, President, Russian President, Hosni Mubarak, Cairo, Africa, Egypt_
 
 ##### Antigua and Barbuda
 ### [ The government of Antigua and Barbuda dismisses its chief financial regulator, Leroy King, following claims of a collaboration with Allen Stanford. ](/news/2009/06/23/the-government-of-antigua-and-barbuda-dismisses-its-chief-financial-regulator-leroy-king-following-claims-of-a-collaboration-with-allen-s.md)

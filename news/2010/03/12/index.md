@@ -21,7 +21,7 @@ In response to rocket fired at Eshkol Regional Council, Israeli jets strikes smu
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI is "distraught" by news alleged of child sexual abuse in Catholic dioceses in Germany, according to Archbishop Robert Zollitsch, as the church also faces paedophilia scandals in Ireland, Austria, and the Netherlands, while Pope Benedict defends clerical celibacy, calling it a symbol of "full devotion" and of "giving oneself to God and to others." ](/news/2010/03/12/pope-benedict-xvi-is-distraught-by-news-alleged-of-child-sexual-abuse-in-catholic-dioceses-in-germany-according-to-archbishop-robert-zoll.md)
-_Context: Austria, Robert Zollitsch, celibacy, paedophilia, sexual abuse, German, Netherlands, Pope Benedict XVI, Irish_
+_Context: Robert Zollitsch, Netherlands, German, Irish, celibacy, Austria, sexual abuse, Pope Benedict XVI, paedophilia_
 
 ##### Karl Rove
 ### [Karl Rove appears on British television to promote waterboarding and speaks of his pride that "we used techniques that broke the will of these terrorists", saying these techniques were "appropriate". ](/news/2010/03/12/karl-rove-appears-on-british-television-to-promote-waterboarding-and-speaks-of-his-pride-that-we-used-techniques-that-broke-the-will-of-the.md)
@@ -29,7 +29,7 @@ A top aide to former US president George W Bush has defended the use of harsh in
 
 ##### Arabic Network for Human Rights Information
 ### [The Arabic Network for Human Rights Information and the Committee to Protect Journalists (CPJ) alleges the Egyptian interior ministry manipulated the legal system to target blogger Wael Abbas who posted videos of police corruption and abuse online and has been jailed for six months for "providing a telecommunications service to the public without permission". ](/news/2010/03/12/the-arabic-network-for-human-rights-information-and-the-committee-to-protect-journalists-cpj-alleges-the-egyptian-interior-ministry-manipu.md)
-_Context: Wael Abbas, Egypt, Arabic Network for Human Rights Information, Committee to Protect Journalists_
+_Context: Committee to Protect Journalists, Arabic Network for Human Rights Information, Egypt, Wael Abbas_
 
 ##### Irish
 ### [Irish authorities release three of the seven Muslims they detained over an alleged plot to murder Swedish cartoonist Lars Vilks. Vilks says he has not been put off the idea of visiting Ireland by the threat. ](/news/2010/03/12/irish-authorities-release-three-of-the-seven-muslims-they-detained-over-an-alleged-plot-to-murder-swedish-cartoonist-lars-vilks-vilks-says.md)
@@ -45,15 +45,15 @@ Thai capital braces for violence as anti-government red shirts prepare for major
 
 ##### United Nations
 ### [The United Nations Special Rapporteur to Burma Tomas Quintana calls for investigations into war crimes and crimes against humanity perpetrated against Burmese civilians. ](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.md)
-_Context: crimes against humanity, Burma, United Nations special human rights envoy, war crime, United Nations_
+_Context: United Nations, United Nations special human rights envoy, crimes against humanity, war crime, Burma_
 
 ##### conflict
 ### [Darfur peace talks are threatened by new violence as Sudanese army steps up military operations against a major Darfur rebel faction. ](/news/2010/03/12/darfur-peace-talks-are-threatened-by-new-violence-as-sudanese-army-steps-up-military-operations-against-a-major-darfur-rebel-faction.md)
-_Context: Sudan, conflict_
+_Context: conflict, Sudan_
 
 ##### Russia
 ### [Russia signs a nuclear reactor deal with India which will see it build 16 nuclear reactors in India. ](/news/2010/03/12/russia-signs-a-nuclear-reactor-deal-with-india-which-will-see-it-build-16-nuclear-reactors-in-india.md)
-_Context: Russia, India_
+_Context: India, Russia_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen departs for the United States ahead of his Saint Patrick's Day engagements with President Barack Obama. ](/news/2010/03/12/taoiseach-brian-cowen-departs-for-the-united-states-ahead-of-his-saint-patrick-s-day-engagements-with-president-barack-obama.md)
@@ -65,7 +65,7 @@ Eleven rare Siberian tigers kept in small cages and fed only chicken bones have 
 
 ##### Jacksonville, Florida
 ### [American photographer Jill Sonsteby from Jacksonville, Florida captures a zebra putting its head inside the mouth of a hippopotamus and surviving at Zurich Zoologischer Garten. ](/news/2010/03/12/american-photographer-jill-sonsteby-from-jacksonville-florida-captures-a-zebra-putting-its-head-inside-the-mouth-of-a-hippopotamus-and-surv.md)
-_Context: hippopotamus, Jacksonville, Florida, zebra, Zurich Zoologischer Garten_
+_Context: zebra, hippopotamus, Zurich Zoologischer Garten, Jacksonville, Florida_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, in a rare moment of publicity since her withdrawal from public life, puts her weight and "heavy heart" behind a campaign by Combat Stress for the mental health of ex-servicemen in Afghanistan and Iraq. ](/news/2010/03/12/margaret-thatcher-in-a-rare-moment-of-publicity-since-her-withdrawal-from-public-life-puts-her-weight-and-heavy-heart-behind-a-campaign.md)
@@ -73,7 +73,7 @@ LONDON: The former British prime minister Margaret Thatcher yesterday threw her 
 
 ##### Sahil Saeed
 ### [Sahil Saeed's father returns to the United Kingdom from Pakistan to work with police there on his son's case. ](/news/2010/03/12/sahil-saeed-s-father-returns-to-the-united-kingdom-from-pakistan-to-work-with-police-there-on-his-son-s-case.md)
-_Context: Sahil Saeed, United Kingdom, Pakistan_
+_Context: Pakistan, Sahil Saeed, United Kingdom_
 
 ##### hardcore porn
 ### [The award-winning hardcore porn director Anna Arrowsmith is selected as a Liberal Democrat candidate for Gravesham in Kent to fight the 2010 general election. ](/news/2010/03/12/the-award-winning-hardcore-porn-director-anna-arrowsmith-is-selected-as-a-liberal-democrat-candidate-for-gravesham-in-kent-to-fight-the-2010.md)

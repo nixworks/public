@@ -29,7 +29,7 @@ The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot;
 
 ##### Panamanian general election, 2014
 ### [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md)
-_Context: Panama, Panamanian general election, 2014_
+_Context: Panamanian general election, 2014, Panama_
 
 ## [Previous Day...](/news/2014/05/3/index.md)
 

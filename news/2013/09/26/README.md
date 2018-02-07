@@ -25,7 +25,7 @@ UNITED NATIONS (Reuters) - The United States and Russia reached an agreement on 
 
 ##### South Korea
 ### [South Korean prosecutors charge Unified Progressive Party MP Lee Seok-ki with plotting an armed revolt in support of North Korea. ](/news/2013/09/26/south-korean-prosecutors-charge-unified-progressive-party-mp-lee-seok-ki-with-plotting-an-armed-revolt-in-support-of-north-korea.md)
-_Context: Unified Progressive Party, North Korea, South Korea_
+_Context: South Korea, Unified Progressive Party, North Korea_
 
 ##### United Nations
 ### [The UN-backed Special Court for Sierra Leone in The Hague rejects an appeal against a conviction of former President of Liberia Charles Taylor on war crime charges. ](/news/2013/09/26/the-un-backed-special-court-for-sierra-leone-in-the-hague-rejects-an-appeal-against-a-conviction-of-former-president-of-liberia-charles-tayl.md)

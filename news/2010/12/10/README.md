@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/10/index.html)  [JSON](2010/12/10/index.json)  [XML](201
 
 ##### Somali pirates
 ### [Somali pirates hijack a Liberian ship 80 nautical miles east of the border between Tanzania and Mozambique, in their most southerly attack yet. ](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.md)
-_Context: Liberia, hijack, Mozambique, Somali pirates, Tanzania_
+_Context: Mozambique, hijack, Liberia, Somali pirates, Tanzania_
 
 ##### Northwestern Pakistan
 ### [At least 15 people are killed and several dozen others sustain wounds during a suicide attack at a Shia hospital in Khyber Pakhtunkhwa. ](/news/2010/12/10/at-least-15-people-are-killed-and-several-dozen-others-sustain-wounds-during-a-suicide-attack-at-a-shia-hospital-in-khyber-pakhtunkhwa.md)
@@ -25,7 +25,7 @@ _Context: India, Kashmir_
 
 ##### Picasso
 ### [An auction of Picasso paintings is postponed in Paris. ](/news/2010/12/10/an-auction-of-picasso-paintings-is-postponed-in-paris.md)
-_Context: Paris, Picasso_
+_Context: Picasso, Paris_
 
 ##### cocaine
 ### [Traces of cocaine "likely" triggered the death of Gerry Ryan in April. ](/news/2010/12/10/traces-of-cocaine-likely-triggered-the-death-of-gerry-ryan-in-april.md)
@@ -53,7 +53,7 @@ The British government has trained a paramilitary force accused of hundreds of k
 
 ##### World War II
 ### [For the first time since World War II, German troops are stationed in France. ](/news/2010/12/10/for-the-first-time-since-world-war-ii-german-troops-are-stationed-in-france.md)
-_Context: World War II, France, German_
+_Context: German, World War II, France_
 
 ##### WikiLeaks
 ### [Christine Assange, mother of the imprisoned WikiLeaks spokesperson Julian Assange, expresses her anger with the Australian government, especially Julia Gillard, on the Seven Network. ](/news/2010/12/10/christine-assange-mother-of-the-imprisoned-wikileaks-spokesperson-julian-assange-expresses-her-anger-with-the-australian-government-espec.md)
@@ -61,7 +61,7 @@ London, Dec 10 (DPA) WikiLeaks founder Julian Assange, who is being held in extr
 
 ##### Italy
 ### [Prosecutors in Italy open an investigation into allegations that Prime Minister Silvio Berlusconi bought MPs before important votes. ](/news/2010/12/10/prosecutors-in-italy-open-an-investigation-into-allegations-that-prime-minister-silvio-berlusconi-bought-mps-before-important-votes.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Italy, Italian Prime Minister, Silvio Berlusconi_
 
 ##### Croatia
 ### [Prosecutors in Croatia issue an arrest warrant for former Prime Minister Ivo Sanader on suspected corruption charges. He is then arrested. ](/news/2010/12/10/prosecutors-in-croatia-issue-an-arrest-warrant-for-former-prime-minister-ivo-sanader-on-suspected-corruption-charges-he-is-then-arrested.md)
@@ -81,7 +81,7 @@ As of today Taca Peru will depart from Lima every Monday, Wednesday, Friday and 
 
 ##### Russia
 ### [Russian President Dmitry Medvedev is to seek a second term, according to aide Arkady Dvorkovich. ](/news/2010/12/10/russian-president-dmitry-medvedev-is-to-seek-a-second-term-according-to-aide-arkady-dvorkovich.md)
-_Context: Russia, Dmitry Medvedev, Arkady Dvorkovich_
+_Context: Arkady Dvorkovich, Russia, Dmitry Medvedev_
 
 ##### Dublin
 ### [A school in Dublin threatens to expel a student who led a protest march against education cuts outlined by the Irish government. ](/news/2010/12/10/a-school-in-dublin-threatens-to-expel-a-student-who-led-a-protest-march-against-education-cuts-outlined-by-the-irish-government.md)

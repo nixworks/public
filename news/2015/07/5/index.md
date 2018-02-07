@@ -25,7 +25,7 @@ Early Sunday, a delegation from San Antonio was in Bonn, Germany, to witness the
 
 ##### 2015 Pacific typhoon season
 ### [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md)
-_Context: Philippines, Palawan, 2015 Pacific typhoon season_
+_Context: Philippines, 2015 Pacific typhoon season, Palawan_
 
 ##### wildfire
 ### [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md)

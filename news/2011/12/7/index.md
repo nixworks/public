@@ -5,11 +5,11 @@ Formats: [HTML](2011/12/7/index.html)  [JSON](2011/12/7/index.json)  [XML](2011/
 
 ##### United States
 ### [The United States commemorates the 70th anniversary of the attack on Pearl Harbor, Hawai'i. ](/news/2011/12/7/the-united-states-commemorates-the-70th-anniversary-of-the-attack-on-pearl-harbor-hawai-i.md)
-_Context: Hawai'i, Pearl Harbor, attack on Pearl Harbor, United States_
+_Context: Pearl Harbor, United States, Hawai'i, attack on Pearl Harbor_
 
 ##### Japan
 ### [The board of Japan's Olympus Corporation announces its plans to resign early next year due to its accounting scandal. ](/news/2011/12/7/the-board-of-japan-s-olympus-corporation-announces-its-plans-to-resign-early-next-year-due-to-its-accounting-scandal.md)
-_Context: Japan, Olympus scandal, Olympus Corp_
+_Context: Olympus scandal, Olympus Corp, Japan_
 
 ##### President
 ### [The former President of Israel Moshe Katsav arrives at a prison outside Tel Aviv to start a seven year term for rape. ](/news/2011/12/7/the-former-president-of-israel-moshe-katsav-arrives-at-a-prison-outside-tel-aviv-to-start-a-seven-year-term-for-rape.md)
@@ -29,7 +29,7 @@ The first and only president of the Soviet Union, Mikhail Gorbachev has said tha
 
 ##### Egypt
 ### [Egypt's Freedom and Justice Party claims to have won a majority of seats in the runoff election. ](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.md)
-_Context: Egypt, lower house of the national parliament, Freedom and Justice Party_
+_Context: Egypt, Freedom and Justice Party, lower house of the national parliament_
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency officially gives up attempting to rescue Fobos-Grunt and Yinghuo-1, and expects them to fall back to Earth in January 2012. ](/news/2011/12/7/the-russian-federal-space-agency-officially-gives-up-attempting-to-rescue-fobos-grunt-and-yinghuo-1-and-expects-them-to-fall-back-to-earth.md)

@@ -9,7 +9,7 @@ Three million Syrian refugees will have registered in neighboring countries as o
 
 ##### Brazil
 ### [Brazil's economy falls into recession. ](/news/2014/08/29/brazil-s-economy-falls-into-recession.md)
-_Context: Brazil, recession_
+_Context: recession, Brazil_
 
 ##### Malaysian Airlines
 ### [Malaysian Airlines announces plans to lay off 6000 staff as a result of a restructuring following the loss of two aircraft in disasters this year. ](/news/2014/08/29/malaysian-airlines-announces-plans-to-lay-off-6000-staff-as-a-result-of-a-restructuring-following-the-loss-of-two-aircraft-in-disasters-this.md)
@@ -33,7 +33,7 @@ _Context: Ebola virus, 2014 West Africa Ebola virus outbreak, Senegal_
 
 ##### United Kingdom
 ### [The United Kingdom raises its terror threat level from "substantial" to "severe" in response to conflicts in Iraq and Syria. ](/news/2014/08/29/the-united-kingdom-raises-its-terror-threat-level-from-substantial-to-severe-in-response-to-conflicts-in-iraq-and-syria.md)
-_Context: Syria, terror threat level, Iraq, United Kingdom_
+_Context: Syria, United Kingdom, terror threat level, Iraq_
 
 ## [Previous Day...](/news/2014/08/28/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/18/index.html)  [JSON](2015/01/18/index.json)  [XML](201
 
 ##### Israeli-Lebanese conflict
 ### [An Israeli helicopter strike near the border with Syria kills two senior IRGC figures and six members of Hezbollah. ](/news/2015/01/18/an-israeli-helicopter-strike-near-the-border-with-syria-kills-two-senior-irgc-figures-and-six-members-of-hezbollah.md)
-_Context: IRGC, Israeli Defence Forces, Israeli-Lebanese conflict, Syria, Hezbollah_
+_Context: Israeli Defence Forces, Syria, Israeli-Lebanese conflict, Hezbollah, IRGC_
 
 ##### Boko Haram
 ### [Boko Haram militants kidnap 80 people and kill three others from villages in north Cameroon. ](/news/2015/01/18/boko-haram-militants-kidnap-80-people-and-kill-three-others-from-villages-in-north-cameroon.md)

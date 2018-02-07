@@ -9,7 +9,7 @@ _Context: State Department, Muammar al-Gaddafi, minaret controversy in Switzerla
 
 ##### sexual abuse
 ### [Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. ](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-the-dutch-catholic-church-apologises-and-the-country-s-religious-leaders-request-an-indepen.md)
-_Context: Salzburg, German, Netherlands, sexual abuse, Pope Benedict XVI_
+_Context: sexual abuse, Netherlands, German, Pope Benedict XVI, Salzburg_
 
 ##### Prince Ernst August of Hanover
 ### [Prince Ernst August of Hanover, husband of Caroline, Princess of Hanover, is fined EUR200,000 by a court in Hildesheim for assaulting a hotelier on Lamu Island in 2000. ](/news/2010/03/9/prince-ernst-august-of-hanover-husband-of-caroline-princess-of-hanover-is-fined-a-200-000-by-a-court-in-hildesheim-for-assaulting-a-hote.md)
@@ -17,11 +17,11 @@ Prince Ernst August of Hanover, he husband of Princess Caroline of Monaco, has b
 
 ##### Solomon Islands
 ### [The first witnesses appear before the Solomon Islands Truth and Reconciliation Commission. ](/news/2010/03/9/the-first-witnesses-appear-before-the-solomon-islands-truth-and-reconciliation-commission.md)
-_Context: Solomon Islands, Truth and Reconciliation Commission_
+_Context: Truth and Reconciliation Commission, Solomon Islands_
 
 ##### Uyghur
 ### [A Uyghur man is sentenced to 16 months imprisonment for spying on a Uyghur community in Sweden and passing information to China. ](/news/2010/03/9/a-uyghur-man-is-sentenced-to-16-months-imprisonment-for-spying-on-a-uyghur-community-in-sweden-and-passing-information-to-china.md)
-_Context: China, Uyghur, Sweden_
+_Context: China, Sweden, Uyghur_
 
 ##### Irish
 ### [Seven people are arrested in Ireland &mdash; five in Waterford and two in Cork &mdash; over an alleged plot to assassinate Swedish artist Lars Vilks. ](/news/2010/03/9/seven-people-are-arrested-in-ireland-mdash-five-in-waterford-and-two-in-cork-mdash-over-an-alleged-plot-to-assassinate-swedish-artist-la.md)
@@ -45,7 +45,7 @@ AS US vice president Joe Biden wrapped up a day of talks with Israeli leaders ye
 
 ##### Christian Association of Nigeria
 ### [The Christian Association of Nigeria says the Nigerian Army ignored warnings before the recent massacre of civilians near Jos. ](/news/2010/03/9/the-christian-association-of-nigeria-says-the-nigerian-army-ignored-warnings-before-the-recent-massacre-of-civilians-near-jos.md)
-_Context: events earlier this year, Nigerian Army, Christian Association of Nigeria, Jos_
+_Context: Christian Association of Nigeria, Nigerian Army, events earlier this year, Jos_
 
 ##### Japan
 ### [Following several decades of "official denial", Japan confirms it permitted nuclear-armed United States vessels to pass through its ports using its Cold War "secret treaties". ](/news/2010/03/9/following-several-decades-of-official-denial-japan-confirms-it-permitted-nuclear-armed-united-states-vessels-to-pass-through-its-ports-us.md)
@@ -57,11 +57,11 @@ Two men who had been staging a sit-in at the offices of the Taxi Regulator in Du
 
 ##### biocontrol
 ### [The first use of a biocontrol agent against a weed in the European Union is approved -- the Japanese insect "Aphalara itadori" will be released at trial sites in England to combat invasive Japanese knotweed. ](/news/2010/03/9/the-first-use-of-a-biocontrol-agent-against-a-weed-in-the-european-union-is-approved-a-the-japanese-insect-aphalara-itadori-will-be-rele.md)
-_Context: European Union, Japanese knotweed, biocontrol, Aphalara itadori, invasive_
+_Context: invasive, Aphalara itadori, Japanese knotweed, biocontrol, European Union_
 
 ##### Burma
 ### [Burma's military junta announces the first law relating to the 2010 general election, concerning the election commission. ](/news/2010/03/9/burma-s-military-junta-announces-the-first-law-relating-to-the-2010-general-election-concerning-the-election-commission.md)
-_Context: general elections, State Peace and Development Council, Burma_
+_Context: State Peace and Development Council, Burma, general elections_
 
 ##### Indonesia
 ### [Indonesian President Susilo Bambang Yudhoyono arrives in Canberra for his "symbolic" three-day visit to Australia. ](/news/2010/03/9/indonesian-president-susilo-bambang-yudhoyono-arrives-in-canberra-for-his-symbolic-three-day-visit-to-australia.md)
@@ -69,7 +69,7 @@ Indonesian president Susilo Bambang Yudhoyono arrives in Australia for talks on 
 
 ##### president
 ### [First President of Rwanda Dominique Mbonyumutwa's son objects to the removal of his father's corpse from the Democracy Stadium in Gitarama, saying it defies a court ruling. ](/news/2010/03/9/first-president-of-rwanda-dominique-mbonyumutwa-s-son-objects-to-the-removal-of-his-father-s-corpse-from-the-democracy-stadium-in-gitarama.md)
-_Context: president, Gitarama, Dominique Mbonyumutwa, Democracy Stadium_
+_Context: Gitarama, president, Democracy Stadium, Dominique Mbonyumutwa_
 
 ##### Dublin
 ### [Dublin's Tallaght Hospital blames "systemic and process failures" for more than 57,000 X-rays taken between 2005 and 2009 not being reviewed by medical professionals and admits at least two patients received incorrect treatment, one of whom has since died and the other who is receiving cancer treatment. ](/news/2010/03/9/dublin-s-tallaght-hospital-blames-systemic-and-process-failures-for-more-than-57-000-x-rays-taken-between-2005-and-2009-not-being-reviewed.md)

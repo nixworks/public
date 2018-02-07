@@ -37,7 +37,7 @@ Once in a while, the global health news is good. Today is one of those days. The
 
 ##### Cuba-United States relations
 ### [President Barack Obama nominates Jeffrey DeLaurentis as the first United States Ambassador to Cuba since 1961. ](/news/2016/09/27/president-barack-obama-nominates-jeffrey-delaurentis-as-the-first-united-states-ambassador-to-cuba-since-1961.md)
-_Context: Jeffrey DeLaurentis, Barack Obama, Cuba-United States relations, United States Ambassador to Cuba_
+_Context: Jeffrey DeLaurentis, United States Ambassador to Cuba, Cuba-United States relations, Barack Obama_
 
 ##### Obama administration
 ### [The Obama administration through the United States Department of Labor sues Peter Thiel's Palantir Technologies for alleged discrimination against Asians in its hiring practices. ](/news/2016/09/27/the-obama-administration-through-the-united-states-department-of-labor-sues-peter-thiel-s-palantir-technologies-for-alleged-discrimination-a.md)

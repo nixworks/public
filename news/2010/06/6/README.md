@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/6/index.html)  [JSON](2010/06/6/index.json)  [XML](2010/
 
 ##### killed in fighting
 ### [41 people have been killed in fighting over the past three days in Sudan's western region of Darfur according to a Sudan tribal leader. ](/news/2010/06/6/41-people-have-been-killed-in-fighting-over-the-past-three-days-in-sudan-s-western-region-of-darfur-according-to-a-sudan-tribal-leader.md)
-_Context: killed in fighting, Darfur, Sudan_
+_Context: Darfur, killed in fighting, Sudan_
 
 ##### attack
 ### [An attack of rockets kills six US soldiers and wounds about a dozen others in Baghdad, Iraq. Two more bombs go off elsewhere but no deaths are reported. ](/news/2010/06/6/an-attack-of-rockets-kills-six-us-soldiers-and-wounds-about-a-dozen-others-in-baghdad-iraq-two-more-bombs-go-off-elsewhere-but-no-deaths-a.md)
@@ -17,7 +17,7 @@ _Context: Glasgow, Oban, derails_
 
 ##### Makhulong Stadium
 ### [16 people are injured during a crush outside Makhulong Stadium in Tembisa, Johannesburg ahead of the 2010 FIFA World Cup warm-up match between Nigeria and North Korea, to which entry was free. ](/news/2010/06/6/16-people-are-injured-during-a-crush-outside-makhulong-stadium-in-tembisa-johannesburg-ahead-of-the-2010-fifa-world-cup-warm-up-match-betwe.md)
-_Context: Johannesburg, national football team, 2010 FIFA World Cup, Tembisa, Makhulong Stadium, Korea DPR national football team_
+_Context: national football team, Korea DPR national football team, 2010 FIFA World Cup, Johannesburg, Tembisa, Makhulong Stadium_
 
 ##### United States Coast Guard
 ### [United States Coast Guard Admiral Thad Allen, the US government's response manager to the Gulf of Mexico oil disaster says that BP is making progress stopping the oil flow, but that it is too early to call the effort a success and the spill may continue for several months. ](/news/2010/06/6/united-states-coast-guard-admiral-thad-allen-the-us-government-s-response-manager-to-the-gulf-of-mexico-oil-disaster-says-that-bp-is-making.md)
@@ -41,11 +41,11 @@ The head of police in the Democratic Republic of Congo has been suspended follow
 
 ##### France
 ### [French fishermen off the coast of Malta repel an attempt by Greenpeace to obstruct their operations, sinking several Greenpeace Zodiac boats and injuring a Greenpeace activist. ](/news/2010/06/6/french-fishermen-off-the-coast-of-malta-repel-an-attempt-by-greenpeace-to-obstruct-their-operations-sinking-several-greenpeace-zodiac-boats.md)
-_Context: Malta, France, Greenpeace India's, Zodiac boats_
+_Context: Malta, Zodiac boats, Greenpeace India's, France_
 
 ##### Somalia
 ### [Two men bound for Somalia to join an Islamic extremist group with links to Al-Qaeda are arrested at Kennedy International Airport, New York City, United States. ](/news/2010/06/6/two-men-bound-for-somalia-to-join-an-islamic-extremist-group-with-links-to-al-qaeda-are-arrested-at-kennedy-international-airport-new-york.md)
-_Context: Somalia, New York City, al-Qaeda, Islamic extremist group, United States, Kennedy International Airport_
+_Context: United States, Islamic extremist group, al-Qaeda, Kennedy International Airport, Somalia, New York City_
 
 ##### 11th Panchen Lama
 ### [The 11th Panchen Lama hosted a religious prayer ceremony at the Razheng Monastery, 240 kilometers away from Lhasa. ](/news/2010/06/6/the-11th-panchen-lama-hosted-a-religious-prayer-ceremony-at-the-razheng-monastery-240-kilometers-away-from-lhasa.md)

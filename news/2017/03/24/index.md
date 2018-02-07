@@ -25,23 +25,23 @@ An aid group finds two capsized boats capable of carrying 100 migrants each, and
 
 ##### France-Russia relations
 ### [French National Front presidential candidate Marine Le Pen meets with Russian president Vladimir Putin and afterwards urges that European Union sanctions on Russia be lifted. ](/news/2017/03/24/french-national-front-presidential-candidate-marine-le-pen-meets-with-russian-president-vladimir-putin-and-afterwards-urges-that-european-un.md)
-_Context: European Union, Russia, Vladimir Putin, Marine Le Pen, National Front, France-Russia relations_
+_Context: Marine Le Pen, Vladimir Putin, National Front, Russia, France-Russia relations, European Union_
 
 ##### Egypt
 ### [Former Egyptian President Hosni Mubarak is released from detention in Cairo. ](/news/2017/03/24/former-egyptian-president-hosni-mubarak-is-released-from-detention-in-cairo.md)
-_Context: Hosni Mubarak, Cairo, Egypt_
+_Context: Cairo, Hosni Mubarak, Egypt_
 
 ##### The Gambia
 ### [The Gambia's justice minister Abubacarr Tambadou states that the country will establish a Truth and Reconciliation Commission "within the next six months" to investigate allegations of abuse dating from the time of former President Yahya Jammeh. According to Tambadou, public hearings are scheduled to get underway by year's end. ](/news/2017/03/24/the-gambia-s-justice-minister-abubacarr-tambadou-states-that-the-country-will-establish-a-truth-and-reconciliation-commission-within-the-ne.md)
-_Context: Yahya Jammeh, President, Abubacarr Tambadou, The Gambia_
+_Context: The Gambia, Abubacarr Tambadou, President, Yahya Jammeh_
 
 ##### warlord
 ### [Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. ](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-katanga-is-ordered-by-the-international-criminal-court-to-pay-reparations-to-some-of-his-victims.md)
-_Context: ICC, Germain Katanga, warlord_
+_Context: warlord, ICC, Germain Katanga_
 
 ##### United States
 ### [United States President Donald Trump approves the controversial Keystone XL pipeline. ](/news/2017/03/24/united-states-president-donald-trump-approves-the-controversial-keystone-xl-pipeline.md)
-_Context: United States, Keystone XL, Donald Trump_
+_Context: Keystone XL, United States, Donald Trump_
 
 ##### 2017 Patient Protection and Affordable Care Act replacement proposals
 ### [The replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare) is withdrawn after Republican leaders fail to gain enough support. The failure of the Trump administration to repeal the act means it will remain law in the United States.](/news/2017/03/24/the-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-obamacare-is-withdrawn-after-republican-leaders-fail-to-gain-e.md)

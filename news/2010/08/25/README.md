@@ -9,7 +9,7 @@ _Context: Mogadishu_
 
 ##### army
 ### [A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. ](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-bomber-was-shot-and-killed-when-he-tried-to-drive-a-truckload-of-explosives-into-a-mauritanian.md)
-_Context: Nema, Mauritanian, Mali, barracks, suicide bomber, army_
+_Context: Mali, army, Nema, suicide bomber, barracks, Mauritanian_
 
 ##### string of attacks
 ### [A string of attacks in Iraq targeting Iraqi security forces leaves at least 56 people dead. ](/news/2010/08/25/a-string-of-attacks-in-iraq-targeting-iraqi-security-forces-leaves-at-least-56-people-dead.md)
@@ -17,7 +17,7 @@ With a withering wave of assaults on security forces, which killed dozens, insur
 
 ##### Paul Hogan
 ### [Actor Paul Hogan is banned from leaving Australia until he settles a multi-million dollar tax bill. ](/news/2010/08/25/actor-paul-hogan-is-banned-from-leaving-australia-until-he-settles-a-multi-million-dollar-tax-bill.md)
-_Context: Australia, Paul Hogan_
+_Context: Paul Hogan, Australia_
 
 ##### Archaeologist
 ### [Archaeologists working at the Umm El-Kharga Oasis, 200km south of Cairo, discover a 3,500-year-old ancient Egyptian settlement. ](/news/2010/08/25/archaeologists-working-at-the-umm-el-kharga-oasis-200km-south-of-cairo-discover-a-3-500-year-old-ancient-egyptian-settlement.md)
@@ -29,7 +29,7 @@ The flight recorder of the plane that crashed in the north-eastern Chinese provi
 
 ##### school bus
 ### [A school bus collides with a train in Cape Town, South Africa, killing at least nine pupils and injuring five others. ](/news/2010/08/25/a-school-bus-collides-with-a-train-in-cape-town-south-africa-killing-at-least-nine-pupils-and-injuring-five-others.md)
-_Context: school bus, South Africa, train, Cape Town_
+_Context: South Africa, train, school bus, Cape Town_
 
 ##### DR Congo
 ### [At least 20 people are killed in Democratic Republic of the Congo after a Filair plane crashes near Bandundu. ](/news/2010/08/25/at-least-20-people-are-killed-in-democratic-republic-of-the-congo-after-a-filair-plane-crashes-near-bandundu.md)
@@ -37,27 +37,27 @@ A plane crashes in the west of the Democratic Republic of Congo, killing 20 peop
 
 ##### Hurricane
 ### [Hurricane Danielle strengthens to Category 2 on the Saffir-Simpson Hurricane Scale and heads towards Bermuda. ](/news/2010/08/25/hurricane-danielle-strengthens-to-category-2-on-the-saffirasimpson-hurricane-scale-and-heads-towards-bermuda.md)
-_Context: Category 4, Hurricane, Bermuda, 2010 Atlantic hurricane season_
+_Context: Hurricane, Category 4, 2010 Atlantic hurricane season, Bermuda_
 
 ##### U.S. President
 ### [The former President of the United States Jimmy Carter arrives in North Korea to negotiate for the release of United States citizen Aijalon Gomes. ](/news/2010/08/25/the-former-president-of-the-united-states-jimmy-carter-arrives-in-north-korea-to-negotiate-for-the-release-of-united-states-citizen-aijalon.md)
-_Context: North Korea, Jimmy Carter, Aijalon Gomes, U.S. President, United States_
+_Context: North Korea, Jimmy Carter, Aijalon Gomes, United States, U.S. President_
 
 ##### Wikileaks
 ### [Wikileaks publishes a CIA analysis claiming that the United States could be perceived as an "exporter of terrorism". ](/news/2010/08/25/wikileaks-publishes-a-cia-analysis-claiming-that-the-united-states-could-be-perceived-as-an-exporter-of-terrorism.md)
-_Context: CIA, United States, terrorism, Wikileaks_
+_Context: CIA, Wikileaks, United States, terrorism_
 
 ##### Mexican marines
 ### [Mexican Naval Infantry find 72 corpses at a remote ranch in San Fernando, Tamaulipas, near the border with the US state of Texas. The victims were economic migrants from Central America and South America believed to be murdered by a drug cartel. ](/news/2010/08/25/mexican-naval-infantry-find-72-corpses-at-a-remote-ranch-in-san-fernando-tamaulipas-near-the-border-with-the-us-state-of-texas-the-victim.md)
-_Context: United States, San Fernando, Tamaulipas, Texas, Central America, Mexican marines, Mexican Drug War, South America_
+_Context: Texas, Central America, South America, Mexican Drug War, United States, Mexican marines, San Fernando, Tamaulipas_
 
 ##### Royal Canadian Mounted Police
 ### [The Royal Canadian Mounted Police arrests two suspects in Ottawa for alleged terrorism offences. ](/news/2010/08/25/the-royal-canadian-mounted-police-arrests-two-suspects-in-ottawa-for-alleged-terrorism-offences.md)
-_Context: terrorism, Ottawa, Royal Canadian Mounted Police_
+_Context: terrorism, Royal Canadian Mounted Police, Ottawa_
 
 ##### Danny Philip
 ### [Danny Philip, an MP from Rendova Tetepare, is elected the new Prime Minister of the Solomon Islands following the 2010 general election. Philip narrowly defeated Steve Abana with 26-23 vote total. ](/news/2010/08/25/danny-philip-an-mp-from-rendova-tetepare-is-elected-the-new-prime-minister-of-the-solomon-islands-following-the-2010-general-election-phi.md)
-_Context: Steve Abana, Prime Minister, Rendova Tetepare, 2010 general election, Danny Philip, MP_
+_Context: Prime Minister, MP, Steve Abana, Danny Philip, 2010 general election, Rendova Tetepare_
 
 ##### Craig Langdon
 ### [Craig Langdon resigns as an Australian Labor Party MP of the Victorian Legislative Assembly representing Ivanhoe. ](/news/2010/08/25/craig-langdon-resigns-as-an-australian-labor-party-mp-of-the-victorian-legislative-assembly-representing-ivanhoe.md)

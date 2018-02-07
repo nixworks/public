@@ -17,7 +17,7 @@ Mavi Marmara will be inspected by Turkish authorities and a UN delegation.
 
 ##### International Assistance Mission
 ### [10 people, including 2 Afghan civilians and 8 International Assistance Mission aid workers, are killed in Nuristan Province. ](/news/2010/08/7/10-people-including-2-afghan-civilians-and-8-international-assistance-mission-aid-workers-are-killed-in-nuristan-province.md)
-_Context: International Assistance Mission, foreign aid, Nuristan Province_
+_Context: International Assistance Mission, Nuristan Province, foreign aid_
 
 ##### Basra
 ### [14 people die and 35 others are injured in Basra due to an explosion, possibly caused by a power generator. ](/news/2010/08/7/14-people-die-and-35-others-are-injured-in-basra-due-to-an-explosion-possibly-caused-by-a-power-generator.md)
@@ -33,7 +33,7 @@ Zsa Zsa Gabor was not released from hospital on Saturday as expected after going
 
 ##### Gulf of Mexico
 ### [The Gulf of Mexico seafood industry starts to reopen after the Gulf of Mexico oil spill. ](/news/2010/08/7/the-gulf-of-mexico-seafood-industry-starts-to-reopen-after-the-gulf-of-mexico-oil-spill.md)
-_Context: seafood, Deepwater Horizon oil spill, Gulf of Mexico_
+_Context: Deepwater Horizon oil spill, seafood, Gulf of Mexico_
 
 ##### Pakistan
 ### [Pakistan issues a red alert as the worst floods in its history move south towards Sindh, with hundreds of thousands of people being evacuated, at least 10,000 cows killed and Prime Minister Yousaf Raza Gillani appealing on television for help from the international community. ](/news/2010/08/7/pakistan-issues-a-red-alert-as-the-worst-floods-in-its-history-move-south-towards-sindh-with-hundreds-of-thousands-of-people-being-evacuate.md)
@@ -45,7 +45,7 @@ Residents advised to leave city as smog from raging wildfires envelopes Moscow.
 
 ##### Zhaoyuan
 ### [At least 16 miners are killed during a fire at a gold mine in Zhaoyuan, Shandong, in China. 23 others are still trapped inside. ](/news/2010/08/7/at-least-16-miners-are-killed-during-a-fire-at-a-gold-mine-in-zhaoyuan-shandong-in-china-23-others-are-still-trapped-inside.md)
-_Context: China, Shandong, Zhaoyuan_
+_Context: Zhaoyuan, China, Shandong_
 
 ##### Copiap
 ### [Efforts intensify to rescue at least 34 people trapped in a mine near Copiap, Chile, in the Atacama Desert. ](/news/2010/08/7/efforts-intensify-to-rescue-at-least-34-people-trapped-in-a-mine-near-copiapo-chile-in-the-atacama-desert.md)
@@ -57,7 +57,7 @@ _Context: Saxony_
 
 ##### landslide
 ### [At least 127 people have died and 1,300 missing following landslides caused by heavy rains in China's northwestern Gansu province. ](/news/2010/08/7/at-least-127-people-have-died-and-1-300-missing-following-landslides-caused-by-heavy-rains-in-china-s-northwestern-gansu-province.md)
-_Context: Chinese, Gansu province, landslide, 2010 China floods_
+_Context: 2010 China floods, landslide, Gansu province, Chinese_
 
 ##### An oil spill
 ### [An oil spill stretching at least two miles long occurs in the Arabian Sea offshore Mumbai, India, after a vessel from Panama collides with another vessel from St. Kitts. The Panamanian ship was carrying 2,662 tons of oil, 283 tons of diesel and 88,040 liters of lube oil when it became grounded and started to leak. ](/news/2010/08/7/an-oil-spill-stretching-at-least-two-miles-long-occurs-in-the-arabian-sea-offshore-mumbai-india-after-a-vessel-from-panama-collides-with-a.md)
@@ -69,11 +69,11 @@ US PRESIDENT Barack Obama&rsquo;s popularity in the Arab world has plunged drama
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad and President of Guinea-Bissau Malam Bacai Sanh meet in Tehran. ](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.md)
-_Context: Mahmoud Ahmadinejad, President, Malam Bacai Sanh, acting president, Tehran_
+_Context: Tehran, President, Mahmoud Ahmadinejad, Malam Bacai Sanh, acting president_
 
 ##### Colombian President
 ### [President of Colombia Juan Manuel Santos, in his inauguration speech, vows to improve relations with Ecuador and Venezuela. ](/news/2010/08/7/president-of-colombia-juan-manuel-santos-in-his-inauguration-speech-vows-to-improve-relations-with-ecuador-and-venezuela.md)
-_Context: Ecuador, Venezuela, Colombian President, Juan Manuel Santos_
+_Context: Ecuador, Colombian President, Juan Manuel Santos, Venezuela_
 
 ##### Turkey
 ### [A Turkish court annuls an arrest warrant issued against 102 military officers over an alleged coup plot in 2003. ](/news/2010/08/7/a-turkish-court-annuls-an-arrest-warrant-issued-against-102-military-officers-over-an-alleged-coup-plot-in-2003.md)
@@ -81,7 +81,7 @@ _Context: coup d'tat, Turkey_
 
 ##### Iran
 ### [An appeals court in Iran upholds a five year jail sentence against the owner of Mehdi Karroubi's opposition website. ](/news/2010/08/7/an-appeals-court-in-iran-upholds-a-five-year-jail-sentence-against-the-owner-of-mehdi-karroubi-s-opposition-website.md)
-_Context: Mehdi Karroubi, Iran_
+_Context: Iran, Mehdi Karroubi_
 
 ##### domestic violence
 ### [A man accused by witnesses of domestic violence informs a New Zealand court that he and his wife were performing the Turkish kolbasti traditional dance at the time of the alleged incident in Hawera. ](/news/2010/08/7/a-man-accused-by-witnesses-of-domestic-violence-informs-a-new-zealand-court-that-he-and-his-wife-were-performing-the-turkish-kolbasti-tradit.md)

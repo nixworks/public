@@ -9,7 +9,7 @@ Ben Ali on course to win fifth term in office, according to initial official res
 
 ##### Jurelang Zedkaia
 ### [ Jurelang Zedkaia is elected the 5th President of the Marshall Islands, following the ouster of Litokwa Tomeing in a no confidence vote last week. ](/news/2009/10/26/jurelang-zedkaia-is-elected-the-5th-president-of-the-marshall-islands-following-the-ouster-of-litokwa-tomeing-in-a-no-confidence-vote-last.md)
-_Context: elected, Litokwa Tomeing, Marshall Islands, Jurelang Zedkaia, no confidence vote_
+_Context: elected, no confidence vote, Marshall Islands, Jurelang Zedkaia, Litokwa Tomeing_
 
 ##### Palma
 ### [ At least seven people are killed and at least four others are injured when a three-story building falls down in Palma, Majorca. The dead include at least three from Colombia. ](/news/2009/10/26/at-least-seven-people-are-killed-and-at-least-four-others-are-injured-when-a-three-story-building-falls-down-in-palma-majorca-the-dead-in.md)
@@ -17,19 +17,19 @@ _Context: Colombia, Majorca, Palma_
 
 ##### Bosnian
 ### [ Bosnian Serb leader Radovan Karadzic boycotts his own trial as it begins in The Hague. ](/news/2009/10/26/bosnian-serb-leader-radovan-karada3-4ia-boycotts-his-own-trial-as-it-begins-in-the-hague.md)
-_Context: boycott, The Hague, Radovan Karadzic, Bosnian, Serb_
+_Context: boycott, Radovan Karadzic, The Hague, Serb, Bosnian_
 
 ##### United Nations
 ### [ The UN's court in Freetown, Sierra Leone sees its final case after seven years of investigating the country's civil war. ](/news/2009/10/26/the-un-s-court-in-freetown-sierra-leone-sees-its-final-case-after-seven-years-of-investigating-the-country-s-civil-war.md)
-_Context: United Nations, Freetown, Sierra Leone_
+_Context: Freetown, Sierra Leone, United Nations_
 
 ##### Japan
 ### [ The trial of Japanese singer and actress Noriko Sakai begins in Tokyo. ](/news/2009/10/26/the-trial-of-japanese-singer-and-actress-noriko-sakai-begins-in-tokyo.md)
-_Context: Tokyo, Noriko Sakai, Japan_
+_Context: Noriko Sakai, Japan, Tokyo_
 
 ##### South Korea
 ### [ South Korean cloning scientist Hwang Woo-Suk is convicted of fraud over his stem cell research. ](/news/2009/10/26/south-korean-cloning-scientist-hwang-woo-suk-is-convicted-of-fraud-over-his-stem-cell-research.md)
-_Context: South Korea, cloning, Hwang Woo-Suk, stem cell_
+_Context: cloning, South Korea, Hwang Woo-Suk, stem cell_
 
 ##### Abdullah
 ### [ King Abdullah of Saudi Arabia removes the sentence of 60 lashes for Rosanna Yami, female journalist involved in the "Red Lines" sex scandal. ](/news/2009/10/26/king-abdullah-of-saudi-arabia-removes-the-sentence-of-60-lashes-for-rosanna-yami-female-journalist-involved-in-the-red-lines-sex-scandal.md)
@@ -37,7 +37,7 @@ Saskatoon-based visual artist Zachari Logan explores spaces in Saskatchewan that
 
 ##### Sri Lanka
 ### [ A Sri Lankan court in Colombo releases Vetrivel Jaseeharan, the publisher of "North Eastern Monthly", and his wife after they were charged with conspiracy against the government in March 2008. The editor was given a twenty year jail sentence in August 2009. ](/news/2009/10/26/a-sri-lankan-court-in-colombo-releases-vetrivel-jaseeharan-the-publisher-of-north-eastern-monthly-and-his-wife-after-they-were-charged.md)
-_Context: Sri Lanka, North Eastern Monthly, Vetrivel Jaseeharan, Colombo_
+_Context: Sri Lanka, Vetrivel Jaseeharan, Colombo, North Eastern Monthly_
 
 ##### Silvio Berlusconi
 ### [ It is announced that Silvio Berlusconi will stand trial on 16 November. ](/news/2009/10/26/it-is-announced-that-silvio-berlusconi-will-stand-trial-on-16-november.md)
@@ -45,19 +45,19 @@ _Context: Silvio Berlusconi_
 
 ##### Milan
 ### [ A court in Milan rules that Mediaset run by Silvio Berlusconi is being anti-competitive against News Corporation run by Rupert Murdoch. ](/news/2009/10/26/a-court-in-milan-rules-that-mediaset-run-by-silvio-berlusconi-is-being-anti-competitive-against-news-corporation-run-by-rupert-murdoch.md)
-_Context: Rupert Murdoch, Silvio Berlusconi, News Corporation, Mediaset, Milan_
+_Context: Silvio Berlusconi, Milan, Rupert Murdoch, Mediaset, News Corporation_
 
 ##### Conway sextuplets
 ### [ The five surviving Conway sextuplets, the first sextuplets born on the island of Ireland, return home. ](/news/2009/10/26/the-five-surviving-conway-sextuplets-the-first-sextuplets-born-on-the-island-of-ireland-return-home.md)
-_Context: Conway sextuplets, Ireland, sextuplets_
+_Context: sextuplets, Conway sextuplets, Ireland_
 
 ##### cataract
 ### [ At least 10 patients from thirty-four operated on partially lose their sight after free cataract operations in Nellore, Andhra Pradesh. ](/news/2009/10/26/at-least-10-patients-from-thirty-four-operated-on-partially-lose-their-sight-after-free-cataract-operations-in-nellore-andhra-pradesh.md)
-_Context: cataract, Nellore, Andhra Pradesh_
+_Context: cataract, Andhra Pradesh, Nellore_
 
 ##### crater
 ### [ A crater found in northern Latvia, believed at first to be a meteorite strike, is revealed to be a hoax perpetrated by telecom operator Tele2. ](/news/2009/10/26/a-crater-found-in-northern-latvia-believed-at-first-to-be-a-meteorite-strike-is-revealed-to-be-a-hoax-perpetrated-by-telecom-operator-tel.md)
-_Context: meteorite, crater, Tele2, Latvia_
+_Context: Tele2, crater, Latvia, meteorite_
 
 ##### Uldis Nulle
 ### [ Uldis Nulle, a scientist at the Latvian Environment, Geology and Meteorology Centre, said: "This is not a real crater. It is artificial." ](/news/2009/10/26/uldis-nulle-a-scientist-at-the-latvian-environment-geology-and-meteorology-centre-said-this-is-not-a-real-crater-it-is-artificial.md)
@@ -77,15 +77,15 @@ _Context: Silvio Berlusconi, scarlet fever_
 
 ##### Yahoo!
 ### [ Yahoo! discontinues its free web hosting service GeoCities, ten years after purchasing it from David Bohnett and John Rezner. ](/news/2009/10/26/yahoo-discontinues-its-free-web-hosting-service-geocities-ten-years-after-purchasing-it-from-david-bohnett-and-john-rezner.md)
-_Context: John Rezner, David Bohnett, web hosting service, Yahoo!, GeoCities_
+_Context: web hosting service, David Bohnett, John Rezner, GeoCities, Yahoo!_
 
 ##### Australia
 ### [ Australian authorities offer a Aus$1 million reward in their search for a man suspected of ordering the murder of a vampire. ](/news/2009/10/26/australian-authorities-offer-a-aus-1-million-reward-in-their-search-for-a-man-suspected-of-ordering-the-murder-of-a-vampire.md)
-_Context: vampire, Australia_
+_Context: Australia, vampire_
 
 ##### Liverpool
 ### [ A police officer in Liverpool, England is hospitalised in a life threatening condition after undergoing a homophobic attack by a gang of twenty youths. ](/news/2009/10/26/a-police-officer-in-liverpool-england-is-hospitalised-in-a-life-threatening-condition-after-undergoing-a-homophobic-attack-by-a-gang-of-tw.md)
-_Context: Liverpool, England, anti-gay_
+_Context: anti-gay, Liverpool, England_
 
 ## [Previous Day...](/news/2009/10/25/index.md)
 

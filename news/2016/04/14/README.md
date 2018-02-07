@@ -37,7 +37,7 @@ The company is challenging the use of secrecy orders that prevent it from tellin
 
 ##### parliament
 ### [The Verkhovna Rada appoints Volodmyr Groysman as the Prime Minister of Ukraine, replacing Arseny Yatseniuk. ](/news/2016/04/14/the-verkhovna-rada-appoints-volodmyr-groysman-as-the-prime-minister-of-ukraine-replacing-arseny-yatseniuk.md)
-_Context: Arseny Yatseniuk, Prime Minister of Ukraine, Volodmyr Groysman, parliament_
+_Context: Volodmyr Groysman, Arseny Yatseniuk, parliament, Prime Minister of Ukraine_
 
 ##### Jammu and Kashmir
 ### [Authorities in Jammu and Kashmir impose a curfew around the capital of Srinagar, Handwara, and neighbouring villages as protests turn violent. People began to protest last Tuesday when allegations were circulated by residents in Handwara that an Indian Army soldier tried to sexually assault a teenage schoolgirl. ](/news/2016/04/14/authorities-in-jammu-and-kashmir-impose-a-curfew-around-the-capital-of-srinagar-handwara-and-neighbouring-villages-as-protests-turn-violen.md)

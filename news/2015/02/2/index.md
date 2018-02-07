@@ -9,7 +9,7 @@ COTABATO, Philippines (AFP) - A bloodbath in the southern Philippines has placed
 
 ##### War in Donbass
 ### [Artillery shelling of Donetsk leaves at least one civilian dead while five Ukrainian Army soldiers are killed in heavy fighting. ](/news/2015/02/2/artillery-shelling-of-donetsk-leaves-at-least-one-civilian-dead-while-five-ukrainian-army-soldiers-are-killed-in-heavy-fighting.md)
-_Context: Ukrainian Army, Donetsk, War in Donbass_
+_Context: Donetsk, Ukrainian Army, War in Donbass_
 
 ##### Lesotho Defence Force
 ### [A shootout between Lesotho Defence Force soldiers and two former bodyguards of Prime Minister Tom Thabane leaves at least one bystander killed and three others wounded. ](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.md)
@@ -33,7 +33,7 @@ _Context: midwestern, 2014-15 North American winter_
 
 ##### Gaza-Israel conflict
 ### [Canadian academic William Schabas resigns as the head of a United Nations committee investigating alleged Israeli war crimes in an offensive in the Gaza Strip during 2014 due to Israel alleging bias due to consultancy work he did for the Palestine Liberation Organisation. ](/news/2015/02/2/canadian-academic-william-schabas-resigns-as-the-head-of-a-united-nations-committee-investigating-alleged-israeli-war-crimes-in-an-offensive.md)
-_Context: Palestine Liberation Organisation, Gaza-Israel conflict, William Schabas, Gaza Strip, Israel, United Nations, Canadian_
+_Context: Israel, Canadian, Gaza Strip, Gaza-Israel conflict, United Nations, William Schabas, Palestine Liberation Organisation_
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund head Dominique Strauss-Kahn goes on trial in France on pimping charges. ](/news/2015/02/2/former-international-monetary-fund-head-dominique-strauss-kahn-goes-on-trial-in-france-on-pimping-charges.md)
@@ -45,7 +45,7 @@ _Context: Tupelo, Mississippi, LaGrange, Georgia_
 
 ##### Iran
 ### [Iran successfully puts the Fajr satellite in orbit using a Safir-B1 rocket. ](/news/2015/02/2/iran-successfully-puts-the-fajr-satellite-in-orbit-using-a-safir-b1-rocket.md)
-_Context: Iran, Fajr, Safir-B1_
+_Context: Safir-B1, Fajr, Iran_
 
 ## [Previous Day...](/news/2015/02/1/index.md)
 

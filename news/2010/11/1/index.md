@@ -5,11 +5,11 @@ Formats: [HTML](2010/11/1/index.html)  [JSON](2010/11/1/index.json)  [XML](2010/
 
 ##### Afghanistan
 ### [Two Afghan women charity workers are shot dead. They were travelling between Lashkar Gah and Garmser, a volatile area in the Helmand River valley, when they were attacked. ](/news/2010/11/1/two-afghan-women-charity-workers-are-shot-dead-they-were-travelling-between-lashkar-gah-and-garmser-a-volatile-area-in-the-helmand-river-v.md)
-_Context: Afghanistan, Helmand River, Garmser, Lashkar Gah_
+_Context: Lashkar Gah, Helmand River, Afghanistan, Garmser_
 
 ##### Mogadishu
 ### [At least 12 people are killed in fighting in Mogadishu, Somalia, between pro-government forces, African Union troops and the Islamist militant al-Shabaab group. ](/news/2010/11/1/at-least-12-people-are-killed-in-fighting-in-mogadishu-somalia-between-pro-government-forces-african-union-troops-and-the-islamist-milita.md)
-_Context: Mogadishu, Al-Shabaab, African Union, Somalia, Islamist_
+_Context: Somalia, African Union, Al-Shabaab, Mogadishu, Islamist_
 
 ##### Gyles Mackrell
 ### [Photographs, diaries and footage of Gyles Mackrell's rescue of refugees from the Japanese invasion of Burma in World War II are made available. ](/news/2010/11/1/photographs-diaries-and-footage-of-gyles-mackrell-s-rescue-of-refugees-from-the-japanese-invasion-of-burma-in-world-war-ii-are-made-availab.md)
@@ -17,7 +17,7 @@ Photographs, diaries and remarkable amateur film charting the epic rescue of ref
 
 ##### Kurdistan Workers' Party
 ### [The rebel Kurdistan Workers' Party (PKK) in Turkey announces it will extend a truce until elections next year. ](/news/2010/11/1/the-rebel-kurdistan-workers-party-pkk-in-turkey-announces-it-will-extend-a-truce-until-elections-next-year.md)
-_Context: Kurdistan Workers' Party, Turkey_
+_Context: Turkey, Kurdistan Workers' Party_
 
 ##### Iraq
 ### [58 hostage-takers, hostages and police officers are killed and 67 people wounded when Iraqi forces storm a Baghdad church to free dozens of hostages. ](/news/2010/11/1/58-hostage-takers-hostages-and-police-officers-are-killed-and-67-people-wounded-when-iraqi-forces-storm-a-baghdad-church-to-free-dozens-of.md)
@@ -25,15 +25,15 @@ BAGHDAD - An al Qaeda attack that killed 52 hostages and police in a Catholic ch
 
 ##### Lashkar-e-Toiba
 ### [Four militants, including two from Lashkar-e-Toiba (LET), are killed in separate gun battles with security forces in Kupwara and Kulgam districts of Kashmir Valley, India. ](/news/2010/11/1/four-militants-including-two-from-lashkar-e-toiba-let-are-killed-in-separate-gun-battles-with-security-forces-in-kupwara-and-kulgam-dist.md)
-_Context: Lashkar-e-Toiba, Kashmir Valley, Kulgam, Kupwara, India_
+_Context: Kupwara, Kulgam, Kashmir Valley, India, Lashkar-e-Toiba_
 
 ##### United States
 ### [A United States drone attack kills six people in northwest Pakistan. ](/news/2010/11/1/a-united-states-drone-attack-kills-six-people-in-northwest-pakistan.md)
-_Context: United States, drone aircraft, Pakistan, drone attack_
+_Context: Pakistan, drone attack, drone aircraft, United States_
 
 ##### Pakistan
 ### [A suicide bomber kills two Pakistani policemen and wounds 10 others as security forces try to stop him from walking into their local headquarters in Swabi, 100 kilometres northwest of Islamabad. ](/news/2010/11/1/a-suicide-bomber-kills-two-pakistani-policemen-and-wounds-10-others-as-security-forces-try-to-stop-him-from-walking-into-their-local-headqua.md)
-_Context: Swabi, Pakistan, Islamabad_
+_Context: Islamabad, Pakistan, Swabi_
 
 ##### Turkey
 ### [A Turkish film wins the Best Documentary award at the Thanet International Film Festival in the United Kingdom. ](/news/2010/11/1/a-turkish-film-wins-the-best-documentary-award-at-the-thanet-international-film-festival-in-the-united-kingdom.md)
@@ -57,11 +57,11 @@ Shareholders of Washington Mutual Inc are &quot;highly unlikely&quot; to recover
 
 ##### 50 people drown after a ferry-boat capsizes
 ### [At least 50 people drown after a ferry-boat capsizes on the Muri Ganga River in West Bengal, India. ](/news/2010/11/1/at-least-50-people-drown-after-a-ferry-boat-capsizes-on-the-muri-ganga-river-in-west-bengal-india.md)
-_Context: India, 50 people drown after a ferry-boat capsizes, West Bengal, Muri Ganga River_
+_Context: West Bengal, Muri Ganga River, India, 50 people drown after a ferry-boat capsizes_
 
 ##### India
 ### [16 people lose their lives in separate incidents due to rainfall in various parts of the district of India in Nakapalli, Elamanchili, Payakaraopeta, Vizag, Rambilli and in other parts of Andhra Pradesh. ](/news/2010/11/1/16-people-lose-their-lives-in-separate-incidents-due-to-rainfall-in-various-parts-of-the-district-of-india-in-nakapalli-elamanchili-payaka.md)
-_Context: India, Rambilli, Andhra Pradesh, Payakaraopeta, Elamanchili, Nakapalli, Vizag_
+_Context: Nakapalli, India, Andhra Pradesh, Vizag, Payakaraopeta, Elamanchili, Rambilli_
 
 ##### Schmalkalden
 ### [A large crater appears in the early hours in the central German town of Schmalkalden. ](/news/2010/11/1/a-large-crater-appears-in-the-early-hours-in-the-central-german-town-of-schmalkalden.md)
@@ -69,7 +69,7 @@ _Context: Schmalkalden_
 
 ##### Russian President
 ### [The President of Russia Dmitry Medvedev visits Kunashiri, one of the southern Kuril Islands that are the subject of the Kuril Islands dispute between Russia and Japan. ](/news/2010/11/1/the-president-of-russia-dmitry-medvedev-visits-kunashiri-one-of-the-southern-kuril-islands-that-are-the-subject-of-the-kuril-islands-disput.md)
-_Context: Dmitry Medvedev, Kunashiri, rival territorial claims, Russian President, Russia, Kuril Islands, Japan_
+_Context: Japan, Dmitry Medvedev, Kuril Islands, Russia, Kunashiri, Russian President, rival territorial claims_
 
 ##### poachers
 ### [Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. ](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-rangers-in-kenya-in-separate-incidents.md)
@@ -81,7 +81,7 @@ A judge in Uganda orders the local Rolling Stone newspaper to stop publishing th
 
 ##### Canadian government
 ### [The Government of Canada agrees to accept Canadian Omar Khadr, detained at Guantanamo Bay for the past eight years, after he serves a year of his sentence at the Guantanamo Bay detention camp. ](/news/2010/11/1/the-government-of-canada-agrees-to-accept-canadian-omar-khadr-detained-at-guantanamo-bay-for-the-past-eight-years-after-he-serves-a-year-o.md)
-_Context: Canadian, Canadian government, detainee, Omar Khadr_
+_Context: Canadian, detainee, Omar Khadr, Canadian government_
 
 ##### go on sale
 ### [State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. ](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-the-general-election-on-sunday-with-the-government-threatening-jail-time-for-those-encouragi.md)

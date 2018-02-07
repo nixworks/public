@@ -17,19 +17,19 @@ Suspected Islamist Boko Haram gunmen rampaged through three villages in northern
 
 ##### Winter Sleep
 ### [Turkish film "Winter Sleep" directed by Nuri Bilge Ceylan wins the Palme d'Or at the 2014 Cannes Film Festival. ](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.md)
-_Context: 2014 Cannes Film Festival, Winter Sleep, Palme d'Or, Nuri Bilge Ceylan_
+_Context: Winter Sleep, Nuri Bilge Ceylan, Palme d'Or, 2014 Cannes Film Festival_
 
 ##### earthquake
 ### [A magnitude 6.4 earthquake occurs in the Aegean Sea between Greece and Turkey with reports of serious damage on the Turkish island of Gokceada and the cities of Edirne and Canakkale. ](/news/2014/05/24/a-magnitude-6-4-earthquake-occurs-in-the-aegean-sea-between-greece-and-turkey-with-reports-of-serious-damage-on-the-turkish-island-of-gapkass.md)
-_Context: Edirne, Gokceada, Turkey, earthquake, Canakkale, Greece, Aegean Sea_
+_Context: Edirne, Gokceada, Aegean Sea, earthquake, Canakkale, Greece, Turkey_
 
 ##### Pope Francis
 ### [Pope Francis arrives in Amman, Jordan, for the first day of a three day trip to the Middle East. ](/news/2014/05/24/pope-francis-arrives-in-amman-jordan-for-the-first-day-of-a-three-day-trip-to-the-middle-east.md)
-_Context: Pope Francis, Middle East, Jordan, Amman_
+_Context: Amman, Jordan, Pope Francis, Middle East_
 
 ##### Mahafarid Amir Khosravi
 ### [Mahafarid Amir Khosravi is executed for masterminding the largest fraud case in Iran since the 1979 Revolution. ](/news/2014/05/24/mahafarid-amir-khosravi-is-executed-for-masterminding-the-largest-fraud-case-in-iran-since-the-1979-revolution.md)
-_Context: Mahafarid Amir Khosravi, 2011 embezzlement scandal, Iranian Revolution_
+_Context: Mahafarid Amir Khosravi, Iranian Revolution, 2011 embezzlement scandal_
 
 ##### shooting
 ### [At least 3 people are killed in a shooting at the Jewish Museum of Belgium in Brussels, Belgium. ](/news/2014/05/24/at-least-3-people-are-killed-in-a-shooting-at-the-jewish-museum-of-belgium-in-brussels-belgium.md)
@@ -37,7 +37,7 @@ A gunman opens fire at the Jewish museum in the Belgian capital Brussels, killin
 
 ##### 2014 Isla Vista killings
 ### [2014 Isla Vista killings: The suspected gunman in the May 23 spree killing in Santa Barbara, California, is named as Elliot Rodger. ](/news/2014/05/24/2014-isla-vista-killings-the-suspected-gunman-in-the-may-23-spree-killing-in-santa-barbara-california-is-named-as-elliot-rodger.md)
-_Context: Santa Barbara, California, 2014 Isla Vista killings, spree killing_
+_Context: spree killing, 2014 Isla Vista killings, Santa Barbara, California_
 
 ##### 
 ### [The Thai military arrests 35 more individuals, including prominent academics. ](/news/2014/05/24/the-thai-military-arrests-35-more-individuals-including-prominent-academics.md)
@@ -47,7 +47,7 @@ Voters in two European Union countries, the Czech Republic and Ireland, began vo
 
 ##### Jacob Zuma
 ### [Jacob Zuma is sworn in for a second term as President of South Africa following his recent election victory. ](/news/2014/05/24/jacob-zuma-is-sworn-in-for-a-second-term-as-president-of-south-africa-following-his-recent-election-victory.md)
-_Context: Jacob Zuma, President, election_
+_Context: election, Jacob Zuma, President_
 
 ##### President of Malawi
 ### [The President of Malawi Joyce Banda annuls the general elections in which she was a candidate because of claimed electoral irregularities. ](/news/2014/05/24/the-president-of-malawi-joyce-banda-annuls-the-general-elections-in-which-she-was-a-candidate-because-of-claimed-electoral-irregularities.md)

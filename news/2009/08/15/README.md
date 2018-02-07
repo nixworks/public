@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/15/index.html)  [JSON](2009/08/15/index.json)  [XML](200
 
 ##### Hamas
 ### [ Hamas police claim to have killed Abdel-Latif Moussa, head of the Islamic group Jund Ansar Allah in a shootout. ](/news/2009/08/15/hamas-police-claim-to-have-killed-abdel-latif-moussa-head-of-the-islamic-group-jund-ansar-allah-in-a-shootout.md)
-_Context: Islam, Abdel-Latif Moussa, shootout, Hamas, Jund Ansar Allah_
+_Context: Jund Ansar Allah, Islam, shootout, Hamas, Abdel-Latif Moussa_
 
 ##### Hong Kong
 ### [ Hong Kong posts 3.3% growth over its previous quarter, far exceeding predictions, signaling an end to its recession. ](/news/2009/08/15/hong-kong-posts-3-3-growth-over-its-previous-quarter-far-exceeding-predictions-signaling-an-end-to-its-recession.md)
@@ -17,7 +17,7 @@ _Context: Colombia, United States_
 
 ##### Japan
 ### [ Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. ](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.md)
-_Context: Japan, controversial, Yasukuni Shrine, World War II, Prime Minister of Japan, Shinzo Abe, Junichiro Koizumi, surrender_
+_Context: controversial, World War II, Shinzo Abe, surrender, Prime Minister of Japan, Junichiro Koizumi, Yasukuni Shrine, Japan_
 
 ##### President
 ### [ Former President of Zambia, Frederick Chiluba, awaits the verdict in his trial into his criminal case for being accused of plundering the national economy during his decade-long rule. ](/news/2009/08/15/former-president-of-zambia-frederick-chiluba-awaits-the-verdict-in-his-trial-into-his-criminal-case-for-being-accused-of-plundering-the-n.md)
@@ -29,7 +29,7 @@ The whereabouts of the Finnish-owned vessel and its Russian crew remain unknown.
 
 ##### suicide bomb
 ### [ A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. ](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.md)
-_Context: NATO, suicide bomb, Kabul, Afghanistan_
+_Context: Kabul, NATO, suicide bomb, Afghanistan_
 
 ##### prison riot
 ### [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md)
@@ -37,7 +37,7 @@ Nineteen people died and at least another 20 were hurt in a prison fight on Frid
 
 ##### Italy
 ### [ Italian Prime Minister Silvio Berlusconi speaks at a news conference to say his country will crack down on organised crime over the next four years. ](/news/2009/08/15/italian-prime-minister-silvio-berlusconi-speaks-at-a-news-conference-to-say-his-country-will-crack-down-on-organised-crime-over-the-next-fo.md)
-_Context: Italian Prime Minister, Italy, Silvio Berlusconi_
+_Context: Silvio Berlusconi, Italy, Italian Prime Minister_
 
 ##### Burma
 ### [ Burma is to free detained American John Yettaw, who appeared uninvited at Aung San Suu Kyi's home, after a meeting with US Senator Jim Webb. ](/news/2009/08/15/burma-is-to-free-detained-american-john-yettaw-who-appeared-uninvited-at-aung-san-suu-kyi-s-home-after-a-meeting-with-us-senator-jim-webb.md)

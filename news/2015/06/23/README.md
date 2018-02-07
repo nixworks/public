@@ -9,7 +9,7 @@ Islamic extremists ISIL, who were reported on Sunday to have mined the ancient c
 
 ##### South Korea
 ### [South Korean author Shin Kyung-sook admits to plagiarising a short story from Japanese author Yukio Mishima. ](/news/2015/06/23/south-korean-author-shin-kyung-sook-admits-to-plagiarising-a-short-story-from-japanese-author-yukio-mishima.md)
-_Context: Yukio Mishima, Shin Kyung-sook, Japan, South Korea_
+_Context: Yukio Mishima, South Korea, Shin Kyung-sook, Japan_
 
 ##### Australian
 ### [Australian author Sofie Laguna wins the Miles Franklin Award for her novel "The Eye of the Sheep". ](/news/2015/06/23/australian-author-sofie-laguna-wins-the-miles-franklin-award-for-her-novel-the-eye-of-the-sheep.md)
@@ -33,7 +33,7 @@ Hungary on Tuesday suspended European Union asylum rules requiring it to take ba
 
 ##### Charleston church shooting
 ### [Amazon.com announces that it is removing Confederate Flag merchandise from sale following the shootings. ](/news/2015/06/23/amazon-com-announces-that-it-is-removing-confederate-flag-merchandise-from-sale-following-the-shootings.md)
-_Context: Charleston church shooting, Amazon.com, Confederate Battle Flag_
+_Context: Confederate Battle Flag, Charleston church shooting, Amazon.com_
 
 ## [Previous Day...](/news/2015/06/22/index.md)
 

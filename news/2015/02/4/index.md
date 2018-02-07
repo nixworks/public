@@ -5,7 +5,7 @@ Formats: [HTML](2015/02/4/index.html)  [JSON](2015/02/4/index.json)  [XML](2015/
 
 ##### ISIL
 ### [Jordan executes convicted Iraqi terrorists Sajida al-Rishawi and Ziad al-Karbouli in response to the execution by ISIL of Jordanian Air Force lieutenant Muath Al-Kasasbeh. ](/news/2015/02/4/jordan-executes-convicted-iraqi-terrorists-sajida-al-rishawi-and-ziad-al-karbouli-in-response-to-the-execution-by-isil-of-jordanian-air-forc.md)
-_Context: Ziad al-Karbouli, Sajida al-Rishawi, Jordanian air force, ISIL, Jordan, Iraq, Muath Al-Kasasbeh_
+_Context: Jordanian air force, Jordan, Sajida al-Rishawi, Muath Al-Kasasbeh, Iraq, Ziad al-Karbouli, ISIL_
 
 ##### Libyan Civil War (2014-present)
 ### [Gunmen storm Libya's al-Mabrook oil field. ](/news/2015/02/4/gunmen-storm-libya-s-al-mabrook-oil-field.md)
@@ -17,7 +17,7 @@ Three people are killed and many more wounded as a shell hits a hospital in the 
 
 ##### Boko Haram
 ### [Boko Haram militants reportedly raid the Cameroonian town of Fotokol in Cameroon's Far North Region with scores of people killed. ](/news/2015/02/4/boko-haram-militants-reportedly-raid-the-cameroonian-town-of-fotokol-in-cameroon-s-far-north-region-with-scores-of-people-killed.md)
-_Context: Far North Region, Cameroon, Boko Haram, Fotokol_
+_Context: Boko Haram, Fotokol, Far North Region, Cameroon_
 
 ##### Anthem
 ### [Anthem Inc. discloses that criminal hackers have broken into its servers and potentially stolen over 80 million records that contain personally identifiable information from its servers. According to Anthem, the data breach extends into multiple brands Anthem uses to market its healthcare plans, including, Anthem Blue Cross, Anthem Blue Cross and Blue Shield, Blue Cross and Blue Shield of Georgia, Empire Blue Cross and Blue Shield, Amerigroup, Caremore, Unicare, Healthlink, and DeCare. Anthem says the medical information and financial data was not compromised. ](/news/2015/02/4/anthem-inc-discloses-that-criminal-hackers-have-broken-into-its-servers-and-potentially-stolen-over-80-million-records-that-contain-persona.md)
@@ -37,7 +37,7 @@ At least five homes are damaged and 20 ha of land razed as fire swept through ru
 
 ##### Manhattan
 ### [A Manhattan federal court convicts Ross Ulbricht, aka "Dread Pirate Roberts", the owner of the Silk Road Deep Web illicit products website, on seven charges including trafficking and money laundering in the United States. ](/news/2015/02/4/a-manhattan-federal-court-convicts-ross-ulbricht-aka-dread-pirate-roberts-the-owner-of-the-silk-road-deep-web-illicit-products-website.md)
-_Context: Silk Road, Deep Web, narcotics, Manhattan, United States, money laundering_
+_Context: Manhattan, Silk Road, United States, narcotics, Deep Web, money laundering_
 
 ##### Catholic Bishops Conference of the Philippines
 ### [The Catholic Bishops Conference of the Philippines says that it will not join growing calls for the impeachment and resignation of Philippines President Benigno Aquino III following the January 25 botched police operation. ](/news/2015/02/4/the-catholic-bishops-conference-of-the-philippines-says-that-it-will-not-join-growing-calls-for-the-impeachment-and-resignation-of-philippin.md)
@@ -45,7 +45,7 @@ Anti-Aquino sentiment gathers momentum in the wake of a bungled police raid that
 
 ##### Fiji
 ### [Fiji will adopt a replacement for its flag which it says is a symbol of colonialism. ](/news/2015/02/4/fiji-will-adopt-a-replacement-for-its-flag-which-it-says-is-a-symbol-of-colonialism.md)
-_Context: flag, British rule, Fiji_
+_Context: British rule, flag, Fiji_
 
 ## [Previous Day...](/news/2015/02/3/index.md)
 

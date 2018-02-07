@@ -13,7 +13,7 @@ _Context: His Majesty's Government, United Kingdom_
 
 ##### soldiers
 ### [ At least 500 soldiers mutiny after Georgia's government discovers a plot to assassinate President Mikheil Saakashvili. ](/news/2009/05/5/at-least-500-soldiers-mutiny-after-georgia-s-government-discovers-a-plot-to-assassinate-president-mikheil-saakashvili.md)
-_Context: government, soldiers, mutiny, President of Georgia, assassinated, Mikheil Saakashvili,  Georgian_
+_Context:  Georgian, assassinated, soldiers, government, Mikheil Saakashvili, mutiny, President of Georgia_
 
 ##### Flood
 ### [ Floods and mudslides in Brazil kill 19 people and render 186,000 others homeless. ](/news/2009/05/5/floods-and-mudslides-in-brazil-kill-19-people-and-render-186-000-others-homeless.md)

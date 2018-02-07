@@ -21,15 +21,15 @@ _Context: Afghanistan, Lowgar Province_
 
 ##### deadly landslide
 ### [ A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. ](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.md)
-_Context: Shanxi province, China, deadly landslide_
+_Context: China, deadly landslide, Shanxi province_
 
 ##### Sichuan
 ### [ A bus crashes into a 100 m gorge in Sichuan, China, killing 51. ](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.md)
-_Context: China, Sichuan_
+_Context: Sichuan, China_
 
 ##### All Blacks
 ### [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md)
-_Context: Brisbane, Australia, 2008 Tri Nations Series, Australia, All Blacks, Suncorp Stadium_
+_Context: All Blacks, Suncorp Stadium, Australia, Australia, 2008 Tri Nations Series, Brisbane_
 
 ##### 
 ### [ Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.md)

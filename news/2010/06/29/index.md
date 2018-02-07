@@ -33,7 +33,7 @@ _Context: Hyderabad_
 
 ##### East Java
 ### [Six people are killed in a train derailment in East Java, Indonesia. ](/news/2010/06/29/six-people-are-killed-in-a-train-derailment-in-east-java-indonesia.md)
-_Context: East Java, Indonesia_
+_Context: Indonesia, East Java_
 
 ##### United Kingdom
 ### [The United Kingdom's Iraq Inquiry resumes after a break for the general election, with Douglas Brand as the first witness. ](/news/2010/06/29/the-united-kingdom-s-iraq-inquiry-resumes-after-a-break-for-the-general-election-with-douglas-brand-as-the-first-witness.md)
@@ -53,7 +53,7 @@ _Context: suicide attacks on two hotels, Jakarta, Indonesia_
 
 ##### Jayant Patel
 ### [Dr. Jayant Patel is convicted at the Supreme Court of Queensland, Australia of three charges of manslaughter committed while working at the Bundaberg Base Hospital. ](/news/2010/06/29/dr-jayant-patel-is-convicted-at-the-supreme-court-of-queensland-australia-of-three-charges-of-manslaughter-committed-while-working-at-the.md)
-_Context: Queensland, Jayant Patel, Bundaberg, Australia, Base Hospital, Supreme Court, manslaughter by gross negligence_
+_Context: Bundaberg, Australia, Jayant Patel, Queensland, manslaughter by gross negligence, Supreme Court, Base Hospital_
 
 ##### Sydney
 ### [Sydney experiences its coldest June day in 27 years. ](/news/2010/06/29/sydney-experiences-its-coldest-june-day-in-27-years.md)
@@ -65,7 +65,7 @@ _Context: Romania, major floods_
 
 ##### Hurricane Alex
 ### [Hurricane Alex becomes the first hurricane of the 2010 Atlantic hurricane season with warnings posted from Baffin Bay, Texas south to Mexico. ](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.md)
-_Context: hurricane, Hurricane Alex, Baffin Bay, Mexico, Texas, 2010 Atlantic hurricane season_
+_Context: Texas, Mexico, Baffin Bay, hurricane, Hurricane Alex, 2010 Atlantic hurricane season_
 
 ##### swine flu
 ### [21 suspected cases of swine flu A (H1N1), with one death, have been reported in Thanjavur in India. ](/news/2010/06/29/21-suspected-cases-of-swine-flu-a-h1n1-with-one-death-have-been-reported-in-thanjavur-in-india.md)

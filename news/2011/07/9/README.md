@@ -9,7 +9,7 @@ _Context: Syrian Army, 2011 Syrian uprising, Human Rights Watch_
 
 ##### Facundo Cabral
 ### [Argentine singer-songwriter Facundo Cabral is assassinated in an apparent ambush in Guatemala City. ](/news/2011/07/9/argentine-singer-songwriter-facundo-cabral-is-assassinated-in-an-apparent-ambush-in-guatemala-city.md)
-_Context: Guatemala City, Facundo Cabral_
+_Context: Facundo Cabral, Guatemala City_
 
 ##### Inflation
 ### [Inflation in China rises to its highest level in three years. ](/news/2011/07/9/inflation-in-china-rises-to-its-highest-level-in-three-years.md)
@@ -17,11 +17,11 @@ _Context: Guatemala City, Facundo Cabral_
 
 ##### Milan
 ### [A Milan court orders Fininvest, Prime Minister of Italy Silvio Berlusconi's family company, to pay 560 million euros in damages to Compagnie Industriali Riunite in a long running legal dispute. ](/news/2011/07/9/a-milan-court-orders-fininvest-prime-minister-of-italy-silvio-berlusconi-s-family-company-to-pay-560-million-euros-in-damages-to-compagnie.md)
-_Context: Compagnie Industriali Riunite, Silvio Berlusconi, Fininvest, euro, Milan, Italian Prime Minister_
+_Context: Compagnie Industriali Riunite, Italian Prime Minister, euro, Silvio Berlusconi, Milan, Fininvest_
 
 ##### South Sudan
 ### [South Sudan secedes from Sudan, becoming a sovereign state. ](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.md)
-_Context: South Sudan, sovereign state, Sudan_
+_Context: sovereign state, South Sudan, Sudan_
 
 ##### Malaysian police
 ### [Malaysian police fire tear gas and arrest hundreds of people as more than 20,000 people march in the 2011 Bersih 2.0 rally demanding electoral reform in Kuala Lumpur. ](/news/2011/07/9/malaysian-police-fire-tear-gas-and-arrest-hundreds-of-people-as-more-than-20-000-people-march-in-the-2011-bersih-2-0-rally-demanding-elector.md)

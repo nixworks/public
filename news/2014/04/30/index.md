@@ -9,7 +9,7 @@ Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tues
 
 ##### Syrian Civil War
 ### [The Local Coordination Committees of Syria announces that 25 children were killed on Wednesday when Syrian army forces dropped barrel bombs on an elementary school. ](/news/2014/04/30/the-local-coordination-committees-of-syria-announces-that-25-children-were-killed-on-wednesday-when-syrian-army-forces-dropped-barrel-bombs.md)
-_Context: Syrian Civil War, barrel bombs, Local Coordination Committees of Syria, Syrian Army_
+_Context: Syrian Army, Local Coordination Committees of Syria, Syrian Civil War, barrel bombs_
 
 ##### India
 ### [India has become the world's third-largest economy in purchasing power parity after the United States and China, moving ahead of Japan according to World Bank report. The last survey in 2005 had placed India in 10th place.](/news/2014/04/30/india-has-become-the-world-s-third-largest-economy-in-purchasing-power-parity-after-the-united-states-and-china-moving-ahead-of-japan-accor.md)

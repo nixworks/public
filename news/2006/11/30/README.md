@@ -25,23 +25,23 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### clashes
 ### [ At least 300 people were killed in clashes between Sudan's army and former rebels in the south earlier this week, aid workers say. ](/news/2006/11/30/at-least-300-people-were-killed-in-clashes-between-sudan-s-army-and-former-rebels-in-the-south-earlier-this-week-aid-workers-say.md)
-_Context: clashes, Sudan_
+_Context: Sudan, clashes_
 
 ##### Nicolas Sarkozy
 ### [ Nicolas Sarkozy, the French Interior Minister, announces plans to run as a candidate for the French Presidency in elections in April 2007. ](/news/2006/11/30/nicolas-sarkozy-the-french-interior-minister-announces-plans-to-run-as-a-candidate-for-the-french-presidency-in-elections-in-april-2007.md)
-_Context: French President, Nicolas Sarkozy, 2007 presidential election, minister of the interior_
+_Context: minister of the interior, 2007 presidential election, Nicolas Sarkozy, French President_
 
 ##### Hezbollah
 ### [ Hezbollah-led Lebanon opposition groups call for protests on Friday in an effort to bring down the Government, ](/news/2006/11/30/hezbollah-led-lebanon-opposition-groups-call-for-protests-on-friday-in-an-effort-to-bring-down-the-government.md)
-_Context: Hezbollah, Lebanon_
+_Context: Lebanon, Hezbollah_
 
 ##### U.S. President
 ### [ A meeting between the President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki in Jordan is cancelled. A classified Bush administration memo critical of the ability of al-Maliki to bring sectarian conflict under control had previously been published in "The New York Times". In a later meeting, they decided that Iraq should not be divided into semi-autonomous zones. ](/news/2006/11/30/a-meeting-between-the-president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-in-jordan-is-cancelled.md)
-_Context: Iraq Prime Minister, George W. Bush, Jordan, Nouri al-Maliki, George W. Bush administration, sectarian conflict, The New York Times, U.S. President_
+_Context: U.S. President, George W. Bush administration, sectarian conflict, Iraq Prime Minister, George W. Bush, Nouri al-Maliki, The New York Times, Jordan_
 
 ##### Prime Minister
 ### [ The Prime Minister of Fiji Laisenia Qarase partially agrees to demands by the head of the Fijian military Commodore Frank Bainimarama in order to avert a coup. Bainimarama rejects the compromise and issues a deadline of noon on Friday. ](/news/2006/11/30/the-prime-minister-of-fiji-laisenia-qarase-partially-agrees-to-demands-by-the-head-of-the-fijian-military-commodore-frank-bainimarama-in-or.md)
-_Context: Fiji, Laisenia Qarase, Prime Minister, Voreqe Bainimarama_
+_Context: Voreqe Bainimarama, Laisenia Qarase, Fiji, Prime Minister_
 
 ## [Previous Day...](/news/2006/11/29/index.md)
 

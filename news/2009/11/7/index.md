@@ -9,11 +9,11 @@ _Context: United Kingdom, Texas_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: Houthi, due to fighting, Saudi Arabia, Yemen_
+_Context: Saudi Arabia, due to fighting, Houthi, Yemen_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Bermeo, Spain, Somali pirates_
+_Context: Bermeo, Somali pirates, Spain_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
@@ -25,7 +25,7 @@ _Context: NATO, Afghanistan, Badghis Province_
 
 ##### Madagascar
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
-_Context: political crisis, unity, Madagascar_
+_Context: political crisis, Madagascar, unity_
 
 ##### South Island
 ### [ Scientists in the South Island, New Zealand, discover the first dinosaur footprints in the country, thought to be 70 million years old. ](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.md)
@@ -33,11 +33,11 @@ Dinosaur footprints found in northwest Nelson have given scientists their first 
 
 ##### Russia
 ### [ 11 people are confirmed dead after the crashing of a Russian military plane into the sea in the Tatar Strait, in the far east of Russia, yesterday. ](/news/2009/11/7/11-people-are-confirmed-dead-after-the-crashing-of-a-russian-military-plane-into-the-sea-in-the-tatar-strait-in-the-far-east-of-russia-ye.md)
-_Context: Tatar Strait, Russia_
+_Context: Russia, Tatar Strait_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: municipal, legislature, 2009 gubernatorial election and runoff, Northern Mariana Islands, go to the polls_
+_Context: 2009 gubernatorial election and runoff, legislature, go to the polls, Northern Mariana Islands, municipal_
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)
@@ -49,7 +49,7 @@ For the first time two Australian researchers have painstakingly pieced together
 
 ##### Lebanon
 ### [ Lebanon's political opposition agrees to join a unity government under Prime Minister designate Saad Hariri. ](/news/2009/11/7/lebanon-s-political-opposition-agrees-to-join-a-unity-government-under-prime-minister-designate-saad-hariri.md)
-_Context: Saad Hariri, Lebanon_
+_Context: Lebanon, Saad Hariri_
 
 ##### Luigi Esposito
 ### [ Luigi Esposito, one of Italy's 30 most wanted men, is detained at a villa in Naples. ](/news/2009/11/7/luigi-esposito-one-of-italy-s-30-most-wanted-men-is-detained-at-a-villa-in-naples.md)
@@ -69,7 +69,7 @@ _Context: Caracas_
 
 ##### Ashmolean Museum
 ### [ Ashmolean Museum in Oxfordshire, the UK's oldest museum, reopens after renovations. ](/news/2009/11/7/ashmolean-museum-in-oxfordshire-the-uk-s-oldest-museum-reopens-after-renovations.md)
-_Context: Oxfordshire, Ashmolean Museum_
+_Context: Ashmolean Museum, Oxfordshire_
 
 ## [Previous Day...](/news/2009/11/6/index.md)
 

@@ -9,11 +9,11 @@ _Context: magnitude, earthquake_
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France will reduce its airborne nuclear weapons arsenal by a third. ](/news/2008/03/21/president-nicolas-sarkozy-announces-that-france-will-reduce-its-airborne-nuclear-weapons-arsenal-by-a-third.md)
-_Context: Nicolas Sarkozy, French President, France, nuclear weapons arsenal_
+_Context: French President, nuclear weapons arsenal, France, Nicolas Sarkozy_
 
 ##### Alain Bernard
 ### [ Alain Bernard sets a world record for the men's 100 meters freestyle with a time of 47" 60. ](/news/2008/03/21/alain-bernard-sets-a-world-record-for-the-men-s-100-meters-freestyle-with-a-time-of-47-60.md)
-_Context: Alain Bernard, world record_
+_Context: world record, Alain Bernard_
 
 ## [Previous Day...](/news/2008/03/20/index.md)
 

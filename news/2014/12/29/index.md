@@ -29,7 +29,7 @@ _Context: Hellenic Parliament, Greek elections, elect a new Greek president_
 
 ##### blocks
 ### [The Chinese government blocks some of Google's Gmail services. ](/news/2014/12/29/the-chinese-government-blocks-some-of-google-s-gmail-services.md)
-_Context: Gmail, blocks, Google_
+_Context: Google, Gmail, blocks_
 
 ## [Previous Day...](/news/2014/12/28/index.md)
 

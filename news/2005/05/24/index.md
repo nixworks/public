@@ -5,23 +5,23 @@ Formats: [HTML](2005/05/24/index.html)  [JSON](2005/05/24/index.json)  [XML](200
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least five Iraqis and seven US Soldiers have been killed following a spate of bombings in Iraq. ](/news/2005/05/24/conflict-in-iraq-at-least-five-iraqis-and-seven-us-soldiers-have-been-killed-following-a-spate-of-bombings-in-iraq.md)
-_Context: Iraq, bomb, US Soldiers, Conflict in Iraq_
+_Context: US Soldiers, Conflict in Iraq, Iraq, bomb_
 
 ##### Mathematicians
 ### [ Mathematician Peter Lax receives the Abel Prize, worth nearly one million USD, from Norway's Crown Prince Haakon in a ceremony in Oslo. The prize is awarded for his work on "the theory and application of partial differential equations.](/news/2005/05/24/mathematician-peter-lax-receives-the-abel-prize-worth-nearly-one-million-usd-from-norway-s-crown-prince-haakon-in-a-ceremony-in-oslo-the.md)
-_Context: Norway, Peter Lax, Crown Prince Haakon, USD, Oslo, Abel Prize, Mathematicians, partial differential equations_
+_Context: Mathematicians, Crown Prince Haakon, Oslo, partial differential equations, USD, Abel Prize, Peter Lax, Norway_
 
 ##### Israel
 ### [ Israeli soldiers catch a 15 year old Palestinian carrying two pipe bombs at a West Bank checkpoint. ](/news/2005/05/24/israeli-soldiers-catch-a-15-year-old-palestinian-carrying-two-pipe-bombs-at-a-west-bank-checkpoint.md)
-_Context: Israel, Palestinian, pipe bomb, West Bank_
+_Context: Palestinian, West Bank, pipe bomb, Israel_
 
 ##### al-Qaeda
 ### [ Al-Qaeda in Iraq claims in its website that Abu Musab al-Zarqawi has been wounded. ](/news/2005/05/24/al-qaeda-in-iraq-claims-in-its-website-that-abu-musab-al-zarqawi-has-been-wounded.md)
-_Context: Abu Musab al-Zarqawi, al-Qaeda, Iraq_
+_Context: Iraq, al-Qaeda, Abu Musab al-Zarqawi_
 
 ##### John Howard
 ### [ John Howard, the Prime Minister of Australia, has written to his Japanese counterpart, Junichiro Koizumi, urging Japan to reconsider its position on whaling. The International Whaling Commission is expected to consider Japan's expansion proposal when it meets next month. ](/news/2005/05/24/john-howard-the-prime-minister-of-australia-has-written-to-his-japanese-counterpart-junichiro-koizumi-urging-japan-to-reconsider-its-po.md)
-_Context: International Whaling Commission, Australian Prime Minister, Japan, John Howard, whaling, Junichiro Koizumi_
+_Context: whaling, Japan, International Whaling Commission, Australian Prime Minister, Junichiro Koizumi, John Howard_
 
 ##### Chile
 ### [ The Chilean army buries 24 of 46 conscripts that died in a snow storm in the Andes. Presidential candidates have called for an end to compulsory military service. 13 bodies still unfound.](/news/2005/05/24/the-chilean-army-buries-24-of-46-conscripts-that-died-in-a-snow-storm-in-the-andes-presidential-candidates-have-called-for-an-end-to-compu.md)
@@ -33,11 +33,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Canadian
 ### [ Canadian Liberal candidate Todd Russell wins a crucial by-election in the federal riding of Labrador. This result consolidates the shaky Liberal balance of power in the federal government. ](/news/2005/05/24/canadian-liberal-candidate-todd-russell-wins-a-crucial-by-election-in-the-federal-riding-of-labrador-this-result-consolidates-the-shaky-li.md)
-_Context: Labrador, by-election, Todd Russell, Canadian, Liberal Party's_
+_Context: Canadian, Liberal Party's, Labrador, Todd Russell, by-election_
 
 ##### Richard M. Scrushy
 ### [ Jurors in the criminal trial of Richard M. Scrushy, founder and former CEO of HealthSouth Corporation, send notes to the presiding judge that indicate they are having difficulty reaching unanimity. The case is part of the wave of U.S. corporate scandals of recent years. Prosecutors allege that Mr. Scrushy and others conspired to overstate profits at HealthSouth by circa $2.7 billion, in the period 1996 - 2002. ](/news/2005/05/24/jurors-in-the-criminal-trial-of-richard-m-scrushy-founder-and-former-ceo-of-healthsouth-corporation-send-notes-to-the-presiding-judge-th.md)
-_Context: Richard M. Scrushy, 1996, HealthSouth Corporation, 2002_
+_Context: Richard M. Scrushy, 2002, HealthSouth Corporation, 1996_
 
 ## [Previous Day...](/news/2005/05/23/index.md)
 

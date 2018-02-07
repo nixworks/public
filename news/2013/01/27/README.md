@@ -5,11 +5,11 @@ Formats: [HTML](2013/01/27/index.html)  [JSON](2013/01/27/index.json)  [XML](201
 
 ##### police
 ### [At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. ](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-police-have-been-killed-in-bomb-attacks-over-the-past-day-with-eight-police-officers-killed-i.md)
-_Context: Kandahar, police_
+_Context: police, Kandahar_
 
 ##### Syria
 ### [Reports claim that elite Syrian military forces shell the town of Darayya just southwest of Damascus. ](/news/2013/01/27/reports-claim-that-elite-syrian-military-forces-shell-the-town-of-darayya-just-southwest-of-damascus.md)
-_Context: Darayya, Damascus, Syria_
+_Context: Syria, Darayya, Damascus_
 
 ##### Timbuktu
 ### [French forces prepare an attack on Timbuktu to defeat Islamists, as more African troops are sent into Mali. ](/news/2013/01/27/french-forces-prepare-an-attack-on-timbuktu-to-defeat-islamists-as-more-african-troops-are-sent-into-mali.md)
@@ -25,11 +25,11 @@ At least 233 people die in a fire that swept through a nightclub in southern Bra
 
 ##### fire
 ### [At least seven workers die in the factory fire in the capital of Bangladesh, Dhaka. ](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-in-the-capital-of-bangladesh-dhaka.md)
-_Context: Dhaka, fire, Bangladesh_
+_Context: fire, Dhaka, Bangladesh_
 
 ##### landslide
 ### [A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. ](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.md)
-_Context: landslide, Sumatra, Indonesia_
+_Context: Indonesia, landslide, Sumatra_
 
 ##### flooding
 ### [Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. ](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-oswald-continues-to-cause-significant-flooding-in-the-australian-state-of-queensland-with-the-c.md)

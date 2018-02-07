@@ -13,11 +13,11 @@ Ross McEwan wants to focus bailed-out bank on UK and reduce presence to 13 count
 
 ##### Target Corporation
 ### [Target Corporation, a major U.S. retail chain, announces cuts that will mean the loss of thousands of jobs, part of a revival plan adopted by CEO Brian Cornell. ](/news/2015/03/3/target-corporation-a-major-u-s-retail-chain-announces-cuts-that-will-mean-the-loss-of-thousands-of-jobs-part-of-a-revival-plan-adopted-b.md)
-_Context: U.S., Target Corporation_
+_Context: Target Corporation, U.S._
 
 ##### Villarrica
 ### [The Villarrica volcano explodes in southern Chile leading to the evacuation of 3,000 people. ](/news/2015/03/3/the-villarrica-volcano-explodes-in-southern-chile-leading-to-the-evacuation-of-3-000-people.md)
-_Context: Villarrica, Chile, volcano_
+_Context: Chile, Villarrica, volcano_
 
 ##### Boris Nemtsov's assassination
 ### [Russian authorities refuse entry into Russia at Moscow's Sheremetyevo International Airport to a Latvian lawmaker and vice-chair of the biggest bloc in the EU, Sandra Kalniete. Having received no reasonable explanation for the ban, she flies back to Brussels. ](/news/2015/03/3/russian-authorities-refuse-entry-into-russia-at-moscow-s-sheremetyevo-international-airport-to-a-latvian-lawmaker-and-vice-chair-of-the-bigg.md)
@@ -29,15 +29,15 @@ North Korea will once again allow tourists into the country after four months of
 
 ##### Director of the CIA
 ### [Former CIA director and U.S. Army officer David Petraeus pleads guilty in federal court to a charge of unauthorized removal and retention of classified information. ](/news/2015/03/3/former-cia-director-and-u-s-army-officer-david-petraeus-pleads-guilty-in-federal-court-to-a-charge-of-unauthorized-removal-and-retention-of.md)
-_Context: United States soldier, Director of the CIA, David Petraeus_
+_Context: David Petraeus, United States soldier, Director of the CIA_
 
 ##### Turkey
 ### [A Turkish court orders President Recep Tayyip Erdogan to pay 10,000 lira ($4,000) in compensation for the mental anguish caused to artist Mehmet Aksoy for having called his sculpture "Monument to Humanity" -- meant to promote reconciliation between Turkey and Armenia -- a "monstrosity" in 2011. ](/news/2015/03/3/a-turkish-court-orders-president-recep-tayyip-erdoaan-to-pay-10-000-lira-4-000-in-compensation-for-the-mental-anguish-caused-to-artist-m.md)
-_Context: Mehmet Aksoy, Armenia, Recep Tayyip Erdogan, Turkey, Monument to Humanity, lira, $_
+_Context: Armenia, Mehmet Aksoy, $, Turkey, Recep Tayyip Erdogan, Monument to Humanity, lira_
 
 ##### China
 ### [China detains Jing Chunhua, a senior official from Hebei province of China, for investigation by the Communist Party's anti-graft agency for violating party discipline and breaking the law. Jing is the second provincial-ranked official from Hebei province to undergo investigation since the wider anti-corruption campaign began in 2013. ](/news/2015/03/3/china-detains-jing-chunhua-a-senior-official-from-hebei-province-of-china-for-investigation-by-the-communist-party-s-anti-graft-agency-for.md)
-_Context: Jing Chunhua, China, Central Commission for Discipline Inspection, Hebei_
+_Context: Jing Chunhua, Hebei, Central Commission for Discipline Inspection, China_
 
 ##### Same-sex marriage in Slovenia
 ### [Slovenia becomes the 11th EU member state and the first post-communist state to legalize same-sex marriage and adoption of children by same-sex couples, after a parliamentary vote of 51&ndash;28. ](/news/2015/03/3/slovenia-becomes-the-11th-eu-member-state-and-the-first-post-communist-state-to-legalize-same-sex-marriage-and-adoption-of-children-by-same.md)
@@ -45,7 +45,7 @@ Slovenia joined a growing number of European countries that allow same-sex marri
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu addresses a joint meeting of the United States Congress over the nuclear program of Iran. ](/news/2015/03/3/israeli-prime-minister-benjamin-netanyahu-addresses-a-joint-meeting-of-the-united-states-congress-over-the-nuclear-program-of-iran.md)
-_Context: nuclear program, lawmakers, Israeli Prime Minister, Benjamin Netanyahu, joint session of Congress_
+_Context: joint session of Congress, lawmakers, Israeli Prime Minister, nuclear program, Benjamin Netanyahu_
 
 ##### Myanmar
 ### [Myanmarese students on a march to Yangon to protest an academic bill defy a police order to disperse in Letpadan Township. ](/news/2015/03/3/myanmarese-students-on-a-march-to-yangon-to-protest-an-academic-bill-defy-a-police-order-to-disperse-in-letpadan-township.md)

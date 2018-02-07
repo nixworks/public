@@ -21,11 +21,11 @@ The names of the New Zealand soldiers killed in Afghanistan overnight have been 
 
 ##### suicide bombing
 ### [Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. ](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-wounded-in-a-suicide-bombing-attack-in-russia-s-north-caucasus-republic-of-ingushetia.md)
-_Context: Ingushetia, North Caucasus, Russia, suicide bombing_
+_Context: North Caucasus, Russia, Ingushetia, suicide bombing_
 
 ##### Sonia Gandhi
 ### [Sonia Gandhi says stern action should happen against those responsible for the violence in Assam and the social media messages that drove 30,000 migrant workers out of their homes in South India. ](/news/2012/08/19/sonia-gandhi-says-stern-action-should-happen-against-those-responsible-for-the-violence-in-assam-and-the-social-media-messages-that-drove-30.md)
-_Context: violence, social media, India, Sonia Gandhi_
+_Context: India, Sonia Gandhi, violence, social media_
 
 ##### Tony Scott
 ### [British-born film director Tony Scott dies after leaping 200ft from the Vincent Thomas Bridge in Los Angeles. ](/news/2012/08/19/british-born-film-director-tony-scott-dies-after-leaping-200ft-from-the-vincent-thomas-bridge-in-los-angeles.md)
@@ -49,7 +49,7 @@ A magnitude 5.6 earthquake struck off the coast of the West Coast state of Washi
 
 ##### Keith O'Brien
 ### [Scotland's Roman Catholic leader Cardinal Keith O'Brien suspends direct communication with the Scottish government on same-sex marriage. ](/news/2012/08/19/scotland-s-roman-catholic-leader-cardinal-keith-o-brien-suspends-direct-communication-with-the-scottish-government-on-same-sex-marriage.md)
-_Context: Keith O'Brien, same-sex marriage_
+_Context: same-sex marriage, Keith O'Brien_
 
 ##### nuclear waste gases
 ### [Radioactive contamination causes hereditary genetic mutations in life forms. This has been proven on butterfly generations. At stated times, the effect on humans remains unclear. ](/news/2012/08/19/radioactive-contamination-causes-hereditary-genetic-mutations-in-life-forms-this-has-been-proven-on-butterfly-generations-at-stated-times.md)
@@ -61,7 +61,7 @@ At least 10 Japanese nationalist activists have landed on a group of disputed is
 
 ##### WikiLeaks
 ### [In the stand-off between Britain and Ecuador over Julian Assange, WikiLeaks founder Julian Assange gives a speech critical of the United States' policy against Wikileaks, "dragging us all in a dark, repressive world in which journalists live under fear of prosecution", from the balcony of Ecuador's London embassy. ](/news/2012/08/19/in-the-stand-off-between-britain-and-ecuador-over-julian-assange-wikileaks-founder-julian-assange-gives-a-speech-critical-of-the-united-sta.md)
-_Context: Julian Assange, Ecuador, London, United States, WikiLeaks_
+_Context: Ecuador, WikiLeaks, Julian Assange, United States, London_
 
 ##### Secretary of State for Work and Pensions
 ### [It is reported that UK Work and Pensions Secretary Iain Duncan Smith's department has made a formal complaint to the BBC over claims of anti-Government bias, as Duncan Smith himself attacks the Corporation in a "Mail on Sunday" article for what he perceives to be its negative stance towards the coalition. ](/news/2012/08/19/it-is-reported-that-uk-work-and-pensions-secretary-iain-duncan-smith-s-department-has-made-a-formal-complaint-to-the-bbc-over-claims-of-anti.md)

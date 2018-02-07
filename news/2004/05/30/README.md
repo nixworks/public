@@ -9,15 +9,15 @@ _Context: Tiananmen Square protests of 1989, Hong Kong, autonomy_
 
 ##### ballistic missile
 ### [ Pakistan test-fires a ballistic missile capable of carrying a nuclear warhead, but claims it will not increase tensions with India. ](/news/2004/05/30/pakistan-test-fires-a-ballistic-missile-capable-of-carrying-a-nuclear-warhead-but-claims-it-will-not-increase-tensions-with-india.md)
-_Context: ballistic missile, nuclear weapon, warhead_
+_Context: nuclear weapon, warhead, ballistic missile_
 
 ##### Sunni
 ### [ Thousands of Pakistani Sunni Muslims riot in Karachi, ransacking property, setting fire to four banks, and stoning vehicles after Mufti Nizamuddin Shamzai, an influential pro-Taliban cleric, is killed in a drive-by shooting. ](/news/2004/05/30/thousands-of-pakistani-sunni-muslims-riot-in-karachi-ransacking-property-setting-fire-to-four-banks-and-stoning-vehicles-after-mufti-niz.md)
-_Context: Nizamuddin Shamzai, drive-by shooting, Sunni, Karachi, Taliban_
+_Context: Taliban, drive-by shooting, Karachi, Nizamuddin Shamzai, Sunni_
 
 ##### Buddy Rice
 ### [ Buddy Rice wins the 2004 Indianapolis 500 driving for Rahal Letterman Racing. ](/news/2004/05/30/buddy-rice-wins-the-2004-indianapolis-500-driving-for-rahal-letterman-racing.md)
-_Context: Indianapolis 500, Buddy Rice, David Letterman, 2004, Rahal_
+_Context: Indianapolis 500, 2004, Rahal, Buddy Rice, David Letterman_
 
 ## [Previous Day...](/news/2004/05/29/index.md)
 

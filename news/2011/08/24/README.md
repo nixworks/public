@@ -9,7 +9,7 @@ Col Muammar Gaddafi last night reportedly vowed death or victory in the fight ag
 
 ##### al-Qaeda
 ### [Air strikes kill 30 Al-Qaeda linked militants near Zinjibar in Yemen's Abyan Governorate with eight army soldiers killed in fighting. ](/news/2011/08/24/air-strikes-kill-30-al-qaeda-linked-militants-near-zinjibar-in-yemen-s-abyan-governorate-with-eight-army-soldiers-killed-in-fighting.md)
-_Context: Zinjibar, Yemeni Army, al-Qaeda, Abyan Governorate, Yemen_
+_Context: Abyan Governorate, Zinjibar, al-Qaeda, Yemen, Yemeni Army_
 
 ##### Moody's
 ### [Moody's credit rating agency downgrades Japan to Aa3 due to weak economic growth prospects and high levels of public debt. ](/news/2011/08/24/moody-s-credit-rating-agency-downgrades-japan-to-aa3-due-to-weak-economic-growth-prospects-and-high-levels-of-public-debt.md)
@@ -17,7 +17,7 @@ Japan unveiled a $100 billion effort to help companies cope with a surging yen, 
 
 ##### Steve Jobs
 ### [Steve Jobs resigns as the CEO of Apple Inc. Tim Cook took over the CEO position for the company. ](/news/2011/08/24/steve-jobs-resigns-as-the-ceo-of-apple-inc-tim-cook-took-over-the-ceo-position-for-the-company.md)
-_Context: Steve Jobs, Tim Cook, Apple Inc_
+_Context: Apple Inc, Tim Cook, Steve Jobs_
 
 ##### Hurricane Irene
 ### [Hurricane Irene strengthens to Category 3 status as it heads towards The Bahamas and Turks and Caicos and then the East Coast of the United States. ](/news/2011/08/24/hurricane-irene-strengthens-to-category-3-status-as-it-heads-towards-the-bahamas-and-turks-and-caicos-and-then-the-east-coast-of-the-united.md)
@@ -33,7 +33,7 @@ _Context: North Korea, its nuclear weapons program_
 
 ##### state police
 ### [Russian police arrest a former senior police officer Dmitry Pavlyuchenkov suspected of organising the murder of former Kremlin reporter Anna Politkovskaya in 2006. ](/news/2011/08/24/russian-police-arrest-a-former-senior-police-officer-dmitry-pavlyuchenkov-suspected-of-organising-the-murder-of-former-kremlin-reporter-anna.md)
-_Context: state police, Kremlin, Anna Politkovskaya_
+_Context: Anna Politkovskaya, state police, Kremlin_
 
 ## [Previous Day...](/news/2011/08/23/index.md)
 

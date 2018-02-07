@@ -9,19 +9,19 @@ _Context: Pulitzer Prize, 2009_
 
 ##### Oracle Corporation
 ### [ Oracle Corporation purchases Sun Microsystems for $7.4 billion. ](/news/2009/04/20/oracle-corporation-purchases-sun-microsystems-for-7-4-billion.md)
-_Context: Sun Microsystems, Oracle Corporation, $_
+_Context: Oracle Corporation, Sun Microsystems, $_
 
 ##### India
 ### [ India's Space Research Organization launches its RISAT-2 reconnaissance satellite. ](/news/2009/04/20/india-s-space-research-organization-launches-its-risat-2-reconnaissance-satellite.md)
-_Context: India, RISAT-2, Indian Space Research Organisation, reconnaissance satellite_
+_Context: India, reconnaissance satellite, RISAT-2, Indian Space Research Organisation_
 
 ##### National Unity Party
 ### [ The National Unity Party wins Northern Cyprus's legislative election. ](/news/2009/04/20/the-national-unity-party-wins-northern-cyprus-s-legislative-election.md)
-_Context: National Unity Party, legislative, election, northern_
+_Context: election, National Unity Party, northern, legislative_
 
 ##### aircraft piracy
 ### [ The hijacker of CanJet Flight 918 surrenders and releases his six hostages. ](/news/2009/04/20/the-hijacker-of-canjet-flight-918-surrenders-and-releases-his-six-hostages.md)
-_Context: aircraft piracy, Flight 918, hostage, CanJet_
+_Context: Flight 918, aircraft piracy, hostage, CanJet_
 
 ##### United Nations
 ### [ The United Nations World Conference against Racism begins in Geneva, Switzerland. ](/news/2009/04/20/the-united-nations-world-conference-against-racism-begins-in-geneva-switzerland.md)
@@ -29,7 +29,7 @@ A UN conference on racism is due to open in Geneva today amid controversy over a
 
 ##### China
 ### [ China's government discovers 3850 km more of the Great Wall of China. ](/news/2009/04/20/china-s-government-discovers-3850-km-more-of-the-great-wall-of-china.md)
-_Context: Great Wall of China, China, government_
+_Context: China, Great Wall of China, government_
 
 ## [Previous Day...](/news/2009/04/19/index.md)
 

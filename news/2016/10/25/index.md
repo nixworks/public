@@ -53,7 +53,7 @@ A former nurse from Woodstock, Ont., has been charged with eight counts of first
 
 ##### Charles R. Breyer
 ### [U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. ](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-francisco-approves-german-automaker-volkswagen-14-7-billion-settlement-with-federal-and-califo.md)
-_Context: California, $, Volkswagen, Charles R. Breyer, San Francisco, German_
+_Context: Volkswagen, $, California, Charles R. Breyer, German, San Francisco_
 
 ## [Previous Day...](/news/2016/10/24/index.md)
 

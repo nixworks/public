@@ -17,7 +17,7 @@ Al Shabaab insurgents deployed a car bomb and a suicide bomber to attack a packe
 
 ##### Sacro GRA
 ### ["Sacro GRA", directed by Gianfranco Rosi, wins the Golden Lion at the 70th Venice International Film Festival. ](/news/2013/09/7/sacro-gra-directed-by-gianfranco-rosi-wins-the-golden-lion-at-the-70th-venice-international-film-festival.md)
-_Context: 70th Venice International Film Festival, Golden Lion, Sacro GRA_
+_Context: Golden Lion, Sacro GRA, 70th Venice International Film Festival_
 
 ##### Buckingham Palace
 ### [A man is arrested on suspicion of burglary, trespass and criminal damage after scaling a fence to get into Buckingham Palace. ](/news/2013/09/7/a-man-is-arrested-on-suspicion-of-burglary-trespass-and-criminal-damage-after-scaling-a-fence-to-get-into-buckingham-palace.md)

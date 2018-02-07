@@ -9,7 +9,7 @@ Bermuda issued a hurricane watch for Category 4 Hurricane Gonzalo, which is expe
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation declares Senegal to be free of the Ebola virus. ](/news/2014/10/17/the-world-health-organisation-declares-senegal-to-be-free-of-the-ebola-virus.md)
-_Context: World Health Organisation, Ebola virus, Senegal, Ebola virus epidemic in West Africa_
+_Context: Ebola virus epidemic in West Africa, Ebola virus, World Health Organisation, Senegal_
 
 ##### Ebola virus cases in the United States
 ### [The President of the United States Barack Obama names lawyer and former political operative Ron Klain as "ebola czar" to coordinate US response to the Ebola outbreak. ](/news/2014/10/17/the-president-of-the-united-states-barack-obama-names-lawyer-and-former-political-operative-ron-klain-as-ebola-czar-to-coordinate-us-respo.md)
@@ -17,7 +17,7 @@ Washington (AFP) - President Barack Obama on Friday named attorney Ron Klain to 
 
 ##### Kyodo
 ### [The Kyodo news agency reports that the Prime Minister of Japan Shinzo Abe sent a ritual offering to the controversial Yasukuni Shrine in Tokyo that could complicate relations with China and South Korea. ](/news/2014/10/17/the-kyodo-news-agency-reports-that-the-prime-minister-of-japan-shinzo-abe-sent-a-ritual-offering-to-the-controversial-yasukuni-shrine-in-tok.md)
-_Context: China, Prime Minister of Japan, Kyodo, Yasukuni Shrine, Shinzo Abe, South Korea, Tokyo_
+_Context: Shinzo Abe, Prime Minister of Japan, China, South Korea, Tokyo, Kyodo, Yasukuni Shrine_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Vladimir Putin, the President of Russia, and Petro Poroshenko, the President of Ukraine, will meet at the sidelines of the Asia-Europe Meeting in Milan, Italy to discuss the conflict and supplies of natural gas. ](/news/2014/10/17/vladimir-putin-the-president-of-russia-and-petro-poroshenko-the-president-of-ukraine-will-meet-at-the-sidelines-of-the-asiaaeurope-mee.md)

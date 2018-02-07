@@ -5,15 +5,15 @@ Formats: [HTML](2009/11/23/index.html)  [JSON](2009/11/23/index.json)  [XML](200
 
 ##### Maguindanao massacre
 ### [ Forty three people, including a local politician and about a dozen journalists, are killed in a massacre in Maguindanao, Philippines.](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.md)
-_Context: Philippines, Maguindanao, Maguindanao massacre_
+_Context: Philippines, Maguindanao massacre, Maguindanao_
 
 ##### Large Hadron Collider
 ### [ The first atom collisions have taken place in the Large Hadron Collider at CERN, near Geneva, Switzerland. ](/news/2009/11/23/the-first-atom-collisions-have-taken-place-in-the-large-hadron-collider-at-cern-near-geneva-switzerland.md)
-_Context: Large Hadron Collider, CERN, Geneva, Switzerland_
+_Context: Switzerland, CERN, Large Hadron Collider, Geneva_
 
 ##### Ulyanovsk
 ### [ A second fire at an arms depot plant in Ulyanovsk, Russia, kills at least eight people, 10 days after a previous explosion at the same site. ](/news/2009/11/23/a-second-fire-at-an-arms-depot-plant-in-ulyanovsk-russia-kills-at-least-eight-people-10-days-after-a-previous-explosion-at-the-same-site.md)
-_Context: previous explosion at the same site, Russia, Ulyanovsk_
+_Context: previous explosion at the same site, Ulyanovsk, Russia_
 
 ##### Jean Charles de Menezes
 ### [ The family of Jean Charles de Menezes, who was mistakenly shot dead by the Metropolitan Police in London in 2005, reach a compensation deal with police, resolving "all litigation" between them. ](/news/2009/11/23/the-family-of-jean-charles-de-menezes-who-was-mistakenly-shot-dead-by-the-metropolitan-police-in-london-in-2005-reach-a-compensation-deal.md)
@@ -21,11 +21,11 @@ _Context: Jean Charles de Menezes, London, Metropolitan Police_
 
 ##### India
 ### [ India's main opposition BJP party condemns a leaked Liberhan Commission report that implicated opposition figures in the destruction of the Babri Mosque in 1992 by Hindu nationalists. ](/news/2009/11/23/india-s-main-opposition-bjp-party-condemns-a-leaked-liberhan-commission-report-that-implicated-opposition-figures-in-the-destruction-of-the.md)
-_Context: Hindu nationalists, Bharatiya Janata Party, India, Liberhan Commission, Babri Mosque_
+_Context: Liberhan Commission, Hindu nationalists, Babri Mosque, India, Bharatiya Janata Party_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands participate in the Commonwealth's first ever gubernatorial runoff election between Governor Benigno Fitial and challenger Heinz Hofschneider. Hofschneider had bested Fitial in the first round by just 8 votes on November 7, the closest gubernatorial election in history. ](/news/2009/11/23/voters-in-the-northern-mariana-islands-participate-in-the-commonwealth-s-first-ever-gubernatorial-runoff-election-between-governor-benigno.md)
-_Context: Northern Mariana Islands, Governor of the Northern Mariana Islands, 2009 gubernatorial election and runoff, Benigno Fitial, Heinz Hofschneider_
+_Context: Heinz Hofschneider, Governor of the Northern Mariana Islands, Northern Mariana Islands, 2009 gubernatorial election and runoff, Benigno Fitial_
 
 ##### Extraordinary Chambers in the Courts of Cambodia
 ### [ The war crimes trial of the Khmer Rouge in Cambodia hears its final arguments. ](/news/2009/11/23/the-war-crimes-trial-of-the-khmer-rouge-in-cambodia-hears-its-final-arguments.md)
@@ -53,7 +53,7 @@ Relatives of the 104 people killed in a gas blast at a coal mine in northeast Ch
 
 ##### China
 ### [ Chinese human rights activist Huang Qi, who campaigned for the parents of the children killed in schools in the 2008 Sichuan earthquake, is sentenced to three years in prison for "illegally holding state secrets". ](/news/2009/11/23/chinese-human-rights-activist-huang-qi-who-campaigned-for-the-parents-of-the-children-killed-in-schools-in-the-2008-sichuan-earthquake-is.md)
-_Context: China, state secrets, deadly earthquake, Huang Qi_
+_Context: state secrets, Huang Qi, deadly earthquake, China_
 
 ## [Previous Day...](/news/2009/11/22/index.md)
 

@@ -5,15 +5,15 @@ Formats: [HTML](2014/10/7/index.html)  [JSON](2014/10/7/index.json)  [XML](2014/
 
 ##### Korean maritime border incidents
 ### [There is an exchange of gunfire as a North Korean patrol boat breaches the South Korean western sea border. ](/news/2014/10/7/there-is-an-exchange-of-gunfire-as-a-north-korean-patrol-boat-breaches-the-south-korean-western-sea-border.md)
-_Context: South Korea, North Korea, Korean maritime border incidents_
+_Context: North Korea, Korean maritime border incidents, South Korea_
 
 ##### ISIL
 ### [A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in-airstrikes-last-night.md)
-_Context: Tal Afar, ISIL, Iraq_
+_Context: Iraq, Tal Afar, ISIL_
 
 ##### earthquake
 ### [A magnitude 6.0 earthquake hits China's Yunnan province with at least one death reported. ](/news/2014/10/7/a-magnitude-6-0-earthquake-hits-china-s-yunnan-province-with-at-least-one-death-reported.md)
-_Context: Yunnan province, China, earthquake_
+_Context: China, Yunnan province, earthquake_
 
 ##### 2014 Pacific typhoon season
 ### [Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md)

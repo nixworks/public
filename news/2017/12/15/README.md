@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/15/index.html)  [JSON](2017/12/15/index.json)  [XML](201
 
 ##### Israeli-Palestinian conflict
 ### [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md)
-_Context: Qalandia, Palestinians, United States recognition of Jerusalem as Israeli capital, Jerusalem, Hebron, West Bank, Israeli-Palestinian conflict, Ramallah, Qalqilya, Israel Defense Forces, Gaza, Bethlehem, status of Jerusalem_
+_Context: Qalqilya, Israeli-Palestinian conflict, Israel Defense Forces, West Bank, United States recognition of Jerusalem as Israeli capital, Qalandia, Bethlehem, status of Jerusalem, Ramallah, Jerusalem, Palestinians, Gaza, Hebron_
 
 ##### Beate Uhse AG
 ### [Beate Uhse AG, supplier of the "Pabo" erotica catalog, files for bankruptcy in Germany. Only the holding company restructures in order to secure refinancing with the creditors. Beate Uhse-Rotermund opened the first sex shop in 1962, in Flensburg, under the name "Institut fur Ehehygiene" ("Institute for marriage hygiene"). ](/news/2017/12/15/beate-uhse-ag-supplier-of-the-pabo-erotica-catalog-files-for-bankruptcy-in-germany-only-the-holding-company-restructures-in-order-to-se.md)
@@ -17,11 +17,11 @@ _Context: Ryanair, labour unions, low-cost carrier, Irish_
 
 ##### 2017 Java earthquake
 ### [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md)
-_Context: 2017 Java earthquake, Java, earthquake, magnitude_
+_Context: Java, earthquake, magnitude, 2017 Java earthquake_
 
 ##### Child sexual abuse in Australia
 ### [A 17-volume report detailing children's experiences of sexual abuse in Australian institutions is published. It concludes that the issue is systemic and "not a case of a few rotten apples". It contains 189 new recommendations, for a total of 406. This report finalizes a five-year Royal Commission inquiry. ](/news/2017/12/15/a-17-volume-report-detailing-children-s-experiences-of-sexual-abuse-in-australian-institutions-is-published-it-concludes-that-the-issue-is.md)
-_Context: Australia, Royal Commission, Child sexual abuse in Australia_
+_Context: Child sexual abuse in Australia, Australia, Royal Commission_
 
 ##### drug overdose
 ### [The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. ](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-a-marked-increase-in-the-yearly-number-of-deaths-by-drug-overdose-the-number-for-end-may-20.md)
@@ -33,7 +33,7 @@ Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting 
 
 ##### Obamacare replacement proposals
 ### [A Federal District Judge for Eastern Pennsylvania temporarily enjoins the Trump administration from implementing new rules that change the Obamacare contraceptive mandate. California, Delaware, Maryland, Massachusetts, New York, Virginia and Washington have also sued the federal government over the rules. ](/news/2017/12/15/a-federal-district-judge-for-eastern-pennsylvania-temporarily-enjoins-the-trump-administration-from-implementing-new-rules-that-change-the-o.md)
-_Context: Maryland, New York, California, Eastern Pennsylvania, Massachusetts, Washington, Delaware, Obamacare replacement proposals, Federal District Judge, contraceptive mandate, Virginia_
+_Context: contraceptive mandate, Delaware, California, Obamacare replacement proposals, Massachusetts, New York, Virginia, Maryland, Washington, Eastern Pennsylvania, Federal District Judge_
 
 ##### Censorship in France
 ### [France's Constitutional Court rejects a bill to make visiting terrorist websites a criminal offence, citing "inviolability of freedom of communication and expression" as a reason. ](/news/2017/12/15/france-s-constitutional-court-rejects-a-bill-to-make-visiting-terrorist-websites-a-criminal-offence-citing-inviolability-of-freedom-of-com.md)
@@ -41,7 +41,7 @@ The issue of counter-terrorist measures is a highly debated topic in France, as 
 
 ##### Brexit
 ### [European Union leaders agree to allow the next phase of Brexit. ](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-phase-of-brexit.md)
-_Context: Brexit, European Union, next phase of Brexit_
+_Context: European Union, next phase of Brexit, Brexit_
 
 ## [Previous Day...](/news/2017/12/14/index.md)
 

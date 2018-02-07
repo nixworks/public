@@ -17,7 +17,7 @@ Lockheed Martin Corp, the world&#39;s biggest aerospace company and the Pentagon
 
 ##### derail
 ### [39 people are injured after an express train derails and catches fire in a tunnel on Hokkaido, Japan. ](/news/2011/05/28/39-people-are-injured-after-an-express-train-derails-and-catches-fire-in-a-tunnel-on-hokkaido-japan.md)
-_Context: Japan, Hokkaido, derail_
+_Context: derail, Hokkaido, Japan_
 
 ##### German
 ### [At least 10 people in Germany die after eating cucumbers infected with E. coli. ](/news/2011/05/28/at-least-10-people-in-germany-die-after-eating-cucumbers-infected-with-e-coli.md)
@@ -25,7 +25,7 @@ At least 10 people are now thought to have died and hundreds made sick in German
 
 ##### Vietnam
 ### [Vietnam accuses the People's Republic of China of "violating" its sovereignty after Chinese ships damaged a Petrovietnam boat in the disputed Spratly Islands. ](/news/2011/05/28/vietnam-accuses-the-people-s-republic-of-china-of-violating-its-sovereignty-after-chinese-ships-damaged-a-petrovietnam-boat-in-the-dispute.md)
-_Context: China, Spratly Islands, Vietnam, Petrovietnam_
+_Context: Spratly Islands, Petrovietnam, Vietnam, China_
 
 ##### North Korea
 ### [North Korea releases Eddie Jun, a United States citizen who was held in custody for half a year. ](/news/2011/05/28/north-korea-releases-eddie-jun-a-united-states-citizen-who-was-held-in-custody-for-half-a-year.md)
@@ -33,7 +33,7 @@ The United States is welcoming a North Korean announcement that it will free an 
 
 ##### Martial law
 ### [Martial law is declared in the city of Xilinhot, Inner Mongolia, China after days of protests. ](/news/2011/05/28/martial-law-is-declared-in-the-city-of-xilinhot-inner-mongolia-china-after-days-of-protests.md)
-_Context: Xilinhot, Inner Mongolia, Martial law_
+_Context: Inner Mongolia, Martial law, Xilinhot_
 
 ##### Puno
 ### [Protesting indigenous people take over half of the city of Puno in south-eastern Peru, demanding an end to a Canadian mining project. ](/news/2011/05/28/protesting-indigenous-people-take-over-half-of-the-city-of-puno-in-south-eastern-peru-demanding-an-end-to-a-canadian-mining-project.md)

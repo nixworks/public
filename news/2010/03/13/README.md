@@ -17,7 +17,7 @@ _Context: Israeli Prime Minister, Benjamin Netanyahu, East Jerusalem_
 
 #####  Georgian
 ### [The Georgian television station Imedi sparks panic throughout Georgia by broadcasting a fake news item about a supposed invasion of Russian troops and the murder of President Mikheil Saakashvili. ](/news/2010/03/13/the-georgian-television-station-imedi-sparks-panic-throughout-georgia-by-broadcasting-a-fake-news-item-about-a-supposed-invasion-of-russian.md)
-_Context: President of Georgia, Imedi, a fake news item, Russia,  Georgian, Mikheil Saakashvili_
+_Context: Russia, Imedi, President of Georgia, Mikheil Saakashvili,  Georgian, a fake news item_
 
 ##### New Zealand
 ### [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the "Ady Gil" when it crashed with the MV "Shonan Maru 2" and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.md)
@@ -37,11 +37,11 @@ A Taliban suicide bomber targeting security forces killed at least 11 people on 
 
 ##### Association Mutual Aid and Solidarity AF447
 ### [Association Mutual Aid and Solidarity AF447 seeks equal compensation for Air France Flight 447's French famiiles after Brazilian judge Mauro Nicolau Junior awards NZ$1.6 million for dead state prosecutor Marcelle Valpacos Fonseca; French insurer Axa will appeal. ](/news/2010/03/13/association-mutual-aid-and-solidarity-af447-seeks-equal-compensation-for-air-france-flight-447-s-french-famiiles-after-brazilian-judge-mauro.md)
-_Context: Association Mutual Aid and Solidarity AF447, crash of Air France Flight 447, Marcelle Valpacos Fonseca, Brazil, Axa, Mauro Nicolau Junior_
+_Context: Marcelle Valpacos Fonseca, Mauro Nicolau Junior, Axa, crash of Air France Flight 447, Brazil, Association Mutual Aid and Solidarity AF447_
 
 ##### Peru
 ### [Peruvian President Alan Garcia orders funding for a tsunami-warning system. ](/news/2010/03/13/peruvian-president-alan-garcaa-orders-funding-for-a-tsunami-warning-system.md)
-_Context: Peru, President, tsunami, Alan Garcia_
+_Context: tsunami, Alan Garcia, President, Peru_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen begins his state visit to the United States in Chicago, announcing to the world his scheme that will allow senior citizen tourists aged 66 and above to travel free on Iarnrod Eireann in the Republic of Ireland. ](/news/2010/03/13/taoiseach-brian-cowen-begins-his-state-visit-to-the-united-states-in-chicago-announcing-to-the-world-his-scheme-that-will-allow-senior-citi.md)

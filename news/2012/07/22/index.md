@@ -17,11 +17,11 @@ Car bombs in two towns south of Baghdad and in the Iraqi city of Najaf killed a 
 
 ##### China
 ### [At least 37 people are killed in torrential rains in the Chinese capital Beijing. ](/news/2012/07/22/at-least-37-people-are-killed-in-torrential-rains-in-the-chinese-capital-beijing.md)
-_Context: China, Beijing_
+_Context: Beijing, China_
 
 ##### Kahramanmaras
 ### [A moderately strong earthquake with a magnitude of 5.0 hits Kahramanmaras, Turkey. ](/news/2012/07/22/a-moderately-strong-earthquake-with-a-magnitude-of-5-0-hits-kahramanmaraa-turkey.md)
-_Context: Turkey, Kahramanmaras_
+_Context: Kahramanmaras, Turkey_
 
 ##### Hakkari Province
 ### [A military helicopter crashes in Hakkari province, Turkey, killing three soldiers and injuring four others. ](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.md)
@@ -37,7 +37,7 @@ The president of the Libyan Olympic Committee, Nabil al-Alam, is released - a we
 
 ##### Pranab Mukherjee
 ### [Pranab Mukherjee is elected as the new President of India. ](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.md)
-_Context: elected, Pranab Mukherjee, President of India_
+_Context: Pranab Mukherjee, President of India, elected_
 
 ##### U.S. President
 ### [U.S. President Barack Obama visits the town of Aurora, Colorado, to console the families of victims of the recent shooting that left 12 dead and dozens injured. ](/news/2012/07/22/u-s-president-barack-obama-visits-the-town-of-aurora-colorado-to-console-the-families-of-victims-of-the-recent-shooting-that-left-12-dead.md)

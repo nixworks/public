@@ -17,7 +17,7 @@ THE AFRICAN Union has suspended Mali following Thursday&rsquo;s military coup, w
 
 ##### Pope Benedict XVI
 ### [In a statement by Pope Benedict XVI he says that Communism does not work for Cuba and that he is ready to help the island find new ways to move forward in a peaceful manner. ](/news/2012/03/23/in-a-statement-by-pope-benedict-xvi-he-says-that-communism-does-not-work-for-cuba-and-that-he-is-ready-to-help-the-island-find-new-ways-to-m.md)
-_Context: Cuba, Pope Benedict XVI, Communist_
+_Context: Cuba, Communist, Pope Benedict XVI_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama nominates current President of Dartmouth College Jim Yong Kim to be head of the World Bank.](/news/2012/03/23/u-s-president-barack-obama-nominates-current-president-of-dartmouth-college-jim-yong-kim-to-be-head-of-the-world-bank.md)

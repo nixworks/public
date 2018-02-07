@@ -9,7 +9,7 @@ KUNDUZ, Afghanistan -- Six village police officers were poisoned and then shot t
 
 ##### central bank
 ### [The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. ](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is-holding-its-benchmark-interest-rate-at-4-where-it-has-been-since-a-half-point-cut-announce.md)
-_Context: Mexico, interest rate, central bank_
+_Context: central bank, interest rate, Mexico_
 
 ##### Governor of the Bank of England
 ### [Governor of the Bank of England Mervyn King announces that Winston Churchill will be featured on the 5 pound bank note which he says will likely begin circulation in 2016. ](/news/2013/04/26/governor-of-the-bank-of-england-mervyn-king-announces-that-winston-churchill-will-be-featured-on-the-5-pound-bank-note-which-he-says-will-li.md)
@@ -37,7 +37,7 @@ _Context: Syria, United States, White House_
 
 ##### Boston Marathon bombings
 ### [Boston Marathon bombings suspect Dzhokhar Tsarnaev is transferred from Beth Israel Deaconess Medical Center to the federal prison facility in Fort Devens in the U.S. state of Massachusetts. ](/news/2013/04/26/boston-marathon-bombings-suspect-dzhokhar-tsarnaev-is-transferred-from-beth-israel-deaconess-medical-center-to-the-federal-prison-facility-i.md)
-_Context: facility, Boston Marathon bombings, Dzhokhar Tsarnaev, Beth Israel Deaconess Medical Center, U.S., federal prison, Massachusetts, Fort Devens_
+_Context: Massachusetts, Beth Israel Deaconess Medical Center, Boston Marathon bombings, federal prison, Fort Devens, Dzhokhar Tsarnaev, facility, U.S._
 
 ##### Birmingham
 ### [Eleven members of a Birmingham, United Kingdom, terror cell are jailed for planning an attack to rival the 7 July and 9-11 atrocities. ](/news/2013/04/26/eleven-members-of-a-birmingham-united-kingdom-terror-cell-are-jailed-for-planning-an-attack-to-rival-the-7-july-and-9-11-atrocities.md)

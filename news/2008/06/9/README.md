@@ -13,7 +13,7 @@ A stalled storm system poured heavy rain on parts of the Midwest, setting off se
 
 ##### Pakistan
 ### [ Pakistan lawyers begin a "Long March" of protests against the Government of the President of Pakistan Pervez Musharraf calling for the reinstatement of judges dismissed last year including the former Chief Justice of Pakistan Iftikhar Muhammad Chaudhry. ](/news/2008/06/9/pakistan-lawyers-begin-a-long-march-of-protests-against-the-government-of-the-president-of-pakistan-pervez-musharraf-calling-for-the-rein.md)
-_Context: Pervez Musharraf, Iftikhar Muhammad Chaudhry, president, Pakistan's chief justice, Pakistan_
+_Context: Pakistan's chief justice, Pakistan, Iftikhar Muhammad Chaudhry, president, Pervez Musharraf_
 
 ##### Ukrainian coal mine collapse
 ### [ 24 miners are rescued from the Ukrainian coal mine collapse with 12 still missing and one reported fatality. ](/news/2008/06/9/24-miners-are-rescued-from-the-ukrainian-coal-mine-collapse-with-12-still-missing-and-one-reported-fatality.md)
@@ -29,11 +29,11 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Apple, Inc.
 ### [ Apple, Inc. introduces a new iPhone with 3G capabilities, a GPS, and new features. The device is called iPhone 3G. ](/news/2008/06/9/apple-inc-introduces-a-new-iphone-with-3g-capabilities-a-gps-and-new-features-the-device-is-called-iphone-3g.md)
-_Context: 3G, GPS, iPhone, Apple, Inc., iPhone 3G_
+_Context: 3G, GPS, Apple, Inc., iPhone, iPhone 3G_
 
 ##### IBM
 ### [ IBM and Los Alamos National Laboratory break processing speed barrier with the world's first petaflop computer, Roadrunner. ](/news/2008/06/9/ibm-and-los-alamos-national-laboratory-break-processing-speed-barrier-with-the-world-s-first-petaflop-computer-roadrunner.md)
-_Context: Los Alamos National Laboratory, IBM Roadrunner, IBM, petaflop_
+_Context: petaflop, Los Alamos National Laboratory, IBM, IBM Roadrunner_
 
 ##### Murder of Travis Alexander
 ### [ The body of businessman Travis Alexander is found in his home in Mesa, Arizona. It is believed he was murdered. ](/news/2008/06/9/the-body-of-businessman-travis-alexander-is-found-in-his-home-in-mesa-arizona-it-is-believed-he-was-murdered.md)
@@ -45,27 +45,27 @@ _Context: India, Manmohan Singh_
 
 ##### Indonesia
 ### [ Indonesia makes the practice of the Ahmadiyya form of Islam in Indonesia a crime punishable by five years in prison. ](/news/2008/06/9/indonesia-makes-the-practice-of-the-ahmadiyya-form-of-islam-in-indonesia-a-crime-punishable-by-five-years-in-prison.md)
-_Context: Islam in Indonesia, Ahmadiyya, Indonesia_
+_Context: Islam in Indonesia, Indonesia, Ahmadiyya_
 
 ##### McDonald's restaurants
 ### [ McDonald's stops serving sliced tomatoes in its hamburgers in the United States following a Salmonella Saintpaul outbreak linked to raw tomatoes. ](/news/2008/06/9/mcdonald-s-stops-serving-sliced-tomatoes-in-its-hamburgers-in-the-united-states-following-a-salmonella-saintpaul-outbreak-linked-to-raw-tom.md)
-_Context: hamburger, United States, McDonald's restaurants, Salmonellosis, tomato_
+_Context: McDonald's restaurants, Salmonellosis, tomato, hamburger, United States_
 
 ##### Spain
 ### [ Tens of thousands of Spanish truck drivers start an indefinite strike over the increases in the price of diesel. ](/news/2008/06/9/tens-of-thousands-of-spanish-truck-drivers-start-an-indefinite-strike-over-the-increases-in-the-price-of-diesel.md)
-_Context: Spain, strike, diesel, truck drivers_
+_Context: strike, diesel, Spain, truck drivers_
 
 ##### Rajasthan
 ### [ The government of the Indian state of Rajasthan meets with leaders of the Gujjar community after two weeks of protests over the reservation system. ](/news/2008/06/9/the-government-of-the-indian-state-of-rajasthan-meets-with-leaders-of-the-gujjar-community-after-two-weeks-of-protests-over-the-reservation.md)
-_Context: Gujjar, Rajasthan, reservations_
+_Context: Gujjar, reservations, Rajasthan_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush commences the last visit to Europe of his presidency. ](/news/2008/06/9/the-president-of-the-united-states-george-w-bush-commences-the-last-visit-to-europe-of-his-presidency.md)
-_Context: Europe, George W. Bush, U.S. President_
+_Context: George W. Bush, U.S. President, Europe_
 
 ##### United States Secretary of Defense
 ### [ The United States Secretary of Defense Robert Gates nominates Norton Schwartz to be the next Chief of Staff of the United States Air Force with Michael B. Donley nominated as the next United States Secretary of the Air Force. ](/news/2008/06/9/the-united-states-secretary-of-defense-robert-gates-nominates-norton-schwartz-to-be-the-next-chief-of-staff-of-the-united-states-air-force.md)
-_Context: Chief of Staff of the United States Air Force, United States Secretary of Defense, Norton Schwartz, Michael B. Donley, Robert Gates, Secretary of the Air Force_
+_Context: Secretary of the Air Force, Norton Schwartz, Michael B. Donley, Robert Gates, Chief of Staff of the United States Air Force, United States Secretary of Defense_
 
 ## [Previous Day...](/news/2008/06/8/index.md)
 

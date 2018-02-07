@@ -5,19 +5,19 @@ Formats: [HTML](2005/03/5/index.html)  [JSON](2005/03/5/index.json)  [XML](2005/
 
 ##### President
 ### [ President Bashar al-Assad of Syria announces that Syria will withdraw all 14,000 troops in Lebanon to the Bekaa Valley area, on the Syrian-Lebanese border. ](/news/2005/03/5/president-bashar-al-assad-of-syria-announces-that-syria-will-withdraw-all-14-000-troops-in-lebanon-to-the-bekaa-valley-area-on-the-syrian.md)
-_Context: Syria, President, Lebanon, Bashar al-Assad_
+_Context: Syria, Bashar al-Assad, Lebanon, President_
 
 ##### Scientist
 ### [ Scientists flock to an area about 300 mi off the coast of U.S. state of Washington to study what appears to be an ongoing undersea volcanic eruption. Accompanying earthquakes measuring up to magnitude 4.0 have numbered thousands per day. ](/news/2005/03/5/scientists-flock-to-an-area-about-300-mi-off-the-coast-of-u-s-state-of-washington-to-study-what-appears-to-be-an-ongoing-undersea-volcanic.md)
-_Context: U.S. state, Scientist, magnitude, earthquake, Washington, volcano_
+_Context: volcano, U.S. state, Scientist, Washington, magnitude, earthquake_
 
 ##### South Africa
 ### [ The South African film director Zola Maseko wins the top prize at the 2005 FESPACO African film festival for his film "Drum". ](/news/2005/03/5/the-south-african-film-director-zola-maseko-wins-the-top-prize-at-the-2005-fespaco-african-film-festival-for-his-film-drum.md)
-_Context: Drum, South Africa, Zola Maseko, FESPACO_
+_Context: FESPACO, Drum, South Africa, Zola Maseko_
 
 ##### Pakistan
 ### [ The Pakistani government is appealing to the Supreme Court of Pakistan after the Lahore High Court overturned the death sentences of five of the six men convicted for the alleged gang rape of Mukhtaran Bibi in a tribal feud. ](/news/2005/03/5/the-pakistani-government-is-appealing-to-the-supreme-court-of-pakistan-after-the-lahore-high-court-overturned-the-death-sentences-of-five-o.md)
-_Context: Supreme Court, Lahore High Court, gang rape, Pakistan, Mukhtaran Bibi_
+_Context: Mukhtaran Bibi, gang rape, Lahore High Court, Supreme Court, Pakistan_
 
 ##### Niger
 ### [ In Niger, government cancels special ceremony that would have released about 7000 slaves because no slaves appeared. Local human rights group Timidra blames government threats against tribal leaders. ](/news/2005/03/5/in-niger-government-cancels-special-ceremony-that-would-have-released-about-7000-slaves-because-no-slaves-appeared-local-human-rights-gro.md)

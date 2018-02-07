@@ -17,7 +17,7 @@ Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to 
 
 ##### U.N. Prohibition of Nuclear Weapons Treaty
 ### [Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The world's nuclear-weapon states oppose the measure. ](/news/2017/09/20/fifty-countries-50-sign-the-treaty-on-the-prohibition-of-nuclear-weapons-adopted-on-7-july-2017-at-the-united-nations-headquarters-in-ne.md)
-_Context: nuclear-weapon states, U.N. Prohibition of Nuclear Weapons Treaty_
+_Context: U.N. Prohibition of Nuclear Weapons Treaty, nuclear-weapon states_
 
 ##### Presidency of Donald Trump
 ### [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md)

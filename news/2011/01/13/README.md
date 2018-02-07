@@ -13,7 +13,7 @@ World body accuses security forces loyal to incumbent president of attacking its
 
 ##### United Kingdom
 ### [A British cruise ship avoids a possible Somali pirate attack 100 mi off the coast of Tanzania in the Indian Ocean. ](/news/2011/01/13/a-british-cruise-ship-avoids-a-possible-somali-pirate-attack-100-mi-off-the-coast-of-tanzania-in-the-indian-ocean.md)
-_Context: Indian, Tanzania, United Kingdom, Somali pirates_
+_Context: Indian, United Kingdom, Somali pirates, Tanzania_
 
 ##### Israel
 ### [Israel places troops stationed in northern Israel on high alert following the collapse of the Lebanese government. ](/news/2011/01/13/israel-places-troops-stationed-in-northern-israel-on-high-alert-following-the-collapse-of-the-lebanese-government.md)
@@ -29,11 +29,11 @@ New figures show US banks foreclosed on a record one million American homes in 2
 
 ##### China
 ### [China is reported to have the highest wind power capacity after adding 16GW in 2010, bringing its total to 41.8GW, with the U.S. in second with 40.2GW installed.](/news/2011/01/13/china-is-reported-to-have-the-highest-wind-power-capacity-after-adding-16gw-in-2010-bringing-its-total-to-41-8gw-with-the-u-s-in-second-w.md)
-_Context: U.S., GW, China, wind power_
+_Context: China, wind power, U.S., GW_
 
 ##### U.S. Environmental Protection Agency
 ### [The U.S. Environmental Protection Agency revokes a permit for a proposed coal mine in West Virginia which would have been one of America's largest citing "destructive and unsustainable mining practices that jeopardize the health of Appalachian communities and clean water". ](/news/2011/01/13/the-u-s-environmental-protection-agency-revokes-a-permit-for-a-proposed-coal-mine-in-west-virginia-which-would-have-been-one-of-america-s-l.md)
-_Context: U.S. Environmental Protection Agency, coal mine, West Virginia_
+_Context: U.S. Environmental Protection Agency, West Virginia, coal mine_
 
 ##### Standard & Poor's
 ### [Major credit rating agencies Standard & Poor's and Moody's warn the U.S. that its increasing national debt may lead to a lowering of the nation's credit rating.](/news/2011/01/13/major-credit-rating-agencies-standard-pooras-and-moodyas-warn-the-u-s-that-its-increasing-national-debt-may-lead-to-a-lowering-of-the.md)
@@ -53,7 +53,7 @@ Sri Lanka’s government says three more people have been killed by widespread f
 
 ##### Hunan
 ### [10 people are killed in a hotel fire in Hunan, China. ](/news/2011/01/13/10-people-are-killed-in-a-hotel-fire-in-hunan-china.md)
-_Context: Hunan, China_
+_Context: China, Hunan_
 
 ##### Vietnam
 ### [Three people drown and six are missing after a boat taking people home from an engagement ceremony capsized in northern Vietnam. ](/news/2011/01/13/three-people-drown-and-six-are-missing-after-a-boat-taking-people-home-from-an-engagement-ceremony-capsized-in-northern-vietnam.md)
@@ -61,7 +61,7 @@ _Context: Vietnam_
 
 ##### tanker
 ### [A tanker carrying sulfuric acid capsizes in the Rhine River in Germany with two crew members missing. ](/news/2011/01/13/a-tanker-carrying-sulfuric-acid-capsizes-in-the-rhine-river-in-germany-with-two-crew-members-missing.md)
-_Context: Rhine River, German, tanker, sulfuric acid_
+_Context: sulfuric acid, tanker, Rhine River, German_
 
 ##### Tajikistan
 ### [Tajikistan's lower house of parliament ratifies an agreement to turn over 380 square miles (approx. 1,000 square kilometers) of territory to the People's Republic of China, ending a century-old conflict over disputed territory. ](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.md)
@@ -73,7 +73,7 @@ Turkey has urged Israel to sack Avigdor Lieberman, its controversial foreign min
 
 ##### WikiLeaks
 ### [The WikiLeaks website honours a pledge made in July by offering financial aid to the legal team of Bradley Manning, a soldier accused by the United States of providing secret U.S. embassy cables for international public consumption. ](/news/2011/01/13/the-wikileaks-website-honours-a-pledge-made-in-july-by-offering-financial-aid-to-the-legal-team-of-bradley-manning-a-soldier-accused-by-the.md)
-_Context: Bradley Manning, 250,000 documents, WikiLeaks_
+_Context: Bradley Manning, WikiLeaks, 250,000 documents_
 
 ##### Somaliland
 ### [A German pornographer is sentenced to four years imprisonment in Somaliland. ](/news/2011/01/13/a-german-pornographer-is-sentenced-to-four-years-imprisonment-in-somaliland.md)
@@ -81,7 +81,7 @@ A German man is sentenced to four years in prison for making pornographic films 
 
 ##### Nigeria
 ### [Thousands of members of Nigeria's ruling People's Democratic Party begin voting on whether incumbent President Goodluck Jonathan should be their choice of candidate in April presidential elections. ](/news/2011/01/13/thousands-of-members-of-nigeria-s-ruling-people-s-democratic-party-begin-voting-on-whether-incumbent-president-goodluck-jonathan-should-be-t.md)
-_Context: Nigeria, presidential election, Goodluck Jonathan, People's Democratic Party, President_
+_Context: People's Democratic Party, presidential election, President, Goodluck Jonathan, Nigeria_
 
 ##### Southern Sudanese Independence Referendum
 ### [The Southern Sudanese independence referendum, 2011 is confirmed by organisers to have had a turnout above the necessary threshold needed for it to be valid. ](/news/2011/01/13/the-southern-sudanese-independence-referendum-2011-is-confirmed-by-organisers-to-have-had-a-turnout-above-the-necessary-threshold-needed-fo.md)
@@ -93,7 +93,7 @@ The Irish prime minister tells his party he will not resign - but acknowledges &
 
 ##### England
 ### [Voters in the English constituency of Oldham East and Saddleworth go to the polls for a by-election resulting in a win by Labour candidate Debbie Abrahams. ](/news/2011/01/13/voters-in-the-english-constituency-of-oldham-east-and-saddleworth-go-to-the-polls-for-a-by-election-resulting-in-a-win-by-labour-candidate-d.md)
-_Context: Debbie Abrahams, Labour Party, England, Oldham East and Saddleworth by-election, Oldham East and Saddleworth_
+_Context: Debbie Abrahams, Oldham East and Saddleworth by-election, England, Labour Party, Oldham East and Saddleworth_
 
 ##### United States Senate
 ### [U.S. Senator Kay Bailey Hutchison, a Republican from Texas, announces she will not seek re-election in 2012. ](/news/2011/01/13/u-s-senator-kay-bailey-hutchison-a-republican-from-texas-announces-she-will-not-seek-re-election-in-2012.md)
@@ -101,11 +101,11 @@ Republican U.S. Sen. Kay Bailey Hutchison has announced that she will retire aft
 
 ##### South Korea
 ### [South Korea buries 1.4 million domestic pigs alive after an outbreak of foot-and-mouth disease. ](/news/2011/01/13/south-korea-buries-1-4-million-domestic-pigs-alive-after-an-outbreak-of-foot-and-mouth-disease.md)
-_Context: an outbreak of foot-and-mouth disease, South Korea, domestic pig_
+_Context: domestic pig, an outbreak of foot-and-mouth disease, South Korea_
 
 ##### prion
 ### [Researchers discover prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice. ](/news/2011/01/13/researchers-discover-prions-spreading-through-airborne-transmission-on-aerosol-particles-in-an-animal-testing-experiment-focusing-on-scrapi.md)
-_Context: prion, aerosol, laboratory mice, animal testing, scrapie_
+_Context: animal testing, prion, scrapie, laboratory mice, aerosol_
 
 ## [Previous Day...](/news/2011/01/12/index.md)
 

@@ -25,7 +25,7 @@ At least eight people were injured by a bomb blast in Bangalore shortly before t
 
 ##### Lech Kaczynski
 ### [Over 100,000 mourners attend a memorial service to honour the death of the Polish president Lech Kaczynski, and 95 others who were killed in a plane crash the previous week. ](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.md)
-_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski_
+_Context: Lech Kaczynski, 2010 Polish Air Force Tu-154 crash_
 
 ##### Tokyo
 ### [Snowfall in central Tokyo matches a record set in April 1967. ](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.md)
@@ -43,11 +43,11 @@ An earthquake that shook Adelaide rattled enough residents to flood emergency ph
 
 ##### Weyhill
 ### [An investigation is launched after a plane crashes into a field and bursts into flames in Weyhill, Andover, Hampshire, United Kingdom, killing at least two people. ](/news/2010/04/17/an-investigation-is-launched-after-a-plane-crashes-into-a-field-and-bursts-into-flames-in-weyhill-andover-hampshire-united-kingdom-killi.md)
-_Context: Andover, Hampshire, United Kingdom, Weyhill_
+_Context: Weyhill, Andover, Hampshire, United Kingdom_
 
 ##### Toyota
 ### [Toyota is to recall 600,000 Sienna minivans in the US over fears of corrosion. "In the worst case, the carrier cable may fail and the spare tyre could become separated from the vehicle" a statement from the company read. ](/news/2010/04/17/toyota-is-to-recall-600-000-sienna-minivans-in-the-us-over-fears-of-corrosion-in-the-worst-case-the-carrier-cable-may-fail-and-the-spare.md)
-_Context: Toyota, Sienna_
+_Context: Sienna, Toyota_
 
 ##### Republic of Macedonia
 ### [The Former Yugoslav Republic of Macedonia buys 202 double decker buses from China's Zhengzhou Yutong Group for EUR35 million in the first cooperation between the two countries. ](/news/2010/04/17/the-former-yugoslav-republic-of-macedonia-buys-202-double-decker-buses-from-china-s-zhengzhou-yutong-group-for-a-35-million-in-the-first-co.md)

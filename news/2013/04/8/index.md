@@ -25,19 +25,19 @@ Ms. Funicello won America’s heart on television in “The Mickey Mouse Club”
 
 ##### Spain
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)
-_Context: Sara Montiel, Madrid, Spain_
+_Context: Madrid, Spain, Sara Montiel_
 
 ##### China
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: China, Hainan, Boao, Chinese President, Xi Jinping, Asia, Boao Forum for Asia, entrepreneur_
+_Context: Asia, entrepreneur, Boao, Xi Jinping, Boao Forum for Asia, Chinese President, Hainan, China_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: Shanghai, Australian Prime Minister, China, yuan, currency, Julia Gillard, Australia, A$, Australia-China relations_
+_Context: Australia-China relations, China, currency, A$, yuan, Australia, Australian Prime Minister, Julia Gillard, Shanghai_
 
 ##### Caribou Coffee
 ### [Caribou Coffee announces plans to close all of its stores in the Chicago area. ](/news/2013/04/8/caribou-coffee-announces-plans-to-close-all-of-its-stores-in-the-chicago-area.md)
-_Context: Caribou Coffee, Chicago_
+_Context: Chicago, Caribou Coffee_
 
 ##### South Korea
 ### [A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/a-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increased-activity-is-detec.md)
@@ -69,7 +69,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 
 ##### Pakistan
 ### [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md)
-_Context: Supreme Court, Pervez Musharraf, treason, Pakistan, president_
+_Context: treason, Pervez Musharraf, president, Supreme Court, Pakistan_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
@@ -77,7 +77,7 @@ The first woman to be UK prime minister, Baroness Thatcher, has died at the age 
 
 ##### Bangladesh
 ### [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md)
-_Context: blasphemy, Islamists, Prime Minister, Sheikh Hasina, Prophet Muhammad, Bangladesh, Islam_
+_Context: Prime Minister, blasphemy, Prophet Muhammad, Islam, Sheikh Hasina, Bangladesh, Islamists_
 
 ##### Filip Vujanovic
 ### [Electoral Commission chairman announces that Filip Vujanovic is re-elected as President of Montenegro. ](/news/2013/04/8/electoral-commission-chairman-announces-that-filip-vujanovia-is-re-elected-as-president-of-montenegro.md)

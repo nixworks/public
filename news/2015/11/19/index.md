@@ -5,7 +5,7 @@ Formats: [HTML](2015/11/19/index.html)  [JSON](2015/11/19/index.json)  [XML](201
 
 ##### Killing of captives by ISIL
 ### [China vows to "bring to justice" those responsible for executing one of its citizens after the Islamic State of Iraq and the Levant said it had killed a Chinese hostage. China's Foreign Ministry also confirms the hostage's identity for the first time, naming him as Fan Jinghui. ](/news/2015/11/19/china-vows-to-bring-to-justice-those-responsible-for-executing-one-of-its-citizens-after-the-islamic-state-of-iraq-and-the-levant-said-it.md)
-_Context: China, Killing of captives by ISIL, ISIL, Fan Jinghui, Chinese Foreign Ministry spokesperson_
+_Context: Fan Jinghui, China, ISIL, Killing of captives by ISIL, Chinese Foreign Ministry spokesperson_
 
 ##### Flight 9268
 ### [According to the Islamic State of Iraq and the Levant's official propaganda magazine, a soft drink can with an IED, a so-called "Schweppes bomb," was used to destroy the Russian airliner. ](/news/2015/11/19/according-to-the-islamic-state-of-iraq-and-the-levant-s-official-propaganda-magazine-a-soft-drink-can-with-an-ied-a-so-called-schweppes-b.md)
@@ -49,11 +49,11 @@ New York Department of Financial Services finds Barclays ‘Last Look’ system 
 
 ##### Reserve Bank of India
 ### [Most of the employees of the Reserve Bank of India, that country's central bank, go on strike demanding better pension benefits. The RBI acknowledges "some interruptions" in its clearing and settlement functions. ](/news/2015/11/19/most-of-the-employees-of-the-reserve-bank-of-india-that-country-s-central-bank-go-on-strike-demanding-better-pension-benefits-the-rbi-ack.md)
-_Context: Reserve Bank of India, central bank_
+_Context: central bank, Reserve Bank of India_
 
 ##### World Toilet Day
 ### [In connection with World Toilet Day, the United Nations reports that 2.4 billion people lack adequate sanitation, and nearly one billion have no toilet facilities and are forced to relieve themselves in areas without facilities. ](/news/2015/11/19/in-connection-with-world-toilet-day-the-united-nations-reports-that-2-4-billion-people-lack-adequate-sanitation-and-nearly-one-billion-hav.md)
-_Context: sanitation, World Toilet Day, United Nations, toilet facilities_
+_Context: sanitation, toilet facilities, World Toilet Day, United Nations_
 
 ##### genetically-modified
 ### [The U.S. clears genetically-modified Atlantic salmon, made by Massachusetts-based AquaBounty Technologies, for human consumption. ](/news/2015/11/19/the-u-s-clears-genetically-modified-atlantic-salmon-made-by-massachusetts-based-aquabounty-technologies-for-human-consumption.md)
@@ -65,7 +65,7 @@ Extensive advertisements of direct-to-consumer prescription drugs and medical de
 
 ##### APEC Philippines 2015
 ### [Asia-Pacific leaders, in the Philippines for the 2015 Asia-Pacific Economic Cooperation (APEC) meeting, which has been overshadowed by the concurrent Paris attacks, call on governments to urgently increase cooperation in the fight against terrorism. ](/news/2015/11/19/asia-pacific-leaders-in-the-philippines-for-the-2015-asia-pacific-economic-cooperation-apec-meeting-which-has-been-overshadowed-by-the-c.md)
-_Context: November 2015 Paris attacks, APEC Philippines 2015, terrorism, Pacific, Philippines, Asia-Pacific Economic Cooperation_
+_Context: APEC Philippines 2015, terrorism, Philippines, November 2015 Paris attacks, Asia-Pacific Economic Cooperation, Pacific_
 
 ##### Pew Research Center
 ### [A Pew Research Center report finds, from 2009 to 2014, more Mexicans, including unauthorized immigrants, are leaving the United States than entering it. An increasing share of Mexicans says life north of the border is neither better nor worse than life in Mexico. ](/news/2015/11/19/a-pew-research-center-report-finds-from-2009-to-2014-more-mexicans-including-unauthorized-immigrants-are-leaving-the-united-states-than.md)
@@ -77,7 +77,7 @@ A United Nations General Assembly committee has adopted a North Korea human righ
 
 ##### Obama Administration
 ### [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md)
-_Context: civil society, State Department, constitution, democratic progress, Obama Administration, military coup, Thailand_
+_Context: constitution, State Department, military coup, democratic progress, Obama Administration, civil society, Thailand_
 
 ##### restaurant
 ### [A court sentences former restaurant spokesperson Jared Fogle to over 15 years imprisonment for sex with minors and the possession of child pornography. ](/news/2015/11/19/a-court-sentences-former-restaurant-spokesperson-jared-fogle-to-over-15-years-imprisonment-for-sex-with-minors-and-the-possession-of-child-p.md)
@@ -105,7 +105,7 @@ Democratic Unionist leader Peter Robinson has announced in a newspaper his inten
 
 ##### United States
 ### [The U.S. House of Representatives, defying a veto-threat by President Barack Obama, overwhelmingly passes legislation to suspend the Obama administration's program to admit 10,000 Syrian and Iraqi refugees into the country. The bill will now face a vote in the U.S. Senate. ](/news/2015/11/19/the-u-s-house-of-representatives-defying-a-veto-threat-by-president-barack-obama-overwhelmingly-passes-legislation-to-suspend-the-obama-a.md)
-_Context: United States Senate, House of Representatives, Syria, Barack Obama, Iraq, United States, veto_
+_Context: veto, Iraq, House of Representatives, United States Senate, United States, Barack Obama, Syria_
 
 ## [Previous Day...](/news/2015/11/18/index.md)
 

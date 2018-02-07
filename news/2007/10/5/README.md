@@ -13,7 +13,7 @@ Topps Meat Co LLC announced on Friday it was going out of business, crushed by t
 
 ##### Canadian
 ### [ Canada stops the sale of Novartis anti-inflammatory drug Prexige and cancels its authorisation due to the risk of liver-related effects such as hepatitis. ](/news/2007/10/5/canada-stops-the-sale-of-novartis-anti-inflammatory-drug-prexige-and-cancels-its-authorisation-due-to-the-risk-of-liver-related-effects-suc.md)
-_Context: Novartis, Canadian, drug, liver, Prexige, hepatitis_
+_Context: Canadian, Prexige, hepatitis, liver, drug, Novartis_
 
 ##### Burma
 ### [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)
@@ -21,7 +21,7 @@ _Context: Burma_
 
 ##### War in Iraq
 ### [ War in Iraq: United States forces kill at least 25 members of a Shiite militia in a firefight. ](/news/2007/10/5/war-in-iraq-united-states-forces-kill-at-least-25-members-of-a-shiite-militia-in-a-firefight.md)
-_Context: Shiite, War in Iraq, United States, militia_
+_Context: United States, militia, Shiite, War in Iraq_
 
 ##### Marion Jones
 ### [ Marion Jones admits using banned substances during her athletic career and risks being stripped of her five Olympic medals. ](/news/2007/10/5/marion-jones-admits-using-banned-substances-during-her-athletic-career-and-risks-being-stripped-of-her-five-olympic-medals.md)
@@ -37,7 +37,7 @@ _Context: Maoist supporters, Seven Party Alliance, Elections_
 
 ##### SELENE
 ### [ SELENE, Japan's lunar probe, successfully achieves an orbit around the moon. ](/news/2007/10/5/selene-japan-s-lunar-probe-successfully-achieves-an-orbit-around-the-moon.md)
-_Context: Japan, SELENE, moon, orbit_
+_Context: moon, SELENE, orbit, Japan_
 
 ## [Previous Day...](/news/2007/10/4/index.md)
 

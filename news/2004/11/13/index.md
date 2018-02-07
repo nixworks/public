@@ -9,23 +9,23 @@ _Context: Falluja, Red Crescent_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Hundreds of US Troops are diverted from Falluja as insurgents appear to take control of the northeastern city of Mosul. ](/news/2004/11/13/conflict-in-iraq-hundreds-of-us-troops-are-diverted-from-falluja-as-insurgents-appear-to-take-control-of-the-northeastern-city-of-mosul.md)
-_Context: Mosul, Falluja, Conflict in Iraq, US Troops_
+_Context: Falluja, US Troops, Conflict in Iraq, Mosul_
 
 ##### Iran
 ### [ Iran is reportedly concluding a deal with the European Union which would spare it from possible United Nations sanctions over its nuclear arms programme. ](/news/2004/11/13/iran-is-reportedly-concluding-a-deal-with-the-european-union-which-would-spare-it-from-possible-united-nations-sanctions-over-its-nuclear-a.md)
-_Context: Iran's nuclear program, United Nations, Iran, European Union_
+_Context: United Nations, Iran, Iran's nuclear program, European Union_
 
 ##### United States Secretary of Education
 ### [ United States Secretary of Education Rod Paige announces his intent to resign from his post, making him the third member of President George W. Bush's Cabinet to resign since his re-election. No time-table has been set for his actually leaving the post. White House domestic policy adviser Margaret Spellings has been suggested as his successor. ](/news/2004/11/13/united-states-secretary-of-education-rod-paige-announces-his-intent-to-resign-from-his-post-making-him-the-third-member-of-president-georg.md)
-_Context: Rod Paige, United States Secretary of Education, White House, Margaret Spellings, George W. Bush_
+_Context: White House, George W. Bush, Margaret Spellings, United States Secretary of Education, Rod Paige_
 
 ##### Afghanistan
 ### [ Former Afghan leader Mullah Mohammed Omar has made a rallying call to his Taliban forces. He sent a two-page message to the Afghan Islamic Press agency to mark the Muslim Eid ul Fitr festival. ](/news/2004/11/13/former-afghan-leader-mullah-mohammed-omar-has-made-a-rallying-call-to-his-taliban-forces-he-sent-a-two-page-message-to-the-afghan-islamic.md)
-_Context: Eid ul Fitr, Mullah Omar, Afghan Islamic Press, Taliban, Afghanistan_
+_Context: Afghanistan, Eid ul Fitr, Taliban, Afghan Islamic Press, Mullah Omar_
 
 ##### mosque
 ### [ A fire has badly damaged a mosque in the south-eastern village of Helden, Netherlands, in the latest of a series of attacks on Dutch Muslim sites. ](/news/2004/11/13/a-fire-has-badly-damaged-a-mosque-in-the-south-eastern-village-of-helden-netherlands-in-the-latest-of-a-series-of-attacks-on-dutch-muslim.md)
-_Context: mosque, Helden_
+_Context: Helden, mosque_
 
 ## [Previous Day...](/news/2004/11/12/index.md)
 

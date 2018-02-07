@@ -29,7 +29,7 @@ Flights will finally start again in the UK tomorrow after air traffic control co
 
 ##### Federation Internationale de Luge de Course
 ### [A report by the Federation Internationale de Luge de Course (FIL) concludes the track on which Georgian luger Nodar Kumaritashvili died at the 2010 Winter Olympics was faster than it should have been. ](/news/2010/04/19/a-report-by-the-fa-c-da-c-ration-internationale-de-luge-de-course-fil-concludes-the-track-on-which-georgian-luger-nodar-kumaritashvili-died-at.md)
-_Context:  Georgian, the track, 2010 Winter Olympics, luge, Nodar Kumaritashvili, Federation Internationale de Luge de Course_
+_Context: the track, luge, Federation Internationale de Luge de Course,  Georgian, 2010 Winter Olympics, Nodar Kumaritashvili_
 
 ##### an earthquake struck on 14 April
 ### [Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. ](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.md)
@@ -37,11 +37,11 @@ _Context: an earthquake struck on 14 April_
 
 ##### Kabul
 ### [Seven are killed and 30 are injured in a magnitude 5.3 earthquake in the mountains north of Kabul, Afghanistan. ](/news/2010/04/19/seven-are-killed-and-30-are-injured-in-a-magnitude-5-3-earthquake-in-the-mountains-north-of-kabul-afghanistan.md)
-_Context: Afghanistan, Kabul_
+_Context: Kabul, Afghanistan_
 
 ##### Indonesia
 ### [Hundreds of Indonesian protesters in Jakarta demand the riot police be disbanded after three are killed and at least 156 wounded in bloody clashes between Indonesian National Police and demonstrators. ](/news/2010/04/19/hundreds-of-indonesian-protesters-in-jakarta-demand-the-riot-police-be-disbanded-after-three-are-killed-and-at-least-156-wounded-in-bloody-c.md)
-_Context: riot police, Indonesian National Police, Jakarta, Indonesia_
+_Context: Jakarta, Indonesia, riot police, Indonesian National Police_
 
 ##### North Korea
 ### [North Korea denies it sank a South Korean naval patrol boat in disputed waters between the two Koreas. ](/news/2010/04/19/north-korea-denies-it-sank-a-south-korean-naval-patrol-boat-in-disputed-waters-between-the-two-koreas.md)
@@ -57,15 +57,15 @@ Three letters - GST - are standing between Kevin Rudd and the most dramatic over
 
 ##### UN Goodwill Ambassador
 ### [UN Goodwill Ambassador Angelina Jolie appeals for safety in Somalia for thousands of Somalis trapped in the country's capital of Mogadishu. ](/news/2010/04/19/un-goodwill-ambassador-angelina-jolie-appeals-for-safety-in-somalia-for-thousands-of-somalis-trapped-in-the-countryas-capital-of-mogadishu.md)
-_Context: Mogadishu, UN Goodwill Ambassador, Somalia, Angelina Jolie_
+_Context: UN Goodwill Ambassador, Angelina Jolie, Somalia, Mogadishu_
 
 ##### Franck Ribery
 ### [Franck Ribery and other footballers from the French national football team are investigated by police in connection with an underage prostitution ring. ](/news/2010/04/19/franck-riba-c-ry-and-other-footballers-from-the-french-national-football-team-are-investigated-by-police-in-connection-with-an-underage-prosti.md)
-_Context: Franck Ribery, association football, prostitution, French_
+_Context: prostitution, Franck Ribery, association football, French_
 
 ##### Carl Williams
 ### [Drug trafficker Carl Williams of Melbourne gangland killings fame is murdered in prison. ](/news/2010/04/19/drug-trafficker-carl-williams-of-melbourne-gangland-killings-fame-is-murdered-in-prison.md)
-_Context: Melbourne gangland killings, Carl Williams_
+_Context: Carl Williams, Melbourne gangland killings_
 
 ## [Previous Day...](/news/2010/04/18/index.md)
 

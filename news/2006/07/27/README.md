@@ -21,11 +21,11 @@ _Context: Venice Biennale, Venice Film Festival, Rome, Italy_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: the rebel renegade Emzar Kvitsiani escapes as one civilian gets killed in the fighting. ](/news/2006/07/27/2006-kodori-crisis-the-rebel-renegade-emzar-kvitsiani-escapes-as-one-civilian-gets-killed-in-the-fighting.md)
-_Context: Emzar Kvitsiani, 2006 Kodori crisis_
+_Context: 2006 Kodori crisis, Emzar Kvitsiani_
 
 ##### Fu Xiancai
 ### [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md)
-_Context: vertebra, China, Fu Xiancai, displacement, Three Gorges Dam_
+_Context: Fu Xiancai, Three Gorges Dam, displacement, China, vertebra_
 
 ##### 2006
 ### [ The team for 2006 Tour de France winner Floyd Landis announces that he failed a drug test during the race, with high levels of testosterone. ](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.md)

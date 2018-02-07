@@ -17,7 +17,7 @@ Aid groups say the deal, to come into effect on Sunday, is &#039;ugly and illega
 
 ##### Switzerland
 ### [Swiss research, published in the medical journal "The Lancet", found that paracetamol -- sold as Tylenol and as a generic, acetaminophen, in the United States -- was not effective at reducing pain or improving movement in patients with osteoarthritis of the knee or hip. The analysis examined 74 randomly-selected trials published between 1980 and 2015 with 58,556 patients who had osteoarthritis. The study did find the prescription drug diclofenac, sold in the U.S. as Cataflam or Voltaren, is the most effective NSAID available. McNeil Consumer Healthcare, the makers of Tylenol, disagree with the study's conclusions. ](/news/2016/03/18/swiss-research-published-in-the-medical-journal-the-lancet-found-that-paracetamol-sold-as-tylenol-and-as-a-generic-acetaminophen-in.md)
-_Context: Tylenol, NSAID, diclofenac, The Lancet, McNeil Consumer Healthcare, Switzerland, paracetamol_
+_Context: Tylenol, NSAID, Switzerland, McNeil Consumer Healthcare, diclofenac, paracetamol, The Lancet_
 
 ##### 2016 United States Elizabethkingia outbreak
 ### [ A rare bacterial infection from bacterium Elizabethkingia anophelis may have contributed to the deaths of 17 people since November 2015. ](/news/2016/03/18/a-rare-bacterial-infection-from-bacterium-elizabethkingia-anophelis-may-have-contributed-to-the-deaths-of-17-people-since-november-2015.md)
@@ -33,11 +33,11 @@ French national, 26, has been on the run since November’s attacks in French ca
 
 ##### Censorship in China
 ### [Jia Jia, a columnist for China's Tencent media company is reported missing after not being heard from since Tuesday, when he was on his way to Hong Kong. He was last heard from when he tried to warn a friend about publishing an anonymous letter calling for President Xi Jinping's resignation. ](/news/2016/03/18/jia-jia-a-columnist-for-china-s-tencent-media-company-is-reported-missing-after-not-being-heard-from-since-tuesday-when-he-was-on-his-way.md)
-_Context: Chinese President, China, Tencent, Xi Jinping, Censorship in China, Hong Kong_
+_Context: Chinese President, China, Tencent, Hong Kong, Censorship in China, Xi Jinping_
 
 ##### Donald Trump presidential campaign
 ### [The FBI's Joint Terrorism Task Force, United States Secret Service and New York City Police Department are investigating a letter containing a suspicious white powder and a threatening note which was sent to the home of Eric Trump, son of Donald Trump, in New York City. The handwritten note within the letter said: "If your father does not drop out of the race, the next envelope won't be a fake." It was signed "X". ](/news/2016/03/18/the-fbi-s-joint-terrorism-task-force-united-states-secret-service-and-new-york-city-police-department-are-investigating-a-letter-containing.md)
-_Context: Joint Terrorism Task Force, FBI, New York City, New York City Police Department, United States Secret Service, Eric Trump, Donald Trump, Donald Trump presidential campaign_
+_Context: New York City Police Department, Donald Trump presidential campaign, Eric Trump, Joint Terrorism Task Force, FBI, United States Secret Service, New York City, Donald Trump_
 
 ##### lawsuit
 ### [A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. ](/news/2016/03/18/a-florida-jury-awards-hulk-hogan-115m-after-the-gossip-news-website-gawker-published-a-sex-tape-of-the-retired-professional-wrestler-mr-ho.md)

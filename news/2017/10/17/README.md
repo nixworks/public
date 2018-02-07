@@ -9,7 +9,7 @@ After four-month battle, Syrian Democratic Forces say Islamic State of Iraq and 
 
 ##### War in Afghanistan
 ### [A suicide attack on a police compound in Gardez, Paktia Province, kills at least 20 people, while a separate gun attack at a training facility in neighboring Ghazni Province leaves another 15 people dead. ](/news/2017/10/17/a-suicide-attack-on-a-police-compound-in-gardez-paktia-province-kills-at-least-20-people-while-a-separate-gun-attack-at-a-training-facili.md)
-_Context: Ghazni Province, War in Afghanistan, police, Gardez, Paktia Province_
+_Context: police, Paktia Province, Gardez, War in Afghanistan, Ghazni Province_
 
 ##### 2017 Iraqi-Kurdish conflict
 ### [The Iraqi Army and allied militias continue to seize Kurdish-held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. ](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-seize-kurdish-held-territory-taking-over-several-key-cities-including-khanaqin-near-the-iran.md)

@@ -21,11 +21,11 @@ Gordon Brown insisted tonight that Britain would remain a powerful voice in Brus
 
 ##### Yemen
 ### [ Yemeni government forces say they have killed a leader during fighting with Houthi rebels in the north of the country. ](/news/2009/11/19/yemeni-government-forces-say-they-have-killed-a-leader-during-fighting-with-houthi-rebels-in-the-north-of-the-country.md)
-_Context: Shia insurgency in Yemen, Houthi, ongoing fight, Yemen_
+_Context: Shia insurgency in Yemen, Yemen, ongoing fight, Houthi_
 
 ##### Algeria
 ### [ Egypt recalls its ambassador to Algeria after complaints about violence towards its football fans after a World Cup play off. Sudan also summons its envoy to Egypt over media coverage of the game's aftermath. ](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.md)
-_Context: Algeria, play off, Egypt, 2010 FIFA World Cup, Sudan_
+_Context: 2010 FIFA World Cup, Algeria, play off, Egypt, Sudan_
 
 ##### Irish
 ### [ Irish politicians, including Taoiseach Brian Cowen, call for a controversial football playoff for the 2010 FIFA World Cup between France and Republic of Ireland to be replayed as the Football Association of Ireland lodges an official complaint with FIFA. ](/news/2009/11/19/irish-politicians-including-taoiseach-brian-cowen-call-for-a-controversial-football-playoff-for-the-2010-fifa-world-cup-between-france-an.md)
@@ -45,15 +45,15 @@ Move allows for hanging of men convicted of killing Bangladesh independence lead
 
 ##### Zimbabwe
 ### [ Zimbabwe begins withdrawing soldiers from diamond mines after recommendations by the Kimberley Process regarding human rights abuses. ](/news/2009/11/19/zimbabwe-begins-withdrawing-soldiers-from-diamond-mines-after-recommendations-by-the-kimberley-process-regarding-human-rights-abuses.md)
-_Context: Kimberley Process, human rights, Zimbabwe_
+_Context: Zimbabwe, Kimberley Process, human rights_
 
 ##### Russia
 ### [ The Russian Constitutional Court prolongs a ban on the death penalty. The moratorium had been due to expire on January 1. ](/news/2009/11/19/the-russian-constitutional-court-prolongs-a-ban-on-the-death-penalty-the-moratorium-had-been-due-to-expire-on-january-1.md)
-_Context: Russia, sentenced to death, Constitutional Court_
+_Context: Constitutional Court, sentenced to death, Russia_
 
 ##### Philippine
 ### [ Philippine President Gloria Macapagal-Arroyo steps down as head of the ruling Lakas-Kampi-CMD party and endorses her former defense minister Gilberto Teodoro for President. ](/news/2009/11/19/philippine-president-gloria-macapagal-arroyo-steps-down-as-head-of-the-ruling-lakas-kampi-cmd-party-and-endorses-her-former-defense-ministe.md)
-_Context: Gilberto Teodoro, Philippine, President, Gloria Macapagal-Arroyo, Lakas-Kampi-CMD_
+_Context: President, Gloria Macapagal-Arroyo, Philippine, Lakas-Kampi-CMD, Gilberto Teodoro_
 
 ##### Cambodia
 ### [ Cambodia takes control of a Thai-owned air traffic control firm in a deepening diplomatic row between the two countries. ](/news/2009/11/19/cambodia-takes-control-of-a-thai-owned-air-traffic-control-firm-in-a-deepening-diplomatic-row-between-the-two-countries.md)

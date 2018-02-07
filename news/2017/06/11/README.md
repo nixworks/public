@@ -13,7 +13,7 @@ The surprise hit musical won a total of six Tonys, including best musical actor 
 
 ##### Ukraine-European Union relations
 ### [The European Union's visa-free regime for Ukraine officially enters into force. ](/news/2017/06/11/the-european-union-s-visa-free-regime-for-ukraine-officially-enters-into-force.md)
-_Context: visa, Ukraine, European Union, Ukraine-European Union relations_
+_Context: European Union, Ukraine, visa, Ukraine-European Union relations_
 
 ##### 2017 Qatar diplomatic crisis
 ### [Iran sends five 90-tonne air cargo payloads of perishable food to Qatar. More shipments by air and sea are underway. ](/news/2017/06/11/iran-sends-five-90-tonne-air-cargo-payloads-of-perishable-food-to-qatar-more-shipments-by-air-and-sea-are-underway.md)

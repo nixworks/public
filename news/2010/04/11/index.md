@@ -3,13 +3,13 @@ Formats: [HTML](2010/04/11/index.html)  [JSON](2010/04/11/index.json)  [XML](201
 
 ## [2010-04-11](/news/2010/04/11/index.md)
 
-##### President
+##### Polish President
 ### [The body of President Lech Kaczynski, who was killed in yesterday's plane crash just north of Smolensk, Russia, is flown back to Poland. ](/news/2010/04/11/the-body-of-president-lech-kaczyaski-who-was-killed-in-yesterday-s-plane-crash-just-north-of-smolensk-russia-is-flown-back-to-poland.md)
 WARSAW - Draped in a red and white Polish flag, the body of Lech Kaczynski was ceremoniously returned to Warsaw, as millions turned out to mourn the head of state and 95 other victims - New Zealand Herald
 
 ##### Airstrike
 ### [Airstrikes kill 10 militants in northwestern Pakistan as part of a military operation that has eliminated more than 300 fighters in the last three weeks. ](/news/2010/04/11/airstrikes-kill-10-militants-in-northwestern-pakistan-as-part-of-a-military-operation-that-has-eliminated-more-than-300-fighters-in-the-last.md)
-_Context: Airstrike, Pakistan_
+_Context: Pakistan, Airstrike_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md)
@@ -25,23 +25,23 @@ Multi-party elections get under way despite opposition staying away from preside
 
 ##### 6.8 magnitude earthquake
 ### [A 6.8 magnitude earthquake strikes the southern Solomon Islands, 97&nbsp;km southwest of Kirakira on Makira Island. ](/news/2010/04/11/a-6-8-magnitude-earthquake-strikes-the-southern-solomon-islands-97-nbsp-km-southwest-of-kirakira-on-makira-island.md)
-_Context: 6.8 magnitude earthquake, Solomon Islands, Makira Island, Kirakira_
+_Context: Solomon Islands, Makira Island, Kirakira, 6.8 magnitude earthquake_
 
 ##### Israel
 ### [Israel is set to impose a military order, which ten human rights groups fear could see thousands of Palestinians deported from the West Bank if they do not have a residency permit. ](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.md)
-_Context: Palestinians, Israel, West Bank_
+_Context: Palestinians, West Bank, Israel_
 
 ##### Democratic Front for the Liberation of Palestine
 ### [The Democratic Front for the Liberation of Palestine (DFLP) asks China to pressure Israel to have its nuclear sites inspected during the forthcoming international nuclear conference, saying "world silence on the issue of the Israeli nuclear capabilities is creating tension in the region, especially with the relentless international focus on Iran and North Korea". ](/news/2010/04/11/the-democratic-front-for-the-liberation-of-palestine-dflp-asks-china-to-pressure-israel-to-have-its-nuclear-sites-inspected-during-the-for.md)
-_Context: Israel, China, Iran, North Korea, Democratic Front for the Liberation of Palestine_
+_Context: Iran, North Korea, China, Israel, Democratic Front for the Liberation of Palestine_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim government considers arresting and charging President Kurmanbek Bakiyev for the deaths of 81 people in riots earlier this week. ](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.md)
-_Context: the recent unrest, Kyrgyzstan, president, Kurmanbek Bakiyev_
+_Context: Kyrgyzstan, the recent unrest, Kurmanbek Bakiyev, president_
 
 ##### South Africa
 ### [South African police investigate a possible link between homosexual sex and the murder of Eugene Terre'Blanche. ](/news/2010/04/11/south-african-police-investigate-a-possible-link-between-homosexual-sex-and-the-murder-of-euga-ne-terre-blanche.md)
-_Context: Eugene Terre'Blanche, South Africa, homosexual_
+_Context: South Africa, homosexual, Eugene Terre'Blanche_
 
 ##### Fidesz - Hungarian Civic Union
 ### [Centre-right Fidesz wins majority of parliamentary seats in the first round of the Hungarian general elections. ](/news/2010/04/11/centre-right-fidesz-wins-majority-of-parliamentary-seats-in-the-first-round-of-the-hungarian-general-elections.md)
@@ -57,11 +57,11 @@ Three medical workers among nine arrested for allegedly plotting to kill Helmand
 
 ##### 2010 Thai political protests
 ### [The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. ](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.md)
-_Context: Bangkok, red shirt, Thailand, 2010 Thai political protests_
+_Context: 2010 Thai political protests, Thailand, red shirt, Bangkok_
 
 ##### China
 ### [Two Chinese singers become the country's first to be punished for lip-synching nearly two years after the Beijing Olympiad. ](/news/2010/04/11/two-chinese-singers-become-the-country-s-first-to-be-punished-for-lip-synching-nearly-two-years-after-the-beijing-olympiad.md)
-_Context: China, 2008 Summer Olympics, lip-synching_
+_Context: lip-synching, 2008 Summer Olympics, China_
 
 ##### Belfast Wheel
 ### [The Belfast Wheel ](/news/2010/04/11/the-belfast-wheel.md)

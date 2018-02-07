@@ -53,7 +53,7 @@ _Context: meningitis, Los Angeles_
 
 ##### Manhattan
 ### [A Manhattan court stenographer is discovered to have written nonsense instead of actual court transcripts, potentially jeopardizing thirty court cases. ](/news/2014/04/4/a-manhattan-court-stenographer-is-discovered-to-have-written-nonsense-instead-of-actual-court-transcripts-potentially-jeopardizing-thirty-c.md)
-_Context: Manhattan, court stenographer_
+_Context: court stenographer, Manhattan_
 
 ## [Previous Day...](/news/2014/04/3/index.md)
 

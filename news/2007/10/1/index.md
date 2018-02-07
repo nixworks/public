@@ -5,15 +5,15 @@ Formats: [HTML](2007/10/1/index.html)  [JSON](2007/10/1/index.json)  [XML](2007/
 
 ##### Benedict XVI
 ### [ Pope Benedict XVI replaced Archbishop Piero Marini, the longtime director of office of papal liturgies, with Father Guido Marini of the Genoa archdiocese. ](/news/2007/10/1/pope-benedict-xvi-replaced-archbishop-piero-marini-the-longtime-director-of-office-of-papal-liturgies-with-father-guido-marini-of-the-gen.md)
-_Context: Benedict XVI, Piero Marini, Genoa archdiocese, director of office of papal liturgies, Guido Marini_
+_Context: Guido Marini, Piero Marini, Genoa archdiocese, director of office of papal liturgies, Benedict XVI_
 
 ##### Ukrainian parliamentary election, 2007
 ### [ Ukrainian parliamentary election, 2007: With 70 percent counted, Yulia Tymoshenko's bloc and Viktor Yushchenko's Our Ukraine party had 48 percent of the vote. Prime Minister Viktor Yanukovych's party and his Communist and Socialist allies had 36.8 percent. ](/news/2007/10/1/ukrainian-parliamentary-election-2007-with-70-percent-counted-yulia-tymoshenko-s-bloc-and-viktor-yushchenko-s-our-ukraine-party-had-48-p.md)
-_Context: Viktor Yushchenko, Yulia Tymoshenko, Ukrainian parliamentary election, 2007, Viktor Yanukovych_
+_Context: Viktor Yushchenko, Ukrainian parliamentary election, 2007, Viktor Yanukovych, Yulia Tymoshenko_
 
 ##### suicide bomb
 ### [ At least 15 people are killed and 19 others injured in a suspected suicide bomb blast in Bannu in Pakistan's North-West Frontier Province. ](/news/2007/10/1/at-least-15-people-are-killed-and-19-others-injured-in-a-suspected-suicide-bomb-blast-in-bannu-in-pakistan-s-north-west-frontier-province.md)
-_Context: Northwestern Pakistan, Pakistan, Bannu, suicide bomb_
+_Context: Pakistan, suicide bomb, Northwestern Pakistan, Bannu_
 
 ## [Previous Day...](/news/2007/09/30/index.md)
 

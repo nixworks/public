@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/25/index.html)  [JSON](2007/01/25/index.json)  [XML](200
 
 ##### curfew
 ### [ A curfew is imposed in Beirut after deadly clashes erupted between pro-government supporters and Hezbollah-led factions. ](/news/2007/01/25/a-curfew-is-imposed-in-beirut-after-deadly-clashes-erupted-between-pro-government-supporters-and-hezbollah-led-factions.md)
-_Context: curfew, Hezbollah, Beirut_
+_Context: Hezbollah, Beirut, curfew_
 
 ##### Cunard Line
 ### [ 276 passengers and 28 crew onboard the Cunard Line's RMS "Queen Elizabeth 2" are sickened by the norovirus during its 2007 circumnavigation of the world. ](/news/2007/01/25/276-passengers-and-28-crew-onboard-the-cunard-line-s-rms-queen-elizabeth-2-are-sickened-by-the-norovirus-during-its-2007-circumnavigation.md)

@@ -17,11 +17,11 @@ _Context: Egyptian presidential election, 2014_
 
 ##### legislative chamber
 ### [Since March 18th, protesters occupy the legislative chamber, opposing the vote without review of the Cross-Strait Service Trade Agreement, denouncing a agreement signed 'in a black box.'date=April 2014Between 116,000 and 500,000 protesters march to the Presidential Office, in opposition to recent governmental push for Cross-Strait Service Trade Agreement vote and other related issues. ](/news/2014/03/30/since-march-18th-protesters-occupy-the-legislative-chamber-opposing-the-vote-without-review-of-the-cross-strait-service-trade-agreement-d.md)
-_Context: Presidential Office, legislative chamber, trade deal_
+_Context: legislative chamber, Presidential Office, trade deal_
 
 ##### PS
 ### [Voters in France go to the polls for a second round of voting in municipal elections. The ruling Socialist Party generally performs badly, but their candidate in the Paris mayoral election Anne Hidalgo is set to become the first female mayor of that city. ](/news/2014/03/30/voters-in-france-go-to-the-polls-for-a-second-round-of-voting-in-municipal-elections-the-ruling-socialist-party-generally-performs-badly-b.md)
-_Context: Anne Hidalgo, Paris mayoral election, PS_
+_Context: PS, Anne Hidalgo, Paris mayoral election_
 
 ## [Previous Day...](/news/2014/03/29/index.md)
 

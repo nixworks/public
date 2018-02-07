@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/17/index.html)  [JSON](2006/01/17/index.json)  [XML](200
 
 ##### Supreme Court of the United States
 ### [ The U.S. Supreme Court rules in "Gonzales v. Oregon" by a 6-3 vote that Oregon's "Death with Dignity Act" providing for physician-assisted suicide is consistent with the federal Controlled Substances Act. ](/news/2006/01/17/the-u-s-supreme-court-rules-in-gonzales-v-oregon-by-a-6a3-vote-that-oregon-s-death-with-dignity-act-providing-for-physician-assiste.md)
-_Context: Gonzales v. Oregon, Death with Dignity Act, Supreme Court of the United States, physician-assisted suicide, Controlled Substances Act, Oregon_
+_Context: Death with Dignity Act, Gonzales v. Oregon, Supreme Court of the United States, Oregon, Controlled Substances Act, physician-assisted suicide_
 
 ##### Jill Carroll
 ### [ Kidnappers of journalist Jill Carroll demand that the United States release all female Iraqi prisoners within 72 hours. ](/news/2006/01/17/kidnappers-of-journalist-jill-carroll-demand-that-the-united-states-release-all-female-iraqi-prisoners-within-72-hours.md)
@@ -13,31 +13,31 @@ _Context: Jill Carroll_
 
 ##### Jordan
 ### [ Two Jordanian peacekeepers, serving as part of the United Nations Stabilization Mission in Haiti, have been killed by gunfire in Port-au-Prince. ](/news/2006/01/17/two-jordanian-peacekeepers-serving-as-part-of-the-united-nations-stabilization-mission-in-haiti-have-been-killed-by-gunfire-in-port-au-pr.md)
-_Context: United Nations Stabilization Mission in Haiti, Jordan, Port-au-Prince_
+_Context: Jordan, Port-au-Prince, United Nations Stabilization Mission in Haiti_
 
 ##### Cote d'Ivoire
 ### [ In Cote d'Ivoire, supporters of President Laurent Gbagbo attack United Nations peacekeepers after the Ivorian Popular Front withdraws from the Ivorian Civil War peace process. ](/news/2006/01/17/in-ca-te-d-ivoire-supporters-of-president-laurent-gbagbo-attack-united-nations-peacekeepers-after-the-ivorian-popular-front-withdraws-from.md)
-_Context: Laurent Gbagbo, Cote d'Ivoire, Ivorian Popular Front, Ivorian Civil War, peacekeepers_
+_Context: Ivorian Civil War, Laurent Gbagbo, Ivorian Popular Front, peacekeepers, Cote d'Ivoire_
 
 ##### South Korea
 ### [ South Korean scientist Hwang Woo-suk has been offered a job at Clonaid studying human embryonic stem cell lines. Clonaid is a subsidiary of the cult known as the Raelians, who believe that cloning is the first step toward immortality. ](/news/2006/01/17/south-korean-scientist-hwang-woo-suk-has-been-offered-a-job-at-clonaid-studying-human-embryonic-stem-cell-lines-clonaid-is-a-subsidiary-of.md)
-_Context: South Korea, Rael, cult, immortality, Hwang Woo-suk, Clonaid_
+_Context: South Korea, Hwang Woo-suk, Rael, cult, Clonaid, immortality_
 
 ##### GNU General Public License
 ### [ A draft of the new version (3) of the GNU General Public License is released. The "new" version has provisions blocking GPL code from being used in, or "secured" by, digital rights management schemes. The "Freeness" provisions also restricts the patent rights coders can claim in their GPL-licensed programs. ](/news/2006/01/17/a-draft-of-the-new-version-3-of-the-gnu-general-public-license-is-released-the-new-version-has-provisions-blocking-gpl-code-from-being.md)
-_Context: rights, patent, digital rights management, Free, GNU General Public License, coder_
+_Context: digital rights management, GNU General Public License, patent, coder, Free, rights_
 
 ##### Chan
 ### [ An original manuscript of the Chan Buddhist "Wu Men Guan" ("Mumonkan") dated to 1246 is exhibited online by the i4uuu museum. ](/news/2006/01/17/an-original-manuscript-of-the-cha-n-buddhist-wu-men-guan-mumonkan-dated-to-1246-is-exhibited-online-by-the-i4uuu-museum.md)
-_Context: Wu Men Guan, i4uuu, museum, Chan_
+_Context: i4uuu, museum, Chan, Wu Men Guan_
 
 ##### Premier
 ### [ Taiwanese Premier Frank Hsieh announces his resignation following the defeat of the Democratic Progressive Party in recent elections. ](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.md)
-_Context: Democratic Progressive Party, Frank Hsieh, recent elections, Premier_
+_Context: Frank Hsieh, recent elections, Premier, Democratic Progressive Party_
 
 ##### Huser
 ### [ Japanese company Huser's president Susumu Ojima receives a summons of a witness by the Diet because of suspicions etc. that he instructed one-class authorized architect Hidetsugu Aneha to reduce the quantity of reinforced concrete. ](/news/2006/01/17/japanese-company-huser-s-president-susumu-ojima-receives-a-summons-of-a-witness-by-the-diet-because-of-suspicions-etc-that-he-instructed-o.md)
-_Context: Huser, summons, reinforced concrete, witness, Susumu Ojima, Diet, Hidetsugu Aneha_
+_Context: summons, Hidetsugu Aneha, Huser, witness, Susumu Ojima, Diet, reinforced concrete_
 
 ## [Previous Day...](/news/2006/01/16/index.md)
 

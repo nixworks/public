@@ -21,7 +21,7 @@ In announcing the cut, the Federal Reserve signaled its concern that the credit 
 
 ##### Al Qaeda in the Islamic Maghreb
 ### [ Al-Qaeda Organization in the Islamic Maghreb claims responsibility for two simultaneous bombings in Algiers, Algeria, causing at least 62 deaths and more injuries. ](/news/2007/12/11/al-qaeda-organization-in-the-islamic-maghreb-claims-responsibility-for-two-simultaneous-bombings-in-algiers-algeria-causing-at-least-62-d.md)
-_Context: two simultaneous bombings, Algeria, Algiers, Al Qaeda in the Islamic Maghreb_
+_Context: two simultaneous bombings, Algiers, Algeria, Al Qaeda in the Islamic Maghreb_
 
 ## [Previous Day...](/news/2007/12/10/index.md)
 

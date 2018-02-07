@@ -13,11 +13,11 @@ Nine decapitated bodies have been discovered in the Mexican border city of Tijua
 
 ##### India
 ### [ India's home minister Shivraj Patil has submitted his resignation, taking "moral responsibility" for the Mumbai attacks. ](/news/2008/11/30/india-s-home-minister-shivraj-patil-has-submitted-his-resignation-taking-moral-responsibility-for-the-mumbai-attacks.md)
-_Context: Union Minister of Home Affairs of the Republic of India, India, November terrorist attacks, Shivraj Patil_
+_Context: November terrorist attacks, Union Minister of Home Affairs of the Republic of India, Shivraj Patil, India_
 
 ##### assemble
 ### [ 2008 Thai political crisis: A grenade attack on a People's Alliance for Democracy rally in Bangkok injures at least 46 people. ](/news/2008/11/30/2008-thai-political-crisis-a-grenade-attack-on-a-people-s-alliance-for-democracy-rally-in-bangkok-injures-at-least-46-people.md)
-_Context: grenade, yellow shirt, assemble, Bangkok_
+_Context: Bangkok, yellow shirt, assemble, grenade_
 
 ## [Previous Day...](/news/2008/11/29/index.md)
 

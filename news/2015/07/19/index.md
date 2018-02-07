@@ -13,7 +13,7 @@ Fourteen mausoleums in Timbuktu in northern Mali are rebuilt, three years after 
 
 ##### 2014-15 India-Pakistan border skirmishes
 ### [The Pakistan Foreign Office lodges an official report with India over what it calls a series of "unprovoked ceasefire violations" in the disputed Himalayan region of Kashmir. ](/news/2015/07/19/the-pakistan-foreign-office-lodges-an-official-report-with-india-over-what-it-calls-a-series-of-unprovoked-ceasefire-violations-in-the-dis.md)
-_Context: Kashmir, 2014-15 India-Pakistan border skirmishes, India-Pakistan relations, India, Himalaya, Pakistan Foreign Office_
+_Context: Pakistan Foreign Office, Kashmir, Himalaya, India-Pakistan relations, 2014-15 India-Pakistan border skirmishes, India_
 
 ## [Previous Day...](/news/2015/07/18/index.md)
 

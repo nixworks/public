@@ -21,7 +21,7 @@ James Gandolfini, the actor who most famously portrayed Tony Soprano on the seri
 
 ##### Indian Army
 ### [The Indian Army is deployed to help rescue people in the flood-hit northern states of Uttarakhand and Himachal Pradesh, where the number of confirmed deaths has reached 130. ](/news/2013/06/19/the-indian-army-is-deployed-to-help-rescue-people-in-the-flood-hit-northern-states-of-uttarakhand-and-himachal-pradesh-where-the-number-of.md)
-_Context: Indian Army, Himachal Pradesh, Uttarakhand_
+_Context: Indian Army, Uttarakhand, Himachal Pradesh_
 
 ##### Samara Oblast
 ### [A man is killed and more than 6,000 people are evacuated following an explosion at an arms depot in the Samara Oblast in central Russia. ](/news/2013/06/19/a-man-is-killed-and-more-than-6-000-people-are-evacuated-following-an-explosion-at-an-arms-depot-in-the-samara-oblast-in-central-russia.md)

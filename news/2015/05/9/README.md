@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/9/index.html)  [JSON](2015/05/9/index.json)  [XML](2015/
 
 ##### North Korea
 ### [North Korea claims to have successfully test fired a ballistic missile from a submarine. ](/news/2015/05/9/north-korea-claims-to-have-successfully-test-fired-a-ballistic-missile-from-a-submarine.md)
-_Context: North Korea, ballistic missile_
+_Context: ballistic missile, North Korea_
 
 ##### Ongoing insurgency
 ### [Ongoing insurgency in Kumanovo between the National Liberation Army and the Macedonian army. 3 policemen are reported to have been killed. ](/news/2015/05/9/ongoing-insurgency-in-kumanovo-between-the-national-liberation-army-and-the-macedonian-army-3-policemen-are-reported-to-have-been-killed.md)
@@ -21,11 +21,11 @@ Ukraine&#x27;s pro-Russian rebel leader Alexander Zakharchenko said Saturday tha
 
 ##### Naxalite-Maoist insurgency
 ### [Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh-state.md)
-_Context: India, Naxalite-Maoist insurgency, Chhattisgarh_
+_Context: Naxalite-Maoist insurgency, India, Chhattisgarh_
 
 ##### 2015 Pacific typhoon season
 ### [Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md)
-_Context: Philippines, 2015 Pacific typhoon season, Luzon_
+_Context: 2015 Pacific typhoon season, Luzon, Philippines_
 
 ##### 2015 Atlantic hurricane season
 ### [Tropical storm Ana forms near the states of North and South Carolina weeks before the official start of the hurricane season. ](/news/2015/05/9/tropical-storm-ana-forms-near-the-states-of-north-and-south-carolina-weeks-before-the-official-start-of-the-hurricane-season.md)
@@ -37,7 +37,7 @@ Military plane with six on board crashes during test flight near Seville, killin
 
 ##### Tornadoes of 2015
 ### [At least one person is killed and another injured in a tornado in the town of Cisco, Texas with tornadoes also reported in eastern Colorado. ](/news/2015/05/9/at-least-one-person-is-killed-and-another-injured-in-a-tornado-in-the-town-of-cisco-texas-with-tornadoes-also-reported-in-eastern-colorado.md)
-_Context: Cisco, Texas, Colorado, Tornadoes of 2015_
+_Context: Colorado, Cisco, Texas, Tornadoes of 2015_
 
 ##### China
 ### [Ten people are killed after a wall collapses on a construction project in China's Shandong province. ](/news/2015/05/9/ten-people-are-killed-after-a-wall-collapses-on-a-construction-project-in-china-s-shandong-province.md)
@@ -53,7 +53,7 @@ Russia stages its biggest WW2 Victory Day military parade, an event avoided by m
 
 ##### President
 ### [Former President of Egypt Hosni Mubarak and his two sons are sentenced to three years imprisonment and a fine for corruption. ](/news/2015/05/9/former-president-of-egypt-hosni-mubarak-and-his-two-sons-are-sentenced-to-three-years-imprisonment-and-a-fine-for-corruption.md)
-_Context: President, Hosni Mubarak_
+_Context: Hosni Mubarak, President_
 
 ##### Paraguay
 ### [A man is arrested in Paraguay for allegedly raping and impregnating his ten-year-old stepdaughter. ](/news/2015/05/9/a-man-is-arrested-in-paraguay-for-allegedly-raping-and-impregnating-his-ten-year-old-stepdaughter.md)
@@ -65,7 +65,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Moro Islamic Liberation Front
 ### [ The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. ](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.md)
-_Context: Moro Islamic Liberation Front, Philippines, United Bangsamoro Justice Party_
+_Context: United Bangsamoro Justice Party, Philippines, Moro Islamic Liberation Front_
 
 ## [Previous Day...](/news/2015/05/8/index.md)
 

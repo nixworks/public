@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### University of California at San Diego
 ### [ University of California at San Diego psychology researcher Tim Gentner reportedly discovers that songbirds are capable of learning simple grammar, which may disprove Noam Chomsky's long believed hypothesis that humans are the only organism able to comprehend recursive grammar. ](/news/2006/04/26/university-of-california-at-san-diego-psychology-researcher-tim-gentner-reportedly-discovers-that-songbirds-are-capable-of-learning-simple.md)
-_Context: Tim Gentner, songbirds, psychology, University of California at San Diego, Noam Chomsky, grammar_
+_Context: songbirds, Noam Chomsky, psychology, Tim Gentner, grammar, University of California at San Diego_
 
 ##### Tony Snow
 ### [ Tony Snow is named White House Press Secretary.](/news/2006/04/26/tony-snow-is-named-white-house-press-secretary.md)
@@ -29,7 +29,7 @@ _Context: Egypt, 2006 Dahab bombings_
 
 ##### peacekeepers
 ### [ Peacekeeping Forces in Egypt were attacked outside the Nile Delta by two suicide bombers. No casualties. ](/news/2006/04/26/peacekeeping-forces-in-egypt-were-attacked-outside-the-nile-delta-by-two-suicide-bombers-no-casualties.md)
-_Context: Nile, Egypt, peacekeepers_
+_Context: Egypt, peacekeepers, Nile_
 
 ## [Previous Day...](/news/2006/04/25/index.md)
 

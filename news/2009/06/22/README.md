@@ -21,7 +21,7 @@ _Context: Silk Route, East Asia, Europe_
 
 ##### Brazil
 ### [ Brazilian officials identify the first 11 of 50 bodies recovered from Air France Flight 447. ](/news/2009/06/22/brazilian-officials-identify-the-first-11-of-50-bodies-recovered-from-air-france-flight-447.md)
-_Context: crash of Air France Flight 447, Brazil_
+_Context: Brazil, crash of Air France Flight 447_
 
 ##### Madeira
 ### [ Officials gather in Madeira to strike a deal on whaling, with Japan and Iceland likely to insist on their right to hunt. ](/news/2009/06/22/officials-gather-in-madeira-to-strike-a-deal-on-whaling-with-japan-and-iceland-likely-to-insist-on-their-right-to-hunt.md)
@@ -29,19 +29,19 @@ World whaling body expected to see fierce debate between pro- and anti-whaling c
 
 ##### Congress of France
 ### [ For the first time in 136 years, the Congress of France convenes in the Palace of Versailles to listen to an address by the President of France, Nicolas Sarkozy. ](/news/2009/06/22/for-the-first-time-in-136-years-the-congress-of-france-convenes-in-the-palace-of-versailles-to-listen-to-an-address-by-the-president-of-fr.md)
-_Context: Palace of Versailles, Congress of France, Nicolas Sarkozy, French President_
+_Context: Congress of France, French President, Palace of Versailles, Nicolas Sarkozy_
 
 ##### Zimbabwe
 ### [ Zimbabwe's Prime Minister Morgan Tsvangirai insists the coalition government is tackling the country's dire humanitarian and economic crisis at a talk at Southwark Cathedral in London. ](/news/2009/06/22/zimbabwe-s-prime-minister-morgan-tsvangirai-insists-the-coalition-government-is-tackling-the-country-s-dire-humanitarian-and-economic-crisi.md)
-_Context: Zimbabwe, London, Morgan Tsvangirai, Southwark Cathedral_
+_Context: Zimbabwe, London, Southwark Cathedral, Morgan Tsvangirai_
 
 ##### Conservative Party
 ### [ Conservative MP John Bercow is elected the new Speaker of the House of Commons of the United Kingdom. ](/news/2009/06/22/conservative-mp-john-bercow-is-elected-the-new-speaker-of-the-house-of-commons-of-the-united-kingdom.md)
-_Context: John Bercow, Speaker of the British House of Commons, the House of Commons, elected, MP, Conservative Party_
+_Context: the House of Commons, elected, John Bercow, Speaker of the British House of Commons, Conservative Party, MP_
 
 ##### France
 ### [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md)
-_Context: French President, France, Nicolas Sarkozy, burqa_
+_Context: burqa, French President, Nicolas Sarkozy, France_
 
 ##### Utegate scandal in Australia
 ### [ The email at the heart of the Utegate scandal in Australia is declared a forgery by Federal Police. ](/news/2009/06/22/the-email-at-the-heart-of-the-utegate-scandal-in-australia-is-declared-a-forgery-by-federal-police.md)

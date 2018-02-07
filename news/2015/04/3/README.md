@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/3/index.html)  [JSON](2015/04/3/index.json)  [XML](2015/
 
 ##### SGBPo Paulo
 ### [ Five people die in a helicopter crash in a SGBPo Paulo residential area, including the son of Governor Geraldo Alckmin. ](/news/2015/04/3/five-people-die-in-a-helicopter-crash-in-a-sagbpo-paulo-residential-area-including-the-son-of-governor-geraldo-alckmin.md)
-_Context: Geraldo Alckmin, Governor, SGBPo Paulo_
+_Context: Geraldo Alckmin, SGBPo Paulo, Governor_
 
 ##### flight data recorder
 ### [Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. ](/news/2015/04/3/data-from-the-flight-data-recorder-reveals-that-the-plane-was-deliberately-accelerated-before-crashing-into-the-french-alps.md)
@@ -17,7 +17,7 @@ Egyptian security sources say at least 15 soldiers and two civilians have been k
 
 ##### Yemeni Crisis (2011-present)
 ### [ Saudi Arabia donates a plethora of weapons and medical supplies to the conflict by dropping them over Tawahi. ](/news/2015/04/3/saudi-arabia-donates-a-plethora-of-weapons-and-medical-supplies-to-the-conflict-by-dropping-them-over-tawahi.md)
-_Context: Yemeni Crisis (2011-present), Saudi Arabia, Tawahi_
+_Context: Yemeni Crisis (2011-present), Tawahi, Saudi Arabia_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu disagrees with the Iranian nuclear program agreement that the P5+1 Nations offered to Iran, saying it threatens Israel. ](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.md)
@@ -37,11 +37,11 @@ Burkina Faso’s government confirmed on Wednesday that an outbreak of H5N1 avia
 
 ##### Prime Minister
 ### [ Former Prime Minister of the Netherlands Piet de Jong celebrates his 100th birthday. ](/news/2015/04/3/former-prime-minister-of-the-netherlands-piet-de-jong-celebrates-his-100th-birthday.md)
-_Context: Piet de Jong, Prime Minister, 100th birthday_
+_Context: Prime Minister, 100th birthday, Piet de Jong_
 
 ##### Vice President
 ### [ Former Vice President of Zimbabwe Joice Mujuru is expelled from the ruling party for allegedly planning a coup against President Robert Mugabe. ](/news/2015/04/3/former-vice-president-of-zimbabwe-joice-mujuru-is-expelled-from-the-ruling-party-for-allegedly-planning-a-coup-against-president-robert-mug.md)
-_Context: Vice President, ZANU-PF, Joice Mujuru, Robert Mugabe, President of Zimbabwe, coup_
+_Context: Robert Mugabe, Joice Mujuru, President of Zimbabwe, Vice President, ZANU-PF, coup_
 
 ## [Previous Day...](/news/2015/04/2/index.md)
 

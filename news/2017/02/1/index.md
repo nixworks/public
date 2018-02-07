@@ -29,7 +29,7 @@ The House of Commons vote was a crucial hurdle on the way to the country&rsquo;s
 
 ##### Israel
 ### [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md)
-_Context: Palestine, Supreme Court, Israel, Ramallah, Amona, Mateh Binyamin, unauthorized outpost, West Bank_
+_Context: West Bank, unauthorized outpost, Israel, Supreme Court, Palestine, Ramallah, Amona, Mateh Binyamin_
 
 ##### ZeniMax Media
 ### [A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. ](/news/2017/02/1/a-jury-finds-in-favor-of-video-game-publisher-zenimax-media-after-the-trial-of-its-copyright-lawsuit-against-oculus-and-facebook-regarding.md)

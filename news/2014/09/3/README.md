@@ -13,7 +13,7 @@ The White House on Wednesday confirmed the authenticity of an Internet video tha
 
 ##### U.S. President
 ### [The President of the United States visits Estonia in a move to reassure the Baltic states ahead of a NATO summit in Wales. ](/news/2014/09/3/the-president-of-the-united-states-visits-estonia-in-a-move-to-reassure-the-baltic-states-ahead-of-a-nato-summit-in-wales.md)
-_Context: Wales, NATO, Estonia, U.S. President, Baltics_
+_Context: Estonia, NATO, Wales, Baltics, U.S. President_
 
 ##### Mahmoud Abbas
 ### [Palestinian President Mahmoud Abbas speaks of an offer suggested by an Egyptian official whom he didn't name, that implies Egypt donating 600 square miles of land in Sinai to be used as a solution to the problem of Palestinian refugees. Mahmoud Abbas said that he rejected that offer. ](/news/2014/09/3/palestinian-president-mahmoud-abbas-speaks-of-an-offer-suggested-by-an-egyptian-official-whom-he-didn-t-name-that-implies-egypt-donating-60.md)

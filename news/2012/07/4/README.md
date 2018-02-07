@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/4/index.html)  [JSON](2012/07/4/index.json)  [XML](2012/
 
 ##### Bashar al Assad
 ### [Syrian President Bashar al Assad accuses neighboring Turkey of supporting "terrorists" and contributing to the bloodshed in Syria. ](/news/2012/07/4/syrian-president-bashar-al-assad-accuses-neighboring-turkey-of-supporting-terrorists-and-contributing-to-the-bloodshed-in-syria.md)
-_Context: Syria, Bashar al Assad, Turkey_
+_Context: Turkey, Syria, Bashar al Assad_
 
 ##### German
 ### [A gunman, who was facing eviction from his apartment, is believed to have seized and killed four hostages in the German city of Karlsruhe before turning the gun on himself. ](/news/2012/07/4/a-gunman-who-was-facing-eviction-from-his-apartment-is-believed-to-have-seized-and-killed-four-hostages-in-the-german-city-of-karlsruhe-be.md)
@@ -17,7 +17,7 @@ _Context: Baghdad, Iraq_
 
 ##### China
 ### [China accuses the Vatican of obstructing the development of Catholicism after the latter threatens to excommunicate new bishops ordained without papal approval. ](/news/2012/07/4/china-accuses-the-vatican-of-obstructing-the-development-of-catholicism-after-the-latter-threatens-to-excommunicate-new-bishops-ordained-wit.md)
-_Context: China, excommunicate, Holy See, Pope, Catholic faithful_
+_Context: China, excommunicate, Pope, Catholic faithful, Holy See_
 
 ##### George Entwistle
 ### [British broadcaster George Entwistle is named as the next Director-General of the BBC, beginning in autumn 2012. ](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.md)
@@ -25,7 +25,7 @@ Current director of BBC Vision, George Entwistle, is announced as the 15th BBC d
 
 ##### Archaeology of Israel
 ### [Archaeologists in Israel discover a mosaic floor depicting the biblical figure of Samson and a Hebrew inscription in an ancient synagogue in the Galilee region. ](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.md)
-_Context: synagogue, Archaeology of Israel, Galilee, Samson, mosaic_
+_Context: Samson, Galilee, Archaeology of Israel, synagogue, mosaic_
 
 ##### Bob Diamond
 ### [Bob Diamond, former CEO of Barclays, gives evidence to the Parliament of the United Kingdom's Treasury Select Committee on the bank's manipulation of Libor and Euribor interest rates. ](/news/2012/07/4/bob-diamond-former-ceo-of-barclays-gives-evidence-to-the-parliament-of-the-united-kingdom-s-treasury-select-committee-on-the-bank-s-manipu.md)
@@ -33,7 +33,7 @@ British Prime Minister David Cameron has branded a rate fixing scandal which pro
 
 ##### Standard & Poor's
 ### [Standard & Poor's raises the credit rating of the Philippines to BB+. ](/news/2012/07/4/standard-poor-s-raises-the-credit-rating-of-the-philippines-to-bb.md)
-_Context: Philippines, Standard & Poor's_
+_Context: Standard & Poor's, Philippines_
 
 ##### Egypt
 ### [Egyptian officials deny that newly elected Egyptian President Mohammed Morsi will visit Iran to attend a conference. ](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.md)
@@ -49,7 +49,7 @@ Ramallah sources say remains of former chairman will be exhumed following report
 
 ##### Spain
 ### [Spain's national court opens a criminal investigation into last year's listing of Bankia SA on the stock market, with former chairman Rodrigo Rato and 32 others listed as suspects. ](/news/2012/07/4/spain-s-national-court-opens-a-criminal-investigation-into-last-year-s-listing-of-bankia-sa-on-the-stock-market-with-former-chairman-rodrig.md)
-_Context: Spain, Bankia, Rodrigo Rato_
+_Context: Spain, Rodrigo Rato, Bankia_
 
 ##### Ukraine
 ### [Hundreds of protesters clash with police in the Ukrainian capital Kiev and the parliament speaker offers to resign over moves to boost the status of the Russian language in the country. ](/news/2012/07/4/hundreds-of-protesters-clash-with-police-in-the-ukrainian-capital-kiev-and-the-parliament-speaker-offers-to-resign-over-moves-to-boost-the-s.md)
@@ -57,7 +57,7 @@ Hundreds clash with police in central Kiev and parliament speaker offers to resi
 
 ##### Shifang
 ### [The Chinese city of Shifang cancels the planned development of a copper plant after thousands of people demonstrated. ](/news/2012/07/4/the-chinese-city-of-shifang-cancels-the-planned-development-of-a-copper-plant-after-thousands-of-people-demonstrated.md)
-_Context: Shifang, copper_
+_Context: copper, Shifang_
 
 ##### European Parliament
 ### [The European Parliament rejects the Anti-Counterfeiting Trade Agreement in a session with more than 470 votes against the treaty. ](/news/2012/07/4/the-european-parliament-rejects-the-anti-counterfeiting-trade-agreement-in-a-session-with-more-than-470-votes-against-the-treaty.md)
@@ -69,7 +69,7 @@ _Context: Mexican presidential elections_
 
 ##### Ramallah
 ### [Palestinians in Ramallah protest outside the offices of Palestinian Authority President Mahmoud Abbas against the 1993 Oslo Peace Accords between Israel and the PLO. ](/news/2012/07/4/palestinians-in-ramallah-protest-outside-the-offices-of-palestinian-authority-president-mahmoud-abbas-against-the-1993-oslo-peace-accords-be.md)
-_Context: Ramallah, Mahmoud Abbas, PLO, Oslo Peace Accords, Israel, Palestinian Authority President_
+_Context: Ramallah, Mahmoud Abbas, Israel, Palestinian Authority President, PLO, Oslo Peace Accords_
 
 ##### CERN
 ### [CERN scientists present recent results from CMS and ATLAS experiments consistent with the existence of a Higgs boson particle. ](/news/2012/07/4/cern-scientists-present-recent-results-from-cms-and-atlas-experiments-consistent-with-the-existence-of-a-higgs-boson-particle.md)

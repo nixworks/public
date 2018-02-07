@@ -53,7 +53,7 @@ _Context: South Carolina, Greenwood County_
 
 ##### Marilyn Tavenner
 ### [Marilyn Tavenner, the Administrator of Centers for Medicare and Medicaid Services, becomes the first Obama administration official to apologise for the troubled roll out of the healthcare.gov website as part of the Affordable Care Act or "Obamacare" system. ](/news/2013/10/29/marilyn-tavenner-the-administrator-of-centers-for-medicare-and-medicaid-services-becomes-the-first-obama-administration-official-to-apolog.md)
-_Context: Marilyn Tavenner, Centers for Medicare and Medicaid Services, Obama administration, healthcare.gov, Affordable Care Act_
+_Context: healthcare.gov, Affordable Care Act, Marilyn Tavenner, Centers for Medicare and Medicaid Services, Obama administration_
 
 ## [Previous Day...](/news/2013/10/28/index.md)
 

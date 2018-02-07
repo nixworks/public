@@ -9,15 +9,15 @@ _Context: General Motors, Mexico, United States, factories_
 
 ##### Taliban
 ### [ The Taliban's Students' Movement captures Buner District in Pakistan. ](/news/2009/04/23/the-taliban-s-students-movement-captures-buner-district-in-pakistan.md)
-_Context: War in North-West Pakistan, Taliban, Pakistan, Pakistani Taliban, Buner District_
+_Context: War in North-West Pakistan, Pakistani Taliban, Pakistan, Buner District, Taliban_
 
 ##### Judge
 ### [ Judge Tomas Norstrom of The Pirate Bay's trial is revealed to be a member of the same copyright protection organizations as several entertainment industry representatives. ](/news/2009/04/23/judge-tomas-norstrapm-of-the-pirate-bay-s-trial-is-revealed-to-be-a-member-of-the-same-copyright-protection-organizations-as-several-entert.md)
-_Context: trial, entertainment industry, Judge, copyright law, The Pirate Bay_
+_Context: The Pirate Bay, trial, Judge, copyright law, entertainment industry_
 
 ##### India
 ### [ India's general election begins its second of five phases. ](/news/2009/04/23/india-s-general-election-begins-its-second-of-five-phases.md)
-_Context: becomes, India_
+_Context: India, becomes_
 
 ##### International Monetary Fund
 ### [ The International Monetary Fund forecasts that the world economy will not recover until 2010. ](/news/2009/04/23/the-international-monetary-fund-forecasts-that-the-world-economy-will-not-recover-until-2010.md)
@@ -25,15 +25,15 @@ _Context: world economy, International Monetary Fund, 4th quarter of 2007 and th
 
 ##### Prime Minister
 ### [ Prime Minister of Lesotho Pakalitha Mosisili survives an apparent assassination attempt. ](/news/2009/04/23/prime-minister-of-lesotho-pakalitha-mosisili-survives-an-apparent-assassination-attempt.md)
-_Context: Lesotho, assassination, Prime Minister, Pakalitha Mosisili_
+_Context: Pakalitha Mosisili, assassination, Lesotho, Prime Minister_
 
 ##### suicide attack
 ### [ Two suicide attacks near Baqubah and in Baghdad, Iraq, kill at least 87 people. ](/news/2009/04/23/two-suicide-attacks-near-baqubah-and-in-baghdad-iraq-kill-at-least-87-people.md)
-_Context: suicide attack, Iraq, Baghdad, Baqubah, kill_
+_Context: suicide attack, Baqubah, Baghdad, kill, Iraq_
 
 ##### Iraq
 ### [ Iraq's government calculates that more than 110,000 Iraqis have died since the Iraq War began in 2003. ](/news/2009/04/23/iraq-s-government-calculates-that-more-than-110-000-iraqis-have-died-since-the-iraq-war-began-in-2003.md)
-_Context: Iraq War, 2003 invasion of Iraq, Iraq, Iraqi, Politics of Iraq_
+_Context: Iraq War, Iraqi, Politics of Iraq, 2003 invasion of Iraq, Iraq_
 
 ## [Previous Day...](/news/2009/04/22/index.md)
 

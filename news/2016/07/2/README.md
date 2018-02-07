@@ -17,7 +17,7 @@ Pentagon says deputy minister of war and commander died in US-led coalition airs
 
 ##### Syrian Civil War
 ### [Syrian government airstrikes in Damascus kill at least 30 people. According to the rebels, the airstrikes were revenge for the killing of a Syrian Air Force pilot by Al-Nusra Front yesterday. The airstrikes reportedly targeted a medical centre and a school. ](/news/2016/07/2/syrian-government-airstrikes-in-damascus-kill-at-least-30-people-according-to-the-rebels-the-airstrikes-were-revenge-for-the-killing-of-a.md)
-_Context: Damascus, Syrian, Syrian Civil War, Jabhat al-Nusra_
+_Context: Syrian Civil War, Syrian, Damascus, Jabhat al-Nusra_
 
 ##### 2016 Istanbul airport attack
 ### [Turkish police arrest a total of 41 people in connection with the Istanbul Ataturk Airport terrorist attack. ](/news/2016/07/2/turkish-police-arrest-a-total-of-41-people-in-connection-with-the-istanbul-atata1-4rk-airport-terrorist-attack.md)
@@ -25,7 +25,7 @@ Turkish police arrested a total of 41 people in connection with a terrorist atta
 
 ##### opened fire
 ### [A lone gunman opened fire at a cafe in Zitiste, Serbia, killing five people and injuring 20 more. The perpetrator was arrested shortly afterward while attempting to flee the scene. ](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2itia-te-serbia-killing-five-people-and-injuring-20-more-the-perpetrator-was-arrested-shortly-af.md)
-_Context: Serbia, Zitiste, opened fire_
+_Context: Serbia, opened fire, Zitiste_
 
 ##### Memphis, Tennessee
 ### [Four children are stabbed to death by their mother in Memphis, Tennessee. The mother was taken into custody. ](/news/2016/07/2/four-children-are-stabbed-to-death-by-their-mother-in-memphis-tennessee-the-mother-was-taken-into-custody.md)

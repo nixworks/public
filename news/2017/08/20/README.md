@@ -17,7 +17,7 @@ Once Hollywood&#x27;s most bankable star, Lewis fronted more than 50 movies, fro
 
 ##### South Korea
 ### [An explosion at a South Korean shipyard owned by STX Offshore & Shipbuilding kills four workers. ](/news/2017/08/20/an-explosion-at-a-south-korean-shipyard-owned-by-stx-offshore-shipbuilding-kills-four-workers.md)
-_Context: STX Offshore & Shipbuilding, South Korea_
+_Context: South Korea, STX Offshore & Shipbuilding_
 
 ##### drug crackdown
 ### [The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.](/news/2017/08/20/the-philippine-catholic-church-condemns-the-killings-in-the-philippines-after-anger-erupts-due-to-the-death-of-17-year-old-kian-loyd-delos-s.md)
@@ -25,7 +25,7 @@ It comes as questions are raised over the killing of a teenager by police during
 
 ##### Death of Jennifer Laude
 ### [The Court of Appeals of the Philippines has junked U.S. Marine Joseph Scott Pemberton's motion for reconsideration, re-affirming its decision last April upholding the 2015 homicide ruling of the Olongapo City Regional Trial Court; citing the defendant's arguments as mere "rehash of issues". The Court of Appeals also upheld the payment of [?] 4.32 million to Jennifer Laude's family for "loss of earning capacity". Pemberton faces 10 years in prison. ](/news/2017/08/20/the-court-of-appeals-of-the-philippines-has-junked-u-s-marine-joseph-scott-pemberton-s-motion-for-reconsideration-re-affirming-its-decisio.md)
-_Context: [?], Court of Appeals of the Philippines, Death of Jennifer Laude_
+_Context: Death of Jennifer Laude, [?], Court of Appeals of the Philippines_
 
 ##### Politics of Iran
 ### [Iranian MPs approve 16 out of 17 cabinet members nominated by recently re-elected President Hassan Rouhani. ](/news/2017/08/20/iranian-mps-approve-16-out-of-17-cabinet-members-nominated-by-recently-re-elected-president-hassan-rouhani.md)

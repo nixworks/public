@@ -13,15 +13,15 @@ Tuareg separatist rebels in Mali have seized Timbuktu, taking effective control 
 
 ##### Academy of Country Music
 ### [The 2012 Academy of Country Music Awards are held in the US city of Las Vegas, Nevada, with the Eli Young Band winning song of the year for "Crazy Girl" and Taylor Swift winning Entertainer of the Year. ](/news/2012/04/1/the-2012-academy-of-country-music-awards-are-held-in-the-us-city-of-las-vegas-nevada-with-the-eli-young-band-winning-song-of-the-year-for.md)
-_Context: Eli Young Band, Taylor Swift, Las Vegas, Nevada, Crazy Girl, Academy of Country Music_
+_Context: Academy of Country Music, Taylor Swift, Las Vegas, Nevada, Crazy Girl, Eli Young Band_
 
 ##### Feist
 ### [Feist wins Artist of the Year at the Canadian Juno Awards. ](/news/2012/04/1/feist-wins-artist-of-the-year-at-the-canadian-juno-awards.md)
-_Context: Feist, Juno Awards, Canadian_
+_Context: Juno Awards, Feist, Canadian_
 
 ##### Fiji
 ### [A state of emergency is declared in Fiji as nearly 7000 people are displaced and two people have been killed during floods with conditions set to worsen with heavy storms expected following Tropical Depression 17F.](/news/2012/04/1/a-state-of-emergency-is-declared-in-fiji-as-nearly-7000-people-are-displaced-and-two-people-have-been-killed-during-floods-with-conditions-s.md)
-_Context: Fiji, flood_
+_Context: flood, Fiji_
 
 ##### Burma
 ### [Voters in Burma go to the polls for by-elections for 45 seats, with Aung San Suu Kyi claiming victory in one election. ](/news/2012/04/1/voters-in-burma-go-to-the-polls-for-by-elections-for-45-seats-with-aung-san-suu-kyi-claiming-victory-in-one-election.md)

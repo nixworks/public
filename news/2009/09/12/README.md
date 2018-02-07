@@ -5,11 +5,11 @@ Formats: [HTML](2009/09/12/index.html)  [JSON](2009/09/12/index.json)  [XML](200
 
 ##### Madagascar
 ### [ Police in the Madagascar capital Antananarivo disperse small groups of opposition supporters opposed to the administration of Andry Rajoelina. ](/news/2009/09/12/police-in-the-madagascar-capital-antananarivo-disperse-small-groups-of-opposition-supporters-opposed-to-the-administration-of-andry-rajoeli.md)
-_Context: Andry Rajoelina, Antananarivo, Madagascar_
+_Context: Madagascar, Antananarivo, Andry Rajoelina_
 
 ##### earthquake
 ### [ A 6.4 magnitude earthquake occurs in Venezuela, injuring many people. ](/news/2009/09/12/a-6-4-magnitude-earthquake-occurs-in-venezuela-injuring-many-people.md)
-_Context: Venezuela, earthquake_
+_Context: earthquake, Venezuela_
 
 ##### Lebanon
 ### [ "Lebanon" wins the Golden Lion at the Venice Film Festival. ](/news/2009/09/12/lebanon-wins-the-golden-lion-at-the-venice-film-festival.md)
@@ -49,11 +49,11 @@ Police in Los Angeles say a multi-million dollar Andy Warhol art collection has 
 
 ##### United Nations
 ### [ United Nations official Peter Mackay is revealed to have been expelled from Sri Lanka for challenging government assertions at the end of the civil war. ](/news/2009/09/12/united-nations-official-peter-mackay-is-revealed-to-have-been-expelled-from-sri-lanka-for-challenging-government-assertions-at-the-end-of-t.md)
-_Context: Sri Lanka, Sri Lankan Civil War, United Nations, government_
+_Context: government, Sri Lankan Civil War, Sri Lanka, United Nations_
 
 ##### rugby union
 ### [ In rugby union, South Africa defeat New Zealand 32-29 to win the 2009 Tri Nations Series. ](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-32-29-to-win-the-2009-tri-nations-series.md)
-_Context: 2009 Tri Nations Series, New Zealand, rugby union, South Africa_
+_Context: New Zealand, rugby union, South Africa, 2009 Tri Nations Series_
 
 ##### army
 ### [ The Guatemalan Army is accused of abducting over 300 children during the 1960&ndash;1996 Civil War and selling them for adoption. ](/news/2009/09/12/the-guatemalan-army-is-accused-of-abducting-over-300-children-during-the-1960-ndash-1996-civil-war-and-selling-them-for-adoption.md)
@@ -65,7 +65,7 @@ Venezuela&#039;s President Hugo Chavez has announced that the country will soon 
 
 ##### Robert Mugabe
 ### [ President Robert Mugabe says Zimbabwe's first high-level talks with top EU officials in seven years went well. ](/news/2009/09/12/president-robert-mugabe-says-zimbabwe-s-first-high-level-talks-with-top-eu-officials-in-seven-years-went-well.md)
-_Context: European Union, Robert Mugabe, Zimbabwe_
+_Context: European Union, Zimbabwe, Robert Mugabe_
 
 ## [Previous Day...](/news/2009/09/11/index.md)
 

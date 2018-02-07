@@ -17,7 +17,7 @@ Tear gas and rubber bullets reportedly used to break up religious gatherings in 
 
 ##### United States
 ### [Two United States drone missiles kill 14 people in Pakistani Taliban compounds near Wana in South Waziristan. ](/news/2011/06/6/two-united-states-drone-missiles-kill-14-people-in-pakistani-taliban-compounds-near-wana-in-south-waziristan.md)
-_Context: South Waziristan, Pakistani Taliban, Wana, drone, United States_
+_Context: Wana, Pakistani Taliban, United States, South Waziristan, drone_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Armed men affiliated with al-Qaeda kill seven soldiers and injure 12 others near the city of Zinjibar. ](/news/2011/06/6/2011-yemeni-uprising-armed-men-affiliated-with-al-qaeda-kill-seven-soldiers-and-injure-12-others-near-the-city-of-zinjibar.md)
@@ -25,7 +25,7 @@ Armed men killed sevensoldiers and wounded 12 others in clashes in the southern 
 
 ##### Kaduqli
 ### [Shooting takes place in Kaduqli in Sudan's South Kordofan state, where armed groups allied to South Sudan are based. ](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.md)
-_Context: Kaduqli, Sudan, South Sudan, South Kordofan_
+_Context: South Kordofan, Kaduqli, Sudan, South Sudan_
 
 ##### 2011 Xilinhot incident
 ### [Around 100 people are detained after ethnic unrest in the Inner Mongolia region of China. ](/news/2011/06/6/around-100-people-are-detained-after-ethnic-unrest-in-the-inner-mongolia-region-of-china.md)
@@ -41,7 +41,7 @@ Prada SpA is seeking to raise as much as $2.6 billion in a Hong Kong initial pub
 
 ##### Tokyo Metropolitan Government
 ### [The Tokyo Metropolitan Government changes working hours of its staff in order to conserve energy from the shortages caused by the Fukushima Daiichi nuclear disaster. ](/news/2011/06/6/the-tokyo-metropolitan-government-changes-working-hours-of-its-staff-in-order-to-conserve-energy-from-the-shortages-caused-by-the-fukushima.md)
-_Context: Tokyo Metropolitan Government, Fukushima Daiichi nuclear disaster_
+_Context: Fukushima Daiichi nuclear disaster, Tokyo Metropolitan Government_
 
 ##### hackers
 ### [Hacker group Lulz Security claims to have again compromised Sony's online security system and posted the results online. ](/news/2011/06/6/hacker-group-lulz-security-claims-to-have-again-compromised-sony-s-online-security-system-and-posted-the-results-online.md)
@@ -65,15 +65,15 @@ The Apache County Sheriff&rsquo;s Office has issued a mandatory evacuation order
 
 ##### Banjarmasin
 ### [At least seventeen people are dead and another 15 remain missing after a speedboat sinks in Banjarmasin, the capital of the Indonesian province of South Kalimantan. ](/news/2011/06/6/at-least-seventeen-people-are-dead-and-another-15-remain-missing-after-a-speedboat-sinks-in-banjarmasin-the-capital-of-the-indonesian-provi.md)
-_Context: Banjarmasin, South Kalimantan, Indonesia_
+_Context: South Kalimantan, Indonesia, Banjarmasin_
 
 ##### European Union
 ### [A European Union delegation visits North Korea to investigate claims of food shortages. ](/news/2011/06/6/a-european-union-delegation-visits-north-korea-to-investigate-claims-of-food-shortages.md)
-_Context: North Korea, European Union_
+_Context: European Union, North Korea_
 
 ##### People's Daily
 ### [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md)
-_Context: search engine, People's Daily, hacker, Google, Internet_
+_Context: Google, search engine, Internet, hacker, People's Daily_
 
 ##### United Nations Committee Against Torture
 ### [The United Nations Committee Against Torture calls for the Government of Ireland to set up a statutory inquiry into allegations of poor treatment of women committed to the Magdalene Laundries. ](/news/2011/06/6/the-united-nations-committee-against-torture-calls-for-the-government-of-ireland-to-set-up-a-statutory-inquiry-into-allegations-of-poor-trea.md)
@@ -89,15 +89,15 @@ Co-founder of Jemaah Islamiyah proclaims innocence over terror charges and rejec
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund chief Dominique Strauss-Kahn will be arraigned on sexual assault charges in the US state of New York. ](/news/2011/06/6/former-international-monetary-fund-chief-dominique-strauss-kahn-will-be-arraigned-on-sexual-assault-charges-in-the-us-state-of-new-york.md)
-_Context: New York, arraigned, Dominique Strauss-Kahn, sexual assault, International Monetary Fund_
+_Context: Dominique Strauss-Kahn, International Monetary Fund, arraigned, sexual assault, New York_
 
 ##### Malaysia
 ### [The sodomy trial of Malaysian opposition leader Anwar Ibrahim is delayed after the presiding judge Mohamad Zabidin Diah dismisses the defence's efforts to have him replaced. ](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.md)
-_Context: Malaysia, Mohamad Zabidin Diah, Anwar Ibrahim_
+_Context: Malaysia, Anwar Ibrahim, Mohamad Zabidin Diah_
 
 ##### United States
 ### [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md)
-_Context: Sicilian Mafia, United States, FBI, Philadelphia, Pennsylvania_
+_Context: Sicilian Mafia, United States, Philadelphia, Pennsylvania, FBI_
 
 ##### House of Representatives
 ### [The outgoing speaker of the House of Representatives in Nigeria, Dimeji Bankole, is arrested on fraud charges. ](/news/2011/06/6/the-outgoing-speaker-of-the-house-of-representatives-in-nigeria-dimeji-bankole-is-arrested-on-fraud-charges.md)
@@ -105,15 +105,15 @@ _Context: Nigeria, House of Representatives, Dimeji Bankole_
 
 ##### France
 ### [France announces that it will stop teaching indigenous languages in schools in all of its Overseas departments and territories of France. ](/news/2011/06/6/france-announces-that-it-will-stop-teaching-indigenous-languages-in-schools-in-all-of-its-overseas-departments-and-territories-of-france.md)
-_Context: France, Overseas departments and territories of France, indigenous language_
+_Context: France, indigenous language, Overseas departments and territories of France_
 
 ##### Ollanta Humala
 ### [Ollanta Humala is elected President of Peru in the Peruvian general election, defeating opposition leader Keiko Fujimori. ](/news/2011/06/6/ollanta-humala-is-elected-president-of-peru-in-the-peruvian-general-election-defeating-opposition-leader-keiko-fujimori.md)
-_Context: Ollanta Humala, President, Peruvian general election, Keiko Fujimori_
+_Context: Keiko Fujimori, President, Ollanta Humala, Peruvian general election_
 
 ##### House of Representatives
 ### [U.S. House Representative Anthony Weiner of New York admits sending a risqu picture of himself to a college student on Twitter. ](/news/2011/06/6/u-s-house-representative-anthony-weiner-of-new-york-admits-sending-a-risque-picture-of-himself-to-a-college-student-on-twitter.md)
-_Context: Twitter, House of Representatives, Anthony Weiner, New York_
+_Context: House of Representatives, New York, Anthony Weiner, Twitter_
 
 ##### Austan Goolsbee
 ### [Austan Goolsbee announces plans to leave the position of Chairman of President of the United States Council of Economic Advisers by September. ](/news/2011/06/6/austan-goolsbee-announces-plans-to-leave-the-position-of-chairman-of-president-of-the-united-states-council-of-economic-advisers-by-septembe.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/20/index.html)  [JSON](2010/03/20/index.json)  [XML](201
 
 ##### sandstorm
 ### [A series of severe sandstorms hit north China, affecting the regions of Xinjiang and Inner Mongolia and the provinces of Shanxi, Shaanxi and Hebei. ](/news/2010/03/20/a-series-of-severe-sandstorms-hit-north-china-affecting-the-regions-of-xinjiang-and-inner-mongolia-and-the-provinces-of-shanxi-shaanxi-and.md)
-_Context: Xinjiang, Hebei, north China, Inner Mongolia, Shanxi province, sandstorm, Shaanxi_
+_Context: Shaanxi, Hebei, Shanxi province, Xinjiang, Inner Mongolia, north China, sandstorm_
 
 ##### Prime Minister
 ### [Former Prime Minister and Acting Head of State of Nepal Girija Prasad Koirala, "the elder statesman of South Asia" who brought down the King, dies in Kathmandu at the age of 86. ](/news/2010/03/20/former-prime-minister-and-acting-head-of-state-of-nepal-girija-prasad-koirala-the-elder-statesman-of-south-asia-who-brought-down-the-king.md)
@@ -29,7 +29,7 @@ _Context: Prime Minister of Russia, Russia, Vladimir Putin_
 
 ##### sandstorm
 ### [A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. ](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-china-hits-the-capital-beijing-with-health-authorities-urging-people-to-stay-inside.md)
-_Context: sandstorm, China, Beijing_
+_Context: China, sandstorm, Beijing_
 
 ##### British Airways
 ### [Cabin crew at British Airways begin a three-day strike. ](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.md)
@@ -53,7 +53,7 @@ Juvenile Arrested in N.J. Bias Incident in Which Blacks Were Told to Leave Store
 
 ##### David Bowie
 ### [David Bowie and Sir Elton John are among those to publicly mourn the death of Lesley Duncan, who also appeared on albums by Pink Floyd and Dusty Springfield. ](/news/2010/03/20/david-bowie-and-sir-elton-john-are-among-those-to-publicly-mourn-the-death-of-lesley-duncan-who-also-appeared-on-albums-by-pink-floyd-and-d.md)
-_Context: Lesley Duncan, Pink Floyd, Dusty Springfield, David Bowie, Elton John_
+_Context: Lesley Duncan, David Bowie, Dusty Springfield, Elton John, Pink Floyd_
 
 ##### rugby union
 ### [In international rugby union, France achieve the Grand Slam&mdash;their first since 2004&mdash;to win the 2010 Six Nations Championship. ](/news/2010/03/20/in-international-rugby-union-france-achieve-the-grand-slam-mdash-their-first-since-2004-mdash-to-win-the-2010-six-nations-championship.md)

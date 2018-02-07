@@ -9,15 +9,15 @@ A source in the Spanish government says ETA&#039;s military chief has been arres
 
 ##### Canadian
 ### [ Canada's HMCS "Winnipeg" and the United States' USS "Halyburton" thwart Somali pirates' attack on a Norwegian oil tanker. ](/news/2009/04/18/canada-s-hmcs-winnipeg-and-the-united-states-uss-halyburton-thwart-somali-pirates-attack-on-a-norwegian-oil-tanker.md)
-_Context: Norway, Canadian, USS ''Halyburton'', United States, HMCS ''Winnipeg'', Somalia, oil tanker, Somali pirates_
+_Context: oil tanker, Somalia, HMCS ''Winnipeg'', United States, Canadian, Somali pirates, USS ''Halyburton'', Norway_
 
 ##### Iranian-American
 ### [ Iranian-American journalist Roxana Saberi is charged with espionage and imprisoned in Iran until 2017. ](/news/2009/04/18/iranian-american-journalist-roxana-saberi-is-charged-with-espionage-and-imprisoned-in-iran-until-2017.md)
-_Context: journalist, Roxana Saberi, Iranian-American, espionage, Iran_
+_Context: Iran, espionage, Roxana Saberi, journalist, Iranian-American_
 
 ##### explosion
 ### [ An explosion at a warehouse kills at least 18 people in Hunan Province, China. ](/news/2009/04/18/an-explosion-at-a-warehouse-kills-at-least-18-people-in-hunan-province-china.md)
-_Context: warehouse, explosion, Hunan, China_
+_Context: Hunan, China, explosion, warehouse_
 
 ##### Abu Sayyaf
 ### [ The Abu Sayyaf Group releases Swiss Red Cross worker Andreas Notter from captivity in the Philippines. ](/news/2009/04/18/the-abu-sayyaf-group-releases-swiss-red-cross-worker-andreas-notter-from-captivity-in-the-philippines.md)
@@ -25,7 +25,7 @@ Islamic rebels in the Philippines freed a Swiss Red Cross worker held hostage fo
 
 ##### Netherlands
 ### [ The Netherlands' "Korps Commandotroepen" rescue 20 Yemeni hostages from Somali pirates in the Gulf of Aden. ](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: Somali pirates, Korps Commandotroepen, Gulf of Aden, Somalia, Yemen, Netherlands, hostage_
+_Context: Yemen, hostage, Somalia, Korps Commandotroepen, Netherlands, Somali pirates, Gulf of Aden_
 
 ## [Previous Day...](/news/2009/04/17/index.md)
 

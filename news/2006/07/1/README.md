@@ -13,11 +13,11 @@ NASA&#039;s space shuttle fleet began setting records with its first launch on A
 
 ##### Osama Bin Laden
 ### [ Osama Bin Laden warns the US and other nations not to become involved in Somalia and says that Al Qaeda reserves the right to "punish" the U.S. on its own soil. ](/news/2006/07/1/osama-bin-laden-warns-the-us-and-other-nations-not-to-become-involved-in-somalia-and-says-that-al-qaeda-reserves-the-right-to-punish-the.md)
-_Context: Al Qaeda, Somalia, Osama Bin Laden_
+_Context: Osama Bin Laden, Somalia, Al Qaeda_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council votes unanimously to withdraw the 3,500 peacekeeping troops who are currently in Burundi on December 31, despite the continuing activities of the National Liberation Force rebel group. ](/news/2006/07/1/the-united-nations-security-council-votes-unanimously-to-withdraw-the-3-500-peacekeeping-troops-who-are-currently-in-burundi-on-december-31.md)
-_Context: Burundi, rebel, December 31, peacekeeping troops, National Liberation Force, United Nations Security Council_
+_Context: peacekeeping troops, December 31, Burundi, United Nations Security Council, rebel, National Liberation Force_
 
 ##### Sadr City
 ### [ At least 60 people die from a car bomb in a market in Sadr City, a Shiite district of Baghdad. ](/news/2006/07/1/at-least-60-people-die-from-a-car-bomb-in-a-market-in-sadr-city-a-shiite-district-of-baghdad.md)
@@ -25,7 +25,7 @@ _Context: Baghdad, Sadr City_
 
 ##### Qingzang railway
 ### [ The Qingzang railway is formally opened in the by Chinese President Hu Jintao. ](/news/2006/07/1/the-qingzang-railway-is-formally-opened-in-the-by-chinese-president-hu-jintao.md)
-_Context: Qingzang railway, Hu Jintao, Chinese President_
+_Context: Hu Jintao, Qingzang railway, Chinese President_
 
 ##### Prime Minister
 ### [ An Israeli helicopter gunship attacks the office of Prime Minister of Palestine Ismail Haniyeh. Observers report that the building had been set on fire but was unoccupied. ](/news/2006/07/1/an-israeli-helicopter-gunship-attacks-the-office-of-prime-minister-of-palestine-ismail-haniyeh-observers-report-that-the-building-had-been.md)

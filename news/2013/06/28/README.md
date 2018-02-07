@@ -5,11 +5,11 @@ Formats: [HTML](2013/06/28/index.html)  [JSON](2013/06/28/index.json)  [XML](201
 
 ##### Philippine National Police
 ### [One trainee member of the Philippine National Police is killed and six injured in an ambush in Mountain Province. ](/news/2013/06/28/one-trainee-member-of-the-philippine-national-police-is-killed-and-six-injured-in-an-ambush-in-mountain-province.md)
-_Context: Mountain Province, Philippine National Police_
+_Context: Philippine National Police, Mountain Province_
 
 ##### Egypt
 ### [One person is killed and four injured in an attack on a provincial party office in the Egyptian city of Zagazig. ](/news/2013/06/28/one-person-is-killed-and-four-injured-in-an-attack-on-a-provincial-party-office-in-the-egyptian-city-of-zagazig.md)
-_Context: Zagazig, Egypt_
+_Context: Egypt, Zagazig_
 
 ##### Nigeria
 ### [Thirty-three are killed in an attack in Nigeria's Plateau State. ](/news/2013/06/28/thirty-three-are-killed-in-an-attack-in-nigeria-s-plateau-state.md)
@@ -17,7 +17,7 @@ _Context: Nigeria, Plateau State_
 
 ##### Songkhla
 ### [Two people are killed and seven injured in a bomb attack in Songkhla, Thailand. ](/news/2013/06/28/two-people-are-killed-and-seven-injured-in-a-bomb-attack-in-songkhla-thailand.md)
-_Context: Songkhla, Thailand_
+_Context: Thailand, Songkhla_
 
 ##### Karachi, Pakistan
 ### [Three people are killed and seven injured in an attack in Karachi, Pakistan ](/news/2013/06/28/three-people-are-killed-and-seven-injured-in-an-attack-in-karachi-pakistan.md)
@@ -57,7 +57,7 @@ _Context: The Hay Wain, John Constable_
 
 ##### California
 ### [Gay marriage in the state of California is legalized after the stay held on the unconstitutional California Proposition 8 is lifted. Two women who successfully challenged Proposition 8 in the Supreme Court of the United States are married in San Francisco. ](/news/2013/06/28/gay-marriage-in-the-state-of-california-is-legalized-after-the-stay-held-on-the-unconstitutional-california-proposition-8-is-lifted-two-wom.md)
-_Context: San Francisco, California, Supreme Court of the United States, California, California Proposition 8_
+_Context: Supreme Court of the United States, California, California Proposition 8, San Francisco, California_
 
 ## [Previous Day...](/news/2013/06/27/index.md)
 

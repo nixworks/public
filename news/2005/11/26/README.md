@@ -13,11 +13,11 @@ _Context: Virgilio Garcillano_
 
 ##### Rafah
 ### [ The Rafah crossing linking the Gaza Strip and Egypt turns over to Palestinian control for the first time. ](/news/2005/11/26/the-rafah-crossing-linking-the-gaza-strip-and-egypt-turns-over-to-palestinian-control-for-the-first-time.md)
-_Context: Palestine, Gaza Strip, Egypt, Rafah_
+_Context: Rafah, Palestine, Egypt, Gaza Strip_
 
 ##### earthquake
 ### [ An earthquake measuring 5.5 on the moment magnitude scale hits the area near Ruichang, Jiangxi in China, killing more than 14. ](/news/2005/11/26/an-earthquake-measuring-5-5-on-the-moment-magnitude-scale-hits-the-area-near-ruichang-jiangxi-in-china-killing-more-than-14.md)
-_Context: Jiangxi, Ruichang, earthquake, China, M<sub>w</sub>&nbsp;5.2_
+_Context: China, earthquake, Jiangxi, M<sub>w</sub>&nbsp;5.2, Ruichang_
 
 ##### Vijaypat Singhania
 ### [ Vijaypat Singhania of India sets a world record for highest hot air balloon flight, reaching 69,852 feet (20.29 km). ](/news/2005/11/26/vijaypat-singhania-of-india-sets-a-world-record-for-highest-hot-air-balloon-flight-reaching-69-852-feet-20-29-km.md)

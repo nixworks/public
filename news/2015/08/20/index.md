@@ -17,7 +17,7 @@ Reports say Pyongyang fired a shell at a South Korean border town, which prompte
 
 ##### Spillover of the Syrian Civil War
 ### [The Israeli Army fires Spike missiles on Syrian Army positions in the Golan Heights' Quneitra area in response to several rockets fired from Syria which landed in villages in northern Israel, about 20 km from the border. ](/news/2015/08/20/the-israeli-army-fires-spike-missiles-on-syrian-army-positions-in-the-golan-heights-quneitra-area-in-response-to-several-rockets-fired-from.md)
-_Context: Spillover of the Syrian Civil War, Syrian Armed Forces, Israeli Army, Golan Heights, Israel-Syria relations, Spike missile_
+_Context: Golan Heights, Israel-Syria relations, Spillover of the Syrian Civil War, Spike missile, Syrian Armed Forces, Israeli Army_
 
 ##### Archaeologists
 ### [Archaeologists find a skull rack used by the Aztecs to display victims in the ruins of the Templo Mayor in Mexico City. ](/news/2015/08/20/archaeologists-find-a-skull-rack-used-by-the-aztecs-to-display-victims-in-the-ruins-of-the-templo-mayor-in-mexico-city.md)
@@ -25,7 +25,7 @@ Get the latest science news and technology news, read tech reviews and more at A
 
 ##### Kazakhstan
 ### [Within hours of a government announcement that Kazakhstan will abandon its currency-band exchange-rate system to implement a free-floating exchange rate, the tenge loses 26% of its value against the US dollar. ](/news/2015/08/20/within-hours-of-a-government-announcement-that-kazakhstan-will-abandon-its-currency-band-exchange-rate-system-to-implement-a-free-floating-e.md)
-_Context: Kazakhstan, US dollar, tenge, exchange rate_
+_Context: Kazakhstan, tenge, exchange rate, US dollar_
 
 ##### Bratislava
 ### [A mid-air collision between two aircraft near Bratislava, Slovakia leaves at least seven people killed. ](/news/2015/08/20/a-mid-air-collision-between-two-aircraft-near-bratislava-slovakia-leaves-at-least-seven-people-killed.md)
@@ -49,7 +49,7 @@ Speaker of lower house and ex-president named by prosecutors in investigation in
 
 ##### restaurant
 ### [Former Subway pitchman Jared Fogle reaches a plea deal with U.S. federal prosecutors in Indianapolis. Fogle will plead guilty to possessing and distributing child pornography and traveling across state lines to have sex with at least two teenage girls. Under the deal, he will serve from 5 to 121/2 years in prison, and will also pay $1.4 million in restitution to 14 victims. ](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.md)
-_Context: child pornography, restaurant, U.S. federal prosecutors, Jared Fogle, plea deal, Indianapolis_
+_Context: restaurant, Indianapolis, U.S. federal prosecutors, Jared Fogle, child pornography, plea deal_
 
 ##### Pierre Nkurunziza
 ### [Pierre Nkurunziza is sworn in for a third term as President of Burundi. ](/news/2015/08/20/pierre-nkurunziza-is-sworn-in-for-a-third-term-as-president-of-burundi.md)

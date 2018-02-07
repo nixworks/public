@@ -29,15 +29,15 @@ Nobel&#x20;peace&#x20;laureate&#x20;Archbishop&#x20;Desmond&#x20;Tutu&#x20;annou
 
 ##### Martin Amis
 ### [Writers such as Martin Amis, V. S. Naipaul, Orhan Pamuk, Philip Roth and Salman Rushdie begin selling ebooks via Amazon.com in a dispute over digital royalties. ](/news/2010/07/22/writers-such-as-martin-amis-v-s-naipaul-orhan-pamuk-philip-roth-and-salman-rushdie-begin-selling-ebooks-via-amazon-com-in-a-dispute-ove.md)
-_Context: Philip Roth, Salman Rushdie, Orhan Pamuk, Amazon.com, Martin Amis, V. S. Naipaul_
+_Context: Amazon.com, Martin Amis, Philip Roth, Orhan Pamuk, Salman Rushdie, V. S. Naipaul_
 
 ##### John Ging
 ### [The UN's John Ging says more than 7,000 Palestinian children have successfully attempted a Guinness World Record by simultaneously dribbling basketballs. ](/news/2010/07/22/the-un-s-john-ging-says-more-than-7-000-palestinian-children-have-successfully-attempted-a-guinness-world-record-by-simultaneously-dribbling.md)
-_Context: Guinness World Records, John Ging, basketball_
+_Context: basketball, Guinness World Records, John Ging_
 
 ##### Catalan people
 ### [Catalan tenor Jose Carreras announces he is to perform at La Scala for the first time in 14 years. ](/news/2010/07/22/catalan-tenor-josa-c-carreras-announces-he-is-to-perform-at-la-scala-for-the-first-time-in-14-years.md)
-_Context: La Scala, Catalan people, Jose Carreras_
+_Context: Jose Carreras, Catalan people, La Scala_
 
 ##### Damon Albarn
 ### [Damon Albarn-fronted Gorillaz announce their first world tour and will visit at least four continents. ](/news/2010/07/22/damon-albarn-fronted-gorillaz-announce-their-first-world-tour-and-will-visit-at-least-four-continents.md)
@@ -57,7 +57,7 @@ Vietnam calls on its neighbours in the Asean regional group to adopt nuclear pow
 
 ##### oil spill
 ### [Volunteers use their hands to clean an oil spill in the Yellow Sea after pipelines burst off Dalian in Northeastern China's Liaoning Province, spilling 1,500 tonnes of oil and covering an area close to 1,000 km 2 and about 90 km of coast. ](/news/2010/07/22/volunteers-use-their-hands-to-clean-an-oil-spill-in-the-yellow-sea-after-pipelines-burst-off-dalian-in-northeastern-china-s-liaoning-provinc.md)
-_Context: oil pipeline, Dalian, China, Liaoning Province, Northeastern China, oil spill, Yellow Sea_
+_Context: Northeastern China, oil spill, Yellow Sea, Liaoning Province, Dalian, oil pipeline, China_
 
 ##### International Court of Justice
 ### [The International Court of Justice rules that Kosovo's unilateral declaration of independence was legal, in a move that could set a precedent for unrecognised countries.](/news/2010/07/22/the-international-court-of-justice-rules-that-kosovo-s-unilateral-declaration-of-independence-was-legal-in-a-move-that-could-set-a-preceden.md)
@@ -65,7 +65,7 @@ Serbia rejects World Court ruling saying it will never recognise Kosovo independ
 
 ##### United Nations Secretary-General
 ### [Secretary-General of the United Nations Ban Ki-moon stalls on his earlier proposal for an international investigation into the Gaza flotilla raid. ](/news/2010/07/22/secretary-general-of-the-united-nations-ban-ki-moon-stalls-on-his-earlier-proposal-for-an-international-investigation-into-the-gaza-flotilla.md)
-_Context: Ban Ki-moon, United Nations Secretary-General, Gaza flotilla raid_
+_Context: United Nations Secretary-General, Ban Ki-moon, Gaza flotilla raid_
 
 ##### North Korea
 ### [A spokesperson for North Korea suggests new United States sanctions against it are "in violation" of a United Nations statement which did not apportion blame for the sinking of a South Korean warship. ](/news/2010/07/22/a-spokesperson-for-north-korea-suggests-new-united-states-sanctions-against-it-are-in-violation-of-a-united-nations-statement-which-did-no.md)
@@ -73,7 +73,7 @@ New US sanctions against N.Korea will violate a UN statement issued after the si
 
 ##### Belarus
 ### [Belarus and Georgia form political alliance against Russia. ](/news/2010/07/22/belarus-and-georgia-form-political-alliance-against-russia.md)
-_Context:  Georgian, Russia, Belarus_
+_Context: Russia,  Georgian, Belarus_
 
 ##### Chad
 ### [Chad suggests the International Criminal Court is biased against African leaders. ](/news/2010/07/22/chad-suggests-the-international-criminal-court-is-biased-against-african-leaders.md)
@@ -85,7 +85,7 @@ _Context: Fiji, Voreqe Bainimarama_
 
 ##### United States
 ### [The United States decides to resume training Indonesian soldiers after 12 years. ](/news/2010/07/22/the-united-states-decides-to-resume-training-indonesian-soldiers-after-12-years.md)
-_Context: Indonesia, United States_
+_Context: United States, Indonesia_
 
 ##### Israel
 ### [Israel warns the United Nations that two ships carrying aid to Gaza would not, by "all necessary means", be allowed to reach their destination. ](/news/2010/07/22/israel-warns-the-united-nations-that-two-ships-carrying-aid-to-gaza-would-not-by-all-necessary-means-be-allowed-to-reach-their-destinati.md)
@@ -101,11 +101,11 @@ Three more Cuban dissidents recently released by Havana have arrived in Spain, a
 
 ##### Desmond Tutu
 ### [Nobel Peace Laureates Desmond Tutu and Shirin Ebadi lead hundreds of rights groups in calling on Senegal to try exiled Chadian dictator Hissene Habre for mass murder and torture. ](/news/2010/07/22/nobel-peace-laureates-desmond-tutu-and-shirin-ebadi-lead-hundreds-of-rights-groups-in-calling-on-senegal-to-try-exiled-chadian-dictator-hiss.md)
-_Context: Hissene Habre, Desmond Tutu, Senegal, Shirin Ebadi, Chad_
+_Context: Hissene Habre, Chad, Senegal, Shirin Ebadi, Desmond Tutu_
 
 ##### Iran
 ### [Iran pressurises Sakineh Mohammadi Ashtiani, the woman sentenced to death by lapidation, calling on her to name those campaigning for her release. ](/news/2010/07/22/iran-pressurises-sakineh-mohammadi-ashtiani-the-woman-sentenced-to-death-by-lapidation-calling-on-her-to-name-those-campaigning-for-her-re.md)
-_Context: Iran, Sakineh Mohammadi Ashtiani, lapidation_
+_Context: lapidation, Sakineh Mohammadi Ashtiani, Iran_
 
 ##### Igor Sutyagin
 ### [Nuclear specialist Igor Sutyagin, released as part of a spy swap between Russia and the United States, asks to return home. ](/news/2010/07/22/nuclear-specialist-igor-sutyagin-released-as-part-of-a-spy-swap-between-russia-and-the-united-states-asks-to-return-home.md)
@@ -137,11 +137,11 @@ Egyptian President Hosni Mubarak makes a televised national address, calming ren
 
 ##### Tom Vilsack
 ### [U.S. Agriculture Secretary Tom Vilsack Wednesday apologizes to Shirley Sherrod for firing her over a heavily-edited video tape of a speech, circulated by Tea Party activists, which alleged that Sherrod's actions were the result of racism, and offers her an official job. ](/news/2010/07/22/u-s-agriculture-secretary-tom-vilsack-wednesday-apologizes-to-shirley-sherrod-for-firing-her-over-a-heavily-edited-video-tape-of-a-speech.md)
-_Context: racist, Tea Party, Shirley Sherrod, Tom Vilsack_
+_Context: Shirley Sherrod, Tea Party, Tom Vilsack, racist_
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands: Former Prime Minister Ruud Lubbers is appointed the new informateur for the formation of a new coalition cabinet. ](/news/2010/07/22/cabinet-formation-in-the-netherlands-former-prime-minister-ruud-lubbers-is-appointed-the-new-informateur-for-the-formation-of-a-new-coaliti.md)
-_Context: Prime Minister, Informateur, Ruud Lubbers, Cabinet formation in the Netherlands_
+_Context: Prime Minister, Ruud Lubbers, Cabinet formation in the Netherlands, Informateur_
 
 ##### Roy Oldham
 ### [The funeral of Roy Oldham, the UK's longest serving council leader, takes place. ](/news/2010/07/22/the-funeral-of-roy-oldham-the-uk-s-longest-serving-council-leader-takes-place.md)
@@ -149,7 +149,7 @@ _Context: Roy Oldham_
 
 ##### Creutzfeldt-Jakob disease
 ### [A woman is diagnosed with Creutzfeldt-Jakob disease ("human mad cow disease") in Milan then hospitalised in Livorno, only the second case in Italy's history and the first since Sicily 2002. ](/news/2010/07/22/a-woman-is-diagnosed-with-creutzfeldtajakob-disease-human-mad-cow-disease-in-milan-then-hospitalised-in-livorno-only-the-second-case.md)
-_Context: Italy, Creutzfeldt-Jakob disease, Sicily, Livorno, Milan_
+_Context: Milan, Livorno, Creutzfeldt-Jakob disease, Sicily, Italy_
 
 ##### henge
 ### [A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. ](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-heritage-site-described-to-be-the-biggest-discovery-of-a-major-monument-in-over-50-years-arou.md)

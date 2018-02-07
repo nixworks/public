@@ -5,19 +5,19 @@ Formats: [HTML](2007/01/10/index.html)  [JSON](2007/01/10/index.json)  [XML](200
 
 ##### George W. Bush
 ### [ U.S. President George W. Bush announces, in a televised address, his strategy change in response to Iraq Study Group criticisms. This will involve a surge of 21,500 more troops to fight in the War in Iraq. ](/news/2007/01/10/u-s-president-george-w-bush-announces-in-a-televised-address-his-strategy-change-in-response-to-iraq-study-group-criticisms-this-will.md)
-_Context: his strategy change in response to Iraq Study Group criticisms, George W. Bush, Iraq War_
+_Context: George W. Bush, his strategy change in response to Iraq Study Group criticisms, Iraq War_
 
 ##### Tajik Parliament
 ### [ The Tajik Parliament approves a Memorandum of Understanding between Tajikistan and Iran agreeing to begin a nuclear program with assistance from the Iranian government in building a power plant. Tajikistan is the second nation in Central Asia to pursue a nuclear program, the other being Kazakhstan. ](/news/2007/01/10/the-tajik-parliament-approves-a-memorandum-of-understanding-between-tajikistan-and-iran-agreeing-to-begin-a-nuclear-program-with-assistance.md)
-_Context: Kazakhstan, Tajikistan, Central Asia, Tajik Parliament, Iran_
+_Context: Iran, Central Asia, Kazakhstan, Tajikistan, Tajik Parliament_
 
 ##### Kazakhstan political shakeup of 2007
 ### [ Kazakhstan political shakeup of 2007: Karim Masimov is confirmed by the Parliament of Kazakhstan as Prime Minister. Massimov appoints his former superior and political rival Daniyal Akhmetov to Defense Minister and Economy Minister Aslan Musin to Deputy Prime Minister. ](/news/2007/01/10/kazakhstan-political-shakeup-of-2007-karim-masimov-is-confirmed-by-the-parliament-of-kazakhstan-as-prime-minister-massimov-appoints-his-f.md)
-_Context: Kazakhstan political shakeup of 2007, Prime Minister, parliament, Aslan Musin, Karim Masimov, Daniyal Akhmetov_
+_Context: parliament, Aslan Musin, Prime Minister, Kazakhstan political shakeup of 2007, Karim Masimov, Daniyal Akhmetov_
 
 ##### Sudan
 ### [ Sudan adopts a new currency; the Sudanese pound replaces the Sudanese dinar. The change is part of reconciliation measures after the end of the Second Sudanese Civil War. ](/news/2007/01/10/sudan-adopts-a-new-currency-the-sudanese-pound-replaces-the-sudanese-dinar-the-change-is-part-of-reconciliation-measures-after-the-end-of.md)
-_Context: Sudan, Sudanese pound, Sudanese dinar, civil war_
+_Context: civil war, Sudan, Sudanese dinar, Sudanese pound_
 
 ##### Mirsad Bektasevic
 ### [ Mirsad Bektasevic, a 19-year-old Swedish citizen of Bosnian descent, is convicted of terrorism-related charges by a court in Sarajevo and sentenced to 15 years' imprisonment. ](/news/2007/01/10/mirsad-bektaa-evia-a-19-year-old-swedish-citizen-of-bosnian-descent-is-convicted-of-terrorism-related-charges-by-a-court-in-sarajevo-and.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Squirrel
 ### [ Two Squirrel helicopters collide at RAF Ternhill in Shropshire, UK, killing one and injuring two others. ](/news/2007/01/10/two-squirrel-helicopters-collide-at-raf-ternhill-in-shropshire-uk-killing-one-and-injuring-two-others.md)
-_Context: United Kingdom, RAF Ternhill, Shropshire, Squirrel_
+_Context: Shropshire, United Kingdom, RAF Ternhill, Squirrel_
 
 ##### UFO
 ### [ Iranian news agency reports a UFO has crashed in the Kerman province. ](/news/2007/01/10/iranian-news-agency-reports-a-ufo-has-crashed-in-the-kerman-province.md)
@@ -41,11 +41,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### European Commission
 ### [ The European Commission announces proposals for the EU to cut carbon dioxide emissions by 20% by 2020 and 60% by 2050 in order to mitigate global warming. ](/news/2007/01/10/the-european-commission-announces-proposals-for-the-eu-to-cut-carbon-dioxide-emissions-by-20-by-2020-and-60-by-2050-in-order-to-mitigate.md)
-_Context: mitigate global warming, European Commission, European Union, carbon dioxide emissions_
+_Context: European Commission, mitigate global warming, carbon dioxide emissions, European Union_
 
 ##### 2006 general election
 ### [ Following the 2006 general election, Daniel Ortega becomes the new President of Nicaragua, replacing Enrique Bolanos. ](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.md)
-_Context: Enrique Bolanos, 2006 general election, Nicaraguan President, Daniel Ortega_
+_Context: Daniel Ortega, 2006 general election, Nicaraguan President, Enrique Bolanos_
 
 ##### Social Democrats party
 ### [ The Social Democratic Party of Austria, the future majority partner in the grand coalition government that will be sworn in in Austria on January 11, 2007, announces its future ministers. ](/news/2007/01/10/the-social-democratic-party-of-austria-the-future-majority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-j.md)
@@ -53,11 +53,11 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### ASEAN Summit
 ### [ Start of the 12th ASEAN Summit and 2nd East Asia Summit in Metro Cebu, Philippines. Meetings involve heads of the 10 member states and 6 dialogue partners with major discussions on relevance, diplomacy, security, economy and free trade and other important global issues. ](/news/2007/01/10/start-of-the-12th-asean-summit-and-2nd-east-asia-summit-in-metro-cebu-philippines-meetings-involve-heads-of-the-10-member-states-and-6-di.md)
-_Context: East Asia Summit, ASEAN Summit_
+_Context: ASEAN Summit, East Asia Summit_
 
 ##### general strike
 ### [ A general strike starts in Guinea, with trade unions calling for pay rises, the return to jail of Mamadou Sylla and the resignation of President Lansana Conte. ](/news/2007/01/10/a-general-strike-starts-in-guinea-with-trade-unions-calling-for-pay-rises-the-return-to-jail-of-mamadou-sylla-and-the-resignation-of-pres.md)
-_Context: Mamadou Sylla, Lansana Conte, President of Guinea, Guinea, general strike, labour unions_
+_Context: Guinea, Mamadou Sylla, general strike, labour unions, President of Guinea, Lansana Conte_
 
 ## [Previous Day...](/news/2007/01/9/index.md)
 

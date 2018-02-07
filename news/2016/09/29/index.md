@@ -33,7 +33,7 @@ The National Hurricane Center upgraded Matthew to a hurricane Thursday afternoon
 
 ##### Prime Minister of Iran
 ### [Former Prime Minister of Iran and one of the founders of OPEC Jamshid Amouzegar, who was involved in the 1975 OPEC siege, dies at the age of 93. ](/news/2016/09/29/former-prime-minister-of-iran-and-one-of-the-founders-of-opec-jamshid-amouzegar-who-was-involved-in-the-1975-opec-siege-dies-at-the-age-of.md)
-_Context: 1975 OPEC siege, OPEC, Jamshid Amouzegar, Prime Minister of Iran_
+_Context: OPEC, Prime Minister of Iran, Jamshid Amouzegar, 1975 OPEC siege_
 
 ## [Previous Day...](/news/2016/09/28/index.md)
 

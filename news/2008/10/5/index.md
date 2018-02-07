@@ -5,11 +5,11 @@ Formats: [HTML](2008/10/5/index.html)  [JSON](2008/10/5/index.json)  [XML](2008/
 
 ##### German
 ### [ The German government moves to back troubled Hypo Real Estate with a 50 billion euro rescue plan. ](/news/2008/10/5/the-german-government-moves-to-back-troubled-hypo-real-estate-with-a-50-billion-euro-rescue-plan.md)
-_Context: Hypo Real Estate, German, euro_
+_Context: euro, German, Hypo Real Estate_
 
 ##### Rugby League
 ### [ Rugby League: The Manly-Warringah Sea Eagles win the 2008 NRL Grand Final, defeating the Melbourne Storm 40-0. ](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.md)
-_Context: Manly-Warringah Sea Eagles, 2008 NRL Grand Final, Melbourne Storm, Rugby League_
+_Context: Manly-Warringah Sea Eagles, 2008 NRL Grand Final, Rugby League, Melbourne Storm_
 
 ##### Thailand
 ### [ Thai police arrest former mayor of Bangkok and protest leader Chamlong Srimuang on charges of insurrection. ](/news/2008/10/5/thai-police-arrest-former-mayor-of-bangkok-and-protest-leader-chamlong-srimuang-on-charges-of-insurrection.md)
@@ -25,11 +25,11 @@ _Context: Kashmir_
 
 ##### Apirak Kosayothin
 ### [ Apirak Kosayothin is re-elected as Governor of Bangkok. ](/news/2008/10/5/apirak-kosayothin-is-re-elected-as-governor-of-bangkok.md)
-_Context: Bangkok, re-elected, Apirak Kosayothin_
+_Context: Apirak Kosayothin, re-elected, Bangkok_
 
 ##### Asif Ali Zardari
 ### [ Pakistani president Asif Ali Zardari acknowledges his government's consent to US air strikes in Pakistan and says India has never been a threat. ](/news/2008/10/5/pakistani-president-asif-ali-zardari-acknowledges-his-government-s-consent-to-us-air-strikes-in-pakistan-and-says-india-has-never-been-a-th.md)
-_Context: Asif Ali Zardari, Pakistan, India_
+_Context: India, Asif Ali Zardari, Pakistan_
 
 ##### Afghanistan
 ### [ Senior British Commander says military victory in Afghanistan is impossible. ](/news/2008/10/5/senior-british-commander-says-military-victory-in-afghanistan-is-impossible.md)

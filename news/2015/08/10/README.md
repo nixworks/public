@@ -17,11 +17,11 @@ _Context: VasterCNYs, Sweden, Ikea_
 
 ##### Islamic State in Iraq and the Levant
 ### [ISIL claims responsibility for a bombing in central Iraqi city of Baquba that killed at least 30 people and injured 40 more. ](/news/2015/08/10/isil-claims-responsibility-for-a-bombing-in-central-iraqi-city-of-baquba-that-killed-at-least-30-people-and-injured-40-more.md)
-_Context: Iraq, Islamic State in Iraq and the Levant, Baquba_
+_Context: Islamic State in Iraq and the Levant, Iraq, Baquba_
 
 ##### Alphabet Inc.
 ### [Google creates a new holding company called Alphabet Inc. containing Google Inc. and Calico containing Google Ventures, Google Capital, Google X, and other subsidiaries. ](/news/2015/08/10/google-creates-a-new-holding-company-called-alphabet-inc-containing-google-inc-and-calico-containing-google-ventures-google-capital-goog.md)
-_Context: Calico, Google, Google, Google Ventures, Alphabet Inc., Google Capital_
+_Context: Google Ventures, Alphabet Inc., Google Capital, Google, Calico, Google_
 
 ##### floods in Myanmar
 ### [The death toll from floods in Myanmar tops 100 with more than a million people affected. ](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.md)
@@ -29,7 +29,7 @@ _Context: floods in Myanmar_
 
 ##### Tony Smith
 ### [Voters elect Tony Smith as Speaker of the Australian House of Representatives replacing Bronwyn Bishop who resigned as a result of an expenses scandal. ](/news/2015/08/10/voters-elect-tony-smith-as-speaker-of-the-australian-house-of-representatives-replacing-bronwyn-bishop-who-resigned-as-a-result-of-an-expens.md)
-_Context: Tony Smith, Speaker of the Australian House of Representatives, Bronwyn Bishop_
+_Context: Speaker of the Australian House of Representatives, Bronwyn Bishop, Tony Smith_
 
 ##### night parrot
 ### [A night parrot is captured for the first time in over a hundred years in Australia's outback. ](/news/2015/08/10/a-night-parrot-is-captured-for-the-first-time-in-over-a-hundred-years-in-australia-s-outback.md)
@@ -37,7 +37,7 @@ The area of south-west Queensland where the elusive nocturnal parrot, presumed e
 
 ##### Galaxy And Mass Assembly (GAMA) survey
 ### [A study, part of the Galaxy And Mass Assembly (GAMA) survey, examined huge blocks of space as distant as several billion light years away and concluded that the universe is "slowly dying" as more stars gradually go out faster than they are being replaced by light-emitting active ones. In cosmological terms, the demise of the universe (the current age calculated at approximately 13.8 billion years) is billions, perhaps trillions of years away. ](/news/2015/08/10/a-study-part-of-the-galaxy-and-mass-assembly-gama-survey-examined-huge-blocks-of-space-as-distant-as-several-billion-light-years-away-an.md)
-_Context: cosmological terms, Galaxy And Mass Assembly (GAMA) survey_
+_Context: Galaxy And Mass Assembly (GAMA) survey, cosmological terms_
 
 ## [Previous Day...](/news/2015/08/9/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/4/index.html)  [JSON](2006/11/4/index.json)  [XML](2006/
 
 ##### Mizpah Hotel
 ### [ The death toll in a fire at the historic Mizpah Hotel in Reno, Nevada rises to nine with not all of the ruins having been searched yet. ](/news/2006/11/4/the-death-toll-in-a-fire-at-the-historic-mizpah-hotel-in-reno-nevada-rises-to-nine-with-not-all-of-the-ruins-having-been-searched-yet.md)
-_Context: Mizpah Hotel, Reno, Nevada_
+_Context: Reno, Nevada, Mizpah Hotel_
 
 ##### Ted Haggard
 ### [ Ted Haggard resigns after the New Life Church's investigative board finds him guilty of "sexually immoral conduct". ](/news/2006/11/4/ted-haggard-resigns-after-the-new-life-church-s-investigative-board-finds-him-guilty-of-sexually-immoral-conduct.md)
@@ -21,27 +21,27 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Operation Autumn Clouds
 ### [ Operation Autumn Clouds: Israeli forces have mounted a series of air strikes as part of an ongoing Gaza offensive, killing at least eight.](/news/2006/11/4/operation-autumn-clouds-israeli-forces-have-mounted-a-series-of-air-strikes-as-part-of-an-ongoing-gaza-offensive-killing-at-least-eight.md)
-_Context: air strikes, Operation Autumn Clouds, Gaza Strip, Israel_
+_Context: air strikes, Israel, Operation Autumn Clouds, Gaza Strip_
 
 ##### Israel
 ### [ Two women have been killed as Israeli troops opened fire on a crowd of women gathered to help besieged gunmen flee a mosque in Beit Hanoun in northern Gaza. ](/news/2006/11/4/two-women-have-been-killed-as-israeli-troops-opened-fire-on-a-crowd-of-women-gathered-to-help-besieged-gunmen-flee-a-mosque-in-beit-hanoun.md)
-_Context: Beit Hanoun, Israel, Gaza Strip, mosque_
+_Context: Gaza Strip, mosque, Beit Hanoun, Israel_
 
 ##### Israeli Prime Minister
 ### [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md)
-_Context: intensive care unit, Tel Aviv, Ariel Sharon, Sheba Medical Center, Israeli Prime Minister_
+_Context: Tel Aviv, Ariel Sharon, intensive care unit, Sheba Medical Center, Israeli Prime Minister_
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of the People's Republic of China, promises to double foreign aid to Africa at a conference attended by many of the top African leaders. ](/news/2006/11/4/hu-jintao-the-president-of-the-people-s-republic-of-china-promises-to-double-foreign-aid-to-africa-at-a-conference-attended-by-many-of-th.md)
-_Context: Hu Jintao, foreign aid, Africa, Chinese President_
+_Context: Chinese President, Hu Jintao, Africa, foreign aid_
 
 ##### United Nations High Commissioner for Refugees
 ### [ The United Nations High Commissioner for Refugees says that the humanitarian crisis in Iraq is greater than at the beginning of the war on Iraq with 1.6 million Iraqis displaced internally and 1.8 million in overseas countries. ](/news/2006/11/4/the-united-nations-high-commissioner-for-refugees-says-that-the-humanitarian-crisis-in-iraq-is-greater-than-at-the-beginning-of-the-war-on.md)
-_Context: United Nations High Commissioner for Refugees, war on Iraq, Iraq_
+_Context: United Nations High Commissioner for Refugees, Iraq, war on Iraq_
 
 ##### Fiji
 ### [ Fijian Prime Minister Laisenia Qarase drops amnesty provisions for the leaders of the 2000 coup after threats from the military to remove him from office. ](/news/2006/11/4/fijian-prime-minister-laisenia-qarase-drops-amnesty-provisions-for-the-leaders-of-the-2000-coup-after-threats-from-the-military-to-remove-h.md)
-_Context: military government, Prime Minister, Fiji, 2000 coup, Laisenia Qarase_
+_Context: Laisenia Qarase, 2000 coup, Fiji, Prime Minister, military government_
 
 ## [Previous Day...](/news/2006/11/3/index.md)
 

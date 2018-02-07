@@ -17,7 +17,7 @@ Macedonia said on Tuesday 40 armed men in camouflage uniforms and speaking Alban
 
 ##### Pope Francis
 ### [Pope Francis accepts the resignation of Robert Finn as bishop of the Roman Catholic Diocese of Kansas City-Saint Joseph for failing to report a suspected child abuser. ](/news/2015/04/21/pope-francis-accepts-the-resignation-of-robert-finn-as-bishop-of-the-roman-catholic-diocese-of-kansas-cityasaint-joseph-for-failing-to-rep.md)
-_Context: Pope Francis, bishop, Roman Catholic Diocese of Kansas City-Saint Joseph, Robert Finn_
+_Context: Robert Finn, bishop, Pope Francis, Roman Catholic Diocese of Kansas City-Saint Joseph_
 
 ##### Teva Pharmaceutical
 ### [Israeli generics giant Teva Pharmaceutical offers $4 billion to acquire US rival Mylan. ](/news/2015/04/21/israeli-generics-giant-teva-pharmaceutical-offers-4-billion-to-acquire-us-rival-mylan.md)
@@ -29,7 +29,7 @@ Three people are killed in wild weather in NSW&#039;s Central Hunter region, whe
 
 ##### AC/DC
 ### [Former AC-DC drummer Phil Rudd pleads guilty to threatening to kill and drug possession charges in Tauranga, New Zealand. ](/news/2015/04/21/former-ac-dc-drummer-phil-rudd-pleads-guilty-to-threatening-to-kill-and-drug-possession-charges-in-tauranga-new-zealand.md)
-_Context: New Zealand, Phil Rudd, Tauranga, AC/DC_
+_Context: Tauranga, AC/DC, New Zealand, Phil Rudd_
 
 ##### April 2015 Mediterranean Sea migrant shipwrecks
 ### [Italian police arrest the captain and crew member of a vessel that sank in the Mediterranean Sea on Sunday drowning as many as 900 people. ](/news/2015/04/21/italian-police-arrest-the-captain-and-crew-member-of-a-vessel-that-sank-in-the-mediterranean-sea-on-sunday-drowning-as-many-as-900-people.md)
@@ -53,7 +53,7 @@ _Context: Department of Justice, Baltimore, Death of Freddie Gray_
 
 ##### Michele Leonhart
 ### [Michele Leonhart announces her retirement as the Administrator of the United States Drug Enforcement Administration with concerns raised about her leadership following a prostitution scandal involving Agency officers having sex with prostitutes provided by drug cartels. ](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.md)
-_Context: Drug Enforcement Administration, Michele Leonhart, drug cartel_
+_Context: Drug Enforcement Administration, drug cartel, Michele Leonhart_
 
 ## [Previous Day...](/news/2015/04/20/index.md)
 

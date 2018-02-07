@@ -21,7 +21,7 @@ _Context: Yemen, Shia insurgency in Yemen_
 
 ##### Janelle Patton
 ### [ A trial for the murder of Janelle Patton on Norfolk Island starts with the defendant pleading not guilty. The murder was the first on the island for 150 years. ](/news/2007/02/1/a-trial-for-the-murder-of-janelle-patton-on-norfolk-island-starts-with-the-defendant-pleading-not-guilty-the-murder-was-the-first-on-the-i.md)
-_Context: Janelle Patton, Norfolk Island_
+_Context: Norfolk Island, Janelle Patton_
 
 ## [Previous Day...](/news/2007/01/31/index.md)
 

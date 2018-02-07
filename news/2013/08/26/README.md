@@ -21,7 +21,7 @@ Three Palestinians killed in clash with Israelis, threatening peace talks
 
 ##### Supreme Court of Iraq
 ### [The Supreme Court of Iraq overturns term limits for senior governmental positions, allowing Iraqi Prime Minister Nouri al-Maliki to seek a third term in 2014.](/news/2013/08/26/the-supreme-court-of-iraq-overturns-term-limits-for-senior-governmental-positions-allowing-iraqi-prime-minister-nouri-al-maliki-to-seek-a-t.md)
-_Context: Iraq, Supreme Court of Iraq, Nouri al-Maliki_
+_Context: Supreme Court of Iraq, Iraq, Nouri al-Maliki_
 
 ##### University of Liberia
 ### [All 25,000 applicants to the University of Liberia fail their entrance exams. ](/news/2013/08/26/all-25-000-applicants-to-the-university-of-liberia-fail-their-entrance-exams.md)

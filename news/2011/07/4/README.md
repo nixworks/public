@@ -13,7 +13,7 @@ Unknown attackers blow up Sinai pipeline that supplies gas to Jordan and Israel.
 
 ##### corporal
 ### [A corporal in the Republic of Korea Marine Corps goes on a killing spree while on duty at a guard post on South Korea's Ganghwa Island, killing 3 people and injuring 2 others. ](/news/2011/07/4/a-corporal-in-the-republic-of-korea-marine-corps-goes-on-a-killing-spree-while-on-duty-at-a-guard-post-on-south-korea-s-ganghwa-island-kill.md)
-_Context: Ganghwa Island, corporal, Republic of Korea Marine Corps, South Korea_
+_Context: Ganghwa Island, Republic of Korea Marine Corps, corporal, South Korea_
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The Greek Coast Guard pursues with water cannons then boards the ship carrying activists from Belgium, Canada, Italy, Switzerland and Turkey after an unsuccessful attempt to leave Crete harbour. ](/news/2011/07/4/freedom-flotilla-ii-the-greek-coast-guard-pursues-with-water-cannons-then-boards-the-ship-carrying-activists-from-belgium-canada-italy-s.md)
@@ -21,7 +21,7 @@ Canadian vessel forced to return to Greece after breaking out of Crete harbour i
 
 ##### soldiers
 ### [Australian Army soldier, Sergeant Todd Langley, is killed in fighting in Afghanistan, bringing Australian casualties in the war to 28. ](/news/2011/07/4/australian-army-soldier-sergeant-todd-langley-is-killed-in-fighting-in-afghanistan-bringing-australian-casualties-in-the-war-to-28.md)
-_Context: Afghanistan, War in Afghanistan (2001-present), soldiers_
+_Context: Afghanistan, soldiers, War in Afghanistan (2001-present)_
 
 ##### Pakistan
 ### [Religious conservatives in Pakistan condemn as "cultural terrorism" the recent support shown for LGBT rights in Islamabad. ](/news/2011/07/4/religious-conservatives-in-pakistan-condemn-as-cultural-terrorism-the-recent-support-shown-for-lgbt-rights-in-islamabad.md)
@@ -29,7 +29,7 @@ A group of religious conservatives in Pakistan condemns as &quot;cultural terror
 
 ##### J. K. Rowling
 ### [J. K. Rowling leaves her agent Christopher Little after 15 years. ](/news/2011/07/4/j-k-rowling-leaves-her-agent-christopher-little-after-15-years.md)
-_Context: Christopher Little, J. K. Rowling_
+_Context: J. K. Rowling, Christopher Little_
 
 ##### Sony Corp.
 ### [Sony Corp. says that it will fully restore all the PlayStation Network videogame services in Japan, which will complete worldwide restoration of those services, disrupted in April. ](/news/2011/07/4/sony-corp-says-that-it-will-fully-restore-all-the-playstation-network-videogame-services-in-japan-which-will-complete-worldwide-restoratio.md)
@@ -69,7 +69,7 @@ Dominique Strauss-Kahn faced a new sexual assault investigation on Tuesday when 
 
 ##### Abhisit Vejjajiva
 ### [Abhisit Vejjajiva, the outgoing Prime Minister of Thailand, resigns as the leader of the Democrat Party following a heavy defeat in yesterday's general election. ](/news/2011/07/4/abhisit-vejjajiva-the-outgoing-prime-minister-of-thailand-resigns-as-the-leader-of-the-democrat-party-following-a-heavy-defeat-in-yesterda.md)
-_Context: Democrat Party, general election, Prime Minister, Abhisit Vejjajiva_
+_Context: Prime Minister, Democrat Party, Abhisit Vejjajiva, general election_
 
 ##### Indian state
 ### [At least 88 lawmakers in the Indian state of Andhra Pradesh resign "en masse" in support of the creation of a new state called Telangana. ](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.md)
@@ -77,7 +77,7 @@ The Telangana spectre returned to haunt the Centre with 78 MLAs from across the 
 
 ##### Karim Wade
 ### [Karim Wade, son of Senegalese president Abdoulaye Wade, issues a strong denial of speculation that his father plans to pass on power to him as if he were a monarch. ](/news/2011/07/4/karim-wade-son-of-senegalese-president-abdoulaye-wade-issues-a-strong-denial-of-speculation-that-his-father-plans-to-pass-on-power-to-him.md)
-_Context: monarch, Abdoulaye Wade, Karim Wade_
+_Context: Karim Wade, monarch, Abdoulaye Wade_
 
 ##### U.S. President
 ### [President of the United States Barack Obama is falsely declared dead by the Twitter account of the U.S. broadcaster Fox News in a series of messages stating, "@BarackObama has just passed. The President is dead" and "BREAKING NEWS: @BarackObama assassinated, 2 gunshot wounds have proved too much". Hackers are blamed though the messages remain online several hours later. ](/news/2011/07/4/president-of-the-united-states-barack-obama-is-falsely-declared-dead-by-the-twitter-account-of-the-u-s-broadcaster-fox-news-in-a-series-of.md)

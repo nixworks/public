@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/3/index.html)  [JSON](2017/02/3/index.json)  [XML](2017/
 
 ##### War in Afghanistan (2015-present)
 ### [According to Afghan Police, eight of their forces have been killed by the Taliban at a checkpoint in Faryab Province. ](/news/2017/02/3/according-to-afghan-police-eight-of-their-forces-have-been-killed-by-the-taliban-at-a-checkpoint-in-faryab-province.md)
-_Context: Taliban, Faryab Province, police, War in Afghanistan (2015-present)_
+_Context: Taliban, police, War in Afghanistan (2015-present), Faryab Province_
 
 ##### Syrian Civil War
 ### [At least 47 ISIL militants have been killed by Turkish and U.S.-led bombing raids by fighter jets on the town of al-Bab in the last 24 hours, with the Turkish Armed Forces attacking 135 other ISIL targets in northern Syria. ](/news/2017/02/3/at-least-47-isil-militants-have-been-killed-by-turkish-and-u-s-led-bombing-raids-by-fighter-jets-on-the-town-of-al-bab-in-the-last-24-hours.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/30/index.html)  [JSON](2015/04/30/index.json)  [XML](201
 
 ##### 2015 West African offensive
 ### [2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. ](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.md)
-_Context: Sambisa Forest, 2015 West African offensive, Boko Haram, Nigerian Army_
+_Context: 2015 West African offensive, Nigerian Army, Boko Haram, Sambisa Forest_
 
 ##### Yemeni Civil War (2015)
 ### [Yemeni Civil War (2015): Dozens of Houthi fighters are killed in clashes with Saudi Arabian forces on the border while air strikes hit the southern city of Aden. ](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.md)

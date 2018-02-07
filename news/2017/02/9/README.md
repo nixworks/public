@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/9/index.html)  [JSON](2017/02/9/index.json)  [XML](2017/
 
 ##### Syrian Civil War
 ### [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md)
-_Context: Syrian Civil War, al-Bab, Syria, Battle of al-Bab, Russia, Turkish troops_
+_Context: Syrian Civil War, Turkish troops, al-Bab, Battle of al-Bab, Syria, Russia_
 
 ##### War in Afghanistan (2015-present)
 ### [The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-operations-in-afghanistan-after-gunmen-kil.md)
@@ -37,7 +37,7 @@ The president had earlier called the policy on Taiwan into question, a red line 
 
 ##### U.S. immigration suspension
 ### [The appeal of the Trump administration is denied as the 9th US Circuit Court of Appeals said it would not block a lower-court ruling that brought the president's executive order to a halt. ](/news/2017/02/9/the-appeal-of-the-trump-administration-is-denied-as-the-9th-us-circuit-court-of-appeals-said-it-would-not-block-a-lower-court-ruling-that-br.md)
-_Context: U.S. immigration suspension, United States Court of Appeals for the Ninth Circuit_
+_Context: United States Court of Appeals for the Ninth Circuit, U.S. immigration suspension_
 
 ##### Kenya
 ### [A high court in Kenya blocks a government bid to close the Dadaab refugee camp and repatriate over 260,000 Somali refugees back to Somalia. The government said it will appeal against the ruling. ](/news/2017/02/9/a-high-court-in-kenya-blocks-a-government-bid-to-close-the-dadaab-refugee-camp-and-repatriate-over-260-000-somali-refugees-back-to-somalia.md)

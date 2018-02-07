@@ -5,11 +5,11 @@ Formats: [HTML](2008/11/27/index.html)  [JSON](2008/11/27/index.json)  [XML](200
 
 ##### Airbus A320
 ### [ An Airbus A320 owned by Air New Zealand with 7 people aboard crashes into the sea off the southern French coast during a training flight, exactly 29 years to the day (NZDT) after Air New Zealand Flight 901 crashed in Antarctica. ](/news/2008/11/27/an-airbus-a320-owned-by-air-new-zealand-with-7-people-aboard-crashes-into-the-sea-off-the-southern-french-coast-during-a-training-flight-e.md)
-_Context: Air New Zealand Flight 901, NZDT, Air New Zealand, Airbus A320_
+_Context: NZDT, Airbus A320, Air New Zealand Flight 901, Air New Zealand_
 
 ##### ABW
 ### [ A Polish ABW secret service report says the shooting incident in Georgia involving Polish President Lech Kaczynski and Georgian President Mikheil Saakashvili was most likely "a provocation" staged by the Georgians ](/news/2008/11/27/a-polish-abw-secret-service-report-says-the-shooting-incident-in-georgia-involving-polish-president-lech-kaczyaski-and-georgian-president.md)
-_Context: ABW, Mikhail Saakashvili,  Georgian, Lech Kaczynski, Poland_
+_Context: Poland, Mikhail Saakashvili, ABW, Lech Kaczynski,  Georgian_
 
 ##### 2008 Santa Catarina floods
 ### [ 2008 Santa Catarina floods: The Brazilian federal government authorizes nearly 2 billion reais (881 million U.S. dollars) in emergency relief funds. ](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.md)
@@ -21,7 +21,7 @@ Russian President Dmitry Medvedev and his Brazilian counterpart Luiz Inacio Lula
 
 ##### suicide
 ### [ A suicide car bomb explodes near the United States embassy in Kabul, Afghanistan, with at least one person dead. ](/news/2008/11/27/a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-afghanistan-with-at-least-one-person-dead.md)
-_Context: Afghanistan, car bomb, United States, embassies, suicide, Kabul_
+_Context: suicide, Afghanistan, embassies, United States, Kabul, car bomb_
 
 ##### Oruzgan Province
 ### [ An Australian soldier is killed and several injured in fighting in Oruzgan Province, Afghanistan. ](/news/2008/11/27/an-australian-soldier-is-killed-and-several-injured-in-fighting-in-oruzgan-province-afghanistan.md)

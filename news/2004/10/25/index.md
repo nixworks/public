@@ -9,15 +9,15 @@ A Vatican handbook made public Monday questioned preventive war and denounced th
 
 ##### Premier of Alberta
 ### [ At the behest of Premier Ralph Klein, the provincial legislative assembly of Alberta, Canada, is dissolved and elections called for November 22. ](/news/2004/10/25/at-the-behest-of-premier-ralph-klein-the-provincial-legislative-assembly-of-alberta-canada-is-dissolved-and-elections-called-for-novembe.md)
-_Context: Legislative Assembly, Ralph Klein, Premier of Alberta, Alberta, re-elected_
+_Context: Alberta, Legislative Assembly, Ralph Klein, re-elected, Premier of Alberta_
 
 ##### Tensions
 ### [ Tensions remain high in French Polynesia as the Leadership remains in doubt. The Legislative Assembly failed to sit on Monday 25 October. Gaston Flosse, elected President on 22 October, attempted to enter the Presidential palace on the weekend but was met by closed gates. ](/news/2004/10/25/tensions-remain-high-in-french-polynesia-as-the-leadership-remains-in-doubt-the-legislative-assembly-failed-to-sit-on-monday-25-october-g.md)
-_Context: Gaston Flosse, French Polynesia, Tensions_
+_Context: Tensions, Gaston Flosse, French Polynesia_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A roadside bomb kills a U.S. soldier and wounds five others in western Baghdad. Hospital officials say five civilians are killed from U.S. snipers in the western city of Ramadi. In Kirkuk, a roadside bomb kills an Iraqi civilian. An Estonian soldier is killed and five wounded in a bomb blast in Baghdad. A mortar lands on an Iraqi National Guard checkpoint north of Baghdad, killing an Iraqi civilian. In Mosul, a car bomb kills a tribal leader and two civilians. ](/news/2004/10/25/conflict-in-iraq-a-roadside-bomb-kills-a-u-s-soldier-and-wounds-five-others-in-western-baghdad-hospital-officials-say-five-civilians-are.md)
-_Context: Iraqi National Guard, Conflict in Iraq, Baghdad, Mortar, Iraq, sniper, Kirkuk, Mosul, Estonia, Ramadi_
+_Context: Ramadi, Estonia, Iraqi National Guard, Mortar, Mosul, Iraq, Conflict in Iraq, Baghdad, Kirkuk, sniper_
 
 ##### Yasser Arafat
 ### [ Yasser Arafat undergoes minor exploratory surgery for stomach pains and vomiting. ](/news/2004/10/25/yasser-arafat-undergoes-minor-exploratory-surgery-for-stomach-pains-and-vomiting.md)

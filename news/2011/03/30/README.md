@@ -17,11 +17,11 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 
 ##### Man Booker International Prize
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: Su Tong, Philip Pullman, Anne Tyler, Dacia Maraini, David Malouf, Man Booker International Prize, James Kelman, Wang Anyi, Rohinton Mistry, Amin Maalouf, Marilynne Robinson, John le Carre, Philip Roth, Juan Goytisolo_
+_Context: Dacia Maraini, Man Booker International Prize, Juan Goytisolo, Amin Maalouf, David Malouf, Su Tong, James Kelman, Rohinton Mistry, Philip Roth, Anne Tyler, Wang Anyi, John le Carre, Marilynne Robinson, Philip Pullman_
 
 ##### orca
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
-_Context: orca, Seaworld Orlando, Tilikum_
+_Context: orca, Tilikum, Seaworld Orlando_
 
 ##### Governor of California
 ### [The former Governor of California Arnold Schwarzenegger returns to acting in an animated television series. ](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.md)
@@ -37,7 +37,7 @@ The Australian dollar has risen to a 29-year high against the US dollar as deman
 
 ##### Google
 ### [Google announces plans to make the U.S. city of Kansas City, Kansas the first site in its ultra-high speed broadband network. ](/news/2011/03/30/google-announces-plans-to-make-the-u-s-city-of-kansas-city-kansas-the-first-site-in-its-ultra-high-speed-broadband-network.md)
-_Context: broadband, Google, Kansas City, Kansas_
+_Context: Kansas City, Kansas, broadband, Google_
 
 ##### Obama Administration
 ### [Obama Administration endorses Pickens plan for natural gas vehicles. ](/news/2011/03/30/obama-administration-endorses-pickens-plan-for-natural-gas-vehicles.md)
@@ -53,7 +53,7 @@ _Context: Flood, southern Thailand_
 
 ##### U.S. state
 ### [The U.S. state of Washington issues flood warnings. ](/news/2011/03/30/the-u-s-state-of-washington-issues-flood-warnings.md)
-_Context: Washington, U.S. state_
+_Context: U.S. state, Washington_
 
 ##### China
 ### [19 people are trapped after a tunnel under construction collapses in southwest China. ](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.md)
@@ -69,11 +69,11 @@ _Context: Iran, Kuwait_
 
 ##### South Korea
 ### [The South Korean military holds a live-fire drill on Yeonpyeong Island which was shelled by North Korea last year. ](/news/2011/03/30/the-south-korean-military-holds-a-live-fire-drill-on-yeonpyeong-island-which-was-shelled-by-north-korea-last-year.md)
-_Context: Yeonpyeong Island, South Korea, North Korea_
+_Context: Yeonpyeong Island, North Korea, South Korea_
 
 ##### Yonhap
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: Yonhap, South Korea, refugee, North Korea, China_
+_Context: refugee, South Korea, China, Yonhap, North Korea_
 
 ##### Filipino
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
@@ -81,7 +81,7 @@ Vice President Jejomar Binay confirms that the three convicted Filipino drug mul
 
 ##### Umar Patek
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: Umar Patek, Pakistan, 2002 Bali bombings_
+_Context: Pakistan, 2002 Bali bombings, Umar Patek_
 
 ##### diamond
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
@@ -89,15 +89,15 @@ Four diamonds worth millions of pounds have been stolen from the world&#039;s bi
 
 ##### State Peace and Development Council
 ### [The State Peace and Development Council military government is officially dissolved in Burma. ](/news/2011/03/30/the-state-peace-and-development-council-military-government-is-officially-dissolved-in-burma.md)
-_Context: Burma, State Peace and Development Council_
+_Context: State Peace and Development Council, Burma_
 
 ##### Egypt
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: Egyptian presidential election in September, November, Egypt_
+_Context: Egypt, Egyptian presidential election in September, November_
 
 ##### virophage
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
-_Context: East Antarctica, Organic Lake, virus, virophage_
+_Context: virus, East Antarctica, virophage, Organic Lake_
 
 ## [Previous Day...](/news/2011/03/29/index.md)
 

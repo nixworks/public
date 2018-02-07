@@ -9,11 +9,11 @@ _Context: Ukraine, Kiev_
 
 ##### Hezbollah
 ### [A bomb detonates at a Hezbollah building in Beirut, Lebanon killing 4 people and wounding 35. ](/news/2014/01/21/a-bomb-detonates-at-a-hezbollah-building-in-beirut-lebanon-killing-4-people-and-wounding-35.md)
-_Context: Lebanon, Beirut, Hezbollah_
+_Context: Lebanon, Hezbollah, Beirut_
 
 ##### Pakistan
 ### [Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md)
-_Context: Taliban, Pakistan, North Waziristan_
+_Context: North Waziristan, Taliban, Pakistan_
 
 ##### digital currency
 ### [First time in the history of digital currency, two Las Vegas casinos begin to accept Bitcoin. ](/news/2014/01/21/first-time-in-the-history-of-digital-currency-two-las-vegas-casinos-begin-to-accept-bitcoin.md)

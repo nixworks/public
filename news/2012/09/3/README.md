@@ -5,11 +5,11 @@ Formats: [HTML](2012/09/3/index.html)  [JSON](2012/09/3/index.json)  [XML](2012/
 
 ##### International Committee of the Red Cross
 ### [The head of the international Red Cross, Peter Maurer, arrives in Damascus for a three-day review with the Syrian government of the humanitarian situation. ](/news/2012/09/3/the-head-of-the-international-red-cross-peter-maurer-arrives-in-damascus-for-a-three-day-review-with-the-syrian-government-of-the-humanita.md)
-_Context: International Committee of the Red Cross, humanitarian situation, Damascus, Government of Syria, Syria_
+_Context: Syria, humanitarian situation, Damascus, Government of Syria, International Committee of the Red Cross_
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: Bamiyan, Afghanistan, New Zealand Defence Force, New Zealand_
+_Context: New Zealand Defence Force, Afghanistan, New Zealand, Bamiyan_
 
 ##### car bomb
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
@@ -41,7 +41,7 @@ Before heading to lunch or going out for drinks, find an ashtray and stub out th
 
 ##### South Korea
 ### [South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. ](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.md)
-_Context: South Korea, first fleet, Japan, dispute, Liancourt Rocks_
+_Context: dispute, Liancourt Rocks, Japan, South Korea, first fleet_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md)
@@ -65,7 +65,7 @@ Sep. 3 - Thousands of young virgins perform annual reed dance in Swaziland. Jess
 
 ##### beam
 ### [Cracks in 3 of the 21 wooden beams of a European Parliament hemicycle roof lead to the temporary closure, among others, of the plenary debate room; parliamentary operations are reportedly unaffected. ](/news/2012/09/3/cracks-in-3-of-the-21-wooden-beams-of-a-european-parliament-hemicycle-roof-lead-to-the-temporary-closure-among-others-of-the-plenary-debat.md)
-_Context: hemicycle roof, beam_
+_Context: beam, hemicycle roof_
 
 ## [Previous Day...](/news/2012/09/2/index.md)
 

@@ -53,7 +53,7 @@ _Context: Romanian local elections, 2016, Romania_
 
 ##### Swiss referendums, 2016
 ### [Voters in Switzerland go to the polls to vote in a number of referenda including a proposal for a basic income of 2,500 francs a month. ](/news/2016/06/5/voters-in-switzerland-go-to-the-polls-to-vote-in-a-number-of-referenda-including-a-proposal-for-a-basic-income-of-2-500-francs-a-month.md)
-_Context: referenda, Switzerland, francs, Swiss referendums, 2016, basic income_
+_Context: francs, basic income, referenda, Swiss referendums, 2016, Switzerland_
 
 ##### Puerto Rico Democratic primary, 2016
 ### [Amid frustrations with the ongoing economic crisis, Puerto Rican Democrats vote in the Commonwealth's primary with front-runner Hillary Clinton forecast to win following yesterday's sweep in the Virgin Islands' caucus, moving even closer to locking up her party's presidential nomination. There are 60 pledged delegates at stake. ](/news/2016/06/5/amid-frustrations-with-the-ongoing-economic-crisis-puerto-rican-democrats-vote-in-the-commonwealth-s-primary-with-front-runner-hillary-clin.md)

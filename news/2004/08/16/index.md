@@ -9,15 +9,15 @@ _Context: flash flooding, Cornish, Boscastle_
 
 ##### NASA
 ### [ NASA-ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S-2004 S 1" (later named "Methone") and "S-2004 S 2" (later named "Pallene"). ](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.md)
-_Context: NASA, moon, Pallene, ESA, Methone, Cassini, Spacecraft, Saturn_
+_Context: Spacecraft, Pallene, ESA, Methone, Cassini, NASA, moon, Saturn_
 
 ##### Mahdi Army
 ### [ In the standoff between the Jaish-i-Mahdi militia and Iraqi and US forces, fears of a major assault on Najaf mount. The city is closed to journalists and some Iraqi government soldiers are reported to desert. Some delegates at the national conference call on Iraqi interim Prime Minister Allawi to end military operations against Muqtada al-Sadr. ](/news/2004/08/16/in-the-standoff-between-the-jaish-i-mahdi-militia-and-iraqi-and-us-forces-fears-of-a-major-assault-on-najaf-mount-the-city-is-closed-to-j.md)
-_Context: U.S. presence in Iraq, journalist, Najaf, Iraq, national conference, Iyad Allawi, Iraq interim government, Mahdi Army, Muqtada al-Sadr_
+_Context: journalist, Iyad Allawi, Iraq interim government, Muqtada al-Sadr, national conference, Najaf, Iraq, U.S. presence in Iraq, Mahdi Army_
 
 ##### Herero
 ### [ At the 100th anniversary ceremony of the Herero uprising, Germany apologises for the genocide in Namibia, but rules out reparations. ](/news/2004/08/16/at-the-100th-anniversary-ceremony-of-the-herero-uprising-germany-apologises-for-the-genocide-in-namibia-but-rules-out-reparations.md)
-_Context: Namibia, Herero, reparations, genocide_
+_Context: genocide, reparations, Namibia, Herero_
 
 ##### Same-sex marriage in Canada
 ### [ Same-sex marriage in Canada: Federal justice minister Irwin Cotler announces that the federal government will no longer resist court proceedings aiming to require provincial governments to issue same-sex marriage licences. ](/news/2004/08/16/same-sex-marriage-in-canada-federal-justice-minister-irwin-cotler-announces-that-the-federal-government-will-no-longer-resist-court-procee.md)

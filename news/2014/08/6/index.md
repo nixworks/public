@@ -5,11 +5,11 @@ Formats: [HTML](2014/08/6/index.html)  [JSON](2014/08/6/index.json)  [XML](2014/
 
 ##### Syrian Civil War
 ### [Saudi Arabia grants Lebanon US$1 billion to help the country in its conflict with self-declared jihadist fighters on the border with Syria. ](/news/2014/08/6/saudi-arabia-grants-lebanon-us-1-billion-to-help-the-country-in-its-conflict-with-self-declared-jihadist-fighters-on-the-border-with-syria.md)
-_Context: Lebanon, Saudi Arabia, Syria, Syrian Civil War_
+_Context: Syrian Civil War, Saudi Arabia, Syria, Lebanon_
 
 ##### Iraqi insurgency (2011-present)
 ### [Fighters from the Islamic State of Iraq and Syria clash with Iraq's Kurdish minority in the north of the country. ](/news/2014/08/6/fighters-from-the-islamic-state-of-iraq-and-syria-clash-with-iraq-s-kurdish-minority-in-the-north-of-the-country.md)
-_Context: Iraq, Islamic State of Iraq and Syria, Iraqi insurgency (2011-present), Kurdish_
+_Context: Islamic State of Iraq and Syria, Iraqi insurgency (2011-present), Kurdish, Iraq_
 
 ##### Russia
 ### [Russia bans all United States agricultural products, European Union fruit and vegetable imports in response to Western sanctions imposed on Russia over the Ukrainian crisis. ](/news/2014/08/6/russia-bans-all-united-states-agricultural-products-european-union-fruit-and-vegetable-imports-in-response-to-western-sanctions-imposed-on.md)
@@ -21,7 +21,7 @@ The two rivals will continue to pursue existing patent lawsuits in the U.S.
 
 ##### 2014 Ludian earthquake
 ### [The death toll from the earthquake in China's Yunnan province rises to 589 with nine people still missing. ](/news/2014/08/6/the-death-toll-from-the-earthquake-in-china-s-yunnan-province-rises-to-589-with-nine-people-still-missing.md)
-_Context: China, Yunnan, 2014 Ludian earthquake_
+_Context: 2014 Ludian earthquake, Yunnan, China_
 
 ##### 2014 Pacific hurricane season
 ### [The US island state of Hawaii prepares for the potential impact of Hurricane Iselle on Thursday and Tropical Storm Julio on Sunday. ](/news/2014/08/6/the-us-island-state-of-hawaii-prepares-for-the-potential-impact-of-hurricane-iselle-on-thursday-and-tropical-storm-julio-on-sunday.md)
@@ -29,11 +29,11 @@ _Context: 2014 Pacific hurricane season, Hawaii_
 
 ##### 2014 West Africa Ebola outbreak
 ### [The World Health Organisation reports that 932 have died from the latest outbreak of the Ebola virus with a man reportedly dying of the disease in Jeddah, Saudi Arabia after a business trip to Sierra Leone. ](/news/2014/08/6/the-world-health-organisation-reports-that-932-have-died-from-the-latest-outbreak-of-the-ebola-virus-with-a-man-reportedly-dying-of-the-dise.md)
-_Context: Ebola virus, Jeddah, World Health Organisation, Sierra Leone, 2014 West Africa Ebola outbreak, Saudi Arabia_
+_Context: 2014 West Africa Ebola outbreak, Sierra Leone, Saudi Arabia, Jeddah, Ebola virus, World Health Organisation_
 
 ##### Karamay
 ### [Officials in Karamay in Xinjiang, western China, places a temporary ban on Islamic headscarves, clothing and those with beards from using public transport, following violence in the region. ](/news/2014/08/6/officials-in-karamay-in-xinjiang-western-china-places-a-temporary-ban-on-islamic-headscarves-clothing-and-those-with-beards-from-using-pu.md)
-_Context: Karamay, Xinjiang, Islam, China_
+_Context: Karamay, Islam, Xinjiang, China_
 
 ##### 
 ### [Two medical students Neil Dalton, 23 and Aidan Brunger completing their exchange from Newcastle University to a hospital in Malaysian Borneo were murdered after 4 men followed them after an argument over singing in a bar and stabbed them from behind. ](/news/2014/08/6/two-medical-students-neil-dalton-23-and-aidan-brunger-completing-their-exchange-from-newcastle-university-to-a-hospital-in-malaysian-borneo.md)

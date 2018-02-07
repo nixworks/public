@@ -33,11 +33,11 @@ _Context: Indonesia, Mount Bromo_
 
 ##### 250,000 documents
 ### [Diplomatic cable leaks by Wikileaks reveal that China regarded North Korea as a "spoilt child" and the view of Korean reunification under South Korean leadership is "gaining ground". ](/news/2010/11/29/diplomatic-cable-leaks-by-wikileaks-reveal-that-china-regarded-north-korea-as-a-spoilt-child-and-the-view-of-korean-reunification-under-so.md)
-_Context: Wikileaks, 250,000 documents, reunified, China, North Korea, South Korea_
+_Context: North Korea, reunified, Wikileaks, 250,000 documents, South Korea, China_
 
 ##### Israel
 ### [Israel's "eased" blockade of the Gaza strip continues to cripple the Gazan economy. ](/news/2010/11/29/israel-s-eased-blockade-of-the-gaza-strip-continues-to-cripple-the-gazan-economy.md)
-_Context: Israel,  blockade, Gaza strip_
+_Context:  blockade, Israel, Gaza strip_
 
 ##### U.N. climate change talks
 ### [The 2010 United Nations Climate Change Conference begins in Cancun, involving 194 countries, amidst low expectations. ](/news/2010/11/29/the-2010-united-nations-climate-change-conference-begins-in-cancun-involving-194-countries-amidst-low-expectations.md)
@@ -61,23 +61,23 @@ _Context: Port-au-Prince, Haiti's presidential election_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood, Egypt's largest opposition bloc, claims fraud in the parliamentary elections and says it has won no seats. ](/news/2010/11/29/the-muslim-brotherhood-egypt-s-largest-opposition-bloc-claims-fraud-in-the-parliamentary-elections-and-says-it-has-won-no-seats.md)
-_Context: Egypt, Egyptian parliamentary elections, Muslim Brotherhood_
+_Context: Egypt, Muslim Brotherhood, Egyptian parliamentary elections_
 
 ##### Constitutional Court of Thailand
 ### [The Constitutional Court of Thailand dismisses a case brought against the ruling Democrat Party by the election commission, saying the commission did not follow legal procedures. ](/news/2010/11/29/the-constitutional-court-of-thailand-dismisses-a-case-brought-against-the-ruling-democrat-party-by-the-election-commission-saying-the-commi.md)
-_Context: Constitutional Court of Thailand, Thailand, Democrat Party_
+_Context: Thailand, Democrat Party, Constitutional Court of Thailand_
 
 ##### John Brumby
 ### [John Brumby concedes defeat in the Victorian election; Ted Baillieu becomes the new Premier of the Australian state of Victoria. ](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.md)
-_Context: Premier, Ted Baillieu, Victorian election, Australia, Victoria, John Brumby_
+_Context: Ted Baillieu, Premier, Australia, Victorian election, Victoria, John Brumby_
 
 ##### U.S. President
 ### [President of the United States Barack Obama calls for a wage freeze for two million United States government workers. ](/news/2010/11/29/president-of-the-united-states-barack-obama-calls-for-a-wage-freeze-for-two-million-united-states-government-workers.md)
-_Context: U.S. President, United States government, Barack Obama, wage freeze_
+_Context: U.S. President, wage freeze, United States government, Barack Obama_
 
 ##### Canadian federal by-elections
 ### [The Canadian federal by-elections fills two vacant House seats in ridings for Manitoba and one in Ontario, resulting in one Conservative gain, one Conservative hold and one Liberal gain. ](/news/2010/11/29/the-canadian-federal-by-elections-fills-two-vacant-house-seats-in-ridings-for-manitoba-and-one-in-ontario-resulting-in-one-conservative-gai.md)
-_Context: Liberal Party's, ridings, House of Commons, Canadian federal by-elections, Conservative Party's, Ontario, Manitoba_
+_Context: Canadian federal by-elections, Manitoba, Conservative Party's, House of Commons, ridings, Liberal Party's, Ontario_
 
 ## [Previous Day...](/news/2010/11/28/index.md)
 

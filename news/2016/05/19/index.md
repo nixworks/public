@@ -33,11 +33,11 @@ The EgyptAir jet which crashed in the Mediterranean on Thursday sent a series of
 
 ##### 2016 Silk Way Airlines Antonov An-12 crash
 ### [ An Azerbaijani cargo airplane crashes during landing in southern Afghanistan, killing seven out of its nine crew members. ](/news/2016/05/19/an-azerbaijani-cargo-airplane-crashes-during-landing-in-southern-afghanistan-killing-seven-out-of-its-nine-crew-members.md)
-_Context: Azerbaijan, 2016 Silk Way Airlines Antonov An-12 crash, Afghanistan_
+_Context: Afghanistan, Azerbaijan, 2016 Silk Way Airlines Antonov An-12 crash_
 
 ##### opinion
 ### [A unanimous opinion of the U.S. Supreme Court finds that the constitutional guarantee of a speedy trial does not guarantee a speedy sentencing hearing. ](/news/2016/05/19/a-unanimous-opinion-of-the-u-s-supreme-court-finds-that-the-constitutional-guarantee-of-a-speedy-trial-does-not-guarantee-a-speedy-sentenci.md)
-_Context: opinion, speedy trial, U.S. Supreme Court, constitutional_
+_Context: U.S. Supreme Court, opinion, constitutional, speedy trial_
 
 ##### San Francisco Police Department
 ### [San Francisco Police Department Chief Greg Suhr resigns from his position several hours after a black woman is shot by police in San Francisco. ](/news/2016/05/19/san-francisco-police-department-chief-greg-suhr-resigns-from-his-position-several-hours-after-a-black-woman-is-shot-by-police-in-san-francis.md)
@@ -45,11 +45,11 @@ San Francisco&#39;s police chief has resigned at the request of the mayor hours 
 
 ##### Accession of Montenegro to NATO
 ### [Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. ](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement-paving-the-way-for-the-country-s-future-entry-into-the-military-alliance-all-of-nato-s-mem.md)
-_Context: Montenegro, NATO, Milo Dukanovic, Accession of Montenegro to NATO, Prime Minister, membership_
+_Context: Montenegro, Milo Dukanovic, membership, Prime Minister, NATO, Accession of Montenegro to NATO_
 
 ##### Ukraine
 ### [Ukraine's Parliament, the "Verkhovna Rada", decides that the country's third largest city, Dnipropetrovsk, be renamed Dnipro as part of the decommunization drive. ](/news/2016/05/19/ukraine-s-parliament-the-verkhovna-rada-decides-that-the-country-s-third-largest-city-dnipropetrovsk-be-renamed-dnipro-as-part-of-the.md)
-_Context: parliament, Ukraine, Dnipropetrovsk, decommunization_
+_Context: Ukraine, parliament, decommunization, Dnipropetrovsk_
 
 ##### Philippine general election, 2016
 ### [ In the Philippine general election, the Liberal Party emerges as the party with a plurality of seats in the Philippine Senate election, 2016 and Philippine House of Representatives elections, 2016. ](/news/2016/05/19/in-the-philippine-general-election-the-liberal-party-emerges-as-the-party-with-a-plurality-of-seats-in-the-philippine-senate-election-201.md)

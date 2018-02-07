@@ -25,15 +25,15 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Iraq
 ### [ At least seven people die in blasts in the Iraqi capital Baghdad, as a security clampdown continues.](/news/2006/08/27/at-least-seven-people-die-in-blasts-in-the-iraqi-capital-baghdad-as-a-security-clampdown-continues.md)
-_Context: Iraq, Baghdad_
+_Context: Baghdad, Iraq_
 
 ##### Pakistan
 ### [ Pakistan increases security in Balochistan as rioting follows the killing of rebel leader Nawab Akbar Bugti.](/news/2006/08/27/pakistan-increases-security-in-balochistan-as-rioting-follows-the-killing-of-rebel-leader-nawab-akbar-bugti.md)
-_Context: Nawab Akbar Bugti, Pakistan, Balochistan_
+_Context: Balochistan, Pakistan, Nawab Akbar Bugti_
 
 ##### Fox News
 ### [ Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. ](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.md)
-_Context: Steve Centanni, Fox News, Islam, Gaza Strip, Olaf Wiig_
+_Context: Steve Centanni, Fox News, Olaf Wiig, Islam, Gaza Strip_
 
 ## [Previous Day...](/news/2006/08/26/index.md)
 

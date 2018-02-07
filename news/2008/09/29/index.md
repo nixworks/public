@@ -9,11 +9,11 @@ Two crude bombs hit Malegaon in Maharashtra, killing seven and injuring 30, and 
 
 ##### United States Attorney General
 ### [ United States Attorney General Michael Mukasey announces the appointment of a special prosecutor to investigate the firings of nine U.S. attorneys in 2006. ](/news/2008/09/29/united-states-attorney-general-michael-mukasey-announces-the-appointment-of-a-special-prosecutor-to-investigate-the-firings-of-nine-u-s-at.md)
-_Context: United States Attorney General, special prosecutor, chief federal prosecutors, Michael Mukasey, firings_
+_Context: Michael Mukasey, firings, special prosecutor, United States Attorney General, chief federal prosecutors_
 
 ##### United States
 ### [ The United States House of Representatives rejects a proposed bailout of the U.S. financial system.](/news/2008/09/29/the-united-states-house-of-representatives-rejects-a-proposed-bailout-of-the-u-s-financial-system.md)
-_Context: proposed bailout of the U.S. financial system, U.S. House of Representatives, United States_
+_Context: United States, proposed bailout of the U.S. financial system, U.S. House of Representatives_
 
 ##### car bomb
 ### [ A car bomb explodes near a bus carrying Lebanese Army troops to work in Tripoli, Lebanon, which kills at least five people and injures 25. ](/news/2008/09/29/a-car-bomb-explodes-near-a-bus-carrying-lebanese-army-troops-to-work-in-tripoli-lebanon-which-kills-at-least-five-people-and-injures-25.md)

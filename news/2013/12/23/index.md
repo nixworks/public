@@ -33,7 +33,7 @@ _Context: Denis MacShane, United Kingdom_
 
 ##### Tupelo, Mississippi
 ### [In Tupelo, Mississippi two or three armed bank robbery suspects, fleeing police following a holdup at a Bancorp South, shoot dead one policeman and injure another. ](/news/2013/12/23/in-tupelo-mississippi-two-or-three-armed-bank-robbery-suspects-fleeing-police-following-a-holdup-at-a-bancorp-south-shoot-dead-one-police.md)
-_Context: Tupelo, Mississippi, Bancorp South_
+_Context: Bancorp South, Tupelo, Mississippi_
 
 ##### World War II
 ### [British World War II computer pioneer and codebreaker Alan Turing, who had been chemically castrated in 1952 following his conviction for homosexuality, is given a posthumous royal pardon. ](/news/2013/12/23/british-world-war-ii-computer-pioneer-and-codebreaker-alan-turing-who-had-been-chemically-castrated-in-1952-following-his-conviction-for-ho.md)

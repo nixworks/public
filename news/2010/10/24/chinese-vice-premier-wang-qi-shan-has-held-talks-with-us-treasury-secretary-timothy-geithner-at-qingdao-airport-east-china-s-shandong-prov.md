@@ -15,7 +15,7 @@ Formats: [HTML](/news/2010/10/24/chinese-vice-premier-wang-qi-shan-has-held-talk
 
 ### Changes:
 
-1. [Chinese Vice Premier Wang Qishan welcomes U.S. Treasury Secretary Timothy Geithner to the port of Qingdao as the United States objects to what it labels the "artificial" value of China's own currency, the yuan. ](/news/2010/10/24/chinese-vice-premier-wang-qishan-welcomes-u-s-treasury-secretary-timothy-geithner-to-the-port-of-qingdao-as-the-united-states-objects-to-wh.md) _2018-02-06 13:49:20 (First version)_
+1. [Chinese Vice Premier Wang Qishan welcomes U.S. Treasury Secretary Timothy Geithner to the port of Qingdao as the United States objects to what it labels the "artificial" value of China's own currency, the yuan. ](/news/2010/10/24/chinese-vice-premier-wang-qishan-welcomes-u-s-treasury-secretary-timothy-geithner-to-the-port-of-qingdao-as-the-united-states-objects-to-wh.md) _2018-02-06 15:35:16 (First version)_
 1. [Chinese Vice Premier Wang Qi-shan has held talks with US Treasury, Secretary Timothy Geithner at Qingdao Airport, east China's Shandong province. They exchanged views on Sino-US economic relations, and preparations for the upcoming G20 Summit. ](/news/2010/10/24/chinese-vice-premier-wang-qi-shan-has-held-talks-with-us-treasury-secretary-timothy-geithner-at-qingdao-airport-east-china-s-shandong-prov.md) _(Current version)_
 
 ### Related:

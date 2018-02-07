@@ -29,11 +29,11 @@ Unemployment in France has soared in October, with a record 3.46 million people 
 
 ##### UN Relief and Works Agency for Palestine Refugees in the Near East
 ### [The UN Relief and Works Agency for Palestine Refugees in the Near East declares a state of emergency on the Gaza Strip following heavy floods. ](/news/2014/11/27/the-un-relief-and-works-agency-for-palestine-refugees-in-the-near-east-declares-a-state-of-emergency-on-the-gaza-strip-following-heavy-flood.md)
-_Context: state of emergency, UN Relief and Works Agency for Palestine Refugees in the Near East, Gaza Strip_
+_Context: Gaza Strip, state of emergency, UN Relief and Works Agency for Palestine Refugees in the Near East_
 
 ##### Hong Kong Police Force
 ### [The Hong Kong Police Force arrests eleven more people in a second night of violence after removal of a camp in Mong Kok and seven police officers are arrested for alleged assault of a protester on October 15. ](/news/2014/11/27/the-hong-kong-police-force-arrests-eleven-more-people-in-a-second-night-of-violence-after-removal-of-a-camp-in-mong-kok-and-seven-police-off.md)
-_Context: Hong Kong Police Force, Mong Kok_
+_Context: Mong Kok, Hong Kong Police Force_
 
 ##### Moldovan parliamentary election, 2014
 ### [the Election commission bans the new pro-Russian party Homeland from competing in the elections because of financial support from abroad. ](/news/2014/11/27/the-election-commission-bans-the-new-pro-russian-party-homeland-from-competing-in-the-elections-because-of-financial-support-from-abroad.md)

@@ -15,11 +15,11 @@ The Government is to establish a statutory fund for former residents of institut
 
 ##### Palestine
 ### [The dismembered corpse of a Palestinian fighter killed by Israeli gunfire in the Gaza Strip is recovered. ](/news/2010/04/16/the-dismembered-corpse-of-a-palestinian-fighter-killed-by-israeli-gunfire-in-the-gaza-strip-is-recovered.md)
-_Context: Palestine, Israel, Gaza Strip_
+_Context: Israel, Gaza Strip, Palestine_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad writes a letter to President of the United States Barack Obama urging cooperation between the two countries. ](/news/2010/04/16/president-of-iran-mahmoud-ahmadinejad-writes-a-letter-to-president-of-the-united-states-barack-obama-urging-cooperation-between-the-two-coun.md)
-_Context: Mahmoud Ahmadinejad, U.S. President, President, Barack Obama_
+_Context: Barack Obama, President, U.S. President, Mahmoud Ahmadinejad_
 
 ##### severe storm in India
 ### [Victims of the recent severe storm in India angered by slow government response attack officials and raid an aid storage facility. ](/news/2010/04/16/victims-of-the-recent-severe-storm-in-india-angered-by-slow-government-response-attack-officials-and-raid-an-aid-storage-facility.md)
@@ -27,7 +27,7 @@ _Context: severe storm in India_
 
 ##### Blackwater Worldwide
 ### [Gary Jackson, former president of the US private security firm, Blackwater Worldwide (Xe Services LLC), and four other former workers are indicted on federal weapons charges. ](/news/2010/04/16/gary-jackson-former-president-of-the-us-private-security-firm-blackwater-worldwide-xe-services-llc-and-four-other-former-workers-are-in.md)
-_Context: Blackwater Worldwide, LLC, Xe Services_
+_Context: Xe Services, LLC, Blackwater Worldwide_
 
 ##### Securities and Exchange Commission
 ### [The U.S. Securities and Exchange Commission charges Goldman Sachs with defrauding investors. ](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.md)
@@ -51,11 +51,11 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### Gordon Brown
 ### [Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.md)
-_Context: David Cameron, Liberal Democrats, Gordon Brown, Nick Clegg_
+_Context: Nick Clegg, David Cameron, Gordon Brown, Liberal Democrats_
 
 ##### popular protests
 ### [As a result of popular protests in the north and capital of the country President Kurmanbek Bakiyev officially resigns after he leaves Kyrgyzstan for Kazakhstan. ](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-and-capital-of-the-country-president-kurmanbek-bakiyev-officially-resigns-after-he-leaves-kyrgy.md)
-_Context: Kyrgyzstan, president, Kurmanbek Bakiyev, popular protests, Kazakhstan_
+_Context: Kyrgyzstan, Kurmanbek Bakiyev, Kazakhstan, president, popular protests_
 
 ##### Sudan
 ### [Vote counting begins in Sudan after the five-day landmark multi-party election. ](/news/2010/04/16/vote-counting-begins-in-sudan-after-the-five-day-landmark-multi-party-election.md)
@@ -71,7 +71,7 @@ _Context: Mohammad Khatami, Iran_
 
 ##### 2010 BRIC summit
 ### [The 2010 BRIC summit opens in Brasilia amidst growing cooperation and calls for a bigger role. ](/news/2010/04/16/the-2010-bric-summit-opens-in-brasalia-amidst-growing-cooperation-and-calls-for-a-bigger-role.md)
-_Context: 2010 BRIC summit, Brasilia_
+_Context: Brasilia, 2010 BRIC summit_
 
 ##### Arisman Pongruangrong
 ### [Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields". ](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.md)
@@ -79,7 +79,7 @@ An anti-government protest leader has evaded arrest in Thailand by scaling down 
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton calls again on Israel and the Palestinians to make a better effort to pursue peace. ](/news/2010/04/16/united-states-secretary-of-state-hillary-clinton-calls-again-on-israel-and-the-palestinians-to-make-a-better-effort-to-pursue-peace.md)
-_Context: Israel, Hillary Clinton, Palestine, United States Secretary of State_
+_Context: Israel, Hillary Clinton, United States Secretary of State, Palestine_
 
 ##### Lady Gaga
 ### [Lady Gaga breaks a YouTube most viewed record, becoming "Queen of YouTube" with more than one billion views. ](/news/2010/04/16/lady-gaga-breaks-a-youtube-most-viewed-record-becoming-queen-of-youtube-with-more-than-one-billion-views.md)

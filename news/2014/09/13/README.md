@@ -21,7 +21,7 @@ The head of a Taiwanese company at the centre of a widening food safety scandal 
 
 ##### Qatar
 ### [The government of Qatar asks exiled leaders of Egypt's Muslim Brotherhood to leave. ](/news/2014/09/13/the-government-of-qatar-asks-exiled-leaders-of-egypt-s-muslim-brotherhood-to-leave.md)
-_Context: Qatar, Egyptian Muslim Brotherhood, Egypt_
+_Context: Qatar, Egypt, Egyptian Muslim Brotherhood_
 
 ## [Previous Day...](/news/2014/09/12/index.md)
 

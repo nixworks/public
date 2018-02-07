@@ -17,11 +17,11 @@ Government forces retreat as the district headquarters fall to militants after a
 
 ##### 2017 Antwerp attack
 ### [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md)
-_Context: Antwerp, Belgium, France, 2017 Antwerp attack_
+_Context: 2017 Antwerp attack, France, Antwerp, Belgium_
 
 ##### United States
 ### [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city's ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-cityas-ban-on-wom.md)
-_Context: Fort Collins, Colorado, United States_
+_Context: United States, Fort Collins, Colorado_
 
 ##### Ukraine
 ### [A series of explosions on a military base near the Ukrainian city of Balakliya forces thousands to be evacuated from their homes. ](/news/2017/03/23/a-series-of-explosions-on-a-military-base-near-the-ukrainian-city-of-balakliya-forces-thousands-to-be-evacuated-from-their-homes.md)
@@ -33,7 +33,7 @@ The Sewol sank on 16 April 2014 killing 304 people, almost all school children o
 
 ##### American Health Care Act of 2017
 ### [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md)
-_Context: American Health Care Act of 2017, Obamacare, House of Representatives_
+_Context: House of Representatives, American Health Care Act of 2017, Obamacare_
 
 ##### night parrot
 ### [The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. ](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.md)

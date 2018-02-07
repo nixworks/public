@@ -33,7 +33,7 @@ While remnants of Tropical Storm Earl were helping fuel the formation of Tropica
 
 ##### 2016 U.S. presidential election
 ### [A Filipino lawmaker proposes a bill banning Republican U.S. presidential candidate Donald Trump from entering the Philippines after Trump compared Filipino legal immigrants to terrorists. ](/news/2016/08/8/a-filipino-lawmaker-proposes-a-bill-banning-republican-u-s-presidential-candidate-donald-trump-from-entering-the-philippines-after-trump-co.md)
-_Context: Republican, Donald Trump, Philippines, terrorists, 2016 U.S. presidential election_
+_Context: Republican, 2016 U.S. presidential election, terrorists, Donald Trump, Philippines_
 
 ##### Japan-North Korea relations
 ### [Japan orders its military to shoot down any North Korean missiles that threaten to strike Japan at anytime, and is placing its forces on a state of alert for at least three months, according to a Ministry of Defense official. ](/news/2016/08/8/japan-orders-its-military-to-shoot-down-any-north-korean-missiles-that-threaten-to-strike-japan-at-anytime-and-is-placing-its-forces-on-a-s.md)

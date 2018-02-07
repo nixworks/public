@@ -25,7 +25,7 @@ A blaze at a southern Chinese shopping centre that killed 17 people was started 
 
 ##### American Sniper
 ### [Eddie Ray Routh goes on trial for the alleged murder of "American Sniper" Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenville.md)
-_Context: American Sniper, Texas, Chris Kyle, Stephenville_
+_Context: Texas, American Sniper, Stephenville, Chris Kyle_
 
 ##### Southwark Crown Court
 ### [The jury at Southwark Crown Court convicts British 70s glam rock star Gary Glitter on child sexual abuse charges with the prospect of life imprisonment. ](/news/2015/02/5/the-jury-at-southwark-crown-court-convicts-british-70s-glam-rock-star-gary-glitter-on-child-sexual-abuse-charges-with-the-prospect-of-life-i.md)

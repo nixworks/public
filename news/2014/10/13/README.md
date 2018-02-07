@@ -9,11 +9,11 @@ BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Mon
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-disruption-to-plane-and-train.md)
-_Context: Typhoon Vongfong, 2014 Pacific typhoon season, Kyushu, Japan_
+_Context: 2014 Pacific typhoon season, Typhoon Vongfong, Kyushu, Japan_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with-5-dead-in-andhra-pradesh-and-3-people-de.md)
-_Context: 2014 North Indian Ocean cyclone season, Andhra Pradesh, India, Cyclone Hudhud, Orissa State_
+_Context: Orissa State, Andhra Pradesh, India, 2014 North Indian Ocean cyclone season, Cyclone Hudhud_
 
 ##### earthquake
 ### [A 7.4 magnitude earthquake occurs off the coast of El Salvador with a tsunami warning issued for the Pacific Ocean coasts of El Salvador, Nicaragua and Honduras. ](/news/2014/10/13/a-7-4-magnitude-earthquake-occurs-off-the-coast-of-el-salvador-with-a-tsunami-warning-issued-for-the-pacific-ocean-coasts-of-el-salvador-ni.md)

@@ -13,7 +13,7 @@ _Context: Kiwanja, Rutshuru, DR Congo, Laurent Nkunda, Kivu conflict_
 
 ##### India
 ### [ India's Gagan Narang wins a gold medal in the men's 10 metre air rifle event at the 2008 ISSF World Cup Final, breaking the world record. ](/news/2008/11/5/india-s-gagan-narang-wins-a-gold-medal-in-the-men-s-10-metre-air-rifle-event-at-the-2008-issf-world-cup-final-breaking-the-world-record.md)
-_Context: 2008 ISSF World Cup Final, India, 10 metre air rifle, Gagan Narang_
+_Context: India, Gagan Narang, 10 metre air rifle, 2008 ISSF World Cup Final_
 
 ##### State of the Nation
 ### [ In his State of the Nation address, Russian President Dmitry Medvedev announces a proposal to extend the presidential term from four years to six. ](/news/2008/11/5/in-his-state-of-the-nation-address-russian-president-dmitry-medvedev-announces-a-proposal-to-extend-the-presidential-term-from-four-years.md)

@@ -13,23 +13,23 @@ _Context: Peru, 2005 northern Peru earthquake_
 
 ##### Renault
 ### [ Renault driver Fernando Alonso becomes the youngest ever Formula One champion when finishing 3rd behind McLaren rivals Juan Pablo Montoya and Kimi Raikkonen in the 2005 Brazilian Grand Prix ](/news/2005/09/25/renault-driver-fernando-alonso-becomes-the-youngest-ever-formula-one-champion-when-finishing-3rd-behind-mclaren-rivals-juan-pablo-montoya-a.md)
-_Context: 2005 Brazilian Grand Prix, Kimi Raikkonen, McLaren, Juan Pablo Montoya, Fernando Alonso, Renault, Formula One_
+_Context: McLaren, 2005 Brazilian Grand Prix, Kimi Raikkonen, Renault, Juan Pablo Montoya, Fernando Alonso, Formula One_
 
 ##### Polish parliamentary election, 2005
 ### [ Polish parliamentary election, 2005: As predicted by polls, support for Prime Minister Marek Belka's post-communist Alliance of the Democratic Left drops sharply to about 11%, while center-right opposition parties Law and Justice and Civic Platform will obtain about 28% and 26%, respectively. ](/news/2005/09/25/polish-parliamentary-election-2005-as-predicted-by-polls-support-for-prime-minister-marek-belka-s-post-communist-alliance-of-the-democra.md)
-_Context: Civic Platform, Alliance of the Democratic Left, Polish parliamentary election, 2005, Law and Justice_
+_Context: Alliance of the Democratic Left, Civic Platform, Law and Justice, Polish parliamentary election, 2005_
 
 ##### Switzerland
 ### [ Swiss voters approve a referendum by 56% to 44% to allow citizens from the 10 newest European Union member countries to travel and work in Switzerland. Quotas will be applied until 2011 on the number of people allowed to settle. ](/news/2005/09/25/swiss-voters-approve-a-referendum-by-56-to-44-to-allow-citizens-from-the-10-newest-european-union-member-countries-to-travel-and-work-in.md)
-_Context: 2011, referendum, Switzerland, European Union_
+_Context: referendum, Switzerland, 2011, European Union_
 
 ##### Shia
 ### [ At least four Shia Muslims, believed to be members of the Mahdi Army are killed by US soldiers in a gunfight following a U.S. raid into Sadr City, eastern Baghdad. ](/news/2005/09/25/at-least-four-shia-muslims-believed-to-be-members-of-the-mahdi-army-are-killed-by-us-soldiers-in-a-gunfight-following-a-u-s-raid-into-sad.md)
-_Context: Shia, Baghdad, United States, US soldiers, Mahdi Army, Sadr City, Muslim_
+_Context: Sadr City, Shia, Mahdi Army, Baghdad, United States, US soldiers, Muslim_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: 5 US soldiers die when a Chinook helicopter crashes in Zabul, southern Afghanistan. ](/news/2005/09/25/conflict-in-afghanistan-5-us-soldiers-die-when-a-chinook-helicopter-crashes-in-zabul-southern-afghanistan.md)
-_Context: War in Afghanistan (2001-present), Zabul, CH-47 Chinook, US soldiers, Afghanistan_
+_Context: CH-47 Chinook, Zabul, US soldiers, Afghanistan, War in Afghanistan (2001-present)_
 
 ##### Washington D.C.
 ### [ Over 100,000 people attend Anti Iraq War rally held in Washington D.C.. ](/news/2005/09/25/over-100-000-people-attend-anti-iraq-war-rally-held-in-washington-d-c.md)

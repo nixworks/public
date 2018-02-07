@@ -25,7 +25,7 @@ Over 3,000 schools are closed and transport is disrupted as a band of heavy snow
 
 ##### bus
 ### [At least 4 people are killed and 16 injured when a bus and a truck collided in Lviv Oblast, Ukraine. ](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.md)
-_Context: bus, Ukraine, Lviv Oblast, truck_
+_Context: bus, Ukraine, truck, Lviv Oblast_
 
 ##### United States
 ### [The United States will officially recognize Somalia's new government and officially open diplomatic relations with Somalia for the first time since the Battle of Mogadishu. ](/news/2013/01/18/the-united-states-will-officially-recognize-somalia-s-new-government-and-officially-open-diplomatic-relations-with-somalia-for-the-first-tim.md)
@@ -41,7 +41,7 @@ Several helicopters hovered over Rosehill Cemetery on Chicago&apos;s North Side 
 
 ##### Sergei Filin
 ### [An unknown assailant throws acid in the face of Sergei Filin, who is the artistic director of the Bolshoi Theatre, leaving him partially blind. The attack is attributed to the current power struggle for the famed Russian opera house. ](/news/2013/01/18/an-unknown-assailant-throws-acid-in-the-face-of-sergei-filin-who-is-the-artistic-director-of-the-bolshoi-theatre-leaving-him-partially-bli.md)
-_Context: opera house, Bolshoi Theatre, Sergei Filin_
+_Context: Bolshoi Theatre, Sergei Filin, opera house_
 
 ##### Ray Nagin
 ### [Ray Nagin, the former Mayor of New Orleans, Louisiana, is indicted on 21 different counts including fraud, embezzlement, money laundering, bribery, and tax evasion. ](/news/2013/01/18/ray-nagin-the-former-mayor-of-new-orleans-louisiana-is-indicted-on-21-different-counts-including-fraud-embezzlement-money-laundering-b.md)
@@ -53,7 +53,7 @@ A cleaning woman accused of stealing an empty commuter train in a suburb of Stoc
 
 ##### Sufi
 ### [Sufi cleric Mohammad Tahir-ul-Qadri reaches an agreement with the government of Pakistan following his Long March. ](/news/2013/01/18/sufi-cleric-mohammad-tahir-ul-qadri-reaches-an-agreement-with-the-government-of-pakistan-following-his-long-march.md)
-_Context: Long March, government of Pakistan, Mohammad Tahir-ul-Qadri, Sufi, cleric_
+_Context: Mohammad Tahir-ul-Qadri, cleric, Long March, government of Pakistan, Sufi_
 
 ##### NASA
 ### [NASA scientists beam a picture of Leonardo da Vinci's masterpiece, the "Mona Lisa", to Lunar Reconnaissance Orbiter, a spacecraft orbiting the Moon, marking a first in laser communication. ](/news/2013/01/18/nasa-scientists-beam-a-picture-of-leonardo-da-vinci-s-masterpiece-the-mona-lisa-to-lunar-reconnaissance-orbiter-a-spacecraft-orbiting-t.md)
@@ -61,7 +61,7 @@ NASA beamed an image of the Mona Lisa to the LRO spacecraft as part of the first
 
 ##### NASA
 ### [NASA's Cassini spacecraft observations show that the craters on Saturn's moon Titan are disappearing. ](/news/2013/01/18/nasaas-cassini-spacecraft-observations-show-that-the-craters-on-saturnas-moon-titan-are-disappearing.md)
-_Context: NASA, Titan, Cassini spacecraft, Saturn_
+_Context: Titan, NASA, Saturn, Cassini spacecraft_
 
 ## [Previous Day...](/news/2013/01/17/index.md)
 

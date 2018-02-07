@@ -5,11 +5,11 @@ Formats: [HTML](2008/09/10/index.html)  [JSON](2008/09/10/index.json)  [XML](200
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Republican candidate Ron Paul endorses third-party candidates Chuck Baldwin, Bob Barr, Cynthia McKinney and Ralph Nader, calling the two-party system a "charade.](/news/2008/09/10/united-states-presidential-election-2008-former-republican-candidate-ron-paul-endorses-third-party-candidates-chuck-baldwin-bob-barr-cy.md)
-_Context: Chuck Baldwin, Ron Paul, third party, candidate, Cynthia McKinney, Republican, two-party system, Ralph Nader, Bob Barr, 2008_
+_Context: 2008, Ralph Nader, two-party system, Cynthia McKinney, Chuck Baldwin, candidate, third party, Bob Barr, Republican, Ron Paul_
 
 ##### President of Bolivia
 ### [ President of Bolivia Evo Morales expels the United States ambassador, Philip Goldberg, for allegedly encouraging anti-government protests. ](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.md)
-_Context: ambassador, Philip Goldberg, President of Bolivia, Evo Morales, United States_
+_Context: Philip Goldberg, United States, ambassador, President of Bolivia, Evo Morales_
 
 ##### OPEC
 ### [ OPEC announces it will cut oil production by 500,000 barrels a day; prices rise accordingly. ](/news/2008/09/10/opec-announces-it-will-cut-oil-production-by-500-000-barrels-a-day-prices-rise-accordingly.md)
@@ -17,11 +17,11 @@ _Context: OPEC_
 
 ##### U.S.
 ### [ U.S.-based financial services company Lehman Brothers announces a third-quarter loss of $4.9 billion and plans to sell assets. ](/news/2008/09/10/u-s-based-financial-services-company-lehman-brothers-announces-a-third-quarter-loss-of-4-9-billion-and-plans-to-sell-assets.md)
-_Context: $, U.S., Lehman Brothers_
+_Context: Lehman Brothers, $, U.S._
 
 ##### European Commission
 ### [ The European Commission predicts the U.K., Germany, and Spain 'to fall into recession'; the outlook for rest of the Eurozone is gloomy. ](/news/2008/09/10/the-european-commission-predicts-the-u-k-germany-and-spain-to-fall-into-recession-the-outlook-for-rest-of-the-eurozone-is-gloomy.md)
-_Context: German, Eurozone, U.K., Spain, European Commission_
+_Context: Spain, Eurozone, U.K., German, European Commission_
 
 ##### Yonhap
 ### [ The Yonhap News Agency in South Korea reports North Korean leader Kim Jong-il has a serious health problem. ](/news/2008/09/10/the-yonhap-news-agency-in-south-korea-reports-north-korean-leader-kim-jong-il-has-a-serious-health-problem.md)

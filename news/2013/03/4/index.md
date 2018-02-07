@@ -29,7 +29,7 @@ The Queen returns to Buckingham Palace after being assessed in hospital for symp
 
 ##### Forbes
 ### ["Forbes" releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fourt.md)
-_Context: Mexico, Forbes, Carlos Slim, list of the world's wealthiest people_
+_Context: Carlos Slim, Forbes, list of the world's wealthiest people, Mexico_
 
 ##### Latvia
 ### [Latvia applies to enter the eurozone in 2014, in a move which could see it become the 18th member of the bloc. ](/news/2013/03/4/latvia-applies-to-enter-the-eurozone-in-2014-in-a-move-which-could-see-it-become-the-18th-member-of-the-bloc.md)
@@ -57,7 +57,7 @@ Venezuelan President Hugo Chavez died on Tuesday after a two-year battle with ca
 
 ##### conclave
 ### [Papal conclave, 2013: More than 100 Roman Catholic cardinals meet in Rome to start the process of selecting a successor to Pope Benedict XVI. ](/news/2013/03/4/papal-conclave-2013-more-than-100-roman-catholic-cardinals-meet-in-rome-to-start-the-process-of-selecting-a-successor-to-pope-benedict-xvi.md)
-_Context: Rome, Italy, conclave, Roman Catholic, Pope Benedict XVI, Cardinal_
+_Context: Pope Benedict XVI, Rome, Italy, Roman Catholic, conclave, Cardinal_
 
 ##### near-Earth asteroid
 ### [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md)

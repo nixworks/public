@@ -5,11 +5,11 @@ Formats: [HTML](2013/07/25/index.html)  [JSON](2013/07/25/index.json)  [XML](201
 
 ##### United Nations
 ### [The United Nations states that the death toll of the ongoing Syrian civil war has exceeded 100,000. ](/news/2013/07/25/the-united-nations-states-that-the-death-toll-of-the-ongoing-syrian-civil-war-has-exceeded-100-000.md)
-_Context: United Nations, Syrian civil war_
+_Context: Syrian civil war, United Nations_
 
 ##### Oxford English Dictionary
 ### [The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. ](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.md)
-_Context: Oxford English Dictionary, same-sex couples, marriage_
+_Context: same-sex couples, marriage, Oxford English Dictionary_
 
 ##### China
 ### [China begins a major effort to boost its economic growth with business tax breaks and export liberalization, amid an increasing industrial slowdown. ](/news/2013/07/25/china-begins-a-major-effort-to-boost-its-economic-growth-with-business-tax-breaks-and-export-liberalization-amid-an-increasing-industrial-s.md)
@@ -25,7 +25,7 @@ Gunmen assassinate Tunisian opposition leader Mohamed Brahmi, sparking protests 
 
 ##### Communist Party of China
 ### [Disgraced Chinese Communist Party official Bo Xilai is charged with corruption and abuse of office, in the culmination of one of China's most significant political scandals in recent years. ](/news/2013/07/25/disgraced-chinese-communist-party-official-bo-xilai-is-charged-with-corruption-and-abuse-of-office-in-the-culmination-of-one-of-china-s-mos.md)
-_Context: Bo Xilai, most significant political scandals, Communist Party of China_
+_Context: Bo Xilai, Communist Party of China, most significant political scandals_
 
 ##### New Jersey
 ### [A New Jersey attorney announces the largest alleged commercial hacking and data breach scheme ever prosecuted in the United States. ](/news/2013/07/25/a-new-jersey-attorney-announces-the-largest-alleged-commercial-hacking-and-data-breach-scheme-ever-prosecuted-in-the-united-states.md)

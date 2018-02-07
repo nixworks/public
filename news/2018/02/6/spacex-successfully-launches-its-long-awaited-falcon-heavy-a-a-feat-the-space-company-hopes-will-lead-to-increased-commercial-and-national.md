@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-fa
 ### [2018-02-6](/news/2018/02/6/index.md)
 
 ##### Falcon Heavy Demonstration Mission
-# SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. 
+# SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. 
 
 
 
@@ -17,7 +17,7 @@ Formats: [HTML](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-fa
 
 1. [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday morning -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-morning-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial.md) _2018-02-06 19:30:12 (First version)_
 2. [SpaceX will launch its long-awaited Falcon Heavy rocket Tuesday afternoon -- a feat the space company hopes will lead to increased commercial and national security missions. ](/news/2018/02/6/spacex-will-launch-its-long-awaited-falcon-heavy-rocket-tuesday-afternoon-a-a-feat-the-space-company-hopes-will-lead-to-increased-commerci.md) _2018-02-06 21:30:12 (Update)_
-2. [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md) _(Current version)_
+2. [SpaceX successfully launches its long-awaited Falcon Heavy -- a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing Space Oddity, which is expected to be in a elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-a-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-national.md) _(Current version)_
 
 ### Related:
 

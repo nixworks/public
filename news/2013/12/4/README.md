@@ -49,11 +49,11 @@ New leader is expected to make changes including replacing religious classes wit
 
 ##### Rein Lang
 ### [After Estonian Minister of Culture, Rein Lang's, resignation, new minister - Urve Tiidus - takes office, after President Toomas Hendrik Ilves approval. ](/news/2013/12/4/after-estonian-minister-of-culture-rein-langa-s-resignation-new-minister-urve-tiidus-takes-office-after-president-toomas-hendrik-ilv.md)
-_Context: Urve Tiidus, Toomas Hendrik Ilves, Rein Lang_
+_Context: Rein Lang, Urve Tiidus, Toomas Hendrik Ilves_
 
 ##### Laptev sea
 ### [A new island is discovered in the Laptev sea, and is given the name Yaya. ](/news/2013/12/4/a-new-island-is-discovered-in-the-laptev-sea-and-is-given-the-name-yaya.md)
-_Context: Yaya, Laptev sea_
+_Context: Laptev sea, Yaya_
 
 ## [Previous Day...](/news/2013/12/3/index.md)
 

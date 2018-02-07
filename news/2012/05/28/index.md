@@ -13,7 +13,7 @@ Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapp
 
 ##### bomb
 ### [A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. ](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex-in-nairobi-kenya-injuring-33-people.md)
-_Context: shopping complex, bomb, Nairobi, Kenya_
+_Context: shopping complex, Nairobi, Kenya, bomb_
 
 ##### Lhasa
 ### [For the first time a series of self-immolations have reached the Tibetan capital of Lhasa when two Tibetans set themselves on fire.](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.md)
@@ -53,11 +53,11 @@ Ex-Prime Minister Tony Blair tells the Leveson Inquiry his friendship with Ruper
 
 ##### Malawi
 ### [The Parliament of Malawi reverts the Flag of Malawi to the original version used between 1964 to 2010. The outgoing flag was introduced in 2010 by the late President Bingu wa Mutharika. ](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.md)
-_Context: Flag of Malawi, Malawi, Bingu wa Mutharika_
+_Context: Flag of Malawi, Bingu wa Mutharika, Malawi_
 
 ##### 1989 Tiananmen Square protests
 ### [The father of a victim of the 1989 Tiananmen Square protests commits suicide in Beijing after failing attempts for government redress. ](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.md)
-_Context: 1989 Tiananmen Square protests, Beijing_
+_Context: Beijing, 1989 Tiananmen Square protests_
 
 ##### China
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)

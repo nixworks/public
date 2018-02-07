@@ -21,15 +21,15 @@ Clashes between the forces of Azerbaijan and Armenian-backed Nagorno-Karabakh le
 
 ##### Israel
 ### [2 Israelis are wounded in a shooting near Kochav HaShachar in the West Bank. ](/news/2010/09/1/2-israelis-are-wounded-in-a-shooting-near-kochav-hashachar-in-the-west-bank.md)
-_Context: Kochav HaShachar, West Bank, Israel_
+_Context: Kochav HaShachar, Israel, West Bank_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority arrests 250 members of Hamas following the shooting of four Israeli settlers at Beit Hagai. ](/news/2010/09/1/the-palestinian-authority-arrests-250-members-of-hamas-following-the-shooting-of-four-israeli-settlers-at-beit-hagai.md)
-_Context: Palestinian Authority, Hamas, Israel, Beit Hagai_
+_Context: Hamas, Beit Hagai, Israel, Palestinian Authority_
 
 ##### Michael Douglas
 ### [Actor Michael Douglas speaks for the first time in public of his recent disgnosis with throat cancer during an interview on American television. ](/news/2010/09/1/actor-michael-douglas-speaks-for-the-first-time-in-public-of-his-recent-disgnosis-with-throat-cancer-during-an-interview-on-american-televis.md)
-_Context: throat cancer, Michael Douglas_
+_Context: Michael Douglas, throat cancer_
 
 ##### Hungary
 ### [Hungarian actress Zsa Zsa Gabor is rehospitalised in the United States after becoming unconscious. ](/news/2010/09/1/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-in-the-united-states-after-becoming-unconscious.md)
@@ -37,15 +37,15 @@ Actress Zsa Zsa Gabor is rushed back to hospital in Los Angeles after slipping i
 
 ##### Prime Minister
 ### [Former British Prime Minister Tony Blair's autobiography "A Journey" goes on sale in the United Kingdom and becomes a bestseller. ](/news/2010/09/1/former-british-prime-minister-tony-blair-s-autobiography-a-journey-goes-on-sale-in-the-united-kingdom-and-becomes-a-bestseller.md)
-_Context: bestseller, autobiography, Tony Blair, Prime Minister, United Kingdom, A Journey_
+_Context: bestseller, Tony Blair, Prime Minister, United Kingdom, autobiography, A Journey_
 
 ##### United States
 ### [United States rapper T.I. and his wife singer Tameka Cottle are arrested on Sunset Boulevard in Los Angeles for illegal drug possession. ](/news/2010/09/1/united-states-rapper-t-i-and-his-wife-singer-tameka-cottle-are-arrested-on-sunset-boulevard-in-los-angeles-for-illegal-drug-possession.md)
-_Context: Sunset Boulevard, United States, Los Angeles, California, Tameka Cottle, T.I., rapper_
+_Context: United States, T.I., Sunset Boulevard, Los Angeles, California, Tameka Cottle, rapper_
 
 ##### Archaeologist
 ### [Archaeologists discover 200 year old bottles of beer in a shipwreck south of the autonomous Aland Islands in the Baltic Sea believed to be the world's oldest. ](/news/2010/09/1/archaeologists-discover-200-year-old-bottles-of-beer-in-a-shipwreck-south-of-the-autonomous-aland-islands-in-the-baltic-sea-believed-to-be-t.md)
-_Context: Aland Islands, shipwreck, beer, Archaeologist, Baltic Sea_
+_Context: shipwreck, Baltic Sea, Archaeologist, beer, Aland Islands_
 
 ##### Apple Inc.
 ### [Apple Inc. launches Ping. ](/news/2010/09/1/apple-inc-launches-ping.md)
@@ -57,7 +57,7 @@ A new deal will ban Australian imitation champagne and sherry from the EU - but 
 
 ##### Federal Circuit
 ### [The U.S. Court of Appeals, Federal Circuit, upheld an injunction issued by a federal district court in Indiana in 2009, enjoining Teva Pharmaceuticals from the marketing of its drug for the treatment of osteoporosis. The district court found, and the appellate court agrees, that Teva's drug is in violation of a valid patent held by Eli Lilly & Co.. ](/news/2010/09/1/the-u-s-court-of-appeals-federal-circuit-upheld-an-injunction-issued-by-a-federal-district-court-in-indiana-in-2009-enjoining-teva-pharm.md)
-_Context: Eli Lilly & Co., 2009, Teva Pharmaceuticals, Federal Circuit, Indiana, osteoporosis_
+_Context: osteoporosis, Teva Pharmaceuticals, Indiana, Eli Lilly & Co., Federal Circuit, 2009_
 
 ##### Aweil
 ### [57,000 people are made homeless by heavy floods near Aweil, Northern Bahr el Ghazal in southern Sudan. ](/news/2010/09/1/57-000-people-are-made-homeless-by-heavy-floods-near-aweil-northern-bahr-el-ghazal-in-southern-sudan.md)
@@ -73,7 +73,7 @@ Chilean miners trapped underground receive their first hot meal in 26 days, as N
 
 ##### U.S. state
 ### [The U.S. state of North Carolina orders the evacuation of Cape Hatteras and Ocracoke Island ahead of Hurricane Earl. ](/news/2010/09/1/the-u-s-state-of-north-carolina-orders-the-evacuation-of-cape-hatteras-and-ocracoke-island-ahead-of-hurricane-earl.md)
-_Context: Cape Hatteras, North Carolina, U.S. state, Hurricane Earl, Ocracoke Island_
+_Context: Hurricane Earl, Ocracoke Island, North Carolina, Cape Hatteras, U.S. state_
 
 ##### Saint Petersburg
 ### [A tower block collapse in Saint Petersburg neither kills nor injures people. ](/news/2010/09/1/a-tower-block-collapse-in-saint-petersburg-neither-kills-nor-injures-people.md)
@@ -81,7 +81,7 @@ A collapsed eight-storey building in the Russian city of St Petersburg was empty
 
 ##### Yunnan
 ### [Eight people are killed and 40 missing in landslides that hit Wama village in Yunnan province, near Baoshan. The overall death toll from the 2010 China floods rises to 3,185, with 1,050 more missing. ](/news/2010/09/1/eight-people-are-killed-and-40-missing-in-landslides-that-hit-wama-village-in-yunnan-province-near-baoshan-the-overall-death-toll-from-the.md)
-_Context: Baoshan, 2010 China floods, Yunnan_
+_Context: 2010 China floods, Yunnan, Baoshan_
 
 ##### Europe
 ### [Several European countries summon their Kenyan ambassadors in a bid to determine why Kenya did not arrest President of Sudan Omar al-Bashir when he came to Nairobi for the new constitution ceremony. ](/news/2010/09/1/several-european-countries-summon-their-kenyan-ambassadors-in-a-bid-to-determine-why-kenya-did-not-arrest-president-of-sudan-omar-al-bashir.md)
@@ -93,7 +93,7 @@ The United States on Wednesday added the Pakistani Taliban to its list of foreig
 
 ##### U.S. President
 ### [President of the United States Barack Obama meets with a range of Middle East leaders in pursuit of peace between Israel and Palestine, including Prime Minister of Israel Benjamin Netanyahu, President of the Palestinian Authority Mahmoud Abbas, King of Jordan Abdullah II and President of Egypt Hosni Mubarak. ](/news/2010/09/1/president-of-the-united-states-barack-obama-meets-with-a-range-of-middle-east-leaders-in-pursuit-of-peace-between-israel-and-palestine-incl.md)
-_Context: U.S. President, Israel, Abdullah II of Jordan, Palestine, Hosni Mubarak, President of the Palestinian Authority, Israeli Prime Minister, Mahmoud Abbas, President, Benjamin Netanyahu, Jordanian King, Middle East, Barack Obama_
+_Context: U.S. President, Israeli Prime Minister, Hosni Mubarak, Benjamin Netanyahu, Mahmoud Abbas, Palestine, Middle East, President, Abdullah II of Jordan, President of the Palestinian Authority, Israel, Jordanian King, Barack Obama_
 
 ##### Greece
 ### [Greece brings into force a smoking ban. ](/news/2010/09/1/greece-brings-into-force-a-smoking-ban.md)
@@ -109,15 +109,15 @@ Two Yemenis arrested in Amsterdam on suspicion of planning a terror attack are r
 
 ##### Sweden
 ### [Swedish prosecutors decide to reopen a rape case against Wikileaks founder Julian Assange; Assange denies the allegations. ](/news/2010/09/1/swedish-prosecutors-decide-to-reopen-a-rape-case-against-wikileaks-founder-julian-assange-assange-denies-the-allegations.md)
-_Context: Wikileaks, Sweden, prosecutor, rape, Julian Assange_
+_Context: rape, Wikileaks, Julian Assange, Sweden, prosecutor_
 
 ##### Discovery Channel
 ### [A man upset with the Discovery Channel's environmental programs takes several people hostage at its headquarters in Silver Spring, Maryland, near Washington, DC. Police snipers eventually kill him with the hostages being safe. ](/news/2010/09/1/a-man-upset-with-the-discovery-channel-s-environmental-programs-takes-several-people-hostage-at-its-headquarters-in-silver-spring-maryland.md)
-_Context: Silver Spring, Maryland, Washington, DC, takes several people hostage, Discovery Channel, environmental_
+_Context: Silver Spring, Maryland, Washington, DC, takes several people hostage, environmental, Discovery Channel_
 
 ##### Australian Greens
 ### [The Australian Greens agree to support a Gillard Labor minority government as negotiations continue to form a government after the recent election. ](/news/2010/09/1/the-australian-greens-agree-to-support-a-gillard-labor-minority-government-as-negotiations-continue-to-form-a-government-after-the-recent-el.md)
-_Context: Julia Gillard, Australian Labor Party, recent election, Australian Greens, minority government_
+_Context: Julia Gillard, recent election, Australian Labor Party, Australian Greens, minority government_
 
 ##### United Kingdom
 ### [Members of the United Kingdom Labour Party start voting in the leadership election with the candidates being Diane Abbott, David Miliband, Ed Miliband, Ed Balls and Andy Burnham. ](/news/2010/09/1/members-of-the-united-kingdom-labour-party-start-voting-in-the-leadership-election-with-the-candidates-being-diane-abbott-david-miliband-e.md)

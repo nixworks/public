@@ -13,11 +13,11 @@ Libyan leader Colonel Muammar Gaddafi says no-one can force him to leave his cou
 
 ##### Thailand
 ### [Thai and Cambodian troops exchange gunfire near the Ta Krabei temple in Oddar Meanchey Province marking the ninth straight day of border clashes. ](/news/2011/04/30/thai-and-cambodian-troops-exchange-gunfire-near-the-ta-krabei-temple-in-oddar-meanchey-province-marking-the-ninth-straight-day-of-border-cla.md)
-_Context: Thailand, Cambodia, Oddar Meanchey Province_
+_Context: Thailand, Oddar Meanchey Province, Cambodia_
 
 ##### Morocco
 ### [Moroccan interior minister Taieb Cherkaoui says the bomb detonated in Marrakech was set off remotely. ](/news/2011/04/30/moroccan-interior-minister-taieb-cherkaoui-says-the-bomb-detonated-in-marrakech-was-set-off-remotely.md)
-_Context: Morocco, Taieb Cherkaoui, bomb detonated, Marrakech_
+_Context: Morocco, Taieb Cherkaoui, Marrakech, bomb detonated_
 
 ##### Danes
 ### [A study carried out by the Danish Booksellers Association reveals almost one third of Danes over the age of 14 read at least one book annually written in the English language. ](/news/2011/04/30/a-study-carried-out-by-the-danish-booksellers-association-reveals-almost-one-third-of-danes-over-the-age-of-14-read-at-least-one-book-annual.md)
@@ -25,7 +25,7 @@ _Context: Danes_
 
 ##### Wedding of Prince William, Duke of Cambridge, and Catherine Middleton
 ### [The official wedding photos for the Wedding of Prince William, Duke of Cambridge, and Catherine Middleton by Hugo Bernand are published online. ](/news/2011/04/30/the-official-wedding-photos-for-the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-by-hugo-bernand-are-published-onli.md)
-_Context: Hugo Bernand, Wedding of Prince William, Duke of Cambridge, and Catherine Middleton_
+_Context: Wedding of Prince William, Duke of Cambridge, and Catherine Middleton, Hugo Bernand_
 
 ##### three day tornado outbreak
 ### [The recent US tornado outbreak becomes the second deadliest single day tornado event in US history with at least 340 people dead. ](/news/2011/04/30/the-recent-us-tornado-outbreak-becomes-the-second-deadliest-single-day-tornado-event-in-us-history-with-at-least-340-people-dead.md)
@@ -33,7 +33,7 @@ _Context: three day tornado outbreak_
 
 ##### South Korea
 ### [South Korea announces plans to hold two frontline artillery drills on Baengnyeong Island and Yeonpyeong Island near North Korea. ](/news/2011/04/30/south-korea-announces-plans-to-hold-two-frontline-artillery-drills-on-baengnyeong-island-and-yeonpyeong-island-near-north-korea.md)
-_Context: Yeonpyeong Island, North Korea, South Korea, Baengnyeong Island_
+_Context: North Korea, Yeonpyeong Island, South Korea, Baengnyeong Island_
 
 ##### Bradley Manning
 ### [Army intelligence analyst Bradley Manning, imprisoned by the United States on charges of disclosing government information to the general public, is found competent to stand trial by a "panel of experts", despite having earlier been thought of as a "suicide risk" and having his clothes removed. ](/news/2011/04/30/army-intelligence-analyst-bradley-manning-imprisoned-by-the-united-states-on-charges-of-disclosing-government-information-to-the-general-pu.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2007/09/16/index.html)  [JSON](2007/09/16/index.json)  [XML](200
 
 ##### The Sopranos
 ### [ "The Sopranos" wins the Primetime Emmy Award for Outstanding Drama Series in the Primetime Emmy Awards. ](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.md)
-_Context: Primetime Emmy Award for Outstanding Drama Series, Primetime Emmy Award, The Sopranos_
+_Context: The Sopranos, Primetime Emmy Award, Primetime Emmy Award for Outstanding Drama Series_
 
 ##### O.J. Simpson
 ### [ O.J. Simpson is charged with six felonies in relation to an alleged armed robbery of sports memorabilia from a Las Vegas hotel room. ](/news/2007/09/16/o-j-simpson-is-charged-with-six-felonies-in-relation-to-an-alleged-armed-robbery-of-sports-memorabilia-from-a-las-vegas-hotel-room.md)
@@ -13,23 +13,23 @@ O. J. Simpson was charged with six felonies in connection with a reported armed 
 
 ##### foot and mouth disease
 ### [ A third case of foot and mouth disease is identified but not confirmed by United Kingdom government vets on a farm near Chertsey, Surrey. ](/news/2007/09/16/a-third-case-of-foot-and-mouth-disease-is-identified-but-not-confirmed-by-united-kingdom-government-vets-on-a-farm-near-chertsey-surrey.md)
-_Context: Chertsey, Surrey, foot and mouth disease, United Kingdom_
+_Context: Chertsey, Surrey, United Kingdom, foot and mouth disease_
 
 ##### Iraq
 ### [ An Iraqi police colonel is gunned down in Afak, the third government official killed in that Iraqi town. ](/news/2007/09/16/an-iraqi-police-colonel-is-gunned-down-in-afak-the-third-government-official-killed-in-that-iraqi-town.md)
-_Context: Iraq, Afak_
+_Context: Afak, Iraq_
 
 ##### Michael B. Mukasey
 ### [ Michael B. Mukasey, a retired federal judge from New York, will be nominated to replace Alberto Gonzales as United States Attorney General and President Bush will announce his selection on Monday. ](/news/2007/09/16/michael-b-mukasey-a-retired-federal-judge-from-new-york-will-be-nominated-to-replace-alberto-gonzales-as-united-states-attorney-general.md)
-_Context: George W. Bush, United States Attorney General, Alberto Gonzales, New York City, Michael B. Mukasey_
+_Context: United States Attorney General, New York City, George W. Bush, Alberto Gonzales, Michael B. Mukasey_
 
 ##### Andrei Lugovoy
 ### [ Andrei Lugovoy, the former KGB agent accused by British authorities of murdering Alexander Litvinenko with a radioactive isotope in London last November, says he will run for parliament on the party list of the Liberal Democratic Party of Russia. ](/news/2007/09/16/andrei-lugovoy-the-former-kgb-agent-accused-by-british-authorities-of-murdering-alexander-litvinenko-with-a-radioactive-isotope-in-london.md)
-_Context: Andrei Lugovoy, Alexander Litvinenko, London, State Duma, Liberal Democratic Party of Russia, KGB_
+_Context: Liberal Democratic Party of Russia, State Duma, Alexander Litvinenko, London, KGB, Andrei Lugovoy_
 
 ##### Flight OG 269
 ### [ Flight OG 269 crashes while trying to land in heavy rain at Phuket International Airport in Thailand with reports of 88 deaths and at least 20 people seriously injured. ](/news/2007/09/16/flight-og-269-crashes-while-trying-to-land-in-heavy-rain-at-phuket-international-airport-in-thailand-with-reports-of-88-deaths-and-at-least.md)
-_Context: Phuket International Airport, Flight OG 269, Thailand_
+_Context: Thailand, Flight OG 269, Phuket International Airport_
 
 ##### Colin McRae
 ### [ Colin McRae and his son are confirmed dead in the helicopter crash in Scotland. ](/news/2007/09/16/colin-mcrae-and-his-son-are-confirmed-dead-in-the-helicopter-crash-in-scotland.md)

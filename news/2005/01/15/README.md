@@ -5,7 +5,7 @@ Formats: [HTML](2005/01/15/index.html)  [JSON](2005/01/15/index.json)  [XML](200
 
 ##### Straits Aviation Exchange Commission
 ### [ The Straits Aviation Exchange Commission and Taipei Airlines Association announce that the first direct flights between mainland China and Taiwan since 1949 will be allowed to occur during the Chinese New Year holidays. ](/news/2005/01/15/the-straits-aviation-exchange-commission-and-taipei-airlines-association-announce-that-the-first-direct-flights-between-mainland-china-and.md)
-_Context: Chinese Civil War, Straits Aviation Exchange Commission, Taipei Airlines Association, mainland China, Taiwan, direct flights, Chinese New Year_
+_Context: mainland China, Straits Aviation Exchange Commission, direct flights, Taiwan, Taipei Airlines Association, Chinese Civil War, Chinese New Year_
 
 ##### Zhao Ziyang
 ### [ Zhao Ziyang, former Premier of the People's Republic of China and General Secretary of the Communist Party of China, is in a coma after multiple strokes. ](/news/2005/01/15/zhao-ziyang-former-premier-of-the-people-s-republic-of-china-and-general-secretary-of-the-communist-party-of-china-is-in-a-coma-after-mul.md)
@@ -13,15 +13,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: U.S.-led forces in Iraq have destroyed and contaminated precious ancient Babylonian archaeological evidence and sites according to a report by the British Museum. ](/news/2005/01/15/conflict-in-iraq-u-s-led-forces-in-iraq-have-destroyed-and-contaminated-precious-ancient-babylonian-archaeological-evidence-and-sites-acc.md)
-_Context: Babylon, Conflict in Iraq, Iraq, United States_
+_Context: United States, Iraq, Conflict in Iraq, Babylon_
 
 ##### Mahmoud Abbas
 ### [ Mahmoud Abbas (a.k.a. Abu Mazen) is sworn in as president of the Palestinian Authority in a ceremony in the West Bank town of Ramallah, six days after winning the Palestinian presidential election. ](/news/2005/01/15/mahmoud-abbas-a-k-a-abu-mazen-is-sworn-in-as-president-of-the-palestinian-authority-in-a-ceremony-in-the-west-bank-town-of-ramallah-six.md)
-_Context: Ramallah, Mahmoud Abbas, West Bank, Palestinian Authority, Palestinian presidential election_
+_Context: Palestinian Authority, West Bank, Palestinian presidential election, Ramallah, Mahmoud Abbas_
 
 ##### Israeli-Palestinian Conflict
 ### [ Mahmoud Abbas, the new Palestinian President, has called for an end to the violence, and a mutual ceasefire between the Israelis and the Palestinian Militant factions. ](/news/2005/01/15/mahmoud-abbas-the-new-palestinian-president-has-called-for-an-end-to-the-violence-and-a-mutual-ceasefire-between-the-israelis-and-the-pa.md)
-_Context: Mahmoud Abbas, Israeli-Palestinian Conflict, Israel, Palestinian_
+_Context: Israeli-Palestinian Conflict, Israel, Mahmoud Abbas, Palestinian_
 
 ## [Previous Day...](/news/2005/01/14/index.md)
 

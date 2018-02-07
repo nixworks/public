@@ -13,11 +13,11 @@ US authorities search for survivors and clear damage after a string of tornadoes
 
 ##### Australia
 ### [A man dies in floodwaters near the Australian town of Araluen, New South Wales, with the hospital in the town of Numurkah, Victoria, being evacuated. ](/news/2012/03/4/a-man-dies-in-floodwaters-near-the-australian-town-of-araluen-new-south-wales-with-the-hospital-in-the-town-of-numurkah-victoria-being-e.md)
-_Context: Numurkah, Victoria, Australia, Araluen, New South Wales_
+_Context: Australia, Numurkah, Victoria, Araluen, New South Wales_
 
 ##### Chinese
 ### [A report finds that 160 children from the Chinese town of Dongtang in Guangdong Province's Renhua County are suffering from lead poisoning. ](/news/2012/03/4/a-report-finds-that-160-children-from-the-chinese-town-of-dongtang-in-guangdong-province-s-renhua-county-are-suffering-from-lead-poisoning.md)
-_Context: Guangdong Province, Dongtang, Renhua County, Chinese, lead contamination_
+_Context: Chinese, Dongtang, Renhua County, Guangdong Province, lead contamination_
 
 ##### train crash
 ### [The death toll from the train crash in Poland rises to 16. ](/news/2012/03/4/the-death-toll-from-the-train-crash-in-poland-rises-to-16.md)
@@ -33,7 +33,7 @@ Reports from Guinea say up to 50 people have died after a lorry taking people to
 
 ##### thief
 ### [A hunt is underway for a thief who stole the heart of Saint Laurence O'Toole at Christ Church Cathedral in Dublin. ](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-heart-of-saint-laurence-o-toole-at-christ-church-cathedral-in-dublin.md)
-_Context: Laurence O'Toole,  Christ Church Cathedral, heart, thief, Dublin, saints_
+_Context: thief,  Christ Church Cathedral, Dublin, heart, saints, Laurence O'Toole_
 
 ##### Paul McBride
 ### [Paul McBride QC, Scotland's most senior lawyer, is found dead in a hotel room while on a visit to Pakistan. ](/news/2012/03/4/paul-mcbride-qc-scotland-s-most-senior-lawyer-is-found-dead-in-a-hotel-room-while-on-a-visit-to-pakistan.md)
@@ -41,11 +41,11 @@ A lawyer, who two men are accused of trying to murder, as well as Celtic manager
 
 ##### Russia
 ### [Voters in Russia go to the polls for a presidential election with Prime Minister Vladimir Putin claiming victory despite allegations of voter fraud. ](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.md)
-_Context: Russia, Prime Minister of Russia, Vladimir Putin, last week's election_
+_Context: Prime Minister of Russia, Russia, last week's election, Vladimir Putin_
 
 ##### Keith O'Brien
 ### [Cardinal Keith O'Brien, the leader of the Catholic Church in Scotland and Britain's most senior Roman Catholic cleric, criticises government plans to allow Same-sex marriage in the United Kingdom. ](/news/2012/03/4/cardinal-keith-o-brien-the-leader-of-the-catholic-church-in-scotland-and-britain-s-most-senior-roman-catholic-cleric-criticises-government.md)
-_Context: Keith O'Brien, Catholic Church in Scotland, Same-sex marriage_
+_Context: Same-sex marriage, Catholic Church in Scotland, Keith O'Brien_
 
 ## [Previous Day...](/news/2012/03/3/index.md)
 

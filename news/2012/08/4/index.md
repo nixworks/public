@@ -29,7 +29,7 @@ Three jawans of fire services were among six persons killed as torrential rains 
 
 ##### Islam
 ### [Jailed Islamist cleric Abu Bakar Bashir threatens to wage war in Burma following alleged abuses by Buddhists against the country's Rohingya people by the Tatmadaw, in a letter to Burmese president Thein Sein. ](/news/2012/08/4/jailed-islamist-cleric-abu-bakar-bashir-threatens-to-wage-war-in-burma-following-alleged-abuses-by-buddhists-against-the-country-s-rohingya.md)
-_Context: Burma, security forces, Abu Bakar Bashir, Thein Sein, Rohingya, Islam_
+_Context: security forces, Rohingya, Islam, Thein Sein, Burma, Abu Bakar Bashir_
 
 ##### Sudan
 ### [Sudan confirms an oil agreement with neighbouring South Sudan. ](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.md)

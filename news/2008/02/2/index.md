@@ -13,15 +13,15 @@ _Context: Illinois, Tinley Park, Five people are shot dead_
 
 ##### Dambulla
 ### [ An explosion on a bus in Dambulla, Sri Lanka kills at least 20 people. ](/news/2008/02/2/an-explosion-on-a-bus-in-dambulla-sri-lanka-kills-at-least-20-people.md)
-_Context: Sri Lanka, Dambulla_
+_Context: Dambulla, Sri Lanka_
 
 ##### Battle of N'Djamena
 ### [ Battle of N'Djamena: Chadian rebels enter the capital N'Djamena and head for the presidential palace. ](/news/2008/02/2/battle-of-n-djamena-chadian-rebels-enter-the-capital-n-djamena-and-head-for-the-presidential-palace.md)
-_Context: Chad, Battle of N'Djamena, N'Djamena_
+_Context: N'Djamena, Chad, Battle of N'Djamena_
 
 ##### France
 ### [ French President Nicolas Sarkozy marries singer and former supermodel Carla Bruni at the Elysee Palace. ](/news/2008/02/2/french-president-nicolas-sarkozy-marries-singer-and-former-supermodel-carla-bruni-at-the-alysa-c-e-palace.md)
-_Context: supermodel, Elysee Palace, Carla Bruni, Nicolas Sarkozy, France, French President_
+_Context: French President, France, Nicolas Sarkozy, supermodel, Carla Bruni, Elysee Palace_
 
 ## [Previous Day...](/news/2008/02/1/index.md)
 

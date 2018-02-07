@@ -25,7 +25,7 @@ Christian pilgrims crowd the cobblestone alleyways of Jerusalem&#039;s Old City 
 
 ##### San Fernando
 ### [24 Filipinos are nailed to crosses in to San Fernando, near Manila, though celebrations are cancelled in Syria due to ongoing incidents there. ](/news/2011/04/22/24-filipinos-are-nailed-to-crosses-in-to-san-fernando-near-manila-though-celebrations-are-cancelled-in-syria-due-to-ongoing-incidents-ther.md)
-_Context: protestors, Manila, San Fernando_
+_Context: San Fernando, Manila, protestors_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI becomes the first pontiff to take part in a televised question-and-answer session, a pre-recorded programme for Italian television. ](/news/2011/04/22/pope-benedict-xvi-becomes-the-first-pontiff-to-take-part-in-a-televised-question-and-answer-session-a-pre-recorded-programme-for-italian-te.md)
@@ -33,7 +33,7 @@ Pope Benedict makes history by taking part in a TV question-and-answer programme
 
 ##### Anne Robinson
 ### [Anne Robinson leaves "The Weakest Link", prompting the BBC to end the quiz show. ](/news/2011/04/22/anne-robinson-leaves-the-weakest-link-prompting-the-bbc-to-end-the-quiz-show.md)
-_Context: BBC, Anne Robinson, The Weakest Link_
+_Context: BBC, The Weakest Link, Anne Robinson_
 
 ##### landslide
 ### [Dozens of people are feared dead in a landslide in the southern Philippines. ](/news/2011/04/22/dozens-of-people-are-feared-dead-in-a-landslide-in-the-southern-philippines.md)
@@ -45,7 +45,7 @@ Children in Somalia are suffering some of the highest malnutrition rates in the 
 
 ##### Japan
 ### [Japan's government announces a 4 trillion yen emergency budget to deal with the earthquake and tsunami that devastated the country last month. ](/news/2011/04/22/japan-s-government-announces-a-4-trillion-yen-emergency-budget-to-deal-with-the-earthquake-and-tsunami-that-devastated-the-country-last-mont.md)
-_Context: Japan, yen, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan, yen_
 
 ##### Schengen Agreement
 ### [France calls for changes to the Schengen Agreement after Italy allows people from Tunisia and Libya into the passport-free Schengen Area. ](/news/2011/04/22/france-calls-for-changes-to-the-schengen-agreement-after-italy-allows-people-from-tunisia-and-libya-into-the-passport-free-schengen-area.md)

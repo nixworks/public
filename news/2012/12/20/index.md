@@ -21,7 +21,7 @@ _Context: patent, pinch-to-zoom gestures, U.S., Apple Inc., mobile device_
 
 ##### midwestern
 ### [The midwestern United States is hit by a massive storm causing major disruption to traffic. ](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massive-storm-causing-major-disruption-to-traffic.md)
-_Context: massive storm, midwestern_
+_Context: midwestern, massive storm_
 
 ##### UN refugee agency
 ### [The UN refugee agency reports at least 55 people have drowned after an overcrowded boat capsizes off the coast of Somalia on 18 December. ](/news/2012/12/20/the-un-refugee-agency-reports-at-least-55-people-have-drowned-after-an-overcrowded-boat-capsizes-off-the-coast-of-somalia-on-18-december.md)
@@ -33,7 +33,7 @@ Wikileaks founder Julian Assange promises to release a million documents in 2013
 
 ##### ASEAN
 ### [ASEAN members and India conclude free trade agreements in services and investment. ](/news/2012/12/20/asean-members-and-india-conclude-free-trade-agreements-in-services-and-investment.md)
-_Context: ASEAN, free trade, India_
+_Context: free trade, ASEAN, India_
 
 ##### China
 ### [Police in China arrest almost 1,000 people belonging to the doomsday Almighty God Christian cult for spreading rumours about the end of the world. ](/news/2012/12/20/police-in-china-arrest-almost-1-000-people-belonging-to-the-doomsday-almighty-god-christian-cult-for-spreading-rumours-about-the-end-of-the.md)
@@ -53,7 +53,7 @@ _Context: Laos, Vientiane_
 
 ##### Rwanda
 ### [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md)
-_Context: Augustin Ngirabatware, Rwandan Genocide, Rwanda_
+_Context: Rwandan Genocide, Augustin Ngirabatware, Rwanda_
 
 ## [Previous Day...](/news/2012/12/19/index.md)
 

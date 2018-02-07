@@ -29,7 +29,7 @@ A train came off the tracks in Uttar Pradesh on Saturday, killing at least 10 pe
 
 ##### US Navy losses in World War II
 ### [The wreckage of the Indianapolis 6 heavy cruiser, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors-Marines who survived the sinking were finally rescued after 4-5 days in shark-infested waters. ](/news/2017/08/19/the-wreckage-of-the-indianapolis-6-heavy-cruiser-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-p.md)
-_Context: Little Boy, South Pacific Ocean, heavy cruiser, US Navy losses in World War II, Marine, Sailor, I-58_
+_Context: Little Boy, US Navy losses in World War II, South Pacific Ocean, Marine, Sailor, I-58, heavy cruiser_
 
 ##### 2017 Australian constitutional crisis
 ### [Australian Senator Nick Xenophon is discovered to hold dual citizenship with Britain. ](/news/2017/08/19/australian-senator-nick-xenophon-is-discovered-to-hold-dual-citizenship-with-britain.md)
@@ -41,7 +41,7 @@ Nigerian President Muhammadu Buhari returned home on Saturday from three months 
 
 ##### Political appointments by Donald Trump
 ### [Pastor A.R. Bernard becomes the first religious leader to resign from the president's evangelical advisory board. ](/news/2017/08/19/pastor-a-r-bernard-becomes-the-first-religious-leader-to-resign-from-the-president-s-evangelical-advisory-board.md)
-_Context: A.R. Bernard, Political appointments by Donald Trump, U.S. President_
+_Context: A.R. Bernard, U.S. President, Political appointments by Donald Trump_
 
 ##### 2017-18 Togolese protests
 ### [Two people are killed and 13 wounded during an anti-government protests in Togo. ](/news/2017/08/19/two-people-are-killed-and-13-wounded-during-an-anti-government-protests-in-togo.md)

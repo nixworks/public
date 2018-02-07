@@ -29,7 +29,7 @@ Bonanza Creek Energy Inc (BCEI.N) and two other energy firms announced on Friday
 
 ##### Philippines
 ### [Former Philippines president and current mayor of Manila Joseph Estrada is hospitalized for pneumonia. ](/news/2016/12/23/former-philippines-president-and-current-mayor-of-manila-joseph-estrada-is-hospitalized-for-pneumonia.md)
-_Context: Manila, Joseph Estrada, Philippines, pneumonia_
+_Context: pneumonia, Joseph Estrada, Philippines, Manila_
 
 ##### United Nations Security Council resolution
 ### [The United States Ambassador to the United Nations Samantha Power abstains from voting in a 14-0 Security Council decision condemning Israeli settlement of the Palestinian territories. ](/news/2016/12/23/the-united-states-ambassador-to-the-united-nations-samantha-power-abstains-from-voting-in-a-14a0-security-council-decision-condemning-isra.md)

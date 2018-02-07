@@ -21,7 +21,7 @@ Bomb shelter of family in Homs countryside hit by apparent Russian rocket, killi
 
 ##### Synod of Bishops
 ### [As part of the weekend celebration of the 50th anniversary of the Synod of Bishops, during the 3-week-long Ordinary General Synod on the Family, Pope Francis canonizes the parents of the Doctor of the Church, Saint Therese of the Child Jesus of Lisieux, France (Saints Louis Martin and Marie-Azelie Guerin Martin, 1823-1894 and 1831-1877, respectively), the first married Catholic parents to be canonized at the same time. He also canonizes the religious superior general Saint Maria de la Purisima Salvat Romero (Mary of the Immaculate Conception), 1926-1998, and the diocesan priest and founder of a religious institute, Saint Vincenzo Grossi, 1845-1917. ](/news/2015/10/18/as-part-of-the-weekend-celebration-of-the-50th-anniversary-of-the-synod-of-bishops-during-the-3-week-long-ordinary-general-synod-on-the-fam.md)
-_Context: Pope Francis, Saint Therese of the Child Jesus, Doctor of the Church, Vincenzo Grossi, Marie-Azelie Guerin Martin, Maria de la Purisima Salvat Romero, Louis Martin, religious institute, superior general, Synod of Bishops, Lisieux_
+_Context: Lisieux, Louis Martin, Vincenzo Grossi, superior general, Doctor of the Church, religious institute, Maria de la Purisima Salvat Romero, Pope Francis, Marie-Azelie Guerin Martin, Saint Therese of the Child Jesus, Synod of Bishops_
 
 ##### junior doctor
 ### [Tens of thousands of junior doctors rally in London (UK) near Pall Mall to protest contract changes that will reclassify their normal working week to include Saturdays and late evenings, and the government's threat to impose a new contract. ](/news/2015/10/18/tens-of-thousands-of-junior-doctors-rally-in-london-uk-near-pall-mall-to-protest-contract-changes-that-will-reclassify-their-normal-workin.md)
@@ -45,7 +45,7 @@ People vote in Egypt in the first round of long-delayed elections to choose a ne
 
 ##### Swiss federal election, 2015
 ### [Voters in Switzerland go to the polls for a federal election. Results show the anti-immigration Swiss People's Party winning the election with at least 29.5% of the vote, a record election result for the nationalist party. ](/news/2015/10/18/voters-in-switzerland-go-to-the-polls-for-a-federal-election-results-show-the-anti-immigration-swiss-people-s-party-winning-the-election-wi.md)
-_Context: anti-immigration, Swiss People's Party, nationalist, Switzerland, Swiss federal election, 2015_
+_Context: Swiss federal election, 2015, anti-immigration, Switzerland, Swiss People's Party, nationalist_
 
 ## [Previous Day...](/news/2015/10/17/index.md)
 

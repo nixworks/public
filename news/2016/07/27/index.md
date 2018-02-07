@@ -37,7 +37,7 @@ Coca-Cola share prices fall after the Dow component cut its organic revenue fore
 
 ##### Indonesia
 ### [In Indonesia, Sri Mulyani Indrawati assumes office as the new Finance Minister. ](/news/2016/07/27/in-indonesia-sri-mulyani-indrawati-assumes-office-as-the-new-finance-minister.md)
-_Context: Sri Mulyani Indrawati, Indonesia_
+_Context: Indonesia, Sri Mulyani Indrawati_
 
 ##### Tesla motors
 ### [Tesla motors opens a 'Gigafactory' near Reno in the middle of the Nevada desert. ](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.md)
@@ -53,7 +53,7 @@ The crashed remains from Flight MH370 could be as much as 500km further north th
 
 ##### Ice Bucket Challenge
 ### [Two years after its launch, supporters of the Ice Bucket Challenge to bring awareness to ALS celebrate scientific discovery regarding NEK1. ](/news/2016/07/27/two-years-after-its-launch-supporters-of-the-ice-bucket-challenge-to-bring-awareness-to-als-celebrate-scientific-discovery-regarding-nek1.md)
-_Context: NEK1, Ice Bucket Challenge, ALS_
+_Context: Ice Bucket Challenge, NEK1, ALS_
 
 ##### 2015-16 Zika virus epidemic
 ### [Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/four-florida-residents-may-have-been-infected-by-the-virus-locally.md)
@@ -85,7 +85,7 @@ The speech also marks 12 years since Obama was introduced to the national stage.
 
 ##### 2016 Zimbabwe protests
 ### [Robert Mugabe says that his former supporters are to suffer severe punishment for supporting the protests. ](/news/2016/07/27/robert-mugabe-says-that-his-former-supporters-are-to-suffer-severe-punishment-for-supporting-the-protests.md)
-_Context: Robert Mugabe, 2016 Zimbabwe protests_
+_Context: 2016 Zimbabwe protests, Robert Mugabe_
 
 ##### 1Malaysia Development Berhad scandal
 ### [Prime Minister Najib Razak gets emergency powers amid a widening scandal about corruption. ](/news/2016/07/27/prime-minister-najib-razak-gets-emergency-powers-amid-a-widening-scandal-about-corruption.md)

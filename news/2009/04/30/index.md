@@ -9,11 +9,11 @@ The World Health Organisation (WHO), bowing to pressure from meat industry produ
 
 ##### Chrysler
 ### [ Chrysler declares bankruptcy under Chapter 11 of the United States Code. ](/news/2009/04/30/chrysler-declares-bankruptcy-under-chapter-11-of-the-united-states-code.md)
-_Context: Chapter 11, federal offenses, sustain, United States, Chrysler, bankruptcy_
+_Context: Chapter 11, federal offenses, bankruptcy, sustain, United States, Chrysler_
 
 ##### attacked
 ### [ Seven people are killed and 17 injured at a Queen's Day parade in Apeldoorn, Netherlands. ](/news/2009/04/30/seven-people-are-killed-and-17-injured-at-a-queen-s-day-parade-in-apeldoorn-netherlands.md)
-_Context: parade, Queen's Day, attacked, Netherlands, Apeldoorn_
+_Context: parade, Netherlands, Queen's Day, attacked, Apeldoorn_
 
 ##### India
 ### [ The third round of India's general election takes place. ](/news/2009/04/30/the-third-round-of-india-s-general-election-takes-place.md)
@@ -21,19 +21,19 @@ Polls have opened in the third round of India&#039;s month-long elections, with 
 
 ##### United Kingdom
 ### [ The United Kingdom ends combat operations in the Iraq War. ](/news/2009/04/30/the-united-kingdom-ends-combat-operations-in-the-iraq-war.md)
-_Context: Iraq War, military operation, Iraq, United Kingdom_
+_Context: Iraq, military operation, Iraq War, United Kingdom_
 
 ##### Colombian Army
 ### [ Eight National Army soldiers are killed during combat with the Revolutionary Armed Forces in Colombia. ](/news/2009/04/30/eight-national-army-soldiers-are-killed-during-combat-with-the-revolutionary-armed-forces-in-colombia.md)
-_Context: Revolutionary Armed Forces of Colombia, soldier, Colombia, internal conflict, Colombian Army_
+_Context: Colombian Army, Revolutionary Armed Forces of Colombia, internal conflict, soldier, Colombia_
 
 ##### killed
 ### [ Twelve people are killed at the State Oil Academy in Baku, Azerbaijan. ](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.md)
-_Context: State Oil Academy, Baku, killed, Azerbaijan_
+_Context: killed, Azerbaijan, State Oil Academy, Baku_
 
 ##### Helios Airways
 ### [ Helios Airways and four executives are charged with 119 counts of manslaughter over the crash of Flight 522 in 2005. ](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.md)
-_Context: indicted, Helios Airways, Flight 522, incidents, executives, manslaughter by gross negligence_
+_Context: manslaughter by gross negligence, Flight 522, executives, indicted, incidents, Helios Airways_
 
 ##### Italy
 ### [ The Italian cargo ship "Jolley Smeraldo" evades an attempted hijacking by Somali pirates. ](/news/2009/04/30/the-italian-cargo-ship-jolley-smeraldo-evades-an-attempted-hijacking-by-somali-pirates.md)
@@ -45,7 +45,7 @@ The first wave of slayings haunted Los Angeles in the mid-1970s. The killer slip
 
 ##### Souleymane Ndene Ndiaye
 ### [ Souleymane Ndene Ndiaye replaces Cheikh Hadjibou Soumare as Prime Minister of Senegal. ](/news/2009/04/30/souleymane-nda-c-na-c-ndiaye-replaces-cheikh-hadjibou-soumara-c-as-prime-minister-of-senegal.md)
-_Context: Cheikh Hadjibou Soumare, Souleymane Ndene Ndiaye, Senegal, Prime Minister of Senegal_
+_Context: Prime Minister of Senegal, Cheikh Hadjibou Soumare, Souleymane Ndene Ndiaye, Senegal_
 
 ## [Previous Day...](/news/2009/04/29/index.md)
 

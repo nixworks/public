@@ -29,19 +29,19 @@ _Context: Thailand, ivory trade_
 
 ##### Scotsman
 ### [Scottish Cardinal Keith O'Brien, who resigned last week due to allegations of sexual impropriety, admitted his past sexual misconduct and apologized for it. ](/news/2013/03/3/scottish-cardinal-keith-o-brien-who-resigned-last-week-due-to-allegations-of-sexual-impropriety-admitted-his-past-sexual-misconduct-and-ap.md)
-_Context: Scotsman, Cardinal, sexual abuse, Keith O'Brien_
+_Context: sexual abuse, Scotsman, Cardinal, Keith O'Brien_
 
 ##### pregnancy
 ### [While on the way to the hospital due to complications in a pregnancy, a young Ultra-Orthodox Hasidic Jewish couple from a Brooklyn enclave are killed in a hit-and-run; the baby was delivered prematurely by C-section but died the next day of its injuries. The car owner was arrested soon after; the driver was arrested days later after a search. ](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.md)
-_Context: pregnancy, Brooklyn, C-section, Hasidic Jewish_
+_Context: pregnancy, Hasidic Jewish, C-section, Brooklyn_
 
 ##### Swiss referendum, 2013
 ### [Swiss referendum, 2013: Voters in Switzerland pass measures limiting CEO pay and outlawing golden parachutes. ](/news/2013/03/3/swiss-referendum-2013-voters-in-switzerland-pass-measures-limiting-ceo-pay-and-outlawing-golden-parachutes.md)
-_Context: CEO, measures, Swiss referendum, 2013, Switzerland, golden parachutes_
+_Context: CEO, Swiss referendum, 2013, measures, golden parachutes, Switzerland_
 
 ##### SpaceX CRS-2
 ### [SpaceX CRS-2: The cargo ship SpaceX Dragon docks at the International Space Station after a brief delay. ](/news/2013/03/3/spacex-crs-2-the-cargo-ship-spacex-dragon-docks-at-the-international-space-station-after-a-brief-delay.md)
-_Context: Dragon, SpaceX, SpaceX CRS-2, International Space Station_
+_Context: International Space Station, SpaceX CRS-2, Dragon, SpaceX_
 
 ##### NASA
 ### [NASA's Curiosity rover is switched to a redundant onboard computer in response to an undefined memory issue on the active computer. ](/news/2013/03/3/nasa-s-curiosity-rover-is-switched-to-a-redundant-onboard-computer-in-response-to-an-undefined-memory-issue-on-the-active-computer.md)

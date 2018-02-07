@@ -9,11 +9,11 @@ The 17-year-old daughter of Republican vice presidential candidate Sarah Palin i
 
 ##### Military of the United States
 ### [ The U.S. military hands control of Al Anbar Governorate over to the Iraqi government. ](/news/2008/09/1/the-u-s-military-hands-control-of-al-anbar-governorate-over-to-the-iraqi-government.md)
-_Context: Military of the United States, Iraq, Anbar province_
+_Context: Anbar province, Iraq, Military of the United States_
 
 ##### ACLU
 ### [ An ACLU lawsuit challenges gag orders in National Security Letters. ](/news/2008/09/1/an-aclu-lawsuit-challenges-gag-orders-in-national-security-letters.md)
-_Context: gag order, National Security Letter, ACLU_
+_Context: National Security Letter, gag order, ACLU_
 
 ##### Tropical Storm Hanna
 ### [ Tropical Storm Hanna becomes Hurricane Hanna (2008) with hurricane warnings issued for the Bahamas and the Turks and Caicos. ](/news/2008/09/1/tropical-storm-hanna-becomes-hurricane-hanna-2008-with-hurricane-warnings-issued-for-the-bahamas-and-the-turks-and-caicos.md)
@@ -21,11 +21,11 @@ Tropical Storm Hanna knocked out power to the southern Bahamas on Wednesday and 
 
 ##### European Union
 ### [ The European Union suspends talks on a new partnership agreement with Moscow until Russian troops have withdrawn from Georgia. ](/news/2008/09/1/the-european-union-suspends-talks-on-a-new-partnership-agreement-with-moscow-until-russian-troops-have-withdrawn-from-georgia.md)
-_Context: European Union, Moscow,  Georgian_
+_Context:  Georgian, Moscow, European Union_
 
 ##### Japan
 ### [ Japanese Prime Minister Yasuo Fukuda abruptly resigns less than a year after taking office, triggering a leadership election. ](/news/2008/09/1/japanese-prime-minister-yasuo-fukuda-abruptly-resigns-less-than-a-year-after-taking-office-triggering-a-leadership-election.md)
-_Context: Japan, Yasuo Fukuda, Liberal Democratic Party (Japan) leadership election, 2008_
+_Context: Yasuo Fukuda, Japan, Liberal Democratic Party (Japan) leadership election, 2008_
 
 ##### Government of Orissa
 ### [ A Government of Orissa report states 558 houses and 17 places of worship were burnt in the 2008 Orissa violence. ](/news/2008/09/1/a-government-of-orissa-report-states-558-houses-and-17-places-of-worship-were-burnt-in-the-2008-orissa-violence.md)

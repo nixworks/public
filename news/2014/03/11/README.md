@@ -5,7 +5,7 @@ Formats: [HTML](2014/03/11/index.html)  [JSON](2014/03/11/index.json)  [XML](201
 
 ##### Kabul
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Nils Horner, Afghanistan, Swedish Radio, Kabul_
+_Context: Kabul, Swedish Radio, Afghanistan, Nils Horner_
 
 ##### Maoist
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
@@ -43,7 +43,7 @@ _Context: Spratly Islands, Chinese Coast Guard_
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 ##### Caribbean
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: Atlantic slave trade, United Kingdom, Netherlands, France, Caribbean_
+_Context: Caribbean, Netherlands, France, United Kingdom, Atlantic slave trade_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)

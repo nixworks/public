@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/14/index.html)  [JSON](2009/02/14/index.json)  [XML](200
 
 ##### oil spill
 ### [ An oil spill occurs in the Celtic Sea near County Cork, Ireland. ](/news/2009/02/14/an-oil-spill-occurs-in-the-celtic-sea-near-county-cork-ireland.md)
-_Context: Celtic Sea, Cork, oil spill, Irish_
+_Context: Celtic Sea, Cork, Irish, oil spill_
 
 ##### Peru
 ### [ Peruvian director Claudia Llosa's "The Milk of Sorrow" wins the Golden Bear at the 59th Berlin International Film Festival. ](/news/2009/02/14/peruvian-director-claudia-llosa-s-the-milk-of-sorrow-wins-the-golden-bear-at-the-59th-berlin-international-film-festival.md)
@@ -21,11 +21,11 @@ Ehud Olmert rules out truce with Hamas until seized Israeli soldier is freed.
 
 ##### Japan
 ### [ Japan's National Astronomical Observatory completes the first topographic map of the Moon. ](/news/2009/02/14/japan-s-national-astronomical-observatory-completes-the-first-topographic-map-of-the-moon.md)
-_Context: National Astronomical Observatory, Japan, topographic map, Moon_
+_Context: topographic map, Moon, National Astronomical Observatory, Japan_
 
 ##### Somalia
 ### [ Somali pirates release the Japanese oil tanker "Chemstar Venus" and its 23 crew members. ](/news/2009/02/14/somali-pirates-release-the-japanese-oil-tanker-chemstar-venus-and-its-23-crew-members.md)
-_Context: Japan, Somali pirates, ''Chemstar Venus'', oil tanker, Somalia_
+_Context: Somalia, Japan, ''Chemstar Venus'', oil tanker, Somali pirates_
 
 ## [Previous Day...](/news/2009/02/13/index.md)
 

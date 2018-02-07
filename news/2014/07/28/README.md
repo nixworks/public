@@ -13,7 +13,7 @@ _Context: Abu Sayyaf, Philippines_
 
 ##### National Oil Corp.
 ### [A huge fire at the National Oil Corp. depot started by a stray rocket threatens the Libyan capital Tripoli. ](/news/2014/07/28/a-huge-fire-at-the-national-oil-corp-depot-started-by-a-stray-rocket-threatens-the-libyan-capital-tripoli.md)
-_Context: Tripoli, National Oil Corp., Libya_
+_Context: Libya, Tripoli, National Oil Corp._
 
 ##### United Nations Security Council
 ### [The United Nations Security Council calls for an immediate ceasefire but neither Israel nor Hamas agrees. ](/news/2014/07/28/the-united-nations-security-council-calls-for-an-immediate-ceasefire-but-neither-israel-nor-hamas-agrees.md)
@@ -21,7 +21,7 @@ Reporters are bullied, have equipment confiscated, barred from sensitive sites&#
 
 ##### discount store
 ### [American discount store chain Dollar Tree reaches an $8.5 billion deal to buy out rival Family Dollar. ](/news/2014/07/28/american-discount-store-chain-dollar-tree-reaches-an-8-5-billion-deal-to-buy-out-rival-family-dollar.md)
-_Context: Dollar Tree, Family Dollar, discount store_
+_Context: Family Dollar, discount store, Dollar Tree_
 
 ##### Permanent Court of Arbitration's
 ### [The Hague's Permanent Court of Arbitration says Russian officials have manipulated the legal system to bankrupt Russia's largest Yukos oil company, and jail its boss (Mikhail Khodorkovsky and others). Yukos was the object of a series of politically motivated attacks by the Russian authorities that eventually led to its destruction. The company's assets were illegally expropriated for the benefit of State companies Rosneft and Gazprom. The Yuganskneftegaz auction was illegal. The $50 billion awarded by the Hague's arbitration court against Russia is the largest arbitration award ever. ](/news/2014/07/28/the-hague-s-permanent-court-of-arbitration-says-russian-officials-have-manipulated-the-legal-system-to-bankrupt-russia-s-largest-yukos-oil-c.md)
@@ -37,7 +37,7 @@ REVERE — A rare tornado roared through this seaside city with terrifying force
 
 ##### US Marshals
 ### [Alleged child molester Charles Mozdir is shot and killed following a shootout in Manhattan that left 2 US Marshals and 1 police officer wounded after someone saw the recently aired segment involving Charles on "The Hunt With John Walsh" and gave a tip. ](/news/2014/07/28/alleged-child-molester-charles-mozdir-is-shot-and-killed-following-a-shootout-in-manhattan-that-left-2-us-marshals-and-1-police-officer-woun.md)
-_Context: The Hunt With John Walsh, US Marshals_
+_Context: US Marshals, The Hunt With John Walsh_
 
 ## [Previous Day...](/news/2014/07/27/index.md)
 

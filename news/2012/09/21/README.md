@@ -5,7 +5,7 @@ Formats: [HTML](2012/09/21/index.html)  [JSON](2012/09/21/index.json)  [XML](201
 
 ##### Australia
 ### [Australia temporarily closes its High Commission in the Pakistani capital Islamabad. It says it fears violent protests aimed at Western countries as a result of recent controversies. ](/news/2012/09/21/australia-temporarily-closes-its-high-commission-in-the-pakistani-capital-islamabad-it-says-it-fears-violent-protests-aimed-at-western-coun.md)
-_Context: Pakistan, attacks and protests, Islamabad, Australia, embassies_
+_Context: embassies, Australia, Pakistan, Islamabad, attacks and protests_
 
 ##### South Africa
 ### [Authorities in South Africa issue a warrant for the arrest of Julius Malema on charges of corruption. ](/news/2012/09/21/authorities-in-south-africa-issue-a-warrant-for-the-arrest-of-julius-malema-on-charges-of-corruption.md)
@@ -21,11 +21,11 @@ _Context: Benghazi, Ansar al-Sharia, Libya_
 
 ##### Harvard Theological Review
 ### ["Harvard Theological Review" does not yet publish a study that claims a papyrus bears testimony that Jesus of Nazareth used the word(s) "my wife". ](/news/2012/09/21/harvard-theological-review-does-not-yet-publish-a-study-that-claims-a-papyrus-bears-testimony-that-jesus-of-nazareth-used-the-word-s-my.md)
-_Context: my wife, Harvard Theological Review, Jesus of Nazareth_
+_Context: Harvard Theological Review, Jesus of Nazareth, my wife_
 
 ##### University of Cambridge
 ### [A researcher at the University of Cambridge predicts that in about four years, the Arctic polar ice cap will melt completely during the summer months. ](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.md)
-_Context: North Pole, University of Cambridge, polar ice cap_
+_Context: polar ice cap, University of Cambridge, North Pole_
 
 ## [Previous Day...](/news/2012/09/20/index.md)
 

@@ -5,11 +5,11 @@ Formats: [HTML](2016/03/1/index.html)  [JSON](2016/03/1/index.json)  [XML](2016/
 
 ##### War in Donbass
 ### [Three soldiers are killed and two others are injured after a Ukrainian military truck was blown up in the eastern part of Luhansk Oblast. ](/news/2016/03/1/three-soldiers-are-killed-and-two-others-are-injured-after-a-ukrainian-military-truck-was-blown-up-in-the-eastern-part-of-luhansk-oblast.md)
-_Context: War in Donbass, Ukrainian military, Luhansk Oblast_
+_Context: War in Donbass, Luhansk Oblast, Ukrainian military_
 
 ##### Iraqi Civil War (2014-present)
 ### [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md)
-_Context: ISIL, U.S. airstrikes, Iraqi Civil War (2014-present), Delta Force, Iraq, United States soldier, United States_
+_Context: Iraqi Civil War (2014-present), Delta Force, United States, Iraq, U.S. airstrikes, ISIL, United States soldier_
 
 ##### Israeli-Palestinian conflict
 ### [Faulty readings from a GPS system apparently resulted in two Israeli soldiers driving into the Qalandiya refugee camp in the occupied West Bank. Israeli forces sent in on a rescue mission, engaged armed Palestinians. One 22-year-old Palestinian man was killed with 10 others wounded, one seriously, in the ensuing gun battle. At least 10 Israeli soldiers were wounded. ](/news/2016/03/1/faulty-readings-from-a-gps-system-apparently-resulted-in-two-israeli-soldiers-driving-into-the-qalandiya-refugee-camp-in-the-occupied-west-b.md)
@@ -29,7 +29,7 @@ Dozens of residents in western New York town were evacuated from their homes ear
 
 ##### Zika virus outbreak (2015-present)
 ### [The first Zika virus case is confirmed in the U.S. state of New Hampshire. ](/news/2016/03/1/the-first-zika-virus-case-is-confirmed-in-the-u-s-state-of-new-hampshire.md)
-_Context: Zika virus outbreak (2015-present), Zika virus, United States, New Hampshire_
+_Context: United States, New Hampshire, Zika virus, Zika virus outbreak (2015-present)_
 
 ##### nuclear test
 ### [The United Nations Security Council vote on the United States-China draft resolution on North Korea is rescheduled to 10:00 a.m. EST Wednesday. Russia requests more time to review the text. ](/news/2016/03/1/the-united-nations-security-council-vote-on-the-united-states-china-draft-resolution-on-north-korea-is-rescheduled-to-10-00-a-m-est-wednesd.md)
@@ -45,7 +45,7 @@ The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a
 
 ##### South China Sea disputes
 ### [Filipino fishermen say China has deployed up to five ships around the disputed Quirino Atoll, also known as Jackson Atoll, in the South China Sea, preventing them from accessing traditional fishing grounds. ](/news/2016/03/1/filipino-fishermen-say-china-has-deployed-up-to-five-ships-around-the-disputed-quirino-atoll-also-known-as-jackson-atoll-in-the-south-chin.md)
-_Context: South China Sea, Philippines, South China Sea disputes, China_
+_Context: China, South China Sea, Philippines, South China Sea disputes_
 
 ##### grand jury
 ### [A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. ](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-reports-that-hundreds-of-children-were-sexually-abused-by-about-50-priests-in-the-altoona-joh.md)
@@ -69,7 +69,7 @@ Hour-by-hour news, analysis, exit polls and results throughout the day of the co
 
 ##### Corruption in South Africa
 ### [President Jacob Zuma survives a no-confidence vote in the South African Parliament in response to corruption allegations against him. ](/news/2016/03/1/president-jacob-zuma-survives-a-no-confidence-vote-in-the-south-african-parliament-in-response-to-corruption-allegations-against-him.md)
-_Context: Jacob Zuma, Parliament, President, Corruption in South Africa_
+_Context: Corruption in South Africa, Parliament, President, Jacob Zuma_
 
 ##### Irish general election, 2016
 ### [Prime Minister Enda Kenny, who rejected suggestions he should resign, says he will "fully and inclusively" engage with other parties, groups and Independents, including Fianna Fail, as he forms the country's government. Sinn Fein says it is not interested in forming a coalition government with Kenny's Fine Gael party. ](/news/2016/03/1/prime-minister-enda-kenny-who-rejected-suggestions-he-should-resign-says-he-will-fully-and-inclusively-engage-with-other-parties-groups.md)
@@ -81,7 +81,7 @@ US astronaut Scott Kelly and Russian cosmonaut Mikhail Kornienko touch down safe
 
 ##### Association for Computing Machinery
 ### [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.md)
-_Context: Association for Computing Machinery, digital signature, Whitfield Diffie, 2016 A.M. Turing Award, computer security, Martin Hellman, public-key cryptography_
+_Context: digital signature, Association for Computing Machinery, Martin Hellman, public-key cryptography, 2016 A.M. Turing Award, Whitfield Diffie, computer security_
 
 ## [Previous Day...](/news/2016/02/29/index.md)
 

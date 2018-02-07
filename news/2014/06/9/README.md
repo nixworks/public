@@ -29,7 +29,7 @@ Six dancers from the Cuban National Ballet have arrived in Miami, after they def
 
 ##### Merck & Co.
 ### [Merck & Co. agrees to buy Idenix Pharmaceuticals for US$3.85 billion. ](/news/2014/06/9/merck-co-agrees-to-buy-idenix-pharmaceuticals-for-us-3-85-billion.md)
-_Context: Merck & Co., $_
+_Context: $, Merck & Co._
 
 ##### Tyson Foods Incorporated
 ### [American multinational food corporation Tyson Foods agrees to buy Hillshire Brands for US$7.7 billion. ](/news/2014/06/9/american-multinational-food-corporation-tyson-foods-agrees-to-buy-hillshire-brands-for-us-7-7-billion.md)
@@ -41,7 +41,7 @@ Tyson Foods Inc., the largest U.S. meat company, raised its offer for Hillshire 
 
 ##### Nguyen Duc Kien
 ### [Vietnamese banking tycoon Nguyen Duc Kien is sentenced to 30 years in prison in Vietnam on charges of tax evasion, violating state economic regulations, fraud, and running an illegal business. ](/news/2014/06/9/vietnamese-banking-tycoon-nguyen-duc-kien-is-sentenced-to-30-years-in-prison-in-vietnam-on-charges-of-tax-evasion-violating-state-economic.md)
-_Context: Nguyen Duc Kien, Vietnam_
+_Context: Vietnam, Nguyen Duc Kien_
 
 ##### Russia
 ### [A Russian court in Moscow sentences five men to prison for the 2006 assassination of journalist Anna Politkovskaya. ](/news/2014/06/9/a-russian-court-in-moscow-sentences-five-men-to-prison-for-the-2006-assassination-of-journalist-anna-politkovskaya.md)

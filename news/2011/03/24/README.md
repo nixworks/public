@@ -25,11 +25,11 @@ The European Commission has been hit by one of the most serious cyberattacks eve
 
 ##### Colombia
 ### [Army forces in Colombia kill 10 FARC rebels in western Choco department. ](/news/2011/03/24/army-forces-in-colombia-kill-10-farc-rebels-in-western-choca3-department.md)
-_Context: Colombia, Choco, Revolutionary Armed Forces of Colombia_
+_Context: Colombia, Revolutionary Armed Forces of Colombia, Choco_
 
 ##### US Census Bureau headquarters
 ### [The United States Census Bureau confirms that New York City is the largest city in the US with 8,175,133 residents at the time of the 2010 United States Census on April 1. ](/news/2011/03/24/the-united-states-census-bureau-confirms-that-new-york-city-is-the-largest-city-in-the-us-with-8-175-133-residents-at-the-time-of-the-2010-u.md)
-_Context: US Census Bureau headquarters, largest city in the US, 2010 Census, New York City_
+_Context: 2010 Census, largest city in the US, US Census Bureau headquarters, New York City_
 
 ##### U.S.
 ### [A U.S. federal district court in Delaware rules in favor of Cephalon, a phamaceutical company, in a patent infringement lawsuit it had brought against a manufacturer of generic drugs. ](/news/2011/03/24/a-u-s-federal-district-court-in-delaware-rules-in-favor-of-cephalon-a-phamaceutical-company-in-a-patent-infringement-lawsuit-it-had-broug.md)
@@ -37,7 +37,7 @@ A U.S. Court upheld aCephalon Inc CEPH.O patent protecting its Fentora painmedic
 
 ##### Africa Carbon Exchange
 ### [The Africa Carbon Exchange, Africa's first carbon exchange which will trade in carbon credits a form of carbon pricing, opens in Kenya. ](/news/2011/03/24/the-africa-carbon-exchange-africa-s-first-carbon-exchange-which-will-trade-in-carbon-credits-a-form-of-carbon-pricing-opens-in-kenya.md)
-_Context: Africa, exchange, Africa Carbon Exchange, carbon pricing, Kenya, carbon credits_
+_Context: exchange, Africa, carbon credits, Kenya, carbon pricing, Africa Carbon Exchange_
 
 ##### Burma
 ### [Two large earthquakes are recorded in northeastern Burma near the borders with Laos and Thailand, killing at least two people. ](/news/2011/03/24/two-large-earthquakes-are-recorded-in-northeastern-burma-near-the-borders-with-laos-and-thailand-killing-at-least-two-people.md)
@@ -53,7 +53,7 @@ Singapore reports finding low levels of radioactivity in vegetables from Japan a
 
 ##### United Nations
 ### [The United Nations claims that six million North Koreans need international food assistance. ](/news/2011/03/24/the-united-nations-claims-that-six-million-north-koreans-need-international-food-assistance.md)
-_Context: United Nations, North Korea_
+_Context: North Korea, United Nations_
 
 ##### U.S. Arms Export Control Act
 ### [Lian Yang, a US citizen, pleads guilty to conspiring to violate the Arms Export Control Act by trying to sell radiation-hardened" military and aerospace technology to the People's Republic of China. ](/news/2011/03/24/lian-yang-a-us-citizen-pleads-guilty-to-conspiring-to-violate-the-arms-export-control-act-by-trying-to-sell-radiation-hardened-military-a.md)
@@ -69,7 +69,7 @@ _Context: Oxfordshire, Sian O'Callaghan, Wiltshire, Swindon_
 
 ##### two girls
 ### [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md)
-_Context: Bavaria, two girls, German, Krailling_
+_Context: Krailling, German, two girls, Bavaria_
 
 ##### 
 ### [European Council ](/news/2011/03/24/european-council.md)
@@ -79,7 +79,7 @@ Irish billionaire businessman Denis O&#039;Brien and a former Irish government m
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md)
-_Context: Australian Prime Minister, Australia, Bono, iPod, Julia Gillard_
+_Context: iPod, Australia, Bono, Julia Gillard, Australian Prime Minister_
 
 ##### Governor of California
 ### [The Governor of the US state of California Jerry Brown signs off on billions of savings to the budget but acknowledges that billions more in savings or revenue increases need to be found to resolve the ongoing budget crisis. ](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.md)

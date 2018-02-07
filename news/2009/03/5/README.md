@@ -9,27 +9,27 @@ _Context: General Motors, annual report_
 
 ##### Philippines
 ### [ Philippine President Gloria Macapagal-Arroyo pardons the 10 remaining convicted murderers involved in the assassination of politician Benigno Aquino, Jr. ](/news/2009/03/5/philippine-president-gloria-macapagal-arroyo-pardons-the-10-remaining-convicted-murderers-involved-in-the-assassination-of-politician-benig.md)
-_Context: President, assassination, murder, convicted, Gloria Macapagal-Arroyo, politician, Philippines, Benigno Aquino, Jr., pardon_
+_Context: Benigno Aquino, Jr., Philippines, convicted, President, pardon, murder, politician, assassination, Gloria Macapagal-Arroyo_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao delivers the annual government work report as the 11th National People's Congress's second session begins. ](/news/2009/03/5/chinese-premier-wen-jiabao-delivers-the-annual-government-work-report-as-the-11th-national-people-s-congress-s-second-session-begins.md)
-_Context: parliament, Premier, China, National People's Congress, Wen Jiabao_
+_Context: Wen Jiabao, Premier, parliament, China, National People's Congress_
 
 ##### China
 ### [ China emphasizes domestic demand and targets 8% economic growth in 2009. ](/news/2009/03/5/china-emphasizes-domestic-demand-and-targets-8-economic-growth-in-2009.md)
-_Context: economic growth, output freeze, China, 2009_
+_Context: China, 2009, economic growth, output freeze_
 
 ##### Israel
 ### [ The Israel Police kill a Palestinian militant after he rammed a bulldozer into a squad car and a bus in a suspected terror attack in Jerusalem. ](/news/2009/03/5/the-israel-police-kill-a-palestinian-militant-after-he-rammed-a-bulldozer-into-a-squad-car-and-a-bus-in-a-suspected-terror-attack-in-jerusa.md)
-_Context: bulldozer, Jerusalem, Israel, Israeli police, squad car, terrorist, Palestinian, militant_
+_Context: militant, squad car, Palestinian, Jerusalem, Israel, Israeli police, terrorist, bulldozer_
 
 ##### Bank of England
 ### [ The Bank of England plans to create GBP75 billion for the United Kingdom's economy through quantitative easing. ](/news/2009/03/5/the-bank-of-england-plans-to-create-agbp75-billion-for-the-united-kingdom-s-economy-through-quantitative-easing.md)
-_Context: United Kingdom, Economy of the United Kingdom, Bank of England, GBP, quantitative easing_
+_Context: GBP, United Kingdom, Economy of the United Kingdom, Bank of England, quantitative easing_
 
 ##### Somalia
 ### [ Somali pirates release Egypt's MV "Blue Star". ](/news/2009/03/5/somali-pirates-release-egypt-s-mv-blue-star.md)
-_Context: Somalia, MV, Somali pirates, Egypt_
+_Context: Egypt, Somali pirates, MV, Somalia_
 
 ## [Previous Day...](/news/2009/03/4/index.md)
 

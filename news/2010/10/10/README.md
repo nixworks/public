@@ -17,15 +17,15 @@ Security forces deployed to protect gay-rights marchers clash with protesters, t
 
 ##### United States
 ### [The United States fires four missiles in Shewa district about 40 kilometres northeast of the region's main town of Miramshah, North Waziristan, Pakistan, killing seven and destroying two cars, as the country increases its attacks on the tribal area. ](/news/2010/10/10/the-united-states-fires-four-missiles-in-shewa-district-about-40-kilometres-northeast-of-the-region-s-main-town-of-miramshah-north-wazirist.md)
-_Context: Miramshah, Shewa, Pakistan, North Waziristan, United States_
+_Context: United States, Miramshah, North Waziristan, Pakistan, Shewa_
 
 ##### Communist Party of India-Marxist
 ### [2 Communist Party of India-Marxist (CPI-M) workers are shot dead by suspected Maoists at Balarampur in Maoist-hit Purulia district. ](/news/2010/10/10/2-communist-party-of-india-marxist-cpi-m-workers-are-shot-dead-by-suspected-maoists-at-balarampur-in-maoist-hit-purulia-district.md)
-_Context: Communist Party of India-Marxist, Purulia district, Maoist, Balarampur_
+_Context: Balarampur, Communist Party of India-Marxist, Maoist, Purulia district_
 
 ##### Iran
 ### [Works of art created by 30 celebrated Iranian artists go on sale at Bonhams auction house in Dubai. ](/news/2010/10/10/works-of-art-created-by-30-celebrated-iranian-artists-go-on-sale-at-bonhams-auction-house-in-dubai.md)
-_Context: Iran, Dubai, Bonhams_
+_Context: Bonhams, Dubai, Iran_
 
 ##### Nelson Mandela
 ### [Nelson Mandela's letters, written during his 27-year spell in jail, reveal new details of the agony he suffered in South Africa under apartheid. ](/news/2010/10/10/nelson-mandela-s-letters-written-during-his-27-year-spell-in-jail-reveal-new-details-of-the-agony-he-suffered-in-south-africa-under-aparth.md)
@@ -45,7 +45,7 @@ More than 39,000 couples have chosen Sunday as their wedding day, figuring that 
 
 ##### United States
 ### [U.S. soul singer Solomon Burke dies at Amsterdam's Airport Schiphol. ](/news/2010/10/10/u-s-soul-singer-solomon-burke-dies-at-amsterdam-s-airport-schiphol.md)
-_Context: Amsterdam Airport Schiphol, soul music, United States, Amsterdam, Solomon Burke_
+_Context: Amsterdam, Solomon Burke, Amsterdam Airport Schiphol, United States, soul music_
 
 ##### Simpang Ampat
 ### [12 people die and 73 are injured when two express buses, a van and three cars collide at Km 223, Plus Highway near the Simpang Ampat toll in Negri Sembilan, Malaysia. ](/news/2010/10/10/12-people-die-and-73-are-injured-when-two-express-buses-a-van-and-three-cars-collide-at-km-223-plus-highway-near-the-simpang-ampat-toll-in.md)
@@ -65,7 +65,7 @@ Hungarian workers are building an emergency dam amid fears a wall at a huge indu
 
 ##### Ganges River
 ### [At least 36 people die after an overloaded boat capsizes on the Ganges River in the Buxar district of India's Bihar state. ](/news/2010/10/10/at-least-36-people-die-after-an-overloaded-boat-capsizes-on-the-ganges-river-in-the-buxar-district-of-india-s-bihar-state.md)
-_Context: India, Buxar district, Bihar state, Ganges River_
+_Context: Bihar state, Buxar district, Ganges River, India_
 
 ##### China
 ### [20 people are reported arrested in China over imprisoned human rights activist Liu Xiaobo's 2010 Nobel Peace Prize award. Liu's wife's whereabouts remain unknown after she was taken away by police with human rights group Freedom Now claiming she is in de facto house arrest. ](/news/2010/10/10/20-people-are-reported-arrested-in-china-over-imprisoned-human-rights-activist-liu-xiaobo-s-2010-nobel-peace-prize-award-liu-s-wife-s-where.md)
@@ -89,11 +89,11 @@ _Context: Vstberga helicopter robbery, Sweden_
 
 ##### Bonaire
 ### [Bonaire, Saba and Sint Eustatius become special municipalities of the Netherlands. ](/news/2010/10/10/bonaire-saba-and-sint-eustatius-become-special-municipalities-of-the-netherlands.md)
-_Context: Bonaire, Sint Eustatius, Netherlands, Saba_
+_Context: Sint Eustatius, Saba, Netherlands, Bonaire_
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir accuses authorities in Southern Sudan of breaching a peace deal and warns of a possible new conflict if issues are not resolved before the independence referendum. ](/news/2010/10/10/sudanese-president-omar-al-bashir-accuses-authorities-in-southern-sudan-of-breaching-a-peace-deal-and-warns-of-a-possible-new-conflict-if-is.md)
-_Context: Sudanese President, Southern Sudanese Independence Referendum, Southern Sudan, Sudan, Omar al-Bashir_
+_Context: Southern Sudanese Independence Referendum, Omar al-Bashir, Sudanese President, Southern Sudan, Sudan_
 
 ##### Havana
 ### [Havana's Roman Catholic Church says Cuba is to release 3 more political prisoners who will be allowed leave for Spain. ](/news/2010/10/10/havana-s-roman-catholic-church-says-cuba-is-to-release-3-more-political-prisoners-who-will-be-allowed-leave-for-spain.md)
@@ -109,11 +109,11 @@ North Korean television for the first time shows live pictures of leader Kim Jon
 
 ##### North Korea
 ### [Prominent North Korean defector Hwang Jang-yop is found dead in Seoul, South Korea. ](/news/2010/10/10/prominent-north-korean-defector-hwang-jang-yop-is-found-dead-in-seoul-south-korea.md)
-_Context: Hwang Jang-yop, North Korea, South Korea, Seoul_
+_Context: North Korea, Seoul, South Korea, Hwang Jang-yop_
 
 ##### Kyrgyzstan
 ### [Voters in Kyrgyzstan go to the polls for a parliamentary election amid concerns about a possible renewal of tensions between ethnic groups. With 50 percent of the vote counted, the Ata-Zhurt party has received the most votes so far but no party is close to achieving a majority. ](/news/2010/10/10/voters-in-kyrgyzstan-go-to-the-polls-for-a-parliamentary-election-amid-concerns-about-a-possible-renewal-of-tensions-between-ethnic-groups.md)
-_Context: Kyrgyzstani parliamentary election, Kyrgyzstan, Ata-Zhurt_
+_Context: Ata-Zhurt, Kyrgyzstani parliamentary election, Kyrgyzstan_
 
 ##### 10:10
 ### [10:10 and 350.org's "Global Work Party: a day of positive action on climate change" attracts a wide range of events in over 180 countries. ](/news/2010/10/10/10-10-and-350-org-s-global-work-party-a-day-of-positive-action-on-climate-change-attracts-a-wide-range-of-events-in-over-180-countries.md)

@@ -17,7 +17,7 @@ A strong storm killed eight people and injured at least 67 in western Romania on
 
 ##### Atlantic hurricanes
 ### [Hurricane Maria has been upgraded from a tropical storm to a Category 1 hurricane. Hurricane watches and warnings have been issued in parts of the Caribbean. It is following a path similar to Category 5 Hurricane Irma which left at least 82 dead. ](/news/2017/09/17/hurricane-maria-has-been-upgraded-from-a-tropical-storm-to-a-category-1-hurricane-hurricane-watches-and-warnings-have-been-issued-in-parts.md)
-_Context: Atlantic hurricanes, Hurricane Maria, Hurricane Irma_
+_Context: Hurricane Maria, Atlantic hurricanes, Hurricane Irma_
 
 ##### Crime in France
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after a "direct threat" was made against it. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-a-direct-threat-was-made-against-it-after-a-search-it-i.md)
@@ -29,7 +29,7 @@ Long queues form outside polling stations to vote in the seat vacated by former 
 
 ##### Macanese legislative election
 ### [Voters in Macau vote for a new Legislative Assembly. ](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md)
-_Context: Macau, Legislative Assembly, Macanese legislative election_
+_Context: Macanese legislative election, Legislative Assembly, Macau_
 
 ##### Next Japanese general election
 ### [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md)

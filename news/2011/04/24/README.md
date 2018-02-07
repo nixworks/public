@@ -13,7 +13,7 @@ At least 57 people have been killed in fighting between government forces and a 
 
 ##### NATO
 ### [NATO fires on Iranian fishermen, wounding them and killing some civilians. ](/news/2011/04/24/nato-fires-on-iranian-fishermen-wounding-them-and-killing-some-civilians.md)
-_Context: Iranian, NATO_
+_Context: NATO, Iranian_
 
 ##### Easter
 ### [At least 4 people are wounded at the entrance of a Catholic church after Easter Mass in Baghdad. ](/news/2011/04/24/at-least-4-people-are-wounded-at-the-entrance-of-a-catholic-church-after-easter-mass-in-baghdad.md)
@@ -45,7 +45,7 @@ Landslides and floods triggered by torrential rain have killed at least 10 peopl
 
 ##### Sulawesi island
 ### [A magnitude 6.2 earthquake hits southeastern Sulawesi in Indonesia. ](/news/2011/04/24/a-magnitude-6-2-earthquake-hits-southeastern-sulawesi-in-indonesia.md)
-_Context: Indonesia, Sulawesi island_
+_Context: Sulawesi island, Indonesia_
 
 ##### Red River of the North
 ### [Flooding on the Red River of the North forces the evacuation of the Roseau River Anishinabe First Nation community in Manitoba. ](/news/2011/04/24/flooding-on-the-red-river-of-the-north-forces-the-evacuation-of-the-roseau-river-anishinabe-first-nation-community-in-manitoba.md)

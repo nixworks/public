@@ -17,11 +17,11 @@ _Context: English Premier League, Manchester United, 2008-09 season_
 
 ##### Gulf Cartel
 ### [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md)
-_Context: prison, drug cartel, escape, Mexico, Gulf Cartel, Zacatecas_
+_Context: Zacatecas, Gulf Cartel, Mexico, prison, escape, drug cartel_
 
 ##### House of Representatives
 ### [ Representative Yukio Hatoyama becomes the President of Japan's Democratic Party. ](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.md)
-_Context: President, House of Representatives, Yukio Hatoyama, Democratic Party, Japan_
+_Context: House of Representatives, Yukio Hatoyama, Japan, Democratic Party, President_
 
 ##### Bharatiya Janata Party
 ### [ The People's Party concedes to the United Progressive Alliance in India's general election. ](/news/2009/05/16/the-people-s-party-concedes-to-the-united-progressive-alliance-in-india-s-general-election.md)
@@ -29,11 +29,11 @@ India&#039;s main opposition has admitted defeat as counting shows the ruling Co
 
 ##### Niger Delta
 ### [ The Niger Delta Emancipation Movement claims that Nigeria's military killed one of its hostages during an operation. ](/news/2009/05/16/the-niger-delta-emancipation-movement-claims-that-nigeria-s-military-killed-one-of-its-hostages-during-an-operation.md)
-_Context: Military, hostage, Conflict in the Niger Delta, Niger Delta, Movement for the Emancipation of the Niger Delta, Nigeria_
+_Context: Military, Movement for the Emancipation of the Niger Delta, Niger Delta, Conflict in the Niger Delta, hostage, Nigeria_
 
 ##### car bomb
 ### [ A car bomb kills at least 11 people and injures 25 others in Peshawar, Pakistan. ](/news/2009/05/16/a-car-bomb-kills-at-least-11-people-and-injures-25-others-in-peshawar-pakistan.md)
-_Context: Peshawar, Pakistan, car bomb, War in North-West Pakistan_
+_Context: car bomb, Pakistan, Peshawar, War in North-West Pakistan_
 
 ##### President of Sri Lanka
 ### [ President Mahinda Rajapaksa says that Sri Lanka has "militarily defeated the Tamil Tigers". ](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.md)
@@ -41,11 +41,11 @@ Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their c
 
 ##### United Kingdom
 ### [ The United Kingdom's Royal Air Force ends its involvement in Iraq. ](/news/2009/05/16/the-united-kingdom-s-royal-air-force-ends-its-involvement-in-iraq.md)
-_Context: Royal Air Force, Iraq, United Kingdom_
+_Context: Iraq, United Kingdom, Royal Air Force_
 
 ##### acid
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
-_Context: acid, acid attack, acid attack, China, Hong Kong_
+_Context: China, acid, acid attack, Hong Kong, acid attack_
 
 ##### demonstration
 ### [ Thousands of demonstrators protest unemployment in Berlin, Germany. ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)
@@ -53,7 +53,7 @@ Thousands of German workers marched through Berlin today to demand the governmen
 
 ##### India
 ### [ India and Turkey confirm their first cases of (A)H1N1 influenza. ](/news/2009/05/16/india-and-turkey-confirm-their-first-cases-of-a-h1n1-influenza.md)
-_Context: India, swine flu, current outbreak, H1N1, Turkey_
+_Context: Turkey, H1N1, India, swine flu, current outbreak_
 
 ## [Previous Day...](/news/2009/05/15/index.md)
 

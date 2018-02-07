@@ -29,7 +29,7 @@ The DOJ told a federal court Thursday that there&#x27;s no point in further cour
 
 ##### Philippine presidential election, 2016
 ### [The Supreme Court of the Philippines allows the electoral protest of defeated candidate Bongbong Marcos against Philippine vice president Leni Robredo to continue. ](/news/2017/02/16/the-supreme-court-of-the-philippines-allows-the-electoral-protest-of-defeated-candidate-bongbong-marcos-against-philippine-vice-president-le.md)
-_Context: Philippine presidential election, 2016, Bongbong Marcos, Philippines, Leni Robredo, Supreme Court of the Philippines_
+_Context: Philippine presidential election, 2016, Philippines, Supreme Court of the Philippines, Leni Robredo, Bongbong Marcos_
 
 ##### United Nations
 ### [United Nations officials announce the creation of a new team in Geneva to investigate possible war crimes, crimes against humanity and genocide during the Syrian Civil War in order to prepare for future prosecutions of those responsible. ](/news/2017/02/16/united-nations-officials-announce-the-creation-of-a-new-team-in-geneva-to-investigate-possible-war-crimes-crimes-against-humanity-and-genoc.md)
@@ -37,11 +37,11 @@ Geneva-based team will investigate ‘abuses that amount to international crimes
 
 ##### Formation of Donald Trump's cabinet
 ### [U.S. President Donald Trump names Florida International University College of Law Dean and former National Labor Relations Board member Alexander Acosta to be Secretary of Labor. The President's initial nominee, Andy Puzder, withdrew his nomination yesterday. ](/news/2017/02/16/u-s-president-donald-trump-names-florida-international-university-college-of-law-dean-and-former-national-labor-relations-board-member-alex.md)
-_Context: Alexander Acosta, United States Secretary of Labor, Florida International University College of Law, Formation of Donald Trump's cabinet, U.S. President, Donald Trump, Andy Puzder, National Labor Relations Board_
+_Context: Formation of Donald Trump's cabinet, Donald Trump, United States Secretary of Labor, U.S. President, National Labor Relations Board, Andy Puzder, Alexander Acosta, Florida International University College of Law_
 
 ##### Political appointments of Donald Trump
 ### [The U.S. Senate confirms, 51-49, Congressman Mick Mulvaney to head the Office of Management and Budget. ](/news/2017/02/16/the-u-s-senate-confirms-51-49-congressman-mick-mulvaney-to-head-the-office-of-management-and-budget.md)
-_Context: Political appointments of Donald Trump, United States Senate, Office of Management and Budget, Mick Mulvaney_
+_Context: Mick Mulvaney, Office of Management and Budget, Political appointments of Donald Trump, United States Senate_
 
 ##### U.S. immigration suspension
 ### [Hundreds of restaurants and other businesses in U.S. cities close their doors after activists called on immigrants to stay home from work, avoid shopping or eating out, and skip classes Thursday for #ADayWithoutImmigrants, to protest the President's immigration reforms and highlight the immigrant community's contributions to the United States. ](/news/2017/02/16/hundreds-of-restaurants-and-other-businesses-in-u-s-cities-close-their-doors-after-activists-called-on-immigrants-to-stay-home-from-work-a.md)

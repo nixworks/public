@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/18/index.html)  [JSON](2012/12/18/index.json)  [XML](201
 
 ##### NBC News
 ### [NBC News Chief Foreign Correspondent Richard Engel and his production team are freed after 5 days of captivity in northern Syria. They were captured by what Engel claims were members of the shabiha, a plainclothes militia loyal to President Bashar al-Assad. Rebel forces at a checkpoint freed the men after a firefight that killed 2 of the captors. ](/news/2012/12/18/nbc-news-chief-foreign-correspondent-richard-engel-and-his-production-team-are-freed-after-5-days-of-captivity-in-northern-syria-they-were.md)
-_Context: Richard Engel, NBC News, shabiha, Bashar al-Assad, Syria_
+_Context: shabiha, Syria, Bashar al-Assad, Richard Engel, NBC News_
 
 ##### Seleka
 ### [A coalition of rebel groups called "Seleka" take over the Central African Republic mining town of Bria, killing at least 15 government soldiers. The group is spearheaded by UFDR forces and has already taken five towns in its two-week offensive, which it claims is because of a lack of progress after a peace deal ended the 2004-2007 Bush War. Following an appeal for help from President Francois Bozize, the President of Chad Idriss Deby sends 20 vehicles of heavily armed troops to help quell the rebellion. ](/news/2012/12/18/a-coalition-of-rebel-groups-called-seleka-take-over-the-central-african-republic-mining-town-of-bria-killing-at-least-15-government-soldi.md)
@@ -17,7 +17,7 @@ Gunmen in Pakistan have killed six health workers at the start of a nationwide p
 
 ##### Quentin Tarantino
 ### [The premiere of Quentin Tarantino's new movie "Django Unchained" is cancelled as a response to the Sandy Hook Elementary School shooting. ](/news/2012/12/18/the-premiere-of-quentin-tarantino-s-new-movie-django-unchained-is-cancelled-as-a-response-to-the-sandy-hook-elementary-school-shooting.md)
-_Context: Sandy Hook Elementary School shooting, Quentin Tarantino, Django Unchained_
+_Context: Django Unchained, Quentin Tarantino, Sandy Hook Elementary School shooting_
 
 ##### Palermo
 ### [Four people are killed and seven injured after an apartment block collapses in the center of Palermo in Italy. ](/news/2012/12/18/four-people-are-killed-and-seven-injured-after-an-apartment-block-collapses-in-the-center-of-palermo-in-italy.md)
@@ -29,7 +29,7 @@ Shanghai, China &#8211; Several people were reportedly injured when a shark tank
 
 ##### death of Savita Halappanavar
 ### [Following the recent death of Savita Halappanavar the Irish government is to introduce legislation to clarify the Republic of Ireland's abortion laws, giving doctors clear guidelines on procedures where the mother's life is at risk. ](/news/2012/12/18/following-the-recent-death-of-savita-halappanavar-the-irish-government-is-to-introduce-legislation-to-clarify-the-republic-of-ireland-s-abor.md)
-_Context: Irish, death of Savita Halappanavar, Government of Ireland, Abortion in the Republic of Ireland_
+_Context: Irish, death of Savita Halappanavar, Abortion in the Republic of Ireland, Government of Ireland_
 
 ##### High Court of England and Wales
 ### [The High Court of England and Wales rules that a seven-year-old boy with a brain tumour should undergo surgery against his mother's wishes. ](/news/2012/12/18/the-high-court-of-england-and-wales-rules-that-a-seven-year-old-boy-with-a-brain-tumour-should-undergo-surgery-against-his-mother-s-wishes.md)
@@ -37,7 +37,7 @@ _Context: High Court of England and Wales, brain tumour_
 
 ##### Richard Hickock
 ### [The bodies of Richard Hickock and Perry Smith, the murderers who were the subject of Truman Capote's non-fiction novel "In Cold Blood", are exhumed in the US state of Kansas to help solve a cold case in Florida from December 1959. ](/news/2012/12/18/the-bodies-of-richard-hickock-and-perry-smith-the-murderers-who-were-the-subject-of-truman-capote-s-non-fiction-novel-in-cold-blood-are.md)
-_Context: Richard Hickock, cold case, Perry Smith, non-fiction novel, Truman Capote, In Cold Blood, Kansas, the state_
+_Context: Truman Capote, the state, Kansas, non-fiction novel, Richard Hickock, In Cold Blood, cold case, Perry Smith_
 
 ##### Downing Street
 ### [A police officer's claim that he witnessed a conflict outside Downing Street involving former British Conservative Party chief whip Andrew Mitchell is being probed by the Independent Police Complaints Commission. CCTV footage of the incident also emerges, casting doubt on whether any witnesses were present at the time. ](/news/2012/12/18/a-police-officer-s-claim-that-he-witnessed-a-conflict-outside-downing-street-involving-former-british-conservative-party-chief-whip-andrew-m.md)
@@ -45,7 +45,7 @@ The police watchdog says it is to investigate whether an officer did witness a r
 
 ##### High Court of England and Wales
 ### [At the High Court of England and Wales, the BBC and ITV apologise to Lord McAlpine for "disastrously" and falsely linking him to allegations of child sex abuse. ](/news/2012/12/18/at-the-high-court-of-england-and-wales-the-bbc-and-itv-apologise-to-lord-mcalpine-for-disastrously-and-falsely-linking-him-to-allegations.md)
-_Context: ITV, BBC, High Court of England and Wales, Lord McAlpine_
+_Context: ITV, Lord McAlpine, BBC, High Court of England and Wales_
 
 ##### DR Congo
 ### [Former Congolese militia leader Mathieu Ngudjolo Chui is acquitted by the International Criminal Court of war crimes and crimes against humanity. ](/news/2012/12/18/former-congolese-militia-leader-mathieu-ngudjolo-chui-is-acquitted-by-the-international-criminal-court-of-war-crimes-and-crimes-against-huma.md)
@@ -61,7 +61,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### President of Iraq
 ### [The President of Iraq Jalal Talabani has a stroke with his condition reported as stable. ](/news/2012/12/18/the-president-of-iraq-jalal-talabani-has-a-stroke-with-his-condition-reported-as-stable.md)
-_Context: President of Iraq, Jalal Talabani_
+_Context: Jalal Talabani, President of Iraq_
 
 ##### United States Senate
 ### [Senator Patrick Leahy of Vermont is sworn in as the President pro tempore of the United States Senate, making him third in the United States presidential line of succession. ](/news/2012/12/18/senator-patrick-leahy-of-vermont-is-sworn-in-as-the-president-pro-tempore-of-the-united-states-senate-making-him-third-in-the-united-states.md)

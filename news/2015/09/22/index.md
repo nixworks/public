@@ -9,11 +9,11 @@ The leader of the Burkina Faso coup and the chief of the army were conducting la
 
 ##### Moro conflict
 ### [Filipino troops stage raids to attempt to free six overseas-born hostages held by Abu Sayyaf militants. ](/news/2015/09/22/filipino-troops-stage-raids-to-attempt-to-free-six-overseas-born-hostages-held-by-abu-sayyaf-militants.md)
-_Context: Moro conflict, Abu Sayyaf, Filipino troops_
+_Context: Abu Sayyaf, Filipino troops, Moro conflict_
 
 ##### Syrian Civil War
 ### [IHS Jane's reports satellite photos, taken in mid-September, show Russian forces developing two additional military facilities near Syria's Mediterranean coast. ](/news/2015/09/22/ihs-jane-s-reports-satellite-photos-taken-in-mid-september-show-russian-forces-developing-two-additional-military-facilities-near-syria-s.md)
-_Context: Russian Armed Forces, Russia's role in the Syrian Civil War, Syrian Civil War, military, IHS Jane's, Syria's Mediterranean coast_
+_Context: Russia's role in the Syrian Civil War, Syrian Civil War, Russian Armed Forces, IHS Jane's, military, Syria's Mediterranean coast_
 
 ##### Pope Francis%27 visit to the United States
 ### [Pope Francis arrives in the U.S. from his last stop in Cuba, Santiago de Cuba, at Joint Base Andrews (formerly, Andrews Air Force Base), near Washington D.C., to start his first tour of the United States. He is received by U.S. President Barack Obama, his wife, U.S. First Lady Michelle Obama, Malia and Sasha Obama, Marian Lois Robinson, U.S. Vice President Joseph R. Biden, his wife, U.S. Second Lady Dr. Jill Biden, two Biden granddaughters, the Apostolic Nuncio to the U.S. Archbishop Carlo Maria Vigano, military and base leaders, and Washington's Cardinal Donald Wuerl. He will be received tomorrow morning in a second arrival ceremony, at the White House, and will meet with the President there. ](/news/2015/09/22/pope-francis-arrives-in-the-u-s-from-his-last-stop-in-cuba-santiago-de-cuba-at-joint-base-andrews-formerly-andrews-air-force-base-nea.md)
@@ -29,7 +29,7 @@ It&#x27;s a figure that could be eclipsed by potential penalties and lawsuits fa
 
 ##### Xi Jinping
 ### [Xi Jinping begins his first visit to the United States as President of the People's Republic of China, meeting with technology company leaders and representatives in Seattle, Washington. ](/news/2015/09/22/xi-jinping-begins-his-first-visit-to-the-united-states-as-president-of-the-people-s-republic-of-china-meeting-with-technology-company-leade.md)
-_Context: technology company, Seattle, Washington, Xi Jinping, Chinese President, United States_
+_Context: Chinese President, technology company, Xi Jinping, Washington, United States, Seattle_
 
 ##### recent incident of hazes in 2015
 ### [The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. ](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-leaving-singapore-and-parts-of-indonesia-and-malaysia-covered-in-smog.md)
@@ -37,7 +37,7 @@ _Context: technology company, Seattle, Washington, Xi Jinping, Chinese President
 
 ##### 2015 California wildfires
 ### [The President of the United States Barack Obama signs a disaster declaration for the Valley Fire which has claimed three lives in Lake County, California. ](/news/2015/09/22/the-president-of-the-united-states-barack-obama-signs-a-disaster-declaration-for-the-valley-fire-which-has-claimed-three-lives-in-lake-count.md)
-_Context: Lake County, California, U.S. President, Barack Obama, 2015 California wildfires_
+_Context: U.S. President, 2015 California wildfires, Lake County, California, Barack Obama_
 
 ##### President
 ### [The President of Venezuela Nicolas Maduro and the President of Colombia Juan Manuel Santos agree to gradually reopen their common border which had been closed following a Venezuelan crackdown on smuggling. ](/news/2015/09/22/the-president-of-venezuela-nicola-s-maduro-and-the-president-of-colombia-juan-manuel-santos-agree-to-gradually-reopen-their-common-border-wh.md)
@@ -61,7 +61,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Angola
 ### [Angola joins the Chemical Weapons Convention becoming the 192nd state to join the convention aimed at eliminating the use of chemical weapons in armed conflict. ](/news/2015/09/22/angola-joins-the-chemical-weapons-convention-becoming-the-192nd-state-to-join-the-convention-aimed-at-eliminating-the-use-of-chemical-weapon.md)
-_Context: Angola, Chemical Weapons Convention, chemical agent_
+_Context: chemical agent, Angola, Chemical Weapons Convention_
 
 ## [Previous Day...](/news/2015/09/21/index.md)
 

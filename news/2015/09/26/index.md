@@ -5,11 +5,11 @@ Formats: [HTML](2015/09/26/index.html)  [JSON](2015/09/26/index.json)  [XML](201
 
 ##### Saudi-led intervention in Yemen
 ### [Two Saudi border guards, including a district commander, are killed following clashes with Yemeni forces near the border with Yemen. ](/news/2015/09/26/two-saudi-border-guards-including-a-district-commander-are-killed-following-clashes-with-yemeni-forces-near-the-border-with-yemen.md)
-_Context: Yemen, Saudi-led intervention in Yemen, border guards, Saudi Arabia_
+_Context: Saudi-led intervention in Yemen, Saudi Arabia, Yemen, border guards_
 
 ##### Nagorno-Karabakh conflict
 ### [At least four Armenian soldiers are killed following an Azeri attack near the disputed Nagorno-Karabakh region. Yesterday, Azerbaijan shelled several ethnic Armenian villages, leaving three civilians dead. ](/news/2015/09/26/at-least-four-armenian-soldiers-are-killed-following-an-azeri-attack-near-the-disputed-nagorno-karabakh-region-yesterday-azerbaijan-shelle.md)
-_Context: Armenia, Nagorno-Karabakh region, Azerbaijan, Nagorno-Karabakh conflict_
+_Context: Nagorno-Karabakh conflict, Nagorno-Karabakh region, Azerbaijan, Armenia_
 
 ##### Libya
 ### [A prominent Libyan Zuwarah militia leader and migrant smuggler, Salah Al-Maskhout, is reportedly killed in Tripoli by Italian special forces. The EU recently approved military action against people smuggling networks operating out of Libya. ](/news/2015/09/26/a-prominent-libyan-zuwarah-militia-leader-and-migrant-smuggler-salah-al-maskhout-is-reportedly-killed-in-tripoli-by-italian-special-forces.md)

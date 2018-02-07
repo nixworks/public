@@ -17,11 +17,11 @@ Egyptian police say they intercepted and killed two African migrants who were ap
 
 ##### Sri Lanka
 ### [Sri Lanka orders 161 foreign clerics from the Tablighi Jamaat movement to leave the country for breaking the terms of their tourist visas. ](/news/2012/01/22/sri-lanka-orders-161-foreign-clerics-from-the-tablighi-jamaat-movement-to-leave-the-country-for-breaking-the-terms-of-their-tourist-visas.md)
-_Context: Tablighi Jamaat, Sri Lanka_
+_Context: Sri Lanka, Tablighi Jamaat_
 
 ##### China
 ### [China reports the death of a second person this month to H5N1 bird flu. ](/news/2012/01/22/china-reports-the-death-of-a-second-person-this-month-to-h5n1-bird-flu.md)
-_Context: China, Influenza A virus subtype H5N1_
+_Context: Influenza A virus subtype H5N1, China_
 
 ##### Iran
 ### [At least 16 people drown after a passenger boat sinks off Iran's southern coast. ](/news/2012/01/22/at-least-16-people-drown-after-a-passenger-boat-sinks-off-iran-s-southern-coast.md)
@@ -33,7 +33,7 @@ _Context: Radovan Stankovic, Bosnia and Herzegovina, Bosnian Serb_
 
 ##### Madagascar
 ### [The party of former Madagascan President Marc Ravalomanana suspends its role in the unity government after the plane carrying him home from exile was turned away. ](/news/2012/01/22/the-party-of-former-madagascan-president-marc-ravalomanana-suspends-its-role-in-the-unity-government-after-the-plane-carrying-him-home-from.md)
-_Context: Madagascar, President, Marc Ravalomanana_
+_Context: Marc Ravalomanana, President, Madagascar_
 
 ##### referendum on EU accession
 ### [A referendum on EU accession takes place in Croatia, with 66% voting to join the EU, and 33% against. ](/news/2012/01/22/a-referendum-on-eu-accession-takes-place-in-croatia-with-66-voting-to-join-the-eu-and-33-against.md)
@@ -41,7 +41,7 @@ _Context: referendum on EU accession_
 
 ##### House of Representatives
 ### [Representative Gabrielle Giffords of Arizona announces her resignation from office to focus on her recovery after surviving an attempted assassination in 2011. ](/news/2012/01/22/representative-gabrielle-giffords-of-arizona-announces-her-resignation-from-office-to-focus-on-her-recovery-after-surviving-an-attempted-ass.md)
-_Context: House of Representatives, Gabrielle Giffords, Arizona, attempted assassination_
+_Context: attempted assassination, Gabrielle Giffords, House of Representatives, Arizona_
 
 ##### Finnish Presidential election
 ### [The first round of the Presidential election takes place in Finland. ](/news/2012/01/22/the-first-round-of-the-presidential-election-takes-place-in-finland.md)
@@ -49,7 +49,7 @@ _Context: Finnish Presidential election_
 
 ##### Yemen
 ### [Yemeni President Ali Abdullah Saleh announces that he is to leave for treatment in the United States. ](/news/2012/01/22/yemeni-president-ali-abdullah-saleh-announces-that-he-is-to-leave-for-treatment-in-the-united-states.md)
-_Context: United States, President, Yemen, Ali Abdullah Saleh_
+_Context: Yemen, President, United States, Ali Abdullah Saleh_
 
 ## [Previous Day...](/news/2012/01/21/index.md)
 

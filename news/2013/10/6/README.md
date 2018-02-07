@@ -25,7 +25,7 @@ _Context: migrant boat sinks_
 
 ##### motorcycle
 ### [One man is killed and 12 others are injured during a shooting at a motorcycle clubhouse in Fresno, California, U.S. ](/news/2013/10/6/one-man-is-killed-and-12-others-are-injured-during-a-shooting-at-a-motorcycle-clubhouse-in-fresno-california-u-s.md)
-_Context: California, motorcycle, Fresno_
+_Context: motorcycle, Fresno, California_
 
 ## [Previous Day...](/news/2013/10/5/index.md)
 

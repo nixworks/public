@@ -17,15 +17,15 @@ Fierce clashes between troops and rebels erupted on Thursday for the first time 
 
 ##### U.S.
 ### [U.S. jobless claims fall to their lowest level in five years. ](/news/2013/05/2/u-s-jobless-claims-fall-to-their-lowest-level-in-five-years.md)
-_Context: U.S., jobless claims_
+_Context: jobless claims, U.S._
 
 ##### Intel
 ### [Intel elects American Brian Krzanich as their new CEO. ](/news/2013/05/2/intel-elects-american-brian-krzanich-as-their-new-ceo.md)
-_Context: Intel, Americans, Brian Krzanich, CEO_
+_Context: Brian Krzanich, CEO, Intel, Americans_
 
 ##### gold mine
 ### [More than 60 miners die when a recently reopened gold mine collapses in Jebel Amir, North Darfur, Sudan. ](/news/2013/05/2/more-than-60-miners-die-when-a-recently-reopened-gold-mine-collapses-in-jebel-amir-north-darfur-sudan.md)
-_Context: North Darfur, gold mine, Sudan_
+_Context: gold mine, North Darfur, Sudan_
 
 ##### California
 ### [Hundreds of homes in California, U.S. are evacuated due to wildfires in the region. ](/news/2013/05/2/hundreds-of-homes-in-california-u-s-are-evacuated-due-to-wildfires-in-the-region.md)
@@ -45,7 +45,7 @@ The US calls on North Korea to grant amnesty to US citizen Kenneth Bae, sentence
 
 ##### Bush Intercontinental Airport
 ### [A man fires two shots into the ceiling of Bush Intercontinental Airport in Houston, Texas, United States with a rifle before killing himself. ](/news/2013/05/2/a-man-fires-two-shots-into-the-ceiling-of-bush-intercontinental-airport-in-houston-texas-united-states-with-a-rifle-before-killing-himself.md)
-_Context: Texas, Houston, Bush Intercontinental Airport, United States_
+_Context: United States, Bush Intercontinental Airport, Texas, Houston_
 
 ##### Maryland
 ### [The U.S. state of Maryland abolishes capital punishment for future offenders. ](/news/2013/05/2/the-u-s-state-of-maryland-abolishes-capital-punishment-for-future-offenders.md)
@@ -85,7 +85,7 @@ Voters across England, and in Anglesey, are going to the polls to decide the out
 
 ##### South Shields by-election
 ### [Voting also gets underway in the South Shields by-election to fill the parliamentary seat vacated by former Foreign Secretary David Miliband. ](/news/2013/05/2/voting-also-gets-underway-in-the-south-shields-by-election-to-fill-the-parliamentary-seat-vacated-by-former-foreign-secretary-david-miliband.md)
-_Context: Foreign Secretary, David Miliband, South Shields by-election_
+_Context: South Shields by-election, Foreign Secretary, David Miliband_
 
 ##### resignation
 ### [Two months after his resignation, Pope Emeritus Benedict XVI returns to live in Vatican City at the Mater Ecclesiae. ](/news/2013/05/2/two-months-after-his-resignation-pope-emeritus-benedict-xvi-returns-to-live-in-vatican-city-at-the-mater-ecclesiae.md)

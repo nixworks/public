@@ -33,7 +33,7 @@ _Context: Indian_
 
 ##### tornado
 ### [Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-united-states.md)
-_Context: southern United States, central, tornado_
+_Context: southern United States, tornado, central_
 
 ##### Slovakia
 ### [Slovakia and Ukraine agree to a deal that will allow gas from Central Europe to reach Ukraine via Slovakia. ](/news/2014/04/28/slovakia-and-ukraine-agree-to-a-deal-that-will-allow-gas-from-central-europe-to-reach-ukraine-via-slovakia.md)
@@ -41,7 +41,7 @@ A new deal will allow a limited amount of central European gas to flow to Ukrain
 
 ##### House of Representatives
 ### [U.S. Representative Michael Grimm is taken into federal custody on charges relating to a failed restaurant business and allegations that he made false statements. ](/news/2014/04/28/u-s-representative-michael-grimm-is-taken-into-federal-custody-on-charges-relating-to-a-failed-restaurant-business-and-allegations-that-he.md)
-_Context: Michael Grimm, House of Representatives_
+_Context: House of Representatives, Michael Grimm_
 
 ##### Paul Simon
 ### [Paul Simon and wife Edie Brickell are arrested and charged with disorderly conduct. ](/news/2014/04/28/paul-simon-and-wife-edie-brickell-are-arrested-and-charged-with-disorderly-conduct.md)

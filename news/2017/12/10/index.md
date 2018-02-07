@@ -17,7 +17,7 @@ _Context: Haider al-Abadi, Iraqi Civil War, Baghdad, ISIL_
 
 ##### Capital punishment in Iran
 ### [The spying charge death sentence against Vrije Universiteit Brussel guest-lecturer Ahmadreza Djalali is now executable, since his Iranian lawyer did not appeal the verdict and sentence within the required three-week limit. ](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-universiteit-brussel-guest-lecturer-ahmadreza-djalali-is-now-executable-since-his-iranian-la.md)
-_Context: Capital punishment in Iran, Iran, Vrije Universiteit Brussel_
+_Context: Vrije Universiteit Brussel, Capital punishment in Iran, Iran_
 
 ##### Venezuelan presidential election, 2018
 ### [Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. ](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-for-re-election-bans-the-main-opposition-parties-justice-first-democratic-action-and-popu.md)

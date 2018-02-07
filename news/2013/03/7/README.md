@@ -9,7 +9,7 @@ Malaysian security forces killed 31 Filipino gunmen on Borneo Island, officials 
 
 ##### Hilary Mantel
 ### [Hilary Mantel is awarded the 2013 David Cohen Prize for literature. ](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.md)
-_Context: literature, David Cohen Prize, Hilary Mantel_
+_Context: Hilary Mantel, David Cohen Prize, literature_
 
 ##### gas explosion
 ### [Six people are injured and four more could be hospitalized (none are believed critically injured) after a gas explosion at American Steel (part of Amsted Rail Co.), in the Greater St. Louis Metro East suburb of Granite City, Illinois. ](/news/2013/03/7/six-people-are-injured-and-four-more-could-be-hospitalized-none-are-believed-critically-injured-after-a-gas-explosion-at-american-steel-p.md)
@@ -33,15 +33,15 @@ Hilton Botha, the former lead detective in the murder case involving Paralympian
 
 ##### Sulaiman Abu Ghaith
 ### [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md)
-_Context: Osama bin Laden, Jordan, Sulaiman Abu Ghaith, al-Qaeda, United States_
+_Context: Osama bin Laden, Sulaiman Abu Ghaith, Jordan, al-Qaeda, United States_
 
 ##### Denis Napthine
 ### [Denis Napthine is sworn in as the Premier of the Australian state of Victoria replacing Ted Baillieu. ](/news/2013/03/7/denis-napthine-is-sworn-in-as-the-premier-of-the-australian-state-of-victoria-replacing-ted-baillieu.md)
-_Context: Australia, Denis Napthine, Premier, Victoria, Ted Baillieu_
+_Context: Premier, Australia, Victoria, Denis Napthine, Ted Baillieu_
 
 ##### Kenya
 ### [In Kenya, Kalonzo Musyoka, the running mate of Prime Minister Raila Odinga, claims that votes in the Kenyan presidential election have been doctored. ](/news/2013/03/7/in-kenya-kalonzo-musyoka-the-running-mate-of-prime-minister-raila-odinga-claims-that-votes-in-the-kenyan-presidential-election-have-been.md)
-_Context: Prime Minister, Kalonzo Musyoka, Kenyan presidential election, Raila Odinga, Kenya, running mate_
+_Context: Kenyan presidential election, Raila Odinga, Prime Minister, Kenya, running mate, Kalonzo Musyoka_
 
 ##### United States
 ### [In the United States, Senator Rand Paul ends a 13-hour filibuster to block voting on the nomination of John O. Brennan as the Director of the CIA, questioning President Barack Obama and his administration's use of drones, and the stated legal justification for hypothetical lethal use within the United States targeting against noncombatants. Attorney General Eric Holder states that combat drones would not be used to target and kill, without due process, Americans not engaged in combat on American soil. ](/news/2013/03/7/in-the-united-states-senator-rand-paul-ends-a-13-hour-filibuster-to-block-voting-on-the-nomination-of-john-o-brennan-as-the-director-of-th.md)
@@ -49,7 +49,7 @@ Sen. Rand Paul declared victory Thursday after Attorney General Eric Holder assu
 
 ##### CSeries jets
 ### [The first built Bombardier CSeries test aircraft is publicly presented during a program update event at the Montreal-Mirabel International Airport, where the manufacturer, Bombardier Aerospace, has its Final Assembly Line facility and flight test facility. ](/news/2013/03/7/the-first-built-bombardier-cseries-test-aircraft-is-publicly-presented-during-a-program-update-event-at-the-montra-c-alamirabel-internationa.md)
-_Context: Montreal-Mirabel International Airport, Bombardier Aerospace, CSeries jets_
+_Context: Bombardier Aerospace, Montreal-Mirabel International Airport, CSeries jets_
 
 ## [Previous Day...](/news/2013/03/6/index.md)
 

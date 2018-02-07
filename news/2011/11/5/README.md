@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/5/index.html)  [JSON](2011/11/5/index.json)  [XML](2011/
 
 ##### Islamist
 ### [The Islamist terrorist group Boko Haram claims responsibility for a series of bomb and gun attacks in the north-eastern Nigerian town of Damaturu that have killed at least 63 people. ](/news/2011/11/5/the-islamist-terrorist-group-boko-haram-claims-responsibility-for-a-series-of-bomb-and-gun-attacks-in-the-north-eastern-nigerian-town-of-dam.md)
-_Context: Islamist, Nigeria, Damaturu, terrorism, series of bomb and gun attacks, Boko Haram_
+_Context: Boko Haram, Islamist, terrorism, Nigeria, Damaturu, series of bomb and gun attacks_
 
 ##### Canadian
 ### [Canadian Freedom Waves to Gaza organizers say activists on the Canadian ship "Tahrir" that, along with the Irish MV "Saoirse", who were headed to the Gaza Strip, were intercepted by Israeli troops. The activists refused to voluntarily leave the ship; Israel says no one was hurt.](/news/2011/11/5/canadian-freedom-waves-to-gaza-organizers-say-activists-on-the-canadian-ship-tahrir-that-along-with-the-irish-mv-saoirse-who-were-head.md)
@@ -17,11 +17,11 @@ Rescuers in China save the remaining 45 miners who were trapped underground for 
 
 ##### El Hierro
 ### [Residents of El Hierro in Spain's Canary Islands are evacuated following continuing volcanic activity. ](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.md)
-_Context: El Hierro, Spain, Canary Islands'_
+_Context: Canary Islands', El Hierro, Spain_
 
 ##### Pakistan
 ### [A Pakistan anti-terror court indicts two police officers and five alleged members of the Taliban for the murder of former Prime Minister of Pakistan Benazir Bhutto. ](/news/2011/11/5/a-pakistan-anti-terror-court-indicts-two-police-officers-and-five-alleged-members-of-the-taliban-for-the-murder-of-former-prime-minister-of.md)
-_Context: Taliban, Benazir Bhutto, Prime Minister, indicted, Pakistan_
+_Context: Benazir Bhutto, Prime Minister, Pakistan, indicted, Taliban_
 
 ##### Alasdair McDonnell
 ### [South Belfast MP Alasdair McDonnell is elected leader of Northern Ireland's Social Democratic and Labour Party, replacing Margaret Ritchie who stepped down in September. ](/news/2011/11/5/south-belfast-mp-alasdair-mcdonnell-is-elected-leader-of-northern-ireland-s-social-democratic-and-labour-party-replacing-margaret-ritchie-w.md)

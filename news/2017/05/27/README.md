@@ -25,7 +25,7 @@ Germany called the climate change talks &quot;very unsatisfactory&quot;, describ
 
 ##### Colombey
 ### [Colombey authorities report the tomb of French national hero Charles de Gaulle has been vandalized. ](/news/2017/05/27/colombey-authorities-report-the-tomb-of-french-national-hero-charles-de-gaulle-has-been-vandalized.md)
-_Context: Charles de Gaulle, Colombey, France_
+_Context: France, Charles de Gaulle, Colombey_
 
 ##### 2017 Manchester Arena bombing
 ### [Theresa May announces that the British terror threat level has been downgraded from "critical" to "severe" and that Operation Temperer will be phased out shortly, following productive counter-terrorism investigations. ](/news/2017/05/27/theresa-may-announces-that-the-british-terror-threat-level-has-been-downgraded-from-critical-to-severe-and-that-operation-temperer-will.md)

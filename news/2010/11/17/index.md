@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/17/index.html)  [JSON](2010/11/17/index.json)  [XML](201
 
 ##### Alpha Conde's
 ### [After Alpha Conde was declared the first democratically elected president of Guinea, at least nine people have been killed during riots in Guinea's capital, Conakry. ](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.md)
-_Context: Alpha Conde's, Conakry, Guinea_
+_Context: Alpha Conde's, Guinea, Conakry_
 
 ##### German
 ### [Germany heightens its police security presence at its airports after identifying "concrete indications" that a terrorist attack is planned for the end of November ](/news/2010/11/17/germany-heightens-its-police-security-presence-at-its-airports-after-identifying-concrete-indications-that-a-terrorist-attack-is-planned-f.md)
@@ -65,19 +65,19 @@ _Context: organ trafficking_
 
 ##### Cook Islands
 ### [People in the Pacific island nation of Cook Islands go to the polls for the general election as well as a referendum on reducing the number of MPs. ](/news/2010/11/17/people-in-the-pacific-island-nation-of-cook-islands-go-to-the-polls-for-the-general-election-as-well-as-a-referendum-on-reducing-the-number.md)
-_Context: Cook Islands, general election, MP, referendum_
+_Context: general election, Cook Islands, referendum, MP_
 
 ##### Republican
 ### [The Republican and Democratic party caucuses in the United States House of Representatives hold leadership elections. Nancy Pelosi of the Democrats is elected as Minority Leader when the new House sits in January with John Boehner to become Speaker of the United States House of Representatives. ](/news/2010/11/17/the-republican-and-democratic-party-caucuses-in-the-united-states-house-of-representatives-hold-leadership-elections-nancy-pelosi-of-the-de.md)
-_Context: John Boehner, caucus, Minority Leader, U.S. Speaker of the House of Representatives, Nancy Pelosi, House of Representatives, Republican, Democrat_
+_Context: Minority Leader, Republican, Democrat, House of Representatives, U.S. Speaker of the House of Representatives, Nancy Pelosi, John Boehner, caucus_
 
 ##### state of emergency
 ### [A state of emergency is declared in Guinea after post election violence. ](/news/2010/11/17/a-state-of-emergency-is-declared-in-guinea-after-post-election-violence.md)
-_Context: state of emergency, November's presidential poll, Guinea_
+_Context: state of emergency, Guinea, November's presidential poll_
 
 ##### United States Senate
 ### [Senator Lisa Murkowski wins the Alaska senate election becoming the first successful write-in candidate to be elected since 1954. ](/news/2010/11/17/senator-lisa-murkowski-wins-the-alaska-senate-election-becoming-the-first-successful-write-in-candidate-to-be-elected-since-1954.md)
-_Context: write-in candidate, United States Senate, Alaska senate  election, Lisa Murkowski_
+_Context: Lisa Murkowski, write-in candidate, United States Senate, Alaska senate  election_
 
 ##### Facebook
 ### [Facebook inadvertently disabled some users' accounts when a system designed to detect fake accounts malfunctioned. The problem has since been resolved. ](/news/2010/11/17/facebook-inadvertently-disabled-some-users-accounts-when-a-system-designed-to-detect-fake-accounts-malfunctioned-the-problem-has-since-bee.md)

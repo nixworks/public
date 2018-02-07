@@ -45,7 +45,7 @@ _Context: Director of the United States Secret Service, Joseph Clancy_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates announces at the World Government Summit that its planned passenger drone will begin operations in July. ](/news/2017/02/14/the-united-arab-emirates-announces-at-the-world-government-summit-that-its-planned-passenger-drone-will-begin-operations-in-july.md)
-_Context: United Arab Emirates, passenger drone, World Government Summit_
+_Context: United Arab Emirates, World Government Summit, passenger drone_
 
 ## [Previous Day...](/news/2017/02/13/index.md)
 

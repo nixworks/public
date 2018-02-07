@@ -9,7 +9,7 @@ _Context: James Brown_
 
 ##### Flood
 ### [ Flooding in Indonesia's Aceh and North Sumatra provinces has killed up to 80 people. More than 100,000 people have been forced out of their homes. ](/news/2006/12/25/flooding-in-indonesia-s-aceh-and-north-sumatra-provinces-has-killed-up-to-80-people-more-than-100-000-people-have-been-forced-out-of-their.md)
-_Context: Flood, Indonesia, Aceh, North Sumatra_
+_Context: North Sumatra, Indonesia, Flood, Aceh_
 
 ##### Supreme Council
 ### [ The Supreme Council of Kyrgyzstan does not pass amendments proposed by acting Prime Minister Felix Kulov to the Constitution, some of which would alter the make up of the Council by expanding the number of Parliamentarians and electing members by party-line-voting. The Supreme Council may vote again on the amendments over the next week. ](/news/2006/12/25/the-supreme-council-of-kyrgyzstan-does-not-pass-amendments-proposed-by-acting-prime-minister-felix-kulov-to-the-constitution-some-of-which.md)

@@ -37,7 +37,7 @@ _Context: Yverdon-les-Bains, Switzerland_
 
 ##### Hurricane Rina
 ### [Hurricane Rina strengthens to Category 2 strength as it advances towards Cancun and other resorts on the Mexican Riviera. ](/news/2011/10/25/hurricane-rina-strengthens-to-category-2-strength-as-it-advances-towards-cancun-and-other-resorts-on-the-mexican-riviera.md)
-_Context: Category 2, Cancun, Hurricane Rina, Mexican Riviera_
+_Context: Category 2, Hurricane Rina, Mexican Riviera, Cancun_
 
 ##### 2011 United States listeriosis outbreak
 ### [The death toll from the 2011 United States listeriosis outbreak rises to 28, with 133 people in 26 states reportedly suffering from the disease. ](/news/2011/10/25/the-death-toll-from-the-2011-united-states-listeriosis-outbreak-rises-to-28-with-133-people-in-26-states-reportedly-suffering-from-the-dise.md)
@@ -49,7 +49,7 @@ Authorities in Oakland say they arrested 75 people from a raid; Brooklyn man dev
 
 ##### United States Government
 ### [The United States Government commences legal action against Teodoro Nguema Obiang Mangue, the Minister of Agriculture and Forestry in Equatorial Guinea and the son of the President of Equatorial Guinea Teodoro Obiang Nguema Mbasogo, to seize US$70.8 million in assets allegedly gained from graft and corruption. ](/news/2011/10/25/the-united-states-government-commences-legal-action-against-teodoro-nguema-obiang-mangue-the-minister-of-agriculture-and-forestry-in-equato.md)
-_Context: Teodoro Obiang Nguema Mbasogo, United States Government, Teodoro Nguema Obiang Mangue, President of Equatorial Guinea, Equatorial Guinea_
+_Context: Equatorial Guinea, President of Equatorial Guinea, United States Government, Teodoro Obiang Nguema Mbasogo, Teodoro Nguema Obiang Mangue_
 
 ##### United States
 ### [The last of the United States' nine-megaton B53 warheads, formerly the most powerful nuclear weapons in the country's nuclear arsenal, is disassembled near Amarillo, Texas, having been in service since 1962. ](/news/2011/10/25/the-last-of-the-united-states-nine-megaton-b53-warheads-formerly-the-most-powerful-nuclear-weapons-in-the-country-s-nuclear-arsenal-is-di.md)

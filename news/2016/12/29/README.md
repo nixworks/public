@@ -17,7 +17,7 @@ Academic refuses honour in protest against ‘those who remained unresponsive’
 
 ##### Bank of Italy
 ### [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md)
-_Context: European Central Bank, Bank of Italy, Monte dei Paschi_
+_Context: Monte dei Paschi, European Central Bank, Bank of Italy_
 
 ##### 
 ### [At least 50 people drown and thousands are left homeless due to flooding in the Democratic Republic of the Congo. ](/news/2016/12/29/at-least-50-people-drown-and-thousands-are-left-homeless-due-to-flooding-in-the-democratic-republic-of-the-congo.md)
@@ -35,7 +35,7 @@ _Context: Rio de Janeiro, Kyriakos Amiridis_
 
 ##### Ahmet Sik
 ### [Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. ](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.md)
-_Context: Ahmet Sik, Istanbul_
+_Context: Istanbul, Ahmet Sik_
 
 ##### Pakistan
 ### [Naveed Baloch, the man from Pakistan who was wrongly arrested in the aftermath of the recent attack on a Christmas market in Berlin, gives an interview outlining the conditions in which he was held and reveals he is now in hiding amid fears for his life. ](/news/2016/12/29/naveed-baloch-the-man-from-pakistan-who-was-wrongly-arrested-in-the-aftermath-of-the-recent-attack-on-a-christmas-market-in-berlin-gives-a.md)

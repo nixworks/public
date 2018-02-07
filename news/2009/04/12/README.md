@@ -21,7 +21,7 @@ All the latest Sports News, Scores, Fantasy Games.
 
 ##### Captain
 ### [ Captain Richard Phillips of the MV "Maersk Alabama", who was abducted by Somali pirates, is rescued. ](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.md)
-_Context: ''Maersk Alabama'', Captain, Somali pirates, MV, Somalia, Richard Phillips_
+_Context: ''Maersk Alabama'', Richard Phillips, Somali pirates, Captain, Somalia, MV_
 
 ## [Previous Day...](/news/2009/04/11/index.md)
 

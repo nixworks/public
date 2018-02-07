@@ -33,7 +33,7 @@ Interior ministry says some of those arrested were linked to ISIL and were plann
 
 ##### chlorine
 ### [A chlorine gas leak injures 19 at the Chicago's 'Furfest', a Furry convention. Police say the act was intentional. ](/news/2014/12/7/a-chlorine-gas-leak-injures-19-at-the-chicago-s-furfest-a-furry-convention-police-say-the-act-was-intentional.md)
-_Context: chlorine, Furry, convention, chlorine_
+_Context: convention, chlorine, Furry, chlorine_
 
 ##### United States Senate election in Louisiana, 2014
 ### [Democrat Mary Landrieu loses her bid for a fourth term representing Louisiana in the United States Senate to Republican Congressman Bill Cassidy in Saturday's runoff election, increasing the GOP majority in the U.S. Senate to 54 seats. ](/news/2014/12/7/democrat-mary-landrieu-loses-her-bid-for-a-fourth-term-representing-louisiana-in-the-united-states-senate-to-republican-congressman-bill-cas.md)

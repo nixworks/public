@@ -17,11 +17,11 @@ _Context: al-Qaida, Yemen_
 
 ##### African Union
 ### [African Union troops kill 24 militants in a foiled Al-Shabaab planned attack in southern Somalia city of Afmadow. ](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.md)
-_Context: Somalia, African Union, Al-Shabaab, Afmadow_
+_Context: Al-Shabaab, Somalia, African Union, Afmadow_
 
 ##### Cam Lo
 ### [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (QuGBPng Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaogbpng-tra-viet-nam-falls-into-a.md)
-_Context: QuGBPng Tri, Viet Nam, Cam Lo_
+_Context: Cam Lo, Viet Nam, QuGBPng Tri_
 
 ##### Taiwan
 ### [The Republic of China lifts sanctions imposed on the Philippines after president Benigno Aquino apologized to the family of a Taiwanese fisherman shot dead in disputed waters. ](/news/2013/08/8/the-republic-of-china-lifts-sanctions-imposed-on-the-philippines-after-president-benigno-aquino-apologized-to-the-family-of-a-taiwanese-fish.md)
@@ -29,7 +29,7 @@ Taiwan lifts sanctions imposed on the Philippines after Manila issued a formal a
 
 ##### Dallas
 ### [A shooting spree in Dallas, Texas, U.S., kills 4, wounds 4 and the gunman is subsequently arrested. ](/news/2013/08/8/a-shooting-spree-in-dallas-texas-u-s-kills-4-wounds-4-and-the-gunman-is-subsequently-arrested.md)
-_Context: U.S., Texas, Dallas_
+_Context: Texas, Dallas, U.S._
 
 ## [Previous Day...](/news/2013/08/7/index.md)
 

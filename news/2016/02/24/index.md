@@ -9,7 +9,7 @@ By Seyhmus Cakan DIYARBAKIR, Turkey (Reuters) - Turkish military helicopters kil
 
 ##### Libyan Civil War (2014-present)
 ### [Senior Libyan military officials say French special forces are on the ground in Benghazi helping Libyan National Army troops fight ISIL militants. They said that the French forces, along with American and British teams, are setting up an operations room inside Benina International Airport in Benina. The French defense ministry declined to comment, citing a policy not to comment on special forces' activities. ](/news/2016/02/24/senior-libyan-military-officials-say-french-special-forces-are-on-the-ground-in-benghazi-helping-libyan-national-army-troops-fight-isil-mili.md)
-_Context: Benina International Airport, Benghazi, Libya, special forces, Libyan Civil War (2014-present), ISIL, special forces, Libyan National Army, British, France, Benina, defence minister_
+_Context: special forces, defence minister, British, special forces, Libyan National Army, Benghazi, Libyan Civil War (2014-present), ISIL, Benina, Libya, Benina International Airport, France_
 
 ##### military
 ### [Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. ](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-the-town-of-la-c-ra-c-near-the-mauritanian-border-with-mali-killing-at-least-three-soldiers-and.md)
@@ -45,11 +45,11 @@ _Context: tornado, Tornadoes of 2016, Waverly, Virginia_
 
 ##### Australia
 ### [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md)
-_Context: Australian Antarctic Division, Australia, Antarctica, Aurora Australis_
+_Context: Aurora Australis, Australia, Australian Antarctic Division, Antarctica_
 
 ##### Foreign relations of Lebanon
 ### [Qatar and Kuwait join Saudi Arabia, Bahrain and the United Arab Emirates in asking its citizens to leave or avoid travel to Lebanon. ](/news/2016/02/24/qatar-and-kuwait-join-saudi-arabia-bahrain-and-the-united-arab-emirates-in-asking-its-citizens-to-leave-or-avoid-travel-to-lebanon.md)
-_Context: Foreign relations of Lebanon, Saudi Arabia, Bahrain, Lebanon, United Arab Emirates, Kuwait, Qatar_
+_Context: Bahrain, Qatar, Saudi Arabia, Lebanon, Foreign relations of Lebanon, Kuwait, United Arab Emirates_
 
 ##### Israeli-Palestinian conflict
 ### [A report by two Israeli human rights groups, B'Tselem and HaMoked, states dozens of Palestinian detainees at the Shin Bet's Shikma interrogation facility in Ashkelon have been subjected to mistreatment, and in some cases torture. The report examined affidavits and personal accounts from 116 Palestinians held for security reasons at the facility between August 2013 and March 2014. ](/news/2016/02/24/a-report-by-two-israeli-human-rights-groups-b-tselem-and-hamoked-states-dozens-of-palestinian-detainees-at-the-shin-bet-s-shikma-interroga.md)
@@ -61,7 +61,7 @@ The United States and China have agreed on a draft resolution that would expand 
 
 ##### 2016 Phoenix murders
 ### [A family of five falls victim to a murder-suicide in Phoenix, Arizona. 26-year-old Alex Buckner is identified by Phoenix police as the shooter, who was killed in a gunfight with police. ](/news/2016/02/24/a-family-of-five-falls-victim-to-a-murder-suicide-in-phoenix-arizona-26-year-old-alex-buckner-is-identified-by-phoenix-police-as-the-shoot.md)
-_Context: 2016 Phoenix murders, Phoenix, Arizona_
+_Context: Phoenix, Arizona, 2016 Phoenix murders_
 
 ##### California state senator
 ### [Former California state senator Leland Yee is sentenced to five years imprisonment in a U.S. Federal prison after being convicted of corruption. ](/news/2016/02/24/former-california-state-senator-leland-yee-is-sentenced-to-five-years-imprisonment-in-a-u-s-federal-prison-after-being-convicted-of-corrupt.md)

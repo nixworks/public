@@ -9,7 +9,7 @@ _Context: Vedeno District, Chechnya, Insurgency in the North Caucasus, Russia_
 
 ##### President
 ### [Iranian President Mahmoud Ahmadinejad meets with Venezuelan President Hugo Chvez on the first stop of Ahmadinejad's Latin American tour. ](/news/2012/01/9/iranian-president-mahmoud-ahmadinejad-meets-with-venezuelan-president-hugo-chavez-on-the-first-stop-of-ahmadinejad-s-latin-american-tour.md)
-_Context: Venezuelan President, Mahmoud Ahmadinejad, President, Latin America, Hugo Chvez_
+_Context: Venezuelan President, Latin America, President, Mahmoud Ahmadinejad, Hugo Chvez_
 
 ##### President
 ### [President Malam Bacai Sanh of Guinea-Bissau dies at the age of 64 while undergoing treatment for an unknown ailment in Paris. ](/news/2012/01/9/president-malam-bacai-sanha-of-guinea-bissau-dies-at-the-age-of-64-while-undergoing-treatment-for-an-unknown-ailment-in-paris.md)
@@ -17,7 +17,7 @@ The president of the West African country of Guinea-Bissau, Malam Bacai Sanha, d
 
 ##### 10 Downing Street
 ### [In the United Kingdom a disagreement emerges between the Westminster and Scottish governments over a referendum on Scottish independence, after Prime Minister David Cameron tells a Sky News interview that a quick decision is needed on the matter for the sake of the economy. ](/news/2012/01/9/in-the-united-kingdom-a-disagreement-emerges-between-the-westminster-and-scottish-governments-over-a-referendum-on-scottish-independence-af.md)
-_Context: David Cameron, 10 Downing Street, referendum on Scottish independence, Sky News, Prime Minister, Scottish Government_
+_Context: Sky News, Scottish Government, referendum on Scottish independence, Prime Minister, 10 Downing Street, David Cameron_
 
 ## [Previous Day...](/news/2012/01/8/index.md)
 

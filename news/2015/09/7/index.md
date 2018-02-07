@@ -21,7 +21,7 @@ Several hundred Arabs, Asians and Africans tired of waiting for buses broke thro
 
 ##### United Kingdom House of Commons
 ### [The United Kingdom House of Commons passes a bill to conduct a planned referendum on the United Kingdom's continued membership in the European Union. ](/news/2015/09/7/the-united-kingdom-house-of-commons-passes-a-bill-to-conduct-a-planned-referendum-on-the-united-kingdom-s-continued-membership-in-the-europe.md)
-_Context: European Union, United Kingdom House of Commons, United Kingdom_
+_Context: United Kingdom House of Commons, United Kingdom, European Union_
 
 ##### Brooklyn, New York
 ### [Just before the Brooklyn, New York West Indian J'ouvert Labor Day Carnival, lawyer Carey Gabay is shot in the head and critically wounded, caught in crossfire between feuding gangs. Two others are wounded in shootings and one man is stabbed to death. ](/news/2015/09/7/just-before-the-brooklyn-new-york-west-indian-j-ouvert-labor-day-carnival-lawyer-carey-gabay-is-shot-in-the-head-and-critically-wounded-c.md)
@@ -45,7 +45,7 @@ Thousands rallied behind a top-ranked student who not only failed her exams but 
 
 ##### Hungary
 ### [Hungary's Defense Minister Csaba Hende resigns amid the refugee crisis. Prime Minister Viktor Orban immediately replaced Hende with a member of his Fidesz party, Istvan Simicsko. ](/news/2015/09/7/hungary-s-defense-minister-csaba-hende-resigns-amid-the-refugee-crisis-prime-minister-viktor-orba-n-immediately-replaced-hende-with-a-membe.md)
-_Context: Fidesz party, Prime Minister, Csaba Hende, Hungary, Viktor Orban, Istvan Simicsko, Defense Minister_
+_Context: Istvan Simicsko, Viktor Orban, Csaba Hende, Fidesz party, Defense Minister, Prime Minister, Hungary_
 
 ##### bolide
 ### [A bolide or meteor fireball explodes over the Thai city of Bangkok. ](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-thai-city-of-bangkok.md)

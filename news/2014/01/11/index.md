@@ -41,7 +41,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ##### chemical leak
 ### [A chemical leak in West Virginia morphs into a crisis after the contamination of a portion of the state's water supply. ](/news/2014/01/11/a-chemical-leak-in-west-virginia-morphs-into-a-crisis-after-the-contamination-of-a-portion-of-the-state-s-water-supply.md)
-_Context: chemical leak, water supply, West Virginia_
+_Context: West Virginia, water supply, chemical leak_
 
 ##### Cyclone Ian
 ### [Cyclone Ian strikes Tonga with damage to buildings reported. ](/news/2014/01/11/cyclone-ian-strikes-tonga-with-damage-to-buildings-reported.md)
@@ -57,7 +57,7 @@ Ten U.S. Air Force officers are being investigated for alleged illegal drug poss
 
 ##### torture
 ### [A ten-year-old servant girl is tortured to death in Punjab raising concerns about human rights in Pakistan. ](/news/2014/01/11/a-ten-year-old-servant-girl-is-tortured-to-death-in-punjab-raising-concerns-about-human-rights-in-pakistan.md)
-_Context: human rights, torture, Pakistan, Punjab Province_
+_Context: Punjab Province, torture, human rights, Pakistan_
 
 ##### Bilbao
 ### [About 110,000 people march peacefully through Bilbao, demanding Basque independence and freedom for more than 600 ETA prisoners. ](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.md)
@@ -73,7 +73,7 @@ Former PM and general was polarising figure who backed Jewish settlements but pu
 
 ##### India
 ### [India says that it has "no stand-off" with the United States even after the Devyani Khobragade incident. ](/news/2014/01/11/india-says-that-it-has-no-stand-off-with-the-united-states-even-after-the-devyani-khobragade-incident.md)
-_Context: United States, India, Devyani Khobragade incident_
+_Context: India, Devyani Khobragade incident, United States_
 
 ##### French President
 ### [French President Francois Hollande is under pressure after photos of him and actress Julie Gayet appear in a magazine. ](/news/2014/01/11/french-president-franassois-hollande-is-under-pressure-after-photos-of-him-and-actress-julie-gayet-appear-in-a-magazine.md)

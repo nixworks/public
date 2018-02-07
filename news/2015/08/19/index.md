@@ -13,7 +13,7 @@ The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 year
 
 ##### Iraq War (2014-present)
 ### [A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
-_Context: suicide bomber, Baiji, Iraq War (2014-present), Iraqi Army_
+_Context: Iraqi Army, Iraq War (2014-present), suicide bomber, Baiji_
 
 ##### South Sudanese Civil War
 ### [Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes-loyal-to-the-former-vice.md)

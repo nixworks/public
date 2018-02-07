@@ -17,7 +17,7 @@ The Duchess of Cambridge is pregnant with her second child, Kensington Palace an
 
 ##### Sweden
 ### [Sweden's AB Electrolux, the parent company of the U.S. brands Electrolux and Frigidaire, buys General Electric's appliances business for $3.3 billion. ](/news/2014/09/8/sweden-s-ab-electrolux-the-parent-company-of-the-u-s-brands-electrolux-and-frigidaire-buys-general-electric-s-appliances-business-for-3.md)
-_Context: Electrolux, General Electric, Sweden_
+_Context: General Electric, Sweden, Electrolux_
 
 ##### General Mills
 ### [American food manufacturer General Mills buys organic food producer Annie's Homegrown for $820 million. ](/news/2014/09/8/american-food-manufacturer-general-mills-buys-organic-food-producer-annie-s-homegrown-for-820-million.md)
@@ -29,11 +29,11 @@ Nearly 150 people have died and thousands are marooned in Jammu and Kashmir, dev
 
 ##### Hurricane Norbert
 ### [The remnant of Hurricane Norbert causes heavy flooding in the state of Arizona leading to the declaration of a state of emergency and causing one death. ](/news/2014/09/8/the-remnant-of-hurricane-norbert-causes-heavy-flooding-in-the-state-of-arizona-leading-to-the-declaration-of-a-state-of-emergency-and-causin.md)
-_Context: state of emergency, Arizona, Hurricane Norbert_
+_Context: state of emergency, Hurricane Norbert, Arizona_
 
 ##### Edinburgh
 ### [Speaking in Edinburgh, former Prime Minister of the United Kingdom Gordon Brown sets out a timetable for transferring more powers from Westminster to the Scottish Parliament in the event of a No vote in the forthcoming independence referendum. ](/news/2014/09/8/speaking-in-edinburgh-former-prime-minister-of-the-united-kingdom-gordon-brown-sets-out-a-timetable-for-transferring-more-powers-from-westm.md)
-_Context: Prime Minister, independence referendum, Gordon Brown, Edinburgh, Scottish Parliament, Parliament_
+_Context: Edinburgh, Scottish Parliament, Gordon Brown, Prime Minister, independence referendum, Parliament_
 
 ## [Previous Day...](/news/2014/09/7/index.md)
 

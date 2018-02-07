@@ -5,7 +5,7 @@ Formats: [HTML](2012/02/2/index.html)  [JSON](2012/02/2/index.json)  [XML](2012/
 
 ##### Philippines
 ### [The Philippines military claim to have killed Abu Sayyaf leader Umbra Jumdail, Malaysian Zulkifli bin Hir, a leader of Jemaah Islamiyah, and Singaporean Abdullah Ali. ](/news/2012/02/2/the-philippines-military-claim-to-have-killed-abu-sayyaf-leader-umbra-jumdail-malaysian-zulkifli-bin-hir-a-leader-of-jemaah-islamiyah-and.md)
-_Context: Umbra Jumdail, Jemaah Islamiyah, Malaysian, Philippines, Abu Sayyaf, Zulkifli bin Hir_
+_Context: Abu Sayyaf, Jemaah Islamiyah, Philippines, Umbra Jumdail, Malaysian, Zulkifli bin Hir_
 
 ##### Yemen
 ### [Six kidnapped aid workers are released in Yemen. ](/news/2012/02/2/six-kidnapped-aid-workers-are-released-in-yemen.md)
@@ -37,11 +37,11 @@ Corruption charges against former West Australian Labor premier Brian Burke have
 
 ##### Supreme Court of India
 ### [The Supreme Court of India cancels 122 telecom licences granted in the 2008 sale at the centre of a corruption scandal involving former minister A. Raja. ](/news/2012/02/2/the-supreme-court-of-india-cancels-122-telecom-licences-granted-in-the-2008-sale-at-the-centre-of-a-corruption-scandal-involving-former-mini.md)
-_Context: Supreme Court of India, A. Raja, telecom_
+_Context: telecom, Supreme Court of India, A. Raja_
 
 ##### French-born
 ### [A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. ](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.md)
-_Context: fraud, French-born, Church of Scientology_
+_Context: French-born, Church of Scientology, fraud_
 
 ##### Egypt
 ### [Egyptian comedian Adel Emam is sentenced to three months in prison for insulting Islam. ](/news/2012/02/2/egyptian-comedian-adel-emam-is-sentenced-to-three-months-in-prison-for-insulting-islam.md)

@@ -13,11 +13,11 @@ At least 73 people were killed and scores injured in Mozambique on Thursday as t
 
 ##### European migrant crisis
 ### [Around 100 people are feared to have drowned in the Mediterranean Sea off the coast of Libya. So far this week, 18 people are confirmed dead and 340 missing attempting to migrate to Europe. ](/news/2016/11/17/around-100-people-are-feared-to-have-drowned-in-the-mediterranean-sea-off-the-coast-of-libya-so-far-this-week-18-people-are-confirmed-dead.md)
-_Context: Europe, Libya, European migrant crisis, Mediterranean Sea_
+_Context: Europe, Mediterranean Sea, Libya, European migrant crisis_
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe becomes the first foreign head of government to meet President-elect of the United States Donald Trump since his election as President on November 8. ](/news/2016/11/17/japanese-prime-minister-shinza-abe-becomes-the-first-foreign-head-of-government-to-meet-president-elect-of-the-united-states-donald-trump-s.md)
-_Context: Donald Trump, Shinzo Abe, Prime Minister of Japan, President-elect, 2016 U.S. presidential election, Japan-United States relations_
+_Context: Donald Trump, Shinzo Abe, President-elect, 2016 U.S. presidential election, Prime Minister of Japan, Japan-United States relations_
 
 ##### Three UK
 ### [The Three UK mobile phone company admits that there has been a cyber-security breach involving the details of millions of customers. ](/news/2016/11/17/the-three-uk-mobile-phone-company-admits-that-there-has-been-a-cyber-security-breach-involving-the-details-of-millions-of-customers.md)

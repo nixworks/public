@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### US military
 ### [US military helicopter crashed at a US Marine Camp Hansen in Japan's southernmost prefecture of Okinawa, killing 4 people and injuring 3 others. ](/news/2013/08/5/us-military-helicopter-crashed-at-a-us-marine-camp-hansen-in-japan-s-southernmost-prefecture-of-okinawa-killing-4-people-and-injuring-3-oth.md)
-_Context: Japan, Marine, Okinawa, Camp Hansen, US military_
+_Context: Okinawa, US military, Marine, Camp Hansen, Japan_
 
 ##### flash floods
 ### [More than 160 people are killed in flash floods across Afghanistan and Pakistan. ](/news/2013/08/5/more-than-160-people-are-killed-in-flash-floods-across-afghanistan-and-pakistan.md)
@@ -29,19 +29,19 @@ A truck has caught fire in a tunnel in western Norway leaving 55 people hospit a
 
 ##### Salinas, California
 ### [Two people are killed and five are wounded in a shooting outside a taco restaurant in Salinas, California, U.S. It is believed to be gang-related. ](/news/2013/08/5/two-people-are-killed-and-five-are-wounded-in-a-shooting-outside-a-taco-restaurant-in-salinas-california-u-s-it-is-believed-to-be-gang-re.md)
-_Context: Salinas, California, U.S._
+_Context: U.S., Salinas, California_
 
 ##### town hall meeting
 ### [Three people are killed and five are wounded in a shooting at a town hall meeting in Ross Township, Pennsylvania, U.S. ](/news/2013/08/5/three-people-are-killed-and-five-are-wounded-in-a-shooting-at-a-town-hall-meeting-in-ross-township-pennsylvania-u-s.md)
-_Context: Ross Township, Pennsylvania, town hall meeting, U.S._
+_Context: Pennsylvania, U.S., Ross Township, town hall meeting_
 
 ##### Enele Sopoaga
 ### [Opposition leader Enele Sopoaga is sworn in as Prime Minister of Tuvalu by Governor-General Iakoba Italeli after winning a secret ballot held in parliament. ](/news/2013/08/5/opposition-leader-enele-sopoaga-is-sworn-in-as-prime-minister-of-tuvalu-by-governor-general-iakoba-italeli-after-winning-a-secret-ballot-hel.md)
-_Context: Prime Minister of Tuvalu, Enele Sopoaga, Iakoba Italeli, secret ballot, Governor-General_
+_Context: Prime Minister of Tuvalu, Iakoba Italeli, secret ballot, Governor-General, Enele Sopoaga_
 
 ##### stem cells
 ### [The world's first bovine stem cells lab-grown burger is cooked and eaten at a news conference in London. ](/news/2013/08/5/the-world-s-first-bovine-stem-cells-lab-grown-burger-is-cooked-and-eaten-at-a-news-conference-in-london.md)
-_Context: burger, lab, stem cells_
+_Context: stem cells, lab, burger_
 
 ## [Previous Day...](/news/2013/08/4/index.md)
 

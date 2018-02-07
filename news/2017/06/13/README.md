@@ -17,7 +17,7 @@ _Context: State Department, North Korea-United States relations, coma, Otto Warm
 
 ##### defects
 ### [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md)
-_Context: defects, South Korea, DMZ, North Korea_
+_Context: South Korea, DMZ, defects, North Korea_
 
 ##### Crime in Germany
 ### [A shooting occurs at a local train station in the Unterfohring suburb of Munich, Germany. The assailant shot a police officer in the head; she is in critical condition. Backup police engaged in a shootout where the suspect and two bystanders were injured. Police do not believe this is a terrorist attack. ](/news/2017/06/13/a-shooting-occurs-at-a-local-train-station-in-the-unterfaphring-suburb-of-munich-germany-the-assailant-shot-a-police-officer-in-the-head.md)

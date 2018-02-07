@@ -5,11 +5,11 @@ Formats: [HTML](2005/10/25/index.html)  [JSON](2005/10/25/index.json)  [XML](200
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli warplanes and artillery units hit areas in the northern Gaza Strip. ](/news/2005/10/25/israeli-palestinian-conflict-israeli-warplanes-and-artillery-units-hit-areas-in-the-northern-gaza-strip.md)
-_Context: Israeli-Palestinian Conflict, Gaza Strip, Israel_
+_Context: Gaza Strip, Israeli-Palestinian Conflict, Israel_
 
 ##### AIDS pandemic
 ### [ AIDS pandemic: The United Nations Children's Fund (Unicef), UNAIDS and other partners launch a global campaign, known as "Unite for Children, Unite Against AIDS", to spur action for the millions of children affected by HIV-AIDS. Fewer than 5 percent of HIV-positive children are receiving treatment. ](/news/2005/10/25/aids-pandemic-the-united-nations-children-s-fund-unicef-unaids-and-other-partners-launch-a-global-campaign-known-as-unite-for-childre.md)
-_Context: HIV, AIDS pandemic, AIDS, Unite for Children, Unite Against AIDS, United Nations Children's Fund, UNAIDS_
+_Context: UNAIDS, HIV, AIDS, United Nations Children's Fund, AIDS pandemic, Unite for Children, Unite Against AIDS_
 
 ##### Ireland
 ### [ An Irish government-commissioned report, carried out by a retired Supreme Court judge, condemns two Irish bishops, the Roman Catholic Church, the Garda Siochna (police) and health authorities for their failure to deal with clerical sex abuse over 40 years in the Diocese of Ferns (Wexford). The report suggested that 10% of priests in the diocese sexually abused children. ](/news/2005/10/25/an-irish-government-commissioned-report-carried-out-by-a-retired-supreme-court-judge-condemns-two-irish-bishops-the-roman-catholic-churc.md)
@@ -17,7 +17,7 @@ The report of the Ferns Inquiry says that it identified more than 100 allegation
 
 ##### BBC World Service
 ### [ BBC World Service announces that it will launch an Arabic language TV news channel in 2007. Radio services in ten languages, mainly Central European but including Kazakh and Thai, will be abandoned in 2006 to release funding for the new service. ](/news/2005/10/25/bbc-world-service-announces-that-it-will-launch-an-arabic-language-tv-news-channel-in-2007-radio-services-in-ten-languages-mainly-central.md)
-_Context: BBC World Service, Kazakh language, Arabic-language, Thai, 2007_
+_Context: 2007, Arabic-language, Kazakh language, BBC World Service, Thai_
 
 ##### Ericsson
 ### [ The Swedish telecoms manufacturer Ericsson has bought most of the troubled British telecoms manufacturer Marconi. ](/news/2005/10/25/the-swedish-telecoms-manufacturer-ericsson-has-bought-most-of-the-troubled-british-telecoms-manufacturer-marconi.md)
@@ -25,11 +25,11 @@ _Context: Ericsson, Marconi_
 
 ##### Iraq
 ### [ Iraq's Independent Electoral Commission announces that the country's draft constitution was approved in the vote held October 15. ](/news/2005/10/25/iraq-s-independent-electoral-commission-announces-that-the-country-s-draft-constitution-was-approved-in-the-vote-held-october-15.md)
-_Context: October 15, Iraq, in the vote held_
+_Context: in the vote held, October 15, Iraq_
 
 ##### Paul Hackett
 ### [ Paul Hackett, who in August narrowly lost an April 2005 by-election for an Ohio U.S. House of Representatives seat to Jean Schmidt, announced that he will seek the Democratic Senate nomination to run against incumbent Ohio Senator Mike DeWine, a Republican. ](/news/2005/10/25/paul-hackett-who-in-august-narrowly-lost-an-april-2005-by-election-for-an-ohio-u-s-house-of-representatives-seat-to-jean-schmidt-announc.md)
-_Context: Jean Schmidt, Paul Hackett, Democrat, U.S. House of Representatives, Mike DeWine, Republican, United States Senate_
+_Context: Mike DeWine, Democrat, U.S. House of Representatives, Republican, United States Senate, Jean Schmidt, Paul Hackett_
 
 ## [Previous Day...](/news/2005/10/24/index.md)
 

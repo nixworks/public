@@ -9,7 +9,7 @@ French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x2
 
 ##### Chad
 ### [10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-northern-mali.md)
-_Context: Adrar des Ifoghas, Chad, Islamist, Mali_
+_Context: Chad, Adrar des Ifoghas, Islamist, Mali_
 
 ##### suicide bombing
 ### [Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-province-in-eastern-afghani.md)
@@ -45,7 +45,7 @@ Cuban leader Raul Castro announced on Sunday he would step down from power after
 
 ##### chimpanzee
 ### [A new study finds that chimpanzees will solve puzzles for the fun of it. ](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.md)
-_Context: puzzle, chimpanzee, fun_
+_Context: fun, chimpanzee, puzzle_
 
 ## [Previous Day...](/news/2013/02/23/index.md)
 

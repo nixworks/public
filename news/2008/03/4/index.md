@@ -17,7 +17,7 @@ _Context: Pakistan, Lahore_
 
 ##### United States of America
 ### [ United States Assistant Secretary of State for European and Eurasian Affairs Dan Fried estimates that Kosovo will need about $2 billion in foreign aid to become economically viable, and says that the United States will participate in a major donors' conference on Kosovo in June. ](/news/2008/03/4/united-states-assistant-secretary-of-state-for-european-and-eurasian-affairs-dan-fried-estimates-that-kosovo-will-need-about-2-billion-in.md)
-_Context: Dan Fried, $, United States of America, Assistant Secretary of State for European and Eurasian Affairs, Kosovo_
+_Context: Kosovo, $, Dan Fried, United States of America, Assistant Secretary of State for European and Eurasian Affairs_
 
 ##### cricketer
 ### [ India wins cricket's Commonwealth Bank Series in Australia. ](/news/2008/03/4/india-wins-cricket-s-commonwealth-bank-series-in-australia.md)

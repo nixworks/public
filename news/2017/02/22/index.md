@@ -5,11 +5,11 @@ Formats: [HTML](2017/02/22/index.html)  [JSON](2017/02/22/index.json)  [XML](201
 
 ##### Raqqa offensive
 ### [U.S.-backed SDF forces on two fronts meet up northeast of Raqqa, encircling a pocket of villages still held by ISIS. ](/news/2017/02/22/u-s-backed-sdf-forces-on-two-fronts-meet-up-northeast-of-raqqa-encircling-a-pocket-of-villages-still-held-by-isis.md)
-_Context: Raqqa offensive, Raqqa, ISIS, United States, Syrian Democratic Forces_
+_Context: United States, ISIS, Raqqa offensive, Raqqa, Syrian Democratic Forces_
 
 ##### Yemeni Civil War (2015-present)
 ### [A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. ](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-camp-near-the-port-city-of-mocha-kills-major-general-ahmed-saif-al-yafei-yemen-s-deputy-chief.md)
-_Context: Houthi, Mocha, Yemen, Yemeni Civil War (2015-present), government soldiers_
+_Context: Yemeni Civil War (2015-present), Yemen, Mocha, government soldiers, Houthi_
 
 ##### Amnesty International
 ### [Amnesty International releases a report criticizing the rise of populist leaders such as Donald Trump of the United States, Viktor Orban of Hungary, Rodrigo Duterte of the Philippines and Recep Tayyip Erdogan of Turkey. ](/news/2017/02/22/amnesty-international-releases-a-report-criticizing-the-rise-of-populist-leaders-such-as-donald-trump-of-the-united-states-viktor-orba-n-of.md)

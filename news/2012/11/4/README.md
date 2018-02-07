@@ -13,11 +13,11 @@ A car bomb targeting a military vehicle in southeast Turkey on Sunday killed an 
 
 ##### Garissa
 ### [A policeman is killed and 11 others are injured in a grenade attack on a church in the Kenyan town of Garissa near the border with Somalia. ](/news/2012/11/4/a-policeman-is-killed-and-11-others-are-injured-in-a-grenade-attack-on-a-church-in-the-kenyan-town-of-garissa-near-the-border-with-somalia.md)
-_Context: Somalia, Garissa_
+_Context: Garissa, Somalia_
 
 ##### Iranian Revolutionary guards
 ### [Iran's Revolutionary Guard Corps establish and inaugurate a new naval base on the Strait of Hormuz, near Bandar Lengeh. ](/news/2012/11/4/iran-s-revolutionary-guard-corps-establish-and-inaugurate-a-new-naval-base-on-the-strait-of-hormuz-near-bandar-lengeh.md)
-_Context: Iranian Revolutionary guards, Bandar Lengeh, Strait of Hormuz_
+_Context: Iranian Revolutionary guards, Strait of Hormuz, Bandar Lengeh_
 
 ##### Danny Boyle
 ### [Danny Boyle and Nicholas Serota write a letter criticising the decision by a Tower Hamlets London Borough Council to sell the Henry Moore sculpture "Draped Seated Woman". Moore sold the sculpture at a fraction of its market value in the 1960s on the understanding that it would be displayed in a public space in a socially deprived area. ](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.md)
@@ -29,7 +29,7 @@ _Context: Fowsiyo Yussuf Haji Aadan, Abdi Farah Shirdon_
 
 ##### Tawadros
 ### [Bishop Tawadros is selected as the new 118th pope of the Coptic Orthodox Church. ](/news/2012/11/4/bishop-tawadros-is-selected-as-the-new-118th-pope-of-the-coptic-orthodox-church.md)
-_Context: Coptic Orthodox Church, Tawadros, 118th, Coptic Christian pope_
+_Context: Tawadros, Coptic Orthodox Church, Coptic Christian pope, 118th_
 
 ## [Previous Day...](/news/2012/11/3/index.md)
 

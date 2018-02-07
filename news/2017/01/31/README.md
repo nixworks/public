@@ -9,7 +9,7 @@ BEIRUT, LEBANON (2:00 A.M.) - The jihadist rebels have agreed to surrender the r
 
 ##### PwC
 ### [Consultancy PwC says that global banks with business both in London and on the European continent must plan for a hard Brexit that entails a break with many of the benefits of the Euro system, and a short transition period. ](/news/2017/01/31/consultancy-pwc-says-that-global-banks-with-business-both-in-london-and-on-the-european-continent-must-plan-for-a-hard-brexit-that-entails-a.md)
-_Context: hard Brexit, EUR, PwC_
+_Context: EUR, hard Brexit, PwC_
 
 ##### Enlargement of the African Union
 ### [Morocco rejoins the African Union after a 33-year absence, despite opposition from several member states over the political status of Western Sahara. ](/news/2017/01/31/morocco-rejoins-the-african-union-after-a-33-year-absence-despite-opposition-from-several-member-states-over-the-political-status-of-wester.md)
@@ -41,7 +41,7 @@ Amid tensions over president&rsquo;s travel ban, a longtime Washington figure is
 
 ##### Supreme Court of the United States
 ### [President Donald Trump has nominated Judge Neil Gorsuch to fill the vacant seat on the Supreme Court of the United States. Neil Gorsuch is the youngest nominee to the court in 25 years. ](/news/2017/01/31/president-donald-trump-has-nominated-judge-neil-gorsuch-to-fill-the-vacant-seat-on-the-supreme-court-of-the-united-states-neil-gorsuch-is-t.md)
-_Context: Supreme Court of the United States, Donald Trump, Neil Gorsuch_
+_Context: Neil Gorsuch, Donald Trump, Supreme Court of the United States_
 
 ##### Executive Order 13769
 ### [The State Department memorandum about concerns with this travel ban is submitted to acting Secretary of State Tom Shannon through the federal government's Dissent Channel. This protest memo had between 900-1,000 signatures. Department officials said these signatures are far more than any dissent cable in recent years, adding more diplomats want to add their names to it. ](/news/2017/01/31/the-state-department-memorandum-about-concerns-with-this-travel-ban-is-submitted-to-acting-secretary-of-state-tom-shannon-through-the-federa.md)

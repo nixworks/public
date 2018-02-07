@@ -9,7 +9,7 @@ _Context: canonize, Fatima, Pope Francis_
 
 ##### Cross-Strait relations
 ### [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md)
-_Context: China, Tsai Ing-wen, Taiwan Affairs Office, One-China policy, World Health Assembly, Taiwan, Cross-Strait relations_
+_Context: Taiwan, World Health Assembly, Cross-Strait relations, China, One-China policy, Taiwan Affairs Office, Tsai Ing-wen_
 
 ##### Bahamian general election, 2017
 ### [Voters in the Bahamas go to the polls to elect all 39 members of the House of Assembly. ](/news/2017/05/10/voters-in-the-bahamas-go-to-the-polls-to-elect-all-39-members-of-the-house-of-assembly.md)
@@ -21,7 +21,7 @@ Members of parliament dismiss government in no-confidence motion, triggering a s
 
 ##### Russian interference in the 2016 United States elections
 ### [The U.S. Attorney's Office in Alexandria, Virginia, through U.S. Attorney Dana Boente, issues subpoenas to former National Security Advisor Michael T. Flynn to assess the extent of his ties to Russia. ](/news/2017/05/10/the-u-s-attorney-s-office-in-alexandria-virginia-through-u-s-attorney-dana-boente-issues-subpoenas-to-former-national-security-advisor.md)
-_Context: Dana Boente, subpoena, Russia, Russian interference in the 2016 United States elections, Alexandria, Virginia, Michael Flynn, National Security Advisor_
+_Context: Michael Flynn, subpoena, Alexandria, Virginia, Russia, Russian interference in the 2016 United States elections, Dana Boente, National Security Advisor_
 
 ## [Previous Day...](/news/2017/05/9/index.md)
 

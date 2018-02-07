@@ -5,11 +5,11 @@ Formats: [HTML](2008/12/4/index.html)  [JSON](2008/12/4/index.json)  [XML](2008/
 
 ##### Prime Minister of Russia
 ### [ Prime Minister Vladimir Putin says Russia may be forced to cut gas supplies to Ukraine if the latter "does not fulfil the agreements" on payment for gas already consumed. ](/news/2008/12/4/prime-minister-vladimir-putin-says-russia-may-be-forced-to-cut-gas-supplies-to-ukraine-if-the-latter-does-not-fulfil-the-agreements-on-pa.md)
-_Context: Prime Minister of Russia, Russia, Ukraine, Vladimir Putin_
+_Context: Vladimir Putin, Prime Minister of Russia, Russia, Ukraine_
 
 ##### President
 ### [ President of Uruguay Tabar Vzquez resigns as the leader of the Socialist Party following a row over the vetoing of an abortion decriminalisation bill. ](/news/2008/12/4/president-of-uruguay-tabare-vazquez-resigns-as-the-leader-of-the-socialist-party-following-a-row-over-the-vetoing-of-an-abortion-decriminal.md)
-_Context: Tabar Vzquez, President, Socialist Party, abortion, Uruguay_
+_Context: President, Socialist Party, abortion, Tabar Vzquez, Uruguay_
 
 ##### Argentina
 ### [ The Argentine National Congress approves the seizure of Aerolneas Argentinas, the country's biggest airline carrier. ](/news/2008/12/4/the-argentine-national-congress-approves-the-seizure-of-aerolineas-argentinas-the-country-s-biggest-airline-carrier.md)
@@ -21,7 +21,7 @@ _Context: Mohammed Daoud Khan, Afghanistan, Afghanistan President_
 
 ##### Prime Minister of Canada
 ### [ 2008 Canadian parliamentary dispute: At the request of Prime Minister Stephen Harper, Governor General of Canada Michalle Jean prorogues the parliament until January 26, 2009, to avoid a confidence motion by a newly-formed coalition of opposition parties. ](/news/2008/12/4/2008-canadian-parliamentary-dispute-at-the-request-of-prime-minister-stephen-harper-governor-general-of-canada-michaelle-jean-prorogues-t.md)
-_Context: Stephen Harper, Prime Minister of Canada, Governor General of Canada, no confidence, Michalle Jean, coalition, proposed opposition coalition_
+_Context: Governor General of Canada, Prime Minister of Canada, Michalle Jean, coalition, Stephen Harper, no confidence, proposed opposition coalition_
 
 ## [Previous Day...](/news/2008/12/3/index.md)
 

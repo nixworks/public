@@ -9,7 +9,7 @@ Syrian military appears to confirm media reports of attack on research centre ne
 
 ##### Education in the United States
 ### [Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. ](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is-cancelled-at-some-of-its-international-test-centers-because-of-leaks-of-test-materials.md)
-_Context: ACT, entrance exam test, Education in the United States_
+_Context: Education in the United States, ACT, entrance exam test_
 
 ##### Identity theft in the United States
 ### [More than 143 million people in the U.S. may have had their social security and driver's license numbers compromised due to a data breach on the credit rating firm Equifax. ](/news/2017/09/7/more-than-143-million-people-in-the-u-s-may-have-had-their-social-security-and-driver-s-license-numbers-compromised-due-to-a-data-breach-on.md)
@@ -21,7 +21,7 @@ The online retail giant said it is seeking a location in North America for a new
 
 ##### Trump administraion
 ### [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md)
-_Context: Due Process Clause, Trump administraion, Deferred Action for Childhood Arrivals_
+_Context: Trump administraion, Deferred Action for Childhood Arrivals, Due Process Clause_
 
 ##### Atlantic hurricanes
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
@@ -37,7 +37,7 @@ The Latest on tensions on the Korean Peninsula (all times local):
 
 ##### Qatar-United States relations
 ### [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md)
-_Context: Hurricane Harvey, Texas, Qatar-United States relations, Qatar_
+_Context: Hurricane Harvey, Qatar-United States relations, Texas, Qatar_
 
 ##### Australian Marriage Law Postal Survey
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)

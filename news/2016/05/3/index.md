@@ -37,7 +37,7 @@ _Context: Iglesia ni Cristo, Rodrigo Duterte_
 
 ##### Russia-Spain relations
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Russia, Prime Minister of Russia, money laundering, Defense Minister, Spain, Russia-Spain relations, Anatoliy Serdyukov, assassinated, Viktor Zubkov, Russian President, organized crime from Russia, Vladimir Putin_
+_Context: Prime Minister of Russia, assassinated, Russia, organized crime from Russia, Russia-Spain relations, Russian President, Viktor Zubkov, Defense Minister, Vladimir Putin, money laundering, Spain, Anatoliy Serdyukov_
 
 ##### Papua conflict
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)

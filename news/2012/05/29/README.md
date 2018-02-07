@@ -9,11 +9,11 @@ Japan and Turkey join 11 countries in concerted move over massacre as Annan says
 
 ##### Somalia
 ### [Rebels attack the convoy of Somali president Sheikh Sharif Ahmed during an overland trip; he escaped unharmed. ](/news/2012/05/29/rebels-attack-the-convoy-of-somali-president-sheikh-sharif-ahmed-during-an-overland-trip-he-escaped-unharmed.md)
-_Context: Sheikh Sharif Ahmed, Somalia_
+_Context: Somalia, Sheikh Sharif Ahmed_
 
 ##### 2012 South Sudan-Sudan border conflict
 ### [2012 South Sudan-Sudan border conflict: Sudan and South Sudan restart talks to avoid war amid accusations of bombing raids. ](/news/2012/05/29/2012-south-sudanasudan-border-conflict-sudan-and-south-sudan-restart-talks-to-avoid-war-amid-accusations-of-bombing-raids.md)
-_Context: South Sudan, 2012 South Sudan-Sudan border conflict, Sudan_
+_Context: South Sudan, Sudan, 2012 South Sudan-Sudan border conflict_
 
 ##### Brett Murray
 ### [The gallery which exhibited Brett Murray's controversial painting "The Spear" agrees to take down an image of the artwork from its website as thousands of people march in protest through the streets of Johannesburg. ](/news/2012/05/29/the-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-agrees-to-take-down-an-image-of-the-artwork-from-its-website-a.md)
@@ -21,11 +21,11 @@ Thousands march through the streets of Johannesburg as outrage and tension over 
 
 ##### China
 ### [China's best-known microblogging site Sina Weibo introduces new restrictions on the content its 300 million users can post. ](/news/2012/05/29/china-s-best-known-microblogging-site-sina-weibo-introduces-new-restrictions-on-the-content-its-300-million-users-can-post.md)
-_Context: microblog, Sina Weibo, China_
+_Context: Sina Weibo, China, microblog_
 
 ##### Wall Street
 ### [Four of Wall Street's market makers involved in Facebook's botched IPO are expecting losses from technical glitches to be around US$115&nbsp;million. ](/news/2012/05/29/four-of-wall-street-s-market-makers-involved-in-facebook-s-botched-ipo-are-expecting-losses-from-technical-glitches-to-be-around-us-115-nbsp.md)
-_Context: Wall Street, IPO, Facebook_
+_Context: Facebook, Wall Street, IPO_
 
 ##### Ibercaja
 ### [Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger. ](/news/2012/05/29/three-spanish-savings-banks-ibercaja-liberbank-and-caja3-approve-a-merger.md)
@@ -33,7 +33,7 @@ Three Spanish savings banks - Ibercaja, Liberbank and Caja3 - approve a merger t
 
 ##### VK
 ### [Russian social network VK announces that it will postpone its planned initial public offering indefinitely, following the recent botched float of Facebook. ](/news/2012/05/29/russian-social-network-vk-announces-that-it-will-postpone-its-planned-initial-public-offering-indefinitely-following-the-recent-botched-flo.md)
-_Context: VK, initial public offering, Facebook_
+_Context: Facebook, VK, initial public offering_
 
 ##### earthquake
 ### [A 5.8-magnitude earthquake rocks northern Italy near Bologna, killing at least 24 people. ](/news/2012/05/29/a-5-8-magnitude-earthquake-rocks-northern-italy-near-bologna-killing-at-least-24-people.md)
@@ -73,11 +73,11 @@ PNG politicians will hold a special sitting of parliament tomorrow to elect a ne
 
 ##### Chen Xitong
 ### [Chen Xitong former mayor of Beijing apologises for deaths during the 1989 Tiananmen Square protests, adding that they could have been avoided, in a book released in Hong Kong this week. ](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.md)
-_Context: 1989 Tiananmen Square protests, Beijing, Hong Kong, Chen Xitong_
+_Context: Beijing, Chen Xitong, 1989 Tiananmen Square protests, Hong Kong_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama gives out the Presidential Medal of Freedom to 13 recipients, including Israeli president Shimon Peres, astronaut John Glenn and musician Bob Dylan, at the White House. ](/news/2012/05/29/u-s-president-barack-obama-gives-out-the-presidential-medal-of-freedom-to-13-recipients-including-israeli-president-shimon-peres-astronau.md)
-_Context: White House, Israel, Presidential Medal of Freedom with Distinction, Shimon Peres, Barack Obama, John Glenn, Bob Dylan_
+_Context: Presidential Medal of Freedom with Distinction, Barack Obama, John Glenn, Shimon Peres, Israel, White House, Bob Dylan_
 
 ## [Previous Day...](/news/2012/05/28/index.md)
 

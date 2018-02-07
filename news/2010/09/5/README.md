@@ -9,7 +9,7 @@ Air force bombs 3 smuggling tunnels in Gaza Strip meant to help kidnap and attac
 
 ##### suicide bomber
 ### [At least five people are killed and 35 injured as a suicide bomber attacks a Russian Army firing range at Buynaksk, Dagestan. ](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-as-a-suicide-bomber-attacks-a-russian-army-firing-range-at-buynaksk-dagestan.md)
-_Context: Buynaksk, suicide bomber, Russian Army, firing range, Dagestan_
+_Context: Russian Army, firing range, suicide bomber, Buynaksk, Dagestan_
 
 ##### Darfur
 ### [More than 40 people are killed and dozens of others are injured in a clash in Darfur. ](/news/2010/09/5/more-than-40-people-are-killed-and-dozens-of-others-are-injured-in-a-clash-in-darfur.md)
@@ -25,11 +25,11 @@ The armed Basque separatist group Eta has decided not to carry out &quot;armed a
 
 ##### Hugo Awards
 ### [The winners of the 2010 Hugo Awards are announced at Worldcon in Melbourne, Australia. ](/news/2010/09/5/the-winners-of-the-2010-hugo-awards-are-announced-at-worldcon-in-melbourne-australia.md)
-_Context: Worldcon, Hugo Awards, Melbourne_
+_Context: Hugo Awards, Worldcon, Melbourne_
 
 ##### Peter Gumbel
 ### [British academic Peter Gumbel causes controversy in France by alleging in his book that their education system lowers the self-esteem of pupils. ](/news/2010/09/5/british-academic-peter-gumbel-causes-controversy-in-france-by-alleging-in-his-book-that-their-education-system-lowers-the-self-esteem-of-pup.md)
-_Context: Peter Gumbel, France, their education system_
+_Context: their education system, Peter Gumbel, France_
 
 ##### state of emergency
 ### [A state of emergency is declared in Guatemala after heavy rains and landslides kill at least 18 people. ](/news/2010/09/5/a-state-of-emergency-is-declared-in-guatemala-after-heavy-rains-and-landslides-kill-at-least-18-people.md)
@@ -53,7 +53,7 @@ _Context: Moldovan President, referendum, Moldova_
 
 ##### United Kingdom
 ### [The five contenders to be leader of the United Kingdom Labour Party hold a debate in Norwich, England. ](/news/2010/09/5/the-five-contenders-to-be-leader-of-the-united-kingdom-labour-party-hold-a-debate-in-norwich-england.md)
-_Context: Labour Party, Norwich, United Kingdom, England_
+_Context: United Kingdom, England, Norwich, Labour Party_
 
 ##### Danes
 ### [A group of Danish rocketeers postpone launch when a valve on their rocket jammed. ](/news/2010/09/5/a-group-of-danish-rocketeers-postpone-launch-when-a-valve-on-their-rocket-jammed.md)

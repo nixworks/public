@@ -29,7 +29,7 @@ A huge turnout from the middle classes saw traditional SNP strongholds declare f
 
 ##### Joachim Gauck
 ### [German president Joachim Gauck welcomes state officials to Mecklenburg-Vorpommern to address demographic change in Europe and commemorate 25 years of the Peaceful Revolution. ](/news/2014/09/18/german-president-joachim-gauck-welcomes-state-officials-to-mecklenburg-vorpommern-to-address-demographic-change-in-europe-and-commemorate-25.md)
-_Context: demographic change in Europe, Mecklenburg-Vorpommern, Peaceful Revolution, Joachim Gauck_
+_Context: Peaceful Revolution, demographic change in Europe, Mecklenburg-Vorpommern, Joachim Gauck_
 
 ##### Ultracompact dwarf galaxy
 ### [Ultracompact dwarf galaxy M60-UCD1 is revealed to be the smallest known galaxy to have a supermassive black hole at its centre. ](/news/2014/09/18/ultracompact-dwarf-galaxy-m60-ucd1-is-revealed-to-be-the-smallest-known-galaxy-to-have-a-supermassive-black-hole-at-its-centre.md)

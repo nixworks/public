@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/11/index.html)  [JSON](2011/04/11/index.json)  [XML](201
 
 ##### protestors
 ### [Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. ](/news/2011/04/11/students-take-part-in-a-demonstration-at-damascus-university-to-express-solidarity-with-protesters-killed-in-the-unrest.md)
-_Context: Damascus University, protestors_
+_Context: protestors, Damascus University_
 
 ##### Tahrir Square
 ### [Demonstrators remain in Tahrir Square calling for the acceleration of reforms. ](/news/2011/04/11/demonstrators-remain-in-tahrir-square-calling-for-the-acceleration-of-reforms.md)
@@ -33,11 +33,11 @@ FRANCE has officially banned women from wearing full-face veils in public places
 
 ##### Mexico
 ### [Mexican businessman Carlos Slim is again the richest man in the world according to the Forbes list of billionaires. ](/news/2011/04/11/mexican-businessman-carlos-slim-is-again-the-richest-man-in-the-world-according-to-the-forbes-list-of-billionaires.md)
-_Context: Mexico, list of the world's wealthiest people, Carlos Slim_
+_Context: list of the world's wealthiest people, Carlos Slim, Mexico_
 
 ##### Intel
 ### [Intel announces (former codename "Oak Trail") Atom processor will be in devices beginning in May, especially designed for netbook and tablet devices. ](/news/2011/04/11/intel-announces-former-codename-oak-trail-atom-processor-will-be-in-devices-beginning-in-may-especially-designed-for-netbook-and-tablet.md)
-_Context: netbook, former codename "Oak Trail") Atom processor, Intel, tablets_
+_Context: Intel, former codename "Oak Trail") Atom processor, tablets, netbook_
 
 ##### Highland Capital
 ### [Highland Capital has brought an adversary proceeding within the U.S. bankruptcy court, New York, in regard to the Lyondell reorganization, against the securities unit of UBS AG for third-party inferenece with a contract between Highland and Lyondell. ](/news/2011/04/11/highland-capital-has-brought-an-adversary-proceeding-within-the-u-s-bankruptcy-court-new-york-in-regard-to-the-lyondell-reorganization-a.md)
@@ -49,7 +49,7 @@ _Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Tokyo Electric Power Co.
 ### [The President of the Tokyo Electric Power Co. visits the government offices of Fukushima Prefecture and the command centre for the Fukushima I nuclear accidents to apologise. ](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.md)
-_Context: Tokyo Electric Power Co., Fukushima Prefecture, Fukushima I nuclear accidents_
+_Context: Fukushima I nuclear accidents, Fukushima Prefecture, Tokyo Electric Power Co._
 
 ##### government
 ### [The government of Japan announces plans to evacuate more towns near the Fukushima I Nuclear Power Plant as the crisis continues. ](/news/2011/04/11/the-government-of-japan-announces-plans-to-evacuate-more-towns-near-the-fukushima-i-nuclear-power-plant-as-the-crisis-continues.md)
@@ -65,7 +65,7 @@ As a goodwill gesture, ahead of Baisakhi, India on Monday repatriated 39 Pakista
 
 ##### Tajikistan
 ### [Authorities in Tajikistan are to ban divorce by text message. ](/news/2011/04/11/authorities-in-tajikistan-are-to-ban-divorce-by-text-message.md)
-_Context: Tajikistan, divorce, text message_
+_Context: Tajikistan, text message, divorce_
 
 ##### Egypt
 ### [Egyptian blogger Maikel Nabil is sentenced to three years in prison by a military court for criticising the army. ](/news/2011/04/11/egyptian-blogger-maikel-nabil-is-sentenced-to-three-years-in-prison-by-a-military-court-for-criticising-the-army.md)
@@ -77,7 +77,7 @@ A Northern Virginia man on Monday was sentenced to 23 years in prison for his ro
 
 ##### Nepal
 ### [Nepalese Energy Minister Gokarna Bista is stabbed in Katmandu. ](/news/2011/04/11/nepalese-energy-minister-gokarna-bista-is-stabbed-in-katmandu.md)
-_Context: Nepal, Katmandu, Gokarna Bista_
+_Context: Nepal, Gokarna Bista, Katmandu_
 
 ##### Uganda
 ### [Uganda's opposition leader Kizza Besigye is arrested after calling for a protest against recent fuel price increases. ](/news/2011/04/11/uganda-s-opposition-leader-kizza-besigye-is-arrested-after-calling-for-a-protest-against-recent-fuel-price-increases.md)
@@ -89,7 +89,7 @@ The Sex Discrimination Commissioner will hold a wide-ranging inquiry into the wa
 
 ##### President
 ### [The President of Yemen Ali Abdullah Saleh welcomes a proposal by the Gulf Cooperation Council that would see him stand aside for his Vice-President. ](/news/2011/04/11/the-president-of-yemen-ali-abdullah-saleh-welcomes-a-proposal-by-the-gulf-cooperation-council-that-would-see-him-stand-aside-for-his-vice-pr.md)
-_Context: Ali Abdullah Saleh, President, Gulf Cooperation Council_
+_Context: President, Ali Abdullah Saleh, Gulf Cooperation Council_
 
 ##### David Cameron
 ### [British Prime Minister David Cameron is criticised by the University of Oxford for an "incorrect and highly misleading" claim that only one black student was enrolled there in 2009. During a question and answer session on the effect of higher tuition fees on poorer students, Cameron had called the figures "disgraceful". The University says that at least 26 black students started there that year. ](/news/2011/04/11/british-prime-minister-david-cameron-is-criticised-by-the-university-of-oxford-for-an-incorrect-and-highly-misleading-claim-that-only-one.md)

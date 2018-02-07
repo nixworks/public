@@ -5,19 +5,19 @@ Formats: [HTML](2004/10/1/index.html)  [JSON](2004/10/1/index.json)  [XML](2004/
 
 ##### University of Manchester
 ### [ The University of Manchester, the largest university in the United Kingdom outside London, is created by the merger of the Victoria University of Manchester and UMIST. ](/news/2004/10/1/the-university-of-manchester-the-largest-university-in-the-united-kingdom-outside-london-is-created-by-the-merger-of-the-victoria-univers.md)
-_Context: London, university, University of Manchester, UMIST, Victoria University of Manchester_
+_Context: university, Victoria University of Manchester, University of Manchester, London, UMIST_
 
 ##### Ichiro Suzuki
 ### [ Ichiro Suzuki, a Japanese baseball star now playing for Major League Baseball's New York Yankees, breaks George Sisler's 84-year-old record for hits in a season, prompting praise from Japanese prime minister Junichiro Koizumi and celebrations in both Seattle and Tokyo. ](/news/2004/10/1/ichiro-suzuki-a-japanese-baseball-star-now-playing-for-major-league-baseball-s-new-york-yankees-breaks-george-sisler-s-84-year-old-record.md)
-_Context: Major League Baseball, Tokyo, Junichiro Koizumi, Seattle, George Sisler, baseball, New York Yankees, Ichiro Suzuki_
+_Context: George Sisler, Major League Baseball, New York Yankees, Ichiro Suzuki, baseball, Tokyo, Junichiro Koizumi, Seattle_
 
 ##### Mount St. Helens
 ### [ Mount St. Helens in the U.S. state of Washington awakens, with a minor eruption of steam, smoke, and ash. ](/news/2004/10/1/mount-st-helens-in-the-u-s-state-of-washington-awakens-with-a-minor-eruption-of-steam-smoke-and-ash.md)
-_Context: Washington, eruption, U.S. state, Mount St. Helens_
+_Context: U.S. state, Washington, Mount St. Helens, eruption_
 
 ##### Denmark
 ### [ The government of Denmark is investigating whether it can claim ownership of the North Pole, by studying how far the underwater portion of Greenland, a Danish territory, extends. Canada and Russia are already undertaking similar investigations regarding their own claims. ](/news/2004/10/1/the-government-of-denmark-is-investigating-whether-it-can-claim-ownership-of-the-north-pole-by-studying-how-far-the-underwater-portion-of.md)
-_Context: Denmark, Greenland, territory, North Pole_
+_Context: Denmark, territory, Greenland, North Pole_
 
 ##### U.S. presidential debates
 ### [ U.S. presidential debates: "Instant-response" polls of viewers of last night's U.S. presidential debate show that a majority of viewers thought the challenger, John Kerry, won the contest. ](/news/2004/10/1/u-s-presidential-debates-instant-response-polls-of-viewers-of-last-night-s-u-s-presidential-debate-show-that-a-majority-of-viewers-tho.md)
@@ -25,11 +25,11 @@ _Context: John Kerry, U.S. presidential debates_
 
 ##### suicide bomber
 ### [ At least 19 people are killed in an explosion&mdash;suspected to be a suicide bombing&mdash;at a Shia mosque in the Pakistani city of Sialkot (located near the border of Indian-controlled Kashmir). The attack follows the killing of a leading Sunni cleric. ](/news/2004/10/1/at-least-19-people-are-killed-in-an-explosion-mdash-suspected-to-be-a-suicide-bombing-mdash-at-a-shia-mosque-in-the-pakistani-city-of-sialk.md)
-_Context: mosque, Kashmir, Pakistan, Sialkot, Sunni, suicide bomber, Shia_
+_Context: mosque, Pakistan, suicide bomber, Shia, Sialkot, Kashmir, Sunni_
 
 ##### Irish presidential election, 2004
 ### [ Irish presidential election, 2004: Mary McAleese is appointed to a second seven-year term as President of Ireland, without an election, when no other candidate secures the necessary nominations. This is the third time a sitting president has been reappointed unopposed, following President Sen T. O'Kelly in 1952 and President Patrick Hillery in 1983. ](/news/2004/10/1/irish-presidential-election-2004-mary-mcaleese-is-appointed-to-a-second-seven-year-term-as-president-of-ireland-without-an-election-whe.md)
-_Context: Irish presidential election, 2004, President Sen T. O'Kelly, President, election, President Patrick Hillery, Mary McAleese_
+_Context: Mary McAleese, President Patrick Hillery, Irish presidential election, 2004, President, President Sen T. O'Kelly, election_
 
 ##### Samarra
 ### [ U.S. and Iraqi government forces attack the insurgent-held city of Samarra in northern Iraq. U.S. officials say over 100 militants were killed and 37 were captured, while local doctors say at least 80 people died, and 100 were wounded, including civilians. ](/news/2004/10/1/u-s-and-iraqi-government-forces-attack-the-insurgent-held-city-of-samarra-in-northern-iraq-u-s-officials-say-over-100-militants-were-kil.md)
@@ -37,7 +37,7 @@ _Context: Samarra_
 
 ##### same-sex marriage
 ### [ Same-sex marriage debates: The cabinet of Spanish Prime Minister Jos Luis Rodrguez Zapatero approves a bill to legalize same-sex marriage; the government believes that the bill will pass the full parliament. ](/news/2004/10/1/same-sex-marriage-debates-the-cabinet-of-spanish-prime-minister-jose-luis-rodriguez-zapatero-approves-a-bill-to-legalize-same-sex-marriage.md)
-_Context: same-sex marriage, Jos Luis Rodrguez Zapatero, Spain, same-sex marriage, forming a government_
+_Context: Spain, forming a government, same-sex marriage, Jos Luis Rodrguez Zapatero, same-sex marriage_
 
 ## [Previous Day...](/news/2004/09/30/index.md)
 

@@ -5,23 +5,23 @@ Formats: [HTML](2005/06/10/index.html)  [JSON](2005/06/10/index.json)  [XML](200
 
 ##### Philippines
 ### [ In the Philippines, whistleblower Samuel Ong accuses, with audio evidence, President Gloria Macapagal-Arroyo of rigging the 2004 elections, thus starting an electoral crisis. ](/news/2005/06/10/in-the-philippines-whistleblower-samuel-ong-accuses-with-audio-evidence-president-gloria-macapagal-arroyo-of-rigging-the-2004-elections.md)
-_Context: Samuel Ong, Philippines, Philippine electoral crisis, 2005, 2004 elections, Gloria Macapagal-Arroyo, whistleblower_
+_Context: Gloria Macapagal-Arroyo, whistleblower, Philippines, Philippine electoral crisis, 2005, 2004 elections, Samuel Ong_
 
 ##### Colima
 ### [ The Colima volcano in Mexico increases its eruptive activity, with strong explosions. ](/news/2005/06/10/the-colima-volcano-in-mexico-increases-its-eruptive-activity-with-strong-explosions.md)
-_Context: Colima, Mexico_
+_Context: Mexico, Colima_
 
 ##### Bolivia
 ### [ The Bolivian Congress accepts the resignation of Carlos Mesa and names Supreme Court justice Eduardo Rodrguez as the new interim president ](/news/2005/06/10/the-bolivian-congress-accepts-the-resignation-of-carlos-mesa-and-names-supreme-court-justice-eduardo-rodriguez-as-the-new-interim-president.md)
-_Context: Bolivia, Carlos Mesa, Eduardo Rodrguez_
+_Context: Carlos Mesa, Bolivia, Eduardo Rodrguez_
 
 ##### Japan
 ### [ In Japan, a high school student throws a bomb into classroom in Hikari, Yamaguchi Prefecture. 69 students are injured. ](/news/2005/06/10/in-japan-a-high-school-student-throws-a-bomb-into-classroom-in-hikari-yamaguchi-prefecture-69-students-are-injured.md)
-_Context: Hikari, Japan, Yamaguchi Prefecture_
+_Context: Japan, Hikari, Yamaguchi Prefecture_
 
 ##### Australia
 ### [ In Australia, a Queensland government inquiry states that medical doctor Jayant Patel should be charged with murder, fraud, negligence and medical malpractice due to the death of 87 of his patients. Jayant Patel has left the country and his current location is unknown. ](/news/2005/06/10/in-australia-a-queensland-government-inquiry-states-that-medical-doctor-jayant-patel-should-be-charged-with-murder-fraud-negligence-and.md)
-_Context: fraud, murder, Australia, negligence, government, Jayant Patel, medical malpractice_
+_Context: negligence, fraud, Jayant Patel, murder, Australia, government, medical malpractice_
 
 ##### India
 ### [ In India, Subrata Roy, chairman of Sahara Group, goes public to state that he is healthy. Roy had been out of the public eye since April and his absence had aroused rumors of death, illness, intrafamily conflict and political pressure. ](/news/2005/06/10/in-india-subrata-roy-chairman-of-sahara-group-goes-public-to-state-that-he-is-healthy-roy-had-been-out-of-the-public-eye-since-april-an.md)

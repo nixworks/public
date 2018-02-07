@@ -13,7 +13,7 @@ _Context: internationally-recognized government, Second Libyan Civil War (2014-p
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard announces that it will buy Aruba Networks, a California-based manufacturer of wi-fi equipment, for approximately $2.7 billion in combined cash and equity. ](/news/2015/03/2/hewlett-packard-announces-that-it-will-buy-aruba-networks-a-california-based-manufacturer-of-wi-fi-equipment-for-approximately-2-7-billio.md)
-_Context: wi-fi, Hewlett-Packard, $, Aruba Networks_
+_Context: $, Hewlett-Packard, wi-fi, Aruba Networks_
 
 ##### South Korea
 ### [In response to joint exercises held by South Korea and the United States, North Korea fires two short-range missiles off its coast. ](/news/2015/03/2/in-response-to-joint-exercises-held-by-south-korea-and-the-united-states-north-korea-fires-two-short-range-missiles-off-its-coast.md)

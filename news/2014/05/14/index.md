@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/14/index.html)  [JSON](2014/05/14/index.json)  [XML](201
 
 ##### Yemeni Army
 ### [Seven Yemeni Army soldiers and 16 Al-Qaeda in the Arabian Peninsula militants are killed in fighting near the town of Azan in Shabwa province. ](/news/2014/05/14/seven-yemeni-army-soldiers-and-16-al-qaeda-in-the-arabian-peninsula-militants-are-killed-in-fighting-near-the-town-of-azan-in-shabwa-provinc.md)
-_Context: al-Qaida, Yemeni Army, Shabwa province_
+_Context: Yemeni Army, al-Qaida, Shabwa province_
 
 ##### 2014 pro-Russian unrest in Ukraine
 ### [Talks to end the crisis in Ukraine begin, without representatives of pro-Russian separatist groups. ](/news/2014/05/14/talks-to-end-the-crisis-in-ukraine-begin-without-representatives-of-pro-russian-separatist-groups.md)
@@ -17,7 +17,7 @@ _Context: Hyderabad_
 
 ##### Turkey
 ### [Turkey's Energy Minister Taner Yildiz raises the death toll from the disaster to at least 274, with 120 people still trapped in the mine and 80 miners injured, four seriously. ](/news/2014/05/14/turkey-s-energy-minister-taner-ya-lda-z-raises-the-death-toll-from-the-disaster-to-at-least-274-with-120-people-still-trapped-in-the-mine-a.md)
-_Context: Turkey, Taner Yildiz_
+_Context: Taner Yildiz, Turkey_
 
 ##### Wildfire
 ### [A number of wildfires destroy properties in Los Angeles and San Diego. ](/news/2014/05/14/a-number-of-wildfires-destroy-properties-in-los-angeles-and-san-diego.md)
@@ -33,7 +33,7 @@ The judge in the Oscar Pistorius trial orders that the South African Paralympic 
 
 ##### Portugal
 ### [Portuguese authorities charge Luiz Felipe Scolari, the coach of the Brazil national football team, with tax fraud allegedly carried out when he was the coach of Portugal. ](/news/2014/05/14/portuguese-authorities-charge-luiz-felipe-scolari-the-coach-of-the-brazil-national-football-team-with-tax-fraud-allegedly-carried-out-when.md)
-_Context: Portugal, Luiz Felipe Scolari, Portugal, tax fraud, Brazil national football team_
+_Context: Portugal, Luiz Felipe Scolari, tax fraud, Brazil national football team, Portugal_
 
 ## [Previous Day...](/news/2014/05/13/index.md)
 

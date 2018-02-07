@@ -17,7 +17,7 @@ _Context: Peruvian, Joran van der Sloot_
 
 ##### Republican candidates
 ### [Republican candidates for United States President are campaigning in South Carolina for the upcoming South Carolina primaries. ](/news/2012/01/11/republican-candidates-for-united-states-president-are-campaigning-in-south-carolina-for-the-upcoming-south-carolina-primaries.md)
-_Context: South Carolina primaries, U.S. President, Republican candidates, South Carolina_
+_Context: U.S. President, South Carolina, South Carolina primaries, Republican candidates_
 
 ## [Previous Day...](/news/2012/01/10/index.md)
 

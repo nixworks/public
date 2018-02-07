@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/27/index.html)  [JSON](2016/02/27/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [A truce is in effect, as of midnight. Russian Air Force attacks on opposition positions were reported to have been intensified before the truce took effect. ](/news/2016/02/27/a-truce-is-in-effect-as-of-midnight-russian-air-force-attacks-on-opposition-positions-were-reported-to-have-been-intensified-before-the-tr.md)
-_Context: Syrian Civil War, Russian Air Force_
+_Context: Russian Air Force, Syrian Civil War_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber kills at least 26 and injures nearly 50 in Afghanistan's eastern Kunar Province near the border with Pakistan. ](/news/2016/02/27/a-suicide-bomber-kills-at-least-26-and-injures-nearly-50-in-afghanistan-s-eastern-kunar-province-near-the-border-with-pakistan.md)

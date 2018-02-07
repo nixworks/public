@@ -13,11 +13,11 @@ The only functioning power plant in the Palestinian territory is out of action a
 
 ##### North Korea's nuclear program
 ### [The U.S. Pacific Command and South Korea's Joint Chiefs of Staff report that a North Korean missile, tested near the city of Sinpo on the country's east coast, blew up almost immediately after the launch, just hours before U.S. Vice President Mike Pence was due in South Korea for talks about the North's arms program. ](/news/2017/04/16/the-u-s-pacific-command-and-south-korea-s-joint-chiefs-of-staff-report-that-a-north-korean-missile-tested-near-the-city-of-sinpo-on-the-co.md)
-_Context: Mike Pence, U.S. Vice President, North Korea, U.S. Pacific Command, North Korea's nuclear program, Sinpo, South Korea's Joint Chiefs of Staff_
+_Context: U.S. Pacific Command, Sinpo, North Korea, Mike Pence, South Korea's Joint Chiefs of Staff, North Korea's nuclear program, U.S. Vice President_
 
 ##### Shooting of Robert Godwin
 ### [Cleveland police search for a suspect identified in a Facebook video showing one man shooting an elderly man. ](/news/2017/04/16/cleveland-police-search-for-a-suspect-identified-in-a-facebook-video-showing-one-man-shooting-an-elderly-man.md)
-_Context: Shooting of Robert Godwin, Cleveland, Facebook_
+_Context: Shooting of Robert Godwin, Facebook, Cleveland_
 
 ##### Turkish constitutional referendum, 2017
 ### [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md)

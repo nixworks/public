@@ -9,15 +9,15 @@ General John de Chastelain has said that he is satisfied that the IRA has comple
 
 ##### school
 ### [ Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. ](/news/2005/09/26/five-school-teachers-were-killed-in-an-insurgent-attack-in-iskandariya-south-of-baghdad.md)
-_Context: Baghdad, Iskandariya, school, Iraqi insurgency_
+_Context: Iraqi insurgency, Baghdad, school, Iskandariya_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: Israeli Airstrikes on Palestinian targets continue, with the Israel Defense Forces firing missiles in Gaza, knocking out the power supply to the East of the city, the Khan Yunis refugee camp and Rafah. Hamas had earlier declared an end to rocket attacks following pressure from the Palestinian National Authority and Egypt. ](/news/2005/09/26/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-targets-continue-with-the-israel-defense-forces-firing-missiles-in-gaza-k.md)
-_Context: Israel Defense Forces, Israeli-Palestinian conflict, Khan Yunis, Palestinian Authority, Israel, Gaza Strip, Rafah, Egypt, Hamas, Palestine, Airstrike_
+_Context: Israel, Israel Defense Forces, Egypt, Khan Yunis, Palestinian Authority, Hamas, Israeli-Palestinian conflict, Rafah, Airstrike, Gaza Strip, Palestine_
 
 ##### Israel
 ### [ An Israeli citizen from an Israeli settlement east of Jerusalem was found murdered in Ramallah after Hamas killed the man they accused of being a member of the Shabak. ](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.md)
-_Context: Ramallah, Hamas, Israeli settlement, Israel, Shin Bet's, Jerusalem_
+_Context: Jerusalem, Israeli settlement, Hamas, Israel, Ramallah, Shin Bet's_
 
 ## [Previous Day...](/news/2005/09/25/index.md)
 

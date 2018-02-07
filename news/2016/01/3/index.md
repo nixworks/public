@@ -13,7 +13,7 @@ Pathankot terror attack: Operation continues for second day; PM Modi chairs high
 
 ##### 2015-16 South Pacific cyclone season
 ### [Fiji warns residents to prepare for the impact of severe tropical cyclone Ula. ](/news/2016/01/3/fiji-warns-residents-to-prepare-for-the-impact-of-severe-tropical-cyclone-ula.md)
-_Context: Fiji, 2015-16 South Pacific cyclone season, severe tropical cyclone Ula_
+_Context: severe tropical cyclone Ula, Fiji, 2015-16 South Pacific cyclone season_
 
 ##### United States
 ### [In the United States, New York Governor Andrew M. Cuomo orders communities statewide to place homeless people in shelters when temperatures reach freezing. ](/news/2016/01/3/in-the-united-states-new-york-governor-andrew-m-cuomo-orders-communities-statewide-to-place-homeless-people-in-shelters-when-temperatures.md)
