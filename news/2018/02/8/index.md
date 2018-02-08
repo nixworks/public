@@ -25,11 +25,15 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: Bruges, Amsterdam, Belgium-Netherlands relations, concerns, Market Square_
+_Context: concerns, Belgium-Netherlands relations, Market Square, Bruges, Amsterdam_
+
+##### United States-Guatemala relations
+### [US President Donald Trump met with Guatemalan President Jimmy Morales. Trump thanked Morales for having supported the decision of the United States on the transfer of the Embassy of Tel Aviv to Jerusalem. They dealt with various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/us-president-donald-trump-met-with-guatemalan-president-jimmy-morales-trump-thanked-morales-for-having-supported-the-decision-of-the-united.md)
+At Washington meeting, US president praises Jimmy Morales for following the US example on Israel
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: same-sex marriage, Bermuda, LGBT rights in Bermuda_
+_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
 
 ## [Previous Day...](/news/2018/02/7/index.md)
 
