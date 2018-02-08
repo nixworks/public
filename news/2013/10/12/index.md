@@ -11,9 +11,9 @@ A powerful cyclone is heading towards India&#039;s east coast.
 ### [Typhoon Nari hits the Philippines killing at least five people and leaving two million without power. ](/news/2013/10/12/typhoon-nari-hits-the-philippines-killing-at-least-five-people-and-leaving-two-million-without-power.md)
 Typhoon Nari has pummelled the northern Philippines, killing five people and leaving millions without electricity.
 
-##### veers off a cliff
+##### Veers off a cliff
 ### [At least 50 people are dead after a truck veers off a cliff in La Convencion Province in Peru. ](/news/2013/10/12/at-least-50-people-are-dead-after-a-truck-veers-off-a-cliff-in-la-convencion-province-in-peru.md)
-_Context: La Convencion Province, Peru, veers off a cliff_
+_Context: veers off a cliff, Peru, La Convencion Province_
 
 ##### Vietnam
 ### [A series of explosions at a fireworks factory in northern Vietnam has killed at least 15 people and left many others injured.](/news/2013/10/12/a-series-of-explosions-at-a-fireworks-factory-in-northern-vietnam-has-killed-at-least-15-people-and-left-many-others-injured.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/28/a-suicide-bomber-blows-herself-up-outside-sri-l
 
 ### [2007-11-28](/news/2007/11/28/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber blows herself up outside Sri Lankan Minister's office, killing one and injuring two.date=December 2007 
 
 

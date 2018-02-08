@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/9/the-2006-fifa-world-cup-begins-at-the-fifa-world
 
 ### [2006-06-9](/news/2006/06/9/index.md)
 
-##### defending champion
+##### Defending champion
 #  The 2006 FIFA World Cup begins at the FIFA World Cup Stadium Munich. 
 
 

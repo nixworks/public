@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/1/a-total-solar-eclipse-is-visible-from-northern-c
 
 ### [2008-08-1](/news/2008/08/1/index.md)
 
-##### total solar eclipse
+##### Total solar eclipse
 #  A total solar eclipse is visible from northern Canada (Nunavut), Greenland, central Russia, eastern Kazakhstan, western Mongolia and China. 
 
 

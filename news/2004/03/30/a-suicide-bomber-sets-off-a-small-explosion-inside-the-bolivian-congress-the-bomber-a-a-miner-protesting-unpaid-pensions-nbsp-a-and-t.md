@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/30/a-suicide-bomber-sets-off-a-small-explosion-ins
 
 ### [2004-03-30](/news/2004/03/30/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber sets off a small explosion inside the Bolivian Congress. The bomber - a miner, protesting unpaid pensions&nbsp;- and the chief congressional security guard are killed; several bystanders are wounded. 
 
 

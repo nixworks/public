@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/19/syrian-opposition-forces-facilitate-infiltratio
 
 ### [2012-09-19](/news/2012/09/19/index.md)
 
-##### facilitate infiltration
+##### Facilitate infiltration
 # Syrian opposition forces facilitate infiltration from Turkey by seizing control of a border crossing in the province of Ar-Raqqah. 
 
 

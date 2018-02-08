@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/11/thousands-of-supporters-of-former-thai-prime-mi
 
 ### [2010-01-11](/news/2010/01/11/index.md)
 
-##### red shirt
+##### Red shirt
 # Thousands of supporters of former Thai Prime Minister Thaksin Shinawatra gather outside the home of a royal adviser accused of involvement in the 2006 coup that ousted the Prime Minister. 
 
 Thousands of supporters of former premier Thaksin Shinawatra rallied on Monday outside the rural home of a royal adviser they accuse of involvement in the 2006 coup that toppled the billionaire.

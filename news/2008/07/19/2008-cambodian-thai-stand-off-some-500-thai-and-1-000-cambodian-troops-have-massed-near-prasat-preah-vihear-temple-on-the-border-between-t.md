@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/19/2008-cambodian-thai-stand-off-some-500-thai-and
 
 ### [2008-07-19](/news/2008/07/19/index.md)
 
-##### exchange gunfire
+##### Exchange gunfire
 #  2008 Cambodian-Thai stand-off: Some 500 Thai and 1,000 Cambodian troops have massed near Prasat Preah Vihear temple on the border between the two countries, increasing their presence on the fifth day of the tense stand-off. 
 
 

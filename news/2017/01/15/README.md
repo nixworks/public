@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/15/index.html)  [JSON](2017/01/15/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [At least seven people are killed when their vehicle hits a roadside bomb in Nangarhar Province. ](/news/2017/01/15/at-least-seven-people-are-killed-when-their-vehicle-hits-a-roadside-bomb-in-nangarhar-province.md)
-_Context: Nangarhar Province, War in Afghanistan_
+_Context: War in Afghanistan, Nangarhar Province_
 
 ##### Floods in Thailand
 ### [Flooding in southern Thailand has caused 40 deaths in recent days with more heavy rain forecast for Monday. ](/news/2017/01/15/flooding-in-southern-thailand-has-caused-40-deaths-in-recent-days-with-more-heavy-rain-forecast-for-monday.md)
@@ -27,13 +27,13 @@ Inmates seize control of a jail for 14 hours in the city of Natal, killing at le
 ### [Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. ](/news/2017/01/15/bahrain-executes-three-people-for-their-alleged-involvement-in-a-bombing-that-killed-three-police-officers-in-2014-the-first-executions-in.md)
 UK urged to loosen ties with Gulf nation after killing of three Shia Muslims as protesters claim confessions extracted under torture
 
-##### hydrogen
+##### Hydrogen
 ### [Scientists have created a new form of hydrogen at temperature near absolute zero. These anions or clusters are formed by an electron addition to liquid helium nanodroplets doped with molecular hydrogen or deuterium. ](/news/2017/01/15/scientists-have-created-a-new-form-of-hydrogen-at-temperature-near-absolute-zero-these-anions-or-clusters-are-formed-by-an-electron-additio.md)
 As the element that makes up 75 percent of all the mass in the Universe, and more than 90 percent of all the atoms, we’re all pretty well acquainted with hydrogen.
 
 ##### SpaceX
 ### [SpaceX returns to flight by placing 10 Iridium NEXT satellites in orbit and successfully recovering the first stage of its Falcon 9 launcher on a droneship. ](/news/2017/01/15/spacex-returns-to-flight-by-placing-10-iridium-next-satellites-in-orbit-and-successfully-recovering-the-first-stage-of-its-falcon-9-launcher.md)
-_Context: Falcon 9, recovering the first stage, placing 10 Iridium NEXT satellites in orbit, SpaceX_
+_Context: SpaceX, placing 10 Iridium NEXT satellites in orbit, recovering the first stage, Falcon 9_
 
 ## [Previous Day...](/news/2017/01/14/index.md)
 

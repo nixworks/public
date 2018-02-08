@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/22/the-first-case-of-avian-influenza-bird-flu-has-
 
 ### [2005-10-22](/news/2005/10/22/index.md)
 
-##### avian influenza
+##### Avian influenza
 #  The first case of avian influenza (bird flu) has been discovered in the United Kingdom from a South American parrot. Tests are being carried out on the parrot, which died in quarantine, to determine whether it had the H5N1 strain of the virus. 
 
 

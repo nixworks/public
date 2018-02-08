@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-
 
 ### [2017-05-2](/news/2017/05/2/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. 
 
 

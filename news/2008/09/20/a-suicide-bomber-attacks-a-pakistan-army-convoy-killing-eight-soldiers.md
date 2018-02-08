@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/20/a-suicide-bomber-attacks-a-pakistan-army-convoy
 
 ### [2008-09-20](/news/2008/09/20/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber attacks a Pakistan Army convoy, killing eight soldiers. 
 
 

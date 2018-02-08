@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/12/a-gunman-kills-two-people-at-a-bar-in-habikino-
 
 ### [2010-01-12](/news/2010/01/12/index.md)
 
-##### gunman kills two people
+##### Gunman kills two people
 # A gunman kills two people at a bar in Habikino, Japan, before turning the gun on himself. 
 
 

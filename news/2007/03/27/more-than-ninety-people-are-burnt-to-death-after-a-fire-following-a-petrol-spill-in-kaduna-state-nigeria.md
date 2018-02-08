@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/27/more-than-ninety-people-are-burnt-to-death-afte
 
 ### [2007-03-27](/news/2007/03/27/index.md)
 
-##### fire
+##### Fire
 #  More than ninety people are burnt to death after a fire following a petrol spill in Kaduna State, Nigeria. 
 
 

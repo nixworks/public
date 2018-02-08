@@ -23,7 +23,7 @@ At least 15 soldiers were killed and four wounded by suspected al Qaeda militant
 ### [For the first time in its 54-year history the State Water Project announces a zero water allocation for the state of California providing no water to urban residents or farmers this year amid a record setting drought. ](/news/2014/01/31/for-the-first-time-in-its-54-year-history-the-state-water-project-announces-a-zero-water-allocation-for-the-state-of-california-providing-no.md)
 Officials Friday said that for the first time ever, the State Water Project that helps supply a majority of Californians may be unable to make any deliveries except to maintain public health and safety. 
 
-##### killing Meredith Kercher
+##### Killing Meredith Kercher
 ### [Raffaele Sollecito is arrested in Italy near the Austrian border after again being found guilty of the murder of Meredith Kercher. ](/news/2014/01/31/raffaele-sollecito-is-arrested-in-italy-near-the-austrian-border-after-again-being-found-guilty-of-the-murder-of-meredith-kercher.md)
 Italian police find Raffaele Sollecito near the Austrian border after a court reinstated his guilty verdict for killing Briton Meredith Kercher.
 

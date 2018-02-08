@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/3/computer-microchip-manufacturer-amd-asks-a-delaw
 
 ### [2005-07-3](/news/2005/07/3/index.md)
 
-##### microchip
+##### Microchip
 #  Computer microchip manufacturer AMD asks a Delaware court to order that third parties to its antitrust lawsuit against industry giant Intel, preserve certain documents in their possession that may be required as evidence. The court grants that request, ordering the third parties to suspend normal document destruction as to the documents described. 
 
 

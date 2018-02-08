@@ -19,7 +19,7 @@ A magnitude 5.7 earthquake kills at least 13 people and injures more than 200 in
 ### [The District Court for the District of Columbia releases John Hinckley Jr, U.S. President Ronald Reagan's March 1981 would-be assassin, from a psychiatric hospital after 35 years. ](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.md)
 John Hinckley Jr, who tried to kill US President Ronald Reagan in 1981, is freed after 35 years in a psychiatric hospital.
 
-##### drug crackdown
+##### Drug crackdown
 ### [The sister of Filipino actress Maritoni Fernandez and daughter of British hereditary peer Antony Moynihan, 3rd Baron Moynihan is shot dead in a suburb of Manila. Through deliberate evidence left at the scene, the perpetrator's motive appears to be an implication that Moynihan had been a drug dealer. ](/news/2016/09/10/the-sister-of-filipino-actress-maritoni-fernandez-and-daughter-of-british-hereditary-peer-antony-moynihan-3rd-baron-moynihan-is-shot-dead-i.md)
 Ma. Aurora Moynihan, an alleged drug pusher to celebrities, was the sister of actress Maritoni Fernandez 
 

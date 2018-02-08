@@ -9,7 +9,7 @@ Sources in Strip say Air Force jets bombed several targets in Khan Younis, Deir 
 
 ##### Ivory Coast
 ### [Fighting erupts in western Ivory Coast between rebels and forces loyal to incumbent President Laurent Gbagbo, with injured people crossing into Liberia. ](/news/2011/03/6/fighting-erupts-in-western-ivory-coast-between-rebels-and-forces-loyal-to-incumbent-president-laurent-gbagbo-with-injured-people-crossing-i.md)
-_Context: Liberia, Laurent Gbagbo, Ivory Coast, President_
+_Context: President, Laurent Gbagbo, Liberia, Ivory Coast_
 
 ##### Paktika Province
 ### [At least 12 civilians are killed and at least 5 others are injured in eastern Afghanistan's Paktika Province. ](/news/2011/03/6/at-least-12-civilians-are-killed-and-at-least-5-others-are-injured-in-eastern-afghanistan-s-paktika-province.md)
@@ -37,15 +37,15 @@ _Context: Bay of Bengal, India_
 
 ##### The Washington Post
 ### ["The Washington Post" reports that the military forces imprisoned alleged whistleblower Bradley Manning to strip each night and sleep naked, having confiscated his boxers earlier this week following Manning's protest that restrictions imposed on him were "absurd". A spokesperson for the facility denies "any sort of humiliation or embarrassment" is intended. ](/news/2011/03/6/the-washington-post-reports-that-the-military-forces-imprisoned-alleged-whistleblower-bradley-manning-to-strip-each-night-and-sleep-naked.md)
-_Context: The Washington Post, whistleblower, Bradley Manning_
+_Context: whistleblower, Bradley Manning, The Washington Post_
 
 ##### United States Navy
 ### [United States Navy commandos from the destroyer USS "Bulkeley" capture four Somali pirates who boarded the Japanese oil tanker, the MV Guanabara. ](/news/2011/03/6/united-states-navy-commandos-from-the-destroyer-uss-bulkeley-capture-four-somali-pirates-who-boarded-the-japanese-oil-tanker-the-mv-guana.md)
-_Context: pirates, MV Guanabara, oil tanker, USS ''Bulkeley'', United States Navy, destroyer, Japan, commando_
+_Context: Japan, commando, oil tanker, MV Guanabara, United States Navy, USS ''Bulkeley'', pirates, destroyer_
 
 ##### Hamid Karzai
 ### [Hamid Karzai, the President of Afghanistan, warns General David Petraeus the head of United States and NATO forces in Afghanistan that civilian casualties in the Afghanistan war and rejects an apology for the mistaken killings of nine boys in a NATO air attack. ](/news/2011/03/6/hamid-karzai-the-president-of-afghanistan-warns-general-david-petraeus-the-head-of-united-states-and-nato-forces-in-afghanistan-that-civil.md)
-_Context: David Petraeus, Hamid Karzai, NATO, General, Afghanistan President, United States military, War in Afghanistan (2001-present), Afghanistan_
+_Context: General, NATO, Afghanistan, United States military, Hamid Karzai, War in Afghanistan (2001-present), David Petraeus, Afghanistan President_
 
 ##### Brazilian Carnival
 ### [The Brazilian Carnival has its peak main carnival processions in Rio de Janeiro. ](/news/2011/03/6/the-brazilian-carnival-has-its-peak-main-carnival-processions-in-rio-de-janeiro.md)
@@ -61,7 +61,7 @@ _Context: Phil Collins, England_
 
 ##### Chile
 ### [A 6.2 magnitude earthquake shakes northern Chile and southern Peru. ](/news/2011/03/6/a-6-2-magnitude-earthquake-shakes-northern-chile-and-southern-peru.md)
-_Context: Chile, Peru_
+_Context: Peru, Chile_
 
 ##### Taichung
 ### [Nine people are killed and 12 injured in a fire in a bar in Taichung, Taiwan. ](/news/2011/03/6/nine-people-are-killed-and-12-injured-in-a-fire-in-a-bar-in-taichung-taiwan.md)
@@ -71,9 +71,9 @@ Nine people are killed and 11 more injured after a fire breaks out in a bar in t
 ### [Three people are killed and 28 others are hospitalised in a shipping incident on the Greek island of Crete. ](/news/2011/03/6/three-people-are-killed-and-28-others-are-hospitalised-in-a-shipping-incident-on-the-greek-island-of-crete.md)
 _Context: Greece, Crete_
 
-##### mobile home
+##### Mobile home
 ### [Seven people are missing after a mobile home park fire near Lake Granbury, Texas. ](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-park-fire-near-lake-granbury-texas.md)
-_Context: mobile home, Texas, Lake Granbury_
+_Context: Texas, Lake Granbury, mobile home_
 
 ##### President
 ### [President of Chile Sebastian Pinera, makes his first official visit to Israel and the Palestinian territories. ](/news/2011/03/6/president-of-chile-sebastia-n-pia-era-makes-his-first-official-visit-to-israel-and-the-palestinian-territories.md)
@@ -81,23 +81,23 @@ Peres lauds Pinera for heroism and determination in rescuing trapped miners.
 
 ##### Ron Prosor
 ### [Ron Prosor is appointed Israel's ambassador to the United Nations. ](/news/2011/03/6/ron-prosor-is-appointed-israel-s-ambassador-to-the-united-nations.md)
-_Context: Israel, United Nations, Ron Prosor_
+_Context: Ron Prosor, United Nations, Israel_
 
 ##### North Korea
 ### [North Korea reportedly used jamming devices to block South Korean military communications as tensions between the Koreas continues to simmer. ](/news/2011/03/6/north-korea-reportedly-used-jamming-devices-to-block-south-korean-military-communications-as-tensions-between-the-koreas-continues-to-simmer.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### State Department
 ### [The United States Department of State warns U.S. citizens of a high security threat level in Yemen due to what it describes as "terrorist activities and civil unrest". ](/news/2011/03/6/the-united-states-department-of-state-warns-u-s-citizens-of-a-high-security-threat-level-in-yemen-due-to-what-it-describes-as-terrorist-ac.md)
-_Context: State Department, Yemen, 2011 Yemeni protests_
+_Context: Yemen, 2011 Yemeni protests, State Department_
 
 ##### Kenya
 ### [Kenya arrests six Somali Islamist al-Shabaab fighters in the border town of Mandera. ](/news/2011/03/6/kenya-arrests-six-somali-islamist-al-shabaab-fighters-in-the-border-town-of-mandera.md)
-_Context: Al-Shabaab, Mandera, Somalia, Kenya, Islamist_
+_Context: Somalia, Islamist, Kenya, Mandera, Al-Shabaab_
 
 ##### United States
 ### [Gunmen attacked patrons at a bar near the United States consulate in Ciudad Juarez, Mexico killing three people. ](/news/2011/03/6/gunmen-attacked-patrons-at-a-bar-near-the-united-states-consulate-in-ciudad-jua-rez-mexico-killing-three-people.md)
-_Context: United States, Mexico, Ciudad Juarez_
+_Context: United States, Ciudad Juarez, Mexico_
 
 ##### Egyptian Army
 ### [Egyptian Army General Mansour el-Essawy is named as the new Minister of Interior responsible for security replacing Mahmoud Wagdy. ](/news/2011/03/6/egyptian-army-general-mansour-el-essawy-is-named-as-the-new-minister-of-interior-responsible-for-security-replacing-mahmoud-wagdy.md)
@@ -105,7 +105,7 @@ _Context: Egyptian interior minister, Mahmoud Wagdy, Mansour el-Essawy, Egyptian
 
 ##### Sultan of Oman
 ### [The Sultan of Oman Qaboos bin Said dismisses three senior ministers replacing them with Khaled bin Hilal bin Saud al-Busaidi, Sultan bin Mohammed al-Numani and Nasr bin Hamoud bin Ahmed al Kindi following concerns raised in the 2011 Omani protests. ](/news/2011/03/6/the-sultan-of-oman-qaboos-bin-said-dismisses-three-senior-ministers-replacing-them-with-khaled-bin-hilal-bin-saud-al-busaidi-sultan-bin-moh.md)
-_Context: Khaled bin Hilal bin Saud al-Busaidi, Nasr bin Hamoud bin Ahmed al Kindi, Sultan bin Mohammed al-Numani, Sultan of Oman, Qaboos bin Said, anti-government protests_
+_Context: Qaboos bin Said, Khaled bin Hilal bin Saud al-Busaidi, anti-government protests, Sultan bin Mohammed al-Numani, Nasr bin Hamoud bin Ahmed al Kindi, Sultan of Oman_
 
 ##### Fine Gael
 ### [The Fine Gael and Labour political parties agree to form a coalition. ](/news/2011/03/6/the-fine-gael-and-labour-political-parties-agree-to-form-a-coalition.md)

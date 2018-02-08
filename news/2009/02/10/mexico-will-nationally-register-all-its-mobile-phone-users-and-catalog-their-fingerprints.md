@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/10/mexico-will-nationally-register-all-its-mobile-
 
 ### [2009-02-10](/news/2009/02/10/index.md)
 
-##### mobile phone
+##### Mobile phone
 #  Mexico will nationally register all its mobile phone users and catalog their fingerprints. 
 
 Mexico will start a national register of mobile phone users that will include fingerprinting all customers in an effort to catch criminals who use the devices to extort money and negotiate kidnapping ransoms.

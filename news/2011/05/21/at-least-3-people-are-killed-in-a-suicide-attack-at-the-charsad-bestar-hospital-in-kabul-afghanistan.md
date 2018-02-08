@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/21/at-least-3-people-are-killed-in-a-suicide-attac
 
 ### [2011-05-21](/news/2011/05/21/index.md)
 
-##### suicide attack
+##### Suicide attack
 # At least 3 people are killed in a suicide attack at the Charsad Bestar Hospital in Kabul, Afghanistan. 
 
 At least six medical students dead and 23 others injured in suicide bombing inside military hospital.

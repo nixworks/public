@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/30/in-france-a-court-in-paris-convicts-14-militant
 
 ### [2005-06-30](/news/2005/06/30/index.md)
 
-##### separatist
+##### Separatist
 #  In France, a court in Paris convicts 14 militant separatists from ETA and Breton Revolutionary Army
 
 

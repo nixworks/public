@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/27/a-tornado-outbreak-across-four-u-s-states-kills
 
 ### [2005-11-27](/news/2005/11/27/index.md)
 
-##### tornado outbreak
+##### Tornado outbreak
 #  A tornado outbreak across four U.S. states kills at least two people. 
 
 

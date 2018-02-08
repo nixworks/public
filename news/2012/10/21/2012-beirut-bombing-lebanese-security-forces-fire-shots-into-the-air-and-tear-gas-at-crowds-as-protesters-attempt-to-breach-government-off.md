@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/21/2012-beirut-bombing-lebanese-security-forces-fi
 
 ### [2012-10-21](/news/2012/10/21/index.md)
 
-##### assassination of  Wissam al-Hassan
+##### Assassination of  Wissam al-Hassan
 # 2012 Beirut bombing: Lebanese security forces fire shots into the air and tear gas at crowds, as protesters attempt to breach government offices of prime minister Mikati in response to a car bomb that killed intelligence chief Wissam al-Hassan. 
 
 Protesters try to storm offices of Lebanese PM Mikati, demanding his resignation over assassination of intelligence chief.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/17/a-suicide-bombing-occurs-in-aktobe-western-kaza
 
 ### [2011-05-17](/news/2011/05/17/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing occurs in Aktobe, western Kazakhstan, injuring three people. 
 
 

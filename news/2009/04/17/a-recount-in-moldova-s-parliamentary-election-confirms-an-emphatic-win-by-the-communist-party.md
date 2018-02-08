@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/17/a-recount-in-moldova-s-parliamentary-election-c
 
 ### [2009-04-17](/news/2009/04/17/index.md)
 
-##### recount
+##### Recount
 #  A recount in Moldova's parliamentary election confirms an "emphatic win" by the Communist Party. 
 
 

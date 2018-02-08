@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/10/french-foreign-minister-laurent-fabius-announce
 
 ### [2016-02-10](/news/2016/02/10/index.md)
 
-##### foreign minister
+##### Foreign minister
 # French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. 
 
 French Foreign Minister Laurent Fabius said he was resigning after serving nearly four years in the position.

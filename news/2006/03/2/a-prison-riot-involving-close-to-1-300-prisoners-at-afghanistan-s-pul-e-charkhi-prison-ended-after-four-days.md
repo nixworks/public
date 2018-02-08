@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/2/a-prison-riot-involving-close-to-1-300-prisoners
 
 ### [2006-03-2](/news/2006/03/2/index.md)
 
-##### prison riot
+##### Prison riot
 #  A prison riot involving close to 1,300 prisoners at Afghanistan's Pul-e-Charkhi prison ended after four days. 
 
 

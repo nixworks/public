@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/15/2011-libyan-civil-war-human-rights-groups-accus
 
 ### [2011-04-15](/news/2011/04/15/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Human rights groups accuse pro-Gaddafi troops of using cluster bombs in Misrata. 
 
 

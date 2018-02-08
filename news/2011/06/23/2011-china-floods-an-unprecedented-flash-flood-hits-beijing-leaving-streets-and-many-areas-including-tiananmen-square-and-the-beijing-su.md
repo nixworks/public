@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### heavy flood
+##### Heavy flood
 # 2011 China floods: An 'unprecedented' flash flood hits Beijing, leaving streets and many areas including Tiananmen Square and the Beijing Subway system underwater. 
 
 

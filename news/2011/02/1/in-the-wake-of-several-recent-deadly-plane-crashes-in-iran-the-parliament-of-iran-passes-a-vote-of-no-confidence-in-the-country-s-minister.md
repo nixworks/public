@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/1/in-the-wake-of-several-recent-deadly-plane-crash
 
 ### [2011-02-1](/news/2011/02/1/index.md)
 
-##### parliament
+##### Parliament
 # In the wake of several recent deadly plane crashes in Iran, the Parliament of Iran passes a vote of no confidence in the country's Minister of Roads and Transportation Hamid Behbahani and impeaches him. 
 
 

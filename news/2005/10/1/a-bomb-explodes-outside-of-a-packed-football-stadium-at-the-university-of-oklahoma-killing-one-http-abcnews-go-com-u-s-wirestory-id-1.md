@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/1/a-bomb-explodes-outside-of-a-packed-football-sta
 
 ### [2005-10-1](/news/2005/10/1/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes outside of a packed football stadium at the University of Oklahoma, killing one. [http:--abcnews.go.com-U.S.-wireStory?id=1177089 (ABC)] [https:--www.nytimes.com-2005-10-02-national-02blast.html (NYTimes)] (registration required)
 
 

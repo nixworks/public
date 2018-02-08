@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/6/a-suicide-bomber-in-a-car-blows-himself-up-near-
 
 ### [2005-05-6](/news/2005/05/6/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber in a car blows himself up near a vegetable market in a southern Iraqi town, killing at least 22 people and wounding 45. 
 
 

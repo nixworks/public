@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/12/at-least-four-people-are-killed-in-a-suicide-bo
 
 ### [2011-01-12](/news/2011/01/12/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least four people are killed in a suicide bombing in the Afghan capital Kabul. 
 
 At least eight people are killed in attacks on Afghan intelligence forces in Kabul and the northern province of Kunduz.

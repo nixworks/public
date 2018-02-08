@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/23/a-suicide-car-bomber-kills-at-least-18-and-inju
 
 ### [2005-11-23](/news/2005/11/23/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide car bomber kills at least 18 and injuries at least 25, mostly Iraqi Police, in an ambush in the northern Iraqi city of Kirkuk. 
 
 

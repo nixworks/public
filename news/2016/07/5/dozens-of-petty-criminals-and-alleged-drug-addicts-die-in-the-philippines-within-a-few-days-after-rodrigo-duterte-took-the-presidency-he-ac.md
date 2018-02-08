@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/5/dozens-of-petty-criminals-and-alleged-drug-addic
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Dozens of petty criminals and alleged drug addicts die in the Philippines within a few days after Rodrigo Duterte took the presidency. He actively encouraged extrajudicial killing of drug addicts and petty criminals before and after the election. 
 
 Duterte, 71, won power in a landslide after a campaign dominated by threats to kill tens of thousands in a war on crime

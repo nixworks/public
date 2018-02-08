@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-chin
 
 ### [2007-06-3](/news/2007/06/3/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. 
 
 

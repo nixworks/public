@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/16/norwegian-black-metal-musician-kristian-varg-vi
 
 ### [2013-07-16](/news/2013/07/16/index.md)
 
-##### black metal
+##### Black metal
 # Norwegian black metal musician, Kristian "Varg" Vikernes, and his wife are arrested in France on suspicion of alleged plans for a terrorist act after buying 4 rifles at the same time. 
 
 A neo-Nazi musician linked to Norwegian mass killer Anders Behring Breivik is arrested in central France on suspicion of planning a &quot;major terrorist act&quot;.

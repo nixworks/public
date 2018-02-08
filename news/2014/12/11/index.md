@@ -15,13 +15,13 @@ _Context: Nigeria, Jos_
 ### [A study by BBC World Service and King's College London finds the death toll from jihadist attacks during the month of November surpassed 5,000. ](/news/2014/12/11/a-study-by-bbc-world-service-and-king-s-college-london-finds-the-death-toll-from-jihadist-attacks-during-the-month-of-november-surpassed-5-0.md)
 The BBC tracked fatal jihadist attacks around the globe for the month of November.
 
-##### time capsule
+##### Time capsule
 ### [The oldest time capsule in the United States is unearthed at the Massachusetts State House. The capsule was first buried in the cornerstone by Samuel Adams in 1795 and reburied by Henry Gardner in 1855. Wrapped in cowhide, four silver coins fell out when it was found. ](/news/2014/12/11/the-oldest-time-capsule-in-the-united-states-is-unearthed-at-the-massachusetts-state-house-the-capsule-was-first-buried-in-the-cornerstone.md)
 The capsule was buried under the Golden Dome of the Massachusetts State House in 1795 by then-Governor Samuel Adams and Paul Revere.
 
 ##### United States of America
 ### [The American state of California prepares for its worst storm in five years with schools closed in the San Francisco Bay Area. ](/news/2014/12/11/the-american-state-of-california-prepares-for-its-worst-storm-in-five-years-with-schools-closed-in-the-san-francisco-bay-area.md)
-_Context: United States of America, California, worst storm in five years, San Francisco Bay Area_
+_Context: worst storm in five years, San Francisco Bay Area, United States of America, California_
 
 ##### Typhoon Hagupit (Ruby)
 ### [The death toll from Typhoon Hagupit rises to 18. ](/news/2014/12/11/the-death-toll-from-typhoon-hagupit-rises-to-18.md)
@@ -29,13 +29,13 @@ The government&#039;s official death toll from tropical cyclone &#039;Ruby&#039;
 
 ##### National Truth Commission
 ### [The National Truth Commission set up to investigate human rights abuses by the Brazilian military government of 1964-1985 draws a link between regime era killings and kidnappings to the high number of killings by today's police force. ](/news/2014/12/11/the-national-truth-commission-set-up-to-investigate-human-rights-abuses-by-the-brazilian-military-government-of-1964-1985-draws-a-link-betwe.md)
-_Context: Brazilian military government, National Truth Commission, today's police force_
+_Context: today's police force, Brazilian military government, National Truth Commission_
 
 ##### British
 ### [Former British radio DJ Ray Teret is jailed for 25 years for a series of sexual assaults on 11 girls in the 1960s and 1970s conducted in association with Jimmy Saville. ](/news/2014/12/11/former-british-radio-dj-ray-teret-is-jailed-for-25-years-for-a-series-of-sexual-assaults-on-11-girls-in-the-1960s-and-1970s-conducted-in-ass.md)
-_Context: British, Ray Teret, Jimmy Saville_
+_Context: British, Jimmy Saville, Ray Teret_
 
-##### police
+##### Police
 ### [British police charge Aravindan Balakrishnan or "Comrade Bala" with 25 offences including rape in relation to the Lambeth slavery case. ](/news/2014/12/11/british-police-charge-aravindan-balakrishnan-or-comrade-bala-with-25-offences-including-rape-in-relation-to-the-lambeth-slavery-case.md)
 A man who led an obscure Maoist collective and allegedly held three women against their will in a London house for 30 years has been charged with 25 offences including rape, police said Thursday.
 
@@ -49,7 +49,7 @@ Whether or not passwords matter, and what conditions police must meet to search 
 
 ##### 2014 pro-democracy street protests
 ### [Authorities start clearing the main protest site in Hong Kong following a recent court order for protesters to vacate the site in Admiralty area. ](/news/2014/12/11/authorities-start-clearing-the-main-protest-site-in-hong-kong-following-a-recent-court-order-for-protesters-to-vacate-the-site-in-admiralty.md)
-_Context: 2014 pro-democracy street protests, Admiralty, Hong Kong_
+_Context: Hong Kong, 2014 pro-democracy street protests, Admiralty_
 
 ##### House of Representatives
 ### [The United States House of Representatives narrowly passes a budget spending bill to avoid a potential government shutdown. ](/news/2014/12/11/the-united-states-house-of-representatives-narrowly-passes-a-budget-spending-bill-to-avoid-a-potential-government-shutdown.md)
@@ -57,7 +57,7 @@ With less than three hours before a government shutdown, the House narrowly pass
 
 ##### US Navy
 ### [The US Navy initiates the operation of laser weapons. The first use is to protect ships deployed in the Persian Gulf. ](/news/2014/12/11/the-us-navy-initiates-the-operation-of-laser-weapons-the-first-use-is-to-protect-ships-deployed-in-the-persian-gulf.md)
-_Context: US Navy, laser weapon, Persian Gulf_
+_Context: laser weapon, Persian Gulf, US Navy_
 
 ## [Previous Day...](/news/2014/12/10/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/28/iraqi-insurgency-car-bombings-in-and-around-bag
 
 ### [2012-10-28](/news/2012/10/28/index.md)
 
-##### eight car bombings
+##### Eight car bombings
 # Iraqi insurgency: Car bombings in and around Baghdad kill 15 and injure 33 others. 
 
 

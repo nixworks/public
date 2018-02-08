@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/3/thousands-of-people-demonstrate-in-defence-of-pr
 
 ### [2009-10-3](/news/2009/10/3/index.md)
 
-##### press freedom
+##### Press freedom
 #  Thousands of people demonstrate in defence of press freedom in Rome, Italy, amid concerns of government interference. 
 
 Protesters thronged to a historic square in Rome to defend press freedom amid concerns of growing government interference in how the news is reported in Italy.

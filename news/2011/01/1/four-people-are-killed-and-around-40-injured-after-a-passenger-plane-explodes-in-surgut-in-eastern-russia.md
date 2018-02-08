@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/1/four-people-are-killed-and-around-40-injured-aft
 
 ### [2011-01-1](/news/2011/01/1/index.md)
 
-##### a passenger plane explodes
+##### A passenger plane explodes
 # Four people are killed and around 40 injured after a passenger plane explodes in Surgut in eastern Russia. 
 
 

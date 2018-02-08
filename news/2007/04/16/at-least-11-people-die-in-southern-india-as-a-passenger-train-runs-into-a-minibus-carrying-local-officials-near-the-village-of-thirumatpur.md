@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/16/at-least-11-people-die-in-southern-india-as-a-p
 
 ### [2007-04-16](/news/2007/04/16/index.md)
 
-##### southern India
+##### Southern India
 #  At least 11 people die in southern India as a passenger train runs into a minibus carrying local officials near the village of Thirumatpur in Tamil Nadu. 
 
 

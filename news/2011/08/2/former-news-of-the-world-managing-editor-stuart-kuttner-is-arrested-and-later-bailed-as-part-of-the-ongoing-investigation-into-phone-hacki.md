@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/2/former-news-of-the-world-managing-editor-stuart-
 
 ### [2011-08-2](/news/2011/08/2/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # Former "News of the World" managing editor Stuart Kuttner is arrested and later bailed as part of the ongoing investigation into phone hacking. 
 
 A 71-year-old man, thought to be ex-News of the World executive Stuart Kuttner, is bailed by police probing phone hacking and payments to officers.

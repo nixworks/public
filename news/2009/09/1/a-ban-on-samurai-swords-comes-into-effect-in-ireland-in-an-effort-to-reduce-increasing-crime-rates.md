@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/1/a-ban-on-samurai-swords-comes-into-effect-in-ire
 
 ### [2009-09-1](/news/2009/09/1/index.md)
 
-##### samurai sword
+##### Samurai sword
 #  A ban on samurai swords comes into effect in Ireland in an effort to reduce increasing crime rates. 
 
 A ban on Samurai swords comes into effect from today with those breaking the law facing up to seven years in prison.

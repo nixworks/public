@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/10/the-general-election-in-the-canadian-province-o
 
 ### [2007-10-10](/news/2007/10/10/index.md)
 
-##### general election
+##### General election
 #  The general election in the Canadian province of Ontario gives the Liberal government of Premier Dalton McGuinty an enlarged majority. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/7/a-hot-air-balloon-crashes-near-carterton-new-zea
 
 ### [2012-01-7](/news/2012/01/7/index.md)
 
-##### hot air balloon
+##### Hot air balloon
 # A hot air balloon crashes near Carterton, New Zealand, killing all eleven onboard. The accident was reportedly caused by a collision with a power line. 
 
 A hot-air balloon bursts into flames and crashes after hitting a power line in New Zealand, killing all 11 people on board.

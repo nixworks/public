@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/4/three-car-bombs-hit-the-egyptian-german-and-iran
 
 ### [2010-04-4](/news/2010/04/4/index.md)
 
-##### triple bombings
+##### Triple bombings
 # Three car bombs hit the Egyptian, German and Iranian embassies in the centre of the Iraqi capital, Baghdad, in quick succession, killing at least 30 people. 
 
 

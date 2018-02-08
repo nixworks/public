@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/11/french-prosecutors-reveal-that-a-money-launderi
 
 ### [2004-02-11](/news/2004/02/11/index.md)
 
-##### money-laundering
+##### Money-laundering
 #  French prosecutors reveal that a money-laundering probe into the transfers of millions of dollars to accounts held by the wife of Palestinian leader Yasser Arafat was opened in October 2003. The probe was opened after discovering that nearly $1.27 million is transferred with some regularity from Switzerland to Mrs. Arafat's accounts in Paris. Tracfin, an organization that collates information about money laundering, detected the movements of funds.
 
 

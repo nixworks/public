@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-fac
 
 ### [2017-05-3](/news/2017/05/3/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Candidates Marine Le Pen and Emmanuel Macron face off in a debate. 
 
 Centrist Emmanuel Macron and Marine Le Pen, of the far-right Front National, go head to head before Sunday’s decisive second-round vote to choose France’s next president

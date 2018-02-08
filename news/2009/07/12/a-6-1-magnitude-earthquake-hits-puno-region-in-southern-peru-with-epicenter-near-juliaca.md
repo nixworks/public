@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/12/a-6-1-magnitude-earthquake-hits-puno-region-in-
 
 ### [2009-07-12](/news/2009/07/12/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.1 magnitude earthquake hits Puno Region in southern Peru with epicenter near Juliaca. 
 
 

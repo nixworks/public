@@ -9,7 +9,7 @@ _Context: missile defence, Czech Republic, Wenceslas Square, Prague, United Stat
 
 ##### Iran
 ### [ Iran claims to have uncovered an espionage network run by the United States and its allies. ](/news/2007/05/26/iran-claims-to-have-uncovered-an-espionage-network-run-by-the-united-states-and-its-allies.md)
-_Context: espionage, Iran, United States_
+_Context: Iran, United States, espionage_
 
 ##### Fianna Fil
 ### [ Fianna Fil performs strongly in the Irish general election, putting it in a strong position to retain government. ](/news/2007/05/26/fianna-fail-performs-strongly-in-the-irish-general-election-putting-it-in-a-strong-position-to-retain-government.md)
@@ -21,15 +21,15 @@ _Context: Hambacher Fest, German_
 
 ##### Ukraine
 ### [ Several thousand Ukrainian Interior Ministry troops head for Kiev in defiance of orders to support President Viktor Yushchenko. ](/news/2007/05/26/several-thousand-ukrainian-interior-ministry-troops-head-for-kiev-in-defiance-of-orders-to-support-president-viktor-yushchenko.md)
-_Context: Ukraine, Viktor Yushchenko, Ukrainian President, Kiev_
+_Context: Kiev, Ukrainian President, Viktor Yushchenko, Ukraine_
 
 ##### China
 ### [ At least 21 people die in western China in landslides caused by heavy rain. ](/news/2007/05/26/at-least-21-people-die-in-western-china-in-landslides-caused-by-heavy-rain.md)
-_Context: landslide, China_
+_Context: China, landslide_
 
 ##### Hamas
 ### [ Hamas militants are considering lighter ceasefire terms offered by Fatah, specifically Palestinian President Mahmoud Abbas. They are giving Israel until May 27 to respond to this agreement, that would only end Israeli operations in the Gaza Strip. Hamas has said, however, that they are not completely committed to their offer. Israeli attack helicopters launch missile strikes on a various facilities, including a security facility near Palestinian Prime Minister Haniyeh's home. At least three people are injured by the air strikes. ](/news/2007/05/26/hamas-militants-are-considering-lighter-ceasefire-terms-offered-by-fatah-specifically-palestinian-president-mahmoud-abbas-they-are-giving.md)
-_Context: missile, air strikes, Fatah, Palestinian Authority President, Palestinian Authority, Israel Defense Forces, Ismail Haniyeh, attack helicopter, May 27, Prime Minister, Mahmoud Abbas, Gaza Strip, Hamas_
+_Context: Palestinian Authority, Fatah, Prime Minister, Israel Defense Forces, Palestinian Authority President, Gaza Strip, Hamas, Ismail Haniyeh, Mahmoud Abbas, attack helicopter, missile, air strikes, May 27_
 
 ## [Previous Day...](/news/2007/05/25/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/3/multiple-suicide-bombings-including-one-at-a-hos
 
 ### [2010-03-3](/news/2010/03/3/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Multiple suicide bombings, including one at a hospital, kill at least 33 and wound more than 50 people in Baqouba, Iraq. 
 
 Dozens die in Baquba as suicide bombers launch co-ordinated attacks days before March 7 vote.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/15/the-most-recent-u-s-government-statistics-show-
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
-##### drug overdose
+##### Drug overdose
 # The most recent U.S. government statistics show a marked increase in the yearly number of deaths by drug overdose. The number for end May 2017 is 66,324, up 17% when compared to the previous 12-month period. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/3/the-united-states-congress-allocates-250-million
 
 ### [2007-08-3](/news/2007/08/3/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress allocates $250 million to rebuild the I-35W Mississippi River bridge in Minneapolis, Minnesota. 
 
 

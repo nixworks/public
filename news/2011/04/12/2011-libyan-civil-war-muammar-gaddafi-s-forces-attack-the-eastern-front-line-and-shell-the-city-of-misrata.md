@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/12/2011-libyan-civil-war-muammar-gaddafi-s-forces-
 
 ### [2011-04-12](/news/2011/04/12/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Muammar Gaddafi's forces attack the eastern front line and shell the city of Misrata. 
 
 Moammar Gadhafi&#39;s forces fired rockets along the eastern front line and shelled the besieged city of Misrata on Tuesday as France and Britain said NATO should be doing more to pressure the Libyan regime. 

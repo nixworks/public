@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/27/two-tornadoes-hit-tuscaloosa-county-in-the-us-s
 
 ### [2011-04-27](/news/2011/04/27/index.md)
 
-##### tornado
+##### Tornado
 # Two tornadoes hit Tuscaloosa County in the US state of Alabama causing extensive damage, with the main strongest wedge tornado crossing over the state of Alabama and affecting the Gadsden Metropolitan Area. 
 
 Severe storms and tornadoes moving through the Southeast dealt a severe blow to the Tennessee Valley Authority on Wednesday, causing three nuclear reactors in Alabama to shut and knocking out 11 high-voltage power lines, the utility and regulators said.

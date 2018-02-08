@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/6/a-fire-at-a-day-care-center-kills-at-least-40-pe
 
 ### [2009-06-6](/news/2009/06/6/index.md)
 
-##### fire
+##### Fire
 #  A fire at a day-care center kills at least 40 people in Hermosillo, Mexico. 
 
 A fast-moving fire killed 31 children in a day care center in northern Mexico despite desperate attempts of firefighters who punched through the walls and fought their way through flames to rescue babies, toddlers and others trapped inside.

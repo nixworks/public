@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/five-species-of-shark-and-two-species-of-manta-
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### shark
+##### Shark
 # Five species of shark and two species of manta ray receive international protection as part of CITES. 
 
 

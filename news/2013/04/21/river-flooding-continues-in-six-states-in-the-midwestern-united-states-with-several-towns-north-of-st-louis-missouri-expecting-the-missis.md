@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/21/river-flooding-continues-in-six-states-in-the-m
 
 ### [2013-04-21](/news/2013/04/21/index.md)
 
-##### flooding
+##### Flooding
 # River flooding continues in six states in the midwestern United States with several towns north of St. Louis, Missouri, expecting the Mississippi River to reach a crest. 
 
 

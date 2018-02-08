@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/27/twenty-nine-convicts-are-hanged-in-evin-prison-
 
 ### [2008-07-27](/news/2008/07/27/index.md)
 
-##### hanging
+##### Hanging
 #  Twenty-nine convicts are hanged in Evin Prison in Tehran, Iran. 
 
 

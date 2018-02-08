@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/21/twenty-four-people-are-killed-during-combat-bet
 
 ### [2009-04-21](/news/2009/04/21/index.md)
 
-##### killed
+##### Killed
 #  Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. 
 
 

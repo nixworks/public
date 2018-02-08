@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/27/the-united-states-congress-passes-a-bill-contai
 
 ### [2007-07-27](/news/2007/07/27/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress passes a bill containing measures recommended by the 9-11 Commission. 
 
 

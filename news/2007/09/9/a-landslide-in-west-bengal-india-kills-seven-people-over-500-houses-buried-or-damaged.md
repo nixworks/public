@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/9/a-landslide-in-west-bengal-india-kills-seven-peo
 
 ### [2007-09-9](/news/2007/09/9/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide in West Bengal, India kills seven people; over 500 houses buried or damaged.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/9/first-president-of-rwanda-dominique-mbonyumutwa-
 
 ### [2010-03-9](/news/2010/03/9/index.md)
 
-##### president
+##### President
 # First President of Rwanda Dominique Mbonyumutwa's son objects to the removal of his father's corpse from the Democracy Stadium in Gitarama, saying it defies a court ruling. 
 
 

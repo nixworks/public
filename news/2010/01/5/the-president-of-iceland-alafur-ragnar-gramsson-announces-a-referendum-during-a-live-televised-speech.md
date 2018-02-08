@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/5/the-president-of-iceland-alafur-ragnar-gramsson-
 
 ### [2010-01-5](/news/2010/01/5/index.md)
 
-##### president
+##### President
 # The President of Iceland Olafur Ragnar Grimsson announces a referendum during a live televised speech. 
 
 Iceland&#39;s president has said he will not sign a bill to compensate the British &amp; Dutch govts over the failure of Icesave bank.

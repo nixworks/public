@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/16/detained-illegal-immigrants-injure-15-policemen
 
 ### [2011-08-16](/news/2011/08/16/index.md)
 
-##### illegal immigrants
+##### Illegal immigrants
 # Detained illegal immigrants injure 15 policemen and 3 soldiers in a riot in Malta. 
 
 Fifteen policemen, three soldiers and an immigrant were slightly injured in a riot at the Safi Detention Centre this morning. The Detention Service said in a statement that while the policemen and soliders were treated on the spot, the immigrant was taken to a health centre. The place was also...

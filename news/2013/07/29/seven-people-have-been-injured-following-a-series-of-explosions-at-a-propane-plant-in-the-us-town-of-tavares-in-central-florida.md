@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/29/seven-people-have-been-injured-following-a-seri
 
 ### [2013-07-29](/news/2013/07/29/index.md)
 
-##### propane
+##### Propane
 # Seven people have been injured following a series of explosions at a propane plant in the US town of Tavares in central Florida. 
 
 All the night shift workers at a central Florida gas plant are safe after a series of explosions rocked the facility late Monday. 

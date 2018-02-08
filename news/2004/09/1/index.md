@@ -13,31 +13,31 @@ The number of American troops wounded in Iraq since the U.S.-led invasion in Mar
 
 ##### Iran
 ### [ Iran has informed the International Atomic Energy Agency that it plans to convert 37 tons (33,600 kg) of yellowcake uranium into uranium hexafluoride&mdash;estimated to be enough for five nuclear weapons. ](/news/2004/09/1/iran-has-informed-the-international-atomic-energy-agency-that-it-plans-to-convert-37-tons-33-600-kg-of-yellowcake-uranium-into-uranium-he.md)
-_Context: uranium hexafluoride, Iran, IAEA, yellowcake, nuclear weapon_
+_Context: Iran, uranium hexafluoride, yellowcake, IAEA, nuclear weapon_
 
 ##### Beslan hostage crisis
 ### [ Beslan hostage crisis: Approximately 30 armed men and women seize a school in Beslan, North Ossetia, a Russian city close to Chechnya, taking over 1,300 adults and children hostage. Russian police and army units quickly surround the school, beginning a three-day standoff. ](/news/2004/09/1/beslan-hostage-crisis-approximately-30-armed-men-and-women-seize-a-school-in-beslan-north-ossetia-a-russian-city-close-to-chechnya-taki.md)
 _Context: Beslan, Chechnya, hostage, Beslan hostage crisis, North Ossetia_
 
-##### defector
+##### Defector
 ### [ A group of 29 persons, thought to be North Korean defectors seeking asylum, storm a Japanese school in Beijing, China. ](/news/2004/09/1/a-group-of-29-persons-thought-to-be-north-korean-defectors-seeking-asylum-storm-a-japanese-school-in-beijing-china.md)
-_Context: Beijing, defector, political asylum_
+_Context: political asylum, defector, Beijing_
 
 ##### Nepal
 ### [ The Nepalese police impose an indefinite curfew on the nation's capital, Kathmandu. The curfew follows a series of violent protests that have targeted random Muslims and a mosque in retaliation for the killing of 12 Nepali hostages in Iraq]. ](/news/2004/09/1/the-nepalese-police-impose-an-indefinite-curfew-on-the-nation-s-capital-kathmandu-the-curfew-follows-a-series-of-violent-protests-that-ha.md)
-_Context: mosque, Kathmandu, curfew, police, Nepal_
+_Context: mosque, Kathmandu, Nepal, curfew, police_
 
 ##### National Convention
 ### [ 2004 Republican National Convention: U.S. Vice President Dick Cheney accepts re-nomination and harshly criticizes Democratic candidate John Kerry. ](/news/2004/09/1/2004-republican-national-convention-u-s-vice-president-dick-cheney-accepts-re-nomination-and-harshly-criticizes-democratic-candidate-john.md)
-_Context: Democratic, John Kerry, U.S. Vice President, National Convention, Dick Cheney_
+_Context: National Convention, U.S. Vice President, Democratic, John Kerry, Dick Cheney_
 
-##### rape
+##### Rape
 ### [ The rape prosecution brought against U.S. basketball star Kobe Bryant is dismissed, with prejudice, when it becomes clear that his accuser will refuse to testify. The civil suit filed by his accuser proceeds. ](/news/2004/09/1/the-rape-prosecution-brought-against-u-s-basketball-star-kobe-bryant-is-dismissed-with-prejudice-when-it-becomes-clear-that-his-accuser.md)
-_Context: basketball, lawsuit, with prejudice, rape, Kobe Bryant_
+_Context: lawsuit, Kobe Bryant, basketball, with prejudice, rape_
 
 ##### Prime Minister
 ### [ Former British Prime Minister Margaret Thatcher posts a 2 million rand (USD 300,000) bond for her son, Sir Mark Thatcher, who was under house arrest in Cape Town, South Africa for allegedly funding a coup plot in Equatorial Guinea. ](/news/2004/09/1/former-british-prime-minister-margaret-thatcher-posts-a-2-million-rand-usd-300-000-bond-for-her-son-sir-mark-thatcher-who-was-under-hou.md)
-_Context: rand, military coup, Prime Minister, U.S. dollar, Equatorial Guinea, Mark Thatcher, bail, Cape Town, house arrest, Margaret Thatcher_
+_Context: bail, Mark Thatcher, Equatorial Guinea, Margaret Thatcher, Cape Town, Prime Minister, U.S. dollar, rand, military coup, house arrest_
 
 ## [Previous Day...](/news/2004/08/31/index.md)
 

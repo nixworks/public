@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/22/radiocarbon-dating-estimates-that-stonehenge-wa
 
 ### [2008-09-22](/news/2008/09/22/index.md)
 
-##### radiocarbon dating
+##### Radiocarbon dating
 #  Radiocarbon dating estimates that Stonehenge was constructed around 2300 BC. 
 
 

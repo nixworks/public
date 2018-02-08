@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/29/the-senate-of-the-philippines-finds-the-chief-j
 
 ### [2012-05-29](/news/2012/05/29/index.md)
 
-##### senators
+##### Senators
 # The Senate of the Philippines finds the Chief Justice of the Supreme Court Renato Corona guilty of failure to disclose to the public his assets following a four-month-long impeachment trial. 
 
 Chief justice Renato Corona effectively removed from office after five-month trial for failing to declare bank accounts.

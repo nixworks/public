@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/21/at-least-ten-people-die-and-seven-are-injured-i
 
 ### [2010-03-21](/news/2010/03/21/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least ten people die and seven are injured in a suicide bomb attack in Geresh, Helmand Province. 
 
 At least ten people were killed and seven injured in a suicide bomb attack that targeted an army convoy in southern Afghanistan.

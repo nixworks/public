@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/27/at-least-two-people-are-killed-after-a-tornado-
 
 ### [2014-04-27](/news/2014/04/27/index.md)
 
-##### tornado
+##### Tornado
 # At least two people are killed after a tornado touches down in Quapaw, Oklahoma, United States. 
 
 Tornadoes rip through the US south-west, killing at least 17 people in Arkansas and Oklahoma.

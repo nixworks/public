@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-os
 
 ### [2013-01-27](/news/2013/01/27/index.md)
 
-##### flooding
+##### Flooding
 # Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. 
 
 Brisbane and Ipswich will flood this week, with floodwaters predicted to inundate 3,600 homes and 1,250 businesses in Brisbane, Queensland Premier Campbell Newman says.

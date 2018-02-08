@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/14/futures-industry-regulators-brokerages-and-futu
 
 ### [2005-10-14](/news/2005/10/14/index.md)
 
-##### futures
+##### Futures
 #  Futures industry regulators, brokerages, and futures exchanges in the United States engage in furious talks over how to avoid, or how to minimize the consequences of, the impending failure of Refco, a global commodities broker-dealer. 
 
 

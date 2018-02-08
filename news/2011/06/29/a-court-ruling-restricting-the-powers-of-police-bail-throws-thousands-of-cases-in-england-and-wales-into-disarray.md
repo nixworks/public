@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/29/a-court-ruling-restricting-the-powers-of-police
 
 ### [2011-06-29](/news/2011/06/29/index.md)
 
-##### police bail
+##### Police bail
 # A court ruling restricting the powers of police bail throws thousands of cases in England and Wales into disarray. 
 
 Police are urgently reviewing the cases of thousands of suspects after a court ruling restricted their powers to bail them for further questioning.

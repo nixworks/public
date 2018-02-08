@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/5/the-united-states-files-an-application-in-new-ze
 
 ### [2012-03-5](/news/2012/03/5/index.md)
 
-##### extradition
+##### Extradition
 # The United States files an application in New Zealand to extradite Kim Dotcom and three of his associates in MegaUpload to face charges of breaching copyright. 
 
 The United States Government has filed its application to have Megaupload founder Kim Dotcom and three associates extradited to face charges of breaching copyright. - New Zealand Herald

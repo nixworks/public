@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-
 
 ### [2005-09-16](/news/2005/09/16/index.md)
 
-##### president
+##### President
 #  The President of Pakistan, Pervez Musharraf, has evoked outrage by suggesting that rape victims in Pakistan are part of a "money making concern". 
 
 

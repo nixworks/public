@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/7/some-3-500-people-are-evacuated-in-boulder-count
 
 ### [2010-09-7](/news/2010/09/7/index.md)
 
-##### evacuation centers
+##### Evacuation centers
 # Some 3,500 people are evacuated in Boulder County, Colorado due to wildfires concerns. 
 
 

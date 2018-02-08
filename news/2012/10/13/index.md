@@ -11,13 +11,13 @@ Mauritanian President Mohamed Ould Abdelaziz is wounded in what officials say ap
 ### [In response to multiple rockets being fired across the border, Israel launched four air strikes. Two militants from a Salafist jihadist group are killed and another wounded in the northern Gaza Strip. ](/news/2012/10/13/in-response-to-multiple-rockets-being-fired-across-the-border-israel-launched-four-air-strikes-two-militants-from-a-salafist-jihadist-grou.md)
 Four Israeli air strikes on the Gaza Strip at the weekend killed five militants, Palestinian officials say, amid a flare-up in cross-border violence.
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing at a market in the Pakistani town of Darra Adam Khel kills at least 15 people. ](/news/2012/10/13/a-suicide-bombing-at-a-market-in-the-pakistani-town-of-darra-adam-khel-kills-at-least-15-people.md)
 At least 15 people are killed in a market bombing apparently aimed at an anti-Taliban group in north-west Pakistan, security officials say.
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Army kills Manuel Torres Felix, one of the leaders of the Sinaloa Cartel. ](/news/2012/10/13/mexican-drug-war-the-mexican-army-kills-manuel-torres-fa-c-lix-one-of-the-leaders-of-the-sinaloa-cartel.md)
-_Context: Sinaloa Cartel, Mexican Drug War, Manuel Torres Felix_
+_Context: Mexican Drug War, Sinaloa Cartel, Manuel Torres Felix_
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: A Russian army soldier and three Islamic militants die in a skirmish in the North Caucasus republic of Dagestan. ](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.md)

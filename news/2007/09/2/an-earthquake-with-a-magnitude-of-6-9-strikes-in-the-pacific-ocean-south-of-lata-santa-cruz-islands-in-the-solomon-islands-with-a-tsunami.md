@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/2/an-earthquake-with-a-magnitude-of-6-9-strikes-in
 
 ### [2007-09-2](/news/2007/09/2/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake with a magnitude of 6.9 strikes in the Pacific Ocean south of Lata, Santa Cruz Islands in the Solomon Islands with a tsunami warning being issued. 
 
 

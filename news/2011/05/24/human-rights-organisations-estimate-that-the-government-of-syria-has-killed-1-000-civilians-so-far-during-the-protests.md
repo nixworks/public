@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/24/human-rights-organisations-estimate-that-the-go
 
 ### [2011-05-24](/news/2011/05/24/index.md)
 
-##### protestors
+##### Protestors
 # Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.
 
 Rights groups say they have documented names of civilians allegedly killed by security forces since protests erupted.

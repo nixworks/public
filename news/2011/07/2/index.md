@@ -3,7 +3,7 @@ Formats: [HTML](2011/07/2/index.html)  [JSON](2011/07/2/index.json)  [XML](2011/
 
 ## [2011-07-2](/news/2011/07/2/index.md)
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war:According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. ](/news/2011/07/2/2011-libyan-civil-war-according-to-the-daily-telegraph-the-sudanese-army-invades-libya-taking-control-of-the-southeastern-town-of-al-kuf.md)
 The Sudanese army has seized a town in southern Libya that is the gateway to oilfields crucial to rebel hopes of establishing financial independence.
 
@@ -25,9 +25,9 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority grounds all Tiger Airways flights in the country until July 9 due to a range of safety concerns. ](/news/2011/07/2/australia-s-civil-aviation-safety-authority-grounds-all-tiger-airways-flights-in-the-country-until-july-9-due-to-a-range-of-safety-concerns.md)
-_Context: Tiger Airways, Civil Aviation Safety Authority, Australia_
+_Context: Civil Aviation Safety Authority, Tiger Airways, Australia_
 
-##### coal mine
+##### Coal mine
 ### [3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. ](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.md)
 _Context: coal mine, China_
 
@@ -37,7 +37,7 @@ Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the 
 
 ##### ExxonMobil Corporation
 ### [ExxonMobil workers attempt to contain an oil spill on the Yellowstone River in the US state of Montana. ](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.md)
-_Context: Yellowstone River, ExxonMobil Corporation, oil spill, Montana_
+_Context: Yellowstone River, Montana, oil spill, ExxonMobil Corporation_
 
 ##### Hong Kong
 ### [228 people are arrested during a large demonstration in Hong Kong amid frustration with government policies and rising property prices. ](/news/2011/07/2/228-people-are-arrested-during-a-large-demonstration-in-hong-kong-amid-frustration-with-government-policies-and-rising-property-prices.md)
@@ -47,17 +47,17 @@ Hong Kong police said it arrested more than 200 protesters, who paralysed traffi
 ### [China jails a Tibetan writer for editing a banned magazine regarding unrest in 2008. ](/news/2011/07/2/china-jails-a-tibetan-writer-for-editing-a-banned-magazine-regarding-unrest-in-2008.md)
 A Tibetan writer was sentenced to four years in jail last month after helping edit a magazine critical of Chinese policy in the restive region, a Tibetan self-determination advocacy group said.
 
-##### president
+##### President
 ### [Former President of Brazil and current Senator Itamar Franco dies of complications from leukemia; seven days of mourning are declared by current president Dilma Rousseff. ](/news/2011/07/2/former-president-of-brazil-and-current-senator-itamar-franco-dies-of-complications-from-leukemia-seven-days-of-mourning-are-declared-by-cur.md)
 Former Brazilian President Itamar Franco died Saturday morning from complications from leukemia. He was 81.
 
-##### general election
+##### General election
 ### [Campaigning closes ahead of Thailand's general election tomorrow. ](/news/2011/07/2/campaigning-closes-ahead-of-thailand-s-general-election-tomorrow.md)
 Main opposition Puea Thai Party enjoys clear lead in polls over party of current prime minister Abhisit Vejjajiva.
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: Greek port authorities arrest the captain of the US-flagged vessel "The Audacity of Hope", the latest incident to befall the flotilla following two counts of alleged sabotage and the towing back to port of this ship yesterday. ](/news/2011/07/2/freedom-flotilla-ii-greek-port-authorities-arrest-the-captain-of-the-us-flagged-vessel-the-audacity-of-hope-the-latest-incident-to-befal.md)
-_Context: Freedom Flotilla II, The Audacity of Hope_
+_Context: The Audacity of Hope, Freedom Flotilla II_
 
 ##### Serbia
 ### [Serbia and Kosovo sign the first accords between the two nations since Kosovo's declaration of independence three years ago. ](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.md)

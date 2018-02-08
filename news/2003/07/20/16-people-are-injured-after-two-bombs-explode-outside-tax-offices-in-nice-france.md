@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/20/16-people-are-injured-after-two-bombs-explode-o
 
 ### [2003-07-20](/news/2003/07/20/index.md)
 
-##### bomb
+##### Bomb
 #  16 people are injured after two bombs explode outside tax offices in Nice, France.
 
 

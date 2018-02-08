@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/30/since-march-18th-protesters-occupy-the-legislat
 
 ### [2014-03-30](/news/2014/03/30/index.md)
 
-##### legislative chamber
+##### Legislative chamber
 # Since March 18th, protesters occupy the legislative chamber, opposing the vote without review of the Cross-Strait Service Trade Agreement, denouncing a agreement signed 'in a black box.'date=April 2014Between 116,000 and 500,000 protesters march to the Presidential Office, in opposition to recent governmental push for Cross-Strait Service Trade Agreement vote and other related issues. 
 
 

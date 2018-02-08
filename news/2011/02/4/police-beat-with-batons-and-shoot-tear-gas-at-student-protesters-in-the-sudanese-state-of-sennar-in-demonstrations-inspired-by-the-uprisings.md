@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/4/police-beat-with-batons-and-shoot-tear-gas-at-st
 
 ### [2011-02-4](/news/2011/02/4/index.md)
 
-##### baton
+##### Baton
 # Police beat with batons and shoot tear gas at student protesters in the Sudanese state of Sennar in demonstrations inspired by the uprisings in Tunisia and Egypt. 
 
 

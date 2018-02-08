@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/28/an-explosion-in-a-coal-mine-in-the-chinese-cent
 
 ### [2004-11-28](/news/2004/11/28/index.md)
 
-##### coal miners
+##### Coal miners
 #  An explosion in a coal mine in the Chinese central province of Shaanxi leaves 187 men trapped underground. Official figures show 4,153 mining accident deaths in the last nine months, while 119 miners are still missing from a November 20 iron mine fire in Hebei. 
 
 

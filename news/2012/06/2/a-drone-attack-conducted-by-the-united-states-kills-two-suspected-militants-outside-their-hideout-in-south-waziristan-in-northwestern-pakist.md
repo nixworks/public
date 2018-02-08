@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/2/a-drone-attack-conducted-by-the-united-states-ki
 
 ### [2012-06-2](/news/2012/06/2/index.md)
 
-##### drones launch
+##### Drones launch
 # A drone attack conducted by the United States kills two suspected militants outside their hideout in South Waziristan in northwestern Pakistan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/19/four-suspected-al-qaida-gunmen-blast-their-way-
 
 ### [2010-06-19](/news/2010/06/19/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 # Four suspected al-Qaida gunmen blast their way into the intelligence headquarters. The attack on the heavily protected security complex kills 18 in the southern port city of Aden, Yemen. 
 
 

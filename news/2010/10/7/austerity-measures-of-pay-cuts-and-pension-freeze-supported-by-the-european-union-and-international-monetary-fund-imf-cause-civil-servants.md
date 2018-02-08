@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freez
 
 ### [2010-10-7](/news/2010/10/7/index.md)
 
-##### austerity measures
+##### Austerity measures
 # Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. 
 
 Civil servants stage 24-hour strike in protest against pay cuts and pension freeze, disrupting normal life.

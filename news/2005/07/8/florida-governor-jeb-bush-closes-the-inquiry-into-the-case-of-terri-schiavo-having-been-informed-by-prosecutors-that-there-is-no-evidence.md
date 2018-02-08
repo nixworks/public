@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/8/florida-governor-jeb-bush-closes-the-inquiry-int
 
 ### [2005-07-8](/news/2005/07/8/index.md)
 
-##### the state
+##### The state
 #  Florida Governor Jeb Bush closes the inquiry into the case of Terri Schiavo, having been informed by prosecutors that there is no evidence of any crime leading to her 1990 collapse. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

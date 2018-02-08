@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/10/doctors-set-up-cholera-clinics-in-port-au-princ
 
 ### [2010-11-10](/news/2010/11/10/index.md)
 
-##### cholera
+##### Cholera
 # Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. 
 
 Fears are growing in Haiti over the spread of cholera, as the death toll rises to 644 across the poverty-stricken nation.

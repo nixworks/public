@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/22/blackmarket-sales-begin-of-credit-and-debit-car
 
 ### [2013-12-22](/news/2013/12/22/index.md)
 
-##### payment cards
+##### Payment cards
 # Blackmarket sales begin of credit and debit card data which was compromised due to a Target Corporation data breach. 
 
 Credit and debit card accounts stolen during a security breach involving retailer Target have reportedly flooded underground black markets, going on sale in batches of one million cards.

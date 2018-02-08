@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/17/major-south-african-health-care-provider-pleads
 
 ### [2010-11-17](/news/2010/11/17/index.md)
 
-##### organ trafficking
+##### Organ trafficking
 # Major South African health-care provider pleads guilty to using Israeli-linked organ trafficking syndicate.
 
 

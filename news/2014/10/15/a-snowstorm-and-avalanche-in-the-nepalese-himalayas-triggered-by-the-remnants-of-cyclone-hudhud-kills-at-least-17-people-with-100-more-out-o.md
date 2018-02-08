@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/15/a-snowstorm-and-avalanche-in-the-nepalese-himal
 
 ### [2014-10-15](/news/2014/10/15/index.md)
 
-##### snowstorm
+##### Snowstorm
 # A snowstorm and avalanche in the Nepalese Himalayas triggered by the remnants of Cyclone Hudhud kills at least 17 people with 100 more out of contact. 
 
 The toll from snowstorms and avalanches in Nepal&#039;s Himalayas climbed to 29 foreign and local trekkers and mountaineers dead or presumed dead, officials said Thursday.

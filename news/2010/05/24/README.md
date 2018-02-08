@@ -5,9 +5,9 @@ Formats: [HTML](2010/05/24/index.html)  [JSON](2010/05/24/index.json)  [XML](201
 
 ##### Trinidad and Tobago
 ### [Trinidad and Tobago holds a general election, resulting in the victory of the United National Congress, and Kamla Persad-Bissessar becoming its first female Prime Minister. ](/news/2010/05/24/trinidad-and-tobago-holds-a-general-election-resulting-in-the-victory-of-the-united-national-congress-and-kamla-persad-bissessar-becoming.md)
-_Context: Prime Minister, United National Congress, Kamla Persad-Bissessar, Trinidad and Tobago, general election_
+_Context: Kamla Persad-Bissessar, general election, Trinidad and Tobago, Prime Minister, United National Congress_
 
-##### continue to rise
+##### Continue to rise
 ### [The death toll as a result of severe flooding in Poland reaches 15 as Interior Minister Jerzy Miller says "The situation is worse than expected". ](/news/2010/05/24/the-death-toll-as-a-result-of-severe-flooding-in-poland-reaches-15-as-interior-minister-jerzy-miller-says-the-situation-is-worse-than-expec.md)
 THE DEATH toll from Poland&rsquo;s worst flooding in a century rose to 15 yesterday, as swollen rivers flowing north to the Baltic &hellip;
 
@@ -37,7 +37,7 @@ _Context: Beijing_
 
 ##### U.S.-China Strategic and Economic Dialogue
 ### [The second round of the U.S.-China Strategic and Economic Dialogue begins in Beijing, China. ](/news/2010/05/24/the-second-round-of-the-u-s-achina-strategic-and-economic-dialogue-begins-in-beijing-china.md)
-_Context: Beijing, China, U.S.-China Strategic and Economic Dialogue_
+_Context: U.S.-China Strategic and Economic Dialogue, Beijing, China_
 
 ##### Bashar al-Ageidi
 ### [The assassination of Bashar al-Ageidi from the election-winning Iraqiya bloc of Ayad Allawi takes place outside his house in Mosul. ](/news/2010/05/24/the-assassination-of-bashar-al-ageidi-from-the-election-winning-iraqiya-bloc-of-ayad-allawi-takes-place-outside-his-house-in-mosul.md)
@@ -57,11 +57,11 @@ _Context: university degree, Niger_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad is met with protests during a speech in Khorramshahr. ](/news/2010/05/24/president-of-iran-mahmoud-ahmadinejad-is-met-with-protests-during-a-speech-in-khorramshahr.md)
-_Context: Khorramshahr, President, Mahmoud Ahmadinejad_
+_Context: President, Mahmoud Ahmadinejad, Khorramshahr_
 
 ##### International Monetary Fund
 ### [The International Monetary Fund says "far-reaching" reforms are vital for Spain's economy. ](/news/2010/05/24/the-international-monetary-fund-says-far-reaching-reforms-are-vital-for-spain-s-economy.md)
-_Context: International Monetary Fund, Spain_
+_Context: Spain, International Monetary Fund_
 
 ##### Plane Stupid
 ### [Plane Stupid protesters break into Manchester Airport and lock arms around an aircraft. Flights are suspended. ](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.md)
@@ -69,13 +69,13 @@ _Context: Plane Stupid, Manchester_
 
 ##### Huddersfield
 ### [The people of Huddersfield in the Metropolitan Borough of Kirklees of West Yorkshire in England are ordered to remain indoors and several schools are shut down after a huge fire engulfs a chemical plant in the area. ](/news/2010/05/24/the-people-of-huddersfield-in-the-metropolitan-borough-of-kirklees-of-west-yorkshire-in-england-are-ordered-to-remain-indoors-and-several-sc.md)
-_Context: Huddersfield, West Yorkshire, England, Metropolitan Borough of Kirklees_
+_Context: England, Huddersfield, Metropolitan Borough of Kirklees, West Yorkshire_
 
 ##### General Medical Council
 ### [The UK's General Medical Council bans Dr. Andrew Wakefield, who was the first to publish research suggesting a connection between the MMR vaccine and autism, from practicing in the country, finding him guilty of "serious professional misconduct." ](/news/2010/05/24/the-uk-s-general-medical-council-bans-dr-andrew-wakefield-who-was-the-first-to-publish-research-suggesting-a-connection-between-the-mmr-va.md)
-_Context: autism, General Medical Council, MMR vaccine, Andrew Wakefield_
+_Context: autism, General Medical Council, Andrew Wakefield, MMR vaccine_
 
-##### dumbbell
+##### Dumbbell
 ### [Peter Harvey, the UK teacher who attacked a pupil with a dumbbell while shouting "die, die, die", is sentenced to community order as his trial ends in Nottingham. The judge calls him as a "thoroughly decent man". ](/news/2010/05/24/peter-harvey-the-uk-teacher-who-attacked-a-pupil-with-a-dumbbell-while-shouting-die-die-die-is-sentenced-to-community-order-as-his-tri.md)
 A teacher who bludgeoned a disruptive teenage pupil with a dumbbell has walked free from court after a judge described him as a &ldquo;thoroughly decent man&rdquo;.
 
@@ -89,7 +89,7 @@ _Context: Simon Cowell, Sarah, Duchess of York, Los Angeles, United States_
 
 ##### Iran
 ### [Iran's largest water supply project is inaugurated in Khorramshahr. ](/news/2010/05/24/iran-s-largest-water-supply-project-is-inaugurated-in-khorramshahr.md)
-_Context: Khorramshahr, Iran_
+_Context: Iran, Khorramshahr_
 
 ##### Paul Gray
 ### [Paul Gray, bassist and founding member of heavy metal group Slipknot, is found dead at the age of 38 by a hotel employee in his room in Iowa, United States. ](/news/2010/05/24/paul-gray-bassist-and-founding-member-of-heavy-metal-group-slipknot-is-found-dead-at-the-age-of-38-by-a-hotel-employee-in-his-room-in-iowa.md)

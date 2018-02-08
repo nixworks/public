@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/8/an-earthquake-of-magnitude-6-5-occurs-near-manil
 
 ### [2004-10-8](/news/2004/10/8/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of magnitude 6.5 occurs near Manila, the capital city of the Philippines. Its effects are felt as far as 90 miles (145 km) north of the city. The quake causes buildings to sway and knocks out power in some areas, but no serious damage or injuries are reported. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/31/in-rugby-union-the-crusaders-defeat-the-new-sou
 
 ### [2008-05-31](/news/2008/05/31/index.md)
 
-##### rugby union
+##### Rugby union
 #  In rugby union, the Crusaders defeat the New South Wales Waratahs in the 2008 Super 14 Final. 
 
 

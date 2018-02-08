@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/16/subprime-mortgage-crisis-the-united-states-fede
 
 ### [2008-09-16](/news/2008/09/16/index.md)
 
-##### housing crisis
+##### Housing crisis
 #  Subprime mortgage crisis: The United States Federal Reserve agrees to lend the American International Group $85 billion in return for a 79.9% stake. 
 
 Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G. in the central bank’s most radical intervention.

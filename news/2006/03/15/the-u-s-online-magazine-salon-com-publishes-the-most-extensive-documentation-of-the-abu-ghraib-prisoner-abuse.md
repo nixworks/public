@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/15/the-u-s-online-magazine-salon-com-publishes-the
 
 ### [2006-03-15](/news/2006/03/15/index.md)
 
-##### salon.com
+##### Salon.com
 #  The U.S. online magazine salon.com publishes the most extensive documentation of the Abu Ghraib prisoner abuse. 
 
 A wonky, geeky, ranty exploration of how the global economy fits together.

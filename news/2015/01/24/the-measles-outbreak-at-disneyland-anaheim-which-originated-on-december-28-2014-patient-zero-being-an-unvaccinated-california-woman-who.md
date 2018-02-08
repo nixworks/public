@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/24/the-measles-outbreak-at-disneyland-anaheim-whic
 
 ### [2015-01-24](/news/2015/01/24/index.md)
 
-##### measles
+##### Measles
 # The measles outbreak at Disneyland (Anaheim), which originated on December 28, 2014 (patient zero being an unvaccinated California woman who apparently transmitted the virus through airports and the theme park), but was unreported until January 7, spreads from California to six other states, including Nebraska, and Mexico. It now involves at least eighty-five cases. 
 
 The measles outbreak believed to have originated in Disneyland has spread from California into four other states and Mexico.

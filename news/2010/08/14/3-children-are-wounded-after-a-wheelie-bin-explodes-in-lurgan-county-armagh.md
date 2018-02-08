@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-expl
 
 ### [2010-08-14](/news/2010/08/14/index.md)
 
-##### wheelie bin
+##### Wheelie bin
 # 3 children are wounded after a wheelie bin explodes in Lurgan, County Armagh. 
 
 Police investigating suspicious packages in Lurgan, County Armagh, are attacked with petrol bombs.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/18/a-25-year-old-unemployed-male-dies-after-settin
 
 ### [2011-01-18](/news/2011/01/18/index.md)
 
-##### sets herself alight
+##### Sets herself alight
 # A 25-year-old unemployed male dies after setting himself on fire in Alexandria. Another man, aged 40, sets himself on fire in Cairo in protests against rising prices. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/14/at-least-21-people-drown-in-a-boat-accident-in-
 
 ### [2017-01-14](/news/2017/01/14/index.md)
 
-##### boat accident
+##### Boat accident
 # At least 21 people drown in a boat accident in the Ganges River in Patna, India. 
 
 According to sources, it was a small boat which was overloaded with people 

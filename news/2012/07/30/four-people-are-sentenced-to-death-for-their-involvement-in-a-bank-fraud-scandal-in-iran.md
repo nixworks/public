@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/30/four-people-are-sentenced-to-death-for-their-in
 
 ### [2012-07-30](/news/2012/07/30/index.md)
 
-##### bank fraud
+##### Bank fraud
 # Four people are sentenced to death for their involvement in a bank fraud scandal in Iran. 
 
 

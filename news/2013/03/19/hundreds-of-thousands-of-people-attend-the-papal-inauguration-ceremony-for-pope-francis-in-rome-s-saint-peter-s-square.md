@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/hundreds-of-thousands-of-people-attend-the-papa
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### papal inauguration
+##### Papal inauguration
 # Hundreds of thousands of people attend the papal inauguration ceremony for Pope Francis in Rome's Saint Peter's Square. 
 
 Pope Francis inaugurates his papacy at a Mass in Rome, calling on global leaders and all people of the world to defend the poor and the weak.

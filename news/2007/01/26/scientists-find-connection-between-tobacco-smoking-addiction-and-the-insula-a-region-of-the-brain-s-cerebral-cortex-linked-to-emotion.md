@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/26/scientists-find-connection-between-tobacco-smok
 
 ### [2007-01-26](/news/2007/01/26/index.md)
 
-##### tobacco smoking
+##### Tobacco smoking
 #  Scientists find connection between tobacco smoking addiction and the insula, a region of the brain's cerebral cortex linked to emotion. 
 
  Many heavy smokers quit immediately and permanently when a small structure deep in the brain is damaged, a finding that provides a new lead in the search for smoking-cessation treatments, a study says. 

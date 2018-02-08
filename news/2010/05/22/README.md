@@ -9,7 +9,7 @@ A Boeing 737-8HG (WL) passenger plane, registered VT-AXV, was destroyed in a lan
 
 ##### Apa
 ### [Apa, a Nepalese Sherpa mountain climber who already held the world record for summiting Mount Everest more than any other person, reaches the summit for the 20th time. ](/news/2010/05/22/apa-a-nepalese-sherpa-mountain-climber-who-already-held-the-world-record-for-summiting-mount-everest-more-than-any-other-person-reaches-th.md)
-_Context: Nepal, Apa, Sherpa, mountain climber, Mount Everest_
+_Context: Mount Everest, Apa, Sherpa, Nepal, mountain climber_
 
 ##### Cyclone Laila
 ### [The death toll of Cyclone Laila in Andhra Pradesh, the worst storm to hit the Indian state in 14 years, reaches 36. ](/news/2010/05/22/the-death-toll-of-cyclone-laila-in-andhra-pradesh-the-worst-storm-to-hit-the-indian-state-in-14-years-reaches-36.md)
@@ -31,7 +31,7 @@ Two men have been arrested after gardaí foiled a major dissident bombing operat
 ### [Afghan police seize a cache of hundreds of rockets hidden on the outskirts of Kabul. ](/news/2010/05/22/afghan-police-seize-a-cache-of-hundreds-of-rockets-hidden-on-the-outskirts-of-kabul.md)
 Afghan police say they have seized a cache of hundreds of rockets hidden on the outskirts of the capital Kabul.
 
-##### have died in a clash
+##### Have died in a clash
 ### [At least 13 people have died in a clash between a Somali militia and Ethiopian forces who had crossed the border in Somaliland. ](/news/2010/05/22/at-least-13-people-have-died-in-a-clash-between-a-somali-militia-and-ethiopian-forces-who-had-crossed-the-border-in-somaliland.md)
 Thirteen people are killed in a border clash between Ethiopian security forces and residents in Somaliland, locals say.
 
@@ -45,7 +45,7 @@ Abbott Laboratories will buy Piramal Healthcare&rsquo;s branded generic-medicine
 
 ##### Naxalite-Maoist insurgency
 ### [Five people are shot dead by 100 armed Maoists who storm and burn market buildings in Sheohar, Bihar. ](/news/2010/05/22/five-people-are-shot-dead-by-100-armed-maoists-who-storm-and-burn-market-buildings-in-sheohar-bihar.md)
-_Context: Bihar, Naxalite-Maoist insurgency, Sheohar_
+_Context: Bihar, Sheohar, Naxalite-Maoist insurgency_
 
 ##### British Airways
 ### [British Airways chief executive Willie Walsh is surrounded by demonstrators who storm the headquarters of the Acas building in London. ](/news/2010/05/22/british-airways-chief-executive-willie-walsh-is-surrounded-by-demonstrators-who-storm-the-headquarters-of-the-acas-building-in-london.md)
@@ -57,7 +57,7 @@ _Context: Ariane 5_
 
 ##### 2010 UEFA Champions League Final
 ### [In the 2010 UEFA Champions League Final, Inter Milan defeats Bayern Munich 2-0, for their first major European title since 1965. ](/news/2010/05/22/in-the-2010-uefa-champions-league-final-inter-milan-defeats-bayern-munich-2a0-for-their-first-major-european-title-since-1965.md)
-_Context: 1965, 2010 UEFA Champions League Final, Bayern Munich, Inter Milan_
+_Context: 2010 UEFA Champions League Final, Inter Milan, 1965, Bayern Munich_
 
 ##### South Africa
 ### [More than 74,000 South African football fans attend the first match at Soccer City--venue for the 2010 FIFA World Cup Final--less than three weeks before the tournament begins. ](/news/2010/05/22/more-than-74-000-south-african-football-fans-attend-the-first-match-at-soccer-cityavenue-for-the-2010-fifa-world-cup-finalaless-than-thr.md)
@@ -67,7 +67,7 @@ More than 74,000 South African football fans attend the first match at Soccer Ci
 ### [Thirteen-year-old American Jordan Romero becomes the youngest person to reach the summit of Mount Everest. ](/news/2010/05/22/thirteen-year-old-american-jordan-romero-becomes-the-youngest-person-to-reach-the-summit-of-mount-everest.md)
 A 13-year-old American boy became the youngest climber to reach the top of Mount Everest on Saturday, breaking the former record as part of his quest to climb the highest peaks on all seven continents.
 
-##### local football club
+##### Local football club
 ### [Blackpool Football Club beat Cardiff City Football Club 3-2 in the 2010 Final of the Football League Championship play-offs to be guaranteed "the biggest windfall in global sport from the outcome of a single event". ](/news/2010/05/22/blackpool-football-club-beat-cardiff-city-football-club-3-2-in-the-2010-final-of-the-football-league-championship-play-offs-to-be-guaranteed.md)
 They will be nursing a few sore heads along Blackpool&#039;s Golden Mile this morning, and with good reason. Blackpool&#039;s promotion to the Premier League is a romantic tale to warm the most jaded of hearts, and they did it in some style. As the announcer at Wembley stadium yesterday said: &quot;...
 

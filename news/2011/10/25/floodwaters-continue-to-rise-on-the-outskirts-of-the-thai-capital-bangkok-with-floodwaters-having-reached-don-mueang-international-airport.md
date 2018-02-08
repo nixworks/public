@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/25/floodwaters-continue-to-rise-on-the-outskirts-o
 
 ### [2011-10-25](/news/2011/10/25/index.md)
 
-##### floods
+##### Floods
 # Floodwaters continue to rise on the outskirts of the Thai capital Bangkok, with floodwaters having reached Don Mueang International Airport, leading to the cancellation of many flights. 
 
 

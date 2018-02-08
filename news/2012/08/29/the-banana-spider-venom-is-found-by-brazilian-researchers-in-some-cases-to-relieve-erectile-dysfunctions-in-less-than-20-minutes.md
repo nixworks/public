@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/29/the-banana-spider-venom-is-found-by-brazilian-r
 
 ### [2012-08-29](/news/2012/08/29/index.md)
 
-##### banana spider
+##### Banana spider
 # The banana spider venom is found by Brazilian researchers in some cases to relieve erectile dysfunctions in less than 20 minutes. 
 
 If you were suffering from erectile dysfunction, would you take a pill made from the venom of a deadly spider? One team of Brazilian and American researchers are betting that you would.

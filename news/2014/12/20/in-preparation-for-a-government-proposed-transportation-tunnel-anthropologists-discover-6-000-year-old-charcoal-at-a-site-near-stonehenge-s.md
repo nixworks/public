@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/20/in-preparation-for-a-government-proposed-transp
 
 ### [2014-12-20](/news/2014/12/20/index.md)
 
-##### anthropologists
+##### Anthropologists
 # In preparation for a government-proposed transportation tunnel, anthropologists discover 6,000-year-old charcoal at a site near Stonehenge suggesting an encampment existed much earlier than previously theorized. 
 
 The most important discovery at Stonehenge for a generation could be destroyed by David Cameron&#039;s plan to build a tunnel at the World Heritage Site

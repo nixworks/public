@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/16/an-israeli-soldier-hits-a-foreign-pro-palestini
 
 ### [2012-04-16](/news/2012/04/16/index.md)
 
-##### pro-Palestinian activist
+##### Pro-Palestinian activist
 # An Israeli soldier hits a foreign pro-Palestinian activist, believed to be a Danish national, with his gun after protesters attack and injure the soldier; the Danish ambassador to Israel demands an explanation from Israel. 
 
 Footage posted online showed officer striking pro-Palestinian activist in face during West Bank cycling rally.

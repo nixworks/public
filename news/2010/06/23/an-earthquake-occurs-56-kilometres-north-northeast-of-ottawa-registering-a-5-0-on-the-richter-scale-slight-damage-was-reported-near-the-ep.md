@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/23/an-earthquake-occurs-56-kilometres-north-northe
 
 ### [2010-06-23](/news/2010/06/23/index.md)
 
-##### earthquake
+##### Earthquake
 # An earthquake occurs 56 kilometres north-northeast of Ottawa, registering a 5.0 on the Richter scale. Slight damage was reported near the epicenter, and the tremor was felt in Sudbury, Windsor, Ann Arbor, Detroit, Toronto, Milwaukee, Northern Pennsylvania, Ohio and New York State. 
 
 A 5.0 magnitude quake has rocked Ottawa and the surrounding area, sending thousands of shaky and scared people into city streets.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/25/venezuela-s-supreme-tribunal-rules-that-opposit
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
-##### the constitution
+##### The constitution
 # Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six to four years can not be applied retroactively, thereby ending this attempt to cut short President Nicolas Maduro's time in office. 
 
 CARACAS, Venezuela (AP) — Venezuela&#039;s supreme court has struck down an attempt by the opposition to cut short President Nicolas Maduros&#039; term in office, ruling that a proposed constitutional amendment to that effect cannot…

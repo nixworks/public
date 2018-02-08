@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/27/an-6-1-magnitude-earthquake-southwest-of-the-ir
 
 ### [2010-09-27](/news/2010/09/27/index.md)
 
-##### earthquake
+##### Earthquake
 # An 6.1 magnitude earthquake southwest of the Iranian city of Shiraz kills at least one person and injures three. 
 
 

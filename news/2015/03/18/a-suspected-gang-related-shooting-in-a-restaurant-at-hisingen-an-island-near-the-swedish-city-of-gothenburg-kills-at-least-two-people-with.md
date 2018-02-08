@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/18/a-suspected-gang-related-shooting-in-a-restaura
 
 ### [2015-03-18](/news/2015/03/18/index.md)
 
-##### shooting
+##### Shooting
 # A suspected gang-related shooting in a restaurant at Hisingen, an island near the Swedish city of Gothenburg, kills at least two people with several more injured. 
 
 Two men were killed and many others injured in a suspected gang-related shooting in a restaurant in the western Swedish city of Gothenburg, police said on Thursday, in an incident that has sparked fears of a further escalation in gangland violence.

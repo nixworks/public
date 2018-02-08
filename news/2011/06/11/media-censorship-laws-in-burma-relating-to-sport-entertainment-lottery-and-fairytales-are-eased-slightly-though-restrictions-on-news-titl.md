@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/11/media-censorship-laws-in-burma-relating-to-spor
 
 ### [2011-06-11](/news/2011/06/11/index.md)
 
-##### go on sale
+##### Go on sale
 # Media censorship laws in Burma relating to sport, entertainment, lottery and fairytales are eased slightly, though restrictions on news titles remain. 
 
 

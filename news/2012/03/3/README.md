@@ -13,13 +13,13 @@ Three-storey Republican Guard building destroyed by suicide blast in Bayda, whic
 
 ##### Australian
 ### [Australians living in the north-western Sydney suburbs of Richmond, Pitt Town and Grono Point are evacuated as the Nepean-Hawkesbury River system floods after Warragamba Dam overflows. ](/news/2012/03/3/australians-living-in-the-north-western-sydney-suburbs-of-richmond-pitt-town-and-grono-point-are-evacuated-as-the-nepean-hawkesbury-river-s.md)
-_Context: Nepean, Pitt Town, Australian, Warragamba Dam, Hawkesbury River, Grono Point, Richmond, Sydney_
+_Context: Hawkesbury River, Nepean, Pitt Town, Grono Point, Australian, Warragamba Dam, Sydney, Richmond_
 
-##### tornadoes
+##### Tornadoes
 ### [The death toll from a tornado outbreak in the US reaches at least 36, with casualties reported in Kentucky, Indiana, Alabama, Georgia and Ohio. ](/news/2012/03/3/the-death-toll-from-a-tornado-outbreak-in-the-us-reaches-at-least-36-with-casualties-reported-in-kentucky-indiana-alabama-georgia-and-oh.md)
 At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as storms and tornadoes sweep across vast parts of the Midwest.
 
-##### train crash
+##### Train crash
 ### [Two trains crash in the small Polish town of Szczekociny near Zawiercie, with 13 people killed and up to 50 people injured. ](/news/2012/03/3/two-trains-crash-in-the-small-polish-town-of-szczekociny-near-zawiercie-with-13-people-killed-and-up-to-50-people-injured.md)
 Two trains collide on the Warsaw-Krakow mainline in southern Poland, leaving 16 people dead and about 58 injured, local officials say.
 
@@ -41,15 +41,15 @@ Thousands turn out to elect a new leader for a Chinese village that staged a hig
 
 ##### Iranian legislative election
 ### [Early returns in the Iranian legislative election show the conservative opponents of President Mahmoud Ahmadinejad doing well. ](/news/2012/03/3/early-returns-in-the-iranian-legislative-election-show-the-conservative-opponents-of-president-mahmoud-ahmadinejad-doing-well.md)
-_Context: Mahmoud Ahmadinejad, President, Iranian legislative election_
+_Context: President, Iranian legislative election, Mahmoud Ahmadinejad_
 
 ##### Tajikistan
 ### [Authorities in Tajikistan close access to Facebook and sites with material critical of President Emomali Rakhmon. ](/news/2012/03/3/authorities-in-tajikistan-close-access-to-facebook-and-sites-with-material-critical-of-president-emomali-rakhmon.md)
-_Context: Facebook, President, Tajikistan, Emomali Rakhmon_
+_Context: Tajikistan, President, Facebook, Emomali Rakhmon_
 
 ##### Republican
 ### [Republican voters in the US state of Washington go to the polls for caucuses, with Mitt Romney winning. ](/news/2012/03/3/republican-voters-in-the-us-state-of-washington-go-to-the-polls-for-caucuses-with-mitt-romney-winning.md)
-_Context: Washington, Mitt Romney, caucuses, Republican_
+_Context: Republican, Washington, caucuses, Mitt Romney_
 
 ## [Previous Day...](/news/2012/03/2/index.md)
 

@@ -9,13 +9,13 @@ Two suicide bombers ripped through a busy market area in central Baghdad Saturda
 
 ##### China
 ### [China, with their largest television network China Central Television, announces a new launch of a global media platform extending globally and renaming the network China Global Television Network. ](/news/2016/12/31/china-with-their-largest-television-network-china-central-television-announces-a-new-launch-of-a-global-media-platform-extending-globally.md)
-_Context: China Central Television, China_
+_Context: China, China Central Television_
 
 ##### Helsinki, Finland
 ### [In Helsinki, Finland, authorities detain an unidentified driver after driving at high speed, and veering for unknown reasons, into a crowd, injuring 7 people. Authorities quickly conclude no evidence points to a deliberate attack. ](/news/2016/12/31/in-helsinki-finland-authorities-detain-an-unidentified-driver-after-driving-at-high-speed-and-veering-for-unknown-reasons-into-a-crowd.md)
 Up to seven people were injured when a car plowed into a crowd in the eastern part Helsinki, Finland’s capital. Police say that nothing indicates the incident was intentional, however.
 
-##### leap second
+##### Leap second
 ### [Authorities add a leap second on December 31 to bring UTC more inline with mean solar time. ](/news/2016/12/31/authorities-add-a-leap-second-on-december-31-to-bring-utc-more-inline-with-mean-solar-time.md)
 _Context: leap second, UTC_
 

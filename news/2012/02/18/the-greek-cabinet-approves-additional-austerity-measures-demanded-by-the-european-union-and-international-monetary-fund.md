@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/18/the-greek-cabinet-approves-additional-austerity
 
 ### [2012-02-18](/news/2012/02/18/index.md)
 
-##### government
+##### Government
 # The Greek Cabinet approves additional austerity measures demanded by the European Union and International Monetary Fund. 
 
 

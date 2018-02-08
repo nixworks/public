@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/29/more-than-20-people-die-when-a-car-bomb-detonat
 
 ### [2005-10-29](/news/2005/10/29/index.md)
 
-##### car bomb
+##### Car bomb
 #  More than 20 people die when a car bomb detonates in Howaider, a Shia village near Baquba, 60 miles north of Baghdad. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](2012/10/27/index.html)  [JSON](2012/10/27/index.json)  [XML](201
 
 ## [2012-10-27](/news/2012/10/27/index.md)
 
-##### eight car bombings
+##### Eight car bombings
 ### [Iraqi insurgency: A series of attacks across Iraq kill 46 and injured 123 others. ](/news/2012/10/27/iraqi-insurgency-a-series-of-attacks-across-iraq-kill-46-and-injured-123-others.md)
 At least 30 people are killed in a series of bomb and gun attacks in Iraq, primarily aimed at Shia Muslims and coinciding with the Eid al-Adha holiday.
 
@@ -19,9 +19,9 @@ Thousands join fresh protests in the Spanish capital, Madrid, angered by budget 
 ### [A 7.7 magnitude earthquake strikes off the coast of British Columbia near Haida Gwaii, triggering a tsunami warning in the North Pacific. ](/news/2012/10/27/a-7-7-magnitude-earthquake-strikes-off-the-coast-of-british-columbia-near-haida-gwaii-triggering-a-tsunami-warning-in-the-north-pacific.md)
 Low-lying areas in the Hawaiian islands have been evacuated following a 7.7-earthquake that struck near Haida Gwaii, off the British Columbia coast, on Saturday night.
 
-##### protest
+##### Protest
 ### [The fifth Tibetan in a week sets himself on fire and dies in Tibet in a protest against Chinese rule. ](/news/2012/10/27/the-fifth-tibetan-in-a-week-sets-himself-on-fire-and-dies-in-tibet-in-a-protest-against-chinese-rule.md)
-_Context: protest, Tibet, Chinese rule_
+_Context: protest, Chinese rule, Tibet_
 
 ##### Jimmy Savile
 ### [The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statement-since-his-reputation-was-destroye.md)

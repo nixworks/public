@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/11/h5n1-avian-flu-virus-bulgaria-greece-and-italy-
 
 ### [2006-02-11](/news/2006/02/11/index.md)
 
-##### bird flu
+##### Bird flu
 #  H5N1 avian flu virus: Bulgaria, Greece, and Italy report their first cases of H5N1-infected wild birds, all swans thought to have migrated from Russia in recent months. 
 
 

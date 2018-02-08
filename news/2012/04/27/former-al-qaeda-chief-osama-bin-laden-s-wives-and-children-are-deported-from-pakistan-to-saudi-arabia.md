@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/27/former-al-qaeda-chief-osama-bin-laden-s-wives-a
 
 ### [2012-04-27](/news/2012/04/27/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Former Al-Qaeda chief Osama bin Laden's wives and children are deported from Pakistan to Saudi Arabia. 
 
 Widows and children of the former al-Qaeda chief arrive in the kingdom after being deported from Pakistan.

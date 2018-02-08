@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/3/an-ongoing-study-by-sociologist-robert-cushing-f
 
 ### [2004-04-3](/news/2004/04/3/index.md)
 
-##### research
+##### Research
 #  An ongoing study by sociologist Robert Cushing for the "Austin American-Statesman" newspaper reveals a statistical anomaly: soldiers and Marines from rural areas are dying at twice the rate of troops from cities and suburbs. 
 
 

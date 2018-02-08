@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/13/voters-in-macedonia-go-to-the-polls-for-the-fir
 
 ### [2014-04-13](/news/2014/04/13/index.md)
 
-##### runoff presidential election
+##### Runoff presidential election
 # Voters in Macedonia go to the polls for the first round of voting in a presidential election. 
 
 

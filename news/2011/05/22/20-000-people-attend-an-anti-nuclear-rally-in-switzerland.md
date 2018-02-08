@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/22/20-000-people-attend-an-anti-nuclear-rally-in-s
 
 ### [2011-05-22](/news/2011/05/22/index.md)
 
-##### nuclear power
+##### Nuclear power
 # 20,000 people attend an anti-nuclear rally in Switzerland. 
 
 An estimated 20,000 people participated in the biggest anti-nuclear protest in Switzerland for 25 years on Sunday. Chanting and ...

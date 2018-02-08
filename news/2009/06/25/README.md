@@ -15,9 +15,9 @@ Farrah Fawcett , who soared to fame as a national sex symbol in the late 1970s o
 ### [ A mourning ceremony for protesters who died in the post-election protests is cancelled. ](/news/2009/06/25/a-mourning-ceremony-for-protesters-who-died-in-the-post-election-protests-is-cancelled.md)
 A mourning ceremony for protestors who have died in Iran&#39;s post-election turmoil has been called off.
 
-##### legislative
+##### Legislative
 ### [ Campaigning begins for a legislative election in Iraqi Kurdistan. ](/news/2009/06/25/campaigning-begins-for-a-legislative-election-in-iraqi-kurdistan.md)
-_Context: Kurdish, legislative_
+_Context: legislative, Kurdish_
 
 ##### Venezuela
 ### [ Venezuela and the United States say they will restore their ambassadors. ](/news/2009/06/25/venezuela-and-the-united-states-say-they-will-restore-their-ambassadors.md)
@@ -33,23 +33,23 @@ _Context: Stockholm, 2008-09, Volvo Ocean Race_
 
 ##### Russia
 ### [ The Russian Supreme Court orders a retrial for three men on charges related to the murder of journalist Anna Politkovskaya. ](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.md)
-_Context: Supreme Court, Russia, murder, Anna Politkovskaya_
+_Context: murder, Russia, Anna Politkovskaya, Supreme Court_
 
 ##### Burma
 ### [ Burma denies any link to the North Korean ship "Kang Nam 1" being tracked by the United States on suspicion of carrying weapons in violation of a United Nations embargo. ](/news/2009/06/25/burma-denies-any-link-to-the-north-korean-ship-kang-nam-1-being-tracked-by-the-united-states-on-suspicion-of-carrying-weapons-in-violatio.md)
-_Context: Burma, North Korea, United States, United Nations, Kang Nam 1_
+_Context: United States, Burma, United Nations, Kang Nam 1, North Korea_
 
 ##### Honduras
 ### [ Honduran President Manuel Zelaya fires his armed forces chief after he refuses to give logistical support for a referendum on constitutional change. The Supreme Court then orders that he be returned to his job immediately. ](/news/2009/06/25/honduran-president-manuel-zelaya-fires-his-armed-forces-chief-after-he-refuses-to-give-logistical-support-for-a-referendum-on-constitutiona.md)
-_Context: Manuel Zelaya, Honduras, constitutional referendum, Supreme Court, President_
+_Context: Manuel Zelaya, President, Honduras, Supreme Court, constitutional referendum_
 
 ##### Qantas Airways
 ### [ Qantas Airways cancelled half of a 30-plan order for 787 Dreamliners from Boeing Co., a cancellation that may amount to a $3.1 billion hit for Boeing. ](/news/2009/06/25/qantas-airways-cancelled-half-of-a-30-plan-order-for-787-dreamliners-from-boeing-co-a-cancellation-that-may-amount-to-a-3-1-billion-hit.md)
-_Context: Boeing Company, Qantas Airways, Boeing 787_
+_Context: Boeing Company, Boeing 787, Qantas Airways_
 
 ##### Cristiano Ronaldo
 ### [ Cristiano Ronaldo completes a world record transfer fee of 80 million pounds which sends him to Real Madrid from Manchester United. ](/news/2009/06/25/cristiano-ronaldo-completes-a-world-record-transfer-fee-of-80-million-pounds-which-sends-him-to-real-madrid-from-manchester-united.md)
-_Context: Manchester United, Cristiano Ronaldo, Real Madrid_
+_Context: Real Madrid, Manchester United, Cristiano Ronaldo_
 
 ## [Previous Day...](/news/2009/06/24/index.md)
 

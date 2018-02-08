@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/13/more-than-1-000-counties-in-the-united-states-a
 
 ### [2012-07-13](/news/2012/07/13/index.md)
 
-##### counties
+##### Counties
 # More than 1,000 counties in the United States are declared natural disaster areas after a drought spreads throughout the country. 
 
 

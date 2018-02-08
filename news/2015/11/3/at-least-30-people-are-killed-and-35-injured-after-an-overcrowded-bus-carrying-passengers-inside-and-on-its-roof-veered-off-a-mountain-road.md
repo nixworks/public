@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/3/at-least-30-people-are-killed-and-35-injured-aft
 
 ### [2015-11-3](/news/2015/11/3/index.md)
 
-##### bus
+##### Bus
 # At least 30 people are killed and 35 injured after an overcrowded bus carrying passengers inside and on its roof veered off a mountain road in northwest Nepal. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/17/the-emerging-2008-baby-milk-scandal-shows-evide
 
 ### [2008-09-17](/news/2008/09/17/index.md)
 
-##### adulterated milk products and infant formula
+##### Adulterated milk products and infant formula
 #  The emerging 2008 baby milk scandal shows evidence of coverup by officials during the Olympics. 
 
 China said on Wednesday a third infant had died after drinking contaminated milk and the number sick had leapt to many thousands, while an official said the health threat was concealed for at least a month.

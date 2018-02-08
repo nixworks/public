@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/22/a-56-vehicle-pile-up-on-the-g5-beijingakunming-
 
 ### [2016-11-22](/news/2016/11/22/index.md)
 
-##### multiple-vehicle collision
+##### Multiple-vehicle collision
 # A 56-vehicle pile-up on the G5 Beijing-Kunming Expressway in China's northern Shanxi province, leaves at least 17 people dead and 37 others injured. 
 
 More than 50 cars crash on a motorway in northern China, killing 17 people.

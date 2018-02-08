@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/30/victims-of-press-intrusion-launch-an-online-cam
 
 ### [2012-11-30](/news/2012/11/30/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # Victims of press intrusion launch an online campaign to urge British Prime Minister David Cameron to fully implement the recommendations of the Leveson report. 
 
 

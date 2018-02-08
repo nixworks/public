@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/28/for-the-first-time-in-europe-a-domesticated-cat
 
 ### [2006-02-28](/news/2006/02/28/index.md)
 
-##### bird flu
+##### Bird flu
 #  For the first time in Europe, a domesticated cat is found infected with the H5N1 bird flu virus. The dead cat was found on the island of Rgen in Mecklenburg-Western Pomerania, Germany. 
 
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com

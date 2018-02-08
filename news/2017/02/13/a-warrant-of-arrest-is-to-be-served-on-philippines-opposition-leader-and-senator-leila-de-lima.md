@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/13/a-warrant-of-arrest-is-to-be-served-on-philippi
 
 ### [2017-02-13](/news/2017/02/13/index.md)
 
-##### warrant of arrest
+##### Warrant of arrest
 # A warrant of arrest is to be served on Philippines opposition leader and senator Leila de Lima. 
 
 Senator Leila de Lima is ready to face the charges and go to jail in case the Justice Department releases on Monday its resolution on cases of drug trafficking filed against her.

@@ -19,19 +19,19 @@ A Taliban suicide bomber detonated himself on Tuesday outside Kabul Internationa
 ### [Forensic experts in Kharkiv, Ukraine begin identifying the victims of the crash, with only 200 bodies delivered out of the 282 pro-Russian separatists claim to have sent. ](/news/2014/07/22/forensic-experts-in-kharkiv-ukraine-begin-identifying-the-victims-of-the-crash-with-only-200-bodies-delivered-out-of-the-282-pro-russian-s.md)
 The search for victims of the Malaysia Airlines crash in Ukraine must go on as only some 200 bodies have been recovered so far, Dutch officials say.
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing in Baghdad kills at least 21 people. ](/news/2014/07/22/a-suicide-bombing-in-baghdad-kills-at-least-21-people.md)
 A suicide driver rammed his explosive-laden car into a police checkpoint in the Iraqi capital killing 21 people, including more than a dozen civilians en route to a Shiite shrine in the final days of the Islamic holy month.
 
 ##### Taiwan
 ### [Typhoon Matmo (Henry) is expected to make landfall over Taiwan en route to eastern China later in the week. ](/news/2014/07/22/typhoon-matmo-henry-is-expected-to-make-landfall-over-taiwan-en-route-to-eastern-china-later-in-the-week.md)
-_Context: China, Taiwan_
+_Context: Taiwan, China_
 
 ##### Moscow Metro
 ### [Ivan Besedin is fired as the head of the Moscow Metro as a result of the derailment that cost 22 lives. ](/news/2014/07/22/ivan-besedin-is-fired-as-the-head-of-the-moscow-metro-as-a-result-of-the-derailment-that-cost-22-lives.md)
 _Context: Moscow Metro_
 
-##### city of Yumen
+##### City of Yumen
 ### [Thirty thousand people in the city of Yumen in China's Gansu province have been prevented from leaving and 151 people placed in quarantine after a man dies of bubonic plague last week. ](/news/2014/07/22/thirty-thousand-people-in-the-city-of-yumen-in-china-s-gansu-province-have-been-prevented-from-leaving-and-151-people-placed-in-quarantine-a.md)
 China has sealed off parts of its northwestern city of Yumen after a resident died of bubonic plague last week, state media reported on Tuesday.
 

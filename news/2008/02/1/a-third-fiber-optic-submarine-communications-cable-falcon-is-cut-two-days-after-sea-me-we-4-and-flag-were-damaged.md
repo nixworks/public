@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/1/a-third-fiber-optic-submarine-communications-cab
 
 ### [2008-02-1](/news/2008/02/1/index.md)
 
-##### fiber-optic
+##### Fiber-optic
 #  A third fiber-optic submarine communications cable, FALCON, is cut two days after SEA-ME-WE 4 and FLAG were damaged. 
 
 

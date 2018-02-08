@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/20/127-people-are-killed-when-a-plane-crashes-in-a
 
 ### [2012-04-20](/news/2012/04/20/index.md)
 
-##### crashes
+##### Crashes
 # 127 people are killed when a plane crashes in a residential area near the Benazir Bhutto International Airport near Islamabad, Pakistan. 
 
 A passenger plane carrying 127 people on board crashed in bad weather in the outskirts of the Pakistani capital of Islamabad on Friday.

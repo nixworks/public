@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/16/a-third-case-of-foot-and-mouth-disease-is-ident
 
 ### [2007-09-16](/news/2007/09/16/index.md)
 
-##### foot and mouth disease
+##### Foot and mouth disease
 #  A third case of foot and mouth disease is identified but not confirmed by United Kingdom government vets on a farm near Chertsey, Surrey. 
 
 

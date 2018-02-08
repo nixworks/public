@@ -21,11 +21,11 @@ Francis, the first Latin American pope, has drawn from his life in Argentina to 
 
 ##### Univision's
 ### [Univision's Sabado Gigante, the world's longest running variety show in television history, ends after 53 years on air. ](/news/2015/09/19/univision-s-sa-bado-gigante-the-world-s-longest-running-variety-show-in-television-history-ends-after-53-years-on-air.md)
-_Context: Univision's, Sabado Gigante, variety show_
+_Context: variety show, Univision's, Sabado Gigante_
 
-##### flash flood
+##### Flash flood
 ### [Heavy rain triggers flash floods killing 10 people in Tehran and southern Iran, with eight others missing. ](/news/2015/09/19/heavy-rain-triggers-flash-floods-killing-10-people-in-tehran-and-southern-iran-with-eight-others-missing.md)
-_Context: Iran, flash flood, Tehran_
+_Context: flash flood, Iran, Tehran_
 
 ##### European migrant crisis
 ### [Italy rescues thousands of refugees in the Mediterranean Sea off the coast of Libya. ](/news/2015/09/19/italy-rescues-thousands-of-refugees-in-the-mediterranean-sea-off-the-coast-of-libya.md)
@@ -37,7 +37,7 @@ The Delhi government has ordered deferring all planned surgeries to facilitate a
 
 ##### Japanese Self-Defense Forces
 ### [Japan's upper chamber of Parliament approves controversial legislation, which the lower chamber passed in July, that expands the role of the Japanese Self-Defense Forces overseas. ](/news/2015/09/19/japan-s-upper-chamber-of-parliament-approves-controversial-legislation-which-the-lower-chamber-passed-in-july-that-expands-the-role-of-the.md)
-_Context: Japanese Self-Defense Forces, Diet, Japan, lower chamber_
+_Context: lower chamber, Japanese Self-Defense Forces, Diet, Japan_
 
 ##### European migrant crisis
 ### [Hungarian security forces confiscate a Croatian train carrying 1000 migrants and disarm 40 Croatian police officers accompanying the migrants. Hungarian authorities repatriate the officers. ](/news/2015/09/19/hungarian-security-forces-confiscate-a-croatian-train-carrying-1000-migrants-and-disarm-40-croatian-police-officers-accompanying-the-migrant.md)

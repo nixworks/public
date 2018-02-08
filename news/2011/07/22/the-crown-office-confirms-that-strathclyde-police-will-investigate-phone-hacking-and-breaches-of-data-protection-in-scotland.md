@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/22/the-crown-office-confirms-that-strathclyde-poli
 
 ### [2011-07-22](/news/2011/07/22/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. 
 
 Strathclyde Police are investigating phone hacking and breaches of data protection in Scotland, the Crown Office confirms.

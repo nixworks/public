@@ -27,7 +27,7 @@ Long-running BBC comedy Last of the Summer Wine is to be axed after 37 years, th
 ### [The Government of Kenya announces that 2.3 million bags of maize are unfit for human consumption due to contamination with high levels of aflatoxins, which have killed at least one child. ](/news/2010/06/2/the-government-of-kenya-announces-that-2-3-million-bags-of-maize-are-unfit-for-human-consumption-due-to-contamination-with-high-levels-of-af.md)
 There is growing alarm in Kenya where the government has announced 2.3m bags of maize are unfit for human consumption.
 
-##### minibus
+##### Minibus
 ### [15 people die after a minibus drives off a cliff in the Philippines. ](/news/2010/06/2/15-people-die-after-a-minibus-drives-off-a-cliff-in-the-philippines.md)
 _Context: Philippines, minibus_
 
@@ -39,13 +39,13 @@ A four-storey building collapses in the Bangladeshi capital, Dhaka, leaving at l
 ### [3 people are killed and 6 wounded when a leftover bomb from World War II explodes while being defused in Gottingen, Lower Saxony. ](/news/2010/06/2/3-people-are-killed-and-6-wounded-when-a-leftover-bomb-from-world-war-ii-explodes-while-being-defused-in-gapttingen-lower-saxony.md)
 Three bomb disposal experts killed by Allied explosive dropped more than 60 years ago.
 
-##### heatwave strikes India and South Asia
+##### Heatwave strikes India and South Asia
 ### [A heatwave strikes India and South Asia, reaching 53C (127F) and killing many hundreds of people. ](/news/2010/06/2/a-heatwave-strikes-india-and-south-asia-reaching-53c-127f-and-killing-many-hundreds-of-people.md)
 _Context: heatwave strikes India and South Asia_
 
 ##### South Africa
 ### [President of South Africa Jacob Zuma goes to India on his first state visit to Asia, launching a bilateral trade forum in Mumbai. ](/news/2010/06/2/president-of-south-africa-jacob-zuma-goes-to-india-on-his-first-state-visit-to-asia-launching-a-bilateral-trade-forum-in-mumbai.md)
-_Context: Asia, Jacob Zuma, Mumbai, India, South Africa_
+_Context: South Africa, India, Jacob Zuma, Asia, Mumbai_
 
 ##### Amnesty International
 ### [Amnesty International condemns Sunday's execution, in Tripoli and Benghazi, Libya, of 18 people, some of whom were from Chad, Egypt and Nigeria. ](/news/2010/06/2/amnesty-international-condemns-sunday-s-execution-in-tripoli-and-benghazi-libya-of-18-people-some-of-whom-were-from-chad-egypt-and-nige.md)
@@ -69,7 +69,7 @@ Three centre-right parties pledge to work together following weekend election.
 
 ##### New Caledonia
 ### [New Caledonia President Philippe Gomes is indicted over alleged misuse of business contracts. ](/news/2010/06/2/new-caledonia-president-philippe-goma-s-is-indicted-over-alleged-misuse-of-business-contracts.md)
-_Context: contract, New Caledonia, Philippe Gomes, President of New Caledonia, indicted_
+_Context: President of New Caledonia, New Caledonia, indicted, Philippe Gomes, contract_
 
 ##### Lombardy
 ### [President of Lombardy, Roberto Formigoni, offers pregnant women EUR4,500 if they do not have abortions: anti-abortion campaigners welcome the move and critics call it "propaganda". ](/news/2010/06/2/president-of-lombardy-roberto-formigoni-offers-pregnant-women-a-4-500-if-they-do-not-have-abortions-anti-abortion-campaigners-welcome-th.md)
@@ -81,11 +81,11 @@ Suicide bombing and rocket attacks as delegates discuss plan for reconciliation.
 
 ##### South Korea
 ### [The South Korean government says that it will spend 11.3 billion won (US$9.3 million) until 2013 to support research on key three-dimensional 3D TV technologies. ](/news/2010/06/2/the-south-korean-government-says-that-it-will-spend-11-3-billion-won-us-9-3-million-until-2013-to-support-research-on-key-three-dimensiona.md)
-_Context: South Korea, 3D TV, 3D_
+_Context: 3D, 3D TV, South Korea_
 
 ##### Armando Galarraga
 ### [Armando Galarraga of the Detroit Tigers had his perfect game bid broken up by an incorrect call made by the first base umpire Jim Joyce that would have been his final out. ](/news/2010/06/2/armando-galarraga-of-the-detroit-tigers-had-his-perfect-game-bid-broken-up-by-an-incorrect-call-made-by-the-first-base-umpire-jim-joyce-that.md)
-_Context: Armando Galarraga, Jim Joyce, his perfect game bid broken up by an incorrect call_
+_Context: his perfect game bid broken up by an incorrect call, Armando Galarraga, Jim Joyce_
 
 ##### Brazil national football team
 ### [Brazil and Zimbabwe play a football game in front of a sell-out crowd in Harare ahead of the 2010 FIFA World Cup in South Africa, the first time since independence that a non-African team has performed in the country. President Robert Mugabe and Prime Minister Morgan Tsvangirai both attend and civil servants are given time off work. ](/news/2010/06/2/brazil-and-zimbabwe-play-a-football-game-in-front-of-a-sell-out-crowd-in-harare-ahead-of-the-2010-fifa-world-cup-in-south-africa-the-first.md)

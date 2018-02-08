@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/16/at-least-12-police-officers-are-killed-and-many
 
 ### [2008-06-16](/news/2008/06/16/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  At least 12 police officers are killed and many more people wounded by a suicide bombing outside a police station in the town of Vavuniya in northern Sri Lanka. 
 
 

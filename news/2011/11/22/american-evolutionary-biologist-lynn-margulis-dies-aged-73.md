@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/22/american-evolutionary-biologist-lynn-margulis-d
 
 ### [2011-11-22](/news/2011/11/22/index.md)
 
-##### evolutionary biologist
+##### Evolutionary biologist
 # American evolutionary biologist Lynn Margulis dies aged 73. 
 
 

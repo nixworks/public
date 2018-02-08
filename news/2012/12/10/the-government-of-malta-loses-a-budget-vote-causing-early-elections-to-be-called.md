@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/10/the-government-of-malta-loses-a-budget-vote-cau
 
 ### [2012-12-10](/news/2012/12/10/index.md)
 
-##### government
+##### Government
 # The government of Malta loses a budget vote, causing early elections to be called. 
 
 The Budget was defeated this evening, with Franco Debono, as promised, joining the Opposition to vote &#039;no&#039;. Prime Minister Lawrence Gonzi said he will tomorrow call on the President to advise him when to dissolve Parliament and when to call a general election. MPs were asked to stand when the...

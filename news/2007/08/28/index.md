@@ -3,17 +3,17 @@ Formats: [HTML](2007/08/28/index.html)  [JSON](2007/08/28/index.json)  [XML](200
 
 ## [2007-08-28](/news/2007/08/28/index.md)
 
-##### lunar eclipse
+##### Lunar eclipse
 ### [ A total lunar eclipse takes place in the early morning hours across most of North America and the eastern Pacific Ocean region. ](/news/2007/08/28/a-total-lunar-eclipse-takes-place-in-the-early-morning-hours-across-most-of-north-america-and-the-eastern-pacific-ocean-region.md)
 _Context: lunar eclipse, South Pacific Ocean, North America_
 
 ##### Supreme Court
 ### [ The Supreme Court of Chile confirms a life sentence for Hugo Salas Wenzel, a Chilean general under former dictator Augusto Pinochet, for his role in the murder of 12 opponents of the regime. ](/news/2007/08/28/the-supreme-court-of-chile-confirms-a-life-sentence-for-hugo-salas-wenzel-a-chilean-general-under-former-dictator-augusto-pinochet-for-hi.md)
-_Context: Supreme Court, Augusto Pinochet, Hugo Salas Wenzel, Chile_
+_Context: Hugo Salas Wenzel, Chile, Supreme Court, Augusto Pinochet_
 
 ##### Sudan
 ### [ The Sudanese Government and the United Nations launch a flood appeal to help victims of recent flooding which has killed 89 people and destroyed 73,000 homes. ](/news/2007/08/28/the-sudanese-government-and-the-united-nations-launch-a-flood-appeal-to-help-victims-of-recent-flooding-which-has-killed-89-people-and-dest.md)
-_Context: flood, Sudan, United Nations_
+_Context: flood, United Nations, Sudan_
 
 ##### 2007 South Korean hostage crisis in Afghanistan
 ### [ South Korean hostage crisis: Officials in South Korea's Blue House claim that the Taliban has agreed to release 19 South Korean hostages. ](/news/2007/08/28/south-korean-hostage-crisis-officials-in-south-korea-s-blue-house-claim-that-the-taliban-has-agreed-to-release-19-south-korean-hostages.md)
@@ -29,11 +29,11 @@ Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science 
 
 ##### Federal District Judge
 ### [ A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. ](/news/2007/08/28/a-united-states-federal-judge-orders-the-extradition-of-former-panamanian-president-manuel-noriega-to-france-where-he-has-already-been-con.md)
-_Context: Manuel Noriega, in absentia, extradition, France, Panamanian President, money-laundering, Federal District Judge_
+_Context: Federal District Judge, in absentia, money-laundering, France, Panamanian President, extradition, Manuel Noriega_
 
 ##### Abdullah Gl
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
-_Context: Abdullah Gl, ruling party, President of Turkey_
+_Context: Abdullah Gl, President of Turkey, ruling party_
 
 ##### Cockpit voice recorder
 ### [ The Cockpit voice recorder is retrieved from the wreckage of Adam Air Flight 574, 24 hours after the recovery of the Flight data recorder. ](/news/2007/08/28/the-cockpit-voice-recorder-is-retrieved-from-the-wreckage-of-adam-air-flight-574-24-hours-after-the-recovery-of-the-flight-data-recorder.md)
@@ -41,7 +41,7 @@ Black box data recorders from an Adam Air jet have been found, eight months afte
 
 ##### Ontario Court of Appeal
 ### [ The Ontario Court of Appeal acquits Steven Truscott of the 1959 murder of Lynne Harper, declaring the original trial that had sentenced the then-14-year-old to hang was a miscarriage of justice. The case has been a cause clbre for almost fifty years. ](/news/2007/08/28/the-ontario-court-of-appeal-acquits-steven-truscott-of-the-1959-murder-of-lynne-harper-declaring-the-original-trial-that-had-sentenced-the.md)
-_Context: hanging, miscarriage of justice, Steven Truscott, Ontario Court of Appeal, cause clbre, 1959_
+_Context: 1959, cause clbre, Steven Truscott, hanging, miscarriage of justice, Ontario Court of Appeal_
 
 ## [Previous Day...](/news/2007/08/27/index.md)
 

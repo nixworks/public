@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/3/conflict-in-iraq-on-the-third-day-of-the-assault
 
 ### [2004-10-3](/news/2004/10/3/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: On the third day of the assault on Samarra, which has left 125 insurgents and 70 civilians dead, U.S. and Iraqi government officials say they have secured 70 percent of the city. 
 
 

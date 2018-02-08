@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/28/richard-vallia-res-convicted-of-stealing-3-000-
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
-##### maple syrup
+##### Maple syrup
 # Richard Vallieres, convicted of stealing 3,000 tonnes of maple syrup from a Federation of Quebec Maple Syrup Producers warehouse in 2012, is sentenced to eight years in prison and fined $9.4 million, adjustable to fourteen years on non-payment of the fine. 
 
 A man described as one of the ringleaders in the 2012 theft of $18.7 million worth of maple syrup could spend up to 14 years behind bars.

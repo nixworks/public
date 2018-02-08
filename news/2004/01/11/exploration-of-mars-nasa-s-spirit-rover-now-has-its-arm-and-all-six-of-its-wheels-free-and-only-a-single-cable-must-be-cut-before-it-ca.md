@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/11/exploration-of-mars-nasa-s-spirit-rover-now-has
 
 ### [2004-01-11](/news/2004/01/11/index.md)
 
-##### route
+##### Route
 #  Exploration of Mars: NASA's "Spirit" rover now has its arm and all six of its wheels free, and only a single cable must be cut before it can turn and roll off its lander onto the soil of Mars. As that milestone is completed, scientists are taking opportunities to take extra pictures and gather other data.
 
 

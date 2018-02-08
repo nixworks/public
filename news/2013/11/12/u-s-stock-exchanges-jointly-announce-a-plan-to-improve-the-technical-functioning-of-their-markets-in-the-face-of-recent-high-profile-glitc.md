@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/12/u-s-stock-exchanges-jointly-announce-a-plan-to-
 
 ### [2013-11-12](/news/2013/11/12/index.md)
 
-##### stock exchanges
+##### Stock exchanges
 # U.S. stock exchanges jointly announce a plan to improve the technical functioning of their markets, in the face of recent high-profile glitches such as the trading halt in Nasdaq in August. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/4/a-gunman-opens-fire-inside-the-westfield-garden-
 
 ### [2013-11-4](/news/2013/11/4/index.md)
 
-##### opens fire
+##### Opens fire
 # A gunman opens fire inside the Westfield Garden State Plaza in Paramus, New Jersey, shooting out security cameras. Hours later, the gunman commits suicide near the mall. 
 
 

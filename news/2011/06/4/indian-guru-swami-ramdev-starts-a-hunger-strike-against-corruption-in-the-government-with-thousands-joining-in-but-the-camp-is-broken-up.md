@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/4/indian-guru-swami-ramdev-starts-a-hunger-strike-
 
 ### [2011-06-4](/news/2011/06/4/index.md)
 
-##### guru
+##### Guru
 # Indian guru Swami Ramdev starts a hunger strike against corruption in the Government with thousands joining in but the camp is broken up. 
 
 Baba Ramdev goes on indefinite fast in New Delhi to press the government for tougher action on corruption.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/18/at-least-52-people-die-in-a-landslide-caused-by
 
 ### [2015-05-18](/news/2015/05/18/index.md)
 
-##### landslide
+##### Landslide
 # At least 52 people die in a landslide caused by heavy rains in the Colombian town of Salgar, Antioquia. 
 
 A massive landslide tore through a ravine in northwest Colombia Monday before dawn, killing at least 62 people and injuring 40, authorities said. Most residents were sleeping when the landslide hit the municipality of Salgar around 3:00 am, burying a large area in mud and debris. The rush of mud and

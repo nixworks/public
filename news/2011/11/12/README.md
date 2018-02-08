@@ -9,11 +9,11 @@ In a surprisingly sharp move, the Arab League voted Saturday to suspend Syria ov
 
 ##### Laghman province
 ### [Nine civilians are killed by a bomb explosion on a bus in Laghman province in eastern Afghanistan in a suspected Taliban attack. ](/news/2011/11/12/nine-civilians-are-killed-by-a-bomb-explosion-on-a-bus-in-laghman-province-in-eastern-afghanistan-in-a-suspected-taliban-attack.md)
-_Context: Laghman province, Afghanistan, Taliban_
+_Context: Afghanistan, Taliban, Laghman province_
 
 ##### Two massive explosions
 ### [Two massive explosions occur at a Revolutionary Guard ammunition depot western of the Iranian capital, Tehran; at least 17 people, including a senior commander, are killed according to Iranian state media. Mossad assumed responsible. ](/news/2011/11/12/two-massive-explosions-occur-at-a-revolutionary-guard-ammunition-depot-western-of-the-iranian-capital-tehran-at-least-17-people-including.md)
-_Context: Tehran, Two massive explosions, Mossad, Iranian state media, Iran, Iranian Revolutionary guards_
+_Context: Iran, Iranian Revolutionary guards, Two massive explosions, Tehran, Iranian state media, Mossad_
 
 ##### Islamic terrorism
 ### [A suspected Islamist attacker kills seven people in the southern Kazakh city of Taraz before blowing himself up. ](/news/2011/11/12/a-suspected-islamist-attacker-kills-seven-people-in-the-southern-kazakh-city-of-taraz-before-blowing-himself-up.md)
@@ -21,11 +21,11 @@ Media in Kazakhstan cite authorities as saying that seven people, including five
 
 ##### APEC United States 2011
 ### [APEC United States 2011: The Asia Pacific Economic Cooperation summit gets underway in the US city of Honolulu. ](/news/2011/11/12/apec-united-states-2011-the-asia-pacific-economic-cooperation-summit-gets-underway-in-the-us-city-of-honolulu.md)
-_Context: Honolulu, APEC United States 2011, Asia Pacific Economic Cooperation_
+_Context: APEC United States 2011, Honolulu, Asia Pacific Economic Cooperation_
 
 ##### Democratic Republic of Congo
 ### [The Democratic Republic of Congo and South Africa sign an accord to develop a mega-hydroelectric plant on the Congo river to address their nations' growing energy needs. ](/news/2011/11/12/the-democratic-republic-of-congo-and-south-africa-sign-an-accord-to-develop-a-mega-hydroelectric-plant-on-the-congo-river-to-address-their-n.md)
-_Context: Congo river, South Africa, Democratic Republic of Congo, hydroelectric_
+_Context: Democratic Republic of Congo, Congo river, South Africa, hydroelectric_
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton demands that Iran respond soon to the "serious concerns" raised by the International Atomic Energy Agency report that Iran appeared to be working on nuclear bomb technology. ](/news/2011/11/12/united-states-secretary-of-state-hillary-clinton-demands-that-iran-respond-soon-to-the-serious-concerns-raised-by-the-international-atomic.md)
@@ -39,7 +39,7 @@ The Special Tribunal for Lebanon’s most high-profile hearing to date ended in 
 ### [Silvio Berlusconi resigns as Prime Minister of Italy to make way for an emergency government to address the country's economic crisis; thousands of Italians celebrate his departure in street demonstrations. ](/news/2011/11/12/silvio-berlusconi-resigns-as-prime-minister-of-italy-to-make-way-for-an-emergency-government-to-address-the-country-s-economic-crisis-thous.md)
 Silvio Berlusconi resigned on Saturday to make way for an emergency government Italians hope will save them from financial ruin as thousands of jeering protesters shouted &quot;clown, clown&quot; and toasted the end of a scandal-plagued era.
 
-##### nomination
+##### Nomination
 ### [At a Republican party presidential primary debate, US Presidential candidates Mitt Romney and Newt Gingrich say they would go to war to stop Iran from obtaining nuclear weapons. ](/news/2011/11/12/at-a-republican-party-presidential-primary-debate-us-presidential-candidates-mitt-romney-and-newt-gingrich-say-they-would-go-to-war-to-stop.md)
 At CBS News/National Journal Republican presidential debate, candidates split on willingness to go to war over nuclear weapons
 

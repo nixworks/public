@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/20/brenda-a-transsexual-named-in-a-sex-scandal-inv
 
 ### [2009-11-20](/news/2009/11/20/index.md)
 
-##### transsexual
+##### Transsexual
 #  Brenda, a transsexual named in a sex scandal involving former Lazio governor Piero Marrazzo, is found burned alive following a fire at her Rome flat. 
 
 &#039;Brenda&#039;, a transsexual prostitute linked to a sex and drugs scandal which brought down the prominent Italian politician Piero Marrazzo, has been found burned to death in her apartment.

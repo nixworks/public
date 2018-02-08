@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/21/a-mining-accident-in-china-s-jilin-province-kil
 
 ### [2013-04-21](/news/2013/04/21/index.md)
 
-##### mining accident
+##### Mining accident
 # A mining accident in China's Jilin Province kills at least 18 people and injures 12 others. 
 
 

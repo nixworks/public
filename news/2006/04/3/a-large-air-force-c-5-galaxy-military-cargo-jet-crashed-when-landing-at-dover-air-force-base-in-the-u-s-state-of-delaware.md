@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/3/a-large-air-force-c-5-galaxy-military-cargo-jet-
 
 ### [2006-04-3](/news/2006/04/3/index.md)
 
-##### air force
+##### Air force
 #  A large air force C-5 Galaxy military cargo jet crashed when landing at Dover Air Force Base in the U.S. state of Delaware. 
 
 

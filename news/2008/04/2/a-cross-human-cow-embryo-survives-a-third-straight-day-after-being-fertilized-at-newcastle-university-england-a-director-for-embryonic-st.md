@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/2/a-cross-human-cow-embryo-survives-a-third-straig
 
 ### [2008-04-2](/news/2008/04/2/index.md)
 
-##### human
+##### Human
 #  A cross human-cow embryo survives a third straight day after being fertilized at Newcastle University, England. A director for embryonic stem cell laboratories at the Australian Stem Cell Centre said that the "99 per cent human" embryo could improve research within the field of human diseases. The Catholic Church in England however said that the creation was "monstrous" and says that the later destruction of it is unethical. 
 
 

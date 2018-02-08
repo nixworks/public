@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/30/thousands-of-czech-riot-police-disperse-the-cro
 
 ### [2005-07-30](/news/2005/07/30/index.md)
 
-##### riot police
+##### Riot police
 #  Thousands of Czech riot police disperse the crowd at the annual free electronic music festival "CzechTek", leaving dozens injured. 
 
 

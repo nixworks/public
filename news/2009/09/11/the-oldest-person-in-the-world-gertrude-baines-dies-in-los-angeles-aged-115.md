@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/11/the-oldest-person-in-the-world-gertrude-baines-
 
 ### [2009-09-11](/news/2009/09/11/index.md)
 
-##### oldest person in the world
+##### Oldest person in the world
 #  The oldest person in the world, Gertrude Baines, dies in Los Angeles aged 115. 
 
 The world&#39;s oldest person has died at the age of 115 in Los Angeles.

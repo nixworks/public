@@ -3,7 +3,7 @@ Formats: [HTML](2015/06/27/index.html)  [JSON](2015/06/27/index.json)  [XML](201
 
 ## [2015-06-27](/news/2015/06/27/index.md)
 
-##### military
+##### Military
 ### [Suspected Islamist militants attack an army base in Nara, Mali leaving three soldiers and eight attackers dead. ](/news/2015/06/27/suspected-islamist-militants-attack-an-army-base-in-nara-mali-leaving-three-soldiers-and-eight-attackers-dead.md)
 Suspected Islamist fighters have attacked a town in western Mali near the border with neighbouring Mauritania, leaving up to 11 people dead, an army nurse says.
 
@@ -33,7 +33,7 @@ The memorial will be held at 10am on Jul 11, 2015 at Bunga Raya Complex at Kuala
 
 ##### 2015 Taiwan water park explosion
 ### [A midair explosion from flammable powder at a recreational water park in Taiwan injures at least 510 people with about 183 in serious condition in intensive care. ](/news/2015/06/27/a-midair-explosion-from-flammable-powder-at-a-recreational-water-park-in-taiwan-injures-at-least-510-people-with-about-183-in-serious-condit.md)
-_Context: 2015 Taiwan water park explosion, intensive care_
+_Context: intensive care, 2015 Taiwan water park explosion_
 
 ##### Egypt
 ### [A sandstorm and a magnitude-5.2 earthquake centered in Sinai peninsula hit Egypt. There are no reports of deaths or injuries. ](/news/2015/06/27/a-sandstorm-and-a-magnitude-5-2-earthquake-centered-in-sinai-peninsula-hit-egypt-there-are-no-reports-of-deaths-or-injuries.md)

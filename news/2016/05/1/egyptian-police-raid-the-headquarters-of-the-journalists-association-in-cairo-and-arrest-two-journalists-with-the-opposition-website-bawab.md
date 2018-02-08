@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/1/egyptian-police-raid-the-headquarters-of-the-jou
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
-##### covering
+##### Covering
 # Egyptian police raid the headquarters of the journalists' association in Cairo, and arrest two journalists with the opposition website Bawabet Yanayer, editor Amr Badr and reporter Mahmud el-Sakka, for alleged incitement to protest in violation of the law. 
 
 Egyptian police raided the press syndicate in Cairo late on Sunday and arrested two journalists critical of the government, a syndicate official and reporters said in what the labor union called an unprecedented crackdown on the media.

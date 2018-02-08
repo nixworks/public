@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/2/thousands-of-people-are-stranded-amid-flash-floo
 
 ### [2010-11-2](/news/2010/11/2/index.md)
 
-##### flash floods in Thailand
+##### Flash floods in Thailand
 # Thousands of people are stranded amid flash floods in Thailand. 
 
 

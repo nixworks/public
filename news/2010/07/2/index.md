@@ -25,7 +25,7 @@ US and Amnesty call for transparency and probe into Urumqi unrest one year on.
 
 ##### Narathiwat
 ### [Eight soldiers are killed during two roadside bombs in Narathiwat and Yala in Thailand. ](/news/2010/07/2/eight-soldiers-are-killed-during-two-roadside-bombs-in-narathiwat-and-yala-in-thailand.md)
-_Context: Narathiwat, Yala Province, Thailand_
+_Context: Yala Province, Narathiwat, Thailand_
 
 ##### USAID
 ### [At least four people are killed and several others are wounded as six suicide bombers storm a USAID compound before dawn in Kunduz, Afghanistan. ](/news/2010/07/2/at-least-four-people-are-killed-and-several-others-are-wounded-as-six-suicide-bombers-storm-a-usaid-compound-before-dawn-in-kunduz-afghanis.md)
@@ -45,15 +45,15 @@ The Russian cargo ship Progress fails to dock with the International Space Stati
 
 ##### Somaliland presidential election, 2010
 ### [Newly-elected President Ahmed M. Mahamoud Silanyo promises to campaign "vigorously" for the recognition of "our democracy" during his time in office. ](/news/2010/07/2/newly-elected-president-ahmed-m-mahamoud-silanyo-promises-to-campaign-vigorously-for-the-recognition-of-our-democracy-during-his-time-i.md)
-_Context: Ahmed M. Mahamoud Silanyo, Somaliland presidential election, 2010, President_
+_Context: Ahmed M. Mahamoud Silanyo, President, Somaliland presidential election, 2010_
 
 ##### Ian Paisley
 ### [Ian Paisley condemns the invitation for the Pope to visit Britain and calls child-abusing Catholic priests "Antichrists". ](/news/2010/07/2/ian-paisley-condemns-the-invitation-for-the-pope-to-visit-britain-and-calls-child-abusing-catholic-priests-antichrists.md)
-_Context: Ian Paisley, Antichrist_
+_Context: Antichrist, Ian Paisley_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs into law the CISAD Act, which bans US banks from doing business with foreign banks that provide services to Iran's elite Revolutionary Guards. ](/news/2010/07/2/president-of-the-united-states-barack-obama-signs-into-law-the-cisad-act-which-bans-us-banks-from-doing-business-with-foreign-banks-that-pr.md)
-_Context: Barack Obama, CISAD Act, Revolutionary Guards, U.S. President_
+_Context: CISAD Act, Barack Obama, Revolutionary Guards, U.S. President_
 
 ##### German
 ### [Germany vows to suspend aid to Zimbabwe unless occupiers leave a farm owned by a German national. ](/news/2010/07/2/germany-vows-to-suspend-aid-to-zimbabwe-unless-occupiers-leave-a-farm-owned-by-a-german-national.md)

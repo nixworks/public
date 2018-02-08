@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/12/a-possible-supermassive-black-hole-is-witnessed
 
 ### [2010-05-12](/news/2010/05/12/index.md)
 
-##### supermassive black hole
+##### Supermassive black hole
 # A possible supermassive black hole is witnessed being hurled from its parent galaxy at high speed. 
 
 A supermassive black hole may have been observed in the process of being hurled from its parent galaxy at high speed.

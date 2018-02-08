@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/10/a-fire-destroys-a-boarding-school-for-the-deaf-
 
 ### [2003-04-10](/news/2003/04/10/index.md)
 
-##### boarding school
+##### Boarding school
 #  A fire destroys a boarding school for the deaf in Makhachkala, Russia, killing 28 children, aged eight to 14. About 100 other children suffer burns and smoke inhalation, 39 of which are in serious condition.
 
 

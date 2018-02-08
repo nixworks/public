@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/21/us-rock-band-r-e-m-announce-they-are-splitting-
 
 ### [2011-09-21](/news/2011/09/21/index.md)
 
-##### rock music
+##### Rock music
 # US rock band R.E.M. announce they are splitting up. 
 
 The members of American rock band R.E.M. have announced they are splitting up after 31 years.

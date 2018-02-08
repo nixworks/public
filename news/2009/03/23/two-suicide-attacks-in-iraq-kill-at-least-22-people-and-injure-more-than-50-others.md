@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/23/two-suicide-attacks-in-iraq-kill-at-least-22-pe
 
 ### [2009-03-23](/news/2009/03/23/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Two suicide attacks in Iraq kill at least 22 people and injure more than 50 others. 
 
 

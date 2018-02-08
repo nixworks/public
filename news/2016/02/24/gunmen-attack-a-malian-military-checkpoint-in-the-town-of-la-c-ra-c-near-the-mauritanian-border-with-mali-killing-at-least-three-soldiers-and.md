@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/24/gunmen-attack-a-malian-military-checkpoint-in-t
 
 ### [2016-02-24](/news/2016/02/24/index.md)
 
-##### military
+##### Military
 # Gunmen attack a Malian military checkpoint in the town of Lere, near the Mauritanian border with Mali, killing at least three soldiers and wounding two others. 
 
 Gunmen attacked a checkpoint southwest of the Malian town of Timbuktu overnight killing three soldiers and wounding two others, a soldier in the town said on Wednesday.

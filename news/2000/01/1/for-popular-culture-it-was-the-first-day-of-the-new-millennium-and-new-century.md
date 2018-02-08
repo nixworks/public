@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/01/1/for-popular-culture-it-was-the-first-day-of-the-
 
 ### [2000-01-1](/news/2000/01/1/index.md)
 
-##### millennium
+##### Millennium
 # For popular culture, it was the first day of the new millennium and new century.
 
 

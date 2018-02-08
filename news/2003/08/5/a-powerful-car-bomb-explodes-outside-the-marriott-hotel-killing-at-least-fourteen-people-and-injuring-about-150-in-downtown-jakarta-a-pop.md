@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/5/a-powerful-car-bomb-explodes-outside-the-marriot
 
 ### [2003-08-5](/news/2003/08/5/index.md)
 
-##### car bomb
+##### Car bomb
 #  A powerful car bomb explodes outside the Marriott Hotel, killing at least fourteen people and injuring about 150 in downtown Jakarta, a popular district for foreigners. It is believed to be a suicide bombing. The blast comes two days before a Bali court was due to deliver the verdict of the first suspect of the 2002 Bali terrorist bombing and four days after President Megawati Sukarnoputri vowed to wipe out terrorist networks in Indonesia. Jemaah Islamiyah claimed responsibility for the attack through a Singapore newspaper.
 
 

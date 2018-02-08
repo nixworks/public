@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/2/at-least-17-migrants-are-kidnapped-by-suspected-
 
 ### [2010-09-2](/news/2010/09/2/index.md)
 
-##### human trafficking
+##### Human trafficking
 # At least 17 migrants are kidnapped by suspected human traffickers in Tijuana, Baja California, in northwestern Mexico. 
 
 Human&#x20;traffickers&#x20;have&#x20;kidnapped&#x20;at&#x20;least&#x20;17&#x20;migrants&#x20;in&#x20;northern&#x20;Mexico,&#x20;police&#x20;in&#x20;Tijuana&#x20;say,&#x20;one&#x20;week&#x20;after&#x20;the&#x20;bodies&#x20;of&#x20;72&#x20;abducted&#x20;migrants&#x20;were&#x20;found&#x20;in&#x20;a&#x20;ranch&#x20;in&#x20;the&#x20;Tamaulipas&#x20;state.&#x0A;

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/29/police-in-burma-break-up-a-three-month-long-pro
 
 ### [2012-11-29](/news/2012/11/29/index.md)
 
-##### police
+##### Police
 # Police in Burma break up a three-month-long protest against the expansion of a copper mine run by the military and a Chinese company. 
 
 Security forces used a water cannon and other weapons to end the three-month protest, injuring 10 monks, two critically.

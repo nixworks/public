@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/30/eight-people-are-injured-in-a-gas-explosion-in-
 
 ### [2013-07-30](/news/2013/07/30/index.md)
 
-##### the state
+##### The state
 # Eight people are injured in a gas explosion in the US state of Florida. 
 
 At least eight people are injured in a series of explosions at a propane gas plant in the centre of the US state of Florida, officials say.

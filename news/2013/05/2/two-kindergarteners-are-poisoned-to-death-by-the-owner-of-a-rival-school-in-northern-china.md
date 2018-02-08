@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/2/two-kindergarteners-are-poisoned-to-death-by-the
 
 ### [2013-05-2](/news/2013/05/2/index.md)
 
-##### kindergarten
+##### Kindergarten
 # Two kindergarteners are poisoned to death by the owner of a rival school in northern China. 
 
 

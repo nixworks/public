@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/9/2011-libyan-civil-war-ousted-libyan-dictator-mua
 
 ### [2011-10-9](/news/2011/10/9/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: ousted Libyan dictator Muammar Gaddafi's stronghold of Sirte is reportedly close to being conquered by the forces of the National Transitional Council, who have captured the city's airport, hospital, university and conference centre. 
 
 Libyan interim government forces say they have captured a key bastion of Gaddafi loyalists in Sirte as street fighting continues in the city.

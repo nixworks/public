@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/29/irish-floods-at-least-13-ambulances-from-the-or
 
 ### [2009-11-29](/news/2009/11/29/index.md)
 
-##### floods
+##### Floods
 #  Irish floods: At least 13 ambulances from the Order of Malta Ambulance Corps in Dublin travel to Athlone and Ballinasloe to deliver relief to flood victims there. Dublin's River Liffey bursts its banks and floods several areas. 
 
 Bad weather has resulted in flooding in parts of Dublin and Kildare and the River Liffey has burst its banks at several locations, while floodwaters in the West and Midlands remain critically high.

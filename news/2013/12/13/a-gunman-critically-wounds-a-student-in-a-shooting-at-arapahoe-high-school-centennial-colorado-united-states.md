@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/13/a-gunman-critically-wounds-a-student-in-a-shoot
 
 ### [2013-12-13](/news/2013/12/13/index.md)
 
-##### gunman critically wounds a student in a shooting
+##### Gunman critically wounds a student in a shooting
 # A gunman critically wounds a student in a shooting at Arapahoe High School, Centennial, Colorado, United States. 
 
 

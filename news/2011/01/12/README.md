@@ -7,7 +7,7 @@ Formats: [HTML](2011/01/12/index.html)  [JSON](2011/01/12/index.json)  [XML](201
 ### [Attacks by men armed with rifles and machetes kill 19 people in three villages, including Kuru Station and Fagawon in central Nigeria. ](/news/2011/01/12/attacks-by-men-armed-with-rifles-and-machetes-kill-19-people-in-three-villages-including-kuru-station-and-fagawon-in-central-nigeria.md)
 _Context: Nigeria_
 
-##### suicide bombing
+##### Suicide bombing
 ### [At least four people are killed in a suicide bombing in the Afghan capital Kabul. ](/news/2011/01/12/at-least-four-people-are-killed-in-a-suicide-bombing-in-the-afghan-capital-kabul.md)
 At least eight people are killed in attacks on Afghan intelligence forces in Kabul and the northern province of Kunduz.
 
@@ -19,7 +19,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md)
 Chancellor Angela Merkel indicated that Germany is ready to revise the terms of Europe’s rescue fund for indebted states, underscoring her willingness to take whatever steps are necessary to blunt the sovereign debt crisis.
 
-##### floods
+##### Floods
 ### [The floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. ](/news/2011/01/12/the-floods-in-queensland-australia-worsen-further-with-20-000-properties-in-the-capital-brisbane-expected-to-be-flooded-and-4-000-homes-fl.md)
 Brisbane is preparing for the full impact of its worst flooding in more than 100 years, with officials warning almost 20,000 homes in the city will be flooded by early tomorrow morning.
 
@@ -33,31 +33,31 @@ More than 250 people die in the mountains of Rio de Janeiro state as flooding an
 
 ##### Haiti
 ### [Haitians commemorate the first anniversary of the 2010 earthquake. ](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.md)
-_Context: Haiti, 2010 Haiti earthquake_
+_Context: 2010 Haiti earthquake, Haiti_
 
 ##### South Korea
 ### [The South Korean Ministry for Reunification advises that it has reopened Red Cross communications with North Korea over the Panmunjom Border Area. ](/news/2011/01/12/the-south-korean-ministry-for-reunification-advises-that-it-has-reopened-red-cross-communications-with-north-korea-over-the-panmunjom-border.md)
-_Context: South Korea, North Korea, Red Cross, Panmunjeom_
+_Context: Red Cross, Panmunjeom, South Korea, North Korea_
 
 ##### Palestine
 ### [Palestinian militants on the Gaza Strip tell Hamas that they will cease firing rockets at Israel in order to prevent an Israel Defense Forces offensive. ](/news/2011/01/12/palestinian-militants-on-the-gaza-strip-tell-hamas-that-they-will-cease-firing-rockets-at-israel-in-order-to-prevent-an-israel-defense-force.md)
-_Context: Palestine, Hamas, Israel, Israel Defense Forces, Gaza Strip_
+_Context: Palestine, Israel Defense Forces, Israel, Gaza Strip, Hamas_
 
 ##### Tunisia
 ### [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md)
-_Context: Zine El Abidine Ben Ali, President, Tunisia_
+_Context: Zine El Abidine Ben Ali, Tunisia, President_
 
 ##### Sudan People's Liberation Army/Movement
 ### [The Sudan People's Liberation Army-Movement estimates that turnout in the Southern Sudanese independence referendum has passed the 60% threshold for the result to be declared valid. ](/news/2011/01/12/the-sudan-people-s-liberation-army-movement-estimates-that-turnout-in-the-southern-sudanese-independence-referendum-has-passed-the-60-thres.md)
 Officials say the 60 per cent benchmark needed to validate secession referendum has been met by fourth day of voting.
 
-##### Lebanon
+##### Lebanese
 ### [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md)
-_Context: Government, Saad Hariri, Hezbollah, Prime Minister, Lebanon_
+_Context: Hezbollah, Government, Lebanese, Saad Hariri, Prime Minister_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md)
-_Context: 2011 Tucson shooting, Barack Obama, Gabrielle Giffords, House of Representatives, U.S. President_
+_Context: Barack Obama, 2011 Tucson shooting, Gabrielle Giffords, House of Representatives, U.S. President_
 
 ##### Burma
 ### [Burma has passed a law enacting conscription for both males and females.](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.md)

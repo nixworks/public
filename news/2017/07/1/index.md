@@ -9,11 +9,11 @@ Current and former world leaders gathered Saturday to bid farewell to former Ger
 
 ##### Modena Park 2017
 ### [Italian rock singer Vasco Rossi broke the world record of biggest ticketed concert with 220,000 paying guests hosted at Enzo Ferrari Park in Modena, Italy. (Previous record belonged to a-Ha with 198,000 paying guests, set in 1991 in Rio de Janeiro, Brazil) ](/news/2017/07/1/italian-rock-singer-vasco-rossi-broke-the-world-record-of-biggest-ticketed-concert-with-220-000-paying-guests-hosted-at-enzo-ferrari-park-in.md)
-_Context: Modena, Enzo Ferrari, Vasco Rossi, Italy, a-Ha, Modena Park 2017_
+_Context: a-Ha, Vasco Rossi, Modena Park 2017, Italy, Modena, Enzo Ferrari_
 
 ##### Freedom of speech in the Philippines
 ### [President of the Philippines Rodrigo Duterte threatens the "Philippine Daily Inquirer" with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family (ever since the 1986 EDSA People Power Revolution), as well as the minority opposition Liberal Party (of which the Vice President of the Philippines Leni Robredo is its prominent member); both have been consistent in their criticisms of the Duterty presidency and its policies since its inauguration in 2016. ](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-threatens-the-philippine-daily-inquirer-with-an-exposa-c-the-newspaper-has-been-a-long-time-a.md)
-_Context: Leni Robredo, President, Rodrigo Duterte, Vice President of the Philippines, Duterty presidency, Freedom of speech in the Philippines, Liberal Party, 1986 EDSA People Power Revolution, Philippine Daily Inquirer, expose, Aquino family_
+_Context: Liberal Party, Duterty presidency, Leni Robredo, Freedom of speech in the Philippines, Vice President of the Philippines, expose, President, Philippine Daily Inquirer, 1986 EDSA People Power Revolution, Aquino family, Rodrigo Duterte_
 
 ##### Taxation in India
 ### [India replaces its federal and state taxes with the Goods and Services Tax (GST), the most extensive tax reform since its independence. ](/news/2017/07/1/india-replaces-its-federal-and-state-taxes-with-the-goods-and-services-tax-gst-the-most-extensive-tax-reform-since-its-independence.md)
@@ -25,7 +25,7 @@ Over 70,380 people have been housed in 79 government-run evacuation centers wher
 
 ##### Bhutan-China relations
 ### [Amid growing tensions between China and India and Bhutan, China releases a map detailing pieces of land claimed by Bhutan and India as belonging to China. China claims, via the map, that territory up until Gipmochi belongs to China and claims it's supported by the 1890 Convention of Calcutta. ](/news/2017/07/1/amid-growing-tensions-between-china-and-india-and-bhutan-china-releases-a-map-detailing-pieces-of-land-claimed-by-bhutan-and-india-as-belon.md)
-_Context: Gipmochi, Bhutan, Convention of Calcutta, India, Doklam tri-junction, Bhutan-China relations, China-India relations, China_
+_Context: Bhutan, Doklam tri-junction, China, China-India relations, Gipmochi, India, Bhutan-China relations, Convention of Calcutta_
 
 ##### Law of Singapore
 ### [Singapore implements a new law that bans foreigners from taking part in protests. ](/news/2017/07/1/singapore-implements-a-new-law-that-bans-foreigners-from-taking-part-in-protests.md)
@@ -37,7 +37,7 @@ Clubgoers screamed and scrambled for cover as dozens of gunshots rang out during
 
 ##### Canada Day
 ### [Canada celebrates the sesquicentennial (150-year) anniversary of the Canadian Confederation. ](/news/2017/07/1/canada-celebrates-the-sesquicentennial-150-year-anniversary-of-the-canadian-confederation.md)
-_Context: sesquicentennial, Canada Day, Canadian Confederation, Canadian_
+_Context: sesquicentennial, Canada Day, Canadian, Canadian Confederation_
 
 ##### Politics of Hong Kong
 ### [Carrie Lam is sworn in as the first female Chief Executive of Hong Kong by President Xi Jinping amid protests against the 20th anniversary of the transfer of sovereignty to China. ](/news/2017/07/1/carrie-lam-is-sworn-in-as-the-first-female-chief-executive-of-hong-kong-by-president-xi-jinping-amid-protests-against-the-20th-anniversary-o.md)
@@ -45,11 +45,11 @@ Hong Kong police clashed with protesters on Saturday as Carrie Lam was sworn in 
 
 ##### Presidency of Donald Trump
 ### [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md)
-_Context: New York, California, Kentucky, voter fraud, Mississippi, Donald Trump, U.S. state, Presidency of Donald Trump, President_
+_Context: voter fraud, Mississippi, Donald Trump, Kentucky, California, U.S. state, Presidency of Donald Trump, President, New York_
 
 ##### Politics of New Jersey
 ### [Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. ](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shuts-down-the-state-government-of-new-jersey.md)
-_Context: Chris Christie, Politics of New Jersey, budget crisis, New Jersey_
+_Context: Chris Christie, budget crisis, Politics of New Jersey, New Jersey_
 
 ##### Politics of Vatican City
 ### [Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. ](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard-ludwig-ma1-4ller.md)
@@ -57,7 +57,7 @@ Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead th
 
 ##### Philip Greaves
 ### [Philip Greaves is sworn in as acting Governor-General of Barbados following the retirement of Sir Elliott Belgrave. ](/news/2017/07/1/philip-greaves-is-sworn-in-as-acting-governor-general-of-barbados-following-the-retirement-of-sir-elliott-belgrave.md)
-_Context: Philip Greaves, Elliott Belgrave, Governor-General of Barbados_
+_Context: Philip Greaves, Governor-General of Barbados, Elliott Belgrave_
 
 ## [Previous Day...](/news/2017/06/30/index.md)
 

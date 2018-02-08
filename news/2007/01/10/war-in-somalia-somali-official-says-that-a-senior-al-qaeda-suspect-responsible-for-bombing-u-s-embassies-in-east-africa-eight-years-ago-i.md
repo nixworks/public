@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/10/war-in-somalia-somali-official-says-that-a-seni
 
 ### [2007-01-10](/news/2007/01/10/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Somali official says that a senior al-Qaeda suspect responsible for bombing U.S. embassies in East Africa eight years ago is possibly killed in a U.S. airstrike in the Battle of Ras Kamboni. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

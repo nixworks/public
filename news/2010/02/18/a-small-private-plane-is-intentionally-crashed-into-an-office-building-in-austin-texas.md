@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/18/a-small-private-plane-is-intentionally-crashed-
 
 ### [2010-02-18](/news/2010/02/18/index.md)
 
-##### crashed his plane in Austin, United States
+##### Crashed his plane in Austin, United States
 # A small private plane is intentionally crashed into an office building in Austin, Texas. 
 
 A pilot furious with the IRS crashed his small plane into an Austin, Texas, office building where nearly 200 federal tax employees work on Thursday, ignited a raging fire.

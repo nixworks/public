@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldi
 
 ### [2013-04-9](/news/2013/04/9/index.md)
 
-##### helicopter
+##### Helicopter
 # A helicopter crash kills two American NATO soldiers in eastern Afghanistan. 
 
 A helicopter crash in eastern Afghanistan killed two American members of the NATO-led force on Tuesday, spokesmen said.

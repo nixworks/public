@@ -5,13 +5,13 @@ Formats: [HTML](2014/01/22/index.html)  [JSON](2014/01/22/index.json)  [XML](201
 
 ##### United Front for Democracy Against Dictatorship
 ### [Kwanchai Praipana, a leader of the pro-government United Front for Democracy Against Dictatorship, is shot in the city of Udon Thani as protesters gather in Bangkok despite the declaration of a state of emergency. ](/news/2014/01/22/kwanchai-praipana-a-leader-of-the-pro-government-united-front-for-democracy-against-dictatorship-is-shot-in-the-city-of-udon-thani-as-prot.md)
-_Context: Udon Thani, state of emergency, Bangkok, United Front for Democracy Against Dictatorship_
+_Context: Bangkok, state of emergency, Udon Thani, United Front for Democracy Against Dictatorship_
 
 ##### Ukraine
 ### [Ukrainian security forces start dismantling protest camps in Kiev with two protesters feared dead after clashes with police. ](/news/2014/01/22/ukrainian-security-forces-start-dismantling-protest-camps-in-kiev-with-two-protesters-feared-dead-after-clashes-with-police.md)
 Ukrainian opposition leaders emerged from crisis talks with President Viktor Yanukovich on Wednesday saying he had failed to give concrete answers to their demands, and told their supporters on the streets to prepare for a police offensive.
 
-##### blue diamond
+##### Blue diamond
 ### [A blue diamond is found in Cullinan, Gauteng, South Africa. ](/news/2014/01/22/a-blue-diamond-is-found-in-cullinan-gauteng-south-africa.md)
 A 29.6-carat blue diamond is discovered in Cullinan mine in South Africa, which is famed for its production of the rare stones.
 

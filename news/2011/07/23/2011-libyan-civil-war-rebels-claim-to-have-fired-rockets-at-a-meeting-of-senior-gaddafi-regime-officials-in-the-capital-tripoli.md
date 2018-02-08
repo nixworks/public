@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/23/2011-libyan-civil-war-rebels-claim-to-have-fire
 
 ### [2011-07-23](/news/2011/07/23/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebels claim to have fired rockets at a meeting of senior Gaddafi-regime officials in the capital Tripoli. 
 
 

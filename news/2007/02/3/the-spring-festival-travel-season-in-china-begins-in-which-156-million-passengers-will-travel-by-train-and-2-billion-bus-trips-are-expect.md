@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/3/the-spring-festival-travel-season-in-china-begin
 
 ### [2007-02-3](/news/2007/02/3/index.md)
 
-##### stranded in train stations
+##### Stranded in train stations
 #  The Spring Festival travel season in China begins, in which 156 million passengers will travel by train, and 2 billion bus trips are expected. 
 
 

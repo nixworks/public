@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/20/at-least-26-people-are-killed-and-53-other-are-
 
 ### [2010-06-20](/news/2010/06/20/index.md)
 
-##### car bomb
+##### Car bomb
 # At least 26 people are killed and 53 other are injured during two car bombings in central Baghdad, Iraq. 
 
 At least 26 people are killed in a twin car bombing in Baghdad, officials say, amid speculation banks may be a new target.

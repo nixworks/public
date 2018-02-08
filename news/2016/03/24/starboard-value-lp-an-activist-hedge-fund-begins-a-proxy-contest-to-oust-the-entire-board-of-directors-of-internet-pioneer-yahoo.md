@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/24/starboard-value-lp-an-activist-hedge-fund-begin
 
 ### [2016-03-24](/news/2016/03/24/index.md)
 
-##### hedge fund
+##### Hedge fund
 # Starboard Value LP, an activist hedge fund, begins a proxy contest to oust the entire board of directors of internet pioneer Yahoo. 
 
 By Michael Flaherty and Supantha MukherjeeActivist hedge fund Starboard Value LP moved on Thursday to overthrow the entire board of Yahoo Inc YHOO.O,

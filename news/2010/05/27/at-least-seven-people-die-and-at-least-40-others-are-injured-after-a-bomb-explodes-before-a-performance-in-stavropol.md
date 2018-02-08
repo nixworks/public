@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/27/at-least-seven-people-die-and-at-least-40-other
 
 ### [2010-05-27](/news/2010/05/27/index.md)
 
-##### a bomb explodes
+##### A bomb explodes
 # At least seven people die and at least 40 others are injured after a bomb explodes before a performance in Stavropol. 
 
 The death toll in a bombing in the southern Russia city of Stavropol has risen to seven, Russian officials say.

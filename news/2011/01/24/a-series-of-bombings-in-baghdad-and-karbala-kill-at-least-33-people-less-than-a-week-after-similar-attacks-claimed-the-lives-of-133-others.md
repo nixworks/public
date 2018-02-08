@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/24/a-series-of-bombings-in-baghdad-and-karbala-kil
 
 ### [2011-01-24](/news/2011/01/24/index.md)
 
-##### series of bombings
+##### Series of bombings
 # A series of bombings in Baghdad and Karbala kill at least 33 people less than a week after similar attacks claimed the lives of 133 others. 
 
 Two separate bomb attacks targeting Shia pilgrims in the Iraqi city of Karbala have killed 25 people and injured almost 70, officials say.

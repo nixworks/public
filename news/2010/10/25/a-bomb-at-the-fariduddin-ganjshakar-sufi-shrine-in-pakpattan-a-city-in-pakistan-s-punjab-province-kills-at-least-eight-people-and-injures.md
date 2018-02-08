@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/25/a-bomb-at-the-fariduddin-ganjshakar-sufi-shrine
 
 ### [2010-10-25](/news/2010/10/25/index.md)
 
-##### bomb
+##### Bomb
 # A bomb at the Fariduddin Ganjshakar Sufi shrine in Pakpattan, a city in Pakistan's Punjab province, kills at least eight people and injures twenty. 
 
 

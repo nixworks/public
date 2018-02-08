@@ -3,7 +3,7 @@ Formats: [HTML](2012/01/29/index.html)  [JSON](2012/01/29/index.json)  [XML](201
 
 ## [2012-01-29](/news/2012/01/29/index.md)
 
-##### tear gas
+##### Tear gas
 ### [Police confront protesters with tear gas and stun grenades in the U.S. city of Oakland, California; more than 100 arrests are made. ](/news/2012/01/29/police-confront-protesters-with-tear-gas-and-stun-grenades-in-the-u-s-city-of-oakland-california-more-than-100-arrests-are-made.md)
 Police have arrested more than 100 protesters from the Occupy movement in the US city of Oakland.
 
@@ -13,11 +13,11 @@ Activists report tanks on the streets and clashes between Syrian soldiers and de
 
 ##### Sudan People's Liberation Movement - North
 ### [The Sudan People's Liberation Movement - North claims to have captured 29 Chinese workers and 9 members of the Sudan People's Armed Forces following a clash with government forces. ](/news/2012/01/29/the-sudan-people-s-liberation-movement-north-claims-to-have-captured-29-chinese-workers-and-9-members-of-the-sudan-people-s-armed-forces-f.md)
-_Context: Sudan People's Armed Forces, Chinese, Sudan People's Liberation Movement - North_
+_Context: Chinese, Sudan People's Liberation Movement - North, Sudan People's Armed Forces_
 
 ##### Nigeria
 ### [Gunmen attack a police station in the Nigerian city of Kano, with Boko Haram believed responsible. ](/news/2012/01/29/gunmen-attack-a-police-station-in-the-nigerian-city-of-kano-with-boko-haram-believed-responsible.md)
-_Context: Kano, Boko Haram, Nigeria_
+_Context: Boko Haram, Kano, Nigeria_
 
 ##### Happy Mondays
 ### [Happy Mondays, at the forefront of the Madchester scene, reform. ](/news/2012/01/29/happy-mondays-at-the-forefront-of-the-madchester-scene-reform.md)
@@ -25,7 +25,7 @@ Mancunian band Happy Mondays are to re-form for a two-week tour in May that will
 
 ##### 18th Screen Actors Guild Awards
 ### [The 18th Screen Actors Guild Awards is held in the US city of Los Angeles with Jean Dujardin winning the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role for his role in "The Artist". ](/news/2012/01/29/the-18th-screen-actors-guild-awards-is-held-in-the-us-city-of-los-angeles-with-jean-dujardin-winning-the-screen-actors-guild-award-for-outst.md)
-_Context: Jean Dujardin, The Artist, 18th Screen Actors Guild Awards, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role, Los Angeles, California_
+_Context: 18th Screen Actors Guild Awards, Los Angeles, California, The Artist, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role, Jean Dujardin_
 
 ##### Severe Tropical Cyclone Lua
 ### [Cyclone Iggy kills 14 people and injures 60 over a four day period in Indonesia. ](/news/2012/01/29/cyclone-iggy-kills-14-people-and-injures-60-over-a-four-day-period-in-indonesia.md)
@@ -33,7 +33,7 @@ _Context: Severe Tropical Cyclone Lua, Indonesia_
 
 ##### Interstate 75
 ### [At least 10 people die in an accident on the Interstate 75 south of the US city of Gainesville, Florida. ](/news/2012/01/29/at-least-10-people-die-in-an-accident-on-the-interstate-75-south-of-the-us-city-of-gainesville-florida.md)
-_Context: the state, Gainesville, Florida, Interstate 75_
+_Context: Gainesville, Florida, Interstate 75, the state_
 
 ##### Greece
 ### [Greece rejects outright German proposals for direct European Union control of the country's financial affairs, expressing opposition to further outside interference. ](/news/2012/01/29/greece-rejects-outright-german-proposals-for-direct-european-union-control-of-the-country-s-financial-affairs-expressing-opposition-to-furt.md)
@@ -45,11 +45,11 @@ UN Secretary General Ban Ki-moon urges African leaders to respect gay rights in 
 
 ##### Hamas
 ### [The exiled Hamas leader Khaled Meshaal and Abdullah II of Jordan meet in Khaled Meshaal's first trip to Jordan since his expulsion in 1999. ](/news/2012/01/29/the-exiled-hamas-leader-khaled-meshaal-and-abdullah-ii-of-jordan-meet-in-khaled-meshaal-s-first-trip-to-jordan-since-his-expulsion-in-1999.md)
-_Context: Khaled Meshaal, Abdullah II of Jordan, Hamas_
+_Context: Hamas, Abdullah II of Jordan, Khaled Meshaal_
 
 ##### IAEA
 ### [International Atomic Energy Agency (IAEA) inspectors begin a three-day visit to Iran. ](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.md)
-_Context: Iran, IAEA_
+_Context: IAEA, Iran_
 
 ##### Bangladesh
 ### [Bangladesh and India sign a deal to build a US$1.5 billion power plant. ](/news/2012/01/29/bangladesh-and-india-sign-a-deal-to-build-a-us-1-5-billion-power-plant.md)
@@ -57,27 +57,27 @@ _Context: Bangladesh, India_
 
 ##### Papua New Guinea
 ### [Former Papua New Guinea Army Colonel Yaura Sasa, who led a recent coup d'etat attempt to restore former Prime Minister Sir Michael Somare to power, is charged with mutiny. ](/news/2012/01/29/former-papua-new-guinea-army-colonel-yaura-sasa-who-led-a-recent-coup-d-a-c-tat-attempt-to-restore-former-prime-minister-sir-michael-somare-t.md)
-_Context: Papua New Guinea Defence Force, Papua New Guinea, Yaura Sasa, Colonel, Prime Minister, a mutiny, Michael Somare, mutinous soldiers_
+_Context: Papua New Guinea, mutinous soldiers, Papua New Guinea Defence Force, Colonel, Prime Minister, a mutiny, Yaura Sasa, Michael Somare_
 
 ##### Bangladeshi police
 ### [At least three people are killed and 100 injured in clashes between Bangladeshi police and members of the opposition Bangladesh Nationalist Party protesting against the government. ](/news/2012/01/29/at-least-three-people-are-killed-and-100-injured-in-clashes-between-bangladeshi-police-and-members-of-the-opposition-bangladesh-nationalist.md)
-_Context: Bangladeshi police, Bangladesh Nationalist Party_
+_Context: Bangladesh Nationalist Party, Bangladeshi police_
 
 ##### Shafia family deaths
 ### [Three members of the Shafia family are convicted of murder in relation to the Shafia family deaths in the Canadian city of Kingston, Ontario. ](/news/2012/01/29/three-members-of-the-shafia-family-are-convicted-of-murder-in-relation-to-the-shafia-family-deaths-in-the-canadian-city-of-kingston-ontario.md)
-_Context: Kingston, Ontario, Shafia family deaths, Canadian_
+_Context: Canadian, Ontario, Kingston, Shafia family deaths_
 
 ##### Burma
 ### [Large crowds greet Burmese opposition leader Aung San Suu Kyi as she begins a campaign for 1 April by-elections. ](/news/2012/01/29/large-crowds-greet-burmese-opposition-leader-aung-san-suu-kyi-as-she-begins-a-campaign-for-1-april-by-elections.md)
-_Context: Aung San Suu Kyi, Burma_
+_Context: Burma, Aung San Suu Kyi_
 
 ##### Egypt
 ### [Voters in Egypt start voting in an election for the Shura Council (upper house), with Islamist parties seeking to consolidate their position. ](/news/2012/01/29/voters-in-egypt-start-voting-in-an-election-for-the-shura-council-upper-house-with-islamist-parties-seeking-to-consolidate-their-position.md)
-_Context: Shura Council, election, Islamist, Egypt_
+_Context: Egypt, Islamist, election, Shura Council_
 
 ##### President of Italy
 ### [Former President of Italy Oscar Luigi Scalfaro dies at the age of 93. ](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.md)
-_Context: President of Italy, Oscar Luigi Scalfaro_
+_Context: Oscar Luigi Scalfaro, President of Italy_
 
 ##### French President
 ### [The President of France Nicolas Sarkozy outlines an economic reform package increasing taxes and proposing a new tax on financial transactions. ](/news/2012/01/29/the-president-of-france-nicolas-sarkozy-outlines-an-economic-reform-package-increasing-taxes-and-proposing-a-new-tax-on-financial-transactio.md)

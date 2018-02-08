@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/19/same-sex-marriage-is-legalized-in-the-u-s-state
 
 ### [2013-12-19](/news/2013/12/19/index.md)
 
-##### same-sex couples
+##### Same-sex couples
 # Same-sex marriage is legalized in the U.S. state of New Mexico. 
 
 

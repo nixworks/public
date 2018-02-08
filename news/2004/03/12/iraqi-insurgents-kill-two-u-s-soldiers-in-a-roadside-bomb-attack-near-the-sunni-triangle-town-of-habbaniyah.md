@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/12/iraqi-insurgents-kill-two-u-s-soldiers-in-a-roa
 
 ### [2004-03-12](/news/2004/03/12/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Iraqi insurgents kill two U.S. soldiers in a roadside bomb attack near the Sunni Triangle town of Habbaniyah. 
 
 

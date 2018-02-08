@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/23/kuwait-and-jordan-provide-logistics-and-turkey-
 
 ### [2011-03-23](/news/2011/03/23/index.md)
 
-##### civil war
+##### Civil war
 # Kuwait and Jordan provide logistics, and Turkey adds five ships and a submarine to the military intervention in Libya. 
 
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

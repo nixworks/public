@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/20/conflict-in-iraq-tawhid-and-jihad-a-militant-gr
 
 ### [2004-09-20](/news/2004/09/20/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Eugene Armstrong. The group threatens to behead two additional hostages, American Jack Hensley and Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. 
 
 

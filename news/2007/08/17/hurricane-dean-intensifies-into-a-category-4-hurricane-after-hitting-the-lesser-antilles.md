@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/17/hurricane-dean-intensifies-into-a-category-4-hu
 
 ### [2007-08-17](/news/2007/08/17/index.md)
 
-##### hurricane
+##### Hurricane
 #  Hurricane Dean intensifies into a Category 4 hurricane after hitting the Lesser Antilles. 
 
 Hurricane Dean has intensified and developed into a category three hurricane, with winds reaching 200 kilometres per hour, the United States National Hurricane Centre has announced.

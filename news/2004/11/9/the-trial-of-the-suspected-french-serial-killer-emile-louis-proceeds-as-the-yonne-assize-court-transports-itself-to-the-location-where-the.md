@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/9/the-trial-of-the-suspected-french-serial-killer-
 
 ### [2004-11-9](/news/2004/11/9/index.md)
 
-##### serial killer
+##### Serial killer
 #  The trial of the suspected French serial killer mile Louis proceeds, as the Yonne assize court transports itself to the location where the bodies of two victims were found under Louis' indications.
 
 

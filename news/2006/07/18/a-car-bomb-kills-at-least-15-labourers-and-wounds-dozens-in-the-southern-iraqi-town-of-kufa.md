@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/18/a-car-bomb-kills-at-least-15-labourers-and-woun
 
 ### [2006-07-18](/news/2006/07/18/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb kills at least 15 labourers and wounds dozens in the southern Iraqi town of Kufa. 
 
 

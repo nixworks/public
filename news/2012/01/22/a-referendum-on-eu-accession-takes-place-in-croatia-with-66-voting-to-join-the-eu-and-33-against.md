@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/22/a-referendum-on-eu-accession-takes-place-in-cro
 
 ### [2012-01-22](/news/2012/01/22/index.md)
 
-##### referendum on EU accession
+##### Referendum on EU accession
 # A referendum on EU accession takes place in Croatia, with 66% voting to join the EU, and 33% against. 
 
 

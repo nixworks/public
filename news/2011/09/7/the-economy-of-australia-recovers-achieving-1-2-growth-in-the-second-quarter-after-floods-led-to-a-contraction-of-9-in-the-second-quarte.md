@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/7/the-economy-of-australia-recovers-achieving-1-2-
 
 ### [2011-09-7](/news/2011/09/7/index.md)
 
-##### economy of Australia
+##### Economy of Australia
 # The economy of Australia recovers, achieving 1.2% growth in the second quarter after floods led to a contraction of .9% in the second quarter. 
 
 

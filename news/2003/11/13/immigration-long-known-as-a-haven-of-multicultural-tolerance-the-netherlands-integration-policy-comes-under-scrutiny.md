@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/13/immigration-long-known-as-a-haven-of-multicultu
 
 ### [2003-11-13](/news/2003/11/13/index.md)
 
-##### migrants
+##### Migrants
 #  Immigration: Long known as a haven of multicultural tolerance, the Netherlands' integration policy comes under scrutiny.
 
 

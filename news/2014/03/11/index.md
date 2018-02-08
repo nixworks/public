@@ -5,17 +5,17 @@ Formats: [HTML](2014/03/11/index.html)  [JSON](2014/03/11/index.json)  [XML](201
 
 ##### Kabul
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Kabul, Swedish Radio, Afghanistan, Nils Horner_
+_Context: Nils Horner, Kabul, Swedish Radio, Afghanistan_
 
 ##### Maoist
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
-_Context: Chhattisgarh, Maoist, India_
+_Context: India, Maoist, Chhattisgarh_
 
 ##### Israel
 ### [In response to mortar fire, an Israeli airstrike in the Gaza Strip kills three suspected militants. ](/news/2014/03/11/in-response-to-mortar-fire-an-israeli-airstrike-in-the-gaza-strip-kills-three-suspected-militants.md)
 _Context: Gaza Strip, Israel_
 
-##### anti-government protests
+##### Anti-government protests
 ### [Protesters clash with police in Turkey after a 15-year-old boy died from a head injury sustained during anti-government protests. ](/news/2014/03/11/protesters-clash-with-police-in-turkey-after-a-15-year-old-boy-died-from-a-head-injury-sustained-during-anti-government-protests.md)
 Berkin Elvan has been in coma since June last year when he was hit by a teargas cartridge during anti-government protests in Istanbul
 
@@ -37,13 +37,13 @@ _Context: Men's Wearhouse, JoS. A. Bank Clothiers_
 
 ##### Chinese Coast Guard
 ### [Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly-group-of-islands.md)
-_Context: Spratly Islands, Chinese Coast Guard_
+_Context: Chinese Coast Guard, Spratly Islands_
 
 ##### 
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 ##### Caribbean
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: Caribbean, Netherlands, France, United Kingdom, Atlantic slave trade_
+_Context: Caribbean, France, Netherlands, United Kingdom, Atlantic slave trade_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/24/two-people-are-killed-and-28-injured-in-an-apar
 
 ### [2009-02-24](/news/2009/02/24/index.md)
 
-##### apartment-building
+##### Apartment-building
 #  Two people are killed and 28 injured in an apartment-building fire in New York City's Chinatown. 
 
 

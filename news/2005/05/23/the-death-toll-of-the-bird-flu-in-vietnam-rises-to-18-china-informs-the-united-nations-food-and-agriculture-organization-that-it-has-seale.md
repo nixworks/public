@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/23/the-death-toll-of-the-bird-flu-in-vietnam-rises
 
 ### [2005-05-23](/news/2005/05/23/index.md)
 
-##### avian influenza
+##### Avian influenza
 #  The death toll of the bird flu in Vietnam rises to 18. China informs the United Nations Food and Agriculture Organization that it has sealed off the Qinghai province to stop the spread of bird flu and vaccinated farmbirds. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/3/at-least-29-people-have-died-in-a-cholera-outbre
 
 ### [2015-07-3](/news/2015/07/3/index.md)
 
-##### cholera
+##### Cholera
 # At least 29 people have died in a cholera outbreak in South Sudan. 
 
 At least 29 people have died in a cholera outbreak in war-torn South Sudan with thousands more at risk of infection, the United Nations said Friday.

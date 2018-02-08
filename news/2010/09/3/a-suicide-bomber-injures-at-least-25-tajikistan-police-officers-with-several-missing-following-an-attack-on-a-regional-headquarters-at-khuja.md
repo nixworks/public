@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/3/a-suicide-bomber-injures-at-least-25-tajikistan-
 
 ### [2010-09-3](/news/2010/09/3/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber injures at least 25 Tajikistan police officers with several missing following an attack on a regional headquarters at Khujand. 
 
 

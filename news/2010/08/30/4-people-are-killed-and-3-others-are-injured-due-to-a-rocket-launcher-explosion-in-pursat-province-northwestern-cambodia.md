@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-du
 
 ### [2010-08-30](/news/2010/08/30/index.md)
 
-##### rocket launcher
+##### Rocket launcher
 # 4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. 
 
 

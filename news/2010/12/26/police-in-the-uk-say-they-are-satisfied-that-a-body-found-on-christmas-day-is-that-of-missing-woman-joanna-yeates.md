@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/26/police-in-the-uk-say-they-are-satisfied-that-a-
 
 ### [2010-12-26](/news/2010/12/26/index.md)
 
-##### killer of Joanna Yeates
+##### Killer of Joanna Yeates
 # Police in the UK say they are "satisfied" that a body found on Christmas Day is that of missing woman Joanna Yeates. 
 
 Officers investigating the disappearance of Bristol landscape architect Joanna Yeates say they &quot;are satisfied&quot; a body found on Christmas Day is hers.

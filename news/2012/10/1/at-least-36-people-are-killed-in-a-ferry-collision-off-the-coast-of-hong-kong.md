@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/1/at-least-36-people-are-killed-in-a-ferry-collisi
 
 ### [2012-10-1](/news/2012/10/1/index.md)
 
-##### a ferry collision
+##### A ferry collision
 # At least 36 people are killed in a ferry collision off the coast of Hong Kong. 
 
 

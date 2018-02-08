@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/22/up-to-100-asylum-seekers-many-from-iran-riot-ag
 
 ### [2011-07-22](/news/2011/07/22/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # Up to 100 asylum seekers, many from Iran, riot again at Australia's Christmas Island Immigration Reception and Processing Centre. 
 
 The Immigration Department says up to 100 people armed with makeshift weapons may have been involved in the latest riot at the Christmas Island Detention Centre overnight.

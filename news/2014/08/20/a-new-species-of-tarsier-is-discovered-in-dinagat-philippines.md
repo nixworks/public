@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/20/a-new-species-of-tarsier-is-discovered-in-dinag
 
 ### [2014-08-20](/news/2014/08/20/index.md)
 
-##### tarsier
+##### Tarsier
 # A new species of tarsier is discovered in Dinagat, Philippines. 
 
 

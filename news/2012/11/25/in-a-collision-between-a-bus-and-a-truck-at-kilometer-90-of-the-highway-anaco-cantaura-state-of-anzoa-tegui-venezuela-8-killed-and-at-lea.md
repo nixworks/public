@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/25/in-a-collision-between-a-bus-and-a-truck-at-kil
 
 ### [2012-11-25](/news/2012/11/25/index.md)
 
-##### collision
+##### Collision
 # In a collision between a bus and a truck at kilometer 90 of the highway Anaco-Cantaura, state of Anzoategui, Venezuela, 8 killed and at least 25 injured. 
 
 

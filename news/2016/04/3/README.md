@@ -9,7 +9,7 @@ Azerbaijan announces a &quot;unilateral ceasefire&quot; in fighting with Armenia
 
 ##### Syrian Civil War
 ### [The Syrian Army retakes control of al-Qaryatayn, Homs Governorate, after driving out ISIL militants. ](/news/2016/04/3/the-syrian-army-retakes-control-of-al-qaryatayn-homs-governorate-after-driving-out-isil-militants.md)
-_Context: ISIL, Syrian Civil War, Syrian Army, al-Qaryatayn, Homs Governorate, Battle of al-Qaryatayn (March-April 2016)_
+_Context: Syrian Army, al-Qaryatayn, Homs Governorate, Battle of al-Qaryatayn (March-April 2016), ISIL, Syrian Civil War_
 
 ##### Moro attacks on Sabah
 ### [Four Sarawakian Malaysians are kidnapped off the coast of Sabah by suspected members of the Abu Sayyaf, a group linked to the Islamic State of Iraq and the Levant. ](/news/2016/04/3/four-sarawakian-malaysians-are-kidnapped-off-the-coast-of-sabah-by-suspected-members-of-the-abu-sayyaf-a-group-linked-to-the-islamic-state.md)
@@ -39,7 +39,7 @@ U.S. hospitals should brace for a surge in &quot;ransomware&quot; attacks by cyb
 ### [At least 45 people are killed and another 34 hospitalized following heavy rains and flash floods in the northwestern Pakistani province of Khyber Pakhtunkhwa. ](/news/2016/04/3/at-least-45-people-are-killed-and-another-34-hospitalized-following-heavy-rains-and-flash-floods-in-the-northwestern-pakistani-province-of-k.md)
 Several homes, standing crops and orchards also destroyed across the province.
 
-##### earthquake
+##### Earthquake
 ### [A 6.9 magnitude earthquake occurs off the coast of Vanuatu with a tsunami warning issued. ](/news/2016/04/3/a-6-9-magnitude-earthquake-occurs-off-the-coast-of-vanuatu-with-a-tsunami-warning-issued.md)
 _Context: Vanuatu, earthquake_
 
@@ -61,7 +61,7 @@ ATHENS, Greece (AP) — An agreement between the European Union and Turkey to de
 
 ##### Japan-Philippines relations
 ### [A Japanese Navy submarine makes a port call in the Philippines, the first in fifteen years, in a show of growing military cooperation amid tension triggered by China's growing assertiveness in the South China Sea. It was escorted into the former U.S. Naval Base at Subic Bay by two Japanese destroyers on a tour of Southeast Asia. ](/news/2016/04/3/a-japanese-navy-submarine-makes-a-port-call-in-the-philippines-the-first-in-fifteen-years-in-a-show-of-growing-military-cooperation-amid-t.md)
-_Context: Japan-Philippines relations, South China Sea, Subic Bay, China, former U.S. Naval Base, Japanese Navy, Philippines_
+_Context: former U.S. Naval Base, Japan-Philippines relations, South China Sea, Subic Bay, Japanese Navy, Philippines, China_
 
 ##### Guillaume Pepy
 ### [Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. ](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company-president-announces-armed-train-marshals-in-civilian-dress-will-be-patrolling-some-pass.md)

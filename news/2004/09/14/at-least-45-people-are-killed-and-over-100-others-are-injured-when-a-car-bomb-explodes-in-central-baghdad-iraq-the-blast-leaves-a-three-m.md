@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/14/at-least-45-people-are-killed-and-over-100-othe
 
 ### [2004-09-14](/news/2004/09/14/index.md)
 
-##### car bomb
+##### Car bomb
 #  At least 45 people are killed and over 100 others are injured when a car bomb explodes in central Baghdad, Iraq. The blast leaves a three-meter (10&nbsp;ft) crater in the road in a busy shopping area; many of the dead are Iraqi job-seekers who were queuing up outside a nearby police station. 
 
 

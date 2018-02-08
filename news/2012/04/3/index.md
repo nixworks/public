@@ -17,11 +17,11 @@ Malians scramble to stockpile fuel and other items as post-coup embargo by West 
 
 ##### James
 ### [James Murdoch resigns as Chairman of BSkyB in the wake of the News International phone hacking scandal. ](/news/2012/04/3/james-murdoch-resigns-as-chairman-of-bskyb-in-the-wake-of-the-news-international-phone-hacking-scandal.md)
-_Context: conspiracy to hack mobile phones, James, BSkyB_
+_Context: BSkyB, James, conspiracy to hack mobile phones_
 
 ##### Tropical Depression 17F and Tropical Cyclone Daphne
 ### [Severe floods caused by recent storms associated with Tropical Depression 17F and Tropical Cyclone Daphne kill at least five people in Fiji and leave 8,000 people in evacuation centres. ](/news/2012/04/3/severe-floods-caused-by-recent-storms-associated-with-tropical-depression-17f-and-tropical-cyclone-daphne-kill-at-least-five-people-in-fiji.md)
-_Context: Tropical Depression 17F and Tropical Cyclone Daphne, Fiji_
+_Context: Fiji, Tropical Depression 17F and Tropical Cyclone Daphne_
 
 ##### Moscow
 ### [A fire in a Moscow market kills 17 migrant workers. ](/news/2012/04/3/a-fire-in-a-moscow-market-kills-17-migrant-workers.md)
@@ -37,11 +37,11 @@ Tajikistan accuses Uzbekistan, of imposing a blockade which it says could destab
 
 ##### Qatar
 ### [Qatar rejects Iraq's demand to hand over fugitive Vice President Tariq Al-Hashemi. ](/news/2012/04/3/qatar-rejects-iraq-s-demand-to-hand-over-fugitive-vice-president-tariq-al-hashemi.md)
-_Context: Tariq Al-Hashemi, Qatar, Iraq_
+_Context: Iraq, Qatar, Tariq Al-Hashemi_
 
 ##### ASEAN
 ### [The latest ASEAN summit begins in the Cambodian capital Phnom Penh. ](/news/2012/04/3/the-latest-asean-summit-begins-in-the-cambodian-capital-phnom-penh.md)
-_Context: Phnom Penh, Cambodia, ASEAN_
+_Context: ASEAN, Phnom Penh, Cambodia_
 
 ##### China
 ### [A Chinese businessman with links to ousted Communist party official Bo Xilai is detained. ](/news/2012/04/3/a-chinese-businessman-with-links-to-ousted-communist-party-official-bo-xilai-is-detained.md)
@@ -53,11 +53,11 @@ RT&Eacute;&rsquo;s head of current affairs Ed Mulhall has retired and the editor
 
 ##### Oikos University shooting
 ### [A memorial service is held for the seven victims of the Oikos University shooting in the US city of Oakland, California. ](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.md)
-_Context: California, Oikos University shooting, Oakland, California_
+_Context: Oikos University shooting, California, Oakland, California_
 
 ##### New York Police Department
 ### [The New York Police Department orders an investigation into the death of French academic Richard Descoings who was found nude in his hotel room. ](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.md)
-_Context: New York Police Department, Richard Descoings, French-born_
+_Context: French-born, Richard Descoings, New York Police Department_
 
 ##### Maryland
 ### [Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-republican-primaries-with-mitt-romney-proj.md)

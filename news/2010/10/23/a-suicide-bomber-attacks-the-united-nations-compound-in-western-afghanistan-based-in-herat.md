@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/23/a-suicide-bomber-attacks-the-united-nations-com
 
 ### [2010-10-23](/news/2010/10/23/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber attacks the United Nations compound in western Afghanistan based in Herat. 
 
 

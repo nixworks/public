@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/11/a-day-of-mourning-is-held-in-spain-to-mark-the-
 
 ### [2005-03-11](/news/2005/03/11/index.md)
 
-##### mourning
+##### Mourning
 #  A day of mourning is held in Spain to mark the first anniversary of the 11 March 2004 Madrid attacks. At noon, King Juan Carlos I and Queen Sofa inaugurate the Forest of the Departed ("Bosque de los Ausentes"), a memorial park in Madrid where an olive or cypress tree has been planted for each victim of the tragedy. 
 
 

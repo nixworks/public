@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-r
 
 ### [2009-02-1](/news/2009/02/1/index.md)
 
-##### cafe
+##### Cafe
 #  Four people are killed in a cafe shooting in Russia's Dagestan Republic. 
 
 

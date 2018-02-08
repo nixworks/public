@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/19/a-man-is-arrested-over-a-series-of-letterbomb-a
 
 ### [2007-02-19](/news/2007/02/19/index.md)
 
-##### letterbomb
+##### Letterbomb
 #  A man is arrested over a series of letterbomb attacks that occurred in Britain during the past few weeks. 
 
 

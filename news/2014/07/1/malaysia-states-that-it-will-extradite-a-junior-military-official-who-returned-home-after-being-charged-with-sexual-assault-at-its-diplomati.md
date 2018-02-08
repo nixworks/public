@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/1/malaysia-states-that-it-will-extradite-a-junior-
 
 ### [2014-07-1](/news/2014/07/1/index.md)
 
-##### sexual assault
+##### Sexual assault
 # Malaysia states that it will extradite a junior military official who returned home after being charged with sexual assault at its diplomatic mission in New Zealand. 
 
 

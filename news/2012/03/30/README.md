@@ -9,11 +9,11 @@ Syria says the year-old revolt to topple President Bashar al-Assad is over, but 
 
 ##### United States
 ### [A United States drone attack kills two alleged militants in the Pakistani town of Miran Shah in North Waziristan. ](/news/2012/03/30/a-united-states-drone-attack-kills-two-alleged-militants-in-the-pakistani-town-of-miran-shah-in-north-waziristan.md)
-_Context: Miran Shah, drones launch, United States, North Waziristan_
+_Context: North Waziristan, drones launch, United States, Miran Shah_
 
 ##### Zain-ul-Abdeen
 ### [Gunmen kill Zain-ul-Abdeen, a leader of the ethnic Pashtun Awami National Party, in Karachi. ](/news/2012/03/30/gunmen-kill-zain-ul-abdeen-a-leader-of-the-ethnic-pashtun-awami-national-party-in-karachi.md)
-_Context: Pashtun, Zain-ul-Abdeen, Awami National Party, Karachi_
+_Context: Pashtun, Karachi, Awami National Party, Zain-ul-Abdeen_
 
 ##### Erez crossing
 ### [A 20-year-old Palestinian is killed and 13 others are wounded by IDF gunfire as they try to breach the Gaza border fence in order to infiltrate into Israel near the Erez crossing.](/news/2012/03/30/a-20-year-old-palestinian-is-killed-and-13-others-are-wounded-by-idf-gunfire-as-they-try-to-breach-the-gaza-border-fence-in-order-to-infiltr.md)
@@ -25,7 +25,7 @@ Amnesty International has demanded the jailed Bahraini human rights activist, Ab
 
 ##### Australia
 ### [Australian artist Tim Storrier wins the 2012 Archibald Prize for a self-portrait "The historic wayfarer (after Bosch)". ](/news/2012/03/30/australian-artist-tim-storrier-wins-the-2012-archibald-prize-for-a-self-portrait-the-historic-wayfarer-after-bosch.md)
-_Context: Archibald Prize, Tim Storrier, Australia_
+_Context: Tim Storrier, Archibald Prize, Australia_
 
 ##### 
 ### [The Spanish government cuts 27 billion euros from the country's budget as part of one of the toughest austerity drives in its history. ](/news/2012/03/30/the-spanish-government-cuts-27-billion-euros-from-the-country-s-budget-as-part-of-one-of-the-toughest-austerity-drives-in-its-history.md)
@@ -33,7 +33,7 @@ Spain cuts 27bn euros ($36bn; £22.5bn) from its budget this year and freezes pu
 
 ##### VISA
 ### [VISA and MasterCard warn banks across the United States about a "massive" breach of security with more than ten million credit card numbers potentially compromised. ](/news/2012/03/30/visa-and-mastercard-warn-banks-across-the-united-states-about-a-massive-breach-of-security-with-more-than-ten-million-credit-card-numbers.md)
-_Context: VISA, credit card, MasterCard, United States_
+_Context: VISA, MasterCard, credit card, United States_
 
 ##### Mega Millions
 ### [The Mega Millions jackpot in the United States is up to $640 million, becoming the world's largest lottery jackpot. ](/news/2012/03/30/the-mega-millions-jackpot-in-the-united-states-is-up-to-640-million-becoming-the-world-s-largest-lottery-jackpot.md)
@@ -41,11 +41,11 @@ World-record prize increases by $100 million hours before much-anticipated late-
 
 ##### Huanglongbing
 ### [Huanglongbing or citrus greening, a disease which has killed millions of citrus trees in Brazil and Florida, is discovered in a residential section of Los Angeles County, California, in the United States. ](/news/2012/03/30/huanglongbing-or-citrus-greening-a-disease-which-has-killed-millions-of-citrus-trees-in-brazil-and-florida-is-discovered-in-a-residential.md)
-_Context: citrus, Brazil, United States, Los Angeles County, California, the state, Huanglongbing_
+_Context: the state, Brazil, citrus, Huanglongbing, United States, Los Angeles County, California_
 
 ##### Malaysia
 ### [Malaysia expels 173 Indonesian workers for various legal violations. ](/news/2012/03/30/malaysia-expels-173-indonesian-workers-for-various-legal-violations.md)
-_Context: Indonesian, Malaysia_
+_Context: Malaysia, Indonesian_
 
 ##### Metropolitan Police
 ### [London's Metropolitan Police is embroiled in a racism scandal after a black man used his mobile phone to record police officers subjecting him to a tirade of abuse in which he was told: "The problem with you is you will always be a nigger". ](/news/2012/03/30/london-s-metropolitan-police-is-embroiled-in-a-racism-scandal-after-a-black-man-used-his-mobile-phone-to-record-police-officers-subjecting-h.md)
@@ -75,7 +75,7 @@ Tokyo deploys missile defence systems and says it will intercept North Korean ro
 
 ##### Bradford West by-election
 ### [Bradford West by-election: Respect Party candidate George Galloway tours the City of Bradford on an open-top bus in celebration of his shock victory over Labour, a result which has been described as the "Bradford Spring". ](/news/2012/03/30/bradford-west-by-election-respect-party-candidate-george-galloway-tours-the-city-of-bradford-on-an-open-top-bus-in-celebration-of-his-shock.md)
-_Context: Bradford West by-election, City of Bradford, Arab Spring, Respect, Labour Party, George Galloway_
+_Context: Respect, George Galloway, Bradford West by-election, City of Bradford, Labour Party, Arab Spring_
 
 ## [Previous Day...](/news/2012/03/29/index.md)
 

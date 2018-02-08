@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/4/a-tsunami-warning-was-issued-for-fiji-and-new-ze
 
 ### [2006-05-4](/news/2006/05/4/index.md)
 
-##### warnings
+##### Warnings
 #  A tsunami warning was issued for Fiji and New Zealand following a magnitude 7.9 earthquake in Tonga which occurred at 15:26 UTC (04:26 May 4, local time). The warning was canceled when it was found that the earthquake did not produce a tsunami. 
 
 

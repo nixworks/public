@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-th
 
 ### [2012-09-3](/news/2012/09/3/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. 
 
 Police say a bomber killed two people and himself when he hit a US consulate vehicle in Peshawar, Pakistan, but the US says no Americans died.

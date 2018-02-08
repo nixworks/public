@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/3/a-suicide-bomber-kills-four-civilians-and-a-poli
 
 ### [2012-01-3](/news/2012/01/3/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills four civilians and a police officer in the Afghan city of Kandahar. 
 
 At least 12 people, including several children, have died in a series of bomb attacks in the south of Afghanistan, officials say.

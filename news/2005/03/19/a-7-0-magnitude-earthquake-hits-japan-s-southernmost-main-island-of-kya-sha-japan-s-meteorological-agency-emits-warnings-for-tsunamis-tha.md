@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-souther
 
 ### [2005-03-19](/news/2005/03/19/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.0 magnitude earthquake hits Japan's southernmost main island of Kyushu. Japan's Meteorological Agency emits warnings for tsunamis that could hit areas including the coast of Kyushu. 
 
 

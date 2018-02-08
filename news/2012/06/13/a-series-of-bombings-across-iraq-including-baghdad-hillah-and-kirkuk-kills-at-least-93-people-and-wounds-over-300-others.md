@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/13/a-series-of-bombings-across-iraq-including-bagh
 
 ### [2012-06-13](/news/2012/06/13/index.md)
 
-##### series of bombings
+##### Series of bombings
 # A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others. 
 
 At least 93 people killed across the country, many of them Shia pilgrims gathered in Baghdad for a religious event.

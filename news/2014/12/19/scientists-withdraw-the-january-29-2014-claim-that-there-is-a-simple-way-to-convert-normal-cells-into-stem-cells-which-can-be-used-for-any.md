@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/19/scientists-withdraw-the-january-29-2014-claim-t
 
 ### [2014-12-19](/news/2014/12/19/index.md)
 
-##### convert normal cells
+##### Convert normal cells
 # Scientists withdraw the January 29, 2014 claim that there is a simple way to convert normal cells into stem cells, which can be used for any part of the body. Nature had in July retracted its two previous articles after the disgraced lead researcher, Japanese Haruko Obokata, was found to have plagiarized and fabricated parts of the papers. 
 
 A disgraced Japanese researcher has failed to replicate results hailed as a potential breakthrough in stem-cell treatment and efforts to do so will be abandoned, officials at her research institute said on Friday.

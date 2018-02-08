@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast
 
 ### [2011-08-19](/news/2011/08/19/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.8 magnitude earthquake occurs off the coast of Japan with a tsunami warning issued and then retracted. 
 
 A strong earthquake with a preliminary magnitude of 6.8 jolted northeastern Japan off Fukushima prefecture on Friday, the Japan Meteorological Agency said, although no damage was reported and a tsunami advisory for the area was lifted after no waves were sighted.

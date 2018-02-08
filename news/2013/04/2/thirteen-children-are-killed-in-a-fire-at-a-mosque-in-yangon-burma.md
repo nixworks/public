@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/thirteen-children-are-killed-in-a-fire-at-a-mosq
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### mosque
+##### Mosque
 # Thirteen children are killed in a fire at a mosque in Yangon, Burma. 
 
 The police in Myanmar said Tuesday that 13 children died when an electrical fire broke out at a mosque in Yangon, the country’s largest city.

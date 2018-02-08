@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/7/the-government-of-haiti-issues-a-new-passport-to
 
 ### [2011-02-7](/news/2011/02/7/index.md)
 
-##### government of Haiti
+##### Government of Haiti
 # The government of Haiti issues a new passport to former President of Haiti Jean-Bertrand Aristide allowing him to end his exile in South Africa. 
 
 

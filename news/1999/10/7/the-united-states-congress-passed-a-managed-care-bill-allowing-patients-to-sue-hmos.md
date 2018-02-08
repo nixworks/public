@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/10/7/the-united-states-congress-passed-a-managed-care
 
 ### [1999-10-7](/news/1999/10/7/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress passed a managed care bill allowing patients to sue HMOs.
 
 

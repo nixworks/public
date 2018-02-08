@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/16/the-runoff-election-for-the-2008-presidential-e
 
 ### [2008-05-16](/news/2008/05/16/index.md)
 
-##### runoff election
+##### Runoff election
 #  The runoff election for the 2008 presidential election between the President of Zimbabwe Robert Mugabe and Morgan Tsvangirai of the Movement for Democratic Change is set for June 27. 
 
 

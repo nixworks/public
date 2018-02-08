@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/11/us-baseball-six-houston-astros-pitchers-combine
 
 ### [2003-06-11](/news/2003/06/11/index.md)
 
-##### baseball
+##### Baseball
 #  US baseball: Six Houston Astros pitchers combine to pitch a no-hitter against the New York Yankees. The game sets several records, including the most pitchers to combine for a no-hitter in Major League Baseball history, and a record for the Yankees for the most sequential games without being no-hit.
 
 

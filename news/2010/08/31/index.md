@@ -7,7 +7,7 @@ Formats: [HTML](2010/08/31/index.html)  [JSON](2010/08/31/index.json)  [XML](201
 ### [A roadside bomb and mortar attack in the Somali capital Mogadishu kill at least 14 people and injure several others. ](/news/2010/08/31/a-roadside-bomb-and-mortar-attack-in-the-somali-capital-mogadishu-kill-at-least-14-people-and-injure-several-others.md)
 Roadside bomb blast and mortar attack in capital Mogadishu, kills at least 14 people and injures several more.
 
-##### firebomb
+##### Firebomb
 ### [8 people are killed in a petrol bomb attack at a bar in Cancn, Mexico. ](/news/2010/08/31/8-people-are-killed-in-a-petrol-bomb-attack-at-a-bar-in-cancun-mexico.md)
 Six women and two men have been killed in an attack on a bar in the Mexican resort city of Cancun, officials say.
 
@@ -15,9 +15,9 @@ Six women and two men have been killed in an attack on a bar in the Mexican reso
 ### [4 Israelis are shot to death in an attack in the West Bank next to Kiryat Arba. ](/news/2010/08/31/4-israelis-are-shot-to-death-in-an-attack-in-the-west-bank-next-to-kiryat-arba.md)
 Murderous terror attack on eve of peace talks: Four Israelis killed in West Bank shooting attack Tuesday evening; pregnant woman apparently among victims, officials say. Security forces nationwide ordered to go on high alert 
 
-##### bomb
+##### Bomb
 ### [A roadside bomb kills 4 United States troops in eastern Afghanistan. ](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in-eastern-afghanistan.md)
-_Context: bomb, Afghanistan, United States, United States armed forces_
+_Context: United States, United States armed forces, bomb, Afghanistan_
 
 ##### Bangkok
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
@@ -25,7 +25,7 @@ _Context: Thailand, Bangkok_
 
 ##### Russia
 ### [3 Russian aircrew kidnapped in Sudan's Darfur region are released. ](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.md)
-_Context: Sudan, Darfur, Russia_
+_Context: Darfur, Sudan, Russia_
 
 ##### Sudan People's Liberation Army
 ### [The Sudan People's Liberation Army pledges to demobilise all of its child soldiers by the end of the year. ](/news/2010/08/31/the-sudan-people-s-liberation-army-pledges-to-demobilise-all-of-its-child-soldiers-by-the-end-of-the-year.md)
@@ -35,7 +35,7 @@ The army in south Sudan pledges to demobilise all child soldiers by the end of t
 ### [Hewlett-Packard (HP), the world's largest computer maker based in the U.S. state of California, pays US$55 million amid allegations it defrauded the United States government. ](/news/2010/08/31/hewlett-packard-hp-the-world-s-largest-computer-maker-based-in-the-u-s-state-of-california-pays-us-55-million-amid-allegations-it-defra.md)
 Hewlett-Packard has agreed to pay $US55 million ($A61 million) to settle claims the US computer giant defrauded the US government, the Justice Department announced on Monday.
 
-##### devastating floods
+##### Devastating floods
 ### [Floodwaters continue to wreak havoc in Pakistan, affecting areas near Larkana. ](/news/2010/08/31/floodwaters-continue-to-wreak-havoc-in-pakistan-affecting-areas-near-larkana.md)
 _Context: Larkana, devastating floods, Pakistan_
 
@@ -53,7 +53,7 @@ An unknown assailant threw two fire bombs at the Russian embassy in Minsk late o
 
 ##### Iran
 ### [Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. ](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.md)
-_Context: adultery, Iran, Carla Bruni, Sakineh Mohammadi Ashtiani, France, stoning_
+_Context: adultery, France, Carla Bruni, Iran, Sakineh Mohammadi Ashtiani, stoning_
 
 ##### Roj TV
 ### [The Danish-based Kurdish TV station Roj TV faces terror charges for supporting PKK. ](/news/2010/08/31/the-danish-based-kurdish-tv-station-roj-tv-faces-terror-charges-for-supporting-pkk.md)

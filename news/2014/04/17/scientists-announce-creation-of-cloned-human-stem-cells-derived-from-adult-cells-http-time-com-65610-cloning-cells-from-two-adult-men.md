@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/17/scientists-announce-creation-of-cloned-human-st
 
 ### [2014-04-17](/news/2014/04/17/index.md)
 
-##### cloned human
+##### Cloned human
 # Scientists announce creation of cloned human stem cells derived from adult cells. ([http:--time.com-65610-cloning-cells-from-two-adult-men- "TIME"])
 
 

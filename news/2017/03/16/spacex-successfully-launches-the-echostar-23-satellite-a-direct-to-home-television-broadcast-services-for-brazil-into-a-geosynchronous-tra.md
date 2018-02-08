@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-sa
 
 ### [2017-03-16](/news/2017/03/16/index.md)
 
-##### launches
+##### Launches
 # SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. 
 
 

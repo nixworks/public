@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/2/the-u-s-plans-to-shift-3-600-soldiers-to-iraq-fr
 
 ### [2004-08-2](/news/2004/08/2/index.md)
 
-##### soldier
+##### Soldier
 #  The U.S. plans to shift 3,600 soldiers to Iraq from South Korea. 
 
 

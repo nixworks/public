@@ -11,7 +11,7 @@ _Context: Damascus_
 ### [US sends 300 military advisers to Iraq as battle rages in Baiji over the country's biggest oil refinery. ](/news/2014/06/20/us-sends-300-military-advisers-to-iraq-as-battle-rages-in-baiji-over-the-country-s-biggest-oil-refinery.md)
 _Context: Baiji_
 
-##### flash flooding
+##### Flash flooding
 ### [At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. ](/news/2014/06/20/at-least-11-people-are-killed-and-an-unknown-number-missing-after-torrential-rains-cause-flash-flooding-in-northeastern-bulgaria.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -19,9 +19,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [A court in Egypt confirms the death sentences of over 180 Islamists, including Mohamed Badie, the top leader of the Muslim Brotherhood. ](/news/2014/06/20/a-court-in-egypt-confirms-the-death-sentences-of-over-180-islamists-including-mohamed-badie-the-top-leader-of-the-muslim-brotherhood.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### senators
+##### Senators
 ### [Philippine Senator Bong Revilla surrenders to the Sandiganbayan after the court issued a warrant for his arrest in relation to the PDAF scam. ](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-the-sandiganbayan-after-the-court-issued-a-warrant-for-his-arrest-in-relation-to-the-pdaf-scam.md)
-_Context: senators, PDAF scam, Bong Revilla, Sandiganbayan_
+_Context: senators, Sandiganbayan, PDAF scam, Bong Revilla_
 
 ##### Five Star Movement
 ### [Italy's Five Star Movement joins the eurosceptic political group Europe of Freedom and Democracy in the European Parliament, a group otherwise dominated by the United Kingdom Independence Party. ](/news/2014/06/20/italy-s-five-star-movement-joins-the-eurosceptic-political-group-europe-of-freedom-and-democracy-in-the-european-parliament-a-group-otherwi.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/25/china-amends-its-environmental-protection-laws-
 
 ### [2014-04-25](/news/2014/04/25/index.md)
 
-##### environmental protection laws
+##### Environmental protection laws
 # China amends its environmental protection laws to help fight pollution and reverse environmental damage in the country. 
 
 

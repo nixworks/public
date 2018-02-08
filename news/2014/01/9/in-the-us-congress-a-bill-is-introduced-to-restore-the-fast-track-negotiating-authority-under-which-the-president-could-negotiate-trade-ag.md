@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/9/in-the-us-congress-a-bill-is-introduced-to-resto
 
 ### [2014-01-9](/news/2014/01/9/index.md)
 
-##### fast track
+##### Fast track
 # In the US Congress, a bill is introduced to restore the fast track negotiating authority, under which the president could negotiate trade agreements that Congress could not amend, but could only vote "yes" or "no" on. The bill's sponsors mentioned talks with the EU as well as the Trans-Pacific Partnership negotiations. 
 
 U.S. lawmakers on Thursday proposed a bill to give the White House power to fast-track international trade agreements as the United States gears up for a hectic year of trade negotiations.

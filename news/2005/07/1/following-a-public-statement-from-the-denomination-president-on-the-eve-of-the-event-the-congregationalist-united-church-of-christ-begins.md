@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/1/following-a-public-statement-from-the-denominati
 
 ### [2005-07-1](/news/2005/07/1/index.md)
 
-##### denomination
+##### Denomination
 #  Following a public statement from the denomination president on the eve of the event, the Congregationalist United Church of Christ begins their 5-day General Synod 25 in Atlanta, Georgia to debate a number of controversial resolutions, including same-sex marriage. Some are concerned about denominational schism. 
 
 The United Church of Christ - famous for setting precedent - considers backing same-sex marriage at its national synod.

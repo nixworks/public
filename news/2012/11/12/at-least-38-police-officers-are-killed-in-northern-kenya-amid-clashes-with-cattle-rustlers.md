@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/12/at-least-38-police-officers-are-killed-in-north
 
 ### [2012-11-12](/news/2012/11/12/index.md)
 
-##### are killed
+##### Are killed
 # At least 38 police officers are killed in northern Kenya amid clashes with cattle rustlers. 
 
 

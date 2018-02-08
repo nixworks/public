@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/31/one-hundred-to-over-120-people-are-reported-kil
 
 ### [2007-12-31](/news/2007/12/31/index.md)
 
-##### rioting
+##### Rioting
 #  One hundred to over 120 people are reported killed in rioting following the disputed result of the presidential election in Kenya. 
 
 

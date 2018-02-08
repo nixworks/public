@@ -27,13 +27,13 @@ _Context: Michaels_
 ### [The death toll of the accident rises to 28. ](/news/2014/04/18/the-death-toll-of-the-accident-rises-to-28.md)
  Braving rain, high waves and strong winds, rescuers resumed their desperate search Friday for hundreds of people still missing in the sinking of a passenger ship off the southwestern coast of South Korea.
 
-##### are killed
+##### Are killed
 ### [12 people are killed in an avalanche on Mount Everest. ](/news/2014/04/18/12-people-are-killed-in-an-avalanche-on-mount-everest.md)
 Three others injured and seven missing after avalanche caught work party as they prepared route for fee-paying western climbers
 
-##### magnitude
+##### Magnitude
 ### [A 7.5-magnitude earthquake hits near Petatlan, Guerrero, Mexico. ](/news/2014/04/18/a-7-5-magnitude-earthquake-hits-near-petatla-n-guerrero-mexico.md)
-_Context: Petatlan, Guerrero, magnitude_
+_Context: magnitude, Guerrero, Petatlan_
 
 ##### Government of China
 ### [An official study released by the Chinese government reveals that about one-fifth of China's soil is contaminated. ](/news/2014/04/18/an-official-study-released-by-the-chinese-government-reveals-that-about-one-fifth-of-china-s-soil-is-contaminated.md)

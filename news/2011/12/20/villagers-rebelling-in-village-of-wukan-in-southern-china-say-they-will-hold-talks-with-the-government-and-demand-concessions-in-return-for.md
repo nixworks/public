@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/20/villagers-rebelling-in-village-of-wukan-in-sout
 
 ### [2011-12-20](/news/2011/12/20/index.md)
 
-##### rebellion by villagers in Wukan
+##### Rebellion by villagers in Wukan
 # Villagers rebelling in village of Wukan in southern China, say they will hold talks with the government and demand concessions in return for calling off a march. 
 
 

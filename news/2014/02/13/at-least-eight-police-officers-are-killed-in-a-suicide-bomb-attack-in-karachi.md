@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-
 
 ### [2014-02-13](/news/2014/02/13/index.md)
 
-##### policemen
+##### Policemen
 # At least eight police officers are killed in a suicide bomb attack in Karachi. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/5/manuel-valls-the-prime-minister-of-france-announ
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Manuel Valls, the Prime Minister of France, announces his candidacy for the Socialist Party nomination. He will step down as PM on Tuesday. 
 
 

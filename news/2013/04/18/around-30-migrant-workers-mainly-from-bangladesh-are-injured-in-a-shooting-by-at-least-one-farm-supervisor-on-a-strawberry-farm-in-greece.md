@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/18/around-30-migrant-workers-mainly-from-banglades
 
 ### [2013-04-18](/news/2013/04/18/index.md)
 
-##### migrant workers
+##### Migrant workers
 # Around 30 migrant workers, mainly from Bangladesh, are injured in a shooting by at least one farm supervisor on a strawberry farm in Greece after requesting salaries that had yet to be paid to them. The farm's owner, and at least one of the supervisors, are arrested. 
 
 About 30 migrant workers are injured in a shooting on a strawberry farm in Greece after requesting withheld salaries.

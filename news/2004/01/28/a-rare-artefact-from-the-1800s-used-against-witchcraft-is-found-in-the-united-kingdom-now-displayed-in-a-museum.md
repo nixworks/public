@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/28/a-rare-artefact-from-the-1800s-used-against-wit
 
 ### [2004-01-28](/news/2004/01/28/index.md)
 
-##### witchcraft
+##### Witchcraft
 #  A rare artefact from the 1800s used against witchcraft is found in the United Kingdom. Now displayed in a museum.
 
 

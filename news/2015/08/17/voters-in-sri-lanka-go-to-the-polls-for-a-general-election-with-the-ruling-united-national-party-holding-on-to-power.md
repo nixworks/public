@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/17/voters-in-sri-lanka-go-to-the-polls-for-a-gener
 
 ### [2015-08-17](/news/2015/08/17/index.md)
 
-##### election
+##### Election
 # Voters in Sri Lanka go to the polls for a general election with the ruling United National Party holding on to power. 
 
 Sri Lankans finish voting in a general election in which former President Mahinda Rajapaksa hopes to return to office as prime minister.

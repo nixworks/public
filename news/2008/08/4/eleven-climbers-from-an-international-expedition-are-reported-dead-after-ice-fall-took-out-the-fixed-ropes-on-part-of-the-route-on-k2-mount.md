@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/4/eleven-climbers-from-an-international-expedition
 
 ### [2008-08-4](/news/2008/08/4/index.md)
 
-##### scale
+##### Scale
 #  Eleven climbers from an international expedition are reported dead after ice fall took out the fixed ropes on part of the route on K2 mountain in the Himalayas. 
 
 

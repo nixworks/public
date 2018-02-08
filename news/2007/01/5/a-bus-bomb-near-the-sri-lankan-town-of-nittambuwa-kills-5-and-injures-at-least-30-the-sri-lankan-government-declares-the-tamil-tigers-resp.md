@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/5/a-bus-bomb-near-the-sri-lankan-town-of-nittambuw
 
 ### [2007-01-5](/news/2007/01/5/index.md)
 
-##### bus bomb
+##### Bus bomb
 #  A bus bomb near the Sri Lankan town of Nittambuwa kills 5 and injures at least 30. The Sri Lankan government declares the Tamil Tigers responsible, but the rebel group denies involvement. 
 
 

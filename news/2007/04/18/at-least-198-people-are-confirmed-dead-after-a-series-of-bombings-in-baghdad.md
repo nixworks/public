@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/18/at-least-198-people-are-confirmed-dead-after-a-
 
 ### [2007-04-18](/news/2007/04/18/index.md)
 
-##### series of bombings
+##### Series of bombings
 #  At least 198 people are confirmed dead after a series of bombings in Baghdad. 
 
 

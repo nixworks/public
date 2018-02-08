@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/30/the-recent-us-tornado-outbreak-becomes-the-seco
 
 ### [2011-04-30](/news/2011/04/30/index.md)
 
-##### three day tornado outbreak
+##### Three day tornado outbreak
 # The recent US tornado outbreak becomes the second deadliest single day tornado event in US history with at least 340 people dead. 
 
 

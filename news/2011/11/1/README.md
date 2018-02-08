@@ -19,7 +19,7 @@ Hackers disruptedPalestinian Internet services in the West Bank and Gaza Strip o
 ### [The United Kingdom Office for National Statistics releases GDP figures indicating growth of 0.5% compared to a 0.1% figure in the previous quarter. ](/news/2011/11/1/the-united-kingdom-office-for-national-statistics-releases-gdp-figures-indicating-growth-of-0-5-compared-to-a-0-1-figure-in-the-previous-q.md)
 The UK economy grew by 0.5% in the third quarter of 2011, official figures show, faster than the 0.1% rate seen in the previous quarter.
 
-##### state of emergency
+##### State of emergency
 ### [Over 1.5 million people are still without power and four states declare a state of emergency after a nor'easter hits the Eastern United States. ](/news/2011/11/1/over-1-5-million-people-are-still-without-power-and-four-states-declare-a-state-of-emergency-after-a-nor-easter-hits-the-eastern-united-stat.md)
 _Context: Eastern U.S., nor'easter, state of emergency_
 
@@ -29,15 +29,15 @@ _Context: LOT Polish Airlines Flight 016, Warsaw Chopin Airport_
 
 ##### Fuquan City
 ### [At least seven people are killed and 200 injured following an explosion caused by two trucks carrying explosives crashing in Fuquan City in China's Guizhou Province. ](/news/2011/11/1/at-least-seven-people-are-killed-and-200-injured-following-an-explosion-caused-by-two-trucks-carrying-explosives-crashing-in-fuquan-city-in.md)
-_Context: Guizhou Province, Fuquan City, China_
+_Context: Fuquan City, Guizhou Province, China_
 
-##### asylum seeker
+##### Asylum seeker
 ### [A boat carrying 70 asylum seekers en route to Australia sinks off the coast of Java in Indonesia with eight confirmed deaths and fifteen people missing. ](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-australia-sinks-off-the-coast-of-java-in-indonesia-with-eight-confirmed-deaths-and-fifteen-peo.md)
-_Context: Australia, Indonesia, Java, asylum seeker_
+_Context: Indonesia, Australia, Java, asylum seeker_
 
 ##### Almazbek Atambayev
 ### [Almazbek Atambayev, the newly elected President of Kyrgyzstan, states that a lease for a United States air base in Manas will not be renewed when it expires in 2014. ](/news/2011/11/1/almazbek-atambayev-the-newly-elected-president-of-kyrgyzstan-states-that-a-lease-for-a-united-states-air-base-in-manas-will-not-be-renewed.md)
-_Context: Almazbek Atambayev, United States, Manas, president_
+_Context: United States, president, Manas, Almazbek Atambayev_
 
 ##### London
 ### [At least twelve people are arrested in London outside the Parliament of the United Kingdom after a protest against anti-squatting legislation turns violent. ](/news/2011/11/1/at-least-twelve-people-are-arrested-in-london-outside-the-parliament-of-the-united-kingdom-after-a-protest-against-anti-squatting-legislatio.md)
@@ -45,11 +45,11 @@ Twelve people are arrested after a clash between police and protesters outside t
 
 ##### City of London Corporation
 ### [The City of London Corporation pauses its legal action against Occupy London protesters outside St Paul's Cathedral after the church halted its own action and expressed a wish to enter into dialogue with the demonstrators. ](/news/2011/11/1/the-city-of-london-corporation-pauses-its-legal-action-against-occupy-london-protesters-outside-st-paul-s-cathedral-after-the-church-halted.md)
-_Context: City of London Corporation, Occupy London, St Paul's Cathedral_
+_Context: City of London Corporation, St Paul's Cathedral, Occupy London_
 
 ##### China
 ### [China launches the unmanned Shenzhou 8 spacecraft, intending to robotically dock it with the orbiting Tiangong 1 space station module. If successful, the mission will mark China's first orbital docking, and will be a major milestone in its efforts to construct a full-scale space station. ](/news/2011/11/1/china-launches-the-unmanned-shenzhou-8-spacecraft-intending-to-robotically-dock-it-with-the-orbiting-tiangong-1-space-station-module-if-su.md)
-_Context: space station, Shenzhou 8, Tiangong 1, full-scale space station, China_
+_Context: full-scale space station, China, space station, Tiangong 1, Shenzhou 8_
 
 ## [Previous Day...](/news/2011/10/31/index.md)
 

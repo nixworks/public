@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-nort
 
 ### [2015-07-25](/news/2015/07/25/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. 
 
 

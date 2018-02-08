@@ -5,15 +5,15 @@ Formats: [HTML](2013/04/24/index.html)  [JSON](2013/04/24/index.json)  [XML](201
 
 ##### Jalalabad
 ### [A 5.7 magnitude earthquake strikes 25 kilometers from Jalalabad, Afghanistan, leaving 33 people dead and another 115 injured. Heavy damage of buildings are reported across Nangarhar Province. ](/news/2013/04/24/a-5-7-magnitude-earthquake-strikes-25-kilometers-from-jalalabad-afghanistan-leaving-33-people-dead-and-another-115-injured-heavy-damage-o.md)
-_Context: Nangarhar Province, Jalalabad, Afghanistan_
+_Context: Jalalabad, Afghanistan, Nangarhar Province_
 
 ##### Savar Upazila
 ### [An eight-story commercial building collapses in Savar Upazila near the Bangladeshi capital Dhaka, resulting in at least 256 people dead, one thousand injured and scores more trapped. ](/news/2013/04/24/an-eight-story-commercial-building-collapses-in-savar-upazila-near-the-bangladeshi-capital-dhaka-resulting-in-at-least-256-people-dead-one.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### minaret
+##### Minaret
 ### [The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. ](/news/2013/04/24/the-11th-century-minaret-of-the-umayyad-great-mosque-at-the-world-heritage-site-of-aleppo-is-destroyed-both-warring-parties-blame-each-othe.md)
-_Context: Aleppo, minaret, world heritage site, Umayyad Great Mosque_
+_Context: minaret, world heritage site, Umayyad Great Mosque, Aleppo_
 
 ##### Manchester, Illinois
 ### [A shooting occurs in Manchester, Illinois, United States, leaving 5 dead and another injured. The suspect is then killed in a gunfight with police. ](/news/2013/04/24/a-shooting-occurs-in-manchester-illinois-united-states-leaving-5-dead-and-another-injured-the-suspect-is-then-killed-in-a-gunfight-with.md)
@@ -25,7 +25,7 @@ A federal judge said on Wednesday the U.S. government can proceed with a lawsuit
 
 ##### FBI
 ### [The FBI and the CIA admit that Russian intelligence had warned the U.S. intelligence agencies several times regarding the extremist connections of Tamerlan Tsarnaev prior to the Boston marathon bombings. ](/news/2013/04/24/the-fbi-and-the-cia-admit-that-russian-intelligence-had-warned-the-u-s-intelligence-agencies-several-times-regarding-the-extremist-connecti.md)
-_Context: U.S., CIA, Boston marathon bombings, Tamerlan Tsarnaev, Russian intelligence, FBI_
+_Context: CIA, Tamerlan Tsarnaev, U.S., Boston marathon bombings, Russian intelligence, FBI_
 
 ##### Malaysian police
 ### [Malaysian police claim that there have been hundreds of cases of election-related violence since campaigning for the Malaysian general election went underway last weekend. ](/news/2013/04/24/malaysian-police-claim-that-there-have-been-hundreds-of-cases-of-election-related-violence-since-campaigning-for-the-malaysian-general-elect.md)

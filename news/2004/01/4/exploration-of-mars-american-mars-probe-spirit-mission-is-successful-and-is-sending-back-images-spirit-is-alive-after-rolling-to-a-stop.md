@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/4/exploration-of-mars-american-mars-probe-spirit-m
 
 ### [2004-01-4](/news/2004/01/4/index.md)
 
-##### route
+##### Route
 #  Exploration of Mars: American Mars probe "Spirit" mission is successful and is sending back images. Spirit is alive after rolling to a stop on the surface of Mars; confirmed by NASA's Deep Space Network (9:00 p.m. PST).
 
 

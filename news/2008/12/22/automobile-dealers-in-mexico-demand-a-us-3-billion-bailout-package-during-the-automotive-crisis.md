@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/22/automobile-dealers-in-mexico-demand-a-us-3-bill
 
 ### [2008-12-22](/news/2008/12/22/index.md)
 
-##### dealers
+##### Dealers
 #  Automobile dealers in Mexico demand a US$3 billion bailout package during the automotive crisis. 
 
 

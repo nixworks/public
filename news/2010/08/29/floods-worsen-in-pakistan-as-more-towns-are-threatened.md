@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/29/floods-worsen-in-pakistan-as-more-towns-are-thr
 
 ### [2010-08-29](/news/2010/08/29/index.md)
 
-##### devastating floods
+##### Devastating floods
 # Floods worsen in Pakistan as more towns are threatened. 
 
 

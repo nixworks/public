@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/12/a-man-is-arrested-after-threatening-self-immola
 
 ### [2009-02-12](/news/2009/02/12/index.md)
 
-##### self-immolation
+##### Self-immolation
 #  A man is arrested after threatening self-immolation outside the Government Buildings in Dublin, Ireland. 
 
 Gardaí and fire brigade personnel have overpowered a man who threatened to set himself on fire outside Government Buildings.

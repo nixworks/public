@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/14/for-the-first-time-a-helicopter-lands-on-top-of
 
 ### [2005-05-14](/news/2005/05/14/index.md)
 
-##### helicopter
+##### Helicopter
 #  For the first time, a helicopter lands on top of the world's highest mountain, Mount Everest in Himalaya. The standard production model Eurocopter AS350 Squirrel, piloted by the Eurocopter test pilot Didier Delsalle, landed at the summit at 07:08 NPT (01:23 UTC). After staying for 3 minutes and 50 seconds, Delsalle lifted off and returned to the Tenzing-Hillary Airport at Lukla, Nepal. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/22/thirteen-are-killed-and-another-10-are-injured-
 
 ### [2012-07-22](/news/2012/07/22/index.md)
 
-##### pickup truck
+##### Pickup truck
 # Thirteen are killed and another 10 are injured when a pickup truck crashes in Texas. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/2/al-qaeda-leader-osama-bin-laden-says-that-his-or
 
 ### [2003-09-2](/news/2003/09/2/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda leader Osama bin Laden says that his organization is working on ""serious projects"", and that his priority is to use biological weapons against the United States. Al Qaeda may already have such weapons, and be seeking means to transport and launch them.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/12/the-knesset-approves-a-new-boycott-law-which-wo
 
 ### [2011-07-12](/news/2011/07/12/index.md)
 
-##### parliament in Israel
+##### Parliament in Israel
 # The Knesset approves a new boycott law which would allow Israeli courts to impose heavy sanctions on Israeli individuals or organizations whom would initiate or promote a boycott against Israeli companies and entities.
 
 

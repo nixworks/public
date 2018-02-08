@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/24/russian-police-arrest-a-former-senior-police-of
 
 ### [2011-08-24](/news/2011/08/24/index.md)
 
-##### state police
+##### State police
 # Russian police arrest a former senior police officer Dmitry Pavlyuchenkov suspected of organising the murder of former Kremlin reporter Anna Politkovskaya in 2006. 
 
 

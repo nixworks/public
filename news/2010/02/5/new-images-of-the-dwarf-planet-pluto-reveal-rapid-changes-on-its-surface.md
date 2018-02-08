@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapi
 
 ### [2010-02-5](/news/2010/02/5/index.md)
 
-##### dwarf planet
+##### Dwarf planet
 # New images of the dwarf planet Pluto reveal rapid changes on its surface. 
 
 

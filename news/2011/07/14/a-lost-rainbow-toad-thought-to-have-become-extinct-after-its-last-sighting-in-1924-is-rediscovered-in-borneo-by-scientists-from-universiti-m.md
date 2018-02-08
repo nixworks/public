@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/14/a-lost-rainbow-toad-thought-to-have-become-exti
 
 ### [2011-07-14](/news/2011/07/14/index.md)
 
-##### rainbow toad
+##### Rainbow toad
 # A lost rainbow toad thought to have become extinct after its last sighting in 1924 is rediscovered in Borneo by scientists from Universiti Malaysia Sarawak (UNIMAS) and photographed for the first time. 
 
 

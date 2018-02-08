@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/11/a-series-of-ice-storms-across-the-central-unite
 
 ### [2007-12-11](/news/2007/12/11/index.md)
 
-##### ice storms
+##### Ice storms
 #  A series of ice storms across the central United States kills at least 24 and leaves nearly 1 million homes and businesses without electricity. 
 
 

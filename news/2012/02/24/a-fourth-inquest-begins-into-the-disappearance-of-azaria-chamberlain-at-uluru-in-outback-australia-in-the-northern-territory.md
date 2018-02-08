@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/24/a-fourth-inquest-begins-into-the-disappearance-
 
 ### [2012-02-24](/news/2012/02/24/index.md)
 
-##### disappearance of Azaria Chamberlain
+##### Disappearance of Azaria Chamberlain
 # A fourth inquest begins into the disappearance of Azaria Chamberlain at Uluru in outback Australia in the Northern Territory. 
 
 

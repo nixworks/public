@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/10/a-7-6-magnitude-earthquake-and-small-tsunami-hi
 
 ### [2010-08-10](/news/2010/08/10/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.6 magnitude earthquake and small tsunami hits the Pacific Ocean nation of Vanuatu. 
 
 

@@ -21,39 +21,39 @@ A small plane crashes near a Lidl supermarket in Tires just west of Lisbon, kill
 
 ##### Rumphi District
 ### [Five people drowned while eleven are still missing after a boat capsized off the coast of Rumphi District on Lake Malawi. ](/news/2017/04/17/five-people-drowned-while-eleven-are-still-missing-after-a-boat-capsized-off-the-coast-of-rumphi-district-on-lake-malawi.md)
-_Context: Lake Malawi, Rumphi District_
+_Context: Rumphi District, Lake Malawi_
 
 ##### United States soldier
 ### [A United States Army UH-60 Black Hawk helicopter crashes on a golf course in Leonardtown, Maryland. At least one crew member is injured and taken to hospital. ](/news/2017/04/17/a-united-states-army-uh-60-black-hawk-helicopter-crashes-on-a-golf-course-in-leonardtown-maryland-at-least-one-crew-member-is-injured-and.md)
 One crew member was killed and two others were injured Monday when a military helicopter crashed on a southern Maryland golf course.
 
-##### magnitude
+##### Magnitude
 ### [A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. ](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilometers-155-miles-northwest-of-the-pacific-island-nation-of-vanuatu-no-immediate-report-of-dama.md)
-_Context: magnitude, Vanuatu, island nation, South Pacific Ocean_
+_Context: South Pacific Ocean, Vanuatu, magnitude, island nation_
 
 ##### BP
 ### [A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. ](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhorse-airport-that-was-leaking-oil-and-natural-gas-since-it-was-discovered-on-friday-is-success.md)
-_Context: Deadhorse Airport, BP, Alaskan North Slope_
+_Context: BP, Deadhorse Airport, Alaskan North Slope_
 
 ##### China-Nepal relations
 ### [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md)
-_Context: China, China-Nepal relations, Nepal, India_
+_Context: India, Nepal, China-Nepal relations, China_
 
 ##### North Korea
 ### [North Korean Vice Foreign Minister Han Song-ryol threatens to test missiles on a "weekly" basis, as United States Vice President Mike Pence warns the DPRK that the United States' "era of strategic patience" with the country was over. ](/news/2017/04/17/north-korean-vice-foreign-minister-han-song-ryol-threatens-to-test-missiles-on-a-weekly-basis-as-united-states-vice-president-mike-pence.md)
-_Context: Han Song-ryol, DPRK, Mike Pence, United States Vice President, North Korea_
+_Context: Mike Pence, DPRK, Han Song-ryol, United States Vice President, North Korea_
 
 ##### Shooting of Robert Godwin
 ### [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md)
-_Context: New York, FBI, Facebook, Ohio, Pennsylvania, Cleveland, Indiana, Mich., Shooting of Robert Godwin_
+_Context: Cleveland, Shooting of Robert Godwin, Mich., Ohio, New York, Facebook, FBI, Pennsylvania, Indiana_
 
 ##### Brazilian federal judge
 ### [A Brazilian federal judge orders Petrobras to suspend the sale to Norway's Statoil of its stake in an offshore prospect, in response to the National Federation of Oil Workers petition there should have been an open bidding process for this transaction. ](/news/2017/04/17/a-brazilian-federal-judge-orders-petrobras-to-suspend-the-sale-to-norway-s-statoil-of-its-stake-in-an-offshore-prospect-in-response-to-the.md)
-_Context: Statoil, Norway, Brazilian federal judge, Petrobras_
+_Context: Statoil, Petrobras, Norway, Brazilian federal judge_
 
 ##### Paraguayan President
 ### [Paraguayan President Horacio Cartes says he will not be a candidate in next year's presidential election regardless of Congress's action on a constitutional amendment that would allow second terms. Cartes adds his decision was informed by Pope Francis's call for peace and dialogue in Paraguay following protests against this change that turned violent two weeks ago. ](/news/2017/04/17/paraguayan-president-horacio-cartes-says-he-will-not-be-a-candidate-in-next-year-s-presidential-election-regardless-of-congress-s-action-on.md)
-_Context: Paraguay, Paraguayan President, protests against this change that turned violent, constitutional  amendment, Congress's, Horacio Cartes, Pope Francis_
+_Context: Congress's, Paraguay, Pope Francis, Horacio Cartes, constitutional  amendment, Paraguayan President, protests against this change that turned violent_
 
 ##### Yes California
 ### [The bid for California independence ends. ](/news/2017/04/17/the-bid-for-california-independence-ends.md)
@@ -61,11 +61,11 @@ The leader of the &quot;Calexit&quot; movement announced in a 1,600-word stateme
 
 ##### Palestinian prisoners of Israel
 ### [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md)
-_Context: Palestinians, hunger strike, Palestinian prisoners of Israel, detention without trial, Israel_
+_Context: Palestinian prisoners of Israel, Israel, Palestinians, hunger strike, detention without trial_
 
 ##### Philippine presidential election, 2016
 ### [Bongbong Marcos pays [?]36 million, half of the required amount to hold a recount against Philippine vice president Leni Robredo.](/news/2017/04/17/bongbong-marcos-pays-a-36-million-half-of-the-required-amount-to-hold-a-recount-against-philippine-vice-president-leni-robredo.md)
-_Context: Leni Robredo, Bongbong Marcos, [?], Philippine presidential election, 2016, Vice President of the Philippines_
+_Context: Leni Robredo, Bongbong Marcos, Philippine presidential election, 2016, [?], Vice President of the Philippines_
 
 ## [Previous Day...](/news/2017/04/16/index.md)
 

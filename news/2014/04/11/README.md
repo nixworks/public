@@ -9,7 +9,7 @@ At least 12 insurgents were killed on Friday in the latest round of infighting b
 
 ##### Peter Gabriel
 ### [Peter Gabriel, Hall & Oates, KISS, Nirvana, Linda Ronstadt, and Cat Stevens are inducted into the Rock and Roll Hall of Fame. ](/news/2014/04/11/peter-gabriel-hall-oates-kiss-nirvana-linda-ronstadt-and-cat-stevens-are-inducted-into-the-rock-and-roll-hall-of-fame.md)
-_Context: Cat Stevens, Hall & Oates, Peter Gabriel, KISS, Linda Ronstadt, Nirvana, Rock and Roll Hall of Fame_
+_Context: Peter Gabriel, KISS, Rock and Roll Hall of Fame, Nirvana, Linda Ronstadt, Cat Stevens, Hall & Oates_
 
 ##### Coldwater Creek
 ### [American women's clothing retailer Coldwater Creek files for chapter 11 bankruptcy. ](/news/2014/04/11/american-women-s-clothing-retailer-coldwater-creek-files-for-chapter-11-bankruptcy.md)
@@ -17,9 +17,9 @@ _Context: Coldwater Creek, Chapter 11_
 
 ##### Queensland
 ### [Residents in the Australian state of Queensland prepare for Cyclone Ita to make landfall between Cooktown and Cape Flattery. ](/news/2014/04/11/residents-in-the-australian-state-of-queensland-prepare-for-cyclone-ita-to-make-landfall-between-cooktown-and-cape-flattery.md)
-_Context: Cooktown, Queensland, Cape Flattery_
+_Context: Cape Flattery, Cooktown, Queensland_
 
-##### magnitude earthquake
+##### Magnitude earthquake
 ### [A magnitude 7.1 earthquake strikes off the coast of Papua New Guinea, setting off tsunami warnings for the country. ](/news/2014/04/11/a-magnitude-7-1-earthquake-strikes-off-the-coast-of-papua-new-guinea-setting-off-tsunami-warnings-for-the-country.md)
 A powerful magnitude 7.1 earthquake has struck off Papua New Guinea with a 6.7-magnitude aftershock following the quake off the island of Bougainville.
 
@@ -29,13 +29,13 @@ Thousands of UN peacekeepers will be sent to the Central African Republic after 
 
 ##### 2014 Crimean crisis
 ### [Montenegro, Norway, Iceland and Albania join the list of countries supporting sanctions including asset freezings and travel bans directed at Russian individuals. ](/news/2014/04/11/montenegro-norway-iceland-and-albania-join-the-list-of-countries-supporting-sanctions-including-asset-freezings-and-travel-bans-directed-a.md)
-_Context: Montenegro, supporting sanctions, 2014 Crimean crisis, Norway, Iceland, Albania_
+_Context: Iceland, 2014 Crimean crisis, Norway, Montenegro, Albania, supporting sanctions_
 
 ##### New Citizens' Movement
 ### [The 4-year prison sentence of New Citizens' Movement founder Xu Zhiyong is upheld in a Chinese court. ](/news/2014/04/11/the-4-year-prison-sentence-of-new-citizens-movement-founder-xu-zhiyong-is-upheld-in-a-chinese-court.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### throws a shoe
+##### Throws a shoe
 ### [A woman is arrested after she throws a shoe at the head of former United States Secretary of State Hillary Clinton as she was giving a speech in Las Vegas, Nevada. ](/news/2014/04/11/a-woman-is-arrested-after-she-throws-a-shoe-at-the-head-of-former-united-states-secretary-of-state-hillary-clinton-as-she-was-giving-a-speec.md)
 LAS VEGAS - A woman was taken into federal custody yesterday after throwing a shoe at Hillary Clinton as the former secretary of state began a Las Vegas
 

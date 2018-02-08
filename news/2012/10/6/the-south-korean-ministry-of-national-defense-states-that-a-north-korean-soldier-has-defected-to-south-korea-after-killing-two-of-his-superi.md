@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/6/the-south-korean-ministry-of-national-defense-st
 
 ### [2012-10-6](/news/2012/10/6/index.md)
 
-##### defense ministry
+##### Defense ministry
 # The South Korean Ministry of National Defense states that a North Korean soldier has defected to South Korea after killing two of his superiors. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/14/hurricane-julia-becomes-the-fifth-hurricane-of-
 
 ### [2010-09-14](/news/2010/09/14/index.md)
 
-##### hurricane
+##### Hurricane
 # Hurricane Julia becomes the fifth hurricane of the 2010 Atlantic hurricane season. 
 
 Tropical Storm Julia grew tohurricane strength over the far eastern Atlantic Ocean onTuesday, the U.S. National Hurricane Center said.

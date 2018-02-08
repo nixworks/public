@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/2/united-nations-inspectors-wishing-to-inspect-the
 
 ### [2004-12-2](/news/2004/12/2/index.md)
 
-##### nuclear program
+##### Nuclear program
 #  United Nations inspectors wishing to inspect the Parchin military complex southeast of Tehran and Lavizan&nbsp;II in northeastern Tehran lack the legal authority according to United Nations diplomats. 
 
 

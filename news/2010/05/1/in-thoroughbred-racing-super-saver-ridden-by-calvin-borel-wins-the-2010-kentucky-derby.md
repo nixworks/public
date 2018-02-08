@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/1/in-thoroughbred-racing-super-saver-ridden-by-cal
 
 ### [2010-05-1](/news/2010/05/1/index.md)
 
-##### thoroughbred racing
+##### Thoroughbred racing
 # In thoroughbred racing, Super Saver, ridden by Calvin Borel, wins the 2010 Kentucky Derby. 
 
 

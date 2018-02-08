@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/27/the-first-version-of-the-free-and-open-source-b
 
 ### [2003-05-27](/news/2003/05/27/index.md)
 
-##### free and open-source
+##### Free and open-source
 #  The first version of the free and open-source blogging tool WordPress was released. It was labelled as Version 0.7, a continuation of the last release of its predecessor, "b2-cafelog".
 
 

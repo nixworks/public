@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/6/at-least-seventeen-people-are-killed-and-forty-o
 
 ### [2010-09-6](/news/2010/09/6/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # At least seventeen people are killed and forty others injured after a suicide bomber attacks a Pakistan police station in the town of Lakki Marwat in Khyber Pakhtunkhwa province. 
 
 

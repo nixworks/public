@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/8/some-scientists-express-concern-that-an-influenz
 
 ### [2013-02-8](/news/2013/02/8/index.md)
 
-##### influenza vaccine
+##### Influenza vaccine
 # Some scientists express concern that an influenza vaccine marketed by GlaxoSmithKline called Pandemrix may be responsible for an increase in cases of narcolepsy in Europe. 
 
 

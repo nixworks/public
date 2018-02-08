@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/26/the-first-south-atlantic-hurricane-ever-recorde
 
 ### [2004-03-26](/news/2004/03/26/index.md)
 
-##### tropical cyclone
+##### Tropical cyclone
 #  The first South Atlantic hurricane ever recorded forms 275 miles off the coast of Brazil. 
 
 Things to do in Miami

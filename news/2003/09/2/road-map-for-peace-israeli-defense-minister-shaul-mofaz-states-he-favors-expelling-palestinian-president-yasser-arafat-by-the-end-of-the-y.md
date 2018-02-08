@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/2/road-map-for-peace-israeli-defense-minister-shau
 
 ### [2003-09-2](/news/2003/09/2/index.md)
 
-##### road map peace plan
+##### Road map peace plan
 #  Road map for peace: Israeli Defense Minister Shaul Mofaz states he favors expelling Palestinian President Yasser Arafat by the end of the year, because Arafat is obstructing the United States led peace plan. Arafat denies the statement and says he backs the peace plan (though he refuses to release control of Palestinian security services to reformer Prime Minister Mahmoud Abbas to stop militant group attacks as mandated by the plan). Palestinian leaders call Defense Minister's remarks inflammatory.
 
 

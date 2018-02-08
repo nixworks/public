@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/20/china-announces-reforms-to-its-legal-system-eff
 
 ### [2004-12-20](/news/2004/12/20/index.md)
 
-##### jury trial
+##### Jury trial
 #  China announces reforms to its legal system effective in 2005, including the introduction of jury trials and a 10% increase in the number of judges. Jurors will be elected to a five-year term, and must have at least two years' university education. 
 
 

@@ -7,7 +7,7 @@ Formats: [HTML](2017/04/7/index.html)  [JSON](2017/04/7/index.json)  [XML](2017/
 ### [The United States launches 60 Tomahawk cruise missiles aimed at the Ash Sha'irat air base in Homs Governorate in response to the Syrian government's alleged use of chemical weapons in its attack on the town of Khan Shaykhun. The Government of Syria claims the attack killed six soldiers and nine civilians, including four children. ](/news/2017/04/7/the-united-states-launches-60-tomahawk-cruise-missiles-aimed-at-the-ash-sha-irat-air-base-in-homs-governorate-in-response-to-the-syrian-gove.md)
 President Bashar al-Assad &#x27;choked out the lives of helpless men, women and children,&#x27; President Donald Trump said in remarks from Florida.
 
-##### last month's Westminster attack
+##### Last month's Westminster attack
 ### [The death toll rises to five after a woman who fell into the River Thames dies in hospital. ](/news/2017/04/7/the-death-toll-rises-to-five-after-a-woman-who-fell-into-the-river-thames-dies-in-hospital.md)
 _Context: River Thames, last month's Westminster attack_
 
@@ -53,7 +53,7 @@ The Trump administration has retreated from its demands that Twitter name the pe
 
 ##### Neil Gorsuch
 ### [Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". ](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-of-the-supreme-court-of-the-united-states-by-a-54a45-vote-in-the-united-states-senate-after.md)
-_Context: nuclear option, Neil Gorsuch, Supreme Court of the United States, United States Senate_
+_Context: nuclear option, United States Senate, Neil Gorsuch, Supreme Court of the United States_
 
 ##### Alabama
 ### [The governor of the State of Alabama, Robert Bentley, wins a court victory halting impeachment proceedings that were set to begin Monday to determine whether he should remain in office after it was discovered that he had a romantic relationship with a staffer. ](/news/2017/04/7/the-governor-of-the-state-of-alabama-robert-bentley-wins-a-court-victory-halting-impeachment-proceedings-that-were-set-to-begin-monday-to.md)

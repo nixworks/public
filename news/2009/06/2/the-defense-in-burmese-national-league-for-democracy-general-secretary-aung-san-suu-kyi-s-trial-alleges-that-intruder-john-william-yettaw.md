@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/2/the-defense-in-burmese-national-league-for-democ
 
 ### [2009-06-2](/news/2009/06/2/index.md)
 
-##### defense
+##### Defense
 #  The defense in Burmese National League for Democracy General Secretary Aung San Suu Kyi's trial alleges that intruder John William Yettaw "acted alone". 
 
 

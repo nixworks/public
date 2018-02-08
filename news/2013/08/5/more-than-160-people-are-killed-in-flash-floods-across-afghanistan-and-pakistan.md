@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/5/more-than-160-people-are-killed-in-flash-floods-
 
 ### [2013-08-5](/news/2013/08/5/index.md)
 
-##### flash floods
+##### Flash floods
 # More than 160 people are killed in flash floods across Afghanistan and Pakistan. 
 
 Flash flooding across Afghanistan and Pakistan has left more than 160 dead and dozens stranded in one of South Asia&#039;s worst natural disasters this year, say officials.

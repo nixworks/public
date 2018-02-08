@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/18/a-south-korean-government-report-finds-that-the
 
 ### [2010-11-18](/news/2010/11/18/index.md)
 
-##### government
+##### Government
 # A South Korean Government report finds that the Sunshine Policy to North Korea adopted by the former government had not resulted in changes to Pyongyang's behaviour. 
 
 

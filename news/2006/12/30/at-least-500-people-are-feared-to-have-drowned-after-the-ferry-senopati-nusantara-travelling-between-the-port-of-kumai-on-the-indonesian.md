@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/30/at-least-500-people-are-feared-to-have-drowned-
 
 ### [2006-12-30](/news/2006/12/30/index.md)
 
-##### ferry ''Senopati Nusantara''
+##### Ferry ''Senopati Nusantara''
 #  At least 500 people are feared to have drowned after the ferry "Senopati Nusantara" travelling between the port of Kumai on the Indonesian island of Borneo to Semarang on Java sank during a storm. 
 
 

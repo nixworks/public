@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/5/us-scientists-have-successfully-implanted-artifi
 
 ### [2006-04-5](/news/2006/04/5/index.md)
 
-##### transplant
+##### Transplant
 #  US scientists have successfully implanted artificial bladders (artificial urinary bladders) grown in the laboratory from patients' own cells into patients. 
 
 

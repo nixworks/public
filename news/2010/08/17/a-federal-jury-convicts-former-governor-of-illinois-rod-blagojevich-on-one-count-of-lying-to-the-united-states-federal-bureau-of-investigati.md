@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/17/a-federal-jury-convicts-former-governor-of-illi
 
 ### [2010-08-17](/news/2010/08/17/index.md)
 
-##### jury
+##### Jury
 # A federal jury convicts former Governor of Illinois Rod Blagojevich on one count of lying to the United States Federal Bureau of Investigation. The jury is deadlocked on the other 23 charges. 
 
 The trial of former Illinois governor Rod Blagojevich was found......

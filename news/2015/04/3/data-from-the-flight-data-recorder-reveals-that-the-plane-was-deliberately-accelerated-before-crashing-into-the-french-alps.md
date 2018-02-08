@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/3/data-from-the-flight-data-recorder-reveals-that-
 
 ### [2015-04-3](/news/2015/04/3/index.md)
 
-##### flight data recorder
+##### Flight data recorder
 # Data from the flight data recorder reveals that the plane was deliberately accelerated before crashing into the French Alps. 
 
 The pilot at the controls of a Germanwings jet that crashed in the French Alps accelerated the plane into the mountainside, killing all 150 people on board, according to French investigators.

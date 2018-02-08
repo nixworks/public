@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-
 
 ### [2013-01-20](/news/2013/01/20/index.md)
 
-##### second inauguration
+##### Second inauguration
 # The second inauguration of Barack Obama as the President of the United States takes place in the Blue Room of the White House. 
 
 Barack Obama is officially sworn in for his second term as US president in a small ceremony at the White House.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/24/ireland-s-economic-and-social-research-institut
 
 ### [2008-06-24](/news/2008/06/24/index.md)
 
-##### current economic crisis
+##### Current economic crisis
 #  Ireland's Economic and Social Research Institute (ESRI) says the country is in the grip of a recession for the first time in a quarter of a century. However, it predicts the economy will return to positive growth in 2009 and normal growth by 2010. 
 
 Brian Lenihan has said the latest report from the ESRI indicated that there was a serious problem in the economy.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/7/at-least-17-prisoners-are-killed-in-riots-in-a-m
 
 ### [2007-01-7](/news/2007/01/7/index.md)
 
-##### prison
+##### Prison
 #  At least 17 prisoners are killed in riots in a maximum security jail in Santa Ana, El Salvador, after convicted members of the Mara 18 gang fight with a security guard, leading to trouble throughout the jail. 
 
 

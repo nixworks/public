@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/11/an-oil-tanker-and-a-container-ship-collide-off-
 
 ### [2009-02-11](/news/2009/02/11/index.md)
 
-##### oil tanker
+##### Oil tanker
 #  An oil tanker and a container ship collide off the coast of Dubai, United Arab Emirates. 
 
 

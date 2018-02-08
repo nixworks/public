@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/7/the-death-toll-from-flash-floods-in-indonesia-s-
 
 ### [2010-10-7](/news/2010/10/7/index.md)
 
-##### flash flood
+##### Flash flood
 # The death toll from flash floods in Indonesia's West Papua province rises to 97 with dozens of people missing. 
 
 The death toll from flash floods in a remote region of eastern Indonesia has climbed to at least 97, with dozens of people still missing.

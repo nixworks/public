@@ -9,35 +9,35 @@ _Context: IAEA, nuclear program, Iran, nuclear warheads_
 
 ##### China
 ### [ China relaxes its one-child policy to allow parents of children killed in the 2008 Sichuan earthquake to have another child. ](/news/2008/05/26/china-relaxes-its-one-child-policy-to-allow-parents-of-children-killed-in-the-2008-sichuan-earthquake-to-have-another-child.md)
-_Context: one-child policy, China, deadly earthquake_
+_Context: China, deadly earthquake, one-child policy_
 
 ##### Westpac
 ### [ Westpac signs an implementation agreement for its take over of the St George Bank, creating the largest bank in Australia with a market capitalisation of A$66 billion. ](/news/2008/05/26/westpac-signs-an-implementation-agreement-for-its-take-over-of-the-st-george-bank-creating-the-largest-bank-in-australia-with-a-market-cap.md)
-_Context: A$, St George Bank, Westpac, Australia, bank_
+_Context: Australia, A$, St George Bank, Westpac, bank_
 
-##### rallies
+##### Rallies
 ### [ Nepalese authorities ban rallies and mass meetings in Kathmandu prior to the first meeting of the Nepalese Constituent Assembly which is expected to declare Nepal a republic. ](/news/2008/05/26/nepalese-authorities-ban-rallies-and-mass-meetings-in-kathmandu-prior-to-the-first-meeting-of-the-nepalese-constituent-assembly-which-is-ex.md)
-_Context: Nepal, Constituent Assembly, Kathmandu, rallies_
+_Context: rallies, Nepal, Constituent Assembly, Kathmandu_
 
 ##### Ethiopia
 ### [ A court in Ethiopia sentences former ruler Mengistu Haile Mariam to death for his role in the Red Terror. ](/news/2008/05/26/a-court-in-ethiopia-sentences-former-ruler-mengistu-haile-mariam-to-death-for-his-role-in-the-red-terror.md)
-_Context: former ruler, Ethiopia, Mengistu Haile Mariam, Red Terror_
+_Context: Ethiopia, former ruler, Red Terror, Mengistu Haile Mariam_
 
 ##### Canadian
 ### [ Embattled Canadian Minister of Foreign Affairs Maxime Bernier resigns after admitting to having left confidential documents unsecured in a private home. ](/news/2008/05/26/embattled-canadian-minister-of-foreign-affairs-maxime-bernier-resigns-after-admitting-to-having-left-confidential-documents-unsecured-in-a.md)
-_Context: Canadian counterpart, Maxime Bernier, Canadian_
+_Context: Canadian, Maxime Bernier, Canadian counterpart_
 
 ##### Bharatiya Janata Party
 ### [ The BJP wins a plurality in elections in the Indian state of Karnataka. ](/news/2008/05/26/the-bjp-wins-a-plurality-in-elections-in-the-indian-state-of-karnataka.md)
-_Context: Bharatiya Janata Party, Karnataka, elections_
+_Context: elections, Bharatiya Janata Party, Karnataka_
 
-##### government
+##### Government
 ### [ The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. ](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-establish-a-truth-commission-to-deal-with-past-corruption-by-politicians.md)
-_Context: truth/reconciliation commission, government, corruption_
+_Context: corruption, government, truth/reconciliation commission_
 
 ##### European Beaver
 ### [ The European Beaver will be reintroduced to Scotland after 400 years. ](/news/2008/05/26/the-european-beaver-will-be-reintroduced-to-scotland-after-400-years.md)
-_Context: reintroduced, European Beaver, Scotland_
+_Context: reintroduced, Scotland, European Beaver_
 
 ## [Previous Day...](/news/2008/05/25/index.md)
 

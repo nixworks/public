@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/25/activist-hu-jia-is-released-after-serving-three
 
 ### [2011-06-25](/news/2011/06/25/index.md)
 
-##### activist Hu Jia
+##### Activist Hu Jia
 # Activist Hu Jia is released after serving three and a half years in jail for criticising human rights conditions in China. 
 
 Hu was imprisoned for criticising human rights conditions in China ahead of the 2008 Beijing Olympic Games.

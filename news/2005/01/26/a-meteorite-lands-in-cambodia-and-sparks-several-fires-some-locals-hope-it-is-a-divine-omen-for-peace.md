@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/26/a-meteorite-lands-in-cambodia-and-sparks-severa
 
 ### [2005-01-26](/news/2005/01/26/index.md)
 
-##### meteorite
+##### Meteorite
 #  A meteorite lands in Cambodia and sparks several fires. Some locals hope it is a divine omen for peace 
 
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.

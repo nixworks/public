@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/28/exposure-to-toxic-chemicals-at-a-paper-mill-in-
 
 ### [2015-08-28](/news/2015/08/28/index.md)
 
-##### paper mill
+##### Paper mill
 # Exposure to toxic chemicals at a paper mill in central China kills seven people are and injures two others. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/8/a-massive-fire-engulfs-a-warehouse-holding-5-600
 
 ### [2014-02-8](/news/2014/02/8/index.md)
 
-##### fire
+##### Fire
 # A massive fire engulfs a warehouse holding 5,600 tons of rubber tires in Savannah, Georgia, United States. 
 
 

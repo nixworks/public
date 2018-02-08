@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/16/a-computer-virus-capable-of-infecting-cellphone
 
 ### [2004-06-16](/news/2004/06/16/index.md)
 
-##### computer virus
+##### Computer virus
 #  A computer virus capable of infecting cellphones running the Symbian OS with Bluetooth capabilities, "Cabir", has been developed by software experts. 
 
 

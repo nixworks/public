@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/22/the-discovery-of-the-ceratopsids-species-kosmoc
 
 ### [2010-09-22](/news/2010/09/22/index.md)
 
-##### ceratopsid
+##### Ceratopsid
 # The discovery of the ceratopsids species "Kosmoceratops richardsoni" and "Utahceratops gettyi" in Utah is announced. [http:--news.nationalgeographic.com-news-2010-09-100922-new-species-dinosaurs-horned-utah-fossils-science- ("National Geographic")] 10.1371-journal.pone.0012292 ("PLoS")
 
 

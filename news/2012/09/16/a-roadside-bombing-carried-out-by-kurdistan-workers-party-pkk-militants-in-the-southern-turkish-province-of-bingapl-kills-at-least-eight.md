@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/16/a-roadside-bombing-carried-out-by-kurdistan-wor
 
 ### [2012-09-16](/news/2012/09/16/index.md)
 
-##### roadside bombing
+##### Roadside bombing
 # A roadside bombing carried out by Kurdistan Workers' Party (PKK) militants in the southern Turkish province of Bingol kills at least eight police officers. 
 
 A roadside bomb has killed eight Turkish police officers in southern Turkey in an attack which security officials blame on Kurdish PKK rebels.

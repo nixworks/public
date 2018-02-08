@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/21/an-explosion-occurs-inside-the-yale-university-
 
 ### [2003-05-21](/news/2003/05/21/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion occurs inside the Yale University's Sterling Law School Building in New Haven, Connecticut, damaging two rooms. Investigators from the Joint Terrorism Task Force respond. No injuries reported. Authorities strongly believe the explosion was caused by a pipe bomb.
 
 

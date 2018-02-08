@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/29/tornadoes-hit-the-midwestern-united-states-with
 
 ### [2012-02-29](/news/2012/02/29/index.md)
 
-##### tornado
+##### Tornado
 # Tornadoes hit the midwestern United States with twelve people killed, six in Harrisburg, Illinois. 
 
 Twelve people die and dozens are injured as a storm hits the US Midwest, bringing devastation to parts of Illinois, Missouri, Tennessee and Kansas.

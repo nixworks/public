@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/22/a-petition-about-pardoning-former-u-s-national-
 
 ### [2013-06-22](/news/2013/06/22/index.md)
 
-##### pardoning
+##### Pardoning
 # A petition about pardoning former U.S. National Security Agency contractor Edward Snowden reaches 100,000 signatures. 
 
 

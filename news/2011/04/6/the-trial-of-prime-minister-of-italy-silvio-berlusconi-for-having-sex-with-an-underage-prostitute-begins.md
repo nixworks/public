@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berl
 
 ### [2011-04-6](/news/2011/04/6/index.md)
 
-##### found guilty
+##### Found guilty
 # The trial of Prime Minister of Italy Silvio Berlusconi for having sex with an underage prostitute begins. 
 
 

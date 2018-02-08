@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/7/dozens-of-tornadoes-spawned-by-thunderstorms-tou
 
 ### [2017-03-7](/news/2017/03/7/index.md)
 
-##### thunderstorm
+##### Thunderstorm
 # Dozens of tornadoes spawned by thunderstorms touch down in the American Midwest, damaging or destroying numerous homes and businesses and causing some injuries. The Johnson County Executive Airport in Olathe, Kansas is closed following heavy damage caused by the severe weather. 
 
 The Midwest was slammed with 29 reported tornadoes Monday, according to the National Weather Service Storm Prediction Center, leaving a trail of damaged homes and displaced and injured residents. Missouri, Illinois, and Kansas were among the states hit. &quot;These 29 reported tornadoes occurred...

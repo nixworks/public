@@ -17,7 +17,7 @@ French and Malian troops seize the key Malian towns of Diabaly and Douentza from
 
 ##### Nigeria
 ### [Gunmen seize a Nigerian-owned, Panama-flagged tanker with crew off the coast of Abidjan in the Ivory Coast. ](/news/2013/01/21/gunmen-seize-a-nigerian-owned-panama-flagged-tanker-with-crew-off-the-coast-of-abidjan-in-the-ivory-coast.md)
-_Context: Nigeria, Ivory Coast, Panama, Abidjan_
+_Context: Abidjan, Nigeria, Ivory Coast, Panama_
 
 ##### Algeria
 ### [Algeria confirms that 37 foreign hostages were killed in the hostage crisis, and names the nationalities of the militants. ](/news/2013/01/21/algeria-confirms-that-37-foreign-hostages-were-killed-in-the-hostage-crisis-and-names-the-nationalities-of-the-militants.md)
@@ -37,17 +37,17 @@ Dozens of people are injured in a head-on collision between two commuter trains 
 
 ##### Brazil
 ### [In Brazil, a helicopter crashes in So Paulo's north zone, leaving one pilot dead and four more people injured. ](/news/2013/01/21/in-brazil-a-helicopter-crashes-in-sao-paulo-s-north-zone-leaving-one-pilot-dead-and-four-more-people-injured.md)
-_Context: Brazil, So Paulo_
+_Context: So Paulo, Brazil_
 
 ##### Chitungwiza
 ### [Five people are killed in an explosion at a healer's home in Chitungwiza, Zimbabwe, causing hundreds to flee and nearby building damage. ](/news/2013/01/21/five-people-are-killed-in-an-explosion-at-a-healer-s-home-in-chitungwiza-zimbabwe-causing-hundreds-to-flee-and-nearby-building-damage.md)
-_Context: Zimbabwe, Chitungwiza_
+_Context: Chitungwiza, Zimbabwe_
 
-##### bus
+##### Bus
 ### [A passenger bus veers off the Yungas Road and plunges from a height of 300 meters into a ravine in the Yungas region of Bolivia, killing 18 people and injuring 24 others. ](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-plunges-from-a-height-of-300-meters-into-a-ravine-in-the-yungas-region-of-bolivia-killing-18.md)
-_Context: bus, Bolivia, Yungas Road, Yungas_
+_Context: Yungas Road, Yungas, bus, Bolivia_
 
-##### magnitude
+##### Magnitude
 ### [A 14-year-old girl is killed and 15 people are injured in a 5.9-magnitude earthquake in Indonesia. ](/news/2013/01/21/a-14-year-old-girl-is-killed-and-15-people-are-injured-in-a-5-9-magnitude-earthquake-in-indonesia.md)
 A strong 5.9-magnitude earthquake has struck off Indonesia&#039;s Aceh province, killing an eight-year-old girl and injuring seven others.
 
@@ -55,7 +55,7 @@ A strong 5.9-magnitude earthquake has struck off Indonesia&#039;s Aceh province,
 ### [An Irishman, who pleads guilty in court to repeatedly raping his daughter as a child, is released on bail with a suspended sentence. His daughter, who says she was raped "as frequently as having dinner", is said to be devastated. ](/news/2013/01/21/an-irishman-who-pleads-guilty-in-court-to-repeatedly-raping-his-daughter-as-a-child-is-released-on-bail-with-a-suspended-sentence-his-dau.md)
 _Context: Irishman_
 
-##### war crimes
+##### War crimes
 ### [A war crimes tribunal trying those accused of crimes during the 1971 Bangladesh Liberation War sentences Abul Kalam Azad (Bachchu Razakar) to death. ](/news/2013/01/21/a-war-crimes-tribunal-trying-those-accused-of-crimes-during-the-1971-bangladesh-liberation-war-sentences-abul-kalam-azad-bachchu-razakar-t.md)
 The war crimes tribunal trying those accused of committing atrocities during the Bangladesh liberation war in 1971 pronounced its first verdict on Monday, awarding death sentence to a former Jamaat-e-
 
@@ -69,7 +69,7 @@ After months of discussions, eurozone finance ministers eventually found a succe
 
 ##### Orwell Day
 ### [The inaugural Orwell Day gets underway, to be followed by a month-long Orwell season on BBC Radio 4, while "Politics and the English Language" is to be given away "en masse". ](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.md)
-_Context: Politics and the English Language, BBC Radio 4, Orwell Day, en masse_
+_Context: BBC Radio 4, en masse, Politics and the English Language, Orwell Day_
 
 ##### NASA
 ### [NASA's Kepler space telescope is placed in a precautionary 10-day safe mode after engineers noticed a problem with the instrument's orientation mechanism. ](/news/2013/01/21/nasa-s-kepler-space-telescope-is-placed-in-a-precautionary-10-day-safe-mode-after-engineers-noticed-a-problem-with-the-instrument-s-orientat.md)

@@ -17,9 +17,9 @@ Elizabeth, aged 89, surpasses the 63 years her great-great-grandmother Queen Vic
 
 ##### German
 ### [A German court issues an injunction ordering a halt to a Lufthansa airline pilots' strike. Earlier, Germany's biggest airline announced it had canceled 1,000 flights while about 500 would still operate. ](/news/2015/09/9/a-german-court-issues-an-injunction-ordering-a-halt-to-a-lufthansa-airline-pilots-strike-earlier-germany-s-biggest-airline-announced-it-h.md)
-_Context: German, Lufthansa_
+_Context: Lufthansa, German_
 
-##### refugees from Syria
+##### Refugees from Syria
 ### [Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. ](/news/2015/09/9/australia-announces-that-it-will-accept-an-additional-12-000-syrian-migrants-mostly-from-persecuted-minorities.md)
 The Coalition party room agrees to accept 12,000 refugees from persecuted minorities and provide an extra $44 million in financial aid.
 

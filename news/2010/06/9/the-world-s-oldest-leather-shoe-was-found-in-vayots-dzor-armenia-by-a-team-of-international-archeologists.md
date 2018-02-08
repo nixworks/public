@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/9/the-world-s-oldest-leather-shoe-was-found-in-vay
 
 ### [2010-06-9](/news/2010/06/9/index.md)
 
-##### world's oldest leather shoe
+##### World's oldest leather shoe
 # The world's oldest leather shoe was found in Vayots Dzor, Armenia by a team of international archeologists. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/9/calling-for-the-abolition-of-death-penalty-the-d
 
 ### [2005-04-9](/news/2005/04/9/index.md)
 
-##### sentenced to death
+##### Sentenced to death
 #  Calling for the abolition of death penalty, the Dalai Lama, currently on a visit to Japan, says criminals must be treated with compassion and made to feel part of the society. 
 
 

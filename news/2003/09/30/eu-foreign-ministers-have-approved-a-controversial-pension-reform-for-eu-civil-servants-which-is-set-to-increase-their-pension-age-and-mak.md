@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/30/eu-foreign-ministers-have-approved-a-controvers
 
 ### [2003-09-30](/news/2003/09/30/index.md)
 
-##### foreign minister
+##### Foreign minister
 #  EU foreign ministers have approved a controversial pension reform for EU civil servants, which is set to increase their pension age and make the new entrants work more years to receive the maximum level of pension.
 
 

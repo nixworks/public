@@ -15,13 +15,13 @@ At least 32 people were killed on Saturday when Egyptians rampaged in protest at
 ### [French-led troops in Mali take control of Gao International Airport in the northern town and Islamist stronghold of Gao. ](/news/2013/01/26/french-led-troops-in-mali-take-control-of-gao-international-airport-in-the-northern-town-and-islamist-stronghold-of-gao.md)
 French-led troops in Mali have taken control of the northern Islamist stronghold of Gao, the French defence ministry says.
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. ](/news/2013/01/26/a-suicide-bombing-at-a-market-in-the-afghan-city-of-kunduz-kills-at-least-ten-people-and-wounds-up-to-twenty-others.md)
 At least 10 people have been killed and many injured in a suicide attack in a busy market in the north-eastern city of Kunduz, officials say.
 
 ##### Australia
 ### [Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.md)
-_Context: Gladstone, Boyne River, Australia_
+_Context: Australia, Boyne River, Gladstone_
 
 ##### Colombia
 ### [20 musicians from the band, Kombo Kolombia, who play Colombian vallenato music, are missing after playing a gig in Hidalgo, Mexico. ](/news/2013/01/26/20-musicians-from-the-band-kombo-kolombia-who-play-colombian-vallenato-music-are-missing-after-playing-a-gig-in-hidalgo-mexico.md)
@@ -33,7 +33,7 @@ An Egyptian court sentences 21 people to death over 2012 clashes between footbal
 
 ##### Hacktivist
 ### [Hacktivist group Anonymous claims credit for the hacking of the website of the United States Sentencing Commission in response to the suicide of Aaron Swartz. ](/news/2013/01/26/hacktivist-group-anonymous-claims-credit-for-the-hacking-of-the-website-of-the-united-states-sentencing-commission-in-response-to-the-suicid.md)
-_Context: Hacktivist, Aaron Swartz, United States Sentencing Commission, hacker group Anonymous_
+_Context: Hacktivist, hacker group Anonymous, Aaron Swartz, United States Sentencing Commission_
 
 ##### Milos Zeman
 ### [Milos Zeman wins Czech presidential election and becomes the next President of the Czech Republic running ahead of Karel Schwarzenberg. ](/news/2013/01/26/miloa-zeman-wins-czech-presidential-election-and-becomes-the-next-president-of-the-czech-republic-running-ahead-of-karel-schwarzenberg.md)

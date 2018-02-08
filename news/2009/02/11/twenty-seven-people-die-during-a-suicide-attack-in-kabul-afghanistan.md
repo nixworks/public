@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/11/twenty-seven-people-die-during-a-suicide-attack
 
 ### [2009-02-11](/news/2009/02/11/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Twenty-seven people die during a suicide attack in Kabul, Afghanistan. 
 
 

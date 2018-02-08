@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/29/drone-attacks-in-pakistan-pakistani-intelligenc
 
 ### [2013-05-29](/news/2013/05/29/index.md)
 
-##### drones launch
+##### Drones launch
 # Drone attacks in Pakistan: Pakistani intelligence officials claim that a US drone attack has killed 5 alleged foreign militants, including Tehrik-i-Taliban Pakistan commander Wali-ur-Rehman, in the North Waziristan town of Miran Shah. 
 
 A suspected American strike early Wednesday killed Wali ur-Rehman, the deputy leader, two Pakistani officials said, dealing a potentially serious blow to the insurgency.

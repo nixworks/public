@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/22/in-an-incident-similar-to-the-one-that-occurred
 
 ### [2008-07-22](/news/2008/07/22/index.md)
 
-##### the one that occurred on July 2
+##### The one that occurred on July 2
 #  In an incident similar to the one that occurred on July 2, a Palestinian man drives a backhoe into two vehicles in Jerusalem, injuring 16, before being shot dead. 
 
 

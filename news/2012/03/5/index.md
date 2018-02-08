@@ -7,17 +7,17 @@ Formats: [HTML](2012/03/5/index.html)  [JSON](2012/03/5/index.json)  [XML](2012/
 ### [Refugees fleeing Homs in Syria accuse security forces of committing atrocities there. ](/news/2012/03/5/refugees-fleeing-homs-in-syria-accuse-security-forces-of-committing-atrocities-there.md)
 People fleeing Homs tell a BBC correspondent outside the Syrian city that security forces are committing atrocities, including summary executions.
 
-##### a shooting in a hair salon
+##### A shooting in a hair salon
 ### [At least 2 people are killed and 6 injured after a shooting in a hair salon in Bucharest, Romania. ](/news/2012/03/5/at-least-2-people-are-killed-and-6-injured-after-a-shooting-in-a-hair-salon-in-bucharest-romania.md)
 A gunman opened fire Monday in a hair salon in the Romanian capital, killing two people and wounding six, officials said. The suspected shooter was identified as an ambulance driver who was married to one of the women killed.
 
 ##### Iraqi police
 ### [Gunmen disguised as police kill 27 members of Iraq's security forces in the town of Haditha. ](/news/2012/03/5/gunmen-disguised-as-police-kill-27-members-of-iraq-s-security-forces-in-the-town-of-haditha.md)
-_Context: Iraqi police, Haditha, Iraq_
+_Context: Iraqi police, Iraq, Haditha_
 
-##### battle
+##### Battle
 ### [The death toll in a battle between the Yemeni Army and Al-Qaeda on the outskirts of Zinjibar yesterday rises to over 130. ](/news/2012/03/5/the-death-toll-in-a-battle-between-the-yemeni-army-and-al-qaeda-on-the-outskirts-of-zinjibar-yesterday-rises-to-over-130.md)
-_Context: battle, Yemeni Army, al-Qaeda, Zinjibar_
+_Context: battle, Zinjibar, Yemeni Army, al-Qaeda_
 
 ##### Burundi
 ### [A soldier from Burundi is killed in an explosion in northern Mogadishu, Somalia. ](/news/2012/03/5/a-soldier-from-burundi-is-killed-in-an-explosion-in-northern-mogadishu-somalia.md)
@@ -41,13 +41,13 @@ Israeli PM Benjamin Netanyahu tells US President Barack Obama that Israel must a
 
 ##### Felipe Calderon
 ### [Felipe Calderon, the President of Mexico, asks Joe Biden, the vice-President of the United States for assistance in stopping the flow of money and weapons into Mexico. ](/news/2012/03/5/felipe-caldera3n-the-president-of-mexico-asks-joe-biden-the-vice-president-of-the-united-states-for-assistance-in-stopping-the-flow-of-mo.md)
-_Context: Joe Biden, Felipe Calderon, vice-President of the United States, President_
+_Context: Felipe Calderon, President, Joe Biden, vice-President of the United States_
 
 ##### Sea Shepherd
 ### [The Sea Shepherd anti-whaling organisation claims to have closed down Japan's main whaling ship, the "Nisshin Maru", deep inside the Southern Ocean off the Antarctic coast. ](/news/2012/03/5/the-sea-shepherd-anti-whaling-organisation-claims-to-have-closed-down-japan-s-main-whaling-ship-the-nisshin-maru-deep-inside-the-souther.md)
 After a marathon pursuit, Sea Shepherd says it has found and shut down Japan&#039;s key whaling factory ship, Nisshin Maru, deep inside Australian Antarctic waters.
 
-##### extradition
+##### Extradition
 ### [The United States files an application in New Zealand to extradite Kim Dotcom and three of his associates in MegaUpload to face charges of breaching copyright. ](/news/2012/03/5/the-united-states-files-an-application-in-new-zealand-to-extradite-kim-dotcom-and-three-of-his-associates-in-megaupload-to-face-charges-of-b.md)
 The United States Government has filed its application to have Megaupload founder Kim Dotcom and three associates extradited to face charges of breaching copyright. - New Zealand Herald
 
@@ -57,9 +57,9 @@ The trial of former Icelandic Prime Minister Geir Haarde, on charges of negligen
 
 ##### OSCE
 ### [International observers from the Organization for Security and Co-operation in Europe find that the Russian presidential election was skewed in favour of Vladimir Putin. ](/news/2012/03/5/international-observers-from-the-organization-for-security-and-co-operation-in-europe-find-that-the-russian-presidential-election-was-skewed.md)
-_Context: Vladimir Putin, last week's election, OSCE_
+_Context: OSCE, Vladimir Putin, last week's election_
 
-##### correlation
+##### Correlation
 ### [A study finds a correlation between snoring as a toddler and behavior problems later in childhood. ](/news/2012/03/5/a-study-finds-a-correlation-between-snoring-as-a-toddler-and-behavior-problems-later-in-childhood.md)
 Children who snore, or who have other night-time breathing conditions are at risk from behavioural problems, a study of 11,000 UK children suggests.
 

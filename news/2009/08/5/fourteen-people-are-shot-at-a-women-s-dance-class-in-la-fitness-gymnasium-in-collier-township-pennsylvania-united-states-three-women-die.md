@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-clas
 
 ### [2009-08-5](/news/2009/08/5/index.md)
 
-##### shot
+##### Shot
 #  Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. 
 
 

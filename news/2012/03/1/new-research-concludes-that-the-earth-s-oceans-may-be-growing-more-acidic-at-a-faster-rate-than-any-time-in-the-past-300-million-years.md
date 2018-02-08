@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/1/new-research-concludes-that-the-earth-s-oceans-m
 
 ### [2012-03-1](/news/2012/03/1/index.md)
 
-##### ocean
+##### Ocean
 # New research concludes that the Earth's oceans may be growing more acidic at a faster rate than any time in the past 300 million years. 
 
 The world&#39;s oceans are turning acidic at what could be the fastest pace of any time in the past 300 million years, scientists said on Thursday.

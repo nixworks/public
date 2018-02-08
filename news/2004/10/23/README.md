@@ -5,23 +5,23 @@ Formats: [HTML](2004/10/23/index.html)  [JSON](2004/10/23/index.json)  [XML](200
 
 ##### Tensions
 ### [ Political Crisis in French Polynesia continues with the fall of the government of Oscar Temaru and doubts cast on the legitimacy of the re-election of Gaston Flosse as President of French Polynesia. ](/news/2004/10/23/political-crisis-in-french-polynesia-continues-with-the-fall-of-the-government-of-oscar-temaru-and-doubts-cast-on-the-legitimacy-of-the-re.md)
-_Context: Gaston Flosse, Oscar Temaru, French Polynesia, Tensions_
+_Context: French Polynesia, Tensions, Gaston Flosse, Oscar Temaru_
 
 ##### Abdullahi Yusuf Ahmed
 ### [ Abdullahi Yusuf Ahmed, Somalia's new president, requests 20,000 African Union troops to help secure the country. ](/news/2004/10/23/abdullahi-yusuf-ahmed-somalia-s-new-president-requests-20-000-african-union-troops-to-help-secure-the-country.md)
-_Context: African Union, Somalia, President, Abdullahi Yusuf Ahmed_
+_Context: African Union, Somalia, Abdullahi Yusuf Ahmed, President_
 
 ##### United States Navy
 ### [ The United States Navy commissions the USS "Virginia", the lead ship of the Virginia class. ](/news/2004/10/23/the-united-states-navy-commissions-the-uss-virginia-the-lead-ship-of-the-virginia-class.md)
-_Context: United States Navy, lead ship, Virginia class, USS ''Virginia''_
+_Context: USS ''Virginia'', Virginia class, United States Navy, lead ship_
 
 ##### Prosecutor
 ### [ Prosecutors in France file charges against former Chilean leader Augusto Pinochet for the disappearance and torture of four French citizens in the 1970s. ](/news/2004/10/23/prosecutors-in-france-file-charges-against-former-chilean-leader-augusto-pinochet-for-the-disappearance-and-torture-of-four-french-citizens.md)
-_Context: Augusto Pinochet, citizen, Chile, Prosecutor, torture_
+_Context: citizen, Prosecutor, Augusto Pinochet, torture, Chile_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: A suicide car bomb kills 16 and wounds 40 at a police training base in Ramadi west of Baghdad. A separate car bomb kills four Iraqi National Guard soldiers at a check point in Samarra. Two die and four are injured in U.S. air strikes on Falluja. In Mosul, two Turkish drivers are killed and two wounded when their convoy is attacked. Mortars land in central Baghdad killing two civilians. The U.S. military say they have captured a senior official of al-Zarqawi's militant organization. ](/news/2004/10/23/conflict-in-iraq-a-suicide-car-bomb-kills-16-and-wounds-40-at-a-police-training-base-in-ramadi-west-of-baghdad-a-separate-car-bomb-kills.md)
-_Context: car bomb, al-Zarqawi, Samarra, Iraqi National Guard, Ramadi, Falluja, Mosul, Mortar, Baghdad, Conflict in Iraq_
+_Context: car bomb, Samarra, Mortar, Iraqi National Guard, Falluja, Mosul, Ramadi, al-Zarqawi, Baghdad, Conflict in Iraq_
 
 ## [Previous Day...](/news/2004/10/22/index.md)
 

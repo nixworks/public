@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/17/incumbent-parties-lose-two-of-three-by-election
 
 ### [2007-09-17](/news/2007/09/17/index.md)
 
-##### by-election
+##### By-election
 #  Incumbent parties lose two of three by-elections in Canadian federal parliamentary ridings in Quebec. Thomas Mulcair takes the Liberal stronghold of Outremont, bringing the New Democratic Party its second-ever victory in Quebec. Conservative Denis Lebel takes the Bloc-held riding of Roberval--Lac-Saint-Jean, while Eve-Mary Thai Thi Lac holds Saint-Hyacinthe--Bagot for the Bloc Quebecois. 
 
 

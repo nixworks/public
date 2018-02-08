@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/25/a-school-bus-collides-with-a-train-in-cape-town
 
 ### [2010-08-25](/news/2010/08/25/index.md)
 
-##### school bus
+##### School bus
 # A school bus collides with a train in Cape Town, South Africa, killing at least nine pupils and injuring five others. 
 
 

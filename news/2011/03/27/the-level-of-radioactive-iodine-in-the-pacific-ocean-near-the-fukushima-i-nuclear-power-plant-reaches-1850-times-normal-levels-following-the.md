@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/27/the-level-of-radioactive-iodine-in-the-pacific-
 
 ### [2011-03-27](/news/2011/03/27/index.md)
 
-##### radioactive iodine
+##### Radioactive iodine
 # The level of radioactive iodine in the Pacific Ocean near the Fukushima I Nuclear Power Plant reaches 1850 times normal levels following the recent accidents. 
 
 

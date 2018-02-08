@@ -5,13 +5,13 @@ Formats: [HTML](2014/08/26/index.html)  [JSON](2014/08/26/index.json)  [XML](201
 
 ##### Russia
 ### [Russia says that the 10 armed Russian paratroopers captured during the night in the village of Dzerkalne, Donetsk Oblast, roughly 20 kilometers from the Russian border, only entered Ukraine by "mistake". ](/news/2014/08/26/russia-says-that-the-10-armed-russian-paratroopers-captured-during-the-night-in-the-village-of-dzerkalne-donetsk-oblast-roughly-20-kilomet.md)
-_Context: Dzerkalne, Russia, Ukraine, Donetsk Oblast_
+_Context: Russia, Dzerkalne, Donetsk Oblast, Ukraine_
 
 ##### Gaza Strip
 ### [On the 50th day of the conflict, an internationally supported long-term truce is reached where the borders of Gaza, Egypt, and Israel are opened for humanitarian and reconstruction supplies and the Gaza fishing zone is extended to 6 km. Other issues such as an airport-seaport and the Israeli demand for demilitarization will be negotiated within a month. ](/news/2014/08/26/on-the-50th-day-of-the-conflict-an-internationally-supported-long-term-truce-is-reached-where-the-borders-of-gaza-egypt-and-israel-are-op.md)
 Four others injured; sides agree to open Gaza crossings for aid and building supplies; Hamas claims &#8216;victory&#8217;; Abbas announces truce in Ramallah, later confirmed by Jerusalem; 12 Gazans said killed in strikes
 
-##### car bomb
+##### Car bomb
 ### [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md)
 _Context: car bomb, Shi'ite, Baghdad_
 
@@ -21,21 +21,21 @@ Taiwan said on Tuesday it had scrambled jets to intercept two Chinese military a
 
 ##### Kate Bush
 ### [British singer Kate Bush stages a comeback concert at London's Hammersmith Apollo, her first live performance since 1979. ](/news/2014/08/26/british-singer-kate-bush-stages-a-comeback-concert-at-london-s-hammersmith-apollo-her-first-live-performance-since-1979.md)
-_Context: Kate Bush, London, Hammersmith Apollo_
+_Context: Hammersmith Apollo, Kate Bush, London_
 
 ##### Fast food
 ### [Fast food giant Burger King agrees to acquire Canadian coffee giant Tim Hortons for $11.4 billion and move its headquarters to Canada. ](/news/2014/08/26/fast-food-giant-burger-king-agrees-to-acquire-canadian-coffee-giant-tim-hortons-for-11-4-billion-and-move-its-headquarters-to-canada.md)
-_Context: Tim Hortons, Canadian, Canadian, Burger King, corporate tax inversions, Fast food_
+_Context: Burger King, Canadian, Tim Hortons, Canadian, Fast food, corporate tax inversions_
 
 ##### Russian President
 ### [The President of Russia Vladimir Putin meets with the President of Ukraine Petro Poroshenko in Minsk, Belarus, as disputes in eastern Ukraine continue. ](/news/2014/08/26/the-president-of-russia-vladimir-putin-meets-with-the-president-of-ukraine-petro-poroshenko-in-minsk-belarus-as-disputes-in-eastern-ukrain.md)
-_Context: Minsk, Vladimir Putin, Ukrainian President, Belarus, Ukraine, Russian President, Petro Poroshenko_
+_Context: Ukraine, Minsk, Russian President, Petro Poroshenko, Ukrainian President, Belarus, Vladimir Putin_
 
 ##### Brazil
 ### [At least 5 people die in a prison riot in the Brazilian city of Cascavel. ](/news/2014/08/26/at-least-5-people-die-in-a-prison-riot-in-the-brazilian-city-of-cascavel.md)
 Officials in Brazil say a prison riot in which at least five inmates were killed has ended and the prisoners have been transferred to other jails.
 
-##### impeachment
+##### Impeachment
 ### [Three impeachment complaints against Philippines President Benigno Aquino III are deemed by the Philippine House of Representatives as "sufficient in form", paving the way for possible legal proceedings against him. ](/news/2014/08/26/three-impeachment-complaints-against-philippines-president-benigno-aquino-iii-are-deemed-by-the-philippine-house-of-representatives-as-suff.md)
 The House of Representatives Committee on Justice on Tuesday declared the three impeachment complaints filed against President Benigno Aquino III to be sufficient in form. 
 
@@ -49,11 +49,11 @@ China’s anti-graft watchdog said it’s investigating two top officials in the
 
 ##### Klaus Wowereit
 ### [Klaus Wowereit makes it official that he will resign as the mayor of Berlin on 11 December, after having held the post for nearly 14 years, making him Germany's current longest-serving head of a state government. ](/news/2014/08/26/klaus-wowereit-makes-it-official-that-he-will-resign-as-the-mayor-of-berlin-on-11-december-after-having-held-the-post-for-nearly-14-years.md)
-_Context: mayor of Berlin, Klaus Wowereit, German_
+_Context: Klaus Wowereit, mayor of Berlin, German_
 
 ##### Michael Spindelegger
 ### [Michael Spindelegger resigns as vice-chancellor and finance minister of Austria; as leader of the Austrian People's Party, he is replaced by Reinhold Mitterlehner. ](/news/2014/08/26/michael-spindelegger-resigns-as-vice-chancellor-and-finance-minister-of-austria-as-leader-of-the-austrian-people-s-party-he-is-replaced-by.md)
-_Context: Reinhold Mitterlehner, vice-chancellor, Austria, Michael Spindelegger, finance minister, Austrian People's Party_
+_Context: Michael Spindelegger, Austria, finance minister, Reinhold Mitterlehner, vice-chancellor, Austrian People's Party_
 
 ## [Previous Day...](/news/2014/08/25/index.md)
 

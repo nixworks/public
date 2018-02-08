@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/25/polish-minister-of-national-defence-radek-sikor
 
 ### [2005-11-25](/news/2005/11/25/index.md)
 
-##### defence
+##### Defence
 #  Polish Minister of National Defence Radek Sikorski opens Warsaw Pact archives to historians. Maps of possible nuclear strikes against Western Europe, as well as the possible nuclear annihilation of 43 Polish cities and 2 million of its citizens by Soviet-controlled forces, are released. 
 
 

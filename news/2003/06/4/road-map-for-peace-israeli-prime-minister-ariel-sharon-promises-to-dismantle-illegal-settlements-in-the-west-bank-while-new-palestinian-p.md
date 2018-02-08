@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/4/road-map-for-peace-israeli-prime-minister-ariel-
 
 ### [2003-06-4](/news/2003/06/4/index.md)
 
-##### road map peace plan
+##### Road map peace plan
 #  Road map for peace: Israeli Prime Minister Ariel Sharon promises to dismantle illegal settlements in the West Bank, while new Palestinian Prime Minister Mahmoud Abbas renounces all terrorism against Israel.
 
 

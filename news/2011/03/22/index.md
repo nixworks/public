@@ -9,7 +9,7 @@ Two US airmen are rescued in eastern Libya after their warplane crashed during a
 
 ##### Afghanistan President
 ### [The President of Afghanistan Hamid Karzai names the seven areas of Afghanistan that will pass into Afghan control from July: Kabul, Panjshir Province, Bamiyan Province, Herat, Mazar-e-Sharif, Mihtarlam and Lashkar Gah. ](/news/2011/03/22/the-president-of-afghanistan-hamid-karzai-names-the-seven-areas-of-afghanistan-that-will-pass-into-afghan-control-from-july-kabul-panjshir.md)
-_Context: Afghanistan, Panjshir Province, Lashkar Gah, Bamiyan Province, Mihtarlam, Mazar-e-Sharif, Afghanistan President, Hamid Karzai, Kabul, Herat_
+_Context: Mazar-e-Sharif, Afghanistan, Mihtarlam, Panjshir Province, Hamid Karzai, Kabul, Herat, Lashkar Gah, Bamiyan Province, Afghanistan President_
 
 ##### Egypt
 ### [The headquarters of Egypt's Ministry of Interior burns to the ground as police officers protest outside about low wages. ](/news/2011/03/22/the-headquarters-of-egypt-s-ministry-of-interior-burns-to-the-ground-as-police-officers-protest-outside-about-low-wages.md)
@@ -41,7 +41,7 @@ _Context: Chinese, Chinese Foreign Ministry spokesperson, Google, Gmail_
 
 ##### German
 ### [Germany's Federal Court of Justice rules that Deutsche Bank must compensate a customer, Ille Papier Service, for selling it an interest rate swap product without adequate disclosures. ](/news/2011/03/22/germany-s-federal-court-of-justice-rules-that-deutsche-bank-must-compensate-a-customer-ille-papier-service-for-selling-it-an-interest-rate.md)
-_Context: Federal Court of Justice, Ille Papier Service, Deutsche Bank, interest rate swap, German_
+_Context: Deutsche Bank, German, Ille Papier Service, Federal Court of Justice, interest rate swap_
 
 ##### Mozilla Foundation
 ### [The Mozilla Foundation releases Firefox 4. ](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.md)
@@ -53,11 +53,11 @@ Tokyo Electric Power will have to compensate farmers for losses caused by the nu
 
 ##### South Korea
 ### [South Korea agrees to hold talks with North Korea about a potential eruption of Baekdu Mountain near the North's border with the People's Republic of China. ](/news/2011/03/22/south-korea-agrees-to-hold-talks-with-north-korea-about-a-potential-eruption-of-baekdu-mountain-near-the-north-s-border-with-the-people-s-re.md)
-_Context: South Korea, China, Baekdu Mountain, North Korea_
+_Context: South Korea, North Korea, Baekdu Mountain, China_
 
-##### coal mine
+##### Coal mine
 ### [An explosion at the Sorange coal mine in Pakistan's Baluchistan province kills 52 people. ](/news/2011/03/22/an-explosion-at-the-sorange-coal-mine-in-pakistan-s-baluchistan-province-kills-52-people.md)
-_Context: coal mine, Pakistan, Baluchistan province_
+_Context: Baluchistan province, coal mine, Pakistan_
 
 ##### China
 ### [China denies it is disrupting access to Google's email service in the country. ](/news/2011/03/22/china-denies-it-is-disrupting-access-to-google-s-email-service-in-the-country.md)
@@ -65,7 +65,7 @@ Chinas Foreign Ministry said on Tuesday that it did not accept accusations from 
 
 ##### Nigeria
 ### [Nigeria accuses the international community of taking action in Libya while doing little to resolve the crisis in Cote d'Ivoire. ](/news/2011/03/22/nigeria-accuses-the-international-community-of-taking-action-in-libya-while-doing-little-to-resolve-the-crisis-in-ca-te-d-ivoire.md)
-_Context: Cote d'Ivoire, 2010-2011 Ivorian crisis, Libya, international community, Nigeria, taking action_
+_Context: 2010-2011 Ivorian crisis, international community, taking action, Nigeria, Cote d'Ivoire, Libya_
 
 ##### President
 ### [The former President of Israel, Moshe Katsav, is sentenced to seven years in prison, two years probation and payment of compensation to his victims on charges of rape, indecent assault, sexual harassment and obstruction of justice. Current President Shimon Peres says that "this is a sad day but everyone is equal before the law." ](/news/2011/03/22/the-former-president-of-israel-moshe-katsav-is-sentenced-to-seven-years-in-prison-two-years-probation-and-payment-of-compensation-to-his.md)
@@ -73,7 +73,7 @@ PM: Nobody is above the law, not even a former president; Livni: I have great ho
 
 ##### Syrian police
 ### [Syrian police arrest human rights activist Loay Hussein. ](/news/2011/03/22/syrian-police-arrest-human-rights-activist-loay-hussein.md)
-_Context: Syrian police, human rights_
+_Context: human rights, Syrian police_
 
 ##### Moriarty Tribunal
 ### [The Moriarty Tribunal, in investigating links between businessman Denis O'Brien and then government minister Michael Lowry, finds "beyond doubt" that Lowry assisted O'Brien in gaining a mobile phone license for Esat Digifone, and concludes that Lowry's actions were "disgraceful and insidious." ](/news/2011/03/22/the-moriarty-tribunal-in-investigating-links-between-businessman-denis-o-brien-and-then-government-minister-michael-lowry-finds-beyond-do.md)
@@ -93,15 +93,15 @@ _Context: South Dakota Governor, abortion, Dennis Daugaard, counselling_
 
 ##### Canadian House of Commons
 ### [All 3 opposition parties in the Canadian House of Commons, who together form a majority, state they will not support the 2011 federal budget, precipitating a possible election. ](/news/2011/03/22/all-3-opposition-parties-in-the-canadian-house-of-commons-who-together-form-a-majority-state-they-will-not-support-the-2011-federal-budget.md)
-_Context: Canadian House of Commons, election_
+_Context: election, Canadian House of Commons_
 
 ##### Bob Buckhorn
 ### [Bob Buckhorn is elected as the mayor of the US city of Tampa, Florida. ](/news/2011/03/22/bob-buckhorn-is-elected-as-the-mayor-of-the-us-city-of-tampa-florida.md)
-_Context: Tampa, Florida, the state, mayor, Bob Buckhorn_
+_Context: the state, Tampa, Florida, mayor, Bob Buckhorn_
 
 ##### Sly James
 ### [Sly James is elected as the Mayor of the US city of Kansas City, Missouri. ](/news/2011/03/22/sly-james-is-elected-as-the-mayor-of-the-us-city-of-kansas-city-missouri.md)
-_Context: Sly James, Kansas City, Mayor_
+_Context: Mayor, Kansas City, Sly James_
 
 ## [Previous Day...](/news/2011/03/21/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/18/9-people-are-killed-in-a-bomb-blast-at-the-mecc
 
 ### [2007-05-18](/news/2007/05/18/index.md)
 
-##### killed in a bomb blast
+##### Killed in a bomb blast
 #  9 people are killed in a bomb blast at the Mecca Masjid mosque in the Indian city of Hyderabad, Andhra Pradesh. [http:--www.rediff.com-news-2007-may-18blast.htm]
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/28/31-people-are-injured-following-the-crash-landi
 
 ### [2011-12-28](/news/2011/12/28/index.md)
 
-##### crash-landing
+##### Crash-landing
 # 31 people are injured following the crash-landing of a passenger jet at Osh Airport in southern Kyrgyzstan. 
 
 

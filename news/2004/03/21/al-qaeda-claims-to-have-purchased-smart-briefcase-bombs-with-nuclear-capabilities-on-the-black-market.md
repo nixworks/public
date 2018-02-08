@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/21/al-qaeda-claims-to-have-purchased-smart-briefca
 
 ### [2004-03-21](/news/2004/03/21/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda claims to have purchased "smart briefcase bombs" with nuclear capabilities on the black market. 
 
 

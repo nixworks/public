@@ -3,7 +3,7 @@ Formats: [HTML](2015/04/18/index.html)  [JSON](2015/04/18/index.json)  [XML](201
 
 ## [2015-04-18](/news/2015/04/18/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. ](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil-strikes-a-bank-in-the-city-of-jalalabad-in-afghanistan-killing-at-least-33-and-wounding-100.md)
 At least 33 people have been killed and more than 100 injured in a series of explosions in the eastern Afghan city of Jalalabad, according to police and local media. ISIS has claimed responsibility.
 
@@ -23,9 +23,9 @@ Italian Prime Minister Matteo Renzi has warned that thousands of Africans will c
 ### [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md)
 The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, Ohio, on Saturday night and into Sunday morning. Here were the highlights as the evening unfolded, presented in reverse chronological order. Ringo Starr: &apos;Finally I&apos;m invited and I love it&apos; Ringo Starr spe...
 
-##### gold mine
+##### Gold mine
 ### [At least 19 people are killed as a gold mine collapses in Tanzania's Msalala district. ](/news/2015/04/18/at-least-19-people-are-killed-as-a-gold-mine-collapses-in-tanzania-s-msalala-district.md)
-_Context: gold mine, Tanzania_
+_Context: Tanzania, gold mine_
 
 ##### Libya
 ### [Hundreds of people are feared dead after a boat carrying people from Libya to Italy capsizes in the Mediterranean Sea. Twenty-eight people have been rescued. ](/news/2015/04/18/hundreds-of-people-are-feared-dead-after-a-boat-carrying-people-from-libya-to-italy-capsizes-in-the-mediterranean-sea-twenty-eight-people-h.md)

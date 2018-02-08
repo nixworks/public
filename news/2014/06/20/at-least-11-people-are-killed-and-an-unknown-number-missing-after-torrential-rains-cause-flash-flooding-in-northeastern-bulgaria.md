@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/20/at-least-11-people-are-killed-and-an-unknown-nu
 
 ### [2014-06-20](/news/2014/06/20/index.md)
 
-##### flash flooding
+##### Flash flooding
 # At least 11 people are killed and an unknown number missing after torrential rains cause flash flooding in northeastern Bulgaria. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

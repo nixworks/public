@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/21/two-rockets-fired-from-gaza-strip-land-in-sdero
 
 ### [2013-03-21](/news/2013/03/21/index.md)
 
-##### rockets
+##### Rockets
 # Two rockets fired from Gaza strip land in Sderot, Israel, in violation of the ceasefire brokered after the eight-day conflict in November 2012. 
 
 

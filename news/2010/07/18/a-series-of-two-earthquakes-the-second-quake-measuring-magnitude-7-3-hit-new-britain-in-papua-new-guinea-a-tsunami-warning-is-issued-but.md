@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/18/a-series-of-two-earthquakes-the-second-quake-me
 
 ### [2010-07-18](/news/2010/07/18/index.md)
 
-##### earthquakes
+##### Earthquakes
 # A series of two earthquakes, the second quake measuring magnitude 7.3, hit New Britain in Papua New Guinea. A tsunami warning is issued but later retracted. 
 
 There are no reports of damage from two earthquakes that hit off the coast of Papua New Guinea overnight.

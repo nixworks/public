@@ -3,7 +3,7 @@ Formats: [HTML](2011/04/12/index.html)  [JSON](2011/04/12/index.json)  [XML](201
 
 ## [2011-04-12](/news/2011/04/12/index.md)
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war: Muammar Gaddafi's forces attack the eastern front line and shell the city of Misrata. ](/news/2011/04/12/2011-libyan-civil-war-muammar-gaddafi-s-forces-attack-the-eastern-front-line-and-shell-the-city-of-misrata.md)
 Moammar Gadhafi&#39;s forces fired rockets along the eastern front line and shelled the besieged city of Misrata on Tuesday as France and Britain said NATO should be doing more to pressure the Libyan regime. 
 
@@ -13,15 +13,15 @@ An unofficial Chinese church says it will continue to hold outdoor services, aft
 
 ##### Fukushima I nuclear accidents
 ### [The Government of Japan raises the crisis level of the accidents to level 7, the highest level on the international scale and equivalent to the Chernobyl disaster. ](/news/2011/04/12/the-government-of-japan-raises-the-crisis-level-of-the-accidents-to-level-7-the-highest-level-on-the-international-scale-and-equivalent-to.md)
-_Context: Japanese government, Chernobyl disaster, Fukushima I nuclear accidents_
+_Context: Fukushima I nuclear accidents, Chernobyl disaster, Japanese government_
 
-##### state of emergency
+##### State of emergency
 ### [The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. ](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following-the-2011-canterbury-earthquake-is-extended-for-another-week.md)
-_Context: New Zealand, 2011 Canterbury earthquake, state of emergency_
+_Context: state of emergency, 2011 Canterbury earthquake, New Zealand_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Prime Minister Benjamin Netanyahu mulls withdrawing IDF forces from parts of the West Bank and handing over full security control to the Palestinian Authority to demonstrate an Israeli diplomatic initiative that would block a possible "diplomatic tsunami" that could follow international recognition of a Palestinian state. ](/news/2011/04/12/israeli-prime-minister-benjamin-netanyahu-mulls-withdrawing-idf-forces-from-parts-of-the-west-bank-and-handing-over-full-security-control-to.md)
-_Context: West Bank, Palestinian Authority, Israel Defense Forces, Benjamin Netanyahu, Israeli-Palestinian conflict_
+_Context: Israel Defense Forces, Palestinian Authority, Israeli-Palestinian conflict, West Bank, Benjamin Netanyahu_
 
 ##### 
 ### [Pakistan seeks CIA reduction in the country by 25%-40% ](/news/2011/04/12/pakistan-seeks-cia-reduction-in-the-country-by-25-40.md)
@@ -41,7 +41,7 @@ Deposed former Egyptian President Hosni Mubarak is in intensive care after suffe
 
 ##### Minnesota Governor
 ### [Former Governor of Minnesota Tim Pawlenty announces that he will be seeking the 2012 Republican nomination for President of the United States. ](/news/2011/04/12/former-governor-of-minnesota-tim-pawlenty-announces-that-he-will-be-seeking-the-2012-republican-nomination-for-president-of-the-united-state.md)
-_Context: nomination, Tim Pawlenty, Minnesota Governor_
+_Context: Tim Pawlenty, Minnesota Governor, nomination_
 
 ##### Canadian
 ### [Leaders of Canada's major political parties hold an English language debate for the Canadian federal election. ](/news/2011/04/12/leaders-of-canada-s-major-political-parties-hold-an-english-language-debate-for-the-canadian-federal-election.md)
@@ -49,7 +49,7 @@ _Context: Canadian, 2011 Canadian federal election_
 
 ##### Senate
 ### [The Senate of the US state of North Carolina pardons former Governor William Woods Holden who was impeached in 1871 because of his suspension of habeas corpus in the process of battling the Ku Klux Klan terror campaign. ](/news/2011/04/12/the-senate-of-the-us-state-of-north-carolina-pardons-former-governor-william-woods-holden-who-was-impeached-in-1871-because-of-his-suspensio.md)
-_Context: Senate, Ku Klux Klan, William Woods Holden, habeas corpus, North Carolina, Governor_
+_Context: Ku Klux Klan, habeas corpus, William Woods Holden, Senate, Governor, North Carolina_
 
 ## [Previous Day...](/news/2011/04/11/index.md)
 

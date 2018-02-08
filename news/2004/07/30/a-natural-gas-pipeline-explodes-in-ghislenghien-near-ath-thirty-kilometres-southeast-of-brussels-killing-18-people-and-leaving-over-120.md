@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/30/a-natural-gas-pipeline-explodes-in-ghislenghien
 
 ### [2004-07-30](/news/2004/07/30/index.md)
 
-##### natural gas
+##### Natural gas
 #  A natural gas pipeline explodes in Ghislenghien, near Ath (thirty kilometres southeast of Brussels), killing 18 people and leaving over 120 wounded, some critically. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/3/searchers-find-the-second-flight-recorder-from-a
 
 ### [2011-05-3](/news/2011/05/3/index.md)
 
-##### flight recorder
+##### Flight recorder
 # Searchers find the second flight recorder from Air France Flight 447 that crashed into the Atlantic Ocean on June 1, 2009. 
 
 

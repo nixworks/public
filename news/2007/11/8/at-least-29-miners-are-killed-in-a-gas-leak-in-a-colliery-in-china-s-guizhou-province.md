@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/8/at-least-29-miners-are-killed-in-a-gas-leak-in-a
 
 ### [2007-11-8](/news/2007/11/8/index.md)
 
-##### miner
+##### Miner
 #  At least 29 miners are killed in a gas leak in a colliery in China's Guizhou province. 
 
 

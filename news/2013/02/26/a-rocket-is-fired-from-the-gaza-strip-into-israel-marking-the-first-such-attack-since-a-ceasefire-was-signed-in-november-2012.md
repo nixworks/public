@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/26/a-rocket-is-fired-from-the-gaza-strip-into-isra
 
 ### [2013-02-26](/news/2013/02/26/index.md)
 
-##### rocket
+##### Rocket
 # A rocket is fired from the Gaza Strip into Israel, marking the first such attack since a ceasefire was signed in November 2012. 
 
 A militant group in Gaza said the first rocket strike in more than three months was conducted in retaliation for the death of a Palestinian prisoner.

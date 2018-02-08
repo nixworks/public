@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/30/seven-people-are-killed-and-17-injured-at-a-que
 
 ### [2009-04-30](/news/2009/04/30/index.md)
 
-##### attacked
+##### Attacked
 #  Seven people are killed and 17 injured at a Queen's Day parade in Apeldoorn, Netherlands. 
 
 

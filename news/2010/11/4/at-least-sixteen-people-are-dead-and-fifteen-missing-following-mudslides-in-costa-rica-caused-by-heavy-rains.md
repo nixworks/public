@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/at-least-sixteen-people-are-dead-and-fifteen-mis
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### mudslide
+##### Mudslide
 # At least sixteen people are dead and fifteen missing following mudslides in Costa Rica caused by heavy rains. 
 
 

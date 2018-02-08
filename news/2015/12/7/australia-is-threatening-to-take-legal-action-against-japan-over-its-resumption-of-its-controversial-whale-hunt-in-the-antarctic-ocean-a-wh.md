@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/australia-is-threatening-to-take-legal-action-ag
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### whaling
+##### Whaling
 # Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. 
 
 

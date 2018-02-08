@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/21/11-beached-pilot-whales-are-refloated-using-a-c
 
 ### [2010-08-21](/news/2010/08/21/index.md)
 
-##### pilot whale
+##### Pilot whale
 # 11 beached pilot whales are refloated using a crane and body sling on New Zealand's Karikari Peninsula. 
 
 Rescuers refloated 11 beached pilot whales using a crane and body sling yesterday after a mass stranding of 58 animals on Karikari Beach in northern New Zealand.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/31/voters-in-the-us-state-of-florida-go-to-the-pol
 
 ### [2012-01-31](/news/2012/01/31/index.md)
 
-##### the state
+##### The state
 # Voters in the US state of Florida go to the polls for a Republican primary with Mitt Romney projected to win. 
 
 The latest Quinnipiac poll show former Massachusetts governor Mitt Romney surging in the final days before the Florida Republican presidential primary, report Amy Gardner, Philip Rucker and William Br...

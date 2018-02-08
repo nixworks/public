@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/7/at-least-127-people-have-died-and-1-300-missing-
 
 ### [2010-08-7](/news/2010/08/7/index.md)
 
-##### landslide
+##### Landslide
 # At least 127 people have died and 1,300 missing following landslides caused by heavy rains in China's northwestern Gansu province. 
 
 

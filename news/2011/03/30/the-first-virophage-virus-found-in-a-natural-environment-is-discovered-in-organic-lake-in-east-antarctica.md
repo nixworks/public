@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-en
 
 ### [2011-03-30](/news/2011/03/30/index.md)
 
-##### virophage
+##### Virophage
 # The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. 
 
 

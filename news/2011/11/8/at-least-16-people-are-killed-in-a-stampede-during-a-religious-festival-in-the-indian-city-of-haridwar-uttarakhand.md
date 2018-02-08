@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/8/at-least-16-people-are-killed-in-a-stampede-duri
 
 ### [2011-11-8](/news/2011/11/8/index.md)
 
-##### stampede
+##### Stampede
 # At least 16 people are killed in a stampede during a religious festival in the Indian city of Haridwar, Uttarakhand. 
 
 

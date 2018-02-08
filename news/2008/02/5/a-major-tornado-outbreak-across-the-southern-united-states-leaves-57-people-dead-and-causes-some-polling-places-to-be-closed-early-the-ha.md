@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/5/a-major-tornado-outbreak-across-the-southern-uni
 
 ### [2008-02-5](/news/2008/02/5/index.md)
 
-##### major tornado outbreak
+##### Major tornado outbreak
 #  A major tornado outbreak across the Southern United States leaves 57 people dead, and causes some polling places to be closed early. The hardest hit areas are in Alabama, Kentucky, Tennessee, Mississippi, and Arkansas including the Memphis area, northern Middle Tennessee and Jackson, Tennessee. 
 
 Local and state officials warned Wednesday that they would not tolerate a slow response from FEMA after tornadoes killed at least 55 people across the South, 31 of them in Tennessee.

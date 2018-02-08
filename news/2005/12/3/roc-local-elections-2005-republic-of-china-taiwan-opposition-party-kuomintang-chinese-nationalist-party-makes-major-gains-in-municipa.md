@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/3/roc-local-elections-2005-republic-of-china-taiwa
 
 ### [2005-12-3](/news/2005/12/3/index.md)
 
-##### recent elections
+##### Recent elections
 #  ROC local elections, 2005: Republic of China (Taiwan) opposition party Kuomintang (Chinese Nationalist Party) makes major gains in municipal elections, taking 14 of 23 mayor or county magistrate seats. Ruling Democratic Progressive Party takes six seats. People First Party and New Party each takes one seat, and an independent wins one seat. DPP chairman Su Tseng-chang resigns to take responsibility for his party's defeat. 
 
 

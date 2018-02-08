@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/25/large-scale-strikes-begin-in-andhra-pradesh-ind
 
 ### [2005-01-25](/news/2005/01/25/index.md)
 
-##### strike
+##### Strike
 #  Large scale strikes begin in Andhra Pradesh, India, in protest of the killing of Paritala Ravi, a senior leader of Telugu Desam Party assassinated two days ago. 
 
 

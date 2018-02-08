@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/8/a-series-of-bombings-over-the-three-day-shia-pil
 
 ### [2010-07-8](/news/2010/07/8/index.md)
 
-##### series of bombings
+##### Series of bombings
 # A series of bombings over the three-day Shia pilgrimage to the mausoleum of Musa Kadhim in Iraq kill at least 70 and wound 300.
 
 

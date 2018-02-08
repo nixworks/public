@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/25/in-lebanon-samir-geagea-former-maronite-militia
 
 ### [2005-07-25](/news/2005/07/25/index.md)
 
-##### Lebanon
+##### Lebanese
 #  In Lebanon, Samir Geagea, former Maronite militia chief, leaves prison 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -17,8 +17,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md) _Context: Lebanon, Samir Geagea_
-2. [ In Lebanon, the Parliament grants amnesty to the imprisoned Lebanese Forces leader Samir Geagea. Geagea was arrested since 1994. ](/news/2005/07/18/in-lebanon-the-parliament-grants-amnesty-to-the-imprisoned-lebanese-forces-leader-samir-geagea-geagea-was-arrested-since-1994.md) _Context: Lebanon, Samir Geagea_
-3. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Lebanon_
-4. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanon_
-5. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: Lebanon_
+1. [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md) _Context: Lebanese, Samir Geagea_
+2. [ In Lebanon, the Parliament grants amnesty to the imprisoned Lebanese Forces leader Samir Geagea. Geagea was arrested since 1994. ](/news/2005/07/18/in-lebanon-the-parliament-grants-amnesty-to-the-imprisoned-lebanese-forces-leader-samir-geagea-geagea-was-arrested-since-1994.md) _Context: Lebanese, Samir Geagea_
+3. [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md) _Context: Lebanese_
+4. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Lebanese_
+5. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanese_

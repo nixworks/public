@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/28/at-least-42-people-are-killed-in-a-bus-crash-in
 
 ### [2006-10-28](/news/2006/10/28/index.md)
 
-##### bus crash
+##### Bus crash
 #  At least 42 people are killed in a bus crash in Nepal. 
 
 

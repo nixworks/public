@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/28/traces-of-ricin-are-found-in-jars-of-baby-food-
 
 ### [2004-07-28](/news/2004/07/28/index.md)
 
-##### ricin
+##### Ricin
 #  Traces of ricin are found in jars of baby food in a supermarket in Irvine, California. ([http:--quote.bloomberg.com-apps-news?pid=10000103&sid=ambnYuz6DXzM&refer=us Bloomberg])
 
 

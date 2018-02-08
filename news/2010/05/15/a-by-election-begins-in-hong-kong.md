@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/15/a-by-election-begins-in-hong-kong.html)  [JSON]
 
 ### [2010-05-15](/news/2010/05/15/index.md)
 
-##### by-election
+##### By-election
 # A by-election begins in Hong Kong. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/5/one-person-is-killed-and-29-injured-in-an-escala
 
 ### [2011-07-5](/news/2011/07/5/index.md)
 
-##### escalator
+##### Escalator
 # One person is killed and 29 injured in an escalator malfunction on the Beijing Subway at Beijing Zoo Station. 
 
 

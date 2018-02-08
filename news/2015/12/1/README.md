@@ -23,7 +23,7 @@ Dozens of Yemeni Houthi fighters were killed during an assault on the border wit
 ### [U. N. attack helicopters launch strikes against positions of Allied Democratic Forces. This comes a day after a series of clashes between rebels and soldiers in a town in eastern Congo killed at least 30 people. ](/news/2015/12/1/u-n-attack-helicopters-launch-strikes-against-positions-of-allied-democratic-forces-this-comes-a-day-after-a-series-of-clashes-between-re.md)
 Kinshasa (AFP) - Fierce fighting between UN peacekeepers and Ugandan rebels raged in the restive east of the Democratic Republic of Congo on Tuesday, a day after a deadly attack by the rebel group.
 
-##### pipe bomb
+##### Pipe bomb
 ### [A pipe bomb explodes on a Bayrampasa overpass near the city's central metro station in suburban Istanbul, Turkey leaving five people injured. ](/news/2015/12/1/a-pipe-bomb-explodes-on-a-bayrampaaa-overpass-near-the-city-s-central-metro-station-in-suburban-istanbul-turkey-leaving-five-people-injure.md)
 Five hurt in explosion in industrial and residential area during evening rush hour
 
@@ -41,7 +41,7 @@ Indonesia’s National Transportation Safety Committee (NTSC) is ready to public
 
 ##### World Health Organization
 ### [The World Health Organization urges Ukraine's health ministry to declare a state of emergency due to a polio outbreak, a move meant to prompt more action from the government in Kiev. Half of Ukraine's children have not been vaccinated against polio, according to Dorit Nitzan, head of the WHO's office in Ukraine. ](/news/2015/12/1/the-world-health-organization-urges-ukraine-s-health-ministry-to-declare-a-state-of-emergency-due-to-a-polio-outbreak-a-move-meant-to-promp.md)
-_Context: health ministry, polio outbreak, Kiev, state of emergency, World Health Organization, Ukraine, vaccinated against polio_
+_Context: health ministry, Kiev, World Health Organization, vaccinated against polio, state of emergency, Ukraine, polio outbreak_
 
 ##### Legionnaires' disease
 ### [One of three people who contracted Legionnaires' disease in Hannibal, Missouri, dies, according to health officials. Hannibal is about 20 miles from Quincy, Illinois, where a Legionnaires' outbreak occurred earlier this year, contributing to 12 deaths and sickening dozens more. ](/news/2015/12/1/one-of-three-people-who-contracted-legionnaires-disease-in-hannibal-missouri-dies-according-to-health-officials-hannibal-is-about-20-mi.md)
@@ -49,7 +49,7 @@ Illinois officials admit they were caught off-guard by the wave of Legionnaires&
 
 ##### E. coli
 ### [An American E. coli scare results in the recall of hundreds of thousands of products in a dozen states and covering major supermarket chains including Walmart, Safeway and Albertsons. ](/news/2015/12/1/an-american-e-coli-scare-results-in-the-recall-of-hundreds-of-thousands-of-products-in-a-dozen-states-and-covering-major-supermarket-chains.md)
-_Context: E. coli, Albertsons, Safeway, Walmart_
+_Context: Albertsons, Safeway, E. coli, Walmart_
 
 ##### United States
 ### [The United States Centers for Disease Control announces the number of people newly diagnosed with diabetes declined in 2014 for the fifth consecutive year. Experts do not know whether efforts to prevent diabetes are finally started to work, or if the disease has simply peaked in the population. ](/news/2015/12/1/the-united-states-centers-for-disease-control-announces-the-number-of-people-newly-diagnosed-with-diabetes-declined-in-2014-for-the-fifth-co.md)
@@ -65,7 +65,7 @@ The court convicted U.S. Marine Joseph Scott Pemberton of the lesser charge of h
 
 ##### Chicago
 ### [Chicago, Illinois Mayor Rahm Emanuel asked for and received the resignation of that city's police superintendant Garry McCarthy. Emanuel spoke of the loss of the public's confidence in the city police and announced a task force on police accountability. The change comes in the wake of protests over the release of police footage showing the October 2014 shooting of Laquan McDonald. ](/news/2015/12/1/chicago-illinois-mayor-rahm-emanuel-asked-for-and-received-the-resignation-of-that-cityas-police-superintendant-garry-mccarthy-emanuel-s.md)
-_Context: Rahm Emanuel, Garry McCarthy, Chicago, Illinois, Laquan McDonald_
+_Context: Illinois, Laquan McDonald, Rahm Emanuel, Garry McCarthy, Chicago_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court rejected a request from Texas and other states for a 30-day extension to file legal briefs in support of the lawsuit to block the immigration plan. Instead, the justices accepted the Justice Department's request for a shortened eight-day extension, meaning that if the court decides to take the case, a decision would probably come by late June. The court is not expected to decide until January whether to take the case. ](/news/2015/12/1/the-u-s-supreme-court-rejected-a-request-from-texas-and-other-states-for-a-30-day-extension-to-file-legal-briefs-in-support-of-the-lawsuit.md)

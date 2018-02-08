@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/27/a-bankruptcy-court-judge-ruled-that-the-trustee
 
 ### [2011-12-27](/news/2011/12/27/index.md)
 
-##### bankruptcy
+##### Bankruptcy
 # A bankruptcy court judge ruled that the trustee liquidating MF Global, James Giddens, and his law firm, Hughes Hubbard & Reed, are sufficiently "disinterested" in the disposition of assets for Giddens to continue his work in that capacity. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syria
 
 ### [2014-07-2](/news/2014/07/2/index.md)
 
-##### chemical weapons
+##### Chemical weapons
 # A Danish ship carrying hundreds of tons of Syrian chemical weapons arrives in the Italian port of Gioia Tauro prior to a rendezvous with an American ship that will destroy the weapons at sea. 
 
 

@@ -13,7 +13,7 @@ Malian troops backed by U.N. helicopters stormed a U.N. police base in the city 
 
 ##### War in Somalia
 ### [al Shabaab militants claim to have captured the port of Merca (Marka) after African Union and Somali Armed Forces withdraw. ](/news/2016/02/5/al-shabaab-militants-claim-to-have-captured-the-port-of-merca-marka-after-african-union-and-somali-armed-forces-withdraw.md)
-_Context: Merca, Somali military, War in Somalia, Al-Shabaab, African Union_
+_Context: African Union, Merca, Al-Shabaab, Somali military, War in Somalia_
 
 ##### Libyan Civil War (2014-present)
 ### [Clashes between local tribal forces and Sudanese fighters in Libya's southeastern Cyrenaica region around the town of Kufra leaves around 30 dead. ](/news/2016/02/5/clashes-between-local-tribal-forces-and-sudanese-fighters-in-libya-s-southeastern-cyrenaica-region-around-the-town-of-kufra-leaves-around-30.md)
@@ -25,11 +25,11 @@ Argentina offered a $6.5 billion cash payment to creditors suing the country ove
 
 ##### President of Zimbabwe
 ### [The President of Zimbabwe Robert Mugabe declares a state of disaster in most rural parts of the country due to a prolonged drought. ](/news/2016/02/5/the-president-of-zimbabwe-robert-mugabe-declares-a-state-of-disaster-in-most-rural-parts-of-the-country-due-to-a-prolonged-drought.md)
-_Context: President of Zimbabwe, Robert Mugabe_
+_Context: Robert Mugabe, President of Zimbabwe_
 
 ##### Lower Manhattan
 ### [One person is killed, and two are seriously injured when a construction crane collapses in Lower Manhattan's Tribeca district. ](/news/2016/02/5/one-person-is-killed-and-two-are-seriously-injured-when-a-construction-crane-collapses-in-lower-manhattan-s-tribeca-district.md)
-_Context: Tribeca, Lower Manhattan_
+_Context: Lower Manhattan, Tribeca_
 
 ##### Japan
 ### [Japan's Sakurajima volcano erupts prompting the Japan Meteorological Agency to issue a warning not to approach it. The volcano, located in the southern Kagoshima Prefecture, is situated 50km from the Sendai Nuclear Power Plant. ](/news/2016/02/5/japan-s-sakurajima-volcano-erupts-prompting-the-japan-meteorological-agency-to-issue-a-warning-not-to-approach-it-the-volcano-located-in-t.md)
@@ -39,7 +39,7 @@ Japan’s Sakurajima volcano, situated about 50km from the Sendai nuclear statio
 ### [At least 37 people die in the Indian state of Gujarat after a passenger bus plunges off a bridge over the Purna River. ](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.md)
 At least 37 people were killed and as many injured when a Gujarat State Road Transport Corporation (GSRTC) bus fell from a river bridge in Navsari district in South Gujarat on...
 
-##### gold mine
+##### Gold mine
 ### [Three miners are missing but dozens have been rescued following a gold mine collapse in South Africa. ](/news/2016/02/5/three-miners-are-missing-but-dozens-have-been-rescued-following-a-gold-mine-collapse-in-south-africa.md)
 Scores of South African miners have been rescued and three workers missing in gold-mine collapse.
 
@@ -51,13 +51,13 @@ The Philippine Embassy in Baghdad, Iraq has identified all 13 overseas Filipino 
 ### [Three people die in Colombia after contracting the Zika virus and developing Guillain-Barre syndrome. ](/news/2016/02/5/three-people-die-in-colombia-after-contracting-the-zika-virus-and-developing-guillainabarra-c-syndrome.md)
 Colombia said Friday that three people had died after contracting the Zika virus and developing a rare nerve disorder called Guillain-Barre, the first time health officials have directly blamed the mosquito-borne disease for causing deaths
 
-##### weigh-in
+##### Weigh-in
 ### [A shooting at a boxing match weigh-in between Jamie Kavanagh and Antonio JoGBPo Bento in Dublin, Republic of Ireland, leaves one person dead and two others injured. The gunmen were reportedly dressed as police officers and armed with AK-47s. ](/news/2016/02/5/a-shooting-at-a-boxing-match-weigh-in-between-jamie-kavanagh-and-antonio-joagbpo-bento-in-dublin-republic-of-ireland-leaves-one-person-dea.md)
 A man is shot dead at a Dublin boxing weigh-in, in a suspected gangland attack by gunmen dressed as police officers and armed with AK47s.
 
 ##### Wei Hong
 ### [Wei Hong is removed as the Governor of China's Sichuan province due to perceived disloyalty to the Communist Party. ](/news/2016/02/5/wei-hong-is-removed-as-the-governor-of-china-s-sichuan-province-due-to-perceived-disloyalty-to-the-communist-party.md)
-_Context: Sichuan, China, Wei Hong, Communist Party of China_
+_Context: Sichuan, Communist Party of China, Wei Hong, China_
 
 ##### New Hampshire
 ### [White supremacists in the U.S. state of New Hampshire create a super PAC to support U.S. presidential candidate Donald Trump's presidential campaign. ](/news/2016/02/5/white-supremacists-in-the-u-s-state-of-new-hampshire-create-a-super-pac-to-support-u-s-presidential-candidate-donald-trump-s-presidential.md)

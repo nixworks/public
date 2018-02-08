@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/10/a-de-havilland-canada-dhc-3-otter-seaplane-cras
 
 ### [2010-08-10](/news/2010/08/10/index.md)
 
-##### de Havilland Canada DHC-3 Otter
+##### De Havilland Canada DHC-3 Otter
 # A de Havilland Canada DHC-3 Otter seaplane crashes near Aleknagik, Alaska, killing five people, including former U.S. Senator Ted Stevens. Former NASA Administrator Sean O'Keefe and O'Keefe's son were aboard the plane, but survived. 
 
 

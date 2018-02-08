@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/9/an-anti-police-riot-in-shenzhen-china-involving-
 
 ### [2008-11-9](/news/2008/11/9/index.md)
 
-##### anti-police riot
+##### Anti-police riot
 #  An anti-police riot in Shenzhen, China involving 400 people, takes place after a police official threw a walkie-talkie at a motorcyclist causing his death. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/30/in-tennis-australia-wins-the-davis-cup-by-three
 
 ### [2003-11-30](/news/2003/11/30/index.md)
 
-##### tennis
+##### Tennis
 #  In tennis, Australia wins the Davis Cup by three rubbers to one when Mark Philippoussis defeats Juan Carlos Ferrero of Spain in the first reverse singles match, played in Melbourne. It is the 28th time Australia has won the trophy, the most prestigious title in men's team tennis.
 
 

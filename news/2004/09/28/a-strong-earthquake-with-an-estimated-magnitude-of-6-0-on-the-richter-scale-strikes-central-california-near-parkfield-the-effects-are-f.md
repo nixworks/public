@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/28/a-strong-earthquake-with-an-estimated-magnitude
 
 ### [2004-09-28](/news/2004/09/28/index.md)
 
-##### earthquake
+##### Earthquake
 #  A strong earthquake, with an estimated magnitude of 6.0 on the Richter scale, strikes central California, near Parkfield. The effects are felt as far away as Sacramento and Santa Ana. 
 
 

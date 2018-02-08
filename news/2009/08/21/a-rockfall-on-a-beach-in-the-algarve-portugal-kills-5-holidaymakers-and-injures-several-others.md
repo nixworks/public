@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/21/a-rockfall-on-a-beach-in-the-algarve-portugal-k
 
 ### [2009-08-21](/news/2009/08/21/index.md)
 
-##### rockfall
+##### Rockfall
 #  A rockfall on a beach in the Algarve, Portugal, kills 5 holidaymakers and injures several others. 
 
 At least five holidaymakers were crushed to death when part of a cliff collapsed onto a beach in the Algarve, southern Portugal.

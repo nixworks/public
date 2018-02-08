@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/5/the-portuguese-parliament-votes-down-a-motion-to
 
 ### [2013-07-5](/news/2013/07/5/index.md)
 
-##### parliament
+##### Parliament
 # The Portuguese Parliament votes down a motion to apologize to the Government of Bolivia for not allowing the plane carrying President Evo Morales to land and fly over Portuguese national airspace.
 
 

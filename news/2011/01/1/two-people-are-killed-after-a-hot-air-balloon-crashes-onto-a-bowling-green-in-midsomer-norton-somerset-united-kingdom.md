@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/1/two-people-are-killed-after-a-hot-air-balloon-cr
 
 ### [2011-01-1](/news/2011/01/1/index.md)
 
-##### hot air balloon
+##### Hot air balloon
 # Two people are killed after a hot air balloon crashes onto a bowling green in Midsomer Norton, Somerset, United Kingdom. 
 
 Two men are killed as a hot air balloon crashes on a bowling green in Somerset.

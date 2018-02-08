@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exopla
 
 ### [2016-03-31](/news/2016/03/31/index.md)
 
-##### exoplanet
+##### Exoplanet
 # Astronomers' study reveals the surface of exoplanet 55 Cancri e has a 2500degC liquid face, constantly facing its star 55 Cancri, while the other side is relatively colder and solid. 
 
 For the first time, astronomers map a nearby &quot;super-Earth&quot; exoplanet called 55 Cancri e to find that one hemisphere is almost completely molten rock, while the other half is almost completely solid.

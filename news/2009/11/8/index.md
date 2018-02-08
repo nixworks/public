@@ -13,13 +13,13 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 
 ##### El Salvador
 ### [ El Salvador declares a state of emergency as 91 people drown from the effects of a coastal low. ](/news/2009/11/8/el-salvador-declares-a-state-of-emergency-as-91-people-drown-from-the-effects-of-a-coastal-low.md)
-_Context: El Salvador, floods and mudslides_
+_Context: floods and mudslides, El Salvador_
 
 ##### 21st summit
 ### [ The 21st summit of APEC begins in Singapore. ](/news/2009/11/8/the-21st-summit-of-apec-begins-in-singapore.md)
 _Context: 21st summit, Asia-Pacific Economic Cooperation, Singapore_
 
-##### suicide attack
+##### Suicide attack
 ### [ At least 13 people are killed and at least 35 are injured in a suicide attack in Adezai, Pakistan. ](/news/2009/11/8/at-least-13-people-are-killed-and-at-least-35-are-injured-in-a-suicide-attack-in-adezai-pakistan.md)
 Taliban ally-turned-enemy among victims of suicide attack near Peshawar in the northwest.
 
@@ -45,15 +45,15 @@ _Context: DR Congo_
 
 ##### House of Representatives
 ### [ The United States House of Representatives votes 220-215 to pass the highly debated health care reform act. ](/news/2009/11/8/the-united-states-house-of-representatives-votes-220-215-to-pass-the-highly-debated-health-care-reform-act.md)
-_Context: health care reform act, House of Representatives_
+_Context: House of Representatives, health care reform act_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Tawang, in the disputed territory of Arunachal Pradesh in northeastern India, amid objections from China. ](/news/2009/11/8/the-dalai-lama-begins-a-visit-to-tawang-in-the-disputed-territory-of-arunachal-pradesh-in-northeastern-india-amid-objections-from-china.md)
-_Context: India, Arunachal Pradesh, 14th Dalai Lama, Tawang, China_
+_Context: China, 14th Dalai Lama, India, Tawang, Arunachal Pradesh_
 
 ##### Republican
 ### [ Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. ](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.md)
-_Context: Heinz Hofschneider, Republican, Governor of the Northern Mariana Islands, runoff election, Benigno Fitial, 2009 gubernatorial election and runoff_
+_Context: Governor of the Northern Mariana Islands, Benigno Fitial, Republican, 2009 gubernatorial election and runoff, Heinz Hofschneider, runoff election_
 
 ## [Previous Day...](/news/2009/11/7/index.md)
 

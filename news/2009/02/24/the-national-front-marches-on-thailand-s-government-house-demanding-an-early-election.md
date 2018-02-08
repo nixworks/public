@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/24/the-national-front-marches-on-thailand-s-govern
 
 ### [2009-02-24](/news/2009/02/24/index.md)
 
-##### red shirt
+##### Red shirt
 #  The National Front marches on Thailand's Government House, demanding an early election. 
 
 

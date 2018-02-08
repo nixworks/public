@@ -5,17 +5,17 @@ Formats: [HTML](2009/08/9/index.html)  [JSON](2009/08/9/index.json)  [XML](2009/
 
 ##### South Africa
 ### [ South African opposition parties call on President Jacob Zuma to withdraw Sandile Ngcobo as Chief Justice because he failed to consult the opposition and Judicial Service Committee. ](/news/2009/08/9/south-african-opposition-parties-call-on-president-jacob-zuma-to-withdraw-sandile-ngcobo-as-chief-justice-because-he-failed-to-consult-the.md)
-_Context: Chief Justice, South Africa, President, Sandile Ngcobo, Jacob Zuma, Judicial Service Committee_
+_Context: South Africa, Sandile Ngcobo, Judicial Service Committee, Chief Justice, Jacob Zuma, President_
 
 ##### Sri Lanka
 ### [ Sri Lanka's governing coalition wins in Jaffna but suffers a surprise defeat in Vavuniya in the country's first post-war local elections. ](/news/2009/08/9/sri-lanka-s-governing-coalition-wins-in-jaffna-but-suffers-a-surprise-defeat-in-vavuniya-in-the-country-s-first-post-war-local-elections.md)
-_Context: Jaffna, local elections, Vavuniya, coalition, Sri Lanka_
+_Context: Jaffna, Sri Lanka, local elections, Vavuniya, coalition_
 
 ##### China
 ### [ A million people are evacuated in southeastern China as Typhoon Morakot approaches. ](/news/2009/08/9/a-million-people-are-evacuated-in-southeastern-china-as-typhoon-morakot-approaches.md)
 Almost a million people have been evacuated from southeastern China as authorities prepare for the arrival of Typhoon Morakot.
 
-##### magnitude
+##### Magnitude
 ### [ A 6.9 magnitude earthquake hits Tokyo and eastern Japan. ](/news/2009/08/9/a-6-9-magnitude-earthquake-hits-tokyo-and-eastern-japan.md)
 A strong earthquake with a preliminary magnitude of 6.9 jolted central Japan on Sunday, halting some train services briefly but there were no immediate reports of damage.
 
@@ -33,17 +33,17 @@ At least 46 people have been killed in a landslide triggered by heavy rains in n
 
 ##### Kam Air
 ### [ A Kam Air plane bound for the Xinjiang Autonomous Region in northwestern China is diverted to Kandahar, Afghanistan after an earlier alleged bomb threat. ](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.md)
-_Context: China, Afghanistan, Xinjiang Autonomous Region, Kam Air, Kandahar_
+_Context: China, Kam Air, Kandahar, Afghanistan, Xinjiang Autonomous Region_
 
 ##### Taoiseach
 ### [ Former Taoiseach of Ireland Garret FitzGerald is among twenty Irish nationals who are quarantined at a French chateau due to swine flu. ](/news/2009/08/9/former-taoiseach-of-ireland-garret-fitzgerald-is-among-twenty-irish-nationals-who-are-quarantined-at-a-french-chateau-due-to-swine-flu.md)
-_Context: Taoiseach, Garret FitzGerald, Irish, swine flu, France_
+_Context: Taoiseach, swine flu, Garret FitzGerald, Irish, France_
 
 ##### Iran
 ### [ A senior General from the Iranian Revolutionary Guard calls for opposition leaders Mohammad Khatami, Mir Hossein Mousavi and Mehdi Karroubi to stand trial. ](/news/2009/08/9/a-senior-general-from-the-iranian-revolutionary-guard-calls-for-opposition-leaders-mohammad-khatami-mir-hossein-mousavi-and-mehdi-karroubi.md)
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much mor...
 
-##### same-sex marriage
+##### Same-sex marriage
 ### [ A same-sex marriage demonstration occurs outside the Department of Justice, Equality and Law Reform in Dublin. ](/news/2009/08/9/a-same-sex-marriage-demonstration-occurs-outside-the-department-of-justice-equality-and-law-reform-in-dublin.md)
 An estimated 5,000 same-sex marriage supporters have marched in Dublin to show their dissatisfaction with the proposed Civil Partnership Bill.
 

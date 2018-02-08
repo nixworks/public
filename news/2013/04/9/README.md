@@ -3,7 +3,7 @@ Formats: [HTML](2013/04/9/index.html)  [JSON](2013/04/9/index.json)  [XML](2013/
 
 ## [2013-04-9](/news/2013/04/9/index.md)
 
-##### kill
+##### Kill
 ### [Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. ](/news/2013/04/9/gunmen-kill-12-united-nations-peacekeepers-and-civilian-staff-in-an-ambush-in-jonglei-south-sudan.md)
 Foreign ministry says rebel attack on UN convoy in Jonglei region killed five Indian nationals who were escorting it.
 
@@ -13,15 +13,15 @@ A shortlist of ten authors including Haruki Murakami and past winners Michel Hou
 
 ##### 2013 Bushehr earthquake
 ### [2013 Bushehr earthquake: A 6.1-magnitude earthquake rocks the Iranian towns of Khvormuj, Bandar Deyr and Kangan, killing 37 people and injuring over 850, and was felt as far as Bahrain. ](/news/2013/04/9/2013-bushehr-earthquake-a-6-1amagnitude-earthquake-rocks-the-iranian-towns-of-khvormuj-bandar-deyr-and-kangan-killing-37-people-and-inj.md)
-_Context: Iran, Khvormuj, 2013 Bushehr earthquake, Bahrain, Bandar Deyr, magnitude, earthquake_
+_Context: Bandar Deyr, Khvormuj, magnitude, Bahrain, 2013 Bushehr earthquake, Iran, earthquake_
 
-##### helicopter
+##### Helicopter
 ### [A helicopter crash kills two American NATO soldiers in eastern Afghanistan. ](/news/2013/04/9/a-helicopter-crash-kills-two-american-nato-soldiers-in-eastern-afghanistan.md)
 A helicopter crash in eastern Afghanistan killed two American members of the NATO-led force on Tuesday, spokesmen said.
 
 ##### WikiLeaks
 ### [Among the cables available now on WikiLeaks are the Nixon administration's early comments on recently-deceased former UK Prime Minister Margaret Thatcher. ](/news/2013/04/9/among-the-cables-available-now-on-wikileaks-are-the-nixon-administration-s-early-comments-on-recently-deceased-former-uk-prime-minister-marg.md)
-_Context: UK Prime Minister, Margaret Thatcher, WikiLeaks, Richard Nixon_
+_Context: WikiLeaks, UK Prime Minister, Margaret Thatcher, Richard Nixon_
 
 ##### North Korea
 ### [North Korea announces its plans to launch a missile tomorrow; an event on that day had been warned about before. ](/news/2013/04/9/north-korea-announces-its-plans-to-launch-a-missile-tomorrow-an-event-on-that-day-had-been-warned-about-before.md)
@@ -29,13 +29,13 @@ NORTH Korea has completed preparations for up to three missile launches, sources
 
 ##### Iran
 ### [Iran announces that a new uranium ore mine and an enrichment plant will be added to the country's nuclear policy, defying the U.N. resolutions. ](/news/2013/04/9/iran-announces-that-a-new-uranium-ore-mine-and-an-enrichment-plant-will-be-added-to-the-country-s-nuclear-policy-defying-the-u-n-resolutio.md)
-_Context: U.N., Iran, uranium_
+_Context: Iran, U.N., uranium_
 
 ##### Velika Ivanca shooting
 ### [Velika Ivanca shooting: At least 13 people are killed and another three injured after a man goes on a spree shooting in the village of Velika Ivanca near the Serbian capital Belgrade. ](/news/2013/04/9/velika-ivanaa-shooting-at-least-13-people-are-killed-and-another-three-injured-after-a-man-goes-on-a-spree-shooting-in-the-village-of-veli.md)
 A 60-year-old man went from house to house in his village near Belgrade, killing several of his neighbors and relatives before attempting suicide.
 
-##### stabbed
+##### Stabbed
 ### [At least 15 people are stabbed and wounded at Lone Star College-CyFair in Cypress, Texas, United States, with student Dylan Quick named as a suspect. ](/news/2013/04/9/at-least-15-people-are-stabbed-and-wounded-at-lone-star-collegeacyfair-in-cypress-texas-united-states-with-student-dylan-quick-named-as.md)
 A stabbing spree at Lone Star Community College in Texas has left 14 people injured, two of which are in critical condition.
 
@@ -49,11 +49,11 @@ Uhuru Kenyatta was sworn in as Kenyan president on Tuesday, presenting Western s
 
 ##### France
 ### [The French Senate adopts article 1 of Bill 344, which legalizes same-sex marriage, in a 179-157 vote. ](/news/2013/04/9/the-french-senate-adopts-article-1-of-bill-344-which-legalizes-same-sex-marriage-in-a-179a157-vote.md)
-_Context: France, gay marriage, Bill 344, French Senate_
+_Context: Bill 344, France, French Senate, gay marriage_
 
 ##### Grenada
 ### [Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. ](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.md)
-_Context: Keith Mitchell, Prime Minister, Grenada, Carlyle Glean, Governor General_
+_Context: Grenada, Governor General, Carlyle Glean, Keith Mitchell, Prime Minister_
 
 ## [Previous Day...](/news/2013/04/8/index.md)
 

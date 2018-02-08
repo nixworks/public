@@ -9,7 +9,7 @@ The Kurdish rebel group, the PKK, tells the BBC it is ready to escalate its figh
 
 ##### Syrian Civil War
 ### [At least eight people are reportedly killed as a car bomb explodes at a checkpoint south of Damascus. ](/news/2016/04/25/at-least-eight-people-are-reportedly-killed-as-a-car-bomb-explodes-at-a-checkpoint-south-of-damascus.md)
-_Context: Syrian Civil War, Damascus, car bomb_
+_Context: Damascus, car bomb, Syrian Civil War_
 
 ##### American-led intervention in Syria
 ### [The President of the United States Barack Obama announces that the U.S. will send an additional 250 troops to fight ISIL in Syria. ](/news/2016/04/25/the-president-of-the-united-states-barack-obama-announces-that-the-u-s-will-send-an-additional-250-troops-to-fight-isil-in-syria.md)
@@ -57,7 +57,7 @@ It is the second time in six years the tower has been fired on in error by F-16 
 
 ##### Karor Lal Esan
 ### [At least 23 people have died and dozens of others have become sick in Karor Lal Esan, central Pakistan, after eating sweets suspected of being contaminated with pesticides. ](/news/2016/04/25/at-least-23-people-have-died-and-dozens-of-others-have-become-sick-in-karor-lal-esan-central-pakistan-after-eating-sweets-suspected-of-bei.md)
-_Context: Pakistan, Karor Lal Esan, pesticides_
+_Context: Karor Lal Esan, pesticides, Pakistan_
 
 ##### Yerevan
 ### [At least two people are killed and seven are injured following an explosion on a bus in Yerevan, Armenia. The cause of the blast is being investigated. ](/news/2016/04/25/at-least-two-people-are-killed-and-seven-are-injured-following-an-explosion-on-a-bus-in-yerevan-armenia-the-cause-of-the-blast-is-being-in.md)
@@ -73,9 +73,9 @@ _Context: Hillsborough disaster_
 
 ##### Belarus-United States relations
 ### [The top U.S. diplomat in Belarus Scott Rauland and Belarusian Foreign Minister Uladzimer Makey said that their countries are ready to discuss the possible return of their ambassadors. Makey told reporters in Minsk that "there is readiness from both sides for a full normalization of our relations." Belarus recalled its ambassador from Washington in 2008 after the United States imposed sanctions against Belarusian oil giant Belneftekhim following tensions between Minsk and the West. ](/news/2016/04/25/the-top-u-s-diplomat-in-belarus-scott-rauland-and-belarusian-foreign-minister-uladzimer-makey-said-that-their-countries-are-ready-to-discus.md)
-_Context: United States, Belarus-United States relations, Scott Rauland, Minsk, Belarus_
+_Context: Minsk, Scott Rauland, Belarus-United States relations, Belarus, United States_
 
-##### earthquake
+##### Earthquake
 ### [The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. ](/news/2016/04/25/the-united-nations-world-food-programme-announces-it-is-stepping-up-assistance-to-ecuadoras-most-vulnerable-areas-following-an-earthquake.md)
 The United Nations World Food Programme (WFP) is stepping up assistance to Ecuador’s most vulnerable areas following last week’s (April 16)
 
@@ -89,9 +89,9 @@ ANKARA, Turkey (AP) — Turkey has deported more than 3,300 foreigners suspected
 
 ##### Shooting of Tamir Rice
 ### [The U.S. city of Cleveland, Ohio, agrees to pay $6 million to settle a wrongful death civil rights lawsuit brought by the family of Tamir Rice. Rice was a 12-year-old boy who was walking outside a recreation center holding an air pellet gun when he was shot and killed by a Cleveland Police officer on November 22, 2014. Prosecutor Tim McGinty reported in December 2015 that an Ohio grand jury decided not to indict the police officers. ](/news/2016/04/25/the-u-s-city-of-cleveland-ohio-agrees-to-pay-6-million-to-settle-a-wrongful-death-civil-rights-lawsuit-brought-by-the-family-of-tamir-ri.md)
-_Context: air pellet gun, lawsuit, civil rights, wrongful death, Shooting of Tamir Rice, Ohio, Cleveland Police, grand jury, Cleveland_
+_Context: lawsuit, Cleveland, grand jury, Ohio, civil rights, Shooting of Tamir Rice, wrongful death, Cleveland Police, air pellet gun_
 
-##### the constitution
+##### The constitution
 ### [Venezuela's Supreme Tribunal rules that opposition's proposed amendment to change the President's term of office from six to four years can not be applied retroactively, thereby ending this attempt to cut short President Nicolas Maduro's time in office. ](/news/2016/04/25/venezuela-s-supreme-tribunal-rules-that-opposition-s-proposed-amendment-to-change-the-president-s-term-of-office-from-six-to-four-years-can.md)
 CARACAS, Venezuela (AP) — Venezuela&#039;s supreme court has struck down an attempt by the opposition to cut short President Nicolas Maduros&#039; term in office, ruling that a proposed constitutional amendment to that effect cannot…
 

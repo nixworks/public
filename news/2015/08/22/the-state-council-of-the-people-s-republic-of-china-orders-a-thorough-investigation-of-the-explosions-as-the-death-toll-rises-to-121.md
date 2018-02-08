@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/22/the-state-council-of-the-people-s-republic-of-c
 
 ### [2015-08-22](/news/2015/08/22/index.md)
 
-##### the explosions last year
+##### The explosions last year
 # The State Council of the People's Republic of China orders a thorough investigation of the explosions as the death toll rises to 121. 
 
 Authorities have raised the death toll to 121 in the chemical warehouse explosion in the northern Chinese port of Tianjin, while another 54 people remain unaccounted for.

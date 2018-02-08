@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/13/two-people-are-killed-and-another-is-injured-in
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
-##### mass shooting
+##### Mass shooting
 # Two people are killed and another is injured in a mass shooting in Vancouver, Canada. 
 
 

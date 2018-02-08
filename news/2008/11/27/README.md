@@ -9,7 +9,7 @@ _Context: NZDT, Airbus A320, Air New Zealand Flight 901, Air New Zealand_
 
 ##### ABW
 ### [ A Polish ABW secret service report says the shooting incident in Georgia involving Polish President Lech Kaczynski and Georgian President Mikheil Saakashvili was most likely "a provocation" staged by the Georgians ](/news/2008/11/27/a-polish-abw-secret-service-report-says-the-shooting-incident-in-georgia-involving-polish-president-lech-kaczyaski-and-georgian-president.md)
-_Context: Poland, Mikhail Saakashvili, ABW, Lech Kaczynski,  Georgian_
+_Context: Lech Kaczynski, Mikhail Saakashvili, Polish, ABW,  Georgian_
 
 ##### 2008 Santa Catarina floods
 ### [ 2008 Santa Catarina floods: The Brazilian federal government authorizes nearly 2 billion reais (881 million U.S. dollars) in emergency relief funds. ](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.md)
@@ -19,15 +19,15 @@ Brazil sent hundreds of stateand federal police officers on Wednesday to quell l
 ### [ Russia and Brazil call for the first BRIC (Brazil, Russia, India, China) summit of major emerging market countries in Russia to respond to the financial crisis in 2009. ](/news/2008/11/27/russia-and-brazil-call-for-the-first-bric-brazil-russia-india-china-summit-of-major-emerging-market-countries-in-russia-to-respond-to.md)
 Russian President Dmitry Medvedev and his Brazilian counterpart Luiz Inacio Lula da Silva called on Wednesday for the first summit of major emerging market countries known as BRICs in Russia next year.
 
-##### suicide
+##### Suicide
 ### [ A suicide car bomb explodes near the United States embassy in Kabul, Afghanistan, with at least one person dead. ](/news/2008/11/27/a-suicide-car-bomb-explodes-near-the-united-states-embassy-in-kabul-afghanistan-with-at-least-one-person-dead.md)
-_Context: suicide, Afghanistan, embassies, United States, Kabul, car bomb_
+_Context: Kabul, United States, suicide, embassies, Afghanistan, car bomb_
 
 ##### Oruzgan Province
 ### [ An Australian soldier is killed and several injured in fighting in Oruzgan Province, Afghanistan. ](/news/2008/11/27/an-australian-soldier-is-killed-and-several-injured-in-fighting-in-oruzgan-province-afghanistan.md)
 _Context: Oruzgan Province_
 
-##### state of emergency
+##### State of emergency
 ### [ The government declares a state of emergency over two airports. ](/news/2008/11/27/the-government-declares-a-state-of-emergency-over-two-airports.md)
 Thai anti-government protesters have blockaded and shut down a second Bangkok airport, an official said, just over a day after they forced the closure of the main international airport.
 

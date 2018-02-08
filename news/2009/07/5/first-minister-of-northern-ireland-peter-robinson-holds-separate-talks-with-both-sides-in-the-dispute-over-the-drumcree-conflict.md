@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/5/first-minister-of-northern-ireland-peter-robinso
 
 ### [2009-07-5](/news/2009/07/5/index.md)
 
-##### deputy First Minister of Northern Ireland
+##### Deputy First Minister of Northern Ireland
 #  First Minister of Northern Ireland Peter Robinson holds separate talks with both sides in the dispute over the Drumcree conflict. 
 
 The annual Orange Order parade in Drumcree passed off peacefully, with the PSNI mounting the smallest operation in over a decade.

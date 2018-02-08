@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/24/chogm-commonwealth-heads-of-government-meeting-
 
 ### [2005-11-24](/news/2005/11/24/index.md)
 
-##### heads of government
+##### Heads of government
 #  CHOGM - Commonwealth Heads of Government Meeting is currently underway in Malta.
 
 

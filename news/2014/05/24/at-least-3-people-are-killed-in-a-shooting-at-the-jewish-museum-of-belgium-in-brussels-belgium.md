@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/24/at-least-3-people-are-killed-in-a-shooting-at-t
 
 ### [2014-05-24](/news/2014/05/24/index.md)
 
-##### shooting
+##### Shooting
 # At least 3 people are killed in a shooting at the Jewish Museum of Belgium in Brussels, Belgium. 
 
 A gunman opens fire at the Jewish museum in the Belgian capital Brussels, killing three people and wounding another before fleeing the scene.

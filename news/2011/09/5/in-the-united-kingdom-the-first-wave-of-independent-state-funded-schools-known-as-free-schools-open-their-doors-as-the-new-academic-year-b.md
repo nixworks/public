@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/5/in-the-united-kingdom-the-first-wave-of-independ
 
 ### [2011-09-5](/news/2011/09/5/index.md)
 
-##### free schools
+##### Free schools
 # In the United Kingdom the first wave of independent state-funded schools, known as free schools, open their doors as the new academic year begins. 
 
 

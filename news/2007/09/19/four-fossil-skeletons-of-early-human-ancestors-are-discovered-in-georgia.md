@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/19/four-fossil-skeletons-of-early-human-ancestors-
 
 ### [2007-09-19](/news/2007/09/19/index.md)
 
-##### fossil
+##### Fossil
 #  Four fossil skeletons of early human ancestors are discovered in Georgia. 
 
 The discovery of four fossil skeletons of human ancestors in Georgia, a former Soviet republic, offers a look at a species in transition.

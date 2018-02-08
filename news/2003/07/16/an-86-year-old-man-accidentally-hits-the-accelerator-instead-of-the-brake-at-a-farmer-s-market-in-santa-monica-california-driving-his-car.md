@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/16/an-86-year-old-man-accidentally-hits-the-accele
 
 ### [2003-07-16](/news/2003/07/16/index.md)
 
-##### farmer's market
+##### Farmer's market
 #  An 86-year-old man accidentally hits the accelerator instead of the brake at a farmer's market in Santa Monica, California, driving his car through a closed-off street and killing at least 10 people (including a 3-year-old girl and a 7-month-old boy) and injuring over 50 others. One of the dead is the daughter-in-law of actor Dennis Weaver.
 
 

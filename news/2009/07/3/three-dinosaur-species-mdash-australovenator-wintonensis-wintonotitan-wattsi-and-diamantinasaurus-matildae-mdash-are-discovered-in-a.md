@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-win
 
 ### [2009-07-3](/news/2009/07/3/index.md)
 
-##### dinosaur
+##### Dinosaur
 #  Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. 
 
 Meet Australia&#039;s answer to velociraptor.

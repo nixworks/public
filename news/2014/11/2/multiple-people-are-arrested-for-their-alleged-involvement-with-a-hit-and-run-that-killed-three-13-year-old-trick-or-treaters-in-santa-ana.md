@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/2/multiple-people-are-arrested-for-their-alleged-i
 
 ### [2014-11-2](/news/2014/11/2/index.md)
 
-##### hit-and-run
+##### Hit-and-run
 # Multiple people are arrested for their alleged involvement with a hit-and-run that killed three 13-year-old trick-or-treaters in Santa Ana, California, U.S. 
 
 

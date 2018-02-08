@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/8/around-70-pro-us-activists-occupy-taiwan-provinc
 
 ### [2014-07-8](/news/2014/07/8/index.md)
 
-##### pro-US
+##### Pro-US
 # Around 70 pro-US activists occupy Taiwan provincial government hall. 
 
 

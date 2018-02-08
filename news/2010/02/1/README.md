@@ -9,11 +9,11 @@ _Context: deficit, $, Barack Obama_
 
 ##### Secretary of State
 ### [US Secretary of State Hillary Clinton presses China to back Iran sanctions for its nuclear program. ](/news/2010/02/1/us-secretary-of-state-hillary-clinton-presses-china-to-back-iran-sanctions-for-its-nuclear-program.md)
-_Context: nuclear program, China, Hillary Clinton, Secretary of State, Iran_
+_Context: Hillary Clinton, China, Secretary of State, nuclear program, Iran_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon arrives in Cyprus to begin talks aimed at reuniting the country. ](/news/2010/02/1/united-nations-secretary-general-ban-ki-moon-arrives-in-cyprus-to-begin-talks-aimed-at-reuniting-the-country.md)
-_Context: Ban Ki-moon, United Nations Secretary-General, Cyprus, Cyprus dispute, United Nations_
+_Context: Cyprus, United Nations Secretary-General, Cyprus dispute, Ban Ki-moon, United Nations_
 
 ##### Nigerian
 ### [Nigerian militant group the Movement for the Emancipation of the Niger Delta denies it attacked oil pipelines in the south of the country, after Shell closes three oil flow stations. ](/news/2010/02/1/nigerian-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-denies-it-attacked-oil-pipelines-in-the-south-of-the-country-a.md)
@@ -23,7 +23,7 @@ Nigerian rebel group denies involvement in attack on Shell pipeline in Niger Del
 ### [Envoys of the Dalai Lama return from Beijing after the ninth round of negotiations. ](/news/2010/02/1/envoys-of-the-dalai-lama-return-from-beijing-after-the-ninth-round-of-negotiations.md)
 China has rejected the Dalai Lama&rsquo;s demand for greater autonomy in the Tibetan speaking areas of China, which includes four provinces besides the Tibetan autonomous region. 
 
-##### suicide bomb
+##### Suicide bomb
 ### [A female suicide bomber kills 41 people and injures a further 106 in an attack in the Iraqi capital Baghdad. ](/news/2010/02/1/a-female-suicide-bomber-kills-41-people-and-injures-a-further-106-in-an-attack-in-the-iraqi-capital-baghdad.md)
 Dozens killed as female suicide bomber targets Shia Muslims on their way to Karbala.
 

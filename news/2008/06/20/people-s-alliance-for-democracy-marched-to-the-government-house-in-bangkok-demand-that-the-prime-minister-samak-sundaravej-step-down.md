@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/20/people-s-alliance-for-democracy-marched-to-the-
 
 ### [2008-06-20](/news/2008/06/20/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  People's Alliance for Democracy marched to the Government House in Bangkok demand that the Prime Minister, Samak Sundaravej step down. 
 
 

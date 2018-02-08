@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/4/the-united-states-treasury-moves-to-broaden-its-
 
 ### [2009-02-4](/news/2009/02/4/index.md)
 
-##### current recession
+##### Current recession
 #  The United States Treasury moves to broaden its debt ranging options to raise the trillions of dollars needed to cope with the current recession. 
 
 The U.S. Treasury moved on Wednesday to broaden the range of debt it sells to raise trillions of dollars needed to cope with a deepening recession and the worst financial crisis since the Great Depression.

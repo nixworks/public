@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/11/16/a-plot-by-a-group-of-terrorists-believed-to-be-
 
 ### [2002-11-16](/news/2002/11/16/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # A plot by a group of terrorists believed to be a part of or affiliated to the al-Qaeda network was revealed as having been uncovered by MI5. The plot involved a plan to release poison gas in the London Underground railway network.
 
 

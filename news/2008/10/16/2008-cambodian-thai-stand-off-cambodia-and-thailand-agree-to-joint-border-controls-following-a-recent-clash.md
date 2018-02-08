@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thai
 
 ### [2008-10-16](/news/2008/10/16/index.md)
 
-##### exchange gunfire
+##### Exchange gunfire
 #  2008 Cambodian-Thai stand-off: Cambodia and Thailand agree to joint border controls following a recent clash. 
 
 

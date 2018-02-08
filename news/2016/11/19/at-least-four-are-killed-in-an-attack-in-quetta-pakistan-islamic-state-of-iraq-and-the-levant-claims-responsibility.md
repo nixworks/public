@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/19/at-least-four-are-killed-in-an-attack-in-quetta
 
 ### [2016-11-19](/news/2016/11/19/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  At least four are killed in an attack in Quetta, Pakistan. Islamic State of Iraq and the Levant claims responsibility. 
 
 A policeman and three paramilitary soldiers were killed when gunmen opened fire in latest outbreak of violence in restive Balochistan province

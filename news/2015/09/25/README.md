@@ -9,7 +9,7 @@ _Context: elite presidential guard, coup d'tat, Burkina Faso, 2015 Burkinab coup
 
 ##### Syrian Civil War
 ### [New Syrian Forces trade American supplied equipment to the Al Qaeda-linked Nusra Front in return for safe passage. ](/news/2015/09/25/new-syrian-forces-trade-american-supplied-equipment-to-the-al-qaeda-linked-nusra-front-in-return-for-safe-passage.md)
-_Context: New Syrian Forces, Syrian Civil War, Nusra Front, Al Qaeda_
+_Context: Al Qaeda, Nusra Front, New Syrian Forces, Syrian Civil War_
 
 ##### China
 ### [The People's Republic of China will launch a cap and trade policy creating a carbon market in 2017. ](/news/2015/09/25/the-people-s-republic-of-china-will-launch-a-cap-and-trade-policy-creating-a-carbon-market-in-2017.md)
@@ -17,15 +17,15 @@ White House officials announce deal, which will make China the world’s biggest
 
 ##### Ukraine
 ### [Ukraine selectively bans certain Russian airlines such as Aeroflot and Transaero from flying to and through Ukraine. ](/news/2015/09/25/ukraine-selectively-bans-certain-russian-airlines-such-as-aeroflot-and-transaero-from-flying-to-and-through-ukraine.md)
-_Context: Aeroflot, Transaero, Russia, Ukraine_
+_Context: Russia, Transaero, Aeroflot, Ukraine_
 
 ##### 2015 Hajj stampede
 ### [King Salman of Saudi Arabia orders an investigation into the stampede near Mecca which has claimed over 700 lives and caused 800 injuries. ](/news/2015/09/25/king-salman-of-saudi-arabia-orders-an-investigation-into-the-stampede-near-mecca-which-has-claimed-over-700-lives-and-caused-800-injuries.md)
 Saudi Arabia&#039;s King orders an investigation into a stampede at the annual Hajj pilgrimage that killed at least 717 people and left 800 others injured.
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 ### [Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. ](/news/2015/09/25/singapore-closes-its-primary-and-secondary-schools-as-smoke-from-the-indonesian-fires-raises-air-pollution-to-hazardous-levels.md)
-_Context: air pollution, Singapore, Indonesia, recent incident of hazes in 2015_
+_Context: air pollution, recent incident of hazes in 2015, Singapore, Indonesia_
 
 ##### Indonesia
 ### [Thirty-nine people are injured after an earthquake in the waters off the coast of the Indonesian province of West Papua. ](/news/2015/09/25/thirty-nine-people-are-injured-after-an-earthquake-in-the-waters-off-the-coast-of-the-indonesian-province-of-west-papua.md)
@@ -41,7 +41,7 @@ The World Health Organization removes Nigeria from the list of polio endemic cou
 
 ##### 2015 FIFA corruption case
 ### [The Office of the Attorney General of Switzerland opens criminal proceedings against the President of FIFA Sepp Blatter. ](/news/2015/09/25/the-office-of-the-attorney-general-of-switzerland-opens-criminal-proceedings-against-the-president-of-fifa-sepp-blatter.md)
-_Context: President of FIFA, 2015 FIFA corruption case, Sepp Blatter, Switzerland_
+_Context: Sepp Blatter, 2015 FIFA corruption case, Switzerland, President of FIFA_
 
 ##### European migrant crisis
 ### [Croatia reopens its border with Serbia. ](/news/2015/09/25/croatia-reopens-its-border-with-serbia.md)
@@ -49,7 +49,7 @@ _Context: European migrant crisis, Serbia, Croatia_
 
 ##### Hakubun Shimomura
 ### [Hakubun Shimomura resigns as Japan's Minister of Education, Culture, Sports, Science and Technology due to the design for the stadium for the 2020 Summer Olympics being abandoned. ](/news/2015/09/25/hakubun-shimomura-resigns-as-japan-s-minister-of-education-culture-sports-science-and-technology-due-to-the-design-for-the-stadium-for-th.md)
-_Context: Minister of Education, Culture, Sports, Science and Technology, Japan, stadium, 2020 Summer Olympics, Hakubun Shimomura_
+_Context: Japan, stadium, Minister of Education, Culture, Sports, Science and Technology, Hakubun Shimomura, 2020 Summer Olympics_
 
 ##### John Boehner
 ### [John Boehner schedules his resignation from the position of Speaker of the United States House of Representatives and from Congress for the end of October. ](/news/2015/09/25/john-boehner-schedules-his-resignation-from-the-position-of-speaker-of-the-united-states-house-of-representatives-and-from-congress-for-the.md)

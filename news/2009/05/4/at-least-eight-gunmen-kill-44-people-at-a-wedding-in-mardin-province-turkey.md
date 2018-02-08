@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/4/at-least-eight-gunmen-kill-44-people-at-a-weddin
 
 ### [2009-05-4](/news/2009/05/4/index.md)
 
-##### kill
+##### Kill
 #  At least eight gunmen kill 44 people at a wedding in Mardin Province, Turkey. 
 
 

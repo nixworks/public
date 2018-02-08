@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/27/at-least-37-people-are-killed-including-30-scho
 
 ### [2011-09-27](/news/2011/09/27/index.md)
 
-##### school bus accident at Kallar Kahar
+##### School bus accident at Kallar Kahar
 # At least 37 people are killed, including 30 schoolchildren, and another seventy critically injured following a school bus accident at Kallar Kahar in the Punjab province of Pakistan. 
 
 Death toll likely to rise, medics say.

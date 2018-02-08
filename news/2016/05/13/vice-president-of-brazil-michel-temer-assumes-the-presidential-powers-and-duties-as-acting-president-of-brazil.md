@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/13/vice-president-of-brazil-michel-temer-assumes-t
 
 ### [2016-05-13](/news/2016/05/13/index.md)
 
-##### impeached
+##### Impeached
 #  Vice President of Brazil, Michel Temer, assumes the presidential powers and duties as Acting President of Brazil. 
 
 Brazil&#x27;s Senate voted to impeach President Dilma Rousseff early Thursday amid the worst economic crisis there since the 1930s.

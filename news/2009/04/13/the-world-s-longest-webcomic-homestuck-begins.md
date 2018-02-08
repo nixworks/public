@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/13/the-world-s-longest-webcomic-homestuck-begins.h
 
 ### [2009-04-13](/news/2009/04/13/index.md)
 
-##### webcomic
+##### Webcomic
 #  The world's longest webcomic, Homestuck, begins.
 
 

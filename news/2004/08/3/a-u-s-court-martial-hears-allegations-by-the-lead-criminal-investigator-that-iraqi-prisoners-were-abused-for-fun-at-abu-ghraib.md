@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/3/a-u-s-court-martial-hears-allegations-by-the-lea
 
 ### [2004-08-3](/news/2004/08/3/index.md)
 
-##### court martial
+##### Court martial
 #  A U.S. court martial hears allegations by the lead criminal investigator that Iraqi prisoners were abused 'for fun' at Abu Ghraib. 
 
 

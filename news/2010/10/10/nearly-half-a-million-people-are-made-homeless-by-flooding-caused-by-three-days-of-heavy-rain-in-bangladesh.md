@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/10/nearly-half-a-million-people-are-made-homeless-
 
 ### [2010-10-10](/news/2010/10/10/index.md)
 
-##### flood
+##### Flood
 # Nearly half a million people are made homeless by flooding caused by three days of heavy rain in Bangladesh. 
 
 Nearly half a million people in Bangladesh have been made homeless and at least 15 people have been killed by three days of storms and heavy rain.

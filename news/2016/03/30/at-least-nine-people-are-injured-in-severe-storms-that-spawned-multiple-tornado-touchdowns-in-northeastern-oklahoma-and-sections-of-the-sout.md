@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/30/at-least-nine-people-are-injured-in-severe-stor
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
-##### tornado
+##### Tornado
 # At least nine people are injured in severe storms that spawned multiple tornado touchdowns in northeastern Oklahoma and sections of the Southwestern United States. One patient is in critical condition; the others suffered serious injuries, according to the Emergency Medical Services Authority. Parts of Texas, Louisiana, and Arkansas are also impacted. A flash flood watch has been issued through Thursday evening. Two (2) to 4 inches of rain is expected, with perhaps 6 inches in some locations. 
 
 

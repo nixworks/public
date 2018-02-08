@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/22/blackpool-football-club-beat-cardiff-city-footb
 
 ### [2010-05-22](/news/2010/05/22/index.md)
 
-##### local football club
+##### Local football club
 # Blackpool Football Club beat Cardiff City Football Club 3-2 in the 2010 Final of the Football League Championship play-offs to be guaranteed "the biggest windfall in global sport from the outcome of a single event". 
 
 They will be nursing a few sore heads along Blackpool&#039;s Golden Mile this morning, and with good reason. Blackpool&#039;s promotion to the Premier League is a romantic tale to warm the most jaded of hearts, and they did it in some style. As the announcer at Wembley stadium yesterday said: &quot;The tangerine dream has become a reality.&quot;

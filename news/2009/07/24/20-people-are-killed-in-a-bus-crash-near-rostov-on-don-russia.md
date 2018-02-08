@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/24/20-people-are-killed-in-a-bus-crash-near-rostov
 
 ### [2009-07-24](/news/2009/07/24/index.md)
 
-##### bus crash
+##### Bus crash
 #  20 people are killed in a bus crash near Rostov-on-Don, Russia. 
 
 

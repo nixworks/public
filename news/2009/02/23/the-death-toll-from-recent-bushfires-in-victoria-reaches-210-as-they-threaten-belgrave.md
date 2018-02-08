@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/23/the-death-toll-from-recent-bushfires-in-victori
 
 ### [2009-02-23](/news/2009/02/23/index.md)
 
-##### recent bushfires
+##### Recent bushfires
 #  The death toll from recent bushfires in Victoria reaches 210 as they threaten Belgrave. 
 
 Victoria&#039;s bushfire death toll has reached 210 as authorities warn of an extreme threat from new blazes in the state.

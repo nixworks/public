@@ -9,27 +9,27 @@ Things to do in Miami
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: At least 20 people are killed in Baghdad as United States Secretary of Defense Donald Rumsfeld tours the country for a day. ](/news/2005/02/11/conflict-in-iraq-at-least-20-people-are-killed-in-baghdad-as-united-states-secretary-of-defense-donald-rumsfeld-tours-the-country-for-a-da.md)
-_Context: Secretary of Defense, Donald Rumsfeld, Conflict in Iraq, Baghdad_
+_Context: Secretary of Defense, Baghdad, Donald Rumsfeld, Conflict in Iraq_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: Palestinian leader Mahmoud Abbas travels to the Gaza Strip to persuade militant groups to join the ceasefire announced with Israel three days ago. ](/news/2005/02/11/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-travels-to-the-gaza-strip-to-persuade-militant-groups-to-join-the-ceasefire.md)
-_Context: Israeli-Palestinian conflict, Israel, Gaza Strip, Mahmoud Abbas, militant, Palestinian_
+_Context: Israel, militant, Palestinian, Gaza Strip, Israeli-Palestinian conflict, Mahmoud Abbas_
 
-##### pre-emptive strike
+##### Pre-emptive strike
 ### [ An estimated two million Iranians demonstrate against a possible U.S. pre-emptive strike aimed at preventing Iran from deploying nuclear weapons &ndash; a strike which top US military leaders deny considering. ](/news/2005/02/11/an-estimated-two-million-iranians-demonstrate-against-a-possible-u-s-pre-emptive-strike-aimed-at-preventing-iran-from-deploying-nuclear-we.md)
-_Context: Iran, pre-emptive strike, nuclear weapon_
+_Context: pre-emptive strike, nuclear weapon, Iran_
 
 ##### Shakidor Dam
 ### [ The 485-foot-long Shakidor Dam in Baluchistan, southwest Pakistan, bursts under the pressure of a weeks' worth of rain, sending the Pakistani military into emergency search and rescue operations. Some 400 to 500 people are still unaccounted for. ](/news/2005/02/11/the-485-foot-long-shakidor-dam-in-baluchistan-southwest-pakistan-bursts-under-the-pressure-of-a-weeks-worth-of-rain-sending-the-pakista.md)
-_Context: Shakidor Dam, Balochistan, Pakistan_
+_Context: Pakistan, Shakidor Dam, Balochistan_
 
 ##### United Nations
 ### [ Japan pledges over $21M in support of a United Nations-backed independent tribunal of Khmer Rouge leaders in Cambodia. The proposed tribunal is for crimes against humanity. ](/news/2005/02/11/japan-pledges-over-21m-in-support-of-a-united-nations-backed-independent-tribunal-of-khmer-rouge-leaders-in-cambodia-the-proposed-tribuna.md)
-_Context: Cambodia, crimes against humanity, Khmer Rouge, United Nations, tribunal_
+_Context: Cambodia, United Nations, Khmer Rouge, tribunal, crimes against humanity_
 
 ##### Supreme Court of India
 ### [ The Supreme Court of India agrees to examine the legality of the sensitive issue raised in a petition demanding reservation for Dalits even after conversion to Christianity. ](/news/2005/02/11/the-supreme-court-of-india-agrees-to-examine-the-legality-of-the-sensitive-issue-raised-in-a-petition-demanding-reservation-for-dalits-even.md)
-_Context: Supreme Court of India, Dalits, Christian, convert_
+_Context: Dalits, Christian, convert, Supreme Court of India_
 
 ##### Karnataka
 ### [ In Karnataka, India, armed Naxalites gun down six State Reserve Police personnel and a civilian and injure five others at Venkammanahali in the Tumkur district bordering Andhra Pradesh. ](/news/2005/02/11/in-karnataka-india-armed-naxalites-gun-down-six-state-reserve-police-personnel-and-a-civilian-and-injure-five-others-at-venkammanahali-in.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/1/a-strong-aftershock-measuring-5-0-on-the-richter
 
 ### [2008-11-1](/news/2008/11/1/index.md)
 
-##### aftershock
+##### Aftershock
 #  A strong aftershock measuring 5.0 on the Richter magnitude scale hits southwestern Pakistan three days after it was struck by a 6.4 magnitude earthquake. 
 
 A 5.0 magnitude aftershock rattled south-western Pakistan, three days after a powerful earthquake killed up to 300 people in the region, the US Geological Survey said.

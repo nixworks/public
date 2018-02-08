@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-st
 
 ### [2015-02-14](/news/2015/02/14/index.md)
 
-##### swine flu
+##### Swine flu
 # Twelve people die of swine flu in the Indian state of Gujarat taking the death toll to 136 since January with 130 new cases reported. 
 
 

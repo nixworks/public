@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/5/thirty-four-rail-workers-building-a-tunnel-in-hu
 
 ### [2007-08-5](/news/2007/08/5/index.md)
 
-##### tunnel
+##### Tunnel
 #  Thirty-four rail workers building a tunnel in Hubei province China are trapped 200 metres underground following a landslide. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/14/two-people-are-dead-and-six-are-missing-due-to-
 
 ### [2015-07-14](/news/2015/07/14/index.md)
 
-##### flash flood
+##### Flash flood
 # Two people are dead and six are missing due to flash flooding in Kentucky. 
 
 One person was killed and several others were missing as a band of severe thunderstorms put millions of Americans in the path of damaging winds.

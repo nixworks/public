@@ -55,13 +55,13 @@ Multiple deaths were reported in the fire in and around Great Smoky Mountains Na
 ### [A fire kills at least 12 people and another 22 were injured in Adana Province, Turkey. ](/news/2016/11/29/a-fire-kills-at-least-12-people-and-another-22-were-injured-in-adana-province-turkey.md)
 Electricity eyed in fire in which 22 others injured, hospitalized in Adana province - Anadolu Agency
 
-##### earth tremor
+##### Earth tremor
 ### [An earth tremor in Europe's largest copper mine in southwestern Poland causes eight deaths. ](/news/2016/11/29/an-earth-tremor-in-europe-s-largest-copper-mine-in-southwestern-poland-causes-eight-deaths.md)
 POLAND-MINERS/ (UPDATE 1):UPDATE 1-Rescuers searching for miners trapped after quake in Poland -local media
 
 ##### 2016 Ohio State University attack
 ### [Law enforcement officials believed Abdul Razak Ali Artan, the perpetrator of a car ramming and stabbing attack at Ohio State University (OSU)'s Watts Hall, was inspired by terrorist propaganda from the Islamic State of Iraq and the Levant, and radical Muslim cleric Anwar al-Awlaki. ](/news/2016/11/29/law-enforcement-officials-believed-abdul-razak-ali-artan-the-perpetrator-of-a-car-ramming-and-stabbing-attack-at-ohio-state-university-osu.md)
-_Context: ISIL, Ohio State University, 2016 Ohio State University attack, Anwar al-Awlaki, Watts Hall_
+_Context: Ohio State University, Anwar al-Awlaki, ISIL, Watts Hall, 2016 Ohio State University attack_
 
 ##### Susan Kiefel
 ### [Susan Kiefel is appointed by Australian Prime Minister Malcolm Turnbull as the next Chief Justice of Australia. She will be sworn in at the end of January next year, and will become Australia's first female Chief Justice. ](/news/2016/11/29/susan-kiefel-is-appointed-by-australian-prime-minister-malcolm-turnbull-as-the-next-chief-justice-of-australia-she-will-be-sworn-in-at-the.md)

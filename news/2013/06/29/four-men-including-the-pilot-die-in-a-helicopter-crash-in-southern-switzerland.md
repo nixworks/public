@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/29/four-men-including-the-pilot-die-in-a-helicopte
 
 ### [2013-06-29](/news/2013/06/29/index.md)
 
-##### helicopter
+##### Helicopter
 # Four men including the pilot die in a helicopter crash in southern Switzerland. 
 
 Four men including the 62-year-old pilot have died in a helicopter crash in southern Switzerland.

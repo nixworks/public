@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/2/a-massive-car-crash-on-i-65-in-kentucky-united-s
 
 ### [2013-03-2](/news/2013/03/2/index.md)
 
-##### accident
+##### Accident
 # A massive car crash on I-65 in Kentucky, United States, leaves 6 people from Wisconsin dead and 2 injured. 
 
 UPDATE: A relative of some of the six victims killed in a Kentucky interstate crash says the Wisconsin couple who died was dedicated to raising foster children.

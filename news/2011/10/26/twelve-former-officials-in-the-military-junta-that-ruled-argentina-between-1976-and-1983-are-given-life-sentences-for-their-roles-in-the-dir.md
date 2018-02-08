@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/26/twelve-former-officials-in-the-military-junta-t
 
 ### [2011-10-26](/news/2011/10/26/index.md)
 
-##### military junta
+##### Military junta
 # Twelve former officials in the military junta that ruled Argentina between 1976 and 1983 are given life sentences for their roles in the dirty war against political opponents, including Alfredo Astiz. 
 
 Former naval officer Alfredo Astiz among 12 officials jailed for life over torture and murder during military rule.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/16/a-bipartisan-group-of-eight-united-states-senat
 
 ### [2013-04-16](/news/2013/04/16/index.md)
 
-##### bipartisan
+##### Bipartisan
 # A bipartisan group of eight United States Senators releases its plan to overhaul the immigration system potentially allowing millions of illegal aliens the chance to become citizens. 
 
 Millions of immigrants living illegally in the United States could earn a chance at citizenship under a sweeping Senate proposal to be released Tuesday.

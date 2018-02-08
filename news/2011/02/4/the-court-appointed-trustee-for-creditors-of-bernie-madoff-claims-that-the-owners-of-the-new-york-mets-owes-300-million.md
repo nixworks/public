@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/4/the-court-appointed-trustee-for-creditors-of-ber
 
 ### [2011-02-4](/news/2011/02/4/index.md)
 
-##### trustee
+##### Trustee
 # The court-appointed trustee for creditors of Bernie Madoff claims that the owners of the New York Mets owes $300 million. 
 
 Lawyers agreed to make complaint public after settlement talks broke down.

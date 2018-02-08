@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/26/irish-financial-crisis-widespread-speculation-t
 
 ### [2010-11-26](/news/2010/11/26/index.md)
 
-##### falls back into recession
+##### Falls back into recession
 # Irish financial crisis. Widespread speculation that senior bondholders of Irish banks will have to take a "haircut" -- i.e. share in the costs of an EU bailout -- leads to downgrades in the credit worthiness of the institutions that hads the most at stake in the ballooning property values of recent years. 
 
 Ireland&#039;s banks suffered a string of credit downgrades Friday&mdash;one reduced to junk-bond status &mdash;as speculation mounted that an EU-IMF bailout of Ireland could require senior bondholders to share the massive bill. 

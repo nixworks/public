@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scienti
 
 ### [2010-06-30](/news/2010/06/30/index.md)
 
-##### nuclear program
+##### Nuclear program
 # A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. 
 
 A man claiming to be an Iranian nuclear scientist kidnapped by the US says he has escaped from custody, in a video shown on Iranian TV.

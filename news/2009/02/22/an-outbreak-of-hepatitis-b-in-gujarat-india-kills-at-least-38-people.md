@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/22/an-outbreak-of-hepatitis-b-in-gujarat-india-kil
 
 ### [2009-02-22](/news/2009/02/22/index.md)
 
-##### outbreak
+##### Outbreak
 #  An outbreak of hepatitis B in Gujarat, India, kills at least 38 people. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/14/at-least-eight-people-including-six-tourists-di
 
 ### [2007-10-14](/news/2007/10/14/index.md)
 
-##### flood
+##### Flood
 #  At least eight people including six tourists die when trapped by a flood in the Nam Talu cave in Khao Sok national park in southern Thailand. 
 
 Eight people, including four Swiss, a Briton and a 10-year-old German boy, drowned when a flash flood trapped them in a cave in southern Thailand, but a British woman survived, officials said on Sunday.

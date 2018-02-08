@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/10/more-than-400-000-people-are-evacuated-followin
 
 ### [2009-07-10](/news/2009/07/10/index.md)
 
-##### earthquake
+##### Earthquake
 #  More than 400,000 people are evacuated following an earthquake in Yunnan, China. 
 
 

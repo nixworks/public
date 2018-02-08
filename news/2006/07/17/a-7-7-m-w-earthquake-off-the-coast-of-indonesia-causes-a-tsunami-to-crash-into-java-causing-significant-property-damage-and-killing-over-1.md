@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/17/a-7-7-m-w-earthquake-off-the-coast-of-indonesia
 
 ### [2006-07-17](/news/2006/07/17/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.7 M w earthquake off the coast of Indonesia causes a tsunami to crash into Java, causing significant property damage and killing over 100 people. Concern is raised over lack of a warning system for the south coast despite warnings from international agencies.
 
 

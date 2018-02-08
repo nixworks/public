@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/6/an-attack-of-rockets-kills-six-us-soldiers-and-w
 
 ### [2010-06-6](/news/2010/06/6/index.md)
 
-##### attack
+##### Attack
 # An attack of rockets kills six US soldiers and wounds about a dozen others in Baghdad, Iraq. Two more bombs go off elsewhere but no deaths are reported. 
 
 At least six people killed and many injured in attacks in the Iraqi capital.

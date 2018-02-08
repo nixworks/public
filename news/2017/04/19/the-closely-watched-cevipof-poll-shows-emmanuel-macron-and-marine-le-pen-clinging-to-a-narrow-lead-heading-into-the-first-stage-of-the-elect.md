@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. 
 
 

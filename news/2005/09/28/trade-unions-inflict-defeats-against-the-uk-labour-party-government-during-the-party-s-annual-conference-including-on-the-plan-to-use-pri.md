@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/28/trade-unions-inflict-defeats-against-the-uk-lab
 
 ### [2005-09-28](/news/2005/09/28/index.md)
 
-##### unionize
+##### Unionize
 #  Trade unions inflict defeats against the UK Labour Party government, during the party's annual conference, including on the plan to use private companies in the National Health Service. 
 
 

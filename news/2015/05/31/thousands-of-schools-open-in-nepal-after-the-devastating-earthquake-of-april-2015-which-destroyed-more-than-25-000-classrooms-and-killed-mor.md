@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-de
 
 ### [2015-05-31](/news/2015/05/31/index.md)
 
-##### suspicions
+##### Suspicions
 # Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. 
 
 

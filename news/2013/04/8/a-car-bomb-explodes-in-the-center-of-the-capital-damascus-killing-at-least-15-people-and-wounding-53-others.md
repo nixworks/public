@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/8/a-car-bomb-explodes-in-the-center-of-the-capital
 
 ### [2013-04-8](/news/2013/04/8/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes in the center of the capital, Damascus, killing at least 15 people and wounding 53 others. 
 
 At least 15 people are killed and 53 wounded as a car bomb explodes in a busy part of the Syrian capital Damascus, state media report.

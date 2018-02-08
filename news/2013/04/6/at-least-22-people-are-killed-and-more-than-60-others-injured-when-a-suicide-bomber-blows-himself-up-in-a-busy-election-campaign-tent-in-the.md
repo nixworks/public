@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/6/at-least-22-people-are-killed-and-more-than-60-o
 
 ### [2013-04-6](/news/2013/04/6/index.md)
 
-##### suicide attack
+##### Suicide attack
 # At least 22 people are killed and more than 60 others injured when a suicide bomber blows himself up in a busy election campaign tent in the Iraqi city of Baquba. 
 
 A suicide bomber killed 22 people and wounded 60 in a crowded election campaign tent in the Iraqi city of Baquba on Saturday, police and medics said.

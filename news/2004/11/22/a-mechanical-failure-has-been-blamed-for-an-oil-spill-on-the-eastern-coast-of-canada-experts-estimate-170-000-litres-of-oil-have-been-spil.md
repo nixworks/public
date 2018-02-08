@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/22/a-mechanical-failure-has-been-blamed-for-an-oil
 
 ### [2004-11-22](/news/2004/11/22/index.md)
 
-##### oil spill
+##### Oil spill
 #  A mechanical failure has been blamed for an oil spill on the eastern coast of Canada. Experts estimate 170,000 litres of oil have been spilled into the Atlantic Ocean off the coast of Newfoundland, covering an area 9&nbsp;km long by 1&nbsp;km wide. 
 
 

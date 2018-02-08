@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/8/voters-go-to-the-polls-in-the-maldivian-presiden
 
 ### [2008-10-8](/news/2008/10/8/index.md)
 
-##### first democratic election
+##### First democratic election
 #  Voters go to the polls in the Maldivian presidential election, the first democratic elections held in the Maldives, with six candidates including incumbent Maumoon Abdul Gayoom. 
 
 

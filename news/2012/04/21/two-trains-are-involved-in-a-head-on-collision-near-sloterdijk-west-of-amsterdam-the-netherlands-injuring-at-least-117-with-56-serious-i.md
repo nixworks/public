@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-
 
 ### [2012-04-21](/news/2012/04/21/index.md)
 
-##### head-on collision
+##### Head-on collision
 # Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. 
 
 

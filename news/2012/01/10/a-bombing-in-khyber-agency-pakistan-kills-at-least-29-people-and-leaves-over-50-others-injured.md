@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/10/a-bombing-in-khyber-agency-pakistan-kills-at-le
 
 ### [2012-01-10](/news/2012/01/10/index.md)
 
-##### bombing
+##### Bombing
 # A bombing in Khyber Agency, Pakistan, kills at least 29 people and leaves over 50 others injured. 
 
 

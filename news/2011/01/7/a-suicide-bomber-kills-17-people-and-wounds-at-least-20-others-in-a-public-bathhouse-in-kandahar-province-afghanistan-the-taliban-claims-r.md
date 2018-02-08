@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/7/a-suicide-bomber-kills-17-people-and-wounds-at-l
 
 ### [2011-01-7](/news/2011/01/7/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bomber kills 17 people and wounds at least 20 others in a public bathhouse in Kandahar province, Afghanistan; the Taliban claims responsibility for the attack. 
 
 

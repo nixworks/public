@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/2/the-parliament-of-kazakhstan-approves-a-bill-giv
 
 ### [2011-02-2](/news/2011/02/2/index.md)
 
-##### parliament
+##### Parliament
 # The parliament of Kazakhstan approves a bill giving the President the power to declare a snap presidential election. 
 
 

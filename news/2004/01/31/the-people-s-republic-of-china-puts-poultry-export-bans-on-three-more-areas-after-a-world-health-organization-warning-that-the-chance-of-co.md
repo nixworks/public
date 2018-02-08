@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/31/the-people-s-republic-of-china-puts-poultry-exp
 
 ### [2004-01-31](/news/2004/01/31/index.md)
 
-##### poultry
+##### Poultry
 #  The People's Republic of China puts poultry export bans on three more areas after a World Health Organization warning that the chance of controlling the Avian flu outbreak is slipping. A new SARS case is confirmed in Guangdong province.
 
 

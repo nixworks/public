@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/1/at-least-three-people-die-after-an-explosion-in-
 
 ### [2007-05-1](/news/2007/05/1/index.md)
 
-##### apartment
+##### Apartment
 #  At least three people die after an explosion in an apartment building in Palencia, Spain. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/27/a-hostage-situation-at-platte-canyon-high-schoo
 
 ### [2006-09-27](/news/2006/09/27/index.md)
 
-##### hostage situation
+##### Hostage situation
 #  A hostage situation at Platte Canyon High School near Bailey, Colorado, United States ends with the death of the gunman. A wounded female student later died.
 
 

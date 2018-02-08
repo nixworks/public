@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/26/one-day-after-us-ambassador-to-mexico-tony-garz
 
 ### [2006-01-26](/news/2006/01/26/index.md)
 
-##### ambassador
+##### Ambassador
 #  One day after US ambassador to Mexico Tony Garza claimed that Mexican soldiers had helped drug smugglers to escape pursuit by Texas state police on US soil near El Paso, Texas, Mexican Secretary of Foreign Affairs Luis Ernesto Derbez suggested that the people involved may have been US soldiers wearing the uniforms of Mexican military. 
 
 

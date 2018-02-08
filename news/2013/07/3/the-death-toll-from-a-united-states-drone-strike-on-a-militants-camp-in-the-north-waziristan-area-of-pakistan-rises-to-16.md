@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/3/the-death-toll-from-a-united-states-drone-strike
 
 ### [2013-07-3](/news/2013/07/3/index.md)
 
-##### drones launch
+##### Drones launch
 # The death toll from a United States drone strike on a militants camp in the North Waziristan area of Pakistan rises to 16. 
 
 

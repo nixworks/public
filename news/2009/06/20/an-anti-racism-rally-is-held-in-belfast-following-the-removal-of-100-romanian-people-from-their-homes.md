@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/20/an-anti-racism-rally-is-held-in-belfast-followi
 
 ### [2009-06-20](/news/2009/06/20/index.md)
 
-##### racist
+##### Racist
 #  An anti-racism rally is held in Belfast following the removal of 100 Romanian people from their homes. 
 
 Two teenagers have been charged in connection with racist attacks on Romanian families in Belfast.

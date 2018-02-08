@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/4/index.html)  [JSON](2013/07/4/index.json)  [XML](2013/
 
 ##### Statue of Liberty
 ### [The Statue of Liberty opens for the first time since Hurricane Sandy caused extensive damage to Liberty Island in New York harbor in late October 2012. ](/news/2013/07/4/the-statue-of-liberty-opens-for-the-first-time-since-hurricane-sandy-caused-extensive-damage-to-liberty-island-in-new-york-harbor-in-late-oc.md)
-_Context: New York harbor, Hurricane Sandy, Liberty Island, Statue of Liberty_
+_Context: New York harbor, Liberty Island, Statue of Liberty, Hurricane Sandy_
 
 ##### Lancaster
 ### [A house fire kills 6 people in Lancaster, Pennsylvania. ](/news/2013/07/4/a-house-fire-kills-6-people-in-lancaster-pennsylvania.md)
@@ -25,7 +25,7 @@ The&#x20;supreme&#x20;leader&#x20;of&#x20;Egypt&#x27;s&#x20;Muslim&#x20;Brotherh
 
 ##### French President
 ### [Former President of France, Nicolas Sarkozy, announces his resignation from the Constitutional Council of France following a finding that he exceeded spending limits in his 2012 Presidential election campaign. ](/news/2013/07/4/former-president-of-france-nicolas-sarkozy-announces-his-resignation-from-the-constitutional-council-of-france-following-a-finding-that-he.md)
-_Context: Nicolas Sarkozy, Constitutional Council of France, 2012 presidential election, French President_
+_Context: Nicolas Sarkozy, 2012 presidential election, French President, Constitutional Council of France_
 
 ##### Chicago, Illinois
 ### [At least 19 people have been shot in the US city of Chicago since Wednesday with four people killed and 15 injured. ](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.md)
@@ -39,9 +39,9 @@ _Context: Japan, House of Councillors, House of Councillors (Japan's upper house
 ### [Former South African President Nelson Mandela is now in a "permanent vegetative state" and doctors have advised his family to turn off his life support machine. ](/news/2013/07/4/former-south-african-president-nelson-mandela-is-now-in-a-permanent-vegetative-state-and-doctors-have-advised-his-family-to-turn-off-his-l.md)
 Doctors treating Nelson Mandela have reportedly said that he is in a &quot;permanent vegetative state&quot; and advised his family to turn off his life support machine.
 
-##### species
+##### Species
 ### [A new species of lizard is found in Sergipe, Brazil. ](/news/2013/07/4/a-new-species-of-lizard-is-found-in-sergipe-brazil.md)
-_Context: Brazil, Sergipe, species, lizard_
+_Context: lizard, Brazil, Sergipe, species_
 
 ## [Previous Day...](/news/2013/07/3/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/2/hackers-steal-the-personal-information-of-about-
 
 ### [2015-10-2](/news/2015/10/2/index.md)
 
-##### hackers
+##### Hackers
 # Hackers steal the personal information of about 15 million T-Mobile US customers and applicants. The breach is at a unit of the credit agency Experian. 
 
 Hackers target credit agency Experian to steal the personal information of about 15 million T-Mobile customers and applicants for contracts in the US.

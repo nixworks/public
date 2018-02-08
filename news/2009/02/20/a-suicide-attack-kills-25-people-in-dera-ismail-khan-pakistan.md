@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/20/a-suicide-attack-kills-25-people-in-dera-ismail
 
 ### [2009-02-20](/news/2009/02/20/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills 25 people in Dera Ismail Khan, Pakistan. 
 
 

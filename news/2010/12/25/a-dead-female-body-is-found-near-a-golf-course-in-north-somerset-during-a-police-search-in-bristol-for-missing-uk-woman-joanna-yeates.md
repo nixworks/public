@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/25/a-dead-female-body-is-found-near-a-golf-course-
 
 ### [2010-12-25](/news/2010/12/25/index.md)
 
-##### golf course
+##### Golf course
 # A dead female body is found near a golf course in North Somerset during a police search in Bristol for missing UK woman Joanna Yeates. 
 
 

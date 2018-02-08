@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/30/american-pop-band-one-republic-donates-1-millio
 
 ### [2013-11-30](/news/2013/11/30/index.md)
 
-##### pop band
+##### Pop band
 # American pop band One Republic donates $1 million to aid the victims. 
 
  ONEREPUBLIC have donated £66,600 to aid the victims of the deadly typhoon which struck the Philippines earlier this month (Nov13).

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/8/gunmen-kill-at-least-30-people-in-an-attack-on-a
 
 ### [2016-11-8](/news/2016/11/8/index.md)
 
-##### gold mine
+##### Gold mine
 # Gunmen kill at least 30 people in an attack on a gold mine in a remote area of Zamfara State, northwestern Nigeria. 
 
 Gunmen have killed more than 30 gold miners in a remote area of northern Nigeria, police said on Tuesday.

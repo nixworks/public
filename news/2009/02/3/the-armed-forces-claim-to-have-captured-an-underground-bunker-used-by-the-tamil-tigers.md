@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/3/the-armed-forces-claim-to-have-captured-an-under
 
 ### [2009-02-3](/news/2009/02/3/index.md)
 
-##### armed forces
+##### Armed forces
 #  The Armed Forces claim to have captured an underground bunker used by the Tamil Tigers. 
 
 

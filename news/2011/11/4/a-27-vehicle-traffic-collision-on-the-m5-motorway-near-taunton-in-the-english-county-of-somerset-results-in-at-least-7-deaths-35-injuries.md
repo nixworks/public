@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/4/a-27-vehicle-traffic-collision-on-the-m5-motorwa
 
 ### [2011-11-4](/news/2011/11/4/index.md)
 
-##### multiple vehicle pile-up
+##### Multiple vehicle pile-up
 # A 27-vehicle traffic collision on the M5 Motorway, near Taunton in the English county of Somerset, results in at least 7 deaths, 35 injuries and the closure of the motorway. 
 
 More than 10 people are feared to have died and 43 are injured after 27 vehicles collided - many bursting into flames - on the M5 in Somerset.

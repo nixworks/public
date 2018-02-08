@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/17/the-u-s-killing-of-osama-bin-laden-may-act-as-a
 
 ### [2011-05-17](/news/2011/05/17/index.md)
 
-##### father's killing
+##### Father's killing
 # The U.S. killing of Osama Bin Laden may act as a precedent for "targeted killings," according to a report prepared by the library of the House of Commons of the United Kingdom. 
 
 

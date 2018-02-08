@@ -5,11 +5,11 @@ Formats: [HTML](2006/09/24/index.html)  [JSON](2006/09/24/index.json)  [XML](200
 
 ##### Venezuela
 ### [ Venezuela's Foreign Minister Nicols Maduro is detained in John F. Kennedy International Airport for secondary screening. ](/news/2006/09/24/venezuela-s-foreign-minister-nicolas-maduro-is-detained-in-john-f-kennedy-international-airport-for-secondary-screening.md)
-_Context: Venezuela, secondary screening, Kennedy International Airport, Nicols Maduro_
+_Context: Venezuela, Nicols Maduro, Kennedy International Airport, secondary screening_
 
 ##### Quito
 ### [ At least 47 people, including a number of children, are killed in a bus crash near Quito, capital of Ecuador. ](/news/2006/09/24/at-least-47-people-including-a-number-of-children-are-killed-in-a-bus-crash-near-quito-capital-of-ecuador.md)
-_Context: Ecuador, Quito_
+_Context: Quito, Ecuador_
 
 ##### New York Times
 ### [ The "New York Times" leaks a conclusion from a U.S. National Intelligence Estimate that the Iraq War has made the overall terrorism problem worse. ](/news/2006/09/24/the-new-york-times-leaks-a-conclusion-from-a-u-s-national-intelligence-estimate-that-the-iraq-war-has-made-the-overall-terrorism-problem.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Europe
 ### [ Europe retains golf's Ryder Cup to score a third consecutive win, beating the United States by a score of 18.5 to 9.5. ](/news/2006/09/24/europe-retains-golf-s-ryder-cup-to-score-a-third-consecutive-win-beating-the-united-states-by-a-score-of-18-5-to-9-5.md)
-_Context: Europe, golfer, United States, Ryder Cup_
+_Context: Ryder Cup, Europe, golfer, United States_
 
 ## [Previous Day...](/news/2006/09/23/index.md)
 

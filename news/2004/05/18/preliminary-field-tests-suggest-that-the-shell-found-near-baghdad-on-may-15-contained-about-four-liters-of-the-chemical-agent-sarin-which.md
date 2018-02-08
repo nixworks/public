@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/18/preliminary-field-tests-suggest-that-the-shell-
 
 ### [2004-05-18](/news/2004/05/18/index.md)
 
-##### sarin
+##### Sarin
 #  Preliminary field tests suggest that the shell found near Baghdad on May 15 contained about four liters of the chemical agent sarin, which attacks the nervous system. 
 
 Recent discoveries of sarin nerve gas and mustard gas in Iraq renew questions about what dangerous weapons Saddam Hussein had in Iraq.

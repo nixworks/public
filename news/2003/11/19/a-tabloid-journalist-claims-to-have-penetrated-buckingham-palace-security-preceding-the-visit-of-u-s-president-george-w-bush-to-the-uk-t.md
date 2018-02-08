@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/19/a-tabloid-journalist-claims-to-have-penetrated-
 
 ### [2003-11-19](/news/2003/11/19/index.md)
 
-##### tabloid
+##### Tabloid
 #  A tabloid journalist claims to have penetrated Buckingham Palace security preceding the visit of U.S. President George W. Bush to the UK. The Palace is seeking a restraining order to prevent "The Mirror" from publishing further information about the royal household.
 
 

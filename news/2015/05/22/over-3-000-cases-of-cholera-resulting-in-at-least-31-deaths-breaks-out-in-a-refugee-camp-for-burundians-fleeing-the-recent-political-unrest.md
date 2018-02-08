@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/22/over-3-000-cases-of-cholera-resulting-in-at-lea
 
 ### [2015-05-22](/news/2015/05/22/index.md)
 
-##### cholera
+##### Cholera
 # Over 3,000 cases of cholera resulting in at least 31 deaths breaks out in a refugee camp for Burundians fleeing the recent political unrest in their country. 
 
 At least 3,000 cases of cholera have been reported in Tanzania since last week and the outbreak has claimed 31 lives.

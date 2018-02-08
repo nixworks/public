@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/31/the-zimbabwe-electoral-commission-starts-releas
 
 ### [2008-03-31](/news/2008/03/31/index.md)
 
-##### parliamentary
+##### Parliamentary
 #  The Zimbabwe Electoral Commission starts releasing results of the Zimbabwean parliamentary election, 2008 and Zimbabwean presidential election, 2008 with the Opposition Movement for Democratic Change claiming victory on the basis of unofficial results. 
 
 

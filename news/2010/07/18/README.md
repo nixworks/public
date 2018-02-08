@@ -15,7 +15,7 @@ Suspects arrested ahead of donor meeting set to lay out security handover to Afg
 ### [At least three people are killed by a suicide bomber on a bicycle in Kabul. ](/news/2010/07/18/at-least-three-people-are-killed-by-a-suicide-bomber-on-a-bicycle-in-kabul.md)
 At least three people have been killed by a suicide bomb in Kabul, two days before world leaders gather in the city for a landmark conference.
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber kills 43 people in Adhamiya in Iraq, many of whom were members of the Iraqi Army or a government-supported, Sunni, anti-al-Qaeda group called Sa hwa or Sons of Iraq. ](/news/2010/07/18/a-suicide-bomber-kills-43-people-in-adhamiya-in-iraq-many-of-whom-were-members-of-the-iraqi-army-or-a-government-supported-sunni-anti-al.md)
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.
 
@@ -25,11 +25,11 @@ Gunmen attack partygoers in the north Mexican city of Torreon, leaving 17 people
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Ban Ki-moon calls for a full investigation into allegations that recent killings of opposition figures in Rwanda were politically motivated ahead of the country's election next month. ](/news/2010/07/18/united-nations-secretary-general-ban-ki-moon-calls-for-a-full-investigation-into-allegations-that-recent-killings-of-opposition-figures-in-r.md)
-_Context: Ban Ki-moon, presidential election, United Nations Secretary-General, Rwanda_
+_Context: Rwanda, United Nations Secretary-General, Ban Ki-moon, presidential election_
 
 ##### Uganda
 ### [Ugandan police arrest 20 people, including several Pakistanis, for their alleged role in the recent bombings in Kampala. ](/news/2010/07/18/ugandan-police-arrest-20-people-including-several-pakistanis-for-their-alleged-role-in-the-recent-bombings-in-kampala.md)
-_Context: Kampala, Pakistan, Uganda, attacks_
+_Context: Pakistan, attacks, Uganda, Kampala_
 
 ##### Zsa Zsa Gabor
 ### [Zsa Zsa Gabor is hospitalised in serious condition after falling out of bed and breaking her hip and several other bones. ](/news/2010/07/18/zsa-zsa-gabor-is-hospitalised-in-serious-condition-after-falling-out-of-bed-and-breaking-her-hip-and-several-other-bones.md)
@@ -37,7 +37,7 @@ _Context: Zsa Zsa Gabor_
 
 ##### North Rhine-Westphalia
 ### [North Rhine-Westphalians party on the autobahn between Duisburg and Dortmund. ](/news/2010/07/18/north-rhine-westphalians-party-on-the-autobahn-between-duisburg-and-dortmund.md)
-_Context: autobahn, North Rhine-Westphalia, Dortmund, Duisburg_
+_Context: North Rhine-Westphalia, autobahn, Dortmund, Duisburg_
 
 ##### Nelson Mandela International Day
 ### [The first Nelson Mandela International Day is held on Nelson Mandela's 92nd birthday. ](/news/2010/07/18/the-first-nelson-mandela-international-day-is-held-on-nelson-mandela-s-92nd-birthday.md)
@@ -47,25 +47,25 @@ People across the world give 67 minutes of public service to pay tribute to Mand
 ### [At least 14 people are killed and at least 12 others sustain wounds after a bus plummets off a cliff in Puke, Albania; a national day of mourning is declared. ](/news/2010/07/18/at-least-14-people-are-killed-and-at-least-12-others-sustain-wounds-after-a-bus-plummets-off-a-cliff-in-puka-albania-a-national-day-of-mo.md)
 At least 14 people are killed and 12 others are injured after a bus falls off a cliff in northern Albania, officials say.
 
-##### bus
+##### Bus
 ### [A bus falls off a cliff in the Garze Tibetan Autonomous Prefecture in southwestern China resulting in the death of 23 people. ](/news/2010/07/18/a-bus-falls-off-a-cliff-in-the-garzaa-tibetan-autonomous-prefecture-in-southwestern-china-resulting-in-the-death-of-23-people.md)
-_Context: Tibetan Autonomous Prefecture of Garze, bus, cliff, China_
+_Context: China, cliff, bus, Tibetan Autonomous Prefecture of Garze_
 
 ##### United Nations
 ### [United Nations figures indicate around 225 families remain homeless in Gaza since Israel's three-week military offensive was launched in December 2008. ](/news/2010/07/18/united-nations-figures-indicate-around-225-families-remain-homeless-in-gaza-since-israel-s-three-week-military-offensive-was-launched-in-dec.md)
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
-##### earthquakes
+##### Earthquakes
 ### [A series of two earthquakes, the second quake measuring magnitude 7.3, hit New Britain in Papua New Guinea. A tsunami warning is issued but later retracted. ](/news/2010/07/18/a-series-of-two-earthquakes-the-second-quake-measuring-magnitude-7-3-hit-new-britain-in-papua-new-guinea-a-tsunami-warning-is-issued-but.md)
 There are no reports of damage from two earthquakes that hit off the coast of Papua New Guinea overnight.
 
 ##### Iran
 ### [Iranian scientist Shahram Amiri, who says he was abducted by the United States Central Intelligence Agency, says the United States wanted him to confess to being a spy as part of a plan to force the release of three Americans spies caught by Iran. ](/news/2010/07/18/iranian-scientist-shahram-amiri-who-says-he-was-abducted-by-the-united-states-central-intelligence-agency-says-the-united-states-wanted-hi.md)
-_Context: Central Intelligence Agency, Iran, Shahram Amiri, United States_
+_Context: Shahram Amiri, Iran, United States, Central Intelligence Agency_
 
 ##### Arab League
 ### [The Arab League, speaking in Cairo, states written guarantees are required if Palestine is to enter into direct negotiations with Israel as Egyptian, Israeli, Palestinian and American representatives meet to talk. ](/news/2010/07/18/the-arab-league-speaking-in-cairo-states-written-guarantees-are-required-if-palestine-is-to-enter-into-direct-negotiations-with-israel-as.md)
-_Context: Israel, Arab League, Egypt, Palestine, United States, Cairo_
+_Context: United States, Palestine, Egypt, Cairo, Arab League, Israel_
 
 ##### Colombia
 ### [Colombia takes Venezuela to the Organisation of American States over claims that the latter tolerates training camps for left-wing guerrillas, particularly FARC and ELN within its borders. ](/news/2010/07/18/colombia-takes-venezuela-to-the-organisation-of-american-states-over-claims-that-the-latter-tolerates-training-camps-for-left-wing-guerrilla.md)
@@ -73,7 +73,7 @@ Colombia calls a meeting of regional grouping the OAS to accuse Venezuela of har
 
 ##### Chris Patten, Baron Patten of Barnes
 ### [EU commissioner Chris Patten, Baron Patten of Barnes, speaking during his first visit to Gaza since 2002, calls the Israeli blockade of Gaza an "immoral failure", expresses shock at the "huge new settlements" in the West Bank, and states the United States dominance of the Quartet on the Middle East - US, EU, UN and Russia - is wrong. ](/news/2010/07/18/eu-commissioner-chris-patten-baron-patten-of-barnes-speaking-during-his-first-visit-to-gaza-since-2002-calls-the-israeli-blockade-of-gaza.md)
-_Context: Israel, Gaza Strip, Chris Patten, Baron Patten of Barnes, West Bank, diplomatic Quartet, United States_
+_Context: United States, Chris Patten, Baron Patten of Barnes, West Bank, Gaza Strip, Israel, diplomatic Quartet_
 
 ##### Israeli Prime Minister
 ### [A 2001 film, depicting Prime Minister of Israel Benjamin Netanyahu discussing methods of undermining the Oslo Accords and saying the United States is "easy" to manipulate, is aired on Israel's Channel 10. ](/news/2010/07/18/a-2001-film-depicting-prime-minister-of-israel-benjamin-netanyahu-discussing-methods-of-undermining-the-oslo-accords-and-saying-the-united.md)
@@ -81,7 +81,7 @@ Israeli PM seen discussing ways to undermine Oslo Accords in 2001 videotape.
 
 ##### United Kingdom
 ### [The United Kingdom plans to reduce or eliminate international aid to countries such as the "powerhouses" of Russia and China, as well as South American and eastern European countries. The government plans aid increases to some poorer nations including a 40% increase to Afghanistan. ](/news/2010/07/18/the-united-kingdom-plans-to-reduce-or-eliminate-international-aid-to-countries-such-as-the-powerhouses-of-russia-and-china-as-well-as-sou.md)
-_Context: United Kingdom, international aid, Russia, China, South America, eastern Europe_
+_Context: South America, international aid, China, eastern Europe, United Kingdom, Russia_
 
 ##### European Union
 ### [European Union foreign policy chief Catherine Ashton says that Israel must go beyond easing its blockade of Gaza and throw open its long-closed border. ](/news/2010/07/18/european-union-foreign-policy-chief-catherine-ashton-says-that-israel-must-go-beyond-easing-its-blockade-of-gaza-and-throw-open-its-long-clo.md)
@@ -89,7 +89,7 @@ Israel must go beyond easing its blockade of Gaza and throw open its border, EU 
 
 ##### Israel
 ### [An Israeli religious group plans to build flats in Ajami, Jaffa. ](/news/2010/07/18/an-israeli-religious-group-plans-to-build-flats-in-ajami-jaffa.md)
-_Context: Israel, Ajami, Jaffa_
+_Context: Ajami, Jaffa, Israel_
 
 ##### Omar Deghayes
 ### [Omar Deghayes, a former Guantanamo Bay detainee and one of six suing the British government, says notes taken during his interrogation by British security service officers have been censored to hide the fact that he was tortured by agents and to avoid potentially embarrassing questions. ](/news/2010/07/18/omar-deghayes-a-former-guanta-namo-bay-detainee-and-one-of-six-suing-the-british-government-says-notes-taken-during-his-interrogation-by-b.md)
@@ -97,7 +97,7 @@ _Context: Guantanamo Bay, Omar Deghayes_
 
 ##### Saddam Hussein
 ### [Saddam Hussein's former foreign minister Tariq Aziz and other senior members are summoned and appear in an Iraqi court charged with "squandering the public wealth". ](/news/2010/07/18/saddam-hussein-s-former-foreign-minister-tariq-aziz-and-other-senior-members-are-summoned-and-appear-in-an-iraqi-court-charged-with-squande.md)
-_Context: Iraq, Saddam Hussein, Tariq Aziz_
+_Context: Tariq Aziz, Saddam Hussein, Iraq_
 
 ##### President of Zimbabwe
 ### [President of Zimbabwe Robert Mugabe, speaking in Marange, says he will ignore anyone who desires mention of LGBT rights in a draft of the next constitution of Zimbabwe. ](/news/2010/07/18/president-of-zimbabwe-robert-mugabe-speaking-in-marange-says-he-will-ignore-anyone-who-desires-mention-of-lgbt-rights-in-a-draft-of-the-ne.md)
@@ -109,11 +109,11 @@ An alleged drug kingpin, known as the Pablo Escobar of the Caribbean, has been a
 
 ##### Pakistan
 ### [Women rights groups in Pakistan say the life of a woman convicted of adultery is now in grave danger; she faces death by stoning as her man has abandoned her to the courts. ](/news/2010/07/18/women-rights-groups-in-pakistan-say-the-life-of-a-woman-convicted-of-adultery-is-now-in-grave-danger-she-faces-death-by-stoning-as-her-man.md)
-_Context: adultery, Pakistan, death by stoning_
+_Context: death by stoning, adultery, Pakistan_
 
 ##### European Union
 ### [Health experts condemn tobacco companies for openly flouting European Union laws against advertising by using glitzy sales teams and techniques to promote cigarette brands at young people on Facebook and at music festivals. ](/news/2010/07/18/health-experts-condemn-tobacco-companies-for-openly-flouting-european-union-laws-against-advertising-by-using-glitzy-sales-teams-and-techniq.md)
-_Context: Facebook, European Union_
+_Context: European Union, Facebook_
 
 ##### Kuala Lumpur International Airport
 ### [Customs officers at Kuala Lumpur International Airport discover 400 rare tortoises, more than 40 rare tomato frogs and an unidentified number of chameleons bound with masking tape and stuffed into socks allegedly smuggled from Madagascar in the luggage of two women. ](/news/2010/07/18/customs-officers-at-kuala-lumpur-international-airport-discover-400-rare-tortoises-more-than-40-rare-tomato-frogs-and-an-unidentified-numbe.md)
@@ -125,15 +125,15 @@ _Context: France, Grenoble_
 
 ##### Prime Minister of Israel
 ### [Israeli Prime Minister Benjamin Netanyahu announces that he will oppose a conversion bill that would give the Chief Rabbinate of Israel the legal power to decide whether any conversion is legitimate and could cause immigrants who converted to Judaism abroad to be denied Israeli citizenship. ](/news/2010/07/18/israeli-prime-minister-benjamin-netanyahu-announces-that-he-will-oppose-a-conversion-bill-that-would-give-the-chief-rabbinate-of-israel-the.md)
-_Context: Chief Rabbinate of Israel, Israeli citizenship, Benjamin Netanyahu, Jewish, Prime Minister of Israel_
+_Context: Jewish, Israeli citizenship, Chief Rabbinate of Israel, Prime Minister of Israel, Benjamin Netanyahu_
 
-##### rhino
+##### Rhino
 ### [Rhinoceros experts worry after the last female in the Krugersdorp game reserve near Johannesburg is attacked by helicopter, shot with tranquiliser guns, and has her horn hacked off by poachers, slowly bleeding to death. ](/news/2010/07/18/rhinoceros-experts-worry-after-the-last-female-in-the-krugersdorp-game-reserve-near-johannesburg-is-attacked-by-helicopter-shot-with-tranqu.md)
-_Context: Johannesburg, Krugersdorp, rhino_
+_Context: Krugersdorp, rhino, Johannesburg_
 
 ##### Golf
 ### [Golfer Louis Oosthuizen of South Africa wins the 139th Open Championship, played at the Old Course at St Andrews, Scotland. ](/news/2010/07/18/golfer-louis-oosthuizen-of-south-africa-wins-the-139th-open-championship-played-at-the-old-course-at-st-andrews-scotland.md)
-_Context: Scotland, South Africa, 139th, Golf, Old Course at St Andrews, Open Championship, Louis Oosthuizen_
+_Context: Open Championship, South Africa, Scotland, Louis Oosthuizen, Old Course at St Andrews, Golf, 139th_
 
 ## [Previous Day...](/news/2010/07/17/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-ar
 
 ### [2005-01-11](/news/2005/01/11/index.md)
 
-##### bushfire
+##### Bushfire
 #  In Australia, 9 people are dead and 15 others are unaccounted for, in a bushfire in Eyre Peninsula, South Australia. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

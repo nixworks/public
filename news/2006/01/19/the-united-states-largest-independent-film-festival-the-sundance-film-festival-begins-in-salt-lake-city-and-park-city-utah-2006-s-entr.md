@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/19/the-united-states-largest-independent-film-fest
 
 ### [2006-01-19](/news/2006/01/19/index.md)
 
-##### independent film
+##### Independent film
 #  The United States' largest independent film festival, the Sundance Film Festival, begins in Salt Lake City and Park City, Utah. 2006's entries include documentaries about prominent politicians Al Gore and Ralph Nader. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

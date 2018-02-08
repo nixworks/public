@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/7/fifteen-people-die-and-many-others-are-injured-i
 
 ### [2006-03-7](/news/2006/03/7/index.md)
 
-##### three blasts
+##### Three blasts
 #  Fifteen people die and many others are injured in three blasts throughout Varanasi, India. 
 
 

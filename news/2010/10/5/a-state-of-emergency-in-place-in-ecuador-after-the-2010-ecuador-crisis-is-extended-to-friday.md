@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/5/a-state-of-emergency-in-place-in-ecuador-after-t
 
 ### [2010-10-5](/news/2010/10/5/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency in place in Ecuador after the 2010 Ecuador crisis is extended to Friday. 
 
 

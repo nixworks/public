@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/19/an-attempted-military-coup-d-etat-in-madagascar
 
 ### [2006-11-19](/news/2006/11/19/index.md)
 
-##### attempted
+##### Attempted
 #  An attempted military coup d'tat in Madagascar announced by Gnral Andrianafidisoa appears to have failed. 
 
 A soldier was killed after what appeared to be a failed coup attempt by a general barred from running in a presidential election.

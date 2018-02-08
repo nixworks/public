@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/28/the-chinese-yuan-becomes-the-fifth-most-highly-
 
 ### [2015-01-28](/news/2015/01/28/index.md)
 
-##### yuan
+##### Yuan
 # The Chinese yuan becomes the fifth most-highly-used currency in the world. 
 
 

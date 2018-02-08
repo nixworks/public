@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/26/a-second-dust-storm-hits-sydney-australia.html)
 
 ### [2009-09-26](/news/2009/09/26/index.md)
 
-##### second dust storm
+##### Second dust storm
 #  A second dust storm hits Sydney, Australia. 
 
 The weather bureau is using satellite imagery to monitor another dust storm which has hit south-west Queensland this morning.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/14/senate-majority-leader-vicente-tito-sotto-iii-h
 
 ### [2017-08-14](/news/2017/08/14/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". 
 
 

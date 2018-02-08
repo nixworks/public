@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/11/the-government-of-pakistan-bans-the-islamist-gr
 
 ### [2012-03-11](/news/2012/03/11/index.md)
 
-##### government
+##### Government
 # The Government of Pakistan bans the Islamist group Ahle Sunnah Wal Jamaat. 
 
 

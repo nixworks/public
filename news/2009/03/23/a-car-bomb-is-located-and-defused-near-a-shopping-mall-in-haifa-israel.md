@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/23/a-car-bomb-is-located-and-defused-near-a-shoppi
 
 ### [2009-03-23](/news/2009/03/23/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb is located and defused near a shopping mall in Haifa, Israel. 
 
 

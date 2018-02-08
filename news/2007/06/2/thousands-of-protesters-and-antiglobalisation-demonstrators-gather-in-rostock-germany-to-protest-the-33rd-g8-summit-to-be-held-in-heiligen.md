@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/2/thousands-of-protesters-and-antiglobalisation-de
 
 ### [2007-06-2](/news/2007/06/2/index.md)
 
-##### antiglobalisation
+##### Antiglobalisation
 #  Thousands of protesters and antiglobalisation demonstrators gather in Rostock, Germany to protest the 33rd G8 summit to be held in Heiligendamm later in the week. 
 
 

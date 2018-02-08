@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/16/the-black-boxes-from-crashed-caspian-airlines-f
 
 ### [2009-07-16](/news/2009/07/16/index.md)
 
-##### black boxes
+##### Black boxes
 #  The black boxes from crashed Caspian Airlines Flight 7908 in Iran are recovered. 
 
 

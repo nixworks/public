@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/1/al-qaeda-s-top-leader-in-afghanistan-and-osama-b
 
 ### [2010-06-1](/news/2010/06/1/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Al-Qaeda's top leader in Afghanistan, and Osama bin Laden's third in command, Mustafa Abu al-Yazid, is reported killed. 
 
 

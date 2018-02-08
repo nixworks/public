@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/12/the-trial-of-eight-police-officers-charged-with
 
 ### [2010-11-12](/news/2010/11/12/index.md)
 
-##### human rights
+##### Human rights
 # The trial of eight police officers charged with the murder of human rights activist Floribert Chebeya begins in the Democratic Republic of the Congo. 
 
 The trial starts of eight officers charged with the murder of prominent human rights activist Floribert Chebeya in the Democratic Republic of Congo.

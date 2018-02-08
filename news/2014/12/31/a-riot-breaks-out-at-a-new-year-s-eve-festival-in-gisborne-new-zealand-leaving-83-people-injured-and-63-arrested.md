@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/31/a-riot-breaks-out-at-a-new-year-s-eve-festival-
 
 ### [2014-12-31](/news/2014/12/31/index.md)
 
-##### riot
+##### Riot
 # A riot breaks out at a New Year's Eve festival in Gisborne, New Zealand, leaving 83 people injured and 63 arrested. 
 
 DO YOU KNOW MORE? CONTACT THE HERALD HERE - New Zealand Herald

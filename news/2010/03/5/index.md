@@ -41,7 +41,7 @@ _Context: Kigali, genocide_
 
 ##### Pakistan army
 ### [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md)
-_Context: Northwestern Pakistan, Taliban, Peshawar, Pakistan army_
+_Context: Taliban, Northwestern Pakistan, Pakistan army, Peshawar_
 
 ##### Shi'ite Muslims
 ### [A suicide bomber attacked a convoy of Shi'ite Muslims in northwest Pakistan, killing at least 12 people. ](/news/2010/03/5/a-suicide-bomber-attacked-a-convoy-of-shi-ite-muslims-in-northwest-pakistan-killing-at-least-12-people.md)

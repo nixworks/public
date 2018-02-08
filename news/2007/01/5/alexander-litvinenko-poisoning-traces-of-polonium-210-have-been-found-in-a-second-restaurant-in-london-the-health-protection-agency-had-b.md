@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/5/alexander-litvinenko-poisoning-traces-of-poloniu
 
 ### [2007-01-5](/news/2007/01/5/index.md)
 
-##### murder of Russian spy Alexander Litvinenko
+##### Murder of Russian spy Alexander Litvinenko
 #  Alexander Litvinenko poisoning: Traces of polonium-210 have been found in a second restaurant in London. The Health Protection Agency had been monitoring the establishment in connection with the Alexander Litvinenko assassination. 
 
 

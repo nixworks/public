@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/30/scientists-discover-an-800km-long-canyon-that-i
 
 ### [2013-08-30](/news/2013/08/30/index.md)
 
-##### canyon
+##### Canyon
 # Scientists discover an 800km long canyon that is up to 800m deep in places beneath the ice sheet that covers Greenland. 
 
 One of the biggest canyons in the world has been found beneath the ice sheet that smothers most of Greenland.

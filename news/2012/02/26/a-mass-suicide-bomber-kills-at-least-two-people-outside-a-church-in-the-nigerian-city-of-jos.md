@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/26/a-mass-suicide-bomber-kills-at-least-two-people
 
 ### [2012-02-26](/news/2012/02/26/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A mass suicide bomber kills at least two people outside a church in the Nigerian city of Jos. 
 
 A suicide car bomb attack on a church in the Nigerian city of Jos kills three people and sparks bloody reprisal attacks.

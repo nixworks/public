@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/23/a-school-shooting-in-northern-norway-leaves-two
 
 ### [2009-01-23](/news/2009/01/23/index.md)
 
-##### school shooting
+##### School shooting
 #  A school shooting in northern Norway leaves two people dead, including the gunman. 
 
 A man and a woman have been killed in a shooting in a car park outside a kindergarten in the northern Norwegian town of Tromso.

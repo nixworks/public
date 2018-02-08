@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/27/a-hail-storm-damages-the-space-shuttle-atlantis
 
 ### [2007-02-27](/news/2007/02/27/index.md)
 
-##### hail
+##### Hail
 #  A hail storm damages the Space Shuttle "Atlantis", delaying the STS-117 launch originally scheduled for March 15. 
 
 

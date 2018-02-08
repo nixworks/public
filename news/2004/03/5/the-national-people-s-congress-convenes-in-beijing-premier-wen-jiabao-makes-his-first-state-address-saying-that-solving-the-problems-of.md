@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/5/the-national-people-s-congress-convenes-in-beiji
 
 ### [2004-03-5](/news/2004/03/5/index.md)
 
-##### parliament
+##### Parliament
 #  The National People's Congress convenes in Beijing. Premier Wen Jiabao makes his first state address, saying that "solving the problems of agriculture, villages and farmers is one of the most crucial parts of our entire work". 
 
 

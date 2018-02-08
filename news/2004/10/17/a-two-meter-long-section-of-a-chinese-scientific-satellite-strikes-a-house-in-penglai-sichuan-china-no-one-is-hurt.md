@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/17/a-two-meter-long-section-of-a-chinese-scientifi
 
 ### [2004-10-17](/news/2004/10/17/index.md)
 
-##### satellite
+##### Satellite
 #  A two meter long section of a Chinese scientific satellite strikes a house in Penglai, Sichuan, China. No one is hurt. 
 
 

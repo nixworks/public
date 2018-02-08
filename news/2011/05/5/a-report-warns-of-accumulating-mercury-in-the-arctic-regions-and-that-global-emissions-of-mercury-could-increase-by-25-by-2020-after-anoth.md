@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-ar
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### mercury
+##### Mercury
 # A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. 
 
 

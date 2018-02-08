@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/13/a-shooting-incident-occurs-at-hudson-valley-mal
 
 ### [2005-02-13](/news/2005/02/13/index.md)
 
-##### shooting incident
+##### Shooting incident
 #  A shooting incident occurs at Hudson Valley Mall in upstate New York, north of New York City. Two people are injured. Local police believe that this is the work of a lone gunman and have a suspect in custody. 
 
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.

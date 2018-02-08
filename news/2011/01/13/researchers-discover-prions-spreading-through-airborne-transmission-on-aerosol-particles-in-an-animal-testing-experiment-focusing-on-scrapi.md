@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/13/researchers-discover-prions-spreading-through-a
 
 ### [2011-01-13](/news/2011/01/13/index.md)
 
-##### prion
+##### Prion
 # Researchers discover prions spreading through airborne transmission on aerosol particles, in an animal testing experiment focusing on scrapie infection in laboratory mice. 
 
 

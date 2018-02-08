@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/23/a-special-prosecutor-files-genocide-charges-aga
 
 ### [2004-07-23](/news/2004/07/23/index.md)
 
-##### genocide
+##### Genocide
 #  A special prosecutor files genocide charges against former President of Mexico Luis Echeverra for actions taken by the Mexican military during a student protest in 1971.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/3/american-televangelist-robert-h-schuller-is-oust
 
 ### [2011-07-3](/news/2011/07/3/index.md)
 
-##### televangelist
+##### Televangelist
 # American televangelist Robert H. Schuller is ousted from the board of the Crystal Cathedral. 
 
 

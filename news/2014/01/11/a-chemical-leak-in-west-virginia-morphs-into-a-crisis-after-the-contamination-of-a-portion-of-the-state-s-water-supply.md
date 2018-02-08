@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/11/a-chemical-leak-in-west-virginia-morphs-into-a-
 
 ### [2014-01-11](/news/2014/01/11/index.md)
 
-##### chemical leak
+##### Chemical leak
 # A chemical leak in West Virginia morphs into a crisis after the contamination of a portion of the state's water supply. 
 
 

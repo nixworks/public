@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/11/a-ten-year-old-servant-girl-is-tortured-to-deat
 
 ### [2014-01-11](/news/2014/01/11/index.md)
 
-##### torture
+##### Torture
 # A ten-year-old servant girl is tortured to death in Punjab raising concerns about human rights in Pakistan. 
 
 

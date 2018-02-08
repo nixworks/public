@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/28/a-5-8-magnitude-earthquake-strikes-in-the-medit
 
 ### [2013-12-28](/news/2013/12/28/index.md)
 
-##### earthquake
+##### Earthquake
 # A 5.8-magnitude earthquake strikes in the Mediterranean Sea, 50 miles (80 kilometers) south southwest of Avsallar, Turkey. 
 
 

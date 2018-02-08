@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/29/a-wildfire-in-the-south-of-u-s-state-california
 
 ### [2005-09-29](/news/2005/09/29/index.md)
 
-##### wildfire
+##### Wildfire
 #  A wildfire in the south of U.S. state California burns 17,000 acres (69 km2), spurs evacuations near State Route 118 and U.S. Route 101. 
 
 

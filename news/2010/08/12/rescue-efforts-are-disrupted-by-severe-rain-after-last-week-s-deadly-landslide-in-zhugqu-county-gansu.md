@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/12/rescue-efforts-are-disrupted-by-severe-rain-aft
 
 ### [2010-08-12](/news/2010/08/12/index.md)
 
-##### landslide
+##### Landslide
 # Rescue efforts are disrupted by severe rain after last week's deadly landslide in Zhugqu County, Gansu. 
 
 Heavy rain in north-west China is disrupting rescue efforts after a huge landslide last week, which killed more than 1,000 people.

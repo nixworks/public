@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/23/the-death-toll-in-brazil-s-worst-flood-disaster
 
 ### [2011-01-23](/news/2011/01/23/index.md)
 
-##### the recent floods and landslides in Rio de Janeiro state
+##### The recent floods and landslides in Rio de Janeiro state
 # The death toll in Brazil's worst flood disaster tops 800 people. 
 
 

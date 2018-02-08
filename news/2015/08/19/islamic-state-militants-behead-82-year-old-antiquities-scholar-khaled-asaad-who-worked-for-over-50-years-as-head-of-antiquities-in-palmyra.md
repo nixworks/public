@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/19/islamic-state-militants-behead-82-year-old-anti
 
 ### [2015-08-19](/news/2015/08/19/index.md)
 
-##### destroyed
+##### Destroyed
 # Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. 
 
 The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 years is reported to have been murdered by Islamic State militants.

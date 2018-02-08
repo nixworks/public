@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/18/a-rabbi-in-the-u-s-state-of-new-jersey-has-been
 
 ### [2011-08-18](/news/2011/08/18/index.md)
 
-##### rabbi
+##### Rabbi
 # A rabbi in the U.S. state of New Jersey has been indicted for alleged sex crimes against two 13-year-old Israeli boys who were visiting the rabbi through a scholarship fund. The two boys had reported the abuse separately following their return. 
 
 Two children who visited the rabbis home separately in 2009, 2010, reported sexual abuse upon their returns to Israel, report says.

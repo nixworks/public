@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/6/a-former-world-no-1-ranked-tennis-player-from-be
 
 ### [2007-05-6](/news/2007/05/6/index.md)
 
-##### world number 1
+##### World number 1
 #  A former World No. 1 ranked tennis player from Belgium, Kim Clijsters, announces her retirement effective immediately. 
 
 

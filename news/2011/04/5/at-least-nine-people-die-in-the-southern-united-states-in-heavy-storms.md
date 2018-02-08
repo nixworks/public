@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/5/at-least-nine-people-die-in-the-southern-united-
 
 ### [2011-04-5](/news/2011/04/5/index.md)
 
-##### southern United States
+##### Southern United States
 # At least nine people die in the southern United States in heavy storms. 
 
 

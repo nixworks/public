@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/11/2005-malawi-food-crisis-sos-children-launches-e
 
 ### [2005-10-11](/news/2005/10/11/index.md)
 
-##### serious food shortages
+##### Serious food shortages
 #  2005 Malawi food crisis: SOS Children launches emergency food program around Lilongwe and Mzuzu 
 
 

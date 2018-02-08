@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/16/american-and-russian-scientists-announce-the-di
 
 ### [2006-10-16](/news/2006/10/16/index.md)
 
-##### chemical element
+##### Chemical element
 #  American and Russian scientists announce the discovery of a new chemical element with the atomic number 118, temporarily designated as Ununoctium. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

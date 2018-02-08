@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/7/the-state-of-emergency-put-in-place-after-the-20
 
 ### [2011-03-7](/news/2011/03/7/index.md)
 
-##### state of emergency
+##### State of emergency
 # The state of emergency put in place after the 2011 Canterbury earthquake in Christchurch, New Zealand, is extended. 
 
 The national state of emergency imposed after last month&#039;s devastating Christchurch earthquake will be extended on Monday and is likely to be in place for some time, Prime Minister John Key says.

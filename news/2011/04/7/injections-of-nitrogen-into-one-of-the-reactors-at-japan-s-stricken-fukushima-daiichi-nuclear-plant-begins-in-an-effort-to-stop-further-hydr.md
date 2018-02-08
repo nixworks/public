@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/7/injections-of-nitrogen-into-one-of-the-reactors-
 
 ### [2011-04-7](/news/2011/04/7/index.md)
 
-##### nitrogen
+##### Nitrogen
 # Injections of nitrogen into one of the reactors at Japan's stricken Fukushima Daiichi nuclear plant begins in an effort to stop further hydrogen blasts. 
 
 Workers in Japan start injecting nitrogen into one of the reactors at the crippled Fukushima Daiichi nuclear plant to prevent more hydrogen blasts.

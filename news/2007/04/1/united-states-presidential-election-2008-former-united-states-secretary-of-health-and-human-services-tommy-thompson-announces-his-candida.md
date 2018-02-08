@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/1/united-states-presidential-election-2008-former-
 
 ### [2007-04-1](/news/2007/04/1/index.md)
 
-##### presidential candidate
+##### Presidential candidate
 #  United States Presidential Election, 2008: Former United States Secretary of Health and Human Services Tommy Thompson announces his candidacy for President. 
 
 

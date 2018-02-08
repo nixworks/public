@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-
 
 ### [2012-06-30](/news/2012/06/30/index.md)
 
-##### strong storms
+##### Strong storms
 # The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/18/al-qaeda-militants-attack-an-intelligence-headq
 
 ### [2012-08-18](/news/2012/08/18/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. 
 
 A top Taliban commander and his deputy are among dozens of insurgents killed in a Nato air strike in eastern Afghanistan, the alliance says.

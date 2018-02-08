@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/7/the-number-of-migrant-workers-who-died-or-were-i
 
 ### [2010-06-7](/news/2010/06/7/index.md)
 
-##### migrant worker
+##### Migrant worker
 # The number of migrant workers who died or were injured at South Korea's workplaces has risen over the last three years to reach nearly 14,500. 
 
 

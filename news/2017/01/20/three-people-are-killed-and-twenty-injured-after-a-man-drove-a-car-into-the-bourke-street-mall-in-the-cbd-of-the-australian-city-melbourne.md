@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/20/three-people-are-killed-and-twenty-injured-afte
 
 ### [2017-01-20](/news/2017/01/20/index.md)
 
-##### drove a car
+##### Drove a car
 # Three people are killed and twenty injured after a man drove a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to six. 
 
 

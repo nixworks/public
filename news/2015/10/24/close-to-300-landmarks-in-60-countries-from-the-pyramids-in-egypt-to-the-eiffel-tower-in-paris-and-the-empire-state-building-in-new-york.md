@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the
 
 ### [2015-10-24](/news/2015/10/24/index.md)
 
-##### landmark
+##### Landmark
 # Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. 
 
 

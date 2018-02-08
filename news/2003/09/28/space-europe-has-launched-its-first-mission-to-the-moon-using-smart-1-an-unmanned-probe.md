@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/28/space-europe-has-launched-its-first-mission-to-
 
 ### [2003-09-28](/news/2003/09/28/index.md)
 
-##### space
+##### Space
 #  Space: Europe has launched its first mission to the moon, using SMART-1, an unmanned probe.
 
 

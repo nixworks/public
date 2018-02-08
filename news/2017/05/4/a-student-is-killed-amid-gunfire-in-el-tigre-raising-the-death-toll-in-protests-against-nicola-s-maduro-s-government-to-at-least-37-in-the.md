@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/4/a-student-is-killed-amid-gunfire-in-el-tigre-rai
 
 ### [2017-05-4](/news/2017/05/4/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # A student is killed amid gunfire in El Tigre, raising the death toll in protests against Nicolas Maduro's government to at least 37 in the past month. 
 
 

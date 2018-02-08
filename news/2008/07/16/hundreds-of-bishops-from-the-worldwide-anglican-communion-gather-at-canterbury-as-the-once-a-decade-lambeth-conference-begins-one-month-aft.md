@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican
 
 ### [2008-07-16](/news/2008/07/16/index.md)
 
-##### bishop
+##### Bishop
 #  Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. 
 
 

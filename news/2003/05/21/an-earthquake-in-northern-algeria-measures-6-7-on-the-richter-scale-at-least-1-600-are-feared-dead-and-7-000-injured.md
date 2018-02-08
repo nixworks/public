@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/21/an-earthquake-in-northern-algeria-measures-6-7-
 
 ### [2003-05-21](/news/2003/05/21/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake in northern Algeria measures 6.7 on the Richter scale; at least 1,600 are feared dead and 7,000 injured.
 
 

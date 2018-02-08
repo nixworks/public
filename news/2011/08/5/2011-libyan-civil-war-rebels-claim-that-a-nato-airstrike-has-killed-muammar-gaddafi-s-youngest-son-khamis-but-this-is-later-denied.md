@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/5/2011-libyan-civil-war-rebels-claim-that-a-nato-a
 
 ### [2011-08-5](/news/2011/08/5/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebels claim that a NATO airstrike has killed Muammar Gaddafi's youngest son Khamis but this is later denied. 
 
 Rebel spokesman says Libyan army commander Khamis Gaddafi killed in NATO airstrike on Zlitan, a claim government denies.

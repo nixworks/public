@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/5/eric-gagne-former-three-time-all-star-major-leag
 
 ### [2004-07-5](/news/2004/07/5/index.md)
 
-##### ric Gagn
+##### Ric Gagn
 #  ric Gagn, former three-time All-Star Major League Baseball closer and 2003 NL Cy Young Award winner, has his record for consecutive games saved broken at 84.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others
 
 ### [2013-03-31](/news/2013/03/31/index.md)
 
-##### gang
+##### Gang
 # Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us
 
 ### [2011-05-20](/news/2011/05/20/index.md)
 
-##### parole
+##### Parole
 # A parole decision on the former Mayor of the US city of Detroit, Kwame Kilpatrick, is delayed because of the prospect that he could face federal government corruption charges. 
 
 

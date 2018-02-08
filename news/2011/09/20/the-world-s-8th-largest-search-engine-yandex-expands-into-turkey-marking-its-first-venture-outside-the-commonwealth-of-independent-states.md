@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-ex
 
 ### [2011-09-20](/news/2011/09/20/index.md)
 
-##### search engine
+##### Search engine
 # The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. 
 
 

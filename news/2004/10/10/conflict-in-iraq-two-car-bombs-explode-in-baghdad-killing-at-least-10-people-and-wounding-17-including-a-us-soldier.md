@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/10/conflict-in-iraq-two-car-bombs-explode-in-baghd
 
 ### [2004-10-10](/news/2004/10/10/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: Two car bombs explode in Baghdad, killing at least 10 people and wounding 17, including a US soldier. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com

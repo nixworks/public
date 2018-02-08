@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/27/scientists-announce-the-discovery-of-a-remote-m
 
 ### [2014-05-27](/news/2014/05/27/index.md)
 
-##### mire
+##### Mire
 # Scientists announce the discovery of a remote mire the size of England in the Republic of the Congo. 
 
 

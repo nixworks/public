@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/12/the-floods-in-queensland-australia-worsen-furth
 
 ### [2011-01-12](/news/2011/01/12/index.md)
 
-##### floods
+##### Floods
 # The floods in Queensland, Australia, worsen further with 20,000 properties in the capital Brisbane expected to be flooded and 4,000 homes flooded in the nearby city of Ipswich. 
 
 Brisbane is preparing for the full impact of its worst flooding in more than 100 years, with officials warning almost 20,000 homes in the city will be flooded by early tomorrow morning.

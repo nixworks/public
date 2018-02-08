@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/29/a-stampede-kills-22-people-and-injures-at-least
 
 ### [2009-03-29](/news/2009/03/29/index.md)
 
-##### stampede
+##### Stampede
 #  A stampede kills 22 people and injures at least 130 during a 2010 FIFA World Cup qualifying match in Abidjan, Ivory Coast. 
 
 

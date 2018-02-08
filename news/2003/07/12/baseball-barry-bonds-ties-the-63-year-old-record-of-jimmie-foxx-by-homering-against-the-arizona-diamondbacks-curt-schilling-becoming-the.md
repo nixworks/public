@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/12/baseball-barry-bonds-ties-the-63-year-old-recor
 
 ### [2003-07-12](/news/2003/07/12/index.md)
 
-##### baseball game
+##### Baseball game
 #  Baseball: Barry Bonds ties the 63-year-old record of Jimmie Foxx by homering against the Arizona Diamondbacks' Curt Schilling, becoming the second player in Major League Baseball to hit at least 30 home runs in 12 consecutive seasons.
 
 

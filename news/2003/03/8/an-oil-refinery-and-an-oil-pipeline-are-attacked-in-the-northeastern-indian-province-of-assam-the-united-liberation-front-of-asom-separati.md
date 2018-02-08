@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/8/an-oil-refinery-and-an-oil-pipeline-are-attacked
 
 ### [2003-03-8](/news/2003/03/8/index.md)
 
-##### oil refinery
+##### Oil refinery
 #  An oil refinery and an oil pipeline are attacked in the northeastern Indian province of Assam. The United Liberation Front of Asom separatist group claims responsibility and according to regional newspapers threatens more such attacks.
 
 

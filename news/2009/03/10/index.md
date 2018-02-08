@@ -5,19 +5,19 @@ Formats: [HTML](2009/03/10/index.html)  [JSON](2009/03/10/index.json)  [XML](200
 
 ##### United States
 ### [ The United States Senate passes a US$410-billion omnibus spending bill. ](/news/2009/03/10/the-united-states-senate-passes-a-us-410-billion-omnibus-spending-bill.md)
-_Context: $, United States, omnibus spending bill, United States Senate_
+_Context: United States Senate, omnibus spending bill, $, United States_
 
-##### shooting spree
+##### Shooting spree
 ### [ At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. ](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shooting-spree-in-geneva-county-alabama-united-states.md)
-_Context: United States, Alabama, shooting spree, Geneva County_
+_Context: Alabama, shooting spree, Geneva County, United States_
 
 ##### Eurovision Song Contest
 ### [ The Eurovision Song Contest disallows Georgian pop group Stephane & 3G's "We Don't Wanna Put In." ](/news/2009/03/10/the-eurovision-song-contest-disallows-georgian-pop-group-stephane-3g-s-we-don-t-wanna-put-in.md)
-_Context: We Don't Wanna Put In, Stephane & 3G, pop,  Georgian, Eurovision Song Contest_
+_Context: Eurovision Song Contest, We Don't Wanna Put In,  Georgian, pop, Stephane & 3G_
 
-##### suicide attack
+##### Suicide attack
 ### [ A suicide attack kills 33 people in Baghdad, Iraq. ](/news/2009/03/10/a-suicide-attack-kills-33-people-in-baghdad-iraq.md)
-_Context: Iraq, Baghdad, suicide attack_
+_Context: Baghdad, suicide attack, Iraq_
 
 ##### Northern Ireland
 ### [ Northern Ireland's Police Service arrests two men in Craigavon for murdering an officer. ](/news/2009/03/10/northern-ireland-s-police-service-arrests-two-men-in-craigavon-for-murdering-an-officer.md)
@@ -25,17 +25,17 @@ Two man have been arrested amid widespread condemnation of the murder of a polic
 
 ##### Tibet Autonomous Region
 ### [ Tibet's Central Administration claims that China's accusations of the Dalai Lama's "genocide" are "fabricated." ](/news/2009/03/10/tibet-s-central-administration-claims-that-china-s-accusations-of-the-dalai-lama-s-genocide-are-fabricated.md)
-_Context: Dalai Lama, Central Tibetan Administration, genocide, Tibet Autonomous Region, China_
+_Context: Central Tibetan Administration, Dalai Lama, Tibet Autonomous Region, genocide, China_
 
 ##### China
 ### [ China disputes that its ships illegally harassed USNS "Impeccable" in the South China Sea. ](/news/2009/03/10/china-disputes-that-its-ships-illegally-harassed-usns-impeccable-in-the-south-china-sea.md)
-_Context: South China Sea, ''Impeccable'', China, USNS, ship_
+_Context: China, ship, South China Sea, ''Impeccable'', USNS_
 
 ##### North Korea
 ### [ North Korea readmits South Koreans into the Kaesong Industrial Region. ](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.md)
 North Korea on Tuesday allowed South Koreans back into a lucrative factory just across the border, a day after the reclusive state accused its neighbor and the United States of threatening war.
 
-##### suicide attack
+##### Suicide attack
 ### [ At least ten people are killed and 25 injured during a suicide attack in Matara, Sri Lanka. ](/news/2009/03/10/at-least-ten-people-are-killed-and-25-injured-during-a-suicide-attack-in-matara-sri-lanka.md)
 At least 10 people have been killed in an explosion in southern Sri Lanka.
 

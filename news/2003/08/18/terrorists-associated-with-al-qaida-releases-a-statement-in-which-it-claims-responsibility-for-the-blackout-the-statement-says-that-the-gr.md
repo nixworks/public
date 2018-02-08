@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/18/terrorists-associated-with-al-qaida-releases-a-
 
 ### [2003-08-18](/news/2003/08/18/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorists associated with al-Qaida releases a statement in which it claims responsibility for the blackout. The statement says that the group acted on Osama bin Laden's orders.
 
 

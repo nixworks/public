@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/24/hurricane-lisa-becomes-the-seventh-hurricane-of
 
 ### [2010-09-24](/news/2010/09/24/index.md)
 
-##### hurricane
+##### Hurricane
 # Hurricane Lisa becomes the seventh hurricane of the 2010 Atlantic hurricane season. 
 
 

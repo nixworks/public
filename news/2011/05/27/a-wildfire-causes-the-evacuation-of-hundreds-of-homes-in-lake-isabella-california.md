@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/27/a-wildfire-causes-the-evacuation-of-hundreds-of
 
 ### [2011-05-27](/news/2011/05/27/index.md)
 
-##### wildfire
+##### Wildfire
 # A wildfire causes the evacuation of hundreds of homes in Lake Isabella, California. 
 
 

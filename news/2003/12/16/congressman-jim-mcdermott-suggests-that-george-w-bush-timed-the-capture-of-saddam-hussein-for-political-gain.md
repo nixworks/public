@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/16/congressman-jim-mcdermott-suggests-that-george-
 
 ### [2003-12-16](/news/2003/12/16/index.md)
 
-##### lawmakers
+##### Lawmakers
 # Congressman Jim McDermott suggests that George W. Bush timed the capture of Saddam Hussein for political gain. 
 
 

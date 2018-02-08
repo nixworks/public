@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/2/the-flight-data-recorder-is-recovered-from-the-c
 
 ### [2015-04-2](/news/2015/04/2/index.md)
 
-##### flight data recorder
+##### Flight data recorder
 # The flight data recorder is recovered from the crash site. 
 
 The co-pilot suspected of deliberately crashing a plane into the Alps had researched suicide methods and the security of cockpit doors, prosecutors say.

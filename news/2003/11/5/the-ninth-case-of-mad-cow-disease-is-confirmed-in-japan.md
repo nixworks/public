@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/5/the-ninth-case-of-mad-cow-disease-is-confirmed-i
 
 ### [2003-11-5](/news/2003/11/5/index.md)
 
-##### mad cow disease
+##### Mad cow disease
 #  The ninth case of mad cow disease is confirmed in Japan.
 
 

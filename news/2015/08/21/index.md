@@ -3,9 +3,9 @@ Formats: [HTML](2015/08/21/index.html)  [JSON](2015/08/21/index.json)  [XML](201
 
 ## [2015-08-21](/news/2015/08/21/index.md)
 
-##### destroyed
+##### Destroyed
 ### [The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. ](/news/2015/08/21/the-islamic-state-in-iraq-and-the-levant-destroys-the-historic-mar-elian-monastery-near-the-town-of-al-qaryatayn-in-the-homs-governorate-in.md)
-_Context: destroyed, Islamic State in Iraq and the Levant, Homs Governorate, Al-Qaryatayn, Syria, Mar Elian monastery_
+_Context: Al-Qaryatayn, destroyed, Homs Governorate, Syria, Mar Elian monastery, Islamic State in Iraq and the Levant_
 
 ##### Saudi-led intervention in Yemen
 ### [Saudi-led coalition air-strikes on the Yemeni city of Taiz leave at least 65 civilians killed. ](/news/2015/08/21/saudi-led-coalition-air-strikes-on-the-yemeni-city-of-taiz-leave-at-least-65-civilians-killed.md)
@@ -17,11 +17,11 @@ Police investigate incident near Arras, France, in which three US citizens – t
 
 ##### George Parker Bidder III
 ### [A bottle with a letter left inside by British marine biologist George Parker Bidder III is discovered by a woman vacationing in Germany. The bottle dating from 1906, if confirmed, would be the world's oldest message in a bottle found to date. ](/news/2015/08/21/a-bottle-with-a-letter-left-inside-by-british-marine-biologist-george-parker-bidder-iii-is-discovered-by-a-woman-vacationing-in-germany-the.md)
-_Context: George Parker Bidder III, German, message in a bottle_
+_Context: German, message in a bottle, George Parker Bidder III_
 
 ##### United Kingdom
 ### [Britain's Information Commissioner's Office orders Google, Inc. to remove, from its search engines, links to news stories about Google's implementation of a "right to be forgotten" request, that include identifying information about a decade-old shoplifting conviction, which the Information Commission's Office considers as being no longer relevant. The order applies only in the United Kingdom. ](/news/2015/08/21/britain-s-information-commissioner-s-office-orders-google-inc-to-remove-from-its-search-engines-links-to-news-stories-about-google-s-imp.md)
-_Context: Google, United Kingdom, right to be forgotten, Information Commissioner's Office_
+_Context: Information Commissioner's Office, right to be forgotten, Google, United Kingdom_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average drops and closes down 530.94 points, or 3.12 percent, with the NASDAQ and S&P 500 also down more than 3%. ](/news/2015/08/21/the-dow-jones-industrial-average-drops-and-closes-down-530-94-points-or-3-12-percent-with-the-nasdaq-and-s-p-500-also-down-more-than-3.md)
@@ -45,15 +45,15 @@ North Korean leader Kim Jong-un has ordered his frontline troops to be on a war 
 
 ##### United States
 ### [The United States halts, then resumes its annual military exercise with South Korea, Foal Eagle, amid rising tensions. ](/news/2015/08/21/the-united-states-halts-then-resumes-its-annual-military-exercise-with-south-korea-foal-eagle-amid-rising-tensions.md)
-_Context: military exercise, United States, Foal Eagle, South Korea_
+_Context: Foal Eagle, United States, South Korea, military exercise_
 
 ##### Ranil Wickremesinghe
 ### [Ranil Wickremesinghe is sworn in as the new Prime Minister of Sri Lanka following a strong performance by his United National Front for Good Governance in last Monday's election. ](/news/2015/08/21/ranil-wickremesinghe-is-sworn-in-as-the-new-prime-minister-of-sri-lanka-following-a-strong-performance-by-his-united-national-front-for-good.md)
-_Context: Ranil Wickremesinghe, United National Front for Good Governance, election, Prime Minister of Sri Lanka_
+_Context: election, Prime Minister of Sri Lanka, Ranil Wickremesinghe, United National Front for Good Governance_
 
 ##### Greek legislative election, September 2015
 ### [Twenty-five parliamentarians from the governing Syriza party announce plans to form a new party, the Popular Unity, led by former energy minister Panagiotis Lafazanis. ](/news/2015/08/21/twenty-five-parliamentarians-from-the-governing-syriza-party-announce-plans-to-form-a-new-party-the-popular-unity-led-by-former-energy-min.md)
-_Context: Greek legislative election, September 2015, Panagiotis Lafazanis, Syriza, Popular Unity_
+_Context: Panagiotis Lafazanis, Syriza, Greek legislative election, September 2015, Popular Unity_
 
 ##### Turkish general election, November 2015
 ### [Turkish President Recep Tayyip Erdogan calls for a snap election for November 1st after the previous election resulted in a hung parliament unable to form a coalition government. ](/news/2015/08/21/turkish-president-recep-tayyip-erdoaan-calls-for-a-snap-election-for-november-1st-after-the-previous-election-resulted-in-a-hung-parliament.md)

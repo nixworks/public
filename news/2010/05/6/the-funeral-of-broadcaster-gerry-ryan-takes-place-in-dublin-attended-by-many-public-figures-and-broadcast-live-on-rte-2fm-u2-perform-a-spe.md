@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/6/the-funeral-of-broadcaster-gerry-ryan-takes-plac
 
 ### [2010-05-6](/news/2010/05/6/index.md)
 
-##### funeral
+##### Funeral
 # The funeral of broadcaster Gerry Ryan takes place in Dublin, attended by many public figures and broadcast live on RT 2fm. U2 perform a special version of "With or Without You", while Westlife also perform. 
 
 Hundreds of mourners have attended the funeral of RTÉ broadcaster Gerry Ryan in Dublin

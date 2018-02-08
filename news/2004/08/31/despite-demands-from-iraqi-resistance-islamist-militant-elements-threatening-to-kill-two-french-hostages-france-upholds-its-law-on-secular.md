@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/31/despite-demands-from-iraqi-resistance-islamist-
 
 ### [2004-08-31](/news/2004/08/31/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Despite demands from Iraqi resistance Islamist militant elements threatening to kill two French hostages, France upholds its law on secularity and conspicuous religious symbols in schools, specifically its ban on Muslim hijabs. 
 
 

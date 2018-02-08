@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/19/2007-zasyadko-mine-disaster-rescuers-continue-t
 
 ### [2007-11-19](/news/2007/11/19/index.md)
 
-##### twelve days earlier
+##### Twelve days earlier
 #  2007 Zasyadko mine disaster: Rescuers continue the search for 20 trapped miners, but a union official says there is "no chance" for them. 
 
 

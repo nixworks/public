@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/10/the-united-kingdom-imposes-new-visa-requirement
 
 ### [2009-02-10](/news/2009/02/10/index.md)
 
-##### visa-free travel
+##### Visa-free travel
 #  The United Kingdom imposes new visa requirements on nationals from Bolivia, Lesotho, South Africa, Swaziland, and Venezuela. 
 
 

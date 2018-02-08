@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/2/three-men-are-arrested-due-to-their-alleged-ties
 
 ### [2012-08-2](/news/2012/08/2/index.md)
 
-##### al Qaeda
+##### Al Qaeda
 # Three men are arrested due to their alleged ties with al Qaeda in Spain. 
 
 Spanish officials announced the arrest of three suspects who were believed to have been planning attacks in Spain and elsewhere.

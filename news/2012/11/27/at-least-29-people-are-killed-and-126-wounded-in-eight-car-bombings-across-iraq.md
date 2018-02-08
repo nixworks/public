@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/27/at-least-29-people-are-killed-and-126-wounded-i
 
 ### [2012-11-27](/news/2012/11/27/index.md)
 
-##### eight car bombings
+##### Eight car bombings
 # At least 29 people are killed and 126 wounded in eight car bombings across Iraq. 
 
 

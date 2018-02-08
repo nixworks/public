@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/26/the-bodies-of-six-mountaineers-are-found-on-nei
 
 ### [2011-06-26](/news/2011/06/26/index.md)
 
-##### mountaineering
+##### Mountaineering
 # The bodies of six mountaineers are found on Neige Cordier in the French Alps after apparently having been killed by an avalanche. 
 
 Six French mountaineers have been found dead after a fall in the French Alps, local officials say.

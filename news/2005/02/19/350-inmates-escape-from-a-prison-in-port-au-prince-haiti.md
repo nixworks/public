@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/19/350-inmates-escape-from-a-prison-in-port-au-pri
 
 ### [2005-02-19](/news/2005/02/19/index.md)
 
-##### prison
+##### Prison
 #  350 inmates escape from a prison in Port-au-Prince, Haiti. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/5/the-president-of-tanzania-jakaya-kikwete-is-reel
 
 ### [2010-11-5](/news/2010/11/5/index.md)
 
-##### presidency
+##### Presidency
 # The President of Tanzania Jakaya Kikwete is reelected to a second term despite allegations of vote-rigging. 
 
 Tanzanian president Jakaya Kikwete has won a second term in office, despite allegations of vote rigging.

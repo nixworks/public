@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/31/eight-people-are-killed-and-at-least-11-others-
 
 ### [2017-10-31](/news/2017/10/31/index.md)
 
-##### a recent terror attack in New York City
+##### A recent terror attack in New York City
 # Eight people are killed and at least 11 others injured when a man in a rented pickup truck drives down a bike path along the West Side Highway in Lower Manhattan. The 29-year-old suspect, later identified as Uzbekistani immigrant Sayfullo Saipov, is shot and taken into custody by police. Police are treating this incident as an act of terrorism. 
 
  NEW YORK (AP) — A man in a rented truck drove onto a busy bicycle path near the World Trade Center memorial Tuesday, killing at least six people and injuring several others, polic

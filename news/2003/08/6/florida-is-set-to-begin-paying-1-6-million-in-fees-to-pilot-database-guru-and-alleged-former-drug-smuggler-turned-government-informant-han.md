@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/6/florida-is-set-to-begin-paying-1-6-million-in-fe
 
 ### [2003-08-6](/news/2003/08/6/index.md)
 
-##### the state
+##### The state
 #  Florida is set to begin paying $1.6 million in fees to pilot-database guru and alleged former drug smuggler turned government informant Hank Asher in payment for his MATRIX system, a rapidly searchable database combining existing police records and several large commercially available computer databases. Civil libertarians are outraged at the system, claiming it is Orwellian and reminiscent of the Federal Total Information Awareness program. The United States Department of Justice and Department of Homeland Security are providing funds to expand Matrix coverage to the entire country.
 
 

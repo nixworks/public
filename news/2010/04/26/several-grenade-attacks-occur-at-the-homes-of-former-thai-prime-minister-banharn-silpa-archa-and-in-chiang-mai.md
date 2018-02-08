@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/26/several-grenade-attacks-occur-at-the-homes-of-f
 
 ### [2010-04-26](/news/2010/04/26/index.md)
 
-##### grenade
+##### Grenade
 #  Several grenade attacks occur at the homes of former Thai Prime Minister Banharn Silpa-archa and in Chiang Mai. 
 
 Pro-establishment group threatens to move against red shirts if government fails to act.

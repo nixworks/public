@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/23/a-bright-type-ia-supernova-sn-2014j-is-discover
 
 ### [2014-01-23](/news/2014/01/23/index.md)
 
-##### supernova
+##### Supernova
 # A bright type-Ia supernova SN 2014J is discovered in the starburst galaxy Messier 82. 
 
 

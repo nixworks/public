@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/two-women-are-beheaded-while-another-woman-and-
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### beheaded
+##### Beheaded
 # Two women are beheaded while another woman and her two daughters await the same fate as they are held captive on accusations of sorcery in Bougainville, Papua New Guinea. 
 
 Two women have been beheaded while another woman and her two daughters await the same fate as a they are held captive on accusations of sorcery in Papua New Guinea. - New Zealand Herald

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/30/a-series-of-bomb-blasts-in-assam-india-kills-at
 
 ### [2008-10-30](/news/2008/10/30/index.md)
 
-##### series of bomb blasts
+##### Series of bomb blasts
 #  A series of bomb blasts in Assam, India, kills at least 66 people and injures more than 470. 
 
 Assam CM Tarun Gogoi said RDX was used to trigger two of the six blasts in Guwahati. The bombs are suspected to have been planted by terrorist outfit HuJI.

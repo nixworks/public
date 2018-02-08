@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/15/smog-from-the-2010-russian-wildfires-returns-to
 
 ### [2010-08-15](/news/2010/08/15/index.md)
 
-##### smog
+##### Smog
 # Smog from the 2010 Russian wildfires returns to Moscow. 
 
 

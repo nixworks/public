@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/6/indonesia-s-national-human-rights-commission-sub
 
 ### [2011-01-6](/news/2011/01/6/index.md)
 
-##### human rights
+##### Human rights
 # Indonesia's National Human Rights Commission submits a report to President Susilo Bambang Yudhoyono on its investigations into reports of torture of Papuans by soldiers, and urges him to take action against human rights violations by security forces in the eastern Papua region. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/12/severe-rain-causes-flash-flooding-throughout-ir
 
 ### [2007-06-12](/news/2007/06/12/index.md)
 
-##### rain
+##### Rain
 #  Severe rain causes flash flooding throughout Ireland, where places have been flooded after just 30 minutes of rain, particularly in Ulster. This brings to an end a period of very warm temperatures of up to 29 degC (84 degF) on the island. The town of Omagh and parts of Belfast are worst hit. 
 
 Northern Ireland Water has set up major emergency incident teams in Belfast and Omagh to respond to customer complaints of flooding across the North.

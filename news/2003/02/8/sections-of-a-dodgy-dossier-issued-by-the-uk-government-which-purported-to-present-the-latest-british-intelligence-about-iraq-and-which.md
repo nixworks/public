@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/8/sections-of-a-dodgy-dossier-issued-by-the-uk-gov
 
 ### [2003-02-8](/news/2003/02/8/index.md)
 
-##### dodgy dossier
+##### Dodgy dossier
 #  Sections of a 'dodgy dossier' issued by the UK government, which purported to present the latest British intelligence about Iraq, and which had been cited by Tony Blair and Colin Powell as evidence for the need for war, were criticized as plagiarisms. They had been copied without permission from a number of sources including "Jane's Intelligence Review" and a 12-year-old doctoral thesis of a Californian student that had been published in the US journal "Middle East Review of International Affairs". Some sentences were copied word-for-word, and spelling mistakes had been reproduced from the original articles. Downing Street responded by saying that the government had never claimed exclusive authorship and that the information was accurate.
 
 

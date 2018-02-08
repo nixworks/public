@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/3/new-claims-of-bubble-fusion-are-made-claiming-th
 
 ### [2004-03-3](/news/2004/03/3/index.md)
 
-##### bubble fusion
+##### Bubble fusion
 #  New claims of bubble fusion are made, claiming that the results of previous experiments have been replicated under more stringent experimental conditions. 
 
 

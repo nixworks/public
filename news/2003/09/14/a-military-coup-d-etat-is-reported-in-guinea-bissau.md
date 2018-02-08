@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/14/a-military-coup-d-etat-is-reported-in-guinea-bi
 
 ### [2003-09-14](/news/2003/09/14/index.md)
 
-##### coup d'tat
+##### Coup d'tat
 #  A military coup d'tat is reported in Guinea-Bissau.
 
 

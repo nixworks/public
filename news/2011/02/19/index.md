@@ -15,7 +15,7 @@ _Context: Manama_
 ### [At least five people are killed in demonstrations in several cities across Yemen. ](/news/2011/02/19/at-least-five-people-are-killed-in-demonstrations-in-several-cities-across-yemen.md)
 Five people are killed at anti-government protests in Yemen, four as police open fire in the port city of Aden and one from a grenade attack in Taiz.
 
-##### democratic
+##### Democratic
 ### [Police break up a pro-democracy protest in the capital Algiers. ](/news/2011/02/19/police-break-up-a-pro-democracy-protest-in-the-capital-algiers.md)
 Several people are injured and others are arrested as police thwart pro-democracy rally in capital Algiers, reports say.
 
@@ -39,13 +39,13 @@ Thousands of people rally in the Basque city of Bilbao in northern Spain to dema
 ### [Pirates seize a yacht with four Americans off the coast of Oman. ](/news/2011/02/19/pirates-seize-a-yacht-with-four-americans-off-the-coast-of-oman.md)
 Fifty-eight foot American-owned yacht seized off the coast of Oman with four US citizens on board, officials say.
 
-##### tear gas
+##### Tear gas
 ### [Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. ](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thousands-of-people-protest-against-an-authorized-neo-nazi-march-in-dresden.md)
-_Context: tear gas, water cannon, Dresden_
+_Context: Dresden, water cannon, tear gas_
 
 ##### Iran
 ### [Iranian director Asghar Farhadi wins three awards, including the Golden Bear, for his film "Nader and Simin, A Separation" as the 61st Berlin International Film Festival ends. There are other winners from Argentina, Albania, Germany and Hungary. ](/news/2011/02/19/iranian-director-asghar-farhadi-wins-three-awards-including-the-golden-bear-for-his-film-nader-and-simin-a-separation-as-the-61st-berli.md)
-_Context: 61st Berlin International Film Festival, Argentina, German, Asghar Farhadi, Hungary, Iran, Albania, Nader and Simin, A Separation, Golden Bear_
+_Context: Argentina, German, 61st Berlin International Film Festival, Hungary, Albania, Iran, Golden Bear, Nader and Simin, A Separation, Asghar Farhadi_
 
 ##### International Petroleum Investment Company
 ### [International Petroleum Investment Company makes a $4billion bid for the remaining 53% of shares of Compania Espanola de Petroleos.](/news/2011/02/19/international-petroleum-investment-company-makes-a-4billion-bid-for-the-remaining-53-of-shares-of-compaa-aa-espaa-ola-de-petra3leos.md)
@@ -61,7 +61,7 @@ The Cuban government frees a jailed dissident journalist who refused to go into 
 
 ##### Madagascar
 ### [The return of former Madagascan President Marc Ravalomanana, in exile in South Africa, is blocked by the government on the island. Tear gas is fired to disperse supporters at the international airport. ](/news/2011/02/19/the-return-of-former-madagascan-president-marc-ravalomanana-in-exile-in-south-africa-is-blocked-by-the-government-on-the-island-tear-gas.md)
-_Context: Madagascar, Marc Ravalomanana, President, South Africa_
+_Context: Marc Ravalomanana, South Africa, President, Madagascar_
 
 ##### Governor of Wisconsin
 ### [Governor of Wisconsin Scott Walker rejects union concessions on the state budget as protests continue in the state capital. ](/news/2011/02/19/governor-of-wisconsin-scott-walker-rejects-union-concessions-on-the-state-budget-as-protests-continue-in-the-state-capital.md)

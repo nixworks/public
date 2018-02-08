@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/16/an-h5-strain-of-avian-influenza-has-been-detect
 
 ### [2006-06-16](/news/2006/06/16/index.md)
 
-##### avian influenza
+##### Avian influenza
 #  An H5 strain of avian influenza has been detected in the Canadian province of Prince Edward Island. The bird flu currently has a "low risk" to humans.
 
 

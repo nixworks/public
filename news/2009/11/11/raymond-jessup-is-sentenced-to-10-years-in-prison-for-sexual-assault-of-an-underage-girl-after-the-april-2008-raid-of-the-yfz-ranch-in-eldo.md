@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/11/raymond-jessup-is-sentenced-to-10-years-in-pris
 
 ### [2009-11-11](/news/2009/11/11/index.md)
 
-##### sexual assault of an underage girl
+##### Sexual assault of an underage girl
 #  Raymond Jessup is sentenced to 10 years in prison for sexual assault of an underage girl after the April 2008 raid of the YFZ Ranch in Eldorado, Texas. 
 
 The first dissident Mormon to be convicted of sexually assaulting a child at a Texas compound was sentenced to 10 years in prison Tuesday.

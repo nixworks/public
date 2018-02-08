@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-sec
 
 ### [2009-11-25](/news/2009/11/25/index.md)
 
-##### secession
+##### Secession
 #  Five people are killed at a rally demanding secession in Shabwa, southern Yemen. 
 
 

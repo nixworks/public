@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-uni
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
-##### northeastern United States
+##### Northeastern United States
 # A dangerous cold snap hits the northeastern United States with the city of Boston, Massachusetts, to face its coldest Valentine's Day in four decades. 
 
 A dangerous cold snap bringing life-threatening cold was settling in across the northeastern United States on Saturday and a snow squall triggered a pileup of dozens of vehicles on a Pennsylvania highway that left several people dead.

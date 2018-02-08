@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/10/a-suicide-car-bomber-attacks-a-nato-convoy-in-k
 
 ### [2008-04-10](/news/2008/04/10/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide car bomber attacks a NATO convoy in Kandahar, resulting in the death of eight citizens. 
 
 

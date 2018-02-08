@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/11/pornographer-larry-flynt-states-that-he-has-bou
 
 ### [2003-11-11](/news/2003/11/11/index.md)
 
-##### pornography
+##### Pornography
 #  Pornographer Larry Flynt states that he has bought topless photos of famous Iraq war soldier Jessica Lynch and was planning to publish them in January 2004; later, he says he bought them to prevent them from ever being published. The photos reportedly show Lynch frolicking with male soldiers prior to her deployment to Iraq.
 
 

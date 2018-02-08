@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/1/the-smartphone-wars-are-re-ignited-as-rockstar-c
 
 ### [2013-11-1](/news/2013/11/1/index.md)
 
-##### smartphone wars
+##### Smartphone wars
 # The smartphone wars are re-ignited, as Rockstar Consortium, a company owned by companies including Apple and Microsoft, starts wide-ranging legal action against Google, Samsung, and other makers of Android phones. 
 
 The group that owns thousands of former Nortel patents filed a barrage of patent lawsuits on Thursday against cell phone manufacturers including Google, the company it outbid in the Nortel bankruptcy auction.

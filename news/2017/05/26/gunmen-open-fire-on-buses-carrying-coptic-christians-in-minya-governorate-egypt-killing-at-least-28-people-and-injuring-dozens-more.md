@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-chris
 
 ### [2017-05-26](/news/2017/05/26/index.md)
 
-##### open fire
+##### Open fire
 # Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. 
 
 Children are among at least 28 people massacred in Egypt and dozens more injured after gunmen opened fire on a bus carrying Coptic Christians. The health ministry said the victims had been on their way to the St Samuel the Confessor monastery when they were surrounded by eight to 10 attackers wearing military uniforms and masks. The Christians’ bus was blocked by three vehicles before the militants opened fire, as it travelled through the Minya region towards Maghagha.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-c
 
 ### [2014-06-8](/news/2014/06/8/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # 24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.
 
 

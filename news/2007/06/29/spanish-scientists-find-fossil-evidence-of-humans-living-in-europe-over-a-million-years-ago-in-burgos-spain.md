@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/29/spanish-scientists-find-fossil-evidence-of-huma
 
 ### [2007-06-29](/news/2007/06/29/index.md)
 
-##### fossil
+##### Fossil
 #  Spanish scientists find fossil evidence of humans living in Europe over a million years ago in Burgos, Spain. 
 
 

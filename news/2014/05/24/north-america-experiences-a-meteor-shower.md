@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/24/north-america-experiences-a-meteor-shower.html)
 
 ### [2014-05-24](/news/2014/05/24/index.md)
 
-##### meteor shower
+##### Meteor shower
 # North America experiences a meteor shower. 
 
 

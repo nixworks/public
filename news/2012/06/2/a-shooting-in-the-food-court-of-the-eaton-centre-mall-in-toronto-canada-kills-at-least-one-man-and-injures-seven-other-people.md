@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/2/a-shooting-in-the-food-court-of-the-eaton-centre
 
 ### [2012-06-2](/news/2012/06/2/index.md)
 
-##### shooting
+##### Shooting
 # A shooting in the food court of the Eaton Centre mall in Toronto, Canada kills at least one man and injures seven other people. 
 
 

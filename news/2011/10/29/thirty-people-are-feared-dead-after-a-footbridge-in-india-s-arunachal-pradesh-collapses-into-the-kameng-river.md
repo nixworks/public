@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/29/thirty-people-are-feared-dead-after-a-footbridg
 
 ### [2011-10-29](/news/2011/10/29/index.md)
 
-##### footbridge
+##### Footbridge
 # Thirty people are feared dead after a footbridge in India's Arunachal Pradesh collapses into the Kameng River. 
 
 

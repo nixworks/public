@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/21/at-least-61-people-are-killed-and-more-than-200
 
 ### [2013-02-21](/news/2013/02/21/index.md)
 
-##### car bomb
+##### Car bomb
 # At least 61 people are killed and more than 200 injured following a car bombing near Syria's Baath Party headquarters in Damascus. Three other bombings kill 22 people and injure 50 others in the suburb of Barzeh, most of them government soldiers. These are the deadliest attacks in the Syrian capital since the outbreak of the civil war. 
 
 A car bomb killed more than 50 people and wounded 200 in central Damascus on Thursday when it blew up on a busy highway close to ruling Baath Party offices and the Russian Embassy, state media and activists said.

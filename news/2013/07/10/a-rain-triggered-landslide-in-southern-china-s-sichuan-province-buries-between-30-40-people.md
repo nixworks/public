@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/10/a-rain-triggered-landslide-in-southern-china-s-
 
 ### [2013-07-10](/news/2013/07/10/index.md)
 
-##### landslide
+##### Landslide
 # A rain-triggered landslide in southern China's Sichuan Province buries between 30-40 people. 
 
 

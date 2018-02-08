@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/31/at-least-six-people-are-killed-by-a-gunman-at-a
 
 ### [2009-12-31](/news/2009/12/31/index.md)
 
-##### killed by a gunman
+##### Killed by a gunman
 #  At least six people are killed by a gunman at a shopping centre in Espoo, near Helsinki. 
 
 

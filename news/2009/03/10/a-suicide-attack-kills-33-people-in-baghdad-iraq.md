@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/10/a-suicide-attack-kills-33-people-in-baghdad-ira
 
 ### [2009-03-10](/news/2009/03/10/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills 33 people in Baghdad, Iraq. 
 
 

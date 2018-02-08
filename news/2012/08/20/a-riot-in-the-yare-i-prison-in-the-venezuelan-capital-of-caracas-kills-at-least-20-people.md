@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/20/a-riot-in-the-yare-i-prison-in-the-venezuelan-c
 
 ### [2012-08-20](/news/2012/08/20/index.md)
 
-##### riot in the Yare I prison
+##### Riot in the Yare I prison
 # A riot in the Yare I prison in the Venezuelan capital of Caracas kills at least 20 people. 
 
 

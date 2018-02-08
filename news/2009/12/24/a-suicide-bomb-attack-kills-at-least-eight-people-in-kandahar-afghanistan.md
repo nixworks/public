@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/24/a-suicide-bomb-attack-kills-at-least-eight-peop
 
 ### [2009-12-24](/news/2009/12/24/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide bomb attack kills at least eight people in Kandahar, Afghanistan. 
 
 

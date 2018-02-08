@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-
 
 ### [2007-04-18](/news/2007/04/18/index.md)
 
-##### diplomat
+##### Diplomat
 #  A diplomat claims that an International Atomic Energy Agency document claims that Iran has assembled some 1,300 centrifuges at a key underground nuclear plant in Natanz and has started to feed them with the uranium gas necessary for enriching uranium. 
 
 

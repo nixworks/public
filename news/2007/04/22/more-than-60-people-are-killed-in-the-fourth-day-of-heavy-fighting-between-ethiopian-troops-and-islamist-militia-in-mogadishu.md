@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/22/more-than-60-people-are-killed-in-the-fourth-da
 
 ### [2007-04-22](/news/2007/04/22/index.md)
 
-##### heavy clashes
+##### Heavy clashes
 #  More than 60 people are killed in the fourth day of heavy fighting between Ethiopian troops and Islamist militia in Mogadishu. 
 
 

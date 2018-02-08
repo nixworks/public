@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/30/ten-people-were-shot-tuesday-night-in-what-appe
 
 ### [2010-03-30](/news/2010/03/30/index.md)
 
-##### southeast Washington D.C.
+##### Southeast Washington D.C.
 # Ten people were shot Tuesday night in what appears to be two drive-by shootings in southeast Washington D.C., with at least four killed. 
 
 

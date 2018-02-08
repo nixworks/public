@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arr
 
 ### [2007-11-24](/news/2007/11/24/index.md)
 
-##### opposition leader
+##### Opposition leader
 #  Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. 
 
 

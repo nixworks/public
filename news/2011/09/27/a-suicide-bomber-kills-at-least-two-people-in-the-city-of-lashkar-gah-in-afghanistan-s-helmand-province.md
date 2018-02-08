@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/27/a-suicide-bomber-kills-at-least-two-people-in-t
 
 ### [2011-09-27](/news/2011/09/27/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least two people in the city of Lashkar Gah in Afghanistan's Helmand Province. 
 
 

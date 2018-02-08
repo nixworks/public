@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-un
 
 ### [2009-04-21](/news/2009/04/21/index.md)
 
-##### maritime forces
+##### Maritime forces
 #  Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. 
 
 

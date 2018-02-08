@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/2/conservative-leader-theresa-may-states-she-will-
 
 ### [2017-05-2](/news/2017/05/2/index.md)
 
-##### last general election
+##### Last general election
 # Conservative leader Theresa May states she will be a "bloody difficult woman" in her negotiations with Jean-Claude Juncker regarding the rights of EU nationals after Brexit. 
 
 Theresa May responds to claims she clashed with the EU Commission chief over Brexit.

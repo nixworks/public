@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/16/tornadoes-kill-several-people-in-the-us-states-
 
 ### [2011-04-16](/news/2011/04/16/index.md)
 
-##### tornado
+##### Tornado
 # Tornadoes kill several people in the US states of North Carolina and South Carolina with storms killing at least 20 people in the southern United States over the past few days. 
 
 After sweeping Midwest, storm system and tornadoes cause multiple fatalities in Carolinas; 5 states now report deaths

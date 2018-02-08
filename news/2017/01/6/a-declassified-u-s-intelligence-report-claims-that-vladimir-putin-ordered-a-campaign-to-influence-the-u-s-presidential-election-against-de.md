@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/6/a-declassified-u-s-intelligence-report-claims-th
 
 ### [2017-01-6](/news/2017/01/6/index.md)
 
-##### alleged Russian interference in the 2016 U.S. election
+##### Alleged Russian interference in the 2016 U.S. election
 # A declassified U.S. intelligence report claims that Vladimir Putin ordered a campaign to influence the U.S. presidential election against Democratic Party candidate Hillary Clinton. 
 
 A declassified U.S. intelligence report released Friday directly accused Russian President Vladimir Putin of ordering a campaign to influence the U.S. election and hurt Hillary Clinton’s candidacy – findings made public after officials briefed President-elect Donald Trump.

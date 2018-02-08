@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/10/a-storm-system-comprising-at-least-three-tornad
 
 ### [2007-08-10](/news/2007/08/10/index.md)
 
-##### storm
+##### Storm
 #  A storm system comprising at least three tornadoes sweeps across northern Ohio, killing a woman in Marion, Ohio and leaving thousands without power. 
 
 

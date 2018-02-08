@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/29/an-australian-army-black-hawk-helicopter-is-los
 
 ### [2006-11-29](/news/2006/11/29/index.md)
 
-##### soldiers
+##### Soldiers
 #  An Australian Army Black Hawk helicopter is lost at sea off the coast of Fiji where it had been operating from HMAS "Kanimbla" (L-51) preparing to evacuate Australian civilians in the event of a coup. The Fijian military is holding an exercise in the capital Suva claiming there are fears of a "foreign intervention". 
 
 

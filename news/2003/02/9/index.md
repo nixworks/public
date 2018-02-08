@@ -3,7 +3,7 @@ Formats: [HTML](2003/02/9/index.html)  [JSON](2003/02/9/index.json)  [XML](2003/
 
 ## [2003-02-9](/news/2003/02/9/index.md)
 
-##### vaccination
+##### Vaccination
 ### [ The Indian Government begins it largest ever vaccination program. It aims to inoculate 160 million children against polio within six days. ](/news/2003/02/9/the-indian-government-begins-it-largest-ever-vaccination-program-it-aims-to-inoculate-160-million-children-against-polio-within-six-days.md)
 _Context: polio, vaccination_
 

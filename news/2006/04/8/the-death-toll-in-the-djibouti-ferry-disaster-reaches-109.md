@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/8/the-death-toll-in-the-djibouti-ferry-disaster-re
 
 ### [2006-04-8](/news/2006/04/8/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the Djibouti ferry disaster reaches 109. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

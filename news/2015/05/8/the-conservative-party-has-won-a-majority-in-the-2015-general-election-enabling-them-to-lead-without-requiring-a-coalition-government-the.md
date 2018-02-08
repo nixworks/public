@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/8/the-conservative-party-has-won-a-majority-in-the
 
 ### [2015-05-8](/news/2015/05/8/index.md)
 
-##### newly elected
+##### Newly elected
 # The Conservative Party has won a majority in the 2015 general election, enabling them to lead without requiring a coalition government. The Scottish National Party claims all but three seats in Scotland. 
 
 David Cameron is heading back to Downing Street as prime minister after the Conservatives win a majority - but Ed Miliband, Nick Clegg and Nigel Farage all resign as leaders of his rival parties.

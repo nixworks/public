@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/5/three-suspects-arrested-on-terrorism-charges-yes
 
 ### [2007-09-5](/news/2007/09/5/index.md)
 
-##### terrorism
+##### Terrorism
 #  Three suspects arrested on terrorism charges yesterday appear before the Federal Court of Justice of Germany in Karlsruhe. 
 
 

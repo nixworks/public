@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/4/the-war-crimes-trial-of-former-president-of-libe
 
 ### [2007-06-4](/news/2007/06/4/index.md)
 
-##### war crimes
+##### War crimes
 #  The war crimes trial of former President of Liberia Charles G. Taylor at the UN-backed Special Court for Sierra Leone begins at The Hague. 
 
 

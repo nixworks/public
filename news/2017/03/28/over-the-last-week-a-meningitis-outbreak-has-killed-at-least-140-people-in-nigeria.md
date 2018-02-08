@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/28/over-the-last-week-a-meningitis-outbreak-has-ki
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
-##### meningitis
+##### Meningitis
 # Over the last week, a meningitis outbreak has killed at least 140 people in Nigeria. 
 
 The disease has infected more than 1,000 people in one of the worst outbreaks for years.

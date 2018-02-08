@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/23/100-000-people-attend-the-first-day-of-a-two-da
 
 ### [2012-06-23](/news/2012/06/23/index.md)
 
-##### music concert
+##### Music concert
 # 100,000 people attend the first day of a two-day music concert at Hackney Marshes in London, which forms part of the build-up to the 2012 Summer Olympics. 
 
 

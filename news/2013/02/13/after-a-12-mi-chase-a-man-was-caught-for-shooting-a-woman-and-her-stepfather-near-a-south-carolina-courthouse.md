@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooti
 
 ### [2013-02-13](/news/2013/02/13/index.md)
 
-##### stepfather
+##### Stepfather
 # After a 12 mi chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. 
 
 A man involved in a paternity dispute opened fire Wednesday in front of a South Carolina courthouse, wounding a woman and her stepfather, then led police on a 12-mile chase before he was caught, a sheriff said.

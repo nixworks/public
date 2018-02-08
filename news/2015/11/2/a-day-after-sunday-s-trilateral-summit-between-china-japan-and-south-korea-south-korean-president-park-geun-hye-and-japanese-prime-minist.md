@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/2/a-day-after-sunday-s-trilateral-summit-between-c
 
 ### [2015-11-2](/news/2015/11/2/index.md)
 
-##### trilateral summit
+##### Trilateral summit
 # A day after Sunday's trilateral summit between China, Japan, and South Korea, South Korean President Park Geun-hye and Japanese Prime Minister Shinzo Abe are meeting in Seoul. The two countries haven't met in over three years. Expected topics include trade ties, North Korea's pursuit of nuclear bombs, and long-running disputes over Japanese wartime aggression and behavior. 
 
 

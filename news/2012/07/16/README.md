@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/16/index.html)  [JSON](2012/07/16/index.json)  [XML](201
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Federal Police arrested one of the three ringleaders responsible for the deadly shootout last month in the Mexico City International Airport's busy food court. An anonymous tip-off led police to his whereabouts. ](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.md)
-_Context: Mexican Drug War, Mexico City International Airport, Mexican Police_
+_Context: Mexico City International Airport, Mexican Police, Mexican Drug War_
 
 ##### Damascus
 ### [Heavy fighting is reported in the capital Damascus overnight with claims of at least five deaths and dozens of injuries. ](/news/2012/07/16/heavy-fighting-is-reported-in-the-capital-damascus-overnight-with-claims-of-at-least-five-deaths-and-dozens-of-injuries.md)
@@ -13,7 +13,7 @@ Syrian troops backed by armoured vehicles today entered the district of Midan in
 
 ##### Pakistani Taliban
 ### [Pakistani Taliban attack an office of the security force's intelligence agency in Bannu and take several hostages. ](/news/2012/07/16/pakistani-taliban-attack-an-office-of-the-security-force-s-intelligence-agency-in-bannu-and-take-several-hostages.md)
-_Context: Pakistani Taliban, Bannu_
+_Context: Bannu, Pakistani Taliban_
 
 ##### Sinai Peninsula
 ### [Two American tourists who were kidnapped in the Sinai Peninsula in Egypt on 13 July 2012 are freed. ](/news/2012/07/16/two-american-tourists-who-were-kidnapped-in-the-sinai-peninsula-in-egypt-on-13-july-2012-are-freed.md)
@@ -35,7 +35,7 @@ Kitty Wells, the long-reigning “Queen of Country Music” and the first woman 
 ### [The United States Senate accuses the HSBC bank of laundering Mexican drug money. ](/news/2012/07/16/the-united-states-senate-accuses-the-hsbc-bank-of-laundering-mexican-drug-money.md)
 _Context: United States Senate, HSBC_
 
-##### flagship nuclear power
+##### Flagship nuclear power
 ### [The launch of a flagship nuclear power station in Finland is delayed for a third time. ](/news/2012/07/16/the-launch-of-a-flagship-nuclear-power-station-in-finland-is-delayed-for-a-third-time.md)
 The launch of a flagship nuclear power station in Finland is delayed for a third time, Finnish electricity company TVO says.
 
@@ -47,7 +47,7 @@ NBC News has acquired full control of msnbc.com and its digital network from Mic
 ### [Stephen Covey, author of The Seven Habits of Highly Effective People, businessman and motivational speaker dies. ](/news/2012/07/16/stephen-covey-author-of-the-seven-habits-of-highly-effective-people-businessman-and-motivational-speaker-dies.md)
 Stephen R. Covey, author of &quot;The Seven Habits of Highly Effective People&quot; as well as three other books that have all sold more than a 
 
-##### military
+##### Military
 ### [Japan Self-Defense Forces airlift supplies to thousands of people isolated by flooding in southwest Japan, as the death toll rises to 24. ](/news/2012/07/16/japan-self-defense-forces-airlift-supplies-to-thousands-of-people-isolated-by-flooding-in-southwest-japan-as-the-death-toll-rises-to-24.md)
 _Context: military, Japan_
 
@@ -55,17 +55,17 @@ _Context: military, Japan_
 ### [Former National Rugby League player Craig Field is charged with murder following the death of a man allegedly assaulted in the Australian town of Kingscliff, New South Wales. ](/news/2012/07/16/former-national-rugby-league-player-craig-field-is-charged-with-murder-following-the-death-of-a-man-allegedly-assaulted-in-the-australian-to.md)
 Former NRL player Craig Field has been charged with murder after a man he allegedly assaulted on the NSW north coast died in hospital, police say.
 
-##### shooting
+##### Shooting
 ### [A "multiple shooting" incident at Scarborough, a major district in Toronto, Canada, results in at least one death and 19 injured. ](/news/2012/07/16/a-multiple-shooting-incident-at-scarborough-a-major-district-in-toronto-canada-results-in-at-least-one-death-and-19-injured.md)
-_Context: shooting, Canadian, Toronto, Scarborough_
+_Context: Canadian, Scarborough, shooting, Toronto_
 
 ##### North Korea
 ### [North Korea announces that Ri Yong-ho, a senior military figure and a member of the central presidium of the Workers' Party of Korea, is relieved of all duties due to illness. ](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.md)
-_Context: Ri Yong-ho, North Korea, Workers' Party of Korea_
+_Context: North Korea, Workers' Party of Korea, Ri Yong-ho_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration approves Truvada as the first drug shown to reduce the risk of HIV infection. ](/news/2012/07/16/the-u-s-food-and-drug-administration-approves-truvada-as-the-first-drug-shown-to-reduce-the-risk-of-hiv-infection.md)
-_Context: Food and Drug Administration, Truvada_
+_Context: Truvada, Food and Drug Administration_
 
 ## [Previous Day...](/news/2012/07/15/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/16/former-chess-champion-bobby-fischer-has-been-of
 
 ### [2004-12-16](/news/2004/12/16/index.md)
 
-##### chess
+##### Chess
 #  Former chess champion Bobby Fischer has been offered residency in Iceland. He is currently detained in Japan, and is wanted by the United States. 
 
 

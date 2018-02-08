@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/25/reports-emerge-of-a-major-leak-of-natural-gas-i
 
 ### [2003-12-25](/news/2003/12/25/index.md)
 
-##### natural gas
+##### Natural gas
 #  Reports emerge of a major leak of natural gas in a gas field near the south-western Chinese city of Chongqing. Over 100 people are believed dead and up to 40,000 people have been evacuated from the area surrounding the leak. [http:--news.bbc.co.uk-1-hi-world-asia-pacific-3347769.stm]
 
 

@@ -5,15 +5,15 @@ Formats: [HTML](2010/12/13/index.html)  [JSON](2010/12/13/index.json)  [XML](201
 
 ##### Liberia
 ### [A Liberian owned cargo vessel with 24 Filipino crew is seized by Somali pirates 550 nautical miles from the coast of India. ](/news/2010/12/13/a-liberian-owned-cargo-vessel-with-24-filipino-crew-is-seized-by-somali-pirates-550-nautical-miles-from-the-coast-of-india.md)
-_Context: Philippine, Somali pirates, Liberia, India_
+_Context: India, Philippine, Somali pirates, Liberia_
 
-##### soup
+##### Soup
 ### [A 2,400-year-old pot of soup is unearthed in China near the ancient capital Xi'an. ](/news/2010/12/13/a-2-400-year-old-pot-of-soup-is-unearthed-in-china-near-the-ancient-capital-xi-an.md)
 Chinese archaeologists discover what they believe is a 2,400-year-old pot of soup, during airport extension work in the city of Xian, state media report.
 
 ##### Brunei
 ### [Brunei and Malaysia sign a deal to jointly explore and produce oil and gas off the coast of northern Borneo. ](/news/2010/12/13/brunei-and-malaysia-sign-a-deal-to-jointly-explore-and-produce-oil-and-gas-off-the-coast-of-northern-borneo.md)
-_Context: Malaysia, Borneo, Brunei_
+_Context: Borneo, Brunei, Malaysia_
 
 ##### Scotland
 ### [Major British supermarkets and online stores stop taking orders in Scotland in the run up to Christmas, because of a backlog of deliveries caused by the recent adverse weather conditions. ](/news/2010/12/13/major-british-supermarkets-and-online-stores-stop-taking-orders-in-scotland-in-the-run-up-to-christmas-because-of-a-backlog-of-deliveries-c.md)
@@ -23,13 +23,13 @@ _Context: Scotland_
 ### [A South Korean deep sea trawler sinks in the Southern Ocean two thousand kilometres south of New Zealand with at least five people dead and seventeen missing. ](/news/2010/12/13/a-south-korean-deep-sea-trawler-sinks-in-the-southern-ocean-two-thousand-kilometres-south-of-new-zealand-with-at-least-five-people-dead-and.md)
 More than 20 fishermen are feared dead in icy waters after a South Korean deep-sea trawler sinks without warning in the Southern Ocean.
 
-##### flood
+##### Flood
 ### [Heavy rains and flooding in Colombia cause up to $5.2 billion in damages. ](/news/2010/12/13/heavy-rains-and-flooding-in-colombia-cause-up-to-5-2-billion-in-damages.md)
 _Context: flood, Colombia_
 
 ##### China
 ### [Woman's arson kills 9 in gambling grievances in east China's Zhejiang Province. ](/news/2010/12/13/woman-s-arson-kills-9-in-gambling-grievances-in-east-china-s-zhejiang-province.md)
-_Context: Zhejiang Province, China_
+_Context: China, Zhejiang Province_
 
 ##### Israel
 ### [New Israeli bill would prevent a terror suspect from meeting a specific lawyer for 6 months instead of 21 days as is the case today. The maximum period of time in which a terror suspect can be denied access to a specific lawyer will be one year. ](/news/2010/12/13/new-israeli-bill-would-prevent-a-terror-suspect-from-meeting-a-specific-lawyer-for-6-months-instead-of-21-days-as-is-the-case-today-the-max.md)
@@ -41,15 +41,15 @@ French police end a hostage siege at a nursery school after a youth armed with t
 
 ##### Kuwait
 ### [Kuwait closes the offices of Al Jazeera, following coverage of a crackdown at an opposition rally. ](/news/2010/12/13/kuwait-closes-the-offices-of-al-jazeera-following-coverage-of-a-crackdown-at-an-opposition-rally.md)
-_Context: Al Jazeera, Kuwait_
+_Context: Kuwait, Al Jazeera_
 
-##### second murder trial
+##### Second murder trial
 ### [Mark Weston, the first person to face a second murder trial in the United Kingdom following the discovery of new forensic evidence is convicted of killing a woman in 1995. ](/news/2010/12/13/mark-weston-the-first-person-to-face-a-second-murder-trial-in-the-united-kingdom-following-the-discovery-of-new-forensic-evidence-is-convic.md)
 The first person to face a second murder trial after the discovery of new forensic evidence is convicted of killing a woman in 1995.
 
 ##### US Eastern District Court of Virginia
 ### [United States District Court for the Eastern District of Virginia Judge Henry E. Hudson rules against Barack Obama's health care reform requirement to purchase health insurance. ](/news/2010/12/13/united-states-district-court-for-the-eastern-district-of-virginia-judge-henry-e-hudson-rules-against-barack-obama-s-health-care-reform-requ.md)
-_Context: Henry E. Hudson, US Eastern District Court of Virginia, health care reform, health insurance, Barack Obama_
+_Context: Barack Obama, health insurance, Henry E. Hudson, health care reform, US Eastern District Court of Virginia_
 
 #####  Catholic nun
 ### [An American Catholic nun pleads not guilty to charges of embezzling $850,000 from Iona College. ](/news/2010/12/13/an-american-catholic-nun-pleads-not-guilty-to-charges-of-embezzling-850-000-from-iona-college.md)
@@ -79,7 +79,7 @@ _Context: WikiLeaks, OpenLeaks_
 
 ##### Papua New Guinea
 ### [Papua New Guinea's Supreme Court unanimously rules the reappointment of Sir Paulias Matane as Governor-General of Papua New Guinea unconstitutional due to the lack of a secret ballot. Matane steps down from his position and Jeffrey Nape becomes acting Governor-General. ](/news/2010/12/13/papua-new-guinea-s-supreme-court-unanimously-rules-the-reappointment-of-sir-paulias-matane-as-governor-general-of-papua-new-guinea-unconstit.md)
-_Context: Paulias Matane, Jeffrey Nape, Governor-General of Papua New Guinea, Papua New Guinea, secret ballot, Supreme Court_
+_Context: Paulias Matane, Jeffrey Nape, secret ballot, Governor-General of Papua New Guinea, Papua New Guinea, Supreme Court_
 
 ##### Hashim Thaci
 ### [Hashim Thaci, the Prime Minister of Kosovo, claims victory in the Kosovan parliamentary election. ](/news/2010/12/13/hashim-thaassi-the-prime-minister-of-kosovo-claims-victory-in-the-kosovan-parliamentary-election.md)
@@ -91,11 +91,11 @@ Tehran, Dec 13 (DPA) In a surprise move, Iranian President Mahmoud Ahmadinejad h
 
 ##### Bernie Sanders
 ### [U.S. senator Bernie Sanders gives an 8.5 hour senate speech denouncing the extension of tax cuts for the wealthiest Americans, citing the very large inequality in income and wealth and its growth, and that America is close to being a Banana republic. ](/news/2010/12/13/u-s-senator-bernie-sanders-gives-an-8-5-hour-senate-speech-denouncing-the-extension-of-tax-cuts-for-the-wealthiest-americans-citing-the-ve.md)
-_Context:  wealth,  senate, Banana republic, Bernie Sanders,  inequality in income_
+_Context:  inequality in income, Bernie Sanders,  senate, Banana republic,  wealth_
 
-##### fork-marked lemur
+##### Fork-marked lemur
 ### [A new species of fork-marked lemur has been identified in northeast Madagascar. ](/news/2010/12/13/a-new-species-of-fork-marked-lemur-has-been-identified-in-northeast-madagascar.md)
-_Context: fork-marked lemur, Madagascar_
+_Context: Madagascar, fork-marked lemur_
 
 ## [Previous Day...](/news/2010/12/12/index.md)
 

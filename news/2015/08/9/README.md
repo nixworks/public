@@ -3,13 +3,13 @@ Formats: [HTML](2015/08/9/index.html)  [JSON](2015/08/9/index.json)  [XML](2015/
 
 ## [2015-08-9](/news/2015/08/9/index.md)
 
-##### atomic bomb
+##### Atomic bomb
 ### [Japan commemorates the 70th anniversary of the atomic bomb dropped over the Japanese city of Nagasaki during World War II. ](/news/2015/08/9/japan-commemorates-the-70th-anniversary-of-the-atomic-bomb-dropped-over-the-japanese-city-of-nagasaki-during-world-war-ii.md)
 The Japanese city of Nagasaki holds an emotional service to mark 70 years since the US atomic bomb attack amid a row over its military.
 
 ##### 2015 Pacific typhoon season
 ### [The death toll in China from Typhoon Soudelor rises to at least 22 people with more missing and millions without power. ](/news/2015/08/9/the-death-toll-in-china-from-typhoon-soudelor-rises-to-at-least-22-people-with-more-missing-and-millions-without-power.md)
-_Context: Typhoon Soudelor, 2015 Pacific typhoon season, China_
+_Context: Typhoon Soudelor, China, 2015 Pacific typhoon season_
 
 ##### Syria
 ### [An arrest warrant is issued for the cousin of Syrian President Bashar al-Assad, Suleiman Hilal Al-Assad, who is accused of shooting and killing Colonel Hassan Al-Sheikh of the Syrian Armed Forces at what can be described as a traffic dispute. ](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.md)

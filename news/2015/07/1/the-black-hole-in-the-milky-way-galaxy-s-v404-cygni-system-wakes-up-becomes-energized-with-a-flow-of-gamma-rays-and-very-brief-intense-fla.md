@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/1/the-black-hole-in-the-milky-way-galaxy-s-v404-cy
 
 ### [2015-07-1](/news/2015/07/1/index.md)
 
-##### black hole
+##### Black hole
 # The black hole in the Milky Way galaxy's V404 Cygni system wakes up (becomes energized, with a flow of gamma rays and very brief intense flashes of light) after 26 years. 
 
 

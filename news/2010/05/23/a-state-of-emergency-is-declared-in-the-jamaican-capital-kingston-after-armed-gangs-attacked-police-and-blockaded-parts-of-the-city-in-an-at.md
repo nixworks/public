@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/23/a-state-of-emergency-is-declared-in-the-jamaica
 
 ### [2010-05-23](/news/2010/05/23/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in the Jamaican capital Kingston after armed gangs attacked police and blockaded parts of the city in an attempt to prevent the arrest of a drug lord. 
 
 

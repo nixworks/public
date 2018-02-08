@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/29/the-government-of-australia-ends-its-mandatory-
 
 ### [2008-07-29](/news/2008/07/29/index.md)
 
-##### government of Australia
+##### Government of Australia
 #  The government of Australia ends its mandatory detention of all asylum seekers. 
 
 

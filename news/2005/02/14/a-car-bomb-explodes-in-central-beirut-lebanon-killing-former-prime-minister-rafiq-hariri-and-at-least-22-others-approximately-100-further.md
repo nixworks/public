@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/14/a-car-bomb-explodes-in-central-beirut-lebanon-k
 
 ### [2005-02-14](/news/2005/02/14/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb explodes in central Beirut, Lebanon killing former Prime Minister Rafiq Hariri and at least 22 others. Approximately 100 further people are injured in the attack. A little known group calling itself "Victory and Jihad in Greater Syria" claim responsibility. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/4/a-meningitis-outbreak-has-been-reported-in-the-g
 
 ### [2014-04-4](/news/2014/04/4/index.md)
 
-##### meningitis
+##### Meningitis
 # A meningitis outbreak has been reported in the greater Los Angeles area, with incidents related to sexual intercourse. 
 
 

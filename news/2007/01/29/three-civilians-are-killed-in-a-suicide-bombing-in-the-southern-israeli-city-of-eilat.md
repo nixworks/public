@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/29/three-civilians-are-killed-in-a-suicide-bombing
 
 ### [2007-01-29](/news/2007/01/29/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  Three civilians are killed in a suicide bombing in the southern Israeli city of Eilat. 
 
 

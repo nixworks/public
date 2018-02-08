@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/8/two-workers-are-missing-and-more-than-thirty-wor
 
 ### [2010-09-8](/news/2010/09/8/index.md)
 
-##### oil rig
+##### Oil rig
 # Two workers are missing and more than thirty workers are trapped in an oil rig in the Shengli oil field off Dongying in China's Shandong province. 
 
 

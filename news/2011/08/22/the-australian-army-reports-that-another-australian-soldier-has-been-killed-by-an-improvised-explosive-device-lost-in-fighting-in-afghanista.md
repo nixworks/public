@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/22/the-australian-army-reports-that-another-austra
 
 ### [2011-08-22](/news/2011/08/22/index.md)
 
-##### soldiers
+##### Soldiers
 # The Australian Army reports that another Australian soldier has been killed by an improvised explosive device lost in fighting in Afghanistan. 
 
 

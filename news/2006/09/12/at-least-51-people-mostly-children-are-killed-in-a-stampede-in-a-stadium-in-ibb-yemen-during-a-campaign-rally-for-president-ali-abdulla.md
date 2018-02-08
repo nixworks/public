@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/12/at-least-51-people-mostly-children-are-killed-i
 
 ### [2006-09-12](/news/2006/09/12/index.md)
 
-##### stampede
+##### Stampede
 #  At least 51 people, mostly children, are killed in a stampede in a stadium in Ibb, Yemen, during a campaign rally for President Ali Abdullah Saleh. The children were killed when some of the citizens, who were bused in to hear the president speak, tried to leave. 
 
 

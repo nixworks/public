@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/27/index.html)  [JSON](2014/05/27/index.json)  [XML](201
 
 ##### Russia
 ### [At least thirty pro-Russian separatists have died in fighting over control of Donetsk International Airport; the Ukrainian government claims to have total control of the airport following the clashes with the separatists. ](/news/2014/05/27/at-least-thirty-pro-russian-separatists-have-died-in-fighting-over-control-of-donetsk-international-airport-the-ukrainian-government-claims.md)
-_Context: Donetsk International Airport, Russia, Government of Ukraine_
+_Context: Government of Ukraine, Donetsk International Airport, Russia_
 
 ##### United Nations
 ### [Eleven people, including six members of a United Nations Organisation for the Prohibition of Chemical Weapons fact finding mission, are attacked near Hama in central Syria. ](/news/2014/05/27/eleven-people-including-six-members-of-a-united-nations-organisation-for-the-prohibition-of-chemical-weapons-fact-finding-mission-are-atta.md)
@@ -17,11 +17,11 @@ The troops will include troops to train and advise Afghanistan&rsquo;s military 
 
 ##### United States
 ### [An American doctor, Mehdi Ali Qamar, is shot and killed in Pakistan by unknown assailants on motorbikes. ](/news/2014/05/27/an-american-doctor-mehdi-ali-qamar-is-shot-and-killed-in-pakistan-by-unknown-assailants-on-motorbikes.md)
-_Context: Pakistan, United States_
+_Context: United States, Pakistan_
 
 ##### Iraqi Insurgency
 ### [At least 35 people killed, 70 injured in bomb attacks in Baghdad and Anbar Province of Iraq. ](/news/2014/05/27/at-least-35-people-killed-70-injured-in-bomb-attacks-in-baghdad-and-anbar-province-of-iraq.md)
-_Context: Iraqi Insurgency, Iraq, Anbar Province, Baghdad_
+_Context: Baghdad, Iraqi Insurgency, Iraq, Anbar Province_
 
 #####  Georgian
 ### [Opposition in Georgia's breakaway Abkhazia takes over the government headquarters, forcing President Alexander Ankvab to flee the capital, Sukhumi. ](/news/2014/05/27/opposition-in-georgia-s-breakaway-abkhazia-takes-over-the-government-headquarters-forcing-president-alexander-ankvab-to-flee-the-capital-s.md)
@@ -33,11 +33,11 @@ European Central Bank President Mario Draghi said on Tuesday the bank was aware 
 
 ##### Pfizer
 ### [Pfizer announces plans to release an over-the-counter version of heartburn medication Nexium. ](/news/2014/05/27/pfizer-announces-plans-to-release-an-over-the-counter-version-of-heartburn-medication-nexium.md)
-_Context: Pfizer, heartburn, Nexium_
+_Context: heartburn, Pfizer, Nexium_
 
 ##### Malaysia
 ### [Malaysia's Department of Civil Aviation and British satellite firm Inmarsat release the raw data used to determine the estimated path of missing Malaysia Airlines Flight 370. ](/news/2014/05/27/malaysia-s-department-of-civil-aviation-and-british-satellite-firm-inmarsat-release-the-raw-data-used-to-determine-the-estimated-path-of-mis.md)
-_Context: Malaysia, Inmarsat, British, Department of Civil Aviation_
+_Context: Department of Civil Aviation, British, Malaysia, Inmarsat_
 
 ##### Vietnam
 ### [Vietnam and China trade accusations over an incident in the South China Sea that led to the sinking of a Vietnamese fishing boat yesterday. ](/news/2014/05/27/vietnam-and-china-trade-accusations-over-an-incident-in-the-south-china-sea-that-led-to-the-sinking-of-a-vietnamese-fishing-boat-yesterday.md)
@@ -53,9 +53,9 @@ _Context: Government of Egypt_
 
 ##### CIA
 ### [The White House accidentally reveals the name of the CIA's top intelligence official in Afghanistan to approximately 6,000 journalists during U.S. President Barack Obama's visit to Bagram Airfield. ](/news/2014/05/27/the-white-house-accidentally-reveals-the-name-of-the-cia-s-top-intelligence-official-in-afghanistan-to-approximately-6-000-journalists-durin.md)
-_Context: U.S. President, Bagram Airfield, Afghanistan, CIA, Barack Obama_
+_Context: CIA, Bagram Airfield, Barack Obama, Afghanistan, U.S. President_
 
-##### mire
+##### Mire
 ### [Scientists announce the discovery of a remote mire the size of England in the Republic of the Congo. ](/news/2014/05/27/scientists-announce-the-discovery-of-a-remote-mire-the-size-of-england-in-the-republic-of-the-congo.md)
 _Context: Republic of the Congo, mire, England_
 

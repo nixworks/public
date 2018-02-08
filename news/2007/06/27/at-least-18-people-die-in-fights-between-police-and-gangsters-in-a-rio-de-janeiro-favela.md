@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/27/at-least-18-people-die-in-fights-between-police
 
 ### [2007-06-27](/news/2007/06/27/index.md)
 
-##### gangster
+##### Gangster
 #  At least 18 people die in fights between police and gangsters in a Rio de Janeiro "favela". 
 
 

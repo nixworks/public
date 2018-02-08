@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/8/a-strong-earthquake-of-6-7-magnitude-hits-near-t
 
 ### [2006-08-8](/news/2006/08/8/index.md)
 
-##### earthquake
+##### Earthquake
 #  A strong earthquake of 6.7 magnitude hits near the island of Espiritu Santo in Vanuatu at 9:18 a.m. local time.
 
 Get the latest breaking news across the U.S. on ABCNews.com

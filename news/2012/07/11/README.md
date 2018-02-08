@@ -5,17 +5,17 @@ Formats: [HTML](2012/07/11/index.html)  [JSON](2012/07/11/index.json)  [XML](201
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican newspaper "El Manana" from the northern city of Nuevo Laredo will stop reporting on Mexico's drug-related violence after a second grenade attack at its installations. ](/news/2012/07/11/mexican-drug-war-the-mexican-newspaper-el-maa-ana-from-the-northern-city-of-nuevo-laredo-will-stop-reporting-on-mexico-s-drug-related-vio.md)
-_Context: second grenade attack, Nuevo Laredo, El Manana, Mexican Drug War_
+_Context: El Manana, Nuevo Laredo, second grenade attack, Mexican Drug War_
 
 ##### Syrian army's
 ### [56 people are reportedly killed by the Syrian army, including a Red Crescent worker. ](/news/2012/07/11/56-people-are-reportedly-killed-by-the-syrian-army-including-a-red-crescent-worker.md)
-_Context: Red Crescent, Syrian army's_
+_Context: Syrian army's, Red Crescent_
 
 ##### United Nations
 ### [United Nations peacekeepers are redeployed to the Congolese city of Goma to protect it from March 23 Movement rebels. ](/news/2012/07/11/united-nations-peacekeepers-are-redeployed-to-the-congolese-city-of-goma-to-protect-it-from-march-23-movement-rebels.md)
-_Context: M23, Goma, United Nations, DR Congo_
+_Context: M23, DR Congo, Goma, United Nations_
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing at a police academy in the Yemeni capital of Sana'a kills at least 20 people. ](/news/2012/07/11/a-suicide-bombing-at-a-police-academy-in-the-yemeni-capital-of-sana-a-kills-at-least-20-people.md)
 At least eight people have been killed in a suicide bomb attack at the police academy in the Yemeni capital Sanaa, officials say.
 
@@ -25,15 +25,15 @@ _Context: Abu Sayyaf, Philippines_
 
 ##### Srebrenica massacre
 ### [520 men and boys killed in the Srebrenica massacre in 1995 are buried in Potocari, Bosnia and Herzegovina. ](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.md)
-_Context: Srebrenica massacre, Potocari, Bosnia and Herzegovina_
+_Context: Potocari, Srebrenica massacre, Bosnia and Herzegovina_
 
 ##### European Commission
 ### [Artists sign a letter accusing the European Commission of "breaking promises" on the matter of missing royalties. ](/news/2012/07/11/artists-sign-a-letter-accusing-the-european-commission-of-breaking-promises-on-the-matter-of-missing-royalties.md)
 Musicians from Radiohead and Pink Floyd are among those angered by plans for a new EU copyright law, which they say will not do enough to collect unpaid royalties.
 
-##### panda
+##### Panda
 ### [A rare giant panda born naturally in captivity at a Tokyo zoo dies after only six days, prompting widespread mourning in Japan. ](/news/2012/07/11/a-rare-giant-panda-born-naturally-in-captivity-at-a-tokyo-zoo-dies-after-only-six-days-prompting-widespread-mourning-in-japan.md)
-_Context: Japan, panda, breeding, Tokyo_
+_Context: Japan, Tokyo, breeding, panda_
 
 ##### Bolivia
 ### [Bolivia revokes a mining concession to Canada's South American Silver Corporation after violent protests by Quechua people. ](/news/2012/07/11/bolivia-revokes-a-mining-concession-to-canada-s-south-american-silver-corporation-after-violent-protests-by-quechua-people.md)
@@ -41,7 +41,7 @@ President Evo Morales to revoke concessions of Canadian silver mine following vi
 
 ##### Japan
 ### [Japan lodges a formal protest with China after the presence of the latter's patrol boats near the disputed Senkaku Islands. ](/news/2012/07/11/japan-lodges-a-formal-protest-with-china-after-the-presence-of-the-latter-s-patrol-boats-near-the-disputed-senkaku-islands.md)
-_Context: Japan, Senkaku Islands dispute, China, Senkaku Islands_
+_Context: China, Japan, Senkaku Islands dispute, Senkaku Islands_
 
 ##### ASEAN
 ### [ASEAN nations and China fail to agree on a code of conduct designed to ease tensions over territorial disputes in the South China Sea. ](/news/2012/07/11/asean-nations-and-china-fail-to-agree-on-a-code-of-conduct-designed-to-ease-tensions-over-territorial-disputes-in-the-south-china-sea.md)
@@ -49,7 +49,7 @@ China and Southeast Asian nations argue over wording of code of conduct meant to
 
 ##### Canadian government
 ### [The Canadian government warns Iran not to use its embassy in Ottawa to recruit expatriates in Canada to serve the Islamic Republic's interests. ](/news/2012/07/11/the-canadian-government-warns-iran-not-to-use-its-embassy-in-ottawa-to-recruit-expatriates-in-canada-to-serve-the-islamic-republicas-inter.md)
-_Context: Canadian government, Canada-Iran relations, Iran_
+_Context: Iran, Canada-Iran relations, Canadian government_
 
 ##### FIFA
 ### [Court documents reveal former FIFA president JoGBPo Havelange had accepted bribes upwards of 1.5m Swiss francs. ](/news/2012/07/11/court-documents-reveal-former-fifa-president-joagbpo-havelange-had-accepted-bribes-upwards-of-1-5m-swiss-francs.md)
@@ -57,11 +57,11 @@ Documents reveal ex-Fifa president Joao Havelange was paid huge sums in bribes b
 
 ##### Lee Sang-deuk
 ### [Lee Sang-deuk, the elder brother of South Korean president Lee Myung-bak, is arrested in Seoul on bribery charges. ](/news/2012/07/11/lee-sang-deuk-the-elder-brother-of-south-korean-president-lee-myung-bak-is-arrested-in-seoul-on-bribery-charges.md)
-_Context: Seoul, Lee Sang-deuk, Lee Myung-bak_
+_Context: Lee Myung-bak, Lee Sang-deuk, Seoul_
 
-##### police
+##### Police
 ### [British police widen their phone-hacking inquiry with new arrests of journalists from newspapers not owned by News Corporation, which previously has been the focus of the investigation. ](/news/2012/07/11/british-police-widen-their-phone-hacking-inquiry-with-new-arrests-of-journalists-from-newspapers-not-owned-by-news-corporation-which-previo.md)
-_Context: conspiracy to hack mobile phones, police, News Corporation_
+_Context: conspiracy to hack mobile phones, News Corporation, police_
 
 ##### Russia
 ### [Russia's lower parliament approves a bill creating a list of blacklisted websites, amid fears of censorship. ](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.md)

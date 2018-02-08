@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/20/to-resolve-claims-they-were-misled-about-the-co
 
 ### [2015-03-20](/news/2015/03/20/index.md)
 
-##### subprime mortgage
+##### Subprime mortgage
 # To resolve claims they were misled about the company's subprime mortgage exposure, a U.S. District Court Judge, Laura Swain approves a settlement between shareholders and American multinational insurer AIG, providing for a payout of $970.5 million. 
 
 American International Group Inc (AIG.N) shareholders won approval on Friday of a $970.5 million settlement resolving claims they were misled about its subprime mortgage exposure, leading to a liquidity crisis and $182.3 billion in federal bailouts.

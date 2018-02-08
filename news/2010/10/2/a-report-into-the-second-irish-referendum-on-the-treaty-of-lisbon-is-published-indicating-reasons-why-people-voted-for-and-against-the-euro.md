@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/2/a-report-into-the-second-irish-referendum-on-the
 
 ### [2010-10-2](/news/2010/10/2/index.md)
 
-##### the second Irish referendum
+##### The second Irish referendum
 # A report into the second Irish referendum on the Treaty of Lisbon is published, indicating reasons why people voted for and against the European Union treaty, which the Government eventually ratified successfully after much effort. 
 
 A report on the second Lisbon Treaty has been published suggesting the reasons that people voted for and against the treaty.

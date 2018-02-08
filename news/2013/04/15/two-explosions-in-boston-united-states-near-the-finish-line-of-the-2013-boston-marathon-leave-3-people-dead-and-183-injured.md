@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/15/two-explosions-in-boston-united-states-near-the
 
 ### [2013-04-15](/news/2013/04/15/index.md)
 
-##### explosions
+##### Explosions
 # Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. 
 
 At least three people are killed and more than 100 injured, some seriously, in two explosions at the finish line of the Boston Marathon.

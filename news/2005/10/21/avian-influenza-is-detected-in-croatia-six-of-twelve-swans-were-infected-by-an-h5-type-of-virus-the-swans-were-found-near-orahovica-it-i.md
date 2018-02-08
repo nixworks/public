@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/21/avian-influenza-is-detected-in-croatia-six-of-t
 
 ### [2005-10-21](/news/2005/10/21/index.md)
 
-##### swan
+##### Swan
 #  Avian influenza is detected in Croatia. Six of twelve swans were infected by an H5 type of virus. The swans were found near Orahovica. It is suspected that they came to Croatia from a still unknown place in the European Union. The Australian Quarantine and Inspection Service discovers antibodies of avian influenza and newcastle disease in pigeons imported from Canada to Melbourne, leading to a blanket ban on all live bird imports from Canada. 
 
 

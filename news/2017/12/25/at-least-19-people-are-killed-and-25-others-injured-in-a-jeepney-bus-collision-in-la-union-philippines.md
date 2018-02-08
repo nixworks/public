@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/25/at-least-19-people-are-killed-and-25-others-inj
 
 ### [2017-12-25](/news/2017/12/25/index.md)
 
-##### jeepney
+##### Jeepney
 # At least 19 people are killed and 25 others injured in a jeepney-bus collision in La Union, Philippines. 
 
 

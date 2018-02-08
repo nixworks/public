@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/8/violence-erupts-at-a-blasphemy-trial-in-temanggu
 
 ### [2011-02-8](/news/2011/02/8/index.md)
 
-##### blasphemy
+##### Blasphemy
 # Violence erupts at a blasphemy trial in Temanggung, central Java with three churches destroyed. 
 
 

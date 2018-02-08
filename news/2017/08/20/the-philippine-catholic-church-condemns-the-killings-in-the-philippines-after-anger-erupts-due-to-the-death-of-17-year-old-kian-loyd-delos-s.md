@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/20/the-philippine-catholic-church-condemns-the-kil
 
 ### [2017-08-20](/news/2017/08/20/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The Philippine Catholic Church condemns the killings in the Philippines after anger erupts due to the death of 17-year old Kian Loyd delos Santos.
 
 It comes as questions are raised over the killing of a teenager by police during a week of violence.

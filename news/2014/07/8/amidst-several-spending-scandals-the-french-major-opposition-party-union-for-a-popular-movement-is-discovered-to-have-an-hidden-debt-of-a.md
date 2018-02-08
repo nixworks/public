@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/8/amidst-several-spending-scandals-the-french-majo
 
 ### [2014-07-8](/news/2014/07/8/index.md)
 
-##### several spending scandals
+##### Several spending scandals
 # Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 
 
 

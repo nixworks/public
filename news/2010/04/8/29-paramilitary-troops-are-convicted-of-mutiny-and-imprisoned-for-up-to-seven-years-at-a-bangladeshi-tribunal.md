@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/8/29-paramilitary-troops-are-convicted-of-mutiny-a
 
 ### [2010-04-8](/news/2010/04/8/index.md)
 
-##### mutinous soldiers
+##### Mutinous soldiers
 # 29 paramilitary troops are convicted of mutiny and imprisoned for up to seven years at a Bangladeshi tribunal. 
 
 

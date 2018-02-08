@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/10/a-suicide-bomber-kills-at-least-47-students-at-
 
 ### [2014-11-10](/news/2014/11/10/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least 47 students at a school assembly in the Nigerian town of Potiskum in Yobe state. 
 
 At least 46 students have been killed by a suicide bomber at a school assembly in the north-eastern Nigerian town of Potiskum, police say.

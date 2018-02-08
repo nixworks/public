@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/12/the-new-york-police-department-and-london-s-met
 
 ### [2017-10-12](/news/2017/10/12/index.md)
 
-##### allegation
+##### Allegation
 # The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. 
 
 Forces in New York and London look into allegations against movie mogul Harvey Weinstein.

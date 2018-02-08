@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/17/the-government-of-the-people-s-republic-of-chin
 
 ### [2006-11-17](/news/2006/11/17/index.md)
 
-##### government
+##### Government
 #  The Government of the People's Republic of China blocks internet access to Wikipedia in China less than one week after a year-long ban was lifted. 
 
 

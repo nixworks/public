@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/11/suspected-al-qaeda-militants-kill-five-yemeni-s
 
 ### [2013-08-11](/news/2013/08/11/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Suspected Al-Qaeda militants kill five Yemeni soldiers in an attack on a gas terminal in Southern Yemen. 
 
 Suspected al-Qaeda militants kill five soldiers in an attack on a gas terminal in Yemen, as the US reopens diplomatic missions in the wider region.

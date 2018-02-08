@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/six-people-including-multiple-elected-officials-
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### fraud
+##### Fraud
 # Six people, including multiple elected officials, are arrested on charges of fraud for allegedly attempting to rig the 2013 New York City mayoral election. 
 
 

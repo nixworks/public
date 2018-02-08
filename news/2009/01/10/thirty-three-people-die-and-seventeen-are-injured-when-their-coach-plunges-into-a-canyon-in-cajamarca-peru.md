@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/10/thirty-three-people-die-and-seventeen-are-injur
 
 ### [2009-01-10](/news/2009/01/10/index.md)
 
-##### coach
+##### Coach
 #  Thirty-three people die and seventeen are injured when their coach plunges into a canyon in Cajamarca, Peru. 
 
 

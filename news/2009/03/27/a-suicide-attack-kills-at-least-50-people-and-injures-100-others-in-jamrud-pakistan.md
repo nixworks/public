@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/27/a-suicide-attack-kills-at-least-50-people-and-i
 
 ### [2009-03-27](/news/2009/03/27/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills at least 50 people and injures 100 others in Jamrud, Pakistan. 
 
 Scores of worshippers killed as suicide bomber strikes during Friday prayers in Khyber area.

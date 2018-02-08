@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/7/an-electronic-voting-machine-in-1b-in-franklin-c
 
 ### [2004-11-7](/news/2004/11/7/index.md)
 
-##### electronic voting
+##### Electronic voting
 #  An electronic voting machine in 1B in Franklin County, Ohio, recorded 260 votes for John Kerry and 4258 votes for George W. Bush though only 638 people voted there, one of several alleged problems. 
 
 

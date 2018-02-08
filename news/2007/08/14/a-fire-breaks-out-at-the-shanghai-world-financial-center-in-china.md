@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/14/a-fire-breaks-out-at-the-shanghai-world-financi
 
 ### [2007-08-14](/news/2007/08/14/index.md)
 
-##### fire
+##### Fire
 #  A fire breaks out at the Shanghai World Financial Center in China. 
 
 

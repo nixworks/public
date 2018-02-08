@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/6/11-people-are-killed-in-a-gun-and-machete-attack
 
 ### [2013-04-6](/news/2013/04/6/index.md)
 
-##### machete
+##### Machete
 # 11 people are killed in a gun and machete attack in a village of Midlu in Northern Nigeria. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/23/a-hot-air-balloon-crashes-near-the-slovenian-ca
 
 ### [2012-08-23](/news/2012/08/23/index.md)
 
-##### hot-air balloon
+##### Hot-air balloon
 # A hot-air balloon crashes near the Slovenian capital of Ljubljana, killing four people and injuring 28 others. 
 
 A hot air balloon crashes and catches fire in Slovenia, killing four people and injuring at least 21 others, including children.

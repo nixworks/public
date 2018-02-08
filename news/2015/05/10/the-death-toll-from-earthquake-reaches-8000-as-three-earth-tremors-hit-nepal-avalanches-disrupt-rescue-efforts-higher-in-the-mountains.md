@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/10/the-death-toll-from-earthquake-reaches-8000-as-
 
 ### [2015-05-10](/news/2015/05/10/index.md)
 
-##### suspicions
+##### Suspicions
 # The death toll from earthquake reaches 8000 as three earth tremors hit Nepal. Avalanches disrupt rescue efforts higher in the mountains. 
 
 Three fresh tremors today jolted Nepal, triggering panic among the people already battered by the devastating earthquake and over 150 aftershocks as the death toll crossed 8,000.

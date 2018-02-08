@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/10/according-to-a-parliamentary-answer-by-the-mini
 
 ### [2012-09-10](/news/2012/09/10/index.md)
 
-##### ministry of health
+##### Ministry of health
 # According to a parliamentary answer by the ministry of health, the value of a life lost during a clinical trial is 2.2 lakh rupees ($ 4,000) in India in 2011. This number is the average compensation paid for deaths during clinical trials. No rules governing compensations for clinical trial-related injury or death have been approved by the Parliament of India yet. 
 
 

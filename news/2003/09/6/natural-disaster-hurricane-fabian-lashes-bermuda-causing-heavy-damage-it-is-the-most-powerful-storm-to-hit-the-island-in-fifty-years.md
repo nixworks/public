@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/6/natural-disaster-hurricane-fabian-lashes-bermuda
 
 ### [2003-09-6](/news/2003/09/6/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: Hurricane Fabian lashes Bermuda, causing heavy damage. It is the most powerful storm to hit the island in fifty years.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/4/uk-police-refuse-discussion-of-reports-over-tonn
 
 ### [2004-04-4](/news/2004/04/4/index.md)
 
-##### tons
+##### Tons
 #  UK Police refuse discussion of reports over tonnes of unaccounted ammonium nitrate fertiliser stolen from a Welsh farm near Abergavenny, South Wales. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/1/the-united-states-insists-any-afghan-peace-deal-
 
 ### [2010-06-1](/news/2010/06/1/index.md)
 
-##### women's rights
+##### Women's rights
 # The United States insists any Afghan peace deal must ensure women's rights as Afghanistan prepares to open a peace conference aimed at persuading Taliban leaders to put down their weapons. 
 
 

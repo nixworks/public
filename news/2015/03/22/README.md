@@ -17,7 +17,7 @@ A Syrian government helicopter crashes in Idlib province, with four crew capture
 
 ##### Richard III of England
 ### [The remains of King Richard III of England, that were discovered in a car park in Leicester in 2012, arrive at Leicester Cathedral ahead of a burial on March 26. ](/news/2015/03/22/the-remains-of-king-richard-iii-of-england-that-were-discovered-in-a-car-park-in-leicester-in-2012-arrive-at-leicester-cathedral-ahead-of.md)
-_Context: Richard III of England, Leicester Cathedral, Leicester_
+_Context: Leicester Cathedral, Leicester, Richard III of England_
 
 ##### Ganghwa Island
 ### [A campsite tent fire on Ganghwa Island in the South Korean city of Incheon kills five people and seriously injures two others. ](/news/2015/03/22/a-campsite-tent-fire-on-ganghwa-island-in-the-south-korean-city-of-incheon-kills-five-people-and-seriously-injures-two-others.md)
@@ -29,13 +29,13 @@ Tropical cyclone Nathan has been lashing the Northern Territory with wind gusts 
 
 ##### Japan
 ### [Japan allocates 820 billion yen ($6.8 billion) for creating a nearly 400-kilometer (250-mile) chain of cement seawalls, at places nearly five stories high, against future tsunami disasters such as the one that struck the country's northeastern coast four years ago. ](/news/2015/03/22/japan-allocates-820-billion-yen-6-8-billion-for-creating-a-nearly-400-kilometer-250-mile-chain-of-cement-seawalls-at-places-nearly-fiv.md)
-_Context: allocates, seawall, 2011 Tohoku earthquake and tsunami, Japan, $, tsunami_
+_Context: allocates, tsunami, seawall, Japan, 2011 Tohoku earthquake and tsunami, $_
 
 ##### Venezuela
 ### [A Venezuelan bus plunges into a lake in Aragua state, southwest of the capital Caracas, killing at least eleven people with thirty-six others injured. ](/news/2015/03/22/a-venezuelan-bus-plunges-into-a-lake-in-aragua-state-southwest-of-the-capital-caracas-killing-at-least-eleven-people-with-thirty-six-other.md)
 A bus veers off a highway and plunges into a lake in central Venezuela, killing at least 11 people and injuring 36.
 
-##### local government elections
+##### Local government elections
 ### [Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. ](/news/2015/03/22/voters-in-france-go-to-the-polls-for-the-first-round-of-voting-in-local-government-elections-exit-polls-show-the-conservative-ump-in-first.md)
 Former president Nicolas Sarkozy&#39;s conservative UMP party and their allies lead in the first round of French local elections, denying Marine Le Pen&#39;s far-right National Front (FN) first place.
 

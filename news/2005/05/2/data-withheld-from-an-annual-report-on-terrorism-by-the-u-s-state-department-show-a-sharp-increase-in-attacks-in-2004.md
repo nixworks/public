@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/2/data-withheld-from-an-annual-report-on-terrorism
 
 ### [2005-05-2](/news/2005/05/2/index.md)
 
-##### terrorism
+##### Terrorism
 #  Data withheld from an annual report on terrorism by the U.S. State Department show a sharp increase in attacks in 2004. 
 
 

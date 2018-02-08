@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/25/a-worker-at-a-plastics-plant-in-henderson-kentu
 
 ### [2008-06-25](/news/2008/06/25/index.md)
 
-##### plastics plant
+##### Plastics plant
 #  A worker at a plastics plant in Henderson, Kentucky shoots and kills five people and wounds another before killing himself. 
 
 

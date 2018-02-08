@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/6/counting-begins-in-state-elections-in-the-indian
 
 ### [2012-03-6](/news/2012/03/6/index.md)
 
-##### state elections
+##### State elections
 # Counting begins in state elections in the Indian states of Uttar Pradesh, Punjab, Manipur, Uttarakhand and Goa. 
 
 Folks, our live coverage of state elections in Uttar Pradesh, Uttarakhand, Punjab, Manipur and Goa ends here. Thanks for staying with us and keep reading on WSJ India and India Real Time for more updates.

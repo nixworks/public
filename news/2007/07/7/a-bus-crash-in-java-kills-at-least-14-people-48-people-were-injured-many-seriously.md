@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/7/a-bus-crash-in-java-kills-at-least-14-people-48-
 
 ### [2007-07-7](/news/2007/07/7/index.md)
 
-##### bus
+##### Bus
 #  A bus crash in Java kills at least 14 people. 48 people were injured, many seriously. 
 
 

@@ -17,7 +17,7 @@ A suicide bomb and gun attack at Istanbul airport kills 41 people, at least 13 o
 
 ##### Syrian Civil War
 ### [Rebels of the New Syrian Army begin an offensive to capture the eastern town of al-Bukamal, currently held by ISIL militants. ](/news/2016/06/28/rebels-of-the-new-syrian-army-begin-an-offensive-to-capture-the-eastern-town-of-al-bukamal-currently-held-by-isil-militants.md)
-_Context: ISIL, Syrian Civil War, an offensive, New Syrian Army, al-Bukamal_
+_Context: an offensive, New Syrian Army, al-Bukamal, ISIL, Syrian Civil War_
 
 ##### Balochistan conflict
 ### [Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. ](/news/2016/06/28/gunmen-kill-four-police-officers-and-four-paramilitary-soldiers-in-separate-attacks-in-the-city-of-quetta.md)

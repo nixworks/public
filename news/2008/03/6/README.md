@@ -5,13 +5,13 @@ Formats: [HTML](2008/03/6/index.html)  [JSON](2008/03/6/index.json)  [XML](2008/
 
 ##### Rings
 ### [ The discovery of the Rings of the Saturnian moon Rhea, the first known rings around a moon, is announced. ](/news/2008/03/6/the-discovery-of-the-rings-of-the-saturnian-moon-rhea-the-first-known-rings-around-a-moon-is-announced.md)
-_Context: Rhea, Rings, moon, Saturnian moon, ring system_
+_Context: Rhea, ring system, Saturnian moon, Rings, moon_
 
 ##### United States
 ### [ The United States Senate passes legislation providing for more rigorous inspection of toys and other playthings imported into the United States. ](/news/2008/03/6/the-united-states-senate-passes-legislation-providing-for-more-rigorous-inspection-of-toys-and-other-playthings-imported-into-the-united-st.md)
 _Context: United States, Senator_
 
-##### a shooting attack
+##### A shooting attack
 ### [ At least eight people, including four children, are killed and dozens wounded in a shooting attack on the Mercaz HaRav yeshiva in Jerusalem. ](/news/2008/03/6/at-least-eight-people-including-four-children-are-killed-and-dozens-wounded-in-a-shooting-attack-on-the-mercaz-harav-yeshiva-in-jerusalem.md)
 Get local Miami news plus Miami breaking news, business, green, national, and world news from NBC 6 Miami.
 
@@ -25,11 +25,11 @@ One of the world’s most notorious arms dealers was arrested in Thailand and ch
 
 ##### Paul Burrell
 ### [ Paul Burrell, Princess Diana's butler, refuses to be questioned about whether he lied to the inquest into her death in 1997. ](/news/2008/03/6/paul-burrell-princess-diana-s-butler-refuses-to-be-questioned-about-whether-he-lied-to-the-inquest-into-her-death-in-1997.md)
-_Context: grandmother, Death of Diana, Princess of Wales, 1997, Paul Burrell_
+_Context: Death of Diana, Princess of Wales, grandmother, 1997, Paul Burrell_
 
 ##### A bomb causes minor damage
 ### [ A bomb causes minor damage to the door of a U.S. military recruiting center in Times Square, New York City. ](/news/2008/03/6/a-bomb-causes-minor-damage-to-the-door-of-a-u-s-military-recruiting-center-in-times-square-new-york-city.md)
-_Context: military recruiting, New York City, A bomb causes minor damage, Times Square_
+_Context: New York City, military recruiting, A bomb causes minor damage, Times Square_
 
 ##### Philippines
 ### [ Philippine authorities arrest three people accused of plotting terrorist attacks on foreign embassies in Manila. ](/news/2008/03/6/philippine-authorities-arrest-three-people-accused-of-plotting-terrorist-attacks-on-foreign-embassies-in-manila.md)

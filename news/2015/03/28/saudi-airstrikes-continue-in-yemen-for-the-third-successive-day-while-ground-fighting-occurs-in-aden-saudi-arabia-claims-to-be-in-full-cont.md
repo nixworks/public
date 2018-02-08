@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/28/saudi-airstrikes-continue-in-yemen-for-the-thir
 
 ### [2015-03-28](/news/2015/03/28/index.md)
 
-##### attacks
+##### Attacks
 # Saudi airstrikes continue in Yemen for the third successive day while ground fighting occurs in Aden. Saudi Arabia claims to be in full control of Yemen's airspace. 
 
 Raids target Houthi strongholds across country while ground fighting reported in the southern city of Aden.

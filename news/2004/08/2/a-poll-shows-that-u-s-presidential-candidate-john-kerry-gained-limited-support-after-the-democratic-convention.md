@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/2/a-poll-shows-that-u-s-presidential-candidate-joh
 
 ### [2004-08-2](/news/2004/08/2/index.md)
 
-##### opinion poll
+##### Opinion poll
 #  A poll shows that U.S. presidential candidate John Kerry gained limited support after the Democratic Convention. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.

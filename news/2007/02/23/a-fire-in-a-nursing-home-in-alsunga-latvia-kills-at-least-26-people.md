@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/23/a-fire-in-a-nursing-home-in-alsunga-latvia-kill
 
 ### [2007-02-23](/news/2007/02/23/index.md)
 
-##### nursing home
+##### Nursing home
 #  A fire in a nursing home in Alsunga, Latvia, kills at least 26 people. 
 
 

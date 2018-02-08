@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/16/clashes-take-place-between-pro-democracy-protes
 
 ### [2011-12-16](/news/2011/12/16/index.md)
 
-##### democratic
+##### Democratic
 # Clashes take place between pro-democracy protesters and security forces in Cairo, Egypt. 
 
 Deadly clashes sparked by army move to shut down sit-in outside cabinet offices, as election process continues.

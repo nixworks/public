@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/26/at-least-six-people-are-dead-and-another-six-mi
 
 ### [2012-05-26](/news/2012/05/26/index.md)
 
-##### landslide
+##### Landslide
 # At least six people are dead and another six missing after a landslide at an illegal gold mine in the Bogor district in Indonesia's West Java area. 
 
 

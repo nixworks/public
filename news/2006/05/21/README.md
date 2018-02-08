@@ -3,7 +3,7 @@ Formats: [HTML](2006/05/21/index.html)  [JSON](2006/05/21/index.json)  [XML](200
 
 ## [2006-05-21](/news/2006/05/21/index.md)
 
-##### dissolution
+##### Dissolution
 ### [ Montenegrin independence referendum, 2006: The Republic of Montenegro votes to secede from the State Union of Serbia and Montenegro. ](/news/2006/05/21/montenegrin-independence-referendum-2006-the-republic-of-montenegro-votes-to-secede-from-the-state-union-of-serbia-and-montenegro.md)
 _Context: dissolution, Serbia and Montenegro, Republic of Montenegro_
 

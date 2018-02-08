@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/8/the-u-s-food-and-drug-administration-asks-pharma
 
 ### [2017-06-8](/news/2017/06/8/index.md)
 
-##### opioid epidemic
+##### Opioid epidemic
 # The U.S. Food and Drug Administration asks pharmaceutical manufacturer Endo International plc to withdraw its long-lasting (12 hours) opioid painkiller, Opana ER, from the market after an FDA panel concluded the drug's benefits no longer outweighed the risks of abuse. Endo is evaluating its options. 
 
 

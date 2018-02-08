@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/21/british-businessman-gary-bolton-is-sentenced-7-
 
 ### [2013-08-21](/news/2013/08/21/index.md)
 
-##### fraudulent bomb detectors
+##### Fraudulent bomb detectors
 # British businessman Gary Bolton is sentenced 7 years for selling fraudulent bomb detectors. 
 
 British businessman Gary Bolton is sentenced to seven years in prison for supplying fake bomb detectors.

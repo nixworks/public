@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/19/in-association-football-fc-barcelona-sets-a-new
 
 ### [2009-12-19](/news/2009/12/19/index.md)
 
-##### association football
+##### Association football
 #  In association football, FC Barcelona sets a new record by winning all 6 possible competitions (The Sextuple) in one year. 
 
 

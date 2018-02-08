@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/12/the-former-soviet-autonomous-oblast-of-south-os
 
 ### [2006-11-12](/news/2006/11/12/index.md)
 
-##### oblast
+##### Oblast
 #  The former Soviet autonomous oblast of South Ossetia holds a referendum on independence from Georgia, heightening tension in the Caucasus. 
 
 

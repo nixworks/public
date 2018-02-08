@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/20/an-explosion-on-a-train-in-east-india-at-1240-g
 
 ### [2006-11-20](/news/2006/11/20/index.md)
 
-##### explosion on a train
+##### Explosion on a train
 #  An explosion on a train in East India at 1240 GMT kills 5 and injures 25 to 50 others. It occurs near a station in West Bengal, 550 kilometers (345 miles) north of the capital Kolkata. The cause of the explosion is unknown. 
 
 

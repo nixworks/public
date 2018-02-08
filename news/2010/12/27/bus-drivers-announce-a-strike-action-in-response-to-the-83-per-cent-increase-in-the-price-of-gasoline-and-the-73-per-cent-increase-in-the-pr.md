@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/27/bus-drivers-announce-a-strike-action-in-respons
 
 ### [2010-12-27](/news/2010/12/27/index.md)
 
-##### strike
+##### Strike
 # Bus drivers announce a strike action in response to the 83 per cent increase in the price of gasoline and the 73 per cent increase in the price of diesel fuel announced by Bolivian Vice-President lvaro Garca Linera on Sunday. 
 
 After government cuts petrol subsidies in South American nation, drivers announce open-ended protest against price hike.

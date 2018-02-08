@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/scientist-find-a-rare-dinosaur-egg-with-the-rem
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### dinosaur egg
+##### Dinosaur egg
 # Scientist find a rare dinosaur egg with the remaining fossil of an embryo in China. 
 
 Fast-growing bones point to SUPER-SHORT incubation period

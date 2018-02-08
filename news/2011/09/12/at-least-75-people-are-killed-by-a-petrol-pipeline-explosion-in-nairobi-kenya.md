@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/12/at-least-75-people-are-killed-by-a-petrol-pipel
 
 ### [2011-09-12](/news/2011/09/12/index.md)
 
-##### a petrol pipeline explosion
+##### A petrol pipeline explosion
 # At least 75 people are killed by a petrol pipeline explosion in Nairobi, Kenya. 
 
 

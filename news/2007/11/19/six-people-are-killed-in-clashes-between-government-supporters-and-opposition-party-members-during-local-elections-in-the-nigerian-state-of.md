@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/19/six-people-are-killed-in-clashes-between-govern
 
 ### [2007-11-19](/news/2007/11/19/index.md)
 
-##### local election
+##### Local election
 #  Six people are killed in clashes between government supporters and opposition party members during local elections in the Nigerian state of Kano. 
 
 

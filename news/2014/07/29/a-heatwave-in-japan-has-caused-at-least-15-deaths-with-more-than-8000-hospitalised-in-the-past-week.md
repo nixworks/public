@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/29/a-heatwave-in-japan-has-caused-at-least-15-deat
 
 ### [2014-07-29](/news/2014/07/29/index.md)
 
-##### heatwave
+##### Heatwave
 # A heatwave in Japan has caused at least 15 deaths with more than 8000 hospitalised in the past week. 
 
 Sweltering summer heat in Japan has left at least 15 people dead over the past week, while more than 8,000 others were rushed to hospital with heatstroke symptoms, official figures showed Tuesday. At least six people died on Saturday alone, when the state weather agency warned temperatures had topped

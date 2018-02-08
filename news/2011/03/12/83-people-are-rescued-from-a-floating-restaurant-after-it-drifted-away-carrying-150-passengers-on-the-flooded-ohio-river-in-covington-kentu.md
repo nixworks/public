@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/12/83-people-are-rescued-from-a-floating-restauran
 
 ### [2011-03-12](/news/2011/03/12/index.md)
 
-##### floating restaurant
+##### Floating restaurant
 # 83 people are rescued from a floating restaurant after it drifted away carrying 150 passengers on the flooded Ohio River in Covington, Kentucky, USA, and became lodged under the Clay Wade Bailey Bridge. 
 
 

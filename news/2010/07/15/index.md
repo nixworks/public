@@ -3,7 +3,7 @@ Formats: [HTML](2010/07/15/index.html)  [JSON](2010/07/15/index.json)  [XML](201
 
 ## [2010-07-15](/news/2010/07/15/index.md)
 
-##### recent bombings
+##### Recent bombings
 ### [More than 20 people are killed and 100 injured in a suicide attack at a mosque in southeastern Iran. ](/news/2010/07/15/more-than-20-people-are-killed-and-100-injured-in-a-suicide-attack-at-a-mosque-in-southeastern-iran.md)
 At least 27 people are killed and 160 injured after suspected Sunni suicide bombers attack a Shia mosque in Iran, officials say.
 
@@ -33,7 +33,7 @@ Gunman Raoul Moat told social workers he wanted to see a psychiatrist months bef
 
 ##### Francois-Marie Banier
 ### [Four people, including celebrity photographer Francois-Marie Banier, are arrested in a tax-evasion investigation into L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.md)
-_Context: Francois-Marie Banier, Liliane Bettencourt, L'Oreal_
+_Context: Liliane Bettencourt, L'Oreal, Francois-Marie Banier_
 
 ##### Robbie Williams
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
@@ -49,15 +49,15 @@ The 10 Russian spies deported from the US will undergo three weeks of rigorous t
 
 ##### North Korea
 ### [North Korean officials attend a rare meeting with members of the American-led United Nations Command. ](/news/2010/07/15/north-korean-officials-attend-a-rare-meeting-with-members-of-the-american-led-united-nations-command.md)
-_Context: United Nations Command, North Korea_
+_Context: North Korea, United Nations Command_
 
 ##### Venezuelan President
 ### [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md)
-_Context: Hugo Chavez, Venezuelan President, bishop, Holy See, Venezuelan government, Roman Catholic, Venezuela_
+_Context: Venezuelan government, Hugo Chavez, Venezuela, bishop, Roman Catholic, Holy See, Venezuelan President_
 
-##### decree
+##### Decree
 ### [The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. ](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempted-ordination-of-women-a-grave-crime-in-ecclesiastical-law-equivalent-to-child-sexual-abuse.md)
-_Context: ordination of women, decree, ecclesiastical law, sexually assaulted_
+_Context: decree, ecclesiastical law, ordination of women, sexually assaulted_
 
 ##### Gambia
 ### [A Gambian judge sentences eight men to death for their role in an alleged coup plot. ](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.md)
@@ -69,7 +69,7 @@ Judges at the International Criminal Court order the accused in its first case -
 
 ##### Iraq
 ### [An Iraqi court orders a search for a man, who disappeared yesterday, accused of involvement in the murder of aid worker Margaret Hassan in 2004. ](/news/2010/07/15/an-iraqi-court-orders-a-search-for-a-man-who-disappeared-yesterday-accused-of-involvement-in-the-murder-of-aid-worker-margaret-hassan-in-2.md)
-_Context: Iraq, Margaret Hassan_
+_Context: Margaret Hassan, Iraq_
 
 ##### Holy See
 ### [The Vatican issues new instructions to speed up its own cases of priestly sexual abuse that are considered "most urgent". ](/news/2010/07/15/the-vatican-issues-new-instructions-to-speed-up-its-own-cases-of-priestly-sexual-abuse-that-are-considered-most-urgent.md)
@@ -85,7 +85,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 
 ##### President
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
-_Context: Fernando Gomez Mont, Felipe Calderon, Secretary of the Interior, President_
+_Context: Fernando Gomez Mont, Secretary of the Interior, President, Felipe Calderon_
 
 ##### CBS
 ### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity". ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
@@ -95,7 +95,7 @@ By James HibberdLOS ANGELES (Hollywood Reporter) - Two major broadcasters have r
 ### [Former Vice President of the United States Dick Cheney admits he has received a small heart pump to combat "increasing congestive heart failure". ](/news/2010/07/15/former-vice-president-of-the-united-states-dick-cheney-admits-he-has-received-a-small-heart-pump-to-combat-increasing-congestive-heart-fail.md)
 Dick Cheney, the former US Vice President, has undergone heart surgery, he has announced.
 
-##### president
+##### President
 ### [President of Brazil Luiz Inacio Lula da Silva sends to Congress a bill proposing that corporal punishment, including spanking, be outlawed. ](/news/2010/07/15/president-of-brazil-luiz-ina-cio-lula-da-silva-sends-to-congress-a-bill-proposing-that-corporal-punishment-including-spanking-be-outlawed.md)
 _Context: Luiz Inacio Lula da Silva, corporal punishment, president, spanking_
 
@@ -115,9 +115,9 @@ Scores of Russians have died in the past few weeks amid a heatwave - many drowni
 ### [World Trade Center site workers in the United States excavate a 32 foot-long ship hull said to have been buried in the 18th century. ](/news/2010/07/15/world-trade-center-site-workers-in-the-united-states-excavate-a-32-foot-long-ship-hull-said-to-have-been-buried-in-the-18th-century.md)
 Workers at the World Trade Center site excavate a ship believed to have been buried in the 18th Century to help fill lower Manhattan.
 
-##### primate
+##### Primate
 ### [Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-apes.md)
-_Context: primate, Old World Monkey, Saadanius hijazensis, ape_
+_Context: primate, ape, Saadanius hijazensis, Old World Monkey_
 
 ##### Golf
 ### [Golfer Rory McIlroy ties the record for lowest score (9-under par) at a major championship. ](/news/2010/07/15/golfer-rory-mcilroy-ties-the-record-for-lowest-score-9-under-par-at-a-major-championship.md)

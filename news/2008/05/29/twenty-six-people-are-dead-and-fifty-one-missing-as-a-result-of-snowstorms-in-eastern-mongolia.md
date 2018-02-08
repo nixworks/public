@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/29/twenty-six-people-are-dead-and-fifty-one-missin
 
 ### [2008-05-29](/news/2008/05/29/index.md)
 
-##### snowstorms
+##### Snowstorms
 #  Twenty-six people are dead and fifty-one missing as a result of snowstorms in eastern Mongolia. 
 
 

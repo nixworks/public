@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/20/snowfall-disrupts-transport-services-and-kills-
 
 ### [2009-12-20](/news/2009/12/20/index.md)
 
-##### weather-related
+##### Weather-related
 #  Snowfall disrupts transport services and kills at least 18 people across Europe. 
 
 

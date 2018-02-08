@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/29/a-bomb-explodes-in-male-the-capital-of-the-mald
 
 ### [2007-09-29](/news/2007/09/29/index.md)
 
-##### explodes
+##### Explodes
 #  A bomb explodes in Mal, the capital of the Maldives, injuring 12 tourists. 
 
 

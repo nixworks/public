@@ -21,7 +21,7 @@ _Context: 100 media workers killed, Sinaloa_
 
 ##### Bangkok
 ### [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md)
-_Context: Thaksin Shinawatra, Thailand, Bangkok, Prime Minister_
+_Context: Bangkok, Thaksin Shinawatra, Prime Minister, Thailand_
 
 ##### United States
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
@@ -41,7 +41,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 
 ##### Indian Space Research Organisation
 ### [The ISRO of India launches a PSLV-XL rocket carrying the Mars Orbiter Mission probe, which will eventually be sent to Mars. ](/news/2013/11/5/the-isro-of-india-launches-a-pslv-xl-rocket-carrying-the-mars-orbiter-mission-probe-which-will-eventually-be-sent-to-mars.md)
-_Context: Mars, PSLV-C38, Mars Orbiter Mission, India, Indian Space Research Organisation_
+_Context: Mars, India, Mars Orbiter Mission, PSLV-C38, Indian Space Research Organisation_
 
 ## [Previous Day...](/news/2013/11/4/index.md)
 

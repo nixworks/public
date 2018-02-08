@@ -23,19 +23,19 @@ _Context: Australia, Unemployment_
 ### [The death toll in Japan from Typhoon Talas reaches 54, with 55 people still missing. ](/news/2011/09/8/the-death-toll-in-japan-from-typhoon-talas-reaches-54-with-55-people-still-missing.md)
 _Context: Japan, Typhoon Talas_
 
-##### power outage
+##### Power outage
 ### [A blackout in southern California, Arizona and Baja California in Mexico caused by the loss of the entire San Diego Gas & Electric system leads to the closure of San Onofre Nuclear Generating Station and the loss of power to more than two million people. ](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.md)
 Millions were left in the dark Thursday, but SDG&E said it was making progress.
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate causes heavy rain on Mexico's Atlantic Ocean coast. ](/news/2011/09/8/tropical-storm-nate-causes-heavy-rain-on-mexico-s-atlantic-ocean-coast.md)
-_Context: Tropical Storm Nate, Mexico, Atlantic Ocean_
+_Context: Mexico, Tropical Storm Nate, Atlantic Ocean_
 
 ##### Tuiloma Neroni Slade
 ### [Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. ](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.md)
-_Context: Pacific Islands Forum, Tuiloma Neroni Slade_
+_Context: Tuiloma Neroni Slade, Pacific Islands Forum_
 
-##### public sector
+##### Public sector
 ### [Up to 40,000 public sector workers gather in the Australian city of Sydney to protest a wages cap and job cuts in the 2011-12 budget proposed by the Government of the State of New South Wales. ](/news/2011/09/8/up-to-40-000-public-sector-workers-gather-in-the-australian-city-of-sydney-to-protest-a-wages-cap-and-job-cuts-in-the-2011-12-budget-propose.md)
 ROAD closures and public transport disruptions are set to plague Sydney today as police, firefighters, teachers and transport workers prepare for the biggest mass demonstration in two decades.
 
@@ -45,7 +45,7 @@ President Barack Obama plans to propose sparking job growth by injecting more th
 
 ##### President of Vietnam
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
-_Context: President of Vietnam, Vo Chi Cong, Ho Chi Minh City_
+_Context: Vo Chi Cong, President of Vietnam, Ho Chi Minh City_
 
 ## [Previous Day...](/news/2011/09/7/index.md)
 

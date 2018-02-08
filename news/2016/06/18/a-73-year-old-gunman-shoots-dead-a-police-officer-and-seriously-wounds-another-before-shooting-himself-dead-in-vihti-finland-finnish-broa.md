@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/18/a-73-year-old-gunman-shoots-dead-a-police-offic
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
-##### police officer
+##### Police officer
 # A 73-year-old gunman shoots dead a police officer, and seriously wounds another before shooting himself dead in Vihti, Finland. Finnish broadcaster Yle reports it is the first time a police officer in Finland has been killed in the line of duty since 2007. 
 
 

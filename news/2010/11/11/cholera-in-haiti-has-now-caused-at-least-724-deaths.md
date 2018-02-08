@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/11/cholera-in-haiti-has-now-caused-at-least-724-de
 
 ### [2010-11-11](/news/2010/11/11/index.md)
 
-##### worst epidemic of cholera
+##### Worst epidemic of cholera
 # Cholera in Haiti has now caused at least 724 deaths. 
 
 Fears grow over rapid spread of cholera in the capital, as death toll rises to 724 people across the nation.

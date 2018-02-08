@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/15/exploration-of-mars-the-spirit-rover-has-rolled
 
 ### [2004-01-15](/news/2004/01/15/index.md)
 
-##### route
+##### Route
 #  Exploration of Mars: The Spirit Rover has rolled off its lander to start its exploration. The first journey was only three metres. It took the rover about 78 seconds, ending with the back of the rover being 0.7 metres from the lander.
 
 

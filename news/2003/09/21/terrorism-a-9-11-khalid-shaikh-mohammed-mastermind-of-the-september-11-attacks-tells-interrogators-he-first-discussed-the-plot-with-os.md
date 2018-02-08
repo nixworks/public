@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/21/terrorism-a-9-11-khalid-shaikh-mohammed-masterm
 
 ### [2003-09-21](/news/2003/09/21/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism - 9-11: Khalid Shaikh Mohammed, mastermind of the September 11 attacks, tells interrogators he first discussed the plot with Osama bin Laden in 1996. The original plan, and its evolution, are told to an interrogator, along with the answers to several questions over the attacks.
 
 

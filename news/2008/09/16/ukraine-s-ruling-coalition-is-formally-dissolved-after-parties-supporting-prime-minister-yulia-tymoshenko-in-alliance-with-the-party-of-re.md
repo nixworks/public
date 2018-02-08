@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/16/ukraine-s-ruling-coalition-is-formally-dissolve
 
 ### [2008-09-16](/news/2008/09/16/index.md)
 
-##### the Ukrainian government collapse
+##### The Ukrainian government collapse
 #  Ukraine's ruling coalition is formally dissolved after parties supporting Prime Minister Yulia Tymoshenko, in alliance with the Party of Regions, pushed legislation limiting the powers of President Viktor Yushchenko resulting in his party's withdrawal from the coalition. Tymoshenko's party is expected to form an alliance with the Party of Regions or new elections will be held. 
 
 Ukraine&#039;s President Viktor Yushchenko has accused Yulia Tymoshenko, the Prime Minister, of high treason amid a bitter political struggle over whether the country&#039;s future lies with the West or with Russia.

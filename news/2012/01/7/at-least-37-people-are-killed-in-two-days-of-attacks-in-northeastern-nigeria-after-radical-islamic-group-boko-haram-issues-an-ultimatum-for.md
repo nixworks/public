@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/7/at-least-37-people-are-killed-in-two-days-of-att
 
 ### [2012-01-7](/news/2012/01/7/index.md)
 
-##### two days of attacks
+##### Two days of attacks
 # At least 37 people are killed in two days of attacks in northeastern Nigeria, after radical Islamic group Boko Haram issues an ultimatum for all Christians to leave the north. 
 
 

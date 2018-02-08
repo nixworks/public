@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-f
 
 ### [2009-09-14](/news/2009/09/14/index.md)
 
-##### tennis
+##### Tennis
 #  In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. 
 
 

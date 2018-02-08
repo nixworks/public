@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-
 
 ### [2011-03-25](/news/2011/03/25/index.md)
 
-##### lead
+##### Lead
 # More than 100 people are poisoned by lead from a battery plant built in a residential area in Zhejiang, China. 
 
 

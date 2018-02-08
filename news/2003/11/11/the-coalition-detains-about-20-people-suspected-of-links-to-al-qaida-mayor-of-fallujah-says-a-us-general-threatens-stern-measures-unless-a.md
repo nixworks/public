@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/11/the-coalition-detains-about-20-people-suspected
 
 ### [2003-11-11](/news/2003/11/11/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 #  The Coalition detains about 20 people suspected of links to al-Qaida. Mayor of Fallujah says a US general threatens stern measures unless attacks on coalition forces stop. The British government and foreign policy establishment pushes privately for an early handover of sovereignty to Iraqis; they say the US shows too little sense of urgency. An Annenberg Public Policy Center poll, taken during widespread publicity over army helicopter shootdowns, says there has been a shift in US public opinion, now split about evenly over whether the war in Iraq is worthwhile. There is a rising trend of complaints from returning National Guardsmen and reservists as they return to work after assignments.
 
 

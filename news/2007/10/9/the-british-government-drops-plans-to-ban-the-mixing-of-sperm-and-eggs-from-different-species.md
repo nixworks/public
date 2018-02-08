@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/9/the-british-government-drops-plans-to-ban-the-mi
 
 ### [2007-10-9](/news/2007/10/9/index.md)
 
-##### sperm
+##### Sperm
 #  The British Government drops plans to ban the mixing of sperm and eggs from different species. 
 
 

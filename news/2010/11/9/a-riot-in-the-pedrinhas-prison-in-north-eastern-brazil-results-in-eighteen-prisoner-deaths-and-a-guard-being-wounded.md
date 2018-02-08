@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/9/a-riot-in-the-pedrinhas-prison-in-north-eastern-
 
 ### [2010-11-9](/news/2010/11/9/index.md)
 
-##### riot
+##### Riot
 # A riot in the Pedrinhas prison in north-eastern Brazil results in eighteen prisoner deaths and a guard being wounded. 
 
 Eighteen inmates were killed and a prison guard shot and wounded during a prison riot in north-eastern Brazil that ended on Tuesday, officials said.

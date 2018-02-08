@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/22/the-al-shabaab-islamist-militant-group-in-somal
 
 ### [2011-07-22](/news/2011/07/22/index.md)
 
-##### famine
+##### Famine
 # The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. 
 
 Rejecting UN famine claims, opposition group says it will not allow certain support groups into drought-hit Somalia.

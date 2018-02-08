@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/17/experts-confirm-the-discovery-of-a-lost-spanish
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
-##### the state
+##### The state
 # Experts confirm the discovery of a lost Spanish settlement in Florida from an expedition led by Tristan de Luna. 
 
 

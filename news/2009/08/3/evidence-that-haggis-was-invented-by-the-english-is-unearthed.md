@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/3/evidence-that-haggis-was-invented-by-the-english
 
 ### [2009-08-3](/news/2009/08/3/index.md)
 
-##### haggis
+##### Haggis
 #  Evidence that haggis was invented by the English is unearthed. 
 
 

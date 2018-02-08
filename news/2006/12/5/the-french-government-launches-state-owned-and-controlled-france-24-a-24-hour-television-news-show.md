@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/5/the-french-government-launches-state-owned-and-c
 
 ### [2006-12-5](/news/2006/12/5/index.md)
 
-##### government
+##### Government
 #  The French Government launches state-owned and controlled France 24, a 24-hour television news show. 
 
 

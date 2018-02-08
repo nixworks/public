@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/30/famous-panda-mei-xiang-is-artificially-insemina
 
 ### [2013-03-30](/news/2013/03/30/index.md)
 
-##### panda
+##### Panda
 # Famous panda Mei Xiang is artificially inseminated in the U.S. National Zoo after natural breeding failed to occur. 
 
 

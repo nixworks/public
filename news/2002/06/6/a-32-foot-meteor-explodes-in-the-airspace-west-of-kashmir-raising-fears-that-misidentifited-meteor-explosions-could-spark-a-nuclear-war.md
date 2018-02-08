@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/06/6/a-32-foot-meteor-explodes-in-the-airspace-west-o
 
 ### [2002-06-6](/news/2002/06/6/index.md)
 
-##### meteor
+##### Meteor
 # A 32-foot meteor explodes in the airspace west of Kashmir, raising fears that misidentifited meteor explosions could spark a nuclear war.
 
 

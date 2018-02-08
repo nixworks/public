@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/13/a-bomb-explodes-on-a-bus-in-the-pakistani-city-
 
 ### [2013-04-13](/news/2013/04/13/index.md)
 
-##### bus
+##### Bus
 # A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. 
 
 At least eight people have been killed in a bomb explosion on a bus in Peshawar in north-western Pakistan, officials say.

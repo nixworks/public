@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/18/the-eastern-united-states-will-have-a-heat-wave
 
 ### [2011-07-18](/news/2011/07/18/index.md)
 
-##### eastern United States
+##### Eastern United States
 # The eastern United States will have a heat wave this week which has already commenced in the Plains States and Midwest. 
 
 There is no relief in sight for more than 40 states that will see highs in the 90s or higher this week.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/17/a-heat-wave-affecting-the-middle-east-causes-al
 
 ### [2015-08-17](/news/2015/08/17/index.md)
 
-##### heat wave
+##### Heat wave
 # A heat wave affecting the Middle East causes almost 100 deaths in Egypt. 
 
 Temperatures have soared past 50C in some countries recently and caused scores of deaths in Egypt.

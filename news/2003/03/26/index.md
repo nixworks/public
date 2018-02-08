@@ -15,11 +15,11 @@ _Context: prisoners of war, Al Jazeera_
 
 ##### Rovira i Virgili University
 ### [ Scientists at the Rovira i Virgili University claim to have a 350,000-year-old axe, the oldest evidence of human creativity yet uncovered ](/news/2003/03/26/scientists-at-the-rovira-i-virgili-university-claim-to-have-a-350-000-year-old-axe-the-oldest-evidence-of-human-creativity-yet-uncovered.md)
-_Context: Rovira i Virgili University, axe_
+_Context: axe, Rovira i Virgili University_
 
-##### meteor
+##### Meteor
 ### [ A meteor exploded over the midwest, showering Park Forest, Illinois, with dozens of meteorite fragments. ](/news/2003/03/26/a-meteor-exploded-over-the-midwest-showering-park-forest-illinois-with-dozens-of-meteorite-fragments.md)
-_Context: meteor, Park Forest, Illinois, meteorite_
+_Context: Park Forest, Illinois, meteor, meteorite_
 
 ## [Previous Day...](/news/2003/03/25/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/19/26-people-are-killed-through-electrocution-drow
 
 ### [2009-07-19](/news/2009/07/19/index.md)
 
-##### killed through electrocution, drowning and collapsing roofs
+##### Killed through electrocution, drowning and collapsing roofs
 #  26 people are killed through electrocution, drowning and collapsing roofs in Karachi, Pakistan. 
 
 Torrential monsoon rain in the Pakistani city of Karachi has killed 26 people and cut power to most of the city.

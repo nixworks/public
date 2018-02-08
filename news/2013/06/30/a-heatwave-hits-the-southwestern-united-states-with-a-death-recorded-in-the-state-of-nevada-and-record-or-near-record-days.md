@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/30/a-heatwave-hits-the-southwestern-united-states-
 
 ### [2013-06-30](/news/2013/06/30/index.md)
 
-##### southwestern United States
+##### Southwestern United States
 # A heatwave hits the southwestern United States with a death recorded in the state of Nevada and record or near-record days. 
 
 A man died and another was hospitalized in serious condition Saturday afternoon in heat-aggravated incidents as a heat wave blistered this sunbaked city and elsewhere in the Southwest.

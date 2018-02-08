@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/30/at-least-26-miners-are-killed-and-21-still-miss
 
 ### [2012-08-30](/news/2012/08/30/index.md)
 
-##### blast in the Xiaojiawan coal mine
+##### Blast in the Xiaojiawan coal mine
 # At least 26 miners are killed and 21 still missing after Wednesday's blast in the Xiaojiawan coal mine, located at Panzhihua in Sichuan Province, China. 
 
 An explosion in a Chinese coal mine killed 26 miners and 21 others were still unaccounted for after a day in the gas-filled pit, the Xinhua news agency said, marking one of the biggest disasters of the year in the accident-plagued industry.

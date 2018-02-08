@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/14/a-death-threat-was-mailed-by-pkk-to-chp-mhp-dyp
 
 ### [2007-05-14](/news/2007/05/14/index.md)
 
-##### death threat
+##### Death threat
 #  A death threat was mailed by PKK to CHP, MHP, DYP and AKP to withdraw their Van and Hakkri candidates to the 2007 general election in Turkey. 
 
 

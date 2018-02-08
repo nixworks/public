@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/27/all-six-people-in-a-recent-helicopter-accident-
 
 ### [2009-03-27](/news/2009/03/27/index.md)
 
-##### helicopter
+##### Helicopter
 #  All six people in a recent helicopter accident are discovered dead in Turkey. 
 
 All six people aboard a helicopter that crashed on a Turkish mountaintop have been found dead, including the leader of a small political party and a passenger whose anguished phone call from the crash site was broadcast around the country.

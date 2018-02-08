@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/15/strikes-in-france-french-transport-workers-stri
 
 ### [2007-11-15](/news/2007/11/15/index.md)
 
-##### public-sector strikes
+##### Public-sector strikes
 #  Strikes in France: French transport workers' strike against President Nicolas Sarkozy's pension reform enters its second day, but energy workers and CFDT members return to work. 
 
 

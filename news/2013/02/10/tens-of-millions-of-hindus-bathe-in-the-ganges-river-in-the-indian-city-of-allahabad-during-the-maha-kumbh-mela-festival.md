@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-
 
 ### [2013-02-10](/news/2013/02/10/index.md)
 
-##### largest papal gathering
+##### Largest papal gathering
 # Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. 
 
 At least 36 people die in a stampede as millions of pilgrims gather for the world&#039;s largest religious festival in India.

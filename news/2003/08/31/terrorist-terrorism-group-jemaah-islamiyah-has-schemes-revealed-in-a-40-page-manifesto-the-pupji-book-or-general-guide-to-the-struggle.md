@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/31/terrorist-terrorism-group-jemaah-islamiyah-has-
 
 ### [2003-08-31](/news/2003/08/31/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorist: Terrorism group Jemaah Islamiyah has schemes, revealed in a 40-page manifesto (the Pupji book or "General Guide to the Struggle of Jemaah Islamiyah"), for a suicide bombing campaign designed to change Asia and the Pacific region into Islamic provinces. Jemaah Islamiyah is also shown to be a well-formed organization with a constitution, rules of operation, and leadership structure.
 
 

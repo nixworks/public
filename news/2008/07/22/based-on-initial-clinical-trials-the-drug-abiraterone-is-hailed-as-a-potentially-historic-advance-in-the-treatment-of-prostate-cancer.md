@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/22/based-on-initial-clinical-trials-the-drug-abira
 
 ### [2008-07-22](/news/2008/07/22/index.md)
 
-##### clinical trial
+##### Clinical trial
 #  Based on initial clinical trials, the drug abiraterone is hailed as a potentially historic advance in the treatment of prostate cancer. 
 
 

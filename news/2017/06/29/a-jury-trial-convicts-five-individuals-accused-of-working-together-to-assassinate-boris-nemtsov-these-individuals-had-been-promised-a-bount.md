@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/29/a-jury-trial-convicts-five-individuals-accused-
 
 ### [2017-06-29](/news/2017/06/29/index.md)
 
-##### assassination of Boris Nemtsov
+##### Assassination of Boris Nemtsov
 # A jury trial convicts five individuals accused of working together to assassinate Boris Nemtsov. These individuals had been promised a bounty of 15 million Russian rubles. Critics say the original financiers and organizers of the crime have not been identified. 
 
 

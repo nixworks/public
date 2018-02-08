@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/01/1/the-turkish-registered-tanker-vicky-with-70-000-
 
 ### [2003-01-1](/news/2003/01/1/index.md)
 
-##### tonne
+##### Tonne
 #  The Turkish-registered tanker "Vicky", with 70,000 tonnes of diesel cargo, struck the wreck of the sunken auto carrier "Tricolor" off the coast of Dunkirk, France. The double-hulled tanker freed itself from the wreck with the rising tide and sailed a mile off to check for leakage. The "Vicky" is the second ship to strike the wreck of the "Tricolor" since the carrier sank on December 14, 2002.
 
 

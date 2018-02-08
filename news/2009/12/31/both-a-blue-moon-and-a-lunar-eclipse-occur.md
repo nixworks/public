@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/31/both-a-blue-moon-and-a-lunar-eclipse-occur.html
 
 ### [2009-12-31](/news/2009/12/31/index.md)
 
-##### blue moon
+##### Blue moon
 #  Both a blue moon and a lunar eclipse occur. 
 
 With two full moons this month, the second is called a blue moon. Why?

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/19/a-texas-state-appelate-court-overturns-the-nove
 
 ### [2013-09-19](/news/2013/09/19/index.md)
 
-##### money laundering
+##### Money laundering
 # A Texas state appelate court overturns the November 2010 money laundering conviction of former United States House Majority Leader Tom DeLay. 
 
 

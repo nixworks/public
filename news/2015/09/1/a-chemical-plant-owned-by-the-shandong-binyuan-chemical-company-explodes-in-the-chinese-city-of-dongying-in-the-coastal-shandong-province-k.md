@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/1/a-chemical-plant-owned-by-the-shandong-binyuan-c
 
 ### [2015-09-1](/news/2015/09/1/index.md)
 
-##### chemical plant
+##### Chemical plant
 # A chemical plant owned by the Shandong Binyuan Chemical Company explodes in the Chinese city of Dongying in the coastal Shandong province, killing at least one person with the extent of other injuries unknown. 
 
 At least one person has been reported dead in yet another

@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/9/index.html)  [JSON](2017/01/9/index.json)  [XML](2017/
 
 ##### January 2017 Jerusalem vehicular attack
 ### [Israeli Prime Minister Benjamin Netanyahu blames the Islamic State for the attack that killed four soldiers and injured 15 others in East Jerusalem. ](/news/2017/01/9/israeli-prime-minister-benjamin-netanyahu-blames-the-islamic-state-for-the-attack-that-killed-four-soldiers-and-injured-15-others-in-east-je.md)
-_Context: Benjamin Netanyahu, January 2017 Jerusalem vehicular attack, East Jerusalem, ISIS_
+_Context: ISIS, Benjamin Netanyahu, East Jerusalem, January 2017 Jerusalem vehicular attack_
 
 ##### Sinai insurgency
 ### [An attack by several gunmen and a truck bomb on a police checkpoint in El-Arish leaves 13 dead and 15 wounded, including the attackers. ](/news/2017/01/9/an-attack-by-several-gunmen-and-a-truck-bomb-on-a-police-checkpoint-in-el-arish-leaves-13-dead-and-15-wounded-including-the-attackers.md)
@@ -21,7 +21,7 @@ Storms in California fell a popular tree with a hole cut in the trunk that cars 
 
 ##### 2016 Irkutsk mass methanol poisoning
 ### [The death toll from people who drank poisonous methanol in Irkutsk, Russia, rises to 76. ](/news/2017/01/9/the-death-toll-from-people-who-drank-poisonous-methanol-in-irkutsk-russia-rises-to-76.md)
-_Context: methanol, Irkutsk, Russia, 2016 Irkutsk mass methanol poisoning_
+_Context: methanol, Irkutsk, 2016 Irkutsk mass methanol poisoning, Russia_
 
 ##### January 2017 European cold wave
 ### [Dozens of people die in eastern Europe and Italy in recent days as a result of a cold snap with cancelled flights, frozen rivers, and traffic accidents. ](/news/2017/01/9/dozens-of-people-die-in-eastern-europe-and-italy-in-recent-days-as-a-result-of-a-cold-snap-with-cancelled-flights-frozen-rivers-and-traffi.md)
@@ -37,7 +37,7 @@ Former president’s lawyers claim trial last year contained irregularities and 
 
 ##### Death and state funeral of Akbar Hashemi Rafsanjani
 ### [The Iranian government declares three days of national mourning following the death of the former president and one of the key figures in the Islamic Republic. ](/news/2017/01/9/the-iranian-government-declares-three-days-of-national-mourning-following-the-death-of-the-former-president-and-one-of-the-key-figures-in-th.md)
-_Context: Iran, national mourning, Islamic Republic, Death and state funeral of Akbar Hashemi Rafsanjani_
+_Context: Iran, Islamic Republic, Death and state funeral of Akbar Hashemi Rafsanjani, national mourning_
 
 ##### Cyprus dispute
 ### [Greek and Turkish local leaders of Cyprus resume talks to end the division of the island before a high level multilateral conference takes place in Geneva this week in the latest effort to reunify the island. ](/news/2017/01/9/greek-and-turkish-local-leaders-of-cyprus-resume-talks-to-end-the-division-of-the-island-before-a-high-level-multilateral-conference-takes-p.md)

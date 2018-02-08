@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/27/a-consortium-led-by-korea-electric-power-gets-a
 
 ### [2009-12-27](/news/2009/12/27/index.md)
 
-##### consortium
+##### Consortium
 #  A consortium led by Korea Electric Power gets a US$20.4-billion contract to build nuclear power plants in the United Arab Emirates, the largest-ever energy deal in the Middle East. 
 
 A consortium led by the Korea Electric Power Corp. won a $40 billion contract Sunday to build nuclear power plants in the United Arab Emirates, paving the way for South Korea to become a major energy facility exporter.

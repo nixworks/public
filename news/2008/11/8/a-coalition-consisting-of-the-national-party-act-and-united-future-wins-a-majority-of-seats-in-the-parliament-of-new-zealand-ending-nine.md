@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/8/a-coalition-consisting-of-the-national-party-act
 
 ### [2008-11-8](/news/2008/11/8/index.md)
 
-##### coalition
+##### Coalition
 #  A coalition consisting of the National Party, ACT and United Future wins a majority of seats in the Parliament of New Zealand, ending nine years of Labour Party-led rule. 
 
 News, views and commentary on the 2008 parliamentary election in New Zealand

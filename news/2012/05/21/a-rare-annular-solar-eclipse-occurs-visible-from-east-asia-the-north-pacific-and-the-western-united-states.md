@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/21/a-rare-annular-solar-eclipse-occurs-visible-fro
 
 ### [2012-05-21](/news/2012/05/21/index.md)
 
-##### annular solar eclipse
+##### Annular solar eclipse
 # A rare annular solar eclipse occurs, visible from East Asia, the North Pacific, and the Western United States. 
 
 Sky watchers in parts of Asia have glimpsed an annular solar eclipse as the moon passed in front of the sun today.

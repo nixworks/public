@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/three-men-are-arrested-for-allegedly-raping-and-
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### rape
+##### Rape
 # Three men are arrested for allegedly raping and robbing a foreign tourist on a minibus in Rio de Janeiro, Brazil, amid concerns about security before the country hosts 2014 FIFA World Cup and the 2016 Summer Olympics. 
 
 

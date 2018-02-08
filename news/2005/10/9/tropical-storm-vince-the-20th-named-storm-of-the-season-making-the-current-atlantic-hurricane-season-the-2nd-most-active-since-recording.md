@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/9/tropical-storm-vince-the-20th-named-storm-of-the
 
 ### [2005-10-9](/news/2005/10/9/index.md)
 
-##### typhoon
+##### Typhoon
 #  Tropical Storm Vince, the 20th named storm of the season (making the current Atlantic hurricane season the 2nd most active since recording first took place) is gaining hurricane strength while heading towards Europe. It is unusual for such a storm to form so far east in the Atlantic Ocean, and more so gaining hurricane strength, since the waters are much cooler than in the Caribbean area. 
 
 

@@ -7,7 +7,7 @@ Formats: [HTML](2010/08/30/index.html)  [JSON](2010/08/30/index.json)  [XML](201
 ### [Four Israeli settlers, including a pregnant woman, are shot dead in a shooting outside Kiryat Arba, when a gunman opens fire on their car. Hamas claims responsibility for the murder. ](/news/2010/08/30/four-israeli-settlers-including-a-pregnant-woman-are-shot-dead-in-a-shooting-outside-kiryat-arba-when-a-gunman-opens-fire-on-their-car-h.md)
 Hamas claims responsibility for West Bank attack in which two men and two women, one of whom was pregnant, were killed.
 
-##### opens fire
+##### Opens fire
 ### [A gunman opens fire in Devinska Nova Ves, a borough of the Slovak capital Bratislava, killing 8 people and injuring 14 others. ](/news/2010/08/30/a-gunman-opens-fire-in-devanska-nova-ves-a-borough-of-the-slovak-capital-bratislava-killing-8-people-and-injuring-14-others.md)
 A gunman has killed six people and wounded 14 others in Bratislava, the Slovak news agency reported on Monday. The news agency TASR said the shooting took place midmorning on the streets of the Devins
 
@@ -27,13 +27,13 @@ _Context: Mogadishu_
 ### [4 African Union peacekeepers from Uganda are killed during a mortar strike in Mogadishu, Somalia. ](/news/2010/08/30/4-african-union-peacekeepers-from-uganda-are-killed-during-a-mortar-strike-in-mogadishu-somalia.md)
 Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu&#x20;on&#x20;Monday&#x20;in&#x20;a&#x20;mortar&#x20;attack&#x20;by&#x20;al&#x20;Shabaab&#x20;rebels.&#x20;The&#x20;attack&#x20;comes&#x20;as&#x20;authorities&#x20;in&#x20;Somalia&#x20;called&#x20;for&#x20;more&#x20;inte...
 
-##### rocket launcher
+##### Rocket launcher
 ### [4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. ](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.md)
-_Context: rocket launcher, Pursat Province, Cambodia_
+_Context: rocket launcher, Cambodia, Pursat Province_
 
 ##### Russia
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
-_Context: Sudan, Darfur, Russia_
+_Context: Russia, Sudan, Darfur_
 
 ##### Nigeria
 ### [Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. ](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.md)
@@ -43,7 +43,7 @@ Gunmen have kidnapped a politician in southern Nigeria months ahead of elections
 ### [It is announced that Isabella Rossellini is to chair the judging panel at the Berlin International Film Festival in 2011. ](/news/2010/08/30/it-is-announced-that-isabella-rossellini-is-to-chair-the-judging-panel-at-the-berlin-international-film-festival-in-2011.md)
 BERLIN (Reuters Life!) - Italian-American actress and director Isabella Rossellini will head the jury at the 2011 Berlin film festival, organizers said on Mo
 
-##### indigenous children
+##### Indigenous children
 ### [Concern is expressed for more than 500 indigenous women who have gone missing in Canada on the International Day of the Disappeared. ](/news/2010/08/30/concern-is-expressed-for-more-than-500-indigenous-women-who-have-gone-missing-in-canada-on-the-international-day-of-the-disappeared.md)
 On International Day of the Disappeared, activists say fate of hundreds of missing indigenous women must be examined.
 
@@ -67,7 +67,7 @@ Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in 
 ### [Indonesia's Mount Sinabung continues to erupt with 21,000 people now evacuated from nearby areas of north Sumatra and two people dead. ](/news/2010/08/30/indonesia-s-mount-sinabung-continues-to-erupt-with-21-000-people-now-evacuated-from-nearby-areas-of-north-sumatra-and-two-people-dead.md)
 An Indonesian volcano dormant for four centuries erupted for the second straight day Monday, shooting clouds of hot ash more than a mile into the air and forcing 30,000 people to flee.
 
-##### fire
+##### Fire
 ### [9 people die and 480 are rescued following a fire at a retirement home in the Tver region of Russia. ](/news/2010/08/30/9-people-die-and-480-are-rescued-following-a-fire-at-a-retirement-home-in-the-tver-region-of-russia.md)
 Nine people dead in apparent suicide attempt by elderly resident of a facility 170km outside of Moscow.
 
@@ -77,7 +77,7 @@ Hikers in Canada discover the frozen body of an American ice climber who fell to
 
 ##### Quito
 ### [42 killed, 11 injured in bus crash 55 miles south of Quito, Ecuador.](/news/2010/08/30/42-killed-11-injured-in-bus-crash-55-miles-south-of-quito-ecuador.md)
-_Context: Quito, Ecuador_
+_Context: Ecuador, Quito_
 
 ##### Ovadia Yosef
 ### [Ovadia Yosef, a senior rabbi from Shas, a party within Israel's coalition government, calls for Palestinian President Mahmoud Abbas to "vanish from our world". The United States condemns the remarks as "deeply offensive". ](/news/2010/08/30/ovadia-yosef-a-senior-rabbi-from-shas-a-party-within-israel-s-coalition-government-calls-for-palestinian-president-mahmoud-abbas-to-vani.md)
@@ -113,7 +113,7 @@ _Context: India, Blackberry_
 
 ##### Indonesia
 ### [Indonesian detainees continue to riot at the Northern Immigration Detention Facility. ](/news/2010/08/30/indonesian-detainees-continue-to-riot-at-the-northern-immigration-detention-facility.md)
-_Context: Indonesia, Northern Territory, centres_
+_Context: Indonesia, centres, Northern Territory_
 
 ##### South Africa
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)

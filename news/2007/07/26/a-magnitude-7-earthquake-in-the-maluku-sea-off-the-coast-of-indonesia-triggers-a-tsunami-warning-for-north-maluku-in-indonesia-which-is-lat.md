@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-
 
 ### [2007-07-26](/news/2007/07/26/index.md)
 
-##### earthquake
+##### Earthquake
 #  A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. 
 
 

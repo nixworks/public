@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/23/global-stock-markets-fall-for-a-second-day-amid
 
 ### [2011-09-23](/news/2011/09/23/index.md)
 
-##### stock market
+##### Stock market
 # Global stock markets fall for a second day amid fears of a deepening economic crisis. 
 
 The sharemarket took investors on another roller-coaster ride today, but in the end stocks closed 1.5 per cent lower, falling to a fresh 26-month low and wiping another $18 billion off the market&#039;s value. Here&#039;s how the day played out in Australia.

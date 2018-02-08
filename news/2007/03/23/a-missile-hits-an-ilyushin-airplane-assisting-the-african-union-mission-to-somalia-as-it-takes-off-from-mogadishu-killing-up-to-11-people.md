@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-t
 
 ### [2007-03-23](/news/2007/03/23/index.md)
 
-##### missile hits an Ilyushin airplane
+##### Missile hits an Ilyushin airplane
 #  A missile hits an Ilyushin airplane assisting the African Union Mission to Somalia as it takes off from Mogadishu, killing up to 11 people. 
 
 

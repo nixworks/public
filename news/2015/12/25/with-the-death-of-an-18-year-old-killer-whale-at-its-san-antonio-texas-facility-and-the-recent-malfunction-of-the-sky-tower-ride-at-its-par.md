@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/25/with-the-death-of-an-18-year-old-killer-whale-a
 
 ### [2015-12-25](/news/2015/12/25/index.md)
 
-##### killer whale
+##### Killer whale
 # With the death of an 18-year-old killer whale at its San Antonio, Texas facility and the recent malfunction of the Sky Tower ride at its park in Orlando, Florida, SeaWorld's problems in the wake of recent earning shortfalls, decline in attendance, and drop the values of its shares. In response, the company plans new pricing and attractions. 
 
 

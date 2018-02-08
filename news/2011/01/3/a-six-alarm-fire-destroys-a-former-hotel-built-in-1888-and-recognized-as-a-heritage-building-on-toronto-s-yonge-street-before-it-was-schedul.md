@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/3/a-six-alarm-fire-destroys-a-former-hotel-built-i
 
 ### [2011-01-3](/news/2011/01/3/index.md)
 
-##### six-alarm
+##### Six-alarm
 # A six-alarm fire destroys a former hotel built in 1888 and recognized as a heritage building on Toronto's Yonge Street before it was scheduled for demolition; the fire forced the temporary closure of Ryerson University and nearby schools and hot spots remained a danger after extinguishing the fire. Two firefighters who fell into the building were rescued uninjured while arson remains a suspected cause. 
 
 The face of Yonge Street in Downtown Toronto has been forever changed thanks to a massive early morning blaze.

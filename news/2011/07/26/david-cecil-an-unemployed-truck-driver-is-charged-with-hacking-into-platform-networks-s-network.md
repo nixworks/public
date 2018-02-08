@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charg
 
 ### [2011-07-26](/news/2011/07/26/index.md)
 
-##### hacking
+##### Hacking
 # David Cecil, an unemployed truck driver, is charged with hacking into Platform Networks's network. 
 
 

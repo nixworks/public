@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/8/the-united-states-congress-reaches-a-deal-on-the
 
 ### [2011-04-8](/news/2011/04/8/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress reaches a deal on the 2011 United States federal budget an hour before the deadline to avoid a government shutdown. 
 
 US politicians agree to slash spending, in a deal reached just one hour before a government shutdown would have been enforced.

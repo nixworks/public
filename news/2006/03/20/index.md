@@ -17,7 +17,7 @@ The Age 404 Page
 
 ##### Vladimir Putin
 ### [ Russian President Vladimir Putin visits Beijing on energy talks with Chinese President Hu Jintao. ](/news/2006/03/20/russian-president-vladimir-putin-visits-beijing-on-energy-talks-with-chinese-president-hu-jintao.md)
-_Context: Hu Jintao, Vladimir Putin_
+_Context: Vladimir Putin, Hu Jintao_
 
 ## [Previous Day...](/news/2006/03/19/index.md)
 

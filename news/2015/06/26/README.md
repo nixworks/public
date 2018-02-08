@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/26/index.html)  [JSON](2015/06/26/index.json)  [XML](201
 
 ##### Somali Civil War
 ### [Al Shabaab militants attack an African Union base in the Leego district of Somalia and kills more than 70 African Union soldiers and seizes control of their military base. ](/news/2015/06/26/al-shabaab-militants-attack-an-african-union-base-in-the-leego-district-of-somalia-and-kills-more-than-70-african-union-soldiers-and-seizes.md)
-_Context: Somali Civil War, Leego, attack, Al-Shabaab, African Union, Somalia_
+_Context: Somali Civil War, Somalia, Leego, attack, Al-Shabaab, African Union_
 
 ##### Saint-Quentin-Fallavier attack
 ### [ A man is decapitated and at least two others are injured during an attack in Saint-Quentin-Fallavier as a man carrying an Islamic State in Iraq and the Levant flag attacks a factory near the French city of Lyon. ](/news/2015/06/26/a-man-is-decapitated-and-at-least-two-others-are-injured-during-an-attack-in-saint-quentin-fallavier-as-a-man-carrying-an-islamic-state-in.md)
@@ -27,7 +27,7 @@ ISIS may be trying a diversionary tactic in the city it lost to the Kurds six mo
 ### [The Prime Minister of Greece Alexis Tsipras says that Greece will hold a referendum on a bailout deal with creditors on July 5. ](/news/2015/06/26/the-prime-minister-of-greece-alexis-tsipras-says-that-greece-will-hold-a-referendum-on-a-bailout-deal-with-creditors-on-july-5.md)
 Greek PM Alexis Tsipras calls a referendum on 5 July on a bailout plan offered by international creditors that he condemns as &quot;unbearable&quot;.
 
-##### monsoon
+##### Monsoon
 ### [An early monsoon arrives in India resulting in floods in Gujarat state that have killed 60 people so far this week. ](/news/2015/06/26/an-early-monsoon-arrives-in-india-resulting-in-floods-in-gujarat-state-that-have-killed-60-people-so-far-this-week.md)
 More than 60 people have died in Gujarat due to floods caused by incessant rains following a deep pressure built into Arabian Sea off Gujarat coast.
 
@@ -45,13 +45,13 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United States Supreme Court
 ### [In a 5-4 decision, the United States Supreme Court declares state bans on same-sex marriage unconstitutional and effectively legalizes it across the United States. ](/news/2015/06/26/in-a-5-4-decision-the-united-states-supreme-court-declares-state-bans-on-same-sex-marriage-unconstitutional-and-effectively-legalizes-it-ac.md)
-_Context: United States Supreme Court, same-sex marriage_
+_Context: same-sex marriage, United States Supreme Court_
 
 ##### 2015 Clinton Correctional Facility escape
 ### [Richard Matt, one of the two escapees, died from gunshot wounds south of the town of Malone, New York. ](/news/2015/06/26/richard-matt-one-of-the-two-escapees-died-from-gunshot-wounds-south-of-the-town-of-malone-new-york.md)
-_Context: Richard Matt, 2015 Clinton Correctional Facility escape, Malone, New York_
+_Context: Richard Matt, Malone, New York, 2015 Clinton Correctional Facility escape_
 
-##### election
+##### Election
 ### [ Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. ](/news/2015/06/26/sri-lankan-president-maithripala-sirisena-dissolves-the-parliament-to-pave-the-way-for-the-upcoming-parliamentary-election.md)
 Sri Lankan President Maithripala Sirisena dissolves parliament, paving the way for an early general election.
 

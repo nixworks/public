@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-f
 
 ### [2013-03-29](/news/2013/03/29/index.md)
 
-##### ice floes
+##### Ice floes
 # More than 220 people are rescued from two ice floes that broke off of Latvia and were blown into the Gulf of Riga. 
 
 

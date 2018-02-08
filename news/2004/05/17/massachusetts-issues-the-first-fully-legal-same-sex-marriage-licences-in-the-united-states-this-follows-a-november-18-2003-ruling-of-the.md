@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/17/massachusetts-issues-the-first-fully-legal-same
 
 ### [2004-05-17](/news/2004/05/17/index.md)
 
-##### to get married
+##### To get married
 #  Massachusetts issues the first fully legal same-sex marriage licences in the United States. This follows a November 18, 2003 ruling of the Massachusetts Supreme Court requiring the state to issue same-sex marriage licences. The first licence is issued at Cambridge to Marcia Hams and Susan Shepherd at the stroke of midnight. See Same-sex marriage in the United States.
 
 

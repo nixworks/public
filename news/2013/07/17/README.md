@@ -3,7 +3,7 @@ Formats: [HTML](2013/07/17/index.html)  [JSON](2013/07/17/index.json)  [XML](201
 
 ## [2013-07-17](/news/2013/07/17/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 ### [Al-Qaeda in the Arabian Peninsula confirms that its former deputy Said Ali al-Shihri was killed in a US drone strike. ](/news/2013/07/17/al-qaeda-in-the-arabian-peninsula-confirms-that-its-former-deputy-said-ali-al-shihri-was-killed-in-a-us-drone-strike.md)
 Arabian Al Qaeda confirms death of deputy leader Saeed al-Shehri by US drone strike.
 
@@ -19,13 +19,13 @@ Kurdish militants look for victory over Islamist rebels in Ras al-Ayn as the Tur
 ### [A bomb detonates inside a teahouse in Mosul, Iraq killing at least 10 people. ](/news/2013/07/17/a-bomb-detonates-inside-a-teahouse-in-mosul-iraq-killing-at-least-10-people.md)
 A bomb blast in a teahouse in the northern Iraqi city of Mosul killed at least seven people on Wednesday, police and medics said.
 
-##### floods
+##### Floods
 ### [At least 58 people are dead and 175 missing in floods in China's Sichuan province. ](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-floods-in-china-s-sichuan-province.md)
 _Context: floods, Sichuan, China_
 
-##### heat wave
+##### Heat wave
 ### [A heat wave settles over the United States with at least one death reported. ](/news/2013/07/17/a-heat-wave-settles-over-the-united-states-with-at-least-one-death-reported.md)
-_Context: United States, heat wave_
+_Context: heat wave, United States_
 
 ##### Bangladesh
 ### [A Bangladesh war crimes tribunal sentences Ali Ahsan Mohammad Mojaheed, Secretary General of the Bangladesh Jamaat-e-Islami political party, to death for atrocities committed during the Bangladesh Liberation War. ](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.md)
@@ -33,7 +33,7 @@ A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on
 
 ##### German
 ### [German authorities indict Formula One boss Bernie Ecclestone for alleged bribery. ](/news/2013/07/17/german-authorities-indict-formula-one-boss-bernie-ecclestone-for-alleged-bribery.md)
-_Context: Formula One, indicted, German, Bernie Ecclestone_
+_Context: Bernie Ecclestone, German, indicted, Formula One_
 
 ##### Same-sex marriage becomes legal in England and Wales
 ### [Same-sex marriage becomes legal in England and Wales after the Marriage (Same Sex Couples) Bill receives Royal Assent. ](/news/2013/07/17/same-sex-marriage-becomes-legal-in-england-and-wales-after-the-marriage-same-sex-couples-bill-receives-royal-assent.md)

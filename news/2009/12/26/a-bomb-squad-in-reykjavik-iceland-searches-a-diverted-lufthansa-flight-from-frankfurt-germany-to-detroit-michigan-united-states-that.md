@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/26/a-bomb-squad-in-reykjavik-iceland-searches-a-di
 
 ### [2009-12-26](/news/2009/12/26/index.md)
 
-##### bomb squad
+##### Bomb squad
 #  A bomb squad in Reykjavk, Iceland, searches a diverted Lufthansa flight from Frankfurt, Germany, to Detroit, Michigan, United States, that carries a bag whose owner did not make it onto the plane. 
 
 A Lufthansa (LHAG.DE) flighten route from Frankfurt to Detroit made an unscheduled landingin Iceland on Saturday after it was found to be carrying luggagewhose owner had not boarded the plane.

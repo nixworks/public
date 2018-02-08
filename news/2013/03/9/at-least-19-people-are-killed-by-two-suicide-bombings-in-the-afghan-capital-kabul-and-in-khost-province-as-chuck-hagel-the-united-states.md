@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/9/at-least-19-people-are-killed-by-two-suicide-bom
 
 ### [2013-03-9](/news/2013/03/9/index.md)
 
-##### suicide bombings
+##### Suicide bombings
 # At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. 
 
 

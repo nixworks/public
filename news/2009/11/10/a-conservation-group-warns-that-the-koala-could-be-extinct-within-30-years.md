@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/10/a-conservation-group-warns-that-the-koala-could
 
 ### [2009-11-10](/news/2009/11/10/index.md)
 
-##### koala
+##### Koala
 #  A conservation group warns that the koala could be extinct within 30 years. 
 
 KOALAS are rapidly vanishing from the Australian bush,and there may be as few as 43,000 left on the mainland, according to the biggest national survey of their populations attempted.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/22/2012a2013-cypriot-financial-crisis-minister-of-
 
 ### [2013-03-22](/news/2013/03/22/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: Minister of Finance of Cyprus Michael Sarris says that his talks with officials in Russia about a possible rescue package for Cypriot banks have led nowhere. 
 
 European and Cypriot officials were locked in talks to find a formula to avert the Mediterranean island’s financial collapse, struggling to forge consensus on a bailout package before the European Central Bank cuts funding.

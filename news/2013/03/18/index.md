@@ -5,19 +5,19 @@ Formats: [HTML](2013/03/18/index.html)  [JSON](2013/03/18/index.json)  [XML](201
 
 ##### Syrian Air Force
 ### [Fighter jets from the Syrian Air Force fire rockets into northern Lebanon with no casualties reported. ](/news/2013/03/18/fighter-jets-from-the-syrian-air-force-fire-rockets-into-northern-lebanon-with-no-casualties-reported.md)
-_Context: Syrian Air Force, Lebanon_
+_Context: Syrian Air Force, Lebanese_
 
-##### car bombing
+##### Car bombing
 ### [A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. ](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capital-mogadishu-kills-at-least-10-people-and-injures-20-others.md)
-_Context: Mogadishu, car bombing, Somalia_
+_Context: car bombing, Mogadishu, Somalia_
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. ](/news/2013/03/18/a-suspected-militant-suicide-bombing-at-a-court-and-prison-complex-in-the-pakistani-city-of-peshawar-kills-at-least-4-people-and-injures-47.md)
 Militants kill at least four people and injure 29 in an attack on a court and prison complex in the north-west Pakistani city of Peshawar.
 
-##### bus park
+##### Bus park
 ### [A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. ](/news/2013/03/18/a-series-of-explosions-kill-at-least-25-people-in-a-bus-park-in-the-northern-nigerian-city-of-kano.md)
-_Context: bus park, Kano, Nigeria_
+_Context: Kano, bus park, Nigeria_
 
 ##### U.S. Marines
 ### [Seven U.S. Marines are killed and seven others are injured when a mortar explodes during a training exercise in the Hawthorne Army Depot in Hawthorne, Nevada, United States. ](/news/2013/03/18/seven-u-s-marines-are-killed-and-seven-others-are-injured-when-a-mortar-explodes-during-a-training-exercise-in-the-hawthorne-army-depot-in.md)
@@ -25,15 +25,15 @@ A deadly explosion at a military ammunition storage facility in Nevada during a 
 
 ##### Japan
 ### [Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. ](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.md)
-_Context: China, DCNS, Japan, France_
+_Context: France, Japan, China, DCNS_
 
 ##### President of Argentina
 ### [Argentine President Cristina Fernandez de Kirchner appeals to Pope Francis for assistance in settling Argentina's dispute over the Falkland Islands with the United Kingdom. ](/news/2013/03/18/argentine-president-cristina-ferna-ndez-de-kirchner-appeals-to-pope-francis-for-assistance-in-settling-argentina-s-dispute-over-the-falkland.md)
-_Context: President of Argentina, Argentina, Falkland Islands sovereignty dispute, Pope Francis, United Kingdom, Cristina Fernandez de Kirchner_
+_Context: Cristina Fernandez de Kirchner, Falkland Islands sovereignty dispute, Argentina, Pope Francis, United Kingdom, President of Argentina_
 
 ##### China
 ### [China says that United States plans to bolster missile defences in response to provocations by North Korea would only intensify antagonism, and urges Washington to act prudently. ](/news/2013/03/18/china-says-that-united-states-plans-to-bolster-missile-defences-in-response-to-provocations-by-north-korea-would-only-intensify-antagonism.md)
-_Context: North Korea, Washington, D.C., United States, missile defence, China_
+_Context: United States, Washington, D.C., China, missile defence, North Korea_
 
 ##### North Korea
 ### [North Korea threatens Japan with a preemptive nuclear strike. ](/news/2013/03/18/north-korea-threatens-japan-with-a-preemptive-nuclear-strike.md)
@@ -51,13 +51,13 @@ Six men arrested over the alleged gang rape of a 39-year-old Swiss woman as she 
 ### ["The Sun" newspaper apologizes for accessing private information on a stolen mobile phone belonging to Labour MP Siobhain McDonagh. ](/news/2013/03/18/the-sun-newspaper-apologizes-for-accessing-private-information-on-a-stolen-mobile-phone-belonging-to-labour-mp-siobhain-mcdonagh.md)
 The Sun newspaper apologises for accessing private information on a stolen mobile phone belonging to Labour MP Siobhain McDonagh.
 
-##### student
+##### Student
 ### [James Seevakumaran, a 30-year-old student at the University of Central Florida, pulls the fire alarm and plans to attack the school. Instead, after brandishing a gun at another student, he commits suicide in his dorm in Orlando, Florida, United States. The entire campus is evacuated when improvised explosive devices are found in the room. ](/news/2013/03/18/james-seevakumaran-a-30-year-old-student-at-the-university-of-central-florida-pulls-the-fire-alarm-and-plans-to-attack-the-school-instead.md)
 HOUSTON -- An undergraduate student at the University of Central Florida apparently&nbsp; committed suicide in his dorm room, and campus evacuations were ordered after explosives, an assault rifle...
 
 ##### FBI
 ### [The United States FBI states that they know who carried out greatest art heist in American history at Boston's Isabella Stewart Gardner Museum in 1990. ](/news/2013/03/18/the-united-states-fbi-states-that-they-know-who-carried-out-greatest-art-heist-in-american-history-at-boston-s-isabella-stewart-gardner-muse.md)
-_Context: Boston, Isabella Stewart Gardner Museum, art heist, United States, FBI_
+_Context: art heist, Boston, FBI, United States, Isabella Stewart Gardner Museum_
 
 ##### Ghassan Hitto
 ### [Ghassan Hitto is elected as the Syrian National Coalition's provisional Prime Minister. He will be tasked with forming a government amid the Syrian civil war. ](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.md)
@@ -69,7 +69,7 @@ Plans for a new press watchdog able to impose million-pound fines and demand apo
 
 ##### United States
 ### [Former United States Secretary of State Hillary Clinton officially announces her support for same-sex marriage. ](/news/2013/03/18/former-united-states-secretary-of-state-hillary-clinton-officially-announces-her-support-for-same-sex-marriage.md)
-_Context: same-sex marriage, United States Secretary of State, Hillary Clinton, United States_
+_Context: same-sex marriage, United States, United States Secretary of State, Hillary Clinton_
 
 ##### US
 ### [US President Barack Obama nominates Assistant Attorney General Thomas Perez to be the next United States Secretary of Labor. ](/news/2013/03/18/us-president-barack-obama-nominates-assistant-attorney-general-thomas-perez-to-be-the-next-united-states-secretary-of-labor.md)

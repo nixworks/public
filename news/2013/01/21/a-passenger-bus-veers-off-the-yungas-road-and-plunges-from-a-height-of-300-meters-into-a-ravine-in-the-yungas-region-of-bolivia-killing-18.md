@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/21/a-passenger-bus-veers-off-the-yungas-road-and-p
 
 ### [2013-01-21](/news/2013/01/21/index.md)
 
-##### bus
+##### Bus
 # A passenger bus veers off the Yungas Road and plunges from a height of 300 meters into a ravine in the Yungas region of Bolivia, killing 18 people and injuring 24 others. 
 
 

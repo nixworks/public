@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/26/over-8-000-landless-activists-including-the-lan
 
 ### [2004-11-26](/news/2004/11/26/index.md)
 
-##### landless
+##### Landless
 #  Over 8,000 landless activists, including the Landless Workers' Movement (MST), march on Brasilia, Brazil, to demand the speeding up of land reform promised by President Luiz Inacio Lula da Silva. 
 
 

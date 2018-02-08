@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Leon Panetta
 ### [Leon Panetta, the United States Secretary of Defense, warns North Korea against further provocations against South Korea. ](/news/2012/04/24/leon-panetta-the-united-states-secretary-of-defense-warns-north-korea-against-further-provocations-against-south-korea.md)
-_Context: North Korea, South Korea, Leon Panetta, United States Secretary of Defense_
+_Context: United States Secretary of Defense, Leon Panetta, South Korea, North Korea_
 
 ##### Leveson Inquiry
 ### [Appearing before the Leveson Inquiry, James Murdoch tells the hearing that News International's corporate systems failed to pick up on legal issues posed by its news gathering techniques. ](/news/2012/04/24/appearing-before-the-leveson-inquiry-james-murdoch-tells-the-hearing-that-news-international-s-corporate-systems-failed-to-pick-up-on-legal.md)
@@ -39,7 +39,7 @@ Defence team for US soldier Bradley Manning argues that case was mishandled by p
 ### [Ireland's police watchdog rules that there are no grounds for any criminal case against any of five officers involved in the 31 March 2011 incident known as the "rape tape" controversy, resulting from the inadvertent video recording of a sergeant in a patrol car joking about the rape of two women. ](/news/2012/04/24/ireland-s-police-watchdog-rules-that-there-are-no-grounds-for-any-criminal-case-against-any-of-five-officers-involved-in-the-31-march-2011-i.md)
 Jerrie Ann Sullivan says she is &#8220;not at all surprised&#8221; about the findings of the GSOC investigation released today.
 
-##### police
+##### Police
 ### [British police arrest five people in the English town of Luton on suspicion of the commission, preparation or instigation of acts of terrorism. ](/news/2012/04/24/british-police-arrest-five-people-in-the-english-town-of-luton-on-suspicion-of-the-commission-preparation-or-instigation-of-acts-of-terrori.md)
 Five men aged between 21 and 35 are arrested in Luton on suspicion of the commission, preparation or instigation of acts of terrorism.
 

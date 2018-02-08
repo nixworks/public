@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/6/flash-floods-in-the-ladakh-region-of-india-s-jam
 
 ### [2010-08-6](/news/2010/08/6/index.md)
 
-##### severe flash floods
+##### Severe flash floods
 # Flash floods in the Ladakh region of India's Jammu and Kashmir state kill at least 113 people and leave lots of others missing. 
 
 At least 113 people killed after cloudburst causes water to sweep through Leh.

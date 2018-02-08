@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/17/canadian-multinational-aerospace-and-transporta
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
-##### multinational
+##### Multinational
 # Canadian multinational aerospace and transportation company Bombardier Inc. is to cut 7,000 jobs worldwide over the next two years, including over a thousand jobs in the United Kingdom. 
 
 Decision will affect 1,350 UK workers as company blames job losses on economic conditions

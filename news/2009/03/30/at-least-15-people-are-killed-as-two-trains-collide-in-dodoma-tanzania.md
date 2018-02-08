@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/30/at-least-15-people-are-killed-as-two-trains-col
 
 ### [2009-03-30](/news/2009/03/30/index.md)
 
-##### train
+##### Train
 #  At least 15 people are killed as two trains collide in Dodoma, Tanzania. 
 
 

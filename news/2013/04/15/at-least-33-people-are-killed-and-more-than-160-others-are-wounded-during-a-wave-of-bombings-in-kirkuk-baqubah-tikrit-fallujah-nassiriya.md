@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160
 
 ### [2013-04-15](/news/2013/04/15/index.md)
 
-##### bombings
+##### Bombings
 # At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. 
 
 Officials say at least 31 people have been killed and more than 200 others wounded in a series of early morning explosions across Iraq.

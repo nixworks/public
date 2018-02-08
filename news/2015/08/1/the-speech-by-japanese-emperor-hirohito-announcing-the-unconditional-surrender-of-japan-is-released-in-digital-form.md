@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/1/the-speech-by-japanese-emperor-hirohito-announci
 
 ### [2015-08-1](/news/2015/08/1/index.md)
 
-##### speech
+##### Speech
 # The speech by Japanese Emperor Hirohito announcing the unconditional surrender of Japan is released in digital form. 
 
 

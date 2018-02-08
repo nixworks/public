@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-i
 
 ### [2007-02-13](/news/2007/02/13/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide truck bomb kills at least 15 people in Baghdad. 
 
 

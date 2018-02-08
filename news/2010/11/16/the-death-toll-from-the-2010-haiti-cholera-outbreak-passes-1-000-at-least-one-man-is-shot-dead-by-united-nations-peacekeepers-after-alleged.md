@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/16/the-death-toll-from-the-2010-haiti-cholera-outb
 
 ### [2010-11-16](/news/2010/11/16/index.md)
 
-##### worst epidemic of cholera
+##### Worst epidemic of cholera
 # The death toll from the 2010 Haiti cholera outbreak passes 1,000. At least one man is shot dead by United Nations peacekeepers after allegedly opening fire on the peacekeepers. 
 
 Health officials in Haiti say more than 1,000 people have died from cholera, as the outbreak spreads there.

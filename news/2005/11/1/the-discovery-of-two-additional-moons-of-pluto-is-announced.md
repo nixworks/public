@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/1/the-discovery-of-two-additional-moons-of-pluto-i
 
 ### [2005-11-1](/news/2005/11/1/index.md)
 
-##### moons
+##### Moons
 #  The discovery of two additional moons of Pluto is announced. 
 
 

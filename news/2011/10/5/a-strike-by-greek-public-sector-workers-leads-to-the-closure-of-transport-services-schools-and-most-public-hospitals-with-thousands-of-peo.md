@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/5/a-strike-by-greek-public-sector-workers-leads-to
 
 ### [2011-10-5](/news/2011/10/5/index.md)
 
-##### strike
+##### Strike
 # A strike by Greek public sector workers leads to the closure of transport services, schools and most public hospitals, with thousands of people protesting against government austerity measures in Athens. 
 
 Airliners will be grounded, trains halted and tax offices shut when Greek state workers strike against austerity measures on Wednesday, defying a plea by the government to rally behind its effort to fend off national bankruptcy.

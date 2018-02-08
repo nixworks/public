@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/8/twenty-four-people-are-confirmed-dead-in-the-cra
 
 ### [2009-02-8](/news/2009/02/8/index.md)
 
-##### crash
+##### Crash
 #  Twenty-four people are confirmed dead in the crash of an Embraer 110P1 air taxi in Amazonas, Brazil. 
 
 

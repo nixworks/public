@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/15/a-small-study-shows-that-two-known-carcinogens-
 
 ### [2017-05-15](/news/2017/05/15/index.md)
 
-##### carcinogen
+##### Carcinogen
 # A small study shows that two known carcinogens, o-toluidine and 2-naphthylamine, were found in greater amounts in the urine of e-cigarette users than in nonusers. Previous studies of traditional cigarette smokers have identified o-toluidine and 2-naphthylamine as the two most carcinogenic molecules for the bladder. 
 
 

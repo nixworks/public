@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/18/at-least-four-people-are-killed-in-three-days-o
 
 ### [2007-10-18](/news/2007/10/18/index.md)
 
-##### tribal warfare
+##### Tribal warfare
 #  At least four people are killed in three days of tribal warfare near the Grasberg mine in the Papua province of Indonesia. 
 
 

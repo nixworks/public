@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/23/protesters-opposed-to-the-vote-of-the-cross-str
 
 ### [2014-03-23](/news/2014/03/23/index.md)
 
-##### trade deal
+##### Trade deal
 # Protesters opposed to the vote of the Cross-Strait Trade Agreement without a clause-by-clause review continue to occupy the Taiwanese parliament.Protesters push to occupy the nearby Executive Yuan as well. 
 
 

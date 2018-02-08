@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/11/18-miners-are-killed-in-explosion-at-the-vorkut
 
 ### [2013-02-11](/news/2013/02/11/index.md)
 
-##### coal mine
+##### Coal mine
 # 18 miners are killed in explosion at the Vorkutinskaya coal mine in Russia's Komi Region. 
 
 At least 16 workers killed and two more feared dead after explosion in coal mine in the Komi region town of Vorkuta.

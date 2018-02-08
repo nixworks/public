@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/15/the-number-of-fatalities-from-thursday-s-avalan
 
 ### [2013-02-15](/news/2013/02/15/index.md)
 
-##### avalanche
+##### Avalanche
 # The number of fatalities from Thursday's avalanche in the Scottish Highlands rises to three following the death of a man being treated in hospital. 
 
 Police name one of the three people who died after an avalanche in the Highlands on Thursday afternoon.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-kil
 
 ### [2007-03-22](/news/2007/03/22/index.md)
 
-##### explodes
+##### Explodes
 #  An arms depot explodes in Maputo, Mozambique, killing at least 93 people and injuring hundreds more. 
 
 

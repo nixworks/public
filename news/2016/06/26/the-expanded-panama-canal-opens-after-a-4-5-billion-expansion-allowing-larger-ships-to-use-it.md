@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-bil
 
 ### [2016-06-26](/news/2016/06/26/index.md)
 
-##### expanded
+##### Expanded
 # The expanded Panama Canal opens after a $4.5 billion expansion allowing larger ships to use it. 
 
 Chinese freighter laden with nearly 9,500 metal cargo containers transited the expanded Panama Canal on Sunday, inaugurating the interoceanic waterway and opening a new era in global trade.

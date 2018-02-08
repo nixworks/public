@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/16/a-gunman-opens-fire-at-washington-d-c-s-naval-y
 
 ### [2013-09-16](/news/2013/09/16/index.md)
 
-##### opens fire
+##### Opens fire
 # A gunman opens fire at Washington, D.C.'s Naval Yard killing 12; the gunman also dies.
 
 Police are looking for the shooter, who is believed to still be on the grounds of the Navy Yard.

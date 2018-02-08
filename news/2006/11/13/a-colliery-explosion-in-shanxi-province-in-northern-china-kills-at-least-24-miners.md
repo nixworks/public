@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/13/a-colliery-explosion-in-shanxi-province-in-nort
 
 ### [2006-11-13](/news/2006/11/13/index.md)
 
-##### colliery explosion
+##### Colliery explosion
 #  A colliery explosion in Shanxi province in northern China kills at least 24 miners. 
 
 

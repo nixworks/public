@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/18/a-police-sikorsky-s-70-helicopter-crashes-in-tu
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
-##### police
+##### Police
 # A police Sikorsky S-70 helicopter crashes in Tunceli Province, Turkey, killing 12 people. 
 
 A POLICE helicopter carrying 12 people has crashed killing everyone on board.

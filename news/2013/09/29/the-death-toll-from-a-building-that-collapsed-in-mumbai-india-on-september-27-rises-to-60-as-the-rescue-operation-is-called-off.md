@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/29/the-death-toll-from-a-building-that-collapsed-i
 
 ### [2013-09-29](/news/2013/09/29/index.md)
 
-##### building that collapsed
+##### Building that collapsed
 # The death toll from a building that collapsed in Mumbai, India, on September 27 rises to 60 as the rescue operation is called off. 
 
 The rescue operation at a collapsed four-storey building in the Indian city of Mumbai is called off, with the final death toll put at 60.

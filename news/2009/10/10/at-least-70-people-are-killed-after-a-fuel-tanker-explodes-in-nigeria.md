@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/10/at-least-70-people-are-killed-after-a-fuel-tank
 
 ### [2009-10-10](/news/2009/10/10/index.md)
 
-##### tanker
+##### Tanker
 #  At least 70 people are killed after a fuel tanker explodes in Nigeria. 
 
 

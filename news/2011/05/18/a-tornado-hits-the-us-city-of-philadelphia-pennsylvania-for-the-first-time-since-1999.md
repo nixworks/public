@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/18/a-tornado-hits-the-us-city-of-philadelphia-penn
 
 ### [2011-05-18](/news/2011/05/18/index.md)
 
-##### tornado
+##### Tornado
 # A tornado hits the US city of Philadelphia, Pennsylvania for the first time since 1999. 
 
 

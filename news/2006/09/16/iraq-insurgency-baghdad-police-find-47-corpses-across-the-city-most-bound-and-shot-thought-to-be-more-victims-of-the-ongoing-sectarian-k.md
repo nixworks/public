@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/16/iraq-insurgency-baghdad-police-find-47-corpses-
 
 ### [2006-09-16](/news/2006/09/16/index.md)
 
-##### insurgents
+##### Insurgents
 #  Iraq insurgency: Baghdad police find 47 corpses across the city, most bound and shot, thought to be more victims of the ongoing sectarian killing that has been taking place in the region and appears aimed at provoking civil war. 
 
 

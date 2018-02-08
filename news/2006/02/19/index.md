@@ -9,7 +9,7 @@ _Context: Pasta de Conchos mine disaster, Nueva Rosita, Coahuila, coal mine_
 
 ##### Ismail Haniya
 ### [ Ismail Haniya of Hamas becomes Prime Minister of the Palestinian National Authority, succeeding Ahmed Qurei. ](/news/2006/02/19/ismail-haniya-of-hamas-becomes-prime-minister-of-the-palestinian-national-authority-succeeding-ahmed-qurei.md)
-_Context: Ismail Haniya, Hamas, Prime Minister, Ahmed Qurei, Palestinian Authority_
+_Context: Hamas, Palestinian Authority, Ismail Haniya, Prime Minister, Ahmed Qurei_
 
 ##### Palestinian-Israeli conflict
 ### [ Palestinian-Israeli conflict: Interim Israeli Prime Minister Ehud Olmert decides to withhold payment to the Palestinian Authority of tax receipts amounting to about $50 million per month. ](/news/2006/02/19/palestinian-israeli-conflict-interim-israeli-prime-minister-ehud-olmert-decides-to-withhold-payment-to-the-palestinian-authority-of-tax-re.md)

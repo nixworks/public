@@ -11,25 +11,25 @@ Mexico&#039;s Attorney General has compiled a list showing that more than 25,000
 ### [An Ilyushin Il-76 cargo plane belonging to Aero-Service, flying from Pointe Noire to Brazzaville, capital of the Republic of the Congo, crashes into houses near Maya-Maya Airport during a thunderstorm. Congolese Red Cross officials say at least 32 people are confirmed dead in the crash, including six crew members and a police officer on board, as the search for victims continues. ](/news/2012/11/30/an-ilyushin-il-76-cargo-plane-belonging-to-aa-c-ro-service-flying-from-pointe-noire-to-brazzaville-capital-of-the-republic-of-the-congo-cra.md)
 A cargo plane crashed into houses near Brazzaville Maya-Maya airport while attempting to land in a thunderstorm on Friday, killing at least 32 people, a Congolese Red Cross official said on Saturday.
 
-##### railway bridge
+##### Railway bridge
 ### [A railway bridge collapses over a creek in Paulsboro in southern New Jersey, causing a Conrail freight train to derail and spill hazardous chemicals into the air and water. ](/news/2012/11/30/a-railway-bridge-collapses-over-a-creek-in-paulsboro-in-southern-new-jersey-causing-a-conrail-freight-train-to-derail-and-spill-hazardous-c.md)
 A railroad bridge collapsed on Friday over a creek in southern New Jersey, causing a Conrail freight train to derail and spill hazardous chemicals into the air and water, authorities said.
 
-##### gas explosion
+##### Gas explosion
 ### [Two people are killed and more than ten others injured in a gas explosion and fire in an apartment building in the Siberian city of Tomsk, Russia. ](/news/2012/11/30/two-people-are-killed-and-more-than-ten-others-injured-in-a-gas-explosion-and-fire-in-an-apartment-building-in-the-siberian-city-of-tomsk-r.md)
-_Context: gas explosion, Russia, Tomsk, Siberian_
+_Context: Russia, gas explosion, Siberian, Tomsk_
 
-##### freight train
+##### Freight train
 ### [A freight train derails at the Stuttgart-Feuerbach station, Germany, after a collision with the railway platform. There were no reports of injuries. ](/news/2012/11/30/a-freight-train-derails-at-the-stuttgart-feuerbach-station-germany-after-a-collision-with-the-railway-platform-there-were-no-reports-of-i.md)
-_Context: railway platform, freight train, Stuttgart-Feuerbach station, German_
+_Context: Stuttgart-Feuerbach station, freight train, German, railway platform_
 
-##### murder-suicide
+##### Murder-suicide
 ### [A murder-suicide attack occurs in Casper, Wyoming, United States. Two people are murdered, including a female computer science instructor (off campus), and a male faculty member that she'd been seeing (in a classroom) at Casper College, before the perpetrator, the male professor's son, killed himself in the classroom. ](/news/2012/11/30/a-murderasuicide-attack-occurs-in-casper-wyoming-united-states-two-people-are-murdered-including-a-female-computer-science-instructor.md)
-_Context: murder-suicide, Casper, Wyoming, Casper College, United States_
+_Context: Casper College, United States, murder-suicide, Casper, Wyoming_
 
 ##### New Hampshire
 ### [A New Hampshire federal grand jury indicts David Kwiatkowski, 33, a former employee of Exeter Hospital in Exeter, New Hampshire, on fraud and product-tampering charges in connection with an outbreak of hepatitis C that sickened more than 30 people and caused concern in 7 states. ](/news/2012/11/30/a-new-hampshire-federal-grand-jury-indicts-david-kwiatkowski-33-a-former-employee-of-exeter-hospital-in-exeter-new-hampshire-on-fraud-an.md)
-_Context: hepatitis C, Exeter, New Hampshire, New Hampshire, fraud, grand jury_
+_Context: New Hampshire, Exeter, New Hampshire, grand jury, hepatitis C, fraud_
 
 ##### Qatar
 ### [Qatari author Mohammed al-Ajami is given a life sentence for a poem insulting emir Hamad bin Khalifa Al Thani. ](/news/2012/11/30/qatari-author-mohammed-al-ajami-is-given-a-life-sentence-for-a-poem-insulting-emir-hamad-bin-khalifa-al-thani.md)
@@ -37,19 +37,19 @@ A Qatari court has sentenced a poet to life in prison for his verse ‘insulting
 
 ##### Time
 ### ["Time" magazine editors announce their list of 38 contenders nominated as the 2012 Time Person of the Year, including Barack Obama, Mitt Romney, Sheldon Adelson, Malala Yousafzai, Sandra Fluke, Felix Baumgartner, Curiosity rover, Bashar Assad, Mohamed Morsi, Psy, Pussy Riot, Higgs boson, Michael Phelps, and others. The winner of the people's choice will be announced on 14 December. ](/news/2012/11/30/time-magazine-editors-announce-their-list-of-38-contenders-nominated-as-the-2012-time-person-of-the-year-including-barack-obama-mitt-rom.md)
-_Context: Bashar Assad's, Time Person of the Year, Curiosity rover, Sandra Fluke, Time, Michael Phelps, Pussy Riot, Sheldon Adelson, Barack Obama, Malala Yousafzai, Mitt Romney, Felix Baumgartner, Higgs boson, Psy, Mohamed Morsi_
+_Context: Sheldon Adelson, Curiosity rover, Higgs boson, Mohamed Morsi, Time Person of the Year, Pussy Riot, Michael Phelps, Felix Baumgartner, Time, Barack Obama, Malala Yousafzai, Psy, Bashar Assad's, Mitt Romney, Sandra Fluke_
 
 ##### Labour Party
 ### [The Labour Party wins the three by-elections held in the United Kingdom on Thursday. Steve Reed is elected in Croydon North, Andy McDonald in Middlesbrough and Sarah Champion in Rotherham. The UK Independence Party achieve second place in Middlesbrough and Rotherham, beating the Conservatives and Liberal Democrats. ](/news/2012/11/30/the-labour-party-wins-the-three-by-elections-held-in-the-united-kingdom-on-thursday-steve-reed-is-elected-in-croydon-north-andy-mcdonald-i.md)
 Labour retain Croydon North, Middlesbrough and Rotherham in by-elections, with UKIP enjoying a good night and the Lib Dems a poor one.
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 ### [Victims of press intrusion launch an online campaign to urge British Prime Minister David Cameron to fully implement the recommendations of the Leveson report. ](/news/2012/11/30/victims-of-press-intrusion-launch-an-online-campaign-to-urge-british-prime-minister-david-cameron-to-fully-implement-the-recommendations-of.md)
-_Context: Leveson report, David Cameron, conspiracy to hack mobile phones, Prime Minister_
+_Context: conspiracy to hack mobile phones, Prime Minister, David Cameron, Leveson report_
 
-##### humanoid
+##### Humanoid
 ### [A small humanoid robot that can talk will be sent into space to provide conversational company for Japanese astronaut Koichi Wakata on a six-month mission to the ISS during Soyuz TMA-11M in 2013. ](/news/2012/11/30/a-small-humanoid-robot-that-can-talk-will-be-sent-into-space-to-provide-conversational-company-for-japanese-astronaut-koichi-wakata-on-a-six.md)
-_Context: Koichi Wakata, ISS, Japanese, astronaut, robot, humanoid, Soyuz TMA-11M, space_
+_Context: Soyuz TMA-11M, Koichi Wakata, space, astronaut, robot, ISS, humanoid, Japanese_
 
 ##### NASA
 ### [NASA debunks rumors of new evidence of life on Mars, but its Curiosity rover continues to make many smaller discoveries. ](/news/2012/11/30/nasa-debunks-rumors-of-new-evidence-of-life-on-mars-but-its-curiosity-rover-continues-to-make-many-smaller-discoveries.md)

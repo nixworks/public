@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-
 
 ### [2015-07-22](/news/2015/07/22/index.md)
 
-##### robot football World Cup
+##### Robot football World Cup
 #  The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. 
 
 Football playing robots built by researchers at Eindhoven University have lost the final of the Robocup World Cup 4-1 to a Chinese team.

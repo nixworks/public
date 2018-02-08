@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/27/an-earthquake-near-taiwan-damages-undersea-cabl
 
 ### [2006-12-27](/news/2006/12/27/index.md)
 
-##### earthquake near Taiwan
+##### Earthquake near Taiwan
 #  An earthquake near Taiwan damages undersea cables, disrupts phone and Internet service in Asia and the U.S. 
 
 Internet connections at some banks, companies and government offices in South Korea were disrupted on Wednesday after an earthquake off Taiwan damaged undersea cables.

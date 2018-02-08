@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/1/fiji-lifts-the-state-of-emergency-that-was-impos
 
 ### [2007-06-1](/news/2007/06/1/index.md)
 
-##### state of emergency
+##### State of emergency
 #  Fiji lifts the state of emergency that was imposed during the 2006 Fijian coup d'tat. 
 
 

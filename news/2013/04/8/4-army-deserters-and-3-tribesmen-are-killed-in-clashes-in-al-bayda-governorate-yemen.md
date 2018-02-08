@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/8/4-army-deserters-and-3-tribesmen-are-killed-in-c
 
 ### [2013-04-8](/news/2013/04/8/index.md)
 
-##### army
+##### Army
 # 4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. 
 
 Seven people were killed in clashes between army deserters and tribesmen in south Yemen on Monday, officials and residents said, in another sign of disorder in a country of multiple conflicts next to oil export giant Saudi Arabia.

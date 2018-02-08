@@ -5,11 +5,11 @@ Formats: [HTML](2005/01/11/index.html)  [JSON](2005/01/11/index.json)  [XML](200
 
 ##### Communist Party of China
 ### [ Purged Chinese Communist leader Zhao Ziyang is hospitalized, but in stable condition, according to the People's Republic of China government. The announcement came after rumors spread that he had died. ](/news/2005/01/11/purged-chinese-communist-leader-zhao-ziyang-is-hospitalized-but-in-stable-condition-according-to-the-people-s-republic-of-china-governmen.md)
-_Context: Communist Party of China, Zhao Ziyang_
+_Context: Zhao Ziyang, Communist Party of China_
 
-##### motorcyclist
+##### Motorcyclist
 ### [ Italian motorcyclist Fabrizio Meoni is the second competitor to die in as many days in the 2005 Paris Dakar Rally. ](/news/2005/01/11/italian-motorcyclist-fabrizio-meoni-is-the-second-competitor-to-die-in-as-many-days-in-the-2005-paris-dakar-rally.md)
-_Context: Fabrizio Meoni, 2005, Paris Dakar Rally, motorcyclist_
+_Context: 2005, motorcyclist, Paris Dakar Rally, Fabrizio Meoni_
 
 ##### Nigeria
 ### [ In Nigeria, Audu Ogbeh, chairman of the ruling People's Democratic Party, resigns over disagreements with President Olusegun Obasanjo. ](/news/2005/01/11/in-nigeria-audu-ogbeh-chairman-of-the-ruling-people-s-democratic-party-resigns-over-disagreements-with-president-olusegun-obasanjo.md)
@@ -19,21 +19,21 @@ _Context: People's Democratic Party, Audu Ogbeh, Olusegun Obasanjo, Nigeria_
 ### [ Venezuelan President Hugo Chvez signs a land reform decree aimed at reducing unused and absentee-owned agricultural properties. ](/news/2005/01/11/venezuelan-president-hugo-chavez-signs-a-land-reform-decree-aimed-at-reducing-unused-and-absentee-owned-agricultural-properties.md)
 _Context: land reform, Venezuela, Hugo Chvez, absentee-owned_
 
-##### bushfire
+##### Bushfire
 ### [ In Australia, 9 people are dead and 15 others are unaccounted for, in a bushfire in Eyre Peninsula, South Australia. ](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-are-unaccounted-for-in-a-bushfire-in-eyre-peninsula-south-australia.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### mudslide
+##### Mudslide
 ### [ 4 die, 11 are injured, and 13 are missing after a mudslide in La Conchita, California, in the U.S. ](/news/2005/01/11/4-die-11-are-injured-and-13-are-missing-after-a-mudslide-in-la-conchita-california-in-the-u-s.md)
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 ##### Caribbean
 ### [ Intense flooding hits the Caribbean coasts of southern Central America; Costa Rican President Abel Pacheco declares a state of emergency. ](/news/2005/01/11/intense-flooding-hits-the-caribbean-coasts-of-southern-central-america-costa-rican-president-abel-pacheco-declares-a-state-of-emergency.md)
-_Context: Costa Rica, Caribbean, Abel Pacheco_
+_Context: Caribbean, Costa Rica, Abel Pacheco_
 
 ##### Albert Hofmann
 ### [ Dr. Albert Hofmann celebrated his 99th birthday. Dr. Hofmann first synthesized LSD in 1938 while working at Sandoz Laboratories in Basle, Switzerland. He became the first person to discover its psychedelic effects on April 16, 1943. ](/news/2005/01/11/dr-albert-hofmann-celebrated-his-99th-birthday-dr-hofmann-first-synthesized-lsd-in-1938-while-working-at-sandoz-laboratories-in-basle-s.md)
-_Context: psychedelic, Sandoz Laboratories, LSD, Albert Hofmann, Basle_
+_Context: psychedelic, LSD, Albert Hofmann, Basle, Sandoz Laboratories_
 
 ## [Previous Day...](/news/2005/01/10/index.md)
 

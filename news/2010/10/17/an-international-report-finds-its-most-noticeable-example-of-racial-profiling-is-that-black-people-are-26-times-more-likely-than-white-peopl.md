@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/17/an-international-report-finds-its-most-noticeab
 
 ### [2010-10-17](/news/2010/10/17/index.md)
 
-##### racial profiling
+##### Racial profiling
 # An international report finds its most noticeable example of racial profiling is that black people are 26 times more likely than white people to be searched by police in England and Wales;  U.S. civil rights activist Jesse Jackson describes it as "astonishing". 
 
 

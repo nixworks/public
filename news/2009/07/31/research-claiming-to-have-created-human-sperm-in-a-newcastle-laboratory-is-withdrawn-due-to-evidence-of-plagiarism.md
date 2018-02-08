@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/31/research-claiming-to-have-created-human-sperm-i
 
 ### [2009-07-31](/news/2009/07/31/index.md)
 
-##### sperm
+##### Sperm
 #  Research claiming to have created human sperm in a Newcastle laboratory is withdrawn due to evidence of plagiarism. 
 
 

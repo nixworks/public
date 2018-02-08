@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/30/an-explosion-in-the-urumqi-railway-station-resu
 
 ### [2014-04-30](/news/2014/04/30/index.md)
 
-##### explosion in
+##### Explosion in
 # An explosion in the rmqi Railway Station results in three people killed, with another 79 people injured. [http:--online.wsj.com-news-articles-SB10001424052702303948104579533541934838878 "(The Wall Street Journal)"]
 
 

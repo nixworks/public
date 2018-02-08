@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/4/a-suicide-bombing-in-the-southern-yemeni-provinc
 
 ### [2012-08-4](/news/2012/08/4/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing in the southern Yemeni province of Abyan kills at least 45 people. 
 
 The Yemeni government blames al-Qaeda for a suicide bombing that kills at least 45 people at a funeral in the southern province of Abyan.

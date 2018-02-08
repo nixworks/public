@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/17/a-van-drives-into-crowds-of-people-in-la-rambla
 
 ### [2017-08-17](/news/2017/08/17/index.md)
 
-##### van attack
+##### Van attack
 # A van drives into crowds of people in La Rambla, Barcelona, in what Spanish police are calling a terrorist attack, killing at least 12 people. Two suspects are taken into custody, and ISIL claims responsibility. 
 
 The Islamic State later claimed responsibility for the attack, which Spanish authorities were treating as terrorism.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-
 
 ### [2012-06-7](/news/2012/06/7/index.md)
 
-##### ravine
+##### Ravine
 # At least 16 people die and 32 are injured after a bus falls into a ravine north of the Bolivian capital La Paz. 
 
 

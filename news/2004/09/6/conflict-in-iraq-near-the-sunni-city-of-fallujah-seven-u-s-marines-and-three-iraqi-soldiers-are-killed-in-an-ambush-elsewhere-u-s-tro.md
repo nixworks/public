@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/6/conflict-in-iraq-near-the-sunni-city-of-fallujah
 
 ### [2004-09-6](/news/2004/09/6/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: Near the Sunni city of Fallujah, seven U.S. Marines and three Iraqi soldiers are killed in an ambush. Elsewhere, U.S. troops, backed by U.S. planes and Iraqi forces, raid the city of Najaf. The U.S. military tells residents to flee, mounts a pincer movement to trap the Mahdi army in the city center, and raids Moqtada al-Sadr's house again. 
 
 

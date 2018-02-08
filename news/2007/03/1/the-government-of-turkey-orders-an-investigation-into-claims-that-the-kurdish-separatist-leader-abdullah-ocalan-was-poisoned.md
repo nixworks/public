@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/1/the-government-of-turkey-orders-an-investigation
 
 ### [2007-03-1](/news/2007/03/1/index.md)
 
-##### government of Turkey
+##### Government of Turkey
 #  The government of Turkey orders an investigation into claims that the Kurdish separatist leader Abdullah calan was poisoned. 
 
 

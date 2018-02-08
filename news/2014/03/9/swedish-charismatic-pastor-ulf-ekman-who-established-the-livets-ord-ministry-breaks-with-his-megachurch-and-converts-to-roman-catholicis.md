@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/9/swedish-charismatic-pastor-ulf-ekman-who-establi
 
 ### [2014-03-9](/news/2014/03/9/index.md)
 
-##### charismatic
+##### Charismatic
 # Swedish charismatic pastor Ulf Ekman, who established the "Livets Ord" ministry, breaks with his megachurch and converts to Roman Catholicism. 
 
 Ulf Ekman reportedly shocked and upset the megachurch he founded in Sweden when he explained his personal journey toward converting to Roman Catholicism.

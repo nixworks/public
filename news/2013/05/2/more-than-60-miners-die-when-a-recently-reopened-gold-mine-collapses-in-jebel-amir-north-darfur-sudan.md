@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/2/more-than-60-miners-die-when-a-recently-reopened
 
 ### [2013-05-2](/news/2013/05/2/index.md)
 
-##### gold mine
+##### Gold mine
 # More than 60 miners die when a recently reopened gold mine collapses in Jebel Amir, North Darfur, Sudan. 
 
 

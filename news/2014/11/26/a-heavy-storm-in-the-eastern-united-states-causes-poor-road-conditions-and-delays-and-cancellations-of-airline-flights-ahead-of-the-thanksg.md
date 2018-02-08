@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/26/a-heavy-storm-in-the-eastern-united-states-caus
 
 ### [2014-11-26](/news/2014/11/26/index.md)
 
-##### eastern United States
+##### Eastern United States
 # A heavy storm in the eastern United States causes poor road conditions, and delays and cancellations of airline flights ahead of the Thanksgiving holidays with up to 30 million people affected. 
 
 

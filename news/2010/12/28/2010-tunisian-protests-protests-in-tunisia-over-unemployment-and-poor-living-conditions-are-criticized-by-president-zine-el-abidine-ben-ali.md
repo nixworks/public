@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over
 
 ### [2010-12-28](/news/2010/12/28/index.md)
 
-##### protests
+##### Protests
 # 2010 Tunisian protests: Protests in Tunisia over unemployment and poor living conditions are criticized by President Zine El Abidine Ben Ali during a national television broadcast; he warns of "firm" punishment. 
 
 

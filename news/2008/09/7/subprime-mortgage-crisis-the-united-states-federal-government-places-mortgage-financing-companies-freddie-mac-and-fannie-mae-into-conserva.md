@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/7/subprime-mortgage-crisis-the-united-states-feder
 
 ### [2008-09-7](/news/2008/09/7/index.md)
 
-##### housing crisis
+##### Housing crisis
 #  Subprime mortgage crisis: The United States federal government places mortgage financing companies Freddie Mac and Fannie Mae into conservatorship. The Federal Housing Finance Agency will manage the companies on a temporary basis. 
 
 The U.S. government on Sunday seized control of mortgage finance companies Fannie Mae and Freddie Mac in an aggressive move to help the distressed U.S. housing market and economy.

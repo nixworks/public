@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/16/a-letter-bomb-explodes-at-the-office-of-the-int
 
 ### [2017-03-16](/news/2017/03/16/index.md)
 
-##### letter bomb
+##### Letter bomb
 # A letter bomb explodes at the office of the International Monetary Fund (IMF) in Paris, injuring one person. 
 
 Officials say it was sent in the name of a Greek conservative politician.

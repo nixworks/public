@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/12/more-than-80-countries-and-international-aid-or
 
 ### [2008-06-12](/news/2008/06/12/index.md)
 
-##### international aid
+##### International aid
 #  More than 80 countries and international aid organisations meet in Paris to develop a strategy for delivering billions of dollars in aid to Afghanistan. 
 
 

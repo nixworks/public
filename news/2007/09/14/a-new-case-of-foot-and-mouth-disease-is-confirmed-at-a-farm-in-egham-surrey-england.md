@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/14/a-new-case-of-foot-and-mouth-disease-is-confirm
 
 ### [2007-09-14](/news/2007/09/14/index.md)
 
-##### foot and mouth disease
+##### Foot and mouth disease
 #  A new case of foot and mouth disease is confirmed at a farm in Egham, Surrey, England. 
 
 Britain has confirmed a new case of foot-and-mouth disease west of London, in a fresh blow to hopes that authorities had contained the disease after it re-emerged earlier this week.

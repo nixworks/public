@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/27/the-eurozone-will-pay-out-of-43-7-billion-euros
 
 ### [2012-11-27](/news/2012/11/27/index.md)
 
-##### eurozone
+##### Eurozone
 # The eurozone will pay out of 43.7 billion euros in loans to Greece from December 13 for reducing Greece's debt. 
 
 * EU-IMF agree on cutting Greek debt-to-GDP level* Aim is to reduce Greek debt to 124 percent of GDP by 2020* Interest on loans to be cut, ma

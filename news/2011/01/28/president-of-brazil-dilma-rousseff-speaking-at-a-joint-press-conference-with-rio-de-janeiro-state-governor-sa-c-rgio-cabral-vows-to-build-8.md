@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/28/president-of-brazil-dilma-rousseff-speaking-at-
 
 ### [2011-01-28](/news/2011/01/28/index.md)
 
-##### president
+##### President
 # President of Brazil Dilma Rousseff, speaking at a joint press conference with Rio de Janeiro state governor Sergio Cabral, vows to build 8,000 houses to be given free to people made homeless by the recent floods and landslides in Rio de Janeiro state. 
 
 Brazil says it will build 8,000 free houses for people made homeless by floods and landslides in Rio de Janeiro state.

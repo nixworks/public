@@ -17,17 +17,17 @@ President Trump signed a $110 billion arms deal with Saudi Arabia on Saturday, t
 
 ##### China-United States relations
 ### [Former United States officials report that 18-20 Central Intelligence Agency sources were killed or imprisoned by the Government of China between 2010 and 2012, which significantly hampered the United States Intelligence Community. ](/news/2017/05/20/former-united-states-officials-report-that-18a20-central-intelligence-agency-sources-were-killed-or-imprisoned-by-the-government-of-china.md)
-_Context: China-United States relations, Central Intelligence Agency, United States Intelligence Community, Government of China_
+_Context: China-United States relations, United States Intelligence Community, Government of China, Central Intelligence Agency_
 
 ##### Enes Kanter
 ### [Enes Kanter, a Turkish basketballer playing in the American National Basketball Association, is detained at Henri Coanda International Airport after his Turkish passport was cancelled. ](/news/2017/05/20/enes-kanter-a-turkish-basketballer-playing-in-the-american-national-basketball-association-is-detained-at-henri-coanda-international-airp.md)
 Enes Kanter, a critic of the Turkish president, was held after Turkey cancelled his passport.
 
-##### re-elected
+##### Re-elected
 ### [Incumbent President Hassan Rouhani is re-elected with 23.5 million votes, defeating Ebrahim Raisi who received 15.7 million votes. ](/news/2017/05/20/incumbent-president-hassan-rouhani-is-re-elected-with-23-5-million-votes-defeating-ebrahim-raisi-who-received-15-7-million-votes.md)
 With more than half of votes counted, incumbent president appears set to beat conservative challenger Ebrahim Raisi.
 
-##### ongoing protests
+##### Ongoing protests
 ### [Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. ](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hundreds-of-thousands-demonstrate-throughout-venezuela-against-president-nicola-s-maduro-with.md)
 Venezuelans take to the streets, furious about shortages, rocketing inflation and human rights crackdowns, demanding President Maduro hold elections
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/31/the-price-of-oil-rises-above-100-for-the-first-
 
 ### [2011-01-31](/news/2011/01/31/index.md)
 
-##### oil
+##### Oil
 # The price of oil rises above $100 for the first time since 2008 as traders worry about possible disruption to the Suez Canal as a result of events in Egypt. 
 
 

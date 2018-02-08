@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/22/renewed-protests-against-the-regime-break-out-o
 
 ### [2012-04-22](/news/2012/04/22/index.md)
 
-##### tear gas
+##### Tear gas
 # Renewed protests against the regime break out overnight with police firing tear gas and stun grenades at civilians. Chants of "Down with Hamad," calling for the King of Bahrain to be ousted from power, are reported by witnesses. 
 
 Renewed clashes broke out in Bahrain overnight between hundreds of anti-government protesters and police just a few hours before a Formula One race.

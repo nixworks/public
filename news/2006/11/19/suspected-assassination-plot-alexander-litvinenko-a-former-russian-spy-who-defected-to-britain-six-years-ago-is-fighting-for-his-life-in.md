@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/19/suspected-assassination-plot-alexander-litvinen
 
 ### [2006-11-19](/news/2006/11/19/index.md)
 
-##### assassination
+##### Assassination
 #  Suspected assassination plot: Alexander Litvinenko, a former Russian spy who defected to Britain six years ago, is fighting for his life in a London hospital after being poisoned with polonium-210 in a sushi bar. 
 
 News and opinion from The Times &amp; The Sunday Times

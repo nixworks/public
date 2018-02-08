@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea
 
 ### [2009-11-14](/news/2009/11/14/index.md)
 
-##### shooting range
+##### Shooting range
 #  A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. 
 
 A fire that swept through a South Korean indoor shooting range killed at least 10 people, officials said Saturday.

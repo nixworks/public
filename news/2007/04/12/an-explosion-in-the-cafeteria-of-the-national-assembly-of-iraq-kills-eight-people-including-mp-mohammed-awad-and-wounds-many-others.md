@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/12/an-explosion-in-the-cafeteria-of-the-national-a
 
 ### [2007-04-12](/news/2007/04/12/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion in the cafeteria of the National Assembly of Iraq kills eight people, including MP Mohammed Awad, and wounds many others. 
 
 A homicide truck bomb exploded on a major bridge in Baghdad early Thursday, killing at least ten people and sending cars toppling into the Tigris River below, police and witnesses said.

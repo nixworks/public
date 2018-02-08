@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/11/several-explosions-in-algiers-algeria-leave-23-
 
 ### [2007-04-11](/news/2007/04/11/index.md)
 
-##### recent bomb attacks
+##### Recent bomb attacks
 #  Several explosions in Algiers, Algeria, leave 23 dead and dozens of people injured. 
 
 

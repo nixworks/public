@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/2/an-oil-rig-explodes-in-the-gulf-of-mexico-west-o
 
 ### [2010-09-2](/news/2010/09/2/index.md)
 
-##### oil rig explodes
+##### Oil rig explodes
 # An oil rig explodes in the Gulf of Mexico, west of the Deepwater Horizon oil rig that exploded in April, killing no people. 
 
 

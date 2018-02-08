@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/24/a-natural-gas-explosion-in-springfield-massachu
 
 ### [2012-11-24](/news/2012/11/24/index.md)
 
-##### natural gas
+##### Natural gas
 # A natural gas explosion in Springfield, Massachusetts levels two buildings and damages others, injuring at least 18 people. 
 
 

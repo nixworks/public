@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/27/conflict-in-darfur-around-100-people-have-been-
 
 ### [2005-01-27](/news/2005/01/27/index.md)
 
-##### killed in fighting
+##### Killed in fighting
 #  Conflict in Darfur: Around 100 people have been killed following an Air Raid into the Darfur region of Sudan according to the African Union. Jean Baptiste Natama, the A.U's spokesperson has described it as a "major ceasefire violation". 
 
 

@@ -5,23 +5,23 @@ Formats: [HTML](2006/05/26/index.html)  [JSON](2006/05/26/index.json)  [XML](200
 
 ##### Las Vegas Sands
 ### [ Las Vegas Sands wins the bid to build the first casino Integrated Resort in Singapore, The Marina Bay Sands, at a cost of over S$5 billion. ](/news/2006/05/26/las-vegas-sands-wins-the-bid-to-build-the-first-casino-integrated-resort-in-singapore-the-marina-bay-sands-at-a-cost-of-over-s-5-billion.md)
-_Context: Singapore, casino, The Marina Bay Sands, Las Vegas Sands, Integrated Resort, S$_
+_Context: The Marina Bay Sands, S$, Integrated Resort, Singapore, casino, Las Vegas Sands_
 
 ##### Australia
 ### [ Well-known Australian mountain climber Lincoln Hall is reported to have died on Mount Everest, but is later reported to be alive, having survived a night exposed near the summit of the mountain without oxygen. ](/news/2006/05/26/well-known-australian-mountain-climber-lincoln-hall-is-reported-to-have-died-on-mount-everest-but-is-later-reported-to-be-alive-having-su.md)
-_Context: Mount Everest, mountaineering, Australia, Lincoln Hall_
+_Context: Lincoln Hall, mountaineering, Mount Everest, Australia_
 
 ##### Berlin
 ### [ In Berlin, Germany, Europe's largest train station, Berlin Hauptbahnhof, is opened by Chancellor Angela Merkel, Deutsche Bahn Chairman Hartmut Mehdorn and Industrial Commissioner of the European Union Gunter Verheugen. The station is the hub of routes from Stockholm to Rome and Paris to Moscow. 1,200 trains will depart and arrive every day. The station is expected to have cost EUR800 million. ](/news/2006/05/26/in-berlin-germany-europe-s-largest-train-station-berlin-hauptbahnhof-is-opened-by-chancellor-angela-merkel-deutsche-bahn-chairman-hart.md)
-_Context: train station, Berlin Hauptbahnhof, European Union, Paris, Berlin, Stockholm, Moscow, Angela Merkel, Gunter Verheugen, Chancellor, German, Rome, Italy, Deutsche Bahn, Hartmut Mehdorn_
+_Context: Chancellor, Paris, Stockholm, Moscow, Berlin Hauptbahnhof, Gunter Verheugen, European Union, German, Hartmut Mehdorn, train station, Rome, Italy, Angela Merkel, Deutsche Bahn, Berlin_
 
 ##### Mahmoud al-Majzoub
 ### [ Mahmoud al-Majzoub, a leader of the Palestinian Islamic Jihad, is killed in a car-bombing along with his brother, Nidal. ](/news/2006/05/26/mahmoud-al-majzoub-a-leader-of-the-palestinian-islamic-jihad-is-killed-in-a-car-bombing-along-with-his-brother-nidal.md)
-_Context: Nidal, Mahmoud al-Majzoub, Palestinian Islamic Jihad_
+_Context: Mahmoud al-Majzoub, Palestinian Islamic Jihad, Nidal_
 
 ##### United States Capitol
 ### [ The United States Capitol building complex in Washington, D.C. is locked down after reports of what sounded like gunfire reached US Capitol police. The United States Senate was in session as a report of at least one person seeing a gunman in the Rayburn House Office Building gym was issued. Police say that the sound was likely that of a pneumatic hammer and that the 'gunman' may have been a plainclothes police officer. ](/news/2006/05/26/the-united-states-capitol-building-complex-in-washington-d-c-is-locked-down-after-reports-of-what-sounded-like-gunfire-reached-us-capitol.md)
-_Context: Rayburn House Office Building, United States Capitol, Washington, D.C., United States Senate, locked down_
+_Context: United States Senate, locked down, Rayburn House Office Building, Washington, D.C., United States Capitol_
 
 ## [Previous Day...](/news/2006/05/25/index.md)
 

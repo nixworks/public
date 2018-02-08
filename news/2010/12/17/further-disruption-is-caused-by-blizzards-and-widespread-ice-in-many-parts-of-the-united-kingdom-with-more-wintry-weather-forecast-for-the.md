@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/17/further-disruption-is-caused-by-blizzards-and-w
 
 ### [2010-12-17](/news/2010/12/17/index.md)
 
-##### blizzards and widespread ice
+##### Blizzards and widespread ice
 # Further disruption is caused by blizzards and widespread ice in many parts of the United Kingdom, with more wintry weather forecast for the weekend. 
 
 Blizzards and widespread ice in many parts of the UK are causing considerable disruption, with more wintry weather forecast for the weekend.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-ac
 
 ### [2013-03-15](/news/2013/03/15/index.md)
 
-##### fireworks
+##### Fireworks
 # At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. 
 
 

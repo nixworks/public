@@ -5,9 +5,9 @@ Formats: [HTML](2011/08/20/index.html)  [JSON](2011/08/20/index.json)  [XML](201
 
 ##### Pakistani police
 ### [At least six Pakistani police officers are killed and 50 injured in an attack in Karachi. ](/news/2011/08/20/at-least-six-pakistani-police-officers-are-killed-and-50-injured-in-an-attack-in-karachi.md)
-_Context: Karachi, Pakistani police_
+_Context: Pakistani police, Karachi_
 
-##### civil war
+##### Civil war
 ### [Libyan rebels claim to have captured the strategic oil port of Brega. ](/news/2011/08/20/libyan-rebels-claim-to-have-captured-the-strategic-oil-port-of-brega.md)
 Fighting erupted in Tripoli overnight after rebels closed in on the Libyan capital, raising hopes among his opponents that Muammar Gaddafi&rsquo;s regime is finally on the brink of collapse.
 

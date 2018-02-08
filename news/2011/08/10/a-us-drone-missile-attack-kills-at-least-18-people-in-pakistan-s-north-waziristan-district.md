@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/10/a-us-drone-missile-attack-kills-at-least-18-peo
 
 ### [2011-08-10](/news/2011/08/10/index.md)
 
-##### drones launch
+##### Drones launch
 # A US drone missile attack kills at least 18 people in Pakistan's North Waziristan district. 
 
 

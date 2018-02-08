@@ -39,7 +39,7 @@ OZU, Japan (AP) — The latest on the earthquakes in Japan (all times local): 1:
 ### [A helicopter crashes near Baltimore-Washington International Airport in Baltimore, Maryland. However, no fatalities are reported. ](/news/2016/04/16/a-helicopter-crashes-near-baltimoreawashington-international-airport-in-baltimore-maryland-however-no-fatalities-are-reported.md)
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
-##### ecstasy
+##### Ecstasy
 ### [Five people are dead and five are in hospital after taking ecstasy at an Argentine version of the Time Warp Festival featuring electronic music acts. ](/news/2016/04/16/five-people-are-dead-and-five-are-in-hospital-after-taking-ecstasy-at-an-argentine-version-of-the-time-warp-festival-featuring-electronic-mu.md)
 Five people died and another five were hospitalized in critical condition on Saturday in Argentina&#x27;s capital city Buenos Aires after attending an electronic music festival where authorities suspect they consumed illegal drugs. The five victims who died at Time Warp, a music festival originally ...
 
@@ -47,7 +47,7 @@ Five people died and another five were hospitalized in critical condition on Sat
 ### [The death toll rises to seven from Thursday's building collapse in the Canary Islands' southern coastal town of Los Cristianos on the island of Tenerife. ](/news/2016/04/16/the-death-toll-rises-to-seven-from-thursday-s-building-collapse-in-the-canary-islands-southern-coastal-town-of-los-cristianos-on-the-island.md)
 MADRID (AP) — Spanish emergency services on Saturday recovered the body of a man from the rubble of a four-story apartment building that collapsed in a popular Canary Island tourist town, raising the death toll to seven.…
 
-##### earthquake
+##### Earthquake
 ### [A magnitude 7.8 earthquake strikes off the coast of Ecuador, near the town of Muisne. The Pacific Tsunami Warning Center issues a tsunami alert for coastal areas of Ecuador and Colombia. At least 42 people are reported dead with deaths reported in the cities of Manta, Guayaquil and Portoviejo. ](/news/2016/04/16/a-magnitude-7-8-earthquake-strikes-off-the-coast-of-ecuador-near-the-town-of-muisne-the-pacific-tsunami-warning-center-issues-a-tsunami-al.md)
  A powerful earthquake with a preliminary magnitude of 7.4 has struck off the coast of Ecuador, centered near Pedernales and Muis 
 
@@ -69,7 +69,7 @@ A Russian fighter jet flew dangerously close to a U.S. RC-135 reconnaissance air
 
 ##### Salvador Cienfuegos Zepeda
 ### [General Salvador Cienfuegos Zepeda, Mexico's Secretary of National Defence, apologises for an incident in which two soldiers and a policewoman torture a woman. ](/news/2016/04/16/general-salvador-cienfuegos-zepeda-mexico-s-secretary-of-national-defence-apologises-for-an-incident-in-which-two-soldiers-and-a-policewom.md)
-_Context: Salvador Cienfuegos Zepeda, Mexico, Secretary of National Defence_
+_Context: Mexico, Salvador Cienfuegos Zepeda, Secretary of National Defence_
 
 ##### Iraq
 ### [Iraq's Parliament cancels its third session in a week to discuss political reforms as some MPs dispute the legitimacy of speaker Salim al-Jabouri to chair the meeting. Also, protesters gathered in the streets of Baghdad to protest the growing political deadlock in the country. ](/news/2016/04/16/iraq-s-parliament-cancels-its-third-session-in-a-week-to-discuss-political-reforms-as-some-mps-dispute-the-legitimacy-of-speaker-salim-al-ja.md)
@@ -81,7 +81,7 @@ Protests on streets of Skopje for fourth night after Macedonia confirmed 5 June 
 
 ##### President of the Republic of the Congo
 ### [Veteran President of the Republic of the Congo Denis Sassou Nguesso is sworn in for another term after a contentious election. ](/news/2016/04/16/veteran-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-sworn-in-for-another-term-after-a-contentious-election.md)
-_Context: President of the Republic of the Congo, Denis Sassou Nguesso_
+_Context: Denis Sassou Nguesso, President of the Republic of the Congo_
 
 ## [Previous Day...](/news/2016/04/15/index.md)
 

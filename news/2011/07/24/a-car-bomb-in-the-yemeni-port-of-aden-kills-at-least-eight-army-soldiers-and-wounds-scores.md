@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/24/a-car-bomb-in-the-yemeni-port-of-aden-kills-at-
 
 ### [2011-07-24](/news/2011/07/24/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb in the Yemeni port of Aden kills at least eight Army soldiers and wounds scores. 
 
 

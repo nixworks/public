@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/15/demonstrators-demand-the-resignation-of-guatema
 
 ### [2009-05-15](/news/2009/05/15/index.md)
 
-##### demonstration
+##### Demonstration
 #  Demonstrators demand the resignation of Guatemalan President Alvaro Colom. 
 
 

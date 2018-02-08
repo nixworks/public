@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/8/a-suicide-bomber-kills-at-least-10-people-and-in
 
 ### [2007-05-8](/news/2007/05/8/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills at least 10 people and injures many more in an attack on the Shi'ite city of Kufa in Iraq. 
 
 

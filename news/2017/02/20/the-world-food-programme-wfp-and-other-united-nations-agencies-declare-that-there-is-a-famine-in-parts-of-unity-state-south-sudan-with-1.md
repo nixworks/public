@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/20/the-world-food-programme-wfp-and-other-united-n
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
-##### a famine
+##### A famine
 # The World Food Programme (WFP) and other United Nations agencies declare that there is a famine in parts of Unity State, South Sudan, with 100,000 facing starvation and another million on the brink of famine. 
 
 ‘Man-made’ food crisis threatens 100,000 people after war and a collapsing economy devastate agriculture in the country

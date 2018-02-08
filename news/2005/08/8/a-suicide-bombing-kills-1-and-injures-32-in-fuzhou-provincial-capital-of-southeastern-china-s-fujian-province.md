@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/8/a-suicide-bombing-kills-1-and-injures-32-in-fuzh
 
 ### [2005-08-8](/news/2005/08/8/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bombing kills 1 and injures 32 in Fuzhou, provincial capital of Southeastern China's Fujian Province. 
 
 

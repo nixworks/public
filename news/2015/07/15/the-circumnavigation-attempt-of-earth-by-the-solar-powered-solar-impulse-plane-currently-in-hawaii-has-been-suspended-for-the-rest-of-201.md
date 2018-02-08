@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/15/the-circumnavigation-attempt-of-earth-by-the-so
 
 ### [2015-07-15](/news/2015/07/15/index.md)
 
-##### circumnavigation
+##### Circumnavigation
 #  The circumnavigation attempt of Earth by the solar-powered Solar Impulse plane, currently in Hawaii, has been suspended for the rest of 2015 in order to perform necessary repairs. 
 
 The Swiss team trying to fly a solar-powered plane around the world has abandoned its effort for this year because of the damage sustained by its batteries on the last leg of its global quest.

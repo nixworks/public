@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/7/in-canada-a-last-minute-compromise-between-the-c
 
 ### [2004-10-7](/news/2004/10/7/index.md)
 
-##### minority government
+##### Minority government
 #  In Canada, a last minute compromise between the current minority federal government and the two largest opposition parties ends a dispute over the wording of the throne speech and avoids a premature dissolution of parliament. 
 
 

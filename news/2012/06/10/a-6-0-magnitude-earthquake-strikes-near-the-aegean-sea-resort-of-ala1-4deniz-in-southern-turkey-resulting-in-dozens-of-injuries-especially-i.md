@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/10/a-6-0-magnitude-earthquake-strikes-near-the-aeg
 
 ### [2012-06-10](/news/2012/06/10/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.0 magnitude earthquake strikes near the Aegean Sea resort of Oludeniz in southern Turkey, resulting in dozens of injuries especially in the city of Fethiye. 
 
 A STRONG earthquake hit off the southwest coast of Turkey overnight near a popular tourist resort, putting dozens of people in hospital, including some who jumped from buildings in panic, officials said.

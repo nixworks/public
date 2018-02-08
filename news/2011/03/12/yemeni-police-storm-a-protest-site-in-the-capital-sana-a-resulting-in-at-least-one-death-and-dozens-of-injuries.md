@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/12/yemeni-police-storm-a-protest-site-in-the-capit
 
 ### [2011-03-12](/news/2011/03/12/index.md)
 
-##### policemen
+##### Policemen
 # Yemeni police storm a protest site in the capital Sana'a resulting in at least one death and dozens of injuries. 
 
 At least four people killed and more than 300 injured as security forces disperse pro-democracy protesters.

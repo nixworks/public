@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/13/salvage-crews-prepare-to-try-to-refloat-a-cargo
 
 ### [2007-08-13](/news/2007/08/13/index.md)
 
-##### cargo ship
+##### Cargo ship
 #  Salvage crews prepare to try to refloat a cargo ship that collided with an oil tanker off Europa Point, the southernmost tip of Gibraltar, and ended up partially submerged. 
 
 

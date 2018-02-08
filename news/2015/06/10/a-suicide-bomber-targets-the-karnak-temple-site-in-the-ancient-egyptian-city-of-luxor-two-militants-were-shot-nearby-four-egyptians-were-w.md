@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/10/a-suicide-bomber-targets-the-karnak-temple-site
 
 ### [2015-06-10](/news/2015/06/10/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber targets the Karnak temple site in the ancient Egyptian city of Luxor. Two militants were shot nearby, four Egyptians were wounded with no tourists hurt in the attack. 
 
 A suicide bomber has blown himself up near a tourist site in the Egyptian city of Luxor, security sources and witnesses say. 

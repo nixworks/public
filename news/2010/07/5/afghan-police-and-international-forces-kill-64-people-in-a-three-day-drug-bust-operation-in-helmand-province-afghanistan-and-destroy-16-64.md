@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/5/afghan-police-and-international-forces-kill-64-p
 
 ### [2010-07-5](/news/2010/07/5/index.md)
 
-##### police
+##### Police
 # Afghan Police and international forces kill 64 people in a three-day drug bust operation in Helmand province, Afghanistan, and destroy 16,641 kilograms (36,687 pounds) of narcotics. 
 
 

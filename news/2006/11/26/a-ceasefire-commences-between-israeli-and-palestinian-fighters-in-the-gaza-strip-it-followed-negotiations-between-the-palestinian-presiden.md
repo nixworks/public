@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-pales
 
 ### [2006-11-26](/news/2006/11/26/index.md)
 
-##### ceasefire
+##### Ceasefire
 #  A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. 
 
 Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes for an end to five months of bloody destruction and a new opening toward peace talks.

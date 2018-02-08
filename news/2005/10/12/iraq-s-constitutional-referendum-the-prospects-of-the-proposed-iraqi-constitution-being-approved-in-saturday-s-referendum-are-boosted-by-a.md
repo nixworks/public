@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-
 
 ### [2005-10-12](/news/2005/10/12/index.md)
 
-##### in the vote held
+##### In the vote held
 #  Iraq's Constitutional referendum: the prospects of the proposed Iraqi constitution being approved in Saturday's referendum are boosted by a deal struck with a major Sunni Arab party, the Iraqi Islamic Party. 
 
 

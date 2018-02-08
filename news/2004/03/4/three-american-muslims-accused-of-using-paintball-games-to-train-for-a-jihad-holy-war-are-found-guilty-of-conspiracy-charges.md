@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/4/three-american-muslims-accused-of-using-paintbal
 
 ### [2004-03-4](/news/2004/03/4/index.md)
 
-##### paintball
+##### Paintball
 #  Three American Muslims accused of using paintball games to train for a "jihad" (holy war) are found guilty of conspiracy charges. 
 
 

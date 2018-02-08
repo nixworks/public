@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/27/during-demonstrations-in-tunis-approximately-10
 
 ### [2010-12-27](/news/2010/12/27/index.md)
 
-##### protests
+##### Protests
 # During demonstrations in Tunis, approximately 1000 people call for jobs, in solidarity with protesters elsewhere in Tunisia. Police use batons and at least a dozen protesters are injured and others faint. 
 
 Demonstrations involving around 1000 people in the capital are halted by security forces before they reach main street.

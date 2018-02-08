@@ -21,7 +21,7 @@ The United States attributed the episode to a bureaucratic issue and not a large
 
 ##### Alenka Bratusek
 ### [Outgoing Slovenian prime minister Alenka Bratusek is formally nominated by Jean-Claude Juncker as the country's EU commissioner despite resistance from the prime minister-designate Miro Cerar, and according to several European media she is slated to become a Vice-President of the Commission. ](/news/2014/09/5/outgoing-slovenian-prime-minister-alenka-bratua-ek-is-formally-nominated-by-jean-claude-juncker-as-the-country-s-eu-commissioner-despite-res.md)
-_Context: Jean-Claude Juncker, European Commission Vice-President, Miro Cerar, Alenka Bratusek_
+_Context: Alenka Bratusek, Miro Cerar, European Commission Vice-President, Jean-Claude Juncker_
 
 ## [Previous Day...](/news/2014/09/4/index.md)
 

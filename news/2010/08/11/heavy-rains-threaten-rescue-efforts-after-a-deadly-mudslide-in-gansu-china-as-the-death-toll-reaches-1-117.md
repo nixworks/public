@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/11/heavy-rains-threaten-rescue-efforts-after-a-dea
 
 ### [2010-08-11](/news/2010/08/11/index.md)
 
-##### landslide
+##### Landslide
 # Heavy rains threaten rescue efforts after a deadly mudslide in Gansu, China, as the death toll reaches 1,117. 
 
 Heavy rain threatens the Chinese county devastated by landslides, as the death toll from the disaster rises to 1,117 people.

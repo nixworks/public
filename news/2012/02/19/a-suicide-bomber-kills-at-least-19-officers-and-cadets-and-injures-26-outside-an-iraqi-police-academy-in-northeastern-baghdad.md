@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/19/a-suicide-bomber-kills-at-least-19-officers-and
 
 ### [2012-02-19](/news/2012/02/19/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least 19 officers and cadets and injures 26 outside an Iraqi police academy in northeastern Baghdad. 
 
 

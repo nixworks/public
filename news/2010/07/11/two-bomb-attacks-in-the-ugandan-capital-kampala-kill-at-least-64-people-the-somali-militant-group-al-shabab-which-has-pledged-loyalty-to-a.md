@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/11/two-bomb-attacks-in-the-ugandan-capital-kampala
 
 ### [2010-07-11](/news/2010/07/11/index.md)
 
-##### attacks
+##### Attacks
 # Two bomb attacks in the Ugandan capital Kampala kill at least 64 people; the Somali militant group Al-Shabab, which has pledged loyalty to al-qaida, is suspected of being behind the attack. 
 
 At least 74 people were killed in the twin blasts that hit Kampala during the World Cup final, and police suspect Somali militants.

@@ -11,7 +11,7 @@ Jawaher Abu Rahma died as a result of medical treatment from a Ramallah hospital
 ### [Officials investigating the shooting, who were seeking a second person of interest, have cleared the other person of involvement in the shooting. ](/news/2011/01/9/officials-investigating-the-shooting-who-were-seeking-a-second-person-of-interest-have-cleared-the-other-person-of-involvement-in-the-shoo.md)
 Fidel Castro has denounced as atrocious a shooting attack on a U.S. lawmaker that left six people dead and the legislator in critical condition.
 
-##### the arts
+##### The arts
 ### [Teachers and cultural figures criticise as "foolhardy" the British government's abolition of a scheme intended to improve teaching of the arts in schools. ](/news/2011/01/9/teachers-and-cultural-figures-criticise-as-foolhardy-the-british-government-s-abolition-of-a-scheme-intended-to-improve-teaching-of-the-ar.md)
 _Context: the arts_
 
@@ -27,7 +27,7 @@ Researchers at Wofford College discovered that a Border Collie comprehends the n
 ### [The Algerian government cuts food prices amid unrest, and vows to punish those responsible for rioting in recent days. ](/news/2011/01/9/the-algerian-government-cuts-food-prices-amid-unrest-and-vows-to-punish-those-responsible-for-rioting-in-recent-days.md)
 In the wake of deadly protests, the government lowers duties on basic food supplies and cracks down on rioters.
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 ### [2010-2011 Tunisian protests: Unrest in Tunisia over youth unemployment continues, with several deaths reported. ](/news/2011/01/9/2010a2011-tunisian-protests-unrest-in-tunisia-over-youth-unemployment-continues-with-several-deaths-reported.md)
 Fatalities reported after fresh clashes between demonstrators and security forces across north African nation.
 
@@ -45,7 +45,7 @@ Bulldozers demolished a hotel in an Arab east Jerusalem neighborhood Sunday to m
 
 ##### Iceland
 ### [The U.S. ambassador to Iceland is summoned in relation to secret United States attempts to access private details concerning Icelandic MP Birgitta Jonsdottir. The matter is described as "very serious". ](/news/2011/01/9/the-u-s-ambassador-to-iceland-is-summoned-in-relation-to-secret-united-states-attempts-to-access-private-details-concerning-icelandic-mp-bi.md)
-_Context: Birgitta Jonsdottir, Iceland, United States_
+_Context: Birgitta Jonsdottir, United States, Iceland_
 
 ##### Hillary Clinton
 ### [Hillary Clinton of the United States speaks out against Iran in Abu Dhabi during a five-day trip to the United Arab Emirates, Oman and Qatar. She requests that the world increase its pressure on Iran, a country she considers "a serious concern". ](/news/2011/01/9/hillary-clinton-of-the-united-states-speaks-out-against-iran-in-abu-dhabi-during-a-five-day-trip-to-the-united-arab-emirates-oman-and-qatar.md)
@@ -57,11 +57,11 @@ Demonstrators gather outside the Iranian Embassy in London to protest at what th
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Robert Gates flies to China for a four-day trip after expressing American worries that the Chinese "clearly have potential to put some of our [military] capabilities at risk", adding that America has "to pay attention to them" and "respond appropriately with our own programmes". ](/news/2011/01/9/united-states-secretary-of-defense-robert-gates-flies-to-china-for-a-four-day-trip-after-expressing-american-worries-that-the-chinese-clear.md)
-_Context: United States Secretary of Defense, Robert Gates_
+_Context: Robert Gates, United States Secretary of Defense_
 
 ##### Li Keqiang
 ### [Chinese Vice Premier Li Keqiang begins a four-day visit to the UK; Scotland and China sign a green energy deal. ](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.md)
-_Context: Li Keqiang, green energy_
+_Context: green energy, Li Keqiang_
 
 ##### The Guardian
 ### [An investigation by "The Guardian" newspaper reveals details of how Metropolitan police officer Mark Kennedy infiltrated dozens of protest groups in 22 countries using the pseudonym Mark Stone. ](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-reveals-details-of-how-metropolitan-police-officer-mark-kennedy-infiltrated-dozens-of-protest-g.md)

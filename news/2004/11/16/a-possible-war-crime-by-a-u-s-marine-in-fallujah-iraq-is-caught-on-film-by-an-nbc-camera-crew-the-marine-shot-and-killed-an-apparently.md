@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/16/a-possible-war-crime-by-a-u-s-marine-in-falluja
 
 ### [2004-11-16](/news/2004/11/16/index.md)
 
-##### war crime
+##### War crime
 #  A possible war crime by a U.S. Marine in Fallujah, Iraq, is caught on film by an NBC camera crew. The marine shot and killed an apparently unarmed Iraqi while in a mosque. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

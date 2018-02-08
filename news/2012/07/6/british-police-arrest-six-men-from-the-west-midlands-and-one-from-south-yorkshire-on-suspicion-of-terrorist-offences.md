@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/6/british-police-arrest-six-men-from-the-west-midl
 
 ### [2012-07-6](/news/2012/07/6/index.md)
 
-##### police
+##### Police
 # British police arrest six men from the West Midlands and one from South Yorkshire on suspicion of terrorist offences. 
 
 

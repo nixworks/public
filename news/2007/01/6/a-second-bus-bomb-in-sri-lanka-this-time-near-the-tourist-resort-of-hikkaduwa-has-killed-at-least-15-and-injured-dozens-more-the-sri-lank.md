@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/6/a-second-bus-bomb-in-sri-lanka-this-time-near-th
 
 ### [2007-01-6](/news/2007/01/6/index.md)
 
-##### bus bomb
+##### Bus bomb
 #  A second bus bomb in Sri Lanka, this time near the tourist resort of Hikkaduwa has killed at least 15 and injured dozens more. The Sri Lankan government declared the Tamil Tigers responsible, but the rebel group is denying involvement. 
 
 

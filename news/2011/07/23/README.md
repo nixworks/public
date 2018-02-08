@@ -11,9 +11,9 @@ The death toll from the shooting at a Norwegian youth camp rises to 85, as polic
 ### [2011 Syrian uprising: The United Nations says Syrian forces may have committed crimes against humanity amid the ongoing protests. ](/news/2011/07/23/2011-syrian-uprising-the-united-nations-says-syrian-forces-may-have-committed-crimes-against-humanity-amid-the-ongoing-protests.md)
 DAMASCUS, Syria, July 23 - UN officials have said Syrian security forces may have committed crimes against humanity in their crackdown on protesters, as at - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war: Rebels claim to have fired rockets at a meeting of senior Gaddafi-regime officials in the capital Tripoli. ](/news/2011/07/23/2011-libyan-civil-war-rebels-claim-to-have-fired-rockets-at-a-meeting-of-senior-gaddafi-regime-officials-in-the-capital-tripoli.md)
-_Context: Tripoli, Muammar Gaddafi, civil war_
+_Context: civil war, Muammar Gaddafi, Tripoli_
 
 ##### 2011 Mumbai bombings
 ### [2011 Mumbai bombings: The death toll from the attacks rises to 22. ](/news/2011/07/23/2011-mumbai-bombings-the-death-toll-from-the-attacks-rises-to-22.md)
@@ -35,29 +35,29 @@ _Context: Chile, Escondida_
 ### [Two CRH bullet trains collide in near Wenzhou, Zhejiang province, China, killing at least 35. ](/news/2011/07/23/two-crh-bullet-trains-collide-in-near-wenzhou-zhejiang-province-china-killing-at-least-35.md)
 Near Wenzhou, China, a train halted by lightning was struck by another train, derailing six cars, two of which were thrown from a bridge.
 
-##### famine
+##### Famine
 ### [Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. ](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutrition-every-six-minutes-250-a-day-in-somalia.md)
 _Context: famine, Somalia, Unicef_
 
 ##### Kim Sung-hwan
 ### [Kim Sung-hwan, the South Korean Minister for Foreign Affairs, meets with Pak Ui-chun, his North Korean counterpart, on the sidelines of an ASEAN meeting in Bali, Indonesia. ](/news/2011/07/23/kim-sung-hwan-the-south-korean-minister-for-foreign-affairs-meets-with-pak-ui-chun-his-north-korean-counterpart-on-the-sidelines-of-an-a.md)
-_Context: ASEAN, South Korea, Indonesia, Kim Sung-hwan, North Korea, Bali, Pak Ui-chun_
+_Context: South Korea, North Korea, Bali, ASEAN, Indonesia, Kim Sung-hwan, Pak Ui-chun_
 
-##### asylum seekers
+##### Asylum seekers
 ### [Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. ](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-detention-centre-near-weipa-in-the-australian-state-of-queensland-start-harming-themselves-in-pro.md)
 Detainees in a remote immigration detention centre in Queensland have started self harm as part of a protest, an advocate says.
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 ### [Claims of phone hacking at the "Daily Mirror" and other Trinity Mirror publications are made by former "Mirror" journalist James Hipwell. ](/news/2011/07/23/claims-of-phone-hacking-at-the-daily-mirror-and-other-trinity-mirror-publications-are-made-by-former-mirror-journalist-james-hipwell.md)
 The phone-hacking story took a new and dramatic turn yesterday as a former journalist on the Daily Mirror claimed that the practice was &quot;endemic&quot; at the newspaper during his time there and that he would be willing to testify to investigating authorities.
 
 ##### Grand Prairie
 ### [A gunman fatally shoots six people, including himself, and wounds four others in a shooting in Grand Prairie, Texas. ](/news/2011/07/23/a-gunman-fatally-shoots-six-people-including-himself-and-wounds-four-others-in-a-shooting-in-grand-prairie-texas.md)
-_Context: Texas, Grand Prairie_
+_Context: Grand Prairie, Texas_
 
 ##### Daryoush Rezaei
 ### [Daryoush Rezaei, an Iranian scientist, is shot dead outside his home in Tehran. It was reported that the scientist had links to the country's nuclear programme. ](/news/2011/07/23/daryoush-rezaei-an-iranian-scientist-is-shot-dead-outside-his-home-in-tehran-it-was-reported-that-the-scientist-had-links-to-the-country.md)
-_Context: Tehran, Daryoush Rezaei_
+_Context: Daryoush Rezaei, Tehran_
 
 ##### Federal Aviation Administration
 ### [Nearly 4,000 employees of the US Federal Aviation Administration are furloughed due to Congressional authorisation for its programs lapsing. ](/news/2011/07/23/nearly-4-000-employees-of-the-us-federal-aviation-administration-are-furloughed-due-to-congressional-authorisation-for-its-programs-lapsing.md)

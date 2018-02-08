@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/8/nine-people-go-on-trial-charged-with-terrorism-a
 
 ### [2010-03-8](/news/2010/03/8/index.md)
 
-##### terrorism
+##### Terrorism
 # Nine people go on trial charged with terrorism and links to al-Qaeda in Belgium. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/2/a-cabinet-minister-and-four-junior-ministers-bel
 
 ### [2007-08-2](/news/2007/08/2/index.md)
 
-##### forming a government
+##### Forming a government
 #  A Cabinet Minister and four junior ministers belonging to the Ceylon Workers Congress leave the Government of President of Sri Lanka Mahinda Rajapaksa due to "political differences". 
 
 

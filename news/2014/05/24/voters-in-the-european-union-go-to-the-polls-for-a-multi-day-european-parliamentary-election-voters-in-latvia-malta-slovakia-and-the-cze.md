@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/24/voters-in-the-european-union-go-to-the-polls-fo
 
 ### [2014-05-24](/news/2014/05/24/index.md)
 
-##### newly elected
+##### Newly elected
 # Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Latvia, Malta, Slovakia, and the Czech Republic vote today. 
 
 Voters in two European Union countries, the Czech Republic and Ireland, began voting on May 23 in the 2014 European Parliament elections. Voting in the Czech Republic continues on May 24, when Latv…

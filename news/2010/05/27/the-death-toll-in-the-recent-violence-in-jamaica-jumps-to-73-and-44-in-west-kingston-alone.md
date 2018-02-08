@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/27/the-death-toll-in-the-recent-violence-in-jamaic
 
 ### [2010-05-27](/news/2010/05/27/index.md)
 
-##### recent violence
+##### Recent violence
 # The death toll in the recent violence in Jamaica jumps to 73, and 44 in west Kingston alone. 
 
 Whereabouts of alleged drug kingpin still unknown as security forces continue hunt.

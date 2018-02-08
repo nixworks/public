@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/19/six-hundred-thousand-people-are-made-homeless-b
 
 ### [2007-09-19](/news/2007/09/19/index.md)
 
-##### flood
+##### Flood
 #  Six hundred thousand people are made homeless by floods in Africa with at least 270 deaths with more rain expected. 
 
 Flooded regions across Africa have been warned to expect further heavy rain after more than 600,000 people have already been made homeless by the floods.

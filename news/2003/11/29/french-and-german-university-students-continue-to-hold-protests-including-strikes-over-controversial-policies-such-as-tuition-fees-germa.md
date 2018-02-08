@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/29/french-and-german-university-students-continue-
 
 ### [2003-11-29](/news/2003/11/29/index.md)
 
-##### university
+##### University
 #  French and German university students continue to hold protests, including strikes, over controversial policies such as tuition fees. German students also occupied the central offices of the PDS in Berlin, following a similar protest earlier in the week in which 30 to 40 students occupied the office of Thomas Flierl for more than 24 hours. Protests in both countries have been continuing to spread for the last two weeks. German press:,
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/10/tens-of-thousands-of-university-students-and-le
 
 ### [2010-11-10](/news/2010/11/10/index.md)
 
-##### university student
+##### University student
 # Tens of thousands of university students and lecturers march in a National Union of Students protest in London against plans by the United Kingdom government to raise tuition fees to GBP9,000 per year in England. Violence occurs later with the building hosting the Conservative Party's campaign headquarters trashed by riots in the day 
 
 Thousands of students and lecturers are arriving in London for a rally against plans to almost treble tuition fees in England.

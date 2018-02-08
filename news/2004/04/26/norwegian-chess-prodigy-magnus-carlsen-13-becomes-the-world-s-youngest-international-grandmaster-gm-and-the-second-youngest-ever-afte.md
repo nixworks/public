@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/26/norwegian-chess-prodigy-magnus-carlsen-13-becom
 
 ### [2004-04-26](/news/2004/04/26/index.md)
 
-##### chess
+##### Chess
 #  Norwegian chess prodigy Magnus Carlsen (13) becomes the world's youngest international Grandmaster (GM), and the second youngest ever, after four wins and four draws out of nine games in the 6th Dubai Open Chess Championship. 
 
 

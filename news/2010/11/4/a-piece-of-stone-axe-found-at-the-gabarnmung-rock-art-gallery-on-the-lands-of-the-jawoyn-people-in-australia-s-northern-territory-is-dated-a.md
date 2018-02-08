@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/a-piece-of-stone-axe-found-at-the-gabarnmung-roc
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### stone axe
+##### Stone axe
 # A piece of stone axe found at the Gabarnmung rock art gallery on the lands of the Jawoyn people in Australia's Northern Territory is dated at 35,500 years old making the oldest of its type in the world. 
 
 A piece of stone axe found in the Northern Territory has been dated at 35,500 years old, making it the oldest of its type in the world.

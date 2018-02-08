@@ -7,21 +7,21 @@ Formats: [HTML](2015/05/25/index.html)  [JSON](2015/05/25/index.json)  [XML](201
 ### [Turkey says that it has reached an in-principle deal with the United States to give support to some elements of Syrian opposition. Over a million Syrian refugees live in Turkish territory, including many Syrian opposition figures. ](/news/2015/05/25/turkey-says-that-it-has-reached-an-in-principle-deal-with-the-united-states-to-give-support-to-some-elements-of-syrian-opposition-over-a-mi.md)
 The United States and Turkey have agreed &quot;in principle&quot; to give air support to some forces from Syria&#x27;s mainstream opposition, Turkey&#x27;s foreign minister said, in what if confirmed could mark an expansion of U.S. involvement in the conflict. There was no immediate comment from U.S...
 
-##### army
+##### Army
 ### [A Tunisian Army soldier is killed after a shooting rampage in which 7 fellow soldiers are killed and 10 others injured in their barracks in Tunis. ](/news/2015/05/25/a-tunisian-army-soldier-is-killed-after-a-shooting-rampage-in-which-7-fellow-soldiers-are-killed-and-10-others-injured-in-their-barracks-in.md)
 A Tunisian corporal shot dead seven of his comrades before himself being killed, the defence ministry said, adding that he had family and psychological problems.
 
 ##### ISIL
 ### [Close to 55,000 people have fled the Iraqi city of Ramadi since it was captured by Islamic State. ](/news/2015/05/25/close-to-55-000-people-have-fled-the-iraqi-city-of-ramadi-since-it-was-captured-by-islamic-state.md)
-_Context: Iraq, ISIL, Ramadi_
+_Context: Iraq, Ramadi, ISIL_
 
 ##### Australia
 ### [Australia announces that it will repatriate the bodies of up to 25 soldiers killed in the early stages of the Vietnam War. ](/news/2015/05/25/australia-announces-that-it-will-repatriate-the-bodies-of-up-to-25-soldiers-killed-in-the-early-stages-of-the-vietnam-war.md)
-_Context: Australia, Vietnam War, soldiers_
+_Context: soldiers, Australia, Vietnam War_
 
 ##### Uttar Pradesh
 ### [Nine railway carriages of the Muri Express derail in Uttar Pradesh's Kaushambi district, killing one and injuring more than 100 people. ](/news/2015/05/25/nine-railway-carriages-of-the-muri-express-derail-in-uttar-pradesh-s-kaushambi-district-killing-one-and-injuring-more-than-100-people.md)
-_Context: Kaushambi district, Uttar Pradesh_
+_Context: Uttar Pradesh, Kaushambi district_
 
 ##### Tornadoes of 2015
 ### [A tornado kills at least thirteen people in the Mexican city of Ciudad Acuna and injures 88. ](/news/2015/05/25/a-tornado-kills-at-least-thirteen-people-in-the-mexican-city-of-ciudad-acua-a-and-injures-88.md)
@@ -31,21 +31,21 @@ At least 13 people died and dozens more were injured after a freak tornado rippe
 ### [The death toll from an Indian heat wave rises to 432 in the states of Andhra Pradesh and Telangana with extreme conditions forecast to continue. ](/news/2015/05/25/the-death-toll-from-an-indian-heat-wave-rises-to-432-in-the-states-of-andhra-pradesh-and-telangana-with-extreme-conditions-forecast-to-conti.md)
 The searing heatwave in Andhra Pradesh and Telangana has killed 432 people so far with more deaths being reported on Monday as vast swathes of the country reeled under the unrelenting summer heat.
 
-##### nursing home
+##### Nursing home
 ### [At least 38 people are killed and 6 injured in a nursing home fire in Lushan County of China's Henan Province. ](/news/2015/05/25/at-least-38-people-are-killed-and-6-injured-in-a-nursing-home-fire-in-lushan-county-of-china-s-henan-province.md)
-_Context: Henan Province, China, nursing home, Lushan County_
+_Context: Henan Province, Lushan County, China, nursing home_
 
-##### gold mine
+##### Gold mine
 ### [Emergency workers have recovered the final bodies from a collapsed gold mine in Colombia with 15 people recovered. ](/news/2015/05/25/emergency-workers-have-recovered-the-final-bodies-from-a-collapsed-gold-mine-in-colombia-with-15-people-recovered.md)
 _Context: Colombia, gold mine_
 
 ##### Malaysia
 ### [Malaysia summons a Philippines diplomat over a dispute regarding the ownership of Sabah. ](/news/2015/05/25/malaysia-summons-a-philippines-diplomat-over-a-dispute-regarding-the-ownership-of-sabah.md)
-_Context: Philippines, a dispute regarding the ownership of Sabah, Malaysia_
+_Context: a dispute regarding the ownership of Sabah, Malaysia, Philippines_
 
 ##### China
 ### [The People's Republic of China lodges an official complaint with the United States over a flight by an alleged spy plane over parts of the South China Sea. ](/news/2015/05/25/the-people-s-republic-of-china-lodges-an-official-complaint-with-the-united-states-over-a-flight-by-an-alleged-spy-plane-over-parts-of-the-s.md)
-_Context: United States, China, South China Sea_
+_Context: South China Sea, United States, China_
 
 ##### Sudan
 ### [The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. ](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.md)
@@ -69,7 +69,7 @@ Suriname goes to the polls in general elections on Monday with its convicted dru
 
 ##### Republic of Turkey
 ### [Two recent polls indicate that the ruling party in Republic of Turkey, the Justice and Development Party of Recep Tayyip Erdogan, is in danger of losing its parliamentary majority in the June 7 election. ](/news/2015/05/25/two-recent-polls-indicate-that-the-ruling-party-in-republic-of-turkey-the-justice-and-development-party-of-recep-tayyip-erdoaan-is-in-dan.md)
-_Context: Recep Tayyip Erdogan, Republic of Turkey, election in June, ruling party_
+_Context: ruling party, Republic of Turkey, Recep Tayyip Erdogan, election in June_
 
 ## [Previous Day...](/news/2015/05/24/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/9/2009-swine-flu-outbreak-world-health-organisatio
 
 ### [2009-06-9](/news/2009/06/9/index.md)
 
-##### current outbreak
+##### Current outbreak
 #  2009 swine flu outbreak: World Health Organisation Director-General Margaret Chan believes "on the surface of it" that a pandemic has been reached. She also said that "once I get indisputable evidence, I will make the announcement," and will meet with governments on Wednesday regarding reports about the outbreak. 
 
 

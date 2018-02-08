@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/21/the-perjury-trial-of-u-s-baseball-star-barry-bo
 
 ### [2011-03-21](/news/2011/03/21/index.md)
 
-##### perjury
+##### Perjury
 # The perjury trial of U.S. baseball star Barry Bonds begins in federal court in San Francisco, California. 
 
 The long-awaited perjury trial of Barry Bonds, 46, never a media darling and hardly a sympathetic figure, began Monday with jury selection.

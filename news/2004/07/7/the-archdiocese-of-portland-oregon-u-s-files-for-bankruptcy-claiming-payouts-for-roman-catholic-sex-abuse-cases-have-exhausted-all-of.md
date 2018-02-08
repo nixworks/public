@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/7/the-archdiocese-of-portland-oregon-u-s-files-for
 
 ### [2004-07-7](/news/2004/07/7/index.md)
 
-##### archdiocese
+##### Archdiocese
 #  The archdiocese of Portland, Oregon, U.S., files for bankruptcy, claiming payouts for Roman Catholic sex abuse cases have exhausted all of its funds. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/26/cameroonian-soccer-player-marc-vivien-foa-c-col
 
 ### [2003-06-26](/news/2003/06/26/index.md)
 
-##### soccer
+##### Soccer
 #  Cameroonian soccer player Marc-Vivien Foe collapsed during a Confederations Cup semi-final between Cameroon and Colombia in Lyon, France. He subsequently died after doctors failed to resuscitate him. He played for Olympique Lyonnais and was loaned to Manchester City F.C. in the 2002-03 season.
 
 

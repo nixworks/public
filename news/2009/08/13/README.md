@@ -17,19 +17,19 @@ _Context: Republic of Dagestan, Russia_
 
 ##### Islam
 ### [ At least 23 government soldiers and more than 20 Muslim extremists are killed in a day-long clash in the southern Philippines. ](/news/2009/08/13/at-least-23-government-soldiers-and-more-than-20-muslim-extremists-are-killed-in-a-day-long-clash-in-the-southern-philippines.md)
-_Context: Islam, Philippines_
+_Context: Philippines, Islam_
 
 ##### Afghan President
 ### [ Former Afghan President Burhanuddin Rabbani survives an ambush by the Taliban in the Ali Abad District of Kunduz province, Afghanistan. ](/news/2009/08/13/former-afghan-president-burhanuddin-rabbani-survives-an-ambush-by-the-taliban-in-the-ali-abad-district-of-kunduz-province-afghanistan.md)
-_Context: Kunduz province, Ali Abad District, Burhanuddin Rabbani, ambush, Afghanistan, Afghan President, Taliban_
+_Context: Kunduz province, Taliban, Ali Abad District, Afghanistan, ambush, Burhanuddin Rabbani, Afghan President_
 
 ##### Guinea
 ### [ Supporters of Guinea's self-declared President, Captain Moussa Dadis Camara, form a movement, Dadis Must Stay, to call for him to be allowed to continue in office. ](/news/2009/08/13/supporters-of-guinea-s-self-declared-president-captain-moussa-dadis-camara-form-a-movement-dadis-must-stay-to-call-for-him-to-be-allowe.md)
-_Context: Moussa Dadis Camara, President, Guinea, Dadis Must Stay_
+_Context: Dadis Must Stay, Moussa Dadis Camara, President, Guinea_
 
 ##### France
 ### [ The French and German economies rebound, helping push the Eurozone to the brink of economic recovery in the second quarter, delivering a further signal that the worst of the global crisis may be coming to an end in Europe. ](/news/2009/08/13/the-french-and-german-economies-rebound-helping-push-the-eurozone-to-the-brink-of-economic-recovery-in-the-second-quarter-delivering-a-fu.md)
-_Context: German, global crisis, Europe, France, Eurozone_
+_Context: global crisis, Eurozone, German, Europe, France_
 
 ##### European Union
 ### [ The European Union will extend its sanctions on Burma to cover members of the judiciary responsible for the verdict in the trial of opposition leader Aung San Suu Kyi. ](/news/2009/08/13/the-european-union-will-extend-its-sanctions-on-burma-to-cover-members-of-the-judiciary-responsible-for-the-verdict-in-the-trial-of-opposit.md)

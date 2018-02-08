@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/5/an-earthquake-in-papua-indonesia-reached-6-0-on-
 
 ### [2005-08-5](/news/2005/08/5/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake in Papua, Indonesia, reached 6.0 on the Richter scale. There are no reports of casualties.
 
 

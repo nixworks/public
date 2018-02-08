@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/28/a-six-year-old-boy-whose-parents-refused-to-hav
 
 ### [2015-06-28](/news/2015/06/28/index.md)
 
-##### diphtheria
+##### Diphtheria
 # A six-year-old boy whose parents refused to have him vaccinated dies of diphtheria, the first case in Spain since 1987. 
 
 

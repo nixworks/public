@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/21/at-least-24-people-are-killed-and-more-than-100
 
 ### [2013-03-21](/news/2013/03/21/index.md)
 
-##### tornado
+##### Tornado
 # At least 24 people are killed and more than 100 injured in a tornado and hail storm in southern China. 
 
 Southern China has been warned to brace for more storms after extreme weather lashed southern China.

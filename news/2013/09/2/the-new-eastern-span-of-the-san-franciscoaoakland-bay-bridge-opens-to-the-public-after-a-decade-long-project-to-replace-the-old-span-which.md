@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/2/the-new-eastern-span-of-the-san-franciscoaoaklan
 
 ### [2013-09-2](/news/2013/09/2/index.md)
 
-##### new eastern span
+##### New eastern span
 # The new eastern span of the San Francisco-Oakland Bay Bridge opens to the public after a decade-long project to replace the old span which was damaged during the 1989 Loma Prieta earthquake. 
 
 

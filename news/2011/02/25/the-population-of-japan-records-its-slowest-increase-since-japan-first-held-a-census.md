@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/25/the-population-of-japan-records-its-slowest-inc
 
 ### [2011-02-25](/news/2011/02/25/index.md)
 
-##### population of Japan
+##### Population of Japan
 # The population of Japan records its slowest increase since Japan first held a census. 
 
 

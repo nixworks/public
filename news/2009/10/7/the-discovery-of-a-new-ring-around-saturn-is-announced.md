@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/7/the-discovery-of-a-new-ring-around-saturn-is-ann
 
 ### [2009-10-7](/news/2009/10/7/index.md)
 
-##### new ring
+##### New ring
 #  The discovery of a new ring around Saturn is announced. 
 
 

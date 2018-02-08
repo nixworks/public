@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/17/a-groundbreaking-combination-of-lumacaftor-and-
 
 ### [2015-05-17](/news/2015/05/17/index.md)
 
-##### lumacaftor
+##### Lumacaftor
 # A 'groundbreaking' combination of lumacaftor and ivacaftor could improve the quality of life and life expectancy of cystic fibrosis sufferers is trialed. 
 
 A &quot;groundbreaking&quot; cystic fibrosis therapy could profoundly improve quality of life, say doctors.

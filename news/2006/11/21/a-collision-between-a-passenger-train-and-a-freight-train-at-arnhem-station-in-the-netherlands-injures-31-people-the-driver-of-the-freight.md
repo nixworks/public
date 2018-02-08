@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/21/a-collision-between-a-passenger-train-and-a-fre
 
 ### [2006-11-21](/news/2006/11/21/index.md)
 
-##### passenger train
+##### Passenger train
 #  A collision between a passenger train and a freight train at Arnhem station in the Netherlands injures 31 people. The driver of the freight train, who is alleged to have ignored a red signal, is arrested by police. 
 
 

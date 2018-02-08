@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/20/scientists-report-regenerating-specimens-of-sil
 
 ### [2012-02-20](/news/2012/02/20/index.md)
 
-##### regenerating
+##### Regenerating
 # Scientists report regenerating specimens of "Silene stenophylla" from a 31,800 year old piece of fruit, greatly surpassing the previous record for oldest plant successfully regenerated. 
 
 A living plant has been generated from the fruit of a little arctic flower, making it the oldest plant by far that has ever been grown from ancient tissue.

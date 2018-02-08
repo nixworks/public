@@ -7,7 +7,7 @@ Formats: [HTML](2015/05/13/index.html)  [JSON](2015/05/13/index.json)  [XML](201
 ### [Syrian Civil War: Hezbollah and Syrian Army gain strategic territories in Qalamoun Mountains north of Damascus, which was held by opposition factions, particularly al-Nusra Front. ](/news/2015/05/13/syrian-civil-war-hezbollah-and-syrian-army-gain-strategic-territories-in-qalamoun-mountains-north-of-damascus-which-was-held-by-opposition.md)
 State TV credits fighters from &quot;Lebanese resistance&quot; with forcing fighters from mountainous area north of Damascus.
 
-##### open fire on a bus
+##### Open fire on a bus
 ### [Gunmen open fire on a bus containing members of the Ismaili Shia Muslim community in the Pakistani city of Karachi, killing at least 44 people and injuring a dozen. ](/news/2015/05/13/gunmen-open-fire-on-a-bus-containing-members-of-the-ismaili-shia-muslim-community-in-the-pakistani-city-of-karachi-killing-at-least-44-peop.md)
 Gun men opened fire on bus belonging to the Ismaili community
 
@@ -39,7 +39,7 @@ More than 40% of honeybee colonies died in the U.S. during a 12-month period end
 ### [International conglomerate Danaher announces plans to acquire water filtration company Pall for US$13.8 billion and to split off its industrial businesses into a new company. ](/news/2015/05/13/international-conglomerate-danaher-announces-plans-to-acquire-water-filtration-company-pall-for-us-13-8-billion-and-to-split-off-its-industr.md)
 Danaher Corp.’s purchase of Pall Corp. for $13.8 billion will complete a march toward becoming a provider of health-care instruments and services and away from its roots as a manufacturer started by the billionaire Rales brothers.
 
-##### yesterday's earthquake
+##### Yesterday's earthquake
 ### [Rescue efforts resume in Nepal after yesterday's earthquake which killed at least 63 in Nepal and 17 in northern India. ](/news/2015/05/13/rescue-efforts-resume-in-nepal-after-yesterday-s-earthquake-which-killed-at-least-63-in-nepal-and-17-in-northern-india.md)
 Rescue work resumes after the latest deadly earthquake in Nepal, after thousands of scared residents spent the night in the open.
 
@@ -51,7 +51,7 @@ At least six people were killed and over 140 people hurt after an Amtrak train, 
 ### [2015 Valenzuela fire: At least 72 people die after a fire engulfs a rubber sandal factory in Valenzuela City, a northern suburb of Manila, Philippines. ](/news/2015/05/13/2015-valenzuela-fire-at-least-72-people-die-after-a-fire-engulfs-a-rubber-sandal-factory-in-valenzuela-city-a-northern-suburb-of-manila-p.md)
 Government launches investigation into cause of Manila blaze which killed at least 72 and left dozens of others trapped.
 
-##### gold mine
+##### Gold mine
 ### [Rescue workers attempt to rescue at least 15 gold miners trapped by floods in a mine in Colombia's Caldas Department. ](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.md)
 _Context: Caldas Department, gold mine_
 
@@ -69,11 +69,11 @@ A temporary block to Facebook in Nauru is to protect children from abuse, Nauru&
 
 ##### Shooting of Tony Robinson
 ### [Shooting of Tony Robinson: Demonstrators peacefully protest a Wisconsin prosecutor's decision, announced yesterday, not to pursue charges against the officer who shot and killed a 19-year-old. ](/news/2015/05/13/shooting-of-tony-robinson-demonstrators-peacefully-protest-a-wisconsin-prosecutor-s-decision-announced-yesterday-not-to-pursue-charges-ag.md)
-_Context: Shooting of Tony Robinson, Wisconsin_
+_Context: Wisconsin, Shooting of Tony Robinson_
 
 ##### Hyon Yong-chol
 ### [South Korea claims that North Korea has executed its defense chief Hyon Yong-chol with an anti-aircraft gun. ](/news/2015/05/13/south-korea-claims-that-north-korea-has-executed-its-defense-chief-hyon-yong-chol-with-an-anti-aircraft-gun.md)
-_Context: anti-aircraft gun, Hyon Yong-chol_
+_Context: Hyon Yong-chol, anti-aircraft gun_
 
 ##### House of Representatives
 ### [The United States House of Representatives votes overwhelmingly to end the mass collection of Americans' phone data with the USA Freedom Act passing 338-88 (79%). The bill's passage through the Senate is less certain. ](/news/2015/05/13/the-united-states-house-of-representatives-votes-overwhelmingly-to-end-the-mass-collection-of-americans-phone-data-with-the-usa-freedom-act.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/24/brazilian-police-shoot-dead-at-least-thirteen-p
 
 ### [2010-11-24](/news/2010/11/24/index.md)
 
-##### police
+##### Police
 # Brazilian police shoot dead at least thirteen people in Rio de Janeiro following a wave of violence by suspected drug traffickers. 
 
 Brazilian police have shot dead at least 13 more people in Rio de Janeiro as they try stop a wave of violence by suspected drug traffickers.

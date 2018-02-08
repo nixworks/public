@@ -5,15 +5,15 @@ Formats: [HTML](2014/11/24/index.html)  [JSON](2014/11/24/index.json)  [XML](201
 
 ##### Boko Haram
 ### [Boko Haram captures the northeastern Nigerian town of Damasak, killing 50 and forcing more than 3,000 to flee across the border into Niger. ](/news/2014/11/24/boko-haram-captures-the-northeastern-nigerian-town-of-damasak-killing-50-and-forcing-more-than-3-000-to-flee-across-the-border-into-niger.md)
-_Context: Nigeria, Damasak, Niger, Boko Haram_
+_Context: Boko Haram, Damasak, Nigeria, Niger_
 
 ##### The National
 ### [Launch of "The National", the first Scottish daily newspaper to support Scottish independence. ](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.md)
 A brand new daily paper claiming to “fly a vibrant flag for Scottish independence” has launched in Scotland. The National has been pioneered in the wake of September’s independence referendum which saw 45 percent vote in favor of separation.
 
-##### chief executive officer
+##### Chief executive officer
 ### [The chief executive officer of United Technologies abruptly steps down. ](/news/2014/11/24/the-chief-executive-officer-of-united-technologies-abruptly-steps-down.md)
-_Context: United Technologies, chief executive officer_
+_Context: chief executive officer, United Technologies_
 
 ##### Malaysia Airlines flight MH17
 ### [The Dutch Safety Board reports that it has finished work on recovery of the wreckage of Malaysia Airlines flight MH17. ](/news/2014/11/24/the-dutch-safety-board-reports-that-it-has-finished-work-on-recovery-of-the-wreckage-of-malaysia-airlines-flight-mh17.md)

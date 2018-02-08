@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/27/three-russian-policemen-are-charged-with-neglig
 
 ### [2004-10-27](/news/2004/10/27/index.md)
 
-##### police
+##### Police
 #  Three Russian policemen are charged with negligence over the Beslan school hostage crisis; more than 350 people, about half of whom were children, died in that event. 
 
 

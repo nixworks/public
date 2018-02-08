@@ -21,11 +21,11 @@ Officials in Athens have said Greece will follow the Irish lead in guaranteeing 
 
 ##### Russia
 ### [ Both of Russia's main stock exchanges, the MICEX and RTS, suspend trading of stocks "for technical reasons" as the markets rally after a 1-1-2 day trading halt that ended earlier in the morning. ](/news/2008/10/3/both-of-russia-s-main-stock-exchanges-the-micex-and-rts-suspend-trading-of-stocks-for-technical-reasons-as-the-markets-rally-after-a-1.md)
-_Context: MICEX, RTS, Russia_
+_Context: Russia, MICEX, RTS_
 
 ##### United States
 ### [ Investigators in the United States announce that they have found human remains in what is believed to be the wreckage of Steve Fossett's plane, which went missing over California a year ago. ](/news/2008/10/3/investigators-in-the-united-states-announce-that-they-have-found-human-remains-in-what-is-believed-to-be-the-wreckage-of-steve-fossett-s-pl.md)
-_Context: United States, went missing, Steve Fossett, California_
+_Context: Steve Fossett, California, United States, went missing_
 
 ##### United States
 ### [ United States government announces sale of billions of dollars of arms to Taiwan to keep a balance with China's massive arms buildup aimed at Taiwan. ](/news/2008/10/3/united-states-government-announces-sale-of-billions-of-dollars-of-arms-to-taiwan-to-keep-a-balance-with-china-s-massive-arms-buildup-aimed.md)
@@ -37,9 +37,9 @@ _Context: pirates, Russia_
 
 ##### Viking
 ### [ The remains of a Viking-era stave church, including the skeletal remains of a woman, is uncovered near the cemetery of the Lnns church in Odensbacken outside rebro in central Sweden. ](/news/2008/10/3/the-remains-of-a-viking-era-stave-church-including-the-skeletal-remains-of-a-woman-is-uncovered-near-the-cemetery-of-the-lannas-church-in.md)
-_Context: Odensbacken, rebro, Sweden, Viking, cemetery, woman, stave church_
+_Context: cemetery, Sweden, Viking, Odensbacken, rebro, stave church, woman_
 
-##### jury
+##### Jury
 ### [ A jury convicts retired American football player O.J. Simpson of armed robbery and kidnapping, 13 years to the day after he was acquitted of killing his ex-wife and her friend in Los Angeles. ](/news/2008/10/3/a-jury-convicts-retired-american-football-player-o-j-simpson-of-armed-robbery-and-kidnapping-13-years-to-the-day-after-he-was-acquitted-o.md)
 O.J. Simpson was convicted in a Las Vegas court on 12 counts including armed robbery and kidnapping.
 

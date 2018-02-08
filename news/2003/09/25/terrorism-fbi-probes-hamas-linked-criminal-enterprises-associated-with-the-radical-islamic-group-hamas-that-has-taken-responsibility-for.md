@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/25/terrorism-fbi-probes-hamas-linked-criminal-ente
 
 ### [2003-09-25](/news/2003/09/25/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: FBI probes Hamas-linked 'criminal enterprises' associated with the radical Islamic group Hamas that has taken responsibility for a string of bombings in Israel. Hamas also declares the organization would not participate with other Palestinian groups in a proposed cease-fire nor join the next Palestinian government. Sheik Ahmed Yassin states "the enemy is continuing his aggression, killing, and settlement activities."
 
 

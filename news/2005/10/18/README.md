@@ -5,15 +5,15 @@ Formats: [HTML](2005/10/18/index.html)  [JSON](2005/10/18/index.json)  [XML](200
 
 ##### Kenneth Clarke
 ### [ Ex-chancellor Kenneth Clarke has been knocked out of the race to become the next leader of the UK Conservative Party. ](/news/2005/10/18/ex-chancellor-kenneth-clarke-has-been-knocked-out-of-the-race-to-become-the-next-leader-of-the-uk-conservative-party.md)
-_Context: Conservative Party, Kenneth Clarke, leadership election_
+_Context: Conservative Party, leadership election, Kenneth Clarke_
 
-##### serious food shortages
+##### Serious food shortages
 ### [ Malawi food crisis: United Nations Children's Fund (UNICEF) increases its appeal for Malawi to USD13 million, as the humanitarian crisis worsen with an estimated 46,000 severely malnourished children. ](/news/2005/10/18/malawi-food-crisis-united-nations-children-s-fund-unicef-increases-its-appeal-for-malawi-to-usd13-million-as-the-humanitarian-crisis-wo.md)
-_Context: Malawi, USD, serious food shortages, malnutrition, United Nations Children's Fund_
+_Context: Malawi, serious food shortages, malnutrition, United Nations Children's Fund, USD_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Two U.S. Marines and around four Iraqi insurgents are killed in Western Iraq. ](/news/2005/10/18/conflict-in-iraq-two-u-s-marines-and-around-four-iraqi-insurgents-are-killed-in-western-iraq.md)
-_Context: Conflict in Iraq, Iraq, Iraqi insurgency, U.S. Marine_
+_Context: Conflict in Iraq, Iraqi insurgency, Iraq, U.S. Marine_
 
 ##### Independent Electoral Commission of Iraq
 ### [ The Independent Electoral Commission of Iraq issues a statement saying that statistical irregularities in the constitution ratification referendum on October 15, 2005 require that the balloting be audited, which will delay the announcement of the final count. According to the New York Times, "The statement made no mention of the possibility of fraud." though according to the BBC "Iraq's independent electoral commission says statistical irregularities in last week's referendum could indicate fraud." ](/news/2005/10/18/the-independent-electoral-commission-of-iraq-issues-a-statement-saying-that-statistical-irregularities-in-the-constitution-ratification-ref.md)
@@ -25,7 +25,7 @@ _Context: Australia, William Evan Allan, First World War_
 
 ##### Spinnaker Tower
 ### [ Spinnaker Tower in Portsmouth is formally opened. Five years overdue and massively over budget, the tower offers the highest public vantage point in the UK. Project manager David Greenhalgh becomes trapped in the tower's external glass lift for over an hour at the opening. ](/news/2005/10/18/spinnaker-tower-in-portsmouth-is-formally-opened-five-years-overdue-and-massively-over-budget-the-tower-offers-the-highest-public-vantage.md)
-_Context: United Kingdom, Spinnaker Tower, Portsmouth_
+_Context: Portsmouth, Spinnaker Tower, United Kingdom_
 
 ## [Previous Day...](/news/2005/10/17/index.md)
 

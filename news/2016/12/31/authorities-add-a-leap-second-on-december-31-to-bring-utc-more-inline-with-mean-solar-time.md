@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/31/authorities-add-a-leap-second-on-december-31-to
 
 ### [2016-12-31](/news/2016/12/31/index.md)
 
-##### leap second
+##### Leap second
 # Authorities add a leap second on December 31 to bring UTC more inline with mean solar time. 
 
 

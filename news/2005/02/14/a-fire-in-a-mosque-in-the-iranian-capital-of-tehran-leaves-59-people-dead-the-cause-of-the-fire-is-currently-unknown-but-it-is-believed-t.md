@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/14/a-fire-in-a-mosque-in-the-iranian-capital-of-te
 
 ### [2005-02-14](/news/2005/02/14/index.md)
 
-##### mosque
+##### Mosque
 #  A fire in a mosque in the Iranian capital of Tehran leaves 59 people dead. The cause of the fire is currently unknown, but it is believed that a kerosene heater was left near a thick flammable curtain. 
 
 

@@ -3,17 +3,17 @@ Formats: [HTML](2012/02/21/index.html)  [JSON](2012/02/21/index.json)  [XML](201
 
 ## [2012-02-21](/news/2012/02/21/index.md)
 
-##### bombardment
+##### Bombardment
 ### [The bombardment of Homs in Syria continues for an 18th successive day, killing over 100 people. ](/news/2012/02/21/the-bombardment-of-homs-in-syria-continues-for-an-18th-successive-day-killing-over-100-people.md)
 Syrian government forces killed at least 100 people on Tuesday in assaults on villages and an artillery barrage in the restive city of Homs, activists said, and the Red Cross called for daily ceasefires to allow in urgently needed aid.
 
 ##### General
 ### [US General John R. Allen, the head of the International Security Assistance Force in Afghanistan commissions an inquiry into allegations that Qurans were burnt at an American Air Force base as Afghans protest. ](/news/2012/02/21/us-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-commissions-an-inquiry-into-allegations-tha.md)
-_Context: International Security Assistance Force, United States Air Force, General, Afghanistan, Quran, John R. Allen_
+_Context: Afghanistan, General, International Security Assistance Force, Quran, John R. Allen, United States Air Force_
 
 ##### Thailand
 ### [Thailand sends an extradition request to Malaysia for one of the five Iranian nationals suspected of involvement in the bombings in Bangkok earlier this month. ](/news/2012/02/21/thailand-sends-an-extradition-request-to-malaysia-for-one-of-the-five-iranian-nationals-suspected-of-involvement-in-the-bombings-in-bangkok.md)
-_Context: Malaysia, extradition, Bangkok, Thailand, Iran, bombings_
+_Context: bombings, Thailand, Malaysia, extradition, Bangkok, Iran_
 
 ##### Indonesia
 ### [Rioting inmates take control of Indonesia's Kerobokan Prison on the island of Bali. ](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.md)
@@ -21,7 +21,7 @@ Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which la
 
 ##### 2012 BRIT Awards
 ### [The 2012 BRIT Awards for British popular music are held in O2 Arena in London with Adele, One Direction, Ed Sheeran and Coldplay among the winners. ](/news/2012/02/21/the-2012-brit-awards-for-british-popular-music-are-held-in-o2-arena-in-london-with-adele-one-direction-ed-sheeran-and-coldplay-among-the-w.md)
-_Context: One Direction, London, Adele, Coldplay, Ed Sheeran, O2 Arena, British, popular music, 2012 BRIT Awards_
+_Context: Ed Sheeran, British, O2 Arena, London, One Direction, 2012 BRIT Awards, Adele, Coldplay, popular music_
 
 ##### Euro zone
 ### [Euro zone finance ministers reach an agreement on a second Greek bailout. ](/news/2012/02/21/euro-zone-finance-ministers-reach-an-agreement-on-a-second-greek-bailout.md)
@@ -29,7 +29,7 @@ Euro zone finance ministers struck a deal for a second bailout program for Greec
 
 ##### Liaoning
 ### [A blast at a steel plant in Liaoning, northeastern China, kills 13 people and injures 17. ](/news/2012/02/21/a-blast-at-a-steel-plant-in-liaoning-northeastern-china-kills-13-people-and-injures-17.md)
-_Context: China, Liaoning_
+_Context: Liaoning, China_
 
 ##### South Korea
 ### [The speaker of the South Korean National Assembly is charged with bribery. ](/news/2012/02/21/the-speaker-of-the-south-korean-national-assembly-is-charged-with-bribery.md)

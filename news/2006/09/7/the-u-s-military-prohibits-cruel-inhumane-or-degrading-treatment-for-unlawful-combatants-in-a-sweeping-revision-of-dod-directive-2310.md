@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/7/the-u-s-military-prohibits-cruel-inhumane-or-deg
 
 ### [2006-09-7](/news/2006/09/7/index.md)
 
-##### unlawful combatant
+##### Unlawful combatant
 # The U.S. military prohibits cruel, inhumane or degrading treatment for "unlawful combatants" in a sweeping revision of DoD Directive 2310. 
 
 

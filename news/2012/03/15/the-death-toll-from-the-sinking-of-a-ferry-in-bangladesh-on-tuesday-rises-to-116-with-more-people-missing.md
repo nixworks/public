@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/15/the-death-toll-from-the-sinking-of-a-ferry-in-b
 
 ### [2012-03-15](/news/2012/03/15/index.md)
 
-##### a ferry
+##### A ferry
 # The death toll from the sinking of a ferry in Bangladesh on Tuesday rises to 116 with more people missing. 
 
 The death toll in this week&#x27;s ferry disaster rose to 116 on Thursday when villagers found four more bodies floating in the water, authorities said.

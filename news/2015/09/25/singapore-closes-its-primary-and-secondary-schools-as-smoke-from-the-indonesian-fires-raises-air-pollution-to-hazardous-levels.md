@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/25/singapore-closes-its-primary-and-secondary-scho
 
 ### [2015-09-25](/news/2015/09/25/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 # Singapore closes its primary and secondary schools as smoke from the Indonesian fires raises air pollution to hazardous levels. 
 
 

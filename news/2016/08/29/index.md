@@ -19,19 +19,19 @@ For the first time in 52 days, cur the first time in 52 days, curfew was lifted 
 ### [Gene Wilder, known for his role as the title character in "Willy Wonka & the Chocolate Factory", and for his collaborations with Mel Brooks, dies at the age of 83. ](/news/2016/08/29/gene-wilder-known-for-his-role-as-the-title-character-in-willy-wonka-the-chocolate-factory-and-for-his-collaborations-with-mel-brooks.md)
 Gene Wilder, who regularly stole the show in such comedic gems as “The Producers,” “Blazing Saddles,” “Young Frankenstein,” “Willy Wonka and the Chocolate Factory” and “Stir Crazy,” died Monday at …
 
-##### lightning strike
+##### Lightning strike
 ### [A lightning strike from a freak thunderstorm kills 323 reindeer in Norway. ](/news/2016/08/29/a-lightning-strike-from-a-freak-thunderstorm-kills-323-reindeer-in-norway.md)
 It was the deadliest -- and probably eeriest -- strike ever recorded.
 
 ##### 2016 Pacific hurricane season
 ### [A hurricane watch is issued for the island of Hawaii as Hurricane Madeline approaches. ](/news/2016/08/29/a-hurricane-watch-is-issued-for-the-island-of-hawaii-as-hurricane-madeline-approaches.md)
-_Context: 2016 Pacific hurricane season, island of Hawaii, Hurricane Madeline_
+_Context: island of Hawaii, 2016 Pacific hurricane season, Hurricane Madeline_
 
 ##### 2015-16 Zika virus epidemic
 ### [The number of Zika virus infected in Singapore rises above 40. ](/news/2016/08/29/the-number-of-zika-virus-infected-in-singapore-rises-above-40.md)
 Tiny Singapore says it has its own outbreak of Zika virus.
 
-##### drug crackdown
+##### Drug crackdown
 ### [Philippines president Rodrigo Duterte calls on critic senator Leila de Lima to resign and "hang herself". ](/news/2016/08/29/philippines-president-rodrigo-duterte-calls-on-critic-senator-leila-de-lima-to-resign-and-hang-herself.md)
 The President tells the feisty lady senator that she should resign amid allegations she is involved in the New Bilibid Prison illegal drug trade
 
@@ -39,13 +39,13 @@ The President tells the feisty lady senator that she should resign amid allegati
 ### [Multiple individuals rammed a van into the entrance of the Brussels National Institute of Criminology building, setting its laboratories on fire. No casualties have been reported. At least five people are arrested. ](/news/2016/08/29/multiple-individuals-rammed-a-van-into-the-entrance-of-the-brussels-national-institute-of-criminology-building-setting-its-laboratories-on.md)
 Attackers ram a car through the gates of a Brussels crime laboratory before starting a fire to try and destroy forensic evidence, prosecutors say.
 
-##### election
+##### Election
 ### [U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all election officials nationwide about this issue earlier this month. ](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-election-system-databases-in-illinois-and-arizona-the-fbi-alerted-all-election-officials-na.md)
 Officials are concerned that the Russians are attempting to interfere in the U.S. election and sow doubt about the electoral process.
 
 ##### Li Jinbin
 ### [Li Jinbin becomes Communist Party Secretary (top official) of Anhui, succeeding Wang Xuejun.Chen Quanguo becomes Communist Party Secretary of the Xinjiang Uyghur Autonomous Region, succeeding Zhang Chunxian, who will take on another office.Li Jiheng becomes Communist Party Secretary of the Inner Mongolia Autonomous Region, succeeding Wang Jun. ](/news/2016/08/29/li-jinbin-becomes-communist-party-secretary-top-official-of-anhui-succeeding-wang-xuejun-chen-quanguo-becomes-communist-party-secretary-o.md)
-_Context: Wang Jun, Xinjiang Uyghur Autonomous Region, Chen Quanguo, Zhang Chunxian, Communist Party Secretary, Wang Xuejun, Li Jinbin, Anhui, Inner Mongolia, Li Jiheng_
+_Context: Li Jinbin, Anhui, Chen Quanguo, Wang Xuejun, Wang Jun, Zhang Chunxian, Inner Mongolia, Li Jiheng, Xinjiang Uyghur Autonomous Region, Communist Party Secretary_
 
 ##### University of Texas at Austin
 ### [Scientists from the University of Texas at Austin postulate that the hominin fossil Lucy (Dinkinesh) died due to a fall from a tree. Paleoanthropologist Donald Johanson, who is credited with discovering and naming Lucy, disagrees. ](/news/2016/08/29/scientists-from-the-university-of-texas-at-austin-postulate-that-the-hominin-fossil-lucy-dinkinesh-died-due-to-a-fall-from-a-tree-paleoan.md)

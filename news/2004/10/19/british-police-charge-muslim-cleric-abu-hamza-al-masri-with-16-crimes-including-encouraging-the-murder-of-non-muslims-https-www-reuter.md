@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/19/british-police-charge-muslim-cleric-abu-hamza-a
 
 ### [2004-10-19](/news/2004/10/19/index.md)
 
-##### police
+##### Police
 #  British police charge Muslim cleric Abu Hamza al-Masri with 16 crimes, including encouraging the murder of non-Muslims. [https:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6543585 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))
 
 

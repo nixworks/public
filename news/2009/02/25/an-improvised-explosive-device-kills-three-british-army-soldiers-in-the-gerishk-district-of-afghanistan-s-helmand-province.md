@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/25/an-improvised-explosive-device-kills-three-brit
 
 ### [2009-02-25](/news/2009/02/25/index.md)
 
-##### improvised explosive device
+##### Improvised explosive device
 #  An improvised explosive device kills three British Army soldiers in the Gerishk District of Afghanistan's Helmand Province. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/13/a-typhoon-hits-south-korea-reportedly-killing-4
 
 ### [2003-09-13](/news/2003/09/13/index.md)
 
-##### typhoon
+##### Typhoon
 #  A typhoon hits South Korea, reportedly killing 42 people and leaving 24 missing.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/24/at-least-27-people-are-killed-in-an-al-qaeda-ra
 
 ### [2014-05-24](/news/2014/05/24/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # At least 27 people are killed in an al-Qaeda raid on the town of Seyoun in Hadramout province. 
 
 YEMEN-MILITANTS/RAID (UPDATE 1):UPDATE 1-At least 27 dead in overnight raid on Yemeni city

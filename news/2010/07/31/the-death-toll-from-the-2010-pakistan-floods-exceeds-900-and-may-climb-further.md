@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/31/the-death-toll-from-the-2010-pakistan-floods-ex
 
 ### [2010-07-31](/news/2010/07/31/index.md)
 
-##### devastating floods
+##### Devastating floods
 # The death toll from the 2010 Pakistan floods exceeds 900 and may climb further. 
 
 

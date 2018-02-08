@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/29/the-passenger-ferry-ms-king-seaways-en-route-fr
 
 ### [2013-12-29](/news/2013/12/29/index.md)
 
-##### passenger ferry
+##### Passenger ferry
 # The passenger ferry "MS King Seaways", en route from Newcastle, England, to Amsterdam in the Netherlands, catches fire in the North Sea; a man is arrested on suspicion of arson. 
 
 Two crew and four passengers evacuated by helicopter after fire forces Amsterdam-bound ferry to turn back to Newcastle

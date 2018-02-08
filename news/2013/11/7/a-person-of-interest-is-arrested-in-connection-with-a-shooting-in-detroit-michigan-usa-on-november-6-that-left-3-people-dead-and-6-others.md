@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/7/a-person-of-interest-is-arrested-in-connection-w
 
 ### [2013-11-7](/news/2013/11/7/index.md)
 
-##### person of interest
+##### Person of interest
 # A person of interest is arrested in connection with a shooting in Detroit, Michigan, USA, on November 6 that left 3 people dead and 6 others wounded. 
 
 A convicted felon who was wearing body armor when police arrested him in a Detroit suburb will be questioned in an investigation into the fatal shooting of three men in a back gambling room of an east side barbershop.

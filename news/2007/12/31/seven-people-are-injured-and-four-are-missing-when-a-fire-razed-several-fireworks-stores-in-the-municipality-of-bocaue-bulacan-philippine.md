@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/31/seven-people-are-injured-and-four-are-missing-w
 
 ### [2007-12-31](/news/2007/12/31/index.md)
 
-##### fire razed several fireworks stores
+##### Fire razed several fireworks stores
 #  Seven people are injured and four are missing when a fire razed several fireworks stores in the Municipality of Bocaue, Bulacan, Philippines.
 
 

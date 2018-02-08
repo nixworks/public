@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/8/the-spanish-royal-palace-announces-that-princess
 
 ### [2005-05-8](/news/2005/05/8/index.md)
 
-##### princess Letizia
+##### Princess Letizia
 #  The Spanish Royal Palace announces that princess Letizia is three months pregnant. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

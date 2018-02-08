@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/eli-reimer-aged-sixteen-becomes-the-first-teenag
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### teenager
+##### Teenager
 # Eli Reimer, aged sixteen, becomes the first teenager with Down syndrome to climb to Mount Everest's Base Camp. 
 
 One teenager has made history by being the first child with Down syndrome to climb to Mt. Everest’s base camp

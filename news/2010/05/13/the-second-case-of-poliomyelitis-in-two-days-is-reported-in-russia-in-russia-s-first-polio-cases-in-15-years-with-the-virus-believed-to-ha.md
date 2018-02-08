@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is
 
 ### [2010-05-13](/news/2010/05/13/index.md)
 
-##### polio
+##### Polio
 # The second case of poliomyelitis in two days is reported in Russia, in Russia's first polio cases in 15 years, with the virus believed to have come from Tajikistan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/12/an-air-strike-intended-to-target-an-al-qaeda-co
 
 ### [2013-12-12](/news/2013/12/12/index.md)
 
-##### al Qaeda
+##### Al Qaeda
 # An air strike intended to target an al Qaeda convoy in Al-Bayda province in central Yemen mistakenly attacks a wedding procession, killing 15 civilians. 
 
 Fifteen people on their way to a wedding in Yemen were killed in an air strike after their party was mistaken for an al Qaeda convoy, local security officials said on Thursday.

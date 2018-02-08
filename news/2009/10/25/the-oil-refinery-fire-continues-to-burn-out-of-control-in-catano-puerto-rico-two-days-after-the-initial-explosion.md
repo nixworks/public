@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-
 
 ### [2009-10-25](/news/2009/10/25/index.md)
 
-##### oil refinery fire
+##### Oil refinery fire
 #  The oil refinery fire continues to burn out of control in Catao, Puerto Rico, two days after the initial explosion. 
 
 

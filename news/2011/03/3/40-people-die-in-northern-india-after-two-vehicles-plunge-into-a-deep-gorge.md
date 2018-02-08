@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/3/40-people-die-in-northern-india-after-two-vehicl
 
 ### [2011-03-3](/news/2011/03/3/index.md)
 
-##### gorge
+##### Gorge
 # 40 people die in northern India after two vehicles plunge into a deep gorge. 
 
 

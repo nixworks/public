@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/11/a-rare-giant-panda-born-naturally-in-captivity-
 
 ### [2012-07-11](/news/2012/07/11/index.md)
 
-##### panda
+##### Panda
 # A rare giant panda born naturally in captivity at a Tokyo zoo dies after only six days, prompting widespread mourning in Japan. 
 
 

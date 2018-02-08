@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/28/first-step-in-russian-time-zone-reform-comes-in
 
 ### [2010-03-28](/news/2010/03/28/index.md)
 
-##### time zones
+##### Time zones
 # First step in Russian time zone reform comes into force. The number of time zones drops from 11 to 9, eliminating Samara Time and Kamchatka Time. 
 
 

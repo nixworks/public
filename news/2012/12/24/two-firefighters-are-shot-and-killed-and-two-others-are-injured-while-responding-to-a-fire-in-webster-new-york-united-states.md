@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/24/two-firefighters-are-shot-and-killed-and-two-ot
 
 ### [2012-12-24](/news/2012/12/24/index.md)
 
-##### shot and killed and two others are injured
+##### Shot and killed and two others are injured
 # Two firefighters are shot and killed and two others are injured while responding to a fire in Webster, New York, United States. 
 
 A gunman shot dead two volunteerfirefighters and injured two others when he ambushed them at thescene of an early morning housefire in a suburb of Rochester,New York, authorities said on Monday.

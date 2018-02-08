@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/18/20-boys-die-after-botched-circumcisions-in-sout
 
 ### [2010-06-18](/news/2010/06/18/index.md)
 
-##### circumcisions
+##### Circumcisions
 # 20 boys die after botched circumcisions in South Africa over the past 12 days, nine of the deaths occurring within the last 24 hours. 
 
 Twenty South African boys die after botched circumcisions and 60 are taken to hospital, officials say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/9/a-train-derails-at-a-station-in-the-town-of-o-po
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
-##### train derails
+##### Train derails
 # A train derails at a station in the town of O Porrino in Galicia, Spain, killing at least four people. 
 
 

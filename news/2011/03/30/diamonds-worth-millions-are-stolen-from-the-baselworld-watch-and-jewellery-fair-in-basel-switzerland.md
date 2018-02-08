@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-bas
 
 ### [2011-03-30](/news/2011/03/30/index.md)
 
-##### diamond
+##### Diamond
 # Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. 
 
 Four diamonds worth millions of pounds have been stolen from the world&#039;s biggest watch and jewellery fair in the Swiss city of Basel.

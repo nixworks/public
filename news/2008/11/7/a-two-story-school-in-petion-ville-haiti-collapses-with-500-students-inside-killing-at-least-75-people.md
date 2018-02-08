@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/7/a-two-story-school-in-petion-ville-haiti-collaps
 
 ### [2008-11-7](/news/2008/11/7/index.md)
 
-##### school
+##### School
 #  A two-story school in Ption-Ville, Haiti, collapses with 500 students inside, killing at least 75 people. 
 
 AU-PRINCE (Reuters) - The death toll rose to at least 75 on Saturday in the collapse of a ramshackle church school in Haiti when rescue workers uncovered a room with 17 dead, many of them children, officials said.

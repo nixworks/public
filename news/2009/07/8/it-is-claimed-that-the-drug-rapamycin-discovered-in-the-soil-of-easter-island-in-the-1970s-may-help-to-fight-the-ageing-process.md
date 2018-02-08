@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/8/it-is-claimed-that-the-drug-rapamycin-discovered
 
 ### [2009-07-8](/news/2009/07/8/index.md)
 
-##### rapamycin
+##### Rapamycin
 #  It is claimed that the drug rapamycin, discovered in the soil of Easter Island in the 1970s, may help to fight the ageing process. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/24/two-mass-graves-containing-the-remains-of-commu
 
 ### [2009-08-24](/news/2009/08/24/index.md)
 
-##### communist soldiers
+##### Communist soldiers
 #  Two mass graves containing the remains of communist soldiers dating from the Vietnam War are discovered in central Vietnam. 
 
 

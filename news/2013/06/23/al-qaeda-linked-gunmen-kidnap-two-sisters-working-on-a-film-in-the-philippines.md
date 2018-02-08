@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/23/al-qaeda-linked-gunmen-kidnap-two-sisters-worki
 
 ### [2013-06-23](/news/2013/06/23/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Al-Qaeda-linked gunmen kidnap two sisters working on a film in the Philippines 
 
 Al Qaeda-linked militants have snatched two sisters who had gone to a dangerous part of the Philippines to make a film.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/29/at-least-13-people-are-confirmed-dead-after-the
 
 ### [2013-10-29](/news/2013/10/29/index.md)
 
-##### northern Europe
+##### Northern Europe
 # At least 13 people are confirmed dead after the storm hits northern Europe. 
 
 A once-in-a-decade storm claims lives in the Netherlands, France, Germany and southern England.

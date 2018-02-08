@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/23/an-explosion-at-a-chemical-factory-on-the-songh
 
 ### [2005-11-23](/news/2005/11/23/index.md)
 
-##### explosion at a chemical factory
+##### Explosion at a chemical factory
 #  An explosion at a chemical factory on the Songhua River in northeastern China releases high levels of benzene into the river water. Authorities shut off the water supply for the downstream city of Harbin. 
 
 

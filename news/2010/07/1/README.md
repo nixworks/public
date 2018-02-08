@@ -11,13 +11,13 @@ Methodist Church rejects products from the West Bank.
 ### [11 Kurdish, a soldier and three members of a Kurdish militia, part of the security forces, are killed in clashes in southeast Turkey, reports Anatolia news agency. ](/news/2010/07/1/11-kurdish-a-soldier-and-three-members-of-a-kurdish-militia-part-of-the-security-forces-are-killed-in-clashes-in-southeast-turkey-report.md)
 Eleven Kurdish rebels, a soldier and three members of a Kurdish militia, part of the security forces, were killed in clashes in southeast Turkey, Anatol...
 
-##### yesterday's bombings of Data Darbar in Lahore
+##### Yesterday's bombings of Data Darbar in Lahore
 ### [At least 42 people are killed and at least 175 are injured in three suicide bomb explosions at the Data Darbar Sufi shrine in Lahore. ](/news/2010/07/1/at-least-42-people-are-killed-and-at-least-175-are-injured-in-three-suicide-bomb-explosions-at-the-data-darbar-sufi-shrine-in-lahore.md)
 At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
 ##### Somalia
 ### [Somali President Sharif Ahmed joins Somali troops on the front line during battles on the 50 th anniversary of the country's independence. ](/news/2010/07/1/somali-president-sharif-ahmed-joins-somali-troops-on-the-front-line-during-battles-on-the-50-th-anniversary-of-the-country-s-independence.md)
-_Context: Somalia, President, Sharif Ahmed_
+_Context: President, Somalia, Sharif Ahmed_
 
 ##### Senegal
 ### [Millions of people in Senegal mourn the death of Grand Marabout of the Mourides, Serigne Mouhamadou Lamine Bara Mbacke. ](/news/2010/07/1/millions-of-people-in-senegal-mourn-the-death-of-grand-marabout-of-the-mourides-serigne-mouhamadou-lamine-bara-mbacka-c.md)
@@ -51,9 +51,9 @@ Pyongyang wants new investigation into deadly sinking of South Korean frigate.
 ### [The Afghan government calls for an international inquiry amid what it sees as "unjust" claims made by Nita Lowey, current chair of the House Appropriations Committee in the United States, that suitcases of cash are being flown out of the country. The United States blocks billions of dollars of aid due to Lowey's claims. ](/news/2010/07/1/the-afghan-government-calls-for-an-international-inquiry-amid-what-it-sees-as-unjust-claims-made-by-nita-lowey-current-chair-of-the-house.md)
 _Context: House Appropriations Committee, Nita Lowey_
 
-##### drug
+##### Drug
 ### [More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. ](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.md)
-_Context: Tibet, dancing outreach, ketamine, methamphetamine hydrochloride, Lhasa, drug, morphine, opium_
+_Context: dancing outreach, opium, Lhasa, morphine, drug, Tibet, methamphetamine hydrochloride, ketamine_
 
 ##### Hong Kong
 ### [An estimated 52,000 people took part in anti-government protests in the former British colony of Hong Kong. ](/news/2010/07/1/an-estimated-52-000-people-took-part-in-anti-government-protests-in-the-former-british-colony-of-hong-kong.md)
@@ -67,7 +67,7 @@ _Context: United Kingdom_
 
 ##### Pierre Nkurunziza
 ### [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md)
-_Context: presidential election, Burundi, President, Pierre Nkurunziza_
+_Context: Pierre Nkurunziza, Burundi, presidential election, President_
 
 ##### Parliament of Finland
 ### [The Parliament of Finland approves the construction of two nuclear power stations. ](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.md)
@@ -85,7 +85,7 @@ Kenyan MPs vote to increase their salaries by 18%, making them among the best-pa
 ### [Fossils discovered at the Franceville site in Gabon are claimed to be evidence that multicellular life on Earth began at least 1.5 billion years earlier than currently reckoned. ](/news/2010/07/1/fossils-discovered-at-the-franceville-site-in-gabon-are-claimed-to-be-evidence-that-multicellular-life-on-earth-began-at-least-1-5-billion-y.md)
 Scientists report the discovery of centimetre-sized fossils that may be the earliest known examples of multicellular life.
 
-##### star
+##### Star
 ### [Astronomers confirm the first-ever direct picture of an extrasolar planet orbiting its star. ](/news/2010/07/1/astronomers-confirm-the-first-ever-direct-picture-of-an-extrasolar-planet-orbiting-its-star.md)
 A team of astronomers says it holds bragging rights to releasing the first ever direct picture of an alien planet around a sunlike star.
 

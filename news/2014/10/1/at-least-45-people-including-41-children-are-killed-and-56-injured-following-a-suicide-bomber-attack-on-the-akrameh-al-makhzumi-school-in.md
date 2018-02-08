@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/1/at-least-45-people-including-41-children-are-kil
 
 ### [2014-10-1](/news/2014/10/1/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # At least 45 people (including 41 children) are killed and 56 injured following a suicide bomber attack on the Akrameh al-Makhzumi school in Homs. 
 
 At least 30 Syrian children have been killed in a double bombing by a lone assailant at a school in the government-controlled city of Homs, a monitor has said.

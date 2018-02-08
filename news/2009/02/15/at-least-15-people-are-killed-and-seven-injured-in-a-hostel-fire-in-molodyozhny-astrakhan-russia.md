@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/15/at-least-15-people-are-killed-and-seven-injured
 
 ### [2009-02-15](/news/2009/02/15/index.md)
 
-##### hostel
+##### Hostel
 #  At least 15 people are killed and seven injured in a hostel fire in Molodyozhny, Astrakhan, Russia. 
 
 At least 15 people died and seven were injured when a three-storey wooden hostel erupted in flames in southern Russia, local emergency officials say.

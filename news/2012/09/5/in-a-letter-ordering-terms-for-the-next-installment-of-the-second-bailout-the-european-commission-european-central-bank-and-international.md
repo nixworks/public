@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/5/in-a-letter-ordering-terms-for-the-next-installm
 
 ### [2012-09-5](/news/2012/09/5/index.md)
 
-##### second bailout
+##### Second bailout
 # In a letter ordering terms for the next installment of the second bailout, the European Commission, European Central Bank and International Monetary Fund ("the troika") want Greece to raise the maximum amount of weekly work days to six. Prime Minister of the Netherlands Mark Rutte rules out a third bailout loan. Diederik Samsom of the Labour Party, excludes Greece from leaving the eurozone; he mentions tutelage. 
 
 

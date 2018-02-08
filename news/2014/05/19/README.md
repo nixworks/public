@@ -13,7 +13,7 @@ Russia said President Vladimir V. Putin had ordered troops to leave border areas
 
 ##### AstraZeneca
 ### [AstraZeneca rejects the latest, and likely the last, takeover price from Pfizer, close to 70 billion pounds or US$118 billion. ](/news/2014/05/19/astrazeneca-rejects-the-latest-and-likely-the-last-takeover-price-from-pfizer-close-to-70-billion-pounds-or-us-118-billion.md)
-_Context: Pfizer, AstraZeneca_
+_Context: AstraZeneca, Pfizer_
 
 ##### Park Geun-Hye
 ### [Park Geun-Hye, the President of South Korea, announces that the Republic of Korea Coast Guard will be broken up in the wake of the ferry disaster. ](/news/2014/05/19/park-geun-hye-the-president-of-south-korea-announces-that-the-republic-of-korea-coast-guard-will-be-broken-up-in-the-wake-of-the-ferry-dis.md)
@@ -33,11 +33,11 @@ The US charges five Chinese army officers with hacking into private-sector compa
 
 ##### Saudi Arabia
 ### [Saudi Arabia closes its embassy in Tripoli over security concerns in Libya. ](/news/2014/05/19/saudi-arabia-closes-its-embassy-in-tripoli-over-security-concerns-in-libya.md)
-_Context: Saudi Arabia, Tripoli, Libya_
+_Context: Saudi Arabia, Libya, Tripoli_
 
-##### same-sex couples
+##### Same-sex couples
 ### [Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-u-s-federal-district-court-judge-rules-that-the-state-s-ban-on-such-marriages-violates-equal.md)
-_Context: same-sex couples, Oregon, Constitution_
+_Context: Constitution, same-sex couples, Oregon_
 
 ##### Egypt
 ### [An Egyptian court acquits 169 Muslim Brotherhood members for charges relating to unrest that followed the ousting of former Egyptian President Mohamed Morsi. ](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.md)

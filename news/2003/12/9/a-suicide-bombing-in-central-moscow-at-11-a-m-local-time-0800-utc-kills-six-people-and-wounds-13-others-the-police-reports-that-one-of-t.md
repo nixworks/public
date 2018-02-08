@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/9/a-suicide-bombing-in-central-moscow-at-11-a-m-lo
 
 ### [2003-12-9](/news/2003/12/9/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing in central Moscow at 11 a.m. local time (0800 UTC) kills six people and wounds 13 others. The police reports that one of the dead bombers has been identified as a woman. [http:--www.reuters.co.uk-newsPackageArticle.jhtml;jsessionid=NQGNBFDUPS5L2CRBAEKSFEY?type=worldNews&storyID=418934&section=news]
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/8/at-least-13-people-are-killed-and-at-least-35-ar
 
 ### [2009-11-8](/news/2009/11/8/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  At least 13 people are killed and at least 35 are injured in a suicide attack in Adezai, Pakistan. 
 
 Taliban ally-turned-enemy among victims of suicide attack near Peshawar in the northwest.

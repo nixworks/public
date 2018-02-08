@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/10/iraqi-police-announce-they-have-found-a-total-o
 
 ### [2006-10-10](/news/2006/10/10/index.md)
 
-##### insurgents
+##### Insurgents
 #  Iraqi police announce they have found a total of 110 corpses at locations across Baghdad in the previous 48 hours, thought to be more victims of insurgent death squads. In addition, a bomb planted under a car explodes in the city's southern district of Doura, killing 10 people. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -3,7 +3,7 @@ Formats: [HTML](2017/12/31/index.html)  [JSON](2017/12/31/index.json)  [XML](201
 
 ## [2017-12-31](/news/2017/12/31/index.md)
 
-##### fireworks
+##### Fireworks
 ### [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md)
 Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.
 
@@ -15,13 +15,13 @@ The aircraft is totally submerged and casualties reportedly include an 11-year-o
 ### [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md)
 A U.S. State Department spokesperson told CBS News that they are aware of the crash and are monitoring the situation
 
-##### fire
+##### Fire
 ### [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md)
 Witnesses said cars seemed to explode every couple of seconds when the fire was at its peak
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Antonio Guterres issues "a red alert for our world," saying that conflicts have deepened, global anxieties about nuclear weapons have increased, inequalities have grown, and nationalism and xenophobia are on the rise. Guterres calls for global unity to overcome these growing challenges. ](/news/2017/12/31/united-nations-secretary-general-anta3nio-guterres-issues-a-red-alert-for-our-world-saying-that-conflicts-have-deepened-global-anxieties.md)
-_Context: nuclear weapon, United Nations Secretary-General, xenophobia, Antonio Guterres, nationalism_
+_Context: United Nations Secretary-General, xenophobia, Antonio Guterres, nationalism, nuclear weapon_
 
 ##### Copper Canyon Apartment Homes shooting
 ### [Five Douglas County, Colorado sheriff's deputies are shot, one fatally, and two civilians are injured at a domestic disturbance call. The suspect was also killed. ](/news/2017/12/31/five-douglas-county-colorado-sheriff-s-deputies-are-shot-one-fatally-and-two-civilians-are-injured-at-a-domestic-disturbance-call-the-su.md)
@@ -37,11 +37,11 @@ The film superstar says he will form a party to &quot;change the political syste
 
 ##### 2017 Iranian protests
 ### [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md)
-_Context: Iran, since 2009, Instagram, 2017 Iranian protests, Telegram_
+_Context: since 2009, 2017 Iranian protests, Iran, Telegram, Instagram_
 
 ##### Palestine-United States relations
 ### [Palestine recalls their envoy to the United States for "consultations," following President Trump's recognition of Jerusalem as the capital of Israel. Palestine President Mahmoud Abbas says they will not accept any U.S. peace plan in the wake of Trump's move. ](/news/2017/12/31/palestine-recalls-their-envoy-to-the-united-states-for-consultations-following-president-trump-s-recognition-of-jerusalem-as-the-capital.md)
-_Context: peace plan, Donald Trump, Jerusalem, Mahmoud Abbas, President of the State of Palestine, U.S. President, Palestine-United States relations_
+_Context: U.S. President, Palestine-United States relations, President of the State of Palestine, Mahmoud Abbas, Donald Trump, Jerusalem, peace plan_
 
 ## [Previous Day...](/news/2017/12/30/index.md)
 

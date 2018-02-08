@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/20/the-yushu-earthquake-death-toll-rises-to-2-046.
 
 ### [2010-04-20](/news/2010/04/20/index.md)
 
-##### an earthquake struck on 14 April
+##### An earthquake struck on 14 April
 # The Yushu earthquake death toll rises to 2,046. 
 
 Nearly 200 people still missing in Qinghai as government declares day of mourning.

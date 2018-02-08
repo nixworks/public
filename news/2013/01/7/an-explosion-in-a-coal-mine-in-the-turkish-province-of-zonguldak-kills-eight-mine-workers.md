@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/7/an-explosion-in-a-coal-mine-in-the-turkish-provi
 
 ### [2013-01-7](/news/2013/01/7/index.md)
 
-##### coal mine
+##### Coal mine
 # An explosion in a coal mine in the Turkish province of Zonguldak kills eight mine workers. 
 
 Eight mine workers were killed yesterday due to a gas leak at a coal mine in the Black Sea province of Zonguldak, Turkey’s coal capital. 

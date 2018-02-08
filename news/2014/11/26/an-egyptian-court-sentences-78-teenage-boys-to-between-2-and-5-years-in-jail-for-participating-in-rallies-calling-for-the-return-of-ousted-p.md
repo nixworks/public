@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/26/an-egyptian-court-sentences-78-teenage-boys-to-
 
 ### [2014-11-26](/news/2014/11/26/index.md)
 
-##### criminal court
+##### Criminal court
 # An Egyptian court sentences 78 teenage boys to between 2 and 5 years in jail for participating in rallies calling for the return of ousted President Mohammed Mursi. 
 
 Since the army ousted president Mohammed Mursi, the government has launched a bloody crackdown against his supporters.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/5/2010a2011-tunisian-uprising-tunisian-police-shoo
 
 ### [2011-02-5](/news/2011/02/5/index.md)
 
-##### recent unrest
+##### Recent unrest
 # 2010-2011 Tunisian uprising: Tunisian police shoot dead two people and injure another 17 during a protest in the city of El Kef. 
 
 Tunisian police kill at least two people in the north-western town of Kef, during an attack on the local police station by protesters.

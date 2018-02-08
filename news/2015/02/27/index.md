@@ -15,7 +15,7 @@ _Context: Star Trek, Leonard Nimoy, COPD, Spock_
 ### [Avijit Roy, an American writer and blogger from Bangladesh, is hacked to death by unknown attackers in Dhaka. ](/news/2015/02/27/avijit-roy-an-american-writer-and-blogger-from-bangladesh-is-hacked-to-death-by-unknown-attackers-in-dhaka.md)
 Hardline Islamist groups have long demanded the public execution of atheist bloggers and sought new laws to combat writing critical of Islam
 
-##### a series of shootings
+##### A series of shootings
 ### [A gunman kills seven people then himself in a series of shootings in Tyrone, Missouri. ](/news/2015/02/27/a-gunman-kills-seven-people-then-himself-in-a-series-of-shootings-in-tyrone-missouri.md)
 Nine people are dead, including the gunman, in a shooting spree across multiple locations in the rural southern Missouri community of Tyrone.
 
@@ -23,7 +23,7 @@ Nine people are dead, including the gunman, in a shooting spree across multiple 
 ### [In Moscow, an unidentified attacker assassinates leading Russian opposition politician Boris Nemtsov, the former Deputy Chairman of the Government of the Russian Federation and current member of regional parliament of Yaroslavl Oblast. ](/news/2015/02/27/in-moscow-an-unidentified-attacker-assassinates-leading-russian-opposition-politician-boris-nemtsov-the-former-deputy-chairman-of-the-gove.md)
 A leading Russian opposition politician Boris Nemtsov has been shot dead in Moscow. According to several Russian news agencies, the 56-year-old
 
-##### shoots and kills
+##### Shoots and kills
 ### [An elderly man shoots and kills three people and then himself in the South Korean city of Hwaseong. ](/news/2015/02/27/an-elderly-man-shoots-and-kills-three-people-and-then-himself-in-the-south-korean-city-of-hwaseong.md)
  Four people were dead on Friday after a gunman armed with a hunting rifle opened fire inside a home in this city south of Seoul, authorities said.
 

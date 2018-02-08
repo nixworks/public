@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/30/a-power-grid-failure-in-delhi-leaves-more-than-
 
 ### [2012-07-30](/news/2012/07/30/index.md)
 
-##### power grid failure
+##### Power grid failure
 # A power grid failure in Delhi leaves more than 300 million people without power in northern India. Minister for Power Sushilkumar Shinde announces that all those affected should have power restored within "hours". 
 
 A massive grid failure inDelhi and much of northern India left more than 300 millionpeople without electricity on Monday in one of the worstblackouts to hit the country in more than a decade.

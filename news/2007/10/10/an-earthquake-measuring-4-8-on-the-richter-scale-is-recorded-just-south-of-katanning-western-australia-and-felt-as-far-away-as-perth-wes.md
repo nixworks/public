@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/10/an-earthquake-measuring-4-8-on-the-richter-scal
 
 ### [2007-10-10](/news/2007/10/10/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake measuring 4.8 on the Richter scale is recorded just south of Katanning, Western Australia, and felt as far away as Perth, Western Australia. 
 
 

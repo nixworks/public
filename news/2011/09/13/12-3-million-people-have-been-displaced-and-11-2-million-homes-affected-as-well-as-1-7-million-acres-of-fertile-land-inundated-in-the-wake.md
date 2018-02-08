@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/13/12-3-million-people-have-been-displaced-and-11-
 
 ### [2011-09-13](/news/2011/09/13/index.md)
 
-##### monsoon
+##### Monsoon
 # 12.3 million people have been displaced and 11.2 million homes affected, as well as 1.7 million acres of fertile land inundated, in the wake of the monsoonal 2011 Sindh floods in Pakistan. The death toll from the flooding currently stands at 270. 
 
 Fresh rains compound miseries of survivors in Sindh; meteorologist terms figures ‘51-year record’.

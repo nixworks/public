@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/13/a-bar-of-radioactive-cobalt-60-found-in-a-new-d
 
 ### [2010-04-13](/news/2010/04/13/index.md)
 
-##### cobalt-60
+##### Cobalt-60
 # A bar of radioactive cobalt-60 found in a New Dehli market causes life-threatening radiation sickness in one person and contingency measures from the authorities. 
 
 

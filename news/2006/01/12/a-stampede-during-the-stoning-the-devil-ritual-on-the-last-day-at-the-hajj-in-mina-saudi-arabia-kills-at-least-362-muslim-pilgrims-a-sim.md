@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/12/a-stampede-during-the-stoning-the-devil-ritual-
 
 ### [2006-01-12](/news/2006/01/12/index.md)
 
-##### disaster
+##### Disaster
 #  A stampede during the Stoning the Devil ritual on the last day at the Hajj in Mina, Saudi Arabia, kills at least 362 Muslim pilgrims. A similar crush claimed 244 pilgrims' lives at the same spot in 2004. 
 
 

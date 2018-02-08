@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment
 
 ### [2009-05-16](/news/2009/05/16/index.md)
 
-##### demonstration
+##### Demonstration
 #  Thousands of demonstrators protest unemployment in Berlin, Germany. 
 
 Thousands of German workers marched through Berlin today to demand the government do more to protect jobs, highlighting popular&hellip;

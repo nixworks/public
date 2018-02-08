@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/28/japan-s-national-credit-rating-is-dropped-to-aa
 
 ### [2011-01-28](/news/2011/01/28/index.md)
 
-##### national credit rating
+##### National credit rating
 # Japan's national credit rating is dropped to AA- by Standard & Poor's. 
 
 

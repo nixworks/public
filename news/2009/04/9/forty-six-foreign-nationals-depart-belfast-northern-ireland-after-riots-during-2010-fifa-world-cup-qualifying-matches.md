@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/9/forty-six-foreign-nationals-depart-belfast-north
 
 ### [2009-04-9](/news/2009/04/9/index.md)
 
-##### foreign national
+##### Foreign national
 #  Forty-six foreign nationals depart Belfast, Northern Ireland, after riots during 2010 FIFA World Cup qualifying matches. 
 
 

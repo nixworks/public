@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/22/voters-in-france-go-to-the-polls-for-the-first-
 
 ### [2015-03-22](/news/2015/03/22/index.md)
 
-##### local government elections
+##### Local government elections
 # Voters in France go to the polls for the first round of voting in local government elections. Exit polls show the conservative UMP in first place, Marine Le Pen's National Front in second, with President Francois Hollande's French Socialist Party in third. 
 
 Former president Nicolas Sarkozy&#39;s conservative UMP party and their allies lead in the first round of French local elections, denying Marine Le Pen&#39;s far-right National Front (FN) first place.

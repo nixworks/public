@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/22/in-response-to-an-outbreak-of-an-unidentified-f
 
 ### [2012-04-22](/news/2012/04/22/index.md)
 
-##### outbreak of an unidentified fatal disease
+##### Outbreak of an unidentified fatal disease
 # In response to an outbreak of an unidentified fatal disease in Quang Ngai province, Vietnam, the Vietnamese government asks for help from the World Health Organization. 
 
 Vietnam has asked the World Health Organization to help investigate a mystery disease that has killed 19 people and sickened 171 others.

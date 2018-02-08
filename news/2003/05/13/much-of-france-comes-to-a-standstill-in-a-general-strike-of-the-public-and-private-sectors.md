@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/13/much-of-france-comes-to-a-standstill-in-a-gener
 
 ### [2003-05-13](/news/2003/05/13/index.md)
 
-##### strike
+##### Strike
 #  Much of France comes to a standstill in a general strike of the public and private sectors.
 
 

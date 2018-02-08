@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/21/a-war-crimes-tribunal-trying-those-accused-of-c
 
 ### [2013-01-21](/news/2013/01/21/index.md)
 
-##### war crimes
+##### War crimes
 # A war crimes tribunal trying those accused of crimes during the 1971 Bangladesh Liberation War sentences Abul Kalam Azad (Bachchu Razakar) to death. 
 
 The war crimes tribunal trying those accused of committing atrocities during the Bangladesh liberation war in 1971 pronounced its first verdict on Monday, awarding death sentence to a former Jamaat-e-

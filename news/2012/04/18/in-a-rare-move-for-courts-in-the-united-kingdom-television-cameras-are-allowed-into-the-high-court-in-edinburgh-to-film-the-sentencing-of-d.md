@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/18/in-a-rare-move-for-courts-in-the-united-kingdom
 
 ### [2012-04-18](/news/2012/04/18/index.md)
 
-##### the High Court in Edinburgh
+##### The High Court in Edinburgh
 # In a rare move for courts in the United Kingdom, television cameras are allowed into the High Court in Edinburgh to film the sentencing of David Gilroy for the murder of Suzanne Pilley. 
 
 

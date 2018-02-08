@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/4/fijian-troops-take-over-the-headquarters-of-the-
 
 ### [2006-12-4](/news/2006/12/4/index.md)
 
-##### military government
+##### Military government
 #  Fijian troops take over the headquarters of the armed police division, occupy the main police station in Suva, and surround a police academy in an escalation of the 2006 Fijian coup d'tat plot. 
 
 

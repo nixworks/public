@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/31/a-roadside-bomb-kills-4-united-states-troops-in
 
 ### [2010-08-31](/news/2010/08/31/index.md)
 
-##### bomb
+##### Bomb
 # A roadside bomb kills 4 United States troops in eastern Afghanistan. 
 
 

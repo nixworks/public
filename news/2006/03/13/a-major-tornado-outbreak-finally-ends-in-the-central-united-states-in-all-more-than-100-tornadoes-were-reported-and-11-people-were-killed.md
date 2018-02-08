@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/13/a-major-tornado-outbreak-finally-ends-in-the-ce
 
 ### [2006-03-13](/news/2006/03/13/index.md)
 
-##### major tornado outbreak
+##### Major tornado outbreak
 #  A major tornado outbreak finally ends in the central United States. In all, more than 100 tornadoes were reported and 11 people were killed. Two tornadoes hit Springfield, Illinois, late on the 12th, causing major damage to the city.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/10/hundreds-of-nude-cyclists-take-to-the-street-in
 
 ### [2012-03-10](/news/2012/03/10/index.md)
 
-##### cyclist
+##### Cyclist
 # Hundreds of nude cyclists take to the street in Lima, Peru to protest unsafe road conditions. 
 
 

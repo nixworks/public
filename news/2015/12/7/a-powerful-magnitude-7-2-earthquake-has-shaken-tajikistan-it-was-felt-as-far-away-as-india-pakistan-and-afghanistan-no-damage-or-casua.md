@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/a-powerful-magnitude-7-2-earthquake-has-shaken-t
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### earthquake
+##### Earthquake
 #  A powerful, magnitude 7.2 earthquake has shaken Tajikistan. It was felt as far away as India, Pakistan, and Afghanistan. No damage or casualties have been reported as the epicenter lies within the vast Badakhshan national park. The US Geological Survey describes the area as one of the "most seismically hazardous regions on Earth" because of tectonic activity along shifting fault lines. 
 
 A magnitude 7.2 earthquake has hit Tajikistan, according to the US Geological Survey. It struck at 7.50am today with an epicentre in the Gorno-Badakhshan Autonomous Region, around 70 miles west of the city of Murghob, seismologists said. Tremors were felt in Delhi, as well as in Punjab, Uttar Pradesh and across northern India. Hundreds of people ran out of shaking buildings and stayed out on the streets fearing aftershocks, NDTV reported.

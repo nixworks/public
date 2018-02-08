@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/6/islamic-extremists-kill-42-people-mainly-student
 
 ### [2013-07-6](/news/2013/07/6/index.md)
 
-##### kill 42 people
+##### Kill 42 people
 # Islamic extremists kill 42 people, mainly students, in an attack on the Government Secondary School boarding school in the Nigerian town of Mamudo in Yobe state. 
 
 

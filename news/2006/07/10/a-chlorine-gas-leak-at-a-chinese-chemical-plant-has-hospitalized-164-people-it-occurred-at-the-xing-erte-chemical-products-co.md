@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/10/a-chlorine-gas-leak-at-a-chinese-chemical-plant
 
 ### [2006-07-10](/news/2006/07/10/index.md)
 
-##### chlorine gas
+##### Chlorine gas
 #  A chlorine gas leak at a Chinese chemical plant has hospitalized 164 people. It occurred at the Xing'erte Chemical Products Co. 
 
 A chlorine gas leak at a Chinese chemical plant sends 164 people to the hospital, a government news agency reports.

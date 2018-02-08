@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/22/at-least-15-people-are-killed-when-a-dam-collap
 
 ### [2005-07-22](/news/2005/07/22/index.md)
 
-##### dam
+##### Dam
 #  At least 15 people are killed when a dam collapses in south-west China. 
 
 

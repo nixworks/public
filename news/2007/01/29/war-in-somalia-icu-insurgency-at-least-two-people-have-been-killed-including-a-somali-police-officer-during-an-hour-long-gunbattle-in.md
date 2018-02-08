@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/29/war-in-somalia-icu-insurgency-at-least-two-peop
 
 ### [2007-01-29](/news/2007/01/29/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia (ICU insurgency): At least two people have been killed, including a Somali police officer, during an hour-long gunbattle in the capital, Mogadishu. 
 
 

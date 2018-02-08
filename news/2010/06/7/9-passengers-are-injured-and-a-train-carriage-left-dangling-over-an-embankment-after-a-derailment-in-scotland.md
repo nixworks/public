@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/7/9-passengers-are-injured-and-a-train-carriage-le
 
 ### [2010-06-7](/news/2010/06/7/index.md)
 
-##### derailment
+##### Derailment
 # 9 passengers are injured and a train carriage left dangling over an embankment after a derailment in Scotland. 
 
 

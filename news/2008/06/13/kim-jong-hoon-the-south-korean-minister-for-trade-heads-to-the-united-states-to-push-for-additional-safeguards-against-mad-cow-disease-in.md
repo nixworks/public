@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/13/kim-jong-hoon-the-south-korean-minister-for-tra
 
 ### [2008-06-13](/news/2008/06/13/index.md)
 
-##### mad cow disease
+##### Mad cow disease
 #  Kim Jong-hoon, the South Korean Minister for Trade, heads to the United States to push for additional safeguards against mad cow disease in talks with Susan Schwab, the United States Trade Representative as protests continue in South Korea over the decision to resume importing beef from the United States. 
 
 

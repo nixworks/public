@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/8/a-series-of-avalanches-at-the-salang-tunnel-in-a
 
 ### [2010-02-8](/news/2010/02/8/index.md)
 
-##### series of avalanches
+##### Series of avalanches
 # A series of avalanches at the Salang tunnel in Afghanistan is presumed to kill 64 people, with at least 400 injuries reported. 
 
 The authorities said a sudden storm with heavy wind and rain set off waves of snow that buried two miles of a highway and left cars trapped in a tunnel.

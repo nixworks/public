@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested
 
 ### [2014-06-30](/news/2014/06/30/index.md)
 
-##### senators
+##### Senators
 # Philippines Senator Jinggoy Estrada is arrested for alleged corruption. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/20/the-death-toll-from-the-2007-zasyadko-mine-disa
 
 ### [2007-11-20](/news/2007/11/20/index.md)
 
-##### twelve days earlier
+##### Twelve days earlier
 #  The death toll from the 2007 Zasyadko mine disaster rises to at least 90. 
 
 

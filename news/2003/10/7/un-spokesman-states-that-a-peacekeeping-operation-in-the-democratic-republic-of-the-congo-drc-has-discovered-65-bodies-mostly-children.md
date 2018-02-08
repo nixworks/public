@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/7/un-spokesman-states-that-a-peacekeeping-operatio
 
 ### [2003-10-7](/news/2003/10/7/index.md)
 
-##### peacekeeping operation
+##### Peacekeeping operation
 #  UN spokesman states that a peacekeeping operation in the Democratic Republic of the Congo (DRC) has discovered 65 bodies, mostly children, apparently massacred.
 
 

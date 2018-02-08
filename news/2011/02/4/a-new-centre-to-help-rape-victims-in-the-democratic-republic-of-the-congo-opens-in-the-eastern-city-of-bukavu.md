@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/4/a-new-centre-to-help-rape-victims-in-the-democra
 
 ### [2011-02-4](/news/2011/02/4/index.md)
 
-##### rape
+##### Rape
 # A new centre to help rape victims in the Democratic Republic of the Congo opens in the eastern city of Bukavu. 
 
 A new centre opens designed to help some of the thousands of people who have been raped in DR Congo.

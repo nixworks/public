@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/15/the-death-toll-from-yesterday-s-flash-floods-in
 
 ### [2015-09-15](/news/2015/09/15/index.md)
 
-##### flash floods
+##### Flash floods
 # The death toll from yesterday's flash floods in the American towns of Hildale, Utah, and Colorado City, Arizona, rises to 12 with one person still missing. 
 
 Flash flooding triggered by a strong thunderstorm killed at least 12 people in southern Utah, authorities said early Tuesday.

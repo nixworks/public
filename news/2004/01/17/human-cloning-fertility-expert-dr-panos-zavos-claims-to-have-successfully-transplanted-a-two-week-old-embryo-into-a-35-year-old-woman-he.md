@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/17/human-cloning-fertility-expert-dr-panos-zavos-c
 
 ### [2004-01-17](/news/2004/01/17/index.md)
 
-##### cloned human
+##### Cloned human
 #  Human cloning: Fertility expert Dr. Panos Zavos claims to have successfully transplanted a two-week-old embryo into a 35-year-old woman. He said he had not done the act anywhere where "the spirit of the law" was against such a procedure.
 
 

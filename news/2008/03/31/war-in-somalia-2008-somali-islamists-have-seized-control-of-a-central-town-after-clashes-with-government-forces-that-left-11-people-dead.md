@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/31/war-in-somalia-2008-somali-islamists-have-seize
 
 ### [2008-03-31](/news/2008/03/31/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia (2008): Somali Islamists have seized control of a central town after clashes with government forces that left 11 people dead, residents and Islamists said. 
 
 

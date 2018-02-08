@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/29/a-magnitude-7-0-earthquake-hits-off-the-coast-o
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 7.0 earthquake hits off the coast of the Vanuatu island of Malakula, prompting the Pacific Tsunami Warning Center (PTWC) to issue a tsunami warning for the coasts of New Caledonia, Papua New Guinea, Solomon Islands and Vanuatu, which was later cancelled. 
 
 A tsunami warning issued after a shallow magnitude-7.0 earthquake struck the Vanuatu island of Malekula is cancelled.

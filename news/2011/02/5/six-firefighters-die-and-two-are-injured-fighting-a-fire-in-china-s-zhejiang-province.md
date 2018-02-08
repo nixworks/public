@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fightin
 
 ### [2011-02-5](/news/2011/02/5/index.md)
 
-##### firefighter
+##### Firefighter
 # Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. 
 
 

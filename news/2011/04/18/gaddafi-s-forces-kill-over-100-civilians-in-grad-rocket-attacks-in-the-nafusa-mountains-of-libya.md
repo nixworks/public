@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/18/gaddafi-s-forces-kill-over-100-civilians-in-gra
 
 ### [2011-04-18](/news/2011/04/18/index.md)
 
-##### grad rocket
+##### Grad rocket
 # Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. 
 
 The best of British &amp; international news, opinion, sport, people &amp; business.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/30/a-large-oil-field-is-discovered-off-the-coast-o
 
 ### [2010-10-30](/news/2010/10/30/index.md)
 
-##### oil field
+##### Oil field
 # A large oil field is discovered off the coast of Brazil that could contain between 8 and 15 billion barrels. 
 
 A newly discovered oil-field off the coast of Brazil could contain up to 15 billion barrels, the government says.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/5/two-large-earthquakes-strike-western-japan-the-f
 
 ### [2004-09-5](/news/2004/09/5/index.md)
 
-##### earthquakes
+##### Earthquakes
 #  Two large earthquakes strike western Japan, the first measuring 6.9 and the second 7.3 on the Richter scale. Tsunamis 1&ndash;2 m (3&ndash;7&nbsp;ft) are expected to hit the Pacific coast. 
 
 

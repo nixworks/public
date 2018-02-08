@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/31/bird-flu-spreads-in-vietnam-with-the-12th-repor
 
 ### [2005-01-31](/news/2005/01/31/index.md)
 
-##### bird flu
+##### Bird flu
 #  Bird flu spreads in Vietnam with the 12th reported death. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

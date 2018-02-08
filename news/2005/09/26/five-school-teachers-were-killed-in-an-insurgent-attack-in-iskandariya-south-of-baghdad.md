@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/26/five-school-teachers-were-killed-in-an-insurgen
 
 ### [2005-09-26](/news/2005/09/26/index.md)
 
-##### school
+##### School
 #  Five school teachers were killed in an insurgent attack in Iskandariya, south of Baghdad. 
 
 

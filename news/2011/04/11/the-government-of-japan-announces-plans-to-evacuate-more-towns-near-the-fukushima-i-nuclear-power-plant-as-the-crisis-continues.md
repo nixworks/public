@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/11/the-government-of-japan-announces-plans-to-evac
 
 ### [2011-04-11](/news/2011/04/11/index.md)
 
-##### government
+##### Government
 # The government of Japan announces plans to evacuate more towns near the Fukushima I Nuclear Power Plant as the crisis continues. 
 
 

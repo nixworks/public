@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/17/angel-cabrera-wins-the-2007-u-s-open-golf-champ
 
 ### [2007-06-17](/news/2007/06/17/index.md)
 
-##### ngel Cabrera
+##### Ngel Cabrera
 #  ngel Cabrera wins the 2007 U.S. Open Golf Championship at Oakmont Country Club in Oakmont, Pennsylvania. 
 
 

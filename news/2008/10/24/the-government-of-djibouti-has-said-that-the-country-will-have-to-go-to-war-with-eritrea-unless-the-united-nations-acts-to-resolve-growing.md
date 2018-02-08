@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/24/the-government-of-djibouti-has-said-that-the-co
 
 ### [2008-10-24](/news/2008/10/24/index.md)
 
-##### government
+##### Government
 #  The government of Djibouti has said that the country will have to go to war with Eritrea unless the United Nations acts to resolve growing tension over a border dispute. 
 
 

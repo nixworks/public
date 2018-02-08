@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/29/20-civilians-including-11-children-die-and-14-a
 
 ### [2008-01-29](/news/2008/01/29/index.md)
 
-##### school bus
+##### School bus
 #  20 civilians including 11 children die and 14 are wounded after a mine explodes targeting a school bus in Madhu, Sri Lanka. 
 
 

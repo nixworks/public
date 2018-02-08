@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/11/58-people-are-killed-in-a-bus-crash-in-the-sukk
 
 ### [2014-11-11](/news/2014/11/11/index.md)
 
-##### bus crash
+##### Bus crash
 # 58 people are killed in a bus crash in the Sukkur District in southern Pakistan's Sindh province. 
 
 

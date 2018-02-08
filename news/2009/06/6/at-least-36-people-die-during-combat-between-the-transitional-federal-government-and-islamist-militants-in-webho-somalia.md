@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/6/at-least-36-people-die-during-combat-between-the
 
 ### [2009-06-6](/news/2009/06/6/index.md)
 
-##### declares
+##### Declares
 #  At least 36 people die during combat between the Transitional Federal Government and Islamist militants in Webho, Somalia. 
 
 

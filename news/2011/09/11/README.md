@@ -7,21 +7,21 @@ Formats: [HTML](2011/09/11/index.html)  [JSON](2011/09/11/index.json)  [XML](201
 ### [Memorial ceremonies are held at New York's Ground Zero and elsewhere in the United States, to commemorate the tenth anniversary of the September 11 attacks. Ceremonies are also held worldwide to mark the anniversary of the attacks. ](/news/2011/09/11/memorial-ceremonies-are-held-at-new-york-s-ground-zero-and-elsewhere-in-the-united-states-to-commemorate-the-tenth-anniversary-of-the-septe.md)
 A memorial will be completed by the decade anniversary of the terrorist attacks that brought down the World Trade Center, reported the Port Authority of New York and New Jersey. There will be a ded…
 
-##### car bomb
+##### Car bomb
 ### [A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. ](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-province-afghanistan-kills-several-civilians.md)
-_Context: Afghanistan, Wardak Province, car bomb, military outpost_
+_Context: military outpost, Wardak Province, car bomb, Afghanistan_
 
 ##### Gothenburg
 ### [Police in Gothenburg, Sweden, arrest four people after a suspected failed terrorist attack. ](/news/2011/09/11/police-in-gothenburg-sweden-arrest-four-people-after-a-suspected-failed-terrorist-attack.md)
-_Context: Gothenburg, Sweden_
+_Context: Sweden, Gothenburg_
 
 ##### India
 ### [At least 22 people are dead in the Indian state of Orissa as a result of flooding. ](/news/2011/09/11/at-least-22-people-are-dead-in-the-indian-state-of-orissa-as-a-result-of-flooding.md)
-_Context: India, Orissa State, flood_
+_Context: flood, Orissa State, India_
 
-##### caravan site
+##### Caravan site
 ### [UK police raid the Greenacre caravan site in Leighton Buzzard, rescuing 24 men who had been held there as slaves in squalid conditions . ](/news/2011/09/11/uk-police-raid-the-greenacre-caravan-site-in-leighton-buzzard-rescuing-24-men-who-had-been-held-there-as-slaves-in-squalid-conditions.md)
-_Context: rescuing 24 men, Leighton Buzzard, slave, caravan site_
+_Context: rescuing 24 men, caravan site, Leighton Buzzard, slave_
 
 ##### Guatemala
 ### [Voters in Guatemala go to the polls for a general election. ](/news/2011/09/11/voters-in-guatemala-go-to-the-polls-for-a-general-election.md)

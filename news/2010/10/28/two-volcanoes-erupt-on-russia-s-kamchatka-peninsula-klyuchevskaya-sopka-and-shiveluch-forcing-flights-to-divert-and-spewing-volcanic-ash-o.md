@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/28/two-volcanoes-erupt-on-russia-s-kamchatka-penin
 
 ### [2010-10-28](/news/2010/10/28/index.md)
 
-##### volcano
+##### Volcano
 # Two volcanoes erupt on Russia's Kamchatka Peninsula, Klyuchevskaya Sopka and Shiveluch, forcing flights to divert and spewing volcanic ash over the nearby town of Ust-Kamchatsk. 
 
 

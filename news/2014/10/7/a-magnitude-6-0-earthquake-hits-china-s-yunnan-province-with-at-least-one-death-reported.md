@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/7/a-magnitude-6-0-earthquake-hits-china-s-yunnan-p
 
 ### [2014-10-7](/news/2014/10/7/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 6.0 earthquake hits China's Yunnan province with at least one death reported. 
 
 

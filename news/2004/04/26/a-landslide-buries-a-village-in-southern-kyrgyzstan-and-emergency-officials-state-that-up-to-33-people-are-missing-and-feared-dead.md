@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/26/a-landslide-buries-a-village-in-southern-kyrgyz
 
 ### [2004-04-26](/news/2004/04/26/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide buries a village in southern Kyrgyzstan, and emergency officials state that up to 33 people are missing and feared dead.
 
 

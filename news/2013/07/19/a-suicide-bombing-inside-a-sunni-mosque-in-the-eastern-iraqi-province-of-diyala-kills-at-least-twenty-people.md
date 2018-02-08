@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/19/a-suicide-bombing-inside-a-sunni-mosque-in-the-
 
 ### [2013-07-19](/news/2013/07/19/index.md)
 
-##### suicide attack
+##### Suicide attack
 # A suicide bombing inside a Sunni mosque in the eastern Iraqi province of Diyala kills at least twenty people. 
 
 A bomb blast in crowded Sunni mosque in central Iraq has killed at least 20 people, police say, in the latest of a recent surge of attacks on mosques.

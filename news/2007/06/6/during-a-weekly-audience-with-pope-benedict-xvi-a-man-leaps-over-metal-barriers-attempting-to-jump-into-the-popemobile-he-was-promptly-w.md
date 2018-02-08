@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/6/during-a-weekly-audience-with-pope-benedict-xvi-
 
 ### [2007-06-6](/news/2007/06/6/index.md)
 
-##### audience
+##### Audience
 #  During a weekly audience with Pope Benedict XVI, a man leaps over metal barriers, attempting to jump into the popemobile. He was promptly wrestled to the ground (without the Pope's even noticing) and was then taken into the custody of Vatican police. 
 
 

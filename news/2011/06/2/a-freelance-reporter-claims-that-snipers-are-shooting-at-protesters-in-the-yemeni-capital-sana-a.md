@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-sho
 
 ### [2011-06-2](/news/2011/06/2/index.md)
 
-##### sniper
+##### Sniper
 # A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/10/scientists-say-they-have-found-evidence-for-wat
 
 ### [2008-12-10](/news/2008/12/10/index.md)
 
-##### water vapour
+##### Water vapour
 #  Scientists say they have found evidence for water vapour and carbon dioxide in the atmosphere of the extrasolar planet HD 189733 b. 
 
 Astronomers have detected carbon dioxide in the atmosphere of a planet 63 light-years away, but the planet is too hot for any possibility of life.

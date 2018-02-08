@@ -3,11 +3,11 @@ Formats: [HTML](2012/06/13/index.html)  [JSON](2012/06/13/index.json)  [XML](201
 
 ## [2012-06-13](/news/2012/06/13/index.md)
 
-##### series of bombings
+##### Series of bombings
 ### [A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others. ](/news/2012/06/13/a-series-of-bombings-across-iraq-including-baghdad-hillah-and-kirkuk-kills-at-least-93-people-and-wounds-over-300-others.md)
 At least 93 people killed across the country, many of them Shia pilgrims gathered in Baghdad for a religious event.
 
-##### al Qaida
+##### Al Qaida
 ### [An airstrike kills nine al Qaida fighters in southern Yemen as the Yemeni military maintain pressure on the group a day after government troops backed by armed tribesmen recaptured two militant strongholds. ](/news/2012/06/13/an-airstrike-kills-nine-al-qaida-fighters-in-southern-yemen-as-the-yemeni-military-maintain-pressure-on-the-group-a-day-after-government-tro.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -39,7 +39,7 @@ The first planeload of deportees will leave on Sunday, after hundreds of illegal
 
 ##### UN Conference on Sustainable Development
 ### [The UN Conference on Sustainable Development begins in Rio de Janeiro, launching a new round of debate on the future habitability of Earth, its resources and people, 20 years after the first Earth Summit. ](/news/2012/06/13/the-un-conference-on-sustainable-development-begins-in-rio-de-janeiro-launching-a-new-round-of-debate-on-the-future-habitability-of-earth.md)
-_Context: Earth, UN Conference on Sustainable Development, habitable, Rio de Janeiro, the first Earth Summit_
+_Context: Earth, UN Conference on Sustainable Development, the first Earth Summit, Rio de Janeiro, habitable_
 
 ##### Montreal
 ### [A schoolteacher in Montreal is suspended after showing pupils a video said to depict a murder. ](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.md)
@@ -51,7 +51,7 @@ Toppled president is charged in absentia on various charges including incitement
 
 ##### Senator
 ### [U.S. federal prosecutors drop corruption charges against former Senator John Edwards following a mistrial. ](/news/2012/06/13/u-s-federal-prosecutors-drop-corruption-charges-against-former-senator-john-edwards-following-a-mistrial.md)
-_Context: Senator, John Edwards_
+_Context: John Edwards, Senator_
 
 ##### Leveson Inquiry
 ### [At the Leveson Inquiry into media standards Scottish First Minister Alex Salmond claims that "The Observer" accessed his bank account records in the run up to the 1999 Scottish Parliament election. ](/news/2012/06/13/at-the-leveson-inquiry-into-media-standards-scottish-first-minister-alex-salmond-claims-that-the-observer-accessed-his-bank-account-record.md)
@@ -63,11 +63,11 @@ Rebekah Brooks appeared behind a high glass screen in the dock yesterday, alongs
 
 ##### Manal al Sharif
 ### [Hundreds of people sign a letter written by Manal al Sharif to Saudi King Abdullah urging him to allow women to get behind the wheel on the first anniversary of the Women2Drive campaign, launched in June 2011. ](/news/2012/06/13/hundreds-of-people-sign-a-letter-written-by-manal-al-sharif-to-saudi-king-abdullah-urging-him-to-allow-women-to-get-behind-the-wheel-on-the.md)
-_Context: Manal al Sharif, Saudi King Abdullah_
+_Context: Saudi King Abdullah, Manal al Sharif_
 
 ##### Aung San Suu Kyi
 ### [Myanmar democracy activist Aung San Suu Kyi returns to Europe after more than two decades for a European tour, including Norway, Switzerland, France, Ireland and Britain. ](/news/2012/06/13/myanmar-democracy-activist-aung-san-suu-kyi-returns-to-europe-after-more-than-two-decades-for-a-european-tour-including-norway-switzerland.md)
-_Context: Norway, Ireland, Switzerland, France, United Kingdom, Aung San Suu Kyi_
+_Context: France, Aung San Suu Kyi, United Kingdom, Switzerland, Ireland, Norway_
 
 ##### Israel
 ### [Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. ](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.md)
@@ -77,7 +77,7 @@ Government report criticises Netanyahu decision-making in 2010 naval raid on Gaz
 ### [Japanese stem cell scientist Dr. Shinya Yamanaka is awarded the Millennium Technology Prize for discovering how to reprogram human cells to mimic embryonic stem cells, which can become any cell in the body. ](/news/2012/06/13/japanese-stem-cell-scientist-dr-shinya-yamanaka-is-awarded-the-millennium-technology-prize-for-discovering-how-to-reprogram-human-cells-to.md)
 Dr Shinya Yamanaka is the joint winner of major technology prize for his work on pluripotent stem cells
 
-##### bonobo
+##### Bonobo
 ### [Scientists decode the bonobo genome, making it last great ape to have its DNA sequence laid bare, following the chimpanzee, orang-utan and gorilla. ](/news/2012/06/13/scientists-decode-the-bonobo-genome-making-it-last-great-ape-to-have-its-dna-sequence-laid-bare-following-the-chimpanzee-orang-utan-and-g.md)
 Scientists decode the genetics of the bonobo, the last great ape to have its DNA sequence laid bare for comparison with humans.
 

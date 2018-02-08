@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/13/us-baseball-star-barry-bonds-is-convicted-of-ob
 
 ### [2011-04-13](/news/2011/04/13/index.md)
 
-##### baseball
+##### Baseball
 # US baseball star Barry Bonds is convicted of obstruction of justice charges with a hung jury on other charges. 
 
 Barry Bonds was found guilty of obstruction of justice but a jury failed to reach a verdict on three other counts that the home run king lied to a grand jury in 2003 when he specifically denied that he knowingly used steroids and human growth hormone.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/14/there-is-a-blizzard-warning-in-place-for-easter
 
 ### [2015-02-14](/news/2015/02/14/index.md)
 
-##### blizzard
+##### Blizzard
 # There is a blizzard warning in place for eastern Massachusetts in the northeastern United States. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/21/thousands-of-people-march-in-the-southern-syria
 
 ### [2011-03-21](/news/2011/03/21/index.md)
 
-##### protestors
+##### Protestors
 # Thousands of people march in the southern Syrian city of Deraa calling for more political freedoms. 
 
 Thousands of demonstrators march through the southern Syrian city of Deraa calling for greater freedoms, following the funeral of a protester killed on Sunday.

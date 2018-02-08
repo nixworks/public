@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/2012a2013-cypriot-financial-crisis-cypriot-lawm
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: Cypriot lawmakers overwhelmingly reject the EC-ECB-IMF troika plan to tax all bank deposits. 
 
 Cypriot politicians have overwhelmingly rejected a deeply unpopular tax on bank deposits.

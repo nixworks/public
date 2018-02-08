@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/14/the-president-of-pakistan-pervez-musharraf-shak
 
 ### [2005-09-14](/news/2005/09/14/index.md)
 
-##### president
+##### President
 #  The President of Pakistan, Pervez Musharraf, shakes hands with the Prime Minister of Israel, Ariel Sharon, the first time such an encounter has been made in public. 
 
 

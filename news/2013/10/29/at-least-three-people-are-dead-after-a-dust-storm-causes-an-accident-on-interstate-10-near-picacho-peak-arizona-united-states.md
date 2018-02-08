@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/29/at-least-three-people-are-dead-after-a-dust-sto
 
 ### [2013-10-29](/news/2013/10/29/index.md)
 
-##### dust storm
+##### Dust storm
 # At least three people are dead after a dust storm causes an accident on Interstate 10 near Picacho Peak, Arizona, United States. 
 
 Authorities say three people are dead in multiple Interstate 10 crashes north of Picacho Peak caused by dust and high winds Tuesday afternoon.

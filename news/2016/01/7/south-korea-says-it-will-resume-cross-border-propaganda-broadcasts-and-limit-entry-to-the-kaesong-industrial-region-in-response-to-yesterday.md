@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/7/south-korea-says-it-will-resume-cross-border-pro
 
 ### [2016-01-7](/news/2016/01/7/index.md)
 
-##### nuclear test
+##### Nuclear test
 # South Korea says it will resume cross-border propaganda broadcasts and limit entry to the Kaesong Industrial Region in response to yesterday's nuclear test at the North's Punggye-ri Nuclear Test Site. North Korea considers the propaganda broadcasts to be "an act of war". 
 
 South Korea also cancels cross-border initiatives after Pyongyang’s claim that it successfully tested a hydrogen bomb

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/15/russian-rescue-workers-are-digging-through-what
 
 ### [2004-02-15](/news/2004/02/15/index.md)
 
-##### water park
+##### Water park
 #  Russian rescue workers are digging through what remains of an indoor water park in Moscow after the roof collapsed yesterday. At least 25 people have been killed, more than 100 people are injured, and at least 17 people are missing. 
 
 

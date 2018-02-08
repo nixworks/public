@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/24/the-dismembered-corpse-of-an-abducted-9-year-ol
 
 ### [2010-10-24](/news/2010/10/24/index.md)
 
-##### dismembered corpse
+##### Dismembered corpse
 # The dismembered corpse of an abducted 9-year-old albino boy is found in a river on the Burundi-Tanzania border and buried. 
 
 The dismembered body of a young albino boy is found in a river on the Burundi-Tanzania border, reports say.

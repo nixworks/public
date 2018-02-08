@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/14/mexico-declares-a-state-of-emergency-due-to-an-
 
 ### [2003-07-14](/news/2003/07/14/index.md)
 
-##### state of emergency
+##### State of emergency
 #  Mexico declares a state of emergency due to an outbreak of the West Nile virus 
 
 Planet Ark Stories and Ideas

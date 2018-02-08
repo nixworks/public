@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/22/an-explosion-at-the-sorange-coal-mine-in-pakist
 
 ### [2011-03-22](/news/2011/03/22/index.md)
 
-##### coal mine
+##### Coal mine
 # An explosion at the Sorange coal mine in Pakistan's Baluchistan province kills 52 people. 
 
 

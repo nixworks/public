@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/1/india-s-first-lunar-mission-chandrayaan-1-transm
 
 ### [2008-11-1](/news/2008/11/1/index.md)
 
-##### lunar probe
+##### Lunar probe
 #  India's first lunar mission, Chandrayaan-1, transmits two pictures of the Earth while en route to the Moon. 
 
 

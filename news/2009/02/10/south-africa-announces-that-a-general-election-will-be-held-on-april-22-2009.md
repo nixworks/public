@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/10/south-africa-announces-that-a-general-election-
 
 ### [2009-02-10](/news/2009/02/10/index.md)
 
-##### loses
+##### Loses
 #  South Africa announces that a general election will be held on April 22, 2009. 
 
 

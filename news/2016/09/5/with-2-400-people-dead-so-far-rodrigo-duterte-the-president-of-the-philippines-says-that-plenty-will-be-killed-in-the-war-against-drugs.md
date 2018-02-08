@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/5/with-2-400-people-dead-so-far-rodrigo-duterte-th
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # With 2,400 people dead so far, Rodrigo Duterte, the President of the Philippines, says that "plenty will be killed" in the war against drugs. 
 
 

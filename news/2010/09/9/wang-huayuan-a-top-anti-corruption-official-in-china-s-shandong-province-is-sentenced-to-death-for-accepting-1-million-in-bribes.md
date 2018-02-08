@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/9/wang-huayuan-a-top-anti-corruption-official-in-c
 
 ### [2010-09-9](/news/2010/09/9/index.md)
 
-##### corruption
+##### Corruption
 # Wang Huayuan, a top anti-corruption official in China's Shandong province, is sentenced to death for accepting $1 million in bribes. 
 
 

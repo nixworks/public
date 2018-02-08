@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/3/more-than-3-000-gold-miners-are-trapped-undergro
 
 ### [2007-10-3](/news/2007/10/3/index.md)
 
-##### gold mine
+##### Gold mine
 #  More than 3,000 gold miners are trapped underground in the Elandskraal mine at Elandsrand, northwest of Johannesburg, South Africa, owned by Harmony Gold Mining. 
 
 

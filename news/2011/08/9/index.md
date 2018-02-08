@@ -7,7 +7,7 @@ Formats: [HTML](2011/08/9/index.html)  [JSON](2011/08/9/index.json)  [XML](2011/
 ### [Australians fill out the 2011 Australian census. ](/news/2011/08/9/australians-fill-out-the-2011-australian-census.md)
 _Context: Australian, 2011 Australian census_
 
-##### trend
+##### Trend
 ### [The Australian Commonwealth and Westpac banks cut fixed home loan rates. ](/news/2011/08/9/the-australian-commonwealth-and-westpac-banks-cut-fixed-home-loan-rates.md)
 Australian stocks staged a spectacular recovery today, reversing a massive slide to register a gain amid rumours that the US Federal Reserve is preparing another stimulus package.
 

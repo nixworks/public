@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/15/a-suicide-bomber-at-an-iraqi-army-base-near-baq
 
 ### [2008-07-15](/news/2008/07/15/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber at an Iraqi Army base near Baquba kills at least 35 people and injures another 55. 
 
 A suicide bombing at an Iraqi army base north of Baghdad has killed at least 28 people and injured 55.

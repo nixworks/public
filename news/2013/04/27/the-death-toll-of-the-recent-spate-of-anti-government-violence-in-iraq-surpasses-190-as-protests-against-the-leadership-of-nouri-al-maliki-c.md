@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/27/the-death-toll-of-the-recent-spate-of-anti-gove
 
 ### [2013-04-27](/news/2013/04/27/index.md)
 
-##### recent spate of anti-government violence
+##### Recent spate of anti-government violence
 # The death toll of the recent spate of anti-government violence in Iraq surpasses 190 as protests against the leadership of Nouri al-Maliki continue. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/29/at-least-ten-people-die-after-heavy-rains-trigg
 
 ### [2012-09-29](/news/2012/09/29/index.md)
 
-##### flash flood
+##### Flash flood
 # At least ten people die after heavy rains trigger flash floods in Malaga, Almeria and Murcia, southern Spain. 
 
 At least 10 people die after heavy rains trigger flash floods in the southern Spanish regions of Andalucia and Murcia, officials say.

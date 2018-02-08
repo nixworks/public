@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/5/greek-voters-solidly-reject-61-3-percent-the-lat
 
 ### [2015-07-5](/news/2015/07/5/index.md)
 
-##### referendum
+##### Referendum
 # Greek voters solidly reject (61.3 percent) the latest austerity proposal of the European Union, the International Monetary Fund and the European Central Bank. 
 
 Greeks have been voting today on whether or not to accept the proposals put to the country by its creditors, the ECB, EU and IMF. The leftist Syriza government rejected these proposals and is seeking a ‘no’ vote. Proponents of a ‘yes’ vote say this will keep Greece in the eurozone

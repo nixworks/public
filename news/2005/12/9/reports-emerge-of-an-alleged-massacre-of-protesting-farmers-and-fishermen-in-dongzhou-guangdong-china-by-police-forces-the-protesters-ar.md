@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/9/reports-emerge-of-an-alleged-massacre-of-protest
 
 ### [2005-12-9](/news/2005/12/9/index.md)
 
-##### massacres
+##### Massacres
 #  Reports emerge of an alleged massacre of protesting farmers and fishermen in Dongzhou, Guangdong, China by police forces. The protesters are believed to be upset with government plans to build a new power plant in the area and infill part of the bay. The death toll, pegged at 20, is the worst act of violence by Chinese security forces since the Tiananmen Square protests of 1989. The town is reportedly still sealed off by government forces. 
 
 

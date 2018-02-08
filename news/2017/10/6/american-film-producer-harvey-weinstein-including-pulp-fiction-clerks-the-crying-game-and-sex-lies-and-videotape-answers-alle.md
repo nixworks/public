@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/6/american-film-producer-harvey-weinstein-includin
 
 ### [2017-10-6](/news/2017/10/6/index.md)
 
-##### allegation
+##### Allegation
 # American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. 
 
 

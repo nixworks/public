@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/2/hundreds-of-new-wildfires-erupt-in-russia-as-fir
 
 ### [2010-08-2](/news/2010/08/2/index.md)
 
-##### the recent wildfires
+##### The recent wildfires
 # Hundreds of new wildfires erupt in Russia as fire has damaged or destroyed 27 towns and villages. 
 
 

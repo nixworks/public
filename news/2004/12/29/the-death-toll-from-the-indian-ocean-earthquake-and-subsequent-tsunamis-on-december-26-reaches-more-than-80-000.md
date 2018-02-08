@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/29/the-death-toll-from-the-indian-ocean-earthquake
 
 ### [2004-12-29](/news/2004/12/29/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll from the Indian Ocean earthquake and subsequent tsunamis on December 26 reaches more than 80,000. 
 
 

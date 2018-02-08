@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/22/a-bomb-kills-one-person-and-injures-20-others-i
 
 ### [2009-02-22](/news/2009/02/22/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb kills one person and injures 20 others in the Khan el-Khalili souq of Cairo, Egypt. 
 
 A bomb killed a French teenager and wounded at least 20 other people in a crowded square near a popular tourist bazaar in the Egyptian capital Cairo on Sunday, officials said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/25/two-explosions-apparently-caused-by-car-bombs-p
 
 ### [2003-08-25](/news/2003/08/25/index.md)
 
-##### explosion
+##### Explosion
 #  Two explosions, apparently caused by car bombs placed in taxis, kills at least 44 and injures a further 150 in Mumbai, India. It is the sixth bombing in Mumbai in a year.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-
 
 ### [2008-11-20](/news/2008/11/20/index.md)
 
-##### military base at Guantanamo Bay
+##### Military base at Guantanamo Bay
 #  Five Guantnamo Bay detainees who successfully argued "Boumediene v. Bush" before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. 
 
 A federal judge ordered the release of five Algerian men held at Guantánamo Bay for nearly seven years.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/20/a-man-is-charged-with-attempted-murder-followin
 
 ### [2011-11-20](/news/2011/11/20/index.md)
 
-##### attempted murder
+##### Attempted murder
 # A man is charged with attempted murder following Saturday's stabbing of four Metropolitan Police officers in Kingsbury, north London. 
 
 

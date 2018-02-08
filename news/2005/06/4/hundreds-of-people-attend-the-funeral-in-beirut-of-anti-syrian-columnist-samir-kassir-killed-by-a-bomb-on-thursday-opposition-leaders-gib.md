@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/4/hundreds-of-people-attend-the-funeral-in-beirut-
 
 ### [2005-06-4](/news/2005/06/4/index.md)
 
-##### funeral
+##### Funeral
 #  Hundreds of people attend the funeral in Beirut of anti-Syrian columnist Samir Kassir, killed by a bomb on Thursday. Opposition leaders Gibran Tueni and Saad al-Hariri, son of slain former Prime Minister Rafik al-Hariri, are in attendance. 
 
 

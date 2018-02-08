@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/26/a-study-by-the-scientific-journal-nature-shows-
 
 ### [2009-02-26](/news/2009/02/26/index.md)
 
-##### scientific journal
+##### Scientific journal
 #  A study by the scientific journal "Nature" shows that HIV is evolving to resist the human immune system. 
 
 

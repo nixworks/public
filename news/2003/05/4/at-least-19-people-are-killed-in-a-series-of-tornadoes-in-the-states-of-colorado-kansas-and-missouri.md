@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/4/at-least-19-people-are-killed-in-a-series-of-tor
 
 ### [2003-05-4](/news/2003/05/4/index.md)
 
-##### tornado
+##### Tornado
 #  At least 19 people are killed in a series of tornadoes in the states of Colorado, Kansas and Missouri.
 
 

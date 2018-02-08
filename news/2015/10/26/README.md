@@ -11,7 +11,7 @@ Turkish media reports say police have raided a house used by Islamic State group
 ### [According to the Wall Street Journal an official from the Russian Ministry of Defense confirmed it has deployed special forces to Syria over the past weeks supporting its mission to back-up the Bashar al-Assad regime. Alleged Russian Defence Ministry official added that the special forces, who are "akin to the Delta Force of the United States", had been operating in pro-Russian rebel held areas of Ukraine before being called off to Syria. ](/news/2015/10/26/according-to-the-wall-street-journal-an-official-from-the-russian-ministry-of-defense-confirmed-it-has-deployed-special-forces-to-syria-over.md)
 Russia has sent a few dozen special-operations troops to Syria from Ukraine in recent weeks, Russian and Western officials say, as the Kremlin shifts focus to supporting Syrian President Bashar al-Assad.
 
-##### suicide-bomb
+##### Suicide-bomb
 ### [A suicide-bomb attack at a Shia mosque in the Saudi Arabian city of Najran accounts for over a dozen casualties. ](/news/2015/10/26/a-suicide-bomb-attack-at-a-shia-mosque-in-the-saudi-arabian-city-of-najran-accounts-for-over-a-dozen-casualties.md)
 At least one person has been killed and a dozen others injured in a suicide attack on a mosque in the south of Saudi Arabia, state media say.
 
@@ -25,11 +25,11 @@ Defense Secretary Ash Carter said Friday the U.S. is likely to step up military 
 
 ##### Colombian conflict (1964-present)
 ### [At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-colombia.md)
-_Context: Colombian conflict (1964-present), Colombia, ELN, Colombian Army_
+_Context: ELN, Colombia, Colombian conflict (1964-present), Colombian Army_
 
 ##### MTN Group
 ### [MTN Group is fined $5.2 billion by the Nigerian Communications Commission for failing to disconnect non-registered SIM cards. ](/news/2015/10/26/mtn-group-is-fined-5-2-billion-by-the-nigerian-communications-commission-for-failing-to-disconnect-non-registered-sim-cards.md)
-_Context: SIM, MTN Group, Nigerian Communications Commission_
+_Context: SIM, Nigerian Communications Commission, MTN Group_
 
 ##### Toyota
 ### [Toyota is once again the world's largest carmaker with 7.5 million units sold thus far in 2015, compared to Volkswagen's 7.43 million and General Motors' 7.2 million. ](/news/2015/10/26/toyota-is-once-again-the-world-s-largest-carmaker-with-7-5-million-units-sold-thus-far-in-2015-compared-to-volkswagen-s-7-43-million-and-ge.md)
@@ -69,7 +69,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 
 ##### Saudi Arabia
 ### [Saudi Arabia's Supreme Court upholds the death sentence of Shiite cleric Sheikh Nimr al-Nimr, who was found guilty of sedition and other charges following his involvement in the 2011 Arab Spring Movement. ](/news/2015/10/26/saudi-arabia-s-supreme-court-upholds-the-death-sentence-of-shiite-cleric-sheikh-nimr-al-nimr-who-was-found-guilty-of-sedition-and-other-cha.md)
-_Context: Supreme Court, sedition, Arab Spring, Sheikh Nimr, Saudi Arabia, Shiite cleric_
+_Context: Supreme Court, Sheikh Nimr, Shiite cleric, Arab Spring, sedition, Saudi Arabia_
 
 ##### Saudi Royal Family
 ### [A member of the Saudi Royal Family and four other people are detained in Lebanon for attempting to smuggle about two tons of Captagon pills and some cocaine on a private jet. This is the largest drug seizure in the history of Beirut's Rafik Hariri International Airport, according to Lebanon's state-run National News Agency. ](/news/2015/10/26/a-member-of-the-saudi-royal-family-and-four-other-people-are-detained-in-lebanon-for-attempting-to-smuggle-about-two-tons-of-captagon-pills.md)
@@ -77,7 +77,7 @@ Prince among five Saudis detained over seizure of two tonnes of amphetamines and
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md)
-_Context: East Jerusalem, Israel, Israeli Prime Minister, Arab citizen, Benjamin Netanyahu, Palestinians, Israel's Channel 2_
+_Context: Israeli Prime Minister, Benjamin Netanyahu, East Jerusalem, Israel, Palestinians, Arab citizen, Israel's Channel 2_
 
 ##### Gun politics in the United States
 ### [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md)

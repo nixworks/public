@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/26/954-paratroopers-of-the-us-army-s-173rd-airborn
 
 ### [2003-03-26](/news/2003/03/26/index.md)
 
-##### paratroopers
+##### Paratroopers
 #  954 paratroopers of the US Army's 173rd Airborne made a combat jump into the Bashur Drop Zone as part of Operation Iraqi Freedom
 
 

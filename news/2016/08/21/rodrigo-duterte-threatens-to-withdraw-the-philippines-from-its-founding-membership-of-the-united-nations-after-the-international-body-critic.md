@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/21/rodrigo-duterte-threatens-to-withdraw-the-phili
 
 ### [2016-08-21](/news/2016/08/21/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Rodrigo Duterte threatens to withdraw the Philippines from its founding membership of the United Nations after the international body criticized him over alleged human rights violations. 
 
 Philippine President Rodrigo Duterte threatens to &quot;separate&quot; from the UN after it criticised his war on drugs as a crime under international law.

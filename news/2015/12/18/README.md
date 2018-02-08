@@ -5,7 +5,7 @@ Formats: [HTML](2015/12/18/index.html)  [JSON](2015/12/18/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015)
 ### [Two ballistic missiles are fired from Yemen at Saudi Arabia, one of which is intercepted by the kingdom's air defences, while the other missile lands near the city of Najran, according to a coalition statement on Saudi state media. No casualties have been reported. ](/news/2015/12/18/two-ballistic-missiles-are-fired-from-yemen-at-saudi-arabia-one-of-which-is-intercepted-by-the-kingdom-s-air-defences-while-the-other-miss.md)
-_Context: Yemen, Saudi state media, Najran, Yemeni Civil War (2015), Saudi-led intervention in Yemen, Saudi Arabia_
+_Context: Najran, Yemen, Saudi Arabia, Yemeni Civil War (2015), Saudi state media, Saudi-led intervention in Yemen_
 
 ##### Territorial disputes in the South China Sea
 ### [A U.S. B-52 long-range bomber on a routine mission over the South China Sea mistakenly flew within two nautical miles of an artificial island built by China near the Cuarteron Reef in the disputed Spratly Islands archipelago, according to a senior U.S. defense official. The Chinese Defense Ministry issues a statement accusing the U.S. of deliberately raising tensions in the disputed region. ](/news/2015/12/18/a-u-s-b-52-long-range-bomber-on-a-routine-mission-over-the-south-china-sea-mistakenly-flew-within-two-nautical-miles-of-an-artificial-islan.md)
@@ -31,7 +31,7 @@ Brazilian man’s recovery from multiple brain tumours attributed by panel of ex
 ### [In the United States, JPMorgan Chase agrees to pay $307 million to settle federal cases where the bank failed to disclose certain conflicts of interest to some of its wealth management clients. ](/news/2015/12/18/in-the-united-states-jpmorgan-chase-agrees-to-pay-307-million-to-settle-federal-cases-where-the-bank-failed-to-disclose-certain-conflicts.md)
 JPMorgan Chase willpay $307 million to settle two U.S. government cases thatcharged the bank with failing to disclose certain conflicts ofinterest to some of its wealth management clients, U.S.regulators said on Friday.
 
-##### stock exchange
+##### Stock exchange
 ### [Isis Pharmaceuticals Inc. announces it will change its name to Ionis Pharmaceuticals Inc. on December 22. Its stock exchange ticker symbol will be IONS. ](/news/2015/12/18/isis-pharmaceuticals-inc-announces-it-will-change-its-name-to-ionis-pharmaceuticals-inc-on-december-22-its-stock-exchange-ticker-symbol-w.md)
 After deliberating for most of the year, Isis Pharmaceuticals Inc said on Friday it would change its name to avoid being confused with the Islamist militant group known as ISIS.
 
@@ -41,7 +41,7 @@ China warned residents across a large part of its north on Friday to prepare for
 
 ##### Australia-Japan relations
 ### [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md)
-_Context: Australian Prime Minister, Prime Minister of Japan, Tokyo, whaling, Japan, Tony Abbott, Australia-Japan relations, Shinzo Abe, Malcolm Turnbull_
+_Context: Australian Prime Minister, Tokyo, Malcolm Turnbull, whaling, Prime Minister of Japan, Japan, Australia-Japan relations, Shinzo Abe, Tony Abbott_
 
 ##### Romania-NATO relations
 ### [NATO's Aegis Ashore Ballistic Missile Defense System becomes partly operational at Romania's Deveselu airbase, as U.S. Navy personnel takes control of the site after years of construction. Aegis Ashore facilities in Romania form part of NATO's European missile defence system, with another site under construction in Poland expected to become operational by 2018. The United States Ambassador to Romania Hans G. Klemm says that they have explained to the Russians on numerous occasions that the missile system is, "not directed at Russia, nor does it have the capability to threaten Russia." The head of Russia's Strategic Missile Troops, Colonel General Sergei Karakayev, has dismissed the purported effectiveness of the missile defense system, saying Moscow develops "brand new and effective means and techniques to penetrate any missile defense system". ](/news/2015/12/18/nato-s-aegis-ashore-ballistic-missile-defense-system-becomes-partly-operational-at-romania-s-deveselu-airbase-as-u-s-navy-personnel-takes.md)
@@ -59,7 +59,7 @@ Ukraine faces a looming debt default after the country&#x27;s finance ministry s
 ### [NATO allies agree to send aircraft and ships to strengthen Turkey's Syrian border air defenses and avoid incidents similar to November's downing of a Russian jet. ](/news/2015/12/18/nato-allies-agree-to-send-aircraft-and-ships-to-strengthen-turkey-s-syrian-border-air-defenses-and-avoid-incidents-similar-to-november-s-dow.md)
 Resolution signals rare show of unity from 15-nation council, although future of president Bashar al-Assad is not mentioned
 
-##### false claims
+##### False claims
 ### [In the United States, a group of hospitals, 32 in 15 states, agree to pay a total of $28 million to settle charges they submitted false claims to Medicare for a type of spinal fracture treatment. This is the latest settlement stemming from a decade-old whistleblower lawsuit about alleged inappropriate billing for kyphoplasty. More than 130 hospitals have paid about $105 million to settle billing claims from this spinal procedure. ](/news/2015/12/18/in-the-united-states-a-group-of-hospitals-32-in-15-states-agree-to-pay-a-total-of-28-million-to-settle-charges-they-submitted-false-clai.md)
 A group of 32 hospitals will pay a total of $28 million to settle allegations that they submitted false claims to Medicare for a type of spinal fracture treatment, the U.S. Department of Justice said on Friday.
 

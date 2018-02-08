@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/27/the-riots-between-two-religious-communities-sta
 
 ### [2013-08-27](/news/2013/08/27/index.md)
 
-##### riots
+##### Riots
 # The "'riots"' between two religious communities started at Muzaffarnagar, Uttar Pradesh, India.
 
 The 2013 Communal Riot at Muzaffarnagar (Uttar Pradesh) has turned out to be one of the deadliest riots in recent year with over 30 Deaths reported so far and more than 40 injured. What started as a small quarrel between two youth in Kanwal Village of Muzaffarnagar spread like wildfire in the whole district. The series of violence was triggered on August 27 when a youth and his cousin beat to death a man of another religious community for teasing his sister in a village called Kawal. Later few men from the other community attacked and killed him. However there are [...]

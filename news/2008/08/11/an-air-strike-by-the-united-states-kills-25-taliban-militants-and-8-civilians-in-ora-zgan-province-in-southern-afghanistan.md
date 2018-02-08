@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/11/an-air-strike-by-the-united-states-kills-25-tal
 
 ### [2008-08-11](/news/2008/08/11/index.md)
 
-##### air strike
+##### Air strike
 #  An air strike by the United States kills 25 Taliban militants and 8 civilians in Oruzgan Province in southern Afghanistan. 
 
 

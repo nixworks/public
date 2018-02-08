@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/21/at-least-nine-wildfires-burn-out-of-control-in-
 
 ### [2007-10-21](/news/2007/10/21/index.md)
 
-##### wildfire
+##### Wildfire
 #  At least nine wildfires burn out of control in Southern California leading to the death of a San Diego man. 
 
 Fast-moving wildfires roared across California on Monday and engulfed large swaths of San Diego County, where 250,000 people were told to evacuate as state officials called in National Guard troops.

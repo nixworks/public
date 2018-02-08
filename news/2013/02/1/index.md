@@ -3,7 +3,7 @@ Formats: [HTML](2013/02/1/index.html)  [JSON](2013/02/1/index.json)  [XML](2013/
 
 ## [2013-02-1](/news/2013/02/1/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing outside the U.S. embassy in the Turkish capital, Ankara, kills at least two people. ](/news/2013/02/1/a-suicide-bombing-outside-the-u-s-embassy-in-the-turkish-capital-ankara-kills-at-least-two-people.md)
 A suicide bomber attacks an entrance of the US embassy in the Turkish capital, Ankara, killing a security guard, officials say.
 
@@ -11,7 +11,7 @@ A suicide bomber attacks an entrance of the US embassy in the Turkish capital, A
 ### [The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.md)
 The JTF said it lost one of its officials in the attack in Northern Nigeria
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. ](/news/2013/02/1/a-suicide-bomber-in-a-market-kills-at-least-21-people-and-wounds-more-than-30-in-hangu-pakistan.md)
 The explosion came as Sunni and Shiite villagers in northwestern Pakistan were leaving nearby mosques. The police said it killed at least 21 people and wounded 33.
 
@@ -49,11 +49,11 @@ Unbridled candor and unyielding chutzpah made three-term mayor stand out in a ci
 
 ##### Chris Evans
 ### [Chris Evans, the leader of Australian Labor Party in the Senate, announces his resignation from the Ministry of Education. ](/news/2013/02/1/chris-evans-the-leader-of-australian-labor-party-in-the-senate-announces-his-resignation-from-the-ministry-of-education.md)
-_Context: Australian Labor Party, Senate, Chris Evans, Ministry of Education_
+_Context: Senate, Australian Labor Party, Chris Evans, Ministry of Education_
 
 ##### Muqrin bin Abdulaziz Al Saud
 ### [Muqrin bin Abdulaziz Al Saud, the former head of Saudi Arabia's Intelligence Directorate, is appointed second deputy Prime Minister, making him second in line to the Saudi throne. ](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.md)
-_Context: Saudi Arabia, Intelligence Directorate, Prime Minister, King, Succession to the Saudi Arabian throne, Muqrin bin Abdulaziz Al Saud_
+_Context: Muqrin bin Abdulaziz Al Saud, Saudi Arabia, Intelligence Directorate, Succession to the Saudi Arabian throne, Prime Minister, King_
 
 ##### Steven Chu
 ### [Steven Chu steps down as United States Secretary of Energy. ](/news/2013/02/1/steven-chu-steps-down-as-united-states-secretary-of-energy.md)

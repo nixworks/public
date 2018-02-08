@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/23/a-2000-pound-900-nbsp-kg-meteorite-explodes-ove
 
 ### [2003-03-23](/news/2003/03/23/index.md)
 
-##### meteorite
+##### Meteorite
 #  A 2000-pound (900&nbsp;kg) meteorite explodes over Chicago shortly before midnight, raining fragments over the city.
 
 

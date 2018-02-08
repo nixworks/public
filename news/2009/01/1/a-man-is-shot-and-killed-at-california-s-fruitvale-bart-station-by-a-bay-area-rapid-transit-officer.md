@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/1/a-man-is-shot-and-killed-at-california-s-fruitva
 
 ### [2009-01-1](/news/2009/01/1/index.md)
 
-##### shooting of Oscar Grant
+##### Shooting of Oscar Grant
 #  A man is shot and killed at California's Fruitvale BART station by a Bay Area Rapid Transit officer. 
 
 

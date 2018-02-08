@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/11/2013-iranian-presidential-election-mohammad-rez
 
 ### [2013-06-11](/news/2013/06/11/index.md)
 
-##### presidential
+##### Presidential
 # 2013 Iranian presidential election: Mohammad Reza Aref announces he will drop out of the race endorsing another reformist candidate Hassan Rouhani, to give the reform movement a better chance to win the election. 
 
 Mohammad Reza Aref throws supports behind the only centrist candidate in presidential race, who will face-off against 5 conservatives

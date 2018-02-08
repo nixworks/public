@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/4/the-uk-government-will-introduce-emergency-legis
 
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-##### the coalition
+##### The coalition
 # The UK government will introduce emergency legislation designed to reverse a controversial judgement on police bail for debate in the House of Commons on Thursday. 
 
 Emergency legislation designed to reverse a controversial judgement on police bail will go before MPs on Thursday.

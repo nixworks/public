@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/20/marking-five-years-since-the-assassination-of-h
 
 ### [2012-01-20](/news/2012/01/20/index.md)
 
-##### assassination of Hrant Dink
+##### Assassination of Hrant Dink
 # Marking five years since the assassination of Hrant Dink, Turks protest.
 
 

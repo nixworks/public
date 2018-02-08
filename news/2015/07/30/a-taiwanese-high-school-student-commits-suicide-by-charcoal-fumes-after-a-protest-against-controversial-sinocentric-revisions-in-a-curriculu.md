@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/30/a-taiwanese-high-school-student-commits-suicide
 
 ### [2015-07-30](/news/2015/07/30/index.md)
 
-##### high school
+##### High school
 # A Taiwanese high school student commits suicide by charcoal fumes after a protest against controversial Sinocentric revisions in a curriculum guideline; hundreds storm the education ministry in response. 
 
 Hundreds of protesters gathered in Taipei early on Friday calling for the education minister to resign after a student committed suicide, amid a deepening row over the island&#x27;s &quot;China-centric&quot; school curriculum. Several hundred people, some holding white roses and candles, congregated

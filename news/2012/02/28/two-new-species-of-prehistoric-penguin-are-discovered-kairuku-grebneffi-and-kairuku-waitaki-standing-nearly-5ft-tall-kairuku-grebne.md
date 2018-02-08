@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-disc
 
 ### [2012-02-28](/news/2012/02/28/index.md)
 
-##### penguin
+##### Penguin
 # Two new species of prehistoric penguin are discovered - "Kairuku grebneffi" and "Kairuku waitaki". Standing nearly 5ft tall, "Kairuku grebneffi" is the largest penguin ever discovered. 
 
 The hefty penguin lived about 27 million years ago and weighed up to 130 pounds.

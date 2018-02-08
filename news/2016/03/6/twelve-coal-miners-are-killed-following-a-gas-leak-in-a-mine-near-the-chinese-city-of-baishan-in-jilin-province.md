@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/6/twelve-coal-miners-are-killed-following-a-gas-le
 
 ### [2016-03-6](/news/2016/03/6/index.md)
 
-##### coal miners
+##### Coal miners
 # Twelve coal miners are killed following a gas leak in a mine near the Chinese city of Baishan in Jilin province. 
 
 

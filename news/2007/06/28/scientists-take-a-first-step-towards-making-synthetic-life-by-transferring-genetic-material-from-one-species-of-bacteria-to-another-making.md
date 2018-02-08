@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/28/scientists-take-a-first-step-towards-making-syn
 
 ### [2007-06-28](/news/2007/06/28/index.md)
 
-##### synthetic life
+##### Synthetic life
 #  Scientists take a first step towards making synthetic life by transferring genetic material from one species of bacteria to another, making it a copy of the first. 
 
 

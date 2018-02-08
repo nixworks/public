@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/27/at-least-7-people-are-killed-and-many-injured-a
 
 ### [2015-07-27](/news/2015/07/27/index.md)
 
-##### gunmen attack
+##### Gunmen attack
 # At least 7 people are killed and many injured after gunmen attack an Indian police station in Punjab. 
 
 

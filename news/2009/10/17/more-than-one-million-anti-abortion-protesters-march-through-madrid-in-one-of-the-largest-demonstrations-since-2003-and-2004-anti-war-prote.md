@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/17/more-than-one-million-anti-abortion-protesters-
 
 ### [2009-10-17](/news/2009/10/17/index.md)
 
-##### abortion
+##### Abortion
 #  More than one million anti-abortion protesters march through Madrid in one of the largest demonstrations since 2003 and 2004 anti-war protests. 
 
 Tens of thousands of anti-abortion campaigners protesting against a proposal to change Spanish abortion laws marched though Madrid on Saturday in one of the largest demonstrations since anti-war protests in 2003 and 2004.

@@ -21,7 +21,7 @@ _Context: Haiti, Tropical Storm Emily_
 
 ##### Japanese government
 ### [The Japanese government led by Prime Minister Naoto Kan announces that it is firing three senior bureaucrats responsible for nuclear energy policy as a result of the Fukushima Daiichi nuclear disaster earlier this year. ](/news/2011/08/4/the-japanese-government-led-by-prime-minister-naoto-kan-announces-that-it-is-firing-three-senior-bureaucrats-responsible-for-nuclear-energy.md)
-_Context: Naoto Kan, nuclear program, Prime Minister of Japan, Japanese government, Fukushima Daiichi nuclear disaster_
+_Context: Fukushima Daiichi nuclear disaster, Naoto Kan, Prime Minister of Japan, Japanese government, nuclear program_
 
 ##### Southern United States
 ### [Fourteen states in the Southern United States are on a heat alert with several dozen deaths since July as part of a heat wave. ](/news/2011/08/4/fourteen-states-in-the-southern-united-states-are-on-a-heat-alert-with-several-dozen-deaths-since-july-as-part-of-a-heat-wave.md)
@@ -29,7 +29,7 @@ The National Weather Service chief calls it a heat wave more intense than any he
 
 ##### Sky News
 ### [Sky News reports new evidence that North Korean officials have been involved in the illegal drugs trade. ](/news/2011/08/4/sky-news-reports-new-evidence-that-north-korean-officials-have-been-involved-in-the-illegal-drugs-trade.md)
-_Context: illegal drugs trade, Sky News, North Korea_
+_Context: illegal drugs trade, North Korea, Sky News_
 
 ##### United States
 ### [The shutdown of the United States Federal Aviation Administration will end August 8th. ](/news/2011/08/4/the-shutdown-of-the-united-states-federal-aviation-administration-will-end-august-8th.md)
@@ -41,13 +41,13 @@ _Context: Donald Rumsfeld_
 
 ##### Heather Mills
 ### [Heather Mills claims that a Mirror Group journalist admitted hacking into her phone and listening to a message from then-boyfriend Paul McCartney - Piers Morgan has admitted to hearing it although he was not the journalist involved. ](/news/2011/08/4/heather-mills-claims-that-a-mirror-group-journalist-admitted-hacking-into-her-phone-and-listening-to-a-message-from-then-boyfriend-paul-mcca.md)
-_Context: Heather Mills, Piers Morgan, Paul McCartney, Mirror Group_
+_Context: Paul McCartney, Piers Morgan, Heather Mills, Mirror Group_
 
 ##### Nelson Jobim
 ### [Nelson Jobim resigns as the Minister of Defence in Brazil after making critical remarks about the government of President Dilma Rousseff and fellow Ministers - he is replaced by Celso Amorim. ](/news/2011/08/4/nelson-jobim-resigns-as-the-minister-of-defence-in-brazil-after-making-critical-remarks-about-the-government-of-president-dilma-rousseff-and.md)
-_Context: Dilma Rousseff, Nelson Jobim, president, Celso Amorim, Brazil, Minister of Defence_
+_Context: president, Minister of Defence, Celso Amorim, Brazil, Nelson Jobim, Dilma Rousseff_
 
-##### the coalition
+##### The coalition
 ### [The British Government launches a new e-petition website to encourage the public to prompt parliamentary debate on topics they feel are important. Several petitions concern proposals for and against restoring the death penalty, last used in the UK in 1964.](/news/2011/08/4/the-british-government-launches-a-new-e-petition-website-to-encourage-the-public-to-prompt-parliamentary-debate-on-topics-they-feel-are-impo.md)
 An online campaign is calling for the death penalty to be reinstated citing opinion polls which suggest half the population are in favour. But is this what the public really wants?
 

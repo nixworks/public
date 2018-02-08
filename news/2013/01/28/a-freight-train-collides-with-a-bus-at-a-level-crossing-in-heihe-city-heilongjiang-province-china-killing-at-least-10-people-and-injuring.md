@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/28/a-freight-train-collides-with-a-bus-at-a-level-
 
 ### [2013-01-28](/news/2013/01/28/index.md)
 
-##### freight train
+##### Freight train
 # A freight train collides with a bus at a level crossing in Heihe City, Heilongjiang province, China, killing at least 10 people and injuring 11 others. 
 
 At least ten people were killed and eleven others injured today after a passenger bus and a cargo train collided in northeast China Province.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/12/31/five-hijackers-who-had-been-holding-155-hostage
 
 ### [1999-12-31](/news/1999/12/31/index.md)
 
-##### aircraft piracy
+##### Aircraft piracy
 #  Five hijackers, who had been holding 155 hostages on an Indian Airlines Flight 814 aeroplane, leave the aircraft with two Islamic clerics that they had demanded be freed.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/1/dr-jack-kevorkian-is-released-from-prison-after-
 
 ### [2007-06-1](/news/2007/06/1/index.md)
 
-##### doctors
+##### Doctors
 #  Dr. Jack Kevorkian is released from prison after serving 8 years for assisting terminally ill patients with suicide. 
 
 

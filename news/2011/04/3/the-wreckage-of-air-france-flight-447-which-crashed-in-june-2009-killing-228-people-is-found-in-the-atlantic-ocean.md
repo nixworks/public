@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/3/the-wreckage-of-air-france-flight-447-which-cras
 
 ### [2011-04-3](/news/2011/04/3/index.md)
 
-##### crash of Air France Flight 447
+##### Crash of Air France Flight 447
 # The wreckage of Air France Flight 447, which crashed in June 2009, killing 228 people, is found in the Atlantic Ocean. 
 
 Wreckage from an Air France passenger jet lost over the Atlantic in 2009 has been found, French investigators announce.

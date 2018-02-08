@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/18/a-car-bombing-in-the-center-of-the-somali-capit
 
 ### [2013-03-18](/news/2013/03/18/index.md)
 
-##### car bombing
+##### Car bombing
 # A car bombing in the center of the Somali capital, Mogadishu, kills at least 10 people and injures 20 others. 
 
 

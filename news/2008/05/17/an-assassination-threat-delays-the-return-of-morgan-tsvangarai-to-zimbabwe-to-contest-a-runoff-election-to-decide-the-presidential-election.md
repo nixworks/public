@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/17/an-assassination-threat-delays-the-return-of-mo
 
 ### [2008-05-17](/news/2008/05/17/index.md)
 
-##### assassination
+##### Assassination
 #  An assassination threat delays the return of Morgan Tsvangarai to Zimbabwe to contest a runoff election to decide the presidential election. 
 
 

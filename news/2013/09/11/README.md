@@ -3,13 +3,13 @@ Formats: [HTML](2013/09/11/index.html)  [JSON](2013/09/11/index.json)  [XML](201
 
 ## [2013-09-11](/news/2013/09/11/index.md)
 
-##### war crime
+##### War crime
 ### [The UN accuses both the Syrian government and, to a lesser extent, the rebels of war crimes. Out of 9 massacres they investigated, 8 were attributed to the Syrian Army. The remaining massacre was attributed to insurgents. ](/news/2013/09/11/the-un-accuses-both-the-syrian-government-and-to-a-lesser-extent-the-rebels-of-war-crimes-out-of-9-massacres-they-investigated-8-were-at.md)
 Investigators say government forces and rebel fighters have killed, tortured and raped on a huge scale.
 
 ##### Egypt
 ### [Two suicide bombers ram a car with explosives. Egyptian military says one hit the local branch of military intelligence, while the other struck an army checkpoint in Rafah killing nine soldiers and wounding 17 others. ](/news/2013/09/11/two-suicide-bombers-ram-a-car-with-explosives-egyptian-military-says-one-hit-the-local-branch-of-military-intelligence-while-the-other-str.md)
-_Context: Rafah, Egyptian Army, Egypt_
+_Context: Egyptian Army, Rafah, Egypt_
 
 ##### 2012 Benghazi attack
 ### [On the first anniversary of the 2012 Benghazi attack, a powerful car bomb explodes near the Libyan Foreign Ministry building in the city. ](/news/2013/09/11/on-the-first-anniversary-of-the-2012-benghazi-attack-a-powerful-car-bomb-explodes-near-the-libyan-foreign-ministry-building-in-the-city.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Catalan people
 ### [Hundreds of thousands of Catalans link up in a human chain for the independence of Catalonia. ](/news/2013/09/11/hundreds-of-thousands-of-catalans-link-up-in-a-human-chain-for-the-independence-of-catalonia.md)
-_Context: Catalan people, human chain, independence of Catalonia_
+_Context: Catalan people, independence of Catalonia, human chain_
 
 ## [Previous Day...](/news/2013/09/10/index.md)
 

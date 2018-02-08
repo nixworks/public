@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/9/a-suicide-bomb-in-pakistan-s-tribal-areas-near-t
 
 ### [2010-07-9](/news/2010/07/9/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 # A suicide bomb in Pakistan's tribal areas near the Afghanistan border kills at least 50. 
 
 

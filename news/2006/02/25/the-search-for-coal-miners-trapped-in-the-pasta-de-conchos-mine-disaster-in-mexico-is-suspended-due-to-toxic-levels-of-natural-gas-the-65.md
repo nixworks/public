@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/25/the-search-for-coal-miners-trapped-in-the-pasta
 
 ### [2006-02-25](/news/2006/02/25/index.md)
 
-##### coal miners
+##### Coal miners
 #  The search for coal miners trapped in the Pasta de Conchos mine disaster in Mexico is suspended due to toxic levels of natural gas. The 65 trapped miners are presumed dead. 
 
 

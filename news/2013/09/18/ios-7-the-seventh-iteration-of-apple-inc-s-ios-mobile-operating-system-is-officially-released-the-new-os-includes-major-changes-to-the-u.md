@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/18/ios-7-the-seventh-iteration-of-apple-inc-s-ios-
 
 ### [2013-09-18](/news/2013/09/18/index.md)
 
-##### iOS 7
+##### IOS 7
 # iOS 7, the seventh iteration of Apple Inc.'s iOS mobile operating system, is officially released. The new OS includes major changes to the user interface. 
 
 

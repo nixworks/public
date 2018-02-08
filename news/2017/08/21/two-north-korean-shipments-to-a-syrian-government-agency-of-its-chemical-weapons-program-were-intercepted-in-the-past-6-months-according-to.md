@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-governme
 
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-##### chemical weapons
+##### Chemical weapons
 # Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. 
 
 

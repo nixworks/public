@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/8/thunderstorms-throughout-the-midwestern-united-s
 
 ### [2009-05-8](/news/2009/05/8/index.md)
 
-##### thunderstorm
+##### Thunderstorm
 #  Thunderstorms throughout the Midwestern United States kill five people. 
 
 Residents across the middle of the country began to clean up after storms splintered homes, knocked out power to thousands and killed five people.

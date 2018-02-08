@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/27/continuation-of-an-equine-influenza-outbreak-in
 
 ### [2007-08-27](/news/2007/08/27/index.md)
 
-##### equine influenza outbreak
+##### Equine influenza outbreak
 #  Continuation of an equine influenza outbreak in Australia could threaten security at next week's APEC meeting 
 
 

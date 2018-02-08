@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/10/canada-s-auditor-general-sheila-fraser-releases
 
 ### [2004-02-10](/news/2004/02/10/index.md)
 
-##### audit
+##### Audit
 #  Canada's auditor-general, Sheila Fraser, releases a scathing report on a CA$250-million sponsorship fund that had a major portion of its funds directed to firms friendly to the ruling Liberal party; the resulting scandal and inquiry is quite likely to affect the coming election. Alfonso Gagliano, a former cabinet minister involved in the scandal, is removed from his post as ambassador to Denmark and recalled to Canada.
 
 

@@ -17,7 +17,7 @@ West Bank /PNN/ Israeli occupation forces killed on Friday, a Palestinian woman 
 
 ##### Academy Award
 ### [British-American Academy Award-winning film actress Olivia de Havilland, one of the last leading movie stars of the Golden Age of Hollywood, celebrates her 100th birthday. ](/news/2016/07/1/britishaamerican-academy-awardawinning-film-actress-olivia-de-havilland-one-of-the-last-leading-movie-stars-of-the-golden-age-of-hollyw.md)
-_Context: Academy Award, Olivia de Havilland, Golden Age of Hollywood_
+_Context: Olivia de Havilland, Academy Award, Golden Age of Hollywood_
 
 ##### Thiepval Memorial
 ### [Thousands of people attend a ceremony at the Thiepval Memorial in Picardy, France, to mark the centenary of the start of the Battle of the Somme. ](/news/2016/07/1/thousands-of-people-attend-a-ceremony-at-the-thiepval-memorial-in-picardy-france-to-mark-the-centenary-of-the-start-of-the-battle-of-the-s.md)
@@ -51,13 +51,13 @@ YANGON, Myanmar (AP) — Conditions in camps for members of Myanmar&#039;s Musli
 ### [Following his meeting at Finnish President Sauli Niinisto's residence, Russian President Vladimir Putin says that Russia would respect Finland's choice whether to join NATO, though as part of NATO's military infrastructure, Finnish Defence Forces would overnight be at the borders of the Russian Federation. Putin and Niinisto call for improved security in Baltic airspace where Russian and Western aircraft have had close encounters in recent months. ](/news/2016/07/1/following-his-meeting-at-finnish-president-sauli-niinistap-s-residence-russian-president-vladimir-putin-says-that-russia-would-respect-finl.md)
 President Vladimir Putin suggested on Friday Russia could move its troops closer to the Finnish-Russian border if Finland joins NATO and called for measures to improve conflict prevention over the Baltic.
 
-##### drug crackdown
+##### Drug crackdown
 ### [Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. ](/news/2016/07/1/philippines-president-rodrigo-duterte-urges-filipino-citizens-to-murder-people-suspected-of-using-illegal-drugs.md)
 Duterte, 71, won power in a landslide after a campaign dominated by threats to kill tens of thousands in a war on crime
 
 ##### U Gambira
 ### [U Gambira, a former Burmese monk and one of the most visible leaders during Myanmar's 2007 Saffron Revolution, is released from prison after having the charges against him dropped. ](/news/2016/07/1/u-gambira-a-former-burmese-monk-and-one-of-the-most-visible-leaders-during-myanmar-s-2007-saffron-revolution-is-released-from-prison-after.md)
-_Context: U Gambira, Saffron Revolution, Myanmar's, Myanmar_
+_Context: U Gambira, Myanmar, Myanmar's, Saffron Revolution_
 
 ##### Austrian presidential election, 2016
 ### [Austria's highest court orders a repeat of the presidential elections narrowly lost in May by right-wing populist Freedom Party of Austria candidate Norbert Hofer. The margin of votes was less than 1%. ](/news/2016/07/1/austriaas-highest-court-orders-a-repeat-of-the-presidential-elections-narrowly-lost-in-may-by-right-wing-populist-freedom-party-of-austria.md)
@@ -67,9 +67,9 @@ Europe was plunged into fresh crisis on Friday as Austria&rsquo;s courts ordered
 ### [Thousands of people take to the streets of Hong Kong, demanding answers over China's alleged abduction of five booksellers in late 2015 and that Chief Executive Leung Chun-ying resign from office. ](/news/2016/07/1/thousands-of-people-take-to-the-streets-of-hong-kong-demanding-answers-over-china-s-alleged-abduction-of-five-booksellers-in-late-2015-and.md)
 Thousands demand resignation of CY Leung who critics accuse of failing to confront China over bookseller scandal
 
-##### new Belarusian ruble
+##### New Belarusian ruble
 ### [ The new Belarusian ruble replaces the old Belarusian ruble during redenomination. ](/news/2016/07/1/the-new-belarusian-ruble-replaces-the-old-belarusian-ruble-during-redenomination.md)
-_Context: Belarusian ruble, redenomination, new Belarusian ruble_
+_Context: Belarusian ruble, new Belarusian ruble, redenomination_
 
 ##### Paris
 ### [Paris, France, implements a pollution-reduction program that bans residents from driving cars built before 1997, and motorcycles built before 2000, on weekdays inside the city limits between 8 a.m. and 8 p.m. ](/news/2016/07/1/paris-france-implements-a-pollution-reduction-program-that-bans-residents-from-driving-cars-built-before-1997-and-motorcycles-built-befor.md)

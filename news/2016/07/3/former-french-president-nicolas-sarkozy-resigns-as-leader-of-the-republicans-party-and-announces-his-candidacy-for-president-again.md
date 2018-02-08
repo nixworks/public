@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-
 
 ### [2016-07-3](/news/2016/07/3/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. 
 
 Leader of conservative Les Republicains party announces he will step down as its head, paving the way to enter primaries ahead of 2017 contest

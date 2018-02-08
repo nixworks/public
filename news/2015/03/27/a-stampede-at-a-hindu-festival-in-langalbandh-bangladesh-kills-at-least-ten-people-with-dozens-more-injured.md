@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/27/a-stampede-at-a-hindu-festival-in-langalbandh-b
 
 ### [2015-03-27](/news/2015/03/27/index.md)
 
-##### stampede
+##### Stampede
 # A stampede at a Hindu festival in Langalbandh, Bangladesh, kills at least ten people with dozens more injured. 
 
 

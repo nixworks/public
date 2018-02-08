@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/8/a-third-outbreak-of-foot-and-mouth-disease-has-b
 
 ### [2007-08-8](/news/2007/08/8/index.md)
 
-##### foot and mouth disease
+##### Foot and mouth disease
 #  A third outbreak of foot and mouth disease has been discovered in southern England but a ban of sending animals to slaughter is lifted in most of the country. 
 
 

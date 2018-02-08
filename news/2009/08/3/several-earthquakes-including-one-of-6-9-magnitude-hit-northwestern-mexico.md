@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/3/several-earthquakes-including-one-of-6-9-magnitu
 
 ### [2009-08-3](/news/2009/08/3/index.md)
 
-##### one of 6.9 magnitude
+##### One of 6.9 magnitude
 #  Several earthquakes, including one of 6.9 magnitude, hit northwestern Mexico. 
 
 

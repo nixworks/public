@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/15/presidential-elections-in-the-war-torn-country-
 
 ### [2004-10-15](/news/2004/10/15/index.md)
 
-##### election
+##### Election
 #  Presidential elections in the war torn country of Burundi are postponed until April 2005. 
 
 

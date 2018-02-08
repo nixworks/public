@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/28/2011-horn-of-africa-famine-african-union-peacek
 
 ### [2011-07-28](/news/2011/07/28/index.md)
 
-##### famine
+##### Famine
 # 2011 Horn of Africa famine: African Union peacekeepers launch a major offensive against Al-Shabaab militants in Mogadishu, Somalia, in order to reduce threats to relief efforts. 
 
 

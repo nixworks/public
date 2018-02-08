@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/8/local-government-elections-take-place-in-norther
 
 ### [2009-08-8](/news/2009/08/8/index.md)
 
-##### local elections
+##### Local elections
 #  Local government elections take place in northern Sri Lanka, the first elections since the end of the civil war. 
 
 

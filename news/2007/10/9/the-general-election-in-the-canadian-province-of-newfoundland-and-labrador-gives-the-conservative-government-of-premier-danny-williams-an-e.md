@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/9/the-general-election-in-the-canadian-province-of
 
 ### [2007-10-9](/news/2007/10/9/index.md)
 
-##### general election
+##### General election
 #  The general election in the Canadian province of Newfoundland and Labrador gives the Conservative government of Premier Danny Williams an enlarged majority at the expense of the Liberals. 
 
 

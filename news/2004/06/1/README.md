@@ -13,23 +13,23 @@ _Context: Iran, enriched uranium, IAEA_
 
 ##### Shi'a
 ### [ Shi'ite Muslims in Karachi, enraged by a mosque bombing that killed 20 worshippers, battle police and burn U.S. fast food restaurants as the government struggles to contain a third day of violence in Pakistan's largest city. ](/news/2004/06/1/shi-ite-muslims-in-karachi-enraged-by-a-mosque-bombing-that-killed-20-worshippers-battle-police-and-burn-u-s-fast-food-restaurants-as-th.md)
-_Context: fast food, Shi'a, Karachi, Pakistan_
+_Context: fast food, Karachi, Pakistan, Shi'a_
 
 ##### Democratic
 ### [ Democrat Stephanie Herseth narrowly defeats Republican Larry Diedrich in a closely watched by-election for South Dakota's US House seat. ](/news/2004/06/1/democrat-stephanie-herseth-narrowly-defeats-republican-larry-diedrich-in-a-closely-watched-by-election-for-south-dakota-s-us-house-seat.md)
-_Context: South Dakota, Democratic, Stephanie Herseth, by-election, Republican, House of Representatives_
+_Context: Democratic, by-election, Republican, South Dakota, Stephanie Herseth, House of Representatives_
 
 ##### Zimbabwe
 ### [ The Zimbabwe government proposes new terms for all Internet service providers that will force them to block content or report "malicious messages" to the authorities. ](/news/2004/06/1/the-zimbabwe-government-proposes-new-terms-for-all-internet-service-providers-that-will-force-them-to-block-content-or-report-malicious-me.md)
-_Context: Zimbabwe, Internet service provider_
+_Context: Internet service provider, Zimbabwe_
 
 ##### Norway
 ### [ Norway becomes the world's second nation after Ireland to ban smoking in all bars and restaurants. ](/news/2004/06/1/norway-becomes-the-world-s-second-nation-after-ireland-to-ban-smoking-in-all-bars-and-restaurants.md)
-_Context: tobacco smoking, Norway, Ireland, ban_
+_Context: tobacco smoking, ban, Norway, Ireland_
 
 ##### Jennifer Hawkins
 ### [ Jennifer Hawkins, a twenty-year-old Australian, wins the Miss Universe contest, held in Quito, Ecuador. ](/news/2004/06/1/jennifer-hawkins-a-twenty-year-old-australian-wins-the-miss-universe-contest-held-in-quito-ecuador.md)
-_Context: Quito, Ecuador, Jennifer Hawkins, Miss Universe_
+_Context: Miss Universe, Ecuador, Jennifer Hawkins, Quito_
 
 ## [Previous Day...](/news/2004/05/31/index.md)
 

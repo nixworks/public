@@ -13,7 +13,7 @@ Greek&#x20;unions&#x20;called&#x20;for&#x20;a&#x20;24-hour&#x20;general&#x20;str
 
 ##### Buenos Aires
 ### [A train collision in Buenos Aires, Argentina, results in three deaths and at least 150 injured. ](/news/2013/06/13/a-train-collision-in-buenos-aires-argentina-results-in-three-deaths-and-at-least-150-injured.md)
-_Context: Argentina, Buenos Aires_
+_Context: Buenos Aires, Argentina_
 
 ##### Geismar
 ### [A chemical plant explodes in Geismar, Louisiana, injuring 73 people and killing one. ](/news/2013/06/13/a-chemical-plant-explodes-in-geismar-louisiana-injuring-73-people-and-killing-one.md)
@@ -31,7 +31,7 @@ Briton Malcolm Primrose, who was kidnapped in Indonesia on Tuesday, has now retu
 ### [Four people are killed in a murder-suicide at a home health care business in St. Louis, Missouri, United States, by the owner of the business, 59-year-old Ahmed Dirir. ](/news/2013/06/13/four-people-are-killed-in-a-murder-suicide-at-a-home-health-care-business-in-st-louis-missouri-united-states-by-the-owner-of-the-busines.md)
 Police sorting out what happened; victims &mdash; some of them related &mdash; all worked at home health care firm.
 
-##### corruption scandal
+##### Corruption scandal
 ### [Czech investigative authorities start a raid against organized crime, affecting the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.](/news/2013/06/13/czech-investigative-authorities-start-a-raid-against-organized-crime-affecting-the-top-levels-of-czech-politics-including-prime-minister-p.md)
 Several officials, including a top aide to Prime Minister Petr Necas, are reported to have been detained. The coalition government has been rocked by a series of corruption scandals.
 
@@ -45,7 +45,7 @@ Dale Cregan will spend the rest of his life in jail for four murders including t
 
 ##### Zimbabwe
 ### [The incumbent President of Zimbabwe, Robert Mugabe, determines that elections will be scheduled for 31 July 2013, however Mugabe's leading presidential contestant and primary political rival Morgan Tsvangirai rejects this as being "a unilateral and flagrant breach of the constitution". ](/news/2013/06/13/the-incumbent-president-of-zimbabwe-robert-mugabe-determines-that-elections-will-be-scheduled-for-31-july-2013-however-mugabe-s-leading-p.md)
-_Context: Morgan Tsvangirai, recent elections, Zimbabwe, Robert Mugabe_
+_Context: Morgan Tsvangirai, Robert Mugabe, Zimbabwe, recent elections_
 
 ## [Previous Day...](/news/2013/06/12/index.md)
 

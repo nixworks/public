@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-kill
 
 ### [2010-08-24](/news/2010/08/24/index.md)
 
-##### lance-corporal
+##### Lance-corporal
 # A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. 
 
 

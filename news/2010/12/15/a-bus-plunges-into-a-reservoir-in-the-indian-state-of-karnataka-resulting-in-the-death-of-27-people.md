@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/15/a-bus-plunges-into-a-reservoir-in-the-indian-st
 
 ### [2010-12-15](/news/2010/12/15/index.md)
 
-##### reservoir
+##### Reservoir
 # A bus plunges into a reservoir in the Indian state of Karnataka resulting in the death of 27 people. 
 
 Nearly 30 people die as a bus carrying wedding guests plunges into a reservoir in southern India.

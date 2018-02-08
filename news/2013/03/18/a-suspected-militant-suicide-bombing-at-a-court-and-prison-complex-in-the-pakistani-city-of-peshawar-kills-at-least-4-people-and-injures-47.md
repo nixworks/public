@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/18/a-suspected-militant-suicide-bombing-at-a-court
 
 ### [2013-03-18](/news/2013/03/18/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suspected militant suicide bombing at a court and prison complex in the Pakistani city of Peshawar kills at least 4 people and injures 47 others. 
 
 Militants kill at least four people and injure 29 in an attack on a court and prison complex in the north-west Pakistani city of Peshawar.

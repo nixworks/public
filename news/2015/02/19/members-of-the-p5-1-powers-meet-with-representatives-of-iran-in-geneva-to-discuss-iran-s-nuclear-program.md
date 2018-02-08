@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/19/members-of-the-p5-1-powers-meet-with-representa
 
 ### [2015-02-19](/news/2015/02/19/index.md)
 
-##### several world powers
+##### Several world powers
 # Members of the P5+1 powers meet with representatives of Iran in Geneva to discuss Iran's nuclear program. 
 
 

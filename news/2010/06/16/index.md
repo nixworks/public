@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: United States, Christopher "Dudus" Coke, Kingston, drug lord, Jamaica_
+_Context: drug lord, Christopher "Dudus" Coke, Kingston, Jamaica, United States_
 
 ##### United States
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
@@ -17,7 +17,7 @@ Refugee agencies express concern over reported plans by the UK to deport about 5
 
 ##### Iran
 ### [Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enriching-uranium-despite-un-nuclear-san.md)
-_Context: Iran, nuclear reactor, ban on ballistic missile tests_
+_Context: ban on ballistic missile tests, Iran, nuclear reactor_
 
 ##### U.S. President
 ### [U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livelihoods-have-been-damaged-by-th.md)
@@ -29,15 +29,15 @@ Security cabinet adjourns meeting on allowing entry of building materials and ot
 
 ##### Cox's Bazar
 ### [At least 49 people are killed during landslides in Cox's Bazar, Bangladesh, with many swept to their deaths as they slept. ](/news/2010/06/16/at-least-49-people-are-killed-during-landslides-in-cox-s-bazar-bangladesh-with-many-swept-to-their-deaths-as-they-slept.md)
-_Context: Bangladesh, Cox's Bazar_
+_Context: Cox's Bazar, Bangladesh_
 
-##### flooding
+##### Flooding
 ### [At least 25 people die during flooding in the Var department of Cote d'Azur, Southern France. ](/news/2010/06/16/at-least-25-people-die-during-flooding-in-the-var-department-of-ca-te-d-azur-southern-france.md)
 Flash floods in south-eastern France leave at least 19 people dead and hundreds of homes flooded, officials say.
 
 ##### Mexico
 ### [A shootout in the Mexican tourist town of Taxco leaves 15 dead. ](/news/2010/06/16/a-shootout-in-the-mexican-tourist-town-of-taxco-leaves-15-dead.md)
-_Context: Taxco, Mexico_
+_Context: Mexico, Taxco_
 
 ##### Baghdad
 ### [Two separate blasts in eastern Baghdad kill 1 person and wound another 8. ](/news/2010/06/16/two-separate-blasts-in-eastern-baghdad-kill-1-person-and-wound-another-8.md)
@@ -61,7 +61,7 @@ More than $300m of HIV/Aids health funding to Zambia is being suspended over cor
 
 ##### George Osborne
 ### [George Osborne scraps Britain's financial regulator and grants new powers to the Bank of England. ](/news/2010/06/16/george-osborne-scraps-britain-s-financial-regulator-and-grants-new-powers-to-the-bank-of-england.md)
-_Context: George Osborne, Bank of England_
+_Context: Bank of England, George Osborne_
 
 ##### Colombian Army
 ### [The National Army of Colombia says an unknown number of informants who aided the rescue of three police officers and a soldier from FARC on Sunday will receive a $1.2 million reward between them. ](/news/2010/06/16/the-national-army-of-colombia-says-an-unknown-number-of-informants-who-aided-the-rescue-of-three-police-officers-and-a-soldier-from-farc-on.md)
@@ -69,7 +69,7 @@ Colombian informants share a $1.2m reward for helping the rescue of four securit
 
 ##### LeTV
 ### [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md)
-_Context: Voole, LeTV, Sohu_
+_Context: Sohu, LeTV, Voole_
 
 ##### Dutch
 ### [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md)
@@ -77,11 +77,11 @@ A court bails two Dutch women over an alleged marketing stunt at the World Cup, 
 
 ##### Dragon Boat Festival
 ### [The annual Dragon Boat Festival starts in Lhasa. ](/news/2010/06/16/the-annual-dragon-boat-festival-starts-in-lhasa.md)
-_Context: Lhasa, Dragon Boat Festival_
+_Context: Dragon Boat Festival, Lhasa_
 
 ##### Jesus Christ
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: Ohio, Jesus Christ, United States_
+_Context: United States, Ohio, Jesus Christ_
 
 ##### Italy
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/20/five-snowboarders-are-killed-in-a-backcountry-a
 
 ### [2013-04-20](/news/2013/04/20/index.md)
 
-##### snowboarders
+##### Snowboarders
 # Five snowboarders are killed in a backcountry avalanche on Loveland Pass in the U.S. state of Colorado in the deadliest US avalanche since 1962. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

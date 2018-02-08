@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/05/4/a-rare-astronomical-conjunction-occurs-on-the-ne
 
 ### [2000-05-4](/news/2000/05/4/index.md)
 
-##### astronomical conjunction
+##### Astronomical conjunction
 # A rare astronomical conjunction occurs on the New Moon including all seven of the traditional celestial bodies known from ancient times until the discovery of Uranus in 1781; this conjunction consists of the Sun and Moon, Mercury, Venus, Mars, Jupiter and Saturn.
 
 

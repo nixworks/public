@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/8/u-s-police-arrest-two-men-suspected-in-carrying-
 
 ### [2012-04-8](/news/2012/04/8/index.md)
 
-##### shooting attack
+##### Shooting attack
 # U.S. police arrest two men suspected in carrying out a shooting attack in Tulsa, Oklahoma, that happened the day before, leaving three people dead and two injured. The shootings are being investigated as a hate crime. 
 
 

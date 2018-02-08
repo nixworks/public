@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/6/an-earthquake-measuring-6-9-on-the-richter-scale
 
 ### [2004-02-6](/news/2004/02/6/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake, measuring 6.9 on the Richter scale, occurs in the Papua province of Indonesia and kills at least 23 people.
 
 

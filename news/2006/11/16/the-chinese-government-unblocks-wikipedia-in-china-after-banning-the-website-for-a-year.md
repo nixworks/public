@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/16/the-chinese-government-unblocks-wikipedia-in-ch
 
 ### [2006-11-16](/news/2006/11/16/index.md)
 
-##### unblocks Wikipedia in China
+##### Unblocks Wikipedia in China
 #  The Chinese Government unblocks Wikipedia in China after banning the website for a year. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/20/incumbent-president-hassan-rouhani-is-re-electe
 
 ### [2017-05-20](/news/2017/05/20/index.md)
 
-##### re-elected
+##### Re-elected
 # Incumbent President Hassan Rouhani is re-elected with 23.5 million votes, defeating Ebrahim Raisi who received 15.7 million votes. 
 
 With more than half of votes counted, incumbent president appears set to beat conservative challenger Ebrahim Raisi.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/22/four-police-officers-are-killed-in-oakland-cali
 
 ### [2009-03-22](/news/2009/03/22/index.md)
 
-##### police officer
+##### Police officer
 #  Four police officers are killed in Oakland, California, United States. 
 
 

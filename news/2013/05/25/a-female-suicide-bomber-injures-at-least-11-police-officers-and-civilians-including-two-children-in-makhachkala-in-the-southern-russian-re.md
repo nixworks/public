@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/25/a-female-suicide-bomber-injures-at-least-11-pol
 
 ### [2013-05-25](/news/2013/05/25/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. 
 
 A female suicide bomber has injured at least 11 police officers and civilians, including two children, in the southern Russian region of Dagestan, police say. 

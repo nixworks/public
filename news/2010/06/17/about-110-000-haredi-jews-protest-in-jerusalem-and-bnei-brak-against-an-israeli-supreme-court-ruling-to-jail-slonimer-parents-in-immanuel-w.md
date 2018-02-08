@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/17/about-110-000-haredi-jews-protest-in-jerusalem-
 
 ### [2010-06-17](/news/2010/06/17/index.md)
 
-##### ultra-orthodox
+##### Ultra-orthodox
 # About 110,000 Haredi Jews protest in Jerusalem and Bnei Brak against an Israeli Supreme Court ruling to jail Slonimer parents in Immanuel, who follow their rebbe's order not to send their girls to school with girls of non-Ashkenazi descent. 
 
 Tens of thousands of ultra-Orthodox Jews gathered in Jerusalem to protest a Supreme Court order to integrate Ashkenazi and Sephardi girls in a West Bank school, after which dozens of haredi parents entered prison.

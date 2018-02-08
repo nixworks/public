@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/31/raffaele-sollecito-is-arrested-in-italy-near-th
 
 ### [2014-01-31](/news/2014/01/31/index.md)
 
-##### killing Meredith Kercher
+##### Killing Meredith Kercher
 # Raffaele Sollecito is arrested in Italy near the Austrian border after again being found guilty of the murder of Meredith Kercher. 
 
 Italian police find Raffaele Sollecito near the Austrian border after a court reinstated his guilty verdict for killing Briton Meredith Kercher.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/18/one-person-is-dead-four-people-are-missing-afte
 
 ### [2007-08-18](/news/2007/08/18/index.md)
 
-##### fire
+##### Fire
 #  One person is dead, four people are missing, after a fire at the Penhallow Hotel in Newquay, Cornwall. 
 
 

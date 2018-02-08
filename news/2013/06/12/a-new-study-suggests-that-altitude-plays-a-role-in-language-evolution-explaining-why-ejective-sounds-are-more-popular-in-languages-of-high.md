@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role
 
 ### [2013-06-12](/news/2013/06/12/index.md)
 
-##### altitude
+##### Altitude
 # A new study suggests that altitude plays a role in language evolution, explaining why ejective sounds are more popular in languages of high-altitude regions. 
 
 

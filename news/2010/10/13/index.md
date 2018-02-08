@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/13/index.html)  [JSON](2010/10/13/index.json)  [XML](201
 
 ##### Kurdistan Workers' Party
 ### [Two soldiers died and another one was injured in clash with PKK militants in Ovacik township of southeastern province of Tunceli, Turkey. ](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-in-clash-with-pkk-militants-in-ovacik-township-of-southeastern-province-of-tunceli-turkey.md)
-_Context: Ovacik, Tunceli, Kurdistan Workers' Party_
+_Context: Ovacik, Kurdistan Workers' Party, Tunceli_
 
 ##### Pakistan
 ### [The death toll has risen to 11 following a U.S. drone strike launched late Wednesday night in the Datta Khell area of Pakistan. ](/news/2010/10/13/the-death-toll-has-risen-to-11-following-a-u-s-drone-strike-launched-late-wednesday-night-in-the-datta-khell-area-of-pakistan.md)
@@ -13,11 +13,11 @@ _Context: Pakistan_
 
 ##### Somali pirates
 ### [Somali pirates release Puntland's Ports Minister Said Mohamed Rageh who was kidnapped last Friday. ](/news/2010/10/13/somali-pirates-release-puntland-s-ports-minister-said-mohamed-rageh-who-was-kidnapped-last-friday.md)
-_Context: Puntland, Said Mohamed Rageh, Somali pirates_
+_Context: Puntland, Somali pirates, Said Mohamed Rageh_
 
 ##### Iran
 ### [Iran's Fars News Agency (FNA) announces that 18 people were killed in a blast at one of the Revolutionary Guards' bases in Luristan Province. ](/news/2010/10/13/iran-s-fars-news-agency-fna-announces-that-18-people-were-killed-in-a-blast-at-one-of-the-revolutionary-guards-bases-in-luristan-province.md)
-_Context: Revolutionary Guards, Iran, Luristan Province, Fars News Agency_
+_Context: Revolutionary Guards, Luristan Province, Iran, Fars News Agency_
 
 ##### War in Afghanistan
 ### [8 people are feared dead after a cargo plane crash near Kabul. ](/news/2010/10/13/8-people-are-feared-dead-after-a-cargo-plane-crash-near-kabul.md)
@@ -37,13 +37,13 @@ _Context: France_
 
 ##### A$
 ### [The Australian dollar reaches its highest level against the United States dollar in 27 years. ](/news/2010/10/13/the-australian-dollar-reaches-its-highest-level-against-the-united-states-dollar-in-27-years.md)
-_Context: A$, $_
+_Context: $, A$_
 
 #####  moratorium
 ### [The US government rules out a moratorium on foreclosures. The moratorium would help millions expected to lose their homes, but may also hurt the housing market. ](/news/2010/10/13/the-us-government-rules-out-a-moratorium-on-foreclosures-the-moratorium-would-help-millions-expected-to-lose-their-homes-but-may-also-hurt.md)
 The Obama administration rejected calls for a nationwide moratorium on housing foreclosures amid fears that such a move could cripple an already slow recovery of the U.S. housing market.
 
-##### pornographic actor
+##### Pornographic actor
 ### [An unknown pornographic actor has tested positive for HIV, with Wicked Pictures and Vivid Entertainment halting production. ](/news/2010/10/13/an-unknown-pornographic-actor-has-tested-positive-for-hiv-with-wicked-pictures-and-vivid-entertainment-halting-production.md)
 Get the latest health&nbsp;news, diet &amp; fitness information, medical research, health care trends and health issues that affect you and your family on ABCNews.com
 
@@ -65,7 +65,7 @@ Twenty-three veterans of the Communist Party write open letter, calling for scra
 
 ##### Premier
 ### [Chinese Premier Wen Jiabao calls for reform of China's political system in the lead-up to a four-day annual policy meeting of Communist Party leaders. ](/news/2010/10/13/chinese-premier-wen-jiabao-calls-for-reform-of-china-s-political-system-in-the-lead-up-to-a-four-day-annual-policy-meeting-of-communist-part.md)
-_Context: Wen Jiabao, Premier_
+_Context: Premier, Wen Jiabao_
 
 ## [Previous Day...](/news/2010/10/12/index.md)
 

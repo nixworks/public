@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/7/the-death-toll-from-flash-floods-on-the-seti-riv
 
 ### [2012-05-7](/news/2012/05/7/index.md)
 
-##### flash flood
+##### Flash flood
 # The death toll from flash floods on the Seti River in Nepal reaches 17 with another 47 people missing and presumed dead. 
 
 

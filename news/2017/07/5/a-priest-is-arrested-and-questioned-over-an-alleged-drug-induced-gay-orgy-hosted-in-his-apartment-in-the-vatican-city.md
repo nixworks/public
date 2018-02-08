@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alle
 
 ### [2017-07-5](/news/2017/07/5/index.md)
 
-##### priest
+##### Priest
 # A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/26/the-united-nations-confirms-that-the-farc-has-c
 
 ### [2017-06-26](/news/2017/06/26/index.md)
 
-##### lasting peace
+##### Lasting peace
 # The United Nations confirms that the FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. 
 
 The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.

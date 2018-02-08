@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/16/2011-libyan-civil-war-fighting-continues-in-the
 
 ### [2011-10-16](/news/2011/10/16/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Fighting continues in the city of Bani Walid, one of the few remaining towns loyal to the ousted dictator Muammar Gaddafi, between pro-Gaddafi fighters and besieging forces loyal to the National Transitional Council. 
 
 

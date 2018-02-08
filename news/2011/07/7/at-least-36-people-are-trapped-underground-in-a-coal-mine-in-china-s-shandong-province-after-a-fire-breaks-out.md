@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/7/at-least-36-people-are-trapped-underground-in-a-
 
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-##### coal mine
+##### Coal mine
 # At least 36 people are trapped underground in a coal mine in China's Shandong Province after a fire breaks out. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/15/sixty-five-indigenous-peoples-declare-an-insurg
 
 ### [2009-05-15](/news/2009/05/15/index.md)
 
-##### indigenous peoples
+##### Indigenous peoples
 #  Sixty-five indigenous peoples declare an insurgency against Peru's government. 
 
 

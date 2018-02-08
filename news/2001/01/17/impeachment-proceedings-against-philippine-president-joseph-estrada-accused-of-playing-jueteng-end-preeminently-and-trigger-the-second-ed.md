@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/01/17/impeachment-proceedings-against-philippine-pres
 
 ### [2001-01-17](/news/2001/01/17/index.md)
 
-##### impeached
+##### Impeached
 #  Impeachment proceedings against Philippine President Joseph Estrada, accused of playing Jueteng, end preeminently and trigger the second EDSA People Power Revolution or People Power II. His Vice-President Gloria Macapagal-Arroyo succeeds him as the 14th President of the Republic.
 
 

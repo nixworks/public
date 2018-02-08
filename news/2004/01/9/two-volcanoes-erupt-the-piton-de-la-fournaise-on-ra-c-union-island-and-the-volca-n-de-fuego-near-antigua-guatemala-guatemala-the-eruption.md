@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/9/two-volcanoes-erupt-the-piton-de-la-fournaise-on
 
 ### [2004-01-9](/news/2004/01/9/index.md)
 
-##### volcano
+##### Volcano
 #  Two volcanoes erupt: the Piton de la Fournaise on Reunion Island, and the Volcan de Fuego near Antigua Guatemala, Guatemala. The eruption in Guatemala is not thought to be serious enough to require evacuations.
 
 

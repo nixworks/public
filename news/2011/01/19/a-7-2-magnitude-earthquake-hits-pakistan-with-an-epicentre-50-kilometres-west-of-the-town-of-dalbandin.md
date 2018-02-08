@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/19/a-7-2-magnitude-earthquake-hits-pakistan-with-a
 
 ### [2011-01-19](/news/2011/01/19/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.2 magnitude earthquake hits Pakistan with an epicentre 50 kilometres west of the town of Dalbandin. 
 
 A powerful earthquake hit southwest Pakistan on Wednesday, geologists said, but there were no immediate reports of casualties.

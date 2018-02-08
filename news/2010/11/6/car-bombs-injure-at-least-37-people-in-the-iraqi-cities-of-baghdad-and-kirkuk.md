@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/6/car-bombs-injure-at-least-37-people-in-the-iraqi
 
 ### [2010-11-6](/news/2010/11/6/index.md)
 
-##### car bomb
+##### Car bomb
 # Car bombs injure at least 37 people in the Iraqi cities of Baghdad and Kirkuk. 
 
 

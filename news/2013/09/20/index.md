@@ -3,7 +3,7 @@ Formats: [HTML](2013/09/20/index.html)  [JSON](2013/09/20/index.json)  [XML](201
 
 ## [2013-09-20](/news/2013/09/20/index.md)
 
-##### army
+##### Army
 ### [Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. ](/news/2013/09/20/separate-attacks-on-army-bases-in-shabwa-governorate-kill-at-least-38-soldiers-and-8-militants.md)
 _Context: Shabwa Governorate, army_
 
@@ -11,7 +11,7 @@ _Context: Shabwa Governorate, army_
 ### [Iranian President Hassan Rouhani says Iran is "ready to facilitate talks between the Syrian government and opposition". ](/news/2013/09/20/iranian-president-hassan-rouhani-says-iran-is-ready-to-facilitate-talks-between-the-syrian-government-and-opposition.md)
 Outline of nuclear deal begins to emerge before UN debut as president says people should &#x27;be completely free in private life&#x27;
 
-##### video game
+##### Video game
 ### [The video game "Grand Theft Auto V" becomes the fastest single entertainment product to reach sales of US$1 billion. ](/news/2013/09/20/the-video-game-grand-theft-auto-v-becomes-the-fastest-single-entertainment-product-to-reach-sales-of-us-1-billion.md)
 Grand Theft Auto V has crossed the $1 billion sales mark after three days in stores, a rate faster than any other video game, film or other entertainment product has ever managed, its creator Take Two Interactive Inc said on Friday.
 

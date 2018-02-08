@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/6/a-suicide-attack-attacks-a-shiite-shrine-in-the-
 
 ### [2011-12-6](/news/2011/12/6/index.md)
 
-##### suicide attack
+##### Suicide attack
 # A suicide attack attacks a Shiite shrine in the Afghan capital Kabul during the festival of Ashura, resulting in at least 50 people killed and hundreds injured. Hours later another attack takes place at Mazar-i-Sharif, killing at least 4. 
 
 

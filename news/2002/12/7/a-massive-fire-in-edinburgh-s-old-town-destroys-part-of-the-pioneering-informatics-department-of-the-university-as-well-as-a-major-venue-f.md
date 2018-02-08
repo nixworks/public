@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/12/7/a-massive-fire-in-edinburgh-s-old-town-destroys-
 
 ### [2002-12-7](/news/2002/12/7/index.md)
 
-##### massive fire
+##### Massive fire
 #  A massive fire in Edinburgh's Old Town destroys part of the pioneering Informatics department of the University, as well as a major venue for the Edinburgh Fringe.
 
 

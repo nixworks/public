@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/25/international-filmmakers-condemn-the-sentencing
 
 ### [2010-12-25](/news/2010/12/25/index.md)
 
-##### filmmakers
+##### Filmmakers
 # International filmmakers condemn the sentencing of Iranian director Jafar Panahi and a colleague to six-year sentences in jail and their being barred from writing-directing and producing films for 20-year, for opposition to the government. 
 
 In 1660, New France had six male settlers for every female settler. The Filles du Roi were poor women who were brought to North America to fix this imbalance and populate the colony.

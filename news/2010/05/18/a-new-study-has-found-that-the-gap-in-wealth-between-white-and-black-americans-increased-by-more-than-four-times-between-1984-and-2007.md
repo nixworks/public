@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/18/a-new-study-has-found-that-the-gap-in-wealth-be
 
 ### [2010-05-18](/news/2010/05/18/index.md)
 
-##### wealth
+##### Wealth
 # A new study has found that the gap in wealth between white and black Americans increased by more than four times between 1984 and 2007. 
 
 

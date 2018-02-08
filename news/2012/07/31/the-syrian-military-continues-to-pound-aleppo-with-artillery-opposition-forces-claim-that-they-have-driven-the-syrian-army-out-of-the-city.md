@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/31/the-syrian-military-continues-to-pound-aleppo-w
 
 ### [2012-07-31](/news/2012/07/31/index.md)
 
-##### government forces
+##### Government forces
 # The Syrian military continues to pound Aleppo with artillery. Opposition forces claim that they have driven the Syrian army out of the city. 
 
 

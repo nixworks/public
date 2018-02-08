@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/20/three-political-parties-file-a-motion-of-no-con
 
 ### [2009-11-20](/news/2009/11/20/index.md)
 
-##### motion of no confidence
+##### Motion of no confidence
 #  Three political parties file a motion of no confidence against French Polynesian President Oscar Temaru. 
 
 

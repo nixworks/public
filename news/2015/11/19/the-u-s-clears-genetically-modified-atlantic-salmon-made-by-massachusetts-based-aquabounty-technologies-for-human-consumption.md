@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/19/the-u-s-clears-genetically-modified-atlantic-sa
 
 ### [2015-11-19](/news/2015/11/19/index.md)
 
-##### genetically-modified
+##### Genetically-modified
 # The U.S. clears genetically-modified Atlantic salmon, made by Massachusetts-based AquaBounty Technologies, for human consumption. 
 
 U.S. health regulators on Thursday cleared the way for a type of genetically engineered Atlantic salmon to be farmed for human consumption - the first such approval for an animal whose DNA has been scientifically modified.

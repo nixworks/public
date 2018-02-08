@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/31/china-s-parliament-decides-hong-kong-cannot-fre
 
 ### [2014-08-31](/news/2014/08/31/index.md)
 
-##### parliament
+##### Parliament
 # China's parliament decides Hong Kong cannot freely choose its next leader in 2017. 
 
 

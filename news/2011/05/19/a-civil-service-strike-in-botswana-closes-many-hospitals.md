@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/19/a-civil-service-strike-in-botswana-closes-many-
 
 ### [2011-05-19](/news/2011/05/19/index.md)
 
-##### civil service
+##### Civil service
 # A civil service strike in Botswana closes many hospitals. 
 
 

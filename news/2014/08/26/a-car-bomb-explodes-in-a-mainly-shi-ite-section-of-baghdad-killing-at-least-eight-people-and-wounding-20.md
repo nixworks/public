@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section
 
 ### [2014-08-26](/news/2014/08/26/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. 
 
 

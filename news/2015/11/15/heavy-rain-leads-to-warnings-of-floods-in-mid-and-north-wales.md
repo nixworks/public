@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/15/heavy-rain-leads-to-warnings-of-floods-in-mid-a
 
 ### [2015-11-15](/news/2015/11/15/index.md)
 
-##### mid
+##### Mid
 # Heavy rain leads to warnings of floods in mid and north Wales. 
 
 Hundreds of homes were left without power while roads and trains were affected by flooding after storms battered Wales.

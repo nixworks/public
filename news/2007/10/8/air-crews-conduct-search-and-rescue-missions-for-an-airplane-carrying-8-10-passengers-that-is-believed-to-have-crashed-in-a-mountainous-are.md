@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/8/air-crews-conduct-search-and-rescue-missions-for
 
 ### [2007-10-8](/news/2007/10/8/index.md)
 
-##### search and rescue
+##### Search and rescue
 #  Air crews conduct search and rescue missions for an airplane carrying 8-10 passengers that is believed to have crashed in a mountainous area of the U.S. state of Washington 45 miles west of Yakima. 
 
 Air crews launched a search and rescue mission at daybreak on Monday for an airplane carrying up to 10 people that is believed to have crashed in a mountainous area of Washington state, a state official said.

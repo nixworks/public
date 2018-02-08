@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/18/a-suicide-bomber-kills-43-people-in-adhamiya-in
 
 ### [2010-07-18](/news/2010/07/18/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 43 people in Adhamiya in Iraq, many of whom were members of the Iraqi Army or a government-supported, Sunni, anti-al-Qaeda group called Sa hwa or Sons of Iraq. 
 
 Read the latest World and International news headlines from Sky News Australia. For coverage of breaking news from around the World visit skynews.com.au.

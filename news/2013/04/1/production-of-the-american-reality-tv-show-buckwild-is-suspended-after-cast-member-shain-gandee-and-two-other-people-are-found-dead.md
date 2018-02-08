@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/production-of-the-american-reality-tv-show-buckw
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### reality TV
+##### Reality TV
 # Production of the American reality TV show "Buckwild" is suspended after cast member Shain Gandee and two other people are found dead. 
 
 

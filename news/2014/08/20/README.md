@@ -15,15 +15,15 @@ DONETSK, Ukraine: Fierce fighting between government forces and pro-Russian rebe
 ### [Glencore announces a share buyback program returning $1 billion to its investors, while reporting above-expectations first-half profit. ](/news/2014/08/20/glencore-announces-a-share-buyback-program-returning-1-billion-to-its-investors-while-reporting-above-expectations-first-half-profit.md)
 Commodities group Glencore (GLEN.L) became the first of the large miners to honor promises to return cash to shareholders, announcing a share buyback program of up to $1 billion as it reported forecast-beating first-half profit.
 
-##### landslide
+##### Landslide
 ### [At least 27 people have been pronounced dead after landslides in Japan's Hiroshima prefecture with another ten missing. ](/news/2014/08/20/at-least-27-people-have-been-pronounced-dead-after-landslides-in-japan-s-hiroshima-prefecture-with-another-ten-missing.md)
-_Context: Hiroshima prefecture, landslide, Japan_
+_Context: landslide, Japan, Hiroshima prefecture_
 
 ##### IAEA
 ### [IAEA reports that Iran is continuing to meet its commitments under the interim accord that it reached with the P5+1. ](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.md)
 Iran has started taking action to comply with the terms of an extended agreement with six world powers over its disputed atomic activities, a U.N. nuclear watchdog report obtained by Reuters on Wednesday showed.
 
-##### tarsier
+##### Tarsier
 ### [A new species of tarsier is discovered in Dinagat, Philippines. ](/news/2014/08/20/a-new-species-of-tarsier-is-discovered-in-dinagat-philippines.md)
 _Context: Dinagat, Philippines, tarsier_
 

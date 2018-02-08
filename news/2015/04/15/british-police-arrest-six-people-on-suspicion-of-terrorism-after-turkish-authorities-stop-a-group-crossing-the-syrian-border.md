@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/15/british-police-arrest-six-people-on-suspicion-o
 
 ### [2015-04-15](/news/2015/04/15/index.md)
 
-##### police
+##### Police
 # British police arrest six people on suspicion of terrorism after Turkish authorities stop a group crossing the Syrian border. 
 
 

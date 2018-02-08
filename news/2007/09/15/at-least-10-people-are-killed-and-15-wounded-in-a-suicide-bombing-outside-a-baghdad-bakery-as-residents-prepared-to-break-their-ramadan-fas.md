@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/15/at-least-10-people-are-killed-and-15-wounded-in
 
 ### [2007-09-15](/news/2007/09/15/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  At least 10 people are killed and 15 wounded in a suicide bombing outside a Baghdad bakery as residents prepared to break their Ramadan fast. 
 
 Ten people were killed and 15 hurt when a suicide bomber blew up his car outside a bakery in south-west Baghdad Saturday evening (local time) as Muslims were preparing to break the Ramadan fast, officials said.

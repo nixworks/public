@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/13/a-suicide-attack-at-fob-salerno-kills-seven-civ
 
 ### [2009-05-13](/news/2009/05/13/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack at FOB Salerno kills seven civilians and injures 21 more in Khost, Afghanistan. 
 
 A suicide bomb attack outside a NATO base killed seven civilians in southeastern Afghanistan on Wednesday, a day after a brazen strike by the Taliban in the same town, officials said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/29/residents-in-south-florida-prepare-for-tropical
 
 ### [2006-08-29](/news/2006/08/29/index.md)
 
-##### the state
+##### The state
 #  Residents in south Florida prepare for Tropical Storm Ernesto with concerns that the storm could again strengthen and become a hurricane after it leaves Cuba. 
 
 

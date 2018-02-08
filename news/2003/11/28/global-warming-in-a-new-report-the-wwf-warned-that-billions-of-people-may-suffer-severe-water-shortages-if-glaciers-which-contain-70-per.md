@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/28/global-warming-in-a-new-report-the-wwf-warned-t
 
 ### [2003-11-28](/news/2003/11/28/index.md)
 
-##### warming
+##### Warming
 #  Global warming: In a new report, the WWF warned that billions of people may suffer severe water shortages if glaciers, which contain 70 percent of the world's fresh water reserves, continue to melt.
 
 

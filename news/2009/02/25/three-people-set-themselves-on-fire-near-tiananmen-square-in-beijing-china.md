@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/25/three-people-set-themselves-on-fire-near-tianan
 
 ### [2009-02-25](/news/2009/02/25/index.md)
 
-##### sets herself alight
+##### Sets herself alight
 #  Three people set themselves on fire near Tiananmen Square in Beijing, China. 
 
 

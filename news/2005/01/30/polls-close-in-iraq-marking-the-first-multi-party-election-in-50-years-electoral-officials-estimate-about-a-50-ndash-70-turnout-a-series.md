@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/30/polls-close-in-iraq-marking-the-first-multi-par
 
 ### [2005-01-30](/news/2005/01/30/index.md)
 
-##### legislative election
+##### Legislative election
 #  Polls close in Iraq marking the first multi-party election in 50 years. Electoral officials estimate about a 50&ndash;70% turnout. A series of election day attacks across the country killed at least 44 people, mainly in Baghdad. The 275-member National Assembly will create a new constitution, choose a new president and two new vice presidents. Most candidate names on the various party lists remained anonymous. 
 
 

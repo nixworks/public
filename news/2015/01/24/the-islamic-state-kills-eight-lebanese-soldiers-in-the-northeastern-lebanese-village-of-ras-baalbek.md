@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/24/the-islamic-state-kills-eight-lebanese-soldiers
 
 ### [2015-01-24](/news/2015/01/24/index.md)
 
-##### Lebanon
+##### Lebanese
 # The Islamic State kills eight Lebanese soldiers in the northeastern Lebanese village of Ras Baalbek. 
 
 
@@ -23,8 +23,8 @@ Formats: [HTML](/news/2015/01/24/the-islamic-state-kills-eight-lebanese-soldiers
 
 ### Related:
 
-1. [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md) _Context: Lebanon, Ras Baalbek_
-2. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Lebanon_
-3. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanon_
-4. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: Lebanon_
-5. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Lebanon_
+1. [Clashes between the Lebanese Army and jihadist militants near the village of Ras Baalbek in northeast Lebanon, close to the Syrian border, leaves one soldier and eight militants dead. ](/news/2016/03/10/clashes-between-the-lebanese-army-and-jihadist-militants-near-the-village-of-ras-baalbek-in-northeast-lebanon-close-to-the-syrian-border-l.md) _Context: Lebanese, Ras Baalbek_
+2. [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md) _Context: Lebanese_
+3. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Lebanese_
+4. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanese_
+5. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: Lebanese_

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/the-top-foreign-affairs-officials-of-the-g8-gro
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### foreign ministers
+##### Foreign ministers
 # The top foreign affairs officials of the G8 group of nations meet in London, where the Korean crisis, Syrian conflict and Iran's nuclear threats are expected to be major talking points. 
 
 Western and Middle Eastern nations trying to help the Syrian opposition in its war against President Bashar al-Assad will meet in Turkey on April 20, a U.S. official said on Wednesday as G8 foreign ministers gathered in London for a summit.

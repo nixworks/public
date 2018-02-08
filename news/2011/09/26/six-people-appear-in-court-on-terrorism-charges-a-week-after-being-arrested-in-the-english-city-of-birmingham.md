@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/26/six-people-appear-in-court-on-terrorism-charges
 
 ### [2011-09-26](/news/2011/09/26/index.md)
 
-##### terrorism
+##### Terrorism
 # Six people appear in court on terrorism charges, a week after being arrested in the English city of Birmingham. 
 
 Six men in the UK have been charged with terrorism offences a week after they were arrested in a police operation.

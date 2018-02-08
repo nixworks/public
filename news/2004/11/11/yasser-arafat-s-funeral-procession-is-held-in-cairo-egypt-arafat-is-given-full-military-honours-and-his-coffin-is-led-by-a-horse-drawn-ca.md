@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/11/yasser-arafat-s-funeral-procession-is-held-in-c
 
 ### [2004-11-11](/news/2004/11/11/index.md)
 
-##### death
+##### Death
 #  Yasser Arafat's funeral procession is held in Cairo, Egypt. Arafat is given full military honours and his coffin is led by a horse-drawn carriage. Leaders of Muslim and Arab countries as well as other dignitaries attend, including Khaled Meshaal, head of Hamas, who is currently sought by Israel. 
 
 

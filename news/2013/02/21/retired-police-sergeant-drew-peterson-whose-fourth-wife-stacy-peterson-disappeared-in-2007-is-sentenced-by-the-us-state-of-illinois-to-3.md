@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/21/retired-police-sergeant-drew-peterson-whose-fou
 
 ### [2013-02-21](/news/2013/02/21/index.md)
 
-##### police sergeant
+##### Police sergeant
 # Retired police sergeant Drew Peterson, whose fourth wife, Stacy Peterson, disappeared in 2007, is sentenced by the US state of Illinois to 38 years incarceration for the 2004 murder of his third wife, Kathleen Savio. 
 
 

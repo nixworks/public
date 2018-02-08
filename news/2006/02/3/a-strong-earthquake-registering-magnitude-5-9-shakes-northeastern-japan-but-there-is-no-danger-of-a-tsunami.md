@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-sh
 
 ### [2006-02-3](/news/2006/02/3/index.md)
 
-##### earthquake
+##### Earthquake
 #  A strong earthquake registering magnitude 5.9 shakes northeastern Japan, but there is no danger of a tsunami. 
 
 

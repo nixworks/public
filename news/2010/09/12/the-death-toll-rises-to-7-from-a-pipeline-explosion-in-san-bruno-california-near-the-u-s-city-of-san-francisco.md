@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/12/the-death-toll-rises-to-7-from-a-pipeline-explo
 
 ### [2010-09-12](/news/2010/09/12/index.md)
 
-##### pipeline explosion
+##### Pipeline explosion
 # The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. 
 
 Specially trained dogs this evening found three victims, bringing the total to seven fatalities of the explosion, which happened at about 6:15 p.m. Thursday evening near Skyline Boulevard and San Bruno Avenue. Homes that have been completely destroyed will remain off-limits, while other residents whose houses have sustained moderate damage may only be allowed back to collect some belongings, said City Manager Connie Jackson.

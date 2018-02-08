@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/4/a-new-species-of-lizard-is-found-in-sergipe-braz
 
 ### [2013-07-4](/news/2013/07/4/index.md)
 
-##### species
+##### Species
 # A new species of lizard is found in Sergipe, Brazil. 
 
 

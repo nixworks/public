@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/4/spammer-jeremy-jaynes-rated-the-world-s-eighth-m
 
 ### [2004-11-4](/news/2004/11/4/index.md)
 
-##### spammer
+##### Spammer
 #  Spammer Jeremy Jaynes, rated the world's eighth most-prolific spammer, is convicted of three felony charges of sending thousands of junk e-mails through servers located in Virginia, and is recommended to be sentenced to nine years' imprisonment. His sister is fined $7500 for related offences. 
 
 Computerworld covers a wide range of technology topics, including software, security, operating systems, mobile, storage, servers and data centers, emerging tech, and technology companies such as Microsoft, Google and Apple.

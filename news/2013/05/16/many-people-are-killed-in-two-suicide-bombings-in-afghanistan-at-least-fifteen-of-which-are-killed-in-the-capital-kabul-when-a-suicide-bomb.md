@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/16/many-people-are-killed-in-two-suicide-bombings-
 
 ### [2013-05-16](/news/2013/05/16/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Many people are killed in two suicide bombings in Afghanistan, at least fifteen of which are killed in the capital Kabul when a suicide bomber from Hizb-i-Islami, a Taliban affiliate, targeted a convoy carrying foreign troops, injuring another 40. 
 
 

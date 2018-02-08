@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/27/at-least-seven-workers-die-in-the-factory-fire-
 
 ### [2013-01-27](/news/2013/01/27/index.md)
 
-##### fire
+##### Fire
 # At least seven workers die in the factory fire in the capital of Bangladesh, Dhaka. 
 
 

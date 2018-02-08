@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/22/a-tornado-touches-down-in-the-us-city-of-louisv
 
 ### [2011-06-22](/news/2011/06/22/index.md)
 
-##### tornado
+##### Tornado
 # A tornado touches down in the US city of Louisville, Kentucky near the University of Louisville Belknap campus, damaging some buildings at the Churchill Downs horse racing track. 
 
 

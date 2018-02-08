@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/2/the-death-toll-from-sectarian-clashes-in-norther
 
 ### [2009-08-2](/news/2009/08/2/index.md)
 
-##### sectarian violence
+##### Sectarian violence
 #  The death toll from sectarian clashes in northern Nigeria rises to 700. 
 
 

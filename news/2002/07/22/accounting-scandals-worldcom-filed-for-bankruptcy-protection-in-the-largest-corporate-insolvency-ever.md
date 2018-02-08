@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/07/22/accounting-scandals-worldcom-filed-for-bankrupt
 
 ### [2002-07-22](/news/2002/07/22/index.md)
 
-##### accounting fraud
+##### Accounting fraud
 #  Accounting scandals: WorldCom filed for bankruptcy protection, in the largest corporate insolvency ever.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-
 
 ### [2012-12-25](/news/2012/12/25/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 # Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. 
 
 At least five militants were killed and three soldiers wounded in Yemen on Tuesday in fighting near a damaged oil pipeline east of the capital Sanaa, a defense ministry official and residents said.

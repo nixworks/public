@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/12/major-italian-cultural-attractions-are-closed-a
 
 ### [2010-11-12](/news/2010/11/12/index.md)
 
-##### austerity
+##### Austerity
 # Major Italian cultural attractions are closed as the government plans to cut its culture budget as part of austerity measures. 
 
 

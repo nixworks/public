@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/25/a-second-case-of-mad-cow-disease-has-been-confi
 
 ### [2005-06-25](/news/2005/06/25/index.md)
 
-##### mad cow disease
+##### Mad cow disease
 #  A second case of mad cow disease has been confirmed in the United States. 
 
 

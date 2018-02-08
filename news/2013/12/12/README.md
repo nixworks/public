@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/12/index.html)  [JSON](2013/12/12/index.json)  [XML](201
 
 ## [2013-12-12](/news/2013/12/12/index.md)
 
-##### al Qaeda
+##### Al Qaeda
 ### [An air strike intended to target an al Qaeda convoy in Al-Bayda province in central Yemen mistakenly attacks a wedding procession, killing 15 civilians. ](/news/2013/12/12/an-air-strike-intended-to-target-an-al-qaeda-convoy-in-al-bayda-province-in-central-yemen-mistakenly-attacks-a-wedding-procession-killing-1.md)
 Fifteen people on their way to a wedding in Yemen were killed in an air strike after their party was mistaken for an al Qaeda convoy, local security officials said on Thursday.
 
@@ -37,15 +37,15 @@ North Korea said on Friday Jang Song Thaek, the uncle of leader Kim Jong Un and 
 
 ##### Australia
 ### [Australia's High Court rules same-sex marriages held in the country are invalid. ](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.md)
-_Context: High Court of Australia, same-sex marriages, Australia_
+_Context: same-sex marriages, High Court of Australia, Australia_
 
 ##### United Nations
 ### [The United Nations says that the legalization of marijuana in Uruguay is a violation of international law. ](/news/2013/12/12/the-united-nations-says-that-the-legalization-of-marijuana-in-uruguay-is-a-violation-of-international-law.md)
-_Context: Uruguay, legalization, international law, marijuana, United Nations_
+_Context: Uruguay, United Nations, international law, marijuana, legalization_
 
 ##### Bangladesh
 ### [Bangladesh hangs Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami, for committing atrocities in the Bangladesh Liberation War in 1971. ](/news/2013/12/12/bangladesh-hangs-abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-for-committing-atrocities-in-the-bangladesh-liberation-war.md)
-_Context: Bangladesh, independence war, Abdul Kader Mullah, Bangladesh Jamaat-e-Islami_
+_Context: Bangladesh, independence war, Bangladesh Jamaat-e-Islami, Abdul Kader Mullah_
 
 ##### Federal Motor Carrier Safety Administration
 ### [The United States Federal Motor Carrier Safety Administration, the federal bus safety regulator, shuts down 52 busline companies in a major nationwide crackdown on unsafe outfits. ](/news/2013/12/12/the-united-states-federal-motor-carrier-safety-administration-the-federal-bus-safety-regulator-shuts-down-52-busline-companies-in-a-major.md)
@@ -71,7 +71,7 @@ After an official send-off ceremony held by the African National Congress in Pre
 ### [Former Prime Minister Abhisit Vejjajiva is charged with murder for his role in the 2010 Thai political protests. ](/news/2013/12/12/former-prime-minister-abhisit-vejjajiva-is-charged-with-murder-for-his-role-in-the-2010-thai-political-protests.md)
 Former Thai PM Abhisit Vejjajiva is formally charged with murder over the 2010 crackdown, as protests continue in Bangkok.
 
-##### government of Spain
+##### Government of Spain
 ### [The government of Spain announces that it will block the holding of a referendum in Catalonia. ](/news/2013/12/12/the-government-of-spain-announces-that-it-will-block-the-holding-of-a-referendum-in-catalonia.md)
 Parties in the Spanish region of Catalonia agree to hold a referendum on independence next year - but the Spanish government vows to block it.
 

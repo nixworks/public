@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/18/protesters-storm-and-occupy-the-legislative-yua
 
 ### [2014-03-18](/news/2014/03/18/index.md)
 
-##### continue to occupy
+##### Continue to occupy
 # Protesters storm and occupy the Legislative Yuan in Taiwan due to a unilateral move by the Kuomintang that forces the Cross-Strait Service Trade Agreement to the legislative floor without giving it an item-by-item review. 
 
 

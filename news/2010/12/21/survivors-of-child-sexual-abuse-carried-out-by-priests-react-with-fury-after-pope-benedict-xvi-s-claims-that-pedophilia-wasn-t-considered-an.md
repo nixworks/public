@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/21/survivors-of-child-sexual-abuse-carried-out-by-
 
 ### [2010-12-21](/news/2010/12/21/index.md)
 
-##### sexually assaulted
+##### Sexually assaulted
 # Survivors of child sexual abuse carried out by priests react with fury after Pope Benedict XVI's claims that pedophilia wasn't considered an "absolute evil" as recently as the 1970s and that society considers child pornography "normal". 
 
 The Vatican clarifies comments by Pope Benedict XVI on condoms, saying he did not mean they could be used to avoid pregnancy.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/3/among-the-rising-concerns-about-the-water-qualit
 
 ### [2011-04-3](/news/2011/04/3/index.md)
 
-##### water quality
+##### Water quality
 # Among the rising concerns about the water quality in Hanoi's Hoan Kiem Lake, its giant sacred turtle is captured for study and (possibly) medical treatment. 
 
 Experts in Hanoi captured a legendary giant turtle for medical treatment on Sunday, a milestone in a case that has grabbed national attention and cast a spotlight on environmental degradation in Vietnam.

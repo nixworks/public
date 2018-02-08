@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/21/a-missile-fired-from-a-u-s-unmanned-plane-destr
 
 ### [2009-08-21](/news/2009/08/21/index.md)
 
-##### combat drone
+##### Combat drone
 #  A missile fired from a U.S. unmanned plane destroyed a suspected militant hide-out in northwest Pakistan on Friday, killing at least 12 people in a stronghold of a jihadi leader blamed for attacks in Afghanistan. 
 
 

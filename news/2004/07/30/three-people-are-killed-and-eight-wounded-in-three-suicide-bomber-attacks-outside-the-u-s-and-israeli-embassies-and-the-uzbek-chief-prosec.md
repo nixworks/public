@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/30/three-people-are-killed-and-eight-wounded-in-th
 
 ### [2004-07-30](/news/2004/07/30/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  Three people are killed and eight wounded in three suicide bomber attacks outside the U.S. and Israeli embassies and the Uzbek chief prosecutor's office in Tashkent, Uzbekistan. The Islamist group Hizb ut-Tahrir is blamed by Uzbek President Islam Karimov. Other unnamed sources point to al-Qaeda. 
 
 

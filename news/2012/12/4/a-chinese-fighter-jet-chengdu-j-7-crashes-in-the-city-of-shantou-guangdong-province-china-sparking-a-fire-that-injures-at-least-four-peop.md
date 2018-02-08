@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/4/a-chinese-fighter-jet-chengdu-j-7-crashes-in-the
 
 ### [2012-12-4](/news/2012/12/4/index.md)
 
-##### fighter jet
+##### Fighter jet
 # A Chinese fighter jet Chengdu J-7 crashes in the city of Shantou, Guangdong province, China, sparking a fire that injures at least four people. 
 
 

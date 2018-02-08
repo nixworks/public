@@ -3,7 +3,7 @@ Formats: [HTML](2011/08/13/index.html)  [JSON](2011/08/13/index.json)  [XML](201
 
 ## [2011-08-13](/news/2011/08/13/index.md)
 
-##### collapses
+##### Collapses
 ### [Stage rigging collapses at the Indiana State Fair, killing at least five and injuring dozens of fans of the musical group Sugarland and singer-songwriter Sara Bareilles. ](/news/2011/08/13/stage-rigging-collapses-at-the-indiana-state-fair-killing-at-least-five-and-injuring-dozens-of-fans-of-the-musical-group-sugarland-and-sing.md)
 A massive gust of wind brought down a stage at the Indiana State Fair on Saturday night, killing at least four and injuring 24, officials said.
 
@@ -11,7 +11,7 @@ A massive gust of wind brought down a stage at the Indiana State Fair on Saturda
 ### [The Thomson and Mitchell rivers flood in the Gippsland region of the Australian state of Victoria. ](/news/2011/08/13/the-thomson-and-mitchell-rivers-flood-in-the-gippsland-region-of-the-australian-state-of-victoria.md)
 The body of a man has been found in the flood-affected town of Sale in Victoria&#039;s south-east.
 
-##### oil pipeline
+##### Oil pipeline
 ### [A ruptured oil pipeline is discovered near Gannet Alpha platform, run by Shell 113 miles from Aberdeen, Scotland. ](/news/2011/08/13/a-ruptured-oil-pipeline-is-discovered-near-gannet-alpha-platform-run-by-shell-113-miles-from-aberdeen-scotland.md)
 Oil company Royal Dutch Shell says it is working to contain a spill at one of its North Sea platforms, but will not say how much oil has been released.
 

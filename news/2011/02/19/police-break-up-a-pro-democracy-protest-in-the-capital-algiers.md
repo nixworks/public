@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/19/police-break-up-a-pro-democracy-protest-in-the-
 
 ### [2011-02-19](/news/2011/02/19/index.md)
 
-##### democratic
+##### Democratic
 # Police break up a pro-democracy protest in the capital Algiers. 
 
 Several people are injured and others are arrested as police thwart pro-democracy rally in capital Algiers, reports say.

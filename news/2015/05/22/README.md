@@ -7,7 +7,7 @@ Formats: [HTML](2015/05/22/index.html)  [JSON](2015/05/22/index.json)  [XML](201
 ### [Islamic State of Iraq and the Levant captures the border crossing at Al Waleed (al-Tanf in Syria), the last remaining border crossing between Syria and Iraq controlled by the Government of Syria. ISIL reportedly advances to within 40 km of Baghdad after their victory in Ramadi. ](/news/2015/05/22/islamic-state-of-iraq-and-the-levant-captures-the-border-crossing-at-al-waleed-al-tanf-in-syria-the-last-remaining-border-crossing-betwee.md)
 Islamic State militants reportedly seize the last Syrian government-controlled border crossing with Iraq, after taking ancient Palmyra.
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber targeting Shiites at a mosque in Qatif, Saudi Arabia, has killed 19 and injured 28, per Red Crescent authorities. ](/news/2015/05/22/a-suicide-bomber-targeting-shiites-at-a-mosque-in-qatif-saudi-arabia-has-killed-19-and-injured-28-per-red-crescent-authorities.md)
 A suicide bomber has targeted a mosque in eastern Saudi Arabia as worshippers commemorated the 7th century birth of a revered Shiite figure, the Interior Ministry and residents said.
 
@@ -21,13 +21,13 @@ Li Hejun&nbsp;began the day as China’s second-richest man with a fortune worth
 
 ##### Wembley Stadium
 ### [Surrounding areas of Wembley Stadium, London, UK have been evacuated following the discovery by construction crews of a still-live World War II-era 50-kg (110-llb) conventional-explosive bomb, a remnant of the Blitz. ](/news/2015/05/22/surrounding-areas-of-wembley-stadium-london-uk-have-been-evacuated-following-the-discovery-by-construction-crews-of-a-still-live-world-war.md)
-_Context: London, World War II, the Blitz, United Kingdom, Wembley Stadium, bomb_
+_Context: United Kingdom, World War II, the Blitz, Wembley Stadium, bomb, London_
 
 ##### Myanmar Navy
 ### [The Myanmar Navy rescues two boats carrying 208 migrants as it faces growing international pressure to tackle the Rohingya migration crisis. ](/news/2015/05/22/the-myanmar-navy-rescues-two-boats-carrying-208-migrants-as-it-faces-growing-international-pressure-to-tackle-the-rohingya-migration-crisis.md)
 A senior US diplomat on Friday urged Myanmar to extend &quot;citizenship&quot; to the oppressed Rohingya minority to address an ongoing migrant crisis that has hit Southeast Asia, leaving thousands stranded at sea. More than 3,500 migrants have swum to shore or been rescued off the coasts of Malaysi...
 
-##### cholera
+##### Cholera
 ### [Over 3,000 cases of cholera resulting in at least 31 deaths breaks out in a refugee camp for Burundians fleeing the recent political unrest in their country. ](/news/2015/05/22/over-3-000-cases-of-cholera-resulting-in-at-least-31-deaths-breaks-out-in-a-refugee-camp-for-burundians-fleeing-the-recent-political-unrest.md)
 At least 3,000 cases of cholera have been reported in Tanzania since last week and the outbreak has claimed 31 lives.
 
@@ -41,7 +41,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### Science
 ### ["Science" publishes a series of papers on biodiversity in the deep sea, including tens of thousands of single-celled organisms most of which had not been previously identified. ](/news/2015/05/22/science-publishes-a-series-of-papers-on-biodiversity-in-the-deep-sea-including-tens-of-thousands-of-single-celled-organisms-most-of-which.md)
-_Context: Science, biodiversity, single-celled organism_
+_Context: single-celled organism, Science, biodiversity_
 
 ## [Previous Day...](/news/2015/05/21/index.md)
 

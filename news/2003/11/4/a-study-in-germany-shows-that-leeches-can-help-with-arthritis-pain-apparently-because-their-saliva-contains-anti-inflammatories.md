@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/4/a-study-in-germany-shows-that-leeches-can-help-w
 
 ### [2003-11-4](/news/2003/11/4/index.md)
 
-##### leech
+##### Leech
 #  A study in Germany shows that leeches can help with arthritis pain, apparently because their saliva contains anti-inflammatories.
 
 

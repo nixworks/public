@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/8/a-prominent-al-qaeda-leader-abu-yahya-al-libi-ur
 
 ### [2009-10-8](/news/2009/10/8/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  A prominent Al-Qaeda leader, Abu Yahya al-Libi, urges Muslims in Xinjiang to "prepare for holy war" after the riots in July. 
 
 China&rsquo;s fears about international Islamic militants getting excited over the Xinjiang problem came true with a prominent al-Qaida leader threatening to attack Chinese targets in &quot;reprisal&quot; for the July 5 riots.

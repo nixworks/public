@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-e
 
 ### [2015-12-20](/news/2015/12/20/index.md)
 
-##### election
+##### Election
 # Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. 
 
 The election on December 20 will be colored by the memories of street protests in May 2011.

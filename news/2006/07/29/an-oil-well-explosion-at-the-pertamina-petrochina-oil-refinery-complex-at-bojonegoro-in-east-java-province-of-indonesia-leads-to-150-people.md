@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/29/an-oil-well-explosion-at-the-pertamina-petrochi
 
 ### [2006-07-29](/news/2006/07/29/index.md)
 
-##### oil well
+##### Oil well
 #  An oil well explosion at the Pertamina-PetroChina oil refinery complex at Bojonegoro in East Java province of Indonesia leads to 150 people being treated at hospital and 6,000 people fleeing nearby villages. At this stage, there is no news of casualties. 
 
 

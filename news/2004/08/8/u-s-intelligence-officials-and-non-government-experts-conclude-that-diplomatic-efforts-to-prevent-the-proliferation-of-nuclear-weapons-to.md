@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/8/u-s-intelligence-officials-and-non-government-ex
 
 ### [2004-08-8](/news/2004/08/8/index.md)
 
-##### nuclear weapon
+##### Nuclear weapon
 #  U.S. intelligence officials and non-government experts conclude that diplomatic efforts to prevent the proliferation of nuclear weapons to Iran and North Korea have failed to slow their weapons development programs.
 
 

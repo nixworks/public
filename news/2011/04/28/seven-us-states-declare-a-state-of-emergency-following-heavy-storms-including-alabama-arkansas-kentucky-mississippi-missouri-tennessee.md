@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/28/seven-us-states-declare-a-state-of-emergency-fo
 
 ### [2011-04-28](/news/2011/04/28/index.md)
 
-##### state of emergency
+##### State of emergency
 # Seven US states declare a state of emergency following heavy storms including Alabama, Arkansas, Kentucky, Mississippi, Missouri, Tennessee and Oklahoma. 
 
 STORMS that spawned deadly tornadoes have flattened buildings and knocked out power lines across the central and southern United States, raising the death toll to at least 56.

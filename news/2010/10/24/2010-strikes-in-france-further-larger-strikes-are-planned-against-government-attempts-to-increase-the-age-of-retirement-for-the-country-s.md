@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/24/2010-strikes-in-france-further-larger-strikes-a
 
 ### [2010-10-24](/news/2010/10/24/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # 2010 strikes in France: Further, larger strikes are planned against government attempts to increase the age of retirement for the country's workers. 
 
 

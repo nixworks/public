@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/5/the-extradiction-of-alleged-arms-dealer-viktor-b
 
 ### [2010-10-5](/news/2010/10/5/index.md)
 
-##### extradite
+##### Extradite
 # The extradiction of alleged arms dealer Viktor Bout from Thailand to the United States moves a step closer after a Thai court dismisses money laundering charges against him. 
 
 

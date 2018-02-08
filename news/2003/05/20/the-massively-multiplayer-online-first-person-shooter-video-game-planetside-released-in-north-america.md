@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/20/the-massively-multiplayer-online-first-person-s
 
 ### [2003-05-20](/news/2003/05/20/index.md)
 
-##### massively-multiplayer online first-person-shooter
+##### Massively-multiplayer online first-person-shooter
 #  The massively-multiplayer online first-person-shooter video game Planetside released in North America.
 
 

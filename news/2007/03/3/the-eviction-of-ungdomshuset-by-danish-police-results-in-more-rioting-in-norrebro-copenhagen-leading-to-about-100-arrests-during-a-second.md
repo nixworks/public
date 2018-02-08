@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/3/the-eviction-of-ungdomshuset-by-danish-police-re
 
 ### [2007-03-3](/news/2007/03/3/index.md)
 
-##### eviction
+##### Eviction
 #  The eviction of Ungdomshuset by Danish police results in more rioting in Nrrebro, Copenhagen, leading to about 100 arrests during a second night of protests. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/2/heavy-snowfall-in-the-united-kingdom-disrupting-
 
 ### [2010-12-2](/news/2010/12/2/index.md)
 
-##### snow
+##### Snow
 # Heavy snowfall in the United Kingdom disrupting travel, with Gatwick Airport remaining closed. 
 
 Gatwick Airport will not reopen today as a continuing onslaught of snow and ice to wreaks havoc on the nation&#039;s airports, railways and roads.

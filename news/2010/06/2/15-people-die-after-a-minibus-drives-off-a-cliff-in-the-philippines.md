@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/2/15-people-die-after-a-minibus-drives-off-a-cliff
 
 ### [2010-06-2](/news/2010/06/2/index.md)
 
-##### minibus
+##### Minibus
 # 15 people die after a minibus drives off a cliff in the Philippines. 
 
 

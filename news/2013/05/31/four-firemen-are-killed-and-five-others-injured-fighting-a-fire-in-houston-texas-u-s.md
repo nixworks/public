@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/31/four-firemen-are-killed-and-five-others-injured
 
 ### [2013-05-31](/news/2013/05/31/index.md)
 
-##### firemen
+##### Firemen
 # Four firemen are killed and five others injured fighting a fire in Houston, Texas, U.S. 
 
 

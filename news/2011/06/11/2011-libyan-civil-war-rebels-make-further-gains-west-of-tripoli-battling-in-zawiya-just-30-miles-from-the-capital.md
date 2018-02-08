@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains
 
 ### [2011-06-11](/news/2011/06/11/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. 
 
 

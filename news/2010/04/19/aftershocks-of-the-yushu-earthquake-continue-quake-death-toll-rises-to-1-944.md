@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-qu
 
 ### [2010-04-19](/news/2010/04/19/index.md)
 
-##### an earthquake struck on 14 April
+##### An earthquake struck on 14 April
 # Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. 
 
 

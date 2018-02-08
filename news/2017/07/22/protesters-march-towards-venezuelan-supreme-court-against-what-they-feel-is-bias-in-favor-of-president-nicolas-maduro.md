@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/22/protesters-march-towards-venezuelan-supreme-cou
 
 ### [2017-07-22](/news/2017/07/22/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # Protesters march towards Venezuelan Supreme Court against what they feel is bias in favor of President Nicolas Maduro. 
 
 These photographs, taken over four weeks, capture the daily turmoil that antigovernment protests have brought to the streets of Caracas.

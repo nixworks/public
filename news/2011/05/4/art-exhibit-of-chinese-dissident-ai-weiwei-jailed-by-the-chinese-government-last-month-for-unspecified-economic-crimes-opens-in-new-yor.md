@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/4/art-exhibit-of-chinese-dissident-ai-weiwei-jaile
 
 ### [2011-05-4](/news/2011/05/4/index.md)
 
-##### dissident
+##### Dissident
 # Art exhibit of Chinese dissident, Ai Weiwei, jailed by the Chinese government last month for unspecified "economic crimes," opens in New York City. 
 
 A Chinese artist was noticeably absent from his own exhibit in New York after having been detained by his government for unspecified &quot;economic crimes.&quot; 

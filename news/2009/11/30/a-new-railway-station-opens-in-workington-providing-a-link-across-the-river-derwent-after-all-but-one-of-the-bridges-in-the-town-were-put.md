@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/30/a-new-railway-station-opens-in-workington-provi
 
 ### [2009-11-30](/news/2009/11/30/index.md)
 
-##### new railway station
+##### New railway station
 #  A new railway station opens in Workington, providing a link across the River Derwent after all but one of the bridges in the town were put out of action by floods. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/2/heavily-armed-terrorists-reportedly-members-of-j
 
 ### [2016-01-2](/news/2016/01/2/index.md)
 
-##### terror-related
+##### Terror-related
 # Heavily armed terrorists, reportedly members of Jaish-e-Mohammed, attack an Indian Air Force base in Pathankot, Punjab; three security force personnel and four of the terrorists are reported to have been killed. 
 
 Pathankot terror attack: Enemies of humanity can&#039;t see India develop, says PM Modi - At least four terrorists launched an attack on the Indian Air Force&#039;s base in Pathankot, Punjab, on Saturday morning, say media reports.

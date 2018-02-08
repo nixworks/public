@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/17/2011-libyan-civil-war-national-transitional-cou
 
 ### [2011-10-17](/news/2011/10/17/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: National Transitional Council forces gain control of Muammar Gaddafi's former stronghold of Bani Walid, after a bloody six-week siege. 
 
 

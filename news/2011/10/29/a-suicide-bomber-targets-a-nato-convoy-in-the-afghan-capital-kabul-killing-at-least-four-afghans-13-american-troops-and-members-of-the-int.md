@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/29/a-suicide-bomber-targets-a-nato-convoy-in-the-a
 
 ### [2011-10-29](/news/2011/10/29/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber targets a NATO convoy in the Afghan capital Kabul killing at least four Afghans, 13 American troops, and members of the International Security Assistance Force. 
 
 

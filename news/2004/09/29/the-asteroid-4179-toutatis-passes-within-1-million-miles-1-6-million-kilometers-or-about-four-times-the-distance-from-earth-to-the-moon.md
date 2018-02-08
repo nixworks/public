@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/29/the-asteroid-4179-toutatis-passes-within-1-mill
 
 ### [2004-09-29](/news/2004/09/29/index.md)
 
-##### asteroid
+##### Asteroid
 #  The asteroid 4179 Toutatis passes within 1 million miles (1.6 million kilometers, or about four times the distance from Earth to the Moon) of Earth. Toutatis is the largest known asteroid to pass this close to Earth. 
 
 

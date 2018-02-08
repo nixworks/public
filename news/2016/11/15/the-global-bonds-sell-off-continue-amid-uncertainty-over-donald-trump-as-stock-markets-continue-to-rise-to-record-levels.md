@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/15/the-global-bonds-sell-off-continue-amid-uncerta
 
 ### [2016-11-15](/news/2016/11/15/index.md)
 
-##### bond
+##### Bond
 # The global bonds sell-off continue amid uncertainty over Donald Trump as stock markets continue to rise to record levels. 
 
 A wave of selling resumes in bond markets as investors digest the impact of a Trump presidency.

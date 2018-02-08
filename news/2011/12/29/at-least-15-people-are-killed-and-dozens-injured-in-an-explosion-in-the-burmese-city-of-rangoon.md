@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/29/at-least-15-people-are-killed-and-dozens-injure
 
 ### [2011-12-29](/news/2011/12/29/index.md)
 
-##### explosion
+##### Explosion
 # At least 15 people are killed and dozens injured in an explosion in the Burmese city of Rangoon. 
 
 At least 17 people are killed and more than 90 injured by a large explosion at warehouses in the Burmese city of Rangoon.

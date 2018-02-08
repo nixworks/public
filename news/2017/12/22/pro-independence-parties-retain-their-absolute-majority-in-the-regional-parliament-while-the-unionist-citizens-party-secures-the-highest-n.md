@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/22/pro-independence-parties-retain-their-absolute-
 
 ### [2017-12-22](/news/2017/12/22/index.md)
 
-##### legislature
+##### Legislature
 #  Pro-independence parties retain their absolute majority in the regional parliament, while the unionist Citizens party secures the highest number of seats. 
 
 Separatist parties retain a slim majority but face tough coalition talks to form a government.

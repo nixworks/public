@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/13/colombian-president-juan-manuel-santos-extends-
 
 ### [2016-10-13](/news/2016/10/13/index.md)
 
-##### lasting peace
+##### Lasting peace
 # Colombian President Juan Manuel Santos extends his ceasefire with the FARC rebels through the end of the year. 
 
 

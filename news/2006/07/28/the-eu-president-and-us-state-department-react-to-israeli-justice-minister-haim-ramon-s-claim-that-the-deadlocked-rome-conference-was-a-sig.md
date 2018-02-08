@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/28/the-eu-president-and-us-state-department-react-
 
 ### [2006-07-28](/news/2006/07/28/index.md)
 
-##### the Council of
+##### The Council of
 #  The EU President and US State Department react to Israeli Justice Minister Haim Ramon's claim that the deadlocked Rome conference was a sign that the world supported Israeli attacks in Lebanon. The EU described the claim as "totally wrong" and the US declared the statement "outrageous". 
 
 IDF soldiers clash with Hizbullah gunmen attempting to infiltrate area secured by paratroopers in southern Lebanon village

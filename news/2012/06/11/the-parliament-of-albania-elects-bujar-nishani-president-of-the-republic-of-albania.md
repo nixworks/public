@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/11/the-parliament-of-albania-elects-bujar-nishani-
 
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-##### parliament
+##### Parliament
 # The Parliament of Albania elects Bujar Nishani President of the Republic of Albania. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/22/sixteen-16-people-are-wounded-in-a-gunfight-bet
 
 ### [2015-11-22](/news/2015/11/22/index.md)
 
-##### gunfight
+##### Gunfight
 # Sixteen (16) people are wounded in a gunfight between two groups that erupted in a New Orleans park's Bunny Friend playground where hundreds of people gathered for a block party and filming of a music video. No fatalities were reported. The fighters ran from the park immediately after the shooting. 
 
 A weekend shootout that wounded 17 people, including a 10-year-old boy, in a New Orleans park appears to be gang-related, city officials said on Monday, as they urged hesitant witnesses to come forward with information about the suspects and a motive.

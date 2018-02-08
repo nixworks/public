@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/29/the-united-states-department-of-state-releases-
 
 ### [2016-02-29](/news/2016/02/29/index.md)
 
-##### email server
+##### Email server
 # The United States Department of State releases the final batch of emails recovered from the private server of former Secretary of State and Democratic Party front runner in the race for the nomination for the 2016 presidential election. 
 
 The State Department will release later today the final batch of emails from Hillary Clinton&#x27;s private server.

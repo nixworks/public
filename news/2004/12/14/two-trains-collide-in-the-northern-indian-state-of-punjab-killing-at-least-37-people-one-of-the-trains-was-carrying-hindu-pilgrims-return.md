@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/14/two-trains-collide-in-the-northern-indian-state
 
 ### [2004-12-14](/news/2004/12/14/index.md)
 
-##### train
+##### Train
 #  Two trains collide in the northern Indian state of Punjab, killing at least 37 people. One of the trains was carrying Hindu pilgrims returning from Vaishno Devi. 
 
 

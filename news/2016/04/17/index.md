@@ -5,9 +5,9 @@ Formats: [HTML](2016/04/17/index.html)  [JSON](2016/04/17/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md)
-_Context: War in Afghanistan (2015-present), police, Afghanistan, Taliban, Kunduz_
+_Context: police, Kunduz, War in Afghanistan (2015-present), Taliban, Afghanistan_
 
-##### earthquake
+##### Earthquake
 ### [The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. ](/news/2016/04/17/the-death-toll-from-saturday-night-s-earthquake-in-ecuador-rises-to-262-with-more-than-2-500-people-injured.md)
 A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hundreds and causing severe damage over a wide area.
 
@@ -15,7 +15,7 @@ A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hu
 ### [A bus carrying members of the Bharati Gananatya opera troupe crashes into a gorge in India's Odisha state resulting in 25 people killed and 11 injured. ](/news/2016/04/17/a-bus-carrying-members-of-the-bharati-gananatya-opera-troupe-crashes-into-a-gorge-in-india-s-odisha-state-resulting-in-25-people-killed-and.md)
 A bus carrying members of an opera troupe plunges 76 metres into a gorge in eastern India, killing at least 25 people, media reports say.
 
-##### drone
+##### Drone
 ### [A drone collides at London's Heathrow Airport with an Airbus A320 carrying 132 passengers and five crew, with no injuries reported. ](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-with-an-airbus-a320-carrying-132-passengers-and-five-crew-with-no-injuries-reported.md)
 A passenger aircraft approaching to land at London&#039;s Heathrow Airport may have collided with a drone, but landed safely, the BBC said, quoting police.
 
@@ -45,7 +45,7 @@ A referendum to be held next Sunday in Italy could shape the country’s energy 
 
 ##### 2016 Brussels bombings
 ### [At least 7,000 people take to the streets of Brussels, Belgium, in a march "against terror and hate." However, turnout was less than half of what was hoped for by organizers. ](/news/2016/04/17/at-least-7-000-people-take-to-the-streets-of-brussels-belgium-in-a-march-against-terror-and-hate-however-turnout-was-less-than-half-of.md)
-_Context: Belgium, 2016 Brussels bombings, Brussels_
+_Context: 2016 Brussels bombings, Belgium, Brussels_
 
 ##### Skopje
 ### [Protests continue in Skopje, Republic of Macedonia, against President Gjorge Ivanov's decision to suspend an investigation into the alleged corruption of a number of politicians. ](/news/2016/04/17/protests-continue-in-skopje-republic-of-macedonia-against-president-gjorge-ivanov-s-decision-to-suspend-an-investigation-into-the-alleged.md)

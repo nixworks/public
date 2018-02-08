@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/6/electronic-voting-the-u-s-military-abandons-plan
 
 ### [2004-02-6](/news/2004/02/6/index.md)
 
-##### election system
+##### Election system
 #  Electronic voting: The U.S. military abandons plans for a trial of Internet voting (Secure Electronic Registration and Voting Experiment) in the upcoming presidential election.
 
 

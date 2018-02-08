@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/18/an-automobile-crashes-into-pedestrians-in-new-y
 
 ### [2017-05-18](/news/2017/05/18/index.md)
 
-##### crashes
+##### Crashes
 # An automobile crashes into pedestrians in New York City's Times Square, killing one person and injuring several others. Police are investigating the incident as an accident. 
 
 At least one person has died and nearly two dozen were hurt when a wrong-way driver slammed into a crowd of pedestrians in Times Square Thursday, senior officials familiar with the investigation tell NBC 4...

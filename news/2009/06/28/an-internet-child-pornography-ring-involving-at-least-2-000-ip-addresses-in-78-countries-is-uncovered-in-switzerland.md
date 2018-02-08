@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/28/an-internet-child-pornography-ring-involving-at
 
 ### [2009-06-28](/news/2009/06/28/index.md)
 
-##### child pornography
+##### Child pornography
 #  An internet child pornography ring, involving at least 2,000 IP addresses in 78 countries, is uncovered in Switzerland. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/19/some-6-000-people-have-fled-a-wave-of-attacks-o
 
 ### [2008-05-19](/news/2008/05/19/index.md)
 
-##### attacks on foreigners
+##### Attacks on foreigners
 #  Some 6,000 people have fled a wave of attacks on foreigners in South Africa, which has left at least 13 dead, aid workers say. 
 
 

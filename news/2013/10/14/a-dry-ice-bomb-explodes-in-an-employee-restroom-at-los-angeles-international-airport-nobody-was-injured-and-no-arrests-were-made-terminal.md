@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/14/a-dry-ice-bomb-explodes-in-an-employee-restroom
 
 ### [2013-10-14](/news/2013/10/14/index.md)
 
-##### dry ice bomb
+##### Dry ice bomb
 # A dry ice bomb explodes in an employee restroom at Los Angeles International Airport. Nobody was injured, and no arrests were made. Terminal 2 was briefly shut down and evacuated. It was the second incident of its kind to have occurred at the airport in two days. 
 
 

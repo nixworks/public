@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/4/in-florida-united-states-eric-rivera-jr-is-convi
 
 ### [2013-11-4](/news/2013/11/4/index.md)
 
-##### the state
+##### The state
 # In Florida, United States, Eric Rivera Jr. is convicted of second-degree murder in the 2007 killing of NFL Washington Redskins player Sean Taylor during a burglary. 
 
 A South Florida jury has convicted a 23-year-old man of second-degree murder in the 2007 killing of Washington Redskins star Sean Taylor during a botched home burglary.

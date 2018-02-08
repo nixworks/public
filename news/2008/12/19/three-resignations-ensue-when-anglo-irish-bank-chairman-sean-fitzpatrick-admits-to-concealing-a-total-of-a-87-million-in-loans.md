@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/19/three-resignations-ensue-when-anglo-irish-bank-
 
 ### [2008-12-19](/news/2008/12/19/index.md)
 
-##### the bank's nationalisation
+##### The bank's nationalisation
 #  Three resignations ensue when Anglo Irish Bank chairman Sean Fitzpatrick admits to concealing a total of EUR87 million in loans. 
 
 David Drumm has resigned as chief executive of Anglo Irish Bank following last night&#39;s resignation of chairman Sean FitzPatrick.

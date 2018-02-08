@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/2/an-autopsy-finds-that-american-musician-prince-d
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
-##### autopsy
+##### Autopsy
 # An autopsy finds that American musician Prince died of an overdose of fentanyl, an opioid painkiller 50 times more powerful than heroin. 
 
 Officials in Minnesota said the singer sustained an accidental overdose of self-administered fentanyl, a type of synthetic opiate.

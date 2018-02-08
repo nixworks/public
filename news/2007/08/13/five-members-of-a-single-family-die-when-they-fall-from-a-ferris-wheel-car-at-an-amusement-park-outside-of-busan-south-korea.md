@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/13/five-members-of-a-single-family-die-when-they-f
 
 ### [2007-08-13](/news/2007/08/13/index.md)
 
-##### ferris wheel
+##### Ferris wheel
 #  Five members of a single family die when they fall from a ferris wheel car at an amusement park outside of Busan, South Korea. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/5/at-least-17-more-people-are-killed-during-a-thir
 
 ### [2010-08-5](/news/2010/08/5/index.md)
 
-##### a third day of violence
+##### A third day of violence
 # At least 17 more people are killed during a third day of violence in Karachi, with police given orders to shoot on sight as buildings burn. Current death toll: At least 80. 
 
 

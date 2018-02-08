@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/12/a-38-year-old-seller-of-antiquities-attacks-and
 
 ### [2012-07-12](/news/2012/07/12/index.md)
 
-##### attacks and beheads two people
+##### Attacks and beheads two people
 # A 38-year-old seller of antiquities attacks and beheads two people in the Chilean town of Lolol 
 
 

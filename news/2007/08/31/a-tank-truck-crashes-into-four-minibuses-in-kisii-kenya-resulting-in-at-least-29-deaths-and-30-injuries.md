@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/31/a-tank-truck-crashes-into-four-minibuses-in-kis
 
 ### [2007-08-31](/news/2007/08/31/index.md)
 
-##### tank truck
+##### Tank truck
 #  A tank truck crashes into four minibuses in Kisii, Kenya, resulting in at least 29 deaths and 30 injuries. 
 
 

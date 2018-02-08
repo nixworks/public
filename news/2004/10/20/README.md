@@ -9,9 +9,9 @@ _Context: Fallujah, Abu Musab al-Zarqawi, propaganda_
 
 ##### United States soldier
 ### [ U.S. Army Staff Sergeant Ivan Frederick pleads guilty to conspiracy, dereliction of duty, maltreatment of detainees, assault, and committing an indecent act for his actions in the Abu Ghraib prisoner abuse scandal. He is the third person to plead guilty in the scandal. ](/news/2004/10/20/u-s-army-staff-sergeant-ivan-frederick-pleads-guilty-to-conspiracy-dereliction-of-duty-maltreatment-of-detainees-assault-and-committin.md)
-_Context: United States soldier, Abu Ghraib prisoner abuse, Staff Sergeant, Ivan Frederick_
+_Context: United States soldier, Ivan Frederick, Staff Sergeant, Abu Ghraib prisoner abuse_
 
-##### Lebanon
+##### Lebanese
 ### [ Lebanese Prime Minister Rafiq Hariri resigns and says he will leave the government, ending several weeks of conflict between Hariri and the Syrian-backed President, mile Lahoud. Lahoud's term in office was extended last month, allegedly as a result of pressure from Syria; in response, the United Nations Security Council passed a resolution condemning foreign interference in Lebanon and demanding the withdrawal of foreign troops. ](/news/2004/10/20/lebanese-prime-minister-rafiq-hariri-resigns-and-says-he-will-leave-the-government-ending-several-weeks-of-conflict-between-hariri-and-the.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 

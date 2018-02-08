@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/27/a-man-hijacks-a-bus-in-bulgaria-and-holds-the-3
 
 ### [2009-01-27](/news/2009/01/27/index.md)
 
-##### hijacks
+##### Hijacks
 #  A man hijacks a bus in Bulgaria and holds the 37 passengers hostage for two hours before surrendering. 
 
 An armed man surrendered to police after hijacking a bus and holding 37 people aboard hostage for two hours in Bulgaria on Tuesday, officials said.

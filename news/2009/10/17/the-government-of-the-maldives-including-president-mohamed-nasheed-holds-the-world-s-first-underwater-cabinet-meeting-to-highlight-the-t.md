@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/17/the-government-of-the-maldives-including-presid
 
 ### [2009-10-17](/news/2009/10/17/index.md)
 
-##### his party
+##### His party
 #  The government of the Maldives, including President Mohamed Nasheed, holds the world's first underwater Cabinet meeting, to highlight the threat of global warming. 
 
 

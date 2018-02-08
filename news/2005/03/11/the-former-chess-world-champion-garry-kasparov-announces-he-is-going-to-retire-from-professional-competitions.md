@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/11/the-former-chess-world-champion-garry-kasparov-
 
 ### [2005-03-11](/news/2005/03/11/index.md)
 
-##### chess
+##### Chess
 #  The former chess world champion Garry Kasparov announces he is going to retire from professional competitions 
 
 

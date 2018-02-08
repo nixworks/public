@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/23/gunmen-kill-thirteen-people-and-wound-fifteen-a
 
 ### [2010-10-23](/news/2010/10/23/index.md)
 
-##### birthday party
+##### Birthday party
 # Gunmen kill thirteen people and wound fifteen at a birthday party in the Mexican border city of Ciudad Juarez. 
 
 Gunmen raid house party in violent border city of Ciudad Juarez, killing at least 13 and wounding 15 others.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/20/a-public-memorial-service-is-held-at-australia-
 
 ### [2006-09-20](/news/2006/09/20/index.md)
 
-##### funeral
+##### Funeral
 #  A public memorial service is held at Australia Zoo in Beerwah, Queensland, Australia, for "The Crocodile Hunter" Steve Irwin. 
 
 

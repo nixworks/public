@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/22/russian-defence-minister-sergei-shoigu-announce
 
 ### [2015-10-22](/news/2015/10/22/index.md)
 
-##### rival territorial claims
+##### Rival territorial claims
 # Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. 
 
 Russia plans to build a military base on the...

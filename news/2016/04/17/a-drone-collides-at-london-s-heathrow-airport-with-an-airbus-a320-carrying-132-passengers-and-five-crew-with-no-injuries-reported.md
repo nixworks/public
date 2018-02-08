@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/17/a-drone-collides-at-london-s-heathrow-airport-w
 
 ### [2016-04-17](/news/2016/04/17/index.md)
 
-##### drone
+##### Drone
 # A drone collides at London's Heathrow Airport with an Airbus A320 carrying 132 passengers and five crew, with no injuries reported. 
 
 A passenger aircraft approaching to land at London&#039;s Heathrow Airport may have collided with a drone, but landed safely, the BBC said, quoting police.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/24/scientists-warn-that-a-massive-release-of-metha
 
 ### [2013-07-24](/news/2013/07/24/index.md)
 
-##### methane
+##### Methane
 # Scientists warn that a massive release of methane resulting from Arctic sea ice decline could cause significant global disruption, potentially costing the world economy an extra US$ 60 trillion to $400 trillion from the effects of global warming and climate change. The full impact of climate change in the Arctic, including, for example, ocean acidification, and altered ocean and atmospheric circulation, will be much greater.
 
 The sudden release from the melting Arctic of vast quantities of methane – a greenhouse gas at least 20 times more potent than carbon dioxide –is an “economic time-bomb” that could explode at a cost of $60 trillion (£40tr) to the global economy, a study has concluded.

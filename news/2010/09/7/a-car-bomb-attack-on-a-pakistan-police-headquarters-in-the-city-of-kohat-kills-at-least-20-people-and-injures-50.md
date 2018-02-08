@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/7/a-car-bomb-attack-on-a-pakistan-police-headquart
 
 ### [2010-09-7](/news/2010/09/7/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb attack on a Pakistan police headquarters in the city of Kohat kills at least 20 people and injures 50. 
 
 

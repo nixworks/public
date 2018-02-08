@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/13/38-people-are-killed-in-collapsed-school-buildi
 
 ### [2009-11-13](/news/2009/11/13/index.md)
 
-##### snow
+##### Snow
 #  38 people are killed in collapsed school buildings and road accidents caused by heavy snowfall in China, the heaviest in 60 years. 
 
 

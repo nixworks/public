@@ -33,7 +33,7 @@ The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new
 
 ##### November 2015 Paris attacks
 ### [Christiane Taubira, differing with President Francois Hollande concerning pending terrorist-citizenship legislation, resigns as the Minister of Justice in France. ](/news/2016/01/27/christiane-taubira-differing-with-president-franassois-hollande-concerning-pending-terrorist-citizenship-legislation-resigns-as-the-ministe.md)
-_Context: France, Christiane Taubira, Francois Hollande, November 2015 Paris attacks, French President, Minister of Justice_
+_Context: Christiane Taubira, France, November 2015 Paris attacks, Minister of Justice, Francois Hollande, French President_
 
 ##### Vietnam
 ### [Vietnam reelects conservative Nguyen Phu Trong as General Secretary of the Communist Party of Vietnam. Deputy Prime Minister Nguyen Xuan Phuc, a member of the Politburo, is expected to replace Nguyen TCNYn Dung as prime minister. Dung is not eligible for another term. ](/news/2016/01/27/vietnam-reelects-conservative-nguya-n-phao-tra-ng-as-general-secretary-of-the-communist-party-of-vietnam-deputy-prime-minister-nguya-n-x.md)
@@ -41,7 +41,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Artificial intelligence
 ### [ A computer program called AlphaGo, powered by DeepMind, beats the European Go champion Fan Hui, 5-0. This is the first time artificial intelligence has defeated a professional player in this ancient Chinese abstract strategy board game. ](/news/2016/01/27/a-computer-program-called-alphago-powered-by-deepmind-beats-the-european-go-champion-fan-hui-5-0-this-is-the-first-time-artificial-inte.md)
-_Context: board game, AlphaGo, Go, Artificial intelligence, DeepMind, abstract strategy, computer program, artificial intelligence, ancient Chinese_
+_Context: Artificial intelligence, board game, artificial intelligence, abstract strategy, computer program, ancient Chinese, Go, DeepMind, AlphaGo_
 
 ## [Previous Day...](/news/2016/01/26/index.md)
 

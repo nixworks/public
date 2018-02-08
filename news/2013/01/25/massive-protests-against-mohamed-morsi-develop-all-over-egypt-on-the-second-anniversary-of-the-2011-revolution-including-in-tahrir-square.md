@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/25/massive-protests-against-mohamed-morsi-develop-
 
 ### [2013-01-25](/news/2013/01/25/index.md)
 
-##### protests
+##### Protests
 # Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. 
 
 Five people were shot dead in the Egyptian city of Suez during nationwide protests against President Mohamed Mursi on Friday, the second anniversary of the uprising that toppled Hosni Mubarak.

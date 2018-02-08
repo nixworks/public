@@ -5,11 +5,11 @@ Formats: [HTML](2010/06/21/index.html)  [JSON](2010/06/21/index.json)  [XML](201
 
 ##### Mara
 ### [Mara gang members in El Salvador attack a bus on the outskirts of San Salvador, shooting at it before dousing it with gasoline and lighting it on fire, killing 14 and injuring 16. Gang members open fire on another bus shortly afterward, killing another 2 people. ](/news/2010/06/21/mara-gang-members-in-el-salvador-attack-a-bus-on-the-outskirts-of-san-salvador-shooting-at-it-before-dousing-it-with-gasoline-and-lighting.md)
-_Context: Mara, El Salvador, San Salvador_
+_Context: Mara, San Salvador, El Salvador_
 
 ##### Iraq
 ### [Iraq's electricity minister Karim Waheed offers his resignation on live television as "Iraqis are not capable of being patient in their suffering". Two people are shot dead by armed forces while protesting over lack of electricity generation blamed by Waheed on lack of funding. ](/news/2010/06/21/iraq-s-electricity-minister-karim-waheed-offers-his-resignation-on-live-television-as-iraqis-are-not-capable-of-being-patient-in-their-suff.md)
-_Context: Karim Waheed, Iraq_
+_Context: Iraq, Karim Waheed_
 
 ##### Colombia
 ### [The death toll in Colombia's mine blast reaches 70, as 4 more charred corpses are retrieved. ](/news/2010/06/21/the-death-toll-in-colombia-s-mine-blast-reaches-70-as-4-more-charred-corpses-are-retrieved.md)
@@ -33,15 +33,15 @@ _Context: Colombian presidential election, Juan Manuel Santos_
 
 ##### Bronislaw Komorowski
 ### [Bronislaw Komorowski and Jaroslaw Kaczynski face each other on 4 July after Sunday's inconclusive vote in Polish presidential election, 2010. ](/news/2010/06/21/bronisaaw-komorowski-and-jarosaaw-kaczyaski-face-each-other-on-4-july-after-sunday-s-inconclusive-vote-in-polish-presidential-election-2.md)
-_Context: Bronislaw Komorowski, Jaroslaw Kaczynski, Polish presidential election, 2010_
+_Context: Jaroslaw Kaczynski, Polish presidential election, 2010, Bronislaw Komorowski_
 
-##### weapon of mass destruction
+##### Weapon of mass destruction
 ### [An American man pleads guilty to charges of attempted use of a weapon of mass destruction in the 2010 Times Square car bombing attempt. ](/news/2010/06/21/an-american-man-pleads-guilty-to-charges-of-attempted-use-of-a-weapon-of-mass-destruction-in-the-2010-times-square-car-bombing-attempt.md)
-_Context: weapon of mass destruction, Times Square bomber_
+_Context: Times Square bomber, weapon of mass destruction_
 
 ##### CASA C-212 Aviocar
 ### [Search teams find the wreckage of a CASA C-212 Aviocar private plane carrying senior Australian mining executives including Ken Talbot in the jungle of the Republic of the Congo. ](/news/2010/06/21/search-teams-find-the-wreckage-of-a-casa-c-212-aviocar-private-plane-carrying-senior-australian-mining-executives-including-ken-talbot-in-th.md)
-_Context: Australia, CASA C-212 Aviocar, Ken Talbot, mine, jungle, Republic of the Congo_
+_Context: mine, Republic of the Congo, Australia, CASA C-212 Aviocar, jungle, Ken Talbot_
 
 ##### Iran
 ### [Iran bans two International Atomic Energy Agency weapons inspectors from entering the country claiming they had leaked false information about Iran's nuclear program. ](/news/2010/06/21/iran-bans-two-international-atomic-energy-agency-weapons-inspectors-from-entering-the-country-claiming-they-had-leaked-false-information-abo.md)
@@ -49,7 +49,7 @@ Read the latest World and International news headlines from Sky News Australia. 
 
 ##### Xi Jinping
 ### [Chinese Vice-President Xi Jinping meets with Australian Prime Minister Kevin Rudd on an official trip to Canberra. The two countries sign agreements valued at over A$10 billion. ](/news/2010/06/21/chinese-vice-president-xi-jinping-meets-with-australian-prime-minister-kevin-rudd-on-an-official-trip-to-canberra-the-two-countries-sign-ag.md)
-_Context: Australian Prime Minister, Kevin Rudd, Canberra, Australian Dollar, Xi Jinping, Australia_
+_Context: Australian Dollar, Canberra, Australia, Xi Jinping, Kevin Rudd, Australian Prime Minister_
 
 ##### Shirqat
 ### [8 people die and 10 people are wounded in a suicide attack in the northern city of Shirqat of Iraq. ](/news/2010/06/21/8-people-die-and-10-people-are-wounded-in-a-suicide-attack-in-the-northern-city-of-shirqat-of-iraq.md)
@@ -57,11 +57,11 @@ _Context: Shirqat, Iraq_
 
 ##### The Washington Post
 ### ["The Washington Post" reports that Gizab villagers in Afghanistan overturned their local Taliban movement during April, with some members putting down their weapons and being welcomed back into their local community. The United States did not hear of this before now as it happened in a remote part of the country ignored by the military. ](/news/2010/06/21/the-washington-post-reports-that-gizab-villagers-in-afghanistan-overturned-their-local-taliban-movement-during-april-with-some-members-pu.md)
-_Context: Taliban, The Washington Post, Gizab, United States_
+_Context: Taliban, Gizab, The Washington Post, United States_
 
 ##### Australia
 ### [Three Australian soldiers and a United States army soldier are killed in a helicopter crash in Afghanistan with nine NATO casualties overall. ](/news/2010/06/21/three-australian-soldiers-and-a-united-states-army-soldier-are-killed-in-a-helicopter-crash-in-afghanistan-with-nine-nato-casualties-overall.md)
-_Context: NATO, United States army, Australia, soldiers, Afghanistan, helicopter_
+_Context: Australia, NATO, helicopter, Afghanistan, soldiers, United States army_
 
 ##### South Korea
 ### [The northernmost radiation detection station of the South Korean Institute of Nuclear Safety claims to have detected an eightfold increase in the radioactive substance xenon. ](/news/2010/06/21/the-northernmost-radiation-detection-station-of-the-south-korean-institute-of-nuclear-safety-claims-to-have-detected-an-eightfold-increase-i.md)
@@ -71,7 +71,7 @@ Right after North Korea claimed a successful nuclear fusion test on May 12, the 
 ### [Mayor of Jerusalem Nir Barkat calls for the demolition of 22 Palestinian homes in the Silwan neighbourhood of East Jerusalem. Barkat wants to build a tourist centre, while Palestinians say it is "forced displacement". Members of Israel's Meretz say they will resign their city council seats in protest. ](/news/2010/06/21/mayor-of-jerusalem-nir-barkat-calls-for-the-demolition-of-22-palestinian-homes-in-the-silwan-neighbourhood-of-east-jerusalem-barkat-wants-t.md)
 Municipality endorses mayor&#39;s plan to raze 22 homes in east Jerusalem before Netanyahu-Obama meeting
 
-##### failed state
+##### Failed state
 ### [The "Fund for Peace and Foreign Policy Magazine" releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; "Foreign Policy" claims state failure "is a chronic condition". ](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-releases-its-2010-index-of-so-called-failed-states-ranking-177-countries-by-what-it-sees.md)
 Annual report ranks seven African countries among top 10 most unstable in the world.
 
@@ -97,7 +97,7 @@ A memorial sculpture commemorating the victims of Bloody Sunday has been vandali
 
 ##### North America
 ### [A tour of North America by Simon & Garfunkel is "postponed indefinitely" as Art Garfunkel develops vocal cord paresis; he is expected to recover. ](/news/2010/06/21/a-tour-of-north-america-by-simon-garfunkel-is-postponed-indefinitely-as-art-garfunkel-develops-vocal-cord-paresis-he-is-expected-to-rec.md)
-_Context: Art Garfunkel, North America, vocal cord paresis, Simon & Garfunkel_
+_Context: vocal cord paresis, Simon & Garfunkel, Art Garfunkel, North America_
 
 ##### Hyksos
 ### [Hyksos capital Avaris is believed to have been located via radar imaging by a group of Austrian archaeologists in Tel al-Dabaa. ](/news/2010/06/21/hyksos-capital-avaris-is-believed-to-have-been-located-via-radar-imaging-by-a-group-of-austrian-archaeologists-in-tel-al-dabaa.md)

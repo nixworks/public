@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/06/20/law-a-go-daddy-software-pursues-verisign-for-da
 
 ### [2002-06-20](/news/2002/06/20/index.md)
 
-##### amendment
+##### Amendment
 #  Law - Go Daddy Software pursues VeriSign for damages.
 
 

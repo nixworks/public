@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/accused-fraudster-and-us-tv-pitchman-don-lapre-
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### fraud
+##### Fraud
 # Accused fraudster and US TV pitchman Don Lapre is arrested in Tempe, Arizona. 
 
 

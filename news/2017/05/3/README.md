@@ -19,7 +19,7 @@ In addition to the presidential museum and gardens, the new center will feature 
 ### [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md)
  Puerto Rico announced a historic restructuring of its public debt on Wednesday, touching off what may be the biggest bankruptcy ever in the $3.8 trillion U.S. 
 
-##### mine
+##### Mine
 ### [An explosion at a coal mine near Azadshahr, Iran, kills at least 35 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-35-miners-and-traps-39-others-according-to-state-media.md)
 They are believed to be 1,800m underground and in danger from volatile gases.
 
@@ -27,11 +27,11 @@ They are believed to be 1,800m underground and in danger from volatile gases.
 ### [A car crash at an auto auction in Billerica, Massachusetts, kills at least three and injures nine, two critically. ](/news/2017/05/3/a-car-crash-at-an-auto-auction-in-billerica-massachusetts-kills-at-least-three-and-injures-nine-two-critically.md)
 _Context: Billerica, Massachusetts_
 
-##### last month's presidential election
+##### Last month's presidential election
 ### [Candidates Marine Le Pen and Emmanuel Macron face off in a debate. ](/news/2017/05/3/candidates-marine-le-pen-and-emmanuel-macron-face-off-in-a-debate.md)
 Centrist Emmanuel Macron and Marine Le Pen, of the far-right Front National, go head to head before Sunday’s decisive second-round vote to choose France’s next president
 
-##### last general election
+##### Last general election
 ### [Conservative politician Theresa May accuses European Union officials of trying to influence the upcoming elections. ](/news/2017/05/3/conservative-politician-theresa-may-accuses-european-union-officials-of-trying-to-influence-the-upcoming-elections.md)
 Theresa May has put the growing feud between Downing Street and European leaders at the heart of the general election by accusing &amp;#8220;Brussels bureaucrats&amp;#8221; of trying to interfere in the campaign.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/15/the-ruling-emir-of-kuwait-sheikh-jaber-al-ahmad
 
 ### [2006-01-15](/news/2006/01/15/index.md)
 
-##### emir
+##### Emir
 #  The ruling emir of Kuwait, Sheikh Jaber Al-Ahmad Al-Jaber Al-Sabah, dies at age 79. Kuwait's cabinet names crown prince Sheikh Saad Al-Abdullah Al-Salim Al-Sabah as the new emir. 
 
 

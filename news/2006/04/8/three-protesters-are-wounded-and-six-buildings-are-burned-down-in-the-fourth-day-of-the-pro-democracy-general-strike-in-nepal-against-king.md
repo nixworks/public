@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/8/three-protesters-are-wounded-and-six-buildings-a
 
 ### [2006-04-8](/news/2006/04/8/index.md)
 
-##### democratic progress
+##### Democratic progress
 #  Three protesters are wounded and six buildings are burned down in the fourth day of the pro-Democracy general strike in Nepal against King Gyanendra. 
 
 

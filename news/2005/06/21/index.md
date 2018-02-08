@@ -5,7 +5,7 @@ Formats: [HTML](2005/06/21/index.html)  [JSON](2005/06/21/index.json)  [XML](200
 
 ##### Cosmos 1
 ### [ The Cosmos 1 experimental solar sail spacecraft, a project of international space advocacy group The Planetary Society and science based entertainment company Cosmos Studios, is launched by a Russian R-29R Volna ICBM from a Russian Delta III submarine submerged in the Barents Sea. However, the spacecraft is feared lost, for the rocket failed 83 seconds after launch. ](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.md)
-_Context: solar sail, submarine, Planetary Society, Volna, Russia, long range missile, Barents Sea, Cosmos 1, Delta III, Cosmos Studios, space advocacy, spacecraft, R-29R_
+_Context: Volna, Delta III, spacecraft, long range missile, Planetary Society, space advocacy, Cosmos Studios, solar sail, Barents Sea, submarine, Cosmos 1, Russia, R-29R_
 
 ##### LA Times
 ### [ The LA Times suspends an experiment called "wikitorial" after three days because of vandalism. ](/news/2005/06/21/the-la-times-suspends-an-experiment-called-wikitorial-after-three-days-because-of-vandalism.md)
@@ -17,7 +17,7 @@ _Context: Israel, Kiryat Gat_
 
 ##### Manchester
 ### [ In Manchester, UK, 30 police raid a house at 5 a.m. and arrest a 40-year-old man on suspicion of involvement in suicide bombings in Iraq. Another man resident in the same house is believed to have gone to Iraq in February to carry out a bombing. Last week, police in Spain and Germany also made arrests in connection with bombings in Iraq, but it is not known if the cases are related. ](/news/2005/06/21/in-manchester-uk-30-police-raid-a-house-at-5-a-m-and-arrest-a-40-year-old-man-on-suspicion-of-involvement-in-suicide-bombings-in-iraq-a.md)
-_Context: suicide bomb, Spain, United Kingdom, Manchester, German, Iraq_
+_Context: suicide bomb, Spain, German, United Kingdom, Iraq, Manchester_
 
 ##### New Zealand
 ### [ New Zealand's telecoms network crashes for five hours when a rat chews one of the North Island's main fibre-optic cables at the same time as a workman damaged another cable in another part of the island. Mobile phone and Internet communications were badly affected, and the Stock Exchange had to close for several hours. ](/news/2005/06/21/new-zealand-s-telecoms-network-crashes-for-five-hours-when-a-rat-chews-one-of-the-north-island-s-main-fibre-optic-cables-at-the-same-time-a.md)
@@ -31,7 +31,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 ### [ In Brazil, president Luiz Inacio Lula da Silva demands that the opposition present proof of its allegations that government had given bribes for political support ](/news/2005/06/21/in-brazil-president-luiz-inacio-lula-da-silva-demands-that-the-opposition-present-proof-of-its-allegations-that-government-had-given-bribe.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Lebanon
+##### Lebanese
 ### [ In Lebanon, a remote control bomb that had been placed under the passenger seat of his car kills anti-Syrian politician George Hawi, former secretary general of Lebanese Communist Party ](/news/2005/06/21/in-lebanon-a-remote-control-bomb-that-had-been-placed-under-the-passenger-seat-of-his-car-kills-anti-syrian-politician-george-hawi-former.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
@@ -41,11 +41,11 @@ _Context: Manila, Gloria Arroyo, Philippines_
 
 ##### Zambia
 ### [ In Zambia, former health ministry official Kashiba Bulaya has been charged again with accepting a bribe from a Bulgarian firm that manufactures anti-retrovirus drugs against AIDS. Government's decision to halt the case a month ago aroused protests. ](/news/2005/06/21/in-zambia-former-health-ministry-official-kashiba-bulaya-has-been-charged-again-with-accepting-a-bribe-from-a-bulgarian-firm-that-manufact.md)
-_Context: AIDS, anti-retrovirus drug, Zambia, Kashiba Bulaya, bribe, Bulgaria_
+_Context: bribe, anti-retrovirus drug, Bulgaria, AIDS, Kashiba Bulaya, Zambia_
 
 ##### Court of Appeals
 ### [ A U.S. Court of Appeals struck down a regulation of the SEC designed to ensure an independent board of directors for mutual funds, holding that the SEC didn't comply with the requirements of the Administrative Procedures Act. ](/news/2005/06/21/a-u-s-court-of-appeals-struck-down-a-regulation-of-the-sec-designed-to-ensure-an-independent-board-of-directors-for-mutual-funds-holding.md)
-_Context: mutual funds, Court of Appeals, Administrative Procedures Act, board of directors_
+_Context: board of directors, Court of Appeals, Administrative Procedures Act, mutual funds_
 
 ## [Previous Day...](/news/2005/06/20/index.md)
 

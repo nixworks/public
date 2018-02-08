@@ -17,15 +17,15 @@ Tributes were paid today to one the leading lights in the family campaign to bri
 
 ##### United States
 ### [The United States reclaims its spot as the top export market for Japan as China slips due to economic slowdown. Japan's overall annual trade deficit meanwhile reaches 8.2 trillion yen, the highest on record. ](/news/2013/04/18/the-united-states-reclaims-its-spot-as-the-top-export-market-for-japan-as-china-slips-due-to-economic-slowdown-japan-s-overall-annual-trade.md)
-_Context: United States, trade deficit, yen, Japan, China, top export market_
+_Context: top export market, yen, United States, trade deficit, China, Japan_
 
 ##### Trade Minister
 ### [Australian Trade Minister Craig Emerson says free trade talks between Australia and China are deadlocked over differences of opinion on the removal of investment limits for state-owned enterprises. ](/news/2013/04/18/australian-trade-minister-craig-emerson-says-free-trade-talks-between-australia-and-china-are-deadlocked-over-differences-of-opinion-on-the.md)
-_Context: China, free trade talks, Craig Emerson, state-owned enterprises, Australia, Trade Minister_
+_Context: Trade Minister, China, Craig Emerson, Australia, free trade talks, state-owned enterprises_
 
 ##### YouTube
 ### [YouTube successfully defends itself in a billion dollar copyright infringement suit by Viacom. ](/news/2013/04/18/youtube-successfully-defends-itself-in-a-billion-dollar-copyright-infringement-suit-by-viacom.md)
-_Context: YouTube, copyright infringement, Viacom_
+_Context: YouTube, Viacom, copyright infringement_
 
 ##### Texas fertilizer plant explosion
 ### [15 people are confirmed dead after the Texas fertilizer plant explosion in West, Texas, United States. ](/news/2013/04/18/15-people-are-confirmed-dead-after-the-texas-fertilizer-plant-explosion-in-west-texas-united-states.md)
@@ -43,13 +43,13 @@ A Pakistani court orders the arrest of ex-military ruler Pervez Musharraf over m
 ### [Authorities in the United Arab Emirates say they have arrested seven suspected members of an al-Qaeda-linked "terrorist cell" seeking to carry out operations in the country and the region. ](/news/2013/04/18/authorities-in-the-united-arab-emirates-say-they-have-arrested-seven-suspected-members-of-an-al-qaeda-linked-terrorist-cell-seeking-to-car.md)
 The statement, carried by the official WAM news agency, says the latest arrests include seven people of Arab nationalities, but gave no further details.
 
-##### migrant workers
+##### Migrant workers
 ### [Around 30 migrant workers, mainly from Bangladesh, are injured in a shooting by at least one farm supervisor on a strawberry farm in Greece after requesting salaries that had yet to be paid to them. The farm's owner, and at least one of the supervisors, are arrested. ](/news/2013/04/18/around-30-migrant-workers-mainly-from-bangladesh-are-injured-in-a-shooting-by-at-least-one-farm-supervisor-on-a-strawberry-farm-in-greece.md)
 About 30 migrant workers are injured in a shooting on a strawberry farm in Greece after requesting withheld salaries.
 
 ##### Earth-like
 ### [Two Earth-like planets, Kepler-62e and Kepler-62f, are discovered cirulating around the star Kepler-62 in the habitable zone. ](/news/2013/04/18/two-earth-like-planets-kepler-62e-and-kepler-62f-are-discovered-cirulating-around-the-star-kepler-62-in-the-habitable-zone.md)
-_Context: Kepler-62, Kepler-62e, Earth-like, star, habitable zone, Kepler-62f_
+_Context: habitable zone, Earth-like, star, Kepler-62f, Kepler-62e, Kepler-62_
 
 ## [Previous Day...](/news/2013/04/17/index.md)
 

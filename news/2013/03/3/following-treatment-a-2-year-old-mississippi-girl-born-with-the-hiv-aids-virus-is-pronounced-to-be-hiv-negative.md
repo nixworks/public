@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/3/following-treatment-a-2-year-old-mississippi-gir
 
 ### [2013-03-3](/news/2013/03/3/index.md)
 
-##### antiretroviral therapy
+##### Antiretroviral therapy
 # Following treatment, a 2-year-old Mississippi girl born with the HIV-AIDS virus is pronounced to be HIV negative. 
 
 US doctors say they seem to have cured a baby born with HIV - the virus that causes Aids - through very early treatment with standard drug therapy.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/3/six-expatriate-judges-resign-from-the-fijian-leg
 
 ### [2007-09-3](/news/2007/09/3/index.md)
 
-##### judge
+##### Judge
 #  Six expatriate judges resign from the Fijian legal system following disagreements with the military-appointed acting Chief Justice Anthony Gates. 
 
 

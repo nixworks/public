@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/22/the-death-toll-from-landslides-in-japan-s-hiros
 
 ### [2014-08-22](/news/2014/08/22/index.md)
 
-##### landslide
+##### Landslide
 # The death toll from landslides in Japan's Hiroshima prefecture rises to 39 with 26 missing. 
 
 Rescue workers battled through mud for a second day in search of dozens of people still missing after torrential rain triggered landslides in the western Japanese city of Hiroshima that killed 39 people, national broadcaster NHK said.

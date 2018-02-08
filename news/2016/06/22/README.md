@@ -11,9 +11,9 @@ The so-called Islamic State, or ISIS, released a video early on Wednesday in an 
 ### [According to the Syrian Observatory for Human Rights, airstrikes on ISIL-held Al-Raqqah kill at least 18 civilians. The group was unable to determine who carried out the airstrikes. ](/news/2016/06/22/according-to-the-syrian-observatory-for-human-rights-airstrikes-on-isil-held-al-raqqah-kill-at-least-18-civilians-the-group-was-unable-to.md)
 At least 18 civilians have been killed in air strikes in the Syrian city of Raqqa, the headquarters of so-called Islamic State, activists say.
 
-##### during fighting
+##### During fighting
 ### [The United Nations reports 80,000 civilians have fled Fallujah, as Iraqi Army and Shia militias retake most of the city from ISIL. ](/news/2016/06/22/the-united-nations-reports-80-000-civilians-have-fled-fallujah-as-iraqi-army-and-shia-militias-retake-most-of-the-city-from-isil.md)
-_Context: Iraqi Armed Forces, Fallujah, Shi'ite volunteers, ISIL, during fighting, United Nations_
+_Context: Fallujah, during fighting, Iraqi Armed Forces, United Nations, Shi'ite volunteers, ISIL_
 
 ##### Sectarianism in Pakistan
 ### [Gunmen kill Sufi devotional singer Amjad Sabri in Pakistan with a faction of the Pakistani Taliban claiming responsibility. ](/news/2016/06/22/gunmen-kill-sufi-devotional-singer-amjad-sabri-in-pakistan-with-a-faction-of-the-pakistani-taliban-claiming-responsibility.md)
@@ -27,13 +27,13 @@ The government has confirmed that a South African man was among the contractors 
 ### [Lightning strikes in the Indian states of Bihar and Uttar Pradesh kill at least 70 people, mostly farm labourers. ](/news/2016/06/22/lightning-strikes-in-the-indian-states-of-bihar-and-uttar-pradesh-kill-at-least-70-people-mostly-farm-labourers.md)
 At least 56 people die in Bihar and more killed in nearby Uttar Pradesh, with most victims working in farming industry.
 
-##### severe thunderstorm
+##### Severe thunderstorm
 ### [A severe thunderstorm and tornado near Yancheng, Jiangsu Province, China, kills at least 98 people. See 2016 Jiangsu tornado. ](/news/2016/06/22/a-severe-thunderstorm-and-tornado-near-yancheng-jiangsu-province-china-kills-at-least-98-people-see-2016-jiangsu-tornado.md)
 A tornado and hailstorm kill at least 98 people and injure nearly 800 in the east Chinese province of Jiangsu, says state media.
 
 ##### North Korea-South Korea relations
 ### [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md)
-_Context: South Korea, North Korea's nuclear program, North Korea-South Korea relations, intermediate-range ballistic missile, North Korea, BM25 Musudan_
+_Context: BM25 Musudan, North Korea, North Korea's nuclear program, South Korea, intermediate-range ballistic missile, North Korea-South Korea relations_
 
 ##### Spillover of the Syrian Civil War
 ### [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-i
 
 ### [2009-10-10](/news/2009/10/10/index.md)
 
-##### protests against the regime
+##### Protests against the regime
 #  Three people are sentenced to death for being involved in forbidden groups after being arrested during protests against Iran's disputed presidential election earlier this year. 
 
 Three people arrested during protests over disputed presidential poll are sentenced.

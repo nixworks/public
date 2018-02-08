@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/14/photos-of-a-woman-forced-to-have-an-illegal-abo
 
 ### [2012-06-14](/news/2012/06/14/index.md)
 
-##### a woman forced
+##### A woman forced
 # Photos of a woman forced to have an illegal abortion by Chinese authorities due to the country's One-Child Policy spark controversy. 
 
 A photo of a foetus whose mother was forced to have an abortion while seven months pregnant shocks Chinese web users and sparks an inquiry.

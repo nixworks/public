@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/15/a-total-lunar-eclipse-occurs-peaking-at-around-
 
 ### [2014-04-15](/news/2014/04/15/index.md)
 
-##### lunar eclipse
+##### Lunar eclipse
 # A total lunar eclipse occurs, peaking at around 8AM UTC. 
 
 The moon took on an eerie blood-red hue early Tuesday during the first total lunar eclipse of 2014, a celestial sight that wowed potentially millions of stargazers across North and South America.

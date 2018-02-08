@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/6/at-least-eight-people-including-four-children-ar
 
 ### [2008-03-6](/news/2008/03/6/index.md)
 
-##### a shooting attack
+##### A shooting attack
 #  At least eight people, including four children, are killed and dozens wounded in a shooting attack on the Mercaz HaRav yeshiva in Jerusalem. 
 
 Get local Miami news plus Miami breaking news, business, green, national, and world news from NBC 6 Miami.

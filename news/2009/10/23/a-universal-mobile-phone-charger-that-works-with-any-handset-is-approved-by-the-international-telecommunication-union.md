@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/23/a-universal-mobile-phone-charger-that-works-wit
 
 ### [2009-10-23](/news/2009/10/23/index.md)
 
-##### universal mobile phone charger
+##### Universal mobile phone charger
 #  A universal mobile phone charger that works with any handset is approved by the International Telecommunication Union. 
 
 

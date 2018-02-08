@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/7/two-bombs-explode-in-the-southern-philippines-ki
 
 ### [2009-07-7](/news/2009/07/7/index.md)
 
-##### explode
+##### Explode
 #  Two bombs explode in the southern Philippines, killing two and injuring 53. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/21/spanish-police-hunting-the-chief-suspect-in-las
 
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-##### van attack
+##### Van attack
 # Spanish police hunting the chief suspect in last Thursday's van attack in Barcelona shoot dead a man to the west of the city who appeared to be wearing an explosive belt. 
 
 Police hunting the chief suspect shoot a man in an area to the west of the city.

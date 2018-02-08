@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/1/delays-in-releasing-the-official-results-of-parl
 
 ### [2008-04-1](/news/2008/04/1/index.md)
 
-##### parliamentary
+##### Parliamentary
 #  Delays in releasing the official results of parliamentary and presidential elections in Zimbabwe are met with widespread speculation and concerns over possible vote rigging. 
 
 

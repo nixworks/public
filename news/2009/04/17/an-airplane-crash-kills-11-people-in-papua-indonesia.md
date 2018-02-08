@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/17/an-airplane-crash-kills-11-people-in-papua-indo
 
 ### [2009-04-17](/news/2009/04/17/index.md)
 
-##### airplane
+##### Airplane
 #  An airplane crash kills 11 people in Papua, Indonesia. 
 
 Indonesian investigators spotted the wreckage of a crashed plane on a mountainside in Papua during an air search Saturday.

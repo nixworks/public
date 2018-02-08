@@ -9,13 +9,13 @@ _Context: Israel, Bethlehem_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi's party, the National League for Democracy, announces it will boycott the upcoming general elections in Burma. ](/news/2010/03/29/aung-san-suu-kyi-s-party-the-national-league-for-democracy-announces-it-will-boycott-the-upcoming-general-elections-in-burma.md)
-_Context: Burma, general elections, National League for Democracy, Aung San Suu Kyi_
+_Context: National League for Democracy, general elections, Aung San Suu Kyi, Burma_
 
-##### suicide bombing
+##### Suicide bombing
 ### [Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. ](/news/2010/03/29/suicide-bombers-detonate-two-bombs-at-moscow-metro-stations-lubyanka-and-park-kultury-killing-at-least-36-with-the-death-toll-expected-to-r.md)
-_Context: Park Kultury, Moscow Metro, Lubyanka, suicide bombing, 2010 Moscow Metro bombings_
+_Context: suicide bombing, Lubyanka, Moscow Metro, 2010 Moscow Metro bombings, Park Kultury_
 
-##### stern
+##### Stern
 ### [The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. ](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exploded-on-friday-with-46-crewmen-still-missing-is-located-and-the-military-is-expected-to-atte.md)
 _Context: ROKS ''Cheonan'', stern, South Korea_
 
@@ -35,19 +35,19 @@ _Context: Revolutionary Armed Forces of Colombia_
 ### [Ireland's rail line between Galway and Limerick reopens for the first time in 34 years. ](/news/2010/03/29/ireland-s-rail-line-between-galway-and-limerick-reopens-for-the-first-time-in-34-years.md)
 The Limerick to Galway rail line has been officially reopened, with trains travelling between the two cities for the first time in 34 years.
 
-##### southern right whale
+##### Southern right whale
 ### [More than 300 southern right whales, mostly young calves, have been discovered dead off Argentina's Patagonian coast in the last five years. ](/news/2010/03/29/more-than-300-southern-right-whales-mostly-young-calves-have-been-discovered-dead-off-argentina-s-patagonian-coast-in-the-last-five-years.md)
 MORE than 300 southern right whales, most of them young calves, have been found dead in the past five years in the waters off Argentina&#039;s Patagonian coast, one of their most important breeding grounds.
 
-##### architecture
+##### Architecture
 ### [In architecture, Kazuyo Sejima and Ryue Nishizawa, cofounders of the firm SANAA, win the 2010 Pritzker Prize. ](/news/2010/03/29/in-architecture-kazuyo-sejima-and-ryue-nishizawa-cofounders-of-the-firm-sanaa-win-the-2010-pritzker-prize.md)
-_Context: SANAA, Kazuyo Sejima, architecture, Pritzker Prize, Ryue Nishizawa_
+_Context: architecture, Pritzker Prize, Ryue Nishizawa, Kazuyo Sejima, SANAA_
 
 ##### Hutaree
 ### [Nine members of the Hutaree militia are arrested in the United States on allegations of a plot to kill policemen then to attack the funerals, in preparation for a war against all levels of American government. ](/news/2010/03/29/nine-members-of-the-hutaree-militia-are-arrested-in-the-united-states-on-allegations-of-a-plot-to-kill-policemen-then-to-attack-the-funerals.md)
-_Context: militia, United States, Hutaree_
+_Context: United States, militia, Hutaree_
 
-##### patent
+##### Patent
 ### [A patent on two human genes is struck down by a judge in U.S. District Court in Manhattan. ](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a-judge-in-u-s-district-court-in-manhattan.md)
 In a ruling with potentially far-reaching implications for the patenting of human genes, a judge struck down a company’s patents on two genes linked to an increased risk of breast and ovarian cancer.
 

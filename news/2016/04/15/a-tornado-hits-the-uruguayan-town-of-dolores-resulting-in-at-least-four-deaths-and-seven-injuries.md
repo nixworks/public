@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/15/a-tornado-hits-the-uruguayan-town-of-dolores-re
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
-##### tornado
+##### Tornado
 # A tornado hits the Uruguayan town of Dolores resulting in at least four deaths and seven injuries. 
 
 

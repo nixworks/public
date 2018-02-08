@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/1/a-car-bomb-attack-in-the-nigerian-capital-abuja-
 
 ### [2014-05-1](/news/2014/05/1/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb attack in the Nigerian capital Abuja kills at least nine people. 
 
 A car bomb attack in the Nigerian capital Abuja, the second in recent weeks, kills at least 19 people and injures dozens more.

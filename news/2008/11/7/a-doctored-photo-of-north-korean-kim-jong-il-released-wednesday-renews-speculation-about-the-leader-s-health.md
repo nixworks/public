@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/7/a-doctored-photo-of-north-korean-kim-jong-il-rel
 
 ### [2008-11-7](/news/2008/11/7/index.md)
 
-##### altering
+##### Altering
 #  A doctored photo of North Korean Kim Jong-il, released Wednesday, renews speculation about the leader's health. 
 
 

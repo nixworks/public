@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/5/at-least-11-people-died-after-a-plane-crash-in-t
 
 ### [2010-07-5](/news/2010/07/5/index.md)
 
-##### plane crash
+##### Plane crash
 # At least 11 people died after a plane crash in Tuzla, Romania. 
 
 

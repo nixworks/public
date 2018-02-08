@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/18/2011-libyan-civil-war-rebels-claim-victory-in-t
 
 ### [2011-07-18](/news/2011/07/18/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war:Rebels claim victory in the eastern town of Brega. 
 
 Reports from the Syrian city of Hama say 50 protesters have been released and government offices have reopened after weeks of unrest.

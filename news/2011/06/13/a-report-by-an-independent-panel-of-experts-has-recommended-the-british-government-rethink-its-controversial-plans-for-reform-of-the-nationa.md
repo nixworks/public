@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/13/a-report-by-an-independent-panel-of-experts-has
 
 ### [2011-06-13](/news/2011/06/13/index.md)
 
-##### the coalition
+##### The coalition
 # A report by an independent panel of experts has recommended the British government rethink its controversial plans for reform of the National Health Service in England. 
 
 The NHS plans for England need a major re-write to ensure the best interests of patients are protected, an independent review says.

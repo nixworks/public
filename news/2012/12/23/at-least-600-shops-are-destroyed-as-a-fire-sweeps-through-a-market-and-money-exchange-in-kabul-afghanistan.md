@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-swee
 
 ### [2012-12-23](/news/2012/12/23/index.md)
 
-##### fire
+##### Fire
 # At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. 
 
 

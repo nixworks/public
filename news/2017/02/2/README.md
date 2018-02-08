@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/2/index.html)  [JSON](2017/02/2/index.json)  [XML](2017/
 
 ##### Georgia-European Union relations
 ### [The European Parliament unanimously approves visa-free regime in the Schengen zone for Georgia. ](/news/2017/02/2/the-european-parliament-unanimously-approves-visa-free-regime-in-the-schengen-zone-for-georgia.md)
-_Context: Schengen zone, Georgia-European Union relations,  Georgian, European Parliament_
+_Context: European Parliament,  Georgian, Schengen zone, Georgia-European Union relations_
 
 ##### Russia-United States relations
 ### [The United States Department of the Treasury eases some sanctions on the Federal Security Service (FSB), allowing for limited transactions with the intelligence agency. The sanctions were put in place last year by Barack Obama over alleged Russian interference in the 2016 U.S. election. ](/news/2017/02/2/the-united-states-department-of-the-treasury-eases-some-sanctions-on-the-federal-security-service-fsb-allowing-for-limited-transactions-w.md)
@@ -23,9 +23,9 @@ A carefully worded statement from White House Press Secretary Sean Spicer on Thu
 ### [Former HBOS manager Lynden Scourfield and other bankers and consultants are found guilty of corruption and abuse of power in stealing GBP245 million from the bank and small businesses in a loans scam, which was spent on personal luxuries. Scourfield was sentenced to 11 years in prison. ](/news/2017/02/2/former-hbos-manager-lynden-scourfield-and-other-bankers-and-consultants-are-found-guilty-of-corruption-and-abuse-of-power-in-stealing-agbp24.md)
 Fraud bankers and consultants indulged in sex parties and luxury holidays as their victims lost homes and businesses
 
-##### lasting peace
+##### Lasting peace
 ### [The National Liberation Army releases former congressman Odin Sanchez, who had been held hostage by the rebel group since April 2016, paving the way for peace talks to begin between the rebels and the Colombian government next week in Ecuador. ](/news/2017/02/2/the-national-liberation-army-releases-former-congressman-odin-sanchez-who-had-been-held-hostage-by-the-rebel-group-since-april-2016-paving.md)
-_Context: lasting peace, Ecuador, ELN, government_
+_Context: ELN, lasting peace, government, Ecuador_
 
 ## [Previous Day...](/news/2017/02/1/index.md)
 

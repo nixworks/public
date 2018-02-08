@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/24/the-11th-century-minaret-of-the-umayyad-great-m
 
 ### [2013-04-24](/news/2013/04/24/index.md)
 
-##### minaret
+##### Minaret
 # The 11th-century minaret of the Umayyad Great Mosque at the World Heritage Site of Aleppo is destroyed. Both warring parties blame each other. 
 
 

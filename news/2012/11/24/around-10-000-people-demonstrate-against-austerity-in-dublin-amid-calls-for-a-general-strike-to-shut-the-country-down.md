@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/24/around-10-000-people-demonstrate-against-auster
 
 ### [2012-11-24](/news/2012/11/24/index.md)
 
-##### austerity
+##### Austerity
 # Around 10,000 people demonstrate against austerity in Dublin amid calls for a general strike to shut the country down. 
 
 About 10,000 people attended an anti-austerity protest in Dublin on Saturday, according to Irish police.

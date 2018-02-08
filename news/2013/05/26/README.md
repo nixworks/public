@@ -9,11 +9,11 @@ Rockets have slammed into two southern Beirut neighbourhoods that are stronghold
 
 ##### Somalia
 ### [Six people are killed in an attack by Somali militants in police posts over the Kenyan border. ](/news/2013/05/26/six-people-are-killed-in-an-attack-by-somali-militants-in-police-posts-over-the-kenyan-border.md)
-_Context: Somalia, Kenya_
+_Context: Kenya, Somalia_
 
 ##### Blue Is the Warmest Colour
 ### [The French film "Blue Is the Warmest Colour" wins the Palme d'Or at the 2013 Cannes Film Festival. ](/news/2013/05/26/the-french-film-blue-is-the-warmest-colour-wins-the-palme-d-or-at-the-2013-cannes-film-festival.md)
-_Context: Palme d'Or, Blue Is the Warmest Colour, 2013 Cannes Film Festival_
+_Context: Blue Is the Warmest Colour, Palme d'Or, 2013 Cannes Film Festival_
 
 ##### Fast & Furious 6
 ### ["Fast & Furious 6" opens at the top of the movie sales charts in 59 countries, including the United States and Canada where it grossed an estimated $122 million. ](/news/2013/05/26/fast-furious-6-opens-at-the-top-of-the-movie-sales-charts-in-59-countries-including-the-united-states-and-canada-where-it-grossed-an-es.md)
@@ -23,11 +23,11 @@ _Context: Palme d'Or, Blue Is the Warmest Colour, 2013 Cannes Film Festival_
 ### [The Governor of the Bank of Japan says that although interest-rate increases will cause some stress to Japanese financial institutions, they have "sufficient resilience against such shocks." ](/news/2013/05/26/the-governor-of-the-bank-of-japan-says-that-although-interest-rate-increases-will-cause-some-stress-to-japanese-financial-institutions-they.md)
 _Context: Bank of Japan_
 
-##### electric automobile
+##### Electric automobile
 ### [Electric car company Better Place announces it will file for bankruptcy. ](/news/2013/05/26/electric-car-company-better-place-announces-it-will-file-for-bankruptcy.md)
 Electric car company BetterPlace said on Sunday it had filed a motion in an Israeli courtto wind up the company, bringing an end to a venture whosebattery charging network had aimed to boost electric car sales.
 
-##### party bus
+##### Party bus
 ### [At least one person is killed, and ten people are injured after a party bus collides with a passenger car near Burlingame, California, United States. ](/news/2013/05/26/at-least-one-person-is-killed-and-ten-people-are-injured-after-a-party-bus-collides-with-a-passenger-car-near-burlingame-california-unite.md)
 Party bus collides with a crashed car on Highway 101 in Burlingame
 
@@ -35,7 +35,7 @@ Party bus collides with a crashed car on Highway 101 in Burlingame
 ### [Whiteface Mountain in the U.S. state of New York experiences three feet (91 cm) of snow. ](/news/2013/05/26/whiteface-mountain-in-the-u-s-state-of-new-york-experiences-three-feet-91-cm-of-snow.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
-##### attempted murder
+##### Attempted murder
 ### [A 17-year-old American boy, Grant Acord, is arrested and charged with attempted aggravated murder for planning to blow up his school, West Albany High School, in Albany, Oregon. Six explosives were found in his bedroom. ](/news/2013/05/26/a-17-year-old-american-boy-grant-acord-is-arrested-and-charged-with-attempted-aggravated-murder-for-planning-to-blow-up-his-school-west-a.md)
 A US teenager who intended to blow up his school will be charged with attempted aggravated murder after six bombs were found in his bedroom.
 
@@ -43,7 +43,7 @@ A US teenager who intended to blow up his school will be charged with attempted 
 ### [British counter-terrorism officers arrest another man in connection with the 2013 Woolwich attack. ](/news/2013/05/26/british-counter-terrorism-officers-arrest-another-man-in-connection-with-the-2013-woolwich-attack.md)
 Counter-terrorism officers have arrested another man in connection with the hacking death of a British soldier on the streets of London.
 
-##### gay marriage
+##### Gay marriage
 ### [An estimated 150,000 people rally against gay marriage in Paris, France, with 100 people arrested. ](/news/2013/05/26/an-estimated-150-000-people-rally-against-gay-marriage-in-paris-france-with-100-people-arrested.md)
 Police are forced to use tear gas to subdue demonstrations on the streets of Paris against same-sex marriage.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/27/at-least-one-person-is-killed-and-eight-wounded
 
 ### [2009-01-27](/news/2009/01/27/index.md)
 
-##### fire
+##### Fire
 #  At least one person is killed and eight wounded by Israeli attacks on the Gaza Strip. 
 
 Incidents mark first day of violence since Gaza ceasfires were declared.

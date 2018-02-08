@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/24/the-chinese-government-formally-arrests-disside
 
 ### [2009-06-24](/news/2009/06/24/index.md)
 
-##### government
+##### Government
 #  The Chinese government formally arrests dissident Liu Xiaobo on charges of state subversion. 
 
 

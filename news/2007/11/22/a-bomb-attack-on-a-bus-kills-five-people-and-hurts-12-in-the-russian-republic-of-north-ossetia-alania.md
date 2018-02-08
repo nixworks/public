@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hu
 
 ### [2007-11-22](/news/2007/11/22/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb attack on a bus kills five people and hurts 12 in the Russian republic of North Ossetia-Alania. 
 
 

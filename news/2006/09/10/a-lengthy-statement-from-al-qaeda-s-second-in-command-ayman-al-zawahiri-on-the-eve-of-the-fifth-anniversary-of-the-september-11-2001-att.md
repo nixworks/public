@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/10/a-lengthy-statement-from-al-qaeda-s-second-in-c
 
 ### [2006-09-10](/news/2006/09/10/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  A lengthy statement from al-Qaeda's second in command, Ayman al-Zawahiri, on the eve of the fifth anniversary of the September 11, 2001 attacks calls on Muslims to step up their resistance against the United States. 
 
 

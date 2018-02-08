@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/16/2012a2013-cypriot-financial-crisis-a-deal-is-re
 
 ### [2013-03-16](/news/2013/03/16/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: A deal is reached between Cyprus and the EC-ECB-IMF troika. The terms of the EUR10 billion "bailout" package cause widespread anger among Cypriots who queue from early morning to withdraw their savings as it emerges that up to 10% of each citizen's deposits are to be wiped out to raise billions. 
 
 Eurozone finance ministers agree a 10bn-euro (£8.7bn) bailout package for Cyprus to save it from bankruptcy - bank savers will have to contribute.

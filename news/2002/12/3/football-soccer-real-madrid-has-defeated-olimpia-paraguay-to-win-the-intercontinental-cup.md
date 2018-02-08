@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/12/3/football-soccer-real-madrid-has-defeated-olimpia
 
 ### [2002-12-3](/news/2002/12/3/index.md)
 
-##### footballer
+##### Footballer
 # Football (soccer): Real Madrid has defeated Olimpia Paraguay to win the Intercontinental Cup.
 
 

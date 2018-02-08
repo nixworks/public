@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/7/convicted-terrorist-real-ira-leader-michael-mcke
 
 ### [2003-08-7](/news/2003/08/7/index.md)
 
-##### terrorism
+##### Terrorism
 #  Convicted terrorist, Real IRA leader Michael McKevitt, found guilty yesterday by the Republic of Ireland's Special Criminal Court of "membership of an illegal organisation" and "directing terrorism", is sentenced to twenty years in prison.
 
 

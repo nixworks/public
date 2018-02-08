@@ -33,7 +33,7 @@ _Context: Mauritian Prime Minister, Pravind Jugnauth, Anerood Jugnauth_
 
 ##### India
 ### [The Indian state government of Tamil Nadu lifts its ban on the sport of Jallikattu, following five days of protests by demonstrators against the ban. ](/news/2017/01/22/the-indian-state-government-of-tamil-nadu-lifts-its-ban-on-the-sport-of-jallikattu-following-five-days-of-protests-by-demonstrators-against.md)
-_Context: India, Jallikattu, Tamil Nadu_
+_Context: Tamil Nadu, India, Jallikattu_
 
 ## [Previous Day...](/news/2017/01/21/index.md)
 

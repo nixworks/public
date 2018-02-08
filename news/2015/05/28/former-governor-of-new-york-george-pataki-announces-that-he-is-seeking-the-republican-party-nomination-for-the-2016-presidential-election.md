@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/28/former-governor-of-new-york-george-pataki-annou
 
 ### [2015-05-28](/news/2015/05/28/index.md)
 
-##### presidential primaries
+##### Presidential primaries
 # Former Governor of New York, George Pataki, announces that he is seeking the Republican Party nomination for the 2016 presidential election. 
 
 

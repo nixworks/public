@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/6/following-a-recount-republican-eddie-calvo-is-ce
 
 ### [2010-11-6](/news/2010/11/6/index.md)
 
-##### recount
+##### Recount
 # Following a recount, Republican Eddie Calvo is certified as the winner of the 2010 gubernatorial election in Guam by 487 votes over Democrat Carl Gutierrez. 
 
 Guam - The Guam Election Commission voted unanimous to certify the Gubernatorial results Saturday evening after an all day re-count that saw problems with the tabulation machines and stray ballots. ...

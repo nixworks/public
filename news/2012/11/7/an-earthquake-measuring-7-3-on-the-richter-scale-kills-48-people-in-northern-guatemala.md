@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/7/an-earthquake-measuring-7-3-on-the-richter-scale
 
 ### [2012-11-7](/news/2012/11/7/index.md)
 
-##### earthquake measuring 7.3
+##### Earthquake measuring 7.3
 # An earthquake measuring 7.3 on the Richter scale kills 48 people in northern Guatemala. 
 
 

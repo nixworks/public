@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/21/a-major-snowstorm-occurs-in-the-midwestern-unit
 
 ### [2013-02-21](/news/2013/02/21/index.md)
 
-##### snowstorm
+##### Snowstorm
 # A major snowstorm occurs in the Midwestern United States leading to two deaths so far. 
 
 A major winter storm in the US Midwest that is already blamed for two deaths blankets several states in up to 17in (43cm) of snow.

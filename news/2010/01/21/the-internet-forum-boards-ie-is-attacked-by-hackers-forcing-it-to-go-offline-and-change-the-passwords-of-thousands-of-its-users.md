@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/21/the-internet-forum-boards-ie-is-attacked-by-hac
 
 ### [2010-01-21](/news/2010/01/21/index.md)
 
-##### boards.ie
+##### Boards.ie
 # The internet forum boards.ie is attacked by hackers, forcing it to go offline and change the passwords of thousands of its users. 
 
 Popular Irish internet forum Boards.ie has reported an attack on its user database which could affect thousands of users.

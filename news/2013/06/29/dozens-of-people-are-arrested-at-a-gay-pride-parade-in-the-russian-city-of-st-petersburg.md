@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/29/dozens-of-people-are-arrested-at-a-gay-pride-pa
 
 ### [2013-06-29](/news/2013/06/29/index.md)
 
-##### gay pride
+##### Gay pride
 # Dozens of people are arrested at a gay pride parade in the Russian city of St. Petersburg. 
 
 

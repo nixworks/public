@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/22/four-people-are-killed-and-thirty-injured-in-gr
 
 ### [2015-06-22](/news/2015/06/22/index.md)
 
-##### grenade
+##### Grenade
 # Four people are killed and thirty injured in grenade attacks in Burundi. 
 
 Four people are killed and 30 wounded in a wave of grenade attacks overnight in Burundi, police say, a week before parliamentary elections.

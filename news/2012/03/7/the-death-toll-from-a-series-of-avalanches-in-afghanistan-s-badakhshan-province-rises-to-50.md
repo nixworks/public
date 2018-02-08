@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/7/the-death-toll-from-a-series-of-avalanches-in-af
 
 ### [2012-03-7](/news/2012/03/7/index.md)
 
-##### series of avalanches
+##### Series of avalanches
 # The death toll from a series of avalanches in Afghanistan's Badakhshan province rises to 50. 
 
 

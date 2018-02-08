@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/30/a-plastic-toy-gun-used-as-part-of-a-halloween-c
 
 ### [2003-10-30](/news/2003/10/30/index.md)
 
-##### toy gun
+##### Toy gun
 #  A plastic toy gun, used as part of a Halloween costume, sparks a two-hour-long terrorism scare at the Capitol in Washington, D.C.
 
 

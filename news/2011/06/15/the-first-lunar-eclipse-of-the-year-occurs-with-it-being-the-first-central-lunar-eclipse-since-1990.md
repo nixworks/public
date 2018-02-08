@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/15/the-first-lunar-eclipse-of-the-year-occurs-with
 
 ### [2011-06-15](/news/2011/06/15/index.md)
 
-##### first
+##### First
 # The first lunar eclipse of the year occurs with it being the first central lunar eclipse since 1990. 
 
 

@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/13/index.html)  [JSON](2013/08/13/index.json)  [XML](201
 
 ##### Amazon rainforest
 ### [Footage of the isolated and previously unseen Kawahiva tribe is recorded for the first time in the Amazon rainforest, in Brazil. ](/news/2013/08/13/footage-of-the-isolated-and-previously-unseen-kawahiva-tribe-is-recorded-for-the-first-time-in-the-amazon-rainforest-in-brazil.md)
-_Context: Amazon rainforest, Brazil_
+_Context: Brazil, Amazon rainforest_
 
 ##### Frank DeAngelis
 ### [Frank DeAngelis, the longtime Columbine High School principal who led the school through the April 1999 Columbine High School massacre announces he will retire at the end of the 2013-14 school year. ](/news/2013/08/13/frank-deangelis-the-longtime-columbine-high-school-principal-who-led-the-school-through-the-april-1999-columbine-high-school-massacre-annou.md)
@@ -21,7 +21,7 @@ _Context: Jesse Jackson Jr., House of Representatives, Sandi Jackson_
 
 ##### Department of Justice
 ### [The United States Department of Justice and six states file an antitrust lawsuit to block the proposed merger of American Airlines and US Airways. ](/news/2013/08/13/the-united-states-department-of-justice-and-six-states-file-an-antitrust-lawsuit-to-block-the-proposed-merger-of-american-airlines-and-us-ai.md)
-_Context: reduced competition and higher prices, US Airways, Department of Justice, American Airlines_
+_Context: Department of Justice, reduced competition and higher prices, American Airlines, US Airways_
 
 ##### Peace talks
 ### [Israeli-Palestinian peace talks start amid controversy over Israeli settlement expansion and the release of 26 Palestinians convicted of murdering Israelis. ](/news/2013/08/13/israeliapalestinian-peace-talks-start-amid-controversy-over-israeli-settlement-expansion-and-the-release-of-26-palestinians-convicted-of-m.md)

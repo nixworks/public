@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/12/28/u-s-department-store-chain-montgomery-ward-anno
 
 ### [2000-12-28](/news/2000/12/28/index.md)
 
-##### department store
+##### Department store
 #  U.S. department store chain Montgomery Ward announces it is going out of business 128 years after it was founded as the world's first mail order business.
 
 

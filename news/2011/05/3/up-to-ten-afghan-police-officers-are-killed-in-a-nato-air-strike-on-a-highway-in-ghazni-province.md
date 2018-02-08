@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/3/up-to-ten-afghan-police-officers-are-killed-in-a
 
 ### [2011-05-3](/news/2011/05/3/index.md)
 
-##### police
+##### Police
 # Up to ten Afghan police officers are killed in a NATO air strike on a highway in Ghazni Province. 
 
 

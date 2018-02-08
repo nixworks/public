@@ -17,9 +17,9 @@ _Context: Mindanao_
 ### [Indonesian Mount Sinabung erupts killing 14 people. ](/news/2014/02/1/indonesian-mount-sinabung-erupts-killing-14-people.md)
 At least 14 people were killed, while three others were severelyinjured when Mount Sinabung in Karo regency, North Sumatra, spewed ash again on Saturday
 
-##### endangered species
+##### Endangered species
 ### [Hundreds of endangered species from Madagascar are found in a South African airport. ](/news/2014/02/1/hundreds-of-endangered-species-from-madagascar-are-found-in-a-south-african-airport.md)
-_Context: endangered species, Madagascar, South Africa_
+_Context: Madagascar, South Africa, endangered species_
 
 ##### Chris Christie
 ### [A former aide of Chris Christie accuses the governor of having knowledge of the event. ](/news/2014/02/1/a-former-aide-of-chris-christie-accuses-the-governor-of-having-knowledge-of-the-event.md)

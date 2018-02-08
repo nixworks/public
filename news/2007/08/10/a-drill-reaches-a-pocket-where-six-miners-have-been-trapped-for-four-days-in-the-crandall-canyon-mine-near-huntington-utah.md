@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/10/a-drill-reaches-a-pocket-where-six-miners-have-
 
 ### [2007-08-10](/news/2007/08/10/index.md)
 
-##### miner
+##### Miner
 #  A drill reaches a pocket where six miners have been trapped for four days in the Crandall Canyon mine near Huntington, Utah. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/27/a-constitutional-referendum-in-kyrgyzstan-is-cr
 
 ### [2010-06-27](/news/2010/06/27/index.md)
 
-##### constitutional referendum
+##### Constitutional referendum
 # A constitutional referendum in Kyrgyzstan is criticized for fears the country would destabilize. 
 
 

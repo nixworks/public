@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/7/a-large-oil-leak-from-the-hong-kong-registered-m
 
 ### [2007-12-7](/news/2007/12/7/index.md)
 
-##### large oil leak
+##### Large oil leak
 #  A large oil leak from the Hong Kong-registered MT "Hebei Spirit" occurs off the coast of South Korea. 
 
 

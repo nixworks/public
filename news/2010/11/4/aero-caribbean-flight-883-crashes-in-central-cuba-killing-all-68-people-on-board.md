@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/aero-caribbean-flight-883-crashes-in-central-cub
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### crashes
+##### Crashes
 # Aero Caribbean Flight 883 crashes in central Cuba, killing all 68 people on board.
 
 

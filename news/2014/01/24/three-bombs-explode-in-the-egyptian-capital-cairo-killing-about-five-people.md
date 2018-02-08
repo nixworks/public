@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/24/three-bombs-explode-in-the-egyptian-capital-cai
 
 ### [2014-01-24](/news/2014/01/24/index.md)
 
-##### explode
+##### Explode
 # Three bombs explode in the Egyptian capital, Cairo, killing about five people. 
 
 Six people are killed and some 100 others wounded as militants step up attacks against the authorities with a series of explosions across Cairo.

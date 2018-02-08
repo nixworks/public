@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/30/the-sovereign-bonds-of-germany-experience-secon
 
 ### [2015-04-30](/news/2015/04/30/index.md)
 
-##### sovereign bonds
+##### Sovereign bonds
 # The sovereign bonds of Germany experience second straight day of historic sell-off, dragging other securities in much of the continent with them. 
 
 Germany’s 10-year bonds suffered their deepest two-day loss in more than three years as traders capitulated on bets the European Central Bank’s quantitative-easing plan would drive up prices on the continent’s benchmark securities.

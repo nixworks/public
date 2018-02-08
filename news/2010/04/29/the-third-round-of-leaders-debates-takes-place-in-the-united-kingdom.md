@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/29/the-third-round-of-leaders-debates-takes-place-
 
 ### [2010-04-29](/news/2010/04/29/index.md)
 
-##### leaders' debates
+##### Leaders' debates
 # The third round of leaders' debates takes place in the United Kingdom. 
 
 At their third and final debate with a week to go before the election, the leaders of the three main parties tussled on perhaps the most pressing issue facing the country.

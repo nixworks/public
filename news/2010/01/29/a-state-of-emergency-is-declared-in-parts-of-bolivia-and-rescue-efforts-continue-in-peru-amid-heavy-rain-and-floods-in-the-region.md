@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/29/a-state-of-emergency-is-declared-in-parts-of-bo
 
 ### [2010-01-29](/news/2010/01/29/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in parts of Bolivia and rescue efforts continue in Peru amid heavy rain and floods in the region. 
 
 

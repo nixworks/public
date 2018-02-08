@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/a-car-bomb-explodes-in-the-southern-iraqi-city-o
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes in the southern Iraqi city of Hilla, killing at least 21 police officers and injuring 65; in northern Iraq and in Baghdad, four people are killed in other attacks. 
 
 A suicide bomber on Thursday attacked a police training center in the predominantly Shiite city of Hilla, killing 25 policemen and wounding 75 others.

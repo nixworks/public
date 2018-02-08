@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/8/scientists-warn-of-the-dangers-of-using-liquid-n
 
 ### [2012-10-8](/news/2012/10/8/index.md)
 
-##### liquid nitrogen
+##### Liquid nitrogen
 # Scientists warn of the dangers of using liquid nitrogen in drinks after a teenage girl from the United Kingdom required emergency surgery upon consuming a cocktail containing the substance. 
 
 

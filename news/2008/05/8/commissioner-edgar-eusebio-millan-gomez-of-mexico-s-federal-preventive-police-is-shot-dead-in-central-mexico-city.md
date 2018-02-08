@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/8/commissioner-edgar-eusebio-millan-gomez-of-mexic
 
 ### [2008-05-8](/news/2008/05/8/index.md)
 
-##### dgar Eusebio Milln Gmez
+##### Dgar Eusebio Milln Gmez
 #  Commissioner dgar Eusebio Milln Gmez of Mexico's Federal Preventive Police is shot dead in central Mexico City. 
 
 

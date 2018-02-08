@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/30/more-than-one-thousand-workers-strike-at-four-d
 
 ### [2009-01-30](/news/2009/01/30/index.md)
 
-##### strike
+##### Strike
 #  More than one thousand workers strike at four different United Kingdom oil refineries. 
 
 

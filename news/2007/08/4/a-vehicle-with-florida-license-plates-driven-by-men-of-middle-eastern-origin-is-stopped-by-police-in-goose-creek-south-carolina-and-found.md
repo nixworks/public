@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/4/a-vehicle-with-florida-license-plates-driven-by-
 
 ### [2007-08-4](/news/2007/08/4/index.md)
 
-##### the state
+##### The state
 #  A vehicle with Florida license plates driven by men of Middle Eastern origin is stopped by police in Goose Creek, South Carolina, and found to be carrying explosive devices. 
 
 

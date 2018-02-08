@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/12/2013-protests-in-turkey-the-turkish-government-
 
 ### [2013-06-12](/news/2013/06/12/index.md)
 
-##### anti-government protests
+##### Anti-government protests
 # 2013 protests in Turkey: The Turkish government offers to put the development project that sparked the initial protests to a public vote. 
 
 

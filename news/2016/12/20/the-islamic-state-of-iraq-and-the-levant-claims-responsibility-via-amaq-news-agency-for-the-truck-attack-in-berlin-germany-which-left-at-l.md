@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/20/the-islamic-state-of-iraq-and-the-levant-claims
 
 ### [2016-12-20](/news/2016/12/20/index.md)
 
-##### last week's attack on a Christmas market in Berlin
+##### Last week's attack on a Christmas market in Berlin
 # The Islamic State of Iraq and the Levant claims responsibility via Amaq News Agency for the truck attack in Berlin, Germany, which left at least 12 people dead and 49 injured. 
 
 So-called Islamic State says one of its militants carried out the deadly Berlin lorry attack.

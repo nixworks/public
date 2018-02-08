@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/21/an-earthquake-of-magnitude-5-2-hits-the-central
 
 ### [2006-10-21](/news/2006/10/21/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of magnitude 5.2 hits the central Philippines. The quake struck at 10:30 p.m. with its epicenter some 35 kilometers south of Boac, Marinduque. The temblor was felt at intensity 4 in the capital Manila. 
 
 

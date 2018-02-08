@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/6/a-teething-drug-is-withdrawn-from-circulation-af
 
 ### [2009-02-6](/news/2009/02/6/index.md)
 
-##### teething
+##### Teething
 #  A teething drug is withdrawn from circulation after killing 84 Nigerian children in three months. 
 
 About 84 children have died over the past three months after taking a teething drug, Nigeria&#039;s health ministry said this morning.

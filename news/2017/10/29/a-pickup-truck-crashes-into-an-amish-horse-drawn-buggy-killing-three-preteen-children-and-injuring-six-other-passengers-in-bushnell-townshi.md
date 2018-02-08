@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/29/a-pickup-truck-crashes-into-an-amish-horse-draw
 
 ### [2017-10-29](/news/2017/10/29/index.md)
 
-##### pickup truck
+##### Pickup truck
 # A pickup truck crashes into an Amish horse-drawn buggy, killing three preteen children and injuring six other passengers in Bushnell Township, Michigan. Police say the survivors' injuries are life-threatening. 
 
 SHERIDAN, Mich. -- Three children died and six other people were seriously injured when a pickup truck hit a horse-drawn buggy near Sheridan on Sunday morning. The accident occurred at 8:34 a.m. Sunday on East Condensery Road near Townhall Road in Evergreen Township near Sheridan, which is located in south-central Montcalm County.

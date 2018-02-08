@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/24/heavy-snow-and-freezing-rain-fall-in-southweste
 
 ### [2011-01-24](/news/2011/01/24/index.md)
 
-##### freezing rain
+##### Freezing rain
 # Heavy snow and freezing rain fall in Southwestern China, causing roof collapses and damages to crops. 
 
 

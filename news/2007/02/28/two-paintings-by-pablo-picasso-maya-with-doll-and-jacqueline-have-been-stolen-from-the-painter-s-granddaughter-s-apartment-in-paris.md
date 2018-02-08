@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/28/two-paintings-by-pablo-picasso-maya-with-doll-a
 
 ### [2007-02-28](/news/2007/02/28/index.md)
 
-##### painting
+##### Painting
 #  Two paintings by Pablo Picasso, "Maya with Doll" and "Jacqueline", have been stolen from the painter's granddaughter's apartment in Paris, France. 
 
 

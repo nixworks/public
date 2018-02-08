@@ -15,17 +15,17 @@ _Context: Cuba, FARC_
 ### [The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. ](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.md)
 Kismayo, last stronghold of Islamist group al-Shabab militia, attacked in preparation for ground forces to capture town.
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. ](/news/2012/09/4/a-suicide-bombing-at-a-funeral-in-the-eastern-afghan-province-of-nangarhar-kills-at-least-25-people.md)
 A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, killing at least 25 civilians including the son of a district governor, officials say.
 
 ##### United Nations Refugee Agency
 ### [The United Nations Refugee Agency says 100,000 Syrians fled to another country during the month of August, the highest monthly number yet in the 18-month conflict. ](/news/2012/09/4/the-united-nations-refugee-agency-says-100-000-syrians-fled-to-another-country-during-the-month-of-august-the-highest-monthly-number-yet-in.md)
-_Context: United Nations Refugee Agency, Syrian refugees_
+_Context: Syrian refugees, United Nations Refugee Agency_
 
 ##### Airbus
 ### [Airbus expects a worldwide total demand for 28,200 civil aircraft by the year 2031, more than doubling today's fleet in operation. ](/news/2012/09/4/airbus-expects-a-worldwide-total-demand-for-28-200-civil-aircraft-by-the-year-2031-more-than-doubling-today-s-fleet-in-operation.md)
-_Context: civil aircraft, Airbus_
+_Context: Airbus, civil aircraft_
 
 ##### German
 ### [Cabin crew for the German airline Lufthansa go on strike causing disruption to hundreds of flights. ](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.md)
@@ -33,11 +33,11 @@ _Context: Lufthansa, German_
 
 ##### McDonald's restaurants
 ### [McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. ](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.md)
-_Context: Vaishno Devi, vegetarian, McDonald's restaurants, Amritsar_
+_Context: McDonald's restaurants, vegetarian, Vaishno Devi, Amritsar_
 
 ##### Marrakesh
 ### [A passenger bus traveling between Marrakesh and Ouarzazate crashes in a ravine in southern Morocco, killing at least 42 people and injuring up to 25 others. ](/news/2012/09/4/a-passenger-bus-traveling-between-marrakesh-and-ouarzazate-crashes-in-a-ravine-in-southern-morocco-killing-at-least-42-people-and-injuring.md)
-_Context: Morocco, Marrakesh, Ouarzazate_
+_Context: Marrakesh, Morocco, Ouarzazate_
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Clinton meets China's Foreign Minister Yang in Beijing. ](/news/2012/09/4/u-s-secretary-of-state-clinton-meets-china-s-foreign-minister-yang-in-beijing.md)
@@ -45,7 +45,7 @@ China warned the United States not to get involved in South China Sea territoria
 
 ##### 
 ### [India and China plan bilateral military exercises in 2013, the first since 2008. ](/news/2012/09/4/india-and-china-plan-bilateral-military-exercises-in-2013-the-first-since-2008.md)
-##### won
+##### Won
 ### [A South Korean court orders the government to compensate a fisherman with 2.5 billion won (EUR 1.75 million); he was falsely accused of spying for North Korea. ](/news/2012/09/4/a-south-korean-court-orders-the-government-to-compensate-a-fisherman-with-2-5-billion-won-a-1-75-million-he-was-falsely-accused-of-spyi.md)
 _Context: won, North Korea_
 
@@ -67,7 +67,7 @@ Group publishes Unique IDs of 1 million devices online, which they claim were be
 
 ##### Bahrain
 ### [A court in Bahrain upholds the sentences of Arab Spring opposition figures condemned for plotting to overthrow the Western-allied government. Eight of the twenty opponents are confirmed imprisoned for life. ](/news/2012/09/4/a-court-in-bahrain-upholds-the-sentences-of-arab-spring-opposition-figures-condemned-for-plotting-to-overthrow-the-western-allied-government.md)
-_Context: Western-allied, life in prison, Bahrain, government, Arab Spring, Bahraini uprising (2011-present)_
+_Context: Arab Spring, Bahrain, Western-allied, life in prison, government, Bahraini uprising (2011-present)_
 
 ##### Department of Justice
 ### [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md)
@@ -83,21 +83,21 @@ All the moves, the sackings, the promotions, rumours and analysis as Prime Minis
 
 ##### Reuters
 ### [Reuters calls Xi Jinping China's "next leader". Hu Chunhua reportedly misses a promotion to the Politburo Standing Committee in an expected power transition at or around the 18th Congress of the Communist Party of China. ](/news/2012/09/4/reuters-calls-xi-jinping-china-s-next-leader-hu-chunhua-reportedly-misses-a-promotion-to-the-politburo-standing-committee-in-an-expected.md)
-_Context: Hu Chunhua, expected power transition, Reuters, 18th National Congress, Communist Party of China, Xi Jinping, Politburo Standing Committee, Politburo_
+_Context: Politburo, expected power transition, Politburo Standing Committee, Communist Party of China, Reuters, Xi Jinping, Hu Chunhua, 18th National Congress_
 
 ##### Enrique Pena Nieto
 ### [President-elect Pena Nieto of Mexico names his "transition team", ahead of his cabinet and December 1st inauguration. ](/news/2012/09/4/president-elect-pea-a-nieto-of-mexico-names-his-transition-team-ahead-of-his-cabinet-and-december-1st-inauguration.md)
-_Context: Enrique Pena Nieto, Cabinet of Mexico_
+_Context: Cabinet of Mexico, Enrique Pena Nieto_
 
-##### from falling
+##### From falling
 ### [Scientists develop a "magic carpet" with optical fibers to help prevent elderly people from falling by a warning when it detects unusual footsteps. ](/news/2012/09/4/scientists-develop-a-magic-carpet-with-optical-fibers-to-help-prevent-elderly-people-from-falling-by-a-warning-when-it-detects-unusual-foo.md)
 _Context: from falling_
 
-##### three-tiered
+##### Three-tiered
 ### [Beijing and Shanghai place orders for the world's longest bus, the 101 foot, five-axle, four-steering-axle, three-tiered "AutoTram". It carries 256 passengers and costs about $10 million a piece. Due to advanced electronics, it is said to be as maneuverable and precise as a conventional bus. ](/news/2012/09/4/beijing-and-shanghai-place-orders-for-the-world-s-longest-bus-the-101-foot-five-axle-four-steering-axle-three-tiered-autotram-it-carr.md)
 _Context: three-tiered_
 
-##### new airport
+##### New airport
 ### [The opening date of the new airport serving the Berlin area is delayed again, until late October 2013. ](/news/2012/09/4/the-opening-date-of-the-new-airport-serving-the-berlin-area-is-delayed-again-until-late-october-2013.md)
 _Context: new airport_
 

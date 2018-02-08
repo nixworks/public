@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/22/at-least-13-people-have-died-in-a-clash-between
 
 ### [2010-05-22](/news/2010/05/22/index.md)
 
-##### have died in a clash
+##### Have died in a clash
 # At least 13 people have died in a clash between a Somali militia and Ethiopian forces who had crossed the border in Somaliland. 
 
 Thirteen people are killed in a border clash between Ethiopian security forces and residents in Somaliland, locals say.

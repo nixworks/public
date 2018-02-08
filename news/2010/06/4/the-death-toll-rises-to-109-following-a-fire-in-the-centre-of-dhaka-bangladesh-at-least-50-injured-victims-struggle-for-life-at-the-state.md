@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/4/the-death-toll-rises-to-109-following-a-fire-in-
 
 ### [2010-06-4](/news/2010/06/4/index.md)
 
-##### a fire
+##### A fire
 # The death toll rises to 109 following a fire in the centre of Dhaka, Bangladesh. At least 50 injured victims struggle for life at the state-run Dhaka Medical College Hospital. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/4/at-least-130-people-are-killed-in-a-car-bombing-
 
 ### [2011-10-4](/news/2011/10/4/index.md)
 
-##### car bombing
+##### Car bombing
 # At least 130 people are killed in a car bombing in the Somali capital Mogadishu. 
 
 

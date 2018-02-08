@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/11/the-election-of-a-new-secretary-general-of-the-
 
 ### [2005-04-11](/news/2005/04/11/index.md)
 
-##### election of a new secretary general
+##### Election of a new secretary general
 #  The election of a new secretary general of the Organization of American States ends in an unprecedented stalemate after five rounds of voting. 
 
 

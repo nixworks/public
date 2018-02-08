@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/14/40-people-are-killed-after-two-buses-crash-head
 
 ### [2010-01-14](/news/2010/01/14/index.md)
 
-##### two buses crash
+##### Two buses crash
 # 40 people are killed after two buses crash head-on in one of Papua New Guinea's worst ever road accidents. 
 
 

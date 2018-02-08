@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/19/a-suicide-bomber-kills-seven-people-in-the-nimr
 
 ### [2007-11-19](/news/2007/11/19/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills seven people in the Nimruz Province of Afghanistan, including the son of governor Ghulam Dastageer. 
 
 

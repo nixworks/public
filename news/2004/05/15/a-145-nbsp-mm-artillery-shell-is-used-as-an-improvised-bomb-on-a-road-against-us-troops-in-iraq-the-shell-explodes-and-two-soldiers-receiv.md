@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/15/a-145-nbsp-mm-artillery-shell-is-used-as-an-imp
 
 ### [2004-05-15](/news/2004/05/15/index.md)
 
-##### artillery
+##### Artillery
 #  A 145&nbsp;mm artillery shell is used as an improvised bomb on a road against US troops in Iraq. The shell explodes and two soldiers receive mild exposure to a nerve agent. 
 
 Recent discoveries of sarin nerve gas and mustard gas in Iraq renew questions about what dangerous weapons Saddam Hussein had in Iraq.

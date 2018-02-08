@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/8/in-a-guantanamo-bay-naval-base-military-commissi
 
 ### [2008-12-8](/news/2008/12/8/index.md)
 
-##### military base at Guantanamo Bay
+##### Military base at Guantanamo Bay
 #  In a Guantanamo Bay Naval Base military commission, Khalid Sheikh Mohammed and four co-defendants announce their intentions to plead guilty to charges relating to the September 11, 2001, attacks. 
 
 

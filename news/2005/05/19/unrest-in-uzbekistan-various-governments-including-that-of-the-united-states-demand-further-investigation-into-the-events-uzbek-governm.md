@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/19/unrest-in-uzbekistan-various-governments-includ
 
 ### [2005-05-19](/news/2005/05/19/index.md)
 
-##### unrest
+##### Unrest
 #  Unrest in Uzbekistan: Various governments, including that of the United States, demand further investigation into the events. Uzbek government troops report that they have retaken the town of Qorasuv. President Islom Karimov rejects calls for international inquiry. Oppositions group fear that state will begin active oppression against them 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/11/pop-singer-george-michael-announces-that-he-wil
 
 ### [2004-03-11](/news/2004/03/11/index.md)
 
-##### pop
+##### Pop
 #  Pop singer George Michael announces that he will stop selling his music. Instead, he plans to distribute it freely over the Internet and pass on any donations to charity. 
 
 

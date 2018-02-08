@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/09/10/large-deposits-of-methane-hydrate-are-found-off
 
 ### [2002-09-10](/news/2002/09/10/index.md)
 
-##### methane hydrate
+##### Methane hydrate
 #  Large deposits of methane hydrate are found off the west coast of Vancouver Island.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/4/storms-kill-seven-with-local-states-of-emergency
 
 ### [2012-01-4](/news/2012/01/4/index.md)
 
-##### southeast Brazilian
+##### Southeast Brazilian
 # Storms kill seven, with local states of emergency declared in Southeast Region, Brazil. 
 
 Two more people died and one was missing Monday following flooding in the southeastern Brazilian state of Minas Gerais that brought the total death toll to four.

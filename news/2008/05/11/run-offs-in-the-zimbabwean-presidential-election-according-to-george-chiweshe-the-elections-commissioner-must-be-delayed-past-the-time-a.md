@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/11/run-offs-in-the-zimbabwean-presidential-electio
 
 ### [2008-05-11](/news/2008/05/11/index.md)
 
-##### run-off presidential election
+##### Run-off presidential election
 #  Run-offs in the Zimbabwean presidential election, according to George Chiweshe, the elections commissioner, must be delayed past the time allotted by law, up to a year, until funding can be found. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/1/mass-graves-are-discovered-in-cote-d-ivoire-amid
 
 ### [2011-01-1](/news/2011/01/1/index.md)
 
-##### mass grave
+##### Mass grave
 # Mass graves are discovered in Cte d'Ivoire amid other political violence as United Nations peacekeepers come under increased tension in the country when allies of Alassane Ouattara call for a forceful removal of Laurent Gbagbo. 
 
 Ivory Coast yesterday faced the threat of open conflict after a New Year’s midnight deadline set by Alassane Ouattara for his rival Laurent Gbagbo to quit passed unheeded.

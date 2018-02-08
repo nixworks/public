@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/26/all-four-on-board-are-killed-when-a-medical-ser
 
 ### [2016-03-26](/news/2016/03/26/index.md)
 
-##### air ambulance
+##### Air ambulance
 # All four on board are killed when a medical services helicopter, transporting a patient from a car accident, crashes in a wooded area in Coffee County, Alabama. The helicopter pilot, a nurse, a medic, and the patient were killed. 
 
 Four people, including a patient who was being airlifted from the scene of a car accident, were killed on Saturday when a medical services helicopter crashed in Alabama, authorities said.

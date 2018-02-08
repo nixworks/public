@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/29/british-police-defuse-a-bomb-in-central-london-
 
 ### [2007-06-29](/news/2007/06/29/index.md)
 
-##### defuse a bomb
+##### Defuse a bomb
 #  British police defuse a bomb in Central London; a second bomb is found hours later. 
 
 

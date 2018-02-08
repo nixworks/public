@@ -9,17 +9,17 @@ _Context: protests, Critical Mass_
 
 ##### Interbrew
 ### [ Interbrew completes its merger with Ambev. Both were among the top five largest breweries in the world, and together they will become the largest, when measured by volume. The merged company will be called InBev ](/news/2004/08/27/interbrew-completes-its-merger-with-ambev-both-were-among-the-top-five-largest-breweries-in-the-world-and-together-they-will-become-the-l.md)
-_Context: InBev, Ambev, Interbrew_
+_Context: Ambev, InBev, Interbrew_
 
 ##### Federal Security Service
 ### [ The Russian Federal Security Service announces that traces of the explosive hexogen have been found in the wreckage of the two Russia airliners which crashed on August 24, 2004. The Islamic group "the Islambouli Brigades" claims responsibility. ](/news/2004/08/27/the-russian-federal-security-service-announces-that-traces-of-the-explosive-hexogen-have-been-found-in-the-wreckage-of-the-two-russia-airli.md)
-_Context: Islamic, hexogen, Federal Security Service, airliner, explosive_
+_Context: explosive, airliner, Islamic, Federal Security Service, hexogen_
 
 ##### Enzo Baldoni
 ### [ Enzo Baldoni, an Italian journalist kidnapped by Islamic militants in Iraq, is killed by his kidnappers. ](/news/2004/08/27/enzo-baldoni-an-italian-journalist-kidnapped-by-islamic-militants-in-iraq-is-killed-by-his-kidnappers.md)
-_Context: Enzo Baldoni, kidnap, Iraq, Islamic militants_
+_Context: Iraq, kidnap, Islamic militants, Enzo Baldoni_
 
-##### anti-Semitic
+##### Anti-Semitic
 ### [ The Interior Minister of France announces that the number of anti-Semitic attacks in France this year is more than double that of the same period last year. ](/news/2004/08/27/the-interior-minister-of-france-announces-that-the-number-of-anti-semitic-attacks-in-france-this-year-is-more-than-double-that-of-the-same.md)
 _Context: anti-Semitic_
 

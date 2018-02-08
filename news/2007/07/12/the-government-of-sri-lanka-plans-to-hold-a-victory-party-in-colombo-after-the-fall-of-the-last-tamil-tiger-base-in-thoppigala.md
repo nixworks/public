@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/12/the-government-of-sri-lanka-plans-to-hold-a-vic
 
 ### [2007-07-12](/news/2007/07/12/index.md)
 
-##### government of Sri Lanka
+##### Government of Sri Lanka
 #  The government of Sri Lanka plans to hold a "victory party" in Colombo after the fall of the last Tamil Tiger base in Thoppigala. 
 
 

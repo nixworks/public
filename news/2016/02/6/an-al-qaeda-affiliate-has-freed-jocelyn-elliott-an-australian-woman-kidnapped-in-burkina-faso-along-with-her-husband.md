@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/6/an-al-qaeda-affiliate-has-freed-jocelyn-elliott-
 
 ### [2016-02-6](/news/2016/02/6/index.md)
 
-##### al Qaeda
+##### Al Qaeda
 # An al Qaeda affiliate has freed Jocelyn Elliott, an Australian woman kidnapped in Burkina Faso along with her husband. 
 
 An Australian woman has been freed after she and her husband were kidnapped by an Al Qaeda-affiliated group in Burkina Faso, Malcolm Turnbull confirms.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/7/a-deadly-tornado-kills-nine-and-injures-twelve-i
 
 ### [2006-11-7](/news/2006/11/7/index.md)
 
-##### tornado
+##### Tornado
 #  A deadly tornado kills nine and injures twelve in Saroma, Hokkaido, Japan. 
 
 

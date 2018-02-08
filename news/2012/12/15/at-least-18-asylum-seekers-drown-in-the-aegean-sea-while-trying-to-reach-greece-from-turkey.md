@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/15/at-least-18-asylum-seekers-drown-in-the-aegean-
 
 ### [2012-12-15](/news/2012/12/15/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # At least 18 asylum seekers drown in the Aegean Sea while trying to reach Greece from Turkey. 
 
 The immigrants were coming from Turkey, and rescuers were seeking nine other people, though there were no details about their ethnic origins.

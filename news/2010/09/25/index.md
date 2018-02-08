@@ -5,11 +5,11 @@ Formats: [HTML](2010/09/25/index.html)  [JSON](2010/09/25/index.json)  [XML](201
 
 ##### Taliban
 ### [Gun battle between security forces and Taliban fighters leave four militants including their commander dead in Wardak province 40 km west of Afghanistan capital Kabul. ](/news/2010/09/25/gun-battle-between-security-forces-and-taliban-fighters-leave-four-militants-including-their-commander-dead-in-wardak-province-40-km-west-of.md)
-_Context: Kabul, Wardak Province, Taliban_
+_Context: Taliban, Wardak Province, Kabul_
 
-##### state police
+##### State police
 ### [Two Russian police and seven militants are killed in firefights in the southern republic of Dagestan while thirty people are injured in a suicide bombing. ](/news/2010/09/25/two-russian-police-and-seven-militants-are-killed-in-firefights-in-the-southern-republic-of-dagestan-while-thirty-people-are-injured-in-a-su.md)
-_Context: suicide bombing, Dagestan, state police_
+_Context: suicide bombing, state police, Dagestan_
 
 ##### Israeli Navy
 ### [The Israeli Navy kills a Palestinian fisherman off Gaza. ](/news/2010/09/25/the-israeli-navy-kills-a-palestinian-fisherman-off-gaza.md)
@@ -17,7 +17,7 @@ _Context: Gaza Strip, Israeli Navy_
 
 ##### Israel
 ### [One of three Palestinians wounded by Israeli tank fire on 14 September dies in the Gaza Strip. ](/news/2010/09/25/one-of-three-palestinians-wounded-by-israeli-tank-fire-on-14-september-dies-in-the-gaza-strip.md)
-_Context: Gaza Strip, Israel_
+_Context: Israel, Gaza Strip_
 
 ##### Verona
 ### [Those sexually abused as children by Catholic priests in Italy gather in public for the first time in Verona to campaign for the act to be made a crime against humanity and to organise an international demonstration outside the Vatican next month. ](/news/2010/09/25/those-sexually-abused-as-children-by-catholic-priests-in-italy-gather-in-public-for-the-first-time-in-verona-to-campaign-for-the-act-to-be-m.md)
@@ -29,11 +29,11 @@ Nobel literature laureate Wole Soyinka launches a political party in Nigeria, mo
 
 ##### United Nations
 ### [The United Nations estimates on a preliminary basis that at least 2,000 tents were damaged or destroyed in the storm that struck Haiti's capital Port-au-Prince. ](/news/2010/09/25/the-united-nations-estimates-on-a-preliminary-basis-that-at-least-2-000-tents-were-damaged-or-destroyed-in-the-storm-that-struck-haiti-s-cap.md)
-_Context: United Nations, Haiti, Port-au-Prince_
+_Context: Port-au-Prince, United Nations, Haiti_
 
 ##### Schaerbeek
 ### [At least two people are killed and seventeen injured in a domestic gas explosion in the Schaerbeek area of Brussels, Belgium. ](/news/2010/09/25/at-least-two-people-are-killed-and-seventeen-injured-in-a-domestic-gas-explosion-in-the-schaerbeek-area-of-brussels-belgium.md)
-_Context: Belgium, Schaerbeek, Brussels_
+_Context: Brussels, Belgium, Schaerbeek_
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas addresses the United Nations General Assembly, where he states that Palestinians desire "a comprehensive and just" peace agreement and requests that Israel cease its policy of building settlements in the West Bank. ](/news/2010/09/25/mahmoud-abbas-addresses-the-united-nations-general-assembly-where-he-states-that-palestinians-desire-a-comprehensive-and-just-peace-agree.md)
@@ -49,7 +49,7 @@ _Context: federal court, California, United States_
 
 ##### Pakistan International Airlines
 ### [Pakistan International Airlines Flight 782 departing from Toronto, Canada, for Karachi, Pakistan, carrying 273 passengers lands at Arlanda Airport in Stockholm, Sweden, due to a bomb threat. A man is taken into custody by the Swedish National Task Force and then released. ](/news/2010/09/25/pakistan-international-airlines-flight-782-departing-from-toronto-canada-for-karachi-pakistan-carrying-273-passengers-lands-at-arlanda-a.md)
-_Context: Arlanda Airport, Karachi, Pakistan, Toronto, Pakistan International Airlines, National Task Force, Sweden, Stockholm, bomb threat, Canadian_
+_Context: Arlanda Airport, National Task Force, Toronto, Pakistan, bomb threat, Sweden, Pakistan International Airlines, Canadian, Stockholm, Karachi_
 
 ##### American targeted killing program
 ### [The U.S. government urges a judge to dismiss a lawsuit which challenges an American targeted killing program which is currently hunting an American citizen who has no charges brought against him. ](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.md)
@@ -65,7 +65,7 @@ Ed Miliband beats his brother David by a wafer thin margin to be elected leader 
 
 ##### Soyuz TMA-18
 ### [The Soyuz TMA-18 capsule carrying three members of the International Space Station lands safely in Kazakhstan. ](/news/2010/09/25/the-soyuz-tma-18-capsule-carrying-three-members-of-the-international-space-station-lands-safely-in-kazakhstan.md)
-_Context: Kazakhstan, International Space Station, Soyuz TMA-18_
+_Context: Soyuz TMA-18, International Space Station, Kazakhstan_
 
 ##### Uganda Wildlife Authority
 ### [The Uganda Wildlife Authority (UWA) states that the population of some animals in the country's national parks and game reserves has doubled since 1999. ](/news/2010/09/25/the-uganda-wildlife-authority-uwa-states-that-the-population-of-some-animals-in-the-country-s-national-parks-and-game-reserves-has-doubled.md)

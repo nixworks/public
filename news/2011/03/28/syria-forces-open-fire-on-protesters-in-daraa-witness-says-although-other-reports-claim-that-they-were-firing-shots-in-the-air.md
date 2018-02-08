@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/28/syria-forces-open-fire-on-protesters-in-daraa-w
 
 ### [2011-03-28](/news/2011/03/28/index.md)
 
-##### protestors
+##### Protestors
 # Syria forces open fire on protesters in Daraa, witness says although other reports claim that they were firing shots in the air. 
 
 Syrian forces fired into the air on Monday to disperse a pro-democracy protest in the southern flashpoint city of Deraa, where reformists want to overthrow the 41-year rule of the Assad family.

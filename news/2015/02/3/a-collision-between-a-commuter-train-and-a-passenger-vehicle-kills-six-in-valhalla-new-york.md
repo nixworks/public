@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/3/a-collision-between-a-commuter-train-and-a-passe
 
 ### [2015-02-3](/news/2015/02/3/index.md)
 
-##### collision
+##### Collision
 # A collision between a commuter train and a passenger vehicle kills six in Valhalla, New York. 
 
 Six people were confirmed dead Tuesday evening, when a Metro-North struck a car and caught fire during the evening rush in Valhalla.

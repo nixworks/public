@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/1/zimbabwe-parliamentary-elections-2005-in-zimbabw
 
 ### [2005-04-1](/news/2005/04/1/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 #  Zimbabwe parliamentary elections, 2005: In Zimbabwe, the ruling Zanu-PF gains a two-thirds majority over opposition party Movement for Democratic Change amidst claims of dis-enfranchisement and fraud. 
 
 

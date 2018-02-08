@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/22/former-world-number-1-tennis-player-justine-hen
 
 ### [2009-09-22](/news/2009/09/22/index.md)
 
-##### world number 1
+##### World number 1
 #  Former world number 1 tennis player Justine Henin announces that she is ending her year-long retirement from the sport. 
 
 Justine Henin will return to competitive tennis next year.

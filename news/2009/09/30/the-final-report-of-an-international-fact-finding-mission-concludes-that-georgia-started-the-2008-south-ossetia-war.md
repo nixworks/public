@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/30/the-final-report-of-an-international-fact-findi
 
 ### [2009-09-30](/news/2009/09/30/index.md)
 
-##### international fact-finding mission
+##### International fact-finding mission
 #  The final report of an international fact-finding mission concludes that Georgia started the 2008 South Ossetia war. 
 
 

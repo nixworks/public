@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/17/an-explosion-destroys-a-bus-in-the-khyber-pakht
 
 ### [2011-01-17](/news/2011/01/17/index.md)
 
-##### explosion
+##### Explosion
 # An explosion destroys a bus in the Khyber Pakhtunkhwa province of Pakistan, killing 18. 
 
 

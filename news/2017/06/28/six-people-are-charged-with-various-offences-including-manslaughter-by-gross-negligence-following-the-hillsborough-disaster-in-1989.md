@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/28/six-people-are-charged-with-various-offences-in
 
 ### [2017-06-28](/news/2017/06/28/index.md)
 
-##### manslaughter by gross negligence
+##### Manslaughter by gross negligence
 # Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. 
 
 Ex-Ch Supt David Duckenfield faces 95 charges of manslaughter while five others will prosecuted.

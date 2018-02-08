@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/21/index.html)  [JSON](2013/12/21/index.json)  [XML](201
 
 ## [2013-12-21](/news/2013/12/21/index.md)
 
-##### the battle for Aleppo
+##### The battle for Aleppo
 ### [Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. ](/news/2013/12/21/battle-of-aleppo-rebel-forces-capture-the-al-kindi-hospital-after-a-huge-suicide-truck-bombing-destroys-part-of-the-building.md)
 Rebels in the Syrian city of Aleppo set off a massive suicide lorry bomb to seize back a strategic ruined hospital occupied by Assad loyalists.
 
@@ -21,7 +21,7 @@ Mr. Bronfman helped the liquor company acquire other businesses and make a stake
 
 ##### Yule goat
 ### [Despite an anti-flammable liquid coating, the yearly giant Yule goat in Gavle, Sweden, is again destroyed in an arson attack. ](/news/2013/12/21/despite-an-anti-flammable-liquid-coating-the-yearly-giant-yule-goat-in-ga-vle-sweden-is-again-destroyed-in-an-arson-attack.md)
-_Context: Yule goat, Sweden, Gavle_
+_Context: Yule goat, Gavle, Sweden_
 
 ##### NASA
 ### [Two NASA astronauts at the International Space Station begin a series of spacewalks to replace a faulty ammonia coolant pump. ](/news/2013/12/21/two-nasa-astronauts-at-the-international-space-station-begin-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.md)

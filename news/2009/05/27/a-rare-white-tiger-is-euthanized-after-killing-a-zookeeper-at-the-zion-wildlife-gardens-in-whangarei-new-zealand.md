@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/27/a-rare-white-tiger-is-euthanized-after-killing-
 
 ### [2009-05-27](/news/2009/05/27/index.md)
 
-##### white tiger
+##### White tiger
 #  A rare white tiger is euthanized after killing a zookeeper at the Zion Wildlife Gardens in Whangarei, New Zealand. 
 
 

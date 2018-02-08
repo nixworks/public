@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/8/british-serial-killer-robert-black-is-sentenced-
 
 ### [2011-12-8](/news/2011/12/8/index.md)
 
-##### serial killer
+##### Serial killer
 # British serial killer Robert Black is sentenced to a minimum of 25 years imprisonment for the 1981 murder of Northern Ireland schoolgirl Jennifer Cardy. 
 
 The brother of Jennifer Cardy says the family would have forgiven Robert Black if he had asked

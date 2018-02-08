@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/9/secret-documents-are-released-showing-churches-a
 
 ### [2010-11-9](/news/2010/11/9/index.md)
 
-##### churches
+##### Churches
 # Secret documents are released showing churches and civilians upon the enemies list of Indonesian special forces Kopassus. The U.S. government had just removed a twelve-year funding ban on the group this summer.
 
 

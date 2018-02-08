@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/30/russian-scientists-discover-a-perfectly-preserv
 
 ### [2013-05-30](/news/2013/05/30/index.md)
 
-##### woolly mammoth
+##### Woolly mammoth
 # Russian scientists discover a "perfectly preserved" woolly mammoth carcass containing liquid blood. 
 
 

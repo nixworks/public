@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/29/at-least-three-people-die-in-an-explosion-in-a-
 
 ### [2011-10-29](/news/2011/10/29/index.md)
 
-##### grain elevator
+##### Grain elevator
 # At least three people die in an explosion in a grain elevator in the US town of Atchison, Kansas. 
 
 

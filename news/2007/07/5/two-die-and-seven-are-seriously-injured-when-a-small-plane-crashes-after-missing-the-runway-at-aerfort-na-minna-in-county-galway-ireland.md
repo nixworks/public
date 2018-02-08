@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/5/two-die-and-seven-are-seriously-injured-when-a-s
 
 ### [2007-07-5](/news/2007/07/5/index.md)
 
-##### plane crash
+##### Plane crash
 #  Two die and seven are seriously injured when a small plane crashes after missing the runway at Aerfort na Minna, in County Galway, Ireland. 
 
 Two people have been killed and seven others injured following a plane crash in Indreabhán in Connemara, Galway.

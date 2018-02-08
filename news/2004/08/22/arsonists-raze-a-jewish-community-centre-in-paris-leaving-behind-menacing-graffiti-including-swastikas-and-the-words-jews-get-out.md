@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/22/arsonists-raze-a-jewish-community-centre-in-par
 
 ### [2004-08-22](/news/2004/08/22/index.md)
 
-##### deliberately started
+##### Deliberately started
 #  Arsonists raze a Jewish community centre in Paris, leaving behind menacing graffiti including swastikas and the words "Jews get out." 
 
 

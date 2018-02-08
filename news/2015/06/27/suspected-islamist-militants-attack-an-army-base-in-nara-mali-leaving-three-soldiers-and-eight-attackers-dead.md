@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/27/suspected-islamist-militants-attack-an-army-bas
 
 ### [2015-06-27](/news/2015/06/27/index.md)
 
-##### military
+##### Military
 # Suspected Islamist militants attack an army base in Nara, Mali leaving three soldiers and eight attackers dead. 
 
 Suspected Islamist fighters have attacked a town in western Mali near the border with neighbouring Mauritania, leaving up to 11 people dead, an army nurse says.

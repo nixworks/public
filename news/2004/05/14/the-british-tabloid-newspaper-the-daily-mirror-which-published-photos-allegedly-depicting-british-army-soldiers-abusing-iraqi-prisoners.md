@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/14/the-british-tabloid-newspaper-the-daily-mirror-
 
 ### [2004-05-14](/news/2004/05/14/index.md)
 
-##### tabloid
+##### Tabloid
 #  The British tabloid newspaper "The Daily Mirror", which published photos allegedly depicting British Army soldiers abusing Iraqi prisoners, concedes that it was hoaxed, apologises, and sacks its editor Piers Morgan. 
 
 

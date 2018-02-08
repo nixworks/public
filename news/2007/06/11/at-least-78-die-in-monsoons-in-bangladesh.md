@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/11/at-least-78-die-in-monsoons-in-bangladesh.html)
 
 ### [2007-06-11](/news/2007/06/11/index.md)
 
-##### monsoon
+##### Monsoon
 #  At least 78 die in monsoons in Bangladesh. 
 
 

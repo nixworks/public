@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/21/the-fund-for-peace-and-foreign-policy-magazine-
 
 ### [2010-06-21](/news/2010/06/21/index.md)
 
-##### failed state
+##### Failed state
 # The "Fund for Peace and Foreign Policy Magazine" releases its 2010 index of so-called "failed states", ranking 177 countries by what it sees as those most at risk of failure; "Foreign Policy" claims state failure "is a chronic condition". 
 
 Annual report ranks seven African countries among top 10 most unstable in the world.

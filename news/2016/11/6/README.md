@@ -11,7 +11,7 @@ An Australian working for a non-governmental organisation in Afghanistan is repo
 ### [Suicide bombers strike in the cities of Tikrit and Samarra in Iraq, killing at least 21. ](/news/2016/11/6/suicide-bombers-strike-in-the-cities-of-tikrit-and-samarra-in-iraq-killing-at-least-21.md)
 Explosives-laden ambulances are used to kill 21 people in the Iraqi cities of Tikrit and Samarra.
 
-##### football
+##### Football
 ### [At least 11 people are killed and 16 others are injured after a gunman opens fire on football fans watching an English Premier League game near Juba, South Sudan. ](/news/2016/11/6/at-least-11-people-are-killed-and-16-others-are-injured-after-a-gunman-opens-fire-on-football-fans-watching-an-english-premier-league-game-n.md)
 A gunman fires into a crowd watching the English Premier League, killing 11 and injuring 16.
 
@@ -41,7 +41,7 @@ The prime minister says she is confident of overturning court ruling that parlia
 
 ##### Bulgarian presidential election, 2016
 ### [Voters in Bulgaria go to the polls for a presidential election, with exit polls showing no candidate receiving the majority necessary to win outright, and Rumen Radev and Tsetska Tsacheva likely to face one another in a run-off on 13 November. ](/news/2016/11/6/voters-in-bulgaria-go-to-the-polls-for-a-presidential-election-with-exit-polls-showing-no-candidate-receiving-the-majority-necessary-to-win.md)
-_Context: Bulgarian presidential election, 2016, Bulgaria, Tsetska Tsacheva, Rumen Radev_
+_Context: Bulgarian presidential election, 2016, Rumen Radev, Bulgaria, Tsetska Tsacheva_
 
 ##### Nicaraguan general election, 2016
 ### [Voters in Nicaragua go to the polls for a general election with polls suggesting that the President of Nicaragua Daniel Ortega will be elected for a third successive term. Ortega's wife Rosario Murillo is running to be the Vice President of Nicaragua.](/news/2016/11/6/voters-in-nicaragua-go-to-the-polls-for-a-general-election-with-polls-suggesting-that-the-president-of-nicaragua-daniel-ortega-will-be-elect.md)
@@ -49,9 +49,9 @@ Nicaraguan leader Daniel Ortega wins a third consecutive term, but the oppositio
 
 ##### Hong Kong
 ### [In Hong Kong, police clash with protesters after more than 10,000 locals march against the Chinese government interpretation of the Basic Law in the Legislative Council oath-taking controversy. ](/news/2016/11/6/in-hong-kong-police-clash-with-protesters-after-more-than-10-000-locals-march-against-the-chinese-government-interpretation-of-the-basic-la.md)
-_Context: oath-taking controversy, China, Basic Law, Hong Kong_
+_Context: oath-taking controversy, Basic Law, China, Hong Kong_
 
-##### email server
+##### Email server
 ### [Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. ](/news/2016/11/6/federal-bureau-of-investigation-chief-james-comey-tells-the-united-states-congress-that-he-has-found-no-evidence-of-criminality-by-hillary-c.md)
 An FBI investigation finds no evidence of criminality in the latest batch of Hillary Clinton emails.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/15/icasualties-org-estimates-that-international-se
 
 ### [2010-08-15](/news/2010/08/15/index.md)
 
-##### iCasualties.org
+##### ICasualties.org
 # iCasualties.org estimates that International Security Assistance Force casualties in the War in Afghanistan have now exceeded 2,000. 
 
 Independent icasualties.org website says 2,002 foreign troops have been killed since 2001.

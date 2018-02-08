@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-peop
 
 ### [2013-03-27](/news/2013/03/27/index.md)
 
-##### tornado
+##### Tornado
 # A mini-tornado in the Philippines kills 12 people when a motorboat capsized. 
 
 

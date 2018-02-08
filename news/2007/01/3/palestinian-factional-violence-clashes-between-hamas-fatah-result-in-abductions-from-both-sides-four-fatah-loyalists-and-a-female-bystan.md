@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/3/palestinian-factional-violence-clashes-between-h
 
 ### [2007-01-3](/news/2007/01/3/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence: Clashes between Hamas, Fatah result in abductions from both sides. Four Fatah loyalists and a female bystander are killed in gunbattles. 
 
 Clashes between Hamas, Fatah result in abductions from both sides, including nephews of top PA security officer. Four Fatah loyalists, woman killed in gunbattles

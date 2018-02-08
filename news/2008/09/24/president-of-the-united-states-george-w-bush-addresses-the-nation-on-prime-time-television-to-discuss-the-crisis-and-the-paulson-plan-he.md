@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/24/president-of-the-united-states-george-w-bush-ad
 
 ### [2008-09-24](/news/2008/09/24/index.md)
 
-##### housing crisis
+##### Housing crisis
 #  President of the United States George W. Bush addresses the nation on prime time television to discuss the crisis and the Paulson plan. He warns that the United States faces a "long and painful recession" if the package is not passed. 
 
 Barack Obama rejected John McCain’s call to halt the campaign for president during the financial crisis.

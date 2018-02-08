@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/15/a-claymore-mine-suspected-of-being-laid-by-the-
 
 ### [2006-06-15](/news/2006/06/15/index.md)
 
-##### claymore mine
+##### Claymore mine
 #  A claymore mine suspected of being laid by the Tamil Tigers kills 58 people in Sri Lanka. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitio
 
 ### [2011-09-1](/news/2011/09/1/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. 
 
 

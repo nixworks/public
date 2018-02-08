@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/29/a-15-year-old-boy-has-been-arrested-in-connecti
 
 ### [2007-08-29](/news/2007/08/29/index.md)
 
-##### murder of British schoolboy Rhys Jones
+##### Murder of British schoolboy Rhys Jones
 #  A 15-year-old boy has been arrested in connection with the murder of British schoolboy Rhys Jones. 
 
 

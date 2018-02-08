@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-offi
 
 ### [2016-08-22](/news/2016/08/22/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. 
 
 Former leader says key issue for France is ‘how to defend our lifestyle without cutting ourselves off from the world’

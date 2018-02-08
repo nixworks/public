@@ -23,7 +23,7 @@ _Context: South Pacific Ocean_
 ### [ Three people are hurt and a gunman takes his own life in a rare shooting incident in Yokohama, Japan. ](/news/2009/11/6/three-people-are-hurt-and-a-gunman-takes-his-own-life-in-a-rare-shooting-incident-in-yokohama-japan.md)
 _Context: Japan, Yokohama_
 
-##### a shooting
+##### A shooting
 ### [ One person is killed and five are injured during a shooting in an office building in Orlando, Florida, USA. ](/news/2009/11/6/one-person-is-killed-and-five-are-injured-during-a-shooting-in-an-office-building-in-orlando-florida-usa.md)
 An ex-employee of an engineering consulting firm who was laid off in 2007 opened fire at his former workplace in Orlando, Florida, on Friday, killing one person and wounding five others, police said.
 
@@ -41,21 +41,21 @@ At each stage, the camps of the ousted president and of the acting president hav
 
 ##### Luanxian
 ### [ 19 people are killed after a truck runs into a crowd in Luanxian, Hebei, China. ](/news/2009/11/6/19-people-are-killed-after-a-truck-runs-into-a-crowd-in-luanxian-hebei-china.md)
-_Context: Hebei, Luanxian, China_
+_Context: Hebei, China, Luanxian_
 
 ##### India
 ### [ Indian and Burmese armed forces target a Nagaland separatist rebel base in the northeast of Burma. ](/news/2009/11/6/indian-and-burmese-armed-forces-target-a-nagaland-separatist-rebel-base-in-the-northeast-of-burma.md)
-_Context: India, separatist rebel, Burma, Nagaland_
+_Context: Nagaland, Burma, India, separatist rebel_
 
 ##### Cte d'Ivoire
 ### [ A court in Cte d'Ivoire orders that compensation due to thousands of people affected by the dumped waste of Trafigura should not be distributed to one man. ](/news/2009/11/6/a-court-in-cote-d-ivoire-orders-that-compensation-due-to-thousands-of-people-affected-by-the-dumped-waste-of-trafigura-should-not-be-distri.md)
-_Context: the dumped waste, Cte d'Ivoire, Trafigura_
+_Context: the dumped waste, Trafigura, Cte d'Ivoire_
 
 ##### Niger
 ### [ Niger's foreign affairs ministry confirms customs officials in Nigeria are blocking Niger from goods importation. ](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.md)
 _Context: Niger, Nigeria_
 
-##### pianist
+##### Pianist
 ### [ The composer and pianist Elton John is released from his hospital bed in London after a period of illness which saw him cancel several concerts on The Red Piano Tour. ](/news/2009/11/6/the-composer-and-pianist-elton-john-is-released-from-his-hospital-bed-in-london-after-a-period-of-illness-which-saw-him-cancel-several-conc.md)
 In 1660, New France had six male settlers for every female settler. The Filles du Roi were poor women who were brought to North America to fix this imbalance and populate the colony.
 

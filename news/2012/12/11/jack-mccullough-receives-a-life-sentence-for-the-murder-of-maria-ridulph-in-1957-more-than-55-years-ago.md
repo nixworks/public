@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/11/jack-mccullough-receives-a-life-sentence-for-th
 
 ### [2012-12-11](/news/2012/12/11/index.md)
 
-##### life in prison
+##### Life in prison
 # Jack McCullough receives a life sentence for the murder of Maria Ridulph in 1957, more than 55 years ago. 
 
 An Illinois judge sentenced Jack McCullough, 73, to serve the rest of his “natural life” in prison for the kidnapping and murder of Maria Ridulph on Dec. 3, 1957.

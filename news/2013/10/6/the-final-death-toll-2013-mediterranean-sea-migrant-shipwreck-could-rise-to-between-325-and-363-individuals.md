@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/6/the-final-death-toll-2013-mediterranean-sea-migr
 
 ### [2013-10-6](/news/2013/10/6/index.md)
 
-##### migrant boat sinks
+##### Migrant boat sinks
 # The final death toll 2013 Mediterranean Sea migrant shipwreck could rise to between 325 and 363 individuals. 
 
 

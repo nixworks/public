@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/31/rebels-reject-a-national-unity-government-offer
 
 ### [2012-12-31](/news/2012/12/31/index.md)
 
-##### national unity government
+##### National unity government
 # Rebels reject a national unity government offer by President of the Central African Republic Francois Bozize. 
 
 

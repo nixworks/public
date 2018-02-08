@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/8/an-estimated-two-million-muslims-officially-begi
 
 ### [2006-01-8](/news/2006/01/8/index.md)
 
-##### hajj
+##### Hajj
 #  An estimated two million Muslims officially begin the annual pilgrimage, or hajj, in Mecca, Saudi Arabia 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/25/a-strengthening-tropical-storm-affects-parts-of
 
 ### [2011-06-25](/news/2011/06/25/index.md)
 
-##### tropical storm
+##### Tropical storm
 # A strengthening tropical storm affects parts of eastern China, causing flooding, while a prolonged drought plagues the northwest of the country. 
 
 A strengthening tropical storm dumped rain on eastern China while a prolonged drought plagued the northwest, weather officials said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/19/a-car-bomb-targeting-a-van-belonging-to-the-pak
 
 ### [2012-09-19](/news/2012/09/19/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb targeting a van belonging to the Pakistan Air Force explodes in the Pakistani city of Peshawar, killing at least nine people and wounding up to 20 others. 
 
 

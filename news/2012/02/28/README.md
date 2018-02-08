@@ -33,11 +33,11 @@ Belarus on Tuesday told the ambassador of the European Union and that of Poland 
 
 ##### Thai Society
 ### [A Thai court sentences leftist political activist Surachai Danwattananusorn to seven and a half years in jail for lese majeste or insulting the Thai monarchy. ](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.md)
-_Context: Thai Society, Surachai Danwattananusorn, lese majeste, Thai monarchy_
+_Context: lese majeste, Thai monarchy, Thai Society, Surachai Danwattananusorn_
 
 ##### Mich.
 ### [Voters in the US states of Michigan and Arizona go to the polls for Republican Party primaries. Mitt Romney wins both states. ](/news/2012/02/28/voters-in-the-us-states-of-michigan-and-arizona-go-to-the-polls-for-republican-party-primaries-mitt-romney-wins-both-states.md)
-_Context: Arizona, Republican primaries, Mich., Mitt Romney_
+_Context: Arizona, Mich., Mitt Romney, Republican primaries_
 
 ##### Occupy London
 ### [Occupy London protesters are evicted from outside St. Paul's Cathedral. ](/news/2012/02/28/occupy-london-protesters-are-evicted-from-outside-st-paul-s-cathedral.md)
@@ -47,7 +47,7 @@ Occupy London: anti-capitalist protesters evicted from St Paul&#039;s Cathedral.
 ### [Senator Olympia Snowe of Maine announces that she will not seek re-election in 2012. ](/news/2012/02/28/senator-olympia-snowe-of-maine-announces-that-she-will-not-seek-re-election-in-2012.md)
 The retirement of the Republican senator from Maine could reconfigure the race for control of the Senate.
 
-##### penguin
+##### Penguin
 ### [Two new species of prehistoric penguin are discovered - "Kairuku grebneffi" and "Kairuku waitaki". Standing nearly 5ft tall, "Kairuku grebneffi" is the largest penguin ever discovered. ](/news/2012/02/28/two-new-species-of-prehistoric-penguin-are-discovered-kairuku-grebneffi-and-kairuku-waitaki-standing-nearly-5ft-tall-kairuku-grebne.md)
 The hefty penguin lived about 27 million years ago and weighed up to 130 pounds.
 

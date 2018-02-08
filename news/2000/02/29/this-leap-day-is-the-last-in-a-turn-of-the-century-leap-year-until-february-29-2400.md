@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/02/29/this-leap-day-is-the-last-in-a-turn-of-the-cent
 
 ### [2000-02-29](/news/2000/02/29/index.md)
 
-##### century
+##### Century
 # This leap day is the last in a turn-of-the-century leap year until February 29, 2400.
 
 

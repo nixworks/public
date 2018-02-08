@@ -9,7 +9,7 @@ Follow live updates as a UN report into last month&#x27;s chemical weapons attac
 
 ##### Battle of Zamboanga City
 ### [Battle of Zamboanga City: The Armed Forces of the Philippines launch a helicopter strike against Moro National Liberation Front rebels holed up in parts of the city of Zamboanga. ](/news/2013/09/16/battle-of-zamboanga-city-the-armed-forces-of-the-philippines-launch-a-helicopter-strike-against-moro-national-liberation-front-rebels-holed.md)
-_Context: Zamboanga City, Battle of Zamboanga City, Philippines Armed Forces, Moro National Liberation Front_
+_Context: Moro National Liberation Front, Battle of Zamboanga City, Zamboanga City, Philippines Armed Forces_
 
 ##### Hurricane Ingrid
 ### [Hurricane Ingrid is due to make landfall in Mexico as the remnants of Tropical Storm Manuel causes heavy rain on the Pacific coast. So far, 21 people have died as a result of the two storms including 14 people in Guerrero state. ](/news/2013/09/16/hurricane-ingrid-is-due-to-make-landfall-in-mexico-as-the-remnants-of-tropical-storm-manuel-causes-heavy-rain-on-the-pacific-coast-so-far.md)
@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Typhoon Nari
 ### [Typhoon Man-yi hits central Japan with concerns raised about a possible impact on the stricken Fukushima Daiichi Nuclear Power Plant. ](/news/2013/09/16/typhoon-man-yi-hits-central-japan-with-concerns-raised-about-a-possible-impact-on-the-stricken-fukushima-daiichi-nuclear-power-plant.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, Typhoon Nari, Japan_
+_Context: Japan, Fukushima Daiichi Nuclear Power Plant, Typhoon Nari_
 
 ##### Colorado
 ### [Rain continues in the American state of Colorado as more than 1,200 people remain unaccounted for in the current floods. ](/news/2013/09/16/rain-continues-in-the-american-state-of-colorado-as-more-than-1-200-people-remain-unaccounted-for-in-the-current-floods.md)
@@ -31,7 +31,7 @@ Vietnamese port authorities confirmed that early Monday morning a cargo ship tra
 ### [The United States and Russia agree to a deal to eradicate chemical weapons in Syria. ](/news/2013/09/16/the-united-states-and-russia-agree-to-a-deal-to-eradicate-chemical-weapons-in-syria.md)
 Syria will waste no time in making arrangements to eradicate its chemical arms once the deal has UN approval.
 
-##### opens fire
+##### Opens fire
 ### [A gunman opens fire at Washington, D.C.'s Naval Yard killing 12; the gunman also dies.](/news/2013/09/16/a-gunman-opens-fire-at-washington-d-c-s-naval-yard-killing-12-the-gunman-also-dies.md)
 Police are looking for the shooter, who is believed to still be on the grounds of the Navy Yard.
 
@@ -41,11 +41,11 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 
 ##### Rwanda
 ### [Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. ](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.md)
-_Context: Rwanda, President, parliamentary election, Paul Kagame, Rwandan Patriotic Front_
+_Context: Rwanda, President, Paul Kagame, parliamentary election, Rwandan Patriotic Front_
 
 ##### CSeries jets
 ### [Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. ](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.md)
-_Context: Montreal-Mirabel International Airport, CSeries jets_
+_Context: CSeries jets, Montreal-Mirabel International Airport_
 
 ## [Previous Day...](/news/2013/09/15/index.md)
 

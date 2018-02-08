@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/20/a-motorist-runs-over-pedestrians-at-the-las-veg
 
 ### [2015-12-20](/news/2015/12/20/index.md)
 
-##### runs over pedestrians
+##### Runs over pedestrians
 # A motorist runs over pedestrians at the Las Vegas Strip between Planet Hollywood and Paris Las Vegas, killing one person and injuring at least 26 more. 
 
 A woman with a toddler in her car intentionally rams into pedestrians on the Las Vegas Strip, killing one and injuring at least 26.

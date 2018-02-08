@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/8/the-ruling-junta-in-guinea-announces-it-has-arre
 
 ### [2009-12-8](/news/2009/12/8/index.md)
 
-##### junta
+##### Junta
 #  The ruling junta in Guinea announces it has arrested 60 people so far for attempting to kill leader Captain Moussa Dadis Camara. 
 
 

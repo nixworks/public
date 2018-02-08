@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/26/a-specially-built-cage-is-delivered-to-the-scen
 
 ### [2010-09-26](/news/2010/09/26/index.md)
 
-##### rescue 33 miners trapped
+##### Rescue 33 miners trapped
 # A specially built cage is delivered to the scene of the 2010 Copiapo mining accident. 
 
 Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring the miners to the surface.

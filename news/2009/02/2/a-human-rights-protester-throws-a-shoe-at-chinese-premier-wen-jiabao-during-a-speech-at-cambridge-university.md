@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/2/a-human-rights-protester-throws-a-shoe-at-chines
 
 ### [2009-02-2](/news/2009/02/2/index.md)
 
-##### human rights
+##### Human rights
 #  A human rights protester throws a shoe at Chinese Premier Wen Jiabao during a speech at Cambridge University. 
 
 

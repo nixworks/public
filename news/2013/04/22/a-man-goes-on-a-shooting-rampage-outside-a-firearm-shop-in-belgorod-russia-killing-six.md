@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/22/a-man-goes-on-a-shooting-rampage-outside-a-fire
 
 ### [2013-04-22](/news/2013/04/22/index.md)
 
-##### firearm
+##### Firearm
 # A man goes on a shooting rampage outside a firearm shop in Belgorod, Russia, killing six. 
 
 A gunman has killed six people - including a 14-year-old girl - in the western Russian city of Belgorod, local officials say.

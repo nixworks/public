@@ -21,7 +21,7 @@ Syrian army helicopters bombarded the northern rebel-held town of Al-Bab for a s
 
 ##### Metro-North Railroad
 ### [At least four are dead following a Metro-North Railroad train derailment near Spuyten Duyvil, The Bronx, New York City. ](/news/2013/12/1/at-least-four-are-dead-following-a-metro-north-railroad-train-derailment-near-spuyten-duyvil-the-bronx-new-york-city.md)
-_Context: Spuyten Duyvil, The Bronx, Metro-North Railroad, derailment_
+_Context: The Bronx, derailment, Spuyten Duyvil, Metro-North Railroad_
 
 ##### Croatia
 ### [Voters in Croatia go to the polls for a referendum on a proposal to outlaw same-sex marriage with 65 per cent voting yes. ](/news/2013/12/1/voters-in-croatia-go-to-the-polls-for-a-referendum-on-a-proposal-to-outlaw-same-sex-marriage-with-65-per-cent-voting-yes.md)
@@ -33,7 +33,7 @@ Previous reports of Comet ISON&#x27;s death may have been somewhat exaggerated, 
 
 ##### China
 ### [China launches the Chang'e 3 lunar probe incorporating a robotic lander and Jade Rabbit rover. ](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.md)
-_Context: Chang'e 3, Jade Rabbit, lander, rover, China_
+_Context: lander, China, Jade Rabbit, Chang'e 3, rover_
 
 ## [Previous Day...](/news/2013/11/30/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/28/at-least-eight-people-are-killed-and-several-ar
 
 ### [2013-02-28](/news/2013/02/28/index.md)
 
-##### restaurant boat
+##### Restaurant boat
 # At least eight people are killed and several are missing after a restaurant boat sinks in the Tigris, in central Baghdad, Iraq. 
 
 Iraqi officials say a crowded restaurant boat carrying dozens of guests has sunk in the Tigris river in central Baghdad, leaving at least eight people dead.

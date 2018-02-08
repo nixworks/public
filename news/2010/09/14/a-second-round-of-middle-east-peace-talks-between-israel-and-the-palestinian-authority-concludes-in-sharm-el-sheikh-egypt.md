@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/14/a-second-round-of-middle-east-peace-talks-betwe
 
 ### [2010-09-14](/news/2010/09/14/index.md)
 
-##### resume negotiations
+##### Resume negotiations
 # A second round of Middle East peace talks between Israel and the Palestinian Authority concludes in Sharm el-Sheikh, Egypt. 
 
 Mitchell says Israel-Palestinian negotiations moving in the right direction; Egyptian FM says breakthrough cannot be expected.

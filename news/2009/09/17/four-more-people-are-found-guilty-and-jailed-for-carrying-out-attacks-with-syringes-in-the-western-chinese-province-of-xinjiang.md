@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/17/four-more-people-are-found-guilty-and-jailed-fo
 
 ### [2009-09-17](/news/2009/09/17/index.md)
 
-##### attacks with syringes
+##### Attacks with syringes
 #  Four more people are found guilty and jailed for carrying out attacks with syringes in the western Chinese province of Xinjiang. 
 
 

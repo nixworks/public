@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-se
 
 ### [2011-03-30](/news/2011/03/30/index.md)
 
-##### orca
+##### Orca
 # The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. 
 
 

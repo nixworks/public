@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/31/more-than-200-people-are-injured-by-illegally-h
 
 ### [2011-12-31](/news/2011/12/31/index.md)
 
-##### firecracker
+##### Firecracker
 # More than 200 people are injured by illegally huge firecrackers and celebratory gunfire in the Philippines. 
 
 

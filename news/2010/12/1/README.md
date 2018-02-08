@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/1/index.html)  [JSON](2010/12/1/index.json)  [XML](2010/
 
 ##### Naxalite
 ### [Two villagers and 10 Naxalites are killed in firing between a group of criminals and Maoists in Munger, India. ](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.md)
-_Context: Munger, Naxalite, Maoist, India_
+_Context: Naxalite, India, Munger, Maoist_
 
 ##### Roman
 ### [Two walls collapse at the ancient Roman city of Pompeii during heavy rains, the third such incident in a month. ](/news/2010/12/1/two-walls-collapse-at-the-ancient-roman-city-of-pompeii-during-heavy-rains-the-third-such-incident-in-a-month.md)
@@ -13,23 +13,23 @@ _Context: Pompeii, Roman_
 
 ##### Russia
 ### [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md)
-_Context: Naftogaz Ukrainy, Alexei Miller, Ukrainian Fuel and Energy Minister, Yuri Boiko, Gazprom, Russia, Ukraine_
+_Context: Naftogaz Ukrainy, Gazprom, Russia, Yuri Boiko, Ukraine, Alexei Miller, Ukrainian Fuel and Energy Minister_
 
-##### state of emergency
+##### State of emergency
 ### [21 people are killed and several states declare a state of emergency after torrential rains in Venezuela. ](/news/2010/12/1/21-people-are-killed-and-several-states-declare-a-state-of-emergency-after-torrential-rains-in-venezuela.md)
 _Context: state of emergency, Venezuela_
 
 ##### U.N. climate change talks
 ### [At the 2010 United Nations Climate Change Conference, Google unveils an initiative using Google Earth allowing users to view the effects of deforestation, impacts and videos on global warming and climate change. ](/news/2010/12/1/at-the-2010-united-nations-climate-change-conference-google-unveils-an-initiative-using-google-earth-allowing-users-to-view-the-effects-of.md)
-_Context: effects of global warming, global warming, Google Earth, U.N. climate change talks, climate change, Google, deforestation_
+_Context: Google Earth, effects of global warming, Google, global warming, U.N. climate change talks, climate change, deforestation_
 
 ##### Kazakhstan
 ### [Kazakhstan hosts its first OSCE summit in a decade. ](/news/2010/12/1/kazakhstan-hosts-its-first-osce-summit-in-a-decade.md)
-_Context: Kazakhstan, OSCE_
+_Context: OSCE, Kazakhstan_
 
 ##### South Korea
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: North Korea, Yellow Sea, United States, South Korea_
+_Context: South Korea, North Korea, Yellow Sea, United States_
 
 ##### Israel
 ### [Israel reveals plans to build 625 more homes in the Palestinian territories, close to East Jerusalem. ](/news/2010/12/1/israel-reveals-plans-to-build-625-more-homes-in-the-palestinian-territories-close-to-east-jerusalem.md)
@@ -37,7 +37,7 @@ Israel on Wednesday revealed plans to build new homes on West Bank land it has a
 
 ##### Japan
 ### [Japanese police arrest a leading mob figure, Tadashi Irie, third-in-command of the Yamaguchi-gumi. ](/news/2010/12/1/japanese-police-arrest-a-leading-mob-figure-tadashi-irie-third-in-command-of-the-yamaguchi-gumi.md)
-_Context: Tadashi Irie, Japan, Yamaguchi-gumi_
+_Context: Japan, Yamaguchi-gumi, Tadashi Irie_
 
 ##### Iran
 ### [Iran executes Shahla Jahed by hanging eight years after she was sentenced to death for murdering the wife of footballer Nasser Mohammadkhani, her husband under a temporary marriage. ](/news/2010/12/1/iran-executes-shahla-jahed-by-hanging-eight-years-after-she-was-sentenced-to-death-for-murdering-the-wife-of-footballer-nasser-mohammadkhani.md)
@@ -51,7 +51,7 @@ A U.S. Army medic was sentenced to nine months in prison on Wednesday after plea
 ### [The opposition Muslim Brotherhood and Wafd parties withdraw from the Egyptian parliamentary election, after the ruling National Democratic Party wins 97% of the seats in the first round last weekend. ](/news/2010/12/1/the-opposition-muslim-brotherhood-and-wafd-parties-withdraw-from-the-egyptian-parliamentary-election-after-the-ruling-national-democratic-p.md)
 Muslim Brotherhood and Wafd parties drop out of second round of voting after failing to win many seats in first round.
 
-##### parliamentary election
+##### Parliamentary election
 ### [The results of the Afghan parliamentary election are finally announced. ](/news/2010/12/1/the-results-of-the-afghan-parliamentary-election-are-finally-announced.md)
 The results of parliamentary elections in Afghanistan have ushered in uncertainty, deepened skepticism of the government and stirred volatile ethnic fault lines.
 

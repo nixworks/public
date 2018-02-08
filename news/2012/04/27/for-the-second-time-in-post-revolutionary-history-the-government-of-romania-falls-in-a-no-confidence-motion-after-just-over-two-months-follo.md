@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/27/for-the-second-time-in-post-revolutionary-histo
 
 ### [2012-04-27](/news/2012/04/27/index.md)
 
-##### post-revolutionary history
+##### Post-revolutionary history
 # For the second time in post-revolutionary history the government of Romania falls in a no-confidence motion after just over two months following its appointment by the Parliament, while the Czech Republic government survived its confidence by just 12 votes. 
 
 The two-month old government of Prime Minister Mihai Razvan Ungureanu fell in a no-confidence vote, joining a list of governments collapsing across Europe over austerity measures.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/23/between-100-and-150-bodies-are-found-stuffed-in
 
 ### [2010-01-23](/news/2010/01/23/index.md)
 
-##### bodies
+##### Bodies
 # Between 100 and 150 bodies are found stuffed in wells in the village of Kuru following religious clashes in Jos, Nigeria. 
 
 

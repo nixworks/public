@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/16/index.html)  [JSON](2011/09/16/index.json)  [XML](201
 
 ##### South Korea
 ### [Authorities in South Korea arrest a North Korean citizen for an alleged assassination attempt against Park Sang-hak, a noted defector and activist. ](/news/2011/09/16/authorities-in-south-korea-arrest-a-north-korean-citizen-for-an-alleged-assassination-attempt-against-park-sang-hak-a-noted-defector-and-ac.md)
-_Context: defector, assassination, South Korea, Park Sang-hak, North Korea_
+_Context: South Korea, North Korea, defector, assassination, Park Sang-hak_
 
 ##### Hurricane Maria
 ### [Hurricane Maria hits the Canadian province of Newfoundland and Labrador as a Category&nbsp;1 hurricane. ](/news/2011/09/16/hurricane-maria-hits-the-canadian-province-of-newfoundland-and-labrador-as-a-category-nbsp-1-hurricane.md)
-_Context: Newfoundland and Labrador, Hurricane Maria_
+_Context: Hurricane Maria, Newfoundland and Labrador_
 
 ##### Delhi
 ### [Areas in Delhi, India, are flooded by heavy rain, with record rainfall recorded at Indira Gandhi International Airport. ](/news/2011/09/16/areas-in-delhi-india-are-flooded-by-heavy-rain-with-record-rainfall-recorded-at-indira-gandhi-international-airport.md)
@@ -19,7 +19,7 @@ _Context: Delhi, India, airport wall_
 ### [The Prime Minister of Pakistan, Yusuf Raza Gilani, cancels a visit to the United States to address the United Nations General Assembly as a result of the 2011 Sindh floods. ](/news/2011/09/16/the-prime-minister-of-pakistan-yusuf-raza-gilani-cancels-a-visit-to-the-united-states-to-address-the-united-nations-general-assembly-as-a.md)
 Pakistani Prime Minister Yusuf Raza Gilani has canceled a visit to the United States to attend the U.N. General Assembly session to direct relief efforts as floods devastate southern Pakistan, his office said on Friday.
 
-##### mining accident
+##### Mining accident
 ### [Four trapped coal miners are confirmed dead following a mining accident at the Gleision Colliery in South Wales. ](/news/2011/09/16/four-trapped-coal-miners-are-confirmed-dead-following-a-mining-accident-at-the-gleision-colliery-in-south-wales.md)
 The search for four miners trapped underground in a flooded Swansea Valley colliery ends with the discovery of the last body.
 
@@ -29,13 +29,13 @@ Reno police on Saturday raised the death toll in the crash of a World War II-era
 
 ##### Kosovo Serb
 ### [Kosovo Serbs block off two border crossings with Serbia as the Kosovo government seeks to take them over. ](/news/2011/09/16/kosovo-serbs-block-off-two-border-crossings-with-serbia-as-the-kosovo-government-seeks-to-take-them-over.md)
-_Context: Kosovo, Kosovo Serb, Serbia_
+_Context: Serbia, Kosovo, Kosovo Serb_
 
 ##### Turkish Prime Minister
 ### [The Prime Minister of Turkey, Recep Tayyip Erdogan, arrives in Libya for a meeting with the National Transitional Council. ](/news/2011/09/16/the-prime-minister-of-turkey-recep-tayyip-erdogan-arrives-in-libya-for-a-meeting-with-the-national-transitional-council.md)
-_Context: Turkish Prime Minister, Recep Tayyip Erdogan, Libya, National Transitional Council_
+_Context: National Transitional Council, Libya, Recep Tayyip Erdogan, Turkish Prime Minister_
 
-##### security camera
+##### Security camera
 ### [The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. ](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.md)
 Security cameras captured images of the Norwegian far right extremist accused of killing 77 people minutes before he detonated a car bomb outside the prime minister&#39;s office two months ago, police said Thursday.
 
@@ -57,7 +57,7 @@ A civil war has broken out in the Health Services Union after president Michael 
 
 ##### Sinn Fin
 ### [Sinn Fin's officer board gives its approval to put forward Northern Ireland's Deputy First Minister Martin McGuinness as a candidate for the 2011 Irish presidential election. ](/news/2011/09/16/sinn-fein-s-officer-board-gives-its-approval-to-put-forward-northern-ireland-s-deputy-first-minister-martin-mcguinness-as-a-candidate-for-th.md)
-_Context: Martin McGuinness, Sinn Fin, Deputy First Minister of Northern Ireland, Irish presidential election_
+_Context: Martin McGuinness, Deputy First Minister of Northern Ireland, Sinn Fin, Irish presidential election_
 
 ##### Mahmoud Abbas
 ### [Mahmoud Abbas, the President of the Palestinian National Authority, says he will push for full United Nations membership as a nation state for the Palestinian National Authority at the September 23 UN General Assembly meeting. ](/news/2011/09/16/mahmoud-abbas-the-president-of-the-palestinian-national-authority-says-he-will-push-for-full-united-nations-membership-as-a-nation-state-f.md)

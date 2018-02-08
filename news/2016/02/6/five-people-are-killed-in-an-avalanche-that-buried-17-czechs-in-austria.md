@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/6/five-people-are-killed-in-an-avalanche-that-buri
 
 ### [2016-02-6](/news/2016/02/6/index.md)
 
-##### avalanche
+##### Avalanche
 # Five people are killed in an avalanche that buried 17 Czechs in Austria. 
 
 Search and rescue operations were still under way on Saturday afternoon, and it was unclear how many people were still missing.

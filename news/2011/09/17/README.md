@@ -3,11 +3,11 @@ Formats: [HTML](2011/09/17/index.html)  [JSON](2011/09/17/index.json)  [XML](201
 
 ## [2011-09-17](/news/2011/09/17/index.md)
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war: forces loyal to deposed Libyan dictator Muammar Gaddafi launch a counter-attack against opposition fighters in the towns of Bani Walid and Sirte. ](/news/2011/09/17/2011-libyan-civil-war-forces-loyal-to-deposed-libyan-dictator-muammar-gaddafi-launch-a-counter-attack-against-opposition-fighters-in-the-to.md)
 Fighting comes as NTC offers last chance to loyalists of deposed leader to join its ranks or be accused of treason.
 
-##### train crash
+##### Train crash
 ### [At least three people are killed and 25 injured in a train crash near the Alawwa railway station, 60 kilometres north of Colombo in Sri Lanka. ](/news/2011/09/17/at-least-three-people-are-killed-and-25-injured-in-a-train-crash-near-the-alawwa-railway-station-60-kilometres-north-of-colombo-in-sri-lank.md)
 AT LEAST three people are dead and 25 injured in Sri Lanka after a passenger train crashed into another train.
 
@@ -17,15 +17,15 @@ _Context: Friday's Reno air crash, NTSB_
 
 ##### North American T-28 Trojan
 ### [A North American T-28 Trojan crashes at an air show at the Eastern WV Regional Airport near Martinsburg, West Virginia, killing the pilot. ](/news/2011/09/17/a-north-american-t-28-trojan-crashes-at-an-air-show-at-the-eastern-wv-regional-airport-near-martinsburg-west-virginia-killing-the-pilot.md)
-_Context: Eastern WV Regional Airport, Martinsburg, West Virginia, North American T-28 Trojan_
+_Context: Martinsburg, West Virginia, North American T-28 Trojan, Eastern WV Regional Airport_
 
-##### earthquake
+##### Earthquake
 ### [A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. ](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.md)
-_Context: Japan, aftershock, Honshu Island, earthquake_
+_Context: earthquake, Honshu Island, Japan, aftershock_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Thaksin Shinawatra visits Cambodia for high-level talks with the government of Cambodia over a variety of issues, including the ownership of the disputed Preah Vihear Temple. ](/news/2011/09/17/former-prime-minister-of-thailand-thaksin-shinawatra-visits-cambodia-for-high-level-talks-with-the-government-of-cambodia-over-a-variety-of.md)
-_Context: Thaksin Shinawatra, government of Cambodia, Prime Minister, Preah Vihear Temple, Cambodia_
+_Context: Prime Minister, government of Cambodia, Preah Vihear Temple, Cambodia, Thaksin Shinawatra_
 
 ##### Finland
 ### [Two people in Finland are held for investigation into alleged involvement in international terrorist activities. ](/news/2011/09/17/two-people-in-finland-are-held-for-investigation-into-alleged-involvement-in-international-terrorist-activities.md)
@@ -37,7 +37,7 @@ More than 240 people died when a ferry sank in the early hours of Sept. 10.
 
 ##### United States
 ### [Hundreds of United States citizens rally to peacefully occupy Wall Street, demonstrating against corporate dominance and perceived tax evasion by the super-rich. The movement is reportedly inspired by the periodic protests tactic of the Arab Spring. ](/news/2011/09/17/hundreds-of-united-states-citizens-rally-to-peacefully-occupy-wall-street-demonstrating-against-corporate-dominance-and-perceived-tax-evasi.md)
-_Context: United States, Arab Spring, Occupy Wall Street, Wall Street, corporate dominance, super-rich_
+_Context: Wall Street, corporate dominance, United States, Arab Spring, super-rich, Occupy Wall Street_
 
 ##### Latvia
 ### [Voters in Latvia go to the polls for a parliamentary election. ](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.md)

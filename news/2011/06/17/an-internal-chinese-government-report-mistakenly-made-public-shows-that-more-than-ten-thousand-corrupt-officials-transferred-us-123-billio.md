@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/17/an-internal-chinese-government-report-mistakenl
 
 ### [2011-06-17](/news/2011/06/17/index.md)
 
-##### government
+##### Government
 # An internal Chinese government report, mistakenly made public, shows that more than ten thousand corrupt officials transferred US$123 billion worth of embezzled funds out of the country over 15 years. 
 
 A media storm over corrupt officials is embarrassing China’s Communist Party as it prepares to celebrate its 90th birthday on July 1.

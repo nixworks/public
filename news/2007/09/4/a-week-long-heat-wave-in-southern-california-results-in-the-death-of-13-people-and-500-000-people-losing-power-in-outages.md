@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/4/a-week-long-heat-wave-in-southern-california-res
 
 ### [2007-09-4](/news/2007/09/4/index.md)
 
-##### heat wave
+##### Heat wave
 #  A week-long heat wave in Southern California results in the death of 13 people and 500,000 people losing power in outages. 
 
 The week-long heat wave in Southern California has claimed four lives and caused power outages to more than half a million customers, utility and local officials said on Tuesday.

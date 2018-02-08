@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/12/at-least-nine-mountaineers-are-killed-and-eight
 
 ### [2012-07-12](/news/2012/07/12/index.md)
 
-##### mountaineering
+##### Mountaineering
 # At least nine mountaineers are killed and eight injured in an avalanche on Mont Maudit near Mont Blanc in the French Alps. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/31/negotiators-from-158-countries-reach-rough-agre
 
 ### [2007-08-31](/news/2007/08/31/index.md)
 
-##### greenhouse gas
+##### Greenhouse gas
 #  Negotiators from 158 countries reach rough agreements on greenhouse gas targets at a United Nations climate change conference. 
 
 

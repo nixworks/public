@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/11/in-china-a-mine-explosion-has-killed-22-miners-
 
 ### [2005-07-11](/news/2005/07/11/index.md)
 
-##### mine explosion
+##### Mine explosion
 #  In China a mine explosion has killed 22 miners in Xinjiang province. 35 men were rescued while over 30 are still missing. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/26/a-coalition-of-citizen-groups-will-ask-united-s
 
 ### [2005-05-26](/news/2005/05/26/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  A coalition of citizen groups will ask United States Congress to file a formal "Resolution of Inquiry", the first necessary legal step to determine whether U.S. President George W. Bush has committed impeachable offenses. The request, written by Boston constitutional attorney John C. Bonifaz, cites the Downing Street memo and issues surrounding the planning and execution of the Iraq war. 
 
 

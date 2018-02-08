@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/23/a-fire-breaks-out-in-a-l-isle-verte-quebec-elde
 
 ### [2014-01-23](/news/2014/01/23/index.md)
 
-##### fire
+##### Fire
 # A fire breaks out in a L'Isle Verte, Quebec elderly home, killing 5 people and 30 are still missing. 
 
 Elderly residents screamed and tried in vain to escape a raging nursing home inferno that left five people dead and at least 30 missing in eastern Quebec on Thursday.

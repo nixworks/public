@@ -19,17 +19,17 @@ With a rapt world watching the drama unfold live on television, the tsunami race
 ### [Tajikistan votes in parliamentary elections. ](/news/2010/02/28/tajikistan-votes-in-parliamentary-elections.md)
 _Context: Tajikistan, parliamentary elections_
 
-##### storm
+##### Storm
 ### [A storm sweeps across Western Europe, killing at least 50 people and leaving a million homes without power. ](/news/2010/02/28/a-storm-sweeps-across-western-europe-killing-at-least-50-people-and-leaving-a-million-homes-without-power.md)
 _Context: storm_
 
 ##### Guangxi Zhuang
 ### [900 ships are stranded in south China's Guangxi Zhuang autonomous region amid falling water level caused by severe drought. The waterway traffic jam started on Wuzhou City section of Xijiang River. ](/news/2010/02/28/900-ships-are-stranded-in-south-china-s-guangxi-zhuang-autonomous-region-amid-falling-water-level-caused-by-severe-drought-the-waterway-tra.md)
-_Context: Guangxi Zhuang, Wuzhou, Xijiang River_
+_Context: Wuzhou, Xijiang River, Guangxi Zhuang_
 
-##### eastern Antarctica
+##### Eastern Antarctica
 ### [Two huge icebergs let loose off Antarctica's coast. The two icebergs are drifting together about 62 to 93 miles (100 to 150 kilometers) off eastern Antarctica, according to an Australian Antarctic Division glaciologist. ](/news/2010/02/28/two-huge-icebergs-let-loose-off-antarctica-s-coast-the-two-icebergs-are-drifting-together-about-62-to-93-miles-100-to-150-kilometers-off.md)
-_Context: eastern Antarctica, Australian Antarctic Division_
+_Context: Australian Antarctic Division, eastern Antarctica_
 
 ##### Helmand Province
 ### [11 civilians die in a roadside bomb in Helmand Province. ](/news/2010/02/28/11-civilians-die-in-a-roadside-bomb-in-helmand-province.md)
@@ -39,13 +39,13 @@ _Context: Helmand Province_
 ### [Three ETA militants, including one of its top leaders, Ibon Gogeascoechea, on the run since 1997, are detained in a French-Spanish raid in Cahan, Orne. ](/news/2010/02/28/three-eta-militants-including-one-of-its-top-leaders-ibon-gogeascoechea-on-the-run-since-1997-are-detained-in-a-french-spanish-raid-in-c.md)
 Ibon Gogeascoechea, the leader of armed Basque separatists ETA, was caught on Sunday in northern France, the Spanish Interior Ministry said, in what was the latest blow to a group weakened by hundreds of arrests.
 
-##### lagoon
+##### Lagoon
 ### [About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.'](/news/2010/02/28/about-eighty-tons-of-dead-fish-are-discovered-and-removed-in-a-lagoon-in-rio-de-janeiro-brazil-likely-due-to-localized-ocean-anoxia-and-al.md)
-_Context: Rio de Janeiro, low oxygen, Brazil, lagoon, algal bloom_
+_Context: Brazil, low oxygen, lagoon, Rio de Janeiro, algal bloom_
 
 ##### Egypt
 ### [Egyptian authorities announce the discovery of a granite head from a statue of Tutankhamun's grandfather Amenhotep III, which was unearthed at a temple in Luxor. ](/news/2010/02/28/egyptian-authorities-announce-the-discovery-of-a-granite-head-from-a-statue-of-tutankhamun-s-grandfather-amenhotep-iii-which-was-unearthed.md)
-_Context: Amenhotep III, Tutankhamun, Luxor, Egypt_
+_Context: Tutankhamun, Amenhotep III, Luxor, Egypt_
 
 ## [Previous Day...](/news/2010/02/27/index.md)
 

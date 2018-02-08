@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/28/a-team-of-us-and-canadian-scientists-announces-
 
 ### [2005-06-28](/news/2005/06/28/index.md)
 
-##### vaccination
+##### Vaccination
 #  A team of US and Canadian scientists announces that they may have found a way of vaccination against Lassa fever. 
 
 

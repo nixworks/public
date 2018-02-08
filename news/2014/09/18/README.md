@@ -13,7 +13,7 @@ Ukrainian President Petro Poroshenko calls on the US to provide military assista
 
 ##### Ebola virus epidemic in West Africa
 ### [The Secretary General of the United Nations Ban Ki-Moon announces the creation of an emergency mission to respond to the virus which has killed over 2,500 people in West Africa . ](/news/2014/09/18/the-secretary-general-of-the-united-nations-ban-ki-moon-announces-the-creation-of-an-emergency-mission-to-respond-to-the-virus-which-has-kil.md)
-_Context: West Africa, Ebola virus epidemic in West Africa, Ban Ki-Moon, Secretary General of the United Nations_
+_Context: Secretary General of the United Nations, Ebola virus epidemic in West Africa, West Africa, Ban Ki-Moon_
 
 ##### Australian police
 ### [Australian police mount raids in the cities of Sydney and Brisbane on alleged Islamic State of Iraq and the Levant sympathisers based on intelligence claims that they were planning a public execution in Australia with fifteen people arrested. ](/news/2014/09/18/australian-police-mount-raids-in-the-cities-of-sydney-and-brisbane-on-alleged-islamic-state-of-iraq-and-the-levant-sympathisers-based-on-int.md)
@@ -23,13 +23,13 @@ A SERIES of anti-terrorism raids were sparked by intelligence reports the Islami
 ### [Eight people have been shot dead including six children in the small American town of Bell, Florida. ](/news/2014/09/18/eight-people-have-been-shot-dead-including-six-children-in-the-small-american-town-of-bell-florida.md)
 _Context: Bell, Florida_
 
-##### independence referendum
+##### Independence referendum
 ### [Voters in Scotland go to the polls to vote on the referendum on independence. ](/news/2014/09/18/voters-in-scotland-go-to-the-polls-to-vote-on-the-referendum-on-independence.md)
 A huge turnout from the middle classes saw traditional SNP strongholds declare for the No campaign
 
 ##### Joachim Gauck
 ### [German president Joachim Gauck welcomes state officials to Mecklenburg-Vorpommern to address demographic change in Europe and commemorate 25 years of the Peaceful Revolution. ](/news/2014/09/18/german-president-joachim-gauck-welcomes-state-officials-to-mecklenburg-vorpommern-to-address-demographic-change-in-europe-and-commemorate-25.md)
-_Context: Peaceful Revolution, demographic change in Europe, Mecklenburg-Vorpommern, Joachim Gauck_
+_Context: Joachim Gauck, demographic change in Europe, Peaceful Revolution, Mecklenburg-Vorpommern_
 
 ##### Ultracompact dwarf galaxy
 ### [Ultracompact dwarf galaxy M60-UCD1 is revealed to be the smallest known galaxy to have a supermassive black hole at its centre. ](/news/2014/09/18/ultracompact-dwarf-galaxy-m60-ucd1-is-revealed-to-be-the-smallest-known-galaxy-to-have-a-supermassive-black-hole-at-its-centre.md)

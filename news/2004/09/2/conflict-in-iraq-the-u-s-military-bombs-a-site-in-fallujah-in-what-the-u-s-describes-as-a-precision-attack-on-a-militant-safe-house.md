@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/2/conflict-in-iraq-the-u-s-military-bombs-a-site-i
 
 ### [2004-09-2](/news/2004/09/2/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: The U.S. military bombs a site in Fallujah, in what the U.S. describes as a "precision" attack on a militant safe house. Hospital officials say that at least seventeen civilians, including up to three children, were killed. 
 
 

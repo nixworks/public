@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/28/police-and-fans-of-northern-ireland-and-poland-
 
 ### [2009-03-28](/news/2009/03/28/index.md)
 
-##### police
+##### Police
 #  Police and fans of Northern Ireland and Poland battle after a 2010 FIFA World Cup qualifying match in Belfast. 
 
 

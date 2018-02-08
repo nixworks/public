@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/5/an-international-team-of-scientists-announces-th
 
 ### [2009-11-5](/news/2009/11/5/index.md)
 
-##### scientists
+##### Scientists
 #  An international team of scientists announces that the genome of the domestic horse has been successfully sequenced. 
 
 An old grey mare named Twilight has provided an international team of researchers with the entire genetic code of a domestic horse.

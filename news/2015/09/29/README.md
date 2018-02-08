@@ -17,7 +17,7 @@ The attack comes the same day a pro-Kurdish news agency was raided by Turkish po
 
 ##### Gaza-Israel conflict
 ### [At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have-come-from-the-gaza-stri.md)
-_Context: Iron Dome, Gaza Strip, Ashdod, Gaza-Israel conflict, Israel_
+_Context: Israel, Iron Dome, Gaza-Israel conflict, Ashdod, Gaza Strip_
 
 ##### 2015 Burkinabe coup d'etat
 ### [After a tense standoff, Burkina Faso's military crushed the elite presidential guard and seized the coup's abandoned headquarters. The former head of the guard, Gen. Gilbert Diendere, had called on his men to lay down their weapons to avoid a bloodbath. Diendere told Agence France-Presse (AFP) he feared "many deaths and injuries" in the operation. It is unclear whether there are casualties. ](/news/2015/09/29/after-a-tense-standoff-burkina-faso-s-military-crushed-the-elite-presidential-guard-and-seized-the-coup-s-abandoned-headquarters-the-forme.md)
@@ -29,13 +29,13 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Amnesty International
 ### [Amnesty International designates Cuban graffiti artist Danilo Maldonado Machado as a prisoner of conscience. ](/news/2015/09/29/amnesty-international-designates-cuban-graffiti-artist-danilo-maldonado-machado-as-a-prisoner-of-conscience.md)
-_Context: Amnesty International, graffiti artist, prisoner of conscience, Danilo Maldonado Machado, Cuba_
+_Context: graffiti artist, Cuba, Amnesty International, prisoner of conscience, Danilo Maldonado Machado_
 
 ##### Bangui
 ### [All 500 of the prisoners escape from the Ngaraba jail in Bangui, the capital of the Central African Republic. ](/news/2015/09/29/all-500-of-the-prisoners-escape-from-the-ngaraba-jail-in-bangui-the-capital-of-the-central-african-republic.md)
 Breakout occurs after days of violence that have seen about 30 deaths, as interim president attends UN general assembly
 
-##### biofluorescent
+##### Biofluorescent
 ### [Researchers discover a biofluorescent hawksbill sea turtle, glowing bright red and green, near the Solomon Islands in the South Pacific Ocean. This is the first time scientists have found biofluorescence in a reptile in the wild. The hawksbill sea turtle is an endangered species. ](/news/2015/09/29/researchers-discover-a-biofluorescent-hawksbill-sea-turtle-glowing-bright-red-and-green-near-the-solomon-islands-in-the-south-pacific-ocea.md)
 A brightly glowing neon green and red sea turtle caught the attention of two divers filming biofluorescent creatures near the Solomon Islands.
 

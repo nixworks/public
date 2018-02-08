@@ -13,7 +13,7 @@ Russian President Vladimir Putin won a big endorsement in a parliamentary electi
 
 ##### Sbastien Loeb
 ### [ Sbastien Loeb wins the World Rally Championship for the fourth time in a row, a feat only so far accomplished by Tommi Mkinen. ](/news/2007/12/2/sebastien-loeb-wins-the-world-rally-championship-for-the-fourth-time-in-a-row-a-feat-only-so-far-accomplished-by-tommi-makinen.md)
-_Context: World Rally Championship, Tommi Mkinen, Sbastien Loeb_
+_Context: Tommi Mkinen, World Rally Championship, Sbastien Loeb_
 
 ##### Brazil
 ### [ Brazil starts free-to-air digital television transmissions in So Paulo, but broadcasting companies must transmit signals in both analogue and digital formats until June 2016. ](/news/2007/12/2/brazil-starts-free-to-air-digital-television-transmissions-in-sao-paulo-but-broadcasting-companies-must-transmit-signals-in-both-analogue.md)
@@ -21,7 +21,7 @@ _Context: So Paulo, Brazil, digital television transmissions_
 
 ##### Zasyadko coal mine
 ### [ Four people are killed at the Zasyadko coal mine in eastern Ukraine where 101 people were killed twelve days earlier in the country's worst mining accident. ](/news/2007/12/2/four-people-are-killed-at-the-zasyadko-coal-mine-in-eastern-ukraine-where-101-people-were-killed-twelve-days-earlier-in-the-country-s-worst.md)
-_Context: Ukraine, twelve days earlier, Zasyadko coal mine_
+_Context: twelve days earlier, Zasyadko coal mine, Ukraine_
 
 ## [Previous Day...](/news/2007/12/1/index.md)
 

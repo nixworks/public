@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/29/several-people-are-reported-killed-after-fresh-
 
 ### [2009-08-29](/news/2009/08/29/index.md)
 
-##### fresh clashes
+##### Fresh clashes
 #  Several people are reported killed after fresh clashes erupt in the Kokang region of Shan State, northeastern Burma, near the border with China. A bomb is also thrown across the border. 
 
 Clashes between military and Shan state militia force thousands to flee to China.

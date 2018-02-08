@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/17/at-least-eight-people-are-killed-by-machete-wie
 
 ### [2010-07-17](/news/2010/07/17/index.md)
 
-##### machete
+##### Machete
 # At least eight people are killed by machete-wielding attackers near Jos, Nigeria in scenes reminiscent of events earlier this year. 
 
 At least eight people are killed by attackers with machetes near Jos in Nigeria, the scene of deadly sectarian violence this year.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/7/a-meteorite-impact-event-occurs-in-northern-trom
 
 ### [2006-06-7](/news/2006/06/7/index.md)
 
-##### meteorite
+##### Meteorite
 #  A meteorite impact event occurs in northern Troms County, Norway. Locals compare the resultant explosion to the nuclear explosion at Hiroshima. The impact location was apparently desolate, and no structural damage or casualties are reported. 
 
 

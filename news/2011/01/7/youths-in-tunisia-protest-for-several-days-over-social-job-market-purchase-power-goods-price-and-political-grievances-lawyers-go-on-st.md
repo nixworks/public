@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/7/youths-in-tunisia-protest-for-several-days-over-
 
 ### [2011-01-7](/news/2011/01/7/index.md)
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 # Youths in Tunisia protest for several days over social (job market, purchase power, goods' price) and political grievances. Lawyers go on strike against police repression of protesters. 
 
 THOUSANDS OF lawyers went on strike in Tunisia yesterday to protest against police repression of a march in the town of Sidi &hellip;

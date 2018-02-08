@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/18/the-social-network-facebook-holds-an-initial-pu
 
 ### [2012-05-18](/news/2012/05/18/index.md)
 
-##### social network
+##### Social network
 # The social network Facebook holds an initial public offering and closes nearly flat at $38.23 a share. 
 
 Stocks closed near session lows Friday, with all three major averages posting their worst weekly drop this year, as investors were cautious ahead of the weekend amid fears over the euro zone and euphoria over Facebook&#039;s trading debut fizzled. 

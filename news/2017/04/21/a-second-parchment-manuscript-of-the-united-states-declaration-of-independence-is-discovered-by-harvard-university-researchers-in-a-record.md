@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/21/a-second-parchment-manuscript-of-the-united-sta
 
 ### [2017-04-21](/news/2017/04/21/index.md)
 
-##### parchment
+##### Parchment
 # A second parchment manuscript of the United States Declaration of Independence is discovered by Harvard University researchers, in a record office in Chichester, United Kingdom. 
 
 The only other parchment copy is maintained by the National Archives in Washington. 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/15/the-combined-economy-of-the-17-eurozone-nations
 
 ### [2012-05-15](/news/2012/05/15/index.md)
 
-##### eurozone
+##### Eurozone
 # The combined economy of the 17 eurozone nations narrowly avoids a recession, largely due to relatively high economic growth in Germany. However, overall growth in the eurozone was zero in the first quarter of 2012. 
 
 The eurozone avoided recession &ldquo;by the skin of its teeth&rdquo; as the latest GDP figures showed the growth was flat in the first quarter of 2012.

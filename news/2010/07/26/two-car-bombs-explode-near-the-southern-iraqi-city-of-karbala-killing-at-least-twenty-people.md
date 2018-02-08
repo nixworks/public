@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/26/two-car-bombs-explode-near-the-southern-iraqi-c
 
 ### [2010-07-26](/news/2010/07/26/index.md)
 
-##### car bomb
+##### Car bomb
 # Two car bombs explode near the southern Iraqi city of Karbala, killing at least twenty people. 
 
 The southern Iraqi city of Karbala is hit by a double car bombing leaving at least 20 dead and dozens injured, officials say.

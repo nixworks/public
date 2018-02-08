@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/13/sectarian-violence-in-iraq-the-bodies-of-65-tor
 
 ### [2006-09-13](/news/2006/09/13/index.md)
 
-##### sectarian conflict
+##### Sectarian conflict
 #  Sectarian violence in Iraq: The bodies of 65 tortured and executed Iraqi men have been found all over the city of Baghdad. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

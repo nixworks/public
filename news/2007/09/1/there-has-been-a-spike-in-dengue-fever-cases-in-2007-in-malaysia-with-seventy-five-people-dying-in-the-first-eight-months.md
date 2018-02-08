@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/1/there-has-been-a-spike-in-dengue-fever-cases-in-
 
 ### [2007-09-1](/news/2007/09/1/index.md)
 
-##### dengue
+##### Dengue
 #  There has been a spike in dengue fever cases in 2007 in Malaysia with seventy-five people dying in the first eight months. 
 
 

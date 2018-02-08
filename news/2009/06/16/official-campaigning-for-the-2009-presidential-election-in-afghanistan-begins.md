@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/16/official-campaigning-for-the-2009-presidential-
 
 ### [2009-06-16](/news/2009/06/16/index.md)
 
-##### presidential election
+##### Presidential election
 #  Official campaigning for the 2009 presidential election in Afghanistan begins. 
 
 

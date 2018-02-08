@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/6/the-united-states-congress-opens-hearings-into-t
 
 ### [2007-03-6](/news/2007/03/6/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress opens hearings into the dismissal of eight U.S. Attorneys, probing whether the Bush Administration had political motives for ousting the federal prosecutors. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/28/china-cancels-a-meeting-with-japan-and-south-ko
 
 ### [2010-10-28](/news/2010/10/28/index.md)
 
-##### rare earth metals
+##### Rare earth metals
 # China cancels a meeting with Japan and South Korea amid a dispute over the use of rare earth metals. 
 
 

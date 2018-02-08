@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/18/two-people-die-during-a-series-of-tornadoes-in-
 
 ### [2010-06-18](/news/2010/06/18/index.md)
 
-##### tornado
+##### Tornado
 # Two people die during a series of tornadoes in Wadena and Otter Tail County, Minnesota, United States. 
 
 

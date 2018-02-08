@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/5/presidential-election-candidate-baciro-daba3-and
 
 ### [2009-06-5](/news/2009/06/5/index.md)
 
-##### presidential election
+##### Presidential election
 #  Presidential-election candidate Baciro Dabo and former Defense Minister Helder Proenca are accused of plotting a coup d'etat and killed by Guinea-Bissau's government. 
 
 

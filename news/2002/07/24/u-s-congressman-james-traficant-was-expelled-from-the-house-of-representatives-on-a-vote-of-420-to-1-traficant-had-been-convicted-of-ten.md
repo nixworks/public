@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/07/24/u-s-congressman-james-traficant-was-expelled-fr
 
 ### [2002-07-24](/news/2002/07/24/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  U.S. Congressman James Traficant was expelled from the House of Representatives on a vote of 420 to 1. Traficant had been convicted of ten federal counts of corruption.
 
 

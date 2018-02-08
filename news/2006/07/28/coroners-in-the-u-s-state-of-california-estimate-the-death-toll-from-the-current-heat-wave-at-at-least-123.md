@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/28/coroners-in-the-u-s-state-of-california-estimat
 
 ### [2006-07-28](/news/2006/07/28/index.md)
 
-##### coronial
+##### Coronial
 #  Coroners in the U.S. state of California estimate the death toll from the current heat wave at at least 123.
 
 

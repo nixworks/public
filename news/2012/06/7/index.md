@@ -9,7 +9,7 @@ UN human rights chief Navi Pillay says during a visit to Pakistan that US drone 
 
 ##### Philip Roth
 ### [Philip Roth wins the Prince of Asturias Award for Literature and pays tribute to his "dear friend" Carlos Fuentes who died last month. ](/news/2012/06/7/philip-roth-wins-the-prince-of-asturias-award-for-literature-and-pays-tribute-to-his-dear-friend-carlos-fuentes-who-died-last-month.md)
-_Context: Prince of Asturias Award for Literature, Carlos Fuentes, Philip Roth_
+_Context: Carlos Fuentes, Philip Roth, Prince of Asturias Award for Literature_
 
 ##### Curtain Theatre
 ### [Archaeologists announce the discovery of the remains of the 16th-century Curtain Theatre, where some of William Shakespeare's plays were first performed. ](/news/2012/06/7/archaeologists-announce-the-discovery-of-the-remains-of-the-16th-century-curtain-theatre-where-some-of-william-shakespeare-s-plays-were-fir.md)
@@ -47,13 +47,13 @@ A helicopter with South Korean and Austrian nationals reportedly on board is mis
 ### [Two apartment buildings collapse following a gas leak in the Italian town of Conversano, resulting in four people being missing. ](/news/2012/06/7/two-apartment-buildings-collapse-following-a-gas-leak-in-the-italian-town-of-conversano-resulting-in-four-people-being-missing.md)
 Two apartment buildings collapsed in the southeastern Italian town of Conversano on Thursday after an explosion believed to be caused by a gas leak, and three members of a Dutch family were missing, local authorities said.
 
-##### ravine
+##### Ravine
 ### [At least 16 people die and 32 are injured after a bus falls into a ravine north of the Bolivian capital La Paz. ](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-a-bus-falls-into-a-ravine-north-of-the-bolivian-capital-la-paz.md)
-_Context: Bolivia, ravine, La Paz_
+_Context: La Paz, ravine, Bolivia_
 
 ##### Pilatus PC-12/47
 ### [A small Pilatus PC-12-47 aircraft crashes in a remote rural area of Florida in the Tiger Creek Swamp area near Lake Wales, Florida, southeast of Lakeland, Florida in the central portion of the state. The airplane began to break up at around 26,000 feet in southeastern Polk County, Florida. ](/news/2012/06/7/a-small-pilatus-pc-12-47-aircraft-crashes-in-a-remote-rural-area-of-florida-in-the-tiger-creek-swamp-area-near-lake-wales-florida-southeas.md)
-_Context: Pilatus PC-12/47, Lakeland, Florida, Polk County, Florida, Lake Wales, Florida, the state, Tiger Creek Swamp_
+_Context: Polk County, Florida, Pilatus PC-12/47, Tiger Creek Swamp, the state, Lake Wales, Florida, Lakeland, Florida_
 
 ##### Central Intelligence Agency
 ### [CIA director David Petraeus makes an unofficial visit to Bulgaria, meeting the president and prime minister. ](/news/2012/06/7/cia-director-david-petraeus-makes-an-unofficial-visit-to-bulgaria-meeting-the-president-and-prime-minister.md)
@@ -65,7 +65,7 @@ Washington is losing patience with Pakistan over alleged safe havens for Taliban
 
 ##### Israel
 ### [An additional 550 settler homes are announced by Israeli construction minister Ariel Attias in addition to the 300 new settler homes ordered yesterday by the land's prime minister Benjamin Netanyahu at the Jewish settlement of Beit El in the West Bank. ](/news/2012/06/7/an-additional-550-settler-homes-are-announced-by-israeli-construction-minister-ariel-attias-in-addition-to-the-300-new-settler-homes-ordered.md)
-_Context: West Bank, Beit El, Israel, Ariel Attias, Benjamin Netanyahu_
+_Context: Benjamin Netanyahu, Israel, Ariel Attias, Beit El, West Bank_
 
 ##### England
 ### [UK government ministers announce their intention to boycott group games involving the England national football team at UEFA Euro 2012 in Ukraine. ](/news/2012/06/7/uk-government-ministers-announce-their-intention-to-boycott-group-games-involving-the-england-national-football-team-at-uefa-euro-2012-in-uk.md)

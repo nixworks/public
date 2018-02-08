@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/8/the-death-toll-rises-to-132-and-injury-toll-is-a
 
 ### [2010-08-8](/news/2010/08/8/index.md)
 
-##### severe flash floods
+##### Severe flash floods
 # The death toll rises to 132 and injury toll is at least 400 as severe flash floods devastate Kashmir. 
 
 

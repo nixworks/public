@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/17/a-car-bomb-explodes-in-southern-thailand-near-t
 
 ### [2005-02-17](/news/2005/02/17/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb explodes in southern Thailand near the Marina Hotel in Sungai Kolok, a popular tourist town close to the Malaysian border. Five people are killed and more than 40 injured. The car bomb is believed to be the first to explode in the Muslim-dominated region. 
 
 

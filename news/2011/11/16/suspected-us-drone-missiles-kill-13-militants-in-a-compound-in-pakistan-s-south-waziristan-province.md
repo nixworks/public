@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-i
 
 ### [2011-11-16](/news/2011/11/16/index.md)
 
-##### drones launch
+##### Drones launch
 # Suspected US drone missiles kill 13 militants in a compound in Pakistan's South Waziristan province. 
 
 

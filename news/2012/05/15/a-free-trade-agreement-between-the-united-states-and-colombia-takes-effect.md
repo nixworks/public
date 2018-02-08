@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/15/a-free-trade-agreement-between-the-united-state
 
 ### [2012-05-15](/news/2012/05/15/index.md)
 
-##### free trade
+##### Free trade
 # A free trade agreement between the United States and Colombia takes effect. 
 
 A free trade agreement between the US and Colombia takes effect five years after being signed, with Colombian flowers the first goods to be sent.

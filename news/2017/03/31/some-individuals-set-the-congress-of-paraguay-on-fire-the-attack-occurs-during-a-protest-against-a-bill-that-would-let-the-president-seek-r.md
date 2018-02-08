@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/31/some-individuals-set-the-congress-of-paraguay-o
 
 ### [2017-03-31](/news/2017/03/31/index.md)
 
-##### protests against this change that turned violent
+##### Protests against this change that turned violent
 # Some individuals set the Congress of Paraguay on fire. The attack occurs during a protest against a bill that would let the president seek re-election. 
 
 Violence broke out amid street protests against a bill allowing the president to run for re-election.

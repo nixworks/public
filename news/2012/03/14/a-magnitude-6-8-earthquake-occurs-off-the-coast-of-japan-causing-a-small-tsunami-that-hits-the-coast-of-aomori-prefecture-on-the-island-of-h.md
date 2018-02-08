@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/14/a-magnitude-6-8-earthquake-occurs-off-the-coast
 
 ### [2012-03-14](/news/2012/03/14/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 6.8 earthquake occurs off the coast of Japan causing a small tsunami that hits the coast of Aomori prefecture on the island of Hokkaido. 
 
 

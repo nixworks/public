@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/12/a-commuter-train-derails-in-the-paris-suburb-of
 
 ### [2013-07-12](/news/2013/07/12/index.md)
 
-##### derails
+##### Derails
 # A commuter train derails in the Paris suburb of Bretigny-sur-Orge with at least eight people dead. 
 
 An Intercity train to Limoges derailed today around 5pm in the municipality of Brétigny-sur-Orge, French newspaper Le Parisien is reporting. Emergency services are attending. Eight people are thought to be dead and many of the wounded are still stuck in the trains. 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/3/the-death-toll-as-a-result-of-recent-mudslides-w
 
 ### [2010-01-3](/news/2010/01/3/index.md)
 
-##### recent mudslides
+##### Recent mudslides
 # The death toll as a result of recent mudslides which have hit Brazil rises to more than 85, including at least 29 in a hotel collapse, and two nuclear power stations are intended to be shut down as a precaution. 
 
 Officials in Brazil are now putting the death toll from floods and mudslides at 85.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/19/radioactive-contamination-causes-hereditary-gen
 
 ### [2012-08-19](/news/2012/08/19/index.md)
 
-##### nuclear waste gases
+##### Nuclear waste gases
 # Radioactive contamination causes hereditary genetic mutations in life forms. This has been proven on butterfly generations. At stated times, the effect on humans remains unclear. 
 
 

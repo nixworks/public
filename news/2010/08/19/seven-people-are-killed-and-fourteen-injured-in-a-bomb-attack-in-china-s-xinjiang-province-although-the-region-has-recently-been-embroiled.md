@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/19/seven-people-are-killed-and-fourteen-injured-in
 
 ### [2010-08-19](/news/2010/08/19/index.md)
 
-##### bomb attack
+##### Bomb attack
 # Seven people are killed and fourteen injured in a bomb attack in China's Xinjiang province. Although the region has recently been embroiled in violence including Muslim separatists and majority Han Chinese, the attack is being investigated as a criminal case. 
 
 Blast hits crowd of people in restive west, officials blame a minority Uighur.

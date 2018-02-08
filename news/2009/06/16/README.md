@@ -7,17 +7,17 @@ Formats: [HTML](2009/06/16/index.html)  [JSON](2009/06/16/index.json)  [XML](200
 ### [ The Guardian Council is to hold a recount of disputed votes from the country's presidential election. ](/news/2009/06/16/the-guardian-council-is-to-hold-a-recount-of-disputed-votes-from-the-country-s-presidential-election.md)
 Authorities in Iran have banned foreign media from covering &#39;unauthorised&#39; rallies in Tehran.
 
-##### died in 2009
+##### Died in 2009
 ### [ The state funeral in Libreville of former President of Gabon Omar Bongo is attended by dignitaries from 40 nations. ](/news/2009/06/16/the-state-funeral-in-libreville-of-former-president-of-gabon-omar-bongo-is-attended-by-dignitaries-from-40-nations.md)
 French President NicolasSarkozy and a dozen heads of state from around Africa gatheredin Gabon on Tuesday to mark the death of President Omar Bongoafter more than four decades in power.
 
 ##### Russia
 ### [ Russia vetoes a plan to extend the United Nations Observer Mission in Georgia. ](/news/2009/06/16/russia-vetoes-a-plan-to-extend-the-united-nations-observer-mission-in-georgia.md)
-_Context:  Georgian, Russia, United Nations Observer Mission_
+_Context: Russia, United Nations Observer Mission,  Georgian_
 
 ##### Brian Friel
 ### [ Playwright Brian Friel is honoured with the Ulysses Medal on Bloomsday at University College Dublin. ](/news/2009/06/16/playwright-brian-friel-is-honoured-with-the-ulysses-medal-on-bloomsday-at-university-college-dublin.md)
-_Context: Brian Friel, Bloomsday, Ulysses Medal, University College Dublin_
+_Context: University College Dublin, Brian Friel, Bloomsday, Ulysses Medal_
 
 ##### Indonesia
 ### [ A coal mine collapses in Indonesia, killing at least six people. ](/news/2009/06/16/a-coal-mine-collapses-in-indonesia-killing-at-least-six-people.md)
@@ -29,19 +29,19 @@ Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to
 
 ##### China
 ### [ China announces plan to provide a US$ 10 billion credit loan to member states of the Shanghai Cooperation Organisation. ](/news/2009/06/16/china-announces-plan-to-provide-a-us-10-billion-credit-loan-to-member-states-of-the-shanghai-cooperation-organisation.md)
-_Context: China, US$, Shanghai Cooperation Organisation_
+_Context: Shanghai Cooperation Organisation, China, US$_
 
-##### presidential election
+##### Presidential election
 ### [ Official campaigning for the 2009 presidential election in Afghanistan begins. ](/news/2009/06/16/official-campaigning-for-the-2009-presidential-election-in-afghanistan-begins.md)
-_Context: Afghanistan, presidential election_
+_Context: presidential election, Afghanistan_
 
 ##### General Motors
 ### [ General Motors agrees Saab sale to Koenigsegg ](/news/2009/06/16/general-motors-agrees-saab-sale-to-koenigsegg.md)
-_Context: Koenigsegg, Saab Automobile, General Motors_
+_Context: Saab Automobile, Koenigsegg, General Motors_
 
 ##### Sri Lanka
 ### [ A Sri Lankan government investigation into human rights abuses during its offensive with Tamil Tiger rebels disbands. ](/news/2009/06/16/a-sri-lankan-government-investigation-into-human-rights-abuses-during-its-offensive-with-tamil-tiger-rebels-disbands.md)
-_Context: LTTE, government, offensive, human rights, Sri Lanka_
+_Context: human rights, offensive, Sri Lanka, LTTE, government_
 
 ##### Irish
 ### [ 15 laptops containing confidential information owned by Ireland's Health Service Executive are stolen in Roscommon. ](/news/2009/06/16/15-laptops-containing-confidential-information-owned-by-ireland-s-health-service-executive-are-stolen-in-roscommon.md)
@@ -61,7 +61,7 @@ Sammy Sosa, who joined Mark McGwire in 1998 in pursuit of the single-season home
 
 ##### Food & Drug Administration
 ### [ The U.S. Food & Drug Administration advised people not to use Zicam intranasal products that contain zinc, due to the risk of anosmia. ](/news/2009/06/16/the-u-s-food-drug-administration-advised-people-not-to-use-zicam-intranasal-products-that-contain-zinc-due-to-the-risk-of-anosmia.md)
-_Context: Zicam, Food & Drug Administration, anosmia_
+_Context: Zicam, anosmia, Food & Drug Administration_
 
 ## [Previous Day...](/news/2009/06/15/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/30/several-large-earthquakes-rock-western-iran-kil
 
 ### [2006-03-30](/news/2006/03/30/index.md)
 
-##### earthquakes
+##### Earthquakes
 #  Several large earthquakes rock western Iran, killing and injuring many people [http:--news.bbc.co.uk-1-hi-world-middle_east-4863372.stm (BBC)](WikiNews)
 
 

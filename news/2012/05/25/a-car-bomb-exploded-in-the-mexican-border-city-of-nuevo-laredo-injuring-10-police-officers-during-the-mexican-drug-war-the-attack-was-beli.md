@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/25/a-car-bomb-exploded-in-the-mexican-border-city-
 
 ### [2012-05-25](/news/2012/05/25/index.md)
 
-##### bomb exploded
+##### Bomb exploded
 # A car bomb exploded in the Mexican border city of Nuevo Laredo, injuring 10 police officers during the Mexican Drug War. The attack was believed to have been carried out by Los Zetas, one of Mexico's most powerful drug trafficking organizations. 
 
 

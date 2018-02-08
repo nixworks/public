@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/6/the-composer-and-pianist-elton-john-is-released-
 
 ### [2009-11-6](/news/2009/11/6/index.md)
 
-##### pianist
+##### Pianist
 #  The composer and pianist Elton John is released from his hospital bed in London after a period of illness which saw him cancel several concerts on The Red Piano Tour. 
 
 In 1660, New France had six male settlers for every female settler. The Filles du Roi were poor women who were brought to North America to fix this imbalance and populate the colony.

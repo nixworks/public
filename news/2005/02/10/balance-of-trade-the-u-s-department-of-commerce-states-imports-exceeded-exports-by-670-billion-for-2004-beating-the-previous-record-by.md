@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/10/balance-of-trade-the-u-s-department-of-commerce
 
 ### [2005-02-10](/news/2005/02/10/index.md)
 
-##### trade deficit
+##### Trade deficit
 #  Balance of trade: The U.S. Department of Commerce states imports exceeded exports by $670 billion for 2004, beating the previous record by nearly 25%. 
 
 

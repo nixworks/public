@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/11/a-migrant-boat-sinks-in-the-channel-of-sicily-w
 
 ### [2013-10-11](/news/2013/10/11/index.md)
 
-##### migrant boat sinks
+##### Migrant boat sinks
 # A migrant boat sinks in the Channel of Sicily with at least 27 people dead but over 200 rescued. 
 
 

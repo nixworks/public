@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/29/a-nieto-express-propane-gas-tanker-truck-explod
 
 ### [2015-01-29](/news/2015/01/29/index.md)
 
-##### propane
+##### Propane
 # A Nieto Express propane gas tanker truck explodes near the loading dock of a maternity and children's hospital (Hospital Materno Infantil Cuajimalpa) in Mexico City, collapsing much of the hospital with at least three deaths and 70 people injured, 22 of whom are children. 
 
 A gas tank truck explodes outside a maternity hospital in Mexico City, killing a nurse and two babies.

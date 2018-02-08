@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/11/riot-police-fire-tear-gas-at-a-demonstration-of
 
 ### [2011-03-11](/news/2011/03/11/index.md)
 
-##### stateless
+##### Stateless
 # Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. 
 
 

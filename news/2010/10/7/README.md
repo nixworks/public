@@ -21,11 +21,11 @@ THE LEADER of a Congolese rebel group suspected of being involved in the rape of
 
 ##### Pakistan
 ### [14 people are killed and 70 others are injured in 2 suicide blasts at a shrine in Pakistan's southern port city of Karachi. ](/news/2010/10/7/14-people-are-killed-and-70-others-are-injured-in-2-suicide-blasts-at-a-shrine-in-pakistan-s-southern-port-city-of-karachi.md)
-_Context: Pakistan, Karachi_
+_Context: Karachi, Pakistan_
 
 ##### Baghdad
 ### [At least 5 people are killed due to back-to-back afternoon bombings at a vegetable market south of Baghdad. In Iskandariyah, about 30 miles (50 kilometers) south of Baghdad, also wounded at least 20 people. ](/news/2010/10/7/at-least-5-people-are-killed-due-to-back-to-back-afternoon-bombings-at-a-vegetable-market-south-of-baghdad-in-iskandariyah-about-30-miles.md)
-_Context: Baghdad, Iskandariyah_
+_Context: Iskandariyah, Baghdad_
 
 ##### Tajikistan
 ### [A land mine blast kills 6 soldiers in Tajikistan. ](/news/2010/10/7/a-land-mine-blast-kills-6-soldiers-in-tajikistan.md)
@@ -33,7 +33,7 @@ _Context: Tajikistan_
 
 ##### Iran
 ### [Gunmen kill 4 police officers in Iranian Kurdish area. ](/news/2010/10/7/gunmen-kill-4-police-officers-in-iranian-kurdish-area.md)
-_Context: Iran, Kurdish_
+_Context: Kurdish, Iran_
 
 ##### Takhar province
 ### [20 Taliban militants, including two rebel commanders, are killed in fighting with security forces in northeastern Takhar province, Afghanistan. ](/news/2010/10/7/20-taliban-militants-including-two-rebel-commanders-are-killed-in-fighting-with-security-forces-in-northeastern-takhar-province-afghanist.md)
@@ -61,23 +61,23 @@ A Roman helmet unearthed found in a Cumbrian field by a metal detector enthusias
 
 ##### FBI
 ### [The FBI seizes a set of John Lennon's fingerprints. ](/news/2010/10/7/the-fbi-seizes-a-set-of-john-lennon-s-fingerprints.md)
-_Context: John Lennon, FBI_
+_Context: FBI, John Lennon_
 
 ##### United States
 ### [United States film studio Metro Goldwyn Mayer begins plans to file for Chapter 11 bankruptcy in a bid to rid itself of $4 billion in debts. ](/news/2010/10/7/united-states-film-studio-metro-goldwyn-mayer-begins-plans-to-file-for-chapter-11-bankruptcy-in-a-bid-to-rid-itself-of-4-billion-in-debts.md)
 Hollywood film studio Metro Goldwyn Mayer begins plans to file for bankruptcy protection to try to rid itself of $4bn of debts.
 
-##### austerity measures
+##### Austerity measures
 ### [Austerity measures of pay cuts and pension freeze supported by the European Union and International Monetary Fund (IMF) cause civil servants to stage a 24-hour strike in Greece. ](/news/2010/10/7/austerity-measures-of-pay-cuts-and-pension-freeze-supported-by-the-european-union-and-international-monetary-fund-imf-cause-civil-servants.md)
 Civil servants stage 24-hour strike in protest against pay cuts and pension freeze, disrupting normal life.
 
 ##### $
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: yen, currency, Japan, $, quantitative easing, United States Federal Reserve_
+_Context: Japan, currency, United States Federal Reserve, quantitative easing, $, yen_
 
 ##### Irrawaddy River
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
-_Context: Myanmar, Irrawaddy River, delta_
+_Context: Myanmar, delta, Irrawaddy River_
 
 ##### Kashipur
 ### [A woman was killed and 25 others were injured when the tractor-trolley they were travelling in overturned in Kashipur town of Udhamsingh Nagar district. ](/news/2010/10/7/a-woman-was-killed-and-25-others-were-injured-when-the-tractor-trolley-they-were-travelling-in-overturned-in-kashipur-town-of-udhamsingh-nag.md)
@@ -87,7 +87,7 @@ Woman killed, 25 injured in accident in Uttarakhand - The incident took place wh
 ### [Six workers die when scaffolding collapsed near the Beishan Interchange in Nantou County, Taiwan. ](/news/2010/10/7/six-workers-die-when-scaffolding-collapsed-near-the-beishan-interchange-in-nantou-county-taiwan.md)
 Six workers died when scaffolding collapsed near the Beishan Interchange (北山交流道) in Nantou County on Freeway No. 6 yesterday afternoon, in the worst industrial accident since construction of the new freeway began.
 
-##### flash flood
+##### Flash flood
 ### [The death toll from flash floods in Indonesia's West Papua province rises to 97 with dozens of people missing. ](/news/2010/10/7/the-death-toll-from-flash-floods-in-indonesia-s-west-papua-province-rises-to-97-with-dozens-of-people-missing.md)
 The death toll from flash floods in a remote region of eastern Indonesia has climbed to at least 97, with dozens of people still missing.
 
@@ -97,11 +97,11 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 
 ##### Security Council
 ### [Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.md)
-_Context: Darfur, referendum on independence from Sudan, Sudan, Security Council_
+_Context: Security Council, Sudan, Darfur, referendum on independence from Sudan_
 
 ##### Russia
 ### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
-_Context: nuclear program, ban on ballistic missile tests, Iran, Russia, anti-air_
+_Context: nuclear program, Iran, anti-air, ban on ballistic missile tests, Russia_
 
 ##### United States
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
@@ -137,7 +137,7 @@ _Context: United Kingdom, Labour Party, Shadow Cabinet, Ed Miliband_
 
 ##### Mark Rutte
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
-_Context: Beatrix, VVD, Prime Minister, Mark Rutte, Netherlands_
+_Context: Mark Rutte, Netherlands, VVD, Prime Minister, Beatrix_
 
 ##### South Africa
 ### [South African Archbishop Desmond Tutu retires from public life after reaching his 79th birthday. ](/news/2010/10/7/south-african-archbishop-desmond-tutu-retires-from-public-life-after-reaching-his-79th-birthday.md)

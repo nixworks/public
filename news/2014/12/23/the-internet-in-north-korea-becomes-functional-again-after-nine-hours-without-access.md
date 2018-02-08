@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/23/the-internet-in-north-korea-becomes-functional-
 
 ### [2014-12-23](/news/2014/12/23/index.md)
 
-##### internet in North Korea
+##### Internet in North Korea
 # The internet in North Korea becomes functional again after nine hours without access. 
 
 

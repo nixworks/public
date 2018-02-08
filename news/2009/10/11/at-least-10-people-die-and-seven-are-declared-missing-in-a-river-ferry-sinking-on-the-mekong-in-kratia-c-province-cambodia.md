@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/11/at-least-10-people-die-and-seven-are-declared-m
 
 ### [2009-10-11](/news/2009/10/11/index.md)
 
-##### river ferry sinking
+##### River ferry sinking
 #  At least 10 people die and seven are declared missing in a river ferry sinking on the Mekong in Kratie Province, Cambodia. 
 
 

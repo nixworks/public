@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/5/alvaro-colom-is-elected-president-of-guatemala-i
 
 ### [2007-11-5](/news/2007/11/5/index.md)
 
-##### lvaro Colom
+##### Lvaro Colom
 #  lvaro Colom is elected President of Guatemala in the 2007 general election. 
 
 

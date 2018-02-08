@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/18/china-has-recorded-its-sixth-death-from-the-avi
 
 ### [2006-01-18](/news/2006/01/18/index.md)
 
-##### bird flu
+##### Bird flu
 #  China has recorded its sixth death from the avian flu virus, according to a report on the Chinese Health Ministry's Web site. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/15/powerful-aftershocks-hit-chile-after-the-antofa
 
 ### [2007-11-15](/news/2007/11/15/index.md)
 
-##### aftershock
+##### Aftershock
 #  Powerful aftershocks hit Chile after the Antofagasta earthquake, as President Michelle Bachelet visits the affected areas. 
 
 

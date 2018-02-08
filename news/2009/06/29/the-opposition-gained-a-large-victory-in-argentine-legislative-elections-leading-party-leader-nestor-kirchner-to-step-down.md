@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/29/the-opposition-gained-a-large-victory-in-argent
 
 ### [2009-06-29](/news/2009/06/29/index.md)
 
-##### opposition
+##### Opposition
 #  The opposition gained a large victory in Argentine legislative elections, leading party leader Nstor Kirchner to step down. 
 
 

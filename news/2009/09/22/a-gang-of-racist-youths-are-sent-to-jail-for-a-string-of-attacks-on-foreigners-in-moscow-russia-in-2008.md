@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/22/a-gang-of-racist-youths-are-sent-to-jail-for-a-
 
 ### [2009-09-22](/news/2009/09/22/index.md)
 
-##### racial bias
+##### Racial bias
 #  A gang of racist youths are sent to jail for a string of attacks on foreigners in Moscow, Russia, in 2008. 
 
 

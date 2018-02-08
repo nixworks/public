@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/4/an-earthquake-occurs-offshore-near-the-philippin
 
 ### [2011-03-4](/news/2011/03/4/index.md)
 
-##### earthquake
+##### Earthquake
 # An earthquake occurs offshore near the Philippines city of Surigao causing property damage. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/27/2007a2008-kenyan-crisis-at-least-nine-people-ar
 
 ### [2008-01-27](/news/2008/01/27/index.md)
 
-##### post-election violence
+##### Post-election violence
 #  2007-2008 Kenyan crisis: At least nine people are killed in western Kenya, reports say, in violence apparently linked to last month's disputed elections. 
 
 

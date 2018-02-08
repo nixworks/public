@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/29/a-car-bomb-explodes-near-a-bus-carrying-lebanes
 
 ### [2008-09-29](/news/2008/09/29/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb explodes near a bus carrying Lebanese Army troops to work in Tripoli, Lebanon, which kills at least five people and injures 25. 
 
 A car bomb exploded near a military bus carrying troops going to work in northern Lebanon, killing at least five people and injuring 25 others, Lebanese security officials said.

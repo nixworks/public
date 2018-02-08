@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/23/a-6-6-magnitude-earthquake-hits-94-km-south-of-
 
 ### [2014-04-23](/news/2014/04/23/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.6 magnitude earthquake hits 94 km south of Port Hardy in the Canadian province of British Columbia at around 8:10 pm PDT. Seismic activity was felt as far as Kamloops. 
 
 

@@ -21,11 +21,11 @@ Germany&#039;s decision to expel the US CIA station chief in Berlin has met with
 
 ##### Myanmar
 ### [A Myanmar court sentences four journalists and the editor of the Yangon based Unity journal to ten years hard labor for allegedly publishing state secrets in an investigative series of reports on a weapons factory. ](/news/2014/07/10/a-myanmar-court-sentences-four-journalists-and-the-editor-of-the-yangon-based-unity-journal-to-ten-years-hard-labor-for-allegedly-publishing.md)
-_Context: Myanmar, Yangon_
+_Context: Yangon, Myanmar_
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Neoguri hits the main Japanese island of Honshu causing flooding, landslides and three deaths. ](/news/2014/07/10/typhoon-neoguri-hits-the-main-japanese-island-of-honshu-causing-flooding-landslides-and-three-deaths.md)
-_Context: Typhoon Neoguri, 2014 Pacific typhoon season, Japan, Honshu Island_
+_Context: Japan, Honshu Island, 2014 Pacific typhoon season, Typhoon Neoguri_
 
 ## [Previous Day...](/news/2014/07/9/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-gr
 
 ### [2015-07-13](/news/2015/07/13/index.md)
 
-##### timeline
+##### Timeline
 # Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. 
 
 As it happens: The latest news, views and analysis from the BBC and beyond.

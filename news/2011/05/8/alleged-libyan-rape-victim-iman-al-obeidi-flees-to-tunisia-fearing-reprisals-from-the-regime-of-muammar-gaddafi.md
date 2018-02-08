@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/8/alleged-libyan-rape-victim-iman-al-obeidi-flees-
 
 ### [2011-05-8](/news/2011/05/8/index.md)
 
-##### civil war
+##### Civil war
 # Alleged Libyan rape victim Iman al-Obeidi flees to Tunisia fearing reprisals from the regime of Muammar Gaddafi. 
 
 Eman al-Obeidy, who garnered worldwide attention for her vocal rape allegations against the regime of Moammar Gadhafi, says she has fled Libya, fearing for her safety.

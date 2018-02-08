@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/29/at-least-twenty-coal-miners-are-killed-and-seve
 
 ### [2011-07-29](/news/2011/07/29/index.md)
 
-##### coal mine
+##### Coal mine
 # At least twenty coal miners are killed and seventeen are missing following two accidents in the Ukraine. 
 
 

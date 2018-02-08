@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/1/the-u-s-raises-the-security-alert-level-to-high-
 
 ### [2004-08-1](/news/2004/08/1/index.md)
 
-##### security alert
+##### Security alert
 #  The U.S. raises the security alert level to high for the World Bank and the International Monetary Fund in Washington, D.C., the New York Stock Exchange and companies in the New York City area on Sunday after intelligence signals a possible al Qaeda attack. 
 
 

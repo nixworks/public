@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/6/a-protestor-from-plane-stupid-throws-custard-at-
 
 ### [2009-03-6](/news/2009/03/6/index.md)
 
-##### protest
+##### Protest
 #  A protestor from Plane Stupid throws custard at United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson during a low-carbon summit in London. 
 
 

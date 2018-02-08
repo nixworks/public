@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/16/a-missile-strike-on-a-building-near-wana-in-sou
 
 ### [2008-03-16](/news/2008/03/16/index.md)
 
-##### missile
+##### Missile
 #  A missile strike on a building near Wana in South Waziristan, Pakistan kills at least 16 people. A local tribesman accuses the United States Army of being behind the attack. 
 
 

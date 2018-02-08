@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-ka
 
 ### [2011-05-24](/news/2011/05/24/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. 
 
 

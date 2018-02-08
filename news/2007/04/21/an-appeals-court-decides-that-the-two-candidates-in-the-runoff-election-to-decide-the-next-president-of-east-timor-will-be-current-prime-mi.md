@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/21/an-appeals-court-decides-that-the-two-candidate
 
 ### [2007-04-21](/news/2007/04/21/index.md)
 
-##### appeals court
+##### Appeals court
 #  An appeals court decides that the two candidates in the runoff election to decide the next President of East Timor will be current Prime Minister of East Timor Jos Ramos-Horta and Francisco Guterres of Fretilin. Two of the unsuccessful candidates have announced that they will support Dr Ramos-Horta. 
 
 

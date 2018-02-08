@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/1/five-thousand-people-protest-in-london-as-the-g-
 
 ### [2009-04-1](/news/2009/04/1/index.md)
 
-##### protest
+##### Protest
 #  Five thousand people protest in London as the G-20 begins its summit. 
 
 

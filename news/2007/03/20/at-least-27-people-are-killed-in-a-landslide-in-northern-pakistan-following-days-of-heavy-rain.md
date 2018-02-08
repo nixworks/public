@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/20/at-least-27-people-are-killed-in-a-landslide-in
 
 ### [2007-03-20](/news/2007/03/20/index.md)
 
-##### landslide
+##### Landslide
 #  At least 27 people are killed in a landslide in northern Pakistan following days of heavy rain. 
 
 A landslide triggered by heavy rain swept away three homes in northern Pakistan and 27 people were missing and feared dead.

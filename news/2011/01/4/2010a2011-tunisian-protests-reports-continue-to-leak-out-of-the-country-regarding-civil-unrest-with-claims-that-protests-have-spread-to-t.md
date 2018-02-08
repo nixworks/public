@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/4/2010a2011-tunisian-protests-reports-continue-to-
 
 ### [2011-01-4](/news/2011/01/4/index.md)
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 # 2010-2011 Tunisian protests: Reports continue to leak out of the country regarding civil unrest with claims that protests have spread to the city of Thala, where the ruling Constitutional Democratic Rally's offices have been attacked. 
 
 Protests over unemployment continue to spread across the country as the government forces try to curb growing unrest.

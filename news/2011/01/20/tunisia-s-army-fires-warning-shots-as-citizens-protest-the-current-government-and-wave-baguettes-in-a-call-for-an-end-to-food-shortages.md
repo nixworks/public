@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/20/tunisia-s-army-fires-warning-shots-as-citizens-
 
 ### [2011-01-20](/news/2011/01/20/index.md)
 
-##### baguette
+##### Baguette
 # Tunisia's army fires warning shots as citizens protest the current government and wave baguettes in a call for an end to food shortages. 
 
 Resignations an attempt to regain credibility in the cabinet but it is unclear if protesters will accept it

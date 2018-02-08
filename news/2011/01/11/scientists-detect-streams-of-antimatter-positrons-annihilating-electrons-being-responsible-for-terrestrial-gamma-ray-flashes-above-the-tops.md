@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/11/scientists-detect-streams-of-antimatter-positro
 
 ### [2011-01-11](/news/2011/01/11/index.md)
 
-##### antimatter
+##### Antimatter
 # Scientists detect streams of antimatter positrons annihilating electrons being responsible for Terrestrial gamma-ray flashes above the tops of thunderstorms. 
 
 A space telescope designed to probe the farthest reaches of the cosmos has spotted beams of antimatter streaming from thunderstorms on Earth.

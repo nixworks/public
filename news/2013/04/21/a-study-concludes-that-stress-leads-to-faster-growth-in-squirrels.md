@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/21/a-study-concludes-that-stress-leads-to-faster-g
 
 ### [2013-04-21](/news/2013/04/21/index.md)
 
-##### stress
+##### Stress
 # A study concludes that stress leads to faster growth in squirrels. 
 
 According to a new study, red squirrels born to mothers with high level of stress hormones are able to outcompete others for food and territories.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/23/unicef-states-that-a-child-dies-from-malnutriti
 
 ### [2011-07-23](/news/2011/07/23/index.md)
 
-##### famine
+##### Famine
 # Unicef states that a child dies from malnutrition every six minutes (250 a day) in Somalia. 
 
 

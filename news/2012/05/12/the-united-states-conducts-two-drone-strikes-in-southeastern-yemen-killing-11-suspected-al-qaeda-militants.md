@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/12/the-united-states-conducts-two-drone-strikes-in
 
 ### [2012-05-12](/news/2012/05/12/index.md)
 
-##### drone
+##### Drone
 # The United States conducts two drone strikes in southeastern Yemen, killing 11 suspected Al-Qaeda militants. 
 
 

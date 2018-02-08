@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/4/a-man-goes-on-a-rampage-with-an-axe-killing-nine
 
 ### [2013-04-4](/news/2013/04/4/index.md)
 
-##### axe
+##### Axe
 # A man goes on a rampage with an axe, killing nine people in Chhattisgarh state in central India. 
 
 A man goes on a rampage with an axe in a village in central India, killing four women and five girls, according to police.

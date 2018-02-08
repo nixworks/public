@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/14/the-eurozone-slides-into-deeper-recession-makin
 
 ### [2013-02-14](/news/2013/02/14/index.md)
 
-##### eurozone
+##### Eurozone
 # The eurozone slides into deeper recession, making 2012 the first year with no growth in any quarter since tracking began in 1995. Economic experts, who had not expected this, say that 2013's "early indicators are all pointing upwards". 
 
 The euro zone slipped deeper into recession in the last three months of 2012 after its largest economies shrank markedly at the&hellip;

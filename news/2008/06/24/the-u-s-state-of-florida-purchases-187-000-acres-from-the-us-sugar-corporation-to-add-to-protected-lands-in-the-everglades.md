@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/24/the-u-s-state-of-florida-purchases-187-000-acre
 
 ### [2008-06-24](/news/2008/06/24/index.md)
 
-##### the state
+##### The state
 #  The U.S. state of Florida purchases 187,000 acres from the US Sugar Corporation to add to protected lands in the Everglades. 
 
 

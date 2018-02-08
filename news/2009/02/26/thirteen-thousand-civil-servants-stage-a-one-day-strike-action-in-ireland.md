@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/26/thirteen-thousand-civil-servants-stage-a-one-da
 
 ### [2009-02-26](/news/2009/02/26/index.md)
 
-##### public sector
+##### Public sector
 #  Thirteen thousand civil servants stage a one-day strike action in Ireland. 
 
 

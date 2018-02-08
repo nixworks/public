@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/9/an-explosion-at-a-mitsubishi-materials-chemical-
 
 ### [2014-01-9](/news/2014/01/9/index.md)
 
-##### explosion
+##### Explosion
 # An explosion at a Mitsubishi Materials chemical plant in Yokkaichi, Japan, kills at least five people and injures 17 others. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/10/16/seven-members-of-the-dawson-family-were-murdere
 
 ### [2002-10-16](/news/2002/10/16/index.md)
 
-##### murdered
+##### Murdered
 #  Seven members of the Dawson family were murdered in Baltimore, Maryland in retribution for opposing local drug activity
 
 

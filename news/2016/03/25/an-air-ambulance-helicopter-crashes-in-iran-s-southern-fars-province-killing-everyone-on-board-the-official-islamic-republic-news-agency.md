@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/25/an-air-ambulance-helicopter-crashes-in-iran-s-s
 
 ### [2016-03-25](/news/2016/03/25/index.md)
 
-##### air ambulance
+##### Air ambulance
 # An air ambulance helicopter crashes in Iran's southern Fars Province, killing everyone on board. The official Islamic Republic News Agency (IRNA) put the death toll at 10. 
 
 

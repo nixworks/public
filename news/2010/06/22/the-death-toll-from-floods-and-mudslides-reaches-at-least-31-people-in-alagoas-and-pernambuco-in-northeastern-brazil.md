@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/22/the-death-toll-from-floods-and-mudslides-reache
 
 ### [2010-06-22](/news/2010/06/22/index.md)
 
-##### the widespread floods
+##### The widespread floods
 # The death toll from floods and mudslides reaches at least 31 people in Alagoas and Pernambuco in northeastern Brazil. 
 
 Mudslides and Heavy Rain Force Thousands From Their Hillside Homes

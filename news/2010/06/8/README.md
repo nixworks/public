@@ -17,11 +17,11 @@ Twelve people, including schoolchildren, perish as boat capsizes in lake.
 
 ##### European Union
 ### [The EU proposes that Romani issues should be integrated into housing, education and culture polices at EU and national level. ](/news/2010/06/8/the-eu-proposes-that-romani-issues-should-be-integrated-into-housing-education-and-culture-polices-at-eu-and-national-level.md)
-_Context: European Union, Roma_
+_Context: Roma, European Union_
 
 ##### Afghanistan
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
-_Context: Israel, Gaza flotilla raid, Istanbul, Afghanistan, Gaza Strip, Conference on Interaction and Confidence-Building Measures in Asia, Syria, Russia_
+_Context: Conference on Interaction and Confidence-Building Measures in Asia, Russia, Istanbul, Gaza Strip, Israel, Afghanistan, Gaza flotilla raid, Syria_
 
 ##### United States
 ### [The United States threatens Iran with its toughest nuclear sanctions yet, despite the nuclear fuel-swap arrangement Iran made with Brazil and Turkey in May. ](/news/2010/06/8/the-united-states-threatens-iran-with-its-toughest-nuclear-sanctions-yet-despite-the-nuclear-fuel-swap-arrangement-iran-made-with-brazil-an.md)
@@ -33,7 +33,7 @@ UNHCR says it was told to cease operations without explanation.
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [The Red Crescent Society, for the first time since December 2008 and in a joint venture between Iran and Turkey, prepares to send two aid boats of donations and relief workers to Gaza. ](/news/2010/06/8/the-red-crescent-society-for-the-first-time-since-december-2008-and-in-a-joint-venture-between-iran-and-turkey-prepares-to-send-two-aid-bo.md)
-_Context: Iran, Turkey, International Federation of Red Cross and Red Crescent Societies, Gaza Strip_
+_Context: Gaza Strip, International Federation of Red Cross and Red Crescent Societies, Turkey, Iran_
 
 ##### North Korea
 ### [China lodges a formal protest to North Korea after a North Korean soldier fatally shot three Chinese citizens at their mutual border. ](/news/2010/06/8/china-lodges-a-formal-protest-to-north-korea-after-a-north-korean-soldier-fatally-shot-three-chinese-citizens-at-their-mutual-border.md)
@@ -41,7 +41,7 @@ China says it has filed a formal complaint with North Korea about the killing of
 
 ##### Uganda
 ### [Uganda undoes remarks suggesting President of Sudan Omar al-Bashir would not be welcome at July's African Union conference in Kampala. ](/news/2010/06/8/uganda-undoes-remarks-suggesting-president-of-sudan-omar-al-bashir-would-not-be-welcome-at-july-s-african-union-conference-in-kampala.md)
-_Context: Sudanese President, Kampala, Omar al-Bashir, Uganda, African Union_
+_Context: African Union, Omar al-Bashir, Sudanese President, Uganda, Kampala_
 
 ##### Television host
 ### [Television host Elena Skordelli goes on trial for the murder of Cypriot media mogul Andis Hadjicostis. ](/news/2010/06/8/television-host-elena-skordelli-goes-on-trial-for-the-murder-of-cypriot-media-mogul-andis-hadjicostis.md)
@@ -53,13 +53,13 @@ Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.
 
 ##### Governor of Illinois
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: Rod Blagojevich, Governor of Illinois, corruption, United States_
+_Context: United States, Governor of Illinois, Rod Blagojevich, corruption_
 
 ##### UK Border Agency
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
-_Context: UK Border Agency, Afghanistan_
+_Context: Afghanistan, UK Border Agency_
 
-##### Poland
+##### Polish
 ### [Poland legalises chemical castration. ](/news/2010/06/8/poland-legalises-chemical-castration.md)
 Legislation which requires some rapists and paedophiles to undergo chemical castration comes into effect in Poland.
 
@@ -67,17 +67,17 @@ Legislation which requires some rapists and paedophiles to undergo chemical cast
 ### [Kenneth O'Keefe, an Irish-American living in London who was captured and injured by Israel Defense Forces following last week's raid on a Gaza-bound aid flotilla, threatens legal action after being included on a list of alleged "active terror operatives". ](/news/2010/06/8/kenneth-o-keefe-an-irish-american-living-in-london-who-was-captured-and-injured-by-israel-defense-forces-following-last-week-s-raid-on-a-ga.md)
 An Irish-American who took part in the Gaza aid flotilla has denied he is involved in terror activity, writes MARY FITZGERALD&hellip;
 
-##### cocaine
+##### Cocaine
 ### [At least 2 tonnes of cocaine worth around US$1 billion bound for Europe is seized in The Gambia. ](/news/2010/06/8/at-least-2-tonnes-of-cocaine-worth-around-us-1-billion-bound-for-europe-is-seized-in-the-gambia.md)
 At least two tonnes of cocaine with a street value of some $1bn is seized in The Gambia, destined for Europe.
 
 ##### Noynoy Aquino
 ### [Noynoy Aquino is elected as President of the Philippines in the Philippines presidential election, taking 42% of the vote, about 16 percentage points more than second-place Joseph Estrada. ](/news/2010/06/8/noynoy-aquino-is-elected-as-president-of-the-philippines-in-the-philippines-presidential-election-taking-42-of-the-vote-about-16-percenta.md)
-_Context: Noynoy Aquino, Philippine presidential election, President, Philippines, Joseph Estrada_
+_Context: Joseph Estrada, Philippines, Philippine presidential election, President, Noynoy Aquino_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)
-_Context: Japan, Naoto Kan, Emperor Akihito, Prime Minister of Japan_
+_Context: Emperor Akihito, Japan, Naoto Kan, Prime Minister of Japan_
 
 ##### Spain
 ### [Public sector workers in Spain hold a major strike in protest against a 5% pay cut due to come into effect this month as part of a government austerity package. ](/news/2010/06/8/public-sector-workers-in-spain-hold-a-major-strike-in-protest-against-a-5-pay-cut-due-to-come-into-effect-this-month-as-part-of-a-governmen.md)
@@ -93,7 +93,7 @@ _Context: Egypt, Gaza Strip, Muslim Brotherhood_
 
 ##### 11th Panchen Lama
 ### [The 11th Panchen Lama, the 20-year-old living Buddha on Monday visited south Tibet's Shannan Prefecture, held large prayer services and gave head-touch blessings to more than 5,000 local devotees. ](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.md)
-_Context: Shannan Prefecture, 11th Panchen Lama, Tibet, Buddha_
+_Context: Shannan Prefecture, Tibet, Buddha, 11th Panchen Lama_
 
 ##### Mars
 ### [Scientists find evidence that large seas once existed on Mars. ](/news/2010/06/8/scientists-find-evidence-that-large-seas-once-existed-on-mars.md)

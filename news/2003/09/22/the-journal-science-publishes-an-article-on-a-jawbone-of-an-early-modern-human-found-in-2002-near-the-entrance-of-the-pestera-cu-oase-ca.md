@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/22/the-journal-science-publishes-an-article-on-a-j
 
 ### [2003-09-22](/news/2003/09/22/index.md)
 
-##### journal
+##### Journal
 #  The journal" Science" publishes an article on a jawbone of an early modern human found in 2002 near the entrance of the Pestera cu Oase (cave with bones) in the southwestern Carpathian Mountains in Romania. Radiocarbon dating places its age at between 34,000 and 36,000 years, making it the oldest fossil from an early modern human. The jawbone suggests interbreeding between modern humans and Neanderthals.
 
 

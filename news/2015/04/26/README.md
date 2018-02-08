@@ -5,21 +5,21 @@ Formats: [HTML](2015/04/26/index.html)  [JSON](2015/04/26/index.json)  [XML](201
 
 ##### Balochistan conflict
 ### [A bomb on a motorcycle kills at least 3 people and injured 20 in the town of Sibi in Pakistan's Balochistan region. ](/news/2015/04/26/a-bomb-on-a-motorcycle-kills-at-least-3-people-and-injured-20-in-the-town-of-sibi-in-pakistan-s-balochistan-region.md)
-_Context: Sibi, Pakistan, Balochistan conflict, Balochistan_
+_Context: Pakistan, Balochistan conflict, Balochistan, Sibi_
 
 ##### Syrian Civil War
 ### [Syrian government planes bomb the city of Jisr al-Shughur the day after it was captured by al-Qaeda and its allies. ](/news/2015/04/26/syrian-government-planes-bomb-the-city-of-jisr-al-shughur-the-day-after-it-was-captured-by-al-qaeda-and-its-allies.md)
-_Context: Jisr al-Shughur, al-Qaeda, Syria, Syrian Civil War_
+_Context: Syria, al-Qaeda, Jisr al-Shughur, Syrian Civil War_
 
 ##### Boko Haram
 ### [Boko Haram captures Karamga island in Lake Chad from Niger, killing many soldiers. ](/news/2015/04/26/boko-haram-captures-karamga-island-in-lake-chad-from-niger-killing-many-soldiers.md)
-_Context: Boko Haram, Niger, Lake Chad_
+_Context: Boko Haram, Lake Chad, Niger_
 
 ##### Corinthian Colleges
 ### [American for profit education company Corinthian Colleges announces that it will close its remaining more than two dozen colleges in the western United States due to state and federal investigations into its job-placement practices. ](/news/2015/04/26/american-for-profit-education-company-corinthian-colleges-announces-that-it-will-close-its-remaining-more-than-two-dozen-colleges-in-the-wes.md)
 After years of government investigations, Corinthian Colleges Inc. will shut down more than two dozen of its remaining schools, displacing more than 10,000 California students. The move ends the turmoil at what was once one of the nation&apos;s largest for-profit college chains but presents fresh ch...
 
-##### suspicions
+##### Suspicions
 ### [Rescue and recovery attempts continue in Nepal after Saturday's earthquake with the death toll more than 2200 and expected to rise further. ](/news/2015/04/26/rescue-and-recovery-attempts-continue-in-nepal-after-saturday-s-earthquake-with-the-death-toll-more-than-2200-and-expected-to-rise-further.md)
 Tens of thousands of Nepalese who spent the night under a chilly sky were jolted awake by strong aftershocks Sunday, and rescuers aided by international teams cleared rubble in search of survivors after a powerful earthquake killed more than 1,900 people across the Himalayan region.
 
@@ -29,7 +29,7 @@ Kazakhstan&#039;s President Nursultan Nazarbayev has won re-election with 97.7 p
 
 ##### Northern Cyprus presidential election, 2015
 ### [Voters in Northern Cyprus go to the polls in the run-off election to elect leftist Mustafa Akinci as president. ](/news/2015/04/26/voters-in-northern-cyprus-go-to-the-polls-in-the-run-off-election-to-elect-leftist-mustafa-aka-nca-as-president.md)
-_Context: president, Mustafa Akinci, Northern Cyprus presidential election, 2015, northern_
+_Context: Northern Cyprus presidential election, 2015, president, northern, Mustafa Akinci_
 
 ## [Previous Day...](/news/2015/04/25/index.md)
 

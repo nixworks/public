@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/9/canada-announces-it-will-be-increasing-its-non-m
 
 ### [2004-06-9](/news/2004/06/9/index.md)
 
-##### military
+##### Military
 #  Canada announces it will be increasing its non-military role in Iraq, while NATO is currently undecided about sending more support to Iraq. 
 
 

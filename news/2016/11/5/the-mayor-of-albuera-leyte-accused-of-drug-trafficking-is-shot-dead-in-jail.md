@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/5/the-mayor-of-albuera-leyte-accused-of-drug-traff
 
 ### [2016-11-5](/news/2016/11/5/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. 
 
 A mayor linked to the drugs trade in the Philippines is shot dead in his prison cell by police.

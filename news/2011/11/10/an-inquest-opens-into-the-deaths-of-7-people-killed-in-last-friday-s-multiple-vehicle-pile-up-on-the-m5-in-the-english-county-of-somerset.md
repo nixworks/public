@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/10/an-inquest-opens-into-the-deaths-of-7-people-ki
 
 ### [2011-11-10](/news/2011/11/10/index.md)
 
-##### multiple vehicle pile-up
+##### Multiple vehicle pile-up
 # An inquest opens into the deaths of 7 people killed in last Friday's multiple vehicle pile-up on the M5 in the English county of Somerset. 
 
 The inquest opens into the deaths of the seven people killed in a crash on the M5 in Somerset.

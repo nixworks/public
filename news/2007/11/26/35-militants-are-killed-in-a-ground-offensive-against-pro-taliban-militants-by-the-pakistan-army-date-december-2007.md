@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/26/35-militants-are-killed-in-a-ground-offensive-a
 
 ### [2007-11-26](/news/2007/11/26/index.md)
 
-##### militant
+##### Militant
 #  35 militants are killed in a ground offensive against pro-Taliban militants by the Pakistan Army.date=December 2007 
 
 

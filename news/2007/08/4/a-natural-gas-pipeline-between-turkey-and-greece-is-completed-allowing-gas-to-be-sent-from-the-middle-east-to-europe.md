@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/4/a-natural-gas-pipeline-between-turkey-and-greece
 
 ### [2007-08-4](/news/2007/08/4/index.md)
 
-##### natural gas
+##### Natural gas
 #  A natural gas pipeline between Turkey and Greece is completed allowing gas to be sent from the Middle East to Europe. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/16/the-death-toll-from-an-outbreak-of-hand-foot-an
 
 ### [2011-12-16](/news/2011/12/16/index.md)
 
-##### hand, foot and mouth disease
+##### Hand, foot and mouth disease
 # The death toll from an outbreak of hand, foot and mouth disease in Vietnam reaches 156 with 96,000 people having been sick with the disease as at the end of November 2011. 
 
 

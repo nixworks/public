@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/4/a-man-with-a-knife-embarks-on-a-fatal-slashing-r
 
 ### [2010-08-4](/news/2010/08/4/index.md)
 
-##### fatal slashing rampage
+##### Fatal slashing rampage
 # A man with a knife embarks on a fatal slashing rampage in a kindergarten in Zibo, Shandong. 
 
 A wave of violent attacks on Chinese schools has left many asking whether social support has kept up with the pace of change.

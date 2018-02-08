@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/29/a-train-derails-in-andhra-pradesh-india-killing
 
 ### [2005-10-29](/news/2005/10/29/index.md)
 
-##### train
+##### Train
 #  A train derails in Andhra Pradesh, India, killing 100. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/6/papal-conclave-2013-the-brazilian-conference-of-
 
 ### [2013-03-6](/news/2013/03/6/index.md)
 
-##### conclave
+##### Conclave
 # Papal conclave, 2013: The Brazilian Conference of Bishops (the largest such conference in the world) officially advises the cardinals of Brazil in the conclave explicitly to ask the mass media to print supportive articles on the Archbishop of SGBPo Paulo, Cardinal Odilo Scherer. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/27/12-people-are-killed-in-landslides-after-heavy-
 
 ### [2010-08-27](/news/2010/08/27/index.md)
 
-##### landslide
+##### Landslide
 # 12 people are killed in landslides after heavy rains in northern Turkey. 
 
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

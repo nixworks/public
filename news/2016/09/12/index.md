@@ -17,7 +17,7 @@ Exclusive: Perfectly preserved HMS Terror vessel sank during disastrous expediti
 
 ##### Asia
 ### [Asian stock markets open lower following the fall in the Dow Jones amid speculations about the Federal Reserve's target interest rates. ](/news/2016/09/12/asian-stock-markets-open-lower-following-the-fall-in-the-dow-jones-amid-speculations-about-the-federal-reserve-s-target-interest-rates.md)
-_Context: stock market, Dow Jones, Federal Reserve, Asia_
+_Context: Federal Reserve, stock market, Dow Jones, Asia_
 
 ##### University of California, San Francisco
 ### [A researcher from the University of California, San Francisco discovers that the sugar industry may have manipulated studies about heart diseases. ](/news/2016/09/12/a-researcher-from-the-university-of-california-san-francisco-discovers-that-the-sugar-industry-may-have-manipulated-studies-about-heart-dis.md)
@@ -29,7 +29,7 @@ SEOUL (AFP) - The death toll from severe flooding in the north-east of North Kor
 
 ##### 2016 Gyeongju earthquake
 ### [A 5.8-magnitude earthquake occurs in South Korea, 9km south of Gyeongju, injuring at least two people and causing nationwide panic. It is the strongest earthquake ever recorded in South Korea. ](/news/2016/09/12/a-5-8-magnitude-earthquake-occurs-in-south-korea-9km-south-of-gyeongju-injuring-at-least-two-people-and-causing-nationwide-panic-it-is-th.md)
-_Context: 2016 Gyeongju earthquake, South Korea, Gyeongju, earthquake_
+_Context: Gyeongju, South Korea, 2016 Gyeongju earthquake, earthquake_
 
 ##### Piton de la Fournaise
 ### [The Piton de la Fournaise (Peak of the Furnace) shield volcano on France's Reunion island in the Indian Ocean erupts for the second time this year. It is one of the world's most active. ](/news/2016/09/12/the-piton-de-la-fournaise-peak-of-the-furnace-shield-volcano-on-france-s-ra-c-union-island-in-the-indian-ocean-erupts-for-the-second-time-th.md)
@@ -41,7 +41,7 @@ Seven children were among 11 people who died when a horrific fire trapped them i
 
 ##### West Nile virus
 ### [A case of West Nile virus is detected in New York City. ](/news/2016/09/12/a-case-of-west-nile-virus-is-detected-in-new-york-city.md)
-_Context: New York City, West Nile virus_
+_Context: West Nile virus, New York City_
 
 ##### Philippines-United States relations
 ### [In response to criticism of his government's extrajudicial killings of 1,800 people since July, Philippine president Rodrigo Duterte says that U.S. forces advising the Armed Forces of the Philippines against an Islamic insurgency in Mindanao are doing more harm than good and must leave the country, saying, "I do not want a rift with America, but they have to go," during a speech in Manila. ](/news/2016/09/12/in-response-to-criticism-of-his-government-s-extrajudicial-killings-of-1-800-people-since-july-philippine-president-rodrigo-duterte-says-th.md)
@@ -49,11 +49,11 @@ Social scientists who study extrajudicial killings say the real story is more co
 
 ##### Indonesia-Philippines relations
 ### [In last week's meeting between Indonesian president Joko Widodo and Philippine president Rodrigo Duterte, Widodo today says that Duterte allegedly said that he '(would) not interfere' in the execution of accused drug smuggler and Philippine national Mary Jane Veloso. However, today a "Manila Bulletin" article says that Manny Pinol, the Philippines Agriculture Secretary, states that Duterte actually asked for clemency for Veloso. ](/news/2016/09/12/in-last-week-s-meeting-between-indonesian-president-joko-widodo-and-philippine-president-rodrigo-duterte-widodo-today-says-that-duterte-all.md)
-_Context: Mary Jane Veloso, Manny Pinol, Philippine, Indonesia, Indonesia-Philippines relations, Joko Widodo, Rodrigo Duterte, Manila Bulletin_
+_Context: Philippine, Manila Bulletin, Joko Widodo, Mary Jane Veloso, Manny Pinol, Indonesia, Indonesia-Philippines relations, Rodrigo Duterte_
 
 ##### Catalan independence
 ### [In a protest in Barcelona, an estimated 800,000 people (370,000 in the government claim) demand secession from the Madrid-based Spanish government. ](/news/2016/09/12/in-a-protest-in-barcelona-an-estimated-800-000-people-370-000-in-the-government-claim-demand-secession-from-the-madrid-based-spanish-gove.md)
-_Context: Catalan independence, Barcelona, Madrid, Spain_
+_Context: Barcelona, Madrid, Catalan independence, Spain_
 
 ##### Prime Minister
 ### [Former Prime Minister of the United Kingdom David Cameron resigns as MP for Witney, triggering a by-election. ](/news/2016/09/12/former-prime-minister-of-the-united-kingdom-david-cameron-resigns-as-mp-for-witney-triggering-a-by-election.md)

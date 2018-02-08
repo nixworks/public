@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/29/the-stern-of-the-south-korean-warship-which-exp
 
 ### [2010-03-29](/news/2010/03/29/index.md)
 
-##### stern
+##### Stern
 # The stern of the South Korean warship which exploded on Friday with 46 crewmen still missing is located and the military is expected to attempt a dive. 
 
 

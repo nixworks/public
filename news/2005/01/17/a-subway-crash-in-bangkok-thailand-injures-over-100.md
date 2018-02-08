@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/17/a-subway-crash-in-bangkok-thailand-injures-over
 
 ### [2005-01-17](/news/2005/01/17/index.md)
 
-##### subways
+##### Subways
 #  A subway crash in Bangkok, Thailand, injures over 100. 
 
 

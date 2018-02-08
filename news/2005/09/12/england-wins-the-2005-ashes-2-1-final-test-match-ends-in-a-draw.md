@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/12/england-wins-the-2005-ashes-2-1-final-test-matc
 
 ### [2005-09-12](/news/2005/09/12/index.md)
 
-##### the 2005 Ashes
+##### The 2005 Ashes
 #  England wins the 2005 Ashes 2-1. Final Test match ends in a draw. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/30/24-people-are-killed-and-62-injured-after-a-chu
 
 ### [2009-09-30](/news/2009/09/30/index.md)
 
-##### church
+##### Church
 #  24 people are killed and 62 injured after a church collapses in Nepal. 
 
 

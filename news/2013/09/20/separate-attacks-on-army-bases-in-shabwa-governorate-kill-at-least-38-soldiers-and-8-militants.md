@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/20/separate-attacks-on-army-bases-in-shabwa-govern
 
 ### [2013-09-20](/news/2013/09/20/index.md)
 
-##### army
+##### Army
 # Separate attacks on army bases in Shabwa Governorate kill at least 38 soldiers and 8 militants. 
 
 

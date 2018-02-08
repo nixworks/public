@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/10/a-fierce-battle-has-gone-on-over-the-last-24-ho
 
 ### [2013-06-10](/news/2013/06/10/index.md)
 
-##### attack
+##### Attack
 # A fierce battle has gone on over the last 24 hours as rebels launch another attack against the Menagh Air Base, the last remaining Syrian government controlled airbase in Aleppo. 
 
 

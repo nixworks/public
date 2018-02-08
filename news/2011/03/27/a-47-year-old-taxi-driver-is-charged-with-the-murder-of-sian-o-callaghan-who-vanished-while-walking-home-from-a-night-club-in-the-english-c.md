@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/27/a-47-year-old-taxi-driver-is-charged-with-the-m
 
 ### [2011-03-27](/news/2011/03/27/index.md)
 
-##### murder of Sian O'Callaghan
+##### Murder of Sian O'Callaghan
 # A 47-year-old taxi driver is charged with the murder of Sian O'Callaghan, who vanished while walking home from a night club in the English city of Swindon last weekend. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/22/a-subway-train-rear-ends-another-in-busan-south
 
 ### [2012-11-22](/news/2012/11/22/index.md)
 
-##### subway train
+##### Subway train
 # A subway train rear ends another in Busan, South Korea, injuring 40. 
 
 

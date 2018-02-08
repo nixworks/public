@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/13/a-gas-explosion-in-dublin-ireland-injures-five-
 
 ### [2009-03-13](/news/2009/03/13/index.md)
 
-##### gas explosion
+##### Gas explosion
 #  A gas explosion in Dublin, Ireland, injures five people. 
 
 A house in Blackrock has been completely destroyed by an explosion this afternoon.

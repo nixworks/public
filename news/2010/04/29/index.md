@@ -9,11 +9,11 @@ Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil g
 
 ##### U.S. government
 ### [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md)
-_Context: U.S. Commission on International Religious Freedom, Saudi Arabia, freedom of worship, U.S. government, China_
+_Context: freedom of worship, U.S. government, U.S. Commission on International Religious Freedom, Saudi Arabia, China_
 
-##### migrant workers
+##### Migrant workers
 ### [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffic.md)
-_Context: New York City, Saudi Arabia, Lebanon, forced labor, confinement, human trafficking, migrant workers, United Arab Emirates, Human Rights Watch, sexual violence_
+_Context: United Arab Emirates, sexual violence, Lebanese, migrant workers, Saudi Arabia, human trafficking, Human Rights Watch, confinement, forced labor, New York City_
 
 ##### India
 ### [India and Pakistan agree to reopen discussion on "all issues of mutual concern." ](/news/2010/04/29/india-and-pakistan-agree-to-reopen-discussion-on-all-issues-of-mutual-concern.md)
@@ -25,7 +25,7 @@ _Context: China_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration (FDA) approves Provenge (sipuleucel-T), the first "vaccine" approved to treat cancer, for men with advanced prostate cancer. ](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.md)
-_Context: prostate cancer, Food and Drug Administration, vaccine, Provenge_
+_Context: Provenge, vaccine, prostate cancer, Food and Drug Administration_
 
 ##### Belgium
 ### [Belgium's parliament votes to ban the wearing of burqas and other face coverings in public. ](/news/2010/04/29/belgium-s-parliament-votes-to-ban-the-wearing-of-burqas-and-other-face-coverings-in-public.md)
@@ -35,7 +35,7 @@ Belgium is set to become the first country in Europe to ban the burqa after the 
 ### [The United States tells Israel that it must remove 23 West Bank outposts, as previously promised. ](/news/2010/04/29/the-united-states-tells-israel-that-it-must-remove-23-west-bank-outposts-as-previously-promised.md)
 State Department: &quot;We expect [Israel] to fulfill responsibilities.”
 
-##### leaders' debates
+##### Leaders' debates
 ### [The third round of leaders' debates takes place in the United Kingdom. ](/news/2010/04/29/the-third-round-of-leaders-debates-takes-place-in-the-united-kingdom.md)
 At their third and final debate with a week to go before the election, the leaders of the three main parties tussled on perhaps the most pressing issue facing the country.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/27/the-who-announces-that-measles-has-been-elimina
 
 ### [2016-09-27](/news/2016/09/27/index.md)
 
-##### measles
+##### Measles
 # The WHO announces that measles has been eliminated throughout the Americas, the first time this virus has been eradicated in an entire region. The hemisphere's last endemic case of measles -- one which did not spring from an imported strain -- was in 2002. 
 
 Once in a while, the global health news is good. Today is one of those days. The Pan American Health Organization (PAHO) announced today that measles has been eliminated in the Americas region. “This is a historic day for our region and indeed the world,” said PAHO/WHO Director Carissa F. Etienne in a statement. “It &hellip;

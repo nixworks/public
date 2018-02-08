@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vega
 
 ### [2013-02-21](/news/2013/02/21/index.md)
 
-##### shooting
+##### Shooting
 # A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. 
 
 

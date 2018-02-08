@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey
 
 ### [2017-05-4](/news/2017/05/4/index.md)
 
-##### memorandum
+##### Memorandum
 # A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. 
 
 

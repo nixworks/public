@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/25/campaigning-begins-for-a-legislative-election-i
 
 ### [2009-06-25](/news/2009/06/25/index.md)
 
-##### legislative
+##### Legislative
 #  Campaigning begins for a legislative election in Iraqi Kurdistan. 
 
 

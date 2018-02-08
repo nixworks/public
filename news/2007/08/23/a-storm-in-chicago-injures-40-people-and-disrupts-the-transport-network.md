@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/23/a-storm-in-chicago-injures-40-people-and-disrup
 
 ### [2007-08-23](/news/2007/08/23/index.md)
 
-##### storm
+##### Storm
 #  A storm in Chicago injures 40 people and disrupts the transport network. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/3/four-cargo-ships-carrying-methanol-sink-on-the-h
 
 ### [2007-09-3](/news/2007/09/3/index.md)
 
-##### cargo ship
+##### Cargo ship
 #  Four cargo ships carrying methanol sink on the Han River, the source of the water supply for Wuhan, China, with environmental authorities monitoring water quality. 
 
 

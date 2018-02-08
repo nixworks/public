@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/12/the-uk-government-states-its-intention-to-suppo
 
 ### [2011-07-12](/news/2011/07/12/index.md)
 
-##### the coalition
+##### The coalition
 # The UK Government states its intention to support a Labour Party motion in the House of Commons calling for the withdrawal of News Corporation's bid to take over BSkyB. 
 
 News Corporation boss Rupert Murdoch may appear before MPs next week over the phone hacking scandal - a senior MP has claimed.

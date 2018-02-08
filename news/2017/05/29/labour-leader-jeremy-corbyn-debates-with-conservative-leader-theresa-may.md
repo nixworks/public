@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/29/labour-leader-jeremy-corbyn-debates-with-conser
 
 ### [2017-05-29](/news/2017/05/29/index.md)
 
-##### last general election
+##### Last general election
 # Labour leader Jeremy Corbyn debates with Conservative leader Theresa May. 
 
 Jeremy Corbyn will remain leader of the Labour Party regardless of what happens on June 8, the party&rsquo;s election coordinator has suggested as he claimed &ldquo;it&rsquo;s only the beginning of the Corbyn project&rdquo;.

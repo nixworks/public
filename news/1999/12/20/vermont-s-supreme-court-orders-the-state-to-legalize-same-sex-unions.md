@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/12/20/vermont-s-supreme-court-orders-the-state-to-leg
 
 ### [1999-12-20](/news/1999/12/20/index.md)
 
-##### orders the state
+##### Orders the state
 #  Vermont's Supreme Court orders the state to legalize same-sex unions.
 
 

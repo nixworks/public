@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/23/a-survey-indicates-that-almost-one-third-of-bri
 
 ### [2010-12-23](/news/2010/12/23/index.md)
 
-##### guardian angel
+##### Guardian angel
 # A survey indicates that almost one third of Britons believe they have a guardian angel. 
 
 Nearly a third of Britons believe they have a guardian angel, a survey from the Bible Society and Christian Research claims.

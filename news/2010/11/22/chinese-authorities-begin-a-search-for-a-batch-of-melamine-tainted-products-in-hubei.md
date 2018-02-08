@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/22/chinese-authorities-begin-a-search-for-a-batch-
 
 ### [2010-11-22](/news/2010/11/22/index.md)
 
-##### melamine
+##### Melamine
 # Chinese authorities begin a search for a batch of melamine-tainted products in Hubei. 
 
 

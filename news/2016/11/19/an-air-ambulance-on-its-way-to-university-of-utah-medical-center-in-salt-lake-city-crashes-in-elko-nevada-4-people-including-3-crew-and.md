@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/19/an-air-ambulance-on-its-way-to-university-of-ut
 
 ### [2016-11-19](/news/2016/11/19/index.md)
 
-##### air ambulance
+##### Air ambulance
 #  An air ambulance on its way to University of Utah Medical Center in Salt Lake City crashes in Elko, Nevada. 4 people, including 3 crew and one patient are killed, and vehicles on the ground are damaged during the crash. 
 
 Three crew members and a patient were killed when the plane, carrying a heart-disease patient, crashed in a parking lot in Elko Friday night.

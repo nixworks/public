@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/9/australia-votes-in-its-2004-federal-election-wit
 
 ### [2004-10-9](/news/2004/10/9/index.md)
 
-##### election of 2004
+##### Election of 2004
 #  Australia votes in its 2004 Federal election, with the incumbent Coalition government winning a fourth term. As a result, in December, Australian Prime Minister John Howard will become the nation's second longest-serving Prime Minister. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/24/the-chief-executive-officer-of-united-technolog
 
 ### [2014-11-24](/news/2014/11/24/index.md)
 
-##### chief executive officer
+##### Chief executive officer
 # The chief executive officer of United Technologies abruptly steps down. 
 
 

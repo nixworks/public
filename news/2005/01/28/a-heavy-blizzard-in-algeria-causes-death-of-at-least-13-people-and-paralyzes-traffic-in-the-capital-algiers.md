@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/28/a-heavy-blizzard-in-algeria-causes-death-of-at-
 
 ### [2005-01-28](/news/2005/01/28/index.md)
 
-##### blizzard
+##### Blizzard
 #  A heavy blizzard in Algeria causes death of at least 13 people and paralyzes traffic in the capital Algiers 
 
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/10/flood-waters-cut-off-access-to-towns-in-north-q
 
 ### [2011-03-10](/news/2011/03/10/index.md)
 
-##### floods
+##### Floods
 # Flood waters cut off access to towns in North Queensland. 
 
 

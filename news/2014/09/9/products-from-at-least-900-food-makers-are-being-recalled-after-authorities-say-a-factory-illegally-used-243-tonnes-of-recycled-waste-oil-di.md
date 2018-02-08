@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/9/products-from-at-least-900-food-makers-are-being
 
 ### [2014-09-9](/news/2014/09/9/index.md)
 
-##### recent food scandal
+##### Recent food scandal
 # Products from at least 900 food makers are being recalled after authorities say a factory illegally used 243 tonnes of recycled waste oil disguised as lard, some of which may have been exported overseas. 
 
 Pineapple buns and dumplings have been pulled from the shelves in Hong Kong as authorities check whether they contain what media are referring to as “gutter oil” that has sparked a growing regional food safety scare, officials said yesterday.

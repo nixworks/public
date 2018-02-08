@@ -9,7 +9,7 @@ Two female suicide bombers killed more than 60 people at a camp for people displ
 
 ##### PKK rebellion (2015-present)
 ### [At least two Turkish Army soldiers are killed in clashes with Kurdistan Workers' Party (PKK) insurgents in the southeast Sirnak Province. ](/news/2016/02/10/at-least-two-turkish-army-soldiers-are-killed-in-clashes-with-kurdistan-workers-party-pkk-insurgents-in-the-southeast-aa-rnak-province.md)
-_Context: Turkish Land Forces, Sirnak Province, Kurdistan Workers' Party, PKK rebellion (2015-present)_
+_Context: PKK rebellion (2015-present), Kurdistan Workers' Party, Sirnak Province, Turkish Land Forces_
 
 ##### Syrian Civil War
 ### [The Kurdish-led Syrian Democratic Forces (SDF) reportedly take control of the Menagh Military Airbase in the northern Aleppo Governorate after Ahrar ash-Sham, Levant Front and Free Syrian Army fighters withdraw amid Russian airstrikes. ](/news/2016/02/10/the-kurdish-led-syrian-democratic-forces-sdf-reportedly-take-control-of-the-menagh-military-airbase-in-the-northern-aleppo-governorate-aft.md)
@@ -37,7 +37,7 @@ Turkey and Greece have agreed to ask for a NATO mission to monitor refugee flows
 
 ##### Rojava conflict
 ### [Turkish President Recep Tayyip Erdogan blasts the United States over its support for Syrian Kurdish groups which Turkey considers to be terrorists. ](/news/2016/02/10/turkish-president-recep-tayyip-erdoaan-blasts-the-united-states-over-its-support-for-syrian-kurdish-groups-which-turkey-considers-to-be-ter.md)
-_Context: Syrian Kurdish groups, President of Turkey, United States, terrorist, Rojava conflict, Recep Tayyip Erdogan_
+_Context: Rojava conflict, President of Turkey, United States, terrorist, Syrian Kurdish groups, Recep Tayyip Erdogan_
 
 ##### Abingdon
 ### [A shootout in Abingdon, Maryland results in the deaths of two Harford County Sheriff's Office deputies and the suspected gunman. ](/news/2016/02/10/a-shootout-in-abingdon-maryland-results-in-the-deaths-of-two-harford-county-sheriff-s-office-deputies-and-the-suspected-gunman.md)
@@ -59,7 +59,7 @@ Republican Chris Christie drops out of the US presidential race after a disappoi
 ### [The Parliament of Australia considers the Turnbull Government's proposed legislation to legalize the growing of marijuana for medical use. The bill is expected to pass. ](/news/2016/02/10/the-parliament-of-australia-considers-the-turnbull-government-s-proposed-legislation-to-legalize-the-growing-of-marijuana-for-medical-use-t.md)
 _Context: marijuana for medical use, Parliament of Australia, Turnbull Government_
 
-##### foreign minister
+##### Foreign minister
 ### [French Foreign Minister Laurent Fabius announces his resignation. President Francois Hollande says he will nominate Fabius to lead the country's Constitutional Council. ](/news/2016/02/10/french-foreign-minister-laurent-fabius-announces-his-resignation-president-francois-hollande-says-he-will-nominate-fabius-to-lead-the-count.md)
 French Foreign Minister Laurent Fabius said he was resigning after serving nearly four years in the position.
 

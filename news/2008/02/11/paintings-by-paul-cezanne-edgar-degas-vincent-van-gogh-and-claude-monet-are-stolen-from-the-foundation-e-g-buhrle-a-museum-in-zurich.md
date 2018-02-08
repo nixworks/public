@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/11/paintings-by-paul-cezanne-edgar-degas-vincent-v
 
 ### [2008-02-11](/news/2008/02/11/index.md)
 
-##### painter
+##### Painter
 #  Paintings by Paul Czanne, Edgar Degas, Vincent van Gogh, and Claude Monet are stolen from the Foundation E.G. Bhrle, a museum in Zrich. 
 
 

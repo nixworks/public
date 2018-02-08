@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/18/a-home-made-bomb-explodes-in-a-bus-terminal-in-
 
 ### [2007-05-18](/news/2007/05/18/index.md)
 
-##### bus terminal
+##### Bus terminal
 #  A home-made bomb explodes in a bus terminal in Cotabato in the southern Philippines, killing 3 people and injuring 15. 
 
 

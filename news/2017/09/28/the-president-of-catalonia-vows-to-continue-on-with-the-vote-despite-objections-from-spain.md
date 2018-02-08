@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/28/the-president-of-catalonia-vows-to-continue-on-
 
 ### [2017-09-28](/news/2017/09/28/index.md)
 
-##### secession
+##### Secession
 # The President of Catalonia vows to continue on with the vote despite objections from Spain. 
 
 

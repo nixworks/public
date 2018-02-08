@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/10/preliminary-results-from-the-general-election-i
 
 ### [2006-04-10](/news/2006/04/10/index.md)
 
-##### general election in Peru
+##### General election in Peru
 #  Preliminary results from the general election in Peru shows Ollanta Humala leading, but certain to face a runoff election in late May or early June. Alan Garca is narrowly leading Lourdes Flores for second place and a spot in the runoff. 
 
 

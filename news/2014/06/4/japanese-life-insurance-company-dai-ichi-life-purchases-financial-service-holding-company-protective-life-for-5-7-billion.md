@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/4/japanese-life-insurance-company-dai-ichi-life-pu
 
 ### [2014-06-4](/news/2014/06/4/index.md)
 
-##### life insurance
+##### Life insurance
 # Japanese life insurance company Dai-ichi Life purchases financial service holding company Protective Life for $5.7 billion. 
 
 Dai-ichi Life Insurance Co. will buy Protective Life Corp. for about 582.2 billion yen ($5.7 billion) to expand into the faster-growing U.S. market, marking the biggest foreign acquisition by a Japanese life insurer.

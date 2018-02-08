@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/28/raymond-hewlett-a-person-of-interest-in-madelei
 
 ### [2009-05-28](/news/2009/05/28/index.md)
 
-##### person of interest
+##### Person of interest
 #  Raymond Hewlett, a person of interest in Madeleine McCann's disappearance, gives the West Yorkshire Police a DNA sample for testing. 
 
 

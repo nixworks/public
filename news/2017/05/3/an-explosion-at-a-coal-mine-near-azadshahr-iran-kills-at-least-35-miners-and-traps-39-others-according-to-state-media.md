@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-
 
 ### [2017-05-3](/news/2017/05/3/index.md)
 
-##### mine
+##### Mine
 # An explosion at a coal mine near Azadshahr, Iran, kills at least 35 miners and traps 39 others, according to state media. 
 
 They are believed to be 1,800m underground and in danger from volatile gases.

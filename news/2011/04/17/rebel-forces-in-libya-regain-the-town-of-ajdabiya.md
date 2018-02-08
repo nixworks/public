@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabi
 
 ### [2011-04-17](/news/2011/04/17/index.md)
 
-##### civil war
+##### Civil war
 # Rebel forces in Libya regain the town of Ajdabiya. 
 
 

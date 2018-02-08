@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/26/the-bishops-of-the-united-states-episcopal-chur
 
 ### [2007-09-26](/news/2007/09/26/index.md)
 
-##### bishop
+##### Bishop
 #  The bishops of the United States Episcopal Church agree to "exercise restraint" by not consecrating more gay bishops or authorizing rites for the blessing of same-sex unions in order to prevent a schism in the Anglican Church worldwide. 
 
 The US church now awaits response from traditionalists. Will schism be headed off?

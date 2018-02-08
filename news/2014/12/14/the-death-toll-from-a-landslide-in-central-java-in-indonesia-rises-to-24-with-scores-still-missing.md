@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java
 
 ### [2014-12-14](/news/2014/12/14/index.md)
 
-##### landslide
+##### Landslide
 # The death toll from a landslide in central Java in Indonesia rises to 24 with scores still missing. 
 
 Rescuers were hampered by a lack of equipment after the landslide roared down a mountainside and destroyed a remote village.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/21/75-000-people-are-evacuated-from-their-homes-du
 
 ### [2013-06-21](/news/2013/06/21/index.md)
 
-##### flooding in Alberta
+##### Flooding in Alberta
 # 75,000 people are evacuated from their homes during flooding in Calgary, Alberta, Canada. 
 
 

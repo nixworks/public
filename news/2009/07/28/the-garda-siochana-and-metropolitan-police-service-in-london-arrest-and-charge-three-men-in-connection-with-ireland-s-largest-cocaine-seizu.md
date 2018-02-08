@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/28/the-garda-siochana-and-metropolitan-police-serv
 
 ### [2009-07-28](/news/2009/07/28/index.md)
 
-##### garda
+##### Garda
 #  The Garda Sochna and Metropolitan Police Service in London arrest and charge three men in connection with Ireland's largest cocaine seizure in West Cork in July 2007. 
 
 Police in London have arrested and charged three men in connection with the seizure of €440m worth of cocaine in west Cork in July 2007.

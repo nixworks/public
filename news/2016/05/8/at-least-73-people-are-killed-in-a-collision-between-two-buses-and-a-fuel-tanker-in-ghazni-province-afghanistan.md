@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/8/at-least-73-people-are-killed-in-a-collision-bet
 
 ### [2016-05-8](/news/2016/05/8/index.md)
 
-##### fuel tanker
+##### Fuel tanker
 #  At least 73 people are killed in a collision between two buses and a fuel tanker in Ghazni Province, Afghanistan. 
 
 

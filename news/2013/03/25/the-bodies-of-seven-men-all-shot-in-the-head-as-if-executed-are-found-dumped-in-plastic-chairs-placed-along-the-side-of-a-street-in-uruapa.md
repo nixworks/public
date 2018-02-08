@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/25/the-bodies-of-seven-men-all-shot-in-the-head-as
 
 ### [2013-03-25](/news/2013/03/25/index.md)
 
-##### executed
+##### Executed
 # The bodies of seven men, all shot in the head as if executed, are found dumped in plastic chairs placed along the side of a street in Uruapan, Michoacan, Mexico. 
 
 Bodies of seven men, with shot wounds to the head, placed in plastic chairs along side of street in state of Michoacan.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/12/the-ferry-mv-mutambala-capsizes-on-lake-tangany
 
 ### [2014-12-12](/news/2014/12/12/index.md)
 
-##### capsized ferry MV Mutambala
+##### Capsized ferry MV Mutambala
 # The ferry MV Mutambala capsizes on Lake Tanganyika, Democratic Republic of the Congo leaving at least 26 dead. 
 
 

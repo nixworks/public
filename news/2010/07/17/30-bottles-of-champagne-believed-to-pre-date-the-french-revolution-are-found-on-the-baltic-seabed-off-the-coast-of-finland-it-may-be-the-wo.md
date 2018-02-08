@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/17/30-bottles-of-champagne-believed-to-pre-date-th
 
 ### [2010-07-17](/news/2010/07/17/index.md)
 
-##### champagne
+##### Champagne
 # 30 bottles of champagne believed to pre-date the French Revolution are found on the Baltic seabed off the coast of Finland; it may be the world's oldest drinkable champagne. 
 
 Swedish divers find 30 bottles of champagne in a shipwreck believed to date from before the French Revolution in 1789.

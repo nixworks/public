@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/31/worsening-floods-affecting-eastern-india-bangla
 
 ### [2007-07-31](/news/2007/07/31/index.md)
 
-##### flood
+##### Flood
 #  Worsening floods affecting eastern India, Bangladesh and Nepal has led to millions of people leaving their homes. [http:--news.bbc.co.uk-2-hi-south_asia-6922484.stm (BBC News)] 160 people confirmed dead in Bangladesh alone.
 
 

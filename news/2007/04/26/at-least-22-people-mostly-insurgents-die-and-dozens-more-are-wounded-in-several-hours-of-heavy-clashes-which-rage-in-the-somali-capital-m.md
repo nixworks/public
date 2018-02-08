@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/26/at-least-22-people-mostly-insurgents-die-and-do
 
 ### [2007-04-26](/news/2007/04/26/index.md)
 
-##### heavy clashes
+##### Heavy clashes
 #  At least 22 people, mostly insurgents, die and dozens more are wounded in several hours of heavy clashes which rage in the Somali capital Mogadishu. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/24/the-flight-data-recorder-alternatively-referred
 
 ### [2007-01-24](/news/2007/01/24/index.md)
 
-##### flight data recorder
+##### Flight data recorder
 #  The flight data recorder (alternatively referred to as the 'black box') of Adam Air Flight 574 has been located off the coast of Sulawesi. 
 
 

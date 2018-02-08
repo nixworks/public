@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/5/three-more-men-are-charged-with-plotting-a-suici
 
 ### [2009-08-5](/news/2009/08/5/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Three more men are charged with plotting a suicide attack on a military base in Australia. 
 
 

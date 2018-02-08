@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/20/a-sunken-ship-believed-to-carry-over-us-15-mill
 
 ### [2009-06-20](/news/2009/06/20/index.md)
 
-##### shipwreck
+##### Shipwreck
 #  A sunken ship believed to carry over US$15 million in gold is located in the Magellan Straits off the coast of Argentina. 
 
 

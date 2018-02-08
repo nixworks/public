@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-
 
 ### [2008-09-13](/news/2008/09/13/index.md)
 
-##### deadly landslide
+##### Deadly landslide
 #  A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. 
 
 

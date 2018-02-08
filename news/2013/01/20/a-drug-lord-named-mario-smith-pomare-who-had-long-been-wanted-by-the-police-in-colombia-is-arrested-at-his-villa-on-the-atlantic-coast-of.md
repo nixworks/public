@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/20/a-drug-lord-named-mario-smith-pomare-who-had-lo
 
 ### [2013-01-20](/news/2013/01/20/index.md)
 
-##### drug lord
+##### Drug lord
 # A drug lord named Mario Smith Pomare, who had long been wanted by the police in Colombia, is arrested at his villa on the Atlantic coast of Honduras. 
 
 

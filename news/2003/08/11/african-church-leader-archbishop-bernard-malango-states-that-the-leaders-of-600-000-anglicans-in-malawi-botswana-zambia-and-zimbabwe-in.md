@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/11/african-church-leader-archbishop-bernard-malang
 
 ### [2003-08-11](/news/2003/08/11/index.md)
 
-##### church
+##### Church
 #  African church leader, Archbishop Bernard Malango, states that the leaders of 600,000 Anglicans in Malawi, Botswana, Zambia and Zimbabwe informed him they would could cut ties with the United States organization unless the appointment of an openly gay bishop is overturned. The Anglican Church in Kenya also demanded a reversal.
 
 

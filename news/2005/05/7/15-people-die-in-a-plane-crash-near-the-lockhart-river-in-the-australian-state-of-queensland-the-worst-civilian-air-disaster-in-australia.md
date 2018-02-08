@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/7/15-people-die-in-a-plane-crash-near-the-lockhart
 
 ### [2005-05-7](/news/2005/05/7/index.md)
 
-##### plane crash
+##### Plane crash
 #  15 people die in a plane crash near the Lockhart River in the Australian state of Queensland, the worst civilian air disaster in Australia in 36 years. 
 
 

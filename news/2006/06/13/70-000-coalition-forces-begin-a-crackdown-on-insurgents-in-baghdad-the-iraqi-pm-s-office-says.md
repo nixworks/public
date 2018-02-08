@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/13/70-000-coalition-forces-begin-a-crackdown-on-in
 
 ### [2006-06-13](/news/2006/06/13/index.md)
 
-##### coalition forces
+##### Coalition forces
 #  70,000 coalition forces begin a crackdown on insurgents in Baghdad, the Iraqi PM's office says. 
 
 

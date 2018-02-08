@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/31/the-third-pipeline-bombing-in-the-month-of-octo
 
 ### [2008-10-31](/news/2008/10/31/index.md)
 
-##### third pipeline bombing
+##### Third pipeline bombing
 #  The third pipeline bombing in the month of October targets an EnCana-operated gas pipeline near the town of Dawson Creek, British Columbia in Canada. 
 
 

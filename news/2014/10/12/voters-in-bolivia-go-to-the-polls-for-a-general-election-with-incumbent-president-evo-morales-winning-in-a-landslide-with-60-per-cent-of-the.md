@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/12/voters-in-bolivia-go-to-the-polls-for-a-general
 
 ### [2014-10-12](/news/2014/10/12/index.md)
 
-##### re-elected
+##### Re-elected
 # Voters in Bolivia go to the polls for a general election with incumbent President Evo Morales winning in a landslide with 60 per cent of the vote. 
 
 

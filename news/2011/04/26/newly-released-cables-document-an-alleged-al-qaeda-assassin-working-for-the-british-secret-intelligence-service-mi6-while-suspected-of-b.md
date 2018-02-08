@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/26/newly-released-cables-document-an-alleged-al-qa
 
 ### [2011-04-26](/news/2011/04/26/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Newly released cables document an alleged al-Qaeda "assassin" working for the British Secret Intelligence Service (MI6) while suspected of bombing Christian churches and a hotel in Pakistan. 
 
 Two reports of Wikileaks files claim an alleged al-Qaeda &quot;assassin&quot; was working for MI6 at the same time he is suspected of bombings in Pakistan, and that a London mosque was a &quot;haven&quot; for extremists.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/13/veterinarians-are-reported-to-use-vasectomies-t
 
 ### [2006-10-13](/news/2006/10/13/index.md)
 
-##### vasectomies
+##### Vasectomies
 #  Veterinarians are reported to use vasectomies to control elephant overpopulation in Africa. At Kruger National Park, their numbers have doubled in the last decade. 
 
 

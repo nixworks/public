@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/4/an-aircraft-crashes-at-domodedovo-airport-in-mos
 
 ### [2010-12-4](/news/2010/12/4/index.md)
 
-##### crashes
+##### Crashes
 # An aircraft crashes at Domodedovo airport in Moscow after undergoing multiple engine failure, with at least 2 deaths and 80 injuries. 
 
 Two people were killed and dozens injured when a Russian airliner rolled off the runway during an emergency landing at a Moscow airport on Saturday. A Tu-154 plane with 160 passengers and eight crew m

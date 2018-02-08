@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/14/american-networking-equipment-cisco-systems-ann
 
 ### [2013-08-14](/news/2013/08/14/index.md)
 
-##### networking equipment
+##### Networking equipment
 # American networking equipment Cisco Systems announces plans to cut 4000 jobs. 
 
 Network equipment maker Cisco Systems Inc is cutting 4,000 jobs, or 5 percent of its workforce, as it makes a fresh attempt to reduce costs and refocus on growth areas in the face of uncertain demand for its networking equipment.

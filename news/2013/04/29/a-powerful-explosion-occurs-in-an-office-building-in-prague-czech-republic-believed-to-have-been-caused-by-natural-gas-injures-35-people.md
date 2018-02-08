@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-buildi
 
 ### [2013-04-29](/news/2013/04/29/index.md)
 
-##### explosion
+##### Explosion
 # A powerful explosion occurs in an office building in Prague, Czech Republic, believed to have been caused by natural gas, injures 35 people. Both the nearby Faculty of Arts and Sciences building of Charles University and the National Theater also sustain damage. 
 
 

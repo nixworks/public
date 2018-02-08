@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/8/one-person-is-killed-and-several-are-injured-aft
 
 ### [2010-01-8](/news/2010/01/8/index.md)
 
-##### gunmen open fire on a bus
+##### Gunmen open fire on a bus
 # One person is killed and several are injured after gunmen open fire on a bus carrying the Togo national football team to the 2010 Africa Cup of Nations in Angola. 
 
 Togo threaten to withdraw from competition after a coach carrying the country&rsquo;s football team was attacked by gunmen.

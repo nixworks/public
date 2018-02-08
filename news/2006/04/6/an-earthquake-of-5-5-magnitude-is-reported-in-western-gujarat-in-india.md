@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/6/an-earthquake-of-5-5-magnitude-is-reported-in-we
 
 ### [2006-04-6](/news/2006/04/6/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of 5.5 magnitude is reported in Western Gujarat in India.
 
 

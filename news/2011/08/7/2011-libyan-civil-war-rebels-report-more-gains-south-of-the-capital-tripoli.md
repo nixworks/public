@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/7/2011-libyan-civil-war-rebels-report-more-gains-s
 
 ### [2011-08-7](/news/2011/08/7/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebels report more gains south of the capital Tripoli. 
 
 

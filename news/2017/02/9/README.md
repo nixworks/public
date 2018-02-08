@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/9/index.html)  [JSON](2017/02/9/index.json)  [XML](2017/
 
 ##### Syrian Civil War
 ### [At least three soldiers of the Turkish Armed Forces are accidentally killed by a Russian airstrike near al-Bab in northern Syria. ](/news/2017/02/9/at-least-three-soldiers-of-the-turkish-armed-forces-are-accidentally-killed-by-a-russian-airstrike-near-al-bab-in-northern-syria.md)
-_Context: Syrian Civil War, Turkish troops, al-Bab, Battle of al-Bab, Syria, Russia_
+_Context: Russia, Syria, Battle of al-Bab, al-Bab, Syrian Civil War, Turkish troops_
 
 ##### War in Afghanistan (2015-present)
 ### [The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. ](/news/2017/02/9/the-international-committee-of-the-red-cross-announces-it-will-be-temporarily-halting-some-of-its-operations-in-afghanistan-after-gunmen-kil.md)
@@ -13,7 +13,7 @@ Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy
 
 ##### Gaza Strip
 ### [An airstrike hits a tunnel in the Gaza Strip near the Egyptian border, killing at least two people and injuring five more. It is unclear who launched the airstrike. ](/news/2017/02/9/an-airstrike-hits-a-tunnel-in-the-gaza-strip-near-the-egyptian-border-killing-at-least-two-people-and-injuring-five-more-it-is-unclear-who.md)
-_Context: Egypt, Gaza Strip_
+_Context: Gaza Strip, Egypt_
 
 ##### Flamanville Nuclear Power Plant
 ### [A fire at the Flamanville Nuclear Power Plant in northwest France caused an explosion in a "non-nuclear" part of the station. One reactor was taken offline and five people were affected by fumes. The accident did not cause a radioactive leak. ](/news/2017/02/9/a-fire-at-the-flamanville-nuclear-power-plant-in-northwest-france-caused-an-explosion-in-a-non-nuclear-part-of-the-station-one-reactor-wa.md)
@@ -23,7 +23,7 @@ A fire caused an explosion at the Flamanville nuclear power plant in northwest F
 ### [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md)
 Here&#039;s the latest on this deadly winter storm.
 
-##### power outage
+##### Power outage
 ### [A power outage plunges the Belgian capital of Brussels into darkness. ](/news/2017/02/9/a-power-outage-plunges-the-belgian-capital-of-brussels-into-darkness.md)
 Pictures posted on social media show blacked-out streets, lit only by headlights and torches.
 

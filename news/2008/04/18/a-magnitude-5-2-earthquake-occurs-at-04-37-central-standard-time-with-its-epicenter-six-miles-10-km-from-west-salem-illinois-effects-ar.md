@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/18/a-magnitude-5-2-earthquake-occurs-at-04-37-cent
 
 ### [2008-04-18](/news/2008/04/18/index.md)
 
-##### magnitude 5.2 earthquake
+##### Magnitude 5.2 earthquake
 #  A magnitude 5.2 earthquake occurs at 04:37 Central Standard Time with its epicenter six miles (10 km) from West Salem, Illinois. Effects are felt as far off as Evansville, St. Louis, Indianapolis, Detroit and Cleveland. While shaking was reported in Chicago, St. Louis and Cincinnati, there are few reports of damage. 
 
 

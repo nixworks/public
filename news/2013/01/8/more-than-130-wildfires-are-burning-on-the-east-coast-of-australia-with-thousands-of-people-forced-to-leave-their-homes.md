@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/8/more-than-130-wildfires-are-burning-on-the-east-
 
 ### [2013-01-8](/news/2013/01/8/index.md)
 
-##### wildfire
+##### Wildfire
 # More than 130 wildfires are burning on the east coast of Australia with thousands of people forced to leave their homes. 
 
 More than 100 wildfires have broken out across Australia&#039;s east coast and forced thousands to flee their homes as the nation faces a day of &#034;catastrophic&#034; fire danger.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/27/the-death-toll-from-the-earthquakes-in-nepal-ri
 
 ### [2015-04-27](/news/2015/04/27/index.md)
 
-##### suspicions
+##### Suspicions
 # The death toll from the earthquakes in Nepal rises to more than 3,700 with reports that tens of thousands of people are homeless. There are fears that the death toll could rise to over 5,000. 
 
 

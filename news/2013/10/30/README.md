@@ -15,7 +15,7 @@ Three separate bombings targeting Iraqi government forces and an allied militia 
 ### [A suicide bomber blows himself up in the Tunisian tourist resort of Sousse and police foil another attempted attack in Habib Bourguiba's tomb in Monastir. No casualties are reported. ](/news/2013/10/30/a-suicide-bomber-blows-himself-up-in-the-tunisian-tourist-resort-of-sousse-and-police-foil-another-attempted-attack-in-habib-bourguiba-s-tom.md)
 A suicide bomber blew himself up in the Tunisian tourist resort of Sousse on Wednesday, the first such assault in more than a decade in a country now battling Islamist militants boosted by chaos in neighboring Libya.
 
-##### bus fuel tank catches fire
+##### Bus fuel tank catches fire
 ### [Forty-four people die after a bus fuel tank catches fire in the Indian city of Mahbubnagar near Hyderabad. ](/news/2013/10/30/forty-four-people-die-after-a-bus-fuel-tank-catches-fire-in-the-indian-city-of-mahbubnagar-near-hyderabad.md)
 At least 44 people died when a bus headed from Bangalore to Hyderabad went up in flames early this morning.
 
@@ -25,7 +25,7 @@ Israel freed 26 Palestinian prisoners on Wednesday, the second stage of a limite
 
 ##### Mongolia
 ### [Mongolian president Tsakhiagiin Elbegdorj visits North Korea and becomes the first head of state to meet with Kim Jong-un since Kim's taking office as Supreme Leader. ](/news/2013/10/30/mongolian-president-tsakhiagiin-elbegdorj-visits-north-korea-and-becomes-the-first-head-of-state-to-meet-with-kim-jong-un-since-kim-s-taking.md)
-_Context: leader, head of state, Kim Jong-un, Mongolia, President of Mongolia, North Korea, Tsakhiagiin Elbegdorj_
+_Context: head of state, Mongolia, leader, President of Mongolia, Kim Jong-un, North Korea, Tsakhiagiin Elbegdorj_
 
 ##### China
 ### [Chinese police arrest five suspects in connection to the Tiananmen square suicide attack. ](/news/2013/10/30/chinese-police-arrest-five-suspects-in-connection-to-the-tiananmen-square-suicide-attack.md)

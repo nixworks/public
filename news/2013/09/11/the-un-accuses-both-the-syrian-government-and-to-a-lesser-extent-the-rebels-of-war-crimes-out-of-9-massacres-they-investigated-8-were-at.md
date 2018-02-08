@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/11/the-un-accuses-both-the-syrian-government-and-t
 
 ### [2013-09-11](/news/2013/09/11/index.md)
 
-##### war crime
+##### War crime
 # The UN accuses both the Syrian government and, to a lesser extent, the rebels of war crimes. Out of 9 massacres they investigated, 8 were attributed to the Syrian Army. The remaining massacre was attributed to insurgents. 
 
 Investigators say government forces and rebel fighters have killed, tortured and raped on a huge scale.

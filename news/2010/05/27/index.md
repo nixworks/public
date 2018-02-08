@@ -3,11 +3,11 @@ Formats: [HTML](2010/05/27/index.html)  [JSON](2010/05/27/index.json)  [XML](201
 
 ## [2010-05-27](/news/2010/05/27/index.md)
 
-##### recent violence
+##### Recent violence
 ### [The death toll in the recent violence in Jamaica jumps to 73, and 44 in west Kingston alone. ](/news/2010/05/27/the-death-toll-in-the-recent-violence-in-jamaica-jumps-to-73-and-44-in-west-kingston-alone.md)
 Whereabouts of alleged drug kingpin still unknown as security forces continue hunt.
 
-##### a bomb explodes
+##### A bomb explodes
 ### [At least seven people die and at least 40 others are injured after a bomb explodes before a performance in Stavropol. ](/news/2010/05/27/at-least-seven-people-die-and-at-least-40-others-are-injured-after-a-bomb-explodes-before-a-performance-in-stavropol.md)
 The death toll in a bombing in the southern Russia city of Stavropol has risen to seven, Russian officials say.
 
@@ -17,7 +17,7 @@ _Context: Deepwater Horizon oil spill, Alaska, Exxon Valdez_
 
 ##### Yemen
 ### [A US-born Yemenite cleric linked to Al-Qaeda, Anwar Al-Awlaki, advocates the killing of US civilians in a new Al Qaeda video. ](/news/2010/05/27/a-us-born-yemenite-cleric-linked-to-al-qaeda-anwar-al-awlaki-advocates-the-killing-of-us-civilians-in-a-new-al-qaeda-video.md)
-_Context: Anwar Al-Awlaki, al-Qaeda, Yemen_
+_Context: Yemen, Anwar Al-Awlaki, al-Qaeda_
 
 ##### LGBT rights
 ### [Two campaigners for LGBT rights in Zimbabwe are freed after spending six days in custody on charges of possessing pornographic material and insulting President Robert Mugabe. ](/news/2010/05/27/two-campaigners-for-lgbt-rights-in-zimbabwe-are-freed-after-spending-six-days-in-custody-on-charges-of-possessing-pornographic-material-and.md)
@@ -73,7 +73,7 @@ _Context: Spain_
 
 ##### French Polynesia
 ### [French Polynesia Vice President Edouard Fritch is arrested in a bribery probe. ](/news/2010/05/27/french-polynesia-vice-president-edouard-fritch-is-arrested-in-a-bribery-probe.md)
-_Context: Vice President, bribes, Edouard Fritch, French Polynesia_
+_Context: bribes, French Polynesia, Vice President, Edouard Fritch_
 
 ##### Peter James Bethune
 ### [Peter James Bethune, a New Zealand anti-whaling campaigner, pleads guilty to four charges over his alleged attacks on the Japanese whaling vessel MV "Shonan Maru 2" in February. ](/news/2010/05/27/peter-james-bethune-a-new-zealand-anti-whaling-campaigner-pleads-guilty-to-four-charges-over-his-alleged-attacks-on-the-japanese-whaling-v.md)
@@ -83,7 +83,7 @@ New Zealand anti-whaling activist Peter Bethune has pleaded guilty to four charg
 ### [The first launch of the SpaceX Falcon 9 rocket from Cape Canaveral Air Force Station is delayed to no earlier than June 2, 2010, due to delays in a Delta IV GPS satellite launch. ](/news/2010/05/27/the-first-launch-of-the-spacex-falcon-9-rocket-from-cape-canaveral-air-force-station-is-delayed-to-no-earlier-than-june-2-2010-due-to-dela.md)
 The inaugural test launch of a new commercial rocket has slipped from May 28 to no earlier than June 2, according to its builder Space Exploration Technologies (SpaceX).
 
-##### former winner
+##### Former winner
 ### [Ten acts, including former winner Niamh Kavanagh, progress to the final of Eurovision Song Contest 2010 in Baerum, Oslo. Sweden fails to qualify for the first time in its history. ](/news/2010/05/27/ten-acts-including-former-winner-niamh-kavanagh-progress-to-the-final-of-eurovision-song-contest-2010-in-ba-rum-oslo-sweden-fails-to-qua.md)
 Though her voice did not sound as strong as in rehearsals, the former winner looked confident and happy on stage at the Telenor&hellip;
 

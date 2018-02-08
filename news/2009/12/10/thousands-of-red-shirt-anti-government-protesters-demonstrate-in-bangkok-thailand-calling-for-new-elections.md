@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/10/thousands-of-red-shirt-anti-government-proteste
 
 ### [2009-12-10](/news/2009/12/10/index.md)
 
-##### red shirt
+##### Red shirt
 #  Thousands of "red shirt" anti-government protesters demonstrate in Bangkok, Thailand, calling for new elections. 
 
 

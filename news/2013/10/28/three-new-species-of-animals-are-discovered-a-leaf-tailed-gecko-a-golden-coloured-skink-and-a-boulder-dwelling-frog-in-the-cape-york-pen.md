@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/28/three-new-species-of-animals-are-discovered-a-l
 
 ### [2013-10-28](/news/2013/10/28/index.md)
 
-##### gecko
+##### Gecko
 # Three new species of animals are discovered (a leaf-tailed gecko, a golden-coloured skink, and a boulder-dwelling frog) in the Cape York Peninsula of the Australian state of Queensland. 
 
 

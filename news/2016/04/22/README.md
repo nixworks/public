@@ -9,11 +9,11 @@ THE forthcoming May 9 national and local elections have prompted the Foreign and
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports that airstrikes have killed at least seven people in Aleppo. ](/news/2016/04/22/the-syrian-observatory-for-human-rights-reports-that-airstrikes-have-killed-at-least-seven-people-in-aleppo.md)
-_Context: Aleppo, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Syrian Civil War, Syrian Observatory for Human Rights, Aleppo_
 
 ##### Iraqi Civil War (2014-present)
 ### [A suicide bomber kills at least nine people at a Shi'ite mosque in southwestern Baghdad. A second attacker was shot dead by security forces before he could detonate his explosives. ](/news/2016/04/22/a-suicide-bomber-kills-at-least-nine-people-at-a-shi-ite-mosque-in-southwestern-baghdad-a-second-attacker-was-shot-dead-by-security-forces.md)
-_Context: Baghdad, Iraqi Civil War (2014-present), Shia_
+_Context: Baghdad, Shia, Iraqi Civil War (2014-present)_
 
 ##### U.S. military
 ### [The United States admits it has killed 20 civilians and wounded 11 others in airstrikes in Syria and Iraq between September 10, 2015, and February 2, 2016. ](/news/2016/04/22/the-united-states-admits-it-has-killed-20-civilians-and-wounded-11-others-in-airstrikes-in-syria-and-iraq-between-september-10-2015-and-fe.md)
@@ -61,7 +61,7 @@ MEXICO CITY (AP) — Searchers recovered four more bodies from a petrochemical p
 
 ##### United Kingdom withdrawal from the European Union
 ### [Mayor of London and cabinet member Boris Johnson says that U.S. President Barack Obama is "inconsistent and hypocritical" in persuading the British people to remain in the European Union. ](/news/2016/04/22/mayor-of-london-and-cabinet-member-boris-johnson-says-that-u-s-president-barack-obama-is-inconsistent-and-hypocritical-in-persuading-the.md)
-_Context: Barack Obama, Boris Johnson, European Union, United States, Mayor of London, United Kingdom withdrawal from the European Union_
+_Context: Mayor of London, United Kingdom withdrawal from the European Union, European Union, Barack Obama, Boris Johnson, United States_
 
 ##### Taiwan-United States relations
 ### [The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. ](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unanimously-passes-a-resolution-reaffirming-the-taiwan-relations-act-and-the-six-assurances.md)
@@ -73,7 +73,7 @@ Records are set to be broken as 168 countries line up to sign the historic UN Pa
 
 ##### NATO-Russia relations
 ### [U.S. General Curtis Scaparrotti, the incoming head of the United States military forces in Europe, says he supports a permanent brigade-sized presence of U.S. combat troops in Eastern Europe to deter Russia's expanded and assertive actions. ](/news/2016/04/22/u-s-general-curtis-scaparrotti-the-incoming-head-of-the-united-states-military-forces-in-europe-says-he-supports-a-permanent-brigade-size.md)
-_Context: United States military personnel, Europe, Cold War II, Curtis Scaparrotti, NATO-Russia relations, United States, Eastern Europe, Russia_
+_Context: Eastern Europe, United States military personnel, NATO-Russia relations, Curtis Scaparrotti, United States, Russia, Cold War II, Europe_
 
 ##### Belizean-Guatemalan territorial dispute
 ### [Belize accuses Guatemala of "amassing" troops on the disputed Belize-Guatemala border following the death of a teenage Guatemalan boy in a shooting incident apparently involving Belize Defence Force soldiers. Guatemalan President Jimmy Morales called the shooting a "cowardly and excessive attack" that merits the "total condemnation of the Guatemalan state". ](/news/2016/04/22/belize-accuses-guatemala-of-amassing-troops-on-the-disputed-belizeaguatemala-border-following-the-death-of-a-teenage-guatemalan-boy-in-a.md)
@@ -97,7 +97,7 @@ RICHMOND, Va. (AP) — More than 200,000 convicted felons will be able to cast b
 
 ##### 2016 Macedonian protests
 ### [The European Union announces it is considering imposing sanctions on Macedonia's leaders for reneging on an agreement last year to investigate corruption in the ruling class and issuing an amnesty instead to those involved. ](/news/2016/04/22/the-european-union-announces-it-is-considering-imposing-sanctions-on-macedonia-s-leaders-for-reneging-on-an-agreement-last-year-to-investiga.md)
-_Context: 2016 Macedonian protests, European Union, Republic of Macedonia_
+_Context: 2016 Macedonian protests, Republic of Macedonia, European Union_
 
 ##### Sudan
 ### [Thousands of Sudanese students take to the streets around the University of Kordofan in Khartoum and other parts of the country to protest the recent killing of students last Monday. Security forces opened fire on a peaceful protest, killing many students after they attempted to nominate pro-opposition candidates for their campus elections. ](/news/2016/04/22/thousands-of-sudanese-students-take-to-the-streets-around-the-university-of-kordofan-in-khartoum-and-other-parts-of-the-country-to-protest-t.md)
@@ -113,13 +113,13 @@ It’s at the mouth of the Amazon River.
 
 ##### China
 ### [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md)
-_Context: China, Mars, China National Space Administration_
+_Context: China National Space Administration, Mars, China_
 
 ##### Energy development
 ### [The Alaska SeaLife Center (Seward, Alaska) announces that 98 percent of the center's heating and cooling now comes from low-cost, alternative energy derived from seawater. ](/news/2016/04/22/the-alaska-sealife-center-seward-alaska-announces-that-98-percent-of-the-center-s-heating-and-cooling-now-comes-from-low-cost-alternativ.md)
 Alaska SeaLife Center converts the use of fossil fuel into renewable seawater system for the heating and cooling needs of the center. The offices and labs within its building use almost 98 percent of low-cost renewable energy from the ocean.
 
-##### quantum tunneling of water molecules
+##### Quantum tunneling of water molecules
 ### [Scientists discover the quantum tunneling of water molecules. ](/news/2016/04/22/scientists-discover-the-quantum-tunneling-of-water-molecules.md)
 Neutron scattering and computational modeling have revealed unique and unexpected behavior of water molecules under extreme confinement that is unmatched by any known gas, liquid or solid states.
 

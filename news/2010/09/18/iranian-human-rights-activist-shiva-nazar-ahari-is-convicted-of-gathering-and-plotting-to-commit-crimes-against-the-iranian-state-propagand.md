@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/18/iranian-human-rights-activist-shiva-nazar-ahari
 
 ### [2010-09-18](/news/2010/09/18/index.md)
 
-##### human rights
+##### Human rights
 # Iranian human rights activist Shiva Nazar Ahari is convicted of gathering and plotting to commit crimes against the Iranian state, propaganda against the establishment and waging war against God. 
 
 Shiva Nazar Ahari sentenced to six years in prison for plotting crimes against state and waging war against God.

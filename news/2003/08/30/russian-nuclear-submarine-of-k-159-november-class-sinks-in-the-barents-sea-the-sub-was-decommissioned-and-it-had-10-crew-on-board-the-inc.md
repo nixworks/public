@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/30/russian-nuclear-submarine-of-k-159-november-cla
 
 ### [2003-08-30](/news/2003/08/30/index.md)
 
-##### nuclear reactor
+##### Nuclear reactor
 #  Russian nuclear submarine of K-159 November class sinks in the Barents Sea. The sub was decommissioned and it had 10 crew on board. The incident comes three years after Russia's worst peacetime naval disaster when all 118 crew of the nuclear submarine Kursk died when it sank in the Barents Sea on August 12, 2000. Environmental organizations say that the submarine could be dangerous for fishes, because radioactive material could leak to the sea from its two nuclear reactors.
 
 

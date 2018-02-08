@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/9/following-a-recent-referendum-the-portuguese-par
 
 ### [2007-03-9](/news/2007/03/9/index.md)
 
-##### referendum
+##### Referendum
 #  Following a recent referendum, the Portuguese Parliament votes to legalise abortion until the tenth week of pregnancy. 
 
 

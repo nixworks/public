@@ -3,13 +3,13 @@ Formats: [HTML](2011/08/25/index.html)  [JSON](2011/08/25/index.json)  [XML](201
 
 ## [2011-08-25](/news/2011/08/25/index.md)
 
-##### attack on a casino
+##### Attack on a casino
 ### [More than 50 people are killed in an attack on a casino in Monterrey, Nuevo Len, Mexico. ](/news/2011/08/25/more-than-50-people-are-killed-in-an-attack-on-a-casino-in-monterrey-nuevo-leon-mexico.md)
 Armed men set fire to a casino in the northern Mexican city of Monterrey, killing more than 50 people.
 
 ##### Libya
 ### [Libya's National Transitional Council announces plans to move its headquarters to Tripoli following the capture of the city from Muammar Gaddafi. ](/news/2011/08/25/libya-s-national-transitional-council-announces-plans-to-move-its-headquarters-to-tripoli-following-the-capture-of-the-city-from-muammar-gad.md)
-_Context: National Transitional Council, Libya, Muammar Gaddafi, Tripoli_
+_Context: National Transitional Council, Muammar Gaddafi, Libya, Tripoli_
 
 ##### Gaza Strip
 ### [17 rockets and mortars are fired from Gaza at southwestern Israeli cities. 2 people, one of them a nine-month-old baby, are hurt in the attack. ](/news/2011/08/25/17-rockets-and-mortars-are-fired-from-gaza-at-southwestern-israeli-cities-2-people-one-of-them-a-nine-month-old-baby-are-hurt-in-the-atta.md)
@@ -21,7 +21,7 @@ _Context: political cartoonist, Bashar Assad's, Ali Farzat, President, Syria_
 
 ##### Berkshire Hathaway Inc.
 ### [Berkshire Hathaway, the conglomerate headed by Warren Buffett, announces a plan to invest $5 billion in Bank of America. ](/news/2011/08/25/berkshire-hathaway-the-conglomerate-headed-by-warren-buffett-announces-a-plan-to-invest-5-billion-in-bank-of-america.md)
-_Context: Berkshire Hathaway Inc., Warren Buffett, Bank of America_
+_Context: Bank of America, Berkshire Hathaway Inc., Warren Buffett_
 
 ##### Zimbabwe
 ### [At least 19 people are feared dead in Zimbabwe after a haulage truck and bus collide ](/news/2011/08/25/at-least-19-people-are-feared-dead-in-zimbabwe-after-a-haulage-truck-and-bus-collide.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/28/united-states-presidential-election-2008-senato
 
 ### [2007-02-28](/news/2007/02/28/index.md)
 
-##### presidential candidate
+##### Presidential candidate
 #  United States Presidential Election, 2008: Senator John McCain (R- AZ) announces his candidacy for president on the "Late Show with David Letterman". 
 
 

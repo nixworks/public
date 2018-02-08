@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/6/about-800-pages-of-the-earliest-surviving-christ
 
 ### [2009-07-6](/news/2009/07/6/index.md)
 
-##### earliest surviving
+##### Earliest surviving
 #  About 800 pages of the earliest surviving Christian Bible are displayed on the internet. 
 
 

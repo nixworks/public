@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/15/the-u-s-bankruptcy-court-for-manhattan-approved
 
 ### [2004-07-15](/news/2004/07/15/index.md)
 
-##### bankruptcy
+##### Bankruptcy
 #  The U.S. bankruptcy court for Manhattan approved the reorganization plan of notorious energy-trading company Enron, which is now likely to formally emerge from chapter 11 later this year. 
 
 

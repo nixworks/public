@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/4/a-suicide-bomber-kills-at-least-12-people-and-in
 
 ### [2012-04-4](/news/2012/04/4/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least 12 people and injures many more in Afghanistan's Faryab province. 
 
 A suicide bomber on Wednesday killed at least 12 people and injured many more in the Faryab province in northern Afghanistan, a Norwegian armed forces&#039; spokesman told AFP.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/24/at-least-15-people-are-killed-and-90-injured-in
 
 ### [2009-02-24](/news/2009/02/24/index.md)
 
-##### heavy fighting
+##### Heavy fighting
 #  At least 15 people are killed and 90 injured in heavy fighting in Mogadishu, Somalia. 
 
 

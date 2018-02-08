@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/30/a-wildfire-forces-the-evacuation-of-thousands-o
 
 ### [2010-07-30](/news/2010/07/30/index.md)
 
-##### wildfire
+##### Wildfire
 # A wildfire forces the evacuation of thousands of homes in Palmdale California, United States. 
 
 

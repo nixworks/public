@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/6/the-first-execution-by-lethal-injection-is-offic
 
 ### [2013-08-6](/news/2013/08/6/index.md)
 
-##### first execution
+##### First execution
 # The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh TuCNYn is executed in Hanoi. 
 
 

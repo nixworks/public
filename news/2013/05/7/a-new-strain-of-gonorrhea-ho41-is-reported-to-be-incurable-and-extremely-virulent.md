@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/7/a-new-strain-of-gonorrhea-ho41-is-reported-to-be
 
 ### [2013-05-7](/news/2013/05/7/index.md)
 
-##### gonorrhea
+##### Gonorrhea
 # A new strain of gonorrhea, HO41, is reported to be incurable and extremely virulent. 
 
 Doctors are warning of a new sexually-transmitted superbug which they fear could ultimately prove to be even more deadly than AIDS.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/1/a-person-claiming-to-be-a-member-of-anonymous-ta
 
 ### [2013-11-1](/news/2013/11/1/index.md)
 
-##### hacker group Anonymous
+##### Hacker group Anonymous
 # A person claiming to be a member of Anonymous takes down the website for Singaporean newspaper "The Straits Times". 
 
 The website of the Singaporean paper, The Straits Times, is hacked by someone who claims to be a part of the hacking collective Anonymous.

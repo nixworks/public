@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/28/art-historian-henry-adams-claims-abstract-impre
 
 ### [2009-09-28](/news/2009/09/28/index.md)
 
-##### abstract impressionist
+##### Abstract impressionist
 #  Art historian Henry Adams claims abstract impressionist Jackson Pollock camouflaged his signature as a "hidden message" inside his famous 1943 "Mural". 
 
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.

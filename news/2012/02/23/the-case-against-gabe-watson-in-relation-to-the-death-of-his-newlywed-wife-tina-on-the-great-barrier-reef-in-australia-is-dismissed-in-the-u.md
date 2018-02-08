@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/23/the-case-against-gabe-watson-in-relation-to-the
 
 ### [2012-02-23](/news/2012/02/23/index.md)
 
-##### death of his newlywed wife Tina
+##### Death of his newlywed wife Tina
 # The case against Gabe Watson in relation to the death of his newlywed wife Tina on the Great Barrier Reef in Australia is dismissed in the US state of Alabama. 
 
 

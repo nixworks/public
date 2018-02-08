@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-
 
 ### [2017-09-16](/news/2017/09/16/index.md)
 
-##### secession
+##### Secession
 # More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. 
 
 More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to confirm their support for a planned independence referendum that Madrid has declared illegal.

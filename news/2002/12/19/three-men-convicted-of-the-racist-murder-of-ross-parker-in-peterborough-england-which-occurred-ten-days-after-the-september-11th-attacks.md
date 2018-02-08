@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/12/19/three-men-convicted-of-the-racist-murder-of-ros
 
 ### [2002-12-19](/news/2002/12/19/index.md)
 
-##### murder of Ross Parker
+##### Murder of Ross Parker
 # Three men convicted of the racist murder of Ross Parker in Peterborough, England, which occurred ten days after the September 11th attacks.
 
 

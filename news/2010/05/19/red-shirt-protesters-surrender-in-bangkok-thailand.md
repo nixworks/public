@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/19/red-shirt-protesters-surrender-in-bangkok-thail
 
 ### [2010-05-19](/news/2010/05/19/index.md)
 
-##### red shirt
+##### Red shirt
 # Red shirt protesters surrender in Bangkok, Thailand. 
 
 Bangkok and about a third of the rest of Thailand spend a first night under curfew after protest leaders surrender.

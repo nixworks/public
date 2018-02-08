@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/29/prison-officers-in-the-united-kingdom-call-a-su
 
 ### [2007-08-29](/news/2007/08/29/index.md)
 
-##### prison guards
+##### Prison guards
 #  Prison officers in the United Kingdom call a surprise 24-hour strike. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

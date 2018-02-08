@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/30/6-major-u-s-tobacco-companies-accused-of-delive
 
 ### [2011-04-30](/news/2011/04/30/index.md)
 
-##### tobacco companies
+##### Tobacco companies
 # 6 major U.S. tobacco companies, accused of delivering an "unreasonably dangerous" product, defeat a lawsuit taken by 37 hospitals in the U.S. state of Missouri. The hospitals were looking for financial assistance with the treatment of illnesses caused by smoking. 
 
 Six major US tobacco companies defeat a lawsuit filed by hospitals seeking financial compensation for treating sick smokers.

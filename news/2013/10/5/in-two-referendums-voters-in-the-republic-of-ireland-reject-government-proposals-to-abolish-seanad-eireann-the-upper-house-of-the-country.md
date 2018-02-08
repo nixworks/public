@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/5/in-two-referendums-voters-in-the-republic-of-ire
 
 ### [2013-10-5](/news/2013/10/5/index.md)
 
-##### two referendums
+##### Two referendums
 # In two referendums, voters in the Republic of Ireland reject government proposals to abolish Seanad ireann, the upper house of the country's parliament, but support plans to create a Court of Appeal. 
 
 Voters in the Republic of Ireland have rejected a government proposal to abolish the Irish Seanad (upper house of parliament).

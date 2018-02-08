@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/5/the-government-of-moldova-falls-in-a-confidence-
 
 ### [2013-03-5](/news/2013/03/5/index.md)
 
-##### government of Moldova
+##### Government of Moldova
 # The government of Moldova falls in a confidence vote after the government coalition broke down. 
 
 

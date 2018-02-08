@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/1/parents-kill-their-15-year-old-daughter-in-an-ah
 
 ### [2012-11-1](/news/2012/11/1/index.md)
 
-##### stoned to death
+##### Stoned to death
 # Parents kill their 15-year-old daughter in an "honour killing" by pouring acid on her after seeing her talking to a young man, in Azad Kashmir, Pakistan. 
 
 A couple in Pakistani-administered Kashmir are arrested for murdering their teenaged daughter in an acid attack honour killing, police say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/20/a-series-of-severe-sandstorms-hit-north-china-a
 
 ### [2010-03-20](/news/2010/03/20/index.md)
 
-##### sandstorm
+##### Sandstorm
 # A series of severe sandstorms hit north China, affecting the regions of Xinjiang and Inner Mongolia and the provinces of Shanxi, Shaanxi and Hebei. 
 
 

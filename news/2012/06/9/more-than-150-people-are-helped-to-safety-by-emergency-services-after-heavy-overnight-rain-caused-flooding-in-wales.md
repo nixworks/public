@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/9/more-than-150-people-are-helped-to-safety-by-eme
 
 ### [2012-06-9](/news/2012/06/9/index.md)
 
-##### emergency services
+##### Emergency services
 # More than 150 people are helped to safety by emergency services after heavy overnight rain caused flooding in Wales. 
 
 Residents caught up in severe overnight flooding in mid Wales speak of the speed the floods hit.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/23/relatives-protest-about-the-recent-mine-disaste
 
 ### [2009-11-23](/news/2009/11/23/index.md)
 
-##### mine disaster
+##### Mine disaster
 #  Relatives protest about the recent mine disaster in China. 
 
 Relatives of the 104 people killed in a gas blast at a coal mine in northeast China have demanded answers from the owners.

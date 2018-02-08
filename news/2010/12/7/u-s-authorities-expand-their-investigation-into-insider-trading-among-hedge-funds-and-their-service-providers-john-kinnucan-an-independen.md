@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/7/u-s-authorities-expand-their-investigation-into-
 
 ### [2010-12-7](/news/2010/12/7/index.md)
 
-##### insider trading
+##### Insider trading
 # U.S. authorities expand their investigation into insider trading among hedge funds and their service providers. John Kinnucan, an independent researcher for hedge funds, told Reuters that he expects the Federal Bureau of Investigation will at some point arrest him, "That's just how they operate." 
 
 * US sends more than 12 subpoenas to hedge funds, others * Recipients may include more names on Kinnucan email * Probe focuses on use of e

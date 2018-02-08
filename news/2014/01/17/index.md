@@ -11,11 +11,11 @@ _Context: Bangkok_
 ### [At least three people are killed and fifteen are injured after an explosion in a passenger train travelling from Peshawar to Karachi. ](/news/2014/01/17/at-least-three-people-are-killed-and-fifteen-are-injured-after-an-explosion-in-a-passenger-train-travelling-from-peshawar-to-karachi.md)
 At least three persons were killed and 15 others injured today when a blast hit a passenger train, derailing its seven coaches in central Pakistan. The blast derailed coaches of the Khushhal Khan Khattak Express train, two of which were overturned,
 
-##### Lebanon
+##### Lebanese
 ### [A rocket fired into the Lebanese border town of Arsal kills seven people and wounds 15. ](/news/2014/01/17/a-rocket-fired-into-the-lebanese-border-town-of-arsal-kills-seven-people-and-wounds-15.md)
-_Context: Lebanon, Arsal_
+_Context: Arsal, Lebanese_
 
-##### suicide bombing
+##### Suicide bombing
 ### [Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. ](/news/2014/01/17/twenty-one-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-restaurant.md)
 _Context: suicide bombing, Kabul_
 
@@ -25,17 +25,17 @@ At least four people were killed as clashes between Muslim Brotherhood supporter
 
 ##### Japanese
 ### [One of the last Japanese soldiers to surrender from World War II, Hiroo Onoda, who surrendered in the Philippines in 1974, dies at the age of 91. ](/news/2014/01/17/one-of-the-last-japanese-soldiers-to-surrender-from-world-war-ii-hiroo-onoda-who-surrendered-in-the-philippines-in-1974-dies-at-the-age-o.md)
-_Context: World War II, Japanese, Hiroo Onoda, Philippines_
+_Context: World War II, Hiroo Onoda, Japanese, Philippines_
 
 ##### Zara Phillips
 ### [Zara Phillips, granddaughter of Queen Elizabeth II gives birth to a daughter. ](/news/2014/01/17/zara-phillips-granddaughter-of-queen-elizabeth-ii-gives-birth-to-a-daughter.md)
-_Context: Elizabeth II, Zara Phillips_
+_Context: Zara Phillips, Elizabeth II_
 
 ##### Yoweri Museveni
 ### [President Yoweri Museveni refuses to sign a Ugandan bill that would criminalize homosexuality saying that they should instead be rehabilitated. ](/news/2014/01/17/president-yoweri-museveni-refuses-to-sign-a-ugandan-bill-that-would-criminalize-homosexuality-saying-that-they-should-instead-be-rehabilitat.md)
-_Context: Uganda, homosexuality, Yoweri Museveni_
+_Context: homosexuality, Uganda, Yoweri Museveni_
 
-##### pelvis
+##### Pelvis
 ### [A fragment of pelvis bone unearthed in Winchester in 1999 may belong to King Alfred the Great or his son Edward the Elder. ](/news/2014/01/17/a-fragment-of-pelvis-bone-unearthed-in-winchester-in-1999-may-belong-to-king-alfred-the-great-or-his-son-edward-the-elder.md)
 A fragment of bone unearthed in 1999 could be the remains of King Alfred the Great or his son Edward the Elder, experts say.
 
@@ -49,7 +49,7 @@ Arson investigators were at the scene of a wildfire near Los Angeles that explod
 
 ##### California
 ### [California Governor Jerry Brown declares a drought emergency and asks residents of the state to voluntarily conserve water. ](/news/2014/01/17/california-governor-jerry-brown-declares-a-drought-emergency-and-asks-residents-of-the-state-to-voluntarily-conserve-water.md)
-_Context: California, Governor of California, Jerry Brown, drought_
+_Context: Jerry Brown, Governor of California, drought, California_
 
 ##### Muslim
 ### [A stampede at the home of Muslim religious leader Mohammed Burhanuddin in the Indian city of Mumbai results in 18 deaths. ](/news/2014/01/17/a-stampede-at-the-home-of-muslim-religious-leader-mohammed-burhanuddin-in-the-indian-city-of-mumbai-results-in-18-deaths.md)
@@ -63,13 +63,13 @@ _Context: Barack Obama, National Security Agency_
 ### [Australia apologizes to Indonesia for breaching its territorial waters while conducting operations against people smugglers in Operation Sovereign Borders. ](/news/2014/01/17/australia-apologizes-to-indonesia-for-breaching-its-territorial-waters-while-conducting-operations-against-people-smugglers-in-operation-sov.md)
 The Abbott government has admitted Australia breached Indonesian territorial waters during operations to deter asylum seeker boats.
 
-##### executed in the United States
+##### Executed in the United States
 ### [A controversy regarding capital punishment in the United States erupts after the execution of Ohio killer Denis McGuire took 25 minutes. ](/news/2014/01/17/a-controversy-regarding-capital-punishment-in-the-united-states-erupts-after-the-execution-of-ohio-killer-denis-mcguire-took-25-minutes.md)
 US lawyers are to challenge the drugs used in executions in Ohio after a murderer took 25 minutes to die from a new lethal cocktail.
 
 ##### Philadelphia
 ### [Two students, a male and a female in stable condition, are each shot in the arm by an at-large gunman, who may be a student, at Philadelphia, Pennsylvania's Delaware Valley Charter School high school. ](/news/2014/01/17/two-students-a-male-and-a-female-in-stable-condition-are-each-shot-in-the-arm-by-an-at-large-gunman-who-may-be-a-student-at-philadelphia.md)
-_Context: Philadelphia, Delaware Valley Charter School, Pennsylvania_
+_Context: Philadelphia, Pennsylvania, Delaware Valley Charter School_
 
 ## [Previous Day...](/news/2014/01/16/index.md)
 

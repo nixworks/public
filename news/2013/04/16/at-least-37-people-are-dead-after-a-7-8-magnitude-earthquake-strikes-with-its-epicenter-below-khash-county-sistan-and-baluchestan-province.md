@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/16/at-least-37-people-are-dead-after-a-7-8-magnitu
 
 ### [2013-04-16](/news/2013/04/16/index.md)
 
-##### magnitude
+##### Magnitude
 # At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. 
 
 Iran is hit by a 7.8-magnitude earthquake, the most powerful for more than 50 years, with tremors felt across Pakistan, India and the Middle East.

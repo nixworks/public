@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/6/one-person-is-killed-and-five-are-injured-during
 
 ### [2009-11-6](/news/2009/11/6/index.md)
 
-##### a shooting
+##### A shooting
 #  One person is killed and five are injured during a shooting in an office building in Orlando, Florida, USA. 
 
 An ex-employee of an engineering consulting firm who was laid off in 2007 opened fire at his former workplace in Orlando, Florida, on Friday, killing one person and wounding five others, police said.
@@ -21,4 +21,4 @@ An ex-employee of an engineering consulting firm who was laid off in 2007 opened
 2. [James Seevakumaran, a 30-year-old student at the University of Central Florida, pulls the fire alarm and plans to attack the school. Instead, after brandishing a gun at another student, he commits suicide in his dorm in Orlando, Florida, United States. The entire campus is evacuated when improvised explosive devices are found in the room. ](/news/2013/03/18/james-seevakumaran-a-30-year-old-student-at-the-university-of-central-florida-pulls-the-fire-alarm-and-plans-to-attack-the-school-instead.md) _Context: Orlando, Florida, United States_
 3. [ Tiger Woods, the world's number one golfer, is hospitalised after sustaining injuries in a car crash in Orlando, Florida, USA. ](/news/2009/11/27/tiger-woods-the-world-s-number-one-golfer-is-hospitalised-after-sustaining-injuries-in-a-car-crash-in-orlando-florida-usa.md) _Context: Orlando, Florida, United States_
 4. [ Human remains discovered in a plastic bag in southeast Orlando, Florida, United States, are believed to be the remains of missing child Caylee Anthony. Confirmation is not expected for weeks. ](/news/2008/12/11/human-remains-discovered-in-a-plastic-bag-in-southeast-orlando-florida-united-states-are-believed-to-be-the-remains-of-missing-child-cay.md) _Context: Orlando, Florida, United States_
-5. [Former President of the Maldives Mohamed Nasheed has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-has-called-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the.md) _Context: United States_
+5. [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as CEO of Wynn Resorts following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/02/6/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-ceo-of-wynn-resorts-following-sexual.md) _Context: United States_

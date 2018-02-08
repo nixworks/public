@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/26/hundreds-of-sympathizers-attend-the-funeral-pro
 
 ### [2017-08-26](/news/2017/08/26/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Hundreds of sympathizers attend the funeral procession of a teenager killed allegedly due to the ongoing drug purge in the Philippines. 
 
 Kian Loyd de los Santos, the 17-year-old killed by anti-narcotics agents as he knelt face down in a dark and dirty alleyway, sparking public outrage over President Rodrigo Duterte’s bloody war on drugs, was buried at 2pm on Saturday (Aug 25).. Read more at straitstimes.com.

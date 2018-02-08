@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/12/three-people-are-dead-and-11-are-wounded-in-a-s
 
 ### [2013-02-12](/news/2013/02/12/index.md)
 
-##### stabbed
+##### Stabbed
 # Three people are dead and 11 are wounded in a stabbing attack on the U.S. territory island of Guam. 
 
 

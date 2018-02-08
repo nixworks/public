@@ -5,9 +5,9 @@ Formats: [HTML](2013/01/8/index.html)  [JSON](2013/01/8/index.json)  [XML](2013/
 
 ##### U.S.
 ### [Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md)
-_Context: U.S., North Waziristan, drone strike, Pakistan_
+_Context: Pakistan, North Waziristan, U.S., drone strike_
 
-##### protests
+##### Protests
 ### [In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. ](/news/2013/01/8/in-a-fifth-night-of-protests-in-belfast-protestors-throw-rocks-missiles-and-petrol-bombs-at-police-with-law-enforcement-responding-wit.md)
 Police fired plastic bullets during a fifth night of rioting in Belfast over a decision to reduce the days when the union flag is flown at Belfast City Hall.
 
@@ -27,25 +27,25 @@ M23 rebels declare a unilateral ceasefire ahead of a new round of peace talks wi
 ### [AIG, the insurance giant that has recently paid the U.S. treasury back funds it received on "too big to fail" grounds in 2008, says that it may join a lawsuit against the U.S. for the supposedly harsh nature of the bailout terms. ](/news/2013/01/8/aig-the-insurance-giant-that-has-recently-paid-the-u-s-treasury-back-funds-it-received-on-too-big-to-fail-grounds-in-2008-says-that-it.md)
 American International Group Inc, the insurer rescued by the U.S. government in 2008, drew angry condemnation from lawmakers on Tuesday after saying it may join a lawsuit that alleges the bailout terms were unfair.
 
-##### wildfire
+##### Wildfire
 ### [More than 130 wildfires are burning on the east coast of Australia with thousands of people forced to leave their homes. ](/news/2013/01/8/more-than-130-wildfires-are-burning-on-the-east-coast-of-australia-with-thousands-of-people-forced-to-leave-their-homes.md)
 More than 100 wildfires have broken out across Australia&#039;s east coast and forced thousands to flee their homes as the nation faces a day of &#034;catastrophic&#034; fire danger.
 
 ##### British
 ### [A new inquest begins into the death of British singer Amy Winehouse after it was discovered that the original coroner was not qualified to conduct the inquiry. A second inquiry into Winehouse's death concludes that the singer died of alcohol poisoning. ](/news/2013/01/8/a-new-inquest-begins-into-the-death-of-british-singer-amy-winehouse-after-it-was-discovered-that-the-original-coroner-was-not-qualified-to-c.md)
-_Context: Amy Winehouse, coroner, alcohol poisoning, British_
+_Context: coroner, British, alcohol poisoning, Amy Winehouse_
 
 ##### Illinois
 ### [An Illinois man is killed by cyanide poisoning after winning the lottery. ](/news/2013/01/8/an-illinois-man-is-killed-by-cyanide-poisoning-after-winning-the-lottery.md)
-_Context: cyanide poisoning, Illinois_
+_Context: Illinois, cyanide poisoning_
 
 ##### Venezuela
 ### [The Venezuelan government announces that Hugo Chavez is in stable condition, and is still receiving medical treatment for a respiratory infection. ](/news/2013/01/8/the-venezuelan-government-announces-that-hugo-cha-vez-is-in-stable-condition-and-is-still-receiving-medical-treatment-for-a-respiratory-inf.md)
-_Context: Venezuela, Venezuelan government, Hugo Chavez_
+_Context: Venezuela, Hugo Chavez, Venezuelan government_
 
 ##### Roberto Maroni
 ### [Roberto Maroni announces that an electoral pact signed between his Lega Nord party and Silvio Berlusconi's People of Freedom party explicitly rules out Berlusconi assuming the Prime Minister of Italy position again. ](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.md)
-_Context: Roberto Maroni, Silvio Berlusconi, Italian Prime Minister, Lega Nord, People of Freedom_
+_Context: Roberto Maroni, Silvio Berlusconi, Lega Nord, Italian Prime Minister, People of Freedom_
 
 ##### Bob Brown
 ### [Bob Brown, former leader of the Australian Greens, becomes the President of the Sea Shepherd Conservation Society leading the campaign against Japanese whaling in the Southern Ocean. ](/news/2013/01/8/bob-brown-former-leader-of-the-australian-greens-becomes-the-president-of-the-sea-shepherd-conservation-society-leading-the-campaign-again.md)

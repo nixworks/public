@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/3/seven-defendants-are-found-guilty-of-abusing-chi
 
 ### [2010-09-3](/news/2010/09/3/index.md)
 
-##### child abuse
+##### Child abuse
 # Seven defendants are found guilty of abusing children in the Casa Pia child sex abuse trial in Lisbon, Portugal. 
 
 

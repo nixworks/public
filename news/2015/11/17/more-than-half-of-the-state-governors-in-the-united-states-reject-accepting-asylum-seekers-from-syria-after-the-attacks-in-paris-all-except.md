@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/17/more-than-half-of-the-state-governors-in-the-un
 
 ### [2015-11-17](/news/2015/11/17/index.md)
 
-##### refugees from Syria
+##### Refugees from Syria
 # More than half of the state governors in the United States reject accepting asylum seekers from Syria after the attacks in Paris. All except one of them are Republicans. 
 
 FRANCE-SHOOTING/USA-GOVERNORS (URGENT):White House holds call with 34 governors on Syrian refugees

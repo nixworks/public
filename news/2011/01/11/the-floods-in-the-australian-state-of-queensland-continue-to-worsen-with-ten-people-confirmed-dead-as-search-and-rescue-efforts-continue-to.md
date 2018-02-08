@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/11/the-floods-in-the-australian-state-of-queenslan
 
 ### [2011-01-11](/news/2011/01/11/index.md)
 
-##### floods
+##### Floods
 # The floods in the Australian state of Queensland continue to worsen, with ten people confirmed dead as search and rescue efforts continue to locate dozens of missing people. 
 
 The Brisbane River has broken its banks amid dire predictions of the biggest floods to hit Queensland&#039;s capital since 1974.

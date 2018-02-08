@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/24/at-least-35-people-are-killed-and-130-injured-a
 
 ### [2011-01-24](/news/2011/01/24/index.md)
 
-##### bombing
+##### Bombing
 # At least 35 people are killed and 130 injured after a suicide bombing at Domodedovo International Airport in the Russian capital Moscow. 
 
 Thirty-five people have been killed in an explosion at Moscow’s Domodedovo airport according to the airport spokesperson. Up to 180 are said to have been injured in what the Investigative Committee believes to be a terrorist attack.

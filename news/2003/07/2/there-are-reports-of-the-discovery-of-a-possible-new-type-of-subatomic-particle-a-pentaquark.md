@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/2/there-are-reports-of-the-discovery-of-a-possible
 
 ### [2003-07-2](/news/2003/07/2/index.md)
 
-##### subatomic particle
+##### Subatomic particle
 #  There are reports of the discovery of a possible new type of subatomic particle, a pentaquark. 
 
 

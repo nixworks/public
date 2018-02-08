@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/5/the-senate-of-belgium-approves-a-change-in-the-n
 
 ### [2003-04-5](/news/2003/04/5/index.md)
 
-##### war crimes
+##### War crimes
 #  The Senate of Belgium approves a change in the nation's war crimes law so that it will no longer apply to citizens of nations with sufficient human rights laws. The House of Representatives had already approved the change. The law had been used in the past to charge such people as George H. W. Bush, Colin Powell and Ariel Sharon with war crimes, and had interfered with Belgium's international relations.
 
 

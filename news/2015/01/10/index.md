@@ -3,7 +3,7 @@ Formats: [HTML](2015/01/10/index.html)  [JSON](2015/01/10/index.json)  [XML](201
 
 ## [2015-01-10](/news/2015/01/10/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 ### [A suicide bomb attack on a Shiite mosque in Rawalpindi, Pakistan, kills at least seven people. Militants linked to the Taliban and al-Qaeda have previously attacked the country's Shiite minority. ](/news/2015/01/10/a-suicide-bomb-attack-on-a-shiite-mosque-in-rawalpindi-pakistan-kills-at-least-seven-people-militants-linked-to-the-taliban-and-al-qaeda.md)
 The Jamat-ul-Ahrar faction of the Pakistani Taliban has claimed responsibility for an apparent suicide attack on a Shi&#039;ite mosque in Rawalpindi.
 
@@ -17,19 +17,19 @@ A suicide bomb attack on a cafe in the Lebanese city of Tripoli killed at least 
 
 ##### Karachi traffic accident
 ### [A traffic accident between an oil tanker truck and passenger coach en route to Shikarpur from Karachi on the Pakistan National Highway Link Road near Gulshan-e-Hadeed, Karachi, results in at least 57 dead and scores injured. ](/news/2015/01/10/a-traffic-accident-between-an-oil-tanker-truck-and-passenger-coach-en-route-to-shikarpur-from-karachi-on-the-pakistan-national-highway-link.md)
-_Context: Shikapur, National Highway Link Road, Karachi, Pakistan, Karachi traffic accident, Gulshan-e-Hadeed_
+_Context: Karachi traffic accident, National Highway Link Road, Gulshan-e-Hadeed, Shikapur, Pakistan, Karachi_
 
 ##### Tigerair
 ### [A bomb threat on Tigerair Flight 539 at Melbourne Airport, Victoria, Australia, causes disruptions for passengers and airlines throughout the airport. ](/news/2015/01/10/a-bomb-threat-on-tigerair-flight-539-at-melbourne-airport-victoria-australia-causes-disruptions-for-passengers-and-airlines-throughout-th.md)
-_Context: Victoria, Tigerair, Melbourne Airport_
+_Context: Tigerair, Melbourne Airport, Victoria_
 
 ##### Moscow, Idaho
 ### [A shooting spree in Moscow, Idaho, U.S., leaves three dead and one injured. After a high-speed chase on Highway 195 ten miles away in the neighboring state of Washington, Pullman police arrest the suspect, John Lee. ](/news/2015/01/10/a-shooting-spree-in-moscow-idaho-u-s-leaves-three-dead-and-one-injured-after-a-high-speed-chase-on-highway-195-ten-miles-away-in-the-ne.md)
-_Context: Pullman, Moscow, Idaho, Washington_
+_Context: Washington, Moscow, Idaho, Pullman_
 
-##### contaminated beer
+##### Contaminated beer
 ### [A mass poisoning at a funeral in Mozambique involves beer that was deliberately contaminated with crocodile bile leaving at least 56 dead and 146 hospitailized. ](/news/2015/01/10/a-mass-poisoning-at-a-funeral-in-mozambique-involves-beer-that-was-deliberately-contaminated-with-crocodile-bile-leaving-at-least-56-dead-an.md)
-_Context: Mozambique, contaminated beer, bile_
+_Context: contaminated beer, Mozambique, bile_
 
 ##### SpaceX
 ### [SpaceX successfully launches a Falcon 9 rocket from Cape Canaveral, Florida, as part of boosting its Dragon spacecraft into space for a Monday arrival at the ISS in the SpaceX CRS-5 resupply mission. However, an experimental recovery attempt of the first stage fails when it crash-lands on a floating platform possibly due to insufficient hydraulic fluid, resulting in damage to the platform. The state of the destruction of the launch vehicle is publically unknown. ](/news/2015/01/10/spacex-successfully-launches-a-falcon-9-rocket-from-cape-canaveral-florida-as-part-of-boosting-its-dragon-spacecraft-into-space-for-a-mond.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/15/a-further-six-people-are-sentenced-to-death-ove
 
 ### [2009-10-15](/news/2009/10/15/index.md)
 
-##### ethnic riots
+##### Ethnic riots
 #  A further six people are sentenced to death over ethnic unrest in China's Xinjiang region in July. 
 
 Latest convictions bring to 12 the number of executions ordered over riots in Urumqi.

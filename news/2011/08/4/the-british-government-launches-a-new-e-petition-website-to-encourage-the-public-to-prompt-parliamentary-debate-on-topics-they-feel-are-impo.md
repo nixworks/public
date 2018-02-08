@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/4/the-british-government-launches-a-new-e-petition
 
 ### [2011-08-4](/news/2011/08/4/index.md)
 
-##### the coalition
+##### The coalition
 # The British Government launches a new e-petition website to encourage the public to prompt parliamentary debate on topics they feel are important. Several petitions concern proposals for and against restoring the death penalty, last used in the UK in 1964.
 
 An online campaign is calling for the death penalty to be reinstated citing opinion polls which suggest half the population are in favour. But is this what the public really wants?

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/1/a-tour-bus-hits-a-bridge-at-miami-international-
 
 ### [2012-12-1](/news/2012/12/1/index.md)
 
-##### tour bus
+##### Tour bus
 # A tour bus hits a bridge at Miami International Airport, USA, killing at least two people and injuring many more. 
 
 A bus carrying church members hits a low bridge at Miami International Airport, killing two passengers and injuring dozens more.

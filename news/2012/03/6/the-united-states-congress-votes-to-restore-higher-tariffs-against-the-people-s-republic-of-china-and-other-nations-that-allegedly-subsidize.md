@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/6/the-united-states-congress-votes-to-restore-high
 
 ### [2012-03-6](/news/2012/03/6/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress votes to restore higher tariffs against the People's Republic of China and other nations that allegedly subsidize exports to the United States. 
 
 

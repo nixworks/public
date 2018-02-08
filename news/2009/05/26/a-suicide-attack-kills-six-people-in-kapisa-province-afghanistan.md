@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/26/a-suicide-attack-kills-six-people-in-kapisa-pro
 
 ### [2009-05-26](/news/2009/05/26/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills six people in Kapisa Province, Afghanistan. 
 
 

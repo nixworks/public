@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/19/french-forces-engage-in-heavy-fighting-with-tal
 
 ### [2008-08-19](/news/2008/08/19/index.md)
 
-##### military
+##### Military
 #  French forces engage in heavy fighting with Taliban insurgents 50 kilometres east of Kabul, Afghanistan with 10 French soldiers dead. 
 
 

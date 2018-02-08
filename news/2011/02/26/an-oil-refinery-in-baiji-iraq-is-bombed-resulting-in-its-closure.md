@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/26/an-oil-refinery-in-baiji-iraq-is-bombed-resulti
 
 ### [2011-02-26](/news/2011/02/26/index.md)
 
-##### oil refinery
+##### Oil refinery
 # An oil refinery in Baiji, Iraq, is bombed, resulting in its closure. 
 
 

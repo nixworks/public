@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/6/asylum-seekers-at-the-christmas-island-immigrati
 
 ### [2011-08-6](/news/2011/08/6/index.md)
 
-##### asylum seekers
+##### Asylum seekers
 # Asylum seekers at the Christmas Island Immigration Reception and Processing Centre off the Indian Ocean coast of Western Australia start a hunger strike in protest at their deportation to Malaysia. 
 
 

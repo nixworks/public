@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/15/a-roadside-bomb-kills-at-least-seven-soldiers-i
 
 ### [2007-06-15](/news/2007/06/15/index.md)
 
-##### soldier
+##### Soldier
 #  A roadside bomb kills at least seven soldiers in Yala Province, Thailand. 
 
 

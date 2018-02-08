@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/31/more-than-2-000-people-have-reportedly-died-in-
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # More than 2,000 people have reportedly died in the Philippine Drug War. 
 
 The wave of killings unleashed since President Duterte came to power has alarmed rights groups and brought expressions of concern from the US, a close ally.

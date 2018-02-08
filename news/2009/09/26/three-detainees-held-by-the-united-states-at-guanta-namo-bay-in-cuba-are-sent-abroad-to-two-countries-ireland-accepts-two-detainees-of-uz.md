@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/26/three-detainees-held-by-the-united-states-at-gu
 
 ### [2009-09-26](/news/2009/09/26/index.md)
 
-##### detainees
+##### Detainees
 #  Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. 
 
 Three detainees held at the U.S. military prison at Guantanamo Bay, Cuba, have been sent to Ireland and Yemen, the Justice Department said on Saturday, the latest transfers as President Barack Obama tries to close the facility by January.

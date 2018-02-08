@@ -11,19 +11,19 @@ At least four protesters are killed in violence between police and anti-governme
 ### [An Australian Special Air Service Regiment soldier Jason Brown, is killed in fighting the Taliban in northern Kandahar Province, Afghanistan. ](/news/2010/08/13/an-australian-special-air-service-regiment-soldier-jason-brown-is-killed-in-fighting-the-taliban-in-northern-kandahar-province-afghanistan.md)
 Afghanistan is back in the spotlight with the death of another Australian soldier.
 
-##### eurozone
+##### Eurozone
 ### [The eurozone economy grows by 1% in the second quarter of 2010, with the German economy growing by 2.2%, its fastest quarterly growth in more than 20 years. ](/news/2010/08/13/the-eurozone-economy-grows-by-1-in-the-second-quarter-of-2010-with-the-german-economy-growing-by-2-2-its-fastest-quarterly-growth-in-mor.md)
 Figures show strongest quarterly increase in GDP since reunification in 1990.
 
 ##### TAM Airlines
 ### [TAM Airlines of Brazil and LAN Airlines of Chile announce plans for a merger that would make the biggest carrier in the region. ](/news/2010/08/13/tam-airlines-of-brazil-and-lan-airlines-of-chile-announce-plans-for-a-merger-that-would-make-the-biggest-carrier-in-the-region.md)
-_Context: Brazil, TAM Airlines, Chile, LAN Airlines_
+_Context: Brazil, Chile, LAN Airlines, TAM Airlines_
 
 ##### Hong Kong Monetary Authority
 ### [The Hong Kong Monetary Authority announces it is to tighten some rules on mortgage lending, signalling that it is concerned about the dangers of a real estate bubble in Hong Kong. ](/news/2010/08/13/the-hong-kong-monetary-authority-announces-it-is-to-tighten-some-rules-on-mortgage-lending-signalling-that-it-is-concerned-about-the-danger.md)
 The Hong Kong Monetary Authority will tighten some types of mortgage lending to guard against credit risks.
 
-##### president
+##### President
 ### [President of Pakistan Asif Ali Zardari officially cancels Independence Day as a direct consequence of the ongoing floods that have devastated the country. ](/news/2010/08/13/president-of-pakistan-asif-ali-zardari-officially-cancels-independence-day-as-a-direct-consequence-of-the-ongoing-floods-that-have-devastate.md)
 President cancels independence day festivities as country braces for more floods.
 
@@ -31,9 +31,9 @@ President cancels independence day festivities as country braces for more floods
 ### [Fresh landslides and heavy rain in northwestern China leave at least 29 people dead and a further 10,500 trapped. ](/news/2010/08/13/fresh-landslides-and-heavy-rain-in-northwestern-china-leave-at-least-29-people-dead-and-a-further-10-500-trapped.md)
 Torrential rain brings landslides to more areas in China, as relief teams in devastated Zhouqu county battle against the bad weather.
 
-##### the recent wildfires
+##### The recent wildfires
 ### [A forest fire grows in size near Russia's main nuclear research centre in Sarov. ](/news/2010/08/13/a-forest-fire-grows-in-size-near-russia-s-main-nuclear-research-centre-in-sarov.md)
-_Context: Sarov, the recent wildfires, Russia_
+_Context: Sarov, Russia, the recent wildfires_
 
 ##### Fornelos de Montes
 ### [2 firefighters are killed fighting wildfires in Fornelos de Montes, Pontevedra, in Galicia, Spain. ](/news/2010/08/13/2-firefighters-are-killed-fighting-wildfires-in-fornelos-de-montes-pontevedra-in-galicia-spain.md)
@@ -57,7 +57,7 @@ French officials lambast a senior army officer who was filmed on YouTube orderin
 
 ##### Tamil migrant
 ### [Sun Sea, a cargo ship carrying around 490 Tamil migrants, refugees and suspected human smugglers and Tamil Tigers as well as reports of tuberculosis outbreaks is scheduled to arrive in Esquimalt, British Columbia. The Royal Canadian Mounted Police and Canadian Navy are escorting and boarding the ship, and the ship's captain is suspected by the Sri Lankan Government of being a gun runner. ](/news/2010/08/13/sun-sea-a-cargo-ship-carrying-around-490-tamil-migrants-refugees-and-suspected-human-smugglers-and-tamil-tigers-as-well-as-reports-of-tube.md)
-_Context: Esquimalt, Sri Lankan Government, Tamil migrant, gun runner, human smuggler, British Columbia, Canadian Navy, Royal Canadian Mounted Police, refugee, tuberculosis, Tamil Tigers_
+_Context: tuberculosis, human smuggler, Tamil Tigers, Tamil migrant, British Columbia, Sri Lankan Government, gun runner, Canadian Navy, Esquimalt, refugee, Royal Canadian Mounted Police_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs a bill increasing security along his country's border with Mexico. ](/news/2010/08/13/president-of-the-united-states-barack-obama-signs-a-bill-increasing-security-along-his-country-s-border-with-mexico.md)
@@ -67,9 +67,9 @@ President Barack Obama signs into law a bill to increase security along the US-M
 ### [Sierra Leone's human rights commission asks South Africa to return "blood diamonds" allegedly given to Naomi Campbell. ](/news/2010/08/13/sierra-leone-s-human-rights-commission-asks-south-africa-to-return-blood-diamonds-allegedly-given-to-naomi-campbell.md)
 Officials in Sierra Leone ask for the return of diamonds allegedly given by Charles Taylor to supermodel Naomi Campbell.
 
-##### Lebanon
+##### Lebanese
 ### [Lebanon cancels an Iranian made television series about Jesus after complaints from Christian leaders and the public. ](/news/2010/08/13/lebanon-cancels-an-iranian-made-television-series-about-jesus-after-complaints-from-christian-leaders-and-the-public.md)
-_Context: Iran, Lebanon, Jesus, Christian_
+_Context: Lebanese, Jesus, Iran, Christian_
 
 ##### Rosatom
 ### [Rosatom, Russia's nuclear energy corporation announces that it will start loading fuel for the Bushehr Nuclear Power Plant Iran's first nuclear power plant from August 21. ](/news/2010/08/13/rosatom-russia-s-nuclear-energy-corporation-announces-that-it-will-start-loading-fuel-for-the-bushehr-nuclear-power-plant-iran-s-first-nucl.md)
@@ -77,7 +77,7 @@ Iran is set to acquire its first civilian nuclear power plant following Russiaâ€
 
 ##### South Africa
 ### [Four bodies are discovered in an abandoned South African gold mine owned by relatives of Nelson Mandela and Jacob Zuma following a shooting. ](/news/2010/08/13/four-bodies-are-discovered-in-an-abandoned-south-african-gold-mine-owned-by-relatives-of-nelson-mandela-and-jacob-zuma-following-a-shooting.md)
-_Context: South Africa, Nelson Mandela, Jacob Zuma_
+_Context: Jacob Zuma, South Africa, Nelson Mandela_
 
 ##### Elias Abuelazam
 ### [Elias Abuelazam, an Arab Israeli arrested in the United States in connection with almost 20 stabbings across three U.S. states, agrees to face charges relating to one of the attacks. ](/news/2010/08/13/elias-abuelazam-an-arab-israeli-arrested-in-the-united-states-in-connection-with-almost-20-stabbings-across-three-u-s-states-agrees-to-fa.md)
@@ -85,7 +85,7 @@ A man arrested in connection with a series of nearly 20 stabbings agrees to retu
 
 ##### Malaysia
 ### [A Malaysian court sentences two men to five years imprisonment after firebombing a church in a row over the use of the word "Allah" by non-Muslims. ](/news/2010/08/13/a-malaysian-court-sentences-two-men-to-five-years-imprisonment-after-firebombing-a-church-in-a-row-over-the-use-of-the-word-allah-by-non-m.md)
-_Context: Malaysia, Allah, Muslim_
+_Context: Malaysia, Muslim, Allah_
 
 ##### Sri Lanka
 ### [Sri Lanka convicts ex-army chief Sarath Fonseka on charges of engaging in politics while on active service. ](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.md)
@@ -97,11 +97,11 @@ The first trial at Guantanamo Bay under US President Barack Obama is suspended a
 
 ##### Erastus Akingbola
 ### [Erastus Akingbola, former head of the Intercontinental Bank of Nigeria, is charged with 22 counts of involvement in the bank's near collapse at a court in Lagos; he denies all counts. ](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.md)
-_Context: Lagos, Intercontinental Bank, Erastus Akingbola, Nigeria_
+_Context: Lagos, Erastus Akingbola, Nigeria, Intercontinental Bank_
 
 ##### Cook Islands
 ### [Cook Islands Prime Minister Jim Marurai sets the date for the upcoming 2010 general election for November 17th. ](/news/2010/08/13/cook-islands-prime-minister-jim-marurai-sets-the-date-for-the-upcoming-2010-general-election-for-november-17th.md)
-_Context: Jim Marurai, Prime Minister, Cook Islands, general election_
+_Context: Cook Islands, general election, Jim Marurai, Prime Minister_
 
 ##### Burma
 ### [Burma announces plans to hold its first election in 20 years on November 7. ](/news/2010/08/13/burma-announces-plans-to-hold-its-first-election-in-20-years-on-november-7.md)

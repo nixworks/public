@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/27/the-death-toll-from-an-outbreak-of-thunderstorm
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
-##### thunderstorm asthma
+##### Thunderstorm asthma
 # The death toll from an outbreak of thunderstorm asthma on 21 November in the Australian city of Melbourne reaches 6. Three others are in a critical condition. 
 
 The number of people in Melbourne dying from the rare phenomenon thunderstorm asthma rises to eight.

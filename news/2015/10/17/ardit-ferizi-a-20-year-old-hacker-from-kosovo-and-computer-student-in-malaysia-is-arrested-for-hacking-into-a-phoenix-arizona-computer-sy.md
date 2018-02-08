@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-a
 
 ### [2015-10-17](/news/2015/10/17/index.md)
 
-##### hacker
+##### Hacker
 # Ardit Ferizi, a 20-year-old hacker from Kosovo and computer student in Malaysia, is arrested for hacking into a Phoenix, Arizona computer system and stealing the names and personal information of thousands of U.S. military personnel. Ferizi is accused of giving the information to ISIS. The U.S. is seeking Ferizi's extradition. 
 
 

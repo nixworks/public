@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/25/new-zealand-changes-two-road-rules-regarding-pr
 
 ### [2012-03-25](/news/2012/03/25/index.md)
 
-##### road rules
+##### Road rules
 # New Zealand changes two road rules regarding priority at intersections, including reversing the drive-on-the-left nation's unique rule that gave right-turning traffic priority over left-turning traffic. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/29/nuclear-weapons-iranian-official-confirm-traces
 
 ### [2003-09-29](/news/2003/09/29/index.md)
 
-##### nuclear warheads
+##### Nuclear warheads
 #  Nuclear weapons: Iranian official confirm traces of highly enriched uranium found in the country at the Kalaye Electric Company near Tehran (this was the second time such a discovery was made by United Nations inspectors). Iran's ambassador to the International Atomic Energy Agency, Ali Akbar Salehi, attributes the find to the contamination of imported equipment on state television. Iranians have allegedly used Kalaye Electric Company to test centrifuges used to make highly enriched uranium that can be used to make atomic bombs.
 
 

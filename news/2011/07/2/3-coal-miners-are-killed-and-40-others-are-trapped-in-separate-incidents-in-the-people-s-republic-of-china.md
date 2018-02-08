@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapp
 
 ### [2011-07-2](/news/2011/07/2/index.md)
 
-##### coal mine
+##### Coal mine
 # 3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. 
 
 

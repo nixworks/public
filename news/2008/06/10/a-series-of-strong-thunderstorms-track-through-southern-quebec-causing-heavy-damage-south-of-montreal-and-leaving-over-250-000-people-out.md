@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/10/a-series-of-strong-thunderstorms-track-through-
 
 ### [2008-06-10](/news/2008/06/10/index.md)
 
-##### thunderstorm
+##### Thunderstorm
 #  A series of strong thunderstorms track through Southern Quebec, causing heavy damage south of Montreal and leaving over 250,000 people out of electricity. Champlain Bridge is closed for several hours after a wind gust causes over a half-dozen semi-trailer to tip on their side. 
 
 

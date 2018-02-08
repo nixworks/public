@@ -3,7 +3,7 @@ Formats: [HTML](2009/06/4/index.html)  [JSON](2009/06/4/index.json)  [XML](2009/
 
 ## [2009-06-4](/news/2009/06/4/index.md)
 
-##### laptop
+##### Laptop
 ### [ Two laptop computers that contain personal information on Northern Ireland's 30,000 civil servants are stolen from the Department of Finance and Personnel in Belfast. ](/news/2009/06/4/two-laptop-computers-that-contain-personal-information-on-northern-ireland-s-30-000-civil-servants-are-stolen-from-the-department-of-financ.md)
 The personal details of thousands of civil servants were on laptop computers stolen during a break-in at government offices in Northern Ireland.
 
@@ -13,11 +13,11 @@ James Purnell, the work and pensions secretary, dealt a major blow to Gordon Bro
 
 ##### U.S. President
 ### [ The President of the United States, Barack Obama, addresses the Muslim world in Cairo, Egypt. ](/news/2009/06/4/the-president-of-the-united-states-barack-obama-addresses-the-muslim-world-in-cairo-egypt.md)
-_Context: Barack Obama, Cairo, Egypt, Muslim, U.S. President, A New Beginning_
+_Context: A New Beginning, Egypt, Barack Obama, Cairo, Muslim, U.S. President_
 
 ##### European Union
 ### [ The European Union's parliamentary election commences in the Netherlands and United Kingdom. ](/news/2009/06/4/the-european-union-s-parliamentary-election-commences-in-the-netherlands-and-united-kingdom.md)
-_Context: United Kingdom, European Union, Netherlands, election, European Parliament_
+_Context: election, United Kingdom, Netherlands, European Union, European Parliament_
 
 ##### Irish
 ### [ Irish Minister for Education and Science Batt O'Keeffe apologises for the postponement of a Leaving Certificate Examination. ](/news/2009/06/4/irish-minister-for-education-and-science-batt-o-keeffe-apologises-for-the-postponement-of-a-leaving-certificate-examination.md)
@@ -25,17 +25,17 @@ An inquiry has begun into the security breach which forced the postponement of t
 
 ##### Australia
 ### [ Australian Minister for Defense Joel Fitzgibbon resigns. ](/news/2009/06/4/australian-minister-for-defense-joel-fitzgibbon-resigns.md)
-_Context: Minister for Defence, Joel Fitzgibbon, Australia_
+_Context: Australia, Minister for Defence, Joel Fitzgibbon_
 
 ##### Linguistic analysis
 ### [ Linguistic analysis confirms that American astronaut Neil Armstrong did not say the article "a" in the phrase "one small step for a man" when he walked on the Moon on July 20, 1969. ](/news/2009/06/4/linguistic-analysis-confirms-that-american-astronaut-neil-armstrong-did-not-say-the-article-a-in-the-phrase-one-small-step-for-a-man-wh.md)
-_Context: walked, phrase, astronaut, article, Linguistic analysis, Moon, Neil Armstrong, United States_
+_Context: walked, phrase, Neil Armstrong, Moon, astronaut, United States, article, Linguistic analysis_
 
 ##### Hong Kong
 ### [ 150,000 people assemble in Hong Kong, China, to commemorate the 20th anniversary of the massacre in Tiananmen Square on June 4, 1989. ](/news/2009/06/4/150-000-people-assemble-in-hong-kong-china-to-commemorate-the-20th-anniversary-of-the-massacre-in-tiananmen-square-on-june-4-1989.md)
-_Context: China, Tiananmen Square protests of 1989, Tiananmen Square, Hong Kong_
+_Context: Hong Kong, Tiananmen Square protests of 1989, China, Tiananmen Square_
 
-##### funeral
+##### Funeral
 ### [ Two hundred thousand people attend the funeral of Dera Sach Khand leader Sant Ramanand Dass in Jalandhar, Punjab, India. ](/news/2009/06/4/two-hundred-thousand-people-attend-the-funeral-of-dera-sach-khand-leader-sant-ramanand-dass-in-jalandhar-punjab-india.md)
 Around two lakh devotees, many of them in tears, attended the funeral of Dera Sachkhand Ballan leader Sant Ramanand Dass, 57, whose murder in Vienna last month triggered riots in Punjab and Haryana.
 

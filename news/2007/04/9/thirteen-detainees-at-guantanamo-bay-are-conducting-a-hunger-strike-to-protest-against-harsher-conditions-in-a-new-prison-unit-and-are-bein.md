@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/9/thirteen-detainees-at-guantanamo-bay-are-conduct
 
 ### [2007-04-9](/news/2007/04/9/index.md)
 
-##### detainee
+##### Detainee
 #  Thirteen detainees at Guantanamo Bay are conducting a hunger strike to protest against harsher conditions in a new prison unit and are being force fed. 
 
 

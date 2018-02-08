@@ -5,13 +5,13 @@ Formats: [HTML](2006/05/12/index.html)  [JSON](2006/05/12/index.json)  [XML](200
 
 ##### Ethiopia
 ### [ Eight bombs explode in a coordinated strike in the Ethiopian capital of Addis Ababa. Three people are killed and 48 are wounded. No group has yet claimed responsibility. ](/news/2006/05/12/eight-bombs-explode-in-a-coordinated-strike-in-the-ethiopian-capital-of-addis-ababa-three-people-are-killed-and-48-are-wounded-no-group-h.md)
-_Context: Ethiopia, Addis Ababa_
+_Context: Addis Ababa, Ethiopia_
 
-##### oil blast
+##### Oil blast
 ### [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### cloned
+##### Cloned
 ### [ Cloning scientist Hwang Woo-Suk is indicted for fraud, embezzlement and violation of bioethics law in a scandal in South Korea over his faked stem cell research. ](/news/2006/05/12/cloning-scientist-hwang-woo-suk-is-indicted-for-fraud-embezzlement-and-violation-of-bioethics-law-in-a-scandal-in-south-korea-over-his-fak.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 

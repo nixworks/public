@@ -17,9 +17,9 @@ gyun and Jo Yong-hak
 ### [Leslie Nielsen, famed for his roles in "Airplane!" and "The Naked Gun" series, dies at the age of 84 in Fort Lauderdale, Florida. ](/news/2010/11/28/leslie-nielsen-famed-for-his-roles-in-airplane-and-the-naked-gun-series-dies-at-the-age-of-84-in-fort-lauderdale-florida.md)
 Leslie Nielsen went from drama to inspired bumbling as a hapless doctor in Airplane! and the accident-prone detective Frank Drebin in The Naked Gun comedies.
 
-##### central China
+##### Central China
 ### [Central China's Hunan Province begins building the country's third National Supercomputing Center (NSCC), where the world's fastest supercomputer, the Tianhe-1A, will be installed. ](/news/2010/11/28/central-china-s-hunan-province-begins-building-the-country-s-third-national-supercomputing-center-nscc-where-the-world-s-fastest-supercom.md)
-_Context: Hunan Province, Tianhe-1A, central China, National Supercomputing Center_
+_Context: Hunan Province, National Supercomputing Center, central China, Tianhe-1A_
 
 ##### European Union
 ### [European Union finance ministers meet to work out the details for rescuing the Irish economy, and to outline an agreement for a fund to rescue other economically troubled euro-zone nations. ](/news/2010/11/28/european-union-finance-ministers-meet-to-work-out-the-details-for-rescuing-the-irish-economy-and-to-outline-an-agreement-for-a-fund-to-resc.md)
@@ -27,7 +27,7 @@ Europe’s finance ministers approved an 85 billion euro bailout and agreed on a
 
 ##### Turkey
 ### [Fire damages Turkey's historic Haydarpasa Terminal in Istanbul. ](/news/2010/11/28/fire-damages-turkey-s-historic-haydarpaaa-terminal-in-istanbul.md)
-_Context: Haydarpasa Terminal, Turkey, Istanbul_
+_Context: Turkey, Haydarpasa Terminal, Istanbul_
 
 ##### Russia
 ### [At least 8 people are killed when a Russian Ilyushin Il-76 cargo plane bound for Khartoum, Sudan, crashes minutes after take off in a residential area of Karachi, Pakistan. ](/news/2010/11/28/at-least-8-people-are-killed-when-a-russian-ilyushin-il-76-cargo-plane-bound-for-khartoum-sudan-crashes-minutes-after-take-off-in-a-reside.md)
@@ -43,11 +43,11 @@ Heavy falls of snow in some parts of the country have disrupted road, rail, bus 
 
 ##### Uganda
 ### [Ugandan President Yoweri Museveni becomes the first foreign leader to visit the Somali capital Mogadishu in 20 years. ](/news/2010/11/28/ugandan-president-yoweri-museveni-becomes-the-first-foreign-leader-to-visit-the-somali-capital-mogadishu-in-20-years.md)
-_Context: Mogadishu, Uganda, Somalia, Yoweri Museveni_
+_Context: Yoweri Museveni, Uganda, Mogadishu, Somalia_
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir is to boycott an African Union-European Union meeting in the Libyan capital Tripoli to "avoid embarrassment to Libya". ](/news/2010/11/28/sudanese-president-omar-al-bashir-is-to-boycott-an-african-union-european-union-meeting-in-the-libyan-capital-tripoli-to-avoid-embarrassmen.md)
-_Context: African Union, Libya, European Union, Omar al-Bashir, Tripoli, Sudan_
+_Context: Sudan, European Union, Tripoli, Libya, African Union, Omar al-Bashir_
 
 ##### Brazil
 ### [More than 2,000 Brazilian police and military personnel enter the AlemGBPo slum of Rio de Janeiro in search of drug traffickers, in efforts to boost security well ahead of the 2016 Olympic Games. ](/news/2010/11/28/more-than-2-000-brazilian-police-and-military-personnel-enter-the-alemagbpo-slum-of-rio-de-janeiro-in-search-of-drug-traffickers-in-efforts.md)
@@ -55,7 +55,7 @@ Security forces seized control of a violent slum, claiming victory in a weeklong
 
 ##### Haiti
 ### [Voters in Haiti go to the polls for a general election, amid confusion and disorganization resulting from the cholera epidemic and the aftermath of the January earthquake ](/news/2010/11/28/voters-in-haiti-go-to-the-polls-for-a-general-election-amid-confusion-and-disorganization-resulting-from-the-cholera-epidemic-and-the-after.md)
-_Context: worst epidemic of cholera, Haiti's presidential election, Haiti, 2010 Haiti earthquake_
+_Context: Haiti, Haiti's presidential election, worst epidemic of cholera, 2010 Haiti earthquake_
 
 ##### Ivory Coast
 ### [Voters in the Ivory Coast go to the polls for the second round of the Ivorian presidential election with violent clashes having occurred between rival supporters. ](/news/2010/11/28/voters-in-the-ivory-coast-go-to-the-polls-for-the-second-round-of-the-ivorian-presidential-election-with-violent-clashes-having-occurred-bet.md)
@@ -71,11 +71,11 @@ _Context: Moldova, parliamentary elections_
 
 ##### Catalonia
 ### [Voters in Catalonia, Spain, go to the polls for parliamentary elections. ](/news/2010/11/28/voters-in-catalonia-spain-go-to-the-polls-for-parliamentary-elections.md)
-_Context: Catalonia, Spain, parliamentary elections_
+_Context: Catalonia, parliamentary elections, Spain_
 
 ##### Okinawa
 ### [Voters in Okinawa Prefecture, Japan, go to the polls for the gubernatorial election with anti-US base governor Hirokazu Nakaima reelected. ](/news/2010/11/28/voters-in-okinawa-prefecture-japan-go-to-the-polls-for-the-gubernatorial-election-with-anti-us-base-governor-hirokazu-nakaima-reelected.md)
-_Context: Hirokazu Nakaima, Japan, United States, Okinawa, gubernatorial election, governor_
+_Context: Okinawa, United States, governor, Hirokazu Nakaima, Japan, gubernatorial election_
 
 ## [Previous Day...](/news/2010/11/27/index.md)
 

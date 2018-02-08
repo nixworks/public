@@ -3,7 +3,7 @@ Formats: [HTML](2016/11/24/index.html)  [JSON](2016/11/24/index.json)  [XML](201
 
 ## [2016-11-24](/news/2016/11/24/index.md)
 
-##### lasting peace
+##### Lasting peace
 ### [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md)
 _Context: FARC, Colombia, lasting peace_
 
@@ -11,7 +11,7 @@ _Context: FARC, Colombia, lasting peace_
 ### [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md)
 Myanmar wants to rid the country of its Muslim minority, a senior UN official tells the BBC.
 
-##### car bomb
+##### Car bomb
 ### [A suspected car bomb outside the office of the governor of the southern Turkish province of Adana kills at least two people and injures 16. ](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-governor-of-the-southern-turkish-province-of-adana-kills-at-least-two-people-and-injures-16.md)
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
@@ -29,7 +29,7 @@ A truck bomb in Iraq kills 77 people, most of them foreign Shia pilgrims, police
 
 ##### Insurgency in the North Caucasus
 ### [Two Russian special forces and two suspected militants are killed in a gunfight in Nazran, Ingushetia. ](/news/2016/11/24/two-russian-special-forces-and-two-suspected-militants-are-killed-in-a-gunfight-in-nazran-ingushetia.md)
-_Context: Ingushetia insurgency, Ingushetia, Insurgency in the North Caucasus, Nazran, Russian special forces_
+_Context: Ingushetia, Russian special forces, Insurgency in the North Caucasus, Nazran, Ingushetia insurgency_
 
 ##### 2016 India-Pakistan military confrontation
 ### [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md)
@@ -41,7 +41,7 @@ Amnesty says Nigerian security forces have killed more than 150 protesters since
 
 ##### Sinai insurgency
 ### [Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. ](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-suicide-bomber-at-a-checkpoint-in-northern-sinai.md)
-_Context: suicide bomber, Egyptian Army, Sinai insurgency, Sinai Peninsula_
+_Context: Sinai insurgency, Egyptian Army, suicide bomber, Sinai Peninsula_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md)
@@ -55,7 +55,7 @@ At least 67 people die in an accident at a power station under construction in J
 ### [Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. ](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rage-throughout-the-israeli-city-of-haifa-the-minister-of-public-security-gilad-erdan-says-at-l.md)
 Tens of thousands of people are evacuated as wildfires sweep into the Israeli city of Haifa.
 
-##### earthquake
+##### Earthquake
 ### [A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. ](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast-of-el-salvador-with-the-potential-to-cause-a-tsunami-nicaraguan-president-daniel-ortega-dec.md)
 By Nelson Renteria SAN SALVADOR (Reuters) - A strong earthquake off the Pacific Coast of Central America shook the region on Thursday just as a hurricane barreled into the Caribbean coasts of Nicaragua and Costa Rica, but there were no immediate reports of any quake damage. Emergency services in El
 
@@ -73,11 +73,11 @@ Police clashed with supporters of presidential candidate Maryse Narcisse in Port
 
 ##### Austrian presidential election, 2016
 ### [Freedom Party of Austria presidential candidate Norbert Hofer intends to hold a referendum on European Union membership if elected. ](/news/2016/11/24/freedom-party-of-austria-presidential-candidate-norbert-hofer-intends-to-hold-a-referendum-on-european-union-membership-if-elected.md)
-_Context: Austrian presidential election, 2016, European Union, Freedom Party of Austria, Norbert Hofer_
+_Context: Austrian presidential election, 2016, European Union, Norbert Hofer, Freedom Party of Austria_
 
 ##### Grenadian constitutional referendum, 2016
 ### [Voters in Grenada choose whether they should be more independent from the British legal system, among other amendments. ](/news/2016/11/24/voters-in-grenada-choose-whether-they-should-be-more-independent-from-the-british-legal-system-among-other-amendments.md)
-_Context: United Kingdom, Grenadian constitutional referendum, 2016, Grenada_
+_Context: United Kingdom, Grenada, Grenadian constitutional referendum, 2016_
 
 ## [Previous Day...](/news/2016/11/23/index.md)
 

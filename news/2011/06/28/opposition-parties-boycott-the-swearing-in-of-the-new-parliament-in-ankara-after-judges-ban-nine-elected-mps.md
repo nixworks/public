@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/28/opposition-parties-boycott-the-swearing-in-of-t
 
 ### [2011-06-28](/news/2011/06/28/index.md)
 
-##### boycott
+##### Boycott
 # Opposition parties boycott the swearing-in of the new parliament in Ankara after judges ban nine elected MPs. 
 
 Opposition parties in Turkey boycott the swearing-in of the new parliament after nine MPs are barred from taking their seats.

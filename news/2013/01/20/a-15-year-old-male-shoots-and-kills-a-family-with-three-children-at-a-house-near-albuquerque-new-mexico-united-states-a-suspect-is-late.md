@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/20/a-15-year-old-male-shoots-and-kills-a-family-wi
 
 ### [2013-01-20](/news/2013/01/20/index.md)
 
-##### shoots and kills a family, with three children
+##### Shoots and kills a family, with three children
 # A 15-year-old male shoots and kills a family, with three children, at a house near Albuquerque, New Mexico, United States. A suspect is later apprehended. 
 
 A teenager is arrested in New Mexico over the fatal shootings of two adults and three children near Albuquerque.

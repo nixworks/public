@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/8/u-s-led-special-forces-free-three-italians-and-a
 
 ### [2004-06-8](/news/2004/06/8/index.md)
 
-##### special forces
+##### Special forces
 #  U.S.-led special forces free three Italians and a Pole held hostage in Iraq. They are among the civilians kidnapped on April 12 near Baghdad. At that time, a fifth hostage was murdered after Italy refused the kidnappers' demands to withdraw its troops from Iraq. 
 
 

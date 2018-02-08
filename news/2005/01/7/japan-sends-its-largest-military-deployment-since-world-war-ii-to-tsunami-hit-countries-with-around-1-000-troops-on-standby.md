@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/7/japan-sends-its-largest-military-deployment-sinc
 
 ### [2005-01-7](/news/2005/01/7/index.md)
 
-##### tsunami
+##### Tsunami
 #  Japan sends its largest military deployment since World War II to tsunami-hit countries, with around 1,000 troops on standby. 
 
 

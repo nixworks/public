@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/5/american-physicists-david-gross-david-politzer-a
 
 ### [2004-10-5](/news/2004/10/5/index.md)
 
-##### physicists
+##### Physicists
 #  American physicists David Gross, David Politzer, and Frank Wilczek are awarded the Nobel Prize in Physics for "the discovery of asymptotic freedom in the theory of the strong interaction". 
 
 

@@ -5,27 +5,27 @@ Formats: [HTML](2004/06/25/index.html)  [JSON](2004/06/25/index.json)  [XML](200
 
 ##### Siemens AG
 ### [ After Siemens AG threatens to move thousands of jobs from North Rhine-Westphalia to Hungary, IG Metall (a trade union) agrees to a 40-hour work week for the same pay they currently receive for working 35. The agreement reduces by EUR5 the cost of each Siemens mobile phone manufactured under the new agreement. IG Metall workers had enjoyed the 35-hour work week since 1984. ](/news/2004/06/25/after-siemens-ag-threatens-to-move-thousands-of-jobs-from-north-rhine-westphalia-to-hungary-ig-metall-a-trade-union-agrees-to-a-40-hour.md)
-_Context: work week, euro, Siemens AG, trade union, working 35, North Rhine-Westphalia, mobile phone, Hungary, IG Metall_
+_Context: North Rhine-Westphalia, trade union, mobile phone, work week, IG Metall, Hungary, euro, Siemens AG, working 35_
 
 ##### Republican
 ### [ Republican Jack Ryan withdraws from the contest for U.S. Senate seat from Illinois under pressure from the party amid allegations that he took his ex-wife, actress Jeri Ryan, to some sex clubs. ](/news/2004/06/25/republican-jack-ryan-withdraws-from-the-contest-for-u-s-senate-seat-from-illinois-under-pressure-from-the-party-amid-allegations-that-he-t.md)
-_Context: Republican, U.S. Senate election, 2004, sex club, Illinois, Jack Ryan, Jeri Ryan_
+_Context: Jeri Ryan, Illinois, Jack Ryan, sex club, Republican, U.S. Senate election, 2004_
 
 ##### Attorney General for England and Wales
 ### [ British Attorney General Lord Goldsmith says that he is "unable to accept" that the U.S. military tribunals will yield a fair trial for prisoners at Guantanamo Bay, Cuba. ](/news/2004/06/25/british-attorney-general-lord-goldsmith-says-that-he-is-unable-to-accept-that-the-u-s-military-tribunals-will-yield-a-fair-trial-for-pri.md)
-_Context: Lord Goldsmith, Cuba, Attorney General for England and Wales, military tribunal, Guantanamo Bay_
+_Context: Guantanamo Bay, Lord Goldsmith, Cuba, military tribunal, Attorney General for England and Wales_
 
 ##### Ralph Nader
 ### [ In an open letter, Ralph Nader warns Canadians against voting for the Conservative Party in the federal election on June 28, 2004. ](/news/2004/06/25/in-an-open-letter-ralph-nader-warns-canadians-against-voting-for-the-conservative-party-in-the-federal-election-on-june-28-2004.md)
-_Context: Conservative Party's, Ralph Nader, 2004 federal election_
+_Context: 2004 federal election, Conservative Party's, Ralph Nader_
 
-##### guitar
+##### Guitar
 ### [ A treasured guitar owned by Eric Clapton fetches a record USD $959,500 at a charity auction. ](/news/2004/06/25/a-treasured-guitar-owned-by-eric-clapton-fetches-a-record-usd-959-500-at-a-charity-auction.md)
-_Context: guitar, Eric Clapton, US dollar_
+_Context: Eric Clapton, US dollar, guitar_
 
 ##### Norway
 ### [ The government of Norway, the third-largest petroleum-exporting nation, ends a week-long oil workers' strike by imposing wage and pension terms on the contending sides. ](/news/2004/06/25/the-government-of-norway-the-third-largest-petroleum-exporting-nation-ends-a-week-long-oil-workers-strike-by-imposing-wage-and-pension-t.md)
-_Context: pension, petroleum, wage, Norway, strike_
+_Context: pension, Norway, strike, wage, petroleum_
 
 ## [Previous Day...](/news/2004/06/24/index.md)
 

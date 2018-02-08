@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/10/saeb-erakat-announces-that-palestinian-authorit
 
 ### [2004-11-10](/news/2004/11/10/index.md)
 
-##### death
+##### Death
 #  Saeb Erakat announces that Palestinian Authority leader Yasser Arafat has died at the age of 75 at a Paris hospital. Rawhi Fattouh becomes interim President of the Palestinian Authority. Mahmoud Abbas leads the Palestine Liberation Organization. Farouk Kaddoumi, foreign minister of the PLO, leads Fatah and Ahmed Qureia receives the security portfolio of the Palestinian Authority. 
 
 

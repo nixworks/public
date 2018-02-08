@@ -7,7 +7,7 @@ Formats: [HTML](2014/05/7/index.html)  [JSON](2014/05/7/index.json)  [XML](2014/
 ### [At least 125 people are killed in a massacre in Gamboru Ngala, Borno State. ](/news/2014/05/7/at-least-125-people-are-killed-in-a-massacre-in-gamboru-ngala-borno-state.md)
 The death toll from an Islamist attack on the northeast Nigerian market town of Gamburu, near the Cameroon border, has risen to at least 125, a policeman at the scene evacuating bodies told Reuters by telephone on Wednesday.
 
-##### southern Ukrainian
+##### Southern Ukrainian
 ### [Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. ](/news/2014/05/7/pro-russian-militants-recapture-the-city-hall-of-the-southern-ukrainian-city-of-mariupol-hours-after-the-ukrainian-government-forces-took-co.md)
 Pro-Russian separatists seize back the city hall in the southern Ukrainian port of Mariupol, hours after being ousted by security forces.
 
@@ -37,7 +37,7 @@ Alan Shatter&#39;s successor as Minister for Justice is expected to be announced
 
 ##### India
 ### [In India over 60 million people vote in 64 constituencies today across 7 states for 16th Lok Sabha. ](/news/2014/05/7/in-india-over-60-million-people-vote-in-64-constituencies-today-across-7-states-for-16th-lok-sabha.md)
-_Context: constituencies, election, state, India_
+_Context: constituencies, state, India, election_
 
 ##### Ganzhou
 ### [The "Pinocchio Rex" ("Qianzhousaurus sinensis") is discovered in Ganzhou, China. ](/news/2014/05/7/the-pinocchio-rex-qianzhousaurus-sinensis-is-discovered-in-ganzhou-china.md)

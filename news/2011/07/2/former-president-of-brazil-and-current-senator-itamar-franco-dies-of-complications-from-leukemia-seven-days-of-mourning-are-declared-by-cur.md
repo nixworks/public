@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/2/former-president-of-brazil-and-current-senator-i
 
 ### [2011-07-2](/news/2011/07/2/index.md)
 
-##### president
+##### President
 # Former President of Brazil and current Senator Itamar Franco dies of complications from leukemia; seven days of mourning are declared by current president Dilma Rousseff. 
 
 Former Brazilian President Itamar Franco died Saturday morning from complications from leukemia. He was 81.

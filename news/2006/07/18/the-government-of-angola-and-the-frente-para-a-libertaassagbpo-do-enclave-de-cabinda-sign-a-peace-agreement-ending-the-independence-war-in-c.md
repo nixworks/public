@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/18/the-government-of-angola-and-the-frente-para-a-
 
 ### [2006-07-18](/news/2006/07/18/index.md)
 
-##### government of Angola
+##### Government of Angola
 #  The government of Angola and the Frente para a LibertacGBPo do Enclave de Cabinda sign a peace agreement ending the Independence War in Cabinda. 
 
 

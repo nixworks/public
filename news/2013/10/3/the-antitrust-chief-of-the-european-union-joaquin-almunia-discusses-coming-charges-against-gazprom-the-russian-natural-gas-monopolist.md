@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaqui
 
 ### [2013-10-3](/news/2013/10/3/index.md)
 
-##### antitrust
+##### Antitrust
 # The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. 
 
 

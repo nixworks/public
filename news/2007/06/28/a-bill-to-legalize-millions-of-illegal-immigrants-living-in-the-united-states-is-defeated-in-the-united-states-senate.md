@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/28/a-bill-to-legalize-millions-of-illegal-immigran
 
 ### [2007-06-28](/news/2007/06/28/index.md)
 
-##### illegal worker
+##### Illegal worker
 #  A bill to legalize millions of illegal immigrants living in the United States is defeated in the United States Senate. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/25/more-than-50-people-are-killed-in-an-attack-on-
 
 ### [2011-08-25](/news/2011/08/25/index.md)
 
-##### attack on a casino
+##### Attack on a casino
 # More than 50 people are killed in an attack on a casino in Monterrey, Nuevo Len, Mexico. 
 
 Armed men set fire to a casino in the northern Mexican city of Monterrey, killing more than 50 people.

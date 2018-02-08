@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/16/as-a-result-of-popular-protests-in-the-north-an
 
 ### [2010-04-16](/news/2010/04/16/index.md)
 
-##### popular protests
+##### Popular protests
 # As a result of popular protests in the north and capital of the country President Kurmanbek Bakiyev officially resigns after he leaves Kyrgyzstan for Kazakhstan. 
 
 

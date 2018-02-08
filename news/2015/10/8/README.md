@@ -23,13 +23,13 @@ Fiat Chrysler Automobiles NV (FCAU.N)(FCHA.MI) and the United Auto Workers said 
 ### [Thousands of people are evacuated on the Japanese island of Hokkaido as Typhoon Choi-wan approaches from the east. ](/news/2015/10/8/thousands-of-people-are-evacuated-on-the-japanese-island-of-hokkaido-as-typhoon-choi-wan-approaches-from-the-east.md)
 A powerful typhoon bearing down on the northern Japanese island of Hokkaido has forced authorities to order the evacuation of thousands of residents.
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 ### [The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. ](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces-that-he-will-seek-help-from-other-nations-in-putting-out-illegally-lit-forest-fires-that-ha.md)
-_Context: President of Indonesia, recent incident of hazes in 2015, forest fire, Joko Widodo_
+_Context: forest fire, Joko Widodo, recent incident of hazes in 2015, President of Indonesia_
 
 ##### Ecuador
 ### [Ecuador's restive Cotopaxi volcano erupts. ](/news/2015/10/8/ecuador-s-restive-cotopaxi-volcano-erupts.md)
-_Context: Cotopaxi volcano, Ecuador_
+_Context: Ecuador, Cotopaxi volcano_
 
 ##### Israeli-Palestinian conflict
 ### [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.md)
@@ -45,7 +45,7 @@ The German state of Bavaria plans &quot;emergency measures&quot; to slow arrival
 
 ##### House of Representatives
 ### [ U.S. House Majority Leader Kevin McCarthy, who had been the favorite to replace outgoing House Speaker John Boehner, withdraws from the race. ](/news/2015/10/8/u-s-house-majority-leader-kevin-mccarthy-who-had-been-the-favorite-to-replace-outgoing-house-speaker-john-boehner-withdraws-from-the-rac.md)
-_Context: Majority Leader, John Boehner, Speaker of the United States House of Representatives election, October 2015, House of Representatives, U.S. Speaker of the House of Representatives, Kevin McCarthy_
+_Context: U.S. Speaker of the House of Representatives, House of Representatives, Majority Leader, Speaker of the United States House of Representatives election, October 2015, Kevin McCarthy, John Boehner_
 
 ## [Previous Day...](/news/2015/10/7/index.md)
 

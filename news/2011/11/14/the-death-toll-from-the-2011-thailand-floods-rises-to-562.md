@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/14/the-death-toll-from-the-2011-thailand-floods-ri
 
 ### [2011-11-14](/news/2011/11/14/index.md)
 
-##### floods
+##### Floods
 # The death toll from the 2011 Thailand floods rises to 562. 
 
 

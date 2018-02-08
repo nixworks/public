@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/20/the-dehradun-varanasi-janta-express-derails-nea
 
 ### [2015-03-20](/news/2015/03/20/index.md)
 
-##### derails
+##### Derails
 # The Dehradun-Varanasi Janta Express derails near Bachhrawan Railway Station in Uttar Pradesh northern India resulting in at least 30 deaths and 150 people being injured. 
 
 

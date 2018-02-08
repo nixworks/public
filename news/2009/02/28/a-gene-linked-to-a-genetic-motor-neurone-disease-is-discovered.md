@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/28/a-gene-linked-to-a-genetic-motor-neurone-diseas
 
 ### [2009-02-28](/news/2009/02/28/index.md)
 
-##### gene
+##### Gene
 #  A gene linked to a genetic motor neurone disease is discovered. 
 
 

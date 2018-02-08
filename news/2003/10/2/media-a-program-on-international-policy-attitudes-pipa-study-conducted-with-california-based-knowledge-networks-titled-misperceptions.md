@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/2/media-a-program-on-international-policy-attitude
 
 ### [2003-10-2](/news/2003/10/2/index.md)
 
-##### media
+##### Media
 #  Media: A Program on International Policy Attitudes (PIPA) study conducted with California-based Knowledge Networks, titled "Misperceptions, the Media, and the Iraq War," is released. According to this study, misperceptions about the 2003 invasion of Iraq are most common among consumers of Fox News Channel and supporters of President George W. Bush and least common among consumers of PBS and NPR and supporters of Democratic presidential candidates. The study also found that frequent viewers of Fox News are more likely to believe in the misconceptions than less frequent ones. One example misconception is the belief that weapons of mass destruction have already been found in Iraq.
 
 

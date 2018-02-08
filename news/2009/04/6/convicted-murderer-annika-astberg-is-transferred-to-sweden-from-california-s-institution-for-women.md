@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/6/convicted-murderer-annika-astberg-is-transferred
 
 ### [2009-04-6](/news/2009/04/6/index.md)
 
-##### convicted
+##### Convicted
 #  Convicted murderer Annika Ostberg is transferred to Sweden from California's Institution for Women. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nep
 
 ### [2005-09-16](/news/2005/09/16/index.md)
 
-##### journalist
+##### Journalist
 #  87 journalists are arrested at a protest in Nepal. 
 
 

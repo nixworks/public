@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/31/seven-people-are-killed-and-18-are-missing-afte
 
 ### [2009-01-31](/news/2009/01/31/index.md)
 
-##### nursing home
+##### Nursing home
 #  Seven people are killed and 18 are missing after a nursing home burns in Russia's Komi Republic. 
 
 

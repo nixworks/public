@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/9/closing-their-annual-summit-apec-leaders-report-
 
 ### [2012-09-9](/news/2012/09/9/index.md)
 
-##### annual summit
+##### Annual summit
 # Closing their annual summit, APEC leaders report progress in Vladivostok over environmental and trade barrier issues; some territorial issues remain unsolved. 
 
 

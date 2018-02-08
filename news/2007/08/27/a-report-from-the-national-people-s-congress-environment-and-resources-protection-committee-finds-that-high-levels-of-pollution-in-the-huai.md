@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/27/a-report-from-the-national-people-s-congress-en
 
 ### [2007-08-27](/news/2007/08/27/index.md)
 
-##### parliament
+##### Parliament
 #  A report from the National People's Congress environment and resources protection committee finds that high levels of pollution in the Huai River and its tributaries poses a "threat to the water safety of one sixth of the country's 1.3 billion population". 
 
 Polluters along two of China&#039;s main rivers have defied years of clean-up efforts, leaving much of the water unfit to touch, let alone drink.

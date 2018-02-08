@@ -23,7 +23,7 @@ Teen star Justin Bieber dominates the American Music Awards winning four prizes 
 ### [North Korea unveils a new uranium enrichment plant. ](/news/2010/11/21/north-korea-unveils-a-new-uranium-enrichment-plant.md)
 North Korea showed an American scientist last week a vast new facility it secretly and rapidly built to enrich uranium.
 
-##### financial crisis
+##### Financial crisis
 ### [Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. ](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-for-an-international-bailout-to-deal-with-the-irish-financial-crisis.md)
 Taoiseach Brian Cowen has confirmed that a major financial assistance plan for Ireland has been agreed with the EU.
 
@@ -35,13 +35,13 @@ _Context: Yushe, Shanxi province, North China_
 ### [A flood traps 28 people in a coal mine in Sichuan, southwestern China. ](/news/2010/11/21/a-flood-traps-28-people-in-a-coal-mine-in-sichuan-southwestern-china.md)
 Rescue operations are taking place in south-west China to try to reach 28 miners trapped by a flood at a coal pit.
 
-##### eruptions
+##### Eruptions
 ### [The death toll from the eruptions of Mount Merapi in Indonesia reaches 292. ](/news/2010/11/21/the-death-toll-from-the-eruptions-of-mount-merapi-in-indonesia-reaches-292.md)
-_Context: Mounts Merapi, eruptions, Indonesia_
+_Context: Mounts Merapi, Indonesia, eruptions_
 
 ##### Haiti's presidential election
 ### [Four Haitian presidential candidates call for the postponement of the Haitian elections set for November 28 as the country struggles with a cholera epidemic which has killed nearly 1,200. ](/news/2010/11/21/four-haitian-presidential-candidates-call-for-the-postponement-of-the-haitian-elections-set-for-november-28-as-the-country-struggles-with-a.md)
-_Context: worst epidemic of cholera, Haiti's presidential election_
+_Context: Haiti's presidential election, worst epidemic of cholera_
 
 ##### Pike River mine
 ### [Rescuers begin drilling a hole to analyse air inside the Pike River mine in New Zealand. There has been no communication with the 29 trapped miners. ](/news/2010/11/21/rescuers-begin-drilling-a-hole-to-analyse-air-inside-the-pike-river-mine-in-new-zealand-there-has-been-no-communication-with-the-29-trapped.md)
@@ -49,7 +49,7 @@ _Context: New Zealand, Pike River mine_
 
 ##### International Tiger Forum
 ### [Russia hosts the International Tiger Forum summit meeting of international wildlife experts and officials from 13 countries in St.Petersburg, to discuss the protection of tigers which could become extinct in 12 years if unprotected. ](/news/2010/11/21/russia-hosts-the-international-tiger-forum-summit-meeting-of-international-wildlife-experts-and-officials-from-13-countries-in-st-petersburg.md)
-_Context: tiger, extinction, St.Petersburg, International Tiger Forum_
+_Context: International Tiger Forum, St.Petersburg, extinction, tiger_
 
 ##### Aasia Bibi
 ### [Aasia Bibi, a Christian woman sentenced to death in Pakistan on charges of blasphemy against Islam, appeals to President Asif Ali Zardari to pardon her. ](/news/2010/11/21/aasia-bibi-a-christian-woman-sentenced-to-death-in-pakistan-on-charges-of-blasphemy-against-islam-appeals-to-president-asif-ali-zardari-to.md)
@@ -61,7 +61,7 @@ Two Israeli soldiers who used a Palestinian child as a human shield during an of
 
 ##### Salt
 ### [Thirty five people are arrested in Salt, Jordan, to restore calm after four days of rioting following the police shooting of an alleged traffic violator. ](/news/2010/11/21/thirty-five-people-are-arrested-in-salt-jordan-to-restore-calm-after-four-days-of-rioting-following-the-police-shooting-of-an-alleged-traf.md)
-_Context: Jordan, Salt_
+_Context: Salt, Jordan_
 
 ##### Iran
 ### [Iran delays the trial of two American citizens detained while hiking until 6 February 2011. ](/news/2010/11/21/iran-delays-the-trial-of-two-american-citizens-detained-while-hiking-until-6-february-2011.md)
@@ -69,11 +69,11 @@ _Context: two American citizens, Iran_
 
 ##### Burkina Faso
 ### [Voters in Burkina Faso go to the polls, with incumbent President Blaise Compaore claiming victory with 75 per cent of the votes.](/news/2010/11/21/voters-in-burkina-faso-go-to-the-polls-with-incumbent-president-blaise-compaora-c-claiming-victory-with-75-per-cent-of-the-votes.md)
-_Context: Burkina Faso, President, Blaise Compaore_
+_Context: President, Burkina Faso, Blaise Compaore_
 
 ##### Egypt
 ### [Egypt restricts opposition before vote, with security forces arresting hundreds of opposition activists, and clamping down on the media ahead of parliamentary elections next week according to Amnesty International. ](/news/2010/11/21/egypt-restricts-opposition-before-vote-with-security-forces-arresting-hundreds-of-opposition-activists-and-clamping-down-on-the-media-ahea.md)
-_Context: Egypt, Amnesty International, Egyptian parliamentary elections_
+_Context: Egyptian parliamentary elections, Amnesty International, Egypt_
 
 ##### Iranian President
 ### [Iranian President Mahmoud Ahmadinejad rejects the country's once effective family planning program as an "ungodly Western import" and urges girls to marry at age of 16. ](/news/2010/11/21/iranian-president-mahmoud-ahmadinejad-rejects-the-country-s-once-effective-family-planning-program-as-an-ungodly-western-import-and-urges.md)

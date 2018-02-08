@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-w
 
 ### [2015-08-13](/news/2015/08/13/index.md)
 
-##### avoiding
+##### Avoiding
 # Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/22/a-series-of-bomb-attacks-around-the-iraqi-capit
 
 ### [2011-05-22](/news/2011/05/22/index.md)
 
-##### bomb
+##### Bomb
 # A series of bomb attacks around the Iraqi capital of Baghdad kills at least 18 people, including 7 policemen. 
 
 More than a dozen bomb attacks in and around Baghdad left 18 people dead and more than 80 wounded.

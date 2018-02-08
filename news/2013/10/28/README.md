@@ -9,7 +9,7 @@ _Context: Thai police officers, Narathiwat province_
 
 ##### Indian Army
 ### [An Indian Army soldier is reported killed and another injured along the Line of Control on the border with Pakistan in Kashmir. ](/news/2013/10/28/an-indian-army-soldier-is-reported-killed-and-another-injured-along-the-line-of-control-on-the-border-with-pakistan-in-kashmir.md)
-_Context: Indian Army, Pakistan, Kashmir, Line of Control_
+_Context: Line of Control, Pakistan, Kashmir, Indian Army_
 
 ##### Egypt
 ### [Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.md)
@@ -17,11 +17,11 @@ Three Egyptian policemen were killed on Monday when masked men attacked a checkp
 
 ##### Syria
 ### [The Syrian army retakes the ancient Christian town of Sadad. ](/news/2013/10/28/the-syrian-army-retakes-the-ancient-christian-town-of-sadad.md)
-_Context: Sadad, Syria_
+_Context: Syria, Sadad_
 
 ##### Tripoli, Lebanon
 ### [Two people are killed in the northern city of Tripoli in fighting between supporters and opponents of the Syrian government and the Lebanese army. ](/news/2013/10/28/two-people-are-killed-in-the-northern-city-of-tripoli-in-fighting-between-supporters-and-opponents-of-the-syrian-government-and-the-lebanese.md)
-_Context: Tripoli, Lebanon, Lebanon_
+_Context: Lebanese, Tripoli, Lebanon_
 
 ##### Gaza strip
 ### [Two rockets fired from the Gaza strip at a southern Israeli coastal city are shot down. ](/news/2013/10/28/two-rockets-fired-from-the-gaza-strip-at-a-southern-israeli-coastal-city-are-shot-down.md)
@@ -33,7 +33,7 @@ A suspected U.S. drone strike killed at least two Islamist al Shabaab insurgents
 
 ##### Australia
 ### [Australia declares its war in Afghanistan over while the Prime Minister, Tony Abbott, visits Afghanistan. ](/news/2013/10/28/australia-declares-its-war-in-afghanistan-over-while-the-prime-minister-tony-abbott-visits-afghanistan.md)
-_Context: Australian Prime Minister, Afghanistan, Tony Abbott, Australia_
+_Context: Tony Abbott, Australia, Afghanistan, Australian Prime Minister_
 
 ##### Southwire Co.
 ### [Copper fabricator Southwire Co. drops its lawsuit against two giant Wall Street firms over a possible copper exchange-traded fund, as market and regulatory conditions make such an ETF seem decreasingly likely. ](/news/2013/10/28/copper-fabricator-southwire-co-drops-its-lawsuit-against-two-giant-wall-street-firms-over-a-possible-copper-exchange-traded-fund-as-market.md)
@@ -53,15 +53,15 @@ Three Chinese anti-graft activists who agitated for officials to disclose their 
 
 ##### Conrad Murray
 ### [Dr Conrad Murray is released from prison in the American city of Los Angeles for involuntary manslaughter in the death of Michael Jackson. ](/news/2013/10/28/dr-conrad-murray-is-released-from-prison-in-the-american-city-of-los-angeles-for-involuntary-manslaughter-in-the-death-of-michael-jackson.md)
-_Context: Michael Jackson, Los Angeles, death, involuntary manslaughter, Conrad Murray_
+_Context: Michael Jackson, Conrad Murray, death, involuntary manslaughter, Los Angeles_
 
-##### government
+##### Government
 ### [Government and opposition leaders launch talks discussing a new premier. ](/news/2013/10/28/government-and-opposition-leaders-launch-talks-discussing-a-new-premier.md)
 Tunisian party leaders were meeting Monday to try to agree on a new premier in a bid to resolve a months-long political crisis linked to rising jihadist violence.
 
-##### gecko
+##### Gecko
 ### [Three new species of animals are discovered (a leaf-tailed gecko, a golden-coloured skink, and a boulder-dwelling frog) in the Cape York Peninsula of the Australian state of Queensland. ](/news/2013/10/28/three-new-species-of-animals-are-discovered-a-leaf-tailed-gecko-a-golden-coloured-skink-and-a-boulder-dwelling-frog-in-the-cape-york-pen.md)
-_Context: Cape York Peninsula, Queensland, skink, gecko_
+_Context: Queensland, Cape York Peninsula, gecko, skink_
 
 ## [Previous Day...](/news/2013/10/27/index.md)
 

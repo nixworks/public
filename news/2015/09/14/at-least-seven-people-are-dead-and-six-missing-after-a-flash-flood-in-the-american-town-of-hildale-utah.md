@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/14/at-least-seven-people-are-dead-and-six-missing-
 
 ### [2015-09-14](/news/2015/09/14/index.md)
 
-##### flash flood
+##### Flash flood
 # At least seven people are dead and six missing after a flash flood in the American town of Hildale, Utah. 
 
 WATCH 2News live with special coverage of the Hildale flash floodKUTV Hildale officials confirmed Monday night at least eight people were killed when heavy rains fueled a flash flood that washed two cars off the road near the crossing of Canyon Street and 

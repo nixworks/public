@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/12/the-guatemalan-army-is-accused-of-abducting-ove
 
 ### [2009-09-12](/news/2009/09/12/index.md)
 
-##### army
+##### Army
 #  The Guatemalan Army is accused of abducting over 300 children during the 1960&ndash;1996 Civil War and selling them for adoption. 
 
 

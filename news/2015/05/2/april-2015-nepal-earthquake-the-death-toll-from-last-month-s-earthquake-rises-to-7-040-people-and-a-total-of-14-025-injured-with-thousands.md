@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/2/april-2015-nepal-earthquake-the-death-toll-from-
 
 ### [2015-05-2](/news/2015/05/2/index.md)
 
-##### suspicions
+##### Suspicions
 # April 2015 Nepal earthquake: The death toll from last month's earthquake rises to 7,040 people and a total of 14,025 injured with thousands missing. Authorities in Nepal have given up hope of finding more survivors in the rubble. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/10/after-yesterday-s-attack-preserve-park-authorit
 
 ### [2013-05-10](/news/2013/05/10/index.md)
 
-##### elephant
+##### Elephant
 # After yesterday's attack, preserve park authorities discover that twenty-six elephants, including four calves, were killed by poachers in the Dzanga-Ndoki National Park in the Central African Republic. 
 
 

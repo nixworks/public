@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/24/al-qaeda-in-iraq-claims-in-its-website-that-abu
 
 ### [2005-05-24](/news/2005/05/24/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda in Iraq claims in its website that Abu Musab al-Zarqawi has been wounded. 
 
 

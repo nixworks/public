@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/17/as-expected-the-board-of-directors-of-the-walt-
 
 ### [2004-02-17](/news/2004/02/17/index.md)
 
-##### board of directors
+##### Board of directors
 #  As expected, the board of directors of the Walt Disney Company unanimously rejects a hostile buyout offer by Comcast, saying the cable television giant's $66 billion bid is too low, but does not rule out accepting a higher bid in the future. 
 
 Things to do in Miami

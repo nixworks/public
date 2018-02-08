@@ -3,25 +3,25 @@ Formats: [HTML](2013/03/17/index.html)  [JSON](2013/03/17/index.json)  [XML](201
 
 ## [2013-03-17](/news/2013/03/17/index.md)
 
-##### car bombing
+##### Car bombing
 ### [A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.md)
 Ten people are killed as a car bomb explodes at a bus station near Basra in southern Iraq, days before the 10th anniversary of the US-led invasion.
 
 ##### Japan
 ### [Japanese architect Toyo Ito wins the 2013 Pritzker Architecture Prize. ](/news/2013/03/17/japanese-architect-toyo-ito-wins-the-2013-pritzker-architecture-prize.md)
-_Context: Pritzker Architecture Prize, Toyo Ito, Japan, architect_
+_Context: Toyo Ito, Pritzker Architecture Prize, architect, Japan_
 
-##### train derailment
+##### Train derailment
 ### [Following a train derailment, Amtrak temporarily suspends service along the busy New York-to-Boston route. ](/news/2013/03/17/following-a-train-derailment-amtrak-temporarily-suspends-service-along-the-busy-new-york-to-boston-route.md)
-_Context: New York, Amtrak, Boston, train derailment_
+_Context: New York, Boston, Amtrak, train derailment_
 
 ##### Albania
 ### [An Albanian hitman serving time in Greece takes six people hostage in an apparent escape attempt. ](/news/2013/03/17/an-albanian-hitman-serving-time-in-greece-takes-six-people-hostage-in-an-apparent-escape-attempt.md)
 A hostage drama at a Greek prison ends peacefully with the surrender of an Albanian killer who previously escaped twice from a high-security jail.
 
-##### shooting
+##### Shooting
 ### [Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. ](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-nightclub-in-belle-glade-florida-united-states.md)
-_Context: nightclub, the state, Belle Glade, United States, shooting_
+_Context: shooting, United States, the state, nightclub, Belle Glade_
 
 ##### France
 ### [Prominent French lawyer Olivier Metzner is found dead of an apparent suicide. ](/news/2013/03/17/prominent-french-lawyer-olivier-metzner-is-found-dead-of-an-apparent-suicide.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-
 
 ### [2007-02-19](/news/2007/02/19/index.md)
 
-##### truth commission
+##### Truth commission
 #  A truth commission is set up by East Timor and Indonesia to promote reconciliation after the violence surrounding the 1999 independence referendum. 
 
 

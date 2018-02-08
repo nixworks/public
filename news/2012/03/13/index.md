@@ -25,7 +25,7 @@ Gunmen in Afghanistan have launched an attack on a government delegation at a me
 
 ##### Encyclopaedia Britannica
 ### ["Encyclopaedia Britannica", the oldest encyclopedia still in print in the English language, announces that it will no longer be producing printed versions but continuing online editions. ](/news/2012/03/13/encyclopaedia-britannica-the-oldest-encyclopedia-still-in-print-in-the-english-language-announces-that-it-will-no-longer-be-producing-pr.md)
-_Context: Encyclopaedia Britannica, encyclopedia, English_
+_Context: encyclopedia, Encyclopaedia Britannica, English_
 
 ##### Interviews Before Execution
 ### ["Interviews Before Execution", a Chinese television talk show that interviews death row inmates shortly before they are executed, is reportedly cancelled as a result of a BBC documentary on the programme which has attracted international attention. ](/news/2012/03/13/interviews-before-execution-a-chinese-television-talk-show-that-interviews-death-row-inmates-shortly-before-they-are-executed-is-reporte.md)
@@ -43,7 +43,7 @@ Jaguar Land Rover says it is creating 1,000 new jobs at its Halewood factory on 
 ### [Most of the largest financial institutions in the United States pass a Federal Reserve System stress test although Citigroup, MetLife, Ally Financial and SunTrust do not. ](/news/2012/03/13/most-of-the-largest-financial-institutions-in-the-united-states-pass-a-federal-reserve-system-stress-test-although-citigroup-metlife-ally.md)
 Most of the largest banks passed their annual stress test, the Federal Reserve revealed in an earlier-than-expected release of the results, after JPMorgan Chase pulled the trigger on announcing its glowing marks and helped lift the stock market.
 
-##### a ferry
+##### A ferry
 ### [At least 30 people are dead and dozens missing after the MV Shariatpur 1 ferry carrying 200 people collides with an oil tanker. It capsizes on the Meghna River in Bangladesh's Munshiganj District near the capital Dhaka. ](/news/2012/03/13/at-least-30-people-are-dead-and-dozens-missing-after-the-mv-shariatpur-1-ferry-carrying-200-people-collides-with-an-oil-tanker-it-capsizes.md)
 At least 32 people die and scores are missing after a ferry with some 200 people aboard sinks in southern Bangladesh, police say.
 
@@ -65,7 +65,7 @@ Rebekah Brooks and her husband are among six people who have been arrested this 
 
 ##### Australian Foreign Minister
 ### [Minister for Foreign Affairs Bob Carr is sworn in as a member of the Senate of Australia, replacing Mark Arbib, representing New South Wales.](/news/2012/03/13/minister-for-foreign-affairs-bob-carr-is-sworn-in-as-a-member-of-the-senate-of-australia-replacing-mark-arbib-representing-new-south-wales.md)
-_Context: Australian Foreign Minister, NSW, Mark Arbib, Bob Carr, Senate of Australia_
+_Context: Bob Carr, Australian Foreign Minister, NSW, Mark Arbib, Senate of Australia_
 
 ##### Alabama
 ### [Voters in the US states of Alabama and Mississippi head to the polls for primaries with Rick Santorum winning in both states. ](/news/2012/03/13/voters-in-the-us-states-of-alabama-and-mississippi-head-to-the-polls-for-primaries-with-rick-santorum-winning-in-both-states.md)

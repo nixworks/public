@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/24/the-price-of-nickel-is-expected-to-skyrocket-af
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
-##### nickel
+##### Nickel
 # The price of nickel is expected to skyrocket after the incoming Philippine government appoints an anti-mining bureaucrat Gina Lopez to the national cabinet. The Philippines is the biggest exporter of nickel to China. 
 
 

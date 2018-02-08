@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/23/a-new-seemingly-chronic-but-non-contagious-immu
 
 ### [2012-08-23](/news/2012/08/23/index.md)
 
-##### new
+##### New
 # A new, seemingly chronic but non-contagious, immunodeficiency disease is diagnosed since 2004, affecting mainly people of Asian genotype aged around 50. Most patients create interferon-gamma-blocking autoantibodies more frequently. Genetic factors are suspected but it would not "run in families". Also, something in the environment may trigger the disease. 
 
 

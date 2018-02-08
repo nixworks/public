@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/11/a-magnitude-7-1-earthquake-strikes-off-the-coas
 
 ### [2014-04-11](/news/2014/04/11/index.md)
 
-##### magnitude earthquake
+##### Magnitude earthquake
 # A magnitude 7.1 earthquake strikes off the coast of Papua New Guinea, setting off tsunami warnings for the country. 
 
 A powerful magnitude 7.1 earthquake has struck off Papua New Guinea with a 6.7-magnitude aftershock following the quake off the island of Bougainville.

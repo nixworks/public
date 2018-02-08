@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/4/an-explosion-at-a-nightclub-in-perm-russia-kills
 
 ### [2009-12-4](/news/2009/12/4/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion at a nightclub in Perm, Russia, kills at least one hundred and injures around a hundred people. 
 
 Russian President Dmitry Medvedev demands tighter fire codes after the deadliest blaze since the Soviet era killed at least 107 people celebrating in a nightclub.

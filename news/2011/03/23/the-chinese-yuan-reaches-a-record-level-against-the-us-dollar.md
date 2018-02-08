@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/23/the-chinese-yuan-reaches-a-record-level-against
 
 ### [2011-03-23](/news/2011/03/23/index.md)
 
-##### yuan
+##### Yuan
 # The Chinese yuan reaches a record level against the US dollar. 
 
 

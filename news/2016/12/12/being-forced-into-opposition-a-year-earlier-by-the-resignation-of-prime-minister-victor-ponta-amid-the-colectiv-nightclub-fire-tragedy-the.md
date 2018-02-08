@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/12/being-forced-into-opposition-a-year-earlier-by-
 
 ### [2016-12-12](/news/2016/12/12/index.md)
 
-##### earlier this month
+##### Earlier this month
 # Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. 
 
 Despite recent scandals, the Social Democratic Party secured a large lead in parliamentary elections. The main question now is who will be prime minister.

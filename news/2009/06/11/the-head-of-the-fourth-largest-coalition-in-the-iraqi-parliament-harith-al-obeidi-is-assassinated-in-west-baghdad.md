@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/11/the-head-of-the-fourth-largest-coalition-in-the
 
 ### [2009-06-11](/news/2009/06/11/index.md)
 
-##### fourth largest coalition
+##### Fourth largest coalition
 #  The head of the fourth largest coalition in the Iraqi parliament, Harith al-Obeidi, is assassinated in west Baghdad. 
 
 

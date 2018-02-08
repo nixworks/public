@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/5/a-bomb-explosion-at-an-airport-in-davao-city-phi
 
 ### [2003-03-5](/news/2003/03/5/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explosion at an airport in Davao City, Philippines, killed at least 19 people.
 
 

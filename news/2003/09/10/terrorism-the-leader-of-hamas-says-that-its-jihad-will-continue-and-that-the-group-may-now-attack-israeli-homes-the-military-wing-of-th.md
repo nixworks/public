@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/10/terrorism-the-leader-of-hamas-says-that-its-jih
 
 ### [2003-09-10](/news/2003/09/10/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: The leader of Hamas, says that its jihad will continue, and that the group may now attack Israeli homes. The military wing of the group has threatened to change tactics by attacking Israeli houses and buildings after Israel tried to kill Hamas political leader.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/16/an-explosion-at-a-coal-mine-in-shizuishan-city-
 
 ### [2008-10-16](/news/2008/10/16/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion at a coal mine in Shizuishan city in the Ningxia Hui Autonomous Region in the People's Republic of China results in at least 16 deaths. 
 
 

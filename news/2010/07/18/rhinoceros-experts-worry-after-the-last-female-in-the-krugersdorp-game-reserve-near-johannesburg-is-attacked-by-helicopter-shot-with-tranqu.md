@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/18/rhinoceros-experts-worry-after-the-last-female-
 
 ### [2010-07-18](/news/2010/07/18/index.md)
 
-##### rhino
+##### Rhino
 # Rhinoceros experts worry after the last female in the Krugersdorp game reserve near Johannesburg is attacked by helicopter, shot with tranquiliser guns, and has her horn hacked off by poachers, slowly bleeding to death. 
 
 

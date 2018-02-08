@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/19/at-least-75-miners-are-dead-after-a-methane-gas
 
 ### [2007-03-19](/news/2007/03/19/index.md)
 
-##### methane
+##### Methane
 #  At least 75 miners are dead after a methane gas explosion in the Ulyanovskaya coal mine in the city of Novokuznetsk in the Kemerovo region of Siberia. 
 
 

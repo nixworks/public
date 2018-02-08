@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/9/the-wreckage-of-a-plane-carrying-mexican-america
 
 ### [2012-12-9](/news/2012/12/9/index.md)
 
-##### wreckage of a plane
+##### Wreckage of a plane
 # The wreckage of a plane carrying Mexican-American singer Jenni Rivera with two pilots and four other passengers is found in northern Mexico with no apparent survivors. 
 
 

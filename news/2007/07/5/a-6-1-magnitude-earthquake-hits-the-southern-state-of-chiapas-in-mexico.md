@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/5/a-6-1-magnitude-earthquake-hits-the-southern-sta
 
 ### [2007-07-5](/news/2007/07/5/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.1 magnitude earthquake hits the southern state of Chiapas in Mexico. 
 
 A forceful 6.1 magnitude earthquake shook two poor southern Mexican farming states on Thursday, scaring residents but apparently causing no injuries or damage, authorities said.

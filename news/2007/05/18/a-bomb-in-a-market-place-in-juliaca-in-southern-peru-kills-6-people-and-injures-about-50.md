@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/18/a-bomb-in-a-market-place-in-juliaca-in-southern
 
 ### [2007-05-18](/news/2007/05/18/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb in a market place in Juliaca in southern Peru kills 6 people and injures about 50. 
 
 

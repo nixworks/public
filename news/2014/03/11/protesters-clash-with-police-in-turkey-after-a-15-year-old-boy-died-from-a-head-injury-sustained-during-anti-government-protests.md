@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/11/protesters-clash-with-police-in-turkey-after-a-
 
 ### [2014-03-11](/news/2014/03/11/index.md)
 
-##### anti-government protests
+##### Anti-government protests
 # Protesters clash with police in Turkey after a 15-year-old boy died from a head injury sustained during anti-government protests. 
 
 Berkin Elvan has been in coma since June last year when he was hit by a teargas cartridge during anti-government protests in Istanbul

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/27/the-world-honours-mozart-on-his-250th-birthday-
 
 ### [2006-01-27](/news/2006/01/27/index.md)
 
-##### world
+##### World
 #  The world honours Mozart on his 250th birthday anniversary. 
 
 

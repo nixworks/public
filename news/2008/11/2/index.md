@@ -9,11 +9,11 @@ _Context: Felipe Massa, Lewis Hamilton, 2008 Formula One Drivers' Championship_
 
 ##### Sbastien Loeb
 ### [ Sbastien Loeb of Citron becomes the first World Rally Championship driver to become World Champion for the fifth consecutive time. ](/news/2008/11/2/sebastien-loeb-of-citroen-becomes-the-first-world-rally-championship-driver-to-become-world-champion-for-the-fifth-consecutive-time.md)
-_Context: World Rally Championship, Citron, World Champion, Sbastien Loeb_
+_Context: Citron, World Champion, World Rally Championship, Sbastien Loeb_
 
 ##### Rupiah Banda
 ### [ Rupiah Banda of the Movement for Multi-Party Democracy is sworn in as President of Zambia after being elected on October 30. ](/news/2008/11/2/rupiah-banda-of-the-movement-for-multi-party-democracy-is-sworn-in-as-president-of-zambia-after-being-elected-on-october-30.md)
-_Context: President, Zambia, being elected, Movement for Multi-Party Democracy, Rupiah Banda_
+_Context: Zambia, being elected, Movement for Multi-Party Democracy, President, Rupiah Banda_
 
 ## [Previous Day...](/news/2008/11/1/index.md)
 

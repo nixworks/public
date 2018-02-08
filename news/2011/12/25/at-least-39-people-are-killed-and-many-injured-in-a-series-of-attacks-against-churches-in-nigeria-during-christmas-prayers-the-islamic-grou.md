@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/25/at-least-39-people-are-killed-and-many-injured-
 
 ### [2011-12-25](/news/2011/12/25/index.md)
 
-##### series of attacks
+##### Series of attacks
 # At least 39 people are killed and many injured in a series of attacks against churches in Nigeria during Christmas prayers. The Islamic group Boko Haram claims responsibility. 
 
 Terror attacks across Nigeria by a radical Muslim sect killed at least 39 on Sunday, most of them at a Catholic church after Christmas Mass.

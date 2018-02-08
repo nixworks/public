@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/22/a-mosque-in-east-london-and-the-surrounding-are
 
 ### [2005-07-22](/news/2005/07/22/index.md)
 
-##### mosque
+##### Mosque
 #  A mosque in east London and the surrounding area is evacuated for an hour following receipt of a bomb warning. The all-clear is given after the mosque is searched by police. (Wikinews), 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/2/two-people-are-charged-with-spreading-false-info
 
 ### [2009-11-2](/news/2009/11/2/index.md)
 
-##### spreading false information
+##### Spreading false information
 #  Two people are charged with "spreading false information" about the health of Thailand's King Bhumibol Adulyadej. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/14/a-massive-power-outage-occurs-in-parts-of-chile
 
 ### [2010-03-14](/news/2010/03/14/index.md)
 
-##### massive power outage
+##### Massive power outage
 # A massive power outage occurs in parts of Chile, including Santiago, with ONEMI working to restore service. 
 
 Chile News | Breaking News, Views, Analysis

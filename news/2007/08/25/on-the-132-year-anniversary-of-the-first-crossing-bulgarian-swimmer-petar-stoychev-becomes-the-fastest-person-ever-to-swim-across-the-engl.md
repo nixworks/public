@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/25/on-the-132-year-anniversary-of-the-first-crossi
 
 ### [2007-08-25](/news/2007/08/25/index.md)
 
-##### first crossing
+##### First crossing
 #  On the 132-year anniversary of the first crossing, Bulgarian swimmer Petar Stoychev becomes the fastest person ever to swim across the English Channel. 
 
 

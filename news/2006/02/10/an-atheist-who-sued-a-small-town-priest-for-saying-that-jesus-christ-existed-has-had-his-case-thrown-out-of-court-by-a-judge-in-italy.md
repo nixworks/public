@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/10/an-atheist-who-sued-a-small-town-priest-for-say
 
 ### [2006-02-10](/news/2006/02/10/index.md)
 
-##### atheist
+##### Atheist
 #  An atheist who sued a small-town priest for saying that Jesus Christ existed has had his case thrown out of court by a judge in Italy. 
 
 

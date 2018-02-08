@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/21/the-parole-board-in-the-u-s-state-of-alabama-gr
 
 ### [2013-11-21](/news/2013/11/21/index.md)
 
-##### parole board
+##### Parole board
 # The parole board in the U.S. state of Alabama grants posthumous pardons to three members of the Scottsboro boys falsely accused of raping a white teenager. 
 
 

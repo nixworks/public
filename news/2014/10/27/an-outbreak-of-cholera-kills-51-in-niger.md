@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/27/an-outbreak-of-cholera-kills-51-in-niger.html) 
 
 ### [2014-10-27](/news/2014/10/27/index.md)
 
-##### cholera
+##### Cholera
 # An outbreak of cholera kills 51 in Niger. 
 
 

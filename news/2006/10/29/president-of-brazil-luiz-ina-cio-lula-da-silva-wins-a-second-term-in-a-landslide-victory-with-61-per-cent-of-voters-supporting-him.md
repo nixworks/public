@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/29/president-of-brazil-luiz-ina-cio-lula-da-silva-
 
 ### [2006-10-29](/news/2006/10/29/index.md)
 
-##### president
+##### President
 #  President of Brazil Luiz Inacio Lula da Silva wins a second term in a landslide victory with 61 per cent of voters supporting him. 
 
 

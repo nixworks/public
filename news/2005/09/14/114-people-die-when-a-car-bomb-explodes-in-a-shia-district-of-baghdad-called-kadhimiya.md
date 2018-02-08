@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/14/114-people-die-when-a-car-bomb-explodes-in-a-sh
 
 ### [2005-09-14](/news/2005/09/14/index.md)
 
-##### car bomb
+##### Car bomb
 #  114 people die when a car bomb explodes in a Shia district of Baghdad called Kadhimiya. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/18/an-arson-attack-on-an-underground-train-in-the-
 
 ### [2003-02-18](/news/2003/02/18/index.md)
 
-##### arson
+##### Arson
 #  An arson attack on an underground train in the Daegu, South Korea, claims lives of 192 and 148 injured and dozens missing. Witnesses reportedly saw a man throwing a milk carton filled with a flammable substance into a train.
 
 

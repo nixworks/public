@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of
 
 ### [2010-12-29](/news/2010/12/29/index.md)
 
-##### protests
+##### Protests
 # 2010 Tunisian protests: People ignore threats of "firm" punishment from Tunisian President Zine El Abidine Ben Ali and continue to protest over unemployment and poor living conditions. 
 
 

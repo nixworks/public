@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/24/a-sightseeing-seaplane-crashes-on-quebec-s-nort
 
 ### [2015-08-24](/news/2015/08/24/index.md)
 
-##### sightseeing
+##### Sightseeing
 # A sightseeing seaplane crashes on Quebec's North Shore killing all six people aboard. 
 
 

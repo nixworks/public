@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/16/in-response-to-american-criticism-of-the-dutert
 
 ### [2016-09-16](/news/2016/09/16/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # In response to American criticism of the Duterte regime, Filipino foreign secretary Perfecto Yasay says the Philippines cannot remain as the "little brown brother" of the United States. 
 
 The European Parliament has condemned the current wave of extrajudicial killings in the Philippines and urged the government to “put an end” to these amid the war against illegal drugs. 

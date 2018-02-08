@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/16/u-s-pop-singer-bruno-mars-pleads-guilty-to-coca
 
 ### [2011-02-16](/news/2011/02/16/index.md)
 
-##### pop
+##### Pop
 # U.S. pop singer Bruno Mars pleads guilty to cocaine possession in Las Vegas, Nevada. 
 
 

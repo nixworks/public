@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/2/eleven-people-are-killed-and-four-survive-after-
 
 ### [2010-08-2](/news/2010/08/2/index.md)
 
-##### plane crashes
+##### Plane crashes
 # Eleven people are killed and four survive after a passenger plane crashes in Russia's Krasnoyarsk territory. 
 
 At least 15 people inlcuding 5 crew of a Russian Antonov An-24 aircraft are feared killed in a Siberian town, even as massive relief and rescue operations have been launched to search for the survivors. 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/16/tens-of-thousands-of-refugees-are-homeless-in-t
 
 ### [2006-02-16](/news/2006/02/16/index.md)
 
-##### refugees
+##### Refugees
 #  Tens of thousands of refugees are homeless in the Western Sahara after rains wiped out their shelters. 
 
 

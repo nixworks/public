@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/10/a-smoking-ban-comes-into-effect-in-italy-prohib
 
 ### [2005-01-10](/news/2005/01/10/index.md)
 
-##### smoking ban
+##### Smoking ban
 #  A smoking ban comes into effect in Italy, prohibiting smoking in public places. It has been reported that some businesses and smokers intend to defy the ban. 
 
 

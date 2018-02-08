@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/1/same-sex-marriage-in-california-the-california-s
 
 ### [2005-09-1](/news/2005/09/1/index.md)
 
-##### ban
+##### Ban
 #  Same-sex marriage in California: The California Senate passes the first bill to allow same-sex marriage in the United States. The vote of 21 in favor and 15 against sets the stage for a showdown in the state Assembly, which narrowly rejected a similar bill in June by a margin of two votes. Since the June vote some major California organizations have changed stance to support same-sex marriage, including the influential Latino group: the United Farm Workers. Latinos account for 34 percent of the population in the state. 
 
 

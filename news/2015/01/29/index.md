@@ -9,11 +9,11 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 
 ##### Taliban insurgency
 ### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)
-_Context: Taliban insurgency, Taliban, Afghanistan_
+_Context: Afghanistan, Taliban, Taliban insurgency_
 
 ##### Moro insurgency in the Philippines
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: peace deal, peace treaty, Moro insurgency in the Philippines, January 25 botched police operation, Philippine National Police, Maria Lourdes Sereno, President, Chief Justice, Zulkifli Abdhir, Supreme Court of the Philippines, Filipino Muslims, his predecessor, Philippines_
+_Context: January 25 botched police operation, Philippine National Police, Moro insurgency in the Philippines, Zulkifli Abdhir, Chief Justice, peace deal, President, Filipino Muslims, Maria Lourdes Sereno, his predecessor, Supreme Court of the Philippines, peace treaty, Philippines_
 
 ##### Iraqi insurgency (2011-present)
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
@@ -29,21 +29,21 @@ Yemeni officials said that Houthis have captured a camp south of the capital, wh
 
 ##### Paraguayan People's Army
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
-_Context: Paraguayan People's Army, German, Paraguay_
+_Context: German, Paraguayan People's Army, Paraguay_
 
 ##### Philippine economy
 ### [The Philippine economy grew by more than 6% in 2014 making it the second fastest growing economy in Asia after China. This is the longest sustained growth period in the country since the 1950s. ](/news/2015/01/29/the-philippine-economy-grew-by-more-than-6-in-2014-making-it-the-second-fastest-growing-economy-in-asia-after-china-this-is-the-longest-su.md)
 The Philippines has been blighted by decades of corrupt governments, besides it is also vulnerable to frequent natural disasters such as typhoons and floods.
 
-##### propane
+##### Propane
 ### [A Nieto Express propane gas tanker truck explodes near the loading dock of a maternity and children's hospital (Hospital Materno Infantil Cuajimalpa) in Mexico City, collapsing much of the hospital with at least three deaths and 70 people injured, 22 of whom are children. ](/news/2015/01/29/a-nieto-express-propane-gas-tanker-truck-explodes-near-the-loading-dock-of-a-maternity-and-children-s-hospital-hospital-materno-infantil-cu.md)
 A gas tank truck explodes outside a maternity hospital in Mexico City, killing a nurse and two babies.
 
 ##### Malaysia Airlines Flight 370
 ### [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md)
-_Context: Malaysia Airlines Flight 370, Malaysia, Indian_
+_Context: Malaysia, Indian, Malaysia Airlines Flight 370_
 
-##### northern England
+##### Northern England
 ### [Heavy snowfall in northern England leads to the closures of hundreds of schools, roads and Manchester Airport. ](/news/2015/01/29/heavy-snowfall-in-northern-england-leads-to-the-closures-of-hundreds-of-schools-roads-and-manchester-airport.md)
 Snowstorms bring travel chaos to northern England, closing more than 300 schools, roads and airports.
 
@@ -51,7 +51,7 @@ Snowstorms bring travel chaos to northern England, closing more than 300 schools
 ### [Dutch police arrest a fake gunman who disrupted the Netherlands news broadcaster NOS after storming into the studio and demanding airtime. ](/news/2015/01/29/dutch-police-arrest-a-fake-gunman-who-disrupted-the-netherlands-news-broadcaster-nos-after-storming-into-the-studio-and-demanding-airtime.md)
 A man wielding a fake gun is arrested in a studio of Dutch news broadcaster NOS, causing the main evening bulletins to be cancelled.
 
-##### hip hop
+##### Hip hop
 ### [American hip hop music mogul Suge Knight drives a vehicle into a crowd in Compton, California near Los Angeles resulting in the death of a pedestrian in what authorities are calling a hit and run. ](/news/2015/01/29/american-hip-hop-music-mogul-suge-knight-drives-a-vehicle-into-a-crowd-in-compton-california-near-los-angeles-resulting-in-the-death-of-a-p.md)
 Knight&#x27;s attorney said the rap impresario was behind the wheel of the truck, but called the deadly crash in Compton a &quot;tragic accident.&quot;
 

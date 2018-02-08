@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/6/according-to-officials-an-explosion-kills-at-lea
 
 ### [2008-11-6](/news/2008/11/6/index.md)
 
-##### an explosion
+##### An explosion
 #  According to officials, an explosion kills at least 11 people aboard a minibus in the North Caucasus city of Vladikavkaz, Russia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/22/steve-zadesky-who-has-been-running-the-electric
 
 ### [2016-01-22](/news/2016/01/22/index.md)
 
-##### electric car project
+##### Electric car project
 # Steve Zadesky, who has been running the electric car project for Apple Inc. for two years, will leave that company soon for personal reasons, according to the Wall Street Journal. 
 
 Steve Zadesky, a 16-year Apple veteran who has been overseeing its electric-car project for the last two years, has told people he is leaving the company.

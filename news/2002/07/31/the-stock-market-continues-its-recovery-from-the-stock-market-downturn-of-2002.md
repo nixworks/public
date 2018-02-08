@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/07/31/the-stock-market-continues-its-recovery-from-th
 
 ### [2002-07-31](/news/2002/07/31/index.md)
 
-##### stock market
+##### Stock market
 # The stock market continues its recovery from the Stock market downturn of 2002
 
 

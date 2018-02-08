@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/15/two-hundred-protestors-are-arrested-after-a-rio
 
 ### [2009-03-15](/news/2009/03/15/index.md)
 
-##### protest
+##### Protest
 #  Two hundred protestors are arrested after a riot against police brutality in Montreal, Canada. 
 
 

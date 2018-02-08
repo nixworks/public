@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/3/the-solar-powered-aircraft-solar-impulse-2-lande
 
 ### [2015-07-3](/news/2015/07/3/index.md)
 
-##### solar-powered aircraft
+##### Solar-powered aircraft
 # The solar-powered aircraft Solar Impulse 2 landed in Hawaii from Japan, completing the longest leg of its circumnavigation trip starting in Abu Dhabi. 
 
 Solar Impulse, the aeroplane that is powered only by the sun, lands in Hawaii after making a historic 7,200km flight across the Pacific from Japan.

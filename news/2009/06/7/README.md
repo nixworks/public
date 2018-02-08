@@ -5,7 +5,7 @@ Formats: [HTML](2009/06/7/index.html)  [JSON](2009/06/7/index.json)  [XML](2009/
 
 ##### European Union
 ### [ The European Union's parliamentary election concludes in Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Italy, Lithuania, Luxembourg, Poland, Portugal, Romania, Slovenia, Spain, and Sweden. ](/news/2009/06/7/the-european-union-s-parliamentary-election-concludes-in-austria-belgium-bulgaria-denmark-estonia-finland-france-germany-greece-hu.md)
-_Context: Hungary, Belgium, Estonia, Italy, election, Slovenia, Bulgaria, Romania, Denmark, France, Sweden, European Union, Lithuania, Portugal, Finland, Austria, Poland, European Parliament, Luxembourg, Greece, Germany, Spain_
+_Context: election, Romania, Slovenia, Portugal, Luxembourg, Estonia, Lithuania, Germany, Spain, Bulgaria, European Parliament, Austria, Sweden, Denmark, European Union, France, Italy, Poland, Hungary, Finland, Belgium, Greece_
 
 ##### Air France
 ### [ Air France replaces airspeed sensors on its Airbus aircraft. ](/news/2009/06/7/air-france-replaces-airspeed-sensors-on-its-airbus-aircraft.md)
@@ -13,15 +13,15 @@ Search crews have spotted more bodies and found a large amount of debris from th
 
 ##### Bolivia
 ### [ Bolivia's government seeks two Irish passport-holders who are allegedly connected to the attempted assassination of President Evo Morales in April. ](/news/2009/06/7/bolivia-s-government-seeks-two-irish-passport-holders-who-are-allegedly-connected-to-the-attempted-assassination-of-president-evo-morales-i.md)
-_Context: passport-holders, Evo Morales, government, Bolivia, April 2009, Irish, assassination, President of Bolivia_
+_Context: passport-holders, Irish, April 2009, Bolivia, government, President of Bolivia, assassination, Evo Morales_
 
-##### gay pride
+##### Gay pride
 ### [ A seven-day gay pride festival is held for the first time in Shanghai, China. ](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-first-time-in-shanghai-china.md)
-_Context: gay pride, Shanghai, festival, China_
+_Context: Shanghai, festival, China, gay pride_
 
 ##### United States
 ### [ The United States Supreme Court is requested to block Italian automaker Fiat's purchase of Chrysler. ](/news/2009/06/7/the-united-states-supreme-court-is-requested-to-block-italian-automaker-fiat-s-purchase-of-chrysler.md)
-_Context: Chrysler, United States, Fiat, Supreme Court of the United States, purchase, Italy, automakers, Indiana State Police Pension Trust v. Chrysler_
+_Context: United States, Italy, Indiana State Police Pension Trust v. Chrysler, Chrysler, Supreme Court of the United States, purchase, Fiat, automakers_
 
 ##### Cuba
 ### [ Former Cuban President Fidel Castro dismisses allegations that ex-U.S. State Department employee Kendall Myers spied for his country. ](/news/2009/06/7/former-cuban-president-fidel-castro-dismisses-allegations-that-ex-u-s-state-department-employee-kendall-myers-spied-for-his-country.md)
@@ -33,15 +33,15 @@ A co-ordinated plot by British cabinet ministers was behind the resignations las
 
 ##### Dalai Lama
 ### [ Dalai Lama Tenzin Gyatso is granted honorary citizenship in Paris, France. ](/news/2009/06/7/dalai-lama-tenzin-gyatso-is-granted-honorary-citizenship-in-paris-france.md)
-_Context: France, Dalai Lama, Paris, 14th Dalai Lama, honorary citizenship_
+_Context: France, honorary citizenship, Paris, 14th Dalai Lama, Dalai Lama_
 
-##### declares
+##### Declares
 ### [ Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. ](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is-killed-in-mogadishu-somalia.md)
-_Context: declares, Somalia, Mogadishu_
+_Context: Somalia, Mogadishu, declares_
 
 ##### Billy Elliot the Musical
 ### [ "Billy Elliot the Musical" wins Best Musical and "God of Carnage" wins Best Play at the 63rd Tony Awards. ](/news/2009/06/7/billy-elliot-the-musical-wins-best-musical-and-god-of-carnage-wins-best-play-at-the-63rd-tony-awards.md)
-_Context: Best Play, God of Carnage, Billy Elliot the Musical, 63rd, Best Musical, Tony Award_
+_Context: Billy Elliot the Musical, Tony Award, God of Carnage, Best Musical, 63rd, Best Play_
 
 ## [Previous Day...](/news/2009/06/6/index.md)
 

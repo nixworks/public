@@ -9,31 +9,31 @@ Two people are shot dead in northern Senegal during protests after a court ruled
 
 ##### Local coordination committees
 ### [Local coordination committees in Syria call for a day of remembrance for lives lost in the ongoing uprising. ](/news/2012/01/30/local-coordination-committees-in-syria-call-for-a-day-of-remembrance-for-lives-lost-in-the-ongoing-uprising.md)
-_Context: 2011-2012 Syrian uprising, Local coordination committees, Syria_
+_Context: 2011-2012 Syrian uprising, Syria, Local coordination committees_
 
 ##### Tibetan
 ### [Tibetan advocacy groups claim that as many as seven ethnic Tibetans have been killed and 60 wounded in the past week in protests in China's Sichuan province bordering Tibet. ](/news/2012/01/30/tibetan-advocacy-groups-claim-that-as-many-as-seven-ethnic-tibetans-have-been-killed-and-60-wounded-in-the-past-week-in-protests-in-china-s.md)
 The Tibetan government-in-exile has colluded with Western governments to distort a recent string of police shootings in Tibetan areas of China in a bid to discredit the government, an official Chinese newspaper said Monday.
 
-##### a mutiny
+##### A mutiny
 ### [Soldiers who attempted a mutiny last week in Papua New Guinea hand their weapons over to the Deputy Prime Minister Belden Namah in return for a general amnesty. ](/news/2012/01/30/soldiers-who-attempted-a-mutiny-last-week-in-papua-new-guinea-hand-their-weapons-over-to-the-deputy-prime-minister-belden-namah-in-return-fo.md)
-_Context: Papua New Guinea, a mutiny, amnesty, Belden Namah_
+_Context: a mutiny, amnesty, Belden Namah, Papua New Guinea_
 
 ##### Sudan
 ### [Sudanese officials claim that the army has freed 14 of 29 Chinese workers held by rebels in the South Kordofan region since last Saturday. ](/news/2012/01/30/sudanese-officials-claim-that-the-army-has-freed-14-of-29-chinese-workers-held-by-rebels-in-the-south-kordofan-region-since-last-saturday.md)
 The fate of 29 Chinese workers kidnapped in Sudan is unclear after Chinese officials are quoted casting doubts on reports that some have been freed.
 
-##### flying drone
+##### Flying drone
 ### [A US drone airstrike kills 15 members of al Qaida in the Arabian Peninsula in the Yemeni town of Lawdar in the Abyan Governorate. ](/news/2012/01/30/a-us-drone-airstrike-kills-15-members-of-al-qaida-in-the-arabian-peninsula-in-the-yemeni-town-of-lawdar-in-the-abyan-governorate.md)
-_Context: Lawdar, Yemen, flying drone, Abyan Governorate, al Qaida in the Arabian Peninsula_
+_Context: Abyan Governorate, Yemen, flying drone, al Qaida in the Arabian Peninsula, Lawdar_
 
-##### fake medicine crisis
+##### Fake medicine crisis
 ### [The death toll from a fake medicine crisis at a cardiology hospital in Lahore, Pakistan, reaches 112. ](/news/2012/01/30/the-death-toll-from-a-fake-medicine-crisis-at-a-cardiology-hospital-in-lahore-pakistan-reaches-112.md)
 _Context: Lahore, fake medicine crisis, Pakistan_
 
 ##### Indonesia
 ### [An Indonesian court in Jayapura indicts five Papuan activists for declaring independence in October. ](/news/2012/01/30/an-indonesian-court-in-jayapura-indicts-five-papuan-activists-for-declaring-independence-in-october.md)
-_Context: Indonesia, Jayapura, indicted, Papuan_
+_Context: Papuan, Jayapura, indicted, Indonesia_
 
 ##### U.S. President
 ### [U.S. President Barack Obama answers questions about the State of the Union posed by citizens in the first-ever completely virtual interview from the White House but fails to answer the most popular questions which were related to the controversial topic of marijuana legalization. ](/news/2012/01/30/u-s-president-barack-obama-answers-questions-about-the-state-of-the-union-posed-by-citizens-in-the-first-ever-completely-virtual-interview.md)

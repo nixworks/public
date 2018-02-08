@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/13/iran-asks-austria-to-secure-the-talks-over-its-
 
 ### [2015-06-13](/news/2015/06/13/index.md)
 
-##### several world powers
+##### Several world powers
 # Iran asks Austria to secure the talks over its nuclear program following reports of cybersecurity breaches. 
 
 Iran has asked Austria&#39;s government to take immediate measures to protect the cyber security of nuclear talks, media reported Saturday after reports emerged of suspected espionage at negotiation venues.

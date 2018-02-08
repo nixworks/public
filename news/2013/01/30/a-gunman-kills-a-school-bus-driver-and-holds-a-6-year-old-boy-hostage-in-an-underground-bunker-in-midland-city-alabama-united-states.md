@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/30/a-gunman-kills-a-school-bus-driver-and-holds-a-
 
 ### [2013-01-30](/news/2013/01/30/index.md)
 
-##### school bus
+##### School bus
 # A gunman kills a school bus driver and holds a 6-year-old boy hostage in an underground bunker in Midland City, Alabama, United States. 
 
 

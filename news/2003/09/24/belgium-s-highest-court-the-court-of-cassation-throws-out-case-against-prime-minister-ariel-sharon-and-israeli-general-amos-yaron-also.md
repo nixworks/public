@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/24/belgium-s-highest-court-the-court-of-cassation-
 
 ### [2003-09-24](/news/2003/09/24/index.md)
 
-##### court
+##### Court
 #  Belgium's highest court, the Court of Cassation, throws out case against Prime Minister Ariel Sharon and Israeli General Amos Yaron. Also, a case against former U.S. President George H. W. Bush (for war crimes in Iraq) and Secretary of State Colin Powell is dismissed.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/26/an-independent-counsel-finds-that-the-governor-
 
 ### [2010-08-26](/news/2010/08/26/index.md)
 
-##### independent counsel
+##### Independent counsel
 # An independent counsel finds that the Governor of New York David Paterson gave misleading evidence about intending to pay for free tickets that he obtained to last year's baseball world series and refers the issue to the Albany District Attorney for possible prosecution for perjury. 
 
 

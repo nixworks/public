@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/1/the-people-s-alliance-for-democracy-leaves-prote
 
 ### [2008-12-1](/news/2008/12/1/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  The People's Alliance for Democracy leaves protesting at the Thai Government House and distributes protesters to Bangkok's two airports, Suvarnabhumi and Don Muang, for security reasons. 
 
 

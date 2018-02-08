@@ -15,7 +15,7 @@ Prince Harry has arrived in Sydney to celebrate the Navy centenary as part of th
 ### [The United States Department of Defense calls back 350,000 of its furloughed civilian workers. ](/news/2013/10/5/the-united-states-department-of-defense-calls-back-350-000-of-its-furloughed-civilian-workers.md)
 Defense secretary says a bill passed by Congress last week exempts workers who give &lsquo;direct support.&rsquo;
 
-##### two referendums
+##### Two referendums
 ### [In two referendums, voters in the Republic of Ireland reject government proposals to abolish Seanad ireann, the upper house of the country's parliament, but support plans to create a Court of Appeal. ](/news/2013/10/5/in-two-referendums-voters-in-the-republic-of-ireland-reject-government-proposals-to-abolish-seanad-eireann-the-upper-house-of-the-country.md)
 Voters in the Republic of Ireland have rejected a government proposal to abolish the Irish Seanad (upper house of parliament).
 

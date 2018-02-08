@@ -7,13 +7,13 @@ Formats: [HTML](2012/12/8/index.html)  [JSON](2012/12/8/index.json)  [XML](2012/
 ### [Russia arms Syria with Iskander missiles in response to NATO's stationing of Patriot missile defense systems in Turkey. ](/news/2012/12/8/russia-arms-syria-with-iskander-missiles-in-response-to-nato-s-stationing-of-patriot-missile-defense-systems-in-turkey.md)
 Hours after NATO agreed on Tuesday to send Patriot missiles to Turkey because of the crisis in Syria, Russia delivered its first shipment of Iskander missiles to Syria. The superior Iskander can travel at hypersonic speed of over 1.3 miles per second (Mach 6-7) and has a range of over 280 miles with...
 
-##### presidential palace
+##### Presidential palace
 ### [Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. ](/news/2012/12/8/tens-of-thousands-of-protesters-continue-to-camp-outside-the-palace-of-the-president-of-egypt-mohamed-morsi.md)
 The Egyptian opposition maintains protests outside the presidential palace in Cairo, as it rejects a call for dialogue by President Mohammed Morsi.
 
 ##### President
 ### [The President of the Philippines Benigno Aquino declares a state of national calamity in the country following Typhoon Bopha, which has claimed over 450 lives. ](/news/2012/12/8/the-president-of-the-philippines-benigno-aquino-declares-a-state-of-national-calamity-in-the-country-following-typhoon-bopha-which-has-clai.md)
-_Context: Typhoon Bopha, his predecessor, President_
+_Context: Typhoon Bopha, President, his predecessor_
 
 ##### Cambodia
 ### [Eight people, including four children, are killed after fire rages through a popular night market in the Cambodian town of Siem Reap. ](/news/2012/12/8/eight-people-including-four-children-are-killed-after-fire-rages-through-a-popular-night-market-in-the-cambodian-town-of-siem-reap.md)
@@ -29,13 +29,13 @@ Seeking to control global warming, nearly 200 countries agreed Saturday to exten
 
 ##### American football
 ### [American football player Josh Brent of the Dallas Cowboys is arrested for driving while intoxicated and vehicular manslaughter in relation to the death of teammate Jerry Brown. ](/news/2012/12/8/american-football-player-josh-brent-of-the-dallas-cowboys-is-arrested-for-driving-while-intoxicated-and-vehicular-manslaughter-in-relation-t.md)
-_Context: vehicular manslaughter, Jerry Brown, Josh Brent, American football, Dallas Cowboys_
+_Context: Josh Brent, vehicular manslaughter, Dallas Cowboys, Jerry Brown, American football_
 
 ##### Australia
 ### [Bosses at Australian radio station 2Day FM suspend all advertising until Monday after several major advertisers withdrew their business in the wake of the death of Jacintha Saldanha. ](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.md)
-_Context: 2Day FM, Jacintha Saldanha, Australia_
+_Context: Jacintha Saldanha, Australia, 2Day FM_
 
-##### general election
+##### General election
 ### [The Ghanaian election is extended by one day as glitches in the electoral system cause extended delays in voting in some areas. ](/news/2012/12/8/the-ghanaian-election-is-extended-by-one-day-as-glitches-in-the-electoral-system-cause-extended-delays-in-voting-in-some-areas.md)
 Ghana has been forced to extend voting in its presidential election by another day after technical glitches led to long delays in some areas.
 
@@ -45,7 +45,7 @@ The Burmese government apologises to Buddhist monks for the injuries caused duri
 
 ##### Italy
 ### [Italian Prime Minister Mario Monti says he will resign after passing the 2013 budget. ](/news/2012/12/8/italian-prime-minister-mario-monti-says-he-will-resign-after-passing-the-2013-budget.md)
-_Context: Mario Monti, Italian Prime Minister, Italy_
+_Context: Italy, Mario Monti, Italian Prime Minister_
 
 ##### Hugo Chvez
 ### [Hugo Chvez, the President of Venezuela, announces that he has cancer again. Preparing to travel to Havana, Cuba, for further cancer surgery, he named Vice President Nicols Maduro to carry out his legacy if he is unable to remain in office. ](/news/2012/12/8/hugo-chavez-the-president-of-venezuela-announces-that-he-has-cancer-again-preparing-to-travel-to-havana-cuba-for-further-cancer-surgery.md)

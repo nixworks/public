@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.html
 
 ### [2011-03-19](/news/2011/03/19/index.md)
 
-##### polar bear
+##### Polar bear
 # The polar bear Knut dies at the Berlin Zoo. 
 
 

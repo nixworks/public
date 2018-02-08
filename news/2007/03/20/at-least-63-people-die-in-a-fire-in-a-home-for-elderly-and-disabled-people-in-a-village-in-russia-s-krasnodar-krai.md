@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/20/at-least-63-people-die-in-a-fire-in-a-home-for-
 
 ### [2007-03-20](/news/2007/03/20/index.md)
 
-##### fire
+##### Fire
 #  At least 63 people die in a fire in a home for elderly and disabled people in a village in Russia's Krasnodar Krai. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/2/three-suspects-are-arrested-in-relation-to-a-ter
 
 ### [2007-06-2](/news/2007/06/2/index.md)
 
-##### terrorism
+##### Terrorism
 #  Three suspects are arrested in relation to a terrorism plot involving John F. Kennedy International Airport in New York City, with a fourth suspect being sought. 
 
 

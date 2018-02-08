@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/22/the-death-toll-from-the-2008-sichuan-earthquake
 
 ### [2008-05-22](/news/2008/05/22/index.md)
 
-##### deadly earthquake
+##### Deadly earthquake
 #  The death toll from the 2008 Sichuan earthquake rises to 51,151 with 29,328 still missing. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/8/archaeologists-date-cave-paintings-in-maros-on-t
 
 ### [2014-10-8](/news/2014/10/8/index.md)
 
-##### cave painting
+##### Cave painting
 # Archaeologists date cave paintings in Maros on the Indonesian island of Sulawesi as being 40,000 years old, which is as old as similar works in Europe. 
 
 The paintings of hands and animals in seven limestone caves on Sulawesi had previously been dismissed as no more than 10,000 years old.

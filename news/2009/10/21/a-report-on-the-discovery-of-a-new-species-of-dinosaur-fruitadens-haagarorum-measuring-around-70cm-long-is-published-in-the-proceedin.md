@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/21/a-report-on-the-discovery-of-a-new-species-of-d
 
 ### [2009-10-21](/news/2009/10/21/index.md)
 
-##### dinosaur
+##### Dinosaur
 #  A report on the discovery of a new species of dinosaur, "Fruitadens haagarorum", measuring around 70cm long, is published in the "Proceedings of the Royal Society". 
 
 

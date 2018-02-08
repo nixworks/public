@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/6/three-people-in-the-united-kingdom-have-been-jai
 
 ### [2007-02-6](/news/2007/02/6/index.md)
 
-##### chatroom
+##### Chatroom
 #  Three people in the United Kingdom have been jailed after plotting over internet chatrooms to abduct and rape two teenage girls. 
 
 

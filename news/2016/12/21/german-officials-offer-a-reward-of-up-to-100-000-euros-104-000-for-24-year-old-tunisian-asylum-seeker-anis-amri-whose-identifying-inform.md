@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/21/german-officials-offer-a-reward-of-up-to-100-00
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
-##### last week's attack on a Christmas market in Berlin
+##### Last week's attack on a Christmas market in Berlin
 # German officials offer a reward of up to 100,000 euros ($104,000) for 24-year-old Tunisian asylum-seeker Anis Amri, whose identifying information was found in the truck used in the attack. 
 
 

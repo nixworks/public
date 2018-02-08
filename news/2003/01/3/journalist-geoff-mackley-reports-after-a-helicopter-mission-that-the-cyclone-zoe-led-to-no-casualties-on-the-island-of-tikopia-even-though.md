@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/01/3/journalist-geoff-mackley-reports-after-a-helicop
 
 ### [2003-01-3](/news/2003/01/3/index.md)
 
-##### cyclone
+##### Cyclone
 #  Journalist Geoff Mackley reports after a helicopter mission that the Cyclone Zoe led to no casualties on the island of Tikopia, even though devastation was enormous. The 1,000 inhabitants of the island survived in caves. Reports that they had already resumed their daily occupations like fishing are misleading: they were "fishing" for their possessions that were blown out to sea. The situation on the island of Anuta with 600 inhabitants is not known yet.
 
 

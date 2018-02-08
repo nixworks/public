@@ -9,7 +9,7 @@ In a list heavy with make-good honors, grunge pioneer Nirvana is the sole act am
 
 ##### Bea Rose Santiago
 ### [Bea Rose Santiago of the Philippines is crowned Miss International 2013. ](/news/2013/12/17/bea-rose-santiago-of-the-philippines-is-crowned-miss-international-2013.md)
-_Context: Philippines, Bea Rose Santiago, Miss International 2013_
+_Context: Miss International 2013, Philippines, Bea Rose Santiago_
 
 ##### Jamaica
 ### [Jamaican reggae singer Tessanne Chin wins Season 5 of the American singing competition "The Voice". ](/news/2013/12/17/jamaican-reggae-singer-tessanne-chin-wins-season-5-of-the-american-singing-competition-the-voice.md)
@@ -37,7 +37,7 @@ Michaella McCollum Connolly and Melissa Reid are sentenced to prison after admit
 
 ##### Renown Regional Medical Center
 ### [A gunman is dead after shooting and killing one person and wounding two others at the Renown Regional Medical Center in Reno, Nevada, United States. ](/news/2013/12/17/a-gunman-is-dead-after-shooting-and-killing-one-person-and-wounding-two-others-at-the-renown-regional-medical-center-in-reno-nevada-united.md)
-_Context: Renown Regional Medical Center, Reno, Nevada, Nevada_
+_Context: Renown Regional Medical Center, Nevada, Reno, Nevada_
 
 ##### British
 ### [British singer Harry Styles, with the boy band One Direction, wins a limited ban on stalking in a London court case against paparazzi regarding the privacy rights of celebrities. ](/news/2013/12/17/british-singer-harry-styles-with-the-boy-band-one-direction-wins-a-limited-ban-on-stalking-in-a-london-court-case-against-paparazzi-regard.md)
@@ -53,7 +53,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### The Center for Public Integrity
 ### [A report by the American nonprofit investigative news organization The Center for Public Integrity details that the U. S. Federal Election Commission was hacked by China during the October 2013 federal government shutdown. ](/news/2013/12/17/a-report-by-the-american-nonprofit-investigative-news-organization-the-center-for-public-integrity-details-that-the-u-s-federal-election-c.md)
-_Context: China,  October 2013 federal government shutdown, The Center for Public Integrity, Federal Election Commission_
+_Context: The Center for Public Integrity, Federal Election Commission,  October 2013 federal government shutdown, China_
 
 ##### Secretary of State
 ### [U.S. Secretary of State John Kerry intends to give the Philippines $40 million in order to boost its maritime security regarding territorial disputes with China. ](/news/2013/12/17/u-s-secretary-of-state-john-kerry-intends-to-give-the-philippines-40-million-in-order-to-boost-its-maritime-security-regarding-territorial.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/25/war-in-darfur-human-rights-watch-says-that-more
 
 ### [2008-10-25](/news/2008/10/25/index.md)
 
-##### conflict
+##### Conflict
 #  War in Darfur: Human Rights Watch says that more than 40 civilians have been killed in attacks by pro-government Arab militias on rebel-held villages in South Darfur. 
 
 

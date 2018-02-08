@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/3/the-people-s-republic-of-china-launches-a-new-lo
 
 ### [2004-12-3](/news/2004/12/3/index.md)
 
-##### submarine
+##### Submarine
 #  The People's Republic of China launches a new long-range nuclear submarine and an accompanying class of ballistic missiles, with a range in excess of 7,400 km, developed by the People's Liberation Army. [http:--www.guardian.co.uk-uslatest-story-0,1282,-4652642,00.html (AP)] (Link dead as of 04:01, 15 January 2007 (UTC))
 
 

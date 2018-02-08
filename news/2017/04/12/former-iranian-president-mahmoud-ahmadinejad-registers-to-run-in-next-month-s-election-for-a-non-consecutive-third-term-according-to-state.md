@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-re
 
 ### [2017-04-12](/news/2017/04/12/index.md)
 
-##### re-elected
+##### Re-elected
 # Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. 
 
 

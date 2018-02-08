@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/14/an-attempted-coup-d-etat-against-chadian-presid
 
 ### [2006-03-14](/news/2006/03/14/index.md)
 
-##### attempted coup d'tat
+##### Attempted coup d'tat
 #  An attempted coup d'tat against Chadian President Idriss Dby is foiled. 
 
 

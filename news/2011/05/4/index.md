@@ -7,7 +7,7 @@ Formats: [HTML](2011/05/4/index.html)  [JSON](2011/05/4/index.json)  [XML](2011/
 ### [Syrian security forces arrest two people outside of the University of Damascus as student demonstrators rally for the release of political detainees and army convoys and tanks rolled into the capital city, setting up what eyewitnesses described as a base in the central square. ](/news/2011/05/4/syrian-security-forces-arrest-two-people-outside-of-the-university-of-damascus-as-student-demonstrators-rally-for-the-release-of-political-d.md)
 Syrian security forces arrested two people outside of the University of Damascus Wednesday as student demonstrators rallied for the release of political detainees, eyewitnesses told CNN.
 
-##### civil war
+##### Civil war
 ### [The chief prosecutor for the International Criminal Court, Luis Moreno-Ocampo, reports that there are "reasonable grounds to believe that crimes against humanity have been committed and continue being committed in Libya, and says he will soon request arrest warrants against three individuals who are "most responsible for the crimes committed." ](/news/2011/05/4/the-chief-prosecutor-for-the-international-criminal-court-luis-moreno-ocampo-reports-that-there-are-reasonable-grounds-to-believe-that-cr.md)
 The chief prosecutor for the International Criminal Court said in a report Wednesday there are &quot;reasonable grounds to believe that crimes against humanity have been committed and continue being committed in Libya.&quot;
 
@@ -23,7 +23,7 @@ Russian security forces have killed an al Qaeda emissary who fought alongside Ch
 ### [One policeman is killed and another injured when Turkish Prime Minister Recep Tayyip Erdogan's convoy is attacked after a campaign rally in northern Turkey; Erdogan was not in the convoy at the time of the attack. ](/news/2011/05/4/one-policeman-is-killed-and-another-injured-when-turkish-prime-minister-recep-tayyip-erdoaan-s-convoy-is-attacked-after-a-campaign-rally-in.md)
 Turkish Prime Minister Recep Tayyip Erdogan said Wednesday one policeman was killed and another injured when his convoy was attacked on its way to a campaign rally. 
 
-##### dissident
+##### Dissident
 ### [Art exhibit of Chinese dissident, Ai Weiwei, jailed by the Chinese government last month for unspecified "economic crimes," opens in New York City. ](/news/2011/05/4/art-exhibit-of-chinese-dissident-ai-weiwei-jailed-by-the-chinese-government-last-month-for-unspecified-economic-crimes-opens-in-new-yor.md)
 A Chinese artist was noticeably absent from his own exhibit in New York after having been detained by his government for unspecified &quot;economic crimes.&quot; 
 
@@ -33,7 +33,7 @@ Award-winning Bollywood actor Shiney Ahuja, who was sentenced to seven years in 
 
 ##### Daniel Barenboim
 ### [Daniel Barenboim, a conductor and pianist and "supporter of Palestinian rights", holds a "Peace Concert" in the Gaza Strip. ](/news/2011/05/4/daniel-barenboim-a-conductor-and-pianist-and-supporter-of-palestinian-rights-holds-a-peace-concert-in-the-gaza-strip.md)
-_Context: Palestinian, Daniel Barenboim, Gaza Strip_
+_Context: Daniel Barenboim, Gaza Strip, Palestinian_
 
 ##### Richard Branson
 ### [Richard Branson announces that the operations of airlines Virgin Blue, V Australia and Pacific Blue will be merged to form Virgin Australia. ](/news/2011/05/4/richard-branson-announces-that-the-operations-of-airlines-virgin-blue-v-australia-and-pacific-blue-will-be-merged-to-form-virgin-australia.md)
@@ -47,17 +47,17 @@ Richard Branson has finally unveiled one of the worst-kept secrets in Australian
 ### [At least 16 people are feared dead and 21 injured following a bus crash in Nepal. ](/news/2011/05/4/at-least-16-people-are-feared-dead-and-21-injured-following-a-bus-crash-in-nepal.md)
 At least 16 persons were killed and 21 injured after a passenger bus (NA 4 Kha 4018) en route to Safebagar, Achham from Attariya, Kailali met with an accident at Nelgaira, Kadamandu VDC of Doti on Wednesday at around 3 a.m in the morning. Three of the persons who died in the accident have bee
 
-##### helicopter
+##### Helicopter
 ### [The wreckage of a crashed helicopter containing Dorjee Khandu, Chief Minister of the Indian state of Arunachal Pradesh, is found with three bodies nearby. ](/news/2011/05/4/the-wreckage-of-a-crashed-helicopter-containing-dorjee-khandu-chief-minister-of-the-indian-state-of-arunachal-pradesh-is-found-with-three.md)
-_Context: Arunachal Pradesh, India, Dorjee Khandu, helicopter, Chief Minister_
+_Context: India, Chief Minister, Arunachal Pradesh, Dorjee Khandu, helicopter_
 
-##### levee
+##### Levee
 ### [Despite the breach of a levee on the Mississippi River to ease flood pressure in southern Illinois, massive flooding continues from Minnesota to Louisiana and hundreds of square miles of mostly farmland in Missouri are under water. ](/news/2011/05/4/despite-the-breach-of-a-levee-on-the-mississippi-river-to-ease-flood-pressure-in-southern-illinois-massive-flooding-continues-from-minnesot.md)
 The Mississippi river spilled out across huge swaths of farmland in the American South and Midwest on Wednesday, creating massive flooding from Minnesota to Louisiana.
 
 ##### US Highway 30
 ### [Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. ](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.md)
-_Context: Oregon, US Highway 30, Portland, Oregon_
+_Context: Portland, Oregon, Oregon, US Highway 30_
 
 ##### Warren
 ### [A building explosion occurs in the US city of Warren, Michigan. ](/news/2011/05/4/a-building-explosion-occurs-in-the-us-city-of-warren-michigan.md)
@@ -81,7 +81,7 @@ Two Rwandan rebel leaders went on trial in Germany on Wednesday on charges of cr
 
 ##### China
 ### [China announces the creation of a State Internet Information Office to 'direct, coordinate, and supervise' online content management, prompting fears that online censorship will grow even more stringent. ](/news/2011/05/4/china-announces-the-creation-of-a-state-internet-information-office-to-direct-coordinate-and-supervise-online-content-management-prompt.md)
-_Context: State Internet Information Office, blocks mentions, China_
+_Context: China, blocks mentions, State Internet Information Office_
 
 ##### House of Representatives
 ### [The United States House of Representatives passes the "No Taxpayer Funding for Abortion Act" banning the direct Federal funding of abortions. ](/news/2011/05/4/the-united-states-house-of-representatives-passes-the-no-taxpayer-funding-for-abortion-act-banning-the-direct-federal-funding-of-abortions.md)

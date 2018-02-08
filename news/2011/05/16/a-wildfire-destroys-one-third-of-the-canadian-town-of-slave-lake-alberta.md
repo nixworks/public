@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-t
 
 ### [2011-05-16](/news/2011/05/16/index.md)
 
-##### wildfire
+##### Wildfire
 # A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. 
 
 

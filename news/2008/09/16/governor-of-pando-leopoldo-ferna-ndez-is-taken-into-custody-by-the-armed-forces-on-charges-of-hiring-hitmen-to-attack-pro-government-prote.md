@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/16/governor-of-pando-leopoldo-ferna-ndez-is-taken-
 
 ### [2008-09-16](/news/2008/09/16/index.md)
 
-##### gubernatorial elections
+##### Gubernatorial elections
 #  Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. 
 
 

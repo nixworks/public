@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/24/following-the-detection-of-bse-in-a-mabton-wash
 
 ### [2003-12-24](/news/2003/12/24/index.md)
 
-##### mad cow disease
+##### Mad cow disease
 #  Following the detection of BSE in a Mabton, Washington cow, several countries (including Japan, Russia, Singapore, Taiwan, and Hong Kong) announce a ban on the importation of U.S. beef. 
 
 

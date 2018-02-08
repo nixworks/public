@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/16/a-car-bomb-kills-at-least-11-people-and-injures
 
 ### [2009-05-16](/news/2009/05/16/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb kills at least 11 people and injures 25 others in Peshawar, Pakistan. 
 
 

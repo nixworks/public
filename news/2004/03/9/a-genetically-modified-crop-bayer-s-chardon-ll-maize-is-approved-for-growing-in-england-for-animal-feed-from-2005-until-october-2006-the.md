@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/9/a-genetically-modified-crop-bayer-s-chardon-ll-m
 
 ### [2004-03-9](/news/2004/03/9/index.md)
 
-##### genetically modified
+##### Genetically modified
 #  A genetically modified crop, Bayer's Chardon LL maize, is approved for growing in England for animal feed from 2005 until October 2006. The Scottish Executive also approves the move, but asks Scottish farmers to hold off. MPs and farmers protest in anger as the science is questioned. The Welsh National Assembly's Environment Minister announces he is still opposed to approving the crop. 
 
 

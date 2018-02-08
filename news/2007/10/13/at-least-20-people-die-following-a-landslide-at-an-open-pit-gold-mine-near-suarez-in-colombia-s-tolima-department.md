@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/13/at-least-20-people-die-following-a-landslide-at
 
 ### [2007-10-13](/news/2007/10/13/index.md)
 
-##### landslide
+##### Landslide
 #  At least 20 people die following a landslide at an open pit gold mine near Suarez in Colombia's Tolima department. 
 
 At least 20 Colombians died in a landslide at an open pit gold mine in the southwest part of the country on Saturday, a witness and local officials said.

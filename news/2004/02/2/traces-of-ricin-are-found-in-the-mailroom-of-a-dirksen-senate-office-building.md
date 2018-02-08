@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/2/traces-of-ricin-are-found-in-the-mailroom-of-a-d
 
 ### [2004-02-2](/news/2004/02/2/index.md)
 
-##### ricin
+##### Ricin
 #  Traces of ricin are found in the mailroom of a Dirksen Senate Office Building.
 
 

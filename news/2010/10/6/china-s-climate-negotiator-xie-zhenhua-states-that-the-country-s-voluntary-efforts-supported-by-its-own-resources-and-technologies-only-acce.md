@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/6/china-s-climate-negotiator-xie-zhenhua-states-th
 
 ### [2010-10-6](/news/2010/10/6/index.md)
 
-##### pro- and anti
+##### Pro- and anti
 # China's climate negotiator Xie Zhenhua states that the country's voluntary efforts supported by its own resources and technologies only accept "non-invasive" international consultation and analysis at the UNFCCC meeting in Tianjin, China. 
 
 

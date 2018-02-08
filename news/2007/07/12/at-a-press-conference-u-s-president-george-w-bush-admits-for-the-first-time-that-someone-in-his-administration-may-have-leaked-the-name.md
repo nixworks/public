@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/12/at-a-press-conference-u-s-president-george-w-bu
 
 ### [2007-07-12](/news/2007/07/12/index.md)
 
-##### press conference
+##### Press conference
 #  At a press conference, U.S. President George W. Bush admits for the first time that someone in his administration may have leaked the name of CIA agent Valerie Plame. 
 
 

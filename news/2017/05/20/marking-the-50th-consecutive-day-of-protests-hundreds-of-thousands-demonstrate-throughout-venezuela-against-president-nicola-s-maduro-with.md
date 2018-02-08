@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/20/marking-the-50th-consecutive-day-of-protests-hu
 
 ### [2017-05-20](/news/2017/05/20/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # Marking the 50th consecutive day of protests, hundreds of thousands demonstrate throughout Venezuela against President Nicolas Maduro, with civil unrest growing despite the increasing number of casualties. 
 
 Venezuelans take to the streets, furious about shortages, rocketing inflation and human rights crackdowns, demanding President Maduro hold elections

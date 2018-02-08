@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/9/a-suicide-bomb-attack-takes-place-on-an-intellig
 
 ### [2012-10-9](/news/2012/10/9/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 # A suicide bomb attack takes place on an intelligence agency building in Damascus, reportedly killing dozens of people. The rebel al-Nusra Front claims responsibility. 
 
 Syrian rebels carry out a bomb attack on an intelligence agency complex in Damascus, with one activist group saying dozens of people were killed.

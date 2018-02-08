@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/7/egyptian-presidential-election-2005-the-first-ev
 
 ### [2005-09-7](/news/2005/09/7/index.md)
 
-##### first multi-candidate presidential election
+##### First multi-candidate presidential election
 #  Egyptian presidential election, 2005: The first ever multi-party elections in Egypt are conducted, with incumbent President Hosni Mubarak expected to win a fifth six-year term. 
 
 

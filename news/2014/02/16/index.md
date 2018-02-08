@@ -23,7 +23,7 @@ Suspected Islamistfighters killed at least 90 people in an attack on a village i
 ### [The British Academy Film Awards are held at the Royal Opera House in London with "12 Years a Slave" winning best film and Chiwetel Ejiofor winning best actor for his role in it. ](/news/2014/02/16/the-british-academy-film-awards-are-held-at-the-royal-opera-house-in-london-with-12-years-a-slave-winning-best-film-and-chiwetel-ejiofor-w.md)
 Dame Judi Dench and Leonardo DiCaprio will be among the stars attending the Bafta film awards on Sunday, where 12 Years a Slave is tipped to be a big winner.
 
-##### northeastern United States
+##### Northeastern United States
 ### [Heavy snowfall and blizzard conditions hit the northeastern United States days after a bad storm with between 15 and 17 inches of snow reported in Massachusetts and Maine. ](/news/2014/02/16/heavy-snowfall-and-blizzard-conditions-hit-the-northeastern-united-states-days-after-a-bad-storm-with-between-15-and-17-inches-of-snow-repor.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
@@ -35,7 +35,7 @@ Heavy snow hit Tokyo and other parts of eastern Japan over the weekend, leaving 
 ### [A Nepal Airlines plane carrying 18 people crashes in a forest in Arghakhanchi District, Nepal. ](/news/2014/02/16/a-nepal-airlines-plane-carrying-18-people-crashes-in-a-forest-in-arghakhanchi-district-nepal.md)
 An official at the airport in Katmandu, the capital, blamed bad weather for the crash, saying it had been snowing for much of the day.
 
-##### miners in South Africa
+##### Miners in South Africa
 ### [Eleven miners in South Africa are freed after being trapped in an illegal gold mine where they had opened up old sealed shafts but the remaining estimated 19 trapped miners are refusing to come out for fear of being arrested. ](/news/2014/02/16/eleven-miners-in-south-africa-are-freed-after-being-trapped-in-an-illegal-gold-mine-where-they-had-opened-up-old-sealed-shafts-but-the-remai.md)
 More illegal miners surfaced at an abandoned South African gold mine today as rescuers expressed doubt over a report that 200 people were trapped underground.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/8/a-police-dog-team-searches-a-grandmother-s-house
 
 ### [2012-08-8](/news/2012/08/8/index.md)
 
-##### disappearance of Tia Sharp
+##### Disappearance of Tia Sharp
 # A police dog team searches a grandmother's house after the disappearance of Tia Sharp. 
 
 More than 80 officers search for 12-year-old Tia Sharp as Stuart Hazell is interviewed as a witness by police.

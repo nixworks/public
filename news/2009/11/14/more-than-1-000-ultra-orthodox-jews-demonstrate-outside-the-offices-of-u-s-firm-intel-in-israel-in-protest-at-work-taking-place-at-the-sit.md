@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate
 
 ### [2009-11-14](/news/2009/11/14/index.md)
 
-##### ultra-orthodox
+##### Ultra-orthodox
 #  More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/10/sts-118-nasa-discovers-a-gouge-in-the-belly-of-
 
 ### [2007-08-10](/news/2007/08/10/index.md)
 
-##### lands safely
+##### Lands safely
 #  STS-118: NASA discovers a gouge in the belly of the Space Shuttle Endeavour after it docks with the International Space Station. 
 
 

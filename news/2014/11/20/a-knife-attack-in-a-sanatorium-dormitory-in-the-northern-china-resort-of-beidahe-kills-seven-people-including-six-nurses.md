@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/20/a-knife-attack-in-a-sanatorium-dormitory-in-the
 
 ### [2014-11-20](/news/2014/11/20/index.md)
 
-##### sanatorium
+##### Sanatorium
 # A knife attack in a sanatorium dormitory in the Northern China resort of Beidahe kills seven people, including six nurses. 
 
 

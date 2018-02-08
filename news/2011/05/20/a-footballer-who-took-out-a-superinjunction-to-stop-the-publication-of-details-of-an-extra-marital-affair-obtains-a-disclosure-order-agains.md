@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/20/a-footballer-who-took-out-a-superinjunction-to-
 
 ### [2011-05-20](/news/2011/05/20/index.md)
 
-##### footballer
+##### Footballer
 # A footballer who took out a superinjunction to stop the publication of details of an extra-marital affair, obtains a disclosure order against Twitter to learn the identities of people who have published confidential information on the website. 
 
 A footballer obtains a disclosure order against Twitter to learn the identities of people who have published confidential information on the website.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-far-right
 
 ### [2017-09-25](/news/2017/09/25/index.md)
 
-##### caretaker
+##### Caretaker
 # Frauke Petry resigns as leader of the far right Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". 
 
 Frauke Petry ‘drops bomb’ on rightwing nationalist party by announcing she will instead serve as independent MP

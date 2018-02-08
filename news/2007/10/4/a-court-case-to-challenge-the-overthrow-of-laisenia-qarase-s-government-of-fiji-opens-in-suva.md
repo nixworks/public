@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/4/a-court-case-to-challenge-the-overthrow-of-laise
 
 ### [2007-10-4](/news/2007/10/4/index.md)
 
-##### coup in 2006
+##### Coup in 2006
 #  A court case to challenge the overthrow of Laisenia Qarase's government of Fiji opens in Suva. 
 
 

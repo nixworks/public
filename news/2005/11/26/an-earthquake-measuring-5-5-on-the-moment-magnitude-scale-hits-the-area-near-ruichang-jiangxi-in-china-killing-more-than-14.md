@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/26/an-earthquake-measuring-5-5-on-the-moment-magni
 
 ### [2005-11-26](/news/2005/11/26/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake measuring 5.5 on the moment magnitude scale hits the area near Ruichang, Jiangxi in China, killing more than 14. 
 
 

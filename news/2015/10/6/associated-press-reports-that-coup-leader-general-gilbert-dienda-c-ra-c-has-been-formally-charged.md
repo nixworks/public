@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/6/associated-press-reports-that-coup-leader-genera
 
 ### [2015-10-6](/news/2015/10/6/index.md)
 
-##### recent coup
+##### Recent coup
 # Associated Press reports that coup leader General Gilbert Diendere has been formally charged. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

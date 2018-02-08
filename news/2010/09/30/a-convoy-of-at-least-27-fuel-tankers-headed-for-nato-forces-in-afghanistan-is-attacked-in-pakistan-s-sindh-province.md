@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/30/a-convoy-of-at-least-27-fuel-tankers-headed-for
 
 ### [2010-09-30](/news/2010/09/30/index.md)
 
-##### convoy
+##### Convoy
 # A convoy of at least 27 fuel tankers headed for NATO forces in Afghanistan is attacked in Pakistan's Sindh province. 
 
 

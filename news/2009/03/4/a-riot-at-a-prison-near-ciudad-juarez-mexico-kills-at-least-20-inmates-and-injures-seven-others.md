@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/4/a-riot-at-a-prison-near-ciudad-juarez-mexico-kil
 
 ### [2009-03-4](/news/2009/03/4/index.md)
 
-##### riot
+##### Riot
 #  A riot at a prison near Ciudad Jurez, Mexico, kills at least 20 inmates and injures seven others. 
 
 

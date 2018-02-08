@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/22/a-senior-foreign-commander-is-killed-in-a-drone
 
 ### [2012-01-22](/news/2012/01/22/index.md)
 
-##### drone
+##### Drone
 # A senior foreign commander is killed in a drone strike south of the Somali capital Mogadishu. 
 
 Bilal al-Barjawi, 27, who had been fighting alongside Shabab Islamic militants, was killed in an American drone strike a few miles south of the Somali capital.

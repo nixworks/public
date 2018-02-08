@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/10/10/france-confirms-that-an-explosion-aboard-french
 
 ### [2002-10-10](/news/2002/10/10/index.md)
 
-##### oil tanker
+##### Oil tanker
 #  France confirms that an explosion aboard French oil tanker "Limburg" off the coast of Yemen was, indeed, a terrorist act.
 
 

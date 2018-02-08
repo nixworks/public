@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/06/20/law-a-the-united-states-supreme-court-is-asked-
 
 ### [2002-06-20](/news/2002/06/20/index.md)
 
-##### amendment
+##### Amendment
 #  Law - The United States Supreme Court is asked about requiring Internet filters.
 
 

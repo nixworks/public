@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/2/thirteen-u-s-coal-miners-are-trapped-after-an-un
 
 ### [2006-01-2](/news/2006/01/2/index.md)
 
-##### coal mine
+##### Coal mine
 #  Thirteen U.S. coal miners are trapped after an underground explosion in Upshur County, West Virginia. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

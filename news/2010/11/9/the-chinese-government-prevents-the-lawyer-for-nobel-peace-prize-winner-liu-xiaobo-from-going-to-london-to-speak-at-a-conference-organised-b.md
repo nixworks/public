@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/9/the-chinese-government-prevents-the-lawyer-for-n
 
 ### [2010-11-9](/news/2010/11/9/index.md)
 
-##### government
+##### Government
 # The Chinese government prevents the lawyer for Nobel Peace Prize winner Liu Xiaobo from going to London to speak at a conference organised by the International Bar Association. 
 
 David Cameron&#039;s visit to China has been overshadowed by human rights concerns after Chinese security forces barred the lawyer of Liu Xiaobo, the Chinese Nobel Peace prize winner, from leaving the country.

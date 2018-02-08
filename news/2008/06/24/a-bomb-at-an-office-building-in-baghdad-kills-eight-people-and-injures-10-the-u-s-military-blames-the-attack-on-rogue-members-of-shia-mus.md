@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/24/a-bomb-at-an-office-building-in-baghdad-kills-e
 
 ### [2008-06-24](/news/2008/06/24/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb at an office building in Baghdad kills eight people and injures 10. The U.S. military blames the attack on rogue members of Shia Muslim militias. The attack is believed to be a suicide bombing, but the U.S. military is investigating allegations that a bomb was planted in the building. 
 
 

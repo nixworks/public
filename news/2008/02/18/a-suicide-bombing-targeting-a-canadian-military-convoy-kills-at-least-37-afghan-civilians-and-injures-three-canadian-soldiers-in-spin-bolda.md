@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/18/a-suicide-bombing-targeting-a-canadian-military
 
 ### [2008-02-18](/news/2008/02/18/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bombing targeting a Canadian military convoy kills at least 37 Afghan civilians and injures three Canadian soldiers in Spin Boldak, Afghanistan. 
 
 

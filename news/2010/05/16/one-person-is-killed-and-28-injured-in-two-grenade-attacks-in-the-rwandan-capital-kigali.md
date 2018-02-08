@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/16/one-person-is-killed-and-28-injured-in-two-gren
 
 ### [2010-05-16](/news/2010/05/16/index.md)
 
-##### grenade
+##### Grenade
 # One person is killed and 28 injured in two grenade attacks in the Rwandan capital Kigali. 
 
 

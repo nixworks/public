@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/20/a-magnitude-6-8-earthquake-strikes-50-km-31-mil
 
 ### [2007-12-20](/news/2007/12/20/index.md)
 
-##### earthquake
+##### Earthquake
 #  A magnitude 6.8 earthquake strikes 50 km (31 miles) southeast of Gisborne, New Zealand at 20:55 local time. 
 
 Gisborne&amp;#39;s mayor Meng Foon&nbsp;urged residents to head for the hills if another earthquake struck the region amid tsunami fears after a destructive quake caused extensive damage.

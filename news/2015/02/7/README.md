@@ -5,7 +5,7 @@ Formats: [HTML](2015/02/7/index.html)  [JSON](2015/02/7/index.json)  [XML](2015/
 
 ##### North Korea's nuclear program
 ### [North Korea test fires a new "ultra-precision" intelligent anti-ship missile which is to be deployed across its navy. ](/news/2015/02/7/north-korea-test-fires-a-new-ultra-precision-intelligent-anti-ship-missile-which-is-to-be-deployed-across-its-navy.md)
-_Context: North Korea, North Korea's nuclear program, navy_
+_Context: navy, North Korea, North Korea's nuclear program_
 
 ##### War in Donbass
 ### [The leaders of France, Germany and Russia agree to work on a peace plan to be put to the President of Ukraine Petro Poroshenko on Sunday. ](/news/2015/02/7/the-leaders-of-france-germany-and-russia-agree-to-work-on-a-peace-plan-to-be-put-to-the-president-of-ukraine-petro-poroshenko-on-sunday.md)
@@ -17,11 +17,11 @@ Bombings in the Iraqi capital Saturday killed more than three dozen people hours
 
 ##### Islamist insurgency in Nigeria
 ### [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md)
-_Context: Boko Haram, Islamist insurgency in Nigeria, Nigerian general election, 2015, Nigeria_
+_Context: Nigeria, Islamist insurgency in Nigeria, Nigerian general election, 2015, Boko Haram_
 
 ##### NBC Nightly News
 ### [NBC Nightly News anchorman Brian Williams begins a temporary hiatus from broadcasting after he was caught lying about having been on board an underfire helicopter which crashed during the 2003 invasion of Iraq. ](/news/2015/02/7/nbc-nightly-news-anchorman-brian-williams-begins-a-temporary-hiatus-from-broadcasting-after-he-was-caught-lying-about-having-been-on-board-a.md)
-_Context: anchorman, 2003 invasion of Iraq, Brian Williams, NBC Nightly News_
+_Context: Brian Williams, NBC Nightly News, 2003 invasion of Iraq, anchorman_
 
 ##### Twentieth Century Fox
 ### [The management of Twentieth Century Fox considers granting permission to a group of investors, including some hedge funds, seeking to amend the company's charter and turn their type of voting shares of stock into non-voting shares, a conversion that might raise that type of shares' market price and that also would further concentrate control in the hands of Rupert Murdoch and his family. ](/news/2015/02/7/the-management-of-twentieth-century-fox-considers-granting-permission-to-a-group-of-investors-including-some-hedge-funds-seeking-to-amend.md)
@@ -33,7 +33,7 @@ _Context: TransAsia, TransAsia Airways Flight 235_
 
 ##### Douglasville
 ### [A gunman shoots six people, killing four, including several children, in Douglasville, Georgia, ending with the gunman committing suicide. ](/news/2015/02/7/a-gunman-shoots-six-people-killing-four-including-several-children-in-douglasville-georgia-ending-with-the-gunman-committing-suicide.md)
-_Context: Georgia, Douglasville_
+_Context: Douglasville, Georgia_
 
 ##### Monroeville Mall
 ### [A 17-year-old male opens fire on a man at the Monroeville Mall in the Pittsburgh, Pennsylvania area, striking his intended target as well as two bystanders hospitalizing three people. ](/news/2015/02/7/a-17-year-old-male-opens-fire-on-a-man-at-the-monroeville-mall-in-the-pittsburgh-pennsylvania-area-striking-his-intended-target-as-well-as.md)
@@ -45,7 +45,7 @@ Lawrence Springborg has been elected as leader of Qld&#039;s Liberal National Pa
 
 ##### Slovak same-sex marriage referendum
 ### [Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-invalid-due-to-a-low-21-voter-turnout.md)
-_Context: Slovakia, Slovak same-sex marriage referendum_
+_Context: Slovak same-sex marriage referendum, Slovakia_
 
 ## [Previous Day...](/news/2015/02/6/index.md)
 

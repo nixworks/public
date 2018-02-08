@@ -29,7 +29,7 @@ _Context: Roman Polanski, Zurich_
 
 ##### Afghanistan
 ### [ Afghan Energy Minister Ismail Khan survives a roadside blast which kills four people and wounds seventeen outside a school in Herat. ](/news/2009/09/27/afghan-energy-minister-ismail-khan-survives-a-roadside-blast-which-kills-four-people-and-wounds-seventeen-outside-a-school-in-herat.md)
-_Context: Afghanistan, Herat, Ismail Khan_
+_Context: Herat, Ismail Khan, Afghanistan_
 
 ##### Tropical Storm Ketsana
 ### [ The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. ](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.md)
@@ -37,15 +37,15 @@ _Context: Tropical Storm Ketsana_
 
 ##### Switzerland
 ### [ The Swiss multinational Nestle is buying milk from a farm seized from its white owners and now owned by the wife of Zimbabwe's President Robert Mugabe, according to England's "The Sunday Telegraph". ](/news/2009/09/27/the-swiss-multinational-nestla-c-is-buying-milk-from-a-farm-seized-from-its-white-owners-and-now-owned-by-the-wife-of-zimbabwe-s-president-r.md)
-_Context: Robert Mugabe, The Sunday Telegraph, Zimbabwe, President, Nestle, England, Switzerland_
+_Context: The Sunday Telegraph, Switzerland, President, Nestle, Robert Mugabe, Zimbabwe, England_
 
 ##### United States
 ### [ American General Stanley McChrystal, Commander of the International Security Assistance Force, formally requests more troops for the War in Afghanistan. ](/news/2009/09/27/american-general-stanley-mcchrystal-commander-of-the-international-security-assistance-force-formally-requests-more-troops-for-the-war-in.md)
-_Context: General, War in Afghanistan, International Security Assistance Force, United States, Stanley McChrystal_
+_Context: Stanley McChrystal, General, United States, International Security Assistance Force, War in Afghanistan_
 
 ##### United States
 ### [ The American television series "Family Guy" is outlawed by authorities in Venezuela due to an episode promoting the legalization and use of marijuana. ](/news/2009/09/27/the-american-television-series-family-guy-is-outlawed-by-authorities-in-venezuela-due-to-an-episode-promoting-the-legalization-and-use-of.md)
-_Context: Venezuela, marijuana, Legality of cannabis, Family Guy, United States, an episode_
+_Context: Legality of cannabis, United States, Family Guy, marijuana, an episode, Venezuela_
 
 ##### Iran
 ### [ Iran's Revolutionary Guards test fire several short-range missiles &ndash; the Fateh-110 and Tondar-69. ](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.md)
@@ -57,7 +57,7 @@ Silvio Berlusconi, Italy&#039;s gaffe-prone prime minister, has again referred t
 
 ##### Honduras
 ### [ Honduras issues a 10-day deadline to Brazil asking it to decide the status of deposed President Manuel Zelaya, who is residing in its embassy in the capital Tegucigalpa. ](/news/2009/09/27/honduras-issues-a-10-day-deadline-to-brazil-asking-it-to-decide-the-status-of-deposed-president-manuel-zelaya-who-is-residing-in-its-embas.md)
-_Context: Brazil, Manuel Zelaya, Tegucigalpa, Honduras, President_
+_Context: Brazil, Tegucigalpa, Manuel Zelaya, President, Honduras_
 
 ##### Discworld
 ### [ "Discworld" author Terry Pratchett, who has Alzheimer's disease, criticises new guidelines on assisted suicide. ](/news/2009/09/27/discworld-author-terry-pratchett-who-has-alzheimer-s-disease-criticises-new-guidelines-on-assisted-suicide.md)

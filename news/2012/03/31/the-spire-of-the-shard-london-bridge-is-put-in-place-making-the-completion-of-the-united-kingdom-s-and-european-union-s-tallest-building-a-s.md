@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/31/the-spire-of-the-shard-london-bridge-is-put-in-
 
 ### [2012-03-31](/news/2012/03/31/index.md)
 
-##### spire
+##### Spire
 # The spire of the Shard London Bridge is put in place making the completion of the United Kingdom's and European Union's tallest building a step closer. 
 
 

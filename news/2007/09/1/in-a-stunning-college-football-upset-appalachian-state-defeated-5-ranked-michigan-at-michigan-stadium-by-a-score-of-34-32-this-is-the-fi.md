@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/1/in-a-stunning-college-football-upset-appalachian
 
 ### [2007-09-1](/news/2007/09/1/index.md)
 
-##### college football
+##### College football
 #  In a stunning college football upset, Appalachian State defeated #5-ranked Michigan at Michigan Stadium by a score of 34-32. This is the first time a team from the second-tier NCAA Division I FCS has defeated an AP-ranked Division I FBS opponent. Armanti Edwards was the quarterback for the underdog Mountaineers. 
 
 

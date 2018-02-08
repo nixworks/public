@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/18/a-large-33-5-ton-aquarium-bursts-in-a-busy-shop
 
 ### [2012-12-18](/news/2012/12/18/index.md)
 
-##### tons
+##### Tons
 # A large, 33.5-ton aquarium bursts in a busy shopping center on the Nanjing Road pedestrian mall in Shanghai, China, injuring 15 people, including customers and shop staff. 
 
 Shanghai, China &#8211; Several people were reportedly injured when a shark tank on the first floor of a shopping center suddenly burst. Customers standing near the

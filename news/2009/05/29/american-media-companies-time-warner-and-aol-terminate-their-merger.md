@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/29/american-media-companies-time-warner-and-aol-te
 
 ### [2009-05-29](/news/2009/05/29/index.md)
 
-##### media
+##### Media
 #  American media companies Time Warner and AOL terminate their merger. 
 
 Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc. in what turned out to be one of the most disastrous mergers in history, the two parted company Thursday, leaving both firms searching for their places in an altered media landscape.

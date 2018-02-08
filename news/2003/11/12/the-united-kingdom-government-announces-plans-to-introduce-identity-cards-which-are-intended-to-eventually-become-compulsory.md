@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/12/the-united-kingdom-government-announces-plans-t
 
 ### [2003-11-12](/news/2003/11/12/index.md)
 
-##### identity card
+##### Identity card
 #  The United Kingdom government announces plans to introduce identity cards, which are intended to eventually become compulsory.
 
 

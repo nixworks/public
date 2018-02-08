@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/21/leading-international-virologists-agree-to-temp
 
 ### [2012-01-21](/news/2012/01/21/index.md)
 
-##### virologist
+##### Virologist
 # Leading international virologists agree to temporarily halt work on a more virulent strain of the H5N1 influenza virus, due to fears that an airborne strain of the lethal virus could be used by bioterrorists. 
 
 

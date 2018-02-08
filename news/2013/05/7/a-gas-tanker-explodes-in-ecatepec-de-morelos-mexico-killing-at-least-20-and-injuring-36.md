@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/7/a-gas-tanker-explodes-in-ecatepec-de-morelos-mex
 
 ### [2013-05-7](/news/2013/05/7/index.md)
 
-##### tanker
+##### Tanker
 # A gas tanker explodes in Ecatepec de Morelos, Mexico, killing at least 20 and injuring 36. 
 
 A gas tanker explodes on a highway in the Mexico City suburb of Ecatepec, killing at least 22 people and injuring dozens more, officials say.

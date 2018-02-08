@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/25/marcial-maciel-mexican-founder-of-roman-catholi
 
 ### [2005-01-25](/news/2005/01/25/index.md)
 
-##### previous head
+##### Previous head
 #  Marcial Maciel, Mexican founder of Roman Catholic order of Legion of Christ resigns due to his age. The stepping down coincides with the Vatican investigation about claims that he had sexually abused former members. 
 
 Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.

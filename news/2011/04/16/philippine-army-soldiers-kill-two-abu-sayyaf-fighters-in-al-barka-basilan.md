@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/16/philippine-army-soldiers-kill-two-abu-sayyaf-fi
 
 ### [2011-04-16](/news/2011/04/16/index.md)
 
-##### army
+##### Army
 # Philippine Army soldiers kill two Abu Sayyaf fighters in Al-Barka, Basilan. 
 
 

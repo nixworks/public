@@ -9,11 +9,11 @@ _Context: Somalia_
 
 ##### North Korea
 ### [North Korea launches apparent artillery drills as South Korean and American military officials hold talks. ](/news/2010/12/8/north-korea-launches-apparent-artillery-drills-as-south-korean-and-american-military-officials-hold-talks.md)
-_Context: South Korea, United States, North Korea_
+_Context: South Korea, North Korea, United States_
 
 ##### Kohat
 ### [At least 18 people are killed during a bomb at a bus terminal in Kohat's main bazaar kills in Pakistan. ](/news/2010/12/8/at-least-18-people-are-killed-during-a-bomb-at-a-bus-terminal-in-kohat-s-main-bazaar-kills-in-pakistan.md)
-_Context: Kohat, bazaar, Pakistan_
+_Context: bazaar, Kohat, Pakistan_
 
 ##### John Lennon
 ### [John Lennon is celebrated on the 30th anniversary of his murder. ](/news/2010/12/8/john-lennon-is-celebrated-on-the-30th-anniversary-of-his-murder.md)
@@ -35,11 +35,11 @@ The Panama Canal is open again after heavy rains forced a temporary closure for 
 ### [30 corpses have now been retrieved from the recent massive landslide in Colombia. ](/news/2010/12/8/30-corpses-have-now-been-retrieved-from-the-recent-massive-landslide-in-colombia.md)
 Rescue officials say at least a third of the 30 retrieved bodies are children.
 
-##### fire breaks out
+##### Fire breaks out
 ### [83 prisoners die as a fire breaks out in a prison in Santiago, Chile. ](/news/2010/12/8/83-prisoners-die-as-a-fire-breaks-out-in-a-prison-in-santiago-chile.md)
-_Context: Chile, fire breaks out, Santiago_
+_Context: fire breaks out, Santiago, Chile_
 
-##### coal mine
+##### Coal mine
 ### [26 people are confirmed dead after a gas explosion at a coal mine in Henan Province in central China. ](/news/2010/12/8/26-people-are-confirmed-dead-after-a-gas-explosion-at-a-coal-mine-in-henan-province-in-central-china.md)
 Death toll rises to 26 as more bodies are found after gas explosion in a coal mine in Henan province.
 
@@ -61,11 +61,11 @@ Websites of Mastercard, a Swiss bank and Swedish prosecutor shut down in respons
 
 ##### Palestinian Authority
 ### [Palestinian leader Mahmoud Abbas says Middle East peace talks are in crisis following Israel's refusal to stop building in settlements. ](/news/2010/12/8/palestinian-leader-mahmoud-abbas-says-middle-east-peace-talks-are-in-crisis-following-israel-s-refusal-to-stop-building-in-settlements.md)
-_Context: resume negotiations, Palestinian Authority, Israeli settlement, Israel, Mahmoud Abbas_
+_Context: Israel, Israeli settlement, Mahmoud Abbas, Palestinian Authority, resume negotiations_
 
 ##### Liberia
 ### [Liberian President Ellen Johnson Sirleaf warns former rebel fighters not to get involved in the crisis in Cote d'Ivoire. ](/news/2010/12/8/liberian-president-ellen-johnson-sirleaf-warns-former-rebel-fighters-not-to-get-involved-in-the-crisis-in-ca-te-d-ivoire.md)
-_Context: Liberia, Ellen Johnson Sirleaf, Cote d'Ivoire_
+_Context: Liberia, Cote d'Ivoire, Ellen Johnson Sirleaf_
 
 ##### Dick Cheney
 ### [Former U.S. vice-president Dick Cheney is charged over a bribery scheme involving oil services company Halliburton by Nigeria's anti-corruption agency. The charges relate to when he was the company's top executive. ](/news/2010/12/8/former-u-s-vice-president-dick-cheney-is-charged-over-a-bribery-scheme-involving-oil-services-company-halliburton-by-nigeria-s-anti-corrupt.md)
@@ -77,11 +77,11 @@ Moscow football fans block a key city artery in protest at a killing which has p
 
 ##### Tony Blair
 ### [Tony Blair is recalled to give further evidence before the Iraq Inquiry after "gaps" concerning the legality of the Iraq War are identified in his evidence. Jack Straw and Lord Goldsmith are to return too. ](/news/2010/12/8/tony-blair-is-recalled-to-give-further-evidence-before-the-iraq-inquiry-after-gaps-concerning-the-legality-of-the-iraq-war-are-identified.md)
-_Context: Jack Straw, Tony Blair, Lord Goldsmith, Iraq War, Iraq Inquiry_
+_Context: Iraq War, Iraq Inquiry, Tony Blair, Lord Goldsmith, Jack Straw_
 
 ##### ICC
 ### [The International Criminal Court is to begin a preliminary investigation into war crimes by North Korea. ](/news/2010/12/8/the-international-criminal-court-is-to-begin-a-preliminary-investigation-into-war-crimes-by-north-korea.md)
-_Context: ICC, war crime, North Korea_
+_Context: ICC, North Korea, war crime_
 
 ##### India
 ### [India's Central Bureau of Investigation raids the homes of former telecommunications minister A. Raja, his family and associates in connection with a corruption scandal. ](/news/2010/12/8/india-s-central-bureau-of-investigation-raids-the-homes-of-former-telecommunications-minister-a-raja-his-family-and-associates-in-connecti.md)
@@ -97,13 +97,13 @@ Private US company sends a spacecraft into orbit in a move that could pave way f
 
 ##### Japan Aerospace Exploration Agency
 ### [The Japan Aerospace Exploration Agency says its probe "Akatsuki" has failed to enter the orbit around Venus. ](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.md)
-_Context: Venus, Japan Aerospace Exploration Agency, ''Akatsuki''_
+_Context: ''Akatsuki'', Venus, Japan Aerospace Exploration Agency_
 
-##### cheetah
+##### Cheetah
 ### [A cheetah is captured roaming the streets in the emirate of Sharjah. ](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.md)
-_Context: cheetah, emirate, Sharjah_
+_Context: Sharjah, emirate, cheetah_
 
-##### meteor
+##### Meteor
 ### [A rare sighting of a meteor fireball is seen over large parts of the United Kingdom. ](/news/2010/12/8/a-rare-sighting-of-a-meteor-fireball-is-seen-over-large-parts-of-the-united-kingdom.md)
 Stargazers throughout the UK report seeing a meteor-like streak of light in the darkened skies - thought to be a rare meteor fireball.
 
@@ -113,7 +113,7 @@ A US-British team of astronomers has discovered the first planet with ultra-high
 
 ##### University of Texas MD Anderson Cancer Center
 ### [Reproduction scientists in University of Texas MD Anderson Cancer Center create mice with nuclear DNA solely from two fathers, using iPStechnology. ](/news/2010/12/8/reproduction-scientists-in-university-of-texas-md-anderson-cancer-center-create-mice-with-nuclear-dna-solely-from-two-fathers-using-ipstech.md)
-_Context: iPS, nuclear DNA, University of Texas MD Anderson Cancer Center_
+_Context: iPS, University of Texas MD Anderson Cancer Center, nuclear DNA_
 
 ## [Previous Day...](/news/2010/12/7/index.md)
 

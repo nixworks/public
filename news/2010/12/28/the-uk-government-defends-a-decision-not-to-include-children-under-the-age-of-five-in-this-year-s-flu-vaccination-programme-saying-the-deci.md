@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/28/the-uk-government-defends-a-decision-not-to-inc
 
 ### [2010-12-28](/news/2010/12/28/index.md)
 
-##### government
+##### Government
 # The UK Government defends a decision not to include children under the age of five in this year's flu vaccination programme, saying the decision is for medical and not financial reasons. 
 
 

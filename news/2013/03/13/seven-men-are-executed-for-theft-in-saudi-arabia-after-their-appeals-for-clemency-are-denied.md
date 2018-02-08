@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/13/seven-men-are-executed-for-theft-in-saudi-arabi
 
 ### [2013-03-13](/news/2013/03/13/index.md)
 
-##### executed
+##### Executed
 # Seven men are executed for theft in Saudi Arabia after their appeals for clemency are denied. 
 
 Seven men convicted of armed robbery have been executed in southern Saudi Arabia, the interior ministry says, despite appeals by human rights groups.

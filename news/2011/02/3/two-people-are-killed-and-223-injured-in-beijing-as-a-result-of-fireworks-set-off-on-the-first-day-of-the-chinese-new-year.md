@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/3/two-people-are-killed-and-223-injured-in-beijing
 
 ### [2011-02-3](/news/2011/02/3/index.md)
 
-##### fireworks
+##### Fireworks
 # Two people are killed and 223 injured in Beijing as a result of fireworks set off on the first day of the Chinese New Year. 
 
 

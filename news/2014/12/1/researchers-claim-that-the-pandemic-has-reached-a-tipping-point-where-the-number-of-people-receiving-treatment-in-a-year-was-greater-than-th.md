@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/1/researchers-claim-that-the-pandemic-has-reached-
 
 ### [2014-12-1](/news/2014/12/1/index.md)
 
-##### pandemic
+##### Pandemic
 # Researchers claim that the pandemic has reached a tipping point where the number of people receiving treatment in a year was greater than the number of new cases. 
 
 The world has finally reached &quot;the beginning of the end&quot; of the AIDS pandemic that has infected and killed millions in the past 30 years, according to a leading campaign group fighting HIV.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/9/women-s-groups-protest-outside-the-oireachtas-af
 
 ### [2011-04-9](/news/2011/04/9/index.md)
 
-##### parliament
+##### Parliament
 # Women's groups protest outside the Oireachtas after police are filmed discussing raping women after their arrest. 
 
 

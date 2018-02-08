@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/8/the-islamist-al-nusra-front-captures-the-histori
 
 ### [2013-09-8](/news/2013/09/8/index.md)
 
-##### al-Nusra Front
+##### Al-Nusra Front
 # The Islamist al-Nusra Front captures the historic Christian town of Ma'loula from the Syrian Army; Russia calls for protection of the town. 
 
 

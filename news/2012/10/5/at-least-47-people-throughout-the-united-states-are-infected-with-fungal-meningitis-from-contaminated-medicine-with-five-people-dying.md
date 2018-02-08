@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/5/at-least-47-people-throughout-the-united-states-
 
 ### [2012-10-5](/news/2012/10/5/index.md)
 
-##### fungal meningitis
+##### Fungal meningitis
 # At least 47 people throughout the United States are infected with fungal meningitis from contaminated medicine, with five people dying. 
 
 

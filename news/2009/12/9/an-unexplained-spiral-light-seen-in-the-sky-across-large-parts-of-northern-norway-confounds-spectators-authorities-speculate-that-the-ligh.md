@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/9/an-unexplained-spiral-light-seen-in-the-sky-acro
 
 ### [2009-12-9](/news/2009/12/9/index.md)
 
-##### unexplained spiral light
+##### Unexplained spiral light
 #  An unexplained spiral light seen in the sky across large parts of Northern Norway confounds spectators. Authorities speculate that the light could come from a misfired Russian rocket, but Russian authorities deny this. 
 
 A eerie turquoise light spotted over Norway has sparked a mystery, with suggestions it could be a missile test.

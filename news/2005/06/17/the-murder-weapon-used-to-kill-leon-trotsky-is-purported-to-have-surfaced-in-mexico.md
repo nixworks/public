@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/17/the-murder-weapon-used-to-kill-leon-trotsky-is-
 
 ### [2005-06-17](/news/2005/06/17/index.md)
 
-##### murder
+##### Murder
 #  The murder weapon used to kill Leon Trotsky is purported to have surfaced in Mexico. 
 
 

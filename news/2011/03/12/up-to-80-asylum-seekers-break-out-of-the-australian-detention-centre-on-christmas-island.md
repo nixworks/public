@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/12/up-to-80-asylum-seekers-break-out-of-the-austra
 
 ### [2011-03-12](/news/2011/03/12/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # Up to 80 asylum seekers break out of the Australian detention centre on Christmas Island. 
 
 

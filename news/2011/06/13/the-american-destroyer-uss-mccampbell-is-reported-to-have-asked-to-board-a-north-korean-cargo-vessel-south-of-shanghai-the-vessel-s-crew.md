@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/13/the-american-destroyer-uss-mccampbell-is-report
 
 ### [2011-06-13](/news/2011/06/13/index.md)
 
-##### destroyer
+##### Destroyer
 # The American destroyer USS "McCampbell" is reported to have asked to board a North Korean cargo vessel south of Shanghai; the vessel's crew refused and later returned home after what "The New York Times" described as "several days of pressure" from the U.S. warship. 
 
 The US Navy halted a North Korean cargo vessel bound for Burma two weeks ago over fears it was carrying weapons, US media report.

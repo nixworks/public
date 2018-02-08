@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/29/torrential-rain-causes-flash-flooding-across-ha
 
 ### [2008-05-29](/news/2008/05/29/index.md)
 
-##### flash flood
+##### Flash flood
 #  Torrential rain causes flash flooding across half of Somerset, United Kingdom. 
 
 

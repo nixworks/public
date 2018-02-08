@@ -7,13 +7,13 @@ Formats: [HTML](2008/08/17/index.html)  [JSON](2008/08/17/index.json)  [XML](200
 ### [ Ex-president Chen Shui-Bian is barred from leaving Taiwan over corruption charges. ](/news/2008/08/17/ex-president-chen-shui-bian-is-barred-from-leaving-taiwan-over-corruption-charges.md)
 _Context: Chen Shui-Bian_
 
-##### quinceanera
+##### Quinceanera
 ### [ Gunmen massacre 14 people at a quinceanera celebration in Creel, Chihuahua, Mexico. ](/news/2008/08/17/gunmen-massacre-14-people-at-a-quinceaa-era-celebration-in-creel-chihuahua-mexico.md)
-_Context: Creel, Chihuahua, quinceanera, Mexico_
+_Context: quinceanera, Mexico, Creel, Chihuahua_
 
 ##### Tropical Storm Fay
 ### [ Tropical Storm Fay kills at least 4 people in Haiti and the Dominican Republic before heading for the Florida Keys where tourists are being evacuated. ](/news/2008/08/17/tropical-storm-fay-kills-at-least-4-people-in-haiti-and-the-dominican-republic-before-heading-for-the-florida-keys-where-tourists-are-being.md)
-_Context: Haiti, Dominican Republic, Tropical Storm Fay, Florida Keys_
+_Context: Haiti, Florida Keys, Tropical Storm Fay, Dominican Republic_
 
 ##### Afghan National Army
 ### [ The Afghan National Army kills 28 Taliban insurgents as the militants attempt an ambush of a convoy in Zabul province. ](/news/2008/08/17/the-afghan-national-army-kills-28-taliban-insurgents-as-the-militants-attempt-an-ambush-of-a-convoy-in-zabul-province.md)

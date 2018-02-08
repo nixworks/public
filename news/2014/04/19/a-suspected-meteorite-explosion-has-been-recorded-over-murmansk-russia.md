@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/19/a-suspected-meteorite-explosion-has-been-record
 
 ### [2014-04-19](/news/2014/04/19/index.md)
 
-##### meteorite
+##### Meteorite
 # A suspected meteorite explosion has been recorded over Murmansk, Russia. 
 
 

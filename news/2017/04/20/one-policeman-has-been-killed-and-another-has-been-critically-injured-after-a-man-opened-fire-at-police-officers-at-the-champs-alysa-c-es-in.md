@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/20/one-policeman-has-been-killed-and-another-has-b
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
-##### terrorist attack
+##### Terrorist attack
 # One policeman has been killed and another has been critically injured after a man opened fire at police officers at the Champs-Elysees in central Paris. The gunman was killed while attempting to escape, and a bystander has been injured. ISIL claims responsibility for the attack although the claim is doubted. The President of France Francois Hollande says that all leads indicate that the attack was of a "terrorist nature". 
 
 ISIS claimed responsibility for an attack on police officers on the Champs-Élysées in Paris this evening that left one officer dead and two others wounded. French Interior Ministry spokesman Pierre-Henri Brandet said during a press briefing that a man exited his car and started a shooting at a police car with an automatic weapon around 9 p.m. The attacker continued shooting at police as he attempted to flee the scene and and was killed by police in an exchange of gunfire, Brandet said. A terrorism investigation into the attack had been opened, the Paris prosecutor&#039;s office said.

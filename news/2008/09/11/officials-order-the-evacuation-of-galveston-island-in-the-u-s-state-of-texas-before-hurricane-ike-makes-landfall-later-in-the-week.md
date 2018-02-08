@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/11/officials-order-the-evacuation-of-galveston-isl
 
 ### [2008-09-11](/news/2008/09/11/index.md)
 
-##### evacuation
+##### Evacuation
 #  Officials order the evacuation of Galveston Island in the U.S. state of Texas before Hurricane Ike makes landfall later in the week. 
 
 

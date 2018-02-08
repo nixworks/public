@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/9/the-military-of-sri-lanka-declares-12-of-its-sol
 
 ### [2008-09-9](/news/2008/09/9/index.md)
 
-##### military of Sri Lanka
+##### Military of Sri Lanka
 #  The military of Sri Lanka declares 12 of its soldiers and one policeman killed in a suicide attack by the Tamil Tigers in Mullaittivu. 
 
 

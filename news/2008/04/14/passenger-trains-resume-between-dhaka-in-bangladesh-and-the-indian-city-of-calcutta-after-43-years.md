@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/14/passenger-trains-resume-between-dhaka-in-bangla
 
 ### [2008-04-14](/news/2008/04/14/index.md)
 
-##### train
+##### Train
 #  Passenger trains resume between Dhaka in Bangladesh and the Indian city of Calcutta, after 43 years. 
 
 

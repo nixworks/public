@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/15/seven-people-are-charged-with-public-order-offe
 
 ### [2010-05-15](/news/2010/05/15/index.md)
 
-##### eirigi
+##### Eirigi
 # Seven people are charged with public order offences after around 80 people from the eirigi group demonstrate and burn effigies in an anti-NAMA fashion outside Anglo Irish Bank HQ in Dublin. 
 
 Seven people are to appear in court this evening following a protest outside the headquarters of Anglo Irish Bank in Dublin earlier&hellip;

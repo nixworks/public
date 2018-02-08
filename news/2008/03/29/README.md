@@ -9,11 +9,11 @@ _Context: Shiite, Iraq, Battle of Basra (2008)_
 
 ##### Libby Trickett
 ### [ Libby Trickett of Australia sets a new world record (21.28 seconds) for the 50 metres freestyle at the selection trials for the Australian swimming team at the 2008 Summer Olympics. ](/news/2008/03/29/libby-trickett-of-australia-sets-a-new-world-record-21-28-seconds-for-the-50-metres-freestyle-at-the-selection-trials-for-the-australian.md)
-_Context: freestyle, 2008 Summer Olympics, world record, Libby Trickett, Australia_
+_Context: world record, freestyle, 2008 Summer Olympics, Libby Trickett, Australia_
 
 ##### Zimbabwe
 ### [ Zimbabweans vote in the presidential and parliamentary elections. ](/news/2008/03/29/zimbabweans-vote-in-the-presidential-and-parliamentary-elections.md)
-_Context: parliamentary, Zimbabwe, run-off presidential election_
+_Context: Zimbabwe, parliamentary, run-off presidential election_
 
 ##### Earth Hour
 ### [ Cities around the world participate in Earth Hour, an international event that asks households and businesses to turn off their lights and non-essential electrical appliances between 8-9pm local time. ](/news/2008/03/29/cities-around-the-world-participate-in-earth-hour-an-international-event-that-asks-households-and-businesses-to-turn-off-their-lights-and.md)

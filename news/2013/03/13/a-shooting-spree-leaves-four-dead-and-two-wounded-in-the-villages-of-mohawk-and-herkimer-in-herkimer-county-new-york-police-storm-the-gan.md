@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/13/a-shooting-spree-leaves-four-dead-and-two-wound
 
 ### [2013-03-13](/news/2013/03/13/index.md)
 
-##### shooting spree
+##### Shooting spree
 # A shooting spree leaves four dead and two wounded in the villages of Mohawk and Herkimer in Herkimer County, New York. Police storm the gan abandoned bar in Herkimer where the gunman, Kurt R. Myers, 64, had holed himself up. After the gunman shot at officers and killed Ape, an FBI dog, police shot and killed him. 
 
 Local law enforcement and state police were still on scene Wednesday night.

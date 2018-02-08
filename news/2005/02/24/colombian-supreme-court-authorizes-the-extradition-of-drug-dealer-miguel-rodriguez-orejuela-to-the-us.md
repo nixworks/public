@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/24/colombian-supreme-court-authorizes-the-extradit
 
 ### [2005-02-24](/news/2005/02/24/index.md)
 
-##### supreme court
+##### Supreme court
 #  Colombian supreme court authorizes the extradition of drug dealer Miguel Rodrguez Orejuela to the US 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/28/assassins-kill-the-military-commander-of-libya-
 
 ### [2011-07-28](/news/2011/07/28/index.md)
 
-##### assassinated
+##### Assassinated
 # Assassins kill the military commander of Libya's National Transitional Council General Abdul Fatah Younis and two other officers. 
 
 Assassins killed Libya’s top rebel military commander, stirring fears that a tribal feud could divide the forces.

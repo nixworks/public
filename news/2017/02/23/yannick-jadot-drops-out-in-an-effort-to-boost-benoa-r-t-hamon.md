@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/23/yannick-jadot-drops-out-in-an-effort-to-boost-b
 
 ### [2017-02-23](/news/2017/02/23/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Yannick Jadot drops out in an effort to boost Benoit Hamon. 
 
 French Green party candidate Yannick Jadot has said he will support Socialist presidential candidate Benoit Hamon. Shifting alliances ahead of April-May elections have cast uncertainty over the vote. 

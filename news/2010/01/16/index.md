@@ -7,7 +7,7 @@ Formats: [HTML](2010/01/16/index.html)  [JSON](2010/01/16/index.json)  [XML](201
 ### [Previously unknown Florence Green, at 108, is believed to be Britain's oldest surviving UK-resident First World War veteran, and the last known female First World War veteran, having served with the Women's RAF (WRAF) in 1918 ](/news/2010/01/16/previously-unknown-florence-green-at-108-is-believed-to-be-britain-s-oldest-surviving-uk-resident-first-world-war-veteran-and-the-last-kn.md)
 A 108-year-old woman is believed to be Britain&rsquo;s oldest surviving First World War veteran.
 
-##### aftershock
+##### Aftershock
 ### [A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. ](/news/2010/01/16/a-4-5-magnitude-aftershock-strikes-haiti-within-days-of-the-recent-devastating-earthquake.md)
 Haitian police have opened fire on a group of looters, killing at least one of them as hundreds of rioters ransacked a market in quake-hit Port-au-Prince.
 
@@ -19,7 +19,7 @@ The FBI has admitted using a photograph of a bearded Spanish politician as the b
 ### [The German government asks its citizens to stop using Microsoft's web browser Internet Explorer to protect their own security. ](/news/2010/01/16/the-german-government-asks-its-citizens-to-stop-using-microsoft-s-web-browser-internet-explorer-to-protect-their-own-security.md)
 The German government has warned against using Internet Explorer after a security flaw left it vulnerable to hackers.
 
-##### melting point
+##### Melting point
 ### [The first detailed measurements of the melting point of diamond indicate that it behaves similarly to water in that the solid floats on the liquid. ](/news/2010/01/16/the-first-detailed-measurements-of-the-melting-point-of-diamond-indicate-that-it-behaves-similarly-to-water-in-that-the-solid-floats-on-the.md)
 Diamond oceans are possible on Uranus and Neptune. Learn how scientists discovered that diamond oceans are possible on Uranus and Neptune.
 
@@ -41,7 +41,7 @@ A tragedy has occurred at the main Havana Psychiatric Hospital with 26 patients 
 
 ##### Malaysia
 ### [Another church is attacked in Malaysia and a mosque also targeted for the first time in a row over the use of the word "Allah" by non-Muslims. ](/news/2010/01/16/another-church-is-attacked-in-malaysia-and-a-mosque-also-targeted-for-the-first-time-in-a-row-over-the-use-of-the-word-allah-by-non-muslim.md)
-_Context: Muslim, in a row, Allah, Malaysia_
+_Context: Allah, Malaysia, Muslim, in a row_
 
 ##### Kenya
 ### [Kenya will deport a radical Jamaican Muslim cleric Abdullah el-Faisal after protests against his detention led to rioting. ](/news/2010/01/16/kenya-will-deport-a-radical-jamaican-muslim-cleric-abdullah-el-faisal-after-protests-against-his-detention-led-to-rioting.md)
@@ -49,11 +49,11 @@ Kenya will deport jailed Jamaican Muslim cleric Sheikh Abdullah al-Faisal &quot;
 
 ##### Australian
 ### [Australian police bust a $A18 million cannabis crop. The cannabis crop has been found growing on leased land in a national park in northern New South Wales. ](/news/2010/01/16/australian-police-bust-a-a18-million-cannabis-crop-the-cannabis-crop-has-been-found-growing-on-leased-land-in-a-national-park-in-northern.md)
-_Context: NSW, Australian, national park, cannabis_
+_Context: NSW, Australian, cannabis, national park_
 
 ##### Japan
 ### [Japanese politician Ichiro Ozawa vows to stay on after the arrests of several of his aides in a growing funding scandal in the Democratic Party of Japan. ](/news/2010/01/16/japanese-politician-ichiro-ozawa-vows-to-stay-on-after-the-arrests-of-several-of-his-aides-in-a-growing-funding-scandal-in-the-democratic-pa.md)
-_Context: Ichiro Ozawa, Japan, Democratic Party_
+_Context: Democratic Party, Ichiro Ozawa, Japan_
 
 ## [Previous Day...](/news/2010/01/15/index.md)
 

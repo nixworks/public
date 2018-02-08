@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/11/a-roadside-bomb-claims-the-life-of-the-governor
 
 ### [2007-08-11](/news/2007/08/11/index.md)
 
-##### bomb
+##### Bomb
 #  A roadside bomb claims the life of the Governor of Ad-Diwaniyah province in Iraq Khalil Jalil Hamza and the provincial police chief Major-General Khalid Hassan. 
 
 

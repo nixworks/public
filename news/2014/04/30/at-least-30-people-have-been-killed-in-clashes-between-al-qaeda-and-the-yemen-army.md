@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/30/at-least-30-people-have-been-killed-in-clashes-
 
 ### [2014-04-30](/news/2014/04/30/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # At least 30 people have been killed in clashes between Al-Qaeda and the Yemen Army. 
 
 Suspected Al-Qaeda militants killed 18 Yemeni soldiers in separate ambushes Tuesday as the army launched a ground offensive against their remaining strongholds in the south, medical and security sources said.

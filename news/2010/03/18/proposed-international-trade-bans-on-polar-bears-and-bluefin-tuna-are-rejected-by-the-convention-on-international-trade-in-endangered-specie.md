@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/18/proposed-international-trade-bans-on-polar-bear
 
 ### [2010-03-18](/news/2010/03/18/index.md)
 
-##### polar bear
+##### Polar bear
 # Proposed international trade bans on polar bears and bluefin tuna are rejected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora. 
 
 Proposed international trade bans on polar bears and Atlantic bluefin tuna failed to pass on Thursday at a 175-nation meeting aimed at protecting endangered species.

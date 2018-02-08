@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/28/an-oil-tanker-the-athos-1-leaks-approximately-3
 
 ### [2004-11-28](/news/2004/11/28/index.md)
 
-##### oil tanker
+##### Oil tanker
 #  An oil tanker, the "Athos 1", leaks approximately 30,000 US gallons (100 m 3 ) of crude oil into the Delaware River in the eastern United States while pulling into a Citgo oil refinery. The Coast Guard closes part of the river to commercial traffic while cleanup begins. 
 
 

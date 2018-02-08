@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/15/at-least-11-spectators-die-in-a-stampede-at-a-c
 
 ### [2008-09-15](/news/2008/09/15/index.md)
 
-##### stampede
+##### Stampede
 #  At least 11 spectators die in a stampede at a club football match in Butembo, Democratic Republic of the Congo, following a riot incited when a goalkeeper used an animist spell in an attempt to rally his team. 
 
 

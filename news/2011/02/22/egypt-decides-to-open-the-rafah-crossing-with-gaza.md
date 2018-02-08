@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/22/egypt-decides-to-open-the-rafah-crossing-with-g
 
 ### [2011-02-22](/news/2011/02/22/index.md)
 
-##### border town
+##### Border town
 # Egypt decides to open the Rafah crossing with Gaza. 
 
 

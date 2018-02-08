@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuado
 
 ### [2016-05-18](/news/2016/05/18/index.md)
 
-##### earthquake
+##### Earthquake
 # A powerful 6.7 magnitude earthquake hits Ecuador near the town of Muisne, one person is killed. 
 
 
@@ -18,7 +18,7 @@ Formats: [HTML](/news/2016/05/18/a-powerful-6-7-magnitude-earthquake-hits-ecuado
 ### Related:
 
 1. [A magnitude 7.8 earthquake strikes off the coast of Ecuador, near the town of Muisne. The Pacific Tsunami Warning Center issues a tsunami alert for coastal areas of Ecuador and Colombia. At least 42 people are reported dead with deaths reported in the cities of Manta, Guayaquil and Portoviejo. ](/news/2016/04/16/a-magnitude-7-8-earthquake-strikes-off-the-coast-of-ecuador-near-the-town-of-muisne-the-pacific-tsunami-warning-center-issues-a-tsunami-al.md) _Context: Ecuador, Muisne_
-2. [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-2-people-are-killed-and-over-100-are.md) _Context: earthquake_
+2. [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-7-people-are-killed-and-over-250-are.md) _Context: earthquake_
 3. [Ecuador is set to hold a referendum consisting of seven questions for voters to approve or reject. ](/news/2018/02/4/ecuador-is-set-to-hold-a-referendum-consisting-of-seven-questions-for-voters-to-approve-or-reject.md) _Context: Ecuador_
 4. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: Ecuador_
 5. [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md) _Context: earthquake_

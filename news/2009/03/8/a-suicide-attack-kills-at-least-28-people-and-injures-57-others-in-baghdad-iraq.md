@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/8/a-suicide-attack-kills-at-least-28-people-and-in
 
 ### [2009-03-8](/news/2009/03/8/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills at least 28 people and injures 57 others in Baghdad, Iraq. 
 
 

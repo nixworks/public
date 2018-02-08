@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/13/a-volunteer-police-officer-is-charged-with-mans
 
 ### [2015-04-13](/news/2015/04/13/index.md)
 
-##### manslaughter by gross negligence
+##### Manslaughter by gross negligence
 # A volunteer police officer is charged with manslaughter in the shooting death of Eric Harris, an unarmed man who was shot while lying on his back in Tulsa, Oklahoma. 
 
 

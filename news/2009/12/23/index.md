@@ -5,7 +5,7 @@ Formats: [HTML](2009/12/23/index.html)  [JSON](2009/12/23/index.json)  [XML](200
 
 ##### Bishop of Kildare and Leighlin
 ### [ Bishop of Kildare and Leighlin Jim Moriarty resigns, the second bishop to do so following the publication of the Murphy Report. ](/news/2009/12/23/bishop-of-kildare-and-leighlin-jim-moriarty-resigns-the-second-bishop-to-do-so-following-the-publication-of-the-murphy-report.md)
-_Context: Murphy Report, James Moriarty, Bishop of Kildare and Leighlin, bishop_
+_Context: Bishop of Kildare and Leighlin, James Moriarty, Murphy Report, bishop_
 
 ##### Orthodox
 ### [ 39-year-old Russian Orthodox priest Father Alexander Filippov is fatally shot in the back outside his home in Satino-Russkoye after challenging a group of drunks who were urinating in his hallway. ](/news/2009/12/23/39-year-old-russian-orthodox-priest-father-alexander-filippov-is-fatally-shot-in-the-back-outside-his-home-in-satino-russkoye-after-challen.md)
@@ -21,7 +21,7 @@ _Context: Ellen Johnson Sirleaf, Bella Yalla, President of Liberia_
 
 ##### Farouk Adamu Aliyu
 ### [ Farouk Adamu Aliyu of the All Nigeria Peoples Party initiates legal action in a bid to tempt the unwell President of Nigeria Umaru Yar'Adua, who is hospitalised in Saudi Arabia, to resign the position on health grounds. ](/news/2009/12/23/farouk-adamu-aliyu-of-the-all-nigeria-peoples-party-initiates-legal-action-in-a-bid-to-tempt-the-unwell-president-of-nigeria-umaru-yar-adua.md)
-_Context: Farouk Adamu Aliyu, All Nigeria Peoples Party, President, Umaru Yar'Adua, Saudi Arabia_
+_Context: Saudi Arabia, Umaru Yar'Adua, President, Farouk Adamu Aliyu, All Nigeria Peoples Party_
 
 ##### Iran
 ### [ Clashes between police and protesters take place in the Iranian city of Isfahan at a memorial service for Ayatollah Hussein-Ali Montazeri. ](/news/2009/12/23/clashes-between-police-and-protesters-take-place-in-the-iranian-city-of-isfahan-at-a-memorial-service-for-ayatollah-hussein-ali-montazeri.md)
@@ -29,7 +29,7 @@ Incidents occur as crowds in Isfahan mourn death of dissident Hossein Ali Montaz
 
 ##### American Airlines
 ### [ American Airlines Flight 331, with 154 people onboard, overshoots the runway at Norman Manley International Airport in Kingston, Jamaica, injuring 44. ](/news/2009/12/23/american-airlines-flight-331-with-154-people-onboard-overshoots-the-runway-at-norman-manley-international-airport-in-kingston-jamaica-i.md)
-_Context: Flight 331, Kingston, American Airlines, Jamaica, Norman Manley International Airport_
+_Context: American Airlines, Norman Manley International Airport, Flight 331, Kingston, Jamaica_
 
 ##### China
 ### [ The trial of Chinese dissident Liu Xiaobo on charges of subversion begins. ](/news/2009/12/23/the-trial-of-chinese-dissident-liu-xiaobo-on-charges-of-subversion-begins.md)
@@ -37,7 +37,7 @@ Verdict in trial of Liu Xiaobo due on Friday after trial lasting just two hours.
 
 ##### Netherlands
 ### [ A Dutch court hears a case taken by Kurdish survivors of poison gas attacks in Halabja against businessman Frans van Anraat, who sold chemicals to Saddam Hussein during the 1980s. ](/news/2009/12/23/a-dutch-court-hears-a-case-taken-by-kurdish-survivors-of-poison-gas-attacks-in-halabja-against-businessman-frans-van-anraat-who-sold-chemi.md)
-_Context: Netherlands, Frans van Anraat, Saddam Hussein, Kurdish, Halabja_
+_Context: Kurdish, Halabja, Frans van Anraat, Netherlands, Saddam Hussein_
 
 ##### Shia insurgency in Yemen
 ### [ Shia insurgency in Yemen led to the deaths of 73 Saudi soldiers, while more than 100 Houthis have been killed in recent days. ](/news/2009/12/23/shia-insurgency-in-yemen-led-to-the-deaths-of-73-saudi-soldiers-while-more-than-100-houthis-have-been-killed-in-recent-days.md)

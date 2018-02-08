@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra
 
 ### [2013-01-27](/news/2013/01/27/index.md)
 
-##### landslide
+##### Landslide
 # A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. 
 
 

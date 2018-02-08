@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/21/five-thousand-people-are-temporarily-evacuated-
 
 ### [2009-03-21](/news/2009/03/21/index.md)
 
-##### evacuation centers
+##### Evacuation centers
 #  Five thousand people are temporarily evacuated from Wind Gap, Pennsylvania, after a tank truck carrying hydrofluoric acid overturns. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

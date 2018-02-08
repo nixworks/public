@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/25/three-typhoons-are-forecast-to-batter-the-phili
 
 ### [2007-11-25](/news/2007/11/25/index.md)
 
-##### typhoon
+##### Typhoon
 #  Three typhoons are forecast to batter the Philippines in the following days. 
 
 Officials in the Philippines say seven people have been killed in two provinces in flooding ahead of typhoon Mitag.

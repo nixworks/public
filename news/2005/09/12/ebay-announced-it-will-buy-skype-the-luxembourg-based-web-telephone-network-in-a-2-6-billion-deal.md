@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/12/ebay-announced-it-will-buy-skype-the-luxembourg
 
 ### [2005-09-12](/news/2005/09/12/index.md)
 
-##### eBay
+##### EBay
 #  eBay announced it will buy Skype, the Luxembourg-based web telephone network, in a $2.6 billion deal. 
 
 

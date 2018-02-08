@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/12/somali-government-and-ethiopian-forces-capture-
 
 ### [2007-01-12](/news/2007/01/12/index.md)
 
-##### capture
+##### Capture
 #  Somali government and Ethiopian forces capture the town of Ras Kamboni, and pursue fleeing Islamist forces. 
 
 

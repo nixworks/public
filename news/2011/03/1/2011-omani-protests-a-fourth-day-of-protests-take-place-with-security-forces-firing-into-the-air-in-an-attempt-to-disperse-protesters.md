@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/1/2011-omani-protests-a-fourth-day-of-protests-tak
 
 ### [2011-03-1](/news/2011/03/1/index.md)
 
-##### anti-government protests
+##### Anti-government protests
 # 2011 Omani protests: A fourth day of protests take place, with security forces firing into the air in an attempt to disperse protesters. 
 
 

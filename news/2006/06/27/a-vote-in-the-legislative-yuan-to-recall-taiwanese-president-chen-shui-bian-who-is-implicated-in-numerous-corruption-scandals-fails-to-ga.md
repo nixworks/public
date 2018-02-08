@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/27/a-vote-in-the-legislative-yuan-to-recall-taiwan
 
 ### [2006-06-27](/news/2006/06/27/index.md)
 
-##### legislative chamber
+##### Legislative chamber
 #  A vote in the Legislative Yuan to recall Taiwanese President Chen Shui-bian, who is implicated in numerous corruption scandals, fails to gain the necessary two-thirds majority. 
 
 

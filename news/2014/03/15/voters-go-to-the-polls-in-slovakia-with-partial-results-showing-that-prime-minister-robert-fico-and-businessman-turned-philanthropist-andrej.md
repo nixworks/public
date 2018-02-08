@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/15/voters-go-to-the-polls-in-slovakia-with-partial
 
 ### [2014-03-15](/news/2014/03/15/index.md)
 
-##### presidential election
+##### Presidential election
 # Voters go to the polls in Slovakia with partial results showing that Prime Minister Robert Fico and businessman-turned philanthropist Andrej Kiska are likely to be the two contenders in the second round. 
 
 

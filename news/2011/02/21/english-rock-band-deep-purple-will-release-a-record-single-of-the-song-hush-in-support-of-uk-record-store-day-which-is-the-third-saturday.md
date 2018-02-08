@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/21/english-rock-band-deep-purple-will-release-a-re
 
 ### [2011-02-21](/news/2011/02/21/index.md)
 
-##### rock music
+##### Rock music
 # English rock band Deep Purple will release a record single of the song "Hush" in support of UK Record Store Day which is the third Saturday in April. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/9/thirty-mummies-are-discovered-in-a-2-600-year-ol
 
 ### [2009-02-9](/news/2009/02/9/index.md)
 
-##### mummies
+##### Mummies
 #  Thirty mummies are discovered in a 2,600-year-old ancient Egyptian tomb at Saqqara. 
 
 

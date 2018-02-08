@@ -9,13 +9,13 @@ Three Turkish soldiers are killed as a military convoy is attacked by the PKK in
 
 ##### Middle East
 ### [A heat wave hits the Middle East with Baghdad recording a top temperature of 50 C and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2 F. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.md)
-_Context: Baghdad, heat index, Middle East, Iran_
+_Context: Middle East, heat index, Iran, Baghdad_
 
 ##### Pokhara
 ### [At least 30 people are killed in a landslide that struck villages near Pokhara, Nepal. ](/news/2015/07/30/at-least-30-people-are-killed-in-a-landslide-that-struck-villages-near-pokhara-nepal.md)
 _Context: Pokhara_
 
-##### high school
+##### High school
 ### [A Taiwanese high school student commits suicide by charcoal fumes after a protest against controversial Sinocentric revisions in a curriculum guideline; hundreds storm the education ministry in response. ](/news/2015/07/30/a-taiwanese-high-school-student-commits-suicide-by-charcoal-fumes-after-a-protest-against-controversial-sinocentric-revisions-in-a-curriculu.md)
 Hundreds of protesters gathered in Taipei early on Friday calling for the education minister to resign after a student committed suicide, amid a deepening row over the island&#x27;s &quot;China-centric&quot; school curriculum. Several hundred people, some holding white roses and candles, congregated
 
@@ -41,7 +41,7 @@ Former high-ranking Chinese army figure Guo Boxiong is expelled from the Communi
 
 ##### Chen Min'er
 ### [Chen Min'er replaces Zhao Kezhi as the Communist Party Secretary of Guizhou province, China. Zhao awaits assignment. ](/news/2015/07/30/chen-min-er-replaces-zhao-kezhi-as-the-communist-party-secretary-of-guizhou-province-china-zhao-awaits-assignment.md)
-_Context: China, Chen Min'er, Guizhou, Zhao Kezhi, Communist Party Secretary_
+_Context: Zhao Kezhi, Chen Min'er, Guizhou, China, Communist Party Secretary_
 
 ## [Previous Day...](/news/2015/07/29/index.md)
 

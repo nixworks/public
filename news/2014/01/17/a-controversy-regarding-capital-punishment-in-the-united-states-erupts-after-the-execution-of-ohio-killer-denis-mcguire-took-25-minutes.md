@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/17/a-controversy-regarding-capital-punishment-in-t
 
 ### [2014-01-17](/news/2014/01/17/index.md)
 
-##### executed in the United States
+##### Executed in the United States
 # A controversy regarding capital punishment in the United States erupts after the execution of Ohio killer Denis McGuire took 25 minutes. 
 
 US lawyers are to challenge the drugs used in executions in Ohio after a murderer took 25 minutes to die from a new lethal cocktail.

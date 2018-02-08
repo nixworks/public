@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/24/the-first-battery-swapping-station-in-israel-fo
 
 ### [2011-03-24](/news/2011/03/24/index.md)
 
-##### battery-swapping station
+##### Battery-swapping station
 # The first battery-swapping station in Israel for electric cars is inaugurated by Better Place; over 1,000 charging stations for the cars are already in place. 
 
 Infrastructures Minister Landau recites ‘Shehecheyanu’ blessing, calling it a first step toward weaning the country from enemy resources.

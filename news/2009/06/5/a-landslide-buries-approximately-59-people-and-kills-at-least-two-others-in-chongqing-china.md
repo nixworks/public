@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-k
 
 ### [2009-06-5](/news/2009/06/5/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide buries approximately 59 people and kills at least two others in Chongqing, China. 
 
 

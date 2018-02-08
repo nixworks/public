@@ -9,7 +9,7 @@ The shootout in Chihuahua comes amid rising violence nationwide.
 
 ##### Disappearance of Amelia Earhart
 ### [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md)
-_Context: Empire of Japan, Disappearance of Amelia Earhart, Marshall Islands, Amelia Earhart, National Archives, Fred Noonan_
+_Context: Amelia Earhart, Empire of Japan, National Archives, Fred Noonan, Disappearance of Amelia Earhart, Marshall Islands_
 
 ##### Volvo
 ### [Volvo says it plans to phase out fossil fuels by building only electric or hybrid cars. ](/news/2017/07/5/volvo-says-it-plans-to-phase-out-fossil-fuels-by-building-only-electric-or-hybrid-cars.md)
@@ -31,9 +31,9 @@ Three vaccines, for diphtheria, tetanus and poliomyelitis, are already mandatory
 ### [The United States extends the restrictions deadline for refugees. ](/news/2017/07/5/the-united-states-extends-the-restrictions-deadline-for-refugees.md)
 Refugee resettlement agencies say the State Department has given them updated instructions on President Trump&apos;s travel ban that extends...
 
-##### priest
+##### Priest
 ### [A priest is arrested and questioned over an alleged drug-induced gay orgy hosted in his apartment in the Vatican City. ](/news/2017/07/5/a-priest-is-arrested-and-questioned-over-an-alleged-drug-induced-gay-orgy-hosted-in-his-apartment-in-the-vatican-city.md)
-_Context: drug, priest, gay, Vatican City, orgy_
+_Context: Vatican City, orgy, gay, drug, priest_
 
 ##### Crime in New York City
 ### [A police shooting occurs in the Bronx, New York, killing one police officer and injuring a bystander. Two officers confront the suspect and shoot him dead. ](/news/2017/07/5/a-police-shooting-occurs-in-the-bronx-new-york-killing-one-police-officer-and-injuring-a-bystander-two-officers-confront-the-suspect-and.md)
@@ -47,13 +47,13 @@ Another person was wounded before the gunman was reportedly shot and killed by d
 ### [Samoa's Legislative Assembly appoints Tuimalealiifano Va'aletoa Sualauvi II as O le Ao o le Malo, or Head of State. He will succeed Tufuga Efi, the country's head of state since 2007, on July 25. ](/news/2017/07/5/samoa-s-legislative-assembly-appoints-tuimalealiifano-va-aletoa-sualauvi-ii-as-o-le-ao-o-le-malo-or-head-of-state-he-will-succeed-tufuga-e.md)
 Samoa has a new Head of State. This morning the 50-member Parliament voted unanimously for a of the Council of Deputies or Council of Deputy Heads of State, Tuimalealiifano Va&#8217;aletoa Sualauvi II, to become Samoa&#8217;s Head of State
 
-##### ongoing protests
+##### Ongoing protests
 ### [Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. ](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-maduro-storm-the-opposition-controlled-national-assembly-and-injure-several-lawmakers-including.md)
-_Context: Venezuela, National Assembly, President of the National Assembly, Julio Borges, Supporters, ongoing protests, Nicols Maduro_
+_Context: ongoing protests, Venezuela, Supporters, President of the National Assembly, Nicols Maduro, National Assembly, Julio Borges_
 
 ##### Muqui
 ### [A group of people are arrested in the Peruvian village of Muqui, located in the Andes, after they painted a wall with allusive symbols and messages to the far-left terrorist organization, Shining Path, responsible for crimes against humanity in Peru from 1980 to 1992. Police later clarified that the true intentions of the arrested, some of them students of a technical training institute, were to make a short film. ](/news/2017/07/5/a-group-of-people-are-arrested-in-the-peruvian-village-of-muqui-located-in-the-andes-after-they-painted-a-wall-with-allusive-symbols-and-m.md)
-_Context: crimes against humanity, Shining Path, Muqui, Andes, Peru_
+_Context: Peru, Muqui, crimes against humanity, Shining Path, Andes_
 
 ##### Peru
 ### [The face of the Peruvian Moche mummy the Lady of Cao is reconstructed from its skull structure, using forensic archaeology techniques and ethnographic research. ](/news/2017/07/5/the-face-of-the-peruvian-moche-mummy-the-lady-of-cao-is-reconstructed-from-its-skull-structure-using-forensic-archaeology-techniques-and-et.md)

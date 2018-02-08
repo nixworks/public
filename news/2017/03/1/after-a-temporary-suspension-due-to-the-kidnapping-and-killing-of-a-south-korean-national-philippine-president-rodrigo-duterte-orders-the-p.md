@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/1/after-a-temporary-suspension-due-to-the-kidnappi
 
 ### [2017-03-1](/news/2017/03/1/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # After a temporary suspension due to the kidnapping and killing of a South Korean national, Philippine president Rodrigo Duterte orders the Philippine National Police to resume his controversial campaign. 
 
 

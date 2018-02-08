@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/10/the-uk-s-coalition-government-drops-plans-for-a
 
 ### [2012-07-10](/news/2012/07/10/index.md)
 
-##### the coalition
+##### The coalition
 # The UK's coalition government drops plans for a crucial House of Commons vote on its plans to reform the House of Lords after it faced likely defeat over the issue with as many as 100 Conservative MPs planning to oppose the plans. 
 
 The government abandons plans for a crucial vote on its plans to reform the House of Lords after it faced likely defeat over the issue.

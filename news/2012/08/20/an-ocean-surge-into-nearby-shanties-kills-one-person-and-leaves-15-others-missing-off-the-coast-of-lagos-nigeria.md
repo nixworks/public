@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/20/an-ocean-surge-into-nearby-shanties-kills-one-p
 
 ### [2012-08-20](/news/2012/08/20/index.md)
 
-##### shanties
+##### Shanties
 # An ocean surge into nearby shanties kills one person and leaves 15 others missing off the coast of Lagos, Nigeria. 
 
 

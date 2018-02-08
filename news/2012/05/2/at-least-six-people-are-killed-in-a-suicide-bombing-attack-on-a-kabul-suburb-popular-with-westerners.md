@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/2/at-least-six-people-are-killed-in-a-suicide-bomb
 
 ### [2012-05-2](/news/2012/05/2/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least six people are killed in a suicide bombing attack on a Kabul suburb popular with westerners. 
 
 Suicide bombers attacked a compound housing Westerners in Kabul on Wednesday hours after U.S. President Barack Obama signed a security pact during a short visit to a city that remains vulnerable to a resilient insurgency.

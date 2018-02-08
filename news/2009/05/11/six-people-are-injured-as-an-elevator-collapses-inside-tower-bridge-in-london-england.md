@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/11/six-people-are-injured-as-an-elevator-collapses
 
 ### [2009-05-11](/news/2009/05/11/index.md)
 
-##### elevator
+##### Elevator
 #  Six people are injured as an elevator collapses inside Tower Bridge in London, England. 
 
 

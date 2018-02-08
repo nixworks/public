@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/22/an-attacker-carries-out-a-vehicle-ramming-attac
 
 ### [2017-03-22](/news/2017/03/22/index.md)
 
-##### last month's Westminster attack
+##### Last month's Westminster attack
 # An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. 
 
 Police officer is stabbed in Parliament and a women among several people struck by car on nearby bridge.

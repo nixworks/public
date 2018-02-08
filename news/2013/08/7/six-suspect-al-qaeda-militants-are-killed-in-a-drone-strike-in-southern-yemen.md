@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/7/six-suspect-al-qaeda-militants-are-killed-in-a-d
 
 ### [2013-08-7](/news/2013/08/7/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Six suspect Al-Qaeda militants are killed in a drone strike in Southern Yemen. 
 
 A U.S. drone killed at least six suspected al Qaeda militants in southern Yemen on Wednesday, officials said, a day after U.S. and British embassies evacuated some staff because of growing fears of attacks.

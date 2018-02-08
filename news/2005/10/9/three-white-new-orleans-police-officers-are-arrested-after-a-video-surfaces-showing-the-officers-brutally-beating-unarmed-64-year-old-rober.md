@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/9/three-white-new-orleans-police-officers-are-arre
 
 ### [2005-10-9](/news/2005/10/9/index.md)
 
-##### white
+##### White
 #  Three white New Orleans police officers are arrested after a video surfaces showing the officers brutally beating unarmed 64-year-old Robert Davis. The victim, who is black, has been charged with public intoxication, resisting arrest, battery on a police officer and public intimidation. 
 
 

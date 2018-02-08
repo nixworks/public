@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/14/the-death-toll-of-a-capsized-ferry-mv-mutambala
 
 ### [2014-12-14](/news/2014/12/14/index.md)
 
-##### capsized ferry MV Mutambala
+##### Capsized ferry MV Mutambala
 # The death toll of a capsized ferry MV Mutambala on December 12 in Lake Tanganyika, Democratic Republic of the Congo rises to 129 with authorities continuing to search for bodies or survivors. 
 
 At least 129 bodies have been recovered from Lake Tanganyika in the Democratic Republic of Congo, after a ferry capsized on Friday.

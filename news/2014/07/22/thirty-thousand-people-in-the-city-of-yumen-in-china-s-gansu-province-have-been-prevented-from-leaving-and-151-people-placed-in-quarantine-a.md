@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/22/thirty-thousand-people-in-the-city-of-yumen-in-
 
 ### [2014-07-22](/news/2014/07/22/index.md)
 
-##### city of Yumen
+##### City of Yumen
 # Thirty thousand people in the city of Yumen in China's Gansu province have been prevented from leaving and 151 people placed in quarantine after a man dies of bubonic plague last week. 
 
 China has sealed off parts of its northwestern city of Yumen after a resident died of bubonic plague last week, state media reported on Tuesday.

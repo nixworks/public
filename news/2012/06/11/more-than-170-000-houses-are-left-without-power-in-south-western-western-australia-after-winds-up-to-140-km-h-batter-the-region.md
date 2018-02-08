@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/11/more-than-170-000-houses-are-left-without-power
 
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-##### south-western
+##### South-western
 # More than 170,000 houses are left without power in south-western Western Australia after winds up to 140 km-h batter the region. 
 
 More than 100,000 households remain without power this morning and may remain without electricity for a week, with Western Power crews working throughout the night.

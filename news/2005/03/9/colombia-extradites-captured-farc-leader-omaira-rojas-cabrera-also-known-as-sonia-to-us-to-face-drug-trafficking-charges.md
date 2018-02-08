@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/9/colombia-extradites-captured-farc-leader-omaira-
 
 ### [2005-03-9](/news/2005/03/9/index.md)
 
-##### extradition
+##### Extradition
 #  Colombia extradites captured FARC leader Omaira Rojas Cabrera, also known as "Sonia", to [US to face drug trafficking charges 
 
 

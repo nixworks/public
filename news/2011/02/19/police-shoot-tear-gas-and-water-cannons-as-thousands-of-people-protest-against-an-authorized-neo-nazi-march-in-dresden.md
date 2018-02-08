@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/19/police-shoot-tear-gas-and-water-cannons-as-thou
 
 ### [2011-02-19](/news/2011/02/19/index.md)
 
-##### tear gas
+##### Tear gas
 # Police shoot tear gas and water cannons as thousands of people protest against an authorized neo-Nazi march in Dresden. 
 
 

@@ -29,7 +29,7 @@ Muhammad Kamaruzzaman was found guilty of mass killing, murder, abduction, tortu
 
 ##### Nigeria
 ### [Voters in Nigeria go to the polls for gubernatorial and state Assembly elections. At least nine people are killed in election day violence, most of them in Rivers State. ](/news/2015/04/11/voters-in-nigeria-go-to-the-polls-for-gubernatorial-and-state-assembly-elections-at-least-nine-people-are-killed-in-election-day-violence.md)
-_Context: gubernatorial elections, Nigeria, Rivers State_
+_Context: Nigeria, gubernatorial elections, Rivers State_
 
 ## [Previous Day...](/news/2015/04/10/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/30/a-small-humanoid-robot-that-can-talk-will-be-se
 
 ### [2012-11-30](/news/2012/11/30/index.md)
 
-##### humanoid
+##### Humanoid
 # A small humanoid robot that can talk will be sent into space to provide conversational company for Japanese astronaut Koichi Wakata on a six-month mission to the ISS during Soyuz TMA-11M in 2013. 
 
 

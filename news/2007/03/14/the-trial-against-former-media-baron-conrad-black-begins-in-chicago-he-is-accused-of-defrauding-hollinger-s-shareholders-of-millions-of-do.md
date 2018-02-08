@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/14/the-trial-against-former-media-baron-conrad-bla
 
 ### [2007-03-14](/news/2007/03/14/index.md)
 
-##### media baron
+##### Media baron
 #  The trial against former media baron Conrad Black begins in Chicago. He is accused of defrauding Hollinger's shareholders of millions of dollars. 
 
 

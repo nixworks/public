@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/18/the-trial-of-five-bloggers-in-the-united-arab-e
 
 ### [2011-07-18](/news/2011/07/18/index.md)
 
-##### blog
+##### Blog
 # The trial of five bloggers in the United Arab Emirates for advocating democratic reforms resumes. 
 
 Five bloggers arrested in April after calling for political reforms in the United Arab Emirates.

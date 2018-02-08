@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/5/a-u-s-drone-attack-kills-at-least-nine-insurgent
 
 ### [2012-05-5](/news/2012/05/5/index.md)
 
-##### drones launch
+##### Drones launch
 # A U.S. drone attack kills at least nine insurgents in Pakistan's North Waziristan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/17/three-astronauts-sunita-williams-of-the-united-
 
 ### [2012-07-17](/news/2012/07/17/index.md)
 
-##### astronaut
+##### Astronaut
 # Three astronauts, Sunita Williams of the United States, Yuri Malenchenko of Russia and Aki Hoshide of Japan, arrive at the International Space Station for a three month visit. 
 
 A Russian Soyuz spacecraft linked up with the International Space Station early Tuesday (July 17) carrying three new residents for the lab representing Russia, the United States and Japan.

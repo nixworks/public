@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/9/five-peacekeepers-are-killed-and-another-17-miss
 
 ### [2008-07-9](/news/2008/07/9/index.md)
 
-##### peacekeepers
+##### Peacekeepers
 #  Five peacekeepers are killed and another 17 missing following an ambush on a patrol by the joint United Nations-African Union peacekeeping mission in Darfur. 
 
 

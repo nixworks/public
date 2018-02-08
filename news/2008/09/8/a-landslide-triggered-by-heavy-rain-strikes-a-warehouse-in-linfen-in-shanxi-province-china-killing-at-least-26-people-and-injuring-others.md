@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/8/a-landslide-triggered-by-heavy-rain-strikes-a-wa
 
 ### [2008-09-8](/news/2008/09/8/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide triggered by heavy rain strikes a warehouse in Linfen in Shanxi province, China, killing at least 26 people and injuring others. 
 
 Heavy rain triggered a landslide triggered that killed at least 34 people in northern China on Monday, trapping an unknown number of other victims, a state news agency reported.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/18/in-the-united-states-a-group-of-hospitals-32-in
 
 ### [2015-12-18](/news/2015/12/18/index.md)
 
-##### false claims
+##### False claims
 # In the United States, a group of hospitals, 32 in 15 states, agree to pay a total of $28 million to settle charges they submitted false claims to Medicare for a type of spinal fracture treatment. This is the latest settlement stemming from a decade-old whistleblower lawsuit about alleged inappropriate billing for kyphoplasty. More than 130 hospitals have paid about $105 million to settle billing claims from this spinal procedure. 
 
 A group of 32 hospitals will pay a total of $28 million to settle allegations that they submitted false claims to Medicare for a type of spinal fracture treatment, the U.S. Department of Justice said on Friday.

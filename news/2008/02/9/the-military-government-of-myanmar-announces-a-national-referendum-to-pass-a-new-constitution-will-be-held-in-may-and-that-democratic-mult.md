@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/9/the-military-government-of-myanmar-announces-a-n
 
 ### [2008-02-9](/news/2008/02/9/index.md)
 
-##### military government
+##### Military government
 #  The military government of Myanmar announces a national referendum to pass a new constitution will be held in May, and that democratic multi-party elections will take place in 2010. 
 
 

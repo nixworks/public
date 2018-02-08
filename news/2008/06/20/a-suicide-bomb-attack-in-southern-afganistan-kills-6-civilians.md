@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/20/a-suicide-bomb-attack-in-southern-afganistan-ki
 
 ### [2008-06-20](/news/2008/06/20/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb attack in southern Afganistan kills 6 civilians. 
 
 

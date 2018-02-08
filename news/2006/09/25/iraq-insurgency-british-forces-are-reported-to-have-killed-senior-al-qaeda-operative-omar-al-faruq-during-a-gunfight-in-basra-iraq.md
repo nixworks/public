@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/25/iraq-insurgency-british-forces-are-reported-to-
 
 ### [2006-09-25](/news/2006/09/25/index.md)
 
-##### insurgents
+##### Insurgents
 #  Iraq insurgency: British forces are reported to have killed senior Al-Qaeda operative Omar al-Faruq during a gunfight in Basra, Iraq. 
 
 

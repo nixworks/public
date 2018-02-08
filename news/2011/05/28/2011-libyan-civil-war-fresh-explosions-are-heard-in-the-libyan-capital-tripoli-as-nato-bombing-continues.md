@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/28/2011-libyan-civil-war-fresh-explosions-are-hear
 
 ### [2011-05-28](/news/2011/05/28/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Fresh explosions are heard in the Libyan capital Tripoli as NATO bombing continues. 
 
 

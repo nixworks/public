@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/21/telecommunications-company-inmarsat-is-planning
 
 ### [2005-10-21](/news/2005/10/21/index.md)
 
-##### telecom
+##### Telecom
 #  Telecommunications company Inmarsat is planning to launch the second in a series of two super-satellites into geosynchronous orbit. They are designed to be among the most powerful commercial communications satellites in orbit. They will beam broadband data and voice services to almost any location on the planet. 
 
 

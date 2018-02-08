@@ -3,19 +3,19 @@ Formats: [HTML](2008/09/16/index.html)  [JSON](2008/09/16/index.json)  [XML](200
 
 ## [2008-09-16](/news/2008/09/16/index.md)
 
-##### gubernatorial elections
+##### Gubernatorial elections
 ### [ Governor of Pando Leopoldo Fernandez is taken into custody by the armed forces, on charges of hiring hitmen to attack pro-government protesters. ](/news/2008/09/16/governor-of-pando-leopoldo-ferna-ndez-is-taken-into-custody-by-the-armed-forces-on-charges-of-hiring-hitmen-to-attack-pro-government-prote.md)
-_Context: Pando, gubernatorial elections, Leopoldo Fernandez_
+_Context: Leopoldo Fernandez, Pando, gubernatorial elections_
 
-##### two years of helping
+##### Two years of helping
 ### [ Fighting in Somalia has killed 838 people since June, according to local rights activists, bringing the total to have died in an insurgency that began early last year to 9,474. ](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since-june-according-to-local-rights-activists-bringing-the-total-to-have-died-in-an-insurgency.md)
 _Context: two years of helping_
 
 ##### Russia
 ### [ Russia's most liquid stock exchange MICEX and the dollar-denominated RTS suspend trade for one hour after the worst one-day fall in ten years as Finance Minister Alexei Kudrin reassured markets there was no "systemic" crisis. ](/news/2008/09/16/russia-s-most-liquid-stock-exchange-micex-and-the-dollar-denominated-rts-suspend-trade-for-one-hour-after-the-worst-one-day-fall-in-ten-yea.md)
-_Context: MICEX, RTS, Russia, Alexei Kudrin_
+_Context: Russia, RTS, Alexei Kudrin, MICEX_
 
-##### housing crisis
+##### Housing crisis
 ### [ Subprime mortgage crisis: The United States Federal Reserve agrees to lend the American International Group $85 billion in return for a 79.9% stake. ](/news/2008/09/16/subprime-mortgage-crisis-the-united-states-federal-reserve-agrees-to-lend-the-american-international-group-85-billion-in-return-for-a-79.md)
 Fearing a financial crisis, the Fed reversed course and agreed to bail out A.I.G. in the central bank’s most radical intervention.
 
@@ -25,23 +25,23 @@ Six men have been found guilty of forming a Melbourne-based terrorist cell.
 
 ##### United States
 ### [ The United States government opens up a partnership with the Swedish municipality of Sodertalje, a city of 80,000 that has received nearly 6,000 Iraqi refugees since the beginning of the Iraq war. ](/news/2008/09/16/the-united-states-government-opens-up-a-partnership-with-the-swedish-municipality-of-sapderta-lje-a-city-of-80-000-that-has-received-nearl.md)
-_Context: Iraq, Sweden, Sodertalje, United States, Iraq war_
+_Context: Sweden, Iraq war, Iraq, Sodertalje, United States_
 
 ##### Hamas-Fatah conflict
 ### [ Hamas-Fatah conflict: Fierce fighting between Hamas security forces and the pro-Fatah Doghmush organised crime family leaves 5 dead in Gaza City. ](/news/2008/09/16/hamas-fatah-conflict-fierce-fighting-between-hamas-security-forces-and-the-pro-fatah-doghmush-organised-crime-family-leaves-5-dead-in-gaza.md)
-_Context: Hamas-Fatah conflict, Hamas, Doghmush, Gaza, Fatah_
+_Context: Gaza, Fatah, Doghmush, Hamas, Hamas-Fatah conflict_
 
-##### the Ukrainian government collapse
+##### The Ukrainian government collapse
 ### [ Ukraine's ruling coalition is formally dissolved after parties supporting Prime Minister Yulia Tymoshenko, in alliance with the Party of Regions, pushed legislation limiting the powers of President Viktor Yushchenko resulting in his party's withdrawal from the coalition. Tymoshenko's party is expected to form an alliance with the Party of Regions or new elections will be held. ](/news/2008/09/16/ukraine-s-ruling-coalition-is-formally-dissolved-after-parties-supporting-prime-minister-yulia-tymoshenko-in-alliance-with-the-party-of-re.md)
 Ukraine&#039;s President Viktor Yushchenko has accused Yulia Tymoshenko, the Prime Minister, of high treason amid a bitter political struggle over whether the country&#039;s future lies with the West or with Russia.
 
 ##### Oregon
 ### [ The employees (not the members) of Oregon's largest teachers' union go on strike against the union itself. ](/news/2008/09/16/the-employees-not-the-members-of-oregon-s-largest-teachers-union-go-on-strike-against-the-union-itself.md)
-_Context: Oregon, largest teachers' union_
+_Context: largest teachers' union, Oregon_
 
 ##### Malcolm Turnbull
 ### [ Malcolm Turnbull is elected as the new leader of the Federal Liberal Party of Australia and Leader of the Opposition following a leadership spill. ](/news/2008/09/16/malcolm-turnbull-is-elected-as-the-new-leader-of-the-federal-liberal-party-of-australia-and-leader-of-the-opposition-following-a-leadership.md)
-_Context: Liberals, Malcolm Turnbull, Leader of the Opposition_
+_Context: Liberals, Leader of the Opposition, Malcolm Turnbull_
 
 ##### Taiwan
 ### [ The Republic of China adopts Hanyu Pinyin as its official Chinese romanization, switching from the previously-official Tongyong Pinyin.](/news/2008/09/16/the-republic-of-china-adopts-hanyu-pinyin-as-its-official-chinese-romanization-switching-from-the-previously-official-tongyong-pinyin.md)

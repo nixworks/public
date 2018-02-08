@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/5/eleven-people-are-killed-and-around-30-injured-i
 
 ### [2007-06-5](/news/2007/06/5/index.md)
 
-##### train crash
+##### Train crash
 #  Eleven people are killed and around 30 injured in a train crash 10 kilometres north of Kerang, Victoria, Australia. 
 
 Ten people have been killed and dozens injured in Australia&#39;s worst rail crash in 30 years.

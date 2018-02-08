@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/9/the-death-toll-from-a-mass-poisoning-involving-h
 
 ### [2009-07-9](/news/2009/07/9/index.md)
 
-##### alcoholic beverage
+##### Alcoholic beverage
 #  The death toll from a mass poisoning involving home-brewed alcohol in Gujarat, India rises to 71. 
 
 The death toll from a mass poisoning involving home-brewed alcohol in the western Indian state of Gujarat has risen to 71.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/24/japan-issues-a-deportation-order-against-former
 
 ### [2004-08-24](/news/2004/08/24/index.md)
 
-##### deportees
+##### Deportees
 #  Japan issues a deportation order against former world chess champion Bobby Fischer. 
 
 

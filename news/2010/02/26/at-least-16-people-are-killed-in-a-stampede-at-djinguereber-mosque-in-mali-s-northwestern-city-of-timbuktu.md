@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/26/at-least-16-people-are-killed-in-a-stampede-at-
 
 ### [2010-02-26](/news/2010/02/26/index.md)
 
-##### stampede
+##### Stampede
 # At least 16 people are killed in a stampede at Djinguereber Mosque in Mali's northwestern city of Timbuktu. 
 
 At least 26 people killed as worshippers circle around mosque in city of Timbuktu.

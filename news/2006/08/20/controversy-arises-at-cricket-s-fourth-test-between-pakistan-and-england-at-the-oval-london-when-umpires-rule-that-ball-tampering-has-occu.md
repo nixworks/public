@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/20/controversy-arises-at-cricket-s-fourth-test-bet
 
 ### [2006-08-20](/news/2006/08/20/index.md)
 
-##### cricketer
+##### Cricketer
 #  Controversy arises at cricket's Fourth test between Pakistan and England at The Oval, London when umpires rule that ball-tampering has occurred and award the game to England. 
 
 

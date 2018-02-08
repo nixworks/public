@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-droppi
 
 ### [2016-10-7](/news/2016/10/7/index.md)
 
-##### pound sterling
+##### Pound sterling
 # The pound sterling sustains a flash crash, dropping from an exchange rate of $1.23 per pound to $1.13 in a few minutes of trading today, then gaining much of it back. Observers blame this development on algorithmic trading. 
 
 Trading software may have overreacted to tweets about the French president’s comments on Brexit.

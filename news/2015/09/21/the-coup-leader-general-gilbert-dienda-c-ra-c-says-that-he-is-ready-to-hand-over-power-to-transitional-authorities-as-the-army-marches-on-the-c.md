@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/21/the-coup-leader-general-gilbert-dienda-c-ra-c-s
 
 ### [2015-09-21](/news/2015/09/21/index.md)
 
-##### recent coup
+##### Recent coup
 # The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. 
 
 The coup leader in Burkina Faso says he is ready to hand over power to transitional civilian authorities, as the army is reportedly marching on the capital.

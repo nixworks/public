@@ -3,7 +3,7 @@ Formats: [HTML](2013/04/20/index.html)  [JSON](2013/04/20/index.json)  [XML](201
 
 ## [2013-04-20](/news/2013/04/20/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 ### [A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. ](/news/2013/04/20/a-female-suicide-bomber-kills-four-and-injures-four-outside-a-hospital-in-khaar-federally-administered-tribal-areas-pakistan.md)
 A woman suicide bomber today detonated a bomb outside a hospital in a lawless tribal area of northwest Pakistan, killing at least four people and injuring five others. The blast occurred outside the m
 
@@ -11,7 +11,7 @@ A woman suicide bomber today detonated a bomb outside a hospital in a lawless tr
 ### [2013 Lushan earthquake: An earthquake of 7.0 magnitude strikes Lushan County, Sichuan province, China, with the latest estimate showing 193 people dead, 24 missing and 11,826 injured. ](/news/2013/04/20/2013-lushan-earthquake-an-earthquake-of-7-0-magnitude-strikes-lushan-county-sichuan-province-china-with-the-latest-estimate-showing-193.md)
 A magnitude 6.6 earthquake has hit south-western China, killing at least 192 people and injuring thousands.
 
-##### snowboarders
+##### Snowboarders
 ### [Five snowboarders are killed in a backcountry avalanche on Loveland Pass in the U.S. state of Colorado in the deadliest US avalanche since 1962. ](/news/2013/04/20/five-snowboarders-are-killed-in-a-backcountry-avalanche-on-loveland-pass-in-the-u-s-state-of-colorado-in-the-deadliest-us-avalanche-since-1.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 
@@ -51,9 +51,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Antares A-ONE: Bad weather delays the first launch of the Antares rocket. ](/news/2013/04/20/antares-a-one-bad-weather-delays-the-first-launch-of-the-antares-rocket.md)
 The launch, which may be visible from the District, has been rescheduled for Sunday afternoon.
 
-##### kilt
+##### Kilt
 ### [A study finds that men who wear kilts and no underwear have higher sperm counts than men who sport underwear. ](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-underwear-have-higher-sperm-counts-than-men-who-sport-underwear.md)
-_Context: sperm, underwear, kilt_
+_Context: sperm, kilt, underwear_
 
 ## [Previous Day...](/news/2013/04/19/index.md)
 

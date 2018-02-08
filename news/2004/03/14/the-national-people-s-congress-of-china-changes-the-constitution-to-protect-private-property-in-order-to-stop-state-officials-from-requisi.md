@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/14/the-national-people-s-congress-of-china-changes
 
 ### [2004-03-14](/news/2004/03/14/index.md)
 
-##### parliament
+##### Parliament
 #  The National People's Congress of China changes the constitution to protect private property, in order to stop state officials from requisitioning property and private possessions. 
 
 

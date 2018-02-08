@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/23/swedish-sex-club-owner-mille-markovic-is-shot-d
 
 ### [2014-01-23](/news/2014/01/23/index.md)
 
-##### sex club
+##### Sex club
 # Swedish sex club owner Mille Markovic is shot dead in Stockholm. 
 
 

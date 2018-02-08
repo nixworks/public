@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/27/as-many-as-71-illegal-immigrants-are-feared-dro
 
 ### [2008-08-27](/news/2008/08/27/index.md)
 
-##### illegal immigrant
+##### Illegal immigrant
 #  As many as 71 illegal immigrants are feared drowned after their boat sinks in the Mediterranean off the coast of Malta. 
 
 

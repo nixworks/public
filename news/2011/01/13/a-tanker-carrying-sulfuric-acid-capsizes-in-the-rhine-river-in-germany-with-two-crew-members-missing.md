@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/13/a-tanker-carrying-sulfuric-acid-capsizes-in-the
 
 ### [2011-01-13](/news/2011/01/13/index.md)
 
-##### tanker
+##### Tanker
 # A tanker carrying sulfuric acid capsizes in the Rhine River in Germany with two crew members missing. 
 
 

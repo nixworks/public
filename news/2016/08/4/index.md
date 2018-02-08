@@ -13,7 +13,7 @@ _Context: 2009, Bank of England_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md)
-_Context: Belize, Belize City, 2016 Atlantic hurricane season, Earl's_
+_Context: Belize, 2016 Atlantic hurricane season, Belize City, Earl's_
 
 ##### Wildfires
 ### [Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md)
@@ -27,7 +27,7 @@ Share prices of South Korea’s talent agencies have plummeted, and tears have b
 ### [China is blocking Taiwan's efforts to join the International Civil Aviation Organization despite 58 million air passengers passing over Taiwan's flight information region annually, citing the One-China principle. ](/news/2016/08/4/china-is-blocking-taiwan-s-efforts-to-join-the-international-civil-aviation-organization-despite-58-million-air-passengers-passing-over-taiw.md)
 The Mainland Affairs Council (MAC) yesterday urged the Chinese government to demonstrate goodwill toward Taiwan’s application to attend this year’s International Civil Aviation Organization (ICAO) Assembly, which it said would be filed under an “appropriate name.”
 
-##### drug crackdown
+##### Drug crackdown
 ### [Rodrigo Duterte says that the Sinaloa cartel and the Chinese triad are active in the Philippine narcotic trade. ](/news/2016/08/4/rodrigo-duterte-says-that-the-sinaloa-cartel-and-the-chinese-triad-are-active-in-the-philippine-narcotic-trade.md)
 Manila Standard | Defining The News
 
@@ -37,11 +37,11 @@ South Africa&#39;s opposition DA party wins a majority in local elections in thr
 
 ##### Nepal
 ### [In Nepal, Pushpa Kamal Dahal takes the oath of office and secrecy as Prime Minister. ](/news/2016/08/4/in-nepal-pushpa-kamal-dahal-takes-the-oath-of-office-and-secrecy-as-prime-minister.md)
-_Context: Prime Minister, Nepal, Pushpa Kamal Dahal_
+_Context: Nepal, Prime Minister, Pushpa Kamal Dahal_
 
 ##### China
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
-_Context: lunar rover, Yutu, Moon, China_
+_Context: China, Yutu, Moon, lunar rover_
 
 ## [Previous Day...](/news/2016/08/3/index.md)
 

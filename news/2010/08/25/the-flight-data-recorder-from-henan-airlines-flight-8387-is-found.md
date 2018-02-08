@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/25/the-flight-data-recorder-from-henan-airlines-fl
 
 ### [2010-08-25](/news/2010/08/25/index.md)
 
-##### flight data recorder
+##### Flight data recorder
 # The flight data recorder from Henan Airlines Flight 8387 is found. 
 
 The flight recorder of the plane that crashed in the north-eastern Chinese province of Heilongjiang, killing 42 people, is found.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/1/the-death-toll-from-the-tornados-that-hit-oklaho
 
 ### [2013-06-1](/news/2013/06/1/index.md)
 
-##### tornado
+##### Tornado
 # The death toll from the tornados that hit Oklahoma City on May 31 rises to nine. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/12/the-death-toll-reaches-1-126-with-many-people-s
 
 ### [2013-05-12](/news/2013/05/12/index.md)
 
-##### industrial disaster
+##### Industrial disaster
 # The death toll reaches 1,126 with many people still missing; the accident is now the third worst industrial disaster in history. 
 
 

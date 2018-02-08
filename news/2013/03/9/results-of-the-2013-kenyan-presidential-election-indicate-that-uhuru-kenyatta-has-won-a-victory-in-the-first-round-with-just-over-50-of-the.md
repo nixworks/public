@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/9/results-of-the-2013-kenyan-presidential-election
 
 ### [2013-03-9](/news/2013/03/9/index.md)
 
-##### presidential election
+##### Presidential election
 # Results of the 2013 Kenyan presidential election indicate that Uhuru Kenyatta has won a victory in the first round with just over 50% of the vote. His leading opponent Raila Odinga says that he will challenge the results. 
 
 Uhuru Kenyatta has been announced as the winner of the presidential election in Kenya by a slim margin. Results show that he had over 50% of the

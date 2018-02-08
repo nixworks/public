@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/29/terrorism-pakistan-dismisses-and-condemns-al-qa
 
 ### [2003-09-29](/news/2003/09/29/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: Pakistan dismisses and condemns al-Qaida terrorist network threat against President Pervez Musharraf, saying the war against terrorism will continue. Pakistan Foreign Ministry spokesman Masood Khan states (in Islamabad) Pakistan will not be deterred by such threats. The identity of the speaker on the audio tape or the authenticity of the tape has not been verified. The message was attributed to al-Qaida's second-ranking leader, Ayman al-Zawahri, and was aired on Al Jazeera and Al-Arabiya.
 
 

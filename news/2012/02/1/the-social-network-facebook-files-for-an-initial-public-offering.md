@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/1/the-social-network-facebook-files-for-an-initial
 
 ### [2012-02-1](/news/2012/02/1/index.md)
 
-##### social network
+##### Social network
 # The social network Facebook files for an initial public offering. 
 
 

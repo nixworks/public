@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/7/drone-attacks-in-pakistan-a-u-s-drone-attack-kil
 
 ### [2013-06-7](/news/2013/06/7/index.md)
 
-##### drones launch
+##### Drones launch
 # Drone attacks in Pakistan: A U.S. drone attack kills at least seven people in Pakistan. 
 
 Prime Minister Nawaz Sharif has often criticized the United States’ use of unmanned aircraft against militants.

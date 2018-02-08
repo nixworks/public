@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/30/natural-disaster-french-official-first-report-f
 
 ### [2003-08-30](/news/2003/08/30/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: French official first report from the Institut de Veille Sanitaire was presented to Jean-Franois Mattei (Health Minister). It reports 11,500 more deaths than the previous three years would be due to the heat wave of early August. It had previously been suggested that the number was 3,000.
 
 

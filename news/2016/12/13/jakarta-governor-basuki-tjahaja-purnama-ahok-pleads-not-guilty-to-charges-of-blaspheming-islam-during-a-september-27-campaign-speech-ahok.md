@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/13/jakarta-governor-basuki-tjahaja-purnama-ahok-pl
 
 ### [2016-12-13](/news/2016/12/13/index.md)
 
-##### large protests
+##### Large protests
 # Jakarta Governor Basuki Tjahaja Purnama (Ahok) pleads not guilty to charges of blaspheming Islam during a September 27 campaign speech. Ahok is an ethnic Chinese Christian. 
 
 

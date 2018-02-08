@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/9/exploration-of-mars-engineers-at-jpl-decide-to-t
 
 ### [2004-01-9](/news/2004/01/9/index.md)
 
-##### route
+##### Route
 #  Exploration of Mars: Engineers at JPL decide to turn the Mars Spirit Rover around on its lander after it was found the airbags could not be retracted enough to allow it to move off in a forward direction. It is expected the rover will drive off sometime next week. The Rover has also stood up and deployed its front wheels. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/21/the-death-toll-from-a-snowstorm-in-western-new-
 
 ### [2014-11-21](/news/2014/11/21/index.md)
 
-##### snowstorm
+##### Snowstorm
 # The death toll from a snowstorm in western New York State reaches 13, with local heavy flooding expected in the United States this week. 
 
 A killer snowstorm that has killed 13 people in western New York state could be followed by severe flooding next week, authorities say.

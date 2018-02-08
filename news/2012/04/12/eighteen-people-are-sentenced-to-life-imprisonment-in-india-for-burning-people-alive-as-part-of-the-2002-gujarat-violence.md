@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/12/eighteen-people-are-sentenced-to-life-imprisonm
 
 ### [2012-04-12](/news/2012/04/12/index.md)
 
-##### life imprisonment
+##### Life imprisonment
 # Eighteen people are sentenced to life imprisonment in India for burning people alive as part of the 2002 Gujarat violence. 
 
 

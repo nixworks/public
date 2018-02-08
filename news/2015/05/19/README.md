@@ -7,7 +7,7 @@ Formats: [HTML](2015/05/19/index.html)  [JSON](2015/05/19/index.json)  [XML](201
 ### [The Russian embassy in Damascus is shelled. ](/news/2015/05/19/the-russian-embassy-in-damascus-is-shelled.md)
 The Russian embassy in the Syrian capital of Damascus was shelled on Tuesday, with Moscow stating that it considers the attack on its diplomatic mission an act of terror.
 
-##### inflation
+##### Inflation
 ### [The inflation rate in the United Kingdom goes to -0.1 in April, marking the first time since 1960 it has been negative. ](/news/2015/05/19/the-inflation-rate-in-the-united-kingdom-goes-to-0-1-in-april-marking-the-first-time-since-1960-it-has-been-negative.md)
 UK consumer price inflation turned negative in April for the first time since 1960, falling to -0.1%, helped by falling transport and food prices.
 
@@ -25,7 +25,7 @@ Eighteen garment workers were killed and 21 injured Tuesday morning when the van
 
 ##### 2015 Colombian landslide
 ### [The death toll from landslides in the Colombian town of Salgar rises to 56 with scores missing. ](/news/2015/05/19/the-death-toll-from-landslides-in-the-colombian-town-of-salgar-rises-to-56-with-scores-missing.md)
-_Context: 2015 Colombian landslide, Salgar, Colombia_
+_Context: Salgar, Colombia, 2015 Colombian landslide_
 
 ##### Germanwings Flight 9525
 ### [French prosecutors say the passengers onboard the Germanwings flight that crashed in southern France have all been identified, and their bodies can be returned home to their families. ](/news/2015/05/19/french-prosecutors-say-the-passengers-onboard-the-germanwings-flight-that-crashed-in-southern-france-have-all-been-identified-and-their-bod.md)
@@ -43,7 +43,7 @@ A Norwegian cruise ship has been freed after becoming stuck on a reef for more t
 ### [Prince Charles becomes the first member of the British Royal Family to meet with Gerry Adams, the President of Sinn Fin, during a two-day visit to Ireland. ](/news/2015/05/19/prince-charles-becomes-the-first-member-of-the-british-royal-family-to-meet-with-gerry-adams-the-president-of-sinn-fein-during-a-two-day-v.md)
 Prince Charles becomes the first British royal to meet Irish republican leader Gerry Adams.
 
-##### poisoning patients
+##### Poisoning patients
 ### [Former nurse Victorino Chua has been found guilty of murder and poisoning patients at Stepping Hill Hospital in Stockport, Greater Manchester, U.K., and sentenced to 35 years in jail. ](/news/2015/05/19/former-nurse-victorino-chua-has-been-found-guilty-of-murder-and-poisoning-patients-at-stepping-hill-hospital-in-stockport-greater-mancheste.md)
 Nurse Victorino Chua is jailed for a minimum of 35 years for murdering and poisoning patients at Stepping Hill Hospital.
 
@@ -57,9 +57,9 @@ Mohawk Industries Inc and fiveother companies have agreed to pay a combined $275
 
 ##### Presidents
 ### [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md)
-_Context: failed coup, Pierre Nkurunziza, 2015 Burundian unrest, Burundian presidential election, 2015, Presidents_
+_Context: failed coup, Presidents, Pierre Nkurunziza, 2015 Burundian unrest, Burundian presidential election, 2015_
 
-##### lawmakers
+##### Lawmakers
 ### [The United States Congress sends a human trafficking bill to President Barack Obama for signature. ](/news/2015/05/19/the-united-states-congress-sends-a-human-trafficking-bill-to-president-barack-obama-for-signature.md)
 A bill to help victims of human trafficking and boost law enforcement against the &#8220;modern-day slavery&#8221; passed the House Tuesday.
 

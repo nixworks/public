@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-
 
 ### [2016-12-8](/news/2016/12/8/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. 
 
 

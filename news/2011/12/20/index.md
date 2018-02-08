@@ -9,11 +9,11 @@ _Context: Syria_
 
 ##### China
 ### [Chinese police beat protesters and fire tear gas after demonstrators storm government buildings in Haimen (70km NNW from Shanghai), in protest against a local 'polluting' coal-powered electricity generation plant. ](/news/2011/12/20/chinese-police-beat-protesters-and-fire-tear-gas-after-demonstrators-storm-government-buildings-in-haimen-70km-nnw-from-shanghai-in-prote.md)
-_Context: tear gas, Shanghai, Haimen, China, coal-powered electricity generation plant_
+_Context: Haimen, Shanghai, China, tear gas, coal-powered electricity generation plant_
 
 ##### India
 ### [Indian Foreign Minister S. M. Krishna condemns a court case in Russia that could see the "Bhagavad Gita As It Is" holy book banned there. ](/news/2011/12/20/indian-foreign-minister-s-m-krishna-condemns-a-court-case-in-russia-that-could-see-the-bhagavad-gita-as-it-is-holy-book-banned-there.md)
-_Context: India, Russia, SM Krishna, attempt to ban, Bhagavad Gita As It Is_
+_Context: attempt to ban, Bhagavad Gita As It Is, India, Russia, SM Krishna_
 
 ##### Tropical Storm Washi
 ### [The death toll from Tropical Storm Washi in the Philippines rises to nearly 1,000. ](/news/2011/12/20/the-death-toll-from-tropical-storm-washi-in-the-philippines-rises-to-nearly-1-000.md)
@@ -35,7 +35,7 @@ Former Daily Mirror editor Piers Morgan tells the Leveson Inquiry he does not be
 ### [The body of Kim Jong-il lies in state at the Kumsusan Memorial Palace in Pyongyang. ](/news/2011/12/20/the-body-of-kim-jong-il-lies-in-state-at-the-kumsusan-memorial-palace-in-pyongyang.md)
 Son and assumed heir of Kim Jong-il pays respects as South Korea sends condolences, despite tensions.
 
-##### rebellion by villagers in Wukan
+##### Rebellion by villagers in Wukan
 ### [Villagers rebelling in village of Wukan in southern China, say they will hold talks with the government and demand concessions in return for calling off a march. ](/news/2011/12/20/villagers-rebelling-in-village-of-wukan-in-southern-china-say-they-will-hold-talks-with-the-government-and-demand-concessions-in-return-for.md)
 _Context: rebellion by villagers in Wukan, China_
 
@@ -53,7 +53,7 @@ A man-made virus that could wipe out half humanity has been deemed a terrorist t
 
 ##### Kepler-20e and Kepler-20d
 ### [Two Earth-sized planets, Kepler-20e and Kepler-20d, are found orbiting a star 950 light-years away from Earth. ](/news/2011/12/20/two-earth-sized-planets-kepler-20e-and-kepler-20d-are-found-orbiting-a-star-950-light-years-away-from-earth.md)
-_Context: Kepler-20e and Kepler-20d, Earth_
+_Context: Earth, Kepler-20e and Kepler-20d_
 
 ## [Previous Day...](/news/2011/12/19/index.md)
 

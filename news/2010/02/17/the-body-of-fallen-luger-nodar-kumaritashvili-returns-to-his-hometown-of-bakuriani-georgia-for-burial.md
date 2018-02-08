@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/17/the-body-of-fallen-luger-nodar-kumaritashvili-r
 
 ### [2010-02-17](/news/2010/02/17/index.md)
 
-##### luge
+##### Luge
 # The body of fallen luger Nodar Kumaritashvili returns to his hometown of Bakuriani, Georgia for burial. 
 
 The body of the Georgian luger killed during a practice run at the Vancouver Olympics was flown Wednesday to his hometown, where his grief-stricken mother threw herself on his coffin and cried: &quot;Why have I survived you?&quot;

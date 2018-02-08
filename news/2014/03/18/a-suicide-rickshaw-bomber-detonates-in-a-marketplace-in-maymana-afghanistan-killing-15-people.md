@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/18/a-suicide-rickshaw-bomber-detonates-in-a-market
 
 ### [2014-03-18](/news/2014/03/18/index.md)
 
-##### rickshaw
+##### Rickshaw
 # A suicide rickshaw bomber detonates in a marketplace in Maymana, Afghanistan, killing 15 people. 
 
 KABUL, Afghanistan -- A suicide bomber detonated his explosives-packed rickshaw in a northern Afghanistan marketplace Tuesday, killing at least 15 people, including women and children, authorities said.

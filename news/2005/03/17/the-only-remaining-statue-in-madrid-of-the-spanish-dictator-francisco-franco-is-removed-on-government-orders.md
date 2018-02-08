@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/17/the-only-remaining-statue-in-madrid-of-the-span
 
 ### [2005-03-17](/news/2005/03/17/index.md)
 
-##### statue
+##### Statue
 #  The only remaining statue in Madrid of the Spanish dictator Francisco Franco is removed on government orders. 
 
 

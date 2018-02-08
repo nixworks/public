@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/11/food-and-sanitation-are-allegedly-being-denied-
 
 ### [2004-04-11](/news/2004/04/11/index.md)
 
-##### sanitation
+##### Sanitation
 #  Food and sanitation are allegedly being denied to more than 2500 people who were arrested in Nepal over the last few days for protesting against the suspension of democracy. 
 
 

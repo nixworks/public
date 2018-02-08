@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/13/at-least-13-people-are-killed-as-a-rockslide-hi
 
 ### [2015-10-13](/news/2015/10/13/index.md)
 
-##### landslide
+##### Landslide
 # At least 13 people are killed as a rockslide hits shanties in the Gulistan-i-Jauhar in the Pakistani city of Karachi. 
 
 Bodies of three women, three men and seven children have been recovered from beneath the rubble. 

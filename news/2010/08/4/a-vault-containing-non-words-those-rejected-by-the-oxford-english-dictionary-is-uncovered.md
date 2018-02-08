@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/4/a-vault-containing-non-words-those-rejected-by-t
 
 ### [2010-08-4](/news/2010/08/4/index.md)
 
-##### word
+##### Word
 # A vault containing non-words - those rejected by the "Oxford English Dictionary" - is uncovered. 
 
 Wurfing, polkadodge and nonversation are among the words stored in secret files after being rejected for inclusion by the Oxford English Dictionary, it has been disclosed.

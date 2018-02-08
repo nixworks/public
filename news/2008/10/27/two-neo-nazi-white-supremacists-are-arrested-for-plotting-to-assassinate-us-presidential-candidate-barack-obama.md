@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/27/two-neo-nazi-white-supremacists-are-arrested-fo
 
 ### [2008-10-27](/news/2008/10/27/index.md)
 
-##### neo-Nazi
+##### Neo-Nazi
 #  Two Neo-Nazi white supremacists are arrested for plotting to assassinate US presidential candidate Barack Obama. 
 
 

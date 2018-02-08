@@ -5,11 +5,11 @@ Formats: [HTML](2017/09/12/index.html)  [JSON](2017/09/12/index.json)  [XML](201
 
 ##### 2016 U.S. presidential election
 ### [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md)
-_Context: 2016 U.S. presidential election, memoir, presidential campaign, United States presidential election, 2020, Hillary Clinton, What Happened_
+_Context: memoir, What Happened, United States presidential election, 2020, Hillary Clinton, presidential campaign, 2016 U.S. presidential election_
 
 ##### Russian interference in the 2016 United States elections
 ### [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md)
-_Context: United States, Russian interference in the 2016 United States elections, Russia, foreign lobbying firm, Moscow, Department of Justice, RT America_
+_Context: Moscow, Russian interference in the 2016 United States elections, foreign lobbying firm, RT America, Russia, Department of Justice, United States_
 
 ##### Russia-Turkey relations
 ### [President of Turkey Recep Tayyip Erdogan affirms Turkey has paid a deposit on the purchase of Russian S-400 missile systems. ](/news/2017/09/12/president-of-turkey-recep-tayyip-erdoaan-affirms-turkey-has-paid-a-deposit-on-the-purchase-of-russian-s-400-missile-systems.md)
@@ -37,7 +37,7 @@ The public is questioning the legitimacy of a qualification process so narrow th
 
 ##### Politics of the Philippines
 ### [Philippine senators call for Justice secretary Vitaliano Aguirre to resign. ](/news/2017/09/12/philippine-senators-call-for-justice-secretary-vitaliano-aguirre-to-resign.md)
-_Context: Politics of the Philippines, Justice, Vitaliano Aguirre, senators_
+_Context: senators, Vitaliano Aguirre, Justice, Politics of the Philippines_
 
 ##### Politics of Washington (state)
 ### [Seattle mayor Ed Murray announces his resignation after allegations surface that he sexually abused five teenagers in the 1970s and 80s. ](/news/2017/09/12/seattle-mayor-ed-murray-announces-his-resignation-after-allegations-surface-that-he-sexually-abused-five-teenagers-in-the-1970s-and-80s.md)
@@ -47,7 +47,7 @@ Seattle Mayor Ed Murray has resigned hours after a fifth man — a relative — 
 ### [The right-wing coalition led by Erna Solberg wins its second term in office in the Norwegian parliamentary election held late yesterday. ](/news/2017/09/12/the-right-wing-coalition-led-by-erna-solberg-wins-its-second-term-in-office-in-the-norwegian-parliamentary-election-held-late-yesterday.md)
 The conservative coalition led by Erna Solberg is projected to win 89 of 169 seats in parliament.
 
-##### refugees
+##### Refugees
 ### [Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of "atrocities" against the Rohingya people and calls for these alleged atrocities to stop. ](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuses-the-burmese-government-of-atrocities-against-the-rohingya-people-and-calls-for-these-alle.md)
 &quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 
 

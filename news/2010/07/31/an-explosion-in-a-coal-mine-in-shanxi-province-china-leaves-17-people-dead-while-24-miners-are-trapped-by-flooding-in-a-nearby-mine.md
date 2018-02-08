@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/31/an-explosion-in-a-coal-mine-in-shanxi-province-
 
 ### [2010-07-31](/news/2010/07/31/index.md)
 
-##### coal mine
+##### Coal mine
 # An explosion in a coal mine in Shanxi Province, China leaves 17 people dead while 24 miners are trapped by flooding in a nearby mine. 
 
 An explosion at one coal mine operation in China left 17 people dead and another mine flooded, leaving 24 miners trapped, officials said.

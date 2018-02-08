@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/17/five-people-are-wounded-during-a-shooting-at-a-
 
 ### [2013-03-17](/news/2013/03/17/index.md)
 
-##### shooting
+##### Shooting
 # Five people are wounded during a shooting at a nightclub in Belle Glade, Florida, United States. 
 
 

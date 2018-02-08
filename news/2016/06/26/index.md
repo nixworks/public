@@ -15,7 +15,7 @@ One civilian and six Boko Haram fighters killed during operation to evacuate fou
 ### [Airstrikes reportedly kill at least 82 people, including 58 civilians, in Syria's eastern Deir ez-Zor Governorate, according to the Syrian Observatory for Human Rights. ](/news/2016/06/26/airstrikes-reportedly-kill-at-least-82-people-including-58-civilians-in-syria-s-eastern-deir-ez-zor-governorate-according-to-the-syrian-o.md)
 Reports say 58 civilians among victims of Syrian-Russian raids on ISIL-held town amid claims of use of incendiary bombs.
 
-##### expanded
+##### Expanded
 ### [The expanded Panama Canal opens after a $4.5 billion expansion allowing larger ships to use it. ](/news/2016/06/26/the-expanded-panama-canal-opens-after-a-4-5-billion-expansion-allowing-larger-ships-to-use-it.md)
 Chinese freighter laden with nearly 9,500 metal cargo containers transited the expanded Panama Canal on Sunday, inaugurating the interoceanic waterway and opening a new era in global trade.
 
@@ -23,7 +23,7 @@ Chinese freighter laden with nearly 9,500 metal cargo containers transited the e
 ### [A bus fire kills at least 35 people in China's Hunan Province. ](/news/2016/06/26/a-bus-fire-kills-at-least-35-people-in-china-s-hunan-province.md)
 A total of 56 people were on board the bus which crashed in Hunan province, the official Xinhua news agency reported
 
-##### roller coaster
+##### Roller coaster
 ### [A roller coaster derails and crashes at M&D's theme park in Motherwell, Scotland. Ten people are reportedly injured. ](/news/2016/06/26/a-roller-coaster-derails-and-crashes-at-m-d-s-theme-park-in-motherwell-scotland-ten-people-are-reportedly-injured.md)
 Eight children and two adults are injured after a rollercoaster derails and crashes at a theme park in North Lanarkshire, Scotland.
 
@@ -39,7 +39,7 @@ One person has died after violent clashes at a university campus in the northern
 ### [Ernesto Fazzalari, Italy's second most-wanted fugitive and member of 'Ndrangheta, is arrested by the Carabinieri near Molochio in Calabria, Southern Italy, after two decades on the run. Interior Minister Angelino Alfano described Fazzalari as "one of the most important fugitives and a leading underworld figure". ](/news/2016/06/26/ernesto-fazzalari-italy-s-second-most-wanted-fugitive-and-member-of-ndrangheta-is-arrested-by-the-carabinieri-near-molochio-in-calabria.md)
 Ernesto Fazzalari of Calabrian ’Ndrangheta faces life sentence having been found guilty of murder and drug trafficking
 
-##### white pride
+##### White pride
 ### [Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. ](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-white-pride-rally-in-sacramento-california-between-the-traditionalist-workers-party-and-cou.md)
 Gathering of many West Coast white supremacist groups in Sacramento took sudden violent turn
 

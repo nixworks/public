@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/2/anti-disengagement-protesters-rally-in-sderot-th
 
 ### [2005-08-2](/news/2005/08/2/index.md)
 
-##### disengagement
+##### Disengagement
 #  Anti-disengagement protesters rally in Sderot. The organizers said the crowd numbered 50,000, but police estimated the figure between 10,000 and 15,000. Some 18,000 troops and 12,000 police are involved in preventing protesters from getting to the Gush Katif Israeli settlement on the Gaza Strip. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/19/a-multiple-vehicle-collision-on-the-long-island
 
 ### [2012-12-19](/news/2012/12/19/index.md)
 
-##### multiple-vehicle collision
+##### Multiple-vehicle collision
 # A multiple-vehicle collision on the Long Island Expressway in Shirley, Suffolk County, New York, United States leaves one person dead and at least 32 injured. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

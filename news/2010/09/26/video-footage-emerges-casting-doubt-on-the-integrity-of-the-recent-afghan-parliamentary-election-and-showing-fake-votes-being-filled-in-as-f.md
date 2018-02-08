@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/26/video-footage-emerges-casting-doubt-on-the-inte
 
 ### [2010-09-26](/news/2010/09/26/index.md)
 
-##### parliamentary election
+##### Parliamentary election
 # Video footage emerges casting doubt on the integrity of the recent Afghan parliamentary election and showing fake votes being filled in as fraud police watch on. 
 
 Amateur footage appears to show fake votes being filled in as border police tasked with stopping poll fraud look on.

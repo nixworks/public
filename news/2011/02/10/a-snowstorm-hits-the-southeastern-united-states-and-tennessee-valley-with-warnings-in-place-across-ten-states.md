@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/10/a-snowstorm-hits-the-southeastern-united-states
 
 ### [2011-02-10](/news/2011/02/10/index.md)
 
-##### snowstorm
+##### Snowstorm
 # A snowstorm hits the Southeastern United States and Tennessee Valley with warnings in place across ten states. 
 
 

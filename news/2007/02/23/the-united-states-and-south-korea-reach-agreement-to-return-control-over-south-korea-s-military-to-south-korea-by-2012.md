@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/23/the-united-states-and-south-korea-reach-agreeme
 
 ### [2007-02-23](/news/2007/02/23/index.md)
 
-##### control
+##### Control
 #  The United States and South Korea reach agreement to return control over South Korea's military to South Korea by 2012. 
 
 

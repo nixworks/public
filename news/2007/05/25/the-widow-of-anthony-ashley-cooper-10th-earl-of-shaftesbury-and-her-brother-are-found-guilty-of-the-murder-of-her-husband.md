@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/25/the-widow-of-anthony-ashley-cooper-10th-earl-of
 
 ### [2007-05-25](/news/2007/05/25/index.md)
 
-##### widow
+##### Widow
 #  The widow of Anthony Ashley-Cooper, 10th Earl of Shaftesbury, and her brother, are found guilty of the murder of her husband. 
 
 

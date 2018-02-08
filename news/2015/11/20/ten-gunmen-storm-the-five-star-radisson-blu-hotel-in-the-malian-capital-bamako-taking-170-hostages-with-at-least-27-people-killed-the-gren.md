@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/20/ten-gunmen-storm-the-five-star-radisson-blu-hot
 
 ### [2015-11-20](/news/2015/11/20/index.md)
 
-##### siege
+##### Siege
 # Ten gunmen storm the five-star Radisson Blu Hotel in the Malian capital Bamako, taking 170 hostages with at least 27 people killed. The grenade-toting assailants free captives who are able to recite the Quran. The hotel is "often used" by Air France staff. 
 
 Gunmen took at least 170 people hostage at a hotel in the former French colony of Mali Friday. At least 20 were killed, and two attackers are dead.

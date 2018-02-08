@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/27/the-date-of-the-next-elections-in-lebanon-is-se
 
 ### [2005-04-27](/news/2005/04/27/index.md)
 
-##### elections in Lebanon
+##### Elections in Lebanon
 #  The date of the next elections in Lebanon is set for May 29. 
 
 

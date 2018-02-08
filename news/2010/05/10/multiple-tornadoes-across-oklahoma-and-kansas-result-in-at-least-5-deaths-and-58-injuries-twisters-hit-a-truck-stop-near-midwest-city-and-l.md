@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/10/multiple-tornadoes-across-oklahoma-and-kansas-r
 
 ### [2010-05-10](/news/2010/05/10/index.md)
 
-##### tornadoes
+##### Tornadoes
 # Multiple tornadoes across Oklahoma and Kansas result in at least 5 deaths and 58 injuries. Twisters hit a truck stop near Midwest City and locations in Oklahoma City. 
 
 

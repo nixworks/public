@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/24/the-national-election-in-australia-results-in-a
 
 ### [2007-11-24](/news/2007/11/24/index.md)
 
-##### national election
+##### National election
 #  The national election in Australia results in a change of government, with the Australian Labor Party securing an electoral swing of more than 5%. Kevin Rudd will take office as 26th Prime Minister of Australia and the outgoing Prime Minister John Howard is also likely to lose his seat in parliament. [http:--www.theaustralian.news.com.au-story-0,25197,22814923-601,00.html (The Australian)] John Howard calls the leader of the Australian Labor Party, Kevin Rudd, on the phone and concedes defeat. 
 
 

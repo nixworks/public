@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/31/denmark-s-deputy-prime-minister-and-minister-of
 
 ### [2014-08-31](/news/2014/08/31/index.md)
 
-##### deputy prime minister
+##### Deputy prime minister
 # Denmark's deputy prime minister and Minister of Economic Affairs and the Interior, Margrethe Vestager, is nominated as the Danish candidate for EU commissioner, bringing the number of female commissioners in the Juncker Commission up to five with only three countries left to nominate a candidate. 
 
 

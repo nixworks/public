@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/29/a-series-of-moderate-intensity-aftershocks-ratt
 
 ### [2005-01-29](/news/2005/01/29/index.md)
 
-##### aftershock
+##### Aftershock
 #  A series of moderate-intensity aftershocks rattle the Andaman and Nicobar Islands and Sumatra in Indonesia over a month after the region was devastated by a quake-generated tsunami. No casualties or damage is reported. 
 
 NEW DELHI: A series of aftershocks of moderate intensity were felt in the Andaman and Nicobar islands late Saturday night and in the early hours of Sunday.

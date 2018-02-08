@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/13/the-fossil-of-a-new-prehistoric-great-ape-speci
 
 ### [2007-11-13](/news/2007/11/13/index.md)
 
-##### fossil
+##### Fossil
 #  The fossil of a new prehistoric great ape species, named "Nakalipithecus nakayamai", is discovered in Kenya. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/16/2008-british-columbia-pipeline-bombings-a-secon
 
 ### [2008-10-16](/news/2008/10/16/index.md)
 
-##### third pipeline bombing
+##### Third pipeline bombing
 #  2008 British Columbia pipeline bombings: A second blast hits a gas pipeline in northern British Columbia near the town of Dawson Creek. 
 
 

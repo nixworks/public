@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/22/2010a2011-greek-protests-nationwide-protests-co
 
 ### [2011-06-22](/news/2011/06/22/index.md)
 
-##### engage
+##### Engage
 # 2010-2011 Greek protests: Nationwide protests continue as Prime Minister of Greece George Papandreou attempts to pass new cuts in public spending. 
 
 Greek PM George Papandreou tries to persuade MPs to pass further austerity measures that have sparked nationwide strikes and riots.

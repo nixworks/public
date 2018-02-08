@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/6/the-president-of-brazil-dilma-rousseff-approves-
 
 ### [2013-06-6](/news/2013/06/6/index.md)
 
-##### president
+##### President
 # The President of Brazil, Dilma Rousseff, approves a bill to modernize the infrastructure of all national ports in her country. She vetoes 13 contradictory sections. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/4/palestinian-factional-violence-fatah-and-hamas-t
 
 ### [2007-02-4](/news/2007/02/4/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence: Fatah and Hamas take some of their gunmen off the streets of the West Bank and free some hostages under a new declared ceasefire. 
 
 

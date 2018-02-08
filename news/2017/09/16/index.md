@@ -7,7 +7,7 @@ Formats: [HTML](2017/09/16/index.html)  [JSON](2017/09/16/index.json)  [XML](201
 ### [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md)
 Ryanair Holdings Plc scrapped 82 flights on Sunday, the start of a six-week program of cancellations it’s making as it seeks to reduce a backlog of crew vacation required by Irish regulators before the end of the year.
 
-##### secession
+##### Secession
 ### [More than 700 Catalan mayors meet in Barcelona with Catalan President Carles Puigdemont to confirm their support for the October 1 independence referendum. Earlier this week, Spanish prosecutors warned that officials participating in this vote could be criminally charged. ](/news/2017/09/16/more-than-700-catalan-mayors-meet-in-barcelona-with-catalan-president-carles-puigdemont-to-confirm-their-support-for-the-october-1-independe.md)
 More than 700 mayors from across Catalonia gathered in Barcelona on Saturday to confirm their support for a planned independence referendum that Madrid has declared illegal.
 
@@ -23,7 +23,7 @@ _Context: Althingi, Iceland, Icelandic parliamentary election, 2017_
 ### [California passes a bill that will move the primaries to March near Super Tuesday. ](/news/2017/09/16/california-passes-a-bill-that-will-move-the-primaries-to-march-near-super-tuesday.md)
 California would allocate its delegates just after early nominating contests in Iowa, New Hampshire, Nevada and South Carolina.
 
-##### refugees
+##### Refugees
 ### [Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. ](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-refugee-camp-the-size-of-a-small-city-to-house-nearly-400-000-rohingya-refugees.md)
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.
 

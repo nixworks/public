@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/5/the-death-toll-from-an-outbreak-of-legionnaires-
 
 ### [2015-08-5](/news/2015/08/5/index.md)
 
-##### an outbreak of legionnaires disease in New York City
+##### An outbreak of legionnaires disease in New York City
 # The death toll from an outbreak of legionnaires disease in New York City rises to eight with 97 people sick. 
 
 

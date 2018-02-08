@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/26/fearing-the-state-s-bse-outbreak-may-extend-bey
 
 ### [2003-12-26](/news/2003/12/26/index.md)
 
-##### mad cow disease
+##### Mad cow disease
 #  Fearing the state's BSE outbreak may extend beyond a single farm, the U.S. Department of Agriculture quarantines a second cattle farm in Washington state. [http:--news.bbc.co.uk-1-hi-world-americas-3350227.stm]
 
 

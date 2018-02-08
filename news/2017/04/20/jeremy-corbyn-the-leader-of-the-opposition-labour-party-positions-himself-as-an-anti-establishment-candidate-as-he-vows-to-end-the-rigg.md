@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/20/jeremy-corbyn-the-leader-of-the-opposition-labo
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
-##### last general election
+##### Last general election
 # Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. 
 
 The Labour leader says the general election is about &quot;the establishment versus the people&quot;.

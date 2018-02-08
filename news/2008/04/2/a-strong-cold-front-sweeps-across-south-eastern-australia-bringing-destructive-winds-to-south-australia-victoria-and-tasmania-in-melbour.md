@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/2/a-strong-cold-front-sweeps-across-south-eastern-
 
 ### [2008-04-2](/news/2008/04/2/index.md)
 
-##### cold front
+##### Cold front
 #  A strong cold front sweeps across south-eastern Australia, bringing destructive winds to South Australia, Victoria and Tasmania. In Melbourne, a woman died when part of a wall collapsed in the suburb of Mentone. 
 
 One person has been killed and several others injured in storms across Victoria.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/15/at-least-twenty-seven-asylum-seekers-mostly-fro
 
 ### [2010-12-15](/news/2010/12/15/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # At least twenty-seven asylum seekers, mostly from Iraq and Iran, are feared dead after a boat carrying 70 people crashes into cliffs on the coast of Christmas Island in the Indian Ocean. 
 
 Dozens of asylum seekers are feared dead after their boat smashed into rocks and broke apart in rough conditions off Christmas Island.

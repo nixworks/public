@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/17/pc-simon-harwood-cleared-over-the-death-of-ian-
 
 ### [2012-09-17](/news/2012/09/17/index.md)
 
-##### death of Ian Tomlinson
+##### Death of Ian Tomlinson
 # PC Simon Harwood, cleared over the death of Ian Tomlinson during the 2009 G-20 summit protests in London, is dismissed from the Metropolitan Police after a hearing finds him guilty of gross misconduct. 
 
 

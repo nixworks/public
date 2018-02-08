@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/15/thousands-of-protesters-demonstrate-violently-o
 
 ### [2005-03-15](/news/2005/03/15/index.md)
 
-##### tax
+##### Tax
 #  Thousands of protesters demonstrate violently outside parliament in Niger against rising prices and high tax increases. Some of them call for resignation of the president Mamadou Tandja 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/30/2010a2011-tunisian-uprising-rachid-ghannounchi-
 
 ### [2011-01-30](/news/2011/01/30/index.md)
 
-##### recent unrest
+##### Recent unrest
 # 2010-2011 Tunisian uprising: Rachid Ghannounchi, leader of the once banned Ennahda party, flies back to the country from London after 22 years in exile following the ousting of President Zine El Abidine Ben Ali. 
 
 Rachid Ghannouchi, leader of the previously banned al-Nahda party, returns home after 21 years in the UK.

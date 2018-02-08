@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-k
 
 ### [2012-05-5](/news/2012/05/5/index.md)
 
-##### karaoke
+##### Karaoke
 # At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. 
 
 
@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-k
 
 ### Changes:
 
-1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2018-02-06 15:50:47 (First version)_
+1. [At least 14 people are killed at a fire at a drug rehabilitation centre in Lima. ](/news/2012/05/5/at-least-14-people-are-killed-at-a-fire-at-a-drug-rehabilitation-centre-in-lima.md) _2018-02-07 04:25:57 (First version)_
 1. [At least nine people are killed in a fire at a karaoke venue in Busan, South Korea. ](/news/2012/05/5/at-least-nine-people-are-killed-in-a-fire-at-a-karaoke-venue-in-busan-south-korea.md) _(Current version)_
 
 ### Related:

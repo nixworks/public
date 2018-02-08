@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/25/amid-concerns-of-voting-fraud-u-s-presidential-
 
 ### [2012-10-25](/news/2012/10/25/index.md)
 
-##### voting fraud
+##### Voting fraud
 # Amid concerns of voting fraud, U.S. presidential candidate Mitt Romney's campaign is linked to Hart InterCivic a firm providing the voting machines to be used to tally the ballots in the crucial state of Ohio. 
 
 The company counting critical votes in Ohio and Colorado has extensive connections to the Romney camp

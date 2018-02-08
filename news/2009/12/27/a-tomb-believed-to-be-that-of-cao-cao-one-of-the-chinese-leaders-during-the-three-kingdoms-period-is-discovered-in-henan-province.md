@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/27/a-tomb-believed-to-be-that-of-cao-cao-one-of-th
 
 ### [2009-12-27](/news/2009/12/27/index.md)
 
-##### tomb
+##### Tomb
 #  A tomb, believed to be that of Cao Cao, one of the Chinese leaders during the Three Kingdoms period, is discovered in Henan Province. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.

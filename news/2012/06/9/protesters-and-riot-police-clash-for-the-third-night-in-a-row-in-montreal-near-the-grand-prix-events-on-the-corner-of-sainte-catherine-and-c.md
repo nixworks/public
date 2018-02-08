@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/9/protesters-and-riot-police-clash-for-the-third-n
 
 ### [2012-06-9](/news/2012/06/9/index.md)
 
-##### student protests
+##### Student protests
 # Protesters and riot police clash for the third night in a row in Montreal near the Grand Prix events on the corner of Sainte-Catherine and Crescent. 
 
 

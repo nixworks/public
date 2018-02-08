@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuan
 
 ### [2007-08-18](/news/2007/08/18/index.md)
 
-##### bridge
+##### Bridge
 #  The death toll of a bridge collapse in Fenghuang, China rises to 64. 
 
 

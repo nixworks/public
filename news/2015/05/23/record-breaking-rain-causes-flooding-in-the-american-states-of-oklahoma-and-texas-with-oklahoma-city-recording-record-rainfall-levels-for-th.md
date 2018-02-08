@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/23/record-breaking-rain-causes-flooding-in-the-ame
 
 ### [2015-05-23](/news/2015/05/23/index.md)
 
-##### flood
+##### Flood
 # Record breaking rain causes flooding in the American states of Oklahoma and Texas with Oklahoma City recording record rainfall levels for the month of May. 
 
 

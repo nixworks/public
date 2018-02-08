@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/10/a-fifteenth-case-of-h5n1-is-reported-in-turkey-
 
 ### [2006-01-10](/news/2006/01/10/index.md)
 
-##### bird flu
+##### Bird flu
 #  A fifteenth case of H5N1 is reported in Turkey. However, the Turkish government declares that the virus is "under control". 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/20/a-bomb-severely-damages-a-government-building-i
 
 ### [2009-03-20](/news/2009/03/20/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb severely damages a government building in Athens, Greece. 
 
 A homemade bomb exploded in a central Athens avenue late on Thursday, causing serious damage to a state building and shops but no injuries, police said.

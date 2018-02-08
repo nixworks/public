@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/15/at-least-209-people-die-in-a-mining-disaster-in
 
 ### [2005-02-15](/news/2005/02/15/index.md)
 
-##### mine
+##### Mine
 #  At least 209 people die in a mining disaster in Fuxin City, in China's north-eastern Liaoning province. During the first nine months of 2004, an average of 15 people died every day in China's mines. 
 
 

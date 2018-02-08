@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/12/the-indonesian-ferry-mv-teratai-prima-capsizes-
 
 ### [2009-01-12](/news/2009/01/12/index.md)
 
-##### ferry
+##### Ferry
 #  The Indonesian ferry MV "Teratai Prima" capsizes and sinks off Sulawesi, Indonesia, killing more than 230 people. 
 
 Rescue teams returned empty-handed Tuesday from searches in choppy Indonesian seas, where more than 230 people were missing after a ferry capsized in a cyclone over the weekend. 

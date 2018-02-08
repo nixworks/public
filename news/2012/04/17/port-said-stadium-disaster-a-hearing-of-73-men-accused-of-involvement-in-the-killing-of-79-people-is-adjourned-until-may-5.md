@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/17/port-said-stadium-disaster-a-hearing-of-73-men-
 
 ### [2012-04-17](/news/2012/04/17/index.md)
 
-##### mass attack
+##### Mass attack
 # Port Said Stadium disaster: A hearing of 73 men accused of involvement in the killing of 79 people is adjourned until May 5. 
 
 Hearing of 73 men accused of involvement in football violence that killed more than 70 people adjourned until May 5.

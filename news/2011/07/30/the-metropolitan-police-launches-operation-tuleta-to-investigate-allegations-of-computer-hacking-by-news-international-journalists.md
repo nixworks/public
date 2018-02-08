@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/30/the-metropolitan-police-launches-operation-tule
 
 ### [2011-07-30](/news/2011/07/30/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. 
 
 A new team of officers is to investigate claims of computer hacking, the Metropolitan Police has announced.

@@ -9,43 +9,43 @@ _Context: aerially attack, Colombo, LTTE, Sri Lanka_
 
 ##### United States
 ### [ The United States will return Benyam Mohammed to the United Kingdom after four years of imprisonment at Guantanamo Bay Naval Base's detention camp. ](/news/2009/02/20/the-united-states-will-return-benyam-mohammed-to-the-united-kingdom-after-four-years-of-imprisonment-at-guantanamo-bay-naval-base-s-detenti.md)
-_Context: United States, military base at Guantanamo Bay, United Kingdom, Benyam Mohammed, detainee_
+_Context: detainee, United States, Benyam Mohammed, military base at Guantanamo Bay, United Kingdom_
 
 ##### Israel
 ### [ Israel seizes 425 acres of Palestinian Authority state land in the West Bank for a Jewish settlement. ](/news/2009/02/20/israel-seizes-425-acres-of-palestinian-authority-state-land-in-the-west-bank-for-a-jewish-settlement.md)
-_Context: West Bank, Palestinian Authority, Israeli settlement, Israel_
+_Context: Palestinian Authority, Israeli settlement, Israel, West Bank_
 
 ##### Latvia
 ### [ Latvian Prime Minister Ivars Godmanis and his government resign. ](/news/2009/02/20/latvian-prime-minister-ivars-godmanis-and-his-government-resign.md)
-_Context: Latvia, government, Prime Minister of Latvia, Ivars Godmanis_
+_Context: Ivars Godmanis, Latvia, Prime Minister of Latvia, government_
 
 ##### Gold
 ### [ Gold futures reclaim the US$1,000-an-ounce mark. ](/news/2009/02/20/gold-futures-reclaim-the-us-1-000-an-ounce-mark.md)
-_Context: $, futures, Gold_
+_Context: futures, $, Gold_
 
 ##### New York
 ### [ New York State Attorney General Andrew Cuomo subpoenas Bank of America Chairman and CEO Kenneth Lewis for misleading investors during the purchase of Merrill Lynch. ](/news/2009/02/20/new-york-state-attorney-general-andrew-cuomo-subpoenas-bank-of-america-chairman-and-ceo-kenneth-lewis-for-misleading-investors-during-the-p.md)
-_Context: Bank of America, State Attorney General, subpoena, New York, Andrew Cuomo, Merrill Lynch, Kenneth Lewis, CEO_
+_Context: New York, Merrill Lynch, State Attorney General, Kenneth Lewis, Bank of America, Andrew Cuomo, CEO, subpoena_
 
 ##### Saab Automobile
 ### [ Saab Automobile files for bankruptcy protection. ](/news/2009/02/20/saab-automobile-files-for-bankruptcy-protection.md)
-_Context: Saab Automobile, bankruptcy, protection_
+_Context: Saab Automobile, protection, bankruptcy_
 
 ##### Israel
 ### [ Israeli President Shimon Peres selects Likud Chairman Benjamin Netanyahu to form the country's next government. ](/news/2009/02/20/israeli-president-shimon-peres-selects-likud-chairman-benjamin-netanyahu-to-form-the-country-s-next-government.md)
-_Context: Shimon Peres, President, Likud, Politics of Israel, Benjamin Netanyahu, Israel_
+_Context: Politics of Israel, Likud, Shimon Peres, Benjamin Netanyahu, Israel, President_
 
-##### suicide attack
+##### Suicide attack
 ### [ A suicide attack kills 25 people in Dera Ismail Khan, Pakistan. ](/news/2009/02/20/a-suicide-attack-kills-25-people-in-dera-ismail-khan-pakistan.md)
 _Context: Pakistan, Dera Ismail Khan, suicide attack_
 
 ##### Northwest Airlines
 ### [ Forty-seven people are injured when a Northwest Airlines flight from the Philippines to Japan experiences severe turbulence. ](/news/2009/02/20/forty-seven-people-are-injured-when-a-northwest-airlines-flight-from-the-philippines-to-japan-experiences-severe-turbulence.md)
-_Context: Japan, Philippines, Northwest Airlines, turbulence_
+_Context: Philippines, turbulence, Northwest Airlines, Japan_
 
 ##### India
 ### [ India investigates several deaths caused by the hepatitis B virus in the western state of Gujarat. ](/news/2009/02/20/india-investigates-several-deaths-caused-by-the-hepatitis-b-virus-in-the-western-state-of-gujarat.md)
-_Context: Gujarat, Indian state, outbreak, hepatitis B virus, India_
+_Context: India, outbreak, Gujarat, Indian state, hepatitis B virus_
 
 ## [Previous Day...](/news/2009/02/19/index.md)
 

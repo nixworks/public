@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/13/at-least-two-people-are-killed-and-20-injured-i
 
 ### [2010-06-13](/news/2010/06/13/index.md)
 
-##### stampede
+##### Stampede
 # At least two people are killed and 20 injured in a stampede at a peace concert in Cote d'Ivoire. 
 
 A stampede at an Ivory Coast peace concert by reggae star Alpha Blondy reportedly kills two people and wounds about 20.

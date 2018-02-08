@@ -13,11 +13,11 @@ Nation erupts in joy; leaders extend congratulations; educational institutions g
 
 ##### Greece
 ### [Greece is the first developed market to be demoted into an emerging market by the MSCI Emerging Markets Index. ](/news/2013/11/27/greece-is-the-first-developed-market-to-be-demoted-into-an-emerging-market-by-the-msci-emerging-markets-index.md)
-_Context: MSCI Emerging Markets Index, Greece, developed market, emerging market_
+_Context: emerging market, Greece, MSCI Emerging Markets Index, developed market_
 
 ##### Wuhan
 ### [In China, some second-tier cities such as Wuhan and Shenyang begin to enhance local housing price controlling policy, following all first-tier cities' controlling policy enhancement in the country. ](/news/2013/11/27/in-china-some-second-tier-cities-such-as-wuhan-and-shenyang-begin-to-enhance-local-housing-price-controlling-policy-following-all-first-ti.md)
-_Context: Wuhan, Shenyang_
+_Context: Shenyang, Wuhan_
 
 ##### American Airlines
 ### [U.S. Bankruptcy Court Judge Sean Lane, who is overseeing the case of the bankruptcy reorganization of American Airlines, gives his required approval to the American Airlines-US Airways merger, dismissing the objection of a passenger's group, clearing the way for it to go forward in December 2013 unless there is an appeal. ](/news/2013/11/27/u-s-bankruptcy-court-judge-sean-lane-who-is-overseeing-the-case-of-the-bankruptcy-reorganization-of-american-airlines-gives-his-required.md)
@@ -33,7 +33,7 @@ More than 200 flights were canceled and more than 5,000 were delayed by a deadly
 
 ##### Arena Corinthians
 ### [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md)
-_Context: SGBPo Paulo, Brazil, 2014 World Cup, Arena Corinthians_
+_Context: Brazil, Arena Corinthians, 2014 World Cup, SGBPo Paulo_
 
 ##### Tucson, Arizona
 ### [Three girls (two of whom eventually fled to a neighbor's house to escape their knife-wielding stepfather and notified police) held captive for several months or more in extremely dirty conditions (possibly up to two years), subjected to long barrages of loud music or static, fed only once a day and having gone up to four months without a bath, are rescued in Tucson, Arizona. ](/news/2013/11/27/three-girls-two-of-whom-eventually-fled-to-a-neighbor-s-house-to-escape-their-knife-wielding-stepfather-and-notified-police-held-captive-f.md)
@@ -45,7 +45,7 @@ Angry protesters set fire to the office of Tunisia&#39;s ruling Islamist party i
 
 ##### Thailand
 ### [As anti-government protests in Thailand continue to spread beyond the capital Bangkok, the parliament discusses a no-confidence motion against the Prime Minister Yingluck Shinawatra. ](/news/2013/11/27/as-anti-government-protests-in-thailand-continue-to-spread-beyond-the-capital-bangkok-the-parliament-discusses-a-no-confidence-motion-again.md)
-_Context: Yingluck Shinawatra, Bangkok, Prime Minister, Parliament, Thailand_
+_Context: Prime Minister, Thailand, Parliament, Yingluck Shinawatra, Bangkok_
 
 ##### Prime Minister of Latvia
 ### [The Prime Minister of Latvia Valdis Dombrovskis resigns due to the Riga supermarket roof collapse. ](/news/2013/11/27/the-prime-minister-of-latvia-valdis-dombrovskis-resigns-due-to-the-riga-supermarket-roof-collapse.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-fr
 
 ### [2009-08-8](/news/2009/08/8/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.
 
 

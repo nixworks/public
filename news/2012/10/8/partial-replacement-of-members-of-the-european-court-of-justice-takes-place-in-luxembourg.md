@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/8/partial-replacement-of-members-of-the-european-c
 
 ### [2012-10-8](/news/2012/10/8/index.md)
 
-##### members
+##### Members
 # Partial replacement of members of the European Court of Justice takes place in Luxembourg. 
 
 

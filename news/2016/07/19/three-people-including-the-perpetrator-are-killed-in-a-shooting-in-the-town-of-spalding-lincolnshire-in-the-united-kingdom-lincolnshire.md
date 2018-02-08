@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/19/three-people-including-the-perpetrator-are-kill
 
 ### [2016-07-19](/news/2016/07/19/index.md)
 
-##### a shooting
+##### A shooting
 # Three people, including the perpetrator, are killed in a shooting in the town of Spalding, Lincolnshire in the United Kingdom. Lincolnshire Police have ruled out a potential link to terrorism. 
 
 Three members of a family are killed in a shooting near a swimming pool in Lincolnshire.

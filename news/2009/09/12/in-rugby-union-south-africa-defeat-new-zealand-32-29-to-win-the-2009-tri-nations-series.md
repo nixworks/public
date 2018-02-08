@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/12/in-rugby-union-south-africa-defeat-new-zealand-
 
 ### [2009-09-12](/news/2009/09/12/index.md)
 
-##### rugby union
+##### Rugby union
 #  In rugby union, South Africa defeat New Zealand 32-29 to win the 2009 Tri Nations Series. 
 
 

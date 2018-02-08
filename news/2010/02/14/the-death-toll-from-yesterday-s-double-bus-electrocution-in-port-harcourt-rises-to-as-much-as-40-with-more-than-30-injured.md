@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/14/the-death-toll-from-yesterday-s-double-bus-elec
 
 ### [2010-02-14](/news/2010/02/14/index.md)
 
-##### yesterday's double bus electrocution
+##### Yesterday's double bus electrocution
 # The death toll from yesterday's double bus electrocution in Port Harcourt rises to as much as 40, with more than 30 injured. 
 
 At least 20 people were killed in Nigeria on Saturday when a cable fell onto a bus and electrocuted people inside, the police said.

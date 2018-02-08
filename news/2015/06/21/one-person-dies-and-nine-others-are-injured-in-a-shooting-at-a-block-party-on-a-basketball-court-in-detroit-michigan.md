@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/21/one-person-dies-and-nine-others-are-injured-in-
 
 ### [2015-06-21](/news/2015/06/21/index.md)
 
-##### block party
+##### Block party
 # One person dies and nine others are injured in a shooting at a block party on a basketball court in Detroit, Michigan. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

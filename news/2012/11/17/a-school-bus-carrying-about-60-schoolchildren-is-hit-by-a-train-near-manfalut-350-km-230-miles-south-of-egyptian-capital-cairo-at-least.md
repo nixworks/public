@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/17/a-school-bus-carrying-about-60-schoolchildren-i
 
 ### [2012-11-17](/news/2012/11/17/index.md)
 
-##### school bus
+##### School bus
 # A school bus carrying about 60 schoolchildren is hit by a train near Manfalut, 350 km (230 miles) south of Egyptian capital Cairo. At least 50 children and the driver are killed in the crash. The Egyptian minister of transport, Mohamed Rashad Al Matini, resigns. 
 
 

@@ -3,17 +3,17 @@ Formats: [HTML](2005/09/17/index.html)  [JSON](2005/09/17/index.json)  [XML](200
 
 ## [2005-09-17](/news/2005/09/17/index.md)
 
-##### market
+##### Market
 ### [ At least 30 people die following an explosion at a market in the Iraqi capital of Baghdad. ](/news/2005/09/17/at-least-30-people-die-following-an-explosion-at-a-market-in-the-iraqi-capital-of-baghdad.md)
-_Context: market, Baghdad, Iraq, capital_
+_Context: Baghdad, Iraq, capital, market_
 
 ##### Tayseer Allouni
 ### [ Tayseer Allouni, a reporter with Al Jazeera, is arrested by Spanish police for the second time. ](/news/2005/09/17/tayseer-allouni-a-reporter-with-al-jazeera-is-arrested-by-spanish-police-for-the-second-time.md)
-_Context: Al Jazeera, Tayseer Allouni, Spain_
+_Context: Tayseer Allouni, Spain, Al Jazeera_
 
 ##### Ariel Sharon
 ### [ Ariel Sharon, the Prime Minister of Israel, threatens to "make every effort not to help" the upcoming Palestinian elections if Hamas takes part. ](/news/2005/09/17/ariel-sharon-the-prime-minister-of-israel-threatens-to-make-every-effort-not-to-help-the-upcoming-palestinian-elections-if-hamas-takes.md)
-_Context: Palestine, Ariel Sharon, Hamas, Israeli Prime Minister_
+_Context: Hamas, Israeli Prime Minister, Palestine, Ariel Sharon_
 
 ## [Previous Day...](/news/2005/09/16/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/9/more-than-50-heads-of-state-including-vladimir-p
 
 ### [2005-05-9](/news/2005/05/9/index.md)
 
-##### head of state
+##### Head of state
 #  More than 50 heads of state, including Vladimir Putin, George W. Bush and German chancellor Gerhard Schrder, are among the guests attending the official celebrations commemorating the end of World War II in Moscow, Russia. It is the first time a German chancellor has attended a world-wide commemoration for the victims of the Third Reich. (Wikinews) 
 
 

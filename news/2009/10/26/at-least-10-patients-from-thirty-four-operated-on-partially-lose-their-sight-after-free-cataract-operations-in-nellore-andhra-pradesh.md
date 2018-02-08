@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/26/at-least-10-patients-from-thirty-four-operated-
 
 ### [2009-10-26](/news/2009/10/26/index.md)
 
-##### cataract
+##### Cataract
 #  At least 10 patients from thirty-four operated on partially lose their sight after free cataract operations in Nellore, Andhra Pradesh. 
 
 

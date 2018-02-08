@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/10/a-tornado-kills-at-least-nine-in-picher-oklahom
 
 ### [2008-05-10](/news/2008/05/10/index.md)
 
-##### tornado
+##### Tornado
 #  A tornado kills at least nine in Picher, Oklahoma. 
 
 

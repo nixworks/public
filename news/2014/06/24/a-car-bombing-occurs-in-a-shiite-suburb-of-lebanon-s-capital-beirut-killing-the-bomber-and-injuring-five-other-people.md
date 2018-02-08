@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/24/a-car-bombing-occurs-in-a-shiite-suburb-of-leba
 
 ### [2014-06-24](/news/2014/06/24/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bombing occurs in a Shiite suburb of Lebanon's capital Beirut killing the bomber and injuring five other people. 
 
 An official said at least five people had been wounded when a car bomb exploded near a cafe south of Beirut where people had gathered to watch World Cup matches.

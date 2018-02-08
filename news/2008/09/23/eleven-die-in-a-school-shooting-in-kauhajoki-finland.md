@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/23/eleven-die-in-a-school-shooting-in-kauhajoki-fi
 
 ### [2008-09-23](/news/2008/09/23/index.md)
 
-##### school shooting
+##### School shooting
 #  Eleven die in a school shooting in Kauhajoki, Finland. 
 
 

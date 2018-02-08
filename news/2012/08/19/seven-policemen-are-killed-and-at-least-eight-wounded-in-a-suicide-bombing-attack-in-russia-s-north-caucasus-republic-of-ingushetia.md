@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/19/seven-policemen-are-killed-and-at-least-eight-w
 
 ### [2012-08-19](/news/2012/08/19/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Seven policemen are killed and at least eight wounded in a suicide bombing attack in Russia's North Caucasus republic of Ingushetia. 
 
 

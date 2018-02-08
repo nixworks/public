@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/10/a-suicide-bomb-attack-on-a-shiite-mosque-in-raw
 
 ### [2015-01-10](/news/2015/01/10/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 # A suicide bomb attack on a Shiite mosque in Rawalpindi, Pakistan, kills at least seven people. Militants linked to the Taliban and al-Qaeda have previously attacked the country's Shiite minority. 
 
 The Jamat-ul-Ahrar faction of the Pakistani Taliban has claimed responsibility for an apparent suicide attack on a Shi&#039;ite mosque in Rawalpindi.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/11/european-heat-wave-parisian-health-authorities-
 
 ### [2003-08-11](/news/2003/08/11/index.md)
 
-##### heat wave
+##### Heat wave
 #  European heat wave: Parisian health authorities charge that fifty people have died in Paris owing to the heat wave, particularly elderly people, and that the government is ignoring the crisis. In Catalonia, five people from one family are killed by a wildfire that encircles their home. Four villages are evacuated in the Algarve.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/12/a-false-alarm-causes-the-diversion-of-american-
 
 ### [2007-07-12](/news/2007/07/12/index.md)
 
-##### false alarm
+##### False alarm
 #  A false alarm causes the diversion of American Airlines Flight 136. The plane crew was concerned that a passenger of Middle Eastern descent might have bypassed security controls. 
 
 

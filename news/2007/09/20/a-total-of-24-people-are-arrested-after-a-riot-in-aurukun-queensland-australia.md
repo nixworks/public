@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/20/a-total-of-24-people-are-arrested-after-a-riot-
 
 ### [2007-09-20](/news/2007/09/20/index.md)
 
-##### riot
+##### Riot
 #  A total of 24 people are arrested after a riot in Aurukun, Queensland, Australia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/11/two-trains-collide-in-alexandria-egypt-killing-
 
 ### [2017-08-11](/news/2017/08/11/index.md)
 
-##### collide
+##### Collide
 # Two trains collide in Alexandria, Egypt, killing at least 41 people and injuring at least 179. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/31/police-fire-rubber-bullets-to-disperse-rioting-
 
 ### [2010-07-31](/news/2010/07/31/index.md)
 
-##### police officers
+##### Police officers
 # Police fire rubber bullets to disperse rioting garment workers as protests spread beyond the capital Dhaka to other Bangladeshi cities. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/27/a-saudi-man-facing-flogging-or-imprisonment-for
 
 ### [2009-07-27](/news/2009/07/27/index.md)
 
-##### sex
+##### Sex
 #  A Saudi man facing flogging or imprisonment for speaking of his illegal sexual conquests on television apologises for his actions. 
 
 

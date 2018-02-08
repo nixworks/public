@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/30/a-south-african-court-rules-that-the-common-law
 
 ### [2004-11-30](/news/2004/11/30/index.md)
 
-##### same-sex marriage
+##### Same-sex marriage
 #  A South African court rules that the common law concept of marriage must be extended to include same-sex couples. Although the ruling does not immediately permit same-sex marriage in South Africa, it is considered a major step in that direction. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/1/2011-libyan-civil-war-an-envoy-of-muammar-gaddaf
 
 ### [2011-04-1](/news/2011/04/1/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war:An envoy of Muammar Gaddafi is reported to have been seen gossiping with officials on a visit to London, England. 
 
 A Libyan envoy representing Colonel Gaddafi has been in London in the past few days for talks with British officials, the BBC understands.

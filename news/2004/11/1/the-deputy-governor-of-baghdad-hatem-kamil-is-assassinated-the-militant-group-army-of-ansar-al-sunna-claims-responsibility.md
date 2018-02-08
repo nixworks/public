@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/1/the-deputy-governor-of-baghdad-hatem-kamil-is-as
 
 ### [2004-11-1](/news/2004/11/1/index.md)
 
-##### governor
+##### Governor
 #  The deputy governor of Baghdad, Hatem Kamil, is assassinated. The militant group Army of Ansar al-Sunna claims responsibility. 
 
 

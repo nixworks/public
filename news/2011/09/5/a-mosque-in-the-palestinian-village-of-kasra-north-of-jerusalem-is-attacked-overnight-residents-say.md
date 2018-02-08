@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-nor
 
 ### [2011-09-5](/news/2011/09/5/index.md)
 
-##### mosque
+##### Mosque
 # A mosque in the Palestinian village of Kasra, north of Jerusalem, is attacked overnight, residents say. 
 
 Israeli police investigate a fire and graffiti attack on a mosque in the Palestinian village of Kasra, north of Jerusalem.

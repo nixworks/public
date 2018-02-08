@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/8/same-sex-marriage-debate-the-top-legislative-bod
 
 ### [2005-08-8](/news/2005/08/8/index.md)
 
-##### gay marriage
+##### Gay marriage
 #  Same sex marriage debate: The top legislative body of the Evangelical Lutheran Church in America (ELCA) is set to take key votes this week on ordaining gays and blessing same-sex unions. Conflicts over what the Bible says about homosexuality have been tearing at Protestant denominations for years. 
 
 

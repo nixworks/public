@@ -7,7 +7,7 @@ Formats: [HTML](2014/01/13/index.html)  [JSON](2014/01/13/index.json)  [XML](201
 ### [An explosion at an illegal gambling hall in Kaili City, China, kills fourteen people and injures seven. Police believe it was intentional and are investigating it as a crime. ](/news/2014/01/13/an-explosion-at-an-illegal-gambling-hall-in-kaili-city-china-kills-fourteen-people-and-injures-seven-police-believe-it-was-intentional-an.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### grenade
+##### Grenade
 ### [A man with a grenade attacks a school in Cotabato City, Mindanao, Philippines, injuring more than 24 people. ](/news/2014/01/13/a-man-with-a-grenade-attacks-a-school-in-cotabato-city-mindanao-philippines-injuring-more-than-24-people.md)
 Fire in a bunkhouse at campus may have been started to distract authorities away from perpetrator.
 
@@ -21,7 +21,7 @@ Contact has been made with Tonga&#039;s isolated islands as relief efforts get u
 
 ##### Philippines
 ### [Heavy rain and landslides kill 20 people in the southeastern Philippines, mostly in the Mindanao provinces of Davao Oriental and Compostela Valley. Another 13 are missing. ](/news/2014/01/13/heavy-rain-and-landslides-kill-20-people-in-the-southeastern-philippines-mostly-in-the-mindanao-provinces-of-davao-oriental-and-compostela.md)
-_Context: Mindanao, Compostela Valley, Philippines, Davao Oriental_
+_Context: Mindanao, Philippines, Compostela Valley, Davao Oriental_
 
 ##### Sandiganbayan
 ### [The Sandiganbayan rules the jewelry collection of Imelda Marcos, valued about $150,000 in 1986, property of the government of the Philippines and orders the Marcos family to forfeit it. ](/news/2014/01/13/the-sandiganbayan-rules-the-jewelry-collection-of-imelda-marcos-valued-about-150-000-in-1986-property-of-the-government-of-the-philippine.md)

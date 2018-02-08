@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/16/a-6-8-magnitude-earthquake-hits-japan-with-a-ts
 
 ### [2007-07-16](/news/2007/07/16/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.8 magnitude earthquake hits Japan with a tsunami warning being issued in Niigata Prefecture, Honshu. At least eight people have been killed and over 700 injured. There was a fire in the Kashiwazaki-Kariwa Nuclear Power Plant as well as a small leak but not sufficient to damage the environment. 
 
 The death toll in Japan following a powerful earthquake has risen, with hospital officials saying at least five elderly people have were killed and nearly 650 people injured in the quake.

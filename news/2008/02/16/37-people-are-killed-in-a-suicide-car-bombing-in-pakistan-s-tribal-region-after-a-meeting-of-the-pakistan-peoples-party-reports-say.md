@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/16/37-people-are-killed-in-a-suicide-car-bombing-i
 
 ### [2008-02-16](/news/2008/02/16/index.md)
 
-##### suicide car bombing
+##### Suicide car bombing
 #  37 people are killed in a suicide car bombing in Pakistan's tribal region after a meeting of the Pakistan Peoples Party, reports say. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/12/palestinian-factional-violence-hamas-officials-
 
 ### [2007-06-12](/news/2007/06/12/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence: Hamas officials report that a rocket-propelled grenade has been fired at the house of Prime Minister Ismail Haniyeh, causing damage but no injuries. 
 
 

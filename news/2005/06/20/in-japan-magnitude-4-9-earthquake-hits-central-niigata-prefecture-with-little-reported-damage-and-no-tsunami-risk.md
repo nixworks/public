@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/20/in-japan-magnitude-4-9-earthquake-hits-central-
 
 ### [2005-06-20](/news/2005/06/20/index.md)
 
-##### earthquake
+##### Earthquake
 #  In Japan, magnitude 4.9 earthquake hits central Niigata Prefecture, with little reported damage and no tsunami risk 
 
 

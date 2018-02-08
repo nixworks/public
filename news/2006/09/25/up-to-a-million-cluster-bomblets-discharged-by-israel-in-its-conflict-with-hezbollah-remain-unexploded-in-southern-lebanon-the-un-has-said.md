@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/25/up-to-a-million-cluster-bomblets-discharged-by-
 
 ### [2006-09-25](/news/2006/09/25/index.md)
 
-##### cluster bomb
+##### Cluster bomb
 #  Up to a million cluster bomblets discharged by Israel in its conflict with Hezbollah remain unexploded in southern Lebanon, the UN has said. 
 
 

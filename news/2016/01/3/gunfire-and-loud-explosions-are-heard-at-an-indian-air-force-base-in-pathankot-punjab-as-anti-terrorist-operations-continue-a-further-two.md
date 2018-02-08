@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/3/gunfire-and-loud-explosions-are-heard-at-an-indi
 
 ### [2016-01-3](/news/2016/01/3/index.md)
 
-##### terror-related
+##### Terror-related
 # Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. 
 
 Pathankot terror attack: Operation continues for second day; PM Modi chairs high-level meeting - Operation continues even on Sunday

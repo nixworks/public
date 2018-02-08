@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/26/the-central-bank-of-mexico-announces-that-it-is
 
 ### [2013-04-26](/news/2013/04/26/index.md)
 
-##### central bank
+##### Central bank
 # The central bank of Mexico announces that it is holding its benchmark interest rate at 4%, where it has been since a half-point cut announced in March, despite recent reports of inflating consumer prices. 
 
 

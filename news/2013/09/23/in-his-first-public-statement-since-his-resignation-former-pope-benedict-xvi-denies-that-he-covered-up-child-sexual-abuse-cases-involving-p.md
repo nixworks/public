@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/23/in-his-first-public-statement-since-his-resigna
 
 ### [2013-09-23](/news/2013/09/23/index.md)
 
-##### resignation
+##### Resignation
 # In his first public statement since his resignation, former Pope Benedict XVI denies that he covered up child sexual abuse cases involving priests during his tenure. 
 
 Former Pope Benedict has denied that he tried to cover up sexual abuse of children by Roman Catholic priests, in his first direct published comments since he stepped down.

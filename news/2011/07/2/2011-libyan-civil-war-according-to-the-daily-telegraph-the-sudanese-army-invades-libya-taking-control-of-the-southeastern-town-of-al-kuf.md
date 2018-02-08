@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/2/2011-libyan-civil-war-according-to-the-daily-tel
 
 ### [2011-07-2](/news/2011/07/2/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war:According to "The Daily Telegraph", the Sudanese army invades Libya, taking control of the southeastern town of Al-Kufra. 
 
 The Sudanese army has seized a town in southern Libya that is the gateway to oilfields crucial to rebel hopes of establishing financial independence.

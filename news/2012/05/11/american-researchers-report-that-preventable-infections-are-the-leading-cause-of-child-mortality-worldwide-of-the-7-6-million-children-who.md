@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/11/american-researchers-report-that-preventable-in
 
 ### [2012-05-11](/news/2012/05/11/index.md)
 
-##### child mortality
+##### Child mortality
 # American researchers report that preventable infections are the leading cause of child mortality worldwide. Of the 7.6 million children who died before their fifth birthday in 2010, over 60% died of infections such as pneumonia. 
 
 Most deaths of young children around the world are from mainly preventable infectious causes, experts say.

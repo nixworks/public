@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/13/a-presidential-election-takes-place-in-benin-af
 
 ### [2011-03-13](/news/2011/03/13/index.md)
 
-##### presidential election
+##### Presidential election
 # A presidential election takes place in Benin, after previously being delayed. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/27/at-least-twenty-members-of-the-afghan-national-
 
 ### [2013-01-27](/news/2013/01/27/index.md)
 
-##### police
+##### Police
 # At least twenty members of the Afghan National Police have been killed in bomb attacks over the past day with eight police officers killed in the latest attack in Kandahar. 
 
 

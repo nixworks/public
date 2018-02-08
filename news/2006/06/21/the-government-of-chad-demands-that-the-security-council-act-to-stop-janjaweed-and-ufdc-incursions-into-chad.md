@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/21/the-government-of-chad-demands-that-the-securit
 
 ### [2006-06-21](/news/2006/06/21/index.md)
 
-##### second Dby administration
+##### Second Dby administration
 #  The Government of Chad demands that the Security Council act to stop Janjaweed and UFDC incursions into Chad. 
 
 

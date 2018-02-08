@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/19/an-earthquake-measuring-5-8-on-the-richter-scal
 
 ### [2009-09-19](/news/2009/09/19/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake measuring 5.8 on the Richter scale occurs off the coast of Bali in Indonesia. 
 
 

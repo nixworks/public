@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/14/the-magnitude-6-8-m-w-2008-iwate-earthquake-sha
 
 ### [2008-06-14](/news/2008/06/14/index.md)
 
-##### magnitude
+##### Magnitude
 #  The magnitude 6.8 M w 2008 Iwate earthquake shakes Iwate and Miyagi Prefectures on Japan's main island of Honshu, killing at least 6 people and injuring at least 8 others.
 
 

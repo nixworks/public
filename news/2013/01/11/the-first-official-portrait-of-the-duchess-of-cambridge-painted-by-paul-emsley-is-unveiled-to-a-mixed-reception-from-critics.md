@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/11/the-first-official-portrait-of-the-duchess-of-c
 
 ### [2013-01-11](/news/2013/01/11/index.md)
 
-##### official portrait
+##### Official portrait
 # The first official portrait of the Duchess of Cambridge, painted by Paul Emsley, is unveiled to a mixed reception from critics. 
 
 The first official painting of the Duchess of Cambridge goes on display at the National Portrait Gallery, but critics are divided over its quality.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/15/pope-benedict-xvi-islam-controversy-pope-benedi
 
 ### [2006-09-15](/news/2006/09/15/index.md)
 
-##### controversial speech
+##### Controversial speech
 #  Pope Benedict XVI Islam controversy: Pope Benedict XVI is criticized throughout the Islamic world for comments he made on September 12, quoting the Byzantine emperor Manuel II Palaiologos (1391-1425) regarding Muhammad and Islam. Street protests take place in parts of South Asia. 
 
 

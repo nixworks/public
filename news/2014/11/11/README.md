@@ -9,7 +9,7 @@ _Context: War in North-West Pakistan, Pakistani forces_
 
 ##### ISIL
 ### [A suicide bomber kills eight people in the centre of Baiji in northern Iraq. ](/news/2014/11/11/a-suicide-bomber-kills-eight-people-in-the-centre-of-baiji-in-northern-iraq.md)
-_Context: ISIL, Iraq, Baiji_
+_Context: Iraq, Baiji, ISIL_
 
 ##### Zen
 ### [Renowned Zen Buddhist master Thich Nhat Hanh suffers a massive brain hemorrhage and is rushed to a hospital in western France. ](/news/2014/11/11/renowned-zen-buddhist-master-thich-nhat-hanh-suffers-a-massive-brain-hemorrhage-and-is-rushed-to-a-hospital-in-western-france.md)
@@ -19,15 +19,15 @@ Prominent Buddhist leader Zen Master Thich Nhat Hanh has suffered a severe brain
 ### [The Bank of England fires Martin Mallett, once its chief foreign exchange dealer, due to evidence that he was in some degree complicit in market manipulation. ](/news/2014/11/11/the-bank-of-england-fires-martin-mallett-once-its-chief-foreign-exchange-dealer-due-to-evidence-that-he-was-in-some-degree-complicit-in-ma.md)
 Governor says dismissal of chief currency dealer Martin Mallett was unrelated to a Bank of England investigation into currency manipulation
 
-##### bus crash
+##### Bus crash
 ### [58 people are killed in a bus crash in the Sukkur District in southern Pakistan's Sindh province. ](/news/2014/11/11/58-people-are-killed-in-a-bus-crash-in-the-sukkur-district-in-southern-pakistan-s-sindh-province.md)
-_Context: bus crash, Pakistan, Sindh, Sukkur District_
+_Context: Pakistan, Sukkur District, Sindh, bus crash_
 
-##### midwestern
+##### Midwestern
 ### [The first winter storm of the season hits the midwestern United States with at least four people dead in Minnesota. ](/news/2014/11/11/the-first-winter-storm-of-the-season-hits-the-midwestern-united-states-with-at-least-four-people-dead-in-minnesota.md)
 Heavy snow falls from Michigan to Colorado, while much of the country braces for dramatic, double-digit drops in temperature.
 
-##### sterilization
+##### Sterilization
 ### [Eleven women have died and at least twenty are in a critical condition after undergoing sterilization surgery in Bilaspur, Chhattisgarh, as part of India's state-run mass sterilization campaign. ](/news/2014/11/11/eleven-women-have-died-and-at-least-twenty-are-in-a-critical-condition-after-undergoing-sterilization-surgery-in-bilaspur-chhattisgarh-as.md)
 Eleven women die after botched sterilisation surgery at a remote village in central India, re-igniting fears about state-run family planning campaigns.
 
@@ -37,7 +37,7 @@ Mali, which was just coming to the end of 21-day quarantines for 108 people link
 
 ##### Ebola virus cases in the United States
 ### [Dr. Craig Spencer, a Doctors Without Borders volunteer, was declared free of the Ebola virus and released from a New York City hospital. His was the last Ebola case being treated in the United States. ](/news/2014/11/11/dr-craig-spencer-a-doctors-without-borders-volunteer-was-declared-free-of-the-ebola-virus-and-released-from-a-new-york-city-hospital-his.md)
-_Context: Ebola virus cases in the United States, hospital, United States, Dr. Craig Spencer, Ebola, Doctors Without Borders volunteer, New York City_
+_Context: hospital, Dr. Craig Spencer, United States, Doctors Without Borders volunteer, New York City, Ebola, Ebola virus cases in the United States_
 
 ##### Sinking of the MV ''Sewol''
 ### [In South Korea, fifteen members of the crew of the MV "Sewol" are sentenced for criminal negligence in the ferry disaster with the captain sentenced to 36 years and the chief engineer sentenced to 30 years. ](/news/2014/11/11/in-south-korea-fifteen-members-of-the-crew-of-the-mv-sewol-are-sentenced-for-criminal-negligence-in-the-ferry-disaster-with-the-captain-s.md)
@@ -49,7 +49,7 @@ Riot police clash with protesters, angry at the government and police handling o
 
 ##### Umbrella Revolution
 ### [Following a court injunction authorising the clearance of protest sites, pro-democracy protesters in Hong Kong are warned they could face arrest if they do not leave the sites. ](/news/2014/11/11/following-a-court-injunction-authorising-the-clearance-of-protest-sites-pro-democracy-protesters-in-hong-kong-are-warned-they-could-face-ar.md)
-_Context: Hong Kong, Umbrella Revolution_
+_Context: Umbrella Revolution, Hong Kong_
 
 ## [Previous Day...](/news/2014/11/10/index.md)
 

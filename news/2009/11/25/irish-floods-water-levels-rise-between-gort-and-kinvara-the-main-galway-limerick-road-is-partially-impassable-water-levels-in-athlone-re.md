@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/25/irish-floods-water-levels-rise-between-gort-and
 
 ### [2009-11-25](/news/2009/11/25/index.md)
 
-##### floods
+##### Floods
 #  Irish floods: Water levels rise between Gort and Kinvara, the main Galway-Limerick road is partially impassable, water levels in Athlone reach 50cm over the highest level on record, Waterways Ireland describes water levels on the River Shannon as "unmanageable" and says one third of Ireland's annual rain has so far fallen during November alone. 
 
 The Irish Red Cross has appealed for donations to aid victims of the current flooding crisis.

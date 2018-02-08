@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/15/dozens-of-people-are-dead-following-an-explosio
 
 ### [2010-12-15](/news/2010/12/15/index.md)
 
-##### mosque
+##### Mosque
 # Dozens of people are dead following an explosion outside a mosque in the Iranian city of Chabahar. 
 
 At least 41 people killed and dozens injured after a suicide bombing near a mosque in the Iranian city of Chabahar.

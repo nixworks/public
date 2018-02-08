@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/09/30/accounting-scandals-new-york-attorney-general-e
 
 ### [2002-09-30](/news/2002/09/30/index.md)
 
-##### accounting fraud
+##### Accounting fraud
 #  Accounting scandals: New York Attorney General Eliot Spitzer has filed civil fraud lawsuits against ex-WorldCom CEO Bernie Ebbers, Qwest Communications executives Philip Anschutz and Joseph Nacchio, Metromedia Fiber Networks chairman Stephen Garofalo, and ex-McLeod USA CEO Clark McLeod.
 
 

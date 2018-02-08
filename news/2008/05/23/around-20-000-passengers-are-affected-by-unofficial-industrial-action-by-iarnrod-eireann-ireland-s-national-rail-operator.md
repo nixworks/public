@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/23/around-20-000-passengers-are-affected-by-unoffi
 
 ### [2008-05-23](/news/2008/05/23/index.md)
 
-##### industrial action
+##### Industrial action
 #  Around 20,000 passengers are affected by unofficial industrial action by Iarnrd ireann, Ireland's national rail operator. 
 
 Around 20,000 rail passengers were affected by today&#39;s industrial action, according to Iarnród Éireann.

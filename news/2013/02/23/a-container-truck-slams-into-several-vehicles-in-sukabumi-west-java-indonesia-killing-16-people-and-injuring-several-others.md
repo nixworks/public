@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/23/a-container-truck-slams-into-several-vehicles-i
 
 ### [2013-02-23](/news/2013/02/23/index.md)
 
-##### truck
+##### Truck
 # A container truck slams into several vehicles in Sukabumi, West Java, Indonesia, killing 16 people and injuring several others. 
 
 

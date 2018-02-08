@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/14/a-power-transformer-malfunction-in-bursa-turkey
 
 ### [2012-01-14](/news/2012/01/14/index.md)
 
-##### transformer
+##### Transformer
 # A power transformer malfunction in Bursa, Turkey, leaves millions without electricity, including the metropolis of Istanbul. 
 
 

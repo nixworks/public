@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/26/a-scorpion-stings-a-passenger-on-a-flight-from-
 
 ### [2012-11-26](/news/2012/11/26/index.md)
 
-##### scorpion
+##### Scorpion
 # A scorpion stings a passenger on a flight from Costa Rica to Spain, which forced the sealing of the Iberia airlines Airbus A340 at Madrid's Barajas International Airport. 
 
 

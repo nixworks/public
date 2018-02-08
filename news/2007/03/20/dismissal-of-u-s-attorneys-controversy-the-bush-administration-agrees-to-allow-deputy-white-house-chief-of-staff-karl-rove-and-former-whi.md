@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/20/dismissal-of-u-s-attorneys-controversy-the-bush
 
 ### [2007-03-20](/news/2007/03/20/index.md)
 
-##### firings
+##### Firings
 #  Dismissal of U.S. attorneys controversy: The Bush administration agrees to allow Deputy White House Chief of Staff Karl Rove and former White House Counsel Harriet Miers to testify but not under oath.
 
 

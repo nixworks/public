@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/7/more-than-140-people-are-killed-after-torrential
 
 ### [2012-07-7](/news/2012/07/7/index.md)
 
-##### floods
+##### Floods
 # More than 140 people are killed after torrential rains leading to heavy floods sweep through parts of the south Russian Krasnodar region. 
 
 More than 144 people have been killed as flash floods swept through parts of the Krasnodar region in southern Russia, officials say.

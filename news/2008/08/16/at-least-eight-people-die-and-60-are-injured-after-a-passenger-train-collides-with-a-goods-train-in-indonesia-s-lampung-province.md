@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/16/at-least-eight-people-die-and-60-are-injured-af
 
 ### [2008-08-16](/news/2008/08/16/index.md)
 
-##### passenger train
+##### Passenger train
 #  At least eight people die and 60 are injured after a passenger train collides with a goods train in Indonesia's Lampung province. 
 
 

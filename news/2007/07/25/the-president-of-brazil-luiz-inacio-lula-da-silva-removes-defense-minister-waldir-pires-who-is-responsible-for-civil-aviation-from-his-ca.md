@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/25/the-president-of-brazil-luiz-inacio-lula-da-sil
 
 ### [2007-07-25](/news/2007/07/25/index.md)
 
-##### president
+##### President
 #  The President of Brazil Luiz Incio Lula da Silva removes Defense Minister Waldir Pires, who is responsible for civil aviation, from his Cabinet and replaces him with former Justice Minister Nelson Jobim after two major crashes in ten months. 
 
 The move came after President Luiz Inácio Lula da Silva had assured Brazilians that he had ordered changes in the country’s flawed civil aviation system.

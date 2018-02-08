@@ -7,13 +7,13 @@ Formats: [HTML](2014/11/17/index.html)  [JSON](2014/11/17/index.json)  [XML](201
 ### [After months fending off a takeover bid from Canada's Valeant, the board of U.S. biopharm firm Allergan accepts a $66 billion offer from an Irish white knight, Actavis. ](/news/2014/11/17/after-months-fending-off-a-takeover-bid-from-canada-s-valeant-the-board-of-u-s-biopharm-firm-allergan-accepts-a-66-billion-offer-from-an.md)
 Botox maker Allergan Inc on Monday accepted a $66 billion takeover bid from Actavis Plc, ending a seven-month hostile pursuit by activist investor William Ackman and Valeant Pharmaceuticals International Inc.
 
-##### earthquake
+##### Earthquake
 ### [A large earthquake occurs off the coast of New Zealand. ](/news/2014/11/17/a-large-earthquake-occurs-off-the-coast-of-new-zealand.md)
 A large earthquake has struck off the east coast of the North Island. - New Zealand Herald
 
 ##### Australia
 ### [Australia and the People's Republic of China conclude a free trade deal worth $18 billion. ](/news/2014/11/17/australia-and-the-people-s-republic-of-china-conclude-a-free-trade-deal-worth-18-billion.md)
-_Context: Australia, free trade, China_
+_Context: free trade, China, Australia_
 
 ##### Kenyan police
 ### [Kenyan police raid two mosques in Mombasa suspected of being linked to al-Shabab. One man is killed and over 200 are arrested. ](/news/2014/11/17/kenyan-police-raid-two-mosques-in-mombasa-suspected-of-being-linked-to-al-shabab-one-man-is-killed-and-over-200-are-arrested.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/29/a-car-bomb-in-thenia-algeria-kills-at-least-thr
 
 ### [2008-01-29](/news/2008/01/29/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in Thenia, Algeria kills at least three people. 
 
 

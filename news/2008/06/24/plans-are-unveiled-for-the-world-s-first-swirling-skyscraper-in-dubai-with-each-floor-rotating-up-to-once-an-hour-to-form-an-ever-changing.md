@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/24/plans-are-unveiled-for-the-world-s-first-swirli
 
 ### [2008-06-24](/news/2008/06/24/index.md)
 
-##### world's first swirling skyscraper
+##### World's first swirling skyscraper
 #  Plans are unveiled for the world's first swirling skyscraper in Dubai, with each floor rotating up to once an hour to form an ever-changing profile on the skyline. 
 
 An architect has unveiled plans to build the world&#039;s first rotating skyscrapers.

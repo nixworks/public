@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/24/a-suspected-car-bomb-outside-the-office-of-the-
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
-##### car bomb
+##### Car bomb
 # A suspected car bomb outside the office of the governor of the southern Turkish province of Adana kills at least two people and injures 16. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

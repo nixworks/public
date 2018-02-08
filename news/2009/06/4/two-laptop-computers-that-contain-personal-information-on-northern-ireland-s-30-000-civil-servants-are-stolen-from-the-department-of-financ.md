@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/4/two-laptop-computers-that-contain-personal-infor
 
 ### [2009-06-4](/news/2009/06/4/index.md)
 
-##### laptop
+##### Laptop
 #  Two laptop computers that contain personal information on Northern Ireland's 30,000 civil servants are stolen from the Department of Finance and Personnel in Belfast. 
 
 The personal details of thousands of civil servants were on laptop computers stolen during a break-in at government offices in Northern Ireland.

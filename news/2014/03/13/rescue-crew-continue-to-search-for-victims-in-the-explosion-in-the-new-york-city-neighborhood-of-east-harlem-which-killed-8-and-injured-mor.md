@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/13/rescue-crew-continue-to-search-for-victims-in-t
 
 ### [2014-03-13](/news/2014/03/13/index.md)
 
-##### explosion
+##### Explosion
 # Rescue crew continue to search for victims in the explosion in the New York City neighborhood of East Harlem, which killed 8 and injured more than 70. 
 
 Rescuers find the body of an eighth victim following a gas leak and explosion that demolished two buildings in Harlem, New York City.

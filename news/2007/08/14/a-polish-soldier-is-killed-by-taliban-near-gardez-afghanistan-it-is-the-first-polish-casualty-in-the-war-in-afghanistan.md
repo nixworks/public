@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/14/a-polish-soldier-is-killed-by-taliban-near-gard
 
 ### [2007-08-14](/news/2007/08/14/index.md)
 
-##### Poland
+##### Polish
 #  A Polish soldier is killed by Taliban near Gardez, Afghanistan. It is the first Polish casualty in the War in Afghanistan. 
 
 

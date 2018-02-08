@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/17/the-somali-police-force-raid-an-address-in-moga
 
 ### [2010-09-17](/news/2010/09/17/index.md)
 
-##### police
+##### Police
 # The Somali Police Force raid an address in Mogadishu and confiscate weapons. 
 
 

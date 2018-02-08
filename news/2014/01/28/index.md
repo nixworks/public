@@ -5,9 +5,9 @@ Formats: [HTML](2014/01/28/index.html)  [JSON](2014/01/28/index.json)  [XML](201
 
 ##### Carl Icahn
 ### [Carl Icahn announces he has purchased another bloc of the stock of Apple Inc., part of a ramping up that now has him owning Apple equity in the amount of more than $4 billion. ](/news/2014/01/28/carl-icahn-announces-he-has-purchased-another-bloc-of-the-stock-of-apple-inc-part-of-a-ramping-up-that-now-has-him-owning-apple-equity-in.md)
-_Context: Carl Icahn, Apple Inc._
+_Context: Apple Inc., Carl Icahn_
 
-##### poultry
+##### Poultry
 ### [Sales of live poultry are banned in eastern China after 19 people die from the strain this year. ](/news/2014/01/28/sales-of-live-poultry-are-banned-in-eastern-china-after-19-people-die-from-the-strain-this-year.md)
 AUTHORITIES in eastern China have banned live poultry sales after an increase in the number of people infected with the H7N9 strain of bird flu.
 
@@ -17,15 +17,15 @@ _Context: Southeastern United States_
 
 ##### Hoang Lien National Park
 ### [All tourism activities at Hoang Lien National Park and to the Fansipan mountain in Vietnam's Lao Cai Province have been suspended until the end of March to reduce the risk of forest fires caused by cold weather and a lack of rain. ](/news/2014/01/28/all-tourism-activities-at-hoa-ng-liaan-national-park-and-to-the-fansipan-mountain-in-vietnam-s-la-o-cai-province-have-been-suspended-until-t.md)
-_Context: Lao Cai, Fansipan, Vietnam, Hoang Lien National Park_
+_Context: Hoang Lien National Park, Fansipan, Lao Cai, Vietnam_
 
 ##### Mamphela Ramphele
 ### [Former anti-apartheid activist Mamphela Ramphele and her 1-year old party Agang South Africa joins the main opposition party, Democratic Alliance, as Ramphele becomes DA's presidential candidate for the 2014 general election and thus the main challenger to incumbent President Jacob Zuma. ](/news/2014/01/28/former-anti-apartheid-activist-mamphela-ramphele-and-her-1-year-old-party-agang-south-africa-joins-the-main-opposition-party-democratic-all.md)
 Prominent South African anti-apartheid activist Mamphela Ramphele is to be the presidential candidate of the opposition Democratic Alliance.
 
-##### soldiers
+##### Soldiers
 ### [Former Australian Army General Peter Cosgrove is named as the next Governor-General of Australia. ](/news/2014/01/28/former-australian-army-general-peter-cosgrove-is-named-as-the-next-governor-general-of-australia.md)
-_Context: soldiers, Governor-General of Australia, Peter Cosgrove_
+_Context: Governor-General of Australia, Peter Cosgrove, soldiers_
 
 ##### Bangkok
 ### [Thai protesters surround the venue of a cabinet meeting in Bangkok. ](/news/2014/01/28/thai-protesters-surround-the-venue-of-a-cabinet-meeting-in-bangkok.md)

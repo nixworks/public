@@ -25,11 +25,11 @@ Ebert had been the film critic for the Chicago Sun-Times since April 3, 1967. He
 
 ##### Rio Tinto
 ### [Mining giant Rio Tinto, continuing a program of asset divestment, asks Macquarie Group to find a buyer for its interest in the Australian Northparkes copper and gold mine. ](/news/2013/04/4/mining-giant-rio-tinto-continuing-a-program-of-asset-divestment-asks-macquarie-group-to-find-a-buyer-for-its-interest-in-the-australian-no.md)
-_Context: gold, Macquarie Group, copper, Rio Tinto, Northparkes_
+_Context: gold, copper, Macquarie Group, Rio Tinto, Northparkes_
 
 ##### CEO
 ### [Ex-CEO of Enron Jeffrey Skilling is in talks with federal prosecutors to discuss a reduction in his sentence. ](/news/2013/04/4/ex-ceo-of-enron-jeffrey-skilling-is-in-talks-with-federal-prosecutors-to-discuss-a-reduction-in-his-sentence.md)
-_Context: CEO, Enron, Jeffrey Skilling_
+_Context: Jeffrey Skilling, Enron, CEO_
 
 ##### 2013 Thane building collapse
 ### [2013 Thane building collapse: At least 46 people are killed when an illegally constructed building collapses in Mumbra, a suburb of Thane, India. ](/news/2013/04/4/2013-thane-building-collapse-at-least-46-people-are-killed-when-an-illegally-constructed-building-collapses-in-mumbra-a-suburb-of-thane-i.md)
@@ -41,7 +41,7 @@ _Context: floods, 2013 Argentina floods, Argentina_
 
 ##### Grozny
 ### [One of the Grozny-City Towers, the tallest building in Chechnya, Russia, is damaged in a large fire. ](/news/2013/04/4/one-of-the-grozny-city-towers-the-tallest-building-in-chechnya-russia-is-damaged-in-a-large-fire.md)
-_Context: Grozny, Russia, Chechnya_
+_Context: Chechnya, Grozny, Russia_
 
 ##### H7N9
 ### [The death toll from the recently discovered H7N9 bird flu rises to six. China begin slaughtering birds in hopes of containing the disease. ](/news/2013/04/4/the-death-toll-from-the-recently-discovered-h7n9-bird-flu-rises-to-six-china-begin-slaughtering-birds-in-hopes-of-containing-the-disease.md)
@@ -49,7 +49,7 @@ The death toll from a new strain of bird flu rose to six in China on Thursday as
 
 ##### United States
 ### [A group of American scientists at Washington University announce in a study published in the journal "Neuron" that they have identified a number of genetic markers that are associated with increased risk of Alzheimer's disease. ](/news/2013/04/4/a-group-of-american-scientists-at-washington-university-announce-in-a-study-published-in-the-journal-neuron-that-they-have-identified-a-nu.md)
-_Context: United States, genetic markers, Alzheimer's disease, Washington University, ''Neuron''_
+_Context: genetic markers, ''Neuron'', United States, Alzheimer's disease, Washington University_
 
 ##### South Korea
 ### [South Korean sources say a North Korean medium range missile has been moved to the eastern coast and that it may be ready for testing or for attacking Japan or Guam. ](/news/2013/04/4/south-korean-sources-say-a-north-korean-medium-range-missile-has-been-moved-to-the-eastern-coast-and-that-it-may-be-ready-for-testing-or-for.md)
@@ -67,7 +67,7 @@ Hate crimes against groups such as goths or punks are to be recorded by Greater 
 ### [Mick Philpott is sentenced to life imprisonment and his wife and a family friend, Paul Mosley, are sentenced to 17 years for the Allenton house fire manslaughter of their six children. ](/news/2013/04/4/mick-philpott-is-sentenced-to-life-imprisonment-and-his-wife-and-a-family-friend-paul-mosley-are-sentenced-to-17-years-for-the-allenton-ho.md)
 Mick Philpott stuck two fingers up in court as he, his wife and a friend are jailed for killing six of the couple&#039;s children.
 
-##### axe
+##### Axe
 ### [A man goes on a rampage with an axe, killing nine people in Chhattisgarh state in central India. ](/news/2013/04/4/a-man-goes-on-a-rampage-with-an-axe-killing-nine-people-in-chhattisgarh-state-in-central-india.md)
 A man goes on a rampage with an axe in a village in central India, killing four women and five girls, according to police.
 
@@ -77,11 +77,11 @@ Undercover U.S. agents have arrested the former navy chief of Guinea Bissau, wan
 
 ##### Jackson
 ### [In Jackson, Mississippi, Jeremy Powell, 23, a suspect in the stabbing death of a 20-year-old male, and Eric Smith, a Jackson Police Department homicide detective, who had been conducting the police interview with Powell, are found dead in a 3rd floor room of the department, according to Jackson Police Chief Rebecca Coleman. ](/news/2013/04/4/in-jackson-mississippi-jeremy-powell-23-a-suspect-in-the-stabbing-death-of-a-20-year-old-male-and-eric-smith-a-jackson-police-departme.md)
-_Context: Mississippi, homicide, interview, detective, stabbed, Jackson_
+_Context: interview, homicide, stabbed, Jackson, Mississippi, detective_
 
 ##### Banda Aceh
 ### [Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. ](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.md)
-_Context: Islam, Indonesia, emblem, separatist, Aceh, Banda Aceh_
+_Context: separatist, Banda Aceh, emblem, Aceh, Indonesia, Islam_
 
 ##### Hubble Space Telescope
 ### [The Hubble Space Telescope observes the most distant supernova on record. ](/news/2013/04/4/the-hubble-space-telescope-observes-the-most-distant-supernova-on-record.md)
@@ -91,9 +91,9 @@ Scientists using the Hubble Space Telescope caught sight of Supernova UDS10Wil&#
 ### [Scientists unveil a 3D printer which creates material very similar to human tissue. ](/news/2013/04/4/scientists-unveil-a-3d-printer-which-creates-material-very-similar-to-human-tissue.md)
 Scientists have built a 3-D printer that creates material resembling human tissues. The novel substance, a deceptively simple network of water droplets coated in lipids, could one day be used to...
 
-##### tarantula
+##### Tarantula
 ### [A new species of giant tarantula, "Poecilotheria rajaei", is discovered in Sri Lanka. ](/news/2013/04/4/a-new-species-of-giant-tarantula-poecilotheria-rajaei-is-discovered-in-sri-lanka.md)
-_Context: Poecilotheria rajaei, tarantula, Sri Lanka_
+_Context: tarantula, Sri Lanka, Poecilotheria rajaei_
 
 ## [Previous Day...](/news/2013/04/3/index.md)
 

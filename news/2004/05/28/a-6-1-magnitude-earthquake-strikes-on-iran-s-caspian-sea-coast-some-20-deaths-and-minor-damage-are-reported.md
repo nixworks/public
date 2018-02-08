@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/28/a-6-1-magnitude-earthquake-strikes-on-iran-s-ca
 
 ### [2004-05-28](/news/2004/05/28/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 6.1-magnitude earthquake strikes on Iran's Caspian Sea coast. Some 20 deaths and minor damage are reported. 
 
 

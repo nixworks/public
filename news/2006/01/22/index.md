@@ -3,17 +3,17 @@ Formats: [HTML](2006/01/22/index.html)  [JSON](2006/01/22/index.json)  [XML](200
 
 ## [2006-01-22](/news/2006/01/22/index.md)
 
-##### diplomat
+##### Diplomat
 ### [ British diplomats are accused of spying on Russia using a fake rock. ](/news/2006/01/22/british-diplomats-are-accused-of-spying-on-russia-using-a-fake-rock.md)
-_Context: diplomat, espionage, rock_
+_Context: rock, espionage, diplomat_
 
 ##### Evo Morales
 ### [ Evo Morales is inaugurated as President of Bolivia, becoming the country's first indigenous American president. ](/news/2006/01/22/evo-morales-is-inaugurated-as-president-of-bolivia-becoming-the-country-s-first-indigenous-american-president.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### pipeline explosions
+##### Pipeline explosions
 ### [ Fears of sabotage ensue after explosions of two gas pipelines in Russia's North Ossetian Republic suspend gas supply to Georgia and Armenia. ](/news/2006/01/22/fears-of-sabotage-ensue-after-explosions-of-two-gas-pipelines-in-russia-s-north-ossetian-republic-suspend-gas-supply-to-georgia-and-armenia.md)
-_Context:  Georgian, North Ossetia, Armenia, pipeline explosions_
+_Context: Armenia, pipeline explosions,  Georgian, North Ossetia_
 
 ## [Previous Day...](/news/2006/01/21/index.md)
 

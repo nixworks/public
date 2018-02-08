@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/03/23/two-million-to-three-million-trade-union-member
 
 ### [2002-03-23](/news/2002/03/23/index.md)
 
-##### labour unions
+##### Labour unions
 # Two million to three million trade union members rally in Rome in protest both of labor legislation filed by Prime Minister of Italy Silvio Berlusconi and of the assassination of Marco Biagi, an advisor to the Labor Minister, by the re-formed Red Brigades. Labor leaders threaten a general strike if the legislation is passed.
 
 

@@ -3,25 +3,25 @@ Formats: [HTML](2010/10/26/index.html)  [JSON](2010/10/26/index.json)  [XML](201
 
 ## [2010-10-26](/news/2010/10/26/index.md)
 
-##### curfew
+##### Curfew
 ### [A curfew is imposed on two villages in southeastern Nigeria's Cross River State following communal violence which killed 30 people. ](/news/2010/10/26/a-curfew-is-imposed-on-two-villages-in-southeastern-nigeria-s-cross-river-state-following-communal-violence-which-killed-30-people.md)
 CROSS RIVER State government has condemned the deplorable and tragic communal clash which occurred on Saturday in Boki Local Government Area between Nsadop and Boje communities, over land rights, which claimed about 35 lives and imposed a dusk to dawn curfew on the two warring communities and their ...
 
 ##### Iraq
 ### [10 killed, 13 wounded in Iraq gold market robbery in a market in Kirkuk, 250 km north of Baghdad. ](/news/2010/10/26/10-killed-13-wounded-in-iraq-gold-market-robbery-in-a-market-in-kirkuk-250-km-north-of-baghdad.md)
-_Context: Baghdad, Iraq, Kirkuk_
+_Context: Kirkuk, Iraq, Baghdad_
 
 ##### State Security Service
 ### [Nigeria's State Security Service intercepts an arms shipment in Lagos amid high security following bomb attacks in Abuja earlier this month. ](/news/2010/10/26/nigeria-s-state-security-service-intercepts-an-arms-shipment-in-lagos-amid-high-security-following-bomb-attacks-in-abuja-earlier-this-month.md)
-_Context: Abuja car bombings, Abuja, State Security Service, Lagos_
+_Context: State Security Service, Lagos, Abuja car bombings, Abuja_
 
 ##### Emperor of Exmoor
 ### [The Emperor of Exmoor, a red deer believed to be Britain's largest wild animal, is shot and killed. ](/news/2010/10/26/the-emperor-of-exmoor-a-red-deer-believed-to-be-britain-s-largest-wild-animal-is-shot-and-killed.md)
-_Context: red deer, Great Britain, Emperor of Exmoor_
+_Context: Emperor of Exmoor, red deer, Great Britain_
 
 ##### New Zealand Government
 ### [Crisis talks between the New Zealand Government and Warner Bros. to prevent "The Hobbit" film project from moving its production to another country have ended inconclusively. ](/news/2010/10/26/crisis-talks-between-the-new-zealand-government-and-warner-bros-to-prevent-the-hobbit-film-project-from-moving-its-production-to-another.md)
-_Context: New Zealand Government, Warner Bros., ''The Hobbit'' film project_
+_Context: New Zealand Government, ''The Hobbit'' film project, Warner Bros._
 
 ##### Shanghai-Hangzhou High-Speed Railway
 ### [The Shanghai-Hangzhou High-Speed Railway, with a top speed of 355 km-h begins operation. ](/news/2010/10/26/the-shanghaiahangzhou-high-speed-railway-with-a-top-speed-of-355-km-h-begins-operation.md)
@@ -29,11 +29,11 @@ _Context: Shanghai-Hangzhou High-Speed Railway_
 
 ##### Three Gorges Dam
 ### [The water level of the Three Gorges Dam, the world's largest water control and utilization project, reaches its designed full capacity mark. ](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.md)
-_Context: Three Gorges Dam, world's largest water control and utilization project_
+_Context: world's largest water control and utilization project, Three Gorges Dam_
 
 ##### Cabinet of Japan
 ### [The Japanese Cabinet approves an extra budget containing an emergency economic stimulus package to help shore up the economy. ](/news/2010/10/26/the-japanese-cabinet-approves-an-extra-budget-containing-an-emergency-economic-stimulus-package-to-help-shore-up-the-economy.md)
-_Context: Cabinet of Japan, economic stimulus, Japanese economy_
+_Context: economic stimulus, Japanese economy, Cabinet of Japan_
 
 ##### Independent Print Limited
 ### [Independent Print Limited launches "i", the UK's first national daily newspaper in a quarter of a century. ](/news/2010/10/26/independent-print-limited-launches-i-the-uk-s-first-national-daily-newspaper-in-a-quarter-of-a-century.md)
@@ -49,13 +49,13 @@ George Osborne says better-than-expected economic figures show the recovery is &
 
 ##### United States
 ### [All 3 dead in US small plane crash in southwest Washington state, about 10 miles (16 km) northeast of Morton. ](/news/2010/10/26/all-3-dead-in-us-small-plane-crash-in-southwest-washington-state-about-10-miles-16-km-northeast-of-morton.md)
-_Context: United States, Washington, Morton_
+_Context: Morton, Washington, United States_
 
 ##### Susilo Bambang Yudhoyono
 ### [After receiving orders from President Susilo Bambang Yudhoyono, who is now on his visit program to China and Vietnam, Indonesian Public Welfare Minister Agung Laksono declares an emergency response. ](/news/2010/10/26/after-receiving-orders-from-president-susilo-bambang-yudhoyono-who-is-now-on-his-visit-program-to-china-and-vietnam-indonesian-public-welf.md)
 A tsunami that pounded remote islands in western Indonesia following an earthquake off the coast of Sumatra killed more than 100 people, officials said on Tuesday, and hundreds more were missing.
 
-##### cholera
+##### Cholera
 ### [A cholera outbreak kills 559 in Cameroon. ](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.md)
 _Context: Cameroon, cholera_
 
@@ -69,19 +69,19 @@ Residents face aftermath of powerful Cyclone Giri, as aid groups warn number of 
 
 ##### World Health Organization
 ### [The World Health Organization announces a mass polio vaccination campaign across Africa, the same day an outbreak of the disease in Uganda is declared. ](/news/2010/10/26/the-world-health-organization-announces-a-mass-polio-vaccination-campaign-across-africa-the-same-day-an-outbreak-of-the-disease-in-uganda-i.md)
-_Context: polio, Uganda, Africa, World Health Organization_
+_Context: Uganda, polio, Africa, World Health Organization_
 
-##### vertebrate
+##### Vertebrate
 ### [Approximately 1 in 5 vertebrate species are threatened with extinction according to scientist taking part in the Nagoya talks.](/news/2010/10/26/approximately-1-in-5-vertebrate-species-are-threatened-with-extinction-according-to-scientist-taking-part-in-the-nagoya-talks.md)
 _Context: vertebrate, Holocene extinction_
 
 ##### Emir of Qatar
 ### [The Emir of Qatar begins a state visit to the United Kingdom by meeting Queen Elizabeth II at Windsor Palace. ](/news/2010/10/26/the-emir-of-qatar-begins-a-state-visit-to-the-united-kingdom-by-meeting-queen-elizabeth-ii-at-windsor-palace.md)
-_Context: United Kingdom, Elizabeth II, Emir of Qatar, Windsor Castle_
+_Context: Elizabeth II, Windsor Castle, Emir of Qatar, United Kingdom_
 
 ##### Ecuador
 ### [Ecuador throws its support behind Peru in their demands for the return of over 40,000 Machu Picchu artifacts taken by US explorer Hiram Bingham III, and now in Yale's possession. ](/news/2010/10/26/ecuador-throws-its-support-behind-peru-in-their-demands-for-the-return-of-over-40-000-machu-picchu-artifacts-taken-by-us-explorer-hiram-bing.md)
-_Context: ancient artifacts, Peru, Ecuador, Yale, Hiram Bingham III, Machu Picchu_
+_Context: Yale, Hiram Bingham III, Machu Picchu, Peru, Ecuador, ancient artifacts_
 
 ##### United States
 ### [The United States has fallen to a new low of 22nd place in Transparency International's rating of the least corrupt nations, noting various financial scandals and a lack of regulation leading to power being bought. ](/news/2010/10/26/the-united-states-has-fallen-to-a-new-low-of-22nd-place-in-transparency-international-s-rating-of-the-least-corrupt-nations-noting-various.md)
@@ -89,7 +89,7 @@ The United States has dropped out of the &quot;top 20&quot; in a global league t
 
 ##### Hungary
 ### [Hungarian-born multibillionaire George Soros donates $1 million to the Drug Policy Alliance to fund California's Proposition 19 in the upcoming November 2, 2010 elections that would legalize marijuana in the state if passed. ](/news/2010/10/26/hungarian-born-multibillionaire-george-soros-donates-1-million-to-the-drug-policy-alliance-to-fund-california-s-proposition-19-in-the-upcom.md)
-_Context: November 2, 2010 elections, Hungary, Proposition 19, George Soros, cannabis, California, Drug Policy Alliance_
+_Context: George Soros, Hungary, cannabis, Drug Policy Alliance, California, November 2, 2010 elections, Proposition 19_
 
 ##### Iraq
 ### [Former Foreign Minister of Iraq Tariq Aziz is sentenced to death for persecuting members of the Islamic Dawa Party during Saddam Hussein's regime. ](/news/2010/10/26/former-foreign-minister-of-iraq-tariq-aziz-is-sentenced-to-death-for-persecuting-members-of-the-islamic-dawa-party-during-saddam-hussein-s-r.md)
@@ -109,11 +109,11 @@ _Context: Egypt, Muslim Brotherhood, Egyptian parliamentary elections_
 
 ##### Tibet Military Command
 ### [The Tibet Military Command of the Chinese People's Liberation Army (PLA) holds the first air-ground live ammunition drill in Tibet. ](/news/2010/10/26/the-tibet-military-command-of-the-chinese-people-s-liberation-army-pla-holds-the-first-air-ground-live-ammunition-drill-in-tibet.md)
-_Context: Tibet, Tibet Military Command, Chinese People's Liberation Army_
+_Context: Tibet, Chinese People's Liberation Army, Tibet Military Command_
 
 ##### Iran
 ### [Iran starts loading fuel into the Bushehr Nuclear Plant, its first nuclear power plant. ](/news/2010/10/26/iran-starts-loading-fuel-into-the-bushehr-nuclear-plant-its-first-nuclear-power-plant.md)
-_Context: Iran, nuclear power, Bushehr Nuclear Plant_
+_Context: nuclear power, Iran, Bushehr Nuclear Plant_
 
 ## [Previous Day...](/news/2010/10/25/index.md)
 

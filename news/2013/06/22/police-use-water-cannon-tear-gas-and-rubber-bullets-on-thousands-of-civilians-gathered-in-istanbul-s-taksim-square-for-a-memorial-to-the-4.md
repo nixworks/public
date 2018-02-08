@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/22/police-use-water-cannon-tear-gas-and-rubber-bul
 
 ### [2013-06-22](/news/2013/06/22/index.md)
 
-##### water cannon
+##### Water cannon
 # Police use water cannon, tear gas and rubber bullets on thousands of civilians gathered in Istanbul's Taksim Square for a memorial to the 4 protestors killed in previous days. 
 
 

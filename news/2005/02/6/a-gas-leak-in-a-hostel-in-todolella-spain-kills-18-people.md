@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/6/a-gas-leak-in-a-hostel-in-todolella-spain-kills-
 
 ### [2005-02-6](/news/2005/02/6/index.md)
 
-##### hostel
+##### Hostel
 #  A gas leak in a hostel in Todolella, Spain kills 18 people. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/19/a-bomb-at-a-paramilitary-police-training-academ
 
 ### [2008-08-19](/news/2008/08/19/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb at a paramilitary police training academy in the town of Issers 60 km east of Algiers kills at least 43 people and injures another 38. 
 
 

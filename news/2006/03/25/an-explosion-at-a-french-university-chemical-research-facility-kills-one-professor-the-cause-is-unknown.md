@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/25/an-explosion-at-a-french-university-chemical-re
 
 ### [2006-03-25](/news/2006/03/25/index.md)
 
-##### university
+##### University
 #  An explosion at a French university chemical research facility kills one professor. The cause is unknown. 
 
 

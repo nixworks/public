@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/3/former-president-of-pakistan-pervez-musharraf-su
 
 ### [2014-04-3](/news/2014/04/3/index.md)
 
-##### president
+##### President
 # Former President of Pakistan Pervez Musharraf survives an assassination attempt in Islamabad, Pakistan. There are no reports of injuries. 
 
 

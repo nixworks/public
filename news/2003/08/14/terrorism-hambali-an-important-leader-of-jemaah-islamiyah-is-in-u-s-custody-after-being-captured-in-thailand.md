@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/14/terrorism-hambali-an-important-leader-of-jemaah
 
 ### [2003-08-14](/news/2003/08/14/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: Hambali, an important leader of Jemaah Islamiyah, is in U.S. custody after being captured in Thailand.
 
 

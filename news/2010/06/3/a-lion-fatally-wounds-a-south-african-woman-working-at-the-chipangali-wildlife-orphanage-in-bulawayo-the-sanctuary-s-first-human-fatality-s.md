@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/3/a-lion-fatally-wounds-a-south-african-woman-work
 
 ### [2010-06-3](/news/2010/06/3/index.md)
 
-##### lion
+##### Lion
 # A lion fatally wounds a South African woman working at the Chipangali Wildlife Orphanage in Bulawayo, the sanctuary's first human fatality since its establishment three decades ago. 
 
 A lion attacks and kills a South African woman working at a wildlife orphanage in Zimbabwe.

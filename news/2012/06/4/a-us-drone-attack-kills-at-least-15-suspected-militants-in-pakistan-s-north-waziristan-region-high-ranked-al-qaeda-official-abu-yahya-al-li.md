@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/4/a-us-drone-attack-kills-at-least-15-suspected-mi
 
 ### [2012-06-4](/news/2012/06/4/index.md)
 
-##### drone attack
+##### Drone attack
 # A US drone attack kills at least 15 suspected militants in Pakistan's North Waziristan region. High ranked al-Qaeda official Abu Yahya al-Libi is killed in the attack. 
 
 

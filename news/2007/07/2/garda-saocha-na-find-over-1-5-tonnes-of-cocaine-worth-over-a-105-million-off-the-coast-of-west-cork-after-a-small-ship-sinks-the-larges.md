@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/2/garda-saocha-na-find-over-1-5-tonnes-of-cocaine-
 
 ### [2007-07-2](/news/2007/07/2/index.md)
 
-##### police officer
+##### Police officer
 #  Garda Siochana find over 1.5 tonnes of cocaine worth over EUR105 million off the coast of West Cork after a small ship sinks - the largest cocaine seizure in the history of Ireland. The naval diving squad are continuing the search, as experts believe more of the drug is still in the sea. 
 
 Customs officials have recovered 61 bales of cocaine in west Cork in the largest seizure of the drug in the history of the State.

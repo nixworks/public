@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/9/an-earthquake-measuring-7-3-on-the-richter-scale
 
 ### [2005-09-9](/news/2005/09/9/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake measuring 7.3 on the Richter scale is detected off the eastern coast of Papua New Guinea, though no damage has been recorded. 
 
 

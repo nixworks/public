@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/23/the-socialist-workers-party-following-the-party
 
 ### [2016-10-23](/news/2016/10/23/index.md)
 
-##### ten month interregnum
+##### Ten month interregnum
 # The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. 
 
 

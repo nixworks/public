@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/2/russia-is-reportedly-constructing-hundreds-of-bu
 
 ### [2015-12-2](/news/2015/12/2/index.md)
 
-##### rival territorial claims
+##### Rival territorial claims
 # Russia is reportedly constructing hundreds of buildings for military use on the disputed Kunashir and Iturup islands, also claimed by Japan, in the Sea of Okhotsk. The Russian Defence Ministry said the new military buildings would help "raise the combat readiness of troops on the eastern frontiers of Russia". 
 
 Russia is constructing hundreds of military buildings on two of the disputed Kuril Islands, Russian Defense Minister Sergei Shoigu has said.

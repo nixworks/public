@@ -13,7 +13,7 @@ Presiding over the weapons’ destruction, President Vladimir V. Putin suggested
 
 ##### 2017 Kalynivka ammunition depot explosion
 ### [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md)
-_Context: sabotage, Government of Ukraine, 2017 Kalynivka ammunition depot explosion, Ukraine, Kalynivka, Kiev_
+_Context: Kiev, sabotage, Kalynivka, 2017 Kalynivka ammunition depot explosion, Ukraine, Government of Ukraine_
 
 ##### Atlantic hurricanes
 ### [Maria strengthens into a hurricane and causes flooding in the Outer Banks of North Carolina. ](/news/2017/09/27/maria-strengthens-into-a-hurricane-and-causes-flooding-in-the-outer-banks-of-north-carolina.md)
@@ -43,7 +43,7 @@ Ireland is to hold a referendum on abortion in 2018, it has been announced. A de
 ### [The government of Iraqi Kurdistan announces that they won the referendum by over 92% of the vote. ](/news/2017/09/27/the-government-of-iraqi-kurdistan-announces-that-they-won-the-referendum-by-over-92-of-the-vote.md)
 Almost 93 per cent of those who took part in the referendum on support for Kurdish independence from Iraq have vo
 
-##### caretaker
+##### Caretaker
 ### [Former members of the Alternative fur Deutschland party Frauke Petry and Marcus Pretzell may create a new party. ](/news/2017/09/27/former-members-of-the-alternative-fa1-4r-deutschland-party-frauke-petry-and-marcus-pretzell-may-create-a-new-party.md)
 Two breakaway members of Germany&#39;s right-wing AfD party seem set on forming a separate faction in the Bundestag parliament and even a new party. But a freshly elected AfD leader says the move is &quot;doomed to failure.&quot;
 
@@ -53,7 +53,7 @@ California will move its presidential primary from June to March under a bill si
 
 ##### Russian interference in the 2016 United States elections 
 ### [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md)
-_Context: Google, Facebook, House Intelligence Committee, Senate Intelligence Committee, Russian interference in the 2016 United States elections , Twitter_
+_Context: House Intelligence Committee, Google, Facebook, Twitter, Senate Intelligence Committee, Russian interference in the 2016 United States elections _
 
 ## [Previous Day...](/news/2017/09/26/index.md)
 

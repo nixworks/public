@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/3/aftermath-of-2011-libyan-civil-war-elements-of-f
 
 ### [2012-01-3](/news/2012/01/3/index.md)
 
-##### civil war
+##### Civil war
 # Aftermath of 2011 Libyan civil war: elements of former anti-Gaddafi forces from Tripoli and Misrata clash in the center of Tripoli, with five people reportedly killed. 
 
 

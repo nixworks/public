@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/8/a-fire-in-a-nursing-home-in-egg-austria-kills-at
 
 ### [2008-02-8](/news/2008/02/8/index.md)
 
-##### nursing home
+##### Nursing home
 #  A fire in a nursing home in Egg, Austria kills at least 11 people. 
 
 

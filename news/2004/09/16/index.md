@@ -13,23 +13,23 @@ _Context: Manitoba, Same-sex marriage in Canada_
 
 ##### Afghanistan
 ### [ Afghan President Hamid Karzai survives an assassination attempt when a rocket misses his helicopter, bound for the city of Gardez, by some 300 yards (275 m). The helicopter returned to Kabul. ](/news/2004/09/16/afghan-president-hamid-karzai-survives-an-assassination-attempt-when-a-rocket-misses-his-helicopter-bound-for-the-city-of-gardez-by-some.md)
-_Context: Afghanistan, Gardez, Hamid Karzai, Kabul_
+_Context: Hamid Karzai, Afghanistan, Gardez, Kabul_
 
 ##### Indonesia
 ### [ Indonesia sentences Islamic militant "Ismail", also known as Ricky Putranto, to 12 years in prison for his role in the bombing of a Marriott hotel in Jakarta last year. ](/news/2004/09/16/indonesia-sentences-islamic-militant-ismail-also-known-as-ricky-putranto-to-12-years-in-prison-for-his-role-in-the-bombing-of-a-marriot.md)
-_Context: 2003 Marriott Hotel bombing, Jakarta, Ricky Putranto, Indonesia_
+_Context: Jakarta, Ricky Putranto, Indonesia, 2003 Marriott Hotel bombing_
 
 ##### The New York Times
 ### [ "The New York Times," citing unnamed United States government officials, reports that, in late July, the National Intelligence Council prepared a pessimistic classified report for President George W. Bush that predicted three likely outcomes for Iraq by the end of 2005, the best of which is "tenuous stability", and the worst of which is a descent into civil war. ](/news/2004/09/16/the-new-york-times-citing-unnamed-united-states-government-officials-reports-that-in-late-july-the-national-intelligence-council-prep.md)
-_Context: The New York Times, July, United States government, George W. Bush, National Intelligence Council, state secrets, U.S. President, civil war_
+_Context: The New York Times, state secrets, George W. Bush, civil war, United States government, July, U.S. President, National Intelligence Council_
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan reluctantly describes the 2003 U.S.-led invasion of Iraq as an "illegal" violation of the UN Charter, in response to repeated questions on the subject during a press conference. ](/news/2004/09/16/united-nations-secretary-general-kofi-annan-reluctantly-describes-the-2003-u-s-led-invasion-of-iraq-as-an-illegal-violation-of-the-un-ch.md)
-_Context: law, UN Charter, United Nations Secretary-General, Kofi Annan, Iraq, 2003 invasion of Iraq_
+_Context: Kofi Annan, Iraq, UN Charter, United Nations Secretary-General, 2003 invasion of Iraq, law_
 
 ##### Central Committee
 ### [ The Central Committee of the Communist Party of China convenes in Beijing for four days with speculation over whether Jiang Zemin will resign from his remaining post as Chairman of the Central Military Commission. ](/news/2004/09/16/the-central-committee-of-the-communist-party-of-china-convenes-in-beijing-for-four-days-with-speculation-over-whether-jiang-zemin-will-resi.md)
-_Context: Chairman of the Central Military Commission, Central Committee, Jiang Zemin, Beijing_
+_Context: Central Committee, Chairman of the Central Military Commission, Jiang Zemin, Beijing_
 
 ##### Prince Joachim of Denmark
 ### [ HRH Prince Joachim of Denmark and Alexandra Christina Manley announce their separation and eventual divorce. ](/news/2004/09/16/hrh-prince-joachim-of-denmark-and-alexandra-christina-manley-announce-their-separation-and-eventual-divorce.md)
@@ -37,7 +37,7 @@ _Context: Prince Joachim of Denmark, Alexandra Christina Manley_
 
 ##### Hurricane Ivan
 ### [ The eye of Hurricane Ivan makes landfall near Mobile, Alabama, in the early morning, killing at least 33 and causing an estimated USD 4&ndash;10 billion in flood, wind, and other storm damage across the Gulf Coast of the United States. By late afternoon, Ivan is downgraded to a tropical storm. ](/news/2004/09/16/the-eye-of-hurricane-ivan-makes-landfall-near-mobile-alabama-in-the-early-morning-killing-at-least-33-and-causing-an-estimated-usd-4-nda.md)
-_Context: tropical storm, Gulf Coast, Hurricane Ivan, Mobile, Alabama_
+_Context: tropical storm, Gulf Coast, Mobile, Alabama, Hurricane Ivan_
 
 ## [Previous Day...](/news/2004/09/15/index.md)
 

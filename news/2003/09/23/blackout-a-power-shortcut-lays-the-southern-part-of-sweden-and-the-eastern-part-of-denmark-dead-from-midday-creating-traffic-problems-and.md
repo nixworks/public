@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/23/blackout-a-power-shortcut-lays-the-southern-par
 
 ### [2003-09-23](/news/2003/09/23/index.md)
 
-##### power outage
+##### Power outage
 #  Blackout: A power shortcut lays the southern part of Sweden and the eastern part of Denmark dead from midday, creating traffic problems and other disruptions throughout the area. About 2-3 million people are affected. From 4 p.m. Copenhagen has power again. A Swedish nuclear power plant abruptly stopped producing power.
 
 

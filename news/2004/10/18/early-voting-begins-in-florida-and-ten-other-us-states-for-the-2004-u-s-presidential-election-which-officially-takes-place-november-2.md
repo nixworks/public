@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/18/early-voting-begins-in-florida-and-ten-other-us
 
 ### [2004-10-18](/news/2004/10/18/index.md)
 
-##### the state
+##### The state
 #  Early voting begins in Florida and ten other US states for the 2004 U.S. presidential election, which officially takes place November 2. 
 
 

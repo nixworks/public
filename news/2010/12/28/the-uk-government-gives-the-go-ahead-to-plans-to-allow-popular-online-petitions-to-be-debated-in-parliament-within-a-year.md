@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/28/the-uk-government-gives-the-go-ahead-to-plans-t
 
 ### [2010-12-28](/news/2010/12/28/index.md)
 
-##### e-petition
+##### E-petition
 # The UK Government gives the go-ahead to plans to allow popular online petitions to be debated in Parliament within a year. 
 
 A plan to allow popular online petitions to be debated in Parliament within a year is given the go-ahead by the government.

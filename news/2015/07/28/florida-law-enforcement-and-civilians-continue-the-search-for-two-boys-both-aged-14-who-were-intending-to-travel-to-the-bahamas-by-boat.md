@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/28/florida-law-enforcement-and-civilians-continue-
 
 ### [2015-07-28](/news/2015/07/28/index.md)
 
-##### the state
+##### The state
 # Florida law enforcement and civilians continue the search for two boys, both aged 14, who were intending to travel to the Bahamas by boat. 
 
 

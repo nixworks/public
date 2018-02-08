@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/11/twin-suicide-bombings-in-marjeh-square-in-damas
 
 ### [2013-06-11](/news/2013/06/11/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Twin suicide bombings in Marjeh Square in Damascus kill at least 14 people and injure 31. 
 
 

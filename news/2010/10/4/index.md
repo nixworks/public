@@ -31,9 +31,9 @@ Four securitymen killed as Naxals trigger blast in Gadchiroli - Initial reports 
 ### [TVNZ "Breakfast" race row: ](/news/2010/10/4/tvnz-breakfast-race-row.md)
 Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion and reader comment from New Zealand and around the World - NZ Herald
 
-##### high altitude
+##### High altitude
 ### [The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. ](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-settlement-estimated-to-be-49-000-years-old-is-uncovered-near-kokoda-papua-new-guinea.md)
-_Context: Papua New Guinea, Kokoda, high altitude, human settlement_
+_Context: Kokoda, Papua New Guinea, high altitude, human settlement_
 
 ##### Jonathan Evans
 ### [Jonathan Evans, head of Britain's MI5, gives a rare interview, disclosing details of his love for classics and calling for wider availability of Latin and Greek in schools as, he claims, they are useful for spies. ](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.md)
@@ -55,7 +55,7 @@ Around 400 fans, celebrities, friends, and family members bid farewell to actor 
 ### [2001 Nobel laureate economist Joseph Stiglitz warns of a "wave of austerity" set to sweep across Europe, triggering a new recession and the demise of the euro, and predicts Spain will enter a "death spiral" - similar to that of Argentina a decade ago - when it is attacked by speculators. ](/news/2010/10/4/2001-nobel-laureate-economist-joseph-stiglitz-warns-of-a-wave-of-austerity-set-to-sweep-across-europe-triggering-a-new-recession-and-the.md)
 Nobel laureate economist Joseph Stiglitz has warned a &quot;wave of austerity&quot; is sweeping across Europe that could trigger a new recession, in comments published in a newspaper Sunday.
 
-##### austerity
+##### Austerity
 ### [The Greek government announces additional harsher austerity measures in its 2011 draft budget. ](/news/2010/10/4/the-greek-government-announces-additional-harsher-austerity-measures-in-its-2011-draft-budget.md)
 _Context: austerity_
 
@@ -65,11 +65,11 @@ The suit centers on rules and fees the companies impose on merchants. They are c
 
 ##### Indonesia
 ### [Indonesian Coordinating Minister for Public Welfare Affairs Agung Laksono said here on Tuesday that the massive flood in Wasior, West Papua that continuously occurred from Sunday to Monday has claimed 56 lives. ](/news/2010/10/4/indonesian-coordinating-minister-for-public-welfare-affairs-agung-laksono-said-here-on-tuesday-that-the-massive-flood-in-wasior-west-papua.md)
-_Context: Indonesia, Agung Laksono, Wasior, West Papua_
+_Context: Wasior, Agung Laksono, Indonesia, West Papua_
 
 ##### Hatay Province
 ### [3 people were killed and 5 were injured after a boiler exploded in a tannery in Hatay in the Dericiler area of Guzelburc town. The injured were taken to Mustafa Kemal University's faculty of medicine hospital. ](/news/2010/10/4/3-people-were-killed-and-5-were-injured-after-a-boiler-exploded-in-a-tannery-in-hatay-in-the-dericiler-area-of-ga1-4zelburass-town-the-injured.md)
-_Context: Hatay Province, Guzelburc, Mustafa Kemal University_
+_Context: Hatay Province, Mustafa Kemal University, Guzelburc_
 
 ##### Netravati Express
 ### [Two persons were killed when a mini-lorry was hit by the Netravati Express, they were travelling at an unmanned level crossing at Panachuvadu near Punnapra, India. ](/news/2010/10/4/two-persons-were-killed-when-a-mini-lorry-was-hit-by-the-netravati-express-they-were-travelling-at-an-unmanned-level-crossing-at-panachuvad.md)
@@ -81,7 +81,7 @@ _Context: Indonesia, Papua_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao and Japanese Prime Minister Naoto Kan met in Brussels, on the sidelines of the Asia-Europe Meeting. ](/news/2010/10/4/chinese-premier-wen-jiabao-and-japanese-prime-minister-naoto-kan-met-in-brussels-on-the-sidelines-of-the-asiaaeurope-meeting.md)
-_Context: Wen Jiabao, Asia-Europe Meeting, Naoto Kan_
+_Context: Asia-Europe Meeting, Naoto Kan, Wen Jiabao_
 
 ##### Asia-Europe Meeting
 ### [The 2010 Asia-Europe Meeting commences in Brussels, Belgium with Russia, Australia and New Zealand joining the discussions. ](/news/2010/10/4/the-2010-asiaaeurope-meeting-commences-in-brussels-belgium-with-russia-australia-and-new-zealand-joining-the-discussions.md)
@@ -109,7 +109,7 @@ Dutch anti-Islam MP Geert Wilders tells a court he will not be silenced, as he g
 
 ##### Syria
 ### [Syria issues arrest warrants for more than 30 people accused of misleading an investigation into the 2005 assassination of Lebanon's former prime minister Rafic Hariri. ](/news/2010/10/4/syria-issues-arrest-warrants-for-more-than-30-people-accused-of-misleading-an-investigation-into-the-2005-assassination-of-lebanon-s-former.md)
-_Context: Rafic Hariri, Syria, Lebanon_
+_Context: Lebanese, Syria, Rafic Hariri_
 
 ##### Prime Minister
 ### [Former Prime Minister of Fiji Mahendra Chaudhry is released on bail. ](/news/2010/10/4/former-prime-minister-of-fiji-mahendra-chaudhry-is-released-on-bail.md)

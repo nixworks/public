@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/4/the-cave-squeaker-arthroleptis-troglodytes-a-cri
 
 ### [2017-02-4](/news/2017/02/4/index.md)
 
-##### cave squeaker
+##### Cave squeaker
 # The cave squeaker ("Arthroleptis troglodytes"), a critically endangered species of frog, is located and captured for the first time since 1962. Scientists announce plans to breed. 
 
 

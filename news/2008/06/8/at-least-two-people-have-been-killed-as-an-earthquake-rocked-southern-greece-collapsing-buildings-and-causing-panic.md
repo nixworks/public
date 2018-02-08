@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/8/at-least-two-people-have-been-killed-as-an-earth
 
 ### [2008-06-8](/news/2008/06/8/index.md)
 
-##### an earthquake
+##### An earthquake
 #  At least two people have been killed as an earthquake rocked southern Greece, collapsing buildings and causing panic. 
 
 

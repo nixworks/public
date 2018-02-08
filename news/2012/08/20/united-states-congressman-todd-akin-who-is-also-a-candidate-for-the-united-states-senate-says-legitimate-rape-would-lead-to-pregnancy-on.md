@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/20/united-states-congressman-todd-akin-who-is-also
 
 ### [2012-08-20](/news/2012/08/20/index.md)
 
-##### lawmakers
+##### Lawmakers
 # United States Congressman Todd Akin, who is also a candidate for the United States Senate, says "legitimate rape" would lead to pregnancy only in "really rare" cases. In a follow-up statement, he says that he "clearly misspoke" and that he holds a "deep empathy" for the "thousands of women who are raped each year". He stirs a US-wide controversy over the issue of abortion. 
 
 ST. LOUIS, MO ( KTVI) -U.S. Rep. Todd Akin says he misspoke when making a comment about rape and abortion during the taping of The Jaco Report on FOX 2. That remark made national headlines and sparked responses from both Akin’s opponent, Sen. Claire McCaskill and presidential hopeful Mitt Romney.

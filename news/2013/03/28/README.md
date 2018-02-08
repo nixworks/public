@@ -21,13 +21,13 @@ Mortar fire hits the University of Damascus, killing 15 students and wounding se
 
 ##### Barbara Walters
 ### [Barbara Walters, longtime newswoman and host of the American talk show "The View", announces plans to retire in May 2014. ](/news/2013/03/28/barbara-walters-longtime-newswoman-and-host-of-the-american-talk-show-the-view-announces-plans-to-retire-in-may-2014.md)
-_Context: United States, The View, talk show, Barbara Walters_
+_Context: The View, talk show, United States, Barbara Walters_
 
 ##### Olivier Award
 ### [Olivier Award and Tony Award winning actor Richard Griffiths dies at the age of 65. ](/news/2013/03/28/olivier-award-and-tony-award-winning-actor-richard-griffiths-dies-at-the-age-of-65.md)
 This vastly endearing actor, who made such an impression in Withnail And I and The History Boys, was someone you felt you knew &ndash; and wanted to know better
 
-##### collapse
+##### Collapse
 ### [2012-2013 Cypriot financial crisis: Security tightens in Cyprus as banks prepare to reopen after nearly two weeks, following a controversial international bailout that was negotiated with the European Union and the International Monetary Fund. ](/news/2013/03/28/2012a2013-cypriot-financial-crisis-security-tightens-in-cyprus-as-banks-prepare-to-reopen-after-nearly-two-weeks-following-a-controversi.md)
 Banks in Cyprus reopen after a two-week closure sparked by negotiations over an EU-IMF bailout, but withdrawals are being tightly controlled.
 
@@ -41,7 +41,7 @@ Davao City -- About 40 houses were burned to the ground after a fire broke out i
 
 ##### 193 UN member states
 ### [The members of the United Nations are scheduled to decide on Australian diplomat Peter Woolcott's draft for the first ever treaty to regulate the conventional arms trade. ](/news/2013/03/28/the-members-of-the-united-nations-are-scheduled-to-decide-on-australian-diplomat-peter-woolcott-s-draft-for-the-first-ever-treaty-to-regulat.md)
-_Context: arms sales, United Nations, treaty, Peter Woolcott, Australia, 193 UN member states_
+_Context: United Nations, arms sales, Peter Woolcott, treaty, 193 UN member states, Australia_
 
 ##### Syria
 ### [The Syrian opposition opens its first embassy in Qatar, a day after it was given Damascus's seat at the Arab League. ](/news/2013/03/28/the-syrian-opposition-opens-its-first-embassy-in-qatar-a-day-after-it-was-given-damascus-s-seat-at-the-arab-league.md)
@@ -53,11 +53,11 @@ Russia’s unscheduled war games in the Black Sea that began on Thursday without
 
 ##### Sandy Hook Elementary School shooting
 ### [New details about the Sandy Hook Elementary School shooting are revealed, showing that the massacre was less than 300 seconds long. Search warrants show that perpetrator Adam Lanza had an arsenal in his home. ](/news/2013/03/28/new-details-about-the-sandy-hook-elementary-school-shooting-are-revealed-showing-that-the-massacre-was-less-than-300-seconds-long-search-w.md)
-_Context: Adam Lanza, Sandy Hook Elementary School shooting_
+_Context: Sandy Hook Elementary School shooting, Adam Lanza_
 
 ##### El Salvador
 ### [Edwin Ernesto Rivera Gracias, a Salvadoran national recently added to the FBI's 10 Most Wanted Fugitives list for allegedly committing a 2011 murder in Colorado, surrenders after agreeing to face charges. ](/news/2013/03/28/edwin-ernesto-rivera-gracias-a-salvadoran-national-recently-added-to-the-fbi-s-10-most-wanted-fugitives-list-for-allegedly-committing-a-201.md)
-_Context: Colorado, 10 Most Wanted Fugitives list, FBI, El Salvador_
+_Context: FBI, El Salvador, Colorado, 10 Most Wanted Fugitives list_
 
 ##### United Kingdom
 ### [British-Italian fraudster Giovanni Di Stefano is sentenced to 14 years in jail for fraud. ](/news/2013/03/28/britishaitalian-fraudster-giovanni-di-stefano-is-sentenced-to-14-years-in-jail-for-fraud.md)
@@ -69,11 +69,11 @@ Former cabinet minister Andrew Mitchell is suing the Sun over claims he swore an
 
 ##### President
 ### [Former President of Chile Michelle Bachelet announces that she is running in the Chilean presidential election on November 17. ](/news/2013/03/28/former-president-of-chile-michelle-bachelet-announces-that-she-is-running-in-the-chilean-presidential-election-on-november-17.md)
-_Context: President, Michelle Bachelet, Chile, president_
+_Context: President, Chile, president, Michelle Bachelet_
 
 ##### President
 ### [Former President of South Africa Nelson Mandela is hospitalised with a lung infection. ](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.md)
-_Context: lung infection, South Africa, Nelson Mandela, President_
+_Context: President, lung infection, Nelson Mandela, South Africa_
 
 ##### Italy
 ### [Italy remains in political gridlock as Pier Luigi Bersani announces that the latest attempts to form a stable government have failed. ](/news/2013/03/28/italy-remains-in-political-gridlock-as-pier-luigi-bersani-announces-that-the-latest-attempts-to-form-a-stable-government-have-failed.md)
@@ -85,7 +85,7 @@ _Context: B.C., AD, Shroud of Turin_
 
 ##### Maundy Thursday
 ### [As part of the Maundy Thursday service Pope Francis washes the feet of prisoners at a juvenile detention centre in Rome, Italy. ](/news/2013/03/28/as-part-of-the-maundy-thursday-service-pope-francis-washes-the-feet-of-prisoners-at-a-juvenile-detention-centre-in-rome-italy.md)
-_Context: washes the feet, Italy, Pope Francis, Maundy Thursday, Rome, Italy, juvenile detention centre_
+_Context: juvenile detention centre, Rome, Italy, washes the feet, Italy, Pope Francis, Maundy Thursday_
 
 ##### United States
 ### [American bioengineers at Stanford University build a transistor-like transcriptor out of DNA and RNA molecules. ](/news/2013/03/28/american-bioengineers-at-stanford-university-build-a-transistor-like-transcriptor-out-of-dna-and-rna-molecules.md)

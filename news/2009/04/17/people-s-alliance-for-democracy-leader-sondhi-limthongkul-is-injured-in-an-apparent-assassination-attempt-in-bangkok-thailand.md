@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/17/people-s-alliance-for-democracy-leader-sondhi-l
 
 ### [2009-04-17](/news/2009/04/17/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  People's Alliance for Democracy leader Sondhi Limthongkul is injured in an apparent assassination attempt in Bangkok, Thailand. 
 
 The prime minister of Thailand extended a state of emergency Friday and pledged to launch an investigation into the assassination attempt on a prominent protest leader that occurred here earlier in...

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/25/five-new-species-of-orchid-are-discovered-in-th
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
-##### orchid
+##### Orchid
 # Five new species of orchid are discovered in the Philippines. 
 
 Manila, June 24, 2016 (AFP) -Five new orchid species have been discovered in remote Philippine mountains, protected from poaching because of an insurgency in the region, conservationists said Friday.

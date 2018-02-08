@@ -23,13 +23,13 @@ Chinese authorities announce that artist Ai Weiwei will be allowed to challenge 
 ### [The U.S. state of Nevada approves the country's first self-driven vehicle licence. ](/news/2012/05/8/the-u-s-state-of-nevada-approves-the-country-s-first-self-driven-vehicle-licence.md)
 Driverless cars are set to hit the roads of Nevada as Google is granted the first US autonomous vehicle licence.
 
-##### hunger strike
+##### Hunger strike
 ### [Thaer Halahla, a Palestinian national on hunger strike for 71 days after being jailed by Israeli authorities, is transferred to a civilian hospital. ](/news/2012/05/8/thaer-halahla-a-palestinian-national-on-hunger-strike-for-71-days-after-being-jailed-by-israeli-authorities-is-transferred-to-a-civilian-h.md)
 A Palestinian who has been on hunger strike for 71 days in protest at his detention by the Israeli authorities is transferred to a civilian hospital.
 
 ##### South Africa
 ### [A South African court rules that the country is obliged under international law to investigate human rights abuses in Zimbabwe. ](/news/2012/05/8/a-south-african-court-rules-that-the-country-is-obliged-under-international-law-to-investigate-human-rights-abuses-in-zimbabwe.md)
-_Context: international law, South Africa, Human rights in Zimbabwe, Zimbabwe_
+_Context: international law, Human rights in Zimbabwe, Zimbabwe, South Africa_
 
 ##### Al Jazeera
 ### [Al Jazeera closes its English-language bureau in China after its reporter Melissa Chan is expelled from the country. ](/news/2012/05/8/al-jazeera-closes-its-english-language-bureau-in-china-after-its-reporter-melissa-chan-is-expelled-from-the-country.md)
@@ -45,7 +45,7 @@ _Context: double agent, al-Qaida, CIA_
 
 ##### New York Court of Appeals
 ### [The New York Court of Appeals, in The People v. James Kent, rules that merely viewing child pornography (or having a cache of it, as on a cell phone), despite its offensiveness, is not in itself illegal in the state, so long as one is not aware of the cache or did not download the images ono a drive in order to view them; state legislators have stated they will work to close those loopholes through formulation of legislation. Distribution, production, and purposeful possession would still be illegal.](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.md)
-_Context: The People v. James Kent, New York Court of Appeals, child pornography_
+_Context: child pornography, The People v. James Kent, New York Court of Appeals_
 
 ##### Ukraine
 ### [Former Ukrainian prime minister Yulia Tymoshenko ends her hunger strike in detention. ](/news/2012/05/8/former-ukrainian-prime-minister-yulia-tymoshenko-ends-her-hunger-strike-in-detention.md)

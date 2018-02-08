@@ -35,7 +35,7 @@ Four people are feared dead after tsunami waves struck the coast of Greenland on
 ### [A study published in the United States advises against the use of coconut oil and instead proposes using American-produced vegetable oils, such as canola, peanut, safflower, soybean, and sunflower oil. ](/news/2017/06/18/a-study-published-in-the-united-states-advises-against-the-use-of-coconut-oil-and-instead-proposes-using-american-produced-vegetable-oils-s.md)
 Who doesn’t love logging on to the good old ‘net on a Friday morning to the headline “Coconut oil ‘as unhealthy as beef fat and butter.’” It’s got everything. Ah, you might think, my favorite health product is as bad as butter! Or you might even say to yourself, those coconut oil-huffi...
 
-##### defects
+##### Defects
 ### [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md)
 The man swam with foam attached to his shoulders to help him stay afloat, officials say.
 

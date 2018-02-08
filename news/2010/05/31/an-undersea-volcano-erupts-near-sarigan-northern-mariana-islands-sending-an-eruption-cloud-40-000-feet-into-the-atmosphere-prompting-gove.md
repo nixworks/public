@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-norther
 
 ### [2010-05-31](/news/2010/05/31/index.md)
 
-##### undersea volcano
+##### Undersea volcano
 # An undersea volcano erupts near Sarigan, Northern Mariana Islands, sending an eruption cloud 40,000 feet into the atmosphere, prompting Governor Benigno Fitial to declare a state of emergency. 
 
 

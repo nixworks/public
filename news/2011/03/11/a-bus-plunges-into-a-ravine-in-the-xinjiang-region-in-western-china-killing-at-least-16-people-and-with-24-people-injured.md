@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-reg
 
 ### [2011-03-11](/news/2011/03/11/index.md)
 
-##### ravine
+##### Ravine
 # A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. 
 
 

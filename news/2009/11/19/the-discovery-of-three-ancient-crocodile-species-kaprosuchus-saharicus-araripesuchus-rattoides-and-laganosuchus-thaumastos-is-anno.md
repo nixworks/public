@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/19/the-discovery-of-three-ancient-crocodile-specie
 
 ### [2009-11-19](/news/2009/11/19/index.md)
 
-##### crocodile
+##### Crocodile
 #  The discovery of three ancient crocodile species, "Kaprosuchus saharicus", "Araripesuchus rattoides" and "Laganosuchus thaumastos", is announced. 
 
 

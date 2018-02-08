@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/7/at-least-35-people-are-killed-in-an-expressway-a
 
 ### [2011-10-7](/news/2011/10/7/index.md)
 
-##### expressway
+##### Expressway
 # At least 35 people are killed in an expressway accident in the north Chinese port city of Tianjin, while another 10 are killed in a 24-car pileup in the Lianyungang-Khorgas Expressway's Anhui section. 
 
 

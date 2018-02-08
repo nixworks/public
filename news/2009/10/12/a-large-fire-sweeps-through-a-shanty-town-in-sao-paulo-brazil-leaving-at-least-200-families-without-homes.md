@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/12/a-large-fire-sweeps-through-a-shanty-town-in-sa
 
 ### [2009-10-12](/news/2009/10/12/index.md)
 
-##### shanties
+##### Shanties
 #  A large fire sweeps through a shanty town in Sao Paulo, Brazil, leaving at least 200 families without homes. 
 
 

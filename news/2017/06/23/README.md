@@ -19,7 +19,7 @@ The move follows news that similar cladding was used on the Chalcots Estate to t
 ### [A Belgian court condemns a United Arab Emirates princess and her seven daughters to a fine and a suspended sentence, for human trafficking and mistreatment of their servants at a Brussels luxury hotel in 2008. ](/news/2017/06/23/a-belgian-court-condemns-a-united-arab-emirates-princess-and-her-seven-daughters-to-a-fine-and-a-suspended-sentence-for-human-trafficking-a.md)
 A Belgian court has found a princess from Abu Dhabi and her seven daughters guilty of mistreating around 20 servants forced to work for them in a plush Brussels hotel.
 
-##### shooting of Samuel DuBose
+##### Shooting of Samuel DuBose
 ### [For the second time, a mistrial is declared in the case against officer Ray Tensing for the fatal shooting of Samuel DuBose during a traffic stop. ](/news/2017/06/23/for-the-second-time-a-mistrial-is-declared-in-the-case-against-officer-ray-tensing-for-the-fatal-shooting-of-samuel-dubose-during-a-traffic.md)
 It was a second hung jury for Ray Tensing, the ex-officer charged in the death of Samuel DuBose during a botched traffic stop in 2015 in Cincinnati.
 
@@ -37,7 +37,7 @@ PSLV-C38 blasted off from the first launch pad at Satish Dhawan Space Centre in 
 
 ##### Creation-evolution controversy
 ### [Turkey decides to stop teaching evolution to its students until their university level curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-their-university-level-curriculum-deeming-it-controversial-and-too-complex.md)
-_Context: secular foundation, university, controversial, Creation-evolution controversy, evolution, Turkey, complex_
+_Context: Creation-evolution controversy, complex, controversial, secular foundation, evolution, Turkey, university_
 
 ## [Previous Day...](/news/2017/06/22/index.md)
 

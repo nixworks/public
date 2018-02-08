@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/21/at-least-42-people-are-killed-and-over-50-injur
 
 ### [2011-05-21](/news/2011/05/21/index.md)
 
-##### dust storm
+##### Dust storm
 # At least 42 people are killed and over 50 injured in dust storms and thunderstorms in Uttar Pradesh, northern India, adding to the three-day toll of over eighty dead. 
 
 The fury of a thunderstorm cooled the parched Gangetic Plains but left 41 dead and over three dozen injured in Uttar Pradesh on Saturday. 

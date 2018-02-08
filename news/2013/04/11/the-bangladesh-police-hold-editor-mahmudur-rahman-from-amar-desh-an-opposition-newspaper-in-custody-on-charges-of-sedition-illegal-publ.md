@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/the-bangladesh-police-hold-editor-mahmudur-rahm
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### police officers
+##### Police officers
 # The Bangladesh Police hold editor Mahmudur Rahman from "Amar Desh", an opposition newspaper, in custody on charges of sedition, illegal publication of Skype conversations of a judge in Bangladesh's ongoing war crimes trial, and inciting violence in recent protests. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

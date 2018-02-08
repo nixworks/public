@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-a
 
 ### [2012-11-29](/news/2012/11/29/index.md)
 
-##### darter fish
+##### Darter fish
 # The new species of darter fish are classified and named as "Etheostoma obama" after U.S. President Barack Obama. 
 
 

@@ -13,7 +13,7 @@ A wave of attacks by female suicide bombers in north-eastern Nigeria kills more 
 
 ##### Syrian Civil War
 ### [The Syrian Democratic Forces (SDF) backed by U.S.-led coalition airstrikes, seize control of the strategic Tishrin Dam on the Euphrates in eastern Aleppo from Islamic State of Iraq and the Levant forces. ](/news/2015/12/27/the-syrian-democratic-forces-sdf-backed-by-u-s-led-coalition-airstrikes-seize-control-of-the-strategic-tishrin-dam-on-the-euphrates-in-e.md)
-_Context: Military intervention against ISIL, Syrian Democratic Forces, Tishrin Dam, U.S.-led coalition, Aleppo Governorate, Euphrates, ISIL, Tishrin Dam offensive, Syrian Civil War_
+_Context: Tishrin Dam, Syrian Democratic Forces, U.S.-led coalition, Tishrin Dam offensive, Euphrates, Military intervention against ISIL, Aleppo Governorate, Syrian Civil War, ISIL_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Thousands of people are evacuated from their homes as flood waters continue to rise across large parts of northern England, with York particularly badly affected. ](/news/2015/12/27/thousands-of-people-are-evacuated-from-their-homes-as-flood-waters-continue-to-rise-across-large-parts-of-northern-england-with-york-partic.md)

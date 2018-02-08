@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/3/less-than-three-months-after-winning-the-general
 
 ### [2014-12-3](/news/2014/12/3/index.md)
 
-##### general election
+##### General election
 # Less than three months after winning the general election, Prime Minister of Sweden Stefan Lfven calls a snap general election after parliament rejected his government's budget proposal. 
 
 

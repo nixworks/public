@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/10/2007-bersih-rally-malaysia-sees-its-largest-pol
 
 ### [2007-11-10](/news/2007/11/10/index.md)
 
-##### its largest political protest
+##### Its largest political protest
 #  2007 Bersih Rally: Malaysia sees its largest political protest in 10 years. 
 
 

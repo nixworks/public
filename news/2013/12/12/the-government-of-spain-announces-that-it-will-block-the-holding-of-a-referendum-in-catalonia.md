@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/12/the-government-of-spain-announces-that-it-will-
 
 ### [2013-12-12](/news/2013/12/12/index.md)
 
-##### government of Spain
+##### Government of Spain
 # The government of Spain announces that it will block the holding of a referendum in Catalonia. 
 
 Parties in the Spanish region of Catalonia agree to hold a referendum on independence next year - but the Spanish government vows to block it.

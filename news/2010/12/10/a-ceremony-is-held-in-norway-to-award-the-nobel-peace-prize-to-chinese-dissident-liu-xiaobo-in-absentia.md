@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel
 
 ### [2010-12-10](/news/2010/12/10/index.md)
 
-##### winner
+##### Winner
 # A ceremony is held in Norway to award the Nobel Peace Prize to Chinese dissident Liu Xiaobo "in absentia". 
 
 Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a ceremony where he was represented by an empty chair and he dedicated it from prison to the &quot;lost souls&quot; of the 1989 Tiananmen Square crackdown.

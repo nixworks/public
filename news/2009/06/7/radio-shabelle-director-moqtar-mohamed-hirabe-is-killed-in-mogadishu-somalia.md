@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/7/radio-shabelle-director-moqtar-mohamed-hirabe-is
 
 ### [2009-06-7](/news/2009/06/7/index.md)
 
-##### declares
+##### Declares
 #  Radio Shabelle director Moqtar Mohamed Hirabe is killed in Mogadishu, Somalia. 
 
 

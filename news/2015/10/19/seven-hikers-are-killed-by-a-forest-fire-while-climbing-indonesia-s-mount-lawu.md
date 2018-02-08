@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/19/seven-hikers-are-killed-by-a-forest-fire-while-
 
 ### [2015-10-19](/news/2015/10/19/index.md)
 
-##### forest fire
+##### Forest fire
 # Seven hikers are killed by a forest fire while climbing Indonesia's Mount Lawu. 
 
 A fast-moving blaze thought to have been caused by a campfire trapped the victims who were reportedly climbing Mount Lawu even though its slopes were officially closed because of fire risk

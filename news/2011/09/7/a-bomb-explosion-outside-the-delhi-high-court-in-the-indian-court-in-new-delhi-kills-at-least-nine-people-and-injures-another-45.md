@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/7/a-bomb-explosion-outside-the-delhi-high-court-in
 
 ### [2011-09-7](/news/2011/09/7/index.md)
 
-##### bomb explosion
+##### Bomb explosion
 # A bomb explosion outside the Delhi High Court in the Indian court in New Delhi kills at least nine people and injures another 45. 
 
 India&#039;s capital New Delhi is on high alert for more attacks after a briefcase bomb killed 11 people outside the high court.

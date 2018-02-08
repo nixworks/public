@@ -5,9 +5,9 @@ Formats: [HTML](2009/01/27/index.html)  [JSON](2009/01/27/index.json)  [XML](200
 
 ##### Sir
 ### [ Sir Paul Stephenson is appointed Commissioner of London's Metropolitan Police Service. ](/news/2009/01/27/sir-paul-stephenson-is-appointed-commissioner-of-london-s-metropolitan-police-service.md)
-_Context: Commissioner, Metropolitan Police Service, Sir, London, Paul Stephenson_
+_Context: Metropolitan Police Service, Sir, Commissioner, Paul Stephenson, London_
 
-##### fire
+##### Fire
 ### [ At least one person is killed and eight wounded by Israeli attacks on the Gaza Strip. ](/news/2009/01/27/at-least-one-person-is-killed-and-eight-wounded-by-israeli-attacks-on-the-gaza-strip.md)
 Incidents mark first day of violence since Gaza ceasfires were declared.
 
@@ -15,37 +15,37 @@ Incidents mark first day of violence since Gaza ceasfires were declared.
 ### [ Seven people die in a murder-suicide in Wilmington, California. ](/news/2009/01/27/seven-people-die-in-a-murder-suicide-in-wilmington-california.md)
 A man shot and killed his wife and five young children before taking his own life Tuesday, possibly out of despair from losing a job, the authorities said.
 
-##### the state
+##### The state
 ### [ Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud. ](/news/2009/01/27/florida-hedge-fund-manager-arthur-nadel-is-arrested-by-the-united-states-federal-bureau-of-investigation-and-charged-with-fraud.md)
-_Context: United States, Arthur Nadel, fraud, the state, FBI, hedge fund_
+_Context: the state, Arthur Nadel, FBI, United States, fraud, hedge fund_
 
 ##### United Kingdom
 ### [ The United Kingdom Information Tribunal orders Her Majesty's Government to release the minutes of Cabinet discussions regarding the 2003 invasion of Iraq. ](/news/2009/01/27/the-united-kingdom-information-tribunal-orders-her-majesty-s-government-to-release-the-minutes-of-cabinet-discussions-regarding-the-2003-in.md)
-_Context: His Majesty's Government, United Kingdom, 2003 invasion of Iraq, Iraq, 2003, Information Tribunal, minutes, U.K. Cabinet_
+_Context: U.K. Cabinet, United Kingdom, 2003 invasion of Iraq, His Majesty's Government, 2003, Information Tribunal, Iraq, minutes_
 
 ##### United Kingdom
 ### [ United Kingdom Secretary of State for Business, Enterprise and Regulatory Reform Peter Mandelson unveils a GBP2.3-billion bailout for the British motor industry. ](/news/2009/01/27/united-kingdom-secretary-of-state-for-business-enterprise-and-regulatory-reform-peter-mandelson-unveils-a-agbp2-3-billion-bailout-for-the.md)
-_Context: Secretary of State for Business, Enterprise and Regulatory Reform, United Kingdom, Peter Mandelson, British motor industry, bailout, GBP_
+_Context: GBP, Secretary of State for Business, Enterprise and Regulatory Reform, bailout, Peter Mandelson, United Kingdom, British motor industry_
 
 ##### Iran
 ### [ Iran will have enough enriched uranium to make a single nuclear weapon later this year, the International Institute for Strategic Studies predicts. ](/news/2009/01/27/iran-will-have-enough-enriched-uranium-to-make-a-single-nuclear-weapon-later-this-year-the-international-institute-for-strategic-studies-p.md)
-_Context: uranium, uranium enrichment, Iran, nuclear weapon, International Institute for Strategic Studies_
+_Context: International Institute for Strategic Studies, uranium, uranium enrichment, nuclear weapon, Iran_
 
 ##### FedEx
 ### [ Two crew members escape a FedEx ATR 42 that crashed at Texas's Lubbock Preston Smith International Airport. ](/news/2009/01/27/two-crew-members-escape-a-fedex-atr-42-that-crashed-at-texas-s-lubbock-preston-smith-international-airport.md)
-_Context: ATR 42, Texas, Lubbock Preston Smith International Airport, crashed, FedEx_
+_Context: crashed, ATR 42, FedEx, Texas, Lubbock Preston Smith International Airport_
 
 ##### World Social Forum
 ### [ The ninth World Social Forum is held in Belem, Brazil. ](/news/2009/01/27/the-ninth-world-social-forum-is-held-in-bela-c-m-brazil.md)
 The World Social Forum (WSF) is being held - after a year&#039;s break - in the Brazilian city of Belém on the banks of the Amazon ...
 
-##### hijacks
+##### Hijacks
 ### [ A man hijacks a bus in Bulgaria and holds the 37 passengers hostage for two hours before surrendering. ](/news/2009/01/27/a-man-hijacks-a-bus-in-bulgaria-and-holds-the-37-passengers-hostage-for-two-hours-before-surrendering.md)
 An armed man surrendered to police after hijacking a bus and holding 37 people aboard hostage for two hours in Bulgaria on Tuesday, officials said.
 
 ##### Pacific Islands Forum
 ### [ A special leaders meeting of the Pacific Islands Forum, held in Papua New Guinea, sets a deadline of 1 May for Fiji to set a date for elections before the end of the year. Fiji rejects the deadline. ](/news/2009/01/27/a-special-leaders-meeting-of-the-pacific-islands-forum-held-in-papua-new-guinea-sets-a-deadline-of-1-may-for-fiji-to-set-a-date-for-elect.md)
-_Context: Fiji, Papua New Guinea, Pacific Islands Forum_
+_Context: Pacific Islands Forum, Fiji, Papua New Guinea_
 
 ## [Previous Day...](/news/2009/01/26/index.md)
 

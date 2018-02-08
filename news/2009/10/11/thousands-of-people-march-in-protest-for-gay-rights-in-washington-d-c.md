@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/11/thousands-of-people-march-in-protest-for-gay-ri
 
 ### [2009-10-11](/news/2009/10/11/index.md)
 
-##### gay rights
+##### Gay rights
 #  Thousands of people march in protest for gay rights in Washington, D.C.. 
 
 

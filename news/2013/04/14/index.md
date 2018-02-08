@@ -7,25 +7,25 @@ Formats: [HTML](2013/04/14/index.html)  [JSON](2013/04/14/index.json)  [XML](201
 ### [At least 20 people are killed in a series of bombings and gun attacks in Mogadishu, Somalia. ](/news/2013/04/14/at-least-20-people-are-killed-in-a-series-of-bombings-and-gun-attacks-in-mogadishu-somalia.md)
 At least 19 people are killed in bomb and gun attacks in the Somali capital Mogadishu, including an assault on the main courts.
 
-##### drones launch
+##### Drones launch
 ### [A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. ](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-kills-at-least-five-people-in-datta-khel-north-waziristan-pakistan.md)
-_Context: drones launch, Pakistan, North Waziristan, Datta Khel, United States_
+_Context: Pakistan, drones launch, Datta Khel, North Waziristan, United States_
 
-##### bus
+##### Bus
 ### [At least 33 people die when a bus tumbles into a river near Trujillo, Peru. ](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-a-river-near-trujillo-peru.md)
-_Context: Peru, Trujillo, bus_
+_Context: bus, Peru, Trujillo_
 
-##### driver
+##### Driver
 ### [Five people are killed, including the driver, and five are injured when a tourist bus carrying Russian and Ukrainian teenagers plummets off a bridge and rolls down an embankment near Ranst outside of Antwerp, Belgium. ](/news/2013/04/14/five-people-are-killed-including-the-driver-and-five-are-injured-when-a-tourist-bus-carrying-russian-and-ukrainian-teenagers-plummets-off.md)
 Five people were killed and another five seriously injured when a Polish bus carrying Russian and Ukrainian teenagers crashed over the side of a Belgian motorway bridge this morning.
 
-##### fire
+##### Fire
 ### [At least 11 people are killed and 50 people are injured after a fire destroys a hotel in Xiangyang, Hubei, China. ](/news/2013/04/14/at-least-11-people-are-killed-and-50-people-are-injured-after-a-fire-destroys-a-hotel-in-xiangyang-hubei-china.md)
 At least 11 killed and 50 others injured after blaze that started in internet cafe spreads to hotel in central China.
 
 ##### North Korea
 ### [North Korea rebuffs an offer of dialogue by South Korea. ](/news/2013/04/14/north-korea-rebuffs-an-offer-of-dialogue-by-south-korea.md)
-_Context: South Korea, North Korea, North Korea-South Korea relations_
+_Context: North Korea-South Korea relations, South Korea, North Korea_
 
 ##### Venezuela
 ### [Voters in Venezuela go to the polls for a snap presidential election, which was called after the death of President Hugo Chavez on March 5. ](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.md)
@@ -33,11 +33,11 @@ Venezuelans have been voting to choose a successor to late President Hugo Chavez
 
 ##### Croatia
 ### [In Croatia, people go to the polls to elect the first ever European MPs of the country, anticipating the formal entry of Croatia in the European Union, in July. ](/news/2013/04/14/in-croatia-people-go-to-the-polls-to-elect-the-first-ever-european-mps-of-the-country-anticipating-the-formal-entry-of-croatia-in-the-euro.md)
-_Context: formal entry of Croatia, MP, Croatia, European Parliament, European Union, country's first ever vote_
+_Context: MP, European Union, European Parliament, Croatia, country's first ever vote, formal entry of Croatia_
 
 ##### Justin Trudeau
 ### [Justin Trudeau, son of former Canadian Prime Minister Pierre Trudeau, is chosen as the new leader of the Liberal Party of Canada. ](/news/2013/04/14/justin-trudeau-son-of-former-canadian-prime-minister-pierre-trudeau-is-chosen-as-the-new-leader-of-the-liberal-party-of-canada.md)
-_Context: Prime Minister of Canada, Justin Trudeau, Pierre Trudeau, Canadian, Liberal Party's_
+_Context: Pierre Trudeau, Prime Minister of Canada, Liberal Party's, Canadian, Justin Trudeau_
 
 ## [Previous Day...](/news/2013/04/13/index.md)
 

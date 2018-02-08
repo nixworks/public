@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/11/17/catastrophical-landslide-in-log-pod-mangartom-s
 
 ### [2000-11-17](/news/2000/11/17/index.md)
 
-##### landslide
+##### Landslide
 #  Catastrophical landslide in Log pod Mangartom, Slovenia, kills seven, and causes millions of SIT of damage. It is one of the worst catastrophes in Slovenia in the past 100 years.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/25/united-states-swimmer-michael-phelps-breaks-wor
 
 ### [2003-07-25](/news/2003/07/25/index.md)
 
-##### swimmer
+##### Swimmer
 #  United States swimmer Michael Phelps breaks world records in the butterfly and individual medley at the World Swimming Championships in Barcelona to become the first man ever to break two world records for swimming on a single day. 
 
 

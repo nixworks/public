@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/12/a-school-bus-plunges-off-of-a-cliff-on-the-cari
 
 ### [2015-01-12](/news/2015/01/12/index.md)
 
-##### school bus
+##### School bus
 # A school bus plunges off of a cliff on the Caribbean island of St. Vincent leaving at least five people dead and two missing. 
 
 

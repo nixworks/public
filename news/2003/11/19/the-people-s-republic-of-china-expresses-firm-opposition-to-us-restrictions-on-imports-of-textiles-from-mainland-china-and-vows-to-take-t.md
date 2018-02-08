@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/19/the-people-s-republic-of-china-expresses-firm-o
 
 ### [2003-11-19](/news/2003/11/19/index.md)
 
-##### mainland China
+##### Mainland China
 #  The People's Republic of China expresses firm opposition to US restrictions on imports of textiles (from mainland China) and vows to take the dispute to the WTO. Abandoning tolerance toward Taiwan for the first time since 2000, the PRC threatens to use force and, ultimately, conduct war against Taiwan if it pursues independence. The PRC's state press condemns Taiwanese President Chen Shui-bian's move toward holding a referendum on "independence" and providing the legislative framework for declaring a Republic of Taiwan.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/1/a-deep-earthquake-measuring-magnitude-7-0-hits-n
 
 ### [2011-01-1](/news/2011/01/1/index.md)
 
-##### earthquake
+##### Earthquake
 # A deep earthquake measuring magnitude 7.0 hits near Santiago del Estero in northern Argentina. Only weak shaking is felt and no damage is reported. 
 
 

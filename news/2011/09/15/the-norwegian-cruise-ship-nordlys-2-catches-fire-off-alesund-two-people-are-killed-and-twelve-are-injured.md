@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/15/the-norwegian-cruise-ship-nordlys-2-catches-fir
 
 ### [2011-09-15](/news/2011/09/15/index.md)
 
-##### cruise ship
+##### Cruise ship
 # The Norwegian cruise ship Nordlys 2 catches fire off Alesund. Two people are killed and twelve are injured. 
 
 

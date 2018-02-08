@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/25/a-human-cannonball-performer-is-killed-in-publi
 
 ### [2011-04-25](/news/2011/04/25/index.md)
 
-##### human cannonball
+##### Human cannonball
 # A human cannonball performer is killed in public in Kent, England, UK. 
 
 A man acting as a &quot;human cannonball&quot; is killed in an accident at a stunt show in Kent after a safety net collapses.

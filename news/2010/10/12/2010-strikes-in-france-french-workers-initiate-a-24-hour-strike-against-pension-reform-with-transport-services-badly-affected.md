@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/12/2010-strikes-in-france-french-workers-initiate-
 
 ### [2010-10-12](/news/2010/10/12/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # 2010 strikes in France: French workers initiate a 24-hour strike against pension reform with transport services badly affected. 
 
 

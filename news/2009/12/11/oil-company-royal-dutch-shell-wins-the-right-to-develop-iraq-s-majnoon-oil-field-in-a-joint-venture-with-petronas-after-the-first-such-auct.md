@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/11/oil-company-royal-dutch-shell-wins-the-right-to
 
 ### [2009-12-11](/news/2009/12/11/index.md)
 
-##### crude oil
+##### Crude oil
 #  Oil company Royal Dutch Shell wins the right to develop Iraq's Majnoon oil field in a joint venture with Petronas after the first such auction since the 2003 invasion. The field is expected to generate $900 million a year. 
 
 

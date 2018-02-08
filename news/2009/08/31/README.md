@@ -17,7 +17,7 @@ Britain is facing the prospect of widespread power cuts for the first time since
 
 ##### Disney
 ### [ Disney reaches a deal to acquire Marvel Entertainment for US$4 billion, with Marvel shareholders being issued $30 and about 0.745 Disney shares for each share of Marvel they own. ](/news/2009/08/31/disney-reaches-a-deal-to-acquire-marvel-entertainment-for-us-4-billion-with-marvel-shareholders-being-issued-30-and-about-0-745-disney-sh.md)
-_Context: Disney, Marvel Entertainment, $_
+_Context: $, Marvel Entertainment, Disney_
 
 ##### Nigeria
 ### [ Nigeria charges several banking executives with financial crimes discovered following the $2.6 billion bail-out of five banks. ](/news/2009/08/31/nigeria-charges-several-banking-executives-with-financial-crimes-discovered-following-the-2-6-billion-bail-out-of-five-banks.md)
@@ -25,15 +25,15 @@ _Context: Nigeria_
 
 ##### Russia
 ### [ Russian forces state that they have killed an Algerian Al Qaeda operative and another militant during a raid on a house in Khasavyurt, Dagestan. ](/news/2009/08/31/russian-forces-state-that-they-have-killed-an-algerian-al-qaeda-operative-and-another-militant-during-a-raid-on-a-house-in-khasavyurt-dage.md)
-_Context: Khasavyurt, Algeria, Al Qaeda, Russia, Dagestan_
+_Context: Al Qaeda, Russia, Algeria, Khasavyurt, Dagestan_
 
 ##### Iraq
 ### [ Iraqi officials begin negotiations with Serbia over the return of 19 MiG-21 and MiG-23 fighter jets sent to Yugoslavia in the 1980's for repairs. ](/news/2009/08/31/iraqi-officials-begin-negotiations-with-serbia-over-the-return-of-19-mig-21-and-mig-23-fighter-jets-sent-to-yugoslavia-in-the-1980-s-for-re.md)
-_Context: Iraq, Serbia, MiG-21, MiG-23, Yugoslavia_
+_Context: MiG-21, Serbia, Yugoslavia, MiG-23, Iraq_
 
 ##### Jason Mraz
 ### [ Jason Mraz's "I'm Yours" becomes the longest running single in the Billboard Hot 100's history at 71 weeks on the chart. ](/news/2009/08/31/jason-mraz-s-i-m-yours-becomes-the-longest-running-single-in-the-billboard-hot-100-s-history-at-71-weeks-on-the-chart.md)
-_Context: single, I'm Yours, Jason Mraz, Billboard Hot 100_
+_Context: Billboard Hot 100, single, Jason Mraz, I'm Yours_
 
 ##### Armenia
 ### [ Armenia and Turkey agree to establish diplomatic relations. ](/news/2009/08/31/armenia-and-turkey-agree-to-establish-diplomatic-relations.md)

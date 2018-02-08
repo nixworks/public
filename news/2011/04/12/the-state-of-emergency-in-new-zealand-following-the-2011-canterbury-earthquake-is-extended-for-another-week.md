@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/12/the-state-of-emergency-in-new-zealand-following
 
 ### [2011-04-12](/news/2011/04/12/index.md)
 
-##### state of emergency
+##### State of emergency
 # The state of emergency in New Zealand following the 2011 Canterbury earthquake is extended for another week. 
 
 

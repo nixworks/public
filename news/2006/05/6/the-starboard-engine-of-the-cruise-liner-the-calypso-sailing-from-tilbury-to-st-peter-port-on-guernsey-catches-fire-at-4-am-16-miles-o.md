@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/6/the-starboard-engine-of-the-cruise-liner-the-cal
 
 ### [2006-05-6](/news/2006/05/6/index.md)
 
-##### cruise liner
+##### Cruise liner
 #  The starboard engine of the cruise liner "The Calypso", sailing from Tilbury to St Peter Port on Guernsey, catches fire at 4 am, 16 miles off Eastbourne, southeast of the British coast. Its crew puts the fire out, after its 708 passengers are moved into its lifeboats. Rescue lifeboats attend but neither these nor the ship's lifeboats are needed.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/4/scientists-develop-a-magic-carpet-with-optical-f
 
 ### [2012-09-4](/news/2012/09/4/index.md)
 
-##### from falling
+##### From falling
 # Scientists develop a "magic carpet" with optical fibers to help prevent elderly people from falling by a warning when it detects unusual footsteps. 
 
 

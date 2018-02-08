@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-
 
 ### [2011-03-1](/news/2011/03/1/index.md)
 
-##### life sentence
+##### Life sentence
 # Eleven people are sentenced to death and twenty to life sentences for their roles in the Godhra train burning in New Delhi, India. 
 
 31 people were convicted and 63 others, including the main accused Maulvi Umarji, were acquitted by a special court on February 22. 

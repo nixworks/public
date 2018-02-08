@@ -5,7 +5,7 @@ Formats: [HTML](2013/07/12/index.html)  [JSON](2013/07/12/index.json)  [XML](201
 
 ##### Moro National Liberation Front
 ### [The Moro National Liberation Front kidnaps eight civilians in the Philippines Basilan province later releasing four of them. ](/news/2013/07/12/the-moro-national-liberation-front-kidnaps-eight-civilians-in-the-philippines-basilan-province-later-releasing-four-of-them.md)
-_Context: Moro National Liberation Front, Philippines, Basilan island_
+_Context: Philippines, Moro National Liberation Front, Basilan island_
 
 ##### 
 ### [A car bomb explodes near an African Union convoy killing three soldiers. ](/news/2013/07/12/a-car-bomb-explodes-near-an-african-union-convoy-killing-three-soldiers.md)
@@ -19,15 +19,15 @@ _Context: Orrefors_
 ### [The Dow Jones Industrial Average and S&P 500 close at record highs, with the NASDAQ hitting its highest level in ten years. ](/news/2013/07/12/the-dow-jones-industrial-average-and-s-p-500-close-at-record-highs-with-the-nasdaq-hitting-its-highest-level-in-ten-years.md)
 U.S. stocks inched only slightly higher Friday, but the slim gains were enough to put the Dow and S&P 500 at new record closing highs and the Nasdaq at the highest level since in over a decade. Boeing shares sank almost 5%.
 
-##### floods
+##### Floods
 ### [The toll of dead and missing people from the 2013 Southwest China floods rises above 40 with Sichuan province worst affected. ](/news/2013/07/12/the-toll-of-dead-and-missing-people-from-the-2013-southwest-china-floods-rises-above-40-with-sichuan-province-worst-affected.md)
 China and Taiwan braced on Friday for the impact of Typhoon Soulik as the toll of dead and missing from torrential rain across a broad swathe of China climbed beyond 200.
 
 ##### Australian
 ### [9 people are feared dead and 88 are rescued by Australian authorities after a boat carrying asylum seekers capsizes north of Christmas Island. ](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.md)
-_Context: Australian, asylum seeker, Christmas Island_
+_Context: asylum seeker, Australian, Christmas Island_
 
-##### derails
+##### Derails
 ### [A commuter train derails in the Paris suburb of Bretigny-sur-Orge with at least eight people dead. ](/news/2013/07/12/a-commuter-train-derails-in-the-paris-suburb-of-bra-c-tigny-sur-orge-with-at-least-eight-people-dead.md)
 An Intercity train to Limoges derailed today around 5pm in the municipality of Brétigny-sur-Orge, French newspaper Le Parisien is reporting. Emergency services are attending. Eight people are thought to be dead and many of the wounded are still stuck in the trains. 
 
@@ -37,11 +37,11 @@ _Context: San Francisco General Hospital, Asiana Airlines Flight 214, Boeing 777
 
 ##### Ethiopian Airlines
 ### [An empty Ethiopian Airlines Boeing 787 Dreamliner catches fire eight hours after landing at London Heathrow Airport, closing runways for an hour. Another Boeing 787 Dreamliner (Thomson Airways-owned) was forced to return to Britain's Manchester Airport after an unspecified mechanical problem. ](/news/2013/07/12/an-empty-ethiopian-airlines-boeing-787-dreamliner-catches-fire-eight-hours-after-landing-at-london-heathrow-airport-closing-runways-for-an.md)
-_Context: Thomson Airways, Manchester, 787 Dreamliner, London Heathrow Airport, Ethiopian Airlines_
+_Context: Manchester, Thomson Airways, London Heathrow Airport, 787 Dreamliner, Ethiopian Airlines_
 
 ##### United States
 ### [The US calls on the Egyptian Army to free deposed president Mohamed Morsi. ](/news/2013/07/12/the-us-calls-on-the-egyptian-army-to-free-deposed-president-mohamed-morsi.md)
-_Context: United States, President, Egyptian Army, Mohamed Morsi, 2013 coup d'etat, Egypt_
+_Context: Egyptian Army, 2013 coup d'etat, United States, Mohamed Morsi, Egypt, President_
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai of Pakistan visits the UN headquarters in New York City to celebrate her 16th birthday with the UN address. ](/news/2013/07/12/malala-yousafzai-of-pakistan-visits-the-un-headquarters-in-new-york-city-to-celebrate-her-16th-birthday-with-the-un-address.md)

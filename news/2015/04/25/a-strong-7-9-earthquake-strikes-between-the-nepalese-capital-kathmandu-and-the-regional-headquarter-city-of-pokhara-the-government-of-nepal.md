@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/25/a-strong-7-9-earthquake-strikes-between-the-nep
 
 ### [2015-04-25](/news/2015/04/25/index.md)
 
-##### suspicions
+##### Suspicions
 # A strong 7.9 earthquake strikes between the Nepalese capital Kathmandu and the regional headquarter city of Pokhara. The Government of Nepal declares a state of emergency with 1500 dead. A number of UNESCO World Heritage Sites are destroyed, including the historic Dharahara tower. Deaths are also recorded in India, Bangladesh and the Chinese province of Tibet. 
 
 A magnitude-7.9 earthquake strikes in Nepal and northern India, killing more than 1,300 people.

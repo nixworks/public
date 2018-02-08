@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/13/a-video-shows-11-dead-imams-and-45-wounded-musl
 
 ### [2011-05-13](/news/2011/05/13/index.md)
 
-##### imam
+##### Imam
 # A video shows 11 dead imams and 45 wounded Muslim holy men, 5 of whom are in a coma, alleged to have been caused by a NATO airstrike. Those attacked were said to have been at rest and sleeping while participating in a long peace march; Muslims and Christians unite in condemnation of the attack. 
 
 The Libyan leader responds to claims by the Italian foreign minister in an audio statement aired on state television.

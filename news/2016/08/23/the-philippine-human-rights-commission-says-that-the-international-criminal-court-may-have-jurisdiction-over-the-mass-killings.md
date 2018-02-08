@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/23/the-philippine-human-rights-commission-says-tha
 
 ### [2016-08-23](/news/2016/08/23/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The Philippine human rights commission says that the International Criminal Court may have jurisdiction over the mass killings. 
 
 

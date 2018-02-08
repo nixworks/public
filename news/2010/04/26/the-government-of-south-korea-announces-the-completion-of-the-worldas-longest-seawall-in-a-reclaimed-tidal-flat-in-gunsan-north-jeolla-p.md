@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/26/the-government-of-south-korea-announces-the-com
 
 ### [2010-04-26](/news/2010/04/26/index.md)
 
-##### government
+##### Government
 #  The Government of South Korea announces the completion of the world's longest seawall in a reclaimed tidal flat in Gunsan, North Jeolla Province. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/26/several-hundred-earthquakes-hit-southern-califo
 
 ### [2012-08-26](/news/2012/08/26/index.md)
 
-##### earthquake
+##### Earthquake
 # Several hundred earthquakes hit Southern California, with the largest one measuring 5.5 on the Richter magnitude scale near San Diego. 
 
 

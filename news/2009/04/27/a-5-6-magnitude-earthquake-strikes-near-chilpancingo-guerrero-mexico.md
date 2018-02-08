@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpan
 
 ### [2009-04-27](/news/2009/04/27/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. 
 
 

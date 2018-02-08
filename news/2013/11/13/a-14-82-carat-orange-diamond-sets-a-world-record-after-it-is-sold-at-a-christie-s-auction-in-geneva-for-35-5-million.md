@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/13/a-14-82-carat-orange-diamond-sets-a-world-recor
 
 ### [2013-11-13](/news/2013/11/13/index.md)
 
-##### real diamond
+##### Real diamond
 # A 14.82-carat orange diamond sets a world record after it is sold at a Christie's auction in Geneva for $35.5 million. 
 
 The diamond set a world record for a fancy vivid orange diamond. At $2,398,151 per carat it also set a world record price per carat for any colored diamond sold at auction.

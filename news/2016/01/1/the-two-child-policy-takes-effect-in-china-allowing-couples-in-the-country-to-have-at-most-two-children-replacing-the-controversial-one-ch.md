@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/1/the-two-child-policy-takes-effect-in-china-allow
 
 ### [2016-01-1](/news/2016/01/1/index.md)
 
-##### two-child policy
+##### Two-child policy
 # The two-child policy takes effect in China, allowing couples in the country to have at most two children, replacing the controversial one-child policy. The change in law was announced by the ruling Communist Party on October 29 and passed the Standing Committee of the National People's Congress on December 27, five days prior to its effect. 
 
 Under the new law, married couples are now allowed to have a second child, but the legislation maintains limits on additional births.

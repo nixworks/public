@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/5/a-series-of-coordinated-bombings-at-the-u-s-cons
 
 ### [2010-04-5](/news/2010/04/5/index.md)
 
-##### coordinated bombings
+##### Coordinated bombings
 # A series of coordinated bombings at the U.S. consulate in Peshawar and at a ruling party rally in the Pakistani North-West Frontier Province kills fifty people and injures one hundred. 
 
 Militants using a car bomb and firing weapons attacked the U.S. consulate in the Pakistani city of Peshawar on Monday hours after a suicide bomber killed 38 people elsewhere in the northwest, officials said.

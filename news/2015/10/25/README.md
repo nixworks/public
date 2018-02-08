@@ -15,9 +15,9 @@ The union representing United Parcel Service pilots voted overwhelmingly to stri
 ### [Danish A.P. Moller-Maersk Group announced smaller-than-expected earnings because of weak earnings by its bellwether container shipping unit, Maersk Line. ](/news/2015/10/25/danish-a-p-molleramaersk-group-announced-smaller-than-expected-earnings-because-of-weak-earnings-by-its-bellwether-container-shipping-uni.md)
 Danish conglomerate A.P. Møller-Maersk cut its full-year profit guidance, saying global demand for container shipping—the conglomerate’s biggest contributor—has been weaker than expected.
 
-##### karaoke
+##### Karaoke
 ### [At least 17 people are killed and 71 injured following a fire in a karaoke bar on the Indonesian island of Sulawesi. ](/news/2015/10/25/at-least-17-people-are-killed-and-71-injured-following-a-fire-in-a-karaoke-bar-on-the-indonesian-island-of-sulawesi.md)
-_Context: karaoke, Sulawesi island, Indonesia_
+_Context: karaoke, Indonesia, Sulawesi island_
 
 ##### European migrant crisis
 ### [The bodies of 40 migrants wash ashore on the Libyan coast with another 30 people missing. ](/news/2015/10/25/the-bodies-of-40-migrants-wash-ashore-on-the-libyan-coast-with-another-30-people-missing.md)
@@ -39,7 +39,7 @@ Russian submarines are aggressively operating near the undersea cables that carr
 ### [Police have updated information on the casualties from this crash. Four died and 47 were injured; five remain in critical condition. ](/news/2015/10/25/police-have-updated-information-on-the-casualties-from-this-crash-four-died-and-47-were-injured-five-remain-in-critical-condition.md)
 A toddler was among four people killed when an allegedly inebriated woman drove a car into crowds at an Oklahoma State University parade, Stillwater police said. The Saturday crash also injured dozens of people, including 11 victims younger than 13. The car&#039;s driver has been arrested on suspici...
 
-##### black bear
+##### Black bear
 ### [More than 200 black bears are killed in a single day in the U.S. state of Florida after state officials allow the hunting of the animals for the first time in 21 years; supporters say the aim is to cut down on the animals' surging population, but animal rights activists have criticized the hunts as cruel and ineffective. ](/news/2015/10/25/more-than-200-black-bears-are-killed-in-a-single-day-in-the-u-s-state-of-florida-after-state-officials-allow-the-hunting-of-the-animals-for.md)
 Supporters say the aim of the hunt is to cut down on the surging population but opponents think the move is cruel and ineffective.
 
@@ -53,7 +53,7 @@ Jimmy Morales, a former TV comedy actor who promised to clean up Guatemala’s c
 
 ##### Louisiana gubernatorial election, 2015
 ### [Republican U.S. Senator David Vitter and Democratic state Representative John Bel Edwards top two Republican candidates for spots in the November 21 runoff election. Edwards wins 40 percent and Vitter 23 percent of the primary vote, according to unofficial returns. ](/news/2015/10/25/republican-u-s-senator-david-vitter-and-democratic-state-representative-john-bel-edwards-top-two-republican-candidates-for-spots-in-the-nov.md)
-_Context: David Vitter, Democrat, Republican, Louisiana gubernatorial election, 2015, Congressional primaries, John Bel Edwards, United States Senate, second round, state Representative_
+_Context: Republican, state Representative, David Vitter, United States Senate, Democrat, second round, Louisiana gubernatorial election, 2015, Congressional primaries, John Bel Edwards_
 
 ##### Haitian presidential election, 2015
 ### [Unlike the first round of the Haitian parliamentary elections when balloting was cancelled in 22 constituencies, voting appeared orderly, and largely peaceful, with a large turnout in Sunday's presidential and parliamentary second round elections. Electoral officials said there might be partial results in 10 days but final results would not be ready until late November. Haitians faced lengthy ballots featuring 54 presidential hopefuls and significant numbers of legislative and municipal candidates. An expected runoff between the top two presidential candidates is scheduled for December 27. ](/news/2015/10/25/unlike-the-first-round-of-the-haitian-parliamentary-elections-when-balloting-was-cancelled-in-22-constituencies-voting-appeared-orderly-an.md)
@@ -65,11 +65,11 @@ Voters are due to go to the polls in Argentina to choose a new president, to rep
 
 ##### Ivory Coast
 ### [Voters in the Ivory Coast go to the polls for a presidential election with incumbent Alassane Ouattara favoured to win. ](/news/2015/10/25/voters-in-the-ivory-coast-go-to-the-polls-for-a-presidential-election-with-incumbent-alassane-ouattara-favoured-to-win.md)
-_Context: Ivory Coast, Ivorian presidential election, 2015, Alassane Ouattara_
+_Context: Ivorian presidential election, 2015, Alassane Ouattara, Ivory Coast_
 
 ##### Tanzanian general election, 2015
 ### [Voters in Tanzania, including Tanganyika and semi-autonomous Zanzibar, which also elects its own government, go to the polls for an election with the ruling Chama Cha Mapinduzi (Revolutionary Party) facing the greatest challenge to its dominance in over 50 years. ](/news/2015/10/25/voters-in-tanzania-including-tanganyika-and-semi-autonomous-zanzibar-which-also-elects-its-own-government-go-to-the-polls-for-an-election.md)
-_Context: Tanzanian general election, 2015, semi-autonomous, Tanzania, Zanzibar, Chama Cha Mapinduzi, Tanganyika_
+_Context: Tanzanian general election, 2015, Tanganyika, semi-autonomous, Tanzania, Chama Cha Mapinduzi, Zanzibar_
 
 ## [Previous Day...](/news/2015/10/24/index.md)
 

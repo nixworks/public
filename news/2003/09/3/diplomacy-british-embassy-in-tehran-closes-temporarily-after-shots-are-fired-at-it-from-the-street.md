@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/3/diplomacy-british-embassy-in-tehran-closes-tempo
 
 ### [2003-09-3](/news/2003/09/3/index.md)
 
-##### diplomat
+##### Diplomat
 #  Diplomacy: British Embassy in Tehran closes temporarily after shots are fired at it from the street.
 
 

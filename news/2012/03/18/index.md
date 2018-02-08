@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/18/index.html)  [JSON](2012/03/18/index.json)  [XML](201
 
 ##### Don Benito
 ### [Three people are killed in a shooting incident in the city of Don Benito, Spain. ](/news/2012/03/18/three-people-are-killed-in-a-shooting-incident-in-the-city-of-don-benito-spain.md)
-_Context: Spain, Don Benito_
+_Context: Don Benito, Spain_
 
 ##### Canadians
 ### [Canadians riot with firefighters and police in London, Ontario. ](/news/2012/03/18/canadians-riot-with-firefighters-and-police-in-london-ontario.md)
@@ -27,17 +27,17 @@ Bali police say five people believed to have been planning terrorist attacks hav
 ### [Two gunmen shoot dead an American working at a language school in the Yemeni city of Taez for spreading Christianity. ](/news/2012/03/18/two-gunmen-shoot-dead-an-american-working-at-a-language-school-in-the-yemeni-city-of-taez-for-spreading-christianity.md)
 Gunmen on motorbikes kill man believed to have been a language teacher in southern city of Taiz, officials say.
 
-##### hospital
+##### Hospital
 ### [Two hospital nurses are arrested in the Uruguayan capital Montevideo in connection with the suspicious death of dozens of patients over several years at two hospitals. ](/news/2012/03/18/two-hospital-nurses-are-arrested-in-the-uruguayan-capital-montevideo-in-connection-with-the-suspicious-death-of-dozens-of-patients-over-seve.md)
-_Context: Uruguay, hospital, Montevideo, nurses_
+_Context: nurses, hospital, Montevideo, Uruguay_
 
 ##### Superleague Greece
 ### [A Superleague Greece match between Athens football clubs Olympiacos and Panathinaikos is abandoned after fans set fire to parts of the Athens Olympic Stadium. ](/news/2012/03/18/a-superleague-greece-match-between-athens-football-clubs-olympiacos-and-panathinaikos-is-abandoned-after-fans-set-fire-to-parts-of-the-athen.md)
-_Context: Athens, Superleague Greece, Panathinaikos, Olympiacos, Olympic Stadium_
+_Context: Olympic Stadium, Olympiacos, Superleague Greece, Panathinaikos, Athens_
 
 ##### Downtown
 ### [A tourist in Downtown Baltimore, Maryland is beaten, robbed, and stripped by a group of African-Americans. ](/news/2012/03/18/a-tourist-in-downtown-baltimore-maryland-is-beaten-robbed-and-stripped-by-a-group-of-african-americans.md)
-_Context: beaten, robbed, and stripped, Downtown, Baltimore, Maryland_
+_Context: Downtown, Baltimore, Maryland, beaten, robbed, and stripped_
 
 ##### Guinea-Bissau
 ### [Voters in Guinea-Bissau go to the polls for a presidential election following the death of President Malam Bacai Sanha in January. ](/news/2012/03/18/voters-in-guinea-bissau-go-to-the-polls-for-a-presidential-election-following-the-death-of-president-malam-bacai-sanha-in-january.md)
@@ -45,15 +45,15 @@ Votes are being counted in the West African nation of Guinea-Bissau following an
 
 ##### Joachim Gauck
 ### [Joachim Gauck is elected President of the Federal Republic of Germany by the Federal Assembly. ](/news/2012/03/18/joachim-gauck-is-elected-president-of-the-federal-republic-of-germany-by-the-federal-assembly.md)
-_Context: Joachim Gauck, Federal Assembly, President of the Federal Republic of Germany_
+_Context: Federal Assembly, Joachim Gauck, President of the Federal Republic of Germany_
 
 ##### Republican primaries
 ### [Voters in the US territory of Puerto Rico go to the polls for the Republican primary with Mitt Romney winning all of the delegates. ](/news/2012/03/18/voters-in-the-us-territory-of-puerto-rico-go-to-the-polls-for-the-republican-primary-with-mitt-romney-winning-all-of-the-delegates.md)
-_Context: Republican primaries, Mitt Romney, Puerto Rico, Republican primary_
+_Context: Republican primary, Mitt Romney, Republican primaries, Puerto Rico_
 
 ##### Cuba
 ### [Authorities in Cuba detain dissident Berta Soler and dozens of her supporters ahead of a visit by Pope Benedict XVI. ](/news/2012/03/18/authorities-in-cuba-detain-dissident-berta-soler-and-dozens-of-her-supporters-ahead-of-a-visit-by-pope-benedict-xvi.md)
-_Context: Berta Soler, Cuba, Pope Benedict XVI_
+_Context: Pope Benedict XVI, Cuba, Berta Soler_
 
 ##### King of Tonga
 ### [The King of Tonga George Tupou V dies in Hong Kong at the age of 63. He is succeeded by his younger brother, `Aho`eitu `Unuaki`otonga Tuku`aho. ](/news/2012/03/18/the-king-of-tonga-george-tupou-v-dies-in-hong-kong-at-the-age-of-63-he-is-succeeded-by-his-younger-brother-e-ahoe-eitu-e-unuakie-otonga-tu.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/25/a-military-spokesperson-claims-that-a-suicide-b
 
 ### [2010-08-25](/news/2010/08/25/index.md)
 
-##### army
+##### Army
 # A military spokesperson claims that a suicide bomber was shot and killed when he tried to drive a truckload of explosives into a Mauritanian army barracks in Nema near the border with Mali. 
 
 

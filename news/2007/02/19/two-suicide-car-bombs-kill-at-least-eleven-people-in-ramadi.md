@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/19/two-suicide-car-bombs-kill-at-least-eleven-peop
 
 ### [2007-02-19](/news/2007/02/19/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Two suicide car bombs kill at least eleven people in Ramadi. 
 
 

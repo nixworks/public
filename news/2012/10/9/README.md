@@ -3,7 +3,7 @@ Formats: [HTML](2012/10/9/index.html)  [JSON](2012/10/9/index.json)  [XML](2012/
 
 ## [2012-10-9](/news/2012/10/9/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 ### [A suicide bomb attack takes place on an intelligence agency building in Damascus, reportedly killing dozens of people. The rebel al-Nusra Front claims responsibility. ](/news/2012/10/9/a-suicide-bomb-attack-takes-place-on-an-intelligence-agency-building-in-damascus-reportedly-killing-dozens-of-people-the-rebel-al-nusra-fr.md)
 Syrian rebels carry out a bomb attack on an intelligence agency complex in Damascus, with one activist group saying dozens of people were killed.
 
@@ -17,7 +17,7 @@ The death of Heriberto Lazcano, known as El Lazca and the main leader of the Zet
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai, a 15-year-old activist for women's education rights, is shot by Taliban gunmen in the Swat Valley. ](/news/2012/10/9/malala-yousafzai-a-15-year-old-activist-for-women-s-education-rights-is-shot-by-taliban-gunmen-in-the-swat-valley.md)
-_Context: education, Malala Yousafzai, Taliban, women, Swat Valley, Women's rights_
+_Context: Malala Yousafzai, women, education, Swat Valley, Women's rights, Taliban_
 
 ##### Athens
 ### [An estimated 25,000 protest in Athens as German Chancellor Angela Merkel visits Greece. ](/news/2012/10/9/an-estimated-25-000-protest-in-athens-as-german-chancellor-angela-merkel-visits-greece.md)
@@ -25,7 +25,7 @@ German Chancellor Angela Merkel - on a visit to Athens - praises Greece for prog
 
 ##### North Korea
 ### [Three North Korean soldiers have defected to South Korea through the militarised border since August. ](/news/2012/10/9/three-north-korean-soldiers-have-defected-to-south-korea-through-the-militarised-border-since-august.md)
-_Context: South Korea, DMZ, North Korea_
+_Context: North Korea, South Korea, DMZ_
 
 ##### Jerry Sandusky
 ### [An audio recording of Jerry Sandusky is released in which he "wonders what they've won". ](/news/2012/10/9/an-audio-recording-of-jerry-sandusky-is-released-in-which-he-wonders-what-they-ve-won.md)

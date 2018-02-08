@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/10/near-earth-asteroid-99942-apophis-passes-close-
 
 ### [2013-01-10](/news/2013/01/10/index.md)
 
-##### near-Earth asteroid
+##### Near-Earth asteroid
 # Near-Earth asteroid 99942 Apophis passes close to the Earth with observations by European astronomers estimating that it is larger than previously thought. 
 
 Asteroid, which was once deemed a danger to the planet, will return much closer in 2036; watch it zoom by online

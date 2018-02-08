@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/7/four-suspected-militants-fatally-shoot-two-borde
 
 ### [2006-01-7](/news/2006/01/7/index.md)
 
-##### police
+##### Police
 #  Four suspected militants fatally shoot two border-policemen in the back at a crowded weekend market in Yala province, Thailand, where the South Thailand insurgency continues since an increase in violence in January 2001. 
 
 

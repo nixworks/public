@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/5/preliminary-results-of-the-referendum-on-the-new
 
 ### [2010-08-5](/news/2010/08/5/index.md)
 
-##### the new constitution
+##### The new constitution
 # Preliminary results of the referendum on the new Constitution of Kenya show it has passed with 67 per cent of the vote following a peaceful election. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/4/a-memorial-service-is-held-at-st-mary-s-church-i
 
 ### [2007-03-4](/news/2007/03/4/index.md)
 
-##### memorial service
+##### Memorial service
 #  A memorial service is held at St Mary's Church in Dover, United Kingdom, to mark the 20th anniversary of the Zeebrugge ferry disaster. 
 
 

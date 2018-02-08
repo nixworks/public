@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/10/voters-in-france-go-to-the-polls-for-the-first-
 
 ### [2012-06-10](/news/2012/06/10/index.md)
 
-##### legislative election
+##### Legislative election
 # Voters in France go to the polls for the first round of parliamentary elections with the Socialist Party doing well. 
 
 French President Francois Hollande is on track to win a solid parliamentary majority after a first-round election that leaves him strengthened heading into a flurry of talks with euro zone leaders that could make or break the currency union.

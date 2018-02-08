@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/16/a-series-of-car-bombings-by-insurgents-across-c
 
 ### [2013-06-16](/news/2013/06/16/index.md)
 
-##### car bomb
+##### Car bomb
 # A series of car bombings by insurgents across central and southern Iraq kill at least twenty people. 
 
 At least 30 people have been killed in a wave of car bombings across central and southern Iraq, police and medics say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/2/eight-people-die-in-a-car-bomb-explosion-at-a-to
 
 ### [2007-07-2](/news/2007/07/2/index.md)
 
-##### car bomb
+##### Car bomb
 #  Eight people die in a car bomb explosion at a tourist site in Yemen. 
 
 

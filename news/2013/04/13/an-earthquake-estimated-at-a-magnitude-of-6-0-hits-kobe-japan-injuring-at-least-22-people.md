@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-h
 
 ### [2013-04-13](/news/2013/04/13/index.md)
 
-##### earthquake
+##### Earthquake
 # An earthquake estimated at a magnitude of 6.0 hits Kobe, Japan, injuring at least 22 people. 
 
 A strong earthquake shook Japan on Saturday near the southwestern city of Kobe, leaving 23 people injured, seven of them seriously &mdash; mostly elderly tripping while trying to flee, police said. No one was killed.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-wazirista
 
 ### [2012-06-3](/news/2012/06/3/index.md)
 
-##### drones launch
+##### Drones launch
 # A U.S. drone attack in Pakistan's South Waziristan tribal region kills at least 10 suspected militants. 
 
 

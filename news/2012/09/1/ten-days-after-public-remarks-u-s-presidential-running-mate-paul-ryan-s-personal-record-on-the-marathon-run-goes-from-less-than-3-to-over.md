@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/1/ten-days-after-public-remarks-u-s-presidential-r
 
 ### [2012-09-1](/news/2012/09/1/index.md)
 
-##### running mate
+##### Running mate
 # Ten days after public remarks, U.S. presidential running mate Paul Ryan's personal record on the marathon run goes from less than 3 to over 4 hours. 
 
 

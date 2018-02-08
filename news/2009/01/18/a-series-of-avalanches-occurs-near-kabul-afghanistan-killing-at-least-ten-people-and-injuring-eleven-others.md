@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/18/a-series-of-avalanches-occurs-near-kabul-afghan
 
 ### [2009-01-18](/news/2009/01/18/index.md)
 
-##### avalanche
+##### Avalanche
 #  A series of avalanches occurs near Kabul, Afghanistan, killing at least ten people and injuring eleven others. 
 
 

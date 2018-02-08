@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/25/a-state-of-emergency-is-declared-in-the-marshal
 
 ### [2008-12-25](/news/2008/12/25/index.md)
 
-##### state of emergency
+##### State of emergency
 #  A state of emergency is declared in the Marshall Islands, due to widespread flooding. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/27/scientists-warn-that-a-devastating-influenza-ep
 
 ### [2003-11-27](/news/2003/11/27/index.md)
 
-##### flu
+##### Flu
 #  Scientists warn that a devastating influenza epidemic is not only inevitable but may be imminent.
 
 

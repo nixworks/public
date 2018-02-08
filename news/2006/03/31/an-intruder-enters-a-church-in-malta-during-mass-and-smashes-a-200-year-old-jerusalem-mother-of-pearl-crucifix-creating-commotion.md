@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/31/an-intruder-enters-a-church-in-malta-during-mas
 
 ### [2006-03-31](/news/2006/03/31/index.md)
 
-##### church
+##### Church
 #  An intruder enters a church in Malta during mass and smashes a 200-year-old Jerusalem mother-of-pearl crucifix creating commotion. 
 
 

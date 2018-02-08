@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/20/in-international-rugby-union-france-achieve-the
 
 ### [2010-03-20](/news/2010/03/20/index.md)
 
-##### rugby union
+##### Rugby union
 # In international rugby union, France achieve the Grand Slam&mdash;their first since 2004&mdash;to win the 2010 Six Nations Championship. 
 
 News and opinion from The Times &amp; The Sunday Times

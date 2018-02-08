@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/12/united-states-intelligence-officials-confirm-th
 
 ### [2005-01-12](/news/2005/01/12/index.md)
 
-##### weapons of mass destruction
+##### Weapons of mass destruction
 #  United States intelligence officials confirm that its search for weapons of mass destruction in Iraq ended last month. The claim that Iraq had an active WMD program was the White House's key justification for the 2003 invasion of Iraq. 
 
 

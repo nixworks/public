@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/24/a-strong-earthquake-with-a-preliminary-magnitud
 
 ### [2008-07-24](/news/2008/07/24/index.md)
 
-##### earthquake
+##### Earthquake
 #  A strong earthquake with a preliminary magnitude of 6.8 hits off the coast of Honshu, Japan with reports of landslides, injuries and disruption to transport and power supplies. 
 
 

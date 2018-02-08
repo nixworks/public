@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/13/heavy-rains-and-flooding-in-colombia-cause-up-t
 
 ### [2010-12-13](/news/2010/12/13/index.md)
 
-##### flood
+##### Flood
 # Heavy rains and flooding in Colombia cause up to $5.2 billion in damages. 
 
 

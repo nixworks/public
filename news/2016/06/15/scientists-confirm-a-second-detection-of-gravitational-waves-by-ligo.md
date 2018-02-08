@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravit
 
 ### [2016-06-15](/news/2016/06/15/index.md)
 
-##### second detection
+##### Second detection
 # Scientists confirm a second detection of gravitational waves by LIGO. 
 
 Following February’s historic announcement, LIGO has again spotted ripples in the fabric of spacetime, from the collision of a second set of black holes

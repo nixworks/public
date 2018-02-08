@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8
 
 ### [2008-02-25](/news/2008/02/25/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomber in Rawalpindi, Pakistan, kills 8 people including Pakistan's Surgeon General, Lieutenant General Mushtaq Ahmed Baig. 
 
 

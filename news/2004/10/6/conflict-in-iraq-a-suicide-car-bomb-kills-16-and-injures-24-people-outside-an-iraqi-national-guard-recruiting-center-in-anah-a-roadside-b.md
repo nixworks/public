@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/6/conflict-in-iraq-a-suicide-car-bomb-kills-16-and
 
 ### [2004-10-6](/news/2004/10/6/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: A suicide car bomb kills 16 and injures 24 people outside an Iraqi National Guard recruiting center in Anah, a roadside bomb kills a civilian and wounds four policemen in Basra, and a Kurdish tribal leader and his companion are shot dead in Mosul. 
 
 

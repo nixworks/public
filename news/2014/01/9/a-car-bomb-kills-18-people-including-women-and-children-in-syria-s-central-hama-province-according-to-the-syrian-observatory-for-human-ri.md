@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/9/a-car-bomb-kills-18-people-including-women-and-c
 
 ### [2014-01-9](/news/2014/01/9/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb kills 18 people, including women and children, in Syria's central Hama province, according to the Syrian Observatory for Human Rights organization. 
 
 American intelligence and counterterrorism officials said Islamic extremist groups were trying to identify, recruit and train Westerners to carry out attacks when they returned home.

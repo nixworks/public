@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/12/a-truck-bomb-explodes-at-fsb-headquarters-in-zn
 
 ### [2003-05-12](/news/2003/05/12/index.md)
 
-##### truck bomb
+##### Truck bomb
 #  A truck bomb explodes at FSB headquarters in Znamenskoye, Chechnya, killing 59 and wounding some 200 more, in an apparent suicide attack. Official Russian sources blame the incident on Chechen separatist rebels. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-
 
 ### [2008-08-7](/news/2008/08/7/index.md)
 
-##### coup d'tat
+##### Coup d'tat
 #  The leaders of the 2008 Mauritanian coup d'tat promise to hold elections as soon as possible. 
 
 

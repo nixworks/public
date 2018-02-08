@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/5/a-bus-carrying-high-school-band-students-tips-ov
 
 ### [2008-04-5](/news/2008/04/5/index.md)
 
-##### high school
+##### High school
 #  A bus carrying high school band students tips over on Interstate 94 northwest of Minneapolis, Minnesota, United States, killing one person and leaving three others in critical condition. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/3/the-death-toll-from-a-tornado-outbreak-in-the-us
 
 ### [2012-03-3](/news/2012/03/3/index.md)
 
-##### tornadoes
+##### Tornadoes
 # The death toll from a tornado outbreak in the US reaches at least 36, with casualties reported in Kentucky, Indiana, Alabama, Georgia and Ohio. 
 
 At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as storms and tornadoes sweep across vast parts of the Midwest.

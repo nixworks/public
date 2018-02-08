@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/21/a-polar-blast-moving-north-over-the-south-islan
 
 ### [2007-06-21](/news/2007/06/21/index.md)
 
-##### polar blast moving north
+##### Polar blast moving north
 #  A polar blast moving north over the South Island of New Zealand causes major disruptions and claims at least one life. 
 
 

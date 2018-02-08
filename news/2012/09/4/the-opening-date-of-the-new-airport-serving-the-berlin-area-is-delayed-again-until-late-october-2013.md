@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/4/the-opening-date-of-the-new-airport-serving-the-
 
 ### [2012-09-4](/news/2012/09/4/index.md)
 
-##### new airport
+##### New airport
 # The opening date of the new airport serving the Berlin area is delayed again, until late October 2013. 
 
 

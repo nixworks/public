@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/19/blink-182-officially-break-up-on-this-date-howe
 
 ### [2005-02-19](/news/2005/02/19/index.md)
 
-##### blink-182
+##### Blink-182
 #  blink-182 officially break up on this date. However, the "indefinite hiatus" was not announced until February 22, 2005.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/25/2006-ukraine-parliament-crisis-ukraine-s-parlia
 
 ### [2006-07-25](/news/2006/07/25/index.md)
 
-##### parliament
+##### Parliament
 #  2006 Ukraine parliament crisis. Ukraine's parliament, Verkhovna Rada, misses the deadline to form a coalition, facing a possible dissolution. 
 
 

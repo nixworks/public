@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/28/more-than-one-million-local-government-workers-
 
 ### [2006-03-28](/news/2006/03/28/index.md)
 
-##### local government
+##### Local government
 #  More than one million local government workers in the UK strike over cuts to pension schemes, in an action co-ordinated by eight trade unions. 
 
 

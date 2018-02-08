@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/8/a-car-bomb-explodes-in-the-nigerian-city-of-kadu
 
 ### [2012-04-8](/news/2012/04/8/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes in the Nigerian city of Kaduna killing dozens of people. 
 
 

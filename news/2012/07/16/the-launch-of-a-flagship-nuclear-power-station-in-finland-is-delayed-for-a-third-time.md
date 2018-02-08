@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/16/the-launch-of-a-flagship-nuclear-power-station-
 
 ### [2012-07-16](/news/2012/07/16/index.md)
 
-##### flagship nuclear power
+##### Flagship nuclear power
 # The launch of a flagship nuclear power station in Finland is delayed for a third time. 
 
 The launch of a flagship nuclear power station in Finland is delayed for a third time, Finnish electricity company TVO says.

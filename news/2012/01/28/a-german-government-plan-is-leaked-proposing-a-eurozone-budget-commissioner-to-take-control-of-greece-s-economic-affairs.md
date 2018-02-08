@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/28/a-german-government-plan-is-leaked-proposing-a-
 
 ### [2012-01-28](/news/2012/01/28/index.md)
 
-##### eurozone
+##### Eurozone
 # A German government plan is leaked proposing a eurozone "budget commissioner" to take control of Greece's economic affairs. 
 
 

@@ -9,7 +9,7 @@ To mark Canada’s 150th birthday, CBC has launched a national storytelling proj
 
 ##### 61st Primetime Emmy Awards
 ### [ Toni Collette wins the Emmy for Outstanding Lead Actress in a Comedy Series for playing Tara Gregson on "United States of Tara". ](/news/2009/09/20/toni-collette-wins-the-emmy-for-outstanding-lead-actress-in-a-comedy-series-for-playing-tara-gregson-on-united-states-of-tara.md)
-_Context: Toni Collette, United States of Tara, 61st Primetime Emmy Awards_
+_Context: United States of Tara, 61st Primetime Emmy Awards, Toni Collette_
 
 ##### Trafigura
 ### [ Trafigura oil trading firm agrees to pay more than $46 million compensation to more than 30,000 people in Cte d'Ivoire who say they were made ill by dumped waste in 2006. ](/news/2009/09/20/trafigura-oil-trading-firm-agrees-to-pay-more-than-46-million-compensation-to-more-than-30-000-people-in-cote-d-ivoire-who-say-they-were-m.md)
@@ -17,15 +17,15 @@ Ivory Coast residents to give up claims against Trafigura under $50m deal, firm 
 
 ##### Shia
 ### [ More than 140 Shiite Houthi rebels are killed in northern Yemen after they attempt to take over the government palace in the city of Sa'dah. ](/news/2009/09/20/more-than-140-shiite-houthi-rebels-are-killed-in-northern-yemen-after-they-attempt-to-take-over-the-government-palace-in-the-city-of-sa-dah.md)
-_Context: Sa'dah, Shia, Yemen_
+_Context: Yemen, Shia, Sa'dah_
 
 ##### Havana
 ### [ In Havana's Plaza de la Revolucin, Juanes, Silvio Rodrguez and Miguel Bos headline Cuba's largest open-air concert since the 1959 Revolution. ](/news/2009/09/20/in-havana-s-plaza-de-la-revolucion-juanes-silvio-rodriguez-and-miguel-bose-headline-cuba-s-largest-open-air-concert-since-the-1959-revolu.md)
-_Context: Miguel Bos, Juanes, Cuban Revolution, Havana, Plaza de la Revolucin, Silvio Rodrguez, Cuba_
+_Context: Cuban Revolution, Juanes, Havana, Plaza de la Revolucin, Cuba, Silvio Rodrguez, Miguel Bos_
 
 ##### Colombia
 ### [ Colombian President lvaro Uribe eases the terms for the release of 24 police and soldiers being held by Marxist FARC rebels. ](/news/2009/09/20/colombian-president-alvaro-uribe-eases-the-terms-for-the-release-of-24-police-and-soldiers-being-held-by-marxist-farc-rebels.md)
-_Context: Colombian President, lvaro Uribe, Revolutionary Armed Forces of Colombia, Marx, Colombia_
+_Context: lvaro Uribe, Colombian President, Marx, Colombia, Revolutionary Armed Forces of Colombia_
 
 ##### Democratic Republic of Congo
 ### [ Democratic Republic of Congo transfers Grgoire Ndahimana to the International Criminal Tribunal for Rwanda (ICTR) to stand trial for the massacre of at least 2,000 Rwandan Tutsis during the 1994 genocide. ](/news/2009/09/20/democratic-republic-of-congo-transfers-gregoire-ndahimana-to-the-international-criminal-tribunal-for-rwanda-ictr-to-stand-trial-for-the-m.md)
@@ -45,7 +45,7 @@ Somalia&#039;s hardline al Shabaab insurgents have warned schools not to use tex
 
 ##### Sumer
 ### [ The bust of a Sumerian king is among eight stolen antiques recovered in an undercover operation by Iraqi police. ](/news/2009/09/20/the-bust-of-a-sumerian-king-is-among-eight-stolen-antiques-recovered-in-an-undercover-operation-by-iraqi-police.md)
-_Context: Iraq, Sumer_
+_Context: Sumer, Iraq_
 
 ## [Previous Day...](/news/2009/09/19/index.md)
 

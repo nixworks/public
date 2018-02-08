@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/07/24/first-near-earth-object-to-be-given-a-positive-
 
 ### [2002-07-24](/news/2002/07/24/index.md)
 
-##### near-Earth object
+##### Near-Earth object
 #  First near-Earth object to be given a positive rating on the Palermo Technical Impact Hazard Scale for potential Earth collision is (89959) 2002 NT 7 with a potential impact on February 1, 2019.
 
 

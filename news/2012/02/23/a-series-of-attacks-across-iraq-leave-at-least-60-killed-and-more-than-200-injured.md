@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/23/a-series-of-attacks-across-iraq-leave-at-least-
 
 ### [2012-02-23](/news/2012/02/23/index.md)
 
-##### series of attacks
+##### Series of attacks
 # A series of attacks across Iraq leave at least 60 killed and more than 200 injured. 
 
 Suspected al Qaeda militants unleashed a wave of terror across Baghdad and 11 other Iraqi cities on Thursday, killing at least 60 people in a series of attacks on government buildings, security targets, restaurants and a primary school.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/5/a-group-of-50-asylum-seekers-held-in-an-australi
 
 ### [2007-09-5](/news/2007/09/5/index.md)
 
-##### asylum-seeker
+##### Asylum-seeker
 #  A group of 50 asylum-seekers held in an Australian facility on Nauru have started a hunger strike. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/11/a-total-solar-eclipse-occurs-in-the-south-pacif
 
 ### [2010-07-11](/news/2010/07/11/index.md)
 
-##### total solar eclipse
+##### Total solar eclipse
 # A total solar eclipse occurs in the south Pacific Ocean with thousands viewing the event on Easter Island. 
 
 

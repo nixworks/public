@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-unite
 
 ### [2012-06-3](/news/2012/06/3/index.md)
 
-##### diamond jubilee
+##### Diamond jubilee
 # The Diamond Jubilee of Elizabeth II of the United Kingdom reaches its peak with a pageant on the River Thames. 
 
 

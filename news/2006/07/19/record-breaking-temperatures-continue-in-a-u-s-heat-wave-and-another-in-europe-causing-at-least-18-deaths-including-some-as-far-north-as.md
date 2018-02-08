@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/19/record-breaking-temperatures-continue-in-a-u-s-
 
 ### [2006-07-19](/news/2006/07/19/index.md)
 
-##### heat wave
+##### Heat wave
 #  Record-breaking temperatures continue in a U.S. heat wave and another in Europe, causing at least 18 deaths, including some as far north as the Netherlands. The UK hit a record-breaking July temperature of 36.5C (97.7F) at Wisley. 
 
 

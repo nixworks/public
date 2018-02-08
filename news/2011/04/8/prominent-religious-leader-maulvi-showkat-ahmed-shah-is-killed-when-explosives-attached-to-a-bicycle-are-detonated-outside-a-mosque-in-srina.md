@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-
 
 ### [2011-04-8](/news/2011/04/8/index.md)
 
-##### mosque
+##### Mosque
 # Prominent religious leader Maulvi Showkat Ahmed Shah is killed when explosives attached to a bicycle are detonated outside a mosque in Srinagar, Kashmir, thought to be the first attack of its kind in about two years. The capital's shops shut down and traffic is suspended. 
 
 

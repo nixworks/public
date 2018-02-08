@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/10/four-people-are-killed-and-dozens-injured-in-a-
 
 ### [2012-03-10](/news/2012/03/10/index.md)
 
-##### grenade
+##### Grenade
 # Four people are killed and dozens injured in a grenade attack in Nairobi, Kenya 
 
 At least six people are killed in a grenade attack in the Kenyan capital which the authorities are blaming on Somali militant group al-Shabab.

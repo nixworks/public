@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/27/a-suicide-car-bomb-explodes-near-the-united-sta
 
 ### [2008-11-27](/news/2008/11/27/index.md)
 
-##### suicide
+##### Suicide
 #  A suicide car bomb explodes near the United States embassy in Kabul, Afghanistan, with at least one person dead. 
 
 

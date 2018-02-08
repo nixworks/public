@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/22/voters-in-the-european-union-go-to-the-polls-fo
 
 ### [2014-05-22](/news/2014/05/22/index.md)
 
-##### newly elected
+##### Newly elected
 # Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in the United Kingdom and the Netherlands vote today. 
 
 There&#8217;s now only one day to go until voting starts for the 2014 European Parliament elections! Each country in the EU...

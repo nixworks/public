@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/21/in-china-a-dam-collapses-in-yunnan-province-at-
 
 ### [2005-07-21](/news/2005/07/21/index.md)
 
-##### dam
+##### Dam
 #  In China, a dam collapses in Yunnan province. At least 15 dead and 23 injured. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/12/at-least-33-people-die-following-a-suicide-bomb
 
 ### [2011-02-12](/news/2011/02/12/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least 33 people die following a suicide bombing near the Iraqi city of Samarra. 
 
 

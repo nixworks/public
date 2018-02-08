@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/8/thaer-halahla-a-palestinian-national-on-hunger-s
 
 ### [2012-05-8](/news/2012/05/8/index.md)
 
-##### hunger strike
+##### Hunger strike
 # Thaer Halahla, a Palestinian national on hunger strike for 71 days after being jailed by Israeli authorities, is transferred to a civilian hospital. 
 
 A Palestinian who has been on hunger strike for 71 days in protest at his detention by the Israeli authorities is transferred to a civilian hospital.

@@ -17,7 +17,7 @@ Reports of heavy shelling in city that was first to fall to ISIL in 2014 as bele
 
 ##### Insurgency in Jammu and Kashmir
 ### [ Three policemen are killed in Srinagar, India. Hizbul Mujahideen claims responsibility. ](/news/2016/05/23/three-policemen-are-killed-in-srinagar-india-hizbul-mujahideen-claims-responsibility.md)
-_Context: Insurgency in Jammu and Kashmir, India, Hizbul Mujahideen, police, Srinagar_
+_Context: Insurgency in Jammu and Kashmir, Srinagar, police, Hizbul Mujahideen, India_
 
 ##### War in Afghanistan
 ### [The Taliban leadership council reportedly meets to determine a successor to Mullah Akhtar Mansour, killed this weekend during an American drone strike in Pakistan. ](/news/2016/05/23/the-taliban-leadership-council-reportedly-meets-to-determine-a-successor-to-mullah-akhtar-mansour-killed-this-weekend-during-an-american-dr.md)
@@ -27,9 +27,9 @@ U.S. President Barack Obama approved the drone strike that killed Mullah Akhtar 
 ### [Germany's Bayer AG makes an unsolicited bid valued at $62 billion cash to takeover American company Monsanto to create the world's largest agricultural chemical company. ](/news/2016/05/23/germany-s-bayer-ag-makes-an-unsolicited-bid-valued-at-62-billion-cash-to-takeover-american-company-monsanto-to-create-the-world-s-largest-a.md)
 Bayer AG offered $62 billion to buy Monsanto Co., deepening investor concern that it will strain its finances as it seeks to become the world’s biggest seller of seeds and farm chemicals.
 
-##### elementary school's
+##### Elementary school's
 ### [An overnight fire at Pitakiatwittaya Christian elementary school's dormitory in the northern Chiang Rai Province in Thailand kills 18 girls between the ages of 5 and 12. The other 20 girls sleeping in the dorm are rescued, though five are injured. ](/news/2016/05/23/an-overnight-fire-at-pitakiatwittaya-christian-elementary-school-s-dormitory-in-the-northern-chiang-rai-province-in-thailand-kills-18-girls.md)
-_Context: dormitory, Thailand, Chiang Rai Province, elementary school's_
+_Context: dormitory, elementary school's, Thailand, Chiang Rai Province_
 
 ##### Cyclone Roanu
 ### [Sri Lanka's Disaster Management Centre reports 92 people are confirmed dead with 109 people still missing from landslides and floods resulting from Roanu. More than 500,000 have been driven from their homes. ](/news/2016/05/23/sri-lanka-s-disaster-management-centre-reports-92-people-are-confirmed-dead-with-109-people-still-missing-from-landslides-and-floods-resulti.md)
@@ -45,7 +45,7 @@ MIREBALAIS, Haiti (AP) — Berny Saint-Sauveur was moaning and incoherent when h
 
 ##### United States-Vietnam relations
 ### [ United States President Barack Obama ends the American arms embargo with Vietnam during his visit in the country. ](/news/2016/05/23/united-states-president-barack-obama-ends-the-american-arms-embargo-with-vietnam-during-his-visit-in-the-country.md)
-_Context: United States, Barack Obama, Vietnam, United States-Vietnam relations, U.S. President_
+_Context: U.S. President, United States-Vietnam relations, Vietnam, Barack Obama, United States_
 
 ##### World Humanitarian Summit
 ### [The first-ever United Nations humanitarian summit opens in Istanbul, Turkey, to address the 125-million people crisis, the worst since World War II. ](/news/2016/05/23/the-first-ever-united-nations-humanitarian-summit-opens-in-istanbul-turkey-to-address-the-125-million-people-crisis-the-worst-since-world.md)
@@ -59,7 +59,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [Judge Barry Williams finds Baltimore, Maryland, Police Officer Edward Nero not guilty of all charges. Nero was accused of second-degree intentional assault, two counts of misconduct in office, and reckless endangerment. Community leaders and elected officials appeal for calm. ](/news/2016/05/23/judge-barry-williams-finds-baltimore-maryland-police-officer-edward-nero-not-guilty-of-all-charges-nero-was-accused-of-second-degree-inte.md)
 The Latest: Mayor: Baltimore ready in case of &#8216;disturbance&#8217;
 
-##### robocalls
+##### Robocalls
 ### [Threatening robocalls lead to mass evacuation of students in the United States and United Kingdom. None of the threats were found to be credible but disrupted General Certificate of Secondary Education tests in the UK. ](/news/2016/05/23/threatening-robocalls-lead-to-mass-evacuation-of-students-in-the-united-states-and-united-kingdom-none-of-the-threats-were-found-to-be-cred.md)
 Thousands of students in several dozen schools across the United States and Great Britain were evacuated Monday after seemingly coordinated threats.
 
@@ -77,7 +77,7 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ##### Austrian presidential election, 2016
 ### [ Independent candidate Alexander Van der Bellen, a member of The Greens, is elected President of Austria in a tight contest that was decided by mail-in votes. ](/news/2016/05/23/independent-candidate-alexander-van-der-bellen-a-member-of-the-greens-is-elected-president-of-austria-in-a-tight-contest-that-was-decided.md)
-_Context: Austrian presidential election, 2016, Green, President, Alexander Van der Bellen_
+_Context: President, Green, Alexander Van der Bellen, Austrian presidential election, 2016_
 
 ##### Rodrigo Duterte
 ### [Rodrigo Duterte, the Philippines presumptive president-elect, says he will allow the immediate burial of former kleptocratic dictator Ferdinand Marcos at the Heroes' Cemetery in metropolitan Manila. ](/news/2016/05/23/rodrigo-duterte-the-philippines-presumptive-president-elect-says-he-will-allow-the-immediate-burial-of-former-kleptocratic-dictator-ferdin.md)

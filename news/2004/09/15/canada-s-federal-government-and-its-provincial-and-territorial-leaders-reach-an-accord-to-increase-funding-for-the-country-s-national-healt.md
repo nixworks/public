@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/15/canada-s-federal-government-and-its-provincial-
 
 ### [2004-09-15](/news/2004/09/15/index.md)
 
-##### federal government
+##### Federal government
 #  Canada's federal government and its provincial and territorial leaders reach an accord to increase funding for the country's national health care system. In exchange for an increase in federal funding of CAD 18 billion over the next six years, provincial and territorial leaders agree to reforms intended to reduce patient waiting times. 
 
 

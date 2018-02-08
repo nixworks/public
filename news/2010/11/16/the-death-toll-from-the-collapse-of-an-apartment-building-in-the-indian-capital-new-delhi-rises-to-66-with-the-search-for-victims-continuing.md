@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/16/the-death-toll-from-the-collapse-of-an-apartmen
 
 ### [2010-11-16](/news/2010/11/16/index.md)
 
-##### collapse of an apartment building
+##### Collapse of an apartment building
 # The death toll from the collapse of an apartment building in the Indian capital New Delhi rises to 66 with the search for victims continuing. 
 
 

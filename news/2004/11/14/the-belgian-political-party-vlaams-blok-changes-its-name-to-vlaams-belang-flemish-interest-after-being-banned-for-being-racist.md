@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/14/the-belgian-political-party-vlaams-blok-changes
 
 ### [2004-11-14](/news/2004/11/14/index.md)
 
-##### political party
+##### Political party
 #  The Belgian political party Vlaams Blok changes its name to Vlaams Belang ("Flemish Interest") after being banned for being racist. 
 
 

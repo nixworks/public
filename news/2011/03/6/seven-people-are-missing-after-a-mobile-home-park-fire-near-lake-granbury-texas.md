@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/6/seven-people-are-missing-after-a-mobile-home-par
 
 ### [2011-03-6](/news/2011/03/6/index.md)
 
-##### mobile home
+##### Mobile home
 # Seven people are missing after a mobile home park fire near Lake Granbury, Texas. 
 
 

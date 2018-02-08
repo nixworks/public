@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/12/the-first-anniversary-since-the-disputed-presid
 
 ### [2010-06-12](/news/2010/06/12/index.md)
 
-##### re-election
+##### Re-election
 # The first anniversary since the disputed presidential election, which retained Mahmoud Ahmadinejad, passes relatively quietly after the opposition cancels rallies in the face of arrests and threats by the authorities. 
 
 Opposition cancels rallies after preemptive arrests, threats.

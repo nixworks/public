@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/10/venezuelan-police-investigate-the-kidnapping-on
 
 ### [2011-11-10](/news/2011/11/10/index.md)
 
-##### police
+##### Police
 # Venezuelan police investigate the kidnapping on Wednesday of Washington Nationals baseball catcher Wilson Ramos. 
 
 Officials in Venezuela say they have found the vehicle used to kidnap Washington Nationals catcher Wilson Ramos.

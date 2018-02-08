@@ -7,7 +7,7 @@ Formats: [HTML](2013/08/23/index.html)  [JSON](2013/08/23/index.json)  [XML](201
 ### [The United Nations reports that there are a million child refugees. ](/news/2013/08/23/the-united-nations-reports-that-there-are-a-million-child-refugees.md)
 The longer chemical weapons inspectors wait in a Damascus luxury hotel for permission to drive up the road to the site of what appears to be the worst poison gas attack in a quarter century, the less likely they will be able to get to the bottom of it.
 
-##### mosque
+##### Mosque
 ### [Explosions occur outside mosques in the Lebanese city of Tripoli. Over 50 are reported killed. ](/news/2013/08/23/explosions-occur-outside-mosques-in-the-lebanese-city-of-tripoli-over-50-are-reported-killed.md)
 At least 47 killed and 500 wounded after car bombings target two mosques in Tripoli as worshippers leave prayers.
 
@@ -21,7 +21,7 @@ UN troops in DR Congo launch an offensive on M23 rebels after shelling on Goma k
 
 ##### Israel
 ### [Israeli warplanes strike Na'ameh, Lebanon in response to rocket attacks. ](/news/2013/08/23/israeli-warplanes-strike-na-ameh-lebanon-in-response-to-rocket-attacks.md)
-_Context: Na'ameh, Israel, Lebanon_
+_Context: Na'ameh, Israel, Lebanese_
 
 ##### Cyrene, Libya
 ### [Real estate developers are reported to have severely damaged the UNESCO world heritage site of Cyrene, Libya. ](/news/2013/08/23/real-estate-developers-are-reported-to-have-severely-damaged-the-unesco-world-heritage-site-of-cyrene-libya.md)
@@ -29,7 +29,7 @@ _Context: Na'ameh, Israel, Lebanon_
 
 ##### Microsoft
 ### [Microsoft CEO Steve Ballmer announces that he will retire within the next 12 months. ](/news/2013/08/23/microsoft-ceo-steve-ballmer-announces-that-he-will-retire-within-the-next-12-months.md)
-_Context: Steve Ballmer, Microsoft_
+_Context: Microsoft, Steve Ballmer_
 
 ##### Nidal Malik Hassan
 ### [Former U.S. Army Major Nidal Malik Hassan is convicted of multiple murder and attempted murder counts in the 2009 Fort Hood shooting. ](/news/2013/08/23/former-u-s-army-major-nidal-malik-hassan-is-convicted-of-multiple-murder-and-attempted-murder-counts-in-the-2009-fort-hood-shooting.md)
@@ -37,7 +37,7 @@ _Context: Nidal Malik Hassan, Fort Hood massacre_
 
 ##### Robert Bales
 ### [Former U.S. Army Sergeant Robert Bales is sentenced to life in prison without parole for the killing of 16 Afghan civilians in March 2012. ](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.md)
-_Context: Robert Bales, Afghan, life in prison without parole_
+_Context: life in prison without parole, Robert Bales, Afghan_
 
 ##### Bob Filner
 ### [Bob Filner, mayor of San Diego, California, due to resign on August 30 over sexual harassment allegations. ](/news/2013/08/23/bob-filner-mayor-of-san-diego-california-due-to-resign-on-august-30-over-sexual-harassment-allegations.md)

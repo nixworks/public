@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/25/a-solar-system-is-discovered-for-the-star-hd-10
 
 ### [2010-08-25](/news/2010/08/25/index.md)
 
-##### solar system
+##### Solar system
 # A solar system is discovered for the star HD 10180 including a possible planet 1.4 times the size of the Earth. 
 
 At least five and possibly seven planets are circling the star HD 10180, some 127 light-years away.

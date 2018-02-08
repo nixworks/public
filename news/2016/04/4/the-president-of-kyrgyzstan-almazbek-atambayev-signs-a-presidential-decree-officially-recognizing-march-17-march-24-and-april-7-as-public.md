@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/4/the-president-of-kyrgyzstan-almazbek-atambayev-s
 
 ### [2016-04-4](/news/2016/04/4/index.md)
 
-##### president
+##### President
 # The President of Kyrgyzstan Almazbek Atambayev signs a presidential decree officially recognizing March 17, March 24, and April 7 as public holidays for Kyrgyzstan. The dates are meant to commemorate the days of Kyrgyzstan's massive anti-government revolts. On March 17, 2002, during anti-government protests in the Aksy District, police killed four protesters, while March 24 and April 7 commemorate the Tulip Revolution of 2006 and the Second Kyrgyz Revolution of 2010, respectively. 
 
 

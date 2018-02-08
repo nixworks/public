@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/9/a-magnitude-4-3-earthquake-hits-the-southern-coa
 
 ### [2011-10-9](/news/2011/10/9/index.md)
 
-##### magnitude 4.3
+##### Magnitude 4.3
 # A magnitude 4.3 earthquake hits the southern coast of El Hierro in the southwestern Canary Islands of Spain, the strongest such earthquake to occur in an earthquake swarm on the island. The quake is believed to have been caused by rising magma, which has forced evacuations amid fears of an impending volcanic eruption, which last occurred on El Hierro in 1793. 
 
 Get the latest digital weather news by visiting our website online. Our live Irish weather broadcast is update 24/7!

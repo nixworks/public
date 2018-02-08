@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-pr
 
 ### [2010-07-15](/news/2010/07/15/index.md)
 
-##### primate
+##### Primate
 # Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. 
 
 

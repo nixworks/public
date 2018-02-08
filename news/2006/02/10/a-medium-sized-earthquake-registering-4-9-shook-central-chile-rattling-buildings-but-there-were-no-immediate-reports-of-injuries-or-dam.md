@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook
 
 ### [2006-02-10](/news/2006/02/10/index.md)
 
-##### earthquake
+##### Earthquake
 #  A medium-sized earthquake, registering 4.9, shook central Chile, rattling buildings, but there were no immediate reports of injuries or damages. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

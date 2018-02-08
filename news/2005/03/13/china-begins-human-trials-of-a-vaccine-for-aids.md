@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/13/china-begins-human-trials-of-a-vaccine-for-aids
 
 ### [2005-03-13](/news/2005/03/13/index.md)
 
-##### human trial
+##### Human trial
 #  China begins human trials of a vaccine for AIDS 
 
 

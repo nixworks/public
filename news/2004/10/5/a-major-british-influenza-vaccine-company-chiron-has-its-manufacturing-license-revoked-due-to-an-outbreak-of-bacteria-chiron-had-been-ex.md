@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/5/a-major-british-influenza-vaccine-company-chiron
 
 ### [2004-10-5](/news/2004/10/5/index.md)
 
-##### influenza vaccine
+##### Influenza vaccine
 #  A major British influenza vaccine company, Chiron, has its manufacturing license revoked due to an outbreak of bacteria. Chiron had been expected to supply half of this season's flu vaccines in the United States. 
 
 

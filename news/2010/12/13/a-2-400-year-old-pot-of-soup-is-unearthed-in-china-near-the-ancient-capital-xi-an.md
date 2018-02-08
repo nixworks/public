@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/13/a-2-400-year-old-pot-of-soup-is-unearthed-in-ch
 
 ### [2010-12-13](/news/2010/12/13/index.md)
 
-##### soup
+##### Soup
 # A 2,400-year-old pot of soup is unearthed in China near the ancient capital Xi'an. 
 
 Chinese archaeologists discover what they believe is a 2,400-year-old pot of soup, during airport extension work in the city of Xian, state media report.

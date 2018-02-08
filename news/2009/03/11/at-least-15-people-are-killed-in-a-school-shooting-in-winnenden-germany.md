@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/11/at-least-15-people-are-killed-in-a-school-shoot
 
 ### [2009-03-11](/news/2009/03/11/index.md)
 
-##### killed
+##### Killed
 #  At least 15 people are killed in a school shooting in Winnenden, Germany. 
 
 

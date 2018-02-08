@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/12/20/the-magazine-science-chose-the-discovery-of-sma
 
 ### [2002-12-20](/news/2002/12/20/index.md)
 
-##### magazine
+##### Magazine
 # The magazine "Science" chose the discovery of small interfering RNAs (siRNAs) as the top science story of the year. The molecular switches have the potential to treat such diseases as HIV and cancer.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/24/the-explosion-of-a-car-bomb-outside-a-police-st
 
 ### [2007-08-24](/news/2007/08/24/index.md)
 
-##### explosion
+##### Explosion
 #  The explosion of a car bomb outside a police station in the Basque city of Durango, Spain, is believed to be the first attack by the separatist group ETA since it called off a ceasefire in June. 
 
 

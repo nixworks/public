@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-d
 
 ### [2013-01-25](/news/2013/01/25/index.md)
 
-##### police officer
+##### Police officer
 # A detective in the Irish police force is shot dead in an attempted robbery near Dundalk, County Louth. 
 
 Irish police say a detective shot dead in an attempted robbery near Dundalk in County Louth was killed without warning.

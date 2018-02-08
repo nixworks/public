@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/15/egypt-s-court-of-cassation-overturns-the-death-
 
 ### [2016-11-15](/news/2016/11/15/index.md)
 
-##### court of cassation
+##### Court of cassation
 # Egypt's court of cassation overturns the death sentence on Mohamed Morsi and five other members of the Muslim Brotherhood. The court orders a retrial of six men for their roles in releasing the prisoners from the Wadi el-Natrun prison. 
 
 

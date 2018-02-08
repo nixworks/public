@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/2/new-study-shows-that-children-of-older-fathers-a
 
 ### [2008-09-2](/news/2008/09/2/index.md)
 
-##### bipolar disorder
+##### Bipolar disorder
 #  New study shows that children of older fathers are at higher risk of psychological conditions such as bipolar disorder, autism and schizophrenia. 
 
 Children born to fathers older than 30 are more likely to develop bipolar disorder, a common condition sometimes known as manic depression, researchers reported on Monday.

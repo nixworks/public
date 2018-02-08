@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/10/between-1-1-and-1-5-million-people-according-to
 
 ### [2010-07-10](/news/2010/07/10/index.md)
 
-##### demonstrate
+##### Demonstrate
 # Between 1.1 and 1.5 million people, according to organisers, and 56000 demonstrators, according to spanish protesters-counting specialized company "Lynce", demonstrate in central Barcelona demanding greater autonomy for Catalonia within Spain. 
 
 More than a million people take part in a rally in north-eastern Spain seeking greater autonomy for the Catalan region.

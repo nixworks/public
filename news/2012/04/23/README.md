@@ -5,7 +5,7 @@ Formats: [HTML](2012/04/23/index.html)  [JSON](2012/04/23/index.json)  [XML](201
 
 ##### Bangladesh
 ### [At least two people are killed and hundreds of others injured in clashes between police and protestors during a nationwide strike in Bangladesh, which was triggered by the unexplained disappearance of opposition politician Ilyas Ali. ](/news/2012/04/23/at-least-two-people-are-killed-and-hundreds-of-others-injured-in-clashes-between-police-and-protestors-during-a-nationwide-strike-in-banglad.md)
-_Context: Ilyas Ali, Bangladesh_
+_Context: Bangladesh, Ilyas Ali_
 
 ##### Iran's oil ministry
 ### [Iran's oil ministry and its National Iranian Oil Company suffers a malware attack by a computer virus. ](/news/2012/04/23/iran-s-oil-ministry-and-its-national-iranian-oil-company-suffers-a-malware-attack-by-a-computer-virus.md)
@@ -55,13 +55,13 @@ The sister of an MI6 officer - whose body was found in a padlocked bag - tells t
 ### [The British broadcasting regulator Ofcom launches an investigation into the hacking of private email accounts by Sky News. ](/news/2012/04/23/the-british-broadcasting-regulator-ofcom-launches-an-investigation-into-the-hacking-of-private-email-accounts-by-sky-news.md)
 Ofcom launches an investigation into email hacking by Sky News after the broadcaster admitted accessing the private accounts of &quot;canoe man&quot; John Darwin and his wife.
 
-##### the state
+##### The state
 ### [Officials in Florida refuse to allow Bill Lee, the police chief who did not arrest George Zimmerman after he shot and killed unarmed black teenager Trayvon Martin, to resign. George Zimmerman, now facing a murder charge, is released on bail and taken to a secret location. ](/news/2012/04/23/officials-in-florida-refuse-to-allow-bill-lee-the-police-chief-who-did-not-arrest-george-zimmerman-after-he-shot-and-killed-unarmed-black-t.md)
 The police chief who chose not to arrest George Zimmerman after he shot and killed Trayvon Martin in Florida sees his offer to resign blocked.
 
 ##### North Carolina
 ### [The North Carolina trial of former U.S. Senator and presidential hopeful John Edwards, concerning the use of illegal campaign donations to cover up an affair with a mistress, begins. ](/news/2012/04/23/the-north-carolina-trial-of-former-u-s-senator-and-presidential-hopeful-john-edwards-concerning-the-use-of-illegal-campaign-donations-to-c.md)
-_Context: an affair, North Carolina, United States Senate, John Edwards_
+_Context: John Edwards, United States Senate, North Carolina, an affair_
 
 ##### China
 ### [Around 45 people are detained across China in a tainted capsule medicine scandal. ](/news/2012/04/23/around-45-people-are-detained-across-china-in-a-tainted-capsule-medicine-scandal.md)
@@ -77,7 +77,7 @@ _Context: Beatrix, Prime Minister, Mark Rutte_
 
 ##### Burma
 ### [Burma's parliament opens without the party of Aung San Suu Kyi who boycotted the legislature over a disagreement on the wording of the oath of office. ](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.md)
-_Context: oath of office, parliament, National League for Democracy, Burma, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, National League for Democracy, Burma, parliament, oath of office_
 
 ##### Canadian
 ### [Voters in the Canadian province of Alberta go to the polls for a general election with the incumbent Progressive Conservatives being reelected. ](/news/2012/04/23/voters-in-the-canadian-province-of-alberta-go-to-the-polls-for-a-general-election-with-the-incumbent-progressive-conservatives-being-reelect.md)
@@ -87,9 +87,9 @@ Albertans go the polls today following an election campaign that quickly became 
 ### [President of Venezuela Hugo Chavez confirms he is still alive. ](/news/2012/04/23/president-of-venezuela-hugo-cha-vez-confirms-he-is-still-alive.md)
 Venezuelan President Hugo Chavez phones state TV to deny rumours he has died while undergoing radiotherapy in Cuba for a malignant tumour.
 
-##### orca
+##### Orca
 ### [Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. ](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-first-adult-white-orca-in-the-wild-off-the-coast-of-kamchatka-russia.md)
-_Context: Kamchatka, Russia, orca_
+_Context: Kamchatka, orca, Russia_
 
 ## [Previous Day...](/news/2012/04/22/index.md)
 

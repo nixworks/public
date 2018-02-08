@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/14/the-death-of-a-pregnant-woman-from-septicaemia-
 
 ### [2012-11-14](/news/2012/11/14/index.md)
 
-##### septicaemia
+##### Septicaemia
 # The death of a pregnant woman from septicaemia in an Irish hospital prompts international outrage, protests and condemnation. University College Hospital Galway refused numerous requests from Savita Halappanavar and her family for an abortion on the grounds that "this is a Catholic country." 
 
 The death in Ireland of a woman whose repeated requests for an abortion were turned down - reportedly because “this is a Catholic country” - has sparked international protests and condemnation.

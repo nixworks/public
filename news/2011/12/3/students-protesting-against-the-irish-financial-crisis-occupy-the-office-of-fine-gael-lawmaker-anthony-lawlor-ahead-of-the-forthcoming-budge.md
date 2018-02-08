@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/3/students-protesting-against-the-irish-financial-
 
 ### [2011-12-3](/news/2011/12/3/index.md)
 
-##### falls back into recession
+##### Falls back into recession
 # Students protesting against the Irish financial crisis occupy the office of Fine Gael lawmaker Anthony Lawlor ahead of the forthcoming Budget Day. 
 
 The students refused to allow Anthony Lawlor into his own constituency office in Naas as they demand that grants and fees for third-level are left untouched in the budget. 

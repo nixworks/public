@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/13/the-date-of-the-venezuelan-presidential-electio
 
 ### [2011-09-13](/news/2011/09/13/index.md)
 
-##### inauguration approaches
+##### Inauguration approaches
 # The date of the Venezuelan presidential election is set for 7 October, 2012. 
 
 

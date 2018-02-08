@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/21/the-death-toll-has-risen-to-6-as-anti-china-rio
 
 ### [2014-05-21](/news/2014/05/21/index.md)
 
-##### anti-China
+##### Anti-China
 # The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. 
 
 Metallurgical Corp of China Ltd (MCC) said on Wednesday four of its employees working on a construction project in Vietnam were killed and 126 injured during anti-China protests last week over a disputed area in the South China Sea.

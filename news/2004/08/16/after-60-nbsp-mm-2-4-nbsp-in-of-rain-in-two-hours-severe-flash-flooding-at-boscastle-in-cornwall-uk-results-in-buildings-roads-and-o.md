@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/16/after-60-nbsp-mm-2-4-nbsp-in-of-rain-in-two-hou
 
 ### [2004-08-16](/news/2004/08/16/index.md)
 
-##### flash flooding
+##### Flash flooding
 #  After 60&nbsp;mm (2.4&nbsp;in) of rain in two hours, severe flash flooding at Boscastle in Cornwall, UK, results in buildings, roads, and over 50 cars swept away. Flood waters race through town at speeds up to 65&nbsp;km-h (40&nbsp;mph). Many have to leave their homes; helicopters airlift 150 people to safety. 
 
 

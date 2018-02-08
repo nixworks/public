@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/1/scientists-announce-the-discovery-of-the-world-s
 
 ### [2010-08-1](/news/2010/08/1/index.md)
 
-##### undersea river
+##### Undersea river
 # Scientists announce the discovery of the world's first active undersea river, in the Black Sea. 
 
 Latest environmental news, features and updates. Pictures, video and more. 

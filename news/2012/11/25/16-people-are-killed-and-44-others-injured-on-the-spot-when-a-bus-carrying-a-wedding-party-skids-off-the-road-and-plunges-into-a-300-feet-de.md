@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/25/16-people-are-killed-and-44-others-injured-on-t
 
 ### [2012-11-25](/news/2012/11/25/index.md)
 
-##### wedding
+##### Wedding
 # 16 people are killed and 44 others injured on the spot when a bus carrying a wedding party skids off the road and plunges into a 300-feet deep gorge in Udhampur district, Jammu and Kashmir, India. 
 
 Jammu, Nov 24: At least 16 people were killed and 44 others injured when a bus carrying a marriage party rolled down into a

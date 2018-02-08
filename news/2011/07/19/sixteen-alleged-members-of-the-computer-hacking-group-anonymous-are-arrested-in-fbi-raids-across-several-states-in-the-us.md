@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/19/sixteen-alleged-members-of-the-computer-hacking
 
 ### [2011-07-19](/news/2011/07/19/index.md)
 
-##### hacker
+##### Hacker
 # Sixteen alleged members of the computer hacking group Anonymous are arrested in FBI raids across several states in the US. 
 
 Fourteen people have been arrested as part of an ongoing operation targeting the notorious hacking collective known as Anonymous, the U.S. Department of Justice and the FBI said on Tuesday.

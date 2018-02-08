@@ -5,27 +5,27 @@ Formats: [HTML](2005/03/29/index.html)  [JSON](2005/03/29/index.json)  [XML](200
 
 ##### Neil Young
 ### [ At the New York-Presbyterian-Weill Cornell Medical Center, Neil Young has successful surgery for a brain aneurysm using a minimally invasive neuroradiological procedure. ](/news/2005/03/29/at-the-new-york-presbyterian-weill-cornell-medical-center-neil-young-has-successful-surgery-for-a-brain-aneurysm-using-a-minimally-invasiv.md)
-_Context: neuroradiological, Neil Young_
+_Context: Neil Young, neuroradiological_
 
-##### spam
+##### Spam
 ### [ The E-mail spammer Scott Richter of "OptInRealBig.com" has filed for bankruptcy protection in Denver. The reason claimed is a costly legal battle with Microsoft. ](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.md)
-_Context: Microsoft, lawsuit, Scott Richter, spam, bankruptcy, Denver_
+_Context: Scott Richter, Microsoft, bankruptcy, spam, Denver, lawsuit_
 
 ##### MGM Studios v. Grokster
 ### [ "MGM Studios v. Grokster", an important lawsuit regarding the future of peer-to-peer file sharing, is heard before the United States Supreme Court. ](/news/2005/03/29/mgm-studios-v-grokster-an-important-lawsuit-regarding-the-future-of-peer-to-peer-file-sharing-is-heard-before-the-united-states-suprem.md)
-_Context: lawsuit, MGM Studios v. Grokster, file sharing, United States Supreme Court, peer-to-peer_
+_Context: United States Supreme Court, peer-to-peer, lawsuit, file sharing, MGM Studios v. Grokster_
 
 ##### Lord
 ### [ Lord Paddy Ashdown, High Representative in Bosnia and Herzegovina has sacked Dragan Covic, Croat member of the Presidency of Bosnia and Herzegovina, after he has been charged (but not tried yet) for financial corruption. ](/news/2005/03/29/lord-paddy-ashdown-high-representative-in-bosnia-and-herzegovina-has-sacked-dragan-aovia-croat-member-of-the-presidency-of-bosnia-and-h.md)
-_Context: presidency, anti-corruption, Croat, Dragan Covic, Lord, High Representative, Bosnia and Herzegovina, Paddy Ashdown_
+_Context: presidency, Paddy Ashdown, Lord, Dragan Covic, High Representative, Croat, anti-corruption, Bosnia and Herzegovina_
 
 ##### Romania
 ### [ Three Romanian journalists are kidnapped in Iraq, the latest in a long series of kidnappings for money or political reasons in the country. ](/news/2005/03/29/three-romanian-journalists-are-kidnapped-in-iraq-the-latest-in-a-long-series-of-kidnappings-for-money-or-political-reasons-in-the-country.md)
-_Context: journalist, Romania, Iraq, kidnapping_
+_Context: kidnapping, journalist, Romania, Iraq_
 
 ##### Death toll
 ### [ Death toll of Marburg virus in Angola rises to 122. UNICEF support a campaign to stop the spread of the disease ](/news/2005/03/29/death-toll-of-marburg-virus-in-angola-rises-to-122-unicef-support-a-campaign-to-stop-the-spread-of-the-disease.md)
-_Context: UNICEF, Death toll, Angola, Marburg virus_
+_Context: UNICEF, Marburg virus, Death toll, Angola_
 
 ##### Supreme Council
 ### [ New Supreme Council of Kyrgyzstan installs Kurmanbek Bakiyev as the official interim President of Kyrgyzstan, ](/news/2005/03/29/new-supreme-council-of-kyrgyzstan-installs-kurmanbek-bakiyev-as-the-official-interim-president-of-kyrgyzstan.md)
@@ -37,11 +37,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### United States
 ### [ In the United States, Douglas S. Smith Jr, a former top official of Boy Scouts of America, is charged with possession of child pornography. ](/news/2005/03/29/in-the-united-states-douglas-s-smith-jr-a-former-top-official-of-boy-scouts-of-america-is-charged-with-possession-of-child-pornography.md)
-_Context: child pornography, United States, Douglas S. Smith Jr, Boy Scouts of America_
+_Context: Boy Scouts of America, United States, child pornography, Douglas S. Smith Jr_
 
 ##### Uganda
 ### [ In Uganda, thousands of Muslims demonstrate in the capital Kampala against the Domestic Relations Bill that would, among other things, limit polygamy. ](/news/2005/03/29/in-uganda-thousands-of-muslims-demonstrate-in-the-capital-kampala-against-the-domestic-relations-bill-that-would-among-other-things-limi.md)
-_Context: Uganda, Muslim, Domestic Relations Bill, polygamy, Kampala_
+_Context: Uganda, Kampala, polygamy, Muslim, Domestic Relations Bill_
 
 ##### France
 ### [ France intends to change law that allows girls to marry at the age of 15 ](/news/2005/03/29/france-intends-to-change-law-that-allows-girls-to-marry-at-the-age-of-15.md)
@@ -49,9 +49,9 @@ _Context: marriage, France_
 
 ##### Dam
 ### [ Dam bursts in South-eastern Afghanistan near the city of Ghazni. At least 6 people dead. ](/news/2005/03/29/dam-bursts-in-south-eastern-afghanistan-near-the-city-of-ghazni-at-least-6-people-dead.md)
-_Context: Dam, Ghazni, Afghanistan_
+_Context: Afghanistan, Ghazni, Dam_
 
-##### bullfighting
+##### Bullfighting
 ### [ British bullfighter Frank Evans, known as "El Ingles", is about to retire after 40 years. ](/news/2005/03/29/british-bullfighter-frank-evans-known-as-el-ingla-c-s-is-about-to-retire-after-40-years.md)
 _Context: bullfighting, Frank Evans_
 
@@ -61,11 +61,11 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Spain
 ### [ Spanish prime minister Zapatero signs an agreement with president Hugo Chavez of Venezuela on the sale of warships and military transport planes. Conservative opposition leader Mariano Rajoy denounces the sale. ](/news/2005/03/29/spanish-prime-minister-zapatero-signs-an-agreement-with-president-hugo-cha-vez-of-venezuela-on-the-sale-of-warships-and-military-transport.md)
-_Context: Venezuela, Mariano Rajoy, Jose Luis Rodriguez Zapatero, Hugo Chavez, Spain, warships_
+_Context: Jose Luis Rodriguez Zapatero, Venezuela, Hugo Chavez, Spain, Mariano Rajoy, warships_
 
 ##### Mongolia
 ### [ Political activists in Mongolia demonstrate in Ulan Bator for new elections. ](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.md)
-_Context: Mongolia, Ulan Bator_
+_Context: Ulan Bator, Mongolia_
 
 ##### Kenya
 ### [ Kenya recalls 70 diplomats from its embassies due to cash shortage; none of them are ambassadors. ](/news/2005/03/29/kenya-recalls-70-diplomats-from-its-embassies-due-to-cash-shortage-none-of-them-are-ambassadors.md)

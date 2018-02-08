@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/11/international-stock-markets-slump-in-value-in-a
 
 ### [2010-08-11](/news/2010/08/11/index.md)
 
-##### stock market
+##### Stock market
 # International stock markets slump in value in Asia, Europe and North America due to speculation brought about by comments from the Federal Reserve System of the United States. 
 
 World stock markets slide as investors worry about the health of the US economy following a warning from the Federal Reserve.

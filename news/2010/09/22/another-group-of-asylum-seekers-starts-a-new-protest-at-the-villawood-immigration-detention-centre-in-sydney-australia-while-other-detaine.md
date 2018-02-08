@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/22/another-group-of-asylum-seekers-starts-a-new-pr
 
 ### [2010-09-22](/news/2010/09/22/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # Another group of asylum seekers starts a new protest at the Villawood Immigration Detention Centre in Sydney, Australia, while other detainees continue a hunger strike. 
 
 Nine people, including a pregnant woman, have climbed on to the roof of a building at Sydney&#039;s Villawood detention centre, just hours after 11 other detainees ended their 30-hour protest on another roof.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-fil
 
 ### [2015-06-3](/news/2015/06/3/index.md)
 
-##### filling station
+##### Filling station
 # At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. 
 
 

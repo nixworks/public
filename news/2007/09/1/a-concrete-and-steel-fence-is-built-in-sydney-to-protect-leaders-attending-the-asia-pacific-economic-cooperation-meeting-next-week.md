@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/1/a-concrete-and-steel-fence-is-built-in-sydney-to
 
 ### [2007-09-1](/news/2007/09/1/index.md)
 
-##### concrete
+##### Concrete
 #  A concrete and steel fence is built in Sydney to protect leaders attending the Asia-Pacific Economic Cooperation meeting next week. 
 
 

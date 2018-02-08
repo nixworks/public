@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/8/in-a-referendum-malta-votes-in-favor-of-joining-
 
 ### [2003-03-8](/news/2003/03/8/index.md)
 
-##### referendum
+##### Referendum
 #  In a referendum, Malta votes in favor of joining the European Union in 2004.
 
 

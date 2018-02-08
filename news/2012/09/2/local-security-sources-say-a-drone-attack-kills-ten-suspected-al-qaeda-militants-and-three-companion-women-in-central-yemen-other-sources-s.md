@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/2/local-security-sources-say-a-drone-attack-kills-
 
 ### [2012-09-2](/news/2012/09/2/index.md)
 
-##### drone attack
+##### Drone attack
 # Local security sources say a drone attack kills ten suspected Al-Qaeda militants and three companion women in central Yemen. Other sources say, relating to the same incident, that a government air raid misses its target and kills ten civilians, of which two female, in a car. 
 
 An air strike in central Yemen on Sunday killed 10 suspected al-Qaida extremists and three women companions, but a militant leader escaped unharmed, a tribal chief said. The raid that targeted two vehicles in the Radaa area &quot;killed five of the...

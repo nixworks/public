@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/12/a-powerful-storm-system-hits-midwestern-and-sou
 
 ### [2013-04-12](/news/2013/04/12/index.md)
 
-##### storm
+##### Storm
 # A powerful storm system hits Midwestern and Southern United States spawning a dozen tornadoes and killing 3 people. 
 
 Storms packing snow, ice and dangerous winds knocked out power in communities throughout the Midwest.&#160;

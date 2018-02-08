@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/28/war-in-somalia-ethiopian-troops-have-withdrawn-
 
 ### [2007-12-28](/news/2007/12/28/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Ethiopian troops have withdrawn from a key town in central Somalia. Islamist insurgents say they now control Guriel. 
 
 

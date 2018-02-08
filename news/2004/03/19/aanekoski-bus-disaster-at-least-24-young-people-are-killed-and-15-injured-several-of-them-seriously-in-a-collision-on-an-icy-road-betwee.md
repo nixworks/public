@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/19/aanekoski-bus-disaster-at-least-24-young-people
 
 ### [2004-03-19](/news/2004/03/19/index.md)
 
-##### nekoski bus disaster
+##### Nekoski bus disaster
 #  nekoski bus disaster: At least 24 young people are killed and 15 injured, several of them seriously, in a collision on an icy road between a coach and a lorry carrying rolls of paper on Highway 4 near nekoski in Central Finland. The accident happened at around 2 a.m. local time (UTC +2). 
 
 

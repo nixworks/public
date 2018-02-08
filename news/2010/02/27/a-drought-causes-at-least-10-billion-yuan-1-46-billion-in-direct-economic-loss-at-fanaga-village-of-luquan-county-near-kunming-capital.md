@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/27/a-drought-causes-at-least-10-billion-yuan-1-46-
 
 ### [2010-02-27](/news/2010/02/27/index.md)
 
-##### yuan
+##### Yuan
 # A drought causes at least 10 billion yuan ($1.46 billion) in direct economic loss at Fanaga village of Luquan county, near Kunming, capital of Yunnan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/11/a-heatwave-in-egypt-has-killed-at-least-42-peop
 
 ### [2015-08-11](/news/2015/08/11/index.md)
 
-##### heatwave
+##### Heatwave
 # A heatwave in Egypt has killed at least 42 people. 
 
 

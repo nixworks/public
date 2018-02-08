@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/23/a-car-bomb-detonates-outside-the-french-embassy
 
 ### [2013-04-23](/news/2013/04/23/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb detonates outside the French embassy in the Libyan capital Tripoli, resulting in injury to two guards and extensive damage to the embassy. 
 
 

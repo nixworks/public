@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/14/a-day-after-an-ethylene-and-propylene-manufactu
 
 ### [2013-06-14](/news/2013/06/14/index.md)
 
-##### ethylene
+##### Ethylene
 # A day after an ethylene- and propylene- manufacturing chemical plant explosion in Geismar, Ascension Parish, Louisiana that killed two and injured 75, another chemical plant explosion occurs in the same Louisiana Parish (County), in Donaldsonville, Louisiana. One person is killed, three are critically injured, and 2 others suffer more minor injuries. 
 
 

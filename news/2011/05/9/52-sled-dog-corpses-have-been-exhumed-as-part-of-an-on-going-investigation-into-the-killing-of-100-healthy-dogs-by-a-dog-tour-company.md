@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/9/52-sled-dog-corpses-have-been-exhumed-as-part-of
 
 ### [2011-05-9](/news/2011/05/9/index.md)
 
-##### the killing of 100 healthy dogs
+##### The killing of 100 healthy dogs
 # 52 sled dog corpses have been exhumed as part of an on-going investigation into the killing of 100 healthy dogs by a dog tour company. 
 
 

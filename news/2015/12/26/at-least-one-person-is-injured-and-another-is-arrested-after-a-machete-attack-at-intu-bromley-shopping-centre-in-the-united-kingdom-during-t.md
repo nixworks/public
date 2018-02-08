@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/26/at-least-one-person-is-injured-and-another-is-a
 
 ### [2015-12-26](/news/2015/12/26/index.md)
 
-##### machete
+##### Machete
 # At least one person is injured and another is arrested after a machete attack at Intu Bromley shopping centre in the United Kingdom during the busy annual Boxing Day sales. A motive or possible link to terrorism has not yet been established. 
 
 Reports of a man injured in ‘altercation’ as images on social media show shoppers running from Intu shopping centre in Bromley

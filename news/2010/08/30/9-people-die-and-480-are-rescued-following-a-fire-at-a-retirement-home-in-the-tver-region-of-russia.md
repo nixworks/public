@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/30/9-people-die-and-480-are-rescued-following-a-fi
 
 ### [2010-08-30](/news/2010/08/30/index.md)
 
-##### fire
+##### Fire
 # 9 people die and 480 are rescued following a fire at a retirement home in the Tver region of Russia. 
 
 Nine people dead in apparent suicide attempt by elderly resident of a facility 170km outside of Moscow.

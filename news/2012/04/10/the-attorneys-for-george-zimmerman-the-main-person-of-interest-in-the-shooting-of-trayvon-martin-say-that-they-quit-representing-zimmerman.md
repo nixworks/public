@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/10/the-attorneys-for-george-zimmerman-the-main-per
 
 ### [2012-04-10](/news/2012/04/10/index.md)
 
-##### attorney
+##### Attorney
 # The attorneys for George Zimmerman, the main person of interest in the shooting of Trayvon Martin, say that they quit representing Zimmerman due to them losing contact with him. 
 
 

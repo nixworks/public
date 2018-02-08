@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/15/amid-continuing-unrest-in-uzbekistan-the-city-o
 
 ### [2005-05-15](/news/2005/05/15/index.md)
 
-##### unrest
+##### Unrest
 #  Amid continuing unrest In Uzbekistan, the city of Andijan is sealed. British Foreign Secretary Jack Straw says there has been "a clear abuse of human rights" in Uzbekistan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/25/a-road-accident-kills-15-members-of-the-nigeria
 
 ### [2009-01-25](/news/2009/01/25/index.md)
 
-##### collision
+##### Collision
 #  A road accident kills 15 members of the Nigerian Football Federation's FC Jimeta. 
 
 

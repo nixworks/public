@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/09/17/the-default-date-used-by-git-format-patch-for-e
 
 ### [2001-09-17](/news/2001/09/17/index.md)
 
-##### git format patch
+##### Git format patch
 #  The default date used by git format patch for email 
 
 

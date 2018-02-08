@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/18/a-male-of-critically-endangered-northern-white-
 
 ### [2014-10-18](/news/2014/10/18/index.md)
 
-##### critically endangered
+##### Critically endangered
 # A male of critically endangered northern white rhinoceros died in reservation Ol Pejeta in Kenya. It was one of only two known males of the northern subspecies of white rhinoceros capable of natural mating. The Dvur Kralove Zoo said that he was one of seven northern white rhinos left. 
 
 A rare northern white rhino has died in Kenya, a wildlife conservancy said on Saturday, leaving just six of the animals left alive and bringing the famed African species one step closer to extinction.

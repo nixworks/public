@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/4/the-wreckage-of-a-crashed-helicopter-containing-
 
 ### [2011-05-4](/news/2011/05/4/index.md)
 
-##### helicopter
+##### Helicopter
 # The wreckage of a crashed helicopter containing Dorjee Khandu, Chief Minister of the Indian state of Arunachal Pradesh, is found with three bodies nearby. 
 
 

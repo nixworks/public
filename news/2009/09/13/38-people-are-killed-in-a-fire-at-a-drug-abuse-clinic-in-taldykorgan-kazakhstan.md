@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/13/38-people-are-killed-in-a-fire-at-a-drug-abuse-
 
 ### [2009-09-13](/news/2009/09/13/index.md)
 
-##### fire
+##### Fire
 #  38 people are killed in a fire at a drug abuse clinic in Taldykorgan, Kazakhstan. 
 
 

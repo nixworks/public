@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/11/the-first-winter-storm-of-the-season-hits-the-m
 
 ### [2014-11-11](/news/2014/11/11/index.md)
 
-##### midwestern
+##### Midwestern
 # The first winter storm of the season hits the midwestern United States with at least four people dead in Minnesota. 
 
 Heavy snow falls from Michigan to Colorado, while much of the country braces for dramatic, double-digit drops in temperature.

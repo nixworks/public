@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/26/the-people-s-alliance-for-democracy-claims-to-b
 
 ### [2008-11-26](/news/2008/11/26/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  The People's Alliance for Democracy claims to be in complete control of Suvarnabhumi Airport, Bangkok's international airport. [http:--www.smh.com.au-news-travel-protesters-we-control-bangkok-airport-2008-11-26-1227491584334.html?page=fullpage#contentSwap1 (Sydney Morning Herald)] Thai authorities evacuate thousands of passengers from Suvarnabhumi Airport. [http:--www.abc.net.au-news-stories-2008-11-26-2430615.htm (ABC News Australia)] Thai Prime Minister Somchai Wongsawat rejects calls for election. [http:--news.bbc.co.uk-2-hi-asia-pacific-7750737.stm BBC News] adde
 
 

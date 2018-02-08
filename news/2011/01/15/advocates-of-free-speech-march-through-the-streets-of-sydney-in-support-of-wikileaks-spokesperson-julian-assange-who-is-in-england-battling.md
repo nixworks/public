@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/15/advocates-of-free-speech-march-through-the-stre
 
 ### [2011-01-15](/news/2011/01/15/index.md)
 
-##### freedom of communication and expression
+##### Freedom of communication and expression
 # Advocates of free speech march through the streets of Sydney in support of WikiLeaks spokesperson Julian Assange, who is in England battling attempts by Sweden to have him extradited. Greens MP David Shoebridge addresses the crowd and calls for support from the Australian government. 
 
 

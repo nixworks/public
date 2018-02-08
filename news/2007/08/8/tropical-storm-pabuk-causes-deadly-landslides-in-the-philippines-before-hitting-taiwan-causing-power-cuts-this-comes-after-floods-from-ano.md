@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/8/tropical-storm-pabuk-causes-deadly-landslides-in
 
 ### [2007-08-8](/news/2007/08/8/index.md)
 
-##### typhoon
+##### Typhoon
 #  Tropical Storm Pabuk causes deadly landslides in the Philippines before hitting Taiwan causing power cuts. This comes after floods from another tropical storm kill 34 in central Vietnam. 
 
 A tropical storm caused deadly landslides in the Philippines on Wednesday, before moving into southern Taiwan.

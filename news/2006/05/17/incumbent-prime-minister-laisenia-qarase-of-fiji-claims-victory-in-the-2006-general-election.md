@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/17/incumbent-prime-minister-laisenia-qarase-of-fij
 
 ### [2006-05-17](/news/2006/05/17/index.md)
 
-##### re-election
+##### Re-election
 #  Incumbent Prime Minister Laisenia Qarase of Fiji claims victory in the 2006 general election. 
 
 

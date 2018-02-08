@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-
 
 ### [2006-04-18](/news/2006/04/18/index.md)
 
-##### bird flu
+##### Bird flu
 #  The H5N1 strain of avian influenza is reported in Sudan following reports in neighbouring Egypt. 
 
 

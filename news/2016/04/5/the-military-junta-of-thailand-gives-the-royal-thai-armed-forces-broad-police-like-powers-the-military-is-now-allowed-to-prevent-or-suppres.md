@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/5/the-military-junta-of-thailand-gives-the-royal-t
 
 ### [2016-04-5](/news/2016/04/5/index.md)
 
-##### military junta
+##### Military junta
 # The Military junta of Thailand gives the Royal Thai Armed Forces broad police-like powers. The military is now allowed to prevent or suppress over 27 types of offenses. The move created an outcry from human rights organizations and prompted the United States to express its concern over the growing influence of the military in the country. 
 
 The US and human rights groups call for Thailand’s coup leaders to limit military influence over civilian authorities

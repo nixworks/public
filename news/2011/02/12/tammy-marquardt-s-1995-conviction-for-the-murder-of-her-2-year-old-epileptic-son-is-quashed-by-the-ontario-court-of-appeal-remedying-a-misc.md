@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/12/tammy-marquardt-s-1995-conviction-for-the-murde
 
 ### [2011-02-12](/news/2011/02/12/index.md)
 
-##### miscarriage of justice
+##### Miscarriage of justice
 # Tammy Marquardt's 1995 conviction for the murder of her 2-year-old epileptic son is quashed by the Ontario Court of Appeal, remedying a miscarriage of justice in Canada. 
 
 

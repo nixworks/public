@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/10/the-trade-surplus-of-the-people-s-republic-of-c
 
 ### [2011-08-10](/news/2011/08/10/index.md)
 
-##### trade deficit
+##### Trade deficit
 # The trade surplus of the People's Republic of China rises to US$31.5 billion in July, the highest level in two years. 
 
 

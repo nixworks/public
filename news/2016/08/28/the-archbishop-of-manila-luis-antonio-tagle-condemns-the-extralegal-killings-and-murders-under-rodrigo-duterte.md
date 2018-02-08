@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/28/the-archbishop-of-manila-luis-antonio-tagle-con
 
 ### [2016-08-28](/news/2016/08/28/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The Archbishop of Manila Luis Antonio Tagle condemns the extralegal killings and murders under Rodrigo Duterte. 
 
 Manila Archbishop Luis Antonio Cardinal Tagle denounces not only extrajudicial killings but also other forms of murder, such as abortion

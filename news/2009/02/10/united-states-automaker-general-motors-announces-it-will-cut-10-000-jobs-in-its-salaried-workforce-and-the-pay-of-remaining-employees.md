@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/10/united-states-automaker-general-motors-announce
 
 ### [2009-02-10](/news/2009/02/10/index.md)
 
-##### automakers
+##### Automakers
 #  United States automaker General Motors announces it will cut 10,000 jobs in its salaried workforce and the pay of remaining employees. 
 
 

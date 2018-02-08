@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/24/hundreds-of-thousands-of-people-march-in-paris-
 
 ### [2013-03-24](/news/2013/03/24/index.md)
 
-##### gay marriage
+##### Gay marriage
 # Hundreds of thousands of people march in Paris against proposals to legalise same-sex marriage in France with violent clashes after police deny marchers access to the Champs-Elysees. 
 
 

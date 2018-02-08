@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/9/student-protests-against-the-2007-venezuelan-con
 
 ### [2007-11-9](/news/2007/11/9/index.md)
 
-##### constitutional amendments
+##### Constitutional amendments
 #  Student protests against the 2007 Venezuelan constitutional referendum continue. Five people are wounded in Mrida in a clash between rival student groups. 
 
 A leader of the nascent Venezuelan student movement protesting President Hugo Chávez’s expanding power described it as the most cohesive challenge to Mr. Chávez’s government.

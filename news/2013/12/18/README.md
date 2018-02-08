@@ -11,9 +11,9 @@ _Context: United Nations_
 ### [Chinese actress Zhang Ziyi settles out of court a U.S. sex scandal libel lawsuit against the U.S.-based overseas alternative news source website Boxun. ](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.md)
 Chinese film star Zhang Ziyi wins damages from a US-based website that published false reports she was paid to have sex with top Chinese officials.
 
-##### gay and bisexual men
+##### Gay and bisexual men
 ### [LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. ](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-jean-king-and-ice-hockey-player-caitlin-cahow-are-to-represent-the-united-states-in-sochi-a.md)
-_Context: Russia, LGBT rights in Russia, gay and bisexual men, Sochi, Billie Jean King, Caitlin Cahow, United States_
+_Context: gay and bisexual men, Caitlin Cahow, Sochi, Russia, LGBT rights in Russia, United States, Billie Jean King_
 
 ##### China
 ### [China launches a crackdown against the internet currency BitCoin, plunging its value by 35%. ](/news/2013/12/18/china-launches-a-crackdown-against-the-internet-currency-bitcoin-plunging-its-value-by-35.md)
@@ -29,7 +29,7 @@ _Context: United Nations_
 
 ##### Bolotnaya square case
 ### [Bolotnaya square case prisoners, Pussy Riot and Greenpeace activists are likely to be freed after the Duma votes in favor of a law giving them amnesty. ](/news/2013/12/18/bolotnaya-square-case-prisoners-pussy-riot-and-greenpeace-activists-are-likely-to-be-freed-after-the-duma-votes-in-favor-of-a-law-giving-th.md)
-_Context: Pussy Riot, Greenpeace India's, Duma, Bolotnaya square case_
+_Context: Greenpeace India's, Duma, Bolotnaya square case, Pussy Riot_
 
 ##### Singapore
 ### [Singapore announces that it will deport 53 foreign workers for their December 8 involvement in the country's worst riot in more than 40 years. ](/news/2013/12/18/singapore-announces-that-it-will-deport-53-foreign-workers-for-their-december-8-involvement-in-the-country-s-worst-riot-in-more-than-40-year.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/22/the-board-of-transasia-airways-decides-to-disso
 
 ### [2016-11-22](/news/2016/11/22/index.md)
 
-##### board
+##### Board
 # The board of TransAsia Airways decides to dissolve the company after halting flights on Tuesday. 
 
 Taiwanese carrier TransAsia Airways Corp. decided to close down operations after two fatal crashes in the last two years pushed it into losses.

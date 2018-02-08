@@ -25,7 +25,7 @@ Minister says bomb attack in Marrakesh set off by remote-control device bearing 
 
 ##### Uganda
 ### [Riots take place in the Ugandan capital Kampala after opposition leader Kizza Besigye is attacked, leaving two people dead and dozens injured. ](/news/2011/04/29/riots-take-place-in-the-ugandan-capital-kampala-after-opposition-leader-kizza-besigye-is-attacked-leaving-two-people-dead-and-dozens-injure.md)
-_Context: Uganda, Kampala, Kizza Besigye_
+_Context: Uganda, Kizza Besigye, Kampala_
 
 ##### Lisa Aschan
 ### [The Lisa Aschan-directed Swedish film "She Monkeys" wins best narrative feature and the Alma Har'el-directed Israeli film "Bombay Beach" wins best documentary prize at New York's Tribeca Film Festival. ](/news/2011/04/29/the-lisa-aschan-directed-swedish-film-she-monkeys-wins-best-narrative-feature-and-the-alma-har-el-directed-israeli-film-bombay-beach-win.md)
@@ -33,7 +33,7 @@ A Swedish film about two teenage girls whose friendship turns to rivalry wins a 
 
 ##### Pope John Paul II
 ### [The Vatican brings Pope John Paul II's coffin out from below St. Peter's Basilica in Rome in preparation for his beatification. ](/news/2011/04/29/the-vatican-brings-pope-john-paul-ii-s-coffin-out-from-below-st-peter-s-basilica-in-rome-in-preparation-for-his-beatification.md)
-_Context: Vatican, beatified, Pope John Paul II, Rome, Italy_
+_Context: Rome, Italy, beatified, Pope John Paul II, Vatican_
 
 ##### 2011 Royal Wedding
 ### [The wedding of Prince William, Duke of Cambridge and Catherine Middleton takes place in Westminster Abbey; Middleton becomes HRH The Duchess of Cambridge. Police make at least 18 arrests along the wedding route in London. ](/news/2011/04/29/the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-takes-place-in-westminster-abbey-middleton-becomes-hrh-the-duchess.md)
@@ -55,13 +55,13 @@ Samsung Electronics says profits for the first three months of the year have fal
 ### [At least 43 people are killed and others are missing after a minibus of mourners falls from a ferry on the River Nile. ](/news/2011/04/29/at-least-43-people-are-killed-and-others-are-missing-after-a-minibus-of-mourners-falls-from-a-ferry-on-the-river-nile.md)
 A minibus falls off a ferry on the Nile River in Egypt, killing at least 17 people, officials say.
 
-##### three day tornado outbreak
+##### Three day tornado outbreak
 ### [The death toll for the 2011 Super Outbreak in the United States reaches 300. ](/news/2011/04/29/the-death-toll-for-the-2011-super-outbreak-in-the-united-states-reaches-300.md)
 A horrific storm system that killed more than 290 people in seven states across the South is one of the worst the country has experienced in more than four decades.
 
 ##### Hamas
 ### [Hamas Prime Minister Ismail Haniyeh calls on the PLO to withdraw its recognition of Israel's right to exist in response to Israel's opposition to the reconciliation deal between his movement and Fatah. ](/news/2011/04/29/hamas-prime-minister-ismail-haniyeh-calls-on-the-plo-to-withdraw-its-recognition-of-israelas-right-to-exist-in-response-to-israelas-oppo.md)
-_Context: PLO, Fatah, Ismail Haniyeh, Hamas, Israel_
+_Context: Hamas, Israel, PLO, Fatah, Ismail Haniyeh_
 
 ##### Nabil al-Arabi
 ### [Egypt's interim foreign minister Nabil al-Arabi vows to permanently open the country's Rafah Border Crossing with the Gaza Strip, branding the Mubarak regime's support for the previous blockade and assisting of Israel in implementing it as "disgraceful". ](/news/2011/04/29/egypt-s-interim-foreign-minister-nabil-al-arabi-vows-to-permanently-open-the-country-s-rafah-border-crossing-with-the-gaza-strip-branding-t.md)
@@ -69,11 +69,11 @@ Egypt says it will open its Rafah border crossing with the Gaza Strip on a perma
 
 ##### Japan
 ### [22,000 residents of the Japanese island of Okinawa file suit demanding the closure of the Kadena United States Airforce base at night and demand compensation from the Government of Japan. ](/news/2011/04/29/22-000-residents-of-the-japanese-island-of-okinawa-file-suit-demanding-the-closure-of-the-kadena-united-states-airforce-base-at-night-and-de.md)
-_Context: Japanese government, Kadena, Okinawa, Japan, United States Airforce_
+_Context: United States Airforce, Okinawa, Japanese government, Japan, Kadena_
 
-##### early morning protest
+##### Early morning protest
 ### [Police report violence in an early morning protest against controversial retailer Tesco. ](/news/2011/04/29/police-report-violence-in-an-early-morning-protest-against-controversial-retailer-tesco.md)
-_Context: early morning protest, Tesco_
+_Context: Tesco, early morning protest_
 
 ##### Charles Pasqua
 ### [Veteran former French right-wing interior minister Charles Pasqua has his conviction for illegally selling weapons to Angola quashed, while jail terms for Israeli-Russian businessman Arkady Gaydamak and French magnate Pierre Falcone are cut. ](/news/2011/04/29/veteran-former-french-right-wing-interior-minister-charles-pasqua-has-his-conviction-for-illegally-selling-weapons-to-angola-quashed-while.md)
@@ -87,7 +87,7 @@ _Context: Australian Defence Force Academy_
 ### [Ombudsman of the Philippines Merceditas Gutierrez resigns. Politicians previously voted to impeach her. ](/news/2011/04/29/ombudsman-of-the-philippines-merceditas-gutierrez-resigns-politicians-previously-voted-to-impeach-her.md)
 The top Philippine anti-corruption official resigns weeks after politicians voted to impeach her over an alleged failure to probe allegations against former leader Arroyo.
 
-##### shot dead and another three injured
+##### Shot dead and another three injured
 ### [Three people are shot dead and another three injured following a siege in the South Australian city of Adelaide in the suburb of Hectorville. ](/news/2011/04/29/three-people-are-shot-dead-and-another-three-injured-following-a-siege-in-the-south-australian-city-of-adelaide-in-the-suburb-of-hectorville.md)
 Adelaide police have arrested a gunman following a siege that has left three people dead and three others injured.
 
@@ -97,7 +97,7 @@ _Context: Oregon Supreme Court_
 
 ##### Space Shuttle ''Endeavour''
 ### [Take-off of the Space Shuttle Endeavour for its final mission is postponed due to technical problems. ](/news/2011/04/29/take-off-of-the-space-shuttle-endeavour-for-its-final-mission-is-postponed-due-to-technical-problems.md)
-_Context: Space Shuttle ''Endeavour'', final mission_
+_Context: final mission, Space Shuttle ''Endeavour''_
 
 ## [Previous Day...](/news/2011/04/28/index.md)
 

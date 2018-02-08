@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/29/a-lightning-strike-from-a-freak-thunderstorm-ki
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
-##### lightning strike
+##### Lightning strike
 # A lightning strike from a freak thunderstorm kills 323 reindeer in Norway. 
 
 It was the deadliest -- and probably eeriest -- strike ever recorded.

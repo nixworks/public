@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/14/united-states-warplanes-launch-sustained-air-st
 
 ### [2004-10-14](/news/2004/10/14/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  United States warplanes launch sustained air strikes against the rebel-held city of Fallujah, following a breakdown in peace talks between the Iraqi government and representatives of the city. 
 
 

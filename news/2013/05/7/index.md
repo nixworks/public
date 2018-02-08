@@ -13,7 +13,7 @@ The Nigerian Islamist sect Boko Haram is thought to have been behind a deadly si
 
 ##### Americans
 ### [American special effects innovator Ray Harryhausen dies at the age of 92. ](/news/2013/05/7/american-special-effects-innovator-ray-harryhausen-dies-at-the-age-of-92.md)
-_Context: Americans, special effects, Ray Harryhausen_
+_Context: Americans, Ray Harryhausen, special effects_
 
 ##### Americans
 ### [American As I Lay Dying frontman and lead vocalist Tim Lambesis is arrested on charges of attempting to hire a hitman. ](/news/2013/05/7/american-as-i-lay-dying-frontman-and-lead-vocalist-tim-lambesis-is-arrested-on-charges-of-attempting-to-hire-a-hitman.md)
@@ -21,7 +21,7 @@ Metal singer taken into custody Tuesday after allegedly soliciting an undercover
 
 ##### Bank of China
 ### [The Bank of China halts business with a North Korean bank accused by the United States of financing Pyongyang's missile and nuclear programs. ](/news/2013/05/7/the-bank-of-china-halts-business-with-a-north-korean-bank-accused-by-the-united-states-of-financing-pyongyang-s-missile-and-nuclear-programs.md)
-_Context: North Korea, North Korea's nuclear program, United States, Bank of China_
+_Context: United States, Bank of China, North Korea's nuclear program, North Korea_
 
 ##### Microsoft
 ### [Microsoft acknowledges and plans to address complaints with its Windows 8 operating system - changes will be available later this year. ](/news/2013/05/7/microsoft-acknowledges-and-plans-to-address-complaints-with-its-windows-8-operating-system-a-changes-will-be-available-later-this-year.md)
@@ -29,21 +29,21 @@ _Context: Microsoft, Windows 8, operating system_
 
 ##### Reserve Bank of Australia
 ### [The Reserve Bank of Australia cuts its benchmark interest rate to 2.75%, down from 3.00%. ](/news/2013/05/7/the-reserve-bank-of-australia-cuts-its-benchmark-interest-rate-to-2-75-down-from-3-00.md)
-_Context: interest rate, Reserve Bank of Australia_
+_Context: Reserve Bank of Australia, interest rate_
 
 ##### Dow Jones Industrial Average
 ### [The Dow Jones Industrial Average closes above the 15,000 mark for the first time, setting a record. The S&P 500, up 0.5%, sets a record high as well. ](/news/2013/05/7/the-dow-jones-industrial-average-closes-above-the-15-000-mark-for-the-first-time-setting-a-record-the-s-p-500-up-0-5-sets-a-record-high.md)
-_Context: S&P 500, Dow Jones Industrial Average_
+_Context: Dow Jones Industrial Average, S&P 500_
 
 ##### China
 ### [China's April import and export figures beat expectations, potentially easing concerns that its economy is lagging. ](/news/2013/05/7/china-s-april-import-and-export-figures-beat-expectations-potentially-easing-concerns-that-its-economy-is-lagging.md)
-_Context: export, import, China_
+_Context: export, China, import_
 
 ##### Mayon Volcano
 ### [Mayon Volcano erupts in the Philippines killing four mountain climbers and requiring four other climbers trapped near the summit to be rescued. ](/news/2013/05/7/mayon-volcano-erupts-in-the-philippines-killing-four-mountain-climbers-and-requiring-four-other-climbers-trapped-near-the-summit-to-be-rescu.md)
 Volcano in Philippines erupts into life, killing four climbers and trapping others near the crater.
 
-##### tanker
+##### Tanker
 ### [A gas tanker explodes in Ecatepec de Morelos, Mexico, killing at least 20 and injuring 36. ](/news/2013/05/7/a-gas-tanker-explodes-in-ecatepec-de-morelos-mexico-killing-at-least-20-and-injuring-36.md)
 A gas tanker explodes on a highway in the Mexico City suburb of Ecatepec, killing at least 22 people and injuring dozens more, officials say.
 
@@ -65,9 +65,9 @@ More newborns die on the first day in India than in any other country, according
 
 ##### Alzheimer's
 ### [Alzheimer's drug Gammagard fails to produce results in a large-scale clinical trial. ](/news/2013/05/7/alzheimer-s-drug-gammagard-fails-to-produce-results-in-a-large-scale-clinical-trial.md)
-_Context: Gammagard, Alzheimer's, clinical trial_
+_Context: Alzheimer's, Gammagard, clinical trial_
 
-##### gonorrhea
+##### Gonorrhea
 ### [A new strain of gonorrhea, HO41, is reported to be incurable and extremely virulent. ](/news/2013/05/7/a-new-strain-of-gonorrhea-ho41-is-reported-to-be-incurable-and-extremely-virulent.md)
 Doctors are warning of a new sexually-transmitted superbug which they fear could ultimately prove to be even more deadly than AIDS.
 
@@ -93,7 +93,7 @@ The Irish parliament passes legislation granting a pardon to thousands of soldie
 
 ##### Jack Markell
 ### [Governor Jack Markell signs a bill making Delaware the 11th U.S. state to legalize same-sex marriage. ](/news/2013/05/7/governor-jack-markell-signs-a-bill-making-delaware-the-11th-u-s-state-to-legalize-same-sex-marriage.md)
-_Context: Jack Markell, same-sex marriage in the United States, Delaware, same-sex marriage_
+_Context: same-sex marriage in the United States, Jack Markell, same-sex marriage, Delaware_
 
 ##### South Carolina governor
 ### [Former Governor of South Carolina Mark Sanford wins a special election for South Carolina's 1st congressional district defeating Elizabeth Colbert Busch. ](/news/2013/05/7/former-governor-of-south-carolina-mark-sanford-wins-a-special-election-for-south-carolina-s-1st-congressional-district-defeating-elizabeth-c.md)

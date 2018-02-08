@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/24/a-magnitude-6-8-earthquake-strikes-china-s-remo
 
 ### [2003-02-24](/news/2003/02/24/index.md)
 
-##### magnitude
+##### Magnitude
 #  A magnitude 6.8 earthquake strikes China's remote western region of Xinjiang at 10:03 am local time (0203 UTC) near the mountainous border with Kyrgyzstan. At least 266 are killed, more than 4,000 are injured, and over 1,000 buildings, including housing and schools, collapse.
 
 

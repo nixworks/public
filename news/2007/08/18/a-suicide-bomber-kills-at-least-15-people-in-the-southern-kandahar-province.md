@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/18/a-suicide-bomber-kills-at-least-15-people-in-th
 
 ### [2007-08-18](/news/2007/08/18/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills at least 15 people in the southern Kandahar province. 
 
 

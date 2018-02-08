@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-
 
 ### [2017-04-21](/news/2017/04/21/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Yesterday's terrorist attack in Paris disrupts campaigning for the elections. 
 
 With the motives of the Champs-Elys&eacute;es gunman considered terror-related, the timing just three days before the first round of the French presidential elections and during a prime time TV &quot;debate&quot; between all 11 official candidates clearly suggests that extremists are seeking to influence the tone of the debate - and perhaps its outcome.

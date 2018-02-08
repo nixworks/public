@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/8/following-consultations-with-fellow-academics-st
 
 ### [2013-05-8](/news/2013/05/8/index.md)
 
-##### consultations with fellow academics
+##### Consultations with fellow academics
 # Following consultations with fellow academics, Stephen Hawking boycotts the Israeli Presidential Conference Facing Tomorrow 2013 in Jerusalem. 
 
 Prof Stephen Hawking has pulled out of a high-profile Israeli conference, in support of an academic boycott of the country.

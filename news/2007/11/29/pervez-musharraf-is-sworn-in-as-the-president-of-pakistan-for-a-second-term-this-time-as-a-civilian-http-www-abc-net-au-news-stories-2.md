@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/29/pervez-musharraf-is-sworn-in-as-the-president-o
 
 ### [2007-11-29](/news/2007/11/29/index.md)
 
-##### president
+##### President
 #  Pervez Musharraf is sworn in as the President of Pakistan for a second term, this time as a civilian. [http:--www.abc.net.au-news-stories-2007-11-29-2105577.htm (ABC News Australia)] President George W. Bush welcomes Pakistan President Pervez Musharraf, urges him to lift emergency rule.date=December 2007 Musharraf announces the 2007 Pakistani state of emergency will be lifted on 2007-12-16. [http:--news.bbc.co.uk-2-hi-south_asia-7119416.stm (BBC)] Restrictions on Pakistani TV channels are challenged in the Supreme Court of Pakistan.date=December 2007 
 
 

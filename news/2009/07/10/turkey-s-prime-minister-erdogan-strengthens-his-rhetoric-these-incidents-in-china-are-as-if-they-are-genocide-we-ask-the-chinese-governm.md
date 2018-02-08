@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/10/turkey-s-prime-minister-erdogan-strengthens-his
 
 ### [2009-07-10](/news/2009/07/10/index.md)
 
-##### riots
+##### Riots
 #  Turkey's Prime Minister Erdogan strengthens his rhetoric: "These incidents in China are as if they are genocide. We ask the Chinese government not to remain a spectator to these incidents." 
 
 

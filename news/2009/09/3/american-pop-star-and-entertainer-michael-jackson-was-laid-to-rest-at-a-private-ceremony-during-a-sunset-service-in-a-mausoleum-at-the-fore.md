@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/3/american-pop-star-and-entertainer-michael-jackso
 
 ### [2009-09-3](/news/2009/09/3/index.md)
 
-##### pop
+##### Pop
 #  American pop star and entertainer Michael Jackson was laid to rest at a private ceremony during a sunset service in a mausoleum at the Forest Lawn Memorial Park in Los Angeles, USA. 
 
 Family and friends of Michael Jackson will bid a final farewell on Thursday (Friday 1200 AEST) as the singer is laid to rest in a private ceremony at a star-studded Los Angeles cemetery.

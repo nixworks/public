@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/29/in-the-czech-republic-a-new-coalition-governmen
 
 ### [2014-01-29](/news/2014/01/29/index.md)
 
-##### government's
+##### Government's
 # In the Czech Republic a new coalition government is sworn in, led by Bohuslav Sobotka and consisting of the Social Democrats, the liberalist ANO 2011 and the Christian Democrats. 
 
 A new Czech coalition government has assumed office after being sworn in by President Miloš Zeman at Prague Castle on Wednesday. The centre-left cabinet, formed by the Social Democrats, ANO and the Christian Democrats, comes to power 95 days after the general election, promising to ease austerity, boost economic growth, and return the country to the EU mainstream.

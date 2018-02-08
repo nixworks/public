@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/28/former-australian-army-general-peter-cosgrove-i
 
 ### [2014-01-28](/news/2014/01/28/index.md)
 
-##### soldiers
+##### Soldiers
 # Former Australian Army General Peter Cosgrove is named as the next Governor-General of Australia. 
 
 

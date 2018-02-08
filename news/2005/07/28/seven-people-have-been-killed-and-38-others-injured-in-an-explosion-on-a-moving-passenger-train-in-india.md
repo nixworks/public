@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/28/seven-people-have-been-killed-and-38-others-inj
 
 ### [2005-07-28](/news/2005/07/28/index.md)
 
-##### train
+##### Train
 #  Seven people have been killed and 38 others injured in an explosion on a moving passenger train in India. 
 
 

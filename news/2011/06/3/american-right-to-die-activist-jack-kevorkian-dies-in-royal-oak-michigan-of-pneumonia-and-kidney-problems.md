@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/3/american-right-to-die-activist-jack-kevorkian-di
 
 ### [2011-06-3](/news/2011/06/3/index.md)
 
-##### right-to-die
+##### Right-to-die
 # American right-to-die activist Jack Kevorkian dies in Royal Oak, Michigan of pneumonia and kidney problems. 
 
 

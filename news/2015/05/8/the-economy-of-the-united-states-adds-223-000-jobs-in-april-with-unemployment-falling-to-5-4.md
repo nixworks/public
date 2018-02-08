@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/8/the-economy-of-the-united-states-adds-223-000-jo
 
 ### [2015-05-8](/news/2015/05/8/index.md)
 
-##### economy of the United States
+##### Economy of the United States
 # The economy of the United States adds 223,000 jobs in April with unemployment falling to 5.4%. 
 
 The gain was in line with the consensus forecast of 230,000 jobs added, and the expectation had been that the unemployment rate would tick down slightly.

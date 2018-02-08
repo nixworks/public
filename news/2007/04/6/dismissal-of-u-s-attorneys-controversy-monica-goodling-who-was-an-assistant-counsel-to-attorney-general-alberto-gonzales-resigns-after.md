@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/6/dismissal-of-u-s-attorneys-controversy-monica-go
 
 ### [2007-04-6](/news/2007/04/6/index.md)
 
-##### firings
+##### Firings
 #  Dismissal of U.S. attorneys controversy: Monica Goodling, who was an assistant counsel to Attorney General Alberto Gonzales, resigns after refusing to testify before the Congress. 
 
 

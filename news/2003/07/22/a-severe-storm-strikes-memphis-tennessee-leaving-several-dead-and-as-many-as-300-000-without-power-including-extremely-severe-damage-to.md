@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/22/a-severe-storm-strikes-memphis-tennessee-leavin
 
 ### [2003-07-22](/news/2003/07/22/index.md)
 
-##### storm
+##### Storm
 #  A severe storm strikes Memphis, Tennessee, leaving several dead and as many as 300,000 without power, including extremely severe damage to the power grid in some areas.
 
 

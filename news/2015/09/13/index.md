@@ -5,7 +5,7 @@ Formats: [HTML](2015/09/13/index.html)  [JSON](2015/09/13/index.json)  [XML](201
 
 ##### Turkey-PKK conflict
 ### [A PKK car bombing on a checkpoint kills two Turkish police officers and injures five others in south-eastern Turkey. Also, Turkish security forces impose a curfew in the region's largest city, Diyarbakir. ](/news/2015/09/13/a-pkk-car-bombing-on-a-checkpoint-kills-two-turkish-police-officers-and-injures-five-others-in-south-eastern-turkey-also-turkish-security.md)
-_Context: Turkish police, Kurdistan Workers' Party, Turkish troops, Diyarbakir, Turkey-PKK conflict_
+_Context: Turkish troops, Diyarbakir, Kurdistan Workers' Party, Turkey-PKK conflict, Turkish police_
 
 ##### Egypt
 ### [Egyptian security forces open fire on a Mexican tourist convoy in the Western Desert while pursuing militants with at least twelve people killed and 10 injured. ](/news/2015/09/13/egyptian-security-forces-open-fire-on-a-mexican-tourist-convoy-in-the-western-desert-while-pursuing-militants-with-at-least-twelve-people-ki.md)
@@ -21,9 +21,9 @@ At least nine people are killed and 42 others wounded in an explosion on a conge
 
 ##### Islam
 ### [An Islamic school in the Nigerian town of Bukuru collapses with at least four students killed and 40 injured. ](/news/2015/09/13/an-islamic-school-in-the-nigerian-town-of-bukuru-collapses-with-at-least-four-students-killed-and-40-injured.md)
-_Context: Nigeria, Islam, Bukuru_
+_Context: Nigeria, Bukuru, Islam_
 
-##### refugees
+##### Refugees
 ### [Thirty-four refugees, including four babies and 11 children, drown in the Aegean Sea when their wooden boat sinks off the Greek island of Farmakonissi, close to Turkey's coast. ](/news/2015/09/13/thirty-four-refugees-including-four-babies-and-11-children-drown-in-the-aegean-sea-when-their-wooden-boat-sinks-off-the-greek-island-of-fa.md)
 Thirty-four refugees, almost half of them babies and children, drowned when their boat sank off a Greek island on Sunday, almost certainly the largest death toll in those waters since the migrant crisis began, the coastguard said.
 
@@ -51,7 +51,7 @@ Gennady Padalka, who spent several months aboard the International Space Station
 
 ##### Salamanca, Spain
 ### [Doctors at Salamanca University Hospital in Salamanca, Spain implant a 3-D printing-produced artificial titanium sternum (breastbone), and a portion of the ribs (as opposed to the current standard, a non-customized, flat piece of titanium, which can loosen over time) in a patient who had numerous cancerous tumors in that area, the first use of 3D printing technology to take the place of these specific body parts. ](/news/2015/09/13/doctors-at-salamanca-university-hospital-in-salamanca-spain-implant-a-3-d-printing-produced-artificial-titanium-sternum-breastbone-and-a.md)
-_Context: 3-D printing, Salamanca, Spain, titanium, sternum_
+_Context: 3-D printing, titanium, Salamanca, Spain, sternum_
 
 ## [Previous Day...](/news/2015/09/12/index.md)
 

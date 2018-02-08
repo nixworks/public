@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/5/unidentified-militants-attack-a-defense-ministry
 
 ### [2013-12-5](/news/2013/12/5/index.md)
 
-##### attack
+##### Attack
 # Unidentified militants attack a Defense Ministry compound in Sana'a, Yemen, killing at least 52 people and injuring 167 others. Most of the victims appear to be doctors and nurses, working at a hospital within the property. 
 
 52 doctors and nurses were killed following the attack and 167 people have been wounded.

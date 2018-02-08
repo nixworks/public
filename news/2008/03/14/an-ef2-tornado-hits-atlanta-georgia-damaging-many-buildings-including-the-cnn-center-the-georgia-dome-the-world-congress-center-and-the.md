@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/14/an-ef2-tornado-hits-atlanta-georgia-damaging-ma
 
 ### [2008-03-14](/news/2008/03/14/index.md)
 
-##### tornado
+##### Tornado
 #  An EF2 tornado hits Atlanta, Georgia, damaging many buildings including the CNN Center, the Georgia Dome, the World Congress Center and the Philips Arena. 
 
 

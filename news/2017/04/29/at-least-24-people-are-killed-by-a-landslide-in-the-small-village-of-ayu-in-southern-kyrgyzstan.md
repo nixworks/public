@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/29/at-least-24-people-are-killed-by-a-landslide-in
 
 ### [2017-04-29](/news/2017/04/29/index.md)
 
-##### landslide
+##### Landslide
 # At least 24 people are killed by a landslide in the small village of Ayu in southern Kyrgyzstan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/6/the-ruling-party-fianna-fa-il-endures-significan
 
 ### [2009-06-6](/news/2009/06/6/index.md)
 
-##### ruling party
+##### Ruling party
 #  The ruling party Fianna Fail endures significant losses in Ireland's local elections and parliamentary by-elections in Dublin Central and Dublin South. [http:--www.google.com-hostednews-afp-article-ALeqM5h9bdX_cBP3lsk7qq2_nyz78o6GOg (AFP)] [http:--news.bbc.co.uk-2-hi-uk_news-northern_ireland-8086868.stm (BBC)] [http:--www.timesonline.co.uk-tol-news-world-ireland-article6446680.ece "(The Times)"]
 
 

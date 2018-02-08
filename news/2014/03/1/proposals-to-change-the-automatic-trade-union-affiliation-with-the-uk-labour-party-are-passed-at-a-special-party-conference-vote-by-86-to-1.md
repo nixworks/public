@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/1/proposals-to-change-the-automatic-trade-union-af
 
 ### [2014-03-1](/news/2014/03/1/index.md)
 
-##### trade union
+##### Trade union
 # Proposals to change the automatic trade union affiliation with the UK Labour Party are passed at a special party conference vote by 86% to 14%. 
 
 

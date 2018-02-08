@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/7/at-least-50-people-are-arrested-during-pro-democ
 
 ### [2010-09-7](/news/2010/09/7/index.md)
 
-##### democratic
+##### Democratic
 # At least 50 people are arrested during pro-democracy protests in Swaziland. 
 
 

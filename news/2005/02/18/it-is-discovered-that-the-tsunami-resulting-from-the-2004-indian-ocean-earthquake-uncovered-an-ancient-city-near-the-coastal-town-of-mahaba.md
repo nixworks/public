@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/18/it-is-discovered-that-the-tsunami-resulting-fro
 
 ### [2005-02-18](/news/2005/02/18/index.md)
 
-##### tsunami
+##### Tsunami
 #  It is discovered that the tsunami resulting from the 2004 Indian Ocean earthquake uncovered an ancient city near the coastal town of Mahabalipuram in India. 
 
 

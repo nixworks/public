@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/29/powerful-tornadoes-hit-several-u-s-states-killi
 
 ### [2007-03-29](/news/2007/03/29/index.md)
 
-##### tornado
+##### Tornado
 #  Powerful tornadoes hit several U.S. states, killing a couple in Oklahoma, a woman in Colorado and a man in Texas. 
 
 

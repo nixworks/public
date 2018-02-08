@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/4/a-series-of-earthquakes-up-to-7-6-in-magnitude-s
 
 ### [2009-01-4](/news/2009/01/4/index.md)
 
-##### earthquakes
+##### Earthquakes
 #  A series of earthquakes up to 7.6 in magnitude strike the Indonesian province of West Papua, killing at least four people and wounding at least 37. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion
 
 ### [2017-10-14](/news/2017/10/14/index.md)
 
-##### allegation
+##### Allegation
 # The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following several allegations of predatory sexual behavior. 
 
 Producer Harvey Weinstein has been kicked out of the motion picture academy following allegations of sexual assault and harassment. Which leads to the question: Who&apos;s next?

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/14/a-36-year-old-man-identified-as-min-yingjun-att
 
 ### [2012-12-14](/news/2012/12/14/index.md)
 
-##### stabs 22 children
+##### Stabs 22 children
 # A 36-year-old man identified as Min Yingjun attacks an elderly woman with her own knife at her home, then stabs 22 children outside the nearby Chenpeng Village Primary School in Xinyang, Guangshan County, Henan, China. The attack on the children occurred as they were arriving for classes, and most of the victims are thought to be 6-11 years old. 
 
 A knife-wielding man injured 22 children and one adult outside a primary school in central China as students were arriving for classes Friday, police said, the latest in a series of periodic rampage attacks at Chinese schools and kindergartens.

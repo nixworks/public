@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/10/30/the-government-of-canada-issued-a-travel-adviso
 
 ### [2002-10-30](/news/2002/10/30/index.md)
 
-##### travel advisories
+##### Travel advisories
 #  The government of Canada issued a travel advisory to the United States for all Canadian citizens born in Iran, Iraq, Libya, Sudan or Syria after the United States announced that anyone born in those countries will be photographed and fingerprinted upon arrival in the United States.
 
 

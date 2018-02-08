@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/14/a-suicide-bomber-kills-at-least-eight-members-o
 
 ### [2011-03-14](/news/2011/03/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least eight members of the Iraqi Army in Diyala Province. 
 
 

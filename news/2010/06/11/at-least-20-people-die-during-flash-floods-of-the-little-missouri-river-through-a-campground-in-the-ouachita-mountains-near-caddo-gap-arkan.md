@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/11/at-least-20-people-die-during-flash-floods-of-t
 
 ### [2010-06-11](/news/2010/06/11/index.md)
 
-##### floods
+##### Floods
 # At least 20 people die during flash floods of the Little Missouri River through a campground in the Ouachita Mountains near Caddo Gap, Arkansas, west of Little Rock, Arkansas in the United States. 
 
 Search crews recovered 18 bodies and were hunting for others on Saturday along a 10-mile stretch of river after a flash flood swept through a popular Arkansas campground on Friday, rescue officials said.

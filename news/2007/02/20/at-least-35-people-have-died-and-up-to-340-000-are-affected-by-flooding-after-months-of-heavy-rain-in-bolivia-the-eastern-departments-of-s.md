@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-
 
 ### [2007-02-20](/news/2007/02/20/index.md)
 
-##### flooding
+##### Flooding
 #  At least 35 people have died and up to 340,000 are affected by flooding after months of heavy rain in Bolivia. The eastern departments of Santa Cruz and Beni are the worst affected. 
 
 

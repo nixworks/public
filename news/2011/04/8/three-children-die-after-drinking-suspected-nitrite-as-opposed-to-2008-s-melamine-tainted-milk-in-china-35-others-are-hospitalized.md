@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/8/three-children-die-after-drinking-suspected-nitr
 
 ### [2011-04-8](/news/2011/04/8/index.md)
 
-##### nitrite
+##### Nitrite
 # Three children die after drinking suspected nitrite- (as opposed to 2008's melamine-) tainted milk in China; 35 others are hospitalized. 
 
 Three Chinese children die and 35 others, mostly children, fall ill with suspected poisoning after drinking milk from two dairies, state media says.

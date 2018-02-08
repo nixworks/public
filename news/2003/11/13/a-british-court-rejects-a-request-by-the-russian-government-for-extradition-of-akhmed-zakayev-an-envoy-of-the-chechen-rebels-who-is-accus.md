@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/13/a-british-court-rejects-a-request-by-the-russia
 
 ### [2003-11-13](/news/2003/11/13/index.md)
 
-##### extradition
+##### Extradition
 #  A British court rejects a request by the Russian government for extradition of Akhmed Zakayev, an envoy of the Chechen rebels, who is accused of being a terrorist and having committed a number of crimes including kidnapping, murdering Russian soldiers, and levying war. The request was denied on the grounds that Mr. Zakayev was considered likely to be tortured if he was extradited, which would make such deportation illegal under article 3 of the European Convention on Human Rights. The prosecution's evidence was described as a "farce" by one BBC reporter, and reminiscent of Soviet-era show trials.
 
 

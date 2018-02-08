@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/3/at-least-18-prisoners-are-killed-during-a-fight-
 
 ### [2008-05-3](/news/2008/05/3/index.md)
 
-##### prison
+##### Prison
 #  At least 18 prisoners are killed during a fight in a jail in Tegucigalpa, the capital of Honduras. This follows the recent deaths of nine prisoners in a riot in San Pedro Sula with both riots being blamed on overcrowding and gang rivalry. 
 
 

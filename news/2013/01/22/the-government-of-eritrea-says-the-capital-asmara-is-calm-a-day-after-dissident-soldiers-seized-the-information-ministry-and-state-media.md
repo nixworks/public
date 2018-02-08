@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/22/the-government-of-eritrea-says-the-capital-asma
 
 ### [2013-01-22](/news/2013/01/22/index.md)
 
-##### government
+##### Government
 # The government of Eritrea says the capital Asmara is "calm" a day after dissident soldiers seized the information ministry and state media. 
 
 Government says that all is calm in capital Asmara a day after dissident soldiers reportedly seize information ministry.

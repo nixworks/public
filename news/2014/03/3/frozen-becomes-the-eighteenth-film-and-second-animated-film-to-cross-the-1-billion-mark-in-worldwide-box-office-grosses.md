@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/3/frozen-becomes-the-eighteenth-film-and-second-an
 
 ### [2014-03-3](/news/2014/03/3/index.md)
 
-##### cross the $1 billion mark
+##### Cross the $1 billion mark
 # "Frozen" becomes the eighteenth film and second animated film to cross the $1 billion mark in worldwide box office grosses. 
 
 “Frozen” had several reasons to celebrate last night (excluding the flubbed introduction of star Idina Menzel). Aside from nabbing two Oscars, including Disney’s first best animated feature win in …

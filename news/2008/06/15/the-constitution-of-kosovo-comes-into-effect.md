@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/15/the-constitution-of-kosovo-comes-into-effect.ht
 
 ### [2008-06-15](/news/2008/06/15/index.md)
 
-##### constitution
+##### Constitution
 #  The constitution of Kosovo comes into effect. 
 
 

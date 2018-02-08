@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/15/two-firefighters-are-shot-one-fatally-and-the-o
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
-##### firefighter
+##### Firefighter
 # Two firefighters are shot, one fatally and the other is in critical condition, during a welfare check in Temple Hills, Maryland. 
 
 TEMPLE HILLS, Md. (AP) — As police worked Saturday to determine why a person opened fire on firefighters who were responding to a call for help at a home in a Maryland suburb of Washington, the shooter was released from…

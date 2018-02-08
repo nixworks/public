@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/23/another-case-of-mad-cow-disease-has-been-confir
 
 ### [2006-01-23](/news/2006/01/23/index.md)
 
-##### mad cow disease
+##### Mad cow disease
 #  Another case of mad cow disease has been confirmed in Canada but officials do not expect international borders to close to Canadian beef as a result. 
 
 

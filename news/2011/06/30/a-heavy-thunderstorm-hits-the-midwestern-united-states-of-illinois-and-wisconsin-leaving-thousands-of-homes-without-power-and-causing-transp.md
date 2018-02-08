@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/30/a-heavy-thunderstorm-hits-the-midwestern-united
 
 ### [2011-06-30](/news/2011/06/30/index.md)
 
-##### midwestern
+##### Midwestern
 # A heavy thunderstorm hits the midwestern United States of Illinois and Wisconsin leaving thousands of homes without power and causing transport problems in Chicago. 
 
 About 20,000 homes and businesses served by Commonwealth Edison Co. were without power this afternoon in the wake of severe thunderstorms that pelted the Chicago area with golf ball-size hailstones, disrupted Metra service for hours in the far northern suburbs and damaged 64 Chicago police cars.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/22/the-reported-number-of-people-fallen-ill-after-
 
 ### [2006-09-22](/news/2006/09/22/index.md)
 
-##### tainted spinach
+##### Tainted spinach
 #  The reported number of people fallen ill after eating tainted spinach reaches 166 in 25 U.S. states. 
 
 

@@ -9,7 +9,7 @@ Twenty-one skulls believed to be the remains of soldiers loyal to ousted former 
 
 ##### United States
 ### [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md)
-_Context: drones launch, Pakistan, Afghanistan, United States_
+_Context: United States, drones launch, Pakistan, Afghanistan_
 
 ##### Pakistan
 ### [Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
@@ -53,7 +53,7 @@ _Context: Rein Lang, Urve Tiidus, Toomas Hendrik Ilves_
 
 ##### Laptev sea
 ### [A new island is discovered in the Laptev sea, and is given the name Yaya. ](/news/2013/12/4/a-new-island-is-discovered-in-the-laptev-sea-and-is-given-the-name-yaya.md)
-_Context: Laptev sea, Yaya_
+_Context: Yaya, Laptev sea_
 
 ## [Previous Day...](/news/2013/12/3/index.md)
 

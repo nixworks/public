@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/17/venezuelan-police-shoot-dead-the-daughter-of-a-
 
 ### [2012-03-17](/news/2012/03/17/index.md)
 
-##### police
+##### Police
 # Venezuelan police shoot dead the daughter of a Chilean diplomat at a police checkpoint at the city of Maracaibo after the vehicle she was travelling in refused to stop - 11 police officers are under investigation. 
 
 

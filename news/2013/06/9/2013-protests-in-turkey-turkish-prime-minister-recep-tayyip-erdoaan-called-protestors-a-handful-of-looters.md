@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/9/2013-protests-in-turkey-turkish-prime-minister-r
 
 ### [2013-06-9](/news/2013/06/9/index.md)
 
-##### anti-government protests
+##### Anti-government protests
 # 2013 protests in Turkey: Turkish prime minister Recep Tayyip Erdogan called protestors "a handful of looters". 
 
 

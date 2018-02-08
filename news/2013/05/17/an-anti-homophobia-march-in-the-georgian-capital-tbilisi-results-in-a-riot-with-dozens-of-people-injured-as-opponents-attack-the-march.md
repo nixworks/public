@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/17/an-anti-homophobia-march-in-the-georgian-capita
 
 ### [2013-05-17](/news/2013/05/17/index.md)
 
-##### homophobia
+##### Homophobia
 # An anti-homophobia march in the Georgian capital Tbilisi results in a riot with dozens of people injured as opponents attack the march. 
 
 

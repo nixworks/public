@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/20/the-government-of-the-people-s-republic-of-chin
 
 ### [2011-05-20](/news/2011/05/20/index.md)
 
-##### government
+##### Government
 # The Government of the People's Republic of China acknowledges that there are "urgent problems" associated with the country's Three Gorges Dam project, as it is linked to soil erosion, earthquakes, drought and social upheaval. 
 
 

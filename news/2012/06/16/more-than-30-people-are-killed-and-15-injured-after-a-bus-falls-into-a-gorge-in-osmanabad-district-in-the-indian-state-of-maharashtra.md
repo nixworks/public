@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/16/more-than-30-people-are-killed-and-15-injured-a
 
 ### [2012-06-16](/news/2012/06/16/index.md)
 
-##### gorge
+##### Gorge
 # More than 30 people are killed and 15 injured after a bus falls into a gorge in Osmanabad district in the Indian state of Maharashtra. 
 
 

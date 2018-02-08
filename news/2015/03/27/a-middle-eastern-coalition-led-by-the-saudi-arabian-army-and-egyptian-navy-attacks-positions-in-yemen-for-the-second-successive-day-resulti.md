@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/27/a-middle-eastern-coalition-led-by-the-saudi-ara
 
 ### [2015-03-27](/news/2015/03/27/index.md)
 
-##### attacks
+##### Attacks
 # A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate. Saudi Arabia declares that it will enforce a "no-fly zone". 
 
 

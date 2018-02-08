@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/28/a-total-lunar-eclipse-takes-place-in-the-early-
 
 ### [2007-08-28](/news/2007/08/28/index.md)
 
-##### lunar eclipse
+##### Lunar eclipse
 #  A total lunar eclipse takes place in the early morning hours across most of North America and the eastern Pacific Ocean region. 
 
 

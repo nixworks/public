@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/25/two-russian-police-and-seven-militants-are-kill
 
 ### [2010-09-25](/news/2010/09/25/index.md)
 
-##### state police
+##### State police
 # Two Russian police and seven militants are killed in firefights in the southern republic of Dagestan while thirty people are injured in a suicide bombing. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/1/the-composer-and-pianist-elton-john-postpones-th
 
 ### [2009-11-1](/news/2009/11/1/index.md)
 
-##### pianist
+##### Pianist
 #  The composer and pianist Elton John postpones three more concerts on The Red Piano Tour, this time in the United States, due to illness. 
 
 

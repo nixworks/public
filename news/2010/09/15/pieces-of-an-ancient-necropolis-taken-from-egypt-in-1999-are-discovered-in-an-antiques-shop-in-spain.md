@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/15/pieces-of-an-ancient-necropolis-taken-from-egyp
 
 ### [2010-09-15](/news/2010/09/15/index.md)
 
-##### necropolis
+##### Necropolis
 # Pieces of an ancient necropolis taken from Egypt in 1999 are discovered in an antiques shop in Spain. 
 
 Pieces of an ancient Egyptian necropolis which were pillaged from Egypt in 1999 have been discovered in a antiques shop in Spain.

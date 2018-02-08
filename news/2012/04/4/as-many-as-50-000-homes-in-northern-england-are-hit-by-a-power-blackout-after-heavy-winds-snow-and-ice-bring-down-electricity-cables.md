@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/4/as-many-as-50-000-homes-in-northern-england-are-
 
 ### [2012-04-4](/news/2012/04/4/index.md)
 
-##### northern England
+##### Northern England
 # As many as 50,000 homes in northern England are hit by a power blackout after heavy winds, snow and ice bring down electricity cables. 
 
 Thousands of homes and businesses in England are without electricity after gales and ice brought down power lines.

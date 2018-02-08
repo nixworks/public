@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/30/a-railway-bridge-collapses-over-a-creek-in-paul
 
 ### [2012-11-30](/news/2012/11/30/index.md)
 
-##### railway bridge
+##### Railway bridge
 # A railway bridge collapses over a creek in Paulsboro in southern New Jersey, causing a Conrail freight train to derail and spill hazardous chemicals into the air and water. 
 
 A railroad bridge collapsed on Friday over a creek in southern New Jersey, causing a Conrail freight train to derail and spill hazardous chemicals into the air and water, authorities said.

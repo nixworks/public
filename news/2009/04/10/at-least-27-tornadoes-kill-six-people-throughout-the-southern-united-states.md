@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/10/at-least-27-tornadoes-kill-six-people-throughou
 
 ### [2009-04-10](/news/2009/04/10/index.md)
 
-##### tornado
+##### Tornado
 #  At least 27 tornadoes kill six people throughout the Southern United States. 
 
 

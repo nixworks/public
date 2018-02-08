@@ -3,7 +3,7 @@ Formats: [HTML](2013/10/21/index.html)  [JSON](2013/10/21/index.json)  [XML](201
 
 ## [2013-10-21](/news/2013/10/21/index.md)
 
-##### detonates an explosive vest on a bus
+##### Detonates an explosive vest on a bus
 ### [A female suicide bomber detonates an explosive vest on a bus in the Russian city of Volgograd, killing at least 6 and injuring at least 28 others, 8 of them critically. ](/news/2013/10/21/a-female-suicide-bomber-detonates-an-explosive-vest-on-a-bus-in-the-russian-city-of-volgograd-killing-at-least-6-and-injuring-at-least-28-o.md)
 A suspected female suicide bomber blows up a bus in Volgograd, southern Russia, killing at least six and injuring more than 30, officials say.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-bef
 
 ### [2010-05-17](/news/2010/05/17/index.md)
 
-##### suicide
+##### Suicide
 # Six people are attacked with a meat cleaver before the assailant commits suicide at a market in Foshan, China. 
 
 

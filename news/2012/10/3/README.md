@@ -5,11 +5,11 @@ Formats: [HTML](2012/10/3/index.html)  [JSON](2012/10/3/index.json)  [XML](2012/
 
 ##### Syrian refugees
 ### [Syrian refugees in rented houses say the Turkish police in Hatay Province faces them with the choice to either join a refugee camp or go back to Syria. ](/news/2012/10/3/syrian-refugees-in-rented-houses-say-the-turkish-police-in-hatay-province-faces-them-with-the-choice-to-either-join-a-refugee-camp-or-go-bac.md)
-_Context: Syrian refugees, Syria, Turkish police, choice, Hatay Province, refugee camp_
+_Context: Syrian refugees, choice, refugee camp, Syria, Turkish police, Hatay Province_
 
 ##### Hezbollah
 ### [Several blasts strike an arms stockpile in the Hezbollah-controlled Bekaa Valley in Lebanon. ](/news/2012/10/3/several-blasts-strike-an-arms-stockpile-in-the-hezbollah-controlled-bekaa-valley-in-lebanon.md)
-_Context: Hezbollah, Lebanon, Bekaa Valley_
+_Context: Bekaa Valley, Hezbollah, Lebanese_
 
 ##### Iran
 ### [Riot police in Iran clash with protestors demonstrating against the collapse of the country's currency, the rial. ](/news/2012/10/3/riot-police-in-iran-clash-with-protestors-demonstrating-against-the-collapse-of-the-country-s-currency-the-rial.md)

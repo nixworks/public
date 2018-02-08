@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/20/a-possible-oil-slick-appears-and-spreads-near-t
 
 ### [2011-03-20](/news/2011/03/20/index.md)
 
-##### oil slick
+##### Oil slick
 # A possible oil slick appears and spreads near the Mississippi Delta off the coast of Grand Isle, Louisiana, suspected to be an oil spill from the Matterhorn Seastar oil rig near the Deepwater Horizon oil spill location or silt contamination from a nearby dredging operation. 
 
 The U.S. Coast Guard is investigating reports of a &quot;sheen&quot; in the Gulf of Mexico off the coast of Louisiana.

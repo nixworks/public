@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/25/voters-in-togo-go-to-the-polls-for-a-parliament
 
 ### [2013-07-25](/news/2013/07/25/index.md)
 
-##### recent parliamentary election
+##### Recent parliamentary election
 # Voters in Togo go to the polls for a parliamentary election, which was delayed from October 2012 due to mass protests. 
 
 Citizens of the small, poverty-stricken West African country of Togo are to vote on Thursday in long-delayed parliamentary elections.

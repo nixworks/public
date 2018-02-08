@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/30/car-bomb-blasts-kill-at-least-32-people-across-
 
 ### [2012-09-30](/news/2012/09/30/index.md)
 
-##### eight car bombings
+##### Eight car bombings
 # Car bomb blasts kill at least 32 people across Iraq. 
 
 Coordinated bomb attacks killed more than 32 people across Iraq on Sunday, the latest violence in an insurgency the government has failed to quell more than nine months after the last U.S. troops withdrew.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/9/mexican-drug-lord-rafael-caro-quintero-who-was-c
 
 ### [2013-08-9](/news/2013/08/9/index.md)
 
-##### drug lord
+##### Drug lord
 # Mexican drug lord Rafael Caro Quintero, who was convicted for the 1985 murder of U.S. Drug Enforcement Administration Enrique Camarena, is ordered released from prison. 
 
 Cartel boss has 40-year jail sentence for murder of American DEA agent Enrique Camarena overturned by court

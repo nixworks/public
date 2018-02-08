@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-unit
 
 ### [2009-01-17](/news/2009/01/17/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. 
 
 

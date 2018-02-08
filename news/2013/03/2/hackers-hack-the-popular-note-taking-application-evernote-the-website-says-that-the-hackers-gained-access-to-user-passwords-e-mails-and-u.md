@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/2/hackers-hack-the-popular-note-taking-application
 
 ### [2013-03-2](/news/2013/03/2/index.md)
 
-##### hackers
+##### Hackers
 # Hackers hack the popular note-taking application Evernote. The website says that the hackers gained access to user passwords, e-mails, and usernames. 
 
 The popular multi-platform, note-taking web application Evernote has had its master website hacked — and you must change your password before you can use it.

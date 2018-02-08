@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/9/missile-strikes-kill-eight-militants-near-the-al
 
 ### [2012-05-9](/news/2012/05/9/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Missile strikes kill eight militants near the Al-Qaeda stronghold of Jaar in southern Yemen. 
 
 Missile strikes killed eight militants early on Thursday outside a town in southern Yemen which is a stronghold of al Qaeda-linked insurgents fighting government forces for more than a year, residents said.

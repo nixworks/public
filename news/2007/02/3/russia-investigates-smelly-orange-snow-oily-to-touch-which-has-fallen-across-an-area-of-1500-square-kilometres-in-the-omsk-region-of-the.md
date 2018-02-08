@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/3/russia-investigates-smelly-orange-snow-oily-to-t
 
 ### [2007-02-3](/news/2007/02/3/index.md)
 
-##### orange snow
+##### Orange snow
 #  Russia investigates smelly orange snow, oily to touch, which has fallen across an area of 1500 square kilometres in the Omsk region of the country. 
 
 

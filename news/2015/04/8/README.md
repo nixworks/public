@@ -9,7 +9,7 @@ An Afghan man dressed in the uniform of local security forces opened fire on U.S
 
 ##### Sinai insurgency
 ### [Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md)
-_Context: Sinai Peninsula, Egyptian Army, Sinai insurgency_
+_Context: Sinai insurgency, Sinai Peninsula, Egyptian Army_
 
 ##### Royal Dutch Shell
 ### [Royal Dutch Shell purchases rival BG Group for around $70 billion. ](/news/2015/04/8/royal-dutch-shell-purchases-rival-bg-group-for-around-70-billion.md)
@@ -23,7 +23,7 @@ Hundreds of flights in France are cancelled as air traffic controllers launch a 
 ### [At the Dragon Aromatics chemical plant in Fujian in southeast China, a fourth tank of about 1,500 tonnes of liquid hydrocarbon catches fire and explodes. More than 14,000 residents have been evacuated. ](/news/2015/04/8/at-the-dragon-aromatics-chemical-plant-in-fujian-in-southeast-china-a-fourth-tank-of-about-1-500-tonnes-of-liquid-hydrocarbon-catches-fire.md)
 Thousands are evacuated in the southern Chinese province of Fujian as a massive chemical oil fire reignites.
 
-##### shipwreck
+##### Shipwreck
 ### [A shipwreck off the Haiti coast claims the life of 21 people. ](/news/2015/04/8/a-shipwreck-off-the-haiti-coast-claims-the-life-of-21-people.md)
 _Context: shipwreck, Haiti_
 

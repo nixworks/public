@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/15/2011-syrian-protests-police-use-tear-gas-to-dis
 
 ### [2011-04-15](/news/2011/04/15/index.md)
 
-##### protestors
+##### Protestors
 # 2011 Syrian protests: Police use tear gas to disperse tens of thousands of protesters in the capital Damascus. 
 
 Syrian security forces in the capital Damascus use tear gas and batons to disperse the largest reported protests in a month of unrest.

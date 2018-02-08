@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/27/astronomers-discover-the-most-massive-neutron-s
 
 ### [2010-10-27](/news/2010/10/27/index.md)
 
-##### most massive neutron star
+##### Most massive neutron star
 # Astronomers discover the most massive neutron star yet known. 
 
 

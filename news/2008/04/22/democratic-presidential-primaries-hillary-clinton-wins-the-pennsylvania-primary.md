@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/22/democratic-presidential-primaries-hillary-clint
 
 ### [2008-04-22](/news/2008/04/22/index.md)
 
-##### primaries
+##### Primaries
 #  Democratic Presidential primaries: Hillary Clinton wins the Pennsylvania Primary. 
 
 

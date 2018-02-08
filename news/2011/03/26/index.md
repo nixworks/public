@@ -3,7 +3,7 @@ Formats: [HTML](2011/03/26/index.html)  [JSON](2011/03/26/index.json)  [XML](201
 
 ## [2011-03-26](/news/2011/03/26/index.md)
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. ](/news/2011/03/26/2011-libyan-civil-war-rebel-forces-in-libya-retake-the-town-of-ajdabiya-from-troops-loyal-to-muammar-gaddafi-and-later-recapture-brega.md)
 Five suspected al Qaeda members were killed in a clash with Yemeni forces when they attacked a security checkpoint in the south of the Arabian Peninsula country, a local official said on Saturday.
 
@@ -27,13 +27,13 @@ _Context: Miami International Airport_
 ### [Ford announces plans to shut down its plant in Cenk, Belgium for a few days starting April 4 due to parts shortages following the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/26/ford-announces-plans-to-shut-down-its-plant-in-cenk-belgium-for-a-few-days-starting-april-4-due-to-parts-shortages-following-the-2011-taho.md)
 Ford Motor Co (F.N) will idle its auto plant in Genk, Belgium, for five days starting April 4, to conserve parts following the earthquake and nuclear crisis in Japan that has disrupted supplies for numerous automakers.
 
-##### radiation
+##### Radiation
 ### [Levels of radiation in Tokyo's water supply return to normal. ](/news/2011/03/26/levels-of-radiation-in-tokyo-s-water-supply-return-to-normal.md)
-_Context: Tokyo, radiation_
+_Context: radiation, Tokyo_
 
 ##### Mandalay
 ### [A woman becomes the first person to be jailed for violating a ban on non-recyclable plastic bags in Mandalay, Burma. ](/news/2011/03/26/a-woman-becomes-the-first-person-to-be-jailed-for-violating-a-ban-on-non-recyclable-plastic-bags-in-mandalay-burma.md)
-_Context: Burma, Mandalay_
+_Context: Mandalay, Burma_
 
 ##### Swindon
 ### [British Police are granted an extension by magistrates to continue questioning a Swindon man suspected of the murder of Sian O'Callaghan. ](/news/2011/03/26/british-police-are-granted-an-extension-by-magistrates-to-continue-questioning-a-swindon-man-suspected-of-the-murder-of-sian-o-callaghan.md)
@@ -49,11 +49,11 @@ Follow our rolling coverage of today&#039;s marches which saw an estimated 400,0
 
 ##### Geraldine Ferraro
 ### [Geraldine Ferraro, a Democratic Party Congresswoman and the first woman to stand for Vice-President of the United States on a major party ticket dies in Boston. ](/news/2011/03/26/geraldine-ferraro-a-democratic-party-congresswoman-and-the-first-woman-to-stand-for-vice-president-of-the-united-states-on-a-major-party-ti.md)
-_Context: Boston, Massachusetts, Democrat, House of Representatives, Geraldine Ferraro, Vice-President of the United States_
+_Context: House of Representatives, Democrat, Vice-President of the United States, Boston, Massachusetts, Geraldine Ferraro_
 
 ##### Governor-General of Canada
 ### [The Governor-General of Canada David Johnston dissolves the Parliament of Canada and issues writs for the Canadian federal election. ](/news/2011/03/26/the-governor-general-of-canada-david-johnston-dissolves-the-parliament-of-canada-and-issues-writs-for-the-canadian-federal-election.md)
-_Context: Governor-General of Canada, David Johnston, 2011 Canadian federal election, Parliament of Canada_
+_Context: Parliament of Canada, David Johnston, 2011 Canadian federal election, Governor-General of Canada_
 
 ## [Previous Day...](/news/2011/03/25/index.md)
 

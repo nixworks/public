@@ -3,7 +3,7 @@ Formats: [HTML](2015/03/28/index.html)  [JSON](2015/03/28/index.json)  [XML](201
 
 ## [2015-03-28](/news/2015/03/28/index.md)
 
-##### attacks
+##### Attacks
 ### [Saudi airstrikes continue in Yemen for the third successive day while ground fighting occurs in Aden. Saudi Arabia claims to be in full control of Yemen's airspace. ](/news/2015/03/28/saudi-airstrikes-continue-in-yemen-for-the-third-successive-day-while-ground-fighting-occurs-in-aden-saudi-arabia-claims-to-be-in-full-cont.md)
 Raids target Houthi strongholds across country while ground fighting reported in the southern city of Aden.
 
@@ -21,7 +21,7 @@ Bar owner falsely implicated in Meredith Kercher murder says decision to quash c
 
 ##### Nigerian general election, 2015
 ### [Voters in Nigeria go to the polls for a general election. Gunmen kill at least 15 voters including an opposition house of assembly candidate for Dukku in Gombe. ](/news/2015/03/28/voters-in-nigeria-go-to-the-polls-for-a-general-election-gunmen-kill-at-least-15-voters-including-an-opposition-house-of-assembly-candidate.md)
-_Context: Gombe, Nigerian general election, 2015, Dukku, Nigeria_
+_Context: Dukku, Nigerian general election, 2015, Nigeria, Gombe_
 
 ##### New South Wales state election, 2015
 ### [Voters in the Australian state of New South Wales go to the polls for a state election with the Liberal-National Coalition led by Mike Baird retaining government. ](/news/2015/03/28/voters-in-the-australian-state-of-new-south-wales-go-to-the-polls-for-a-state-election-with-the-liberal-national-coalition-led-by-mike-baird.md)

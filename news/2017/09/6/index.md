@@ -13,11 +13,11 @@ The divide between Trump and the business community has only continued to grow s
 
 ##### Economy of the United States
 ### [U.S. Federal Reserve Vice Chair Stanley Fischer announces he will resign in mid-October, eight months before his term expires. ](/news/2017/09/6/u-s-federal-reserve-vice-chair-stanley-fischer-announces-he-will-resign-in-mid-october-eight-months-before-his-term-expires.md)
-_Context: Federal Reserve System, Economy of the United States, Stanley Fischer_
+_Context: Federal Reserve System, Stanley Fischer, Economy of the United States_
 
 ##### 2017 disasters in the United States
 ### [An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. ](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-safford-arizona-killing-the-pilot.md)
-_Context: F-16, Arizona Air National Guard, 2017 disasters in the United States, Safford, Arizona_
+_Context: F-16, Safford, Arizona, 2017 disasters in the United States, Arizona Air National Guard_
 
 ##### Atlantic hurricanes
 ### [Hurricane Irma makes first landfall on Barbuda, Saint Martin, and Anguilla in the northeastern Leeward Islands. Irma has maintained 185 mph winds for 24 hours, setting another record for Atlantic and eastern Pacific storms. ](/news/2017/09/6/hurricane-irma-makes-first-landfall-on-barbuda-saint-martin-and-anguilla-in-the-northeastern-leeward-islands-irma-has-maintained-185-mph.md)
@@ -29,9 +29,9 @@ Bangladesh says Myanmar is planting landmines to stop thousands of Rohingya Musl
 
 ##### European migrant crisis
 ### [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md)
-_Context: Hungary, European Union, European Court of Justice, Brussels', European migrant crisis, Slovakia_
+_Context: European migrant crisis, European Union, European Court of Justice, Brussels', Hungary, Slovakia_
 
-##### secession
+##### Secession
 ### [A last minute presentation to the parliament of Catalonia results in the formal approval of a referendum concerning independence from Spain. Though the country's president urges the government to ignore the bill, parliament is expected to vote in favor of an independence vote. ](/news/2017/09/6/a-last-minute-presentation-to-the-parliament-of-catalonia-results-in-the-formal-approval-of-a-referendum-concerning-independence-from-spain.md)
 Catalan lawmakers are voting on a bill that will allow regional authorities to officially call an Oct. 1 referendum on a split from Spain, making concrete a years-long defiance of central authorities, who see the vote as illegal. The so-called &quot;referendum bill&quot; was included at the last...
 

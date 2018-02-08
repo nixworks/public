@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/13/at-least-30-people-are-dead-and-dozens-missing-
 
 ### [2012-03-13](/news/2012/03/13/index.md)
 
-##### a ferry
+##### A ferry
 # At least 30 people are dead and dozens missing after the MV Shariatpur 1 ferry carrying 200 people collides with an oil tanker. It capsizes on the Meghna River in Bangladesh's Munshiganj District near the capital Dhaka. 
 
 At least 32 people die and scores are missing after a ferry with some 200 people aboard sinks in southern Bangladesh, police say.

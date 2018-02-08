@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/23/a-suicide-bombing-at-a-mosque-in-the-iraqi-town
 
 ### [2013-01-23](/news/2013/01/23/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a mosque in the Iraqi town of Tuz Khormato kills at least 23 people. 
 
 At least 23 people are killed by a suicide bomber targeting a funeral being held at a Shia mosque in the Iraqi village of Tuz Khurmato, police say.

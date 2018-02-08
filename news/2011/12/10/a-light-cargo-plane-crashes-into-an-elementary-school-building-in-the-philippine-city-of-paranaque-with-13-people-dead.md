@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/10/a-light-cargo-plane-crashes-into-an-elementary-
 
 ### [2011-12-10](/news/2011/12/10/index.md)
 
-##### crashes into an elementary school
+##### Crashes into an elementary school
 # A light cargo plane crashes into an elementary school building in the Philippine city of Paraaque with 13 people dead. 
 
 

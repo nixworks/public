@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/16/an-american-judge-sentences-a-former-state-depa
 
 ### [2010-07-16](/news/2010/07/16/index.md)
 
-##### life imprisonment
+##### Life imprisonment
 # An American judge sentences a former State Department worker to life imprisonment without the possibility of parole and his wife to 6 years for spying for Cuba for three decades. 
 
 A US judge sentences a former State Department worker to life in prison without the possibility of parole for spying for Cuba.

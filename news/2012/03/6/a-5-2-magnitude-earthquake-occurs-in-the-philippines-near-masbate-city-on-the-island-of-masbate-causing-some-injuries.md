@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/6/a-5-2-magnitude-earthquake-occurs-in-the-philipp
 
 ### [2012-03-6](/news/2012/03/6/index.md)
 
-##### earthquake
+##### Earthquake
 # A 5.2 magnitude earthquake occurs in the Philippines near Masbate City on the island of Masbate causing some injuries. 
 
 

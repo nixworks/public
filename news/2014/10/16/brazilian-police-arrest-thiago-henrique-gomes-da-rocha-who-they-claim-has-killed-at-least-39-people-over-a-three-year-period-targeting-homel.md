@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/16/brazilian-police-arrest-thiago-henrique-gomes-d
 
 ### [2014-10-16](/news/2014/10/16/index.md)
 
-##### police
+##### Police
 # Brazilian police arrest Thiago Henrique Gomes da Rocha who they claim has killed at least 39 people over a three year period targeting homeless people, women and gays. 
 
 Brazilian police in the state of Goiania arrest a man who they say has confessed to killing 39 people in cold blood.

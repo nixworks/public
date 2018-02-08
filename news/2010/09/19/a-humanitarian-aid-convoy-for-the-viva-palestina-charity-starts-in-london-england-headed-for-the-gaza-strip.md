@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/19/a-humanitarian-aid-convoy-for-the-viva-palestin
 
 ### [2010-09-19](/news/2010/09/19/index.md)
 
-##### humanitarian aid
+##### Humanitarian aid
 # A humanitarian aid convoy for the Viva Palestina charity starts in London, England, headed for the Gaza Strip. 
 
 Viva Palestina vehicles leave London en route to besieged Strip for what organisers say will be biggest aid convoy yet.

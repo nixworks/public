@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/7/scores-of-candidates-in-the-afghan-parliamentary
 
 ### [2010-11-7](/news/2010/11/7/index.md)
 
-##### parliamentary election
+##### Parliamentary election
 # Scores of candidates in the Afghan parliamentary election protest at the lack of any results from the election held on September 18 and call for a new election. 
 
 

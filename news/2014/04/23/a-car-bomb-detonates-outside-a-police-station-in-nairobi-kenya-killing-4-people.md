@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/23/a-car-bomb-detonates-outside-a-police-station-i
 
 ### [2014-04-23](/news/2014/04/23/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb detonates outside a police station in Nairobi, Kenya, killing 4 people. 
 
 Four people, two of them police, are killed in the Kenyan capital Nairobi by a car bomb outside a police station.

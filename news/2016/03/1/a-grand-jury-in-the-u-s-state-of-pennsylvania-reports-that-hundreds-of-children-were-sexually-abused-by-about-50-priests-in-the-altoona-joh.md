@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/1/a-grand-jury-in-the-u-s-state-of-pennsylvania-re
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
-##### grand jury
+##### Grand jury
 # A grand jury in the U.S. state of Pennsylvania reports that hundreds of children were sexually abused by about 50 priests in the Altoona-Johnstown Diocese over four decades. 
 
 Hundreds of children in western Pennsylvania were sexually assaulted by about 50 Roman Catholic priests over four decades while bishops covered up their actions, according to a state grand jury report released on Tuesday.

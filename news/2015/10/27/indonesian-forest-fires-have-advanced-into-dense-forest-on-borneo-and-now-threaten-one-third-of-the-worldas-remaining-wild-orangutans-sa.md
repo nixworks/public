@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/27/indonesian-forest-fires-have-advanced-into-dens
 
 ### [2015-10-27](/news/2015/10/27/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 #  Indonesian forest fires have advanced into dense forest on Borneo and now threaten one third of the world's remaining wild orangutans, say conservationists. 
 
 A species of the Great Apes is among the biggest casualties of the fires ravaging several parts of Indonesia and the Southeast Asian island of Borneo.

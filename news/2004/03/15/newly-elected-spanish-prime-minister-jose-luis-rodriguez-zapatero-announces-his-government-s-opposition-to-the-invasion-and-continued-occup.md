@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-
 
 ### [2004-03-15](/news/2004/03/15/index.md)
 
-##### elected
+##### Elected
 #  Newly elected Spanish Prime Minister Jos Luis Rodrguez Zapatero announces his government's opposition to the invasion and continued occupation of Iraq and his intention to withdraw Spanish troops from Iraq by June 30, unless they are part of a U.N. force. 
 
 

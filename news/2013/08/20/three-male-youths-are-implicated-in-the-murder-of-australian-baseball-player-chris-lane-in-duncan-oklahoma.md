@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/20/three-male-youths-are-implicated-in-the-murder-
 
 ### [2013-08-20](/news/2013/08/20/index.md)
 
-##### murder
+##### Murder
 # Three male youths are implicated in the murder of Australian baseball player Chris Lane in Duncan, Oklahoma. 
 
 

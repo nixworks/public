@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/6/at-least-35-people-are-killed-and-dozens-more-wo
 
 ### [2007-11-6](/news/2007/11/6/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  At least 35 people are killed and dozens more wounded in a suicide bombing in northern Afghanistan, officials say. 
 
 

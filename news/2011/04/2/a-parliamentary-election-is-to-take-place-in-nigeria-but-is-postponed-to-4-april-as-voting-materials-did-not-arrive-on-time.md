@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/2/a-parliamentary-election-is-to-take-place-in-nig
 
 ### [2011-04-2](/news/2011/04/2/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 # A parliamentary election is to take place in Nigeria, but is postponed to 4 April as voting materials did not arrive on time. 
 
 

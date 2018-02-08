@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/1/philippines-president-rodrigo-duterte-urges-fili
 
 ### [2016-07-1](/news/2016/07/1/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Philippines President Rodrigo Duterte urges Filipino citizens to murder people suspected of using illegal drugs. 
 
 Duterte, 71, won power in a landslide after a campaign dominated by threats to kill tens of thousands in a war on crime

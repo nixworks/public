@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/14/a-cargo-aircraft-crashes-on-take-off-from-gener
 
 ### [2010-04-14](/news/2010/04/14/index.md)
 
-##### crashes on take-off
+##### Crashes on take-off
 # A cargo aircraft crashes on take-off from General Mariano Escobedo International Airport, Monterrey, Mexico, killing five crew members and one person in a car on the ground. 
 
 An Airbus A300B4-203F cargo plane, registered XA-TUE, was destroyed in an accident near Monterrey-General Mariano Escobedo International Airport (MTY), Mexico. There were five crew members on board. And 2 persons on the ground were killed. The airplane operated on a flight from Mexico City-Benito Juárez International Airport (MEX) to Monterrey-General Mariano Escobedo International Airport (MTY).

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/20/amid-major-riots-and-a-general-strike-the-helle
 
 ### [2011-10-20](/news/2011/10/20/index.md)
 
-##### general strike
+##### General strike
 # Amid major riots and a general strike, the Hellenic Parliament approves a highly controversial package of austerity measures aimed at resolving Greece's ongoing debt crisis. The austerity measures include higher taxes and cuts to public sector wages. 
 
 The Greek parliament passes a package of austerity measures despite two days of violent protests, in which one man has died.

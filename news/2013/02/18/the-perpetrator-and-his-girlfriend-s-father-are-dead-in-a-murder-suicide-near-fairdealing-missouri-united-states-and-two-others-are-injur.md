@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/18/the-perpetrator-and-his-girlfriend-s-father-are
 
 ### [2013-02-18](/news/2013/02/18/index.md)
 
-##### murder-suicide
+##### Murder-suicide
 # The perpetrator and his girlfriend's father are dead in a murder-suicide near Fairdealing, Missouri, United States, and two others are injured. 
 
 

@@ -13,7 +13,7 @@ A gang brought down a helicopter during a police operation in Mexico&#39;s troub
 
 ##### Americans
 ### [The American pop star Madonna agrees on a settlement with her former husband Guy Ritchie over their son. ](/news/2016/09/7/the-american-pop-star-madonna-agrees-on-a-settlement-with-her-former-husband-guy-ritchie-over-their-son.md)
-_Context: Americans, Guy Ritchie, pop, Madonna_
+_Context: pop, Madonna, Guy Ritchie, Americans_
 
 ##### Burial of Ferdinand Marcos
 ### [The Duterte administration defends its decision to bury the former dictator Ferdinand Marcos in the Philippine heroes' cemetery. ](/news/2016/09/7/the-duterte-administration-defends-its-decision-to-bury-the-former-dictator-ferdinand-marcos-in-the-philippine-heroes-cemetery.md)
@@ -57,21 +57,21 @@ The US State Department urges Bahrain to immediately release prominent human rig
 
 ##### Iran-Saudi Arabia relations
 ### [The top cleric of Saudi Arabia says Iranians "are not Muslims." ](/news/2016/09/7/the-top-cleric-of-saudi-arabia-says-iranians-are-not-muslims.md)
-_Context: Saudi Arabia, Iran-Saudi Arabia relations, Muslim, Iran_
+_Context: Saudi Arabia, Muslim, Iran-Saudi Arabia relations, Iran_
 
 ##### Russia-United States relations
 ### [A Russian Sukhoi Su-27 fighter jet makes an "unsafe close-range intercept" of a United States Navy P-8A Poseidon over the Black Sea in international airspace, coming within 10 feet (3.3 m) of the U.S. aircraft. ](/news/2016/09/7/a-russian-sukhoi-su-27-fighter-jet-makes-an-unsafe-close-range-intercept-of-a-united-states-navy-p-8a-poseidon-over-the-black-sea-in-inter.md)
-_Context: Black Sea, United States Navy, P-8A Poseidon, Russia-United States relations, Russian SU-27 fighter jet, Russia_
+_Context: Russia, United States Navy, Russia-United States relations, Russian SU-27 fighter jet, P-8A Poseidon, Black Sea_
 
 ##### Morton County, North Dakota
 ### [The sheriff's department of Morton County, North Dakota, issues arrest warrants for United States Green Party presidential candidate, Jill Stein, and her running-mate, Ajamu Baraka on charges of criminal trespass and criminal mischief. The county sheriff's department says that Stein and Baraka vandalized equipment at a controversial pipeline construction site. ](/news/2016/09/7/the-sheriff-s-department-of-morton-county-north-dakota-issues-arrest-warrants-for-united-states-green-party-presidential-candidate-jill-s.md)
-_Context: Ajamu Baraka, presidential candidate, controversial pipeline construction site, Jill Stein, Morton County, North Dakota, Green Party of the United States_
+_Context: Morton County, North Dakota, Ajamu Baraka, controversial pipeline construction site, presidential candidate, Green Party of the United States, Jill Stein_
 
 ##### Denmark
 ### [Denmark's government plans to buy the leaked Panama Papers containing Danish citizens. ](/news/2016/09/7/denmark-s-government-plans-to-buy-the-leaked-panama-papers-containing-danish-citizens.md)
 The Danish tax minister announces plans to buy data leaked from the law firm at the heart of the Panama Papers scandal, in order to battle tax evasion.
 
-##### a woman who kicked refugees
+##### A woman who kicked refugees
 ### [Hungarian prosecutors charge a woman who kicked refugees fleeing in Hungary with disorderly conduct. ](/news/2016/09/7/hungarian-prosecutors-charge-a-woman-who-kicked-refugees-fleeing-in-hungary-with-disorderly-conduct.md)
 Petra Laszlo charged with disorderly conduct after she was filmed kicking and tripping refugees fleeing police.
 
@@ -81,11 +81,11 @@ Mexicans have assailed the government for inviting the GOP nominee.
 
 ##### Gabonese presidential election, 2016
 ### [Ali Bongo Ondimba rejects calls for a recount. ](/news/2016/09/7/ali-bongo-ondimba-rejects-calls-for-a-recount.md)
-_Context: Ali Bongo Ondimba, Gabonese presidential election, 2016_
+_Context: Gabonese presidential election, 2016, Ali Bongo Ondimba_
 
-##### beach
+##### Beach
 ### [A beachgoer in Australia discovers dinosaur footprints believed to be around 130 million years old while combing the shore for shells. ](/news/2016/09/7/a-beachgoer-in-australia-discovers-dinosaur-footprints-believed-to-be-around-130-million-years-old-while-combing-the-shore-for-shells.md)
-_Context: beach, dinosaur, Australia_
+_Context: dinosaur, Australia, beach_
 
 ## [Previous Day...](/news/2016/09/6/index.md)
 

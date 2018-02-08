@@ -17,19 +17,19 @@ _Context: Communist, New People's Army, Agusan del Sur_
 
 ##### Zara Phillips
 ### [Zara Phillips, granddaughter of Queen Elizabeth II, marries England rugby union international Mike Tindall in a ceremony at Canongate Kirk, Edinburgh, Scotland. ](/news/2011/07/30/zara-phillips-granddaughter-of-queen-elizabeth-ii-marries-england-rugby-union-international-mike-tindall-in-a-ceremony-at-canongate-kirk.md)
-_Context: Canongate Kirk, England rugby union international, Mike Tindall, Edinburgh, Scotland, Elizabeth II, Zara Phillips_
+_Context: England rugby union international, Edinburgh, Scotland, Mike Tindall, Zara Phillips, Elizabeth II, Canongate Kirk_
 
 ##### Vietnam
 ### [At least 17 people are killed in a fire at a shoe factory in the Vietnamese city of Hai Phong. ](/news/2011/07/30/at-least-17-people-are-killed-in-a-fire-at-a-shoe-factory-in-the-vietnamese-city-of-hai-phong.md)
 At least 17 people have been killed and 21 others injured in a fire at a shoe factory in northern Vietnam, police and media say.
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 ### [The Metropolitan Police launches Operation Tuleta to investigate allegations of computer hacking by News International journalists. ](/news/2011/07/30/the-metropolitan-police-launches-operation-tuleta-to-investigate-allegations-of-computer-hacking-by-news-international-journalists.md)
 A new team of officers is to investigate claims of computer hacking, the Metropolitan Police has announced.
 
 ##### Mexican
 ### [The Mexican media reports that hitman Jos Antonio Acosta Hernndez, associated with the La Lnea gang, is arrested in Chihuahua in connection to killing United States consular official and murders at a Juarez birthday party. ](/news/2011/07/30/the-mexican-media-reports-that-hitman-jose-antonio-acosta-hernandez-associated-with-the-la-linea-gang-is-arrested-in-chihuahua-in-connecti.md)
-_Context: Mexican, United States, Chihuahua, Jos Antonio Acosta Hernndez, La Lnea, Juarez_
+_Context: Jos Antonio Acosta Hernndez, Mexican, La Lnea, United States, Juarez, Chihuahua_
 
 ##### George Clinton
 ### [Four people are shot and one killed after a George Clinton concert in the US city of Cleveland, Ohio. ](/news/2011/07/30/four-people-are-shot-and-one-killed-after-a-george-clinton-concert-in-the-us-city-of-cleveland-ohio.md)

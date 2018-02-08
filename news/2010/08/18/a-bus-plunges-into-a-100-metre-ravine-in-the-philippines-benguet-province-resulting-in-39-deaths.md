@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/18/a-bus-plunges-into-a-100-metre-ravine-in-the-ph
 
 ### [2010-08-18](/news/2010/08/18/index.md)
 
-##### bus
+##### Bus
 # A bus plunges into a 100 metre ravine in the Philippines Benguet province resulting in 39 deaths. 
 
 

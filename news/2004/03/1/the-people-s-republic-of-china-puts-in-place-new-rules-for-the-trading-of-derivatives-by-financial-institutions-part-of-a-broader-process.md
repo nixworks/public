@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/1/the-people-s-republic-of-china-puts-in-place-new
 
 ### [2004-03-1](/news/2004/03/1/index.md)
 
-##### corporate derivatives
+##### Corporate derivatives
 #  The People's Republic of China puts in place new rules for the trading of derivatives by financial institutions, part of a broader process by which China has in recent years sought to integrate its own economy with finance capitalism around the world. The China Banking Regulatory Commission receives praise from the New York-based International Swaps and Derivatives Association.
 
 

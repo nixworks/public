@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/29/researchers-discover-a-biofluorescent-hawksbill
 
 ### [2015-09-29](/news/2015/09/29/index.md)
 
-##### biofluorescent
+##### Biofluorescent
 # Researchers discover a biofluorescent hawksbill sea turtle, glowing bright red and green, near the Solomon Islands in the South Pacific Ocean. This is the first time scientists have found biofluorescence in a reptile in the wild. The hawksbill sea turtle is an endangered species. 
 
 A brightly glowing neon green and red sea turtle caught the attention of two divers filming biofluorescent creatures near the Solomon Islands.

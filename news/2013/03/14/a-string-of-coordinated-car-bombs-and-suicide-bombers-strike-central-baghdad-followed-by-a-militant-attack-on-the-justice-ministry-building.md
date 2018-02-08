@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/14/a-string-of-coordinated-car-bombs-and-suicide-b
 
 ### [2013-03-14](/news/2013/03/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A string of coordinated car bombs and suicide bombers strike central Baghdad, followed by a militant attack on the Justice Ministry building. At least 25 people are killed, including 7 police officers and 3 militants, along with 50 wounded. 
 
 Coordinated blasts killed at least 25 people in the heart of Baghdad on Thursday near the heavily fortified Green Zone, where several Western embassies are located, police and medics said.

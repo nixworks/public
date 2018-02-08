@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/14/240-people-are-arrested-in-a-series-of-riots-in
 
 ### [2009-07-14](/news/2009/07/14/index.md)
 
-##### series of riots
+##### Series of riots
 #  240 people are arrested in a series of riots in France on the eve of the Bastille Day celebrations. 
 
 

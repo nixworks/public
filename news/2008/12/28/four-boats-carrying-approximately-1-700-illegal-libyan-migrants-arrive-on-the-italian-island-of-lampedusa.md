@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/28/four-boats-carrying-approximately-1-700-illegal
 
 ### [2008-12-28](/news/2008/12/28/index.md)
 
-##### illegal migrants
+##### Illegal migrants
 #  Four boats carrying approximately 1,700 illegal Libyan migrants arrive on the Italian island of Lampedusa. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/a-study-finds-that-carefully-timed-sounds-playe
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### sleep
+##### Sleep
 # A study finds that carefully timed sounds played during sleep can enhance memory. 
 
 

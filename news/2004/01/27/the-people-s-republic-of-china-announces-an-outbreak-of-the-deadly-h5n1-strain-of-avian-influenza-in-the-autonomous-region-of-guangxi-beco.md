@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/27/the-people-s-republic-of-china-announces-an-out
 
 ### [2004-01-27](/news/2004/01/27/index.md)
 
-##### avian influenza
+##### Avian influenza
 #  The People's Republic of China announces an outbreak of the deadly H5N1 strain of avian influenza in the autonomous region of Guangxi, becoming the 10th country in Asia to do so. There are suspected cases in Hunan and Hubei provinces.
 
 

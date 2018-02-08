@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/21/the-house-of-commons-votes-in-favour-of-the-uni
 
 ### [2011-03-21](/news/2011/03/21/index.md)
 
-##### the House of Commons
+##### The House of Commons
 # The House of Commons votes in favour of the United Kingdom's involvement in military action in Libya. 
 
 The Commons votes overwhelmingly to support UN-backed action in Libya, after David Cameron says it has helped avert a &quot;bloody massacre&quot;.

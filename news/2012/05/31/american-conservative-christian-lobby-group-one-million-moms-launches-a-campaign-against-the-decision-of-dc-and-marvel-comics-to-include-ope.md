@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/31/american-conservative-christian-lobby-group-one
 
 ### [2012-05-31](/news/2012/05/31/index.md)
 
-##### conservative Christian
+##### Conservative Christian
 # American conservative Christian lobby group One Million Moms launches a campaign against the decision of DC and Marvel Comics to include openly gay characters in their comics. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/an-american-man-is-sentenced-to-between-five-an
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### murder
+##### Murder
 # An American man is sentenced to between five and ten years in prison for the murder of Irish tourist Nicola Furlong in Japan. 
 
 Japanese court sentences US musician to minimum of five years in prison for killing Co Wexford woman in Tokyo hotel room

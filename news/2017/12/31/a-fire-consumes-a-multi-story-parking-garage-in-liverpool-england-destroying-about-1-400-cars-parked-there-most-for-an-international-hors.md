@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
-##### fire
+##### Fire
 # A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. 
 
 Witnesses said cars seemed to explode every couple of seconds when the fire was at its peak

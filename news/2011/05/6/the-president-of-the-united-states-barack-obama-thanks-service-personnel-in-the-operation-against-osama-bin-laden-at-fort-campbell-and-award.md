@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/6/the-president-of-the-united-states-barack-obama-
 
 ### [2011-05-6](/news/2011/05/6/index.md)
 
-##### father's killing
+##### Father's killing
 # The President of the United States Barack Obama thanks service personnel in the operation against Osama bin Laden at Fort Campbell and awards them a Presidential Unit Citation. 
 
 Following is an abridged version of the text of the statement issued by Al Qaeda on the death of Osama bin Laden. The translation from Arabic is by Reuters.

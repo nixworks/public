@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/5/a-small-plane-carrying-21-people-crashes-near-ka
 
 ### [2010-11-5](/news/2010/11/5/index.md)
 
-##### crash
+##### Crash
 # A small plane carrying 21 people crashes near Karachi Airport in Pakistan. 
 
 At least 21 people, including some foreign nationals, were feared killed when a small aircraft belonging to a private charter service crashed soon after take-off from the airport in the southern Pakistani port city of Karachi.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/29/american-hip-hop-music-mogul-suge-knight-drives
 
 ### [2015-01-29](/news/2015/01/29/index.md)
 
-##### hip hop
+##### Hip hop
 # American hip hop music mogul Suge Knight drives a vehicle into a crowd in Compton, California near Los Angeles resulting in the death of a pedestrian in what authorities are calling a hit and run. 
 
 Knight&#x27;s attorney said the rap impresario was behind the wheel of the truck, but called the deadly crash in Compton a &quot;tragic accident.&quot;

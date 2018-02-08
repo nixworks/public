@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/20/at-least-eight-people-are-killed-by-a-bomb-atta
 
 ### [2012-08-20](/news/2012/08/20/index.md)
 
-##### bomb attack
+##### Bomb attack
 # At least eight people are killed by a bomb attack in the city of Gaziantep, Turkey. 
 
 A suspected car bomb in the south-eastern Turkish city of Gaziantep leaves at least eight people dead, security sources and media say.

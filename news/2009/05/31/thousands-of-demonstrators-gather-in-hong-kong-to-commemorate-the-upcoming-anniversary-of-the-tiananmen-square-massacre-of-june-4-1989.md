@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/31/thousands-of-demonstrators-gather-in-hong-kong-
 
 ### [2009-05-31](/news/2009/05/31/index.md)
 
-##### demonstration
+##### Demonstration
 #  Thousands of demonstrators gather in Hong Kong to commemorate the upcoming anniversary of the Tiananmen Square massacre of June 4, 1989. 
 
 

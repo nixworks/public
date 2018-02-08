@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/14/india-and-bangladesh-commence-a-joint-census-to
 
 ### [2011-07-14](/news/2011/07/14/index.md)
 
-##### border
+##### Border
 # India and Bangladesh commence a joint census to resolve claims over disputed border areas. 
 
 Bangladesh and India begin their first-ever joint census of areas along their border to resolve some territorial anomalies.

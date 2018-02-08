@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/12/cloning-scientist-hwang-woo-suk-is-indicted-for
 
 ### [2006-05-12](/news/2006/05/12/index.md)
 
-##### cloned
+##### Cloned
 #  Cloning scientist Hwang Woo-Suk is indicted for fraud, embezzlement and violation of bioethics law in a scandal in South Korea over his faked stem cell research. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

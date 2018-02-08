@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/23/one-australian-army-soldier-is-killed-and-five-
 
 ### [2011-05-23](/news/2011/05/23/index.md)
 
-##### soldiers
+##### Soldiers
 # One Australian Army soldier is killed and five others wounded following two bomb explosions in Afghanistan; the total number of Australian soldiers killed in the Afghan conflict now stands at 24. 
 
 

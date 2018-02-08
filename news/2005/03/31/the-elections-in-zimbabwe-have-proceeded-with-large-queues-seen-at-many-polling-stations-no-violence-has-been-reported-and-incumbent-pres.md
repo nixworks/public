@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/31/the-elections-in-zimbabwe-have-proceeded-with-l
 
 ### [2005-03-31](/news/2005/03/31/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 #  The elections in Zimbabwe have proceeded with large queues seen at many polling stations. No violence has been reported, and Incumbent president Robert Mugabe of the ZANU-PF party has declared the elections to be free and fair. Opposition leader, Morgan Tsvangirai of the party MDC, disputes this, but still believes his party will win. The election has already been branded unfair by both the U.S. and the EU and their observers have been barred from monitoring the poll. Results are expected in two days.
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

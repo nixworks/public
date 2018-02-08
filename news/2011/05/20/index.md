@@ -9,7 +9,7 @@ Thousands of Syrians took to the streets in what appeared to be a dangerous turn
 
 ##### Anton Hammerl
 ### [The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.md)
-_Context: Libya, South Africa, Anton Hammerl, Muammar Gaddafi_
+_Context: South Africa, Libya, Muammar Gaddafi, Anton Hammerl_
 
 ##### Pakistan
 ### [At least one person is killed and ten people injured following an explosion in the Pakistani city of Peshawar, with a United States consular convoy targeted by the Pakistani Taliban. ](/news/2011/05/20/at-least-one-person-is-killed-and-ten-people-injured-following-an-explosion-in-the-pakistani-city-of-peshawar-with-a-united-states-consular.md)
@@ -37,27 +37,27 @@ TMX Group, operator of the Toronto Stock Exchange, said on Friday its board has 
 
 ##### Soweto
 ### [More than 850 people are injured after a train collision in Soweto, South Africa. ](/news/2011/05/20/more-than-850-people-are-injured-after-a-train-collision-in-soweto-south-africa.md)
-_Context: Soweto, South Africa_
+_Context: South Africa, Soweto_
 
-##### tornado
+##### Tornado
 ### [A mini-tornado hits the suburb of Canning Vale in Perth, Western Australia. ](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-in-perth-western-australia.md)
 A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy delays on the roads during peak-hours after a cold front swept through the city.
 
 ##### Fiji
 ### [A disaster alert is issued for Fiji, after giant waves triggered by a deep pressure system in the Southern Ocean hit the Coral Coast. ](/news/2011/05/20/a-disaster-alert-is-issued-for-fiji-after-giant-waves-triggered-by-a-deep-pressure-system-in-the-southern-ocean-hit-the-coral-coast.md)
-_Context: Fiji, Southern Ocean, Coral Coast_
+_Context: Fiji, Coral Coast, Southern Ocean_
 
 ##### Mississippi River
 ### [Travel on the Mississippi River is closed for five miles near the US city of Baton Rouge, Louisiana due to flooding. ](/news/2011/05/20/travel-on-the-mississippi-river-is-closed-for-five-miles-near-the-us-city-of-baton-rouge-louisiana-due-to-flooding.md)
-_Context: Mississippi River, flooding, Baton Rouge, Louisiana, Louisiana_
+_Context: Louisiana, flooding, Baton Rouge, Louisiana, Mississippi River_
 
 #####  Georgian
 ### [Georgia becomes the first country to recognize the 19th-century Russian military campaign against the Circassians in the northwest Caucasus as a "genocide". ](/news/2011/05/20/georgia-becomes-the-first-country-to-recognize-the-19th-century-russian-military-campaign-against-the-circassians-in-the-northwest-caucasus.md)
-_Context: Russian,  Georgian, Caucasus, Circassians, genocide_
+_Context: Caucasus, genocide, Circassians,  Georgian, Russian_
 
 ##### Japan
 ### [Japan agrees to join an international child custody agreement under the 1980 Hague Convention on the Civil Aspects of International Child Abduction. ](/news/2011/05/20/japan-agrees-to-join-an-international-child-custody-agreement-under-the-1980-hague-convention-on-the-civil-aspects-of-international-child-ab.md)
-_Context: Japan, Hague Convention on the Civil Aspects of International Child Abduction_
+_Context: Hague Convention on the Civil Aspects of International Child Abduction, Japan_
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il reportedly visits China, the third such visit in a year. ](/news/2011/05/20/north-korean-leader-kim-jong-il-reportedly-visits-china-the-third-such-visit-in-a-year.md)
@@ -65,7 +65,7 @@ North Korean leader Kim Jong Il was visiting China on Friday, a South Korean off
 
 ##### U.S. President
 ### [President Barack Obama meets with the Prime Minister of Israel Benjamin Netanyahu at the White House, during which Netanyahu emphasizes that Israel would not make a full withdraw to the pre-1967 borders as Obama requested yesterday, because these borders are "not defensible".](/news/2011/05/20/president-barack-obama-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-at-the-white-house-during-which-netanyahu-emphasizes-that.md)
-_Context: Six Day War, Barack Obama, U.S. President, White House, Benjamin Netanyahu, Israeli Prime Minister_
+_Context: White House, Benjamin Netanyahu, U.S. President, Israeli Prime Minister, Barack Obama, Six Day War_
 
 ##### Taiwan
 ### [Military prosecutors in Taiwan indict a senior general on charges of spying for China. ](/news/2011/05/20/military-prosecutors-in-taiwan-indict-a-senior-general-on-charges-of-spying-for-china.md)
@@ -75,17 +75,17 @@ Taiwan military prosecutors charge a senior general with spying for China - the 
 ### [Former United Kingdom Labour Party MP Elliot Morley is jailed for 16 months for dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/05/20/former-united-kingdom-labour-party-mp-elliot-morley-is-jailed-for-16-months-for-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-e.md)
 Ex-Labour minister Elliot Morley, who has admitted dishonestly claiming more than £30,000 in his parliamentary expenses, is sentenced to 16 months in jail.
 
-##### superinjunctions
+##### Superinjunctions
 ### [A report by senior judges in England and Wales has concluded that the media should have the chance to contest applications for injunctions and "superinjunctions" before they are granted, and that these should only be issued in exceptional circumstances. ](/news/2011/05/20/a-report-by-senior-judges-in-england-and-wales-has-concluded-that-the-media-should-have-the-chance-to-contest-applications-for-injunctions-a.md)
 The media should have the chance to contest applications for injunctions and &quot;super-injunctions&quot; before they are granted, a report by top judges says.
 
-##### footballer
+##### Footballer
 ### [A footballer who took out a superinjunction to stop the publication of details of an extra-marital affair, obtains a disclosure order against Twitter to learn the identities of people who have published confidential information on the website. ](/news/2011/05/20/a-footballer-who-took-out-a-superinjunction-to-stop-the-publication-of-details-of-an-extra-marital-affair-obtains-a-disclosure-order-agains.md)
 A footballer obtains a disclosure order against Twitter to learn the identities of people who have published confidential information on the website.
 
-##### parole
+##### Parole
 ### [A parole decision on the former Mayor of the US city of Detroit, Kwame Kilpatrick, is delayed because of the prospect that he could face federal government corruption charges. ](/news/2011/05/20/a-parole-decision-on-the-former-mayor-of-the-us-city-of-detroit-kwame-kilpatrick-is-delayed-because-of-the-prospect-that-he-could-face-fed.md)
-_Context: Mayor of Detroit, Detroit, parole, Kwame Kilpatrick_
+_Context: parole, Kwame Kilpatrick, Mayor of Detroit, Detroit_
 
 ##### California State Prison, Sacramento
 ### [Two prisoners are injured in a riot at California State Prison, Sacramento. ](/news/2011/05/20/two-prisoners-are-injured-in-a-riot-at-california-state-prison-sacramento.md)
@@ -101,11 +101,11 @@ Young Spaniards plan to defy a ban on their protest camp in Madrid as their chal
 
 ##### Santiago
 ### [Tens of thousands of people protest in Santiago, Chile about plans to build two dams on wild rivers in southern Patagonia with an minority of people turning violent. ](/news/2011/05/20/tens-of-thousands-of-people-protest-in-santiago-chile-about-plans-to-build-two-dams-on-wild-rivers-in-southern-patagonia-with-an-minority-o.md)
-_Context: Santiago, Chile, Patagonia_
+_Context: Santiago, Patagonia, Chile_
 
-##### government
+##### Government
 ### [The Government of the People's Republic of China acknowledges that there are "urgent problems" associated with the country's Three Gorges Dam project, as it is linked to soil erosion, earthquakes, drought and social upheaval. ](/news/2011/05/20/the-government-of-the-people-s-republic-of-china-acknowledges-that-there-are-urgent-problems-associated-with-the-country-s-three-gorges-da.md)
-_Context: Three Gorges Dam, drought, government, soil erosion_
+_Context: government, drought, Three Gorges Dam, soil erosion_
 
 ## [Previous Day...](/news/2011/05/19/index.md)
 

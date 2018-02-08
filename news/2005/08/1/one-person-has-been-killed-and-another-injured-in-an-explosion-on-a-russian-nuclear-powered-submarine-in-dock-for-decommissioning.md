@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/1/one-person-has-been-killed-and-another-injured-i
 
 ### [2005-08-1](/news/2005/08/1/index.md)
 
-##### nuclear-powered
+##### Nuclear-powered
 #  One person has been killed and another injured in an explosion on a Russian nuclear-powered submarine in dock for decommissioning. 
 
 

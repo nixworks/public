@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/21/online-auctioneer-ebay-asks-its-customers-to-fi
 
 ### [2013-04-21](/news/2013/04/21/index.md)
 
-##### eBay
+##### EBay
 # Online auctioneer eBay asks its customers to fight against a proposed U.S. online sales tax. 
 
 

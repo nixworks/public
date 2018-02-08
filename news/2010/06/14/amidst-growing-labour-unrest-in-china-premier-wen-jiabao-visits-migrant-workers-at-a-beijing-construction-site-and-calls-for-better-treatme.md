@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/14/amidst-growing-labour-unrest-in-china-premier-w
 
 ### [2010-06-14](/news/2010/06/14/index.md)
 
-##### labour unrest in China
+##### Labour unrest in China
 # Amidst growing labour unrest in China, Premier Wen Jiabao visits migrant workers at a Beijing construction site and calls for better treatment for the country's migrant workers. 
 
 

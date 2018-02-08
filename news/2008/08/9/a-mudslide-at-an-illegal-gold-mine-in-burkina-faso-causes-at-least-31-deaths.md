@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/9/a-mudslide-at-an-illegal-gold-mine-in-burkina-fa
 
 ### [2008-08-9](/news/2008/08/9/index.md)
 
-##### gold mine
+##### Gold mine
 #  A mudslide at an illegal gold mine in Burkina Faso causes at least 31 deaths. 
 
 

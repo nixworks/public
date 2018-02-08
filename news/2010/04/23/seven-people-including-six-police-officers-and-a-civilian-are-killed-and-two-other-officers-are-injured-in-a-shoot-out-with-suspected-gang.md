@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/23/seven-people-including-six-police-officers-and-
 
 ### [2010-04-23](/news/2010/04/23/index.md)
 
-##### gang
+##### Gang
 # Seven people, including six police officers and a civilian, are killed and two other officers are injured in a shoot-out with suspected gang hitmen in Ciudad Juarez. 
 
 Initial reports say they were ambushed in an attack that investigators said might have been a response to an operation the previous day.

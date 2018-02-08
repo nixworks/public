@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/14/at-least-seven-people-are-killed-and-50-injured
 
 ### [2009-06-14](/news/2009/06/14/index.md)
 
-##### bomb blast
+##### Bomb blast
 #  At least seven people are killed and 50 injured by a bomb blast in Dera Ismail Khan, Pakistan. 
 
 

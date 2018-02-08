@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/2/one-person-dies-of-pneumonic-plague-and-eleven-o
 
 ### [2009-08-2](/news/2009/08/2/index.md)
 
-##### pneumonic
+##### Pneumonic
 #  One person dies of pneumonic plague and eleven of his relatives are quarantined in Hainan Tibetan Autonomous Prefecture. 
 
 

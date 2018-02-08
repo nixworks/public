@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/15/around-1-200-members-of-the-philippine-national
 
 ### [2017-09-15](/news/2017/09/15/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. 
 
 

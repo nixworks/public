@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/15/seven-mountain-climbers-die-in-an-avalanche-in-
 
 ### [2015-09-15](/news/2015/09/15/index.md)
 
-##### mountain climbers
+##### Mountain climbers
 # Seven mountain climbers die in an avalanche in the French Alps near the town of Pelvoux. 
 
 The avalanche occurred near the town of Pelvoux in southeast France.

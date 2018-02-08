@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/28/a-suicide-bombing-in-pakistan-kills-at-least-22
 
 ### [2007-04-28](/news/2007/04/28/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bombing in Pakistan kills at least 22 and injures Interior Minister Aftab Ahmad Khan Sherpao. 
 
 

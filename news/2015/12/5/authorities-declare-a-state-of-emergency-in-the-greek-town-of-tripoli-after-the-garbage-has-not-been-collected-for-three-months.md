@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/5/authorities-declare-a-state-of-emergency-in-the-
 
 ### [2015-12-5](/news/2015/12/5/index.md)
 
-##### state of emergency
+##### State of emergency
 # Authorities declare a state of emergency in the Greek town of Tripoli after the garbage has not been collected for three months. 
 
 A state of emergency was declared in the Peloponnesian town of Tripoli on Saturday as trash has not been collected from the streets for almost three months.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/11/29-people-die-and-12-people-are-injured-after-a
 
 ### [2013-01-11](/news/2013/01/11/index.md)
 
-##### bus
+##### Bus
 # 29 people die and 12 people are injured after a bus veers off a mountain road in Doti, Nepal. 
 
 

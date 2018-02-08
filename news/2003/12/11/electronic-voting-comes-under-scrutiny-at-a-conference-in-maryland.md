@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/11/electronic-voting-comes-under-scrutiny-at-a-con
 
 ### [2003-12-11](/news/2003/12/11/index.md)
 
-##### election system
+##### Election system
 #  Electronic voting comes under scrutiny at a conference in Maryland. 
 
 

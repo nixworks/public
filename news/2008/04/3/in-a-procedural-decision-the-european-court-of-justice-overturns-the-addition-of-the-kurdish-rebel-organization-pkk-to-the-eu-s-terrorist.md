@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/3/in-a-procedural-decision-the-european-court-of-j
 
 ### [2008-04-3](/news/2008/04/3/index.md)
 
-##### procedural
+##### Procedural
 #  In a procedural decision, the European Court of Justice overturns the addition of the Kurdish rebel organization PKK to the EU's terrorist blacklist. 
 
 

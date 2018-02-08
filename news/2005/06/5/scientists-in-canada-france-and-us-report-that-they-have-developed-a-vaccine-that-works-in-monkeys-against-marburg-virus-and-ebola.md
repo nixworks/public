@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/5/scientists-in-canada-france-and-us-report-that-t
 
 ### [2005-06-5](/news/2005/06/5/index.md)
 
-##### vaccine
+##### Vaccine
 #  Scientists in Canada, France and US report that they have developed a vaccine that works in monkeys against Marburg virus and Ebola 
 
 

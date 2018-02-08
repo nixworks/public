@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/16/2010-strikes-in-france-thousands-of-students-jo
 
 ### [2010-10-16](/news/2010/10/16/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # 2010 strikes in France: Thousands of students join millions more people on the streets of France for a fifth day of protests against government pension reform plans; Paris-Charles de Gaulle Airport is running out of fuel amid calls by the government for people "not to panic". 
 
 Fuel supply for the main airport is enough only for few more days as growing protests over pension paralyse the country.

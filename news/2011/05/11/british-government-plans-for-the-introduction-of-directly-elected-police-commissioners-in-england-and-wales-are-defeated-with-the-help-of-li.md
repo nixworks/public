@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/11/british-government-plans-for-the-introduction-o
 
 ### [2011-05-11](/news/2011/05/11/index.md)
 
-##### police commissioner
+##### Police commissioner
 # British government plans for the introduction of directly-elected police commissioners in England and Wales are defeated with the help of Liberal Democrat peers in the House of Lords. 
 
 The government suffers a surprise defeat in the House of Lords over plans for directly elected police commissioners in England and Wales.

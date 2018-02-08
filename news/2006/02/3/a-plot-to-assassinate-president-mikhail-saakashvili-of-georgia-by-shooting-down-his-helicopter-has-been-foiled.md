@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/3/a-plot-to-assassinate-president-mikhail-saakashv
 
 ### [2006-02-3](/news/2006/02/3/index.md)
 
-##### assassination
+##### Assassination
 #  A plot to assassinate President Mikhail Saakashvili of Georgia by shooting down his helicopter has been foiled. 
 
 

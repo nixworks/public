@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/18/palestinian-suicide-bomber-killed-one-and-wound
 
 ### [2005-01-18](/news/2005/01/18/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  Palestinian suicide bomber killed one and wounded six Israelis in Gush Katif junction in the Gaza Strip. Hamas claimed responsibility. 
 
 

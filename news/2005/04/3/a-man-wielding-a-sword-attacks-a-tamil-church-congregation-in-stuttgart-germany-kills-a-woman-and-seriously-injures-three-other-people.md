@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/3/a-man-wielding-a-sword-attacks-a-tamil-church-co
 
 ### [2005-04-3](/news/2005/04/3/index.md)
 
-##### sword
+##### Sword
 #  A man wielding a sword attacks a Tamil church congregation in Stuttgart, Germany, kills a woman and seriously injures three other people. 
 
 

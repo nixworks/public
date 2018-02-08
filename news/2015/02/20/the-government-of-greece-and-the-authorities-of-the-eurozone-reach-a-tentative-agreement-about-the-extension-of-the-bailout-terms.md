@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/20/the-government-of-greece-and-the-authorities-of
 
 ### [2015-02-20](/news/2015/02/20/index.md)
 
-##### government of Greece
+##### Government of Greece
 # The government of Greece and the authorities of the Eurozone reach a tentative agreement about the extension of the bailout terms. 
 
 Euro zone finance ministers agreed in principle on Friday to extend Greece&#x27;s financial rescue by four months, averting a potential cash crunch in March that could have forced the country out of the currency area. The deal, to be ratified once Greece&#x27;s creditors are satisfied with a list of reforms

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/12/former-philippine-army-general-jovito-palparan-
 
 ### [2014-08-12](/news/2014/08/12/index.md)
 
-##### army
+##### Army
 # Former Philippine Army general Jovito Palparan, known as "The Butcher" for his involvement in the disappearance of Sherlyn Cadapan and Karen Empeno, is arrested in Manila. 
 
 Former Maj. Gen. Jovito Palparan, who spent nearly three years as a fugitive, was wanted in connection with the disappearance of two students in 2006.

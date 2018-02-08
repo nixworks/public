@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/9/a-historic-heat-wave-continues-to-afflict-europe
 
 ### [2003-08-9](/news/2003/08/9/index.md)
 
-##### heat wave
+##### Heat wave
 #  A historic heat wave continues to afflict Europe and is expected to continue for another week. Spain and Portugal are particularly hard hit; forest fires in Portugal are declared a national disaster, with damages estimated at EUR1 billion. Other fires are reported on Majorca and in the Canary Islands. Temperatures of 49&nbsp;degC are recorded in Andalusia. Scotland records its highest temperature in history, 32.9&nbsp;degC (91.2&nbsp;degF) at Greycrook, near Newtown St. Boswells, Borders, the previous record had stood since 1908. The cause of the heat wave is believed to be a stagnant air mass over the Sahara sending hot air as far north as Sweden.
 
 

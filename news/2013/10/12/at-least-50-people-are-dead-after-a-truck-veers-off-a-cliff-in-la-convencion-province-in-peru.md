@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/12/at-least-50-people-are-dead-after-a-truck-veers
 
 ### [2013-10-12](/news/2013/10/12/index.md)
 
-##### veers off a cliff
+##### Veers off a cliff
 # At least 50 people are dead after a truck veers off a cliff in La Convencion Province in Peru. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-
 
 ### [2010-07-1](/news/2010/07/1/index.md)
 
-##### drug
+##### Drug
 # More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. 
 
 

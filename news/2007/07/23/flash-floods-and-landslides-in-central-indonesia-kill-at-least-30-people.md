@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/23/flash-floods-and-landslides-in-central-indonesi
 
 ### [2007-07-23](/news/2007/07/23/index.md)
 
-##### flood
+##### Flood
 #  Flash floods and landslides in central Indonesia kill at least 30 people. 
 
 

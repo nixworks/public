@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/22/armed-robbers-steal-the-edvard-munch-paintings-
 
 ### [2004-08-22](/news/2004/08/22/index.md)
 
-##### steal
+##### Steal
 #  Armed robbers steal the Edvard Munch paintings "The Scream" and "Madonna" from the Munch Museum in Oslo. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/3/a-state-of-emergency-is-declared-in-bolivia-afte
 
 ### [2007-02-3](/news/2007/02/3/index.md)
 
-##### emergency rule
+##### Emergency rule
 #  A State of Emergency is declared in Bolivia after 'El Nio'-like flooding. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News

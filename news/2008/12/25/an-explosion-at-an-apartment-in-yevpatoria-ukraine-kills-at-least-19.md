@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/25/an-explosion-at-an-apartment-in-yevpatoria-ukra
 
 ### [2008-12-25](/news/2008/12/25/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion at an apartment in Yevpatoria, Ukraine, kills at least 19. 
 
 An explosion ripped through an apartment building in southern Ukraine, killing 19 people, and officials said Thursday they expected the toll to rise.

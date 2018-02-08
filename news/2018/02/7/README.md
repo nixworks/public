@@ -4,19 +4,23 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 ## [2018-02-7](/news/2018/02/7/index.md)
 
 ##### Israeli involvement in the Syrian Civil War
-### [Syrian state media say that Israeli warplanes attacked a military position in the Damascus countryside from Lebanese airspace, with Syrian air defenses destroying most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-the-damascus-countryside-from-lebanese-airspace-with-syrian-a.md)
-_Context: Syria, Israeli involvement in the Syrian Civil War, Israel, Damascus, Lebanese_
+### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
+_Context: Syria, Lebanese, Jamraya, Israel, Syrian Air Defense Force, Israeli involvement in the Syrian Civil War, Rif Dimashq Governorate_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
 Macedonia is ready to add a geographical qualifier to its name to help resolve a dispute with Greece that has held up its prospects of joining the European Union and NATO, Prime Minister Zoran Zaev said on Tuesday.
 
 ##### European Parliament
-### [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parlementarian Roza Thun (Civic Platform) a "szmalcownik" (meaning nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parle.md)
+### [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parlementarian Roza Thun (Civic Platform) a "szmalcownik" (meaning Nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parle.md)
 The European Parliament has voted overwhelmingly to dismiss one of its vice presidents. Ryszard Czarnecki of Poland&#39;s ruling PiS party had compared a rival Polish MEP to a Nazi collaborator.
 
+##### Weinstein effect
+### [Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the Daily Mail. ](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretary-after-two-of-his-ex-wives-make-allegations-of-physical-and-emotional-abuse-porter-denies.md)
+Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
+
 ##### Prehistoric Britain
-### [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md)
+### [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md)
 New research adds to a growing body of evidence showing how the British Isles received waves of immigrants over tens of thousands of years.
 
 ## [Previous Day...](/news/2018/02/6/index.md)

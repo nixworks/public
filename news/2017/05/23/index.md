@@ -29,11 +29,11 @@ The White House says it is a &quot;taxpayer first&quot; budget, but even grizzle
 
 ##### Apple Inc.
 ### [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md)
-_Context: patent, Apple Inc., Nokia_
+_Context: Apple Inc., Nokia, patent_
 
 ##### Indian Air Force
 ### [An Indian Air Force Sukhoi Su-30 goes missing near the border with China and is presumed to have crashed along with its two pilots. ](/news/2017/05/23/an-indian-air-force-sukhoi-su-30-goes-missing-near-the-border-with-china-and-is-presumed-to-have-crashed-along-with-its-two-pilots.md)
-_Context: Indian Air Force, Sukhoi Su-30, China_
+_Context: Indian Air Force, China, Sukhoi Su-30_
 
 ##### Newark Liberty International Airport
 ### [Newark Liberty International Airport in northern New Jersey is closed for almost two hours after flames are spotted coming from a United Airlines Boeing 757 jet engine. All 124 passengers and seven crew members safely evacuate the plane. ](/news/2017/05/23/newark-liberty-international-airport-in-northern-new-jersey-is-closed-for-almost-two-hours-after-flames-are-spotted-coming-from-a-united-air.md)
@@ -55,7 +55,7 @@ Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.
 ### [Former CIA Director John Brennan tells the House Intelligence Committee he knew of contacts between Trump associates and Russian officials, but is not sure collusion existed. Brennan said he warned the Russian intelligence service last August against meddling in the U.S. election. ](/news/2017/05/23/former-cia-director-john-brennan-tells-the-house-intelligence-committee-he-knew-of-contacts-between-trump-associates-and-russian-officials.md)
 Director of National Intelligence Dan Coats on Tuesday refused to address — but he did not deny — reports that President Donald Trump asked him to push back against allegations the Trump campaign colluded with Russia, while a former CIA chief testified he was aware of &quot;interactions&quot; be...
 
-##### pre-human
+##### Pre-human
 ### [Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. ](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-human-remains-in-the-balkans-area-near-bulgaria-and-greece.md)
 The common lineage of great apes and humans split several hundred thousand earlier than hitherto assumed, according to an international research team headed by Professor Madelaine Böhme from the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen and Professo...
 

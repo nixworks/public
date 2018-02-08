@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/9/2006-fijian-coup-d-etat-media-reports-that-gunfi
 
 ### [2006-12-9](/news/2006/12/9/index.md)
 
-##### coup in 2006
+##### Coup in 2006
 #  2006 Fijian coup d'tat: Media reports that gunfire had been heard near military barracks in Suva have been dismissed as being mistaken identification of a game of cricket. 
 
 

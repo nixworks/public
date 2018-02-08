@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/8/the-sodomy-trial-of-malaysian-opposition-leader-
 
 ### [2010-02-8](/news/2010/02/8/index.md)
 
-##### sodomy
+##### Sodomy
 # The sodomy trial of Malaysian opposition leader Anwar Ibrahim is halted after his lawyers attempt to have the judge removed. 
 
 Proceedings halted as lawyers for opposition leader seeks to remove presiding judge.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-exp
 
 ### [2010-09-11](/news/2010/09/11/index.md)
 
-##### pipeline explosion
+##### Pipeline explosion
 # The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. 
 
 

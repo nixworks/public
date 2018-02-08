@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/17/accounting-scandals-merrill-lynch-its-four-form
 
 ### [2003-03-17](/news/2003/03/17/index.md)
 
-##### accounting fraud
+##### Accounting fraud
 #  Accounting scandals: Merrill Lynch, its four former executives and the U.S. Securities and Exchange Commission agree to settle the Enron security fraud case for $80 million. It is one of the five largest penalties imposed on security-related civil cases.
 
 

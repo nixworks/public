@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-
 
 ### [2017-01-7](/news/2017/01/7/index.md)
 
-##### embassy
+##### Embassy
 # Mexican police search for a gunman who shot and wounded a U.S. Consular official in Guadalajara, Jalisco. The victim is in stable condition. 
 
 U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for information on attacker

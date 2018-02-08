@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-make
 
 ### [2011-10-26](/news/2011/10/26/index.md)
 
-##### composite
+##### Composite
 # The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. 
 
 

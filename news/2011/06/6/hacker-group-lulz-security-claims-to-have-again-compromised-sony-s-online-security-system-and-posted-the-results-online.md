@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/6/hacker-group-lulz-security-claims-to-have-again-
 
 ### [2011-06-6](/news/2011/06/6/index.md)
 
-##### hackers
+##### Hackers
 # Hacker group Lulz Security claims to have again compromised Sony's online security system and posted the results online. 
 
 Hackers calling themselves Lulz Security said on Monday that they had broken into Sony Corp computer systems again, and posted the results on the Internet.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-me
 
 ### [2017-02-5](/news/2017/02/5/index.md)
 
-##### police
+##### Police
 # Turkish police arrest over 400 suspected ISIL members in raids across the country. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/8/venezuelan-opposition-leader-leopoldo-la3pez-lea
 
 ### [2017-07-8](/news/2017/07/8/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # Venezuelan opposition leader Leopoldo Lopez, leader of the Popular Will party, is granted house arrest after over three years of imprisonment. 
 
 

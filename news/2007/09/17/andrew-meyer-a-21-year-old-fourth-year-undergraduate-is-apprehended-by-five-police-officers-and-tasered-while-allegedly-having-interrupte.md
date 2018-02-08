@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/17/andrew-meyer-a-21-year-old-fourth-year-undergra
 
 ### [2007-09-17](/news/2007/09/17/index.md)
 
-##### apprehended by five police officers
+##### Apprehended by five police officers
 #  Andrew Meyer, a 21-year-old fourth-year undergraduate, is apprehended by five police officers and tasered while allegedly having interrupted a speech by U.S. Senator John Kerry.
 
 

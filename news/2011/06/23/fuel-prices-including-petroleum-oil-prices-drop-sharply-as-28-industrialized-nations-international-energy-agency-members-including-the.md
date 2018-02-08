@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/fuel-prices-including-petroleum-oil-prices-drop
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### petroleum
+##### Petroleum
 # Fuel prices including petroleum (oil) prices drop sharply as 28 industrialized nations (International Energy Agency members), including the United States, agree to release 60 million barrels of crude oil from their strategic oil reserves. 
 
 A surprise move to tap government oil reserves could slash painfully high gasoline prices this summer and give the U.S. economy a much-needed boost, but the rare action underscores the challenge...

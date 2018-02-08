@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/8/germany-s-upper-house-rejects-controversial-econ
 
 ### [2003-11-8](/news/2003/11/8/index.md)
 
-##### upper house
+##### Upper house
 #  Germany's upper house rejects controversial economic policy changes (tax cuts and changes to labour law) aimed at kick-starting Europe's largest economy. Social Democrat Chancellor Gerhard Schrder has invested much political capital in the reforms, but they are opposed by many labour unions and left-wing politicians.
 
 

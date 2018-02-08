@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/26/the-cruise-ship-msc-melody-thwarts-an-attack-by
 
 ### [2009-04-26](/news/2009/04/26/index.md)
 
-##### cruise ship
+##### Cruise ship
 #  The cruise ship MSC "Melody" thwarts an attack by Somali pirates in the Gulf of Aden. 
 
 

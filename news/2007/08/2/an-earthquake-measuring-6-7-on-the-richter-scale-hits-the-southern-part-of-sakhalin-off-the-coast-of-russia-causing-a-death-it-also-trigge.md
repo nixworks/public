@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale
 
 ### [2007-08-2](/news/2007/08/2/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake measuring 6.7 on the Richter Scale hits the southern part of Sakhalin off the coast of Russia causing a death. It also triggered a small tsunami that struck the coast of Hokkaido in Japan. 
 
 

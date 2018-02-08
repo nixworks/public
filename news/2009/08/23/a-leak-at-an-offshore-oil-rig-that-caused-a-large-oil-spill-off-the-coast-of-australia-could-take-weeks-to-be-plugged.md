@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/23/a-leak-at-an-offshore-oil-rig-that-caused-a-lar
 
 ### [2009-08-23](/news/2009/08/23/index.md)
 
-##### offshore oil platform
+##### Offshore oil platform
 #  A leak at an offshore oil rig that caused a large oil spill off the coast of Australia "could take weeks" to be plugged. 
 
 

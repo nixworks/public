@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/14/there-is-a-run-on-the-northern-rock-bank-in-the
 
 ### [2007-09-14](/news/2007/09/14/index.md)
 
-##### run
+##### Run
 #  There is a run on the Northern Rock bank in the United Kingdom following revelations that it sought a rescue injection of funds from the Bank of England. 
 
 

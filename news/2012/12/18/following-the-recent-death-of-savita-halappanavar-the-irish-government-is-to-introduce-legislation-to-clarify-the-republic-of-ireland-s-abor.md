@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/18/following-the-recent-death-of-savita-halappanav
 
 ### [2012-12-18](/news/2012/12/18/index.md)
 
-##### death of Savita Halappanavar
+##### Death of Savita Halappanavar
 # Following the recent death of Savita Halappanavar the Irish government is to introduce legislation to clarify the Republic of Ireland's abortion laws, giving doctors clear guidelines on procedures where the mother's life is at risk. 
 
 

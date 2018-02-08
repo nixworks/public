@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/3/at-least-21-street-cleaners-are-killed-by-a-road
 
 ### [2008-08-3](/news/2008/08/3/index.md)
 
-##### roadside bombing
+##### Roadside bombing
 #  At least 21 street cleaners are killed by a roadside bombing in Mogadishu, Somalia. 
 
 

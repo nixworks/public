@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/3/a-solar-eclipse-sweeps-across-africa-europe-and-
 
 ### [2013-11-3](/news/2013/11/3/index.md)
 
-##### solar eclipse
+##### Solar eclipse
 # A solar eclipse sweeps across Africa, Europe and the Eastern United States. 
 
 A rare solar eclipse will sweep across parts of Africa, Europe and the United States on Sunday as the moon blocks the sun either fully or partially, depending on the location.

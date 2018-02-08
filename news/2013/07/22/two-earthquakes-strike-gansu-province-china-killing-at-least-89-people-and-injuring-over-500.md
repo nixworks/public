@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/22/two-earthquakes-strike-gansu-province-china-kil
 
 ### [2013-07-22](/news/2013/07/22/index.md)
 
-##### earthquakes
+##### Earthquakes
 # Two earthquakes strike Gansu province, China, killing at least 89 people and injuring over 500. 
 
 

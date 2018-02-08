@@ -3,19 +3,19 @@ Formats: [HTML](2013/05/8/index.html)  [JSON](2013/05/8/index.json)  [XML](2013/
 
 ## [2013-05-8](/news/2013/05/8/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-people-and-injuring-twenty.md)
-_Context: Bannu District, suicide bombing, Pakistan_
+_Context: Bannu District, Pakistan, suicide bombing_
 
 ##### Somalia
 ### [Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al-shabaab-militants-and-government.md)
-_Context: Somalia, Mogadishu, Al-Shabaab, Somali military_
+_Context: Al-Shabaab, Somali military, Somalia, Mogadishu_
 
 ##### Chile
 ### [Amid protests for free education by tens of thousands of people in major cities across Chile, police clash with protesters. ](/news/2013/05/8/amid-protests-for-free-education-by-tens-of-thousands-of-people-in-major-cities-across-chile-police-clash-with-protesters.md)
 Tens of thousands of students in Chile resume their protests for free education as riot police say they have been attacked with petrol bombs.
 
-##### consultations with fellow academics
+##### Consultations with fellow academics
 ### [Following consultations with fellow academics, Stephen Hawking boycotts the Israeli Presidential Conference Facing Tomorrow 2013 in Jerusalem. ](/news/2013/05/8/following-consultations-with-fellow-academics-stephen-hawking-boycotts-the-israeli-presidential-conference-facing-tomorrow-2013-in-jerusale.md)
 Prof Stephen Hawking has pulled out of a high-profile Israeli conference, in support of an academic boycott of the country.
 
@@ -33,15 +33,15 @@ The UN names three panel members of its first-ever human rights investigation in
 
 ##### World Trade Organization
 ### [The World Trade Organization advised that Roberto Azevedo of Brazil will be the next Director-General effective September 1, 2013. The formal announcement will be made following a special meeting of the General Council on Tuesday, May 14, 2013. ](/news/2013/05/8/the-world-trade-organization-advised-that-roberto-azevaado-of-brazil-will-be-the-next-director-general-effective-september-1-2013-the-form.md)
-_Context: World Trade Organization, General Council, Director-General, Roberto Azevedo, Brazil_
+_Context: Brazil, General Council, World Trade Organization, Director-General, Roberto Azevedo_
 
 ##### France
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
-_Context: Brussels Airport diamond heist, France, Switzerland, Belgium_
+_Context: Belgium, France, Switzerland, Brussels Airport diamond heist_
 
 ##### Italy
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)
-_Context: Italian Prime Minister, top court, Italy, Silvio Berlusconi_
+_Context: Italy, Italian Prime Minister, top court, Silvio Berlusconi_
 
 ##### Murder of Travis Alexander
 ### [Jodi Arias is convicted of the first-degree murder of her boyfriend by a court in Arizona. ](/news/2013/05/8/jodi-arias-is-convicted-of-the-first-degree-murder-of-her-boyfriend-by-a-court-in-arizona.md)
@@ -53,7 +53,7 @@ Cleveland resident Ariel Castro was charged on Wednesday with kidnapping and rap
 
 ##### 83-year-old nun
 ### [An 83-year-old nun and two others are found guilty of breaking into the Y-12 National Security Complex nuclear facility in Tennessee. ](/news/2013/05/8/an-83-year-old-nun-and-two-others-are-found-guilty-of-breaking-into-the-y-12-national-security-complex-nuclear-facility-in-tennessee.md)
-_Context: Tennessee, 83-year-old nun, Y-12 National Security Complex_
+_Context: Tennessee, Y-12 National Security Complex, 83-year-old nun_
 
 ##### Congress Party
 ### [Indian National Congress won legislative assembly election of Indian state Karnataka with clear majority. ](/news/2013/05/8/indian-national-congress-won-legislative-assembly-election-of-indian-state-karnataka-with-clear-majority.md)

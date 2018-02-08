@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/26/the-sentence-for-a-drug-possession-conviction-o
 
 ### [2011-06-26](/news/2011/06/26/index.md)
 
-##### drug possession
+##### Drug possession
 # The sentence for a drug possession conviction of the nephew of deposed Tunisian President, Zine el Abidine Ben Ali, is increased after he appeals it. 
 
 The nephew of deposed Tunisian President Zine el Abidine Ben Ali found his sentence for a drug possession conviction doubled when he appealed it, state media said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/26/two-tornadoes-injure-24-people-and-damage-108-h
 
 ### [2009-03-26](/news/2009/03/26/index.md)
 
-##### tornado
+##### Tornado
 #  Two tornadoes injure 24 people and damage 108 homes in Mississippi, United States. 
 
 

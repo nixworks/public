@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protest
 
 ### [2011-01-28](/news/2011/01/28/index.md)
 
-##### tear gas
+##### Tear gas
 # Police fire tear gas at anti-government protesters in Gabon two days after opposition leader Andre Mba Obame declares himself president. 
 
 

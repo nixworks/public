@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/25/an-academic-report-from-the-united-states-finds
 
 ### [2012-09-25](/news/2012/09/25/index.md)
 
-##### combat drone
+##### Combat drone
 # An academic report from the United States finds that American drone attacks "terrorize" the civilian population of northern Pakistan, further stating that the benefits of drone attacks for the U.S. are "ambiguous at best". 
 
 Rescuers are being killed and civilians &quot;terrorised&quot; by CIA drone attacks targeting militants in north-western Pakistan, a US report says.

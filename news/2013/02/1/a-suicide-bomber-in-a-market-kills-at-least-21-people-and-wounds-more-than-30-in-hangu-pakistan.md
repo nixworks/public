@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/1/a-suicide-bomber-in-a-market-kills-at-least-21-p
 
 ### [2013-02-1](/news/2013/02/1/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber in a market kills at least 21 people and wounds more than 30 in Hangu, Pakistan. 
 
 The explosion came as Sunni and Shiite villagers in northwestern Pakistan were leaving nearby mosques. The police said it killed at least 21 people and wounded 33.

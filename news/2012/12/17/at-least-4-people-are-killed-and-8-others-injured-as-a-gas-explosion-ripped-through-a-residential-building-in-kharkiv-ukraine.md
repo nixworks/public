@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/17/at-least-4-people-are-killed-and-8-others-injur
 
 ### [2012-12-17](/news/2012/12/17/index.md)
 
-##### gas explosion
+##### Gas explosion
 # At least 4 people are killed and 8 others injured as a gas explosion ripped through a residential building in Kharkiv, Ukraine. 
 
 

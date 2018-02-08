@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/15/a-comparison-of-42-articles-by-the-journal-natu
 
 ### [2005-12-15](/news/2005/12/15/index.md)
 
-##### comparison of 42 articles
+##### Comparison of 42 articles
 #  A comparison of 42 articles by the journal "Nature" concludes that Wikipedia is almost as accurate on science topics as the "Encyclopdia Britannica". The study also notes that Wikipedia's writing is more disorganized than Britannica's. 
 
 In the wake of questions of accuracy, a survey by the science journal Nature finds that science entries in the volunteer-driven, online encyclopedia Wikipedia are &quot;not markedly less accurate&quot; than those found in Encyclopaedia Britannica.

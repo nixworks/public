@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/20/a-quadriplegic-man-leaves-hospital-in-hong-kong
 
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-##### quadriplegic
+##### Quadriplegic
 # A quadriplegic man leaves hospital in Hong Kong for his own home after 19 years, having written to the country's leader 6 years ago to ask that he be allowed to die. 
 
 

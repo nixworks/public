@@ -3,7 +3,7 @@ Formats: [HTML](2001/09/17/index.html)  [JSON](2001/09/17/index.json)  [XML](200
 
 ## [2001-09-17](/news/2001/09/17/index.md)
 
-##### git format patch
+##### Git format patch
 ### [ The default date used by git format patch for email ](/news/2001/09/17/the-default-date-used-by-git-format-patch-for-email.md)
 _Context: git format patch_
 

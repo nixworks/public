@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/17/at-least-twelve-people-die-when-gunmen-try-to-r
 
 ### [2010-10-17](/news/2010/10/17/index.md)
 
-##### jewellery
+##### Jewellery
 # At least twelve people die when gunmen try to rob jewellery shops in Baghdad, Iraq and get into a gunfight with security, police and military. 
 
 At least 12 people died when gunmen swooped on a row of goldsmiths&#039; shops in a brazen robbery in the Iraqi capital and ended up in a gunfight with security forces, police and military sources said.

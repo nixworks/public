@@ -9,11 +9,11 @@ Taliban insurgents attacked police checkpoints Sunday in volatile southern Afgha
 
 ##### 2015 Burundian unrest
 ### [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md)
-_Context: Burundi, Union for Peace and Development, Presidents, 2015 Burundian unrest, Pierre Nkurunziza, Zedi Feruzi_
+_Context: Zedi Feruzi, Union for Peace and Development, 2015 Burundian unrest, Burundi, Presidents, Pierre Nkurunziza_
 
 ##### Syrian Civil War
 ### [A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md)
-_Context: Syria, Syrian Civil War_
+_Context: Syrian Civil War, Syria_
 
 ##### Dheepan
 ### ["Dheepan", a French film directed by Jacques Audiard, wins the Palme d'Or at the 2015 Cannes Film Festival. ](/news/2015/05/24/dheepan-a-french-film-directed-by-jacques-audiard-wins-the-palme-d-or-at-the-2015-cannes-film-festival.md)
@@ -29,7 +29,7 @@ _Context: DMZ, Gloria Steinem_
 
 ##### Malaysia
 ### [Authorities in Malaysia find mass graves in more than a dozen camps near the border with Thailand where Rohingya migrants are held. ](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.md)
-_Context: Thailand, Malaysia, Rohingya_
+_Context: Rohingya, Thailand, Malaysia_
 
 ##### Polish presidential election, 2015
 ### [Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-bronisaaw-komorowski-and-challenger-andr.md)

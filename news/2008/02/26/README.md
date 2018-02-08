@@ -7,7 +7,7 @@ Formats: [HTML](2008/02/26/index.html)  [JSON](2008/02/26/index.json)  [XML](200
 ### [ A shutdown at the Turkey Point Nuclear Generating Station causes a loss of electricity for millions in Florida. ](/news/2008/02/26/a-shutdown-at-the-turkey-point-nuclear-generating-station-causes-a-loss-of-electricity-for-millions-in-florida.md)
 A massive power outage struckparts of Florida on Tuesday, knocking out electricity to millionsof people, snarling traffic at intersections and trappingresidents in elevators.
 
-##### genome
+##### Genome
 ### [ Researchers announce they have sequenced the genome of corn. ](/news/2008/02/26/researchers-announce-they-have-sequenced-the-genome-of-corn.md)
 Researchers have sequenced the gene map of corn, also known as maize, a key crop across much of the world and a source of food, oil and products ranging from shoe polish to ethanol.
 

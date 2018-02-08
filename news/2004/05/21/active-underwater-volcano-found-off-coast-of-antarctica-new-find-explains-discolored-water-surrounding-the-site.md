@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/21/active-underwater-volcano-found-off-coast-of-an
 
 ### [2004-05-21](/news/2004/05/21/index.md)
 
-##### volcano
+##### Volcano
 #  Active underwater volcano found off coast of Antarctica. New find explains discolored water surrounding the site. 
 
 

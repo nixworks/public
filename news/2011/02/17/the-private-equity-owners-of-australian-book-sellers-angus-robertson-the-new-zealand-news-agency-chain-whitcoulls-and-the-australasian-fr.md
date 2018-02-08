@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/17/the-private-equity-owners-of-australian-book-se
 
 ### [2011-02-17](/news/2011/02/17/index.md)
 
-##### private equity
+##### Private equity
 # The private equity owners of Australian book sellers Angus & Robertson, the New Zealand news agency chain Whitcoulls and the Australasian franchise of Borders goes into voluntary administration. 
 
 

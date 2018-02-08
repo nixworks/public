@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/20/a-suicide-truck-bomber-attack-by-the-al-qaeda-l
 
 ### [2013-10-20](/news/2013/10/20/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # A suicide truck bomber attack by the Al-Qaeda-linked Al-Nusra Front on a government checkpoint outside Hama, Syria, kills at least 30 people, including a number of soldiers. 
 
 

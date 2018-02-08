@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/1/in-response-to-the-assassination-of-mahmoud-al-m
 
 ### [2010-03-1](/news/2010/03/1/index.md)
 
-##### assassination
+##### Assassination
 # In response to the assassination of Mahmoud al-Mabhouh, Dubai's police chief states that travelers suspected of being Israeli will not be allowed into the United Arab Emirates even if they arrive with passports issued by other countries. 
 
 &quot;The whole world wants Israeli hi-tech, agricultural and medical products, and that includes in the UAE.&quot;

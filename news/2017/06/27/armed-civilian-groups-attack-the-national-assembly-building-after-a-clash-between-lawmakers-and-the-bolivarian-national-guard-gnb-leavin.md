@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/27/armed-civilian-groups-attack-the-national-assem
 
 ### [2017-06-27](/news/2017/06/27/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # Armed civilian groups attack the National Assembly building, after a clash between lawmakers and the Bolivarian National Guard (GNB), leaving various legislators and journalists injured. Opposition legislator and President of the Assembly Julio Borges blames President Nicolas Maduro for the attack. 
 
 Armed civilian groups have attacked the Venezuelan Parliament building after a clash between lawmakers and the military police of the Bolivarian National Guard.

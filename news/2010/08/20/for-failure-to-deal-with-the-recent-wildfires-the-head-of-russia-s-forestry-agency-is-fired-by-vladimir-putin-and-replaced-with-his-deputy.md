@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/20/for-failure-to-deal-with-the-recent-wildfires-t
 
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-##### the recent wildfires
+##### The recent wildfires
 # For failure to deal with the recent wildfires the head of Russia's forestry agency is fired by Vladimir Putin and replaced with his deputy. 
 
 Russian Prime Minister Vladimir Putin sacks the head of the forestry agency for failing to deal adequately with recent wildfires.

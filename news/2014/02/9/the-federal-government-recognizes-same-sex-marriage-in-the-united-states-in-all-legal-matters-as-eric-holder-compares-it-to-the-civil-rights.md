@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/9/the-federal-government-recognizes-same-sex-marri
 
 ### [2014-02-9](/news/2014/02/9/index.md)
 
-##### same-sex marriage in the United States
+##### Same-sex marriage in the United States
 # The Federal government recognizes same-sex marriage in the United States in all legal matters as Eric Holder compares it to the Civil Rights Movement. 
 
 

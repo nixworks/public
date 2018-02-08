@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/4/an-abortion-rights-activist-ship-is-blocked-from
 
 ### [2012-10-4](/news/2012/10/4/index.md)
 
-##### abortion rights activist
+##### Abortion rights activist
 # An abortion rights activist ship is blocked from entering the Moroccan port of Smir; the vessel is operated by the Dutch non-profit organization Women on Waves, which provides abortions and related medical services to women living in countries with restrictive abortion laws. 
 
 A ship that offers women medical abortions was blocked Thursday from entering the port of Smir, Morocco, aactivist group from the Netherlands said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/16/a-barrel-bomb-is-dropped-from-a-helicopter-in-a
 
 ### [2014-06-16](/news/2014/06/16/index.md)
 
-##### barrel bomb
+##### Barrel bomb
 # A barrel bomb is dropped from a helicopter in Aleppo, Syria, killing at least 25 people. 
 
 

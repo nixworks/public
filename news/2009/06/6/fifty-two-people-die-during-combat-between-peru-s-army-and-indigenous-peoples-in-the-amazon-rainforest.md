@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-
 
 ### [2009-06-6](/news/2009/06/6/index.md)
 
-##### deadly clashes
+##### Deadly clashes
 #  Fifty-two people die during combat between Peru's Army and indigenous peoples in the Amazon Rainforest. 
 
 

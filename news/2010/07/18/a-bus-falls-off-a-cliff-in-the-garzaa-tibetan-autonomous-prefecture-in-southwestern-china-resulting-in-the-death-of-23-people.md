@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/18/a-bus-falls-off-a-cliff-in-the-garzaa-tibetan-a
 
 ### [2010-07-18](/news/2010/07/18/index.md)
 
-##### bus
+##### Bus
 # A bus falls off a cliff in the Garze Tibetan Autonomous Prefecture in southwestern China resulting in the death of 23 people. 
 
 

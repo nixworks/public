@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/18/two-more-suspects-are-arrested-in-relation-to-a
 
 ### [2007-08-18](/news/2007/08/18/index.md)
 
-##### murder
+##### Murder
 #  Two more suspects are arrested in relation to a triple murder in a Newark, New Jersey elementary schoolyard. 
 
 

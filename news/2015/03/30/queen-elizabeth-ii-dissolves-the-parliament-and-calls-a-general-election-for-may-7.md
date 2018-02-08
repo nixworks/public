@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and
 
 ### [2015-03-30](/news/2015/03/30/index.md)
 
-##### newly elected
+##### Newly elected
 # Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/16/pakistan-s-cricket-captain-shahid-afridi-quits-
 
 ### [2010-07-16](/news/2010/07/16/index.md)
 
-##### cricketer
+##### Cricketer
 # Pakistan's cricket captain, Shahid Afridi, quits in controversy after losing his team's first Test to Australia. 
 
 

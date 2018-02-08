@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/30/in-rugby-sevens-samoa-wins-the-cup-final-of-the
 
 ### [2010-05-30](/news/2010/05/30/index.md)
 
-##### rugby sevens
+##### Rugby sevens
 # In rugby sevens, Samoa wins the Cup final of the 2010 Edinburgh Sevens, defeating Australia 41-14. The result also gives Samoa Sevens overall victory in the 2009-10 IRB Sevens World Series. 
 
 

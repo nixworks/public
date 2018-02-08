@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/2/gunmen-attack-garissa-university-college-in-keny
 
 ### [2015-04-2](/news/2015/04/2/index.md)
 
-##### attack
+##### Attack
 # Gunmen attack Garissa University College in Kenya, killing at least 140 people and wounding 65 others. 
 
 At least 147 people have died in an attack by al-Shabab on Garissa University, Kenya - the deadliest assault yet by the Islamist group.

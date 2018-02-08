@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/3/fourteen-people-die-and-26-are-injured-during-a-
 
 ### [2009-04-3](/news/2009/04/3/index.md)
 
-##### shooting
+##### Shooting
 #  Fourteen people die and 26 are injured during a shooting at the American Civic Association in Binghamton, New York. 
 
 

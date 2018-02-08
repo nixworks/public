@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/7/exploration-of-mars-mars-express-failed-to-hear-
 
 ### [2004-01-7](/news/2004/01/7/index.md)
 
-##### route
+##### Route
 #  Exploration of Mars: Mars Express failed to hear any signal from the Beagle 2 spacecraft during its first pass over the landing site. This is major blow, but scientists have once again not given up all hope. They will attempt again tomorrow using a different communication mode. The Beagle 2 mission manager, Colin Pillinger, set February 7 as the day to abandon contact efforts. By that time Beagle 2 would have switched into an autotransmit mode after having not received any signal for over a month if it was still alive.
 
 

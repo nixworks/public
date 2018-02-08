@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/02/28/gulbarg-society-massacre-during-the-2002-gujara
 
 ### [2002-02-28](/news/2002/02/28/index.md)
 
-##### riots that killed 69 Muslims
+##### Riots that killed 69 Muslims
 #  Gulbarg Society massacre : During the 2002 Gujarat riots, a mob attacked the Gulbarg Society, a lower middle-class Muslim neighbourhood in Chamanpura, Ahmedabad. Most of the houses were burnt, and at least 35 victims including a former Congress, Member of Parliament, Ehsan Jafri, were burnt alive, while 31 others went missing after the incident, later presumed dead, bringing the total of the dead to 69. title =Safehouse Of Horrors| publisher = Tehelka| url =http:--www.tehelka.com-story_main35.asp?filename=Ne031107safehouseofhorrors.asp&page=1| date = 2007-11-03 url=http:--www.hindustantimes.com-Apex-court-SIT-submits-report-on-Gulbarg-Society-massacre-Article1-543728.aspx court SIT submits report on Gulbarg Society massacre 14, 2010 work=The Hindustan Times 
 
 

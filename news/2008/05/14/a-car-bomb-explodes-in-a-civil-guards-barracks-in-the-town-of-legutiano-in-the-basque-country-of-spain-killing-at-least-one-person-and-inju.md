@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/14/a-car-bomb-explodes-in-a-civil-guards-barracks-
 
 ### [2008-05-14](/news/2008/05/14/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb explodes in a civil guards barracks in the town of Legutiano in the Basque Country of Spain killing at least one person and injuring several others. 
 
 

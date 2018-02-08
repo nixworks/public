@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/23/the-guest-list-for-the-wedding-of-prince-willia
 
 ### [2011-04-23](/news/2011/04/23/index.md)
 
-##### guest list
+##### Guest list
 # The guest list for the wedding of Prince William and Catherine Middleton is announced. 
 
 

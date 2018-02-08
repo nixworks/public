@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-peop
 
 ### [2006-07-23](/news/2006/07/23/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb explosion kills at least 26 people in a busy market in Sadr City, a predominantly Shi'a district of Baghdad. 
 
 

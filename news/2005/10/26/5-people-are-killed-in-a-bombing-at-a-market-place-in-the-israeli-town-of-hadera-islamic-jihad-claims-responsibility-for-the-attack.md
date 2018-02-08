@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/26/5-people-are-killed-in-a-bombing-at-a-market-pl
 
 ### [2005-10-26](/news/2005/10/26/index.md)
 
-##### market
+##### Market
 #  5 people are killed in a bombing at a market place in the Israeli town of Hadera. Islamic Jihad claims responsibility for the attack. 
 
 Terror returns to Israel’s cities: Suicide bomber strikes in market in Hadera, north of Tel Aviv and scene of several previous attacks. Islamic Jihad claims responsibility for bombing

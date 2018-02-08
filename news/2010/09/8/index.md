@@ -9,23 +9,23 @@ A government spokesman says Mexican marines have arrested seven gunmen suspected
 
 ##### Charities Aid Foundation's
 ### [A Charities Aid Foundation survey finds that Australia, New Zealand and Canada are the most generous contributors to charity. ](/news/2010/09/8/a-charities-aid-foundation-survey-finds-that-australia-new-zealand-and-canada-are-the-most-generous-contributors-to-charity.md)
-_Context: Canadian, New Zealand, charity, Australia, Charities Aid Foundation's_
+_Context: Charities Aid Foundation's, charity, New Zealand, Canadian, Australia_
 
-##### oil rig
+##### Oil rig
 ### [Two workers are missing and more than thirty workers are trapped in an oil rig in the Shengli oil field off Dongying in China's Shandong province. ](/news/2010/09/8/two-workers-are-missing-and-more-than-thirty-workers-are-trapped-in-an-oil-rig-in-the-shengli-oil-field-off-dongying-in-china-s-shandong-pro.md)
-_Context: oil rig, Chinese, Dongying, Shandong_
+_Context: oil rig, Chinese, Shandong, Dongying_
 
-##### state of emergency
+##### State of emergency
 ### [The state of emergency in Christchurch, New Zealand, is extended for another week following an aftershock to Saturday's earthquake in Lyttelton. ](/news/2010/09/8/the-state-of-emergency-in-christchurch-new-zealand-is-extended-for-another-week-following-an-aftershock-to-saturday-s-earthquake-in-lyttel.md)
 The state of emergency in earthquake-stricken Christchurch has been extended for a further seven days after a violent aftershock this morning.
 
-##### wildfire
+##### Wildfire
 ### [Eight people are missing and at least fifty-four houses are destroyed in a wildfire burning west of Boulder, Colorado, in the United States. ](/news/2010/09/8/eight-people-are-missing-and-at-least-fifty-four-houses-are-destroyed-in-a-wildfire-burning-west-of-boulder-colorado-in-the-united-states.md)
-_Context: wildfire, Boulder, United States, Colorado_
+_Context: wildfire, Colorado, United States, Boulder_
 
 ##### Tropical Storm Hermine
 ### [The remnants of Tropical Storm Hermine causes widespread flooding in the US states of Texas and Oklahoma with at least two people dead. ](/news/2010/09/8/the-remnants-of-tropical-storm-hermine-causes-widespread-flooding-in-the-us-states-of-texas-and-oklahoma-with-at-least-two-people-dead.md)
-_Context: Oklahoma, Tropical Storm Hermine, Texas, United States_
+_Context: Oklahoma, Tropical Storm Hermine, United States, Texas_
 
 ##### South Korea
 ### [South Korea unveils sanctions against Iran for its nuclear program. ](/news/2010/09/8/south-korea-unveils-sanctions-against-iran-for-its-nuclear-program.md)
@@ -41,7 +41,7 @@ A bill giving same-sex couples the right to adopt has been passed by both houses
 
 ##### Police
 ### [Police in Europe shut down 49 servers and detain ten people in a raid across thirteen countries in a crackdown on film piracy. ](/news/2010/09/8/police-in-europe-shut-down-49-servers-and-detain-ten-people-in-a-raid-across-thirteen-countries-in-a-crackdown-on-film-piracy.md)
-_Context: film piracy, Police, Europe, servers_
+_Context: Police, servers, Europe, film piracy_
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The United States Court of Appeals for the Ninth Circuit dismisses a lawsuit associated with the Central Intelligence Agency's practice of "extraordinary rendition". ](/news/2010/09/8/the-united-states-court-of-appeals-for-the-ninth-circuit-dismisses-a-lawsuit-associated-with-the-central-intelligence-agency-s-practice-of.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/24/american-corporations-posted-record-profits-of-
 
 ### [2010-11-24](/news/2010/11/24/index.md)
 
-##### corporations
+##### Corporations
 # American corporations posted record profits of $1.67trillion for last quarter, amidst high unemployment rates. 
 
 

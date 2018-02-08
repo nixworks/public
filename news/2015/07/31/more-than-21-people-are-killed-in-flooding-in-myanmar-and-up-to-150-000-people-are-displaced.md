@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/31/more-than-21-people-are-killed-in-flooding-in-m
 
 ### [2015-07-31](/news/2015/07/31/index.md)
 
-##### floods in Myanmar
+##### Floods in Myanmar
 #  More than 21 people are killed in flooding in Myanmar and up to 150,000 people are displaced.
 
 

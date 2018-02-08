@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/4/rescuers-are-working-to-save-57-coal-miners-trap
 
 ### [2011-11-4](/news/2011/11/4/index.md)
 
-##### coal miner
+##### Coal miner
 # Rescuers are working to save 57 coal miners trapped in Sanmenxia in China's Henan province. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/22/world-stock-markets-plunge-amid-growing-global-
 
 ### [2011-09-22](/news/2011/09/22/index.md)
 
-##### stock market
+##### Stock market
 # World stock markets plunge amid growing global fears of recession. 
 
 

@@ -9,7 +9,7 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). ](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.md)
-_Context: List of politicians killed in the Mexican Drug War, Apaxtla, Guerrero, Institutional Revolutionary Party, Mexican Drug War_
+_Context: Institutional Revolutionary Party, List of politicians killed in the Mexican Drug War, Apaxtla, Guerrero, Mexican Drug War_
 
 ##### Rohingya
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
@@ -25,7 +25,7 @@ _Context: Cairo_
 
 ##### Sudan
 ### [The top police chief of Sudan announces a violent crackdown on anti-government protests in the capital, Khartoum. ](/news/2012/06/26/the-top-police-chief-of-sudan-announces-a-violent-crackdown-on-anti-government-protests-in-the-capital-khartoum.md)
-_Context: Sudan, Khartoum_
+_Context: Khartoum, Sudan_
 
 ##### Pulitzer Prize
 ### [Pulitzer Prize-winning novelist Richard Russo boycotts e-books in a bid to encourage people to buy from their local bookstores. ](/news/2012/06/26/pulitzer-prize-winning-novelist-richard-russo-boycotts-e-books-in-a-bid-to-encourage-people-to-buy-from-their-local-bookstores.md)
@@ -37,11 +37,11 @@ The five members of the Spice Girls reunite to launch Viva Forever!, a new West 
 
 ##### Salman Rushdie
 ### ["The Stressful Life of Salman Rushdie and Implementation of his Verdict", an in-development video game designed to introduce the younger generations to "The Satanic Verses" controversy, is unveiled at a Tehran games expo. ](/news/2012/06/26/the-stressful-life-of-salman-rushdie-and-implementation-of-his-verdict-an-in-development-video-game-designed-to-introduce-the-younger-gen.md)
-_Context: ''The Satanic Verses'' controversy, Salman Rushdie, Tehran_
+_Context: Salman Rushdie, ''The Satanic Verses'' controversy, Tehran_
 
 ##### University of Virginia
 ### [The University of Virginia reinstates President Teresa Sullivan after she was ousted without a formal vote earlier this month. ](/news/2012/06/26/the-university-of-virginia-reinstates-president-teresa-sullivan-after-she-was-ousted-without-a-formal-vote-earlier-this-month.md)
-_Context: University of Virginia, Teresa Sullivan_
+_Context: Teresa Sullivan, University of Virginia_
 
 ##### Stockton, California
 ### [The city of Stockton, California's mediation with creditors fails, forcing the city to declare bankruptcy, making it the largest in the U.S. to do so. ](/news/2012/06/26/the-city-of-stockton-california-s-mediation-with-creditors-fails-forcing-the-city-to-declare-bankruptcy-making-it-the-largest-in-the-u-s.md)
@@ -49,7 +49,7 @@ Stockton set to become the largest American city ever to declare bankruptcy.
 
 ##### Bhutan
 ### [Bhutan's four-century old Wangdue Phodrang Dzong, a ridge-top monastery, catches fire and is destroyed; however no relics were destroyed since the monastery was undergoing a renovation. ](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.md)
-_Context: Bhutan, Wangdue Phodrang Dzong, monastery_
+_Context: monastery, Bhutan, Wangdue Phodrang Dzong_
 
 ##### Tropical Storm Debby
 ### [Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-interstate-10-and-interstate-75-in-th.md)
@@ -69,7 +69,7 @@ _Context: Bradley Manning_
 
 ##### Yannis Stournaras
 ### [Yannis Stournaras is appointed as Greece's new finance minister. ](/news/2012/06/26/yannis-stournaras-is-appointed-as-greece-s-new-finance-minister.md)
-_Context: Yannis Stournaras, Greek Minister of Finance_
+_Context: Greek Minister of Finance, Yannis Stournaras_
 
 ##### Colombia
 ### [The vice president of Colombia, Angelino Garzon, awakes from an induced coma following his ischemic stroke. ](/news/2012/06/26/the-vice-president-of-colombia-angelino-garza3n-awakes-from-an-induced-coma-following-his-ischemic-stroke.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/6/at-least-200-african-migrants-are-missing-after-
 
 ### [2011-04-6](/news/2011/04/6/index.md)
 
-##### yesterday's fatal boat disaster
+##### Yesterday's fatal boat disaster
 # At least 200 African migrants are missing after a boat capsizes off Italy. 20 bodies recovered. 
 
 A desperate search is mounted for scores of African migrants missing after a boat capsizes off the Italian island of Lampedusa.

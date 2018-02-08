@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/7/tens-of-thousands-demonstrate-against-an-abortio
 
 ### [2010-03-7](/news/2010/03/7/index.md)
 
-##### abortion
+##### Abortion
 # Tens of thousands demonstrate against an abortion bill in several Spanish cities. 
 
 

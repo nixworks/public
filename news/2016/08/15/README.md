@@ -21,7 +21,7 @@ _Context: Kavrepalanchowk bus crashes_
 
 ##### Attorney General
 ### [Pennsylvania Attorney General Kathleen Kane is convicted of perjury and obstruction of justice. ](/news/2016/08/15/pennsylvania-attorney-general-kathleen-kane-is-convicted-of-perjury-and-obstruction-of-justice.md)
-_Context: Attorney General, perjury, Kathleen Kane_
+_Context: Kathleen Kane, perjury, Attorney General_
 
 ##### English Premier League
 ### [Former English Premier League player Dalian Atkinson dies after being tasered by police in Telford, Shropshire. ](/news/2016/08/15/former-english-premier-league-player-dalian-atkinson-dies-after-being-tasered-by-police-in-telford-shropshire.md)
@@ -33,7 +33,7 @@ A New York City man appeared in court on Tuesday and denied charges he shot and 
 
 ##### Obama administration
 ### [The Obama administration transfers 15 Guantanamo Bay detainees to the United Arab Emirates. ](/news/2016/08/15/the-obama-administration-transfers-15-guantanamo-bay-detainees-to-the-united-arab-emirates.md)
-_Context: detainee, United Arab Emirates, Obama administration_
+_Context: Obama administration, detainee, United Arab Emirates_
 
 ## [Previous Day...](/news/2016/08/14/index.md)
 

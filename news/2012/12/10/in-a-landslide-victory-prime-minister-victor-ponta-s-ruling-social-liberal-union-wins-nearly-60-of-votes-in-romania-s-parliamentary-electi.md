@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/10/in-a-landslide-victory-prime-minister-victor-po
 
 ### [2012-12-10](/news/2012/12/10/index.md)
 
-##### landslide
+##### Landslide
 # In a landslide victory, Prime Minister Victor Ponta's ruling Social Liberal Union wins nearly 60% of votes in Romania's parliamentary election, with a projected 66-67% of MP mandates. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-h
 
 ### [2008-06-19](/news/2008/06/19/index.md)
 
-##### government
+##### Government
 #  Commencing at dawn, the Israeli Government and Hamas declare a truce in the Israel-Gaza conflict, halting attacks across the border between the Gaza Strip and Israel. 
 
 

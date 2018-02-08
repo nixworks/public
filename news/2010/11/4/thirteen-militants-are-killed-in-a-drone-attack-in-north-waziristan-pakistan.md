@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/thirteen-militants-are-killed-in-a-drone-attack-
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### drone aircraft
+##### Drone aircraft
 # Thirteen militants are killed in a drone attack in North Waziristan, Pakistan. 
 
 

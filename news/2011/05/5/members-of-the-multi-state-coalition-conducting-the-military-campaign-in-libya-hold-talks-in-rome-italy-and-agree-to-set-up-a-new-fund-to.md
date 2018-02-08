@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/members-of-the-multi-state-coalition-conducting-
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### civil war
+##### Civil war
 # Members of the multi-state coalition conducting the military campaign in Libya hold talks in Rome, Italy, and agree to set up a new fund to aid Libyan rebels, with US Secretary of State Hillary Clinton promising to use frozen assets of Muammar Gaddafi's regime. 
 
 The Obama administration intends to use some of the billions of dollars in frozen assets belonging to Libyan leader Moammar Gaddafi and his government to provide humanitarian and other assistance to Libyans affected by the ongoing civil war.

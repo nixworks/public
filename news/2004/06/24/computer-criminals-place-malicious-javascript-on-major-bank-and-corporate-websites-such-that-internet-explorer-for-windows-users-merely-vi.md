@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/24/computer-criminals-place-malicious-javascript-o
 
 ### [2004-06-24](/news/2004/06/24/index.md)
 
-##### hacking
+##### Hacking
 #  Computer criminals place malicious JavaScript on major bank and corporate websites, such that Internet Explorer for Windows users merely viewing the pages in question are infected with Download.ject. Microsoft has yet to issue a patch for the browser.
 
 Things to do in Miami

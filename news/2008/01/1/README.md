@@ -17,7 +17,7 @@ _Context: Fatah-Hamas conflict, Gaza Strip_
 
 ##### Cyprus
 ### [ Cyprus and Malta adopt the euro currency, becoming the 14th and 15th countries to do so. Cypriot pound and Maltese lira notes and coins will remain valid in shops until the end of the month, and exchangeable at the respective central banks for some years. ](/news/2008/01/1/cyprus-and-malta-adopt-the-euro-currency-becoming-the-14th-and-15th-countries-to-do-so-cypriot-pound-and-maltese-lira-notes-and-coins-wil.md)
-_Context: euro, Cyprus, Malta, Cypriot pound, Maltese lira_
+_Context: Cypriot pound, Cyprus, Maltese lira, Malta, euro_
 
 ##### Eldoret
 ### [ A fire in a church in Eldoret, Western Kenya kills fifty people who were sheltering from violence after the disputed presidential election. ](/news/2008/01/1/a-fire-in-a-church-in-eldoret-western-kenya-kills-fifty-people-who-were-sheltering-from-violence-after-the-disputed-presidential-election.md)

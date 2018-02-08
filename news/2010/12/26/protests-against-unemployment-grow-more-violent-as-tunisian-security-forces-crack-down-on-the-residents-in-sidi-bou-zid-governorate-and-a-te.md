@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/26/protests-against-unemployment-grow-more-violent
 
 ### [2010-12-26](/news/2010/12/26/index.md)
 
-##### protests
+##### Protests
 # Protests against unemployment grow more violent as Tunisian security forces crack down on the residents in Sidi Bou Zid Governorate and a teenager is killed when police open fire. 
 
 Clashes erupt between security forces and residents in Sidi Bouzid amid wave of social unrest.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/18/following-the-world-s-first-mother-to-daughter-
 
 ### [2012-09-18](/news/2012/09/18/index.md)
 
-##### uterus
+##### Uterus
 # Following the world's first mother-to-daughter uterus transplants at the University of Gothenburg two women may now be able to give birth using the wombs in which they were carried. 
 
 

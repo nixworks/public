@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/23/mobs-of-angry-garment-workers-set-fire-to-seven
 
 ### [2006-05-23](/news/2006/05/23/index.md)
 
-##### fabric
+##### Fabric
 #  Mobs of angry garment workers set fire to seven fabric factories in Bangladesh in response to the announced death of Rana, a workers' rights leader. 100 people were injured amidst clashes between police and firefighters and protesters. Workers are forced to work overtime and seven days a week.
 
 

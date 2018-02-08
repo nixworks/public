@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/12/a-collision-near-bathurst-new-brunswick-results
 
 ### [2008-01-12](/news/2008/01/12/index.md)
 
-##### collision
+##### Collision
 #  A collision near Bathurst, New Brunswick results in the deaths of 7 Bathurst High School basketball team members. 
 
 

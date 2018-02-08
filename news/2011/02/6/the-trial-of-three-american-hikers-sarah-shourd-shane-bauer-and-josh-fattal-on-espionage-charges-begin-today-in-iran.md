@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/6/the-trial-of-three-american-hikers-sarah-shourd-
 
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-##### three American hikers
+##### Three American hikers
 # The trial of three American hikers Sarah Shourd, Shane Bauer and Josh Fattal on espionage charges begin today in Iran. 
 
 The Americans were held on suspicion of spying when they crossed the border along the mountains of northern Iraq.

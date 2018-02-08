@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/8/seven-people-are-killed-in-a-landslide-in-malays
 
 ### [2011-08-8](/news/2011/08/8/index.md)
 
-##### landslide
+##### Landslide
 # Seven people are killed in a landslide in Malaysia's Cameron Highlands. 
 
 

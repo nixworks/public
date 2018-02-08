@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/1/police-in-italy-detain-two-more-suspected-mafia-
 
 ### [2009-11-1](/news/2009/11/1/index.md)
 
-##### mafia
+##### Mafia
 #  Police in Italy detain two more suspected mafia bosses, one day after the seizure of their brother in a raid near Naples. 
 
 

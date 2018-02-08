@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/venezuela-s-national-electoral-council-announces
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### landslide victory in the December 6 election
+##### Landslide victory in the December 6 election
 # Venezuela's National Electoral Council announces the opposition Democratic Unity Roundtable (MUD) has won at least 99 seats in the 167-member National Assembly in Sunday's elections. The previous-ruling United Social Party of Venezuela (PSUV) picked up 46. Results for 22 contests remain to be determined. Voter turnout was a stunning 74.3 percent. "Within seconds," President Nicolas Maduro recognized the opposition's win, saying that despite (his party's) adverse result, Venezuela's democracy has triumphed. 
 
 The opposition in Venezuela wins a majority of seats in the National Assembly, overturning nearly two decades of dominance by the governing Socialists.

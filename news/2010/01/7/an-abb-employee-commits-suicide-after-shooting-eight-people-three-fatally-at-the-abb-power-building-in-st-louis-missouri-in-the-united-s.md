@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/7/an-abb-employee-commits-suicide-after-shooting-e
 
 ### [2010-01-7](/news/2010/01/7/index.md)
 
-##### shooting eight people
+##### Shooting eight people
 # An ABB employee commits suicide after shooting eight people, three fatally, at the ABB Power building in St. Louis, Missouri in the United States. 
 
 

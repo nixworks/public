@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/22/dutch-national-vincent-tabak-is-charged-with-th
 
 ### [2011-01-22](/news/2011/01/22/index.md)
 
-##### investigation into the murder of Joanna Yeates
+##### Investigation into the murder of Joanna Yeates
 # Dutch national Vincent Tabak is charged with the murder of Joanna Yeates, and will make his first court appearance on 24 January. 
 
 A 32-year-old man is charged with murdering Bristol landscape architect Jo Yeates.

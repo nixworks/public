@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/6/police-in-tunisia-kill-at-least-two-people-durin
 
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-##### recent unrest
+##### Recent unrest
 # Police in Tunisia kill at least two people during a protest in the northwestern town of El Kef demanding the resignation of a police chief - crowds retaliate by burning the police station. 
 
 Tunisian police kill at least two people in the north-western town of Kef, during an attack on the local police station by protesters.

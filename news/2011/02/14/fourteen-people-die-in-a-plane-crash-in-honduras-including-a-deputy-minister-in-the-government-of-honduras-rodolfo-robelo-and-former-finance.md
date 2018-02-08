@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/14/fourteen-people-die-in-a-plane-crash-in-hondura
 
 ### [2011-02-14](/news/2011/02/14/index.md)
 
-##### die in a plane crash
+##### Die in a plane crash
 # Fourteen people die in a plane crash in Honduras including a deputy minister in the Government of Honduras Rodolfo Robelo and former finance minister Carlos Chahin. 
 
 A plane crash in Honduras kills all 14 people on board, including government minister Rodolfo Robelo.

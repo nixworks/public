@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/30/six-people-are-found-dead-after-a-fire-in-a-mob
 
 ### [2014-08-30](/news/2014/08/30/index.md)
 
-##### mobile home
+##### Mobile home
 # Six people are found dead after a fire in a mobile home in the American town of Clinton, North Carolina. 
 
 

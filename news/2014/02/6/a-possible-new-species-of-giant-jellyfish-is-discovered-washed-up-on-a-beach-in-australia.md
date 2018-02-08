@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/6/a-possible-new-species-of-giant-jellyfish-is-dis
 
 ### [2014-02-6](/news/2014/02/6/index.md)
 
-##### jellyfish
+##### Jellyfish
 # A possible new species of giant jellyfish is discovered, washed up on a beach in Australia. 
 
 Scientists in Australia are working to classify a new species of giant jellyfish that washed up on a beach in Tasmania.

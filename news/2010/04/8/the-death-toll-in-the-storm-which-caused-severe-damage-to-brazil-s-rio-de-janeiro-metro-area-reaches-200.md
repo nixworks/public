@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/8/the-death-toll-in-the-storm-which-caused-severe-
 
 ### [2010-04-8](/news/2010/04/8/index.md)
 
-##### buried in their homes by a large landslide
+##### Buried in their homes by a large landslide
 # The death toll in the storm which caused severe damage to Brazil's Rio de Janeiro metro area reaches 200. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/7/twenty-three-oil-workers-are-kidnapped-in-easter
 
 ### [2011-03-7](/news/2011/03/7/index.md)
 
-##### kidnapping
+##### Kidnapping
 # Twenty-three oil workers are kidnapped in eastern Colombia with FARC rebels the most likely suspects. 
 
 

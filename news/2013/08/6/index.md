@@ -13,9 +13,9 @@ DENMARK-EVACUATION/ :Police evacuate area of Copenhagen over suspect car
 
 ##### State Department
 ### [The United States Department of State evacuates staff from the United States Embassy in Yemen due to an al-Qaida threat. ](/news/2013/08/6/the-united-states-department-of-state-evacuates-staff-from-the-united-states-embassy-in-yemen-due-to-an-al-qaida-threat.md)
-_Context: State Department, al-Qaida, United States, Yemen_
+_Context: State Department, Yemen, al-Qaida, United States_
 
-##### drug cartel
+##### Drug cartel
 ### [Ten people are killed in a clash between rival drug cartels in Honduras. ](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-drug-cartels-in-honduras.md)
 A shootout between rival drug gangs in Honduras leaves 17 people dead in a region infamous as a drugs transit route.
 
@@ -29,9 +29,9 @@ A series of car bombs targeting busy markets and shopping streets in and around 
 
 ##### Yemen
 ### [Yemeni tribesman shoot down an army military helicopter killing eight soldiers. ](/news/2013/08/6/yemeni-tribesman-shoot-down-an-army-military-helicopter-killing-eight-soldiers.md)
-_Context: Yemen, Yemeni_
+_Context: Yemeni, Yemen_
 
-##### al-Qaeda
+##### Al-Qaeda
 ### [Four suspected Al-Qaeda militants are killed in a drone strike. ](/news/2013/08/6/four-suspected-al-qaeda-militants-are-killed-in-a-drone-strike.md)
 _Context: al-Qaeda_
 
@@ -41,7 +41,7 @@ Tunisian police shot dead an Islamist militant on Tuesday in a suburb on the out
 
 ##### Argentina
 ### [A gas explosion in an apartment block kills five people and injures a dozen in the Argentine city of Rosario. ](/news/2013/08/6/a-gas-explosion-in-an-apartment-block-kills-five-people-and-injures-a-dozen-in-the-argentine-city-of-rosario.md)
-_Context: Rosario, Argentina_
+_Context: Argentina, Rosario_
 
 ##### Switzerland
 ### [A hot Air Balloon carrying an American family crashes killing one person and injures four in the Swiss town of Montbovon. ](/news/2013/08/6/a-hot-air-balloon-carrying-an-american-family-crashes-killing-one-person-and-injures-four-in-the-swiss-town-of-montbovon.md)
@@ -51,9 +51,9 @@ _Context: Switzerland_
 ### [The trial of Major Nidal Malik Hasan, a former United States Army Medical Corps officer and the Gunman during the Fort Hood shooting, begins. ](/news/2013/08/6/the-trial-of-major-nidal-malik-hasan-a-former-united-states-army-medical-corps-officer-and-the-gunman-during-the-fort-hood-shooting-begins.md)
 Hasan, paralyzed from the waist down after being shot by police, is representing himself.
 
-##### first execution
+##### First execution
 ### [The first execution by lethal injection is officially implemented in Viet Nam when 27-year-old Nguyen Anh TuCNYn is executed in Hanoi. ](/news/2013/08/6/the-first-execution-by-lethal-injection-is-officially-implemented-in-viet-nam-when-27-year-old-nguya-n-anh-tuaocnyn-is-executed-in-hanoi.md)
-_Context: first execution, Viet Nam, Hanoi, lethal injection_
+_Context: Hanoi, lethal injection, first execution, Viet Nam_
 
 ##### Tunisia
 ### [Tunisia's constituent assembly is suspended until the Islamist-led Government and secular opposition begin talks to resolve a Political crisis. ](/news/2013/08/6/tunisia-s-constituent-assembly-is-suspended-until-the-islamist-led-government-and-secular-opposition-begin-talks-to-resolve-a-political-cris.md)
@@ -61,7 +61,7 @@ _Context: Tunisia_
 
 ##### Saudi Arabia
 ### [Saudi king Abdullah appoints Prince Sultan bin Salman Al Saud as deputy Defense Minister. ](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.md)
-_Context: Abdullah, Defense Minister, Sultan bin Salman Al Saud, Saudi Arabia_
+_Context: Sultan bin Salman Al Saud, Defense Minister, Abdullah, Saudi Arabia_
 
 ## [Previous Day...](/news/2013/08/5/index.md)
 

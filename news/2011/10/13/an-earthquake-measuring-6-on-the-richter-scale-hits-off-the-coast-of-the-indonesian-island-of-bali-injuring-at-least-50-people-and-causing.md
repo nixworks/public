@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/13/an-earthquake-measuring-6-on-the-richter-scale-
 
 ### [2011-10-13](/news/2011/10/13/index.md)
 
-##### earthquake
+##### Earthquake
 # An earthquake measuring 6 on the Richter scale hits off the coast of the Indonesian island of Bali, injuring at least 50 people and causing significant property damage. 
 
 

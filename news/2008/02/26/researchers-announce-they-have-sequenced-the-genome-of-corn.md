@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/26/researchers-announce-they-have-sequenced-the-ge
 
 ### [2008-02-26](/news/2008/02/26/index.md)
 
-##### genome
+##### Genome
 #  Researchers announce they have sequenced the genome of corn. 
 
 Researchers have sequenced the gene map of corn, also known as maize, a key crop across much of the world and a source of food, oil and products ranging from shoe polish to ethanol.

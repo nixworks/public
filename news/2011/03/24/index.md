@@ -29,7 +29,7 @@ _Context: Colombia, Revolutionary Armed Forces of Colombia, Choco_
 
 ##### US Census Bureau headquarters
 ### [The United States Census Bureau confirms that New York City is the largest city in the US with 8,175,133 residents at the time of the 2010 United States Census on April 1. ](/news/2011/03/24/the-united-states-census-bureau-confirms-that-new-york-city-is-the-largest-city-in-the-us-with-8-175-133-residents-at-the-time-of-the-2010-u.md)
-_Context: 2010 Census, largest city in the US, US Census Bureau headquarters, New York City_
+_Context: largest city in the US, 2010 Census, New York City, US Census Bureau headquarters_
 
 ##### U.S.
 ### [A U.S. federal district court in Delaware rules in favor of Cephalon, a phamaceutical company, in a patent infringement lawsuit it had brought against a manufacturer of generic drugs. ](/news/2011/03/24/a-u-s-federal-district-court-in-delaware-rules-in-favor-of-cephalon-a-phamaceutical-company-in-a-patent-infringement-lawsuit-it-had-broug.md)
@@ -37,7 +37,7 @@ A U.S. Court upheld aCephalon Inc CEPH.O patent protecting its Fentora painmedic
 
 ##### Africa Carbon Exchange
 ### [The Africa Carbon Exchange, Africa's first carbon exchange which will trade in carbon credits a form of carbon pricing, opens in Kenya. ](/news/2011/03/24/the-africa-carbon-exchange-africa-s-first-carbon-exchange-which-will-trade-in-carbon-credits-a-form-of-carbon-pricing-opens-in-kenya.md)
-_Context: exchange, Africa, carbon credits, Kenya, carbon pricing, Africa Carbon Exchange_
+_Context: Kenya, exchange, carbon pricing, carbon credits, Africa Carbon Exchange, Africa_
 
 ##### Burma
 ### [Two large earthquakes are recorded in northeastern Burma near the borders with Laos and Thailand, killing at least two people. ](/news/2011/03/24/two-large-earthquakes-are-recorded-in-northeastern-burma-near-the-borders-with-laos-and-thailand-killing-at-least-two-people.md)
@@ -65,11 +65,11 @@ A British man dubbed the Night Stalker has been convicted of being one of the mo
 
 ##### Sian O'Callaghan
 ### [British Police find the body of 22-year-old Sian O'Callaghan in Oxfordshire, five days after she went missing in Swindon, Wiltshire. A 47-year-old man is arrested on suspicion of murder and police are also searching for the body of an unnamed missing woman who is feared to have been murdered. ](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.md)
-_Context: Oxfordshire, Sian O'Callaghan, Wiltshire, Swindon_
+_Context: Oxfordshire, Sian O'Callaghan, Swindon, Wiltshire_
 
-##### two girls
+##### Two girls
 ### [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md)
-_Context: Krailling, German, two girls, Bavaria_
+_Context: two girls, Bavaria, German, Krailling_
 
 ##### 
 ### [European Council ](/news/2011/03/24/european-council.md)
@@ -79,17 +79,17 @@ Irish billionaire businessman Denis O&#039;Brien and a former Irish government m
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard is among the MPs to have been revealed in the latest MPs' interests register to have received gifts, including iPods and concert tickets, from Bono. ](/news/2011/03/24/australian-prime-minister-julia-gillard-is-among-the-mps-to-have-been-revealed-in-the-latest-mps-interests-register-to-have-received-gifts.md)
-_Context: iPod, Australia, Bono, Julia Gillard, Australian Prime Minister_
+_Context: Australia, Bono, Australian Prime Minister, iPod, Julia Gillard_
 
 ##### Governor of California
 ### [The Governor of the US state of California Jerry Brown signs off on billions of savings to the budget but acknowledges that billions more in savings or revenue increases need to be found to resolve the ongoing budget crisis. ](/news/2011/03/24/the-governor-of-the-us-state-of-california-jerry-brown-signs-off-on-billions-of-savings-to-the-budget-but-acknowledges-that-billions-more-in.md)
-_Context: California, Governor of California, Jerry Brown, ongoing budget crisis_
+_Context: Governor of California, Jerry Brown, California, ongoing budget crisis_
 
 ##### John Milnor
 ### [Mathematician John Milnor wins the 2011 Abel Prize for his contributions to topology, geometry and algebra. ](/news/2011/03/24/mathematician-john-milnor-wins-the-2011-abel-prize-for-his-contributions-to-topology-geometry-and-algebra.md)
 The Norwegian Academy of Science and Letters has chosen one of the living legends of mathematics, John Willard Milnor of the Institute for Mathematical Sciences in the University of Stony Brook, U.S.A
 
-##### battery-swapping station
+##### Battery-swapping station
 ### [The first battery-swapping station in Israel for electric cars is inaugurated by Better Place; over 1,000 charging stations for the cars are already in place. ](/news/2011/03/24/the-first-battery-swapping-station-in-israel-for-electric-cars-is-inaugurated-by-better-place-over-1-000-charging-stations-for-the-cars-are.md)
 Infrastructures Minister Landau recites ‘Shehecheyanu’ blessing, calling it a first step toward weaning the country from enemy resources.
 

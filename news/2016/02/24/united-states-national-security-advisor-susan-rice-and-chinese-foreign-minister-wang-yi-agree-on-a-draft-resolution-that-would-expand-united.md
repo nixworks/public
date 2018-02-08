@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/24/united-states-national-security-advisor-susan-r
 
 ### [2016-02-24](/news/2016/02/24/index.md)
 
-##### nuclear test
+##### Nuclear test
 # United States National Security Advisor Susan Rice and Chinese Foreign Minister Wang Yi agree on a draft resolution that would expand United Nations Security Council sanctions following North Korea's latest nuclear test. U.S. President Barack Obama participated in the meeting. The draft is now headed to the full 15-member council. 
 
 The United States and China have agreed on a draft resolution that would expand U.N. Security Council sanctions against North Korea over its latest nuclear test and hope to put it to a vote in the coming days, council diplomats said on Wednesday.

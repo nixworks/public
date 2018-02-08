@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/7/an-anti-gay-bill-is-reintroduced-in-the-ugandan-
 
 ### [2012-02-7](/news/2012/02/7/index.md)
 
-##### law
+##### Law
 # An anti-gay bill is reintroduced in the Ugandan parliament after it was previously withdrawn. 
 
 

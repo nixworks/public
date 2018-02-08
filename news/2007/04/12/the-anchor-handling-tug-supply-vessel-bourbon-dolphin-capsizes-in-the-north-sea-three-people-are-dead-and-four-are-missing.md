@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/12/the-anchor-handling-tug-supply-vessel-bourbon-d
 
 ### [2007-04-12](/news/2007/04/12/index.md)
 
-##### anchor handling tug supply vessel
+##### Anchor handling tug supply vessel
 #  The anchor handling tug supply vessel "Bourbon Dolphin" capsizes in the North Sea. Three people are dead and four are missing. 
 
 

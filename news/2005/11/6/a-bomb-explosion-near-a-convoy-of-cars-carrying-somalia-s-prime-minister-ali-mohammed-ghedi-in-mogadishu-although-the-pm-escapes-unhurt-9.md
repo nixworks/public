@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/6/a-bomb-explosion-near-a-convoy-of-cars-carrying-
 
 ### [2005-11-6](/news/2005/11/6/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explosion near a convoy of cars carrying Somalia's Prime Minister Ali Mohammed Ghedi in Mogadishu. Although the PM escapes unhurt, 9 people have been killed and 20 others wounded. [http:--www.alertnet.org-thenews-newsdesk-L06777799.htm (Reuters)] (Link dead as of 20:57, 14 January 2007 (UTC)) 
 
 

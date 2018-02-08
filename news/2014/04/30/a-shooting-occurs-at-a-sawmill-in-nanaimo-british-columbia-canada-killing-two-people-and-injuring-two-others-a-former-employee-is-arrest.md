@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/30/a-shooting-occurs-at-a-sawmill-in-nanaimo-briti
 
 ### [2014-04-30](/news/2014/04/30/index.md)
 
-##### sawmill
+##### Sawmill
 # A shooting occurs at a sawmill in Nanaimo, British Columbia, Canada, killing two people and injuring two others. A former employee is arrested. 
 
 Kevin Douglas Addison is charged with two counts of first-degree murder and two counts of attempted murder with a firearm following shootings Wednesday morning at a B.C. sawmill where he used to work.

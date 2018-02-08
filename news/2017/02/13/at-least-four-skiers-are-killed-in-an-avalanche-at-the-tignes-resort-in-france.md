@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/13/at-least-four-skiers-are-killed-in-an-avalanche
 
 ### [2017-02-13](/news/2017/02/13/index.md)
 
-##### avalanche
+##### Avalanche
 # At least four skiers are killed in an avalanche at the Tignes resort in France. 
 
 Reports that five other skiers and boarders were missing near Alpine resort of Tignes are now thought to be incorrect

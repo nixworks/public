@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/20/a-court-sentences-five-members-of-the-cuba-men-
 
 ### [2016-09-20](/news/2016/09/20/index.md)
 
-##### five members
+##### Five members
 # A court sentences five members of the Cuba men's national volleyball team to prison for a gang rape of a Finnish woman that took place in Tampere, Finland, in July 2016 during the FIVB Volleyball World League. 
 
 

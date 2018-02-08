@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/8/flooding-in-thailand-reaches-the-residence-of-th
 
 ### [2011-11-8](/news/2011/11/8/index.md)
 
-##### floods
+##### Floods
 # Flooding in Thailand reaches the residence of the Prime Minister Yingluck Shinawatra in Bangkok, forcing her to withdraw from the Hawaii APEC summit to deal with the crisis. 
 
 

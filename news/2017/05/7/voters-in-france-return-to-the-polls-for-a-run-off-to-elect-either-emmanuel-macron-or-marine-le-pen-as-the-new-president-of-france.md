@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/7/voters-in-france-return-to-the-polls-for-a-run-o
 
 ### [2017-05-7](/news/2017/05/7/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Voters in France return to the polls for a run-off, to elect either Emmanuel Macron or Marine Le Pen as the new President of France.
 
 

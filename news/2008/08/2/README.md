@@ -7,7 +7,7 @@ Formats: [HTML](2008/08/2/index.html)  [JSON](2008/08/2/index.json)  [XML](2008/
 ### [ Latvia holds a constitutional referendum on whether to allow referendums on dissolving parliament and calling early elections. Although the vote was invalidated, as turnout did not meet the 50% threshold, the results (96% in favour of the change) are considered likely to press politicians to adopt a similar measure nonetheless. ](/news/2008/08/2/latvia-holds-a-constitutional-referendum-on-whether-to-allow-referendums-on-dissolving-parliament-and-calling-early-elections-although-the.md)
 A Latvian referendum on whether to give people the right to dismiss parliament outside regular elections failed to win enough backing, but an opposition party said a high turnout showed the legislature should go anyway.
 
-##### scale
+##### Scale
 ### [ Two climbers from an international expedition perish after ice fall on K2 mountain in the Himalayas, and six members of the team have gone missing. ](/news/2008/08/2/two-climbers-from-an-international-expedition-perish-after-ice-fall-on-k2-mountain-in-the-himalayas-and-six-members-of-the-team-have-gone.md)
 _Context: Himalayas, K2 mountain, scale_
 

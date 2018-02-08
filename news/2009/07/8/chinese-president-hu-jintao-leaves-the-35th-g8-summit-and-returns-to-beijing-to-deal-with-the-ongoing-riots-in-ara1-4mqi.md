@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/8/chinese-president-hu-jintao-leaves-the-35th-g8-s
 
 ### [2009-07-8](/news/2009/07/8/index.md)
 
-##### ethnic riots
+##### Ethnic riots
 #  Chinese President Hu Jintao leaves the 35th G8 Summit and returns to Beijing to deal with the ongoing riots in Urumqi. 
 
 

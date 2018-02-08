@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/26/a-muslim-mob-is-found-to-have-attacked-coptic-h
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
-##### attacked
+##### Attacked
 # A Muslim mob is found to have attacked Coptic homes and stripped a woman in public in Minya Governorate, Egypt, on 20 May 2016. 
 
 

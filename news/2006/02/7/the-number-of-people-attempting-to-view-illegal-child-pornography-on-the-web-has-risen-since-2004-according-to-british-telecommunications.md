@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/7/the-number-of-people-attempting-to-view-illegal-
 
 ### [2006-02-7](/news/2006/02/7/index.md)
 
-##### child pornography
+##### Child pornography
 #  The number of people attempting to view illegal child pornography on the web has risen since 2004, according to British Telecommunications (BT). They use a system to block sites carrying the images of children, which has been getting some 35,000 hits a day for the past four months. 
 
 

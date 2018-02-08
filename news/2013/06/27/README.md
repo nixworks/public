@@ -9,15 +9,15 @@ _Context: European Union, United Kingdom_
 
 ##### South Korean President
 ### [The President of South Korea Park Geun-hye arrives in the People's Republic of China for four days of talks with the President of China Xi Jinping in an effort to reduce tensions on the Korean Peninsula. ](/news/2013/06/27/the-president-of-south-korea-park-geun-hye-arrives-in-the-people-s-republic-of-china-for-four-days-of-talks-with-the-president-of-china-xi-j.md)
-_Context: Park Geun-hye, South Korean President, Xi Jinping, China, Chinese President, Korean Peninsula_
+_Context: Chinese President, China, Xi Jinping, South Korean President, Park Geun-hye, Korean Peninsula_
 
-##### indicted
+##### Indicted
 ### [A US federal grand jury issues a thirty count indictment against Dzhokhar Tsarnaev for his alleged role in the Boston Marathon bombings. ](/news/2013/06/27/a-us-federal-grand-jury-issues-a-thirty-count-indictment-against-dzhokhar-tsarnaev-for-his-alleged-role-in-the-boston-marathon-bombings.md)
 Dzhokhar Tsarnaev, the surviving Boston Marathon bombing suspect, was indicted Thursday and is scheduled to be arraigned on July 10.
 
 ##### Tsakhiagiin Elbegdorj
 ### [Tsakhiagiin Elbegdorj is reelected as President of Mongolia. ](/news/2013/06/27/tsakhiagiin-elbegdorj-is-reelected-as-president-of-mongolia.md)
-_Context: President of Mongolia, reelected, Tsakhiagiin Elbegdorj_
+_Context: reelected, President of Mongolia, Tsakhiagiin Elbegdorj_
 
 ##### Kevin Rudd
 ### [Kevin Rudd is sworn in as the new Prime Minister of Australia with Anthony Albanese as the Deputy Prime Minister. ](/news/2013/06/27/kevin-rudd-is-sworn-in-as-the-new-prime-minister-of-australia-with-anthony-albanese-as-the-deputy-prime-minister.md)

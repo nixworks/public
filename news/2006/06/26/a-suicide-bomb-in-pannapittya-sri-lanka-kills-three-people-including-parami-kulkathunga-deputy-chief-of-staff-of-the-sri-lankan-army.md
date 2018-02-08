@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/26/a-suicide-bomb-in-pannapittya-sri-lanka-kills-t
 
 ### [2006-06-26](/news/2006/06/26/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb in Pannapittya, Sri Lanka, kills three people, including Parami Kulkathunga, Deputy Chief of Staff of the Sri Lankan Army. 
 
 

@@ -9,7 +9,7 @@ A Palestinian man with security clearance to work at a Jewish settlement in the 
 
 ##### Mass surveillance in the United States
 ### [The United States Department of Homeland Security plans to collect the social media information of all immigrants, including green card holders and naturalized citizens, beginning on October 18, 2017. ](/news/2017/09/26/the-united-states-department-of-homeland-security-plans-to-collect-the-social-media-information-of-all-immigrants-including-green-card-hold.md)
-_Context: social media, Mass surveillance in the United States, naturalized citizens, Department of Homeland Security, immigrants, green card holders_
+_Context: naturalized citizens, social media, immigrants, Department of Homeland Security, Mass surveillance in the United States, green card holders_
 
 ##### Twitter
 ### [Twitter is experimenting with doubling its 140 character limit to 280 characters for all languages except Japanese, Chinese and Korean. ](/news/2017/09/26/twitter-is-experimenting-with-doubling-its-140-character-limit-to-280-characters-for-all-languages-except-japanese-chinese-and-korean.md)
@@ -37,15 +37,15 @@ Why is Donald Trump backing an establishment favourite against an anti-establish
 
 ##### Politics of Russia
 ### [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md)
-_Context: Russian presidential election, 2018, Samara Oblast, Nikolay Merkushkin, Nizhny Novgorod Oblast, Russian President, federal subjects, Vladimir Putin, Valery Shantsev, Politics of Russia_
+_Context: Politics of Russia, Nikolay Merkushkin, Vladimir Putin, federal subjects, Samara Oblast, Nizhny Novgorod Oblast, Russian President, Valery Shantsev, Russian presidential election, 2018_
 
 ##### Presidency of Donald Trump
 ### [Acting U.S. Drug Enforcement Administration chief Chuck Rosenberg announces his resignation, effective Oct. 1, after more than two years in the position. ](/news/2017/09/26/acting-u-s-drug-enforcement-administration-chief-chuck-rosenberg-announces-his-resignation-effective-oct-1-after-more-than-two-years-in.md)
-_Context: Chuck Rosenberg, Presidency of Donald Trump, Drug Enforcement Administration_
+_Context: Presidency of Donald Trump, Chuck Rosenberg, Drug Enforcement Administration_
 
 ##### Green wall
 ### [Africa's Great Green Wall is successfully reversing desertification. ](/news/2017/09/26/africa-s-great-green-wall-is-successfully-reversing-desertification.md)
-_Context: Green wall, desertification, Great Green Wall_
+_Context: desertification, Great Green Wall, Green wall_
 
 ## [Previous Day...](/news/2017/09/25/index.md)
 

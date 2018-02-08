@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/6/the-yulia-tymoshenko-bloc-our-ukraine-bloc-coali
 
 ### [2008-06-6](/news/2008/06/6/index.md)
 
-##### opposition party
+##### Opposition party
 #  The Yulia Tymoshenko Bloc-Our Ukraine Bloc coalition loses its majority in Ukraine's Verkhovna Rada after two deputies quit. 
 
 

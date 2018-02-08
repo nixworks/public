@@ -3,7 +3,7 @@ Formats: [HTML](2017/04/20/index.html)  [JSON](2017/04/20/index.json)  [XML](201
 
 ## [2017-04-20](/news/2017/04/20/index.md)
 
-##### terrorist attack
+##### Terrorist attack
 ### [One policeman has been killed and another has been critically injured after a man opened fire at police officers at the Champs-Elysees in central Paris. The gunman was killed while attempting to escape, and a bystander has been injured. ISIL claims responsibility for the attack although the claim is doubted. The President of France Francois Hollande says that all leads indicate that the attack was of a "terrorist nature". ](/news/2017/04/20/one-policeman-has-been-killed-and-another-has-been-critically-injured-after-a-man-opened-fire-at-police-officers-at-the-champs-alysa-c-es-in.md)
 ISIS claimed responsibility for an attack on police officers on the Champs-Élysées in Paris this evening that left one officer dead and two others wounded. French Interior Ministry spokesman Pierre-Henri Brandet said during a press briefing that a man exited his car and started a shooting at a pol...
 
@@ -39,7 +39,7 @@ Russia has banned Jehovah&#039;s Witnesses after the Supreme Court ruled the Chr
 ### [The Government of India revokes the Public Health Foundation of India's registration, allegedly for foreign-funded lobbying practices. ](/news/2017/04/20/the-government-of-india-revokes-the-public-health-foundation-of-india-s-registration-allegedly-for-foreign-funded-lobbying-practices.md)
 The government has revoked the registration of Public Health Foundation of India (PHFI), an NGO funded by Bill &amp; Melinda Gates Foundation, under the Foreign Contributions (Regulation) Act over alleged misuse of foreign funds for anti-tobacco lobbying, in violation of FCRA norms.
 
-##### the state
+##### The state
 ### [A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. ](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-arrested-at-school-and-spends-the-night-in-a-juvenile-facility-unknown-to-the-family-the-b.md)
 John Benjamin Haygood was arrested on felony battery charges &mdash; but a Florida prosecutor plans to offer him a &ldquo;nonjudicial sanction.&rdquo; His mother, however, said that her son &ldquo;didn&rsquo;t do anything wrong.&rdquo;
 
@@ -47,15 +47,15 @@ John Benjamin Haygood was arrested on felony battery charges &mdash; but a Flori
 ### [ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-pleads-guilty-to-five-counts-of-soliciting-to-commit-criminal-violence-and-communicating.md)
 Terrence McNeil of Akron faces 15 to 20 years in prison.
 
-##### last month's presidential election
+##### Last month's presidential election
 ### [New polls show Francois Fillon and Jean-Luc Melenchon neck and neck behind the frontrunners Emmanuel Macron and Marine Le Pen ahead of the upcoming first round of the election. ](/news/2017/04/20/new-polls-show-franassois-fillon-and-jean-luc-ma-c-lenchon-neck-and-neck-behind-the-frontrunners-emmanuel-macron-and-marine-le-pen-ahead-of-the.md)
  Former Prime Minister Dominique de Villepin, a conservative Gaullist who won global celebrity by opposing U.S. plans for war in Iraq, said on Thursday he would
 
-##### re-elected
+##### Re-elected
 ### [Guardian Council announces names of six final candidates. Incumbent President Hassan Rouhani, chairman of Astan Quds Razavi Ebrahim Raisi and Tehran Mayor Mohammad Bagher Ghalibaf is among the list. More than 1,600 nominees were disqualified, including all 137 female candidates and former president Mahmoud Ahmadinejad. ](/news/2017/04/20/guardian-council-announces-names-of-six-final-candidates-incumbent-president-hassan-rouhani-chairman-of-astan-quds-razavi-ebrahim-raisi-an.md)
 Six politicians given go-ahead to run in presidential election, which is likely to boil down to a three-man race on 19 May
 
-##### last general election
+##### Last general election
 ### [Jeremy Corbyn, the leader of the opposition Labour Party, positions himself as an "anti-establishment" candidate as he vows to end the "rigged" system. ](/news/2017/04/20/jeremy-corbyn-the-leader-of-the-opposition-labour-party-positions-himself-as-an-anti-establishment-candidate-as-he-vows-to-end-the-rigg.md)
 The Labour leader says the general election is about &quot;the establishment versus the people&quot;.
 
@@ -73,7 +73,7 @@ Weeks of protests in Venezuela are shifting the spotlight onto the nation’s mi
 
 ##### China
 ### [China launches its first cargo spacecraft, the Tianzhou 1, carried by a Long March 7 rocket. ](/news/2017/04/20/china-launches-its-first-cargo-spacecraft-the-tianzhou-1-carried-by-a-long-march-7-rocket.md)
-_Context: China, Tianzhou 1, Long March 7, cargo spacecraft_
+_Context: cargo spacecraft, Long March 7, China, Tianzhou 1_
 
 ## [Previous Day...](/news/2017/04/19/index.md)
 

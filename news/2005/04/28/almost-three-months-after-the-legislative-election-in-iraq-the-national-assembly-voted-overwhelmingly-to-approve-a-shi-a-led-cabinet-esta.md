@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/28/almost-three-months-after-the-legislative-elect
 
 ### [2005-04-28](/news/2005/04/28/index.md)
 
-##### legislative election
+##### Legislative election
 #  Almost three months after the legislative election in Iraq, the National Assembly voted overwhelmingly to approve a Shi'a-led cabinet, establishing the first elected government in the history of Iraq. Two of the four deputy prime minister's slots remained vacant, however, and five ministries, including the important defence and oil slots, were left in the hands of temporary managers. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/21/assailants-launch-an-attack-on-a-hydroelectric-
 
 ### [2010-07-21](/news/2010/07/21/index.md)
 
-##### hydroelectric
+##### Hydroelectric
 # Assailants launch an attack on a hydroelectric plant in Kabardino-Balkaria in southern Russia killing two guards and letting off bombs. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/31/the-government-of-bahrain-defends-its-decision-
 
 ### [2012-10-31](/news/2012/10/31/index.md)
 
-##### government of Bahrain
+##### Government of Bahrain
 # The government of Bahrain defends its decision to impose a ban on all public protests and demonstrations, following calls from Amnesty International to lift the ban immediately as it breaches the rights to free speech and assembly. 
 
 

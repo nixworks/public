@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the
 
 ### [2012-09-23](/news/2012/09/23/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 # Parliamentary elections are held in Belarus. The opposition sees the vote as undemocratic and boycotts it. 
 
 

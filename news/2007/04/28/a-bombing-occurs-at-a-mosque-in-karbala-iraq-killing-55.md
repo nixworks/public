@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/28/a-bombing-occurs-at-a-mosque-in-karbala-iraq-ki
 
 ### [2007-04-28](/news/2007/04/28/index.md)
 
-##### bombing occurs
+##### Bombing occurs
 #  A bombing occurs at a mosque in Karbala, Iraq, killing 55. 
 
 

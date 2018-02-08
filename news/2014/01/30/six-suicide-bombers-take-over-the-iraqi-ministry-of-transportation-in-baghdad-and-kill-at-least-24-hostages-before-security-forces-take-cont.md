@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/30/six-suicide-bombers-take-over-the-iraqi-ministr
 
 ### [2014-01-30](/news/2014/01/30/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # Six suicide bombers take over the Iraqi Ministry of Transportation in Baghdad and kill at least 24 hostages before security forces take control. 
 
 Six suicide bombers burst into an Iraqi ministry building, took hostages and killed at least 24 people including themselves on Thursday before security forces regained control, security officials said.

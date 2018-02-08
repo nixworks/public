@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/27/a-suicide-bomber-kills-at-least-five-people-in-
 
 ### [2012-04-27](/news/2012/04/27/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least five people in the Syrian capital Damascus. 
 
 

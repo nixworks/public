@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/10/a-large-fish-kill-consisting-of-several-differe
 
 ### [2010-09-10](/news/2010/09/10/index.md)
 
-##### fish kill
+##### Fish kill
 # A large fish kill, consisting of several different fish species and other marine life, including crabs, stingrays, shrimp, starfish and a whale wash ashore in Venice, Louisiana, near Plaquemines Parish, near the site of the Deepwater Horizon oil spill, and involving more species than usual with localized dead zone and low oxygen events. 
 
 Cause has not been determined; includes pogies, redfish, drum, crabs and shrimp

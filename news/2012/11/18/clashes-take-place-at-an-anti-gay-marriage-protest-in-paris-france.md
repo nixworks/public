@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-prot
 
 ### [2012-11-18](/news/2012/11/18/index.md)
 
-##### same-sex marriage
+##### Same-sex marriage
 # Clashes take place at an anti-gay marriage protest in Paris, France. 
 
 

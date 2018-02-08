@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/5/emir-sheikh-hamad-bin-khalifa-al-thani-of-qatar-
 
 ### [2004-04-5](/news/2004/04/5/index.md)
 
-##### traditional rulers
+##### Traditional rulers
 #  Emir Sheikh Hamad bin Khalifa al-Thani, of Qatar, calls upon Arab states to consider United States proposals for democratic reform. He states that Arabs should no longer use the Israeli-Palestinian conflict and security fears to justify delaying such reform. 
 
 

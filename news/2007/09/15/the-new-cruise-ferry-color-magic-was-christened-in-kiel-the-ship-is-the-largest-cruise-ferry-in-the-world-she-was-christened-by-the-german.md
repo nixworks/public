@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/15/the-new-cruise-ferry-color-magic-was-christened
 
 ### [2007-09-15](/news/2007/09/15/index.md)
 
-##### cruise ferry
+##### Cruise ferry
 #  The new cruise ferry Color Magic was christened in Kiel.The ship is the largest cruise ferry in the world.She was christened by the German actress Veronica Ferres.
 
 

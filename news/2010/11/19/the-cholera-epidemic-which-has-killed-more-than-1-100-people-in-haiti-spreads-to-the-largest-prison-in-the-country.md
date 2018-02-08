@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/19/the-cholera-epidemic-which-has-killed-more-than
 
 ### [2010-11-19](/news/2010/11/19/index.md)
 
-##### worst epidemic of cholera
+##### Worst epidemic of cholera
 # The cholera epidemic which has killed more than 1,100 people in Haiti spreads to the largest prison in the country. 
 
 

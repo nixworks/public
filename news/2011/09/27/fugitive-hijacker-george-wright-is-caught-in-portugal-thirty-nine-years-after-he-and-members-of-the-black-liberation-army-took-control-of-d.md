@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/27/fugitive-hijacker-george-wright-is-caught-in-po
 
 ### [2011-09-27](/news/2011/09/27/index.md)
 
-##### hijacker
+##### Hijacker
 # Fugitive hijacker George Wright is caught in Portugal, thirty-nine years after he and members of the Black Liberation Army took control of Delta Air Lines Flight 841 and flew it to Algeria. 
 
 

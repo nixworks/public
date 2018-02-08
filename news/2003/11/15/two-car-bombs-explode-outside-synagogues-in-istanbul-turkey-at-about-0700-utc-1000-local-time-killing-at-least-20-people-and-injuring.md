@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/15/two-car-bombs-explode-outside-synagogues-in-ist
 
 ### [2003-11-15](/news/2003/11/15/index.md)
 
-##### car bomb
+##### Car bomb
 #  Two car bombs explode outside synagogues in Istanbul, Turkey, at about 0700 UTC (1000 local time), killing at least 20 people and injuring another 250. A radical Islamist group, the Great Eastern Islamic Raiders' Front, claims responsibility.
 
 

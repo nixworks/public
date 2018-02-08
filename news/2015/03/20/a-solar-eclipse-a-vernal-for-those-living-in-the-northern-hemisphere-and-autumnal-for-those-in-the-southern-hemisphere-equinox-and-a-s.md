@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/20/a-solar-eclipse-a-vernal-for-those-living-in-th
 
 ### [2015-03-20](/news/2015/03/20/index.md)
 
-##### solar eclipse
+##### Solar eclipse
 # A solar eclipse, a vernal (for those living in the northern hemisphere) and autumnal (for those in the southern hemisphere) equinox, and a Supermoon will all occur today. 
 
 A solar eclipse will pass over Britain on Friday, covering the country in darkness as the moon moves in front of the sun. But it’s important to be sure when and how exactly to watch it — getting the wrong time could mean not getting to see the rare celestial phenomenon, but watching it wrongly could damage your eyes permanently.

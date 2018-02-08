@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united
 
 ### [2017-01-2](/news/2017/01/2/index.md)
 
-##### southern United States
+##### Southern United States
 # A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. 
 
 

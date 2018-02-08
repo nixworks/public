@@ -5,7 +5,7 @@ Formats: [HTML](2007/04/17/index.html)  [JSON](2007/04/17/index.json)  [XML](200
 
 ##### Somalia
 ### [ Somalia's Transitional Federal Parliament suspends a former Speaker Sharif Hassan Sheik Aden and 29 other Members of Parliament for failing to attend sessions in recent months. ](/news/2007/04/17/somalia-s-transitional-federal-parliament-suspends-a-former-speaker-sharif-hassan-sheik-aden-and-29-other-members-of-parliament-for-failing.md)
-_Context: MPs, Members of Parliament, Sharif Hassan Sheik Aden, Speaker, Somalia_
+_Context: MPs, Speaker, Sharif Hassan Sheik Aden, Members of Parliament, Somalia_
 
 ##### Rio de Janeiro
 ### [ Nineteen people die in Rio de Janeiro in gun battles between police and drug gangs. ](/news/2007/04/17/nineteen-people-die-in-rio-de-janeiro-in-gun-battles-between-police-and-drug-gangs.md)
@@ -25,15 +25,15 @@ The mayor of the Japanese city of Nagasaki died early on Wednesday after being s
 
 ##### Olympic Council of Asia
 ### [ The Olympic Council of Asia chooses Incheon, South Korea over New Delhi, India, to host the 2014 Asian Games. ](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.md)
-_Context: South Korea, 2014 Asian Games, Incheon, Olympic Council of Asia, India, New Delhi_
+_Context: Incheon, India, Olympic Council of Asia, 2014 Asian Games, New Delhi, South Korea_
 
 ##### Nepal
 ### [ Four Nepalese United Nations workers and their driver are killed in a roadside bombing in Kandahar, Afghanistan. ](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.md)
-_Context: United Nations, Afghanistan, Nepal, Kandahar_
+_Context: Nepal, United Nations, Afghanistan, Kandahar_
 
 ##### Kevin Rudd
 ### [ Kevin Rudd, the leader of the Australian Labor Party, announces changes to the party's industrial relations policy, including the right to a secret ballot before strike action. ](/news/2007/04/17/kevin-rudd-the-leader-of-the-australian-labor-party-announces-changes-to-the-party-s-industrial-relations-policy-including-the-right-to.md)
-_Context: Australian Labor Party, secret ballot, Kevin Rudd, strike, industrial relations_
+_Context: secret ballot, strike, Kevin Rudd, Australian Labor Party, industrial relations_
 
 ## [Previous Day...](/news/2007/04/16/index.md)
 

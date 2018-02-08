@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/8/al-qaeda-members-in-saudi-arabia-threaten-new-at
 
 ### [2004-06-8](/news/2004/06/8/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda members in Saudi Arabia threaten new attacks on Western passenger airliners. 
 
 

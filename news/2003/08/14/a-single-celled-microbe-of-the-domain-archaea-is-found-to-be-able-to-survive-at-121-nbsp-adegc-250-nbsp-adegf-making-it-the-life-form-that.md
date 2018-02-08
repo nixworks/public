@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/14/a-single-celled-microbe-of-the-domain-archaea-i
 
 ### [2003-08-14](/news/2003/08/14/index.md)
 
-##### cells
+##### Cells
 #  A single-celled microbe, of the domain Archaea, is found to be able to survive at 121&nbsp;degC (250&nbsp;degF), making it the life form that can tolerate the highest temperature. The microbe, temporarily named "Strain 121", which was found 200 mi away from Puget Sound in a hydrothermal vent, may provide clues to when and where life first evolved on Earth. It metabolizes by reducing iron oxide. 
 
 

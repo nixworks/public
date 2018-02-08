@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/16/an-international-child-pornography-network-is-d
 
 ### [2006-03-16](/news/2006/03/16/index.md)
 
-##### child pornography
+##### Child pornography
 #  An international child pornography network is discovered using information from an Internet chat room, leading to the worldwide arrests of 4 Australians, 13 Americans, 10 Canadians, and 2 Britons. 
 
 

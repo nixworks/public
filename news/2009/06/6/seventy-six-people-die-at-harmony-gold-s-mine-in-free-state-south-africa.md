@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/6/seventy-six-people-die-at-harmony-gold-s-mine-in
 
 ### [2009-06-6](/news/2009/06/6/index.md)
 
-##### die
+##### Die
 #  Seventy-six people die at Harmony Gold's mine in Free State, South Africa. 
 
 

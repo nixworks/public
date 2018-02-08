@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/24/a-british-police-officer-is-to-be-charged-with-
 
 ### [2011-05-24](/news/2011/05/24/index.md)
 
-##### manslaughter by gross negligence
+##### Manslaughter by gross negligence
 # A British police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G-20 protests. 
 
 A police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G20 protests.

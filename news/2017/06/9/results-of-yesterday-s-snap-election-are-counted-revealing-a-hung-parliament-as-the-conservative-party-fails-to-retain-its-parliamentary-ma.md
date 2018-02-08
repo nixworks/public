@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
-##### last general election
+##### Last general election
 # Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. 
 
 Theresa May will visit Buckingham Palace to seek to form a government with backing from the DUP, after losing her Commons majority.

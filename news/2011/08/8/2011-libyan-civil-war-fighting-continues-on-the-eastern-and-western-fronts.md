@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/8/2011-libyan-civil-war-fighting-continues-on-the-
 
 ### [2011-08-8](/news/2011/08/8/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Fighting continues on the eastern and western fronts. 
 
 Opposition under attack near Zlitan in north, while Gaddafi fighters launch operation to retake Bir al-Ghanam in west.

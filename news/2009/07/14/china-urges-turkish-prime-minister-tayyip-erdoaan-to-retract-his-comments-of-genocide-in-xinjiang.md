@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/14/china-urges-turkish-prime-minister-tayyip-erdoa
 
 ### [2009-07-14](/news/2009/07/14/index.md)
 
-##### ethnic riots
+##### Ethnic riots
 #  China urges Turkish Prime Minister Tayyip Erdogan to retract his comments of "genocide" in Xinjiang. 
 
 

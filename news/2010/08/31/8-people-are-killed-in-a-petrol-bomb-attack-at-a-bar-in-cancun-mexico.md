@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/31/8-people-are-killed-in-a-petrol-bomb-attack-at-
 
 ### [2010-08-31](/news/2010/08/31/index.md)
 
-##### firebomb
+##### Firebomb
 # 8 people are killed in a petrol bomb attack at a bar in Cancn, Mexico. 
 
 Six women and two men have been killed in an attack on a bar in the Mexican resort city of Cancun, officials say.

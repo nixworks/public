@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/13/one-death-and-three-injuries-result-from-a-stam
 
 ### [2010-07-13](/news/2010/07/13/index.md)
 
-##### human stampede
+##### Human stampede
 # One death and three injuries result from a stampede during pulling of Ratha-Yatra chariots in Puri, India. 
 
 

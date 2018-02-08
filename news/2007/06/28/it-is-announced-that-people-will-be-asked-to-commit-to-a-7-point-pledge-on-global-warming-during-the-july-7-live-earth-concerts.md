@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/28/it-is-announced-that-people-will-be-asked-to-co
 
 ### [2007-06-28](/news/2007/06/28/index.md)
 
-##### global warming
+##### Global warming
 #  It is announced that people will be asked to commit to a 7-point pledge on global warming during the July 7 Live Earth concerts. 
 
 

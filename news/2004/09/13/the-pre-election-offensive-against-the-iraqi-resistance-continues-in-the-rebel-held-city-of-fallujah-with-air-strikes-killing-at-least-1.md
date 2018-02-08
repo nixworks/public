@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/13/the-pre-election-offensive-against-the-iraqi-re
 
 ### [2004-09-13](/news/2004/09/13/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  The "pre-election offensive" against the Iraqi resistance continues in the rebel-held city of Fallujah, with air-strikes killing at least 16, including women and children. Joint U.S.-Iraqi forces say that they are targeting Jordanian militant Abu Musab al-Zarqawi, who is linked to al-Qaeda. The U.S. military says it is investigating an incident that occurred September 12 in Baghdad in which five people, including an "al-Arabiya" journalist broadcasting live, were killed in a helicopter attack. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/22/in-six-terrorist-and-sectarian-attacks-across-p
 
 ### [2012-11-22](/news/2012/11/22/index.md)
 
-##### terrorist and sectarian attacks
+##### Terrorist and sectarian attacks
 # In six terrorist and sectarian attacks across Pakistan over last 24 hours at least 37 people were killed and 92 others injured. 
 
 

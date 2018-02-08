@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/13/two-people-are-killed-and-43-rescued-from-a-bom
 
 ### [2009-11-13](/news/2009/11/13/index.md)
 
-##### previous explosion at the same site
+##### Previous explosion at the same site
 #  Two people are killed and 43 rescued from a bomb shelter in a fire that triggered multiple explosions at an arms depot near Ulyanovsk, western Russia. 
 
 Thirty-five people missing after series of blasts at depot outside city of Ulyanovsk.

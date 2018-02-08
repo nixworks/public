@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/16/a-pipeline-explosion-near-lagos-nigeria-kills-u
 
 ### [2008-05-16](/news/2008/05/16/index.md)
 
-##### pipeline explosion
+##### Pipeline explosion
 #  A pipeline explosion near Lagos, Nigeria, kills up to 100 people. 
 
 

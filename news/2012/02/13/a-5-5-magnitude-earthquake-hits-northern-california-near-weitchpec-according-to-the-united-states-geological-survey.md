@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/13/a-5-5-magnitude-earthquake-hits-northern-califo
 
 ### [2012-02-13](/news/2012/02/13/index.md)
 
-##### magnitude
+##### Magnitude
 # A 5.5-magnitude earthquake hits Northern California, near Weitchpec, according to the United States Geological Survey. 
 
 

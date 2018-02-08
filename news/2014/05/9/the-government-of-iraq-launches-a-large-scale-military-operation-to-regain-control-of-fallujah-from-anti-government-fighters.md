@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/9/the-government-of-iraq-launches-a-large-scale-mi
 
 ### [2014-05-9](/news/2014/05/9/index.md)
 
-##### federal government
+##### Federal government
 # The government of Iraq launches a large-scale military operation to regain control of Fallujah from anti-government fighters. 
 
 

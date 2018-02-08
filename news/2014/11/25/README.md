@@ -3,23 +3,23 @@ Formats: [HTML](2014/11/25/index.html)  [JSON](2014/11/25/index.json)  [XML](201
 
 ## [2014-11-25](/news/2014/11/25/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 ### [A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. ](/news/2014/11/25/a-joint-operation-by-u-s-and-yemeni-special-operations-forces-on-an-al-qaeda-hideout-in-eastern-yemen-rescues-8-hostages-and-leaves-7-milit.md)
 The freed captives were six Yemeni citizens, a Saudi and an Ethiopian, who were unharmed, Yemeni officials said in a statement.
 
 ##### Islamic State in Iraq and the Levant
 ### [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md)
-_Context: Syrian Air Force, Raqqa, Islamic State in Iraq and the Levant_
+_Context: Islamic State in Iraq and the Levant, Raqqa, Syrian Air Force_
 
-##### suicide bomber
+##### Suicide bomber
 ### [Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northeastern-nigeria.md)
 They carried the bombs under their hijabs, detonating them in a double suicide attack.
 
 ##### Egypt
 ### [A block of flats collapses in the Egyptian capital Cairo killing at least 10 people. ](/news/2014/11/25/a-block-of-flats-collapses-in-the-egyptian-capital-cairo-killing-at-least-10-people.md)
-_Context: Cairo, Egypt_
+_Context: Egypt, Cairo_
 
-##### prime minister of Portugal
+##### Prime minister of Portugal
 ### [Portuguese police arrest the ex-prime minister of Portugal, Jose Socrates. They accuse him of corruption, fiscal fraud, and money laundering. ](/news/2014/11/25/portuguese-police-arrest-the-ex-prime-minister-of-portugal-josa-c-socrates-they-accuse-him-of-corruption-fiscal-fraud-and-money-launderin.md)
 {{ og_description }}
 
@@ -33,7 +33,7 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 
 ##### 2014 pro-democracy street protests
 ### [Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md)
-_Context: 2014 pro-democracy street protests, Mong Kok, Hong Kong_
+_Context: Hong Kong, 2014 pro-democracy street protests, Mong Kok_
 
 ## [Previous Day...](/news/2014/11/24/index.md)
 

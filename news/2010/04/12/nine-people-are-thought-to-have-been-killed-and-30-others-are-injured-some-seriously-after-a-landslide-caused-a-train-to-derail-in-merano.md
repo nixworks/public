@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/12/nine-people-are-thought-to-have-been-killed-and
 
 ### [2010-04-12](/news/2010/04/12/index.md)
 
-##### caused a train to derail
+##### Caused a train to derail
 # Nine people are thought to have been killed and 30 others are injured, some seriously, after a landslide caused a train to derail in Merano, near the Austrian border with Italy. 
 
 At least nine people killed as train crashes near northern town of Merano.

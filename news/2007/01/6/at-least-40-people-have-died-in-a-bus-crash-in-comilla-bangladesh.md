@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/6/at-least-40-people-have-died-in-a-bus-crash-in-c
 
 ### [2007-01-6](/news/2007/01/6/index.md)
 
-##### bus crash
+##### Bus crash
 #  At least 40 people have died in a bus crash in Comilla, Bangladesh. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/23/the-icebreaker-cruise-ship-explorer-6-sinks-in-
 
 ### [2007-11-23](/news/2007/11/23/index.md)
 
-##### icebreaker
+##### Icebreaker
 #  The icebreaker-cruise ship Explorer 6 sinks in the Southern Ocean after striking an iceberg. Everyone aboard is rescued.
 
 

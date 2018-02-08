@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/6/a-ban-on-the-display-of-tobacco-products-by-reta
 
 ### [2012-04-6](/news/2012/04/6/index.md)
 
-##### tobacco products
+##### Tobacco products
 # A ban on the display of tobacco products by retailers comes into force in England. Lawmakers hope it will lead to a reduction in the number of young people taking up smoking. 
 
 A ban on tobacco displays is coming into force in England - with ministers promising it will help curb the number of young people taking up smoking.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/14/nigerian-general-election-nigerian-voters-go-to
 
 ### [2007-04-14](/news/2007/04/14/index.md)
 
-##### presidential election
+##### Presidential election
 #  Nigerian general election: Nigerian voters go to the polls for state governor and legislative elections. Security is tight in the northern city of Kano following the murder of militant Islamic cleric Ustaz Ja'afar Adam. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/6/the-price-of-nickel-swings-wildly-after-philippi
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
-##### nickel
+##### Nickel
 # The price of nickel swings wildly after Philippines environment secretary Gina Lopez announces plans to close existing mines in the country. 
 
 Nickel fell the most in eight weeks on speculation that the government may take longer than expected to close mines that don’t meet environmental rules in the Philippines, the biggest supplier of ore to China.

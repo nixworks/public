@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/10/three-prisoners-commit-suicide-at-guantanamo-ba
 
 ### [2006-06-10](/news/2006/06/10/index.md)
 
-##### commit suicide
+##### Commit suicide
 #  Three prisoners commit suicide at Guantanamo Bay detainment camp in protest against the internationally criticized conditions at the camp. Human rights organizations express concern.
 
 

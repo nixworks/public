@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/10/ten-to-fifteen-security-personnel-are-taken-hos
 
 ### [2009-10-10](/news/2009/10/10/index.md)
 
-##### taken hostage
+##### Taken hostage
 #  Ten to fifteen security personnel are taken hostage by militants after an attack on Pakistan's military headquarters in Islamabad. 
 
 Fifteen people were taken hostage in a terrorist attack on Pakistan&#039;s main army headquarters on Saturday and six soldiers died in a shootout, as tensions rose ahead of an expected army offensive against a Taliban stronghold.

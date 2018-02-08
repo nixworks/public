@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/30/venezuela-announces-it-will-suspend-the-sale-of
 
 ### [2015-11-30](/news/2015/11/30/index.md)
 
-##### landslide victory in the December 6 election
+##### Landslide victory in the December 6 election
 # Venezuela announces it will suspend the sale of alcoholic beverages, fireworks and weapons before Sunday's parliamentary elections, starting Friday at 6 p.m. until next Monday at 6 p.m. Civilian permits for the possession and use of firearms and knives will be also be suspended for the same period. 
 
 Venezuela will suspend the sale of alcoholic beverages, fireworks and weapons in anticipation of the upcoming parliamentary elections.

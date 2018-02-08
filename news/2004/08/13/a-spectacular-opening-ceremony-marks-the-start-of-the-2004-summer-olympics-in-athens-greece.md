@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/13/a-spectacular-opening-ceremony-marks-the-start-
 
 ### [2004-08-13](/news/2004/08/13/index.md)
 
-##### opening ceremony
+##### Opening ceremony
 #  A spectacular opening ceremony marks the start of the 2004 Summer Olympics in Athens, Greece. 
 
 

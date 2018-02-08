@@ -3,7 +3,7 @@ Formats: [HTML](2015/09/1/index.html)  [JSON](2015/09/1/index.json)  [XML](2015/
 
 ## [2015-09-1](/news/2015/09/1/index.md)
 
-##### destroyed
+##### Destroyed
 ### [The United Nations confirms the Islamic State of Iraq and the Levant has completely destroyed the Temple of Bel in Palmyra, Syria, after earlier reports that the structure was mostly intact. ](/news/2015/09/1/the-united-nations-confirms-the-islamic-state-of-iraq-and-the-levant-has-completely-destroyed-the-temple-of-bel-in-palmyra-syria-after-ear.md)
 Satellite analysis confirms the destruction of the most significant temple in the ancient Syrian city of Palmyra, the United Nations says.
 
@@ -23,13 +23,13 @@ A letter from the pontiff has triggered a debate ahead of his U.S. trip.
 ### [Wikipedia concludes a large-scale operation blocking hundreds of users centered on networks of for-pay edits violating the encyclopedia's guidelines. ](/news/2015/09/1/wikipedia-concludes-a-large-scale-operation-blocking-hundreds-of-users-centered-on-networks-of-for-pay-edits-violating-the-encyclopedia-s-gu.md)
 Rogue editors charged businesses and celebrities for Wikipedia entries and demanded ‘protection money’ to prevent changes online
 
-##### chemical plant
+##### Chemical plant
 ### [A chemical plant owned by the Shandong Binyuan Chemical Company explodes in the Chinese city of Dongying in the coastal Shandong province, killing at least one person with the extent of other injuries unknown. ](/news/2015/09/1/a-chemical-plant-owned-by-the-shandong-binyuan-chemical-company-explodes-in-the-chinese-city-of-dongying-in-the-coastal-shandong-province-k.md)
 At least one person has been reported dead in yet another
 
 ##### Legionnaires' disease
 ### [The death toll from a Legionnaires' disease outbreak at a Quincy, Illinois veterans home rises to at least seven with more than the current number of 32 sickened expected since the incubation period for illness can be up to two weeks. ](/news/2015/09/1/the-death-toll-from-a-legionnaires-disease-outbreak-at-a-quincy-illinois-veterans-home-rises-to-at-least-seven-with-more-than-the-current.md)
-_Context: Legionnaires' disease, Quincy, Illinois_
+_Context: Quincy, Illinois, Legionnaires' disease_
 
 ##### European migrant crisis
 ### [Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trains-to-other-european-capi.md)
@@ -53,7 +53,7 @@ Guatemalan President Otto Perez Molina rejected accusations by the attorney gene
 
 ##### New Zealand flag debate
 ### [Four alternatives to the current New Zealand flag are chosen for a Spring referendum (20 November - 11 December 2015) in which New Zealanders will determine their favorite of the new designs. ](/news/2015/09/1/four-alternatives-to-the-current-new-zealand-flag-are-chosen-for-a-spring-referendum-20-november-a-11-december-2015-in-which-new-zealand.md)
-_Context: New Zealand flag, New Zealand flag debate, New Zealanders_
+_Context: New Zealand flag debate, New Zealanders, New Zealand flag_
 
 ##### Russia
 ### [A law affecting online personal computer data storage comes into force in Russia. ](/news/2015/09/1/a-law-affecting-online-personal-computer-data-storage-comes-into-force-in-russia.md)

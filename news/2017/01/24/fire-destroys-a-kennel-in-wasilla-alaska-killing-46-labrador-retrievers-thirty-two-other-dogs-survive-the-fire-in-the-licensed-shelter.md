@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/24/fire-destroys-a-kennel-in-wasilla-alaska-killin
 
 ### [2017-01-24](/news/2017/01/24/index.md)
 
-##### kennel
+##### Kennel
 #  Fire destroys a kennel in Wasilla, Alaska, killing 46 Labrador Retrievers. Thirty-two other dogs survive the fire in the licensed shelter. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/5/the-last-transit-of-venus-of-the-21st-century-be
 
 ### [2012-06-5](/news/2012/06/5/index.md)
 
-##### transit of Venus
+##### Transit of Venus
 # The last transit of Venus of the 21st century begins at 22:09 UTC on June 5, and ends at 04:49 UTC on June 6. 
 
 Planet Venus puts on a show for skywatchers by moving across the face of the Sun, a transit that will not be seen again for another 105 years.

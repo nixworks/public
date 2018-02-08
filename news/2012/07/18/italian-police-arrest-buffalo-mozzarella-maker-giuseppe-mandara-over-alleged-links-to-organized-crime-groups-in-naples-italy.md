@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/18/italian-police-arrest-buffalo-mozzarella-maker-
 
 ### [2012-07-18](/news/2012/07/18/index.md)
 
-##### buffalo mozzarella
+##### Buffalo mozzarella
 # Italian police arrest buffalo mozzarella maker Giuseppe Mandara over alleged links to organized crime groups in Naples, Italy. 
 
 Italian police have arrested the head of the biggest buffalo mozzarella maker in the country and seized assets worth 100 million euros ($120.47 million) on suspicion of links to organised crime.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/15/a-u-s-federal-judge-overturns-a-ban-on-same-sex
 
 ### [2014-02-15](/news/2014/02/15/index.md)
 
-##### same-sex marriage in Virginia
+##### Same-sex marriage in Virginia
 # A U.S. federal judge overturns a ban on same-sex marriage in Virginia. 
 
 Judge Arenda Wright Allen issued a stay of her order while it is appealed, meaning that gay couples in Virginia will still not be able to marry until the case is ultimately resolved.

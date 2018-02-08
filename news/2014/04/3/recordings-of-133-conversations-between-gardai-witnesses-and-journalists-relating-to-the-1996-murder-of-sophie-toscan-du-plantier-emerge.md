@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/3/recordings-of-133-conversations-between-gardai-w
 
 ### [2014-04-3](/news/2014/04/3/index.md)
 
-##### garda
+##### Garda
 # Recordings of 133 conversations between garda, witnesses and journalists relating to the 1996 murder of Sophie Toscan du Plantier emerge. 
 
 More than 130 separate tape-recorded conversations have emerged between gardaí, witnesses and journalists relating exclusively to the Sophie Toscan du Plantier murder case, RTÉ&#39;s This Week has learned.

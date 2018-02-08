@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/24/palestinian-militants-kill-an-israeli-in-drive-
 
 ### [2005-06-24](/news/2005/06/24/index.md)
 
-##### drive-by shooting
+##### Drive-by shooting
 #  Palestinian militants kill an Israeli in drive-by shooting near the Israeli settlement of Beit Haggai, in the West Bank outside Hebron. 
 
 

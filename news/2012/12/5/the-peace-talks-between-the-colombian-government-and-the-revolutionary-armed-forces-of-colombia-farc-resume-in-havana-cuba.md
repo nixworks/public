@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/5/the-peace-talks-between-the-colombian-government
 
 ### [2012-12-5](/news/2012/12/5/index.md)
 
-##### government
+##### Government
 # The peace talks between the Colombian government and the Revolutionary Armed Forces of Colombia (FARC) resume in Havana, Cuba. 
 
 

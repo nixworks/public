@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/18/police-shoot-tear-gas-at-thousands-of-people-de
 
 ### [2011-02-18](/news/2011/02/18/index.md)
 
-##### tear gas
+##### Tear gas
 # Police shoot tear gas at thousands of people demonstrating against the Ismail Omar Guelleh regime in Djibouti. 
 
 Police use tear gas to disperse thousands demonstrating in East African nation to demand Ismail Omar Guelleh step down.

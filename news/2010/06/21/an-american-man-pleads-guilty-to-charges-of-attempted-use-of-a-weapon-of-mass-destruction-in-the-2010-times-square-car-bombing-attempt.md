@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/21/an-american-man-pleads-guilty-to-charges-of-att
 
 ### [2010-06-21](/news/2010/06/21/index.md)
 
-##### weapon of mass destruction
+##### Weapon of mass destruction
 # An American man pleads guilty to charges of attempted use of a weapon of mass destruction in the 2010 Times Square car bombing attempt. 
 
 

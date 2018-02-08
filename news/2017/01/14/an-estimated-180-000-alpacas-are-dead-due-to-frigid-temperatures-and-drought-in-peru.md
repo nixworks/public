@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/14/an-estimated-180-000-alpacas-are-dead-due-to-fr
 
 ### [2017-01-14](/news/2017/01/14/index.md)
 
-##### alpaca
+##### Alpaca
 # An estimated 180,000 alpacas are dead due to frigid temperatures and drought in Peru. 
 
 Unseasonably low temperatures and drought responsible for the animals’ deaths.

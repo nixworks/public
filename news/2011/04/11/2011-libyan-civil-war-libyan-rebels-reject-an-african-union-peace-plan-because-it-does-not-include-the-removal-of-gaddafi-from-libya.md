@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/11/2011-libyan-civil-war-libyan-rebels-reject-an-a
 
 ### [2011-04-11](/news/2011/04/11/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Libyan rebels reject an African Union peace plan because it does not include the removal of Gaddafi from Libya. 
 
 Libyan rebels rejected an African Union peace plan on Monday because it did not address their main demand that Muammar Gaddafi quit and because it proposed reforming a ruling system they want removed.

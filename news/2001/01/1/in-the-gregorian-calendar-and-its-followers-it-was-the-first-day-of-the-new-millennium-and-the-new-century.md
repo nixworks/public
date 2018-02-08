@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/01/1/in-the-gregorian-calendar-and-its-followers-it-w
 
 ### [2001-01-1](/news/2001/01/1/index.md)
 
-##### millennium
+##### Millennium
 #  In the Gregorian calendar and its followers, it was the first day of the new millennium and the new century.
 
 

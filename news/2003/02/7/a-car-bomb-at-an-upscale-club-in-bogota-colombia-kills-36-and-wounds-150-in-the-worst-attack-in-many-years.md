@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/7/a-car-bomb-at-an-upscale-club-in-bogota-colombia
 
 ### [2003-02-7](/news/2003/02/7/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb at an upscale club in Bogota, Colombia kills 36 and wounds 150 in the worst attack in many years.
 
 

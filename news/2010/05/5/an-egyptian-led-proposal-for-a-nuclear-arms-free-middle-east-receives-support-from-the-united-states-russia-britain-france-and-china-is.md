@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/5/an-egyptian-led-proposal-for-a-nuclear-arms-free
 
 ### [2010-05-5](/news/2010/05/5/index.md)
 
-##### nuclear arms
+##### Nuclear arms
 # An Egyptian-led proposal for a nuclear arms free Middle East receives support from the United States, Russia, Britain, France, and China. Israel is the only Middle Eastern nation believed to possess nuclear weapons. 
 
 The United States, Russia, Britain, France and China voiced support on Wednesday for making the Middle East a nuclear-weapons-free zone, which would ultimately force Israel to scrap any atomic arms it has.

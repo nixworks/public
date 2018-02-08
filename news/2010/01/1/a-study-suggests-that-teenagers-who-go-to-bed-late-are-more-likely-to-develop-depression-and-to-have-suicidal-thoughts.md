@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/1/a-study-suggests-that-teenagers-who-go-to-bed-la
 
 ### [2010-01-1](/news/2010/01/1/index.md)
 
-##### depression
+##### Depression
 #  A study suggests that teenagers who go to bed late are more likely to develop depression and to have suicidal thoughts. 
 
 

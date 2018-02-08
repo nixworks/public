@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/13/the-government-of-the-people-s-republic-of-chin
 
 ### [2010-01-13](/news/2010/01/13/index.md)
 
-##### government
+##### Government
 # The Government of the People's Republic of China responds to Google's refusal to continue censorship of search results. 
 
 

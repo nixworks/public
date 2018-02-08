@@ -17,11 +17,11 @@ _Context: President, War in Somalia (2009-present), Mogadishu, Al-Shabaab_
 
 ##### Typhoon Neoguri
 ### [Typhoon Neoguri heads towards the southern Japanese island of Okinawa with 100,000 on the island and adjacent islands urged to evacuate. ](/news/2014/07/8/typhoon-neoguri-heads-towards-the-southern-japanese-island-of-okinawa-with-100-000-on-the-island-and-adjacent-islands-urged-to-evacuate.md)
-_Context: Japan, Okinawa, Typhoon Neoguri_
+_Context: Okinawa, Japan, Typhoon Neoguri_
 
 ##### South Africa
 ### [More than 50 people are injured after two trains collide near the South African city of Durban. ](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.md)
-_Context: South Africa, Durban_
+_Context: Durban, South Africa_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md)
@@ -39,11 +39,11 @@ _Context: Sao Paulo, Brazil_
 ### [A jury acquits Rengan Rajaratnam after a trial on insider trading charges in U.S. District Court in New York City. ](/news/2014/07/8/a-jury-acquits-rengan-rajaratnam-after-a-trial-on-insider-trading-charges-in-u-s-district-court-in-new-york-city.md)
 Rengan Rajaratnam, the brother of Galleon Group LLC co-founder Raj Rajaratnam, became the first of at least 88 people charged in a federal crackdown on insider trading to escape conviction.
 
-##### pro-US
+##### Pro-US
 ### [Around 70 pro-US activists occupy Taiwan provincial government hall. ](/news/2014/07/8/around-70-pro-us-activists-occupy-taiwan-provincial-government-hall.md)
 _Context: pro-US, Taiwan provincial_
 
-##### several spending scandals
+##### Several spending scandals
 ### [Amidst several spending scandals, the French major opposition party Union for a Popular Movement is discovered to have an hidden debt of EUR79.1 millions for the year 2013 ](/news/2014/07/8/amidst-several-spending-scandals-the-french-major-opposition-party-union-for-a-popular-movement-is-discovered-to-have-an-hidden-debt-of-a.md)
 _Context: UMP, several spending scandals_
 

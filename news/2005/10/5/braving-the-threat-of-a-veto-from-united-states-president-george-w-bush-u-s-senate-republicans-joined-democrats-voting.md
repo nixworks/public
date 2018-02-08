@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/5/braving-the-threat-of-a-veto-from-united-states-
 
 ### [2005-10-5](/news/2005/10/5/index.md)
 
-##### veto
+##### Veto
 #  Braving the threat of a veto from United States President George W. Bush, U.S. Senate Republicans joined Democrats, voting 
 
 

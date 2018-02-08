@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/13/a-major-earthquake-measuring-approximately-8-2-
 
 ### [2007-01-13](/news/2007/01/13/index.md)
 
-##### earthquake
+##### Earthquake
 #  A major earthquake measuring approximately 8.2 magnitude occurs in the north-western Pacific Ocean at 04:23:20 UTC. A tsunami is detected and a warning is issued for Russia, Japan, Marcus Island, Wake Island, Midway Island, Northern Mariana Islands, Guam, Marshall Islands, Taiwan, Yap, Pohnpei, and Chuuk. 
 
 

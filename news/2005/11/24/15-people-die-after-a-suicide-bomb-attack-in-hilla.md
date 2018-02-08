@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/24/15-people-die-after-a-suicide-bomb-attack-in-hi
 
 ### [2005-11-24](/news/2005/11/24/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  15 people die after a suicide bomb attack in Hilla. 
 
 

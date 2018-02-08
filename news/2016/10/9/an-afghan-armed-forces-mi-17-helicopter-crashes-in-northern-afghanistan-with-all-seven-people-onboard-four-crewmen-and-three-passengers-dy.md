@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/9/an-afghan-armed-forces-mi-17-helicopter-crashes-
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
-##### military personnel
+##### Military personnel
 # An Afghan Armed Forces Mi-17 helicopter crashes in northern Afghanistan with all seven people onboard, four crewmen and three passengers, dying. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/26/a-car-bomb-in-baghdad-kills-at-least-25-iraqis-
 
 ### [2007-07-26](/news/2007/07/26/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in Baghdad kills at least 25 Iraqis and injures at least 50 more. 
 
 A powerful car bomb has rocked central Baghdad, killing at least 25 bystanders, wounding more than 75 and destroying a row of shops in a busy commercial district.

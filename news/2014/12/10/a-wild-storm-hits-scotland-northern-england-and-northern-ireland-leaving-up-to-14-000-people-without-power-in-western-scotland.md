@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/10/a-wild-storm-hits-scotland-northern-england-and
 
 ### [2014-12-10](/news/2014/12/10/index.md)
 
-##### northern England
+##### Northern England
 # A wild storm hits Scotland, northern England and Northern Ireland leaving up to 14,000 people without power in western Scotland. 
 
 Power is restored to most homes in Scotland after being struck by a storm dubbed the weather bomb.

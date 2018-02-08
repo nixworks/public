@@ -23,7 +23,7 @@ Another body has been found after an explosion and fire ripped through at a Mary
 ### [Six people are injured by a knifeman who also set fire to a train at Salez, Switzerland. ](/news/2016/08/13/six-people-are-injured-by-a-knifeman-who-also-set-fire-to-a-train-at-salez-switzerland.md)
 A knifeman sets fire to a train in eastern Switzerland, leaving six people in hospital with stab wounds and burns, police say.
 
-##### muslim cleric
+##### Muslim cleric
 ### [A lone gunman shoots a Muslim cleric and an associate to death in the Ozone Park neighborhood of Queens, New York City. Both were still wearing religious garb following afternoon prayers. No arrests have been made. ](/news/2016/08/13/a-lone-gunman-shoots-a-muslim-cleric-and-an-associate-to-death-in-the-ozone-park-neighborhood-of-queens-new-york-city-both-were-still-wear.md)
 A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.
 

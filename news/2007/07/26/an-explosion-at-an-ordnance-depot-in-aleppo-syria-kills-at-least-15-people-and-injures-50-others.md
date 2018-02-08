@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syr
 
 ### [2007-07-26](/news/2007/07/26/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion at an ordnance depot in Aleppo, Syria kills at least 15 people and injures 50 others. 
 
 

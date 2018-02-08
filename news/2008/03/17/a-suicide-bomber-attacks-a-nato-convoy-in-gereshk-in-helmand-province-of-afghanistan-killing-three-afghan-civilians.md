@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/17/a-suicide-bomber-attacks-a-nato-convoy-in-geres
 
 ### [2008-03-17](/news/2008/03/17/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber attacks a NATO convoy in Gereshk in Helmand province of Afghanistan, killing three Afghan civilians. 
 
 

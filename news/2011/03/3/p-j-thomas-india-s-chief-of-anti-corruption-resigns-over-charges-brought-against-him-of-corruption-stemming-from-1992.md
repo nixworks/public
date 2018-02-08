@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/3/p-j-thomas-india-s-chief-of-anti-corruption-resi
 
 ### [2011-03-3](/news/2011/03/3/index.md)
 
-##### anti-corruption
+##### Anti-corruption
 # P. J. Thomas, India's chief of anti-corruption, resigns over charges brought against him of corruption stemming from 1992. 
 
 

@@ -5,15 +5,15 @@ Formats: [HTML](2009/04/4/index.html)  [JSON](2009/04/4/index.json)  [XML](2009/
 
 ##### Llaima
 ### [ The Llaima volcano in Chile begins emitting lava and ash, prompting evacuations and landslide warnings. ](/news/2009/04/4/the-llaima-volcano-in-chile-begins-emitting-lava-and-ash-prompting-evacuations-and-landslide-warnings.md)
-_Context: erupts, Llaima, Chile, landslide, volcano, lava, evacuation centers, ash, warnings_
+_Context: volcano, Llaima, warnings, evacuation centers, lava, erupts, Chile, ash, landslide_
 
-##### police officers
+##### Police officers
 ### [ Three police officers are killed in Pittsburgh, Pennsylvania, United States. ](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-pennsylvania-united-states.md)
-_Context: police officers, Pittsburgh, Pennsylvania, killed, United States_
+_Context: Pennsylvania, police officers, killed, United States, Pittsburgh_
 
 ##### Organisation for Economic Co-operation and Development
 ### [ The Organisation for Economic Co-operation and Development blacklists Costa Rica, Malaysia and the Philippines as non-cooperative tax havens. ](/news/2009/04/4/the-organisation-for-economic-co-operation-and-development-blacklists-costa-rica-malaysia-and-the-philippines-as-non-cooperative-tax-haven.md)
-_Context: Malaysia, Organisation for Economic Co-operation and Development, Costa Rica, Philippines, blacklists, tax haven_
+_Context: tax haven, blacklists, Philippines, Costa Rica, Organisation for Economic Co-operation and Development, Malaysia_
 
 ##### United States
 ### [ A U.S. drone aircraft's missile kills 13 people in North Waziristan, Pakistan. ](/news/2009/04/4/a-u-s-drone-aircraft-s-missile-kills-13-people-in-north-waziristan-pakistan.md)
@@ -23,17 +23,17 @@ Reports from Pakistan say a US drone aircraft has fired a missile in the country
 ### [ Danish Prime Minister Anders Fogh Rasmussen will become NATO's Secretary General on August 1. ](/news/2009/04/4/danish-prime-minister-anders-fogh-rasmussen-will-become-nato-s-secretary-general-on-august-1.md)
 NATO leaders agreed unanimously on Saturday to appoint Danish Prime Minister Anders Fogh Rasmussen as the next head of the alliance after Turkey dropped its objections. NATO Secretary-General Jaap de Hoop Scheffer told a joint news conference with Rasmussen: &quot;You know that there has been discus...
 
-##### paramilitary soldiers
+##### Paramilitary soldiers
 ### [ Six Frontier Corpsmen are killed during a suicide attack in Islamabad, Pakistan. ](/news/2009/04/4/six-frontier-corpsmen-are-killed-during-a-suicide-attack-in-islamabad-pakistan.md)
-_Context: Islamabad, paramilitary soldiers, killed, Pakistan, suicide attack_
+_Context: killed, Pakistan, suicide attack, Islamabad, paramilitary soldiers_
 
 ##### Mon Mome
 ### [ Mon Mome wins the 2009 Grand National in Aintree, England. ](/news/2009/04/4/mon-mome-wins-the-2009-grand-national-in-aintree-england.md)
-_Context: Aintree, Grand National, Mon Mome, 2009, England_
+_Context: Aintree, Grand National, 2009, Mon Mome, England_
 
 ##### Balochistan Liberation United Front
 ### [ The Balochistan Liberation United Front releases United Nations official John Solecki from captivity in Quetta, Pakistan. ](/news/2009/04/4/the-balochistan-liberation-united-front-releases-united-nations-official-john-solecki-from-captivity-in-quetta-pakistan.md)
-_Context: John Solecki, Quetta, Pakistan, official, Balochistan Liberation United Front, captivity, United Nations_
+_Context: Pakistan, Quetta, Balochistan Liberation United Front, official, captivity, United Nations, John Solecki_
 
 ## [Previous Day...](/news/2009/04/3/index.md)
 

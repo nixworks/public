@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/16/the-british-government-is-reported-to-be-consid
 
 ### [2004-07-16](/news/2004/07/16/index.md)
 
-##### decriminalization
+##### Decriminalization
 #  The British government is reported to be considering the decriminalization of activities relating to prostitution, including the possibility of legal brothels. 
 
 

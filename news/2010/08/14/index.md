@@ -13,13 +13,13 @@ _Context: Kashmir_
 
 ##### Balochistan
 ### [16 people are killed by gunmen in the Balochistan province of Pakistan in the towns of Aab-e-Ghum and Quetta. ](/news/2010/08/14/16-people-are-killed-by-gunmen-in-the-balochistan-province-of-pakistan-in-the-towns-of-aab-e-ghum-and-quetta.md)
-_Context: Pakistan, Balochistan, Quetta, Aab-e-Ghum_
+_Context: Quetta, Balochistan, Pakistan, Aab-e-Ghum_
 
 ##### Puntland
 ### [9 people are killed during clashes in Puntland. ](/news/2010/08/14/9-people-are-killed-during-clashes-in-puntland.md)
 _Context: Puntland_
 
-##### Lebanon
+##### Lebanese
 ### [Lebanon fatally shoots and kills Abd-al-Rahman Awad, the suspected leader of Fatah al-Islam. ](/news/2010/08/14/lebanon-fatally-shoots-and-kills-abd-al-rahman-awad-the-suspected-leader-of-fatah-al-islam.md)
 Lebanese security officials say they have killed the suspected leader of the militant Sunni Islamist group Fatah al-Islam.
 
@@ -29,15 +29,15 @@ Attacks on checkpoints leave at least six officers dead in Baghdad.
 
 ##### Buffalo
 ### [4 people are fatally shot outside a Buffalo restaurant in the U.S. state of New York, with 3 others sustaining injuries. ](/news/2010/08/14/4-people-are-fatally-shot-outside-a-buffalo-restaurant-in-the-u-s-state-of-new-york-with-3-others-sustaining-injuries.md)
-_Context: New York, Buffalo, U.S. state_
+_Context: U.S. state, New York, Buffalo_
 
-##### wheelie bin
+##### Wheelie bin
 ### [3 children are wounded after a wheelie bin explodes in Lurgan, County Armagh. ](/news/2010/08/14/3-children-are-wounded-after-a-wheelie-bin-explodes-in-lurgan-county-armagh.md)
 Police investigating suspicious packages in Lurgan, County Armagh, are attacked with petrol bombs.
 
 ##### UNAMID
 ### [Two UNAMID peacekeepers are abducted by armed men in Nyala in the Darfur region of Sudan. ](/news/2010/08/14/two-unamid-peacekeepers-are-abducted-by-armed-men-in-nyala-in-the-darfur-region-of-sudan.md)
-_Context: UNAMID, Nyala, Sudan, Darfur_
+_Context: Sudan, Nyala, Darfur, UNAMID_
 
 ##### Hungary
 ### [Hungarian actress Zsa Zsa Gabor is rehospitalised for an operation days after her release. ](/news/2010/08/14/hungarian-actress-zsa-zsa-gabor-is-rehospitalised-for-an-operation-days-after-her-release.md)
@@ -45,11 +45,11 @@ _Context: Hungary, Zsa Zsa Gabor_
 
 ##### Google
 ### [A rally takes place outside Google's offices in the U.S. state of California against a proposal to change online data treatment. ](/news/2010/08/14/a-rally-takes-place-outside-google-s-offices-in-the-u-s-state-of-california-against-a-proposal-to-change-online-data-treatment.md)
-_Context: Google, California, U.S. state_
+_Context: U.S. state, California, Google_
 
 ##### Gabon
 ### [Gabon signs over US$4 billion of contracts with Indian and Singaporean companies for infrastructure projects, on the eve of the country's 50th anniversary since independence. ](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.md)
-_Context: India, Singapore, $, Gabon_
+_Context: Singapore, $, Gabon, India_
 
 ##### United Nations
 ### [The United Nations states Niger faces its worst hunger crisis in history, worse than 2005 when thousands of people were left to starve to death. ](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.md)
@@ -73,7 +73,7 @@ Nine people have been taken to hospital after part of a bridge collapsed in nort
 
 ##### California 200
 ### [Eight people are killed and 12 injured as a vehicle runs into a crowd during the California 200 Off-road racing event near Lucerne Valley, California. ](/news/2010/08/14/eight-people-are-killed-and-12-injured-as-a-vehicle-runs-into-a-crowd-during-the-california-200-off-road-racing-event-near-lucerne-valley-c.md)
-_Context: California, Off-road racing, Lucerne Valley, California 200_
+_Context: Off-road racing, California, Lucerne Valley, California 200_
 
 ##### United Arab Emirates
 ### [Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who-has-been-linked-with-the.md)
@@ -85,7 +85,7 @@ _Context: Gaza Strip, United Nations, United Nations Fact Finding Mission on the
 
 ##### Fiji
 ### [Fiji announces that it seeks observer status in ASEAN after its suspension from the Pacific Islands Forum was extended. Timor-Leste seeks to become a member of the Melanesian Spearhead Group. ](/news/2010/08/14/fiji-announces-that-it-seeks-observer-status-in-asean-after-its-suspension-from-the-pacific-islands-forum-was-extended-timor-leste-seeks-to.md)
-_Context: Pacific Islands Forum, Timor-Leste, Fiji, ASEAN, Melanesian Spearhead Group_
+_Context: ASEAN, Fiji, Melanesian Spearhead Group, Pacific Islands Forum, Timor-Leste_
 
 ##### Jean-Marie Le Pen
 ### [European politicians, including Jean-Marie Le Pen and Adam Walker, visit Yasukuni Shrine in Chiyoda, Tokyo; visits to this shrine have traditionally been a sensitive point in international politics between Japan, Korea, and China. ](/news/2010/08/14/european-politicians-including-jean-marie-le-pen-and-adam-walker-visit-yasukuni-shrine-in-chiyoda-tokyo-visits-to-this-shrine-have-tradi.md)
@@ -93,11 +93,11 @@ British and Japanese ultranationalists will shrug off protests from war veterans
 
 ##### Spain
 ### [Spain extradites Rifat Hadziahmetovic, an alleged member of the Pink Panthers, to Japan in relation to a 2007 jewel robbery in Tokyo. ](/news/2010/08/14/spain-extradites-rifat-hadziahmetovic-an-alleged-member-of-the-pink-panthers-to-japan-in-relation-to-a-2007-jewel-robbery-in-tokyo.md)
-_Context: Japan, Pink Panthers, Spain, Rifat Hadziahmetovic, Tokyo, extradited_
+_Context: Spain, Tokyo, Japan, extradited, Pink Panthers, Rifat Hadziahmetovic_
 
 ##### United States
 ### [United States prosecutors are investigating whether the Louis Berger Group overcharged the U.S. Agency for International Development for foreign aid projects. ](/news/2010/08/14/united-states-prosecutors-are-investigating-whether-the-louis-berger-group-overcharged-the-u-s-agency-for-international-development-for-for.md)
-_Context: United States, Louis Berger Group, U.S. Agency for International Development, foreign aid, prosecutor_
+_Context: U.S. Agency for International Development, foreign aid, prosecutor, United States, Louis Berger Group_
 
 ##### Somalia
 ### [A court in Somalia imprisons for six years and fines $500 radio journalist Abdifatah Jama Mire for the broadcast of an interview with a militia leader in Puntland. ](/news/2010/08/14/a-court-in-somalia-imprisons-for-six-years-and-fines-500-radio-journalist-abdifatah-jama-mire-for-the-broadcast-of-an-interview-with-a-mili.md)
@@ -105,7 +105,7 @@ Puntland court jails journalist for interviewing Muslim leader with ties to figh
 
 ##### Venice
 ### [A court in Venice frees Nizamettin Toguc, a senior member of the Kurdistan Workers' Party (PKK) wanted by Turkey. ](/news/2010/08/14/a-court-in-venice-frees-nizamettin-toauass-a-senior-member-of-the-kurdistan-workers-party-pkk-wanted-by-turkey.md)
-_Context: Turkey, Kurdistan Workers' Party, Nizamettin Toguc, Venice_
+_Context: Kurdistan Workers' Party, Venice, Turkey, Nizamettin Toguc_
 
 ##### Azerbaijan
 ### [Several political parties in Azerbaijan release a statement criticising the ruling of Baku Yasamal Court against 15 Shia Muslims, arrested in February while practising their religion in Baku. ](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.md)
@@ -129,7 +129,7 @@ A Sri Lankan government war inquiry hears testimonies from Tamils who allege the
 
 ##### Purdue University
 ### [Data from a study at Purdue University suggest that the 2010 Haiti earthquake was caused by a previously unknown fault line, as opposed to the Enriquillo Fault Line as was initially presumed. ](/news/2010/08/14/data-from-a-study-at-purdue-university-suggest-that-the-2010-haiti-earthquake-was-caused-by-a-previously-unknown-fault-line-as-opposed-to-t.md)
-_Context: Purdue University, 2010 Haiti earthquake, Enriquillo Fault Line_
+_Context: 2010 Haiti earthquake, Enriquillo Fault Line, Purdue University_
 
 ## [Previous Day...](/news/2010/08/13/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/5/a-state-of-emergency-is-declared-in-guatemala-af
 
 ### [2010-09-5](/news/2010/09/5/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in Guatemala after heavy rains and landslides kill at least 18 people. 
 
 A state of emergency is declared in Guatemala where heavy rain has caused widespread flooding and landslides, killing at least 20 people.

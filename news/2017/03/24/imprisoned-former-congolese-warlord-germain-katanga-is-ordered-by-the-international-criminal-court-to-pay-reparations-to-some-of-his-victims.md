@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/24/imprisoned-former-congolese-warlord-germain-kat
 
 ### [2017-03-24](/news/2017/03/24/index.md)
 
-##### warlord
+##### Warlord
 # Imprisoned former Congolese warlord Germain Katanga is ordered by the International Criminal Court to pay reparations to some of his victims in the first such ruling by the court. 
 
 

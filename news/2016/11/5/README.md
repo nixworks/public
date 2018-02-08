@@ -9,9 +9,9 @@ Syrian rebels and civilians refuse to leave the besieged city of Aleppo as a cea
 
 ##### Joko Widodo
 ### [Joko Widodo, the President of Indonesia, cancels a planned visit to Australia following violent protests in Jakarta that resulted in one death and 12 injured. ](/news/2016/11/5/joko-widodo-the-president-of-indonesia-cancels-a-planned-visit-to-australia-following-violent-protests-in-jakarta-that-resulted-in-one-dea.md)
-_Context: Joko Widodo, Australia, Jakarta, President of Indonesia_
+_Context: President of Indonesia, Australia, Joko Widodo, Jakarta_
 
-##### drug crackdown
+##### Drug crackdown
 ### [The mayor of Albuera, Leyte, accused of drug trafficking, is shot dead in jail. ](/news/2016/11/5/the-mayor-of-albuera-leyte-accused-of-drug-trafficking-is-shot-dead-in-jail.md)
 A mayor linked to the drugs trade in the Philippines is shot dead in his prison cell by police.
 
@@ -19,7 +19,7 @@ A mayor linked to the drugs trade in the Philippines is shot dead in his prison 
 ### [Kohlhepp, a man arrested in the American state of South Carolina for keeping a missing woman "chained like a dog", has reportedly confessed to seven murders, including four killed in an unsolved mass shooting at a motorcycle shop in 2003. ](/news/2016/11/5/kohlhepp-a-man-arrested-in-the-american-state-of-south-carolina-for-keeping-a-missing-woman-chained-like-a-dog-has-reportedly-confessed.md)
 Todd Kohlhepp, who is accused of holding Kala Brown captive and chained to storage container, allegedly confessed to murdering four people in the Superbike case
 
-##### rape
+##### Rape
 ### [A woman who was allegedly raped by Donald Trump drops her lawsuit against the presidential candidate. ](/news/2016/11/5/a-woman-who-was-allegedly-raped-by-donald-trump-drops-her-lawsuit-against-the-presidential-candidate.md)
 A woman who was suing Republican presidential candidate Donald Trump for allegedly tying her to a bed and raping her while she was a teenager in 1994 has backed off her accusations, Politico reported.
 

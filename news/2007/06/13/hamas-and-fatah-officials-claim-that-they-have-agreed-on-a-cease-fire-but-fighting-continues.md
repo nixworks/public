@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/13/hamas-and-fatah-officials-claim-that-they-have-
 
 ### [2007-06-13](/news/2007/06/13/index.md)
 
-##### cease-fire
+##### Cease-fire
 #  Hamas and Fatah officials claim that they have agreed on a cease-fire, but fighting continues. 
 
 

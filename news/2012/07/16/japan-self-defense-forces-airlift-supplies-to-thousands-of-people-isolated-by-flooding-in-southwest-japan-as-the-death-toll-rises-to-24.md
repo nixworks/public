@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/16/japan-self-defense-forces-airlift-supplies-to-t
 
 ### [2012-07-16](/news/2012/07/16/index.md)
 
-##### military
+##### Military
 # Japan Self-Defense Forces airlift supplies to thousands of people isolated by flooding in southwest Japan, as the death toll rises to 24. 
 
 

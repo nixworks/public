@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allo
 
 ### [2013-03-29](/news/2013/03/29/index.md)
 
-##### electronic music
+##### Electronic music
 # The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". 
 
 

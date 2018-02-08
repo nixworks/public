@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/2/index.html)  [JSON](2015/05/2/index.json)  [XML](2015/
 
 ##### 2015 West African offensive
 ### [2015 West African offensive: The Nigerian Armed Forces announce they rescued another 234 women and girls from Boko Haram control in the Sambisa Forest on April 30. ](/news/2015/05/2/2015-west-african-offensive-the-nigerian-armed-forces-announce-they-rescued-another-234-women-and-girls-from-boko-haram-control-in-the-samb.md)
-_Context: 2015 West African offensive, Nigerian Armed Forces, Sambisa Forest, Boko Haram_
+_Context: Nigerian Armed Forces, Boko Haram, 2015 West African offensive, Sambisa Forest_
 
 ##### Burundi
 ### [Two policemen and a civilian are killed and three others injured after a grenade attack in Burundi's capital Bujumbura. The attack takes place a day after a similar incident injured three officers, and comes in the midst of intensifying protests against current president Pierre Nkurunziza. ](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.md)
@@ -27,7 +27,7 @@ Prince William says he and wife Catherine are &quot;very happy&quot; after the b
 ### [Fifteen people have had to be rescued from floodwaters as the town of Bellingen is likely to be cut off. ](/news/2015/05/2/fifteen-people-have-had-to-be-rescued-from-floodwaters-as-the-town-of-bellingen-is-likely-to-be-cut-off.md)
 Queensland has already copped a serious soaking and NSW will get its own this weekend, but forecasters are predicting the impending storms will not be as bad as the wild weather that devastated the east coast last month. 
 
-##### suspicions
+##### Suspicions
 ### [April 2015 Nepal earthquake: The death toll from last month's earthquake rises to 7,040 people and a total of 14,025 injured with thousands missing. Authorities in Nepal have given up hope of finding more survivors in the rubble. ](/news/2015/05/2/april-2015-nepal-earthquake-the-death-toll-from-last-month-s-earthquake-rises-to-7-040-people-and-a-total-of-14-025-injured-with-thousands.md)
 _Context: suspicions_
 
@@ -35,7 +35,7 @@ _Context: suspicions_
 ### [More than 2400 migrants have been rescued after boats they were travelling on were rescued off the Libyan coast. ](/news/2015/05/2/more-than-2400-migrants-have-been-rescued-after-boats-they-were-travelling-on-were-rescued-off-the-libyan-coast.md)
 _Context: Libya_
 
-##### lung cancer
+##### Lung cancer
 ### [New research has suggested lung cancer patients could benefit from the use of statin drugs. Dr. Chris Cardwell, Ph.D., and researchers at Queens University Belfast in Northern Ireland found lung cancer patients who used statins within a year of diagnosis had a reduced risk of death from the disease, the American Association for Cancer Research reported. To make their finding, the research team looked at data on about 14,000 patients who were newly diagnosed with lung cancer between the years of 1998 and 2009 and were a part of the English cancer registry. ](/news/2015/05/2/new-research-has-suggested-lung-cancer-patients-could-benefit-from-the-use-of-statin-drugs-dr-chris-cardwell-ph-d-and-researchers-at-qu.md)
 New research suggests lung cancer outcomes could be improved through statin use.
 
@@ -43,7 +43,7 @@ New research suggests lung cancer outcomes could be improved through statin use.
 ### [Thai police dig up a campsite in southern Thailand used by human traffickers with 30 grave sites. ](/news/2015/05/2/thai-police-dig-up-a-campsite-in-southern-thailand-used-by-human-traffickers-with-30-grave-sites.md)
 _Context: human trafficking, Thai police officers_
 
-##### the Maldives
+##### The Maldives
 ### [Authorities in the Maldives arrest three opposition leaders and nearly 200 citizens following violent protests yesterday calling for the resignation of President Yameen Abdul Gayoom. ](/news/2015/05/2/authorities-in-the-maldives-arrest-three-opposition-leaders-and-nearly-200-citizens-following-violent-protests-yesterday-calling-for-the-res.md)
 Sheikh Imran Abdulla detained and accused of attempting to overthrow regime amid clashes with police, as thousands march on capital
 

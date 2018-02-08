@@ -25,19 +25,19 @@ Oil prices fell on Monday on concerns about slowing growth in China and recessio
 
 ##### India
 ### [India's Kingfisher Airlines cancels at least 40 flights due to pilots not turning up for work due to unpaid salaries. ](/news/2012/03/12/india-s-kingfisher-airlines-cancels-at-least-40-flights-due-to-pilots-not-turning-up-for-work-due-to-unpaid-salaries.md)
-_Context: India, pilot, Kingfisher Airlines_
+_Context: pilot, Kingfisher Airlines, India_
 
 ##### Qianjiang
 ### [A new section of high-speed railway that had undergone test runs collapses near Qianjiang, China. ](/news/2012/03/12/a-new-section-of-high-speed-railway-that-had-undergone-test-runs-collapses-near-qianjiang-china.md)
 The collapsed section raised new doubts about the quality of work and training on the high-speed rail system, one of China’s most ambitious modernizations.
 
-##### avalanche
+##### Avalanche
 ### [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md)
-_Context: Ghadoor, Poshan, Afghanistan, Nuristan province, avalanche_
+_Context: Poshan, avalanche, Ghadoor, Nuristan province, Afghanistan_
 
 ##### US Census Bureau headquarters
 ### [United States Census Bureau has estimated the world population up to 7 billion people. ](/news/2012/03/12/united-states-census-bureau-has-estimated-the-world-population-up-to-7-billion-people.md)
-_Context: world population, US Census Bureau headquarters_
+_Context: US Census Bureau headquarters, world population_
 
 ##### Chancellor
 ### [The Chancellor of Germany Angela Merkel arrives in Afghanistan for an unannounced visit to Bundeswehr troops. ](/news/2012/03/12/the-chancellor-of-germany-angela-merkel-arrives-in-afghanistan-for-an-unannounced-visit-to-bundeswehr-troops.md)
@@ -45,7 +45,7 @@ Afghanistan&#039;s Taliban insurgents today vowed revenge against &quot;sick min
 
 ##### Belgium
 ### [Belgium asks the International Court of Justice to order Senegal to put former Chadian President Hissne Habr on trial or to extradite him on charges of torture and crimes against humanity. ](/news/2012/03/12/belgium-asks-the-international-court-of-justice-to-order-senegal-to-put-former-chadian-president-hissene-habre-on-trial-or-to-extradite-him.md)
-_Context: International Court of Justice, Belgium, Senegal, Chadian President, Chad, Hissne Habr, crimes against humanity_
+_Context: Chadian President, Senegal, Hissne Habr, Belgium, crimes against humanity, Chad, International Court of Justice_
 
 ##### Human Rights Council
 ### [A scuffle breaks out at the United Nations Human Rights Council after a North Korean diplomat said a U.N. report on the human rights situation in the country had been "fabricated". ](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.md)

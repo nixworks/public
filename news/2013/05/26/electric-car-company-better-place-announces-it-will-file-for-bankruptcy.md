@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/26/electric-car-company-better-place-announces-it-
 
 ### [2013-05-26](/news/2013/05/26/index.md)
 
-##### electric automobile
+##### Electric automobile
 # Electric car company Better Place announces it will file for bankruptcy. 
 
 Electric car company BetterPlace said on Sunday it had filed a motion in an Israeli courtto wind up the company, bringing an end to a venture whosebattery charging network had aimed to boost electric car sales.

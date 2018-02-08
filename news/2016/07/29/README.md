@@ -5,11 +5,11 @@ Formats: [HTML](2016/07/29/index.html)  [JSON](2016/07/29/index.json)  [XML](201
 
 ##### Nigerian military
 ### [The Nigerian military commences bombing militants in Lagos and Ogun States with many militants reported dead. ](/news/2016/07/29/the-nigerian-military-commences-bombing-militants-in-lagos-and-ogun-states-with-many-militants-reported-dead.md)
-_Context: Ogun State, Nigerian military, Lagos_
+_Context: Lagos, Nigerian military, Ogun State_
 
 ##### Boko Haram insurgency
 ### [The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri. ](/news/2016/07/29/the-united-nations-suspends-aid-to-dangerous-areas-of-nigeria-s-northeastern-borno-state-following-thursday-s-attack-by-boko-haram-isil-in.md)
-_Context: Nigeria, Maiduguri, Borno State, Boko Haram insurgency, United Nations, Boko Haram, UNICEF_
+_Context: Maiduguri, United Nations, Nigeria, Boko Haram, Boko Haram insurgency, UNICEF, Borno State_
 
 ##### Syrian civil war
 ### [British-based Syrian Observatory for Human Rights reports a Save the Children maternity hospital in Kafr Takharim in rebel-held Idlib Governorate is hit by airstrikes. No report on casualties. SOHR also says at least five people are killed and more than 25 injured from airstrikes in another part of the northern Idlib countryside. ](/news/2016/07/29/british-based-syrian-observatory-for-human-rights-reports-a-save-the-children-maternity-hospital-in-kafr-takharim-in-rebel-held-idlib-govern.md)
@@ -35,7 +35,7 @@ The United States military said on Friday it was preparing for the biggest land 
 ### [Michigan Attorney General Bill Schuette files criminal charges against six state employees in connection with the Flint water crisis. ](/news/2016/07/29/michigan-attorney-general-bill-schuette-files-criminal-charges-against-six-state-employees-in-connection-with-the-flint-water-crisis.md)
 Three Michigan Department of Environmental Quality and three state health department workers are charged with hiding unsafe lead levels.
 
-##### president
+##### President
 ### [Former President of Brazil Lula da Silva will stand trial on obstruction of justice charges relating to the Petrobras scandal. ](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-stand-trial-on-obstruction-of-justice-charges-relating-to-the-petrobras-scandal.md)
 Judge says sufficient evidence exists that Workers’ party conspired with politicians and businessmen to buy silence of former Petrobras official
 

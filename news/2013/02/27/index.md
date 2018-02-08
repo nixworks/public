@@ -13,11 +13,11 @@ Van Cliburn, the internationally celebrated pianist whose triumph at a 1958 Mosc
 
 ##### JPMorgan
 ### [JPMorgan announces it plans to cut 17,000 jobs over the next two years, primarily from the company's mortgage unit. ](/news/2013/02/27/jpmorgan-announces-it-plans-to-cut-17-000-jobs-over-the-next-two-years-primarily-from-the-company-s-mortgage-unit.md)
-_Context: JPMorgan, mortgage_
+_Context: mortgage, JPMorgan_
 
 ##### Reuters
 ### [Reuters reports that the Treasury of the Republic of Italy is working on the terms of a bailout for the third-largest lender in the country, Monte dei Paschi. ](/news/2013/02/27/reuters-reports-that-the-treasury-of-the-republic-of-italy-is-working-on-the-terms-of-a-bailout-for-the-third-largest-lender-in-the-country.md)
-_Context: Republic of Italy, Monte dei Paschi, Reuters_
+_Context: Reuters, Republic of Italy, Monte dei Paschi_
 
 ##### Severe Tropical Cyclone Rusty
 ### [Severe Tropical Cyclone Rusty intensifies to Category 4 status before crossing the coast of Western Australia between Port Hedland and Pardoo. ](/news/2013/02/27/severe-tropical-cyclone-rusty-intensifies-to-category-4-status-before-crossing-the-coast-of-western-australia-between-port-hedland-and-pardo.md)

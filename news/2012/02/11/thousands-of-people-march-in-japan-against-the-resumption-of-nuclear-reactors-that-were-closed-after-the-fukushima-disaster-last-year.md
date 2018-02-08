@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/11/thousands-of-people-march-in-japan-against-the-
 
 ### [2012-02-11](/news/2012/02/11/index.md)
 
-##### nuclear reactor
+##### Nuclear reactor
 # Thousands of people march in Japan against the resumption of nuclear reactors that were closed after the Fukushima disaster last year. 
 
 

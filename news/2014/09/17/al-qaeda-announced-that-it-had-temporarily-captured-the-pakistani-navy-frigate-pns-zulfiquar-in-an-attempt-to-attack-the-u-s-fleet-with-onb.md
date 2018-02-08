@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/17/al-qaeda-announced-that-it-had-temporarily-capt
 
 ### [2014-09-17](/news/2014/09/17/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Al-Qaeda announced that it had temporarily captured the Pakistani Navy frigate PNS Zulfiquar, in an attempt to attack the U.S fleet with onboard missiles, before it was recaptured by Pakistani Forces. 
 
 

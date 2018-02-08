@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/22/more-than-18-000-archived-radio-programs-are-in
 
 ### [2008-09-22](/news/2008/09/22/index.md)
 
-##### computer server
+##### Computer server
 #  More than 18,000 archived radio programs are indefinitely lost after the main computer server at Sweden's National Radio crashed last month. 
 
 

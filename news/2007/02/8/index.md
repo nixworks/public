@@ -9,7 +9,7 @@ _Context: Abu Izzadeen, United Kingdom, al Ghurabaa, His Majesty's Government_
 
 ##### Islamic Movement of Uzbekistan
 ### [ Seven alleged members of the Islamic Movement of Uzbekistan, an organization affiliated with Al-Qaeda, are on trial in Tajikistan. ](/news/2007/02/8/seven-alleged-members-of-the-islamic-movement-of-uzbekistan-an-organization-affiliated-with-al-qaeda-are-on-trial-in-tajikistan.md)
-_Context: Tajikistan, Islamic Movement of Uzbekistan, al-Qaeda_
+_Context: al-Qaeda, Islamic Movement of Uzbekistan, Tajikistan_
 
 ## [Previous Day...](/news/2007/02/7/index.md)
 

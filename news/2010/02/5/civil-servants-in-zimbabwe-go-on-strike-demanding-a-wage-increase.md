@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/5/civil-servants-in-zimbabwe-go-on-strike-demandin
 
 ### [2010-02-5](/news/2010/02/5/index.md)
 
-##### civil servants
+##### Civil servants
 # Civil servants in Zimbabwe go on strike, demanding a wage increase. 
 
 

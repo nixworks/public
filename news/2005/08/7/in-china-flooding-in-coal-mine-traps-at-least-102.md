@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/7/in-china-flooding-in-coal-mine-traps-at-least-10
 
 ### [2005-08-7](/news/2005/08/7/index.md)
 
-##### flood
+##### Flood
 #  In China, flooding in coal mine traps at least 102 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

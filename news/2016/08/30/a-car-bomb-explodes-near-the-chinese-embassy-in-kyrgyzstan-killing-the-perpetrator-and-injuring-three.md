@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/30/a-car-bomb-explodes-near-the-chinese-embassy-in
 
 ### [2016-08-30](/news/2016/08/30/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near the Chinese embassy in Kyrgyzstan, killing the perpetrator and injuring three. 
 
 Three people were wounded in the assault, which the Central Asian country’s government called “a terrorist act.”

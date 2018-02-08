@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/19/a-gay-pride-march-in-belgrade-serbia-is-called-
 
 ### [2009-09-19](/news/2009/09/19/index.md)
 
-##### gay pride
+##### Gay pride
 #  A gay pride march in Belgrade, Serbia, is called off after police and Prime Minister Mirko Cvetkovic tell organisers they could not guarantee its safety. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/7/a-new-type-of-sauropod-has-been-discovered-with-
 
 ### [2005-06-7](/news/2005/06/7/index.md)
 
-##### sauropod
+##### Sauropod
 #  A new type of sauropod has been discovered with a short, stubby neck. Unlike all other known sauropods, whose long necks could get up to four times the length of their backs, "Brachytrachelopan"'s neck was shorter than its backbone. This species was also unable to lift its neck and head above horizontal. 
 
 

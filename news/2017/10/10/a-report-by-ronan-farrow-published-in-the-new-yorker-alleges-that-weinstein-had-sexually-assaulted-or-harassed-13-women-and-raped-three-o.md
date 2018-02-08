@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-y
 
 ### [2017-10-10](/news/2017/10/10/index.md)
 
-##### allegation
+##### Allegation
 # A report by Ronan Farrow published in "The New Yorker" alleges that Weinstein had sexually assaulted or harassed 13 women, and raped three of them. 
 
 &quot;They thought remaining silent could jeopardize the next woman,&quot; Farrow said.

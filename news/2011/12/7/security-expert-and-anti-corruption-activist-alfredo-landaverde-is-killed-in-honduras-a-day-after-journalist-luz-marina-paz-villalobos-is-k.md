@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/7/security-expert-and-anti-corruption-activist-alf
 
 ### [2011-12-7](/news/2011/12/7/index.md)
 
-##### anti-corruption
+##### Anti-corruption
 # Security expert and anti-corruption activist Alfredo Landaverde is killed in Honduras, a day after journalist Luz Marina Paz Villalobos is killed, leading to a ban on a motorcycle passengers. 
 
 After two high-profile killings this week, legislators approved a decree late Wednesday banning motorcyclists from riding with passengers.

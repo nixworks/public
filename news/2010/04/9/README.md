@@ -5,7 +5,7 @@ Formats: [HTML](2010/04/9/index.html)  [JSON](2010/04/9/index.json)  [XML](2010/
 
 ##### Brazil
 ### [Rescue efforts continue in Brazil in an attempt to locate around 200 people believed to have been buried in their homes by a large landslide in Morro do Bumba near Rio de Janeiro city in the state of Rio de Janeiro. ](/news/2010/04/9/rescue-efforts-continue-in-brazil-in-an-attempt-to-locate-around-200-people-believed-to-have-been-buried-in-their-homes-by-a-large-landslide.md)
-_Context: Morro do Bumba, buried in their homes by a large landslide, Brazil, Rio de Janeiro, Rio de Janeiro_
+_Context: Rio de Janeiro, Morro do Bumba, Brazil, buried in their homes by a large landslide, Rio de Janeiro_
 
 ##### Shanxi province
 ### [The death toll in Shanxi's flooded Wangjialing coal mine reaches 25. ](/news/2010/04/9/the-death-toll-in-shanxi-s-flooded-wangjialing-coal-mine-reaches-25.md)
@@ -27,21 +27,21 @@ Home Minister Palaniappan Chidambaram offered to resign after Maoist insurgents 
 ### [The funeral of South Africa's white supremacist leader Eugene Terreblanche takes place in South Africa. ](/news/2010/04/9/the-funeral-of-south-africa-s-white-supremacist-leader-eugene-terreblanche-takes-place-in-south-africa.md)
 Heavy security amid fears of racial tensions around funeral of Eugene Terreblanche.
 
-##### red shirt
+##### Red shirt
 ### [Anti-government protesters in Thailand storm and occupy an opposition television station. ](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and-occupy-an-opposition-television-station.md)
-_Context: Thailand, red shirt_
+_Context: red shirt, Thailand_
 
 ##### German
 ### [Germany charges a former member of the Red Army Faction (RAF) in connection with the murder of Attorney General Siegfried Buback, who was shot alongside two other men in 1977. ](/news/2010/04/9/germany-charges-a-former-member-of-the-red-army-faction-raf-in-connection-with-the-murder-of-attorney-general-siegfried-buback-who-was-sh.md)
-_Context: Attorney General of Germany, Siegfried Buback, German, Red Army Faction_
+_Context: Attorney General of Germany, Siegfried Buback, Red Army Faction, German_
 
 ##### Sri Lanka
 ### [Sri Lanka's governing coalition wins a majority in the country's 2010 parliamentary election. ](/news/2010/04/9/sri-lanka-s-governing-coalition-wins-a-majority-in-the-country-s-2010-parliamentary-election.md)
-_Context: parliamentary election, Sri Lanka_
+_Context: Sri Lanka, parliamentary election_
 
 ##### Sudan
 ### [Ahead of Sudan's first multi-party elections in 24 years, some opposition parties criticise lack of access to balanced media coverage and accuse the government of manipulation. ](/news/2010/04/9/ahead-of-sudan-s-first-multi-party-elections-in-24-years-some-opposition-parties-criticise-lack-of-access-to-balanced-media-coverage-and-ac.md)
-_Context: post-election protests, Sudan_
+_Context: Sudan, post-election protests_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI encounters allegations he was responsible for obstructing the punishment of American paedophile priest Stephen Kiesle by signing ](/news/2010/04/9/pope-benedict-xvi-encounters-allegations-he-was-responsible-for-obstructing-the-punishment-of-american-paedophile-priest-stephen-kiesle-by-s.md)
@@ -59,17 +59,17 @@ Kyrgyzstan&#039;s new leaders have frozen the national banking system, saying th
 ### [The Islamic State of Iraq posts a statement on the internet claiming responsibility for Sunday's triple bombings in Baghdad which killed at least 40 people and affected some foreign embassies but denies involvement in Tuesday's six bombings which killed 35 people in Shia areas. ](/news/2010/04/9/the-islamic-state-of-iraq-posts-a-statement-on-the-internet-claiming-responsibility-for-sunday-s-triple-bombings-in-baghdad-which-killed-at.md)
 A militant group linked to al Qaeda has claimed responsibility for suicide car bombings aimed at embassies in Iraq which killed 41 people, a group that monitors insurgent communications said.
 
-##### metro
+##### Metro
 ### [Shanghai Metro Line 2 opens service to Pudong International Airport. ](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.md)
-_Context: Line 2, metro, Pudong International Airport_
+_Context: Pudong International Airport, Line 2, metro_
 
 ##### Air Force
 ### [U.S. helicopter - Air Force CV-22 Osprey - crashes in southern Afghanistan, killing three U.S. service members and one civilian employee. Zabiullah Mujahid says Taliban fighters shot down the chopper. ](/news/2010/04/9/u-s-helicopter-air-force-cv-22-osprey-crashes-in-southern-afghanistan-killing-three-u-s-service-members-and-one-civilian-employee-za.md)
-_Context: CV-22 Osprey, Zabiullah Mujahid, Air Force, Afghanistan, Taliban_
+_Context: Air Force, Taliban, Afghanistan, Zabiullah Mujahid, CV-22 Osprey_
 
 ##### Justice
 ### [Associate Justice John Paul Stevens of the U.S. Supreme Court announces his retirement after serving on the court for 34 years. ](/news/2010/04/9/associate-justice-john-paul-stevens-of-the-u-s-supreme-court-announces-his-retirement-after-serving-on-the-court-for-34-years.md)
-_Context: Justice, John Paul Stevens, Supreme Court of the United States_
+_Context: John Paul Stevens, Justice, Supreme Court of the United States_
 
 ##### Tangshan
 ### [ 4.1-magnitude earthquake jolts northern Chinese city of Tangshan. ](/news/2010/04/9/4-1-magnitude-earthquake-jolts-northern-chinese-city-of-tangshan.md)

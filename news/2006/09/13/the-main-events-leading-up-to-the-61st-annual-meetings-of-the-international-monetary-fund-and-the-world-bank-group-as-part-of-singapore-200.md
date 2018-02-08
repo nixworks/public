@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/13/the-main-events-leading-up-to-the-61st-annual-m
 
 ### [2006-09-13](/news/2006/09/13/index.md)
 
-##### annual meeting
+##### Annual meeting
 #  The main events leading up to the 61st Annual Meetings of the International Monetary Fund and the World Bank Group as part of Singapore 2006 commence in Singapore. 
 
 

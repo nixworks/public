@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/5/four-people-are-dead-in-a-possible-murder-suicid
 
 ### [2013-02-5](/news/2013/02/5/index.md)
 
-##### murder-suicide
+##### Murder-suicide
 # Four people are dead in a possible murder-suicide in Johns Creek, Georgia, United States. 
 
 Parents, sons 5 and 12, were found dead at apartment in Johns Creek, Ga.

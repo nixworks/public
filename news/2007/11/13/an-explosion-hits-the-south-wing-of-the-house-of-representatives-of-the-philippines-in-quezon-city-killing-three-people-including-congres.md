@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/13/an-explosion-hits-the-south-wing-of-the-house-o
 
 ### [2007-11-13](/news/2007/11/13/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion hits the south wing of the House of Representatives of the Philippines in Quezon City, killing three people, including Congressman Wahab Akbar, and wounding 10. 
 
 

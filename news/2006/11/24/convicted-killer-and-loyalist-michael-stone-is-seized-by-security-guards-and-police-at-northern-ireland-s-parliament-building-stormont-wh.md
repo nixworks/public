@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/24/convicted-killer-and-loyalist-michael-stone-is-
 
 ### [2006-11-24](/news/2006/11/24/index.md)
 
-##### loyalist
+##### Loyalist
 #  Convicted killer and loyalist Michael Stone is seized by security guards and police at Northern Ireland's parliament building, Stormont, while carrying a gun, knife and several possibly "viable" explosive devices. 
 
 

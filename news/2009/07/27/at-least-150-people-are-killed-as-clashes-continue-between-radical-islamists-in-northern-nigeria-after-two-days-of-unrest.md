@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/27/at-least-150-people-are-killed-as-clashes-conti
 
 ### [2009-07-27](/news/2009/07/27/index.md)
 
-##### killed as clashes continue
+##### Killed as clashes continue
 #  At least 150 people are killed as clashes continue between radical Islamists in northern Nigeria after two days of unrest. 
 
 

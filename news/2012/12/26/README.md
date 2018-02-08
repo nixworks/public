@@ -5,11 +5,11 @@ Formats: [HTML](2012/12/26/index.html)  [JSON](2012/12/26/index.json)  [XML](201
 
 ##### Afghans
 ### [A suicide bomber kills himself and three Afghans (a guard and two civilians) outside the perimeter of Forward Operating Base Chapman in Khost, Afghanistan, the scene of an earlier attack in December 2009. ](/news/2012/12/26/a-suicide-bomber-kills-himself-and-three-afghans-a-guard-and-two-civilians-outside-the-perimeter-of-forward-operating-base-chapman-in-khos.md)
-_Context: Afghans, Khost, Afghanistan, Forward Operating Base Chapman_
+_Context: Afghans, Khost, Forward Operating Base Chapman, Afghanistan_
 
 ##### Irish
 ### [The death is announced of Irish poet, essayist, critic and editor Dennis O'Driscoll at the age of 58. ](/news/2012/12/26/the-death-is-announced-of-irish-poet-essayist-critic-and-editor-dennis-o-driscoll-at-the-age-of-58.md)
-_Context: Dennis O'Driscoll, Irish_
+_Context: Irish, Dennis O'Driscoll_
 
 ##### Gerry Anderson
 ### [Gerry Anderson, pioneer of "supermarionation" and creator of classic television series such as "Thunderbirds" and "Stingray", dies aged 83. ](/news/2012/12/26/gerry-anderson-pioneer-of-supermarionation-and-creator-of-classic-television-series-such-as-thunderbirds-and-stingray-dies-aged-83.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Sinaloa
 ### [A total of nine unidentified individuals are shot to death in Sinaloa state, Mexico. ](/news/2012/12/26/a-total-of-nine-unidentified-individuals-are-shot-to-death-in-sinaloa-state-mexico.md)
-_Context: Mexico, Sinaloa_
+_Context: Sinaloa, Mexico_
 
 ##### Japan
 ### [Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. ](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.md)
@@ -37,19 +37,19 @@ _Context: Shinzo Abe, Japan, Prime Minister of Japan_
 
 ##### President
 ### [Former South African President and anti-apartheid leader Nelson Mandela, 94, in still-fragile health, is released from the hospital in Pretoria, South Africa to receive continuing at-home care. He had had his longest period of hospitalization (more than 2 weeks) there since his 1990 release from prison, as the result of a gallstone removal operation and a lung infection. ](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.md)
-_Context: gallstone, South Africa, lung infection, Nelson Mandela, President, Pretoria_
+_Context: President, Pretoria, South Africa, gallstone, Nelson Mandela, lung infection_
 
 ##### U.S. President
 ### [Former U.S. President, 88-year-old George H. W. Bush, still receiving visitors, remains hospitalized (since 23 November) at The Methodist Hospital in Houston, Texas, where he resides during the winter, with a receding bronchitis-like cough but with a now-rising and long-lasting fever, and has been put in intensive care on a liquids-only diet for unspecified reasons. ](/news/2012/12/26/former-u-s-president-88-year-old-george-h-w-bush-still-receiving-visitors-remains-hospitalized-since-23-november-at-the-methodist-ho.md)
-_Context: Texas, George H. W. Bush, Houston, The Methodist Hospital, U.S. President, bronchitis_
+_Context: Texas, U.S. President, The Methodist Hospital, Houston, George H. W. Bush, bronchitis_
 
 ##### Hawaii
 ### [Hawaii's Democratic Governor Neil Abercrombie appoints Lieutenant Governor Brian Schatz (a former state legislator and nonprofit group executive) to fill the term of the recently-deceased longtime Democratic U.S. Senator Daniel Inouye until 2014, when a special election will be called to fill the slot until 2016. His was one of three names known to have been submitted by the state party's central committee, along with an unnamed person and U.S. Democrat Colleen Hanabusa, whom Inouye had stated as his preferred successor hours before his death. ](/news/2012/12/26/hawaii-s-democratic-governor-neil-abercrombie-appoints-lieutenant-governor-brian-schatz-a-former-state-legislator-and-nonprofit-group-execu.md)
-_Context: Democrat, Colleen Hanabusa, United States Senate, Governor, Daniel Inouye, Hawaii, U.S., Neil Abercrombie, Lieutenant Governor, Brian Schatz_
+_Context: Brian Schatz, Neil Abercrombie, Lieutenant Governor, Daniel Inouye, U.S., Governor, Hawaii, Democrat, Colleen Hanabusa, United States Senate_
 
 ##### China
 ### [China officially opens the world's longest high-speed rail route, which links Beijing and Guangzhou. ](/news/2012/12/26/china-officially-opens-the-world-s-longest-high-speed-rail-route-which-links-beijing-and-guangzhou.md)
-_Context: route, Beijing, China, bullet train system, high-speed rail, Guangzhou, world's longest_
+_Context: Beijing, high-speed rail, world's longest, China, bullet train system, route, Guangzhou_
 
 ## [Previous Day...](/news/2012/12/25/index.md)
 

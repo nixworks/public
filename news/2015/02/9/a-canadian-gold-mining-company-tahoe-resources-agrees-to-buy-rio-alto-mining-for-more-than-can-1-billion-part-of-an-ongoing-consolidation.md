@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/9/a-canadian-gold-mining-company-tahoe-resources-a
 
 ### [2015-02-9](/news/2015/02/9/index.md)
 
-##### gold mining
+##### Gold mining
 # A Canadian gold mining company, Tahoe Resources, agrees to buy Rio Alto Mining for more than CAN$1 billion, part of an ongoing consolidation in the precious metals mining industry. 
 
 Canadian gold miner Tahoe Resources Inc (THO.TO) (TAHO.N) said on Monday it has agreed to acquire smaller rival Rio Alto Mining RIO.TO in a cash-and-share deal valued at C$1.4 billion ($1.12 billion), in a bid to expand its presence in Latin America.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/30/sixty-nine-miners-are-trapped-in-a-flooded-coal
 
 ### [2007-07-30](/news/2007/07/30/index.md)
 
-##### miner
+##### Miner
 #  Sixty-nine miners are trapped in a flooded coal mine in Henan province in central China. 
 
 

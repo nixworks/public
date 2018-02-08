@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/22/six-people-are-stabbed-and-wounded-in-downtown-
 
 ### [2013-02-22](/news/2013/02/22/index.md)
 
-##### downtown
+##### Downtown
 # Six people are stabbed and wounded in downtown Los Angeles, California. Two suspects are arrested. 
 
 

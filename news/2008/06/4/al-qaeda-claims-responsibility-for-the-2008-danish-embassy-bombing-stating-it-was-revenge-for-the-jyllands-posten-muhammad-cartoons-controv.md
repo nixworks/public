@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/4/al-qaeda-claims-responsibility-for-the-2008-dani
 
 ### [2008-06-4](/news/2008/06/4/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda claims responsibility for the 2008 Danish embassy bombing stating it was revenge for the Jyllands-Posten Muhammad cartoons controversy. 
 
 

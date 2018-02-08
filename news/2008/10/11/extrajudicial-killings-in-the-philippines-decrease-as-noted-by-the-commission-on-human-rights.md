@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/11/extrajudicial-killings-in-the-philippines-decre
 
 ### [2008-10-11](/news/2008/10/11/index.md)
 
-##### kill
+##### Kill
 #  Extrajudicial killings in the Philippines decrease as noted by the Commission on Human Rights. 
 
 

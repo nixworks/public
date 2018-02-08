@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/11/football-the-semi-finals-of-copa-del-rey-begin-
 
 ### [2007-04-11](/news/2007/04/11/index.md)
 
-##### football
+##### Football
 #  Football: The semi-finals of Copa del Rey begin in Nou Camp. Argentinian Lionel Messi scored a spectacular goal against Getafe CF.That goal is very similar to a Diego Maradona's goal against England in Mexico World Cup 1986.Both of them passed six defenders including goalkeeper and scored.
 
 

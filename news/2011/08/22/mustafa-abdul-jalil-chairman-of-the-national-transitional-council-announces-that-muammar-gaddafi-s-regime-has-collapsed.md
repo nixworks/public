@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/22/mustafa-abdul-jalil-chairman-of-the-national-tr
 
 ### [2011-08-22](/news/2011/08/22/index.md)
 
-##### civil war
+##### Civil war
 # Mustafa Abdul Jalil, Chairman of the National Transitional Council, announces that Muammar Gaddafi's regime has collapsed. 
 
 Moamar Gaddafi&#039;s capital falls to rebel forces as his heir is captured and opposition fighters surge into the symbolic Green Square in Tripoli.

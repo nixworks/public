@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/10/leaders-of-the-anti-government-protests-in-thai
 
 ### [2008-10-10](/news/2008/10/10/index.md)
 
-##### assemble
+##### Assemble
 #  Leaders of the anti-government protests in Thailand surrender to thepolice. 
 
 

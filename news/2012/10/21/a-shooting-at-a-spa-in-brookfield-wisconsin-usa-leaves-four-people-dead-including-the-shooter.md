@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/21/a-shooting-at-a-spa-in-brookfield-wisconsin-usa
 
 ### [2012-10-21](/news/2012/10/21/index.md)
 
-##### shooting
+##### Shooting
 # A shooting at a spa in Brookfield, Wisconsin, USA, leaves four people dead, including the shooter. 
 
 A man who opened fire at a beauty spa in the US state of Wisconsin has killed three people, including his wife, and injured four.

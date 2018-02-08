@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/09/18/athlete-bob-hayes-dies.html)  [JSON](/news/2002
 
 ### [2002-09-18](/news/2002/09/18/index.md)
 
-##### athlete
+##### Athlete
 # Athlete Bob Hayes dies.
 
 

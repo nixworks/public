@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/10/at-least-two-people-are-shot-at-the-united-stat
 
 ### [2009-06-10](/news/2009/06/10/index.md)
 
-##### are shot
+##### Are shot
 #  At least two people are shot at the United States Holocaust Memorial Museum in Washington D.C., with an elderly white supremacist as the main suspect. 
 
 

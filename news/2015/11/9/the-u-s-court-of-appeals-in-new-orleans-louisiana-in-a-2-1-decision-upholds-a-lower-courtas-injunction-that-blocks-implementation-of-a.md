@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/9/the-u-s-court-of-appeals-in-new-orleans-louisian
 
 ### [2015-11-9](/news/2015/11/9/index.md)
 
-##### appeals court
+##### Appeals court
 # The U.S. Court of Appeals in New Orleans, Louisiana, in a 2-1 decision, upholds a lower court's injunction that blocks implementation of an Executive order to shield from deportation millions of undocumented immigrants who entered the United States as children. The White House is considering an appeal to the U.S. Supreme Court. 
 
 The 2-to-1 ruling from the New Orleans court sets stage for possible Supreme Court battle.

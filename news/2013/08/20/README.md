@@ -19,17 +19,17 @@ GNS Science says it wouldn&#39;t be surprised if there are more eruptions at Whi
 ### [Turkey's Prime Minister Recep Tayyip Erdogan accuses American and Israeli influence of being the ouster of Egypt's President Mohammed Morsi; which are denied by both. ](/news/2013/08/20/turkeyas-prime-minister-recep-tayyip-erdoaan-accuses-american-and-israeli-influence-of-being-the-ouster-of-egyptas-president-mohammed-m.md)
 Citing a 2011 statement by a French intellectual, Erdogan claimed he could prove the Jewish state plotted the coup in Cairo
 
-##### murder
+##### Murder
 ### [Three male youths are implicated in the murder of Australian baseball player Chris Lane in Duncan, Oklahoma. ](/news/2013/08/20/three-male-youths-are-implicated-in-the-murder-of-australian-baseball-player-chris-lane-in-duncan-oklahoma.md)
-_Context: Duncan, Oklahoma, murder_
+_Context: murder, Duncan, Oklahoma_
 
 ##### Pakistan
 ### [A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. ](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.md)
-_Context: Benazir Bhutto, Prime Minister, Assassination of Benazir Bhutto, indicted, Pakistan, Pervez Musharraf, president_
+_Context: president, Pakistan, Pervez Musharraf, Assassination of Benazir Bhutto, Prime Minister, indicted, Benazir Bhutto_
 
 ##### AK-47s
 ### [Six gunshots are fired from an AK-47 at an elementary school in Decatur, Georgia, U.S. No one was injured, and premises were evacuated. Suspected gunman, a 20-year-old man arrested. ](/news/2013/08/20/six-gunshots-are-fired-from-an-ak-47-at-an-elementary-school-in-decatur-georgia-u-s-no-one-was-injured-and-premises-were-evacuated-susp.md)
-_Context: Decatur, Georgia, U.S., AK-47s_
+_Context: U.S., AK-47s, Decatur, Georgia_
 
 ##### Alan Rusbridger
 ### [Alan Rusbridger, the editor of "The Guardian", reveals that the British authorities forced the newspaper to destroy computer hard disk drives containing material leaked by Edward Snowden. ](/news/2013/08/20/alan-rusbridger-the-editor-of-the-guardian-reveals-that-the-british-authorities-forced-the-newspaper-to-destroy-computer-hard-disk-drive.md)
@@ -41,7 +41,7 @@ Security forces in Egypt arrest the leader of the Muslim Brotherhood, Mohammad B
 
 ##### Senator
 ### [United States Senator Ted Cruz of Texas announces that he wants to renounce his Canadian citizenship, fueling speculation about a presidential run in 2016. ](/news/2013/08/20/united-states-senator-ted-cruz-of-texas-announces-that-he-wants-to-renounce-his-canadian-citizenship-fueling-speculation-about-a-presidenti.md)
-_Context: Texas, 2016 U.S. presidential election, Ted Cruz, Senator_
+_Context: 2016 U.S. presidential election, Ted Cruz, Senator, Texas_
 
 ## [Previous Day...](/news/2013/08/19/index.md)
 

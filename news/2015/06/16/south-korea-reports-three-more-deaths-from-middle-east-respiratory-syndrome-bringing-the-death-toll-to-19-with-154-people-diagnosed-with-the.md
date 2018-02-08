@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/16/south-korea-reports-three-more-deaths-from-midd
 
 ### [2015-06-16](/news/2015/06/16/index.md)
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 # South Korea reports three more deaths from Middle East Respiratory Syndrome bringing the death toll to 19 with 154 people diagnosed with the disease. 
 
  South Korea reported three more deaths from Middle East Respiratory Syndrome (MERS) Tuesday, bringing the death toll to 19.

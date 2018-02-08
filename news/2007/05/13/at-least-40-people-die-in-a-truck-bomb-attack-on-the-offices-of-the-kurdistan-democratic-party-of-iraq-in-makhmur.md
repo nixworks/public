@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/13/at-least-40-people-die-in-a-truck-bomb-attack-o
 
 ### [2007-05-13](/news/2007/05/13/index.md)
 
-##### car bomb
+##### Car bomb
 #  At least 40 people die in a truck bomb attack on the offices of the Kurdistan Democratic Party of Iraq in Makhmur. 
 
 

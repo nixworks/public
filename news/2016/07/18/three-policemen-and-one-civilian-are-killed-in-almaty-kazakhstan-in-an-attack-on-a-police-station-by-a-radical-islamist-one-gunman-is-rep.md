@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/18/three-policemen-and-one-civilian-are-killed-in-
 
 ### [2016-07-18](/news/2016/07/18/index.md)
 
-##### policemen
+##### Policemen
 # Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. 
 
 At least five people were killed and nine injured in a suspected Islamist attack on a police station in Almaty, Kazakhstan’s largest city. President Nursultan Nazarbaev has announced that it was a terror act.

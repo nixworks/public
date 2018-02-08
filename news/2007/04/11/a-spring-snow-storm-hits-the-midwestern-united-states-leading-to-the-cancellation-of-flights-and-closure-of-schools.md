@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/11/a-spring-snow-storm-hits-the-midwestern-united-
 
 ### [2007-04-11](/news/2007/04/11/index.md)
 
-##### spring
+##### Spring
 #  A spring snow storm hits the midwestern United States, leading to the cancellation of flights and closure of schools. 
 
 

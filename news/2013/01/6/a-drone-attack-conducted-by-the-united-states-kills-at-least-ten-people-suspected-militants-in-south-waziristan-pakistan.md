@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-ki
 
 ### [2013-01-6](/news/2013/01/6/index.md)
 
-##### drones launch
+##### Drones launch
 # A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. 
 
 A US drone attack kills at least eight suspected militants in a Pakistan north-western tribal area near the Afghan border, officials say.

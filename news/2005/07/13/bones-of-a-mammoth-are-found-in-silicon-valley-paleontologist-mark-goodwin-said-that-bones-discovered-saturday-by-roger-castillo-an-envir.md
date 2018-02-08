@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/13/bones-of-a-mammoth-are-found-in-silicon-valley-
 
 ### [2005-07-13](/news/2005/07/13/index.md)
 
-##### mammoth
+##### Mammoth
 #  Bones of a mammoth are found in Silicon Valley: Paleontologist Mark Goodwin said that bones discovered Saturday by Roger Castillo, an environmental activist, may be the femur, tusks and pelvic bones of a Columbian mammoth, a species of ancient elephant that roamed the area tens of thousands of years ago. 
 
 

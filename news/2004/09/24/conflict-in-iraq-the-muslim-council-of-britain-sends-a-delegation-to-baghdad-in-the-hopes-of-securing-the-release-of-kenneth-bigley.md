@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/24/conflict-in-iraq-the-muslim-council-of-britain-
 
 ### [2004-09-24](/news/2004/09/24/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: The Muslim Council of Britain sends a delegation to Baghdad in the hopes of securing the release of Kenneth Bigley. 
 
 

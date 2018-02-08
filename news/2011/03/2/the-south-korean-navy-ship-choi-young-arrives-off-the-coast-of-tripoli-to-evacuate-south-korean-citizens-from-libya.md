@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/2/the-south-korean-navy-ship-choi-young-arrives-of
 
 ### [2011-03-2](/news/2011/03/2/index.md)
 
-##### civil war
+##### Civil war
 # The South Korean Navy ship "Choi Young" arrives off the coast of Tripoli to evacuate South Korean citizens from Libya. 
 
 Rebel forces in the eastern Libyan town of Brega fight off an attack by soldiers loyal to Col Muammar Gaddafi.

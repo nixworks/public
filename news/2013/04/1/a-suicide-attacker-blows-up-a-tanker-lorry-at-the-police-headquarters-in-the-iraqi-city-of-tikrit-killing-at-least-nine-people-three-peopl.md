@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/a-suicide-attacker-blows-up-a-tanker-lorry-at-th
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide attacker blows up a tanker lorry at the police headquarters in the Iraqi city of Tikrit, killing at least nine people. Three people are killed in a separate shooting in Baghdad. 
 
 

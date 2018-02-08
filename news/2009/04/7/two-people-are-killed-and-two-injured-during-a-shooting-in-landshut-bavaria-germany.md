@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/7/two-people-are-killed-and-two-injured-during-a-s
 
 ### [2009-04-7](/news/2009/04/7/index.md)
 
-##### shooting
+##### Shooting
 #  Two people are killed and two injured during a shooting in Landshut, Bavaria, Germany. 
 
 

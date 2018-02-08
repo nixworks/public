@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/17/a-large-near-earth-asteroid-2000-em26-passes-by
 
 ### [2014-02-17](/news/2014/02/17/index.md)
 
-##### near-Earth asteroid
+##### Near-Earth asteroid
 # A large near-Earth asteroid, 2000 EM26, passes by the Earth safely with no threat of collision at 8.8 times further from the Earth than the Moon. 
 
 The near-Earth asteroid 2000 EM26 is set to fly past Earth on Monday (Feb. 17), and you can watch it in a live webcast online. 

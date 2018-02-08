@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/18/a-news-study-finds-that-chickens-possess-numera
 
 ### [2013-06-18](/news/2013/06/18/index.md)
 
-##### chickens
+##### Chickens
 # A news study finds that chickens possess numeracy skills and self-control. 
 
 

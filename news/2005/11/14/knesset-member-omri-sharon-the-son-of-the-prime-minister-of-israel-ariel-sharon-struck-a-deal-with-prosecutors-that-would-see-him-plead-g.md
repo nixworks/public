@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/14/knesset-member-omri-sharon-the-son-of-the-prime
 
 ### [2005-11-14](/news/2005/11/14/index.md)
 
-##### parliament in Israel
+##### Parliament in Israel
 #  Knesset Member Omri Sharon, the son of the Prime Minister of Israel Ariel Sharon, struck a deal with prosecutors that would see him plead guilty to a series of charges in connection with illegal fundraising during Ariel Sharon's 1999 primaries campaign. 
 
 MK Omri Sharon, the prime minister&#39;s son, pleads guilty to charges of illegal political fundraising at Tel Aviv Magistrates court Tuesday. Sharon will address court during sentence hearing, his attorney reports 

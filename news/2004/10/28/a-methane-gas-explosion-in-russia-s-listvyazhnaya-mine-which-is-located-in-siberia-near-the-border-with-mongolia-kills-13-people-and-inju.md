@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/28/a-methane-gas-explosion-in-russia-s-listvyazhna
 
 ### [2004-10-28](/news/2004/10/28/index.md)
 
-##### methane
+##### Methane
 #  A methane gas explosion in Russia's Listvyazhnaya mine, which is located in Siberia near the border with Mongolia, kills 13 people and injures 23. 
 
 

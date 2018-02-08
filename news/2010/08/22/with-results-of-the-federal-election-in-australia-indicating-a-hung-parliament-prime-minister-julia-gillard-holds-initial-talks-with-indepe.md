@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/22/with-results-of-the-federal-election-in-austral
 
 ### [2010-08-22](/news/2010/08/22/index.md)
 
-##### recent election
+##### Recent election
 # With results of the federal election in Australia indicating a hung parliament, Prime Minister Julia Gillard holds initial talks with independent candidates in an attempt to form a government. 
 
 Australian Prime Minister Julia Gillard contacts independent candidates as she begins trying to form a government after an inconclusive vote.

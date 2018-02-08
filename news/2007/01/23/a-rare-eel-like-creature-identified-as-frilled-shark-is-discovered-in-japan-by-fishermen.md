@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/23/a-rare-eel-like-creature-identified-as-frilled-
 
 ### [2007-01-23](/news/2007/01/23/index.md)
 
-##### frilled shark
+##### Frilled shark
 #  A rare eel-like creature identified as frilled shark is discovered in Japan by fishermen. 
 
 Recently Japan caught a very rare deep ocean shark. This type of shark is very different from what we usually see. It has six gills and the body is like an

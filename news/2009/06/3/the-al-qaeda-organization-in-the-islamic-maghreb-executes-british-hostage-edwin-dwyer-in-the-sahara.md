@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb
 
 ### [2009-06-3](/news/2009/06/3/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. 
 
 

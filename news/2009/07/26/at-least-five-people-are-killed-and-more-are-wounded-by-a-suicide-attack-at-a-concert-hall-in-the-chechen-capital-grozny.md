@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/26/at-least-five-people-are-killed-and-more-are-wo
 
 ### [2009-07-26](/news/2009/07/26/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  At least five people are killed and more are wounded by a suicide attack at a concert hall in the Chechen capital Grozny. 
 
 

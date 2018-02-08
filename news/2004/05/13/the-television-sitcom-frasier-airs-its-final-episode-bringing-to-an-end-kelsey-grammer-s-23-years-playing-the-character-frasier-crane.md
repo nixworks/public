@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/13/the-television-sitcom-frasier-airs-its-final-ep
 
 ### [2004-05-13](/news/2004/05/13/index.md)
 
-##### sitcom
+##### Sitcom
 #  The television sitcom "Frasier" airs its final episode, bringing to an end Kelsey Grammer's 23 years playing the character Frasier Crane. 
 
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.

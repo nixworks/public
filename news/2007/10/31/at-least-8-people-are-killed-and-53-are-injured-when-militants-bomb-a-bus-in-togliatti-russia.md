@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/31/at-least-8-people-are-killed-and-53-are-injured
 
 ### [2007-10-31](/news/2007/10/31/index.md)
 
-##### bomb
+##### Bomb
 #  At least 8 people are killed and 53 are injured when militants bomb a bus in Togliatti, Russia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/27/2005-maharashtra-floods-the-death-toll-from-the
 
 ### [2005-07-27](/news/2005/07/27/index.md)
 
-##### recent floods
+##### Recent floods
 #  2005 Maharashtra floods: The death toll from the series of heavy monsoon rains and landslides they have triggered has been raised to at least 418 people in India's western state of Maharashtra.
 
 

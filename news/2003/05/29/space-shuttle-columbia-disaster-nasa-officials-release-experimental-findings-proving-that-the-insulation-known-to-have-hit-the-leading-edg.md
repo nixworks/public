@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/29/space-shuttle-columbia-disaster-nasa-officials-
 
 ### [2003-05-29](/news/2003/05/29/index.md)
 
-##### disintegrated during re-entry
+##### Disintegrated during re-entry
 #  Space Shuttle Columbia disaster: NASA officials release experimental findings proving that the insulation known to have hit the leading edge of "Columbia" ' s left wing could have created a gap in between protective heat panels.
 
 

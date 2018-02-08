@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/14/a-woman-suffering-from-schizophrenia-stabbed-th
 
 ### [2014-10-14](/news/2014/10/14/index.md)
 
-##### schizophrenia
+##### Schizophrenia
 # A woman suffering from schizophrenia stabbed three students and a police negotiator at a secondary school in Zdar nad Sazavou, Czech Republic. A 16-year-old boy died due to his injuries. 
 
 

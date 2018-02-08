@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/26/at-least-26-people-die-after-a-bus-crashes-in-t
 
 ### [2010-07-26](/news/2010/07/26/index.md)
 
-##### bus
+##### Bus
 # At least 26 people die after a bus crashes in the Daman District in the Kandahar Province of Afghanistan. 
 
 

@@ -11,7 +11,7 @@ Six years after gunmen flagged down a convoy of cars in the southern Philippine 
 ### [A Palestinian kills a 20 year-old Israeli and wounds two women in a stabbing attack at a gas station near the town of Modi'in; the Palestinian assailant is shot and killed by an officer at the scene. ](/news/2015/11/23/a-palestinian-kills-a-20-year-old-israeli-and-wounds-two-women-in-a-stabbing-attack-at-a-gas-station-near-the-town-of-modiain-the-palesti.md)
 Israeli soldier murdered in attack on Route 443; Palestinians, 14 and 16, attack passersby with scissors near the city&#39;s market, before being neutralized by police; young Israeli severely wounded on Route 443. 
 
-##### pharmaceutical companies
+##### Pharmaceutical companies
 ### [American pharmaceutical companies Pfizer and Allergan, Plc announce plans to merge to form the world's largest drug company. The merger is subject to approval from regulators in the U.S., European Union and elsewhere as well as approval by shareholders of both companies. If approved, the deal will reduce tax revenue paid to the U.S. by approximately $930 million. ](/news/2015/11/23/american-pharmaceutical-companies-pfizer-and-allergan-plc-announce-plans-to-merge-to-form-the-world-s-largest-drug-company-the-merger-is-s.md)
 $160 billion deal to combine Pfizer and Allergan raises outcry
 
@@ -37,7 +37,7 @@ The crew was flying a routine training mission when their UH-60 chopper went dow
 
 ##### United States
 ### [The United States issues a worldwide travel alert due to heightened activity by Islamic State in Iraq and the Levant (aka Da'esh-ISIS), Boko Haram, al-Qa'ida and other terrorist groups through February 24, 2016. ](/news/2015/11/23/the-united-states-issues-a-worldwide-travel-alert-due-to-heightened-activity-by-islamic-state-in-iraq-and-the-levant-aka-daaesh-isis-bo.md)
-_Context: United States, al-Qa'ida, Islamic State in Iraq and the Levant, Boko Haram_
+_Context: United States, Boko Haram, al-Qa'ida, Islamic State in Iraq and the Levant_
 
 ##### Hong Kong local elections, 2015
 ### [Hong Kong's pro-democracy movement gets a boost with Umbrella Soldiers winning at least four seats in Sunday's election although the distribution of political power over the district council seats remains broadly the same vis-a-vis the Hong Kong local elections, 2011. ](/news/2015/11/23/hong-kong-s-pro-democracy-movement-gets-a-boost-with-umbrella-soldiers-winning-at-least-four-seats-in-sunday-s-election-although-the-distrib.md)

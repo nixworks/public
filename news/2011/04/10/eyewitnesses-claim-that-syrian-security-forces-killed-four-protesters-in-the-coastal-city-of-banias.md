@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/10/eyewitnesses-claim-that-syrian-security-forces-
 
 ### [2011-04-10](/news/2011/04/10/index.md)
 
-##### protestors
+##### Protestors
 # Eyewitnesses claim that Syrian security forces killed four protesters in the coastal city of Banias. 
 
 

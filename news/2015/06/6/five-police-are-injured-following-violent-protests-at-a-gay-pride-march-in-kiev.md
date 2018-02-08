@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/6/five-police-are-injured-following-violent-protes
 
 ### [2015-06-6](/news/2015/06/6/index.md)
 
-##### police
+##### Police
 # Five police are injured following violent protests at a gay pride march in Kiev. 
 
 

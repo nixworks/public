@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/19/a-constitutional-referendum-takes-place-in-egyp
 
 ### [2011-03-19](/news/2011/03/19/index.md)
 
-##### constitutional referendum
+##### Constitutional referendum
 # A constitutional referendum takes place in Egypt. 
 
 Millions of Egyptians vote in a referendum on constitutional reforms, a month after a popular uprising swept President Hosni Mubarak from power.

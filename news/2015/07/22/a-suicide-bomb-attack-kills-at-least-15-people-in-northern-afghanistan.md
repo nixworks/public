@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/22/a-suicide-bomb-attack-kills-at-least-15-people-
 
 ### [2015-07-22](/news/2015/07/22/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomb attack kills at least 15 people in northern Afghanistan. 
 
 

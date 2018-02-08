@@ -3,19 +3,19 @@ Formats: [HTML](2012/04/22/index.html)  [JSON](2012/04/22/index.json)  [XML](201
 
 ## [2012-04-22](/news/2012/04/22/index.md)
 
-##### tear gas
+##### Tear gas
 ### [Renewed protests against the regime break out overnight with police firing tear gas and stun grenades at civilians. Chants of "Down with Hamad," calling for the King of Bahrain to be ousted from power, are reported by witnesses. ](/news/2012/04/22/renewed-protests-against-the-regime-break-out-overnight-with-police-firing-tear-gas-and-stun-grenades-at-civilians-chants-of-down-with-ham.md)
 Renewed clashes broke out in Bahrain overnight between hundreds of anti-government protesters and police just a few hours before a Formula One race.
 
 ##### RKK
 ### [One RKK (Runda Kumpulan Kecil) separatist group member and a Thai policeman are killed in a firefight in the village of Ruso in Thailand's Narathiwat Province. ](/news/2012/04/22/one-rkk-runda-kumpulan-kecil-separatist-group-member-and-a-thai-policeman-are-killed-in-a-firefight-in-the-village-of-ruso-in-thailand-s-n.md)
-_Context: Thai police officers, Ruso, Thailand, RKK, Narathiwat_
+_Context: Ruso, RKK, Thailand, Narathiwat, Thai police officers_
 
 ##### Sudan
 ### [Sudan launches a fresh incursion into South Sudan. ](/news/2012/04/22/sudan-launches-a-fresh-incursion-into-south-sudan.md)
 Border areas across Unity State bombed leaving one dead and three others wounded, an official said.
 
-##### outbreak of an unidentified fatal disease
+##### Outbreak of an unidentified fatal disease
 ### [In response to an outbreak of an unidentified fatal disease in Quang Ngai province, Vietnam, the Vietnamese government asks for help from the World Health Organization. ](/news/2012/04/22/in-response-to-an-outbreak-of-an-unidentified-fatal-disease-in-quang-ngai-province-vietnam-the-vietnamese-government-asks-for-help-from-th.md)
 Vietnam has asked the World Health Organization to help investigate a mystery disease that has killed 19 people and sickened 171 others.
 
@@ -25,7 +25,7 @@ The 32nd London Marathon sees more than 37,500 elite runners, amateurs and celeb
 
 ##### Egypt
 ### [Egyptian officials scrap a deeply unpopular agreement to supply Israel with natural gas. Former President of Egypt Hosni Mubarak, ousted in last year's revolution, had been accused of selling the gas too cheaply. ](/news/2012/04/22/egyptian-officials-scrap-a-deeply-unpopular-agreement-to-supply-israel-with-natural-gas-former-president-of-egypt-hosni-mubarak-ousted-in.md)
-_Context: Hosni Mubarak, Egypt, natural gas, Israel, President, 2011 Egyptian revolution_
+_Context: President, Egypt, natural gas, Israel, Hosni Mubarak, 2011 Egyptian revolution_
 
 ##### 
 ### [U.S. and Afghan negotiators finalise an agreement concerning the continuing U.S. presence in Afghanistan after the U.S. withdraws its troops at the end of 2014. ](/news/2012/04/22/u-s-and-afghan-negotiators-finalise-an-agreement-concerning-the-continuing-u-s-presence-in-afghanistan-after-the-u-s-withdraws-its-troops.md)
@@ -37,7 +37,7 @@ The US Army has investigated 56 soldiers in Afghanistan on suspicion of using or
 
 ##### Russia
 ### [Russia and China begin naval exercises in the Yellow Sea. ](/news/2012/04/22/russia-and-china-begin-naval-exercises-in-the-yellow-sea.md)
-_Context: naval exercise, Russia, Yellow Sea, China_
+_Context: Russia, China, naval exercise, Yellow Sea_
 
 ##### France
 ### [Voters in France go to the polls for the first round of the French presidential election with Francois Hollande of the French Socialist Party and incumbent President Nicolas Sarkozy through to the second round. ](/news/2012/04/22/voters-in-france-go-to-the-polls-for-the-first-round-of-the-french-presidential-election-with-franassois-hollande-of-the-french-socialist-par.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/17/president-of-the-philippines-rodrigo-duterte-pl
 
 ### [2017-07-17](/news/2017/07/17/index.md)
 
-##### martial law
+##### Martial law
 # President of the Philippines Rodrigo Duterte plans to appeal to the Congress of the Philippines to extend Proclamation No. 216 (martial law on the whole of Mindanao, which will end on 22 July 10 PM PST) until the end of 2017, due to constitutional constraints as well as the ongoing Marawi crisis. 
 
 To quell the rebellion in the Philippine city, President Rodrigo Duterte asked lawmakers to allow martial law on the island of Mindanao through the end of the year.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/4/at-least-9-people-die-after-heavy-snowfall-hit-t
 
 ### [2013-03-4](/news/2013/03/4/index.md)
 
-##### snowfall
+##### Snowfall
 # At least 9 people die after heavy snowfall hit the northern Japanese island of Hokkaido over the weekend. 
 
 At least nine people die after heavy snowfall hits the northern Japanese island of Hokkaido over the weekend.

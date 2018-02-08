@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/6/the-television-sitcom-friends-airs-its-final-epi
 
 ### [2004-05-6](/news/2004/05/6/index.md)
 
-##### sitcom
+##### Sitcom
 #  The television sitcom "Friends" airs its final episode in the United States and Canada.
 
 

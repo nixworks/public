@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/2/thousands-of-people-attend-pro-and-anti-carbon-t
 
 ### [2011-04-2](/news/2011/04/2/index.md)
 
-##### pro- and anti
+##### Pro- and anti
 # Thousands of people attend pro- and anti-carbon tax (part of a phase-in of an emissions trading program) rallies in Sydney, Australia. 
 
 Thousands protest in Sydney parks to denounce and to support a carbon tax.

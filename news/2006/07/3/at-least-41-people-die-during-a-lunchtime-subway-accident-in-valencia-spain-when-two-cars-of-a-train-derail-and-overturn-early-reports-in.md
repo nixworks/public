@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/3/at-least-41-people-die-during-a-lunchtime-subway
 
 ### [2006-07-3](/news/2006/07/3/index.md)
 
-##### subway accident in Valencia
+##### Subway accident in Valencia
 #  At least 41 people die during a lunchtime subway accident in Valencia, Spain when two cars of a train derail and overturn. Early reports indicate the train was travelling too fast. 
 
 

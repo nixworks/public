@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/28/more-than-50-royal-mummies-have-been-discovered
 
 ### [2014-04-28](/news/2014/04/28/index.md)
 
-##### mummies
+##### Mummies
 # More than 50 royal mummies have been discovered by Egyptian and Swiss archeologists in the newly opened KV40 tomb in Egypt's Valley of the Kings. 
 
 A royal mummy discovery in Egypt&#039;s Valley of the Kings includes several princes and princesses.

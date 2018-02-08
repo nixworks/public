@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/17/virginia-tech-massacre.html)  [JSON](/news/2007
 
 ### [2007-04-17](/news/2007/04/17/index.md)
 
-##### largest mass shooting in US history
+##### Largest mass shooting in US history
 #  Virginia Tech massacre:
 
 

@@ -5,13 +5,13 @@ Formats: [HTML](2007/08/5/index.html)  [JSON](2007/08/5/index.json)  [XML](2007/
 
 ##### Mozambique
 ### [ Authorities in Mozambique seize thousands of boxes of counterfeit toothpaste which they fear may contain the dangerous chemical diethylene glycol. ](/news/2007/08/5/authorities-in-mozambique-seize-thousands-of-boxes-of-counterfeit-toothpaste-which-they-fear-may-contain-the-dangerous-chemical-diethylene.md)
-_Context: Mozambique, counterfeit, toothpaste, diethylene glycol_
+_Context: diethylene glycol, toothpaste, counterfeit, Mozambique_
 
 ##### Port Moresby
 ### [ Police fire shots to disperse an angry crowd in Port Moresby, Papua New Guinea with unconfirmed reports of a man dying. ](/news/2007/08/5/police-fire-shots-to-disperse-an-angry-crowd-in-port-moresby-papua-new-guinea-with-unconfirmed-reports-of-a-man-dying.md)
 The Sydney Morning Herald 404 Page
 
-##### prison
+##### Prison
 ### [ Twenty-six people including 14 convicted prisoners escape from the Campsfield House detention centre in Oxfordshire, England. ](/news/2007/08/5/twenty-six-people-including-14-convicted-prisoners-escape-from-the-campsfield-house-detention-centre-in-oxfordshire-england.md)
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
@@ -29,9 +29,9 @@ Lorena Ochoa led wire-to-wire in the Women’s British Open, sealing the win wit
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush meets with the President of Afghanistan Hamid Karzai at Camp David to discuss the security of Afghanistan. ](/news/2007/08/5/the-president-of-the-united-states-george-w-bush-meets-with-the-president-of-afghanistan-hamid-karzai-at-camp-david-to-discuss-the-securit.md)
-_Context: Camp David, Hamid Karzai, Afghanistan, George W. Bush, Afghanistan President, U.S. President_
+_Context: Hamid Karzai, Afghanistan, U.S. President, George W. Bush, Afghanistan President, Camp David_
 
-##### Lebanon
+##### Lebanese
 ### [ Lebanon holds two by-elections to replace two members of the Parliament of Lebanon, Pierre Amine Gemayel and Walid Eido, killed in violent incidents claimed to be murder. Camille Khoury and Mohamad Amin Itani are declared as the winners of the elections although rival candidate Amin Gemayel has lodged a complaint about Khoury's victory. ](/news/2007/08/5/lebanon-holds-two-by-elections-to-replace-two-members-of-the-parliament-of-lebanon-pierre-amine-gemayel-and-walid-eido-killed-in-violent.md)
 Lebanon&#039;s Opposition has won a key by-election that has left the country&#039;s Christians deeply divided ahead of polls to elect a new president, who is traditionally a Christian.
 
@@ -43,9 +43,9 @@ The death toll from raging floods in India has neared 1,100 as more people drown
 ### [ Mortar bombs strike a petrol station in eastern Baghdad killing at least nine people and injuring 11. ](/news/2007/08/5/mortar-bombs-strike-a-petrol-station-in-eastern-baghdad-killing-at-least-nine-people-and-injuring-11.md)
 Mortar bombs have struck a petrol station in eastern Baghdad, killing at least nine people and wounding 11, Iraqi police say.
 
-##### tunnel
+##### Tunnel
 ### [ Thirty-four rail workers building a tunnel in Hubei province China are trapped 200 metres underground following a landslide. ](/news/2007/08/5/thirty-four-rail-workers-building-a-tunnel-in-hubei-province-china-are-trapped-200-metres-underground-following-a-landslide.md)
-_Context: landslide, tunnel, China, Hubei_
+_Context: China, tunnel, landslide, Hubei_
 
 ## [Previous Day...](/news/2007/08/4/index.md)
 

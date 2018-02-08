@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/11/a-devastating-bushfire-rips-through-the-town-of
 
 ### [2006-12-11](/news/2006/12/11/index.md)
 
-##### bushfire
+##### Bushfire
 #  A devastating bushfire rips through the town of Scamander, Tasmania in Australia, destroying 23 homes. 
 
 

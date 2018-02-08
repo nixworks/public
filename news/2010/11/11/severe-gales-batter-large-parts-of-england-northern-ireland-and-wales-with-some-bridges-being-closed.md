@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/11/severe-gales-batter-large-parts-of-england-nort
 
 ### [2010-11-11](/news/2010/11/11/index.md)
 
-##### gale
+##### Gale
 # Severe gales batter large parts of England, Northern Ireland and Wales with some bridges being closed. 
 
 A 55-year-old woman has died after a tree fell on her car during 24 hours of severe gales and torrential rain.

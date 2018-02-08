@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/3/the-new-metro-in-bangkok-thailand-officially-ope
 
 ### [2004-07-3](/news/2004/07/3/index.md)
 
-##### new metro
+##### New metro
 #  The new metro in Bangkok, Thailand, officially opens. It is overcrowded within 30 minutes. 
 
 

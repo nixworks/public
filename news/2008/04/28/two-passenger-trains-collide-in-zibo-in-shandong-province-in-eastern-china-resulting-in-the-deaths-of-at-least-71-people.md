@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/28/two-passenger-trains-collide-in-zibo-in-shandon
 
 ### [2008-04-28](/news/2008/04/28/index.md)
 
-##### passenger trains collide
+##### Passenger trains collide
 #  Two passenger trains collide in Zibo in Shandong province in eastern China resulting in the deaths of at least 71 people. 
 
 

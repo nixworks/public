@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/17/five-basketball-players-at-duquesne-university-
 
 ### [2006-09-17](/news/2006/09/17/index.md)
 
-##### basketball
+##### Basketball
 #  Five basketball players at Duquesne University in Pittsburgh, Pennsylvania are shot on campus after they tried to calm a disturbed man at a dance in the Student Union. Three of the five are hospitalized, with one in critical condition. 
 
 Five Duquesne basketball players were shot on campus early Sunday, leaving at least one critically injured, after some of them tried to calm a man who apparently had been disruptive at a dance, officials said.

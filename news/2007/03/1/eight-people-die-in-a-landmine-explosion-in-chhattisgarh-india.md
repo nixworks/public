@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chha
 
 ### [2007-03-1](/news/2007/03/1/index.md)
 
-##### landmine
+##### Landmine
 #  Eight people die in a landmine explosion in Chhattisgarh, India. 
 
 

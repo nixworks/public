@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/13/at-least-21-people-are-killed-and-five-are-woun
 
 ### [2010-05-13](/news/2010/05/13/index.md)
 
-##### outburst
+##### Outburst
 # At least 21 people are killed and five are wounded in an outburst at a colliery in Puding County, Anshun, Guizhou. 
 
 

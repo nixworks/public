@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/15/2008-cambodian-thai-stand-off-cambodia-claims-t
 
 ### [2008-10-15](/news/2008/10/15/index.md)
 
-##### exchange gunfire
+##### Exchange gunfire
 #  2008 Cambodian-Thai stand-off: Cambodia claims that Thai forces are grouping near the disputed area with later reports of an exchange of gunfire resulting in the death of two Royal Cambodian Army soldiers. 
 
 

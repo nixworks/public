@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/4/a-helicopter-crashes-into-the-east-river-in-new-
 
 ### [2011-10-4](/news/2011/10/4/index.md)
 
-##### helicopter crashes
+##### Helicopter crashes
 # A helicopter crashes into the East River in New York City killing one person and injuring three after taking off from the East 34th Street Heliport. 
 
 

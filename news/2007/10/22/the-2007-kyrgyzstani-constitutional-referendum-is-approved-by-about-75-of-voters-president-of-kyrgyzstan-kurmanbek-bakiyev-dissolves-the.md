@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/22/the-2007-kyrgyzstani-constitutional-referendum-
 
 ### [2007-10-22](/news/2007/10/22/index.md)
 
-##### constitutional changes in a referendum
+##### Constitutional changes in a referendum
 #  The 2007 Kyrgyzstani constitutional referendum is approved by about 75% of voters. President of Kyrgyzstan Kurmanbek Bakiyev dissolves the parliament and announces a snap legislative election will take place in December 2007, which he will contest with his newly founded party Ak Zhol. 
 
 

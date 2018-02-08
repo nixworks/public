@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/18/the-death-toll-in-the-collapse-of-a-garment-fac
 
 ### [2005-04-18](/news/2005/04/18/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the collapse of a garment factory in Dacca, Bangladesh reaches 74. Dozens are still missing. [http:--www.alertnet.org-thenews-newsdesk-DHA24436.htm (Reuters AlertNet)] (Link dead as of 04:02, 16 January 2007 (UTC))
 
 

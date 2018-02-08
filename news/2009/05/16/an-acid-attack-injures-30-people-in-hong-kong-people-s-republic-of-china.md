@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-p
 
 ### [2009-05-16](/news/2009/05/16/index.md)
 
-##### acid
+##### Acid
 #  An acid attack injures 30 people in Hong Kong, People's Republic of China. 
 
 

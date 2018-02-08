@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/9/scientists-speaking-at-a-news-conference-on-natu
 
 ### [2004-08-9](/news/2004/08/9/index.md)
 
-##### natural disaster
+##### Natural disaster
 #  Scientists speaking at a news conference on natural disasters raise the alarm that the Cumbre Vieja volcano on La Palma, Canary Islands, could erupt at any time, sending a 250&nbsp;km 2 . rock crashing into the Atlantic Ocean and producing a tsunami that could devastate the Atlantic's coastline, within hours. Very little seismological monitoring of the volcano is being carried out. 
 
 

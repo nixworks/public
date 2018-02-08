@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/19/an-explosion-kills-one-and-injures-at-least-30-
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
-##### anti-bullfighting
+##### Anti-bullfighting
 # An explosion kills one and injures at least 30 people, mostly police officers preparing for the weekly anti-bullfighting protests in Bogota, Colombia. Bullfighting resumed last month after a four-year lull, per a Supreme Court order. Responsibility has not been determined. 
 
 Animal rights activists were due to hold an anti-bullfighting march close to where the blast happened.

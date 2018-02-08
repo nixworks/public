@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/29/a-wave-of-twelve-car-bombs-targeting-shiite-com
 
 ### [2013-07-29](/news/2013/07/29/index.md)
 
-##### car bomb
+##### Car bomb
 # A wave of twelve car bombs targeting Shiite communities in Iraq kills at least 44 people. 
 
 

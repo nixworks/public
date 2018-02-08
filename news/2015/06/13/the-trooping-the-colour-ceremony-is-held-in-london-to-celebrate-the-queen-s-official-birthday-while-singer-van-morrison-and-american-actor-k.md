@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-lon
 
 ### [2015-06-13](/news/2015/06/13/index.md)
 
-##### trooping the colour
+##### Trooping the colour
 # The trooping the colour ceremony is held in London to celebrate the Queen's Official Birthday while singer Van Morrison and American actor Kevin Spacey are given knighthoods at the Birthday Honours. 
 
 

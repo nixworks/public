@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/18/with-polls-showing-a-close-race-with-emmanuel-m
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # With polls showing a close race with Emmanuel Macron and Jean-Luc Mlenchon, Marine Le Pen of the National Front pledges to temporarily suspend all immigration, "legal and illegal", to France. 
 
 

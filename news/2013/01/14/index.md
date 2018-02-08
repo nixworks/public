@@ -15,11 +15,11 @@ West African defense chiefs will on Tuesday approve plans to speed up the deploy
 ### [Myanmar government forces shell the rebel stronghold of Laiza for the first time since the resumption of hostilities in 2011, killing 3 civilians and injuring 6 others. ](/news/2013/01/14/myanmar-government-forces-shell-the-rebel-stronghold-of-laiza-for-the-first-time-since-the-resumption-of-hostilities-in-2011-killing-3-civi.md)
 At least three civilians killed and six wounded in attack on Kachin Independence Army headquarters in Laiza, rebels say.
 
-##### police officer
+##### Police officer
 ### [A police officer is wounded after a grenade attack in Benghazi, as Italy announces the temporary withdrawal of the country's consulate in the city after an unsuccessful attack against the consul two days earlier. ](/news/2013/01/14/a-police-officer-is-wounded-after-a-grenade-attack-in-benghazi-as-italy-announces-the-temporary-withdrawal-of-the-country-s-consulate-in-th.md)
 At least one police officer was wounded when attackers threw a hand grenade at a patrol car in the east Libyan city of Benghazi on Monday in the latest in a series of assaults on security officials, the force said.
 
-##### music retailer
+##### Music retailer
 ### [British music retailer HMV goes into administration after 90 years of trading, becoming the UK's latest large employer to experience financial hardship. ](/news/2013/01/14/british-music-retailer-hmv-goes-into-administration-after-90-years-of-trading-becoming-the-uk-s-latest-large-employer-to-experience-financi.md)
 Troubled music and DVD retailer HMV, which began trading in 1921, announces it is to appoint an administrator, putting about 4,350 jobs in jeopardy.
 

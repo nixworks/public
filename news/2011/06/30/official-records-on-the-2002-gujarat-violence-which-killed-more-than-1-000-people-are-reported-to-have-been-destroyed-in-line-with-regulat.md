@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/30/official-records-on-the-2002-gujarat-violence-w
 
 ### [2011-06-30](/news/2011/06/30/index.md)
 
-##### riots
+##### Riots
 # Official records on the 2002 Gujarat violence, which killed more than 1,000 people, are reported to have been destroyed in line with regulations. 
 
 

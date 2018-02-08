@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/25/burkina-faso-and-swaziland-refuse-to-break-rela
 
 ### [2017-01-25](/news/2017/01/25/index.md)
 
-##### diplomatic ties
+##### Diplomatic ties
 # Burkina Faso and Swaziland refuse to break relations with Taiwan and recognize the One-China policy despite being offered aid from China. 
 
 Taiwan’s last two African allies have no plans to switch allegiances and break ties with Taipei as Beijing tries to woo the self-ruled island’s diplomatic partners.

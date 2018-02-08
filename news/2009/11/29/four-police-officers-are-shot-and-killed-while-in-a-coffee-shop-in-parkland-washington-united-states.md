@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/29/four-police-officers-are-shot-and-killed-while-
 
 ### [2009-11-29](/news/2009/11/29/index.md)
 
-##### police officers
+##### Police officers
 #  Four police officers are shot and killed while in a coffee shop in Parkland, Washington, United States. 
 
 The man suspected of gunning down four police officers in a coffee shop is shot and killed by a lone Seattle patrol officer investigating a stolen car.

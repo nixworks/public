@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/28/blackout-in-italy-and-a-small-part-of-switzerla
 
 ### [2003-09-28](/news/2003/09/28/index.md)
 
-##### power outage
+##### Power outage
 #  Blackout: In Italy and a small part of Switzerland 57 million people were without power from late Saturday night until Sunday noon. The power outage was more extensive than the North American blackout in August.
 
 

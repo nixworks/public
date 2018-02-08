@@ -5,11 +5,11 @@ Formats: [HTML](2010/08/12/index.html)  [JSON](2010/08/12/index.json)  [XML](201
 
 ##### International Assistance Mission
 ### [The International Assistance Mission says it now believes that the Taliban was responsible for the 2010 Badakhshan massacre of its medical team in Afghanistan. ](/news/2010/08/12/the-international-assistance-mission-says-it-now-believes-that-the-taliban-was-responsible-for-the-2010-badakhshan-massacre-of-its-medical-t.md)
-_Context: Afghanistan, Taliban, 2010 Badakhshan massacre, International Assistance Mission_
+_Context: 2010 Badakhshan massacre, Afghanistan, Taliban, International Assistance Mission_
 
 ##### Human Rights Watch
 ### [Human Rights Watch accuses the northern Ugandan Lord's Resistance Army of abducting and forcing the recruitment of at least 697 people during the last year and a half across central Africa. ](/news/2010/08/12/human-rights-watch-accuses-the-northern-ugandan-lord-s-resistance-army-of-abducting-and-forcing-the-recruitment-of-at-least-697-people-durin.md)
-_Context: Lord's Resistance Army, central Africa, Uganda, Human Rights Watch_
+_Context: Human Rights Watch, Lord's Resistance Army, Uganda, central Africa_
 
 ##### Dhaka
 ### [At least 50 people are injured in Dhaka as police use batons and tear gas to beat back civilians protesting against frequent power outage. ](/news/2010/08/12/at-least-50-people-are-injured-in-dhaka-as-police-use-batons-and-tear-gas-to-beat-back-civilians-protesting-against-frequent-power-outage.md)
@@ -17,9 +17,9 @@ Dozens hurt in police clash after demonstrating against frequent power outages.
 
 ##### United Nations
 ### [The United Nations condemns France's crackdown on 40 gypsy camps. ](/news/2010/08/12/the-united-nations-condemns-france-s-crackdown-on-40-gypsy-camps.md)
-_Context: Roma, United Nations, France_
+_Context: France, Roma, United Nations_
 
-##### self-immolation
+##### Self-immolation
 ### [At least two people are killed, including one case of self-immolation from a balcony, while more than 80 sustain wounds after troops interrupt a protest against poor conditions with batons and flashbangs at a prison in Astana, Kazakhstan. ](/news/2010/08/12/at-least-two-people-are-killed-including-one-case-of-self-immolation-from-a-balcony-while-more-than-80-sustain-wounds-after-troops-interru.md)
 At least two inmates are killed and more than 80 injured during a prison riot in Kazakhstan, in an apparent protest over poor conditions.
 
@@ -57,7 +57,7 @@ A woman accused of attacking Leonardo DiCaprio with a broken bottle at a 2005 pa
 
 ##### Edward Whitacre, Jr.
 ### [Edward Whitacre, Jr. announces that he will resign as chief executive officer of General Motors effective from September and that he will be replaced by Daniel Akerson. ](/news/2010/08/12/edward-whitacre-jr-announces-that-he-will-resign-as-chief-executive-officer-of-general-motors-effective-from-september-and-that-he-will-be.md)
-_Context: Daniel Akerson, Edward Whitacre, Jr., General Motors, chief executive officer_
+_Context: chief executive officer, General Motors, Daniel Akerson, Edward Whitacre, Jr._
 
 ##### Greece
 ### [Greece's economy shrinks further. ](/news/2010/08/12/greece-s-economy-shrinks-further.md)
@@ -79,7 +79,7 @@ An earthquake measuring 6.9 hits Ecuador, about 170km (105 miles) south-east of 
 ### [Doctors in Moscow are encouraged to use "less frightening" causes of death as the mortality rate from heatstroke soars with fires burning across Russia. ](/news/2010/08/12/doctors-in-moscow-are-encouraged-to-use-less-frightening-causes-of-death-as-the-mortality-rate-from-heatstroke-soars-with-fires-burning-ac.md)
 Doctors in Moscow are being told not to diagnose heatstroke as a cause of death after the mortality rate jumps, Russia media report.
 
-##### landslide
+##### Landslide
 ### [Rescue efforts are disrupted by severe rain after last week's deadly landslide in Zhugqu County, Gansu. ](/news/2010/08/12/rescue-efforts-are-disrupted-by-severe-rain-after-last-week-s-deadly-landslide-in-zhugqu-county-gansu.md)
 Heavy rain in north-west China is disrupting rescue efforts after a huge landslide last week, which killed more than 1,000 people.
 
@@ -99,7 +99,7 @@ At least 50 people are killed after a lorry plunges into Lake Tanganyika in the 
 ### [Turkey sets up a commission of Turkish officials and bureaucrats to investigate May's Gaza flotilla raid. ](/news/2010/08/12/turkey-sets-up-a-commission-of-turkish-officials-and-bureaucrats-to-investigate-may-s-gaza-flotilla-raid.md)
 _Context: Turkey, Gaza flotilla raid_
 
-##### Poland
+##### Polish
 ### [Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected-spy-uri-brodsky-to-germany-to-face-charges-of-being-involved-in-the-murder-of-mahmoud-al-mab.md)
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.
 
@@ -109,7 +109,7 @@ Officials say 500 people could be onboard boat from Sri Lanka.
 
 ##### Mohammad-Reza Rahimi
 ### [Mohammad-Reza Rahimi, the Vice-President of Iran describes inhabitants of the United Kingdom as "not human" and "a bunch of idiots run by a mafia". He also describes Australians as "a bunch of cattlemen" and says that Koreans "need to be slapped". ](/news/2010/08/12/mohammad-reza-rahimi-the-vice-president-of-iran-describes-inhabitants-of-the-united-kingdom-as-not-human-and-a-bunch-of-idiots-run-by-a.md)
-_Context: South Korea, First Vice President, Australia, United Kingdom, cattlemen, mafia, Iran, Mohammad-Reza Rahimi_
+_Context: Australia, South Korea, First Vice President, mafia, United Kingdom, Iran, cattlemen, Mohammad-Reza Rahimi_
 
 ##### Babar Ahmad
 ### [Four British police officers are charged with beating, dragging, punching, stamping and mocking "terror suspect" Babar Ahmad after arresting him in Tooting, South London in 2003; the suspect, a 36-year-old IT worker, was later deemed innocent. ](/news/2010/08/12/four-british-police-officers-are-charged-with-beating-dragging-punching-stamping-and-mocking-terror-suspect-babar-ahmad-after-arresting.md)
@@ -121,7 +121,7 @@ The health ministry in China is investigating reports that a brand of powdered m
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, sentenced to death in Iran, "confesses" to adultery and murder in a televised broadcast. ](/news/2010/08/12/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-confesses-to-adultery-and-murder-in-a-televised-broadcast.md)
-_Context: Iran, adultery, murder, Sakineh Mohammadi Ashtiani_
+_Context: adultery, Iran, murder, Sakineh Mohammadi Ashtiani_
 
 ##### United States District Court for the Northern District of California
 ### [Federal Judge Vaughn R. Walker, after deciding for the plaintiffs in Perry v. Schwarzenegger, mandates that same-sex marriage in the U.S. state of California should resume on August 18. ](/news/2010/08/12/federal-judge-vaughn-r-walker-after-deciding-for-the-plaintiffs-in-perry-v-schwarzenegger-mandates-that-same-sex-marriage-in-the-u-s-st.md)
@@ -141,7 +141,7 @@ The defence lawyer of the former Liberian President Charles Taylor was temporari
 
 ##### India
 ### [India issues the producer of the controversial Blackberry devices a 31 August deadline to give the Indian government access to its services or be shut down over concerns the devices could be used to commit a repeat of the 2008 Mumbai attacks. ](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.md)
-_Context: 2008 Mumbai attacks, Government of India, Blackberry, India_
+_Context: 2008 Mumbai attacks, Blackberry, Government of India, India_
 
 ##### Israel
 ### [Israeli citizen Elias Abuelazam, a suspected serial killer from Flint, Michigan, is arrested while attempting to leave the United States. ](/news/2010/08/12/israeli-citizen-elias-abuelazam-a-suspected-serial-killer-from-flint-michigan-is-arrested-while-attempting-to-leave-the-united-states.md)
@@ -153,7 +153,7 @@ Sitting at home taking in the sea views from the balcony, President Emeritus Gui
 
 ##### Burma
 ### [Burma begins preparations for its controversial general elections to be held sometime later this year, by designating electoral constituencies. ](/news/2010/08/12/burma-begins-preparations-for-its-controversial-general-elections-to-be-held-sometime-later-this-year-by-designating-electoral-constituenci.md)
-_Context: Burma, general elections_
+_Context: general elections, Burma_
 
 ##### Potosi
 ### [Anti-government protests in Potosi, Bolivia enter their third week, affecting mining production, blocking road and air transport, stranding tourists and reducing food supplies. ](/news/2010/08/12/anti-government-protests-in-potosa-bolivia-enter-their-third-week-affecting-mining-production-blocking-road-and-air-transport-stranding.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/9/a-drone-strike-by-the-united-states-kills-50-tal
 
 ### [2009-07-9](/news/2009/07/9/index.md)
 
-##### drone
+##### Drone
 #  A drone strike by the United States kills 50 Taliban militants in South Waziristan, Pakistan. 
 
 

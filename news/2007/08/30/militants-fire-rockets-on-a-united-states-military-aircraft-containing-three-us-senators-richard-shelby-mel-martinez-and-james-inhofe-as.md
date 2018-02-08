@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/30/militants-fire-rockets-on-a-united-states-milit
 
 ### [2007-08-30](/news/2007/08/30/index.md)
 
-##### rocket
+##### Rocket
 #  Militants fire rockets on a United States military aircraft containing three US Senators (Richard Shelby, Mel Martinez and James Inhofe) as well as Rep. Bud Cramer as it leaves Baghdad for Amman in Jordan. 
 
 

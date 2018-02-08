@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/13/a-total-solar-eclipse-occurred-in-parts-of-aust
 
 ### [2012-11-13](/news/2012/11/13/index.md)
 
-##### solar eclipse
+##### Solar eclipse
 # A total solar eclipse occurred in parts of Australia and the South Pacific. The most populous city to experience totality was Cairns. 
 
 Tens of thousands of tourists and astronomers gathered in northern Australia to glimpse a rare total solar eclipse.

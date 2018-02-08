@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/3/three-people-are-dead-and-many-more-injured-as-a
 
 ### [2008-06-3](/news/2008/06/3/index.md)
 
-##### flood
+##### Flood
 #  Three people are dead and many more injured as a result of flooding in the Zollernalbkreis region in the German state of Baden-Wuerttemberg. 
 
 

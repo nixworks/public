@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/8/two-suspected-al-qaeda-militants-are-killed-in-a
 
 ### [2014-01-8](/news/2014/01/8/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Two suspected Al-Qaeda militants are killed in a U.S. drone strike in the southeastern province of Hadhramaut. 
 
 Two suspected al Qaeda militants were killed in a U.S. drone strike in the southeastern province of Hadramout on Wednesday, residents and local officials said.

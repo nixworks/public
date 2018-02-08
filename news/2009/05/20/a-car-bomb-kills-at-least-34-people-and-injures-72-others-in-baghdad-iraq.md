@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/20/a-car-bomb-kills-at-least-34-people-and-injures
 
 ### [2009-05-20](/news/2009/05/20/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb kills at least 34 people and injures 72 others in Baghdad, Iraq. 
 
 

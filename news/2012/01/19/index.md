@@ -11,13 +11,13 @@ Syrian government troops pulled back armoured vehicles from the town of Zabandi 
 ### [Kodak files for bankruptcy protection. ](/news/2012/01/19/kodak-files-for-bankruptcy-protection.md)
 * Liabilities exceed assets by about $1.65 billion* Kodak holds 1,100 digital patents* Obtains $950 mln credit line from Citigroup* C
 
-##### tropical storm
+##### Tropical storm
 ### [Five people are killed and thousands of others are affected following the first tropical storm to hit Mozambique since 1984. ](/news/2012/01/19/five-people-are-killed-and-thousands-of-others-are-affected-following-the-first-tropical-storm-to-hit-mozambique-since-1984.md)
-_Context: tropical storm, Mozambique_
+_Context: Mozambique, tropical storm_
 
 ##### FBI
 ### [The FBI shuts down Megaupload. In response, hacker group Anonymous shuts down the United States Department of Justice website and many websites of the government and entertainment industry. ](/news/2012/01/19/the-fbi-shuts-down-megaupload-in-response-hacker-group-anonymous-shuts-down-the-united-states-department-of-justice-website-and-many-websi.md)
-_Context: hacker group Anonymous, FBI, Department of Justice, Megaupload_
+_Context: hacker group Anonymous, Department of Justice, Megaupload, FBI_
 
 ##### News International
 ### [News International pays out compensation to 37 people, including the actor Jude Law and politician John Prescott. over phone hacking by the "News of the World". ](/news/2012/01/19/news-international-pays-out-compensation-to-37-people-including-the-actor-jude-law-and-politician-john-prescott-over-phone-hacking-by-the.md)
@@ -27,13 +27,13 @@ Jude Law and Lord Prescott are among 37 people to receive payouts over phone hac
 ### [Ugandan opposition leader Kizza Besigye and several others are arrested. ](/news/2012/01/19/ugandan-opposition-leader-kizza-besigye-and-several-others-are-arrested.md)
 Kizza Besigye detained by police, along with several allies, ahead of planned anti-government protests in Kampala.
 
-##### army
+##### Army
 ### [The army of Bangladesh says it has foiled a military coup. ](/news/2012/01/19/the-army-of-bangladesh-says-it-has-foiled-a-military-coup.md)
 The army in Bangladesh foils a coup planned against the government of Prime Minister Sheikh Hasina, a military spokesman says.
 
 ##### Rick Perry
 ### [Rick Perry drops out of the 2012 Republican Party presidential primaries and endorses rival candidate Newt Gingrich. ](/news/2012/01/19/rick-perry-drops-out-of-the-2012-republican-party-presidential-primaries-and-endorses-rival-candidate-newt-gingrich.md)
-_Context: Rick Perry, Newt Gingrich, Republican primaries_
+_Context: Republican primaries, Rick Perry, Newt Gingrich_
 
 ##### International Telecommunication Union
 ### [A decision by the International Telecommunication Union on whether to abolish the leap second is postponed until 2015 pending the results of further studies. ](/news/2012/01/19/a-decision-by-the-international-telecommunication-union-on-whether-to-abolish-the-leap-second-is-postponed-until-2015-pending-the-results-of.md)

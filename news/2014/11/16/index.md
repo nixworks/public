@@ -7,7 +7,7 @@ Formats: [HTML](2014/11/16/index.html)  [JSON](2014/11/16/index.json)  [XML](201
 ### [ISIL claims to have executed American hostage Abdul-Rahman Kassig. ](/news/2014/11/16/isil-claims-to-have-executed-american-hostage-abdul-rahman-kassig.md)
 A video released on to the internet claims to show that Islamic State militants have killed the captured US aid worker Abdul-Rahman Kassig.
 
-##### suicide bomber
+##### Suicide bomber
 ### [A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. ](/news/2014/11/16/a-female-suicide-bomber-kills-13-people-in-the-town-of-abare-in-northeastern-nigeria.md)
 The Nigerian army says it has recaptured the north-eastern Nigerian town of Chibok from Boko Haram militants, who seized the town on Thursday.
 
@@ -29,7 +29,7 @@ At least four people are killed when landslides engulf homes in southern Switzer
 
 ##### Influenza A virus subtype H5N1
 ### [Authorities in the Netherlands ban the sale of poultry and eggs following the discovery of the bird flu virus at a chicken farm. Authorities in the United Kingdom have also confirmed that the virus has been discovered at a Yorkshire duck farm with the birds being culled. ](/news/2014/11/16/authorities-in-the-netherlands-ban-the-sale-of-poultry-and-eggs-following-the-discovery-of-the-bird-flu-virus-at-a-chicken-farm-authorities.md)
-_Context: United Kingdom, Influenza A virus subtype H5N1, Netherlands, eggs, poultry, Yorkshire_
+_Context: Netherlands, United Kingdom, eggs, Yorkshire, Influenza A virus subtype H5N1, poultry_
 
 ##### Brisbane
 ### [Protestors in Brisbane burn Australian flags over indigenous rights. ](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.md)

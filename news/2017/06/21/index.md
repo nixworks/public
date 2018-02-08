@@ -11,13 +11,13 @@ Pro-Islamic State militants have stormed a town and occupied a school in the sou
 ### [ISIL militants reportedly blow up the Great Mosque of al-Nuri in Mosul, where Abu Bakr al-Baghdadi famously proclaimed the creation of a caliphate in 2014. ISIL blames a U.S. airstrike. ](/news/2017/06/21/isil-militants-reportedly-blow-up-the-great-mosque-of-al-nuri-in-mosul-where-abu-bakr-al-baghdadi-famously-proclaimed-the-creation-of-a-cal.md)
 The al-Nuri Mosque was where the leader of IS proclaimed its so-called &quot;caliphate&quot; in 2014.
 
-##### yoga
+##### Yoga
 ### [More than 50,000 people practice yoga in Lucknow, India, to celebrate International Yoga Day. ](/news/2017/06/21/more-than-50-000-people-practice-yoga-in-lucknow-india-to-celebrate-international-yoga-day.md)
 Yoga practitioners took a relaxing break to bend, twist and pose Wednesday morning for the annual event celebrating the practice, especially in the country where it began. Indian Prime Minister Narendra Modi joined 50,000 students and other residents for a mass yoga session in the pouring...
 
 ##### Jose Eduardo Agualusa
 ### [Author Jose Eduardo Agualusa wins the International Dublin Literary Award for his novel "A General Theory of Oblivion". (](/news/2017/06/21/author-josa-c-eduardo-agualusa-wins-the-international-dublin-literary-award-for-his-novel-a-general-theory-of-oblivion.md)
-_Context: Jose Eduardo Agualusa, International Dublin Literary Award, A General Theory of Oblivion_
+_Context: Jose Eduardo Agualusa, A General Theory of Oblivion, International Dublin Literary Award_
 
 ##### 2017 United Kingdom heat wave
 ### [ The United Kingdom experiences its first early summer heat wave in over 20 years, and the highest recorded June temperatures in over 40 years with a reading of 34.5C (94F) recorded at Heathrow Airport. ](/news/2017/06/21/the-united-kingdom-experiences-its-first-early-summer-heat-wave-in-over-20-years-and-the-highest-recorded-june-temperatures-in-over-40-yea.md)
@@ -41,7 +41,7 @@ Mohammed bin Nayef is replaced by Mohammed bin Salman, the 31-year-old rising po
 
 ##### Politics of Romania
 ### [After a short term political crisis, started when the governing PSD retracted its support, the Parliament of Romania passes a no confidence motion against the government led by former PSD Prime Minister Sorin Grindeanu. ](/news/2017/06/21/after-a-short-term-political-crisis-started-when-the-governing-psd-retracted-its-support-the-parliament-of-romania-passes-a-no-confidence.md)
-_Context: Prime Minister, PSD, Parliament of Romania, Politics of Romania, Sorin Grindeanu, no confidence motion_
+_Context: Sorin Grindeanu, no confidence motion, PSD, Politics of Romania, Parliament of Romania, Prime Minister_
 
 ##### Second Philippe Government
 ### [Francois Bayrou resigns as France's Minister of Justice amid an ongoing investigation into the centrist Democratic Movement (MoDem)'s alleged fraudulent employment of parliamentary assistants. ](/news/2017/06/21/franassois-bayrou-resigns-as-france-s-minister-of-justice-amid-an-ongoing-investigation-into-the-centrist-democratic-movement-modem-s-alleg.md)

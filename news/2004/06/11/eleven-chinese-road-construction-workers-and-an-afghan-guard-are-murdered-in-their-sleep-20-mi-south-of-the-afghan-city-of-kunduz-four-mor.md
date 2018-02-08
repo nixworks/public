@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/11/eleven-chinese-road-construction-workers-and-an
 
 ### [2004-06-11](/news/2004/06/11/index.md)
 
-##### murder
+##### Murder
 #  Eleven Chinese road construction workers and an Afghan guard are murdered in their sleep 20 mi south of the Afghan city of Kunduz. Four more Chinese are hospitalized for wounds suffered in the same attack. The dead are among more than 100 engineers and workers engaged on a World Bank project to build a road from Kabul to the Tajikistan border. Mullah Dadullah, one of the top Taliban commanders, recently issued orders to his fighters to strike at road builders. 
 
 

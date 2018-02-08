@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/11/an-experimental-vaccine-for-dengue-fever-has-be
 
 ### [2014-07-11](/news/2014/07/11/index.md)
 
-##### vaccine
+##### Vaccine
 # An experimental vaccine for dengue fever has been developed in Manila. 
 
 A vaccine against dengue fever could protect more than half the children who are given it, a trial suggests.

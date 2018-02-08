@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/27/the-government-of-kyrgyzstan-abolishes-capital-
 
 ### [2007-06-27](/news/2007/06/27/index.md)
 
-##### capital punishment
+##### Capital punishment
 #  The Government of Kyrgyzstan abolishes capital punishment. 
 
 

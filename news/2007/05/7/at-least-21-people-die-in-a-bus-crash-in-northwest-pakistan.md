@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/7/at-least-21-people-die-in-a-bus-crash-in-northwe
 
 ### [2007-05-7](/news/2007/05/7/index.md)
 
-##### bus
+##### Bus
 #  At least 21 people die in a bus crash in northwest Pakistan. 
 
 

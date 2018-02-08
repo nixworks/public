@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/29/more-than-400-000-demonstrators-march-in-new-yo
 
 ### [2004-08-29](/news/2004/08/29/index.md)
 
-##### protests
+##### Protests
 #  More than 400,000 demonstrators march in New York City, protesting U.S. President George W. Bush and the policies of the Republican Party on the eve of the 2004 Republican National Convention. Republican delegates and politicians, including Vice President Dick Cheney, also begin to arrive in the city. 
 
 

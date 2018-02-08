@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-fligh
 
 ### [2017-05-1](/news/2017/05/1/index.md)
 
-##### clear-air turbulence
+##### Clear-air turbulence
 # Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. 
 
 

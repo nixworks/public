@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/1/a-country-wide-smoking-ban-in-most-public-spaces
 
 ### [2013-06-1](/news/2013/06/1/index.md)
 
-##### smoking ban
+##### Smoking ban
 # A country-wide smoking ban in most public spaces goes into effect in Russia. 
 
 * Restrictions take effect under anti-tobacco law* Doubts over enforcement in cigarette culture* Forty percent of Russians smoke* Put

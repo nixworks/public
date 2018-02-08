@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
-##### ebola virus
+##### Ebola virus
 # A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. 
 
 The results are in from the clinical trials of a new vaccine — and it looks like a potent weapon. In fact, they are already stockpiling it.

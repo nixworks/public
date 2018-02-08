@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/12/a-blackout-hits-auckland-new-zealand-lasting-fo
 
 ### [2006-06-12](/news/2006/06/12/index.md)
 
-##### power outage
+##### Power outage
 #  A blackout hits Auckland, New Zealand, lasting for several hours after a severe storm lashed the country. Many media outlets compared it to the 1998 Auckland power crisis. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/29/a-huge-number-of-whales-and-dolphins-are-beache
 
 ### [2004-11-29](/news/2004/11/29/index.md)
 
-##### whale
+##### Whale
 #  A huge number of whales and dolphins are beached on the King Island between the Australian mainland and Tasmania; rescue efforts are ongoing 
 
 

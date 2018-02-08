@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/15/u-s-and-german-researchers-report-the-sunset-co
 
 ### [2004-04-15](/news/2004/04/15/index.md)
 
-##### researcher
+##### Researcher
 #  U.S. and German researchers report the sunset could recalibrate the internal compasses of migrating songbirds. 
 
 

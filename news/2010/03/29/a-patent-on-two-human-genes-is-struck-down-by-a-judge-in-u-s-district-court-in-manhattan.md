@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/29/a-patent-on-two-human-genes-is-struck-down-by-a
 
 ### [2010-03-29](/news/2010/03/29/index.md)
 
-##### patent
+##### Patent
 # A patent on two human genes is struck down by a judge in U.S. District Court in Manhattan. 
 
 In a ruling with potentially far-reaching implications for the patenting of human genes, a judge struck down a company’s patents on two genes linked to an increased risk of breast and ovarian cancer.

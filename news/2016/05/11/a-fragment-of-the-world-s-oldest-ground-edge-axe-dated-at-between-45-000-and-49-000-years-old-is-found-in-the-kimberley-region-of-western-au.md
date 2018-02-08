@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/11/a-fragment-of-the-world-s-oldest-ground-edge-ax
 
 ### [2016-05-11](/news/2016/05/11/index.md)
 
-##### ground-edge
+##### Ground-edge
 # A fragment of the world's oldest ground-edge axe dated at between 45,000 and 49,000 years old is found in the Kimberley region of Western Australia. 
 
 A fragment of the world&#39;s oldest known ground-edge axe is found in the remote Kimberley region of northern Australia.

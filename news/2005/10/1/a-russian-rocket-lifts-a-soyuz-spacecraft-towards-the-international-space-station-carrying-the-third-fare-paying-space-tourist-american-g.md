@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/1/a-russian-rocket-lifts-a-soyuz-spacecraft-toward
 
 ### [2005-10-1](/news/2005/10/1/index.md)
 
-##### rocket
+##### Rocket
 #  A Russian rocket lifts a Soyuz spacecraft towards the International Space Station, carrying the third fare-paying space tourist, American Gregory Olsen. 
 
 

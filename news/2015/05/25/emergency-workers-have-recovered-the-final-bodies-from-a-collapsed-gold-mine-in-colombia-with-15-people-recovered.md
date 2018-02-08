@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/25/emergency-workers-have-recovered-the-final-bodi
 
 ### [2015-05-25](/news/2015/05/25/index.md)
 
-##### gold mine
+##### Gold mine
 # Emergency workers have recovered the final bodies from a collapsed gold mine in Colombia with 15 people recovered. 
 
 

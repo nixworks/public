@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/12/41-people-die-following-a-collision-between-a-b
 
 ### [2010-10-12](/news/2010/10/12/index.md)
 
-##### collision between a bus and a train
+##### Collision between a bus and a train
 # 41 people die following a collision between a bus and a train in the Dnipropetrovsk region in the eastern Ukraine. 
 
 At least 42 people are killed and nine injured in a collision between a train and a small bus in eastern Ukraine, police say.

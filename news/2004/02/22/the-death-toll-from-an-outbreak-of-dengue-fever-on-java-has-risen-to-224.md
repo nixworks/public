@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/22/the-death-toll-from-an-outbreak-of-dengue-fever
 
 ### [2004-02-22](/news/2004/02/22/index.md)
 
-##### dengue
+##### Dengue
 #  The death toll from an outbreak of dengue fever on Java has risen to 224. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.

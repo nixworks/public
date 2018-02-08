@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/13/a-coroner-has-recorded-a-verdict-of-unlawful-ki
 
 ### [2006-10-13](/news/2006/10/13/index.md)
 
-##### coroner
+##### Coroner
 #  A coroner has recorded a verdict of unlawful killing on ITN reporter Terry Lloyd, who was shot dead by US forces in southern Iraq in March 2003. 
 
 

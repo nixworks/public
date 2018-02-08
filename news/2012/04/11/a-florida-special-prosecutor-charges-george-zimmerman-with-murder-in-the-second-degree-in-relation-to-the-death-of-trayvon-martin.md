@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/11/a-florida-special-prosecutor-charges-george-zim
 
 ### [2012-04-11](/news/2012/04/11/index.md)
 
-##### the state
+##### The state
 # A Florida special prosecutor charges George Zimmerman with murder in the second degree in relation to the death of Trayvon Martin. 
 
 

@@ -7,7 +7,7 @@ Formats: [HTML](2015/06/22/index.html)  [JSON](2015/06/22/index.json)  [XML](201
 ### [The Afghan National Assembly building is attacked by gunmen after a suicide bombing. All 6 of the gunmen are killed, with 18 people injured. ](/news/2015/06/22/the-afghan-national-assembly-building-is-attacked-by-gunmen-after-a-suicide-bombing-all-6-of-the-gunmen-are-killed-with-18-people-injured.md)
 A co-ordinated Taliban attack on the Afghan parliament in Kabul ends with all six gunmen killed, the interior ministry says.
 
-##### grenade
+##### Grenade
 ### [Four people are killed and thirty injured in grenade attacks in Burundi. ](/news/2015/06/22/four-people-are-killed-and-thirty-injured-in-grenade-attacks-in-burundi.md)
 Four people are killed and 30 wounded in a wave of grenade attacks overnight in Burundi, police say, a week before parliamentary elections.
 
@@ -27,17 +27,17 @@ An Edhi spokesman says its morgue has reached its capacity and cannot accommodat
 ### [A light plane belonging to American composer James Horner crashes in Ventura County, California resulting in his death. ](/news/2015/06/22/a-light-plane-belonging-to-american-composer-james-horner-crashes-in-ventura-county-california-resulting-in-his-death.md)
 The two-time Oscar winner, 61, worked on three James Cameron films, two &#039;Star Trek&#039; movies and classics like &#039;A Beautiful Mind,&#039; &#039;Field of Dreams&#039; and &#039;Apollo 13.&#039;
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 ### [The number of deaths from MERS in South Korea rises to 27 with three new cases reported. The government is taking unprecedented precautions in terms of public sanitation and quarantine.](/news/2015/06/22/the-number-of-deaths-from-mers-in-south-korea-rises-to-27-with-three-new-cases-reported-the-government-is-taking-unprecedented-precautions.md)
  South Korea reported two more deaths from Middle East Respiratory Syndrome (MERS) Monday, with three new cases, bringing the total number of people diagnosed with the disease here to 169.
 
 ##### Ebola virus epidemic in West Africa
 ### [Two new cases of ebola virus disease are reported from Sierra Leone's capital city of Freetown about three weeks after the most recent new cases were found.](/news/2015/06/22/two-new-cases-of-ebola-virus-disease-are-reported-from-sierra-leoneas-capital-city-of-freetown-about-three-weeks-after-the-most-recent-new.md)
-_Context: Ebola virus epidemic in West Africa, ebola virus disease, Freetown, Ebola transmissions, Sierra Leone_
+_Context: Ebola virus epidemic in West Africa, Freetown, Ebola transmissions, ebola virus disease, Sierra Leone_
 
 ##### Japan
 ### [Japan announces plans to resume whaling in the Antarctic during the southern hemisphere summer. Commercial whaling has been banned for over 30 years by the International Whaling Commission. ](/news/2015/06/22/japan-announces-plans-to-resume-whaling-in-the-antarctic-during-the-southern-hemisphere-summer-commercial-whaling-has-been-banned-for-over.md)
-_Context: Japan, International Whaling Commission, southern hemisphere, Antarctic_
+_Context: Japan, Antarctic, International Whaling Commission, southern hemisphere_
 
 ##### 2014 Israel-Gaza conflict
 ### [A United Nations report finds evidence that both Hamas and Israel committed war crimes during the 2014 conflict. ](/news/2015/06/22/a-united-nations-report-finds-evidence-that-both-hamas-and-israel-committed-war-crimes-during-the-2014-conflict.md)
@@ -45,7 +45,7 @@ Commission chair urges international community to act on conclusions of the repo
 
 ##### Office of Personnel Management data breach
 ### [The CNN reports that the size of the Office of Personnel Management data breach could be as large as 18 million past, present and prospective employees of the United States Government. ](/news/2015/06/22/the-cnn-reports-that-the-size-of-the-office-of-personnel-management-data-breach-could-be-as-large-as-18-million-past-present-and-prospectiv.md)
-_Context: Office of Personnel Management data breach, Office of Personnel Management, CNN, United States Government_
+_Context: CNN, United States Government, Office of Personnel Management, Office of Personnel Management data breach_
 
 ##### Charleston church shooting
 ### [The Governor of South Carolina Nikki Haley calls for the Confederate battle flag to be removed from the U.S. Civil War memorial on the grounds of the South Carolina State House. ](/news/2015/06/22/the-governor-of-south-carolina-nikki-haley-calls-for-the-confederate-battle-flag-to-be-removed-from-the-u-s-civil-war-memorial-on-the-groun.md)

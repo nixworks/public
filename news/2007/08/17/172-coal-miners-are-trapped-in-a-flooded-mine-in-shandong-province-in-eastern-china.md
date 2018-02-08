@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/17/172-coal-miners-are-trapped-in-a-flooded-mine-i
 
 ### [2007-08-17](/news/2007/08/17/index.md)
 
-##### coal miner
+##### Coal miner
 #  172 coal miners are trapped in a flooded mine in Shandong province in eastern China. 
 
 Rescuers are trying to reach 172 miners trapped in a flooded coal mine in east China&#039;s Shandong province, state media has reported.

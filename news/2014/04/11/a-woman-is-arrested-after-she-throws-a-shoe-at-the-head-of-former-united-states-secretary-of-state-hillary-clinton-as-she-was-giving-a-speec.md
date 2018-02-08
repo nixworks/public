@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/11/a-woman-is-arrested-after-she-throws-a-shoe-at-
 
 ### [2014-04-11](/news/2014/04/11/index.md)
 
-##### throws a shoe
+##### Throws a shoe
 # A woman is arrested after she throws a shoe at the head of former United States Secretary of State Hillary Clinton as she was giving a speech in Las Vegas, Nevada. 
 
 LAS VEGAS - A woman was taken into federal custody yesterday after throwing a shoe at Hillary Clinton as the former secretary of state began a Las Vegas

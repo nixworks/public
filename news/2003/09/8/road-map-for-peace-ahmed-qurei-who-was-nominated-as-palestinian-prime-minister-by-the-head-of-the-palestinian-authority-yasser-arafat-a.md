@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/8/road-map-for-peace-ahmed-qurei-who-was-nominated
 
 ### [2003-09-8](/news/2003/09/8/index.md)
 
-##### road map peace plan
+##### Road map peace plan
 #  Road map for peace: Ahmed Qurei, who was nominated as Palestinian prime minister by the head of the Palestinian Authority, Yasser Arafat, accepts the position (pending the approval of the parliament). He had originally said there was no reason to form a new government unless "Israel wants to change its hostile attitude."
 
 

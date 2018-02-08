@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/3/political-status-of-taiwan-president-chen-shui-b
 
 ### [2004-02-3](/news/2004/02/3/index.md)
 
-##### relations
+##### Relations
 #  Political status of Taiwan: President Chen Shui-bian proposes to set up a demilitarized zone between Taiwan and mainland China.
 
 

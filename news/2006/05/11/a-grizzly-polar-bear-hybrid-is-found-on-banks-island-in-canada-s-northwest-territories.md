@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/11/a-grizzly-polar-bear-hybrid-is-found-on-banks-i
 
 ### [2006-05-11](/news/2006/05/11/index.md)
 
-##### grizzly-polar bear hybrid
+##### Grizzly-polar bear hybrid
 #  A grizzly-polar bear hybrid is found on Banks Island in Canada's Northwest Territories. 
 
 DNA tests confirmed that a bear bagged by a hunter in Canada&#39;s Northwest Territory is half grizzly and half polar bear, a mix that some experts had never expected to find in the wild.

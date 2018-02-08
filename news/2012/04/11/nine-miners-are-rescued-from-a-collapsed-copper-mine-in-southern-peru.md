@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/11/nine-miners-are-rescued-from-a-collapsed-copper
 
 ### [2012-04-11](/news/2012/04/11/index.md)
 
-##### miner
+##### Miner
 # Nine miners are rescued from a collapsed copper mine in southern Peru. 
 
 

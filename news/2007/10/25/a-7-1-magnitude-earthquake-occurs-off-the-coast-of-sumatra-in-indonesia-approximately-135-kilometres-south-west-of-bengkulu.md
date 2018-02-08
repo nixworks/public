@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/25/a-7-1-magnitude-earthquake-occurs-off-the-coast
 
 ### [2007-10-25](/news/2007/10/25/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.1 magnitude earthquake occurs off the coast of Sumatra in Indonesia approximately 135 kilometres south-west of Bengkulu. 
 
 A magnitude 7.1 earthquake has jolted the Indian Ocean off Indonesia&#039;s Sumatra island, the US Geological Survey (USGS) says.

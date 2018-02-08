@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-
 
 ### [2012-04-16](/news/2012/04/16/index.md)
 
-##### two girls
+##### Two girls
 # The murderer of two girls in Krailling, Bavaria (Germany) is convicted and sentenced to life imprisonment. 
 
 

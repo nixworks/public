@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/15/three-former-police-officers-are-jailed-over-th
 
 ### [2008-03-15](/news/2008/03/15/index.md)
 
-##### police officer
+##### Police officer
 #  Three former police officers are jailed over the killing of Ukrainian investigative journalist Georgiy R. Gongadze in 2000. 
 
 

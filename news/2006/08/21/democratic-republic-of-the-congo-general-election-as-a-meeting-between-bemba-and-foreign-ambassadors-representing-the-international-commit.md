@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/21/democratic-republic-of-the-congo-general-electi
 
 ### [2006-08-21](/news/2006/08/21/index.md)
 
-##### presidential candidate in 2006
+##### Presidential candidate in 2006
 #  Democratic Republic of the Congo general election: As a meeting between Bemba and foreign ambassadors representing the International Committee Accompanying the Transition to Democracy (CIAT) is taking place in Kinshasa, clashes break between Kabila and Bemba forces; Bemba's residence, hosting the meeting, comes under attack, reportedly by heavy machine guns and artillery. Several hours later, the UN spokesperson in the DRC, Jean-Tobias Okala, announced the foreign diplomats, including MONUC chief William Swing, were successfully evacuated to UN headquarters. 
 
 

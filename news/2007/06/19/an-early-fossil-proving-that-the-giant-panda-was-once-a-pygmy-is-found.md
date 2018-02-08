@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-wa
 
 ### [2007-06-19](/news/2007/06/19/index.md)
 
-##### fossil
+##### Fossil
 #  An early fossil proving that the giant panda was once a pygmy is found. 
 
 

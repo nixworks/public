@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/1/an-explosion-on-a-train-in-the-central-railway-s
 
 ### [2014-05-1](/news/2014/05/1/index.md)
 
-##### central railway station
+##### Central railway station
 # An explosion on a train in the central railway station in the Indian city of Chennai kills at least one person and injures ten. 
 
 Two bombs planted on a train killed a 22-year-old woman and wounded nine others at the Chennai Central Railway Station this morning. Sources say a man has been detained and is being questioned. He was reportedly hiding in the train an hour after the explosions.

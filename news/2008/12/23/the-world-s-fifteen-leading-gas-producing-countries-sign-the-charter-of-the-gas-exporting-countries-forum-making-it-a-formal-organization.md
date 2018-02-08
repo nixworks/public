@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/23/the-world-s-fifteen-leading-gas-producing-count
 
 ### [2008-12-23](/news/2008/12/23/index.md)
 
-##### gas
+##### Gas
 #  The world's fifteen leading gas-producing countries sign the charter of the Gas Exporting Countries Forum, making it a formal organization.
 
 

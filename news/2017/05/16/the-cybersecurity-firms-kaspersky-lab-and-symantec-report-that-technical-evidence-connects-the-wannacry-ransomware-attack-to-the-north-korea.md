@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/16/the-cybersecurity-firms-kaspersky-lab-and-syman
 
 ### [2017-05-16](/news/2017/05/16/index.md)
 
-##### cybersecurity
+##### Cybersecurity
 # The cybersecurity firms Kaspersky Lab and Symantec report that technical evidence connects the WannaCry ransomware attack to the North Korean-backed Lazarus Group. North Korea is also believed to be responsible for previous cyberattacks on the SWIFT banking system and against Sony Pictures. 
 
 Similarities spotted between details of last week’s massive cyber-attack and code used by a prolific cybergang with links to North Korean government

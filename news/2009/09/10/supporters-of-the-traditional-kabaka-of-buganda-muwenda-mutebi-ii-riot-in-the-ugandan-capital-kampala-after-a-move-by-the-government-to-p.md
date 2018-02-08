@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/10/supporters-of-the-traditional-kabaka-of-buganda
 
 ### [2009-09-10](/news/2009/09/10/index.md)
 
-##### kings
+##### Kings
 #  Supporters of the traditional Kabaka of Buganda, Muwenda Mutebi II, riot in the Ugandan capital Kampala after a move by the government to prevent him from visiting a local area, resulting in several deaths. 
 
 

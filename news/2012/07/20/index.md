@@ -7,17 +7,17 @@ Formats: [HTML](2012/07/20/index.html)  [JSON](2012/07/20/index.json)  [XML](201
 ### [Major General Hisham Ikhtiyar, the head of Syrian national security, dies of wounds he received from a bombing in the capital Damascus on July 18. ](/news/2012/07/20/major-general-hisham-ikhtiyar-the-head-of-syrian-national-security-dies-of-wounds-he-received-from-a-bombing-in-the-capital-damascus-on-ju.md)
 A fourth top Syrian official dies from injuries incurred in a bombing on Wednesday, as the army ousts rebels from a Damascus neighbourhood.
 
-##### southern Thailand
+##### Southern Thailand
 ### [Bomb and shooting attacks kill two people and wound four in southern Thailand. ](/news/2012/07/20/bomb-and-shooting-attacks-kill-two-people-and-wound-four-in-southern-thailand.md)
 Two civilians were killed and four wounded in bomb and shooting attacks in southern Thailand, a military spokesman said Friday, as the region marked the start of the Islamic holy month of Ramadan. A 25-year-old male security guard was shot dead...
 
 ##### Duekoue
 ### [At least 13 people are killed in clashes in Duekoue and a camp for displaced people in Ivory Coast. ](/news/2012/07/20/at-least-13-people-are-killed-in-clashes-in-dua-c-koua-c-and-a-camp-for-displaced-people-in-ivory-coast.md)
-_Context: Duekoue, Ivory Coast_
+_Context: Ivory Coast, Duekoue_
 
 ##### Amnesty International
 ### [Amnesty International says Muslim Rohingyas in western Burma have been subject to attacks and arbitrary arrests. ](/news/2012/07/20/amnesty-international-says-muslim-rohingyas-in-western-burma-have-been-subject-to-attacks-and-arbitrary-arrests.md)
-_Context: Burma, Muslim, Rohingya, Amnesty International_
+_Context: Amnesty International, Burma, Muslim, Rohingya_
 
 ##### Olympic Torch
 ### [The Olympic Torch arrives in London for the final stages of the UK-wide relay ahead of the 2012 Summer Olympics. ](/news/2012/07/20/the-olympic-torch-arrives-in-london-for-the-final-stages-of-the-uk-wide-relay-ahead-of-the-2012-summer-olympics.md)

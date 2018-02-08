@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/20/up-to-65-people-die-as-a-truck-overturns-on-a-b
 
 ### [2007-03-20](/news/2007/03/20/index.md)
 
-##### truck
+##### Truck
 #  Up to 65 people die as a truck overturns on a bridge near Gueckedou, Guinea. 
 
 

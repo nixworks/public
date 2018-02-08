@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/13/the-death-toll-from-contaminated-beer-in-the-mo
 
 ### [2015-01-13](/news/2015/01/13/index.md)
 
-##### contaminated beer
+##### Contaminated beer
 # The death toll from contaminated beer in the Mozambique rises to at least 72. 
 
 

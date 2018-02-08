@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/24/at-least-three-prisoners-die-in-a-prison-riot-i
 
 ### [2013-07-24](/news/2013/07/24/index.md)
 
-##### prison riot
+##### Prison riot
 # At least three prisoners die in a prison riot in Abidjan, Ivory Coast. 
 
 

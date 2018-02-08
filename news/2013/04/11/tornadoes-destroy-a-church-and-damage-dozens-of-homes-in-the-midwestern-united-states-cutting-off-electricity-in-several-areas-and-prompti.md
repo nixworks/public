@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/tornadoes-destroy-a-church-and-damage-dozens-of
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### tornado
+##### Tornado
 # Tornadoes destroy a church and damage dozens of homes in the Midwestern United States, cutting off electricity in several areas, and prompting Missouri Governor Jay Nixon to declare a state of emergency. 
 
 

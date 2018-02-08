@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/16/the-black-box-from-a-russian-passenger-jet-that
 
 ### [2012-05-16](/news/2012/05/16/index.md)
 
-##### black box
+##### Black box
 # The black box from a Russian passenger jet that crashed in the Indonesian province of West Java on May 9 is recovered by Indonesian authorities. 
 
 

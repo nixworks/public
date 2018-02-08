@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/9/a-bankruptcy-court-appointed-examiner-susheel-ki
 
 ### [2012-03-9](/news/2012/03/9/index.md)
 
-##### bankruptcy
+##### Bankruptcy
 # A bankruptcy court appointed examiner, Susheel Kirpalani, issues a detailed report highly critical of the pre-bankruptcy restructuring of Dynegy Inc at the expense of bondholders and for the benefit of Carl Icahn and other shareholders. 
 
 

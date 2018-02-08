@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/22/gunmen-wearing-explosive-suicide-vests-storm-a-
 
 ### [2011-05-22](/news/2011/05/22/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # Gunmen wearing explosive suicide vests storm a government building in Khost, Afghanistan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
-##### breaks out in a rally
+##### Breaks out in a rally
 # Violence breaks out in a rally supporting Donald Trump in San Jose, California. An officer and several demonstrators were assaulted, and a few people were arrested. 
 
 

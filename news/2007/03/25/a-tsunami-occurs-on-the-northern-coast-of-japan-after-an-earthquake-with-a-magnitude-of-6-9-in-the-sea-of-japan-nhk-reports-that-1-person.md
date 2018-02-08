@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/25/a-tsunami-occurs-on-the-northern-coast-of-japan
 
 ### [2007-03-25](/news/2007/03/25/index.md)
 
-##### tsunami
+##### Tsunami
 #  A tsunami occurs on the northern coast of Japan after an earthquake with a magnitude of 6.9 in the Sea of Japan. NHK reports that 1 person has died and 40 have been injured. 
 
 Powerful quake that struck of the north coast of the Ishikawa prefecture triggers a small tsunami measuring 6 inches.

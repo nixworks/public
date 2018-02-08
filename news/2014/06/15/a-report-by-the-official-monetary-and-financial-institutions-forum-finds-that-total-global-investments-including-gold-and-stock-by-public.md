@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/15/a-report-by-the-official-monetary-and-financial
 
 ### [2014-06-15](/news/2014/06/15/index.md)
 
-##### gold
+##### Gold
 # A report by the Official Monetary and Financial Institutions Forum finds that total global investments, including gold and stock, by public investors, such as central banks, sovereign wealth funds, and pension funds, now total $29.1 trillion. 
 
 

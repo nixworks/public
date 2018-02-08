@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/20/famous-u-s-test-pilot-scott-crossfield-dies-in-
 
 ### [2006-04-20](/news/2006/04/20/index.md)
 
-##### test pilot
+##### Test pilot
 #  Famous U.S. test pilot Scott Crossfield dies in an air crash of a Cessna 210.
 
 Get the latest breaking news across the U.S. on ABCNews.com

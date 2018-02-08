@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/27/three-students-are-killed-and-two-injured-in-a-
 
 ### [2012-02-27](/news/2012/02/27/index.md)
 
-##### child murders
+##### Child murders
 # Three students are killed and two injured in a shooting at Chardon High School in the US state of Ohio. 
 
 One student was killed and four were injured in a shooting Monday morning&nbsp;at a high school in suburban Chardon, Ohio, authorities have reported. A suspect was taken into custody, but his name...

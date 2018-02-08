@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/8/eight-people-are-killed-and-130-injured-in-a-mas
 
 ### [2011-04-8](/news/2011/04/8/index.md)
 
-##### sandstorm
+##### Sandstorm
 # Eight people are killed and 130 injured in a massive car pile-up caused by a sandstorm on the German autobahn A 19 near Rostock. The pile-up involves about 80 vehicles and causes at least 30 of them to catch fire, making it the worst accident in the state of Mecklenburg-Vorpommern. 
 
 A freak sandstorm sweeps across a motorway in northern Germany causing a multiple pile-up and leaving eight people dead.

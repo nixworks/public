@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/19/a-donation-campaign-raises-less-money-than-expe
 
 ### [2011-04-19](/news/2011/04/19/index.md)
 
-##### containment shell
+##### Containment shell
 # A donation campaign raises less money than expected towards a newer containment shell at Chernobyl. 
 
 

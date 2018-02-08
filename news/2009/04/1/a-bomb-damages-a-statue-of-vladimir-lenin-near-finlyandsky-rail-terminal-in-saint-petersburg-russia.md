@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/1/a-bomb-damages-a-statue-of-vladimir-lenin-near-f
 
 ### [2009-04-1](/news/2009/04/1/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb damages a statue of Vladimir Lenin near Finlyandsky Rail Terminal in Saint Petersburg, Russia. 
 
 

@@ -19,13 +19,13 @@ Fighting broke out Wednesday between rebels and Ukrainian soldiers on the outski
 ### [The search continues for survivors of the "Dong Fang Zhi Xing" which sank on China's Yangtze River with 450 passengers on board. So far, 18 people have been confirmed dead with 14 people rescued. ](/news/2015/06/3/the-search-continues-for-survivors-of-the-dong-fang-zhi-xing-which-sank-on-china-s-yangtze-river-with-450-passengers-on-board-so-far-18.md)
 “18 confirmed dead, 14 rescued; over 150 divers carrying out search and rescue operations on #YangtzeRiver”
 
-##### filling station
+##### Filling station
 ### [At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. ](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.md)
-_Context: Ghana, Accra, filling station_
+_Context: Accra, Ghana, filling station_
 
 ##### South Korea
 ### [South Korea has successfully test fired two ballistic missiles that can hit all of North Korea. ](/news/2015/06/3/south-korea-has-successfully-test-fired-two-ballistic-missiles-that-can-hit-all-of-north-korea.md)
-_Context: North Korea, ballistic missile, South Korea_
+_Context: South Korea, ballistic missile, North Korea_
 
 ##### 2015 FIFA corruption case
 ### [Interpol issues red notices linked to arrest warrants for two former FIFA officials Jack Warner and Nicolas Leoz and four executives. ](/news/2015/06/3/interpol-issues-red-notices-linked-to-arrest-warrants-for-two-former-fifa-officials-jack-warner-and-nicolas-leoz-and-four-executives.md)

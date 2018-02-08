@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/30/rodrigo-duterte-is-inaugurated-as-president-of-
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
-##### cabinet
+##### Cabinet
 # Rodrigo Duterte is inaugurated as President of the Philippines and Leni Robredo as Vice President. 
 
 A sharp increase in killings of criminal suspects since the election of Rodrigo Duterte as Philippine president offers a glimpse of what may be to come for the country, a close U.S. ally.

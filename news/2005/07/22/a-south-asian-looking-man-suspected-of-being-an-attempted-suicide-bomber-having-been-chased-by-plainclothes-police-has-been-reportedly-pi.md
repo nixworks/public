@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/22/a-south-asian-looking-man-suspected-of-being-an
 
 ### [2005-07-22](/news/2005/07/22/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A South Asian-looking man, suspected of being an attempted suicide bomber, having been chased by plainclothes police has been reportedly pinned to the ground then shot five times at Stockwell tube station in London, and has been confirmed dead by the police. (Wikinews), [http:--www.guardian.co.uk-attackonlondon-story-0,16132,1534138,00.html (the Guardian)], [http:--news.bbc.co.uk-2-hi-uk_news-4706787.stm (BBC)] [http:--www.cnn.com-2005-WORLD-europe-07-22-london.tube-index.html (CNN)] [http:--www.sky.com-skynews-article-0,,30000-1189920,00.html (Sky)]. The man was actually an innocent Brazilian killed without cause.
 
 

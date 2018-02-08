@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/21/scientists-investigate-the-deaths-of-approximat
 
 ### [2010-07-21](/news/2010/07/21/index.md)
 
-##### penguin
+##### Penguin
 # Scientists investigate the deaths of approximately 500 penguins whose corpses washed up on Brazilian beaches. 
 
 

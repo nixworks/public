@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/17/demonstrators-demand-that-guatemalan-president-
 
 ### [2009-05-17](/news/2009/05/17/index.md)
 
-##### demonstration
+##### Demonstration
 #  Demonstrators demand that Guatemalan President Alvaro Colom resign for allegedly killing Rodrigo Rosenberg. 
 
 

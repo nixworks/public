@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/12/a-car-bomb-in-the-mainly-shiite-town-of-dujail-
 
 ### [2008-09-12](/news/2008/09/12/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in the mainly Shiite town of Dujail in Iraq kills at least 32 people and injures another 43. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/7/a-chlorine-gas-leak-injures-19-at-the-chicago-s-
 
 ### [2014-12-7](/news/2014/12/7/index.md)
 
-##### chlorine
+##### Chlorine
 # A chlorine gas leak injures 19 at the Chicago's 'Furfest', a Furry convention. Police say the act was intentional. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/1/residents-brace-as-a-second-winter-storm-hits-th
 
 ### [2006-01-1](/news/2006/01/1/index.md)
 
-##### northern California
+##### Northern California
 #  Residents brace as a second winter storm hits the region, a day after the first caused floods and mudslides across northern California. 
 
 A powerful storm battered Northern California with torrential rains and widespread flooding Saturday, and a second strong front was in line to push through the state and soak its southern regions...

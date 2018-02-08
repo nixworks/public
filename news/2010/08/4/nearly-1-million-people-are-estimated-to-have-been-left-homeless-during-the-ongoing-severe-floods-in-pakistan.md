@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/4/nearly-1-million-people-are-estimated-to-have-be
 
 ### [2010-08-4](/news/2010/08/4/index.md)
 
-##### devastating floods
+##### Devastating floods
 # Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. 
 
 Poor weather forces more evacuations as Pakistan endures its worst floods in 80 years, with yet more heavy rain forecast.

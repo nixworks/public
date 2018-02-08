@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/6/smoke-from-russian-wildfires-covers-famous-landm
 
 ### [2010-08-6](/news/2010/08/6/index.md)
 
-##### the recent wildfires
+##### The recent wildfires
 # Smoke from Russian wildfires covers famous landmarks and delays more than 140 flights at Moscow airports while official figures indicate that 14,340 people died in Moscow during July 2010; 4,824 more than the same month last year. 
 
 Acrid smoke from forest and peat-bog fires east of Moscow shrouded the city in smoke, causing flight delays and raising pollution to “very dangerous” levels.

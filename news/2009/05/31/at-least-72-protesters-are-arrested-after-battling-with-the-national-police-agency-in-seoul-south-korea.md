@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/31/at-least-72-protesters-are-arrested-after-battl
 
 ### [2009-05-31](/news/2009/05/31/index.md)
 
-##### protest
+##### Protest
 #  At least 72 protesters are arrested after battling with the National Police Agency in Seoul, South Korea. 
 
 More than 72 people were arrested during clashes with riot police in the wake of the funeral service for former President Roh Moo-hyun, police said.

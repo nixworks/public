@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/26/nepalese-authorities-ban-rallies-and-mass-meeti
 
 ### [2008-05-26](/news/2008/05/26/index.md)
 
-##### rallies
+##### Rallies
 #  Nepalese authorities ban rallies and mass meetings in Kathmandu prior to the first meeting of the Nepalese Constituent Assembly which is expected to declare Nepal a republic. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/18/former-psychiatric-patient-matthew-higa-is-char
 
 ### [2008-01-18](/news/2008/01/18/index.md)
 
-##### pedestrian overpass
+##### Pedestrian overpass
 #  Former psychiatric patient Matthew Higa is charged with killing a two-year-old boy by throwing him off a pedestrian overpass and into oncoming traffic on Interstate H-1 in downtown Honolulu, Hawaii. 
 
 

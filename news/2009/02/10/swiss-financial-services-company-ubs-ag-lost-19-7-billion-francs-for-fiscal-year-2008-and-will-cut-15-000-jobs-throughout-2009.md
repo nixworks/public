@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/10/swiss-financial-services-company-ubs-ag-lost-19
 
 ### [2009-02-10](/news/2009/02/10/index.md)
 
-##### financial services
+##### Financial services
 #  Swiss financial services company UBS AG lost 19.7 billion francs for fiscal year 2008 and will cut 15,000 jobs throughout 2009. 
 
 

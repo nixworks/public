@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/17/unrest-in-uzbekistan-the-uzbek-government-says-
 
 ### [2005-05-17](/news/2005/05/17/index.md)
 
-##### unrest
+##### Unrest
 #  Unrest in Uzbekistan: The Uzbek government says they will allow foreign diplomats to visit Andijan. Survivors from Andijan who have crossed the border to Kyrgyzstan say that government troops opened fire without warning and that they were shelled in the Kyrgyzstan border crossing. Opposition believes that as many as 745 may be dead. Official government death toll is 169. Government officials still deny that soldiers killed civilians 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

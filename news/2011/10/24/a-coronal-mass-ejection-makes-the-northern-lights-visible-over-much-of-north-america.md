@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/24/a-coronal-mass-ejection-makes-the-northern-ligh
 
 ### [2011-10-24](/news/2011/10/24/index.md)
 
-##### coronal mass ejection
+##### Coronal mass ejection
 # A coronal mass ejection makes the Northern Lights visible over much of North America. 
 
 

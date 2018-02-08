@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/13/a-passenger-train-derails-in-bhubaneswar-orissa
 
 ### [2009-02-13](/news/2009/02/13/index.md)
 
-##### passenger train
+##### Passenger train
 #  A passenger train derails in Bhubaneswar, Orissa, India, killing at least 15 people and injuring 150 others. 
 
 At least 15 passengers were killed and around 150 injured when the Howrah-Chennai Coromandel Express was derailed Friday evening near the Jajpur-Keonjhar Road railway station in Orissa, officials said, adding that the toll could go up. East Coast Railway

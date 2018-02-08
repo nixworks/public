@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-i
 
 ### [2016-12-19](/news/2016/12/19/index.md)
 
-##### last week's attack on a Christmas market in Berlin
+##### Last week's attack on a Christmas market in Berlin
 # Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. 
 
 Fingerprints from a Tunisian suspect have been found inside the truck that smashed through a Berlin Christmas market on Monday in an attack that killed 12 people, and investigators assume the migrant was at the wheel, officials said.

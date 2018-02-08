@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/5/police-fire-teargas-at-protesters-rallying-in-su
 
 ### [2009-08-5](/news/2009/08/5/index.md)
 
-##### teargas
+##### Teargas
 #  Police fire teargas at protesters rallying in support of Lubna al-Hussein, the Sudanese woman facing 40 lashes for wearing trousers in public. 
 
 

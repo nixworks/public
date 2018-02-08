@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/12/a-32-foot-tall-60-000-ton-stone-monument-found-
 
 ### [2013-04-12](/news/2013/04/12/index.md)
 
-##### stone
+##### Stone
 # A 32-foot tall, 60,000 ton stone monument found in the Sea of Galilee in 2003 is determined to be man-made, dating to approximately 2000 B.C. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/20/a-vast-river-system-connecting-various-subglaci
 
 ### [2006-04-20](/news/2006/04/20/index.md)
 
-##### subglacial lake
+##### Subglacial lake
 #  A vast river system connecting various subglacial lakes is discovered under the Antarctic ice shield. 
 
 Rivers as big as the Thames in England that may connect sub-glacial lakes have been found deep under the Antarctic ice, scientists said on Wednesday.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/4/looting-occurs-in-port-gentil-gabon-after-riots-
 
 ### [2009-09-4](/news/2009/09/4/index.md)
 
-##### illegally taken out
+##### Illegally taken out
 #  Looting occurs in Port Gentil, Gabon, after riots broke out over a disputed presidential election. 
 
 Police detain more than 50 people, but protests over disputed vote said to be over.

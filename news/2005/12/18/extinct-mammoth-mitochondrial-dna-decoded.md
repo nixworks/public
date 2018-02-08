@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/18/extinct-mammoth-mitochondrial-dna-decoded.html)
 
 ### [2005-12-18](/news/2005/12/18/index.md)
 
-##### mammoth
+##### Mammoth
 #  Extinct mammoth mitochondrial DNA decoded. 
 
 

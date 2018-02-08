@@ -11,7 +11,7 @@ Millions attend rival rallies; fighting begins after pro-military protesters bur
 ### [At least 57 people are killed in a marketplace bombing in Parachinar, Pakistan. ](/news/2013/07/26/at-least-57-people-are-killed-in-a-marketplace-bombing-in-parachinar-pakistan.md)
 At least 57 people have been killed by bombs at a market in the northwestern Pakistani town of Parachinar, reports say.
 
-##### general strike
+##### General strike
 ### [A general strike is called in Tunisia following the assassination of opposition leader Mohamed Brahmi on July 25. ](/news/2013/07/26/a-general-strike-is-called-in-tunisia-following-the-assassination-of-opposition-leader-mohamed-brahmi-on-july-25.md)
 Tunisia faced a general strike on Friday as the country was plunged into crisis after gunmen shot dead a leading opposition figure, an assassination that brought thousands onto the streets.
 
@@ -39,7 +39,7 @@ Ariel Castro agrees to plead guilty to raping and holding three women captive fo
 ### [Swiss bank UBS AG pays $885m in a settlement with American regulators over allegations that the bank misrepresented mortgage-backed bonds during the pre-2007 housing bubble, paving the way for billions more to be paid by other banks. ](/news/2013/07/26/swiss-bank-ubs-ag-pays-885m-in-a-settlement-with-american-regulators-over-allegations-that-the-bank-misrepresented-mortgage-backed-bonds-du.md)
 UBS will pay $885 million in a settlement with a U.S. regulator over allegations the Swiss bank misrepresented mortgage-backed bonds during the housing bubble, paving the way for billions more to be paid by other banks.
 
-##### kills six people
+##### Kills six people
 ### [A gunman kills six people in Hialeah, Florida, and gets fatally shot by police. ](/news/2013/07/26/a-gunman-kills-six-people-in-hialeah-florida-and-gets-fatally-shot-by-police.md)
 The gunman who seized hostages and killed six people in an eight-hour standoff at a Haileah, Florida apartment complex that ended early Saturday was a renter in the building who had lit his unit on fire, police said.
 

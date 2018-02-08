@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/15/a-19-year-old-man-is-arrested-in-connection-wit
 
 ### [2013-03-15](/news/2013/03/15/index.md)
 
-##### drive-by shooting
+##### Drive-by shooting
 # A 19-year-old man is arrested in connection with a drive-by shooting in Washington, D.C., United States, on March 11, that injured 13 people. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/30/the-cabinet-of-germany-accepts-a-project-on-lei
 
 ### [2012-08-30](/news/2012/08/30/index.md)
 
-##### government
+##### Government
 # The Cabinet of Germany accepts a project on Leistungsschutzrecht; they feel it at its third attempt as now ready to send to the Bundestag for voting into law. 
 
 

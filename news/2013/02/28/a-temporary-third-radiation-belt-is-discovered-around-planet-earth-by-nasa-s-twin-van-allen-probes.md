@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/28/a-temporary-third-radiation-belt-is-discovered-
 
 ### [2013-02-28](/news/2013/02/28/index.md)
 
-##### radiation belt
+##### Radiation belt
 # A temporary third radiation belt is discovered around planet Earth by NASA's twin Van Allen Probes. 
 
 NASA has discovered a new radiation ring encircling the Earth. The short-lived radiation belt is a third Van Allen belt and was discovered by NASA&#039;s Van Allen Probes, scientists say.

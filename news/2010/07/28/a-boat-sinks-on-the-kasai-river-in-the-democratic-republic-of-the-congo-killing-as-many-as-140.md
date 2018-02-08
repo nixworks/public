@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/28/a-boat-sinks-on-the-kasai-river-in-the-democrat
 
 ### [2010-07-28](/news/2010/07/28/index.md)
 
-##### boat sinks
+##### Boat sinks
 # A boat sinks on the Kasai river in the Democratic Republic of the Congo, killing as many as 140. 
 
 About 140 people are feared dead as a boat capsizes on a river in the western Bandundu province of the Democratic Republic of Congo.

@@ -17,7 +17,7 @@ Dutch actress Sylvia Kristel who starred in the 1974 erotic French film Emmanuel
 
 ##### Gene Kerrigan
 ### [Veteran Irish writer Gene Kerrigan wins the Golden Dagger. ](/news/2012/10/18/veteran-irish-writer-gene-kerrigan-wins-the-golden-dagger.md)
-_Context: Gene Kerrigan, Golden Dagger_
+_Context: Golden Dagger, Gene Kerrigan_
 
 ##### United States
 ### [American weekly news magazine "Newsweek" announces it will cease print publication on December 31 and will move to an online-only format. ](/news/2012/10/18/american-weekly-news-magazine-newsweek-announces-it-will-cease-print-publication-on-december-31-and-will-move-to-an-online-only-format.md)
@@ -27,7 +27,7 @@ Newsweek announces it will shift to online-only publication after 80 years, with
 ### [Trading of Google stock on NASDAQ is temporarily suspended after it drops 9% following an inadvertent early release of its quarterly report showing a 20% decline in profits. ](/news/2012/10/18/trading-of-google-stock-on-nasdaq-is-temporarily-suspended-after-it-drops-9-following-an-inadvertent-early-release-of-its-quarterly-report.md)
 Trading in Google shares was suspended for over two hours after it released financial results early by mistake, showing a 20% profit fall.
 
-##### anti-austerity protests in Greece
+##### Anti-austerity protests in Greece
 ### [Tens of thousands of workers participate in anti-austerity protests in Greece. ](/news/2012/10/18/tens-of-thousands-of-workers-participate-in-anti-austerity-protests-in-greece.md)
 _Context: anti-austerity protests in Greece_
 

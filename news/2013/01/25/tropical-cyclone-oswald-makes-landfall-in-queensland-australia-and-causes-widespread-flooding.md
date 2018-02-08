@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queen
 
 ### [2013-01-25](/news/2013/01/25/index.md)
 
-##### typhoon
+##### Typhoon
 # Tropical Cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. 
 
 Torrential rain has caused widespread flooding in the Australian state of Queensland.

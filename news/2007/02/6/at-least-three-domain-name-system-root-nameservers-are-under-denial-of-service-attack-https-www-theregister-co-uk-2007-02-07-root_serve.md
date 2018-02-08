@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/6/at-least-three-domain-name-system-root-nameserve
 
 ### [2007-02-6](/news/2007/02/6/index.md)
 
-##### domain name system
+##### Domain name system
 #  At least three domain name system root nameservers are under denial-of-service attack. [https:--www.theregister.co.uk-2007-02-07-root_server_attack- (The Register)]. See "DNS Backbone DDoS Attacks"
 
 

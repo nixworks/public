@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/14/at-least-33-people-die-when-a-bus-tumbles-into-
 
 ### [2013-04-14](/news/2013/04/14/index.md)
 
-##### bus
+##### Bus
 # At least 33 people die when a bus tumbles into a river near Trujillo, Peru. 
 
 

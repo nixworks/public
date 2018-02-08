@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/20/terrorist-attacks-bombs-hit-istanbul-turkey-at-
 
 ### [2003-11-20](/news/2003/11/20/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorist attacks: Bombs hit Istanbul, Turkey. At least 25 are killed and hundreds injured in two car-bomb blasts that devastate the Turkish headquarters of HSBC and the British consulate. British Consul-General Roger Short is among the dead. The Great Eastern Islamic Raiders' Front (IBDA-C), a radical Islamist group, claims responsibility.
 
 

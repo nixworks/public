@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/10/in-a-response-to-a-cyberattack-on-tv5monde-the-
 
 ### [2015-04-10](/news/2015/04/10/index.md)
 
-##### cyber attack
+##### Cyber attack
 # In a response to a cyberattack on TV5Monde, the French Minister of Culture and Communications Fleur Pellerin has called for an emergency meeting of the heads of various major media outlets and groups based in France, to take place sometime today at an undisclosed location. 
 
 Culture minister calls talks after television network TV5Monde is taken over by individuals claiming to belong to Islamic State

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/4/the-greek-government-announces-additional-harshe
 
 ### [2010-10-4](/news/2010/10/4/index.md)
 
-##### austerity
+##### Austerity
 # The Greek government announces additional harsher austerity measures in its 2011 draft budget. 
 
 

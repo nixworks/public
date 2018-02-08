@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/20/a-military-judge-dismisses-two-charges-against-
 
 ### [2007-08-20](/news/2007/08/20/index.md)
 
-##### judge
+##### Judge
 #  A military judge dismisses two charges against Lieutenant Colonel Steven Jordan, a United States Army officer in charge of the interrogation centre at the Abu Ghraib prison in Iraq. Jordan still faces several more charges including cruelty and maltreatment of detainees, disobeying a superior officer and failure to obey orders. 
 
 

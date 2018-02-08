@@ -17,7 +17,7 @@ Angry Mogadishu residents protested for a second day on Tuesday against food tra
 
 ##### Cyclone Nargis
 ### [ Myanmar state government reports that the death toll from the cyclone has reached 22,000, with 41,000 people missing. ](/news/2008/05/6/myanmar-state-government-reports-that-the-death-toll-from-the-cyclone-has-reached-22-000-with-41-000-people-missing.md)
-_Context: Cyclone Nargis, Myanmar, cyclone_
+_Context: cyclone, Cyclone Nargis, Myanmar_
 
 ##### China
 ### [ Chinese President Hu Jintao begins a landmark five-day state visit to Japan. ](/news/2008/05/6/chinese-president-hu-jintao-begins-a-landmark-five-day-state-visit-to-japan.md)
@@ -29,7 +29,7 @@ Barack Obama won a commanding victory in the North Carolina primary but fell sho
 
 ##### Malaysia
 ### [ Prominent Malaysian blogger and political activist, Raja Petra Kamaruddin, is charged with sedition. ](/news/2008/05/6/prominent-malaysian-blogger-and-political-activist-raja-petra-kamaruddin-is-charged-with-sedition.md)
-_Context: sedition, Malaysia, Raja Petra Kamaruddin_
+_Context: Malaysia, sedition, Raja Petra Kamaruddin_
 
 ## [Previous Day...](/news/2008/05/5/index.md)
 

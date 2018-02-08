@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/27/the-death-toll-in-the-amagasaki-rail-crash-in-j
 
 ### [2005-04-27](/news/2005/04/27/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the Amagasaki rail crash in Japan exceeds 91, and may increase to over 100. 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news

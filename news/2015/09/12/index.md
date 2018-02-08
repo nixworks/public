@@ -13,7 +13,7 @@ According to officials, the Chinese troops had built a temporary hut in Burtse, 
 
 ##### Sinai insurgency
 ### [The Egyptian Armed Forces claim that an offensive against ISIS militants in northern Sinai over the past week has killed at least 164 insurgents with the loss of eight troops. ](/news/2015/09/12/the-egyptian-armed-forces-claim-that-an-offensive-against-isis-militants-in-northern-sinai-over-the-past-week-has-killed-at-least-164-insurg.md)
-_Context: Egyptian military, Sinai insurgency, ISIL, Sinai Peninsula_
+_Context: ISIL, Sinai Peninsula, Egyptian military, Sinai insurgency_
 
 ##### Arab-Israeli conflict
 ### [Violent clashes erupt between new Israeli settlers and Palestinians in the Silwan area of East Jerusalem with 13 Palestinians and four Israeli police injured. ](/news/2015/09/12/violent-clashes-erupt-between-new-israeli-settlers-and-palestinians-in-the-silwan-area-of-east-jerusalem-with-13-palestinians-and-four-israe.md)
@@ -21,15 +21,15 @@ Confrontations erupted on backdrop of new Jewish residents entering neighborhood
 
 ##### Venezuelan
 ### [Venezuelan director Lorenzo Vigas wins a Golden Lion award for Best Film at the Venice Film Festival for "Desde alla" ("From Afar"). ](/news/2015/09/12/venezuelan-director-lorenzo-vigas-wins-a-golden-lion-award-for-best-film-at-the-venice-film-festival-for-desde-alla-from-afar.md)
-_Context: Lorenzo Vigas, Venice Film Festival, Desde alla, Golden Lion, Venezuelan_
+_Context: Venezuelan, Golden Lion, Lorenzo Vigas, Venice Film Festival, Desde alla_
 
 ##### Indian Railways
 ### [An Indian Railways train derailment near Gulbarga in Karnataka state kills at least two people with several others injured. ](/news/2015/09/12/an-indian-railways-train-derailment-near-gulbarga-in-karnataka-state-kills-at-least-two-people-with-several-others-injured.md)
-_Context: Indian Railways, Karnataka, Gulbarga_
+_Context: Indian Railways, Gulbarga, Karnataka_
 
 ##### Tropical Storm Etau
 ### [Japan resumes a search for 16 missing persons after torrential rain and floods with thousands still hoping to return home. ](/news/2015/09/12/japan-resumes-a-search-for-16-missing-persons-after-torrential-rain-and-floods-with-thousands-still-hoping-to-return-home.md)
-_Context: Japan, Tropical Storm Etau_
+_Context: Tropical Storm Etau, Japan_
 
 ##### Petlawad explosion
 ### [A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh kills at least 104 people with over 150 missing. ](/news/2015/09/12/a-series-of-explosions-involving-propane-triggering-nearby-illegally-stored-mining-detonators-in-the-indian-town-of-petlawad-in-the-state-of.md)
@@ -39,7 +39,7 @@ At least 85 people are killed in a gas explosion at a restaurant in the central 
 ### [The Butte Fire has destroyed 60 homes in the rural counties of Amador and Calaveras and threatens 6000 residents. ](/news/2015/09/12/the-butte-fire-has-destroyed-60-homes-in-the-rural-counties-of-amador-and-calaveras-and-threatens-6000-residents.md)
 An explosive, fast-moving wildfire in California&#039;s Sierra Nevada mountains is destroying homes and threatening about 6,000 residences.
 
-##### election for the next leader
+##### Election for the next leader
 ### [The outcome of the election for the next leader of the United Kingdom Labour Party is announced with Jeremy Corbyn winning the contest ahead of Yvette Cooper, Andy Burnham and Liz Kendall while Tom Watson is elected as the new deputy leader. ](/news/2015/09/12/the-outcome-of-the-election-for-the-next-leader-of-the-united-kingdom-labour-party-is-announced-with-jeremy-corbyn-winning-the-contest-ahead.md)
 Jeremy Corbyn records extraordinary victory in Labour leadership election with more than 251,000 of 422,000 votes
 

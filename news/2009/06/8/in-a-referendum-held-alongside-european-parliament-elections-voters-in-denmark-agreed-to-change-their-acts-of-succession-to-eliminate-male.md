@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/8/in-a-referendum-held-alongside-european-parliame
 
 ### [2009-06-8](/news/2009/06/8/index.md)
 
-##### referendum
+##### Referendum
 #  In a referendum held alongside European Parliament elections, voters in Denmark agreed to change their Acts of Succession to eliminate male preference in their line of succession. 
 
 

@@ -15,13 +15,13 @@ Benghazi Defence Brigades says in control of five cities and two major oil produ
 ### [CJTFOIR deploys U.S. forces near Manbij to "reassure Coalition" members and to "deter aggression." This comes days after the U.S.-backed Syrian Democratic Forces' Manbij Military Council agreed to hand over territory west of Manbij to the Syrian Army to create a buffer zone between the SDF and Turkish-backed rebels. ](/news/2017/03/4/cjtfoir-deploys-u-s-forces-near-manbij-to-reassure-coalition-members-and-to-deter-aggression-this-comes-days-after-the-u-s-backed-syr.md)
 Moments ago, several Islamist factions claimed to have shot down a MiG-21 MiG-23 fighter jet in the northern countryside of Idlib. Ahrar al-Sham said one o
 
-##### drought
+##### Drought
 ### [At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. ](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-the-drought-hit-region-of-bay-somalia-in-the-past-48-hours-according-to-prime-minister-has.md)
 More than 100 people have starved to death in a single region of Somalia within 48 hours due to a severe drought, the country’s prime minister has said. In the first drought-related death toll announced since Somalia&#039;s government declared a national disaster on Tuesday, Hassan Khaire told the...
 
 ##### Malaysia-North Korea relations
 ### [Malaysia expels Kang Chol, North Korea's ambassador, after he criticised the former's investigation into the death of Kim Jong-nam. ](/news/2017/03/4/malaysia-expels-kang-chol-north-korea-s-ambassador-after-he-criticised-the-former-s-investigation-into-the-death-of-kim-jong-nam.md)
-_Context: Malaysia-North Korea relations, Kim Jong-nam, North Korea, Malaysia_
+_Context: Malaysia-North Korea relations, North Korea, Kim Jong-nam, Malaysia_
 
 ##### Mexico-United States relations
 ### [Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. ](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-consulates-to-defend-its-citizens-rights-amid-the-united-states-crackdown-on-illegal-immig.md)

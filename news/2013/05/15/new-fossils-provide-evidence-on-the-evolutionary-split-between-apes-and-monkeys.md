@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/15/new-fossils-provide-evidence-on-the-evolutionar
 
 ### [2013-05-15](/news/2013/05/15/index.md)
 
-##### apes
+##### Apes
 # New fossils provide evidence on the evolutionary split between apes and monkeys. 
 
 Newfound species discovered point to a specific period in which monkeys and apes diverged on the evolutionary timeline.

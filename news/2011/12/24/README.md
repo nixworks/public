@@ -17,23 +17,23 @@ Gun battles between Nigerian security forces and an Islamist sect killed at leas
 
 ##### Fo Guang Shan
 ### [The Buddha Memorial Center of Fo Guang Shan in Kaohsiung, Taiwan, housing a tooth relic of Gautama Buddha, is consecrated. ](/news/2011/12/24/the-buddha-memorial-center-of-fo-guang-shan-in-kaohsiung-taiwan-housing-a-tooth-relic-of-gautama-buddha-is-consecrated.md)
-_Context: Taiwan, Gautama Buddha, Fo Guang Shan, Kaohsiung, tooth relic_
+_Context: Taiwan, Fo Guang Shan, Gautama Buddha, Kaohsiung, tooth relic_
 
 ##### Netherlands
 ### [Dutch actor and singer Johannes Heesters, the world's oldest performer, dies at the age of 108. ](/news/2011/12/24/dutch-actor-and-singer-johannes-heesters-the-world-s-oldest-performer-dies-at-the-age-of-108.md)
-_Context: Netherlands, Johannes Heesters_
+_Context: Johannes Heesters, Netherlands_
 
 ##### China
 ### [A former official of the central bank of the People's Republic of China states that the People's Bank of China could lower the country's reserve requirements in 2012. ](/news/2011/12/24/a-former-official-of-the-central-bank-of-the-people-s-republic-of-china-states-that-the-people-s-bank-of-china-could-lower-the-country-s-res.md)
-_Context: People's Bank of China, reserve requirements, China_
+_Context: China, reserve requirements, People's Bank of China_
 
 ##### North Korea
 ### [North Korean media name Kim Jong-un &ndash; the son and successor of late leader Kim Jong-il &ndash; as the Supreme Commander of the Korean People's Army. ](/news/2011/12/24/north-korean-media-name-kim-jong-un-ndash-the-son-and-successor-of-late-leader-kim-jong-il-ndash-as-the-supreme-commander-of-the-korean.md)
-_Context: Korean People's Army, Kim Jong-un, Media of North Korea, North Korea, Supreme Commander, Kim Jong-il_
+_Context: North Korea, Korean People's Army, Kim Jong-un, Supreme Commander, Media of North Korea, Kim Jong-il_
 
-##### protest
+##### Protest
 ### [Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. ](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russia-against-parliamentary-elections-that-they-allege-were-rigged-in-favour-of-the-ruling-unite.md)
-_Context: protest, parliamentary elections, United Russia, Russia_
+_Context: parliamentary elections, United Russia, Russia, protest_
 
 ##### Cuba
 ### [Cuba announces that it will release 2,900 prisoners &ndash; including some political prisoners &ndash; in the next few days. ](/news/2011/12/24/cuba-announces-that-it-will-release-2-900-prisoners-ndash-including-some-political-prisoners-ndash-in-the-next-few-days.md)

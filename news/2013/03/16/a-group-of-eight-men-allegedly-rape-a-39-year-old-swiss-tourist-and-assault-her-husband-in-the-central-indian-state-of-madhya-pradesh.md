@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/16/a-group-of-eight-men-allegedly-rape-a-39-year-o
 
 ### [2013-03-16](/news/2013/03/16/index.md)
 
-##### rape
+##### Rape
 # A group of eight men allegedly rape a 39-year-old Swiss tourist and assault her husband in the central Indian state of Madhya Pradesh. 
 
 A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaulted her husband in the central Indian state of Madhya Pradesh.

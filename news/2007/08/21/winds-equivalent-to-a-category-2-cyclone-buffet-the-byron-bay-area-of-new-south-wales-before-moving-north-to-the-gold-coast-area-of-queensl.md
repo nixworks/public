@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/21/winds-equivalent-to-a-category-2-cyclone-buffet
 
 ### [2007-08-21](/news/2007/08/21/index.md)
 
-##### cyclone
+##### Cyclone
 #  Winds equivalent to a Category 2 cyclone buffet the Byron Bay area of New South Wales before moving north to the Gold Coast area of Queensland. 
 
 Winds equivalent to a category 2 cyclone have buffeted Byron Bay in far northern New South Wales and are fast approaching Coolangatta on the Queensland border.

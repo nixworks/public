@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/24/two-people-are-killed-and-eleven-are-injured-wh
 
 ### [2007-08-24](/news/2007/08/24/index.md)
 
-##### hot air balloon
+##### Hot air balloon
 #  Two people are killed and eleven are injured when a hot air balloon bursts into flames in Surrey, British Columbia, Canada. 
 
 

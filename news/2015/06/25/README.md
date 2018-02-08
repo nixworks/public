@@ -19,13 +19,13 @@ _Context: Sindh, 2015 Pakistani heat wave_
 ### [The wreckage of a small plane carrying eight passengers on a shore excursion from Holland America Line's "MS Westerdam" cruise ship is discovered near the Alaskan town of Ketchikan. All nine people on board including the pilot died. ](/news/2015/06/25/the-wreckage-of-a-small-plane-carrying-eight-passengers-on-a-shore-excursion-from-holland-america-line-s-ms-westerdam-cruise-ship-is-disco.md)
 A recovery team will attempt to reach the wreckage of a sightseeing plane Friday to begin the grim task of removing the bodies of the pilot and eight passengers from a Seattle-based cruise ship.
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 ### [The number of MERS casualties in South Korea rises to 29 with the number of cases rising to 180. ](/news/2015/06/25/the-number-of-mers-casualties-in-south-korea-rises-to-29-with-the-number-of-cases-rising-to-180.md)
  South Korea reported an additional two deaths from Middle East Respiratory Syndrome (MERS) Thursday, along with an additional case that put the total number of people diagnosed with the disease at 180.
 
 ##### India
 ### [India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. ](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.md)
-_Context: Nepal, India, suspicions_
+_Context: India, suspicions, Nepal_
 
 ##### South Africa
 ### [South Africa reviews its participation in the International Criminal Court following a failed attempt to arrest the President of Sudan, Omar al-Bashir, on South African soil. ](/news/2015/06/25/south-africa-reviews-its-participation-in-the-international-criminal-court-following-a-failed-attempt-to-arrest-the-president-of-sudan-omar.md)
@@ -33,7 +33,7 @@ _Context: President of Sudan, ICC, South Africa, Omar al-Bashir_
 
 ##### Prime Minister of Haiti
 ### [The Prime Minister of Haiti Evans Paul accuses the Dominican Republic of causing a humanitarian crisis by mass deportation of people mainly from Haiti. ](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.md)
-_Context: Haiti, Dominican Republic, Evans Paul, Prime Minister of Haiti_
+_Context: Dominican Republic, Prime Minister of Haiti, Haiti, Evans Paul_
 
 ##### Committee to Protect Journalists
 ### [The Committee to Protect Journalists claims that the Government of Egypt has incarcerated 18 journalists, mostly from Al-Jazeera. ](/news/2015/06/25/the-committee-to-protect-journalists-claims-that-the-government-of-egypt-has-incarcerated-18-journalists-mostly-from-al-jazeera.md)
@@ -53,7 +53,7 @@ The Supreme Court upheld the use of federal financial aid for more than 6 millio
 
 ##### House of Representatives
 ### [The United States House of Representatives votes to grant President Barack Obama fast track authority for the Trans-Pacific Partnership. ](/news/2015/06/25/the-united-states-house-of-representatives-votes-to-grant-president-barack-obama-fast-track-authority-for-the-trans-pacific-partnership.md)
-_Context: Barack Obama, U.S. President, Trans-Pacific Partnership, House of Representatives_
+_Context: U.S. President, House of Representatives, Barack Obama, Trans-Pacific Partnership_
 
 ## [Previous Day...](/news/2015/06/24/index.md)
 

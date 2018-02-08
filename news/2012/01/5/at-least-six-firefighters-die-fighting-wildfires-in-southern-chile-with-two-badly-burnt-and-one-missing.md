@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/5/at-least-six-firefighters-die-fighting-wildfires
 
 ### [2012-01-5](/news/2012/01/5/index.md)
 
-##### wildfire
+##### Wildfire
 # At least six firefighters die fighting wildfires in southern Chile with two badly burnt and one missing. 
 
 

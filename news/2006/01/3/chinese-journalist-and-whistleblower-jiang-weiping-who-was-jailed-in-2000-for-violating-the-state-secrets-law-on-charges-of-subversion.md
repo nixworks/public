@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/3/chinese-journalist-and-whistleblower-jiang-weipi
 
 ### [2006-01-3](/news/2006/01/3/index.md)
 
-##### journalist
+##### Journalist
 #  Chinese journalist and whistleblower Jiang Weiping, who was jailed in 2000 for violating the State Secrets Law on charges of "subversion," is released after the one year left on his prison sentence is commuted. In 1999 Jiang wrote two articles for a Hong Kong magazine accusing Bo Xilai, who at the time was governor of Liaoning province, but is now China's economic minister, of covering up corruption. 
 
 

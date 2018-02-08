@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/1/a-suicide-bombing-outside-the-u-s-embassy-in-the
 
 ### [2013-02-1](/news/2013/02/1/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing outside the U.S. embassy in the Turkish capital, Ankara, kills at least two people. 
 
 A suicide bomber attacks an entrance of the US embassy in the Turkish capital, Ankara, killing a security guard, officials say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/15/a-wildlife-sanctuary-for-rescued-elephants-open
 
 ### [2016-10-15](/news/2016/10/15/index.md)
 
-##### wildlife sanctuary
+##### Wildlife sanctuary
 # A wildlife sanctuary for rescued elephants opens in Brazil. 
 
 An elephant sanctuary has opened in Brazil to provide a home for an estimated 50 circus animals from across Latin America.

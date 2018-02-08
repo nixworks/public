@@ -7,11 +7,11 @@ Formats: [HTML](2014/12/23/index.html)  [JSON](2014/12/23/index.json)  [XML](201
 ### [Attacks on villages in the Indian state of Assam kill dozens of people. Suspicion falls on the insurgents of the National Democratic Front of Bodoland. ](/news/2014/12/23/attacks-on-villages-in-the-indian-state-of-assam-kill-dozens-of-people-suspicion-falls-on-the-insurgents-of-the-national-democratic-front-o.md)
 43 people were killed by suspected militants of the National Democratic Front of Bodoland (Songbijit) or NDFB(S) in Sonitpur and Kokrajhar districts of Assam on Tuesday evening.
 
-##### internet in North Korea
+##### Internet in North Korea
 ### [The internet in North Korea becomes functional again after nine hours without access. ](/news/2014/12/23/the-internet-in-north-korea-becomes-functional-again-after-nine-hours-without-access.md)
 _Context: internet in North Korea_
 
-##### recent nuclear power plant attack
+##### Recent nuclear power plant attack
 ### [Korea Hydro & Nuclear Power says that its computer systems have been hacked. ](/news/2014/12/23/korea-hydro-nuclear-power-says-that-its-computer-systems-have-been-hacked.md)
 Computer systems at South Korea&#039;s nuclear plant operator have been hacked, the company said on Monday, sharply raising concerns about safeguards around nuclear facilities in a country that remains technically at war with North Korea.
 
@@ -27,7 +27,7 @@ NEW YORK — Sony Pictures Entertainment announced Tuesday a limited theatrical 
 ### [Keurig recalls 6.6 million coffee making machines after ninety reports of burn-related injuries. ](/news/2014/12/23/keurig-recalls-6-6-million-coffee-making-machines-after-ninety-reports-of-burn-related-injuries.md)
 Keurig is recalling 6.6 million of its popular coffee makers after receiving &quot;90 reports of burn-related injuries.&quot; 
 
-##### tornado outbreak
+##### Tornado outbreak
 ### [A tornado outbreak hits the southern United States, producing five tornadoes with at least four people dead and leaving fifty others injured. ](/news/2014/12/23/a-tornado-outbreak-hits-the-southern-united-states-producing-five-tornadoes-with-at-least-four-people-dead-and-leaving-fifty-others-injured.md)
 At least five tornadoes were reported in the southern United States, leading to four deaths and fifty people injured. The twi ... 
 

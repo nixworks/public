@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/30/nathaniel-jones-a-41-year-old-350-lb-unarmed-bl
 
 ### [2003-11-30](/news/2003/11/30/index.md)
 
-##### baton
+##### Baton
 #  Nathaniel Jones, a 41-year-old, 350 lb unarmed black man dies after being clubbed by police with metal truncheons in Cincinnati, Ohio. Six police officers are suspended from duty afterwards. A video of the beating, captured by the video camera mounted in an officer's cruiser, is released to the public, stoking racial tensions in Cincinnati nearly three years after the city was rocked by riots. Preliminary autopsy results show that Jones had an enlarged heart, and his blood contained cocaine and PCP, Hamilton County Coroner Carl Parrott says.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/13/a-man-claiming-to-represent-al-qaeda-in-india-c
 
 ### [2006-07-13](/news/2006/07/13/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  A man claiming to represent Al-Qaeda in India claims that they have set up a network in Kashmir and appeals to Indian Muslims to take up jihad. 
 
 

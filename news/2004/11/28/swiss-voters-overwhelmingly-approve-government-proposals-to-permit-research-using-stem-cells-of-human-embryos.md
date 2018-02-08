@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/28/swiss-voters-overwhelmingly-approve-government-
 
 ### [2004-11-28](/news/2004/11/28/index.md)
 
-##### stem cells
+##### Stem cells
 #  Swiss voters overwhelmingly approve government proposals to permit research using stem cells of human embryos. 
 
 

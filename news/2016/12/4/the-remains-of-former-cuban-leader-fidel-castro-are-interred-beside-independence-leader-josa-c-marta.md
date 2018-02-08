@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/4/the-remains-of-former-cuban-leader-fidel-castro-
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
-##### died
+##### Died
 # The remains of former Cuban leader Fidel Castro are interred beside independence leader Jose Marti. 
 
 

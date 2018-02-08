@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/15/afghan-security-officials-arrest-five-men-in-ka
 
 ### [2015-01-15](/news/2015/01/15/index.md)
 
-##### school massacre
+##### School massacre
 # Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. 
 
 Five men accused of involvement in a Pakistan school massacre have been arrested in Afghanistan.

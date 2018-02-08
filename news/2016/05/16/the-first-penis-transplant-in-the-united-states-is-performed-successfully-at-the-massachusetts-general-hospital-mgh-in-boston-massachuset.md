@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/16/the-first-penis-transplant-in-the-united-states
 
 ### [2016-05-16](/news/2016/05/16/index.md)
 
-##### penis transplant
+##### Penis transplant
 # The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. 
 
 A hospital in Boston becomes the first in the US to perform a successful penis transplant, say doctors, calling the operation &quot;a surgical milestone&quot;.

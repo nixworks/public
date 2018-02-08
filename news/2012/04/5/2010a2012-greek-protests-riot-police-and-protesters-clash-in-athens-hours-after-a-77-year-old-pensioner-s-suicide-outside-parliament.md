@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/5/2010a2012-greek-protests-riot-police-and-protest
 
 ### [2012-04-5](/news/2012/04/5/index.md)
 
-##### anti-austerity protests in Greece
+##### Anti-austerity protests in Greece
 # 2010-2012 Greek protests: Riot police and protesters clash in Athens, hours after a 77-year-old pensioner's suicide outside parliament. 
 
 Protesters clash with police in Athens after a pensioner kills himself outside parliament, reportedly leaving a note blaming austerity measures.

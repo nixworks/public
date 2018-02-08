@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/10/an-airstrike-reportedly-kills-five-al-qaeda-mil
 
 ### [2012-05-10](/news/2012/05/10/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # An airstrike reportedly kills five al-Qaeda militants in the southern Yemeni town of Jaar. 
 
 

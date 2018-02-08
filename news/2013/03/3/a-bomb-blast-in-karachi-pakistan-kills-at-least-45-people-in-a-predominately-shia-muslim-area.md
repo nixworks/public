@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/3/a-bomb-blast-in-karachi-pakistan-kills-at-least-
 
 ### [2013-03-3](/news/2013/03/3/index.md)
 
-##### bomb blast
+##### Bomb blast
 # A bomb blast in Karachi, Pakistan, kills at least 45 people in a predominately Shia Muslim area. 
 
 An explosion near a mosque in a Shia area of the Pakistani city of Karachi has killed at least 45 people and injured dozens more, police say.

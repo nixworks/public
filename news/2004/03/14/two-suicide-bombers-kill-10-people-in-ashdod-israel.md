@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/14/two-suicide-bombers-kill-10-people-in-ashdod-is
 
 ### [2004-03-14](/news/2004/03/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  Two suicide bombers kill 10 people in Ashdod, Israel. 
 
 

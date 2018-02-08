@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/10/a-lifeboat-falls-off-of-a-cruise-ship-ms-thomso
 
 ### [2013-02-10](/news/2013/02/10/index.md)
 
-##### lifeboat
+##### Lifeboat
 # A lifeboat falls off of a cruise ship MS Thomson Majesty while it was docked in the port of Santa Cruz de La Palma in the Canary Islands, killing 5 people. 
 
 A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea, Spanish officials say; an additional 3 injured

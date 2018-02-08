@@ -3,7 +3,7 @@ Formats: [HTML](2011/07/3/index.html)  [JSON](2011/07/3/index.json)  [XML](2011/
 
 ## [2011-07-3](/news/2011/07/3/index.md)
 
-##### tear gas
+##### Tear gas
 ### [Dozens of people are arrested and tear gas is used during Independence Day celebrations in Belarus after a "clapping" protest. ](/news/2011/07/3/dozens-of-people-are-arrested-and-tear-gas-is-used-during-independence-day-celebrations-in-belarus-after-a-clapping-protest.md)
 Belarus President Alexander Lukashenko vows not to allow a revolution in his country as police arrest scores of protesters.
 
@@ -25,15 +25,15 @@ At least 10 people die in attacks blamed on Islamist militants in the north-east
 
 ##### A. E. Hotchner
 ### [A. E. Hotchner, a friend and collaborator of the Nobel Prize-winning writer Ernest Hemingway, writing in "The New York Times" on the 50th anniversary of Hemingway's death, expresses his belief that the J. Edgar Hoover-led Federal Bureau of Investigation's surveillance "substantially contributed to his anguish and his suicide", with Hotchner saying he "regretfully misjudged" Hemingway's fear of the FBI. ](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th-an.md)
-_Context: Ernest Hemingway, FBI, J. Edgar Hoover, Nobel Prize, The New York Times, A. E. Hotchner_
+_Context: Ernest Hemingway, J. Edgar Hoover, FBI, A. E. Hotchner, Nobel Prize, The New York Times_
 
-##### televangelist
+##### Televangelist
 ### [American televangelist Robert H. Schuller is ousted from the board of the Crystal Cathedral. ](/news/2011/07/3/american-televangelist-robert-h-schuller-is-ousted-from-the-board-of-the-crystal-cathedral.md)
 _Context: Crystal Cathedral, Robert H. Schuller, televangelist_
 
 ##### Mount Soputan
 ### [Mount Soputan, a volcano in Indonesia's North Sulawesi province, erupts. ](/news/2011/07/3/mount-soputan-a-volcano-in-indonesia-s-north-sulawesi-province-erupts.md)
-_Context: Mount Soputan, Indonesia, North Sulawesi, volcano_
+_Context: North Sulawesi, volcano, Indonesia, Mount Soputan_
 
 ##### Nigeria
 ### [At least 10 people have been killed in a series of bombings and shootings in northeastern Nigeria. ](/news/2011/07/3/at-least-10-people-have-been-killed-in-a-series-of-bombings-and-shootings-in-northeastern-nigeria.md)
@@ -43,23 +43,23 @@ _Context: Nigeria_
 ### [Storms in the region of Washington, D.C. in the US kill one person in Montgomery County and cuts power to 40,000 homes. ](/news/2011/07/3/storms-in-the-region-of-washington-d-c-in-the-us-kill-one-person-in-montgomery-county-and-cuts-power-to-40-000-homes.md)
 Powerful electrical storms swept across the area Sunday evening, felling trees and driving visitors from the National Mall. Thousands lost power.
 
-##### sinks
+##### Sinks
 ### [A tourist boat sinks in the Sea of Cortez off the coast of Baja California in Mexico with 23 people missing. ](/news/2011/07/3/a-tourist-boat-sinks-in-the-sea-of-cortez-off-the-coast-of-baja-california-in-mexico-with-23-people-missing.md)
 _Context: sinks, Mexico, Baja California, Sea of Cortez_
 
 ##### South Korea
 ### [South Korea announces plans to submit a claim to the United Nations to a larger portion of the East China Sea in a move which is likely to be disputed by the People's Republic of China and Japan. ](/news/2011/07/3/south-korea-announces-plans-to-submit-a-claim-to-the-united-nations-to-a-larger-portion-of-the-east-china-sea-in-a-move-which-is-likely-to-b.md)
-_Context: South Korea, China, East China Sea, United Nations, Japan, waters_
+_Context: China, East China Sea, waters, Japan, United Nations, South Korea_
 
 ##### Swiss Government
 ### [The Swiss Government blocks 27 million Swiss francs worth of assets linked to senior Syrian officials. ](/news/2011/07/3/the-swiss-government-blocks-27-million-swiss-francs-worth-of-assets-linked-to-senior-syrian-officials.md)
-_Context: Swiss Government, francs, Syria_
+_Context: Swiss Government, Syria, francs_
 
 ##### Thailand
 ### [Thailand votes in its 26th general election with results showing the Pheu Thai Party loyal to former Prime Minister Thaksin Shinawatra winning a majority. Yingluck Shinawatra, the opposition party leader, is expected to be the first female Prime Minister of Thailand. ](/news/2011/07/3/thailand-votes-in-its-26th-general-election-with-results-showing-the-pheu-thai-party-loyal-to-former-prime-minister-thaksin-shinawatra-winni.md)
 The sister of ousted leader Thaksin Shinawatra was set for victory in Thailand’s elections, five years since he was deposed in a coup, after Prime Minister Abhisit Vejjajiva conceded defeat.
 
-##### Lebanon
+##### Lebanese
 ### [In Lebanon, Hezbollah's leader Hassan Nasrallah rejects the indictment and arrest warrants served by the Special Tribunal for Lebanon three days earlier against the party's four senior members. ](/news/2011/07/3/in-lebanon-hezbollah-s-leader-hassan-nasrallah-rejects-the-indictment-and-arrest-warrants-served-by-the-special-tribunal-for-lebanon-three.md)
 Hezbollah leader says UN tribunal investigating death of former Lebanese PM should be asking questions of Israel.
 

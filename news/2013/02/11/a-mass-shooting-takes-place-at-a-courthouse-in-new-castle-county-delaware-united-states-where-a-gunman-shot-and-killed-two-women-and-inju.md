@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/11/a-mass-shooting-takes-place-at-a-courthouse-in-
 
 ### [2013-02-11](/news/2013/02/11/index.md)
 
-##### mass shooting
+##### Mass shooting
 # A mass shooting takes place at a courthouse in New Castle County, Delaware, United States, where a gunman shot and killed two women and injures two police officers. He is later found dead at the scene. 
 
 

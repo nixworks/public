@@ -13,7 +13,7 @@ At least 57 people have been killed in fighting between government forces and a 
 
 ##### NATO
 ### [NATO fires on Iranian fishermen, wounding them and killing some civilians. ](/news/2011/04/24/nato-fires-on-iranian-fishermen-wounding-them-and-killing-some-civilians.md)
-_Context: NATO, Iranian_
+_Context: Iranian, NATO_
 
 ##### Easter
 ### [At least 4 people are wounded at the entrance of a Catholic church after Easter Mass in Baghdad. ](/news/2011/04/24/at-least-4-people-are-wounded-at-the-entrance-of-a-catholic-church-after-easter-mass-in-baghdad.md)
@@ -27,7 +27,7 @@ Group of Israelis heading to Joseph&#39;s Tomb for prayers comes under Palestini
 ### [After the shooting, Ynet reports "Palestinian sources reported local Palestinian youths gathered around the Joseph Tomb's compound shortly after the incident and set it on fire." ](/news/2011/04/24/after-the-shooting-ynet-reports-palestinian-sources-reported-local-palestinian-youths-gathered-around-the-joseph-tomb-s-compound-shortly-a.md)
 Nablus agitated after shooting of Israelis; masses gather near holy site, several youths try to set compound ablaze. &#39;Sight was reminiscent of Second Indifada,&#39; witness says
 
-##### revolution
+##### Revolution
 ### [Tunisian revolution: Thousands of people demonstrate in Tunis to demand both the resignation of interim prime minister Beji Caid el Sebsi, a link with the old guard brought down in January's popular revolution, and the prosecution of Zine El Abidine Ben Ali, who fled to Saudi Arabia after being ousted, on charges such as murder and drug-trafficking. ](/news/2011/04/24/tunisian-revolution-thousands-of-people-demonstrate-in-tunis-to-demand-both-the-resignation-of-interim-prime-minister-beji-caid-el-sebsi-a.md)
 Security forces in northern Syria reportedly kill three people and injure several, two days after the worst bloodshed since unrest began.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end
 
 ### [2010-04-23](/news/2010/04/23/index.md)
 
-##### red shirt
+##### Red shirt
 # Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. 
 
 

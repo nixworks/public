@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-i
 
 ### [2009-10-9](/news/2009/10/9/index.md)
 
-##### lunar ice
+##### Lunar ice
 #  In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-gro
 
 ### [2009-10-20](/news/2009/10/20/index.md)
 
-##### canon laws
+##### Canon laws
 #  In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. 
 
 

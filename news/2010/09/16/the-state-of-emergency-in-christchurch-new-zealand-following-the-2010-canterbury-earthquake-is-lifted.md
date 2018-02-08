@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/16/the-state-of-emergency-in-christchurch-new-zeal
 
 ### [2010-09-16](/news/2010/09/16/index.md)
 
-##### state of emergency
+##### State of emergency
 # The state of emergency in Christchurch, New Zealand, following the 2010 Canterbury earthquake is lifted. 
 
 

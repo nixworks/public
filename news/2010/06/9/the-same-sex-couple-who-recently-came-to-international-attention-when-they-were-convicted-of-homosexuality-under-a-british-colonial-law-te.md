@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/9/the-same-sex-couple-who-recently-came-to-interna
 
 ### [2010-06-9](/news/2010/06/9/index.md)
 
-##### same-sex couples
+##### Same-sex couples
 # The same-sex couple, who recently came to international attention when they were convicted of homosexuality under a British colonial law, tell Malawi's "The Nation" that they have separated and that one of them now lives with a woman. 
 
 A gay couple whose jailing in Malawi sparked an international furore have split, as one moves in with a woman, reports say.

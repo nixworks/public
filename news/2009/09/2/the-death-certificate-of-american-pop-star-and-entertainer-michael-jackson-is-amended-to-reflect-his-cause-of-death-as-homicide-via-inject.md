@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/2/the-death-certificate-of-american-pop-star-and-e
 
 ### [2009-09-2](/news/2009/09/2/index.md)
 
-##### death
+##### Death
 #  The death certificate of American pop star and entertainer Michael Jackson is amended to reflect his cause of death as homicide via "injection by another". 
 
 

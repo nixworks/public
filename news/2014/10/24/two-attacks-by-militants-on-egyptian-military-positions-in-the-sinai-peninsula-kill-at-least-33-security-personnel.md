@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/24/two-attacks-by-militants-on-egyptian-military-p
 
 ### [2014-10-24](/news/2014/10/24/index.md)
 
-##### recent attacks
+##### Recent attacks
 # Two attacks by militants on Egyptian military positions in the Sinai Peninsula kill at least 33 security personnel. 
 
 

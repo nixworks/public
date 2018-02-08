@@ -11,11 +11,11 @@ The United Arab Emirates stops combat missions over Syria because the U.S. wasn&
 ### [A Paul Gauguin painting, "Nafea Faa Ipoipo" ("When Will You Marry?"), sells to a Qatari buyer for close to $300 million. ](/news/2015/02/5/a-paul-gauguin-painting-nafea-faa-ipoipo-when-will-you-marry-sells-to-a-qatari-buyer-for-close-to-300-million.md)
 The sale of an 1892 Gauguin oil painting, &#8220;Nafea Faa Ipoipo (When Will You Marry?),&#8221; was confirmed by the seller, Rudolf Staechelin.
 
-##### pharmaceutical
+##### Pharmaceutical
 ### [American pharmaceutical company Pfizer announces plans to acquire Hospira at a cost of $17 billion. ](/news/2015/02/5/american-pharmaceutical-company-pfizer-announces-plans-to-acquire-hospira-at-a-cost-of-17-billion.md)
-_Context: pharmaceutical, United States dollars, Hospira, Pfizer_
+_Context: Hospira, United States dollars, Pfizer, pharmaceutical_
 
-##### electronics
+##### Electronics
 ### [American electronics retailer RadioShack files for Chapter 11 bankruptcy. ](/news/2015/02/5/american-electronics-retailer-radioshack-files-for-chapter-11-bankruptcy.md)
 RadioShack filed its long-awaited bankruptcy papers Thursday evening.
 
@@ -25,7 +25,7 @@ A blaze at a southern Chinese shopping centre that killed 17 people was started 
 
 ##### American Sniper
 ### [Eddie Ray Routh goes on trial for the alleged murder of "American Sniper" Chris Kyle and Chad Littlefield in the Texas town of Stephenville. ](/news/2015/02/5/eddie-ray-routh-goes-on-trial-for-the-alleged-murder-of-american-sniper-chris-kyle-and-chad-littlefield-in-the-texas-town-of-stephenville.md)
-_Context: Texas, American Sniper, Stephenville, Chris Kyle_
+_Context: Stephenville, Chris Kyle, Texas, American Sniper_
 
 ##### Southwark Crown Court
 ### [The jury at Southwark Crown Court convicts British 70s glam rock star Gary Glitter on child sexual abuse charges with the prospect of life imprisonment. ](/news/2015/02/5/the-jury-at-southwark-crown-court-convicts-british-70s-glam-rock-star-gary-glitter-on-child-sexual-abuse-charges-with-the-prospect-of-life-i.md)

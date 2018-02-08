@@ -3,7 +3,7 @@ Formats: [HTML](2013/04/8/index.html)  [JSON](2013/04/8/index.json)  [XML](2013/
 
 ## [2013-04-8](/news/2013/04/8/index.md)
 
-##### car bomb
+##### Car bomb
 ### [A car bomb explodes in the center of the capital, Damascus, killing at least 15 people and wounding 53 others. ](/news/2013/04/8/a-car-bomb-explodes-in-the-center-of-the-capital-damascus-killing-at-least-15-people-and-wounding-53-others.md)
 At least 15 people are killed and 53 wounded as a car bomb explodes in a busy part of the Syrian capital Damascus, state media report.
 
@@ -11,7 +11,7 @@ At least 15 people are killed and 53 wounded as a car bomb explodes in a busy pa
 ### [Afghanistan President Hamid Karzai denounces the reported death of eleven children at the hands of NATO forces in Kunar Province and orders a government inquiry into the killings. ](/news/2013/04/8/afghanistan-president-hamid-karzai-denounces-the-reported-death-of-eleven-children-at-the-hands-of-nato-forces-in-kunar-province-and-orders.md)
 President Hamid Karzai denounces reported death of 11 children by NATO forces in Kunar province and orders inquiry.
 
-##### army
+##### Army
 ### [4 army deserters and 3 tribesmen are killed in clashes in Al Bayda Governorate, Yemen. ](/news/2013/04/8/4-army-deserters-and-3-tribesmen-are-killed-in-clashes-in-al-bayda-governorate-yemen.md)
 Seven people were killed in clashes between army deserters and tribesmen in south Yemen on Monday, officials and residents said, in another sign of disorder in a country of multiple conflicts next to oil export giant Saudi Arabia.
 
@@ -25,15 +25,15 @@ Ms. Funicello won America’s heart on television in “The Mickey Mouse Club”
 
 ##### Spain
 ### [Spanish actress and singer Sara Montiel dies in her Madrid residence at the age of 85. ](/news/2013/04/8/spanish-actress-and-singer-sara-montiel-dies-in-her-madrid-residence-at-the-age-of-85.md)
-_Context: Madrid, Spain, Sara Montiel_
+_Context: Sara Montiel, Spain, Madrid_
 
 ##### China
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: Asia, entrepreneur, Boao, Xi Jinping, Boao Forum for Asia, Chinese President, Hainan, China_
+_Context: Asia, Chinese President, China, Hainan, Xi Jinping, Boao Forum for Asia, entrepreneur, Boao_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: Australia-China relations, China, currency, A$, yuan, Australia, Australian Prime Minister, Julia Gillard, Shanghai_
+_Context: currency, A$, Australia, yuan, Shanghai, Australia-China relations, Australian Prime Minister, Julia Gillard, China_
 
 ##### Caribou Coffee
 ### [Caribou Coffee announces plans to close all of its stores in the Chicago area. ](/news/2013/04/8/caribou-coffee-announces-plans-to-close-all-of-its-stores-in-the-chicago-area.md)
@@ -69,7 +69,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 
 ##### Pakistan
 ### [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md)
-_Context: treason, Pervez Musharraf, president, Supreme Court, Pakistan_
+_Context: Pervez Musharraf, Supreme Court, president, Pakistan, treason_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
@@ -77,7 +77,7 @@ The first woman to be UK prime minister, Baroness Thatcher, has died at the age 
 
 ##### Bangladesh
 ### [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md)
-_Context: Prime Minister, blasphemy, Prophet Muhammad, Islam, Sheikh Hasina, Bangladesh, Islamists_
+_Context: Islamists, Bangladesh, Prophet Muhammad, blasphemy, Islam, Prime Minister, Sheikh Hasina_
 
 ##### Filip Vujanovic
 ### [Electoral Commission chairman announces that Filip Vujanovic is re-elected as President of Montenegro. ](/news/2013/04/8/electoral-commission-chairman-announces-that-filip-vujanovia-is-re-elected-as-president-of-montenegro.md)

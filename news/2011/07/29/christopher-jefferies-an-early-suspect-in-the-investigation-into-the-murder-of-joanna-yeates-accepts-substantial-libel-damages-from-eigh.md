@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/29/christopher-jefferies-an-early-suspect-in-the-i
 
 ### [2011-07-29](/news/2011/07/29/index.md)
 
-##### investigation into the murder of Joanna Yeates
+##### Investigation into the murder of Joanna Yeates
 # Christopher Jefferies, an early suspect in the investigation into the murder of Joanna Yeates, accepts "substantial" libel damages from eight British newspapers after they published details of his private life. "The Sun" and "Daily Mirror" are also fined for contempt of court in their reporting of the investigation. 
 
 

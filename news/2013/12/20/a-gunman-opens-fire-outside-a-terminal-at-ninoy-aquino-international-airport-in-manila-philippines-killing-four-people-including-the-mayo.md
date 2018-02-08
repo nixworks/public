@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy
 
 ### [2013-12-20](/news/2013/12/20/index.md)
 
-##### airport terminal
+##### Airport terminal
 # A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. 
 
 

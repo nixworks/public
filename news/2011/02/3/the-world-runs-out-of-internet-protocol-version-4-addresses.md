@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/3/the-world-runs-out-of-internet-protocol-version-
 
 ### [2011-02-3](/news/2011/02/3/index.md)
 
-##### runs out
+##### Runs out
 # The world runs out of Internet Protocol Version 4 addresses. 
 
 Thirty years after the first Internet addresses were created, the supply of addresses officially ran dry on Thursday.

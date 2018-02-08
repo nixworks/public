@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-kil
 
 ### [2013-02-24](/news/2013/02/24/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. 
 
 KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber in central Kabul on Sunday morning but attackers struck police and intelligence offices in two other eastern cities,...

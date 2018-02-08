@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/4/fresh-clashes-break-out-between-protesters-and-p
 
 ### [2007-06-4](/news/2007/06/4/index.md)
 
-##### police
+##### Police
 #  Fresh clashes break out between protesters and police in Rostock, Germany prior to the 33rd G8 summit. 
 
 

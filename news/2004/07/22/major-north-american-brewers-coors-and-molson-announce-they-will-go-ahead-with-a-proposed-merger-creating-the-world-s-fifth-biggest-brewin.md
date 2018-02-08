@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/22/major-north-american-brewers-coors-and-molson-a
 
 ### [2004-07-22](/news/2004/07/22/index.md)
 
-##### brewing
+##### Brewing
 #  Major North American brewers Coors and Molson announce they will go ahead with a proposed merger, creating the world's fifth-biggest brewing company. 
 
 

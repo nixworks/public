@@ -3,9 +3,9 @@ Formats: [HTML](2013/12/24/index.html)  [JSON](2013/12/24/index.json)  [XML](201
 
 ## [2013-12-24](/news/2013/12/24/index.md)
 
-##### huge explosion
+##### Huge explosion
 ### [A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. ](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-directorate-in-the-nile-delta-city-of-mansoura-killing-16-and-injuring-at-least-134.md)
-_Context: Mansoura, Nile Delta, Dakahlia, huge explosion_
+_Context: Nile Delta, huge explosion, Mansoura, Dakahlia_
 
 ##### United Nations
 ### [The United Nations says that they have discovered a mass grave containing 75 bodies in Unity State, and two other mass graves have been reported in Juba. ](/news/2013/12/24/the-united-nations-says-that-they-have-discovered-a-mass-grave-containing-75-bodies-in-unity-state-and-two-other-mass-graves-have-been-repo.md)

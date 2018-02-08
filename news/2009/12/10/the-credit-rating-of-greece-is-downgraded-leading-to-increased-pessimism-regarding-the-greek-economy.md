@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/10/the-credit-rating-of-greece-is-downgraded-leadi
 
 ### [2009-12-10](/news/2009/12/10/index.md)
 
-##### credit rating
+##### Credit rating
 #  The credit rating of Greece is downgraded, leading to increased pessimism regarding the Greek economy. 
 
 

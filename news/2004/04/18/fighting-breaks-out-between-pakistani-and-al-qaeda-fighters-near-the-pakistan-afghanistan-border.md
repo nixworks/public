@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/18/fighting-breaks-out-between-pakistani-and-al-qa
 
 ### [2004-04-18](/news/2004/04/18/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Fighting breaks out between Pakistani and al-Qaeda fighters near the Pakistan-Afghanistan border. 
 
 

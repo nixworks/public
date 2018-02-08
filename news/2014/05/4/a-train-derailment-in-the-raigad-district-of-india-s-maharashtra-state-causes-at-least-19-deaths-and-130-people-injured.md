@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-ind
 
 ### [2014-05-4](/news/2014/05/4/index.md)
 
-##### derailment
+##### Derailment
 # A train derailment in the Raigad district of India's Maharashtra state causes at least 19 deaths and 130 people injured. 
 
 

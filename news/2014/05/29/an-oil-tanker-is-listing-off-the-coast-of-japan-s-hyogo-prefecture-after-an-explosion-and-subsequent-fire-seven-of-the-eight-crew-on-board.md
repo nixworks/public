@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/29/an-oil-tanker-is-listing-off-the-coast-of-japan
 
 ### [2014-05-29](/news/2014/05/29/index.md)
 
-##### oil tanker
+##### Oil tanker
 # An oil tanker is listing off the coast of Japan's Hyogo prefecture after an explosion and subsequent fire. Seven of the eight crew on board have been rescued while the captain is missing. 
 
 

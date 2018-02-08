@@ -13,7 +13,7 @@ _Context: South Sudan, ethnic violence_
 
 ##### Nigerian
 ### [The Nigerian Islamist militant group Boko Haram issues a warning to Christians in northern Nigeria to leave the region within three days. ](/news/2012/01/2/the-nigerian-islamist-militant-group-boko-haram-issues-a-warning-to-christians-in-northern-nigeria-to-leave-the-region-within-three-days.md)
-_Context: Christian, Boko Haram, Islamist, Nigerian_
+_Context: Islamist, Boko Haram, Nigerian, Christian_
 
 ##### Muslim
 ### [Hundreds of Muslim villagers clash with riot police in the Ningxia region of northern China after a mosque is demolished by local authorities. ](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.md)
@@ -25,15 +25,15 @@ _Context: Chile, wildfire_
 
 ##### India
 ### [India lodges a high-level protest with the government of China over the treatment of an Indian diplomat in a courtroom. ](/news/2012/01/2/india-lodges-a-high-level-protest-with-the-government-of-china-over-the-treatment-of-an-indian-diplomat-in-a-courtroom.md)
-_Context: India, China_
+_Context: China, India_
 
 ##### South Korean President
 ### [The President of South Korea, Lee Myung-bak, states that he is open to negotiations with North Korea on its nuclear program, but calls on the North to avoid "provocations". ](/news/2012/01/2/the-president-of-south-korea-lee-myung-bak-states-that-he-is-open-to-negotiations-with-north-korea-on-its-nuclear-program-but-calls-on-th.md)
-_Context: Lee Myung-bak, North Korea, South Korean President, its nuclear program_
+_Context: North Korea, South Korean President, Lee Myung-bak, its nuclear program_
 
 ##### President of Tunisia
 ### [The President of Tunisia, Moncef Marzouki, states that Tunisia is prepared to extradite former Prime Minister of Libya Baghdadi Mahmudi to Tripoli to face charges of abuse of office, if the Libyan government can guarantee a fair trial. ](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.md)
-_Context: President of Tunisia, extradite, Tunisia, Baghdadi Mahmudi, Moncef Marzouki, Tripoli, Libyan Prime Minister_
+_Context: Libyan Prime Minister, Baghdadi Mahmudi, Tripoli, Tunisia, extradite, President of Tunisia, Moncef Marzouki_
 
 ##### Iran
 ### [Iran states that it has successfully test-fired two long-range missiles, a Qader and a Noor, during military exercises in the Persian Gulf. ](/news/2012/01/2/iran-states-that-it-has-successfully-test-fired-two-long-range-missiles-a-qader-and-a-noor-during-military-exercises-in-the-persian-gulf.md)
@@ -51,13 +51,13 @@ Venezuela says it will pay Exxon Mobil $255m in compensation for nationalised as
 ### [Thousands of opposition supporters in Hungary protest over Prime Minister Viktor Orban's alleged attempts to undermine democracy in the country. ](/news/2012/01/2/thousands-of-opposition-supporters-in-hungary-protest-over-prime-minister-viktor-orba-n-s-alleged-attempts-to-undermine-democracy-in-the-cou.md)
 The demonstration — a day after the country’s new “majoritarian” Constitution took effect — marked the first time that opposition forces joined together to rally against a new constitution.
 
-##### military government
+##### Military government
 ### [The military government of Fiji announces that it is to lift martial law and other emergency regulations. ](/news/2012/01/2/the-military-government-of-fiji-announces-that-it-is-to-lift-martial-law-and-other-emergency-regulations.md)
-_Context: military government, martial law, Fiji_
+_Context: martial law, Fiji, military government_
 
 ##### Chinese President
 ### [President of China Hu Jintao warns of attempts to "westernise" the country by "hostile powers". ](/news/2012/01/2/president-of-china-hu-jintao-warns-of-attempts-to-westernise-the-country-by-hostile-powers.md)
-_Context: Chinese President, westernise, Hu Jintao_
+_Context: Hu Jintao, Chinese President, westernise_
 
 ##### Russian Federal Space Agency
 ### [The Russian Federal Space Agency expects that parts of its failed Fobos-Grunt Mars probe will re-enter the Earth's atmosphere during the next week. ](/news/2012/01/2/the-russian-federal-space-agency-expects-that-parts-of-its-failed-fobos-grunt-mars-probe-will-re-enter-the-earth-s-atmosphere-during-the-nex.md)

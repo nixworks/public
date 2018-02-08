@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/16/an-explosion-at-an-apartment-building-in-arkhan
 
 ### [2004-03-16](/news/2004/03/16/index.md)
 
-##### explosion at an apartment building
+##### Explosion at an apartment building
 #  An explosion at an apartment building in Arkhangelsk, Russia, kills 32. 
 
 

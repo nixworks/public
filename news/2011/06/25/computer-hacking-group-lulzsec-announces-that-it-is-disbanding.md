@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/25/computer-hacking-group-lulzsec-announces-that-i
 
 ### [2011-06-25](/news/2011/06/25/index.md)
 
-##### hackers
+##### Hackers
 # Computer hacking group LulzSec announces that it is disbanding. 
 
 After 50 days of anarchy.

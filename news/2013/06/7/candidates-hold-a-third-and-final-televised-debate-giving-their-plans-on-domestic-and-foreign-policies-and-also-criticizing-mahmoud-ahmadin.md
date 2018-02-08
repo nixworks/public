@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/7/candidates-hold-a-third-and-final-televised-deba
 
 ### [2013-06-7](/news/2013/06/7/index.md)
 
-##### televised debate
+##### Televised debate
 # Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. 
 
 

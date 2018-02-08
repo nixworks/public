@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/21/italian-police-have-arrested-number-of-people-c
 
 ### [2005-01-21](/news/2005/01/21/index.md)
 
-##### people smuggling
+##### People smuggling
 #  Italian police have arrested number of people connected to smuggling of illegal immigrants from Libya. 
 
 

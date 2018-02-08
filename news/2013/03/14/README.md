@@ -3,7 +3,7 @@ Formats: [HTML](2013/03/14/index.html)  [JSON](2013/03/14/index.json)  [XML](201
 
 ## [2013-03-14](/news/2013/03/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 ### [A string of coordinated car bombs and suicide bombers strike central Baghdad, followed by a militant attack on the Justice Ministry building. At least 25 people are killed, including 7 police officers and 3 militants, along with 50 wounded. ](/news/2013/03/14/a-string-of-coordinated-car-bombs-and-suicide-bombers-strike-central-baghdad-followed-by-a-militant-attack-on-the-justice-ministry-building.md)
 Coordinated blasts killed at least 25 people in the heart of Baghdad on Thursday near the heavily fortified Green Zone, where several Western embassies are located, police and medics said.
 
@@ -13,23 +13,23 @@ _Context: Mexico, Cancun_
 
 ##### Khmer Rouge
 ### [Former Khmer Rouge senior official and Foreign Minister of Kampuchea Ieng Sary dies during a genocide trial in Phnom Penh, Cambodia. ](/news/2013/03/14/former-khmer-rouge-senior-official-and-foreign-minister-of-kampuchea-ieng-sary-dies-during-a-genocide-trial-in-phnom-penh-cambodia.md)
-_Context: Khmer Rouge, genocide, Kampuchea, Ieng Sary, Cambodia, Phnom Penh_
+_Context: Khmer Rouge, Kampuchea, genocide, Ieng Sary, Cambodia, Phnom Penh_
 
 ##### Chinese
 ### [At least two people are killed and five others are injured when a man, believed to be a Chinese worker, goes on a stabbing rampage at a fish processing firm in Etajima, Japan. ](/news/2013/03/14/at-least-two-people-are-killed-and-five-others-are-injured-when-a-man-believed-to-be-a-chinese-worker-goes-on-a-stabbing-rampage-at-a-fish.md)
 At least two people have died and five others were injured when a Chinese worker went on a stabbing rampage at a fish processing firm in Japan, police and press reports say.
 
-##### parliament
+##### Parliament
 ### [The National People's Congress names CPC General Secretary Xi Jinping as the new President of the People's Republic of China, Politburo member Li Yuanchao as the new Vice President, Li Keqiang as the new Premier, and Politburo standing member Zhang Dejiang as the Chairman of the NPC Standing Committee. ](/news/2013/03/14/the-national-people-s-congress-names-cpc-general-secretary-xi-jinping-as-the-new-president-of-the-people-s-republic-of-china-politburo-memb.md)
 China&#039;s parliament has named Xi Jinping as the country&#039;s new president at the annual parliament session.
 
 ##### Constitutional Court
 ### [The Constitutional Court of Armenia upholds the reelection of President Serzh Sargsyan in the recent presidential election. ](/news/2013/03/14/the-constitutional-court-of-armenia-upholds-the-reelection-of-president-serzh-sargsyan-in-the-recent-presidential-election.md)
-_Context: Armenian President, presidential election, Armenia, Serzh Sargsyan, Constitutional Court_
+_Context: Armenian President, Serzh Sargsyan, Constitutional Court, presidential election, Armenia_
 
 ##### Nepal
 ### [Nepalese Chief Justice Khil Raj Regmi takes oath of office as new Prime Minister of the country, heading an interim government with the task of conducting elections. ](/news/2013/03/14/nepalese-chief-justice-khil-raj-regmi-takes-oath-of-office-as-new-prime-minister-of-the-country-heading-an-interim-government-with-the-task.md)
-_Context: Nepal, Chief Justice, Elections in Nepal, Khil Raj Regmi, Prime Minister_
+_Context: Prime Minister, Chief Justice, Khil Raj Regmi, Elections in Nepal, Nepal_
 
 ##### Prime Minister
 ### [British Prime Minister David Cameron says talks between himself and the leaders of the UK's other main political parties on the recommendations of the Leveson report have broken down. Cameron says he will publish a Royal Charter on press regulations on Monday. ](/news/2013/03/14/british-prime-minister-david-cameron-says-talks-between-himself-and-the-leaders-of-the-uk-s-other-main-political-parties-on-the-recommendati.md)

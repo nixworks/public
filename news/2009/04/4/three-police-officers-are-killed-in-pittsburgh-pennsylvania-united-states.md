@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/4/three-police-officers-are-killed-in-pittsburgh-p
 
 ### [2009-04-4](/news/2009/04/4/index.md)
 
-##### police officers
+##### Police officers
 #  Three police officers are killed in Pittsburgh, Pennsylvania, United States. 
 
 

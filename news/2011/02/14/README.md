@@ -9,7 +9,7 @@ _Context: Somalia_
 
 ##### Julian Assange
 ### [Julian Assange's mother criticises leading figures in the U.S. government who called for her son's assassination on television, and expresses concerns that her son is being targeted by an American fatwa similar to the one brought against the writer Salman Rushdie in 1989. ](/news/2011/02/14/julian-assange-s-mother-criticises-leading-figures-in-the-u-s-government-who-called-for-her-son-s-assassination-on-television-and-expresse.md)
-_Context: Salman Rushdie, ''The Satanic Verses'' controversy, Julian Assange, fatwa_
+_Context: fatwa, Salman Rushdie, Julian Assange, ''The Satanic Verses'' controversy_
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The FARC organisation in Colombia releases a fourth hostage in the past week. ](/news/2011/02/14/the-farc-organisation-in-colombia-releases-a-fourth-hostage-in-the-past-week.md)
@@ -23,7 +23,7 @@ Calls said to be made for anti-government rallies apparently inspired by events 
 ### [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md)
 Opposition groups call for protests on Monday as riot police clash with youths in Shia village in the west.
 
-##### protests
+##### Protests
 ### [New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md)
 Unrest in Yemen turns ugly as protesters clash with police and government loyalists in Sanaa on a fourth day of rallies.
 
@@ -37,11 +37,11 @@ _Context: Vincent van Gogh_
 
 ##### Central Bank of Egypt
 ### [The Central Bank of Egypt closes banks as a result of the 2011 Egyptian protests. ](/news/2011/02/14/the-central-bank-of-egypt-closes-banks-as-a-result-of-the-2011-egyptian-protests.md)
-_Context: Central Bank of Egypt, bank, Protesters_
+_Context: Protesters, Central Bank of Egypt, bank_
 
 ##### China
 ### [China records a trade surplus of $6.5 billion for January, less than expected. ](/news/2011/02/14/china-records-a-trade-surplus-of-6-5-billion-for-january-less-than-expected.md)
-_Context: January, trade surplus, China_
+_Context: China, trade surplus, January_
 
 ##### Lago Agrio
 ### [A court in the city of Lago Agrio, on behalf of 30,000 Ecuadorean people, orders United States oil company Chevron to pay more than $8 billion in environmental damages for dumping wastewater in the Amazon River twenty years ago. ](/news/2011/02/14/a-court-in-the-city-of-lago-agrio-on-behalf-of-30-000-ecuadorean-people-orders-united-states-oil-company-chevron-to-pay-more-than-8-billi.md)
@@ -49,13 +49,13 @@ An Ecuadorean lawyer for theplaintiffs said on Monday that a court in the Amazon
 
 ##### General Motors
 ### [General Motors announces that it will pay its United States hourly workers more than $4000 each as a share of profits. ](/news/2011/02/14/general-motors-announces-that-it-will-pay-its-united-states-hourly-workers-more-than-4000-each-as-a-share-of-profits.md)
-_Context: profit, hourly worker, United States, General Motors_
+_Context: profit, General Motors, hourly worker, United States_
 
 ##### Eurozone
 ### [Eurozone finance ministers agree to set up a permanent bail-out fund of EUR500 billion - the European Stability Mechanism (ESM). This replaces the European Financial Stability Facility (EFSF). ](/news/2011/02/14/eurozone-finance-ministers-agree-to-set-up-a-permanent-bail-out-fund-of-a-500-billion-the-european-stability-mechanism-esm-this-replac.md)
 Eurozone leaders agree to set up a new bail-out fund of 500bn euros - almost double the current amount that can be lent.
 
-##### die in a plane crash
+##### Die in a plane crash
 ### [Fourteen people die in a plane crash in Honduras including a deputy minister in the Government of Honduras Rodolfo Robelo and former finance minister Carlos Chahin. ](/news/2011/02/14/fourteen-people-die-in-a-plane-crash-in-honduras-including-a-deputy-minister-in-the-government-of-honduras-rodolfo-robelo-and-former-finance.md)
 A plane crash in Honduras kills all 14 people on board, including government minister Rodolfo Robelo.
 
@@ -69,11 +69,11 @@ Fine Gael leader Enda Kenny is to travel to Germany tomorrow to brief German Cha
 
 ##### United Nations Security Council
 ### [The United Nations Security Council calls for a permanent ceasefire on the Thailand-Cambodia border near the Preah Vihear Temple. ](/news/2011/02/14/the-united-nations-security-council-calls-for-a-permanent-ceasefire-on-the-thailand-cambodia-border-near-the-preah-vihear-temple.md)
-_Context: Thailand, United Nations Security Council, Preah Vihear Temple, Cambodia_
+_Context: United Nations Security Council, Thailand, Preah Vihear Temple, Cambodia_
 
 ##### DR Congo
 ### [11 members of a family are found dead in eastern Democratic Republic of the Congo after being kidnapped by Ugandan Islamist rebels. ](/news/2011/02/14/11-members-of-a-family-are-found-dead-in-eastern-democratic-republic-of-the-congo-after-being-kidnapped-by-ugandan-islamist-rebels.md)
-_Context: DR Congo, Uganda_
+_Context: Uganda, DR Congo_
 
 ##### Bradley Manning
 ### [Supporters of 23-year-old Bradley Manning, including a member of the legal advocacy team, criticise the White House for its "thuggish behaviour" and "torture" in trying to break the soldier by pressuring him to implicate Julian Assange in the alleged theft of 250,000 documents the U.S. government wished to keep secret. ](/news/2011/02/14/supporters-of-23-year-old-bradley-manning-including-a-member-of-the-legal-advocacy-team-criticise-the-white-house-for-its-thuggish-behavi.md)
@@ -85,7 +85,7 @@ Abu Bakar Bashir charged with planning to use weapons to commit acts of terror, 
 
 ##### Hong Kong
 ### [Hong Kong feng shui master Tony Chan loses his appeal to inherit the fortune of Nina Wang. ](/news/2011/02/14/hong-kong-feng-shui-master-tony-chan-loses-his-appeal-to-inherit-the-fortune-of-nina-wang.md)
-_Context: Hong Kong, feng shui, Nina Wang_
+_Context: feng shui, Nina Wang, Hong Kong_
 
 ##### Pakistani Punjab governor
 ### [Mumtaz Qadri is charged with murdering the Governor of Punjab Salmaan Taseer in a Pakistan court. ](/news/2011/02/14/mumtaz-qadri-is-charged-with-murdering-the-governor-of-punjab-salmaan-taseer-in-a-pakistan-court.md)
@@ -101,11 +101,11 @@ The Palestinian cabinet will tender resignations Monday after which Prime Minist
 
 ##### Mourad Medelci
 ### [Mourad Medelci, the foreign minister of Algeria, announces that the 19-year-old state of emergency will end "within days". ](/news/2011/02/14/mourad-medelci-the-foreign-minister-of-algeria-announces-that-the-19-year-old-state-of-emergency-will-end-within-days.md)
-_Context: Algeria, Mourad Medelci, state of emergency_
+_Context: state of emergency, Mourad Medelci, Algeria_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama puts forward a budget for 2012 proposing heavy spending cuts but still predicting substantial budget deficits. ](/news/2011/02/14/the-president-of-the-united-states-barack-obama-puts-forward-a-budget-for-2012-proposing-heavy-spending-cuts-but-still-predicting-substantia.md)
-_Context: budget deficits, United States federal budget, U.S. President, Barack Obama_
+_Context: Barack Obama, United States federal budget, U.S. President, budget deficits_
 
 ##### 10 Downing Street
 ### [10 Downing Street receives a new cat to boost the battle against mice seen on television scuttling past British prime minister David Cameron. ](/news/2011/02/14/10-downing-street-receives-a-new-cat-to-boost-the-battle-against-mice-seen-on-television-scuttling-past-british-prime-minister-david-cameron.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/8/the-death-toll-from-yesterday-s-aftershock-from-
 
 ### [2011-04-8](/news/2011/04/8/index.md)
 
-##### aftershock
+##### Aftershock
 # The death toll from yesterday's aftershock from the 2011 Tohoku earthquake and tsunami rises to three and 140 wounded. 
 
 

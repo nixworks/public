@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/5/three-people-are-killed-and-twenty-injured-follo
 
 ### [2009-07-5](/news/2009/07/5/index.md)
 
-##### riots
+##### Riots
 #  Three people are killed and twenty injured following clashes in rmqi, capital of Xinjiang, western China. 
 
 

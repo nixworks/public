@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/23/a-suicide-bombing-at-a-church-in-the-northeaste
 
 ### [2012-09-23](/news/2012/09/23/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a church in the northeastern Nigerian city of Bauchi kills at least two people and wounds up to 48 others. 
 
 A suicide bomber in northern Nigeria attacks a Catholic church, killing at least two people and injuring 48, Red Cross officials say.

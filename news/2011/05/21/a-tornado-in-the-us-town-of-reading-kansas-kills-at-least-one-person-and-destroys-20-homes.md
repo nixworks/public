@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/21/a-tornado-in-the-us-town-of-reading-kansas-kill
 
 ### [2011-05-21](/news/2011/05/21/index.md)
 
-##### tornado
+##### Tornado
 # A tornado in the US town of Reading, Kansas kills at least one person and destroys 20 homes. 
 
 One person was killed and at least 20 homes destroyed after a weekend tornado that struck a town in eastern Kansas, state officials said. 

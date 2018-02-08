@@ -3,7 +3,7 @@ Formats: [HTML](2015/04/2/index.html)  [JSON](2015/04/2/index.json)  [XML](2015/
 
 ## [2015-04-2](/news/2015/04/2/index.md)
 
-##### attack
+##### Attack
 ### [Gunmen attack Garissa University College in Kenya, killing at least 140 people and wounding 65 others. ](/news/2015/04/2/gunmen-attack-garissa-university-college-in-kenya-killing-at-least-140-people-and-wounding-65-others.md)
 At least 147 people have died in an attack by al-Shabab on Garissa University, Kenya - the deadliest assault yet by the Islamist group.
 
@@ -11,7 +11,7 @@ At least 147 people have died in an attack by al-Shabab on Garissa University, K
 ### [Al-Qaeda fighters attack a prison in Al Mukalla, freeing at least 270 prisoners. ](/news/2015/04/2/al-qaeda-fighters-attack-a-prison-in-al-mukalla-freeing-at-least-270-prisoners.md)
 _Context: Al Mukalla, al-Qaeda, Yemeni Crisis (2011-present)_
 
-##### flight data recorder
+##### Flight data recorder
 ### [The flight data recorder is recovered from the crash site. ](/news/2015/04/2/the-flight-data-recorder-is-recovered-from-the-crash-site.md)
 The co-pilot suspected of deliberately crashing a plane into the Alps had researched suicide methods and the security of cockpit doors, prosecutors say.
 

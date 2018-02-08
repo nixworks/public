@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/19/an-earthquake-registering-6-9-on-the-richter-sc
 
 ### [2005-02-19](/news/2005/02/19/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake, registering 6.9 on the Richter scale, strikes South East Sulawesi, Indonesia at 00:04 UTC. 
 
 

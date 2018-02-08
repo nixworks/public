@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/6/scientists-report-to-united-states-senators-the-
 
 ### [2003-11-6](/news/2003/11/6/index.md)
 
-##### energy
+##### Energy
 #  Scientists report to United States senators the potential to find energy on the moon. Solar power from the moon could provide clean, affordable, and sustainable electric power.
 
 

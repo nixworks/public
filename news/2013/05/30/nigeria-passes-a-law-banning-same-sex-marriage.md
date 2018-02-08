@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/30/nigeria-passes-a-law-banning-same-sex-marriage.
 
 ### [2013-05-30](/news/2013/05/30/index.md)
 
-##### banning same-sex marriage
+##### Banning same-sex marriage
 # Nigeria passes a law banning same-sex marriage. 
 
 

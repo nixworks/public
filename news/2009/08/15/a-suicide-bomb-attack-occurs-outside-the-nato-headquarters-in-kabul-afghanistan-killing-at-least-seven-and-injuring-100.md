@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-h
 
 ### [2009-08-15](/news/2009/08/15/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. 
 
 

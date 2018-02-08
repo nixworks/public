@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/23/the-24-year-old-tunisian-who-is-suspected-of-dr
 
 ### [2016-12-23](/news/2016/12/23/index.md)
 
-##### last week's attack on a Christmas market in Berlin
+##### Last week's attack on a Christmas market in Berlin
 # The 24-year-old Tunisian who is suspected of driving the truck that smashed through a Berlin market is killed in a shoot-out in Milan. 
 
 

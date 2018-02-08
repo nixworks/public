@@ -7,7 +7,7 @@ Formats: [HTML](2016/11/15/index.html)  [JSON](2016/11/15/index.json)  [XML](201
 ### [Between four and 20 people are reported killed by government and Russian airstrikes that hit rebel held areas, five hospitals, and a mobile clinic in Aleppo, says U.S. State Department spokeswoman Elizabeth Trudeau. Syria and Russia deny targeting Aleppo. ](/news/2016/11/15/between-four-and-20-people-are-reported-killed-by-government-and-russian-airstrikes-that-hit-rebel-held-areas-five-hospitals-and-a-mobile.md)
 An air strike hit a hospital in the rebel-held Syrian village of Awaijel, west of Aleppo killing at least one person in the early hours of Tuesday, a day after attacks on two other hospitals in the region, a war monitor said.
 
-##### bond
+##### Bond
 ### [The global bonds sell-off continue amid uncertainty over Donald Trump as stock markets continue to rise to record levels. ](/news/2016/11/15/the-global-bonds-sell-off-continue-amid-uncertainty-over-donald-trump-as-stock-markets-continue-to-rise-to-record-levels.md)
 A wave of selling resumes in bond markets as investors digest the impact of a Trump presidency.
 
@@ -21,9 +21,9 @@ Russia detained Economy Minister Alexei Ulyukayev on charges of taking a $2 mill
 
 ##### Will Rogers World Airport
 ### [Will Rogers World Airport in Oklahoma City suspends all arrival and departure flights after at least one person is shot in the airport's parking lot. Local media report that victim has been transported in "emergency condition" to a nearby hospital. ](/news/2016/11/15/will-rogers-world-airport-in-oklahoma-city-suspends-all-arrival-and-departure-flights-after-at-least-one-person-is-shot-in-the-airport-s-par.md)
-_Context: emergency condition, Will Rogers World Airport, Oklahoma City_
+_Context: Will Rogers World Airport, Oklahoma City, emergency condition_
 
-##### stabbed
+##### Stabbed
 ### [Six students, including the suspect, are stabbed at Mountain View High School in Orem, Utah. The suspect is taken into custody, and there are no reports of life threatening injuries. ](/news/2016/11/15/six-students-including-the-suspect-are-stabbed-at-mountain-view-high-school-in-orem-utah-the-suspect-is-taken-into-custody-and-there-ar.md)
 _Context: Orem, Utah, Mountain View High School, stabbed_
 
@@ -33,11 +33,11 @@ A gun used to shoot a police officer Saturday morning was the same weapon used i
 
 ##### Sandy Hook Elementary School shootings
 ### [The families of those killed in the Sandy Hook Elementary School shootings of 2012 ask the Connecticut Supreme Court to reverse a lower court dismissal of their lawsuit against Remington Arms, maker of the Bushmaster rifle used by murderer Adam Lanza. ](/news/2016/11/15/the-families-of-those-killed-in-the-sandy-hook-elementary-school-shootings-of-2012-ask-the-connecticut-supreme-court-to-reverse-a-lower-cour.md)
-_Context: Bushmaster rifle, Connecticut Supreme Court, Remington Arms, Sandy Hook Elementary School shootings, Adam Lanza_
+_Context: Sandy Hook Elementary School shootings, Adam Lanza, Connecticut Supreme Court, Remington Arms, Bushmaster rifle_
 
-##### court of cassation
+##### Court of cassation
 ### [Egypt's court of cassation overturns the death sentence on Mohamed Morsi and five other members of the Muslim Brotherhood. The court orders a retrial of six men for their roles in releasing the prisoners from the Wadi el-Natrun prison. ](/news/2016/11/15/egypt-s-court-of-cassation-overturns-the-death-sentence-on-mohamed-morsi-and-five-other-members-of-the-muslim-brotherhood-the-court-orders.md)
-_Context: Wadi el-Natrun prison, Mohamed Morsi, court of cassation, Muslim Brotherhood_
+_Context: Muslim Brotherhood, Mohamed Morsi, court of cassation, Wadi el-Natrun prison_
 
 ##### Presidential transition of Donald Trump
 ### [Ben Carson, former GOP presidential candidate, current advisor to President-elect Donald Trump and retired neurosurgeon, has decided to not accept a Cabinet position in the Trump administration. ](/news/2016/11/15/ben-carson-former-gop-presidential-candidate-current-advisor-to-president-elect-donald-trump-and-retired-neurosurgeon-has-decided-to-not.md)

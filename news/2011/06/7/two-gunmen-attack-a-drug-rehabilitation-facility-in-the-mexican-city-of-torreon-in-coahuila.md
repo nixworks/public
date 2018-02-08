@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/7/two-gunmen-attack-a-drug-rehabilitation-facility
 
 ### [2011-06-7](/news/2011/06/7/index.md)
 
-##### drug rehabilitation
+##### Drug rehabilitation
 # Two gunmen attack a drug rehabilitation facility in the Mexican city of Torreon in Coahuila. 
 
 

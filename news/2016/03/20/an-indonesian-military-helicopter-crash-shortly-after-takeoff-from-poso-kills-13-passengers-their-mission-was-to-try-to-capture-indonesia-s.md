@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
-##### military
+##### Military
 # An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. 
 
 

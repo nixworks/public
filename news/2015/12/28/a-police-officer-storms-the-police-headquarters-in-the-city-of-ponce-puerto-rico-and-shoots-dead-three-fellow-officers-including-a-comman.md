@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/28/a-police-officer-storms-the-police-headquarters
 
 ### [2015-12-28](/news/2015/12/28/index.md)
 
-##### police officer
+##### Police officer
 # A police officer storms the police headquarters in the city of Ponce, Puerto Rico, and shoots dead three fellow officers, including a commanding officer. Authorities say Guarionex Candelario, 50, was arrested for the killings shortly afterwards and taken to hospital for minor injuries. 
 
 

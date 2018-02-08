@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/3/57-people-are-injured-and-28-000-people-have-bee
 
 ### [2011-06-3](/news/2011/06/3/index.md)
 
-##### munitions
+##### Munitions
 # 57 people are injured, and 28,000 people have been forced to evacuate, following an explosion at an army munitions depot in Russia's western Ural Mountains region. 
 
 

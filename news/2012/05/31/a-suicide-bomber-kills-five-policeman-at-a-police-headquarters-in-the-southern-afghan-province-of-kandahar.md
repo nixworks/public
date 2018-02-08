@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/31/a-suicide-bomber-kills-five-policeman-at-a-poli
 
 ### [2012-05-31](/news/2012/05/31/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills five policeman at a police headquarters in the southern Afghan province of Kandahar. 
 
 A suicide bomb attack on a police headquarters in the southern Afghan province of Kandahar kills at least five policemen, officials say.

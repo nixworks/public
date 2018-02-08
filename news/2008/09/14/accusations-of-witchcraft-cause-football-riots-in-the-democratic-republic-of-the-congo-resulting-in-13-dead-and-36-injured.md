@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/14/accusations-of-witchcraft-cause-football-riots-
 
 ### [2008-09-14](/news/2008/09/14/index.md)
 
-##### witchcraft
+##### Witchcraft
 #  Accusations of witchcraft cause football riots in the Democratic Republic of the Congo, resulting in 13 dead and 36 injured. 
 
 

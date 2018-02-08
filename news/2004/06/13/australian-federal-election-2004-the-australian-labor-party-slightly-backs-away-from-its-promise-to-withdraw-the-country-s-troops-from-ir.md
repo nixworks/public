@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/13/australian-federal-election-2004-the-australian
 
 ### [2004-06-13](/news/2004/06/13/index.md)
 
-##### election of 2004
+##### Election of 2004
 #  Australian federal election, 2004: The Australian Labor Party slightly backs away from its promise to withdraw the country's troops from Iraq by Christmas if it wins. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/28/the-state-government-of-india-s-jammu-and-kashm
 
 ### [2008-06-28](/news/2008/06/28/index.md)
 
-##### state government
+##### State government
 #  The state government of India's Jammu and Kashmir has rebuked the decision to transfer forested land to Amarnath shrine following wide protests across the state. 
 
 

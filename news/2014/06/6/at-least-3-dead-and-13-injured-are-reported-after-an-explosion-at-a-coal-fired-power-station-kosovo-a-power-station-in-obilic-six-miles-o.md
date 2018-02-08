@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/6/at-least-3-dead-and-13-injured-are-reported-afte
 
 ### [2014-06-6](/news/2014/06/6/index.md)
 
-##### coal-fired power station
+##### Coal-fired power station
 # At least 3 dead and 13 injured are reported after an explosion at a coal-fired power station, Kosovo A Power Station, in Obilic, six miles outside Pristina, the capital of Kosovo. 
 
 An explosion at a coal-fired power station outside the Kosovo capital, Pristina, kills at least two people and injures 13 others, officials say.

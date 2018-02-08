@@ -35,13 +35,13 @@ US wildlife officials are investigating a spate of killings and mutilations of d
 ### [Kazakh opposition leader Vladimir Kozlov will face seven-and-a-half years in jail on charges relating to causing the 2011 Mangystau riots in Zhanaozen, Mangystau Province. ](/news/2012/11/20/kazakh-opposition-leader-vladimir-kozlov-will-face-seven-and-a-half-years-in-jail-on-charges-relating-to-causing-the-2011-mangystau-riots-in.md)
 Vladimir Kozlov will face seven-and-a-half years in jail on charges relating to causing unrest in December last year.
 
-##### prime minister
+##### Prime minister
 ### [Former Croatian prime minister Ivo Sanader is sentenced to 10 years in prison in a first-degree verdict. He is the highest official in Croatia to be convicted of corruption. ](/news/2012/11/20/former-croatian-prime-minister-ivo-sanader-is-sentenced-to-10-years-in-prison-in-a-first-degree-verdict-he-is-the-highest-official-in-croat.md)
 A court in Croatia sentences former Prime Minister Ivo Sanader to 10 years in prison for taking bribes, in a case closely watched by the EU.
 
 ##### Rogue trader
 ### [Rogue trader at Swiss bank UBS Kweku Adoboli is found guilty and is sentenced to seven years in prison for his role in the 2011 UBS rogue trader scandal. ](/news/2012/11/20/rogue-trader-at-swiss-bank-ubs-kweku-adoboli-is-found-guilty-and-is-sentenced-to-seven-years-in-prison-for-his-role-in-the-2011-ubs-rogue-tr.md)
-_Context: UBS, Rogue trader, Kweku Adoboli, Swiss, 2011 UBS rogue trader scandal_
+_Context: UBS, Kweku Adoboli, Rogue trader, 2011 UBS rogue trader scandal, Swiss_
 
 ##### China
 ### [China appoints Sun Zhengcai as new chief for the city of Chongqing, once led by disgraced politician Bo Xilai. ](/news/2012/11/20/china-appoints-sun-zhengcai-as-new-chief-for-the-city-of-chongqing-once-led-by-disgraced-politician-bo-xilai.md)
@@ -49,11 +49,11 @@ China appoints a new Communist Party chief in Chongqing, the city once led by di
 
 ##### General Synod of the Church of England
 ### [The General Synod of the Church of England narrowly rejects a motion to allow women to become bishops. ](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.md)
-_Context: bishops, General Synod of the Church of England_
+_Context: General Synod of the Church of England, bishops_
 
 ##### United Nations
 ### [The United Nations World Meteorological Organisation says that greenhouse gases reached record levels in 2011. ](/news/2012/11/20/the-united-nations-world-meteorological-organisation-says-that-greenhouse-gases-reached-record-levels-in-2011.md)
-_Context: greenhouse gas, World Meteorological Organisation, United Nations_
+_Context: World Meteorological Organisation, United Nations, greenhouse gas_
 
 ## [Previous Day...](/news/2012/11/19/index.md)
 

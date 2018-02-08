@@ -9,11 +9,11 @@ The Jakarta Foreign Correspondents Club (JFCC) decided to &quot;err on the side 
 
 ##### German
 ### [ The body of German-Austrian billionaire Friedrich Karl Flick, stolen from the grave in 2008 and held for ransom, is returned to his family. ](/news/2009/12/2/the-body-of-german-austrian-billionaire-friedrich-karl-flick-stolen-from-the-grave-in-2008-and-held-for-ransom-is-returned-to-his-family.md)
-_Context: Friedrich Karl Flick, German, Austria, billionaire_
+_Context: Austria, Friedrich Karl Flick, German, billionaire_
 
 ##### Nigeria
 ### [ More than 50 prominent Nigerian public figures call for President Umaru Yar'Adua to resign, saying his health is impairing his judgment. ](/news/2009/12/2/more-than-50-prominent-nigerian-public-figures-call-for-president-umaru-yar-adua-to-resign-saying-his-health-is-impairing-his-judgment.md)
-_Context: President, Umaru Yar'Adua, Nigeria_
+_Context: Umaru Yar'Adua, Nigeria, President_
 
 ##### Islamist
 ### [ An Islamist group in the North Caucasus claims the bomb attack on a Nevsky Express train in Russia was conducted on orders of "Emir of the Caucasus Emirate" Dokka Umarov. ](/news/2009/12/2/an-islamist-group-in-the-north-caucasus-claims-the-bomb-attack-on-a-nevsky-express-train-in-russia-was-conducted-on-orders-of-emir-of-the.md)

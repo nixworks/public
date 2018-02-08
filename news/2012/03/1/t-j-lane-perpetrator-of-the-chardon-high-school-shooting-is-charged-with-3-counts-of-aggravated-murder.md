@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/1/t-j-lane-perpetrator-of-the-chardon-high-school-
 
 ### [2012-03-1](/news/2012/03/1/index.md)
 
-##### child murders
+##### Child murders
 # T.J. Lane, perpetrator of the Chardon High School shooting, is charged with 3 counts of aggravated murder. 
 
 

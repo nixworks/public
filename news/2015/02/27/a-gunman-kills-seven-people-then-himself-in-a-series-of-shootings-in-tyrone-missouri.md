@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/27/a-gunman-kills-seven-people-then-himself-in-a-s
 
 ### [2015-02-27](/news/2015/02/27/index.md)
 
-##### a series of shootings
+##### A series of shootings
 # A gunman kills seven people then himself in a series of shootings in Tyrone, Missouri. 
 
 Nine people are dead, including the gunman, in a shooting spree across multiple locations in the rural southern Missouri community of Tyrone.

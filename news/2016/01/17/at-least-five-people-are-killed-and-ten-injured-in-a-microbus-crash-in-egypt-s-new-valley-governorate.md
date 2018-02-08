@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/17/at-least-five-people-are-killed-and-ten-injured
 
 ### [2016-01-17](/news/2016/01/17/index.md)
 
-##### microbus
+##### Microbus
 # At least five people are killed and ten injured in a microbus crash in Egypt's New Valley Governorate. 
 
 

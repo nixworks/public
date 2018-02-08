@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/30/a-bomb-blast-rips-a-trolleybus-apart-in-volgogr
 
 ### [2013-12-30](/news/2013/12/30/index.md)
 
-##### trolleybus
+##### Trolleybus
 # A bomb blast rips a trolleybus apart in Volgograd, Russia, killing at least 15 people in the second deadly attack in the southern city in less than 24 hours. 
 
 At least 14 people are killed in a blast in the Russian city of Volgograd, in what officials say is the second suicide attack there in two days.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/1/palestinian-factional-violence-hamas-gunmen-ambu
 
 ### [2007-02-1](/news/2007/02/1/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence: Hamas gunmen ambush a convoy carrying weapons to Mahmoud Abbas's presidential guard unit. Six Fatah members are killed, more than 70 people are wounded and 12 others are kidnapped in ensuing battles. 
 
 (VIDEO) Four-truck convoy making its way from Israel to President Abbas&#39; presidential guard unit in Gaza ambushed by Hamas gunmen; six Fatah members killed, more than 70 people wounded in ensuing gun battles; ‘a real war is taking place,’ witness says 

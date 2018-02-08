@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/29/prosecutors-discuss-a-plea-deal-avoidance-of-th
 
 ### [2013-04-29](/news/2013/04/29/index.md)
 
-##### sentenced to death
+##### Sentenced to death
 # Prosecutors discuss a plea deal (avoidance of the death penalty in exchange for a likely sentence of life in prison without parole) for the surviving Boston bomber, Dzhokhar Tsarnaev. Police have taken DNA from Tamerlan Tsarnaev's wife and are exploring the brothers' connection to two deceased Russian extremists. 
 
 

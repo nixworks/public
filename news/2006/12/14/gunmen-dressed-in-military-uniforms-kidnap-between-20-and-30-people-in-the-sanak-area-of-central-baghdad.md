@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/14/gunmen-dressed-in-military-uniforms-kidnap-betw
 
 ### [2006-12-14](/news/2006/12/14/index.md)
 
-##### kidnapped
+##### Kidnapped
 #  Gunmen dressed in military uniforms kidnap between 20 and 30 people in the Sanak area of central Baghdad. 
 
 

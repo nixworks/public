@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/16/a-by-election-takes-place-in-hong-kong-triggere
 
 ### [2010-05-16](/news/2010/05/16/index.md)
 
-##### by-election
+##### By-election
 # A by-election takes place in Hong Kong triggered by activists calling for universal suffrage in the territory. 
 
 Hong Kong voted in citywide by-elections on Sunday, polls which pro-democracy groups consider to be a de facto referendum on universal suffrage aimed at pressuring Beijing to grant swifter political reforms.

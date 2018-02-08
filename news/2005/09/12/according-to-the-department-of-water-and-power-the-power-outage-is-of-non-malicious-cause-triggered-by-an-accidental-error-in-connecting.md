@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/12/according-to-the-department-of-water-and-power-
 
 ### [2005-09-12](/news/2005/09/12/index.md)
 
-##### power outage
+##### Power outage
 #  According to the Department of Water and Power, the power outage is of "non-malicious cause" triggered by an accidental error in connecting lines to a newly installed computer. DWP (Dept of Water and Power) General Manager Ron Deaton says repairs have been made and the system will be restored in an orderly manner. [http:--www.newsday.com-news-nationworld-nation-la-091205blackout_lat,0,7871549.story?coll=ny-top-headlines (Newsday)] Despite the disruption to two million customers, the system's successfully controlled shutdown prevented a blackout from extending beyond the region. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/13/a-helicopter-crash-in-norfolk-united-kingdom-ki
 
 ### [2014-03-13](/news/2014/03/13/index.md)
 
-##### helicopter crash
+##### Helicopter crash
 # A helicopter crash in Norfolk, United Kingdom, kills Edward Haughey, Baron Ballyedmond. 
 
 Police at the scene of a helicopter crash in south Norfolk in which four men have died have said roads nearby are likely to be closed for some time as the investigation continues.

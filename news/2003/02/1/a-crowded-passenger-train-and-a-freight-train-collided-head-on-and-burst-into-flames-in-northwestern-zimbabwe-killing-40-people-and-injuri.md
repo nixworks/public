@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/1/a-crowded-passenger-train-and-a-freight-train-co
 
 ### [2003-02-1](/news/2003/02/1/index.md)
 
-##### passenger train
+##### Passenger train
 #  A crowded passenger train and a freight train collided head on and burst into flames in northwestern Zimbabwe, killing 40 people and injuring about 60. The wreckage was still burning 14 hours after the collision.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the
 
 ### [2012-03-12](/news/2012/03/12/index.md)
 
-##### avalanche
+##### Avalanche
 # Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. 
 
 

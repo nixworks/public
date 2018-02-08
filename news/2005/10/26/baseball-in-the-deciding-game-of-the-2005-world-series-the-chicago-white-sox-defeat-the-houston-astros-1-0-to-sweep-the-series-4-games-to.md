@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/26/baseball-in-the-deciding-game-of-the-2005-world
 
 ### [2005-10-26](/news/2005/10/26/index.md)
 
-##### baseball game
+##### Baseball game
 #  Baseball: In the deciding game of the 2005 World Series, the Chicago White Sox defeat the Houston Astros 1-0 to sweep the series 4 games to 0. This is the first World Championship for the Sox since 1917. Outfielder Jermaine Dye is named Series MVP. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/5/an-explosive-laden-donkey-is-used-in-an-attack-o
 
 ### [2013-04-5](/news/2013/04/5/index.md)
 
-##### explosive-laden donkey
+##### Explosive-laden donkey
 # An explosive-laden donkey is used in an attack on a police security post in the Alingar District of Laghman Province in eastern Afghanistan, killing a policeman and wounding three civilians. 
 
 An official says a bomb attached to a donkey has exploded, killing a policeman and wounded three civilians.

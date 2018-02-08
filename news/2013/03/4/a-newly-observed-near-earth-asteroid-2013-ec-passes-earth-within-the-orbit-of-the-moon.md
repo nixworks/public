@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-pas
 
 ### [2013-03-4](/news/2013/03/4/index.md)
 
-##### near-Earth asteroid
+##### Near-Earth asteroid
 # A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. 
 
 A newly found asteroid will pass just inside the orbit of the Moon, with its closest approach on March 4, 2013 at 07:35 UTC. Named 2013 EC, the asteroid is

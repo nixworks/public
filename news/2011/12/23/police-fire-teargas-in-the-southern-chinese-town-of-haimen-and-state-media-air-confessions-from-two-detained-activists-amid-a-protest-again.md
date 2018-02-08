@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/23/police-fire-teargas-in-the-southern-chinese-tow
 
 ### [2011-12-23](/news/2011/12/23/index.md)
 
-##### teargas
+##### Teargas
 # Police fire teargas in the southern Chinese town of Haimen, and state media air confessions from two detained activists amid a protest against a proposed new power plant. 
 
 Riot police fired teargas to break up a protest against a planned power station in southern China on Friday and state media showed confessions by two detained activists in an obvious bid to get protesters off the streets.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/14/near-complete-preliminary-results-show-general-
 
 ### [2004-06-14](/news/2004/06/14/index.md)
 
-##### eurosceptic
+##### Eurosceptic
 #  Near-complete preliminary results show general defeat of governing parties and slight perceived rise of eurosceptic parties, but the balance of power in the Parliament remains similar despite the 10 new member states. 
 
 

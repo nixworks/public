@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-
 
 ### [2011-06-15](/news/2011/06/15/index.md)
 
-##### state's legislature
+##### State's legislature
 # The General Assembly of the U.S. state of North Carolina votes on a motion to veto override by the Governor Bev Perdue of the state budget. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/16/russian-mafia-boss-aslan-usoyan-is-killed-in-mo
 
 ### [2013-01-16](/news/2013/01/16/index.md)
 
-##### organized crime from Russia
+##### Organized crime from Russia
 # Russian mafia boss Aslan Usoyan is killed in Moscow. 
 
 

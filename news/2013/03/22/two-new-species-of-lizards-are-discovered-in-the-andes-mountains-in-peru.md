@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/22/two-new-species-of-lizards-are-discovered-in-th
 
 ### [2013-03-22](/news/2013/03/22/index.md)
 
-##### lizards
+##### Lizards
 # Two new species of lizards are discovered in the Andes Mountains in Peru. 
 
 

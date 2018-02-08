@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/21/most-of-the-world-s-major-river-deltas-are-sink
 
 ### [2009-09-21](/news/2009/09/21/index.md)
 
-##### river delta
+##### River delta
 #  Most of the world's major river deltas are sinking, including Colorado, Nile, Pearl, Rhone and Yangtze, increasing the flood risk faced by  a billion people, scientists report. 
 
 

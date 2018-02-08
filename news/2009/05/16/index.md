@@ -13,15 +13,15 @@ Ruth Padel has become the new Oxford Professor of Poetry today, following a cont
 
 ##### Manchester United
 ### [ Manchester United Football Club win the 2008-09 season of the Premier League. ](/news/2009/05/16/manchester-united-football-club-win-the-2008-09-season-of-the-premier-league.md)
-_Context: English Premier League, Manchester United, 2008-09 season_
+_Context: Manchester United, English Premier League, 2008-09 season_
 
 ##### Gulf Cartel
 ### [ The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. ](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.md)
-_Context: Zacatecas, Gulf Cartel, Mexico, prison, escape, drug cartel_
+_Context: Zacatecas, Mexico, Gulf Cartel, escape, drug cartel, prison_
 
 ##### House of Representatives
 ### [ Representative Yukio Hatoyama becomes the President of Japan's Democratic Party. ](/news/2009/05/16/representative-yukio-hatoyama-becomes-the-president-of-japan-s-democratic-party.md)
-_Context: House of Representatives, Yukio Hatoyama, Japan, Democratic Party, President_
+_Context: Democratic Party, Yukio Hatoyama, House of Representatives, Japan, President_
 
 ##### Bharatiya Janata Party
 ### [ The People's Party concedes to the United Progressive Alliance in India's general election. ](/news/2009/05/16/the-people-s-party-concedes-to-the-united-progressive-alliance-in-india-s-general-election.md)
@@ -29,11 +29,11 @@ India&#039;s main opposition has admitted defeat as counting shows the ruling Co
 
 ##### Niger Delta
 ### [ The Niger Delta Emancipation Movement claims that Nigeria's military killed one of its hostages during an operation. ](/news/2009/05/16/the-niger-delta-emancipation-movement-claims-that-nigeria-s-military-killed-one-of-its-hostages-during-an-operation.md)
-_Context: Military, Movement for the Emancipation of the Niger Delta, Niger Delta, Conflict in the Niger Delta, hostage, Nigeria_
+_Context: Nigeria, Military, Niger Delta, Movement for the Emancipation of the Niger Delta, hostage, Conflict in the Niger Delta_
 
-##### car bomb
+##### Car bomb
 ### [ A car bomb kills at least 11 people and injures 25 others in Peshawar, Pakistan. ](/news/2009/05/16/a-car-bomb-kills-at-least-11-people-and-injures-25-others-in-peshawar-pakistan.md)
-_Context: car bomb, Pakistan, Peshawar, War in North-West Pakistan_
+_Context: Peshawar, car bomb, Pakistan, War in North-West Pakistan_
 
 ##### President of Sri Lanka
 ### [ President Mahinda Rajapaksa says that Sri Lanka has "militarily defeated the Tamil Tigers". ](/news/2009/05/16/president-mahinda-rajapaksa-says-that-sri-lanka-has-militarily-defeated-the-tamil-tigers.md)
@@ -41,19 +41,19 @@ Sri Lanka declared Monday it had crushed the Tamil Tiger rebels, killing their c
 
 ##### United Kingdom
 ### [ The United Kingdom's Royal Air Force ends its involvement in Iraq. ](/news/2009/05/16/the-united-kingdom-s-royal-air-force-ends-its-involvement-in-iraq.md)
-_Context: Iraq, United Kingdom, Royal Air Force_
+_Context: Royal Air Force, United Kingdom, Iraq_
 
-##### acid
+##### Acid
 ### [ An acid attack injures 30 people in Hong Kong, People's Republic of China. ](/news/2009/05/16/an-acid-attack-injures-30-people-in-hong-kong-people-s-republic-of-china.md)
-_Context: China, acid, acid attack, Hong Kong, acid attack_
+_Context: acid attack, Hong Kong, acid attack, China, acid_
 
-##### demonstration
+##### Demonstration
 ### [ Thousands of demonstrators protest unemployment in Berlin, Germany. ](/news/2009/05/16/thousands-of-demonstrators-protest-unemployment-in-berlin-germany.md)
 Thousands of German workers marched through Berlin today to demand the government do more to protect jobs, highlighting popular&hellip;
 
 ##### India
 ### [ India and Turkey confirm their first cases of (A)H1N1 influenza. ](/news/2009/05/16/india-and-turkey-confirm-their-first-cases-of-a-h1n1-influenza.md)
-_Context: Turkey, H1N1, India, swine flu, current outbreak_
+_Context: H1N1, India, Turkey, swine flu, current outbreak_
 
 ## [Previous Day...](/news/2009/05/15/index.md)
 

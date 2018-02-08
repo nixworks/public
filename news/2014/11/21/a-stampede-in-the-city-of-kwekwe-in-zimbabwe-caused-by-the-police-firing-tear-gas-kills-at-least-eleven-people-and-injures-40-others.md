@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/21/a-stampede-in-the-city-of-kwekwe-in-zimbabwe-ca
 
 ### [2014-11-21](/news/2014/11/21/index.md)
 
-##### stampede
+##### Stampede
 # A stampede in the city of Kwekwe in Zimbabwe caused by the police firing tear gas kills at least eleven people and injures 40 others. 
 
 Harare, Nov 21 (IANS/EFE) At least 11 people were killed and 40 others injured in a stampede triggered by tear gas firing by police at a religious service in a stadium in Zimbabwe, media reported Friday.

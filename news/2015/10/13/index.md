@@ -19,7 +19,7 @@ Author Marlon James wins the £50,000 Man Booker Prize for his novel A Brief His
 ### [The Dutch Safety Board releases their final report into the Malaysia Airlines Flight 17 (MH17) disaster that concludes that the flight from Amsterdam to Kuala Lumpur was shot-down by a Russian-made Buk missile system on 17 July 2014 killing 298 people. ](/news/2015/10/13/the-dutch-safety-board-releases-their-final-report-into-the-malaysia-airlines-flight-17-mh17-disaster-that-concludes-that-the-flight-from.md)
 Dutch safety team&#39;s final report into the downed Malaysian airliner will not place blame for the attack that killed 298.
 
-##### landslide
+##### Landslide
 ### [At least 13 people are killed as a rockslide hits shanties in the Gulistan-i-Jauhar in the Pakistani city of Karachi. ](/news/2015/10/13/at-least-13-people-are-killed-as-a-rockslide-hits-shanties-in-the-gulistan-i-jauhar-in-the-pakistani-city-of-karachi.md)
 Bodies of three women, three men and seven children have been recovered from beneath the rubble. 
 
@@ -27,13 +27,13 @@ Bodies of three women, three men and seven children have been recovered from ben
 ### [ Anheuser-Busch InBev agrees to buy its main rival SABMiller for GBP68 billion ($104 billion) in the biggest beer deal ever. ](/news/2015/10/13/anheuser-busch-inbev-agrees-to-buy-its-main-rival-sabmiller-for-agbp68-billion-104-billion-in-the-biggest-beer-deal-ever.md)
 SABMiller agrees to Anheuser-Busch InBev latest takeover offer, creating a super brewery with sales of $55 billion, and marking the biggest beer deal ever. 
 
-##### relocate MCAS Futenma to Henoko Bay in Nago
+##### Relocate MCAS Futenma to Henoko Bay in Nago
 ### [The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. ](/news/2015/10/13/the-governor-of-the-japanese-prefecture-of-okinawa-takeshi-onaga-revokes-permission-given-by-a-predecessor-for-landfill-work-to-replace-a.md)
-_Context: Marine, Okinawa, Japan, Takeshi Onaga, relocate MCAS Futenma to Henoko Bay in Nago_
+_Context: relocate MCAS Futenma to Henoko Bay in Nago, Okinawa, Japan, Takeshi Onaga, Marine_
 
 ##### Iran
 ### [Iran's Islamic Consultative Assembly approves the deal on its nuclear program agreed with six world powers. ](/news/2015/10/13/iran-s-islamic-consultative-assembly-approves-the-deal-on-its-nuclear-program-agreed-with-six-world-powers.md)
-_Context: Islamic Consultative Assembly, nuclear program, Joint Comprehensive Plan of Action, Iran_
+_Context: Islamic Consultative Assembly, Iran, Joint Comprehensive Plan of Action, nuclear program_
 
 ##### Territorial disputes in the South China Sea
 ### [The United States and Australia warn China they remain committed to freedom of navigation in the waters of the South China Sea and express strong concerns at China's construction of artificial islands in the disputed waters. ](/news/2015/10/13/the-united-states-and-australia-warn-china-they-remain-committed-to-freedom-of-navigation-in-the-waters-of-the-south-china-sea-and-express-s.md)

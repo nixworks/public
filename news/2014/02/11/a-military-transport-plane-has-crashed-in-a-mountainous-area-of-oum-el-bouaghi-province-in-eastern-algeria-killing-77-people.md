@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mou
 
 ### [2014-02-11](/news/2014/02/11/index.md)
 
-##### military transport plane has crashed
+##### Military transport plane has crashed
 # A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. 
 
 A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.

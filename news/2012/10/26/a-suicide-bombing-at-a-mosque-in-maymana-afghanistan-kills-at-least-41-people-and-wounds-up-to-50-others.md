@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/26/a-suicide-bombing-at-a-mosque-in-maymana-afghan
 
 ### [2012-10-26](/news/2012/10/26/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a mosque in Maymana, Afghanistan, kills at least 41 people and wounds up to 50 others. 
 
 At least 41 people have been killed in a suicide bomb attack at a mosque in northern Afghanistan, officials say.

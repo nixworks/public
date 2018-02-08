@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/20/a-female-suicide-bomber-kills-four-and-injures-
 
 ### [2013-04-20](/news/2013/04/20/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A female suicide bomber kills four and injures four outside a hospital in Khaar, Federally Administered Tribal Areas, Pakistan. 
 
 A woman suicide bomber today detonated a bomb outside a hospital in a lawless tribal area of northwest Pakistan, killing at least four people and injuring five others. The blast occurred outside the m

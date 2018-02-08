@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/25/french-investigating-magistrate-jean-louis-brug
 
 ### [2005-08-25](/news/2005/08/25/index.md)
 
-##### investigating magistrate
+##### Investigating magistrate
 #  French investigating magistrate Jean-Louis Bruguiere warns that Al-Qaeda is planning a terrorism attack in Asia, singling out Tokyo, Sydney and Singapore as potential targets. 
 
 

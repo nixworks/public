@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/27/former-daily-mirror-editor-piers-morgan-says-co
 
 ### [2011-07-27](/news/2011/07/27/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # Former "Daily Mirror" editor Piers Morgan says comments he made in 2009 on BBC Radio 4's "Desert Island Discs" do not suggest he printed stories obtained through illegal reporting. In the programme, he had spoken of "running the results" of work by third parties who did "rake through bins... tap people's phones". 
 
 Ex-Mirror editor Piers Morgan denies that comments he previously made on BBC radio suggest he printed stories obtained through illegal reporting.

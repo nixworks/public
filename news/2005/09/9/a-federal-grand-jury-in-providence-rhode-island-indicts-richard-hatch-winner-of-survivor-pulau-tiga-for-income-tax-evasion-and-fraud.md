@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/9/a-federal-grand-jury-in-providence-rhode-island-
 
 ### [2005-09-9](/news/2005/09/9/index.md)
 
-##### grand jury
+##### Grand jury
 #  A federal grand jury in Providence, Rhode Island indicts Richard Hatch, winner of "Survivor: Pulau Tiga", for income tax evasion and fraud for allegedly failing to pay taxes on his winnings and misusing charity funds. 
 
 

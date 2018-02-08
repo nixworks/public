@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/8/2008-canadian-parliamentary-dispute-stephane-dio
 
 ### [2008-12-8](/news/2008/12/8/index.md)
 
-##### proposed opposition coalition
+##### Proposed opposition coalition
 #  2008 Canadian parliamentary dispute: Stphane Dion announces his plans to resign as leader of the Liberal Party of Canada. 
 
 

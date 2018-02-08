@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/18/james-seevakumaran-a-30-year-old-student-at-the
 
 ### [2013-03-18](/news/2013/03/18/index.md)
 
-##### student
+##### Student
 # James Seevakumaran, a 30-year-old student at the University of Central Florida, pulls the fire alarm and plans to attack the school. Instead, after brandishing a gun at another student, he commits suicide in his dorm in Orlando, Florida, United States. The entire campus is evacuated when improvised explosive devices are found in the room. 
 
 HOUSTON -- An undergraduate student at the University of Central Florida apparently&nbsp; committed suicide in his dorm room, and campus evacuations were ordered after explosives, an assault rifle...

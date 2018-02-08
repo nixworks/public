@@ -23,7 +23,7 @@ Police have confirmed the deaths of four people after a shooting spree in the vi
 ### [Quebec police shoot and kill a 19-year-old suspect following a stabbing spree in the village of Akulivik which left three people dead and two others critically injured. ](/news/2017/06/10/quebec-police-shoot-and-kill-a-19-year-old-suspect-following-a-stabbing-spree-in-the-village-of-akulivik-which-left-three-people-dead-and-tw.md)
 A 19-year-old individual was shot and killed by police in the northern Quebec village of Akulivik, after stabbings that killed three people and injured two others, provincial authorities said Saturday.
 
-##### last general election
+##### Last general election
 ### [Prime Minister Theresa May's closest advisers, Fiona Hill and Nick Timothy, resign as her Chiefs of Staff amid criticism over their role in the Conservative Party's election campaign. ](/news/2017/06/10/prime-minister-theresa-may-s-closest-advisers-fiona-hill-and-nick-timothy-resign-as-her-chiefs-of-staff-amid-criticism-over-their-role-in.md)
 Theresa May’s key aides Nick Timothy and Fiona Hill have resigned, taking the blame for her disastrous election campaign. Mr Timothy said he was taking responsibility for the social care U-turn which torpedoed her manifesto, acknowledging he had “oversight of our policy programme”. “In parti...
 

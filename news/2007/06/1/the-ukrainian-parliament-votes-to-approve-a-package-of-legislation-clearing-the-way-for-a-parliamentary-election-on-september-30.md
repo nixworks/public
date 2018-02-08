@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/1/the-ukrainian-parliament-votes-to-approve-a-pack
 
 ### [2007-06-1](/news/2007/06/1/index.md)
 
-##### parliament
+##### Parliament
 #  The Ukrainian parliament votes to approve a package of legislation clearing the way for a parliamentary election on September 30. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-
 
 ### [2010-06-17](/news/2010/06/17/index.md)
 
-##### surveillance cameras
+##### Surveillance cameras
 # Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. 
 
 Bags are to be put over dozens of surveillance cameras in parts of Birmingham with large Muslim populations, after objections.

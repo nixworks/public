@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-
 
 ### [2008-11-20](/news/2008/11/20/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  At least one person is dead and twenty injured after a bomb is thrown into a People's Alliance for Democracy protest compound in Bangkok, Thailand. 
 
 At least one person has died in Bangkok after a bomb was thrown into a compound full of anti-government protesters.

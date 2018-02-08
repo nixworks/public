@@ -5,7 +5,7 @@ Formats: [HTML](2010/03/13/index.html)  [JSON](2010/03/13/index.json)  [XML](201
 
 ##### He Pingping
 ### [The shortest living person, He Pingping, dies in Rome due to unknown complications at the age of 21. ](/news/2010/03/13/the-shortest-living-person-he-pingping-dies-in-rome-due-to-unknown-complications-at-the-age-of-21.md)
-_Context: He Pingping, Rome, Italy_
+_Context: Rome, Italy, He Pingping_
 
 ##### Archbishop of Armagh
 ### [Archbishop of Armagh and Primacy of Ireland Cardinal Sean Brady admits for the first time that he represented the Church when two teenagers abused by Father Brendan Smyth were forced to sign an oath of silence. ](/news/2010/03/13/archbishop-of-armagh-and-primacy-of-ireland-cardinal-sea-n-brady-admits-for-the-first-time-that-he-represented-the-church-when-two-teenagers.md)
@@ -13,11 +13,11 @@ Cardinal Sean Brady represented the Church at meetings when two victims of Fr Br
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Binyamin Netanyahu launches an inquiry into how plans for hundreds of new homes in East Jerusalem were announced.](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.md)
-_Context: Israeli Prime Minister, Benjamin Netanyahu, East Jerusalem_
+_Context: Israeli Prime Minister, East Jerusalem, Benjamin Netanyahu_
 
 #####  Georgian
 ### [The Georgian television station Imedi sparks panic throughout Georgia by broadcasting a fake news item about a supposed invasion of Russian troops and the murder of President Mikheil Saakashvili. ](/news/2010/03/13/the-georgian-television-station-imedi-sparks-panic-throughout-georgia-by-broadcasting-a-fake-news-item-about-a-supposed-invasion-of-russian.md)
-_Context: Russia, Imedi, President of Georgia, Mikheil Saakashvili,  Georgian, a fake news item_
+_Context: President of Georgia, Mikheil Saakashvili, a fake news item, Russia,  Georgian, Imedi_
 
 ##### New Zealand
 ### [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the "Ady Gil" when it crashed with the MV "Shonan Maru 2" and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.md)
@@ -25,7 +25,7 @@ A leading member of the conservation group Sea Shepherd, who was detained aboard
 
 ##### Battle of Mogadishu (2010)
 ### [Fighting in Somalia's capital Mogadishu has killed 60 people since March 10. ](/news/2010/03/13/fighting-in-somalia-s-capital-mogadishu-has-killed-60-people-since-march-10.md)
-_Context: Mogadishu, Somalia, Battle of Mogadishu (2010)_
+_Context: Battle of Mogadishu (2010), Somalia, Mogadishu_
 
 ##### Afghanistan
 ### [A remotely operated bomb killed 6 people traveling in southern Afghanistan in Tirin Kot, the capital of Afghanistan's Uruzgan province. ](/news/2010/03/13/a-remotely-operated-bomb-killed-6-people-traveling-in-southern-afghanistan-in-tirin-kot-the-capital-of-afghanistan-s-uruzgan-province.md)
@@ -37,11 +37,11 @@ A Taliban suicide bomber targeting security forces killed at least 11 people on 
 
 ##### Association Mutual Aid and Solidarity AF447
 ### [Association Mutual Aid and Solidarity AF447 seeks equal compensation for Air France Flight 447's French famiiles after Brazilian judge Mauro Nicolau Junior awards NZ$1.6 million for dead state prosecutor Marcelle Valpacos Fonseca; French insurer Axa will appeal. ](/news/2010/03/13/association-mutual-aid-and-solidarity-af447-seeks-equal-compensation-for-air-france-flight-447-s-french-famiiles-after-brazilian-judge-mauro.md)
-_Context: Marcelle Valpacos Fonseca, Mauro Nicolau Junior, Axa, crash of Air France Flight 447, Brazil, Association Mutual Aid and Solidarity AF447_
+_Context: Mauro Nicolau Junior, Brazil, Association Mutual Aid and Solidarity AF447, Axa, Marcelle Valpacos Fonseca, crash of Air France Flight 447_
 
 ##### Peru
 ### [Peruvian President Alan Garcia orders funding for a tsunami-warning system. ](/news/2010/03/13/peruvian-president-alan-garcaa-orders-funding-for-a-tsunami-warning-system.md)
-_Context: tsunami, Alan Garcia, President, Peru_
+_Context: Peru, President, tsunami, Alan Garcia_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen begins his state visit to the United States in Chicago, announcing to the world his scheme that will allow senior citizen tourists aged 66 and above to travel free on Iarnrod Eireann in the Republic of Ireland. ](/news/2010/03/13/taoiseach-brian-cowen-begins-his-state-visit-to-the-united-states-in-chicago-announcing-to-the-world-his-scheme-that-will-allow-senior-citi.md)

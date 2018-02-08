@@ -21,7 +21,7 @@ _Context: Gaza Strip, Israel_
 
 ##### May Hariri
 ### [An international aid ship, the "Saint Mariam", bearing only female passengers from all backgrounds, including singer May Hariri and several Americans, is to leave Tripoli bound for Gaza after overcoming an Israeli diplomatic mission designed to prevent it from setting sail. ](/news/2010/08/6/an-international-aid-ship-the-saint-mariam-bearing-only-female-passengers-from-all-backgrounds-including-singer-may-hariri-and-several.md)
-_Context: May Hariri, Israel, Tripoli, Gaza Strip_
+_Context: Tripoli, May Hariri, Israel, Gaza Strip_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates says the incident in which the Japanese tanker, the MV "M. Star", was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-las.md)
@@ -29,7 +29,7 @@ Explosive-laden dinghy hit Japanese tanker in Strait of Hormuz, state news agenc
 
 ##### Zamboanga International Airport
 ### [An explosion at Zamboanga International Airport in the southern Philippines kills two people and injures 24. ](/news/2010/08/6/an-explosion-at-zamboanga-international-airport-in-the-southern-philippines-kills-two-people-and-injures-24.md)
-_Context: Zamboanga International Airport, Philippines_
+_Context: Philippines, Zamboanga International Airport_
 
 ##### France
 ### [French police dismantle Romani camps in Saint-Etienne by order of the president. ](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.md)
@@ -53,17 +53,17 @@ _Context: Foxconn_
 
 ##### Tata Group
 ### [The Tata Group establishes a five-man panel in the search for Ratan Naval Tata's successor as its head of business. ](/news/2010/08/6/the-tata-group-establishes-a-five-man-panel-in-the-search-for-ratan-naval-tata-s-successor-as-its-head-of-business.md)
-_Context: Tata Group, Ratan Naval Tata_
+_Context: Ratan Naval Tata, Tata Group_
 
 ##### Mark Hurd
 ### [Mark Hurd resigns as chief executive officer of computer company Hewlett-Packard following investigation of a sexual harassment claim. ](/news/2010/08/6/mark-hurd-resigns-as-chief-executive-officer-of-computer-company-hewlett-packard-following-investigation-of-a-sexual-harassment-claim.md)
 Mark Hurd resigns as chief executive officer and president of Hewlett-Packard following a sexual harassment probe, the company says.
 
-##### devastating floods
+##### Devastating floods
 ### [At least 12 million people are now affected by the worst floods in the history of Pakistan with 1,600 people being killed and 650,000 homes being destroyed. ](/news/2010/08/6/at-least-12-million-people-are-now-affected-by-the-worst-floods-in-the-history-of-pakistan-with-1-600-people-being-killed-and-650-000-homes.md)
 _Context: Pakistan, devastating floods_
 
-##### severe flash floods
+##### Severe flash floods
 ### [Flash floods in the Ladakh region of India's Jammu and Kashmir state kill at least 113 people and leave lots of others missing. ](/news/2010/08/6/flash-floods-in-the-ladakh-region-of-india-s-jammu-and-kashmir-state-kill-at-least-113-people-and-leave-lots-of-others-missing.md)
 At least 113 people killed after cloudburst causes water to sweep through Leh.
 
@@ -75,13 +75,13 @@ _Context: Copiapo_
 ### [China suspends traffic on the Yalu River and evacuates more than 40,000 people from Dandong over fears of flooding amid unprecedented levels of rainfall. ](/news/2010/08/6/china-suspends-traffic-on-the-yalu-river-and-evacuates-more-than-40-000-people-from-dandong-over-fears-of-flooding-amid-unprecedented-levels.md)
 China has suspended traffic on the Yalu river, which forms a border with North Korea, amid reports of heavy rains and flooding.
 
-##### the recent wildfires
+##### The recent wildfires
 ### [Smoke from Russian wildfires covers famous landmarks and delays more than 140 flights at Moscow airports while official figures indicate that 14,340 people died in Moscow during July 2010; 4,824 more than the same month last year. ](/news/2010/08/6/smoke-from-russian-wildfires-covers-famous-landmarks-and-delays-more-than-140-flights-at-moscow-airports-while-official-figures-indicate-tha.md)
 Acrid smoke from forest and peat-bog fires east of Moscow shrouded the city in smoke, causing flight delays and raising pollution to “very dangerous” levels.
 
 ##### Karangetang
 ### [Mount Karangetang, a volcano on the Indonesian island of Siau, erupts. ](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.md)
-_Context: Indonesia, Karangetang, Siau, volcano_
+_Context: Siau, Karangetang, Indonesia, volcano_
 
 ##### Hiroshima
 ### [Hiroshima marks the 65th anniversary of the world's first atomic bomb attack; United States representatives attend in an official capacity for the first time. ](/news/2010/08/6/hiroshima-marks-the-65th-anniversary-of-the-world-s-first-atomic-bomb-attack-united-states-representatives-attend-in-an-official-capacity-f.md)
@@ -89,7 +89,7 @@ The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb att
 
 ##### Venezuela
 ### [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md)
-_Context: Colombia-Venezuela relations, Hugo Chavez, Colombia, president, Luiz Inacio Lula da Silva, Juan Manuel Santos, Venezuela_
+_Context: Juan Manuel Santos, Luiz Inacio Lula da Silva, Hugo Chavez, Colombia, Venezuela, Colombia-Venezuela relations, president_
 
 ##### South Africa
 ### [South Africa recalls its ambassador to Rwanda. ](/news/2010/08/6/south-africa-recalls-its-ambassador-to-rwanda.md)
@@ -111,17 +111,17 @@ David Cameron hails the &quot;unbreakable&quot; friendship between Britain and P
 ### [Saudi Arabia's ban of online functions on BlackBerry mobile phones is implemented. ](/news/2010/08/6/saudi-arabia-s-ban-of-online-functions-on-blackberry-mobile-phones-is-implemented.md)
 A ban on the use of Blackberry phones to send and receive messages is being rolled out in Saudi Arabia, users say.
 
-##### flagellation
+##### Flagellation
 ### [Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. ](/news/2010/08/6/thousands-of-people-attend-the-public-flagellation-of-5-people-in-aceh-amid-requests-that-the-practice-be-banned.md)
 Five people are caned in public in the Indonesian province of Aceh, despite calls by human rights groups to ban flogging.
 
 ##### Bosnian
 ### [A 25-year-old Bosnian immigrant is arraigned in a Brooklyn United States District Court for involvement in an alleged terrorist plot to blow up New York City's subway system. ](/news/2010/08/6/a-25-year-old-bosnian-immigrant-is-arraigned-in-a-brooklyn-united-states-district-court-for-involvement-in-an-alleged-terrorist-plot-to-blow.md)
-_Context: Brooklyn, New York, subway, arraigned, United States District Court, Bosnian, New York City, terrorism_
+_Context: United States District Court, Bosnian, terrorism, subway, arraigned, Brooklyn, New York, New York City_
 
 ##### Nelson Mandela
 ### [Jeremy Ractliffe, former head of the Nelson Mandela Children's Fund, admits he kept possible blood diamonds to protect the reputations of Mandela, Naomi Campbell and the fund but that he gave them to South African police and is willing to testify at Charles Taylor's trial. ](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.md)
-_Context: South Africa, Charles Taylor, blood diamond, Nelson Mandela Children's Fund, Nelson Mandela, Naomi Campbell_
+_Context: Nelson Mandela, South Africa, blood diamond, Charles Taylor, Naomi Campbell, Nelson Mandela Children's Fund_
 
 ##### Matamoros
 ### [At least 14 people are killed during a prison riot in Matamoros in the Mexican state of Tamaulipas. ](/news/2010/08/6/at-least-14-people-are-killed-during-a-prison-riot-in-matamoros-in-the-mexican-state-of-tamaulipas.md)
@@ -129,7 +129,7 @@ Police in Mexico say that at least 14 prisoners have been killed in a jail riot 
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, sentenced to death in Iran, speaks out, saying Iran is "desperately trying to distract attention and confuse the media so that they can kill me in secret". ](/news/2010/08/6/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-speaks-out-saying-iran-is-desperately-trying-to-distract-attention-and-confuse-the.md)
-_Context: Iran, Sakineh Mohammadi Ashtiani_
+_Context: Sakineh Mohammadi Ashtiani, Iran_
 
 ##### Colombo
 ### [Police near Colombo arrest a suspected fraudster for whom they had previously appealed to Interpol; it is unknown if he denies the charges brought against him. ](/news/2010/08/6/police-near-colombo-arrest-a-suspected-fraudster-for-whom-they-had-previously-appealed-to-interpol-it-is-unknown-if-he-denies-the-charges-b.md)
@@ -169,15 +169,15 @@ Politicians in Nepal again fail to elect a new PM - meaning the country has been
 
 ##### Swaziland
 ### [Swaziland's justice minister and senator Ndumiso Mamba resigns from both positions over allegations of an affair with a wife of King Mswati III; the wife has denied the allegations. ](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.md)
-_Context: Ndumiso Mamba, King Mswati III, Swaziland_
+_Context: Swaziland, Ndumiso Mamba, King Mswati III_
 
-##### little brown bat
+##### Little brown bat
 ### [According to scientists, one million little brown bats ("Myotis lucifugus") have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-amer.md)
 A disease known as white-nose syndrome is likely to wipe out a once-common species of bat in the north-eastern US, according to scientists.
 
 ##### Confederate
 ### [U.S. scientists plan to rotate the Confederate submarine, the "H. L. Hunley", buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so-t.md)
-_Context: Confederate, Charleston, South Carolina, ''H. L. Hunley'', South Carolina, submarine_
+_Context: Confederate, submarine, Charleston, South Carolina, ''H. L. Hunley'', South Carolina_
 
 ##### Greenland
 ### [American scientists announce an ice sheet has broken from Greenland's Petermann Glacier. ](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.md)

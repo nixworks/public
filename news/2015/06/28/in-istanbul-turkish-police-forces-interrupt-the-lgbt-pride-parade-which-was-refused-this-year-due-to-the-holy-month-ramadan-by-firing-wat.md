@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/28/in-istanbul-turkish-police-forces-interrupt-the
 
 ### [2015-06-28](/news/2015/06/28/index.md)
 
-##### pride parade
+##### Pride parade
 # In Istanbul, Turkish police forces interrupt the LGBT pride parade, which was refused this year due to the holy month Ramadan, by firing water cannons and rubber pellets. 
 
 Turkish police fired water cannon and rubber pellets to disperse a gay pride parade in central Istanbul on Sunday, after organisers said they had been refused permission to march this year because of the Muslim holy month of Ramadan.

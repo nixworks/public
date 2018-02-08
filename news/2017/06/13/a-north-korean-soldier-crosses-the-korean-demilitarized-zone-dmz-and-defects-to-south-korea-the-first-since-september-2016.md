@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demil
 
 ### [2017-06-13](/news/2017/06/13/index.md)
 
-##### defects
+##### Defects
 # A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. 
 
 

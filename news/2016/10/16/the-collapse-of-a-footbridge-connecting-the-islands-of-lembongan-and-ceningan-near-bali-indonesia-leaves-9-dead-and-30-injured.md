@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/16/the-collapse-of-a-footbridge-connecting-the-isl
 
 ### [2016-10-16](/news/2016/10/16/index.md)
 
-##### footbridge
+##### Footbridge
 # The collapse of a footbridge connecting the islands of Lembongan and Ceningan, near Bali, Indonesia, leaves 9 dead and 30 injured. 
 
 

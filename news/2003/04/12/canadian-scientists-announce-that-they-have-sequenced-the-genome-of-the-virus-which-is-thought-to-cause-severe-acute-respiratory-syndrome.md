@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/12/canadian-scientists-announce-that-they-have-seq
 
 ### [2003-04-12](/news/2003/04/12/index.md)
 
-##### genome
+##### Genome
 #  Canadian scientists announce that they have sequenced the genome of the virus which is thought to cause Severe acute respiratory syndrome. The sequence is published on their website: http:--www.bcgsc.ca-bioinfo-SARS-. (News item:)
 
 

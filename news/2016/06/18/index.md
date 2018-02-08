@@ -23,9 +23,9 @@ Six people were killed in Virginia and 10 others hospitalized when the van in wh
 ### [Thomas Mair from the town of Birstall, West Yorkshire, is charged with the murder of British MP Jo Cox. ](/news/2016/06/18/thomas-mair-from-the-town-of-birstall-west-yorkshire-is-charged-with-the-murder-of-british-mp-jo-cox.md)
 Thomas Mair gives his name as &quot;Death to traitors, freedom for Britain&quot; as he appears in court charged with the murder of Labour MP Jo Cox.
 
-##### police officer
+##### Police officer
 ### [A 73-year-old gunman shoots dead a police officer, and seriously wounds another before shooting himself dead in Vihti, Finland. Finnish broadcaster Yle reports it is the first time a police officer in Finland has been killed in the line of duty since 2007. ](/news/2016/06/18/a-73-year-old-gunman-shoots-dead-a-police-officer-and-seriously-wounds-another-before-shooting-himself-dead-in-vihti-finland-finnish-broa.md)
-_Context: Yle, Vihti, Finland, police officer_
+_Context: Finland, police officer, Vihti, Yle_
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi, former President of Egypt, is sentenced to life imprisonment and another 15 years for his role in allegedly leaking government secrets to Qatar. Six people, including two Al-Jazeera employees, are sentenced to death. ](/news/2016/06/18/mohamed-morsi-former-president-of-egypt-is-sentenced-to-life-imprisonment-and-another-15-years-for-his-role-in-allegedly-leaking-governmen.md)
@@ -43,7 +43,7 @@ The truce announced in Khartoum is intended to give rebels a chance to surrender
 ### [Apple Inc. notifies the GOP that this year it will not fund or provide other support for the party's 2016 presidential convention, citing Donald Trump's controversial comments about women, immigrants and minorities. ](/news/2016/06/18/apple-inc-notifies-the-gop-that-this-year-it-will-not-fund-or-provide-other-support-for-the-partyas-2016-presidential-convention-citing.md)
 It&#39;s unclear how the company plans to handle the Democratic convention in Philadelphia this summer.
 
-##### astronaut
+##### Astronaut
 ### [Three astronauts return from a mission to the International Space Station, Briton Tim Peake of the European Space Agency, Timothy Kopra of NASA and Russian cosmonaut Yuri Malenchenko. ](/news/2016/06/18/three-astronauts-return-from-a-mission-to-the-international-space-station-briton-tim-peake-of-the-european-space-agency-timothy-kopra-of-n.md)
 UK astronaut Tim Peake is safely back on Earth after a historic mission to the International Space Station.
 

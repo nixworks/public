@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/13/18-people-are-injured-after-a-car-bomb-is-deton
 
 ### [2011-02-13](/news/2011/02/13/index.md)
 
-##### car bomb
+##### Car bomb
 # 18 people are injured after a car bomb is detonated in Yala, Thailand. 
 
 Eighteen injured in explosion in city of Yala, which triggered a large fire that engulfed nearby shops.

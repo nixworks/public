@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/11/a-strong-earthquake-with-the-magnitude-6-8-hits
 
 ### [2012-11-11](/news/2012/11/11/index.md)
 
-##### strong earthquake
+##### Strong earthquake
 # A strong earthquake with the magnitude 6.8 hits northern Burma, killing at least 12 people. 
 
 

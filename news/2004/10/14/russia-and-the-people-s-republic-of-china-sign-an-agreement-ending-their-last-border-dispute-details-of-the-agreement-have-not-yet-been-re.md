@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/14/russia-and-the-people-s-republic-of-china-sign-
 
 ### [2004-10-14](/news/2004/10/14/index.md)
 
-##### border dispute
+##### Border dispute
 #  Russia and the People's Republic of China sign an agreement ending their last border dispute. Details of the agreement have not yet been released. 
 
 In a historic decision, China and Russia today resolved the last of their decades-old boundary disputes with Chinese President Hu Jintao and visiting Russian counterpart Vladimir Putin.

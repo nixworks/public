@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awar
 
 ### [2015-10-23](/news/2015/10/23/index.md)
 
-##### president
+##### President
 # The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. 
 
 Confucius peace prize chairman defends decision to give award to leader accused of using systematic violence and torture to maintain grip on power

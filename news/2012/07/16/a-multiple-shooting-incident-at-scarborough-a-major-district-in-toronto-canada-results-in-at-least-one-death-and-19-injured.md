@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/16/a-multiple-shooting-incident-at-scarborough-a-m
 
 ### [2012-07-16](/news/2012/07/16/index.md)
 
-##### shooting
+##### Shooting
 # A "multiple shooting" incident at Scarborough, a major district in Toronto, Canada, results in at least one death and 19 injured. 
 
 

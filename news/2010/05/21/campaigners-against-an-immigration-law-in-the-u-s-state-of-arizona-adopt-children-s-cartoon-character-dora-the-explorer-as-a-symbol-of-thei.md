@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/21/campaigners-against-an-immigration-law-in-the-u
 
 ### [2010-05-21](/news/2010/05/21/index.md)
 
-##### immigration law
+##### Immigration law
 # Campaigners against an immigration law in the U.S. state of Arizona adopt children's cartoon character Dora the Explorer as a symbol of their cause. 
 
 Famed cartoon Dora the Explorer has been mocked in an image that shows the 7-year-old as an illegal immigrant

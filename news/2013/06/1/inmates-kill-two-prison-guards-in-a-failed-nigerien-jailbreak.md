@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/1/inmates-kill-two-prison-guards-in-a-failed-niger
 
 ### [2013-06-1](/news/2013/06/1/index.md)
 
-##### escape
+##### Escape
 # Inmates kill two prison guards in a failed Nigerien jailbreak. 
 
 The escape attempt by prisoners said to be associated with &#8220;terrorist groups&#8221; on Saturday took place at the central prison in Niger&#8217;s capital, Niamey, and two guards were killed.

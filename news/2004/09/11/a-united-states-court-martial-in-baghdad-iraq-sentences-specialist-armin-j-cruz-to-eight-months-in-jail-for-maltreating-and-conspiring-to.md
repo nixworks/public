@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/11/a-united-states-court-martial-in-baghdad-iraq-s
 
 ### [2004-09-11](/news/2004/09/11/index.md)
 
-##### court martial
+##### Court martial
 #  A United States court martial in Baghdad, Iraq sentences Specialist Armin J. Cruz to eight months in jail for maltreating and conspiring to maltreat Iraqi detainees at Abu Ghraib prison. 
 
 

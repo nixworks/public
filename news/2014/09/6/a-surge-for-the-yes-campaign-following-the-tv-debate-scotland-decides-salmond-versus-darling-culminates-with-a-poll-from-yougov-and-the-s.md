@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/6/a-surge-for-the-yes-campaign-following-the-tv-de
 
 ### [2014-09-6](/news/2014/09/6/index.md)
 
-##### independence referendum
+##### Independence referendum
 # A surge for the yes-campaign following the TV debate "Scotland Decides: Salmond versus Darling" culminates with a poll from YouGov and The Sunday Times showing that a majority will vote in favor of Scottish independence. 
 
 

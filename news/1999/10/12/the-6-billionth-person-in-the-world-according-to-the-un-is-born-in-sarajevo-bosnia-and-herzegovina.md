@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/10/12/the-6-billionth-person-in-the-world-according-t
 
 ### [1999-10-12](/news/1999/10/12/index.md)
 
-##### person
+##### Person
 #  The 6 billionth person in the world, according to the UN is born in Sarajevo, Bosnia and Herzegovina.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/26/a-suicide-bomber-attacks-near-a-u-s-base-in-the
 
 ### [2004-07-26](/news/2004/07/26/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber attacks near a U.S base in the northern city of Mosul, killing two civilians and an Iraqi security guard. Three U.S soldiers and an Iraqi security guard were wounded. The Iraqi interim Interior Ministry's Deputy Chief of Tribal Affairs, Col. Musab al-Awadi, is assassinated in Baghdad, along with two of his bodyguards. Insurgents kill two Iraqi women working as cleaners for British forces in Basra in southern Iraq. Militants threaten to kill two Jordanian truck drivers they captured within 72 hours if their Jordanian employer does not stop doing business with the U.S. military. 
 
 

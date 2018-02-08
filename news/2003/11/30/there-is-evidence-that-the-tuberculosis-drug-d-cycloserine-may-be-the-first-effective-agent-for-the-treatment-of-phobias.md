@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/30/there-is-evidence-that-the-tuberculosis-drug-d-
 
 ### [2003-11-30](/news/2003/11/30/index.md)
 
-##### tuberculosis
+##### Tuberculosis
 #  There is evidence that the tuberculosis drug D-cycloserine may be the first effective agent for the treatment of phobias.
 
 

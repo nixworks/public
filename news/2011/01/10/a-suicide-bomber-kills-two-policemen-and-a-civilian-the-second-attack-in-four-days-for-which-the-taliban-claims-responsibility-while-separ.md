@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/10/a-suicide-bomber-kills-two-policemen-and-a-civi
 
 ### [2011-01-10](/news/2011/01/10/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bomber kills two policemen and a civilian, the second attack in four days for which the Taliban claims responsibility, while separately, three policemen are killed in a 'friendly fire' incident as US Vice President Joe Biden arrives for a visit in Afghanistan. 
 
 Insurgents Monday staged the second suicide bombing in four days in a strategic border district in southern Afghanistan, signaling determination to open a new front in the battle with coalition...

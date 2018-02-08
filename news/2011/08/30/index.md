@@ -9,7 +9,7 @@ _Context: Russia, Republic of Chechnya, Grozny_
 
 ##### Libya
 ### [The Libyan National Transitional Council gives an ultimatum to supporters of Muammar Gaddafi in Sirte to surrender by the end of Eid ul-Fitr on Saturday. ](/news/2011/08/30/the-libyan-national-transitional-council-gives-an-ultimatum-to-supporters-of-muammar-gaddafi-in-sirte-to-surrender-by-the-end-of-eid-ul-fitr.md)
-_Context: Libya, National Transitional Council, Eid ul-Fitr, Muammar Gaddafi, Sirte_
+_Context: Sirte, Eid ul-Fitr, Libya, Muammar Gaddafi, National Transitional Council_
 
 ##### Muslim
 ### [Muslims celebrate Eid ul-Fitr marking the end of Ramadan, the month of fasting. In Indonesia, however, the government rules that the end of Ramadan should be delayed one day. ](/news/2011/08/30/muslims-celebrate-eid-ul-fitr-marking-the-end-of-ramadan-the-month-of-fasting-in-indonesia-however-the-government-rules-that-the-end-of.md)
@@ -19,7 +19,7 @@ Saudi Arabia announced Eid-ul-Fitr falls today, while most of Pakistan and India
 ### [Lehman Brothers Holdings Inc. asks a bankruptcy court to let creditors vote on a reorganization plan that would pay its creditors, on average, $0.20 on the dollar. ](/news/2011/08/30/lehman-brothers-holdings-inc-asks-a-bankruptcy-court-to-let-creditors-vote-on-a-reorganization-plan-that-would-pay-its-creditors-on-averag.md)
 Lehman Brothers Holdings Inc LEHMQ.PK told a bankruptcy judge on Tuesday it has resolved or pushed off eight of the 18 objections to its plan outline to pay creditors back $65 billion and end the biggest bankruptcy in U.S. history.
 
-##### contiguous United States
+##### Contiguous United States
 ### [The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. ](/news/2011/08/30/the-death-toll-from-hurricane-irene-reaches-40-in-the-contiguous-united-states-plus-three-people-in-the-dominican-republic-and-one-in-puerto.md)
 The death toll from Hurricane Irene has spiralled to 38 across 11 states in the US as bodies were pulled from floodwaters and people were electrocuted by downed power lines.
 
@@ -27,9 +27,9 @@ The death toll from Hurricane Irene has spiralled to 38 across 11 states in the 
 ### [Monsoonal rain causes heavy floods in the Indian state of Gujarat. ](/news/2011/08/30/monsoonal-rain-causes-heavy-floods-in-the-indian-state-of-gujarat.md)
 _Context: Gujarat, India, Monsoon_
 
-##### coal miner
+##### Coal miner
 ### [Nineteen coal miners are rescued from a flooded pit in China's Heilongjiang Province. ](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded-pit-in-china-s-heilongjiang-province.md)
-_Context: China, Heilongjiang Province, coal miner_
+_Context: Heilongjiang Province, coal miner, China_
 
 ##### Popocatepetl
 ### [The Popocatepetl volcano south of Mexico City starts spewing ash into the sky. ](/news/2011/08/30/the-popocatepetl-volcano-south-of-mexico-city-starts-spewing-ash-into-the-sky.md)
@@ -37,7 +37,7 @@ _Context: Mexico City, Popocatepetl_
 
 ##### TTC
 ### [A TTC bus collides with a hydraulic crane mounted on a construction truck on Lawrence Avenue Toronto, killing one and injuring thirteen, in the first such incident since the Russell Hill subway accident in 1995. ](/news/2011/08/30/a-ttc-bus-collides-with-a-hydraulic-crane-mounted-on-a-construction-truck-on-lawrence-avenue-toronto-killing-one-and-injuring-thirteen-in.md)
-_Context: Russell Hill subway accident, TTC, Toronto, Lawrence Avenue_
+_Context: TTC, Russell Hill subway accident, Lawrence Avenue, Toronto_
 
 ##### Atlanta
 ### [While reportedly on his way to surrender to police in Atlanta, Georgia to face murder charges, former National Basketball Association player Javaris Crittenton is arrested by the FBI at John Wayne Airport in Orange County, California. ](/news/2011/08/30/while-reportedly-on-his-way-to-surrender-to-police-in-atlanta-georgia-to-face-murder-charges-former-national-basketball-association-player.md)
@@ -45,7 +45,7 @@ Former NBA player Javaris Crittenton, who was suspended from the league for havi
 
 ##### Naoto Kan
 ### [The Cabinet of former Prime Minister of Japan Naoto Kan resigns en masse following the election of Yoshihiko Noda as the presumptive Prime Minister. ](/news/2011/08/30/the-cabinet-of-former-prime-minister-of-japan-naoto-kan-resigns-en-masse-following-the-election-of-yoshihiko-noda-as-the-presumptive-prime-m.md)
-_Context: Naoto Kan, Yoshihiko Noda_
+_Context: Yoshihiko Noda, Naoto Kan_
 
 ##### Kenneth E. Melson
 ### [Kenneth E. Melson is replaced as the acting head of the United States Bureau of Alcohol, Tobacco, Firearms and Explosives as a result of a controversial gun trafficking operation called Operation Fast and Furious. ](/news/2011/08/30/kenneth-e-melson-is-replaced-as-the-acting-head-of-the-united-states-bureau-of-alcohol-tobacco-firearms-and-explosives-as-a-result-of-a-c.md)

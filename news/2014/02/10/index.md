@@ -9,7 +9,7 @@ Coalition confirms 2 killed as apparent suicide attack in east of Afghan capital
 
 ##### Baghdad
 ### [A car bomb detonates prematurely in Baghdad, Iraq, killing 21 militants. In a separate event, a car bomb hits a convoy transporting Usama al-Nujayfi with a bodyguard being wounded. ](/news/2014/02/10/a-car-bomb-detonates-prematurely-in-baghdad-iraq-killing-21-militants-in-a-separate-event-a-car-bomb-hits-a-convoy-transporting-usama-al.md)
-_Context: Usama al-Nujayfi, Iraq, Baghdad_
+_Context: Iraq, Usama al-Nujayfi, Baghdad_
 
 ##### Bujumbura
 ### [At least 50 people are killed in flooding and landslides in Bujumbura, Burundi. ](/news/2014/02/10/at-least-50-people-are-killed-in-flooding-and-landslides-in-bujumbura-burundi.md)

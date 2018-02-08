@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/7/nearly-40-000-manuscripts-and-700-artifacts-belo
 
 ### [2003-05-7](/news/2003/05/7/index.md)
 
-##### manuscript
+##### Manuscript
 #  Nearly 40,000 manuscripts and 700 artifacts belonging to the National Museum of Iraq in Baghdad are recovered by U.S. Customs agents working with museum experts in Iraq. Some looters had returned items after promises of rewards and amnesty, and many items previously reported missing had actually been hidden in secret storage vaults at the museum prior to the outbreak of war.
 
 

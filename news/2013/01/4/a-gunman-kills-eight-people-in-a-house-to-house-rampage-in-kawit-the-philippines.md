@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/4/a-gunman-kills-eight-people-in-a-house-to-house-
 
 ### [2013-01-4](/news/2013/01/4/index.md)
 
-##### kills eight people
+##### Kills eight people
 # A gunman kills eight people in a house-to-house rampage in Kawit, the Philippines. 
 
 

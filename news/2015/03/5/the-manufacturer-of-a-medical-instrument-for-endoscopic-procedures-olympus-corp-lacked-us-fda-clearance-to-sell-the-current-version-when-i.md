@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/5/the-manufacturer-of-a-medical-instrument-for-end
 
 ### [2015-03-5](/news/2015/03/5/index.md)
 
-##### endoscopic
+##### Endoscopic
 # The manufacturer of a medical instrument for endoscopic procedures, Olympus Corp, lacked US FDA clearance to sell the current version when it caused an outbreak of infections, including two deaths, from an antibiotic-resistant strain of bacteria, "superbug" Carbapenem-resistant enterobacteriaceae, or CRE, at Ronald Reagan UCLA Medical Center between October 2014 and January 2015 (see February 19). 
 
 

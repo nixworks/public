@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/22/car-bombs-outside-police-stations-in-the-towns-
 
 ### [2003-11-22](/news/2003/11/22/index.md)
 
-##### car bomb
+##### Car bomb
 #  Car bombs outside police stations in the towns of Khan Bani Saad and Baquba, north of Baghdad, detonate around 08h local time (0500 UTC), killing upwards of 18 people. A cargo plane belonging to courier company DHL makes an emergency landing at Baghdad airport after being hit by a surface-to-air missile. Commercial flights in and out of the airport are suspended.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/3/dozens-of-people-are-arrested-and-tear-gas-is-us
 
 ### [2011-07-3](/news/2011/07/3/index.md)
 
-##### tear gas
+##### Tear gas
 # Dozens of people are arrested and tear gas is used during Independence Day celebrations in Belarus after a "clapping" protest. 
 
 Belarus President Alexander Lukashenko vows not to allow a revolution in his country as police arrest scores of protesters.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/14/the-hacker-group-anonymous-releases-e-mails-obt
 
 ### [2011-03-14](/news/2011/03/14/index.md)
 
-##### hacker
+##### Hacker
 # The hacker group Anonymous releases e-mails obtained from the Bank of America. 
 
 

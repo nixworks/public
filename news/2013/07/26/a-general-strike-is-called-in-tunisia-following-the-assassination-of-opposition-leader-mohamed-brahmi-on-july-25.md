@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/26/a-general-strike-is-called-in-tunisia-following
 
 ### [2013-07-26](/news/2013/07/26/index.md)
 
-##### general strike
+##### General strike
 # A general strike is called in Tunisia following the assassination of opposition leader Mohamed Brahmi on July 25. 
 
 Tunisia faced a general strike on Friday as the country was plunged into crisis after gunmen shot dead a leading opposition figure, an assassination that brought thousands onto the streets.

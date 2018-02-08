@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/14/the-government-of-thailand-deploys-thousands-of
 
 ### [2014-02-14](/news/2014/02/14/index.md)
 
-##### government of Thailand
+##### Government of Thailand
 # The government of Thailand deploys thousands of riot police to reclaim areas of Bangkok currently occupied by protesters. 
 
 

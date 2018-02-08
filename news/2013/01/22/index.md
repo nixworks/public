@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/22/index.html)  [JSON](2013/01/22/index.json)  [XML](201
 
 ##### Jordan
 ### [The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md)
-_Context: Syria, Jordan_
+_Context: Jordan, Syria_
 
 ##### Baghdad
 ### [Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md)
@@ -13,11 +13,11 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: FARC, Colombia, ceasefire, oil pipeline_
+_Context: Colombia, oil pipeline, ceasefire, FARC_
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: China, James Bond, Censorship in China, Skyfall_
+_Context: Censorship in China, James Bond, China, Skyfall_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)
@@ -41,17 +41,17 @@ British grandmother Lindsay Sandiford is sentenced to death by firing squad in B
 
 ##### Lone Star College-North Harris
 ### [At least three people are injured after a gunman opens fire at the campus of Lone Star College-North Harris in Houston, Texas. ](/news/2013/01/22/at-least-three-people-are-injured-after-a-gunman-opens-fire-at-the-campus-of-lone-star-collegeanorth-harris-in-houston-texas.md)
-_Context: Texas, Houston, Lone Star College-North Harris_
+_Context: Houston, Lone Star College-North Harris, Texas_
 
 ##### Elections for the 19th Knesset
 ### [The Elections for the 19th Knesset are held in Israel. The incumbent Prime Minister Benjamin Netanyahu's electoral alliance, Likud Yisrael Beiteinu, wins a plurality with 31 seats. ](/news/2013/01/22/the-elections-for-the-19th-knesset-are-held-in-israel-the-incumbent-prime-minister-benjamin-netanyahu-s-electoral-alliance-likud-yisrael-b.md)
 Israeli Prime Minister Benjamin Netanyahu vows to form &quot;as broad a government as possible&quot; after his bloc narrowly wins general elections.
 
-##### government
+##### Government
 ### [The government of Eritrea says the capital Asmara is "calm" a day after dissident soldiers seized the information ministry and state media. ](/news/2013/01/22/the-government-of-eritrea-says-the-capital-asmara-is-calm-a-day-after-dissident-soldiers-seized-the-information-ministry-and-state-media.md)
 Government says that all is calm in capital Asmara a day after dissident soldiers reportedly seize information ministry.
 
-##### ancient human
+##### Ancient human
 ### [An ancient human fossil in China is found to be closely related to both Asian and Native American peoples. ](/news/2013/01/22/an-ancient-human-fossil-in-china-is-found-to-be-closely-related-to-both-asian-and-native-american-peoples.md)
 Researchers have been able to trace a line between some of the earliest modern humans to settled China and people living in the region today.
 

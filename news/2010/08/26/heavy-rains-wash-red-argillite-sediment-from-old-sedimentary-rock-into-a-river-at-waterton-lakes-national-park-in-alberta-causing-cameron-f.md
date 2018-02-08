@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/26/heavy-rains-wash-red-argillite-sediment-from-ol
 
 ### [2010-08-26](/news/2010/08/26/index.md)
 
-##### argillite
+##### Argillite
 # Heavy rains wash red argillite sediment from old sedimentary rock into a river at Waterton Lakes National Park in Alberta, causing Cameron Falls to turn red. 
 
 

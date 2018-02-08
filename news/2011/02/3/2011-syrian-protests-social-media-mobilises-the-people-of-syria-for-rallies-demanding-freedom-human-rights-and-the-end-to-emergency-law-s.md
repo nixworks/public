@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/3/2011-syrian-protests-social-media-mobilises-the-
 
 ### [2011-02-3](/news/2011/02/3/index.md)
 
-##### protestors
+##### Protestors
 # 2011 Syrian protests: Social media mobilises the people of Syria for rallies demanding freedom, human rights and the end to emergency law, scheduled for Friday and Saturday in front of the parliament in Damascus and at Syrian embassies internationally. 
 
 Social media used in bid to mobilise Syrians for rallies demanding freedom, human rights and the end to emergency law.

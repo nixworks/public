@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/10/the-hit-tv-series-the-sopranos-aired-its-final-
 
 ### [2007-06-10](/news/2007/06/10/index.md)
 
-##### tv series
+##### Tv series
 #  The hit tv series The Sopranos aired its final episode. 
 
 

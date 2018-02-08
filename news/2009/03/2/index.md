@@ -11,17 +11,17 @@ Kansas Gov. Kathleen Sebelius will help overhaul a health care system whose cost
 ### [ Consumer spending in the U.S. rose in January after six successive monthly declines. ](/news/2009/03/2/consumer-spending-in-the-u-s-rose-in-january-after-six-successive-monthly-declines.md)
 Consumer spending rose in January after falling for a record six straight months, pushed higher by purchases of food and other nondurable items.
 
-##### winter storm
+##### Winter storm
 ### [ A winter storm in the eastern United States cancels 1,000 flights and cuts hundreds of thousands of people's electricity. ](/news/2009/03/2/a-winter-storm-in-the-eastern-united-states-cancels-1-000-flights-and-cuts-hundreds-of-thousands-of-people-s-electricity.md)
-_Context: winter storm, electricity, United States, East Coast of the United States_
+_Context: United States, electricity, East Coast of the United States, winter storm_
 
-##### acting president
+##### Acting president
 ### [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md)
-_Context: Bissau, Guinea-Bissau, assassinated, Joo Bernardo Vieira, acting president_
+_Context: Guinea-Bissau, Bissau, Joo Bernardo Vieira, acting president, assassinated_
 
 ##### Palestinian
 ### [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md)
-_Context: Palestinian, Bustan, Israel, East Jerusalem, ethnic cleansing_
+_Context: ethnic cleansing, Israel, East Jerusalem, Palestinian, Bustan_
 
 ##### North Korea
 ### [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md)
@@ -29,7 +29,7 @@ North Korean generals met the U.S.-led U.N. military command in South Korea for 
 
 ##### Tamil
 ### [ Two thousand Tamil people have been killed and 5,000 injured in Vanni District during Sri Lanka's civil war. ](/news/2009/03/2/two-thousand-tamil-people-have-been-killed-and-5-000-injured-in-vanni-district-during-sri-lanka-s-civil-war.md)
-_Context: Tamil, Vanni District, Sri Lanka, Sri Lankan Civil War_
+_Context: Sri Lankan Civil War, Tamil, Vanni District, Sri Lanka_
 
 ## [Previous Day...](/news/2009/03/1/index.md)
 

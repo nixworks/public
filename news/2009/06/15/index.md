@@ -13,15 +13,15 @@ South Korea&#8217;s president ordered his top security officials Sunday to deal 
 
 ##### Pierre Ngaiohni
 ### [ Pierre Ngaiohni is elected Vice President of New Caledonia. ](/news/2009/06/15/pierre-ngaiohni-is-elected-vice-president-of-new-caledonia.md)
-_Context: Pierre Ngaiohni, New Caledonia, Vice President_
+_Context: New Caledonia, Pierre Ngaiohni, Vice President_
 
 ##### United Kingdom
 ### [ British Prime Minister Gordon Brown announces that an independent inquiry into the country's role in the Iraq War will be held in private. ](/news/2009/06/15/british-prime-minister-gordon-brown-announces-that-an-independent-inquiry-into-the-country-s-role-in-the-iraq-war-will-be-held-in-private.md)
-_Context: Prime Minister, United Kingdom, Iraq War, in private, Gordon Brown, independent inquiry_
+_Context: Iraq War, Gordon Brown, United Kingdom, in private, independent inquiry, Prime Minister_
 
 ##### Yekaterinburg
 ### [ Leaders gather in Yekaterinburg, Russia, ahead of a Shanghai Cooperation Organisation and the first ever BRIC summit. ](/news/2009/06/15/leaders-gather-in-yekaterinburg-russia-ahead-of-a-shanghai-cooperation-organisation-and-the-first-ever-bric-summit.md)
-_Context: BRIC, Yekaterinburg, first ever, Russia, Shanghai Cooperation Organisation_
+_Context: BRIC, Yekaterinburg, first ever, Shanghai Cooperation Organisation, Russia_
 
 ##### India
 ### [ India, the defending champions and favorites at the 2009 ICC World Twenty20, are defeated by England. ](/news/2009/06/15/india-the-defending-champions-and-favorites-at-the-2009-icc-world-twenty20-are-defeated-by-england.md)
@@ -33,7 +33,7 @@ European Union member states are ready to help resettle detainees freed from the
 
 ##### Cuban Five
 ### [ Five Cubans convicted of spying for Cuba are denied an appeal for a new trial by the United States Supreme Court. ](/news/2009/06/15/five-cubans-convicted-of-spying-for-cuba-are-denied-an-appeal-for-a-new-trial-by-the-united-states-supreme-court.md)
-_Context: Cuba, United States, trial, United States Supreme Court, Cuban Five_
+_Context: trial, United States, Cuban Five, United States Supreme Court, Cuba_
 
 ## [Previous Day...](/news/2009/06/14/index.md)
 

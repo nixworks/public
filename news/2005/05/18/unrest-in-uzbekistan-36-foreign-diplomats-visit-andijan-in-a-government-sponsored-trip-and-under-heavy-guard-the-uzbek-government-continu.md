@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/18/unrest-in-uzbekistan-36-foreign-diplomats-visit
 
 ### [2005-05-18](/news/2005/05/18/index.md)
 
-##### unrest
+##### Unrest
 #  Unrest in Uzbekistan: 36 foreign diplomats visit Andijan in a government-sponsored trip and under heavy guard. The Uzbek government continues to deny that civilians were killed. The official death toll has risen to 169 but some human rights groups state that it can be as high as 750. A group of Islamic rebels led by a man called Baxtiyor Rahimov claim that they now control the border town of Qorasuv. 
 
 

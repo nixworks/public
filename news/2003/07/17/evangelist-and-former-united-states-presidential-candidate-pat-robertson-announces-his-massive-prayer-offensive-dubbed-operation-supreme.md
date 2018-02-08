@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/17/evangelist-and-former-united-states-presidentia
 
 ### [2003-07-17](/news/2003/07/17/index.md)
 
-##### evangelist
+##### Evangelist
 #  Evangelist and former United States Presidential candidate Pat Robertson announces his "massive prayer offensive" dubbed "Operation Supreme Court Freedom", asking Americans to pray that at least three United States Supreme Court justices retire so that the court can be filled with conservative justices who will overturn Supreme Court rulings on school prayer, separation of church and state and sodomy.
 
 

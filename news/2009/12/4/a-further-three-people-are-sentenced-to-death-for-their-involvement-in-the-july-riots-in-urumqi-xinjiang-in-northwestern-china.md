@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/4/a-further-three-people-are-sentenced-to-death-fo
 
 ### [2009-12-4](/news/2009/12/4/index.md)
 
-##### riots
+##### Riots
 #  A further three people are sentenced to death for their involvement in the July riots in rmqi, Xinjiang, in northwestern China. 
 
 

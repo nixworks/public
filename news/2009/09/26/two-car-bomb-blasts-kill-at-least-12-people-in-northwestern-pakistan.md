@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/26/two-car-bomb-blasts-kill-at-least-12-people-in-
 
 ### [2009-09-26](/news/2009/09/26/index.md)
 
-##### car bomb
+##### Car bomb
 #  Two car bomb blasts kill at least 12 people in northwestern Pakistan. 
 
 Police officers and civilians among casualties of car-bomb attacks in Bannu and Peshawar.

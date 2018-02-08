@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/4/a-south-korean-court-orders-the-government-to-co
 
 ### [2012-09-4](/news/2012/09/4/index.md)
 
-##### won
+##### Won
 # A South Korean court orders the government to compensate a fisherman with 2.5 billion won (EUR 1.75 million); he was falsely accused of spying for North Korea. 
 
 

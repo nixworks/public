@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/30/protestors-demanding-the-resignation-of-preside
 
 ### [2014-10-30](/news/2014/10/30/index.md)
 
-##### uprising
+##### Uprising
 # Protestors demanding the resignation of President Blaise Compaor set fire to parliament and other official buildings. The Chief of the Army dismisses the government and national assembly and announces a curfew and a transition time of one year. Compaor fled to Dakar, Senegal. 
 
 There have been continuing protests in Burkina Faso against President Blaise Compaore’s plan to seek re-election for a fifth term. Thousands

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/31/at-least-five-people-are-killed-and-13-are-miss
 
 ### [2008-05-31](/news/2008/05/31/index.md)
 
-##### landslide
+##### Landslide
 #  At least five people are killed and 13 are missing after a landslide crushes homes in a poor area of the city of Medellin in Colombia. 
 
 

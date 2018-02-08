@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/6/federal-bureau-of-investigation-chief-james-come
 
 ### [2016-11-6](/news/2016/11/6/index.md)
 
-##### email server
+##### Email server
 # Federal Bureau of Investigation chief James Comey tells the United States Congress that he has found no evidence of criminality by Hillary Clinton in relation to a new batch of emails. 
 
 An FBI investigation finds no evidence of criminality in the latest batch of Hillary Clinton emails.

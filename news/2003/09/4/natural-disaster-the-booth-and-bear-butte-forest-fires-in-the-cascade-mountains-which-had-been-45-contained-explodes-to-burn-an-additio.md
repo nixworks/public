@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/4/natural-disaster-the-booth-and-bear-butte-forest
 
 ### [2003-09-4](/news/2003/09/4/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: The Booth and Bear Butte forest fires in the Cascade Mountains, which had been 45% contained, explodes to burn an additional 20,000 acres (80&nbsp;km 2 ). Estimates of the size of this fire vary between 62,000 and 80,000 acres (250 and 320&nbsp;km 2 ). The resort community of Camp Sherman, where authorities allowed residents to return, is once again evacuated.
 
 

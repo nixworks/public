@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/23/mainland-chinese-vandals-deface-the-website-of-
 
 ### [2004-06-23](/news/2004/06/23/index.md)
 
-##### mainland China
+##### Mainland China
 #  Mainland Chinese vandals deface the website of the Democratic Progressive Party for the second time in two weeks with People's Liberation Army propaganda. 
 
 TheINQUIRER publishes daily news, reviews on the latest gadgets and devices, and INQdepth articles for tech buffs and hobbyists.

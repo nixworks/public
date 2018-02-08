@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/30/two-people-are-killed-and-more-than-ten-others-
 
 ### [2012-11-30](/news/2012/11/30/index.md)
 
-##### gas explosion
+##### Gas explosion
 # Two people are killed and more than ten others injured in a gas explosion and fire in an apartment building in the Siberian city of Tomsk, Russia. 
 
 

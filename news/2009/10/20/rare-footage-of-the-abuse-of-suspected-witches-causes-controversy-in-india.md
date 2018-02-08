@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/20/rare-footage-of-the-abuse-of-suspected-witches-
 
 ### [2009-10-20](/news/2009/10/20/index.md)
 
-##### witch
+##### Witch
 #  Rare footage of the abuse of suspected witches causes controversy in India. 
 
 

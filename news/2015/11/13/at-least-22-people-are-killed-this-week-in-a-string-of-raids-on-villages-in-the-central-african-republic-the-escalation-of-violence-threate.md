@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/13/at-least-22-people-are-killed-this-week-in-a-st
 
 ### [2015-11-13](/news/2015/11/13/index.md)
 
-##### civil war
+##### Civil war
 # At least 22 people are killed this week in a string of raids on villages in the Central African Republic. The escalation of violence threatens to derail a visit by Pope Francis and crucial elections scheduled for December 27, 2015. 
 
 

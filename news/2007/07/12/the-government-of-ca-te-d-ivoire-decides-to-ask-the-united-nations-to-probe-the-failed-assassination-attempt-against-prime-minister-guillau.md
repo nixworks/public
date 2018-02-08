@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/12/the-government-of-ca-te-d-ivoire-decides-to-ask
 
 ### [2007-07-12](/news/2007/07/12/index.md)
 
-##### government
+##### Government
 #  The government of Cote d'Ivoire decides to ask the United Nations to probe the failed assassination attempt against Prime Minister Guillaume Soro. 
 
 

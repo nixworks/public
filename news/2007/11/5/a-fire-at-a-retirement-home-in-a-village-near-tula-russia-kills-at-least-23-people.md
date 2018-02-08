@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/5/a-fire-at-a-retirement-home-in-a-village-near-tu
 
 ### [2007-11-5](/news/2007/11/5/index.md)
 
-##### fire
+##### Fire
 #  A fire at a retirement home in a village near Tula, Russia, kills at least 23 people. 
 
 

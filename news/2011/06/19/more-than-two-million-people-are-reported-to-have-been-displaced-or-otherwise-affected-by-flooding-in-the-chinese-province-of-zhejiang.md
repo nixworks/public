@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/19/more-than-two-million-people-are-reported-to-ha
 
 ### [2011-06-19](/news/2011/06/19/index.md)
 
-##### heavy flood
+##### Heavy flood
 # More than two million people are reported to have been displaced or otherwise affected by flooding in the Chinese province of Zhejiang. 
 
 

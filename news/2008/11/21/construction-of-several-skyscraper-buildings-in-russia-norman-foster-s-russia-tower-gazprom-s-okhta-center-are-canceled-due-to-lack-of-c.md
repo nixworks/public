@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/21/construction-of-several-skyscraper-buildings-in
 
 ### [2008-11-21](/news/2008/11/21/index.md)
 
-##### residential apartment
+##### Residential apartment
 #  Construction of several skyscraper buildings in Russia (Norman Foster's Russia Tower, Gazprom's Okhta Center) are canceled due to lack of credit available during the global financial crisis. 
 
 

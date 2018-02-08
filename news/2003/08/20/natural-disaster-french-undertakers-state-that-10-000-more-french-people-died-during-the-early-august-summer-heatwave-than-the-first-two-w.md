@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/20/natural-disaster-french-undertakers-state-that-
 
 ### [2003-08-20](/news/2003/08/20/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: French undertakers state that 10,000 more French people died during the early August summer heatwave than the first two weeks of August in 2002. It had previously been suggested that the number was 3,000. President Jacques Chirac demands reports from cabinet ministers on the crisis, while in Italy the newspaper "La Repubblica" suggests that Italy had 2000 more deaths than normal due to the heatwave.
 
 

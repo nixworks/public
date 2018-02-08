@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/7/2006a2007-bangladeshi-political-crisis-a-nationw
 
 ### [2007-01-7](/news/2007/01/7/index.md)
 
-##### current political crisis
+##### Current political crisis
 #  2006-2007 Bangladeshi political crisis: A nationwide blockade led by the Awami League to force electoral reform before the 2007 parliamentary election continues for a third day, bringing capital Dhaka to a standstill, with schools shut and vehicles absent from the streets. 
 
 

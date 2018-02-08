@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/29/former-president-of-brazil-lula-da-silva-will-s
 
 ### [2016-07-29](/news/2016/07/29/index.md)
 
-##### president
+##### President
 # Former President of Brazil Lula da Silva will stand trial on obstruction of justice charges relating to the Petrobras scandal. 
 
 Judge says sufficient evidence exists that Workers’ party conspired with politicians and businessmen to buy silence of former Petrobras official

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/6/tornadoes-hit-bellemont-arizona-in-the-southwest
 
 ### [2010-10-6](/news/2010/10/6/index.md)
 
-##### tornado
+##### Tornado
 # Tornadoes hit Bellemont, Arizona in the southwest of the United States resulting in at least seven people being injured. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/19/torrential-rain-and-floods-in-north-east-china-
 
 ### [2013-08-19](/news/2013/08/19/index.md)
 
-##### devastating floods in summer
+##### Devastating floods in summer
 # Torrential rain and floods in north-east China, together with Typhoon Utor-triggered floods in southern China, jointly result in at least 91 people dead and 111 missing. 
 
 At least 105 people have died in days of torrential rain and devastating floods in north-east and southern China, state media report.

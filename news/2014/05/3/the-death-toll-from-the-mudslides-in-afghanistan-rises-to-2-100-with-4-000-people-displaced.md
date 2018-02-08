@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan
 
 ### [2014-05-3](/news/2014/05/3/index.md)
 
-##### the mudslides
+##### The mudslides
 # The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/21/a-magnitude-6-5-earthquake-strikes-under-cook-s
 
 ### [2013-07-21](/news/2013/07/21/index.md)
 
-##### strikes
+##### Strikes
 # A magnitude 6.5 earthquake strikes under Cook Strait in New Zealand, causing moderate damage in the capital city Wellington. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/27/a-new-e-mail-worm-novarg-mydoom-is-spreading-ra
 
 ### [2004-01-27](/news/2004/01/27/index.md)
 
-##### e-mail
+##### E-mail
 #  A new e-mail worm, Novarg-Mydoom, is spreading rapidly to thousands of machines running Microsoft Windows. It rapidly becomes the fastest-spreading e-mail worm to date.
 
 

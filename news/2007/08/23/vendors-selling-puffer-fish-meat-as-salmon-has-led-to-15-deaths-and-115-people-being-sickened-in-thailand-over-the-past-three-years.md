@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/23/vendors-selling-puffer-fish-meat-as-salmon-has-
 
 ### [2007-08-23](/news/2007/08/23/index.md)
 
-##### puffer fish
+##### Puffer fish
 #  Vendors selling puffer fish meat as salmon has led to 15 deaths and 115 people being sickened in Thailand over the past three years. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/13/scientists-announce-the-possible-discovery-of-a
 
 ### [2004-02-13](/news/2004/02/13/index.md)
 
-##### carat
+##### Carat
 #  Scientists announce the possible discovery of a 10 billion trillion trillion (110 34 ) carat diamond, 2,500 mi across and 50 light-years away from Earth in the core of the decayed star BPM 37093 in the constellation of Centaurus.
 
 

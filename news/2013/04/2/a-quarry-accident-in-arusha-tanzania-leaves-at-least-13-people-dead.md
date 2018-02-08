@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/a-quarry-accident-in-arusha-tanzania-leaves-at-l
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### quarry
+##### Quarry
 # A quarry accident in Arusha, Tanzania, leaves at least 13 people dead. 
 
 

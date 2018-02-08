@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/24/united-states-and-iraqi-forces-arrest-at-least-
 
 ### [2007-11-24](/news/2007/11/24/index.md)
 
-##### militant
+##### Militant
 #  United States and Iraqi forces arrest at least 20 suspected militants in Kirkuk, Iraq. 
 
 

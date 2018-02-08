@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/26/an-outbreak-of-dengue-fever-in-bolivia-has-kill
 
 ### [2009-02-26](/news/2009/02/26/index.md)
 
-##### outbreak
+##### Outbreak
 #  An outbreak of dengue fever in Bolivia has killed 18 people and infected 31,000. 
 
 

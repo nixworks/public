@@ -27,7 +27,7 @@ Ariana Grande closed &#8220;One Love Manchester&#8221; with an emotional renditi
 ### [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md)
 The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the independent Al-Wasat newspaper on accusations that it publishes &quot;what sows division&quot; in the Shiite-majority Gulf kingdom. The order was due to Al-Wasat&#x27;s &quot;violation of the law and repeatedly publishin...
 
-##### last general election
+##### Last general election
 ### [All major parties suspend their campaigns following last night's terror attack in London. The general election, scheduled for June 8, is not expected to be postponed. ](/news/2017/06/4/all-major-parties-suspend-their-campaigns-following-last-night-s-terror-attack-in-london-the-general-election-scheduled-for-june-8-is-not.md)
 Britain&#039;s political parties have suspended national general election campaigning in the wake of the London Bridge attack, which killed six people. Labour, Conservatives, Lib Dem, Green and SNP spokespeople announced on Sunday morning that they would temporarily stand down.
 
@@ -37,7 +37,7 @@ Updated 1.15pm with Muscat comments The Labour Party has comfortably won the gen
 
 ##### Cambodian communal elections, 2017
 ### [Voters cast ballots to select representatives for rural and urban Cambodian precincts from, nationwide, 94,595 candidates for 11,572 council seats. Voter turnout was 85.74 percent with few reports of irregularities. According to early results, the opposition makes significant gains against the ruling party of Prime Minister Hun Sen. ](/news/2017/06/4/voters-cast-ballots-to-select-representatives-for-rural-and-urban-cambodian-precincts-from-nationwide-94-595-candidates-for-11-572-council.md)
-_Context: Cambodian communal elections, 2017, Hun Sen, Cambodia, Prime Minister of Cambodia_
+_Context: Cambodia, Hun Sen, Prime Minister of Cambodia, Cambodian communal elections, 2017_
 
 ## [Previous Day...](/news/2017/06/3/index.md)
 

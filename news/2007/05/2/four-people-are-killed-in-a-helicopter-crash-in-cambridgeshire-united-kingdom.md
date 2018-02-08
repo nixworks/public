@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/2/four-people-are-killed-in-a-helicopter-crash-in-
 
 ### [2007-05-2](/news/2007/05/2/index.md)
 
-##### helicopter
+##### Helicopter
 #  Four people are killed in a helicopter crash in Cambridgeshire, United Kingdom. 
 
 

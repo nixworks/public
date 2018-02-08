@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/29/the-chinese-government-sets-out-new-measures-to
 
 ### [2010-12-29](/news/2010/12/29/index.md)
 
-##### government
+##### Government
 # The Chinese government sets out new measures to tackle corruption. 
 
 

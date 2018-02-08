@@ -3,7 +3,7 @@ Formats: [HTML](2017/03/22/index.html)  [JSON](2017/03/22/index.json)  [XML](201
 
 ## [2017-03-22](/news/2017/03/22/index.md)
 
-##### last month's Westminster attack
+##### Last month's Westminster attack
 ### [An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. ](/news/2017/03/22/an-attacker-carries-out-a-vehicle-ramming-attack-outside-the-houses-of-parliament-in-london-before-stabbing-a-police-officer-and-subsequent.md)
 Police officer is stabbed in Parliament and a women among several people struck by car on nearby bridge.
 
@@ -21,7 +21,7 @@ Incident comes after IDF completes large scale drill in the south simulating a w
 
 ##### March 2017 Israel-Syria incident
 ### [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md)
-_Context: March 2017 Israel-Syria incident, Syria, Israeli Air Force, Damascus, Hezbollah_
+_Context: March 2017 Israel-Syria incident, Syria, Israeli Air Force, Hezbollah, Damascus_
 
 ##### Ramle
 ### [Near the town of Ramle, Israeli archeologists uncover hundreds of gin and whiskey bottles dating back to the First World War at the site of a former British Army barracks. ](/news/2017/03/22/near-the-town-of-ramle-israeli-archeologists-uncover-hundreds-of-gin-and-whiskey-bottles-dating-back-to-the-first-world-war-at-the-site-of.md)

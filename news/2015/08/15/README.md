@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/15/index.html)  [JSON](2015/08/15/index.json)  [XML](201
 
 ##### Iraq War (2014-present)
 ### [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md)
-_Context: Baghdad, Shia, Iraq War (2014-present), ISIL_
+_Context: ISIL, Iraq War (2014-present), Shia, Baghdad_
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md)
@@ -27,7 +27,7 @@ The African Union warns of potential &#39;catastrophic consequences&#39; for tro
 ### [Countries around the world commemorate the end of World War II. ](/news/2015/08/15/countries-around-the-world-commemorate-the-end-of-world-war-ii.md)
 Japan&#039;s prime minister draws criticism from China and South Korea over his speech marking the 70th anniversary of the end of World War II.
 
-##### the explosions last year
+##### The explosions last year
 ### [The death toll from the explosions in Tianjin rises to at least 85. In a further update, Chinese state media says that the death toll is at least 104. ](/news/2015/08/15/the-death-toll-from-the-explosions-in-tianjin-rises-to-at-least-85-in-a-further-update-chinese-state-media-says-that-the-death-toll-is-at.md)
 Everyone within three kilometres of blast site in China urged to get out amid fears of poisoning by sodium cyanide as death toll rises to 104
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/12/combat-between-the-government-and-the-islamic-c
 
 ### [2009-05-12](/news/2009/05/12/index.md)
 
-##### declares
+##### Declares
 #  Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. 
 
 

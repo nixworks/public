@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/7/an-institutional-child-abuse-museum-is-suggested
 
 ### [2009-07-7](/news/2009/07/7/index.md)
 
-##### child abuse
+##### Child abuse
 #  An institutional child abuse museum is suggested in Ireland by the Labour Party's Ruairi Quinn, with Education Minister Batt O'Keeffe criticising the Opposition on the issue. 
 
 

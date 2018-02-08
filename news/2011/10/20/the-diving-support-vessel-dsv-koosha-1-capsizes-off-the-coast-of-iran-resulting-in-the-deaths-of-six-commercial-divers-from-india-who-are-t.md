@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/20/the-diving-support-vessel-dsv-koosha-1-capsizes
 
 ### [2011-10-20](/news/2011/10/20/index.md)
 
-##### diving support vessel
+##### Diving support vessel
 # The diving support vessel DSV Koosha 1 capsizes off the coast of Iran, resulting in the deaths of six commercial divers from India who are trapped in the vessel's diving chamber when the boat sinks. 
 
 

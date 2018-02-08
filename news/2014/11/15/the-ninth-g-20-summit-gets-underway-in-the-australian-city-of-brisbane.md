@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/15/the-ninth-g-20-summit-gets-underway-in-the-aust
 
 ### [2014-11-15](/news/2014/11/15/index.md)
 
-##### ninth G-20 summit
+##### Ninth G-20 summit
 # The ninth G-20 summit gets underway in the Australian city of Brisbane. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -11,7 +11,7 @@ BEIRUT - A car bomb exploded in eastern Damascus on Saturday, an insurgent spoke
 ### [People rallying against last weekend's gang rape of a female student are showered in tear gas and water cannons in New Delhi, India. ](/news/2012/12/22/people-rallying-against-last-weekend-s-gang-rape-of-a-female-student-are-showered-in-tear-gas-and-water-cannons-in-new-delhi-india.md)
 Indian police use tear gas, water cannon and batons to disperse protesters marching over the gang rape of a young woman on a bus last week.
 
-##### suicide
+##### Suicide
 ### [A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. ](/news/2012/12/22/a-suicide-bomber-kills-at-least-eight-people-at-a-political-rally-in-peshawar-pakistan.md)
 A suicide bomber kills at least eight people, including a key provincial minister, at a political rally in the Pakistani city of Peshawar.
 
@@ -29,15 +29,15 @@ Pope Benedict XVI pardons former butler Paolo Gabriele, who was sentenced to 18 
 
 ##### UK
 ### [The UK's Police Federation launches a review into issues raised by its handling of the Andrew Mitchell "plebgate" row. ](/news/2012/12/22/the-uk-s-police-federation-launches-a-review-into-issues-raised-by-its-handling-of-the-andrew-mitchell-plebgate-row.md)
-_Context: UK, plebgate, Andrew Mitchell, Police Federation_
+_Context: Andrew Mitchell, UK, plebgate, Police Federation_
 
 ##### Mahmoud Mekki
 ### [Mahmoud Mekki resigns as Vice President of Egypt as the country completes its referendum on a new constitution. ](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.md)
-_Context: constitutional referendum, Vice President of Egypt, Mahmoud Mekki_
+_Context: Vice President of Egypt, Mahmoud Mekki, constitutional referendum_
 
 ##### President of Italy
 ### [Italian President Giorgio Napolitano dissolves the Parliament after the resignation of the Prime Minister Mario Monti ](/news/2012/12/22/italian-president-giorgio-napolitano-dissolves-the-parliament-after-the-resignation-of-the-prime-minister-mario-monti.md)
-_Context: President of Italy, parliament, Giorgio Napolitano, Italian Prime Minister, Mario Monti_
+_Context: Italian Prime Minister, Giorgio Napolitano, President of Italy, parliament, Mario Monti_
 
 ##### Irish government
 ### [Further details emerge on the suicide yesterday of Irish government minister Shane McEntee; he breakfasted with his family, took his dogs for a walk and was later found dead. Friends blame the pressure he was put under by his party to vote in favour of the country's latest austerity budget. ](/news/2012/12/22/further-details-emerge-on-the-suicide-yesterday-of-irish-government-minister-shane-mcentee-he-breakfasted-with-his-family-took-his-dogs-fo.md)

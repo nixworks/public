@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/8/the-president-of-pakistan-asif-ali-zardari-has-a
 
 ### [2013-09-8](/news/2013/09/8/index.md)
 
-##### president
+##### President
 # The President of Pakistan, Asif Ali Zardari has a farewell ceremony after the completion of his five year term. He will be replaced by Mamnoon Hussain. 
 
 

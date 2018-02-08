@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/18/president-of-pakistan-pervez-musharraf-addresse
 
 ### [2005-09-18](/news/2005/09/18/index.md)
 
-##### president
+##### President
 #  President of Pakistan, Pervez Musharraf, addresses the American Jewish Congress, the first leader of a Muslim nation not recognizing Israel to do so. He broke bread and led salat from the Quran. 
 
 

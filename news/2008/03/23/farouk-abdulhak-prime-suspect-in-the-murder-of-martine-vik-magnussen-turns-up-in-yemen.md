@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/23/farouk-abdulhak-prime-suspect-in-the-murder-of-
 
 ### [2008-03-23](/news/2008/03/23/index.md)
 
-##### murder of Martine Vik Magnussen
+##### Murder of Martine Vik Magnussen
 #  Farouk Abdulhak, prime suspect in the murder of Martine Vik Magnussen, turns up in Yemen. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

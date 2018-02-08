@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/18/nine-firefighters-are-killed-in-a-collapse-at-a
 
 ### [2007-06-18](/news/2007/06/18/index.md)
 
-##### firefighter
+##### Firefighter
 #  Nine firefighters are killed in a collapse at a furniture warehouse blaze in Charleston, South Carolina, the largest loss of firefighters in the United States in one incident since the collapse of the World Trade Center in 2001.
 
 

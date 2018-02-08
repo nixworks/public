@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/4/following-a-yes-vote-in-the-referendum-held-acro
 
 ### [2011-03-4](/news/2011/03/4/index.md)
 
-##### referendum
+##### Referendum
 # Following a Yes vote in the referendum held across Wales on 3 March 2011, the Welsh Assembly obtains primary law-making powers, making it possible for it to legislate without having to consult the United Kingdom parliament, nor the Secretary of State for Wales in 20 previously devolved areas of legislation. 
 
 Wales says a resounding Yes in the referendum on direct law-making powers for the assembly.

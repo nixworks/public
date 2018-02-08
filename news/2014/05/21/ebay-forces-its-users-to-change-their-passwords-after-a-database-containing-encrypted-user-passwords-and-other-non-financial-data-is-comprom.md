@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/21/ebay-forces-its-users-to-change-their-passwords
 
 ### [2014-05-21](/news/2014/05/21/index.md)
 
-##### eBay
+##### EBay
 # eBay forces its users to change their passwords after a database containing encrypted user passwords and other non-financial data is compromised by a cyber-attack. 
 
 Members of eBay are being made to change their passwords after a cyber-attack compromised a database containing user information.

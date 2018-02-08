@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/7/a-gunman-opens-fire-at-santa-monica-college-in-s
 
 ### [2013-06-7](/news/2013/06/7/index.md)
 
-##### opens fire
+##### Opens fire
 # A gunman opens fire at Santa Monica College in Santa Monica, California, after setting a house on fire nearby, killing five people, including the suspect. 
 
 

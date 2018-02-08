@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-social
 
 ### [2015-12-23](/news/2015/12/23/index.md)
 
-##### election
+##### Election
 # Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. 
 
 

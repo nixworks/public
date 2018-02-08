@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/12/federal-state-and-local-officials-in-the-us-sta
 
 ### [2004-10-12](/news/2004/10/12/index.md)
 
-##### federal government
+##### Federal government
 #  Federal, state, and local officials in the US state of Nevada are gathering information regarding allegations that a private voter registration firm, Voters Outreach of America, destroyed registration forms collected from Democratic voters while submitting those collected from Republican voters. 
 
 

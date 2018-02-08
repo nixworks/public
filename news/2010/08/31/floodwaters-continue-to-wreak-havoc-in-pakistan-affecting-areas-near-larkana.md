@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/31/floodwaters-continue-to-wreak-havoc-in-pakistan
 
 ### [2010-08-31](/news/2010/08/31/index.md)
 
-##### devastating floods
+##### Devastating floods
 # Floodwaters continue to wreak havoc in Pakistan, affecting areas near Larkana. 
 
 

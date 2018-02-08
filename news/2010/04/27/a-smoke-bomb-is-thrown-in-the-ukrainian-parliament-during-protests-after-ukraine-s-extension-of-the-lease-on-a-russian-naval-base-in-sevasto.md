@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/27/a-smoke-bomb-is-thrown-in-the-ukrainian-parliam
 
 ### [2010-04-27](/news/2010/04/27/index.md)
 
-##### smoke bomb
+##### Smoke bomb
 # A smoke bomb is thrown in the Ukrainian parliament during protests after Ukraine's extension of the lease on a Russian naval base in Sevastopol. 
 
 

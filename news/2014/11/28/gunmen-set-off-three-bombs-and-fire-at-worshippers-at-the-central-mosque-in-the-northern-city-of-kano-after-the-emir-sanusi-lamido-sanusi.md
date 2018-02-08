@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/28/gunmen-set-off-three-bombs-and-fire-at-worshipp
 
 ### [2014-11-28](/news/2014/11/28/index.md)
 
-##### set off three bombs and fire at worshippers
+##### Set off three bombs and fire at worshippers
 # Gunmen set off three bombs and fire at worshippers at the central mosque in the northern city of Kano after the Emir, Sanusi Lamido Sanusi, had issued a call to arms against Boko Haram. At least 120 people are killed. 
 
 

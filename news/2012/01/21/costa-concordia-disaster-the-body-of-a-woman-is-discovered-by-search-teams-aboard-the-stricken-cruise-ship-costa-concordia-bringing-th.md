@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/21/costa-concordia-disaster-the-body-of-a-woman-is
 
 ### [2012-01-21](/news/2012/01/21/index.md)
 
-##### sunk
+##### Sunk
 # "Costa Concordia" disaster: The body of a woman is discovered by search teams aboard the stricken cruise ship "Costa Concordia", bringing the confirmed death toll of the ship's capsizing to 12. Rescue efforts continue apace, as it is feared the ship may soon slip into deeper waters off the Italian coast. 
 
 

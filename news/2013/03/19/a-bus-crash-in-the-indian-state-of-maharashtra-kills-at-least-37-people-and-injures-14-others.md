@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/a-bus-crash-in-the-indian-state-of-maharashtra-
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### bus
+##### Bus
 # A bus crash in the Indian state of Maharashtra kills at least 37 people and injures 14 others. 
 
 

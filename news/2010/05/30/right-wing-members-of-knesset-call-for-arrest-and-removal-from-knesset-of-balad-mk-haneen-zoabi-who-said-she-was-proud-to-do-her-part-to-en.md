@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/30/right-wing-members-of-knesset-call-for-arrest-a
 
 ### [2010-05-30](/news/2010/05/30/index.md)
 
-##### parliament in Israel
+##### Parliament in Israel
 # Right-wing members of Knesset call for arrest and removal from Knesset of Balad MK Haneen Zoabi, who said she was proud to do her part to end what she called a siege on Gaza.
 
 Activists aboard an aid flotilla say they have left Cyprus and will reach Gaza on Monday, but Israel says it will not let them in.

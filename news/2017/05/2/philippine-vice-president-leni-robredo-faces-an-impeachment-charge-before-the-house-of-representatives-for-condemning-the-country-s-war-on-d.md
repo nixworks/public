@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/2/philippine-vice-president-leni-robredo-faces-an-
 
 ### [2017-05-2](/news/2017/05/2/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Philippine vice president Leni Robredo faces an impeachment charge before the House of Representatives for condemning the country's war on drugs at the United Nations. 
 
 An impeachment complaint is set to be filed against Vice President Leni Robredo before the House of Representatives on Tuesday afternoon, according to reports. 

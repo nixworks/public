@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/15/at-least-12-miners-die-in-mine-explosions-in-pe
 
 ### [2008-11-15](/news/2008/11/15/index.md)
 
-##### mine explosions
+##### Mine explosions
 #  At least 12 miners die in mine explosions in Petrila, Romania. 
 
 Authorities in Romania say at least 12 miners have been killed in two explosions in a coal mine in the south-west of the country.

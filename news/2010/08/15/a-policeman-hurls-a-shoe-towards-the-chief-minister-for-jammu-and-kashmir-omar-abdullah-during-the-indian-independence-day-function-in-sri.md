@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/15/a-policeman-hurls-a-shoe-towards-the-chief-mini
 
 ### [2010-08-15](/news/2010/08/15/index.md)
 
-##### throws a shoe
+##### Throws a shoe
 # A policeman hurls a shoe towards the Chief Minister for Jammu and Kashmir, Omar Abdullah, during the Indian Independence Day function in Srinagar amid protests against Indian rule; 15 policemen are later suspended. 
 
 Prime minister calls for end to violence in speech marking independence day.

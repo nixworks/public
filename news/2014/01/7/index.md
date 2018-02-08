@@ -3,7 +3,7 @@ Formats: [HTML](2014/01/7/index.html)  [JSON](2014/01/7/index.json)  [XML](2014/
 
 ## [2014-01-7](/news/2014/01/7/index.md)
 
-##### inter-factional fighting
+##### Inter-factional fighting
 ### [Both belligerents mass execute dozens of their combatant prisoners. ](/news/2014/01/7/both-belligerents-mass-execute-dozens-of-their-combatant-prisoners.md)
 Rebels from rival groups in north-west Syria are reported to have carried out mass killings amid an ongoing inter-rebel war, activists say.
 

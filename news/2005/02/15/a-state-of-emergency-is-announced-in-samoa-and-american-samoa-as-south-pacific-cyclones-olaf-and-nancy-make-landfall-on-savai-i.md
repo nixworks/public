@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/15/a-state-of-emergency-is-announced-in-samoa-and-
 
 ### [2005-02-15](/news/2005/02/15/index.md)
 
-##### state of emergency
+##### State of emergency
 #  A state of emergency is announced in Samoa and American Samoa as South Pacific cyclones Olaf and Nancy make landfall on Savai'i. 
 
 

@@ -5,7 +5,7 @@ Formats: [HTML](2010/07/20/index.html)  [JSON](2010/07/20/index.json)  [XML](201
 
 ##### Navi Pillay
 ### [Navi Pillay states that Kyrgyzstan is detaining hundreds of people and using torture on some of them during the ongoing crisis. ](/news/2010/07/20/navi-pillay-states-that-kyrgyzstan-is-detaining-hundreds-of-people-and-using-torture-on-some-of-them-during-the-ongoing-crisis.md)
-_Context: the ongoing crisis, Kyrgyzstan, Navi Pillay_
+_Context: the ongoing crisis, Navi Pillay, Kyrgyzstan_
 
 ##### Thailand
 ### [Thailand's government lifts a state of emergency in 3 provinces; it remains in 16 others, including Bangkok. ](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.md)
@@ -13,11 +13,11 @@ State of emergency lifted in three provinces but strict laws remain in much of t
 
 ##### William Hague
 ### [William Hague, the United Kingdom Foreign Secretary, says that British soldiers should be out of Afghanistan by 2014. ](/news/2010/07/20/william-hague-the-united-kingdom-foreign-secretary-says-that-british-soldiers-should-be-out-of-afghanistan-by-2014.md)
-_Context: Foreign Secretary, British Army, United Kingdom, Afghanistan, William Hague_
+_Context: William Hague, British Army, Afghanistan, United Kingdom, Foreign Secretary_
 
 ##### Uganda
 ### [Uganda's government defends the forced repatriation of 1,700 Rwandan refugees, deemed "heavy-handed" by the United Nations; two people are killed in a group alleged to be a security risk following the July 2010 Kampala attacks. ](/news/2010/07/20/uganda-s-government-defends-the-forced-repatriation-of-1-700-rwandan-refugees-deemed-heavy-handed-by-the-united-nations-two-people-are-k.md)
-_Context: United Nations, Rwanda, attacks, Uganda_
+_Context: Rwanda, Uganda, attacks, United Nations_
 
 ##### Turkey
 ### [Turkey says six of its soldiers were killed and fifteen wounded in an attack by Kurdish rebels near the Iraqi border. Turkey also says that one rebel was killed during the attack, and that others were being pursued by the military. ](/news/2010/07/20/turkey-says-six-of-its-soldiers-were-killed-and-fifteen-wounded-in-an-attack-by-kurdish-rebels-near-the-iraqi-border-turkey-also-says-that.md)
@@ -51,7 +51,7 @@ Nigerian president Goodluck Jonathan signs into law a new agency that will take 
 ### [A worker at a Foxconn subsidiary undergoes a fatal fall from a dormitory building in Foshan, Guangdong. ](/news/2010/07/20/a-worker-at-a-foxconn-subsidiary-undergoes-a-fatal-fall-from-a-dormitory-building-in-foshan-guangdong.md)
 A worker at a subsidiary of tech firm Foxconn dies after falling from a factory building in southern China, state media say.
 
-##### yesterday's deadly train crash
+##### Yesterday's deadly train crash
 ### [Preliminary investigations indicate driver error as the cause of yesterday's deadly train crash in West Bengal. ](/news/2010/07/20/preliminary-investigations-indicate-driver-error-as-the-cause-of-yesterday-s-deadly-train-crash-in-west-bengal.md)
 _Context: yesterday's deadly train crash, West Bengal_
 
@@ -61,7 +61,7 @@ Two men held in Guantanamo Bay for nearly eight years have been released to Alge
 
 ##### Cuba
 ### [Cuba's Ricardo Alarcon says the island is prepared to release further political prisoners after the 52 it announced earlier this month; he says they are free to remain in Cuba if they so wish. ](/news/2010/07/20/cuba-s-ricardo-alarca3n-says-the-island-is-prepared-to-release-further-political-prisoners-after-the-52-it-announced-earlier-this-month-he.md)
-_Context: Cuba, Ricardo Alarcon_
+_Context: Ricardo Alarcon, Cuba_
 
 ##### United States
 ### [The United States announces it is to deploy troops along the US-Mexico border in August in what it sees as an effort to improve its security. ](/news/2010/07/20/the-united-states-announces-it-is-to-deploy-troops-along-the-us-mexico-border-in-august-in-what-it-sees-as-an-effort-to-improve-its-security.md)
@@ -69,7 +69,7 @@ US National Guard troops will begin deploying along the US-Mexico border in Augu
 
 ##### Afghanistan
 ### [An international conference on the future of Afghanistan opens in Kabul co-chaired by the President of Afghanistan Hamid Karzai and the Secretary-General of the United Nations Ban Ki-moon. The conference endorses a goal for Afghan forces to lead security operations across the country by 2014. Afghan President Hamid Karzai suggests raising the size of the Afghan National Army to 170,000 troops and the Afghan National Police to 134,000 officers by 2011. ](/news/2010/07/20/an-international-conference-on-the-future-of-afghanistan-opens-in-kabul-co-chaired-by-the-president-of-afghanistan-hamid-karzai-and-the-secr.md)
-_Context: Afghanistan President, Hamid Karzai, Kabul, Ban Ki-moon, Afghanistan, United Nations Secretary-General, police, Afghan National Army_
+_Context: Afghan National Army, Ban Ki-moon, Afghanistan President, Kabul, Afghanistan, Hamid Karzai, police, United Nations Secretary-General_
 
 ##### North Korea
 ### [Former North Korean spy Kim Hyon Hui is allowed into Japan via Haneda Airport on a government-chartered jet, after the country waives its own immigration rules. ](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.md)
@@ -89,7 +89,7 @@ _Context: Ban Ki-moon, United Nations Secretary-General_
 
 ##### ASEAN
 ### [ASEAN formally invites Russia and the United States to attend the East Asia Summit and urges Myanmar to hold free and fair elections in a foreign ministers meeting in Hanoi, Vietnam. ](/news/2010/07/20/asean-formally-invites-russia-and-the-united-states-to-attend-the-east-asia-summit-and-urges-myanmar-to-hold-free-and-fair-elections-in-a-fo.md)
-_Context: Myanmar, United States, Hanoi, East Asia Summit, Russia, Vietnam, ASEAN_
+_Context: Vietnam, Myanmar, United States, Hanoi, Russia, East Asia Summit, ASEAN_
 
 ##### MI5
 ### [Former MI5 head Baroness Manningham-Buller gives evidence in public before the Iraq Inquiry into Iraq's alleged weapons of mass destruction, admitting that the 2003 invasion of Iraq served to "substantially" increase the security threat to the UK. ](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.md)
@@ -133,19 +133,19 @@ South East Asian politicians reportedly give Burma &quot;an earful&quot; over it
 
 ##### Prime Minister
 ### [Prime Minister of the United Kingdom David Cameron meets with US President Barack Obama to discuss the Gulf of Mexico oil spill, Afghanistan and the global economy. ](/news/2010/07/20/prime-minister-of-the-united-kingdom-david-cameron-meets-with-us-president-barack-obama-to-discuss-the-gulf-of-mexico-oil-spill-afghanistan.md)
-_Context: Barack Obama, Prime Minister, David Cameron, Deepwater Horizon oil spill, Afghanistan, U.S. President_
+_Context: U.S. President, Afghanistan, Prime Minister, David Cameron, Deepwater Horizon oil spill, Barack Obama_
 
 ##### Supreme Court
 ### [The Supreme Court of Guinea confirms there will be a presidential run-off in the country's election. ](/news/2010/07/20/the-supreme-court-of-guinea-confirms-there-will-be-a-presidential-run-off-in-the-country-s-election.md)
-_Context: November's presidential poll, Supreme Court_
+_Context: Supreme Court, November's presidential poll_
 
-##### presidential election
+##### Presidential election
 ### [Campaigning begins ahead of the presidential election in Rwanda. ](/news/2010/07/20/campaigning-begins-ahead-of-the-presidential-election-in-rwanda.md)
 Rwandan President Paul Kagame has said he is confident of re-election as he kicked off a campaign already tarnished by a string of political assassinations and arrests.
 
 ##### Spain
 ### [Spain rejects a proposal to ban the burqa in public places; 183 to 162, with two abstaining. ](/news/2010/07/20/spain-rejects-a-proposal-to-ban-the-burqa-in-public-places-183-to-162-with-two-abstaining.md)
-_Context: burqa, Spain_
+_Context: Spain, burqa_
 
 ##### United States
 ### [Shirley Sherrod, an employee of the United States Department of Agriculture, resigns after a video on the internet surfaced showing her apparently making racist remarks regarding the foreclosure of a farm owned by a white farmer. ](/news/2010/07/20/shirley-sherrod-an-employee-of-the-united-states-department-of-agriculture-resigns-after-a-video-on-the-internet-surfaced-showing-her-appa.md)
@@ -153,7 +153,7 @@ A video has surfaced showing an Agriculture Department official regaling an NAAC
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands: Coalition meetings between People's Party for Freedom and Democracy (VVD), Labour Party (PvdA), Democrats 66 (D66) and GreenLeft (GL) fails to form a new Purple government. ](/news/2010/07/20/cabinet-formation-in-the-netherlands-coalition-meetings-between-people-s-party-for-freedom-and-democracy-vvd-labour-party-pvda-democr.md)
-_Context: Cabinet formation in the Netherlands, Labour Party, D66, VVD, GreenLeft, Purple government_
+_Context: D66, VVD, Cabinet formation in the Netherlands, Labour Party, Purple government, GreenLeft_
 
 ##### Three Gorges Dam
 ### [The Three Gorges Dam on the Yangtze River faces its biggest flood control test since its completion last year. ](/news/2010/07/20/the-three-gorges-dam-on-the-yangtze-river-faces-its-biggest-flood-control-test-since-its-completion-last-year.md)
@@ -161,7 +161,7 @@ _Context: Three Gorges Dam, Yangtze River_
 
 ##### Prime Minister of Russia
 ### [Prime Minister of Russia Vladimir Putin announces the country is to invest $800 million into a new spaceport near Uglegorsk in the Far East. ](/news/2010/07/20/prime-minister-of-russia-vladimir-putin-announces-the-country-is-to-invest-800-million-into-a-new-spaceport-near-uglegorsk-in-the-far-east.md)
-_Context: Far East, spaceport, Prime Minister of Russia, Vladimir Putin, Uglegorsk_
+_Context: Uglegorsk, Vladimir Putin, spaceport, Prime Minister of Russia, Far East_
 
 ##### French
 ### [French footballers Franck Ribery and Karim Benzema are placed under formal judicial investigation for soliciting sex with an underage prostitute. ](/news/2010/07/20/french-footballers-franck-riba-c-ry-and-karim-benzema-are-placed-under-formal-judicial-investigation-for-soliciting-sex-with-an-underage-prost.md)
@@ -169,11 +169,11 @@ French football star Franck Ribery is placed under formal judicial investigation
 
 ##### Ryder Cup
 ### [Ryder Cup captain Colin Montgomerie selects Darren Clarke, Thomas Bjorn and Paul McGinley as his vice-captains. ](/news/2010/07/20/ryder-cup-captain-colin-montgomerie-selects-darren-clarke-thomas-bja-rn-and-paul-mcginley-as-his-vice-captains.md)
-_Context: Paul McGinley, Colin Montgomerie, Darren Clarke, Thomas Bjorn, Ryder Cup_
+_Context: Paul McGinley, Thomas Bjorn, Ryder Cup, Darren Clarke, Colin Montgomerie_
 
 ##### Alberto Contador
 ### [Alberto Contador apologises after he took advantage of Andy Schleck to obtain the yellow jersey in the 2010 Tour de France. ](/news/2010/07/20/alberto-contador-apologises-after-he-took-advantage-of-andy-schleck-to-obtain-the-yellow-jersey-in-the-2010-tour-de-france.md)
-_Context: Alberto Contador, 2010 Tour de France, Andy Schleck_
+_Context: Andy Schleck, 2010 Tour de France, Alberto Contador_
 
 ## [Previous Day...](/news/2010/07/19/index.md)
 

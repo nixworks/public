@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/1/a-jury-orders-pharmaceutical-companies-glaxosmit
 
 ### [2008-07-1](/news/2008/07/1/index.md)
 
-##### pharmaceutical companies
+##### Pharmaceutical companies
 #  A jury orders pharmaceutical companies GlaxoSmithKline and Novartis to pay $114 million in compensation to the Government of Alabama for overcharging for Medicaid prescription drugs. 
 
 

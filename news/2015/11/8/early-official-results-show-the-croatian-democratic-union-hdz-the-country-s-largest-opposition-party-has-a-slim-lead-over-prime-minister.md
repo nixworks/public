@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/8/early-official-results-show-the-croatian-democra
 
 ### [2015-11-8](/news/2015/11/8/index.md)
 
-##### last election
+##### Last election
 # Early official results show the Croatian Democratic Union (HDZ), the country's largest opposition party, has a slim lead over Prime Minister Zoran Milanovic's ruling Social Democrats (SDP) in today's elections. With 32 percent counted, the HDZ, has 61 of parliament's 151 seats and the SDP is second with 53. The third place Most (Bridge of Independent Lists) party is likely to have the balance of power in the parliament. 
 
 Croatia’s ruling center-left coalition faces a strong challenge from a conservative opposition as the Balkan country goes to the polls in its first parliamentary election since joining the European Union in 2013.

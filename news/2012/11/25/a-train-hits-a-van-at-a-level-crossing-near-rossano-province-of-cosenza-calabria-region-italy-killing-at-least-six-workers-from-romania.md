@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/25/a-train-hits-a-van-at-a-level-crossing-near-ros
 
 ### [2012-11-25](/news/2012/11/25/index.md)
 
-##### train
+##### Train
 # A train hits a van at a level crossing near Rossano, Province of Cosenza, Calabria region, Italy, killing at least six workers from Romania and Bulgaria. 
 
 A train hit a van in southern Italyon Saturday, killing at least six people, the Italian fireservice said on Saturday.

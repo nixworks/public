@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/9/the-u-s-government-announces-that-two-more-offic
 
 ### [2003-07-9](/news/2003/07/9/index.md)
 
-##### most wanted Iraqis
+##### Most wanted Iraqis
 #  The U.S. government announces that two more officials of the defeated Iraqi government on the U.S. list of most-wanted Iraqis were taken into custody on Tuesday. Mizban Khadr al-Hadi was a high-ranking member of Iraq's Baath Party Regional Command and Revolutionary Command Council, and Mahmud Dhiyab al-Ahmad was a former Interior Minister.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/16/a-cholera-outbreak-kills-at-least-16-people-in-
 
 ### [2015-09-16](/news/2015/09/16/index.md)
 
-##### cholera
+##### Cholera
 # A cholera outbreak kills at least 16 people in three camps for displaced people fleeing Boko Haram in Nigeria. 
 
 

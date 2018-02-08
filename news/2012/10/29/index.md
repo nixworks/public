@@ -17,7 +17,7 @@ Tear gas and water cannons used to disband thousands marching in Ankara to mark 
 
 ##### Penguin
 ### [Penguin and Random House agree to merge to form Penguin Random House, the world's largest publisher. ](/news/2012/10/29/penguin-and-random-house-agree-to-merge-to-form-penguin-random-house-the-world-s-largest-publisher.md)
-_Context: Penguin, Random House_
+_Context: Random House, Penguin_
 
 ##### Human Rights Watch
 ### [Human Rights Watch and other rights groups issue a report rejecting the Israeli government's arguments against accepting Africans migrants seeking asylum in Israel and criticizing it for using force to deter them from entering the country, stating that the migrants face extreme violence if denied entry into Israel. ](/news/2012/10/29/human-rights-watch-and-other-rights-groups-issue-a-report-rejecting-the-israeli-governmentas-arguments-against-accepting-africans-migrants.md)
@@ -41,7 +41,7 @@ _Context: Simi Valley_
 
 ##### Fernando Haddad
 ### [Fernando Haddad is elected mayor of SGBPo Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sagbpo-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md)
-_Context: Brazil Workers' Party, Fernando Haddad, SGBPo Paulo, Brazil_
+_Context: Fernando Haddad, SGBPo Paulo, Brazil, Brazil Workers' Party_
 
 ##### Coptic Christian pope
 ### [A shortlist of successors to the Coptic Pope is drawn up; a blindfolded child is then expected to pick from a list of three. ](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.md)

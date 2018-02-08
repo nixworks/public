@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/9/anti-government-protesters-in-thailand-storm-and
 
 ### [2010-04-9](/news/2010/04/9/index.md)
 
-##### red shirt
+##### Red shirt
 # Anti-government protesters in Thailand storm and occupy an opposition television station. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/16/the-international-atomic-energy-agency-states-t
 
 ### [2016-01-16](/news/2016/01/16/index.md)
 
-##### nuclear program
+##### Nuclear program
 # The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. 
 
 International sanctions on Iran are lifted after its compliance with obligations under the nuclear agreement with world powers was certified.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/25/an-avalanche-kills-11-people-on-mount-zigana-ga
 
 ### [2009-01-25](/news/2009/01/25/index.md)
 
-##### avalanche
+##### Avalanche
 #  An avalanche kills 11 people on Mount Zigana, Gumushane Province in north-eastern Turkey. 
 
 

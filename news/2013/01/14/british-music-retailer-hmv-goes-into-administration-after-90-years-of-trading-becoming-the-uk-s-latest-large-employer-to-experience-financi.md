@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/14/british-music-retailer-hmv-goes-into-administra
 
 ### [2013-01-14](/news/2013/01/14/index.md)
 
-##### music retailer
+##### Music retailer
 # British music retailer HMV goes into administration after 90 years of trading, becoming the UK's latest large employer to experience financial hardship. 
 
 Troubled music and DVD retailer HMV, which began trading in 1921, announces it is to appoint an administrator, putting about 4,350 jobs in jeopardy.

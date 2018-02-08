@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/17/twenty-one-people-are-killed-in-a-suicide-bombi
 
 ### [2014-01-17](/news/2014/01/17/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Twenty-one people are killed in a suicide bombing attack on a Kabul restaurant. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/major-changes-to-welfare-payments-in-the-united-
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### social welfare
+##### Social welfare
 # Major changes to welfare payments in the United Kingdom introduced by the Welfare Reform Act 2012 begin to go into effect. 
 
 

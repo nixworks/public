@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-i
 
 ### [2015-01-6](/news/2015/01/6/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills herself and a policeman in an attack on a police station in a popular tourist district in the Turkish city of Istanbul. 
 
 In the second attack on the police in the city in a week, a woman killed one officer and wounded another after detonating explosives under her coat.

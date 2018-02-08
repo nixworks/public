@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/18/voters-in-scotland-go-to-the-polls-to-vote-on-t
 
 ### [2014-09-18](/news/2014/09/18/index.md)
 
-##### independence referendum
+##### Independence referendum
 # Voters in Scotland go to the polls to vote on the referendum on independence. 
 
 A huge turnout from the middle classes saw traditional SNP strongholds declare for the No campaign

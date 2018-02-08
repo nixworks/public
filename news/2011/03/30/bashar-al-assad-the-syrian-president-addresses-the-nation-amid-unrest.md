@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/30/bashar-al-assad-the-syrian-president-addresses-
 
 ### [2011-03-30](/news/2011/03/30/index.md)
 
-##### protestors
+##### Protestors
 # Bashar al-Assad, the Syrian president, addresses the nation amid unrest. 
 
 Syrian president delivers first public speech since security forces curbed anti-government protests across the country.

@@ -7,7 +7,7 @@ Formats: [HTML](2010/08/4/index.html)  [JSON](2010/08/4/index.json)  [XML](2010/
 ### [About 70 Indian police personnel are reported missing in Chhattisgarh forests amid a major engagement with Maoist guerrillas; they are later found. No casualties have been reported. ](/news/2010/08/4/about-70-indian-police-personnel-are-reported-missing-in-chhattisgarh-forests-amid-a-major-engagement-with-maoist-guerrillas-they-are-later.md)
 A fierce encounter took place on Wednesday between a police party of 75 personnel and Maoists near Kirandul in Dantewada district of Chhattisgarh. The police party is safe and there were no casualties.
 
-##### Lebanon
+##### Lebanese
 ### [Lebanon arrests a man it suspects has spied for Israel. ](/news/2010/08/4/lebanon-arrests-a-man-it-suspects-has-spied-for-israel.md)
 Senior member of Free Patriotic Movement detained on suspicion of spying for Israel.
 
@@ -51,23 +51,23 @@ New Zealand has suffered its first combat fatality in Afghanistan since its smal
 ### [A man found dead in forest near Trongsa is thought to have been killed by a tiger, possibly Bhutan's first such death in 15 years. ](/news/2010/08/4/a-man-found-dead-in-forest-near-trongsa-is-thought-to-have-been-killed-by-a-tiger-possibly-bhutan-s-first-such-death-in-15-years.md)
 Officials in Bhutan investigate whether a man found dead in forest near the town of Trongsa was killed by a tiger.
 
-##### major
+##### Major
 ### [A controlled explosion is carried out on a device discovered beneath the car of a serving soldier, believed to be an army major, in Bangor, County Down in Northern Ireland. ](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-device-discovered-beneath-the-car-of-a-serving-soldier-believed-to-be-an-army-major-in-bangor.md)
-_Context: County Down, Northern Ireland, major, Bangor_
+_Context: major, Northern Ireland, County Down, Bangor_
 
-##### word
+##### Word
 ### [A vault containing non-words - those rejected by the "Oxford English Dictionary" - is uncovered. ](/news/2010/08/4/a-vault-containing-non-words-those-rejected-by-the-oxford-english-dictionary-is-uncovered.md)
 Wurfing, polkadodge and nonversation are among the words stored in secret files after being rejected for inclusion by the Oxford English Dictionary, it has been disclosed.
 
 ##### Radiohead
 ### [Sharers of the Radiohead album "In Rainbows", once offered by the band for nothing, are sent cease-and-desist letters by the RIAA and IFPI. ](/news/2010/08/4/sharers-of-the-radiohead-album-in-rainbows-once-offered-by-the-band-for-nothing-are-sent-cease-and-desist-letters-by-the-riaa-and-ifpi.md)
-_Context: RIAA, IFPI, Radiohead, In Rainbows_
+_Context: RIAA, IFPI, In Rainbows, Radiohead_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean confirms he is to announce plans to stand for the presidency in Haiti. ](/news/2010/08/4/musician-wyclef-jean-confirms-he-is-to-announce-plans-to-stand-for-the-presidency-in-haiti.md)
 Haitian-born musician Wyclef Jean is to announce plans to stand for president of the earthquake-hit Caribbean country.
 
-##### devastating floods
+##### Devastating floods
 ### [Nearly 1 million people are estimated to have been left homeless during the ongoing severe floods in Pakistan. ](/news/2010/08/4/nearly-1-million-people-are-estimated-to-have-been-left-homeless-during-the-ongoing-severe-floods-in-pakistan.md)
 Poor weather forces more evacuations as Pakistan endures its worst floods in 80 years, with yet more heavy rain forecast.
 
@@ -81,11 +81,11 @@ _Context: 2010 China floods_
 
 ##### Eurotunnel
 ### [Eurotunnel has "apologised profusely" after train passengers brought to Calais, France, through the Channel Tunnel are locked into their carriages upon arrival and immediately returned to Kent, England. ](/news/2010/08/4/eurotunnel-has-apologised-profusely-after-train-passengers-brought-to-calais-france-through-the-channel-tunnel-are-locked-into-their-car.md)
-_Context: Calais, Eurotunnel, England, France, Kent, Channel Tunnel_
+_Context: Calais, Eurotunnel, Channel Tunnel, England, Kent, France_
 
-##### barn
+##### Barn
 ### [Three barns collapse at the largest egg farm in the U.S. state of Ohio in Croton, with at least one worker dead. ](/news/2010/08/4/three-barns-collapse-at-the-largest-egg-farm-in-the-u-s-state-of-ohio-in-croton-with-at-least-one-worker-dead.md)
-_Context: barn, egg farm, U.S. state, Croton, Ohio_
+_Context: Croton, barn, Ohio, egg farm, U.S. state_
 
 ##### Admiral
 ### [Admiral Thad Allen, the man in charge of the US Government's efforts to clear up the Deepwater Horizon oil spill, has given clearance for BP to pour cement into its Gulf of Mexico oil well. ](/news/2010/08/4/admiral-thad-allen-the-man-in-charge-of-the-us-government-s-efforts-to-clear-up-the-deepwater-horizon-oil-spill-has-given-clearance-for-bp.md)
@@ -97,19 +97,19 @@ Pacific Islands Forum host, Vanuatu, says regional leaders must still engage wit
 
 ##### Vaughn R. Walker
 ### [Vaughn R. Walker, the Chief Judge of the United States District Court for the Northern District of California, rules in "Perry v. Schwarzenegger" that California Proposition 8 banning same-sex marriage in California is unconstitutional. ](/news/2010/08/4/vaughn-r-walker-the-chief-judge-of-the-united-states-district-court-for-the-northern-district-of-california-rules-in-perry-v-schwarzene.md)
-_Context: Chief Judge, Vaughn R. Walker, reversed its legalization, California, Perry v. Schwarzenegger, same-sex marriage, United States District Court for the Northern District of California_
+_Context: same-sex marriage, California, Perry v. Schwarzenegger, United States District Court for the Northern District of California, Vaughn R. Walker, Chief Judge, reversed its legalization_
 
 ##### The Sunday Times
 ### [A journalist with "The Sunday Times" is arrested in South Africa.date=August 2010 ](/news/2010/08/4/a-journalist-with-the-sunday-times-is-arrested-in-south-africa-date-august-2010.md)
 Police became involved in a screaming match with senior Sunday Times editors as they arrested a journalist, while one arrest was made in Mpumalanga. 
 
-##### fatal slashing rampage
+##### Fatal slashing rampage
 ### [A man with a knife embarks on a fatal slashing rampage in a kindergarten in Zibo, Shandong. ](/news/2010/08/4/a-man-with-a-knife-embarks-on-a-fatal-slashing-rampage-in-a-kindergarten-in-zibo-shandong.md)
 A wave of violent attacks on Chinese schools has left many asking whether social support has kept up with the pace of change.
 
 ##### Sabbar Kashur
 ### [The prison sentence of Sabbar Kashur, a married Arab man convicted by Israel of "rape by deception" after telling the accuser that he's Jewish and single, is delayed as he attempts an appeal. ](/news/2010/08/4/the-prison-sentence-of-sabbar-kashur-a-married-arab-man-convicted-by-israel-of-rape-by-deception-after-telling-the-accuser-that-he-s-jewi.md)
-_Context: Sabbar Kashur, Arab, single, Israel, rape by deception, Jew_
+_Context: single, rape by deception, Israel, Jew, Sabbar Kashur, Arab_
 
 ##### Abdullah Khadr
 ### [Canadian Abdullah Khadr, charged with terrorism by the United States and jailed in Canada since 2005, is released from prison after a Canadian judge declines an extradition attempt by the United States. ](/news/2010/08/4/canadian-abdullah-khadr-charged-with-terrorism-by-the-united-states-and-jailed-in-canada-since-2005-is-released-from-prison-after-a-canadi.md)
@@ -145,23 +145,23 @@ Doku Umarov appears in new video posting saying he will not step down from his p
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands: Ivo Opstelten, the chairman of the People's Party for Freedom and Democracy, is appointed the new informateur, tasked with finalizing the formation of a right-wing minority coalition cabinet. ](/news/2010/08/4/cabinet-formation-in-the-netherlands-ivo-opstelten-the-chairman-of-the-people-s-party-for-freedom-and-democracy-is-appointed-the-new-info.md)
-_Context: Cabinet formation in the Netherlands, Informateur, minority government, VVD, Ivo Opstelten, right-wing_
+_Context: minority government, right-wing, Cabinet formation in the Netherlands, VVD, Ivo Opstelten, Informateur_
 
 ##### House of Representatives
 ### [U.S. Rep. Don Young R-Alaska claims that he has been cleared in a United States Department of Justice corruption probe. ](/news/2010/08/4/u-s-rep-don-young-r-alaska-claims-that-he-has-been-cleared-in-a-united-states-department-of-justice-corruption-probe.md)
-_Context: corruption, Don Young, Republican, Alaska, Department of Justice, House of Representatives_
+_Context: Alaska, corruption, Don Young, Department of Justice, Republican, House of Representatives_
 
 ##### Cologne
 ### [10,000 people arrive in Cologne for the opening ceremony of the 2010 Gay Games. ](/news/2010/08/4/10-000-people-arrive-in-cologne-for-the-opening-ceremony-of-the-2010-gay-games.md)
-_Context: 2010, Gay Games, Cologne_
+_Context: 2010, Cologne, Gay Games_
 
 ##### Surrey
 ### [Surrey defeat Glamorgan by 39 runs on the Duckworth-Lewis method to achieve a world record for the highest score in 40-over cricket in the CB 40 at The Oval. ](/news/2010/08/4/surrey-defeat-glamorgan-by-39-runs-on-the-duckworthalewis-method-to-achieve-a-world-record-for-the-highest-score-in-40-over-cricket-in-the.md)
-_Context: Glamorgan, Surrey, The Oval, Duckworth-Lewis method, run, cricketer_
+_Context: Duckworth-Lewis method, cricketer, Glamorgan, Surrey, The Oval, run_
 
 ##### Alex Rodriguez
 ### [Alex Rodriguez of the New York Yankees becomes the seventh player in the history of Major League Baseball to hit 600 home runs. ](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.md)
-_Context: Major League Baseball, Alex Rodriguez, home run, New York Yankees_
+_Context: New York Yankees, Alex Rodriguez, home run, Major League Baseball_
 
 ## [Previous Day...](/news/2010/08/3/index.md)
 

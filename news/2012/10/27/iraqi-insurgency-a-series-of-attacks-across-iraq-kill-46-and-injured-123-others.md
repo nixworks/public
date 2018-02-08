@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/27/iraqi-insurgency-a-series-of-attacks-across-ira
 
 ### [2012-10-27](/news/2012/10/27/index.md)
 
-##### eight car bombings
+##### Eight car bombings
 # Iraqi insurgency: A series of attacks across Iraq kill 46 and injured 123 others. 
 
 At least 30 people are killed in a series of bomb and gun attacks in Iraq, primarily aimed at Shia Muslims and coinciding with the Eid al-Adha holiday.

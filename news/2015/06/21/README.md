@@ -11,7 +11,7 @@ Toxic homemade liquor has killed nearly 100 slum dwellers in India&#39;s financi
 ### [Ten people are injured in a shooting at a Philadelphia, Pennsylvania block party. ](/news/2015/06/21/ten-people-are-injured-in-a-shooting-at-a-philadelphia-pennsylvania-block-party.md)
 Two children and five adults have been injured in a shooting at a block party in Philadelphia, when a suspect randomly opened fire on a crowd, according to officials and local media.
 
-##### block party
+##### Block party
 ### [One person dies and nine others are injured in a shooting at a block party on a basketball court in Detroit, Michigan. ](/news/2015/06/21/one-person-dies-and-nine-others-are-injured-in-a-shooting-at-a-block-party-on-a-basketball-court-in-detroit-michigan.md)
 Get the latest breaking news across the U.S. on ABCNews.com
 

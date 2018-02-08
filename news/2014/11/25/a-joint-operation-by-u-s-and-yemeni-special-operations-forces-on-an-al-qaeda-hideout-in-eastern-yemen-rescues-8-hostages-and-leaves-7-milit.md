@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/25/a-joint-operation-by-u-s-and-yemeni-special-ope
 
 ### [2014-11-25](/news/2014/11/25/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. 
 
 The freed captives were six Yemeni citizens, a Saudi and an Ethiopian, who were unharmed, Yemeni officials said in a statement.

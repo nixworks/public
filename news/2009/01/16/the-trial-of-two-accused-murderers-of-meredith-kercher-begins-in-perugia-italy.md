@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/16/the-trial-of-two-accused-murderers-of-meredith-
 
 ### [2009-01-16](/news/2009/01/16/index.md)
 
-##### trial
+##### Trial
 #  The trial of two accused murderers of Meredith Kercher begins in Perugia, Italy. 
 
 

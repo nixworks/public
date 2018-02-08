@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/a-study-of-mummies-concludes-that-heart-disease
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### mummies
+##### Mummies
 # A study of mummies concludes that heart disease was common among ancient people. 
 
 Long thought to be a modern disease related to contemporary lifestyles, atherosclerosis was common among ancient people as well, researchers reported.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/8/following-the-state-funeral-of-former-president-
 
 ### [2013-03-8](/news/2013/03/8/index.md)
 
-##### recently deceased
+##### Recently deceased
 # Following the state funeral of former President of Venezuela Hugo Chavez, Vice President Nicolas Maduro is officially sworn in as Interim President. 
 
 Vice-President Nicolas Maduro is due to be sworn in as acting president of Venezuela.

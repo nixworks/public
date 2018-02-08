@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/6/a-stolen-dinosaur-skeleton-is-returned-to-mongol
 
 ### [2013-05-6](/news/2013/05/6/index.md)
 
-##### dinosaur
+##### Dinosaur
 # A stolen dinosaur skeleton is returned to Mongolia. 
 
 It&apos;s bad enough to go from roaming the earth as a fearsome predator to being uprooted and dragged across three continents, but to end up in a basement in Queens? No wonder the Tyrannosaurus Bataar was broken up. Literally. But not for long. Prosecutors and customs officials Monday loaded up boxes containing chunks of the 70-million-year-old dinosaur to ship him home to Mongolia, ending an odyssey driven by greedy fossil hunters whose attempt to sell the skeleton led to their downfall and Tyrannosaurus Bataar&apos;s resurrection.

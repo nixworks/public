@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-
 
 ### [2012-01-5](/news/2012/01/5/index.md)
 
-##### landslide
+##### Landslide
 # At least 25 people die with dozens missing as a result of a landslide at a gold mining site in the Philippines Compostela Valley Province. 
 
 

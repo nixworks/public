@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/11/23/following-riots-and-killings-in-nigeria-miss-wo
 
 ### [2002-11-23](/news/2002/11/23/index.md)
 
-##### riot
+##### Riot
 #  Following riots and killings in Nigeria, Miss World contest organizers leave and reconvene in London
 
 

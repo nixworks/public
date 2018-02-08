@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocy
 
 ### [2017-10-14](/news/2017/10/14/index.md)
 
-##### psilocybin mushroom
+##### Psilocybin mushroom
 # A small-scale study has determined that psilocybin mushrooms, which contain the drug psilocybin, can treat depression. 
 
 Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression, a study suggests.

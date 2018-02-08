@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/9/one-man-is-killed-and-five-others-are-injured-af
 
 ### [2013-03-9](/news/2013/03/9/index.md)
 
-##### sailboat
+##### Sailboat
 # One man is killed and five others are injured after a sailboat breaks up and sinks off of San Clemente, California, United States. 
 
 

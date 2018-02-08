@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/14/a-south-korean-man-is-hospitalised-in-the-slova
 
 ### [2015-06-14](/news/2015/06/14/index.md)
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 # A South Korean man is hospitalised in the Slovak capital Bratislava with symptoms of MERS as the death toll in South Korea rises to 15. 
 
 Seven new cases of MERS brings total number of infections to 145 as 15th South Korean patient dies of the disease.

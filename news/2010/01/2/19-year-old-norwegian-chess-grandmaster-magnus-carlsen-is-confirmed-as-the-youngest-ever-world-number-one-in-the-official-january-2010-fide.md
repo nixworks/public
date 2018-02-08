@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/2/19-year-old-norwegian-chess-grandmaster-magnus-c
 
 ### [2010-01-2](/news/2010/01/2/index.md)
 
-##### chess
+##### Chess
 # 19-year-old Norwegian chess grandmaster Magnus Carlsen is confirmed as the youngest-ever world number one in the official January 2010 FIDE rating list. 
 
 

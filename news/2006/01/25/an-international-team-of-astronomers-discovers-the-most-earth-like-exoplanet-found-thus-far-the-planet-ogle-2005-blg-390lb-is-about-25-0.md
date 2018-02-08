@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/25/an-international-team-of-astronomers-discovers-
 
 ### [2006-01-25](/news/2006/01/25/index.md)
 
-##### astronomers
+##### Astronomers
 #  An international team of astronomers discovers the most earth-like exoplanet found thus far. The planet, OGLE-2005-BLG-390Lb, is about 25,000 light years away, close to the centre of the Milky Way. 
 
 

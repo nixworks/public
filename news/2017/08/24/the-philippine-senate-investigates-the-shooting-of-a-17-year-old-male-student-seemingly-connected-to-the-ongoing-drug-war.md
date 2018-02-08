@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/24/the-philippine-senate-investigates-the-shooting
 
 ### [2017-08-24](/news/2017/08/24/index.md)
 
-##### senators
+##### Senators
 # The Philippine senate investigates the shooting of a 17-year old male student seemingly connected to the ongoing drug war. 
 
 Watch the hearing live on Rappler on Thursday, August 24, at 2 pm

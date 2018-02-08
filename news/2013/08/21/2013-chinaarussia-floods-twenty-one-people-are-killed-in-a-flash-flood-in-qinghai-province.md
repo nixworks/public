@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/21/2013-chinaarussia-floods-twenty-one-people-are-
 
 ### [2013-08-21](/news/2013/08/21/index.md)
 
-##### devastating floods in summer
+##### Devastating floods in summer
 # 2013 China-Russia floods: Twenty one people are killed in a flash flood in Qinghai province. 
 
 

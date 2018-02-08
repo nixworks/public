@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/5/amidst-growing-diplomatic-tensions-between-roman
 
 ### [2012-06-5](/news/2012/06/5/index.md)
 
-##### between
+##### Between
 # Amidst growing diplomatic tensions between Romania and Hungary, ignoring an official request not to, the Speaker of the Hungarian Parliament undergoes a visit in Transylvania triggering protests from Romanian state dignitaries. 
 
 Hungary’s Speaker of Parliament Laszlo Kover said he insisted on his plan to visit Romania on Tuesday. Earlier on Monday, Romanian Senate Speaker Vasile Blaga and House of Representatives Speaker Roberta Anastase asked him to postpone his visit after the country’s upcoming local elections. In a letter of response addressed to the Romanian house speakers, &hellip;

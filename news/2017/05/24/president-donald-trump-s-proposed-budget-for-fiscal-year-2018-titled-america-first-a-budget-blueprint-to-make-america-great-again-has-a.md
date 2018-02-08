@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/24/president-donald-trump-s-proposed-budget-for-fi
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
-##### budget
+##### Budget
 # President Donald Trump's proposed budget for fiscal year 2018, titled "America First: A Budget Blueprint to Make America Great Again," has a $2 trillion accounting error over 10 years because it uses the same money twice for two different purposes. 
 
 &quot;A New Foundation for American Greatness&quot; was built on quicksand, and the president&#x27;s defenders are happy to keep shoveling it.

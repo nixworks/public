@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/18/the-dax-cac-40-nasdaq-drop-over-5-the-ftse-100-
 
 ### [2011-08-18](/news/2011/08/18/index.md)
 
-##### trend
+##### Trend
 # The DAX, CAC 40, Nasdaq drop over 5%, the FTSE 100 index by 4.5%, the Dow Jones Industrial Average by 3.7%. 
 
 The S.&P. dropped 4.5 percent amid heightened concerns over the impact of the euro zone debt crisis; Asia-Pacific markets fell sharply in early trading on Friday.

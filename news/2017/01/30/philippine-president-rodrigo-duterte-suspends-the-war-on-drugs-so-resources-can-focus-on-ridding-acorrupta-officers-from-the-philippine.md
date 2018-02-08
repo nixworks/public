@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/30/philippine-president-rodrigo-duterte-suspends-t
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Philippine President Rodrigo Duterte suspends the war on drugs so resources can focus on ridding "corrupt" officers from the Philippine National Police. The "cause celebre" is the kidnapping and strangulation of South Korean businessman Jee Ick-joo last October. 
 
 The Philippine police are to suspend their controversial war on drugs until &ldquo;corrupt&rdquo; officers can be rooted out, the chief of the force said on Monday, following the killing of a South Korean businessman.

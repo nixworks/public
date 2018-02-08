@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/1/japan-self-defense-forces-and-the-members-of-the
 
 ### [2011-04-1](/news/2011/04/1/index.md)
 
-##### military
+##### Military
 # Japan Self-Defense Forces and the members of the United States Armed Forces search for people still missing after the 2011 Tohoku earthquake and tsunami. 
 
 

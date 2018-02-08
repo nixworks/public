@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/14/tens-of-thousands-take-part-in-a-church-sponsor
 
 ### [2010-07-14](/news/2010/07/14/index.md)
 
-##### same-sex marriage
+##### Same-sex marriage
 # Tens of thousands take part in a church-sponsored demonstration against same-sex marriage outside Congress in Buenos Aires, as senators prepare to vote on a bill which would make Argentina the first South American country to legalize same-sex marriage. 
 
 Argentina becomes the first Latin American country to legalise gay marriage after the Senate votes in favour.

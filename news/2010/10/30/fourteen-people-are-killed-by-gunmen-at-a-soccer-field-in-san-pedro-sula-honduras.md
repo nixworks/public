@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/30/fourteen-people-are-killed-by-gunmen-at-a-socce
 
 ### [2010-10-30](/news/2010/10/30/index.md)
 
-##### soccer
+##### Soccer
 # Fourteen people are killed by gunmen at a soccer field in San Pedro Sula, Honduras. 
 
 

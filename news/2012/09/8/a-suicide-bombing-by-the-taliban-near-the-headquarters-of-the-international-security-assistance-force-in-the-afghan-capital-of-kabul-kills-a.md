@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headqu
 
 ### [2012-09-8](/news/2012/09/8/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing by the Taliban near the headquarters of the International Security Assistance Force in the Afghan capital of Kabul kills at least six people. 
 
 A teenage suicide bomber kills at least six people including a number of children near the headquarters of the Nato-led coalition in the Afghan capital Kabul.

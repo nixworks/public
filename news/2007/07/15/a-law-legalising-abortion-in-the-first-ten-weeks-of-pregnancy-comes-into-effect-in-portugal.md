@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/15/a-law-legalising-abortion-in-the-first-ten-week
 
 ### [2007-07-15](/news/2007/07/15/index.md)
 
-##### abortion
+##### Abortion
 #  A law legalising abortion in the first ten weeks of pregnancy comes into effect in Portugal. 
 
 

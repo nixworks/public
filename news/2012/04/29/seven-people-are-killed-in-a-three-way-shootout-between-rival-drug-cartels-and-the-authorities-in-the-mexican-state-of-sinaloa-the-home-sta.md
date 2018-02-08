@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/29/seven-people-are-killed-in-a-three-way-shootout
 
 ### [2012-04-29](/news/2012/04/29/index.md)
 
-##### drug cartels
+##### Drug cartels
 # Seven people are killed in a three-way shootout between rival drug cartels and the authorities in the Mexican state of Sinaloa, the home-state of Joaqun Guzmn Loera, the country's most-wanted drug lord. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

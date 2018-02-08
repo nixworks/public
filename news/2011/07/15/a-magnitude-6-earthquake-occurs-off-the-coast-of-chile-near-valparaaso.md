@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/15/a-magnitude-6-earthquake-occurs-off-the-coast-o
 
 ### [2011-07-15](/news/2011/07/15/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 6 earthquake occurs off the coast of Chile near Valparaiso. 
 
 A 6.0-magnitude earthquake struck offshore some 58 miles south-southwest of Valparaiso, Chile, on Friday, the U.S. Geological Survey said.

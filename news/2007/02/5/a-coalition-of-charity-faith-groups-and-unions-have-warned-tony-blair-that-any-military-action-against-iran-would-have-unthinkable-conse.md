@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/5/a-coalition-of-charity-faith-groups-and-unions-h
 
 ### [2007-02-5](/news/2007/02/5/index.md)
 
-##### charity
+##### Charity
 #  A coalition of charity, faith groups and unions have warned Tony Blair that any military action against Iran would have "unthinkable" consequences. 
 
 

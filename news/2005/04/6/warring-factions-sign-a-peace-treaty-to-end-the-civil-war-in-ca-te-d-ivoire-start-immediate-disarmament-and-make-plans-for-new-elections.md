@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/6/warring-factions-sign-a-peace-treaty-to-end-the-
 
 ### [2005-04-6](/news/2005/04/6/index.md)
 
-##### peace treaty
+##### Peace treaty
 #  Warring factions sign a peace treaty to end the civil war in Cote d'Ivoire, start immediate disarmament and make plans for new elections. 
 
 

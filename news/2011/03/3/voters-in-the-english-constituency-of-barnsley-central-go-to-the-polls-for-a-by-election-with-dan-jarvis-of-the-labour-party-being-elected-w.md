@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/3/voters-in-the-english-constituency-of-barnsley-c
 
 ### [2011-03-3](/news/2011/03/3/index.md)
 
-##### constituency
+##### Constituency
 # Voters in the English constituency of Barnsley Central go to the polls for a by-election with Dan Jarvis of the Labour Party being elected with a strong swing in his favour. 
 
 Labour hold the Barnsley Central seat in a by-election, while the Lib Dems slip to sixth in the South Yorkshire seat.

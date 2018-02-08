@@ -25,7 +25,7 @@ _Context: Aleutian Islands_
 ### [Indonesia's highest court has upheld the death sentence for Lindsay Sandiford, a British woman convicted of smuggling $2.5 million worth of cocaine into the resort island of Bali, a court official has said. ](/news/2013/08/30/indonesia-s-highest-court-has-upheld-the-death-sentence-for-lindsay-sandiford-a-british-woman-convicted-of-smuggling-2-5-million-worth-of.md)
 _Context: Lindsay Sandiford_
 
-##### Lebanon
+##### Lebanese
 ### [Lebanon has charged five men, including a Syrian army officer and a Sunni cleric close to the Syrian government, over bomb attacks on two mosques in the northern city of Tripoli last week that killed at least 47 people ](/news/2013/08/30/lebanon-has-charged-five-men-including-a-syrian-army-officer-and-a-sunni-cleric-close-to-the-syrian-government-over-bomb-attacks-on-two-mo.md)
 Two clerics and a Syrian army officer among those accused of plotting deadly attacks that killed 47 people.
 
@@ -33,7 +33,7 @@ Two clerics and a Syrian army officer among those accused of plotting deadly att
 ### [A 15-year-old student is shot and wounded at Carver High School in Winston-Salem, North Carolina, U.S. An 18-year-old student is arrested and charged. ](/news/2013/08/30/a-15-year-old-student-is-shot-and-wounded-at-carver-high-school-in-winston-salem-north-carolina-u-s-an-18-year-old-student-is-arrested-an.md)
 A shooting at Carver High School on Friday left one student with non-life-threatening injuries and another student in custody.
 
-##### canyon
+##### Canyon
 ### [Scientists discover an 800km long canyon that is up to 800m deep in places beneath the ice sheet that covers Greenland. ](/news/2013/08/30/scientists-discover-an-800km-long-canyon-that-is-up-to-800m-deep-in-places-beneath-the-ice-sheet-that-covers-greenland.md)
 One of the biggest canyons in the world has been found beneath the ice sheet that smothers most of Greenland.
 

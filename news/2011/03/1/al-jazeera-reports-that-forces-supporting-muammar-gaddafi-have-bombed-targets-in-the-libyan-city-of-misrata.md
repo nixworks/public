@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muamma
 
 ### [2011-03-1](/news/2011/03/1/index.md)
 
-##### civil war
+##### Civil war
 # Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. 
 
 

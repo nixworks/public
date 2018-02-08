@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/11/an-earthquake-occurs-off-the-coast-of-aceh-in-i
 
 ### [2012-04-11](/news/2012/04/11/index.md)
 
-##### earthquake
+##### Earthquake
 # An earthquake occurs off the coast of Aceh in Indonesia with a preliminary magnitude of 8.6 and a tsunami warning issued. There are five indirect fatalities. 
 
 AS IT HAPPENED: A magnitude-8.2 aftershock has followed a massive 8.6 quake that struck off the western coast of the Indonesian island of Sumatra, sparking scenes of panic and triggering a tsunami warning across the Indian Ocean.

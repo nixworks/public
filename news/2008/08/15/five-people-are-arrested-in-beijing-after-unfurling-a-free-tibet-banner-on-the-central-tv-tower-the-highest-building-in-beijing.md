@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/15/five-people-are-arrested-in-beijing-after-unfur
 
 ### [2008-08-15](/news/2008/08/15/index.md)
 
-##### free Tibet
+##### Free Tibet
 #  Five people are arrested in Beijing after unfurling a "free Tibet" banner on the Central TV Tower, the highest building in Beijing. 
 
 

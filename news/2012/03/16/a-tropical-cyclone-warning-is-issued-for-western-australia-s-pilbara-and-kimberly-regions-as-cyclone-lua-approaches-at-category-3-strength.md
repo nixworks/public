@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/16/a-tropical-cyclone-warning-is-issued-for-wester
 
 ### [2012-03-16](/news/2012/03/16/index.md)
 
-##### tropical cyclone
+##### Tropical cyclone
 # A tropical cyclone warning is issued for Western Australia's Pilbara and Kimberly regions as Cyclone Lua approaches at Category 3 strength. 
 
 

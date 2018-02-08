@@ -5,19 +5,19 @@ Formats: [HTML](2014/11/2/index.html)  [JSON](2014/11/2/index.json)  [XML](2014/
 
 ##### Sunni
 ### [Over 300 members of the Sunni Albu Nimr tribe are executed by ISIS militants in Anbar Province, western Iraq. ](/news/2014/11/2/over-300-members-of-the-sunni-albu-nimr-tribe-are-executed-by-isis-militants-in-anbar-province-western-iraq.md)
-_Context: Anbar Province, Iraq, Albu Nimr, Sunni, Islamic State of Iraq and Syria_
+_Context: Iraq, Anbar Province, Sunni, Albu Nimr, Islamic State of Iraq and Syria_
 
 ##### Islamist
 ### [The death toll surpasses 200 from fighting between loyalist troops and Islamist militias in Benghazi since an offensive launched by Khalifa Hifter began two weeks ago. ](/news/2014/11/2/the-death-toll-surpasses-200-from-fighting-between-loyalist-troops-and-islamist-militias-in-benghazi-since-an-offensive-launched-by-khalifa.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### a suicide bombing
+##### A suicide bombing
 ### [At least 60 people were killed and 110 injured by a suicide bombing in the Pakistani city of Lahore. ](/news/2014/11/2/at-least-60-people-were-killed-and-110-injured-by-a-suicide-bombing-in-the-pakistani-city-of-lahore.md)
-_Context: Lahore, a suicide bombing, Pakistan_
+_Context: a suicide bombing, Pakistan, Lahore_
 
 ##### Abu Sayyaf
 ### [Abu Sayyaf guerillas kill six Philippine Army soldiers outside the town of Basilan. ](/news/2014/11/2/abu-sayyaf-guerillas-kill-six-philippine-army-soldiers-outside-the-town-of-basilan.md)
-_Context: army, guerillas, Abu Sayyaf, Basilan island_
+_Context: army, Basilan island, guerillas, Abu Sayyaf_
 
 ##### Kenyan police
 ### [An assault on a police barracks by suspected members of the Mombasa Republican Council separatist group leaves one officer and six attackers dead in Mombasa, Kenya. ](/news/2014/11/2/an-assault-on-a-police-barracks-by-suspected-members-of-the-mombasa-republican-council-separatist-group-leaves-one-officer-and-six-attackers.md)
@@ -27,13 +27,13 @@ Kenyan soldiers shot dead six suspected members of a separatist group after they
 ### [Hamas arrested five people on Sunday suspected of firing a rocket into Israel in violation of the truce. ](/news/2014/11/2/hamas-arrested-five-people-on-sunday-suspected-of-firing-a-rocket-into-israel-in-violation-of-the-truce.md)
 Gaza&#8217;s rulers deny responsibility for Friday&#8217;s attack and say they are committed to August ceasefire
 
-##### hit-and-run
+##### Hit-and-run
 ### [Multiple people are arrested for their alleged involvement with a hit-and-run that killed three 13-year-old trick-or-treaters in Santa Ana, California, U.S. ](/news/2014/11/2/multiple-people-are-arrested-for-their-alleged-involvement-with-a-hit-and-run-that-killed-three-13-year-old-trick-or-treaters-in-santa-ana.md)
-_Context: trick-or-treat, California, hit-and-run, Santa Ana_
+_Context: trick-or-treat, hit-and-run, Santa Ana, California_
 
 ##### Donetsk People's Republic
 ### [Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/voters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respectively-in-donetsk-and-luhansk-go-t.md)
-_Context: Donetsk People's Republic, Russia, Luhansk, Donetsk, Lugansk People's Republic, Alexander Zakharchenko, parliamentary and presidential elections_
+_Context: Donetsk People's Republic, Lugansk People's Republic, Luhansk, parliamentary and presidential elections, Alexander Zakharchenko, Donetsk, Russia_
 
 ## [Previous Day...](/news/2014/11/1/index.md)
 

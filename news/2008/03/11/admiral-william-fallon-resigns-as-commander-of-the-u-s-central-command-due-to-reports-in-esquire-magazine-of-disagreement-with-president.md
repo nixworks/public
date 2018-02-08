@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/11/admiral-william-fallon-resigns-as-commander-of-
 
 ### [2008-03-11](/news/2008/03/11/index.md)
 
-##### admiral
+##### Admiral
 #  Admiral William Fallon resigns as Commander of the U.S. Central Command due to reports in "Esquire Magazine" of disagreement with President George W. Bush over the administration's policy with Iran. 
 
 The top U.S. commander for the Iraq and Afghanistan wars said on Tuesday he would quit after a magazine reported he was pushing President George W. Bush to avoid war with Iran.

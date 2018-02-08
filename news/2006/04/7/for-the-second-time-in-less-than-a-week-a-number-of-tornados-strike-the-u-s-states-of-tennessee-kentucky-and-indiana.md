@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/7/for-the-second-time-in-less-than-a-week-a-number
 
 ### [2006-04-7](/news/2006/04/7/index.md)
 
-##### second time
+##### Second time
 #  For the second time in less than a week, a number of tornados strike the U.S. states of Tennessee, Kentucky, and Indiana. 
 
 Residents labored Saturday to begin rebuilding a day after tornadoes killed 12 people in Tennessee, the second wave of violent weather to hit the state in less than a week.

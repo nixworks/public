@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/16/bangladesh-announces-plans-to-build-a-giant-ref
 
 ### [2017-09-16](/news/2017/09/16/index.md)
 
-##### refugees
+##### Refugees
 # Bangladesh announces plans to build a giant refugee camp the size of a small city to house nearly 400,000 Rohingya refugees. 
 
 Shelters will be rapidly built for up to 400,000 people fleeing Myanmar, under a government plan.

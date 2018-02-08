@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/5/american-hip-hop-band-the-beastie-boys-win-a-1-7
 
 ### [2014-06-5](/news/2014/06/5/index.md)
 
-##### hip hop
+##### Hip hop
 # American hip hop band the Beastie Boys win a $1.7 million copyright violation suit against the makers of Monster Energy drink for unauthorised use of their music in advertising. 
 
 

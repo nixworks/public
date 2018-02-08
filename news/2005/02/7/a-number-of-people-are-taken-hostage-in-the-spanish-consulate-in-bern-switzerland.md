@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/7/a-number-of-people-are-taken-hostage-in-the-span
 
 ### [2005-02-7](/news/2005/02/7/index.md)
 
-##### hostage
+##### Hostage
 #  A number of people are taken hostage in the Spanish consulate in Bern, Switzerland. 
 
 

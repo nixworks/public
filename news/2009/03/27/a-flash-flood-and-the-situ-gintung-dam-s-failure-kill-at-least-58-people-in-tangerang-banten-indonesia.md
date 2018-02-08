@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/27/a-flash-flood-and-the-situ-gintung-dam-s-failur
 
 ### [2009-03-27](/news/2009/03/27/index.md)
 
-##### flash flood
+##### Flash flood
 #  A flash flood and the Situ Gintung dam's failure kill at least 58 people in Tangerang, Banten, Indonesia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of
 
 ### [2007-08-14](/news/2007/08/14/index.md)
 
-##### tropical storm
+##### Tropical storm
 #  A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. 
 
 

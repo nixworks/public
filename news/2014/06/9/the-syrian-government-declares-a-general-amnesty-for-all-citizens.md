@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/9/the-syrian-government-declares-a-general-amnesty
 
 ### [2014-06-9](/news/2014/06/9/index.md)
 
-##### amnesty
+##### Amnesty
 # The Syrian government declares a general amnesty for all citizens. 
 
 

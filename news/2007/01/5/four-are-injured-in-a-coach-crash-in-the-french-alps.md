@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/5/four-are-injured-in-a-coach-crash-in-the-french-
 
 ### [2007-01-5](/news/2007/01/5/index.md)
 
-##### coach
+##### Coach
 #  Four are injured in a coach crash in the French Alps. 
 
 

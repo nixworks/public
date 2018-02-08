@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/19/a-corporal-in-the-duke-of-lancaster-s-regiment-
 
 ### [2006-09-19](/news/2006/09/19/index.md)
 
-##### corporal
+##### Corporal
 #  A corporal in the Duke of Lancaster's Regiment becomes the first British soldier to confess to committing a war crime in Iraq, after admitting inhumane treatment of civilians, at a court martial. 
 
 

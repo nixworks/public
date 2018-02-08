@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/2/the-first-vaccine-for-h1n1-swine-flu-virus-strai
 
 ### [2009-07-2](/news/2009/07/2/index.md)
 
-##### vaccine
+##### Vaccine
 #  The first vaccine for H1N1 swine flu virus strain has been made by Novartis in Marburg, Germany. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/26/a-nationwide-mid-morning-power-outage-hits-colo
 
 ### [2007-04-26](/news/2007/04/26/index.md)
 
-##### power outage
+##### Power outage
 #  A nationwide mid-morning power outage hits Colombia; government sources discount guerrilla activity and blame a technical fault. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/21/a-special-prosecutor-clears-south-korean-presid
 
 ### [2008-02-21](/news/2008/02/21/index.md)
 
-##### special prosecutor
+##### Special prosecutor
 #  A special prosecutor clears South Korean president-elect Lee Myung-bak of fraud allegations. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/29/u-s-defense-contractor-lockheed-martin-the-larg
 
 ### [2011-05-29](/news/2011/05/29/index.md)
 
-##### defense contractor
+##### Defense contractor
 # U.S. defense contractor Lockheed Martin, the largest military contractor in the world, is targeted by a "significant and tenacious" cyber attack. 
 
 

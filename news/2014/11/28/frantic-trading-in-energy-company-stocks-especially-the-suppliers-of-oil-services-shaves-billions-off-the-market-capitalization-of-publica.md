@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/28/frantic-trading-in-energy-company-stocks-especi
 
 ### [2014-11-28](/news/2014/11/28/index.md)
 
-##### market capitalization
+##### Market capitalization
 # Frantic trading in energy company stocks, especially the suppliers of oil-services, shaves billions off the market capitalization of publically traded businesses within this sector. 
 
 

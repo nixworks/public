@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/13/a-tornado-strikes-new-orleans-louisiana-leaving
 
 ### [2007-02-13](/news/2007/02/13/index.md)
 
-##### tornado
+##### Tornado
 #  A tornado strikes New Orleans, Louisiana leaving one dead and three people injured. 
 
 

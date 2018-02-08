@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/18/12-people-are-killed-in-an-avalanche-on-mount-e
 
 ### [2014-04-18](/news/2014/04/18/index.md)
 
-##### are killed
+##### Are killed
 # 12 people are killed in an avalanche on Mount Everest. 
 
 Three others injured and seven missing after avalanche caught work party as they prepared route for fee-paying western climbers

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/1/clashes-between-al-qaeda-and-security-forces-lea
 
 ### [2014-11-1](/news/2014/11/1/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # Clashes between al-Qaeda and security forces leave 20 soldiers and 3 militants dead in Hodeidah province of western Yemen. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-d
 
 ### [2011-07-20](/news/2011/07/20/index.md)
 
-##### famine
+##### Famine
 # 2011 Horn of Africa famine: The United Nations declares a famine in southern Somalia. 
 
 

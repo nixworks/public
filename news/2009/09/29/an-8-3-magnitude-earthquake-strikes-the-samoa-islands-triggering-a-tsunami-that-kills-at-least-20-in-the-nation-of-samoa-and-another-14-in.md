@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/29/an-8-3-magnitude-earthquake-strikes-the-samoa-i
 
 ### [2009-09-29](/news/2009/09/29/index.md)
 
-##### magnitude
+##### Magnitude
 #  An 8.3 magnitude earthquake strikes the Samoa Islands, triggering a tsunami that kills at least 20 in the nation of Samoa and another 14 in American Samoa. 
 
 Authorities canceled a Pacific tsunami warning on Wednesday after a huge sub-sea quake sent waves over the Samoa islands, reportedly killing about 14 people but falling short of a regional disaster.

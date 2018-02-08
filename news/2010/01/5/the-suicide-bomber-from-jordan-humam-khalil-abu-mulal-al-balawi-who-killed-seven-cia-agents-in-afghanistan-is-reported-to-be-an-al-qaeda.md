@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/5/the-suicide-bomber-from-jordan-humam-khalil-abu-
 
 ### [2010-01-5](/news/2010/01/5/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # The suicide bomber from Jordan, Humam Khalil Abu-Mulal al-Balawi, who killed seven CIA agents in Afghanistan, is reported to be an al-Qaeda triple agent. 
 
 

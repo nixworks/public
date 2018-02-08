@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/10/four-people-die-after-two-tractor-trailers-coll
 
 ### [2008-01-10](/news/2008/01/10/index.md)
 
-##### tractor trailer
+##### Tractor trailer
 #  Four people die after two tractor trailers collide crossing the Pharr-Reynosa International Bridge on the Mexico-United States border. 
 
 

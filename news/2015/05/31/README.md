@@ -5,11 +5,11 @@ Formats: [HTML](2015/05/31/index.html)  [JSON](2015/05/31/index.json)  [XML](201
 
 ##### Sinai insurgency
 ### [Egyptian security officials report that militants have blown up a natural gas pipeline leading to Israel outside El-Arish, the provincial capital of North Sinai. That pipeline was attacked at least 20 times in the last 5 years. ](/news/2015/05/31/egyptian-security-officials-report-that-militants-have-blown-up-a-natural-gas-pipeline-leading-to-israel-outside-el-arish-the-provincial-ca.md)
-_Context: North Sinai, natural gas, El-Arish, Israel, Sinai insurgency, Egypt_
+_Context: El-Arish, Egypt, North Sinai, Sinai insurgency, natural gas, Israel_
 
 ##### Libyan Civil War (2014-present)
 ### [A suicide bomber strikes a checkpoint near the city of Misrata causing several deaths. ](/news/2015/05/31/a-suicide-bomber-strikes-a-checkpoint-near-the-city-of-misrata-causing-several-deaths.md)
-_Context: Libyan Civil War (2014-present), suicide bomber, Misrata_
+_Context: suicide bomber, Misrata, Libyan Civil War (2014-present)_
 
 ##### Boko Haram
 ### [A bomb explodes at a market place in the Nigerian city of Maiduguri killing at least four people. ](/news/2015/05/31/a-bomb-explodes-at-a-market-place-in-the-nigerian-city-of-maiduguri-killing-at-least-four-people.md)
@@ -19,9 +19,9 @@ _Context: Maiduguri, Nigeria, Boko Haram_
 ### [The death toll from the heat wave reaches 2,100 with intense heat to continue until Monday. ](/news/2015/05/31/the-death-toll-from-the-heat-wave-reaches-2-100-with-intense-heat-to-continue-until-monday.md)
 _Context: 2015 Indian heat wave_
 
-##### suspicions
+##### Suspicions
 ### [Thousands of schools open in Nepal after the devastating earthquake of April 2015 which destroyed more than 25,000 classrooms and killed more than 8,000 people. ](/news/2015/05/31/thousands-of-schools-open-in-nepal-after-the-devastating-earthquake-of-april-2015-which-destroyed-more-than-25-000-classrooms-and-killed-mor.md)
-_Context: suspicions, Nepal_
+_Context: Nepal, suspicions_
 
 ##### Russia
 ### [Russia announces that it will join the People's Republic of China in naval drills in the South China Sea in May 2016. ](/news/2015/05/31/russia-announces-that-it-will-join-the-people-s-republic-of-china-in-naval-drills-in-the-south-china-sea-in-may-2016.md)
@@ -37,7 +37,7 @@ US Secretary of State John Kerry is taken to hospital in Switzerland after break
 
 ##### Qatar
 ### [Qatar agrees to temporarily extend travel bans on five senior Taliban leaders released last year from Guantanamo Bay in exchange for releasing American sergeant Bowe Bergdahl. ](/news/2015/05/31/qatar-agrees-to-temporarily-extend-travel-bans-on-five-senior-taliban-leaders-released-last-year-from-guantanamo-bay-in-exchange-for-releasi.md)
-_Context: Bowe Bergdahl, Guantanamo Bay, Qatar, Taliban_
+_Context: Bowe Bergdahl, Qatar, Taliban, Guantanamo Bay_
 
 ##### Singapore
 ### [One man is dead and two are detained after an incident at Singapore's Shangri-La Hotel which is currently hosting a high-level international dialogue over the South China Sea. ](/news/2015/05/31/one-man-is-dead-and-two-are-detained-after-an-incident-at-singapore-s-shangri-la-hotel-which-is-currently-hosting-a-high-level-international.md)
@@ -45,11 +45,11 @@ Substances believed to be controlled drugs were found in what police said was li
 
 ##### Patriot Act
 ### [Key sections of the Patriot Act expire at midnight (Eastern Daylight Time) due to failure of the United States Senate to agree to an extension. It is highly likely that USA Freedom Act will be passed soon, but the bulk collection of domestic telephone data by the National Security Agency is expected to end. ](/news/2015/05/31/key-sections-of-the-patriot-act-expire-at-midnight-eastern-daylight-time-due-to-failure-of-the-united-states-senate-to-agree-to-an-extensi.md)
-_Context: National Security Agency, Patriot Act, Eastern Daylight Time, United States Senate, USA Freedom Act_
+_Context: National Security Agency, Eastern Daylight Time, Patriot Act, United States Senate, USA Freedom Act_
 
 ##### East African Community
 ### [The East African Community calls on Burundi to postpone its presidential election due to unrest sparked by the decision by President Pierre Nkurunziza to run for a third term. ](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.md)
-_Context: Burundi, Presidents, East African Community, Burundian presidential election, 2015, Pierre Nkurunziza, 2015 Burundian unrest_
+_Context: Burundian presidential election, 2015, 2015 Burundian unrest, Pierre Nkurunziza, Presidents, Burundi, East African Community_
 
 ## [Previous Day...](/news/2015/05/30/index.md)
 

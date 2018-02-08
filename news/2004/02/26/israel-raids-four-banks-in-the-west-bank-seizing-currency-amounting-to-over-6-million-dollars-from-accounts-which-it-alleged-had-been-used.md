@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/26/israel-raids-four-banks-in-the-west-bank-seizin
 
 ### [2004-02-26](/news/2004/02/26/index.md)
 
-##### bank
+##### Bank
 #  Israel raids four banks in the West Bank seizing currency amounting to over 6 million dollars from accounts which it alleged had been used to fund terrorism. Israel claims it will use the funds for humanitarian projects in Palestinian areas. The U.S. State Department criticized the Israeli raid, and Palestinian Arabs condemned it utterly. 
 
 

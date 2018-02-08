@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/16/al-qaeda-in-the-arabian-peninsula-announces-tha
 
 ### [2015-06-16](/news/2015/06/16/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. 
 
 Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda in the Arabian Peninsula - has been killed in a US drone strike in Yemen.

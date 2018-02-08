@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-a
 
 ### [2008-02-28](/news/2008/02/28/index.md)
 
-##### militant
+##### Militant
 #  At least ten militants are killed in a rocket attack on a house in the Pakistani village of Kalosha in South Waziristan near the Afghanistan border. 
 
 

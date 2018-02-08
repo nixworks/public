@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/19/a-suicide-bomber-kills-16-syrian-army-soldiers-
 
 ### [2013-10-19](/news/2013/10/19/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 16 Syrian Army soldiers at a checkpoint near Damascus. 
 
 

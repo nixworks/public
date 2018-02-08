@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/27/the-government-declares-a-state-of-emergency-ov
 
 ### [2008-11-27](/news/2008/11/27/index.md)
 
-##### state of emergency
+##### State of emergency
 #  The government declares a state of emergency over two airports. 
 
 Thai anti-government protesters have blockaded and shut down a second Bangkok airport, an official said, just over a day after they forced the closure of the main international airport.

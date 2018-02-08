@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/5/american-jurist-john-roberts-is-nominated-by-us-
 
 ### [2005-09-5](/news/2005/09/5/index.md)
 
-##### jurist
+##### Jurist
 #  American jurist John Roberts is nominated by US President George W. Bush as the next Chief Justice of the United States. [http:--www.msnbc.msn.com-id-9215790- (MSNBC)] Bush withdrew Roberts' original nomination to succeed retiring Associate Justice Sandra Day O'Connor.
 
 

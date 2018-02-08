@@ -7,7 +7,7 @@ Formats: [HTML](2017/06/27/index.html)  [JSON](2017/06/27/index.json)  [XML](201
 ### [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md)
 Analysts believe the attack could be connected to the Russian-backed insurgency in eastern Ukraine.
 
-##### ongoing protests
+##### Ongoing protests
 ### [Armed civilian groups attack the National Assembly building, after a clash between lawmakers and the Bolivarian National Guard (GNB), leaving various legislators and journalists injured. Opposition legislator and President of the Assembly Julio Borges blames President Nicolas Maduro for the attack. ](/news/2017/06/27/armed-civilian-groups-attack-the-national-assembly-building-after-a-clash-between-lawmakers-and-the-bolivarian-national-guard-gnb-leavin.md)
 Armed civilian groups have attacked the Venezuelan Parliament building after a clash between lawmakers and the military police of the Bolivarian National Guard.
 
@@ -33,11 +33,11 @@ U.S. Senate Republican leaders postponed a vote on a healthcare overhaul on Tues
 
 ##### Political appointments of Donald Trump
 ### [The White House announces that President Trump plans to nominate Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics. Textron Systems is a defense contractor. ](/news/2017/06/27/the-white-house-announces-that-president-trump-plans-to-nominate-textron-systems-chief-executive-ellen-lord-for-under-secretary-of-defense-f.md)
-_Context: Textron Systems, Political appointments of Donald Trump, Under Secretary of Defense for Acquisition, Technology and Logistics_
+_Context: Under Secretary of Defense for Acquisition, Technology and Logistics, Textron Systems, Political appointments of Donald Trump_
 
 ##### Social networking service
 ### [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twitt.md)
-_Context: Twitter, Social networking service, Facebook_
+_Context: Twitter, Facebook, Social networking service_
 
 ## [Previous Day...](/news/2017/06/26/index.md)
 

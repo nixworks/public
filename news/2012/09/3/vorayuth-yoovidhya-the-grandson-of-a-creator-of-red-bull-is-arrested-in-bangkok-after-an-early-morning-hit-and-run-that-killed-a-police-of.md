@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/3/vorayuth-yoovidhya-the-grandson-of-a-creator-of-
 
 ### [2012-09-3](/news/2012/09/3/index.md)
 
-##### a creator
+##### A creator
 # Vorayuth Yoovidhya, the grandson of a creator of Red Bull, is arrested in Bangkok after an early morning hit-and-run that killed a police officer. 
 
 A grandson of the creator of the Red Bull energy drink has been arrested for driving a Ferrari that struck a police officer and dragged his dead body down a Bangkok street in an early-morning hit-and-run, police said.

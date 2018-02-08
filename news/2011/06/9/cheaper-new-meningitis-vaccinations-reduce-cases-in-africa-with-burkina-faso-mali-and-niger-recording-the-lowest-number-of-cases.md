@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/9/cheaper-new-meningitis-vaccinations-reduce-cases
 
 ### [2011-06-9](/news/2011/06/9/index.md)
 
-##### meningitis
+##### Meningitis
 # Cheaper new meningitis vaccinations reduce cases in Africa, with Burkina Faso, Mali and Niger recording the lowest number of cases. 
 
 

@@ -29,7 +29,7 @@ New Zealand will go to the polls on September 20. - New Zealand Herald
 
 ##### Prime Minister
 ### [The Prime Minister of Papua New Guinea Peter O'Neill sacks the Treasurer Don Polye and the Minister for Industrial Relations Mark Maipakai. ](/news/2014/03/10/the-prime-minister-of-papua-new-guinea-peter-o-neill-sacks-the-treasurer-don-polye-and-the-minister-for-industrial-relations-mark-maipakai.md)
-_Context: Don Polye, Peter O'Neill, Prime Minister_
+_Context: Prime Minister, Don Polye, Peter O'Neill_
 
 ##### David J. Skorton
 ### [Dr. David J. Skorton, current President of Cornell University, is chosen to be the new head of the Smithsonian Institution. ](/news/2014/03/10/dr-david-j-skorton-current-president-of-cornell-university-is-chosen-to-be-the-new-head-of-the-smithsonian-institution.md)

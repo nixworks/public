@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/8/an-international-search-and-rescue-mission-is-la
 
 ### [2011-05-8](/news/2011/05/8/index.md)
 
-##### search and rescue
+##### Search and rescue
 # An international search and rescue mission is launched in Kiribati after six teenagers on an outrigger canoe go missing in the Pacific Ocean. 
 
 

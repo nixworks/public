@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/12/pakistan-test-fires-a-nuclear-capable-missile-w
 
 ### [2004-10-12](/news/2004/10/12/index.md)
 
-##### nuclear weapon
+##### Nuclear weapon
 #  Pakistan test fires a nuclear-capable missile with a range of 1,500 km (930 miles), sufficient to reach most cities in neighboring India. Pakistan and India routinely test their missiles. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/16/the-state-funeral-in-libreville-of-former-presi
 
 ### [2009-06-16](/news/2009/06/16/index.md)
 
-##### died in 2009
+##### Died in 2009
 #  The state funeral in Libreville of former President of Gabon Omar Bongo is attended by dignitaries from 40 nations. 
 
 French President NicolasSarkozy and a dozen heads of state from around Africa gatheredin Gabon on Tuesday to mark the death of President Omar Bongoafter more than four decades in power.

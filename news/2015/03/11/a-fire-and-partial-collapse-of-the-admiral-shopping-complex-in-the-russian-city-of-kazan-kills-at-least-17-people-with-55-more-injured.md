@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/11/a-fire-and-partial-collapse-of-the-admiral-shop
 
 ### [2015-03-11](/news/2015/03/11/index.md)
 
-##### fire and partial collapse
+##### Fire and partial collapse
 # A fire and partial collapse of the Admiral shopping complex in the Russian city of Kazan kills at least 17 people with 55 more injured. 
 
 

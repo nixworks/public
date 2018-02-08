@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/12/the-death-toll-in-landslides-in-the-province-of
 
 ### [2013-01-12](/news/2013/01/12/index.md)
 
-##### landslide
+##### Landslide
 # The death toll in landslides in the province of Yunnan, China rises to 46, according to state media. 
 
 At least 46 people, including children, are now known to have died in a landslide in southern China, state media report.

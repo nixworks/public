@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/5/a-woman-who-was-allegedly-raped-by-donald-trump-
 
 ### [2016-11-5](/news/2016/11/5/index.md)
 
-##### rape
+##### Rape
 # A woman who was allegedly raped by Donald Trump drops her lawsuit against the presidential candidate. 
 
 A woman who was suing Republican presidential candidate Donald Trump for allegedly tying her to a bed and raping her while she was a teenager in 1994 has backed off her accusations, Politico reported.

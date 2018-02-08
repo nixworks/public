@@ -13,17 +13,17 @@ The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many re
 
 ##### Roche Holding AG
 ### [Roche Holding AG says that its US-based Genentech subsidiary will purchase American biotechnology company Seragon Pharmaceuticals, Inc for up to $1.725 billion in cash and contingency payments. ](/news/2014/07/2/roche-holding-ag-says-that-its-us-based-genentech-subsidiary-will-purchase-american-biotechnology-company-seragon-pharmaceuticals-inc-for-u.md)
-_Context: Genentech Inc., Roche Holding AG, biotechnology_
+_Context: Roche Holding AG, biotechnology, Genentech Inc._
 
 ##### 2014 Atlantic hurricane season
 ### [Tropical Storm Arthur heads towards the US coast with a hurricane warning in place for the state of North Carolina. A mandatory evacuation is ordered for Hatteras Island in the Outer Banks. ](/news/2014/07/2/tropical-storm-arthur-heads-towards-the-us-coast-with-a-hurricane-warning-in-place-for-the-state-of-north-carolina-a-mandatory-evacuation-i.md)
-_Context: Outer Banks, North Carolina, 2014 Atlantic hurricane season, Hatteras Island, Arthur_
+_Context: Outer Banks, 2014 Atlantic hurricane season, North Carolina, Hatteras Island, Arthur_
 
 ##### Manitoba
 ### [Widespread flooding in the Canadian provinces of Manitoba and Saskatchewan leads to the declaration of states of emergencies in 87 municipalities. ](/news/2014/07/2/widespread-flooding-in-the-canadian-provinces-of-manitoba-and-saskatchewan-leads-to-the-declaration-of-states-of-emergencies-in-87-municipal.md)
 Widespread overland flooding in Saskatchewan and Manitoba has prompted the evacuation of some homes in western Manitoba on Tuesday night.
 
-##### food truck
+##### Food truck
 ### [Eleven people are injured including 2 in critical condition after a food truck explodes due to a ruptured propane tank in northern Philadelphia. ](/news/2014/07/2/eleven-people-are-injured-including-2-in-critical-condition-after-a-food-truck-explodes-due-to-a-ruptured-propane-tank-in-northern-philadelp.md)
 A propane tank on a food truck in Philadelphia exploded into a fireball, critically injuring a mother and daughter and sending at least nine others to the hospital, police said.
 
@@ -47,13 +47,13 @@ Former PM criticised over link to United Arab Emirates-funded programme that pro
 ### [South Korea reports that North Korea fired two short range missiles into the Pacific Ocean from the coastal city of Wonsan. ](/news/2014/07/2/south-korea-reports-that-north-korea-fired-two-short-range-missiles-into-the-pacific-ocean-from-the-coastal-city-of-wonsan.md)
 _Context: Wonsan_
 
-##### chemical weapons
+##### Chemical weapons
 ### [A Danish ship carrying hundreds of tons of Syrian chemical weapons arrives in the Italian port of Gioia Tauro prior to a rendezvous with an American ship that will destroy the weapons at sea. ](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.md)
 _Context: chemical weapons, Gioia Tauro_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is charged with corruption and influence peddling. ](/news/2014/07/2/former-president-of-france-nicolas-sarkozy-is-charged-with-corruption-and-influence-peddling.md)
-_Context: Nicolas Sarkozy, French President_
+_Context: French President, Nicolas Sarkozy_
 
 ##### Viviane Reding
 ### [Luxembourg's Viviane Reding, Finland's Olli Rehn, Italy's Antonio Tajani and Poland's Janusz Lewandowski step down as EU commissioners in order to take office as newly elected members of the European Parliament. ](/news/2014/07/2/luxembourg-s-viviane-reding-finland-s-olli-rehn-italy-s-antonio-tajani-and-poland-s-janusz-lewandowski-step-down-as-eu-commissioners-in-or.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/10/severe-rainstorms-have-killed-at-least-70-peopl
 
 ### [2010-05-10](/news/2010/05/10/index.md)
 
-##### tornado
+##### Tornado
 # Severe rainstorms have killed at least 70 people since a powerful tornado hit Chongqing municipality in south-western China in Dianjiang and Liangping counties. Inclement weather in the next two days will affect Guangdong, Fujian, Hunan, Jiangxi, Zhejiang, Guizhou and Yunnan provinces. 
 
 

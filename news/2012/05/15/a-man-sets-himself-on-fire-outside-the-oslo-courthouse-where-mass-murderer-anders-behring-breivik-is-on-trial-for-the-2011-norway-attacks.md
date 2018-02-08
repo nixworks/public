@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-cou
 
 ### [2012-05-15](/news/2012/05/15/index.md)
 
-##### sets herself alight
+##### Sets herself alight
 # A man sets himself on fire outside the Oslo courthouse where mass murderer Anders Behring Breivik is on trial for the 2011 Norway attacks. 
 
 

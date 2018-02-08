@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/23/power-outage-happens-all-of-southern-finland-fo
 
 ### [2003-08-23](/news/2003/08/23/index.md)
 
-##### power outage
+##### Power outage
 #  Power outage happens all of Southern Finland for 30 to 60 minutes, because one underground line in Central Helsinki short circuits. The lack of electricity begins at 20:20 and causes radio broadcasts, public lights, elevators, trains, trams and metro traffic to stop. Also people have to be evacuated in Linnanmki amusement park. 
 
 

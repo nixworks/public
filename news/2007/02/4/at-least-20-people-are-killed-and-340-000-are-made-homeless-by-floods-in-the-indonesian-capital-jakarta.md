@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/4/at-least-20-people-are-killed-and-340-000-are-ma
 
 ### [2007-02-4](/news/2007/02/4/index.md)
 
-##### floods
+##### Floods
 #  At least 20 people are killed and 340,000 are made homeless by floods in the Indonesian capital, Jakarta. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

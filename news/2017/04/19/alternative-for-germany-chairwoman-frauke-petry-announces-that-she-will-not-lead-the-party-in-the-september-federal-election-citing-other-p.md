@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
-##### caretaker
+##### Caretaker
 # Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. 
 
 

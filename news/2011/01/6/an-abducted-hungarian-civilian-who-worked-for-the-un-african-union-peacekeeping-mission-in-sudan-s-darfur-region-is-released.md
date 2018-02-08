@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/6/an-abducted-hungarian-civilian-who-worked-for-th
 
 ### [2011-01-6](/news/2011/01/6/index.md)
 
-##### conflict
+##### Conflict
 # An abducted Hungarian civilian, who worked for the UN-African Union peacekeeping mission in Sudan's Darfur region, is released. 
 
 

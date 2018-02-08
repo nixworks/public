@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/31/war-in-somalia-the-battle-of-jilib-erupts-betwe
 
 ### [2006-12-31](/news/2006/12/31/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: The Battle of Jilib erupts between the forces of the Ethiopian-backed Transitional Federal Government and the Islamic Courts Union.
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

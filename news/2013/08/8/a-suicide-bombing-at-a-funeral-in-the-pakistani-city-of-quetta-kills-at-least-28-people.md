@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/8/a-suicide-bombing-at-a-funeral-in-the-pakistani-
 
 ### [2013-08-8](/news/2013/08/8/index.md)
 
-##### suicide attack
+##### Suicide attack
 # A suicide bombing at a funeral in the Pakistani city of Quetta kills at least 28 people. 
 
 A suicide bomber targets a funeral for a policeman in south-western Pakistan killing at least 28 people including a senior police officer.

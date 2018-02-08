@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-se
 
 ### [2008-08-7](/news/2008/08/7/index.md)
 
-##### seek the impeachment
+##### Seek the impeachment
 #  Pakistan's ruling coalition announces it will seek the impeachment of President Pervez Musharraf. 
 
 

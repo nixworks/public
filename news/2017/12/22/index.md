@@ -9,7 +9,7 @@ After 1,000 days of civil war in Yemen, 8 million people are at risk of starvati
 
 ##### Protests on U.S. recognition of Jerusalem as Israeli capital
 ### [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md)
-_Context: East Jerusalem, Gaza border fence, Israel Defense Forces, Protests on U.S. recognition of Jerusalem as Israeli capital, West Bank, Palestinians_
+_Context: Protests on U.S. recognition of Jerusalem as Israeli capital, Israel Defense Forces, Palestinians, East Jerusalem, Gaza border fence, West Bank_
 
 ##### Economics of bitcoin
 ### [The digital cryptocurrency Bitcoin loses a third of its value within 24 hours. ](/news/2017/12/22/the-digital-cryptocurrency-bitcoin-loses-a-third-of-its-value-within-24-hours.md)
@@ -29,31 +29,31 @@ _Context: Philippine Coast Guard, Manila_
 
 ##### United States recognition of Jerusalem as Israeli capital
 ### [Palestinian President Mahmoud Abbas says he will not accept any U.S. plan for peace with Israel, because it recognized Jerusalem as Israel's capital. ](/news/2017/12/22/palestinian-president-mahmoud-abbas-says-he-will-not-accept-any-u-s-plan-for-peace-with-israel-because-it-recognized-jerusalem-as-israel-s.md)
-_Context: Mahmoud Abbas, United States recognition of Jerusalem as Israeli capital, Jerusalem_
+_Context: Jerusalem, Mahmoud Abbas, United States recognition of Jerusalem as Israeli capital_
 
 ##### North Korea's nuclear program
 ### [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md)
-_Context: United Nations Security Council, North Korea's nuclear program, North Korea_
+_Context: United Nations Security Council, North Korea, North Korea's nuclear program_
 
 ##### Ukraine-United States relations
 ### [The U.S. agrees to supply Ukraine with more lethal weapons, now including Javelin anti-tank missiles. ](/news/2017/12/22/the-u-s-agrees-to-supply-ukraine-with-more-lethal-weapons-now-including-javelin-anti-tank-missiles.md)
-_Context: Ukraine-United States relations, Javelin_
+_Context: Javelin, Ukraine-United States relations_
 
 ##### FBI
 ### [The Federal Bureau of Investigation arrests Everitt Aaron Jameson, a 25-year-old former Marine, on suspicion of planning a terrorist attack in the Pier 39 area over Christmas.](/news/2017/12/22/the-federal-bureau-of-investigation-arrests-everitt-aaron-jameson-a-25-year-old-former-marine-on-suspicion-of-planning-a-terrorist-attack.md)
 The man allegedly discussed with undercover agents targeting San Francisco over Christmas.
 
-##### legislature
+##### Legislature
 ### [ Pro-independence parties retain their absolute majority in the regional parliament, while the unionist Citizens party secures the highest number of seats. ](/news/2017/12/22/pro-independence-parties-retain-their-absolute-majority-in-the-regional-parliament-while-the-unionist-citizens-party-secures-the-highest-n.md)
 Separatist parties retain a slim majority but face tough coalition talks to form a government.
 
 ##### Brexit
 ### [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md)
-_Context: Home Office, British passport, United Kingdom, Brexit, European Union_
+_Context: Brexit, British passport, United Kingdom, European Union, Home Office_
 
 ##### Tax reform in the United States
 ### [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md)
-_Context: Donald Trump, Tax reform in the United States, U.S. President, Tax Cuts and Jobs Act of 2017_
+_Context: Tax reform in the United States, U.S. President, Tax Cuts and Jobs Act of 2017, Donald Trump_
 
 ## [Previous Day...](/news/2017/12/21/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/3/two-media-figures-are-sentenced-to-life-imprison
 
 ### [2003-12-3](/news/2003/12/3/index.md)
 
-##### mass media
+##### Mass media
 # Two media figures are sentenced to life imprisonment by the International Criminal Tribunal for Rwanda for fueling the 1994 Rwanda genocide; a third receives a 35-year prison term. 
 
 

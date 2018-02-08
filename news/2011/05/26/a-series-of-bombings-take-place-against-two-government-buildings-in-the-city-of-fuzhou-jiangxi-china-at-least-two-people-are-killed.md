@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/26/a-series-of-bombings-take-place-against-two-gov
 
 ### [2011-05-26](/news/2011/05/26/index.md)
 
-##### series of bombings
+##### Series of bombings
 # A series of bombings take place against two government buildings in the city of Fuzhou, Jiangxi, China; at least two people are killed. 
 
 

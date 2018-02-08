@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/24/tens-of-thousands-of-people-protest-across-russ
 
 ### [2011-12-24](/news/2011/12/24/index.md)
 
-##### protest
+##### Protest
 # Tens of thousands of people protest across Russia against parliamentary elections that they allege were rigged in favour of the ruling United Russia party. 
 
 

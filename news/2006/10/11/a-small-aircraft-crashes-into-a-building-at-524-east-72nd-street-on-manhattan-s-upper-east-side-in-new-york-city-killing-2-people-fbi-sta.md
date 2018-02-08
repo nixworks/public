@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/11/a-small-aircraft-crashes-into-a-building-at-524
 
 ### [2006-10-11](/news/2006/10/11/index.md)
 
-##### into an apartment building
+##### Into an apartment building
 #  A small aircraft crashes into a building at 524 East 72nd Street, on Manhattan's Upper East Side in New York City killing 2 people. FBI states that there is so far no reason to suspect terrorism, and the alert level hasn't been raised. The plane was registered to New York Yankees pitcher Cory Lidle. Lidle is reported to have been the pilot, and along with his flight instructor, was killed in the crash. 
 
 

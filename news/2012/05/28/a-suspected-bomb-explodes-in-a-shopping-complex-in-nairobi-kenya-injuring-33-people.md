@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex
 
 ### [2012-05-28](/news/2012/05/28/index.md)
 
-##### bomb
+##### Bomb
 # A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. 
 
 

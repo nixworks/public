@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/10/president-luiz-inacio-lula-da-silva-announces-p
 
 ### [2007-07-10](/news/2007/07/10/index.md)
 
-##### president
+##### President
 #  President Luiz Incio Lula da Silva announces plans to build a nuclear-powered submarine to patrol the waters off Brazil's coast at a cost of US$500 million. 
 
 

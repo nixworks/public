@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/11/a-suicide-bombing-in-kandahar-afghanistan-injur
 
 ### [2005-12-11](/news/2005/12/11/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bombing in Kandahar, Afghanistan, injures 3 people while killing the bomber. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

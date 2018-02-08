@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/22/a-suicide-attacker-detonates-a-car-bomb-near-un
 
 ### [2003-09-22](/news/2003/09/22/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attacker detonates a car bomb near United Nations headquarters in Baghdad, killing himself and an Iraqi guard and injuring at least 11 others. The attack came a month after a massive truck bomb devastated the complex and as the UN considers expanding its role in Iraq. UN Secretary-General Kofi Annan states that personnel are assessing the situation following the attack.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/8/the-french-data-protection-authority-and-the-ind
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
-##### ecology minister
+##### Ecology minister
 # The French data protection authority and the independent watchdog CNIL cite Facebook for breaching privacy laws by the collection and transfer of 30 million users' Internet data, and by tracking non-users. Companies are no longer protected by the International Safe Harbor pact that was ruled illegal last October. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.

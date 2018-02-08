@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/30/nineteen-coal-miners-are-rescued-from-a-flooded
 
 ### [2011-08-30](/news/2011/08/30/index.md)
 
-##### coal miner
+##### Coal miner
 # Nineteen coal miners are rescued from a flooded pit in China's Heilongjiang Province. 
 
 

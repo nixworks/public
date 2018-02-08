@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/20/at-least-27-people-have-been-pronounced-dead-af
 
 ### [2014-08-20](/news/2014/08/20/index.md)
 
-##### landslide
+##### Landslide
 # At least 27 people have been pronounced dead after landslides in Japan's Hiroshima prefecture with another ten missing. 
 
 

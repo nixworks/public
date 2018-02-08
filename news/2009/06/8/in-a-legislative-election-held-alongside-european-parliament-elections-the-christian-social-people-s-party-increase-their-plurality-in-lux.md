@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/8/in-a-legislative-election-held-alongside-europea
 
 ### [2009-06-8](/news/2009/06/8/index.md)
 
-##### legislative election
+##### Legislative election
 #  In a legislative election held alongside European Parliament elections, the Christian Social People's Party increase their plurality in Luxembourg's Chamber of Deputies. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/23/a-referendum-to-ban-civilian-manufacture-and-sa
 
 ### [2005-10-23](/news/2005/10/23/index.md)
 
-##### referendum
+##### Referendum
 #  A referendum to ban civilian manufacture and sale of firearms in Brazil is rejected by a vote of 64 percent to 36 percent. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

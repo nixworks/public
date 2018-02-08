@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of
 
 ### [2006-07-23](/news/2006/07/23/index.md)
 
-##### earthquake
+##### Earthquake
 #  An "'earthquake"' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. 
 
 

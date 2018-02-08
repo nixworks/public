@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/5/a-man-opens-fire-at-a-mall-in-omaha-nebraska-in-
 
 ### [2007-12-5](/news/2007/12/5/index.md)
 
-##### opens fire at a mall
+##### Opens fire at a mall
 #  A man opens fire at a mall in Omaha, Nebraska, in the United States, killing eight before committing suicide. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
@@ -20,4 +20,4 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [The United States Food and Drug Administration names Taylor Farms as the source of cyclospora parasite tainted salads that sickened 223 diners in the US states of Nebraska and Iowa. ](/news/2013/08/2/the-united-states-food-and-drug-administration-names-taylor-farms-as-the-source-of-cyclospora-parasite-tainted-salads-that-sickened-223-dine.md) _Context: Nebraska, United States_
 3. [ Margaret Hoelzer sets a world record for the 200 metre backstroke at the United States Olympic trials in Omaha, Nebraska. ](/news/2008/07/5/margaret-hoelzer-sets-a-world-record-for-the-200-metre-backstroke-at-the-united-states-olympic-trials-in-omaha-nebraska.md) _Context: Omaha, Nebraska, United States_
 4. [ Katie Hoff and Michael Phelps set world records for the 400-meter individual medley at the United States Olympics swimming trials in Omaha, Nebraska. ](/news/2008/06/29/katie-hoff-and-michael-phelps-set-world-records-for-the-400-meter-individual-medley-at-the-united-states-olympics-swimming-trials-in-omaha.md) _Context: Omaha, Nebraska, United States_
-5. [Former President of the Maldives Mohamed Nasheed has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-has-called-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the.md) _Context: United States_
+5. [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as CEO of Wynn Resorts following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/02/6/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-ceo-of-wynn-resorts-following-sexual.md) _Context: United States_

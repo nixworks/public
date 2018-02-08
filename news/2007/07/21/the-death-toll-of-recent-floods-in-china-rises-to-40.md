@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/21/the-death-toll-of-recent-floods-in-china-rises-
 
 ### [2007-07-21](/news/2007/07/21/index.md)
 
-##### flood
+##### Flood
 #  The death toll of recent floods in China rises to 40. 
 
 

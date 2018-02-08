@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/30/one-hundred-and-fifty-people-are-trapped-after-
 
 ### [2014-07-30](/news/2014/07/30/index.md)
 
-##### landslide
+##### Landslide
 # One hundred and fifty people are trapped after a landslide in the village of Ambe in the Pune district in India's Maharashtra state with 20 killed. 
 
 126 still trapped under debris in the remote tribal area

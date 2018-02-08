@@ -5,23 +5,23 @@ Formats: [HTML](2009/01/6/index.html)  [JSON](2009/01/6/index.json)  [XML](2009/
 
 ##### United States
 ### [ United States President-elect Barack Obama offers CNN medical correspondent and neurosurgeon Sanjay Gupta the position of Surgeon General. ](/news/2009/01/6/united-states-president-elect-barack-obama-offers-cnn-medical-correspondent-and-neurosurgeon-sanjay-gupta-the-position-of-surgeon-general.md)
-_Context: President-elect, medical correspondent, Sanjay Gupta, U.S. Surgeon General, Barack Obama, neurosurgeon, United States, CNN_
+_Context: CNN, President-elect, neurosurgeon, medical correspondent, Sanjay Gupta, Barack Obama, U.S. Surgeon General, United States_
 
 ##### Russia
 ### [ Russia's Gazprom alleges that Ukraine has blocked three key gas pipelines to Europe, making natural gas delivery there impossible. ](/news/2009/01/6/russia-s-gazprom-alleges-that-ukraine-has-blocked-three-key-gas-pipelines-to-europe-making-natural-gas-delivery-there-impossible.md)
-_Context: Russia-Ukraine gas disputes, line, Europe, Gazprom, Russia, Ukraine, natural gas_
+_Context: Russia, Gazprom, Europe, natural gas, line, Ukraine, Russia-Ukraine gas disputes_
 
 ##### Israel
 ### [ Israeli artillery strikes near a United Nations school in Gaza City, killing at least 40 people. ](/news/2009/01/6/israeli-artillery-strikes-near-a-united-nations-school-in-gaza-city-killing-at-least-40-people.md)
-_Context: artillery, Gaza, fire, United Nations, Israel_
+_Context: Israel, United Nations, artillery, Gaza, fire_
 
 ##### Kathmandu University
 ### [ Kathmandu University students protest against the Nepali government's decision to replace Indian head priests at Pashupatinath Temple with Nepalis. ](/news/2009/01/6/kathmandu-university-students-protest-against-the-nepali-government-s-decision-to-replace-indian-head-priests-at-pashupatinath-temple-with.md)
-_Context: India, head priests, Kathmandu University, Pashupatinath Temple, government, Nepal_
+_Context: India, Pashupatinath Temple, head priests, Kathmandu University, government, Nepal_
 
 ##### India
 ### [ The Indian Army continues to battle Lashkar-e-Taiba and Jaish-e-Mohammed militants in Jammu and Kashmir's Poonch District. ](/news/2009/01/6/the-indian-army-continues-to-battle-lashkar-e-taiba-and-jaish-e-mohammed-militants-in-jammu-and-kashmir-s-poonch-district.md)
-_Context: Jammu and Kashmir, India, Indian Army, Poonch District, Lashkar-e-Taiba, Jaish-e-Mohammed_
+_Context: India, Poonch District, Jaish-e-Mohammed, Indian Army, Jammu and Kashmir, Lashkar-e-Taiba_
 
 ## [Previous Day...](/news/2009/01/5/index.md)
 

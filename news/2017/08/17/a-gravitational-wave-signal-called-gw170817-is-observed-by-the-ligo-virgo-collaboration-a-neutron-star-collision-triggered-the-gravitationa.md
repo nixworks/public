@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/17/a-gravitational-wave-signal-called-gw170817-is-
 
 ### [2017-08-17](/news/2017/08/17/index.md)
 
-##### gravitational wave
+##### Gravitational wave
 # A gravitational wave signal called GW170817 is observed by the LIGO-Virgo-collaboration. A Neutron star collision triggered the gravitational waves which "also created heavy elements such as gold, platinum and lead". 
 
 

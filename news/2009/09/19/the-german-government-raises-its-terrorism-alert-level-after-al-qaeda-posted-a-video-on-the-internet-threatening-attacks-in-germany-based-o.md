@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/19/the-german-government-raises-its-terrorism-aler
 
 ### [2009-09-19](/news/2009/09/19/index.md)
 
-##### al Qaeda
+##### Al Qaeda
 #  The German government raises its terrorism alert level after al Qaeda posted a video on the Internet threatening attacks in Germany based on the outcome of this month's elections. 
 
 

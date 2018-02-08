@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/26/in-the-united-states-a-jury-rules-in-favor-of-t
 
 ### [2006-09-26](/news/2006/09/26/index.md)
 
-##### jury
+##### Jury
 #  In the United States, a jury rules in favor of the pharmaceutical corporation Merck & Co. Inc. in a court case related to the painkiller Vioxx. The jury rejects claims that Vioxx caused the plaintiff's heart attack. 
 
 

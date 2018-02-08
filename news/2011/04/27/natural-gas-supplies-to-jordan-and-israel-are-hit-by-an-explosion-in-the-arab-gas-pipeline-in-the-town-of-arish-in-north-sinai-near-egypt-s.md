@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/27/natural-gas-supplies-to-jordan-and-israel-are-h
 
 ### [2011-04-27](/news/2011/04/27/index.md)
 
-##### gas
+##### Gas
 # Natural gas supplies to Jordan and Israel are hit by an explosion in the Arab Gas Pipeline in the town of Arish in North Sinai near Egypt's border with Israel with an armed group believed responsible. 
 
 A pipeline taking gas from Egypt to Israel and Jordan explodes after an attack by an armed gang, Egyptian security officials say.

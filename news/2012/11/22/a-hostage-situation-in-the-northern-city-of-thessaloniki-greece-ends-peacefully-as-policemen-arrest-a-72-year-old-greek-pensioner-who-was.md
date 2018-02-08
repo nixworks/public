@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/22/a-hostage-situation-in-the-northern-city-of-the
 
 ### [2012-11-22](/news/2012/11/22/index.md)
 
-##### hostage
+##### Hostage
 # A hostage situation in the northern city of Thessaloniki, Greece, ends peacefully, as policemen arrest a 72-year-old Greek pensioner who was threatening to set a tax office building on fire due to a financial dispute. 
 
 

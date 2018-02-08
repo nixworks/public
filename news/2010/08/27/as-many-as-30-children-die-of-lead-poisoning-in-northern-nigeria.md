@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/27/as-many-as-30-children-die-of-lead-poisoning-in
 
 ### [2010-08-27](/news/2010/08/27/index.md)
 
-##### lead contamination
+##### Lead contamination
 # As many as 30 children die of lead poisoning in northern Nigeria. 
 
 As many as 30 children are reportedly dead in northern Nigeria from lead poisoning caused by illegal gold-miners.

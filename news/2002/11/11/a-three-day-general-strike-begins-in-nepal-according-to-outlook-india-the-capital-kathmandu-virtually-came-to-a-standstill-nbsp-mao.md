@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/11/11/a-three-day-general-strike-begins-in-nepal-acco
 
 ### [2002-11-11](/news/2002/11/11/index.md)
 
-##### general strike
+##### General strike
 # A three-day general strike begins in Nepal. According to "Outlook India", "the capital Kathmandu virtually came to a standstill&nbsp;... Maoists have called the strike to oppose the King's appointment of Lokendra Bahadur Chand... as prime minister after dismissing the government of Sher Bahadur Deuba." Also, 30 Maoist guerrillas were killed in a renewed assault on the revolutionary forces the country's government is currently fighting against. See also politics of Nepal.
 
 

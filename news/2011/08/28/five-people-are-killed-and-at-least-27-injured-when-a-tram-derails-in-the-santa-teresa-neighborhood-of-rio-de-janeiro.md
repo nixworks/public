@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/28/five-people-are-killed-and-at-least-27-injured-
 
 ### [2011-08-28](/news/2011/08/28/index.md)
 
-##### tram
+##### Tram
 # Five people are killed and at least 27 injured when a tram derails in the Santa Teresa neighborhood of Rio de Janeiro. 
 
 A tram popular with tourists derails in the Brazilian city of Rio de Janeiro killing its driver and four passengers, with another 27 injured.

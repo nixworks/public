@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/11/4-die-11-are-injured-and-13-are-missing-after-a
 
 ### [2005-01-11](/news/2005/01/11/index.md)
 
-##### mudslide
+##### Mudslide
 #  4 die, 11 are injured, and 13 are missing after a mudslide in La Conchita, California, in the U.S. 
 
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.

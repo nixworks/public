@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/17/the-gold-mining-company-african-barrick-gold-sa
 
 ### [2011-05-17](/news/2011/05/17/index.md)
 
-##### gold mining
+##### Gold mining
 # The gold mining company African Barrick Gold says seven "intruders" have been shot dead and several injured at one of its mines in northern Tanzania. 
 
 African Barrick Gold Plc said police shot dead seven “intruders” at its North Mara mine in Tanzania after hundreds invaded the project armed with machetes, rocks and hammers in the latest fatal confrontation at the site.

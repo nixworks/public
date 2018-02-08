@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/14/seven-people-die-in-a-stampede-at-a-religious-f
 
 ### [2010-01-14](/news/2010/01/14/index.md)
 
-##### stampede
+##### Stampede
 # Seven people die in a stampede at a religious festival on the Ganges in West Bengal, India. 
 
 

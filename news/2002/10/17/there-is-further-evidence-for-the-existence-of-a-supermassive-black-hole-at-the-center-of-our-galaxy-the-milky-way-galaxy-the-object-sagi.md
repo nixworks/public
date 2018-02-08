@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/10/17/there-is-further-evidence-for-the-existence-of-
 
 ### [2002-10-17](/news/2002/10/17/index.md)
 
-##### black hole
+##### Black hole
 #  There is further evidence for the existence of a supermassive black hole at the center of our galaxy, the Milky Way galaxy. The object Sagittarius A* has now been identified as the black hole at the galactic centre by a team led by Rainer Schdel of the Max Planck Institute for Extraterrestrial Physics, who observed the behavior of the star S2 which is near Sagittarius A*.
 
 

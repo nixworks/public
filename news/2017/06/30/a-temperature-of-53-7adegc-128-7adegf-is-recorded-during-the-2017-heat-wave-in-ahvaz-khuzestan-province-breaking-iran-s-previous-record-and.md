@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-record
 
 ### [2017-06-30](/news/2017/06/30/index.md)
 
-##### warming
+##### Warming
 # A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. 
 
 Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.

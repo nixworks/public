@@ -7,7 +7,7 @@ Formats: [HTML](2015/01/7/index.html)  [JSON](2015/01/7/index.json)  [XML](2015/
 ### [Gunmen attack the Paris office of the French satirical magazine "Charlie Hebdo", killing twelve people and injuring ten. Some witnesses report that the gunmen identified themselves as belonging to al-Qaeda in Yemen. A 2011 issue had depicted a cartoon of the Islamic prophet Muhammed. ](/news/2015/01/7/gunmen-attack-the-paris-office-of-the-french-satirical-magazine-charlie-hebdo-killing-twelve-people-and-injuring-ten-some-witnesses-repo.md)
 A major manhunt is under way in Paris for three gunmen who shot dead 12 people at the office of the French satirical magazine Charlie Hebdo.
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 ### [A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dead-and-more-than-50-wounded.md)
 At least 38 killed and dozen others injured in massive bomb blast near police academy in capital Sanaa.
 
@@ -29,7 +29,7 @@ The California Department of Public Health is investigating nine measles cases t
 
 ##### Philippines
 ### [Philippines President Benigno Aquino III demands an investigation after a drone purportedly belonging to the United States Navy is found in the Philippine province of Quezon, the second found in the country. ](/news/2015/01/7/philippines-president-benigno-aquino-iii-demands-an-investigation-after-a-drone-purportedly-belonging-to-the-united-states-navy-is-found-in.md)
-_Context: provinces, United States Navy, Quezon, United States, Philippines, his predecessor, President, drone_
+_Context: drone, Quezon, provinces, United States, United States Navy, Philippines, his predecessor, President_
 
 ##### United States
 ### [The United States denounces a flag-raising ceremony at Taiwan's de facto embassy in Washington DC, saying the ceremony violated US-Taiwan ties. ](/news/2015/01/7/the-united-states-denounces-a-flag-raising-ceremony-at-taiwan-s-de-facto-embassy-in-washington-dc-saying-the-ceremony-violated-us-taiwan-ti.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/27/the-afghan-war-diary-claim-that-pakistan-s-inte
 
 ### [2010-07-27](/news/2010/07/27/index.md)
 
-##### classified information
+##### Classified information
 # The Afghan War Diary claim that Pakistan's Inter-Service Intelligence (ISI) orchestrated the suicide attack on the Indian embassy in Kabul in 2008, which left 40 dead. 
 
 

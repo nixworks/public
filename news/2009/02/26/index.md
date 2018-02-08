@@ -5,11 +5,11 @@ Formats: [HTML](2009/02/26/index.html)  [JSON](2009/02/26/index.json)  [XML](200
 
 ##### United States
 ### [ United States President Barack Obama will withdraw most soldiers from the Iraq War by August 2010. ](/news/2009/02/26/united-states-president-barack-obama-will-withdraw-most-soldiers-from-the-iraq-war-by-august-2010.md)
-_Context: Iraq, U.S. President, United States military personnel, Iraq War, Barack Obama, United States_
+_Context: U.S. President, United States military personnel, Iraq, Barack Obama, Iraq War, United States_
 
 ##### Bangladesh
 ### [ The Bangladesh Rifles surrender after the government promises amnesty. ](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.md)
-_Context: 2009 Bangladesh Rifles revolt, amnesty, Bangladesh, Bangladesh Rifles, government_
+_Context: Bangladesh Rifles, amnesty, 2009 Bangladesh Rifles revolt, government, Bangladesh_
 
 ##### Palestinian
 ### [ Palestinian groups Hamas and Fatah begin peace deliberations in Cairo, Egypt. ](/news/2009/02/26/palestinian-groups-hamas-and-fatah-begin-peace-deliberations-in-cairo-egypt.md)
@@ -17,7 +17,7 @@ Leaders of the rival Palestinian groups Hamas and Fatah declared Thursday a “h
 
 ##### International Criminal Tribunal for the former Yugoslavia
 ### [ The International Criminal Tribunal for the former Yugoslavia acquits former Serbian President Milan Milutinovic of committing war crimes. ](/news/2009/02/26/the-international-criminal-tribunal-for-the-former-yugoslavia-acquits-former-serbian-president-milan-milutinovia-of-committing-war-crimes.md)
-_Context: Milan Milutinovic, war crime, acquits, President of Serbia, International Criminal Tribunal for the former Yugoslavia, Serbia_
+_Context: Serbia, International Criminal Tribunal for the former Yugoslavia, war crime, Milan Milutinovic, President of Serbia, acquits_
 
 ##### General Motors
 ### [ General Motors reports a US$9.6 billion loss, due to the current automotive industry crisis. ](/news/2009/02/26/general-motors-reports-a-us-9-6-billion-loss-due-to-the-current-automotive-industry-crisis.md)
@@ -25,59 +25,59 @@ Rick Wagoner, the chief executive of General Motors, met with government officia
 
 ##### Switzerland
 ### [ Switzerland's UBS AG appoints former Credit Suisse CEO Oswald Grubel as its new Group CEO. ](/news/2009/02/26/switzerland-s-ubs-ag-appoints-former-credit-suisse-ceo-oswald-gra1-4bel-as-its-new-group-ceo.md)
-_Context: Oswald Grubel, Switzerland, UBS AG, Credit Suisse, CEO_
+_Context: Switzerland, UBS AG, Credit Suisse, Oswald Grubel, CEO_
 
 ##### China
 ### [ China's Navy and Denmark's Navy rescue Italian and Chinese merchant vessels from Somali pirates in the Gulf of Aden. ](/news/2009/02/26/china-s-navy-and-denmark-s-navy-rescue-italian-and-chinese-merchant-vessels-from-somali-pirates-in-the-gulf-of-aden.md)
-_Context: Navy, Italy, People's Liberation Army Navy, Somalia, merchant vessel, Denmark, China, Somali pirates, Gulf of Aden_
+_Context: Navy, Somalia, Somali pirates, Gulf of Aden, Denmark, China, merchant vessel, Italy, People's Liberation Army Navy_
 
 ##### Marriott International
 ### [ The Marriott Hotel in Islamabad, Pakistan, catches fire, five months after it was bombed. ](/news/2009/02/26/the-marriott-hotel-in-islamabad-pakistan-catches-fire-five-months-after-it-was-bombed.md)
-_Context: bombed, Marriott International, Pakistan, Islamabad_
+_Context: Pakistan, bombed, Islamabad, Marriott International_
 
 ##### Latvia
 ### [ Latvian President Valdis Zatlers names former Finance Minister Valdis Dombrovskis as the new Prime Minister. ](/news/2009/02/26/latvian-president-valdis-zatlers-names-former-finance-minister-valdis-dombrovskis-as-the-new-prime-minister.md)
-_Context: Latvia, Finance Minister, Prime Minister of Latvia, Valdis Dombrovskis, President, Valdis Zatlers_
+_Context: Valdis Zatlers, Valdis Dombrovskis, Finance Minister, Latvia, President, Prime Minister of Latvia_
 
 ##### Ajmal Kasab
 ### [ Ajmal Kasab, the 2008 Mumbai attacks' lone surviving gunman, is charged with waging war against India. ](/news/2009/02/26/ajmal-kasab-the-2008-mumbai-attacks-lone-surviving-gunman-is-charged-with-waging-war-against-india.md)
-_Context: India, war, Mumbai, Ajmal Kasab, 2008 Mumbai attacks_
+_Context: 2008 Mumbai attacks, Mumbai, Ajmal Kasab, war, India_
 
 ##### Royal Bank of Scotland Group
 ### [ The Royal Bank of Scotland Group reports a 2008 loss of GBP24.1 billion. ](/news/2009/02/26/the-royal-bank-of-scotland-group-reports-a-2008-loss-of-agbp24-1-billion.md)
-_Context: Royal Bank of Scotland Group, GBP_
+_Context: GBP, Royal Bank of Scotland Group_
 
-##### public sector
+##### Public sector
 ### [ Thirteen thousand civil servants stage a one-day strike action in Ireland. ](/news/2009/02/26/thirteen-thousand-civil-servants-stage-a-one-day-strike-action-in-ireland.md)
-_Context: Irish, public sector, strike_
+_Context: strike, public sector, Irish_
 
 ##### Guinea
 ### [ Former Guinean President Lansana Conte's eldest son confesses to drug trafficking. ](/news/2009/02/26/former-guinean-president-lansana-conta-c-s-eldest-son-confesses-to-drug-trafficking.md)
-_Context: Guinea, President, Lansana Conte, narcotics_
+_Context: narcotics, President, Guinea, Lansana Conte_
 
-##### outbreak
+##### Outbreak
 ### [ An outbreak of dengue fever in Bolivia has killed 18 people and infected 31,000. ](/news/2009/02/26/an-outbreak-of-dengue-fever-in-bolivia-has-killed-18-people-and-infected-31-000.md)
-_Context: Bolivia, dengue, outbreak_
+_Context: Bolivia, outbreak, dengue_
 
 ##### University of Reading
 ### [ The University of Reading identifies the oldest words in the English language. ](/news/2009/02/26/the-university-of-reading-identifies-the-oldest-words-in-the-english-language.md)
-_Context: University of Reading, English_
+_Context: English, University of Reading_
 
-##### scientific journal
+##### Scientific journal
 ### [ A study by the scientific journal "Nature" shows that HIV is evolving to resist the human immune system. ](/news/2009/02/26/a-study-by-the-scientific-journal-nature-shows-that-hiv-is-evolving-to-resist-the-human-immune-system.md)
-_Context: human immune system, Evolution, HIV, scientific journal, resist, ''Nature''_
+_Context: ''Nature'', scientific journal, HIV, Evolution, resist, human immune system_
 
-##### footprint
+##### Footprint
 ### [ The earliest footprints evidencing modern human foot anatomy and gait are discovered in Koobi Fora, Kenya. ](/news/2009/02/26/the-earliest-footprints-evidencing-modern-human-foot-anatomy-and-gait-are-discovered-in-koobi-fora-kenya.md)
-_Context: footprint, human foot, gait, Kenya, Koobi Fora, anatomy_
+_Context: footprint, anatomy, Kenya, gait, human foot, Koobi Fora_
 
 ##### Svalbard Global Seed Vault
 ### [ The Svalbard Global Seed Vault receives 90,000 food crop seed samples. ](/news/2009/02/26/the-svalbard-global-seed-vault-receives-90-000-food-crop-seed-samples.md)
-_Context: food, seed, crop, Svalbard Global Seed Vault_
+_Context: food, Svalbard Global Seed Vault, crop, seed_
 
 ##### United States
 ### [ The United States Defense Department allows news agencies to publicize photographs of the coffins of soldiers killed in Iraq and Afghanistan. ](/news/2009/02/26/the-united-states-defense-department-allows-news-agencies-to-publicize-photographs-of-the-coffins-of-soldiers-killed-in-iraq-and-afghanista.md)
-_Context: Afghanistan, United States military personnel, Iraq, U.S. military, coffin, United States, news agencies_
+_Context: Afghanistan, U.S. military, Iraq, news agencies, coffin, United States military personnel, United States_
 
 ## [Previous Day...](/news/2009/02/25/index.md)
 

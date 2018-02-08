@@ -11,13 +11,13 @@ Two people have been killed and five others injured when a bomb exploded in Bedf
 ### [British composer John Tavener dies at age 69. ](/news/2013/11/12/british-composer-john-tavener-dies-at-age-69.md)
 Tributes are paid to Sir John Tavener, one of the leading British composers of the past 50 years, who has died at the age of 69.
 
-##### stock exchanges
+##### Stock exchanges
 ### [U.S. stock exchanges jointly announce a plan to improve the technical functioning of their markets, in the face of recent high-profile glitches such as the trading halt in Nasdaq in August. ](/news/2013/11/12/u-s-stock-exchanges-jointly-announce-a-plan-to-improve-the-technical-functioning-of-their-markets-in-the-face-of-recent-high-profile-glitc.md)
 _Context: Nasdaq, stock exchanges_
 
 ##### Philippines
 ### [The Philippines faces a health crisis in the aftermath of Typhoon Haiyan with the official death toll at 1,774 and expected to rise quickly. ](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.md)
-_Context: Typhoon Haiyan (Yolanda), health, Philippines_
+_Context: Typhoon Haiyan (Yolanda), Philippines, health_
 
 ##### Hawaii
 ### [Hawaii becomes the 15th state in the United States to legalize same-sex marriage. ](/news/2013/11/12/hawaii-becomes-the-15th-state-in-the-united-states-to-legalize-same-sex-marriage.md)
@@ -29,7 +29,7 @@ _Context: MF Global, New Jersey Governor, Victor Marrero, Jon Corzine, U.S. Dist
 
 ##### Thai Senate
 ### [The Senate of Thailand rejects an asylum bill that could have seen the return of former Prime Minister Thaksin Shinawatra. ](/news/2013/11/12/the-senate-of-thailand-rejects-an-asylum-bill-that-could-have-seen-the-return-of-former-prime-minister-thaksin-shinawatra.md)
-_Context: Prime Minister, Thaksin Shinawatra, Thai Senate_
+_Context: Prime Minister, Thai Senate, Thaksin Shinawatra_
 
 ## [Previous Day...](/news/2013/11/11/index.md)
 

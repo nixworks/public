@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/10/saudi-police-open-fire-on-protesters-in-qatif.h
 
 ### [2011-03-10](/news/2011/03/10/index.md)
 
-##### policeman
+##### Policeman
 # Saudi police open fire on protesters in Qatif. 
 
 

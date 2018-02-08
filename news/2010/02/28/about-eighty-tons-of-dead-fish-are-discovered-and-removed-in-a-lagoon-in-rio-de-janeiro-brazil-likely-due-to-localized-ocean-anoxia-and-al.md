@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/28/about-eighty-tons-of-dead-fish-are-discovered-a
 
 ### [2010-02-28](/news/2010/02/28/index.md)
 
-##### lagoon
+##### Lagoon
 # About eighty tons of dead fish are discovered and removed in a lagoon in Rio de Janeiro, Brazil, likely due to localized ocean anoxia and algal blooms.'
 
 

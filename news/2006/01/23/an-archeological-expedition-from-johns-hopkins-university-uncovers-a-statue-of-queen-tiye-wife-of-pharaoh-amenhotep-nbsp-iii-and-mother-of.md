@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/23/an-archeological-expedition-from-johns-hopkins-
 
 ### [2006-01-23](/news/2006/01/23/index.md)
 
-##### archaeological
+##### Archaeological
 #  An archeological expedition from Johns Hopkins University uncovers a statue of Queen Tiye, wife of Pharaoh Amenhotep&nbsp;III and mother of Akhenaten, at the temple complex at Karnak. 
 
 

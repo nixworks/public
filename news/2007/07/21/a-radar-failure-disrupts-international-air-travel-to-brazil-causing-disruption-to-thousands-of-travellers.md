@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/21/a-radar-failure-disrupts-international-air-trav
 
 ### [2007-07-21](/news/2007/07/21/index.md)
 
-##### radar
+##### Radar
 #  A radar failure disrupts international air travel to Brazil causing disruption to thousands of travellers. 
 
 Radar Failure Causes Sao Paolo To Ground International Flights

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-
 
 ### [2014-06-2](/news/2014/06/2/index.md)
 
-##### sandstorm
+##### Sandstorm
 # A massive sandstorm and record winds hit Iran's capital Tehran, causing power blackouts there and killing at least four people. 
 
 

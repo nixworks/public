@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/3/a-presidential-election-takes-place-in-kazakhsta
 
 ### [2011-04-3](/news/2011/04/3/index.md)
 
-##### presidential election
+##### Presidential election
 # A presidential election takes place in Kazakhstan, with President Nursultan Nazarbayev winning 95% of the vote. 
 
 Kazakhstan President Nursultan Nazarbayev is re-elected after winning more than 95% of the votes cast, election officials say.

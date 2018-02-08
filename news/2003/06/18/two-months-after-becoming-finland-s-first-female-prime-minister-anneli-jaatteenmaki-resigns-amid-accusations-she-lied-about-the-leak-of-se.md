@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/18/two-months-after-becoming-finland-s-first-femal
 
 ### [2003-06-18](/news/2003/06/18/index.md)
 
-##### prime minister
+##### Prime minister
 #  Two months after becoming Finland's first female prime minister, Anneli Jtteenmki resigns amid accusations she lied about the leak of sensitive political information about Iraq discussions with George W. Bush during the election campaign.
 
 

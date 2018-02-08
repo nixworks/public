@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/13/the-energy-dispute-between-russia-and-belarus-i
 
 ### [2007-01-13](/news/2007/01/13/index.md)
 
-##### energy dispute
+##### Energy dispute
 #  The energy dispute between Russia and Belarus is resolved after about 10 hours of negotiations between Russian Prime Minister Mikhail Fradkov and his Belarusian counterpart, Sergey Sidorsky. 
 
 

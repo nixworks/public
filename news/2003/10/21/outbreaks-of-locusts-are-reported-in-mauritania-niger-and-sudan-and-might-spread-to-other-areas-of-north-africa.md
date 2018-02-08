@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/21/outbreaks-of-locusts-are-reported-in-mauritania
 
 ### [2003-10-21](/news/2003/10/21/index.md)
 
-##### locust
+##### Locust
 #  Outbreaks of locusts are reported in Mauritania, Niger and Sudan and might spread to other areas of north Africa.
 
 

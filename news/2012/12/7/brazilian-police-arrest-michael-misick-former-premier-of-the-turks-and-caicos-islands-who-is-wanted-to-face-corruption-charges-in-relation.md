@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/7/brazilian-police-arrest-michael-misick-former-pr
 
 ### [2012-12-7](/news/2012/12/7/index.md)
 
-##### police
+##### Police
 # Brazilian police arrest Michael Misick, former Premier of the Turks and Caicos Islands, who is wanted to face corruption charges in relation to his administration of the British overseas territory in the United Kingdom. 
 
 Police in Rio de Janeiro arrest former Turks and Caicos PM Michael Misick, accused of a major corruption scandal in the Caribbean islands.

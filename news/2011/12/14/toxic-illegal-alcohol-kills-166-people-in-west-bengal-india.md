@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/14/toxic-illegal-alcohol-kills-166-people-in-west-
 
 ### [2011-12-14](/news/2011/12/14/index.md)
 
-##### alcohol
+##### Alcohol
 # Toxic illegal alcohol kills 166 people in West Bengal, India. 
 
 South 24 Parganas officials fear death toll could rise further

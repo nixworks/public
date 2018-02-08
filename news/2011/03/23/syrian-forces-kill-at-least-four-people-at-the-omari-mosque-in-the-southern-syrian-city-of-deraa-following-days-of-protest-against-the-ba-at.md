@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/23/syrian-forces-kill-at-least-four-people-at-the-
 
 ### [2011-03-23](/news/2011/03/23/index.md)
 
-##### protestors
+##### Protestors
 # Syrian forces kill at least four people at the Omari Mosque in the southern Syrian city of Deraa following days of protest against the Ba'ath Party. 
 
 At least six people have died after security forces fired on protesters outside a mosque in the Syrian city of Deraa, human rights activists say.

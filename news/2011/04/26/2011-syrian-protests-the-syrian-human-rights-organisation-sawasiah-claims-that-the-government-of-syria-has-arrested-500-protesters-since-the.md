@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/26/2011-syrian-protests-the-syrian-human-rights-or
 
 ### [2011-04-26](/news/2011/04/26/index.md)
 
-##### protestors
+##### Protestors
 # 2011 Syrian protests:The Syrian human rights organisation Sawasiah claims that the Government of Syria has arrested 500 protesters since the crackdown began. 
 
 The UK, France and Italy call for tough measures against Syria, after troops there fire on anti-government protesters.

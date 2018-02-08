@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/30/a-state-of-emergency-is-declared-in-ecuador-aft
 
 ### [2010-09-30](/news/2010/09/30/index.md)
 
-##### protested against being stripped of their bonuses
+##### Protested against being stripped of their bonuses
 # A state of emergency is declared in Ecuador after troops storm the international airport and police storm the Congress, in which the government declared was an attempted coup d'etat. 
 
 A state of emergency is declared in Ecuador after President Rafael Correa accuses the opposition and the security forces of a &quot;coup attempt&quot;.

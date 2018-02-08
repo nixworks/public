@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/01/6/the-united-states-congress-presided-over-by-vice
 
 ### [2001-01-6](/news/2001/01/6/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress, presided over by Vice President Al Gore as President of the Senate, certifies George Walker Bush's Electoral College victory and thus as the winner of the U.S. presidential election.
 
 

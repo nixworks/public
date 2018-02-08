@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/14/at-least-18-people-are-killed-after-a-80-tonne-
 
 ### [2016-04-14](/news/2016/04/14/index.md)
 
-##### thunderstorm
+##### Thunderstorm
 # At least 18 people are killed after a 80-tonne crane collapses on a temporary structure during a thunderstorm in the city of Dongguan, China. 
 
 

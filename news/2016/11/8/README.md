@@ -7,7 +7,7 @@ Formats: [HTML](2016/11/8/index.html)  [JSON](2016/11/8/index.json)  [XML](2016/
 ### [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md)
 Arab coalition forces killed six al Qaeda militants and arrested four others during a raid in southern Yemen on Tuesday, residents and a security official said.
 
-##### gold mine
+##### Gold mine
 ### [Gunmen kill at least 30 people in an attack on a gold mine in a remote area of Zamfara State, northwestern Nigeria. ](/news/2016/11/8/gunmen-kill-at-least-30-people-in-an-attack-on-a-gold-mine-in-a-remote-area-of-zamfara-state-northwestern-nigeria.md)
 Gunmen have killed more than 30 gold miners in a remote area of northern Nigeria, police said on Tuesday.
 
@@ -25,7 +25,7 @@ South Korean prosecutors have raided the offices of Samsung Electronics as part 
 
 ##### European migrant crisis
 ### [The National Assembly rejects Hungarian Prime Minister Viktor Orban's bill to block the settlement of refugees in Hungary. The far-right Jobbik party abstained from the vote, arguing the immigration ban should apply to all foreigners, and not just refugees. ](/news/2016/11/8/the-national-assembly-rejects-hungarian-prime-minister-viktor-orba-n-s-bill-to-block-the-settlement-of-refugees-in-hungary-the-far-right-jo.md)
-_Context: National Assembly, Hungarian Prime Minister, Hungary, Jobbik, Viktor Orban, European migrant crisis_
+_Context: European migrant crisis, National Assembly, Viktor Orban, Hungarian Prime Minister, Hungary, Jobbik_
 
 ## [Previous Day...](/news/2016/11/7/index.md)
 

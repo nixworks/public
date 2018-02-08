@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/18/gunmen-kill-six-health-workers-engaged-in-a-pol
 
 ### [2012-12-18](/news/2012/12/18/index.md)
 
-##### polio
+##### Polio
 # Gunmen kill six health workers engaged in a polio vaccination drive in Pakistan, highlighting resistance to a program opposed by the Taliban. 
 
 Gunmen in Pakistan have killed six health workers at the start of a nationwide polio vaccination drive, officials said Tuesday, highlighting resistance to a campaign opposed by the Taliban.

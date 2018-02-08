@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/11/three-people-are-injured-after-a-hostage-situat
 
 ### [2013-01-11](/news/2013/01/11/index.md)
 
-##### hostage situation
+##### Hostage situation
 # Three people are injured after a hostage situation takes place in a Nordstrom Rack chain in the neighborhood of Westchester in Los Angeles, California. 
 
 The first 911 call came at 11:08 p.m. A panicked man told an operator the barest of details: Nordstrom Rack in Westchester. Two armed men. Robbery. Police rushed to the sprawling Promenade at Howard...

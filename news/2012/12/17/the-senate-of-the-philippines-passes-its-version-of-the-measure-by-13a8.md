@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/17/the-senate-of-the-philippines-passes-its-versio
 
 ### [2012-12-17](/news/2012/12/17/index.md)
 
-##### senators
+##### Senators
 # The Senate of the Philippines passes its version of the measure by 13-8. 
 
 The next step is the bicameral conference committee, where both chambers of Congress will consolidate the two different versions of RH bill

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/9/political-status-of-taiwan-standing-next-to-visi
 
 ### [2003-12-9](/news/2003/12/9/index.md)
 
-##### relations
+##### Relations
 # Political status of Taiwan: Standing next to visiting Premier Wen Jiabao, George W. Bush reiterates U.S. support for the one China policy and states that he opposes holding a referendum on Taiwan. 
 
 

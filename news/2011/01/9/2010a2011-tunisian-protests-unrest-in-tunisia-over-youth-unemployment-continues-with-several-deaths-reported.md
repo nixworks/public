@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/9/2010a2011-tunisian-protests-unrest-in-tunisia-ov
 
 ### [2011-01-9](/news/2011/01/9/index.md)
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 # 2010-2011 Tunisian protests: Unrest in Tunisia over youth unemployment continues, with several deaths reported. 
 
 Fatalities reported after fresh clashes between demonstrators and security forces across north African nation.

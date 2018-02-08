@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/29/an-earthquake-with-magnitude-of-five-on-richter
 
 ### [2007-10-29](/news/2007/10/29/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake with magnitude of five on Richter scale shakes central Nepal.date=December 2007
 
 

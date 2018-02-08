@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/22/heavy-floods-and-related-disasters-across-china
 
 ### [2011-09-22](/news/2011/09/22/index.md)
 
-##### drainage basin
+##### Drainage basin
 # Heavy floods and related disasters across China, especially in the drainage basin of the Han and Wei Rivers, leave 90 dead and 22 missing. 
 
 

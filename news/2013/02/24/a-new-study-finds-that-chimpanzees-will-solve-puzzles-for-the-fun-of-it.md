@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-p
 
 ### [2013-02-24](/news/2013/02/24/index.md)
 
-##### chimpanzee
+##### Chimpanzee
 # A new study finds that chimpanzees will solve puzzles for the fun of it. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/19/56-animals-are-intentionally-released-by-their-
 
 ### [2011-10-19](/news/2011/10/19/index.md)
 
-##### exotic animal
+##### Exotic animal
 # 56 animals are intentionally released by their owner from an exotic animal farm in Muskingum County, Ohio. The owner subsequently commits suicide. 
 
 All escaped exotic animals from Ohio private farm accounted for; Final death toll nearly 50

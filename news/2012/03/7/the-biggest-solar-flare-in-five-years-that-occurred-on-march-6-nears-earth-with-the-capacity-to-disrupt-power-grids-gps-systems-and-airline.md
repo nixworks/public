@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occur
 
 ### [2012-03-7](/news/2012/03/7/index.md)
 
-##### solar flare
+##### Solar flare
 # The biggest solar flare in five years that occurred on March 6 nears Earth with the capacity to disrupt power grids, GPS systems and airline flights. 
 
 Huge solar storm heading toward Earth could disrupt power grids and airplane flights.

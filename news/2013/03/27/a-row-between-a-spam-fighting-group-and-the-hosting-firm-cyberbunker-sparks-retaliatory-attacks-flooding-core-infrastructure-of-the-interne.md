@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/27/a-row-between-a-spam-fighting-group-and-the-hos
 
 ### [2013-03-27](/news/2013/03/27/index.md)
 
-##### spam-fighting group
+##### Spam-fighting group
 # A row between a spam-fighting group and the hosting firm CyberBunker sparks retaliatory attacks, flooding core infrastructure of the Internet, in what security experts are describing as the biggest cyberattack in history. 
 
 

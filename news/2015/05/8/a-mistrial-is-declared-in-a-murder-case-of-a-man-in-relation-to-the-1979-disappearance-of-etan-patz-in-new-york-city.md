@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/8/a-mistrial-is-declared-in-a-murder-case-of-a-man
 
 ### [2015-05-8](/news/2015/05/8/index.md)
 
-##### disappearance of Etan Patz
+##### Disappearance of Etan Patz
 # A mistrial is declared in a murder case of a man in relation to the 1979 disappearance of Etan Patz in New York City. 
 
 

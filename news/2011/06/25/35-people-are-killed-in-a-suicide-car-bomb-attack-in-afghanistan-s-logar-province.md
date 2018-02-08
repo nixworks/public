@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-atta
 
 ### [2011-06-25](/news/2011/06/25/index.md)
 
-##### suicide car bomb attack
+##### Suicide car bomb attack
 # 35 people are killed in a suicide car bomb attack in Afghanistan's Logar province. 
 
 A suicide car bomber killed at least 20 people, and possibly as many as 35, in an attack at a hospital in a remote district of eastern Afghanistan on Saturday that damaged its maternity ward, officials said.

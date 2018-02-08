@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/19/the-inflation-rate-in-the-united-kingdom-goes-t
 
 ### [2015-05-19](/news/2015/05/19/index.md)
 
-##### inflation
+##### Inflation
 # The inflation rate in the United Kingdom goes to -0.1 in April, marking the first time since 1960 it has been negative. 
 
 UK consumer price inflation turned negative in April for the first time since 1960, falling to -0.1%, helped by falling transport and food prices.

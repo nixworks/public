@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/20/at-least-five-people-are-killed-including-the-g
 
 ### [2009-11-20](/news/2009/11/20/index.md)
 
-##### shooting
+##### Shooting
 #  At least five people are killed, including the gunman, and a further eight injured in a shooting in Saipan, Northern Mariana Islands. 
 
 

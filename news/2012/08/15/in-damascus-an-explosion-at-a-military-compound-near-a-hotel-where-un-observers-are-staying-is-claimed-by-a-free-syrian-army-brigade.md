@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/15/in-damascus-an-explosion-at-a-military-compound
 
 ### [2012-08-15](/news/2012/08/15/index.md)
 
-##### observers
+##### Observers
 # In Damascus, an explosion at a military compound near a hotel where UN observers are staying is claimed by a Free Syrian Army brigade. 
 
 Spokesperson of Free Syrian Army unit that planned Damascus bombings tells Al Jazeera they targeted military, not UN.

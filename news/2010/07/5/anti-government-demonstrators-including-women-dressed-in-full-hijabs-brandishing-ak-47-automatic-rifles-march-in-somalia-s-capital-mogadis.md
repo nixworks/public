@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/5/anti-government-demonstrators-including-women-dr
 
 ### [2010-07-5](/news/2010/07/5/index.md)
 
-##### hijab
+##### Hijab
 # Anti-government demonstrators, including women dressed in full hijabs brandishing AK-47 automatic rifles, march in Somalia's capital Mogadishu, protesting killings by the African Union Mission in Somalia. 
 
 

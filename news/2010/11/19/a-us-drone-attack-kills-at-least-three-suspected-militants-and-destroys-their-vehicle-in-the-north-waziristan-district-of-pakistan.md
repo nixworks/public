@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/19/a-us-drone-attack-kills-at-least-three-suspecte
 
 ### [2010-11-19](/news/2010/11/19/index.md)
 
-##### drones launch
+##### Drones launch
 # A US drone attack kills at least three suspected militants and destroys their vehicle in the North Waziristan district of Pakistan. 
 
 Islamabad, Nov 19 (IANS) At least three suspected militants were killed in a US drone strike Friday in Pakistans North Waziristan district along the Afghan...

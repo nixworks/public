@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/25/a-shooting-at-the-columbia-mall-in-the-u-s-stat
 
 ### [2014-01-25](/news/2014/01/25/index.md)
 
-##### shooting
+##### Shooting
 # A shooting at the Columbia Mall in the U.S. state of Maryland results in 3 people being killed. 
 
 Three people have died after a shooting incident at a shopping mall in the US state of Maryland, not far from Washington DC, say police.

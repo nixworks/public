@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/2/a-lone-gunman-opened-fire-at-a-cafa-c-in-a1-2iti
 
 ### [2016-07-2](/news/2016/07/2/index.md)
 
-##### opened fire
+##### Opened fire
 # A lone gunman opened fire at a cafe in Zitiste, Serbia, killing five people and injuring 20 more. The perpetrator was arrested shortly afterward while attempting to flee the scene. 
 
 

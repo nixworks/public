@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/1/a-survey-of-the-world-s-strongest-brands-by-anho
 
 ### [2005-08-1](/news/2005/08/1/index.md)
 
-##### brand
+##### Brand
 #  A survey of the world's strongest brands by Anholt-GMI has placed Australia as the leading "nation brand", ahead of Canada, Switzerland and the United Kingdom. Last years top brand, Sweden, dropped to fifth place, whilst the United States dropped from fourth to eleventh place. 
 
 The Age 404 Page

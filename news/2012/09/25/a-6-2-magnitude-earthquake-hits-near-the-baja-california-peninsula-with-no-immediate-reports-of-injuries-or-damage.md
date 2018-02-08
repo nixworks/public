@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/25/a-6-2-magnitude-earthquake-hits-near-the-baja-c
 
 ### [2012-09-25](/news/2012/09/25/index.md)
 
-##### magnitude
+##### Magnitude
 # A 6.2-magnitude earthquake hits near the Baja California peninsula with no immediate reports of injuries or damage. 
 
 

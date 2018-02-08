@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/20/the-death-toll-from-a-minaret-collapse-in-moroc
 
 ### [2010-02-20](/news/2010/02/20/index.md)
 
-##### a minaret collapse
+##### A minaret collapse
 # The death toll from a minaret collapse in Morocco rises to 41. 
 
 

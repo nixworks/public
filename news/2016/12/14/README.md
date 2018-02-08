@@ -9,7 +9,7 @@ Shelling and tank fire rage in Aleppo as the ceasefire and evacuation plan stall
 
 ##### Military intervention against ISIL
 ### [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md)
-_Context: ISIL, November 2015 Paris Attacks, Syria, United States, Military intervention against ISIL, Al-Raqqah_
+_Context: United States, Syria, Al-Raqqah, Military intervention against ISIL, November 2015 Paris Attacks, ISIL_
 
 ##### Merger
 ### [Merger talks between Danish oil and gas corporations DONG Energy and Maersk have reached an impasse over valuation. ](/news/2016/12/14/merger-talks-between-danish-oil-and-gas-corporations-dong-energy-and-maersk-have-reached-an-impasse-over-valuation.md)

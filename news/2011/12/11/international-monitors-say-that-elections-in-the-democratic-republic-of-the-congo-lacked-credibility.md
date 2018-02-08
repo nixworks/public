@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/11/international-monitors-say-that-elections-in-th
 
 ### [2011-12-11](/news/2011/12/11/index.md)
 
-##### presidential election
+##### Presidential election
 # International monitors say that elections in the Democratic Republic of the Congo lacked credibility. 
 
 

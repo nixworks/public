@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/27/ukraine-s-parliament-votes-for-the-annulment-of
 
 ### [2004-11-27](/news/2004/11/27/index.md)
 
-##### parliament
+##### Parliament
 #  Ukraine's parliament votes for the annulment of the election results and asks President Leonid Kuchma to dissolve the country's Central Election Committee. This is a non-binding request as the parliament cannot annul the results itself. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/30/an-earthquake-in-china-s-yunnan-province-injure
 
 ### [2014-05-30](/news/2014/05/30/index.md)
 
-##### earthquake
+##### Earthquake
 # An earthquake in China's Yunnan province injures at least 45 people and forces thousands to relocate. 
 
 

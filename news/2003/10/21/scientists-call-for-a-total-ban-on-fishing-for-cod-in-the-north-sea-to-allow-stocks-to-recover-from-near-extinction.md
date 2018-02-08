@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/21/scientists-call-for-a-total-ban-on-fishing-for-
 
 ### [2003-10-21](/news/2003/10/21/index.md)
 
-##### cod
+##### Cod
 #  Scientists call for a total ban on fishing for cod in the North Sea to allow stocks to recover from near extinction.
 
 

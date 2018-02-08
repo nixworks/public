@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/5/according-to-the-2005-the-2005-index-of-economic
 
 ### [2005-01-5](/news/2005/01/5/index.md)
 
-##### the 2005 Index of Economic Freedom
+##### The 2005 Index of Economic Freedom
 #  According to the 2005 "the 2005 Index of Economic Freedom", the US has for the first time dropped from the top 10 free nations of the world, Hong Kong continues its number one ranking for the 11th consecutive year, released by The Heritage Foundation and "The Wall Street Journal". 
 
 

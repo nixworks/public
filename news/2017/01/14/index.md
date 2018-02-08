@@ -15,11 +15,11 @@ After 146 years, the curtain is coming down on &quot;The Greatest Show on Earth.
 ### [A Saab JAS 39 Gripen fighter jet crashes at Hat Yai International Airport in Thailand while performing at a Children's Day air show, killing the pilot, who failed to eject. ](/news/2017/01/14/a-saab-jas-39-gripen-fighter-jet-crashes-at-hat-yai-international-airport-in-thailand-while-performing-at-a-children-s-day-air-show-killing.md)
 A Saab Griben fighter jet taking part in the Children’s Day airshow at Thailand’s southern Hat Yai International Airport has been filmed crashing to the ground, with smoke and flames erupting from the spot. The pilot was reportedly killed in the crash.
 
-##### boat accident
+##### Boat accident
 ### [At least 21 people drown in a boat accident in the Ganges River in Patna, India. ](/news/2017/01/14/at-least-21-people-drown-in-a-boat-accident-in-the-ganges-river-in-patna-india.md)
 According to sources, it was a small boat which was overloaded with people 
 
-##### alpaca
+##### Alpaca
 ### [An estimated 180,000 alpacas are dead due to frigid temperatures and drought in Peru. ](/news/2017/01/14/an-estimated-180-000-alpacas-are-dead-due-to-frigid-temperatures-and-drought-in-peru.md)
 Unseasonably low temperatures and drought responsible for the animals’ deaths.
 

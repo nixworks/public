@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/22/two-al-qaeda-fighters-and-two-pro-government-mi
 
 ### [2013-03-22](/news/2013/03/22/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. 
 
 

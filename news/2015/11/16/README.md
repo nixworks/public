@@ -9,7 +9,7 @@ Latest updates as Paris manhunt continues and France hits back at Islamic State 
 
 ##### Saudi-led intervention in Yemen
 ### [Yemeni security officials, who are neutral in the conflict, say Saudi-led airstrikes and clashes have killed over 40 Houthi militants and 4 civilians over the past 24 hours, with most of the airstrikes taking place in the southwestern Ibb Governorate. ](/news/2015/11/16/yemeni-security-officials-who-are-neutral-in-the-conflict-say-saudi-led-airstrikes-and-clashes-have-killed-over-40-houthi-militants-and-4.md)
-_Context: Ibb Governorate, Yemen, Saudi-led intervention in Yemen, Houthi, Saudi Arabia_
+_Context: Ibb Governorate, Saudi Arabia, Yemen, Saudi-led intervention in Yemen, Houthi_
 
 ##### Sinai insurgency
 ### [Egypt's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai, not far from the crash site of Metrojet Flight 9268, a Russian airliner the group says it brought down. ](/news/2015/11/16/egypt-s-security-forces-shoot-dead-at-least-24-isis-militants-as-they-hid-inside-a-cave-in-a-mountainous-area-in-central-sinai-not-far-from.md)
@@ -41,7 +41,7 @@ Reports suggest at least 71 people have died from drowning, collapsing walls and
 
 ##### 2015 Atlantic hurricane season
 ### [The United States National Transportation Safety Board announces it has completed its search of the sunken "El Faro", but did not find the voyage data recorder, i.e., the black box. ](/news/2015/11/16/the-united-states-national-transportation-safety-board-announces-it-has-completed-its-search-of-the-sunken-el-faro-but-did-not-find-the-v.md)
-_Context: El Faro, 2015 Atlantic hurricane season, United States, NTSB, voyage data recorder, Hurricane Joaquin_
+_Context: NTSB, 2015 Atlantic hurricane season, El Faro, Hurricane Joaquin, United States, voyage data recorder_
 
 ##### Territorial disputes in the South China Sea
 ### [The Stethem visits Shanghai, signaling that relations between the two countries continue despite tensions over the recent Lassen 6 cruise near artificial islands constructed by China. The navies of the two nations plan combined maritime exercise as well. ](/news/2015/11/16/the-stethem-visits-shanghai-signaling-that-relations-between-the-two-countries-continue-despite-tensions-over-the-recent-lassen-6-cruise-ne.md)

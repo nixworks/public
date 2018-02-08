@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-pro
 
 ### [2015-07-5](/news/2015/07/5/index.md)
 
-##### wildfire
+##### Wildfire
 # More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. 
 
 B.C. has seen more than 50 new wildfires over the weekend that have put people out of their homes or on evacuation alert, resulting in several communities declaring states of emergency. 

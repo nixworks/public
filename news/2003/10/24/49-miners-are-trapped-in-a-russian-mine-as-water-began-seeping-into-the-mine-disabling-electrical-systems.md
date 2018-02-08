@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/24/49-miners-are-trapped-in-a-russian-mine-as-wate
 
 ### [2003-10-24](/news/2003/10/24/index.md)
 
-##### miner
+##### Miner
 #  49 miners are trapped in a Russian mine as water began seeping into the mine, disabling electrical systems.
 
 

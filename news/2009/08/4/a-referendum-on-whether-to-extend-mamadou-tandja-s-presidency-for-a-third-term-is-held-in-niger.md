@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/4/a-referendum-on-whether-to-extend-mamadou-tandja
 
 ### [2009-08-4](/news/2009/08/4/index.md)
 
-##### referendum
+##### Referendum
 #  A referendum on whether to extend Mamadou Tandja's presidency for a third term is held in Niger. 
 
 

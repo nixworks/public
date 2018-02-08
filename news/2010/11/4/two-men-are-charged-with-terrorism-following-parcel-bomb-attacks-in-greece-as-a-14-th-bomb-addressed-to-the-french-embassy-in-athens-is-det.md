@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/two-men-are-charged-with-terrorism-following-par
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### terrorism
+##### Terrorism
 # Two men are charged with terrorism following parcel bomb attacks in Greece, as a 14 th bomb addressed to the French embassy in Athens is detonated by police. 
 
 Police in Athens destroy a letter bomb sent to the French embassy, the 14th suspect device found in Greece this week.

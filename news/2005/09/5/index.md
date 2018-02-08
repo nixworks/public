@@ -9,31 +9,31 @@ _Context: Japan, Typhoon Nabi, Kyushu_
 
 ##### Hurricane Katrina
 ### [ Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9-11 Style Inquiry" into the U.S. federal government's response to the Hurricane. ](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.md)
-_Context: Hurricane Katrina, First Lady, Government of the United States, Hillary Clinton, United States Senate_
+_Context: United States Senate, Hillary Clinton, First Lady, Government of the United States, Hurricane Katrina_
 
-##### cable car
+##### Cable car
 ### [ A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. ](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austrian-alps-leaves-nine-people-dead-when-a-helicopter-carrying-construction-materials-dropp.md)
-_Context: Solden, cable car, Austria, Alps, Otztal_
+_Context: Solden, Alps, Austria, cable car, Otztal_
 
-##### teenage
+##### Teenage
 ### [ Three teenage girls admit starting a fire in Paris on September 3 which left 16 people dead. ](/news/2005/09/5/three-teenage-girls-admit-starting-a-fire-in-paris-on-september-3-which-left-16-people-dead.md)
-_Context: Paris, September 3, teenage_
+_Context: teenage, Paris, September 3_
 
 ##### Google
 ### [ Google taps into the Chinese local markets by opening their fifth international Local Search Engine on Google China at http:--bendi.google.com-. ](/news/2005/09/5/google-taps-into-the-chinese-local-markets-by-opening-their-fifth-international-local-search-engine-on-google-china-at-http-bendi-google.md)
-_Context: Google, Google China_
+_Context: Google China, Google_
 
 ##### Ibrahim Rugova
 ### [ Ibrahim Rugova, the President of Kosovo, has announced that he has lung cancer but will not be stepping down. ](/news/2005/09/5/ibrahim-rugova-the-president-of-kosovo-has-announced-that-he-has-lung-cancer-but-will-not-be-stepping-down.md)
-_Context: President, Ibrahim Rugova, lung cancer_
+_Context: President, lung cancer, Ibrahim Rugova_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Two British Soldiers have been killed following a roadside IED bomb in Basra, southern Iraq. ](/news/2005/09/5/conflict-in-iraq-two-british-soldiers-have-been-killed-following-a-roadside-ied-bomb-in-basra-southern-iraq.md)
-_Context: Basra, British Soldiers, Iraq, IED, Conflict in Iraq_
+_Context: British Soldiers, IED, Iraq, Basra, Conflict in Iraq_
 
 ##### Mandala Airlines Flight 091
 ### [ Mandala Airlines Flight 091: A Mandala Airlines flight crashes into a residential area of the Indonesian city of Medan, killing at least 100 passengers. Among the dead are the governor and former governor of Sumatra Utara, Rizal Nurdin and Raja Inal Siregar. ](/news/2005/09/5/mandala-airlines-flight-091-a-mandala-airlines-flight-crashes-into-a-residential-area-of-the-indonesian-city-of-medan-killing-at-least-10.md)
-_Context: Mandala Airlines Flight 091, Medan, North Sumatra, Mandala Airlines, Rizal Nurdin, Raja Inal Siregar_
+_Context: Medan, Mandala Airlines, Mandala Airlines Flight 091, North Sumatra, Rizal Nurdin, Raja Inal Siregar_
 
 ## [Previous Day...](/news/2005/09/4/index.md)
 

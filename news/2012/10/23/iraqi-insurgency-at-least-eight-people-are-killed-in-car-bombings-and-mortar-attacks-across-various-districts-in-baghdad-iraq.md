@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/23/iraqi-insurgency-at-least-eight-people-are-kill
 
 ### [2012-10-23](/news/2012/10/23/index.md)
 
-##### eight car bombings
+##### Eight car bombings
 # Iraqi insurgency: At least eight people are killed in car bombings and mortar attacks across various districts in Baghdad, Iraq. 
 
 At least nine people have been killed in car bomb and mortar attacks in predominantly Shia districts of the Iraqi capital, Baghdad, officials say.

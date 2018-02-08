@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/10/automotive-industry-crisis-of-2008-the-white-ho
 
 ### [2008-12-10](/news/2008/12/10/index.md)
 
-##### global crisis
+##### Global crisis
 #  Automotive industry crisis of 2008: The White House and U.S. Congress agree on a proposal for a US$15 billion bailout package for three major US automakers. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/17/more-than-60-fishermen-are-rescued-after-being-
 
 ### [2012-08-17](/news/2012/08/17/index.md)
 
-##### pirate
+##### Pirate
 # More than 60 fishermen are rescued after being abducted by pirates in the Bay of Bengal. 
 
 

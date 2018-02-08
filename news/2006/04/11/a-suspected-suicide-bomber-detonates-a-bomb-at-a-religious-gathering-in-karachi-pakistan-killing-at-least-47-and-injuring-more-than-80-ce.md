@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/11/a-suspected-suicide-bomber-detonates-a-bomb-at-
 
 ### [2006-04-11](/news/2006/04/11/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suspected suicide bomber detonates a bomb at a religious gathering in Karachi, Pakistan, killing at least 47 and injuring more than 80 celebrating Mawlid al-Nabi. 
 
 

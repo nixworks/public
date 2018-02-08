@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/7/a-strong-earthquake-of-magnitude-7-3-occurs-off-
 
 ### [2012-12-7](/news/2012/12/7/index.md)
 
-##### strong
+##### Strong
 # A strong earthquake of magnitude 7.3 occurs off the coast of Japan near the city of Kamaishi, prompting the Japan Meteorological Agency to issue a tsunami warning. 10 people are taken to hospital with injuries, no fatalities reported. 
 
 

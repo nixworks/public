@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/10/in-football-germany-beat-england-6a2-in-the-uef
 
 ### [2009-09-10](/news/2009/09/10/index.md)
 
-##### association football
+##### Association football
 #  In football, Germany beat England 6-2 in the UEFA Women's Euro 2009 final, claiming their seventh European title. 
 
 

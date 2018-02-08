@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/3/a-jury-convicts-retired-american-football-player
 
 ### [2008-10-3](/news/2008/10/3/index.md)
 
-##### jury
+##### Jury
 #  A jury convicts retired American football player O.J. Simpson of armed robbery and kidnapping, 13 years to the day after he was acquitted of killing his ex-wife and her friend in Los Angeles. 
 
 O.J. Simpson was convicted in a Las Vegas court on 12 counts including armed robbery and kidnapping.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/25/the-world-s-third-richest-man-warren-buffett-pl
 
 ### [2006-06-25](/news/2006/06/25/index.md)
 
-##### world's third richest man
+##### World's third richest man
 #  The world's third richest man, Warren Buffett, pledges to donate approximately $37 billion USD in shares to the Bill & Melinda Gates Foundation, effectively making it the largest charitable organization in history. 
 
 

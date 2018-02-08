@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/6/2012-rakhine-state-riots-renewed-fighting-betwee
 
 ### [2012-08-6](/news/2012/08/6/index.md)
 
-##### fighting between Buddhists and Muslims
+##### Fighting between Buddhists and Muslims
 # 2012 Rakhine State riots: Renewed fighting between Buddhist Rakhine and Muslim Rohingya in western Burma kills three people. 
 
 

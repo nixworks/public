@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/20/a-magnitude-6-1-aftershock-has-struck-off-the-c
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday. 
 
 QUITO, Ecuador (AP) — President Rafael Correa announced Wednesday night that he is raising sales taxes and will charge a one-time levy on millionaires to rebuild cities devastated by Ecuador&#039;s worst earthquake in decades.…

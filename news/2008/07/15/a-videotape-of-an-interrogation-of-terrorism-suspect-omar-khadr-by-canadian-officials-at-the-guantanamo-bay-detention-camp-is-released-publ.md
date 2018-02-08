@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/15/a-videotape-of-an-interrogation-of-terrorism-su
 
 ### [2008-07-15](/news/2008/07/15/index.md)
 
-##### terrorism
+##### Terrorism
 #  A videotape of an interrogation of terrorism suspect Omar Khadr by Canadian officials at the Guantanamo Bay detention camp is released publicly. 
 
 The video recordings released Tuesday provided an unprecedented glimpse inside the Guantánamo Bay detention center.

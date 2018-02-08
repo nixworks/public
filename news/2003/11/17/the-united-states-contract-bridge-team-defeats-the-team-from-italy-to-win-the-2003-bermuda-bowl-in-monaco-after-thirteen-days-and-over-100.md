@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/17/the-united-states-contract-bridge-team-defeats-
 
 ### [2003-11-17](/news/2003/11/17/index.md)
 
-##### contract bridge
+##### Contract bridge
 #  The United States contract bridge team defeats the team from Italy to win the 2003 Bermuda Bowl in Monaco. After thirteen days and over 1000 hands of bridge, the US team wins by one point, after Italian Lorenzo Lauria plays the wrong card from the dummy to lose the last hand.
 
 

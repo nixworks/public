@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/26/a-sinkhole-the-size-of-a-football-field-swallow
 
 ### [2015-11-26](/news/2015/11/26/index.md)
 
-##### sinkhole
+##### Sinkhole
 # A sinkhole the size of a football field swallows a large section of beach on Australia's North Stradbroke Island. Local authorities have warned beach-goers to stay away from Jumpinpin beach due to fears the sinkhole could grow even larger. 
 
 Surf Life Saving Queensland urges swimmers to stay away from the hole, warning of strong currents and unstable sand

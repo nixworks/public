@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/31/a-suicide-bomber-explodes-in-a-police-recruitme
 
 ### [2007-05-31](/news/2007/05/31/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber explodes in a police recruitment centre in Falluja, Iraq killing at least 20 people. 
 
 

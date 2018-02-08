@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/9/a-newly-observed-near-earth-asteroid-2013-et-wit
 
 ### [2013-03-9](/news/2013/03/9/index.md)
 
-##### near-Earth asteroid
+##### Near-Earth asteroid
 # A newly observed near-Earth asteroid 2013 ET with an estimated diameter of about 100 meters comes within 960,000 km from the Earth's surface. 
 
 A newly discovered Asteroid 2013 ET is making a close flyby, just days after another space rock made an even closer approach to our planet. The Catalina Sky Survey discovered Asteroid 2013 ET on March 3, 2013 and estimated its size around 100 meters...

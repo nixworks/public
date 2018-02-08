@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/14/mandatory-emergency-evacuation-is-ordered-for-o
 
 ### [2005-09-14](/news/2005/09/14/index.md)
 
-##### evacuation
+##### Evacuation
 #  Mandatory emergency evacuation is ordered for Outer Banks in North Carolina as Hurricane Ophelia approaches. 
 
 

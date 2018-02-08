@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/3/a-tornado-hits-albany-a-northern-suburb-of-the-n
 
 ### [2011-05-3](/news/2011/05/3/index.md)
 
-##### tornado
+##### Tornado
 # A tornado hits Albany, a northern suburb of the New Zealand city of Auckland, causing at least one death, injuries and property damage. 
 
 A tornado ripped through a busy shopping centre in the north Auckland suburb of Albany this afternoon, leaving a trail of damage and debris. - New Zealand Herald

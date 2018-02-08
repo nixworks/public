@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/6/china-blocks-mentions-on-the-internet-to-jiang-z
 
 ### [2011-07-6](/news/2011/07/6/index.md)
 
-##### blocks mentions
+##### Blocks mentions
 # China blocks mentions on the Internet to Jiang Zemin due to speculation of his death. 
 
 Chinese censors block internet references to former leader Jiang Zemin, whose name means &quot;river&quot;, after rumours that he has died circulate.

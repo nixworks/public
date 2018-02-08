@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/7/an-earthquake-of-6-4-preliminary-magnitude-occur
 
 ### [2007-08-7](/news/2007/08/7/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of 6.4 preliminary magnitude occurs off the coast of Okinawa in Japan. 
 
 

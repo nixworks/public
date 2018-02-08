@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/22/us-journalist-micah-garen-who-was-kidnapped-in-
 
 ### [2004-08-22](/news/2004/08/22/index.md)
 
-##### journalist
+##### Journalist
 #  US journalist Micah Garen, who was kidnapped in Iraq more than a week ago, is released in the southern city of Nasiriyah. 
 
 

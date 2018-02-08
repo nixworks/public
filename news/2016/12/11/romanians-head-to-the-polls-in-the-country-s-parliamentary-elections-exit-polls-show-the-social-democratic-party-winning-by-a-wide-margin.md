@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/11/romanians-head-to-the-polls-in-the-country-s-pa
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
-##### earlier this month
+##### Earlier this month
 # Romanians head to the polls in the country's parliamentary elections. Exit polls show the Social Democratic Party winning by a wide margin. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/21/in-mexico-police-are-looking-for-kidnapped-socc
 
 ### [2005-07-21](/news/2005/07/21/index.md)
 
-##### soccer
+##### Soccer
 #  In Mexico, police are looking for kidnapped soccer coach Omar Romano. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injur
 
 ### [2013-05-19](/news/2013/05/19/index.md)
 
-##### tornado
+##### Tornado
 # At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. 
 
 A massive tornado rips through neighbourhoods near Oklahoma City, on the second day in a row the state has been pummelled by giant twisters.

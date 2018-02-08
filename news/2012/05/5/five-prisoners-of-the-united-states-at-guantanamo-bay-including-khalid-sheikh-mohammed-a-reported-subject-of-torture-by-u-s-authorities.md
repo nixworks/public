@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/5/five-prisoners-of-the-united-states-at-guantanam
 
 ### [2012-05-5](/news/2012/05/5/index.md)
 
-##### detainee
+##### Detainee
 # Five prisoners of the United States at Guantanamo Bay, including Khalid Sheikh Mohammed (a reported subject of torture by U.S. authorities), appear before a military judge. 
 
 Five men, including alleged mastermind Khalid Sheikh Mohammed, refuse to enter plea in US military court in Cuba.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-laun
 
 ### [2010-09-23](/news/2010/09/23/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # 2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. 
 
 Tens of thousands of people take to the streets for the second major protest against pension reform plans in a month.

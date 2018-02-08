@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/16/in-the-united-kingdom-the-pro-fox-hunting-lobby
 
 ### [2005-02-16](/news/2005/02/16/index.md)
 
-##### fox hunting
+##### Fox hunting
 #  In the United Kingdom, the pro-fox hunting lobby Countryside Alliance loses an appeal. The Court of Appeals does not accept their claim that the Parliament Act 1949, used to introduce the Hunting Act 2004, is invalid. 
 
 

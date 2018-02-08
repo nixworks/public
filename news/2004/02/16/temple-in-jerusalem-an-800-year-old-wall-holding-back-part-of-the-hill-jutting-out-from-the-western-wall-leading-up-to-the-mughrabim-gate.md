@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/16/temple-in-jerusalem-an-800-year-old-wall-holdin
 
 ### [2004-02-16](/news/2004/02/16/index.md)
 
-##### temple
+##### Temple
 #  Temple in Jerusalem: An 800-year-old wall holding back part of the hill jutting out from the Western Wall leading up to the Mughrabim Gate partially collapses. Authorities believe a recent earthquake may be responsible. 
 
 

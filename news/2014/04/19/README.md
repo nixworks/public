@@ -9,9 +9,9 @@ Formats: [HTML](2014/04/19/index.html)  [JSON](2014/04/19/index.json)  [XML](201
 ### [Ukraine suspends operations against pro-Russian militants in the east of the country over Easter. ](/news/2014/04/19/ukraine-suspends-operations-against-pro-russian-militants-in-the-east-of-the-country-over-easter.md)
 Ukraine suspends operations against pro-Russian militants occupying government offices in the east over Easter, but the stand-off remains.
 
-##### meteorite
+##### Meteorite
 ### [A suspected meteorite explosion has been recorded over Murmansk, Russia. ](/news/2014/04/19/a-suspected-meteorite-explosion-has-been-recorded-over-murmansk-russia.md)
-_Context: Murmansk, meteorite, Russia_
+_Context: meteorite, Murmansk, Russia_
 
 ##### Indian general election
 ### [India is halfway through elections for 16th Lok Sabha in world's biggest election with an electorate of 815 million voters.](/news/2014/04/19/india-is-halfway-through-elections-for-16th-lok-sabha-in-world-s-biggest-election-with-an-electorate-of-815-million-voters.md)

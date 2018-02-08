@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/16/in-two-simultaneous-attacks-near-the-damascus-g
 
 ### [2017-06-16](/news/2017/06/16/index.md)
 
-##### two simultaneous attacks
+##### Two simultaneous attacks
 # In two simultaneous attacks near the Damascus Gate in Jerusalem, an Israeli policewoman is fatally stabbed; the three Palestinian assailants are shot dead. ISIL claims were questioned by Israeli authorities. As well, the PFLP and Hamas claim it was their members who did it. 
 
 

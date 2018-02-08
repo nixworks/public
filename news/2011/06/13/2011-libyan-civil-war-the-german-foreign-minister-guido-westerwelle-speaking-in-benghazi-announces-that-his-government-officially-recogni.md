@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/13/2011-libyan-civil-war-the-german-foreign-minist
 
 ### [2011-06-13](/news/2011/06/13/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: The German foreign minister Guido Westerwelle, speaking in Benghazi, announces that his government officially recognises the country's rebels as "the legitimate representatives of the Libyan people". 
 
 

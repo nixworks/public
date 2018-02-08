@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/17/2012-east-dr-congo-conflict-the-democratic-repu
 
 ### [2012-05-17](/news/2012/05/17/index.md)
 
-##### current east Congo conflict
+##### Current east Congo conflict
 # 2012 East DR Congo conflict: The Democratic Republic of Congo (DRC)'s military has been shelling positions it believes are held by rebels who have been fighting the army for weeks in the country's east. 
 
 Exclusive report on fighting between the army and mutineering soldiers that has led to thousands fleeing the country.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/1/a-suicide-bomb-kills-at-least-nine-including-two
 
 ### [2014-12-1](/news/2014/12/1/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 # A suicide bomb kills at least nine, including two policemen, at a funeral for a tribal elder in Baghlan Province, northern Afghanistan. 
 
 At least nine killed and 20 wounded in suicide attack at funeral in Baghlan province in northern Afghanistan.

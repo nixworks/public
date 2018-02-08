@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/15/american-scientists-develop-a-device-which-uses
 
 ### [2012-05-15](/news/2012/05/15/index.md)
 
-##### virus
+##### Virus
 # American scientists develop a device which uses genetically-engineered viruses to generate electricity. The invention could allow the development of ubiquitous piezoelectric micro-generators which gather energy from everyday vibrations such as closing doors. 
 
 Scientists in the US have developed a way to generate electricity using viruses.

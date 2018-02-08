@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/27/three-former-australian-soldiers-are-charged-wi
 
 ### [2010-09-27](/news/2010/09/27/index.md)
 
-##### soldiers
+##### Soldiers
 # Three former Australian soldiers are charged with offences including manslaughter following an action in the Afghanistan War in which six civilians died. 
 
 Taliban militants are holding the British woman kidnapped in Afghanistan and want to exchange her for a female Pakistani scientist jailed last week in America, it has been reported.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/1/a-head-on-collision-between-a-bus-and-a-minibus-
 
 ### [2013-01-1](/news/2013/01/1/index.md)
 
-##### head-on collision
+##### Head-on collision
 # A head-on collision between a bus and a minibus occurred in Thies, Senegal, killing at least 18 people and leaving another 16 wounded. 
 
 A minibus and a coach packed with pilgrims collided on Tuesday in western Senegal, killing at least 18 people and leaving another 16 wounded, emergency services said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/27/2012-afghanistan-quran-burning-protests-a-suici
 
 ### [2012-02-27](/news/2012/02/27/index.md)
 
-##### protests
+##### Protests
 # 2012 Afghanistan Quran burning protests: A suicide car bomber explodes at Jalalabad Airport in Afghanistan, killing nine. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/5/the-confirmed-worldwide-number-of-cases-of-swine
 
 ### [2009-05-5](/news/2009/05/5/index.md)
 
-##### current outbreak
+##### Current outbreak
 #  The confirmed worldwide number of cases of swine influenza reaches 1,490. 
 
 

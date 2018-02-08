@@ -3,13 +3,13 @@ Formats: [HTML](2013/12/5/index.html)  [JSON](2013/12/5/index.json)  [XML](2013/
 
 ## [2013-12-5](/news/2013/12/5/index.md)
 
-##### attack
+##### Attack
 ### [Unidentified militants attack a Defense Ministry compound in Sana'a, Yemen, killing at least 52 people and injuring 167 others. Most of the victims appear to be doctors and nurses, working at a hospital within the property. ](/news/2013/12/5/unidentified-militants-attack-a-defense-ministry-compound-in-sana-a-yemen-killing-at-least-52-people-and-injuring-167-others-most-of-the.md)
 52 doctors and nurses were killed following the attack and 167 people have been wounded.
 
 ##### United Nations
 ### [The United Nations approves the creation of the MISCA peacekeeping mission in the Central African Republic, initially led by the African Union with French military support, to help quell the ongoing civil war, as reports emerge of more than 100 people killed during recent clashes in the capital Bangui. ](/news/2013/12/5/the-united-nations-approves-the-creation-of-the-misca-peacekeeping-mission-in-the-central-african-republic-initially-led-by-the-african-uni.md)
-_Context: French military, United Nations, Central African Republic, MISCA, Bangui, sectarian violence, African Union_
+_Context: MISCA, Bangui, Central African Republic, French military, African Union, sectarian violence, United Nations_
 
 ##### Kirkuk
 ### [Militants in Kirkuk, Iraq, attack a mall and police headquarters, killing 10 people and injuring another 70. ](/news/2013/12/5/militants-in-kirkuk-iraq-attack-a-mall-and-police-headquarters-killing-10-people-and-injuring-another-70.md)
@@ -37,11 +37,11 @@ U.S. reporters say China&rsquo;s efforts to intimidate journalists have increase
 
 ##### United States Secretary of State
 ### [United States Secretary of State John Kerry meets with the Prime Minister of Israel Benjamin Netanyahu in Jerusalem to talk about many topics including the nuclear program of Iran. ](/news/2013/12/5/united-states-secretary-of-state-john-kerry-meets-with-the-prime-minister-of-israel-benjamin-netanyahu-in-jerusalem-to-talk-about-many-topic.md)
-_Context: Israeli Prime Minister, nuclear program, Benjamin Netanyahu, United States Secretary of State, John Kerry, Jerusalem_
+_Context: United States Secretary of State, Jerusalem, John Kerry, Benjamin Netanyahu, nuclear program, Israeli Prime Minister_
 
 ##### Myanmar
 ### [Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel. ](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.md)
-_Context: mass media, visa-free travel, renewable energy, his predecessor, Philippines, Thein Sein, Myanmar_
+_Context: renewable energy, his predecessor, Thein Sein, visa-free travel, Myanmar, mass media, Philippines_
 
 ##### Indonesia
 ### [Indonesia jails 14 Rohingya asylum seekers for their role in a deadly brawl in a North Sumatra detention centre that claimed 8 lives. ](/news/2013/12/5/indonesia-jails-14-rohingya-asylum-seekers-for-their-role-in-a-deadly-brawl-in-a-north-sumatra-detention-centre-that-claimed-8-lives.md)
@@ -49,7 +49,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Pope Francis
 ### [Pope Francis, in his first major action on the still very pressing issue, gives his assent during meetings on reform of the Roman Curia to the creation of a permanent expert-member Pontifical Commission which would advise the Catholic Church on how to deal with cases of the sin and crime of sex abuse of minors by those in Church ministries (as of now, it would not be able to take corrective action against lax Bishops; dioceses and then the Congregation for the Doctrine of the Faith are in charge of laicizing abusive clerics). ](/news/2013/12/5/pope-francis-in-his-first-major-action-on-the-still-very-pressing-issue-gives-his-assent-during-meetings-on-reform-of-the-roman-curia-to-t.md)
-_Context: Pope Francis, Pontifical Commission, Congregation for the Doctrine of the Faith, Roman Curia_
+_Context: Pontifical Commission, Roman Curia, Congregation for the Doctrine of the Faith, Pope Francis_
 
 ##### King of Thailand
 ### [The King of Thailand Bhumibol Adulyadej calls for stability as he celebrates his 86th birthday. ](/news/2013/12/5/the-king-of-thailand-bhumibol-adulyadej-calls-for-stability-as-he-celebrates-his-86th-birthday.md)
@@ -57,7 +57,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### South Africa
 ### [Nobel prize winner, anti-Apartheid activist, and former South African president, Nelson Mandela, dies at age 95. ](/news/2013/12/5/nobel-prize-winner-anti-apartheid-activist-and-former-south-african-president-nelson-mandela-dies-at-age-95.md)
-_Context: Nelson Mandela, South Africa_
+_Context: South Africa, Nelson Mandela_
 
 ## [Previous Day...](/news/2013/12/4/index.md)
 

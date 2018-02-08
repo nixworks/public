@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/3/an-avalanche-kills-at-least-six-people-in-the-ce
 
 ### [2009-05-3](/news/2009/05/3/index.md)
 
-##### avalanche
+##### Avalanche
 #  An avalanche kills at least six people in the Central Eastern Alps in Austria. 
 
 

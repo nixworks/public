@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/16/a-7-3-magnitude-earthquake-strikes-off-the-coas
 
 ### [2008-11-16](/news/2008/11/16/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.3 magnitude earthquake strikes off the coast of Indonesia, kills two; a tsunami warning is issued, but later lifted. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/24/american-televangelist-and-former-presidential-
 
 ### [2005-08-24](/news/2005/08/24/index.md)
 
-##### televangelist
+##### Televangelist
 #  American televangelist and former Presidential candidate, Pat Robertson apologizes for calling for the assassination of Venezuelan President Hugo Chvez. 
 
 

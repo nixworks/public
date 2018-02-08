@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/7/a-man-is-killed-and-three-other-employees-are-in
 
 ### [2016-02-7](/news/2016/02/7/index.md)
 
-##### meteorite
+##### Meteorite
 # A man is killed and three other employees are injured following a suspected meteorite strike in a garden outside the Bharathidasan Engineering College in Tamil Nadu, India. Witnesses say they saw a mysterious object fall from the sky. If confirmed, this would be the first recorded fatality from a meteorite strike. 
 
 The explosion created a small crater near the building complex.

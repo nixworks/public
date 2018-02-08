@@ -7,7 +7,7 @@ Formats: [HTML](2016/01/22/index.html)  [JSON](2016/01/22/index.json)  [XML](201
 ### [Douglas Borough Council announces that the Douglas Bay Horse Tramway, at Douglas, Isle of Man, ran for the last time at the end of the 2015 season. ](/news/2016/01/22/douglas-borough-council-announces-that-the-douglas-bay-horse-tramway-at-douglas-isle-of-man-ran-for-the-last-time-at-the-end-of-the-2015.md)
 The Isle of Man horse tram service is to be terminated after 140 years, Douglas council confirms.
 
-##### electric car project
+##### Electric car project
 ### [Steve Zadesky, who has been running the electric car project for Apple Inc. for two years, will leave that company soon for personal reasons, according to the Wall Street Journal. ](/news/2016/01/22/steve-zadesky-who-has-been-running-the-electric-car-project-for-apple-inc-for-two-years-will-leave-that-company-soon-for-personal-reasons.md)
 Steve Zadesky, a 16-year Apple veteran who has been overseeing its electric-car project for the last two years, has told people he is leaving the company.
 
@@ -25,7 +25,7 @@ A small community in northern Saskatchewan is reeling after shootings at two loc
 
 ##### Wei Hong
 ### [Wei Hong resigns as Governor of Sichuan province in China after it was revealed that he was undergoing investigation for "breaching party discipline." Former World Health Organization executive committee member Yin Li becomes acting governor. ](/news/2016/01/22/wei-hong-resigns-as-governor-of-sichuan-province-in-china-after-it-was-revealed-that-he-was-undergoing-investigation-for-breaching-party-di.md)
-_Context: Sichuan, World Health Organization, Yin Li, Wei Hong_
+_Context: World Health Organization, Yin Li, Sichuan, Wei Hong_
 
 ## [Previous Day...](/news/2016/01/21/index.md)
 

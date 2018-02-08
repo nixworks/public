@@ -3,9 +3,9 @@ Formats: [HTML](2009/11/17/index.html)  [JSON](2009/11/17/index.json)  [XML](200
 
 ## [2009-11-17](/news/2009/11/17/index.md)
 
-##### human rights
+##### Human rights
 ### [ A prominent human rights campaigner for the Western Sahara region, Aminatou Haidar, who is on hunger strike at an airport in the Canary Islands, is to appear in a Spanish court on charges of public disorder. ](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.md)
-_Context: hunger strike, Spain, human rights, Western Sahara, Aminatou Haidar, Canary Islands'_
+_Context: hunger strike, Canary Islands', Spain, human rights, Western Sahara, Aminatou Haidar_
 
 ##### Comoros
 ### [ The head of the opposition in Comoros is arrested after openly criticising President Ahmed Abdallah Mohamed Sambi. ](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.md)
@@ -13,7 +13,7 @@ _Context: President, Ahmed Abdallah Mohamed Sambi, Comoros_
 
 ##### Slovakia
 ### [ Slovakia and the Czech Republic mark the 20th anniversary of the Velvet Revolution which overthrew the communist government of Czechoslovakia. ](/news/2009/11/17/slovakia-and-the-czech-republic-mark-the-20th-anniversary-of-the-velvet-revolution-which-overthrew-the-communist-government-of-czechoslovak.md)
-_Context: Czech Republic, Slovakia, Velvet Revolution, communism, Czechoslovakia_
+_Context: Velvet Revolution, communism, Czechoslovakia, Czech Republic, Slovakia_
 
 ##### Russia
 ### [ A Russian icebreaker with 100 tourists on board is stranded in ice in the Antarctic. ](/news/2009/11/17/a-russian-icebreaker-with-100-tourists-on-board-is-stranded-in-ice-in-the-antarctic.md)
@@ -33,7 +33,7 @@ Charges against two Indonesian anti-corruption officials should be dropped, a pr
 
 ##### South Africa
 ### [ South African human rights activist Kumi Naidoo becomes the executive director of Greenpeace, the first African to head the organisation. ](/news/2009/11/17/south-african-human-rights-activist-kumi-naidoo-becomes-the-executive-director-of-greenpeace-the-first-african-to-head-the-organisation.md)
-_Context: Kumi Naidoo, human rights activist, South Africa, Greenpeace India's_
+_Context: South Africa, Greenpeace India's, human rights activist, Kumi Naidoo_
 
 ##### Barack Obama
 ### [ U.S. President Barack Obama continues his first trip to China and meets with Chinese President Hu Jintao and Premier Wen Jiabao. ](/news/2009/11/17/u-s-president-barack-obama-continues-his-first-trip-to-china-and-meets-with-chinese-president-hu-jintao-and-premier-wen-jiabao.md)

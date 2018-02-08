@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/2/a-large-blast-occurs-in-rawalpindi-pakistan-kill
 
 ### [2009-11-2](/news/2009/11/2/index.md)
 
-##### large blast
+##### Large blast
 #  A large blast occurs in Rawalpindi, Pakistan, killing at least 35. 
 
 

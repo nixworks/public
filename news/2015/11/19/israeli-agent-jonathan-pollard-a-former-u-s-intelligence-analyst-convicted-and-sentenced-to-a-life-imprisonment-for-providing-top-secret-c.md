@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/19/israeli-agent-jonathan-pollard-a-former-u-s-int
 
 ### [2015-11-19](/news/2015/11/19/index.md)
 
-##### spy
+##### Spy
 # Israeli agent Jonathan Pollard, a former U.S. intelligence analyst convicted and sentenced to a life imprisonment for providing top secret classified information to Israel, will be released by the Obama Administration on parole tomorrow after serving 30 years in a U.S. federal prison. He will be given an ankle monitor while he completes five years of parole in America. 
 
 Pollard has been serving a life sentence in a US prison since 1987.

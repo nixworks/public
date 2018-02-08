@@ -33,7 +33,7 @@ Coup leaders suspend constitution after soldiers storm presidential palace in ca
 
 ##### Live Earth
 ### [Live Earth, organizer of The Dow Live Earth Run for Water, Cape Town race director announced The Parlotones concert at the Speir Wine Estate in Cape Town. ](/news/2010/02/18/live-earth-organizer-of-the-dow-live-earth-run-for-water-cape-town-race-director-announced-the-parlotones-concert-at-the-speir-wine-estate.md)
-_Context: The Parlotones, Live Earth, Cape Town, The Dow Live Earth Run for Water_
+_Context: The Dow Live Earth Run for Water, Live Earth, Cape Town, The Parlotones_
 
 ##### United Nations
 ### [The top climate change official at the United Nations and Executive Secretary of the United Nations Framework Convention on Climate Change, Yvo de Boer, announces his resignation. ](/news/2010/02/18/the-top-climate-change-official-at-the-united-nations-and-executive-secretary-of-the-united-nations-framework-convention-on-climate-change.md)
@@ -43,7 +43,7 @@ The top climate change official at the UN is resigning after nearly four years o
 ### [Humanitarian group Mdecins Sans Frontires accuses Bangladesh of a "crackdown" on Muslim Rohingya refugees from Burma. ](/news/2010/02/18/humanitarian-group-medecins-sans-frontieres-accuses-bangladesh-of-a-crackdown-on-muslim-rohingya-refugees-from-burma.md)
 Médecins Sans Frontières (MSF) is an international, independent, medical humanitarian organisation.
 
-##### crashed his plane in Austin, United States
+##### Crashed his plane in Austin, United States
 ### [A small private plane is intentionally crashed into an office building in Austin, Texas. ](/news/2010/02/18/a-small-private-plane-is-intentionally-crashed-into-an-office-building-in-austin-texas.md)
 A pilot furious with the IRS crashed his small plane into an Austin, Texas, office building where nearly 200 federal tax employees work on Thursday, ignited a raging fire.
 

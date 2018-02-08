@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/31/a-female-suicide-bomber-kills-ten-and-injures-5
 
 ### [2004-08-31](/news/2004/08/31/index.md)
 
-##### female suicide bombing
+##### Female suicide bombing
 #  A female suicide bomber kills ten and injures 51 others near a subway station in Moscow. 
 
 

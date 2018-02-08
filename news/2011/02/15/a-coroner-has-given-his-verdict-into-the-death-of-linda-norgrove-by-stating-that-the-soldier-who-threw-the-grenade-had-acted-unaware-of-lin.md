@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/15/a-coroner-has-given-his-verdict-into-the-death-
 
 ### [2011-02-15](/news/2011/02/15/index.md)
 
-##### death of Linda Norgrove
+##### Death of Linda Norgrove
 # A coroner has given his verdict into the death of Linda Norgrove by stating that the soldier who threw the grenade had "acted unaware of Linda's presence". 
 
 

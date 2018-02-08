@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/26/over-200-people-have-been-killed-in-intense-rai
 
 ### [2005-07-26](/news/2005/07/26/index.md)
 
-##### rain
+##### Rain
 #  Over 200 people have been killed in intense rain storms in Maharashtra, India, described by the Chief Minister of the state as the heaviest recorded rainfall in a single day in India. One third of the state Capital, Mumbai, is said to be underwater causing more than a two hundred thousand people to be stranded in offices and roads for about 24 hours. 
 
 Life in Mumbai and the rest of Maharashtra came to a standstill as torrential rains killed over 100 people across the Konkan belt and Thane districts and stopped rail and air traffic. | Over 100 killed in Maharashtra downpour

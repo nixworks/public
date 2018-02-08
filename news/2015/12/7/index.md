@@ -19,19 +19,19 @@ Staples Inc. will face a challenge by U.S. antitrust officials, who said the off
 ### [ General Electric announces that it has abandoned its plan to sell its appliances business to Sweden's Electrolux. The U.S. Department of Justice had filed an antitrust suit in summer 2015 to block the $3.3 billion acquisition. ](/news/2015/12/7/general-electric-announces-that-it-has-abandoned-its-plan-to-sell-its-appliances-business-to-sweden-s-electrolux-the-u-s-department-of-ju.md)
 General Electric Co. has abandoned a $3.3 billion agreement to sell its appliances business to Electrolux AB of Sweden, walking away from the deal amid a courtroom fight with U.S. antitrust regulators.
 
-##### earthquake
+##### Earthquake
 ### [ A powerful, magnitude 7.2 earthquake has shaken Tajikistan. It was felt as far away as India, Pakistan, and Afghanistan. No damage or casualties have been reported as the epicenter lies within the vast Badakhshan national park. The US Geological Survey describes the area as one of the "most seismically hazardous regions on Earth" because of tectonic activity along shifting fault lines. ](/news/2015/12/7/a-powerful-magnitude-7-2-earthquake-has-shaken-tajikistan-it-was-felt-as-far-away-as-india-pakistan-and-afghanistan-no-damage-or-casua.md)
 A magnitude 7.2 earthquake has hit Tajikistan, according to the US Geological Survey. It struck at 7.50am today with an epicentre in the Gorno-Badakhshan Autonomous Region, around 70 miles west of the city of Murghob, seismologists said. Tremors were felt in Delhi, as well as in Punjab, Uttar Prades...
 
 ##### Pollution in China
 ### [Beijing's city government issues its first red alert for pollution, ordering schools to close, halting outdoor construction, and restricting car use due to hazardous air quality. ](/news/2015/12/7/beijing-s-city-government-issues-its-first-red-alert-for-pollution-ordering-schools-to-close-halting-outdoor-construction-and-restricting.md)
-_Context: hazardous air quality, Beijing, pollution, Pollution in China_
+_Context: Pollution in China, hazardous air quality, pollution, Beijing_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Storm Desmond shatters U.K. rainfall records as an incredible 13.44 inches of rain fell in 24 hours at Honister Pass in the Lake District in North West England. The 15.94 inches of rain at Thirlmere -- also in the Lake District -- set a new record for the 48-hour period. ](/news/2015/12/7/storm-desmond-shatters-u-k-rainfall-records-as-an-incredible-13-44-inches-of-rain-fell-in-24-hours-at-honister-pass-in-the-lake-district-in.md)
 Heavy rain is expected tomorrow as the Government pledges to re-examine flood defence spending after the &quot;unprecedented&quot; rainfall.
 
-##### gas cylinder
+##### Gas cylinder
 ### [A blaze, sparked by a quick succession of between 15 and 20 gas cylinder explosions, in the Kandivali suburb of Mumbai, India, kills at least two and injures 11 while destroying around 1,000 hutment homes. ](/news/2015/12/7/a-blaze-sparked-by-a-quick-succession-of-between-15-and-20-gas-cylinder-explosions-in-the-kandivali-suburb-of-mumbai-india-kills-at-leas.md)
 Officials warn the number of dead could rise - as a witness describes the devastation among those left homeless.
 
@@ -41,7 +41,7 @@ Turkey accused Russia of a &quot;provocation&quot; on Sunday after a serviceman 
 
 ##### Russia
 ### [Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. ](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.md)
-_Context: IAEA, low-enriched uranium, Joint Comprehensive Plan of Action, Iran, Russia, several world powers, uranium_
+_Context: IAEA, several world powers, Joint Comprehensive Plan of Action, low-enriched uranium, uranium, Russia, Iran_
 
 ##### Iran's Cyber Police Chief
 ### [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gro.md)
@@ -59,11 +59,11 @@ The department has had longstanding concerns about the Chicago police, but the c
 ### [United States Homeland Security Secretary Jeh Johnson says the Obama administration will announce a new terror alert system "in the coming days," that will better inform the public about threats to the United States. This will be the third terror alert system put in place since the September 11, 2001, terrorist attacks. ](/news/2015/12/7/united-states-homeland-security-secretary-jeh-johnson-says-the-obama-administration-will-announce-a-new-terror-alert-system-in-the-coming-d.md)
 WASHINGTON -- The Obama administration will announce a new terror alert system &quot;in the coming days,&quot; Homeland Security Secretary Jeh Johnson said Monday. Johnson said the new alert system will better inform the public about threats to the United States,...
 
-##### whaling
+##### Whaling
 ### [Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. ](/news/2015/12/7/australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-antarctic-ocean-a-wh.md)
-_Context: Southern Ocean, whaling, International Court of Justice, Japan, Australia, whale, hunt_
+_Context: Australia, hunt, whale, whaling, International Court of Justice, Japan, Southern Ocean_
 
-##### landslide victory in the December 6 election
+##### Landslide victory in the December 6 election
 ### [Venezuela's National Electoral Council announces the opposition Democratic Unity Roundtable (MUD) has won at least 99 seats in the 167-member National Assembly in Sunday's elections. The previous-ruling United Social Party of Venezuela (PSUV) picked up 46. Results for 22 contests remain to be determined. Voter turnout was a stunning 74.3 percent. "Within seconds," President Nicolas Maduro recognized the opposition's win, saying that despite (his party's) adverse result, Venezuela's democracy has triumphed. ](/news/2015/12/7/venezuela-s-national-electoral-council-announces-the-opposition-democratic-unity-roundtable-mud-has-won-at-least-99-seats-in-the-167-membe.md)
 The opposition in Venezuela wins a majority of seats in the National Assembly, overturning nearly two decades of dominance by the governing Socialists.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/8/the-first-full-map-of-the-debris-field-of-the-re
 
 ### [2012-03-8](/news/2012/03/8/index.md)
 
-##### debris field
+##### Debris field
 # The first full map of the debris field of the remains of the Titanic is announced. 
 
 

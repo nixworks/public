@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/24/a-magnitude-7-0-undersea-earthquake-strikes-off
 
 ### [2009-10-24](/news/2009/10/24/index.md)
 
-##### earthquake
+##### Earthquake
 #  A magnitude 7.0 undersea earthquake strikes off the coast of eastern Indonesia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/8/voters-in-the-u-s-states-of-mississippi-michigan
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
-##### presidential primaries
+##### Presidential primaries
 # Voters in the U.S. states of Mississippi, Michigan, Hawaii and Idaho vote in primary elections and caucuses. 
 
 Live presidential election results and maps.

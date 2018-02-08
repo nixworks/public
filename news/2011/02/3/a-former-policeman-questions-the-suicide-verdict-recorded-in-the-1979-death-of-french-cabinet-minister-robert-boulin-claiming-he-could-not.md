@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/3/a-former-policeman-questions-the-suicide-verdict
 
 ### [2011-02-3](/news/2011/02/3/index.md)
 
-##### suicide
+##### Suicide
 # A former policeman questions the suicide verdict recorded in the 1979 death of French cabinet minister Robert Boulin, claiming he could not have drowned. His family believe he was murdered. 
 
 An ex-policeman raises questions about the verdict of suicide in the death of French minister Robert Boulin in 1979.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/17/a-string-of-bombings-most-of-them-in-sunni-area
 
 ### [2013-05-17](/news/2013/05/17/index.md)
 
-##### wave of violence
+##### Wave of violence
 # A string of bombings, most of them in Sunni areas of Iraq, kill at least 90 people and injured more than 200 others. 
 
 

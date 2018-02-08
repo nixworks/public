@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/1/local-government-in-england-undergoes-structural
 
 ### [2009-04-1](/news/2009/04/1/index.md)
 
-##### local government
+##### Local government
 #  Local government in England undergoes structural changes. 
 
 

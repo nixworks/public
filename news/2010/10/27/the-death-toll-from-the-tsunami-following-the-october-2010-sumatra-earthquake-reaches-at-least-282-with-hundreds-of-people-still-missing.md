@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/27/the-death-toll-from-the-tsunami-following-the-o
 
 ### [2010-10-27](/news/2010/10/27/index.md)
 
-##### tsunami
+##### Tsunami
 # The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. 
 
 The death toll from a tsunami in western Indonesia rises to 282, officials say, as doubts emerge about whether an early warning system was working properly.

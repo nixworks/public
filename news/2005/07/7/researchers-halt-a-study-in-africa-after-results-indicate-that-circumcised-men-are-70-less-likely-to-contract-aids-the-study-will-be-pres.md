@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/7/researchers-halt-a-study-in-africa-after-results
 
 ### [2005-07-7](/news/2005/07/7/index.md)
 
-##### circumcising
+##### Circumcising
 #  Researchers halt a study in Africa after results indicate that circumcised men are 70% less likely to contract AIDS. The study will be presented at the Third International AIDS Society Conference on HIV Pathogenesis and Treatment later this month. Meanwhile, others argue that ritual circumcision "increases" the risk of infection because of poor sanitary conditions. 
 
 

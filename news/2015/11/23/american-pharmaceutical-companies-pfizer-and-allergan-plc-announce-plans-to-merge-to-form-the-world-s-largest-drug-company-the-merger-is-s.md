@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/23/american-pharmaceutical-companies-pfizer-and-al
 
 ### [2015-11-23](/news/2015/11/23/index.md)
 
-##### pharmaceutical companies
+##### Pharmaceutical companies
 # American pharmaceutical companies Pfizer and Allergan, Plc announce plans to merge to form the world's largest drug company. The merger is subject to approval from regulators in the U.S., European Union and elsewhere as well as approval by shareholders of both companies. If approved, the deal will reduce tax revenue paid to the U.S. by approximately $930 million. 
 
 $160 billion deal to combine Pfizer and Allergan raises outcry

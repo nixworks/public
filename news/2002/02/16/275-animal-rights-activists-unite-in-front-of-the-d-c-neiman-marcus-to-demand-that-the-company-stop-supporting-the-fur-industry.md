@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/02/16/275-animal-rights-activists-unite-in-front-of-t
 
 ### [2002-02-16](/news/2002/02/16/index.md)
 
-##### animal rights activist
+##### Animal rights activist
 #  275 animal rights activists unite in front of the D.C. Neiman Marcus to demand that the company stop supporting the fur industry.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/30/a-suicide-bomber-kills-three-in-a-bar-in-tel-av
 
 ### [2003-04-30](/news/2003/04/30/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills three in a bar in Tel Aviv.
 
 

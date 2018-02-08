@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/14/the-american-international-group-seeks-an-emerg
 
 ### [2008-09-14](/news/2008/09/14/index.md)
 
-##### housing crisis
+##### Housing crisis
 #  The American International Group seeks an emergency $40 billion loan from the United States Federal Reserve. 
 
 

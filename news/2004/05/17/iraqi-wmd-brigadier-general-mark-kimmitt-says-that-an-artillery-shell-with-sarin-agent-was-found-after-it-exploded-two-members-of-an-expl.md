@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/17/iraqi-wmd-brigadier-general-mark-kimmitt-says-t
 
 ### [2004-05-17](/news/2004/05/17/index.md)
 
-##### weapons of mass destruction
+##### Weapons of mass destruction
 #  Iraqi WMD: Brigadier General Mark Kimmitt says that an artillery shell with sarin agent was found after it exploded. Two members of an explosives team are exposed to it, and have been treated. Hans Blix doubts that this was part of a current Iraq WMD, and doubts have been cast as to the accuracy of the field tests.
 
 

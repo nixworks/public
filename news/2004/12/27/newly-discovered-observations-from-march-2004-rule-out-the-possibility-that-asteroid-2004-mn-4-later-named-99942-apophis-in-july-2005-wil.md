@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/27/newly-discovered-observations-from-march-2004-r
 
 ### [2004-12-27](/news/2004/12/27/index.md)
 
-##### asteroid
+##### Asteroid
 #  Newly discovered observations from March 2004 rule out the possibility that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005) will hit Earth in 2029. 
 
 

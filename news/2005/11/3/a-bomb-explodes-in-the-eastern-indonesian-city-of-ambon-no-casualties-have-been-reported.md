@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/3/a-bomb-explodes-in-the-eastern-indonesian-city-o
 
 ### [2005-11-3](/news/2005/11/3/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes in the eastern Indonesian city of Ambon. No casualties have been reported. 
 
 

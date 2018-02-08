@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/7/three-car-bombs-are-detonated-in-egyptian-towns-
 
 ### [2004-10-7](/news/2004/10/7/index.md)
 
-##### car bomb
+##### Car bomb
 #  Three car bombs are detonated in Egyptian towns in the Sinai Peninsula frequented by Israeli tourists. The largest explosion, which killed at least 34 and wounding 105, was at the Hilton Taba in Taba, near the border with Israel. The other two explosions occurred at the towns of Ras al-Sultan and Nuweiba, killing two Israelis and four Egyptians. A group calling itself "Jamayia al-Islamia al-Alamiya" ("World Islamist Group") later claims responsibility and threatens further attacks. 
 
 

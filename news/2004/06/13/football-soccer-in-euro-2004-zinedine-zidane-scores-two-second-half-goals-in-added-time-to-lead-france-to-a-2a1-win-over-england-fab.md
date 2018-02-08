@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/13/football-soccer-in-euro-2004-zinedine-zidane-sc
 
 ### [2004-06-13](/news/2004/06/13/index.md)
 
-##### footballer
+##### Footballer
 #  Football (soccer): In Euro 2004, Zinedine Zidane scores two second-half goals in added time to lead France to a 2-1 win over England. Fabien Barthez saved a David Beckham penalty earlier in the second half to help make France's win possible. 
 
 

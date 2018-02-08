@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/05/28/the-volcano-mount-cameroon-erupts.html)  [JSON]
 
 ### [2000-05-28](/news/2000/05/28/index.md)
 
-##### volcano
+##### Volcano
 # The volcano Mount Cameroon erupts.
 
 

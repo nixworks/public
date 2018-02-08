@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/31/guardian-council-officially-confirmed-the-resul
 
 ### [2017-05-31](/news/2017/05/31/index.md)
 
-##### re-elected
+##### Re-elected
 # Guardian Council officially confirmed the result of the election which saw Incumbent President Hassan Rouhani reelected for another four years in office. 
 
 The Guardian Council confirms the result of Iran’s 12th presidential election.

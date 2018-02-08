@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/4/a-new-species-of-giant-tarantula-poecilotheria-r
 
 ### [2013-04-4](/news/2013/04/4/index.md)
 
-##### tarantula
+##### Tarantula
 # A new species of giant tarantula, "Poecilotheria rajaei", is discovered in Sri Lanka. 
 
 

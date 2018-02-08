@@ -11,7 +11,7 @@ Latest updates in the aftermath of the raid on St-Denis, in which two suspects d
 ### [Russian warships launch cruise missiles from the Caspian Sea against Islamic State of Iraq and the Levant positions in Syria's eastern Deir ez-Zor. Russian Defense Minister, Sergey Shoigu, reported over 600 terrorists were killed in the strikes. Video footage also emerged of Russian ground crew servicemen writing the words "For Paris" on bombs to be dropped on ISIL targets in a show of solidarity with France in the wake of the November 13 terror attacks that left 130 people dead in Paris. ](/news/2015/11/20/russian-warships-launch-cruise-missiles-from-the-caspian-sea-against-islamic-state-of-iraq-and-the-levant-positions-in-syria-s-eastern-deir.md)
 The Russian military has launched cruise missiles against Islamic State positions in Syria from both the Mediterranean and Caspian seas, one of which killed over 600 terrorists in the Deir Ex-Zor Province, Russian Defense Minister Sergey Shoigu has said.
 
-##### siege
+##### Siege
 ### [Ten gunmen storm the five-star Radisson Blu Hotel in the Malian capital Bamako, taking 170 hostages with at least 27 people killed. The grenade-toting assailants free captives who are able to recite the Quran. The hotel is "often used" by Air France staff. ](/news/2015/11/20/ten-gunmen-storm-the-five-star-radisson-blu-hotel-in-the-malian-capital-bamako-taking-170-hostages-with-at-least-27-people-killed-the-gren.md)
 Gunmen took at least 170 people hostage at a hotel in the former French colony of Mali Friday. At least 20 were killed, and two attackers are dead.
 
@@ -37,7 +37,7 @@ A New York businesswoman who wanted to bring a &quot;grander scale&quot; to her 
 
 ##### Karowe AK6
 ### [The world's second-largest diamond of gem quality, Karowe AK6, is found in the Karowe mine located north of the Botswanan capital Gaborone by the Lucara Diamond Corp. The 1,111-carat diamond is second only to the 3,106-carat Cullinan diamond (Star of Africa) found in South Africa in 1905. ](/news/2015/11/20/the-worldas-second-largest-diamond-of-gem-quality-karowe-ak6-is-found-in-the-karowe-mine-located-north-of-the-botswanan-capital-gaborone.md)
-_Context: South Africa, Gaborone, Lucara Diamond Corp., Cullinan diamond, Karowe AK6, Botswana_
+_Context: South Africa, Cullinan diamond, Botswana, Karowe AK6, Gaborone, Lucara Diamond Corp._
 
 ##### National Union of Journalists
 ### [Britain's National Union of Journalists announces a strike against the "Financial Times", protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-sin.md)
@@ -49,7 +49,7 @@ EU ministers hold emergency talks today on tightening border checks after the ki
 
 ##### North Korea-South Korea relations
 ### [North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-and-south-korea-agree-to-hold-talks-next-week.md)
-_Context: South Korea, North Korea, North Korea-South Korea relations_
+_Context: North Korea, South Korea, North Korea-South Korea relations_
 
 ##### Sweden
 ### [Sweden's national security service "Sapo" are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-pla.md)
@@ -59,7 +59,7 @@ UPDATED: Police are questioning Moder Mothama Magid, a 22-year-old Iraqi man arr
 ### [The family of Swedish diplomat Raoul Wallenberg, who saved tens of thousands of Jews from the Holocaust only to languish in a Russian prison, have asked authorities to officially declare him dead. ](/news/2015/11/20/the-family-of-swedish-diplomat-raoul-wallenberg-who-saved-tens-of-thousands-of-jews-from-the-holocaust-only-to-languish-in-a-russian-prison.md)
 Swedish diplomat who saved thousands of Jews during the Holocaust disappeared in 1945 after being detained by Soviet officers
 
-##### parole
+##### Parole
 ### [The United States releases on parole convicted Israeli spy Jonathan Pollard, a former U.S. intelligence analyst, who served 30 years in federal prison. His parole, approved on July 28, 2015, is for five years during which time he has to remain in the United States. A supporter said Pollard will have a curfew and will wear a GPS unit. ](/news/2015/11/20/the-united-states-releases-on-parole-convicted-israeli-spy-jonathan-pollard-a-former-u-s-intelligence-analyst-who-served-30-years-in-fede.md)
 Jonathan Pollard to be paroled on Friday, but won’t be able to travel or use the Internet
 
@@ -81,7 +81,7 @@ NASA has officially ordered its first commercial crew mission from private space
 
 ##### Apple Inc.
 ### [A jury in a Texas federal court finds for Apple Inc., in a lawsuit brought against Apple by a subsidiary of Pendrell Corporation. Pendrell has charged that Apple infringed patents on techniques that help restrict the use of web content to authorized persons, i.e. anti-piracy software. ](/news/2015/11/20/a-jury-in-a-texas-federal-court-finds-for-apple-inc-in-a-lawsuit-brought-against-apple-by-a-subsidiary-of-pendrell-corporation-pendrell-h.md)
-_Context: Pendrell Corporation, anti-piracy, Apple Inc._
+_Context: Apple Inc., Pendrell Corporation, anti-piracy_
 
 ## [Previous Day...](/news/2015/11/19/index.md)
 

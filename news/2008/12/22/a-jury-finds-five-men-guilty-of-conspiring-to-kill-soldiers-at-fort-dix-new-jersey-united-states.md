@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/22/a-jury-finds-five-men-guilty-of-conspiring-to-k
 
 ### [2008-12-22](/news/2008/12/22/index.md)
 
-##### conspiring to kill soldiers
+##### Conspiring to kill soldiers
 #  A jury finds five men guilty of conspiring to kill soldiers at Fort Dix, New Jersey, United States. 
 
 

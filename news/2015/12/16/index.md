@@ -13,7 +13,7 @@ Syed Rizwan Farook and his wife Tashfeen Malik did not make open posts on social
 
 ##### United States
 ### [In a widely expected move, the United States Federal Reserve Board raised the federal funds interest rate, the rate banks charge each other for overnight loans, from the 0-.25% range to the .25-.50% range. U.S. stock markets rallied on the news. ](/news/2015/12/16/in-a-widely-expected-move-the-united-states-federal-reserve-board-raised-the-federal-funds-interest-rate-the-rate-banks-charge-each-other.md)
-_Context: United States, benchmark interest rate, Federal Reserve Board_
+_Context: benchmark interest rate, Federal Reserve Board, United States_
 
 ##### Air India
 ### [An Air India aircraft maintenance technician is killed at Mumbai's Chhatrapati Shivaji International Airport in India after being sucked by an Air India Airbus A319's aircraft engine during pushback. ](/news/2015/12/16/an-air-india-aircraft-maintenance-technician-is-killed-at-mumbai-s-chhatrapati-shivaji-international-airport-in-india-after-being-sucked-by.md)
@@ -25,7 +25,7 @@ By Andrew M. Seaman(Reuters Health) - Offering the families of children with app
 
 ##### Cuba-United States relations
 ### [The United States and Cuba reach an understanding on restoring regularly scheduled commercial flights. Currently, the only option available is charter flights. ](/news/2015/12/16/the-united-states-and-cuba-reach-an-understanding-on-restoring-regularly-scheduled-commercial-flights-currently-the-only-option-available.md)
-_Context: commercial flights, Cuba, United States, Cuba-United States relations, charter flights_
+_Context: Cuba-United States relations, Cuba, charter flights, commercial flights, United States_
 
 ##### NATO
 ### [NATO leadership signs an agreement with the Ukrainian government to assist the country's modernization of its defense industry and capabilities. ](/news/2015/12/16/nato-leadership-signs-an-agreement-with-the-ukrainian-government-to-assist-the-country-s-modernization-of-its-defense-industry-and-capabilit.md)
@@ -57,7 +57,7 @@ Clergyman arrested in February was previously shown in video released by regime 
 
 ##### Minnesota
 ### [A bank in Minnesota (U.S.) is robbed by the same person a second time while an Iowa television station was doing a live update on the first robbery. The robber was arrested shortly afterwards. ](/news/2015/12/16/a-bank-in-minnesota-u-s-is-robbed-by-the-same-person-a-second-time-while-an-iowa-television-station-was-doing-a-live-update-on-the-first.md)
-_Context: television station, Minnesota, Iowa_
+_Context: Minnesota, television station, Iowa_
 
 ##### Baltimore
 ### [After the jury fails to reach a unanimous decision, a Baltimore, Maryland, judge declares a mistrial in the trial of police officer William Porter, the first officer to be charged in the death of Freddie Gray. ](/news/2015/12/16/after-the-jury-fails-to-reach-a-unanimous-decision-a-baltimore-maryland-judge-declares-a-mistrial-in-the-trial-of-police-officer-william.md)
@@ -67,11 +67,11 @@ The jury is hung and the judge declared a mistrial in the trial of Baltimore off
 ### [About 100 men in more than 50 machine gun-mounted trucks kidnap at least 26 Qataris, including members of the royal family, from a hunting camp in Iraq near the Saudi border. ](/news/2015/12/16/about-100-men-in-more-than-50-machine-gun-mounted-trucks-kidnap-at-least-26-qataris-including-members-of-the-royal-family-from-a-hunting-c.md)
 Some 100 men in trucks with machine guns abducted the group from a remote desert area in southern Iraq.
 
-##### lawmakers
+##### Lawmakers
 ### [Members of the U.S. Congress reach a spending deal that, once passed by both houses, will prevent a year-end government shutdown and will fund Fiscal Year 2016 federal government operations. President Barack Obama signs a separate bipartisan bill that extends government funding through Tuesday, December 22. ](/news/2015/12/16/members-of-the-u-s-congress-reach-a-spending-deal-that-once-passed-by-both-houses-will-prevent-a-year-end-government-shutdown-and-will-fu.md)
 The House and Senate are expected to pass the legislation by the end of the week.
 
-##### election
+##### Election
 ### [Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-event-in-the-city-of-pontevedra.md)
 TV footage shows young man hitting prime minister on side of head but a party spokesperson said he was not hurt in the incident
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accor
 
 ### [2006-07-26](/news/2006/07/26/index.md)
 
-##### second Dby administration
+##### Second Dby administration
 #  The governments of Chad and Sudan sign an accord officially ending the Chadian-Sudanese conflict. The deal has many provisions similar to that of the Tripoli Accord, which Sudan has violated four times by aiding Janjaweed, UFDC, and anti-Boziz rebels and genocidaires. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/21/the-united-states-formally-lifts-its-general-tr
 
 ### [2004-09-21](/news/2004/09/21/index.md)
 
-##### sanctions
+##### Sanctions
 #  The United States formally lifts its general trade and aviation sanctions against Libya today, in response to Libya's decision last year to permit the removal of many of its weapons of mass destruction. 
 
 

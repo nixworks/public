@@ -9,11 +9,11 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 
 ##### Mina Ahadi
 ### [Iranian human rights activist Mina Ahadi tries to stop death by stoning for an Iranian woman convicted of adultery. ](/news/2010/07/4/iranian-human-rights-activist-mina-ahadi-tries-to-stop-death-by-stoning-for-an-iranian-woman-convicted-of-adultery.md)
-_Context: Mina Ahadi, Capital punishment in Iran, adultery, Iran_
+_Context: Capital punishment in Iran, adultery, Mina Ahadi, Iran_
 
-##### Lebanon
+##### Lebanese
 ### [Lebanese Ayatollah Mohammad Hussein Fadlallah dies suddenly in Beirut. ](/news/2010/07/4/lebanese-ayatollah-mohammad-hussein-fadlallah-dies-suddenly-in-beirut.md)
-_Context: Beirut, Mohammad Hussein Fadlallah, Ayatollah, Lebanon_
+_Context: Mohammad Hussein Fadlallah, Beirut, Lebanese, Ayatollah_
 
 ##### Philippines
 ### [At least 15 people are killed and 48 are injured after the driver of a runaway bus smashes into a concrete wall in the Philippines. ](/news/2010/07/4/at-least-15-people-are-killed-and-48-are-injured-after-the-driver-of-a-runaway-bus-smashes-into-a-concrete-wall-in-the-philippines.md)
@@ -25,11 +25,11 @@ Female suicide bomber kills at least four people in western province of Anbar.
 
 ##### Mahmoud al-Zahar
 ### [Women and children march towards Mahmoud al-Zahar's house in Gaza to hand him a letter calling on Hamas to insist on the release of 1,000 Israeli-held Palestinian prisoners during their talks with Israel. ](/news/2010/07/4/women-and-children-march-towards-mahmoud-al-zahar-s-house-in-gaza-to-hand-him-a-letter-calling-on-hamas-to-insist-on-the-release-of-1-000-is.md)
-_Context: Mahmoud al-Zahar, Gaza Strip, Hamas_
+_Context: Hamas, Gaza Strip, Mahmoud al-Zahar_
 
-##### president
+##### President
 ### [President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. ](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-takes-his-last-tour-of-africa-as-president.md)
-_Context: Luiz Inacio Lula da Silva, Africa, president_
+_Context: president, Africa, Luiz Inacio Lula da Silva_
 
 ##### David Petraeus
 ### [David Petraeus formally takes command of the International Security Assistance Force in Afghanistan. ](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.md)
@@ -37,11 +37,11 @@ American Gen. David Petraeus formally assumes command of the 130,000-strong inte
 
 ##### Iran
 ### [Iran passes on to Tehran's Swiss embassy what it describes as evidence proving that the United States Central Intelligence Agency abducted Iranian nuclear scientist Shahram Amiri. ](/news/2010/07/4/iran-passes-on-to-tehran-s-swiss-embassy-what-it-describes-as-evidence-proving-that-the-united-states-central-intelligence-agency-abducted-i.md)
-_Context: Tehran, Iran, Central Intelligence Agency, Switzerland, United States, Shahram Amiri_
+_Context: Iran, United States, Shahram Amiri, Switzerland, Tehran, Central Intelligence Agency_
 
 ##### Japan
 ### [Japan's competitive eating champion Takeru "Tsunami" Kobayashi is arrested after disrupting the Nathan's Hot Dog Eating Contest in New York City, United States. ](/news/2010/07/4/japan-s-competitive-eating-champion-takeru-tsunami-kobayashi-is-arrested-after-disrupting-the-nathan-s-hot-dog-eating-contest-in-new-york.md)
-_Context: New York City, Takeru "Tsunami" Kobayashi, Nathan's Hot Dog Eating Contest, Japan, competitive eating, United States_
+_Context: United States, Nathan's Hot Dog Eating Contest, competitive eating, New York City, Japan, Takeru "Tsunami" Kobayashi_
 
 ##### Polish presidential election, 2010
 ### [Polish voters head to the polls for the second round of presidential voting.Jaroslaw Kaczynski initially concedes defeat after exit polls show Bronislaw Komorowski winning, but later withdraws his concession as exit polls show the result narrowing. ](/news/2010/07/4/polish-voters-head-to-the-polls-for-the-second-round-of-presidential-voting-jaroslaw-kaczynski-initially-concedes-defeat-after-exit-polls-sh.md)
@@ -51,7 +51,7 @@ Bronislaw Komorowski is declared the winner in a dramatic race for the Polish pr
 ### [Voters in 14 Mexican states states vote to elect governors and mayors. ](/news/2010/07/4/voters-in-14-mexican-states-states-vote-to-elect-governors-and-mayors.md)
 Opposition party set to gain from frustration over drug violence and weak economy.
 
-##### state
+##### State
 ### [In a referendum, voters in the German state of Bavaria vote to ban smoking at all pubs and restaurants. ](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-bavaria-vote-to-ban-smoking-at-all-pubs-and-restaurants.md)
 The Oktoberfest beer festival in Munich is to become smoke-free after a referendum.
 

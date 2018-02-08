@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/15/a-floatplane-crashes-during-takeoff-near-iliamn
 
 ### [2015-09-15](/news/2015/09/15/index.md)
 
-##### floatplane
+##### Floatplane
 # A floatplane crashes during takeoff near Iliamna in southwest Alaska, killing three people and injuring the other seven on board. 
 
 ANCHORAGE, Alaska (AP) - The day started out as a perfect Alaska excursion: Excited tourists heading for adventure at a remote fishing spot on a river.

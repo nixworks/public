@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/5/american-electronics-retailer-radioshack-files-f
 
 ### [2015-02-5](/news/2015/02/5/index.md)
 
-##### electronics
+##### Electronics
 # American electronics retailer RadioShack files for Chapter 11 bankruptcy. 
 
 RadioShack filed its long-awaited bankruptcy papers Thursday evening.

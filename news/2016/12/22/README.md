@@ -13,9 +13,9 @@ KARACHI: At least seven Pakistanis are reportedly killed in a rocket attack on a
 
 ##### Pinos Puente
 ### [Residents of the economically struggling town of Pinos Puente in Granada, Spain, win the El Gordo lottery. ](/news/2016/12/22/residents-of-the-economically-struggling-town-of-pinos-puente-in-granada-spain-win-the-el-gordo-lottery.md)
-_Context: Pinos Puente, Spain, El Gordo, Granada_
+_Context: Spain, Pinos Puente, Granada, El Gordo_
 
-##### ebola virus
+##### Ebola virus
 ### [A vaccine for the ebola virus is discovered to be 99.78%-99.87% effective. ](/news/2016/12/22/a-vaccine-for-the-ebola-virus-is-discovered-to-be-99-78-a99-87-effective.md)
 The results are in from the clinical trials of a new vaccine — and it looks like a potent weapon. In fact, they are already stockpiling it.
 
@@ -27,17 +27,17 @@ Egypt confirms Security Council resolution against Israeli settlement activity w
 ### [As many as 80 inmates take over a section of HM Prison Swaleside on the Isle of Sheppey, Kent. ](/news/2016/12/22/as-many-as-80-inmates-take-over-a-section-of-hm-prison-swaleside-on-the-isle-of-sheppey-kent.md)
 Specialist teams are sent into a prison in Kent, after 60 inmates take control of part of a wing.
 
-##### drug crackdown
+##### Drug crackdown
 ### [The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. ](/news/2016/12/22/the-commission-on-human-rights-launches-an-investigation-into-alleged-murders-committed-by-current-philippines-president-rodrigo-duterte.md)
 A Philippines human rights body will probe claims by President Duterte that he killed drug suspects.
 
 ##### Claremont murders
 ### [A man is charged in Australia for allegedly committing the 20-year old crimes. ](/news/2016/12/22/a-man-is-charged-in-australia-for-allegedly-committing-the-20-year-old-crimes.md)
-_Context: Claremont murders, Australia_
+_Context: Australia, Claremont murders_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama scraps the National Security Entry-Exit Registration System (NSEERS), a registration system for Muslim immigrants. ](/news/2016/12/22/u-s-president-barack-obama-scraps-the-national-security-entry-exit-registration-system-nseers-a-registration-system-for-muslim-immigrant.md)
-_Context: Barack Obama, National Security Entry-Exit Registration System_
+_Context: National Security Entry-Exit Registration System, Barack Obama_
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. ](/news/2016/12/22/president-elect-donald-trump-names-his-former-presidential-campaign-manager-kellyanne-conway-as-his-counselor-to-the-president.md)

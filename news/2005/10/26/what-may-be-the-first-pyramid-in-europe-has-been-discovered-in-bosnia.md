@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/26/what-may-be-the-first-pyramid-in-europe-has-bee
 
 ### [2005-10-26](/news/2005/10/26/index.md)
 
-##### pyramid
+##### Pyramid
 #  What may be the first pyramid in Europe has been discovered in Bosnia. 
 
 

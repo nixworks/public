@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/18/a-suicide-bomber-allegedly-affiliated-with-isil
 
 ### [2015-04-18](/news/2015/04/18/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber allegedly affiliated with ISIL strikes a bank in the city of Jalalabad in Afghanistan, killing at least 33 and wounding 100. 
 
 At least 33 people have been killed and more than 100 injured in a series of explosions in the eastern Afghan city of Jalalabad, according to police and local media. ISIS has claimed responsibility.

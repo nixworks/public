@@ -21,11 +21,11 @@ Florida congressman Ron Klein calls for US to stop military support.
 
 ##### Israeli Prime Minister
 ### [Prime Minister of Israel Benjamin Netanyahu orders his attorney-general to find out who leaked embarrassing details about a feud among some of his generals, one of whom is trying to smear his rivals. ](/news/2010/08/8/prime-minister-of-israel-benjamin-netanyahu-orders-his-attorney-general-to-find-out-who-leaked-embarrassing-details-about-a-feud-among-some.md)
-_Context: Israeli Prime Minister, Benjamin Netanyahu, smear_
+_Context: smear, Benjamin Netanyahu, Israeli Prime Minister_
 
 ##### Anatolian Agency
 ### [The Anatolian Agency reports that two Turkish Army soldiers were killed in a roadside bomb explosion in Mardin Province near the Turkish border with Syria. ](/news/2010/08/8/the-anatolian-agency-reports-that-two-turkish-army-soldiers-were-killed-in-a-roadside-bomb-explosion-in-mardin-province-near-the-turkish-bor.md)
-_Context: Anatolian Agency, Syria, Mardin Province, Turkish Army, Turkey_
+_Context: Anatolian Agency, Mardin Province, Turkish Army, Syria, Turkey_
 
 ##### AK-47s
 ### [A bridegroom accidentally shoots dead three relations and injures eight others while celebrating with an AK-47 at his wedding in Akcagoze, Gaziantep in Turkey; the man has been detained. ](/news/2010/08/8/a-bridegroom-accidentally-shoots-dead-three-relations-and-injures-eight-others-while-celebrating-with-an-ak-47-at-his-wedding-in-akcagoze-g.md)
@@ -33,7 +33,7 @@ A bridegroom in Turkey accidentally kills his father and two aunts while firing 
 
 ##### Mark Papermaster
 ### [Mark Papermaster, who engineered the Apple Inc. iPhone, leaves the company due to the antenna issues associated with the iPhone 4. ](/news/2010/08/8/mark-papermaster-who-engineered-the-apple-inc-iphone-leaves-the-company-due-to-the-antenna-issues-associated-with-the-iphone-4.md)
-_Context: iPhone 4, Mark Papermaster, Apple Inc., iPhone_
+_Context: iPhone 4, iPhone, Mark Papermaster, Apple Inc._
 
 ##### Craigslist
 ### [Ads website Craigslist faces allegations of "pay to rape" underage prostitution after a letter is published in "The Washington Post". ](/news/2010/08/8/ads-website-craigslist-faces-allegations-of-pay-to-rape-underage-prostitution-after-a-letter-is-published-in-the-washington-post.md)
@@ -47,11 +47,11 @@ _Context: Sarah, Duchess of York_
 ### [127 people are killed and 2,000 missing in landslides in Gansu Province, China, due to ongoing flooding. ](/news/2010/08/8/127-people-are-killed-and-2-000-missing-in-landslides-in-gansu-province-china-due-to-ongoing-flooding.md)
 At least 337 people are dead as rescuers search for up to 1148 others still missing.
 
-##### severe flash floods
+##### Severe flash floods
 ### [The death toll rises to 132 and injury toll is at least 400 as severe flash floods devastate Kashmir. ](/news/2010/08/8/the-death-toll-rises-to-132-and-injury-toll-is-at-least-400-as-severe-flash-floods-devastate-kashmir.md)
-_Context: severe flash floods, Kashmir_
+_Context: Kashmir, severe flash floods_
 
-##### devastating floods
+##### Devastating floods
 ### [Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. ](/news/2010/08/8/torrential-rains-worsen-the-ongoing-flood-crisis-across-pakistan-which-has-so-far-affected-14-million-people-as-rescue-helicopters-are-for.md)
 Prime minister visits flood-hit areas in Sindh as people take refuge in government buildings.
 
@@ -63,13 +63,13 @@ Flash floods brought on by torrential rains cause at least 15 deaths in central 
 ### [There is a further cave-in at the mine near Copiapo, Chile where people have been working since Thursday to rescue 34 miners trapped underground; work is currently suspended in an incident that is rare in that part of the world. ](/news/2010/08/8/there-is-a-further-cave-in-at-the-mine-near-copiapa3-chile-where-people-have-been-working-since-thursday-to-rescue-34-miners-trapped-underg.md)
 Rescuers in Chile start drilling holes to provide 33 trapped miners with oxygen after a cave-in blocks a rescue attempt.
 
-##### embassies
+##### Embassies
 ### [Several countries evacuate staff from their embassies in Moscow due to the 2010 Russian wildfires including Germany, Austria, Poland and Canada, ](/news/2010/08/8/several-countries-evacuate-staff-from-their-embassies-in-moscow-due-to-the-2010-russian-wildfires-including-germany-austria-poland-and-can.md)
-_Context: Austria, the recent wildfires, Poland, embassies, Moscow, German, Canadian_
+_Context: Austria, embassies, Canadian, German, Polish, Moscow, the recent wildfires_
 
 ##### Sudanese President
 ### [President of Sudan Omar al-Bashir says the "mandate" of the United Nations, African Union and international aid organisations in Darfur is to "support government authorities" and that expulsion is the other option. ](/news/2010/08/8/president-of-sudan-omar-al-bashir-says-the-mandate-of-the-united-nations-african-union-and-international-aid-organisations-in-darfur-is-t.md)
-_Context: United Nations, Sudanese President, mandate, Darfur, Omar al-Bashir, African Union_
+_Context: Omar al-Bashir, mandate, United Nations, African Union, Sudanese President, Darfur_
 
 ##### UK Border Agency
 ### [There is "significant concern" after an investigation into the UK Border Agency (UKBA) reveals abuse and racial manhandlement of asylum seekers by staff. ](/news/2010/08/8/there-is-significant-concern-after-an-investigation-into-the-uk-border-agency-ukba-reveals-abuse-and-racial-manhandlement-of-asylum-seek.md)
@@ -85,7 +85,7 @@ Iraqi premier tries to drum up Kurdish support after Shia bloc cuts off negotiat
 
 ##### Colombian President
 ### [New President of Colombia Juan Manuel Santos and President of Venezuela Hugo Chavez agree to meet for talks on Tuesday, following a recent diplomatic disagreement. ](/news/2010/08/8/new-president-of-colombia-juan-manuel-santos-and-president-of-venezuela-hugo-cha-vez-agree-to-meet-for-talks-on-tuesday-following-a-recent.md)
-_Context: Colombian President, Juan Manuel Santos, Colombia-Venezuela relations, Venezuelan President, Hugo Chavez_
+_Context: Venezuelan President, Colombian President, Colombia-Venezuela relations, Hugo Chavez, Juan Manuel Santos_
 
 ##### Keith O'Brien
 ### [Cardinal Keith O'Brien who leads the Catholic Church in Scotland, defends the Scottish government's decision to release Abdelbaset al-Megrahi for humanitarian reasons and attacks the United States's "culture of vengeance" for trying to coerce Scottish ministers into "crawling like lapdogs". ](/news/2010/08/8/cardinal-keith-o-brien-who-leads-the-catholic-church-in-scotland-defends-the-scottish-government-s-decision-to-release-abdelbaset-al-megrah.md)
@@ -93,11 +93,11 @@ The leader of the Roman Catholic Church in Scotland criticises the US over react
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai's senior adviser says the government has commenced talks with some Taliban leaders. ](/news/2010/08/8/president-of-afghanistan-hamid-karzai-s-senior-adviser-says-the-government-has-commenced-talks-with-some-taliban-leaders.md)
-_Context: Taliban, Afghanistan President, Hamid Karzai_
+_Context: Taliban, Hamid Karzai, Afghanistan President_
 
 ##### Mordechai Vanunu
 ### [Mordechai Vanunu, who spoke about Israel's nuclear ambitions to "The Sunday Times" in 1986 and was referred to as a "prisoner of conscience" by Amnesty International after Israel imprisoned him for that action, is released from prison again after serving three months for meeting foreigners, including his Norwegian girlfriend, in 2007. He requests that he be allowed to leave Israel. ](/news/2010/08/8/mordechai-vanunu-who-spoke-about-israel-s-nuclear-ambitions-to-the-sunday-times-in-1986-and-was-referred-to-as-a-prisoner-of-conscience.md)
-_Context: Israel, Amnesty International, Norway, Mordechai Vanunu, The Sunday Times, prisoner of conscience_
+_Context: Amnesty International, Norway, prisoner of conscience, Mordechai Vanunu, Israel, The Sunday Times_
 
 ##### President
 ### [President of Mexico Felipe Calderon calls for a debate on the legalization of drugs. ](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.md)
@@ -105,7 +105,7 @@ _Context: Felipe Calderon, President_
 
 ##### Ebrahim Hamidi
 ### [18-year-old Ebrahim Hamidi is sentenced to death for sodomy in Iran, without legal representation after human rights lawyer Mohammad Mostafaei flees in the wake of the Sakineh Mohammadi Ashtiani case. ](/news/2010/08/8/18-year-old-ebrahim-hamidi-is-sentenced-to-death-for-sodomy-in-iran-without-legal-representation-after-human-rights-lawyer-mohammad-mostafa.md)
-_Context: Sakineh Mohammadi Ashtiani, Iran, Mohammad Mostafaei, sodomy, Ebrahim Hamidi_
+_Context: sodomy, Mohammad Mostafaei, Ebrahim Hamidi, Iran, Sakineh Mohammadi Ashtiani_
 
 ##### Mohammad Mostafaei
 ### [Mohammad Mostafaei seeks asylum in Norway after his escape from Iran to Turkey by car, horse and foot. ](/news/2010/08/8/mohammad-mostafaei-seeks-asylum-in-norway-after-his-escape-from-iran-to-turkey-by-car-horse-and-foot.md)
@@ -125,7 +125,7 @@ Journalists gather to demand greater freedoms and protection amid escalating dru
 
 ##### South Korean President
 ### [The President of South Korea Lee Myung-Bak replaces the Prime Minister of South Korea Chung Un-chan with Kim Tae-ho as part of a Cabinet reshuffle with seven other ministers also being replaced. ](/news/2010/08/8/the-president-of-south-korea-lee-myung-bak-replaces-the-prime-minister-of-south-korea-chung-un-chan-with-kim-tae-ho-as-part-of-a-cabinet-res.md)
-_Context: Prime Minister, forming a government, South Korean President, Chung Un-chan, Lee Myung-Bak, Kim Tae-ho_
+_Context: forming a government, Lee Myung-Bak, Chung Un-chan, South Korean President, Prime Minister, Kim Tae-ho_
 
 ##### Potosi
 ### [Protesters in Potosi, Bolivia, strengthen an anti-government protest by starting a hunger strike and cutting rail links to Chile. ](/news/2010/08/8/protesters-in-potosa-bolivia-strengthen-an-anti-government-protest-by-starting-a-hunger-strike-and-cutting-rail-links-to-chile.md)

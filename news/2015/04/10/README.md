@@ -17,13 +17,13 @@ Gunmen kill 20 construction workers in Pakistan&#039;s restive south-western pro
 
 ##### Environmental Protection Agency
 ### [The U.S. Environmental Protection Agency reaches an agreement with two petroleum industry groups about biofuel blending targets. ](/news/2015/04/10/the-u-s-environmental-protection-agency-reaches-an-agreement-with-two-petroleum-industry-groups-about-biofuel-blending-targets.md)
-_Context: petroleum industry, Environmental Protection Agency, biofuel_
+_Context: Environmental Protection Agency, petroleum industry, biofuel_
 
 ##### Malaysia
 ### [Malaysia toughens its sedition laws to cover all online media and provide for mandatory jail sentences. ](/news/2015/04/10/malaysia-toughens-its-sedition-laws-to-cover-all-online-media-and-provide-for-mandatory-jail-sentences.md)
 Malaysia has strengthened its controversial sedition law, imposing a minimum jail term of three years and allowing the government to block online media deemed to be seditious, lawmakers said on Friday.
 
-##### cyber attack
+##### Cyber attack
 ### [In a response to a cyberattack on TV5Monde, the French Minister of Culture and Communications Fleur Pellerin has called for an emergency meeting of the heads of various major media outlets and groups based in France, to take place sometime today at an undisclosed location. ](/news/2015/04/10/in-a-response-to-a-cyberattack-on-tv5monde-the-french-minister-of-culture-and-communications-fleur-pellerin-has-called-for-an-emergency-mee.md)
 Culture minister calls talks after television network TV5Monde is taken over by individuals claiming to belong to Islamic State
 

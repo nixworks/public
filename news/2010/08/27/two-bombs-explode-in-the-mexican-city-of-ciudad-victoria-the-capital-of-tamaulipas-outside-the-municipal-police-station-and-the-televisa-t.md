@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/27/two-bombs-explode-in-the-mexican-city-of-ciudad
 
 ### [2010-08-27](/news/2010/08/27/index.md)
 
-##### bombs
+##### Bombs
 # Two bombs explode in the Mexican city of Ciudad Victoria, the capital of Tamaulipas, outside the municipal police station and the Televisa television station. 
 
 

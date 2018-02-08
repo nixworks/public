@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/14/the-united-states-issues-a-terrorist-related-tr
 
 ### [2011-06-14](/news/2011/06/14/index.md)
 
-##### terrorism
+##### Terrorism
 # The United States issues a terrorist-related travel warning for the Philippines. 
 
 U.S. citizens should &quot;exercise extreme caution&quot; when traveling to the Philippines, the U.S. State Department said Tuesday in a statement.

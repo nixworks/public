@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/28/the-united-states-is-about-to-back-down-over-it
 
 ### [2003-11-28](/news/2003/11/28/index.md)
 
-##### steel
+##### Steel
 #  The United States is about to back down over its restrictions on steel imports that had caused such alarm in Europe and Asia.
 
 

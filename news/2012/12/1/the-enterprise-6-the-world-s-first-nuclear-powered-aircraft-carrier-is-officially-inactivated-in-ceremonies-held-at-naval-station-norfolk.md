@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/1/the-enterprise-6-the-world-s-first-nuclear-power
 
 ### [2012-12-1](/news/2012/12/1/index.md)
 
-##### aircraft carrier
+##### Aircraft carrier
 # The Enterprise 6, the world's first nuclear-powered aircraft carrier, is officially inactivated in ceremonies held at Naval Station Norfolk, Virginia, completing a 51-year career in the United States Navy. In a pre-recorded speech, U.S. Secretary of the Navy Ray Mabus announces that the U.S. Navy's third Gerald R. Ford carrier, CVN-80, will be named "Enterprise". 
 
 

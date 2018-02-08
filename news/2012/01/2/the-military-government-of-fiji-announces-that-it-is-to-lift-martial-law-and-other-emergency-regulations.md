@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/2/the-military-government-of-fiji-announces-that-i
 
 ### [2012-01-2](/news/2012/01/2/index.md)
 
-##### military government
+##### Military government
 # The military government of Fiji announces that it is to lift martial law and other emergency regulations. 
 
 

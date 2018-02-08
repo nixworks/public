@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/14/a-series-of-suicide-bombings-across-afghanistan
 
 ### [2012-08-14](/news/2012/08/14/index.md)
 
-##### suicide bombings
+##### Suicide bombings
 # A series of suicide bombings across Afghanistan kill at least 46 people and injure up to 80 others. 
 
 A series of bombings on markets crowded with shoppers preparing for the end of Ramadan leaves 48 people dead in south-western and northern Afghanistan.

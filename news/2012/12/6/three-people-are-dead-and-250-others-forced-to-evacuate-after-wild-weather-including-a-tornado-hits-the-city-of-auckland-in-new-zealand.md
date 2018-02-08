@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/6/three-people-are-dead-and-250-others-forced-to-e
 
 ### [2012-12-6](/news/2012/12/6/index.md)
 
-##### tornado
+##### Tornado
 # Three people are dead and 250 others forced to evacuate after wild weather including a tornado hits the city of Auckland in New Zealand. 
 
 Three people have been killed as a rare tornado ripped through western suburbs of the New Zealand city of Auckland.

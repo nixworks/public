@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/20/the-election-commission-of-pakistan-sets-octobe
 
 ### [2007-09-20](/news/2007/09/20/index.md)
 
-##### election
+##### Election
 #  The Election Commission of Pakistan sets October 6, 2007 as the date for the Presidential Election. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals
 
 ### [2011-05-3](/news/2011/05/3/index.md)
 
-##### exiled Tibetan parliament
+##### Exiled Tibetan parliament
 # A Tibetan parliament-in-exile delegation appeals to foreign embassies in New Delhi, India, for help to release three monks from the Kirti monastery in northeastern Tibet detained by Chinese authorities and to address additional human rights violations in Tibet by China. 
 
 

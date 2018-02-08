@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/28/operation-cast-lead.html)  [JSON](/news/2008/12
 
 ### [2008-12-28](/news/2008/12/28/index.md)
 
-##### fire
+##### Fire
 #  Operation Cast Lead
 
 

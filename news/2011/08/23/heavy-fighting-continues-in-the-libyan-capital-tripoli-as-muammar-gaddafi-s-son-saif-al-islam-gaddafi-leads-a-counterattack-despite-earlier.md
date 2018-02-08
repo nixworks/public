@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/23/heavy-fighting-continues-in-the-libyan-capital-
 
 ### [2011-08-23](/news/2011/08/23/index.md)
 
-##### heavy gunfire
+##### Heavy gunfire
 # Heavy fighting continues in the Libyan capital Tripoli as Muammar Gaddafi's son Saif al-Islam Gaddafi leads a counterattack despite earlier reports of his capture. 
 
 Moamar Gaddafi&#039;s son Saif al-Islam leads a regime fightback in Tripoli as faltering rebels claim NATO jets have joined the fight for the Libyan capital.

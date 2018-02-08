@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/20/at-least-50-are-killed-and-more-than-240-injure
 
 ### [2012-03-20](/news/2012/03/20/index.md)
 
-##### wave of terror attacks
+##### Wave of terror attacks
 # At least 50 are killed and more than 240 injured in a wave of terror attacks across 10 cities in Iraq. 
 
 

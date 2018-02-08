@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/22/a-new-study-by-scientists-from-14-research-inst
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
-##### research institutions
+##### Research institutions
 # A new study by scientists from 14 research institutions, that is published in the March 2016 Global Change Biology Journal, finds all U.S. forests are threatened by drought and climate change. 
 
 Forests nationwide are feeling the heat from increasing drought and climate change, according to a study by scientists from 14 research institutions. While the effects have been most pronounced in the West, the team found virtually all US forests are now experiencing some degree of change and are vulnerable to future declines.

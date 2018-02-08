@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-jo
 
 ### [2017-06-19](/news/2017/06/19/index.md)
 
-##### kidnappings
+##### Kidnappings
 # Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/31/lines-of-green-wall-are-built-along-the-desert-
 
 ### [2010-03-31](/news/2010/03/31/index.md)
 
-##### green wall
+##### Green wall
 # Lines of "green wall" are built along the desert district in Yanchi county, Ningxia Hui autonomous region to defend against desertification. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/25/china-s-cabinet-states-that-the-death-toll-from
 
 ### [2008-05-25](/news/2008/05/25/index.md)
 
-##### deadly earthquake
+##### Deadly earthquake
 #  China's Cabinet states that the death toll from the earthquake has reached 62,664. 
 
 The official death toll rose to more than 65,000, Chinese state media said, as rescuers prepared to dynamite and drain a lake caused by landslides.

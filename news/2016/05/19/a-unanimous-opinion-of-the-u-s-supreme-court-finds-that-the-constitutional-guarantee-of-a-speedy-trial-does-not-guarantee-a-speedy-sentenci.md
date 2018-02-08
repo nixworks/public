@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/19/a-unanimous-opinion-of-the-u-s-supreme-court-fi
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
-##### opinion
+##### Opinion
 # A unanimous opinion of the U.S. Supreme Court finds that the constitutional guarantee of a speedy trial does not guarantee a speedy sentencing hearing. 
 
 

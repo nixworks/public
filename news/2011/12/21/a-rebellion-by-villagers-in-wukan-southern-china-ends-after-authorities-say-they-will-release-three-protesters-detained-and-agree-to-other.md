@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/21/a-rebellion-by-villagers-in-wukan-southern-chin
 
 ### [2011-12-21](/news/2011/12/21/index.md)
 
-##### rebellion by villagers in Wukan
+##### Rebellion by villagers in Wukan
 # A rebellion by villagers in Wukan, southern China, ends after authorities say they will release three protesters detained and agree to other demands. 
 
 The rebellious Chinese fishing village of Wukan forced the ruling Communist Party to agree to the release of three villagers detained for protesting against corruption and land grabs on Wednesday.

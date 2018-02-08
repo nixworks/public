@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/7/the-philippine-senate-investigates-paolo-duterte
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal. 
 
 Philippine President Rodrigo Duterte’s son denied any involvement in a drug smuggling case that is captivating the nation.

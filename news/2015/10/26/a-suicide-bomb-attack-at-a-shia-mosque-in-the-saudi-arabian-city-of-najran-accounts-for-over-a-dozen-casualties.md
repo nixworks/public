@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/26/a-suicide-bomb-attack-at-a-shia-mosque-in-the-s
 
 ### [2015-10-26](/news/2015/10/26/index.md)
 
-##### suicide-bomb
+##### Suicide-bomb
 # A suicide-bomb attack at a Shia mosque in the Saudi Arabian city of Najran accounts for over a dozen casualties. 
 
 At least one person has been killed and a dozen others injured in a suicide attack on a mosque in the south of Saudi Arabia, state media say.

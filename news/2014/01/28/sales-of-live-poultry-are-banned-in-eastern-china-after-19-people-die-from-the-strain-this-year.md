@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/28/sales-of-live-poultry-are-banned-in-eastern-chi
 
 ### [2014-01-28](/news/2014/01/28/index.md)
 
-##### poultry
+##### Poultry
 # Sales of live poultry are banned in eastern China after 19 people die from the strain this year. 
 
 AUTHORITIES in eastern China have banned live poultry sales after an increase in the number of people infected with the H7N9 strain of bird flu.

@@ -27,7 +27,7 @@ US computer giant Dell agrees a deal to buy data storage company EMC for $67bn -
 ### [European Union foreign ministers, gathered in Luxembourg to discuss the situation in Syria, release a statement urging Russia to stop its attacks in Syria and direct efforts towards a political solution. ](/news/2015/10/12/european-union-foreign-ministers-gathered-in-luxembourg-to-discuss-the-situation-in-syria-release-a-statement-urging-russia-to-stop-its-at.md)
 The European Union accuses Russia of putting peace efforts at risk in Syria.
 
-##### government of Ukraine
+##### Government of Ukraine
 ### [The government of Ukraine bans all Russian airlines from flying into Ukraine from October 25 in response to Moscow's decision in September to impose a similar ban on Ukrainian airlines. ](/news/2015/10/12/the-government-of-ukraine-bans-all-russian-airlines-from-flying-into-ukraine-from-october-25-in-response-to-moscow-s-decision-in-september-t.md)
 _Context: government of Ukraine_
 
@@ -41,7 +41,7 @@ Police officers who have been stationed outside London&#x27;s Ecuadorian Embassy
 
 ##### Post 2011 Egyptian Revolution trials
 ### [Cairo's criminal court orders the release of the sons of former Egyptian leader Hosni Mubarak, who are waiting for the Court of Appeal's decision in a financial corruption case. Each was sentenced to three years. The court ruled Gamal and Alaa Mubarak, who were initially detained in April 2011, had already served the requisite time in prison for the sentence. ](/news/2015/10/12/cairo-s-criminal-court-orders-the-release-of-the-sons-of-former-egyptian-leader-hosni-mubarak-who-are-waiting-for-the-court-of-appeal-s-dec.md)
-_Context: criminal court, Post 2011 Egyptian Revolution trials, Hosni Mubarak, Cairo_
+_Context: Cairo, Post 2011 Egyptian Revolution trials, Hosni Mubarak, criminal court_
 
 ##### Jioji Konrote
 ### [Jioji Konrote is elected President of Fiji by the country's Parliament. Konrote, Fiji's Minister for Employment, Productivity and Industrial Relations, received 31 votes, defeating Epeli Ganilau, who garnered 14 votes. ](/news/2015/10/12/jioji-konrote-is-elected-president-of-fiji-by-the-country-s-parliament-konrote-fiji-s-minister-for-employment-productivity-and-industrial.md)
@@ -53,7 +53,7 @@ Vanuatu&#039;s acting president has used his executive powers to pardon himself 
 
 ##### Angus Deaton
 ### [Angus Deaton wins the Nobel Memorial Prize in Economic Sciences for his analysis of consumption, poverty, and welfare, helping redefine the way poverty is measured around the world, notably in India. ](/news/2015/10/12/angus-deaton-wins-the-nobel-memorial-prize-in-economic-sciences-for-his-analysis-of-consumption-poverty-and-welfare-helping-redefine-the.md)
-_Context: Angus Deaton, Nobel Memorial Prize in Economic Sciences, India_
+_Context: India, Nobel Memorial Prize in Economic Sciences, Angus Deaton_
 
 ## [Previous Day...](/news/2015/10/11/index.md)
 

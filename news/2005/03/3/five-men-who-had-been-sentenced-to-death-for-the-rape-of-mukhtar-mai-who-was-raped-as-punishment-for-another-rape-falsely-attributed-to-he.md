@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/3/five-men-who-had-been-sentenced-to-death-for-the
 
 ### [2005-03-3](/news/2005/03/3/index.md)
 
-##### rape
+##### Rape
 #  Five men who had been sentenced to death for the rape of Mukhtar Mai, who was raped as punishment for another rape falsely attributed to her brother, are acquitted on appeal. A Pakistani tribal council allegedly ordered the rape of Mukhtar Mai in February 2002. 
 
 

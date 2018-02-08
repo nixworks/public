@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/3/a-bombing-near-a-girls-school-in-lower-dir-pakis
 
 ### [2010-02-3](/news/2010/02/3/index.md)
 
-##### bombing near a girls' school in Lower Dir
+##### Bombing near a girls' school in Lower Dir
 # A bombing near a girls' school in Lower Dir, Pakistan kills seven, including three U.S. Marines, marking the first time U.S. soldiers are killed in that country. 
 
 Three US military personnel and four school girls among eight dead in roadside bombing.

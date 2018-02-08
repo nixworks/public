@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/22/the-second-part-of-the-fifth-round-of-the-six-p
 
 ### [2006-12-22](/news/2006/12/22/index.md)
 
-##### six-party talks
+##### Six-party talks
 #  The second part of the fifth round of the six-party talks on North Korea's nuclear weapons program end without any agreement being reached or a date for the next round being set. 
 
 

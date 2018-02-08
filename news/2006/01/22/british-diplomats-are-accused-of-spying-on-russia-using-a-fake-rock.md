@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/22/british-diplomats-are-accused-of-spying-on-russ
 
 ### [2006-01-22](/news/2006/01/22/index.md)
 
-##### diplomat
+##### Diplomat
 #  British diplomats are accused of spying on Russia using a fake rock. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/20/the-video-game-grand-theft-auto-v-becomes-the-f
 
 ### [2013-09-20](/news/2013/09/20/index.md)
 
-##### video game
+##### Video game
 # The video game "Grand Theft Auto V" becomes the fastest single entertainment product to reach sales of US$1 billion. 
 
 Grand Theft Auto V has crossed the $1 billion sales mark after three days in stores, a rate faster than any other video game, film or other entertainment product has ever managed, its creator Take Two Interactive Inc said on Friday.

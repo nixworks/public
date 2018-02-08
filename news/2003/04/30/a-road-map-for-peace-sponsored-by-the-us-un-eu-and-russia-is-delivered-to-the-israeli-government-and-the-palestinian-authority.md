@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/30/a-road-map-for-peace-sponsored-by-the-us-un-eu-
 
 ### [2003-04-30](/news/2003/04/30/index.md)
 
-##### road map for peace
+##### Road map for peace
 #  A road map for peace sponsored by the US, UN, EU, and Russia is delivered to the Israeli government and the Palestinian Authority.
 
 

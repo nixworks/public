@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/8/the-european-commission-refuse-to-approve-a-cont
 
 ### [2003-12-8](/news/2003/12/8/index.md)
 
-##### genetically modified wheat
+##### Genetically modified wheat
 #  The European Commission refuse to approve a controversial genetically modified sweet corn, thus "de facto" refusing to lift the moratorium on GMOs. See also Trade war over genetically modified food.
 
 

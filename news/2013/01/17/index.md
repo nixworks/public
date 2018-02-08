@@ -21,13 +21,13 @@ _Context: Iraq, Dujail_
 
 ##### Somalia
 ### [Militants belonging to Somali group al-Shabaab announce they have executed the French intelligence agent who was the target of the unsuccessful French rescue attempt on January 11. French officials believe the hostage was killed during the mission itself, and the group is using the incident to manipulate the media. ](/news/2013/01/17/militants-belonging-to-somali-group-al-shabaab-announce-they-have-executed-the-french-intelligence-agent-who-was-the-target-of-the-unsuccess.md)
-_Context: Somalia, Al-Shabaab, France, rescue attempt, intelligence agent_
+_Context: Somalia, intelligence agent, France, Al-Shabaab, rescue attempt_
 
 ##### 2013 Jakarta flood
 ### [2013 Jakarta flood: A massive flood hits Jakarta, Indonesia, with the Indonesian Army deploying rubber boats in the financial district to rescue people trapped in this flood. Four people were killed and over 2,000 evacuated. ](/news/2013/01/17/2013-jakarta-flood-a-massive-flood-hits-jakarta-indonesia-with-the-indonesian-army-deploying-rubber-boats-in-the-financial-district-to-re.md)
 At least four people die and thousands are evacuated as flooding hits parts of the Indonesian capital, Jakarta, shutting down offices and traffic.
 
-##### fire
+##### Fire
 ### [A fire in the undercarriage of a Gatwick Express train prompts the evacuation of London Victoria station in England. ](/news/2013/01/17/a-fire-in-the-undercarriage-of-a-gatwick-express-train-prompts-the-evacuation-of-london-victoria-station-in-england.md)
 A fire on a Gatwick Express train prompts the evacuation of London Victoria station at the start of the rush hour.
 
@@ -43,7 +43,7 @@ Tens of thousands of Kurds poured onto the streets of the Turkish city of Diyarb
 
 ##### Japan
 ### [Japan decides to build the world's largest offshore wind farm near the site of Fukushima Daiichi Nuclear Power Plant in Fukushima Prefecture. ](/news/2013/01/17/japan-decides-to-build-the-worldas-largest-offshore-wind-farm-near-the-site-of-fukushima-daiichi-nuclear-power-plant-in-fukushima-prefectu.md)
-_Context: Fukushima Daiichi Nuclear Power Plant, wind farm, Japan, Fukushima Prefecture_
+_Context: Fukushima Daiichi Nuclear Power Plant, Japan, Fukushima Prefecture, wind farm_
 
 ##### European Space Agency
 ### [The European Space Agency officially joins a project to build a Service Module based on their Automated Transfer Vehicle for NASA's Orion, a spacecraft to carry astronauts into deep space. ](/news/2013/01/17/the-european-space-agency-officially-joins-a-project-to-build-a-service-module-based-on-their-automated-transfer-vehicle-for-nasaas-orion.md)

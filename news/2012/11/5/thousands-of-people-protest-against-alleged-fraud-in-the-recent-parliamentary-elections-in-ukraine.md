@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/5/thousands-of-people-protest-against-alleged-frau
 
 ### [2012-11-5](/news/2012/11/5/index.md)
 
-##### elections
+##### Elections
 # Thousands of people protest against alleged fraud in the recent parliamentary elections in Ukraine. 
 
 Opposition leaders threaten not to recognise the new parliament as thousands rally in Kiev to protest alleged fraud.

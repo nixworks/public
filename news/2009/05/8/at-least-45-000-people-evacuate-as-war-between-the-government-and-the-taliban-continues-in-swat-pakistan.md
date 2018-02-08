@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-t
 
 ### [2009-05-8](/news/2009/05/8/index.md)
 
-##### evacuation centers
+##### Evacuation centers
 #  At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. 
 
 

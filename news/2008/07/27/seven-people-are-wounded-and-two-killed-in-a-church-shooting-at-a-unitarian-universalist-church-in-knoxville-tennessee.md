@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/27/seven-people-are-wounded-and-two-killed-in-a-ch
 
 ### [2008-07-27](/news/2008/07/27/index.md)
 
-##### church shooting
+##### Church shooting
 #  Seven people are wounded and two killed in a church shooting at a Unitarian Universalist church in Knoxville, Tennessee. 
 
 The man accused of killing two people and wounding seven at a church apparently selected the congregation because of its liberal social stance, the city&#39;s police chief said Monday.

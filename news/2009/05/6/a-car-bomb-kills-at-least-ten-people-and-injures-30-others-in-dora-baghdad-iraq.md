@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/6/a-car-bomb-kills-at-least-ten-people-and-injures
 
 ### [2009-05-6](/news/2009/05/6/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb kills at least ten people and injures 30 others in Dora, Baghdad, Iraq. 
 
 

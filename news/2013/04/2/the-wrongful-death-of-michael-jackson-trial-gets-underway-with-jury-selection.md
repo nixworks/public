@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/the-wrongful-death-of-michael-jackson-trial-gets
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### wrongful death
+##### Wrongful death
 # The wrongful death of Michael Jackson trial gets underway with jury selection. 
 
 

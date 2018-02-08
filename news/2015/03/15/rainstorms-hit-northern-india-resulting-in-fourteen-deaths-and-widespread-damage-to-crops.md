@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/15/rainstorms-hit-northern-india-resulting-in-four
 
 ### [2015-03-15](/news/2015/03/15/index.md)
 
-##### northern India
+##### Northern India
 # Rainstorms hit northern India, resulting in fourteen deaths and widespread damage to crops. 
 
 Widespread rains battered large swathes of North India on Sunday bringing mercury down by several notches, even as it claimed 14 lives and damaged crops in several regions.

@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/28/index.html)  [JSON](2016/02/28/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [Two police officers are killed after a bomb explodes in Helmand Province. ](/news/2016/02/28/two-police-officers-are-killed-after-a-bomb-explodes-in-helmand-province.md)
-_Context: Helmand Province, War in Afghanistan (2015-present), Afghan police_
+_Context: War in Afghanistan (2015-present), Afghan police, Helmand Province_
 
 ##### Iraqi Civil War (2014-present)
 ### [Two suicide bombers kill 70 people and injure more than 100 others at a crowded market in Sadr City, Iraq. ISIL claims responsibility for the attack. ](/news/2016/02/28/two-suicide-bombers-kill-70-people-and-injure-more-than-100-others-at-a-crowded-market-in-sadr-city-iraq-isil-claims-responsibility-for-th.md)
@@ -13,7 +13,7 @@ Over 70 people were killed and 100 others wounded in Sadr City, a southern subur
 
 ##### War in Somalia (2009-present)
 ### [Two al-Shabaab suicide bombers kill at least 40 people in the Somali town of Baidoa. ](/news/2016/02/28/two-al-shabaab-suicide-bombers-kill-at-least-40-people-in-the-somali-town-of-baidoa.md)
-_Context: Baidoa, Al-Shabaab, Somalia, War in Somalia (2009-present)_
+_Context: War in Somalia (2009-present), Somalia, Al-Shabaab, Baidoa_
 
 ##### 88th Academy Awards
 ### [The 88th Academy Awards are held at the Dolby Theatre in Hollywood, California. ](/news/2016/02/28/the-88th-academy-awards-are-held-at-the-dolby-theatre-in-hollywood-california.md)
@@ -25,7 +25,7 @@ The death toll in Russia&#039;s worst mining disaster in recent history climbed 
 
 ##### India
 ### [A man fatally stabs 14 family members before taking his own life in the Indian city of Thane. ](/news/2016/02/28/a-man-fatally-stabs-14-family-members-before-taking-his-own-life-in-the-indian-city-of-thane.md)
-_Context: India, Thane_
+_Context: Thane, India_
 
 ##### Virginia
 ### [A Virginia police officer is killed during her first day on the job (and another two are wounded) in a domestic related shooting in Lake Ridge, Virginia. ](/news/2016/02/28/a-virginia-police-officer-is-killed-during-her-first-day-on-the-job-and-another-two-are-wounded-in-a-domestic-related-shooting-in-lake-rid.md)

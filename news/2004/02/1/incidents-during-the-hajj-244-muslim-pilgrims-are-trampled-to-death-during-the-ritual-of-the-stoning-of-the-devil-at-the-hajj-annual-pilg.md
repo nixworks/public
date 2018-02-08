@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/1/incidents-during-the-hajj-244-muslim-pilgrims-ar
 
 ### [2004-02-1](/news/2004/02/1/index.md)
 
-##### disaster
+##### Disaster
 #  Incidents during the Hajj: 244 Muslim pilgrims are trampled to death during the ritual of the stoning of the devil at the Hajj (annual pilgrimage to Mecca).
 
 

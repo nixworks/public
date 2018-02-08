@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/a-possible-tornado-hits-an-automotive-plant-in-h
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### tornado
+##### Tornado
 # A possible tornado hits an automotive plant in Hopkinsville, Kentucky near Nashville, injuring seven people. 
 
 Severe storms blowing across the Southeast killed at least five people in Georgia early on Tuesday, and also were to blame for deaths in two other states, authorities said.

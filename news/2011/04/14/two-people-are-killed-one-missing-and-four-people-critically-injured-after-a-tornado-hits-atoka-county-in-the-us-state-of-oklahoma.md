@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/14/two-people-are-killed-one-missing-and-four-peop
 
 ### [2011-04-14](/news/2011/04/14/index.md)
 
-##### tornado
+##### Tornado
 # Two people are killed, one missing and four people critically injured after a tornado hits Atoka County in the US state of Oklahoma. 
 
 Storms that killed nine in Oklahoma and Arkansas moved Friday evening into Mississippi and Alabama, tornadoes struck six counties and left at least one more dead.

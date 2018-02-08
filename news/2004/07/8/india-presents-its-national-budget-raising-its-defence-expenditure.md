@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/8/india-presents-its-national-budget-raising-its-d
 
 ### [2004-07-8](/news/2004/07/8/index.md)
 
-##### budget
+##### Budget
 #  India presents its national budget, raising its defence expenditure. 
 
 

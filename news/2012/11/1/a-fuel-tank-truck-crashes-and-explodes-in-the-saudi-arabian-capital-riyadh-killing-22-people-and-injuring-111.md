@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/1/a-fuel-tank-truck-crashes-and-explodes-in-the-sa
 
 ### [2012-11-1](/news/2012/11/1/index.md)
 
-##### crashes and explodes
+##### Crashes and explodes
 # A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh killing 22 people and injuring 111. 
 
 At least 22 people are reported killed and scores injured in a fuel truck crash and explosion in the Saudi Arabian capital Riyadh.

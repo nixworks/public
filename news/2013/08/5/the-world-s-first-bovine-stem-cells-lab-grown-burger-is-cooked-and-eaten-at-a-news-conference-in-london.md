@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/5/the-world-s-first-bovine-stem-cells-lab-grown-bu
 
 ### [2013-08-5](/news/2013/08/5/index.md)
 
-##### stem cells
+##### Stem cells
 # The world's first bovine stem cells lab-grown burger is cooked and eaten at a news conference in London. 
 
 

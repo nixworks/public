@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/9/hooded-gunmen-attack-french-police-in-the-city-o
 
 ### [2015-02-9](/news/2015/02/9/index.md)
 
-##### police
+##### Police
 # Hooded gunmen attack French police in the city of Marseille, which Prime Minister Manuel Valls is due to visit. 
 
 Pierre-Marie Bourniquel, Marseille police chief, forced to take evasive action after vehicle came under attack in apparent drug-related shooting incident in the city&#039;s northern Castellane housing estate

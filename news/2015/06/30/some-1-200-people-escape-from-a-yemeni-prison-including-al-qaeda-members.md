@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-i
 
 ### [2015-06-30](/news/2015/06/30/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # Some 1,200 people escape from a Yemeni prison including al Qaeda members. 
 
 A Yemeni security official says some 1,200 inmates fled a prison after guards deserted their posts.

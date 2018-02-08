@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/07/27/21-die-in-a-canyoning-disaster-near-interlaken-
 
 ### [1999-07-27](/news/1999/07/27/index.md)
 
-##### canyoning
+##### Canyoning
 #  21 die in a canyoning disaster near Interlaken, Switzerland.
 
 

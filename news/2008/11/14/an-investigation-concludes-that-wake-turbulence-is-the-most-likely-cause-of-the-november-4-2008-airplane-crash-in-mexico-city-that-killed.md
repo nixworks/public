@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/14/an-investigation-concludes-that-wake-turbulence
 
 ### [2008-11-14](/news/2008/11/14/index.md)
 
-##### wake turbulence
+##### Wake turbulence
 #  An investigation concludes that wake turbulence is the most likely cause of the November 4, 2008, airplane crash in Mexico City that killed, among others, Secretary of the Interior Juan Camilo Mourio and Jos Luis Santiago Vasconcelos. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/3/an-italian-appeals-court-overturns-amanda-knox-s
 
 ### [2011-10-3](/news/2011/10/3/index.md)
 
-##### appeals court
+##### Appeals court
 # An Italian appeals court overturns Amanda Knox's 26-year sentence for murder and sexual assault. 
 
 Amanda Knox has been dramatically acquitted of the murder of Meredith Kercher, despite a last-ditch appeal from the British student&rsquo;s family to uphold the conviction.

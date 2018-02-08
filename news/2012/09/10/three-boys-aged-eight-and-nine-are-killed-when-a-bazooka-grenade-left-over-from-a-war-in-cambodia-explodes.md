@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/10/three-boys-aged-eight-and-nine-are-killed-when-
 
 ### [2012-09-10](/news/2012/09/10/index.md)
 
-##### bazooka grenade
+##### Bazooka grenade
 # Three boys aged eight and nine are killed when a bazooka grenade, left over from a war in Cambodia, explodes. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/25/the-complete-nuclear-genome-of-a-siberian-boy-w
 
 ### [2013-10-25](/news/2013/10/25/index.md)
 
-##### nuclear genome
+##### Nuclear genome
 # The complete nuclear genome of a Siberian boy who died 24,000 years ago suggests that about a third of the ancestry of today's Native Americans can be traced to Western Eurasia, with only two-thirds coming from Eastern Asia. 
 
 

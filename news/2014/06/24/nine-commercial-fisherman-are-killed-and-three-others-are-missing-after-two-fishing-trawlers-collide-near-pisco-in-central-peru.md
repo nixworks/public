@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/24/nine-commercial-fisherman-are-killed-and-three-
 
 ### [2014-06-24](/news/2014/06/24/index.md)
 
-##### trawler
+##### Trawler
 # Nine commercial fisherman are killed and three others are missing after two fishing trawlers collide near Pisco in central Peru. 
 
 

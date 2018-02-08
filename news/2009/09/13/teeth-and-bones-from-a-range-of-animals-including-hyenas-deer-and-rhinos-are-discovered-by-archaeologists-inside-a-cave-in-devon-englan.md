@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-includi
 
 ### [2009-09-13](/news/2009/09/13/index.md)
 
-##### hyena
+##### Hyena
 #  Teeth and bones from a range of animals, including hyenas, deer and rhinos, are discovered by archaeologists inside a cave in Devon, England. 
 
 

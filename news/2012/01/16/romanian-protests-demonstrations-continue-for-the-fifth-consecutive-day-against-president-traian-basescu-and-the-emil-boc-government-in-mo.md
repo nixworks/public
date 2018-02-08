@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/16/romanian-protests-demonstrations-continue-for-t
 
 ### [2012-01-16](/news/2012/01/16/index.md)
 
-##### major social and political unrest
+##### Major social and political unrest
 # Romanian protests: Demonstrations continue for the fifth consecutive day against president Traian Basescu and the Emil Boc government in more than 60 cities across the country. 
 
 

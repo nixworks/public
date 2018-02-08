@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/24/a-large-explosion-which-triggers-other-explosio
 
 ### [2015-07-24](/news/2015/07/24/index.md)
 
-##### explosion
+##### Explosion
 # A large explosion, which triggers other explosions and a fire (which threatens a nearby forest) at a fireworks factory in southeastern Italy (Modugno, Metropolitan City of Bari, Apulia Region) kills 7 people and injures several more, some seriously. Emergency vehicles were on the scene and the cause is being investigated; it is the peak season for fireworks in Italy because of the summer festivals there. 
 
 

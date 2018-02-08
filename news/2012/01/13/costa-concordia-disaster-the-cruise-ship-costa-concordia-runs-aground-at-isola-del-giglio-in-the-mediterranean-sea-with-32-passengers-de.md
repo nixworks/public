@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/13/costa-concordia-disaster-the-cruise-ship-costa-
 
 ### [2012-01-13](/news/2012/01/13/index.md)
 
-##### sunk
+##### Sunk
 # Costa Concordia disaster: The cruise ship "Costa Concordia" runs aground at Isola del Giglio in the Mediterranean Sea, with 32 passengers dead, 2 missing and presumed dead, and 64 injured. 
 
 

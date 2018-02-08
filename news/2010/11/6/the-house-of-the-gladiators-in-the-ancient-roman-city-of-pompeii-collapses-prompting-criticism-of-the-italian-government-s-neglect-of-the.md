@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/6/the-house-of-the-gladiators-in-the-ancient-roman
 
 ### [2010-11-6](/news/2010/11/6/index.md)
 
-##### ancient Roman
+##### Ancient Roman
 # The House of the Gladiators in the ancient Roman city of Pompeii collapses, prompting criticism of the Italian government's "neglect" of the site. 
 
 

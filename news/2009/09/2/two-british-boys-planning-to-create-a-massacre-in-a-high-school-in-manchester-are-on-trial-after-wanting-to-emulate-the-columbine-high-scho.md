@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/2/two-british-boys-planning-to-create-a-massacre-i
 
 ### [2009-09-2](/news/2009/09/2/index.md)
 
-##### massacre
+##### Massacre
 #  Two British boys planning to create a massacre in a high school in Manchester are on trial after wanting to emulate the Columbine High School massacre. 
 
 

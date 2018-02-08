@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/27/six-people-die-and-one-person-goes-missing-afte
 
 ### [2006-12-27](/news/2006/12/27/index.md)
 
-##### helicopter carrying gas workers ditches
+##### Helicopter carrying gas workers ditches
 #  Six people die and one person goes missing after a helicopter carrying gas workers ditches into Morecambe Bay east of the Irish Sea, off the coast of Morecambe, England. 
 
 News and opinion from The Times &amp; The Sunday Times

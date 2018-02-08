@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/27/a-us-federal-grand-jury-issues-a-thirty-count-i
 
 ### [2013-06-27](/news/2013/06/27/index.md)
 
-##### indicted
+##### Indicted
 # A US federal grand jury issues a thirty count indictment against Dzhokhar Tsarnaev for his alleged role in the Boston Marathon bombings. 
 
 Dzhokhar Tsarnaev, the surviving Boston Marathon bombing suspect, was indicted Thursday and is scheduled to be arraigned on July 10.

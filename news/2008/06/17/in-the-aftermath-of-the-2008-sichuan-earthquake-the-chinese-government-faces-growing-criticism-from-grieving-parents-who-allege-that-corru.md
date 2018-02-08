@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/17/in-the-aftermath-of-the-2008-sichuan-earthquake
 
 ### [2008-06-17](/news/2008/06/17/index.md)
 
-##### deadly earthquake
+##### Deadly earthquake
 #  In the aftermath of the 2008 Sichuan earthquake, the Chinese government faces growing criticism from grieving parents who allege that corrupt and shoddy construction was behind the disproportionately high number of collapsed school buildings. 
 
 Still short 2 million tents, it must also rebuild homes and jobs for 5 million.

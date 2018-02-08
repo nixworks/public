@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/14/index.html)  [JSON](2008/01/14/index.json)  [XML](200
 
 ##### Alvaro Colom
 ### [ Alvaro Colom is sworn in as President of Guatemala. ](/news/2008/01/14/alvaro-colom-is-sworn-in-as-president-of-guatemala.md)
-_Context: President, Alvaro Colom_
+_Context: Alvaro Colom, President_
 
 ##### MESSENGER
 ### [ MESSENGER, a NASA mission, flies by Mercury, the second spacecraft to do so and the first in thirty-three years. ](/news/2008/01/14/messenger-a-nasa-mission-flies-by-mercury-the-second-spacecraft-to-do-so-and-the-first-in-thirty-three-years.md)
@@ -17,11 +17,11 @@ _Context: Kabul, Serena Hotel, Taliban_
 
 ##### European Commission
 ### [ The European Commission opens two new probes on alleged anti-competitive behavior by Microsoft Corporation. ](/news/2008/01/14/the-european-commission-opens-two-new-probes-on-alleged-anti-competitive-behavior-by-microsoft-corporation.md)
-_Context: Microsoft Corporation, European Commission_
+_Context: European Commission, Microsoft Corporation_
 
 ##### War in Waziristan
 ### [ War in Waziristan: At least seven Pakistani soldiers die in a clash with pro-Taliban militants in a tribal area near the Afghan border. Twenty-three tribal militants also die in the fighting in Mohmand agency. ](/news/2008/01/14/war-in-waziristan-at-least-seven-pakistani-soldiers-die-in-a-clash-with-pro-taliban-militants-in-a-tribal-area-near-the-afghan-border-twe.md)
-_Context: Pakistan, soldiers, War in Waziristan, Taliban_
+_Context: Pakistan, Taliban, War in Waziristan, soldiers_
 
 ##### Israeli Prime Minister
 ### [ Prime Minister of Israel Ehud Olmert warns that "all options are being taken into consideration" to stop Iran from going nuclear. ](/news/2008/01/14/prime-minister-of-israel-ehud-olmert-warns-that-all-options-are-being-taken-into-consideration-to-stop-iran-from-going-nuclear.md)
@@ -29,7 +29,7 @@ In one of his harshest remarks against Islamic republic, prime minister tells Kn
 
 ##### Bobby Jindal
 ### [ Bobby Jindal is sworn in as the 56th Governor of Louisiana. He is the first Indian American governor in U.S. history. ](/news/2008/01/14/bobby-jindal-is-sworn-in-as-the-56th-governor-of-louisiana-he-is-the-first-indian-american-governor-in-u-s-history.md)
-_Context: Indian American, Governor of Louisiana, U.S. history, governor, Louisiana, Bobby Jindal_
+_Context: Bobby Jindal, governor, U.S. history, Indian American, Governor of Louisiana, Louisiana_
 
 ## [Previous Day...](/news/2008/01/13/index.md)
 

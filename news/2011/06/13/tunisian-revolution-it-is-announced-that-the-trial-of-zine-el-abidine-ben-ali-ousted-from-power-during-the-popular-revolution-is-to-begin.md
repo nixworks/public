@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/13/tunisian-revolution-it-is-announced-that-the-tr
 
 ### [2011-06-13](/news/2011/06/13/index.md)
 
-##### revolution
+##### Revolution
 # Tunisian revolution: It is announced that the trial of Zine El Abidine Ben Ali, ousted from power during the popular revolution, is to begin on 20 June. 
 
 

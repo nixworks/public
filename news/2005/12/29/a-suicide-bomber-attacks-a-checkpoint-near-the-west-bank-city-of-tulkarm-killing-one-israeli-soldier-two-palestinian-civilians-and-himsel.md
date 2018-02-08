@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-
 
 ### [2005-12-29](/news/2005/12/29/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

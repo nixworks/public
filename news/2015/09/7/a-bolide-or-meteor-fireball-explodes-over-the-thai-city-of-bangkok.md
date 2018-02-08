@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/7/a-bolide-or-meteor-fireball-explodes-over-the-th
 
 ### [2015-09-7](/news/2015/09/7/index.md)
 
-##### bolide
+##### Bolide
 # A bolide or meteor fireball explodes over the Thai city of Bangkok. 
 
 Dashcam footage captures the moment a bright white light blazes across the sky in northern Thailand

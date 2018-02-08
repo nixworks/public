@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/19/an-explosion-kills-up-to-eight-civilians-glorie
 
 ### [2007-10-19](/news/2007/10/19/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion kills up to eight civilians Glorietta Mall in Makati City, PhilippinesJee Ann De Gracia was one of the 11th victim of Bombing. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/8/trump-signs-a-continuing-resolution-to-prevent-a
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
-##### budget
+##### Budget
 # Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. 
 
 President Trump signed stopgap legislation Friday to prevent a government shutdown ahead of the midnight Friday deadline.

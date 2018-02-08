@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/24/rescue-workers-continue-the-search-for-hundreds
 
 ### [2010-06-24](/news/2010/06/24/index.md)
 
-##### the widespread floods
+##### The widespread floods
 # Rescue workers continue the search for hundreds of people who have disappeared during floods in Brazil. 
 
 Rescue workers search for survivors as rains begin to ease in northeastern Brazil.

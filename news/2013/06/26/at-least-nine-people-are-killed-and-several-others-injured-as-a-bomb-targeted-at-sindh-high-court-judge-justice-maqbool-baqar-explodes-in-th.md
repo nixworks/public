@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/26/at-least-nine-people-are-killed-and-several-oth
 
 ### [2013-06-26](/news/2013/06/26/index.md)
 
-##### nine people are killed and several others injured
+##### Nine people are killed and several others injured
 # At least nine people are killed and several others injured as a bomb targeted at Sindh High Court judge Justice Maqbool Baqar explodes in the Pakistani city of Karachi. 
 
 A case has been registered against unknown persons at the Aram Bagh police station.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/6/abc-reports-that-british-government-sources-beli
 
 ### [2004-04-6](/news/2004/04/6/index.md)
 
-##### chemical weapon
+##### Chemical weapon
 #  ABC reports that British government sources believe that suspects arrested last week in the UK may have been plotting to make an improvised chemical weapon using the toxic agent osmium tetroxide. 
 
 

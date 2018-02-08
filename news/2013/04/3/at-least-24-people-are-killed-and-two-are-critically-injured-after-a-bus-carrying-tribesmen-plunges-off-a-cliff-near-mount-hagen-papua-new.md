@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/3/at-least-24-people-are-killed-and-two-are-critic
 
 ### [2013-04-3](/news/2013/04/3/index.md)
 
-##### bus
+##### Bus
 # At least 24 people are killed and two are critically injured after a bus carrying tribesmen plunges off a cliff near Mount Hagen, Papua New Guinea. 
 
 

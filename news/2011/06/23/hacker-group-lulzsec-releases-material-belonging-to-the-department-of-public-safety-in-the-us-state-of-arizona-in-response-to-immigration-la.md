@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/hacker-group-lulzsec-releases-material-belongin
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### hackers
+##### Hackers
 # Hacker group LulzSec releases material belonging to the Department of Public Safety in the US state of Arizona in response to immigration law SB 1070. 
 
 Hacker collective of the moment LulzSec has just released a torrent of data it claims to belong to Arizona law enforcement, in what it calls &quot;Operation..

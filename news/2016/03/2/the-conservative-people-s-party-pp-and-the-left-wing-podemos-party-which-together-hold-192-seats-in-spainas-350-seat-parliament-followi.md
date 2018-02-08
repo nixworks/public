@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/2/the-conservative-people-s-party-pp-and-the-left-
 
 ### [2016-03-2](/news/2016/03/2/index.md)
 
-##### election
+##### Election
 # The conservative People's Party (PP) and the left-wing Podemos party, which together hold 192 seats in Spain's 350-seat parliament following December's election, confirm they will vote against Spanish Socialist Workers' Party (PSOE) leader Pedro Sanchez's candidacy to form a new government. 
 
 

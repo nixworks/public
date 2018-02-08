@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/14/a-police-officer-is-wounded-after-a-grenade-att
 
 ### [2013-01-14](/news/2013/01/14/index.md)
 
-##### police officer
+##### Police officer
 # A police officer is wounded after a grenade attack in Benghazi, as Italy announces the temporary withdrawal of the country's consulate in the city after an unsuccessful attack against the consul two days earlier. 
 
 At least one police officer was wounded when attackers threw a hand grenade at a patrol car in the east Libyan city of Benghazi on Monday in the latest in a series of assaults on security officials, the force said.

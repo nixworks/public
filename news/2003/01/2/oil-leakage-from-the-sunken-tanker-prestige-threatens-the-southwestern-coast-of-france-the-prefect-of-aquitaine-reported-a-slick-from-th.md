@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/01/2/oil-leakage-from-the-sunken-tanker-prestige-thre
 
 ### [2003-01-2](/news/2003/01/2/index.md)
 
-##### tanker
+##### Tanker
 #  Oil leakage from the sunken tanker "Prestige" threatens the southwestern coast of France. The prefect of Aquitaine reported a slick from the tanker is 50 kilometers (30 standard miles) from the coast. French Prime Minister Jean-Pierre Raffarin promised 50 million euros for the cleanup. The "Prestige", which carried 77,000 tonnes of crude oil, sunk in late November 2002, off the coast of the Galician region of Spain.
 
 

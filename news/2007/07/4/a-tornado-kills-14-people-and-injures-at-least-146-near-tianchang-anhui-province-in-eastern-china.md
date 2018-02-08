@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/4/a-tornado-kills-14-people-and-injures-at-least-1
 
 ### [2007-07-4](/news/2007/07/4/index.md)
 
-##### tornado
+##### Tornado
 #  A tornado kills 14 people and injures at least 146 near Tianchang, Anhui Province, in eastern China. 
 
 A tornado swept across eastern China, killing 14 people and injuring 146, state media reported on Wednesday, the latest casualties from bad weather that has devastated parts of the country this summer.

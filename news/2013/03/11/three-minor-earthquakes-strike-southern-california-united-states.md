@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/three-minor-earthquakes-strike-southern-califor
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### earthquake
+##### Earthquake
 # Three minor earthquakes strike Southern California, United States. 
 
 Three earthquakes have shaken Southern California, according to the U.S. Geological Survey.

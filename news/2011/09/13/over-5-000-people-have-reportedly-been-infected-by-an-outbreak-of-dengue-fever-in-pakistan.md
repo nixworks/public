@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/13/over-5-000-people-have-reportedly-been-infected
 
 ### [2011-09-13](/news/2011/09/13/index.md)
 
-##### outbreak of dengue fever
+##### Outbreak of dengue fever
 # Over 5,000 people have reportedly been infected by an outbreak of dengue fever in Pakistan. 
 
 

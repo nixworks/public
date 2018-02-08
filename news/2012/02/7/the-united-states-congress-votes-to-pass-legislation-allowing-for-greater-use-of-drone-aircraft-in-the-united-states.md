@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/7/the-united-states-congress-votes-to-pass-legisla
 
 ### [2012-02-7](/news/2012/02/7/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress votes to pass legislation allowing for greater use of drone aircraft in the United States. 
 
 

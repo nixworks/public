@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/23/at-least-51-people-including-a-bridegroom-were-
 
 ### [2004-01-23](/news/2004/01/23/index.md)
 
-##### bridegroom
+##### Bridegroom
 #  At least 51 people, including a bridegroom, were killed on Friday when a fire ripped through a makeshift wedding hall in the southern Indian state of Tamil Nadu during a marriage ceremony.
 
 

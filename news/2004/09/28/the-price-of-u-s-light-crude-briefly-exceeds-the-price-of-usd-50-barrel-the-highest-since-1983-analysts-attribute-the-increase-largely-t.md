@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/28/the-price-of-u-s-light-crude-briefly-exceeds-th
 
 ### [2004-09-28](/news/2004/09/28/index.md)
 
-##### crude oil
+##### Crude oil
 #  The price of U.S. light crude briefly exceeds the price of USD 50-barrel, the highest since 1983. Analysts attribute the increase largely to concerns over the disruption of oil production in Nigeria; conflicts in Iraq and Saudi Arabia and the effects of Hurricane Ivan are also cited. 
 
 

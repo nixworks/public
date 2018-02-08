@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/19/a-powerful-storm-in-california-united-states-ca
 
 ### [2010-01-19](/news/2010/01/19/index.md)
 
-##### storm
+##### Storm
 # A powerful storm in California, United States, causes the evacuation of at least 200 homes in threat of mudslides, and knocks out power for 65,000 customers. One fatality is reported in Kern County. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/16/a-tattooed-mummy-of-a-woman-in-her-late-20s-of-
 
 ### [2006-05-16](/news/2006/05/16/index.md)
 
-##### tattoo
+##### Tattoo
 #  A tattooed mummy of a woman in her late 20s of the Moche tribe from 1,500 years ago is found near Trujillo, Peru. 
 
 

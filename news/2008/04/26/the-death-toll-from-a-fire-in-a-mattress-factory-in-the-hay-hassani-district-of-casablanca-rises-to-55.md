@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/26/the-death-toll-from-a-fire-in-a-mattress-factor
 
 ### [2008-04-26](/news/2008/04/26/index.md)
 
-##### fire
+##### Fire
 #  The death toll from a fire in a mattress factory in the Hay Hassani district of Casablanca rises to 55. 
 
 

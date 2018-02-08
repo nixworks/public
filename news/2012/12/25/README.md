@@ -7,17 +7,17 @@ Formats: [HTML](2012/12/25/index.html)  [JSON](2012/12/25/index.json)  [XML](201
 ### [Rebels take over the city of Harem in Idlib Governorate on the border with Turkey, about 55 kms west of Aleppo. ](/news/2012/12/25/rebels-take-over-the-city-of-harem-in-idlib-governorate-on-the-border-with-turkey-about-55-kms-west-of-aleppo.md)
 The Pope calls for a political solution to the conflict in Syria during his Christmas message, delivered to thousands of pilgrims at the Vatican.
 
-##### al-Qaida
+##### Al-Qaida
 ### [Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.md)
 At least five militants were killed and three soldiers wounded in Yemen on Tuesday in fighting near a damaged oil pipeline east of the capital Sanaa, a defense ministry official and residents said.
 
 ##### Boko Haram
 ### [Suspected members of Boko Haram attack a church in northeastern Nigeria, killing six people. ](/news/2012/12/25/suspected-members-of-boko-haram-attack-a-church-in-northeastern-nigeria-killing-six-people.md)
-_Context: Nigeria, Boko Haram_
+_Context: Boko Haram, Nigeria_
 
 ##### Seleka
 ### [The Seleka rebel coalition captures Kaga-Bandoro, the fourth major city to fall since the return to hostilities on December 10. Meanwhile, President Francois Bozize meets with military advisors in the capital Bangui. ](/news/2012/12/25/the-seleka-rebel-coalition-captures-kaga-bandoro-the-fourth-major-city-to-fall-since-the-return-to-hostilities-on-december-10-meanwhile-p.md)
-_Context: Francois Bozize, Seleka, Kaga-Bandoro, Bangui_
+_Context: Kaga-Bandoro, Bangui, Francois Bozize, Seleka_
 
 ##### Pope
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square and holds the traditional Mass at St. Peter's Basilica in Vatican City. ](/news/2012/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-and-holds-the-traditional-mass-at-st-peter-s-basilica-in-va.md)
@@ -25,11 +25,11 @@ Millions of Christians around the world are celebrating Christmas, as Pope Bened
 
 ##### Elizabeth II
 ### [Elizabeth II addresses her Commonwealth subjects in her annual Royal Christmas Message, referring to the 2012 Summer Olympics in London and the "humbling" experience of her diamond jubilee celebrations. Her speech - the first to be broadcast in 3D - does not include mention the recently-announced pregnancy of Catherine, Duchess of Cambridge, wife of her eldest grandson. ](/news/2012/12/25/elizabeth-ii-addresses-her-commonwealth-subjects-in-her-annual-royal-christmas-message-referring-to-the-2012-summer-olympics-in-london-and.md)
-_Context: 2012 Summer Olympics, 3D, London, Royal Christmas Message, Elizabeth II, pregnancy of Catherine, Duchess of Cambridge, diamond jubilee, Commonwealth of Nations_
+_Context: London, diamond jubilee, 3D, 2012 Summer Olympics, pregnancy of Catherine, Duchess of Cambridge, Elizabeth II, Royal Christmas Message, Commonwealth of Nations_
 
 ##### Antonov An-72
 ### [An Antonov An-72 plane carrying senior Kazakh border officials crashes close to the city of Shymkent, killing all 27 on board. ](/news/2012/12/25/an-antonov-an-72-plane-carrying-senior-kazakh-border-officials-crashes-close-to-the-city-of-shymkent-killing-all-27-on-board.md)
-_Context: Kazakhstan, Shymkent, crashes, Antonov An-72_
+_Context: Shymkent, Kazakhstan, crashes, Antonov An-72_
 
 ##### Air Bagan
 ### [An Air Bagan plane carrying more than 60 passengers, including many foreigners, from the city of Yangon to Heho Airport in Shan State, Burma, makes an emergency landing, killing a passenger and a motorcyclist and injuring 11 others. ](/news/2012/12/25/an-air-bagan-plane-carrying-more-than-60-passengers-including-many-foreigners-from-the-city-of-yangon-to-heho-airport-in-shan-state-burma.md)
@@ -41,7 +41,7 @@ Low-level alert issued after Copahue Volcano began spewing ash, but officials sa
 
 ##### Mi-8
 ### [Five people are killed when a Mi-8 helicopter of Ukraine's internal troops crashes in Oleksandriia, Kirovohrad Oblast, Ukraine. ](/news/2012/12/25/five-people-are-killed-when-a-mi-8-helicopter-of-ukraine-s-internal-troops-crashes-in-oleksandriia-kirovohrad-oblast-ukraine.md)
-_Context: Mi-8, helicopter, Oleksandriia, Ukraine, internal troops, Kirovohrad Oblast_
+_Context: internal troops, helicopter, Oleksandriia, Kirovohrad Oblast, Mi-8, Ukraine_
 
 ##### M6 motorway
 ### [Two young brothers and a woman are killed motor car accident on the northbound carriageway of the M6 motorway in Staffordshire, England. ](/news/2012/12/25/two-young-brothers-and-a-woman-are-killed-motor-car-accident-on-the-northbound-carriageway-of-the-m6-motorway-in-staffordshire-england.md)
@@ -69,7 +69,7 @@ Venezuelan President Hugo Chavez has improved after a cancer operation and has s
 
 ##### Archbishop of Westminster
 ### [Archbishop of Westminster Vincent Nichols, the leader of the Roman Catholic Church in England and Wales, criticises the UK government's plans for gay marriage as a "shambles", saying they do not have a mandate to introduce the policy. ](/news/2012/12/25/archbishop-of-westminster-vincent-nichols-the-leader-of-the-roman-catholic-church-in-england-and-wales-criticises-the-uk-government-s-plan.md)
-_Context: Same-sex marriage, Vincent Nichols, Roman Catholic Church in England and Wales, Archbishop of Westminster, British government_
+_Context: Vincent Nichols, British government, Same-sex marriage, Roman Catholic Church in England and Wales, Archbishop of Westminster_
 
 ##### Israel
 ### [Israel greenlights the fast-track development of another 1,200 housing units around Jerusalem, including East 1. This week's total now stands at 5,500, the largest in some time. ](/news/2012/12/25/israel-greenlights-the-fast-track-development-of-another-1-200-housing-units-around-jerusalem-including-east-1-this-week-s-total-now-stand.md)

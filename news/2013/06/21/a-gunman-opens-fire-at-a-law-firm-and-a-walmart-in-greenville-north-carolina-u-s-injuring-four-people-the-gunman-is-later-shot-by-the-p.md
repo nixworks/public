@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/21/a-gunman-opens-fire-at-a-law-firm-and-a-walmart
 
 ### [2013-06-21](/news/2013/06/21/index.md)
 
-##### law firm
+##### Law firm
 # A gunman opens fire at a law firm and a Walmart in Greenville, North Carolina, U.S., injuring four people. The gunman is later shot by the police and brought into custody after being wounded. 
 
 A suspect is reportedly in custody after 4 were injured in a shooting in or around a law firm and a Wal-Mart in Greenville Friday

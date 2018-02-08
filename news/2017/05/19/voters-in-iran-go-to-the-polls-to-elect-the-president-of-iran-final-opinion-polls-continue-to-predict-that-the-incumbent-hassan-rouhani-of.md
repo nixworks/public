@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/19/voters-in-iran-go-to-the-polls-to-elect-the-pre
 
 ### [2017-05-19](/news/2017/05/19/index.md)
 
-##### re-elected
+##### Re-elected
 # Voters in Iran go to the polls to elect the President of Iran. Final opinion polls continue to predict that the incumbent Hassan Rouhani of the Moderation and Development Party will receive a majority of votes, with the conservative Combatant Clergy Association's Ebrahim Raisi as his main competition. 
 
 Voters are to elect a new president, with incumbent Hassan Rouhani up against three challengers.

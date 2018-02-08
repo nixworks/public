@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/16/victims-of-the-recent-severe-storm-in-india-ang
 
 ### [2010-04-16](/news/2010/04/16/index.md)
 
-##### severe storm in India
+##### Severe storm in India
 # Victims of the recent severe storm in India angered by slow government response attack officials and raid an aid storage facility. 
 
 

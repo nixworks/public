@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/4/a-new-species-of-shark-mustelus-hacat-is-discove
 
 ### [2006-03-4](/news/2006/03/4/index.md)
 
-##### shark
+##### Shark
 #  A new species of shark, "Mustelus hacat", is discovered in Mexico's Sea of Cortez, bringing the number of "Mustelus" species found in the eastern North Pacific to five.
 
 

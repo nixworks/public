@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/30/three-people-are-dead-including-the-shooter-one
 
 ### [2013-01-30](/news/2013/01/30/index.md)
 
-##### shooting
+##### Shooting
 # Three people are dead, including the shooter, one person is wounded after a shooting at an office building in Phoenix, Arizona, United States. 
 
 

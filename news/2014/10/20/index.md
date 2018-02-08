@@ -25,7 +25,7 @@ The remains of Hurricane Gonzalo will hit the UK tonight, bringing gales and tor
 
 ##### Dhaka
 ### [A collision between two buses on the Dhaka-Rajshahi highway leaves at least 30 people dead in northwestern Bangladesh. ](/news/2014/10/20/a-collision-between-two-buses-on-the-dhaka-rajshahi-highway-leaves-at-least-30-people-dead-in-northwestern-bangladesh.md)
-_Context: Bangladesh, Dhaka, Rajshahi_
+_Context: Dhaka, Rajshahi, Bangladesh_
 
 ##### Total
 ### [The Chief Executive Officer of Total S.A., Christophe de Margerie, dies in a plane crash in Moscow together with three members of the flight crew. ](/news/2014/10/20/the-chief-executive-officer-of-total-s-a-christophe-de-margerie-dies-in-a-plane-crash-in-moscow-together-with-three-members-of-the-flight.md)
@@ -37,7 +37,7 @@ _Context: Joko Widodo, President of Indonesia, sworn in_
 
 ##### Prime Minister of Japan
 ### [Two members of Prime Minister of Japan Shinzo Abe's cabinet, Trade Minister Yuko Obuchi and Justice Minister Midori Matsushima, resign over a scandal involving alleged misuse of political funds. ](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.md)
-_Context: Prime Minister of Japan, Shinzo Abe, Yuko Obuchi, Midori Matsushima_
+_Context: Shinzo Abe, Midori Matsushima, Prime Minister of Japan, Yuko Obuchi_
 
 ## [Previous Day...](/news/2014/10/19/index.md)
 

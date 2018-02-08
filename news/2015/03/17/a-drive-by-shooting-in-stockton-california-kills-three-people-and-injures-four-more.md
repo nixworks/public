@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/17/a-drive-by-shooting-in-stockton-california-kill
 
 ### [2015-03-17](/news/2015/03/17/index.md)
 
-##### drive-by shooting
+##### Drive-by shooting
 # A drive-by shooting in Stockton, California kills three people and injures four more. 
 
 

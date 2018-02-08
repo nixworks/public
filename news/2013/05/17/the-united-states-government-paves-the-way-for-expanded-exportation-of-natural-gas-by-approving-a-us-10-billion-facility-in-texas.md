@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/17/the-united-states-government-paves-the-way-for-
 
 ### [2013-05-17](/news/2013/05/17/index.md)
 
-##### natural gas
+##### Natural gas
 # The United States government paves the way for expanded exportation of natural gas by approving a US$10 billion facility in Texas. 
 
 * Freeport first project approved since 2011* Manufacturers concerned about unlimited gas exports* Still unclear when DOE will act on other p

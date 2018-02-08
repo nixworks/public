@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/3/the-people-s-republic-of-china-says-it-may-delay
 
 ### [2004-08-3](/news/2004/08/3/index.md)
 
-##### free trade
+##### Free trade
 #  The People's Republic of China says it may delay talks on a free trade agreement with Singapore following a recent visit to Taiwan by Singapore's deputy prime minister Lee Hsien Loong. 
 
 

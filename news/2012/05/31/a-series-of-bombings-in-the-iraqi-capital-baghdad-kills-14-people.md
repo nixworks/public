@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/31/a-series-of-bombings-in-the-iraqi-capital-baghd
 
 ### [2012-05-31](/news/2012/05/31/index.md)
 
-##### bombings
+##### Bombings
 # A series of bombings in the Iraqi capital Baghdad kills 14 people. 
 
 

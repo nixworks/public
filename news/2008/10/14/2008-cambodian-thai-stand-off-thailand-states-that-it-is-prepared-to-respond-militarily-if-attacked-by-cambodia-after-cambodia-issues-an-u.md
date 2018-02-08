@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/14/2008-cambodian-thai-stand-off-thailand-states-t
 
 ### [2008-10-14](/news/2008/10/14/index.md)
 
-##### exchange gunfire
+##### Exchange gunfire
 #  2008 Cambodian-Thai stand-off: Thailand states that it is prepared to respond militarily if attacked by Cambodia after Cambodia issues an ultimatum to withdraw from disputed border areas. 
 
 

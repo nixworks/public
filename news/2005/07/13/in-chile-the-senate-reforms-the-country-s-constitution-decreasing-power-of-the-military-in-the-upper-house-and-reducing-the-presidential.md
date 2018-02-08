@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/13/in-chile-the-senate-reforms-the-country-s-const
 
 ### [2005-07-13](/news/2005/07/13/index.md)
 
-##### constitution
+##### Constitution
 #  In Chile, the Senate reforms the country's constitution, decreasing power of the military in the upper house and reducing the presidential term for four years. The previous constitution is from the era of Augusto Pinochet. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/20/more-than-40-people-are-killed-and-27-injured-w
 
 ### [2012-04-20](/news/2012/04/20/index.md)
 
-##### tractor trailer
+##### Tractor trailer
 # More than 40 people are killed and 27 injured when a tractor trailer collides with a bus near Alamo, Veracruz, Mexico. 
 
 

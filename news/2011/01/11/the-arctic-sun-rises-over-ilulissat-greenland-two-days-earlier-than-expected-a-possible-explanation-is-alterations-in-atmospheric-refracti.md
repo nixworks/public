@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/11/the-arctic-sun-rises-over-ilulissat-greenland-t
 
 ### [2011-01-11](/news/2011/01/11/index.md)
 
-##### rises
+##### Rises
 # The Arctic Sun rises over Ilulissat, Greenland two days earlier than expected. A possible explanation is alterations in atmospheric refraction or inversion from ice crystals that may or may not be the result of global warming. 
 
 The best of British &amp; international news, opinion, sport, people &amp; business.

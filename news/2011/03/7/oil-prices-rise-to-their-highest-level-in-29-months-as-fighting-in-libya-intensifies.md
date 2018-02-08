@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/7/oil-prices-rise-to-their-highest-level-in-29-mon
 
 ### [2011-03-7](/news/2011/03/7/index.md)
 
-##### civil war
+##### Civil war
 # Oil prices rise to their highest level in 29 months as fighting in Libya intensifies. 
 
 

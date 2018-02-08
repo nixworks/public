@@ -19,7 +19,7 @@ A Turkish soldier and three Kurdish militants were killed in a clash in eastern 
 ### [ISIL militants execute 15 women in Mosul. ](/news/2015/08/16/isil-militants-execute-15-women-in-mosul.md)
 The former prime minister could face charges over his role in allowing the city to be seized by militants.
 
-##### the explosions last year
+##### The explosions last year
 ### [The death toll from the explosions rises to 112 with 95 people missing including 85 fire fighters. ](/news/2015/08/16/the-death-toll-from-the-explosions-rises-to-112-with-95-people-missing-including-85-fire-fighters.md)
 Nearly 100 people missing from Tianjin blasts, including 85 firefighters, officials say, as death toll rises to 112.
 

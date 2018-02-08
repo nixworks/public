@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/23/the-indian-government-unveils-a-solar-power-tou
 
 ### [2010-07-23](/news/2010/07/23/index.md)
 
-##### iPad
+##### IPad
 # The Indian government unveils a solar power touch-screen laptop, cheaper than America's iPad, expected to be on sale next year. 
 
 The Indian government unveils the prototype of an iPad-like touch-screen laptop, with a price tag of $35 (£23), which it hopes to roll out next year.

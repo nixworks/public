@@ -9,7 +9,7 @@ Amid regional tensions, Yemen’s Iran-aligned Houthi rebels reached Riyadh with
 
 ##### 2017 Pacific typhoon season
 ### [Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.md)
-_Context: 2017 Pacific typhoon season, Typhoon Damrey, Vietnam, APEC Vietnam 2017_
+_Context: Vietnam, APEC Vietnam 2017, Typhoon Damrey, 2017 Pacific typhoon season_
 
 ##### Temporary Protected Status
 ### [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md)
@@ -37,7 +37,7 @@ Saad al-Hariri resigns saying he fears an assassination plot, while also fiercel
 
 ##### Slovak regional elections, 2017
 ### [Jan Lunter defeats Marian Kotleba in the Slovakian regional election held in the Banska Bystrica Region. Direction - Social Democracy loses four regions to center-right opposition candidates. ](/news/2017/11/4/ja-n-lunter-defeats-marian-kotleba-in-the-slovakian-regional-election-held-in-the-banska-bystrica-region-direction-a-social-democracy-lo.md)
-_Context: Direction - Social Democracy, Jan Lunter, Banska Bystrica Region, Marian Kotleba, Slovak regional elections, 2017_
+_Context: Banska Bystrica Region, Direction - Social Democracy, Jan Lunter, Slovak regional elections, 2017, Marian Kotleba_
 
 ##### Protests against Donald Trump
 ### [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md)

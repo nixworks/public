@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/17/philippine-army-troops-free-dozens-of-prisoners
 
 ### [2013-09-17](/news/2013/09/17/index.md)
 
-##### army
+##### Army
 # Philippine Army troops free dozens of prisoners held hostage by the Moro National Liberation Front in the Battle of Zamboanga City in the city of Zamboanga. 
 
 Dozens of civilians held by Muslim rebels in a stand-off in the Philippine south are freed as troops gained ground, the military said.

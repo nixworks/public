@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/5/the-first-direct-indonesian-presidential-electio
 
 ### [2004-07-5](/news/2004/07/5/index.md)
 
-##### presidential election
+##### Presidential election
 #  The first direct Indonesian presidential election is held, with Susilo Bambang Yudhoyono expected to win with one-third of the vote. If no candidate wins at least 50 percent of the vote, the two top finishers will compete in a September runoff. The race for second place, between President Megawati Sukarnoputri and former army chief General Wiranto, is still too close to call. 
 
 

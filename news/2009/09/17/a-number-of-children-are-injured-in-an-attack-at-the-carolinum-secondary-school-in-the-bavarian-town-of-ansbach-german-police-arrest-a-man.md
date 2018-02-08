@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/17/a-number-of-children-are-injured-in-an-attack-a
 
 ### [2009-09-17](/news/2009/09/17/index.md)
 
-##### an attack at the Carolinum secondary school
+##### An attack at the Carolinum secondary school
 #  A number of children are injured in an attack at the Carolinum secondary school in the Bavarian town of Ansbach. German police arrest a man. 
 
 An 18-year-old student armed with an axe has been arrested in Germany after throwing petrol bombs into two classrooms at his school.

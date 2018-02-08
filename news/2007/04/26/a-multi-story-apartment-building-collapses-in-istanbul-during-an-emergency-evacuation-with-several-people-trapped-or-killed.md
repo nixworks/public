@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/26/a-multi-story-apartment-building-collapses-in-i
 
 ### [2007-04-26](/news/2007/04/26/index.md)
 
-##### apartment building
+##### Apartment building
 #  A multi-story apartment building collapses in Istanbul during an emergency evacuation, with several people trapped or killed. 
 
 

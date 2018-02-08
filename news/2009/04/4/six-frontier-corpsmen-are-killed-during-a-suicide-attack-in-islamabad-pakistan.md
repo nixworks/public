@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/4/six-frontier-corpsmen-are-killed-during-a-suicid
 
 ### [2009-04-4](/news/2009/04/4/index.md)
 
-##### paramilitary soldiers
+##### Paramilitary soldiers
 #  Six Frontier Corpsmen are killed during a suicide attack in Islamabad, Pakistan. 
 
 

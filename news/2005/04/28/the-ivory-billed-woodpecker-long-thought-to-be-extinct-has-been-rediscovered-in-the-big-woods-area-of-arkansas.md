@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/28/the-ivory-billed-woodpecker-long-thought-to-be-
 
 ### [2005-04-28](/news/2005/04/28/index.md)
 
-##### ivory-billed woodpecker
+##### Ivory-billed woodpecker
 #  The ivory-billed woodpecker, long thought to be extinct, has been rediscovered in the "Big Woods" area of Arkansas. 
 
 

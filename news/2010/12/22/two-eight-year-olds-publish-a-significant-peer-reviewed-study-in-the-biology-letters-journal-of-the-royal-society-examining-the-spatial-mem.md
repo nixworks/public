@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/22/two-eight-year-olds-publish-a-significant-peer-
 
 ### [2010-12-22](/news/2010/12/22/index.md)
 
-##### peer-reviewed
+##### Peer-reviewed
 # Two eight-year-olds publish a significant peer-reviewed study in the Biology Letters journal of the Royal Society, examining the spatial memory of bumblebees. 
 
 

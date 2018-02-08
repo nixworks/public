@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/19/twenty-nine-coal-miners-and-officials-are-feare
 
 ### [2010-11-19](/news/2010/11/19/index.md)
 
-##### coal miners
+##### Coal miners
 # Twenty-nine coal miners and officials are feared trapped following an explosion at the Pike River Coal Processing Plant at Atarau in the Grey District of the South Island of New Zealand. 
 
 More details of the missing miners emerge as police wait until it is safe to begin the rescue operation.

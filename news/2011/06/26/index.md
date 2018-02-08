@@ -5,7 +5,7 @@ Formats: [HTML](2011/06/26/index.html)  [JSON](2011/06/26/index.json)  [XML](201
 
 ##### Syrian Army
 ### [2011 Syrian uprising:A Syrian military spokesman says more than 400 members of security forces have been killed in the months-long unrest as videos surface allegedly showing children killed in the violence. ](/news/2011/06/26/2011-syrian-uprising-a-syrian-military-spokesman-says-more-than-400-members-of-security-forces-have-been-killed-in-the-months-long-unrest-as.md)
-_Context: 2011 Syrian uprising, Syrian Army_
+_Context: Syrian Army, 2011 Syrian uprising_
 
 ##### Israel
 ### [Following accusations by the Foreign Press Association that Israel is intimidating journalists on the 10-ship flotilla due to sail to the Gaza Strip, Prime Minister Benjamin Netanyahu says that the journalists will not to be sanctioned. ](/news/2011/06/26/following-accusations-by-the-foreign-press-association-that-israel-is-intimidating-journalists-on-the-10-ship-flotilla-due-to-sail-to-the-ga.md)
@@ -13,7 +13,7 @@ Israeli troops begin to dismantle part of the West Bank barrier near Bilin, for 
 
 ##### Vietnamese
 ### [Vietnamese protesters march in the capital Hanoi for the fourth successive week calling on the People's Republic of China to stop entering Vietnamese territorial waters on the South China Sea. ](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.md)
-_Context: South China Sea, China, territorial waters, Vietnamese, Hanoi_
+_Context: Vietnamese, Hanoi, China, South China Sea, territorial waters_
 
 ##### Maiduguri
 ### [At least 25 people are killed and many others are wounded after a bomb explodes in Maiduguri. ](/news/2011/06/26/at-least-25-people-are-killed-and-many-others-are-wounded-after-a-bomb-explodes-in-maiduguri.md)
@@ -25,7 +25,7 @@ _Context: SGBPo Paulo_
 
 ##### Daniel Craig
 ### [It is confirmed that Daniel Craig, the current James Bond, has married the Academy Award-winning actress Rachel Weisz at a private ceremony in the U.S. state of New York. ](/news/2011/06/26/it-is-confirmed-that-daniel-craig-the-current-james-bond-has-married-the-academy-award-winning-actress-rachel-weisz-at-a-private-ceremony.md)
-_Context: New York, Daniel Craig, James Bond, Academy Award, U.S. state, Rachel Weisz_
+_Context: James Bond, U.S. state, New York, Rachel Weisz, Daniel Craig, Academy Award_
 
 ##### Beyonce
 ### [Beyonce makes her debut at the Glastonbury Festival, becoming one of only a small number of women to have headlined. ](/news/2011/06/26/beyonca-c-makes-her-debut-at-the-glastonbury-festival-becoming-one-of-only-a-small-number-of-women-to-have-headlined.md)
@@ -33,9 +33,9 @@ US star Beyonce makes her debut at Glastonbury, bringing the three-day festival 
 
 ##### 2011 Puyehue-Cordon Caulle eruption
 ### [Ash cloud from the 2011 Puyehue-Cordon Caulle eruption continues to disrupt flights between Australia and New Zealand. ](/news/2011/06/26/ash-cloud-from-the-2011-puyehue-corda3n-caulle-eruption-continues-to-disrupt-flights-between-australia-and-new-zealand.md)
-_Context: Australia, 2011 Puyehue-Cordon Caulle eruption, New Zealand_
+_Context: New Zealand, 2011 Puyehue-Cordon Caulle eruption, Australia_
 
-##### mountaineering
+##### Mountaineering
 ### [The bodies of six mountaineers are found on Neige Cordier in the French Alps after apparently having been killed by an avalanche. ](/news/2011/06/26/the-bodies-of-six-mountaineers-are-found-on-neige-cordier-in-the-french-alps-after-apparently-having-been-killed-by-an-avalanche.md)
 Six French mountaineers have been found dead after a fall in the French Alps, local officials say.
 
@@ -43,7 +43,7 @@ Six French mountaineers have been found dead after a fall in the French Alps, lo
 ### [The so-called "LulzSec" hackers have reportedly disbanded after a final data dump including information from AOL Inc. and AT&T. ](/news/2011/06/26/the-so-called-lulzsec-hackers-have-reportedly-disbanded-after-a-final-data-dump-including-information-from-aol-inc-and-at-t.md)
 The Lulz Security group of rogue hackers announced it was disbanding on Saturday with one last data dump, which included internal AOL Inc and AT&amp;T documents.
 
-##### drug possession
+##### Drug possession
 ### [The sentence for a drug possession conviction of the nephew of deposed Tunisian President, Zine el Abidine Ben Ali, is increased after he appeals it. ](/news/2011/06/26/the-sentence-for-a-drug-possession-conviction-of-the-nephew-of-deposed-tunisian-president-zine-el-abidine-ben-ali-is-increased-after-he-ap.md)
 The nephew of deposed Tunisian President Zine el Abidine Ben Ali found his sentence for a drug possession conviction doubled when he appealed it, state media said.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/11/a-knife-wielding-man-enters-a-synagogue-in-mosc
 
 ### [2006-01-11](/news/2006/01/11/index.md)
 
-##### knife
+##### Knife
 #  A knife-wielding man enters a synagogue in Moscow and stabs at least eight people. 
 
 

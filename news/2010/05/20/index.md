@@ -3,9 +3,9 @@ Formats: [HTML](2010/05/20/index.html)  [JSON](2010/05/20/index.json)  [XML](201
 
 ## [2010-05-20](/news/2010/05/20/index.md)
 
-##### Poland
+##### Polish
 ### [Floods in Poland kill 5. The downpours also cause flooding in areas of Hungary, Slovakia and the Czech Republic. ](/news/2010/05/20/floods-in-poland-kill-5-the-downpours-also-cause-flooding-in-areas-of-hungary-slovakia-and-the-czech-republic.md)
-_Context: Slovakia, Czech Republic, Poland, Hungary_
+_Context: Polish, Czech Republic, Hungary, Slovakia_
 
 ##### Antananarivo
 ### [At least one police officer is killed and five other people are injured in a battle with a dissident army unit in Antananarivo. ](/news/2010/05/20/at-least-one-police-officer-is-killed-and-five-other-people-are-injured-in-a-battle-with-a-dissident-army-unit-in-antananarivo.md)

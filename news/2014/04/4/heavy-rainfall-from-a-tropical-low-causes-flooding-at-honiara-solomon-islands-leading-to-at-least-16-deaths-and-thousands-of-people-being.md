@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/4/heavy-rainfall-from-a-tropical-low-causes-floodi
 
 ### [2014-04-4](/news/2014/04/4/index.md)
 
-##### tropical low
+##### Tropical low
 # Heavy rainfall from a tropical low causes flooding at Honiara, Solomon Islands, leading to at least 16 deaths and thousands of people being evacuated. 
 
 Government officials have said the death toll from severe flooding in the Solomon Islands has risen.

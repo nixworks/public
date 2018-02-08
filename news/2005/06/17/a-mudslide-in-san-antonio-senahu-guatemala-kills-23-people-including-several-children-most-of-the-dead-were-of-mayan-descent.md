@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/17/a-mudslide-in-san-antonio-senahu-guatemala-kill
 
 ### [2005-06-17](/news/2005/06/17/index.md)
 
-##### mudslide
+##### Mudslide
 #  A mudslide in San Antonio Senahu, Guatemala, kills 23 people, including several children. Most of the dead were of Mayan descent. 
 
 

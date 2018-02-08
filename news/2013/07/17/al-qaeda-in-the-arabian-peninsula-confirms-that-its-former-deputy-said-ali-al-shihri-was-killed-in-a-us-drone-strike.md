@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/17/al-qaeda-in-the-arabian-peninsula-confirms-that
 
 ### [2013-07-17](/news/2013/07/17/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 # Al-Qaeda in the Arabian Peninsula confirms that its former deputy Said Ali al-Shihri was killed in a US drone strike. 
 
 Arabian Al Qaeda confirms death of deputy leader Saeed al-Shehri by US drone strike.

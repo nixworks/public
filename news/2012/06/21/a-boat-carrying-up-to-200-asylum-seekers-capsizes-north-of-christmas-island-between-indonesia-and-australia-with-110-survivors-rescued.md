@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/21/a-boat-carrying-up-to-200-asylum-seekers-capsiz
 
 ### [2012-06-21](/news/2012/06/21/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # A boat carrying up to 200 asylum seekers capsizes north of Christmas Island, between Indonesia and Australia with 110 survivors rescued. 
 
 Rescue efforts are under way after a boat believed to be carrying about 200 asylum-seekers capsized north of Christmas Island, Australian officials say.

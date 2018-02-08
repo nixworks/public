@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/24/heavy-floods-hit-switzerland-austria-and-german
 
 ### [2005-08-24](/news/2005/08/24/index.md)
 
-##### flood
+##### Flood
 #  Heavy floods hit Switzerland, Austria and Germany forcing thousands of people to abandon their homes. 
 
 

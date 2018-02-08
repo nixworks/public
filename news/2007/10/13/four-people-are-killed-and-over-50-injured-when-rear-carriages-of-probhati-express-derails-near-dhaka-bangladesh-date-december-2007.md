@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/13/four-people-are-killed-and-over-50-injured-when
 
 ### [2007-10-13](/news/2007/10/13/index.md)
 
-##### carriage
+##### Carriage
 #  Four people are killed and over 50 injured when rear carriages of Probhati Express derails near Dhaka, Bangladesh.date=December 2007
 
 

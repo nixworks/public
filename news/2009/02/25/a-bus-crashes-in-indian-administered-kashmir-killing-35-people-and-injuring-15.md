@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/25/a-bus-crashes-in-indian-administered-kashmir-ki
 
 ### [2009-02-25](/news/2009/02/25/index.md)
 
-##### bus
+##### Bus
 #  A bus crashes in Indian-administered Kashmir, killing 35 people and injuring 15. 
 
 

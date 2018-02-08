@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilia
 
 ### [2011-02-14](/news/2011/02/14/index.md)
 
-##### protests
+##### Protests
 # New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. 
 
 Unrest in Yemen turns ugly as protesters clash with police and government loyalists in Sanaa on a fourth day of rallies.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/25/a-6-4-magnitude-earthquake-occurs-off-the-indon
 
 ### [2012-07-25](/news/2012/07/25/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.4 magnitude earthquake occurs off the Indonesian island of Sumatra with one man dying while fleeing his home. 
 
 

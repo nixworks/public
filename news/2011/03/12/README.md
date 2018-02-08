@@ -11,7 +11,7 @@ Rebel fighters are driven out of the Libyan port of Ras Lanuf after fierce fight
 ### [A Palestinian militant armed with a knife infiltrates the West Bank settlement of Itamar and stabs to death two Israeli parents and three of their children. ](/news/2011/03/12/a-palestinian-militant-armed-with-a-knife-infiltrates-the-west-bank-settlement-of-itamar-and-stabs-to-death-two-israeli-parents-and-three-of.md)
 The attack in Itamar, a religious settlement in the northern West Bank, was the first against settlers in months.
 
-##### policemen
+##### Policemen
 ### [Yemeni police storm a protest site in the capital Sana'a resulting in at least one death and dozens of injuries. ](/news/2011/03/12/yemeni-police-storm-a-protest-site-in-the-capital-sana-a-resulting-in-at-least-one-death-and-dozens-of-injuries.md)
 At least four people killed and more than 300 injured as security forces disperse pro-democracy protesters.
 
@@ -27,9 +27,9 @@ A March 12 explosion at the earthquake-damaged Fukushima Daiichi nuclear power p
 ### [Fifteen people die in a bus accident in The Bronx, New York, USA. ](/news/2011/03/12/fifteen-people-die-in-a-bus-accident-in-the-bronx-new-york-usa.md)
 Fourteen people died Saturday when a bus returning from a casino flipped onto its side on a major highway in the Bronx and was sliced in half by the support pole for a large sign, authorities said. 
 
-##### floating restaurant
+##### Floating restaurant
 ### [83 people are rescued from a floating restaurant after it drifted away carrying 150 passengers on the flooded Ohio River in Covington, Kentucky, USA, and became lodged under the Clay Wade Bailey Bridge. ](/news/2011/03/12/83-people-are-rescued-from-a-floating-restaurant-after-it-drifted-away-carrying-150-passengers-on-the-flooded-ohio-river-in-covington-kentu.md)
-_Context: floating restaurant, Ohio, flooded, Clay Wade Bailey Bridge, Covington, Kentucky_
+_Context: flooded, floating restaurant, Clay Wade Bailey Bridge, Covington, Kentucky, Ohio_
 
 ##### Interstate 94
 ### [An estimated 800 motorists are stranded on Interstate 94 and U.S. Route 83 in North Dakota by a blizzard. ](/news/2011/03/12/an-estimated-800-motorists-are-stranded-on-interstate-94-and-u-s-route-83-in-north-dakota-by-a-blizzard.md)
@@ -39,9 +39,9 @@ State officials said approximately 800 stranded motorists were rescued Friday al
 ### [South Sudan accuses Sudanese President Omar al-Bashir of attempting to overthrow the southern government. ](/news/2011/03/12/south-sudan-accuses-sudanese-president-omar-al-bashir-of-attempting-to-overthrow-the-southern-government.md)
 South Sudan says it is suspending talks with the north, accusing President Bashir of plotting to overthrow the southern government.
 
-##### asylum seeker
+##### Asylum seeker
 ### [Up to 80 asylum seekers break out of the Australian detention centre on Christmas Island. ](/news/2011/03/12/up-to-80-asylum-seekers-break-out-of-the-australian-detention-centre-on-christmas-island.md)
-_Context: Christmas Island Immigration Detention Centre, Australia, asylum seeker, Christmas Island_
+_Context: Christmas Island Immigration Detention Centre, Christmas Island, Australia, asylum seeker_
 
 ##### United States
 ### [United States aid worker Alan Gross is sentenced to 15 years in a Cuban jail, ostensibly for working to undermine the Government of Cuba. ](/news/2011/03/12/united-states-aid-worker-alan-gross-is-sentenced-to-15-years-in-a-cuban-jail-ostensibly-for-working-to-undermine-the-government-of-cuba.md)

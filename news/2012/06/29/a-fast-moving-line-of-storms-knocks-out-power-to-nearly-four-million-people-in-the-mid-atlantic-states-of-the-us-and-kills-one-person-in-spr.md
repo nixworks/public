@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/29/a-fast-moving-line-of-storms-knocks-out-power-t
 
 ### [2012-06-29](/news/2012/06/29/index.md)
 
-##### thunderstorms and widespread power outages
+##### Thunderstorms and widespread power outages
 # A fast-moving line of storms knocks out power to nearly four million people in the Mid-Atlantic states of the US and kills one person in Springfield, Virginia. 
 
 A fast-moving line of dangerous storms knocked out power to more than 1.5 million customers in the D.C. area Friday night.

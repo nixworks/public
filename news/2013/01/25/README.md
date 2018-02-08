@@ -7,15 +7,15 @@ Formats: [HTML](2013/01/25/index.html)  [JSON](2013/01/25/index.json)  [XML](201
 ### [Two car bombs explode in the Syrian controlled part of Golan Heights killing 8 people. ](/news/2013/01/25/two-car-bombs-explode-in-the-syrian-controlled-part-of-golan-heights-killing-8-people.md)
 _Context: Golan Heights_
 
-##### military
+##### Military
 ### [The Malian army retakes the town of Hombori after driving Islamist forces out. ](/news/2013/01/25/the-malian-army-retakes-the-town-of-hombori-after-driving-islamist-forces-out.md)
 French&#x20;and&#x20;Malian&#x20;troops&#x20;were&#x20;advancing&#x20;on&#x20;Gao&#x20;on&#x20;Friday&#x20;and&#x20;had&#x20;taken&#x20;the&#x20;nearby&#x20;town&#x20;of&#x20;Hombori.&#x20;More&#x20;than&#x20;9,000&#x20;refugees&#x20;have&#x20;fled&#x20;northern&#x20;Mali&#x20;since&#x20;the&#x20;Fr...
 
-##### protests
+##### Protests
 ### [Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/massive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revolution-including-in-tahrir-square.md)
 Five people were shot dead in the Egyptian city of Suez during nationwide protests against President Mohamed Mursi on Friday, the second anniversary of the uprising that toppled Hosni Mubarak.
 
-##### prison riot
+##### Prison riot
 ### [A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. ](/news/2013/01/25/a-prison-riot-in-barquisimeto-venezuela-kills-at-least-50-people-and-injures-about-90-people.md)
 More than 50 people have been killed and dozens more injured in a prison riot in western Venezuela, hospital staff say.
 
@@ -25,9 +25,9 @@ Iraq9 are killed as protesters, army clash
 
 ##### United States
 ### [The U.S. writer Stephen King issues a 25-page essay calling for gun control after numerous mass shootings. ](/news/2013/01/25/the-u-s-writer-stephen-king-issues-a-25-page-essay-calling-for-gun-control-after-numerous-mass-shootings.md)
-_Context: gun control, Stephen King, mass shooting, essay, United States_
+_Context: gun control, Stephen King, essay, mass shooting, United States_
 
-##### typhoon
+##### Typhoon
 ### [Tropical Cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md)
 Torrential rain has caused widespread flooding in the Australian state of Queensland.
 
@@ -49,9 +49,9 @@ North Korea issues another warning - this time to Seoul - a day after announcing
 
 ##### John Kiriakou
 ### [John Kiriakou, the former CIA agent, who publicly discussed the U.S. government agency's use of waterboarding interrogation techniques, is sentenced to 30 months in prison. An argument that he was a whistleblower was dismissed and he was instead convicted of violating an intelligence law, the first person to be successfully targeted under the statute in 27 years. ](/news/2013/01/25/john-kiriakou-the-former-cia-agent-who-publicly-discussed-the-u-s-government-agency-s-use-of-waterboarding-interrogation-techniques-is-s.md)
-_Context: waterboarding, Central Intelligence Agency, U.S. government, John Kiriakou, whistleblower_
+_Context: waterboarding, whistleblower, John Kiriakou, U.S. government, Central Intelligence Agency_
 
-##### police officer
+##### Police officer
 ### [A detective in the Irish police force is shot dead in an attempted robbery near Dundalk, County Louth. ](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.md)
 Irish police say a detective shot dead in an attempted robbery near Dundalk in County Louth was killed without warning.
 
@@ -63,7 +63,7 @@ Barry George, who was wrongly convicted of the murder of BBC TV presenter Jill D
 ### [Former NFL 1st round draft pick punter for the New Orleans Saints Russell Erxleben is arrested on charges of wire fraud in an alleged Ponzi scheme. ](/news/2013/01/25/former-nfl-1st-round-draft-pick-punter-for-the-new-orleans-saints-russell-erxleben-is-arrested-on-charges-of-wire-fraud-in-an-alleged-ponzi.md)
 Erxleben, who previously served time for securities fraud, was arrested Thursday on new charges of running a Ponzi investment scam
 
-##### antisemitic
+##### Antisemitic
 ### [Following several antisemitic and racist posts, a French court orders Twitter to reveal personal information about its users. ](/news/2013/01/25/following-several-antisemitic-and-racist-posts-a-french-court-orders-twitter-to-reveal-personal-information-about-its-users.md)
 In yet another struggle over speech on the Internet, a French court told Twitter to identify people who had posted anti-Semitic and racist entries on the social network.
 

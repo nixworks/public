@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/26/a-state-of-emergency-is-declared-in-coatesville
 
 ### [2009-01-26](/news/2009/01/26/index.md)
 
-##### state of emergency
+##### State of emergency
 #  A state of emergency is declared in Coatesville, Pennsylvania, following a series of arson attacks. 
 
 

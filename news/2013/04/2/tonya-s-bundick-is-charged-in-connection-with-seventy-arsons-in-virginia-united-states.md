@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/tonya-s-bundick-is-charged-in-connection-with-se
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### arson
+##### Arson
 # Tonya S. Bundick is charged in connection with seventy arsons in Virginia, United States. 
 
 

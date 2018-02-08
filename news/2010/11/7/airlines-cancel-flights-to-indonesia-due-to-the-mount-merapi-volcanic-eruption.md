@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/7/airlines-cancel-flights-to-indonesia-due-to-the-
 
 ### [2010-11-7](/news/2010/11/7/index.md)
 
-##### commercial air traffic
+##### Commercial air traffic
 # Airlines cancel flights to Indonesia due to the Mount Merapi volcanic eruption. 
 
 Qantas considers cancelling flights to Jakarta due to the risk posed by ash clouds from the eruption of Mount Merapi.

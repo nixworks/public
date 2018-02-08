@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/3/at-us-38-21-per-barrel-of-crude-oil-prices-hit-t
 
 ### [2004-05-3](/news/2004/05/3/index.md)
 
-##### crude oil
+##### Crude oil
 #  At US$38.21 per barrel of crude, oil prices hit their highest level since 1990. 
 
 

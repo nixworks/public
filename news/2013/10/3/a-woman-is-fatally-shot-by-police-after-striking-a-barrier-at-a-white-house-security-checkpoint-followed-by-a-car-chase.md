@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/3/a-woman-is-fatally-shot-by-police-after-striking
 
 ### [2013-10-3](/news/2013/10/3/index.md)
 
-##### fatally shot
+##### Fatally shot
 # A woman is fatally shot by police after striking a barrier at a White House security checkpoint followed by a car chase. 
 
 A police chase in Washington DC ends in gunfire, sparking panic at the White House and US Capitol and leaving a woman dead and two officers injured.

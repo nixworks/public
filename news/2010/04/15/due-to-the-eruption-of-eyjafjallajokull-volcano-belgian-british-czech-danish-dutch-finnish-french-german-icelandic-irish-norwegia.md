@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/15/due-to-the-eruption-of-eyjafjallajokull-volcano
 
 ### [2010-04-15](/news/2010/04/15/index.md)
 
-##### eruption
+##### Eruption
 # Due to the eruption of Eyjafjallajkull volcano, Belgian, British, Czech, Danish, Dutch, Finnish, French, German, Icelandic, Irish, Norwegian, Polish, Russian and Swedish airspaces are affected by the eruption. 
 
 The Irish Aviation Authority has announced that it is lifting restrictions on flights to and from airports at Cork and Shannon.

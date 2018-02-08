@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/01/1/greece-adopts-the-euro-as-its-currency.html)  [J
 
 ### [2001-01-1](/news/2001/01/1/index.md)
 
-##### euro
+##### Euro
 #  Greece adopts the euro as its currency. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/22/heavy-snowfall-causes-widespread-disruption-to-
 
 ### [2013-03-22](/news/2013/03/22/index.md)
 
-##### snowfall
+##### Snowfall
 # Heavy snowfall causes widespread disruption to many parts of the United Kingdom, while torrential rain brings floods to South West England. 
 
 

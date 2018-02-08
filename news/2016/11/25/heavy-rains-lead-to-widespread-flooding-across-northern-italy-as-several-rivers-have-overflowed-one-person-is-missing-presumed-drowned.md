@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/25/heavy-rains-lead-to-widespread-flooding-across-
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
-##### northern Italy
+##### Northern Italy
 # Heavy rains lead to widespread flooding across northern Italy as several rivers have overflowed. One person is missing, presumed drowned. 
 
 Little more than two weeks after Italian scientists warned that climate change had put much of the country at risk of flooding, parts of the northwest have been inundated by heavy…

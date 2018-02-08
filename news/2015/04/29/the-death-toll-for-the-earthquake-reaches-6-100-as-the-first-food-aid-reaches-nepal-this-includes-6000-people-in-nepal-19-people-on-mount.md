@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/29/the-death-toll-for-the-earthquake-reaches-6-100
 
 ### [2015-04-29](/news/2015/04/29/index.md)
 
-##### suspicions
+##### Suspicions
 # The death toll for the earthquake reaches 6,100 as the first food aid reaches Nepal. This includes 6000+ people in Nepal, 19 people on Mount Everest, 76 in India, 25 in China, and 4 in Bangladesh. 
 
 

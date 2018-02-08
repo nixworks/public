@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/10/one-civilian-is-killed-and-at-least-20-others-i
 
 ### [2011-12-10](/news/2011/12/10/index.md)
 
-##### civilian
+##### Civilian
 # One civilian is killed and at least 20 others injured after an Israeli air strike on a militant base in Gaza City, Palestinian medics say. 
 
 One civilian has been killed and at least 20 others have been wounded after an Israeli air strike in Gaza, Palestinian medics say.

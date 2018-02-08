@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photo
 
 ### [2017-03-23](/news/2017/03/23/index.md)
 
-##### night parrot
+##### Night parrot
 # The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. 
 
 Birdwatchers ‘elated’ after snapping photo of the endangered species in state’s arid interior in discovery that could significantly impact on mining developments

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/29/an-explosion-in-a-firecracker-warehouse-kills-1
 
 ### [2006-01-29](/news/2006/01/29/index.md)
 
-##### firecracker
+##### Firecracker
 #  An explosion in a firecracker warehouse kills 16 people in Henan on Chinese New Year. 
 
 

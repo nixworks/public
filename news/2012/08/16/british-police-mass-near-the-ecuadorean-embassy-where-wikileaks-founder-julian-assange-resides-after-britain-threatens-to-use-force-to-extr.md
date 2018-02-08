@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/16/british-police-mass-near-the-ecuadorean-embassy
 
 ### [2012-08-16](/news/2012/08/16/index.md)
 
-##### police
+##### Police
 # British police mass near the Ecuadorean embassy where WikiLeaks founder Julian Assange resides, after Britain threatens to use force to extract him. 
 
 Britain on Wednesday warned Ecuador that it could raid its London embassy if Quito does not hand over WikiLeaks founder Julian Assange, who has been taking refuge at the mission since mid-June.

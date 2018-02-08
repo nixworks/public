@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/9/british-astronomer-and-broadcaster-sir-patrick-m
 
 ### [2012-12-9](/news/2012/12/9/index.md)
 
-##### astronomer
+##### Astronomer
 # British astronomer and broadcaster Sir Patrick Moore, presenter of "The Sky at Night" for over 55 years, dies aged 89. 
 
 Astronomer, broadcaster and author Sir Patrick Moore has died at his home at the age of 89.

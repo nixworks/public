@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/19/a-u-s-federal-judge-dismisses-a-case-brought-by
 
 ### [2007-07-19](/news/2007/07/19/index.md)
 
-##### dismisses
+##### Dismisses
 #  A U.S. federal judge dismisses a case brought by Valerie Plame against members of the Bush Administration in connection with the Plame affair. 
 
 

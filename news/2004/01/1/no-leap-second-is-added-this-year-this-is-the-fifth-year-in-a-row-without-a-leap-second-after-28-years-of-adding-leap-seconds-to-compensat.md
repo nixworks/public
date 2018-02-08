@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/1/no-leap-second-is-added-this-year-this-is-the-fi
 
 ### [2004-01-1](/news/2004/01/1/index.md)
 
-##### leap second
+##### Leap second
 #  No leap second is added this year. This is the fifth year in a row without a leap-second after 28 years of adding leap-seconds to compensate for the slowing of the Earth's rotation. 
 
 

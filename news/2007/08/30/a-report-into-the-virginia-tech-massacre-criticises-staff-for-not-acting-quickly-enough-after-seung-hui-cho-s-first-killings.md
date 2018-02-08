@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/30/a-report-into-the-virginia-tech-massacre-critic
 
 ### [2007-08-30](/news/2007/08/30/index.md)
 
-##### largest mass shooting in US history
+##### Largest mass shooting in US history
 #  A report into the Virginia Tech massacre criticises staff for not acting quickly enough after Seung-Hui Cho's first killings. 
 
 

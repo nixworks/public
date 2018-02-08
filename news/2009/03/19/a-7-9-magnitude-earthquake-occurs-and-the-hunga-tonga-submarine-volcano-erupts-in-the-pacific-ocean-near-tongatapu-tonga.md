@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/19/a-7-9-magnitude-earthquake-occurs-and-the-hunga
 
 ### [2009-03-19](/news/2009/03/19/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.9-magnitude earthquake occurs and the Hunga Tonga submarine volcano erupts in the Pacific Ocean near Tongatapu, Tonga. 
 
 Scientists sailed Thursday to inspect an undersea volcano that has been erupting for days near Tonga &#8212; shooting smoke, steam and ash thousands of feet into the sky above the South Pacific ocean.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/5/police-investigating-the-murder-of-joanna-yeates
 
 ### [2011-01-5](/news/2011/01/5/index.md)
 
-##### investigation into the murder of Joanna Yeates
+##### Investigation into the murder of Joanna Yeates
 # Police investigating the murder of Joanna Yeates make a fresh appeal for information, saying that when discovered, her fully clothed body was missing a sock which may hold important clues. 
 
 Murdered Jo Yeates was missing a sock when she was found dead near Bristol, Avon and Somerset police say.

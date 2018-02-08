@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/31/the-oldest-fossil-stromatolite-that-had-life-is
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
-##### fossil
+##### Fossil
 # The oldest fossil (stromatolite) that had life is discovered in the melting snow at the Isua Greenstone Belt of Greenland. 
 
 

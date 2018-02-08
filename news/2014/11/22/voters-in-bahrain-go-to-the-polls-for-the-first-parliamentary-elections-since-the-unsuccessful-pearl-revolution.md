@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/22/voters-in-bahrain-go-to-the-polls-for-the-first
 
 ### [2014-11-22](/news/2014/11/22/index.md)
 
-##### election
+##### Election
 # Voters in Bahrain go to the polls for the first parliamentary elections since the unsuccessful Pearl Revolution. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/12/a-suicide-bombing-at-a-hotel-in-the-somali-capi
 
 ### [2012-09-12](/news/2012/09/12/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a hotel in the Somali capital of Mogadishu where newly elected president Hassan Sheikh Mohamoud was holding a news conference kills at least four people. 
 
 A suicide attack at the gates of a Mogadishu hotel where the new Somali leader is staying kills two bombers and a number of guards.

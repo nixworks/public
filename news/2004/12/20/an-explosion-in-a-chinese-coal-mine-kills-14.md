@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/20/an-explosion-in-a-chinese-coal-mine-kills-14.ht
 
 ### [2004-12-20](/news/2004/12/20/index.md)
 
-##### coal
+##### Coal
 #  An explosion in a Chinese coal mine kills 14. 
 
 

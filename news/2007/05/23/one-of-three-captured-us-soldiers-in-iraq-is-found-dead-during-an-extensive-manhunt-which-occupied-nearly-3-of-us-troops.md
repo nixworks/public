@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/23/one-of-three-captured-us-soldiers-in-iraq-is-fo
 
 ### [2007-05-23](/news/2007/05/23/index.md)
 
-##### captured U.S. soldiers
+##### Captured U.S. soldiers
 #  One of three captured US soldiers in Iraq is found dead, during an extensive manhunt which occupied nearly 3% of US troops. 
 
 

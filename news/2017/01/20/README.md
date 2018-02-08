@@ -17,7 +17,7 @@ An association of Japanese toilet makers will unify pictograms on toilets with b
 
 ##### Tehran
 ### [Search continues for missing firefighters in Tehran's Plasco Building site after the building's deadly fire and collapsing last day. ](/news/2017/01/20/search-continues-for-missing-firefighters-in-tehran-s-plasco-building-site-after-the-building-s-deadly-fire-and-collapsing-last-day.md)
-_Context: Tehran, Plasco Building_
+_Context: Plasco Building, Tehran_
 
 ##### 2017 Rigopiano avalanche
 ### [Italian emergency crews rescue 10 people, including four children, from 161/2 feet of snow and wreckage from the luxury Hotel Rigopiano following yesterday's Gran Sasso mountain avalanche. Searchers find four bodies, while families of at least 16 people still missing wait for news. ](/news/2017/01/20/italian-emergency-crews-rescue-10-people-including-four-children-from-16a1-2-feet-of-snow-and-wreckage-from-the-luxury-hotel-rigopiano-follo.md)
@@ -31,13 +31,13 @@ Sixteen people were killed and about 40 injured when a bus carrying students fro
 ### [U.S. President Donald Trump nominates New York Jets owner Woody Johnson to be the next United States Ambassador to the United Kingdom. ](/news/2017/01/20/u-s-president-donald-trump-nominates-new-york-jets-owner-woody-johnson-to-be-the-next-united-states-ambassador-to-the-united-kingdom.md)
 The heir to the Johnson &amp; Johnson pharmaceutical empire originally supported Jeb Bush in the Republican primaries.
 
-##### drove a car
+##### Drove a car
 ### [Three people are killed and twenty injured after a man drove a car into the Bourke Street Mall in the CBD of the Australian city Melbourne. A man has been arrested and Victoria Police say the incident is not terror related. In the next few weeks, the death toll would rise to six. ](/news/2017/01/20/three-people-are-killed-and-twenty-injured-after-a-man-drove-a-car-into-the-bourke-street-mall-in-the-cbd-of-the-australian-city-melbourne.md)
-_Context: Bourke Street Mall, drove a car, Melbourne, Victoria Police, Australia_
+_Context: Australia, Melbourne, drove a car, Bourke Street Mall, Victoria Police_
 
 ##### Inauguration of Donald Trump protests
 ### [Some protesters of the inauguration smash windows, damage cars, and clash with the police. Six police officers and at least one civilian are injured. DC police say 217 protesters have been arrested. ](/news/2017/01/20/some-protesters-of-the-inauguration-smash-windows-damage-cars-and-clash-with-the-police-six-police-officers-and-at-least-one-civilian-are.md)
-_Context: DC police, Inauguration of Donald Trump protests_
+_Context: Inauguration of Donald Trump protests, DC police_
 
 ##### Inauguration of Donald Trump
 ### [Donald Trump is officially sworn in as the 45th President of the United States. ](/news/2017/01/20/donald-trump-is-officially-sworn-in-as-the-45th-president-of-the-united-states.md)
@@ -49,7 +49,7 @@ The Gambian strongman Yahya Jammeh has agreed to step down, officials involved i
 
 ##### Cabinet of Donald Trump
 ### [The U.S. Senate confirms the first two members of President Donald Trump's Cabinet: retired Marine General James Mattis as Secretary of Defense, and retired Marine general John F. Kelly as Secretary of Homeland Security. ](/news/2017/01/20/the-u-s-senate-confirms-the-first-two-members-of-president-donald-trump-s-cabinet-retired-marine-general-james-mattis-as-secretary-of-defe.md)
-_Context: Secretary of Homeland Security, Cabinet, Donald Trump, James Mattis, John F. Kelly, United States Secretary of Defense, U.S. President, Cabinet of Donald Trump_
+_Context: United States Secretary of Defense, Donald Trump, Secretary of Homeland Security, James Mattis, Cabinet of Donald Trump, Cabinet, U.S. President, John F. Kelly_
 
 ## [Previous Day...](/news/2017/01/19/index.md)
 

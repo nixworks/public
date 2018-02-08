@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/13/democratic-party-united-states-presidential-pri
 
 ### [2008-03-13](/news/2008/03/13/index.md)
 
-##### primaries
+##### Primaries
 #  Democratic Party (United States) presidential primaries, 2008: Geraldine Ferraro resigns from the Clinton campaign after making comments that "if Obama was a white man, he would not be in this position." 
 
 In an interview, Geraldine A. Ferraro said that she stood by her controversial remarks, and accused the Obama campaign of deliberate distortion.

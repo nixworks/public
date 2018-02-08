@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/23/white-supremacist-thomas-mair-is-found-guilty-o
 
 ### [2016-11-23](/news/2016/11/23/index.md)
 
-##### white supremacist
+##### White supremacist
 # White supremacist Thomas Mair is found guilty of the murder of British Member of Parliament Jo Cox and is sentenced to life imprisonment with a whole life order. 
 
 Unemployed gardener, 53, given whole-life sentence for murder of MP that judge said was inspired by white supremacism

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/23/the-government-of-burundi-abolishes-capital-pun
 
 ### [2008-11-23](/news/2008/11/23/index.md)
 
-##### government
+##### Government
 #  The government of Burundi abolishes capital punishment and bans homosexuality. Genocide and war crimes are now recognized as illegal activities. 
 
 Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar and provide the latest information on weather, currency rates, Prayer in addition to the latest developments in the political events, economic, sporting, cultural and artistic locally and internationally, and much much more

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/1/russian-natural-gas-supplier-gazprom-cuts-gas-su
 
 ### [2006-01-1](/news/2006/01/1/index.md)
 
-##### restarts
+##### Restarts
 #  Russian natural gas supplier Gazprom cuts gas supplies to Ukraine, following Ukraine's rejection of a 460% price increase. President Vladimir Putin had offered a three-month price freeze if Ukraine would agree to pay the higher price thereafter, but this was rejected. Ukraine pays US$50 per 1000 cubic metres, Russia claims the market rate is $230. 
 
 

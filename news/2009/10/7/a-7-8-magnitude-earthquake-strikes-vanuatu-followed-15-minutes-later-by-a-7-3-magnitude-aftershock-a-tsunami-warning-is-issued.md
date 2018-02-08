@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/7/a-7-8-magnitude-earthquake-strikes-vanuatu-follo
 
 ### [2009-10-7](/news/2009/10/7/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.8 magnitude earthquake strikes Vanuatu, followed 15 minutes later by a 7.3 magnitude aftershock. A tsunami warning is issued. 
 
 

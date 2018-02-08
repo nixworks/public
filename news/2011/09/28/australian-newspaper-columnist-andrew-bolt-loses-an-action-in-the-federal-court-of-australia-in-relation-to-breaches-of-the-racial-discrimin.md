@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/28/australian-newspaper-columnist-andrew-bolt-lose
 
 ### [2011-09-28](/news/2011/09/28/index.md)
 
-##### newspaper columnist
+##### Newspaper columnist
 # Australian newspaper columnist Andrew Bolt loses an action in the Federal Court of Australia in relation to breaches of the Racial Discrimination Act in columns about nine prominent aborigines. 
 
 

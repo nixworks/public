@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/28/the-trial-of-former-prime-minister-of-croatia-i
 
 ### [2011-10-28](/news/2011/10/28/index.md)
 
-##### prime minister
+##### Prime minister
 # The trial of former Prime Minister of Croatia Ivo Sanader, which was due to begin in Zagreb, is postponed on health grounds. 
 
 The trial of former Croatian Prime Minister Ivo Sanader for corruption over a loan from an Austrian bank in 1995 is postponed on health grounds.

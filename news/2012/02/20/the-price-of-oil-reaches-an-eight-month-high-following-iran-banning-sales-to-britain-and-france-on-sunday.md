@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/20/the-price-of-oil-reaches-an-eight-month-high-fo
 
 ### [2012-02-20](/news/2012/02/20/index.md)
 
-##### oil
+##### Oil
 # The price of oil reaches an eight month high following Iran banning sales to Britain and France on Sunday. 
 
 The price of oil reaches its highest level since June due to tensions in Iran, pushing up the cost of fuel.

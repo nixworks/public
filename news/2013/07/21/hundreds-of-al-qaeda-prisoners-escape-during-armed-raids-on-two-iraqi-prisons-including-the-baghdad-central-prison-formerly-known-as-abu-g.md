@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/21/hundreds-of-al-qaeda-prisoners-escape-during-ar
 
 ### [2013-07-21](/news/2013/07/21/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Hundreds of al-Qaeda prisoners escape during armed raids on two Iraqi prisons, including the Baghdad Central Prison (formerly known as Abu Ghraib). 
 
 Hundreds of al-Qaeda fighters were on the loose in Iraq after fellow militants stormed the country&#039;s most infamous jail.

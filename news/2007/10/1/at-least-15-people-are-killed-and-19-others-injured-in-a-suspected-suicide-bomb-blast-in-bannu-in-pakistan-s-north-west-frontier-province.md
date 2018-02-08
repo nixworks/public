@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/1/at-least-15-people-are-killed-and-19-others-inju
 
 ### [2007-10-1](/news/2007/10/1/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  At least 15 people are killed and 19 others injured in a suspected suicide bomb blast in Bannu in Pakistan's North-West Frontier Province. 
 
 

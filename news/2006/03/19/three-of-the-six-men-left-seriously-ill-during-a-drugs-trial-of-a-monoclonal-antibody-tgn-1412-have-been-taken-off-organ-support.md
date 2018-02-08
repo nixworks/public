@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/19/three-of-the-six-men-left-seriously-ill-during-
 
 ### [2006-03-19](/news/2006/03/19/index.md)
 
-##### monoclonal antibody
+##### Monoclonal antibody
 #  Three of the six men left seriously ill during a drugs trial (of a monoclonal antibody TGN 1412) have been taken off organ support. 
 
 

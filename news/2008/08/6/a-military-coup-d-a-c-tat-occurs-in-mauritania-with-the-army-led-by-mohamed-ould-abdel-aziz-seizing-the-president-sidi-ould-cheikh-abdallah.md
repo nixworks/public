@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/6/a-military-coup-d-a-c-tat-occurs-in-mauritania-w
 
 ### [2008-08-6](/news/2008/08/6/index.md)
 
-##### military coup d'etat
+##### Military coup d'etat
 #  A military coup d'etat occurs in Mauritania with the Army, led by Mohamed Ould Abdel Aziz, seizing the President Sidi Ould Cheikh Abdallahi, the Prime Minister Yahya Ould Ahmed El Waghef and the Interior Minister. 
 
 A coup has taken place in Mauritania, where the army has seized the President and the Prime Minister.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/3/a-tourist-boat-sinks-in-the-sea-of-cortez-off-th
 
 ### [2011-07-3](/news/2011/07/3/index.md)
 
-##### sinks
+##### Sinks
 # A tourist boat sinks in the Sea of Cortez off the coast of Baja California in Mexico with 23 people missing. 
 
 

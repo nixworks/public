@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/30/native-tribesmen-in-the-amazon-rainforest-disco
 
 ### [2009-10-30](/news/2009/10/30/index.md)
 
-##### indigenous Brazilians
+##### Indigenous Brazilians
 #  Native tribesmen in the Amazon Rainforest discover a downed Brazilian military transport plane, finding nine survivors. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

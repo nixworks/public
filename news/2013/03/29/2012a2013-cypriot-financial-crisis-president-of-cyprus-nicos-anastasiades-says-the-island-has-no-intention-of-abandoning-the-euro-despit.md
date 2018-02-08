@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/29/2012a2013-cypriot-financial-crisis-president-of
 
 ### [2013-03-29](/news/2013/03/29/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades says the island has no intention of abandoning the euro, despite the tough conditions imposed by its 10 billion euro bailout deal with the European Union and International Monetary Fund. 
 
 Cyprus President Nicos Anastasiades says the island will not leave the euro, as the central bank announces a slight easing of capital controls.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/13/a-man-opens-fire-at-policemen-outside-the-polic
 
 ### [2015-06-13](/news/2015/06/13/index.md)
 
-##### opens fire
+##### Opens fire
 # A man opens fire at policemen outside the police headquarters in the Texan city of Dallas, while a bag containing a pipe bomb is also found. He was later shot dead by police snipers following a car chase and standoff. 
 
 

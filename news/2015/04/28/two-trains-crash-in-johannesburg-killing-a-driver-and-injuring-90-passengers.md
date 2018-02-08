@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/28/two-trains-crash-in-johannesburg-killing-a-driv
 
 ### [2015-04-28](/news/2015/04/28/index.md)
 
-##### crash
+##### Crash
 # Two trains crash in Johannesburg killing a driver and injuring 90 passengers. 
 
  A train driver was killed and at least 90 other people injured Tuesday when two crowded commuter trains collided in Johannesburg, South African officials said, adding that emergency teams had cut one woman free from the wreckage.

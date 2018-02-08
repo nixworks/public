@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/30/the-russian-cabinet-recommends-ratification-of-
 
 ### [2004-09-30](/news/2004/09/30/index.md)
 
-##### ratification
+##### Ratification
 #  The Russian cabinet recommends ratification of the Kyoto Treaty against global warming, which would bring the accord into force; the measure will be debated in Parliament, which has final say. 
 
 

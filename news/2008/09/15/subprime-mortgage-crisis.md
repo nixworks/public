@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/15/subprime-mortgage-crisis.html)  [JSON](/news/20
 
 ### [2008-09-15](/news/2008/09/15/index.md)
 
-##### housing crisis
+##### Housing crisis
 #  Subprime mortgage crisis
 
 

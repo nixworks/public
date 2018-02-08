@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/29/us-hip-hop-singer-sean-kingston-is-rushed-to-ho
 
 ### [2011-05-29](/news/2011/05/29/index.md)
 
-##### hip-hop
+##### Hip-hop
 # US hip-hop singer Sean Kingston is rushed to hospital after crashing his jet-ski into a Miami Beach bridge. 
 
 

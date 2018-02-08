@@ -9,11 +9,11 @@ _Context: Greece_
 
 ##### Tropical Cyclone Sandra
 ### [Tropical Cyclone Sandra forms in the Coral Sea off the coast of the Australian state of Queensland. ](/news/2013/03/8/tropical-cyclone-sandra-forms-in-the-coral-sea-off-the-coast-of-the-australian-state-of-queensland.md)
-_Context: Tropical Cyclone Sandra, Australia, Coral Sea, Queensland_
+_Context: Coral Sea, Tropical Cyclone Sandra, Australia, Queensland_
 
 ##### Prime Minister
 ### [Former Prime Minister of the Netherlands and United Nations High Commissioner for Refugees Ruud Lubbers is injured in a car accident and rushed to a hospital with minor injuries. ](/news/2013/03/8/former-prime-minister-of-the-netherlands-and-united-nations-high-commissioner-for-refugees-ruud-lubbers-is-injured-in-a-car-accident-and-rus.md)
-_Context: car accident, United Nations High Commissioner for Refugees, Ruud Lubbers, Prime Minister, United Nations, Netherlands_
+_Context: Netherlands, United Nations High Commissioner for Refugees, car accident, Ruud Lubbers, United Nations, Prime Minister_
 
 ##### North Korea
 ### [North Korea ends all peace pacts with South Korea and closes the main Panmunjom border crossing inside the Korean Demilitarized Zone. North Korean generals affirm they are aiming their long range missiles at the U.S. mainland in retaliation for the recently approved U.N. sanctions. ](/news/2013/03/8/north-korea-ends-all-peace-pacts-with-south-korea-and-closes-the-main-panmunjom-border-crossing-inside-the-korean-demilitarized-zone-north.md)
@@ -27,7 +27,7 @@ Former chief executive Bob Diamond is set to be paid about $3m in July, a year a
 ### [Sinn Fein's Francie Molloy wins the Mid Ulster by-election, holding onto the seat vacated by Martin McGuinness at the end of 2012. ](/news/2013/03/8/sinn-fa-c-in-s-francie-molloy-wins-the-mid-ulster-by-election-holding-onto-the-seat-vacated-by-martin-mcguinness-at-the-end-of-2012.md)
 Sinn Fein hold on to the Mid Ulster seat at Westminster left vacant by Martin McGuinness when he stepped down as MP at the end of last year.
 
-##### recently deceased
+##### Recently deceased
 ### [Following the state funeral of former President of Venezuela Hugo Chavez, Vice President Nicolas Maduro is officially sworn in as Interim President. ](/news/2013/03/8/following-the-state-funeral-of-former-president-of-venezuela-hugo-cha-vez-vice-president-nicola-s-maduro-is-officially-sworn-in-as-interim.md)
 Vice-President Nicolas Maduro is due to be sworn in as acting president of Venezuela.
 

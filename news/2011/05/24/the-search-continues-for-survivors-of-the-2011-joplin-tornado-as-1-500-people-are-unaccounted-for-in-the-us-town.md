@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/24/the-search-continues-for-survivors-of-the-2011-
 
 ### [2011-05-24](/news/2011/05/24/index.md)
 
-##### central
+##### Central
 # The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. 
 
 Many residents cannot contact possible survivors, and officials have not shared names of the dead and missing.

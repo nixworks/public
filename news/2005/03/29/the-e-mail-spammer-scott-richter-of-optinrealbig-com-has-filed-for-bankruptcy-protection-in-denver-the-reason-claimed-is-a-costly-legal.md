@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbi
 
 ### [2005-03-29](/news/2005/03/29/index.md)
 
-##### spam
+##### Spam
 #  The E-mail spammer Scott Richter of "OptInRealBig.com" has filed for bankruptcy protection in Denver. The reason claimed is a costly legal battle with Microsoft. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/24/swine-influenza-kills-at-least-68-people-and-in
 
 ### [2009-04-24](/news/2009/04/24/index.md)
 
-##### swine flu
+##### Swine flu
 #  Swine influenza kills at least 68 people and infects at least 1,000 more in Mexico. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/17/mild-electric-shock-is-shown-to-provide-lasting
 
 ### [2013-05-17](/news/2013/05/17/index.md)
 
-##### electric shock
+##### Electric shock
 # Mild electric shock is shown to provide lasting improvement to mathematical ability. 
 
 

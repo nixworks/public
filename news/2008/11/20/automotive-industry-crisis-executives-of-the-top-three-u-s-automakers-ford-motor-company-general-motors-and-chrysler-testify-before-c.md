@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/20/automotive-industry-crisis-executives-of-the-to
 
 ### [2008-11-20](/news/2008/11/20/index.md)
 
-##### global crisis
+##### Global crisis
 #  Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. 
 
 

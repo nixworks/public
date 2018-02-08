@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/2/more-than-55-000-animals-are-being-culled-after-
 
 ### [2010-12-2](/news/2010/12/2/index.md)
 
-##### foot-and-mouth disease
+##### Foot-and-mouth disease
 # More than 55,000 animals are being culled after a breakout of foot-and-mouth disease at pig farms in South Korea. 
 
 Culling of more than 55,000 animals begins after foot-and-mouth disease confirmed at pig farms.

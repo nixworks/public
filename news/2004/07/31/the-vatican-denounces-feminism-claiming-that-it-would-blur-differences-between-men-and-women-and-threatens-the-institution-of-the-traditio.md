@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/31/the-vatican-denounces-feminism-claiming-that-it
 
 ### [2004-07-31](/news/2004/07/31/index.md)
 
-##### feminism
+##### Feminism
 #  The Vatican denounces feminism, claiming that it would blur differences between men and women and threatens the institution of the traditional family of one man and one woman, stating that the drive for equality makes "homosexuality and heterosexuality virtually equivalent, in a new model of polymorphous sexuality". 
 
 

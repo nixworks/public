@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/1/a-petition-featuring-450-000-international-names
 
 ### [2010-03-1](/news/2010/03/1/index.md)
 
-##### petition
+##### Petition
 # A petition featuring 450,000 international names in opposition of Uganda's Anti-Homosexuality Bill is given to the speaker of parliament, Edward Ssekandi, by an Anglican priest and an HIV-AIDS activist. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/10/a-suicide-bomber-attacks-a-government-office-bu
 
 ### [2012-04-10](/news/2012/04/10/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber attacks a government office building in Afghanistan's Herat Province with 15 people killed and 22 wounded. 
 
 Taliban claim responsibility for suicide attacks targeting government buildings in Herat and Helmand provinces.

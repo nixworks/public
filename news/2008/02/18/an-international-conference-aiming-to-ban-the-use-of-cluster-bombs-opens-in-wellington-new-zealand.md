@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/18/an-international-conference-aiming-to-ban-the-u
 
 ### [2008-02-18](/news/2008/02/18/index.md)
 
-##### cluster bombs
+##### Cluster bombs
 #  An international conference aiming to ban the use of cluster bombs opens in Wellington, New Zealand. 
 
 

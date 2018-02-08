@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/29/statements-from-bishops-relating-to-the-murphy-
 
 ### [2009-11-29](/news/2009/11/29/index.md)
 
-##### bishop
+##### Bishop
 #  Statements from bishops relating to the Murphy Report into sexual abuse scandal in Dublin archdiocese are read at Masses across Ireland. 
 
 Archbishop Diarmuid Martin has said at this moment, he believes that decisions on whether to resign by Cardinal Desmond Connell and others mentioned in the Murphy Report should be personal.

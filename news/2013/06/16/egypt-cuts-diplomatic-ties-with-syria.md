@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/16/egypt-cuts-diplomatic-ties-with-syria.html)  [J
 
 ### [2013-06-16](/news/2013/06/16/index.md)
 
-##### diplomatic ties
+##### Diplomatic ties
 # Egypt cuts diplomatic ties with Syria. 
 
 Egyptian President Mohamed Mursi cut ties with Syria and sent his foreign minister to Ethiopia over a dam dispute as the Islamist leader flexed political muscle two weeks before he faces mass rallies against his rule.

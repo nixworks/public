@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/1/more-than-1-5-million-web-sites-around-the-world
 
 ### [2011-04-1](/news/2011/04/1/index.md)
 
-##### web sites
+##### Web sites
 # More than 1.5 million web sites around the world have been infected by the LizaMoon SQL injection attack spread by scareware since Tuesday. 
 
 More than one million websiteaddresses have been compromised by a sophisticated hackingattack that injects code into sites that link to a fraudulentsoftware sales operation.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/14/the-president-of-brazil-luiz-inacio-lula-da-sil
 
 ### [2005-12-14](/news/2005/12/14/index.md)
 
-##### president
+##### President
 #  The President of Brazil, Luiz Inacio Lula da Silva announces that Brazil will clear its International Monetary Fund debt of $15.5bn two years early. 
 
 

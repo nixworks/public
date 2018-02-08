@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/8/a-study-suggests-that-donor-stem-cells-may-preve
 
 ### [2012-03-8](/news/2012/03/8/index.md)
 
-##### stem cells
+##### Stem cells
 # A study suggests that donor stem cells may prevent organ rejection in imperfectly matched transplant cases. 
 
 Patients who are lucky enough to get a transplant for a failed organ usually face a lifetime on anti-rejection drugs, which are expensive, dangerous and not always effective. But in the future,...

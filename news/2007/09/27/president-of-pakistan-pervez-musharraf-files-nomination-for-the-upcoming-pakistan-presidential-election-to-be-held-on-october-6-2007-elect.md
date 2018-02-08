@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/27/president-of-pakistan-pervez-musharraf-files-no
 
 ### [2007-09-27](/news/2007/09/27/index.md)
 
-##### president
+##### President
 #  President of Pakistan Pervez Musharraf files nomination for the upcoming Pakistan Presidential Election to be held on October 6, 2007 election without his army rank. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/17/french-police-announce-that-they-are-exploring-
 
 ### [2012-09-17](/news/2012/09/17/index.md)
 
-##### police
+##### Police
 # French police announce that they are exploring the possibility that Sylvain Mollier, and not the al-Hilli family, may have been the intended target in the Annecy murders. 
 
 A French cyclist who was shot dead alongside a British family in a massacre in the Alps may have been the &#034;main target&#034; of the massacre, police have suggested.

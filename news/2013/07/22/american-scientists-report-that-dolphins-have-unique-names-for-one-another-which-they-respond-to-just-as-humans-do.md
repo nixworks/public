@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/22/american-scientists-report-that-dolphins-have-u
 
 ### [2013-07-22](/news/2013/07/22/index.md)
 
-##### dolphin
+##### Dolphin
 # American scientists report that dolphins have unique names for one another, which they respond to just as humans do. 
 
 Dolphins respond to recordings of their own whistles—suggesting they use names to communicate in the wild, a new study says.

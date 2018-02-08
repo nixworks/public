@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/30/eight-of-eleven-snowmobilers-buried-by-avalanch
 
 ### [2008-12-30](/news/2008/12/30/index.md)
 
-##### snowmobile
+##### Snowmobile
 #  Eight of eleven snowmobilers buried by avalanches in British Columbia, Canada, are found dead. 
 
 

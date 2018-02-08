@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/12/a-new-government-headed-by-the-bharatiya-janata
 
 ### [2007-11-12](/news/2007/11/12/index.md)
 
-##### government
+##### Government
 #  A new government headed by the Bharatiya Janata Party, India's main opposition party, takes office in the state of Karnataka. 
 
 

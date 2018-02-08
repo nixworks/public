@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/15/italian-mp-romina-mura-complains-on-the-turkish
 
 ### [2014-11-15](/news/2014/11/15/index.md)
 
-##### genocide of Armenians
+##### Genocide of Armenians
 # Italian MP, Romina Mura, complains on the Turkish embassy for their views on the Armenian Genocide. 
 
 Turkey has reached a point, that it now targets Pope Francis, who called it “the first genocide of the 20th century.”: Romina Mura 

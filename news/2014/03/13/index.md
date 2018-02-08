@@ -17,7 +17,7 @@ Masked gunmen opened fire on an army bus in Cairo on Thursday, killing one soldi
 
 ##### European Central Bank
 ### [An executive board member of the European Central Bank, Benoit Coeure, says that the ECB is determined to secure the continued decline in real interest rates in the months ahead. ](/news/2014/03/13/an-executive-board-member-of-the-european-central-bank-benoa-r-t-caura-c-says-that-the-ecb-is-determined-to-secure-the-continued-decline-in.md)
-_Context: European Central Bank, Benoit Coeure_
+_Context: Benoit Coeure, European Central Bank_
 
 ##### Austin, Texas
 ### [An intoxicated hit-and-run driver in Austin, Texas, United States, drives into a nighttime crowd at the South by Southwest festival, killing two and injuring 23 ](/news/2014/03/13/an-intoxicated-hit-and-run-driver-in-austin-texas-united-states-drives-into-a-nighttime-crowd-at-the-south-by-southwest-festival-killing.md)
@@ -27,7 +27,7 @@ _Context: South by Southwest, Austin, Texas_
 ### [A U.S. newspaper report claims Malaysia Airlines Flight 370 flew for hours after vanishing from radars Saturday. ](/news/2014/03/13/a-u-s-newspaper-report-claims-malaysia-airlines-flight-370-flew-for-hours-after-vanishing-from-radars-saturday.md)
 Still no trace of missing aircraft, as newspaper report claims plane flew for hours after vanishing from radars.
 
-##### explosion
+##### Explosion
 ### [Rescue crew continue to search for victims in the explosion in the New York City neighborhood of East Harlem, which killed 8 and injured more than 70. ](/news/2014/03/13/rescue-crew-continue-to-search-for-victims-in-the-explosion-in-the-new-york-city-neighborhood-of-east-harlem-which-killed-8-and-injured-mor.md)
 Rescuers find the body of an eighth victim following a gas leak and explosion that demolished two buildings in Harlem, New York City.
 
@@ -35,13 +35,13 @@ Rescuers find the body of an eighth victim following a gas leak and explosion th
 ### [A magnitude 6.3 earthquake occurs near Japan's Kyushu Island. ](/news/2014/03/13/a-magnitude-6-3-earthquake-occurs-near-japan-s-kyushu-island.md)
 _Context: Kyushu Island_
 
-##### helicopter crash
+##### Helicopter crash
 ### [A helicopter crash in Norfolk, United Kingdom, kills Edward Haughey, Baron Ballyedmond. ](/news/2014/03/13/a-helicopter-crash-in-norfolk-united-kingdom-kills-edward-haughey-baron-ballyedmond.md)
 Police at the scene of a helicopter crash in south Norfolk in which four men have died have said roads nearby are likely to be closed for some time as the investigation continues.
 
 ##### Murderer
 ### [Murderer and Sex Offender Brett Peter Cowan is sentenced to life imprisonment with a non-parole period of 20 years after being found guilty of murder, improperly interfering with a corpse and indecently dealing with a child under the age of 16 following the murder of Daniel Morcombe on the Sunshine Coast in December 2003. ](/news/2014/03/13/murderer-and-sex-offender-brett-peter-cowan-is-sentenced-to-life-imprisonment-with-a-non-parole-period-of-20-years-after-being-found-guilty.md)
-_Context: Sex Offender, life imprisonment, Sunshine Coast, Brett Peter Cowan, Murderer, murder of Daniel Morcombe_
+_Context: life imprisonment, Sex Offender, Murderer, murder of Daniel Morcombe, Sunshine Coast, Brett Peter Cowan_
 
 ##### David Willetts
 ### [David Willetts, the UK science minister, announces GBP11m of funding for data processing linked to the Square Kilometre Array. ](/news/2014/03/13/david-willetts-the-uk-science-minister-announces-agbp11m-of-funding-for-data-processing-linked-to-the-square-kilometre-array.md)

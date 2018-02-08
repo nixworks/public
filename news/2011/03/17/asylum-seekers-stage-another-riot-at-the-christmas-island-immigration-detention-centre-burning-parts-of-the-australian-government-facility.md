@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/17/asylum-seekers-stage-another-riot-at-the-christ
 
 ### [2011-03-17](/news/2011/03/17/index.md)
 
-##### asylum seekers
+##### Asylum seekers
 # Asylum seekers stage another riot at the Christmas Island Immigration Detention Centre burning parts of the Australian government facility. 
 
 An extra 70 Australian Federal Police officers are being sent to Christmas Island after another night of rioting at the island&#039;s detention centre.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/19/pope-benedict-xvi-islam-controversy-in-ankara-p
 
 ### [2006-09-19](/news/2006/09/19/index.md)
 
-##### controversial speech
+##### Controversial speech
 #  Pope Benedict XVI Islam controversy: In Ankara, protesters demand that the Justice Ministry arrest the Pope upon his arrival in Turkey, should he go ahead with his planned visit there in November. 
 
 

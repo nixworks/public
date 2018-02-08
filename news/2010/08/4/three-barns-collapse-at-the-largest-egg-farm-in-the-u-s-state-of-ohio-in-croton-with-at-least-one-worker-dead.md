@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/4/three-barns-collapse-at-the-largest-egg-farm-in-
 
 ### [2010-08-4](/news/2010/08/4/index.md)
 
-##### barn
+##### Barn
 # Three barns collapse at the largest egg farm in the U.S. state of Ohio in Croton, with at least one worker dead. 
 
 

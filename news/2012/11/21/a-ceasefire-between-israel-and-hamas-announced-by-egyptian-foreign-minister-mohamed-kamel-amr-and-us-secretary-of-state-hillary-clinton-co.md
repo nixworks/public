@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/21/a-ceasefire-between-israel-and-hamas-announced-
 
 ### [2012-11-21](/news/2012/11/21/index.md)
 
-##### ceasefire
+##### Ceasefire
 # A ceasefire between Israel and Hamas, announced by Egyptian Foreign Minister Mohamed Kamel Amr and US Secretary of State Hillary Clinton, comes into effect at 7:00 pm local time. 
 
 Egypt FM makes formal announcement of truce in joint press conference with Clinton in Cairo; Netanyahu touts success of Operation Pillar of Defense, thanks Obama for &quot;unwavering support for Israel&quot; during operation.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejian
 
 ### [2011-06-12](/news/2011/06/12/index.md)
 
-##### lead contamination
+##### Lead contamination
 # Over 600 people are poisoned by lead in Zhejiang, eastern China. 
 
 

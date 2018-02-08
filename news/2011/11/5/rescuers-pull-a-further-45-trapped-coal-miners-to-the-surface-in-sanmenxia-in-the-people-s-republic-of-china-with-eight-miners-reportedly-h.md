@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/5/rescuers-pull-a-further-45-trapped-coal-miners-t
 
 ### [2011-11-5](/news/2011/11/5/index.md)
 
-##### coal miner
+##### Coal miner
 # Rescuers pull a further 45 trapped coal miners to the surface in Sanmenxia in the People's Republic of China, with eight miners reportedly having died. 
 
 Rescuers in China save the remaining 45 miners who were trapped underground for 36 hours after a cave-in, state media say.

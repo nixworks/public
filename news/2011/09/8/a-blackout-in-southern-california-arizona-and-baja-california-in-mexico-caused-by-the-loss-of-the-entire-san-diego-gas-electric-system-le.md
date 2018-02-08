@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-ba
 
 ### [2011-09-8](/news/2011/09/8/index.md)
 
-##### power outage
+##### Power outage
 # A blackout in southern California, Arizona and Baja California in Mexico caused by the loss of the entire San Diego Gas & Electric system leads to the closure of San Onofre Nuclear Generating Station and the loss of power to more than two million people. 
 
 Millions were left in the dark Thursday, but SDG&E said it was making progress.

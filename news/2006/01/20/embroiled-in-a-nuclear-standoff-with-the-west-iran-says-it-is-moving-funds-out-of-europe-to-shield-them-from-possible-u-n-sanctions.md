@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/20/embroiled-in-a-nuclear-standoff-with-the-west-i
 
 ### [2006-01-20](/news/2006/01/20/index.md)
 
-##### nuclear war
+##### Nuclear war
 #  Embroiled in a nuclear standoff with the West, Iran says it is moving funds out of Europe to shield them from possible U.N. sanctions. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

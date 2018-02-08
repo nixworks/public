@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/31/three-people-are-killed-and-more-than-25-people
 
 ### [2013-03-31](/news/2013/03/31/index.md)
 
-##### multi-car pile-up
+##### Multi-car pile-up
 # Three people are killed and more than 25 people are injured in a 100-vehicle pileup near the Virginia-North Carolina border. 
 
 

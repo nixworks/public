@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/8/former-relief-pitcher-rich-gossage-is-elected-to
 
 ### [2008-01-8](/news/2008/01/8/index.md)
 
-##### relief pitcher
+##### Relief pitcher
 #  Former relief pitcher Rich Gossage is elected to the Baseball Hall of Fame. 
 
 Goose Gossage was voted into the National Baseball Hall of Fame on Tuesday.

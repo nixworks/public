@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/11/a-gunman-opens-fire-in-the-clackamas-town-cente
 
 ### [2012-12-11](/news/2012/12/11/index.md)
 
-##### opens fire
+##### Opens fire
 # A gunman opens fire in the Clackamas Town Center mall in the U.S. state of Oregon. Three people, including the suspected shooter, are killed and another is injured. 
 
 

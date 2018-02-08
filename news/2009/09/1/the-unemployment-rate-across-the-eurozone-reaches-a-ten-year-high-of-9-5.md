@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/1/the-unemployment-rate-across-the-eurozone-reache
 
 ### [2009-09-1](/news/2009/09/1/index.md)
 
-##### unemployment rate
+##### Unemployment rate
 #  The unemployment rate across the Eurozone reaches a ten-year high of 9.5%. 
 
 

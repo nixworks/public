@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-mili
 
 ### [2009-04-29](/news/2009/04/29/index.md)
 
-##### military
+##### Military
 #  The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. 
 
 Pakistani troops took the main town in strategically important Buner Valley on Wednesday after dropping by helicopter behind Taliban lines, killing more than 50 militants in two days, the military said.

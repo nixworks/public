@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/22/british-prime-minister-theresa-may-faces-backla
 
 ### [2017-05-22](/news/2017/05/22/index.md)
 
-##### last general election
+##### Last general election
 # British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. 
 
 Prime minister spends day battling against accusations of indecision after change to policy outlined in manifesto

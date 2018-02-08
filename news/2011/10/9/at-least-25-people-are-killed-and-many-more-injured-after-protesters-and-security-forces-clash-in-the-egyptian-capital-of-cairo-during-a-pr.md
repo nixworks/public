@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/9/at-least-25-people-are-killed-and-many-more-inju
 
 ### [2011-10-9](/news/2011/10/9/index.md)
 
-##### clash
+##### Clash
 # At least 25 people are killed and many more injured after protesters and security forces clash in the Egyptian capital of Cairo, during a protest in response to an attack on a Coptic church. 
 
 

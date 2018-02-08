@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/10/at-least-23-people-have-been-killed-and-50-inju
 
 ### [2015-07-10](/news/2015/07/10/index.md)
 
-##### stampede
+##### Stampede
 # At least 23 people have been killed and 50 injured following a stampede at a free clothing drive in the northern Bangladeshi city of Mymensingh. 
 
 At least 23 people die and scores are injured in a stampede at a charity clothing giveaway in Mymensingh in northern Bangladesh, police say.

@@ -37,21 +37,21 @@ The first January Atlantic hurricane in 61 years, hit the Azores as a tropical s
 
 ##### Brazil
 ### [A Brazilian court suspends the licence for the Belo Monte Dam weeks before it was due to start operating until operator Norte Energia SA and the government of Brazil reorganizes FundacGBPo Nacional do Indio, a protection agency for indigenous Brazilians. ](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.md)
-_Context: FundacGBPo Nacional do Indio, Belo Monte Dam, indigenous Brazilians, Brazil, government of Brazil_
+_Context: indigenous Brazilians, government of Brazil, Belo Monte Dam, Brazil, FundacGBPo Nacional do Indio_
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation declares an end to the Ebola virus outbreak in West Africa with Liberia the last country to be declared free of the virus. ](/news/2016/01/14/the-world-health-organisation-declares-an-end-to-the-ebola-virus-outbreak-in-west-africa-with-liberia-the-last-country-to-be-declared-free-o.md)
 The world breathed a sigh of relief Thursday as a two-year Ebola epidemic that killed 11,000 and triggered a global health alert was declared over, with Liberia the last country given the all-clear. The deadliest outbreak in the history of the feared tropical virus wrecked the economies and health s...
 
-##### nuclear test
+##### Nuclear test
 ### [South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. ](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-will-hold-talks-to-develop-a-joint-response-to-last-week-s-north-korean-nuclear-test.md)
-_Context: South Korea, China, nuclear test, North Korea_
+_Context: North Korea, South Korea, China, nuclear test_
 
 ##### Moldova
 ### [Thousands of people in Moldova march against proposed candidate for Prime Minister Vlad Plahotniuc. ](/news/2016/01/14/thousands-of-people-in-moldova-march-against-proposed-candidate-for-prime-minister-vlad-plahotniuc.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### supernova
+##### Supernova
 ### [Astronomers announce the discovery of supernova ASASSN-15lh, the biggest yet seen by scientists. ](/news/2016/01/14/astronomers-announce-the-discovery-of-supernova-asassn-15lh-the-biggest-yet-seen-by-scientists.md)
 Superluminous supernova ASASSN-15lh is 200 times as powerful as typical dead stars, astronomers say
 

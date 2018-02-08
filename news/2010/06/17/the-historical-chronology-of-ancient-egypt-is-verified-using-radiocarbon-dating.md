@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/17/the-historical-chronology-of-ancient-egypt-is-v
 
 ### [2010-06-17](/news/2010/06/17/index.md)
 
-##### radiocarbon dating
+##### Radiocarbon dating
 # The historical chronology of ancient Egypt is verified using radiocarbon dating. 
 
 

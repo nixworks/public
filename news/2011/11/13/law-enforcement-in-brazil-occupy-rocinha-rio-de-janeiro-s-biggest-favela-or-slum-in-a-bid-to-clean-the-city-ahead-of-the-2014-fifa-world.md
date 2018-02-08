@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/13/law-enforcement-in-brazil-occupy-rocinha-rio-de
 
 ### [2011-11-13](/news/2011/11/13/index.md)
 
-##### police
+##### Police
 # Law enforcement in Brazil occupy Rocinha, Rio de Janeiro's biggest "favela" or slum, in a bid to clean the city ahead of the 2014 FIFA World Cup and 2016 Summer Olympics. 
 
 More than 3,000 police and soldiers backed by armored personnel carriers raced into Brazil&#39;s biggest slum before dawn Sunday, quickly gaining control of a shantytown ruled for decades by a heavily armed drug gang.

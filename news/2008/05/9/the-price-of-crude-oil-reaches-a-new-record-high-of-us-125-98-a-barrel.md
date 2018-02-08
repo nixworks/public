@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/9/the-price-of-crude-oil-reaches-a-new-record-high
 
 ### [2008-05-9](/news/2008/05/9/index.md)
 
-##### petroleum
+##### Petroleum
 #  The price of crude oil reaches a new record high of US$125.98 a barrel. 
 
 

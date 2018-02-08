@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/26/at-least-12-workers-have-been-shot-dead-as-they
 
 ### [2005-07-26](/news/2005/07/26/index.md)
 
-##### nationalises
+##### Nationalises
 #  At least 12 workers have been shot dead as they are driven away from the state owned factory they work at, in the Abu Ghraib area, by insurgents. 
 
 

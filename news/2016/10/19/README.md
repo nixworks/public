@@ -23,7 +23,7 @@ Nasa announces Juno craft circling gas giant had to shut down camera and instrum
 ### [The Attorney General of Mexico issues an arrest warrant for the former Governor of Veracruz, Javier Duarte, for suspected involvement in organized crime and money laundering. ](/news/2016/10/19/the-attorney-general-of-mexico-issues-an-arrest-warrant-for-the-former-governor-of-veracruz-javier-duarte-for-suspected-involvement-in-org.md)
 Mexico has ordered the arrest of an outgoing state governor in the ruling party suspected of corruption, as well as one of his opposition contemporaries, the government said on Wednesday, as it seeks to quell public discontent about its record on graft.
 
-##### police dispersal
+##### Police dispersal
 ### [A police dispersal occurs between combined minority groups and anti-U.S. activists and the Philippine National Police in front of the U.S. Embassy in Manila. Police arrest 30 protesters with 60 people injured, several rammed by a police van driven during the dispersal. ](/news/2016/10/19/a-police-dispersal-occurs-between-combined-minority-groups-and-anti-u-s-activists-and-the-philippine-national-police-in-front-of-the-u-s-e.md)
 (UPDATED) Some of the protesters are injured after cops forced a police vehicle through the crowd
 
@@ -37,7 +37,7 @@ Hillary Clinton and Donald Trump will square off for the third and final time in
 
 ##### Iran
 ### [Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. ](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.md)
-_Context: President, Hassan Rouhani, Iran, Iranian Parliament, cabinet_
+_Context: Iranian Parliament, Hassan Rouhani, cabinet, Iran, President_
 
 ##### Croatian parliamentary election, 2016
 ### [Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-new-coalition-government-91a45.md)

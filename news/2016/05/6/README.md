@@ -5,11 +5,11 @@ Formats: [HTML](2016/05/6/index.html)  [JSON](2016/05/6/index.json)  [XML](2016/
 
 ##### Syrian Civil War
 ### [ More than 72 are killed in clashes between Al-Nusra Front and Syrian government forces in Khan Tuman south of Aleppo, Syria. ](/news/2016/05/6/more-than-72-are-killed-in-clashes-between-al-nusra-front-and-syrian-government-forces-in-khan-tuman-south-of-aleppo-syria.md)
-_Context: Jabhat al-Nusra, Aleppo offensive (May 2016), Aleppo, Syria, Khan Tuman, Syrian Civil War_
+_Context: Khan Tuman, Aleppo, Aleppo offensive (May 2016), Syrian Civil War, Syria, Jabhat al-Nusra_
 
 ##### Westfield Montgomery Mall
 ### [A man is killed, and two others are injured (a man in critical condition and a woman with non-life-threatening injuries), in the parking lot of Westfield Montgomery Mall in Potomac in Montgomery County, Maryland, near Washington, D.C. Soon after, a woman is killed at a grocery store some miles away. Police suspect that the same shooter may be behind both crime scene incidents. Police in both Montgomery County and neighboring Prince George's County are also examining whether this person is the same as the male involved in the fatal shooting the previous day of a woman, Gladys Tordil, who was allegedly shot (a bystander who tried to help was also wounded) by her estranged abusive husband, tentatively identified as Eulalio Tordil, 62, a former Federal Protective Service officer. ](/news/2016/05/6/a-man-is-killed-and-two-others-are-injured-a-man-in-critical-condition-and-a-woman-with-non-life-threatening-injuries-in-the-parking-lot.md)
-_Context: Federal Protective Service, Washington, D.C., Prince George's County, Maryland, Westfield Montgomery Mall, Potomac, Montgomery County, Maryland_
+_Context: Potomac, Prince George's County, Maryland, Washington, D.C., Westfield Montgomery Mall, Montgomery County, Maryland, Federal Protective Service_
 
 ##### Philippine presidential election, 2016
 ### [The supporters of presidential candidates Grace Poe and Mar Roxas post petitions and counter-petitions on Change.org urging either candidate to drop-out and give way for the other. ](/news/2016/05/6/the-supporters-of-presidential-candidates-grace-poe-and-mar-roxas-post-petitions-and-counter-petitions-on-change-org-urging-either-candidate.md)
@@ -29,7 +29,7 @@ Sadiq Khan is elected London mayor - a boost to Labour after it slumped to third
 
 ##### SpaceX
 ### [SpaceX successfully lands another Falcon 9 First stage onto a floating barge for the second time. It was carrying a Japanese communications satellite JCSAT-14, which was successfully put into geostationary orbit. ](/news/2016/05/6/spacex-successfully-lands-another-falcon-9-first-stage-onto-a-floating-barge-for-the-second-time-it-was-carrying-a-japanese-communications.md)
-_Context: SpaceX, Falcon 9, geostationary orbit, JCSAT-14_
+_Context: JCSAT-14, SpaceX, Falcon 9, geostationary orbit_
 
 ## [Previous Day...](/news/2016/05/5/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/10/french-comics-artist-jean-giraud-also-known-as-
 
 ### [2012-03-10](/news/2012/03/10/index.md)
 
-##### comics artist
+##### Comics artist
 # French comics artist Jean Giraud, also known as Moebius, the creator of Blueberry and a range of influential science-fiction comics, dies at age 73. 
 
 

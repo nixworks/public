@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/28/gangs-of-youths-riot-in-paris-with-the-violence
 
 ### [2007-03-28](/news/2007/03/28/index.md)
 
-##### young people
+##### Young people
 #  Gangs of youths riot in Paris with the violence centred on the Gare du Nord, one of the main railway stations. 
 
 

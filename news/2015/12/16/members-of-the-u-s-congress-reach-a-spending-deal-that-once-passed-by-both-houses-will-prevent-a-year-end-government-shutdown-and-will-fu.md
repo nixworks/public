@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/16/members-of-the-u-s-congress-reach-a-spending-de
 
 ### [2015-12-16](/news/2015/12/16/index.md)
 
-##### lawmakers
+##### Lawmakers
 # Members of the U.S. Congress reach a spending deal that, once passed by both houses, will prevent a year-end government shutdown and will fund Fiscal Year 2016 federal government operations. President Barack Obama signs a separate bipartisan bill that extends government funding through Tuesday, December 22. 
 
 The House and Senate are expected to pass the legislation by the end of the week.

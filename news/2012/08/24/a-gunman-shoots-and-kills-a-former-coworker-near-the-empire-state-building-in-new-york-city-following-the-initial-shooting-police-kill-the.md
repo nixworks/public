@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/24/a-gunman-shoots-and-kills-a-former-coworker-nea
 
 ### [2012-08-24](/news/2012/08/24/index.md)
 
-##### kills
+##### Kills
 # A gunman shoots and kills a former coworker near the Empire State Building in New York City. Following the initial shooting, police kill the gunman, and nine other people are wounded. 
 
 

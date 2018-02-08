@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/28/the-clock-tower-of-the-palace-of-westminster-in
 
 ### [2005-05-28](/news/2005/05/28/index.md)
 
-##### clock tower
+##### Clock tower
 #  The clock tower of the Palace of Westminster in London, commonly known as Big Ben, renowned for its accuracy and chimes, stopped ticking for 90 minutes, an engineer said Saturday. 
 
 

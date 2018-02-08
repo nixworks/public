@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/14/two-missiles-fired-from-american-drone-aircraft
 
 ### [2009-02-14](/news/2009/02/14/index.md)
 
-##### missile
+##### Missile
 #  Two missiles fired from American drone aircraft kill at least 25 people in South Waziristan, Pakistan. 
 
 Among the victims were Al Qaeda and Taliban fighters, according to an intelligence official and residents.

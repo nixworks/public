@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/13/thousands-of-people-protest-in-islamabad-in-sup
 
 ### [2007-04-13](/news/2007/04/13/index.md)
 
-##### demonstrators
+##### Demonstrators
 #  Thousands of people protest in Islamabad in support of the suspended Chief Justice of Pakistan Iftikhar Muhammad Chaudhry. 
 
 

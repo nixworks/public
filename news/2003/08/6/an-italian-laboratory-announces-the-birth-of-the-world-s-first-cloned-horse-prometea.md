@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/6/an-italian-laboratory-announces-the-birth-of-the
 
 ### [2003-08-6](/news/2003/08/6/index.md)
 
-##### cloning
+##### Cloning
 #  An Italian laboratory announces the birth of the world's first cloned horse, Prometea.
 
 

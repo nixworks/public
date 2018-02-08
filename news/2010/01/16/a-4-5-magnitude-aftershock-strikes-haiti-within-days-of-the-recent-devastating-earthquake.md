@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/16/a-4-5-magnitude-aftershock-strikes-haiti-within
 
 ### [2010-01-16](/news/2010/01/16/index.md)
 
-##### aftershock
+##### Aftershock
 # A 4.5 magnitude aftershock strikes Haiti within days of the recent devastating earthquake. 
 
 Haitian police have opened fire on a group of looters, killing at least one of them as hundreds of rioters ransacked a market in quake-hit Port-au-Prince.

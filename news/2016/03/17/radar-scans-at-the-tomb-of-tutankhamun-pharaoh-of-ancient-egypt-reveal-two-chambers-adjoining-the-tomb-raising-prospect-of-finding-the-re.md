@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/17/radar-scans-at-the-tomb-of-tutankhamun-pharaoh-
 
 ### [2016-03-17](/news/2016/03/17/index.md)
 
-##### the tomb
+##### The tomb
 # Radar scans at the tomb of Tutankhamun, Pharaoh of Ancient Egypt, reveal two chambers adjoining the tomb, raising prospect of finding the resting place of Queen Nefertiti. 
 
 Scans reveal two chambers adjoining pharaoh’s tomb, raising prospect of finding the resting place of Queen Nefertiti

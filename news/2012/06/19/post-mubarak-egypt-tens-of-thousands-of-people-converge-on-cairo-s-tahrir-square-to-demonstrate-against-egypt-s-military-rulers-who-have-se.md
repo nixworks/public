@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-
 
 ### [2012-06-19](/news/2012/06/19/index.md)
 
-##### post-Mubarak Egypt
+##### Post-Mubarak Egypt
 # post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. 
 
 Hosni Mubarak has reportedly suffered a stroke in prison and is reportedly &#034;clinically dead&#034;, according to sources who have spoken to Reuters.

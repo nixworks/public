@@ -5,13 +5,13 @@ Formats: [HTML](2015/05/3/index.html)  [JSON](2015/05/3/index.json)  [XML](2015/
 
 ##### Yemeni Civil War (2015)
 ### [Yemen officials say that at least 20 members of the Arab coalition have landed in Aden on a 'reconnaissance' mission. ](/news/2015/05/3/yemen-officials-say-that-at-least-20-members-of-the-arab-coalition-have-landed-in-aden-on-a-reconnaissance-mission.md)
-_Context: Yemeni Civil War (2015), Aden, Yemen_
+_Context: Aden, Yemen, Yemeni Civil War (2015)_
 
 ##### Moro insurgency in the Philippines
 ### [Fugitive Abdul Basit Usman dies in a clash in Mindanao. ](/news/2015/05/3/fugitive-abdul-basit-usman-dies-in-a-clash-in-mindanao.md)
 Usman is the other target in the botched police Special Action Force (SAF) operation in Mamasapano, Maguindanao on January 25
 
-##### suspicions
+##### Suspicions
 ### [Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.](/news/2015/05/3/kathmandu-international-airport-closes-to-large-aircraft-flying-in-relief-because-its-runway-can-no-longer-stand-the-strain.md)
 The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with a further 14,123 people injured.
 
@@ -37,7 +37,7 @@ _Context: discrimination against atheists, Madison, Wisconsin_
 
 ##### 2016 U.S. presidential election
 ### [Retired neurosurgeon Ben Carson tells a Florida television station that he would run for the Republican Party nomination with a formal announcement to be made in the city of Detroit, Michigan, where he grew up. ](/news/2015/05/3/retired-neurosurgeon-ben-carson-tells-a-florida-television-station-that-he-would-run-for-the-republican-party-nomination-with-a-formal-annou.md)
-_Context: Ben Carson, the state, Republican, Detroit, 2016 U.S. presidential election, neurosurgeon_
+_Context: neurosurgeon, Detroit, Republican, the state, 2016 U.S. presidential election, Ben Carson_
 
 ##### Nagorno-Karabakh parliamentary election, 2015
 ### [Nagorno-Karabakh parliamentary election, 2015.](/news/2015/05/3/nagorno-karabakh-parliamentary-election-2015.md)

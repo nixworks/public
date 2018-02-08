@@ -23,9 +23,9 @@ Children among those killed by roadside bomb as troops try to push armed group f
 ### [A suicide-bomb attack outside the police chief's house in Aden, southern Yemen, leaves at least 7 people dead. ](/news/2016/01/17/a-suicide-bomb-attack-outside-the-police-chief-s-house-in-aden-southern-yemen-leaves-at-least-7-people-dead.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### microbus
+##### Microbus
 ### [At least five people are killed and ten injured in a microbus crash in Egypt's New Valley Governorate. ](/news/2016/01/17/at-least-five-people-are-killed-and-ten-injured-in-a-microbus-crash-in-egypt-s-new-valley-governorate.md)
-_Context: New Valley Governorate, microbus, Egypt_
+_Context: New Valley Governorate, Egypt, microbus_
 
 ##### Ebola virus epidemic in West Africa
 ### [Sierra Leone imposes quarantine on hundreds of people following a recent death from the Ebola virus. ](/news/2016/01/17/sierra-leone-imposes-quarantine-on-hundreds-of-people-following-a-recent-death-from-the-ebola-virus.md)

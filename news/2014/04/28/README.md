@@ -15,7 +15,7 @@ The United States imposed new sanctions on allies of Russian President Vladimir 
 ### [Suicide bomb attacks kill dozens of people at a political rally and at early polling places for the election to be held on April 30. ](/news/2014/04/28/suicide-bomb-attacks-kill-dozens-of-people-at-a-political-rally-and-at-early-polling-places-for-the-election-to-be-held-on-april-30.md)
 At least 50 people killed in Iraq as suicide bombers attack ahead of a national election.
 
-##### mummies
+##### Mummies
 ### [More than 50 royal mummies have been discovered by Egyptian and Swiss archeologists in the newly opened KV40 tomb in Egypt's Valley of the Kings. ](/news/2014/04/28/more-than-50-royal-mummies-have-been-discovered-by-egyptian-and-swiss-archeologists-in-the-newly-opened-kv40-tomb-in-egypt-s-valley-of-the-k.md)
 A royal mummy discovery in Egypt&#039;s Valley of the Kings includes several princes and princesses.
 
@@ -31,9 +31,9 @@ Microsoft warns consumers that a vulnerability in its Internet Explorer browser 
 ### [The search area for the missing aircraft in the southern Indian Ocean is expanded with any debris likely to be found on the ocean floor with the minimum time anticipated for the search eight months. ](/news/2014/04/28/the-search-area-for-the-missing-aircraft-in-the-southern-indian-ocean-is-expanded-with-any-debris-likely-to-be-found-on-the-ocean-floor-with.md)
 _Context: Indian_
 
-##### tornado
+##### Tornado
 ### [Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. ](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-a-huge-storm-system-sweeps-across-the-central-and-southern-united-states.md)
-_Context: southern United States, tornado, central_
+_Context: central, southern United States, tornado_
 
 ##### Slovakia
 ### [Slovakia and Ukraine agree to a deal that will allow gas from Central Europe to reach Ukraine via Slovakia. ](/news/2014/04/28/slovakia-and-ukraine-agree-to-a-deal-that-will-allow-gas-from-central-europe-to-reach-ukraine-via-slovakia.md)

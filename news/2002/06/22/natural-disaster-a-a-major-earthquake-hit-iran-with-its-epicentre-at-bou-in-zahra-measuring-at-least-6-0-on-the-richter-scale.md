@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/06/22/natural-disaster-a-a-major-earthquake-hit-iran-
 
 ### [2002-06-22](/news/2002/06/22/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster - a major earthquake hit Iran, with its epicentre at Bou'in-Zahra, measuring at least 6.0 on the Richter scale.
 
 

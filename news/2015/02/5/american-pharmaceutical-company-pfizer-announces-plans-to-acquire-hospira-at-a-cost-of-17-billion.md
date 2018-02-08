@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/5/american-pharmaceutical-company-pfizer-announces
 
 ### [2015-02-5](/news/2015/02/5/index.md)
 
-##### pharmaceutical
+##### Pharmaceutical
 # American pharmaceutical company Pfizer announces plans to acquire Hospira at a cost of $17 billion. 
 
 

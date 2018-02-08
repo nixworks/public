@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/28/in-the-us-number-of-american-muslim-scholars-an
 
 ### [2005-07-28](/news/2005/07/28/index.md)
 
-##### fatwa
+##### Fatwa
 #  In the US, number of American-Muslim scholars announce a fatwa that condemns terrorism and religious extremism 
 
 

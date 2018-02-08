@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/19/the-u-s-military-drops-all-charges-of-alleged-m
 
 ### [2004-03-19](/news/2004/03/19/index.md)
 
-##### classified information
+##### Classified information
 #  The U.S. military drops all charges of alleged mishandling of classified information against Muslim Army chaplain Yousef Yee at Guantanamo Bay.
 
 

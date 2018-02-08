@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/3/3-people-are-arrested-after-a-man-wrongly-jailed
 
 ### [2010-06-3](/news/2010/06/3/index.md)
 
-##### central China
+##### Central China
 # 3 people are arrested after a man wrongly jailed for 11 years in central China Shangqiu City. 
 
 

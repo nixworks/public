@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/21/at-least-three-people-die-and-14-are-injured-in
 
 ### [2008-07-21](/news/2008/07/21/index.md)
 
-##### bus explosions
+##### Bus explosions
 #  At least three people die and 14 are injured in deliberate explosions on buses in the city of Kunming, the capital of Yunnan province in the People's Republic of China. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/11/43-killed-and-over-100-injured-in-two-car-bombi
 
 ### [2013-05-11](/news/2013/05/11/index.md)
 
-##### two car bombings
+##### Two car bombings
 # 43 killed and over 100 injured in two car bombings in Reyhanli, Turkey, near the Syrian border. 
 
 

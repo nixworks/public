@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-d
 
 ### [2011-08-22](/news/2011/08/22/index.md)
 
-##### crude oil
+##### Crude oil
 # The price of crude oil falls on world markets due to the downfall of Muammar Gaddafi and bleak global economic outlook. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/4/ingrid-betancourt-returns-to-france-two-days-aft
 
 ### [2008-07-4](/news/2008/07/4/index.md)
 
-##### ngrid Betancourt
+##### Ngrid Betancourt
 #  ngrid Betancourt returns to France two days after her rescue. 
 
 Two days after her rescue from the clutches of guerrillas in the Colombian jungle, Ingrid Betancourt shared some painful details of her long ordeal.

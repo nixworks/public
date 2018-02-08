@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/26/a-7-4-magnitude-earthquake-occurs-in-the-pacifi
 
 ### [2012-08-26](/news/2012/08/26/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.4 magnitude earthquake occurs in the Pacific Ocean off the coast of El Salvador with tsunami warnings in place for Costa Rica, Nicaragua, El Salvador, Honduras, Guatemala, Panama and Mexico. 
 
 Strong magnitude-7.4 earthquake has struck off the coast of El Salvador and a tsunami warning has been issued.

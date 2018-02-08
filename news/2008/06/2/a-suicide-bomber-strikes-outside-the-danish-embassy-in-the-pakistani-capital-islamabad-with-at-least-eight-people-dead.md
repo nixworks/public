@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/2/a-suicide-bomber-strikes-outside-the-danish-emba
 
 ### [2008-06-2](/news/2008/06/2/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber strikes outside the Danish embassy in the Pakistani capital Islamabad with at least eight people dead. 
 
 

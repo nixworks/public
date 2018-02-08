@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/9/the-death-toll-continues-to-rise-due-to-flooding
 
 ### [2005-05-9](/news/2005/05/9/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll continues to rise due to flooding in Somalia and the Somalia Region of Ethiopia. In April 2005, heavy rains generated widespread flooding and caused the Shebelle River to burst its banks. As of May 5, the flooding in Somali Region alone has caused over 100 confirmed deaths and widespread property damage affecting over 100,000 persons. The floods have also destroyed shelters housing 25,000 Somali refugees in Kenya. 
 
 A team mandated to mon

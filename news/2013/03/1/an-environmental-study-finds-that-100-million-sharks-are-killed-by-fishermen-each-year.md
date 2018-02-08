@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/1/an-environmental-study-finds-that-100-million-sh
 
 ### [2013-03-1](/news/2013/03/1/index.md)
 
-##### shark
+##### Shark
 # An environmental study finds that 100 million sharks are killed by fishermen each year. 
 
 

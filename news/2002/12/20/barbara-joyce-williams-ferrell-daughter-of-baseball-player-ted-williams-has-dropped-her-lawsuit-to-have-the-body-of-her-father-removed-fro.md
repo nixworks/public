@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/12/20/barbara-joyce-williams-ferrell-daughter-of-base
 
 ### [2002-12-20](/news/2002/12/20/index.md)
 
-##### baseball
+##### Baseball
 # Barbara Joyce Williams Ferrell, daughter of baseball player Ted Williams, has dropped her lawsuit to have the body of her father removed from a cryonics storage facility and cremated. 
 
 

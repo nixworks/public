@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/7/a-car-bomb-in-peshawar-pakistan-kills-at-least-e
 
 ### [2009-03-7](/news/2009/03/7/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in Peshawar, Pakistan, kills at least eight people. 
 
 

@@ -17,7 +17,7 @@ La&#39;Porsha Renae and Trent Harmon competed for the season 15 title
 
 ##### LGBT rights in the United States
 ### [The Mississippi Hospitality and Restaurant Association, in response to the potential backlash from Mississippi Governor Phil Bryant's signing of the known-as "religious freedom" bill which permits denial of services because of religious belief, will distribute decals that say "Everyone's Welcome Here." Mike Cashion, MHRA director, says the bill "created a level of controversy" that affects Mississippi's image. ](/news/2016/04/7/the-mississippi-hospitality-and-restaurant-association-in-response-to-the-potential-backlash-from-mississippi-governor-phil-bryant-s-signin.md)
-_Context: Phil Bryant's, LGBT rights in the United States, Mississippi, Mississippi Governor_
+_Context: Mississippi Governor, LGBT rights in the United States, Phil Bryant's, Mississippi_
 
 ##### Australia
 ### [Australian mining and materials company Arrium goes into voluntary administration with 7,000 jobs under threat in Australia, including 1,000 at the Whyalla Steelworks in South Australia. ](/news/2016/04/7/australian-mining-and-materials-company-arrium-goes-into-voluntary-administration-with-7-000-jobs-under-threat-in-australia-including-1-000.md)
@@ -37,7 +37,7 @@ Attackers in Bangladesh wielding machetes killed a liberal blogger, police said 
 
 ##### Panama Papers
 ### [The government of Panama announces that it is creating an "international panel" to help improve transparency in its offshore financial industry. The move follows the leak of millions of documents from law firm Mossack Fonseca, showing it helped some clients evade tax and avoid sanctions. ](/news/2016/04/7/the-government-of-panama-announces-that-it-is-creating-an-international-panel-to-help-improve-transparency-in-its-offshore-financial-indus.md)
-_Context: Panama, Mossack Fonseca, Panama Papers_
+_Context: Panama, Panama Papers, Mossack Fonseca_
 
 ##### Colombia
 ### [Colombia's Constitutional Court votes in favor of same-sex marriage, in a 6-3 decision. ](/news/2016/04/7/colombia-s-constitutional-court-votes-in-favor-of-same-sex-marriage-in-a-6-3-decision.md)
@@ -49,7 +49,7 @@ The federal lawsuit also challenges a provision that mandates an aborted fetus b
 
 ##### Parliament
 ### [The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen TCNYn Dung. ](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-n-xuac-n-phaoc-as-the-country-s-new-prime-minister-succeeding-nguya-n-taocnyn-da-c-ng.md)
-_Context: Nguyen TCNYn Dung, Parliament, Nguyen Xuan Phuc, prime minister_
+_Context: Nguyen Xuan Phuc, Parliament, prime minister, Nguyen TCNYn Dung_
 
 ##### Hashim Thaci
 ### [Hashim Thaci is sworn in as the new President of Kosovo. ](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-of-kosovo.md)
@@ -65,7 +65,7 @@ Burmese leader says she will press for immediate release of activists, in first 
 
 ##### Donald Trump endorsements
 ### [Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. ](/news/2016/04/7/former-new-york-city-mayor-rudy-giuliani-endorses-donald-trump-for-u-s-president-predicting-trump-will-get-more-than-50-of-the-statewide.md)
-_Context: Donald Trump endorsements, Donald Trump, Rudy Giuliani, New York City_
+_Context: Rudy Giuliani, Donald Trump, Donald Trump endorsements, New York City_
 
 ##### Panama Papers
 ### [United Kingdom Prime Minister David Cameron admits he benefited from a Panama-based offshore trust, Blairmore Holdings Inc., set up by his late father. Cameron says he divested himself of his shares, for GBP31,500 (US$44,300), before becoming prime minister in 2010. ](/news/2016/04/7/united-kingdom-prime-minister-david-cameron-admits-he-benefited-from-a-panama-based-offshore-trust-blairmore-holdings-inc-set-up-by-his-l.md)

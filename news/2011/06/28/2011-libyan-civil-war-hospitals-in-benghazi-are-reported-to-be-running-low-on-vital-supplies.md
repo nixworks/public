@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are
 
 ### [2011-06-28](/news/2011/06/28/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. 
 
 Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.

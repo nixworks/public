@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/14/two-people-are-killed-and-30-injured-when-an-av
 
 ### [2010-03-14](/news/2010/03/14/index.md)
 
-##### snowmobile
+##### Snowmobile
 # Two people are killed and 30 injured when an avalanche hits a snowmobile competition in British Columbia, Western Canada. 
 
 

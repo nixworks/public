@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/30/a-leap-second-is-added-to-the-clock-for-the-fir
 
 ### [2015-06-30](/news/2015/06/30/index.md)
 
-##### leap second
+##### Leap second
 # A leap second is added to the clock for the first time in 3 years. 
 
 Midnight came later on Tuesday as for the first time in three years an extra second was added to the official time set by atomic clocks.

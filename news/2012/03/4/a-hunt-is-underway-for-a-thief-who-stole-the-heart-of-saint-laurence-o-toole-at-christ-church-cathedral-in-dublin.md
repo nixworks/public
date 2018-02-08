@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/4/a-hunt-is-underway-for-a-thief-who-stole-the-hea
 
 ### [2012-03-4](/news/2012/03/4/index.md)
 
-##### thief
+##### Thief
 # A hunt is underway for a thief who stole the heart of Saint Laurence O'Toole at Christ Church Cathedral in Dublin. 
 
 

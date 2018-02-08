@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/28/american-discount-store-chain-dollar-tree-reach
 
 ### [2014-07-28](/news/2014/07/28/index.md)
 
-##### discount store
+##### Discount store
 # American discount store chain Dollar Tree reaches an $8.5 billion deal to buy out rival Family Dollar. 
 
 

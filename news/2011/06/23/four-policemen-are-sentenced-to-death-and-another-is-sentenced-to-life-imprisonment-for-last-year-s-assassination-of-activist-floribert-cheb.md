@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/four-policemen-are-sentenced-to-death-and-anoth
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### death penalty
+##### Death penalty
 # Four policemen are sentenced to death and another is sentenced to life imprisonment for last year's assassination of activist Floribert Chebeya in Democratic Republic of the Congo. 
 
 A military court in the Democratic Republic of Congo sentences to death four policemen for killing prominent human rights activist Floribert Chebeya.

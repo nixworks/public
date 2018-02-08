@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/26/a-building-explosion-and-pancake-floor-collapse
 
 ### [2015-03-26](/news/2015/03/26/index.md)
 
-##### pancake floor collapse
+##### Pancake floor collapse
 # A building explosion and pancake floor collapse in New York City's East Village causes at least two deaths and multiple injuries. 
 
 A gas explosion ripped through four buildings and ended up leveling three of them, leaving a total of 19 people injured in a bustling section of the East Village Thursday afternoon.

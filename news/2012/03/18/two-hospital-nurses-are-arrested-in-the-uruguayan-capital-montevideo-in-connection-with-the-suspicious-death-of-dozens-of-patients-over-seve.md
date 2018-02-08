@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/18/two-hospital-nurses-are-arrested-in-the-uruguay
 
 ### [2012-03-18](/news/2012/03/18/index.md)
 
-##### hospital
+##### Hospital
 # Two hospital nurses are arrested in the Uruguayan capital Montevideo in connection with the suspicious death of dozens of patients over several years at two hospitals. 
 
 

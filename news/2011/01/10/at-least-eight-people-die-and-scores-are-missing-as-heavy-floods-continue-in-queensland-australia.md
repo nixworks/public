@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/10/at-least-eight-people-die-and-scores-are-missin
 
 ### [2011-01-10](/news/2011/01/10/index.md)
 
-##### floods
+##### Floods
 # At least eight people die and scores are missing as heavy floods continue in Queensland, Australia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/14/an-oil-spill-occurs-in-the-celtic-sea-near-coun
 
 ### [2009-02-14](/news/2009/02/14/index.md)
 
-##### oil spill
+##### Oil spill
 #  An oil spill occurs in the Celtic Sea near County Cork, Ireland. 
 
 

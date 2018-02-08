@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/28/three-players-are-dismissed-during-the-semi-fin
 
 ### [2010-01-28](/news/2010/01/28/index.md)
 
-##### football
+##### Football
 # Three players are dismissed during the semi-final football match between rivals Algeria and Egypt in the 2010 Africa Cup of Nations, months following their previous meeting which led to international violence and diplomatic skirmishes. 
 
 

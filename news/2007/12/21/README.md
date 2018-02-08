@@ -13,7 +13,7 @@ The suspects were planning to use explosives to free an Al Qaeda sympathizer fro
 
 ##### Schengen Agreement
 ### [ The Schengen Agreement is expanded to include the seaports and land borders of the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia. ](/news/2007/12/21/the-schengen-agreement-is-expanded-to-include-the-seaports-and-land-borders-of-the-czech-republic-estonia-hungary-latvia-lithuania-mal.md)
-_Context: Slovenia, Schengen Agreement, Estonia, Lithuania, Slovakia, Czech Republic, Malta, Poland, Latvia, Hungary_
+_Context: Slovakia, Malta, Hungary, Schengen Agreement, Estonia, Slovenia, Polish, Latvia, Czech Republic, Lithuania_
 
 ## [Previous Day...](/news/2007/12/20/index.md)
 

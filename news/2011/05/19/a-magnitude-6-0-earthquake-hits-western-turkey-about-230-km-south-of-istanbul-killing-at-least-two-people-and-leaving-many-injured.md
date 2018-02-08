@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/19/a-magnitude-6-0-earthquake-hits-western-turkey-
 
 ### [2011-05-19](/news/2011/05/19/index.md)
 
-##### magnitude 6.0 earthquake
+##### Magnitude 6.0 earthquake
 # A magnitude 6.0 earthquake hits western Turkey, about 230 km south of Istanbul, killing at least two people and leaving many injured. 
 
 

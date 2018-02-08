@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/24/an-emerging-outbreak-of-avian-cholera-kills-tho
 
 ### [2011-01-24](/news/2011/01/24/index.md)
 
-##### avian cholera
+##### Avian cholera
 # An emerging outbreak of avian cholera kills thousands of eider ducks in Arctic regions of Canada. Scientists are studying the outbreak and its potential to spread to Greenland. 
 
 Avian cholera could spread into areas of the Arctic, including parts of Canada and Greenland, where the contagious bird disease has not been present before, say scientists.

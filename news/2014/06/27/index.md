@@ -13,9 +13,9 @@ Human Rights Watch says Iraqi insurgents executed at least 160 captives earlier 
 
 ##### Prince Carl Philip
 ### [Prince Carl Philip, third-in-line to the Swedish throne, announces that he and former men's magazine model Sofia Hellqvist will marry in the summer of 2015. ](/news/2014/06/27/prince-carl-philip-third-in-line-to-the-swedish-throne-announces-that-he-and-former-men-s-magazine-model-sofia-hellqvist-will-marry-in-the.md)
-_Context: Prince Carl Philip, Sofia Hellqvist_
+_Context: Sofia Hellqvist, Prince Carl Philip_
 
-##### fourteen people are killed
+##### Fourteen people are killed
 ### [At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India. ](/news/2014/06/27/at-least-fourteen-people-are-killed-when-a-gas-authority-of-india-limited-pipeline-explodes-in-the-east-godavari-district-of-andhra-pradesh.md)
 At least 14 people die after a pipeline carrying gas explodes in the southern Indian state of Andhra Pradesh, a minister says.
 
@@ -35,7 +35,7 @@ All is not lost for the Prime Minister, who has shown that he can make a virtue 
 ### [A Mexican military chopper flies into the United States and mistakenly shoots at border guards as part of a drug interdiction operation. Mexican authorities apologize for the incident. ](/news/2014/06/27/a-mexican-military-chopper-flies-into-the-united-states-and-mistakenly-shoots-at-border-guards-as-part-of-a-drug-interdiction-operation-mex.md)
 ​A Mexican law enforcement helicopter crossed into the United States early Thursday and fired on two US Border Patrol agents.
 
-##### elephant shrew
+##### Elephant shrew
 ### [Scientists identify a new species of elephant shrew, named "Macroscelides micus". ](/news/2014/06/27/scientists-identify-a-new-species-of-elephant-shrew-named-macroscelides-micus.md)
 The Etendeka round-eared sengi or Macroscelides micus, is the smallest of 19 elephant shrews and is found in the Namibian desert
 

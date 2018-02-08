@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/29/2008-thai-political-crisis-people-s-alliance-fo
 
 ### [2008-11-29](/news/2008/11/29/index.md)
 
-##### assemble
+##### Assemble
 #  2008 Thai political crisis: People's Alliance for Democracy protestors force the Royal Thai Police to abandon a checkpoint outside Suvarnabhumi Airport. 
 
 

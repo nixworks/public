@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/18/an-anti-piracy-conference-opens-in-dubai-united
 
 ### [2011-04-18](/news/2011/04/18/index.md)
 
-##### piracy
+##### Piracy
 # An anti-piracy conference opens in Dubai, United Arab Emirates. 
 
 

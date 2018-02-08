@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/15/a-car-bomb-explodes-near-the-turkish-border-kil
 
 ### [2014-05-15](/news/2014/05/15/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. 
 
 

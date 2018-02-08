@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/10/a-speed-boat-carrying-illegal-immigrants-from-a
 
 ### [2004-01-10](/news/2004/01/10/index.md)
 
-##### illegal immigrants
+##### Illegal immigrants
 #  A speed boat carrying illegal immigrants from Albania, bound for Italy broke down and capsized. There were 11 survivors, while as many as 21 died due to drowning and exposure. Two have been arrested by Albanian authorities for people smuggling, while other senior officials have been implicated in connection with the tragedy.
 
 

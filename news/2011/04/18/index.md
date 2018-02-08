@@ -3,13 +3,13 @@ Formats: [HTML](2011/04/18/index.html)  [JSON](2011/04/18/index.json)  [XML](201
 
 ## [2011-04-18](/news/2011/04/18/index.md)
 
-##### grad rocket
+##### Grad rocket
 ### [Gaddafi's forces kill over 100 civilians in grad rocket attacks in the Nafusa Mountains of Libya. ](/news/2011/04/18/gaddafi-s-forces-kill-over-100-civilians-in-grad-rocket-attacks-in-the-nafusa-mountains-of-libya.md)
 The best of British &amp; international news, opinion, sport, people &amp; business.
 
 ##### Muslim
 ### [Suspected Muslim insurgents detonate a bomb in southern Thailand, killing one and injuring 23 people. ](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.md)
-_Context: Thailand, Muslim_
+_Context: Muslim, Thailand_
 
 ##### Syria
 ### [Eight killed in Syrian Protests. ](/news/2011/04/18/eight-killed-in-syrian-protests.md)
@@ -31,9 +31,9 @@ A landslide killed at least 10 people and injured seven in Indonesia’s East Ja
 ### [14 people killed in mudslide in Colombia. ](/news/2011/04/18/14-people-killed-in-mudslide-in-colombia.md)
 Get the latest Latin American and Caribbean news from BBC News in Latin America and the Caribbean: breaking news, features and analysis plus audio and video content from Mexico, Central and South America, and the Caribbean.
 
-##### piracy
+##### Piracy
 ### [An anti-piracy conference opens in Dubai, United Arab Emirates. ](/news/2011/04/18/an-anti-piracy-conference-opens-in-dubai-united-arab-emirates.md)
-_Context: piracy, Dubai, United Arab Emirates_
+_Context: United Arab Emirates, piracy, Dubai_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye is arrested during a protest against high food and fuel prices in the capital Kampala. ](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.md)

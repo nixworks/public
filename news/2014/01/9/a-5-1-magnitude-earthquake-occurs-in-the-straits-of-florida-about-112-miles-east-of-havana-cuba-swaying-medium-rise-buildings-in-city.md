@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/9/a-5-1-magnitude-earthquake-occurs-in-the-straits
 
 ### [2014-01-9](/news/2014/01/9/index.md)
 
-##### magnitude earthquake
+##### Magnitude earthquake
 # A 5.1 magnitude earthquake occurs in the Straits of Florida about 112 miles east of Havana, Cuba, swaying medium rise buildings in city. 
 
 

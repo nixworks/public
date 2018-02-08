@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/31/a-bomb-explodes-in-downtown-palu-indonesia-kill
 
 ### [2005-12-31](/news/2005/12/31/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes in downtown Palu, Indonesia, killing at least eight people and wounding 45 people. 
 
 

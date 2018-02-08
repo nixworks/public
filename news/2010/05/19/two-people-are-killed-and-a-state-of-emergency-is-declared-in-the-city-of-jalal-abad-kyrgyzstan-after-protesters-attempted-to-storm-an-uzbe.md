@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/19/two-people-are-killed-and-a-state-of-emergency-
 
 ### [2010-05-19](/news/2010/05/19/index.md)
 
-##### state of emergency
+##### State of emergency
 # Two people are killed and a state of emergency is declared in the city of Jalal-Abad, Kyrgyzstan after protesters attempted to storm an Uzbek university. 
 
 The interim government of Kyrgyzstan declares a state of emergency in the southern city of Jalalabad after clashes killed two people.

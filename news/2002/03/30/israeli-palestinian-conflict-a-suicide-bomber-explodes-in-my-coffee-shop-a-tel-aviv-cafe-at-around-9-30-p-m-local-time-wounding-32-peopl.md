@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/03/30/israeli-palestinian-conflict-a-suicide-bomber-e
 
 ### [2002-03-30](/news/2002/03/30/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # Israeli-Palestinian conflict: A suicide bomber explodes in My Coffee Shop, a Tel Aviv caf at around 9:30 p.m. local time, wounding 32 people.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/14/a-british-student-is-stabbed-and-killed-during-
 
 ### [2017-04-14](/news/2017/04/14/index.md)
 
-##### attack
+##### Attack
 #  A British student is stabbed and killed during an attack on a light-rail train in Jerusalem, Israel. Two other passengers are injured. A Palestinian man with a history of mental problems and other issues is taken into custody by Israeli authorities. Israeli Finance Minister Moshe Kahlon linked the attack to terrorism. 
 
 Two others lightly hurt ■ The assailant, a Palestinian from East Jerusalem, has been apprehended ■ Netanyahu ties attack to global Islamic terrorism

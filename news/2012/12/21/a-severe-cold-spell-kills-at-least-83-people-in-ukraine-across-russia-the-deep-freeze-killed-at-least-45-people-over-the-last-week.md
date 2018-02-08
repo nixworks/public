@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/21/a-severe-cold-spell-kills-at-least-83-people-in
 
 ### [2012-12-21](/news/2012/12/21/index.md)
 
-##### cold spell
+##### Cold spell
 # A severe cold spell kills at least 83 people in Ukraine. Across Russia, the deep freeze killed at least 45 people over the last week. 
 
 At least 83 people have died in Ukraine from the severe cold spell gripping the country, health officials say.

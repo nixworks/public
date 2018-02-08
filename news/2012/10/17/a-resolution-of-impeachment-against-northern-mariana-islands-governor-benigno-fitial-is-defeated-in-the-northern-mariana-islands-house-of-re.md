@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/17/a-resolution-of-impeachment-against-northern-ma
 
 ### [2012-10-17](/news/2012/10/17/index.md)
 
-##### impeachment
+##### Impeachment
 # A resolution of impeachment against Northern Mariana Islands Governor Benigno Fitial is defeated in the Northern Mariana Islands House of Representatives with 9 votes in favor of impeachment, 10 against; 14 were required. 
 
 

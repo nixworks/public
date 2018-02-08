@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/15/a-weapons-depot-near-tirana-albania-is-hit-by-m
 
 ### [2008-03-15](/news/2008/03/15/index.md)
 
-##### weapon
+##### Weapon
 #  A weapons depot near Tirana, Albania is hit by multiple explosions, killing at least 11 people and injuring around 300. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/9/the-euro-reaches-a-new-record-high-against-the-u
 
 ### [2004-11-9](/news/2004/11/9/index.md)
 
-##### euro
+##### Euro
 #  The euro reaches a new record high against the United States dollar, valued at more than $1.30. Concerns over the U.S. trade deficit, the $427 billion budget deficit and $166 billion current account deficit are thought to be behind the dollar's recent losses. 
 
 

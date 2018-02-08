@@ -9,11 +9,11 @@ _Context: Adrienne Rich_
 
 ##### Spain
 ### [Workers in Spain commence a general strike over government austerity measures. ](/news/2012/03/29/workers-in-spain-commence-a-general-strike-over-government-austerity-measures.md)
-_Context: Spain, general strike_
+_Context: general strike, Spain_
 
-##### petrol stations
+##### Petrol stations
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
-_Context: United Kingdom, 10 Downing Street, petrol stations_
+_Context: petrol stations, United Kingdom, 10 Downing Street_
 
 ##### Smart phone
 ### [Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report. ](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.md)
@@ -25,7 +25,7 @@ At least 13 people have died in a riot and fire at a Honduran prison, officials 
 
 ##### Brazil
 ### [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md)
-_Context: Russia, 2012 BRICS summit, New Delhi, India, South Africa, Brazil, China_
+_Context: China, 2012 BRICS summit, New Delhi, South Africa, Brazil, India, Russia_
 
 ##### Bologna
 ### [Two Italians set themselves on fire in Bologna and Verona. ](/news/2012/03/29/two-italians-set-themselves-on-fire-in-bologna-and-verona.md)
@@ -41,15 +41,15 @@ A Palestinian woman held in detention in Israel, Hana Shalabi, is ending her 43-
 
 ##### Sten Tolgfors
 ### [Sten Tolgfors resigns as Swedish Minister for Defence due to allegations that he knew about plans to assist Saudi Arabia build a weapons plant. ](/news/2012/03/29/sten-tolgfors-resigns-as-swedish-minister-for-defence-due-to-allegations-that-he-knew-about-plans-to-assist-saudi-arabia-build-a-weapons-pla.md)
-_Context: Sten Tolgfors, Saudi Arabia, Swedish Minister for Defence_
+_Context: Saudi Arabia, Swedish Minister for Defence, Sten Tolgfors_
 
 ##### Iranian-born
 ### [Iranian-born Israeli politician Shaul Mofaz is elected as leader of the Kadima party and Israel's leader of opposition. ](/news/2012/03/29/iranian-born-israeli-politician-shaul-mofaz-is-elected-as-leader-of-the-kadima-party-and-israel-s-leader-of-opposition.md)
-_Context: Iranian-born, Kadima, Israel, leader of opposition, Shaul Mofaz, elected_
+_Context: Shaul Mofaz, elected, leader of opposition, Iranian-born, Kadima, Israel_
 
 ##### George Galloway
 ### [George Galloway of the Respect Party wins the United Kingdom House of Commons constituency of Bradford West in a by-election. ](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.md)
-_Context: Respect, George Galloway, constituency, by-election, United Kingdom House of Commons, Bradford West_
+_Context: Bradford West, United Kingdom House of Commons, constituency, by-election, Respect, George Galloway_
 
 ##### 10 Downing Street
 ### [The UK government says that viaspan, a solution used to preserve some donor organs, could be contaminated with bacteria after routine tests detected "Bacillus cereus" in the solution used to test the sterility of viaspan. ](/news/2012/03/29/the-uk-government-says-that-viaspan-a-solution-used-to-preserve-some-donor-organs-could-be-contaminated-with-bacteria-after-routine-tests.md)

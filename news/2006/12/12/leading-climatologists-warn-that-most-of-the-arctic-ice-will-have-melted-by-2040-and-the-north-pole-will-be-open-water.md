@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/12/leading-climatologists-warn-that-most-of-the-ar
 
 ### [2006-12-12](/news/2006/12/12/index.md)
 
-##### climate science
+##### Climate science
 #  Leading climatologists warn that most of the Arctic ice will have melted by 2040 and the North Pole will be open water. 
 
 News and opinion from The Times &amp; The Sunday Times

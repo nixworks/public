@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/30/heavy-flooding-in-the-south-of-france-claims-fi
 
 ### [2014-11-30](/news/2014/11/30/index.md)
 
-##### south of France
+##### South of France
 # Heavy flooding in the south of France claims five lives and forces more than 3000 people to leave their homes. 
 
 The worst flooding in years in southern France has claimed five lives and forced more than 3,000 people to evacuate their homes, officials said Sunday.

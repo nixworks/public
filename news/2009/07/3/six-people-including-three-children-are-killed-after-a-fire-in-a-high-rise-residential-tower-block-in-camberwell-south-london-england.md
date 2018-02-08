@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/3/six-people-including-three-children-are-killed-a
 
 ### [2009-07-3](/news/2009/07/3/index.md)
 
-##### killed after a fire
+##### Killed after a fire
 #  Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. 
 
 

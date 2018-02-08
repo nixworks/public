@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/27/a-suspected-u-s-drone-fired-missiles-at-a-house
 
 ### [2010-09-27](/news/2010/09/27/index.md)
 
-##### drones launch
+##### Drones launch
 # A suspected U.S. drone fired missiles at a house in northwestern Pakistan in Khushali, a village near Mir Ali, killing four people. 
 
 

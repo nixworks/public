@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/04/7/attack-submarine-ex-trepang-completes-being-recy
 
 ### [2000-04-7](/news/2000/04/7/index.md)
 
-##### ex-Trepang
+##### Ex-Trepang
 #  Attack submarine ex-Trepang completes being recycled.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/7/a-seven-day-gay-pride-festival-is-held-for-the-f
 
 ### [2009-06-7](/news/2009/06/7/index.md)
 
-##### gay pride
+##### Gay pride
 #  A seven-day gay pride festival is held for the first time in Shanghai, China. 
 
 

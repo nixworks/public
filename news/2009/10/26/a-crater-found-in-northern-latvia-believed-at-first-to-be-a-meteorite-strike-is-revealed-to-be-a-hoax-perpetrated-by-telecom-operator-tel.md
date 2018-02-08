@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/26/a-crater-found-in-northern-latvia-believed-at-f
 
 ### [2009-10-26](/news/2009/10/26/index.md)
 
-##### crater
+##### Crater
 #  A crater found in northern Latvia, believed at first to be a meteorite strike, is revealed to be a hoax perpetrated by telecom operator Tele2. 
 
 

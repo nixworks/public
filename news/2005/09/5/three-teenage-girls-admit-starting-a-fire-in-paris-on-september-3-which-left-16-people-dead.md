@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/5/three-teenage-girls-admit-starting-a-fire-in-par
 
 ### [2005-09-5](/news/2005/09/5/index.md)
 
-##### teenage
+##### Teenage
 #  Three teenage girls admit starting a fire in Paris on September 3 which left 16 people dead. 
 
 

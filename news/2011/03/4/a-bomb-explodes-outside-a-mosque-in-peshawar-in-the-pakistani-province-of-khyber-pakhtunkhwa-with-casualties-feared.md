@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/4/a-bomb-explodes-outside-a-mosque-in-peshawar-in-
 
 ### [2011-03-4](/news/2011/03/4/index.md)
 
-##### bomb
+##### Bomb
 # A bomb explodes outside a mosque in Peshawar in the Pakistani province of Khyber-Pakhtunkhwa with casualties feared. 
 
 

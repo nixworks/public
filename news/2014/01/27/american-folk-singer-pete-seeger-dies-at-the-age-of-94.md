@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/27/american-folk-singer-pete-seeger-dies-at-the-ag
 
 ### [2014-01-27](/news/2014/01/27/index.md)
 
-##### folk singer
+##### Folk singer
 # American folk singer Pete Seeger dies at the age of 94. 
 
 

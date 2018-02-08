@@ -13,13 +13,13 @@ _Context: United States_
 
 ##### India
 ### [ India's government locks down Srinagar, Kashmir, to prevent anti-election protests. ](/news/2009/04/29/india-s-government-locks-down-srinagar-kashmir-to-prevent-anti-election-protests.md)
-_Context: India, Srinagar, becomes, protest, Kashmir, locks down, Government of India_
+_Context: becomes, Kashmir, India, Government of India, Srinagar, locks down, protest_
 
 ##### Australia
 ### [ Australia announces the deployment of 450 additional soldiers to the Afghanistan War. ](/news/2009/04/29/australia-announces-the-deployment-of-450-additional-soldiers-to-the-afghanistan-war.md)
-_Context: War in Afghanistan (2001-present), Afghanistan, Defence Force, Australia, deployment_
+_Context: Afghanistan, deployment, War in Afghanistan (2001-present), Australia, Defence Force_
 
-##### military
+##### Military
 ### [ The Armed Forces kill more than 50 Taliban militants while capturing Daggar, Buner Valley. ](/news/2009/04/29/the-armed-forces-kill-more-than-50-taliban-militants-while-capturing-daggar-buner-valley.md)
 Pakistani troops took the main town in strategically important Buner Valley on Wednesday after dropping by helicopter behind Taliban lines, killing more than 50 militants in two days, the military said.
 

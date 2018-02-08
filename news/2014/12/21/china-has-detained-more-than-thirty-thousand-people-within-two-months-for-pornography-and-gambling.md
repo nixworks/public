@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/21/china-has-detained-more-than-thirty-thousand-pe
 
 ### [2014-12-21](/news/2014/12/21/index.md)
 
-##### pornography
+##### Pornography
 # China has detained more than thirty thousand people within two months for pornography and gambling. 
 
 China has detained over 30,000 people during a two-month clamp down on pornography and gambling, state news agency Xinhua reported on Sunday.

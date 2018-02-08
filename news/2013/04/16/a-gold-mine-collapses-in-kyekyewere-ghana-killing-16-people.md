@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killi
 
 ### [2013-04-16](/news/2013/04/16/index.md)
 
-##### gold mine
+##### Gold mine
 # A gold mine collapses in Kyekyewere, Ghana, killing 16 people. 
 
 

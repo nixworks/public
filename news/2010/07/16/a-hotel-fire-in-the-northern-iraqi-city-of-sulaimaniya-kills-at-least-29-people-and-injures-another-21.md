@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/16/a-hotel-fire-in-the-northern-iraqi-city-of-sula
 
 ### [2010-07-16](/news/2010/07/16/index.md)
 
-##### hotel
+##### Hotel
 # A hotel fire in the northern Iraqi city of Sulaimaniya kills at least 29 people and injures another 21. 
 
 Foreigners among at least 29 dead as fire engulfs hotel in Kurdish city of Sulaymaniyah.

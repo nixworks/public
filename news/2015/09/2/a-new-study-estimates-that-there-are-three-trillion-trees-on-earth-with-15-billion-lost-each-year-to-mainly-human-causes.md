@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/2/a-new-study-estimates-that-there-are-three-trill
 
 ### [2015-09-2](/news/2015/09/2/index.md)
 
-##### tree
+##### Tree
 # A new study estimates that there are three trillion trees on Earth, with 15 billion lost each year to mainly human causes. 
 
 New research estimates there are 3 trillion trees on Earth, significantly more than previously thought, but humans are removing 15 billion a year.

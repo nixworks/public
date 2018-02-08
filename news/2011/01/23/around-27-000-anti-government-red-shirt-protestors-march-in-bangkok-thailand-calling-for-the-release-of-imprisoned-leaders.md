@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/23/around-27-000-anti-government-red-shirt-protest
 
 ### [2011-01-23](/news/2011/01/23/index.md)
 
-##### red shirt
+##### Red shirt
 # Around 27,000 anti-government red shirt protestors march in Bangkok, Thailand, calling for the release of imprisoned leaders. 
 
 

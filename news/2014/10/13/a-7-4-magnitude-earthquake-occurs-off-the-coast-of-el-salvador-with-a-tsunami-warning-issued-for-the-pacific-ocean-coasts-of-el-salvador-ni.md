@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/13/a-7-4-magnitude-earthquake-occurs-off-the-coast
 
 ### [2014-10-13](/news/2014/10/13/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.4 magnitude earthquake occurs off the coast of El Salvador with a tsunami warning issued for the Pacific Ocean coasts of El Salvador, Nicaragua and Honduras. 
 
 A magnitude 7.3 earthquake struck late on Monday off the coast of El Salvador and Nicaragua and was felt across Central America, killing at least one person, but there were no immediate reports of major damage.

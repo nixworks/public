@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/1/two-missionaries-from-the-united-states-are-foun
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
-##### missionaries
+##### Missionaries
 # Two missionaries from the United States are found slain in separate areas of rural St. Mary parish in Jamaica. Randy Hentzel and Harold Nichols both worked for a Pennsylvania-based Christian charity called Teams for Medical Missions. 
 
 Battered bodies of the two men were found in bushes in separate areas in rural Jamaica

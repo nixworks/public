@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/20/at-least-four-students-are-killed-and-many-inju
 
 ### [2009-10-20](/news/2009/10/20/index.md)
 
-##### bomb explosions
+##### Bomb explosions
 #  At least four students are killed and many injured in bomb explosions at an Islamic university in Islamabad, Pakistan. 
 
 

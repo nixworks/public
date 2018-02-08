@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/19/an-under-construction-shopping-mall-collapses-i
 
 ### [2013-11-19](/news/2013/11/19/index.md)
 
-##### shopping mall
+##### Shopping mall
 # An under construction shopping mall collapses in the South African town of Tongaat, KwaZulu-Natal, with 50 people trapped and at least one person dead. 
 
 One person has died and as many as 50 workers are feared trapped after the roof of an under-construction mall collapsed near the South African city of Durban.

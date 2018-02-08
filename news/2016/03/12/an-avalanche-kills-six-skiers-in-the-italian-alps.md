@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/12/an-avalanche-kills-six-skiers-in-the-italian-al
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
-##### avalanche
+##### Avalanche
 # An avalanche kills six skiers in the Italian Alps. 
 
 An avalanche killed six skiers in the Italian Alps on Saturday, making it one of the deadliest to hit the area in many years, a fire department spokeswoman said.

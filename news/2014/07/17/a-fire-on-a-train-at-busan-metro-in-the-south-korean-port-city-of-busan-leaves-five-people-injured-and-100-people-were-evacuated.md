@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/17/a-fire-on-a-train-at-busan-metro-in-the-south-k
 
 ### [2014-07-17](/news/2014/07/17/index.md)
 
-##### train
+##### Train
 # A fire on a train at Busan Metro in the South Korean port city of Busan leaves five people injured and 100 people were evacuated. 
 
 

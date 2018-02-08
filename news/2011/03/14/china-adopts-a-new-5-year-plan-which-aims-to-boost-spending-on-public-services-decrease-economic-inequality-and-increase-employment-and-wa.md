@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/14/china-adopts-a-new-5-year-plan-which-aims-to-bo
 
 ### [2011-03-14](/news/2011/03/14/index.md)
 
-##### new 5-year plan
+##### New 5-year plan
 # China adopts a new 5-year plan which aims to boost spending on public services, decrease economic inequality, and increase employment and wages. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somal
 
 ### [2007-01-13](/news/2007/01/13/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Martial law is declared in Somalia. 
 
 

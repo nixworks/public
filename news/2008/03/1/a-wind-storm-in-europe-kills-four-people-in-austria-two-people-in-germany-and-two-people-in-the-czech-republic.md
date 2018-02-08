@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/1/a-wind-storm-in-europe-kills-four-people-in-aust
 
 ### [2008-03-1](/news/2008/03/1/index.md)
 
-##### wind storm
+##### Wind storm
 #  A wind storm in Europe kills four people in Austria, two people in Germany, and two people in the Czech Republic. 
 
 

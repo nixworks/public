@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/7/at-least-21-people-are-killed-in-a-gun-attack-on
 
 ### [2012-08-7](/news/2012/08/7/index.md)
 
-##### attack
+##### Attack
 # At least 21 people are killed in a gun attack on a church and later an Army patrol near the city of Okene in Kogi state, central Nigeria. 
 
 Two gunmen sprayed the windowless sanctuary Monday night with fire from Kalashnikov assault rifles, said Lt. Col. Gabriel Olorunyomi, the head of a local joint army and police unit.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/17/a-referendum-was-held-in-osaka-japan-to-mandate
 
 ### [2015-05-17](/news/2015/05/17/index.md)
 
-##### referendum
+##### Referendum
 #  A referendum was held in Osaka, Japan to mandate the implementation of the Osaka Metropolis plan. The proposal was defeated by 50.38% to 49.62%. Osaka Mayor Toru Hashimoto announced retirement from politics by the end of his term in December 2015. 
 
 Osaka voters rejected a referendum proposal Sunday to merge the city into five semi-autonomous wards, dealing a crippling blow to Mayor Toru Hashimoto. “I

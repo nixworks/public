@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/28/iranian-canadian-blogger-hossein-derakhshan-the
 
 ### [2010-09-28](/news/2010/09/28/index.md)
 
-##### blog
+##### Blog
 # Iranian-Canadian blogger Hossein Derakhshan, the founder of one of the first Farsi-language blogs, is sentenced to 19 years imprisonment in an Iranian court for "anti-state activity". 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/11/a-truck-bomb-at-a-military-outpost-in-wardak-pr
 
 ### [2011-09-11](/news/2011/09/11/index.md)
 
-##### car bomb
+##### Car bomb
 # A truck bomb at a military outpost in Wardak Province, Afghanistan, kills several civilians. 
 
 

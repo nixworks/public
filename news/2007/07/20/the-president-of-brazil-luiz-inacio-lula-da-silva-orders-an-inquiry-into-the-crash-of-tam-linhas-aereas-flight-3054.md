@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/20/the-president-of-brazil-luiz-inacio-lula-da-sil
 
 ### [2007-07-20](/news/2007/07/20/index.md)
 
-##### president
+##### President
 #  The President of Brazil Luiz Incio Lula da Silva orders an inquiry into the crash of TAM Linhas Areas Flight 3054. 
 
 

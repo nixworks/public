@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/7/aid-agencies-warn-of-renewed-violence-in-souther
 
 ### [2010-01-7](/news/2010/01/7/index.md)
 
-##### renewed violence
+##### Renewed violence
 # Aid agencies warn of renewed violence in Southern Sudan unless there are attempts to save the 2005 peace agreement, as 140 people are killed in ethnic clashes. 
 
 

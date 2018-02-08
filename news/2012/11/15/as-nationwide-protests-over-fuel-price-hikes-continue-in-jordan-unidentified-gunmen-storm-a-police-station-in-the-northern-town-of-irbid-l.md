@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/15/as-nationwide-protests-over-fuel-price-hikes-co
 
 ### [2012-11-15](/news/2012/11/15/index.md)
 
-##### protests over fuel price hikes
+##### Protests over fuel price hikes
 # As nationwide protests over fuel price hikes continue in Jordan, unidentified gunmen storm a police station in the northern town of Irbid, leading to the fatal shooting of 22-year-old civilian, and injuries to 13 police officers and 4 protesters. Protests and sporadic looting are reported from Al Karak, Salt and Madaba. 
 
 Police stations come under fire as anger grows over fuel price hikes in the kingdom.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/28/seventeen-people-are-killed-by-tornadoes-after-
 
 ### [2014-04-28](/news/2014/04/28/index.md)
 
-##### tornado
+##### Tornado
 # Seventeen people are killed by tornadoes after a huge storm system sweeps across the central and southern United States. 
 
 

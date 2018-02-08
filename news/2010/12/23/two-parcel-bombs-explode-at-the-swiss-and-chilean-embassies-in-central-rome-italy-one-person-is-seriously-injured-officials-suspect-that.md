@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/23/two-parcel-bombs-explode-at-the-swiss-and-chile
 
 ### [2010-12-23](/news/2010/12/23/index.md)
 
-##### parcel bomb
+##### Parcel bomb
 # Two parcel bombs explode at the Swiss and Chilean embassies in central Rome, Italy. One person is seriously injured. Officials suspect that the perpetrators are from an Italian anarchist group. 
 
 A package bomb exploded at the Swiss embassy in Rome on Thursday, seriously wounding one, according to reports. The Italian interior ministry ...

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/13/thirty-four-refugees-including-four-babies-and-
 
 ### [2015-09-13](/news/2015/09/13/index.md)
 
-##### refugees
+##### Refugees
 # Thirty-four refugees, including four babies and 11 children, drown in the Aegean Sea when their wooden boat sinks off the Greek island of Farmakonissi, close to Turkey's coast. 
 
 Thirty-four refugees, almost half of them babies and children, drowned when their boat sank off a Greek island on Sunday, almost certainly the largest death toll in those waters since the migrant crisis began, the coastguard said.

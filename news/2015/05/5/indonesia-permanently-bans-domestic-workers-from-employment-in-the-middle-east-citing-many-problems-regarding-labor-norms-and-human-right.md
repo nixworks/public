@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/5/indonesia-permanently-bans-domestic-workers-from
 
 ### [2015-05-5](/news/2015/05/5/index.md)
 
-##### domestic workers
+##### Domestic workers
 # Indonesia permanently bans domestic workers from employment in the Middle East citing "many problems" regarding "labor norms and human rights violations". 
 
 Jakarta angry over the recent execution of two Indonesian women found guilty of murder in Saudi Arabia

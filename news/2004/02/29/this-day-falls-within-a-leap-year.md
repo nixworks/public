@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/29/this-day-falls-within-a-leap-year.html)  [JSON]
 
 ### [2004-02-29](/news/2004/02/29/index.md)
 
-##### leap year
+##### Leap year
 #  This day falls within a leap year.
 
 

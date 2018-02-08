@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/31/east-african-artifacts-support-evolution-of-sym
 
 ### [2004-03-31](/news/2004/03/31/index.md)
 
-##### ancient artifacts
+##### Ancient artifacts
 #  East African artifacts support evolution of symbolic thinking in Middle Stone Age. 
 
 New finds from an open-air archaeological site in the Serengeti National Park in Tanzania have intriguing implications for the evolution of modern human behavior, including further indications that symbolic thinking developed in humans earlier than the currently accepted date of about 35,000 years ago. 

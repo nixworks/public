@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/21/the-remains-of-a-pyramid-for-an-adviser-to-phar
 
 ### [2013-02-21](/news/2013/02/21/index.md)
 
-##### pyramid
+##### Pyramid
 # The remains of a pyramid for an adviser to Pharaoh Ramses II is found in an archaeological excavation in Luxor, Egypt. 
 
 A pyramid that dates back more than 3000 years and was built for an adviser to King Ramses II has been discovered in Luxor.

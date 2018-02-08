@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/7/state-prosecutors-launch-a-criminal-investigatio
 
 ### [2007-12-7](/news/2007/12/7/index.md)
 
-##### systematic food safety irregularities
+##### Systematic food safety irregularities
 #  State prosecutors launch a criminal investigation after systematic food safety irregularities were revealed at ICA, the leading grocery store chain in Sweden. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/13/al-qaeda-s-leader-ayman-al-zawahiri-calls-for-a
 
 ### [2013-09-13](/news/2013/09/13/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Al-Qaeda's leader Ayman al-Zawahiri calls for attacks inside United States to "bleed America economically". 
 
 Al Qaeda leader Ayman al-Zawahri urged small-scale attacks inside the United States to &quot;bleed America economically&quot;, adding he hoped eventually to see a more significant strike, according to the SITE monitoring service.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/14/tear-gas-is-used-to-control-a-riot-by-asylum-se
 
 ### [2011-03-14](/news/2011/03/14/index.md)
 
-##### tear gas
+##### Tear gas
 # Tear gas is used to control a riot by asylum seekers at the Christmas Island Immigration Detention Centre on Christmas Island off the coast of Australia. 
 
 

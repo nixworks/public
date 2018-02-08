@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/27/in-germany-a-rare-tornado-kills-two-and-leaves-
 
 ### [2006-03-27](/news/2006/03/27/index.md)
 
-##### tornado
+##### Tornado
 #  In Germany, a rare tornado kills two and leaves more than 300,000 people without electricity. 
 
 

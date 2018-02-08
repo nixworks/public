@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-t
 
 ### [2011-08-17](/news/2011/08/17/index.md)
 
-##### sexual assault
+##### Sexual assault
 # Three sexual assault cases are lodged against the Roman Catholic Archdiocese of Miami. 
 
 

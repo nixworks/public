@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/5/with-more-than-1000-people-dead-or-missing-devas
 
 ### [2004-12-5](/news/2004/12/5/index.md)
 
-##### agriculture
+##### Agriculture
 #  With more than 1000 people dead or missing, devastation in the northern agricultural regions, and damaged infrastructure after Monday's storm and Thursday's Typhoon Nanmadol, Philippines President Gloria Macapagal-Arroyo suspends logging and pledges to prosecute violators. 
 
 

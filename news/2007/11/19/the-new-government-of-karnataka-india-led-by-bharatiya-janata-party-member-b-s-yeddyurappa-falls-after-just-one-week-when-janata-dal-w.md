@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/19/the-new-government-of-karnataka-india-led-by-bh
 
 ### [2007-11-19](/news/2007/11/19/index.md)
 
-##### government
+##### Government
 #  The new government of Karnataka, India, led by Bharatiya Janata Party member B. S. Yeddyurappa, falls after just one week when Janata Dal withdraws support. 
 
 

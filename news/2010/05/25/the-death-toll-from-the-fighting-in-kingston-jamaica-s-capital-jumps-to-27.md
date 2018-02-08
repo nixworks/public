@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/25/the-death-toll-from-the-fighting-in-kingston-ja
 
 ### [2010-05-25](/news/2010/05/25/index.md)
 
-##### recent violence
+##### Recent violence
 # The death toll from the fighting in Kingston, Jamaica's capital, jumps to 27. 
 
 At least 27 people, mostly civilians, die in gun battles in Jamaica, as the hunt continues for a suspected drug lord.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/19/approximately-107-people-are-charged-with-posse
 
 ### [2010-12-19](/news/2010/12/19/index.md)
 
-##### child pornography
+##### Child pornography
 # Approximately 107 people are charged with possessing offensive child pornography in Austria. 
 
 More than 100 people are charged with child sex abuse offences in Austria after police seize material from computers across the country.

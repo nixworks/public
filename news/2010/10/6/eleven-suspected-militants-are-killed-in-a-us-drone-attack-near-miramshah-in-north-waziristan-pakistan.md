@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/6/eleven-suspected-militants-are-killed-in-a-us-dr
 
 ### [2010-10-6](/news/2010/10/6/index.md)
 
-##### drones launch
+##### Drones launch
 # Eleven suspected militants are killed in a US drone attack near Miramshah in North Waziristan, Pakistan. 
 
 

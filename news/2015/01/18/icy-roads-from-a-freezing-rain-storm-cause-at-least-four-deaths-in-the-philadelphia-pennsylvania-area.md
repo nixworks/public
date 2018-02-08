@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/18/icy-roads-from-a-freezing-rain-storm-cause-at-l
 
 ### [2015-01-18](/news/2015/01/18/index.md)
 
-##### freezing-rain
+##### Freezing-rain
 # Icy roads from a freezing-rain storm cause at least four deaths in the Philadelphia, Pennsylvania area. 
 
 At least three people are dead after multi-vehicle accidents due to icy roads in Pennsylvania.

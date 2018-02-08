@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/7/some-arab-scholars-state-bush-s-speech-over-how-
 
 ### [2003-11-7](/news/2003/11/7/index.md)
 
-##### democratic
+##### Democratic
 #  Some Arab scholars state Bush's speech over how ""Western governments should not back undemocratic regimes"" is an important message to the Arab political elite and important message when it comes to the idea of democracy.
 
 

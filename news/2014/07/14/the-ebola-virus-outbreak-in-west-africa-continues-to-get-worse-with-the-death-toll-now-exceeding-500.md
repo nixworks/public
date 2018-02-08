@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/14/the-ebola-virus-outbreak-in-west-africa-continu
 
 ### [2014-07-14](/news/2014/07/14/index.md)
 
-##### ebola virus
+##### Ebola virus
 # The ebola virus outbreak in West Africa continues to get worse with the death toll now exceeding 500. 
 
 

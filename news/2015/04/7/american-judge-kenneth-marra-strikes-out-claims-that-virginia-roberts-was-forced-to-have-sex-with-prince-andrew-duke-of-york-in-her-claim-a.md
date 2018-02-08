@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/7/american-judge-kenneth-marra-strikes-out-claims-
 
 ### [2015-04-7](/news/2015/04/7/index.md)
 
-##### judge
+##### Judge
 # American judge Kenneth Marra strikes out claims that Virginia Roberts was forced to have sex with Prince Andrew, Duke of York in her claim against Jeffrey Epstein. 
 
 Claims that a woman was forced to have sex with Prince Andrew when she was 17 are to be struck from the record of a civil case in the US, a judge says.

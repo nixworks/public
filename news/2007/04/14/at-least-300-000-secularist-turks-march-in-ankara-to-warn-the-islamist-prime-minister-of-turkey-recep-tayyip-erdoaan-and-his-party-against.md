@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/14/at-least-300-000-secularist-turks-march-in-anka
 
 ### [2007-04-14](/news/2007/04/14/index.md)
 
-##### secularist
+##### Secularist
 #  At least 300,000 secularist Turks march in Ankara to warn the Islamist Prime Minister of Turkey Recep Tayyip Erdogan and his party against seeking the presidency. 
 
 

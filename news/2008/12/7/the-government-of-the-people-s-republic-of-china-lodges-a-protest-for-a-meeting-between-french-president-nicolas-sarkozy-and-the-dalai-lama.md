@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/7/the-government-of-the-people-s-republic-of-china
 
 ### [2008-12-7](/news/2008/12/7/index.md)
 
-##### government
+##### Government
 #  The government of the People's Republic of China lodges a protest for a meeting between French President Nicolas Sarkozy and the Dalai Lama in Poland. 
 
 

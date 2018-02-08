@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/5/at-least-174-people-are-dead-and-1-5-million-hom
 
 ### [2010-12-5](/news/2010/12/5/index.md)
 
-##### flood
+##### Flood
 # At least 174 people are dead and 1.5 million homeless following floods in Colombia. 
 
 The death toll from weeks of heavy rains across Colombia has risen to 174 and over 1.5 million are now homeless, the Colombian Red Cross has said.

@@ -19,15 +19,15 @@ Three people remain in critical condition after an alleged firebomb attack on th
 ### [At least seven people have been killed in the Bangli Regency of Bali after a landslide caused by torrential rain. ](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-bangli-regency-of-bali-after-a-landslide-caused-by-torrential-rain.md)
 At least 12 people are dead after a landslide in Bali overnight that wiped out several homes.
 
-##### pilot whales
+##### Pilot whales
 ### [Volunteers are working to save the remaining live pilot whales beached at Farewell Spit on New Zealand's South Island. Project Jonah reports that 75 percent of the more than 400 stranded whales are dead. ](/news/2017/02/10/volunteers-are-working-to-save-the-remaining-live-pilot-whales-beached-at-farewell-spit-on-new-zealand-s-south-island-project-jonah-reports.md)
 Hundreds of volunteers in New Zealand have formed a human chain as they try to save hundreds of pilot whales beached there.
 
-##### magnitude
+##### Magnitude
 ### [A 6.5 magnitude earthquake strikes 14 kilometers (8 miles) northwest of Surigao City on the Philippines island of Mindanao and kills four people, injures more than 100 others, and damages multiple buildings. ](/news/2017/02/10/a-6-5-magnitude-earthquake-strikes-14-kilometers-8-miles-northwest-of-surigao-city-on-the-philippines-island-of-mindanao-and-kills-four-pe.md)
 A 6.5-magnitude earthquake shook the southern Philippines on Friday, sending panicked residents fleeing from their homes, knocking out power and causing at least one building to collapse.
 
-##### stampede
+##### Stampede
 ### [At least 17 people are killed with dozens injured in a crowd stampede at a football stadium in Uige, Angola. ](/news/2017/02/10/at-least-17-people-are-killed-with-dozens-injured-in-a-crowd-stampede-at-a-football-stadium-in-uage-angola.md)
 JOHANNESBURG (AP) — A crowd stampeded at a football stadium in Angola on Friday, leaving at least 17 people dead and dozens injured. The accident happened in the northwestern town of Uige when hundreds of people rushed…
 
@@ -45,7 +45,7 @@ Major funding commitment to help ‘virtually bankrupt’ country shake off lega
 
 ##### Peru
 ### [A judge in Peru issues an arrest warrant for former President Alejandro Toledo for allegedly receiving US$20 million in bribes from Odebrecht, a Brazilian construction company, in exchange for a contract deal to build a transoceanic highway between Brazil and the Peruvian coast. Toledo denies any wrongdoing. ](/news/2017/02/10/a-judge-in-peru-issues-an-arrest-warrant-for-former-president-alejandro-toledo-for-allegedly-receiving-us-20-million-in-bribes-from-odebrech.md)
-_Context: Peru, Alejandro Toledo, Brazil, Odebrecht, $, bribes, President_
+_Context: $, President, Peru, Brazil, bribes, Alejandro Toledo, Odebrecht_
 
 ##### Cabinet of Donald Trump
 ### [The United States Senate, in a 52 to 47 vote, confirms physician and U.S. Representative Tom Price to be Secretary of Health and Human Services. ](/news/2017/02/10/the-united-states-senate-in-a-52-to-47-vote-confirms-physician-and-u-s-representative-tom-price-to-be-secretary-of-health-and-human-servi.md)

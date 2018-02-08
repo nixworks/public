@@ -9,17 +9,17 @@ Michael Mukasey collapsed while giving a speech to the Federalist Society in Was
 
 ##### Sweden
 ### [ The Swedish Parliament ratifies the Treaty of Lisbon. ](/news/2008/11/20/the-swedish-parliament-ratifies-the-treaty-of-lisbon.md)
-_Context: Treaty of Lisbon, Riksdag, Sweden_
+_Context: Treaty of Lisbon, Sweden, Riksdag_
 
 ##### NASA
 ### [ NASA's Mars Reconnaissance Orbiter discovers evidence of enormous underground deposits of water ice on Mars; one such deposit, under Hellas Planitia, is estimated to be the size of Los Angeles. ](/news/2008/11/20/nasa-s-mars-reconnaissance-orbiter-discovers-evidence-of-enormous-underground-deposits-of-water-ice-on-mars-one-such-deposit-under-hellas.md)
-_Context: ice, Los Angeles, Mars, NASA, Hellas Planitia, Mars Reconnaissance Orbiter, water, underground deposits_
+_Context: Mars, Hellas Planitia, underground deposits, Los Angeles, Mars Reconnaissance Orbiter, water, NASA, ice_
 
-##### global crisis
+##### Global crisis
 ### [ Automotive industry crisis: Executives of the top three U.S. automakers (Ford Motor Company, General Motors, and Chrysler) testify before Congress for a bailout package. ](/news/2008/11/20/automotive-industry-crisis-executives-of-the-top-three-u-s-automakers-ford-motor-company-general-motors-and-chrysler-testify-before-c.md)
-_Context: lawmakers, automakers, General Motors, Ford Motor Company, Chrysler, global crisis_
+_Context: global crisis, Ford Motor Company, Chrysler, General Motors, automakers, lawmakers_
 
-##### yellow shirt
+##### Yellow shirt
 ### [ At least one person is dead and twenty injured after a bomb is thrown into a People's Alliance for Democracy protest compound in Bangkok, Thailand. ](/news/2008/11/20/at-least-one-person-is-dead-and-twenty-injured-after-a-bomb-is-thrown-into-a-people-s-alliance-for-democracy-protest-compound-in-bangkok-t.md)
 At least one person has died in Bangkok after a bomb was thrown into a compound full of anti-government protesters.
 
@@ -27,7 +27,7 @@ At least one person has died in Bangkok after a bomb was thrown into a compound 
 ### [ The Russian Navy announces that it will deploy more warships in the Gulf of Aden to curb piracy. ](/news/2008/11/20/the-russian-navy-announces-that-it-will-deploy-more-warships-in-the-gulf-of-aden-to-curb-piracy.md)
 _Context: Gulf of Aden, Russian Navy, Russia_
 
-##### military base at Guantanamo Bay
+##### Military base at Guantanamo Bay
 ### [ Five Guantnamo Bay detainees who successfully argued "Boumediene v. Bush" before the Supreme Court are ordered freed by Judge Richard J. Leon of the District Court for Washington, D.C. ](/news/2008/11/20/five-guantanamo-bay-detainees-who-successfully-argued-boumediene-v-bush-before-the-supreme-court-are-ordered-freed-by-judge-richard-j-l.md)
 A federal judge ordered the release of five Algerian men held at Guantánamo Bay for nearly seven years.
 

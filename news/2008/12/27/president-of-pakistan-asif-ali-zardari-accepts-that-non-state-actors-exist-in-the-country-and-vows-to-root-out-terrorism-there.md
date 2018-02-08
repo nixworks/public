@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/27/president-of-pakistan-asif-ali-zardari-accepts-
 
 ### [2008-12-27](/news/2008/12/27/index.md)
 
-##### president
+##### President
 #  President of Pakistan Asif Ali Zardari accepts that "non-state actors" exist in the country and vows to root out terrorism there. 
 
 

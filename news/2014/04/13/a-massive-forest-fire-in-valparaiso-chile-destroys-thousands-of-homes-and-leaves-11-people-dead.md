@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/13/a-massive-forest-fire-in-valparaiso-chile-destr
 
 ### [2014-04-13](/news/2014/04/13/index.md)
 
-##### forest fire
+##### Forest fire
 # A massive forest fire in Valparaso, Chile destroys thousands of homes and leaves 11 people dead. 
 
 

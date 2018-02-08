@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-sa
 
 ### [2010-09-19](/news/2010/09/19/index.md)
 
-##### cult
+##### Cult
 # Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. 
 
 

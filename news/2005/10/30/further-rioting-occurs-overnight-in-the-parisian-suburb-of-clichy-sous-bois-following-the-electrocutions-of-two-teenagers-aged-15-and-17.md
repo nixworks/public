@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/30/further-rioting-occurs-overnight-in-the-parisia
 
 ### [2005-10-30](/news/2005/10/30/index.md)
 
-##### rioting
+##### Rioting
 #  Further rioting occurs overnight in the Parisian suburb of Clichy-sous-Bois following the electrocutions of two teenagers, aged 15 and 17, and a third teenager suffering severe burns when they entered a substation whilst fleeing police. Rioters attacked police and journalists. Critics allege that the teenagers were targeted because they were Muslim, though this claim has been denied by French Interior Minister Nicolas Sarkozy. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

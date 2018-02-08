@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/30/the-oil-spill-resulting-from-the-explosion-of-t
 
 ### [2010-04-30](/news/2010/04/30/index.md)
 
-##### oil spill
+##### Oil spill
 # The oil spill resulting from the explosion of the "Deepwater Horizon" drilling rig in the Gulf of Mexico reaches the Louisiana coast. 
 
 

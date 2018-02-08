@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/16/a-commuter-in-zimbabwe-who-allegedly-insulted-p
 
 ### [2004-12-16](/news/2004/12/16/index.md)
 
-##### commuter
+##### Commuter
 #  A commuter in Zimbabwe who allegedly insulted President Robert Mugabe could face up to five years in prison for undermining the president's authority. 
 
 

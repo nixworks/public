@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/6/a-mass-shooting-at-an-international-house-of-pan
 
 ### [2011-09-6](/news/2011/09/6/index.md)
 
-##### mass shooting
+##### Mass shooting
 # A mass shooting at an International House of Pancakes restaurant in Carson City, Nevada (U.S.A.) leaves four dead, including the shooter, and six wounded. 
 
 

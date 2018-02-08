@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/11/a-gunman-kills-two-people-and-commits-suicide-n
 
 ### [2009-05-11](/news/2009/05/11/index.md)
 
-##### kills
+##### Kills
 #  A gunman kills two people and commits suicide near Oslo, Norway. 
 
 

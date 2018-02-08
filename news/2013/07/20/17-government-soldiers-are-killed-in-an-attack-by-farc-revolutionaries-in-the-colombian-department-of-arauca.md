@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/20/17-government-soldiers-are-killed-in-an-attack-
 
 ### [2013-07-20](/news/2013/07/20/index.md)
 
-##### an attack
+##### An attack
 # 17 government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca. 
 
 

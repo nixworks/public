@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/14/india-hangs-convicted-rapist-and-murderer-dhana
 
 ### [2004-08-14](/news/2004/08/14/index.md)
 
-##### death by hanging
+##### Death by hanging
 #  India hangs convicted rapist and murderer Dhananjoy Chatterjee at dawn in Alipore jail, Kolkata &ndash; the country's first execution in nine years. 
 
 

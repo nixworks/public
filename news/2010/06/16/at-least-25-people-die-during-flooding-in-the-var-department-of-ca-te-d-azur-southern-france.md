@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/16/at-least-25-people-die-during-flooding-in-the-v
 
 ### [2010-06-16](/news/2010/06/16/index.md)
 
-##### flooding
+##### Flooding
 # At least 25 people die during flooding in the Var department of Cote d'Azur, Southern France. 
 
 Flash floods in south-eastern France leave at least 19 people dead and hundreds of homes flooded, officials say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/28/the-heads-of-government-of-the-commonwealth-of-
 
 ### [2011-10-28](/news/2011/10/28/index.md)
 
-##### heads of government
+##### Heads of government
 # The heads of government of the Commonwealth of Nations meet in the Western Australian city of Perth. 
 
 Behind the scenes at the Commonwealth Heads of Government Meeting in Perth there is disquiet amongst some members about the lack of will to reform the organisation. The Eminent Person&#039;s group recommendation to set up a Commissioner for Democracy, Human Rights and the Rule of Law has received scant support.

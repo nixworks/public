@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/3/two-more-people-have-died-as-protests-against-th
 
 ### [2005-11-3](/news/2005/11/3/index.md)
 
-##### government of Ethiopia
+##### Government of Ethiopia
 #  Two more people have died as protests against the government of Ethiopia continue in Addis Ababa. 
 
 

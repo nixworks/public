@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/11/as-the-united-states-remembers-the-deadliest-te
 
 ### [2003-09-11](/news/2003/09/11/index.md)
 
-##### terrorist attack
+##### Terrorist attack
 #  As the United States remembers the deadliest terrorist attack ever on its shores, the United States Department of State warns it is seeing "increasing indications that al-Qaeda is preparing to strike United States interests abroad" and urges citizens overseas to take special caution on the second anniversary of the September 11 attacks amid growing indications that al-Qaeda is planning bigger attacks, "possibly involving unconventional weapons such as chemical or biological agents."
 
 

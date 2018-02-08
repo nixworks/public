@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/21/a-senior-french-police-source-claims-diana-prin
 
 ### [2003-12-21](/news/2003/12/21/index.md)
 
-##### grandmother
+##### Grandmother
 #  A senior French police source claims Diana, Princess of Wales was pregnant when she was killed in a car crash in Paris in 1997. A Clarence House spokesperson for The Prince of Wales refuses to comment on the issue. Mohamed Al-Fayed, the father of Diana's partner Dodi Al-Fayed had long insisted that Diana was pregnant with Dodi's baby and that she was murdered to stop her from giving birth. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/10/at-least-50-are-killed-in-flooding-and-landslid
 
 ### [2016-05-10](/news/2016/05/10/index.md)
 
-##### landslides
+##### Landslides
 #  At least 50 are killed in flooding and landslides triggered by heavy rains in Ethiopia. 
 
 A state-affiliated broadcaster in Ethiopia says at least 50 people have been killed in flooding and landslides triggered by heavy rains.

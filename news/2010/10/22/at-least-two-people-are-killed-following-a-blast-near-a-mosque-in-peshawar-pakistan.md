@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/22/at-least-two-people-are-killed-following-a-blas
 
 ### [2010-10-22](/news/2010/10/22/index.md)
 
-##### mosque
+##### Mosque
 # At least two people are killed following a blast near a mosque in Peshawar, Pakistan. 
 
 At least 3 people were killed and 22 others sustained severe injuries when a home-made bomb exploded on Friday inside a mosque in Pushta Kharra area of Peshawar. According to the details, the blast occurred shortly after the Juma Prayer killing three people on the spot and causing damages to the mosque building. Police and [&hellip;]

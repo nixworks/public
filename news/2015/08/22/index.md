@@ -17,7 +17,7 @@ _Context: Iran, surface-to-surface missile_
 
 ##### War in Afghanistan (2015-present)
 ### [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md)
-_Context: suicide bomber, War in Afghanistan (2015-present), NATO, Kabul_
+_Context: War in Afghanistan (2015-present), suicide bomber, NATO, Kabul_
 
 ##### Syrian Civil War
 ### [Missile strikes by pro-Assad forces leave over 50 people killed in the Syrian rebel-held town of Douma, near the capital Damascus. ](/news/2015/08/22/missile-strikes-by-pro-assad-forces-leave-over-50-people-killed-in-the-syrian-rebel-held-town-of-douma-near-the-capital-damascus.md)
@@ -35,7 +35,7 @@ The 73rd World Science Fiction Convention, Sasquan, has announced the 2015 Hugo 
 ### [Typhoon Goni leaves seven people dead and two people missing as it moves from the Philippines towards Taiwan and Okinawa, Japan. ](/news/2015/08/22/typhoon-goni-leaves-seven-people-dead-and-two-people-missing-as-it-moves-from-the-philippines-towards-taiwan-and-okinawa-japan.md)
 Typhoon Goni slightly weakened on Saturday as it lashed the northern Philippines with strong rain and wind that set off landslides and flooded low-lying villages, leaving at least...
 
-##### the explosions last year
+##### The explosions last year
 ### [The State Council of the People's Republic of China orders a thorough investigation of the explosions as the death toll rises to 121. ](/news/2015/08/22/the-state-council-of-the-people-s-republic-of-china-orders-a-thorough-investigation-of-the-explosions-as-the-death-toll-rises-to-121.md)
 Authorities have raised the death toll to 121 in the chemical warehouse explosion in the northern Chinese port of Tianjin, while another 54 people remain unaccounted for.
 
@@ -49,7 +49,7 @@ An explosion and fire has occurred at a chemical warehouse in Shandong province 
 
 ##### China
 ### [A landslide in China's Yunnan Province leaves three people dead and eight missing. ](/news/2015/08/22/a-landslide-in-china-s-yunnan-province-leaves-three-people-dead-and-eight-missing.md)
-_Context: China, Yunnan Province_
+_Context: Yunnan Province, China_
 
 ##### Prime Minister of Russia
 ### [The Prime Minister of Russia Dmitry Medvedev visits the disputed Kuril Islands prompting a protest from Japan. ](/news/2015/08/22/the-prime-minister-of-russia-dmitry-medvedev-visits-the-disputed-kuril-islands-prompting-a-protest-from-japan.md)
@@ -69,7 +69,7 @@ Fourteen members of one of El Salvador&#x27;s most powerful street gangs were ki
 
 ##### President of the State of Palestine
 ### [President of the State of Palestine Mahmoud Abbas resigns from the Executive Committee of the Palestinian Liberation Organisation along with 11 ministers to force an election. The last time there were elections in the Palestinian authority was in 2005. ](/news/2015/08/22/president-of-the-state-of-palestine-mahmoud-abbas-resigns-from-the-executive-committee-of-the-palestinian-liberation-organisation-along-with.md)
-_Context: Mahmoud Abbas, President of the State of Palestine, Palestinian Liberation Organisation_
+_Context: Mahmoud Abbas, Palestinian Liberation Organisation, President of the State of Palestine_
 
 ## [Previous Day...](/news/2015/08/21/index.md)
 

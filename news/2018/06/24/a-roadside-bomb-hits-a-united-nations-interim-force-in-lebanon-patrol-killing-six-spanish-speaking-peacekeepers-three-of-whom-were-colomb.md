@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-f
 
 ### [2018-06-24](/news/2018/06/24/index.md)
 
-##### bomb
+##### Bomb
 #  A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/6/a-state-of-emergency-is-declared-in-the-croatian
 
 ### [2007-08-6](/news/2007/08/6/index.md)
 
-##### state of emergency
+##### State of emergency
 #  A state of emergency is declared in the Croatian city of Dubrovnik due to a forest fire. 
 
 

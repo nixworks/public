@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/4/a-rescue-operation-begins-for-3-200-gold-miners-
 
 ### [2007-10-4](/news/2007/10/4/index.md)
 
-##### gold mine
+##### Gold mine
 #  A rescue operation begins for 3,200 gold miners trapped in Elandsrand, South Africa. All of the miners are eventually rescued leading to wild celebrations. 
 
 The last of 3,200 miners trapped deep in a South African mine shaft have come to the surface, capping a day-long rescue mission that began with fears of the worst and ended in wild celebrations.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/12/a-16-year-old-spanish-anti-racism-activist-is-k
 
 ### [2007-11-12](/news/2007/11/12/index.md)
 
-##### anti-racism
+##### Anti-racism
 #  A 16-year-old Spanish anti-racism activist is killed during a far-right anti-immigration protest in Madrid. 
 
 

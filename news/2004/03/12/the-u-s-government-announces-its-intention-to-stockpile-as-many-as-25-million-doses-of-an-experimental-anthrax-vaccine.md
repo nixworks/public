@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/12/the-u-s-government-announces-its-intention-to-s
 
 ### [2004-03-12](/news/2004/03/12/index.md)
 
-##### anthrax
+##### Anthrax
 #  The U.S. government announces its intention to stockpile as many as 25 million doses of an experimental anthrax vaccine. 
 
 Things to do in Miami

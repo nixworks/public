@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/8/a-rockslide-strikes-and-derails-a-passing-train-
 
 ### [2014-02-8](/news/2014/02/8/index.md)
 
-##### strikes and derails
+##### Strikes and derails
 # A rockslide strikes and derails a passing train near Annot, Alpes-de-Haute-Provence, France, causing two deaths. 
 
 Two people die and at least nine are injured when a falling boulder derails a tourist train in the southern French Alps.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/15/wreckage-from-the-american-helicopter-missing-s
 
 ### [2015-05-15](/news/2015/05/15/index.md)
 
-##### suspicions
+##### Suspicions
 #  Wreckage from the American helicopter missing since Tuesday has been located, with bodies of some of the occupants. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/28/datu-saudi-ampatuan-mayor-samsudin-dimaukom-pub
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Datu Saudi-Ampatuan mayor Samsudin Dimaukom, publicly accused by Philippine President Rodrigo Duterte of involvement in the illegal drug trade, is killed, along with nine others, by Philippine police at a highway checkpoint in what police describe as an anti-drug operation. 
 
 “If you are not guilty, why should you be afraid?” the mayor told The New York Times in August.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/11/a-russian-born-german-man-is-sentenced-to-life-
 
 ### [2009-11-11](/news/2009/11/11/index.md)
 
-##### life imprisonment
+##### Life imprisonment
 #  A Russian-born German man is sentenced to life imprisonment for fatally stabbing Marwa El-Sherbini in a court, an attack that caused uproar in the Muslim world. 
 
 The case of an Egyptian woman who had been stabbed to death in front of her husband and young son in a courtroom last year had attracted worldwide attention.

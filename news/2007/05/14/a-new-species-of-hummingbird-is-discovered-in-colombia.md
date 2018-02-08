@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/14/a-new-species-of-hummingbird-is-discovered-in-c
 
 ### [2007-05-14](/news/2007/05/14/index.md)
 
-##### new species
+##### New species
 #  A new species of hummingbird is discovered in Colombia. 
 
 

@@ -13,7 +13,7 @@ Jordanian warplanes have targeted and destroyed several vehicles trying to cross
 
 ##### APCs
 ### [Six armored personnel carriers belonging to the Ukrainian military are captured by pro-Russian protesters amid rising tensions between the protestors and the military. ](/news/2014/04/16/six-armored-personnel-carriers-belonging-to-the-ukrainian-military-are-captured-by-pro-russian-protesters-amid-rising-tensions-between-the-p.md)
-_Context: APCs, Ukrainian military_
+_Context: Ukrainian military, APCs_
 
 ##### Yonhap
 ### [Yonhap news agency reports that the Republic of Korea Coast Guard has been dispatched to rescue a ferry with 476 passengers sinking off the southeastern coast of South Korea with claims that at least four passengers have died and scores are injured. Approximately 280 people remain unaccounted for. ](/news/2014/04/16/yonhap-news-agency-reports-that-the-republic-of-korea-coast-guard-has-been-dispatched-to-rescue-a-ferry-with-476-passengers-sinking-off-the.md)
@@ -25,13 +25,13 @@ NSW Premier Barry O&#039;Farrell has sensationally resigned. Follow all the late
 
 ##### Soyuz-U
 ### [A Soyuz-U rocket carrying a new Egyptian communication satellite, EgyptSat-2, was launched from the Baikonur Cosmodrome in Kazakhstan. ](/news/2014/04/16/a-soyuz-u-rocket-carrying-a-new-egyptian-communication-satellite-egyptsat-2-was-launched-from-the-baikonur-cosmodrome-in-kazakhstan.md)
-_Context: Soyuz-U, Kazakhstan, Baikonur Cosmodrome, Egypt_
+_Context: Kazakhstan, Baikonur Cosmodrome, Soyuz-U, Egypt_
 
 ##### Saturn
 ### [Scientists discover a new moon forming in the outer edge of Saturn's A ring, unofficially called "Peggy". ](/news/2014/04/16/scientists-discover-a-new-moon-forming-in-the-outer-edge-of-saturn-s-a-ring-unofficially-called-peggy.md)
-_Context: A ring, Saturn_
+_Context: Saturn, A ring_
 
-##### egg
+##### Egg
 ### [Scientists discover an egg membrane protein, Juno, that facilitates fertilisation in mammals. ](/news/2014/04/16/scientists-discover-an-egg-membrane-protein-juno-that-facilitates-fertilisation-in-mammals.md)
 The moment of first contact between an egg and a sperm is controlled by a key molecule on the surface of the egg cell that allows it to fuse with a sperm to form a fertilised egg, scientists have discovered.
 

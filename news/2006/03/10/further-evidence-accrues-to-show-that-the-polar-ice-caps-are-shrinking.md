@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/10/further-evidence-accrues-to-show-that-the-polar
 
 ### [2006-03-10](/news/2006/03/10/index.md)
 
-##### polar ice cap
+##### Polar ice cap
 #  Further evidence accrues to show that the polar ice caps are shrinking. 
 
 

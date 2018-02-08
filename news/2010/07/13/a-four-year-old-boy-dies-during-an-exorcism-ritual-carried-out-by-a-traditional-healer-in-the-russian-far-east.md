@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-rit
 
 ### [2010-07-13](/news/2010/07/13/index.md)
 
-##### exorcism
+##### Exorcism
 # A four-year-old boy dies during an exorcism ritual carried out by a traditional healer in the Russian Far East. 
 
 A four-year-old boy has died during an exorcism ritual carried out by a traditional healer in the Far East of Russia, investigators say.

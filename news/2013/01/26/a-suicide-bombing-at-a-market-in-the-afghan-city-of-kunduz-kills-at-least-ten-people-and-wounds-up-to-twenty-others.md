@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/26/a-suicide-bombing-at-a-market-in-the-afghan-cit
 
 ### [2013-01-26](/news/2013/01/26/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a market in the Afghan city of Kunduz kills at least ten people and wounds up to twenty others. 
 
 At least 10 people have been killed and many injured in a suicide attack in a busy market in the north-eastern city of Kunduz, officials say.

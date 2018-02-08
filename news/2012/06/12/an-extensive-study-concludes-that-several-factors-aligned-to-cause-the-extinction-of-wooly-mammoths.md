@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/12/an-extensive-study-concludes-that-several-facto
 
 ### [2012-06-12](/news/2012/06/12/index.md)
 
-##### extinction
+##### Extinction
 # An extensive study concludes that several factors aligned to cause the extinction of wooly mammoths. 
 
 A multitude of culprits apparently drove the woolly mammoths to extinction, including climate change, habitat change and human hunting.

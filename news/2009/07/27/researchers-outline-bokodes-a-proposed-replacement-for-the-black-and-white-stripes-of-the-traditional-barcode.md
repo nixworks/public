@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/27/researchers-outline-bokodes-a-proposed-replacem
 
 ### [2009-07-27](/news/2009/07/27/index.md)
 
-##### bokode
+##### Bokode
 #  Researchers outline bokodes, a proposed replacement for the black and white stripes of the traditional barcode. 
 
 

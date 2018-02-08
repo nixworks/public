@@ -9,13 +9,13 @@ Syrian rebels battled forces loyal to President Bashar al-Assad just outside Dam
 
 ##### Shia Muslim
 ### [Bombs in two majority Shia Muslim cities in southern Iraq, Hillah and Karbala, kill at least 30 people and wound more than 100. ](/news/2012/11/29/bombs-in-two-majority-shia-muslim-cities-in-southern-iraq-hillah-and-karbala-kill-at-least-30-people-and-wound-more-than-100.md)
-_Context: Karbala, Hillah, Iraq, Shia Muslim_
+_Context: Iraq, Hillah, Shia Muslim, Karbala_
 
-##### police
+##### Police
 ### [Police in Burma break up a three-month-long protest against the expansion of a copper mine run by the military and a Chinese company. ](/news/2012/11/29/police-in-burma-break-up-a-three-month-long-protest-against-the-expansion-of-a-copper-mine-run-by-the-military-and-a-chinese-company.md)
 Security forces used a water cannon and other weapons to end the three-month protest, injuring 10 monks, two critically.
 
-##### bomb
+##### Bomb
 ### [A roadside bomb explodes under a passenger van in Deh Rahwod District of Uruzgan Province, Afghanistan, killing 10 people, and wounding at least eight. ](/news/2012/11/29/a-roadside-bomb-explodes-under-a-passenger-van-in-deh-rahwod-district-of-uruzgan-province-afghanistan-killing-10-people-and-wounding-at-l.md)
 A roadside bomb exploded under a passenger van in southern Afghanistan on Thursday, killing 10 people, most of them women and children, government officials said.
 
@@ -37,7 +37,7 @@ A UN war crimes tribunal acquits former Kosovan Prime Minister Ramush Haradinaj 
 
 ##### Florida Atlantic University
 ### [The Arts and Letters Building at Florida Atlantic University's campus in Boca Raton, Florida, and the nearby Boca Raton campus of Palm Beach State College, are given the all-clear and are back to normal after police locked them both down for three hours searching for a gunman believed to have robbed a student at gunpoint, no injuries. ](/news/2012/11/29/the-arts-and-letters-building-at-florida-atlantic-university-s-campus-in-boca-raton-florida-and-the-nearby-boca-raton-campus-of-palm-beach.md)
-_Context: Boca Raton, Florida, Palm Beach State College, Florida Atlantic University, all-clear_
+_Context: all-clear, Florida Atlantic University, Boca Raton, Florida, Palm Beach State College_
 
 ##### Lord Leveson
 ### [Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md)
@@ -49,13 +49,13 @@ President Barack Obama and his vanquished Republican challenger, Mitt Romney, sa
 
 ##### Draft constitution
 ### [A committee charged with developing a new Egyptian constitution releases a final draft as protests against sweeping new powers granted to President Mohamed Morsi continue. ](/news/2012/11/29/a-committee-charged-with-developing-a-new-egyptian-constitution-releases-a-final-draft-as-protests-against-sweeping-new-powers-granted-to-pr.md)
-_Context: President, Mohamed Morsi, Draft constitution_
+_Context: Mohamed Morsi, President, Draft constitution_
 
 ##### Michigan State Senator
 ### [Michigan State Senator Rick Jones of the Republican Party proposes dissolving the city of Detroit due to financial problems. ](/news/2012/11/29/michigan-state-senator-rick-jones-of-the-republican-party-proposes-dissolving-the-city-of-detroit-due-to-financial-problems.md)
 It would no doubt be controversial, but the idea of dissolving the city of Detroit and absorbing it into Wayne County is being tossed around in Lansing.
 
-##### by-election
+##### By-election
 ### [Three by-elections are held in the United Kingdom, in Croydon North, Middlesbrough and Rotherham. ](/news/2012/11/29/three-by-elections-are-held-in-the-united-kingdom-in-croydon-north-middlesbrough-and-rotherham.md)
 Voters go to the polls in by-elections in Croydon North, Middlesbrough and Rotherham - three constituencies currently held by Labour.
 
@@ -67,9 +67,9 @@ Former president, 88, has been in the hospital for a week battling a cough; cond
 ### [New data from the NASA space probe MESSENGER indicate that Mercury, the closest planet to the Sun, almost surely has water ice buried beneath the surface at its north pole. ](/news/2012/11/29/new-data-from-the-nasa-space-probe-messenger-indicate-that-mercury-the-closest-planet-to-the-sun-almost-surely-has-water-ice-buried-beneat.md)
 A Goddard-built instrument on NASA&#039;s MESSENGER mission provided one of three new lines of evidence that water ice exists near the north pole of Mercury.
 
-##### darter fish
+##### Darter fish
 ### [The new species of darter fish are classified and named as "Etheostoma obama" after U.S. President Barack Obama. ](/news/2012/11/29/the-new-species-of-darter-fish-are-classified-and-named-as-etheostoma-obama-after-u-s-president-barack-obama.md)
-_Context: Etheostoma obama, U.S. President, Barack Obama, darter fish_
+_Context: darter fish, U.S. President, Barack Obama, Etheostoma obama_
 
 ## [Previous Day...](/news/2012/11/28/index.md)
 

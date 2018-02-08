@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/19/german-chemical-and-pharmaceutical-company-baye
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
-##### chemical
+##### Chemical
 # German chemical and pharmaceutical company Bayer bids to merge with American agrochemical and agricultural firm Monsanto. 
 
 German healthcare and agricultural giant Bayer confirmed on Thursday morning it is in preliminary discussions on a takeover of Monsanto, one of the biggest seed and agricultural firms in the United States.

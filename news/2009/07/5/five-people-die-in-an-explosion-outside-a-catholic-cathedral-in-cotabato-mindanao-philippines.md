@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/5/five-people-die-in-an-explosion-outside-a-cathol
 
 ### [2009-07-5](/news/2009/07/5/index.md)
 
-##### explosion
+##### Explosion
 #  Five people die in an explosion outside a Catholic cathedral in Cotabato, Mindanao, Philippines. 
 
 A bomb exploded outside a church in the southern Philippines during Sunday morning Mass, killing five people and wounding 45, &hellip;

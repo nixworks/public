@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/25/a-gas-cylinder-explodes-on-a-school-bus-in-the-
 
 ### [2013-05-25](/news/2013/05/25/index.md)
 
-##### gas cylinder
+##### Gas cylinder
 # A gas cylinder explodes on a school bus in the Pakistani city of Gujrat, killing at least 17 children. 
 
 At least 16 children and a teacher are killed in a fire on their school bus in the eastern Pakistan city of Gujrat, police say.

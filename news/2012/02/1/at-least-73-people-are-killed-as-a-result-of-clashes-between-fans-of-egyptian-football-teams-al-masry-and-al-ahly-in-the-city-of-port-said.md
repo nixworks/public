@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/1/at-least-73-people-are-killed-as-a-result-of-cla
 
 ### [2012-02-1](/news/2012/02/1/index.md)
 
-##### football riots
+##### Football riots
 # At least 73 people are killed as a result of clashes between fans of Egyptian football teams Al-Masry and Al-Ahly in the city of Port Said. 
 
 At least 74 people are killed and many injured in clashes between rival football fans in the Egyptian city of Port Said.

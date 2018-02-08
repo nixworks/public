@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the
 
 ### [2010-12-8](/news/2010/12/8/index.md)
 
-##### cheetah
+##### Cheetah
 # A cheetah is captured roaming the streets in the emirate of Sharjah. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/20/the-korea-meteorological-administration-issues-
 
 ### [2011-06-20](/news/2011/06/20/index.md)
 
-##### heat wave
+##### Heat wave
 # The Korea Meteorological Administration issues a heat wave warning for inland South Korean cities including Seoul, Suwon and Chuncheon. 
 
 

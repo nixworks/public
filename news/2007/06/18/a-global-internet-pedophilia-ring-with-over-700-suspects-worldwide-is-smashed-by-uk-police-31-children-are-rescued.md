@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/18/a-global-internet-pedophilia-ring-with-over-700
 
 ### [2007-06-18](/news/2007/06/18/index.md)
 
-##### sexual relations
+##### Sexual relations
 #  A global internet pedophilia ring with over 700 suspects worldwide is smashed by UK police; 31 children are rescued. 
 
 

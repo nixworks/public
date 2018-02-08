@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/1/police-conduct-a-controlled-explosion-of-a-suspi
 
 ### [2007-07-1](/news/2007/07/1/index.md)
 
-##### controlled explosion
+##### Controlled explosion
 #  Police conduct a controlled explosion of a suspicious car in a carpark of the Royal Alexandra Hospital in Paisley, where two suspects in the 2007 Glasgow International Airport attack are being held. 
 
 

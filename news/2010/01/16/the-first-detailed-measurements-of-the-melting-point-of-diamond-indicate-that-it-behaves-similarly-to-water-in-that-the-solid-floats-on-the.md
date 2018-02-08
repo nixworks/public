@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/16/the-first-detailed-measurements-of-the-melting-
 
 ### [2010-01-16](/news/2010/01/16/index.md)
 
-##### melting point
+##### Melting point
 # The first detailed measurements of the melting point of diamond indicate that it behaves similarly to water in that the solid floats on the liquid. 
 
 Diamond oceans are possible on Uranus and Neptune. Learn how scientists discovered that diamond oceans are possible on Uranus and Neptune.

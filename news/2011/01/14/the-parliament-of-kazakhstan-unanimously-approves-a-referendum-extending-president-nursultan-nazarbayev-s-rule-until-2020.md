@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/14/the-parliament-of-kazakhstan-unanimously-approv
 
 ### [2011-01-14](/news/2011/01/14/index.md)
 
-##### parliament
+##### Parliament
 # The Parliament of Kazakhstan unanimously approves a referendum extending President Nursultan Nazarbayev's rule until 2020. 
 
 

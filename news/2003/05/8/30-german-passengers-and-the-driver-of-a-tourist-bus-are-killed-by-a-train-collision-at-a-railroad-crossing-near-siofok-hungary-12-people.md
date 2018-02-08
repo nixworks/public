@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/8/30-german-passengers-and-the-driver-of-a-tourist
 
 ### [2003-05-8](/news/2003/05/8/index.md)
 
-##### railroad crossing
+##### Railroad crossing
 #  30 German passengers and the driver of a tourist bus are killed by a train collision at a railroad crossing near Siofok, Hungary. 12 people are injured. Most of the passengers came from Lower Saxony or Schleswig-Holstein.
 
 

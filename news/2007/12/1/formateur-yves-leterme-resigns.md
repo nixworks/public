@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/1/formateur-yves-leterme-resigns.html)  [JSON](/ne
 
 ### [2007-12-1](/news/2007/12/1/index.md)
 
-##### forms a temporary coalition government
+##### Forms a temporary coalition government
 #  Formateur Yves Leterme resigns. 
 
 

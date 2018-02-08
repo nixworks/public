@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/25/8-of-the-23-south-koreans-held-hostage-by-the-t
 
 ### [2007-07-25](/news/2007/07/25/index.md)
 
-##### release 23 of its captured fighters
+##### Release 23 of its captured fighters
 #  8 of the 23 South Koreans held hostage by the Taliban in Afghanistan are released, while one of the hostages is executed. The Taliban gives further warning that the remaining hostages will be killed. 
 
 

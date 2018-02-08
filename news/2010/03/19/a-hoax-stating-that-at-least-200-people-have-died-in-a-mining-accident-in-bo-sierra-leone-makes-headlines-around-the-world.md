@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-di
 
 ### [2010-03-19](/news/2010/03/19/index.md)
 
-##### hoax
+##### Hoax
 # A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. 
 
 

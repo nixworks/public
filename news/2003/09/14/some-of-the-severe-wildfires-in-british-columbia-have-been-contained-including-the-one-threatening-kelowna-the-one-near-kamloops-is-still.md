@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/14/some-of-the-severe-wildfires-in-british-columbi
 
 ### [2003-09-14](/news/2003/09/14/index.md)
 
-##### wildfire
+##### Wildfire
 #  Some of the severe wildfires in British Columbia have been contained, including the one threatening Kelowna. The one near Kamloops is still threatening structures. This has been the worst wildfire season in BC in fifty years. 
 
 

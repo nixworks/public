@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-
 
 ### [2013-08-16](/news/2013/08/16/index.md)
 
-##### magnitude 6.5 earthquake
+##### Magnitude 6.5 earthquake
 # A magnitude 6.5 earthquake strikes near Seddon, New Zealand, causing moderate damage in the wider Marlborough region and national capital Wellington. 
 
 Marlborough bore the brunt of a rattling 6.6 quake, and a series of continuing aftershocks, that also sent people fleeing Wellington and caused havoc on roads.

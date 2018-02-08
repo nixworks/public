@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/10/traces-of-cocaine-likely-triggered-the-death-of
 
 ### [2010-12-10](/news/2010/12/10/index.md)
 
-##### cocaine
+##### Cocaine
 # Traces of cocaine "likely" triggered the death of Gerry Ryan in April. 
 
 Traces of cocaine were the likely trigger that led to the death of Irish broadcaster Gerry Ryan, an inquest in Dublin is told.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/16/the-world-s-first-genetically-modified-chickens
 
 ### [2007-01-16](/news/2007/01/16/index.md)
 
-##### genetically modified
+##### Genetically modified
 #  The world's first genetically modified chickens have been bred by scientists in Edinburgh. The birds supposedly lay eggs that can help fight cancer. 
 
 News and opinion from The Times &amp; The Sunday Times

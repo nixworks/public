@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-
 
 ### [2010-09-4](/news/2010/09/4/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. 
 
 

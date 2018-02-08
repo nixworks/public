@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/21/several-people-are-arrested-over-a-bomb-attack-
 
 ### [2009-10-21](/news/2009/10/21/index.md)
 
-##### bomb attack
+##### Bomb attack
 #  Several people are arrested over a bomb attack in southeastern Iran that killed 42 people, including members of the Revolutionary Guards. 
 
 

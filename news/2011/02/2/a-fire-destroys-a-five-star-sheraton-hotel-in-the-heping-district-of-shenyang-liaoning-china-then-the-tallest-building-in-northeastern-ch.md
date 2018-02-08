@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-th
 
 ### [2011-02-2](/news/2011/02/2/index.md)
 
-##### five-star
+##### Five-star
 # A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/30/a-freight-train-derails-at-the-stuttgart-feuerb
 
 ### [2012-11-30](/news/2012/11/30/index.md)
 
-##### freight train
+##### Freight train
 # A freight train derails at the Stuttgart-Feuerbach station, Germany, after a collision with the railway platform. There were no reports of injuries. 
 
 

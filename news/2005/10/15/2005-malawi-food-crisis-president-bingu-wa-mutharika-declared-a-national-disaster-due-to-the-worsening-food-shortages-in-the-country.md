@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/15/2005-malawi-food-crisis-president-bingu-wa-muth
 
 ### [2005-10-15](/news/2005/10/15/index.md)
 
-##### serious food shortages
+##### Serious food shortages
 #  2005 Malawi food crisis: President Bingu wa Mutharika declared a national disaster due to the worsening food shortages in the country. 
 
 

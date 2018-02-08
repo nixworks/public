@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/15/romania-s-centre-left-social-democratic-party-w
 
 ### [2016-12-15](/news/2016/12/15/index.md)
 
-##### earlier this month
+##### Earlier this month
 # Romania's centre-left Social Democratic Party won 45% of the seats in both houses of parliament in Sunday's election, and with the expected participation of the liberal centre-right Alliance of Liberals and Democrats Party in the coalition government, will hold an outright majority of 250 seats in the 465-seat assembly. 
 
 Six political parties will be represented in Romania’s Parliament after the December 11 parliamentary elections.

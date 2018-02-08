@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/1/a-ship-carrying-100-tons-of-hydrochloric-acid-si
 
 ### [2009-11-1](/news/2009/11/1/index.md)
 
-##### hydrochloric acid
+##### Hydrochloric acid
 #  A ship carrying 100 tons of hydrochloric acid sinks in a section of the Yangtze River in China's central Hubei province after colliding with another vessel. 
 
 

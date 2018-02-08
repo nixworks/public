@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/7/investigators-probing-the-disappearance-of-tia-s
 
 ### [2012-08-7](/news/2012/08/7/index.md)
 
-##### disappearance of Tia Sharp
+##### Disappearance of Tia Sharp
 # Investigators probing the disappearance of Tia Sharp find CCTV film of the missing girl. 
 
 The stepfather of missing schoolgirl Tia Sharp says the family is &quot;in bits&quot; and urged people to find &quot;my little girl&quot;.

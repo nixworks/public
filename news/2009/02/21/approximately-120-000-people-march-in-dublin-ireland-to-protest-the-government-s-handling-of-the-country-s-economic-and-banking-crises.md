@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/21/approximately-120-000-people-march-in-dublin-ir
 
 ### [2009-02-21](/news/2009/02/21/index.md)
 
-##### demonstration
+##### Demonstration
 #  Approximately 120,000 people march in Dublin, Ireland, to protest the government's handling of the country's economic and banking crises. 
 
 Up to 120,000 people have marched in Dublin in protest at how the Government is handling the economic crisis

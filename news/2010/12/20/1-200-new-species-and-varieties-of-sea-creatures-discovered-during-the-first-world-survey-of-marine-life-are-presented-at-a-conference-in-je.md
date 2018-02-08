@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/20/1-200-new-species-and-varieties-of-sea-creature
 
 ### [2010-12-20](/news/2010/12/20/index.md)
 
-##### sea creatures
+##### Sea creatures
 # 1,200 new species and varieties of sea creatures discovered during the first world survey of marine life are presented at a conference in Jerusalem, Israel. 
 
 First world &quot;census&quot; of marine life to take place in Jerusalem, with 3,000 scientists from 80 countries participating.

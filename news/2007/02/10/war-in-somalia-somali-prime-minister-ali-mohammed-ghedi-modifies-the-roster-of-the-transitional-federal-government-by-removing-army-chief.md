@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/10/war-in-somalia-somali-prime-minister-ali-mohamm
 
 ### [2007-02-10](/news/2007/02/10/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Somali Prime Minister Ali Mohammed Ghedi modifies the roster of the Transitional Federal Government by removing army chief-of-staff Ismail Qasim Naji and assigning him as ambassador to Oman, while also appointing new ambassadors to Kenya, Djibouti, and Yemen. Meanwhile, the Somali People's Resistance Movement emerges as an insurgency movement out of the underground members of the Islamic Courts Union. 
 
 

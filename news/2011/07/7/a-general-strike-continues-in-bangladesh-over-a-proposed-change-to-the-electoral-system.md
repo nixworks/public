@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/7/a-general-strike-continues-in-bangladesh-over-a-
 
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-##### general strike
+##### General strike
 # A general strike continues in Bangladesh over a proposed change to the electoral system. 
 
 Riot police patrolled the streets to break up opposition protests in Dhaka and elsewhere in Bangladesh on Wednesday as opposition parties began a 48-hour general strike protesting a government move to change the electoral system

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/8/a-ma-ariv-opinion-poll-shows-37-of-his-supporter
 
 ### [2003-08-8](/news/2003/08/8/index.md)
 
-##### opinion poll
+##### Opinion poll
 #  A "Ma'ariv" opinion poll shows 37% of his supporters think Israeli Prime Minister Ariel Sharon is involved in corruption, with 52% saving he will have to resign if he behaved illegally. The controversy is over a $1.5 million loan given in January 2002 to Sharon's son, Gilad that was the loan originated from Cyril Kern, a friend of Ariel Sharon.
 
 

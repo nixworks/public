@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/13/index.html)  [JSON](2010/11/13/index.json)  [XML](201
 
 ##### Nigerian military
 ### [The Nigerian military asks civilians in the Niger Delta creeks to leave, warning of action against camps of criminal gangs in the area. ](/news/2010/11/13/the-nigerian-military-asks-civilians-in-the-niger-delta-creeks-to-leave-warning-of-action-against-camps-of-criminal-gangs-in-the-area.md)
-_Context: Niger Delta, Nigerian military_
+_Context: Nigerian military, Niger Delta_
 
 ##### Kenyan navy
 ### [The Kenyan navy shoots dead three suspected Somali pirates who had attacked a naval patrol. ](/news/2010/11/13/the-kenyan-navy-shoots-dead-three-suspected-somali-pirates-who-had-attacked-a-naval-patrol.md)
@@ -13,13 +13,13 @@ Kenyan navy officers on patrolin the India Ocean shot dead three suspected Somal
 
 ##### China
 ### [Somali pirates hijack a Chinese ship with 29 crew on board in the Arabian Sea. ](/news/2010/11/13/somali-pirates-hijack-a-chinese-ship-with-29-crew-on-board-in-the-arabian-sea.md)
-_Context: China, Arabian Sea_
+_Context: Arabian Sea, China_
 
 ##### Taliban
 ### [Taliban insurgents attack the airport in the Afghan city of Jalalabad and a nearby base. ](/news/2010/11/13/taliban-insurgents-attack-the-airport-in-the-afghan-city-of-jalalabad-and-a-nearby-base.md)
 Eight Taliban militants have been killed in an attack on a military outpost near the airport in the eastern Afghan city of Jalalabad, Nato officials say.
 
-##### zoo
+##### Zoo
 ### [A fire kills dozens of animals at a zoo in Karlsruhe, Germany. ](/news/2010/11/13/a-fire-kills-dozens-of-animals-at-a-zoo-in-karlsruhe-germany.md)
 A fire at a zoo in the German city of Karlsruhe leaves 26 animals dead, including Shetland ponies, sheep, goats and a llama.
 
@@ -45,11 +45,11 @@ Pro-democracy leader emerges from seven-year house arrest and addresses supporte
 
 ##### Bangladesh
 ### [Police and protesters clash in the Bangladeshi capital Dhaka over the authorities' bid to evict opposition leader Khaleda Zia from her home. ](/news/2010/11/13/police-and-protesters-clash-in-the-bangladeshi-capital-dhaka-over-the-authorities-bid-to-evict-opposition-leader-khaleda-zia-from-her-home.md)
-_Context: Dhaka, Khaleda Zia, Bangladesh_
+_Context: Bangladesh, Dhaka, Khaleda Zia_
 
 ##### France
 ### [The French Cabinet led by Prime Minister Francois Fillon resigns ahead of a reshuffle by President Nicolas Sarkozy. ](/news/2010/11/13/the-french-cabinet-led-by-prime-minister-franassois-fillon-resigns-ahead-of-a-reshuffle-by-president-nicolas-sarkozy.md)
-_Context: France, Nicolas Sarkozy, Prime Minister, French President, Francois Fillon_
+_Context: France, Francois Fillon, Nicolas Sarkozy, French President, Prime Minister_
 
 ## [Previous Day...](/news/2010/11/12/index.md)
 

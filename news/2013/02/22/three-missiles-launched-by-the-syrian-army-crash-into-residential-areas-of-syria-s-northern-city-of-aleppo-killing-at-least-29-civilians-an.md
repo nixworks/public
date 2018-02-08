@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/22/three-missiles-launched-by-the-syrian-army-cras
 
 ### [2013-02-22](/news/2013/02/22/index.md)
 
-##### missile
+##### Missile
 # Three missiles launched by the Syrian army crash into residential areas of Syria's northern city of Aleppo, killing at least 29 civilians and injuring 150 others. 
 
 At least 12 civilians are killed by rockets in Aleppo, activists say, as opposition groups agree to form a rebel government.

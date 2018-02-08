@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/4/the-guilty-verdict-for-moroccan-al-qaeda-suspect
 
 ### [2004-03-4](/news/2004/03/4/index.md)
 
-##### guilt
+##### Guilt
 #  The guilty verdict for Moroccan al-Qaeda suspect Mounir el Motassadeq's involvement in the September 11, 2001 attacks is overturned by the German appeals court, which orders a retrial. 
 
 

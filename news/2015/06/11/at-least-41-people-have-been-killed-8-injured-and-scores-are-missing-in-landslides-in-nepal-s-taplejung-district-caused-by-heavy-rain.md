@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/11/at-least-41-people-have-been-killed-8-injured-a
 
 ### [2015-06-11](/news/2015/06/11/index.md)
 
-##### landslide
+##### Landslide
 # At least 41 people have been killed, 8 injured, and scores are missing in landslides in Nepal's Taplejung District caused by heavy rain. 
 
 At least 41 people were killed and eight injured on Thursday in a landslide triggered by heavy rainfall that buried six villages in Nepal’s mountainous northeast, the second major disaster to hit the

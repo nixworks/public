@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/6/a-car-bomb-kills-at-least-20-people-and-injures-
 
 ### [2007-05-6](/news/2007/05/6/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb kills at least 20 people and injures 80 more in the Baiyaa neighbourhood of Baghdad. 
 
 

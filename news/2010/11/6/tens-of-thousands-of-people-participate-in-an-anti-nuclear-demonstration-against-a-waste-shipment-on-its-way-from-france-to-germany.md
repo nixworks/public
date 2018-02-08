@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/6/tens-of-thousands-of-people-participate-in-an-an
 
 ### [2010-11-6](/news/2010/11/6/index.md)
 
-##### nuclear program
+##### Nuclear program
 # Tens of thousands of people participate in an anti-nuclear demonstration against a waste shipment on its way from France to Germany. 
 
 Tens of thousands of protesters took part in one of the largest anti-nuclear rallies in years on Saturday as the first shipment of waste in two years was slowed by activists on its way from France back to Germany.

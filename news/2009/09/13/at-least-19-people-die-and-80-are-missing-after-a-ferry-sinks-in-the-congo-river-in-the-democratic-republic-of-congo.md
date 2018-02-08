@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/13/at-least-19-people-die-and-80-are-missing-after
 
 ### [2009-09-13](/news/2009/09/13/index.md)
 
-##### ferry
+##### Ferry
 #  At least 19 people die and 80 are missing after a ferry sinks in the Congo River in the Democratic Republic of Congo. 
 
 

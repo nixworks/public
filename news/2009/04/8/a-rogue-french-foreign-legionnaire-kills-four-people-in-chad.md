@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-pe
 
 ### [2009-04-8](/news/2009/04/8/index.md)
 
-##### rogue
+##### Rogue
 #  A rogue French Foreign Legionnaire kills four people in Chad. 
 
 

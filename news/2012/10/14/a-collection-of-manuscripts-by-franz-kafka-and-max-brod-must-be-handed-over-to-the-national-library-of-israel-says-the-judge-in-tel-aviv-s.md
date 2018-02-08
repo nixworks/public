@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-
 
 ### [2012-10-14](/news/2012/10/14/index.md)
 
-##### collection of manuscripts
+##### Collection of manuscripts
 # A collection of manuscripts by Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. 
 
 Decision ends five-year battle by archive holders hoping to sell trove of papers to Germany

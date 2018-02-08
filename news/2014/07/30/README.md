@@ -17,7 +17,7 @@ Army death toll rises to 56; 17 Palestinians die in market attack; British PM sa
 
 ##### Morgan Stanley
 ### [Analysts of Morgan Stanley predict that Russian President Vladimir Putin would soon block the transit of gas through Ukraine to Europe to retaliate against the world for imposing economic sanctions on Russia. ](/news/2014/07/30/analysts-of-morgan-stanley-predict-that-russian-president-vladimir-putin-would-soon-block-the-transit-of-gas-through-ukraine-to-europe-to-re.md)
-_Context: Ukraine, Russia, Morgan Stanley, Vladimir Putin_
+_Context: Ukraine, Morgan Stanley, Vladimir Putin, Russia_
 
 ##### Argentina
 ### [Argentina is required to pay $1.3bn to investors who bought its bonds at a big discount after a default in 2001-02 by the end of today or be in default again. ](/news/2014/07/30/argentina-is-required-to-pay-1-3bn-to-investors-who-bought-its-bonds-at-a-big-discount-after-a-default-in-2001-02-by-the-end-of-today-or-be.md)
@@ -27,7 +27,7 @@ _Context: Argentina_
 ### [The U.S. District Court in Manhattan, via Judge Jed Rakoff, orders Bank of America to pay $1.27 billion in damages relating to the housing bubble-era actions of what is now its Countrywide unit. ](/news/2014/07/30/the-u-s-district-court-in-manhattan-via-judge-jed-rakoff-orders-bank-of-america-to-pay-1-27-billion-in-damages-relating-to-the-housing-b.md)
 A federal judge on Wednesday ordered Bank of America Corp (BAC.N) to pay a $1.27 billion penalty for fraud over shoddy mortgages sold by the former Countrywide Financial Corp.
 
-##### landslide
+##### Landslide
 ### [One hundred and fifty people are trapped after a landslide in the village of Ambe in the Pune district in India's Maharashtra state with 20 killed. ](/news/2014/07/30/one-hundred-and-fifty-people-are-trapped-after-a-landslide-in-the-village-of-ambe-in-the-pune-district-in-india-s-maharashtra-state-with-20.md)
 126 still trapped under debris in the remote tribal area
 

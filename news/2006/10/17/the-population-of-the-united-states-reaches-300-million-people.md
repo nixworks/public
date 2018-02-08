@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/17/the-population-of-the-united-states-reaches-300
 
 ### [2006-10-17](/news/2006/10/17/index.md)
 
-##### population of the United States
+##### Population of the United States
 #  The population of the United States reaches 300 million people. 
 
 Census figures show that for first time in history, married couples are in the minority. In the second in a series on America at 300 million, guests discuss the culture shift and how it is affecting Americans.

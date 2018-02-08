@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/18/the-treasury-committee-of-the-house-of-commons-
 
 ### [2012-08-18](/news/2012/08/18/index.md)
 
-##### the House of Commons
+##### The House of Commons
 # The Treasury Committee of the House of Commons of the United Kingdom releases the first volume of a planned two-volume report on the LIBOR fixing scandal. 
 
 

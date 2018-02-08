@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/22/at-least-339-people-are-killed-at-a-stampede-du
 
 ### [2010-11-22](/news/2010/11/22/index.md)
 
-##### stampede
+##### Stampede
 # At least 339 people are killed at a stampede during Bon Om Thook (Khmer Water Festival) celebrations in Phnom Penh, Cambodia. 
 
 At least 345 people die in a stampede on a bridge during festival celebrations in the Cambodian capital, Phnom Penh, Prime Minister Hun Sen says.

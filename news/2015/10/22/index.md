@@ -13,11 +13,11 @@ US authorities say US and Iraqi forces rescued dozens of hostages from IS to pre
 
 ##### War in Afghanistan (2015-present)
 ### [Taliban insurgents assassinate Mohammad Daud Sultanzoy, a district administrator in Afghanistan's eastern Ghazni province. ](/news/2015/10/22/taliban-insurgents-assassinate-mohammad-daud-sultanzoy-a-district-administrator-in-afghanistan-s-eastern-ghazni-province.md)
-_Context: Afghanistan, Mohammad Daud Sultanzoy, Taliban, Ghazni Province, War in Afghanistan (2015-present)_
+_Context: Taliban, Afghanistan, War in Afghanistan (2015-present), Mohammad Daud Sultanzoy, Ghazni Province_
 
 ##### Sinai insurgency
 ### [Egypt's military says it has gained "full control" over the North Sinai areas of Arish, Rafah and Sheikh Zuweid after successful raids on terrorist strongholds and weapons caches. ](/news/2015/10/22/egypt-s-military-says-it-has-gained-full-control-over-the-north-sinai-areas-of-arish-rafah-and-sheikh-zuweid-after-successful-raids-on-te.md)
-_Context: Sheikh Zuweid, Egypt, Egyptian military, Rafah, Sinai insurgency, North Sinai Governorate, Arish_
+_Context: North Sinai Governorate, Sinai insurgency, Egypt, Sheikh Zuweid, Arish, Rafah, Egyptian military_
 
 ##### Pakistan
 ### [At least 10 people are killed and 12 injured when a suicide-bomber attacks a Pakistani Shia Mosque and Imambargah during prayers in the District Bagh of Kachhi 300 Km from Quetta in Balochistan. ](/news/2015/10/22/at-least-10-people-are-killed-and-12-injured-when-a-suicide-bomber-attacks-a-pakistani-shia-mosque-and-imambargah-during-prayers-in-the-dist.md)
@@ -39,7 +39,7 @@ Armed men have boarded and attempted to disable boats carrying asylum seekers fr
 ### [Authorities in Slovenia say around 2,000 migrants from a refugee camp at the Croatian border are traveling in four trains toward Austria, three to the overloaded crossing at Sentilj and the other to Jesenice. ](/news/2015/10/22/authorities-in-slovenia-say-around-2-000-migrants-from-a-refugee-camp-at-the-croatian-border-are-traveling-in-four-trains-toward-austria-th.md)
 Miloš Zeman dismisses accusations of Islamophobia amid UN condemnation of country’s detention policy and strip-searching of refugees
 
-##### rival territorial claims
+##### Rival territorial claims
 ### [Russian Defence Minister Sergei Shoigu announces Russia plans to build a new military base on the Kuril Islands, a group of Pacific islands it seized from Japan at the end of World War II. ](/news/2015/10/22/russian-defence-minister-sergei-shoigu-announces-russia-plans-to-build-a-new-military-base-on-the-kuril-islands-a-group-of-pacific-islands.md)
 Russia plans to build a military base on the...
 

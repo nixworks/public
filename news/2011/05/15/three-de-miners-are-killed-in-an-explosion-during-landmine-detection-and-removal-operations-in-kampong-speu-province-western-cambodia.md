@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/15/three-de-miners-are-killed-in-an-explosion-duri
 
 ### [2011-05-15](/news/2011/05/15/index.md)
 
-##### demining
+##### Demining
 # Three de-miners are killed in an explosion during landmine detection and removal operations in Kampong Speu Province, western Cambodia. 
 
 

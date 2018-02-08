@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/17/twin-bombings-on-a-centre-for-the-displaced-in-
 
 ### [2010-04-17](/news/2010/04/17/index.md)
 
-##### twin bomb attacks
+##### Twin bomb attacks
 # Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. 
 
 At least 41 people were killed and 64 wounded in an attack on a camp filled with people fleeing a government offensive in another area of northwest Pakistan.

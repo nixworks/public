@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/28/roc-referendum-2004-in-taiwan-a-referendum-bill
 
 ### [2003-11-28](/news/2003/11/28/index.md)
 
-##### controversial referendum
+##### Controversial referendum
 #  ROC referendum, 2004: In Taiwan, a referendum bill written by majority pro-Chinese reunification pan-blue coalition legislators, is passed by the Legislative Yuan. The move is met by opposition from the People's Republic of China as it is seen as a possible route for declaring Taiwan independence, even though the bill blocks referendums on sovereignty issue and changing the official name of the Republic of China.
 
 

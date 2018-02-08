@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/29/heavy-snowfall-in-northern-england-leads-to-the
 
 ### [2015-01-29](/news/2015/01/29/index.md)
 
-##### northern England
+##### Northern England
 # Heavy snowfall in northern England leads to the closures of hundreds of schools, roads and Manchester Airport. 
 
 Snowstorms bring travel chaos to northern England, closing more than 300 schools, roads and airports.

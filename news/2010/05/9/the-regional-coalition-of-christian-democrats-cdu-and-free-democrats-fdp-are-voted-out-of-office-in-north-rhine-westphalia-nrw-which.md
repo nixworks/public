@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/9/the-regional-coalition-of-christian-democrats-cd
 
 ### [2010-05-9](/news/2010/05/9/index.md)
 
-##### voted out of office
+##### Voted out of office
 # The regional coalition of Christian-Democrats (CDU) and Free Democrats (FDP) are voted out of office in North Rhine-Westphalia (NRW), which may lead to the federal government of Chancellor Angela Merkel losing its majority in the upper house. 
 
 Chancellor Angela Merkel&#039;s ruling coalition was seriously weakened last night after her party suffered a humiliating defeat in a key regional state election which was certain to deprive her government of its crucial working majority in Germany&#039;s upper house of parliament.

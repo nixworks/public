@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/26/the-united-states-congress-prepares-legislation
 
 ### [2004-03-26](/news/2004/03/26/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress prepares legislation against peer-to-peer technology on multiple fronts. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/28/a-recent-drone-strike-in-pakistan-s-tribal-regi
 
 ### [2010-09-28](/news/2010/09/28/index.md)
 
-##### drone
+##### Drone
 # A recent drone strike in Pakistan's tribal region killed Sheikh Mohammad Fateh al Masri, one of al Qaeda's top commanders. 
 
 

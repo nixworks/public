@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/2/a-heatwave-strikes-india-and-south-asia-reaching
 
 ### [2010-06-2](/news/2010/06/2/index.md)
 
-##### heatwave strikes India and South Asia
+##### Heatwave strikes India and South Asia
 # A heatwave strikes India and South Asia, reaching 53C (127F) and killing many hundreds of people. 
 
 

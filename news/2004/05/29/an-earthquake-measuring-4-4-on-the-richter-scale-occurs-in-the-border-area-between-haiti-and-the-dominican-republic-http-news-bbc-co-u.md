@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/29/an-earthquake-measuring-4-4-on-the-richter-scal
 
 ### [2004-05-29](/news/2004/05/29/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake measuring 4.4 on the Richter scale occurs in the border area between Haiti and the Dominican Republic. ([http:--news.bbc.co.uk-1-hi-world-americas-3761171.stm BBC])
 
 

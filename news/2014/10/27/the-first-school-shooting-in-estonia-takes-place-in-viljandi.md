@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/27/the-first-school-shooting-in-estonia-takes-plac
 
 ### [2014-10-27](/news/2014/10/27/index.md)
 
-##### first school shooting
+##### First school shooting
 # The first school shooting in Estonia takes place in Viljandi. 
 
 In a tragedy with many echoes elsewhere, a teacher at a school in Viljandi was fatally shot by a student today.

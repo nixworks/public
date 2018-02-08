@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/9/at-least-seven-are-dead-following-a-train-accide
 
 ### [2013-12-9](/news/2013/12/9/index.md)
 
-##### accident
+##### Accident
 # At least seven are dead following a train accident near Bintaro, Indonesia. 
 
 

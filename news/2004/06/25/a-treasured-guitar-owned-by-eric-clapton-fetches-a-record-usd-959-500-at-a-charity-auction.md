@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/25/a-treasured-guitar-owned-by-eric-clapton-fetche
 
 ### [2004-06-25](/news/2004/06/25/index.md)
 
-##### guitar
+##### Guitar
 #  A treasured guitar owned by Eric Clapton fetches a record USD $959,500 at a charity auction. 
 
 

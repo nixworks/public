@@ -13,7 +13,7 @@ Mutinous soldiers said they seized power in Mali on Thursday and ordered its bor
 
 ##### Syrian armed forces
 ### [Syrian armed forces continue to shell the city of Hama and at least 59 civilians are reported killed across Syria, in Idlib, Homs, Hama, Daraa, Lattakia, Aleppo and Damascus. ](/news/2012/03/22/syrian-armed-forces-continue-to-shell-the-city-of-hama-and-at-least-59-civilians-are-reported-killed-across-syria-in-idlib-homs-hama-dar.md)
-_Context: Idlib, Hama, Damascus, Homs, Lattakia, Aleppo, Daraa, Syrian armed forces_
+_Context: Syrian armed forces, Damascus, Daraa, Homs, Hama, Aleppo, Lattakia, Idlib_
 
 ##### Kurdistan Workers' Party
 ### [12 people are killed in an operation against PKK rebels in southeastern Turkey. ](/news/2012/03/22/12-people-are-killed-in-an-operation-against-pkk-rebels-in-southeastern-turkey.md)
@@ -25,7 +25,7 @@ _Context: Montreal, Canada_
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office says that Whitney Houston's official cause of death was drowning as a result of cocaine use. ](/news/2012/03/22/the-los-angeles-county-coroner-s-office-says-that-whitney-houston-s-official-cause-of-death-was-drowning-as-a-result-of-cocaine-use.md)
-_Context: Los Angeles County Coroner's Office, cocaine, Whitney Houston_
+_Context: cocaine, Whitney Houston, Los Angeles County Coroner's Office_
 
 ##### Irish
 ### [Ireland officially falls back into recession. ](/news/2012/03/22/ireland-officially-falls-back-into-recession.md)
@@ -47,7 +47,7 @@ Week-long blaze destroys thousands of hectares of forest crucial for water catch
 ### [A large fire sweeps through Hatibagan market, one of the oldest in the Indian city of Calcutta, destroying most of the buildings. ](/news/2012/03/22/a-large-fire-sweeps-through-hatibagan-market-one-of-the-oldest-in-the-indian-city-of-calcutta-destroying-most-of-the-buildings.md)
 A massive fire sweeps through one of the oldest markets in the eastern Indian city of Calcutta, destroying most of its shops.
 
-##### sunk
+##### Sunk
 ### [More bodies are dug out of the wreck of the "Costa Concordia". ](/news/2012/03/22/more-bodies-are-dug-out-of-the-wreck-of-the-costa-concordia.md)
 Death toll goes up to 30 with discovery of three more bodies two months after cruise liner sank off Italian coast.
 
@@ -57,7 +57,7 @@ India on Thursday voted in favour of a US-sponsored censure motion against Sri L
 
 ##### South Sudan
 ### [South Sudan invites Sudan to discuss outstanding issues next month between the two countries that nearly resulted in a war. ](/news/2012/03/22/south-sudan-invites-sudan-to-discuss-outstanding-issues-next-month-between-the-two-countries-that-nearly-resulted-in-a-war.md)
-_Context: South Sudan, Sudan_
+_Context: Sudan, South Sudan_
 
 ##### United Nations
 ### [The United Nations appoints a special rapporteur to investigate the situation in Tibet, after hunger strikes occurred outside the United Nations Headquarters building in New York City. ](/news/2012/03/22/the-united-nations-appoints-a-special-rapporteur-to-investigate-the-situation-in-tibet-after-hunger-strikes-occurred-outside-the-united-nat.md)
@@ -65,9 +65,9 @@ Three Tibetans who have been quietly starving themselves in the shadow of the Un
 
 ##### Trayvon Martin
 ### [The parents of an unarmed black teen boy killed by gunshot wound in a suburb of Orlando in the U.S. state of Florida address a mass rally in New York to call for justice. ](/news/2012/03/22/the-parents-of-an-unarmed-black-teen-boy-killed-by-gunshot-wound-in-a-suburb-of-orlando-in-the-u-s-state-of-florida-address-a-mass-rally-in.md)
-_Context: Trayvon Martin, New York City, the state, a suburb of Orlando_
+_Context: New York City, a suburb of Orlando, Trayvon Martin, the state_
 
-##### the state
+##### The state
 ### [A court hears that two British men shot dead in the U.S. state of Florida last April were found with their shirts off and trousers round their thighs. ](/news/2012/03/22/a-court-hears-that-two-british-men-shot-dead-in-the-u-s-state-of-florida-last-april-were-found-with-their-shirts-off-and-trousers-round-the.md)
 A Florida court hears two British men shot dead last year were found with their shirts off and trousers round their thighs.
 

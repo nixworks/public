@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/7/a-storm-kills-at-least-17-people-in-vietnam-with
 
 ### [2007-08-7](/news/2007/08/7/index.md)
 
-##### another tropical storm
+##### Another tropical storm
 #  A storm kills at least 17 people in Vietnam with another 12 missing. 
 
 

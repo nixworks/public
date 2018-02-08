@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/21/18-afghan-prisoners-of-guantanamo-base-were-lib
 
 ### [2003-03-21](/news/2003/03/21/index.md)
 
-##### military base at Guantanamo Bay
+##### Military base at Guantanamo Bay
 #  18 Afghan prisoners of Guantanamo base were liberated by the United States. These 18 persons were released in Kabul, Afghanistan without compensation or any assistance to return to their homes.
 
 

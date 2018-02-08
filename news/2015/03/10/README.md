@@ -7,13 +7,13 @@ Formats: [HTML](2015/03/10/index.html)  [JSON](2015/03/10/index.json)  [XML](201
 ### [A suicide bomber kills one person and injures 24 in an attack on a police station in Egypt's Sinai Peninsula. ](/news/2015/03/10/a-suicide-bomber-kills-one-person-and-injures-24-in-an-attack-on-a-police-station-in-egypt-s-sinai-peninsula.md)
 Two bombings in Egypt&#x27;s Sinai Peninsula, one of them a suicide attack on a police base, killed a civilian and an army officer Tuesday as an Islamist insurgency showed no let-up, officials said. The Islamic State group&#x27;s Egyptian affiliate, Ansar Beit al-Maqdis (Partisans of Jerusalem), sai...
 
-##### soul music
+##### Soul music
 ### [The family of soul music singer Marvin Gaye wins a $7.3 million lawsuit for copyright infringement against Robin Thicke, Pharrell Williams, and T.I. holding that Thicke's hit "Blurred Lines" resembled Gaye's "Got to Give It Up". ](/news/2015/03/10/the-family-of-soul-music-singer-marvin-gaye-wins-a-7-3-million-lawsuit-for-copyright-infringement-against-robin-thicke-pharrell-williams.md)
 Robin Thicke has lost the &quot;Blurred Lines&quot; lawsuit he has been engaged in with the Marvin Gaye estate.
 
-##### collides
+##### Collides
 ### [A passenger train collides with a lorry on a level crossing at Dien Sanh, Vietnam leaving one person dead and several others injured. ](/news/2015/03/10/a-passenger-train-collides-with-a-lorry-on-a-level-crossing-at-dien-sanh-vietnam-leaving-one-person-dead-and-several-others-injured.md)
-_Context: Vietnam, collides_
+_Context: collides, Vietnam_
 
 ##### New Zealand
 ### [Police in New Zealand announce they are investigating threats to contaminate infant formula, after letters were sent to dairy cooperative Fonterra and farming lobby group Federated Farmers containing packages of infant formula laced with 1080 poison. ](/news/2015/03/10/police-in-new-zealand-announce-they-are-investigating-threats-to-contaminate-infant-formula-after-letters-were-sent-to-dairy-cooperative-fo.md)

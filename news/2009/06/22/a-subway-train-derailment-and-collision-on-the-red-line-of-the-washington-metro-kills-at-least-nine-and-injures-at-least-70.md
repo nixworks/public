@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/22/a-subway-train-derailment-and-collision-on-the-
 
 ### [2009-06-22](/news/2009/06/22/index.md)
 
-##### derailment and collision
+##### Derailment and collision
 #  A subway train derailment and collision on the Red Line of the Washington Metro kills at least nine and injures at least 70. 
 
 WTOP brings you the latest news, traffic, and weather information for the Washington, D.C. region. Catch up on the issues and topics important to you today.

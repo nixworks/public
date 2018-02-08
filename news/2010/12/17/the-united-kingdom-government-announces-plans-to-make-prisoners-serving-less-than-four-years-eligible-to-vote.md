@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/17/the-united-kingdom-government-announces-plans-t
 
 ### [2010-12-17](/news/2010/12/17/index.md)
 
-##### government
+##### Government
 # The United Kingdom government announces plans to make prisoners serving less than four years eligible to vote. 
 
 The government announces that prisoners serving fewer than four years will be eligible to vote, although a sentencing judge will be able to remove the right.

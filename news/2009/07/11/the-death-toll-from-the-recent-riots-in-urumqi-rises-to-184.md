@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/11/the-death-toll-from-the-recent-riots-in-urumqi-
 
 ### [2009-07-11](/news/2009/07/11/index.md)
 
-##### riots
+##### Riots
 #  The death toll from the recent riots in rmqi rises to 184. 
 
 

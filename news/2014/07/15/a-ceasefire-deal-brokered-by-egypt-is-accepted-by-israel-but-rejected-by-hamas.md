@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/15/a-ceasefire-deal-brokered-by-egypt-is-accepted-
 
 ### [2014-07-15](/news/2014/07/15/index.md)
 
-##### ceasefire
+##### Ceasefire
 # A ceasefire deal, brokered by Egypt, is accepted by Israel but rejected by Hamas. 
 
 Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace deal, saying it had not been consulted

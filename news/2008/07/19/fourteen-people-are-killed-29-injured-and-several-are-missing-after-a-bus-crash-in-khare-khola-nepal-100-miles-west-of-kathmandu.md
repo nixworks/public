@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/19/fourteen-people-are-killed-29-injured-and-sever
 
 ### [2008-07-19](/news/2008/07/19/index.md)
 
-##### bus
+##### Bus
 #  Fourteen people are killed, 29 injured and several are missing after a bus crash in Khare Khola, Nepal 100 miles west of Kathmandu. 
 
 

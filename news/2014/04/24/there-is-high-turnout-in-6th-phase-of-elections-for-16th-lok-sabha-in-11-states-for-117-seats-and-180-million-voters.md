@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/24/there-is-high-turnout-in-6th-phase-of-elections
 
 ### [2014-04-24](/news/2014/04/24/index.md)
 
-##### election
+##### Election
 # There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.
 
 

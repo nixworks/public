@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/27/the-highest-surface-wind-gust-ever-recorded-of-
 
 ### [2010-01-27](/news/2010/01/27/index.md)
 
-##### highest surface wind gust
+##### Highest surface wind gust
 # The highest surface wind gust ever recorded of 220 kt at Barrow Island, Australia in 1996 is ratified by the WMO. 
 
 

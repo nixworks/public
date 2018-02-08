@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/23/a-drone-attack-conducted-by-the-united-states-k
 
 ### [2012-05-23](/news/2012/05/23/index.md)
 
-##### drones launch
+##### Drones launch
 # A drone attack conducted by the United States kills five people in a tribal area of North Waziristan, Pakistan. 
 
 

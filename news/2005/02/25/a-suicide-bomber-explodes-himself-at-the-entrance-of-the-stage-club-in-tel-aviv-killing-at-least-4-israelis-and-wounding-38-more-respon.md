@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/25/a-suicide-bomber-explodes-himself-at-the-entran
 
 ### [2005-02-25](/news/2005/02/25/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber explodes himself at the entrance of the "Stage" club in Tel Aviv, killing at least 4 Israelis and wounding 38 more. Responsibility is reportedly claimed by Islamic Jihad. 
 
 

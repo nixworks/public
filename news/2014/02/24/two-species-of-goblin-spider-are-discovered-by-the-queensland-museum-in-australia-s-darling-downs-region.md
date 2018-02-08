@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/24/two-species-of-goblin-spider-are-discovered-by-
 
 ### [2014-02-24](/news/2014/02/24/index.md)
 
-##### goblin spider
+##### Goblin spider
 # Two species of goblin spider are discovered by the Queensland Museum in Australia's Darling Downs region. 
 
 

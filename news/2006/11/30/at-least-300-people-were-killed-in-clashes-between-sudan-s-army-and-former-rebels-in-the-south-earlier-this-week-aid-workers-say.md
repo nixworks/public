@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/30/at-least-300-people-were-killed-in-clashes-betw
 
 ### [2006-11-30](/news/2006/11/30/index.md)
 
-##### clashes
+##### Clashes
 #  At least 300 people were killed in clashes between Sudan's army and former rebels in the south earlier this week, aid workers say. 
 
 

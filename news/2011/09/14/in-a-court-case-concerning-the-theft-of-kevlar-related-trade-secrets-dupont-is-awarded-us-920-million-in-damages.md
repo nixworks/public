@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/14/in-a-court-case-concerning-the-theft-of-kevlar-
 
 ### [2011-09-14](/news/2011/09/14/index.md)
 
-##### court case
+##### Court case
 # In a court case concerning the theft of Kevlar-related trade secrets, DuPont is awarded US$920 million in damages.
 
 

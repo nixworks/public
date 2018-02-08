@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/16/six-construction-workers-injured-when-scaffoldi
 
 ### [2015-10-16](/news/2015/10/16/index.md)
 
-##### scaffolding
+##### Scaffolding
 # Six construction workers, injured when scaffolding at an unfinished building collapsed in Houston, Texas (US), are rushed to area hospitals with non-life threatening injuries. Firefighters continue to sift through the debris for other potential victims. 
 
 Several people are feared trapped after scaffolding collapsed Friday morning at building in downtown Houston.

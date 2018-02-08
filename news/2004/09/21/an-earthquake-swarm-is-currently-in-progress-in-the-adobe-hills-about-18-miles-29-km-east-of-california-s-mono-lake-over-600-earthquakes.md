@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/21/an-earthquake-swarm-is-currently-in-progress-in
 
 ### [2004-09-21](/news/2004/09/21/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake swarm is currently in progress in the Adobe Hills about 18 miles (29 km) east of California's Mono Lake. Over 600 earthquakes have been recorded since September 18, including events of moment magnitude 4.8, 5,4, and 5.5. 
 
 

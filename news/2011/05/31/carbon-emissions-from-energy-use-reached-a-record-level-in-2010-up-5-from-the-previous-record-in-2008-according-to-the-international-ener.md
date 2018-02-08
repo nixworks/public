@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/31/carbon-emissions-from-energy-use-reached-a-reco
 
 ### [2011-05-31](/news/2011/05/31/index.md)
 
-##### greenhouse gas emissions
+##### Greenhouse gas emissions
 # Carbon emissions from energy use reached a record level in 2010, up 5% from the previous record in 2008, according to the International Energy Agency, which said it was a "serious setback" to limit global temperature increase to 2 degrees Celsius (3.6 F), set at the U.N. climate change talks in Cancun, Mexico, last year. 
 
 Carbon emissions from energy use reached a record level last year, up 5% from the previous record in 2008, the International Energy Agency said.

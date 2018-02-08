@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/9/stock-prices-rise-at-stock-exchanges-around-the-
 
 ### [2011-12-9](/news/2011/12/9/index.md)
 
-##### stock exchange
+##### Stock exchange
 # Stock prices rise at stock exchanges around the world, and some analysts see this as a reaction to a fiscal agreement among the leaders of the eurozone. 
 
 

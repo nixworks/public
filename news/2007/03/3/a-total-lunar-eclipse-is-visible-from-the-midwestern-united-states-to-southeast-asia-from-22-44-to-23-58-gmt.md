@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/3/a-total-lunar-eclipse-is-visible-from-the-midwes
 
 ### [2007-03-3](/news/2007/03/3/index.md)
 
-##### lunar eclipse
+##### Lunar eclipse
 #  A total lunar eclipse is visible from the Midwestern United States to Southeast Asia from 22:44 to 23:58 GMT. 
 
 

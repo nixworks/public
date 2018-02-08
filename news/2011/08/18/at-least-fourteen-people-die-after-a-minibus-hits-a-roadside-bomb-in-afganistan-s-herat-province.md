@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/18/at-least-fourteen-people-die-after-a-minibus-hi
 
 ### [2011-08-18](/news/2011/08/18/index.md)
 
-##### minibus
+##### Minibus
 # At least fourteen people die after a minibus hits a roadside bomb in Afganistan's Herat province. 
 
 

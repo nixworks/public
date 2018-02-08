@@ -11,11 +11,11 @@ ISLAMABAD (Online) - The United States has offered help to probe the terrorist a
 ### [A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others. No one claims responsibility. Thai Society president Songvut Manoonpong says that parties opposing the Thai military government are responsible. ](/news/2015/08/17/a-bomb-explodes-near-the-erawan-shrine-in-bangkok-thailand-killing-at-least-19-people-and-injuring-123-others-no-one-claims-responsibilit.md)
 The live blog has closed off. See our main article for all information on the situation in Bangkok. - New Zealand Herald
 
-##### the explosions last year
+##### The explosions last year
 ### [Protesters in Tianjin demand answers and compensation from the government. ](/news/2015/08/17/protesters-in-tianjin-demand-answers-and-compensation-from-the-government.md)
 People in the Chinese city of Tianjin whose homes were damaged by the huge explosions at on 12 August have staged protests to demand compensation from the government.
 
-##### heat wave
+##### Heat wave
 ### [A heat wave affecting the Middle East causes almost 100 deaths in Egypt. ](/news/2015/08/17/a-heat-wave-affecting-the-middle-east-causes-almost-100-deaths-in-egypt.md)
 Temperatures have soared past 50C in some countries recently and caused scores of deaths in Egypt.
 
@@ -25,7 +25,7 @@ Rescuers in Indonesia are trying to reach the site where a Trigana Airlines plan
 
 ##### U.S. Department of Energy
 ### [Experiments at the U.S. Department of Energy's SLAC National Accelerator Laboratory map brain signalling processes at an atomic level, in this case, the SNARE complex (neuronal SNAREs and synaptotagmin-1), which influences the control and release of neurotransmitters.](/news/2015/08/17/experiments-at-the-u-s-department-of-energy-s-slac-national-accelerator-laboratory-map-brain-signalling-processes-at-an-atomic-level-in-th.md)
-_Context: U.S. Department of Energy, SLAC National Accelerator Laboratory, neurotransmitters, SNARE, synaptotagmin_
+_Context: SLAC National Accelerator Laboratory, SNARE, U.S. Department of Energy, neurotransmitters, synaptotagmin_
 
 ##### South Korea
 ### [South Korea and the United States commence a joint military exercise despite threats from North Korea. ](/news/2015/08/17/south-korea-and-the-united-states-commence-a-joint-military-exercise-despite-threats-from-north-korea.md)
@@ -47,7 +47,7 @@ _Context: Internal Revenue Service_
 ### [Egyptian President Abdel Fattah el-Sisi approves a controversial anti-terrorism law. Proponents say it will help fight terrorism, and opponents say the legislation will jeopardize civil rights including freedom of the press. ](/news/2015/08/17/egyptian-president-abdel-fattah-el-sisi-approves-a-controversial-anti-terrorism-law-proponents-say-it-will-help-fight-terrorism-and-oppone.md)
 _Context: civil rights, Abdel Fattah el-Sisi, freedom of the press_
 
-##### second degree murder
+##### Second degree murder
 ### [Authorities charge a former police officer with second degree murder, in connection with the on-duty shooting death of John Geer in Fairfax, Virginia, U.S., in August 2013. ](/news/2015/08/17/authorities-charge-a-former-police-officer-with-second-degree-murder-in-connection-with-the-on-duty-shooting-death-of-john-geer-in-fairfax.md)
 The former Fairfax County Police officer who shot and killed Springfield, Virginia, resident John Geer in the doorway of his home was indicted on a second-degree murder charge, police announced Monday,...
 
@@ -55,7 +55,7 @@ The former Fairfax County Police officer who shot and killed Springfield, Virgin
 ### [American actor Emile Hirsch takes a plea for 15 days in jail for an assault on a Paramount Pictures executive at the Sundance Resort in Utah. ](/news/2015/08/17/american-actor-emile-hirsch-takes-a-plea-for-15-days-in-jail-for-an-assault-on-a-paramount-pictures-executive-at-the-sundance-resort-in-utah.md)
 UPDATED with more from the hearing: Facing five years behind bars for felony and misdemeanor charges resulting from his violent and drunken January 25 nightclub attack on Paramount Digital VP Danie…
 
-##### election
+##### Election
 ### [Voters in Sri Lanka go to the polls for a general election with the ruling United National Party holding on to power. ](/news/2015/08/17/voters-in-sri-lanka-go-to-the-polls-for-a-general-election-with-the-ruling-united-national-party-holding-on-to-power.md)
 Sri Lankans finish voting in a general election in which former President Mahinda Rajapaksa hopes to return to office as prime minister.
 

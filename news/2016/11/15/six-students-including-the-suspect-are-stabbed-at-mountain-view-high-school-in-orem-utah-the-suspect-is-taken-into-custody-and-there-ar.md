@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/15/six-students-including-the-suspect-are-stabbed-
 
 ### [2016-11-15](/news/2016/11/15/index.md)
 
-##### stabbed
+##### Stabbed
 # Six students, including the suspect, are stabbed at Mountain View High School in Orem, Utah. The suspect is taken into custody, and there are no reports of life threatening injuries. 
 
 

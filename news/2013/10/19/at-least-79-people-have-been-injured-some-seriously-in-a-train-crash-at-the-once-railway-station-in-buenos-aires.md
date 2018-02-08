@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/19/at-least-79-people-have-been-injured-some-serio
 
 ### [2013-10-19](/news/2013/10/19/index.md)
 
-##### train crash
+##### Train crash
 # At least 79 people have been injured, some seriously, in a train crash at the Once railway station in Buenos Aires. 
 
 

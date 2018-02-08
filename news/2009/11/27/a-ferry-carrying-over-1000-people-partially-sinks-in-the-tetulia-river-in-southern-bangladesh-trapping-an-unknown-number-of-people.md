@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/27/a-ferry-carrying-over-1000-people-partially-sin
 
 ### [2009-11-27](/news/2009/11/27/index.md)
 
-##### ferry accident
+##### Ferry accident
 #  A ferry carrying over 1000 people partially sinks in the Tetulia river in southern Bangladesh, trapping an unknown number of people. 
 
 

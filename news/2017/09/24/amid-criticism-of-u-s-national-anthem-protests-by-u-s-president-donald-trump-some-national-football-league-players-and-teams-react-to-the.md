@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/24/amid-criticism-of-u-s-national-anthem-protests-
 
 ### [2017-09-24](/news/2017/09/24/index.md)
 
-##### national anthem protests
+##### National anthem protests
 # Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem. 
 
 It started early Sunday in London and continued throughout the NFL as players, coaches and even owners locked arms or knelt during the national anthem.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/26/at-least-60-miners-are-trapped-underground-foll
 
 ### [2007-11-26](/news/2007/11/26/index.md)
 
-##### miner
+##### Miner
 #  At least 60 miners are trapped underground following an explosion in a gold mine in Ponce Enriquez in southern Ecuador. 
 
 

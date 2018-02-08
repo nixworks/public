@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/5/five-police-officers-are-killed-and-twelve-other
 
 ### [2014-10-5](/news/2014/10/5/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Five police officers are killed and twelve others wounded in a suicide bombing in Grozny, the capital of Russia's North Caucasian republic of Chechnya. 
 
 

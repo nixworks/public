@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/2/new-research-has-suggested-lung-cancer-patients-
 
 ### [2015-05-2](/news/2015/05/2/index.md)
 
-##### lung cancer
+##### Lung cancer
 # New research has suggested lung cancer patients could benefit from the use of statin drugs. Dr. Chris Cardwell, Ph.D., and researchers at Queens University Belfast in Northern Ireland found lung cancer patients who used statins within a year of diagnosis had a reduced risk of death from the disease, the American Association for Cancer Research reported. To make their finding, the research team looked at data on about 14,000 patients who were newly diagnosed with lung cancer between the years of 1998 and 2009 and were a part of the English cancer registry. 
 
 New research suggests lung cancer outcomes could be improved through statin use.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/11/a-new-video-broadcast-shows-al-qaeda-deputy-lea
 
 ### [2006-09-11](/news/2006/09/11/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  A new video broadcast shows Al-Qaeda deputy leader, Ayman al-Zawahiri, issuing a warning about possible future attacks in Israel and the Persian Gulf. 
 
 

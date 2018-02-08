@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-
 
 ### [2016-02-6](/news/2016/02/6/index.md)
 
-##### sledding
+##### Sledding
 # Twin brothers are killed and six others injured in a sledding accident on an Olympic bobsledding course at Canada Olympic Park in Calgary, Alberta. 
 
 

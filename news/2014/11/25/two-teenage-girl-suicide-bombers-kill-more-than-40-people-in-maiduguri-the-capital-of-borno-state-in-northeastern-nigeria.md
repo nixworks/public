@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/25/two-teenage-girl-suicide-bombers-kill-more-than
 
 ### [2014-11-25](/news/2014/11/25/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. 
 
 They carried the bombs under their hijabs, detonating them in a double suicide attack.

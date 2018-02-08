@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/2/up-to-100-people-are-killed-in-a-raid-of-al-bayd
 
 ### [2013-05-2](/news/2013/05/2/index.md)
 
-##### al-Bayda
+##### Al-Bayda
 # Up to 100 people are killed in a raid of al-Bayda, Baniyas by the Syrian Army. 
 
 Fierce clashes between troops and rebels erupted on Thursday for the first time in a Sunni Muslim village in Syria&#39;s Alawite-majority coastal region of Banias, killing dozens, including soldiers, a watchdog said.

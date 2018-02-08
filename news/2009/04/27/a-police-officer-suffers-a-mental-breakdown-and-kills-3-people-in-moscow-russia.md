@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/27/a-police-officer-suffers-a-mental-breakdown-and
 
 ### [2009-04-27](/news/2009/04/27/index.md)
 
-##### police officer
+##### Police officer
 #  A police officer suffers a mental breakdown and kills 3 people in Moscow, Russia. 
 
 An off-duty police chief has shot and killed two people and wounded seven others at a supermarket in Moscow.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/12/the-outcome-of-the-election-for-the-next-leader
 
 ### [2015-09-12](/news/2015/09/12/index.md)
 
-##### election for the next leader
+##### Election for the next leader
 # The outcome of the election for the next leader of the United Kingdom Labour Party is announced with Jeremy Corbyn winning the contest ahead of Yvette Cooper, Andy Burnham and Liz Kendall while Tom Watson is elected as the new deputy leader. 
 
 Jeremy Corbyn records extraordinary victory in Labour leadership election with more than 251,000 of 422,000 votes

@@ -7,17 +7,17 @@ Formats: [HTML](2013/08/11/index.html)  [JSON](2013/08/11/index.json)  [XML](201
 ### [Three U.S. soldiers are killed in an attack in Afghanistan's eastern Paktia province. ](/news/2013/08/11/three-u-s-soldiers-are-killed-in-an-attack-in-afghanistan-s-eastern-paktia-province.md)
 Soldiers killed in attack in Paktia province near border with Pakistan.
 
-##### al-Qaeda
+##### Al-Qaeda
 ### [Suspected Al-Qaeda militants kill five Yemeni soldiers in an attack on a gas terminal in Southern Yemen. ](/news/2013/08/11/suspected-al-qaeda-militants-kill-five-yemeni-soldiers-in-an-attack-on-a-gas-terminal-in-southern-yemen.md)
 Suspected al-Qaeda militants kill five soldiers in an attack on a gas terminal in Yemen, as the US reopens diplomatic missions in the wider region.
 
 ##### Syrian civil war
 ### [Syrian officers reports that Syrian Army kills senior Saudi Arabian al-Qaeda commander Abu Malik al-Shahri, who is known as 'Bin Laden of Syria', in outskirt of Latakia. ](/news/2013/08/11/syrian-officers-reports-that-syrian-army-kills-senior-saudi-arabian-al-qaeda-commander-abu-malik-al-shahri-who-is-known-as-bin-laden-of-sy.md)
-_Context: Latakia, Saudi Arabia, Osama bin Laden, Syrian civil war, al-Qaeda_
+_Context: Saudi Arabia, Syrian civil war, al-Qaeda, Osama bin Laden, Latakia_
 
 ##### Afgahanistan
 ### [Flash floods in Afgahanistan's Kabul province kill 22 people. ](/news/2013/08/11/flash-floods-in-afgahanistan-s-kabul-province-kill-22-people.md)
-_Context: Kabul, Afgahanistan_
+_Context: Afgahanistan, Kabul_
 
 ##### France
 ### [A coach crash in southern France kills two tourists and injures 30. ](/news/2013/08/11/a-coach-crash-in-southern-france-kills-two-tourists-and-injures-30.md)

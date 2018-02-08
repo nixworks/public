@@ -21,39 +21,39 @@ Thousands flee fresh violence in eastern DR Congo
 
 ##### South Africa
 ### [ South Africa defeats England to win the 2007 Rugby World Cup. ](/news/2007/10/20/south-africa-defeats-england-to-win-the-2007-rugby-world-cup.md)
-_Context: Rugby World Cup, World Cup, South Africa_
+_Context: World Cup, Rugby World Cup, South Africa_
 
 ##### Karachi
 ### [ Karachi police release a photograph of the suicide bomber who killed at least 130 people in the 2007 Karachi bombings. ](/news/2007/10/20/karachi-police-release-a-photograph-of-the-suicide-bomber-who-killed-at-least-130-people-in-the-2007-karachi-bombings.md)
-_Context: 2007 Karachi bombings, suicide bomber, Karachi, photograph_
+_Context: 2007 Karachi bombings, suicide bomber, photograph, Karachi_
 
 ##### J.K. Rowling
 ### [ J.K. Rowling has revealed that Dumbledore of the Harry Potter books is homosexual. ](/news/2007/10/20/j-k-rowling-has-revealed-that-dumbledore-of-the-harry-potter-books-is-homosexual.md)
-_Context: gay, Harry Potter, Dumbledore, J.K. Rowling_
+_Context: Dumbledore, J.K. Rowling, Harry Potter, gay_
 
 ##### Myanmar
 ### [ Myanmar's State Peace and Development Council lifts the curfew it imposed in Yangon and Mandalay on September 26. ](/news/2007/10/20/myanmar-s-state-peace-and-development-council-lifts-the-curfew-it-imposed-in-yangon-and-mandalay-on-september-26.md)
-_Context: curfew, Myanmar, Yangon, Mandalay, September 26, State Peace and Development Council_
+_Context: Yangon, Myanmar, September 26, Mandalay, State Peace and Development Council, curfew_
 
 ##### France
 ### [ French trains resume service after a two-day strike against President Nicolas Sarkozy's proposed welfare reform. ](/news/2007/10/20/french-trains-resume-service-after-a-two-day-strike-against-president-nicolas-sarkozy-s-proposed-welfare-reform.md)
-_Context: strike, welfare reform, French President, France's national railway company, Nicolas Sarkozy, France_
+_Context: strike, Nicolas Sarkozy, France, welfare reform, France's national railway company, French President_
 
 ##### Iraq
 ### [ Iraqi President Jalal Talabani criticizes Syrian President Bashar al-Assad for his support of a possible Turkish attack against Kurdistan Workers Party fighters in the Iraqi Kurdistan. ](/news/2007/10/20/iraqi-president-jalal-talabani-criticizes-syrian-president-bashar-al-assad-for-his-support-of-a-possible-turkish-attack-against-kurdistan-w.md)
-_Context: Kurdish, President, Jalal Talabani, Bashar al-Assad, Turkey, Syria, President of Iraq, Iraq, Kurdistan Workers Party_
+_Context: Kurdistan Workers Party, Syria, Bashar al-Assad, Jalal Talabani, Kurdish, President of Iraq, Turkey, Iraq, President_
 
 ##### Mikhail Gorbachev
 ### [ Mikhail Gorbachev founds a new political party in Russia, called Union of Social-Democrats. ](/news/2007/10/20/mikhail-gorbachev-founds-a-new-political-party-in-russia-called-union-of-social-democrats.md)
-_Context: political party, Mikhail Gorbachev, Russia, Union of Social-Democrats_
+_Context: Mikhail Gorbachev, political party, Union of Social-Democrats, Russia_
 
 ##### Saeed Jalili
 ### [ Saeed Jalili replaces Ali Larijani as Iran's nuclear negotiator. ](/news/2007/10/20/saeed-jalili-replaces-ali-larijani-as-iran-s-nuclear-negotiator.md)
-_Context: nuclear program, Saeed Jalili, negotiation, Iran, Ali Larijani_
+_Context: Saeed Jalili, nuclear program, negotiation, Iran, Ali Larijani_
 
-##### bomb
+##### Bomb
 ### [ At least seven people die in a bomb blast in the town of Dera Bugti in the Balochistan province of Pakistan. ](/news/2007/10/20/at-least-seven-people-die-in-a-bomb-blast-in-the-town-of-dera-bugti-in-the-balochistan-province-of-pakistan.md)
-_Context: Dera Bugti, Pakistan, Balochistan, bomb_
+_Context: bomb, Pakistan, Balochistan, Dera Bugti_
 
 ## [Previous Day...](/news/2007/10/19/index.md)
 

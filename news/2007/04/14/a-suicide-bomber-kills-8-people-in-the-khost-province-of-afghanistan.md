@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/14/a-suicide-bomber-kills-8-people-in-the-khost-pr
 
 ### [2007-04-14](/news/2007/04/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills 8 people in the Khost Province of Afghanistan. 
 
 

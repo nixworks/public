@@ -13,7 +13,7 @@ A suicide bomb attack at a hospital in the Pakistani city of Quetta kills at lea
 
 ##### Emperor
 ### [Emperor Akihito of Japan says he intends to lessen his official duties due to old age. ](/news/2016/08/8/emperor-akihito-of-japan-says-he-intends-to-lessen-his-official-duties-due-to-old-age.md)
-_Context: Emperor, Akihito, Japan_
+_Context: Emperor, Japan, Akihito_
 
 ##### Defense ministry
 ### [The Philippine Defense ministry prepares for the burial of former President Ferdinand Marcos in the Heroes' Cemetery. ](/news/2016/08/8/the-philippine-defense-ministry-prepares-for-the-burial-of-former-president-ferdinand-marcos-in-the-heroes-cemetery.md)
@@ -33,7 +33,7 @@ While remnants of Tropical Storm Earl were helping fuel the formation of Tropica
 
 ##### 2016 U.S. presidential election
 ### [A Filipino lawmaker proposes a bill banning Republican U.S. presidential candidate Donald Trump from entering the Philippines after Trump compared Filipino legal immigrants to terrorists. ](/news/2016/08/8/a-filipino-lawmaker-proposes-a-bill-banning-republican-u-s-presidential-candidate-donald-trump-from-entering-the-philippines-after-trump-co.md)
-_Context: Republican, 2016 U.S. presidential election, terrorists, Donald Trump, Philippines_
+_Context: Philippines, 2016 U.S. presidential election, Republican, terrorists, Donald Trump_
 
 ##### Japan-North Korea relations
 ### [Japan orders its military to shoot down any North Korean missiles that threaten to strike Japan at anytime, and is placing its forces on a state of alert for at least three months, according to a Ministry of Defense official. ](/news/2016/08/8/japan-orders-its-military-to-shoot-down-any-north-korean-missiles-that-threaten-to-strike-japan-at-anytime-and-is-placing-its-forces-on-a-s.md)

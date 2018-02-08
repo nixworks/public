@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/22/verkhovna-rada-the-parliament-of-ukraine-approv
 
 ### [2005-09-22](/news/2005/09/22/index.md)
 
-##### parliament
+##### Parliament
 #  Verkhovna Rada (the Parliament of Ukraine) approves Yuriy Yekhanurov as the country's new Prime Minister. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/17/british-home-secretary-theresa-may-will-address
 
 ### [2011-07-17](/news/2011/07/17/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # British Home Secretary Theresa May will address MPs on Monday following revelations that the Metropolitan Police hired former "News of the World" deputy editor Neil Wallis to give PR advice. 
 
 The home secretary is to address MPs following criticism over the closeness of the relationship between News International and the Met Police.

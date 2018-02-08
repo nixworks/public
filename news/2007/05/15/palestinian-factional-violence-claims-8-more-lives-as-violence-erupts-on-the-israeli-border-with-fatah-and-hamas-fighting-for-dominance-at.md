@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/15/palestinian-factional-violence-claims-8-more-li
 
 ### [2007-05-15](/news/2007/05/15/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence claims 8 more lives as violence erupts on the Israeli border with Fatah and Hamas fighting for dominance at the Karni cargo crossing in Gaza, ending Monday night's ceasefire agreement. 
 
 

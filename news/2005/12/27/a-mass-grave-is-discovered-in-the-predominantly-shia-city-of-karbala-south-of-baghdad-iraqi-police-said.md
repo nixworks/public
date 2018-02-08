@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/27/a-mass-grave-is-discovered-in-the-predominantly
 
 ### [2005-12-27](/news/2005/12/27/index.md)
 
-##### mass grave
+##### Mass grave
 #  A mass grave is discovered in the predominantly Shia city of Karbala south of Baghdad, Iraqi police said. 
 
 

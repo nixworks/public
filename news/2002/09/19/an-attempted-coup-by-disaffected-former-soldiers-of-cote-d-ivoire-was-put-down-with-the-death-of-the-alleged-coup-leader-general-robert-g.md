@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/09/19/an-attempted-coup-by-disaffected-former-soldier
 
 ### [2002-09-19](/news/2002/09/19/index.md)
 
-##### coup d'tat
+##### Coup d'tat
 #  An attempted coup by disaffected former soldiers of Cte d'Ivoire was put down, with the death of the alleged coup leader, General Robert Gu, a former military dictator of the country. Gu was killed when his car refused to stop at a roadblock in downtown Abidjan. Rebels continue in control of the cities of Bouak and Korhogo.
 
 

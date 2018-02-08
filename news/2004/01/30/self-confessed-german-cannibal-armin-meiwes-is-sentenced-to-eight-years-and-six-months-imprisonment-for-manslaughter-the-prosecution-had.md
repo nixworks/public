@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/30/self-confessed-german-cannibal-armin-meiwes-is-
 
 ### [2004-01-30](/news/2004/01/30/index.md)
 
-##### cannibalism
+##### Cannibalism
 #  Self-confessed German cannibal Armin Meiwes is sentenced to eight years and six months' imprisonment for manslaughter. The prosecution had sought a life sentence for murder.
 
 

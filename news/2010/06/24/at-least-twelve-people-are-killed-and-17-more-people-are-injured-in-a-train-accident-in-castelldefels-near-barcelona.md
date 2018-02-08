@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/24/at-least-twelve-people-are-killed-and-17-more-p
 
 ### [2010-06-24](/news/2010/06/24/index.md)
 
-##### train accident
+##### Train accident
 # At least twelve people are killed, and 17 more people are injured, in a train accident in Castelldefels, near Barcelona. 
 
 A train speeding through a Spanish railway station strikes a group of people crossing the tracks, killing 12 and injuring 14.

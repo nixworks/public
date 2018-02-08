@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/7/foreign-relations-of-the-republic-of-china-the-s
 
 ### [2003-11-7](/news/2003/11/7/index.md)
 
-##### maintaining official relations
+##### Maintaining official relations
 #  Foreign relations of the Republic of China: The South Pacific island nation of Kiribati recognizes the Republic of China, bringing the number of countries recognizing Taiwan to 27. Although it has not yet severed ties with the People's Republic of China and has expressed the intention to continue relations, Beijing is expected to break relations in response to this move.
 
 

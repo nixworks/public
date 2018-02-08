@@ -9,7 +9,7 @@ A hospital in north Yemen run by the medical aid group Medecins Sans Frontieres 
 
 ##### Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports the Islamic State, on Sunday, executed three detainees in the ancient Syrian city of Palmyra by strapping them to pillars and blowing them up with the antiquities. ISIL has yet to tell locals the identities of the three individuals or say why they had been killed. ](/news/2015/10/27/the-syrian-observatory-for-human-rights-reports-the-islamic-state-on-sunday-executed-three-detainees-in-the-ancient-syrian-city-of-palmyra.md)
-_Context: Syrian Civil War, Syrian Observatory for Human Rights, ISIL, Syria, Palmyra, destroyed_
+_Context: destroyed, Palmyra, Syrian Observatory for Human Rights, Syrian Civil War, ISIL, Syria_
 
 ##### U.S. airstrikes
 ### [United States Defense Secretary Ashton Carter says the U.S. will begin "direct action on the ground" against the ISIL forces in Iraq and Syria, aiming to intensify pressure on the militants as progress against the militants remains elusive. The U.S. has done some special operations raids in Syria, e.g., last week's rescue operation with Kurdish forces in northern Iraq to free hostages held by ISIL. Carter also said the U.S. would intensify the air campaign against ISIL with heavier airstrikes and will focus on Raqqa, the group's declared capital in Syria. ](/news/2015/10/27/united-states-defense-secretary-ashton-carter-says-the-u-s-will-begin-direct-action-on-the-ground-against-the-isil-forces-in-iraq-and-syr.md)
@@ -27,7 +27,7 @@ Three Palestinians were shot dead after attacking Israeli soldiers with knives i
 ### [Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan. The soldiers belonged to the Frontier Corps; the attack targeted a checkpoint northeast of the border village of Angoor Adda. ](/news/2015/10/27/pakistan-says-seven-of-its-soldiers-have-been-killed-in-the-south-waziristan-tribal-region-by-fire-from-across-the-border-with-afghanistan.md)
 Pakistan says seven of its soldiers have been killed in the South Waziristan tribal region by fire from across the border with Afghanistan.
 
-##### plea bargain
+##### Plea bargain
 ### [In a plea bargain with U.S. federal prosecutors, Rohit Bansal, a former Goldman Sachs banker accused of using private information leaked by source inside the Federal Reserve Bank of New York, has agreed to plead guilty. The leaked information was said to have given Goldman an undue advantage regarding client advisement. Goldman also faces fines from the New York State's Department of Financial Services. ](/news/2015/10/27/in-a-plea-bargain-with-u-s-federal-prosecutors-rohit-bansal-a-former-goldman-sachs-banker-accused-of-using-private-information-leaked-by.md)
 A former Goldman Sachs banker admitted his guilt in taking confidential documents from an employee at the Federal Reserve Bank of New York, who also agreed to plead guilty.
 
@@ -43,7 +43,7 @@ In a battle of defense giants, Northrop Grumman edges out Boeing-Lockheed team.
 ### [Rescuers continue a search for survivors of the earthquake in Afghanistan and Pakistan including in areas controlled by the Taliban. The death toll from the earthquake is 339 with many thousands injured. ](/news/2015/10/27/rescuers-continue-a-search-for-survivors-of-the-earthquake-in-afghanistan-and-pakistan-including-in-areas-controlled-by-the-taliban-the-dea.md)
 Rescuers pick their way through rugged terrain and pockets of Taliban insurgency searching for survivors after a massive quake hit Pakistan and Afghanistan, killing at least 306 people.
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 ### [ Indonesian forest fires have advanced into dense forest on Borneo and now threaten one third of the world's remaining wild orangutans, say conservationists. ](/news/2015/10/27/indonesian-forest-fires-have-advanced-into-dense-forest-on-borneo-and-now-threaten-one-third-of-the-worldas-remaining-wild-orangutans-sa.md)
 A species of the Great Apes is among the biggest casualties of the fires ravaging several parts of Indonesia and the Southeast Asian island of Borneo.
 
@@ -69,15 +69,15 @@ Philippines President Benigno Aquino said his country has &#034;no capacity&#034
 
 ##### Guatemala
 ### [Guatemala arrests 11 in a public hospital, medicine-buying kickback scheme. Two others remain at large, including Gustavo Alejos Cambara, the former private secretary to ex-President Alvaro Colom. A U.N. commission set up to tackle criminal networks in Guatemala participated in the investigation. ](/news/2015/10/27/guatemala-arrests-11-in-a-public-hospital-medicine-buying-kickback-scheme-two-others-remain-at-large-including-gustavo-alejos-cambara-th.md)
-_Context: organized crime, kickback scheme, President, Alvaro Colom, United Nations, public hospital, Guatemala_
+_Context: Alvaro Colom, organized crime, Guatemala, United Nations, public hospital, kickback scheme, President_
 
 ##### United Kingdom
 ### [Britain is reviewing the powers of the House of Lords after the unelected peers stalled legislation yesterday that would have eliminated some tax allowances for the nation's poor. Senior Conservatives say the upper chamber of Parliament stepped out of their usual roles as technical overseers of legislation. However, Conservative MP David Davis warned that such a move was "bully politics" that would "disgust" the public. ](/news/2015/10/27/britain-is-reviewing-the-powers-of-the-house-of-lords-after-the-unelected-peers-stalled-legislation-yesterday-that-would-have-eliminated-som.md)
-_Context: United Kingdom, David Davis, House of Lords, bully politics, Parliament, Conservatives, MP_
+_Context: bully politics, Parliament, House of Lords, David Davis, Conservatives, United Kingdom, MP_
 
 ##### Ivorian presidential election, 2015
 ### [Partial results from Sunday's election give Ivory Coast's President Alassane Ouattara an overwhelming lead (83.18 percent) on the way to a second five-year term. This weekend's vote was judged to be peaceful and transparent by observers, making it the first in Cote d'Ivoire's history not to be marred by serious rights violations or irregularities. ](/news/2015/10/27/partial-results-from-sunday-s-election-give-ivory-coast-s-president-alassane-ouattara-an-overwhelming-lead-83-18-percent-on-the-way-to-a-s.md)
-_Context: Ivorian presidential election, 2015, Ivory Coast, President, observers, serious rights violations or irregularities, Alassane Ouattara_
+_Context: President, serious rights violations or irregularities, Alassane Ouattara, observers, Ivory Coast, Ivorian presidential election, 2015_
 
 ## [Previous Day...](/news/2015/10/26/index.md)
 

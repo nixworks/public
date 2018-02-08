@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/26/2013-santa-cruz-shooting-two-police-officers-ar
 
 ### [2013-02-26](/news/2013/02/26/index.md)
 
-##### police officers
+##### Police officers
 # 2013 Santa Cruz shooting: Two police officers are fatally shot in Santa Cruz, California, United States. The suspect is shot and killed. 
 
 

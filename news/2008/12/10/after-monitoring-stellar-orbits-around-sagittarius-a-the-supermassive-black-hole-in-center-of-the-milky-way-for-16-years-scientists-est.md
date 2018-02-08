@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/10/after-monitoring-stellar-orbits-around-sagittar
 
 ### [2008-12-10](/news/2008/12/10/index.md)
 
-##### orbit
+##### Orbit
 #  After monitoring stellar orbits around Sagittarius A* (the supermassive black hole in center of the Milky Way) for 16 years, scientists estimate the object's mass at 4.31 million solar masses. 
 
 Like ballerinas pirouetting around an invisible leader, a collection of stars orbits our galaxy&#39;s gravity sink, or black hole. New infrared images of the cosmic dance confirm that this supermassive black hole weighs as much as 4 million suns.

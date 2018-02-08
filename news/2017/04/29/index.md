@@ -7,9 +7,9 @@ Formats: [HTML](2017/04/29/index.html)  [JSON](2017/04/29/index.json)  [XML](201
 ### [The U.S. Pacific Command and South Korean defense officials report that a North Korean missile was fired in the early morning, but quickly failed and did not travel beyond North Korea, echoing a similar failed attempt by North Korea thirteen days ago. ](/news/2017/04/29/the-u-s-pacific-command-and-south-korean-defense-officials-report-that-a-north-korean-missile-was-fired-in-the-early-morning-but-quickly-f.md)
 The missile exploded shortly after launch, but Kim&rsquo;s ambitions are clear.
 
-##### landslide
+##### Landslide
 ### [At least 24 people are killed by a landslide in the small village of Ayu in southern Kyrgyzstan. ](/news/2017/04/29/at-least-24-people-are-killed-by-a-landslide-in-the-small-village-of-ayu-in-southern-kyrgyzstan.md)
-_Context: Kyrgyzstan, landslide_
+_Context: landslide, Kyrgyzstan_
 
 ##### 2017 Aerogaviota Antonov An-26 crash
 ### [An Aerogaviota-operated Antonov An-26 plane crashes in western Artemisa Province, Cuba, killing eight troops on board. ](/news/2017/04/29/an-aerogaviota-operated-antonov-an-26-plane-crashes-in-western-artemisa-province-cuba-killing-eight-troops-on-board.md)
@@ -29,7 +29,7 @@ Website ‘undergoing changes’ to reflect agency’s ‘new direction’, as t
 
 ##### University of Puerto Rico strikes, 2017
 ### [Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). ](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-rico-because-of-university-budget-cuts-from-the-puerto-rico-oversight-board-promesa.md)
-_Context: University of Puerto Rico, University of Puerto Rico strikes, 2017, Puerto Rico Oversight Board (PROMESA)_
+_Context: University of Puerto Rico strikes, 2017, Puerto Rico Oversight Board (PROMESA), University of Puerto Rico_
 
 ##### Brexit
 ### [European Union leaders approve negotiating guidelines that seek to secure "sufficient progress" on the rights of European Union expatriates living in the United Kingdom, on the financial terms of the separation and on a "soft border" between the Republic of Ireland and Northern Ireland, before committing to talk about a new free trade deal. ](/news/2017/04/29/european-union-leaders-approve-negotiating-guidelines-that-seek-to-secure-sufficient-progress-on-the-rights-of-european-union-expatriates.md)

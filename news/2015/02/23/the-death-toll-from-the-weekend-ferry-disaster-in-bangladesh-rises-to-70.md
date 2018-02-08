@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/23/the-death-toll-from-the-weekend-ferry-disaster-
 
 ### [2015-02-23](/news/2015/02/23/index.md)
 
-##### ferry disaster
+##### Ferry disaster
 # The death toll from the weekend ferry disaster in Bangladesh rises to 70. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/29/five-record-labels-sue-sharman-networks-the-own
 
 ### [2004-11-29](/news/2004/11/29/index.md)
 
-##### record label
+##### Record label
 #  Five record labels sue Sharman Networks, the owner of peer-to-peer file-sharing system Kazaa, for facilitating copyright violations in an Australian court. 
 
 

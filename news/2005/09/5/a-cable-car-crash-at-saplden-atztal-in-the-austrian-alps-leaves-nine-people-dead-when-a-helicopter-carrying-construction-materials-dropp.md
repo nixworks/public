@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/5/a-cable-car-crash-at-saplden-atztal-in-the-austr
 
 ### [2005-09-5](/news/2005/09/5/index.md)
 
-##### cable car
+##### Cable car
 #  A cable car crash at Solden, Otztal, in the Austrian Alps leaves nine people dead when a helicopter carrying construction materials dropped concrete onto the cable. 
 
 

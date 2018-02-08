@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/23/the-death-toll-from-floods-in-the-indian-state-
 
 ### [2015-08-23](/news/2015/08/23/index.md)
 
-##### flood
+##### Flood
 # The death toll from floods in the Indian state of Assam rises to seven, with 650,000 people displaced. 
 
 Seven people have died and over 650,000 people have been affected by floods in Assam. The situation has worsened due to incessant rains across the state.

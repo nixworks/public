@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/8/tens-of-thousands-of-protesters-continue-to-camp
 
 ### [2012-12-8](/news/2012/12/8/index.md)
 
-##### presidential palace
+##### Presidential palace
 # Tens of thousands of protesters continue to camp outside the Palace of the President of Egypt Mohamed Morsi. 
 
 The Egyptian opposition maintains protests outside the presidential palace in Cairo, as it rejects a call for dialogue by President Mohammed Morsi.

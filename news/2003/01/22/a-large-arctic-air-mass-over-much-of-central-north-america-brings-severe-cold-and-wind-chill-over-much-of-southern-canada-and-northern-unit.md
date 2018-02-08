@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/01/22/a-large-arctic-air-mass-over-much-of-central-no
 
 ### [2003-01-22](/news/2003/01/22/index.md)
 
-##### wind chill
+##### Wind chill
 #  A large Arctic air mass over much of central North America brings severe cold and wind chill over much of southern Canada and northern United States for several days.
 
 

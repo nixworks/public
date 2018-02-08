@@ -3,7 +3,7 @@ Formats: [HTML](2012/05/17/index.html)  [JSON](2012/05/17/index.json)  [XML](201
 
 ## [2012-05-17](/news/2012/05/17/index.md)
 
-##### current east Congo conflict
+##### Current east Congo conflict
 ### [2012 East DR Congo conflict: The Democratic Republic of Congo (DRC)'s military has been shelling positions it believes are held by rebels who have been fighting the army for weeks in the country's east. ](/news/2012/05/17/2012-east-dr-congo-conflict-the-democratic-republic-of-congo-drc-s-military-has-been-shelling-positions-it-believes-are-held-by-rebels-wh.md)
 Exclusive report on fighting between the army and mutineering soldiers that has led to thousands fleeing the country.
 
@@ -21,7 +21,7 @@ Unidentified North Koreans holding 29 Chinese fishermen and three boats seized i
 
 ##### Daniel B. Shapiro
 ### [Daniel B. Shapiro, United States ambassador to Israel, says that the United States "is ready" to attack Iran to prevent the development of nuclear weapons within Iran. ](/news/2012/05/17/daniel-b-shapiro-united-states-ambassador-to-israel-says-that-the-united-states-is-ready-to-attack-iran-to-prevent-the-development-of-n.md)
-_Context: Iran, nuclear program, Daniel B. Shapiro, Israel_
+_Context: Israel, nuclear program, Daniel B. Shapiro, Iran_
 
 ##### Bosnian Serb
 ### [The trial of former Bosnian Serb Army Colonel General Ratko Mladic is deferred indefinitely due to errors by prosecutors in disclosing evidence to the defence. ](/news/2012/05/17/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-is-deferred-indefinitely-due-to-errors-by-prosecutors-in-disclosing-evid.md)

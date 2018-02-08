@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/6/the-counting-of-votes-in-uk-local-elections-cont
 
 ### [2011-05-6](/news/2011/05/6/index.md)
 
-##### council elections
+##### Council elections
 # The counting of votes in UK local elections continues with the Labour Party making gains and the Liberal Democrats losing seats. 
 
 Nick Clegg faces calls to step down as Lib Dem leader after the party suffered heavy losses in councils in the English council elections.
@@ -17,7 +17,7 @@ Nick Clegg faces calls to step down as Lib Dem leader after the party suffered h
 
 ### Changes:
 
-1. [The counting of votes in the Welsh elections continue with the Labour Party to retain control possibly with an absolute majority. ](/news/2011/05/6/the-counting-of-votes-in-the-welsh-elections-continue-with-the-labour-party-to-retain-control-possibly-with-an-absolute-majority.md) _2018-02-06 15:43:11 (First version)_
+1. [The counting of votes in the Welsh elections continue with the Labour Party to retain control possibly with an absolute majority. ](/news/2011/05/6/the-counting-of-votes-in-the-welsh-elections-continue-with-the-labour-party-to-retain-control-possibly-with-an-absolute-majority.md) _2018-02-07 04:18:28 (First version)_
 1. [The counting of votes in UK local elections continues with the Labour Party making gains and the Liberal Democrats losing seats. ](/news/2011/05/6/the-counting-of-votes-in-uk-local-elections-continues-with-the-labour-party-making-gains-and-the-liberal-democrats-losing-seats.md) _(Current version)_
 
 ### Related:

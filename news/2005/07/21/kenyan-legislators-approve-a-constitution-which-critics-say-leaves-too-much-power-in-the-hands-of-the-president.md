@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/21/kenyan-legislators-approve-a-constitution-which
 
 ### [2005-07-21](/news/2005/07/21/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  Kenyan legislators approve a constitution which critics say leaves too much power in the hands of the President. 
 
 

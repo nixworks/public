@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-
 
 ### [2010-10-23](/news/2010/10/23/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # 2010 strikes in France: French unions challenge a back-to-work order in court, one day after the senate voted in favour of increasing their retirement age. 
 
 Strikers contest a government back-to-work order in court, a day after senate passes controversial pension reforms.

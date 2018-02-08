@@ -5,7 +5,7 @@ Formats: [HTML](2010/05/21/index.html)  [JSON](2010/05/21/index.json)  [XML](201
 
 ##### Diyala province
 ### [The death toll from Friday's suicide minibus bomb attack in Diyala province, Iraq rose to 35 killed and 69 wounded. ](/news/2010/05/21/the-death-toll-from-friday-s-suicide-minibus-bomb-attack-in-diyala-province-iraq-rose-to-35-killed-and-69-wounded.md)
-_Context: Diyala province, Iraq_
+_Context: Iraq, Diyala province_
 
 ##### Salva Kiir Mayardit
 ### [Salva Kiir Mayardit is inaugurated as the first elected president of Southern Sudan. ](/news/2010/05/21/salva-kiir-mayardit-is-inaugurated-as-the-first-elected-president-of-southern-sudan.md)
@@ -13,7 +13,7 @@ Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;w
 
 ##### Gurkha
 ### [Gurkha leader Madan Tamang is stabbed to death by a mob at the start a public meeting in West Bengal. ](/news/2010/05/21/gurkha-leader-madan-tamang-is-stabbed-to-death-by-a-mob-at-the-start-a-public-meeting-in-west-bengal.md)
-_Context: Gurkha, West Bengal, Madan Tamang_
+_Context: West Bengal, Gurkha, Madan Tamang_
 
 ##### Niger
 ### [Nigeriens flee across the border into Nigeria due to a food crisis in Niger. ](/news/2010/05/21/nigeriens-flee-across-the-border-into-nigeria-due-to-a-food-crisis-in-niger.md)
@@ -21,7 +21,7 @@ _Context: Nigeria, Niger_
 
 ##### Delhi High Court
 ### [Delhi High Court acquits three accused in a 1984 anti-Sikh riots case at Shastri Nagar in North Delhi following the assassination of Prime Minister Indira Gandhi on October 31, 1984. ](/news/2010/05/21/delhi-high-court-acquits-three-accused-in-a-1984-anti-sikh-riots-case-at-shastri-nagar-in-north-delhi-following-the-assassination-of-prime-m.md)
-_Context: North Delhi, Delhi High Court, Indira Gandhi, Prime Minister_
+_Context: Prime Minister, Delhi High Court, Indira Gandhi, North Delhi_
 
 ##### Al Khalis
 ### [At least 22 people are killed and at least 53 others are injured after a car bomb explodes at a market in Al Khalis, Diyala in Iraq. ](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.md)
@@ -31,17 +31,17 @@ At least 30 people killed and 80 wounded in car bomb at market in Diyala provinc
 ### [Hundreds of people protest in Cannes over "Hors-la-loi", a Rachid Bouchareb directed film about Algeria's struggle for independence against France. ](/news/2010/05/21/hundreds-of-people-protest-in-cannes-over-hors-la-loi-a-rachid-bouchareb-directed-film-about-algeria-s-struggle-for-independence-against.md)
 What to do... what to do...
 
-##### immigration law
+##### Immigration law
 ### [Campaigners against an immigration law in the U.S. state of Arizona adopt children's cartoon character Dora the Explorer as a symbol of their cause. ](/news/2010/05/21/campaigners-against-an-immigration-law-in-the-u-s-state-of-arizona-adopt-children-s-cartoon-character-dora-the-explorer-as-a-symbol-of-thei.md)
 Famed cartoon Dora the Explorer has been mocked in an image that shows the 7-year-old as an illegal immigrant
 
 ##### Kaziranga National Park
 ### [Guards at the Kaziranga National Park (KNP) near Guwahati intercept and kill four poachers in the most successful operation ever against poachers in the northeast of India. ](/news/2010/05/21/guards-at-the-kaziranga-national-park-knp-near-guwahati-intercept-and-kill-four-poachers-in-the-most-successful-operation-ever-against-poa.md)
-_Context: India, Guwahati, Kaziranga National Park_
+_Context: Guwahati, India, Kaziranga National Park_
 
 ##### Special Court for Sierra Leone
 ### [Prosecutors of the Special Court for Sierra Leone request United Nations judges to force supermodel Naomi Campbell to testify over allegations that she received a blood diamond from the former President of Liberia Charles Taylor. ](/news/2010/05/21/prosecutors-of-the-special-court-for-sierra-leone-request-united-nations-judges-to-force-supermodel-naomi-campbell-to-testify-over-allegatio.md)
-_Context: Charles Taylor, President of Liberia, blood diamond, Special Court for Sierra Leone, United Nations, Naomi Campbell_
+_Context: blood diamond, Charles Taylor, Naomi Campbell, President of Liberia, United Nations, Special Court for Sierra Leone_
 
 ##### Taliban
 ### [Taliban and Afghan government representatives meet for unofficial talks in the Maldives. ](/news/2010/05/21/taliban-and-afghan-government-representatives-meet-for-unofficial-talks-in-the-maldives.md)
@@ -53,7 +53,7 @@ _Context: Indian Hockey Federation_
 
 ##### South Africa
 ### [A bid is unsuccessful by South Africa's Jamiatul Ulama Transvaal to stop the publication of Jonathan Shapiro's cartoon of Muhammad on a psychiatrist's couch bemoaning his followers' sense of humour failure. ](/news/2010/05/21/a-bid-is-unsuccessful-by-south-africa-s-jamiatul-ulama-transvaal-to-stop-the-publication-of-jonathan-shapiro-s-cartoon-of-muhammad-on-a-psyc.md)
-_Context: South Africa, Jamiatul Ulama Transvaal, Muhammad, Jonathan Shapiro_
+_Context: South Africa, Muhammad, Jonathan Shapiro, Jamiatul Ulama Transvaal_
 
 ##### Rapti
 ### [Six girls aged between eight and twelve years drown in the Rapti in Balrampur while bathing. ](/news/2010/05/21/six-girls-aged-between-eight-and-twelve-years-drown-in-the-rapti-in-balrampur-while-bathing.md)
@@ -61,7 +61,7 @@ _Context: Rapti, Balrampur_
 
 ##### BP
 ### [The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as-next-week-but-noted-the-plugg.md)
-_Context: BP, Gulf of Mexico_
+_Context: Gulf of Mexico, BP_
 
 ##### Khanpur
 ### [Around 125 people become ill at a wedding ceremony in Khanpur. ](/news/2010/05/21/around-125-people-become-ill-at-a-wedding-ceremony-in-khanpur.md)

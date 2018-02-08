@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/22/at-least-72-people-are-killed-and-169-wounded-i
 
 ### [2011-12-22](/news/2011/12/22/index.md)
 
-##### series of 16 bombing attacks
+##### Series of 16 bombing attacks
 # At least 72 people are killed and 169 wounded in a series of 16 bombing attacks in the Iraqi capital Baghdad, shortly after the final withdrawal of American forces from Iraq. 
 
 A wave of apparently co-ordinated bomb attacks in the Iraqi capital, Baghdad, kills at least 68 people and injure scores, officials say.

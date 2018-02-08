@@ -7,7 +7,7 @@ Formats: [HTML](2017/01/7/index.html)  [JSON](2017/01/7/index.json)  [XML](2017/
 ### [A fuel truck explodes in the Syrian town of Azaz, near the border with Turkey, killing at least 43 people, according to the Syrian Observatory for Human Rights. ](/news/2017/01/7/a-fuel-truck-explodes-in-the-syrian-town-of-azaz-near-the-border-with-turkey-killing-at-least-43-people-according-to-the-syrian-observato.md)
 Fuel truck explodes in front of a courthouse in Azaz, and news agency says car bomb planted by Islamic State was responsible
 
-##### series of mutinies
+##### Series of mutinies
 ### [Ivory Coast president Alassane Ouattara reaches a deal with soldiers who seized the town of Bouake in a pay protest. The soldiers are seeking bonuses, pay rises and faster promotion. ](/news/2017/01/7/ivory-coast-president-alassane-ouattara-reaches-a-deal-with-soldiers-who-seized-the-town-of-bouake-in-a-pay-protest-the-soldiers-are-seekin.md)
 Ivory Coast&#39;s President Alassane Ouattara announced he has reached an agreement with soldiers who seized the second city Bouake in a pay protest that spread to the economic capital Abidjan.
 
@@ -23,13 +23,13 @@ Heavy snowfall and sub-zero temperatures have led to multiple deaths and disrupt
 ### [Israel announces it will withhold $6 million from its annual United Nations dues in protest of the December 23, 2016, Security Council settlement resolution. ](/news/2017/01/7/israel-announces-it-will-withhold-6-million-from-its-annual-united-nations-dues-in-protest-of-the-december-23-2016-security-council-settl.md)
 Israel announced it will withhold $6 million from its United Nations dues in protest of a resolution condemning settlements built on disputed land.
 
-##### embassy
+##### Embassy
 ### [Mexican police search for a gunman who shot and wounded a U.S. Consular official in Guadalajara, Jalisco. The victim is in stable condition. ](/news/2017/01/7/mexican-police-search-for-a-gunman-who-shot-and-wounded-a-u-s-consular-official-in-guadalajara-jalisco-the-victim-is-in-stable-condition.md)
 U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for information on attacker
 
 ##### President
 ### [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md)
-_Context: Mario Soares, Prime Minister of Portugal, President_
+_Context: President, Mario Soares, Prime Minister of Portugal_
 
 ##### Nana Akufo-Addo
 ### [Nana Akufo-Addo is sworn in as the fifth President of Ghana. ](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.md)

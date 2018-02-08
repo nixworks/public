@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/27/at-least-fourteen-people-are-killed-when-a-gas-
 
 ### [2014-06-27](/news/2014/06/27/index.md)
 
-##### fourteen people are killed
+##### Fourteen people are killed
 # At least fourteen people are killed when a Gas Authority of India Limited pipeline explodes in the East Godavari district of Andhra Pradesh, India. 
 
 At least 14 people die after a pipeline carrying gas explodes in the southern Indian state of Andhra Pradesh, a minister says.

@@ -3,7 +3,7 @@ Formats: [HTML](2006/12/14/index.html)  [JSON](2006/12/14/index.json)  [XML](200
 
 ## [2006-12-14](/news/2006/12/14/index.md)
 
-##### head
+##### Head
 ### [ The head of UK security service MI5, Dame Eliza Manningham-Buller, has announced she will step down from her post after four years. ](/news/2006/12/14/the-head-of-uk-security-service-mi5-dame-eliza-manningham-buller-has-announced-she-will-step-down-from-her-post-after-four-years.md)
 News and opinion from The Times &amp; The Sunday Times
 
@@ -13,7 +13,7 @@ _Context: extinct, Chinese River Dolphin_
 
 ##### Ban Ki-moon
 ### [ Ban Ki-moon is officially sworn in as the next United Nations Secretary-General. ](/news/2006/12/14/ban-ki-moon-is-officially-sworn-in-as-the-next-united-nations-secretary-general.md)
-_Context: United Nations Secretary-General, Ban Ki-moon_
+_Context: Ban Ki-moon, United Nations Secretary-General_
 
 ##### Supreme Court
 ### [ The Supreme Court of Israel decides that the targeted assassination of Palestinian militants by the Israeli military can be legal under international law. ](/news/2006/12/14/the-supreme-court-of-israel-decides-that-the-targeted-assassination-of-palestinian-militants-by-the-israeli-military-can-be-legal-under-int.md)
@@ -21,15 +21,15 @@ The Israeli military began carrying out targeted killings of Palestinian militan
 
 ##### United States Senate
 ### [ U.S. Senator Tim Johnson (D-SD) undergoes surgery after suffering a brain hemorrhage due to an arteriovenous malformation. If he is incapacitated, the Republican Party Governor of South Dakota, Mike Rounds, will be able to appoint his replacement, potentially changing the balance of the Senate. ](/news/2006/12/14/u-s-senator-tim-johnson-d-sd-undergoes-surgery-after-suffering-a-brain-hemorrhage-due-to-an-arteriovenous-malformation-if-he-is-incapac.md)
-_Context: South Dakota, United States Senate, Mike Rounds, Tim Johnson, arteriovenous malformation, brain hemorrhage, South Dakota Governor, Republican, Democrat_
+_Context: Tim Johnson, brain hemorrhage, South Dakota, Mike Rounds, Republican, South Dakota Governor, arteriovenous malformation, Democrat, United States Senate_
 
-##### kidnapped
+##### Kidnapped
 ### [ Gunmen dressed in military uniforms kidnap between 20 and 30 people in the Sanak area of central Baghdad. ](/news/2006/12/14/gunmen-dressed-in-military-uniforms-kidnap-between-20-and-30-people-in-the-sanak-area-of-central-baghdad.md)
 _Context: kidnapped, Baghdad_
 
 ##### Operation Paget
 ### [ Operation Paget, the inquiry into the death in 1997 of Diana, Princess of Wales headed by Lord Stevens, a former chief of London's Metropolitan Police, concludes that there were no suspicious circumstances and that the fatal car crash in which she died was a 'tragic accident'. ](/news/2006/12/14/operation-paget-the-inquiry-into-the-death-in-1997-of-diana-princess-of-wales-headed-by-lord-stevens-a-former-chief-of-london-s-metropol.md)
-_Context: 1997, London, grandmother, Death of Diana, Princess of Wales, Metropolitan Police Service, Operation Paget, Lord Stevens_
+_Context: Lord Stevens, Metropolitan Police Service, 1997, London, grandmother, Operation Paget, Death of Diana, Princess of Wales_
 
 ##### Prime Minister
 ### [ UK Prime Minister Tony Blair is interviewed by police investigating cash for honours allegations. ](/news/2006/12/14/uk-prime-minister-tony-blair-is-interviewed-by-police-investigating-cash-for-honours-allegations.md)
@@ -41,7 +41,7 @@ _Context: 2013, European Union_
 
 ##### Nintendo
 ### [ The Nintendo Wii breaks record sales in Australia and is the fastest selling gaming console in Australian history. ](/news/2006/12/14/the-nintendo-wii-breaks-record-sales-in-australia-and-is-the-fastest-selling-gaming-console-in-australian-history.md)
-_Context: Australian, Nintendo, Australia, Wii_
+_Context: Wii, Australian, Nintendo, Australia_
 
 ## [Previous Day...](/news/2006/12/13/index.md)
 

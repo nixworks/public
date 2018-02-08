@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/3/a-set-of-three-unusually-well-preserved-tricerat
 
 ### [2013-06-3](/news/2013/06/3/index.md)
 
-##### triceratops
+##### Triceratops
 # A set of three unusually well preserved triceratops specimens is unearthed in the U.S. state of Wyoming. 
 
 

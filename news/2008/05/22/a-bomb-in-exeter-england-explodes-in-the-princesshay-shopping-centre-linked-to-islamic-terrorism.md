@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/22/a-bomb-in-exeter-england-explodes-in-the-prince
 
 ### [2008-05-22](/news/2008/05/22/index.md)
 
-##### bomb in Exeter
+##### Bomb in Exeter
 #  A bomb in Exeter, England explodes in the Princesshay shopping centre linked to Islamic terrorism.
 
 

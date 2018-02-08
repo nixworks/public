@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/17/fifty-people-are-killed-after-a-passenger-boein
 
 ### [2013-11-17](/news/2013/11/17/index.md)
 
-##### killed
+##### Killed
 # Fifty people are killed after a passenger Boeing 737 crash lands in the city of Kazan in central Russia. 
 
 Fifty people died after a Boeing passenger plane crashed on landing in the city of Kazan in central Russia on Sunday, according to the Emergencies Ministry. A doctor working at the scene said that only ashes and rubble were left from the plane.

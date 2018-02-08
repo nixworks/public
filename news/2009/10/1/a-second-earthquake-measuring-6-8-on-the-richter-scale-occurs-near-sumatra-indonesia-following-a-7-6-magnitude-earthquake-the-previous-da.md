@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/1/a-second-earthquake-measuring-6-8-on-the-richter
 
 ### [2009-10-1](/news/2009/10/1/index.md)
 
-##### magnitude
+##### Magnitude
 #  A second earthquake measuring 6.8 on the Richter scale occurs near Sumatra, Indonesia, following a 7.6 magnitude earthquake the previous day. 
 
 

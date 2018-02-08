@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/17/a-suicide-bomb-in-a-district-court-in-quetta-th
 
 ### [2007-02-17](/news/2007/02/17/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb in a district court in Quetta, the capital of Balochistan, Pakistan kills at least 13 people. 
 
 At least 13 people, including a senior judge were killed in a suspected suicide bomb attack in a district court in Quetta.

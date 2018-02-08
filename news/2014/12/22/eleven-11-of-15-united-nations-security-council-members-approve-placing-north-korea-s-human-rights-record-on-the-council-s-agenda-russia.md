@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/22/eleven-11-of-15-united-nations-security-council
 
 ### [2014-12-22](/news/2014/12/22/index.md)
 
-##### human rights
+##### Human rights
 # Eleven (11) of 15 United Nations Security Council members approve placing North Korea's human rights record on the Council's agenda. Russia and China oppose the decision while Chad and Nigeria abstain. This is the first time this issue has been debated by the Security Council. Procedurally, once a topic makes the agenda, that issue can be brought up again at any time. 
 
 

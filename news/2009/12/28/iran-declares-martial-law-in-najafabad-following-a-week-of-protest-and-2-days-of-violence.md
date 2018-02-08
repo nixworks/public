@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/28/iran-declares-martial-law-in-najafabad-followin
 
 ### [2009-12-28](/news/2009/12/28/index.md)
 
-##### martial law
+##### Martial law
 #  Iran declares martial law in Najafabad following a week of protest and 2 days of violence. 
 
 

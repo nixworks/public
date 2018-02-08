@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/24/a-suicide-bombing-in-the-pakistani-city-of-pesh
 
 ### [2013-05-24](/news/2013/05/24/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing in the Pakistani city of Peshawar kills at least three people and leaves several injured. 
 
 

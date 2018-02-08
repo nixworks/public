@@ -7,7 +7,7 @@ Formats: [HTML](2015/01/9/index.html)  [JSON](2015/01/9/index.json)  [XML](2015/
 ### [The two suspect brothers take a hostage at a sign printing company, Creation Tendance Decouverte, in the French town of Dammartin-en-Goele. ](/news/2015/01/9/the-two-suspect-brothers-take-a-hostage-at-a-sign-printing-company-cra-c-ation-tendance-da-c-couverte-in-the-french-town-of-dammartin-en-goa-l.md)
 French President Francois Hollande has said Muslims are the &quot;main victims&quot; of fanaticism, as funerals were held in Paris for five of the 17 people killed in last week&#039;s Islamist attacks.
 
-##### attack
+##### Attack
 ### [Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. ](/news/2015/01/9/refugees-flee-nigeria-s-borno-state-following-the-boko-haram-massacre-in-the-town-of-baga-7-300-flee-to-neighbouring-chad-while-over-1-000.md)
 UNHCR teams in Chad are at the border and seeking information on the new arrivals and their needs. The newly arrived are staying with local communities.
 
@@ -21,7 +21,7 @@ Several vehicles were burning in the pileup west of exit 92, including a truck t
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Yingluck Shinawatra appears to face impeachment charges over a failed rice subsidy scheme. ](/news/2015/01/9/former-prime-minister-of-thailand-yingluck-shinawatra-appears-to-face-impeachment-charges-over-a-failed-rice-subsidy-scheme.md)
-_Context: Prime Minister, Yingluck Shinawatra, impeachment_
+_Context: impeachment, Prime Minister, Yingluck Shinawatra_
 
 ##### Russia
 ### [Russia lists transsexual and transgender individuals among those with "personality and behavioural disorders" who will be banned from obtaining driving licenses. ](/news/2015/01/9/russia-lists-transsexual-and-transgender-individuals-among-those-with-personality-and-behavioural-disorders-who-will-be-banned-from-obtain.md)

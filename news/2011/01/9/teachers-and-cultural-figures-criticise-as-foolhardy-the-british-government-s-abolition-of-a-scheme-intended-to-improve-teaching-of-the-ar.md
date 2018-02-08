@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/9/teachers-and-cultural-figures-criticise-as-foolh
 
 ### [2011-01-9](/news/2011/01/9/index.md)
 
-##### the arts
+##### The arts
 # Teachers and cultural figures criticise as "foolhardy" the British government's abolition of a scheme intended to improve teaching of the arts in schools. 
 
 

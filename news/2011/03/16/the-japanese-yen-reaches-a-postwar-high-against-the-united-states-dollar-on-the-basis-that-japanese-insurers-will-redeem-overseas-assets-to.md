@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/16/the-japanese-yen-reaches-a-postwar-high-against
 
 ### [2011-03-16](/news/2011/03/16/index.md)
 
-##### yen
+##### Yen
 # The Japanese yen reaches a postwar high against the United States dollar on the basis that Japanese insurers will redeem overseas assets to pay for the cost of the Tohoku earthquake and tsunami. 
 
 

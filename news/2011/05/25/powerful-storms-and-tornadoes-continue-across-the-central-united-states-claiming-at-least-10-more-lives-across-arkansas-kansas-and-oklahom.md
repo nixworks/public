@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/25/powerful-storms-and-tornadoes-continue-across-t
 
 ### [2011-05-25](/news/2011/05/25/index.md)
 
-##### storms and tornadoes
+##### Storms and tornadoes
 # Powerful storms and tornadoes continue across the Central United States, claiming at least 10 more lives across Arkansas, Kansas and Oklahoma. 
 
 Arkansas, Oklahoma and Kansas picked up the pieces after damaging storms and tornadoes moved through Tuesday night, but national weather forecasters predicted more severe weather Wednesday evening for parts of the Ohio and Mississippi Valleys.

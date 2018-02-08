@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/6/2007-belgian-government-formation-belgium-sets-a
 
 ### [2007-11-6](/news/2007/11/6/index.md)
 
-##### forms a temporary coalition government
+##### Forms a temporary coalition government
 #  2007 Belgian government formation: Belgium sets a new national record for the longest period without a new government - 149 days have passed since the general election - as parties are still trying to bridge their opposing views on state reforms. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/15/the-swiss-franc-to-euro-exchange-rate-jumps-by-
 
 ### [2015-01-15](/news/2015/01/15/index.md)
 
-##### francs
+##### Francs
 # The Swiss franc to euro exchange rate jumps by 30% immediately following a Swiss National Bank announcement. The bank will abandon its three-year-old cap on the swiss franc's value against the euro as well as lower the interest rate on sight deposits (instant access accounts) to -0.75% (the negative number meaning that the depositor has to pay the bank 0.75% per year to hold the depositor's money). 
 
 

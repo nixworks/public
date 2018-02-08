@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/23/dozens-of-people-are-killed-and-more-than-100-o
 
 ### [2010-04-23](/news/2010/04/23/index.md)
 
-##### yesterday's series of bombings
+##### Yesterday's series of bombings
 # Dozens of people are killed and more than 100 others are wounded by a series of bomb explosions in Baghdad, mostly near Shia mosques around the time of Jumu'ah 
 
 

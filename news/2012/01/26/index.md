@@ -13,7 +13,7 @@ The retired colonel who claims to have seized control of PNG&#039;s military thr
 
 ##### United Nations
 ### [The United Nations says detainees from Libya's civil war are being tortured. ](/news/2012/01/26/the-united-nations-says-detainees-from-libya-s-civil-war-are-being-tortured.md)
-_Context: United Nations, Libya, civil war_
+_Context: civil war, United Nations, Libya_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md)
@@ -25,7 +25,7 @@ U.S. gene sequencing company Illumina Inc (ILMN.O) adopted a &quot;poison pill&q
 
 ##### Cinelandia
 ### [Three people are killed and 16 missing after three office buildings collapse in Cinelandia square in Rio de Janeiro, Brazil. ](/news/2012/01/26/three-people-are-killed-and-16-missing-after-three-office-buildings-collapse-in-cinelac-ndia-square-in-rio-de-janeiro-brazil.md)
-_Context: Brazil, Cinelandia, Rio de Janeiro_
+_Context: Rio de Janeiro, Cinelandia, Brazil_
 
 ##### Australian Prime Minister
 ### [Security escort Australian Prime Minister Julia Gillard and Opposition Leader Tony Abbott from a restaurant in Canberra after indigenous protesters surrounded the building on Australia Day in response to comments made by Abbott. ](/news/2012/01/26/security-escort-australian-prime-minister-julia-gillard-and-opposition-leader-tony-abbott-from-a-restaurant-in-canberra-after-indigenous-pro.md)

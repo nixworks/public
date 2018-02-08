@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/29/u-s-employers-workers-and-police-brace-for-a-da
 
 ### [2006-04-29](/news/2006/04/29/index.md)
 
-##### boycott
+##### Boycott
 #  U.S. employers, workers, and police brace for a day-long boycott and strike to demonstrate the economic impact of illegal immigrants on the U.S. economy.
 
 Fernando Lopez plans to close his three local Los Angeles-area Oaxacan restaurants for the day Monday after his approximately 50 employees agreed to observe a planned immigrant rights boycott...

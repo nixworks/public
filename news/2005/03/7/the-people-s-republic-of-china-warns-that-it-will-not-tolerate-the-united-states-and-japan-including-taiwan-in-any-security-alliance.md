@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/7/the-people-s-republic-of-china-warns-that-it-wil
 
 ### [2005-03-7](/news/2005/03/7/index.md)
 
-##### status
+##### Status
 #  The People's Republic of China warns that it will not tolerate the United States and Japan including Taiwan in any security alliance. 
 
 

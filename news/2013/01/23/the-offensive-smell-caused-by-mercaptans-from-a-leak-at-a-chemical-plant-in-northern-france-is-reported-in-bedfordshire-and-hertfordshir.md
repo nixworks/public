@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/23/the-offensive-smell-caused-by-mercaptans-from-a
 
 ### [2013-01-23](/news/2013/01/23/index.md)
 
-##### mercaptan
+##### Mercaptan
 # The offensive smell - caused by mercaptans - from a leak at a chemical plant in northern France is reported in Bedfordshire and Hertfordshire, United Kingdom. 
 
 Police in Bedfordshire and Hertfordshire say they have had calls reporting the smell from a leak at a chemical plant in northern France.

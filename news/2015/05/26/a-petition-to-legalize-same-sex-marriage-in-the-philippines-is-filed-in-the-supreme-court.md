@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/26/a-petition-to-legalize-same-sex-marriage-in-the
 
 ### [2015-05-26](/news/2015/05/26/index.md)
 
-##### same-sex marriage
+##### Same-sex marriage
 # A petition to legalize same-sex marriage in the Philippines is filed in the Supreme Court. 
 
 The 31-page petition highlights the need for a more LGBT-inclusive society and is the first known and reported legal action of its kind before the Philippine High Court

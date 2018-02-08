@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/15/twelve-tourists-are-killed-and-37-injured-when-
 
 ### [2008-09-15](/news/2008/09/15/index.md)
 
-##### coach
+##### Coach
 #  Twelve tourists are killed and 37 injured when a coach collides with a delivery truck outside of Ras Sidr in Egypt. Reports suggest 7 of the 12 dead are foreign nationals. 
 
 

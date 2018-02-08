@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/10/7/an-explosion-at-a-liquefied-natural-gas-depot-le
 
 ### [2017-10-7](/news/2017/10/7/index.md)
 
-##### liquefied natural gas
+##### Liquefied natural gas
 # An explosion at a liquefied natural gas depot leads to a second explosion at a gas station in Legon, a suburb of the Ghanaian capital Accra, killing at least seven people and injuring sixty-eight more. 
 
 Two people have been confirmed dead in the massive gas explosion that occurred at Atomic Junction near Madina in Accra. Information gathered by Starrfmonline.com indicate that 25 people have also sustained injuries and are receiving treatment at the 37 military hospital. However, those who died were part of the people escaping the scene and not &hellip;

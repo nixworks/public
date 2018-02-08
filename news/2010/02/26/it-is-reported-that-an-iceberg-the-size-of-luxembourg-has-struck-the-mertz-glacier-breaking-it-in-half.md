@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/26/it-is-reported-that-an-iceberg-the-size-of-luxe
 
 ### [2010-02-26](/news/2010/02/26/index.md)
 
-##### iceberg
+##### Iceberg
 # It is reported that an iceberg the size of Luxembourg has struck the Mertz Glacier, breaking it in half. 
 
 

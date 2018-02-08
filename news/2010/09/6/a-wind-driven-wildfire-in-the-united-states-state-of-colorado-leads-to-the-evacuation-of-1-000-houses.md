@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/6/a-wind-driven-wildfire-in-the-united-states-stat
 
 ### [2010-09-6](/news/2010/09/6/index.md)
 
-##### wildfire
+##### Wildfire
 # A wind-driven wildfire in the United States state of Colorado leads to the evacuation of 1,000 houses. 
 
 

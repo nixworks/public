@@ -29,13 +29,13 @@ The Queen returns to Buckingham Palace after being assessed in hospital for symp
 
 ##### Forbes
 ### ["Forbes" releases its annual list of the world's wealthiest people, with Mexican business magnate Carlos Slim topping the list for the fourth year in a row. ](/news/2013/03/4/forbes-releases-its-annual-list-of-the-world-s-wealthiest-people-with-mexican-business-magnate-carlos-slim-topping-the-list-for-the-fourt.md)
-_Context: Carlos Slim, Forbes, list of the world's wealthiest people, Mexico_
+_Context: list of the world's wealthiest people, Forbes, Carlos Slim, Mexico_
 
 ##### Latvia
 ### [Latvia applies to enter the eurozone in 2014, in a move which could see it become the 18th member of the bloc. ](/news/2013/03/4/latvia-applies-to-enter-the-eurozone-in-2014-in-a-move-which-could-see-it-become-the-18th-member-of-the-bloc.md)
 Latvia formally applies to join the euro in 2014, in a move which could see it become the 18th member of the bloc.
 
-##### school bus
+##### School bus
 ### [At least 11 children are killed after a school bus collides with a truck in Jalandhar district in the Indian state of Punjab. ](/news/2013/03/4/at-least-11-children-are-killed-after-a-school-bus-collides-with-a-truck-in-jalandhar-district-in-the-indian-state-of-punjab.md)
 11 children have died after the school bus they were travelling in collided with a truck in village Gahir in Punjab&#039;s Jalandhar district this morning.
 
@@ -43,7 +43,7 @@ Latvia formally applies to join the euro in 2014, in a move which could see it b
 ### [2013 Compagnie Africaine d'Aviation crash: A Fokker 50 operated by Compagnie Africaine d'Aviation crashes in poor weather at Goma, Democratic Republic of the Congo. Nine people were in the aircraft, a crew of five and four passengers. At least three people survived the accident. ](/news/2013/03/4/2013-compagnie-africaine-d-aviation-crash-a-fokker-50-operated-by-compagnie-africaine-d-aviation-crashes-in-poor-weather-at-goma-democrati.md)
 A Congolese airplane attempting to land during a rainstorm crashed in the eastern city of Goma, carrying at least nine people, according to the airline.
 
-##### snowfall
+##### Snowfall
 ### [At least 9 people die after heavy snowfall hit the northern Japanese island of Hokkaido over the weekend. ](/news/2013/03/4/at-least-9-people-die-after-heavy-snowfall-hit-the-northern-japanese-island-of-hokkaido-over-the-weekend.md)
 At least nine people die after heavy snowfall hits the northern Japanese island of Hokkaido over the weekend.
 
@@ -55,15 +55,15 @@ At least four Kenyan police officers, deployed to keep the peace in a tense pres
 ### [Hugo Chavez, the President of Venezuela is suffering from a new severe respiratory infection as he struggles to recover from cancer surgery conducted in Cuba. ](/news/2013/03/4/hugo-cha-vez-the-president-of-venezuela-is-suffering-from-a-new-severe-respiratory-infection-as-he-struggles-to-recover-from-cancer-surgery.md)
 Venezuelan President Hugo Chavez died on Tuesday after a two-year battle with cancer, ending 14 years of tumultuous rule that made the socialist leader a hero for the poor but a hate figure to his opponents.
 
-##### conclave
+##### Conclave
 ### [Papal conclave, 2013: More than 100 Roman Catholic cardinals meet in Rome to start the process of selecting a successor to Pope Benedict XVI. ](/news/2013/03/4/papal-conclave-2013-more-than-100-roman-catholic-cardinals-meet-in-rome-to-start-the-process-of-selecting-a-successor-to-pope-benedict-xvi.md)
-_Context: Pope Benedict XVI, Rome, Italy, Roman Catholic, conclave, Cardinal_
+_Context: Roman Catholic, Rome, Italy, Pope Benedict XVI, conclave, Cardinal_
 
-##### near-Earth asteroid
+##### Near-Earth asteroid
 ### [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md)
 A newly found asteroid will pass just inside the orbit of the Moon, with its closest approach on March 4, 2013 at 07:35 UTC. Named 2013 EC, the asteroid is
 
-##### polarization of light
+##### Polarization of light
 ### [Scientists announce they have directly measured the polarization of light, overcoming aspects of the uncertainty principle. ](/news/2013/03/4/scientists-announce-they-have-directly-measured-the-polarization-of-light-overcoming-aspects-of-the-uncertainty-principle.md)
 Heisenberg&#039;s famous Uncertainty Principle may not be as uncertain as once thought. Researchers have applied a recently developed technique to directly measure the polarization of light
 

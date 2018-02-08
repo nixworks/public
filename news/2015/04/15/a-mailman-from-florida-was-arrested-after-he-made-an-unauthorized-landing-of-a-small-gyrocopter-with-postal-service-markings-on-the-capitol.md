@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/15/a-mailman-from-florida-was-arrested-after-he-ma
 
 ### [2015-04-15](/news/2015/04/15/index.md)
 
-##### the state
+##### The state
 # A mailman from Florida was arrested after he made an unauthorized landing of a small gyrocopter with postal service markings on the Capitol West Front Lawn. He had told a newspaper that a terrorist would not have informed the public that he planned a non-violent protest flight for campaign finance reform. 
 
 Florida mailman is believed to be the pilot of the craft, which took off from Gettysburg, Pa., on its way to Washington.

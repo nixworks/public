@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/14/in-football-zenit-st-petersburg-of-russia-win-t
 
 ### [2008-05-14](/news/2008/05/14/index.md)
 
-##### association football
+##### Association football
 #  In football, Zenit St Petersburg of Russia win the 2008 UEFA Cup after defeating Scottish side Rangers 2-0 in the final. 
 
 

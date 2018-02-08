@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/24/a-6-2-richter-scale-earthquake-in-palu-central-
 
 ### [2005-01-24](/news/2005/01/24/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 6.2 Richter scale earthquake in Palu, Central Sulawesi, Indonesia, results in one reported death. 
 
 

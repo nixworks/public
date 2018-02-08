@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/17/a-major-breakthrough-in-the-study-of-ancient-gr
 
 ### [2005-04-17](/news/2005/04/17/index.md)
 
-##### ancient Greek
+##### Ancient Greek
 #  A major breakthrough in the study of ancient Greek and Roman texts may lead to the revelation of hundreds of lost comedies, tragedies and epic poems. Using an infrared technique originally developed for satellite imaging, classicists at Oxford University, in the past four days alone, have made a series of new discoveries from Oxyrhynchus, including writings by Sophocles, Euripides, Hesiod and other literary giants. It may also be used to reveal lost Christian gospels. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/23/one-hundred-three-people-are-killed-in-attacks-
 
 ### [2012-07-23](/news/2012/07/23/index.md)
 
-##### attacks
+##### Attacks
 # One hundred three people are killed in attacks across Iraq. 
 
 

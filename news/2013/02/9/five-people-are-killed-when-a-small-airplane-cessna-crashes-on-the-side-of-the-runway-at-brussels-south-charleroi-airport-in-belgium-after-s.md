@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/9/five-people-are-killed-when-a-small-airplane-ces
 
 ### [2013-02-9](/news/2013/02/9/index.md)
 
-##### airplane
+##### Airplane
 # Five people are killed when a small airplane Cessna crashes on the side of the runway at Brussels South Charleroi Airport in Belgium after suffering difficulties on take-off. The incident forced the airport to shut down for six hours, before resuming services. 
 
 Five people reported to be from the same family are killed as a small plane crashes at Charleroi airport in Belgium, forcing it to close.

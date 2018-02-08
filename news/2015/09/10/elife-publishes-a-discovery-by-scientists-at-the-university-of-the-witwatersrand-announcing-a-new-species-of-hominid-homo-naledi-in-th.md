@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/10/elife-publishes-a-discovery-by-scientists-at-th
 
 ### [2015-09-10](/news/2015/09/10/index.md)
 
-##### eLife scientific journal
+##### ELife scientific journal
 # "Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. 
 
 Scientists in South Africa have discovered a new human-like species, which could change ideas about our early relatives.

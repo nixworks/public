@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/21/at-least-42-people-are-killed-and-84-injured-af
 
 ### [2013-03-21](/news/2013/03/21/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least 42 people are killed and 84 injured after a reported suicide bombing at a Damascus mosque. Senior pro-government Sunni cleric Mohammed al-Buti is amongst those killed. 
 
 An explosion at a mosque in the Syrian capital on Thursday killed at least 42 people, including a senior pro-government Muslim cleric, and wounded 84, the Syrian health ministry said.

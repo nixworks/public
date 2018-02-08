@@ -13,13 +13,13 @@ At least eight people have been reported dead after a powerful typhoon lashed pa
 
 ##### South China Sea disputes
 ### [The Obama administration agrees to have the United States Armed Forces assist Japan on conducting joint patrols in the South China Sea. ](/news/2016/09/16/the-obama-administration-agrees-to-have-the-united-states-armed-forces-assist-japan-on-conducting-joint-patrols-in-the-south-china-sea.md)
-_Context: Obama administration, South China Sea disputes, Japan, South China Sea, Japan-United States relations, United States military personnel_
+_Context: Japan-United States relations, Obama administration, Japan, South China Sea disputes, United States military personnel, South China Sea_
 
 ##### United Kingdom
 ### [The United Kingdom agrees to allow alleged hacker Lauri Love to be extradited to the United States. ](/news/2016/09/16/the-united-kingdom-agrees-to-allow-alleged-hacker-lauri-love-to-be-extradited-to-the-united-states.md)
 An autistic man suspected of hacking into US government computer systems is to be extradited from Britain to face trial, a court rules.
 
-##### drug crackdown
+##### Drug crackdown
 ### [In response to American criticism of the Duterte regime, Filipino foreign secretary Perfecto Yasay says the Philippines cannot remain as the "little brown brother" of the United States. ](/news/2016/09/16/in-response-to-american-criticism-of-the-duterte-regime-filipino-foreign-secretary-perfecto-yasay-says-the-philippines-cannot-remain-as-the.md)
 The European Parliament has condemned the current wave of extrajudicial killings in the Philippines and urged the government to “put an end” to these amid the war against illegal drugs. 
 

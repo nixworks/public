@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/17/the-government-of-india-announces-that-tamil-wi
 
 ### [2004-09-17](/news/2004/09/17/index.md)
 
-##### form of government
+##### Form of government
 #  The government of India announces that Tamil will be the first language recognized as a "classical language" in India. Government ministers add that Sanskrit and other languages could be granted the status, depending on their "heritage and legacy". The Indian government plans to create a center for the study of languages so designated. 
 
 

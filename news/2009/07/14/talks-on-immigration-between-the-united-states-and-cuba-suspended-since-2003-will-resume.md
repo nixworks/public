@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/14/talks-on-immigration-between-the-united-states-
 
 ### [2009-07-14](/news/2009/07/14/index.md)
 
-##### immigration
+##### Immigration
 #  Talks on immigration between the United States and Cuba, suspended since 2003, will resume. 
 
 

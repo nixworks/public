@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/16/at-least-eight-people-die-as-a-tornado-hits-rie
 
 ### [2006-11-16](/news/2006/11/16/index.md)
 
-##### as a tornado hits
+##### As a tornado hits
 #  At least eight people die as a tornado hits Riegelwood, North Carolina as thunderstorms move through the southern United States. One other person died in the larger tornado outbreak. 
 
 

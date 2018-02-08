@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/21/a-car-bombing-at-the-jalozai-refugee-camp-near-
 
 ### [2013-03-21](/news/2013/03/21/index.md)
 
-##### car bombing
+##### Car bombing
 # A car bombing at the Jalozai refugee camp near the Pakistani city of Peshawar kills at least 12 people and wounds up to 30 others. 
 
 At least 15 people are killed in a bombing at the Jalozai refugee camp close to the north-western Pakistani city of Peshawar, officials say.

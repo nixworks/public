@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/1/a-tornado-strikes-southern-missouri-killing-a-se
 
 ### [2007-03-1](/news/2007/03/1/index.md)
 
-##### tornado
+##### Tornado
 #  A tornado strikes southern Missouri killing a seven-year-old girl. Tornadoes in Alabama kill at least ten people including eight students at Enterprise High School. In Georgia, at least nine people die in storms. It is part of a larger tornado outbreak. 
 
 Tornadoes killed at least seven people in south Alabama today, including five at Enterprise High School, where students were trapped as a hallway roof collapsed. One person died elsewhere in Enterprise, in Coffee County, and one man died in Wilcox...

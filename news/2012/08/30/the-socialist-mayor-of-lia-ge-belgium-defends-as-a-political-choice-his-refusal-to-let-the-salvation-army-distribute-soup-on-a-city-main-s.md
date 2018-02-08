@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/30/the-socialist-mayor-of-lia-ge-belgium-defends-a
 
 ### [2012-08-30](/news/2012/08/30/index.md)
 
-##### socialist
+##### Socialist
 # The socialist mayor of Liege, Belgium, defends as a political choice his refusal to let the Salvation Army distribute soup on a city main square. He favours the more dignifying model of Restaurants du Coeur. 
 
 

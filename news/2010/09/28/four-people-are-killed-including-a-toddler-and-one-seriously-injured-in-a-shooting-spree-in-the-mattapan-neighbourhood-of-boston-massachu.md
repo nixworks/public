@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/28/four-people-are-killed-including-a-toddler-and-
 
 ### [2010-09-28](/news/2010/09/28/index.md)
 
-##### shooting spree
+##### Shooting spree
 # Four people are killed, including a toddler, and one seriously injured in a shooting spree in the Mattapan neighbourhood of Boston, Massachusetts. 
 
 

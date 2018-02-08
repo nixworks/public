@@ -9,31 +9,31 @@ _Context: taxi, West Bank, Israel, Israeli-Palestinian Conflict_
 
 ##### Alassane Ouattara
 ### [ Alassane Ouattara is allowed to run for Presidential election in Cte d'Ivoire. ](/news/2005/04/26/alassane-ouattara-is-allowed-to-run-for-presidential-election-in-cote-d-ivoire.md)
-_Context: Alassane Ouattara, Cte d'Ivoire_
+_Context: Cte d'Ivoire, Alassane Ouattara_
 
 ##### 2005 Kuomintang visits to Mainland
 ### [ 2005 Kuomintang visits to Mainland: a 70-member delegation led by Kuomintang chairman Lien Chan left Taipei for Nanjing via Hong Kong, launching Lien Chan's 8-day Taiwan Strait peace tour, also the first official visit by the highest leader of Kuomintang to Mainland China in 60 years. ](/news/2005/04/26/2005-kuomintang-visits-to-mainland-a-70-member-delegation-led-by-kuomintang-chairman-lien-chan-left-taipei-for-nanjing-via-hong-kong-laun.md)
-_Context: 2005 Kuomintang visits to Mainland, Nanjing, Taiwan Strait peace tour, Lien Chan, Hong Kong, Mainland China, Taipei, Kuomintang (Chinese Nationalist Party)_
+_Context: Mainland China, Taiwan Strait peace tour, Lien Chan, Hong Kong, 2005 Kuomintang visits to Mainland, Taipei, Kuomintang (Chinese Nationalist Party), Nanjing_
 
 ##### Faure Gnassingb
 ### [ Faure Gnassingb wins the Togolese presidential election with more than 60% of the votes. Results cause riots in Lom when the opposition doesn't acknowledge the election, denouncing massive fraud. ](/news/2005/04/26/faure-gnassingbe-wins-the-togolese-presidential-election-with-more-than-60-of-the-votes-results-cause-riots-in-lome-when-the-opposition-d.md)
-_Context: Togolese presidential election, Faure Gnassingb, Lom_
+_Context: Togolese presidential election, Lom, Faure Gnassingb_
 
 ##### Civil Unions and Relationships Acts
 ### [ The Civil Unions and Relationships Acts take effect in New Zealand. These laws allow same-sex and de facto couples to form legal unions that are similar to marriage. ](/news/2005/04/26/the-civil-unions-and-relationships-acts-take-effect-in-new-zealand-these-laws-allow-same-sex-and-de-facto-couples-to-form-legal-unions-tha.md)
 The first couples have applied to have their relationships recognised by a civil union after a change in the law came into effect today. - New Zealand Herald
 
-##### death toll
+##### Death toll
 ### [ The death toll in the Amagasaki rail crash reaches 73. Police searches the offices of West Japan Railway Co looking for clues for the cause of the crash. ](/news/2005/04/26/the-death-toll-in-the-amagasaki-rail-crash-reaches-73-police-searches-the-offices-of-west-japan-railway-co-looking-for-clues-for-the-cause.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 ##### Belize
 ### [ Political unrest increases in Belize when opposition calls for the government to step down, telephone workers are on strike and teachers threatening to follow. ](/news/2005/04/26/political-unrest-increases-in-belize-when-opposition-calls-for-the-government-to-step-down-telephone-workers-are-on-strike-and-teachers-th.md)
-_Context: strike, Belize_
+_Context: Belize, strike_
 
 ##### United States
 ### [ The U.S. chief weapons inspector, Charles Duelfer states that search of weapons of mass destruction in Iraq has "gone as far as feasible". ](/news/2005/04/26/the-u-s-chief-weapons-inspector-charles-duelfer-states-that-search-of-weapons-of-mass-destruction-in-iraq-has-gone-as-far-as-feasible.md)
-_Context: weapons of mass destruction, Iraq, United States, Charles Duelfer_
+_Context: Charles Duelfer, Iraq, United States, weapons of mass destruction_
 
 ##### Military action in Lebanon
 ### [ Military action in Lebanon: After three decades, all Syrian troops leave Lebanon, fulfilling UN Security Council Resolution 1559. ](/news/2005/04/26/military-action-in-lebanon-after-three-decades-all-syrian-troops-leave-lebanon-fulfilling-un-security-council-resolution-1559.md)
@@ -45,7 +45,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Canadian
 ### [ Following Canadian Prime Minister Paul Martin's plea on national television that a re-election ought to be delayed until the Gomery Commission has completed its report on the sponsorship scandal, a deal between the governing Liberal Party and the New Democratic Party may avoid the election in the near future as predicted earlier last week. ](/news/2005/04/26/following-canadian-prime-minister-paul-martin-s-plea-on-national-television-that-a-re-election-ought-to-be-delayed-until-the-gomery-commiss.md)
-_Context: New Democratic Party, Gomery Commission, Paul Martin, Prime Minister of Canada, sponsorship scandal, Liberal Party's, Canadian, election_
+_Context: Liberal Party's, Prime Minister of Canada, New Democratic Party, Paul Martin, Gomery Commission, election, sponsorship scandal, Canadian_
 
 ## [Previous Day...](/news/2005/04/25/index.md)
 

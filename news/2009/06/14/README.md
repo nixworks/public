@@ -15,13 +15,13 @@ Europe recorded its first death from H1N1 flu on Sunday after Scottish health of
 ### [ Around 170 people are arrested in Iran in connection with the post-election protests and street riots in Tehran. ](/news/2009/06/14/around-170-people-are-arrested-in-iran-in-connection-with-the-post-election-protests-and-street-riots-in-tehran.md)
 Iran&#39;s defeated presidential candidate Mir-Hossein Mousavi has urged his supporters to continue with their protests, in a peaceful manner.
 
-##### bomb blast
+##### Bomb blast
 ### [ At least seven people are killed and 50 injured by a bomb blast in Dera Ismail Khan, Pakistan. ](/news/2009/06/14/at-least-seven-people-are-killed-and-50-injured-by-a-bomb-blast-in-dera-ismail-khan-pakistan.md)
 _Context: Dera Ismail Khan, bomb blast, Pakistan_
 
 ##### Jodhaa Akbar
 ### [ "Jodhaa Akbar" wins the prize for best film at the Tenth International Indian Film Academy Awards held in Macau, China. ](/news/2009/06/14/jodhaa-akbar-wins-the-prize-for-best-film-at-the-tenth-international-indian-film-academy-awards-held-in-macau-china.md)
-_Context: Macau, Chinese, Jodhaa Akbar, Tenth International Indian Film Academy Awards_
+_Context: Jodhaa Akbar, Macau, Tenth International Indian Film Academy Awards, Chinese_
 
 ##### German
 ### [ Seven Germans, one Briton and a South Korean are captured by Shia rebels in Sa'dah, Yemen. ](/news/2009/06/14/seven-germans-one-briton-and-a-south-korean-are-captured-by-shia-rebels-in-sa-dah-yemen.md)
@@ -33,11 +33,11 @@ Belarus on Sunday signaled a growing rift with Russia, saying President Alexande
 
 ##### United Nations
 ### [ United Nations barges carrying aid and their Sudanese People's Liberation Army escort are attacked by tribesmen on the Sobat River, Sudan. ](/news/2009/06/14/united-nations-barges-carrying-aid-and-their-sudanese-people-s-liberation-army-escort-are-attacked-by-tribesmen-on-the-sobat-river-sudan.md)
-_Context: United Nations, Sudan, Sudan People's Liberation Army, Sobat River, attacked by tribesmen_
+_Context: attacked by tribesmen, Sudan, Sobat River, United Nations, Sudan People's Liberation Army_
 
 ##### Israeli Prime Minister
 ### [ Prime Minister of Israel Binyamin Netanyahu states he can visualise a Palestinian state, under certain conditions. ](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.md)
-_Context: Palestinian state, Binyamin Netanyahu, Israeli Prime Minister_
+_Context: Israeli Prime Minister, Binyamin Netanyahu, Palestinian state_
 
 ## [Previous Day...](/news/2009/06/13/index.md)
 

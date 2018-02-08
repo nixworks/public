@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-t
 
 ### [2016-05-15](/news/2016/05/15/index.md)
 
-##### rickshaw
+##### Rickshaw
 # A truck collides with a motorised rickshaw in the Adilabad district of India's Telangana state resulting in 16 deaths. 
 
 

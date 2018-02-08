@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/16/fighting-in-somalia-has-killed-838-people-since
 
 ### [2008-09-16](/news/2008/09/16/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  Fighting in Somalia has killed 838 people since June, according to local rights activists, bringing the total to have died in an insurgency that began early last year to 9,474. 
 
 

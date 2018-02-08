@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/24/relatives-of-victims-of-the-virginia-tech-massa
 
 ### [2008-03-24](/news/2008/03/24/index.md)
 
-##### largest mass shooting in US history
+##### Largest mass shooting in US history
 #  Relatives of victims of the Virginia Tech massacre report that the Government of Virginia will offer victims compensation of $100,000 to forestall law suits. 
 
 

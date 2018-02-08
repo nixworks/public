@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/20/a-24-hour-strike-by-employees-of-the-national-r
 
 ### [2008-05-20](/news/2008/05/20/index.md)
 
-##### strike
+##### Strike
 #  A 24-hour strike by employees of the National Railway Company of Belgium ends rail services in Belgium and to France, Germany and the Netherlands. 
 
 

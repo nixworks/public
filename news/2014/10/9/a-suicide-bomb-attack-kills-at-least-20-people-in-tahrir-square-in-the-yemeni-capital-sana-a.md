@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/9/a-suicide-bomb-attack-kills-at-least-20-people-i
 
 ### [2014-10-9](/news/2014/10/9/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # A suicide bomb attack kills at least 20 people in Tahrir Square in the Yemeni capital Sana'a. 
 
 At least 43 people are killed when a powerful suicide bombing rips through the Yemeni capital Thursday.

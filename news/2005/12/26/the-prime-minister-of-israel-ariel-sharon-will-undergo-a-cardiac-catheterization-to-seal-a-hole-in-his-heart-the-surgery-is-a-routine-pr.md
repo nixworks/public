@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/26/the-prime-minister-of-israel-ariel-sharon-will-
 
 ### [2005-12-26](/news/2005/12/26/index.md)
 
-##### prime minister of Israel
+##### Prime minister of Israel
 #  The prime minister of Israel, Ariel Sharon, will undergo a cardiac catheterization to seal a hole in his heart. The surgery is a routine procedure for this congenital defect, according to doctors in Jerusalem. 
 
 

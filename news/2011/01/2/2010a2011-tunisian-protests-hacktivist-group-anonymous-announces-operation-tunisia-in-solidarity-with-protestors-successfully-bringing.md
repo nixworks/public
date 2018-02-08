@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/2/2010a2011-tunisian-protests-hacktivist-group-ano
 
 ### [2011-01-2](/news/2011/01/2/index.md)
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 # 2010-2011 Tunisian protests: Hacktivist group Anonymous announces 'Operation Tunisia' in solidarity with protestors, successfully bringing down a number of Tunisian state-run websites. 
 
 The faction of Anonymous that launched the anti-Scientology movement Chanology and has more recently been supporting Wikileaks through various information and direct action campaigns has launched an ...

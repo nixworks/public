@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/7/thousands-of-people-take-part-in-the-first-bull-
 
 ### [2003-07-7](/news/2003/07/7/index.md)
 
-##### bull run
+##### Bull run
 #  Thousands of people take part in the first bull run of the annual San Fermn festival in Pamplona, Spain. No serious injuries or gorings were reported. 
 
 

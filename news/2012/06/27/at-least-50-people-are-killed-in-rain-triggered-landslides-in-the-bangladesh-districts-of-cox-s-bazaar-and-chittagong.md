@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/27/at-least-50-people-are-killed-in-rain-triggered
 
 ### [2012-06-27](/news/2012/06/27/index.md)
 
-##### landslide
+##### Landslide
 # At least 50 people are killed in rain-triggered landslides in the Bangladesh districts of Cox's Bazaar and Chittagong. 
 
 Landslides and floods kill at least 76 following three days of rains.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/11/the-death-toll-of-the-japanese-encephalitis-out
 
 ### [2005-09-11](/news/2005/09/11/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll of the Japanese Encephalitis outbreak in Uttar Pradesh has reached an official number of 650, with estimates of aid agencies about double this number. 
 
 

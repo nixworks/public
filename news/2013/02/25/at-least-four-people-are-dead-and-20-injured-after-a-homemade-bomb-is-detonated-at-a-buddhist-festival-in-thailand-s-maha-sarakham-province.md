@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/25/at-least-four-people-are-dead-and-20-injured-af
 
 ### [2013-02-25](/news/2013/02/25/index.md)
 
-##### homemade bomb
+##### Homemade bomb
 # At least four people are dead and 20 injured after a homemade bomb is detonated at a Buddhist festival in Thailand's Maha Sarakham Province. 
 
 FOUR people have been killed and more than 20 injured when a homemade bomb was detonated during a fight at a Buddhist festival in northeast Thailand.

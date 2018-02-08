@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/16/scientists-discover-a-new-type-of-snailfish-in-
 
 ### [2010-10-16](/news/2010/10/16/index.md)
 
-##### snailfish
+##### Snailfish
 # Scientists discover a new type of snailfish, in the Peru-Chile trench in the south-east Pacific Ocean. 
 
 

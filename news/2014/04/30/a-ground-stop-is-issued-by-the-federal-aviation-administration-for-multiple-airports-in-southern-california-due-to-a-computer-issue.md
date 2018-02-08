@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/30/a-ground-stop-is-issued-by-the-federal-aviation
 
 ### [2014-04-30](/news/2014/04/30/index.md)
 
-##### ground stop
+##### Ground stop
 # A ground stop is issued by the Federal Aviation Administration for multiple airports in Southern California due to a computer issue. 
 
 Travelers scrambled on Wednesday to make alternate plans after a computer glitch grounded flights for more than an hour at airports across the country.

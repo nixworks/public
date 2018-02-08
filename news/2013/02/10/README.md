@@ -19,7 +19,7 @@ Three doctors - reportedly from North Korea - have been killed in an attack in t
 ### [American general Joseph F. Dunford, Jr. takes over command of NATO forces in Afghanistan, replacing John R. Allen. ](/news/2013/02/10/american-general-joseph-f-dunford-jr-takes-over-command-of-nato-forces-in-afghanistan-replacing-john-r-allen.md)
 NATO forces in Afghanistan get a new commander as the coalition prepares to pull out combat troops.
 
-##### largest papal gathering
+##### Largest papal gathering
 ### [Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. ](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.md)
 At least 36 people die in a stampede as millions of pilgrims gather for the world&#039;s largest religious festival in India.
 
@@ -41,15 +41,15 @@ A stampede at a railway station in Allahabad killed at least 36 Hindu pilgrims o
 
 ##### 2013 Hattiesburg, Mississippi tornado
 ### [2013 Hattiesburg, Mississippi tornado: A tornado causes significant damage to the American town of Hattiesburg, Mississippi. ](/news/2013/02/10/2013-hattiesburg-mississippi-tornado-a-tornado-causes-significant-damage-to-the-american-town-of-hattiesburg-mississippi.md)
-_Context: tornado, Mississippi, Hattiesburg, 2013 Hattiesburg, Mississippi tornado, United States_
+_Context: tornado, 2013 Hattiesburg, Mississippi tornado, Hattiesburg, Mississippi, United States_
 
-##### lifeboat
+##### Lifeboat
 ### [A lifeboat falls off of a cruise ship MS Thomson Majesty while it was docked in the port of Santa Cruz de La Palma in the Canary Islands, killing 5 people. ](/news/2013/02/10/a-lifeboat-falls-off-of-a-cruise-ship-ms-thomson-majesty-while-it-was-docked-in-the-port-of-santa-cruz-de-la-palma-in-the-canary-islands-ki.md)
 A lifeboat fell off a cruise ship docked in the Canary Islands and into the sea, Spanish officials say; an additional 3 injured
 
 ##### Bell 206
 ### [Three crew members are killed when a Bell 206 helicopter crashes at the Polsa Rosa Movie Ranch in Acton, California, United States, while filming a documentary. ](/news/2013/02/10/three-crew-members-are-killed-when-a-bell-206-helicopter-crashes-at-the-polsa-rosa-movie-ranch-in-acton-california-united-states-while-fi.md)
-_Context: California, Polsa Rosa Movie Ranch, Bell 206, helicopter, Acton, United States_
+_Context: California, United States, Bell 206, Polsa Rosa Movie Ranch, helicopter, Acton_
 
 ##### Cruise ship
 ### [Cruise ship "Carnival Triumph" suffers a fire in the aft engine room. The fire is automatically extinguished, but it results in a loss of power and propulsion. There are no casualties or injuries to passengers or crew. ](/news/2013/02/10/cruise-ship-carnival-triumph-suffers-a-fire-in-the-aft-engine-room-the-fire-is-automatically-extinguished-but-it-results-in-a-loss-of-po.md)
@@ -61,7 +61,7 @@ Officials this afternoon offered a $1 million reward for information leading to 
 
 ##### Prime Minister of Tunisia
 ### [Prime Minister of Tunisia Hamadi Jebali says he will resign if a new "technocratic" government cannot be formed in a few days. Amid protests one policeman dies and tens of protesters are injured. ](/news/2013/02/10/prime-minister-of-tunisia-hamadi-jebali-says-he-will-resign-if-a-new-technocratic-government-cannot-be-formed-in-a-few-days-amid-protests.md)
-_Context: Tunisia, Hamadi Jebali, Prime Minister of Tunisia_
+_Context: Prime Minister of Tunisia, Tunisia, Hamadi Jebali_
 
 ##### Boeing Company
 ### [Boeing conducts the first test flight of the Dreamliner since it was taken out of service for battery problems. ](/news/2013/02/10/boeing-conducts-the-first-test-flight-of-the-dreamliner-since-it-was-taken-out-of-service-for-battery-problems.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/17/more-than-forty-people-die-in-the-tornado-outbr
 
 ### [2011-04-17](/news/2011/04/17/index.md)
 
-##### tornado outbreak of April 14-16, 2011
+##### Tornado outbreak of April 14-16, 2011
 # More than forty people die in the tornado outbreak of April 14-16, 2011, with North Carolina being the worst affected state. 
 
 

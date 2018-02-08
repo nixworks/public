@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/6/several-small-bombs-explode-outside-a-provincial
 
 ### [2013-11-6](/news/2013/11/6/index.md)
 
-##### explode
+##### Explode
 # Several small bombs explode outside a provincial office of the Chinese Communist Party in the northern city of Taiyuan, killing at least one person and wounding eight others. 
 
 A series of small explosions kill at least one person outside a provincial office of the ruling Communist Party in northern China, state media report.

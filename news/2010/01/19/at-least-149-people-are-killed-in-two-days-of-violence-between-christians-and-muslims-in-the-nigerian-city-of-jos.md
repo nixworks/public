@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-v
 
 ### [2010-01-19](/news/2010/01/19/index.md)
 
-##### events earlier this year
+##### Events earlier this year
 # At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. 
 
 

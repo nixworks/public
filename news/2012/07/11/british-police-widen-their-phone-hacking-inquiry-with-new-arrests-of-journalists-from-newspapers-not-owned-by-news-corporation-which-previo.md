@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/11/british-police-widen-their-phone-hacking-inquir
 
 ### [2012-07-11](/news/2012/07/11/index.md)
 
-##### police
+##### Police
 # British police widen their phone-hacking inquiry with new arrests of journalists from newspapers not owned by News Corporation, which previously has been the focus of the investigation. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/5/a-state-of-emergency-is-declared-after-three-peo
 
 ### [2010-10-5](/news/2010/10/5/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared after three people are killed and 120 injured by chemical sludge from an alumina plant flooded out of a burst dam in western Hungary. 
 
 State of emergency declared after a toxic mud spill kills four people and leaves another 120 injured.

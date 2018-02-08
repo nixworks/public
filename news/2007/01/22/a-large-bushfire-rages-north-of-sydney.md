@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/22/a-large-bushfire-rages-north-of-sydney.html)  [
 
 ### [2007-01-22](/news/2007/01/22/index.md)
 
-##### bushfire
+##### Bushfire
 #  A large bushfire rages north of Sydney. 
 
 

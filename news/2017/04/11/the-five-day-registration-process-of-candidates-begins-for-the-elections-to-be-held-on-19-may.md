@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/11/the-five-day-registration-process-of-candidates
 
 ### [2017-04-11](/news/2017/04/11/index.md)
 
-##### re-elected
+##### Re-elected
 # The five-day registration process of candidates begins for the elections to be held on 19 May. 
 
 

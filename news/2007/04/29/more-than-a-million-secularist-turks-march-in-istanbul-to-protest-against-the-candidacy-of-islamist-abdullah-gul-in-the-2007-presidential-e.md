@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/29/more-than-a-million-secularist-turks-march-in-i
 
 ### [2007-04-29](/news/2007/04/29/index.md)
 
-##### secularist Turks
+##### Secularist Turks
 #  More than a million secularist Turks march in Istanbul to protest against the candidacy of Islamist Abdullah Gl in the 2007 presidential election. 
 
 As many as one million people rallied in a sea of red Turkish flags in Istanbul on Sunday, accusing the government of planning an Islamist state and demanding it withdraw its presidential candidate.

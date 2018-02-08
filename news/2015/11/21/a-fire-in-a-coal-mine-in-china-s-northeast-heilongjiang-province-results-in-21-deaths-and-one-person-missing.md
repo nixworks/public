@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/21/a-fire-in-a-coal-mine-in-china-s-northeast-heil
 
 ### [2015-11-21](/news/2015/11/21/index.md)
 
-##### coal mine
+##### Coal mine
 # A fire in a coal mine in China's northeast Heilongjiang province results in 21 deaths and one person missing. 
 
 

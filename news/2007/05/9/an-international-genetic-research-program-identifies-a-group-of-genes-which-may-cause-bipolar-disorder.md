@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/9/an-international-genetic-research-program-identi
 
 ### [2007-05-9](/news/2007/05/9/index.md)
 
-##### genetic
+##### Genetic
 #  An international genetic research program identifies a group of genes which may cause bipolar disorder. 
 
 Tech news and expert opinion from The Telegraph&#39;s technology team. Read articles and watch video on the tech giants and innovative startups. 

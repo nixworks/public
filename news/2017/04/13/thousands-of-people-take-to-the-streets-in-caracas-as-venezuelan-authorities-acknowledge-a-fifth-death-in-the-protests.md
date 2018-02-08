@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-cara
 
 ### [2017-04-13](/news/2017/04/13/index.md)
 
-##### democratic opposition
+##### Democratic opposition
 # Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. 
 
 

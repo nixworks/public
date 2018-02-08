@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/08/1/law-goes-into-effect-in-germany-legalizing-same-
 
 ### [2001-08-1](/news/2001/08/1/index.md)
 
-##### registered partnership
+##### Registered partnership
 #  Law goes into effect in Germany legalizing same-sex registered partnerships.
 
 

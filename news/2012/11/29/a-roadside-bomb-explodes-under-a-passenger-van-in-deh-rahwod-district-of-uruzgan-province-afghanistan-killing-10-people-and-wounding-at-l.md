@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/29/a-roadside-bomb-explodes-under-a-passenger-van-
 
 ### [2012-11-29](/news/2012/11/29/index.md)
 
-##### bomb
+##### Bomb
 # A roadside bomb explodes under a passenger van in Deh Rahwod District of Uruzgan Province, Afghanistan, killing 10 people, and wounding at least eight. 
 
 A roadside bomb exploded under a passenger van in southern Afghanistan on Thursday, killing 10 people, most of them women and children, government officials said.

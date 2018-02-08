@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/27/scientists-identify-a-new-species-of-elephant-s
 
 ### [2014-06-27](/news/2014/06/27/index.md)
 
-##### elephant shrew
+##### Elephant shrew
 # Scientists identify a new species of elephant shrew, named "Macroscelides micus". 
 
 The Etendeka round-eared sengi or Macroscelides micus, is the smallest of 19 elephant shrews and is found in the Namibian desert

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampe
 
 ### [2011-03-2](/news/2011/03/2/index.md)
 
-##### dust storm
+##### Dust storm
 # A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. 
 
 

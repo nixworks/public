@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/14/flood-warnings-are-put-in-place-and-roads-are-c
 
 ### [2016-03-14](/news/2016/03/14/index.md)
 
-##### northern
+##### Northern
 # Flood warnings are put in place and roads are closed after a heavy rain continues to fall in the northern parts of the Australian state of Queensland. 
 
 Roads have been closed in Queensland&#39;s northwest following heavy rain which is expected to stick around for at least a few more days.

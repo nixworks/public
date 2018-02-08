@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/26/between-200-and-500-people-have-been-killed-in-
 
 ### [2006-12-26](/news/2006/12/26/index.md)
 
-##### an oil pipeline explosion
+##### An oil pipeline explosion
 #  Between 200 and 500 people have been killed in an oil pipeline explosion in Nigeria's commercial capital, Lagos, according to the Red Cross. The blast is believed to have been caused by thieves puncturing the pipeline in an attempt to siphon off fuel into a tanker. 
 
 

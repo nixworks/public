@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/3/a-leaked-french-report-on-the-cause-of-yasser-ar
 
 ### [2013-12-3](/news/2013/12/3/index.md)
 
-##### cause of Yasser Arafat's death
+##### Cause of Yasser Arafat's death
 # A leaked French report on the cause of Yasser Arafat's death says he died of an infection. A Swiss inquiry had said polonium poisoning was most likely. 
 
 French scientists say it is most likely that Palestinian leader Yasser Arafat did not die of poisoning, according to leaks from their report.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/22/the-government-of-colombia-confirms-that-the-er
 
 ### [2008-11-22](/news/2008/11/22/index.md)
 
-##### government
+##### Government
 #  The government of Colombia confirms that the eruption of Nevado del Huila, a volcano in southern Colombia, has led to at least 10 deaths in recent days and the evacuation of 12,000 people. 
 
 

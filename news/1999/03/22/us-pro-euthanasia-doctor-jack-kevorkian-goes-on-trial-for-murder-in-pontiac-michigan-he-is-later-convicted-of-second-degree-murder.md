@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/03/22/us-pro-euthanasia-doctor-jack-kevorkian-goes-on
 
 ### [1999-03-22](/news/1999/03/22/index.md)
 
-##### euthanasia
+##### Euthanasia
 #  US pro-euthanasia doctor Jack Kevorkian goes on trial for murder in Pontiac, Michigan. He is later convicted of second-degree murder
 
 

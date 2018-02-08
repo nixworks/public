@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/24/a-policeman-shoots-dead-three-american-medical-
 
 ### [2014-04-24](/news/2014/04/24/index.md)
 
-##### police
+##### Police
 # A policeman shoots dead three American medical staff in the Afghan capital of Kabul. The policeman is reported to have shot himself after the attack. 
 
 Three American medical staff are shot dead by a policeman guarding a hospital in the Afghan capital, Kabul, officials say.

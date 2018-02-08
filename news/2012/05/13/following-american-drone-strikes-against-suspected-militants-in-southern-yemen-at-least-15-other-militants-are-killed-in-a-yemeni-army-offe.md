@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/13/following-american-drone-strikes-against-suspec
 
 ### [2012-05-13](/news/2012/05/13/index.md)
 
-##### drone
+##### Drone
 # Following American drone strikes against suspected militants in southern Yemen, at least 15 other militants are killed in a Yemeni Army offensive. 
 
 Army opens new offensive against al-Qaeda in the Arab Peninsula, while at least 10 suspected fighters killed in strikes.

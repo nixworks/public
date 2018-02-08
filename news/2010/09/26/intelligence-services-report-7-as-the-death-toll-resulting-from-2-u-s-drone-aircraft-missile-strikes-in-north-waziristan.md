@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/26/intelligence-services-report-7-as-the-death-tol
 
 ### [2010-09-26](/news/2010/09/26/index.md)
 
-##### drone aircraft
+##### Drone aircraft
 # Intelligence services report 7 as the death toll resulting from 2 U.S. drone aircraft missile strikes in North Waziristan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/4/the-chief-prosecutor-for-the-international-crimi
 
 ### [2011-05-4](/news/2011/05/4/index.md)
 
-##### civil war
+##### Civil war
 # The chief prosecutor for the International Criminal Court, Luis Moreno-Ocampo, reports that there are "reasonable grounds to believe that crimes against humanity have been committed and continue being committed in Libya, and says he will soon request arrest warrants against three individuals who are "most responsible for the crimes committed." 
 
 The chief prosecutor for the International Criminal Court said in a report Wednesday there are &quot;reasonable grounds to believe that crimes against humanity have been committed and continue being committed in Libya.&quot;

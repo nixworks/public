@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/13/president-of-pakistan-asif-ali-zardari-official
 
 ### [2010-08-13](/news/2010/08/13/index.md)
 
-##### president
+##### President
 # President of Pakistan Asif Ali Zardari officially cancels Independence Day as a direct consequence of the ongoing floods that have devastated the country. 
 
 President cancels independence day festivities as country braces for more floods.

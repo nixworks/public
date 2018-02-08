@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/10/a-general-strike-starts-in-guinea-with-trade-un
 
 ### [2007-01-10](/news/2007/01/10/index.md)
 
-##### general strike
+##### General strike
 #  A general strike starts in Guinea, with trade unions calling for pay rises, the return to jail of Mamadou Sylla and the resignation of President Lansana Conte. 
 
 

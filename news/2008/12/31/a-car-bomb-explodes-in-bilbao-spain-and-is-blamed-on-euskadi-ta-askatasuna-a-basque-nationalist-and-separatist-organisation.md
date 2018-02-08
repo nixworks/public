@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/31/a-car-bomb-explodes-in-bilbao-spain-and-is-blam
 
 ### [2008-12-31](/news/2008/12/31/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb explodes in Bilbao, Spain, and is blamed on Euskadi Ta Askatasuna, a Basque nationalist and separatist organisation. 
 
 

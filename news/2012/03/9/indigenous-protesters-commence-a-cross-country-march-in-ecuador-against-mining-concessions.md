@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/9/indigenous-protesters-commence-a-cross-country-m
 
 ### [2012-03-9](/news/2012/03/9/index.md)
 
-##### commence a cross-country
+##### Commence a cross-country
 # Indigenous protesters commence a cross-country march in Ecuador against mining concessions. 
 
 

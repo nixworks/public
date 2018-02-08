@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/16/an-earthquake-of-richter-scale-6-5-magnitude-st
 
 ### [2008-10-16](/news/2008/10/16/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of Richter scale 6.5 magnitude strikes the Pacific coasts of Guatemala and Mexico. 
 
 A strong 6.5-magnitude earthquake struck in the Pacific near the Mexico-Guatemala border on Thursday, but there was no tsunami alert and no initial reports of casualties.

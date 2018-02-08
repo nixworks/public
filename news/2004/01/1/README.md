@@ -13,7 +13,7 @@ _Context: Thirty Year Rule, embargo_
 
 ##### Nazism
 ### [ Comparing planned United States finger-printing and photographic security controls on travelers from Brazil and other nations to Nazi actions, a Brazilian judge orders the fingerprinting of all arriving United States citizens in response. ](/news/2004/01/1/comparing-planned-united-states-finger-printing-and-photographic-security-controls-on-travelers-from-brazil-and-other-nations-to-nazi-actio.md)
-_Context: fingerprinting, Nazism_
+_Context: Nazism, fingerprinting_
 
 ##### Haiti
 ### [ Haiti's bicentennial celebrations erupt in violence. ](/news/2004/01/1/haiti-s-bicentennial-celebrations-erupt-in-violence.md)
@@ -23,7 +23,7 @@ _Context: Haiti_
 ### [ The Republic of Ireland takes over the presidency of the European Union, succeeding Italy, whose presidency is widely criticised as having been a failure due to the collapse of efforts to adopt a European constitution. ](/news/2004/01/1/the-republic-of-ireland-takes-over-the-presidency-of-the-european-union-succeeding-italy-whose-presidency-is-widely-criticised-as-having.md)
 As Ireland took over the EU&#39;s revolving six-month presidency, the Taoiseach Bertie Ahern said the country&#39;s motivating force will be to build a consensus.
 
-##### leap second
+##### Leap second
 ### [ No leap second is added this year. This is the fifth year in a row without a leap-second after 28 years of adding leap-seconds to compensate for the slowing of the Earth's rotation. ](/news/2004/01/1/no-leap-second-is-added-this-year-this-is-the-fifth-year-in-a-row-without-a-leap-second-after-28-years-of-adding-leap-seconds-to-compensat.md)
 _Context: leap second_
 

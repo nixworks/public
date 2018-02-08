@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/22/an-earthquake-registering-6-4-on-the-richter-sc
 
 ### [2005-02-22](/news/2005/02/22/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake, registering 6.4 on the Richter Scale, strikes the city of Zarand and several villages in Iran at 02:25 UTC, leaving at least 546 dead. ("see" 2005 Zarand earthquake).
 
 The death toll from an earthquake in central Iran climbed to at least 420 people by late Tuesday, with more than 900 hospitalized.

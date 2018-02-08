@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/16/an-egyptian-court-bans-hardcore-football-clubs-
 
 ### [2015-05-16](/news/2015/05/16/index.md)
 
-##### football
+##### Football
 # An Egyptian court bans hardcore football clubs over terrorism accusations. In 2012 over 70 football fans were killed and 500 injured in the Port Said Stadium riot. 
 
 

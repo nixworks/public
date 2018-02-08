@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-u
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
-##### lasting peace
+##### Lasting peace
 # The Foreign Affairs Ministers of the European Union unanimously vote to remove the Revolutionary Armed Forces of Colombia (FARC) from its list of designated terrorist groups. 
 
 Months after the former guerrilla group formed a political party, the European Union on Monday removed Colombia&#8217;s FARC from the EU&#8217;s global list of terrorist organizations. The decision followed a&hellip;

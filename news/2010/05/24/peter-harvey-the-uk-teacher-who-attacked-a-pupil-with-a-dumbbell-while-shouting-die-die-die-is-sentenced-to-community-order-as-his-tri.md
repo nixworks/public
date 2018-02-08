@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/24/peter-harvey-the-uk-teacher-who-attacked-a-pupi
 
 ### [2010-05-24](/news/2010/05/24/index.md)
 
-##### dumbbell
+##### Dumbbell
 # Peter Harvey, the UK teacher who attacked a pupil with a dumbbell while shouting "die, die, die", is sentenced to community order as his trial ends in Nottingham. The judge calls him as a "thoroughly decent man". 
 
 A teacher who bludgeoned a disruptive teenage pupil with a dumbbell has walked free from court after a judge described him as a &ldquo;thoroughly decent man&rdquo;.

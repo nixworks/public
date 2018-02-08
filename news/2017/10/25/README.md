@@ -25,7 +25,7 @@ A Ukrainian lawmaker was wounded and his bodyguard killed Wednesday in an appare
 
 ##### Interstellar comet
 ### [The discovery of an asteroid with a record high eccentricity, A-2017 U1, is announced. It is almost certainly the first known example of an interstellar object. While initially thought to be a comet, it is now considered an asteroid. ](/news/2017/10/25/the-discovery-of-an-asteroid-with-a-record-high-eccentricity-a-2017-u1-is-announced-it-is-almost-certainly-the-first-known-example-of-an.md)
-_Context: interstellar object, A/2017 U1, Interstellar comet_
+_Context: Interstellar comet, interstellar object, A/2017 U1_
 
 ## [Previous Day...](/news/2017/10/24/index.md)
 

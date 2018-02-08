@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/15/the-chemist-magdi-al-nashar-sought-by-british-p
 
 ### [2005-07-15](/news/2005/07/15/index.md)
 
-##### chemist
+##### Chemist
 #  The chemist Magdi al-Nashar, sought by British police in relation to the 7 July London bombings, has been arrested in Egypt. 
 
 

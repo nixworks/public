@@ -27,17 +27,17 @@ Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliner
 ### [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
 _Context: World Bank, Philippines_
 
-##### cyclone
+##### Cyclone
 ### [At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md)
 At least 18 people are killed in flooding after a cyclone lashes the island of Sardinia, prompting Italy to declare a state of emergency.
 
-##### shopping mall
+##### Shopping mall
 ### [An under construction shopping mall collapses in the South African town of Tongaat, KwaZulu-Natal, with 50 people trapped and at least one person dead. ](/news/2013/11/19/an-under-construction-shopping-mall-collapses-in-the-south-african-town-of-tongaat-kwazulu-natal-with-50-people-trapped-and-at-least-one-p.md)
 One person has died and as many as 50 workers are feared trapped after the roof of an under-construction mall collapsed near the South African city of Durban.
 
 ##### Air Evac International
 ### [An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-international-airport-on-its-way-to-cozu.md)
-_Context: Air Evac International, Learjet 35, mayday, Fort Lauderdale-Hollywood International Airport, Cozumel, Mexico_
+_Context: mayday, Air Evac International, Cozumel, Mexico, Learjet 35, Fort Lauderdale-Hollywood International Airport_
 
 ##### Creigh Deeds
 ### [Virginia State Senator Creigh Deeds was stabbed multiple times at his home by his son Austin "Gus" Deeds. His son, Gus was found dead from a self-inflicted gunshot wound in the home. ](/news/2013/11/19/virginia-state-senator-creigh-deeds-was-stabbed-multiple-times-at-his-home-by-his-son-austin-gus-deeds-his-son-gus-was-found-dead-from-a.md)

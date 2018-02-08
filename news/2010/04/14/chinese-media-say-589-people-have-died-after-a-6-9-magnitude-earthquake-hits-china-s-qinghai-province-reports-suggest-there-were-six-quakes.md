@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/14/chinese-media-say-589-people-have-died-after-a-
 
 ### [2010-04-14](/news/2010/04/14/index.md)
 
-##### an earthquake struck on 14 April
+##### An earthquake struck on 14 April
 # Chinese media say 589 people have died after a 6.9 magnitude earthquake hits China's Qinghai province. Reports suggest there were six quakes in total, and over ten thousand people were injured in the disaster.
 
 Chinese authorities raced against time, distance, altitude and wind in a remote corner of the Tibetan plateau as they tried to rescue victims of a magnitude 7.1 earthquake that killed at least 617...

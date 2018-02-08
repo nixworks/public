@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/3/a-small-turboprop-plane-carrying-18-people-crash
 
 ### [2013-11-3](/news/2013/11/3/index.md)
 
-##### turboprop
+##### Turboprop
 # A small turboprop plane carrying 18 people crashes while trying to land in bad, rainy weather in the Andes Mountains of northern Bolivia, killing 8, and injuring 10, including the pilot and co-pilot, on a trip from Trinidad, Bolivia to Riberalta, Bolivia, in El Beni Department near Brazil. 
 
 

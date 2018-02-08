@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/2/the-government-of-pakistan-summons-the-british-h
 
 ### [2010-08-2](/news/2010/08/2/index.md)
 
-##### government
+##### Government
 # The Government of Pakistan summons the British High Commissioner to Islamabad for a "dressing down" by Foreign Minister Shah Mehmood Qureshi over remarks made by the British Prime Minister David Cameron on Pakistan "looking both ways" on terrorism. 
 
 

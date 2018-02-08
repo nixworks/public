@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/13/two-cargo-ships-collide-in-heavy-fog-near-dalia
 
 ### [2007-05-13](/news/2007/05/13/index.md)
 
-##### cargo ship
+##### Cargo ship
 #  Two cargo ships collide in heavy fog near Dalian, China. 16 sailors are missing. 
 
 

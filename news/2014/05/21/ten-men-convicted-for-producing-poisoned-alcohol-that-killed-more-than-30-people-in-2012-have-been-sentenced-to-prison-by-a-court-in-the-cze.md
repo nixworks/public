@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/21/ten-men-convicted-for-producing-poisoned-alcoho
 
 ### [2014-05-21](/news/2014/05/21/index.md)
 
-##### poisoned alcohol
+##### Poisoned alcohol
 # Ten men convicted for producing poisoned alcohol that killed more than 30 people in 2012 have been sentenced to prison by a court in the Czech Republic, including 2 life sentences. 
 
 Ten men convicted for producing tainted alcohol that killed more than 30 people are given long jail terms by a court in the Czech Republic.

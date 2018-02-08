@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/27/at-least-three-protesters-are-killed-across-the
 
 ### [2017-07-27](/news/2017/07/27/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # At least three protesters are killed across the country amid clashes with police as a two-day national strike called by the opposition begins. 
 
 Fresh clashes lift number killed in four months of violence to more than 100, as Maduro&#39;s controversial election nears.

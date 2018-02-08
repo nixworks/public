@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/26/war-in-somalia-attackers-fire-four-mortar-shell
 
 ### [2007-01-26](/news/2007/01/26/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Attackers fire four mortar shells at an Ethiopian military camp close to Mogadishu. 
 
 

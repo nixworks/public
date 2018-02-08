@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/27/a-bomb-blast-in-delhi-india-kills-2-and-injures
 
 ### [2008-09-27](/news/2008/09/27/index.md)
 
-##### bomb blast
+##### Bomb blast
 #  A bomb blast in Delhi, India kills 2 and injures 23. 
 
 

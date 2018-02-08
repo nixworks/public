@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/21/two-people-are-killed-and-eight-injured-during-
 
 ### [2009-03-21](/news/2009/03/21/index.md)
 
-##### stampede
+##### Stampede
 #  Two people are killed and eight injured during a stampede to see Pope Benedict XVI in Luanda, Angola. 
 
 

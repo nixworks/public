@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/severe-thunderstorms-kill-13-people-in-banglades
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### thunderstorm
+##### Thunderstorm
 # Severe thunderstorms kill 13 people in Bangladesh. 
 
 The storms were described as &quot;tropical storms,&quot; although no such storms were being tracked in the region at the time.

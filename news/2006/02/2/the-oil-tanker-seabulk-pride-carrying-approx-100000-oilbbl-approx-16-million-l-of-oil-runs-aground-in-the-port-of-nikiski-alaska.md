@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/2/the-oil-tanker-seabulk-pride-carrying-approx-100
 
 ### [2006-02-2](/news/2006/02/2/index.md)
 
-##### oil tanker
+##### Oil tanker
 #  The oil tanker Seabulk Pride, carrying approx 100000 oilbbl (approx. 16 million L) of oil, runs aground in the port of Nikiski, Alaska. 
 
 

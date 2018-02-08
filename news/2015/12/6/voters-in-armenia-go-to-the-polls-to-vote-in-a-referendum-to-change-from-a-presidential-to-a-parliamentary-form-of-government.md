@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-r
 
 ### [2015-12-6](/news/2015/12/6/index.md)
 
-##### referendum
+##### Referendum
 # Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. 
 
 

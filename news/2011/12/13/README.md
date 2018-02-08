@@ -17,7 +17,7 @@ _Context: 2011 Syrian uprising, Syria_
 
 ##### Thailand
 ### [Three Thai soldiers are killed by a land mine near the border with Cambodia. ](/news/2011/12/13/three-thai-soldiers-are-killed-by-a-land-mine-near-the-border-with-cambodia.md)
-_Context: Thailand, land mine, Cambodia_
+_Context: Cambodia, land mine, Thailand_
 
 ##### Modern Warfare 3
 ### ["Call of Duty: Modern Warfare 3" becomes the fastest selling entertainment product of all time passing $1bn in sales in 16 days. ](/news/2011/12/13/call-of-duty-modern-warfare-3-becomes-the-fastest-selling-entertainment-product-of-all-time-passing-1bn-in-sales-in-16-days.md)
@@ -37,11 +37,11 @@ _Context: Papua New Guinea, Supreme Court of Papua New Guinea, Michael Somare, P
 
 ##### Iran
 ### [Iran has turned down the United States request to return a RQ-170 that was captured recently by Iranian forces after it crash landed in the country. Iranian officials report that they are extracting data from the aircraft. Iranian officials stated the drone was brought down by a cyber attack. ](/news/2011/12/13/iran-has-turned-down-the-united-states-request-to-return-a-rq-170-that-was-captured-recently-by-iranian-forces-after-it-crash-landed-in-the.md)
-_Context: Iran, RQ-170, United States, cyber attack_
+_Context: RQ-170, Iran, United States, cyber attack_
 
 ##### House of Representatives
 ### [The United States House of Representatives passes a bill extending a payroll tax extension containing another bill expediting the Keystone XL pipeline between Canada and Texas. ](/news/2011/12/13/the-united-states-house-of-representatives-passes-a-bill-extending-a-payroll-tax-extension-containing-another-bill-expediting-the-keystone-x.md)
-_Context: Keystone XL pipeline, Canadian, Texas, House of Representatives, payroll tax_
+_Context: House of Representatives, Keystone XL pipeline, payroll tax, Texas, Canadian_
 
 ##### Large Hadron Collider
 ### [According to researchers, in two separate experiments carried out at the Large Hadron Collider at CERN, indications of the Higgs boson may have been detected. ](/news/2011/12/13/according-to-researchers-in-two-separate-experiments-carried-out-at-the-large-hadron-collider-at-cern-indications-of-the-higgs-boson-may-h.md)

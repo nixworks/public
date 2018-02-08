@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/13/u-s-bankruptcy-court-judge-mary-walrath-rejects
 
 ### [2011-09-13](/news/2011/09/13/index.md)
 
-##### bankruptcy
+##### Bankruptcy
 # U.S. bankruptcy court judge Mary Walrath rejects a reorganization plan submitted by Washington Mutual, holding that the Debtors erred by planning to pay senior debtholders a contract rate of interest rather than the federal judgment rate. 
 
 

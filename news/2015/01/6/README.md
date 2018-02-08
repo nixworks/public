@@ -7,7 +7,7 @@ Formats: [HTML](2015/01/6/index.html)  [JSON](2015/01/6/index.json)  [XML](2015/
 ### [Clashes with ISIL in Anbar province kill twenty-three Iraqi Army soldiers and allied Sunni fighters. ](/news/2015/01/6/clashes-with-isil-in-anbar-province-kill-twenty-three-iraqi-army-soldiers-and-allied-sunni-fighters.md)
 Iraqi officials say a suicide blast targeting security forces and subsequent clashes with Islamic State militants have killed at least 23 troops and allied Sunni fighters in the embattled western Prov
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber kills herself and a policeman in an attack on a police station in a popular tourist district in the Turkish city of Istanbul. ](/news/2015/01/6/a-suicide-bomber-kills-herself-and-a-policeman-in-an-attack-on-a-police-station-in-a-popular-tourist-district-in-the-turkish-city-of-istanbu.md)
 In the second attack on the police in the city in a week, a woman killed one officer and wounded another after detonating explosives under her coat.
 
@@ -19,11 +19,11 @@ BOSTON (Reuters) - A 220-year-old time capsule containing coins, documents and o
 ### [American luxury fashion company Coach, Inc. agrees to purchase shoe brand Stuart Weitzman for $574 million. ](/news/2015/01/6/american-luxury-fashion-company-coach-inc-agrees-to-purchase-shoe-brand-stuart-weitzman-for-574-million.md)
 Coach Inc. has agreed to buy upscale shoe brand Stuart Weitzman in a deal valued at up to $574 million, a rare acquisition for the purse retailer as it seeks to expand its reach.
 
-##### crude oil
+##### Crude oil
 ### [The price of crude oil drops to $48 per barrel, the lowest since April of 2009. ](/news/2015/01/6/the-price-of-crude-oil-drops-to-48-per-barrel-the-lowest-since-april-of-2009.md)
 _Context: crude oil, $_
 
-##### national guardsman
+##### National guardsman
 ### [A military truck collides with a bus carrying members of the National Guard of Ukraine in Ukraine, killing 12 soldiers and injuring 20 others. ](/news/2015/01/6/a-military-truck-collides-with-a-bus-carrying-members-of-the-national-guard-of-ukraine-in-ukraine-killing-12-soldiers-and-injuring-20-other.md)
 At least 12 Ukrainian servicemen were killed and more than 20 injured in eastern Ukraine when their bus hit military trucks, police and local media say.
 
@@ -35,7 +35,7 @@ Two commuter trains have collided in Brazil&#39;s Rio de Janeiro state, injuring
 ### [Scientists at Oxford University begin a new Ebola vaccine trial on 72 healthy volunteers. ](/news/2015/01/6/scientists-at-oxford-university-begin-a-new-ebola-vaccine-trial-on-72-healthy-volunteers.md)
 Scientists at Oxford University have begun immunising healthy volunteers with a new Ebola vaccine
 
-##### flu
+##### Flu
 ### [43 US states report an epidemic of influenza, with 21 confirmed deaths. ](/news/2015/01/6/43-us-states-report-an-epidemic-of-influenza-with-21-confirmed-deaths.md)
 _Context: flu_
 
@@ -53,15 +53,15 @@ The Safeway supermarket chain has been ordered to pay nearly $10 million for ill
 
 ##### Lord's Resistance Army
 ### [A man claiming to be the Lord's Resistance Army top commander Ugandan Dominic Ongwen turns himself in to United States forces in the Central African Republic. ](/news/2015/01/6/a-man-claiming-to-be-the-lord-s-resistance-army-top-commander-ugandan-dominic-ongwen-turns-himself-in-to-united-states-forces-in-the-central.md)
-_Context: Dominic Ongwen, United States, Ugandan, Lord's Resistance Army, Central African Republic_
+_Context: United States, Dominic Ongwen, Central African Republic, Ugandan, Lord's Resistance Army_
 
 ##### Governor of Virginia
 ### [A U.S. District Judge sentences former Virginia Governor Bob McDonnell to two years in prison for corruption. ](/news/2015/01/6/a-u-s-district-judge-sentences-former-virginia-governor-bob-mcdonnell-to-two-years-in-prison-for-corruption.md)
 Former Virginia Gov. Bob McDonnell was sentenced Tuesday to two years in federal prison for taking bribes to promote a dietary supplement.
 
-##### shoots
+##### Shoots
 ### [A gunman shoots a doctor at the William Beaumont Army Medical Center in El Paso, Texas, and then kills himself. ](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont-army-medical-center-in-el-paso-texas-and-then-kills-himself.md)
-_Context: shoots, Texas, El Paso, William Beaumont Army Medical Center_
+_Context: El Paso, shoots, Texas, William Beaumont Army Medical Center_
 
 ##### Colorado Springs, Colorado
 ### [An improvised device explodes outside of the Colorado Springs chapter of the NAACP with no injuries. ](/news/2015/01/6/an-improvised-device-explodes-outside-of-the-colorado-springs-chapter-of-the-naacp-with-no-injuries.md)
@@ -73,7 +73,7 @@ Get up to the minute breaking political news and in-depth analysis on ABCNews.co
 
 ##### House of Representatives
 ### [The US Congress re-elects John Boehner to his third term as Speaker. ](/news/2015/01/6/the-us-congress-re-elects-john-boehner-to-his-third-term-as-speaker.md)
-_Context: John Boehner, House of Representatives, U.S. Speaker of the House of Representatives_
+_Context: House of Representatives, U.S. Speaker of the House of Representatives, John Boehner_
 
 ##### NASA
 ### [NASA's Kepler space observatory announces the discovery of three new planets in the Goldilocks zone capable of supporting life. ](/news/2015/01/6/nasa-s-kepler-space-observatory-announces-the-discovery-of-three-new-planets-in-the-goldilocks-zone-capable-of-supporting-life.md)

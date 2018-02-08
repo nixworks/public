@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/28/anti-pi-groups-mark-tau-day.html)  [JSON](/news
 
 ### [2011-06-28](/news/2011/06/28/index.md)
 
-##### pi
+##### Pi
 # Anti-pi groups mark Tau Day. 
 
 A movement to replace the mathematical constant pi with tau - a constant twice as large, or 6.28 - celebrates &quot;Tau Day&quot; on 28 June.

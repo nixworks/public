@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/30/thirteen-refugees-drown-off-the-italian-coast-s
 
 ### [2013-09-30](/news/2013/09/30/index.md)
 
-##### refugee
+##### Refugee
 # Thirteen refugees drown off the Italian coast swimming to shore from their leaky vessel. 
 
 UNHCR chief shocked at the news of a boat tragedy off the Italian island of Lampedusa, which is reported to have claimed at least 82 lives. 

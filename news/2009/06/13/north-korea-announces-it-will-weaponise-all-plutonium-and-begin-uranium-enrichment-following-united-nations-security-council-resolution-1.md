@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/13/north-korea-announces-it-will-weaponise-all-plu
 
 ### [2009-06-13](/news/2009/06/13/index.md)
 
-##### plutonium
+##### Plutonium
 #  North Korea announces it will "weaponise all plutonium" and begin uranium enrichment following United Nations Security Council Resolution 1874 against the country. 
 
 Pyongyang threatens increased nuclear activity and military action after UN vote.

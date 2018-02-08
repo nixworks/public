@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/2/friendly-fire-from-coalition-forces-reportedly-k
 
 ### [2011-04-2](/news/2011/04/2/index.md)
 
-##### accidentally targeted them
+##### Accidentally targeted them
 # Friendly fire from coalition forces reportedly kills 13 rebels in Libya. 
 
 A NATO airstrike intended to thwart Moammar Gadhafi&#39;s forces killed 13 rebel fighters in eastern Libya instead, the opposition said Saturday.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-i
 
 ### [2014-01-29](/news/2014/01/29/index.md)
 
-##### stem cells
+##### Stem cells
 # Scientists find a way to convert normal cells into stem cells, which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an embryo. 
 
 The new technique — a simple acid bath — has so far been used successfully only with cells from mice, but some researchers see human potential.

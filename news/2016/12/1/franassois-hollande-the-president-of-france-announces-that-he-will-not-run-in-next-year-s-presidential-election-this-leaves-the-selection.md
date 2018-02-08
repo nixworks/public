@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/1/franassois-hollande-the-president-of-france-anno
 
 ### [2016-12-1](/news/2016/12/1/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. 
 
 Surprise move not to stand for a second term in upcoming presidential election throws selection of a Socialist candidate wide open

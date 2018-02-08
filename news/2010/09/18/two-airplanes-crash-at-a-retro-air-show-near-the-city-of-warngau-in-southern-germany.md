@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/18/two-airplanes-crash-at-a-retro-air-show-near-th
 
 ### [2010-09-18](/news/2010/09/18/index.md)
 
-##### airplane
+##### Airplane
 # Two airplanes crash at a retro air show near the city of Warngau in southern Germany. 
 
 

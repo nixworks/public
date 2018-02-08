@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/15/united-kingdom-police-arrest-a-21-year-old-man-
 
 ### [2015-12-15](/news/2015/12/15/index.md)
 
-##### police
+##### Police
 # United Kingdom police arrest a 21-year-old man in Berkshire in the hacking of Hong Kong-based electronic toy maker VTech. Details of more than six million people from servers used to support VTech's learning products app store were compromised. 
 
 A 21-year-old man is arrested in Berkshire, UK, as part of an investigation into the hacking of electronic toy maker VTech.

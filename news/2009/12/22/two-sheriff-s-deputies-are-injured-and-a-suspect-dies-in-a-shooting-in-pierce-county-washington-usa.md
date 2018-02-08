@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/22/two-sheriff-s-deputies-are-injured-and-a-suspec
 
 ### [2009-12-22](/news/2009/12/22/index.md)
 
-##### sheriff's deputie
+##### Sheriff's deputie
 #  Two sheriff's deputies are injured and a suspect dies in a shooting in Pierce County, Washington, USA. 
 
 

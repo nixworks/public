@@ -9,11 +9,11 @@ _Context: Pakistan_
 
 ##### Egypt
 ### [Egyptian authorities blame the Gaza-based Army of Islam group for an attack on a Coptic Christian church in Alexandria on 1 January. ](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.md)
-_Context: New Year's Day church bombing, Copt, Alexandria, Christian, Army of Islam, Egypt, Gaza Strip_
+_Context: Alexandria, Egypt, Army of Islam, Copt, Christian, New Year's Day church bombing, Gaza Strip_
 
 ##### Australia
 ### [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md)
-_Context: Australia, Ben Roberts-Smith, Victoria Cross, Afghanistan, offensive in the Shah Wali Kot region_
+_Context: Australia, Victoria Cross, offensive in the Shah Wali Kot region, Ben Roberts-Smith, Afghanistan_
 
 ##### Somali pirate
 ### [Somali pirates threaten to kill all hostage South Korean seamen in revenge for the killing of pirates by South Koreans. ](/news/2011/01/23/somali-pirates-threaten-to-kill-all-hostage-south-korean-seamen-in-revenge-for-the-killing-of-pirates-by-south-koreans.md)
@@ -31,7 +31,7 @@ Dacoury-Tabley announced his resignation following a meeting with the heads of s
 ### [Google is to give $100million to Eric Schmidt, an outgoing CEO.](/news/2011/01/23/google-is-to-give-100million-to-eric-schmidt-an-outgoing-ceo.md)
 Google Inc is set to give Eric Schmidt a $100 million equity award as he hands over the chief executive officer job to co-founder Larry Page.
 
-##### the recent floods and landslides in Rio de Janeiro state
+##### The recent floods and landslides in Rio de Janeiro state
 ### [The death toll in Brazil's worst flood disaster tops 800 people. ](/news/2011/01/23/the-death-toll-in-brazil-s-worst-flood-disaster-tops-800-people.md)
 _Context: the recent floods and landslides in Rio de Janeiro state_
 
@@ -45,7 +45,7 @@ Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have en
 
 ##### BBC
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: United States, Hiroshima, Japan, BBC, Tsutomu Yamaguchi, Nagasaki_
+_Context: Hiroshima, Japan, Nagasaki, United States, Tsutomu Yamaguchi, BBC_
 
 ##### Iceland
 ### [A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice-Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/a-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united-states-department-of-j.md)
@@ -75,9 +75,9 @@ Up to 430,000 people infected with Hepatitis B from repeated use of needles, to 
 ### [Thousands of people of all ages march through Brussels in a rally, "Shame: No government, great country", to protest against nationalism and the lack of a proper government for the past seven months. The protest is initially started by students but soon expands to other parts of society. ](/news/2011/01/23/thousands-of-people-of-all-ages-march-through-brussels-in-a-rally-shame-no-government-great-country-to-protest-against-nationalism-and.md)
 Thousands march in Brussels to demand political rivals form a government after seven-month political impasse.
 
-##### red shirt
+##### Red shirt
 ### [Around 27,000 anti-government red shirt protestors march in Bangkok, Thailand, calling for the release of imprisoned leaders. ](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.md)
-_Context: Thailand, red shirt, Bangkok_
+_Context: red shirt, Thailand, Bangkok_
 
 ##### Yemen
 ### [A female Islamic activist is arrested in Yemen after organising a 2,500-strong demonstration at the Sana'a University. ](/news/2011/01/23/a-female-islamic-activist-is-arrested-in-yemen-after-organising-a-2-500-strong-demonstration-at-the-sana-a-university.md)
@@ -89,11 +89,11 @@ The Greens in the Republic of Ireland are to decide whether to leave the coaliti
 
 ##### Portugal
 ### [Voters in Portugal take part in a presidential election with current President Anibal Cavaco Silva being reelected. ](/news/2011/01/23/voters-in-portugal-take-part-in-a-presidential-election-with-current-president-anibal-cavaco-silva-being-reelected.md)
-_Context: President, Anibal Cavaco Silva, Portugal, presidential election_
+_Context: President, Portugal, Anibal Cavaco Silva, presidential election_
 
 ##### Central African Republic
 ### [The Central African Republic votes: voters complain of long delays in the country's presidential and legislative elections. ](/news/2011/01/23/the-central-african-republic-votes-voters-complain-of-long-delays-in-the-country-s-presidential-and-legislative-elections.md)
-_Context: presidential and legislative elections, Central African Republic_
+_Context: Central African Republic, presidential and legislative elections_
 
 ##### David Bartlett
 ### [David Bartlett resigns as the Premier of the Australian state of Tasmania. ](/news/2011/01/23/david-bartlett-resigns-as-the-premier-of-the-australian-state-of-tasmania.md)
@@ -101,11 +101,11 @@ Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad designed Ali Akbar Salehi, the current acting Foreign Minister to the Parliament to succeed Manouchehr Mottaki who was dismissed on December. ](/news/2011/01/23/president-of-iran-mahmoud-ahmadinejad-designed-ali-akbar-salehi-the-current-acting-foreign-minister-to-the-parliament-to-succeed-manouchehr.md)
-_Context: Manouchehr Mottaki, Ali Akbar Salehi, foreign minister, Mahmoud Ahmadinejad, President, MPs_
+_Context: foreign minister, Ali Akbar Salehi, Manouchehr Mottaki, Mahmoud Ahmadinejad, MPs, President_
 
-##### president
+##### President
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
-_Context: Asif Ali Zardari, president, polio_
+_Context: president, polio, Asif Ali Zardari_
 
 ## [Previous Day...](/news/2011/01/22/index.md)
 

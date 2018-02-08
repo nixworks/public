@@ -11,9 +11,9 @@ Rebel fighters hold only isolated pockets of oil town after forces loyal to Liby
 ### [Protesters take to the streets of Hofuf and al-Ahsa in the east of the country. ](/news/2011/03/11/protesters-take-to-the-streets-of-hofuf-and-al-ahsa-in-the-east-of-the-country.md)
 _Context: Hofuf_
 
-##### stateless
+##### Stateless
 ### [Riot police fire tear gas at a demonstration of stateless Arabs demanding more rights. ](/news/2011/03/11/riot-police-fire-tear-gas-at-a-demonstration-of-stateless-arabs-demanding-more-rights.md)
-_Context: Arab, stateless_
+_Context: stateless, Arab_
 
 ##### 
 ### [Security is increased as a large march takes place towards the royal court. ](/news/2011/03/11/security-is-increased-as-a-large-march-takes-place-towards-the-royal-court.md)
@@ -29,13 +29,13 @@ Mel Gibson has been charged with a misdemeanor battery complaint in Los Angeles 
 ### [A 9.0 magnitude earthquake hits offshore of Japan's Miyagi prefecture, producing tsunamis as high as 10 meters near the epicenter and reaching land throughout the Pacific ocean. ](/news/2011/03/11/a-9-0-magnitude-earthquake-hits-offshore-of-japan-s-miyagi-prefecture-producing-tsunamis-as-high-as-10-meters-near-the-epicenter-and-reachi.md)
 Thousands of others were stranded on rooftops, surrounded by water left by the tsunami that washed over the low-lying farmland of the hardest-hit areas, sweeping away homes, cars, railroads and businesses.
 
-##### governor
+##### Governor
 ### [The Governor of Oklahoma, Mary Fallin, declares a state of emergency in all 77 counties due to wildfires burning out of control in that state and Colorado. ](/news/2011/03/11/the-governor-of-oklahoma-mary-fallin-declares-a-state-of-emergency-in-all-77-counties-due-to-wildfires-burning-out-of-control-in-that-stat.md)
-_Context: Oklahoma, state of emergency, wildfire, Mary Fallin, Colorado, governor_
+_Context: Oklahoma, wildfire, Colorado, state of emergency, Mary Fallin, governor_
 
-##### ravine
+##### Ravine
 ### [A bus plunges into a ravine in the Xinjiang region in western China killing at least 16 people and with 24 people injured. ](/news/2011/03/11/a-bus-plunges-into-a-ravine-in-the-xinjiang-region-in-western-china-killing-at-least-16-people-and-with-24-people-injured.md)
-_Context: ravine, Xinjiang, China_
+_Context: Xinjiang, ravine, China_
 
 ##### Karangetang
 ### [Mount Karangetang erupts in Sulawesi, Indonesia, forcing local evacuations. ](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.md)
@@ -43,23 +43,23 @@ One of Indonesia’s most active volcanoes has erupted, sending lava and searing
 
 ##### United States magistrate judge
 ### [A U.S. federal magistrate rules that prosecutors can demand Twitter account information in relation to Wikileaks. ](/news/2011/03/11/a-u-s-federal-magistrate-rules-that-prosecutors-can-demand-twitter-account-information-in-relation-to-wikileaks.md)
-_Context: prosecutor, Wikileaks, United States magistrate judge, Twitter_
+_Context: prosecutor, Twitter, Wikileaks, United States magistrate judge_
 
 ##### Blackwater Worldwide
 ### [Two ex-Blackwater consultants are found guilty in the United States of the involuntary manslaughter of a civilian in the Afghan capital Kabul. ](/news/2011/03/11/two-ex-blackwater-consultants-are-found-guilty-in-the-united-states-of-the-involuntary-manslaughter-of-a-civilian-in-the-afghan-capital-kabu.md)
-_Context: Blackwater Worldwide, Afghanistan, Kabul, manslaughter by gross negligence, United States_
+_Context: Afghanistan, United States, Blackwater Worldwide, manslaughter by gross negligence, Kabul_
 
 ##### UNASUR Constitutive Treaty
 ### [The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. ](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.md)
-_Context: UNASUR Constitutive Treaty, Union of South American Nations, into force, legal personality_
+_Context: into force, UNASUR Constitutive Treaty, Union of South American Nations, legal personality_
 
 ##### Taiwan
 ### [Taiwan's opposition leader Tsai Ing-wen launches her presidential bid. ](/news/2011/03/11/taiwan-s-opposition-leader-tsai-ing-wen-launches-her-presidential-bid.md)
-_Context: presidential election, Tsai Ing-wen, Taiwan_
+_Context: Tsai Ing-wen, presidential election, Taiwan_
 
 ##### Zimbabwe
 ### [Zimbabwean Prime Minister Morgan Tsvangirai calls for an end to the country's unity government after one of his party members is arrested. ](/news/2011/03/11/zimbabwean-prime-minister-morgan-tsvangirai-calls-for-an-end-to-the-country-s-unity-government-after-one-of-his-party-members-is-arrested.md)
-_Context: Zimbabwe, Prime Minister, Morgan Tsvangirai_
+_Context: Zimbabwe, Morgan Tsvangirai, Prime Minister_
 
 ## [Previous Day...](/news/2011/03/10/index.md)
 

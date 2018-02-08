@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/14/nominations-open-for-the-leadership-of-the-unit
 
 ### [2007-05-14](/news/2007/05/14/index.md)
 
-##### confirmed
+##### Confirmed
 #  Nominations open for the leadership of the United Kingdom Labour Party with Chancellor of the Exchequer Gordon Brown as the favourite. 
 
 

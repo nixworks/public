@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/10/a-state-of-emergency-is-declared-in-western-bur
 
 ### [2012-06-10](/news/2012/06/10/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in western Burma after clashes between Buddhists and Muslims. 
 
 

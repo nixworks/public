@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hydera
 
 ### [2007-08-26](/news/2007/08/26/index.md)
 
-##### bomb blasts
+##### Bomb blasts
 #  Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. 
 
 

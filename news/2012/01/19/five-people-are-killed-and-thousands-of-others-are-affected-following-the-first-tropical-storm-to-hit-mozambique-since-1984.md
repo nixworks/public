@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/19/five-people-are-killed-and-thousands-of-others-
 
 ### [2012-01-19](/news/2012/01/19/index.md)
 
-##### tropical storm
+##### Tropical storm
 # Five people are killed and thousands of others are affected following the first tropical storm to hit Mozambique since 1984. 
 
 

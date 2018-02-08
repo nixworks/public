@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/1/at-least-11-people-including-5-suspects-are-kill
 
 ### [2011-08-1](/news/2011/08/1/index.md)
 
-##### recent unrest
+##### Recent unrest
 # At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. 
 
 

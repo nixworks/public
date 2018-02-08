@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/23/in-alleged-emulation-of-philippine-president-ro
 
 ### [2017-07-23](/news/2017/07/23/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # In alleged emulation of Philippine president Rodrigo Duterte's war on drugs, Indonesian President Joko Widodo announces orders for police to "shoot" suspected drug dealers without trial. 
 
 President Joko Widodo’s comments echo those of Philippines leader Rodrigo Duterte, whose drug war has killed thousands

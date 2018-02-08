@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/1/us-crude-oil-prices-reach-a-new-high-of-78-77-a-
 
 ### [2007-08-1](/news/2007/08/1/index.md)
 
-##### price
+##### Price
 #  US crude oil prices reach a new high of $78.77 a barrel due to declining stocks and decreased output. 
 
 

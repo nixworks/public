@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/19/a-florida-court-awards-23-6-billion-in-punitive
 
 ### [2014-07-19](/news/2014/07/19/index.md)
 
-##### the state
+##### The state
 # A Florida court awards $23.6 billion in punitive damages against R.J. Reynolds Tobacco Company in a case of a longtime smoker who died in 1996. 
 
 

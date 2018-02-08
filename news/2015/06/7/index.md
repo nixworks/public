@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/7/index.html)  [JSON](2015/06/7/index.json)  [XML](2015/
 
 ##### Saudi-led intervention in Yemen
 ### [The Saudi-led coalition launches airstrikes on Houthi gatherings in Taez. ](/news/2015/06/7/the-saudi-led-coalition-launches-airstrikes-on-houthi-gatherings-in-taez.md)
-_Context: Houthi, Saudi-led intervention in Yemen, Taez_
+_Context: Houthi, Taez, Saudi-led intervention in Yemen_
 
 ##### 69th Tony Awards
 ### [The 2015 Tony Awards, which celebrate the best theatrical performances on Broadway, are held at Radio City Music Hall with "The Curious Incident of the Dog in the Night-Time" winning best play and "Fun Home" winning best musical. ](/news/2015/06/7/the-2015-tony-awards-which-celebrate-the-best-theatrical-performances-on-broadway-are-held-at-radio-city-music-hall-with-the-curious-inci.md)
@@ -39,7 +39,7 @@ Group of Seven leaders meet on Sunday in the Bavarian Alps for a summit overshad
 ### [Voters in Mexico go to the polls for a legislative election with reports of violence in southern states and widespread voter disillusionment. Exit polls show the ruling Institutional Revolutionary Party of President Enrique Pena Nieto in a position to retain power. ](/news/2015/06/7/voters-in-mexico-go-to-the-polls-for-a-legislative-election-with-reports-of-violence-in-southern-states-and-widespread-voter-disillusionment.md)
 Exit poll puts his PRI party ahead with 33% in the lower house elections dominated by violence and fears about corruption and the economy
 
-##### election in June
+##### Election in June
 ### [Voters in Turkey go to the polls for a general election with the ruling AKP seeking enough votes to enable them to change the constitution. However, early projections show that they will lose their majority in the new parliament. ](/news/2015/06/7/voters-in-turkey-go-to-the-polls-for-a-general-election-with-the-ruling-akp-seeking-enough-votes-to-enable-them-to-change-the-constitution.md)
 The election results represented a significant setback to President Recep Tayyip Erdogan, an Islamist who has steadily increased his power.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/27/giant-media-conglomerate-news-corp-says-it-will
 
 ### [2011-01-27](/news/2011/01/27/index.md)
 
-##### media conglomerate
+##### Media conglomerate
 # Giant media conglomerate News Corp. says it will launch a digital newspaper as content of Apple's iPad, on 2 February. This is a later launch date than many had expected. 
 
 

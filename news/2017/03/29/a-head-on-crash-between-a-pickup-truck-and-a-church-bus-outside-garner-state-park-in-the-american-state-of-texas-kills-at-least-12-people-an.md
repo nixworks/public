@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/29/a-head-on-crash-between-a-pickup-truck-and-a-ch
 
 ### [2017-03-29](/news/2017/03/29/index.md)
 
-##### pickup truck
+##### Pickup truck
 # A head on crash between a pickup truck and a church bus outside Garner State Park in the American state of Texas kills at least 12 people and injures 3 others. 
 
 At least 13 people were killed and two others injured in a head-on crash Wednesday between a church bus and pickup truck in southwest Texas, officials said.

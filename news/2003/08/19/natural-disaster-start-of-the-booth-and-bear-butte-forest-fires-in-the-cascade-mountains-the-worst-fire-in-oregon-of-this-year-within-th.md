@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/19/natural-disaster-start-of-the-booth-and-bear-bu
 
 ### [2003-08-19](/news/2003/08/19/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: Start of the Booth and Bear Butte forest fires in the Cascade Mountains, the worst fire in Oregon of this year. Within three days the resort community of Camp Sherman is evacuated, affecting 1,500 residents and campers, closure of US highway 20 over Santiam Pass, and burning at least 41,000 acres (170&nbsp;km 2 ).
 
 

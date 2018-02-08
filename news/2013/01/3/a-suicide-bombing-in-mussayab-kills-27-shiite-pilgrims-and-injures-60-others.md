@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/3/a-suicide-bombing-in-mussayab-kills-27-shiite-pi
 
 ### [2013-01-3](/news/2013/01/3/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing in Mussayab kills 27 Shiite pilgrims and injures 60 others. 
 
 

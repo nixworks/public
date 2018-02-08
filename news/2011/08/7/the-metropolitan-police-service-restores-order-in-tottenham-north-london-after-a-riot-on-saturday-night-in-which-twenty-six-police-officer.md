@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/7/the-metropolitan-police-service-restores-order-i
 
 ### [2011-08-7](/news/2011/08/7/index.md)
 
-##### last year's riots in London
+##### Last year's riots in London
 # The Metropolitan Police Service restores order in Tottenham, north London, after a riot on Saturday night in which twenty-six police officers were injured. 
 
 More than 40 people are arrested after rioting saw police attacked, buildings looted and vehicles set alight in Tottenham, north London.

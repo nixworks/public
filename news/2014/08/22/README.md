@@ -13,19 +13,19 @@ Witnesses said more than a dozen were killed in what was seen as a message to po
 
 ##### Eastern Ukraine
 ### [Russian aid convoys enter eastern Ukraine without permission from the Ukrainian government, sparking condemnation from the US, the EU, and NATO, and prompting the UN to hold an emergency meeting to discuss the action. No other country sent humanitarian aid to the region. ](/news/2014/08/22/russian-aid-convoys-enter-eastern-ukraine-without-permission-from-the-ukrainian-government-sparking-condemnation-from-the-us-the-eu-and-n.md)
-_Context: Government of Ukraine, European Union, United Nations, NATO, Eastern Ukraine_
+_Context: European Union, NATO, Eastern Ukraine, Government of Ukraine, United Nations_
 
-##### attack a Sunni mosque
+##### Attack a Sunni mosque
 ### [A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. ](/news/2014/08/22/a-suicide-bomber-and-multiple-gunmen-suspected-to-be-shia-militiamen-attack-a-sunni-mosque-in-the-diyala-province-killing-at-least-65-peo.md)
 _Context: Diyala Governorate, attack a Sunni mosque_
 
-##### landslide
+##### Landslide
 ### [The death toll from landslides in Japan's Hiroshima prefecture rises to 39 with 26 missing. ](/news/2014/08/22/the-death-toll-from-landslides-in-japan-s-hiroshima-prefecture-rises-to-39-with-26-missing.md)
 Rescue workers battled through mud for a second day in search of dozens of people still missing after torrential rain triggered landslides in the western Japanese city of Hiroshima that killed 39 people, national broadcaster NHK said.
 
 ##### Malaysia Airlines Flight 17
 ### [The bodies and ashes of twenty Malaysian victims who died when the flight was shot down over Ukraine in July have been returned to Kuala Lumpur. ](/news/2014/08/22/the-bodies-and-ashes-of-twenty-malaysian-victims-who-died-when-the-flight-was-shot-down-over-ukraine-in-july-have-been-returned-to-kuala-lum.md)
-_Context: Kuala Lumpur, Malaysian, Ukraine, Malaysia Airlines Flight 17_
+_Context: Malaysian, Malaysia Airlines Flight 17, Kuala Lumpur, Ukraine_
 
 ##### Egypt
 ### [44 people are killed and 41 injured after two buses crash in the south of Egypt's Sinai Peninsula. ](/news/2014/08/22/44-people-are-killed-and-41-injured-after-two-buses-crash-in-the-south-of-egypt-s-sinai-peninsula.md)

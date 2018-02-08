@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/8/a-bomb-targeting-a-bus-carrying-government-of-pa
 
 ### [2012-06-8](/news/2012/06/8/index.md)
 
-##### government
+##### Government
 # A bomb targeting a bus carrying Government of Pakistan employees kills 32 people. 
 
 

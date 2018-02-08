@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/1/the-stricken-liner-costa-allegra-arrives-at-the-
 
 ### [2012-03-1](/news/2012/03/1/index.md)
 
-##### liner
+##### Liner
 # The stricken liner "Costa Allegra" arrives at the Seychelles after losing power three days ago due to an engine room fire. 
 
 Passengers on the Costa Allegra speak of difficult conditions on board as the stricken cruise ship docks in the Seychelles.

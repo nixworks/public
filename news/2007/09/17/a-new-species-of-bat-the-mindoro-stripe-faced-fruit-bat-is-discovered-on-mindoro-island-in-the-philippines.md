@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/17/a-new-species-of-bat-the-mindoro-stripe-faced-f
 
 ### [2007-09-17](/news/2007/09/17/index.md)
 
-##### bat
+##### Bat
 #  A new species of bat, the Mindoro Stripe-Faced Fruit bat, is discovered on Mindoro Island in the Philippines. 
 
 

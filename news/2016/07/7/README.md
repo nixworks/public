@@ -13,7 +13,7 @@ Armando Rios First Front calls on other units to join in the ‘fight for the ta
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md)
-_Context: Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant, Shiite, mausoleum, Baghdad_
+_Context: Islamic State in Iraq and the Levant, Iraqi Civil War (2014-present), Shiite, mausoleum, Baghdad_
 
 ##### Danone
 ### [French food company Danone agrees to buy American company WhiteWave Foods for $10 billion. ](/news/2016/07/7/french-food-company-danone-agrees-to-buy-american-company-whitewave-foods-for-10-billion.md)
@@ -23,7 +23,7 @@ The agreement values WhiteWave at $12.5 billion and would increase Danone’s of
 ### [Taiwan and China brace for the impact of Typhoon Nepartak, the first major typhoon of 2016. Thousands of people have been evacuated in Taiwan while over 35,000 military personnel have been placed on standby to help with relief efforts. ](/news/2016/07/7/taiwan-and-china-brace-for-the-impact-of-typhoon-nepartak-the-first-major-typhoon-of-2016-thousands-of-people-have-been-evacuated-in-taiwa.md)
 Taiwan is experiencing extreme winds and lashing rains as the first typhoon of the season hits the island.
 
-##### recycling
+##### Recycling
 ### [At least five workers are killed after a wall collapses on them at a recycling plant in Birmingham, England. ](/news/2016/07/7/at-least-five-workers-are-killed-after-a-wall-collapses-on-them-at-a-recycling-plant-in-birmingham-england.md)
 Five men are killed when a wall collapses at a recycling site in the Nechells area of Birmingham.
 
@@ -33,15 +33,15 @@ _Context: Songshan Station_
 
 ##### Ukraine-United States relations
 ### [U.S. Secretary of State John Kerry arrives in Kiev, Ukraine, where he is expected to discuss ways of ending the conflict in the east of the country. The visit, along with his visit to Georgia yesterday, comes ahead of the NATO summit in Warsaw that will take place tomorrow. ](/news/2016/07/7/u-s-secretary-of-state-john-kerry-arrives-in-kiev-ukraine-where-he-is-expected-to-discuss-ways-of-ending-the-conflict-in-the-east-of-the.md)
-_Context:  Georgian, Ukraine-United States relations, 2016 Warsaw summit, Ukraine, War in Donbass, Kiev, United States Secretary of State, John Kerry_
+_Context: Ukraine,  Georgian, United States Secretary of State, John Kerry, War in Donbass, Kiev, Ukraine-United States relations, 2016 Warsaw summit_
 
 ##### Cuba-United States relations
 ### [The United States tentatively approves eight, of 12 that applied, airlines for flights from 10 U.S. cities to Havana as early as this fall: Alaska Airlines, American Airlines, Delta Air Lines, Frontier Airlines, JetBlue Airways, Southwest Airlines, Spirit Airlines, and United Airlines. Last month, flights were approved from five U.S. cities to nine other international airports. ](/news/2016/07/7/the-united-states-tentatively-approves-eight-of-12-that-applied-airlines-for-flights-from-10-u-s-cities-to-havana-as-early-as-this-fall.md)
 The United States has tentatively approved flights on eight U.S. airlines to Havana as early as this autumn, with American Airlines Group Inc (AAL.O) receiving the largest share of the limited routes, the Transportation Department said on Thursday.
 
-##### drug crackdown
+##### Drug crackdown
 ### [The Philippines House of Representatives seeks to investigate the rise in deaths of suspected drug dealers in the country. ](/news/2016/07/7/the-philippines-house-of-representatives-seeks-to-investigate-the-rise-in-deaths-of-suspected-drug-dealers-in-the-country.md)
-_Context: House of Representatives, deaths, decades-old problem, drug crackdown_
+_Context: House of Representatives, decades-old problem, deaths, drug crackdown_
 
 ##### Rape in Germany
 ### [Germany's parliament passes a new law saying that it is rape to have sex with a person who says "No" to the sex. Under the previous law, sex was not considered rape unless the victim fought back. The new law also classifies groping as a sex crime, makes it easier to deport migrants who commit sex offences, and makes it easier to prosecute assaults committed by a large group. ](/news/2016/07/7/germany-s-parliament-passes-a-new-law-saying-that-it-is-rape-to-have-sex-with-a-person-who-says-no-to-the-sex-under-the-previous-law-sex.md)
@@ -59,7 +59,7 @@ VATICAN CITY (AP) — A Vatican court declared Thursday it had no jurisdiction t
 ### [Minnesota Governor Mark Dayton requests a Justice Department investigation of last night's fatal police shooting of Philando Castile (an African-American) during a traffic stop. Castile's girlfriend, Lavish Reynolds, streamed the incident live over Facebook. It showed Castile had been shot several times and was slumped against Reynolds; he died in Minneapolis's Hennepin County Medical Center. ](/news/2016/07/7/minnesota-governor-mark-dayton-requests-a-justice-department-investigation-of-last-night-s-fatal-police-shooting-of-philando-castile-an-afr.md)
 The president, reacting to a grisly video that showed Mr. Castile being shot by the police in Minnesota, asked the nation to confront racial disparities in law enforcement.
 
-##### the shooting of Dallas police officers
+##### The shooting of Dallas police officers
 ### [Eleven police officers are shot, with five dying of gunshot wounds in Dallas, Texas during a protest against two black men killed within a day of each other. Police kill the shooter with a bomb delivered on a bomb defusing robot. ](/news/2016/07/7/eleven-police-officers-are-shot-with-five-dying-of-gunshot-wounds-in-dallas-texas-during-a-protest-against-two-black-men-killed-within-a-d.md)
 Snipers gunned down five police officers and injured seven others during protests over two fatal police shootings of black men — an explosion of violence described as the deadliest day for law enfo…
 
@@ -73,11 +73,11 @@ Embattled Australian Prime Minister Malcolm Turnbull appeared likely to retain p
 
 ##### Conservative Party (UK) leadership election, 2016
 ### [Conservative Party members of parliament vote in a second ballot to choose the next leader of the party to replace outgoing Prime Minister David Cameron. The Home Secretary Theresa May secured the highest number votes with 199, while Department of Energy and Climate Change minister Andrea Leadsom received the second highest amount, with 84. The Secretary of State for Justice Michael Gove received just 46 votes and is eliminated from the race, meaning a run-off contest will now take place between May and Leadsom, with the result to be announced on September 9. ](/news/2016/07/7/conservative-party-members-of-parliament-vote-in-a-second-ballot-to-choose-the-next-leader-of-the-party-to-replace-outgoing-prime-minister-d.md)
-_Context: Conservative Party (UK) leadership election, 2016, Parliament, Secretary of State for Justice, Home Secretary, Department of Energy and Climate Change, Theresa May, David Cameron, Andrea Leadsom, Prime Minister, Michael Gove, Conservative Party_
+_Context: Theresa May, Conservative Party (UK) leadership election, 2016, Michael Gove, David Cameron, Prime Minister, Andrea Leadsom, Department of Energy and Climate Change, Parliament, Secretary of State for Justice, Home Secretary, Conservative Party_
 
 ##### Hillary Clinton email scandal
 ### [The United States Department of State reopens an investigation into the possible mishandling of classified information by former Secretary of State and presumptive Democratic Party presidential nominee Hillary Clinton and her top aides. ](/news/2016/07/7/the-united-states-department-of-state-reopens-an-investigation-into-the-possible-mishandling-of-classified-information-by-former-secretary-o.md)
-_Context: State Department, Democrat, Hillary Clinton email scandal, Hillary Clinton_
+_Context: Hillary Clinton email scandal, State Department, Democrat, Hillary Clinton_
 
 ##### Hitomi x-ray spacecraft
 ### [Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. ](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from-the-hitomi-x-ray-spacecraft-which-broke-up-last-march-while-orbiting-earth-before-it-died.md)

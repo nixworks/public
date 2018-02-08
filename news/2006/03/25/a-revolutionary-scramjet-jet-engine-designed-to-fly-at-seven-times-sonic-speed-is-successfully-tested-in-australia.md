@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/25/a-revolutionary-scramjet-jet-engine-designed-to
 
 ### [2006-03-25](/news/2006/03/25/index.md)
 
-##### scramjet
+##### Scramjet
 #  A revolutionary scramjet jet engine designed to fly at seven times sonic speed is successfully tested in Australia. 
 
 

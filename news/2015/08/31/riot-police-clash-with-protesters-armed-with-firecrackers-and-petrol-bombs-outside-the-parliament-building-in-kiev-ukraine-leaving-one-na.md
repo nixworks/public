@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/31/riot-police-clash-with-protesters-armed-with-fi
 
 ### [2015-08-31](/news/2015/08/31/index.md)
 
-##### building
+##### Building
 # Riot police clash with protesters armed with firecrackers and petrol bombs outside the parliament building, in Kiev, Ukraine, leaving one national guardsman dead and around 100 people injured. 
 
 At least one policeman killed and 90 people injured as protesters clash with security forces outside parliament.

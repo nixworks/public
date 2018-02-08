@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/27/news-international-phone-hacking-scandal-singer
 
 ### [2012-02-27](/news/2012/02/27/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # News International phone hacking scandal: Singer Charlotte Church and her parents agree damages and costs of GBP600,000 (US$950,000) with Rupert Murdoch's News Group, publishers of the defunct "News of the World". 
 
 Singer Charlotte Church says she is &quot;sickened&quot; by what she discovered during her legal action against News International over phone hacking - as she and her parents settle for £600,000.

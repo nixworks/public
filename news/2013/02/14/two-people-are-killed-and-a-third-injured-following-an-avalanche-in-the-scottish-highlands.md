@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/14/two-people-are-killed-and-a-third-injured-follo
 
 ### [2013-02-14](/news/2013/02/14/index.md)
 
-##### avalanche
+##### Avalanche
 # Two people are killed and a third injured following an avalanche in the Scottish Highlands. 
 
 A man and a woman die and a man is critically injured after being caught in an avalanche in the Highlands of Scotland.

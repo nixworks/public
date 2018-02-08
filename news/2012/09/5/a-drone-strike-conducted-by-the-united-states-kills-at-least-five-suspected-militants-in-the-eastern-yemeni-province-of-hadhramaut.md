@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/5/a-drone-strike-conducted-by-the-united-states-ki
 
 ### [2012-09-5](/news/2012/09/5/index.md)
 
-##### killed
+##### Killed
 # A drone strike conducted by the United States kills at least five suspected militants in the eastern Yemeni province of Hadhramaut. 
 
 

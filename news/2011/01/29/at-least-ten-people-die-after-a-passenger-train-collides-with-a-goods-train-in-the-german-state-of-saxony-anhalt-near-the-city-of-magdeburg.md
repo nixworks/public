@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/29/at-least-ten-people-die-after-a-passenger-train
 
 ### [2011-01-29](/news/2011/01/29/index.md)
 
-##### passenger train
+##### Passenger train
 # At least ten people die after a passenger train collides with a goods train in the German state of Saxony-Anhalt near the city of Magdeburg. 
 
 Head-on collision between passenger and goods trains kills at least eight people in eastern part of country.

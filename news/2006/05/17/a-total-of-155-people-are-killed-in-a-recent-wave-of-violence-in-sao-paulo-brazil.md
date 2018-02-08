@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/17/a-total-of-155-people-are-killed-in-a-recent-wa
 
 ### [2006-05-17](/news/2006/05/17/index.md)
 
-##### violence
+##### Violence
 #  A total of 155 people are killed in a recent wave of violence in So Paulo, Brazil. 
 
 

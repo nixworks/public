@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/28/at-least-29-people-are-killed-in-an-suicide-bom
 
 ### [2011-08-28](/news/2011/08/28/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least 29 people are killed in an suicide bombing in Baghdad's largest Sunni mosque including Khalid al-Fahdawi, a member of the Council of Representatives of Iraq. 
 
 

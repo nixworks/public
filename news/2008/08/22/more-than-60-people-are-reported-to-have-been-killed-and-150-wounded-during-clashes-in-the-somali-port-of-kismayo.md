@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/22/more-than-60-people-are-reported-to-have-been-k
 
 ### [2008-08-22](/news/2008/08/22/index.md)
 
-##### clashes
+##### Clashes
 #  More than 60 people are reported to have been killed and 150 wounded during clashes in the Somali port of Kismayo. 
 
 

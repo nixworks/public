@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/25/leader-muammar-gaddafi-addresses-a-crowd-of-sup
 
 ### [2011-02-25](/news/2011/02/25/index.md)
 
-##### civil war
+##### Civil war
 # Leader Muammar Gaddafi addresses a crowd of supporters in the capital Tripoli. 
 
 

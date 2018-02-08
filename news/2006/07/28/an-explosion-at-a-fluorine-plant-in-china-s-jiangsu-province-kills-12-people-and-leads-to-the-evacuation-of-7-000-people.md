@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/28/an-explosion-at-a-fluorine-plant-in-china-s-jia
 
 ### [2006-07-28](/news/2006/07/28/index.md)
 
-##### fluorine
+##### Fluorine
 #  An explosion at a fluorine plant in China's Jiangsu Province kills 12 people and leads to the evacuation of 7,000 people. 
 
 

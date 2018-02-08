@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/8/at-least-30-people-are-killed-as-a-result-of-car
 
 ### [2013-12-8](/news/2013/12/8/index.md)
 
-##### car bomb
+##### Car bomb
 # At least 30 people are killed as a result of car bombings in Iraq. 
 
 

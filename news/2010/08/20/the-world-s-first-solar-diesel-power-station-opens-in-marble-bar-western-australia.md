@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/20/the-world-s-first-solar-diesel-power-station-op
 
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-##### only by focused light
+##### Only by focused light
 # The world's first solar-diesel power station opens in Marble Bar, Western Australia. 
 
 

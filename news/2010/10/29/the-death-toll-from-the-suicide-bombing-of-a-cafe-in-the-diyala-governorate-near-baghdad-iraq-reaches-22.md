@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/29/the-death-toll-from-the-suicide-bombing-of-a-ca
 
 ### [2010-10-29](/news/2010/10/29/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # The death toll from the suicide bombing of a cafe in the Diyala Governorate near Baghdad, Iraq reaches 22. 
 
 The number of people killed whena suicide bomber attacked an Iraqi cafe northeast of Baghdad onFriday reached 22, with more than 45 injured, a provincialofficial said.

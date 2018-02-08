@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/16/president-kurbanguly-berdymukhamedov-of-turkmen
 
 ### [2009-07-16](/news/2009/07/16/index.md)
 
-##### president
+##### President
 #  President Kurbanguly Berdymukhamedov of Turkmenistan announces the latest stage of a plan to channel drainage water from the country's cotton fields through desert. 
 
 

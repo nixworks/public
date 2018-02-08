@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/8/a-rare-sighting-of-a-meteor-fireball-is-seen-ove
 
 ### [2010-12-8](/news/2010/12/8/index.md)
 
-##### meteor
+##### Meteor
 # A rare sighting of a meteor fireball is seen over large parts of the United Kingdom. 
 
 Stargazers throughout the UK report seeing a meteor-like streak of light in the darkened skies - thought to be a rare meteor fireball.

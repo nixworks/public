@@ -17,11 +17,11 @@ Sale of nearly 200-year-old institution to Intercontinental Exchange comes amid 
 
 ##### U.S.
 ### [U.S. patent authorities reject an important Apple Inc. patent concerning pinch-to-zoom gestures on a mobile device screen. ](/news/2012/12/20/u-s-patent-authorities-reject-an-important-apple-inc-patent-concerning-pinch-to-zoom-gestures-on-a-mobile-device-screen.md)
-_Context: patent, pinch-to-zoom gestures, U.S., Apple Inc., mobile device_
+_Context: patent, mobile device, pinch-to-zoom gestures, Apple Inc., U.S._
 
-##### midwestern
+##### Midwestern
 ### [The midwestern United States is hit by a massive storm causing major disruption to traffic. ](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massive-storm-causing-major-disruption-to-traffic.md)
-_Context: midwestern, massive storm_
+_Context: massive storm, midwestern_
 
 ##### UN refugee agency
 ### [The UN refugee agency reports at least 55 people have drowned after an overcrowded boat capsizes off the coast of Somalia on 18 December. ](/news/2012/12/20/the-un-refugee-agency-reports-at-least-55-people-have-drowned-after-an-overcrowded-boat-capsizes-off-the-coast-of-somalia-on-18-december.md)
@@ -49,7 +49,7 @@ A US Marine is reduced in ranks and forfeits $500 pay after admitting urinating 
 
 ##### Laos
 ### [Laos denies knowledge as to the fate of missing activist Sombath Somphone, who disappeared last week in the capital Vientiane. ](/news/2012/12/20/laos-denies-knowledge-as-to-the-fate-of-missing-activist-sombath-somphone-who-disappeared-last-week-in-the-capital-vientiane.md)
-_Context: Laos, Vientiane_
+_Context: Vientiane, Laos_
 
 ##### Rwanda
 ### [Former Rwandan minister Augustin Ngirabatware is sentenced to 35 years imprisonment for his role during the 1994 Rwandan Genocide. ](/news/2012/12/20/former-rwandan-minister-augustin-ngirabatware-is-sentenced-to-35-years-imprisonment-for-his-role-during-the-1994-rwandan-genocide.md)

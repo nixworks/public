@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/24/dozens-of-people-are-rescued-from-floods-on-the
 
 ### [2007-08-24](/news/2007/08/24/index.md)
 
-##### flood
+##### Flood
 #  Dozens of people are rescued from floods on the Sunshine Coast of the Australian state of Queensland. 
 
 Dozens of people have been rescued from rising flood waters and thousands of homes are without power as Queensland&#039;s south-east continues to be battered by bad weather.

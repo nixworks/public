@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/8/ethiopian-involvement-in-the-somali-civil-war-th
 
 ### [2006-12-8](/news/2006/12/8/index.md)
 
-##### fight Ethiopian forces
+##### Fight Ethiopian forces
 #  Ethiopian involvement in the Somali Civil War: The Somali and Ethiopian militaries engage the Islamic Court Union inside Somalia. 
 
 

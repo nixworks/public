@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/3/the-death-sentences-of-more-than-4000-prisoners-
 
 ### [2009-08-3](/news/2009/08/3/index.md)
 
-##### death penalty
+##### Death penalty
 #  The death sentences of more than 4000 prisoners in Kenya are commuted to life imprisonment. 
 
 

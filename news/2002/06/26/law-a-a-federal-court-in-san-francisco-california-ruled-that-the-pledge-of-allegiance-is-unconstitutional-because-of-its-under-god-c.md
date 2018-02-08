@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/06/26/law-a-a-federal-court-in-san-francisco-californ
 
 ### [2002-06-26](/news/2002/06/26/index.md)
 
-##### amendment
+##### Amendment
 #  Law - A federal court in San Francisco, California, ruled that the Pledge of Allegiance is unconstitutional, because of its "under God" clause.
 
 

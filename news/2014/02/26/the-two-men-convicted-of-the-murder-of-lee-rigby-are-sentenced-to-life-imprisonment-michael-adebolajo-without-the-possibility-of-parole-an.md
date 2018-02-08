@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/26/the-two-men-convicted-of-the-murder-of-lee-rigb
 
 ### [2014-02-26](/news/2014/02/26/index.md)
 
-##### murder of Lee Rigby
+##### Murder of Lee Rigby
 # The two men convicted of the murder of Lee Rigby are sentenced to life imprisonment, Michael Adebolajo without the possibility of parole, and Michael Adebowale with the possibility of parole after 45 years. 
 
 Michael Adebolajo is given a whole-life term and Michael Adebowale is jailed for a minimum of 45 years for the murder of Fusilier Lee Rigby in Woolwich.

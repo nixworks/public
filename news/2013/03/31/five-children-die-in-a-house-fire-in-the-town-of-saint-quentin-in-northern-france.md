@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/31/five-children-die-in-a-house-fire-in-the-town-o
 
 ### [2013-03-31](/news/2013/03/31/index.md)
 
-##### house fire
+##### House fire
 # Five children die in a house fire in the town of Saint-Quentin in northern France. 
 
 A house fire in Saint-Quentin in northern France kills five children between the ages of two and 10, local officials say.

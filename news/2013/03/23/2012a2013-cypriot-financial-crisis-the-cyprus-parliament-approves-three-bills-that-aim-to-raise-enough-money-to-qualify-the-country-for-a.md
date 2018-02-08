@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/23/2012a2013-cypriot-financial-crisis-the-cyprus-p
 
 ### [2013-03-23](/news/2013/03/23/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: The Cyprus Parliament approves three bills that aim to raise enough money to qualify the country for a broader bailout package and stave off financial collapse. 
 
 

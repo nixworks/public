@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/16/a-strong-earthquake-of-6-6-magnitude-occurs-off
 
 ### [2011-06-16](/news/2011/06/16/index.md)
 
-##### earthquake
+##### Earthquake
 # A strong earthquake of 6.6 magnitude occurs off the coast of New Britain in Papua New Guinea but no tsunami warning is issued. 
 
 

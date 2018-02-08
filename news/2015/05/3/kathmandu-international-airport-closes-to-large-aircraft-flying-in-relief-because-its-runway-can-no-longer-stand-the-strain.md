@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/3/kathmandu-international-airport-closes-to-large-
 
 ### [2015-05-3](/news/2015/05/3/index.md)
 
-##### suspicions
+##### Suspicions
 # Kathmandu International Airport closes to large aircraft flying in relief because its runway can no longer stand the strain.
 
 The death toll from Nepal&#039;s devastating earthquake has risen to 7,040 with a further 14,123 people injured.

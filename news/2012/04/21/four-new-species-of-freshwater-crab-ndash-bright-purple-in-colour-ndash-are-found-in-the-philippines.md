@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/21/four-new-species-of-freshwater-crab-ndash-brigh
 
 ### [2012-04-21](/news/2012/04/21/index.md)
 
-##### species
+##### Species
 # Four new species of freshwater crab &ndash;bright purple in colour&ndash; are found in the Philippines. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/12/homosexuality-is-to-blame-for-paedophilia-accor
 
 ### [2010-04-12](/news/2010/04/12/index.md)
 
-##### homosexual
+##### Homosexual
 # Homosexuality is to blame for paedophilia, according to Vatican Secretary of State and the Pope's Deputy, Cardinal Tarcisio Bertone, speaking today at a news conference in Chile. 
 
 Security around the Pope is to be stepped up for his visit to Malta after sex abuse victims on the island said they planned to protest at his failure to tackle the scandal rocking the Catholic Church.

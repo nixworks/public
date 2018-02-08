@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/21/the-first-terrorism-trial-of-a-guantanamo-bay-i
 
 ### [2008-07-21](/news/2008/07/21/index.md)
 
-##### terrorism
+##### Terrorism
 #  The first terrorism trial of a Guantanamo Bay inmate begins with Salim Ahmed Hamdan, the former driver and bodyguard of Osama bin Laden, pleading not guilty. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/18/a-fishing-vessel-capsizes-off-of-liverpool-nova
 
 ### [2013-02-18](/news/2013/02/18/index.md)
 
-##### fishing vessel
+##### Fishing vessel
 # A fishing vessel capsizes off of Liverpool, Nova Scotia, Canada, leaving 5 fishermen missing in the frigid waters. 
 
 A massive search was set to continue through Monday night off Liverpool for five fishermen who were aboard a boat that reportedly capsized late Sunday. An emergency beacon was set off just after 11 p.m., after the 14-metre vessel named the Miss Ally went down in heavy seas and near hurricane-force winds.

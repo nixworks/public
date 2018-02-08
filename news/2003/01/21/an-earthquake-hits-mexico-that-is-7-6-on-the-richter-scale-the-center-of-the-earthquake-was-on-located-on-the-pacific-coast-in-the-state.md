@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/01/21/an-earthquake-hits-mexico-that-is-7-6-on-the-ri
 
 ### [2003-01-21](/news/2003/01/21/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake hits Mexico that is 7.6 on the Richter scale. The center of the earthquake was on located on the Pacific coast, in the State of Colima. The earthquake was felt as far as in Mexico City.
 
 

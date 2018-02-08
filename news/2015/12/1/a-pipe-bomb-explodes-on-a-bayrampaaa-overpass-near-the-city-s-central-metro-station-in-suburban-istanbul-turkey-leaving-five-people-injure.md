@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/1/a-pipe-bomb-explodes-on-a-bayrampaaa-overpass-ne
 
 ### [2015-12-1](/news/2015/12/1/index.md)
 
-##### pipe bomb
+##### Pipe bomb
 # A pipe bomb explodes on a Bayrampasa overpass near the city's central metro station in suburban Istanbul, Turkey leaving five people injured. 
 
 Five hurt in explosion in industrial and residential area during evening rush hour

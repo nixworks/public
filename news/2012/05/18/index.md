@@ -15,7 +15,7 @@ _Context: Baghdad_
 ### [German baritone Dietrich Fischer-Dieskau dies at the age of 86. ](/news/2012/05/18/german-baritone-dietrich-fischer-dieskau-dies-at-the-age-of-86.md)
 _Context: Dietrich Fischer-Dieskau_
 
-##### social network
+##### Social network
 ### [The social network Facebook holds an initial public offering and closes nearly flat at $38.23 a share. ](/news/2012/05/18/the-social-network-facebook-holds-an-initial-public-offering-and-closes-nearly-flat-at-38-23-a-share.md)
 Stocks closed near session lows Friday, with all three major averages posting their worst weekly drop this year, as investors were cautious ahead of the weekend amid fears over the euro zone and euphoria over Facebook&#039;s trading debut fizzled. 
 
@@ -25,11 +25,11 @@ Stocks closed near session lows Friday, with all three major averages posting th
 
 ##### Group of Eight
 ### [The Group of Eight meets in the United States at Camp David with the Greek debt crisis and associated Eurozone problems on the agenda. ](/news/2012/05/18/the-group-of-eight-meets-in-the-united-states-at-camp-david-with-the-greek-debt-crisis-and-associated-eurozone-problems-on-the-agenda.md)
-_Context: Group of Eight, Greek debt crisis, Eurozone, Camp David, United States_
+_Context: Group of Eight, Greek debt crisis, Camp David, United States, Eurozone_
 
 ##### Sybrand van Haersma Buma
 ### [Sybrand van Haersma Buma is elected as the new party leader of the Christian Democratic Appeal (CDA) and becomes the "lijsttrekker" (top candidate) for the Dutch general election of 2012. ](/news/2012/05/18/sybrand-van-haersma-buma-is-elected-as-the-new-party-leader-of-the-christian-democratic-appeal-cda-and-becomes-the-lijsttrekker-top-can.md)
-_Context: party leader, lijsttrekker, Sybrand van Haersma Buma, CDA, general election in the Netherlands_
+_Context: CDA, lijsttrekker, party leader, general election in the Netherlands, Sybrand van Haersma Buma_
 
 ## [Previous Day...](/news/2012/05/17/index.md)
 

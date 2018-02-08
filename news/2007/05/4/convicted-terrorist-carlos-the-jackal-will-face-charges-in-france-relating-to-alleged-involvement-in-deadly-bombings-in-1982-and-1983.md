@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/4/convicted-terrorist-carlos-the-jackal-will-face-
 
 ### [2007-05-4](/news/2007/05/4/index.md)
 
-##### terrorist
+##### Terrorist
 #  Convicted terrorist Carlos the Jackal will face charges in France relating to alleged involvement in deadly bombings in 1982 and 1983. 
 
 

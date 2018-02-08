@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-e
 
 ### [2011-08-23](/news/2011/08/23/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. 
 
 

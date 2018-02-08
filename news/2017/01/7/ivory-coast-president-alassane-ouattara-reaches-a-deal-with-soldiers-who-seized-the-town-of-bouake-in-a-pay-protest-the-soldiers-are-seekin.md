@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/7/ivory-coast-president-alassane-ouattara-reaches-
 
 ### [2017-01-7](/news/2017/01/7/index.md)
 
-##### series of mutinies
+##### Series of mutinies
 # Ivory Coast president Alassane Ouattara reaches a deal with soldiers who seized the town of Bouake in a pay protest. The soldiers are seeking bonuses, pay rises and faster promotion. 
 
 Ivory Coast&#39;s President Alassane Ouattara announced he has reached an agreement with soldiers who seized the second city Bouake in a pay protest that spread to the economic capital Abidjan.

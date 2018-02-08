@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/16/pakistani-social-media-celebrity-qandeel-baloch
 
 ### [2016-07-16](/news/2016/07/16/index.md)
 
-##### social media
+##### Social media
 # Pakistani social media celebrity Qandeel Baloch is killed by her brother in an honour killing. 
 
 Pakistani social media celebrity Qandeel Baloch is strangled by her brother in an apparent honour killing in the province of Punjab, police say.

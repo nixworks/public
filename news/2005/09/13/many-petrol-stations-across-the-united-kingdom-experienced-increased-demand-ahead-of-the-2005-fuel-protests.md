@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/13/many-petrol-stations-across-the-united-kingdom-
 
 ### [2005-09-13](/news/2005/09/13/index.md)
 
-##### petrol station
+##### Petrol station
 #  Many petrol stations across the United Kingdom experienced increased demand ahead of the 2005 fuel protests. 
 
 

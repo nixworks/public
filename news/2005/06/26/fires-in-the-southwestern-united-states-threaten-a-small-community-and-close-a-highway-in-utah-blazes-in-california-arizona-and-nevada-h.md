@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/26/fires-in-the-southwestern-united-states-threate
 
 ### [2005-06-26](/news/2005/06/26/index.md)
 
-##### fire
+##### Fire
 #  Fires in the Southwestern United States threaten a small community and close a highway in Utah. Blazes in California, Arizona, and Nevada have already consumed 200,000 acres (800 km). 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/15/international-campaigners-against-the-drone-att
 
 ### [2011-07-15](/news/2011/07/15/index.md)
 
-##### drones launch
+##### Drones launch
 # International campaigners against the drone attacks, carried out by the United States in Pakistan, launch their attempt to have former CIA legal chief John A. Rizzo arrested and charged with the murders of hundreds of people after his admission in "Newsweek" that he approved attacks each month since 2004. 
 
 

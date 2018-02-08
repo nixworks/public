@@ -13,7 +13,7 @@ More than 85 rockets fired on Monday; Hamas claims responsibility for some of la
 
 ##### Iraqi insurgency (post-U.S. withdrawal)
 ### [Sittings of the Council of Representatives of Iraq are postponed for five weeks as Islamic State of Iraq and the Levant forces kill an Iraqi Army general on the outskirts of Baghdad. ](/news/2014/07/7/sittings-of-the-council-of-representatives-of-iraq-are-postponed-for-five-weeks-as-islamic-state-of-iraq-and-the-levant-forces-kill-an-iraqi.md)
-_Context: Baghdad, Iraqi Parliament, ISIL, Iraqi Army, Iraqi insurgency (post-U.S. withdrawal)_
+_Context: Iraqi Parliament, Iraqi Army, Iraqi insurgency (post-U.S. withdrawal), ISIL, Baghdad_
 
 ##### Russia
 ### [A Russian-made Mil Mi-17 crashes in the Thach ThCNYt District of the Vietnamese capital Hanoi with 16 people dead. ](/news/2014/07/7/a-russian-made-mil-mi-17-crashes-in-the-thao-ch-thaocnyt-district-of-the-vietnamese-capital-hanoi-with-16-people-dead.md)
@@ -21,7 +21,7 @@ A military helicopter has crashed close to the Vietnamese capital of Hanoi, kill
 
 ##### 2014 Pacific typhoon season
 ### [Japan braces for the impact of Typhoon Neoguri which is expected to hit Okinawa and then Kyushu on Tuesday. ](/news/2014/07/7/japan-braces-for-the-impact-of-typhoon-neoguri-which-is-expected-to-hit-okinawa-and-then-kyushu-on-tuesday.md)
-_Context: Typhoon Neoguri, 2014 Pacific typhoon season, Okinawa, Kyushu, Japan_
+_Context: 2014 Pacific typhoon season, Typhoon Neoguri, Kyushu, Japan, Okinawa_
 
 ##### 6.9 magnitude earthquake
 ### [A 6.9 magnitude earthquake hits southern Mexico and Guatemala, causing at least three deaths. ](/news/2014/07/7/a-6-9-magnitude-earthquake-hits-southern-mexico-and-guatemala-causing-at-least-three-deaths.md)
@@ -29,7 +29,7 @@ A strong earthquake rocked southern Mexico and Guatemala, killing at least four 
 
 ##### Angela Merkel
 ### [Angela Merkel, the Chancellor of Germany, says that if allegations that a German intelligence officer was working for the United States are true, it would be a "clear contradiction" of trust between allies. ](/news/2014/07/7/angela-merkel-the-chancellor-of-germany-says-that-if-allegations-that-a-german-intelligence-officer-was-working-for-the-united-states-are.md)
-_Context: Angela Merkel, German intelligence, United States, Chancellor_
+_Context: Angela Merkel, Chancellor, German intelligence, United States_
 
 ##### Department of Justice
 ### [An antitrust trial begins pitting the U.S. Justice Department against American Express over tactics the latter has employed in the credit card market. ](/news/2014/07/7/an-antitrust-trial-begins-pitting-the-u-s-justice-department-against-american-express-over-tactics-the-latter-has-employed-in-the-credit-ca.md)
@@ -41,7 +41,7 @@ Retired players and their beneficiaries can now vote on the deal, which includes
 
 ##### Afghan presidential election, 2014
 ### [A preliminary count indicates that former finance minister Ashraf Ghani is favourite to win the election. ](/news/2014/07/7/a-preliminary-count-indicates-that-former-finance-minister-ashraf-ghani-is-favourite-to-win-the-election.md)
-_Context: Afghan presidential election, 2014, Ashraf Ghani_
+_Context: Ashraf Ghani, Afghan presidential election, 2014_
 
 ##### Senegal
 ### [Senegal's president Macky Sall appoints his close aid Mohammed Ben Abdallah Dionne as the third prime minister in Sall's time in office, following the resignation of Aminata Toure. ](/news/2014/07/7/senegal-s-president-macky-sall-appoints-his-close-aid-mohammed-ben-abdallah-dionne-as-the-third-prime-minister-in-sall-s-time-in-office-fol.md)
@@ -53,7 +53,7 @@ FM says &#8216;essential&#8217; differences with Netanyahu behind decision; move
 
 ##### Nairobi
 ### [Thousands rally in Nairobi against the President of Kenya Uhuru Kenyatta's rule.](/news/2014/07/7/thousands-rally-in-nairobi-against-the-president-of-kenya-uhuru-kenyatta-s-rule.md)
-_Context: Uhuru Kenyatta, President of Kenya, Nairobi_
+_Context: Uhuru Kenyatta, Nairobi, President of Kenya_
 
 ##### Udo Voigt
 ### [Europeans elect German neo-Nazi leader Udo Voigt to the European Parliament's Civil Liberties, Justice, and Home Affairs Committee. ](/news/2014/07/7/europeans-elect-german-neo-nazi-leader-udo-voigt-to-the-european-parliament-s-civil-liberties-justice-and-home-affairs-committee.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/10/in-the-house-of-commons-of-the-united-kingdom-a
 
 ### [2011-03-10](/news/2011/03/10/index.md)
 
-##### the House of Commons
+##### The House of Commons
 # In the House of Commons of the United Kingdom, a Liberal Democrat member disclosed, with the protection of parliamentary privilege, the fact that the former chief executive of Royal Bank of Scotland has obtained an injunction banning the publication of information about him, even the simple identification of this individual, Fred Goodwin, as a banker. 
 
 Sir Fred Goodwin, the former chief executive of the Royal Bank of Scotland, has obtained a super-injunction banning the publication of information about him, it has been disclosed on the floor of the House of Commons.

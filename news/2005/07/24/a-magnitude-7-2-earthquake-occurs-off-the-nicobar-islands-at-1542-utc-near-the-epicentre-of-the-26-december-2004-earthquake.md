@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/24/a-magnitude-7-2-earthquake-occurs-off-the-nicob
 
 ### [2005-07-24](/news/2005/07/24/index.md)
 
-##### earthquake
+##### Earthquake
 #  A magnitude 7.2 earthquake occurs off the Nicobar Islands at 1542 UTC, near the epicentre of the 26 December 2004 earthquake. 
 
 

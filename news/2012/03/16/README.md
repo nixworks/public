@@ -13,7 +13,7 @@ FOURTEEN people, including two children, are dead after a NATO helicopter crashe
 
 ##### George Clooney
 ### [American actor George Clooney is arrested at a protest outside the Embassy of Sudan in Washington, D.C. together with Nick Clooney, Martin Luther King III, NAACP President Ben Jealous and several congressmen. ](/news/2012/03/16/american-actor-george-clooney-is-arrested-at-a-protest-outside-the-embassy-of-sudan-in-washington-d-c-together-with-nick-clooney-martin-l.md)
-_Context: George Clooney, Ben Jealous, Embassy of Sudan in Washington, D.C., Martin Luther King III, Nick Clooney, NAACP_
+_Context: Ben Jealous, Martin Luther King III, Embassy of Sudan in Washington, D.C., George Clooney, NAACP, Nick Clooney_
 
 ##### Nike, Inc.
 ### [U.S. sportswear company Nike, Inc. controversially gives its new Saint Patrick's Day runner the name "The Black and Tan", prompting comparisons from concerned netizens with the controversial British paramilitary unit, which was known as the Black and Tans. ](/news/2012/03/16/u-s-sportswear-company-nike-inc-controversially-gives-its-new-saint-patrick-s-day-runner-the-name-the-black-and-tan-prompting-comparis.md)
@@ -27,9 +27,9 @@ The Archbishop of Canterbury, Dr Rowan Williams, announces he is to stand down i
 ### [The Commission of Inquiry into the 2010-11 Queensland floods hands down its report with engineers at the Wivenhoe Dam outside Brisbane to be referred to the Crime and Misconduct Commission. ](/news/2012/03/16/the-commission-of-inquiry-into-the-2010a11-queensland-floods-hands-down-its-report-with-engineers-at-the-wivenhoe-dam-outside-brisbane-to.md)
 Queensland&#039;s floods inquiry has handed down its long-awaited report into last year&#039;s devastating floods.
 
-##### tropical cyclone
+##### Tropical cyclone
 ### [A tropical cyclone warning is issued for Western Australia's Pilbara and Kimberly regions as Cyclone Lua approaches at Category 3 strength. ](/news/2012/03/16/a-tropical-cyclone-warning-is-issued-for-western-australia-s-pilbara-and-kimberly-regions-as-cyclone-lua-approaches-at-category-3-strength.md)
-_Context: Pilbara, Kimberley, Western Australia, tropical cyclone, Cyclone Lua_
+_Context: Kimberley, Western Australia, Pilbara, Cyclone Lua, tropical cyclone_
 
 ##### Belgium
 ### [Belgium holds a day of national mourning in memory of the victims of the Sierre bus collision in Switzerland earlier this week. ](/news/2012/03/16/belgium-holds-a-day-of-national-mourning-in-memory-of-the-victims-of-the-sierre-bus-collision-in-switzerland-earlier-this-week.md)
@@ -37,7 +37,7 @@ Belgium holds a day of mourning to remember the victims of the coach crash in a 
 
 ##### David Petraeus
 ### [David Petraeus, the Director of the Central Intelligence Agency, is honored with the Grand Cross with swords in the Order of Orange-Nassau in The Hague for his service as a four-star general in Iraq and Afghanistan. ](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.md)
-_Context: Grand Cross with swords in the Order of Orange-Nassau, David Petraeus, The Hague, Iraq, Director of the CIA, Afghanistan_
+_Context: The Hague, Afghanistan, Grand Cross with swords in the Order of Orange-Nassau, Director of the CIA, David Petraeus, Iraq_
 
 ##### Rutgers University
 ### [Former Rutgers University student Dharun Ravi is found guilty of a hate crime and invasion of privacy for his role in the suicide of Tyler Clementi. ](/news/2012/03/16/former-rutgers-university-student-dharun-ravi-is-found-guilty-of-a-hate-crime-and-invasion-of-privacy-for-his-role-in-the-suicide-of-tyler-c.md)
@@ -45,7 +45,7 @@ A US student who used a webcam to secretly film his room-mate in a gay encounter
 
 ##### Nicolae Timofti
 ### [Nicolae Timofti becomes the fourth President of Moldova, after nearly 3 years without an elected head of state and political stalemate in the country. ](/news/2012/03/16/nicolae-timofti-becomes-the-fourth-president-of-moldova-after-nearly-3-years-without-an-elected-head-of-state-and-political-stalemate-in-th.md)
-_Context: Moldovan President, Nicolae Timofti_
+_Context: Nicolae Timofti, Moldovan President_
 
 ##### North Korea
 ### [North Korea announces plans to launch a new satellite in honour of regime founder Kim Il-Sung's birthday in April. ](/news/2012/03/16/north-korea-announces-plans-to-launch-a-new-satellite-in-honour-of-regime-founder-kim-il-sung-s-birthday-in-april.md)

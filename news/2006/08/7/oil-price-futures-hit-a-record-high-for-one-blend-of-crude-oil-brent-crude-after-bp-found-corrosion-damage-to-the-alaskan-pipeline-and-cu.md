@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/7/oil-price-futures-hit-a-record-high-for-one-blen
 
 ### [2006-08-7](/news/2006/08/7/index.md)
 
-##### futures
+##### Futures
 #  Oil price futures hit a record high for one blend of crude oil (Brent crude) after BP found corrosion damage to the Alaskan pipeline and cut production in Prudhoe Bay 50%. 
 
 

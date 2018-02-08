@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/11/the-governor-of-oklahoma-mary-fallin-declares-a
 
 ### [2011-03-11](/news/2011/03/11/index.md)
 
-##### governor
+##### Governor
 # The Governor of Oklahoma, Mary Fallin, declares a state of emergency in all 77 counties due to wildfires burning out of control in that state and Colorado. 
 
 

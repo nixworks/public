@@ -3,15 +3,15 @@ Formats: [HTML](2012/07/7/index.html)  [JSON](2012/07/7/index.json)  [XML](2012/
 
 ## [2012-07-7](/news/2012/07/7/index.md)
 
-##### Lebanon
+##### Lebanese
 ### [The Lebanese army in Wadi Khaled is placed on alert after rockets from Syria kill two people in its territory. ](/news/2012/07/7/the-lebanese-army-in-wadi-khaled-is-placed-on-alert-after-rockets-from-syria-kill-two-people-in-its-territory.md)
-_Context: Wadi Khaled, Lebanese Army, Syria, Lebanon_
+_Context: Wadi Khaled, Syria, Lebanese, Lebanese Army_
 
 ##### Gabriel Garcia Marquez
 ### [Jaime Garcia Marquez tells his students that his brother Gabriel Garcia Marquez, the Colombian writer and recipient of the 1982 Nobel Prize for Literature, suffers from dementia that has ended his writing career. ](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.md)
 The brother of Gabriel Garcia Marquez says the Colombian writer and Nobel laureate is suffering from dementia and has stopped writing.
 
-##### floods
+##### Floods
 ### [More than 140 people are killed after torrential rains leading to heavy floods sweep through parts of the south Russian Krasnodar region. ](/news/2012/07/7/more-than-140-people-are-killed-after-torrential-rains-leading-to-heavy-floods-sweep-through-parts-of-the-south-russian-krasnodar-region.md)
 More than 144 people have been killed as flash floods swept through parts of the Krasnodar region in southern Russia, officials say.
 
@@ -33,7 +33,7 @@ Classification, allowing Kabul to buy advanced US weaponry, announced as Afghan 
 
 ##### Raul Castro
 ### [Cuban leader Raul Castro makes his first visit to Beijing since succeeding Fidel Castro in 2008; trade deals are signed between China and Cuba. ](/news/2012/07/7/cuban-leader-raaol-castro-makes-his-first-visit-to-beijing-since-succeeding-fidel-castro-in-2008-trade-deals-are-signed-between-china-and-c.md)
-_Context: Raul Castro, Beijing, Fidel Castro_
+_Context: Raul Castro, Fidel Castro, Beijing_
 
 ##### London
 ### [A 22-year-old woman is arrested in east London in connection with an ongoing counter-terrorism operation. ](/news/2012/07/7/a-22-year-old-woman-is-arrested-in-east-london-in-connection-with-an-ongoing-counter-terrorism-operation.md)
@@ -57,7 +57,7 @@ _Context: cocaine, Hong Kong police_
 
 ##### State Duma
 ### [The lower house of parliament in Russia gives initial backing to a bill forcing internationally-funded non-governmental organisations to carry a "foreign agent" tag. ](/news/2012/07/7/the-lower-house-of-parliament-in-russia-gives-initial-backing-to-a-bill-forcing-internationally-funded-non-governmental-organisations-to-car.md)
-_Context: Russia, non-governmental organisations, State Duma_
+_Context: State Duma, Russia, non-governmental organisations_
 
 ##### Libya
 ### [Voters in Libya go to the polls for a General National Congress election with those elected responsible for appointing a Prime Minister, cabinet and establishing a new constitution. ](/news/2012/07/7/voters-in-libya-go-to-the-polls-for-a-general-national-congress-election-with-those-elected-responsible-for-appointing-a-prime-minister-cab.md)

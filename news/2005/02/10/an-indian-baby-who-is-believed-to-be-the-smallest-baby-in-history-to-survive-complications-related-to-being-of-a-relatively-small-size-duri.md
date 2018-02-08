@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/10/an-indian-baby-who-is-believed-to-be-the-smalle
 
 ### [2005-02-10](/news/2005/02/10/index.md)
 
-##### smallest baby in history
+##### Smallest baby in history
 #  An Indian baby who is believed to be the smallest baby in history to survive complications related to being of a relatively small size during birth, goes home six months after she was born in a hospital in Chicago. She was born weighing 8.6 ounces (244 grams). 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

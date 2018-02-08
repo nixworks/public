@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/13/the-genome-sequence-of-the-rhesus-macaque-monke
 
 ### [2007-04-13](/news/2007/04/13/index.md)
 
-##### genome
+##### Genome
 #  The genome sequence of the Rhesus Macaque monkey is published in the scientific journal "Science". 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/17/at-least-11-people-are-killed-and-four-injured-
 
 ### [2009-03-17](/news/2009/03/17/index.md)
 
-##### collision
+##### Collision
 #  At least 11 people are killed and four injured in an bus accident outside Saltillo, Coahuila, Mexico. 
 
 

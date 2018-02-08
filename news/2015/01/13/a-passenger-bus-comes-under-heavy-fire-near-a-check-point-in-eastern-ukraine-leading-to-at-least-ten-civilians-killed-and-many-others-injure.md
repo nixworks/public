@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/13/a-passenger-bus-comes-under-heavy-fire-near-a-c
 
 ### [2015-01-13](/news/2015/01/13/index.md)
 
-##### military intervention in Ukraine
+##### Military intervention in Ukraine
 # A passenger bus comes under heavy fire near a check point in eastern Ukraine leading to at least ten civilians killed and many others injured. 
 
 

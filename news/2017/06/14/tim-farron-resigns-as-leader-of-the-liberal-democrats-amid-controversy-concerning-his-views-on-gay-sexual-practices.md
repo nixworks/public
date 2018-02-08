@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/14/tim-farron-resigns-as-leader-of-the-liberal-dem
 
 ### [2017-06-14](/news/2017/06/14/index.md)
 
-##### last general election
+##### Last general election
 # Tim Farron resigns as leader of the Liberal Democrats amid controversy concerning his views on gay sexual practices. 
 
 Tim Farron has resigned as leader of the Liberal Democrats, following a furore over his beliefs concerning gay sex. The politician admitted some of his comments concerning the matter could have been wiser – when asked if homosexuality is a sin he had previously responded: “We are all sinners.” After the matter refused to go away and surfaced again during the election campaign, Mr Farron said it had felt “impossible” to be both Lib Dem leader and a Christian.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichu
 
 ### [2011-07-6](/news/2011/07/6/index.md)
 
-##### heavy flood
+##### Heavy flood
 # 7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. 
 
 

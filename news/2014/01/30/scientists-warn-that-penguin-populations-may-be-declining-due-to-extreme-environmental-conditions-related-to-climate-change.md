@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/30/scientists-warn-that-penguin-populations-may-be
 
 ### [2014-01-30](/news/2014/01/30/index.md)
 
-##### penguin
+##### Penguin
 # Scientists warn that penguin populations may be declining due to extreme environmental conditions related to climate change 
 
 Heatwaves killing Magellanic penguin chicks in Argentina, and Adelie penguins in Antarctica are finding it harder to feed

@@ -13,11 +13,11 @@ Singer, comedian and actor Max Bygraves has died in Australia at the age of 89.
 
 ##### Los Angeles County Coroner's Office
 ### [The Los Angeles County Coroner's Office reports that Sage Stallone died of natural causes. ](/news/2012/08/31/the-los-angeles-county-coroner-s-office-reports-that-sage-stallone-died-of-natural-causes.md)
-_Context: Los Angeles County Coroner's Office, Sage Stallone_
+_Context: Sage Stallone, Los Angeles County Coroner's Office_
 
-##### magnitude
+##### Magnitude
 ### [A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. ](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-province-of-eastern-samar-kills-at-least-one-person.md)
-_Context: earthquake, magnitude, Eastern Samar, Philippines_
+_Context: magnitude, Philippines, Eastern Samar, earthquake_
 
 ##### Armenia
 ### [Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. ](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.md)
@@ -33,19 +33,19 @@ Apple Inc. lost a patent lawsuit in Japan as a Tokyo judge ruled that Samsung El
 
 ##### Roman Abramovich
 ### [Roman Abramovich, the owner of Chelsea FC, wins his legal action against fellow Russian oligarch Boris Berezovsky. ](/news/2012/08/31/roman-abramovich-the-owner-of-chelsea-fc-wins-his-legal-action-against-fellow-russian-oligarch-boris-berezovsky.md)
-_Context: Boris Berezovsky, Chelsea FC, Roman Abramovich_
+_Context: Roman Abramovich, Boris Berezovsky, Chelsea FC_
 
 ##### Harvard University
 ### [Harvard University investigates a widespread cheating allegation on a take-home test in one of its undergraduate classes last spring. ](/news/2012/08/31/harvard-university-investigates-a-widespread-cheating-allegation-on-a-take-home-test-in-one-of-its-undergraduate-classes-last-spring.md)
 Harvard University is investigating whether dozens of undergraduate students cheated on a take-home exam last spring.
 
-##### general election
+##### General election
 ### [Parliamentary elections take place in Angola. ](/news/2012/08/31/parliamentary-elections-take-place-in-angola.md)
 Second election since end of 27-year civil war likely to keep Eduardo dos Santos in power despite strong opposition.
 
 ##### Enrique Pea Nieto
 ### [Enrique Pea Nieto of the Institutional Revolutionary Party (PRI) is declared the winner of the Mexican presidential elections. ](/news/2012/08/31/enrique-pena-nieto-of-the-institutional-revolutionary-party-pri-is-declared-the-winner-of-the-mexican-presidential-elections.md)
-_Context: Mexican presidential elections, Enrique Pea Nieto, Institutional Revolutionary Party_
+_Context: Institutional Revolutionary Party, Enrique Pea Nieto, Mexican presidential elections_
 
 ## [Previous Day...](/news/2012/08/30/index.md)
 

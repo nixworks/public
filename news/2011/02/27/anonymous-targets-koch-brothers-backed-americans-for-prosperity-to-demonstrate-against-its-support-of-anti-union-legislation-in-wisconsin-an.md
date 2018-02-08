@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/27/anonymous-targets-koch-brothers-backed-american
 
 ### [2011-02-27](/news/2011/02/27/index.md)
 
-##### hacker group Anonymous
+##### Hacker group Anonymous
 # Anonymous targets Koch Brothers-backed Americans for Prosperity to demonstrate against its support of anti-union legislation in Wisconsin and the influence of money in US politics. 
 
 There was nothing terribly sophisticated about the denial of service attack executed by the activist hackers at Anonymous to temporarily knock out Americansforprosperity.org, the conservative advocacy group backed by billionaire brothers David and Charles Koch.

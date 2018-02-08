@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/7/at-least-37-people-are-killed-in-an-attack-in-th
 
 ### [2014-06-7](/news/2014/06/7/index.md)
 
-##### an attack
+##### An attack
 # At least 37 people are killed in an attack in the Democratic Republic of the Congo's South Kivu province. 
 
 Victims of the attack, including eight youngsters, were shot, stabbed, or burned alive inside their homes, according to a witness.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/15/the-creditors-of-ailing-finnish-low-cost-carrie
 
 ### [2004-01-15](/news/2004/01/15/index.md)
 
-##### low-cost carrier
+##### Low-cost carrier
 #  The creditors of ailing Finnish low-cost carrier Flying Finn have threatened to confiscate the airline's planes.
 
 

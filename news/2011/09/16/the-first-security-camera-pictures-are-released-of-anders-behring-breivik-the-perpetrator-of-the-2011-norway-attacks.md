@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/16/the-first-security-camera-pictures-are-released
 
 ### [2011-09-16](/news/2011/09/16/index.md)
 
-##### security camera
+##### Security camera
 # The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. 
 
 Security cameras captured images of the Norwegian far right extremist accused of killing 77 people minutes before he detonated a car bomb outside the prime minister&#39;s office two months ago, police said Thursday.

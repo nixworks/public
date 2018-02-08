@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/27/ten-construction-workers-die-after-falling-from
 
 ### [2011-01-27](/news/2011/01/27/index.md)
 
-##### residential apartment
+##### Residential apartment
 # Ten construction workers die after falling from the 28th floor of a skyscraper being built in Manila, the Philippine capital. 
 
 

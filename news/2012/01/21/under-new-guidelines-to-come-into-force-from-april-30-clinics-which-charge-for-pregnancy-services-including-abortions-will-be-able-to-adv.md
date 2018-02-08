@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/21/under-new-guidelines-to-come-into-force-from-ap
 
 ### [2012-01-21](/news/2012/01/21/index.md)
 
-##### pregnancy
+##### Pregnancy
 # Under new guidelines to come into force from April 30, clinics which charge for pregnancy services, including abortions, will be able to advertise on radio and television in the United Kingdom, after the Broadcast Committee of Advertising Practice ruled there was no justification for barring such clinics from advertising their services. 
 
 Private clinics that charge for pregnancy services including abortions will be able to advertise on television and radio under new rules.

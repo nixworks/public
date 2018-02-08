@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/13/lion-air-flight-904-lands-short-of-the-runway-a
 
 ### [2013-04-13](/news/2013/04/13/index.md)
 
-##### crashed
+##### Crashed
 # Lion Air Flight 904 lands short of the runway at Ngurah Rai International Airport near Denpasar, Indonesia. All 108 people survived with minor injuries. 
 
 More than 100 airline passengers escaped with their lives on Saturday when a plane crashed into the sea as it tried to land on the Far Eastern holiday island of Bali.

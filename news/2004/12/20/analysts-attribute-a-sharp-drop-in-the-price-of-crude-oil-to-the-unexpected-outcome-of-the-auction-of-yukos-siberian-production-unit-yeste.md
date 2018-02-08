@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/20/analysts-attribute-a-sharp-drop-in-the-price-of
 
 ### [2004-12-20](/news/2004/12/20/index.md)
 
-##### crude oil
+##### Crude oil
 #  Analysts attribute a sharp drop in the price of crude oil to the unexpected outcome of the auction of Yukos' Siberian production unit yesterday. The value of the January futures contract fell 64 cents to $45.64 on the Nymex.
 
 

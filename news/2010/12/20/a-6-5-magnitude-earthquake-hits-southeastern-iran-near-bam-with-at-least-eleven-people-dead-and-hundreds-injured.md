@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/20/a-6-5-magnitude-earthquake-hits-southeastern-ir
 
 ### [2010-12-20](/news/2010/12/20/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.5 magnitude earthquake hits southeastern Iran, near Bam with at least eleven people dead and hundreds injured. 
 
 A powerful earthquake struck a sparsely populated district of southeastern Iran, killing at least 11 people, injuring at least 40 and damaging 1,800 homes, news reports said Tuesday. The magnitude...

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/5/an-84-year-old-woman-from-the-u-s-state-of-flori
 
 ### [2013-06-5](/news/2013/06/5/index.md)
 
-##### the state
+##### The state
 # An 84-year-old woman from the U.S. state of Florida comes forward as the sole winner of the record-breaking $590 million Powerball lottery drawing in May. 
 
 year-old winner opts for $370 million lump sum

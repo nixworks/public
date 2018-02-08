@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/11/at-least-two-car-bombs-explode-in-stockholm-swe
 
 ### [2010-12-11](/news/2010/12/11/index.md)
 
-##### car bombs explode
+##### Car bombs explode
 # At least two car bombs explode in Stockholm, Sweden, killing at least one person and injuring two more. 
 
 

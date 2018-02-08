@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/29/two-gay-pride-demonstrations-are-held-in-moscow
 
 ### [2010-05-29](/news/2010/05/29/index.md)
 
-##### gay pride
+##### Gay pride
 # Two gay pride demonstrations are held in Moscow despite an official ban. It is the first time the event was not broken up by police since the initial attempt in 2006. 
 
 Gay and lesbian activists eluded Russian security services in a five-hour game of cat and mouse on Saturday to hold the first gay protest in Moscow not to be broken up by riot police.

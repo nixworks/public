@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/27/ten-acts-including-former-winner-niamh-kavanagh
 
 ### [2010-05-27](/news/2010/05/27/index.md)
 
-##### former winner
+##### Former winner
 # Ten acts, including former winner Niamh Kavanagh, progress to the final of Eurovision Song Contest 2010 in Baerum, Oslo. Sweden fails to qualify for the first time in its history. 
 
 Though her voice did not sound as strong as in rehearsals, the former winner looked confident and happy on stage at the Telenor&hellip;

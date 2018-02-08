@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/27/al-qaeda-s-deputy-leader-ayman-al-zawahiri-open
 
 ### [2006-07-27](/news/2006/07/27/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". 
 
 As the battles raged, a meeting of U.S., European and Arab countries in Rome failed to reach agreement on a plan to end the fighting.

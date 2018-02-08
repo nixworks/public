@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/29/at-least-22-people-die-in-a-car-bombing-in-cent
 
 ### [2007-05-29](/news/2007/05/29/index.md)
 
-##### car bombing
+##### Car bombing
 #  At least 22 people die in a car bombing in central Baghdad. 
 
 Gunmen in police uniforms kidnapped five Britons in Baghdad on Tuesday and the deaths of 10 U.S. soldiers were announced, making May the deadliest month for the U.S. military in more than two years.

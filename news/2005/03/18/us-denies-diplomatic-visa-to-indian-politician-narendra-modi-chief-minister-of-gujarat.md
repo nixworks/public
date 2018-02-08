@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/18/us-denies-diplomatic-visa-to-indian-politician-
 
 ### [2005-03-18](/news/2005/03/18/index.md)
 
-##### visa
+##### Visa
 #  US denies diplomatic visa to Indian politician Narendra Modi, chief minister of Gujarat 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News

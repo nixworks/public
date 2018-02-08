@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/13/an-investigation-begins-into-the-deaths-of-two-
 
 ### [2009-10-13](/news/2009/10/13/index.md)
 
-##### army
+##### Army
 #  An investigation begins into the deaths of two Irish Army Air Corps pilots in a plane crash in County Galway on Monday. 
 
 

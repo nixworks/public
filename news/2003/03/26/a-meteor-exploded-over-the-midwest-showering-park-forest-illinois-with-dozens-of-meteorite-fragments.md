@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/26/a-meteor-exploded-over-the-midwest-showering-pa
 
 ### [2003-03-26](/news/2003/03/26/index.md)
 
-##### meteor
+##### Meteor
 #  A meteor exploded over the midwest, showering Park Forest, Illinois, with dozens of meteorite fragments. 
 
 

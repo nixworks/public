@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/28/seven-people-die-in-a-series-of-avalanche-incid
 
 ### [2009-12-28](/news/2009/12/28/index.md)
 
-##### avalanche
+##### Avalanche
 #  Seven people die in a series of avalanche incidents in Italy. 
 
 

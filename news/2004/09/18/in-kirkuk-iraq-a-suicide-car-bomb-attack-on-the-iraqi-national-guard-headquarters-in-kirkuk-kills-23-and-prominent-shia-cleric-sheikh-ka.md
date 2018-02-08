@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/18/in-kirkuk-iraq-a-suicide-car-bomb-attack-on-the
 
 ### [2004-09-18](/news/2004/09/18/index.md)
 
-##### car bomb
+##### Car bomb
 #  In Kirkuk, Iraq, a suicide car bomb attack on the Iraqi National Guard headquarters in Kirkuk kills 23, and prominent Shia cleric Sheikh Kadhim al-Hany is ambushed and killed. 
 
 

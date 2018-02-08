@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-pr
 
 ### [2005-02-20](/news/2005/02/20/index.md)
 
-##### referendum
+##### Referendum
 #  In Europe's first national referendum on the proposed European Constitution, the people of Spain vote to endorse the Treaty by a landslide 76.73% to 17.24%. However, turnout is an extremely low 42.32%, even after both the government and the main opposition party campaigned for a "yes" vote. 
 
 

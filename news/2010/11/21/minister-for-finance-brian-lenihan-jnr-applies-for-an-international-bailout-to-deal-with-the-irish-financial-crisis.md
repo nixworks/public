@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/21/minister-for-finance-brian-lenihan-jnr-applies-
 
 ### [2010-11-21](/news/2010/11/21/index.md)
 
-##### financial crisis
+##### Financial crisis
 # Minister for Finance Brian Lenihan, Jnr applies for an international bailout to deal with the Irish financial crisis. 
 
 Taoiseach Brian Cowen has confirmed that a major financial assistance plan for Ireland has been agreed with the EU.

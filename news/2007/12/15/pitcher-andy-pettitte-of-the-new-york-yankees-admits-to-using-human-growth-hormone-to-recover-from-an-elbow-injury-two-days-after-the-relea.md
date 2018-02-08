@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/15/pitcher-andy-pettitte-of-the-new-york-yankees-a
 
 ### [2007-12-15](/news/2007/12/15/index.md)
 
-##### pitches
+##### Pitches
 #  Pitcher Andy Pettitte of the New York Yankees admits to using human growth hormone to recover from an elbow injury two days after the release of the Mitchell Report. 
 
 

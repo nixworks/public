@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/7/voters-in-the-bahamas-go-to-the-polls-for-a-gene
 
 ### [2012-05-7](/news/2012/05/7/index.md)
 
-##### northwestern Bahamas
+##### Northwestern Bahamas
 # Voters in The Bahamas go to the polls for a general election. 
 
 Outgoing prime minister and Free National Movement (FNM) leader, Hubert Ingraham conceded defeat shortly before 10 p.m., and announced that he would not lead the party in opposition and would resign his seat in Parliament. “I shall return to priv...

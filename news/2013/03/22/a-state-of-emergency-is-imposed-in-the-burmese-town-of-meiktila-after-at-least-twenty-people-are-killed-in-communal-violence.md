@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/22/a-state-of-emergency-is-imposed-in-the-burmese-
 
 ### [2013-03-22](/news/2013/03/22/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is imposed in the Burmese town of Meiktila after at least twenty people are killed in communal violence. 
 
 Burma imposes a state of emergency in the town of Meiktila following three days of communal violence between Buddhists and Muslims.

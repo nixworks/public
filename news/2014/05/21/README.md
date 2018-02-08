@@ -21,7 +21,7 @@ Suspected Boko Haram fighters are accused of killing at least 27 people in two n
 
 ##### South Korean Navy
 ### [The Republic of Korea Navy fires warning shots at 3 Korean People's Navy patrol boats after they violated South Korean waters. ](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.md)
-_Context: South Korea, navy, South Korean Navy_
+_Context: South Korea, South Korean Navy, navy_
 
 ##### Defence for Children International
 ### [Defence for Children International publishes a video showing two Palestinians allegedly killed by Israeli soldiers during a demonstration that became violent.](/news/2014/05/21/defence-for-children-international-publishes-a-video-showing-two-palestinians-allegedly-killed-by-israeli-soldiers-during-a-demonstration-th.md)
@@ -35,7 +35,7 @@ A British national working as a journalist for a Russian TV station is detained 
 ### [General Motors announces that it is recalling 218,000 older model Chevrolet Aveos due to a fire hazard. ](/news/2014/05/21/general-motors-announces-that-it-is-recalling-218-000-older-model-chevrolet-aveos-due-to-a-fire-hazard.md)
 General Motors Co is recalling more than 284,000 older Chevrolet small cars in the United States and other markets because of a potential fire hazard, bringing U.S. recalls at the automaker this year to 29 and a record number of vehicles.
 
-##### eBay
+##### EBay
 ### [eBay forces its users to change their passwords after a database containing encrypted user passwords and other non-financial data is compromised by a cyber-attack. ](/news/2014/05/21/ebay-forces-its-users-to-change-their-passwords-after-a-database-containing-encrypted-user-passwords-and-other-non-financial-data-is-comprom.md)
 Members of eBay are being made to change their passwords after a cyber-attack compromised a database containing user information.
 
@@ -43,11 +43,11 @@ Members of eBay are being made to change their passwords after a cyber-attack co
 ### [Xi Jinping and Vladimir Putin sign a massive 30-year natural gas export contract worth $400 billion. ](/news/2014/05/21/xi-jinping-and-vladimir-putin-sign-a-massive-30-year-natural-gas-export-contract-worth-400-billion.md)
 _Context: Vladimir Putin, natural gas, US dollar, Xi Jinping_
 
-##### anti-China
+##### Anti-China
 ### [The death toll has risen to 6 as anti-China riots continue in Vietnam over oil rich islands in the South China Sea. China has sent ships to evacuate 3000 citizens from Vietnam. ](/news/2014/05/21/the-death-toll-has-risen-to-6-as-anti-china-riots-continue-in-vietnam-over-oil-rich-islands-in-the-south-china-sea-china-has-sent-ships-to.md)
 Metallurgical Corp of China Ltd (MCC) said on Wednesday four of its employees working on a construction project in Vietnam were killed and 126 injured during anti-China protests last week over a disputed area in the South China Sea.
 
-##### knife attack
+##### Knife attack
 ### [A knife attack on a Taipei Metro train leaves at least 4 dead and 21 passengers injured. ](/news/2014/05/21/a-knife-attack-on-a-taipei-metro-train-leaves-at-least-4-dead-and-21-passengers-injured.md)
 _Context: Taipei Metro, knife attack_
 
@@ -61,9 +61,9 @@ A court in Egypt sentences ousted President Hosni Mubarak to three years in pris
 
 ##### Tehran
 ### [Six Iranians that were arrested have been released in Tehran after releasing a fan video set to Pharrell Williams' "Happy", sparking outcries over the internet. ](/news/2014/05/21/six-iranians-that-were-arrested-have-been-released-in-tehran-after-releasing-a-fan-video-set-to-pharrell-williams-happy-sparking-outcrie.md)
-_Context: Tehran, Happy, Pharrell Williams_
+_Context: Pharrell Williams, Happy, Tehran_
 
-##### poisoned alcohol
+##### Poisoned alcohol
 ### [Ten men convicted for producing poisoned alcohol that killed more than 30 people in 2012 have been sentenced to prison by a court in the Czech Republic, including 2 life sentences. ](/news/2014/05/21/ten-men-convicted-for-producing-poisoned-alcohol-that-killed-more-than-30-people-in-2012-have-been-sentenced-to-prison-by-a-court-in-the-cze.md)
 Ten men convicted for producing tainted alcohol that killed more than 30 people are given long jail terms by a court in the Czech Republic.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/24/air-strikes-kill-30-al-qaeda-linked-militants-n
 
 ### [2011-08-24](/news/2011/08/24/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Air strikes kill 30 Al-Qaeda linked militants near Zinjibar in Yemen's Abyan Governorate with eight army soldiers killed in fighting. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/22/a-blue-diamond-is-found-in-cullinan-gauteng-sou
 
 ### [2014-01-22](/news/2014/01/22/index.md)
 
-##### blue diamond
+##### Blue diamond
 # A blue diamond is found in Cullinan, Gauteng, South Africa. 
 
 A 29.6-carat blue diamond is discovered in Cullinan mine in South Africa, which is famed for its production of the rare stones.

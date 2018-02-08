@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/5/afghan-presidential-election-with-elections-due-
 
 ### [2004-10-5](/news/2004/10/5/index.md)
 
-##### presidential election
+##### Presidential election
 #  Afghan presidential election: With elections due in four days, Hamid Karzai makes a public appearance in Ghazni, his only campaign rally outside of Afghanistan's capital, Kabul. One of Karzai's main opponents, General Abdul Rashid Dostum makes an appearance at Mazari Sharif, whilst another, Yunus Qanuni, addresses crowds in the capital. 
 
 

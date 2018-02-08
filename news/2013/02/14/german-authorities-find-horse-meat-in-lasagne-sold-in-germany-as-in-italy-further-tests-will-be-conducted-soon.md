@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/14/german-authorities-find-horse-meat-in-lasagne-s
 
 ### [2013-02-14](/news/2013/02/14/index.md)
 
-##### horses for meat
+##### Horses for meat
 # German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. 
 
 Germany is the latest country to report horsemeat DNA in processed beef, as authorities across the EU are told to conduct tests.

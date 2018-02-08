@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/26/internal-and-international-pressure-continues-o
 
 ### [2011-02-26](/news/2011/02/26/index.md)
 
-##### civil war
+##### Civil war
 # Internal and international pressure continues on leader Muammar Gaddafi to stand down from power. 
 
 

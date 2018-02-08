@@ -29,9 +29,9 @@ At least 10 people are killed and more than 100 injured as two passenger trains 
 
 ##### Indian Armed Forces
 ### [One Indian soldier, buried in the snow for six days, is rescued from last week's Siachen Glacier avalanche, however the other nine soldiers from the army post in the Himalayan region of Kashmir didn't survive. ](/news/2016/02/9/one-indian-soldier-buried-in-the-snow-for-six-days-is-rescued-from-last-week-s-siachen-glacier-avalanche-however-the-other-nine-soldiers.md)
-_Context: avalanche, Indian Armed Forces, Kashmir, Siachen Glacier, Himalayas_
+_Context: Himalayas, Siachen Glacier, Indian Armed Forces, avalanche, Kashmir_
 
-##### magnitude
+##### Magnitude
 ### [A 6.3 magnitude earthquake struck 25 miles (40 kilometers) west of Ovalle in Chile's central region. No injuries or damage have been reported. ](/news/2016/02/9/a-6-3-magnitude-earthquake-struck-25-miles-40-kilometers-west-of-ovalle-in-chile-s-central-region-no-injuries-or-damage-have-been-reporte.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -41,7 +41,7 @@ HONG KONG • Scores of police officers were hurt yesterday when a riot erupted 
 
 ##### Maryland House of Delegates
 ### [The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. ](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-override-governor-larry-hogan-s-veto-of-a-bill-extending-felons-voting-rights-to-those-who-have.md)
-_Context: probation, Governor, parole, Larry Hogan, Felony disenfranchisement, Maryland House of Delegates, Senate_
+_Context: Felony disenfranchisement, parole, Larry Hogan, Senate, Maryland House of Delegates, Governor, probation_
 
 ##### Warner/Chappell Music
 ### [Warner-Chappell Music agrees to return $14 million collected in copyright fees for the song "Happy Birthday to You" which a federal judge ruled in September belongs in the public domain. ](/news/2016/02/9/warner-chappell-music-agrees-to-return-14-million-collected-in-copyright-fees-for-the-song-happy-birthday-to-you-which-a-federal-judge-ru.md)

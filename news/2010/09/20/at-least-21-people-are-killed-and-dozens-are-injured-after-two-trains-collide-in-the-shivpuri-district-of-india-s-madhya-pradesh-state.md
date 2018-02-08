@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/20/at-least-21-people-are-killed-and-dozens-are-in
 
 ### [2010-09-20](/news/2010/09/20/index.md)
 
-##### train
+##### Train
 # At least 21 people are killed and dozens are injured after two trains collide in the Shivpuri district of India's Madhya Pradesh state. 
 
 

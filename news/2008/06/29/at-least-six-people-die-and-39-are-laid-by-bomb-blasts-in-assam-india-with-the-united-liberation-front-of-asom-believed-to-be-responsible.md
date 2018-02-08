@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb
 
 ### [2008-06-29](/news/2008/06/29/index.md)
 
-##### bomb
+##### Bomb
 #  At least six people die and 39 are laid by bomb blasts in Assam, India, with the United Liberation Front of Asom believed to be responsible. 
 
 

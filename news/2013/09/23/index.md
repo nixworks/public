@@ -9,13 +9,13 @@ Live updates as heavy gunfire is heard at a shopping centre in the Kenyan capita
 
 ##### President
 ### [President Bashar al-Assad said he will allow international experts to access chemical weapons sites. ](/news/2013/09/23/president-bashar-al-assad-said-he-will-allow-international-experts-to-access-chemical-weapons-sites.md)
-_Context: chemical weapons facilities, President, Bashar al-Assad_
+_Context: Bashar al-Assad, President, chemical weapons facilities_
 
 ##### Hong Kong
 ### [At least 25 people are dead in Hong Kong and southern China after Typhoon Usagi passes through with the storm having killed eight people in the Philippines. ](/news/2013/09/23/at-least-25-people-are-dead-in-hong-kong-and-southern-china-after-typhoon-usagi-passes-through-with-the-storm-having-killed-eight-people-in.md)
-_Context: China, Typhoon Usagi, Philippines, Hong Kong_
+_Context: Hong Kong, Philippines, Typhoon Usagi, China_
 
-##### resignation
+##### Resignation
 ### [In his first public statement since his resignation, former Pope Benedict XVI denies that he covered up child sexual abuse cases involving priests during his tenure. ](/news/2013/09/23/in-his-first-public-statement-since-his-resignation-former-pope-benedict-xvi-denies-that-he-covered-up-child-sexual-abuse-cases-involving-p.md)
 Former Pope Benedict has denied that he tried to cover up sexual abuse of children by Roman Catholic priests, in his first direct published comments since he stepped down.
 

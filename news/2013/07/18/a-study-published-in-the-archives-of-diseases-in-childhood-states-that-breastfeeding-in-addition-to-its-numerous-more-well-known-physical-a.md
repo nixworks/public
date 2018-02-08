@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/18/a-study-published-in-the-archives-of-diseases-i
 
 ### [2013-07-18](/news/2013/07/18/index.md)
 
-##### breastfeeding
+##### Breastfeeding
 # A study published in The Archives of Diseases in Childhood states that breastfeeding, in addition to its numerous more well-known physical and psychosocial benefits, may increase the infant's future upward mobility. 
 
 

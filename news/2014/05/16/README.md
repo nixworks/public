@@ -7,7 +7,7 @@ Formats: [HTML](2014/05/16/index.html)  [JSON](2014/05/16/index.json)  [XML](201
 ### [Pro-Russian rebels quickly withdraw from Mariupol as dozens of unarmed pro-Ukraine steelworkers with some employed by System Capital Management joined by the police start to patrol the city. ](/news/2014/05/16/pro-russian-rebels-quickly-withdraw-from-mariupol-as-dozens-of-unarmed-pro-ukraine-steelworkers-with-some-employed-by-system-capital-managem.md)
 Pro-Russian militants melted away as steelworkers and miners, armed only with protective clothing and hard hats, began patrols in the city of Mariupol.
 
-##### two explosions
+##### Two explosions
 ### [10 people are killed in two explosions in the Gikomba market area of the Kenyan capital of Nairobi. ](/news/2014/05/16/10-people-are-killed-in-two-explosions-in-the-gikomba-market-area-of-the-kenyan-capital-of-nairobi.md)
 Two bomb explosions strike Gikomba market area of the Kenyan capital Nairobi, killing at least 10 people and injuring scores, officials say.
 
@@ -25,7 +25,7 @@ The US government fines General Motors $35m(£20.8m) for delays in recalling sma
 
 ##### Darden Restaurants
 ### [Darden Restaurants agrees to sell Red Lobster to Golden Gate Capital for US$2.1 billion. ](/news/2014/05/16/darden-restaurants-agrees-to-sell-red-lobster-to-golden-gate-capital-for-us-2-1-billion.md)
-_Context: Red Lobster, Golden Gate Capital, Darden Restaurants_
+_Context: Golden Gate Capital, Red Lobster, Darden Restaurants_
 
 ##### Turkish police
 ### [Turkish police crackdown on an anti-government demonstration in the town of Soma, firing tear gas and water cannon at thousands of protestors. ](/news/2014/05/16/turkish-police-crackdown-on-an-anti-government-demonstration-in-the-town-of-soma-firing-tear-gas-and-water-cannon-at-thousands-of-protestor.md)
@@ -33,15 +33,15 @@ Turkish police fire tear gas at thousands of protesters in town of Soma where so
 
 ##### Proton-M
 ### [A Russian Proton-M rocket carrying a communications satellite veers off its intended path and burns up in the atmosphere. ](/news/2014/05/16/a-russian-proton-m-rocket-carrying-a-communications-satellite-veers-off-its-intended-path-and-burns-up-in-the-atmosphere.md)
-_Context: rocket, communications satellite, Proton-M_
+_Context: rocket, Proton-M, communications satellite_
 
 ##### Serbia
 ### [Tens of thousands of people are being evacuated in Serbia and Bosnia as heavy rains cause floods. ](/news/2014/05/16/tens-of-thousands-of-people-are-being-evacuated-in-serbia-and-bosnia-as-heavy-rains-cause-floods.md)
-_Context: Serbia, heavy rains cause floods, Bosnian_
+_Context: Bosnian, heavy rains cause floods, Serbia_
 
 ##### Narendra Modi
 ### [Led by Narendra Modi, the Bharatiya Janata Party wins a majority in the Indian general election. The incumbent Indian National Congress records its worst ever result. ](/news/2014/05/16/led-by-narendra-modi-the-bharatiya-janata-party-wins-a-majority-in-the-indian-general-election-the-incumbent-indian-national-congress-reco.md)
-_Context: Indian general election, Bharatiya Janata Party, Narendra Modi, Congress Party_
+_Context: Narendra Modi, Bharatiya Janata Party, Indian general election, Congress Party_
 
 ##### Under Secretary of Veterans Affairs for Health
 ### [Dr. Robert Petzel resigns as the US Under Secretary of Veterans Affairs for Health following a scandal over long waits for care, treatment delays, and falsification of records at VA hospitals. ](/news/2014/05/16/dr-robert-petzel-resigns-as-the-us-under-secretary-of-veterans-affairs-for-health-following-a-scandal-over-long-waits-for-care-treatment-d.md)

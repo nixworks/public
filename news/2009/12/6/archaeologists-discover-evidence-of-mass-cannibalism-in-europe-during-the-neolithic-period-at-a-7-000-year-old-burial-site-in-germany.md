@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/6/archaeologists-discover-evidence-of-mass-canniba
 
 ### [2009-12-6](/news/2009/12/6/index.md)
 
-##### cannibalism
+##### Cannibalism
 #  Archaeologists discover evidence of mass cannibalism in Europe during the Neolithic period at a 7,000-year-old burial site in Germany. 
 
 

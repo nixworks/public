@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/3/scientists-announce-the-discovery-of-pithovirus-
 
 ### [2014-03-3](/news/2014/03/3/index.md)
 
-##### pithovirus
+##### Pithovirus
 # Scientists announce the discovery of "pithovirus", the largest giant virus yet known, from a 30,000-year-old sample of frozen tundra. 
 
 Largest virus yet discovered hints at viral diversity trapped in permafrost.

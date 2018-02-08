@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/24/the-final-leg-of-the-philippine-presidential-de
 
 ### [2016-04-24](/news/2016/04/24/index.md)
 
-##### final leg
+##### Final leg
 # The final leg of the Philippine presidential debate series is held in Dagupan. 
 
 

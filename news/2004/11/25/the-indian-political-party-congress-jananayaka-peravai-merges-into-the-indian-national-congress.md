@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/25/the-indian-political-party-congress-jananayaka-
 
 ### [2004-11-25](/news/2004/11/25/index.md)
 
-##### political party
+##### Political party
 #  The Indian political party Congress Jananayaka Peravai merges into the Indian National Congress.
 
 

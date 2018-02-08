@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/14/a-state-of-emergency-is-declared-in-the-nelson-
 
 ### [2011-12-14](/news/2011/12/14/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in the Nelson region of New Zealand due to heavy floods. 
 
 A state of emergency has been declared in the Nelson region due to heavy flooding. - New Zealand Herald

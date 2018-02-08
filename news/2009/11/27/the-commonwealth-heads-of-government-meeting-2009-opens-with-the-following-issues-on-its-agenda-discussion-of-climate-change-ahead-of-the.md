@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/27/the-commonwealth-heads-of-government-meeting-20
 
 ### [2009-11-27](/news/2009/11/27/index.md)
 
-##### urges
+##### Urges
 #  The Commonwealth Heads of Government Meeting 2009 opens with the following issues on its agenda: discussion of climate change ahead of the December United Nations Climate Change Conference; Rwanda's admission into the Commonwealth of Nations; and Sri Lanka's bid to host the 2011 meeting. 
 
 

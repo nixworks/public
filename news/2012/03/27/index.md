@@ -21,19 +21,19 @@ THE Libyan government yesterday admitted it faces a national crisis amid an esca
 
 ##### Apple Inc
 ### [Apple Inc Chief Executive Tim Cook arrives in China for talks with government officials to clear up problems in the firm's biggest growth market, including the contested iPad trademark and treatment of local labor. ](/news/2012/03/27/apple-inc-chief-executive-tim-cook-arrives-in-china-for-talks-with-government-officials-to-clear-up-problems-in-the-firm-s-biggest-growth-ma.md)
-_Context: Tim Cook, Apple Inc_
+_Context: Apple Inc, Tim Cook_
 
 ##### Department of Justice
 ### [The United States Department of Justice says that it will not invoke antitrust laws to stop the merger of Humana with Arcadian Management Services, two important health insurance companies. ](/news/2012/03/27/the-united-states-department-of-justice-says-that-it-will-not-invoke-antitrust-laws-to-stop-the-merger-of-humana-with-arcadian-management-se.md)
-_Context: Humana, Arcadian Management Services, Department of Justice, health insurance, antitrust laws_
+_Context: antitrust laws, Arcadian Management Services, Department of Justice, Humana, health insurance_
 
 ##### Sudanese President
 ### [The President of Sudan Omar Hassan al-Bashir cancels planned meetings with the government of South Sudan following border clashes yesterday. ](/news/2012/03/27/the-president-of-sudan-omar-hassan-al-bashir-cancels-planned-meetings-with-the-government-of-south-sudan-following-border-clashes-yesterday.md)
-_Context: 2012 South Sudan-Sudan border conflict, South Sudan, Sudanese President, Omar Hassan al-Bashir, Sudan_
+_Context: Sudan, Omar Hassan al-Bashir, South Sudan, Sudanese President, 2012 South Sudan-Sudan border conflict_
 
 ##### Seoul
 ### [World leaders meet at a summit in Seoul, South Korea, to discuss nuclear security. ](/news/2012/03/27/world-leaders-meet-at-a-summit-in-seoul-south-korea-to-discuss-nuclear-security.md)
-_Context: Seoul, South Korea_
+_Context: South Korea, Seoul_
 
 ##### Al-Jazeera
 ### [Al-Jazeera announces that it has decided not to broadcast video footage of the 2012 Midi-Pyrenees shootings that had been filmed by the gunman with a camera strapped to his body. ](/news/2012/03/27/al-jazeera-announces-that-it-has-decided-not-to-broadcast-video-footage-of-the-2012-midi-pyra-c-na-c-es-shootings-that-had-been-filmed-by-the-gu.md)
@@ -41,7 +41,7 @@ AL-JAZEERA television has decided not to broadcast video footage of the seven ki
 
 ##### King
 ### [The funeral of former King of Tonga George Tupou V is held in Nuku'alofa with thousands of mourners lining the street. ](/news/2012/03/27/the-funeral-of-former-king-of-tonga-george-tupou-v-is-held-in-nuku-alofa-with-thousands-of-mourners-lining-the-street.md)
-_Context: George Tupou V, King, Nuku'alofa, Tonga_
+_Context: Nuku'alofa, George Tupou V, King, Tonga_
 
 ##### Bo Xilai
 ### [Allegations surface over Bo Xilai's extrajudicial measures used to extract confessions during the Chongqing gang trials. ](/news/2012/03/27/allegations-surface-over-bo-xilai-s-extrajudicial-measures-used-to-extract-confessions-during-the-chongqing-gang-trials.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/28/fourteen-people-die-following-a-flash-flood-in-
 
 ### [2011-06-28](/news/2011/06/28/index.md)
 
-##### flash flood
+##### Flash flood
 # Fourteen people die following a flash flood in Davao City in the Philippines. 
 
 

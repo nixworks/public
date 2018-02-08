@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/18/malawi-food-crisis-united-nations-children-s-fu
 
 ### [2005-10-18](/news/2005/10/18/index.md)
 
-##### serious food shortages
+##### Serious food shortages
 #  Malawi food crisis: United Nations Children's Fund (UNICEF) increases its appeal for Malawi to USD13 million, as the humanitarian crisis worsen with an estimated 46,000 severely malnourished children. 
 
 

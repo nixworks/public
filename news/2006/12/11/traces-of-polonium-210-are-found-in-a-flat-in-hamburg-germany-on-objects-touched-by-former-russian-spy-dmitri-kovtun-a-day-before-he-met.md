@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/11/traces-of-polonium-210-are-found-in-a-flat-in-h
 
 ### [2006-12-11](/news/2006/12/11/index.md)
 
-##### polonium-210
+##### Polonium-210
 #  Traces of polonium-210 are found in a flat in Hamburg, Germany, on objects touched by former Russian spy Dmitri Kovtun a day before he met poisoned ex-spy Alexander Litvinenko in London. 
 
 News and opinion from The Times &amp; The Sunday Times

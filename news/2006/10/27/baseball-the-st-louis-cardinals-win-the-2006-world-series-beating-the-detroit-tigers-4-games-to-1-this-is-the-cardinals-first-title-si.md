@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/27/baseball-the-st-louis-cardinals-win-the-2006-wo
 
 ### [2006-10-27](/news/2006/10/27/index.md)
 
-##### baseball game
+##### Baseball game
 #  Baseball: The St. Louis Cardinals win the 2006 World Series, beating the Detroit Tigers 4 games to 1. This is the Cardinals' first title since 1982. David Eckstein is named the World Series MVP, winning his second ring. 
 
 Favored by few, the Cardinals used an unlikely cast of characters to win their first World Series in nearly a quarter century.

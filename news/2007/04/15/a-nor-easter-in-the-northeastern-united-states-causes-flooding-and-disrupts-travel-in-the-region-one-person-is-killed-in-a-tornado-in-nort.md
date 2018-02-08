@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/15/a-nor-easter-in-the-northeastern-united-states-
 
 ### [2007-04-15](/news/2007/04/15/index.md)
 
-##### nor'easter
+##### Nor'easter
 #  A nor'easter in the northeastern United States causes flooding and disrupts travel in the region. One person is killed in a tornado in North Carolina and two people die in weather-related car accidents in New York and Connecticut. 
 
 A rare spring northeaster flooded shorelines and rivers, disrupted travel and washed out plans for millions.

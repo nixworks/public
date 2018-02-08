@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/25/a-ukrainian-military-helicopter-is-destroyed-af
 
 ### [2014-04-25](/news/2014/04/25/index.md)
 
-##### rocket-propelled grenade
+##### Rocket-propelled grenade
 # A Ukrainian military helicopter is destroyed after being hit by a rocket-propelled grenade at a base near the town of Kramatorsk in Eastern Ukraine. 
 
 

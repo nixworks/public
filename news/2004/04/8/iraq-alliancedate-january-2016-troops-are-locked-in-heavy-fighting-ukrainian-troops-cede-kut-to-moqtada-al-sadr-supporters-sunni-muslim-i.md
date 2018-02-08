@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/8/iraq-alliancedate-january-2016-troops-are-locked
 
 ### [2004-04-8](/news/2004/04/8/index.md)
 
-##### ally
+##### Ally
 #  Iraq Alliancedate=January 2016 troops are locked in heavy fighting. Ukrainian troops cede Kut to Moqtada al-Sadr supporters. Sunni Muslim insurgents engage in two fronts west of Baghdad; a Shiite uprising spreads in southern and central Iraq. 
 
 

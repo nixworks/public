@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/1/egypt-opens-a-3d-printed-full-sized-exact-replic
 
 ### [2014-05-1](/news/2014/05/1/index.md)
 
-##### replica
+##### Replica
 # Egypt opens a 3D-printed full-sized exact replica of King Tutankhamun's KV62 tomb in the Valley of the Kings, as officials announce that a 30-day visa purchased at the airport will be two thirds more expensive. 
 
 Team behind £420,000 facsimile, created using 3D technology, hope it can help preserve original by drawing tourists

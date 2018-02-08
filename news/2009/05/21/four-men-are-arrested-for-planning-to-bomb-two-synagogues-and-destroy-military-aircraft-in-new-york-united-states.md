@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/21/four-men-are-arrested-for-planning-to-bomb-two-
 
 ### [2009-05-21](/news/2009/05/21/index.md)
 
-##### arrest
+##### Arrest
 #  Four men are arrested for planning to bomb two synagogues and destroy military aircraft in New York, United States. 
 
 

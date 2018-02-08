@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/28/the-death-toll-in-a-ferry-accident-in-southern-
 
 ### [2009-11-28](/news/2009/11/28/index.md)
 
-##### ferry accident
+##### Ferry accident
 #  The death toll in a ferry accident in southern Bangladesh rises to 33. 
 
 Rescue workers struggled to find survivors Saturday after at least 33 people died when a Bangladesh ferry overloaded with people returning home to...

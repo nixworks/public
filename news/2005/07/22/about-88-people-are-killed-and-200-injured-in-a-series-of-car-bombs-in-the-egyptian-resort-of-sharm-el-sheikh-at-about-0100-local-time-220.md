@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/22/about-88-people-are-killed-and-200-injured-in-a
 
 ### [2005-07-22](/news/2005/07/22/index.md)
 
-##### series of car bombs
+##### Series of car bombs
 #  About 88 people are killed and 200 injured in a series of car bombs in the Egyptian resort of Sharm el-Sheikh at about 0100 local time (2200 UTC Friday). 
 
 

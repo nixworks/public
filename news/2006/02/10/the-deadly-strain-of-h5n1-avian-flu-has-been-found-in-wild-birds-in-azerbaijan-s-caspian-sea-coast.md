@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/10/the-deadly-strain-of-h5n1-avian-flu-has-been-fo
 
 ### [2006-02-10](/news/2006/02/10/index.md)
 
-##### bird flu
+##### Bird flu
 #  The deadly strain of H5N1 avian flu has been found in wild birds in Azerbaijan's Caspian Sea coast. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

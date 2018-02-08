@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/30/a-7-6-magnitude-earthquake-strikes-western-indo
 
 ### [2009-09-30](/news/2009/09/30/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.6 magnitude earthquake strikes western Indonesia, killing at least 75 and trapping thousands of people under rubble. 
 
 

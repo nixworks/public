@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/8/a-previously-unknown-aria-written-by-johann-seba
 
 ### [2005-06-8](/news/2005/06/8/index.md)
 
-##### aria
+##### Aria
 #  A previously unknown aria written by Johann Sebastian Bach in October of 1713 is discovered in documents from a German library. It is the first new work to be discovered by Bach since 1975.
 
 

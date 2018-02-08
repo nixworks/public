@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/22/the-longest-total-solar-eclipse-of-the-21st-cen
 
 ### [2009-07-22](/news/2009/07/22/index.md)
 
-##### total solar eclipse
+##### Total solar eclipse
 #  The longest total solar eclipse of the 21st century takes place over parts of Asia and the Pacific Ocean. 
 
 The longest solar eclipse of the 21st century cast a shadow over much of Asia, plunging hundreds of millions into darkness.

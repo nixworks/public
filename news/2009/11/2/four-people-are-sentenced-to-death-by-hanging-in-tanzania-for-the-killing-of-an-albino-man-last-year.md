@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/2/four-people-are-sentenced-to-death-by-hanging-in
 
 ### [2009-11-2](/news/2009/11/2/index.md)
 
-##### death penalty
+##### Death penalty
 #  Four people are sentenced to death by hanging in Tanzania for the killing of an Albino man last year. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/18/strikes-in-france-transport-workers-strike-for-
 
 ### [2007-11-18](/news/2007/11/18/index.md)
 
-##### public-sector strikes
+##### Public-sector strikes
 #  Strikes in France: Transport workers strike for the fifth consecutive day, rejecting an offer by public railway company SNCF. 
 
 

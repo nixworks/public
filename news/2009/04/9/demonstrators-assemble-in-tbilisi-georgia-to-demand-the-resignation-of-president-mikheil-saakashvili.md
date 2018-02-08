@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/9/demonstrators-assemble-in-tbilisi-georgia-to-dem
 
 ### [2009-04-9](/news/2009/04/9/index.md)
 
-##### demonstration
+##### Demonstration
 #  Demonstrators assemble in Tbilisi, Georgia, to demand the resignation of President Mikheil Saakashvili. 
 
 

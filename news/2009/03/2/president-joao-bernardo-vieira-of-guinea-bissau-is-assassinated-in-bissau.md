@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-
 
 ### [2009-03-2](/news/2009/03/2/index.md)
 
-##### acting president
+##### Acting president
 #  President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. 
 
 

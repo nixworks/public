@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/5/international-internet-group-anonymous-protests-
 
 ### [2012-04-5](/news/2012/04/5/index.md)
 
-##### hacker group Anonymous
+##### Hacker group Anonymous
 # International internet group Anonymous protests censorship by targeting Chinese websites, including government bureaus in several Chinese cities. 
 
 A number of government websites replaced with messages on how to circumvent internet restrictions.

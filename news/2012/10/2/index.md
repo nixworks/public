@@ -13,13 +13,13 @@ A member of parliament in the Maldives is stabbed to death near his home amid po
 
 ##### Afghanistan
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)
-_Context: United States soldier, Afghanistan_
+_Context: Afghanistan, United States soldier_
 
 ##### Philippine
 ### [A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. ](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### ferry collision
+##### Ferry collision
 ### [The number of confirmed deaths in the ferry collision in Hong Kong rises to 38. ](/news/2012/10/2/the-number-of-confirmed-deaths-in-the-ferry-collision-in-hong-kong-rises-to-38.md)
 Seven crew members are arrested on suspicion of endangering lives at sea after two boats collide in the waters off Hong Kong, leaving 38 people dead.
 
@@ -37,7 +37,7 @@ A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;
 
 ##### OSCE
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
-_Context: Georgian Dream, United National Movement, OSCE, Prime Minister of Georgia, parliamentary election, President of Georgia, Mikheil Saakashvili, Bidzina Ivanishvili_
+_Context: OSCE, parliamentary election, Prime Minister of Georgia, Bidzina Ivanishvili, Georgian Dream, United National Movement, Mikheil Saakashvili, President of Georgia_
 
 ## [Previous Day...](/news/2012/10/1/index.md)
 

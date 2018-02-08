@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/14/three-paparazzi-who-were-pursuing-diana-and-dod
 
 ### [2005-04-14](/news/2005/04/14/index.md)
 
-##### paparazzi
+##### Paparazzi
 #  Three paparazzi who were pursuing Diana and Dodi Al-Fayed when they died face a new trial in France. 
 
 

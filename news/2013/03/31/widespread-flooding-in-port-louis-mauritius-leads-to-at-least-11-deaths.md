@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/31/widespread-flooding-in-port-louis-mauritius-lea
 
 ### [2013-03-31](/news/2013/03/31/index.md)
 
-##### flooding
+##### Flooding
 # Widespread flooding in Port Louis, Mauritius, leads to at least 11 deaths. 
 
 At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, officials have said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/15/a-helicopter-registered-in-the-name-of-former-w
 
 ### [2007-09-15](/news/2007/09/15/index.md)
 
-##### helicopter
+##### Helicopter
 #  A helicopter registered in the name of former World Rally Championship champion Colin McRae crashes killing four people near McRae's home in Scotland. 
 
 

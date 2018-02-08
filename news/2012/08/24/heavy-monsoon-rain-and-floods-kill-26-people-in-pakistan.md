@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/24/heavy-monsoon-rain-and-floods-kill-26-people-in
 
 ### [2012-08-24](/news/2012/08/24/index.md)
 
-##### monsoon
+##### Monsoon
 # Heavy monsoon rain and floods kill 26 people in Pakistan. 
 
 

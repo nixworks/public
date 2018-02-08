@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/12/two-people-are-dead-including-the-perpetrator-a
 
 ### [2013-02-12](/news/2013/02/12/index.md)
 
-##### murder-suicide
+##### Murder-suicide
 # Two people are dead, including the perpetrator and one of his two victims, in a murder-suicide, in a home in College Park, Maryland, United States. The three were student roommates at the University of Maryland, College Park. 
 
 Two University of Maryland students died early on Tuesday in an apparent murder-suicide shooting, and a third was wounded in the incident, police said.

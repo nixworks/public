@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/20/kidnappers-release-greek-shipping-magnate-perik
 
 ### [2009-01-20](/news/2009/01/20/index.md)
 
-##### kidnapped
+##### Kidnapped
 #  Kidnappers release Greek shipping magnate Periklis Panagopoulos after a record ransom payment. 
 
 

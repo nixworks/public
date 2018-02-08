@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/19/the-united-states-congress-sends-a-human-traffi
 
 ### [2015-05-19](/news/2015/05/19/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress sends a human trafficking bill to President Barack Obama for signature. 
 
 A bill to help victims of human trafficking and boost law enforcement against the &#8220;modern-day slavery&#8221; passed the House Tuesday.

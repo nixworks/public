@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/17/a-large-car-bomb-attack-in-the-centre-of-kabul-
 
 ### [2009-09-17](/news/2009/09/17/index.md)
 
-##### car bomb
+##### Car bomb
 #  A large car bomb attack in the centre of Kabul, Afghanistan, kills six Italian ISAF soldiers. 
 
 

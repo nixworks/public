@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/25/13-people-have-died-of-dengue-fever-in-honduras
 
 ### [2010-06-25](/news/2010/06/25/index.md)
 
-##### dengue
+##### Dengue
 # 13 people have died of dengue fever in Honduras in 2010 as 10,200 others were hit by the disease, the Honduran Health Ministry said. 
 
 

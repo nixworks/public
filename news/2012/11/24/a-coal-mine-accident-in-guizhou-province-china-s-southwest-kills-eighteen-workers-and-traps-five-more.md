@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/24/a-coal-mine-accident-in-guizhou-province-china-
 
 ### [2012-11-24](/news/2012/11/24/index.md)
 
-##### coal mine
+##### Coal mine
 # A coal mine accident in Guizhou province, China's southwest, kills eighteen workers and traps five more. 
 
 A coal mine accident in China&#x27;s southwest killed 18 workers and trapped five more on Saturday, the official Xinhua News Agency said.

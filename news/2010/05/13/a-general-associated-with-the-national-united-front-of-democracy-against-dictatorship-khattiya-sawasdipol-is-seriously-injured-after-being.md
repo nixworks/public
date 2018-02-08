@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/13/a-general-associated-with-the-national-united-f
 
 ### [2010-05-13](/news/2010/05/13/index.md)
 
-##### red shirt
+##### Red shirt
 # A general associated with the National United Front of Democracy Against Dictatorship, Khattiya Sawasdipol, is seriously injured after being shot in the head while giving an interview. 
 
 A rogue Thai general leading a militant wing of anti-government protesters was shot in the head and critically wounded on Thursday, and a man was killed when the army used force to blockade a five-week street rally.

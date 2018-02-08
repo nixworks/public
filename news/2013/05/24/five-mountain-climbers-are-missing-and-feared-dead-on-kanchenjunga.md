@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/24/five-mountain-climbers-are-missing-and-feared-d
 
 ### [2013-05-24](/news/2013/05/24/index.md)
 
-##### mountain climber
+##### Mountain climber
 # Five mountain climbers are missing and feared dead on Kanchenjunga. 
 
 

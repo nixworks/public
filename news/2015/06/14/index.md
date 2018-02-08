@@ -5,11 +5,11 @@ Formats: [HTML](2015/06/14/index.html)  [JSON](2015/06/14/index.json)  [XML](201
 
 ##### War in Afghanistan
 ### [Fifteen Taliban militants, including the shadow governor for Kunar Province, are killed in a NATO airstrike. ](/news/2015/06/14/fifteen-taliban-militants-including-the-shadow-governor-for-kunar-province-are-killed-in-a-nato-airstrike.md)
-_Context: Kunar Province, Taliban, War in Afghanistan, NATO_
+_Context: NATO, Kunar Province, Taliban, War in Afghanistan_
 
 ##### Syrian Civil War
 ### [Thousands of Syrians flee into Turkey as Kurdish fighters come closer to capturing the border town of Tell Abyad from Islamic State in Iraq and the Levant. ](/news/2015/06/14/thousands-of-syrians-flee-into-turkey-as-kurdish-fighters-come-closer-to-capturing-the-border-town-of-tell-abyad-from-islamic-state-in-iraq.md)
-_Context: Turkey, Islamic State in Iraq and the Levant, Syria, Tell Abyad, Kurdish, Syrian Civil War_
+_Context: Tell Abyad, Kurdish, Syrian Civil War, Syria, Islamic State in Iraq and the Levant, Turkey_
 
 ##### 2015 Tbilisi flood
 ### [Flooding in the Georgian capital, Tbilisi, destroys animal enclosures at a zoo resulting in the release of potentially dangerous animals and the death of three zookeepers and six other people. ](/news/2015/06/14/flooding-in-the-georgian-capital-tbilisi-destroys-animal-enclosures-at-a-zoo-resulting-in-the-release-of-potentially-dangerous-animals-and.md)
@@ -17,9 +17,9 @@ Deadly zoo animals were prowling the streets of Tbilisi on Sunday after floods t
 
 ##### 2015 Alaska Sockeye wildfire
 ### [A wildfire near Willow, Alaska in the Matanuska-Susitna Borough burns over 6,500 acres, numerous structures and closes the George Parks Highway, severing the road link between Anchorage and Fairbanks.](/news/2015/06/14/a-wildfire-near-willow-alaska-in-the-matanuska-susitna-borough-burns-over-6-500-acres-numerous-structures-and-closes-the-george-parks-high.md)
-_Context: Willow, Alaska, 2015 Alaska Sockeye wildfire, Matanuska-Susitna Borough, George Parks Highway_
+_Context: Matanuska-Susitna Borough, 2015 Alaska Sockeye wildfire, George Parks Highway, Willow, Alaska_
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 ### [A South Korean man is hospitalised in the Slovak capital Bratislava with symptoms of MERS as the death toll in South Korea rises to 15. ](/news/2015/06/14/a-south-korean-man-is-hospitalised-in-the-slovak-capital-bratislava-with-symptoms-of-mers-as-the-death-toll-in-south-korea-rises-to-15.md)
 Seven new cases of MERS brings total number of infections to 145 as 15th South Korean patient dies of the disease.
 

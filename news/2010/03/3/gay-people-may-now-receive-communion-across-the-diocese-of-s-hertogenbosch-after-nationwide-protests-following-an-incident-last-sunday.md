@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/3/gay-people-may-now-receive-communion-across-the-
 
 ### [2010-03-3](/news/2010/03/3/index.md)
 
-##### homosexual
+##### Homosexual
 # Gay people may now receive communion across the diocese of 's-Hertogenbosch after nationwide protests following an incident last Sunday. 
 
 

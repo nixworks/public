@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/28/eight-sea-lions-are-found-shot-dead-in-the-u-s-
 
 ### [2012-01-28](/news/2012/01/28/index.md)
 
-##### sea lions
+##### Sea lions
 # Eight sea lions are found shot dead in the U.S. state of Washington. 
 
 At least eight sea lions have been shot dead in the US state of Washington in the past few weeks, wildlife officials say.

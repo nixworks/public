@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/26/the-bodies-of-six-people-killed-on-24-december-
 
 ### [2007-12-26](/news/2007/12/26/index.md)
 
-##### six people killed
+##### Six people killed
 #  The bodies of six people killed on 24 December are found in a house in Carnation, Washington. 
 
 

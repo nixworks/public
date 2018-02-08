@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/15/two-oil-and-transport-unions-begin-a-strike-in-
 
 ### [2007-06-15](/news/2007/06/15/index.md)
 
-##### strike
+##### Strike
 #  Two oil and transport unions begin a strike in Nigeria over an increase in fuel duty and a doubling of sales tax. 
 
 

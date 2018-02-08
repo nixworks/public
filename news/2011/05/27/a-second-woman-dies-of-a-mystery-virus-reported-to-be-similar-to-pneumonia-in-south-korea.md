@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/27/a-second-woman-dies-of-a-mystery-virus-reported
 
 ### [2011-05-27](/news/2011/05/27/index.md)
 
-##### pneumonia
+##### Pneumonia
 # A second woman dies of a mystery virus, reported to be similar to pneumonia, in South Korea. 
 
 

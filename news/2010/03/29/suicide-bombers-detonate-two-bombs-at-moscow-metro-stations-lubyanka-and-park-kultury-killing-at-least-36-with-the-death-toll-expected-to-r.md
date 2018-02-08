@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/29/suicide-bombers-detonate-two-bombs-at-moscow-me
 
 ### [2010-03-29](/news/2010/03/29/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Suicide bombers detonate two bombs at Moscow Metro stations Lubyanka and Park Kultury, killing at least 36 with the death toll expected to rise. 
 
 

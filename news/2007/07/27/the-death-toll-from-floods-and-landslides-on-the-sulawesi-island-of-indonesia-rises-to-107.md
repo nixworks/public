@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/27/the-death-toll-from-floods-and-landslides-on-th
 
 ### [2007-07-27](/news/2007/07/27/index.md)
 
-##### flood
+##### Flood
 #  The death toll from floods and landslides on the Sulawesi island of Indonesia rises to 107. 
 
 An official in Indonesia says the death toll from devastating floods and landslides on the country&#039;s eastern Sulawesi island has risen to 107, as aid distribution to survivors gains pace.

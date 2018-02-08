@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/4/two-light-aircraft-collide-in-midair-during-an-a
 
 ### [2010-09-4](/news/2010/09/4/index.md)
 
-##### light aircraft
+##### Light aircraft
 # Two light aircraft collide in midair during an air race near Ryde on the Isle of Wight off the coast of England resulting in the deaths of the pilots. 
 
 Two light aircraft collided during an aerial race in England Saturday, killing two people, authorities said.

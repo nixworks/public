@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/1/the-government-of-france-has-banned-the-smoking-
 
 ### [2007-02-1](/news/2007/02/1/index.md)
 
-##### smoking
+##### Smoking
 #  The Government of France has banned the smoking of cigarettes in every second-hand smoke area. [http:--abcnews.go.com-International-wireStory?id=2839906 (ABC News)] (wikinews)
 
 

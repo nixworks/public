@@ -13,11 +13,11 @@ Srinagar: Two militants were killed in an encounter with security forces in Shop
 
 ##### At least 17 co-ordinated explosions
 ### [A series of bomb blasts in Baghdad, Iraq, kill at least 63 and injure 180. ](/news/2010/11/2/a-series-of-bomb-blasts-in-baghdad-iraq-kill-at-least-63-and-injure-180.md)
-_Context: At least 17 co-ordinated explosions, Iraq, Baghdad_
+_Context: Baghdad, At least 17 co-ordinated explosions, Iraq_
 
 ##### Fudan University
 ### [Fudan University releases the results of a survey that shows that 72.6% of Shanghai residents visited Shanghai Expo, an average of 2.31 times per resident. ](/news/2010/11/2/fudan-university-releases-the-results-of-a-survey-that-shows-that-72-6-of-shanghai-residents-visited-shanghai-expo-an-average-of-2-31-time.md)
-_Context: Fudan University, Shanghai, Shanghai Expo_
+_Context: Fudan University, Shanghai Expo, Shanghai_
 
 ##### BP
 ### [BP raises the estimated cost of the Deepwater Horizon oil spill in the Gulf of Mexico to $40 billion. ](/news/2010/11/2/bp-raises-the-estimated-cost-of-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-to-40-billion.md)
@@ -25,31 +25,31 @@ BP offered investors tentative signs of recovery on Tuesday, with a modest rise 
 
 ##### California
 ### [California voters reject a proposition that would have suspended indefinitely the operation of that state's cap-and-trade bill, Global Warming Solutions Act of 2006, known as "AB 32". ](/news/2010/11/2/california-voters-reject-a-proposition-that-would-have-suspended-indefinitely-the-operation-of-that-state-s-cap-and-trade-bill-global-warmi.md)
-_Context: California, Global Warming Solutions Act of 2006_
+_Context: Global Warming Solutions Act of 2006, California_
 
 ##### Tropical Storm Tomas
 ### [At least 14 people are killed as Tropical Storm Tomas passes over Saint Lucia. ](/news/2010/11/2/at-least-14-people-are-killed-as-tropical-storm-tomas-passes-over-saint-lucia.md)
 At least 14 people are now known to have died on the Caribbean island of St Lucia after a hurricane triggered landslides, officials say.
 
-##### flash floods in Thailand
+##### Flash floods in Thailand
 ### [Thousands of people are stranded amid flash floods in Thailand. ](/news/2010/11/2/thousands-of-people-are-stranded-amid-flash-floods-in-thailand.md)
 _Context: flash floods in Thailand_
 
 ##### Tarapur
 ### [17 people are killed and three others injured when a truck carrying them overturned at Tarapur talukav near Indranaj in India. The truck was on its way from Surat to Bhavnagar. ](/news/2010/11/2/17-people-are-killed-and-three-others-injured-when-a-truck-carrying-them-overturned-at-tarapur-talukav-near-indranaj-in-india-the-truck-was.md)
-_Context: Indranaj, India, Bhavnagar, Surat, Tarapur_
+_Context: Tarapur, Bhavnagar, Surat, India, Indranaj_
 
 ##### Mounts Merapi
 ### [Continuing eruptions of Mount Merapi in Java, Indonesia, lead to cancellation of flights to the nearby city of Yogyakarta. ](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.md)
-_Context: Indonesia, Java, Mounts Merapi, Yogyakarta_
+_Context: Yogyakarta, Mounts Merapi, Java, Indonesia_
 
 ##### Venezuelan President
 ### [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md)
-_Context: Hugo Chvez, Colombian President, Juan Manuel Santos, Venezuela, Venezuelan President, Caracas, Colombia_
+_Context: Venezuelan President, Colombian President, Caracas, Hugo Chvez, Colombia, Venezuela, Juan Manuel Santos_
 
 ##### Taiwan
 ### [A senior military intelligence officer is arrested in Taiwan for being a double agent for China. ](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.md)
-_Context: Taiwan, double agent, China_
+_Context: double agent, China, Taiwan_
 
 ##### Japan
 ### [Japan temporarily recalls its ambassador to Russia amid a dispute over a visit by President Dmitry Medvedev to the Kuril Islands. ](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.md)
@@ -57,15 +57,15 @@ Russian President Dmitry Medvedev is said to be planning to visit more of the di
 
 ##### Prime Minister
 ### [UK Prime Minister David Cameron and the French President Nicolas Sarkozy meet in London and sign a treaty allowing joint development and testing of nuclear warheads, and outline plans for a joint army expeditionary force. ](/news/2010/11/2/uk-prime-minister-david-cameron-and-the-french-president-nicolas-sarkozy-meet-in-london-and-sign-a-treaty-allowing-joint-development-and-tes.md)
-_Context: London, David Cameron, nuclear warhead, Nicolas Sarkozy, Prime Minister, army, French President, expeditionary force_
+_Context: Nicolas Sarkozy, expeditionary force, army, David Cameron, French President, London, nuclear warhead, Prime Minister_
 
 ##### Zambia
 ### [A court in Zambia grants bail to two Chinese managers accused of attempted murder for shooting and injuring 11 coal miners during a protest over pay and working conditions. ](/news/2010/11/2/a-court-in-zambia-grants-bail-to-two-chinese-managers-accused-of-attempted-murder-for-shooting-and-injuring-11-coal-miners-during-a-protest.md)
-_Context: China, bail, Zambia_
+_Context: China, Zambia, bail_
 
 ##### Yemen
 ### [Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. ](/news/2010/11/2/yemen-charges-militant-islamic-cleric-anwar-al-awlaki-with-incitement-to-kill-foreigners.md)
-_Context: Islam, Anwar al-Awlaki, Yemen_
+_Context: Anwar al-Awlaki, Yemen, Islam_
 
 ##### Civic United Front
 ### [Salum Khalfani Bar'wani of the opposition Civic United Front party is elected as a Member of Parliament, the first albino to serve elective office in Tanzania. ](/news/2010/11/2/salum-khalfani-bar-wani-of-the-opposition-civic-united-front-party-is-elected-as-a-member-of-parliament-the-first-albino-to-serve-elective.md)
@@ -85,7 +85,7 @@ _Context: Jim McDaid, lower house, TD_
 
 ##### All India Congress Committee
 ### [All India Congress Committee meeting begins at Talkatora Stadium in New Delhi. ](/news/2010/11/2/all-india-congress-committee-meeting-begins-at-talkatora-stadium-in-new-delhi.md)
-_Context: All India Congress Committee, New Delhi, Talkatora Stadium_
+_Context: Talkatora Stadium, New Delhi, All India Congress Committee_
 
 ##### U.S. Midterms
 ### [Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-territorial-govern.md)
@@ -97,7 +97,7 @@ The House of Commons votes to hold a referendum on reforming the Westminster vot
 
 ##### NASA
 ### [NASA delays the launch of Space Shuttle Discovery on STS-133, its final mission, due to a circuitry glitch. ](/news/2010/11/2/nasa-delays-the-launch-of-space-shuttle-discovery-on-sts-133-its-final-mission-due-to-a-circuitry-glitch.md)
-_Context: Discovery, NASA, final mission_
+_Context: final mission, Discovery, NASA_
 
 ## [Previous Day...](/news/2010/11/1/index.md)
 

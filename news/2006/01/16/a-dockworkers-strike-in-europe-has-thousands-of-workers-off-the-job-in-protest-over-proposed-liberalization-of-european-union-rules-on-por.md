@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of
 
 ### [2006-01-16](/news/2006/01/16/index.md)
 
-##### dockworker
+##### Dockworker
 #  A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. 
 
 

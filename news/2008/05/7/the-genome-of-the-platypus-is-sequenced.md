@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.html)  [
 
 ### [2008-05-7](/news/2008/05/7/index.md)
 
-##### genome
+##### Genome
 #  The genome of the platypus is sequenced. 
 
 

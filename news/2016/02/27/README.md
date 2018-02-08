@@ -35,7 +35,7 @@ Supporters of Rouhani, who championed the nuclear deal, are pitted against hardl
 ### [Thousands, including some from Australia, protest in London, England, against the renewal of the United Kingdom's Trident nuclear deterrent system, the largest anti-nuclear rally since 1983. Leader of the Labour Party Jeremy Corbyn, Scottish National Party leader and First Minister of Scotland Nicola Sturgeon, the Welsh Plaid Cymru Party, and the Green Party participated in the march. A parliamentary vote on renewing Trident is expected this year. ](/news/2016/02/27/thousands-including-some-from-australia-protest-in-london-england-against-the-renewal-of-the-united-kingdom-s-trident-nuclear-deterrent.md)
 Demonstrators in London pointed out renewing the nuclear-deterrent system would cost tens of billions of dollars over two decades.
 
-##### deputy prime minister
+##### Deputy prime minister
 ### [A large rally, with estimated counts ranging from 7,500 to 100,000, honors former deputy prime minister and opposition leader Boris Nemtsov on the first anniversary of his assassination near the Kremlin. ](/news/2016/02/27/a-large-rally-with-estimated-counts-ranging-from-7-500-to-100-000-honors-former-deputy-prime-minister-and-opposition-leader-boris-nemtsov.md)
 Thousands of Russians marched through Moscow to honor slain Kremlin critic Boris Nemtsov on Saturday, the first anniversary of his death, and to press their demand that the authorities find and punish the person who ordered his killing.
 

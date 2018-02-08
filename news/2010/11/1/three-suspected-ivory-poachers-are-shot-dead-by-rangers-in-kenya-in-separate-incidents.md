@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/1/three-suspected-ivory-poachers-are-shot-dead-by-
 
 ### [2010-11-1](/news/2010/11/1/index.md)
 
-##### poachers
+##### Poachers
 # Three suspected ivory poachers are shot dead by rangers in Kenya in separate incidents. 
 
 

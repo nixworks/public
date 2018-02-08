@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-h
 
 ### [2011-06-28](/news/2011/06/28/index.md)
 
-##### drones launch
+##### Drones launch
 # Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. 
 
 Two US drone missile attacks kill at least 15 people in the Pakistani tribal region bordering Afghanistan, officials say.

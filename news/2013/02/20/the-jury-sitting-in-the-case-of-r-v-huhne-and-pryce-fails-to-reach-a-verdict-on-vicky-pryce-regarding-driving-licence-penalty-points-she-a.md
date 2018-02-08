@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/20/the-jury-sitting-in-the-case-of-r-v-huhne-and-p
 
 ### [2013-02-20](/news/2013/02/20/index.md)
 
-##### jailed
+##### Jailed
 # The jury sitting in the case of "R v Huhne and Pryce" fails to reach a verdict on Vicky Pryce regarding driving licence penalty points she accepted on behalf of her former husband, Chris Huhne, requiring a retrial. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches
 
 ### [2011-01-23](/news/2011/01/23/index.md)
 
-##### president
+##### President
 # President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. 
 
 

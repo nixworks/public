@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/20/tunisian-revolution-ousted-former-president-of-
 
 ### [2011-06-20](/news/2011/06/20/index.md)
 
-##### revolution
+##### Revolution
 # Tunisian revolution: Ousted former President of Tunisia Zine al-Abidine Ben Ali and his wife are sentenced to 35 years in prison for misappropriating public funds, with the trial held "in absentia". 
 
 Ex-Tunisian president and his wife were sentenced in absentia to 35 years in prison for misappropriating public funds.

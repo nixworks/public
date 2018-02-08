@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/17/afghan-police-set-up-extra-security-checkpoints
 
 ### [2010-09-17](/news/2010/09/17/index.md)
 
-##### police
+##### Police
 # Afghan police set up extra security checkpoints across Afghanistan to prepare for Taliban attacks on voting in the parliamentary election on Saturday. 
 
 

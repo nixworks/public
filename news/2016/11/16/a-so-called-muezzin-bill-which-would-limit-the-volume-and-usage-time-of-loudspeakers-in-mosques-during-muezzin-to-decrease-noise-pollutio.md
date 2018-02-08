@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/16/a-so-called-muezzin-bill-which-would-limit-the-
 
 ### [2016-11-16](/news/2016/11/16/index.md)
 
-##### muezzin
+##### Muezzin
 #  A so-called "Muezzin Bill" which would limit the volume and usage time of loudspeakers in mosques during muezzin to decrease noise pollution is put to parliament in Israel and opposed by both Arab and Jewish ultra-orthodox parties. 
 
 

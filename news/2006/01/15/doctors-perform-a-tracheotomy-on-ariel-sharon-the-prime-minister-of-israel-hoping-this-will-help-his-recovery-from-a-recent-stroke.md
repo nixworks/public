@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/15/doctors-perform-a-tracheotomy-on-ariel-sharon-t
 
 ### [2006-01-15](/news/2006/01/15/index.md)
 
-##### tracheotomy
+##### Tracheotomy
 #  Doctors perform a tracheotomy on Ariel Sharon, the Prime Minister of Israel, hoping this will help his recovery from a recent stroke. 
 
 

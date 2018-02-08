@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/28/a-car-bomb-in-the-bayaa-district-of-baghdad-kil
 
 ### [2007-06-28](/news/2007/06/28/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in the Bayaa district of Baghdad kills at least 20 people and injures another 35. 
 
 

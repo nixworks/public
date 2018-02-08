@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/10/sleeping-girl-a-picture-by-american-pop-artist-
 
 ### [2012-05-10](/news/2012/05/10/index.md)
 
-##### pop art
+##### Pop art
 # "Sleeping Girl", a picture by American pop artist Roy Lichtenstein, sells at auction for US$44.9 million, setting a new record for a Lichtenstein artwork. 
 
 A work by Pop Art icon Roy Lichtenstein sells for a record $45 million at a New York auction that also sees an Andy Warhol portrait of Elvis Presley go under the hammer.

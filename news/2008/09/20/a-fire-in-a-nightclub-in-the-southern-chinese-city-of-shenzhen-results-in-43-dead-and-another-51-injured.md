@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/20/a-fire-in-a-nightclub-in-the-southern-chinese-c
 
 ### [2008-09-20](/news/2008/09/20/index.md)
 
-##### nightclub
+##### Nightclub
 #  A fire in a nightclub in the southern Chinese city of Shenzhen results in 43 dead and another 51 injured. 
 
 A fire at a club in the southern Chinese city of Shenzhen, near the border with Hong Kong, has killed 43 people and left at least 51 injured, state-run media said.

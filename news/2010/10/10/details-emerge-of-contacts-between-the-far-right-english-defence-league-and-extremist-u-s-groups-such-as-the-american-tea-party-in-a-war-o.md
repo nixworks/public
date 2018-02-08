@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/10/details-emerge-of-contacts-between-the-far-righ
 
 ### [2010-10-10](/news/2010/10/10/index.md)
 
-##### far-right
+##### Far-right
 # Details emerge of contacts between the far-right English Defence League and extremist U.S. groups such as the American Tea Party in a "war on Islamification". 
 
 

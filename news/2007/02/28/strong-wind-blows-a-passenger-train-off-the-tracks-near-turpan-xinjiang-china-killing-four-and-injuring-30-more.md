@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/28/strong-wind-blows-a-passenger-train-off-the-tra
 
 ### [2007-02-28](/news/2007/02/28/index.md)
 
-##### train
+##### Train
 #  Strong wind blows a passenger train off the tracks near Turpan, Xinjiang, China, killing four and injuring 30 more. 
 
 

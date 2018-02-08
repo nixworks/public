@@ -25,7 +25,7 @@ Mr. Handler helped introduce Barbie, helped design the talking doll Chatty Cathy
 
 ##### Qantas
 ### [Qantas pilots commence industrial action for the first time in 45 years. ](/news/2011/07/22/qantas-pilots-commence-industrial-action-for-the-first-time-in-45-years.md)
-_Context: industrial action, Qantas_
+_Context: Qantas, industrial action_
 
 ##### General Electric
 ### [General Electric reports stronger than expected earnings, largely due to industrial sales outside the United States. ](/news/2011/07/22/general-electric-reports-stronger-than-expected-earnings-largely-due-to-industrial-sales-outside-the-united-states.md)
@@ -37,21 +37,21 @@ _Context: Xinyang, China_
 
 ##### Nepal
 ### [Nepalese officials say monsoon rains have swollen two major rivers in the country and have increased the threat of widespread flooding. ](/news/2011/07/22/nepalese-officials-say-monsoon-rains-have-swollen-two-major-rivers-in-the-country-and-have-increased-the-threat-of-widespread-flooding.md)
-_Context: Nepal, monsoon_
+_Context: monsoon, Nepal_
 
-##### famine
+##### Famine
 ### [The al-Shabaab Islamist militant group in Somalia says a ban on aid groups working in parts of the country remains. ](/news/2011/07/22/the-al-shabaab-islamist-militant-group-in-somalia-says-a-ban-on-aid-groups-working-in-parts-of-the-country-remains.md)
 Rejecting UN famine claims, opposition group says it will not allow certain support groups into drought-hit Somalia.
 
 ##### South Korea
 ### [South Korea seeks a bilateral meeting with North Korea to discuss nuclear issues at the sidelines of an ASEAN Regional Forum in Bali, Indonesia. ](/news/2011/07/22/south-korea-seeks-a-bilateral-meeting-with-north-korea-to-discuss-nuclear-issues-at-the-sidelines-of-an-asean-regional-forum-in-bali-indone.md)
-_Context: Bali, North Korea, Indonesia, South Korea, ASEAN Regional Forum_
+_Context: North Korea, South Korea, Bali, ASEAN Regional Forum, Indonesia_
 
 ##### North Korea
 ### [North Korea appoints Ri Yong-ho as its new negotiator in the Six-party talks on the North Korean nuclear weapons program. ](/news/2011/07/22/north-korea-appoints-ri-yong-ho-as-its-new-negotiator-in-the-six-party-talks-on-the-north-korean-nuclear-weapons-program.md)
-_Context: North Korea's nuclear program, Ri Yong-ho, North Korea, Six-party talks_
+_Context: North Korea, North Korea's nuclear program, Six-party talks, Ri Yong-ho_
 
-##### asylum seeker
+##### Asylum seeker
 ### [Up to 100 asylum seekers, many from Iran, riot again at Australia's Christmas Island Immigration Reception and Processing Centre. ](/news/2011/07/22/up-to-100-asylum-seekers-many-from-iran-riot-again-at-australia-s-christmas-island-immigration-reception-and-processing-centre.md)
 The Immigration Department says up to 100 people armed with makeshift weapons may have been involved in the latest riot at the Christmas Island Detention Centre overnight.
 
@@ -59,7 +59,7 @@ The Immigration Department says up to 100 people armed with makeshift weapons ma
 ### [Serbia extradites suspected war criminal Goran Hadzic to The Hague to face trial. ](/news/2011/07/22/serbia-extradites-suspected-war-criminal-goran-hada3-4ia-to-the-hague-to-face-trial.md)
 War crimes suspect Goran Hadzic arrives in the Netherlands after being flown from Serbia to face the UN court at The Hague.
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 ### [The Crown Office confirms that Strathclyde Police will investigate phone hacking and breaches of data protection in Scotland. ](/news/2011/07/22/the-crown-office-confirms-that-strathclyde-police-will-investigate-phone-hacking-and-breaches-of-data-protection-in-scotland.md)
 Strathclyde Police are investigating phone hacking and breaches of data protection in Scotland, the Crown Office confirms.
 

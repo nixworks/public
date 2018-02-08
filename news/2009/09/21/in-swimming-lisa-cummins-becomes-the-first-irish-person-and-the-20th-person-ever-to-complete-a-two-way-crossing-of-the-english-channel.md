@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/21/in-swimming-lisa-cummins-becomes-the-first-iris
 
 ### [2009-09-21](/news/2009/09/21/index.md)
 
-##### swimming
+##### Swimming
 #  In swimming, Lisa Cummins becomes the first Irish person and the 20th person ever to complete a two way crossing of the English Channel. 
 
 A Cork woman arrived back in her native city today after becoming the first Irish person to swim the English Channel over and&hellip;

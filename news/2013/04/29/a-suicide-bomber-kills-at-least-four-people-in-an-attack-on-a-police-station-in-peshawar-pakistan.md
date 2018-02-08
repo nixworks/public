@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/29/a-suicide-bomber-kills-at-least-four-people-in-
 
 ### [2013-04-29](/news/2013/04/29/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least four people in an attack on a police station in Peshawar, Pakistan. 
 
 Pakistani authorities say a suicide bomber targeting policemen has killed four people in the main northwestern city of Peshawar.

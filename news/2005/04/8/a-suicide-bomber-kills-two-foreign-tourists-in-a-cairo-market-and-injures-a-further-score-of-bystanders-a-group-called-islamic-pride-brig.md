@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/8/a-suicide-bomber-kills-two-foreign-tourists-in-a
 
 ### [2005-04-8](/news/2005/04/8/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills two foreign tourists in a Cairo market and injures a further score of bystanders. A group called "Islamic Pride Brigades" claims responsibility. 
 
 

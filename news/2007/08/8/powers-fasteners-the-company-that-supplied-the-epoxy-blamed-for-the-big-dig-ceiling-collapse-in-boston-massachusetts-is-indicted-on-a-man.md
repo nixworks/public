@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/8/powers-fasteners-the-company-that-supplied-the-e
 
 ### [2007-08-8](/news/2007/08/8/index.md)
 
-##### epoxy
+##### Epoxy
 #  Powers Fasteners, the company that supplied the epoxy blamed for the Big Dig ceiling collapse in Boston, Massachusetts is indicted on a manslaughter charge. 
 
 

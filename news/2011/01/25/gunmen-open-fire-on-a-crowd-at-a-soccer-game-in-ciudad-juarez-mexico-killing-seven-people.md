@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/25/gunmen-open-fire-on-a-crowd-at-a-soccer-game-in
 
 ### [2011-01-25](/news/2011/01/25/index.md)
 
-##### soccer
+##### Soccer
 # Gunmen open fire on a crowd at a soccer game in Ciudad Juarez, Mexico, killing seven people.
 
 

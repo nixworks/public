@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/27/15-people-are-killed-in-a-mexican-drug-war-rela
 
 ### [2010-10-27](/news/2010/10/27/index.md)
 
-##### links to organised crime
+##### Links to organised crime
 # 15 people are killed in a Mexican drug war related shootout at a car wash in Tepic, Nayarit, the country's third such mass shooting in under a week. 
 
 The killings in Nayarit State were the third mass shooting with apparent connections to organized crime in less than a week. Several of the victims were in treatment for drug addiction.

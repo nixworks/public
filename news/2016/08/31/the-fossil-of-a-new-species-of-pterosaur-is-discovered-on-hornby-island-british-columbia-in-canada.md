@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/31/the-fossil-of-a-new-species-of-pterosaur-is-dis
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
-##### pterosaur
+##### Pterosaur
 # The fossil of a new species of pterosaur is discovered on Hornby Island, British Columbia in Canada. 
 
 In Hollywood lore, pterosaurs are humongous, fearsome animals, capable of swooping into theme parks and snatching up human snacks. But a newly discovered real-life pterosaur might not have been so scary. 

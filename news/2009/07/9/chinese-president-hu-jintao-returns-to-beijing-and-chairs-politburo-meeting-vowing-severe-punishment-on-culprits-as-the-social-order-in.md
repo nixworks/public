@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/9/chinese-president-hu-jintao-returns-to-beijing-a
 
 ### [2009-07-9](/news/2009/07/9/index.md)
 
-##### riots
+##### Riots
 #  Chinese President Hu Jintao returns to Beijing and chairs Politburo Meeting, vowing "severe punishment" on culprits as the social order in rmqi is being restored. 
 
 

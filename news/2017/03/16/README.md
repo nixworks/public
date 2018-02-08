@@ -23,7 +23,7 @@ This was the largest fire in Raleigh since the 1920s, officials said.
 ### [A shooting at a school in Grasse, France, injures at least eight people. Authorities arrest a 17-year-old student. ](/news/2017/03/16/a-shooting-at-a-school-in-grasse-france-injures-at-least-eight-people-authorities-arrest-a-17-year-old-student.md)
 A 17-year student is being detained for attempted murder after opening fire in an A-level college in Grasse on the French Riviera, injuring 14 and prompting the government to briefly issue a terror warning.
 
-##### letter bomb
+##### Letter bomb
 ### [A letter bomb explodes at the office of the International Monetary Fund (IMF) in Paris, injuring one person. ](/news/2017/03/16/a-letter-bomb-explodes-at-the-office-of-the-international-monetary-fund-imf-in-paris-injuring-one-person.md)
 Officials say it was sent in the name of a Greek conservative politician.
 
@@ -35,9 +35,9 @@ The Tennessee Bureau of Investigation has released new photos and information in
 ### [A second U.S. federal judge, Theodore D. Chuang of Maryland, grants that state's motion for a temporary restraining order on President Trump's revised travel ban. ](/news/2017/03/16/a-second-u-s-federal-judge-theodore-d-chuang-of-maryland-grants-that-state-s-motion-for-a-temporary-restraining-order-on-president-trump.md)
 Judge Theodore D. Chuang in Maryland said there was a &ldquo;convincing case&rdquo; to view the order as a &ldquo;Muslim ban.&rdquo;
 
-##### launches
+##### Launches
 ### [SpaceX successfully launches the EchoStar 23 satellite, a Direct-to-home television broadcast services for Brazil, into a geosynchronous transfer orbit, using the fully expendable version of their Falcon 9 launch vehicle. ](/news/2017/03/16/spacex-successfully-launches-the-echostar-23-satellite-a-direct-to-home-television-broadcast-services-for-brazil-into-a-geosynchronous-tra.md)
-_Context: SpaceX, Falcon 9, launches, geosynchronous transfer orbit, Brazil, EchoStar_
+_Context: Falcon 9, Brazil, EchoStar, SpaceX, launches, geosynchronous transfer orbit_
 
 ## [Previous Day...](/news/2017/03/15/index.md)
 

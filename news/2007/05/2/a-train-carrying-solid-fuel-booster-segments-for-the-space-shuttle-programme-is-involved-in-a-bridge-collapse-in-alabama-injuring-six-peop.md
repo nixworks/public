@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/2/a-train-carrying-solid-fuel-booster-segments-for
 
 ### [2007-05-2](/news/2007/05/2/index.md)
 
-##### space shuttle
+##### Space shuttle
 #  A train carrying solid-fuel booster segments for the space shuttle programme is involved in a bridge collapse in Alabama, injuring six people, two seriously. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/4/at-least-eleven-people-are-killed-in-a-suicide-b
 
 ### [2012-05-4](/news/2012/05/4/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 # At least eleven people are killed in a suicide bombing attack in a crowded market in Pakistan's Bajaur Agency. 
 
 

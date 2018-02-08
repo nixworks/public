@@ -23,11 +23,11 @@ Local police and federal authorities worked Monday to determine why a man went o
 ### [Indiana gerontophobe and prolific serial killer Orville Lynn Majors, believed to have committed as many as 130 nursing home murders between 1993 and 1995, dies in prison at the age of 56. ](/news/2017/09/24/indiana-gerontophobe-and-prolific-serial-killer-orville-lynn-majors-believed-to-have-committed-as-many-as-130-nursing-home-murders-between.md)
 Convicted murderer Orville Lynn Majors, who was serving 360 years at Indiana State Prison in Michigan City, has died. 
 
-##### caretaker
+##### Caretaker
 ### [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md)
 Chancellor Angela Merkel and her main challenger, Martin Schulz have made their final appeals to voters ahead of Sunday&#39;s parliamentary elections. Both have urged Germans not to back the right-wing populist AfD party. 
 
-##### national anthem protests
+##### National anthem protests
 ### [Amid criticism of U.S. national anthem protests by U.S. President Donald Trump, some National Football League players and teams react to the controversy by kneeling, linking arms, or skipping game performances of the national anthem. ](/news/2017/09/24/amid-criticism-of-u-s-national-anthem-protests-by-u-s-president-donald-trump-some-national-football-league-players-and-teams-react-to-the.md)
 It started early Sunday in London and continued throughout the NFL as players, coaches and even owners locked arms or knelt during the national anthem.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/11/italian-motorcyclist-fabrizio-meoni-is-the-seco
 
 ### [2005-01-11](/news/2005/01/11/index.md)
 
-##### motorcyclist
+##### Motorcyclist
 #  Italian motorcyclist Fabrizio Meoni is the second competitor to die in as many days in the 2005 Paris Dakar Rally. 
 
 

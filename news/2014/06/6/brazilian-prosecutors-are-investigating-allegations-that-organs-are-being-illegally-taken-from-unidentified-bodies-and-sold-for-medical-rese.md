@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegati
 
 ### [2014-06-6](/news/2014/06/6/index.md)
 
-##### prosecutors
+##### Prosecutors
 # Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/25/annualized-q3-growth-rate-in-the-us-gross-domes
 
 ### [2003-11-25](/news/2003/11/25/index.md)
 
-##### gross domestic product
+##### Gross domestic product
 #  Annualized Q3 growth rate in the US gross domestic product exceeds 8%, the highest rate of growth since the Reagan administration.
 
 

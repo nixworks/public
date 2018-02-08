@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/a-group-of-astrobiologists-including-chandra-wi
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### astrobiologist
+##### Astrobiologist
 # A group of astrobiologists including Chandra Wickramasinghe say that algae-like structures inside a Polonnaruwa meteorite, that fell on December 29, 2012, in Sri Lanka, are clear evidence of panspermia, the idea that life exists throughout the Universe. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](2011/03/30/index.html)  [JSON](2011/03/30/index.json)  [XML](201
 
 ## [2011-03-30](/news/2011/03/30/index.md)
 
-##### protestors
+##### Protestors
 ### [Bashar al-Assad, the Syrian president, addresses the nation amid unrest. ](/news/2011/03/30/bashar-al-assad-the-syrian-president-addresses-the-nation-amid-unrest.md)
 Syrian president delivers first public speech since security forces curbed anti-government protests across the country.
 
@@ -17,11 +17,11 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 
 ##### Man Booker International Prize
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: Dacia Maraini, Man Booker International Prize, Juan Goytisolo, Amin Maalouf, David Malouf, Su Tong, James Kelman, Rohinton Mistry, Philip Roth, Anne Tyler, Wang Anyi, John le Carre, Marilynne Robinson, Philip Pullman_
+_Context: Amin Maalouf, Philip Roth, James Kelman, Philip Pullman, Man Booker International Prize, Wang Anyi, Rohinton Mistry, Dacia Maraini, Marilynne Robinson, David Malouf, Anne Tyler, Juan Goytisolo, Su Tong, John le Carre_
 
-##### orca
+##### Orca
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
-_Context: orca, Tilikum, Seaworld Orlando_
+_Context: Tilikum, orca, Seaworld Orlando_
 
 ##### Governor of California
 ### [The former Governor of California Arnold Schwarzenegger returns to acting in an animated television series. ](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.md)
@@ -65,15 +65,15 @@ Former US President Jimmy Carter strongly criticises US policy towards Cuba at t
 
 ##### Kuwait
 ### [Kuwait recalls its ambassador to Iran after it convicted three people on charges of spying for Iran. ](/news/2011/03/30/kuwait-recalls-its-ambassador-to-iran-after-it-convicted-three-people-on-charges-of-spying-for-iran.md)
-_Context: Iran, Kuwait_
+_Context: Kuwait, Iran_
 
 ##### South Korea
 ### [The South Korean military holds a live-fire drill on Yeonpyeong Island which was shelled by North Korea last year. ](/news/2011/03/30/the-south-korean-military-holds-a-live-fire-drill-on-yeonpyeong-island-which-was-shelled-by-north-korea-last-year.md)
-_Context: Yeonpyeong Island, North Korea, South Korea_
+_Context: North Korea, South Korea, Yeonpyeong Island_
 
 ##### Yonhap
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: refugee, South Korea, China, Yonhap, North Korea_
+_Context: China, Yonhap, refugee, North Korea, South Korea_
 
 ##### Filipino
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
@@ -81,23 +81,23 @@ Vice President Jejomar Binay confirms that the three convicted Filipino drug mul
 
 ##### Umar Patek
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: Pakistan, 2002 Bali bombings, Umar Patek_
+_Context: Pakistan, Umar Patek, 2002 Bali bombings_
 
-##### diamond
+##### Diamond
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
 Four diamonds worth millions of pounds have been stolen from the world&#039;s biggest watch and jewellery fair in the Swiss city of Basel.
 
 ##### State Peace and Development Council
 ### [The State Peace and Development Council military government is officially dissolved in Burma. ](/news/2011/03/30/the-state-peace-and-development-council-military-government-is-officially-dissolved-in-burma.md)
-_Context: State Peace and Development Council, Burma_
+_Context: Burma, State Peace and Development Council_
 
 ##### Egypt
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: Egypt, Egyptian presidential election in September, November_
+_Context: November, Egyptian presidential election in September, Egypt_
 
-##### virophage
+##### Virophage
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
-_Context: virus, East Antarctica, virophage, Organic Lake_
+_Context: virophage, East Antarctica, virus, Organic Lake_
 
 ## [Previous Day...](/news/2011/03/29/index.md)
 

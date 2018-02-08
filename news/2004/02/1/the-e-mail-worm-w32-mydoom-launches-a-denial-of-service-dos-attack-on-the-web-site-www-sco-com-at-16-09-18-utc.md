@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/1/the-e-mail-worm-w32-mydoom-launches-a-denial-of-
 
 ### [2004-02-1](/news/2004/02/1/index.md)
 
-##### e-mail worm
+##### E-mail worm
 #  The e-mail worm W32-Mydoom launches a denial-of-service (DoS) attack on the Web site www.sco.com at 16:09:18 (UTC).
 
 

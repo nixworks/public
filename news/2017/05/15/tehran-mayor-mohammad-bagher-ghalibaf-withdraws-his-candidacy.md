@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/15/tehran-mayor-mohammad-bagher-ghalibaf-withdraws
 
 ### [2017-05-15](/news/2017/05/15/index.md)
 
-##### re-elected
+##### Re-elected
 # Tehran Mayor Mohammad Bagher Ghalibaf withdraws his candidacy. 
 
 

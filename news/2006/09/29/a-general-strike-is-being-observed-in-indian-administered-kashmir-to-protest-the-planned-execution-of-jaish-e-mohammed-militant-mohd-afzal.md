@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/29/a-general-strike-is-being-observed-in-indian-ad
 
 ### [2006-09-29](/news/2006/09/29/index.md)
 
-##### general strike
+##### General strike
 #  A general strike is being observed in Indian-administered Kashmir to protest the planned execution of Jaish-e-Mohammed militant, Mohd Afzal, set for October 20. 
 
 

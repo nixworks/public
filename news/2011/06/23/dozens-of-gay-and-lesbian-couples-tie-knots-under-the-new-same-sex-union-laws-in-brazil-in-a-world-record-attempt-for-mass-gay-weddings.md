@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/dozens-of-gay-and-lesbian-couples-tie-knots-und
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### tie knots
+##### Tie knots
 # Dozens of gay and lesbian couples tie knots under the new same-sex union laws in Brazil in a world record attempt for mass gay weddings. 
 
 

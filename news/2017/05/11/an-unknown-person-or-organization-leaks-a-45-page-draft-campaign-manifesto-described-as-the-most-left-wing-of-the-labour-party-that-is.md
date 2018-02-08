@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/11/an-unknown-person-or-organization-leaks-a-45-pa
 
 ### [2017-05-11](/news/2017/05/11/index.md)
 
-##### last general election
+##### Last general election
 # An unknown person or organization leaks a 45-page draft campaign manifesto, described as "the most left-wing," of the Labour Party, that is due for official confirmation tomorrow. 
 
 

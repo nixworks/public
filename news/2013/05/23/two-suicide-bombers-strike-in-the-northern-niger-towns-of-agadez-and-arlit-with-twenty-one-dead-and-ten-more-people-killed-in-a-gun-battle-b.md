@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/23/two-suicide-bombers-strike-in-the-northern-nige
 
 ### [2013-05-23](/news/2013/05/23/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # Two suicide bombers strike in the northern Niger towns of Agadez and Arlit with twenty-one dead and ten more people killed in a gun battle between soldiers and Islamist fighters. 
 
 Two suicide bombers have struck Northern Niger, injuring at least 16 people. A subsequent gunbattle with suspected Islamist militants has claimed the

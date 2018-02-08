@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/5/florida-congresswoman-debbie-wasserman-schultz-i
 
 ### [2011-04-5](/news/2011/04/5/index.md)
 
-##### the state
+##### The state
 # Florida Congresswoman Debbie Wasserman Schultz is appointed as the Chairwoman of the US Democratic National Committee. 
 
 

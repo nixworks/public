@@ -5,15 +5,15 @@ Formats: [HTML](2009/08/5/index.html)  [JSON](2009/08/5/index.json)  [XML](2009/
 
 ##### Pacific Islands Forum
 ### [ The 40th Pacific Islands Forum leaders' meeting opens in Cairns, Australia. ](/news/2009/08/5/the-40th-pacific-islands-forum-leaders-meeting-opens-in-cairns-australia.md)
-_Context: Cairns, Pacific Islands Forum_
+_Context: Pacific Islands Forum, Cairns_
 
 ##### Mahmoud Ahmadinejad
 ### [ Mahmoud Ahmadinejad is officially sworn in as President of Iran for a second term. ](/news/2009/08/5/mahmoud-ahmadinejad-is-officially-sworn-in-as-president-of-iran-for-a-second-term.md)
-_Context: Mahmoud Ahmadinejad, President, Iran, re-election_
+_Context: Iran, President, Mahmoud Ahmadinejad, re-election_
 
 ##### Corazon Aquino
 ### [ The funeral of Corazon Aquino, the first female President of an Asian country and the Philippines, takes place in the Philippines. ](/news/2009/08/5/the-funeral-of-corazon-aquino-the-first-female-president-of-an-asian-country-and-the-philippines-takes-place-in-the-philippines.md)
-_Context: President, first female, Asia, Philippines, Corazon Aquino_
+_Context: first female, President, Philippines, Asia, Corazon Aquino_
 
 ##### Brazil
 ### [ Brazilian President Lula da Silva says his country is "now advising the International Monetary Fund, IMF". ](/news/2009/08/5/brazilian-president-lula-da-silva-says-his-country-is-anow-advising-the-international-monetary-fund-imfa.md)
@@ -25,15 +25,15 @@ Bolivian president Evo Morales said he was quite concerned with the possibility 
 
 ##### Iraq
 ### [ Iraq's government announces that all Bremer walls will be removed from Baghdad within forty days. ](/news/2009/08/5/iraq-s-government-announces-that-all-bremer-walls-will-be-removed-from-baghdad-within-forty-days.md)
-_Context: Government of Iraq, Bremer wall, Iraq, Baghdad_
+_Context: Baghdad, Government of Iraq, Bremer wall, Iraq_
 
 ##### Nile
 ### [ 11 men drown when a boat sinks on the Nile near Khartoum, Sudan. ](/news/2009/08/5/11-men-drown-when-a-boat-sinks-on-the-nile-near-khartoum-sudan.md)
-_Context: Sudan, Nile, Khartoum_
+_Context: Khartoum, Sudan, Nile_
 
 ##### United States
 ### [ Two United States journalists, Laura Ling and Euna Lee, who had been detained by North Korea, return home with former U.S. President Bill Clinton. ](/news/2009/08/5/two-united-states-journalists-laura-ling-and-euna-lee-who-had-been-detained-by-north-korea-return-home-with-former-u-s-president-bill-c.md)
-_Context: detained, Bill Clinton, Laura Ling, U.S. President, Euna Lee, United States, North Korea_
+_Context: Laura Ling, U.S. President, North Korea, detained, Bill Clinton, Euna Lee, United States_
 
 ##### Madagascar
 ### [ Former Madagascar leader Marc Ravalomanana is hopeful that a relaunch of peace talks between the country's rival factions will bring progress toward a return of political stability. ](/news/2009/08/5/former-madagascar-leader-marc-ravalomanana-is-hopeful-that-a-relaunch-of-peace-talks-between-the-country-s-rival-factions-will-bring-progre.md)
@@ -41,19 +41,19 @@ _Context: Marc Ravalomanana, Madagascar_
 
 ##### United States
 ### [ A dog featured in an American film called "I Love You, Man", which was named after assassinated Egyptian President Anwar El Sadat, leads to a court case as bloggers complain that their country has been insulted. ](/news/2009/08/5/a-dog-featured-in-an-american-film-called-i-love-you-man-which-was-named-after-assassinated-egyptian-president-anwar-el-sadat-leads-to.md)
-_Context: Anwar El Sadat, blog, United States, President, I Love You, Man, Egypt_
+_Context: Anwar El Sadat, United States, I Love You, Man, blog, President, Egypt_
 
-##### shot
+##### Shot
 ### [ Fourteen people are shot at a women's dance class in LA Fitness gymnasium in Collier Township, Pennsylvania, United States. Three women die, as does the gunman. ](/news/2009/08/5/fourteen-people-are-shot-at-a-women-s-dance-class-in-la-fitness-gymnasium-in-collier-township-pennsylvania-united-states-three-women-die.md)
-_Context: United States, LA Fitness, Collier Township, Pennsylvania, shot_
+_Context: Collier Township, United States, shot, Pennsylvania, LA Fitness_
 
 ##### Airbus A320
 ### [ Eight people are injured when an Airbus A320 plane catches fire on one of its engines at Paris-Orly Airport. The fire is quickly brought under control. ](/news/2009/08/5/eight-people-are-injured-when-an-airbus-a320-plane-catches-fire-on-one-of-its-engines-at-paris-orly-airport-the-fire-is-quickly-brought-un.md)
-_Context: catches fire, Airbus A320, Paris-Orly Airport_
+_Context: Paris-Orly Airport, Airbus A320, catches fire_
 
-##### suicide attack
+##### Suicide attack
 ### [ Three more men are charged with plotting a suicide attack on a military base in Australia. ](/news/2009/08/5/three-more-men-are-charged-with-plotting-a-suicide-attack-on-a-military-base-in-australia.md)
-_Context: Australia, suicide attack_
+_Context: suicide attack, Australia_
 
 ##### Irish
 ### [ Ireland's Health Service Executive threatens several pharmacies with High Court injunctions if they do not adhere with their contracts to dispense drugs. ](/news/2009/08/5/ireland-s-health-service-executive-threatens-several-pharmacies-with-high-court-injunctions-if-they-do-not-adhere-with-their-contracts-to-d.md)
@@ -67,9 +67,9 @@ _Context: Lloyds Banking Group_
 ### [ Chansa Kabwela, the news editor of the "The Post", goes on trial in Zambia after being accused of distributing obscene images. ](/news/2009/08/5/chansa-kabwela-the-news-editor-of-the-the-post-goes-on-trial-in-zambia-after-being-accused-of-distributing-obscene-images.md)
 _Context: Zambia_
 
-##### teargas
+##### Teargas
 ### [ Police fire teargas at protesters rallying in support of Lubna al-Hussein, the Sudanese woman facing 40 lashes for wearing trousers in public. ](/news/2009/08/5/police-fire-teargas-at-protesters-rallying-in-support-of-lubna-al-hussein-the-sudanese-woman-facing-40-lashes-for-wearing-trousers-in-publ.md)
-_Context: teargas, Sudan, Lubna al-Hussein_
+_Context: Lubna al-Hussein, Sudan, teargas_
 
 ##### Moscow
 ### [ A court in Moscow opens a new trial into the murder of Russian journalist Anna Politkovskaya. ](/news/2009/08/5/a-court-in-moscow-opens-a-new-trial-into-the-murder-of-russian-journalist-anna-politkovskaya.md)
@@ -77,7 +77,7 @@ _Context: Russia, Anna Politkovskaya, Moscow_
 
 ##### China
 ### [ A Chinese teenager sent to an internet addiction rehabilitation camp is allegedly beaten to death by its counsellors. ](/news/2009/08/5/a-chinese-teenager-sent-to-an-internet-addiction-rehabilitation-camp-is-allegedly-beaten-to-death-by-its-counsellors.md)
-_Context: China, internet addiction_
+_Context: internet addiction, China_
 
 ##### United States
 ### [ The United States White House defends its decision to award its Presidential Medal of Freedom to former President of Ireland Mary Robinson. ](/news/2009/08/5/the-united-states-white-house-defends-its-decision-to-award-its-presidential-medal-of-freedom-to-former-president-of-ireland-mary-robinson.md)
@@ -89,7 +89,7 @@ _Context: Austria_
 
 ##### FC Schalke 04
 ### [ An anthem sung by FC Schalke 04's fans draws Islamic protests because of its reference to the Prophet Muhammad. ](/news/2009/08/5/an-anthem-sung-by-fc-schalke-04-s-fans-draws-islamic-protests-because-of-its-reference-to-the-prophet-muhammad.md)
-_Context: Prophet, Islam, FC Schalke 04, Muhammad_
+_Context: Prophet, Muhammad, Islam, FC Schalke 04_
 
 ##### Romania
 ### [ Romanians who fled Belfast following racist attacks return to Northern Ireland. ](/news/2009/08/5/romanians-who-fled-belfast-following-racist-attacks-return-to-northern-ireland.md)
@@ -105,11 +105,11 @@ The Argentine Federal Appeals court has confirmed the indictment of ex-president
 
 ##### Lieutenant Governor
 ### [ Former Lieutenant Governor of the Northern Mariana Islands Timothy P. Villagomez is sentenced to seven years in prison for political corruption. ](/news/2009/08/5/former-lieutenant-governor-of-the-northern-mariana-islands-timothy-p-villagomez-is-sentenced-to-seven-years-in-prison-for-political-corrup.md)
-_Context: Lieutenant Governor, Timothy P. Villagomez, corruption, Northern Mariana Islands_
+_Context: corruption, Lieutenant Governor, Northern Mariana Islands, Timothy P. Villagomez_
 
 ##### Princess Ashika
 ### [ Thirty-three people are reported missing following the sinking of the "Princess Ashika" ferry in Tonga. ](/news/2009/08/5/thirty-three-people-are-reported-missing-following-the-sinking-of-the-princess-ashika-ferry-in-tonga.md)
-_Context: ferry, Tonga, Princess Ashika_
+_Context: Princess Ashika, Tonga, ferry_
 
 ## [Previous Day...](/news/2009/08/4/index.md)
 

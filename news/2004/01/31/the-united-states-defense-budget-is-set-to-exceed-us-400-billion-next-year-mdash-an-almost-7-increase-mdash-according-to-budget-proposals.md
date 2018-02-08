@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/31/the-united-states-defense-budget-is-set-to-exce
 
 ### [2004-01-31](/news/2004/01/31/index.md)
 
-##### the Pentagon
+##### The Pentagon
 #  The United States defense budget is set to exceed US$400 billion next year&mdash;an almost 7% increase&mdash;according to budget proposals inadvertently posted on the Pentagon's website.
 
 

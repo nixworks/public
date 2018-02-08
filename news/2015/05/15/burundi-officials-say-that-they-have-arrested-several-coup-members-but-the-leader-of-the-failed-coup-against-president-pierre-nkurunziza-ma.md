@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/15/burundi-officials-say-that-they-have-arrested-s
 
 ### [2015-05-15](/news/2015/05/15/index.md)
 
-##### failed coup
+##### Failed coup
 # Burundi officials say that they have arrested several coup members but the leader of the failed coup against President Pierre Nkurunziza, Major General Godefroid Niyombare remains at large. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/1/the-man-who-attacked-the-netherlands-royal-famil
 
 ### [2009-05-1](/news/2009/05/1/index.md)
 
-##### attacked
+##### Attacked
 #  The man who attacked the Netherlands' Royal Family on Queen's Day dies. 
 
 The car driver who had sought to ram the Dutch royal family but killed five onlookers has died from his injuries.

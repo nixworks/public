@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/25/the-number-of-suicides-in-japan-exceeded-30-000
 
 ### [2009-12-25](/news/2009/12/25/index.md)
 
-##### suicide
+##### Suicide
 #  The number of suicides in Japan exceeded 30,000 in 2009 according to officials, for the twelfth consecutive year. 
 
 

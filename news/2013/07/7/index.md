@@ -3,7 +3,7 @@ Formats: [HTML](2013/07/7/index.html)  [JSON](2013/07/7/index.json)  [XML](2013/
 
 ## [2013-07-7](/news/2013/07/7/index.md)
 
-##### serial blast
+##### Serial blast
 ### [A serial blast injures 5 people near Mahabodhi temple at Bodh Gaya, in the Indian state of Bihar. ](/news/2013/07/7/a-serial-blast-injures-5-people-near-mahabodhi-temple-at-bodh-gaya-in-the-indian-state-of-bihar.md)
 Nine blasts took place outside the world famous temple at around 5am today.Initial reports said that there has been no damage to the temple.
 
@@ -21,7 +21,7 @@ Police in Sweden have shot and killed a knife-wielding man after he allegedly st
 
 ##### President
 ### [Opponents of deposed Egyptian president Mohamed Morsi call for demonstrations to be held today in the aftermath of the 2013 Egyptian coup d'etat ](/news/2013/07/7/opponents-of-deposed-egyptian-president-mohamed-morsi-call-for-demonstrations-to-be-held-today-in-the-aftermath-of-the-2013-egyptian-coup-d.md)
-_Context: President, aftermath of the 2013 Egyptian coup d'etat, Mohamed Morsi_
+_Context: aftermath of the 2013 Egyptian coup d'etat, President, Mohamed Morsi_
 
 ## [Previous Day...](/news/2013/07/6/index.md)
 

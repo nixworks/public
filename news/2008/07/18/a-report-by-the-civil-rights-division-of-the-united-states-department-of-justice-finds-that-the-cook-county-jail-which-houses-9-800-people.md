@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/18/a-report-by-the-civil-rights-division-of-the-un
 
 ### [2008-07-18](/news/2008/07/18/index.md)
 
-##### civil rights division
+##### Civil rights division
 #  A report by the Civil Rights Division of the United States Department of Justice finds that the Cook County Jail, which houses 9,800 people, systematically violated the constitutional rights of its inmates. 
 
 The investigation found that people awaiting trial at the Cook County Jail have endured inadequate medical care, beatings at the hands of jail workers and dangerous building conditions.

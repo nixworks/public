@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/23/astronomers-have-discovered-new-moons-and-rings
 
 ### [2005-12-23](/news/2005/12/23/index.md)
 
-##### moon
+##### Moon
 #  Astronomers have discovered new moons and rings around Uranus using the Hubble Space Telescope. 
 
 

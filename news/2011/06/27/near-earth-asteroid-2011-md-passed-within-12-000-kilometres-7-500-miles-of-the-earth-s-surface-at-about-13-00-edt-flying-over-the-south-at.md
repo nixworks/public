@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/27/near-earth-asteroid-2011-md-passed-within-12-00
 
 ### [2011-06-27](/news/2011/06/27/index.md)
 
-##### near-Earth asteroid
+##### Near-Earth asteroid
 # Near-Earth Asteroid 2011 MD passed within 12,000 kilometres (7,500 miles) of the Earth's surface at about 13:00 EDT flying over the South Atlantic Ocean, off the coast of Antarctica. 
 
 An asteroid set to pass within 12,000 kilometres of Earth tonight is a timely reminder there is more to our environment than meets the eye.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/10/a-6-5-magnitude-earthquake-strikes-14-kilometer
 
 ### [2017-02-10](/news/2017/02/10/index.md)
 
-##### magnitude
+##### Magnitude
 # A 6.5 magnitude earthquake strikes 14 kilometers (8 miles) northwest of Surigao City on the Philippines island of Mindanao and kills four people, injures more than 100 others, and damages multiple buildings. 
 
 A 6.5-magnitude earthquake shook the southern Philippines on Friday, sending panicked residents fleeing from their homes, knocking out power and causing at least one building to collapse.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/8/a-government-conservation-campaign-and-possible-
 
 ### [2010-11-8](/news/2010/11/8/index.md)
 
-##### diesel fuel
+##### Diesel fuel
 # A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. 
 
 

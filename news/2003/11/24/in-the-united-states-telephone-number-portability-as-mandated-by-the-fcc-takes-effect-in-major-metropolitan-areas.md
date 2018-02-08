@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/24/in-the-united-states-telephone-number-portabili
 
 ### [2003-11-24](/news/2003/11/24/index.md)
 
-##### number portability
+##### Number portability
 #  In the United States, telephone number portability as mandated by the FCC takes effect in major metropolitan areas.
 
 

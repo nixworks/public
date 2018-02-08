@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/17/four-people-are-dead-and-62-are-wounded-when-fi
 
 ### [2006-09-17](/news/2006/09/17/index.md)
 
-##### bomb blasts
+##### Bomb blasts
 #  Four people are dead and 62 are wounded when five bomb blasts go off in the southern Thailand city of Hat Yai. 
 
 

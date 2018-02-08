@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/24/more-than-60-are-killed-and-150-are-injured-aft
 
 ### [2009-06-24](/news/2009/06/24/index.md)
 
-##### bombing
+##### Bombing
 #  More than 60 are killed and 150 are injured after a bombing in Baghdad. 
 
 

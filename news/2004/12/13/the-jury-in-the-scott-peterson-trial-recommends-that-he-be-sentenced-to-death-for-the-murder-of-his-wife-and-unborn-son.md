@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/13/the-jury-in-the-scott-peterson-trial-recommends
 
 ### [2004-12-13](/news/2004/12/13/index.md)
 
-##### jury
+##### Jury
 #  The jury in the Scott Peterson trial recommends that he be sentenced to death for the murder of his wife and unborn son. 
 
 

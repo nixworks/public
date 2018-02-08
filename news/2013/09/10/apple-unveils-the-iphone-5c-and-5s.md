@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/10/apple-unveils-the-iphone-5c-and-5s.html)  [JSON
 
 ### [2013-09-10](/news/2013/09/10/index.md)
 
-##### iPhone 5c
+##### IPhone 5c
 # Apple unveils the iPhone 5c and 5s 
 
 

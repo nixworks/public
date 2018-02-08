@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/13/mass-media-in-fiji-protest-against-government-c
 
 ### [2009-04-13](/news/2009/04/13/index.md)
 
-##### media
+##### Media
 #  Mass media in Fiji protest against government censorship. 
 
 

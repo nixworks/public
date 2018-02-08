@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/31/around-30-people-are-killed-in-clashes-between-
 
 ### [2012-03-31](/news/2012/03/31/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Around 30 people are killed in clashes between the army and suspected Al-Qaeda militants in southern Yemen. 
 
 

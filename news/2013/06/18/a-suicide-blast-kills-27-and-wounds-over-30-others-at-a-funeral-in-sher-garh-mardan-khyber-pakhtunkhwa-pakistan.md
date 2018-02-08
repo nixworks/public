@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/18/a-suicide-blast-kills-27-and-wounds-over-30-oth
 
 ### [2013-06-18](/news/2013/06/18/index.md)
 
-##### suicide blast
+##### Suicide blast
 # A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. 
 
 Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 people, including provincial legislator.

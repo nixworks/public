@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/4/the-people-of-venezuela-vote-in-parliamentary-el
 
 ### [2005-12-4](/news/2005/12/4/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 #  The people of Venezuela vote in Parliamentary Elections. 
 
 

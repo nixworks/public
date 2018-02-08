@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/15/more-than-9-000-people-around-the-world-protest
 
 ### [2008-03-15](/news/2008/03/15/index.md)
 
-##### protest
+##### Protest
 #  More than 9,000 people around the world protest against Scientology under the banner of Anonymous. 
 
 

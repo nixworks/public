@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/22/two-suicide-bombers-attack-a-church-in-the-paki
 
 ### [2013-09-22](/news/2013/09/22/index.md)
 
-##### suicide bombers
+##### Suicide bombers
 # Two suicide bombers attack a church in the Pakistani city of Peshawar, killing at least 78 people. 
 
 

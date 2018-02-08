@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/7/one-police-officer-is-killed-and-two-more-are-in
 
 ### [2009-05-7](/news/2009/05/7/index.md)
 
-##### police officer
+##### Police officer
 #  One police officer is killed and two more are injured in Napier, New Zealand. 
 
 

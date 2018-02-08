@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/3/the-e-mail-worm-w32-mydoom-b-performs-a-distribu
 
 ### [2004-02-3](/news/2004/02/3/index.md)
 
-##### e-mail worm
+##### E-mail worm
 #  The e-mail worm W32-Mydoom.B performs a Distributed Denial of Service (DDoS) attack against www.microsoft.com at 13:09:18 (UTC).
 
 

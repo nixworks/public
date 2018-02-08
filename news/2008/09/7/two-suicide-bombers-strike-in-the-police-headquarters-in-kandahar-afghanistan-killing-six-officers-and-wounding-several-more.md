@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/7/two-suicide-bombers-strike-in-the-police-headqua
 
 ### [2008-09-7](/news/2008/09/7/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  Two suicide bombers strike in the police headquarters in Kandahar, Afghanistan killing six officers and wounding several more. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/21/the-death-toll-for-the-japanese-earthquake-and-
 
 ### [2011-03-21](/news/2011/03/21/index.md)
 
-##### tsunami
+##### Tsunami
 # The death toll for the Japanese earthquake and tsunami reaches 8,450, with 12,931 people missing. 
 
 Japanese police say 15,000 people may have died in one prefecture alone, as efforts to tackle the Fukushima nuclear crisis go on.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/9/a-31-year-old-florida-man-kills-his-wife-and-pos
 
 ### [2013-08-9](/news/2013/08/9/index.md)
 
-##### the state
+##### The state
 # A 31-year-old Florida man kills his wife and posts a picture of her corpse with a confession onto Facebook. The picture is removed and the man is arrested. 
 
 

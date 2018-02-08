@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/26/2011-libyan-civil-war-rebel-forces-in-libya-ret
 
 ### [2011-03-26](/news/2011/03/26/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebel forces in Libya retake the town of Ajdabiya from troops loyal to Muammar Gaddafi, and later recapture Brega. 
 
 Five suspected al Qaeda members were killed in a clash with Yemeni forces when they attacked a security checkpoint in the south of the Arabian Peninsula country, a local official said on Saturday.

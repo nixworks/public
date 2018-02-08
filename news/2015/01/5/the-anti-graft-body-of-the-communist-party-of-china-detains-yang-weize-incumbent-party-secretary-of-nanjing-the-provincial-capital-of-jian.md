@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/5/the-anti-graft-body-of-the-communist-party-of-ch
 
 ### [2015-01-5](/news/2015/01/5/index.md)
 
-##### anti-graft agency
+##### Anti-graft agency
 # The anti-graft body of the Communist Party of China detains Yang Weize, incumbent Party Secretary of Nanjing, the provincial capital of Jiangsu province, for investigation. 
 
 

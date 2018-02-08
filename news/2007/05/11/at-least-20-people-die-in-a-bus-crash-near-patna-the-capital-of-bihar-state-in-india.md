@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/11/at-least-20-people-die-in-a-bus-crash-near-patn
 
 ### [2007-05-11](/news/2007/05/11/index.md)
 
-##### bus
+##### Bus
 #  At least 20 people die in a bus crash near Patna, the capital of Bihar state in India. 
 
 A bus plunged nearly 30 feet into a riverbed in India on Friday, killing at least 20 people, officials said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/23/a-voice-purporting-to-be-that-of-al-qaeda-leade
 
 ### [2006-05-23](/news/2006/05/23/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  A voice purporting to be that of Al-Qaeda leader Osama bin Laden says on an audiotape that Zacarias Moussaoui had no link to the September 11, 2001 attacks. 
 
 Zacarias Moussaoui had no link to the Sept. 11, 2001, attacks, a voice purporting to be that of Al Qaeda leader Usama bin Laden said on an audiotape that surfaced on a Web site Tuesday.

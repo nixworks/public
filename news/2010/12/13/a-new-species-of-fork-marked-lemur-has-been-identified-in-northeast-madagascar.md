@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/13/a-new-species-of-fork-marked-lemur-has-been-ide
 
 ### [2010-12-13](/news/2010/12/13/index.md)
 
-##### fork-marked lemur
+##### Fork-marked lemur
 # A new species of fork-marked lemur has been identified in northeast Madagascar. 
 
 

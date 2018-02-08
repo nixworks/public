@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/20/a-solar-flare-solar-flare-hazards.html)  [JSON]
 
 ### [2005-01-20](/news/2005/01/20/index.md)
 
-##### solar flare
+##### Solar flare
 #  a solar flare Solar flare#Hazards
 
 

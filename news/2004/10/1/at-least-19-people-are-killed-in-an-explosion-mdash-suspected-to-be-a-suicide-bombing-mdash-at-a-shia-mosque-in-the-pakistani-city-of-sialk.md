@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/1/at-least-19-people-are-killed-in-an-explosion-md
 
 ### [2004-10-1](/news/2004/10/1/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  At least 19 people are killed in an explosion&mdash;suspected to be a suicide bombing&mdash;at a Shia mosque in the Pakistani city of Sialkot (located near the border of Indian-controlled Kashmir). The attack follows the killing of a leading Sunni cleric. 
 
 

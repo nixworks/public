@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/15/scientists-exhume-the-remains-of-16th-century-a
 
 ### [2010-11-15](/news/2010/11/15/index.md)
 
-##### astronomer
+##### Astronomer
 # Scientists exhume the remains of 16th century astronomer Tycho Brahe in Prague to try to solve the mystery of his sudden death. 
 
 The 16th Century Danish astronomer Tycho Brahe is being exhumed in Prague to clarify the cause of his death, after previous tests showed high levels of mercury in his hair.

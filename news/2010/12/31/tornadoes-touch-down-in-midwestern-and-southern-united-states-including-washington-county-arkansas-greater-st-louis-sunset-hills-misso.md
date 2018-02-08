@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/31/tornadoes-touch-down-in-midwestern-and-southern
 
 ### [2010-12-31](/news/2010/12/31/index.md)
 
-##### tornado outbreak
+##### Tornado outbreak
 # Tornadoes touch down in midwestern and southern United States, including Washington County, Arkansas; Greater St. Louis, Sunset Hills, Missouri, Illinois and Oklahoma, with a few tornadoes in the early hours of January 1, 2011. A total 36 tornadoes touched down, resulting in the deaths of 9 people.
 
 

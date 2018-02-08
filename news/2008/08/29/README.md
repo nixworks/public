@@ -3,13 +3,13 @@ Formats: [HTML](2008/08/29/index.html)  [JSON](2008/08/29/index.json)  [XML](200
 
 ## [2008-08-29](/news/2008/08/29/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 ### [ Protestors from the People's Alliance for Democracy seeking the overthrow of the Government of Thailand force the closure of Phuket Airport, Krabi Airport and Hat Yai Airport. ](/news/2008/08/29/protestors-from-the-people-s-alliance-for-democracy-seeking-the-overthrow-of-the-government-of-thailand-force-the-closure-of-phuket-airport.md)
-_Context: Krabi Airport, Royal Thai Government, yellow shirt, Hat Yai Airport, Phuket Airport_
+_Context: Royal Thai Government, yellow shirt, Krabi Airport, Hat Yai Airport, Phuket Airport_
 
 ##### Hurricane Gustav
 ### [ Hurricane Gustav reaches hurricane strength en route to the Cayman Islands, Cuba and the Gulf of Mexico. ](/news/2008/08/29/hurricane-gustav-reaches-hurricane-strength-en-route-to-the-cayman-islands-cuba-and-the-gulf-of-mexico.md)
-_Context: Gulf of Mexico, Cayman Islands, hurricane, Hurricane Gustav, Cuba_
+_Context: Gulf of Mexico, Cuba, Hurricane Gustav, hurricane, Cayman Islands_
 
 #####  Georgian
 ### [ Georgia cuts diplomatic ties with Russia following Russian recognition of South Ossetia and Abkhazia. ](/news/2008/08/29/georgia-cuts-diplomatic-ties-with-russia-following-russian-recognition-of-south-ossetia-and-abkhazia.md)
@@ -17,15 +17,15 @@ Georgia has cut diplomatic links with Russia, withdrawing its diplomats from Mos
 
 ##### Italy
 ### [ Italian airline Alitalia files for bankruptcy protection. ](/news/2008/08/29/italian-airline-alitalia-files-for-bankruptcy-protection.md)
-_Context: Italy, bankruptcy, Alitalia, airline_
+_Context: Alitalia, bankruptcy, Italy, airline_
 
 ##### John McCain
 ### [ John McCain picks Alaska Governor Sarah Palin as his vice-presidential running mate for the Republican nomination for the U.S. presidential election. ](/news/2008/08/29/john-mccain-picks-alaska-governor-sarah-palin-as-his-vice-presidential-running-mate-for-the-republican-nomination-for-the-u-s-presidential.md)
-_Context: Sarah Palin, Republican, Governor, Alaska, John McCain, running mate, 2008_
+_Context: Republican, Governor, 2008, Alaska, Sarah Palin, John McCain, running mate_
 
 ##### Bosnian Serb
 ### [ Former Bosnian Serb leader Radovan Karadzic refuses to enter pleas to charges including genocide and crimes against humanity at the International Criminal Tribunal for the former Yugoslavia at the Hague. ](/news/2008/08/29/former-bosnian-serb-leader-radovan-karada3-4ia-refuses-to-enter-pleas-to-charges-including-genocide-and-crimes-against-humanity-at-the-inter.md)
-_Context: International Criminal Tribunal for the former Yugoslavia, genocide, war crime, Radovan Karadzic, Hague, Bosnian Serb_
+_Context: war crime, International Criminal Tribunal for the former Yugoslavia, Hague, genocide, Radovan Karadzic, Bosnian Serb_
 
 ##### Ha Giang Province
 ### [ At least 11 people die this week and five are missing as a result of floods and landslides caused by heavy rain in Ha Giang Province in northern Vietnam. ](/news/2008/08/29/at-least-11-people-die-this-week-and-five-are-missing-as-a-result-of-floods-and-landslides-caused-by-heavy-rain-in-ha-giang-province-in-no.md)

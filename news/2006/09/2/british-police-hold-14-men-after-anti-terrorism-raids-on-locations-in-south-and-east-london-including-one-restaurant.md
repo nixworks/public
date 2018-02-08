@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/2/british-police-hold-14-men-after-anti-terrorism-
 
 ### [2006-09-2](/news/2006/09/2/index.md)
 
-##### anti-terrorism
+##### Anti-terrorism
 #  British police hold 14 men after anti-terrorism raids on locations in south and east London including one restaurant. 
 
 

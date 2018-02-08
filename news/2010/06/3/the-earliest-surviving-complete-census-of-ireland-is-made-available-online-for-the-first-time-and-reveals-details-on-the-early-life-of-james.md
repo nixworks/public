@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/3/the-earliest-surviving-complete-census-of-irelan
 
 ### [2010-06-3](/news/2010/06/3/index.md)
 
-##### census
+##### Census
 # The earliest surviving complete census of Ireland is made available online for the first time and reveals details on the early life of James Joyce as well as other famous writers and politicians. 
 
 When filling out the census on Sunday March 31st 1901, John Stanislaus Joyce could not have imagined his 19-year-old son James&hellip;

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/4/several-african-countries-experience-their-worst
 
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-##### drought
+##### Drought
 # Several African countries experience their worst drought in 60 years, with millions of people affected. 
 
 The rains have failed for the last two years while crops and livestock have died, leaving people with no food.

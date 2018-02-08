@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/11/a-general-strike-in-nepal-against-next-week-s-e
 
 ### [2013-11-11](/news/2013/11/11/index.md)
 
-##### general strike
+##### General strike
 # A general strike in Nepal against next week's election shuts down schools, markets and industries. 
 
 

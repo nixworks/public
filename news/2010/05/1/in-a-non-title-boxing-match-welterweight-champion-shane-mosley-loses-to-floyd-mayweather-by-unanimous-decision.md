@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/1/in-a-non-title-boxing-match-welterweight-champio
 
 ### [2010-05-1](/news/2010/05/1/index.md)
 
-##### boxing
+##### Boxing
 # In a non-title boxing match, welterweight champion Shane Mosley loses to Floyd Mayweather by unanimous decision. 
 
 Reporting from Las Vegas Floyd Mayweather Jr. predicted a cakewalk, and Saturday night he called his own number in a brilliant rally from second-round trouble to dissect Shane Mosley in a unanimous...

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/3/a-plane-carrying-153-people-on-board-crashes-in-
 
 ### [2012-06-3](/news/2012/06/3/index.md)
 
-##### crashes
+##### Crashes
 # A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and 10 people on the ground. 
 
 

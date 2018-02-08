@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/2/the-racehorse-mine-that-bird-wins-the-135th-kent
 
 ### [2009-05-2](/news/2009/05/2/index.md)
 
-##### racehorse
+##### Racehorse
 #  The racehorse Mine That Bird wins the 135th Kentucky Derby. 
 
 

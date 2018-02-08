@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/8/rare-specimens-of-daisies-from-the-1850s-origina
 
 ### [2017-05-8](/news/2017/05/8/index.md)
 
-##### daisies
+##### Daisies
 # Rare specimens of daisies from the 1850s originally held in the National Museum of Natural History in Paris were reportedly destroyed by Australia in March allegedly due to incomplete paperwork. 
 
 The French collection was incinerated by Australian biosecurity officers due to missing paperwork.

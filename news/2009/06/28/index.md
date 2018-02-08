@@ -9,11 +9,11 @@ _Context: swine flu, United Kingdom_
 
 ##### President
 ### [ President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-and-sent-to-costa-rica.md)
-_Context: removed from office, Manuel Zelaya, Costa Rica, constitutional referendum, President_
+_Context: President, Manuel Zelaya, Costa Rica, removed from office, constitutional referendum_
 
-##### presidential election
+##### Presidential election
 ### [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md)
-_Context: Joo Bernardo Vieira, presidential election, acting president, Guinea-Bissau_
+_Context: acting president, Joo Bernardo Vieira, presidential election, Guinea-Bissau_
 
 ##### Albania
 ### [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md)
@@ -31,7 +31,7 @@ _Context: Argentina, Argentine legislative elections_
 ### [ Russia announces that they will shut down every legal casino in the state by Wednesday, July 1. ](/news/2009/06/28/russia-announces-that-they-will-shut-down-every-legal-casino-in-the-state-by-wednesday-july-1.md)
 Russia is closing every legal casino this week, throwing hundreds of thousands of people out of work.
 
-##### child pornography
+##### Child pornography
 ### [ An internet child pornography ring, involving at least 2,000 IP addresses in 78 countries, is uncovered in Switzerland. ](/news/2009/06/28/an-internet-child-pornography-ring-involving-at-least-2-000-ip-addresses-in-78-countries-is-uncovered-in-switzerland.md)
 _Context: Switzerland, child pornography, addresses_
 

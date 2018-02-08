@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/28/a-precious-icon-is-returned-to-the-kremlin-s-ca
 
 ### [2004-08-28](/news/2004/08/28/index.md)
 
-##### icon
+##### Icon
 #  A precious icon is returned to the Kremlin's Cathedral of the Assumption by a Roman Catholic Cardinal as a goodwill gesture from the Pope to the Russian Orthodox Church. The image is an 18th-century copy of the "Our Lady of Kazan", one of Russia's most sacred images. 
 
 

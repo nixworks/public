@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-
 
 ### [2007-08-6](/news/2007/08/6/index.md)
 
-##### truck bomb
+##### Truck bomb
 #  A truck bomb in Tal Afar in northern Iraq kills at least 25 people and destroys 10 homes. 
 
 

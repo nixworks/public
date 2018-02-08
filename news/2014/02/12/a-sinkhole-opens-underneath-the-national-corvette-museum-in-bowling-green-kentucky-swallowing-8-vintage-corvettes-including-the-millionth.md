@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/12/a-sinkhole-opens-underneath-the-national-corvet
 
 ### [2014-02-12](/news/2014/02/12/index.md)
 
-##### sinkhole
+##### Sinkhole
 # A sinkhole opens underneath the National Corvette Museum in Bowling Green, Kentucky, swallowing 8 vintage Corvettes including the millionth Corvette built. 
 
 A 40-foot sinkhole developed inside the National Corvette Museum overnight in Bowling Green, KY, swallowing up eight vehicles, including two Corvette models on loan from General Motors. No one was in the museum at the time of the incident, which happened early this morning.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/18/france-orders-mass-inoculation-of-domestic-fowl
 
 ### [2006-02-18](/news/2006/02/18/index.md)
 
-##### inoculation
+##### Inoculation
 #  France orders mass inoculation of domestic fowl following the discovery of an infected dead duck near Lyon. 
 
 

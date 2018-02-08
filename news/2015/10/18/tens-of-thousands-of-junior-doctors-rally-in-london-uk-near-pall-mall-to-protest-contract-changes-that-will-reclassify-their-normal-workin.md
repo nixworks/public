@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/18/tens-of-thousands-of-junior-doctors-rally-in-lo
 
 ### [2015-10-18](/news/2015/10/18/index.md)
 
-##### junior doctor
+##### Junior doctor
 # Tens of thousands of junior doctors rally in London (UK) near Pall Mall to protest contract changes that will reclassify their normal working week to include Saturdays and late evenings, and the government's threat to impose a new contract. 
 
 At London protest Dr Johann Malawana tells health secretary to stop lambasting junior medics, in bid to stop BMA strike

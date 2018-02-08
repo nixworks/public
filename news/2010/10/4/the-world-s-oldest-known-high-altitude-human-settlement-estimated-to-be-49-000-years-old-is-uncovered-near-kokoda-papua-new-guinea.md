@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/4/the-world-s-oldest-known-high-altitude-human-set
 
 ### [2010-10-4](/news/2010/10/4/index.md)
 
-##### high altitude
+##### High altitude
 # The world's oldest known high altitude human settlement, estimated to be 49,000 years old, is uncovered near Kokoda, Papua New Guinea. 
 
 

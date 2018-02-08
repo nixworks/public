@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/7/voters-in-the-united-kingdom-go-to-the-polls-for
 
 ### [2015-05-7](/news/2015/05/7/index.md)
 
-##### newly elected
+##### Newly elected
 # Voters in the United Kingdom go to the polls for a general election with the Conservative Party winning a narrow majority in the House of Commons after the election. 
 
 Preliminary results of final Guardian/ICM campaign poll show Labour and Conservatives tied at 35% each

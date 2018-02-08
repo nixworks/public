@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/4/2011a2012-russian-protests-over-100-000-people-p
 
 ### [2012-02-4](/news/2012/02/4/index.md)
 
-##### rally
+##### Rally
 # 2011-2012 Russian protests: Over 100,000 people protest for and against Russian Prime Minister Vladimir Putin in Moscow. 
 
 

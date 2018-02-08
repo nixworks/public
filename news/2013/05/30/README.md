@@ -17,7 +17,7 @@ Father of Ibragim Todashev, who died during questioning over links to alleged Bo
 
 ##### Maroon 5
 ### [Maroon 5 frontman Adam Levine makes an "unpatriotic" comment on television, prompting calls for him to be removed to a "Communist country" or pursued by secretive anti-terrorism hit squads. Levine responds by tweeting dictionary definitions of words such as "joke", "humourless" and "lighthearted" but is later forced to apologise for his indiscretion. ](/news/2013/05/30/maroon-5-frontman-adam-levine-makes-an-unpatriotic-comment-on-television-prompting-calls-for-him-to-be-removed-to-a-communist-country-o.md)
-_Context: Adam Levine, Maroon 5, Communist_
+_Context: Communist, Adam Levine, Maroon 5_
 
 ##### Grumpy Cat
 ### [It is announced that Internet sensation Grumpy Cat will star in a feature-length movie. ](/news/2013/05/30/it-is-announced-that-internet-sensation-grumpy-cat-will-star-in-a-feature-length-movie.md)
@@ -27,9 +27,9 @@ _Context: Grumpy Cat_
 ### [There is no added benefit obtained from a double dose of Tamiflu according to a new study. ](/news/2013/05/30/there-is-no-added-benefit-obtained-from-a-double-dose-of-tamiflu-according-to-a-new-study.md)
 _Context: Tamiflu_
 
-##### genetically modified wheat
+##### Genetically modified wheat
 ### [Following the controversial discovery of genetically modified wheat on a U.S. farm on May 29, Japan suspends imports of wheat from the U.S. ](/news/2013/05/30/following-the-controversial-discovery-of-genetically-modified-wheat-on-a-u-s-farm-on-may-29-japan-suspends-imports-of-wheat-from-the-u-s.md)
-_Context: wheat, genetically modified wheat, Japan_
+_Context: Japan, genetically modified wheat, wheat_
 
 ##### Hezbollah
 ### [Nigeria soldiers uncover a large stock of weapons that they believe belonged to Hezbollah. ](/news/2013/05/30/nigeria-soldiers-uncover-a-large-stock-of-weapons-that-they-believe-belonged-to-hezbollah.md)
@@ -51,7 +51,7 @@ Franko Simatovic and Jovica Stanisic were accused of crimes against humanity com
 ### [A court in Mold, Wales, finds Mark Bridger guilty of abducting and murdering five-year-old April Jones in October 2012. ](/news/2013/05/30/a-court-in-mold-wales-finds-mark-bridger-guilty-of-abducting-and-murdering-five-year-old-april-jones-in-october-2012.md)
 Mark Bridger, found guilty of abducting and murdering five-year-old April Jones, is told he must spend the rest of his life behind bars.
 
-##### banning same-sex marriage
+##### Banning same-sex marriage
 ### [Nigeria passes a law banning same-sex marriage. ](/news/2013/05/30/nigeria-passes-a-law-banning-same-sex-marriage.md)
 _Context: banning same-sex marriage_
 
@@ -63,13 +63,13 @@ _Context: Seton Hall University, bomb threat_
 ### [New analysis suggests that turtles evolved a shell 40 million years earlier than previously thought. ](/news/2013/05/30/new-analysis-suggests-that-turtles-evolved-a-shell-40-million-years-earlier-than-previously-thought.md)
 Ever wondered how a turtle gets its shell? They are one of the most unique animals as they form a shell on the outside of their bodies through a fusion of modified ribs, vertebrae and shoulder girdle bones. However, scientists have been left dumbfounded for more than two centuries as to how and when...
 
-##### woolly mammoth
+##### Woolly mammoth
 ### [Russian scientists discover a "perfectly preserved" woolly mammoth carcass containing liquid blood. ](/news/2013/05/30/russian-scientists-discover-a-perfectly-preserved-woolly-mammoth-carcass-containing-liquid-blood.md)
 _Context: woolly mammoth_
 
 ##### Stanford University
 ### [Stanford University researchers unveil a zinc-air battery that is more energy-dense and cheaper than lithium-ion counterparts. ](/news/2013/05/30/stanford-university-researchers-unveil-a-zincaair-battery-that-is-more-energy-dense-and-cheaper-than-lithium-ion-counterparts.md)
-_Context: Stanford University, zinc-air battery, lithium-ion_
+_Context: zinc-air battery, Stanford University, lithium-ion_
 
 ##### (285263) 1998 QE2
 ### [The asteroid (285263) 1998 QE2, expected to approach within 3.6 million miles of Earth on May 31, is discovered to have its own moon.](/news/2013/05/30/the-asteroid-285263-1998-qe2-expected-to-approach-within-3-6-million-miles-of-earth-on-may-31-is-discovered-to-have-its-own-moon.md)

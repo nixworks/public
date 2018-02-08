@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-b
 
 ### [2012-05-13](/news/2012/05/13/index.md)
 
-##### biodiversity
+##### Biodiversity
 # Scientists claim that there is a visible link between the loss of biodiversity and the disappearance of endangered languages and cultures. 
 
 A study by US researchers highlights a link between the loss of biologically rich areas and a decline in linguistic and cultural diversity.

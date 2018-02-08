@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/11/the-opposition-pan-blue-alliance-achieves-a-maj
 
 ### [2004-12-11](/news/2004/12/11/index.md)
 
-##### pan-blue alliance
+##### Pan-blue alliance
 #  The opposition pan-blue alliance achieves a majority in the Taiwanese legislative election, garnering at least 114 of the 225 seats. The governing Democratic Progressive Party and its pan-green allies win 101 seats.
 
 

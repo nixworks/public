@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/23/the-price-of-crude-oil-falls-to-a-seven-month-l
 
 ### [2012-05-23](/news/2012/05/23/index.md)
 
-##### crude oil
+##### Crude oil
 # The price of crude oil falls to a seven-month low due to high supply and constructive talks regarding Iran's nuclear program. 
 
 Oil prices fell below $90 a barrel for the first time since November; the euro fell to its lowest level in nearly two years.

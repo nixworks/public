@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/18/about-400-000-illegal-immigrants-were-deported-
 
 ### [2011-10-18](/news/2011/10/18/index.md)
 
-##### illegal immigrants
+##### Illegal immigrants
 # About 400,000 illegal immigrants were deported from the United States in the 2011 fiscal year, the most deportations ever in United States history, according to a report released by U.S. Immigration and Customs Enforcement. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1
 
 ### [2007-04-20](/news/2007/04/20/index.md)
 
-##### earthquake
+##### Earthquake
 #  A series of earthquakes, the strongest being 6.1 magnitude, strikes the Okinawa island chain of Japan. A tsunami warning is issued but later cancelled. 
 
 

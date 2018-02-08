@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/4/a-military-judge-dismisses-terrorism-related-cha
 
 ### [2007-06-4](/news/2007/06/4/index.md)
 
-##### terrorism
+##### Terrorism
 #  A military judge dismisses terrorism-related charges against a Canadian Guantanamo Bay detainee charged with killing a United States Army soldier in Afghanistan. 
 
 

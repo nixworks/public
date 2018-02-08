@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/10/the-death-toll-from-the-fire-in-the-san-francis
 
 ### [2010-09-10](/news/2010/09/10/index.md)
 
-##### fire
+##### Fire
 # The death toll from the fire in the San Francisco suburb of San Bruno in the U.S. state of California, reaches 4, with 50 other people injured. 
 
 Homes are still smouldering in the San Bruno, Calif. neighborhood that was destroyed last night by a massive explosion and fire that killed at least four people and injured over 50 others. Today, survivors shared dramatic stories of fleeing their homes to save their own lives. Many residents were...

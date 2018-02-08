@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### denial-of-service
+##### Denial-of-service
 # An ongoing denial-of-service cyber attack knocks Burma off the internet, days ahead of the general election. 
 
 

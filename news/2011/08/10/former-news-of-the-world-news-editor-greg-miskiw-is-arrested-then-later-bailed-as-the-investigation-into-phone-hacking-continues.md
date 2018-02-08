@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/10/former-news-of-the-world-news-editor-greg-miski
 
 ### [2011-08-10](/news/2011/08/10/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # Former "News of the World" news editor Greg Miskiw is arrested, then later bailed as the investigation into phone-hacking continues. 
 
 A 61-year-old man, believed to be former News of the World news editor Greg Miskiw, has been released on bail after he was arrested in the phone-hacking probe, Scotland Yard says.

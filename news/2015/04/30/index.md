@@ -5,11 +5,11 @@ Formats: [HTML](2015/04/30/index.html)  [JSON](2015/04/30/index.json)  [XML](201
 
 ##### 2015 West African offensive
 ### [2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. ](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.md)
-_Context: 2015 West African offensive, Nigerian Army, Boko Haram, Sambisa Forest_
+_Context: Sambisa Forest, Nigerian Army, 2015 West African offensive, Boko Haram_
 
 ##### Yemeni Civil War (2015)
 ### [Yemeni Civil War (2015): Dozens of Houthi fighters are killed in clashes with Saudi Arabian forces on the border while air strikes hit the southern city of Aden. ](/news/2015/04/30/yemeni-civil-war-2015-dozens-of-houthi-fighters-are-killed-in-clashes-with-saudi-arabian-forces-on-the-border-while-air-strikes-hit-the-s.md)
-_Context: Yemeni Civil War (2015), Aden, Houthi_
+_Context: Aden, Houthi, Yemeni Civil War (2015)_
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Two state police officers and six other people are dead following a gunfight in the southern state of Guerrero between police and suspected kidnappers. ](/news/2015/04/30/mexican-drug-war-two-state-police-officers-and-six-other-people-are-dead-following-a-gunfight-in-the-southern-state-of-guerrero-between-pol.md)
@@ -19,11 +19,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Russian financial crisis (2014-present): The Central Bank of Russia lowers its interest rate the third time to 12.5%, a drop from 14%. ](/news/2015/04/30/russian-financial-crisis-2014apresent-the-central-bank-of-russia-lowers-its-interest-rate-the-third-time-to-12-5-a-drop-from-14.md)
 * Central bank reduces key lending rate to 12.5 pct* Cut is bigger than most analysts forecast* Risks to financial stability preclude larger
 
-##### sovereign bonds
+##### Sovereign bonds
 ### [The sovereign bonds of Germany experience second straight day of historic sell-off, dragging other securities in much of the continent with them. ](/news/2015/04/30/the-sovereign-bonds-of-germany-experience-second-straight-day-of-historic-sell-off-dragging-other-securities-in-much-of-the-continent-with.md)
 Germany’s 10-year bonds suffered their deepest two-day loss in more than three years as traders capitulated on bets the European Central Bank’s quantitative-easing plan would drive up prices on the continent’s benchmark securities.
 
-##### suspicions
+##### Suspicions
 ### [April 2015 Nepal earthquake: A teenager is pulled alive out of the wreckage of a guesthouse on the outskirts of Kathmandu after five days. ](/news/2015/04/30/april-2015-nepal-earthquake-a-teenager-is-pulled-alive-out-of-the-wreckage-of-a-guesthouse-on-the-outskirts-of-kathmandu-after-five-days.md)
 Rescuers on Thursday pulled a teenage boy out alive from under the wreckage of a guesthouse in Nepal five days after it collapsed in a massive weekend earthquake.
 

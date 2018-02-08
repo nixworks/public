@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/12/a-study-finds-a-correlation-between-insufficien
 
 ### [2013-03-12](/news/2013/03/12/index.md)
 
-##### correlation
+##### Correlation
 # A study finds a correlation between insufficient sleep and weight gain. 
 
 Researchers find that insufficient sleep can lead to weight gain because people tend to consume more calories. 

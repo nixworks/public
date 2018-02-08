@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/28/according-to-declassified-documents-released-th
 
 ### [2009-08-28](/news/2009/08/28/index.md)
 
-##### survival manual
+##### Survival manual
 #  According to declassified documents released this week, a survival manual produced by Transport Canada was used by U.S. interrogators to set limits on dousing detainees with cold water as a form of water torture. 
 
 

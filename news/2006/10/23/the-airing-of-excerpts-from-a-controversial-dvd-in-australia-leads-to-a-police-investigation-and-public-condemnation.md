@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/23/the-airing-of-excerpts-from-a-controversial-dvd
 
 ### [2006-10-23](/news/2006/10/23/index.md)
 
-##### controversial DVD
+##### Controversial DVD
 #  The airing of excerpts from a controversial DVD in Australia leads to a police investigation and public condemnation.
 
 

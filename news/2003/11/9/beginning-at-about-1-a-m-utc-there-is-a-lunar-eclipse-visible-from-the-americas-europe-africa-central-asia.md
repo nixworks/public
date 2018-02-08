@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/9/beginning-at-about-1-a-m-utc-there-is-a-lunar-ec
 
 ### [2003-11-9](/news/2003/11/9/index.md)
 
-##### lunar eclipse
+##### Lunar eclipse
 #  Beginning at about 1 a.m. UTC there is a lunar eclipse, visible from the Americas, Europe, Africa, central Asia.
 
 

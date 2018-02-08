@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/26/a-scaffolding-collapses-in-ha-ta-c-nh-province-
 
 ### [2015-03-26](/news/2015/03/26/index.md)
 
-##### scaffolding
+##### Scaffolding
 # A scaffolding collapses in Ha Tinh Province in Vietnam, killing at least fourteen people and leaving around thirty others injured. 
 
 - Vietnamese soldiers and policejoined a rescue mission on Thursday searching for survivorsafter a huge scaffolding collapsed, killing 14 workers andinjuring 30 in central Vietnam, the government and statetelevision said.

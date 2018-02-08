@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/13/a-1430-s-painting-in-a-museum-in-rotterdam-the-
 
 ### [2012-09-13](/news/2012/09/13/index.md)
 
-##### a museum
+##### A museum
 # A 1430's painting in a museum in Rotterdam, "The three Mary's at the tomb", is attributed to Jan van Eyck. 
 
 

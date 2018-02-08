@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/26/hurricane-irene-approaches-the-east-coast-of-th
 
 ### [2011-08-26](/news/2011/08/26/index.md)
 
-##### east coast of the United States
+##### East coast of the United States
 # Hurricane Irene approaches the east coast of the United States ahead of making landfall on Saturday with 50 million people in its path. 
 
 Hurricane Irene was bearing down on North Carolina Thursday on track to make landfall in the Outer Banks Saturday afternoon, WRAL meteorologist Mike Maze said. The first signs of the storm could be felt in North Carolina Friday night as tropical storm force winds and heavy rain. 

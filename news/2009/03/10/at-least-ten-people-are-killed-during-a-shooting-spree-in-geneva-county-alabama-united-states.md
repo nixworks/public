@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/10/at-least-ten-people-are-killed-during-a-shootin
 
 ### [2009-03-10](/news/2009/03/10/index.md)
 
-##### shooting spree
+##### Shooting spree
 #  At least ten people are killed during a shooting spree in Geneva County, Alabama, United States. 
 
 

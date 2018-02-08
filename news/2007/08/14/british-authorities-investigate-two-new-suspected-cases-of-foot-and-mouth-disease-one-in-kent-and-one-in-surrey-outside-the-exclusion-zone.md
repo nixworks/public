@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/14/british-authorities-investigate-two-new-suspect
 
 ### [2007-08-14](/news/2007/08/14/index.md)
 
-##### foot and mouth
+##### Foot and mouth
 #  British authorities investigate two new suspected cases of foot and mouth disease, one in Kent and one in Surrey outside the exclusion zone. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/13/the-governor-of-the-japanese-prefecture-of-okin
 
 ### [2015-10-13](/news/2015/10/13/index.md)
 
-##### relocate MCAS Futenma to Henoko Bay in Nago
+##### Relocate MCAS Futenma to Henoko Bay in Nago
 # The Governor of the Japanese prefecture of Okinawa, Takeshi Onaga, revokes permission given by a predecessor for landfill work to replace a United States Marine Corps base. 
 
 

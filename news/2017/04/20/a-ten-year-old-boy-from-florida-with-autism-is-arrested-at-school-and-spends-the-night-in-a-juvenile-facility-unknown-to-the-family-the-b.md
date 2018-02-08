@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/20/a-ten-year-old-boy-from-florida-with-autism-is-
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
-##### the state
+##### The state
 # A ten-year-old boy from Florida with autism is arrested at school, and spends the night in a juvenile facility. Unknown to the family, the boy had an outstanding warrant for his arrest after kicking and scratching one of his educators. The Autism Society of America is looking into legal options. 
 
 John Benjamin Haygood was arrested on felony battery charges &mdash; but a Florida prosecutor plans to offer him a &ldquo;nonjudicial sanction.&rdquo; His mother, however, said that her son &ldquo;didn&rsquo;t do anything wrong.&rdquo;

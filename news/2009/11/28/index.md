@@ -3,7 +3,7 @@ Formats: [HTML](2009/11/28/index.html)  [JSON](2009/11/28/index.json)  [XML](200
 
 ## [2009-11-28](/news/2009/11/28/index.md)
 
-##### ferry accident
+##### Ferry accident
 ### [ The death toll in a ferry accident in southern Bangladesh rises to 33. ](/news/2009/11/28/the-death-toll-in-a-ferry-accident-in-southern-bangladesh-rises-to-33.md)
 Rescue workers struggled to find survivors Saturday after at least 33 people died when a Bangladesh ferry overloaded with people returning home to...
 
@@ -13,7 +13,7 @@ Sarath Fonseka says he plans to contest presidential polls - Sri Lanka&#039;s fo
 
 ##### China
 ### [ A Chinese court hears the first civil lawsuit by a parent whose child fell ill during last year's tainted milk scandal. ](/news/2009/11/28/a-chinese-court-hears-the-first-civil-lawsuit-by-a-parent-whose-child-fell-ill-during-last-year-s-tainted-milk-scandal.md)
-_Context: 2008 Chinese milk scandal, China_
+_Context: China, 2008 Chinese milk scandal_
 
 ##### Government of Ireland
 ### [ The Government of Ireland promises more money to the flood relief fund as ongoing flooding worsens in some counties, including Clare, Galway and Offaly. ](/news/2009/11/28/the-government-of-ireland-promises-more-money-to-the-flood-relief-fund-as-ongoing-flooding-worsens-in-some-counties-including-clare-galwa.md)
@@ -23,13 +23,13 @@ The Government has confirmed that further financial assistance will be made avai
 ### [ Protesters and police clash at a demonstration protesting a meeting of the World Trade Organization in Geneva, Switzerland. ](/news/2009/11/28/protesters-and-police-clash-at-a-demonstration-protesting-a-meeting-of-the-world-trade-organization-in-geneva-switzerland.md)
 Demonstrators have smashed shop windows and set fire to cars in central Geneva during a protest against the World Trade Organisation (WTO). ...
 
-##### ferry
+##### Ferry
 ### [ At least 73 people die as a ferry sinks in Lake Mai-Ndombe in the Democratic Republic of the Congo. ](/news/2009/11/28/at-least-73-people-die-as-a-ferry-sinks-in-lake-mai-ndombe-in-the-democratic-republic-of-the-congo.md)
-_Context: ferry, DR Congo, Lake Mai-Ndombe_
+_Context: Lake Mai-Ndombe, DR Congo, ferry_
 
 ##### Pakistan
 ### [ Pakistan's National Reconciliation Ordinance, issued by former President Pervez Musharraf in October 2007 to provide several thousand politicians (including current President Asif Ali Zardari) amnesty from charges of political corruption, expires. ](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.md)
-_Context: Pakistan, corruption, president, Pervez Musharraf, amnesty protecting him, amnesty, Asif Ali Zardari_
+_Context: Pervez Musharraf, president, amnesty protecting him, Pakistan, Asif Ali Zardari, corruption, amnesty_
 
 ##### Russia
 ### [ Russia's prosecutor general opens a criminal case into the 2009 Nevsky Express bombing which killed at least 26 people yesterday. ](/news/2009/11/28/russia-s-prosecutor-general-opens-a-criminal-case-into-the-2009-nevsky-express-bombing-which-killed-at-least-26-people-yesterday.md)
@@ -41,11 +41,11 @@ _Context: Shanghai Pudong International Airport, Zimbabwe_
 
 ##### Japan
 ### [ Japan launches its fifth spy satellite on the H-IIA rocket from the Tanegashima Space Center. ](/news/2009/11/28/japan-launches-its-fifth-spy-satellite-on-the-h-iia-rocket-from-the-tanegashima-space-center.md)
-_Context: spy satellite, Japan, Tanegashima Space Center, H-IIA_
+_Context: H-IIA, Japan, Tanegashima Space Center, spy satellite_
 
-##### elections last week
+##### Elections last week
 ### [ A second day of voting in national and presidential elections in Namibia takes place. ](/news/2009/11/28/a-second-day-of-voting-in-national-and-presidential-elections-in-namibia-takes-place.md)
-_Context: Namibia, elections last week_
+_Context: elections last week, Namibia_
 
 ## [Previous Day...](/news/2009/11/27/index.md)
 

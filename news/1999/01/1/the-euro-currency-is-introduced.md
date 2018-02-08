@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/01/1/the-euro-currency-is-introduced.html)  [JSON](/n
 
 ### [1999-01-1](/news/1999/01/1/index.md)
 
-##### euro
+##### Euro
 #  The euro currency is introduced.
 
 

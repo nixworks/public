@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/10/five-people-drown-in-heavy-flooding-around-the-
 
 ### [2007-03-10](/news/2007/03/10/index.md)
 
-##### flood
+##### Flood
 #  Five people drown in heavy flooding around the town of Labasa on the island of Vanua Levu in Fiji. 
 
 

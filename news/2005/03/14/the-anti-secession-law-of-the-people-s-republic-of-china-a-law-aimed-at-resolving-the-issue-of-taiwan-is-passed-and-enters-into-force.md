@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/14/the-anti-secession-law-of-the-people-s-republic
 
 ### [2005-03-14](/news/2005/03/14/index.md)
 
-##### anti-secession law
+##### Anti-secession law
 #  The Anti-Secession Law of the People's Republic of China, a law aimed at resolving the issue of Taiwan, is passed and enters into force. 
 
 

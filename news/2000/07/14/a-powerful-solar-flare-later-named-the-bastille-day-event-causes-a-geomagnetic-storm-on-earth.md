@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/07/14/a-powerful-solar-flare-later-named-the-bastille
 
 ### [2000-07-14](/news/2000/07/14/index.md)
 
-##### solar flare
+##### Solar flare
 #  A powerful solar flare, later named the Bastille Day event, causes a geomagnetic storm on Earth.
 
 

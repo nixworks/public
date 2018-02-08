@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/4/same-sex-marriage-in-massachusetts-the-massachus
 
 ### [2004-02-4](/news/2004/02/4/index.md)
 
-##### to get married
+##### To get married
 #  Same-sex marriage in Massachusetts: The Massachusetts Supreme Judicial Court, the state supreme court of Massachusetts, issues a response to a Massachusetts Senate question about instituting civil unions, such as the civil unions on Vermont, would meet the requirements of the 4-3 decision in "Goodridge v. Department of Public Health" issued in November 2003. The Court responds that such civil unions would not be sufficient to comply with "Goodridge", in which the Court held that not allowing same-sex couples to marry violated the Massachusetts Constitution. White House Press Secretary Scott McClellan states that the Bush administration is reviewing the decision, that the Court's ruling is "deeply troubling", and that President Bush is "firmly committed to protecting and defending" marriage.
 
 

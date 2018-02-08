@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/7/a-bus-catches-fire-in-the-chinese-city-of-xiamen
 
 ### [2013-06-7](/news/2013/06/7/index.md)
 
-##### catches fire
+##### Catches fire
 # A bus catches fire in the Chinese city of Xiamen, killing at least 42 people and injuring more than 30 others. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -15,7 +15,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [A bus plunges off a mountain road in the Indian state of Himachal Pradesh, killing at least 18 people and injuring 14 others. ](/news/2013/06/7/a-bus-plunges-off-a-mountain-road-in-the-indian-state-of-himachal-pradesh-killing-at-least-18-people-and-injuring-14-others.md) _2018-02-06 16:00:27 (First version)_
+1. [A bus plunges off a mountain road in the Indian state of Himachal Pradesh, killing at least 18 people and injuring 14 others. ](/news/2013/06/7/a-bus-plunges-off-a-mountain-road-in-the-indian-state-of-himachal-pradesh-killing-at-least-18-people-and-injuring-14-others.md) _2018-02-07 04:35:28 (First version)_
 1. [A bus catches fire in the Chinese city of Xiamen, killing at least 42 people and injuring more than 30 others. ](/news/2013/06/7/a-bus-catches-fire-in-the-chinese-city-of-xiamen-killing-at-least-42-people-and-injuring-more-than-30-others.md) _(Current version)_
 
 ### Related:

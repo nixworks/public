@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/2/to-stop-the-rapid-spread-of-avian-influenza-in-b
 
 ### [2004-04-2](/news/2004/04/2/index.md)
 
-##### avian influenza
+##### Avian influenza
 #  To stop the rapid spread of avian influenza in British Columbia, the Canadian Food Inspection Agency could kill up to 16 million chickens in poultry farms around Abbotsford, British Columbia. 
 
 

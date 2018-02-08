@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/9/rodrigo-duterte-says-he-might-declare-martial-la
 
 ### [2016-08-9](/news/2016/08/9/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. 
 
 

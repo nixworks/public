@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/16/a-presidential-election-takes-place-in-nigeria.
 
 ### [2011-04-16](/news/2011/04/16/index.md)
 
-##### presidential election
+##### Presidential election
 # A presidential election takes place in Nigeria. 
 
 

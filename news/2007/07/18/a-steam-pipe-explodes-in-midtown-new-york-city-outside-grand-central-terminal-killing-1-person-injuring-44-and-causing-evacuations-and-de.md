@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/18/a-steam-pipe-explodes-in-midtown-new-york-city-
 
 ### [2007-07-18](/news/2007/07/18/index.md)
 
-##### steam pipe explodes
+##### Steam pipe explodes
 #  A steam pipe explodes in Midtown New York City outside Grand Central Terminal; killing 1 person, injuring 44 and causing evacuations and delays throughout the area. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/9/dail-eireann-debates-a-motion-of-no-confidence-a
 
 ### [2009-06-9](/news/2009/06/9/index.md)
 
-##### lower house
+##### Lower house
 #  Dil ireann debates a motion of no confidence against the Government of Ireland as George Lee and Maureen O'Sullivan make their debuts in the 30th Dil. 
 
 The Taoiseach, Brian Cowen, has told the Fianna Fáil parliamentary party that he will meet individual TDs and Senators to discuss the outcome of the local and European elections.

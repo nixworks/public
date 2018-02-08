@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/16/a-6-9-magnitude-earthquake-occurs-near-siberut-
 
 ### [2009-08-16](/news/2009/08/16/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 6.9 magnitude earthquake occurs near Siberut Island, Sumatra, Indonesia, at 14:38 local time, injuring at least seven people. 
 
 

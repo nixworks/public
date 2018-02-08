@@ -7,7 +7,7 @@ Formats: [HTML](2009/08/30/index.html)  [JSON](2009/08/30/index.json)  [XML](200
 ### [ Japanese voters go to the polls. ](/news/2009/08/30/japanese-voters-go-to-the-polls.md)
 The Democratic Party of Japan has promised to reverse the economic decline and redefine Tokyo’s relationship with the U.S.
 
-##### disputed presidential election
+##### Disputed presidential election
 ### [ A presidential election takes place in Gabon. ](/news/2009/08/30/a-presidential-election-takes-place-in-gabon.md)
 With the opposition divided, the son of the late president is expected to take power.
 
@@ -29,11 +29,11 @@ _Context: Yaounde, Cameroon_
 
 ##### Internal conflict in Peru
 ### [ The remains of 92 victims of a military massacre in Putis, Peru, are laid to rest 25 years later.](/news/2009/08/30/the-remains-of-92-victims-of-a-military-massacre-in-putis-peru-are-laid-to-rest-25-years-later.md)
-_Context: Internal conflict in Peru, Putis, Peru_
+_Context: Internal conflict in Peru, Peru, Putis_
 
 ##### Ehud Olmert
 ### [ Ehud Olmert is indicted on three counts of corruption, becoming the first ex-Prime Minister of Israel to face criminal charges. ](/news/2009/08/30/ehud-olmert-is-indicted-on-three-counts-of-corruption-becoming-the-first-ex-prime-minister-of-israel-to-face-criminal-charges.md)
-_Context: Israel, Ehud Olmert_
+_Context: Ehud Olmert, Israel_
 
 ##### Al Qaeda
 ### [ Al Qaeda claims responsibility for the attempted assassination on Saudi Prince Muhammad bin Nayef. ](/news/2009/08/30/al-qaeda-claims-responsibility-for-the-attempted-assassination-on-saudi-prince-muhammad-bin-nayef.md)
@@ -41,11 +41,11 @@ Group says Abdullah al-Asiri crossed over from Yemen to carry out attack on inte
 
 ##### Iran
 ### [ The Iranian Parliament begins debating President Mahmoud Ahmadinejads choice of Cabinet. ](/news/2009/08/30/the-iranian-parliament-begins-debating-president-mahmoud-ahmadinejads-choice-of-cabinet.md)
-_Context: Iran, President, Mahmoud Ahmadinejad, Islamic Consultative Assembly of Iran_
+_Context: Mahmoud Ahmadinejad, Islamic Consultative Assembly of Iran, President, Iran_
 
 ##### Burma
 ### [ Burma says 26 government troops and 8 rebels were killed during violence in the Kokang region of Shan State. ](/news/2009/08/30/burma-says-26-government-troops-and-8-rebels-were-killed-during-violence-in-the-kokang-region-of-shan-state.md)
-_Context: rebels, Myanmar Armed Forces, Shan State, Burma, violence, Kokang_
+_Context: Burma, rebels, Kokang, Myanmar Armed Forces, violence, Shan State_
 
 ##### 14th Dalai Lama
 ### [ The Dalai Lama begins a visit to Taiwan, amid criticism from China. ](/news/2009/08/30/the-dalai-lama-begins-a-visit-to-taiwan-amid-criticism-from-china.md)

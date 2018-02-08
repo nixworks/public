@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/29/two-passenger-trains-collide-in-the-swiss-munic
 
 ### [2013-07-29](/news/2013/07/29/index.md)
 
-##### collide
+##### Collide
 # Two passenger trains collide in the Swiss municipality of Granges-pres-Marnand near Lausanne resulting in dozens of injuries including four serious injuries. 
 
 Two passenger trains collided in Switzerland early Monday evening, leaving several dozen wounded - at least five of whom are in serious condition. The body of one of the drivers has been recovered from the rubble, local media reported.

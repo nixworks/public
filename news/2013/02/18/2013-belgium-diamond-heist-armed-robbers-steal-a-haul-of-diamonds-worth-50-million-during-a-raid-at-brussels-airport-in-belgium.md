@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/18/2013-belgium-diamond-heist-armed-robbers-steal-
 
 ### [2013-02-18](/news/2013/02/18/index.md)
 
-##### robber
+##### Robber
 # 2013 Belgium diamond heist: Armed robbers steal a haul of diamonds worth $50 million during a raid at Brussels Airport in Belgium. 
 
 Armed robbers disguised as police escape with a massive haul of diamonds after a rapid raid at Brussels Airport, Belgian police say.

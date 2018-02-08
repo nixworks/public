@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/2/2011-libyan-civil-war-seven-rebels-are-killed-an
 
 ### [2011-08-2](/news/2011/08/2/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Seven rebels are killed and 50 injured in fighting in the town of Zlitan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/11/judge-john-kessler-declares-a-mistrial-in-the-c
 
 ### [2008-02-11](/news/2008/02/11/index.md)
 
-##### mistrial
+##### Mistrial
 #  Judge John Kessler declares a mistrial in the case of China Arnold, who allegedly microwaved her baby to death. 
 
 

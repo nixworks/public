@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/29/the-composer-and-pianist-elton-john-cancels-his
 
 ### [2009-10-29](/news/2009/10/29/index.md)
 
-##### pianist
+##### Pianist
 #  The composer and pianist Elton John cancels his 30 October final date of The Red Piano Tour scheduled for The O2, Dublin, due to declining health. 
 
 Elton John (62) has pulled out of his Dublin concert tomorrow night after suffering a serious bout of flu.

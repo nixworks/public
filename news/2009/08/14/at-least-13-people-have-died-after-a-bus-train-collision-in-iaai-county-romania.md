@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/14/at-least-13-people-have-died-after-a-bus-train-
 
 ### [2009-08-14](/news/2009/08/14/index.md)
 
-##### bus-train collision
+##### Bus-train collision
 #  At least 13 people have died after a bus-train collision in Iasi County, Romania. 
 
 Other two people of those injured on Friday in the train-hit van in Iasi, north-eastern Romania, died on the way to the hospital, increasing the death toll to thirteen, including one infant, deputy secretary of state...

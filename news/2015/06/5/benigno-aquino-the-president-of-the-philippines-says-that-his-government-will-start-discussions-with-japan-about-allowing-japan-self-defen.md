@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/5/benigno-aquino-the-president-of-the-philippines-
 
 ### [2015-06-5](/news/2015/06/5/index.md)
 
-##### his predecessor
+##### His predecessor
 # Benigno Aquino, the President of the Philippines, says that his government will start discussions with Japan about allowing Japan Self-Defense Forces to refuel at Filipino bases allowing the extension of operations into the South China Sea. 
 
 

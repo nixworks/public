@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/18/burma-bans-all-foreign-media-and-international-
 
 ### [2010-10-18](/news/2010/10/18/index.md)
 
-##### general elections
+##### General elections
 # Burma bans all foreign media and international observers from the upcoming general election in November. 
 
 Election observers and foreign journalists will not be allowed into Burma for its first polls in two decades, officials say.

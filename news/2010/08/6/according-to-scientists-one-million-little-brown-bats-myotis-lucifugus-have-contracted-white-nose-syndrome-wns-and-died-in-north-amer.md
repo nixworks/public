@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/6/according-to-scientists-one-million-little-brown
 
 ### [2010-08-6](/news/2010/08/6/index.md)
 
-##### little brown bat
+##### Little brown bat
 # According to scientists, one million little brown bats ("Myotis lucifugus") have contracted white nose syndrome (WNS) and died in North America. 
 
 A disease known as white-nose syndrome is likely to wipe out a once-common species of bat in the north-eastern US, according to scientists.

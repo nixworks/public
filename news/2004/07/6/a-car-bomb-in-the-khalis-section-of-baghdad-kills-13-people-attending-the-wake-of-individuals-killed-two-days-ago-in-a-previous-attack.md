@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/6/a-car-bomb-in-the-khalis-section-of-baghdad-kill
 
 ### [2004-07-6](/news/2004/07/6/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in the Khalis section of Baghdad kills 13 people attending the wake of individuals killed two days ago in a previous attack. 
 
 

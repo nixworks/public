@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/28/hundreds-of-corpses-buried-in-a-mudslide-which-
 
 ### [2010-05-28](/news/2010/05/28/index.md)
 
-##### buried in a mudslide
+##### Buried in a mudslide
 # Hundreds of corpses buried in a mudslide which swept away three villages on the slopes of Mount Elgon near Bududa, Uganda, three months ago are yet to be recovered. 
 
 Hundreds of bodies buried in a mudslide in Uganda three months ago have yet to be recovered, the rescue team says.

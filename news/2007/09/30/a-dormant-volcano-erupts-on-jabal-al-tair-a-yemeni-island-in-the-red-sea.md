@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/30/a-dormant-volcano-erupts-on-jabal-al-tair-a-yem
 
 ### [2007-09-30](/news/2007/09/30/index.md)
 
-##### volcano
+##### Volcano
 #  A dormant volcano erupts on Jabal al-Tair, a Yemeni island in the Red Sea. 
 
 

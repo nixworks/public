@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/15/the-number-of-deaths-resulting-from-the-mers-ou
 
 ### [2015-06-15](/news/2015/06/15/index.md)
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 # The number of deaths resulting from the MERS outbreak in South Korea rises to sixteen with the number of total cases rising to 150. 
 
 

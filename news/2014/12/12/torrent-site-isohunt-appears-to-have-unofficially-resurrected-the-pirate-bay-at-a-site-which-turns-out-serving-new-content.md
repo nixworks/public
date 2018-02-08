@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/12/torrent-site-isohunt-appears-to-have-unofficial
 
 ### [2014-12-12](/news/2014/12/12/index.md)
 
-##### isoHunt
+##### IsoHunt
 # Torrent site isoHunt appears to have unofficially resurrected The Pirate Bay at a site which turns out serving new content. 
 
 This is the best alternative so far.

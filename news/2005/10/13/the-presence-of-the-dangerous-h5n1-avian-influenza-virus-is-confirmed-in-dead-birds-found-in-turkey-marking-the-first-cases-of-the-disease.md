@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influe
 
 ### [2005-10-13](/news/2005/10/13/index.md)
 
-##### bird flu
+##### Bird flu
 #  The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. 
 
 

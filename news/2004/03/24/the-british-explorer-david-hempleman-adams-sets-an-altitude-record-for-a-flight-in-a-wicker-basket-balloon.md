@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/24/the-british-explorer-david-hempleman-adams-sets
 
 ### [2004-03-24](/news/2004/03/24/index.md)
 
-##### explorer
+##### Explorer
 #  The British explorer David Hempleman-Adams sets an altitude record for a flight in a wicker basket balloon. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/9/australia-announces-that-it-will-accept-an-addit
 
 ### [2015-09-9](/news/2015/09/9/index.md)
 
-##### refugees from Syria
+##### Refugees from Syria
 # Australia announces that it will accept an additional 12,000 Syrian migrants, mostly from persecuted minorities. 
 
 The Coalition party room agrees to accept 12,000 refugees from persecuted minorities and provide an extra $44 million in financial aid.

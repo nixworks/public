@@ -5,7 +5,7 @@ Formats: [HTML](2011/05/19/index.html)  [JSON](2011/05/19/index.json)  [XML](201
 
 ##### Syria
 ### [Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. ](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.md)
-_Context: United States, Syria, Bashar al-Assad, President, protestors_
+_Context: United States, protestors, Syria, President, Bashar al-Assad_
 
 ##### Libya
 ### [Rebels in Libya launch a television channel to counter Muammar Gaddafi's state media. ](/news/2011/05/19/rebels-in-libya-launch-a-television-channel-to-counter-muammar-gaddafi-s-state-media.md)
@@ -21,7 +21,7 @@ _Context: Iraq, Kirkuk_
 
 ##### Danish
 ### [Danish filmmaker Lars von Trier is banned by the Cannes Film Festival for remarks, made in jest, that he sympathizes with Adolf Hitler. Trier later apologises for his comments. ](/news/2011/05/19/danish-filmmaker-lars-von-trier-is-banned-by-the-cannes-film-festival-for-remarks-made-in-jest-that-he-sympathizes-with-adolf-hitler-trie.md)
-_Context: Lars von Trier, Danish, Cannes Film Festival, Adolf Hitler_
+_Context: Danish, Cannes Film Festival, Adolf Hitler, Lars von Trier_
 
 ##### Katie Couric
 ### [US journalist Katie Couric signs off as the host of the CBS Evening News. ](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.md)
@@ -29,11 +29,11 @@ Check out our breaking stories on Hollywood?s hottest stars! Get the latest news
 
 ##### BBC
 ### [A special edition of the BBC's political debate programme "Question Time" is recorded at Wormwood Scrubbs Prison in London. ](/news/2011/05/19/a-special-edition-of-the-bbc-s-political-debate-programme-question-time-is-recorded-at-wormwood-scrubbs-prison-in-london.md)
-_Context: BBC, Question Time, London, Wormwood Scrubbs Prison_
+_Context: Wormwood Scrubbs Prison, London, BBC, Question Time_
 
-##### civil service
+##### Civil service
 ### [A civil service strike in Botswana closes many hospitals. ](/news/2011/05/19/a-civil-service-strike-in-botswana-closes-many-hospitals.md)
-_Context: Botswana, civil service_
+_Context: civil service, Botswana_
 
 ##### Dominique Strauss-Kahn
 ### [Dominique Strauss-Kahn offers his resignation as head of the International Monetary Fund following the charges. ](/news/2011/05/19/dominique-strauss-kahn-offers-his-resignation-as-head-of-the-international-monetary-fund-following-the-charges.md)
@@ -41,27 +41,27 @@ International Monetary Fund head Dominique Strauss-Kahn resigns following an all
 
 ##### Economy of Japan
 ### [The Japanese economy officially goes into recession, in part due to the effects of the 2011 Tohoku earthquake and tsunami. ](/news/2011/05/19/the-japanese-economy-officially-goes-into-recession-in-part-due-to-the-effects-of-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: 2011 Tohoku earthquake and tsunami, recession, Economy of Japan_
+_Context: recession, Economy of Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### John Malone
 ### [John Malone's Liberty Media makes a USD $1 billion bid for bookseller Barnes & Noble. ](/news/2011/05/19/john-malone-s-liberty-media-makes-a-usd-1-billion-bid-for-bookseller-barnes-noble.md)
-_Context: Liberty Media, Barnes & Noble, US dollar, John Malone_
+_Context: US dollar, Liberty Media, Barnes & Noble, John Malone_
 
 ##### Eurasian Economic Community
 ### [The Eurasian Economic Community, led by Russia, offers Belarus a $3 billion bailout package. ](/news/2011/05/19/the-eurasian-economic-community-led-by-russia-offers-belarus-a-3-billion-bailout-package.md)
-_Context: Eurasian Economic Community, Russia, $, Belarus_
+_Context: Belarus, Russia, $, Eurasian Economic Community_
 
 ##### Sol Lineas Aereas Flight 5428
 ### [22 people are killed when Sol Lineas Aereas Flight 5428 crashes in southern Argentina. ](/news/2011/05/19/22-people-are-killed-when-sol-laneas-aa-c-reas-flight-5428-crashes-in-southern-argentina.md)
 All 22 people aboard a commuter plane were killed when it crashed in southern Argentina, the airline said Thursday.
 
-##### magnitude 6.0 earthquake
+##### Magnitude 6.0 earthquake
 ### [A magnitude 6.0 earthquake hits western Turkey, about 230 km south of Istanbul, killing at least two people and leaving many injured. ](/news/2011/05/19/a-magnitude-6-0-earthquake-hits-western-turkey-about-230-km-south-of-istanbul-killing-at-least-two-people-and-leaving-many-injured.md)
 _Context: Istanbul, Turkey, magnitude 6.0 earthquake_
 
 ##### United Nations
 ### [The United Nations World Food Programme calls for "urgent assistance" for the North Korean people due to a food crisis. ](/news/2011/05/19/the-united-nations-world-food-programme-calls-for-urgent-assistance-for-the-north-korean-people-due-to-a-food-crisis.md)
-_Context: North Korea, World Food Programme, United Nations_
+_Context: North Korea, United Nations, World Food Programme_
 
 ##### Arab Spring
 ### [President Obama gives a speech in support of the Arab Spring during which he states that the solution to the Israeli-Palestinian conflict must include Israel reverting its borders back to the pre-1967 borders.](/news/2011/05/19/president-obama-gives-a-speech-in-support-of-the-arab-spring-during-which-he-states-that-the-solution-to-the-israeli-palestinian-conflict-mu.md)
@@ -77,11 +77,11 @@ The man known as the father of the so-called &#034;Great Firewall of China&#034;
 
 ##### Uzbekistan
 ### [The daughter of Uzbek President Islam Karimov sues a French website for calling her father a "dictator". ](/news/2011/05/19/the-daughter-of-uzbek-president-islam-karimov-sues-a-french-website-for-calling-her-father-a-dictator.md)
-_Context: Islam Karimov, France, Uzbekistan, dictator_
+_Context: Uzbekistan, Islam Karimov, France, dictator_
 
 ##### Egypt
 ### [Authorities in Egypt suspend the prison sentences of 120 protesters who participated in the 2011 Egyptian revolution. ](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.md)
-_Context: 2011 Egyptian revolution, Egypt_
+_Context: Egypt, 2011 Egyptian revolution_
 
 ##### Royal Bank of Scotland
 ### [The former boss of the Royal Bank of Scotland, Sir Fred Goodwin, is named as allegedly having had an affair with a colleague after the High Court of England and Wales lifts an injunction. ](/news/2011/05/19/the-former-boss-of-the-royal-bank-of-scotland-sir-fred-goodwin-is-named-as-allegedly-having-had-an-affair-with-a-colleague-after-the-high.md)
@@ -97,7 +97,7 @@ _Context: Seychelles, three day presidential election_
 
 ##### Taoiseach
 ### [Former Taoiseach (Prime Minister) of the Republic of Ireland Garret FitzGerald dies in Dublin aged 85. ](/news/2011/05/19/former-taoiseach-prime-minister-of-the-republic-of-ireland-garret-fitzgerald-dies-in-dublin-aged-85.md)
-_Context: Taoiseach, Irish, Garret FitzGerald, Dublin_
+_Context: Dublin, Irish, Taoiseach, Garret FitzGerald_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye is placed under house arrest. ](/news/2011/05/19/ugandan-opposition-leader-kizza-besigye-is-placed-under-house-arrest.md)

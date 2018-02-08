@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/17/a-federal-judge-rules-the-death-penalty-in-cali
 
 ### [2014-07-17](/news/2014/07/17/index.md)
 
-##### death penalty
+##### Death penalty
 # A federal judge rules the death penalty in California is unconstitutional. 
 
 A federal judge in Orange County ruled Wednesday that California’s death penalty violates the U.S. Constitution’s ban on cruel and unusual punishment.

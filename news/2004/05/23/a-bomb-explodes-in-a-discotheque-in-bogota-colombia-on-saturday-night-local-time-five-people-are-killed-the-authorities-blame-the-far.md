@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/23/a-bomb-explodes-in-a-discotheque-in-bogota-colo
 
 ### [2004-05-23](/news/2004/05/23/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes in a discotheque in Bogot, Colombia, on Saturday night (local time): five people are killed. The authorities blame the FARC paramilitary rebel group. 
 
 

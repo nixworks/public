@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/12/the-death-toll-from-a-heat-wave-in-egypt-this-w
 
 ### [2015-08-12](/news/2015/08/12/index.md)
 
-##### heat wave
+##### Heat wave
 # The death toll from a heat wave in Egypt this week rises to 60. 
 
 

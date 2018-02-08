@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/14/surgeons-separate-craniopagus-conjoined-twin-bo
 
 ### [2016-10-14](/news/2016/10/14/index.md)
 
-##### craniopagus
+##### Craniopagus
 # Surgeons separate craniopagus conjoined twin boys in New York City. 
 
 Twin boys who were conjoined at the tops of their heads have been separated by a team of surgeons in New York.

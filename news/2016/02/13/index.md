@@ -17,17 +17,17 @@ Malian Islamist militant group Ansar Dine said it carried out a suicide and rock
 
 ##### 2016 Taiwan earthquake
 ### [The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. ](/news/2016/02/13/the-death-toll-from-the-earthquake-rises-to-113-with-four-people-still-in-the-rubble-of-the-weiguan-golden-dragon-high-rise-tower-in-tainan.md)
-_Context: 2016 Taiwan earthquake, Tainan_
+_Context: Tainan, 2016 Taiwan earthquake_
 
 ##### Abu Dhabi Plaza
 ### [A huge fire engulfs the under-construction Abu Dhabi Plaza in Astana, Kazakhstan. ](/news/2016/02/13/a-huge-fire-engulfs-the-under-construction-abu-dhabi-plaza-in-astana-kazakhstan.md)
 An 88-story tower still under construction in Kazakhstan’s capital, Astana, was engulfed in a massive blaze early on Saturday. Amateur footage showed the high-rise, dubbed Abu Dhabi Plaza, lit up like an enormous torch.
 
-##### northeastern United States
+##### Northeastern United States
 ### [A dangerous cold snap hits the northeastern United States with the city of Boston, Massachusetts, to face its coldest Valentine's Day in four decades. ](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-united-states-with-the-city-of-boston-massachusetts-to-face-its-coldest-valentine-s-day-in-fou.md)
 A dangerous cold snap bringing life-threatening cold was settling in across the northeastern United States on Saturday and a snow squall triggered a pileup of dozens of vehicles on a Pennsylvania highway that left several people dead.
 
-##### whiteout
+##### Whiteout
 ### [At least three people are killed and more than 50 hospitalized from a 50-plus-car pileup amid strong winds and a whiteout along, the now closed, I-78 near Harrisburg, Pennsylvania, in the U.S. More than 70 people are in a shelter at Jonestown Fire Station. ](/news/2016/02/13/at-least-three-people-are-killed-and-more-than-50-hospitalized-from-a-50-plus-car-pileup-amid-strong-winds-and-a-whiteout-along-the-now-clo.md)
 A pileup involving more than 50 cars shut Interstate 78 in Lebanon County. Forty people were taken to hospitals and there were multiple fatalities.
 

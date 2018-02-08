@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/12/a-fire-has-badly-damaged-a-mosque-in-the-south-
 
 ### [2004-11-12](/news/2004/11/12/index.md)
 
-##### mosque
+##### Mosque
 #  A fire has badly damaged a mosque in the south-eastern village of Helden, Netherlands, in the latest of a series of attacks on Dutch Muslim sites. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/29/general-elections-take-place-in-jamaica-with-pr
 
 ### [2011-12-29](/news/2011/12/29/index.md)
 
-##### general election
+##### General election
 # General elections take place in Jamaica, with preliminary results showing the Opposition People's National Party led by Portia Simpson Miller in a winning position. 
 
 Jamaicans head to the polls on the tourism-dependent Caribbean island today, with their young prime minister&#39;s job on the line.

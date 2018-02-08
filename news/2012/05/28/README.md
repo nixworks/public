@@ -11,9 +11,9 @@ The Syrian army&#39;s bombardment of the city of Hama kills at least 41 people.
 ### [The Revolutionary Armed Forces of Colombia (FARC) releases a video proving that Romeo Langlois, a French reporter they kidnapped on 28 April 2012, is still alive. ](/news/2012/05/28/the-revolutionary-armed-forces-of-colombia-farc-releases-a-video-proving-that-romeo-langlois-a-french-reporter-they-kidnapped-on-28-april.md)
 Colombian FARC rebels on Mondayreleased a proof of life video in which a kidnapped Frenchjournalist appeared relaxed while chatting with the guerrillafighters that took him hostage a month ago.
 
-##### bomb
+##### Bomb
 ### [A suspected bomb explodes in a shopping complex in Nairobi, Kenya, injuring 33 people. ](/news/2012/05/28/a-suspected-bomb-explodes-in-a-shopping-complex-in-nairobi-kenya-injuring-33-people.md)
-_Context: shopping complex, Nairobi, Kenya, bomb_
+_Context: bomb, Nairobi, Kenya, shopping complex_
 
 ##### Lhasa
 ### [For the first time a series of self-immolations have reached the Tibetan capital of Lhasa when two Tibetans set themselves on fire.](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.md)
@@ -35,9 +35,9 @@ A South African newspaper removes from its website an image of a controversial p
 ### [Financial irregularities are revealed at Bloxham Stockbrokers. ](/news/2012/05/28/financial-irregularities-are-revealed-at-bloxham-stockbrokers.md)
 Bloxham Stockbrokers has agreed to transfer all its private client and fund management business to Davy&#39;s after financial irregularities were uncovered at the firm.
 
-##### helicopter
+##### Helicopter
 ### [A helicopter crashes in eastern Afghanistan, killing two ISAF troops. ](/news/2012/05/28/a-helicopter-crashes-in-eastern-afghanistan-killing-two-isaf-troops.md)
-_Context: ISAF, Afghanistan, helicopter_
+_Context: helicopter, Afghanistan, ISAF_
 
 ##### Doha, Qatar
 ### [19 people are killed in a fire at a shopping centre in Doha, Qatar. ](/news/2012/05/28/19-people-are-killed-in-a-fire-at-a-shopping-centre-in-doha-qatar.md)
@@ -53,7 +53,7 @@ Ex-Prime Minister Tony Blair tells the Leveson Inquiry his friendship with Ruper
 
 ##### Malawi
 ### [The Parliament of Malawi reverts the Flag of Malawi to the original version used between 1964 to 2010. The outgoing flag was introduced in 2010 by the late President Bingu wa Mutharika. ](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.md)
-_Context: Flag of Malawi, Bingu wa Mutharika, Malawi_
+_Context: Malawi, Flag of Malawi, Bingu wa Mutharika_
 
 ##### 1989 Tiananmen Square protests
 ### [The father of a victim of the 1989 Tiananmen Square protests commits suicide in Beijing after failing attempts for government redress. ](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.md)
@@ -61,7 +61,7 @@ _Context: Beijing, 1989 Tiananmen Square protests_
 
 ##### China
 ### [The Chinese Communist Party expels the former railways minister, Liu Zhijun, over corruption. ](/news/2012/05/28/the-chinese-communist-party-expels-the-former-railways-minister-liu-zhijun-over-corruption.md)
-_Context: Communist Party of China, China, Liu Zhijun_
+_Context: Liu Zhijun, Communist Party of China, China_
 
 ##### Nepal
 ### [Political parties in Nepal fail to agree on a new constitution, leaving the country with no constitution and no sitting national Legislature. ](/news/2012/05/28/political-parties-in-nepal-fail-to-agree-on-a-new-constitution-leaving-the-country-with-no-constitution-and-no-sitting-national-legislature.md)

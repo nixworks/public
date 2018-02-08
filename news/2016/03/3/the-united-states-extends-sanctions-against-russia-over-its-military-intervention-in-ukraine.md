@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/3/the-united-states-extends-sanctions-against-russ
 
 ### [2016-03-3](/news/2016/03/3/index.md)
 
-##### its intervention in Ukraine
+##### Its intervention in Ukraine
 # The United States extends sanctions against Russia over its military intervention in Ukraine. 
 
 President Obama has extended for another year U.S. sanctions imposed on Russia over its military intervention in Ukraine, according to a White House statement. Obama signed an executive order to prolong the raft of measures that target senior Russian officials and businessmen connected to President...

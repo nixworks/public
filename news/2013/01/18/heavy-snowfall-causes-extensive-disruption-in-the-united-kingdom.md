@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/18/heavy-snowfall-causes-extensive-disruption-in-t
 
 ### [2013-01-18](/news/2013/01/18/index.md)
 
-##### snowfall
+##### Snowfall
 # Heavy snowfall causes extensive disruption in the United Kingdom. 
 
 Over 3,000 schools are closed and transport is disrupted as a band of heavy snow affects most of the UK, with a &quot;rare&quot; red warning issued in Wales.

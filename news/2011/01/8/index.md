@@ -23,7 +23,7 @@ Congresswoman Gabrielle Giffords remains in critical condition, while at least s
 ### [Three academics at Istanbul Bilgi University are fired due to a controversial dissertation project submitted by a student. ](/news/2011/01/8/three-academics-at-istanbul-bilgi-university-are-fired-due-to-a-controversial-dissertation-project-submitted-by-a-student.md)
 _Context: dissertation, Bilgi University_
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 ### [2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. ](/news/2011/01/8/2010a2011-tunisian-protests-at-least-one-person-is-killed-and-others-are-injured-in-the-town-of-tala-during-the-latest-protests-against-u.md)
 Fatalities reported after fresh clashes between demonstrators and security forces across north African nation.
 
@@ -49,7 +49,7 @@ Shia leader urges peaceful resistance and a rejection of violence in his first a
 
 ##### China
 ### [Chinese prosecutors say more than 600 people were killed over a period of seven years in Yunnan due to official misconduct. ](/news/2011/01/8/chinese-prosecutors-say-more-than-600-people-were-killed-over-a-period-of-seven-years-in-yunnan-due-to-official-misconduct.md)
-_Context: Yunnan, China_
+_Context: China, Yunnan_
 
 ## [Previous Day...](/news/2011/01/7/index.md)
 

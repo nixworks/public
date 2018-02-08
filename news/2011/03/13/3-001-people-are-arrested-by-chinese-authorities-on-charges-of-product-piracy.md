@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/13/3-001-people-are-arrested-by-chinese-authoritie
 
 ### [2011-03-13](/news/2011/03/13/index.md)
 
-##### piracy
+##### Piracy
 # 3,001 people are arrested by Chinese authorities on charges of product piracy. 
 
 

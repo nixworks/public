@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/6/gunmen-kidnap-42-university-students-near-the-ir
 
 ### [2008-04-6](/news/2008/04/6/index.md)
 
-##### university
+##### University
 #  Gunmen kidnap 42 university students near the Iraqi city of Mosul. They are later released unharmed. 
 
 

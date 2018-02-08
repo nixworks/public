@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/8/the-presence-of-the-monkeypox-virus-in-the-unite
 
 ### [2003-06-8](/news/2003/06/8/index.md)
 
-##### monkeypox
+##### Monkeypox
 #  The presence of the monkeypox virus in the United States is confirmed with four cases in Wisconsin, sparking the first discovery of the virus in the Western Hemisphere. Dozens of suspected cases have appeared across three Midwest states, where pet enthusiasts came into contact with infected domestic prairie dogs, which caught the disease from the Gambian giant rat.
 
 

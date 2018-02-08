@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/1/former-heavyweight-world-champion-boxer-muhammad
 
 ### [2009-09-1](/news/2009/09/1/index.md)
 
-##### champion
+##### Champion
 #  Former heavyweight world champion boxer Muhammad Ali visits the birthplace of his great-grandfather in Ennis, Ireland. 
 
 Ennis came to a standstill this afternoon with the arrival of Muhammad Ali for a host of events organised in his honour.

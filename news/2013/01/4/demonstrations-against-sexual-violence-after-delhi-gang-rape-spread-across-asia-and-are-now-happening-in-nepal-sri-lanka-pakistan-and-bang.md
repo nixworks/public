@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/4/demonstrations-against-sexual-violence-after-del
 
 ### [2013-01-4](/news/2013/01/4/index.md)
 
-##### sexual violence
+##### Sexual violence
 # Demonstrations against sexual violence after Delhi gang rape spread across Asia and are now happening in Nepal, Sri Lanka, Pakistan and Bangladesh. 
 
 

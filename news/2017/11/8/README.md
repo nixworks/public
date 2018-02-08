@@ -9,11 +9,11 @@ The Syrian army, fighting alongside Lebanon&#39;s Hezbollah, has seized the last
 
 ##### Kevin Spacey sexual assault allegations
 ### [Former U.S. TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts, in 2016, when her son was 18 years old. ](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.md)
-_Context: Kevin Spacey sexual assault allegations, Kevin Spacey, Nantucket, Massachusetts, Heather Unruh_
+_Context: Heather Unruh, Kevin Spacey sexual assault allegations, Nantucket, Massachusetts, Kevin Spacey_
 
 ##### Illegal drug trade in Colombia
 ### [Colombian authorities seize 12 tons of cocaine, worth an estimated $360 million, from the Clan del Golfo and make four arrests. ](/news/2017/11/8/colombian-authorities-seize-12-tons-of-cocaine-worth-an-estimated-360-million-from-the-clan-del-golfo-and-make-four-arrests.md)
-_Context: cocaine, Clan del Golfo, Illegal drug trade in Colombia_
+_Context: Clan del Golfo, Illegal drug trade in Colombia, cocaine_
 
 ##### Politics of the United Kingdom
 ### [British politician Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. ](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-position-as-secretary-of-state-for-international-development-amid-reports-that-she-had-had-u.md)

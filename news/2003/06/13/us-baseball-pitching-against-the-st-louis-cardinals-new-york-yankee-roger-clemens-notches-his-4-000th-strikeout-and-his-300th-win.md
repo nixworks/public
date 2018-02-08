@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/13/us-baseball-pitching-against-the-st-louis-cardi
 
 ### [2003-06-13](/news/2003/06/13/index.md)
 
-##### baseball game
+##### Baseball game
 #  US Baseball: Pitching against the St. Louis Cardinals, New York Yankee Roger Clemens notches his 4,000th strikeout and his 300th win.
 
 

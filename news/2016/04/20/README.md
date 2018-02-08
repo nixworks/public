@@ -5,11 +5,11 @@ Formats: [HTML](2016/04/20/index.html)  [JSON](2016/04/20/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md)
-_Context: April 2016 Kabul attack, Kabul, War in Afghanistan (2015-present), Afghan Interior Ministry, Taliban, National Directorate of Security_
+_Context: Afghan Interior Ministry, Kabul, April 2016 Kabul attack, National Directorate of Security, War in Afghanistan (2015-present), Taliban_
 
 ##### War in Donbass
 ### [A Ukrainian military spokesman says three of its soldiers were killed by a mortar attack in the country's east, the heaviest toll reported in the region in nearly two months. ](/news/2016/04/20/a-ukrainian-military-spokesman-says-three-of-its-soldiers-were-killed-by-a-mortar-attack-in-the-country-s-east-the-heaviest-toll-reported-i.md)
-_Context: Eastern Ukraine, War in Donbass, Ukrainian military, Ukraine_
+_Context: War in Donbass, Eastern Ukraine, Ukraine, Ukrainian military_
 
 ##### War in North-West Pakistan
 ### [Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. ](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill-seven-police-officers-who-were-guarding-medical-workers-administering-polio-vaccinations-i.md)
@@ -35,7 +35,7 @@ Google has 12 weeks to respond to charge and could face European Commission fine
 ### [Former slave Harriet Tubman will replace Andrew Jackson on the front of the United States twenty-dollar bill while Alexander Hamilton keeps his place on the ten after the public consultation process. ](/news/2016/04/20/former-slave-harriet-tubman-will-replace-andrew-jackson-on-the-front-of-the-united-states-twenty-dollar-bill-while-alexander-hamilton-keeps.md)
  Anti-slavery crusader Harriet Tubman will become the first African-American on the face of U.S. paper currency, and the first woman in more than a century, whe
 
-##### earthquake
+##### Earthquake
 ### [A magnitude-6.1 aftershock has struck off the coast of Ecuador at 3:33 a.m. local time, the US Geological Survey says, in the same area as the massive earthquake on Saturday. ](/news/2016/04/20/a-magnitude-6-1-aftershock-has-struck-off-the-coast-of-ecuador-at-3-33-a-m-local-time-the-us-geological-survey-says-in-the-same-area-as-t.md)
 QUITO, Ecuador (AP) — President Rafael Correa announced Wednesday night that he is raising sales taxes and will charge a one-time levy on millionaires to rebuild cities devastated by Ecuador&#039;s worst earthquake in decades.…
 
@@ -57,7 +57,7 @@ A large explosion rocks an oil facility in the south-east Mexican state of Verac
 
 ##### Ukraine-European Union relations
 ### [The European Union proposes offering Ukraine visa-free travel to its members. However, it is still unclear how fast the liberalization process will be dealt with in the European Parliament and European Council, where some EU member states might want to slow down the process. ](/news/2016/04/20/the-european-union-proposes-offering-ukraine-visa-free-travel-to-its-members-however-it-is-still-unclear-how-fast-the-liberalization-proce.md)
-_Context: European Parliament, European Council, member states, Ukraine-European Union relations, European Union, Ukraine_
+_Context: European Parliament, member states, European Council, European Union, Ukraine-European Union relations, Ukraine_
 
 ##### NATO-Russia relations
 ### [NATO reopens informal talks with Russia for the first time in nearly two years. According to the Secretary General of NATO Jens Stoltenberg "NATO and Russia have profound and persistent disagreements, today's meeting did not change that." ](/news/2016/04/20/nato-reopens-informal-talks-with-russia-for-the-first-time-in-nearly-two-years-according-to-the-secretary-general-of-nato-jens-stoltenberg.md)
@@ -69,7 +69,7 @@ The UK Government is warning gay people about travelling to parts of the US afte
 
 ##### Commission on Human Rights
 ### [A women's rights group files a lawsuit in the Philippine Commission on Human Rights against Rodrigo Duterte for his rape remarks. ](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-philippine-commission-on-human-rights-against-rodrigo-duterte-for-his-rape-remarks.md)
-_Context: Rodrigo Duterte, rape, Commission on Human Rights_
+_Context: rape, Rodrigo Duterte, Commission on Human Rights_
 
 ##### Australia
 ### [Australian media reports that a deal has been reached on an alleged kidnapping case against Tara Brown and the Australian "60 Minutes" crew. ](/news/2016/04/20/australian-media-reports-that-a-deal-has-been-reached-on-an-alleged-kidnapping-case-against-tara-brown-and-the-australian-60-minutes-crew.md)
@@ -77,7 +77,7 @@ A deal has reportedly been reached in the case of the Brisbane mother Sally Faul
 
 ##### Federal Constitutional Court of Germany
 ### [The Federal Constitutional Court of Germany rules that an anti-terrorism law is unconstitutional and violates right to privacy. ](/news/2016/04/20/the-federal-constitutional-court-of-germany-rules-that-an-anti-terrorism-law-is-unconstitutional-and-violates-right-to-privacy.md)
-_Context: Federal Constitutional Court of Germany, right to privacy_
+_Context: right to privacy, Federal Constitutional Court of Germany_
 
 ##### United States
 ### [The U.S. state of Utah declares pornography a "public health risk" in a move Governor of Utah Gary Herbert says is to "protect our families and our young people". The bill, signed by the governor, does not ban pornography in the state but does call for greater "efforts to prevent pornography exposure and addiction". ](/news/2016/04/20/the-u-s-state-of-utah-declares-pornography-a-public-health-risk-in-a-move-governor-of-utah-gary-herbert-says-is-to-protect-our-families.md)
@@ -95,13 +95,13 @@ Two Michigan officials were accused of misleading other officials about the city
 ### [In a letter to the International Consortium of Investigative Journalists, the United States Department of Justice announces it is opening a criminal investigation into tax avoidance schemes exposed by the Panama Papers with U.S. attorney Preet Bharara asking the ICIJ for help. ](/news/2016/04/20/in-a-letter-to-the-international-consortium-of-investigative-journalists-the-united-states-department-of-justice-announces-it-is-opening-a.md)
 The US Justice Department opens a criminal investigation into tax avoidance schemes exposed by the Panama Papers.
 
-##### xenophobic
+##### Xenophobic
 ### [Two people are burned alive amid xenophobic riots in Lusaka, Zambia. The riots started after rumours spread that Rwandans were behind recent ritual killings in the city. More than 250 people have been arrested after more than 60 Rwandan-owned shops were looted in two days of violence. ](/news/2016/04/20/two-people-are-burned-alive-amid-xenophobic-riots-in-lusaka-zambia-the-riots-started-after-rumours-spread-that-rwandans-were-behind-recent.md)
 Two Zambians were burned to death on Monday during an outbreak of xenophobic violence in the capital, Lusaka, the authorities say.
 
 ##### Drug policy of Canada
 ### [Canada's Minister of Health Jane Philpott says federal legislation to legalize marijuana will be introduced in spring of 2017. ](/news/2016/04/20/canada-s-minister-of-health-jane-philpott-says-federal-legislation-to-legalize-marijuana-will-be-introduced-in-spring-of-2017.md)
-_Context: marijuana, Drug policy of Canada, Minister of Health, Canadian, Jane Philpott_
+_Context: Jane Philpott, marijuana, Drug policy of Canada, Canadian, Minister of Health_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. ](/news/2016/04/20/the-united-states-supreme-court-rules-that-almost-2-billion-in-frozen-iranian-assets-must-be-turned-over-to-american-families-of-people-kil.md)
@@ -113,7 +113,7 @@ A Swedish Green Party politician, who ignited a storm of controversy after refus
 
 ##### Philippine presidential election, 2016
 ### [Philippine presidential candidate Rodrigo Duterte reneges on his apology and denies a statement by his party, PDP-Laban, which said he was sorry for his rape comments. ](/news/2016/04/20/philippine-presidential-candidate-rodrigo-duterte-reneges-on-his-apology-and-denies-a-statement-by-his-party-pdp-laban-which-said-he-was-s.md)
-_Context: renege, Philippine presidential election, 2016, Rodrigo Duterte, PDP-Laban, rape_
+_Context: rape, Philippine presidential election, 2016, Rodrigo Duterte, renege, PDP-Laban_
 
 ##### 2016 Macedonian protests
 ### [Protests continue against President Gjorge Ivanov in Skopje, Macedonia. Opposition leader Zoran Zaev said he will only take part in EU-brokered negotiations with the government if certain conditions are met. ](/news/2016/04/20/protests-continue-against-president-gjorge-ivanov-in-skopje-macedonia-opposition-leader-zoran-zaev-said-he-will-only-take-part-in-eu-broke.md)

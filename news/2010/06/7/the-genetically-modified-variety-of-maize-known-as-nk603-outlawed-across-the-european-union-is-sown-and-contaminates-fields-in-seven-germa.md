@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/7/the-genetically-modified-variety-of-maize-known-
 
 ### [2010-06-7](/news/2010/06/7/index.md)
 
-##### maize
+##### Maize
 # The genetically modified variety of maize known as NK603, outlawed across the European Union, is sown and contaminates fields in seven German states. 
 
 A genetically modified (GM) variety of maize banned in the EU has contaminated fields in seven German states.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-
 
 ### [2005-10-3](/news/2005/10/3/index.md)
 
-##### solar eclipse
+##### Solar eclipse
 #  Millions of people view the solar eclipse which occurred at 10:31 UTC, mainly in Africa and south-west Europe. 
 
 

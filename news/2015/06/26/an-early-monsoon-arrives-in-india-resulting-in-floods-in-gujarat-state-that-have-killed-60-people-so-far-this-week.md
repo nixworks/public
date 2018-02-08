@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/26/an-early-monsoon-arrives-in-india-resulting-in-
 
 ### [2015-06-26](/news/2015/06/26/index.md)
 
-##### monsoon
+##### Monsoon
 # An early monsoon arrives in India resulting in floods in Gujarat state that have killed 60 people so far this week. 
 
 More than 60 people have died in Gujarat due to floods caused by incessant rains following a deep pressure built into Arabian Sea off Gujarat coast.

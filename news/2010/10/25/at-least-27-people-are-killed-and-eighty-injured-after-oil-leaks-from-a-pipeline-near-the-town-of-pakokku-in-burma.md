@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/25/at-least-27-people-are-killed-and-eighty-injure
 
 ### [2010-10-25](/news/2010/10/25/index.md)
 
-##### oil
+##### Oil
 # At least 27 people are killed and eighty injured after oil leaks from a pipeline near the town of Pakokku in Burma. 
 
 At least 12 people are thought to have been killed and up to 80 injured after oil leaking from a pipeline in Burma caught fire.

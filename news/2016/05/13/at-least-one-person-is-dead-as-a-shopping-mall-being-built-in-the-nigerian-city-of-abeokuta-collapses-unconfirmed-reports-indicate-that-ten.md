@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/13/at-least-one-person-is-dead-as-a-shopping-mall-
 
 ### [2016-05-13](/news/2016/05/13/index.md)
 
-##### shopping mall
+##### Shopping mall
 # At least one person is dead as a shopping mall being built in the Nigerian city of Abeokuta collapses. Unconfirmed reports indicate that ten people may have died. 
 
 A building under construction collapses in Nigeria, Rwandan breaks cricket record, Senegalese woman to becomes Fifa secretary general and more stories.

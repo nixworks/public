@@ -17,7 +17,7 @@ UN human rights chief Navi Pillay says Israel may have committed war crimes in t
 
 ##### Council of the European Union
 ### [The Council of the European Union (General Affairs Council) adopts a final decision allowing Lithuania to adopt the euro as its currency on January 1, 2015. ](/news/2014/07/23/the-council-of-the-european-union-general-affairs-council-adopts-a-final-decision-allowing-lithuania-to-adopt-the-euro-as-its-currency-on.md)
-_Context: Council of the European Union, Lithuania, euro_
+_Context: Council of the European Union, euro, Lithuania_
 
 ##### TransAsia Airways Flight 222
 ### [TransAsia Airways Flight 222 crashes into residential buildings in an emergency landing in Taiwan's Penghu Islands, with at least 47 feared dead and 11 injured. ](/news/2014/07/23/transasia-airways-flight-222-crashes-into-residential-buildings-in-an-emergency-landing-in-taiwan-s-penghu-islands-with-at-least-47-feared.md)
@@ -33,7 +33,7 @@ _Context: State Department_
 
 ##### Millau
 ### [Authorities in Millau, France have formally charged two men in last Sunday's machete attack in which three Clermont Auvergne rugby union players were injured. ](/news/2014/07/23/authorities-in-millau-france-have-formally-charged-two-men-in-last-sunday-s-machete-attack-in-which-three-clermont-auvergne-rugby-union-pla.md)
-_Context: Millau, rugby union, France, Clermont Auvergne_
+_Context: France, Millau, Clermont Auvergne, rugby union_
 
 ## [Previous Day...](/news/2014/07/22/index.md)
 

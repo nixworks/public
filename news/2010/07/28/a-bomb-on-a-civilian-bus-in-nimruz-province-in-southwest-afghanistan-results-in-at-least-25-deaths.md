@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/28/a-bomb-on-a-civilian-bus-in-nimruz-province-in-
 
 ### [2010-07-28](/news/2010/07/28/index.md)
 
-##### bomb
+##### Bomb
 # A bomb on a civilian bus in Nimruz Province in southwest Afghanistan results in at least 25 deaths. 
 
 

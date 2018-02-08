@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/19/victims-and-families-observe-168-seconds-of-sil
 
 ### [2005-04-19](/news/2005/04/19/index.md)
 
-##### silence
+##### Silence
 #  Victims and families observe 168 seconds of silence on the tenth anniversary of the Oklahoma City bombing at 9:02 a.m. (local time). 
 
 

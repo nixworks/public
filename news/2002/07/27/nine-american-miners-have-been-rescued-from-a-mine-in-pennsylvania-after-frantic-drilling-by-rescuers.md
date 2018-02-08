@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/07/27/nine-american-miners-have-been-rescued-from-a-m
 
 ### [2002-07-27](/news/2002/07/27/index.md)
 
-##### mine
+##### Mine
 #  Nine American miners have been rescued from a mine in Pennsylvania, after frantic drilling by rescuers.
 
 

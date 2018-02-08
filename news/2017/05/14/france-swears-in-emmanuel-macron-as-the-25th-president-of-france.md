@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/14/france-swears-in-emmanuel-macron-as-the-25th-pr
 
 ### [2017-05-14](/news/2017/05/14/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # France swears in Emmanuel Macron as the 25th President of France. 
 
 New French President Emmanuel Macron pledges to work to overcome divisions in society.

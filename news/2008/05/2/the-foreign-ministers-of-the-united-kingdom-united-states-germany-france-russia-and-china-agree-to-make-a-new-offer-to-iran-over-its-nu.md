@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/2/the-foreign-ministers-of-the-united-kingdom-unit
 
 ### [2008-05-2](/news/2008/05/2/index.md)
 
-##### foreign minister
+##### Foreign minister
 #  The foreign ministers of the United Kingdom, United States, Germany, France, Russia and China agree to make a new offer to Iran over its nuclear program. 
 
 

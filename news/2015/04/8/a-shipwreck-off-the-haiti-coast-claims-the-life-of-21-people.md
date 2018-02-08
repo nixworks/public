@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/8/a-shipwreck-off-the-haiti-coast-claims-the-life-
 
 ### [2015-04-8](/news/2015/04/8/index.md)
 
-##### shipwreck
+##### Shipwreck
 # A shipwreck off the Haiti coast claims the life of 21 people. 
 
 

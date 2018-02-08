@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/22/israel-s-parliament-passes-a-bill-requiring-a-s
 
 ### [2010-11-22](/news/2010/11/22/index.md)
 
-##### parliament in Israel
+##### Parliament in Israel
 # Israel's parliament passes a bill requiring a special parliamentary majority or a referendum before Israel could relinquish the Golan Heights or east Jerusalem for a peace deal. 
 
 Bill approved by vote of 65-33 now requires either Knesset super-majority or a national referendum in order to hand over any annexed territories.

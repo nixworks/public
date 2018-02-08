@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/19/one-person-is-injured-following-an-apparent-let
 
 ### [2005-09-19](/news/2005/09/19/index.md)
 
-##### letter bomb
+##### Letter bomb
 #  One person is injured following an apparent letter bomb attack in the British Embassy in the Croatian capital Zagreb. 
 
 

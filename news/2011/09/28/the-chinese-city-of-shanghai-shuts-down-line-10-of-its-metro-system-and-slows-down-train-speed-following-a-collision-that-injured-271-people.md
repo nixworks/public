@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/28/the-chinese-city-of-shanghai-shuts-down-line-10
 
 ### [2011-09-28](/news/2011/09/28/index.md)
 
-##### line 10
+##### Line 10
 # The Chinese city of Shanghai shuts down line 10 of its metro system and slows down train speed following a collision that injured 271 people. 
 
 

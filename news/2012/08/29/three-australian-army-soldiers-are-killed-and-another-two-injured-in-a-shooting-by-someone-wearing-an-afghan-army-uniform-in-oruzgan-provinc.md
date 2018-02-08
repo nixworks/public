@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/29/three-australian-army-soldiers-are-killed-and-a
 
 ### [2012-08-29](/news/2012/08/29/index.md)
 
-##### soldiers
+##### Soldiers
 # Three Australian Army soldiers are killed and another two injured in a shooting by someone wearing an Afghan Army uniform in Oruzgan province. 
 
 

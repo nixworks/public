@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/17/thousands-of-activists-march-to-the-pentagon-in
 
 ### [2007-03-17](/news/2007/03/17/index.md)
 
-##### march
+##### March
 #  Thousands of activists march to The Pentagon in Washington to mark the fourth anniversary of the start of the war in Iraq. 
 
 Thousands of demonstrators marked the anniversaries of the U.S. invasion of Iraq and the march to protest the Vietnam War.

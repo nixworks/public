@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/13/nineteen-people-are-killed-and-seven-seriously-
 
 ### [2007-08-13](/news/2007/08/13/index.md)
 
-##### bus
+##### Bus
 #  Nineteen people are killed and seven seriously injured in a bus crash on the North-South Expressway in Malaysia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/a-blaze-sparked-by-a-quick-succession-of-between
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### gas cylinder
+##### Gas cylinder
 # A blaze, sparked by a quick succession of between 15 and 20 gas cylinder explosions, in the Kandivali suburb of Mumbai, India, kills at least two and injures 11 while destroying around 1,000 hutment homes. 
 
 Officials warn the number of dead could rise - as a witness describes the devastation among those left homeless.

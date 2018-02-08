@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/7/a-7-6-magnitude-earthquake-occurs-off-the-coast-
 
 ### [2011-07-7](/news/2011/07/7/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.6 magnitude earthquake occurs off the coast of New Zealand's Kermadec Islands resulting in a tidal surge. 
 
 

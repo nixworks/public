@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/20/indian-army-announces-that-it-has-unveiled-a-sc
 
 ### [2005-07-20](/news/2005/07/20/index.md)
 
-##### scam
+##### Scam
 #  Indian Army announces that it has unveiled a scam where contractors responsible for transportation of fuel to depots of its Northern Command had sold off the fuel and filled the tanks with water 
 
 On Tuesday, the Northern Command announced that military sleuths had uncovered a Himalayan oil pilferage scam.

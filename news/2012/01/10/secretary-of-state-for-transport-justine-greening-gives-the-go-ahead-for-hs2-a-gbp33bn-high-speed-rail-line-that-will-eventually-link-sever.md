@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/10/secretary-of-state-for-transport-justine-greeni
 
 ### [2012-01-10](/news/2012/01/10/index.md)
 
-##### transport secretary
+##### Transport secretary
 # Secretary of State for Transport Justine Greening gives the go-ahead for HS2, a GBP33bn high-speed rail line that will eventually link several major cities in the United Kingdom to London and enabling quicker journey times. 
 
 Plans for a £33bn high-speed rail network - HS2 - receive a mixed reaction as they are approved by the government.

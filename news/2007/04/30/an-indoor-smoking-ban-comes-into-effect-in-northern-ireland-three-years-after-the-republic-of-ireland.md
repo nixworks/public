@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/30/an-indoor-smoking-ban-comes-into-effect-in-nort
 
 ### [2007-04-30](/news/2007/04/30/index.md)
 
-##### smoking ban
+##### Smoking ban
 #  An indoor smoking ban comes into effect in Northern Ireland, three years after the Republic of Ireland. 
 
 A smoking ban in enclosed public places has come into effect in Northern Ireland.

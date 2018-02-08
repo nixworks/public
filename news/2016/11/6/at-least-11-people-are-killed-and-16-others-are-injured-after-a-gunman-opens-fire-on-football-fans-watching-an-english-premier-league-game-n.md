@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/6/at-least-11-people-are-killed-and-16-others-are-
 
 ### [2016-11-6](/news/2016/11/6/index.md)
 
-##### football
+##### Football
 # At least 11 people are killed and 16 others are injured after a gunman opens fire on football fans watching an English Premier League game near Juba, South Sudan. 
 
 A gunman fires into a crowd watching the English Premier League, killing 11 and injuring 16.

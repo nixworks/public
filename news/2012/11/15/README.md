@@ -11,7 +11,7 @@ The move gives a powerful boost to the group known as the National Coalition of 
 ### [Three Israeli civilians are killed in Kiryat Malachi, Israel, in a further barrage of rocket attacks on southern Israel from Palestinians in the Gaza Strip. Rockets have hit apartment buildings, schools and private houses so far. ](/news/2012/11/15/three-israeli-civilians-are-killed-in-kiryat-malachi-israel-in-a-further-barrage-of-rocket-attacks-on-southern-israel-from-palestinians-in.md)
 Israeli cities suffer constant assaults, Iron Dome downs dozens of rockets as Operation Pillar of Defense enters second day
 
-##### protests over fuel price hikes
+##### Protests over fuel price hikes
 ### [As nationwide protests over fuel price hikes continue in Jordan, unidentified gunmen storm a police station in the northern town of Irbid, leading to the fatal shooting of 22-year-old civilian, and injuries to 13 police officers and 4 protesters. Protests and sporadic looting are reported from Al Karak, Salt and Madaba. ](/news/2012/11/15/as-nationwide-protests-over-fuel-price-hikes-continue-in-jordan-unidentified-gunmen-storm-a-police-station-in-the-northern-town-of-irbid-l.md)
 Police stations come under fire as anger grows over fuel price hikes in the kingdom.
 
@@ -21,7 +21,7 @@ BP Plc reached a settlement with the U.S. Department of Justice for $4 billion t
 
 ##### Midland train crash
 ### [Four people are killed and 17 others are injured in the Midland train crash after a Union Pacific train struck a parade float in Midland, Texas. ](/news/2012/11/15/four-people-are-killed-and-17-others-are-injured-in-the-midland-train-crash-after-a-union-pacific-train-struck-a-parade-float-in-midland-te.md)
-_Context: Midland, Texas, Midland train crash, Union Pacific_
+_Context: Midland train crash, Midland, Texas, Union Pacific_
 
 ##### BBC Radio 1
 ### [A former BBC Radio 1 disc jockey is detained by police in the ongoing investigation into the Jimmy Savile sexual abuse scandal. ](/news/2012/11/15/a-former-bbc-radio-1-disc-jockey-is-detained-by-police-in-the-ongoing-investigation-into-the-jimmy-savile-sexual-abuse-scandal.md)
@@ -33,7 +33,7 @@ Xi Jinping is confirmed as the man to lead China for the next decade, as reformi
 
 ##### Myanmar
 ### [The Myanmar government pardons 452 prisoners under an amnesty in a goodwill gesture before a visit by US President Barack Obama. State media said some of the people released were foreigners, though it remained unknown if any dissidents are among them at all. Human Rights Watch accuses the government of using strategically timed prisoner releases to appease the international community. ](/news/2012/11/15/the-myanmar-government-pardons-452-prisoners-under-an-amnesty-in-a-goodwill-gesture-before-a-visit-by-us-president-barack-obama-state-media.md)
-_Context: Myanmar, Barack Obama, Human Rights Watch_
+_Context: Barack Obama, Human Rights Watch, Myanmar_
 
 ##### Elections
 ### [Elections are held to choose 41 Police and Crime Commissioners in England and Wales. Three by-elections also take place in Cardiff South and Penarth, Corby and Manchester Central. ](/news/2012/11/15/elections-are-held-to-choose-41-police-and-crime-commissioners-in-england-and-wales-three-by-elections-also-take-place-in-cardiff-south-and.md)

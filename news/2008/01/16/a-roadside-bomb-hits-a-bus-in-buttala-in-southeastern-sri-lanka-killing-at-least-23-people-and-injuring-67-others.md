@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/16/a-roadside-bomb-hits-a-bus-in-buttala-in-southe
 
 ### [2008-01-16](/news/2008/01/16/index.md)
 
-##### bomb
+##### Bomb
 #  A roadside bomb hits a bus in Buttala in southeastern Sri Lanka killing at least 23 people and injuring 67 others. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/18/at-least-33-people-die-as-a-result-of-a-suicide
 
 ### [2009-09-18](/news/2009/09/18/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  At least 33 people die as a result of a suicide bomb attack in Kohat in the North West Frontier Province of Pakistan. 
 
 At least 33 people have been killed in a suspected suicide bomb attack in northwest Pakistan.

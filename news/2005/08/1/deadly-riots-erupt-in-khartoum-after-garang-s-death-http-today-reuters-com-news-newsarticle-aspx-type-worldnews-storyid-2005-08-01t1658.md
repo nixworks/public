@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/1/deadly-riots-erupt-in-khartoum-after-garang-s-de
 
 ### [2005-08-1](/news/2005/08/1/index.md)
 
-##### riot
+##### Riot
 #  Deadly riots erupt in Khartoum after Garang's death. [http:--today.reuters.com-News-newsArticle.aspx?type=worldNews&storyID=2005-08-01T165844Z_01_L0128099_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML (Reuters)] (Link dead as of 02:29, 15 January 2007 (UTC))
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/15/several-trade-unions-in-turkey-hold-a-one-day-s
 
 ### [2014-05-15](/news/2014/05/15/index.md)
 
-##### labour unions
+##### Labour unions
 # Several trade unions in Turkey hold a one-day strike in response to the disaster. 
 
 

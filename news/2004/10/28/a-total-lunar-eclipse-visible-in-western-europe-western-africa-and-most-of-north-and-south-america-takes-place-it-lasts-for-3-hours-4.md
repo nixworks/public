@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/28/a-total-lunar-eclipse-visible-in-western-europe
 
 ### [2004-10-28](/news/2004/10/28/index.md)
 
-##### lunar eclipse
+##### Lunar eclipse
 #  A total lunar eclipse, visible in western Europe, western Africa, and most of North and South America, takes place. It lasts for 3 hours, 40 minutes (1:15 to 4:54 UTC); the next total lunar eclipse will not occur until March 2007. 
 
 

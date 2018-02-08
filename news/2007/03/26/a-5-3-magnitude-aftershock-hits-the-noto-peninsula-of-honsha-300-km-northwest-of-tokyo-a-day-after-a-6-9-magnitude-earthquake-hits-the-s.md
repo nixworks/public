@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/26/a-5-3-magnitude-aftershock-hits-the-noto-penins
 
 ### [2007-03-26](/news/2007/03/26/index.md)
 
-##### aftershock
+##### Aftershock
 #  A 5.3 magnitude aftershock hits the Noto Peninsula of Honshu, 300 km northwest of Tokyo, a day after a 6.9 magnitude earthquake hits the same area. 
 
 

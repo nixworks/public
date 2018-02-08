@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/15/a-stampede-among-hindu-pilgrims-headed-to-varan
 
 ### [2016-10-15](/news/2016/10/15/index.md)
 
-##### stampede
+##### Stampede
 # A stampede among Hindu pilgrims headed to Varanasi, India, kills at least 24 people and injures at least 20. 
 
 At least 24 people died and dozens more were hurt in a stampede in the ancient northern Indian city of Varanasi on Saturday, officials said.

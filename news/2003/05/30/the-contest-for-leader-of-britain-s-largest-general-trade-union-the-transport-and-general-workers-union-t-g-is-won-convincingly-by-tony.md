@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/30/the-contest-for-leader-of-britain-s-largest-gen
 
 ### [2003-05-30](/news/2003/05/30/index.md)
 
-##### labour unions
+##### Labour unions
 #  The contest for leader of Britain's largest general trade union, the Transport and General Workers Union (T&G), is won convincingly by Tony Woodley, a left-winger.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/23/2-tonnes-of-elephant-ivory-and-five-rhino-horns
 
 ### [2010-08-23](/news/2010/08/23/index.md)
 
-##### elephant
+##### Elephant
 # 2 tonnes of elephant ivory and five rhino horns disguised as avocados destined for Malaysia are seized in Nairobi, Kenya. 
 
 

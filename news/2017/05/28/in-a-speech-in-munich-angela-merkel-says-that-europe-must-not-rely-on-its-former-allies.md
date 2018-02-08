@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/28/in-a-speech-in-munich-angela-merkel-says-that-e
 
 ### [2017-05-28](/news/2017/05/28/index.md)
 
-##### caretaker
+##### Caretaker
 # In a speech in Munich, Angela Merkel says that Europe must not rely on its former allies. 
 
 There’s a statesmanship – a vision, a morality and a core – to her that was thrown into sharp relief by Donald Trump’s shambling visit to Europe

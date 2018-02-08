@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/29/a-series-of-blasts-at-an-ammunition-depot-in-sv
 
 ### [2015-10-29](/news/2015/10/29/index.md)
 
-##### ammunition depot
+##### Ammunition depot
 # A series of blasts at an ammunition depot in Svatove, Luhansk region of eastern Ukraine leaves four dead and eight injured. 
 
 The bodies of two soldiers who died as the result of a fire at an ammunition depot near the town of Svatove (Luhansk region) have been recovered, the press service of Luhansk regional state administration has reported.

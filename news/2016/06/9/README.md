@@ -9,25 +9,25 @@ Somali Islamist militant group al-Shabab says it has killed 60 Ethiopian soldier
 
 ##### Iraqi Civil War (2014-present)
 ### [Two separate car bombs explode in Baghdad, killing at least 20 people. ](/news/2016/06/9/two-separate-car-bombs-explode-in-baghdad-killing-at-least-20-people.md)
-_Context: Iraqi Civil War (2014-present), Baghdad_
+_Context: Baghdad, Iraqi Civil War (2014-present)_
 
 ##### Thailand
 ### [Thailand celebrates the 70th anniversary of King Bhumibol Adulyadej's accession to the Thai throne. ](/news/2016/06/9/thailand-celebrates-the-70th-anniversary-of-king-bhumibol-adulyadej-s-accession-to-the-thai-throne.md)
 _Context: Bhumibol Adulyadej, King, Thailand_
 
-##### ravine
+##### Ravine
 ### [A bus plunges over a ravine in Brazil's SGBPo Paulo state, resulting in at least 18 people killed and 28 injured. ](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-paulo-state-resulting-in-at-least-18-people-killed-and-28-injured.md)
-_Context: ravine, SGBPo Paulo, Brazil_
+_Context: SGBPo Paulo, Brazil, ravine_
 
 ##### Northrop F-5
 ### [A Northrop F-5 of the Swiss Air Force crashes during an air show at the Leeuwarden Air Base in the Netherlands. ](/news/2016/06/9/a-northrop-f-5-of-the-swiss-air-force-crashes-during-an-air-show-at-the-leeuwarden-air-base-in-the-netherlands.md)
-_Context: air show, Swiss Air Force, Netherlands, Leeuwarden Air Base, Northrop F-5_
+_Context: Leeuwarden Air Base, Northrop F-5, air show, Netherlands, Swiss Air Force_
 
-##### small plane
+##### Small plane
 ### [Three people aboard a small plane are killed when the aircraft crashes into a parked car near the Houston, Texas, Hobby Airport. ](/news/2016/06/9/three-people-aboard-a-small-plane-are-killed-when-the-aircraft-crashes-into-a-parked-car-near-the-houston-texas-hobby-airport.md)
 HOUSTON (AP) — A small plane crashed into a car Thursday in a parking lot near a Houston airport, killing three people aboard the aircraft, fire officials said. Houston Fire Department spokesman Jay Evans said the plane…
 
-##### magnitude
+##### Magnitude
 ### [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua not far from the Honduran border. "La Prensa" reports the walls of a church collapsed in the city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a-chu.md)
 MANAGUA, Nicaragua (AP) — An earthquake with a preliminary magnitude of 6.1 shook the northwestern coast of Nicaragua Thursday not far from the Honduran border. The U.S. Geological survey said the quake&#039;s epicenter was…
 
@@ -61,7 +61,7 @@ The University of Papua New Guinea obtains an injunction to stop protests, after
 
 ##### United States Court of Appeals for the Ninth Circuit
 ### [The 9th U.S. Circuit Court of Appeals rules there is no Second Amendment protection for concealed weapons, upholding a California law that does not consider "general self-defense" sufficient for a license. ](/news/2016/06/9/the-9th-u-s-circuit-court-of-appeals-rules-there-is-no-second-amendment-protection-for-concealed-weapons-upholding-a-california-law-that-d.md)
-_Context: California, general self-defense, United States Court of Appeals for the Ninth Circuit, Second Amendment, concealed weapons_
+_Context: concealed weapons, California, Second Amendment, United States Court of Appeals for the Ninth Circuit, general self-defense_
 
 ##### Venezuela
 ### [Venezuelan opposition lawmaker, Julio Borges, is left bloodied after being hit in the face with a pipe in downtown Caracas. He spoke at a press conference after the attack with blood streaming down from his nose and mouth, and bloody stains on his button-down shirt, accusing the attackers of being supporters of President Nicolas Maduro. ](/news/2016/06/9/venezuelan-opposition-lawmaker-julio-borges-is-left-bloodied-after-being-hit-in-the-face-with-a-pipe-in-downtown-caracas-he-spoke-at-a-pr.md)

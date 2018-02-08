@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/4/former-cricketer-and-chairman-of-pakistan-tehree
 
 ### [2007-11-4](/news/2007/11/4/index.md)
 
-##### cricketer
+##### Cricketer
 #  Former cricketer and chairman of Pakistan Tehreek-e-Insaf, Imran Khan escapes from house arrest.date=December 2007 Lawyers prepare for a countrywide strike tomorrow.date=December 2007
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/10/400-year-old-petroglyphs-are-discovered-off-the
 
 ### [2016-08-10](/news/2016/08/10/index.md)
 
-##### petroglyphs
+##### Petroglyphs
 # 400-year old petroglyphs are discovered off the Waianae coast of Hawaii. 
 
 

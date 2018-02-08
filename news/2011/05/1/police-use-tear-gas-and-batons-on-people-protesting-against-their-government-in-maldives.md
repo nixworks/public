@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/1/police-use-tear-gas-and-batons-on-people-protest
 
 ### [2011-05-1](/news/2011/05/1/index.md)
 
-##### tear gas
+##### Tear gas
 # Police use tear gas and batons on people protesting against their government in Maldives. 
 
 

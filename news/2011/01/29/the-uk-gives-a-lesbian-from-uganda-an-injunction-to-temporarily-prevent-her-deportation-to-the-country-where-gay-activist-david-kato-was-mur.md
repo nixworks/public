@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/29/the-uk-gives-a-lesbian-from-uganda-an-injunctio
 
 ### [2011-01-29](/news/2011/01/29/index.md)
 
-##### lesbian
+##### Lesbian
 # The UK gives a lesbian from Uganda an injunction to temporarily prevent her deportation to the country where gay activist David Kato was murdered earlier this week. 
 
 

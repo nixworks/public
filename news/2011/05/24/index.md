@@ -5,31 +5,31 @@ Formats: [HTML](2011/05/24/index.html)  [JSON](2011/05/24/index.json)  [XML](201
 
 ##### Tunisia
 ### [Clashes break out in southern Tunisia between local residents and Libyan refugees fleeing that country's civil war. ](/news/2011/05/24/clashes-break-out-in-southern-tunisia-between-local-residents-and-libyan-refugees-fleeing-that-country-s-civil-war.md)
-_Context: Tunisia, civil war, Libya_
+_Context: civil war, Libya, Tunisia_
 
 ##### 2011 Yemeni protests
 ### [Fresh clashes take place in Yemen between police and opposition tribesmen who have taken control of several government buildings in the capital Sana'a. ](/news/2011/05/24/fresh-clashes-take-place-in-yemen-between-police-and-opposition-tribesmen-who-have-taken-control-of-several-government-buildings-in-the-capi.md)
-_Context: Yemen, Sana'a, 2011 Yemeni protests_
+_Context: Sana'a, Yemen, 2011 Yemeni protests_
 
 ##### Muammar Gaddafi
 ### [Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. ](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.md)
-_Context: Muammar Gaddafi, Tripoli, compound, NATO, Libya_
+_Context: Muammar Gaddafi, Tripoli, Libya, compound, NATO_
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber attacks the headquarters of Kazakhstan's security service, causing casualties. ](/news/2011/05/24/a-suicide-bomber-attacks-the-headquarters-of-kazakhstan-s-security-service-causing-casualties.md)
 _Context: suicide bomber, Kazakhstan_
 
 ##### Afghanistan
 ### [A roadside bomb in Afghanistan's Kandahar Province kills ten people and injures 28. ](/news/2011/05/24/a-roadside-bomb-in-afghanistan-s-kandahar-province-kills-ten-people-and-injures-28.md)
-_Context: Kandahar Province, Afghanistan_
+_Context: Afghanistan, Kandahar Province_
 
-##### protestors
+##### Protestors
 ### [Human rights organisations estimate that the Government of Syria has killed 1,000 civilians so far during the protests.](/news/2011/05/24/human-rights-organisations-estimate-that-the-government-of-syria-has-killed-1-000-civilians-so-far-during-the-protests.md)
 Rights groups say they have documented names of civilians allegedly killed by security forces since protests erupted.
 
 ##### United Nations
 ### [The United Nations claims that about 20,000 people have fled the Abyei region for Agok in Southern Sudan after Sudanese forces took control. ](/news/2011/05/24/the-united-nations-claims-that-about-20-000-people-have-fled-the-abyei-region-for-agok-in-southern-sudan-after-sudanese-forces-took-control.md)
-_Context: United Nations, Agok, Sudan, Southern Sudan, Abyei_
+_Context: United Nations, Southern Sudan, Agok, Abyei, Sudan_
 
 ##### Oprah Winfrey
 ### [US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". ](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.md)
@@ -51,7 +51,7 @@ Airlines canceled about 500 European flights as the ash cloud from the Grimsvotn
 ### [An explosion at an Abadan oil refinery in southwestern Iran during a visit by the President of Iran Mahmoud Ahmadinejad leads to a fire killing two workers and injuring 20. ](/news/2011/05/24/an-explosion-at-an-abadan-oil-refinery-in-southwestern-iran-during-a-visit-by-the-president-of-iran-mahmoud-ahmadinejad-leads-to-a-fire-kill.md)
 A deadly blast during the inauguration of a major oil refinery by Iranian President Mahmoud Ahmadinejad killed at least four and injured 20.
 
-##### central
+##### Central
 ### [The search continues for survivors of the 2011 Joplin tornado as 1,500 people are unaccounted for in the US town. ](/news/2011/05/24/the-search-continues-for-survivors-of-the-2011-joplin-tornado-as-1-500-people-are-unaccounted-for-in-the-us-town.md)
 Many residents cannot contact possible survivors, and officials have not shared names of the dead and missing.
 
@@ -69,7 +69,7 @@ Barack Obama has met the Queen and senior royals at the start of a three-day sta
 
 ##### Malaysia
 ### [Malaysian authorities break up a mass gathering of Shiite Muslims, detaining four. ](/news/2011/05/24/malaysian-authorities-break-up-a-mass-gathering-of-shiite-muslims-detaining-four.md)
-_Context: Muslim, Shia, Malaysia_
+_Context: Shia, Malaysia, Muslim_
 
 ##### Somalia
 ### [Security forces in Somalia seize two planes carrying ransom money for pirates, and detain six foreigners. ](/news/2011/05/24/security-forces-in-somalia-seize-two-planes-carrying-ransom-money-for-pirates-and-detain-six-foreigners.md)
@@ -83,15 +83,15 @@ _Context: Hosni Mubarak, Egypt_
 ### [Human Rights Watch calls for the release of a Saudi woman detained for driving. ](/news/2011/05/24/human-rights-watch-calls-for-the-release-of-a-saudi-woman-detained-for-driving.md)
 _Context: Saudi Arabia, Human Rights Watch_
 
-##### manslaughter by gross negligence
+##### Manslaughter by gross negligence
 ### [A British police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G-20 protests. ](/news/2011/05/24/a-british-police-officer-is-to-be-charged-with-manslaughter-over-the-death-of-newspaper-seller-ian-tomlinson-during-the-2009-g-20-protests.md)
 A police officer is to be charged with manslaughter over the death of newspaper seller Ian Tomlinson during the 2009 G20 protests.
 
 ##### Thailand
 ### [Thai authorities lift a special security law used to curtail violent demonstrations ahead of elections on 3 July. ](/news/2011/05/24/thai-authorities-lift-a-special-security-law-used-to-curtail-violent-demonstrations-ahead-of-elections-on-3-july.md)
-_Context: special security law, Thailand_
+_Context: Thailand, special security law_
 
-##### political prisoner
+##### Political prisoner
 ### [More than 30 political prisoners go on hunger strike at Insein Prison in Burma to protest against their treatment. ](/news/2011/05/24/more-than-30-political-prisoners-go-on-hunger-strike-at-insein-prison-in-burma-to-protest-against-their-treatment.md)
 A group of Burmese political prisoners stage a hunger strike over living conditions, as the UN warns that rights abuses are still widespread.
 
@@ -101,7 +101,7 @@ _Context: Tunisia_
 
 ##### Lord Wei
 ### [Lord Wei, who was in charge of David Cameron's Big Society project, has announced he is standing down from the role. ](/news/2011/05/24/lord-wei-who-was-in-charge-of-david-cameron-s-big-society-project-has-announced-he-is-standing-down-from-the-role.md)
-_Context: David Cameron, Big Society, Lord Wei_
+_Context: Lord Wei, David Cameron, Big Society_
 
 ##### Kathy Hochul
 ### [Kathy Hochul, the Democratic Party candidate, wins a special election to represent New York's 26th congressional district in the United States House of Representatives. ](/news/2011/05/24/kathy-hochul-the-democratic-party-candidate-wins-a-special-election-to-represent-new-york-s-26th-congressional-district-in-the-united-stat.md)
@@ -109,7 +109,7 @@ The morning after Democrat Kathy Hochul used the Medicare issue to win what had 
 
 ##### Soyuz TMA-20
 ### [The Soyuz TMA-20 spacecraft, carrying half of the members of Expedition 27 back from their crew rotation aboard the International Space Station, lands safely in Kazakhstan. ](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.md)
-_Context: Kazakhstan, International Space Station, Soyuz TMA-20, Expedition 27_
+_Context: Kazakhstan, Expedition 27, International Space Station, Soyuz TMA-20_
 
 ## [Previous Day...](/news/2011/05/23/index.md)
 

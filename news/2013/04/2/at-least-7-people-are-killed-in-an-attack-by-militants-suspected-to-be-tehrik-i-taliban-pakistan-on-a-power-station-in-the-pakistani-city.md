@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/at-least-7-people-are-killed-in-an-attack-by-mil
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### militants
+##### Militants
 # At least 7 people are killed in an attack by militants, suspected to be Tehrik-i-Taliban Pakistan, on a power station in the Pakistani city of Peshawar. Ten hostages are reportedly taken by the militants. 
 
 At least seven people are killed as dozens of heavily-armed militants attack an electricity plant in the Pakistani city of Peshawar, officials say.

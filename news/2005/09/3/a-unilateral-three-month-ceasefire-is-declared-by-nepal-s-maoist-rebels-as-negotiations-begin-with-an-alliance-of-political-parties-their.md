@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-b
 
 ### [2005-09-3](/news/2005/09/3/index.md)
 
-##### unilateral
+##### Unilateral
 #  A unilateral three-month ceasefire is declared by Nepal's Maoist rebels as negotiations begin with an alliance of political parties. Their leader, Pushpa Kamal Dahal, said they would "not launch any offensive" during the truce. 
 
 

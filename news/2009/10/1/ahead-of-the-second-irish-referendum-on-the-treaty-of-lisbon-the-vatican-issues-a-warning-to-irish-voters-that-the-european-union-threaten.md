@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/1/ahead-of-the-second-irish-referendum-on-the-trea
 
 ### [2009-10-1](/news/2009/10/1/index.md)
 
-##### the second Irish referendum
+##### The second Irish referendum
 #  Ahead of the second Irish referendum on the Treaty of Lisbon, the Vatican issues a warning to Irish voters that the European Union threatens Ireland's "identity, traditions and history". 
 
 The Vatican has made an unexpected last-minute intervention on the eve of Ireland&#039;s Lisbon Treaty referendum with a warning the European Union threatens the country&#039;s &#034;identity, traditions and history&#034;.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/4/gary-dobson-and-david-norris-are-jailed-for-life
 
 ### [2012-01-4](/news/2012/01/4/index.md)
 
-##### life imprisonment
+##### Life imprisonment
 # Gary Dobson and David Norris are jailed for life for the 1993 murder of Stephen Lawrence. Dobson is given a minimum of 15 years and two months, and Norris 14 years and three months. 
 
 Two men convicted of the murder of Stephen Lawrence have been given life sentences with minimum terms of 15 years and two months and 14 years and three months.

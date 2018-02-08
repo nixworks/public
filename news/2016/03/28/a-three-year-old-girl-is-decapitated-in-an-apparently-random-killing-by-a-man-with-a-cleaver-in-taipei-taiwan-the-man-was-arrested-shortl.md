@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-appa
 
 ### [2016-03-28](/news/2016/03/28/index.md)
 
-##### cleaver
+##### Cleaver
 #  A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. 
 
 Police arrest man following Monday’s apparently random attack outside subway station in Taipei, according to local media

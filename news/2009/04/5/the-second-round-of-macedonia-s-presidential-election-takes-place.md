@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-ele
 
 ### [2009-04-5](/news/2009/04/5/index.md)
 
-##### second round
+##### Second round
 #  The second round of Macedonia's presidential election takes place. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/10/u-s-officials-tell-of-their-plans-to-impose-san
 
 ### [2004-03-10](/news/2004/03/10/index.md)
 
-##### sanctions
+##### Sanctions
 #  U.S. officials tell of their plans to impose sanctions against Syria under the Syria Accountability and Lebanese Sovereignty Restoration Act. The Bush administration accuses Syria of sponsoring terrorism and developing chemical and biological weapons. 
 
 

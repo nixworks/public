@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/18/rescuers-race-to-reach-over-180-coal-miners-tra
 
 ### [2007-08-18](/news/2007/08/18/index.md)
 
-##### coal miner
+##### Coal miner
 #  Rescuers race to reach over 180 coal miners trapped in two flooded mines in Shandong province in China. 
 
 Rescuers were battling to reach more than 180 miners trapped by floods in eastern China, raising fears of more deaths in what is already the world&#039;s most dangerous mining sector.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/20/the-government-of-germany-states-that-national-
 
 ### [2011-10-20](/news/2011/10/20/index.md)
 
-##### government of Germany
+##### Government of Germany
 # The government of Germany states that national GDP growth in 2012 will be significantly lower than initially predicted, due to the eurozone's ongoing economic crisis. 
 
 

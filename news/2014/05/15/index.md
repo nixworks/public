@@ -3,7 +3,7 @@ Formats: [HTML](2014/05/15/index.html)  [JSON](2014/05/15/index.json)  [XML](201
 
 ## [2014-05-15](/news/2014/05/15/index.md)
 
-##### car bomb
+##### Car bomb
 ### [A car bomb explodes near the Turkish border, killing at least 29 people and wounding dozens of others. ](/news/2014/05/15/a-car-bomb-explodes-near-the-turkish-border-killing-at-least-29-people-and-wounding-dozens-of-others.md)
 _Context: car bomb_
 
@@ -17,13 +17,13 @@ Two people were killed and 21 were wounded in an attack early Thursday on an ant
 
 ##### Turkestan Islamic Party
 ### [A group named Turkestan Islamic Party claims the responsibility for the attack on Urumqi Railway Station in China. ](/news/2014/05/15/a-group-named-turkestan-islamic-party-claims-the-responsibility-for-the-attack-on-ara1-4mqi-railway-station-in-china.md)
-_Context: Turkestan Islamic Party, Urumqi Railway Station, the attack_
+_Context: Turkestan Islamic Party, the attack, Urumqi Railway Station_
 
 ##### First Family
 ### [First Family Barack and Michelle Obama and numerous political figures visit and dedicate the memorial with the victims on Ground Zero. ](/news/2014/05/15/first-family-barack-and-michelle-obama-and-numerous-political-figures-visit-and-dedicate-the-memorial-with-the-victims-on-ground-zero.md)
 The somber ceremony dedicating the National September 11 Memorial Museum was held in the museum’s Foundation Hall, 70 feet beneath ground level at bedrock.
 
-##### labour unions
+##### Labour unions
 ### [Several trade unions in Turkey hold a one-day strike in response to the disaster. ](/news/2014/05/15/several-trade-unions-in-turkey-hold-a-one-day-strike-in-response-to-the-disaster.md)
 _Context: labour unions, Turkey_
 
@@ -41,7 +41,7 @@ _Context: South Korea_
 
 ##### New England Patriots
 ### [Former New England Patriots tight end Aaron Hernandez is charged with two counts of murder in relation to a drive-by shooting in Boston's South End district in July 2012. ](/news/2014/05/15/former-new-england-patriots-tight-end-aaron-hernandez-is-charged-with-two-counts-of-murder-in-relation-to-a-drive-by-shooting-in-boston-s-so.md)
-_Context: tight end, Aaron Hernandez, South End, New England Patriots, Boston_
+_Context: Boston, Aaron Hernandez, South End, New England Patriots, tight end_
 
 ##### Meriam Yehya Ibrahim
 ### [An eight month pregnant Christian woman, Meriam Yehya Ibrahim, is sentenced to death by hanging for apostasy in Sudan in a case that has drawn widespread international condemnation.](/news/2014/05/15/an-eight-month-pregnant-christian-woman-meriam-yehya-ibrahim-is-sentenced-to-death-by-hanging-for-apostasy-in-sudan-in-a-case-that-has-dra.md)

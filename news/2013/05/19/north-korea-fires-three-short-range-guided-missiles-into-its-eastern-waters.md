@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/19/north-korea-fires-three-short-range-guided-miss
 
 ### [2013-05-19](/news/2013/05/19/index.md)
 
-##### short-range guided missiles
+##### Short-range guided missiles
 # North Korea fires three short-range guided missiles into its eastern waters. 
 
 The tests broke the recent relative silence from the North, but the move was much less provocative than what had been feared earlier this year.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-b
 
 ### [2009-06-28](/news/2009/06/28/index.md)
 
-##### presidential election
+##### Presidential election
 #  A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. 
 
 

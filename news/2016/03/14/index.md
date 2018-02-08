@@ -9,11 +9,11 @@ Turkey begins operations against PKK Kurdish rebels at home and in Iraq, a day a
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Three Palestinians are shot and killed by Israeli Defence Forces after attempting to run over Israeli soldiers. Multiple guns were found in their car. ](/news/2016/03/14/three-palestinians-are-shot-and-killed-by-israeli-defence-forces-after-attempting-to-run-over-israeli-soldiers-multiple-guns-were-found-in.md)
-_Context: Israeli Defence Forces, Palestinian, Israeli, Israeli-Palestinian conflict (2015-present)_
+_Context: Palestinian, Israeli-Palestinian conflict (2015-present), Israeli, Israeli Defence Forces_
 
 ##### Mexican Drug War
 ### [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md)
-_Context: Mexico, Reynosa, Mexican Drug War_
+_Context: Reynosa, Mexico, Mexican Drug War_
 
 ##### Saudi-led intervention in Yemen
 ### [A United Arab Emirates Air Force fighter jet crashes in a mountainous area near the southern Yemeni city of Aden, killing both pilots. ](/news/2016/03/14/a-united-arab-emirates-air-force-fighter-jet-crashes-in-a-mountainous-area-near-the-southern-yemeni-city-of-aden-killing-both-pilots.md)
@@ -23,7 +23,7 @@ Two Emirati pilots were killed when their jet crashed during a mission against H
 ### [Russian President Vladimir Putin orders Defence Minister Sergey Shoygu to start the withdrawal of Russian Armed Forces from Syria, saying during a meeting with Shoygu, "I consider the objectives that have been set for the Defense Ministry to be generally accomplished. That is why I order to start withdrawal of the main part of our military group from the territory of the Syrian Arab Republic starting from tomorrow." ](/news/2016/03/14/russian-president-vladimir-putin-orders-defence-minister-sergey-shoygu-to-start-the-withdrawal-of-russian-armed-forces-from-syria-saying-du.md)
 Russian President Vladimir Putin has ordered Defense Minister Sergey Shoigu to start the withdrawal of forces from Syria starting Tuesday. Russia will however keep a military presence at the port of Tartus and at the Khmeimim airbase to observe ceasefire agreements.
 
-##### northern
+##### Northern
 ### [Flood warnings are put in place and roads are closed after a heavy rain continues to fall in the northern parts of the Australian state of Queensland. ](/news/2016/03/14/flood-warnings-are-put-in-place-and-roads-are-closed-after-a-heavy-rain-continues-to-fall-in-the-northern-parts-of-the-australian-state-of-q.md)
 Roads have been closed in Queensland&#39;s northwest following heavy rain which is expected to stick around for at least a few more days.
 
@@ -37,7 +37,7 @@ Some of the injured in critical condition; cause of incident being investigated
 
 ##### North Korea's nuclear program
 ### [North Korea's supreme leader Kim Jong-un says his country will soon conduct a nuclear warhead test and test launch ballistic missiles capable of carrying nuclear warheads, according to North Korea's state media. ](/news/2016/03/14/north-korea-s-supreme-leader-kim-jong-un-says-his-country-will-soon-conduct-a-nuclear-warhead-test-and-test-launch-ballistic-missiles-capabl.md)
-_Context: leader, Korean Central News Agency, Kim Jong-un, North Korea, North Korea's nuclear program_
+_Context: leader, Korean Central News Agency, North Korea's nuclear program, Kim Jong-un, North Korea_
 
 ##### Status of press freedom worldwide
 ### [Australian Foreign Minister Julie Bishop says the government is very concerned about Saturday's arrest and detention of two Australian Broadcasting Corporation journalists who attempted to interview Malaysian Prime Minister Najib Razak. The pair, who are in Malaysia to investigate allegations of corruption and bribery involving the prime minister, were detained by Malaysian police for six hours, and told not to leave the country. ](/news/2016/03/14/australian-foreign-minister-julie-bishop-says-the-government-is-very-concerned-about-saturday-s-arrest-and-detention-of-two-australian-broad.md)

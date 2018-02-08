@@ -9,7 +9,7 @@ _Context: Benghazi, Libya_
 
 ##### Albert del Rosario
 ### [Albert del Rosario, the Philippines Secretary of Foreign Affairs, wants to withdraw Filipino peacekeepers from the Golan Heights subsequent to Syrian rebels kidnapping four troops. ](/news/2013/05/10/albert-del-rosario-the-philippines-secretary-of-foreign-affairs-wants-to-withdraw-filipino-peacekeepers-from-the-golan-heights-subsequent.md)
-_Context: Golan Heights, Albert del Rosario, Philippines Foreign Secretary, Syria, Philippines, Filipino_
+_Context: Philippines Foreign Secretary, Filipino, Golan Heights, Philippines, Albert del Rosario, Syria_
 
 ##### Tamerlan Tsarnaev
 ### [Suspect Tamerlan Tsarnaev is buried in the al-Barzakh Cemetery in Doswell, Virginia, United States. ](/news/2013/05/10/suspect-tamerlan-tsarnaev-is-buried-in-the-al-barzakh-cemetery-in-doswell-virginia-united-states.md)
@@ -21,9 +21,9 @@ Boston Marathon bombing suspect Tamerlan Tsarnaev has been buried in a Muslim ce
 ### [Taiwan demands an apology from the Philippines related to an incident where a Taiwanese fisherman died after a Philippine Coast Guard intercepted his fishing vessel in the disputed waters of the Bashi Channel. ](/news/2013/05/10/taiwan-demands-an-apology-from-the-philippines-related-to-an-incident-where-a-taiwanese-fisherman-died-after-a-philippine-coast-guard-interc.md)
 Taiwan demands an explanation from Manila after a fisherman was shot and killed in disputed waters by the Philippine coastguard.
 
-##### elephant
+##### Elephant
 ### [After yesterday's attack, preserve park authorities discover that twenty-six elephants, including four calves, were killed by poachers in the Dzanga-Ndoki National Park in the Central African Republic. ](/news/2013/05/10/after-yesterday-s-attack-preserve-park-authorities-discover-that-twenty-six-elephants-including-four-calves-were-killed-by-poachers-in-th.md)
-_Context: Central African Republic, Dzanga-Ndoki National Park, elephant_
+_Context: Dzanga-Ndoki National Park, Central African Republic, elephant_
 
 ##### West, Texas
 ### [A paramedic in West, Texas, United States is arrested for possession of an explosive device, but authorities do not elaborate as to whether there is a connection to the deadly explosion last month at the town's fertilizer plant. ](/news/2013/05/10/a-paramedic-in-west-texas-united-states-is-arrested-for-possession-of-an-explosive-device-but-authorities-do-not-elaborate-as-to-whether.md)

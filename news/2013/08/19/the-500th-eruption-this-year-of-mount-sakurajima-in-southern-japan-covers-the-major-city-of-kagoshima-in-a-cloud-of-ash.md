@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/19/the-500th-eruption-this-year-of-mount-sakurajim
 
 ### [2013-08-19](/news/2013/08/19/index.md)
 
-##### eruption
+##### Eruption
 # The 500th eruption this year of Mount Sakurajima in Southern Japan covers the major city of Kagoshima in a cloud of ash. 
 
 A clean-up operation has begun in Japan after an eruption at a volcano covered an entire city with ash.

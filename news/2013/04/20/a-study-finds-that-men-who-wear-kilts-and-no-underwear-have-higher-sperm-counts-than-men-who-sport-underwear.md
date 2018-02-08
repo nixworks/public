@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/20/a-study-finds-that-men-who-wear-kilts-and-no-un
 
 ### [2013-04-20](/news/2013/04/20/index.md)
 
-##### kilt
+##### Kilt
 # A study finds that men who wear kilts and no underwear have higher sperm counts than men who sport underwear. 
 
 

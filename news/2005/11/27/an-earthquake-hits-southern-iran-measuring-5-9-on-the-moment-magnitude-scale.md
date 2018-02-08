@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/27/an-earthquake-hits-southern-iran-measuring-5-9-
 
 ### [2005-11-27](/news/2005/11/27/index.md)
 
-##### earthquake hits southern Iran
+##### Earthquake hits southern Iran
 #  An earthquake hits southern Iran, measuring 5.9 on the moment magnitude scale. 
 
 

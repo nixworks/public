@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/14/at-least-28-people-are-dead-and-22-missing-afte
 
 ### [2008-12-14](/news/2008/12/14/index.md)
 
-##### ferry
+##### Ferry
 #  At least 28 people are dead and 22 missing after the ferry "Maejan" capsizes in the northern Philippines. 
 
 

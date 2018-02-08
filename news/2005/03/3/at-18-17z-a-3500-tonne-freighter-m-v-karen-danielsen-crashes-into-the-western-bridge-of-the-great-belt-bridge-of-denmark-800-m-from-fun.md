@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/3/at-18-17z-a-3500-tonne-freighter-m-v-karen-danie
 
 ### [2005-03-3](/news/2005/03/3/index.md)
 
-##### clock
+##### Clock
 #  At 18:17Z, a 3500-tonne freighter, M-V Karen Danielsen, crashes into the Western bridge of the Great Belt Bridge of Denmark, 800 m from Funen. All traffic across the bridge stopped, effectively separating Denmark in two. 
 
 

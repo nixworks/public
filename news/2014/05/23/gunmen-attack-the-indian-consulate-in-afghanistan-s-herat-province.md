@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanist
 
 ### [2014-05-23](/news/2014/05/23/index.md)
 
-##### attack the Indian consulate
+##### Attack the Indian consulate
 # Gunmen attack the Indian consulate in Afghanistan's Herat Province. 
 
 

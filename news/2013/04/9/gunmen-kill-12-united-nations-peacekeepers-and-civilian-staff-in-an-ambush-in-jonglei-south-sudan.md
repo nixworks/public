@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/9/gunmen-kill-12-united-nations-peacekeepers-and-c
 
 ### [2013-04-9](/news/2013/04/9/index.md)
 
-##### kill
+##### Kill
 # Gunmen kill 12 United Nations peacekeepers and civilian staff in an ambush in Jonglei, South Sudan. 
 
 Foreign ministry says rebel attack on UN convoy in Jonglei region killed five Indian nationals who were escorting it.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/1/the-united-nations-confirms-the-islamic-state-of
 
 ### [2015-09-1](/news/2015/09/1/index.md)
 
-##### destroyed
+##### Destroyed
 # The United Nations confirms the Islamic State of Iraq and the Levant has completely destroyed the Temple of Bel in Palmyra, Syria, after earlier reports that the structure was mostly intact. 
 
 Satellite analysis confirms the destruction of the most significant temple in the ancient Syrian city of Palmyra, the United Nations says.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/10/global-warming-is-accelerating-rapidly-in-the-a
 
 ### [2004-11-10](/news/2004/11/10/index.md)
 
-##### warming
+##### Warming
 #  Global warming is accelerating rapidly in the Arctic, according to 
 
 

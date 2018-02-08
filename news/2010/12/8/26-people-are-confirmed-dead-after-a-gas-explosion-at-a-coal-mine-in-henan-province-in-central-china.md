@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/8/26-people-are-confirmed-dead-after-a-gas-explosi
 
 ### [2010-12-8](/news/2010/12/8/index.md)
 
-##### coal mine
+##### Coal mine
 # 26 people are confirmed dead after a gas explosion at a coal mine in Henan Province in central China. 
 
 Death toll rises to 26 as more bodies are found after gas explosion in a coal mine in Henan province.

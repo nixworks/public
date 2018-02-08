@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/19/a-bomb-made-of-three-gas-cylinders-explodes-in-
 
 ### [2012-05-19](/news/2012/05/19/index.md)
 
-##### explodes
+##### Explodes
 # A bomb, made of three gas cylinders, explodes in front of a vocational school in the Italian city of Brindisi, killing a 16-year-old female student. 
 
 A bomb outside a school in the southern Italian city of Brindisi kills a teenage girl and injures five other people as children gather for classes.

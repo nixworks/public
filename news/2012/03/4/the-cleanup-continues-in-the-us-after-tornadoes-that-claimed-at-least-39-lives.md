@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/4/the-cleanup-continues-in-the-us-after-tornadoes-
 
 ### [2012-03-4](/news/2012/03/4/index.md)
 
-##### tornadoes
+##### Tornadoes
 # The cleanup continues in the US after tornadoes that claimed at least 39 lives. 
 
 US authorities search for survivors and clear damage after a string of tornadoes killed at least 37 people in four Midwestern states.

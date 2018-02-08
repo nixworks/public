@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/4/a-landslide-buries-a-bus-carrying-at-least-40-pe
 
 ### [2007-07-4](/news/2007/07/4/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide buries a bus carrying at least 40 people in mountains near Tehuacan in the Mexican state of Puebla. 
 
 A landslide completely buried a bus carrying at least 40 passengers in the mountains of southern Puebla state this morning, killing all on board. 

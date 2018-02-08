@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/27/a-general-strike-goes-into-its-third-day-in-swa
 
 ### [2007-07-27](/news/2007/07/27/index.md)
 
-##### general strike
+##### General strike
 #  A general strike goes into its third day in Swaziland; strikers demand democratic elections and an end to absolute monarchy. 
 
 

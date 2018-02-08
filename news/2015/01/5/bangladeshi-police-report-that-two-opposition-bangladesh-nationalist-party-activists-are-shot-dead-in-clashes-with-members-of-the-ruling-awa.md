@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-ba
 
 ### [2015-01-5](/news/2015/01/5/index.md)
 
-##### police officers
+##### Police officers
 # Bangladeshi police report that two opposition Bangladesh Nationalist Party activists are shot dead in clashes with members of the ruling Awami League in the town of Natore on the first anniversary of disputed general election. 
 
 Bangladeshi opposition leader Khaleda Zia calls for a transport blockade after four protesters are killed in clashes with police and government supporters.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/10/the-defense-starts-the-concluding-remarks-in-th
 
 ### [2006-07-10](/news/2006/07/10/index.md)
 
-##### trial of Saddam Hussein
+##### Trial of Saddam Hussein
 #  The defense starts the concluding remarks in the trial of Saddam Hussein.
 
 

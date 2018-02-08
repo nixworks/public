@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-to
 
 ### [2015-01-16](/news/2015/01/16/index.md)
 
-##### panda
+##### Panda
 # Chinese officials impose an emergency ban on tourists approaching pandas subsequent to the death of two pandas from a canine distemper virus. 
 
 

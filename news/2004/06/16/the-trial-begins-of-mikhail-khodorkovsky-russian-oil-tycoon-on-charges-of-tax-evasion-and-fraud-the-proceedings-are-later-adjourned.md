@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/16/the-trial-begins-of-mikhail-khodorkovsky-russia
 
 ### [2004-06-16](/news/2004/06/16/index.md)
 
-##### trial
+##### Trial
 #  The trial begins of Mikhail Khodorkovsky, Russian oil tycoon on charges of tax evasion and fraud; the proceedings are later adjourned. 
 
 

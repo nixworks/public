@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/26/2011-libyan-civil-war-forces-loyal-to-the-natio
 
 ### [2011-09-26](/news/2011/09/26/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Forces loyal to the National Transitional Council (NTC) enter Muammar Gaddafi's stronghold of Sirte, as the NTC's three-day assault on the city intensifies. 
 
 

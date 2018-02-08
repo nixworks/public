@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/10/a-14-year-old-high-school-student-goes-on-a-sho
 
 ### [2007-10-10](/news/2007/10/10/index.md)
 
-##### goes on a shooting rampage
+##### Goes on a shooting rampage
 #  A 14-year-old high school student goes on a shooting rampage in Cleveland, Ohio, wounding two teachers and two students before his death. 
 
 

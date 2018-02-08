@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/22/a-bankruptcy-court-judge-in-new-york-has-author
 
 ### [2006-03-22](/news/2006/03/22/index.md)
 
-##### bankruptcy
+##### Bankruptcy
 #  A bankruptcy court judge in New York has authorized the creation of an equity holders' committee in connection with the reorganization of auto parts maker Delphi Corporation, 
 
 

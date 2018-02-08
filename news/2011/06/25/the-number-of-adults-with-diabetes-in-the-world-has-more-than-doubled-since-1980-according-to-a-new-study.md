@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/25/the-number-of-adults-with-diabetes-in-the-world
 
 ### [2011-06-25](/news/2011/06/25/index.md)
 
-##### diabetes
+##### Diabetes
 # The number of adults with diabetes in the world has more than doubled since 1980, according to a new study. 
 
 The number of adults with diabetes in the world has more than doubled since 1980 with serious consequences for health budgets, researchers say.

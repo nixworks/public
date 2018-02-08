@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/14/recent-climate-change-would-still-cause-a-6-met
 
 ### [2015-07-14](/news/2015/07/14/index.md)
 
-##### global warming
+##### Global warming
 # Recent climate change would still cause a 6-meter (20-feet) sea-level rise even if greenhouse gas emissions were reduced today per a scientific paper in "Science".
 
 Without further emission cuts, global temperatures could reach 5˚C above pre-industrial levels by 2100 with devastating effects on oceans and species A global warming increase of less than 2˚C could be enough to raise sea levels by six metres, research has shown. Melting polar ice sheets have...

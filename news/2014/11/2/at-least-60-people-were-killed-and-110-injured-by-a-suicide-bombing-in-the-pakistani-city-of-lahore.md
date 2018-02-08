@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/2/at-least-60-people-were-killed-and-110-injured-b
 
 ### [2014-11-2](/news/2014/11/2/index.md)
 
-##### a suicide bombing
+##### A suicide bombing
 # At least 60 people were killed and 110 injured by a suicide bombing in the Pakistani city of Lahore. 
 
 

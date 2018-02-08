@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/2/exploration-of-mars-nasa-announces-that-mars-rov
 
 ### [2004-03-2](/news/2004/03/2/index.md)
 
-##### route
+##### Route
 #  Exploration of Mars: NASA announces that Mars rover "Opportunity" landed in an area where "liquid water once drenched the surface". 
 
 

@@ -13,11 +13,11 @@ Explosions took place as a leader of the al-Shabab anti-government group gave se
 
 ##### Nazimiye
 ### [Four soldiers are killed and several sustain wounds in a rocket, rifle and grenade attack on a military outpost near Nazimiye in Turkey. ](/news/2010/05/1/four-soldiers-are-killed-and-several-sustain-wounds-in-a-rocket-rifle-and-grenade-attack-on-a-military-outpost-near-nazimiye-in-turkey.md)
-_Context: Nazimiye, Turkey_
+_Context: Turkey, Nazimiye_
 
-##### thoroughbred racing
+##### Thoroughbred racing
 ### [In thoroughbred racing, Super Saver, ridden by Calvin Borel, wins the 2010 Kentucky Derby. ](/news/2010/05/1/in-thoroughbred-racing-super-saver-ridden-by-calvin-borel-wins-the-2010-kentucky-derby.md)
-_Context: Super Saver, Calvin Borel, 2010 Kentucky Derby, thoroughbred racing_
+_Context: 2010 Kentucky Derby, Calvin Borel, Super Saver, thoroughbred racing_
 
 ##### Nalchik
 ### [At least one person is killed and 21 others are injured at a horse race in Nalchik, Kabardino-Balkaria. ](/news/2010/05/1/at-least-one-person-is-killed-and-21-others-are-injured-at-a-horse-race-in-nalchik-kabardino-balkaria.md)
@@ -37,13 +37,13 @@ Nationwide shutdown announced after prime minister refused calls to step down.
 
 ##### Greece
 ### [Greek police shoot tear gas at protesters in Athens during an anti-government march. ](/news/2010/05/1/greek-police-shoot-tear-gas-at-protesters-in-athens-during-an-anti-government-march.md)
-_Context: Athens, Greece, tear gas_
+_Context: Greece, Athens, tear gas_
 
 ##### Tirana
 ### [Thousands of people protest in Tirana, demanding a recount of votes from last June's parliamentary elections. ](/news/2010/05/1/thousands-of-people-protest-in-tirana-demanding-a-recount-of-votes-from-last-june-s-parliamentary-elections.md)
 Opposition socialists plan hunger strike as stalemate over June elections drags on.
 
-##### boxing
+##### Boxing
 ### [In a non-title boxing match, welterweight champion Shane Mosley loses to Floyd Mayweather by unanimous decision. ](/news/2010/05/1/in-a-non-title-boxing-match-welterweight-champion-shane-mosley-loses-to-floyd-mayweather-by-unanimous-decision.md)
 Reporting from Las Vegas Floyd Mayweather Jr. predicted a cakewalk, and Saturday night he called his own number in a brilliant rally from second-round trouble to dissect Shane Mosley in a unanimous...
 
@@ -61,7 +61,7 @@ _Context: European Patent Organisation, Albania_
 
 ##### Taiwan
 ### [Taiwan employs capital punishment for the first time since 2005, executing four men for "grave offences such as fatal kidnappings and murders". ](/news/2010/05/1/taiwan-employs-capital-punishment-for-the-first-time-since-2005-executing-four-men-for-grave-offences-such-as-fatal-kidnappings-and-murder.md)
-_Context: Taiwan, capital punishment, the first time since 2005_
+_Context: Taiwan, the first time since 2005, capital punishment_
 
 ##### The Washington Post
 ### [Two retired generals tell "The Washington Post" that, with more than 25 per cent of young Americans being "too fat to fight", obesity is threatening the future of the United States military. ](/news/2010/05/1/two-retired-generals-tell-the-washington-post-that-with-more-than-25-per-cent-of-young-americans-being-too-fat-to-fight-obesity-is-thr.md)
@@ -69,7 +69,7 @@ Rising rates of obesity among young Americans could pose a risk to the future of
 
 ##### Taipei
 ### [A Taipei-Shanghai flight makes an emergency landing in Hangzhou after an American passenger makes an inappropriate reference to a bomb. ](/news/2010/05/1/a-taipei-shanghai-flight-makes-an-emergency-landing-in-hangzhou-after-an-american-passenger-makes-an-inappropriate-reference-to-a-bomb.md)
-_Context: Taipei, Shanghai, United States, Hangzhou_
+_Context: Hangzhou, Taipei, United States, Shanghai_
 
 ##### Boston
 ### [A major pipe rupture in Weston, Massachusetts leaves up to 2 million people in the Greater Boston area without drinkable tap water for 59 hours. ](/news/2010/05/1/a-major-pipe-rupture-in-weston-massachusetts-leaves-up-to-2-million-people-in-the-greater-boston-area-without-drinkable-tap-water-for-59-ho.md)

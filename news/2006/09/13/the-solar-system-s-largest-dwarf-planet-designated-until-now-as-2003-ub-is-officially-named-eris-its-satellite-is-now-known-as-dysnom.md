@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/13/the-solar-system-s-largest-dwarf-planet-designa
 
 ### [2006-09-13](/news/2006/09/13/index.md)
 
-##### solar system
+##### Solar system
 #  The solar system's largest dwarf planet, designated until now as 2003 UB, is officially named "Eris"; its satellite is now known as "Dysnomia".
 
 

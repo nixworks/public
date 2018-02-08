@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/12/bangladeshi-prime-minister-sheikh-hasina-accuse
 
 ### [2017-09-12](/news/2017/09/12/index.md)
 
-##### refugees
+##### Refugees
 # Bangladeshi Prime Minister Sheikh Hasina accuses the Burmese government of "atrocities" against the Rohingya people and calls for these alleged atrocities to stop. 
 
 &quot;We want peace and a friendly relation with neighbouring countries...(but) we cannot allow and accept any kind of unjust and our protest will continue to this end,&quot; Hasina said after visiting a Rohingya refugee camp near the border town of Ukhiya in Cox&#039;s Bazar district 

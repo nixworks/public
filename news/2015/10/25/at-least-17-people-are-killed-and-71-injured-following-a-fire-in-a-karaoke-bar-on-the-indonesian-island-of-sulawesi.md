@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/25/at-least-17-people-are-killed-and-71-injured-fo
 
 ### [2015-10-25](/news/2015/10/25/index.md)
 
-##### karaoke
+##### Karaoke
 # At least 17 people are killed and 71 injured following a fire in a karaoke bar on the Indonesian island of Sulawesi. 
 
 

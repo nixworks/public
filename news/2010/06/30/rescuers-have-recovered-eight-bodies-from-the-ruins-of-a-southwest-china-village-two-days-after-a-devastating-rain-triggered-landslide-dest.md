@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/30/rescuers-have-recovered-eight-bodies-from-the-r
 
 ### [2010-06-30](/news/2010/06/30/index.md)
 
-##### southwest China
+##### Southwest China
 # Rescuers have recovered eight bodies from the ruins of a southwest China village, two days after a devastating rain-triggered landslide destroyed 37 houses and buried 99 villagers under mud. 91 residents of Dazhai Village, Guanling County, Guizhou Province, remained missing. 
 
 

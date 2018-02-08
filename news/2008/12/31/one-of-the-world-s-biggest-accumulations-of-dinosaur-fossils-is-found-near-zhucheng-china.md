@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/31/one-of-the-world-s-biggest-accumulations-of-din
 
 ### [2008-12-31](/news/2008/12/31/index.md)
 
-##### dinosaur
+##### Dinosaur
 #  One of the world's biggest accumulations of dinosaur fossils is found near Zhucheng, China. 
 
 

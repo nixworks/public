@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/5/a-6-0-magnitude-earthquake-strikes-sichuan-china
 
 ### [2008-08-5](/news/2008/08/5/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 6.0 magnitude earthquake strikes Sichuan, China, according to the US Geological Survey. 
 
 A strong earthquake has rocked the western Chinese provinces of Sichuan and Gansu.

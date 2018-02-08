@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/2/a-false-alarm-bomb-scare-temporarily-shuts-down-
 
 ### [2011-01-2](/news/2011/01/2/index.md)
 
-##### bomb scare
+##### Bomb scare
 # A false-alarm bomb scare temporarily shuts down the Egyptian-Israeli border to over 1,000 Nigerian Christians on pilgrimage to Israel. 
 
 IT was a bad New Year Day for some over 1,000 Nigerian pilgrims performing the 2010 pilgrimage to the holy land in Israel as the Israeli authority on Saturday shut its border against those entering the country from Egypt over a bomb scare which turned to be a false alarm.

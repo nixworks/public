@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/23/at-least-five-people-are-killed-and-dozens-buri
 
 ### [2010-02-23](/news/2010/02/23/index.md)
 
-##### landslide
+##### Landslide
 # At least five people are killed and dozens buried in a landslide near Bandung in West Java, Indonesia. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment

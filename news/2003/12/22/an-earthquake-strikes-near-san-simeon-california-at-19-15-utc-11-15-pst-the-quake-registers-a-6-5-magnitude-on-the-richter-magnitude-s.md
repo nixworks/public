@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/22/an-earthquake-strikes-near-san-simeon-californi
 
 ### [2003-12-22](/news/2003/12/22/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake strikes near San Simeon, California, at 19:15 UTC (11:15 PST). The quake registers a 6.5 magnitude on the Richter magnitude scale, and causes two deaths from the collapse of a building in the town of Paso Robles. [http:--www.cnn.com-2003-US-West-12-22-ca.earthquake-index.html],[https:--earthquake.usgs.gov-recenteqsUS-Quakes-nc40148755.htm]
 
 

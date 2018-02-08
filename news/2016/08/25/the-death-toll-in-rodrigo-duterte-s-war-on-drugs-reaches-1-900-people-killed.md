@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/25/the-death-toll-in-rodrigo-duterte-s-war-on-drug
 
 ### [2016-08-25](/news/2016/08/25/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The death toll in Rodrigo Duterte's war on drugs reaches 1,900 people killed. 
 
 Police records and data gathered by Al Jazeera show close to 6,000 killed since new president took office on June 30.

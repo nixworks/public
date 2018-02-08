@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/7/at-least-three-people-die-and-10-go-missing-duri
 
 ### [2010-06-7](/news/2010/06/7/index.md)
 
-##### natural gas
+##### Natural gas
 # At least three people die and 10 go missing during an explosion in a natural gas pipeline in Cleburne, Texas. 
 
 A large natural gas line in north Texas erupted Monday after utility workers accidentally hit the line, sending a column of fire into the air and leaving one worker dead, officials said. 

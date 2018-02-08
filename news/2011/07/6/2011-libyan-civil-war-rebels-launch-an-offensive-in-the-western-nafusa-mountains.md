@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/6/2011-libyan-civil-war-rebels-launch-an-offensive
 
 ### [2011-07-6](/news/2011/07/6/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war:Rebels launch an offensive in the western Nafusa Mountains. 
 
 Fighters take town of al-Qawalish after six-hour battle and move closer to cutting supply route to capital.

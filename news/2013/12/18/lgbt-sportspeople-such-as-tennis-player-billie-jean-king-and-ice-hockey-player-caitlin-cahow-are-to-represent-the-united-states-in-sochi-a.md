@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/18/lgbt-sportspeople-such-as-tennis-player-billie-
 
 ### [2013-12-18](/news/2013/12/18/index.md)
 
-##### gay and bisexual men
+##### Gay and bisexual men
 # LGBT sportspeople, such as tennis player Billie Jean King and ice hockey player Caitlin Cahow, are to represent the United States in Sochi as a protest against the treatment of LGBT people in Russia. 
 
 

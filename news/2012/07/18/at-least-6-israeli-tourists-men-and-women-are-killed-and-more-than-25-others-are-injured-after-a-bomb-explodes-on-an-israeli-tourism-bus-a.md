@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/18/at-least-6-israeli-tourists-men-and-women-are-k
 
 ### [2012-07-18](/news/2012/07/18/index.md)
 
-##### explodes
+##### Explodes
 # At least 6 Israeli tourists, men and women, are killed and more than 25 others are injured after a bomb explodes on an Israeli tourism bus at Burgas Airport, Bulgaria. 
 
 Over 30 wounded in explosion on bus carrying Israelis inside Burgas airport; Netanyahu says, &#8216;All signs point to Iran&#8217;; Israeli medical teams fly to the scene

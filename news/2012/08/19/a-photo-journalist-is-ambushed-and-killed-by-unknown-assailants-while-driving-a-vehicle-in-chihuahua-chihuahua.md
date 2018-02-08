@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/19/a-photo-journalist-is-ambushed-and-killed-by-un
 
 ### [2012-08-19](/news/2012/08/19/index.md)
 
-##### more than 80 have been killed
+##### More than 80 have been killed
 # A photo journalist is ambushed and killed by unknown assailants while driving a vehicle in Chihuahua, Chihuahua. 
 
 

@@ -11,15 +11,15 @@ The Tasmanian Aboriginal community are using National Aboriginal Islander Day Ob
 ### [Researchers publish in "Nature" their discovery of stone tools in Norfolk suggesting that humans landed there almost a million years ago. ](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.md)
 Researchers discover stone tools in Norfolk that suggest humans arrived in Britain nearly a million years ago.
 
-##### divorce
+##### Divorce
 ### [A study shows that a married person's risk of encountering marriage troubles increases by up to 75% if a co-worker, friend, or a family member gets a divorce. ](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-encountering-marriage-troubles-increases-by-up-to-75-if-a-co-worker-friend-or-a-family-memb.md)
 _Context: divorce_
 
-##### heat wave
+##### Heat wave
 ### [A heat wave kills 9 people in Canada and the United States. ](/news/2010/07/7/a-heat-wave-kills-9-people-in-canada-and-the-united-states.md)
 The scene inside Con Ed’s command center showed the urgency of the utility’s efforts and the nature of its reach.
 
-##### series of bombings
+##### Series of bombings
 ### [A suicide bomber attacks a Shia pilgrimage in Baghdad, Iraq killing at least 41 and wounding 174. ](/news/2010/07/7/a-suicide-bomber-attacks-a-shia-pilgrimage-in-baghdad-iraq-killing-at-least-41-and-wounding-174.md)
 More than 40 people are killed and 100 are wounded in a series of bomb attacks on Shia pilgrims in Baghdad, police say.
 
@@ -33,11 +33,11 @@ A complex in Norway housing rejected asylum seekers was burned to the ground fol
 
 ##### United Kingdom
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: Afghanistan, Sangin, United States, United Kingdom_
+_Context: Sangin, Afghanistan, United States, United Kingdom_
 
 ##### Bruno Fernandes de Souza
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
-_Context: Bruno Fernandes de Souza, Brazil_
+_Context: Brazil, Bruno Fernandes de Souza_
 
 ##### Marco Polo Bridge Incident
 ### [Protests in Hong Kong and Taiwan mark the 73rd anniversary of the Marco Polo Bridge Incident. ](/news/2010/07/7/protests-in-hong-kong-and-taiwan-mark-the-73rd-anniversary-of-the-marco-polo-bridge-incident.md)
@@ -61,7 +61,7 @@ Ex-ruler of Panama sentenced to seven years in prison for laundering drug money.
 
 ##### Constitutional Court of Turkey
 ### [The Constitutional Court of Turkey annuls key parts of government-backed constitutional reforms designed for possible European Union membership, rejecting opposition calls for the rest to be rejected as well and permitting the rest to be put to a national referendum in September. ](/news/2010/07/7/the-constitutional-court-of-turkey-annuls-key-parts-of-government-backed-constitutional-reforms-designed-for-possible-european-union-members.md)
-_Context: European Union, Constitutional Court of Turkey, referendum_
+_Context: referendum, Constitutional Court of Turkey, European Union_
 
 ##### Uri Brodsky
 ### [Israeli Uri Brodsky, suspected of assisting the assassination of Mahmoud al-Mabhouh in Dubai, is permitted to be extradited from Poland to Germany. ](/news/2010/07/7/israeli-uri-brodsky-suspected-of-assisting-the-assassination-of-mahmoud-al-mabhouh-in-dubai-is-permitted-to-be-extradited-from-poland-to-g.md)
@@ -69,7 +69,7 @@ An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be 
 
 ##### Gaza Strip
 ### [Israel rejects as "failed to meet the criteria" the application of Fatima Sharif, the Gaza human rights attorney who hoped to study for a master's degree in human rights and democracy at Birzeit University in the Israeli-occupied West Bank. ](/news/2010/07/7/israel-rejects-as-failed-to-meet-the-criteria-the-application-of-fatima-sharif-the-gaza-human-rights-attorney-who-hoped-to-study-for-a-ma.md)
-_Context: Gaza Strip, Birzeit University, West Bank, human rights, master's degree_
+_Context: human rights, master's degree, Birzeit University, West Bank, Gaza Strip_
 
 ##### Cuba
 ### [Cuba releases 52 political prisoners in its aim to improve its human rights record, the largest number the country has released for decades. ](/news/2010/07/7/cuba-releases-52-political-prisoners-in-its-aim-to-improve-its-human-rights-record-the-largest-number-the-country-has-released-for-decades.md)
@@ -121,7 +121,7 @@ _Context: European Union_
 
 ##### FIFA World Cup 2010
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
-_Context: third, Netherlands, 2010 FIFA World Cup Final, Spain, FIFA World Cup 2010, Germany_
+_Context: FIFA World Cup 2010, Germany, 2010 FIFA World Cup Final, Netherlands, third, Spain_
 
 ## [Previous Day...](/news/2010/07/6/index.md)
 

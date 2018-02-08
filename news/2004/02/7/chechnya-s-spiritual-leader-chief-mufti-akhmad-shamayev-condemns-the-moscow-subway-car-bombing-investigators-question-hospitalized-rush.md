@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/7/chechnya-s-spiritual-leader-chief-mufti-akhmad-s
 
 ### [2004-02-7](/news/2004/02/7/index.md)
 
-##### spiritual leader
+##### Spiritual leader
 #  Chechnya's spiritual leader, Chief Mufti Akhmad Shamayev, condemns the Moscow subway car bombing. Investigators question hospitalized rush hour commuters and examine documents retrieved from the blast site.
 
 

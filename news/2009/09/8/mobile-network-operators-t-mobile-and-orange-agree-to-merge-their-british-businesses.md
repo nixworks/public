@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/8/mobile-network-operators-t-mobile-and-orange-agr
 
 ### [2009-09-8](/news/2009/09/8/index.md)
 
-##### wireless mobile carriers
+##### Wireless mobile carriers
 #  Mobile network operators T-Mobile and Orange agree to merge their British businesses. 
 
 

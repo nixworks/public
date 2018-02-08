@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injure
 
 ### [2010-11-12](/news/2010/11/12/index.md)
 
-##### nursing home
+##### Nursing home
 # Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. 
 
 

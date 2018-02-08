@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/2/five-road-accidents-in-two-days-claims-the-lives
 
 ### [2013-02-2](/news/2013/02/2/index.md)
 
-##### road accidents
+##### Road accidents
 # Five road accidents in two days claims the lives of at least 58 people in China before Chinese New Year. 
 
 Beijing, Feb 3 (IANS) Five road accidents in two days have claimed the lives of at least 58 people, as thousands of Chinese started travelling across the country for the Lunar New Year.

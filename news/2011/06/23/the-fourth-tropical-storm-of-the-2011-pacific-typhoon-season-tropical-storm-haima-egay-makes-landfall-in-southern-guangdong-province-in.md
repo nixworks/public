@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-t
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### tropical storm
+##### Tropical storm
 # The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. 
 
 

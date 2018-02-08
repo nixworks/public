@@ -13,7 +13,7 @@ The late SJ Harris was noted for being the first African-American female profess
 
 ##### Removal of Confederate monuments and memorials
 ### [During a protest in Durham, North Carolina, to show solidarity with the events in Charlottesville, Virginia, a Confederate monument was pulled down and destroyed; a woman has been arrested and charged in connection with the event. ](/news/2017/08/14/during-a-protest-in-durham-north-carolina-to-show-solidarity-with-the-events-in-charlottesville-virginia-a-confederate-monument-was-pull.md)
-_Context: Confederate monuments, Charlottesville, Durham, North Carolina, Removal of Confederate monuments and memorials, Unite the Right rally_
+_Context: Unite the Right rally, Removal of Confederate monuments and memorials, Charlottesville, Confederate monuments, Durham, North Carolina_
 
 ##### 2017 Sierra Leone mudslides
 ### [A mudslide triggered by heavy rain near Sierra Leone's capital Freetown, kills at least 350 people with the death toll expected to rise as high as 500. ](/news/2017/08/14/a-mudslide-triggered-by-heavy-rain-near-sierra-leone-s-capital-freetown-kills-at-least-350-people-with-the-death-toll-expected-to-rise-as-h.md)
@@ -31,9 +31,9 @@ Ukraine denied on Monday that it had ever supplied defense technology to North K
 ### [A 13-year-old girl is killed when a car is deliberately driven into a pizza restaurant's sidewalk cafe in Sept-Sorts, France. At least 12 other people are injured, four critically. The driver is arrested. Police do not believe the incident was terrorism-related. ](/news/2017/08/14/a-13-year-old-girl-is-killed-when-a-car-is-deliberately-driven-into-a-pizza-restaurant-s-sidewalk-cafe-in-sept-sorts-france-at-least-12-ot.md)
 8-year-old girl killed and at least eight injured when vehicle slams into sidewalk cafe east of Paris on Monday
 
-##### drug crackdown
+##### Drug crackdown
 ### [Senate Majority Leader Vicente "Tito" Sotto III has lashed out at UN special rapporteurs headed by Agnes Callamard, in his privilege speech calling them "helicopter experts" for offering "solutions" to a decades-old problem of a country "they are not even familiar with". ](/news/2017/08/14/senate-majority-leader-vicente-tito-sotto-iii-has-lashed-out-at-un-special-rapporteurs-headed-by-agnes-callamard-in-his-privilege-speech.md)
-_Context: drug crackdown, decades-old problem, Vicente "Tito" Sotto III, Agnes Callamard, senators, UN special rapporteurs_
+_Context: decades-old problem, senators, UN special rapporteurs, drug crackdown, Vicente "Tito" Sotto III, Agnes Callamard_
 
 ##### 2016-17 Rohingya persecution in Myanmar
 ### [India announces that it is to deport an estimated 40,000 Rohingya refugees including 14,000 of those registered with the U.N. refugee agency. In the months leading up to the announcement, a string of anti-Rohingya protests had been held in the country.](/news/2017/08/14/india-announces-that-it-is-to-deport-an-estimated-40-000-rohingya-refugees-including-14-000-of-those-registered-with-the-u-n-refugee-agency.md)
@@ -45,7 +45,7 @@ New Zealand&#039;s Prime Minister confirms that unwittingly or not, Barnaby Joyc
 
 ##### Politics of London
 ### [The Garden Bridge project is officially abandoned after Mayor of London Sadiq Khan withdraws support. ](/news/2017/08/14/the-garden-bridge-project-is-officially-abandoned-after-mayor-of-london-sadiq-khan-withdraws-support.md)
-_Context: Politics of London, Sadiq Khan, Mayor of London, Garden Bridge_
+_Context: Garden Bridge, Sadiq Khan, Mayor of London, Politics of London_
 
 ##### Sanctuary cities
 ### [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/9/tens-of-thousands-of-protesters-begin-their-anti
 
 ### [2006-09-9](/news/2006/09/9/index.md)
 
-##### anti-corruption
+##### Anti-corruption
 #  Tens of thousands of protesters begin their anticorruption protests, "Million Voices Against Corruption, President Chen Must Go", against President Chen Shui-bian in Taipei, Taiwan. 
 
 

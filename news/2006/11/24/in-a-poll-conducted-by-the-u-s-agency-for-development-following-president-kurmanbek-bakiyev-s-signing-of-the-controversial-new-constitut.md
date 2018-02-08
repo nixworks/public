@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/24/in-a-poll-conducted-by-the-u-s-agency-for-devel
 
 ### [2006-11-24](/news/2006/11/24/index.md)
 
-##### president
+##### President
 #  In a poll conducted by the U.S. Agency for Development, following President Kurmanbek Bakiyev's signing of the controversial, new Constitution of Kyrgyzstan, 62% of Kyrgyz citizens believe the country is moving in the right direction. 
 
 

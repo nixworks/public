@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/23/eight-people-are-killed-and-13-missing-after-fl
 
 ### [2010-01-23](/news/2010/01/23/index.md)
 
-##### landslide
+##### Landslide
 # Eight people are killed and 13 missing after flash floods and landslides hit Sulawesi, Indonesia. 
 
 

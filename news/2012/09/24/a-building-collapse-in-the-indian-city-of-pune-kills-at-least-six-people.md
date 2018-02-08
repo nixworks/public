@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/24/a-building-collapse-in-the-indian-city-of-pune-
 
 ### [2012-09-24](/news/2012/09/24/index.md)
 
-##### building collapse
+##### Building collapse
 # A building collapse in the Indian city of Pune kills at least six people. 
 
 At least six people are killed after a building collapses in Pune city in the western Indian state of Maharashtra.

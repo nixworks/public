@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/2/saudi-arabian-authorities-announce-they-have-arr
 
 ### [2014-09-2](/news/2014/09/2/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Saudi Arabian authorities announce they have arrested 88 people on suspicions of being part of an al-Qaeda cell and plotting attacks inside and outside the kingdom. 
 
 Government says 88 people, including Saudis and Yemenis, held on suspicion of plotting attacks in kingdom and abroad.

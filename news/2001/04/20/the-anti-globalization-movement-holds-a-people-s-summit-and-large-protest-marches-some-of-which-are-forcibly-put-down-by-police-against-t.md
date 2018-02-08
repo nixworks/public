@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/04/20/the-anti-globalization-movement-holds-a-people-
 
 ### [2001-04-20](/news/2001/04/20/index.md)
 
-##### anti-globalization movement
+##### Anti-globalization movement
 #  The anti-globalization movement holds a People's Summit and large protest marches, some of which are forcibly put down by police, against the FTAA summit in Quebec City, Quebec.
 
 

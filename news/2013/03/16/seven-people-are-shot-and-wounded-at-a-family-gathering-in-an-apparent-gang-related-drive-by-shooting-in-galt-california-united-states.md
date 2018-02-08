@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-g
 
 ### [2013-03-16](/news/2013/03/16/index.md)
 
-##### drive-by shooting
+##### Drive-by shooting
 # Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-
 
 ### [2014-05-19](/news/2014/05/19/index.md)
 
-##### same-sex couples
+##### Same-sex couples
 # Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.
 
 

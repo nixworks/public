@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/13/british-serial-killer-dr-harold-shipman-is-foun
 
 ### [2004-01-13](/news/2004/01/13/index.md)
 
-##### serial killer
+##### Serial killer
 #  British serial killer Dr Harold Shipman is found dead in his cell.
 
 

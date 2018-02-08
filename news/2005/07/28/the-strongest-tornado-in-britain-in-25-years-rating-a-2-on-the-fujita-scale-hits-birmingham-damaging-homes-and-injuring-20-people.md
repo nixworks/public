@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/28/the-strongest-tornado-in-britain-in-25-years-ra
 
 ### [2005-07-28](/news/2005/07/28/index.md)
 
-##### tornado
+##### Tornado
 #  The strongest tornado in Britain in 25 years, rating a 2 on the Fujita scale, hits Birmingham, damaging homes and injuring 20 people. 
 
 

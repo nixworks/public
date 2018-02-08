@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
-##### last general election
+##### Last general election
 # The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. 
 
 Party supports fixed-term parliaments but says it will not stand in the way of an early election.

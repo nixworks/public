@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/7/the-people-s-republic-of-china-jails-five-people
 
 ### [2005-01-7](/news/2005/01/7/index.md)
 
-##### infant formula
+##### Infant formula
 #  The People's Republic of China jails five people for eight years for selling fake infant formula, which has caused the deaths of at least 13 infants and illness in 189. 
 
 

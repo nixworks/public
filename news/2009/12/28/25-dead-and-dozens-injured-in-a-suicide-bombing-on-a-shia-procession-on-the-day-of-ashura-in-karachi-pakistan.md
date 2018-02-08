@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/28/25-dead-and-dozens-injured-in-a-suicide-bombing
 
 ### [2009-12-28](/news/2009/12/28/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  25 dead and dozens injured in a suicide bombing on a Shia procession on the day of Ashura, in Karachi, Pakistan. 
 
 

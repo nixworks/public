@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/22/a-76-year-old-man-is-sentenced-to-life-in-priso
 
 ### [2013-07-22](/news/2013/07/22/index.md)
 
-##### life in prison without parole
+##### Life in prison without parole
 # A 76-year-old man is sentenced to life in prison without parole for the 2012 murder of a 13-year-old boy in Milwaukee, Wisconsin. 
 
 

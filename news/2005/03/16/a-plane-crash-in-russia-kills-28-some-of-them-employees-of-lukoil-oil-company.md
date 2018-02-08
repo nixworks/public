@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/16/a-plane-crash-in-russia-kills-28-some-of-them-e
 
 ### [2005-03-16](/news/2005/03/16/index.md)
 
-##### plane crash
+##### Plane crash
 #  A plane crash in Russia kills 28, some of them employees of Lukoil oil company. 
 
 

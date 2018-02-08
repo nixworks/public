@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing
 
 ### [2010-12-29](/news/2010/12/29/index.md)
 
-##### minimum wage
+##### Minimum wage
 # The minimum wage in the Chinese capital Beijing is raised by 20% for the second time in six months, amid rising food costs. 
 
 

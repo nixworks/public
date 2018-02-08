@@ -29,7 +29,7 @@ _Context: Al Hoceima, Morocco, Royal Guardsmen_
 
 ##### Manitou Springs
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: United States, Colorado, Manitou Springs_
+_Context: Manitou Springs, Colorado, United States_
 
 ##### Belfast
 ### [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md)
@@ -37,7 +37,7 @@ More than 50 police officers are injured in what have been described as &quot;sh
 
 ##### Boulevard, California
 ### [James Lee DiMaggio, a suspect in the Boulevard, California murders of Christina and Ethan Anderson, and the abduction of Hannah Anderson, is shot to death by an FBI agent in Ada County, Idaho. Hannah Anderson was unharmed. ](/news/2013/08/10/james-lee-dimaggio-a-suspect-in-the-boulevard-california-murders-of-christina-and-ethan-anderson-and-the-abduction-of-hannah-anderson-is.md)
-_Context: Boulevard, California, Ada County, Idaho, FBI agent_
+_Context: FBI agent, Boulevard, California, Ada County, Idaho_
 
 ## [Previous Day...](/news/2013/08/9/index.md)
 

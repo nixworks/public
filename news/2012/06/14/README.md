@@ -29,7 +29,7 @@ Westlife singer Shane Filan is declared bankrupt in the UK after his Irish prope
 
 ##### German
 ### [German deputy finance minister Steffen Kampeter rejects calls to pool European debt, saying "debt is a national responsibility." ](/news/2012/06/14/german-deputy-finance-minister-steffen-kampeter-rejects-calls-to-pool-european-debt-saying-debt-is-a-national-responsibility.md)
-_Context: German, Steffen Kampeter_
+_Context: Steffen Kampeter, German_
 
 ##### Nokia
 ### [Nokia announces it will cut 10,000 jobs. ](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.md)
@@ -39,7 +39,7 @@ Nokia cuts another 10,000 jobs and warns that second-quarter losses from its mob
 ### [Coca-Cola says that it will start doing business in Burma after sixty years as soon as the U.S. government issues a license allowing American companies to make such investments. ](/news/2012/06/14/coca-cola-says-that-it-will-start-doing-business-in-burma-after-sixty-years-as-soon-as-the-u-s-government-issues-a-license-allowing-america.md)
 Rovio, the Finnish gaming company behind Angry Birds, has opened its Shanghai office and outlined plans for activity parks and stores across China, one of its biggest markets.
 
-##### steel plant
+##### Steel plant
 ### [An explosion at a government-owned steel plant in Visakhapatnam, India kills 11 and severely injures 16 others. ](/news/2012/06/14/an-explosion-at-a-government-owned-steel-plant-in-visakhapatnam-india-kills-11-and-severely-injures-16-others.md)
 A massive explosion at a government-owned steel plant in the southern Indian state of Andhra Pradesh has killed at least 11 people, police say.
 
@@ -53,7 +53,7 @@ _Context: Los Zetas, Lexington, Oklahoma, Jose Trevino Morales_
 
 ##### Prime Minister
 ### [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md)
-_Context: Leveson Inquiry, Rebekah Brooks, Andy Coulson, Prime Minister, News International, David Cameron_
+_Context: News International, David Cameron, Rebekah Brooks, Leveson Inquiry, Andy Coulson, Prime Minister_
 
 ##### UK Supreme Court
 ### [The UK Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen his appeal against extradition to Sweden over alleged sex crimes. ](/news/2012/06/14/the-uk-supreme-court-dismisses-a-bid-by-wikileaks-founder-julian-assange-to-reopen-his-appeal-against-extradition-to-sweden-over-alleged-sex.md)
@@ -63,7 +63,7 @@ The Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen 
 ### [Mental health problems are no longer to be a bar to becoming an MP in the United Kingdom. ](/news/2012/06/14/mental-health-problems-are-no-longer-to-be-a-bar-to-becoming-an-mp-in-the-united-kingdom.md)
 _Context: MP_
 
-##### a woman forced
+##### A woman forced
 ### [Photos of a woman forced to have an illegal abortion by Chinese authorities due to the country's One-Child Policy spark controversy. ](/news/2012/06/14/photos-of-a-woman-forced-to-have-an-illegal-abortion-by-chinese-authorities-due-to-the-country-s-one-child-policy-spark-controversy.md)
 A photo of a foetus whose mother was forced to have an abortion while seven months pregnant shocks Chinese web users and sparks an inquiry.
 
@@ -81,9 +81,9 @@ _Context: Venezuela, Hugo Chavez_
 
 ##### HBO
 ### [HBO issues a public apology for any offence suffered after the use of a severed head in "Game of Thrones"; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.md)
-_Context: Game of Thrones, George W. Bush, HBO_
+_Context: George W. Bush, Game of Thrones, HBO_
 
-##### stem cell
+##### Stem cell
 ### [A 10-year-old girl receives what is believed to be the world's first stem cell assisted vein transplant. ](/news/2012/06/14/a-10-year-old-girl-receives-what-is-believed-to-be-the-world-s-first-stem-cell-assisted-vein-transplant.md)
 _Context: stem cell_
 
@@ -97,7 +97,7 @@ _Context: Australia, marine reserve_
 
 ##### Legionnaires' disease
 ### [A second person dies after contracting Legionnaires' disease in Edinburgh. ](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.md)
-_Context: Edinburgh, Legionnaires' disease_
+_Context: Legionnaires' disease, Edinburgh_
 
 ## [Previous Day...](/news/2012/06/13/index.md)
 

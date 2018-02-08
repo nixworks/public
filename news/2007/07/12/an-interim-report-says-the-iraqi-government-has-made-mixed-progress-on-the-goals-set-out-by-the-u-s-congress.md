@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/12/an-interim-report-says-the-iraqi-government-has
 
 ### [2007-07-12](/news/2007/07/12/index.md)
 
-##### interim
+##### Interim
 #  An interim report says the Iraqi government has made "mixed progress" on the goals set out by the U.S. Congress. 
 
 

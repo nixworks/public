@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/8/a-meeting-of-the-leaders-of-the-parties-comprisi
 
 ### [2012-02-8](/news/2012/02/8/index.md)
 
-##### government
+##### Government
 # A meeting of the leaders of the parties comprising the Greek Government breaks up without agreeing to cuts prescribed by the European Union, the European Central Bank and the International Monetary Fund. 
 
 

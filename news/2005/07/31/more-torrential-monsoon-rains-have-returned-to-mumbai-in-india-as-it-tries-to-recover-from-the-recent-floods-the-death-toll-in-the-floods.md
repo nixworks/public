@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/31/more-torrential-monsoon-rains-have-returned-to-
 
 ### [2005-07-31](/news/2005/07/31/index.md)
 
-##### monsoon
+##### Monsoon
 #  More torrential monsoon rains have returned to Mumbai in India, as it tries to recover from the recent floods. The death toll in the floods rises to about 1,000. 
 
 

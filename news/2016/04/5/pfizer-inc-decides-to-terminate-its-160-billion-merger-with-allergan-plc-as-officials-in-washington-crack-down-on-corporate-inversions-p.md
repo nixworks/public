@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/5/pfizer-inc-decides-to-terminate-its-160-billion-
 
 ### [2016-04-5](/news/2016/04/5/index.md)
 
-##### corporate tax inversions
+##### Corporate tax inversions
 # Pfizer Inc. decides to terminate its $160 billion merger with Allergan, Plc as officials in Washington crack down on corporate inversions. Pfizer will need to pay a $400 million fee to Allergan for expenses relating to the deal. 
 
 Pfizer Inc. decided to terminate its $160 billion merger with Allergan Plc, a person familiar with the matter said, marking an end to the largest-ever health-care acquisition as officials in Washington crack down on corporate inversions.

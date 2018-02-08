@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-
 
 ### [2011-10-26](/news/2011/10/26/index.md)
 
-##### coroner
+##### Coroner
 # A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. 
 
 

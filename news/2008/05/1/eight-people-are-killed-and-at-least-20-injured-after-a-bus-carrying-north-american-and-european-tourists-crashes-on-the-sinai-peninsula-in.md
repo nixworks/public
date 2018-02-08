@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/1/eight-people-are-killed-and-at-least-20-injured-
 
 ### [2008-05-1](/news/2008/05/1/index.md)
 
-##### bus
+##### Bus
 #  Eight people are killed and at least 20 injured after a bus carrying North American and European tourists crashes on the Sinai peninsula in Egypt. 
 
 

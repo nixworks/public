@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/5/a-discharged-45-year-old-former-employee-shoots-
 
 ### [2017-06-5](/news/2017/06/5/index.md)
 
-##### shoots and kills five people
+##### Shoots and kills five people
 # A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando, Florida, United States. The shooter took his own life afterwards. Eight others inside the workplace survived. 
 
 

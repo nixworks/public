@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/12/four-girls-who-were-held-hostage-for-four-hours
 
 ### [2005-04-12](/news/2005/04/12/index.md)
 
-##### held hostage
+##### Held hostage
 #  Four girls who were held hostage for four hours are freed from a house in Ennepetal, in the state of North Rhine-Westphalia, Germany. 
 
 

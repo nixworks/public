@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/20/police-say-that-a-forensic-report-confirmed-the
 
 ### [2013-07-20](/news/2013/07/20/index.md)
 
-##### monocrotophos
+##### Monocrotophos
 # Police say that a forensic report confirmed the cooking oil contained "very toxic" levels of monocrotophos, an agricultural pesticide. 
 
 Tests confirm high levels of pesticide in samples of the school meal blamed for the deaths of 23 children in the north-eastern India state of Bihar.

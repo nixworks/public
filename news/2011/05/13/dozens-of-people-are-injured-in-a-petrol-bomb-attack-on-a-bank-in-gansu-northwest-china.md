@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/13/dozens-of-people-are-injured-in-a-petrol-bomb-a
 
 ### [2011-05-13](/news/2011/05/13/index.md)
 
-##### petrol bomb
+##### Petrol bomb
 # Dozens of people are injured in a petrol bomb attack on a bank in Gansu, northwest China. 
 
 A petrol bomb attack during a staff meeting at a rural bank in north-west China injures dozens of people, state media report.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/22/a-state-of-emergency-is-declared-in-california-
 
 ### [2012-08-22](/news/2012/08/22/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in California over wildfires threatening hundreds of buildings 
 
 California Governor Jerry Brown declared a state of emergency in three Northern California counties on Wednesday after raging wildfires destroyed 50 buildings and threatened more than 200 others.

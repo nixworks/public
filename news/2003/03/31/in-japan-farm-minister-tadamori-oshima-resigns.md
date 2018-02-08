@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/31/in-japan-farm-minister-tadamori-oshima-resigns.
 
 ### [2003-03-31](/news/2003/03/31/index.md)
 
-##### farm minister
+##### Farm minister
 #  In Japan, farm minister Tadamori Oshima resigns.
 
 

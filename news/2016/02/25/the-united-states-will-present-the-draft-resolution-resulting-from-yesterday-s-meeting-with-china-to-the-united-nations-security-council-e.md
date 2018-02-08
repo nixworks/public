@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/25/the-united-states-will-present-the-draft-resolu
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
-##### nuclear test
+##### Nuclear test
 # The United States will present the draft resolution, resulting from yesterday's meeting with China, to the United Nations Security Council expanding sanctions on North Korea over its nuclear program. 
 
 The United States presented a draft Security Council resolution on Thursday it negotiated with China that would dramatically tighten existing restrictions on North Korea after its Jan. 6 nuclear test and create the toughest U.N. sanctions regime in over two decades.

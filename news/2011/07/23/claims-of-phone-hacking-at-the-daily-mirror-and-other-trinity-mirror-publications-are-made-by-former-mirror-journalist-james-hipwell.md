@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/23/claims-of-phone-hacking-at-the-daily-mirror-and
 
 ### [2011-07-23](/news/2011/07/23/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # Claims of phone hacking at the "Daily Mirror" and other Trinity Mirror publications are made by former "Mirror" journalist James Hipwell. 
 
 The phone-hacking story took a new and dramatic turn yesterday as a former journalist on the Daily Mirror claimed that the practice was &quot;endemic&quot; at the newspaper during his time there and that he would be willing to testify to investigating authorities.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/10/twenty-people-die-and-9-are-missing-after-a-flo
 
 ### [2007-03-10](/news/2007/03/10/index.md)
 
-##### flood
+##### Flood
 #  Twenty people die and 9 are missing after a flood in a coal mine in Fushun, a city in the province of Shenyang in China. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/3/iraq-and-weapons-of-mass-destruction-the-world-c
 
 ### [2003-10-3](/news/2003/10/3/index.md)
 
-##### weapons of mass destruction
+##### Weapons of mass destruction
 #  Iraq and weapons of mass destruction: The world continues to digest David Kay's report that finds very little evidence of Weapons of mass destruction in Iraq, although the regime did intend to develop more weapons with additional capabilities. Such plans and programs appear to have been dormant, the existence of these were also concealed from the United Nations during the inspections that began in 2002. Weapons inspectors in Iraq do find clandestine ""network of biological laboratories"" and a deadly strain of botulinum. The US-sponsored search for WMD has so far cost $300 million and is projected to cost around $600 million more.
 
 

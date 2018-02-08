@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/15/the-fictional-character-jara-da-cimrman-is-repo
 
 ### [2005-01-15](/news/2005/01/15/index.md)
 
-##### fictional character
+##### Fictional character
 #  The fictional character Jra da Cimrman is reported in a big surprise to lead the scores of "The Biggest Czech person" competition organized by Czech television.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/23/at-the-end-of-their-three-week-synod-in-the-vat
 
 ### [2009-10-23](/news/2009/10/23/index.md)
 
-##### synod
+##### Synod
 #  At the end of their three-week synod in the Vatican, more than 200 African Roman Catholic bishops issue a 12-page document urging what they call corrupt political leaders on the continent to repent their sins or resign and criticising multinational companies who exploit and destroy the earth. 
 
 Roman Catholic bishops called on corrupt Catholic leaders in Africa on Friday to repent or resign for giving the continent and the Church a bad name.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/13/a-huge-glacier-breaks-off-and-plunges-into-a-la
 
 ### [2010-04-13](/news/2010/04/13/index.md)
 
-##### glacier
+##### Glacier
 # A huge glacier breaks off and plunges into a lake in Peru sparking a 23-metre high tsunami wave that destroyed a nearby town. The massive chunk of ice - around the size of four football pitches - tumbled into the '513 lake' in the Andes near Carhuaz, around 200 miles north of Lima. 
 
 

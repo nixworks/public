@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/23/japan-launches-a-new-experimental-internet-sate
 
 ### [2008-02-23](/news/2008/02/23/index.md)
 
-##### new, experimental Internet satellite
+##### New, experimental Internet satellite
 #  Japan launches a new, experimental Internet satellite aboard an H-IIA rocket from the Tanegashima Space Centre. 
 
 

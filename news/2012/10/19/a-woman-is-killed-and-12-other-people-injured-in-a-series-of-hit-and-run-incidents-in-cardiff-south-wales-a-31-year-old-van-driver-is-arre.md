@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/19/a-woman-is-killed-and-12-other-people-injured-i
 
 ### [2012-10-19](/news/2012/10/19/index.md)
 
-##### hit and run
+##### Hit and run
 # A woman is killed and 12 other people injured in a series of hit and run incidents in Cardiff, south Wales. A 31-year-old van driver is arrested by police. 
 
 Community leaders and politicians speak of their shock and sadness after a woman died and 12 other people were injured in a series of hit-and-runs in Cardiff.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/17/the-first-babies-to-have-been-created-through-i
 
 ### [2010-10-17](/news/2010/10/17/index.md)
 
-##### in-vitro fertilization
+##### In-vitro fertilization
 # The first babies to have been created through in-vitro fertilization utilizing a full gene screen are born this year. This gene screen looks for chromosomal defects which often lead to unsuccessful IVF treatments. 
 
 Two women have given birth to healthy babies from eggs screened for genetic defects before being implanted in the womb, in a study of a new technique that could improve the success rate of in-vitro fertilization.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/26/florida-beaches-reopen-after-the-shark-attack-s
 
 ### [2005-06-26](/news/2005/06/26/index.md)
 
-##### the state
+##### The state
 #  Florida beaches reopen after the shark attack Saturday that killed Jamie Daigle. 
 
 

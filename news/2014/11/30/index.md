@@ -11,17 +11,17 @@ _Context: ISIL, Raqqa, Coalition forces_
 ### [FARC releases Colombian Army general Ruben Alzate and two of their other prisoners. ](/news/2014/11/30/farc-releases-colombian-army-general-ruba-c-n-alzate-and-two-of-their-other-prisoners.md)
 _Context: FARC, Colombian Army, Colombian conflict_
 
-##### south of France
+##### South of France
 ### [Heavy flooding in the south of France claims five lives and forces more than 3000 people to leave their homes. ](/news/2014/11/30/heavy-flooding-in-the-south-of-france-claims-five-lives-and-forces-more-than-3000-people-to-leave-their-homes.md)
 The worst flooding in years in southern France has claimed five lives and forced more than 3,000 people to evacuate their homes, officials said Sunday.
 
 ##### Simon Wiesenthal Center
 ### [The Simon Wiesenthal Center presumes that Nazi war criminal Alois Brunner, former assistant to Adolf Eichmann, is dead. ](/news/2014/11/30/the-simon-wiesenthal-center-presumes-that-nazi-war-criminal-alois-brunner-former-assistant-to-adolf-eichmann-is-dead.md)
-_Context: Adolf Eichmann, Simon Wiesenthal Center, Nazi war criminal, Alois Brunner_
+_Context: Adolf Eichmann, Nazi war criminal, Alois Brunner, Simon Wiesenthal Center_
 
 ##### Uruguayan general election
 ### [Voters in Uruguay go to the polls for the second round of voting in the presidential election with former President Tabare Vazquez of the ruling Broad Front winning another term in government. ](/news/2014/11/30/voters-in-uruguay-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-president-tabara-c-va-zquez-of-the.md)
-_Context: Uruguay, Broad Front, Uruguayan general election, President, Tabare Vazquez_
+_Context: Broad Front, Uruguayan general election, Tabare Vazquez, President, Uruguay_
 
 ##### Swiss immigration referendum
 ### [By 74% voters in Switzerland reject the proposal to reduce immigration from about 80,000 to 16,000 people a year. ](/news/2014/11/30/by-74-voters-in-switzerland-reject-the-proposal-to-reduce-immigration-from-about-80-000-to-16-000-people-a-year.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/9/the-mythical-birthplace-of-zeus-is-possibly-disc
 
 ### [2009-02-9](/news/2009/02/9/index.md)
 
-##### mythical
+##### Mythical
 #  The mythical birthplace of Zeus is possibly discovered at Mount Lykaion, Greece. 
 
 Altar found on Mount Lykaion in Greece date back to 1400 B.C., oldest Zeus worship site yet known.

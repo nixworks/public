@@ -21,11 +21,11 @@ A gunfight in the Democratic Republic of Congo mining capital of Lubumbashi leav
 
 ##### International Organization for Migration
 ### [The International Organization for Migration (IOM) expresses concern about thousands of Chadian people, mainly women, children and the elderly, stranded on dangerous territory on the border between Chad and Libya. ](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.md)
-_Context: International Organization for Migration, Libya, Chad_
+_Context: International Organization for Migration, Chad, Libya_
 
 ##### Brown University
 ### [Research by Brown University finds the U.S. wars on Iraq and Afghanistan are expected to cost at least $3.2 trillion, and maybe as much as $4.4 trillion, higher than previously expected. ](/news/2011/06/29/research-by-brown-university-finds-the-u-s-wars-on-iraq-and-afghanistan-are-expected-to-cost-at-least-3-2-trillion-and-maybe-as-much-as.md)
-_Context: Brown University, Iraq War, War in Afghanistan (2001-present)_
+_Context: Iraq War, Brown University, War in Afghanistan (2001-present)_
 
 ##### Abuja
 ### [A curfew is imposed on Abuja by the Nigerian government due to recent deadly attacks. ](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.md)
@@ -57,13 +57,13 @@ _Context: United Kingdom_
 
 ##### Alderney Gambling Control Commission
 ### [The Alderney Gambling Control Commission suspends Full Tilt Poker's gaming license prior to a hearing over an indictment by the United States Department of Justice. ](/news/2011/06/29/the-alderney-gambling-control-commission-suspends-full-tilt-poker-s-gaming-license-prior-to-a-hearing-over-an-indictment-by-the-united-state.md)
-_Context: Department of Justice, Alderney Gambling Control Commission, indicted, Full Tilt Poker_
+_Context: Alderney Gambling Control Commission, Department of Justice, indicted, Full Tilt Poker_
 
 ##### Media conglomerate
 ### [Media conglomerate News Corporation sells MySpace to Specific Media. ](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.md)
 News Corporation sells its ailing social networking site MySpace for a fraction of the price it paid for the business six years ago.
 
-##### wildfire worsens
+##### Wildfire worsens
 ### [A wildfire worsens near major U.S. nuclear weapons research lab Los Alamos National Laboratory in the U.S. state of New Mexico; residents express concern about contamination. ](/news/2011/06/29/a-wildfire-worsens-near-major-u-s-nuclear-weapons-research-lab-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-residents-ex.md)
 Hundreds more firefighters are being deployed to help battle a growing wildfire near a top US nuclear weapons research lab in New Mexico.
 
@@ -71,7 +71,7 @@ Hundreds more firefighters are being deployed to help battle a growing wildfire 
 ### [The death toll from a tropical storm kills 22 people in Vietnam. ](/news/2011/06/29/the-death-toll-from-a-tropical-storm-kills-22-people-in-vietnam.md)
 _Context: Vietnam_
 
-##### primary school
+##### Primary school
 ### [18 children - 15 girls and 3 boys - are killed when lightning strikes a primary school in Masindi in the Western Region of Uganda. ](/news/2011/06/29/18-children-15-girls-and-3-boys-are-killed-when-lightning-strikes-a-primary-school-in-masindi-in-the-western-region-of-uganda.md)
 Lightning strikes a primary school in western Uganda, killing at least 18 children and their teacher in a classroom, officials say.
 
@@ -81,11 +81,11 @@ South Sudan claims the North is using rebels to sow chaos ahead of its official 
 
 ##### North Korea
 ### [North Korea accuses South Korea of slander and threatens "a retaliatory sacred war". ](/news/2011/06/29/north-korea-accuses-south-korea-of-slander-and-threatens-a-retaliatory-sacred-war.md)
-_Context: South Korea, North Korea, slander_
+_Context: slander, South Korea, North Korea_
 
 ##### Omar al-Bashir
 ### [Omar al-Bashir of Sudan and Hu Jintao of the People's Republic of China meet. ](/news/2011/06/29/omar-al-bashir-of-sudan-and-hu-jintao-of-the-people-s-republic-of-china-meet.md)
-_Context: Hu Jintao, Omar al-Bashir, China, Sudan_
+_Context: Hu Jintao, Omar al-Bashir, Sudan, China_
 
 ##### U.S. state
 ### [A lawsuit of $25 million is brought by the mother of a U.S. teen, who was kidnapped, bound and forced to consume alcoholic substances before his death at a fraternity house, against the group responsible for his ordeal in the U.S. state of New York. ](/news/2011/06/29/a-lawsuit-of-25-million-is-brought-by-the-mother-of-a-u-s-teen-who-was-kidnapped-bound-and-forced-to-consume-alcoholic-substances-before.md)
@@ -95,7 +95,7 @@ The mother of a Cornell University student who died after drinking at a fraterni
 ### [Six members of a paramilitary force and a civilian are charged with murder in relation to the death of unarmed Sarfaraz Shah in Karachi, whose 8 June shooting was filmed and later broadcast on television. ](/news/2011/06/29/six-members-of-a-paramilitary-force-and-a-civilian-are-charged-with-murder-in-relation-to-the-death-of-unarmed-sarfaraz-shah-in-karachi-who.md)
 Paramilitary soldiers accused of killing an unarmed man in the Pakistani city of Karachi are charged with murder and terrorism.
 
-##### police bail
+##### Police bail
 ### [A court ruling restricting the powers of police bail throws thousands of cases in England and Wales into disarray. ](/news/2011/06/29/a-court-ruling-restricting-the-powers-of-police-bail-throws-thousands-of-cases-in-england-and-wales-into-disarray.md)
 Police are urgently reviewing the cases of thousands of suspects after a court ruling restricted their powers to bail them for further questioning.
 
@@ -121,7 +121,7 @@ Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39
 
 ##### Rhode Island General Assembly
 ### [The Rhode Island General Assembly passes legislation allowing same-sex couples in the US state to enter civil unions. ](/news/2011/06/29/the-rhode-island-general-assembly-passes-legislation-allowing-same-sex-couples-in-the-us-state-to-enter-civil-unions.md)
-_Context: civil union, Rhode Island General Assembly_
+_Context: Rhode Island General Assembly, civil union_
 
 ## [Previous Day...](/news/2011/06/28/index.md)
 

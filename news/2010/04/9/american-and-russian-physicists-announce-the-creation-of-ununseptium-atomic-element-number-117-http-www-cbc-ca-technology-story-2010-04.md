@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/9/american-and-russian-physicists-announce-the-cre
 
 ### [2010-04-9](/news/2010/04/9/index.md)
 
-##### ununseptium
+##### Ununseptium
 # American and Russian physicists announce the creation of ununseptium, atomic element number 117. [http:--www.cbc.ca-technology-story-2010-04-09-tech-chemistry-element-117.html (CBC News)] "[https:--www.nytimes.com-2010-04-07-science-07element.html?src=mv New York Times]"
 
 

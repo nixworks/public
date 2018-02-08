@@ -7,13 +7,13 @@ Formats: [HTML](2015/10/16/index.html)  [JSON](2015/10/16/index.json)  [XML](201
 ### [Palestinian rioters set fire to the building containing Joseph's Tomb in the West Bank city of Nablus causing heavy damage to the structure before the fire is put out. Palestinian Authority President Mahmoud Abbas condemns the attack. ](/news/2015/10/16/palestinian-rioters-set-fire-to-the-building-containing-joseph-s-tomb-in-the-west-bank-city-of-nablus-causing-heavy-damage-to-the-structure.md)
 PA forces douse the flames and disperse some hundred rioters, who caused heavy damage to the West Bank holy site
 
-##### the battle for Aleppo
+##### The battle for Aleppo
 ### [Syrian Army forces supported by Russian planes attack insurgents south of the city of Aleppo. ](/news/2015/10/16/syrian-army-forces-supported-by-russian-planes-attack-insurgents-south-of-the-city-of-aleppo.md)
 Turkey shot down a drone on Friday in an incident highlighting the dangers of multiple air combat operations over Syria, where government troops and their allies backed by Russian jets have launched an offensive against rebels near Aleppo.
 
 ##### Spillover of the Syrian Civil War
 ### [Turkey says it has shot down a drone near the Syrian border after it failed to leave Turkish airspace. ](/news/2015/10/16/turkey-says-it-has-shot-down-a-drone-near-the-syrian-border-after-it-failed-to-leave-turkish-airspace.md)
-_Context: drone, Syrian border, Spillover of the Syrian Civil War, Turkey_
+_Context: Turkey, Spillover of the Syrian Civil War, drone, Syrian border_
 
 ##### Court of Appeals
 ### [A United States appeals court rules the Google Books Library Project, the scanning of millions of books with snippets searchable online, is legal under copyright law, affirming a 2013 district court decision. ](/news/2015/10/16/a-united-states-appeals-court-rules-the-google-books-library-project-the-scanning-of-millions-of-books-with-snippets-searchable-online-is.md)
@@ -27,7 +27,7 @@ Despite weakening to a tropical rainstorm, Koppu will continue to bring the thre
 ### [Many residents of Los Angeles and Kern counties in southern drought-stricken California are trapped by flash floods after receiving four to six inches of rain in a short period of time. ](/news/2015/10/16/many-residents-of-los-angeles-and-kern-counties-in-southern-drought-stricken-california-are-trapped-by-flash-floods-after-receiving-four-to.md)
 The emergency message crackled over the car radio, warning listeners of looming flash floods.
 
-##### scaffolding
+##### Scaffolding
 ### [Six construction workers, injured when scaffolding at an unfinished building collapsed in Houston, Texas (US), are rushed to area hospitals with non-life threatening injuries. Firefighters continue to sift through the debris for other potential victims. ](/news/2015/10/16/six-construction-workers-injured-when-scaffolding-at-an-unfinished-building-collapsed-in-houston-texas-us-are-rushed-to-area-hospitals.md)
 Several people are feared trapped after scaffolding collapsed Friday morning at building in downtown Houston.
 
@@ -37,7 +37,7 @@ The European Union has agreed an &quot;action plan&quot; with Turkey to help ste
 
 ##### Russia
 ### [Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. ](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.md)
-_Context: Afghanistan, Russia, Kazakhstan_
+_Context: Afghanistan, Kazakhstan, Russia_
 
 ##### Park Geun-hye
 ### [President Park Geun-hye of South Korea is in Washington, D.C. and met with President Barack Obama at The White House. ](/news/2015/10/16/president-park-geun-hye-of-south-korea-is-in-washington-d-c-and-met-with-president-barack-obama-at-the-white-house.md)
@@ -53,7 +53,7 @@ The United States has confirmed that Iran tested a medium-range missile capable 
 
 ##### Rafe Esquith
 ### [Rafe Esquith, a notable teacher in the Los Angeles, California, public school system files a $1 billion class action lawsuit against the LA Unified School District. Esquith, recently removed from teaching and subsequently fired, alleges on behalf of almost 2,000 individuals, certain age-discrimination tactics by the school system against older teachers. ](/news/2015/10/16/rafe-esquith-a-notable-teacher-in-the-los-angeles-california-public-school-system-files-a-1-billion-class-action-lawsuit-against-the-la.md)
-_Context: Los Angeles, Rafe Esquith, LA Unified School District, California_
+_Context: California, LA Unified School District, Los Angeles, Rafe Esquith_
 
 ##### U.S. federal judge
 ### [A U.S. federal judge declines plaintiffs request for an emergency order requiring Texas issue birth certificates to U.S.-born children of immigrant families who entered the country illegally. The judge said Matricula Consular cards issued by Mexican consulates to their citizens in the U.S. aren't secure. The U.S. Constitution's 14th Amendment guarantees the right of citizenship to children born in the United States. ](/news/2015/10/16/a-u-s-federal-judge-declines-plaintiffs-request-for-an-emergency-order-requiring-texas-issue-birth-certificates-to-u-s-born-children-of-im.md)

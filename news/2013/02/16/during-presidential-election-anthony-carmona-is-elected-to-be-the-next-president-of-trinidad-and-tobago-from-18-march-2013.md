@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/16/during-presidential-election-anthony-carmona-is
 
 ### [2013-02-16](/news/2013/02/16/index.md)
 
-##### presidential election
+##### Presidential election
 # During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. 
 
 

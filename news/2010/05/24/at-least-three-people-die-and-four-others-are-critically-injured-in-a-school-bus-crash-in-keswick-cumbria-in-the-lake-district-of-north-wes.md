@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/24/at-least-three-people-die-and-four-others-are-c
 
 ### [2010-05-24](/news/2010/05/24/index.md)
 
-##### a school bus crash
+##### A school bus crash
 # At least three people die and four others are critically injured in a school bus crash in Keswick, Cumbria in the Lake District of North West England in the United Kingdom.
 
 

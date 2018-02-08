@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/19/in-football-valencia-wins-the-uefa-cup-defeatin
 
 ### [2004-05-19](/news/2004/05/19/index.md)
 
-##### football
+##### Football
 #  In football, Valencia wins the UEFA Cup, defeating Olympique Marseille 2-0. 
 
 UEFA.com is the official site of UEFA, the Union of European Football Associations, and the governing body of football in Europe. UEFA works to promote, protect and develop European football across its 55 member associations and organises some of the world’s most famous football competitions, including the UEFA Champions League, UEFA Women’s Champions League, the UEFA Europa League, UEFA EURO and many more. The site features the latest European football news, goals, an extensive archive of video and stats, as well as insights into how the organisation works, including information on financial fair play, how UEFA supports grassroots football and the UEFA HatTrick funding scheme.

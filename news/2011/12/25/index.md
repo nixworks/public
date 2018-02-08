@@ -5,9 +5,9 @@ Formats: [HTML](2011/12/25/index.html)  [JSON](2011/12/25/index.json)  [XML](201
 
 ##### Sudan
 ### [The Sudanese People's Armed Forces claim that the leader of the Justice and Equality Movement in Darfur, Khalil Ibrahim, has been killed. ](/news/2011/12/25/the-sudanese-people-s-armed-forces-claim-that-the-leader-of-the-justice-and-equality-movement-in-darfur-khalil-ibrahim-has-been-killed.md)
-_Context: Sudan People's Armed Forces, Sudan, Justice and Equality Movement, Khalil Ibrahim, Darfur_
+_Context: Sudan People's Armed Forces, Justice and Equality Movement, Sudan, Khalil Ibrahim, Darfur_
 
-##### series of attacks
+##### Series of attacks
 ### [At least 39 people are killed and many injured in a series of attacks against churches in Nigeria during Christmas prayers. The Islamic group Boko Haram claims responsibility. ](/news/2011/12/25/at-least-39-people-are-killed-and-many-injured-in-a-series-of-attacks-against-churches-in-nigeria-during-christmas-prayers-the-islamic-grou.md)
 Terror attacks across Nigeria by a radical Muslim sect killed at least 39 on Sunday, most of them at a Catholic church after Christmas Mass.
 
@@ -17,7 +17,7 @@ Opposition fears government is trying to crush uprising before Arab League obser
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI delivers the annual Christmas message at Saint Peter's Square in Vatican City. ](/news/2011/12/25/pope-benedict-xvi-delivers-the-annual-christmas-message-at-saint-peter-s-square-in-vatican-city.md)
-_Context: Vatican City, Christmas, Saint Peter's Square, Pope Benedict XVI_
+_Context: Vatican City, Pope Benedict XVI, Saint Peter's Square, Christmas_
 
 ##### Haiti
 ### [At least 38 migrants from Haiti are found dead after their boat sank off the east coast of Cuba. ](/news/2011/12/25/at-least-38-migrants-from-haiti-are-found-dead-after-their-boat-sank-off-the-east-coast-of-cuba.md)
@@ -25,7 +25,7 @@ At least 38 migrants, including 17 women, reportedly found dead after boat sinks
 
 ##### State Emergency Service
 ### [State Emergency Service volunteers respond to more than 3000 calls for help after Melbourne, Australia is hit by a series of storms bringing rainstorms, hail and a tornado. ](/news/2011/12/25/state-emergency-service-volunteers-respond-to-more-than-3000-calls-for-help-after-melbourne-australia-is-hit-by-a-series-of-storms-bringing.md)
-_Context: Australia, Melbourne, State Emergency Service_
+_Context: Melbourne, Australia, State Emergency Service_
 
 ##### Faezeh Hashemi
 ### [Faezeh Hashemi, the daughter of former President of Iran Akbar Hashemi Rafsanjani, stands trial on charges of making anti-regime propaganda. ](/news/2011/12/25/faezeh-hashemi-the-daughter-of-former-president-of-iran-akbar-hashemi-rafsanjani-stands-trial-on-charges-of-making-anti-regime-propaganda.md)

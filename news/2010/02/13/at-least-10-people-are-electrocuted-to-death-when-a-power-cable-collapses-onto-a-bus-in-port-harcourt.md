@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/13/at-least-10-people-are-electrocuted-to-death-wh
 
 ### [2010-02-13](/news/2010/02/13/index.md)
 
-##### yesterday's double bus electrocution
+##### Yesterday's double bus electrocution
 # At least 10 people are electrocuted to death when a power cable collapses onto a bus in Port Harcourt. 
 
 

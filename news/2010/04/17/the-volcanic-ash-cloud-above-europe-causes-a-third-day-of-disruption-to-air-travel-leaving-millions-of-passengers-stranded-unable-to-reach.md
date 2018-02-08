@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/17/the-volcanic-ash-cloud-above-europe-causes-a-th
 
 ### [2010-04-17](/news/2010/04/17/index.md)
 
-##### volcanic ash problems
+##### Volcanic ash problems
 # The volcanic ash cloud above Europe causes a third day of disruption to air travel, leaving millions of passengers stranded unable to reach their destinations. Officials warn that airspace could remain shut for several more days. 
 
 The IAA has extended the closure of Irish airspace until 1pm on Sunday because of the dangers to air travel posed by the cloud of volcanic ash.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/4/three-people-die-as-a-result-of-contracting-swin
 
 ### [2009-07-4](/news/2009/07/4/index.md)
 
-##### swine flu
+##### Swine flu
 #  Three people die as a result of contracting swine flu in New Zealand, the country's first flu deaths. 
 
 New Zealand has had its first fatalities linked to the H1N1 flu, with three deaths in the last week, the Ministry of Health said&hellip;

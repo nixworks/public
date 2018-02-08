@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/26/the-earliest-footprints-evidencing-modern-human
 
 ### [2009-02-26](/news/2009/02/26/index.md)
 
-##### footprint
+##### Footprint
 #  The earliest footprints evidencing modern human foot anatomy and gait are discovered in Koobi Fora, Kenya. 
 
 

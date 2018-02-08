@@ -15,13 +15,13 @@ They concealed evidence, then shared information on Iran.
 ### [Clashes erupt in the West Bank after three Palestinian men are shot dead during an early morning raid by Israeli troops in the Palestinian refugee camp of Qalandia. ](/news/2013/08/26/clashes-erupt-in-the-west-bank-after-three-palestinian-men-are-shot-dead-during-an-early-morning-raid-by-israeli-troops-in-the-palestinian-r.md)
 Three Palestinians killed in clash with Israelis, threatening peace talks
 
-##### protests
+##### Protests
 ### [Nationwide protests are held across the Philippines over the Priority Development Assistance Fund scam. ](/news/2013/08/26/nationwide-protests-are-held-across-the-philippines-over-the-priority-development-assistance-fund-scam.md)
 (5th UPDATE) Initiated online, the protest rallies in Luneta and in key cities worldwide are the first of its kind under the Aquino administration
 
 ##### Supreme Court of Iraq
 ### [The Supreme Court of Iraq overturns term limits for senior governmental positions, allowing Iraqi Prime Minister Nouri al-Maliki to seek a third term in 2014.](/news/2013/08/26/the-supreme-court-of-iraq-overturns-term-limits-for-senior-governmental-positions-allowing-iraqi-prime-minister-nouri-al-maliki-to-seek-a-t.md)
-_Context: Supreme Court of Iraq, Iraq, Nouri al-Maliki_
+_Context: Nouri al-Maliki, Iraq, Supreme Court of Iraq_
 
 ##### University of Liberia
 ### [All 25,000 applicants to the University of Liberia fail their entrance exams. ](/news/2013/08/26/all-25-000-applicants-to-the-university-of-liberia-fail-their-entrance-exams.md)

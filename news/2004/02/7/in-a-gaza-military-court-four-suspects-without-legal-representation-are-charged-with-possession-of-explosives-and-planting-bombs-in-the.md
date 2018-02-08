@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/7/in-a-gaza-military-court-four-suspects-without-l
 
 ### [2004-02-7](/news/2004/02/7/index.md)
 
-##### military judge
+##### Military judge
 #  In a Gaza military court, four suspects, without legal representation, are charged with possession of explosives and planting bombs in the same area as a bombing attack on a United States diplomatic convoy. The suspects are "not" charged with the bombing. The United States last week announced a $5 million reward for information leading to the apprehension of the attackers. 
 
 

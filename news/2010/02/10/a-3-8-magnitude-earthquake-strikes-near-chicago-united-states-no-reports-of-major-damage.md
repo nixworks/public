@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/10/a-3-8-magnitude-earthquake-strikes-near-chicago
 
 ### [2010-02-10](/news/2010/02/10/index.md)
 
-##### magnitude
+##### Magnitude
 # A 3.8-magnitude earthquake strikes near Chicago, United States. No reports of major damage. 
 
 

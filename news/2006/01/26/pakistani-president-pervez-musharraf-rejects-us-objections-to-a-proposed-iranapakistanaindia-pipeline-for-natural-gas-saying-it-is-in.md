@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/26/pakistani-president-pervez-musharraf-rejects-us
 
 ### [2006-01-26](/news/2006/01/26/index.md)
 
-##### president
+##### President
 #  Pakistani President Pervez Musharraf rejects US objections to a proposed Iran-Pakistan-India pipeline for natural gas saying "It is in our economic interest. If somebody wants to stop us they should compensate us ... But at the moment we are going ahead". Musharraf also repeats his condemnation of the recent U.S. air strike in northern Pakistan which killed 18 people, including women and children. 
 
 

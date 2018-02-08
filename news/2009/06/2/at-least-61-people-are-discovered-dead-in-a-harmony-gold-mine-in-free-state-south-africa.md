@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/2/at-least-61-people-are-discovered-dead-in-a-harm
 
 ### [2009-06-2](/news/2009/06/2/index.md)
 
-##### die
+##### Die
 #  At least 61 people are discovered dead in a Harmony Gold mine in Free State, South Africa. 
 
 

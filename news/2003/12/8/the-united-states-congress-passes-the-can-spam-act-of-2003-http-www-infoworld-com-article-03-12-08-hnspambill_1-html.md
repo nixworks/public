@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/8/the-united-states-congress-passes-the-can-spam-a
 
 ### [2003-12-8](/news/2003/12/8/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress passes the Can Spam Act of 2003. [http:--www.infoworld.com-article-03-12-08-HNspambill_1.html]
 
 

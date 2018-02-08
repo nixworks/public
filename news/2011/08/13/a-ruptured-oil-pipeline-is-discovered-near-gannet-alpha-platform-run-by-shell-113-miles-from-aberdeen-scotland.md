@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/13/a-ruptured-oil-pipeline-is-discovered-near-gann
 
 ### [2011-08-13](/news/2011/08/13/index.md)
 
-##### oil pipeline
+##### Oil pipeline
 # A ruptured oil pipeline is discovered near Gannet Alpha platform, run by Shell 113 miles from Aberdeen, Scotland. 
 
 Oil company Royal Dutch Shell says it is working to contain a spill at one of its North Sea platforms, but will not say how much oil has been released.

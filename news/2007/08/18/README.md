@@ -5,23 +5,23 @@ Formats: [HTML](2007/08/18/index.html)  [JSON](2007/08/18/index.json)  [XML](200
 
 ##### Crandall Canyon mine
 ### [ Rescuers say that a fourth hole in the Crandall Canyon mine near Huntington, Utah shows no sign of six trapped miners. ](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.md)
-_Context: Crandall Canyon mine, miners, Huntington, Utah_
+_Context: Huntington, Utah, miners, Crandall Canyon mine_
 
-##### bridge
+##### Bridge
 ### [ The death toll of a bridge collapse in Fenghuang, China rises to 64. ](/news/2007/08/18/the-death-toll-of-a-bridge-collapse-in-fenghuang-china-rises-to-64.md)
 _Context: Fenghuang, bridge, China_
 
 ##### Deutsche Bank Building
 ### [ A fire in the former Deutsche Bank Building near New York's Ground Zero kills two firefighters. ](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.md)
-_Context: firefighter, Ground Zero, New York City, Deutsche Bank Building_
+_Context: Ground Zero, Deutsche Bank Building, New York City, firefighter_
 
 ##### Typhoon Sepat
 ### [ Typhoon Sepat makes landfall in the Chinese province of Fujian after nearly a million people have been evacuated. ](/news/2007/08/18/typhoon-sepat-makes-landfall-in-the-chinese-province-of-fujian-after-nearly-a-million-people-have-been-evacuated.md)
-_Context: Chinese, Fujian, Typhoon Sepat_
+_Context: Typhoon Sepat, Chinese, Fujian_
 
-##### murder
+##### Murder
 ### [ Two more suspects are arrested in relation to a triple murder in a Newark, New Jersey elementary schoolyard. ](/news/2007/08/18/two-more-suspects-are-arrested-in-relation-to-a-triple-murder-in-a-newark-new-jersey-elementary-schoolyard.md)
-_Context: elementary school, Newark, New Jersey's, murder_
+_Context: murder, elementary school, Newark, New Jersey's_
 
 ##### North Korea
 ### [ North Korea launches a flood relief program to help the hundreds of thousands of people left homeless. ](/news/2007/08/18/north-korea-launches-a-flood-relief-program-to-help-the-hundreds-of-thousands-of-people-left-homeless.md)
@@ -31,17 +31,17 @@ North Korea says it has launched an all-out campaign to help hundreds of thousan
 ### [ An armed clash between two Somali clans in the village of Goobo results in at least 16 people being killed and 30 injured. ](/news/2007/08/18/an-armed-clash-between-two-somali-clans-in-the-village-of-goobo-results-in-at-least-16-people-being-killed-and-30-injured.md)
 At least 16 people have been killed and 30 others wounded in a fierce gun battle between rival clans in central Somalia, witnesses say.
 
-##### fire
+##### Fire
 ### [ One person is dead, four people are missing, after a fire at the Penhallow Hotel in Newquay, Cornwall. ](/news/2007/08/18/one-person-is-dead-four-people-are-missing-after-a-fire-at-the-penhallow-hotel-in-newquay-cornwall.md)
-_Context: Cornish, fire, Newquay_
+_Context: Newquay, Cornish, fire_
 
 ##### 2007 Peru earthquake
 ### [ Survivors of the 2007 Peru earthquake flee the worst hit areas as looting intensifies. The President of Peru Alan Garca sends another 1,000 troops to the area. ](/news/2007/08/18/survivors-of-the-2007-peru-earthquake-flee-the-worst-hit-areas-as-looting-intensifies-the-president-of-peru-alan-garcia-sends-another-1-00.md)
-_Context: President, Alan Garca, 2007 Peru earthquake, looting_
+_Context: President, 2007 Peru earthquake, looting, Alan Garca_
 
 ##### Maldives
 ### [ Voters in the Maldives go to the polls in a constitutional referendum to decide between a presidential or parliamentary system of government. ](/news/2007/08/18/voters-in-the-maldives-go-to-the-polls-in-a-constitutional-referendum-to-decide-between-a-presidential-or-parliamentary-system-of-governmen.md)
-_Context: presidential, a constitutional referendum, parliamentary system, Maldives_
+_Context: presidential, Maldives, parliamentary system, a constitutional referendum_
 
 ##### Kazakhstan
 ### [ Voters in Kazakhstan go to the polls for the Kazakhstani legislative election, 2007. ](/news/2007/08/18/voters-in-kazakhstan-go-to-the-polls-for-the-kazakhstani-legislative-election-2007.md)
@@ -51,7 +51,7 @@ Kazakhstan has begun voting in a parliamentary election that President Nursultan
 ### [ Scientists announce that Pavlof Volcano in Alaska is set to have a huge eruption that could disrupt air traffic. ](/news/2007/08/18/scientists-announce-that-pavlof-volcano-in-alaska-is-set-to-have-a-huge-eruption-that-could-disrupt-air-traffic.md)
 _Context: Pavlof Volcano, Alaska_
 
-##### suicide bomber
+##### Suicide bomber
 ### [ A suicide bomber kills at least 15 people in the southern Kandahar province. ](/news/2007/08/18/a-suicide-bomber-kills-at-least-15-people-in-the-southern-kandahar-province.md)
 _Context: suicide bomber, Kandahar Province_
 
@@ -61,9 +61,9 @@ U.S. President George W. Bush on Saturday approved a pre-landfall emergency decl
 
 ##### Atlas Jet
 ### [ An Atlas Jet plane en route from Nicosia in Cyprus to Istanbul in Turkey is hijacked. Some passengers were freed while the plane refueled in Antalya in southern Turkey. All 142 people escape unhurt while the hijackers surrender. ](/news/2007/08/18/an-atlas-jet-plane-en-route-from-nicosia-in-cyprus-to-istanbul-in-turkey-is-hijacked-some-passengers-were-freed-while-the-plane-refueled-i.md)
-_Context: Cyprus, Antalya, Atlas Jet, Nicosia, Istanbul, Turkey, aircraft piracy_
+_Context: Cyprus, Nicosia, Antalya, Turkey, Atlas Jet, aircraft piracy, Istanbul_
 
-##### coal miner
+##### Coal miner
 ### [ Rescuers race to reach over 180 coal miners trapped in two flooded mines in Shandong province in China. ](/news/2007/08/18/rescuers-race-to-reach-over-180-coal-miners-trapped-in-two-flooded-mines-in-shandong-province-in-china.md)
 Rescuers were battling to reach more than 180 miners trapped by floods in eastern China, raising fears of more deaths in what is already the world&#039;s most dangerous mining sector.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/9/a-lights-on-bill-to-resume-normal-government-ope
 
 ### [2005-07-9](/news/2005/07/9/index.md)
 
-##### bill
+##### Bill
 #  A "lights on" bill to resume normal government operation is approved in Minnesota. The Minnesota Legislature now has until July 14 to approve a budget. 
 
 

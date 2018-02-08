@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/11/the-first-global-study-of-coral-reefs-finds-tha
 
 ### [2008-07-11](/news/2008/07/11/index.md)
 
-##### coral reef
+##### Coral reef
 #  The first global study of coral reefs finds that one-third of coral-building species face extinction. 
 
 

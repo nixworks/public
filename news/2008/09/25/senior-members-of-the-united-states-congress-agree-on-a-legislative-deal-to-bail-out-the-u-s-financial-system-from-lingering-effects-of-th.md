@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/25/senior-members-of-the-united-states-congress-ag
 
 ### [2008-09-25](/news/2008/09/25/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  Senior members of the United States Congress agree on a legislative deal to bail out the U.S. financial system from lingering effects of the subprime mortgage crisis. 
 
 

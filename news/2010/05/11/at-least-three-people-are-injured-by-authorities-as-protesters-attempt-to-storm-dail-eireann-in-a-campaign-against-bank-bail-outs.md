@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/11/at-least-three-people-are-injured-by-authoritie
 
 ### [2010-05-11](/news/2010/05/11/index.md)
 
-##### lower house
+##### Lower house
 # At least three people are injured by authorities as protesters attempt to storm Dil ireann in a campaign against bank bail-outs. 
 
 A number of people were injured outside the Dáil tonight after a disturbance broke out at the gates of Leinster House.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/2/a-collection-of-environmental-groups-including-t
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
-##### environmental
+##### Environmental
 # A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. 
 
 

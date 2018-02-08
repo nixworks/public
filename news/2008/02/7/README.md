@@ -3,25 +3,25 @@ Formats: [HTML](2008/02/7/index.html)  [JSON](2008/02/7/index.json)  [XML](2008/
 
 ## [2008-02-7](/news/2008/02/7/index.md)
 
-##### kills five and wounds two people
+##### Kills five and wounds two people
 ### [ A gunman kills five and wounds two people at city hall before being shot and killed by police in Kirkwood, Missouri. ](/news/2008/02/7/a-gunman-kills-five-and-wounds-two-people-at-city-hall-before-being-shot-and-killed-by-police-in-kirkwood-missouri.md)
 A gunman killed two police officers and three city officials on Thursday night when he stormed into a city council meeting in a suburb of St. Louis, police said.
 
-##### sugar refinery
+##### Sugar refinery
 ### [ Four people die and dozens are hurt in an explosion at a sugar refinery in Port Wentworth, Georgia. ](/news/2008/02/7/four-people-die-and-dozens-are-hurt-in-an-explosion-at-a-sugar-refinery-in-port-wentworth-georgia.md)
-_Context: sugar refinery, Port Wentworth, Georgia_
+_Context: Port Wentworth, Georgia, sugar refinery_
 
-##### lawmakers
+##### Lawmakers
 ### [ The United States Congress approves a $168 billion economic stimulus package and sends it to President George W. Bush for his approval. ](/news/2008/02/7/the-united-states-congress-approves-a-168-billion-economic-stimulus-package-and-sends-it-to-president-george-w-bush-for-his-approval.md)
 Democrats agreed to add only payments for senior citizens and disabled veterans to a package already approved by the House with the backing of President Bush.
 
 ##### Slovakia
 ### [ The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. ](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.md)
-_Context: Lisbon Treaty, Parliament of Slovakia, Slovakia_
+_Context: Slovakia, Parliament of Slovakia, Lisbon Treaty_
 
 ##### National Assembly
 ### [ The National Assembly of France approves the Treaty of Lisbon by 336 votes to 52. ](/news/2008/02/7/the-national-assembly-of-france-approves-the-treaty-of-lisbon-by-336-votes-to-52.md)
-_Context: Treaty of Lisbon, National Assembly_
+_Context: National Assembly, Treaty of Lisbon_
 
 ##### Space Shuttle Atlantis
 ### [ Space Shuttle Atlantis launches successfully on its STS-122 mission. ](/news/2008/02/7/space-shuttle-atlantis-launches-successfully-on-its-sts-122-mission.md)
@@ -29,7 +29,7 @@ Atlantis launches on schedule despite earlier forecasts of thunderstorms and hea
 
 ##### Muslim
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: Muslim, United States, extradition, Abu Hamza al-Masri_
+_Context: extradition, Abu Hamza al-Masri, Muslim, United States_
 
 ##### United States
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
@@ -37,19 +37,19 @@ Police in the United States and Italy arrested 77 suspected members of the Mafia
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: Mitt Romney, 2008, Massachusetts governor, his campaign_
+_Context: 2008, Massachusetts governor, Mitt Romney, his campaign_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
-_Context: Archbishop Ieronymos II of Athens, Church of Greece, Eastern Orthodox Church_
+_Context: Eastern Orthodox Church, Church of Greece, Archbishop Ieronymos II of Athens_
 
 ##### Afghanistan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
-_Context: NATO, Afghanistan_
+_Context: Afghanistan, NATO_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: Condoleezza Rice, Foreign Secretary, United States Secretary of State, United Kingdom, David Miliband, Afghanistan_
+_Context: Afghanistan, David Miliband, Condoleezza Rice, Foreign Secretary, United States Secretary of State, United Kingdom_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)

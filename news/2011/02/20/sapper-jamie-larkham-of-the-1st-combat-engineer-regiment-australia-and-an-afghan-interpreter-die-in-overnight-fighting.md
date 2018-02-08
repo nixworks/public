@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/20/sapper-jamie-larkham-of-the-1st-combat-engineer
 
 ### [2011-02-20](/news/2011/02/20/index.md)
 
-##### sapping
+##### Sapping
 # Sapper Jamie Larkham of the 1st Combat Engineer Regiment (Australia) and an Afghan interpreter die in overnight fighting. 
 
 

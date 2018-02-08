@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/27/seventeen-people-are-killed-in-landslides-in-so
 
 ### [2011-07-27](/news/2011/07/27/index.md)
 
-##### landslide
+##### Landslide
 # Seventeen people are killed in landslides in South Korea caused by heavy rain including eight in the town of Chuncheon. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes
 
 ### [2009-11-4](/news/2009/11/4/index.md)
 
-##### earthquake
+##### Earthquake
 #  Around 700 people are injured in two earthquakes in southern Iran. 
 
 

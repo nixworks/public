@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/10/campaign-finance-reform-passed-as-the-bipartisa
 
 ### [2003-12-10](/news/2003/12/10/index.md)
 
-##### campaign contribution
+##### Campaign contribution
 #  Campaign finance reform, passed as the Bipartisan Campaign Reform Act of 2002, is upheld by a slim majority of the U.S. Supreme Court. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/29/a-human-rights-group-claims-that-four-roman-cat
 
 ### [2007-07-29](/news/2007/07/29/index.md)
 
-##### human rights
+##### Human rights
 #  A human rights group claims that four Roman Catholic priests are in detention in China. 
 
 

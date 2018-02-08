@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/5/an-earthquake-strikes-the-democratic-republic-of
 
 ### [2005-12-5](/news/2005/12/5/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake strikes the Democratic Republic of the Congo (formerly Zaire). Many people are feared dead after an earthquake measuring 6.8 on the Richter scale struck Lake Tanganyika near the town of Kalemie. 
 
 News and opinion from The Times &amp; The Sunday Times

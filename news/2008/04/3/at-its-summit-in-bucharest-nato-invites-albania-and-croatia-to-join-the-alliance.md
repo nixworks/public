@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/3/at-its-summit-in-bucharest-nato-invites-albania-
 
 ### [2008-04-3](/news/2008/04/3/index.md)
 
-##### its summit
+##### Its summit
 #  At its summit in Bucharest, NATO invites Albania and Croatia to join the alliance. 
 
 

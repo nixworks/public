@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/27/suicide-car-bombings-kill-at-least-55-people-an
 
 ### [2007-03-27](/news/2007/03/27/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Suicide car bombings kill at least 55 people and injure 120 in Tal Afar. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment

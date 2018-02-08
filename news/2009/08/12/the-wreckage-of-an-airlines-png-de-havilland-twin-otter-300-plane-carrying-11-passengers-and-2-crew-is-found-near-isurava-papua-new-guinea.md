@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/12/the-wreckage-of-an-airlines-png-de-havilland-tw
 
 ### [2009-08-12](/news/2009/08/12/index.md)
 
-##### wreckage
+##### Wreckage
 #  The wreckage of an Airlines PNG De Havilland Twin Otter 300 plane carrying 11 passengers and 2 crew is found near Isurava, Papua New Guinea; there are no signs of survivors. 
 
 

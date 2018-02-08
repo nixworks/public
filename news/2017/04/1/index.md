@@ -19,7 +19,7 @@ _Context: Java, Indonesia_
 ### [A landslide in Colombia's southwestern border department of Putumayo sends mud and debris crashing onto houses killing over 250 people and injuring at least 400 others. In addition, 200 people are missing. ](/news/2017/04/1/a-landslide-in-colombia-s-southwestern-border-department-of-putumayo-sends-mud-and-debris-crashing-onto-houses-killing-over-250-people-and-i.md)
 Heavy rainfall caused the banks of the Mocoa River and three tributaries to overflow, resulting in the disaster.
 
-##### carnival
+##### Carnival
 ### [An explosion occurs at a carnival in Villepinte, Seine-Saint-Denis, France, injuring at least 18 people. ](/news/2017/04/1/an-explosion-occurs-at-a-carnival-in-villepinte-seine-saint-denis-france-injuring-at-least-18-people.md)
 A huge explosion rocked a popular French carnival, injuring at least 18 people. Onlookers were hit by chunks of burning wood and other debris after the fireball erupted from the guy-style figure known as Mr Carnival which was made of straw and wood. &quot;Many are injured in the face, and all are in...
 
@@ -31,7 +31,7 @@ More than 20 crew are feared dead after a South Korean cargo vessel went missing
 ### [Venezuela's Supreme Court reverses their controversial ruling. The court restores legislative power to the National Assembly. However, the court's decision still allows President Nicolas Maduro to enter joint-venture deals. ](/news/2017/04/1/venezuela-s-supreme-court-reverses-their-controversial-ruling-the-court-restores-legislative-power-to-the-national-assembly-however-the-c.md)
 The latest court ruling replaces a previous decision that appeared to completely neuter the National Assembly.
 
-##### social unrest in French Guiana
+##### Social unrest in French Guiana
 ### [After two weeks of social unrest in French Guiana, the French government promises EUR1 billion for education, healthcare, security, and justice. ](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guiana-the-french-government-promises-a-1-billion-for-education-healthcare-security-and-just.md)
  France offered one billion euros ($1.06 billion) in aid for French Guiana on Saturday after protests swept the French territory in South America in recent days
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the
 
 ### [2004-12-27](/news/2004/12/27/index.md)
 
-##### tsunami
+##### Tsunami
 #  The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 20,000 and possibly as high as 45,000. 
 
 

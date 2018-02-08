@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/2/two-aides-of-al-qaeda-and-taliban-are-arrested-a
 
 ### [2007-08-2](/news/2007/08/2/index.md)
 
-##### al Qaeda
+##### Al Qaeda
 #  Two aides of al Qaeda and Taliban are arrested at different places in Pakistan. 
 
 

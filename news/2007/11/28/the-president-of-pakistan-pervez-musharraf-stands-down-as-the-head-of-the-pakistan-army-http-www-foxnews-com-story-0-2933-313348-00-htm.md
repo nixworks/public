@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/28/the-president-of-pakistan-pervez-musharraf-stan
 
 ### [2007-11-28](/news/2007/11/28/index.md)
 
-##### president
+##### President
 #  The President of Pakistan Pervez Musharraf stands down as the head of the Pakistan Army. [http:--www.foxnews.com-story-0,2933,313348,00.html (Fox News)] General Ashfaq Parvez Kayani succeeds Musharraf as the 14th Chief of Army Staff of the Pakistan Army.date=December 2007 
 
 

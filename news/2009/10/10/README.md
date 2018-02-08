@@ -3,7 +3,7 @@ Formats: [HTML](2009/10/10/index.html)  [JSON](2009/10/10/index.json)  [XML](200
 
 ## [2009-10-10](/news/2009/10/10/index.md)
 
-##### taken hostage
+##### Taken hostage
 ### [ Ten to fifteen security personnel are taken hostage by militants after an attack on Pakistan's military headquarters in Islamabad. ](/news/2009/10/10/ten-to-fifteen-security-personnel-are-taken-hostage-by-militants-after-an-attack-on-pakistan-s-military-headquarters-in-islamabad.md)
 Fifteen people were taken hostage in a terrorist attack on Pakistan&#039;s main army headquarters on Saturday and six soldiers died in a shootout, as tensions rose ahead of an expected army offensive against a Taliban stronghold.
 
@@ -15,9 +15,9 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 ### [ President of Poland Lech Kaczynski signs the Treaty of Lisbon, leaving the Czech Republic as the last national opponent. ](/news/2009/10/10/president-of-poland-lech-kaczyaski-signs-the-treaty-of-lisbon-leaving-the-czech-republic-as-the-last-national-opponent.md)
 Polish President Lech Kaczynski signed the European Union&#39;s Lisbon Treaty into law leaving the Czech Republic as the only country still to ratify the document.
 
-##### tanker
+##### Tanker
 ### [ At least 70 people are killed after a fuel tanker explodes in Nigeria. ](/news/2009/10/10/at-least-70-people-are-killed-after-a-fuel-tanker-explodes-in-nigeria.md)
-_Context: tanker, Nigeria_
+_Context: Nigeria, tanker_
 
 ##### Philippines
 ### [ 186 people are killed by landslides in the Philippines. ](/news/2009/10/10/186-people-are-killed-by-landslides-in-the-philippines.md)
@@ -31,7 +31,7 @@ The Green Party has overwhelmingly endorsed the new Programme for Government, an
 ### [ Over 300 British MPs will be asked to repay or explain expenses after controversy earlier this year. ](/news/2009/10/10/over-300-british-mps-will-be-asked-to-repay-or-explain-expenses-after-controversy-earlier-this-year.md)
 At least 325 MPs will be ordered this week to repay money or provide further details of their parliamentary allowances by the head of an official inquiry into the Commons expenses scandal.
 
-##### protests against the regime
+##### Protests against the regime
 ### [ Three people are sentenced to death for being involved in forbidden groups after being arrested during protests against Iran's disputed presidential election earlier this year. ](/news/2009/10/10/three-people-are-sentenced-to-death-for-being-involved-in-forbidden-groups-after-being-arrested-during-protests-against-iran-s-disputed-pre.md)
 Three people arrested during protests over disputed presidential poll are sentenced.
 
@@ -41,11 +41,11 @@ _Context: Guinea, massacre of opposition protesters_
 
 ##### United States
 ### [ United States President Barack Obama announces he will end the "Don't ask, don't tell" policy against homosexuals serving in the U.S. military. ](/news/2009/10/10/united-states-president-barack-obama-announces-he-will-end-the-don-t-ask-don-t-tell-policy-against-homosexuals-serving-in-the-u-s-milit.md)
-_Context: U.S. President, United States, United States armed forces, Barack Obama, gay, Don't ask, don't tell_
+_Context: U.S. President, United States, Don't ask, don't tell, United States armed forces, gay, Barack Obama_
 
 ##### Islam
 ### [ More than 40 people are arrested after clashes between anti-Islamic and anti-racist demonstrations in Manchester, England. ](/news/2009/10/10/more-than-40-people-are-arrested-after-clashes-between-anti-islamic-and-anti-racist-demonstrations-in-manchester-england.md)
-_Context: Manchester, Islam, England, racial bias_
+_Context: racial bias, England, Manchester, Islam_
 
 ##### Argentina
 ### [ The Argentine Senate passes a controversial media bill regarding the ownership of media outlets in the country. ](/news/2009/10/10/the-argentine-senate-passes-a-controversial-media-bill-regarding-the-ownership-of-media-outlets-in-the-country.md)
@@ -53,7 +53,7 @@ More than 200 modifications
 
 ##### St Petersburg
 ### [ Thousands of protesters gather in St Petersburg, Russia, against a plan to build a 77 storey building for Gazprom. ](/news/2009/10/10/thousands-of-protesters-gather-in-st-petersburg-russia-against-a-plan-to-build-a-77-storey-building-for-gazprom.md)
-_Context: St Petersburg, Russia, Gazprom_
+_Context: Gazprom, Russia, St Petersburg_
 
 ## [Previous Day...](/news/2009/10/9/index.md)
 

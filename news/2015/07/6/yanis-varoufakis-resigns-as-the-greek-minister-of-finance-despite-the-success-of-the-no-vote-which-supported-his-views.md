@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/6/yanis-varoufakis-resigns-as-the-greek-minister-o
 
 ### [2015-07-6](/news/2015/07/6/index.md)
 
-##### referendum
+##### Referendum
 # Yanis Varoufakis resigns as the Greek Minister of Finance despite the success of the "no" vote which supported his views. 
 
 Yanis Varoufakis has stood down as the Greek finance minister

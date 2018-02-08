@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/10/spain-has-announced-that-solar-panels-will-be-m
 
 ### [2004-11-10](/news/2004/11/10/index.md)
 
-##### solar panel
+##### Solar panel
 #  Spain has announced that solar panels will be mandatory on new and renovated buildings. 
 
 

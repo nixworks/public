@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/1/a-7-0-magnitude-earthquake-strikes-south-of-japa
 
 ### [2012-01-1](/news/2012/01/1/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.0-magnitude earthquake strikes south of Japan; no damage is caused. 
 
 A strong earthquake with a magnitude of 7.0 jolted eastern and northeastern Japan on Sunday, but there were no immediate reports of injuries or damages and no tsunami warning was issued.

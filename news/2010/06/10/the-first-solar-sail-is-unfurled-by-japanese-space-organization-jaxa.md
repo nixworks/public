@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/10/the-first-solar-sail-is-unfurled-by-japanese-sp
 
 ### [2010-06-10](/news/2010/06/10/index.md)
 
-##### solar sail
+##### Solar sail
 # The first solar sail is unfurled by Japanese space organization JAXA. 
 
 

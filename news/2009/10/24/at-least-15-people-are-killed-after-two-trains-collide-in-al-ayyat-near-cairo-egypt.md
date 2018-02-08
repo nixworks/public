@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/24/at-least-15-people-are-killed-after-two-trains-
 
 ### [2009-10-24](/news/2009/10/24/index.md)
 
-##### two trains collide
+##### Two trains collide
 #  At least 15 people are killed after two trains collide in Al-Ayyat, near Cairo, Egypt. 
 
 At least 18 people killed after two trains collide southwest of Cairo.

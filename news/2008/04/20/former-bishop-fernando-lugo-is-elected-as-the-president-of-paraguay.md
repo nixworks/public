@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/20/former-bishop-fernando-lugo-is-elected-as-the-p
 
 ### [2008-04-20](/news/2008/04/20/index.md)
 
-##### bishop
+##### Bishop
 #  Former bishop Fernando Lugo is elected as the President of Paraguay. 
 
 

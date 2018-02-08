@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/1/the-rape-prosecution-brought-against-u-s-basketb
 
 ### [2004-09-1](/news/2004/09/1/index.md)
 
-##### rape
+##### Rape
 #  The rape prosecution brought against U.S. basketball star Kobe Bryant is dismissed, with prejudice, when it becomes clear that his accuser will refuse to testify. The civil suit filed by his accuser proceeds. 
 
 

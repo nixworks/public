@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/22/more-bodies-are-dug-out-of-the-wreck-of-the-cos
 
 ### [2012-03-22](/news/2012/03/22/index.md)
 
-##### sunk
+##### Sunk
 # More bodies are dug out of the wreck of the "Costa Concordia". 
 
 Death toll goes up to 30 with discovery of three more bodies two months after cruise liner sank off Italian coast.

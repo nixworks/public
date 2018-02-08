@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/3/a-new-study-suggests-that-common-cholesterol-red
 
 ### [2013-04-3](/news/2013/04/3/index.md)
 
-##### cholesterol
+##### Cholesterol
 # A new study suggests that common cholesterol reducing drugs may also prevent macular degeneration. 
 
 

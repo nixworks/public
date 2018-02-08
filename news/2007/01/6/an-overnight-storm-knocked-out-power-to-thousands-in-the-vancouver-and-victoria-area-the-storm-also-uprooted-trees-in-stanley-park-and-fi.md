@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/6/an-overnight-storm-knocked-out-power-to-thousand
 
 ### [2007-01-6](/news/2007/01/6/index.md)
 
-##### storm
+##### Storm
 #  An overnight storm knocked out power to thousands in the Vancouver and Victoria area. The storm also uprooted trees in Stanley Park, and filled BC Place with water after the roof tore open a day earlier. 
 
 

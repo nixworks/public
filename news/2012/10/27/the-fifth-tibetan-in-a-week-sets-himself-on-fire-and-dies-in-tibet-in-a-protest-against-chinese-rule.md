@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/27/the-fifth-tibetan-in-a-week-sets-himself-on-fir
 
 ### [2012-10-27](/news/2012/10/27/index.md)
 
-##### protest
+##### Protest
 # The fifth Tibetan in a week sets himself on fire and dies in Tibet in a protest against Chinese rule. 
 
 

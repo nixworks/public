@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/1/a-helicopter-crash-in-the-raveau-forest-near-the
 
 ### [2007-07-1](/news/2007/07/1/index.md)
 
-##### helicopter
+##### Helicopter
 #  A helicopter crash in the Raveau forest near the town La Charit-sur-Loire in central France kills three people involved in the French Grand Prix and injures two. 
 
 A helicopter carrying people involved in the F1 French Grand Prix auto race has crashed in central France, killing three people and seriously injuring two, police and officials said.

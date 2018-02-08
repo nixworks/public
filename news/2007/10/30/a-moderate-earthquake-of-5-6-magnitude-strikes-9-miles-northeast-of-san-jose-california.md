@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-
 
 ### [2007-10-30](/news/2007/10/30/index.md)
 
-##### earthquake
+##### Earthquake
 #  A moderate earthquake of 5.6 magnitude strikes 9 miles northeast of San Jose, California. 
 
 

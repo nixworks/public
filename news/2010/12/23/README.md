@@ -11,11 +11,11 @@ South Korea stages one of its largest ever military drills, as its president war
 ### [The United Nations says 173 people have been killed during post-election violence in the Ivory Coast. ](/news/2010/12/23/the-united-nations-says-173-people-have-been-killed-during-post-election-violence-in-the-ivory-coast.md)
 Post-election violence kills 173 in Ivory Coast, the UN says, as pressure mounts for Laurent Gbagbo to quit the presidency.
 
-##### parcel bomb
+##### Parcel bomb
 ### [Two parcel bombs explode at the Swiss and Chilean embassies in central Rome, Italy. One person is seriously injured. Officials suspect that the perpetrators are from an Italian anarchist group. ](/news/2010/12/23/two-parcel-bombs-explode-at-the-swiss-and-chilean-embassies-in-central-rome-italy-one-person-is-seriously-injured-officials-suspect-that.md)
 A package bomb exploded at the Swiss embassy in Rome on Thursday, seriously wounding one, according to reports. The Italian interior ministry ...
 
-##### guardian angel
+##### Guardian angel
 ### [A survey indicates that almost one third of Britons believe they have a guardian angel. ](/news/2010/12/23/a-survey-indicates-that-almost-one-third-of-britons-believe-they-have-a-guardian-angel.md)
 Nearly a third of Britons believe they have a guardian angel, a survey from the Bible Society and Christian Research claims.
 
@@ -29,7 +29,7 @@ _Context: Santander_
 
 ##### Colombia
 ### [At least 20 people are buried by a landslide in the northern Colombian department of Santander. ](/news/2010/12/23/at-least-20-people-are-buried-by-a-landslide-in-the-northern-colombian-department-of-santander.md)
-_Context: Colombia, Santander_
+_Context: Santander, Colombia_
 
 ##### Catholic Church
 ### [China describes recent criticism of its control on the Catholic Church by the Vatican as "imprudent and ungrounded". ](/news/2010/12/23/china-describes-recent-criticism-of-its-control-on-the-catholic-church-by-the-vatican-as-imprudent-and-ungrounded.md)
@@ -57,7 +57,7 @@ Lib Dem ministers apologise to Tory coalition colleagues after being secretly ta
 
 ##### Citizenship and Immigration Canada
 ### [Citizenship and Immigration Canada cuts funding for settlement centres across the country, leading to the Ontario Liberals protesting the decision that will affect many new immigrants in the province. Immigration minister Jason Kenney also affirms that Santa Claus is Canadian, referring to his characteristic red and white colours. ](/news/2010/12/23/citizenship-and-immigration-canada-cuts-funding-for-settlement-centres-across-the-country-leading-to-the-ontario-liberals-protesting-the-de.md)
-_Context: Ontario Liberal Party, Immigration to Canada, Santa Claus, Citizenship and Immigration Canada, Jason Kenney_
+_Context: Santa Claus, Citizenship and Immigration Canada, Jason Kenney, Ontario Liberal Party, Immigration to Canada_
 
 ##### Member of the Scottish Parliament
 ### [Former MSP Tommy Sheridan is convicted of perjury following a 12-week trial at the High Court in Glasgow. He was found guilty of lying during his successful defamation case against the "News of the World" which had printed details of his private life. ](/news/2010/12/23/former-msp-tommy-sheridan-is-convicted-of-perjury-following-a-12-week-trial-at-the-high-court-in-glasgow-he-was-found-guilty-of-lying-durin.md)

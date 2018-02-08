@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/29/a-volcano-erupts-on-the-japanese-island-of-kuch
 
 ### [2015-05-29](/news/2015/05/29/index.md)
 
-##### volcano
+##### Volcano
 # A volcano erupts on the Japanese island of Kuchinoerabu-jima prompting the evacuation of all residents and the diversion of all flights. 
 
 Mount Shindake explodes without warning off Kagoshima, forcing residents of Kuchinoerabu Island to flee for safety from its pyroclastic flow.

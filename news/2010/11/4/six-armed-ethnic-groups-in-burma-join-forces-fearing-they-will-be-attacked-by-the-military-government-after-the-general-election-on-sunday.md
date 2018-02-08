@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fea
 
 ### [2010-11-4](/news/2010/11/4/index.md)
 
-##### ethnic groups
+##### Ethnic groups
 # Six armed ethnic groups in Burma join forces, fearing they will be attacked by the military government after the general election on Sunday. 
 
 

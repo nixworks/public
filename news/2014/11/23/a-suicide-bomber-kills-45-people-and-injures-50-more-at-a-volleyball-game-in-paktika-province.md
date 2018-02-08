@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/23/a-suicide-bomber-kills-45-people-and-injures-50
 
 ### [2014-11-23](/news/2014/11/23/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 45 people and injures 50 more at a volleyball game in Paktika province. 
 
 A suicide bomber detonated his explosive vest in a crowd of spectators at a volleyball match in Afghanistan on Sunday, killing 45 people, a provincial official said, as foreign troops withdraw from the country after more than a decade of fighting.

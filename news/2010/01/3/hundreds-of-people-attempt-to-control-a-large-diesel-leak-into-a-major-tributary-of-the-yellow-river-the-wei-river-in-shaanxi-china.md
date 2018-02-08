@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/3/hundreds-of-people-attempt-to-control-a-large-di
 
 ### [2010-01-3](/news/2010/01/3/index.md)
 
-##### diesel fuel
+##### Diesel fuel
 # Hundreds of people attempt to control a large diesel leak into a major tributary of the Yellow River, the Wei River, in Shaanxi, China. 
 
 Burst oil pipeline dumps thousands of litres of diesel into major tributary.

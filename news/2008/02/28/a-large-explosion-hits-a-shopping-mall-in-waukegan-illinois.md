@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/28/a-large-explosion-hits-a-shopping-mall-in-wauke
 
 ### [2008-02-28](/news/2008/02/28/index.md)
 
-##### explosion
+##### Explosion
 #  A large explosion hits a shopping mall in Waukegan, Illinois. 
 
 

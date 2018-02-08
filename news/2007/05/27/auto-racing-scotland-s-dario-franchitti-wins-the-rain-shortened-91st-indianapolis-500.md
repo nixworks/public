@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/27/auto-racing-scotland-s-dario-franchitti-wins-th
 
 ### [2007-05-27](/news/2007/05/27/index.md)
 
-##### automobile racing
+##### Automobile racing
 #  Auto racing: Scotland's Dario Franchitti wins the rain-shortened 91st Indianapolis 500. 
 
 

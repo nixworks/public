@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/23/at-least-35-people-are-killed-in-a-boat-crash-o
 
 ### [2015-07-23](/news/2015/07/23/index.md)
 
-##### boat
+##### Boat
 #  At least 35 people are killed in a boat crash on Egypt's Nile. 
 
 A boat, reportedly chartered for an engagement party, sinks after a crash on the river Nile, killing at least 21 passengers.

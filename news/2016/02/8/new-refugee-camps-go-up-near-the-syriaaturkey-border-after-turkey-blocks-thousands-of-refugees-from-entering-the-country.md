@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/8/new-refugee-camps-go-up-near-the-syriaaturkey-bo
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
-##### refugees from Syria
+##### Refugees from Syria
 # New refugee camps go up near the Syria-Turkey border after Turkey blocks thousands of refugees from entering the country. 
 
 Turkish aid workers set up tents and distribute supplies for thousands of new Syrian refugees kept from entering Turkey at the border.

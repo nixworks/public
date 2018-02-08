@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/30/following-the-successful-sequencing-of-the-toma
 
 ### [2012-05-30](/news/2012/05/30/index.md)
 
-##### sequencing
+##### Sequencing
 # Following the successful sequencing of the tomato genome, scientists state that tastier and more pesticide-resistant tomato varieties can be engineered for commercial use within five years. 
 
 Scientists have sequenced the tomato genome and say it will yield tastier fruit as a result.

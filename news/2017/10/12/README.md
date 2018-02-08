@@ -27,7 +27,7 @@ Therapy that targets disease-causing mutations could become the first of its kin
 ### [The United States Trump administration and the government of Israel announce their plans to withdraw as members of UNESCO. ](/news/2017/10/12/the-united-states-trump-administration-and-the-government-of-israel-announce-their-plans-to-withdraw-as-members-of-unesco.md)
 Hours after the US says it is pulling out of the UN cultural agency, Israel says it will leave too.
 
-##### allegation
+##### Allegation
 ### [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md)
 Forces in New York and London look into allegations against movie mogul Harvey Weinstein.
 

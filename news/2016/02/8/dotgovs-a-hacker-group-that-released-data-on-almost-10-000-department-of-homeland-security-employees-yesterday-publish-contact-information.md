@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/8/dotgovs-a-hacker-group-that-released-data-on-alm
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
-##### hackers
+##### Hackers
 # DotGovs, a hacker group that released data on almost 10,000 Department of Homeland Security employees yesterday, publish contact information for 20,000 FBI employees. 
 
 

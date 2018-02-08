@@ -11,7 +11,7 @@ Russian troops withdraw from a Georgian town which they have occupied since a br
 ### [The Kachin Independence Army, a Burmese ethnic militia, is in a tense stand-off with the Burmese military following the arrest of three of its members. ](/news/2010/10/19/the-kachin-independence-army-a-burmese-ethnic-militia-is-in-a-tense-stand-off-with-the-burmese-military-following-the-arrest-of-three-of-i.md)
 The Kachin Independence Army in northern Burma says it is involved in a tense stand-off with the Burmese army.
 
-##### an attack
+##### An attack
 ### [Six people are killed and seventeen wounded following an attack on the Parliament of the Russian republic of Chechnya. ](/news/2010/10/19/six-people-are-killed-and-seventeen-wounded-following-an-attack-on-the-parliament-of-the-russian-republic-of-chechnya.md)
 At least six people are dead and 17 injured after militants attack parliament in the Russian republic of Chechnya.
 
@@ -21,7 +21,7 @@ A suicide bomber who killed seven CIA agents at a base in Afghanistan in January
 
 ##### Simon Cowell
 ### [Simon Cowell signs a deal with ITV which will see "The X Factor" and "Britain's Got Talent" return for the next three years. ](/news/2010/10/19/simon-cowell-signs-a-deal-with-itv-which-will-see-the-x-factor-and-britain-s-got-talent-return-for-the-next-three-years.md)
-_Context: Britain's Got Talent, Simon Cowell, The X Factor, ITV_
+_Context: Britain's Got Talent, ITV, Simon Cowell, The X Factor_
 
 ##### Google
 ### [Google and the Israel Antiquities Authority announce plans to publish the Dead Sea Scrolls online. ](/news/2010/10/19/google-and-the-israel-antiquities-authority-announce-plans-to-publish-the-dead-sea-scrolls-online.md)
@@ -33,7 +33,7 @@ _Context: 431 km per hour speed_
 
 ##### Jia Qinglin
 ### [Jia Qinglin, chairman of the National Committee of the Chinese People's Political Consultative Conference, announces the opening of the 7th China-ASEAN Expo (CAEXPO) in Nanning, capital of southwest China's Guangxi Zhuang Autonomous Region. ](/news/2010/10/19/jia-qinglin-chairman-of-the-national-committee-of-the-chinese-people-s-political-consultative-conference-announces-the-opening-of-the-7th.md)
-_Context: ASEAN, Jia Qinglin, Guangxi Zhuang Autonomous Region, China, Expo, Nanning_
+_Context: ASEAN, Nanning, Expo, China, Jia Qinglin, Guangxi Zhuang Autonomous Region_
 
 ##### China
 ### [China raises deposit rate for 1st time since 2007, the People's Bank of China said in a statement. ](/news/2010/10/19/china-raises-deposit-rate-for-1st-time-since-2007-the-people-s-bank-of-china-said-in-a-statement.md)
@@ -49,7 +49,7 @@ The Southern California megachurch founded by televangelist Robert Schuller file
 
 ##### Typhoon Megi
 ### [The death toll from Typhoon Megi in the Philippines rises to three as heavy rain falls on the island of Luzon for a second consecutive day. ](/news/2010/10/19/the-death-toll-from-typhoon-megi-in-the-philippines-rises-to-three-as-heavy-rain-falls-on-the-island-of-luzon-for-a-second-consecutive-day.md)
-_Context: Typhoon Megi, Philippines, Luzon_
+_Context: Philippines, Luzon, Typhoon Megi_
 
 ##### United Kingdom
 ### [A British court finds Saudi Prince Abdulaziz bin Nasser al Saud guilty of murdering his servant in a hotel. ](/news/2010/10/19/a-british-court-finds-saudi-prince-abdulaziz-bin-nasser-al-saud-guilty-of-murdering-his-servant-in-a-hotel.md)
@@ -57,7 +57,7 @@ UK court finds Prince Saud Abdulaziz bin Nasser al Saud guilty of murdering serv
 
 ##### ICC
 ### [The International Criminal Court (ICC) agrees to pursue the criminal trial of former Vice-President of the Democratic Republic of the Congo Jean-Pierre Bemba. ](/news/2010/10/19/the-international-criminal-court-icc-agrees-to-pursue-the-criminal-trial-of-former-vice-president-of-the-democratic-republic-of-the-congo.md)
-_Context: DR Congo, ICC, Jean-Pierre Bemba_
+_Context: DR Congo, Jean-Pierre Bemba, ICC_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton says that she understands the trial of two hikers will start on November 6. ](/news/2010/10/19/the-united-states-secretary-of-state-hillary-clinton-says-that-she-understands-the-trial-of-two-hikers-will-start-on-november-6.md)
@@ -65,11 +65,11 @@ _Context: United States Secretary of State, Hillary Clinton, two American citize
 
 ##### Kenya
 ### [The Kenyan Higher Education Minister William Ruto is suspended by President Mwai Kibaki after a court ruled he must stand trial for corruption allegations. ](/news/2010/10/19/the-kenyan-higher-education-minister-william-ruto-is-suspended-by-president-mwai-kibaki-after-a-court-ruled-he-must-stand-trial-for-corrupti.md)
-_Context: William Ruto, Kenya, Mwai Kibaki_
+_Context: Kenya, William Ruto, Mwai Kibaki_
 
 ##### Human Rights Watch
 ### [Human Rights Watch accuses the Ethiopian government of withholding foreign aid from opposition supporters. ](/news/2010/10/19/human-rights-watch-accuses-the-ethiopian-government-of-withholding-foreign-aid-from-opposition-supporters.md)
-_Context: Human Rights Watch, Ethiopia, government_
+_Context: Human Rights Watch, government, Ethiopia_
 
 ##### Salou Djibo
 ### [Salou Djibo, the de facto leader of Niger sacks his intelligence chief Seyni Chekaraou following the arrest of several members of the ruling Supreme Council for the Restoration of Democracy junta on suspicion of planning a coup d'etat. ](/news/2010/10/19/salou-djibo-the-de-facto-leader-of-niger-sacks-his-intelligence-chief-seyni-chekaraou-following-the-arrest-of-several-members-of-the-ruling.md)
@@ -77,11 +77,11 @@ The military ruler in Niger sacks his intelligence chief following the arrest of
 
 ##### Prime Minister
 ### [The Prime Minister of the United Kingdom David Cameron announces a cut to British Armed Forces of 17,000 or ten per cent over five years. ](/news/2010/10/19/the-prime-minister-of-the-united-kingdom-david-cameron-announces-a-cut-to-british-armed-forces-of-17-000-or-ten-per-cent-over-five-years.md)
-_Context: British military personnel, Prime Minister, David Cameron_
+_Context: Prime Minister, British military personnel, David Cameron_
 
 ##### Naheed Nenshi
 ### [Naheed Nenshi is voted mayor of Calgary, Alberta, the first Muslim person to be elected mayor of a major city in Canada. ](/news/2010/10/19/naheed-nenshi-is-voted-mayor-of-calgary-alberta-the-first-muslim-person-to-be-elected-mayor-of-a-major-city-in-canada.md)
-_Context: Muslim, Alberta, Calgary, Alberta, Naheed Nenshi, Canadian, is voted mayor_
+_Context: Canadian, Calgary, Alberta, is voted mayor, Naheed Nenshi, Alberta, Muslim_
 
 ## [Previous Day...](/news/2010/10/18/index.md)
 

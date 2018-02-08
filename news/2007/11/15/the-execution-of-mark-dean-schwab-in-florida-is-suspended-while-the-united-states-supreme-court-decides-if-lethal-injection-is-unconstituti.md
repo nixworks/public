@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/15/the-execution-of-mark-dean-schwab-in-florida-is
 
 ### [2007-11-15](/news/2007/11/15/index.md)
 
-##### executed
+##### Executed
 #  The execution of Mark Dean Schwab in Florida is suspended while the United States Supreme Court decides if lethal injection is unconstitutional. 
 
 

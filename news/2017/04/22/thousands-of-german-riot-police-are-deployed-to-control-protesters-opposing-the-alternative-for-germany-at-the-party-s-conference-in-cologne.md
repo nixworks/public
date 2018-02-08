@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/22/thousands-of-german-riot-police-are-deployed-to
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
-##### riot police
+##### Riot police
 # Thousands of German riot police are deployed to control protesters opposing the Alternative for Germany at the party's conference in Cologne. 
 
 Thousands of leftwing demonstrators are expected to protest in Cologne, with fears of clashes.

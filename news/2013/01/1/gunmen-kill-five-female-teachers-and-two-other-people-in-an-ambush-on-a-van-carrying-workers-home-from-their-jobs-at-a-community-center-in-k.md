@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/1/gunmen-kill-five-female-teachers-and-two-other-p
 
 ### [2013-01-1](/news/2013/01/1/index.md)
 
-##### ambush
+##### Ambush
 # Gunmen kill five female teachers and two other people in an ambush on a van carrying workers home from their jobs at a community center in Khyber Pakhtunkhwa province, Pakistan. 
 
 Seven charity workers, six of them women, are killed by gunmen in north-west Pakistan, police say.

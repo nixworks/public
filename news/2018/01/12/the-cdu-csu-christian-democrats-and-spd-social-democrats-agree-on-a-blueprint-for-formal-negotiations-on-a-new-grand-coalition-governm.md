@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
-##### government
+##### Government
 # The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. 
 
 

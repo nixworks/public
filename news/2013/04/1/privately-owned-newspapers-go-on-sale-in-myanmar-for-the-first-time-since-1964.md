@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/privately-owned-newspapers-go-on-sale-in-myanmar
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### newspaper
+##### Newspaper
 # Privately owned newspapers go on sale in Myanmar for the first time since 1964. 
 
 Private newspapers are published in Burma for the first time in almost 50 years, as the latest in a series of democratic reforms comes into effect.

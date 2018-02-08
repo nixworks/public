@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/4/experts-declare-that-drugs-used-during-in-vitro-
 
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-##### in vitro fertilisation
+##### In vitro fertilisation
 # Experts declare that drugs used during "in vitro fertilisation" for older women may increase the risk of Down syndrome for their baby. 
 
 

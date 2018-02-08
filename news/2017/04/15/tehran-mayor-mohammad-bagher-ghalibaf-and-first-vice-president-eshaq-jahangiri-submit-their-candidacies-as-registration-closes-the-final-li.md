@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/15/tehran-mayor-mohammad-bagher-ghalibaf-and-first
 
 ### [2017-04-15](/news/2017/04/15/index.md)
 
-##### re-elected
+##### Re-elected
 # Tehran Mayor Mohammad-Bagher Ghalibaf and First Vice President Eshaq Jahangiri submit their candidacies as registration closes. The final list of approved candidates will be announced on April 27. 
 
 

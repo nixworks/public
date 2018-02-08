@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/30/a-new-species-of-scallop-as-well-as-a-new-speci
 
 ### [2007-07-30](/news/2007/07/30/index.md)
 
-##### scallop
+##### Scallop
 #  A new species of scallop as well as a new species of octopus are discovered off the coast of Nova Scotia. [http:--technology.sympatico.msn.cbc.ca-Canadian+marine+scientists+discover+quirky+creatures-NewsandOpinions-ContentPosting.aspx?isfa=1&newsitemid=gully-creatures&feedname=CBC-TECH-SCIENCE&show=False&number=0&showbyline=True&subtitle=&detect=&abc=abc] 
 
 

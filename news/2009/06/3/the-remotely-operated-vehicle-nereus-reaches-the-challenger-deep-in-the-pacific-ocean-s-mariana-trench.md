@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the
 
 ### [2009-06-3](/news/2009/06/3/index.md)
 
-##### remotely operated vehicle
+##### Remotely operated vehicle
 #  The remotely operated vehicle "Nereus" reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. 
 
 

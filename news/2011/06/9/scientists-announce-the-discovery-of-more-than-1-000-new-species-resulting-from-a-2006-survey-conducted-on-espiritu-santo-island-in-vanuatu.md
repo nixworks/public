@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/9/scientists-announce-the-discovery-of-more-than-1
 
 ### [2011-06-9](/news/2011/06/9/index.md)
 
-##### species
+##### Species
 # Scientists announce the discovery of more than 1,000 new species resulting from a 2006 survey conducted on Espiritu Santo island in Vanuatu. 
 
 

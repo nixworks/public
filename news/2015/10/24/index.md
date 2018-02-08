@@ -9,7 +9,7 @@ A series of blasts targeting Shia Muslims in Dhaka killed at least one person an
 
 ##### Sinai insurgency
 ### [A first lieutenant and two soldiers have been killed in an explosion which targeted a police armored vehicle in the northern Sinai city of Al-Arish. ](/news/2015/10/24/a-first-lieutenant-and-two-soldiers-have-been-killed-in-an-explosion-which-targeted-a-police-armored-vehicle-in-the-northern-sinai-city-of-a.md)
-_Context: first lieutenant, Sinai insurgency, Sinai, Egyptian parliamentary election, 2015, Arish_
+_Context: Egyptian parliamentary election, 2015, first lieutenant, Sinai insurgency, Sinai, Arish_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [Violence continues while talks persist looking for a peaceful resolution. A 16-year old Palestinian is shot dead after he tried to stab an Israeli security guard at a West Bank border crossing. A 25-year old Palestinian protester died of wounds suffered last week when he was shot by Israeli troops during a border clash near the Gazan town of Khan Yunis. ](/news/2015/10/24/violence-continues-while-talks-persist-looking-for-a-peaceful-resolution-a-16-year-old-palestinian-is-shot-dead-after-he-tried-to-stab-an-i.md)
@@ -27,11 +27,11 @@ At least 40 people were killed, including several fishermen, when Saudi-led coal
 ### [Actress Maureen O'Hara dies in her sleep at her Boise, Idaho, home. "She passed peacefully surrounded by her loving family as they celebrated her life listening to music from her favorite movie, " The Quiet Man"," said her family's statement. ](/news/2015/10/24/actress-maureen-o-hara-dies-in-her-sleep-at-her-boise-idaho-home-she-passed-peacefully-surrounded-by-her-loving-family-as-they-celebrate.md)
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
-##### landmark
+##### Landmark
 ### [Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. ](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.md)
-_Context: Paris, Pyramid, Eiffel Tower, countries, landmark, Empire State Building, Egypt, United Nations, New York City_
+_Context: New York City, Paris, countries, Eiffel Tower, United Nations, Egypt, Empire State Building, Pyramid, landmark_
 
-##### synod on the family
+##### Synod on the family
 ### [The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. ](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.md)
 Pope Francis called this assembly to reconsider the church’s approach to marriage and family at a time when the very definition of family is changing.
 
@@ -43,9 +43,9 @@ San Antonio man missing after being swept into drainage ditch while walking his 
 ### [Hurricane Patricia, which hit the Mexican coast as a Category 5 storm, appeared to leave remarkably little damage as it moved rapidly inland over mountainous western Mexico and is now a tropical depression (35 mph-55 kph). The storm is currently centered northeast of Zacatecas, Mexico, moving northeast at 24 mph-39 kph. While there are no reports of casualties or substantial widespread damage, authorities warn deadly floods and mudslides remain possible. ](/news/2015/10/24/hurricane-patricia-which-hit-the-mexican-coast-as-a-category-5-storm-appeared-to-leave-remarkably-little-damage-as-it-moved-rapidly-inland.md)
 Hurricane Patricia has weakened dramatically from the monster Category 5 storm that made landfall in Mexico Friday evening, to a tropical depression as of early Saturday morning, but not before reportedly unleashing heavy rains that could cause deadly flooding and mudslides, according to...
 
-##### driving under the influence
+##### Driving under the influence
 ### [A driver, arrested on suspicion of driving under the influence (DUI), plows into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34 with eight in critical condition. The homecoming game with Kansas was played at 2:30 p.m. CT as scheduled. ](/news/2015/10/24/a-driver-arrested-on-suspicion-of-driving-under-the-influence-dui-plows-into-the-oklahoma-state-homecoming-parade-in-stillwater-oklahom.md)
-_Context: Stillwater, Oklahoma, Oklahoma State Homecoming parade, 2015 Oklahoma State University homecoming parade crash, Kansas, driving under the influence, homecoming game_
+_Context: Oklahoma State Homecoming parade, Stillwater, Oklahoma, Kansas, 2015 Oklahoma State University homecoming parade crash, driving under the influence, homecoming game_
 
 ##### Costa Rica
 ### [Costa Rica's restive Turrialba Volcano erupts. ](/news/2015/10/24/costa-rica-s-restive-turrialba-volcano-erupts.md)
@@ -61,9 +61,9 @@ Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night t
 
 ##### Ahmed Adeeb
 ### [Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. ](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.md)
-_Context: President of the Maldives, the Maldives, Abdulla Yameen, Ahmed Adeeb_
+_Context: the Maldives, Ahmed Adeeb, Abdulla Yameen, President of the Maldives_
 
-##### law enforcement
+##### Law enforcement
 ### [A cache of over 7,000 stolen firearms is discovered by law enforcement in the U.S. state of South Carolina. ](/news/2015/10/24/a-cache-of-over-7-000-stolen-firearms-is-discovered-by-law-enforcement-in-the-u-s-state-of-south-carolina.md)
 In his 30 years of law enforcement, about the largest illegal stash of weapons Chesterfield County, S.C., Sheriff Jay Brooks ever investigated was 50 guns.
 

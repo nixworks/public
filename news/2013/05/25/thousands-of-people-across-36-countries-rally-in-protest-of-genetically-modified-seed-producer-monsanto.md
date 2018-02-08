@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/25/thousands-of-people-across-36-countries-rally-i
 
 ### [2013-05-25](/news/2013/05/25/index.md)
 
-##### genetically modified
+##### Genetically modified
 # Thousands of people across 36 countries rally in protest of genetically modified seed producer Monsanto. 
 
 &nbsp;Marches are occurring on six continents, in thirty-six countries, for a total of 250 cities.&nbsp; In the United States forty-seven of the fifty states are participating, and synchronized the states for a start of 11 a.m. PDT.&nbsp; The participants are protesting Monsanto. Why are they protesting against one of the giants in the biochemical industry?&nbsp; &hellip;

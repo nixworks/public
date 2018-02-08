@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/26/police-report-multiple-stabbings-at-a-planned-w
 
 ### [2016-06-26](/news/2016/06/26/index.md)
 
-##### white pride
+##### White pride
 # Police report multiple stabbings at a planned "white pride" rally in Sacramento, California between the Traditionalist Workers Party and counter-protesters. The Sacramento Fire Department reports seven people were taken to local hospitals, two with life-threatening wounds. 
 
 Gathering of many West Coast white supremacist groups in Sacramento took sudden violent turn

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/8/2011-libyan-civil-war-after-a-lengthy-and-bloody
 
 ### [2011-10-8](/news/2011/10/8/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: After a lengthy and bloody siege, National Transitional Council forces approach the center of the city of Sirte, facing heavy resistance from troops loyal to the ousted dictator Muammar Gaddafi. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/30/two-intense-derechos-move-across-the-upper-midw
 
 ### [2014-06-30](/news/2014/06/30/index.md)
 
-##### derechos
+##### Derechos
 # Two intense derechos move across the Upper Midwest from June 30th-July 1st producing many relatively weak tornadoes. Major flooding also occurred in Iowa due to this system.
 
 

@@ -19,13 +19,13 @@ Hundreds of thousands gather in iconic square demanding transition to civilian r
 ### [Riots break out in a prison in central Colombo, Sri Lanka, injuring 31 inmates and guards. ](/news/2012/01/25/riots-break-out-in-a-prison-in-central-colombo-sri-lanka-injuring-31-inmates-and-guards.md)
 Riots broke out at a high-security prison in the Sri Lankan capital of Colombo, leaving 31 inmates and guards injured, authorities said.
 
-##### grenade
+##### Grenade
 ### [10 people are injured in a grenade attack in southern Rwanda. ](/news/2012/01/25/10-people-are-injured-in-a-grenade-attack-in-southern-rwanda.md)
-_Context: grenade, Rwanda_
+_Context: Rwanda, grenade_
 
 ##### United States
 ### [A United States rescue operation in Somalia frees two foreign hostages and kills nine pirates. ](/news/2012/01/25/a-united-states-rescue-operation-in-somalia-frees-two-foreign-hostages-and-kills-nine-pirates.md)
-_Context: United States, Somalia_
+_Context: Somalia, United States_
 
 ##### Ethiopia
 ### [A truck bomb detonates at an Ethiopian military base in Somalia. ](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.md)
@@ -37,11 +37,11 @@ _Context: Papua New Guinea_
 
 ##### President
 ### [Iranian President Mahmoud Ahmadinejad says that Iran is willing to talk about Iran's nuclear program with other leaders. ](/news/2012/01/25/iranian-president-mahmoud-ahmadinejad-says-that-iran-is-willing-to-talk-about-iran-s-nuclear-program-with-other-leaders.md)
-_Context: nuclear program, Mahmoud Ahmadinejad, President_
+_Context: Mahmoud Ahmadinejad, nuclear program, President_
 
 ##### United Nations
 ### [The United Nations says a new foreign judge at the Khmer Rouge trial can continue cases without the support of Cambodia. ](/news/2012/01/25/the-united-nations-says-a-new-foreign-judge-at-the-khmer-rouge-trial-can-continue-cases-without-the-support-of-cambodia.md)
-_Context: United Nations, Extraordinary Chambers in the Courts of Cambodia, Cambodia_
+_Context: Cambodia, Extraordinary Chambers in the Courts of Cambodia, United Nations_
 
 ##### Israeli police
 ### [Israeli police capture Aziz Dweik, Speaker of the Hamas-dominated Palestinian Parliament, and place him under detention for 6 months. ](/news/2012/01/25/israeli-police-capture-aziz-dweik-speaker-of-the-hamas-dominated-palestinian-parliament-and-place-him-under-detention-for-6-months.md)

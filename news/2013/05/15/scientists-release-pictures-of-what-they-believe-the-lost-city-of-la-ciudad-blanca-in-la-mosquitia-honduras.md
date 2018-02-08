@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/15/scientists-release-pictures-of-what-they-believ
 
 ### [2013-05-15](/news/2013/05/15/index.md)
 
-##### la Ciudad Blanca
+##### La Ciudad Blanca
 # Scientists release pictures of what they believe the lost city of la Ciudad Blanca in La Mosquitia, Honduras.
 
 A high-tech team of scientists and filmmakers shared pictures of what appears to have been a centuries-old civilization in Honduras, one year after they used laser-mapping technology to identify traces of structures in the thick jungle. The square-shaped

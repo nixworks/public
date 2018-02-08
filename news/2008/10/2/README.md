@@ -5,15 +5,15 @@ Formats: [HTML](2008/10/2/index.html)  [JSON](2008/10/2/index.json)  [XML](2008/
 
 ##### Sarah Palin
 ### [ Sarah Palin and Joe Biden have their only scheduled debate for the vice presidency of the United States. ](/news/2008/10/2/sarah-palin-and-joe-biden-have-their-only-scheduled-debate-for-the-vice-presidency-of-the-united-states.md)
-_Context: United States, Joe Biden, only scheduled debate, Sarah Palin_
+_Context: Sarah Palin, Joe Biden, only scheduled debate, United States_
 
 ##### Ukraine
 ### [ Ukrainian President, Viktor Yushchenko may face impeachment on charges of undermining national security, and illegal arms trade with Georgia months before the attack on Tskhinvali, South Ossetia, says Ukrainian Prime Minister Yulia Tymoshenko. Yushchenko earlier said the arms trade charges are "unsubstantiated". ](/news/2008/10/2/ukrainian-president-viktor-yushchenko-may-face-impeachment-on-charges-of-undermining-national-security-and-illegal-arms-trade-with-georgi.md)
-_Context:  Georgian, Viktor Yushchenko, Ukraine, Yulia Tymoshenko, Tskhinvali, South Ossetia_
+_Context: Tskhinvali, Yulia Tymoshenko, Viktor Yushchenko, Ukraine,  Georgian, South Ossetia_
 
 ##### Metropolitan Police Service
 ### [ The commissioner of the Metropolitan Police Service and the most senior policeman in the United Kingdom, Sir Ian Blair, announces that he will stand down from his post in December of this year, citing a lack of support from London Mayor Boris Johnson. ](/news/2008/10/2/the-commissioner-of-the-metropolitan-police-service-and-the-most-senior-policeman-in-the-united-kingdom-sir-ian-blair-announces-that-he-w.md)
-_Context: London, Ian Blair, United Kingdom, Metropolitan Police Service, Boris Johnson, Mayor_
+_Context: London, Mayor, Ian Blair, Metropolitan Police Service, Boris Johnson, United Kingdom_
 
 ##### Steve Fossett
 ### [ A search team finds the wreckage of the airplane flown by adventurer Steve Fossett in the mountains of Madera County, California, and what appears to be some of his personal effects nearby. Fossett had disappeared on September 3, 2007. ](/news/2008/10/2/a-search-team-finds-the-wreckage-of-the-airplane-flown-by-adventurer-steve-fossett-in-the-mountains-of-madera-county-california-and-what.md)
@@ -21,7 +21,7 @@ _Context: California, Steve Fossett, Madera County_
 
 ##### United States
 ### [ The United States Securities and Exchange Commission says it would extend the short-sale ban to as long as October 17 or up to three business days after the passage of the proposed bailout plan, but will not make it permanent. ](/news/2008/10/2/the-united-states-securities-and-exchange-commission-says-it-would-extend-the-short-sale-ban-to-as-long-as-october-17-or-up-to-three-busine.md)
-_Context: Securities and Exchange Commission, proposed bailout plan, October 17, United States, business day, short-sale_
+_Context: Securities and Exchange Commission, business day, proposed bailout plan, October 17, short-sale, United States_
 
 ## [Previous Day...](/news/2008/10/1/index.md)
 

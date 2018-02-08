@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/1/dutch-dispensaries-become-the-first-in-the-world
 
 ### [2003-09-1](/news/2003/09/1/index.md)
 
-##### cannabis
+##### Cannabis
 #  Dutch dispensaries become the first in the world to offer cannabis as a prescription drug. 
 
 

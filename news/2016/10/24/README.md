@@ -7,7 +7,7 @@ Formats: [HTML](2016/10/24/index.html)  [JSON](2016/10/24/index.json)  [XML](201
 ### [ISIL recaptures the western Iraqi town of Ar-Rutbah, which it previously withdrew from in May. ](/news/2016/10/24/isil-recaptures-the-western-iraqi-town-of-ar-rutbah-which-it-previously-withdrew-from-in-may.md)
 Seeking to distract attention, fighters attack Rutba as thousands of troops focus on Mosul hundreds of kilometres away.
 
-##### brokerage
+##### Brokerage
 ### [U.S. discount brokerage TD Ameritrade agrees to buy Scottrade for $2.7 billion. ](/news/2016/10/24/u-s-discount-brokerage-td-ameritrade-agrees-to-buy-scottrade-for-2-7-billion.md)
 TD Ameritrade (AMTD.O) has agreed to buy Scottrade for $2.7 billion in a deal that would bring together two of the biggest U.S. discount brokerages, but is expected to face scrutiny from regulators.
 

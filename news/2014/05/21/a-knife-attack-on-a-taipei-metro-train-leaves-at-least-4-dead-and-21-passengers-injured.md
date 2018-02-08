@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/21/a-knife-attack-on-a-taipei-metro-train-leaves-a
 
 ### [2014-05-21](/news/2014/05/21/index.md)
 
-##### knife attack
+##### Knife attack
 # A knife attack on a Taipei Metro train leaves at least 4 dead and 21 passengers injured. 
 
 

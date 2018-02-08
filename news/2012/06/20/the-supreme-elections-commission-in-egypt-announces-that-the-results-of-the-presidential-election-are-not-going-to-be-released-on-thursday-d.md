@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/20/the-supreme-elections-commission-in-egypt-annou
 
 ### [2012-06-20](/news/2012/06/20/index.md)
 
-##### presidential election
+##### Presidential election
 # The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. 
 
 Authorities gave no new date for the announcement of the winner of the presidential election.

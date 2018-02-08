@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/28/the-social-democratic-siumut-narrowly-retains-a
 
 ### [2014-11-28](/news/2014/11/28/index.md)
 
-##### social-democratic
+##### Social-democratic
 # The social-democratic Siumut narrowly retains a government-forming plurality of votes in the Greenlandic general election, tying with leftist opposition Inuit Ataqatigiit for number of parliament seats. 
 
 

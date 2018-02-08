@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/21/curfew-is-imposed-on-the-indian-city-of-lucknow
 
 ### [2005-02-21](/news/2005/02/21/index.md)
 
-##### curfew
+##### Curfew
 #  Curfew is imposed on the Indian city of Lucknow after sectarian violence between Sunni and Shia Muslims. 3 people are dead and 20 injured 
 
 

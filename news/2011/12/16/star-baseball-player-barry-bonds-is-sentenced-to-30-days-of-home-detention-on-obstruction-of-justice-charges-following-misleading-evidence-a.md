@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/16/star-baseball-player-barry-bonds-is-sentenced-t
 
 ### [2011-12-16](/news/2011/12/16/index.md)
 
-##### baseball
+##### Baseball
 # Star baseball player Barry Bonds is sentenced to 30 days of home detention on obstruction of justice charges following misleading evidence about steroid use. 
 
 

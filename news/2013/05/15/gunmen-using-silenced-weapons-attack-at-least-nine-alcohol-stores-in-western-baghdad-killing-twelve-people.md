@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/15/gunmen-using-silenced-weapons-attack-at-least-n
 
 ### [2013-05-15](/news/2013/05/15/index.md)
 
-##### alcohol
+##### Alcohol
 # Gunmen using silenced weapons attack at least nine alcohol stores in western Baghdad, killing twelve people. 
 
 

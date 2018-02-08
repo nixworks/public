@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/13/a-lone-gunman-shoots-a-muslim-cleric-and-an-ass
 
 ### [2016-08-13](/news/2016/08/13/index.md)
 
-##### muslim cleric
+##### Muslim cleric
 # A lone gunman shoots a Muslim cleric and an associate to death in the Ozone Park neighborhood of Queens, New York City. Both were still wearing religious garb following afternoon prayers. No arrests have been made. 
 
 A New York City man appeared in court on Tuesday and denied charges he shot and killed a Muslim cleric and his assistant on a street in the borough of Queens over the weekend.

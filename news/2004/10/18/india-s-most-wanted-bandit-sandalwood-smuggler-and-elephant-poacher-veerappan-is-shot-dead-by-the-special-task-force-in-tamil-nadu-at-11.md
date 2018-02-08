@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/18/india-s-most-wanted-bandit-sandalwood-smuggler-
 
 ### [2004-10-18](/news/2004/10/18/index.md)
 
-##### bandit
+##### Bandit
 #  India's most wanted bandit, sandalwood smuggler and elephant poacher, Veerappan, is shot dead by the Special Task Force in Tamil Nadu at 11 p.m. IST, after having evaded capture for 20 years. 
 
 

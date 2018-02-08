@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/9/following-the-recent-parliamentary-elections-in-
 
 ### [2010-07-9](/news/2010/07/9/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 # Following the recent parliamentary elections in Slovakia, Iveta Radicova substitutes Robert Fico as Prime Minister, becoming the first female incumbent of the post.
 
 

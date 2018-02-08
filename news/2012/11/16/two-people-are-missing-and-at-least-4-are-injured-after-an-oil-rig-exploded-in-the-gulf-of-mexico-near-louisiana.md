@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/16/two-people-are-missing-and-at-least-4-are-injur
 
 ### [2012-11-16](/news/2012/11/16/index.md)
 
-##### offshore oil platform
+##### Offshore oil platform
 # Two people are missing and at least 4 are injured after an oil rig exploded in the Gulf of Mexico, near Louisiana. 
 
 

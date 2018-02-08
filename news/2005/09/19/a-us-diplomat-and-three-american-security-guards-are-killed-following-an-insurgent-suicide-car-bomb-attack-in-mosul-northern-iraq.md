@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/19/a-us-diplomat-and-three-american-security-guard
 
 ### [2005-09-19](/news/2005/09/19/index.md)
 
-##### diplomat
+##### Diplomat
 #  A US diplomat and three American security guards are killed following an insurgent Suicide car bomb attack in Mosul, northern Iraq. 
 
 News and opinion from The Times &amp; The Sunday Times

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/16/russia-and-cuba-agree-on-reopening-the-biggest-
 
 ### [2014-07-16](/news/2014/07/16/index.md)
 
-##### the biggest soviet era espionage base
+##### The biggest soviet era espionage base
 # Russia and Cuba agree on reopening the biggest soviet era espionage base outside of Russia. 
 
 

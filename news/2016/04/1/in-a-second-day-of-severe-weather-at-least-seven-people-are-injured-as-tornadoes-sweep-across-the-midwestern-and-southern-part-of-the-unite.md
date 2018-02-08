@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/1/in-a-second-day-of-severe-weather-at-least-seven
 
 ### [2016-04-1](/news/2016/04/1/index.md)
 
-##### tornado
+##### Tornado
 # In a second day of severe weather, at least seven people are injured as tornadoes sweep across the Midwestern and Southern part of the United States, with more severe weather expected. 
 
 A second day of severe weather batters the US with damaging hail and torrential rain hitting Oklahoma and Louisiana.

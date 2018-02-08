@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/27/drought-in-southwestern-china-is-threatening-th
 
 ### [2007-02-27](/news/2007/02/27/index.md)
 
-##### drought
+##### Drought
 #  Drought in southwestern China is threatening the drinking water supply of 1.5 million people. 
 
 

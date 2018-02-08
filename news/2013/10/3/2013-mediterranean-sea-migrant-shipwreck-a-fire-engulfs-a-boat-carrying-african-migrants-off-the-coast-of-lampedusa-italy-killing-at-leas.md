@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/3/2013-mediterranean-sea-migrant-shipwreck-a-fire-
 
 ### [2013-10-3](/news/2013/10/3/index.md)
 
-##### migrant boat sinks
+##### Migrant boat sinks
 # 2013 Mediterranean Sea migrant shipwreck. A fire engulfs a boat carrying African migrants off the coast of Lampedusa, Italy, killing at least 114 people, 200 remain missing. 
 
 The deaths of at least 111 people again underscored the dangerous, desperate efforts by many in Africa and the Middle East to reach Europe.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/29/the-first-same-sex-marriages-take-place-in-the-
 
 ### [2014-03-29](/news/2014/03/29/index.md)
 
-##### marriage
+##### Marriage
 # The first same-sex marriages take place in the United Kingdom after they were given the legal authority to proceed in England and Wales from midnight UTC. 
 
 The prime minister hails an &quot;important moment&quot; for the country as gay couples become the first to wed under a new law allowing same-sex marriages in England and Wales.

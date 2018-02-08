@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/17/a-prolonged-drought-in-the-amazon-region-forces
 
 ### [2010-10-17](/news/2010/10/17/index.md)
 
-##### drought
+##### Drought
 # A prolonged drought in the Amazon region forces Brazil to declare a state of emergency in 25 towns. 
 
 A prolonged dry season has left the Amazon region facing its worst dry spell for many years, as key waterways dry up.

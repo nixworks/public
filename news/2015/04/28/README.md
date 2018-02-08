@@ -15,11 +15,11 @@ _Context: Lake Chad_
 ### [Nominations for the 69th Tony Awards are announced with "An American in Paris" and "Fun Home" leading the nominations. ](/news/2015/04/28/nominations-for-the-69th-tony-awards-are-announced-with-an-american-in-paris-and-fun-home-leading-the-nominations.md)
 An&nbsp;American&nbsp;in&nbsp;Paris&nbsp;and&nbsp;Fun&nbsp;Home&nbsp;topped&nbsp;the&nbsp;nominations&nbsp;for&nbsp;the&nbsp;69th&nbsp;annual&nbsp;Tony&nbsp;Awards&nbsp;on&nbsp;April&nbsp;28,&nbsp;earning&nbsp;12&nbsp;nods&nbsp;each,&nbsp;including&nbsp;...
 
-##### suspicions
+##### Suspicions
 ### [The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. ](/news/2015/04/28/the-official-death-toll-exceeds-5-000-with-the-united-nations-estimating-that-1-4-million-people-in-the-region-need-emergency-food-assistanc.md)
 An official says 250 people are believed missing following a mudslide and avalanche in an isolated village in rural Nepal not far from the epicentre of the weekend’s powerful earthquake. 
 
-##### crash
+##### Crash
 ### [Two trains crash in Johannesburg killing a driver and injuring 90 passengers. ](/news/2015/04/28/two-trains-crash-in-johannesburg-killing-a-driver-and-injuring-90-passengers.md)
  A train driver was killed and at least 90 other people injured Tuesday when two crowded commuter trains collided in Johannesburg, South African officials said, adding that emergency teams had cut one woman free from the wreckage.
 

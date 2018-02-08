@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/23/an-e-petition-calling-for-the-british-governmen
 
 ### [2011-08-23](/news/2011/08/23/index.md)
 
-##### e-petition
+##### E-petition
 # An e-petition calling for the British Government to release of Cabinet documents relating to the Hillsborough disaster collects 100,000 signatures - enough for MPs to consider a House of Commons debate on the matter. It is the first government e-petition to reach the target. 
 
 A petition calling for Hillsborough disaster Cabinet papers to be released reaches 100,000 signatures - enough for a Commons debate to be considered.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/6/lebanon-rejects-a-draft-u-n-resolution-calling-f
 
 ### [2006-08-6](/news/2006/08/6/index.md)
 
-##### resolution
+##### Resolution
 #  Lebanon rejects a draft U.N. resolution calling for an end to the conflict between Israel and Hizbollah, insisting it must include an explicit demand for a full Israeli pullout from south Lebanon.
 
 (VIDEO) Haifa under attack: Rocket hits building, causes it to collapse; body of one woman recovered. Two people critically injured, die in hospital. More than 100 residents hurt. Defense minister, army chief hold security consultation

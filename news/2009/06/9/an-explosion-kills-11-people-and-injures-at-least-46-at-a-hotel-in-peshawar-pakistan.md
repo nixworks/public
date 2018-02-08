@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/9/an-explosion-kills-11-people-and-injures-at-leas
 
 ### [2009-06-9](/news/2009/06/9/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion kills 11 people and injures at least 46 at a hotel in Peshawar, Pakistan. 
 
 

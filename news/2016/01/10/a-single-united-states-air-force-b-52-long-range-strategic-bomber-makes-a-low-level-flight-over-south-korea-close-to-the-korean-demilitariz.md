@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/10/a-single-united-states-air-force-b-52-long-rang
 
 ### [2016-01-10](/news/2016/01/10/index.md)
 
-##### nuclear test
+##### Nuclear test
 # A single United States Air Force B-52 long-range strategic bomber makes a low-level flight over South Korea, close to the Korean Demilitarized Zone (DMZ), in a show of force following North Korea's fourth nuclear test on January 6, before returning to its base in Guam. 
 
 

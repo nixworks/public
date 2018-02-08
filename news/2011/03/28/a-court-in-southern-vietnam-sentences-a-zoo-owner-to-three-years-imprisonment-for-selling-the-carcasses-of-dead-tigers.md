@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/28/a-court-in-southern-vietnam-sentences-a-zoo-own
 
 ### [2011-03-28](/news/2011/03/28/index.md)
 
-##### southern Vietnam
+##### Southern Vietnam
 # A court in southern Vietnam sentences a zoo owner to three years imprisonment for selling the carcasses of dead tigers. 
 
 

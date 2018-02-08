@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/25/a-tunisian-army-soldier-is-killed-after-a-shoot
 
 ### [2015-05-25](/news/2015/05/25/index.md)
 
-##### army
+##### Army
 # A Tunisian Army soldier is killed after a shooting rampage in which 7 fellow soldiers are killed and 10 others injured in their barracks in Tunis. 
 
 A Tunisian corporal shot dead seven of his comrades before himself being killed, the defence ministry said, adding that he had family and psychological problems.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/19/hundreds-of-parachutists-from-the-united-states
 
 ### [2009-09-19](/news/2009/09/19/index.md)
 
-##### parachutists
+##### Parachutists
 #  Hundreds of parachutists from the United States, the United Kingdom and the Netherlands commemorate the 65th anniversary of Operation Market Garden near Arnhem, the Netherlands. 
 
 HUNDREDS of British, American and Dutch parachutists jumped over the central Netherlands yesterday to mark the 65th anniversary of the ill-fated Arnhem operation aimed at bringing a swift end to World War II.

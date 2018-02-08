@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/15/index.html)  [JSON](2016/10/15/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [Attacks targeting a Shi'ite Muslim gathering, a police check-point, and the family of an anti-Islamic State Sunni paramilitary leader, kill at least 55 people in Iraq. ](/news/2016/10/15/attacks-targeting-a-shi-ite-muslim-gathering-a-police-check-point-and-the-family-of-an-anti-islamic-state-sunni-paramilitary-leader-kill.md)
-_Context: 2016 October Baghdad attacks, Iraq, Sunni Muslim, ISIL, Iraqi Civil War (2014-present), Shia_
+_Context: Shia, ISIL, Sunni Muslim, Iraq, 2016 October Baghdad attacks, Iraqi Civil War (2014-present)_
 
 ##### Russian border patrol
 ### [Russian border patrol officers open fire on a North Korean fishing vessel, leaving one fisherman dead, and eight others injured. ](/news/2016/10/15/russian-border-patrol-officers-open-fire-on-a-north-korean-fishing-vessel-leaving-one-fisherman-dead-and-eight-others-injured.md)
@@ -27,7 +27,7 @@ At least one missile was fired at the destroyer, but the ship deployed counterme
 ### [Egyptian government airstrikes on jihadist targets in North Sinai Governorate, leave at least 100 terrorists killed and 40 others wounded. ](/news/2016/10/15/egyptian-government-airstrikes-on-jihadist-targets-in-north-sinai-governorate-leave-at-least-100-terrorists-killed-and-40-others-wounded.md)
 _Context: jihadist, North Sinai Governorate, Sinai insurgency, Egypt_
 
-##### wildlife sanctuary
+##### Wildlife sanctuary
 ### [A wildlife sanctuary for rescued elephants opens in Brazil. ](/news/2016/10/15/a-wildlife-sanctuary-for-rescued-elephants-opens-in-brazil.md)
 An elephant sanctuary has opened in Brazil to provide a home for an estimated 50 circus animals from across Latin America.
 
@@ -39,7 +39,7 @@ Google built its reputation by helping people sift through a deluge of informati
 ### [The U.S. Transportation Department's emergency order banning Samsung Galaxy Note 7 from aircraft in the United States goes into effect. ](/news/2016/10/15/the-u-s-transportation-department-s-emergency-order-banning-samsung-galaxy-note-7-from-aircraft-in-the-united-states-goes-into-effect.md)
 Samsung Galaxy Note 7 smartphone devices will be banned from aircraft in the United States starting on Saturday at noon EDT (1600 GMT) under an emergency order, regulators said on Friday after numerous reports of the devices catching fire.
 
-##### stampede
+##### Stampede
 ### [A stampede among Hindu pilgrims headed to Varanasi, India, kills at least 24 people and injures at least 20. ](/news/2016/10/15/a-stampede-among-hindu-pilgrims-headed-to-varanasi-india-kills-at-least-24-people-and-injures-at-least-20.md)
 At least 24 people died and dozens more were hurt in a stampede in the ancient northern Indian city of Varanasi on Saturday, officials said.
 
@@ -49,7 +49,7 @@ A powerful typhoon is bearing down on the Philippines and could be the “most d
 
 ##### San Diego
 ### [A pickup truck hurls off San Diego, California's Coronado Bridge, plummets some 60 feet, and crashes onto a park where hundreds of people had gathered for a motorcycle rally, killing four people in a vendor's booth and injuring eight others. ](/news/2016/10/15/a-pickup-truck-hurls-off-san-diego-california-s-coronado-bridge-plummets-some-60-feet-and-crashes-onto-a-park-where-hundreds-of-people-ha.md)
-_Context: California, San Diego, Coronado Bridge_
+_Context: Coronado Bridge, San Diego, California_
 
 ##### European migrant crisis
 ### [Syrian child refugees previously settled in the Calais jungle legally immigrate into England. ](/news/2016/10/15/syrian-child-refugees-previously-settled-in-the-calais-jungle-legally-immigrate-into-england.md)
@@ -57,7 +57,7 @@ Aid agencies work with UK and France as operation steps up due to imminent demol
 
 ##### North Korea's nuclear program
 ### [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md)
-_Context: Kusong, U.S. military, North Korea's nuclear program, North Korea, Strategic Command systems, ballistic missile, North Pyongan Province_
+_Context: Kusong, North Pyongan Province, Strategic Command systems, North Korea's nuclear program, U.S. military, ballistic missile, North Korea_
 
 ##### India
 ### [Indian Prime Minister Narendra Modi and Russian President Vladimir Putin sign several agreements including a $12.9 billion defense and energy deal. Russian state oil major Rosneft pays for a controlling stake in both India's Essar Oil and port facilities that it already owns. ](/news/2016/10/15/indian-prime-minister-narendra-modi-and-russian-president-vladimir-putin-sign-several-agreements-including-a-12-9-billion-defense-and-energ.md)
@@ -73,7 +73,7 @@ Police in China detain 75 people in connection with a widespread network that il
 
 ##### Vivien Rose
 ### [Judge Vivien Rose of London's High Court, finds in favor of Goldman Sachs, that the bank is not liable for the failure of highly speculative trades made by the sovereign wealth fund of Libya. ](/news/2016/10/15/judge-vivien-rose-of-london-s-high-court-finds-in-favor-of-goldman-sachs-that-the-bank-is-not-liable-for-the-failure-of-highly-speculative.md)
-_Context: High Court, sovereign wealth fund, Goldman Sachs, Libya, Vivien Rose, highly speculative trades_
+_Context: highly speculative trades, High Court, Libya, sovereign wealth fund, Goldman Sachs, Vivien Rose_
 
 ##### CFC ban
 ### [The Obama administration agrees to an international limit on the use of hydrofluorocarbon gases in refrigeration and air conditioning. ](/news/2016/10/15/the-obama-administration-agrees-to-an-international-limit-on-the-use-of-hydrofluorocarbon-gases-in-refrigeration-and-air-conditioning.md)

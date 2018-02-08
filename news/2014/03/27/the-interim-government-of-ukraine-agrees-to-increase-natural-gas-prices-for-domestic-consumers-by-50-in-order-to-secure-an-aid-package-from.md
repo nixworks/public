@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/27/the-interim-government-of-ukraine-agrees-to-inc
 
 ### [2014-03-27](/news/2014/03/27/index.md)
 
-##### ruling coalition
+##### Ruling coalition
 # The interim government of Ukraine agrees to increase natural gas prices for domestic consumers by 50% in order to secure an aid package from the IMF. 
 
 As prime minister warns Ukrainians of pain ahead, IMF pledges $18B to prop up sinking economy

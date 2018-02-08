@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/28/demonstrators-in-london-england-demand-that-the
 
 ### [2009-03-28](/news/2009/03/28/index.md)
 
-##### demonstration
+##### Demonstration
 #  Demonstrators in London, England, demand that the G20 combat poverty, climate change, and unemployment. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/8/a-second-human-case-of-h5n1-bird-flu-is-confirme
 
 ### [2007-12-8](/news/2007/12/8/index.md)
 
-##### bird flu
+##### Bird flu
 #  A second human case of H5N1 bird flu is confirmed in eastern China. 
 
 

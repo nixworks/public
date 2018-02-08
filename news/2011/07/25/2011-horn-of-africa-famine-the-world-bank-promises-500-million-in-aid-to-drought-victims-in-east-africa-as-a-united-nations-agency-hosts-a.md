@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/25/2011-horn-of-africa-famine-the-world-bank-promi
 
 ### [2011-07-25](/news/2011/07/25/index.md)
 
-##### famine
+##### Famine
 # 2011 Horn of Africa famine: The World Bank promises $500 million in aid to drought victims in East Africa as a United Nations agency hosts an emergency meeting aimed at fighting famine. 
 
 Efforts to save starving Somalis and others suffering from drought in East Africa were intensified Monday, with United Nations agencies pitching for more funding for relief efforts.

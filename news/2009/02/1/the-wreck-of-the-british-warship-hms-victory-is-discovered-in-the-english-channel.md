@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/1/the-wreck-of-the-british-warship-hms-victory-is-
 
 ### [2009-02-1](/news/2009/02/1/index.md)
 
-##### wreck
+##### Wreck
 #  The wreck of the British warship HMS "Victory" is discovered in the English Channel. 
 
 American deep-sea explorers say they have discovered the wreck of a legendary British warship that sank in the English Channel 264 years ago.

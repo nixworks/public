@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/29/a-strong-earthquake-measuring-6-1-on-the-richte
 
 ### [2008-05-29](/news/2008/05/29/index.md)
 
-##### strong earthquake
+##### Strong earthquake
 #  A strong earthquake measuring 6.1 on the Richter scale strikes Iceland near the town of Selfoss. 
 
 

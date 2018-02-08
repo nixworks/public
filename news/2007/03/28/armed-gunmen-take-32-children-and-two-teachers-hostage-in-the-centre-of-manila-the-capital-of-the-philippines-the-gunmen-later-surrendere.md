@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/28/armed-gunmen-take-32-children-and-two-teachers-
 
 ### [2007-03-28](/news/2007/03/28/index.md)
 
-##### teacher
+##### Teacher
 #  Armed gunmen take 32 children and two teachers hostage in the centre of Manila, the capital of the Philippines. The gunmen later surrendered and released the hostages. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/11/an-armed-hijacker-claiming-to-have-a-bomb-takes
 
 ### [2011-11-11](/news/2011/11/11/index.md)
 
-##### ferry
+##### Ferry
 # An armed hijacker claiming to have a bomb takes control of a ferry on the Sea of Marmara near the Turkish port of Izmit but is later killed by the Turkish military. 
 
 Assailant armed with explosives had taken control of ferry carrying 20 people; all passengers rescued after 12 hour siege; PKK suspected.

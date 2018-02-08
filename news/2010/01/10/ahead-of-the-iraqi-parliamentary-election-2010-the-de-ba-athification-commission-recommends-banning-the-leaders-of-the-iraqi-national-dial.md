@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/10/ahead-of-the-iraqi-parliamentary-election-2010-
 
 ### [2010-01-10](/news/2010/01/10/index.md)
 
-##### elections
+##### Elections
 # Ahead of the Iraqi parliamentary election, 2010, the De-Ba'athification Commission recommends banning the leaders of the Iraqi National Dialogue Front, the Coalition for Iraqi National Unity and 13 other parties for links to Saddam Hussein's banned Ba'ath Party. 
 
 

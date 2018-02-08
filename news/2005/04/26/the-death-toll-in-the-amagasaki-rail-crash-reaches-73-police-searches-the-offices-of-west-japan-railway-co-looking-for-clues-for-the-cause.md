@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/26/the-death-toll-in-the-amagasaki-rail-crash-reac
 
 ### [2005-04-26](/news/2005/04/26/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the Amagasaki rail crash reaches 73. Police searches the offices of West Japan Railway Co looking for clues for the cause of the crash. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/23/76-monks-are-taken-to-hospital-following-an-att
 
 ### [2012-06-23](/news/2012/06/23/index.md)
 
-##### bee
+##### Bee
 # 76 monks are taken to hospital following an attack by a swarm of bees at Chedi Luang in Thailand's northern Chiang Mai Province. 
 
 Dozens of novice monks are taken to hospital, some in a serious condition, after an attack by a swarm of bees in northern Thailand.

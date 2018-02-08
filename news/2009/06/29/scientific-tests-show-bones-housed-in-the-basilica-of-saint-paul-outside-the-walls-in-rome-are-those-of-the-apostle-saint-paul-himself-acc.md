@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/29/scientific-tests-show-bones-housed-in-the-basil
 
 ### [2009-06-29](/news/2009/06/29/index.md)
 
-##### bone
+##### Bone
 #  Scientific tests show bones housed in the Basilica of Saint Paul Outside the Walls in Rome are those of the apostle Saint Paul himself, according to Pope Benedict XVI. 
 
 

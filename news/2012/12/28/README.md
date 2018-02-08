@@ -13,7 +13,7 @@ Jiroemon Kimura, a 115-year-old Japanese man born when Queen Victoria still reig
 
 ##### Dasarathpur
 ### [A bus has veers off a mountain road and plunges into a river near Dasarathpur village in western Nepal, killing at least 13 people and leaving 19 others critically injured. ](/news/2012/12/28/a-bus-has-veers-off-a-mountain-road-and-plunges-into-a-river-near-dasarathpur-village-in-western-nepal-killing-at-least-13-people-and-leavi.md)
-_Context: Dasarathpur, Nepal_
+_Context: Nepal, Dasarathpur_
 
 ##### Russia
 ### [Russian President Vladimir Putin signs the Dima Yakovlev Law banning US citizens from adopting Russian children. ](/news/2012/12/28/russian-president-vladimir-putin-signs-the-dima-yakovlev-law-banning-us-citizens-from-adopting-russian-children.md)
@@ -21,7 +21,7 @@ For months, life for Ann and Kurt Suhs has been a whirlwind of assembling docume
 
 ##### South Sudan
 ### [South Sudan's ambassador to Moscow says the UN helicopter with Russian crew that was downed in South Sudan last week was probably mistaken for one of the Sudanese aircraft. ](/news/2012/12/28/south-sudanas-ambassador-to-moscow-says-the-un-helicopter-with-russian-crew-that-was-downed-in-south-sudan-last-week-was-probably-mistaken.md)
-_Context: Russia, Sudan, United Nations, Moscow, South Sudan_
+_Context: Sudan, Russia, South Sudan, Moscow, United Nations_
 
 ##### US President
 ### [US President Barack Obama says he is "modestly optimistic" that a deal to avoid the fiscal cliff is possible, after a last-ditch White House meeting. ](/news/2012/12/28/us-president-barack-obama-says-he-is-modestly-optimistic-that-a-deal-to-avoid-the-fiscal-cliff-is-possible-after-a-last-ditch-white-house.md)
@@ -29,7 +29,7 @@ US President Barack Obama says he is &quot;modestly optimistic&quot; that a deal
 
 ##### Italy
 ### [Italy's outgoing Prime Minister Mario Monti is to lead a coalition of centre parties going into a parliamentary election in February 2013. ](/news/2012/12/28/italy-s-outgoing-prime-minister-mario-monti-is-to-lead-a-coalition-of-centre-parties-going-into-a-parliamentary-election-in-february-2013.md)
-_Context: Italy, Italian Prime Minister, Mario Monti, 2013 Italian parliamentary election_
+_Context: Italian Prime Minister, 2013 Italian parliamentary election, Italy, Mario Monti_
 
 ##### Philippines
 ### [Philippine President Benigno Aquino III signs into law the Responsible Parenthood and Reproductive Health Act, informally known as the RH Law. ](/news/2012/12/28/philippine-president-benigno-aquino-iii-signs-into-law-the-responsible-parenthood-and-reproductive-health-act-informally-known-as-the-rh-la.md)
@@ -37,7 +37,7 @@ _Context: Italy, Italian Prime Minister, Mario Monti, 2013 Italian parliamentary
 
 ##### Sunni Muslim
 ### [Massive Sunni-led demonstrations erupt across Iraq demanding the resignation of Prime Minister Nouri al-Maliki. ](/news/2012/12/28/massive-sunni-led-demonstrations-erupt-across-iraq-demanding-the-resignation-of-prime-minister-nouri-al-maliki.md)
-_Context: Iraq, Sunni Muslim, Nouri al-Maliki, Iraq Prime Minister_
+_Context: Iraq, Nouri al-Maliki, Sunni Muslim, Iraq Prime Minister_
 
 ## [Previous Day...](/news/2012/12/27/index.md)
 

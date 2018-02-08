@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-
 
 ### [2008-07-3](/news/2008/07/3/index.md)
 
-##### series of explosions
+##### Series of explosions
 #  A series of explosions at a depot storing 1,500 tonnes of obsolete munitions forces the evacuation of some 2,000 people in Sofia and the closure of the Bulgarian capital's main airport. 
 
 

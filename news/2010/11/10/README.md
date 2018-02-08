@@ -17,33 +17,33 @@ _Context: Baghdad_
 
 ##### Time
 ### [An article in "Time" states Egypt helped Israel assassinate Palestinian Muhammad Jamal al-Namnam, a senior member of the al-Qaeda-affiliated Army of Islam organization. He was killed last week, after his car exploded in Gaza City. ](/news/2010/11/10/an-article-in-time-states-egypt-helped-israel-assassinate-palestinian-muhammad-jamal-al-namnam-a-senior-member-of-the-al-qaeda-affiliated.md)
-_Context: Time, Army of Islam, Egypt, Israel, Muhammad Jamal al-Namnam, Gaza, al-Qaeda_
+_Context: Israel, al-Qaeda, Egypt, Time, Gaza, Muhammad Jamal al-Namnam, Army of Islam_
 
-##### film producer
+##### Film producer
 ### [Italian film producer Dino De Laurentiis ("Serpico", "Death Wish") dies in Los Angeles, California ending a movie career that spanned seven decades in both the United States and Italy. ](/news/2010/11/10/italian-film-producer-dino-de-laurentiis-serpico-death-wish-dies-in-los-angeles-california-ending-a-movie-career-that-spanned-seven.md)
-_Context: United States, film producer, Los Angeles, California, Dino De Laurentiis, Death Wish, Serpico, California, Italy_
+_Context: Serpico, Los Angeles, California, film producer, Dino De Laurentiis, Death Wish, Italy, United States, California_
 
 ##### 3D Express Coach
 ### [3D Express Coach to be put into trial in Beijing. ](/news/2010/11/10/3d-express-coach-to-be-put-into-trial-in-beijing.md)
-_Context: Beijing, 3D Express Coach_
+_Context: 3D Express Coach, Beijing_
 
 ##### United States
 ### [US singer Brad Paisley wins Entertainer of the Year at the 2010 CMA Awards held in Nashville, Tennessee. ](/news/2010/11/10/us-singer-brad-paisley-wins-entertainer-of-the-year-at-the-2010-cma-awards-held-in-nashville-tennessee.md)
-_Context: Nashville, Tennessee, Brad Paisley, Tennessee, United States_
+_Context: United States, Tennessee, Brad Paisley, Nashville, Tennessee_
 
 ##### Singapore Airlines
 ### [Singapore Airlines grounds three of its Airbus A380 fleet to replace their Rolls-Royce engines. ](/news/2010/11/10/singapore-airlines-grounds-three-of-its-airbus-a380-fleet-to-replace-their-rolls-royce-engines.md)
-_Context: Singapore Airlines, Rolls-Royce, A380_
+_Context: A380, Rolls-Royce, Singapore Airlines_
 
 ##### Ilobasco
 ### [At least 16 people are killed and dozens are injured in a fire at a juvenile jail in the town of Ilobasco in El Salvador. ](/news/2010/11/10/at-least-16-people-are-killed-and-dozens-are-injured-in-a-fire-at-a-juvenile-jail-in-the-town-of-ilobasco-in-el-salvador.md)
-_Context: Ilobasco, El Salvador_
+_Context: El Salvador, Ilobasco_
 
 ##### Qantas
 ### [Qantas and Cathay Pacific cancel flights out of Jakarta's Soekarno-Hatta International Airport due to the eruptions of Mount Merapi in Indonesia. ](/news/2010/11/10/qantas-and-cathay-pacific-cancel-flights-out-of-jakarta-s-soekarnoahatta-international-airport-due-to-the-eruptions-of-mount-merapi-in-ind.md)
-_Context: Jakarta, Indonesia, Cathay Pacific, eruptions, Soekarno-Hatta International Airport, Qantas_
+_Context: Jakarta, eruptions, Cathay Pacific, Qantas, Indonesia, Soekarno-Hatta International Airport_
 
-##### cholera
+##### Cholera
 ### [Doctors set up cholera clinics in Port-au-Prince as the 2010 Haiti cholera outbreak reaches the capital. ](/news/2010/11/10/doctors-set-up-cholera-clinics-in-port-au-prince-as-the-2010-haiti-cholera-outbreak-reaches-the-capital.md)
 Fears are growing in Haiti over the spread of cholera, as the death toll rises to 644 across the poverty-stricken nation.
 
@@ -57,7 +57,7 @@ President Barack Obama held up his boyhood home of Indonesia as an example to th
 
 ##### Jordanian King
 ### [Jordanian King Abdullah II meets with Xu Caihou, vice chairman of China's Central Military Commission, in Amman, Jordan. ](/news/2010/11/10/jordanian-king-abdullah-ii-meets-with-xu-caihou-vice-chairman-of-china-s-central-military-commission-in-amman-jordan.md)
-_Context: Jordanian King, Amman, Jordan, Xu Caihou, China's Central Military Commission, Abdullah II_
+_Context: China's Central Military Commission, Xu Caihou, Jordanian King, Amman, Jordan, Abdullah II_
 
 ##### Australia
 ### [American Gabe Watson leaves detention in Australia after serving time for the death of Tina Watson after she drowned in 2007 after he failed to rescue her. He will be extradited to Alabama to face murder charges upon suspicion of murder. ](/news/2010/11/10/american-gabe-watson-leaves-detention-in-australia-after-serving-time-for-the-death-of-tina-watson-after-she-drowned-in-2007-after-he-failed.md)
@@ -67,7 +67,7 @@ HONEYMOON killer Gabe Watson will fly out of Brisbane today hours after being re
 ### [A Chinese activist Zhao Lianhai who campaigned for victims of the tainted milk scandal in 2008 is jailed for two and half years for "inciting social disorder". ](/news/2010/11/10/a-chinese-activist-zhao-lianhai-who-campaigned-for-victims-of-the-tainted-milk-scandal-in-2008-is-jailed-for-two-and-half-years-for-incitin.md)
 A Chinese man who campaigned for compensation for victims of a 2008 contaminated baby milk scandal is jailed for &quot;inciting disorder&quot;.
 
-##### university student
+##### University student
 ### [Tens of thousands of university students and lecturers march in a National Union of Students protest in London against plans by the United Kingdom government to raise tuition fees to GBP9,000 per year in England. Violence occurs later with the building hosting the Conservative Party's campaign headquarters trashed by riots in the day ](/news/2010/11/10/tens-of-thousands-of-university-students-and-lecturers-march-in-a-national-union-of-students-protest-in-london-against-plans-by-the-united-k.md)
 Thousands of students and lecturers are arriving in London for a rally against plans to almost treble tuition fees in England.
 
@@ -77,7 +77,7 @@ _Context: Ashok Chavan, Prithviraj Chavan, India, Chief Minister of Maharashtra_
 
 ##### Ivory Coast
 ### [The Ivory Coast defers the second round of voting for the Ivory presidential election to November 28. ](/news/2010/11/10/the-ivory-coast-defers-the-second-round-of-voting-for-the-ivory-presidential-election-to-november-28.md)
-_Context: Ivory Coast, 2010 presidential election_
+_Context: 2010 presidential election, Ivory Coast_
 
 ## [Previous Day...](/news/2010/11/9/index.md)
 

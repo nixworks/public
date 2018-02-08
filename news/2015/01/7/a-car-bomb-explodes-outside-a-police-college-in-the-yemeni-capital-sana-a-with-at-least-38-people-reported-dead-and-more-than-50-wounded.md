@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/7/a-car-bomb-explodes-outside-a-police-college-in-
 
 ### [2015-01-7](/news/2015/01/7/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. 
 
 At least 38 killed and dozen others injured in massive bomb blast near police academy in capital Sanaa.

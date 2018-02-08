@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/18/snowfall-across-the-east-of-england-disrupts-tr
 
 ### [2009-12-18](/news/2009/12/18/index.md)
 
-##### weather-related
+##### Weather-related
 #  Snowfall across the east of England disrupts transport and power supplies. 
 
 

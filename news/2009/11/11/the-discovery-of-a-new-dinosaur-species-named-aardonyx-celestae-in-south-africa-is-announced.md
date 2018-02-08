@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/11/the-discovery-of-a-new-dinosaur-species-named-a
 
 ### [2009-11-11](/news/2009/11/11/index.md)
 
-##### dinosaur
+##### Dinosaur
 #  The discovery of a new dinosaur species, named "Aardonyx celestae", in South Africa is announced. 
 
 

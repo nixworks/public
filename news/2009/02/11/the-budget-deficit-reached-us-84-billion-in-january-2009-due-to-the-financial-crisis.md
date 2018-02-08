@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/11/the-budget-deficit-reached-us-84-billion-in-jan
 
 ### [2009-02-11](/news/2009/02/11/index.md)
 
-##### deficit
+##### Deficit
 #  The budget deficit reached US$84 billion in January 2009, due to the financial crisis. 
 
 U.S. congressional negotiators on Wednesday reached a deal on $789 billion in emergency spending and tax cuts, handing a big victory to President Barack Obama in his effort to pull the economy out of a steep tailspin.

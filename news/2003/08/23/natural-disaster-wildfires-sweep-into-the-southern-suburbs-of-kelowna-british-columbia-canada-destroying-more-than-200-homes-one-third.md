@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/23/natural-disaster-wildfires-sweep-into-the-south
 
 ### [2003-08-23](/news/2003/08/23/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: Wildfires sweep into the southern suburbs of Kelowna, British Columbia, Canada, destroying more than 200 homes. One-third of the city's population, or 30,000 people, have been evacuated.
 
 

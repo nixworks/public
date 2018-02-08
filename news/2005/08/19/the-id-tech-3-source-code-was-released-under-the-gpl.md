@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/19/the-id-tech-3-source-code-was-released-under-th
 
 ### [2005-08-19](/news/2005/08/19/index.md)
 
-##### id Tech 3
+##### Id Tech 3
 #  The id Tech 3 source code was released under the GPL.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/14/the-federal-marriage-amendment-a-bid-by-members
 
 ### [2004-07-14](/news/2004/07/14/index.md)
 
-##### constitutional amendment to ban
+##### Constitutional amendment to ban
 #  The Federal Marriage Amendment, a bid by members of the United States Republican Party to amend the United States Constitution to ban same-sex marriage in the United States, fails in the Senate by a larger-than-expected margin. 
 
 

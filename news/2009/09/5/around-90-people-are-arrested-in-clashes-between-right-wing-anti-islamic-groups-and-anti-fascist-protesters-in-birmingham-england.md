@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/5/around-90-people-are-arrested-in-clashes-between
 
 ### [2009-09-5](/news/2009/09/5/index.md)
 
-##### right-wing
+##### Right-wing
 #  Around 90 people are arrested in clashes between right wing anti-Islamic groups and anti-Fascist protesters in Birmingham, England. 
 
 Hundreds of people clashed in Birmingham city centre yesterday as right-wing protesters fought with anti-fascist campaigners in a busy shopping street. A demo by the English Defence League ended in violence.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/21/2011a2012-spanish-protests-thousands-of-people-
 
 ### [2011-05-21](/news/2011/05/21/index.md)
 
-##### clash
+##### Clash
 # 2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/22/an-ancient-human-fossil-in-china-is-found-to-be
 
 ### [2013-01-22](/news/2013/01/22/index.md)
 
-##### ancient human
+##### Ancient human
 # An ancient human fossil in China is found to be closely related to both Asian and Native American peoples. 
 
 Researchers have been able to trace a line between some of the earliest modern humans to settled China and people living in the region today.

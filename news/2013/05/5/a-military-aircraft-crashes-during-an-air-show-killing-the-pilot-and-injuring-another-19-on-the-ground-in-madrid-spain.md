@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-k
 
 ### [2013-05-5](/news/2013/05/5/index.md)
 
-##### air show
+##### Air show
 # A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. 
 
 

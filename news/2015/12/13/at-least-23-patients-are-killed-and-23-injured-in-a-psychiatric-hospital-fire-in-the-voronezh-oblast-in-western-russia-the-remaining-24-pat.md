@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/13/at-least-23-patients-are-killed-and-23-injured-
 
 ### [2015-12-13](/news/2015/12/13/index.md)
 
-##### psychiatric hospital
+##### Psychiatric hospital
 # At least 23 patients are killed and 23 injured in a psychiatric hospital fire in the Voronezh Oblast in western Russia. The remaining 24 patients were safely evacuated. 
 
 A fire at a psychiatric hospital in southern Russia kills 23 patients, most of them elderly.

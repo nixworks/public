@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempte
 
 ### [2010-07-15](/news/2010/07/15/index.md)
 
-##### decree
+##### Decree
 # The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. 
 
 

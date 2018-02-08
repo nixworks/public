@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/7/2008-thai-political-crisis-the-anti-government-p
 
 ### [2008-10-7](/news/2008/10/7/index.md)
 
-##### assemble
+##### Assemble
 #  2008 Thai political crisis: The anti-government protester group were injured as police attacked barricades outside Thailand's parliament in Bangkok injuring over 400 people, 2 found dead. 
 
 Thai riot police clashed with protesters in the capital on Tuesday, injuring 69 people, as campaigners intensified their four-month bid to unseat the government.

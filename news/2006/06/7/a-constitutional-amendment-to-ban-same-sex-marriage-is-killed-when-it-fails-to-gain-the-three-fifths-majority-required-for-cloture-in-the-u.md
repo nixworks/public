@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/7/a-constitutional-amendment-to-ban-same-sex-marri
 
 ### [2006-06-7](/news/2006/06/7/index.md)
 
-##### constitutional amendment
+##### Constitutional amendment
 #  A constitutional amendment to ban same-sex marriage is killed when it fails to gain the three-fifths majority required for cloture in the United States Senate. 49 Senators voted for the motion, and 48 voted against. This also fell far short of the two-thirds majority that would have been required for passage. 
 
 

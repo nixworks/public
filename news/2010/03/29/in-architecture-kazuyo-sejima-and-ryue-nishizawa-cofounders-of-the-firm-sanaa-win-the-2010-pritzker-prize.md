@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/29/in-architecture-kazuyo-sejima-and-ryue-nishizaw
 
 ### [2010-03-29](/news/2010/03/29/index.md)
 
-##### architecture
+##### Architecture
 # In architecture, Kazuyo Sejima and Ryue Nishizawa, cofounders of the firm SANAA, win the 2010 Pritzker Prize. 
 
 

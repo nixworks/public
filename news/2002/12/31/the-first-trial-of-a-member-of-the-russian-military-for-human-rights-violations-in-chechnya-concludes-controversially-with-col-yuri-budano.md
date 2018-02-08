@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/12/31/the-first-trial-of-a-member-of-the-russian-mili
 
 ### [2002-12-31](/news/2002/12/31/index.md)
 
-##### human rights
+##### Human rights
 # The first trial of a member of the Russian military for human rights violations in Chechnya concludes controversially, with Col. Yuri Budanov found not guilty by reason of insanity and committed to a psychiatric hospital for further evaluation and treatment. Budanov was charged with murder and abduction after being accused of raping and strangling Heda Kungayeva, an 18-year-old Chechen girl whom Budanov contends was a rebel sniper.
 
 

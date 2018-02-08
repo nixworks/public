@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/26/the-equine-influenza-outbreak-spreads-in-austra
 
 ### [2007-08-26](/news/2007/08/26/index.md)
 
-##### equine influenza
+##### Equine influenza
 #  The equine influenza outbreak spreads in Australia threatening the Spring Carnival including the Melbourne Cup. 
 
 

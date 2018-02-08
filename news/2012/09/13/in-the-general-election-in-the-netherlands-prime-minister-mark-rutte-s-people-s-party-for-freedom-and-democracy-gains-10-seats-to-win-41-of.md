@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/13/in-the-general-election-in-the-netherlands-prim
 
 ### [2012-09-13](/news/2012/09/13/index.md)
 
-##### general election in the Netherlands
+##### General election in the Netherlands
 # In the general election in the Netherlands, Prime Minister Mark Rutte's People's Party for Freedom and Democracy gains 10 seats to win 41 of the 150 in the House of Representatives and Diederik Samsom's Labour Party, gains 8. 
 
 Dutch voters back pro-European centrist parties and inflict heavy losses on a far-right Eurosceptic group.

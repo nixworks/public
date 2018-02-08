@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/14/an-18th-century-wood-hulled-ship-is-discovered-
 
 ### [2010-07-14](/news/2010/07/14/index.md)
 
-##### wood-hulled
+##### Wood-hulled
 # An 18th-Century wood-hulled ship is discovered at the World Trade Center site in Lower Manhattan, New York City. 
 
 

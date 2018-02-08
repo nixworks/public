@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/18/at-least-16-secondary-school-students-die-in-eg
 
 ### [2007-04-18](/news/2007/04/18/index.md)
 
-##### secondary school
+##### Secondary school
 #  At least 16 secondary school students die in Egypt's Al Jizah governorate as the truck they were traveling to school on collides with another vehicle. 
 
 

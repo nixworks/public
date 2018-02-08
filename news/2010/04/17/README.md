@@ -7,7 +7,7 @@ Formats: [HTML](2010/04/17/index.html)  [JSON](2010/04/17/index.json)  [XML](201
 ### [The "Nuclear Energy for All, Nuclear Weapons for No One" disarmament conference opens in response to President of the United States Barack Obama's conference in Washington, D.C. ](/news/2010/04/17/the-nuclear-energy-for-all-nuclear-weapons-for-no-one-disarmament-conference-opens-in-response-to-president-of-the-united-states-barack-o.md)
 Tehran summit said to focus on availability of nuclear energy for all nations.
 
-##### volcanic ash problems
+##### Volcanic ash problems
 ### [The volcanic ash cloud above Europe causes a third day of disruption to air travel, leaving millions of passengers stranded unable to reach their destinations. Officials warn that airspace could remain shut for several more days. ](/news/2010/04/17/the-volcanic-ash-cloud-above-europe-causes-a-third-day-of-disruption-to-air-travel-leaving-millions-of-passengers-stranded-unable-to-reach.md)
 The IAA has extended the closure of Irish airspace until 1pm on Sunday because of the dangers to air travel posed by the cloud of volcanic ash.
 
@@ -15,7 +15,7 @@ The IAA has extended the closure of Irish airspace until 1pm on Sunday because o
 ### [Former Vatican Cardinal Dario Castrillon Hoyos says his 2001 praise of a French bishop for hiding a paedophile priest was endorsed by Pope John Paul II. ](/news/2010/04/17/former-vatican-cardinal-darao-castrilla3n-hoyos-says-his-2001-praise-of-a-french-bishop-for-hiding-a-paedophile-priest-was-endorsed-by-pope.md)
 A cardinal who congratulated a French bishop for hiding a sexually abusive priest has said he acted with the approval of the late Pope John Paul.
 
-##### twin bomb attacks
+##### Twin bomb attacks
 ### [Twin bombings on a centre for the displaced in the town of Kohat, Pakistan, kill at least 42 people and injues dozens of others. ](/news/2010/04/17/twin-bombings-on-a-centre-for-the-displaced-in-the-town-of-kohat-pakistan-kill-at-least-42-people-and-injues-dozens-of-others.md)
 At least 41 people were killed and 64 wounded in an attack on a camp filled with people fleeing a government offensive in another area of northwest Pakistan.
 
@@ -25,7 +25,7 @@ At least eight people were injured by a bomb blast in Bangalore shortly before t
 
 ##### Lech Kaczynski
 ### [Over 100,000 mourners attend a memorial service to honour the death of the Polish president Lech Kaczynski, and 95 others who were killed in a plane crash the previous week. ](/news/2010/04/17/over-100-000-mourners-attend-a-memorial-service-to-honour-the-death-of-the-polish-president-lech-kaczyaski-and-95-others-who-were-killed-i.md)
-_Context: Lech Kaczynski, 2010 Polish Air Force Tu-154 crash_
+_Context: 2010 Polish Air Force Tu-154 crash, Lech Kaczynski_
 
 ##### Tokyo
 ### [Snowfall in central Tokyo matches a record set in April 1967. ](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.md)
@@ -43,7 +43,7 @@ An earthquake that shook Adelaide rattled enough residents to flood emergency ph
 
 ##### Weyhill
 ### [An investigation is launched after a plane crashes into a field and bursts into flames in Weyhill, Andover, Hampshire, United Kingdom, killing at least two people. ](/news/2010/04/17/an-investigation-is-launched-after-a-plane-crashes-into-a-field-and-bursts-into-flames-in-weyhill-andover-hampshire-united-kingdom-killi.md)
-_Context: Weyhill, Andover, Hampshire, United Kingdom_
+_Context: United Kingdom, Andover, Hampshire, Weyhill_
 
 ##### Toyota
 ### [Toyota is to recall 600,000 Sienna minivans in the US over fears of corrosion. "In the worst case, the carrier cable may fail and the spare tyre could become separated from the vehicle" a statement from the company read. ](/news/2010/04/17/toyota-is-to-recall-600-000-sienna-minivans-in-the-us-over-fears-of-corrosion-in-the-worst-case-the-carrier-cable-may-fail-and-the-spare.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/30/april-2015-nepal-earthquake-a-teenager-is-pulle
 
 ### [2015-04-30](/news/2015/04/30/index.md)
 
-##### suspicions
+##### Suspicions
 # April 2015 Nepal earthquake: A teenager is pulled alive out of the wreckage of a guesthouse on the outskirts of Kathmandu after five days. 
 
 Rescuers on Thursday pulled a teenage boy out alive from under the wreckage of a guesthouse in Nepal five days after it collapsed in a massive weekend earthquake.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/22/ten-rhinoceros-horns-seized-in-recent-weeks-at-
 
 ### [2010-01-22](/news/2010/01/22/index.md)
 
-##### rhinoceros
+##### Rhinoceros
 # Ten rhinoceros horns seized in recent weeks at Shannon Airport in Ireland are said to be "rare" and "of international significance". 
 
 Ten rhino horns, with an estimated value of €500,000, have been seized by Customs officials at Shannon Airport.

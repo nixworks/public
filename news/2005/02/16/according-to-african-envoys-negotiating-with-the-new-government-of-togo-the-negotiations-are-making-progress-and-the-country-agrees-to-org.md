@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/16/according-to-african-envoys-negotiating-with-th
 
 ### [2005-02-16](/news/2005/02/16/index.md)
 
-##### diplomat
+##### Diplomat
 #  According to African envoys negotiating with the new government of Togo, the negotiations are making progress and the country agrees to organize new elections within 60 days. A crackdown on private media continues in the country. 
 
 

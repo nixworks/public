@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/25/10-people-are-injured-in-a-grenade-attack-in-so
 
 ### [2012-01-25](/news/2012/01/25/index.md)
 
-##### grenade
+##### Grenade
 # 10 people are injured in a grenade attack in southern Rwanda. 
 
 

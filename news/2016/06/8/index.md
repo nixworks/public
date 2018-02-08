@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/8/index.html)  [JSON](2016/06/8/index.json)  [XML](2016/
 
 ##### War in Afghanistan (2015-present)
 ### [The Taliban kills 12 members of Afghanistan's security forces who were captured in recent ambushes in the Ghazni Province on June 3 and 5. ](/news/2016/06/8/the-taliban-kills-12-members-of-afghanistan-s-security-forces-who-were-captured-in-recent-ambushes-in-the-ghazni-province-on-june-3-and-5.md)
-_Context: Taliban, Ghazni Province, Afghanistan, War in Afghanistan (2015-present)_
+_Context: War in Afghanistan (2015-present), Afghanistan, Taliban, Ghazni Province_
 
 ##### Israeli-Palestinian conflict (2015-present)
 ### [Two Palestinian gunmen open fire in the Israeli city of Tel Aviv killing at least four people and injuring at least 18 others. The two gunmen are arrested. ](/news/2016/06/8/two-palestinian-gunmen-open-fire-in-the-israeli-city-of-tel-aviv-killing-at-least-four-people-and-injuring-at-least-18-others-the-two-gunme.md)
@@ -15,7 +15,7 @@ JERUSALEM (AP) — Two Palestinians opened fire near a popular open-air market i
 ### [Airstrikes in rebel-held districts of Aleppo kill at least 15 people and wound dozens while three hospitals are hit including one of the few that still provides pediatric services. UNICEF says medics had to take babies out of incubators. It is unclear who was responsible, though government forces, backed by the Russian Air Force, have run operations to regain control of the divided city. ](/news/2016/06/8/airstrikes-in-rebel-held-districts-of-aleppo-kill-at-least-15-people-and-wound-dozens-while-three-hospitals-are-hit-including-one-of-the-few.md)
 At least 15 people are killed in air strikes on rebel-held areas in the Syrian city of Aleppo, seriously damaging medical facilities, the UN says.
 
-##### road collapse
+##### Road collapse
 ### [A road collapse at a major intersection near the Canadian Parliament in Ottawa, Ontario, forces evacuation of a mall, a hotel, the Shaw Convention Centre, and a book store because of the smell of gas. Power and water are now shut off. ](/news/2016/06/8/a-road-collapse-at-a-major-intersection-near-the-canadian-parliament-in-ottawa-ontario-forces-evacuation-of-a-mall-a-hotel-the-shaw-conv.md)
 A giant sinkhole opened up next to a major shopping mall in downtown Ottawa on Wednesday, causing a gas leak, collapsing a street and forcing the evacuation of all nearby businesses.
 
@@ -33,11 +33,11 @@ An Eritrean man thought to be at the heart of the operation to smuggle migrants 
 
 ##### Governor
 ### [Governor John Kasich signs a bill legalizing medical marijuana, making Ohio the 25th state in America to approve its use. ](/news/2016/06/8/governor-john-kasich-signs-a-bill-legalizing-medical-marijuana-making-ohio-the-25th-state-in-america-to-approve-its-use.md)
-_Context: United States, John Kasich, medical marijuana, Governor, Ohio_
+_Context: John Kasich, Ohio, medical marijuana, United States, Governor_
 
 ##### International Union of Pure and Applied Chemistry
 ### [The International Union of Pure and Applied Chemistry proposes final names for four new chemical elements: nihonium (atomic number 113), moscovium (#115), tennessine (#117), and oganesson (#118). ](/news/2016/06/8/the-international-union-of-pure-and-applied-chemistry-proposes-final-names-for-four-new-chemical-elements-nihonium-atomic-number-113-mos.md)
-_Context: tennessine, moscovium, new chemical elements, International Union of Pure and Applied Chemistry, oganesson, nihonium, final names, atomic number_
+_Context: tennessine, new chemical elements, International Union of Pure and Applied Chemistry, oganesson, nihonium, moscovium, final names, atomic number_
 
 ## [Previous Day...](/news/2016/06/7/index.md)
 

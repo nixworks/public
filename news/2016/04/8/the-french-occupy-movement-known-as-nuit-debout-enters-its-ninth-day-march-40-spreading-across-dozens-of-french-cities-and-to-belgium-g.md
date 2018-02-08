@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/8/the-french-occupy-movement-known-as-nuit-debout-
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
-##### occupy movement
+##### Occupy movement
 # The French occupy movement known as Nuit debout enters its ninth day, "March 40," spreading across dozens of French cities and to Belgium, Germany, and Spain. 
 
 For more than a week, vast nocturnal gatherings have spread across France in a citizen-led movement that has rattled the government

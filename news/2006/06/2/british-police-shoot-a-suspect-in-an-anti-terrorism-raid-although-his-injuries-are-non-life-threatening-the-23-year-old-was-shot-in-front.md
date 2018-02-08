@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/2/british-police-shoot-a-suspect-in-an-anti-terror
 
 ### [2006-06-2](/news/2006/06/2/index.md)
 
-##### anti-terrorism
+##### Anti-terrorism
 #  British police shoot a suspect in an anti-terrorism raid, although his injuries are non-life threatening. The 23-year-old was shot in front of his family as 250 police raided his home in Forest Gate, London. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

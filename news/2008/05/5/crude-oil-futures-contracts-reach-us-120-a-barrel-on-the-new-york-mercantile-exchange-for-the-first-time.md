@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/5/crude-oil-futures-contracts-reach-us-120-a-barre
 
 ### [2008-05-5](/news/2008/05/5/index.md)
 
-##### crude oil
+##### Crude oil
 #  Crude oil futures contracts reach US$120 a barrel on the New York Mercantile Exchange for the first time. 
 
 U.S. crude oil futures rosemore than $3 a barrel to a record over $120 on Monday asweakness in the dollar and renewed tensions with Iran spurredbuying.

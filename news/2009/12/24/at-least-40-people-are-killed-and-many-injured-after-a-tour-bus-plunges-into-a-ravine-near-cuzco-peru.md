@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/24/at-least-40-people-are-killed-and-many-injured-
 
 ### [2009-12-24](/news/2009/12/24/index.md)
 
-##### ravine
+##### Ravine
 #  At least 40 people are killed and many injured after a tour bus plunges into a ravine near Cuzco, Peru. 
 
 A bus careened into a ravine in Peru Thursday, leaving at least 40 people dead and eight others injured, authorities said.

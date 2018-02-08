@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/14/more-than-60-people-are-hospitalised-after-a-su
 
 ### [2010-07-14](/news/2010/07/14/index.md)
 
-##### chlorine
+##### Chlorine
 # More than 60 people are hospitalised after a suspected chlorine gas leak in Mumbai. 
 
 More than 60 people are taken to hospital after a suspected chlorine gas leak in Mumbai.

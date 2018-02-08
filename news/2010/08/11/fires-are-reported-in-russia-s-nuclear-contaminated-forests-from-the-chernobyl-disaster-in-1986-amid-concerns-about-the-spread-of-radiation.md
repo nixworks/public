@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/11/fires-are-reported-in-russia-s-nuclear-contamin
 
 ### [2010-08-11](/news/2010/08/11/index.md)
 
-##### the recent wildfires
+##### The recent wildfires
 # Fires are reported in Russia's nuclear-contaminated forests from the Chernobyl disaster in 1986, amid concerns about the spread of radiation. 
 
 

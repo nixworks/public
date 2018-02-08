@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/17/authorities-charge-a-former-police-officer-with
 
 ### [2015-08-17](/news/2015/08/17/index.md)
 
-##### second degree murder
+##### Second degree murder
 # Authorities charge a former police officer with second degree murder, in connection with the on-duty shooting death of John Geer in Fairfax, Virginia, U.S., in August 2013. 
 
 The former Fairfax County Police officer who shot and killed Springfield, Virginia, resident John Geer in the doorway of his home was indicted on a second-degree murder charge, police announced Monday,...

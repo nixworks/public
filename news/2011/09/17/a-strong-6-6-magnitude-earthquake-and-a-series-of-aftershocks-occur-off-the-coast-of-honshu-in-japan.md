@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-
 
 ### [2011-09-17](/news/2011/09/17/index.md)
 
-##### earthquake
+##### Earthquake
 # A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. 
 
 

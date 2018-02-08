@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/5/preliminary-results-are-released-from-the-russia
 
 ### [2011-12-5](/news/2011/12/5/index.md)
 
-##### parliamentary elections
+##### Parliamentary elections
 # Preliminary results are released from the Russian legislative election showing the ruling United Russia winning 50 percent of the vote, well down on its 2008 vote. 
 
 

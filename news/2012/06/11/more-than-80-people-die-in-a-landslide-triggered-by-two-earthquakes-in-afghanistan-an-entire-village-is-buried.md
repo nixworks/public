@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/11/more-than-80-people-die-in-a-landslide-triggere
 
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-##### two earthquakes
+##### Two earthquakes
 # More than 80 people die in a landslide triggered by two earthquakes in Afghanistan; an entire village is buried. 
 
 More than 80 people are believed to have been killed in a landslide triggered by two quakes in northern Afghanistan on Monday, officials say.

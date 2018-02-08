@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/21/the-death-toll-of-a-series-of-co-ordinated-bomb
 
 ### [2012-01-21](/news/2012/01/21/index.md)
 
-##### a series of co-ordinated bombing attacks
+##### A series of co-ordinated bombing attacks
 # The death toll of a series of co-ordinated bombing attacks in Kano, Nigeria, rises to more than 140. The attacks, which targeted police stations across the city, are attributed to Islamist group Boko Haram. 
 
 

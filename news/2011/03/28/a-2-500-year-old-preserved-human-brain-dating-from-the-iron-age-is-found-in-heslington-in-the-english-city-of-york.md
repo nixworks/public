@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/28/a-2-500-year-old-preserved-human-brain-dating-f
 
 ### [2011-03-28](/news/2011/03/28/index.md)
 
-##### brain
+##### Brain
 # A 2,500-year-old preserved human brain dating from the Iron Age is found in Heslington in the English city of York. 
 
 A 2,500-year-old human skull uncovered in England was less of a surprise than what was in it: the brain. The discovery of the yellowish, crinkly, shrunken brain prompted questions about how such a fragile organ could have survived so long and how frequently this strange type of preservation occurs.

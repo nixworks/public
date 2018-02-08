@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/13/artillery-shelling-kills-50-people-and-injures-
 
 ### [2009-05-13](/news/2009/05/13/index.md)
 
-##### ordnance
+##### Ordnance
 #  Artillery shelling kills 50 people and injures 40 more at a hospital in Sri Lanka's war zone. 
 
 

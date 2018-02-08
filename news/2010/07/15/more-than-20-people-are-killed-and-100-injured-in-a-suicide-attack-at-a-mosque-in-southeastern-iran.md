@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/15/more-than-20-people-are-killed-and-100-injured-
 
 ### [2010-07-15](/news/2010/07/15/index.md)
 
-##### recent bombings
+##### Recent bombings
 # More than 20 people are killed and 100 injured in a suicide attack at a mosque in southeastern Iran. 
 
 At least 27 people are killed and 160 injured after suspected Sunni suicide bombers attack a Shia mosque in Iran, officials say.

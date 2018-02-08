@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/2/the-army-in-mauritania-destroy-a-car-packed-with
 
 ### [2011-02-2](/news/2011/02/2/index.md)
 
-##### army
+##### Army
 # The army in Mauritania destroy a car packed with explosives outside the capital Nouakchott, killing three people suspected of being members of Al Qaeda in the Islamic Maghreb. 
 
 Mauritanian soldiers fire on a car packed with explosives, killing three suspected al-Qaeda members about to enter the capital, the army says.

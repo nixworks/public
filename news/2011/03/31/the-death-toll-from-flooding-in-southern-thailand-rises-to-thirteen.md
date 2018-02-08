@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/31/the-death-toll-from-flooding-in-southern-thaila
 
 ### [2011-03-31](/news/2011/03/31/index.md)
 
-##### flood
+##### Flood
 # The death toll from flooding in Southern Thailand rises to thirteen. 
 
 

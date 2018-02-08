@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/4/an-israel-defense-force-investigation-concludes-
 
 ### [2009-02-4](/news/2009/02/4/index.md)
 
-##### an officer
+##### An officer
 #  An Israel Defense Force investigation concludes that the attack on Izzeldin Abuelaish was reasonable. 
 
 

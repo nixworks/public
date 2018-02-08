@@ -3,7 +3,7 @@ Formats: [HTML](2013/10/8/index.html)  [JSON](2013/10/8/index.json)  [XML](2013/
 
 ## [2013-10-8](/news/2013/10/8/index.md)
 
-##### money market fund
+##### Money market fund
 ### [Reuters reports that major money market fund managers are avoiding U.S. Treasury debt due to mature in the next few months, as the debt ceiling nears and Governmental deadlock deepens. ](/news/2013/10/8/reuters-reports-that-major-money-market-fund-managers-are-avoiding-u-s-treasury-debt-due-to-mature-in-the-next-few-months-as-the-debt-ceil.md)
 The $2.66 trillion money market industry is preparing for the worst as lawmakers in Washington battle over the U.S. debt ceiling.
 
@@ -29,7 +29,7 @@ _Context: Denver_
 
 ##### Savannah, Tennessee
 ### [Four people living at the same address in Savannah, Tennessee (3 men and 1 woman), believed to be involved in an area child pornography investigation and who had earlier fled a September 2013 FBI investigation (where computers and cameras were seized) are found dead of gunshot wounds (they may have been drugged) in a murder-suicide on a road in Double Springs, Winston County, Alabama. ](/news/2013/10/8/four-people-living-at-the-same-address-in-savannah-tennessee-3-men-and-1-woman-believed-to-be-involved-in-an-area-child-pornography-inve.md)
-_Context: Savannah, Tennessee, Winston County, Alabama, child pornography_
+_Context: Winston County, Alabama, Savannah, Tennessee, child pornography_
 
 ##### Royal Charter
 ### [Proposals for a Royal Charter on self-regulation of the British press put forward by the press industry itself are rejected by the Privy Council. ](/news/2013/10/8/proposals-for-a-royal-charter-on-self-regulation-of-the-british-press-put-forward-by-the-press-industry-itself-are-rejected-by-the-privy-cou.md)

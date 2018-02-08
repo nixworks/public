@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/28/authorities-monitor-a-volcano-on-the-island-of-
 
 ### [2007-02-28](/news/2007/02/28/index.md)
 
-##### volcano
+##### Volcano
 #  Authorities monitor a volcano on the island of Stromboli off the north coast of Sicily as lava pours down its slope for a second successive day. 
 
 

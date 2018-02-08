@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/27/in-a-plea-bargain-with-u-s-federal-prosecutors-
 
 ### [2015-10-27](/news/2015/10/27/index.md)
 
-##### plea bargain
+##### Plea bargain
 # In a plea bargain with U.S. federal prosecutors, Rohit Bansal, a former Goldman Sachs banker accused of using private information leaked by source inside the Federal Reserve Bank of New York, has agreed to plead guilty. The leaked information was said to have given Goldman an undue advantage regarding client advisement. Goldman also faces fines from the New York State's Department of Financial Services. 
 
 A former Goldman Sachs banker admitted his guilt in taking confidential documents from an employee at the Federal Reserve Bank of New York, who also agreed to plead guilty.

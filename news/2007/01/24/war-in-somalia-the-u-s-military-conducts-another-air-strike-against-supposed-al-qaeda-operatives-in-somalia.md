@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/24/war-in-somalia-the-u-s-military-conducts-anothe
 
 ### [2007-01-24](/news/2007/01/24/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: The U.S. military conducts another air strike against supposed al-Qaeda operatives in Somalia. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

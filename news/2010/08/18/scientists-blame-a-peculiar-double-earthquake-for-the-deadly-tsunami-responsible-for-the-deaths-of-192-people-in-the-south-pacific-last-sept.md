@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/18/scientists-blame-a-peculiar-double-earthquake-f
 
 ### [2010-08-18](/news/2010/08/18/index.md)
 
-##### the deadly tsunami
+##### The deadly tsunami
 # Scientists blame a peculiar double earthquake for the deadly tsunami responsible for the deaths of 192 people in the South Pacific last September, and described as "unlike anything seismologists have seen before". 
 
 A strange double earthquake triggered the Tonga tsunami that killed 192 people in September 2009, scientists say.

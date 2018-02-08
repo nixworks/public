@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/10/a-mass-poisoning-at-a-funeral-in-mozambique-inv
 
 ### [2015-01-10](/news/2015/01/10/index.md)
 
-##### contaminated beer
+##### Contaminated beer
 # A mass poisoning at a funeral in Mozambique involves beer that was deliberately contaminated with crocodile bile leaving at least 56 dead and 146 hospitailized. 
 
 

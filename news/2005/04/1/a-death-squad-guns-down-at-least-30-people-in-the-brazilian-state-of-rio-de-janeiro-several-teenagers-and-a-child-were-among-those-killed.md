@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/1/a-death-squad-guns-down-at-least-30-people-in-th
 
 ### [2005-04-1](/news/2005/04/1/index.md)
 
-##### death squad
+##### Death squad
 #  A death squad guns down at least 30 people in the Brazilian state of Rio de Janeiro. Several teenagers and a child were among those killed in the districts of Queimados and Nova Iguacu on Thursday night. Authorities blame rogue police officers for the massacre. [http:--news.bbc.co.uk-1-hi-world-americas-4401525.stm (BBC)] (Wikinews)
 
 

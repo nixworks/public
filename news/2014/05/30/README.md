@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/30/index.html)  [JSON](2014/05/30/index.json)  [XML](201
 
 ##### Islamist insurgency in Nigeria
 ### [Islamist terror group Boko Haram abduct two prominent traditional rulers from Borno State in Nigeria. ](/news/2014/05/30/islamist-terror-group-boko-haram-abduct-two-prominent-traditional-rulers-from-borno-state-in-nigeria.md)
-_Context: Borno State, Nigeria, traditional rulers, Islamist, Islamist insurgency in Nigeria, Boko Haram_
+_Context: Boko Haram, Islamist, Borno State, Islamist insurgency in Nigeria, traditional rulers, Nigeria_
 
 ##### State Department
 ### [United States State Department makes its first confirmation that a U.S. citizen has been "involved" in a suicide bombing as part of Syria's ongoing civil war. ](/news/2014/05/30/united-states-state-department-makes-its-first-confirmation-that-a-u-s-citizen-has-been-involved-in-a-suicide-bombing-as-part-of-syria-s.md)
@@ -13,13 +13,13 @@ The U.S. State Department today confirmed that an American citizen was &ldquo;in
 
 ##### Indonesia
 ### [Indonesia's Sangeang Api volcano erupts disrupting flights in Indonesia and northern Australia. ](/news/2014/05/30/indonesia-s-sangeang-api-volcano-erupts-disrupting-flights-in-indonesia-and-northern-australia.md)
-_Context: Indonesia, northern Australia, Sangeang Api_
+_Context: Sangeang Api, northern Australia, Indonesia_
 
 ##### India
 ### [At least nine people are killed and over a dozen injured when a storm hits the Indian capital New Delhi. ](/news/2014/05/30/at-least-nine-people-are-killed-and-over-a-dozen-injured-when-a-storm-hits-the-indian-capital-new-delhi.md)
 At least 23 people were killed when storms lashed New Delhi and two Indian states Saturday, disrupting road, rail and air traffic and causing power outages.
 
-##### earthquake
+##### Earthquake
 ### [An earthquake in China's Yunnan province injures at least 45 people and forces thousands to relocate. ](/news/2014/05/30/an-earthquake-in-china-s-yunnan-province-injures-at-least-45-people-and-forces-thousands-to-relocate.md)
 _Context: Yunnan province, earthquake, China_
 

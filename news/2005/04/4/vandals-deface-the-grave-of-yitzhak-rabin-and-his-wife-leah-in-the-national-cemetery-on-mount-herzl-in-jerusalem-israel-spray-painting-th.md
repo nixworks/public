@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/4/vandals-deface-the-grave-of-yitzhak-rabin-and-hi
 
 ### [2005-04-4](/news/2005/04/4/index.md)
 
-##### vandalism
+##### Vandalism
 #  Vandals deface the grave of Yitzhak Rabin and his wife Leah in the national cemetery on Mount Herzl in Jerusalem, Israel, spray painting them with slogans. 
 
 

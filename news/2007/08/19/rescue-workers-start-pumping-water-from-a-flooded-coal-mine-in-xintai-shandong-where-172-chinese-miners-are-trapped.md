@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/19/rescue-workers-start-pumping-water-from-a-flood
 
 ### [2007-08-19](/news/2007/08/19/index.md)
 
-##### flood
+##### Flood
 #  Rescue workers start pumping water from a flooded coal mine in Xintai, Shandong where 172 Chinese miners are trapped. 
 
 

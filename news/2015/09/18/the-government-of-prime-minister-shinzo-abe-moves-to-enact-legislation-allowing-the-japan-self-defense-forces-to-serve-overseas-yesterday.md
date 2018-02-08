@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/18/the-government-of-prime-minister-shinzo-abe-mov
 
 ### [2015-09-18](/news/2015/09/18/index.md)
 
-##### government
+##### Government
 # The government of Prime Minister Shinzo Abe moves to enact legislation allowing the Japan Self-Defense Forces to serve overseas. Yesterday, fist-fights erupted in the parliament over this legislation. 
 
 

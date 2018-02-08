@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/14/national-united-front-of-democracy-against-dict
 
 ### [2010-03-14](/news/2010/03/14/index.md)
 
-##### red shirt
+##### Red shirt
 # National United Front of Democracy Against Dictatorship protesters in red march through Bangkok, Thailand, demonstrating against the government. 
 
 Anti-government protesters massed around Thailand on Friday ahead of a march they hope will paralyze the capital and force Prime Minister Abhisit Vejjajiva to call new elections.

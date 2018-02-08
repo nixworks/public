@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/13/at-least-15-people-are-killed-and-dozens-injure
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least 15 people are killed and dozens injured after a bomb explodes near a polio centre near the Pakistani city of Quetta. 
 
 QUETTA: At least 15 people, among them 12 police and a paramilitary official, were killed and over a dozen others injured in a blast targeting police outside a polio vaccination centre in Quetta, Samaa reported Wednesday. According to...;

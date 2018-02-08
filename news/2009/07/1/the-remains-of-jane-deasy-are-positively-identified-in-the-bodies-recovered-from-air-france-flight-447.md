@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/1/the-remains-of-jane-deasy-are-positively-identif
 
 ### [2009-07-1](/news/2009/07/1/index.md)
 
-##### crash of Air France Flight 447
+##### Crash of Air France Flight 447
 #  The remains of Jane Deasy are positively identified in the bodies recovered from Air France Flight 447. 
 
 The remains of Jane Deasy have been positively identified among the bodies recovered after the Air France flight AF447 crash.

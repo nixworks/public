@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/22/one-person-is-dead-and-28-are-ill-from-a-carbon
 
 ### [2014-02-22](/news/2014/02/22/index.md)
 
-##### carbon monoxide
+##### Carbon monoxide
 # One person is dead and 28 are ill from a carbon monoxide leak at the Walt Whitman Shops in Huntington, New York. 
 
 

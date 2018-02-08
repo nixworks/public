@@ -3,7 +3,7 @@ Formats: [HTML](2016/12/30/index.html)  [JSON](2016/12/30/index.json)  [XML](201
 
 ## [2016-12-30](/news/2016/12/30/index.md)
 
-##### last week's attack on a Christmas market in Berlin
+##### Last week's attack on a Christmas market in Berlin
 ### [The funeral of Lukasz Urban, the driver killed in the course of last week's attack on a Christmas market in Berlin, takes place in his village of Banie near the German border. President of Poland Andrzej Duda and a German diplomat attend. ](/news/2016/12/30/the-funeral-of-aukasz-urban-the-driver-killed-in-the-course-of-last-week-s-attack-on-a-christmas-market-in-berlin-takes-place-in-his-vill.md)
 Truckers sound their horns across Poland as the first victim of the Berlin lorry attack is buried.
 
@@ -37,7 +37,7 @@ A school for transgender people opens in Kochi, to help school dropouts finish t
 
 ##### Romania
 ### [Romanian President Klaus Iohannis designates social-democrat Sorin Grindeanu as the country's new prime minister, after the victory of the centre-left PSD earlier this month. ](/news/2016/12/30/romanian-president-klaus-iohannis-designates-social-democrat-sorin-grindeanu-as-the-country-s-new-prime-minister-after-the-victory-of-the-c.md)
-_Context: Romania, centre-left, Klaus Iohannis, Sorin Grindeanu, social-democrat, Prime Minister, PSD, earlier this month, President_
+_Context: Klaus Iohannis, earlier this month, Romania, Prime Minister, centre-left, President, Sorin Grindeanu, PSD, social-democrat_
 
 ##### China's State Council
 ### [China's State Council announces details of its intention to ban all ivory trade and processing activities by the end of 2017. ](/news/2016/12/30/china-s-state-council-announces-details-of-its-intention-to-ban-all-ivory-trade-and-processing-activities-by-the-end-of-2017.md)

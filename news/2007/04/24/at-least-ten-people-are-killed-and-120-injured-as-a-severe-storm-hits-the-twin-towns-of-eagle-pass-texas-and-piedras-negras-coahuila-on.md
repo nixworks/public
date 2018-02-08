@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/24/at-least-ten-people-are-killed-and-120-injured-
 
 ### [2007-04-24](/news/2007/04/24/index.md)
 
-##### storm
+##### Storm
 #  At least ten people are killed and 120 injured as a severe storm hits the twin towns of Eagle Pass, Texas, and Piedras Negras, Coahuila, on the U.S.-Mexico border. 
 
 

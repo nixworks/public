@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/22/natural-disaster-ecuador-s-tungurahua-volcano-s
 
 ### [2003-08-22](/news/2003/08/22/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: Ecuador's Tungurahua volcano sends a column of smoke and ash three kilometres into the air.
 
 

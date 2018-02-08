@@ -5,11 +5,11 @@ Formats: [HTML](2011/04/8/index.html)  [JSON](2011/04/8/index.json)  [XML](2011/
 
 ##### Israel
 ### [At least 12 Palestinians, including 3 civilians, are killed by Israeli air strikes in Gaza in response to numerous mortar and rocket attacks. ](/news/2011/04/8/at-least-12-palestinians-including-3-civilians-are-killed-by-israeli-air-strikes-in-gaza-in-response-to-numerous-mortar-and-rocket-attacks.md)
-_Context: Gaza Strip, Israel, Palestinian rocket attacks on Israel_
+_Context: Israel, Gaza Strip, Palestinian rocket attacks on Israel_
 
-##### mosque
+##### Mosque
 ### [Prominent religious leader Maulvi Showkat Ahmed Shah is killed when explosives attached to a bicycle are detonated outside a mosque in Srinagar, Kashmir, thought to be the first attack of its kind in about two years. The capital's shops shut down and traffic is suspended. ](/news/2011/04/8/prominent-religious-leader-maulvi-showkat-ahmed-shah-is-killed-when-explosives-attached-to-a-bicycle-are-detonated-outside-a-mosque-in-srina.md)
-_Context: Srinagar, Kashmir, mosque_
+_Context: mosque, Srinagar, Kashmir_
 
 ##### Camp Ashraf
 ### [At least 25 people are killed and at least 320 others are wounded at Camp Ashraf. ](/news/2011/04/8/at-least-25-people-are-killed-and-at-least-320-others-are-wounded-at-camp-ashraf.md)
@@ -29,11 +29,11 @@ The European Union believes it can complete the Portuguese bail-out, set to be w
 
 ##### Department of Justice
 ### [The United States Department of Justice defends its probing of WikiLeaks-related Twitter accounts and dismisses as "absurd" any privacy and freedom of speech concerns. ](/news/2011/04/8/the-united-states-department-of-justice-defends-its-probing-of-wikileaks-related-twitter-accounts-and-dismisses-as-absurd-any-privacy-and.md)
-_Context: Twitter, WikiLeaks, freedom of speech, Department of Justice_
+_Context: Twitter, freedom of speech, Department of Justice, WikiLeaks_
 
 ##### Wayne Swan
 ### [Wayne Swan, the Treasurer of Australia, formally rejects an offer by the Singapore Exchange for the Australian Stock Exchange following advice from the Foreign Investment Review Board. ](/news/2011/04/8/wayne-swan-the-treasurer-of-australia-formally-rejects-an-offer-by-the-singapore-exchange-for-the-australian-stock-exchange-following-advi.md)
-_Context: Australian Stock Exchange, Singapore Exchange, Treasurer of Australia, Wayne Swan_
+_Context: Australian Stock Exchange, Treasurer of Australia, Singapore Exchange, Wayne Swan_
 
 ##### 
 ### [Virtual economies in online games have become a billion dollar industry. ](/news/2011/04/8/virtual-economies-in-online-games-have-become-a-billion-dollar-industry.md)
@@ -47,21 +47,21 @@ The owner of the News of the World says sorry over the phone hacking scandal and
 ### [Amgen, a U.S. based biotech firm, acquires Bergamo, a privately held Brazilian medical supplier. ](/news/2011/04/8/amgen-a-u-s-based-biotech-firm-acquires-bergamo-a-privately-held-brazilian-medical-supplier.md)
 U.S. biotechnology company Amgen Inc (AMGN.O) is expanding in Brazil, announcing on Friday it had acquired privately-held Bergamo for about $215 million while reacquiring rights in the country to several Amgen products.
 
-##### aftershock
+##### Aftershock
 ### [The death toll from yesterday's aftershock from the 2011 Tohoku earthquake and tsunami rises to three and 140 wounded. ](/news/2011/04/8/the-death-toll-from-yesterday-s-aftershock-from-the-2011-tahoku-earthquake-and-tsunami-rises-to-three-and-140-wounded.md)
-_Context: aftershock, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, aftershock_
 
-##### sandstorm
+##### Sandstorm
 ### [Eight people are killed and 130 injured in a massive car pile-up caused by a sandstorm on the German autobahn A 19 near Rostock. The pile-up involves about 80 vehicles and causes at least 30 of them to catch fire, making it the worst accident in the state of Mecklenburg-Vorpommern. ](/news/2011/04/8/eight-people-are-killed-and-130-injured-in-a-massive-car-pile-up-caused-by-a-sandstorm-on-the-german-autobahn-a-19-near-rostock-the-pile-up.md)
 A freak sandstorm sweeps across a motorway in northern Germany causing a multiple pile-up and leaving eight people dead.
 
-##### nitrite
+##### Nitrite
 ### [Three children die after drinking suspected nitrite- (as opposed to 2008's melamine-) tainted milk in China; 35 others are hospitalized. ](/news/2011/04/8/three-children-die-after-drinking-suspected-nitrite-as-opposed-to-2008-s-melamine-tainted-milk-in-china-35-others-are-hospitalized.md)
 Three Chinese children die and 35 others, mostly children, fall ill with suspected poisoning after drinking milk from two dairies, state media says.
 
 ##### Nursultan Nazarbayev
 ### [Nursultan Nazarbayev is sworn in as President of Kazakhstan for another five year term, in a vote criticized as flawed. ](/news/2011/04/8/nursultan-nazarbayev-is-sworn-in-as-president-of-kazakhstan-for-another-five-year-term-in-a-vote-criticized-as-flawed.md)
-_Context: Kazakhstan, President, Nursultan Nazarbayev_
+_Context: President, Nursultan Nazarbayev, Kazakhstan_
 
 ##### Kenya
 ### [Three officials from Kenya, including the deputy prime minister, go on trial at the International Criminal Court (ICC). ](/news/2011/04/8/three-officials-from-kenya-including-the-deputy-prime-minister-go-on-trial-at-the-international-criminal-court-icc.md)
@@ -71,7 +71,7 @@ _Context: ICC, Kenya_
 ### [Mike Campbell, a white farmer who took President of Zimbabwe Robert Mugabe to court in 2007 over his programme of land seizures dies. ](/news/2011/04/8/mike-campbell-a-white-farmer-who-took-president-of-zimbabwe-robert-mugabe-to-court-in-2007-over-his-programme-of-land-seizures-dies.md)
 Mike Campbell - the white Zimbabwean farmer who took President Robert Mugabe to court in 2007 over his programme of land seizures -dies.
 
-##### lawmakers
+##### Lawmakers
 ### [The United States Congress reaches a deal on the 2011 United States federal budget an hour before the deadline to avoid a government shutdown. ](/news/2011/04/8/the-united-states-congress-reaches-a-deal-on-the-2011-united-states-federal-budget-an-hour-before-the-deadline-to-avoid-a-government-shutdow.md)
 US politicians agree to slash spending, in a deal reached just one hour before a government shutdown would have been enforced.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/11/former-basketball-referee-tim-donaghy-accuses-o
 
 ### [2008-06-11](/news/2008/06/11/index.md)
 
-##### basketball
+##### Basketball
 #  Former basketball referee Tim Donaghy accuses other referees in the National Basketball Association of rigging games, including Game 6 in the 2002 Western Conference Finals, allowing the Los Angeles Lakers to win that game, the series, and ultimately the 2002 NBA Finals. 
 
 A Tim Donaghy letter to the court alleges improper conduct by referees in the NBA.

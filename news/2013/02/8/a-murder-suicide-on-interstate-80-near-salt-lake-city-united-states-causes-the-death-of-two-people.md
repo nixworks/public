@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/8/a-murder-suicide-on-interstate-80-near-salt-lake
 
 ### [2013-02-8](/news/2013/02/8/index.md)
 
-##### murder-suicide
+##### Murder-suicide
 # A murder-suicide on Interstate 80, near Salt Lake City, United States, causes the death of two people. 
 
 

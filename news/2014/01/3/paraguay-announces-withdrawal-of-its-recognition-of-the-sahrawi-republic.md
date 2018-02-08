@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/3/paraguay-announces-withdrawal-of-its-recognition
 
 ### [2014-01-3](/news/2014/01/3/index.md)
 
-##### its recognition
+##### Its recognition
 # Paraguay announces withdrawal of its recognition of the Sahrawi Republic. 
 
 

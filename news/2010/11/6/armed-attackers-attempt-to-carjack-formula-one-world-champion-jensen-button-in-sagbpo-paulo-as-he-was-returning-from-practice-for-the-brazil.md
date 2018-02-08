@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/6/armed-attackers-attempt-to-carjack-formula-one-w
 
 ### [2010-11-6](/news/2010/11/6/index.md)
 
-##### carjack
+##### Carjack
 # Armed attackers attempt to carjack Formula One World Champion Jensen Button in SGBPo Paulo as he was returning from practice for the Brazilian Grand Prix at Interlagos. 
 
 F1 champion Jenson Button praises the actions of his police driver after armed men attempt to threaten him while driving in Sao Paulo, Brazil.

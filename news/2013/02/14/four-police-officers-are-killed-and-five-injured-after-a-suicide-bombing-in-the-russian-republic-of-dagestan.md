@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/14/four-police-officers-are-killed-and-five-injure
 
 ### [2013-02-14](/news/2013/02/14/index.md)
 
-##### state police
+##### State police
 # Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. 
 
 Four police officers have been killed and five others were injured when a vehicle exploded at a road police post in Russia’s Republic of Dagestan. The explosion happened during a routine road inspection.

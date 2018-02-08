@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/18/seven-people-are-killed-in-a-bombing-targeting-
 
 ### [2009-08-18](/news/2009/08/18/index.md)
 
-##### bombing
+##### Bombing
 #  Seven people are killed in a bombing targeting a NATO convoy in Kabul, days before the presidential elections in Afghanistan. 
 
 

@@ -15,7 +15,7 @@ At least nine civilians were killed and dozens were wounded on Sunday when morta
 ### [Former First Lady of the U.S. Nancy Reagan dies at age 94. ](/news/2016/03/6/former-first-lady-of-the-u-s-nancy-reagan-dies-at-age-94.md)
 Former first lady Nancy Reagan has died, according to a spokeswoman with the Reagan Library. She was 94.
 
-##### coal miners
+##### Coal miners
 ### [Twelve coal miners are killed following a gas leak in a mine near the Chinese city of Baishan in Jilin province. ](/news/2016/03/6/twelve-coal-miners-are-killed-following-a-gas-leak-in-a-mine-near-the-chinese-city-of-baishan-in-jilin-province.md)
 _Context: Baishan, coal miners, Jilin province_
 
@@ -33,7 +33,7 @@ Billionaire Iranian businessman Babak Zanjani, accused by the West of sanctions-
 
 ##### Egyptian interior minister
 ### [Egyptian interior minister Magdy Abdel-Ghaffar accuses Hamas and the Egyptian Muslim Brotherhood in the June 2015 assassination of Attorney General Hisham Barakat. ](/news/2016/03/6/egyptian-interior-minister-magdy-abdel-ghaffar-accuses-hamas-and-the-egyptian-muslim-brotherhood-in-the-june-2015-assassination-of-attorney.md)
-_Context: Hamas, Hisham Barakat, Egyptian Muslim Brotherhood, Egyptian interior minister_
+_Context: Egyptian Muslim Brotherhood, Egyptian interior minister, Hamas, Hisham Barakat_
 
 ##### Beninese presidential election, 2016
 ### [Voters in Benin go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current President Thomas Yayi Boni. ](/news/2016/03/6/voters-in-benin-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-33-candidates-vying-to-replace-current-preside.md)
@@ -41,7 +41,7 @@ Voters in Benin went to the polls on Sunday in an election with a record number 
 
 #####  Georgian
 ### [Thousands of people gather in the Georgian capital of Tbilisi to protest against their government's negotiations with Russian state-owned oil company Gazprom. ](/news/2016/03/6/thousands-of-people-gather-in-the-georgian-capital-of-tbilisi-to-protest-against-their-government-s-negotiations-with-russian-state-owned-oi.md)
-_Context: Tbilisi, Russia, Gazprom,  Georgian_
+_Context: Tbilisi,  Georgian, Gazprom, Russia_
 
 ##### 2016 U.S. presidential election
 ### [Marco Rubio wins the Puerto Rican Republican Party primary. ](/news/2016/03/6/marco-rubio-wins-the-puerto-rican-republican-party-primary.md)

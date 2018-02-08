@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/7/the-social-democratic-party-congress-votes-to-st
 
 ### [2017-12-7](/news/2017/12/7/index.md)
 
-##### government
+##### Government
 # The Social Democratic Party congress votes to start talks on "whether and in what form" to support a new federal government. 
 
 The Latest on efforts to form a new government in Germany (all times local):

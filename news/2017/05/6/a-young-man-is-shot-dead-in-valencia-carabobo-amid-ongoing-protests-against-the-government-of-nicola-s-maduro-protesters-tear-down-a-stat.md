@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/6/a-young-man-is-shot-dead-in-valencia-carabobo-am
 
 ### [2017-05-6](/news/2017/05/6/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # A young man is shot dead in Valencia, Carabobo, amid ongoing protests against the government of Nicolas Maduro. Protesters tear down a statue of former President Hugo Chavez in Rosario de Perija. 
 
 Young protester shot in the head amid continuation of demonstrations that brand President Nicolás Maduro a dictator and demand elections

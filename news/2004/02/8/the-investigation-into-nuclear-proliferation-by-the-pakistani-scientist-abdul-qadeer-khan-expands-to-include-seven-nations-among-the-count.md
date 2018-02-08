@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/8/the-investigation-into-nuclear-proliferation-by-
 
 ### [2004-02-8](/news/2004/02/8/index.md)
 
-##### nuclear proliferation
+##### Nuclear proliferation
 #  The investigation into nuclear proliferation by the Pakistani scientist Abdul Qadeer Khan expands to include seven nations. Among the countries known to be involved are Malaysia, South Africa, Japan, the United Arab Emirates, Germany and Pakistan. Nuclear technology and parts were supplied to Libya, Iran, North Korea.
 
 

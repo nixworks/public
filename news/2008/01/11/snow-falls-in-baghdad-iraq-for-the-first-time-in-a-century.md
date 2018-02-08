@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/11/snow-falls-in-baghdad-iraq-for-the-first-time-i
 
 ### [2008-01-11](/news/2008/01/11/index.md)
 
-##### snowfall
+##### Snowfall
 #  Snow falls in Baghdad, Iraq for the first time in a century. 
 
 Snow fell on Baghdad on Friday for the first time in memory, and delighted residents declared it an omen of peace.

@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/25/index.html)  [JSON](2012/03/25/index.json)  [XML](201
 
 ##### Syria
 ### [At least 48 people are reported killed across Syria as US President Barack Obama and Turkish Prime Minister Erdogan hold talks about a process for transitioning to a "legitimate government". ](/news/2012/03/25/at-least-48-people-are-reported-killed-across-syria-as-us-president-barack-obama-and-turkish-prime-minister-erdoaan-hold-talks-about-a-proc.md)
-_Context: US President, Syria, Barack Obama, Turkish Prime Minister, Recep Tayyip Erdogan_
+_Context: Turkish Prime Minister, Recep Tayyip Erdogan, US President, Syria, Barack Obama_
 
 ##### Tuareg Rebellion
 ### [2012 insurgency in northern Mali: Tuareg insurgents close in on multiple northern towns where they say they will apply Islamic sharia law. ](/news/2012/03/25/2012-insurgency-in-northern-mali-tuareg-insurgents-close-in-on-multiple-northern-towns-where-they-say-they-will-apply-islamic-sharia-law.md)
@@ -17,11 +17,11 @@ _Context: NATO, Kandahar Province, Afghanistan_
 
 ##### Kandahar massacre
 ### [Kandahar massacre: The United States pays the Afghanistan government $50,000 for every person murdered during the Kandahar massacre. ](/news/2012/03/25/kandahar-massacre-the-united-states-pays-the-afghanistan-government-50-000-for-every-person-murdered-during-the-kandahar-massacre.md)
-_Context: Kandahar massacre, Afghanistan, Kandahar, United States_
+_Context: Kandahar, Afghanistan, United States, Kandahar massacre_
 
 ##### Kofi Annan
 ### [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md)
-_Context: Bashar al-Assad, Russian President, Syria, Dmitry Medvedev, UN, Kofi Annan_
+_Context: Syria, Kofi Annan, Dmitry Medvedev, UN, Russian President, Bashar al-Assad_
 
 ##### Barack Obama
 ### [Barack Obama, the President of the United States, begins a three day visit to South Korea amidst rising tension in North Asia about proposed missile tests by North Korea. ](/news/2012/03/25/barack-obama-the-president-of-the-united-states-begins-a-three-day-visit-to-south-korea-amidst-rising-tension-in-north-asia-about-proposed.md)
@@ -39,9 +39,9 @@ _Context: Ford Crown Victoria, Mississippi State University_
 ### [Peter Cruddas resigns as treasurer of Britain's Conservative Party after he was filmed selling access to Prime Minister David Cameron for GBP250,000. ](/news/2012/03/25/peter-cruddas-resigns-as-treasurer-of-britain-s-conservative-party-after-he-was-filmed-selling-access-to-prime-minister-david-cameron-for-ag.md)
 Conservative Party co-treasurer Peter Cruddas resigns after a secretly-filmed video shows him apparently selling access to the PM for £250,000.
 
-##### road rules
+##### Road rules
 ### [New Zealand changes two road rules regarding priority at intersections, including reversing the drive-on-the-left nation's unique rule that gave right-turning traffic priority over left-turning traffic. ](/news/2012/03/25/new-zealand-changes-two-road-rules-regarding-priority-at-intersections-including-reversing-the-drive-on-the-left-nation-s-unique-rule-that.md)
-_Context: drive-on-the-left, road rules, intersections_
+_Context: drive-on-the-left, intersections, road rules_
 
 ##### Leung Chun-ying
 ### [Leung Chun-ying is projected as the winner of the election to be Chief Executive of Hong Kong. ](/news/2012/03/25/leung-chun-ying-is-projected-as-the-winner-of-the-election-to-be-chief-executive-of-hong-kong.md)
@@ -49,7 +49,7 @@ Leung Chun-ying, a former property surveyor, pledged to address Hong Kong’s we
 
 ##### Senegal
 ### [Voters in Senegal go to the polls for a runoff in the presidential election with reports indicating that challenger Macky Sall has defeated incumbent Abdoulaye Wade. ](/news/2012/03/25/voters-in-senegal-go-to-the-polls-for-a-runoff-in-the-presidential-election-with-reports-indicating-that-challenger-macky-sall-has-defeated.md)
-_Context: Macky Sall, Abdoulaye Wade, elected, Senegal_
+_Context: elected, Senegal, Macky Sall, Abdoulaye Wade_
 
 ## [Previous Day...](/news/2012/03/24/index.md)
 

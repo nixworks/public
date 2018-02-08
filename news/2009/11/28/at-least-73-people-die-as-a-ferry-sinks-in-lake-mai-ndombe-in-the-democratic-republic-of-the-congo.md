@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/28/at-least-73-people-die-as-a-ferry-sinks-in-lake
 
 ### [2009-11-28](/news/2009/11/28/index.md)
 
-##### ferry
+##### Ferry
 #  At least 73 people die as a ferry sinks in Lake Mai-Ndombe in the Democratic Republic of the Congo. 
 
 

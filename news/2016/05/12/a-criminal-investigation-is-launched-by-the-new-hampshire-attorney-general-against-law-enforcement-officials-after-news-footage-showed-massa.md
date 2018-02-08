@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/12/a-criminal-investigation-is-launched-by-the-new
 
 ### [2016-05-12](/news/2016/05/12/index.md)
 
-##### attorney general
+##### Attorney general
 # A criminal investigation is launched by the New Hampshire attorney general against law enforcement officials after news footage showed Massachusetts-New Hampshire police appear to beat a man who was surrendering at the end of a bi-state car chase. 
 
 

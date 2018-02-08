@@ -17,21 +17,21 @@ SEOUL, South Korea (AP) — South Korea and the United States began annual milit
 
 ##### Iran-Russia relations
 ### [Iran confirms that Russia will stop using its Hamadan Airbase to launch attacks in Syria, saying Russia's use of Hamadan Airbase was "temporary, based on a Russian request," and that Russian operations are "finished for now". Iranian Defence Minister Hossein Dehghan earlier criticized Russia's announcement of its use of the base in Iran, saying "There has been a kind of showing-off and inconsiderate attitude behind the announcement of this news." ](/news/2016/08/22/iran-confirms-that-russia-will-stop-using-its-hamadan-airbase-to-launch-attacks-in-syria-saying-russia-s-use-of-hamadan-airbase-was-tempor.md)
-_Context: Syrian civil war, Iran, Hossein Dehghan, Russia, Minister of Defence, Hamadan Airbase, Iran-Russia relations_
+_Context: Iran-Russia relations, Syrian civil war, Minister of Defence, Hossein Dehghan, Russia, Hamadan Airbase, Iran_
 
 ##### Ahmad al-Mahdi
 ### [Ahmad al-Mahdi pleads guilty at the start of his trial before the International Criminal Court for the war crime of destroying cultural sites in Timbuktu. ](/news/2016/08/22/ahmad-al-mahdi-pleads-guilty-at-the-start-of-his-trial-before-the-international-criminal-court-for-the-war-crime-of-destroying-cultural-site.md)
 An Islamist rebel says he regrets destroying cultural and religious sites in Timbuktu, Mali, in a landmark trial at the International Criminal Court.
 
-##### drug crackdown
+##### Drug crackdown
 ### [The death toll estimates for the crackdown on recreational drugs in the Philippines reaches 1,800 amid a senate investigation of the killings. ](/news/2016/08/22/the-death-toll-estimates-for-the-crackdown-on-recreational-drugs-in-the-philippines-reaches-1-800-amid-a-senate-investigation-of-the-killing.md)
 Senator Leila de Lima, a staunch critic of the president, started a two-day congressional inquiry into the &quot;unprecedented&quot; killings.
 
 ##### President
 ### [President of the Philippines Rodrigo Duterte fires thousands of former president Benigno Aquino III appointees from the government. ](/news/2016/08/22/president-of-the-philippines-rodrigo-duterte-fires-thousands-of-former-president-benigno-aquino-iii-appointees-from-the-government.md)
-_Context: his predecessor, President, Rodrigo Duterte_
+_Context: President, his predecessor, Rodrigo Duterte_
 
-##### last month's presidential election
+##### Last month's presidential election
 ### [Former President of France Nicolas Sarkozy officially declares his candidacy for president in 2017. ](/news/2016/08/22/former-president-of-france-nicolas-sarkozy-officially-declares-his-candidacy-for-president-in-2017.md)
 Former leader says key issue for France is ‘how to defend our lifestyle without cutting ourselves off from the world’
 

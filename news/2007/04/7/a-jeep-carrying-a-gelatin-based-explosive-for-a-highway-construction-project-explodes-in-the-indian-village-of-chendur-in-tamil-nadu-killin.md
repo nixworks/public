@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/7/a-jeep-carrying-a-gelatin-based-explosive-for-a-
 
 ### [2007-04-7](/news/2007/04/7/index.md)
 
-##### gelatin
+##### Gelatin
 #  A jeep carrying a gelatin-based explosive for a highway construction project explodes in the Indian village of Chendur in Tamil Nadu killing at least 16 people. 
 
 

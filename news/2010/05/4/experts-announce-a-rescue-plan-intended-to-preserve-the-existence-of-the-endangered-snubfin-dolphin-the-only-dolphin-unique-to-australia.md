@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/4/experts-announce-a-rescue-plan-intended-to-prese
 
 ### [2010-05-4](/news/2010/05/4/index.md)
 
-##### snubfin dolphin
+##### Snubfin dolphin
 # Experts announce a rescue plan intended to preserve the existence of the endangered snubfin dolphin, the only dolphin unique to Australia. 
 
 Experts are working on a rescue plan to save the only dolphin unique to Australia.

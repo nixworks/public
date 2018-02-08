@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/2/at-least-27-people-are-killed-when-a-bus-catches
 
 ### [2007-10-2](/news/2007/10/2/index.md)
 
-##### bus
+##### Bus
 #  At least 27 people are killed when a bus catches fire in Chongqing, southwest China. 
 
 

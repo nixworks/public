@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/31/repeated-attacks-on-pipelines-linked-to-souther
 
 ### [2004-08-31](/news/2004/08/31/index.md)
 
-##### pipeline
+##### Pipeline
 #  Repeated attacks on pipelines linked to southern oil fields have significantly hampered oil exports from Iraq. 
 
 

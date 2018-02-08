@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/5/dozens-of-chinese-taxi-drivers-attempt-a-mass-su
 
 ### [2015-04-5](/news/2015/04/5/index.md)
 
-##### mass suicide
+##### Mass suicide
 # Dozens of Chinese taxi drivers attempt a mass suicide in Beijing to protest the way taxi companies renewed their vehicle leases. 
 
 At least 10 men were hospitalized after they traveled to Beijing and drank pesticide to protest what they said was poor treatment by their companies.

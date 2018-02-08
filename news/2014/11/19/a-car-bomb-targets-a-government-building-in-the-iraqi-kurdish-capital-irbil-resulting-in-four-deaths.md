@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/19/a-car-bomb-targets-a-government-building-in-the
 
 ### [2014-11-19](/news/2014/11/19/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb targets a government building in the Iraqi Kurdish capital Irbil, resulting in four deaths. 
 
 A car bomb targets a government building in the Iraqi Kurdish capital, Irbil, with local media reporting several deaths.

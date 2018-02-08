@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/10/terrorism-imam-samudra-became-the-second-bali-b
 
 ### [2003-09-10](/news/2003/09/10/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: Imam Samudra became the second Bali bomber to be sentenced to death by firing squad for his role in the October 12 atrocity which killed 202 people. Samudra greeted the sentence with chants of "Allahu Akbar" ("God is great").
 
 

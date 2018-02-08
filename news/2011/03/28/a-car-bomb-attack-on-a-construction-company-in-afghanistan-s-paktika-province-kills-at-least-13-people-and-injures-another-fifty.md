@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/28/a-car-bomb-attack-on-a-construction-company-in-
 
 ### [2011-03-28](/news/2011/03/28/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb attack on a construction company in Afghanistan's Paktika Province kills at least 13 people and injures another fifty. 
 
 

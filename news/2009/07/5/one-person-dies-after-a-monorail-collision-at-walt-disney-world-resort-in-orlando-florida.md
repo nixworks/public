@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/5/one-person-dies-after-a-monorail-collision-at-wa
 
 ### [2009-07-5](/news/2009/07/5/index.md)
 
-##### monorail collision
+##### Monorail collision
 #  One person dies after a monorail collision at Walt Disney World Resort in Orlando, Florida. 
 
 

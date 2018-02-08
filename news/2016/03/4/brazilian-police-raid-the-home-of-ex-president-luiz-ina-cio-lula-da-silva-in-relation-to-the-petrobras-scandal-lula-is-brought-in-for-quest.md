@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/4/brazilian-police-raid-the-home-of-ex-president-l
 
 ### [2016-03-4](/news/2016/03/4/index.md)
 
-##### police
+##### Police
 # Brazilian police raid the home of ex-President Luiz Inacio Lula da Silva in relation to the Petrobras scandal. Lula is brought in for questioning. 
 
 Former Brazilian President Luiz Inacio Lula da Silva is questioned by police as part of a huge fraud inquiry into the state oil company Petrobras.

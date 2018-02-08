@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/26/nationwide-protests-are-held-across-the-philipp
 
 ### [2013-08-26](/news/2013/08/26/index.md)
 
-##### protests
+##### Protests
 # Nationwide protests are held across the Philippines over the Priority Development Assistance Fund scam. 
 
 (5th UPDATE) Initiated online, the protest rallies in Luneta and in key cities worldwide are the first of its kind under the Aquino administration

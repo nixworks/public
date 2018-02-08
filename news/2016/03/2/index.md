@@ -37,7 +37,7 @@ A 7.8 magnitude earthquake has struck off the coast of Indonesia, killing an unc
 
 ##### South China Sea disputes
 ### [Philippines Foreign Secretary Albert del Rosario says Chinese coast guard ships that were sighted two weeks ago near the disputed Jackson Atoll in the northeast Dangerous Ground are no longer there today. Chinese Foreign Ministry spokesperson Hong Lei said ships were dispatched to the area in late 2015 to salvage a fishing vessel that posed a risk to navigation. Chinese ships, "... persuaded fishing boats to leave the waters in an effort to ensure safety conditions for normal navigation," Hong said. In addition to China and the Philippines, Vietnam, Malaysia, Taiwan, and Brunei also lay claim to the Spratly Islands waters. ](/news/2016/03/2/philippines-foreign-secretary-albert-del-rosario-says-chinese-coast-guard-ships-that-were-sighted-two-weeks-ago-near-the-disputed-jackson-at.md)
-_Context: Chinese coast guard, Spratly Islands, Vietnam, Albert del Rosario, Chinese Foreign Ministry spokesperson, Hong Lei, Dangerous Ground, South China Sea disputes, Brunei, Philippines Foreign Secretary, Malaysia, Taiwan_
+_Context: Malaysia, Philippines Foreign Secretary, Vietnam, Albert del Rosario, Taiwan, Chinese Foreign Ministry spokesperson, Spratly Islands, Chinese coast guard, South China Sea disputes, Brunei, Dangerous Ground, Hong Lei_
 
 ##### European migrant crisis
 ### [The European Union launches a new aid program worth an initial 700 million euros (US$760 million) to address the growing refugee crisis in Greece. EU Humanitarian Aid Commissioner Christos Stylianides says the so-called Emergency Assistance Instrument will be used to help migrants trapped in Greece and, if needed, in other countries on the migration route front lines. Approval by a majority of EU members is required. The next EU meeting is scheduled for Monday. ](/news/2016/03/2/the-european-union-launches-a-new-aid-program-worth-an-initial-700-million-euros-us-760-million-to-address-the-growing-refugee-crisis-in-g.md)
@@ -51,9 +51,9 @@ The move deepens tensions between Saudi Arabia and its chief regional rival.
 ### [The United Nations Security Council adopts the toughest sanctions on North Korea in twenty years due to continued efforts to develop a nuclear weapons program. ](/news/2016/03/2/the-united-nations-security-council-adopts-the-toughest-sanctions-on-north-korea-in-twenty-years-due-to-continued-efforts-to-develop-a-nucle.md)
 _Context: North Korea, North Korea's nuclear program, United Nations Security Council_
 
-##### election
+##### Election
 ### [The conservative People's Party (PP) and the left-wing Podemos party, which together hold 192 seats in Spain's 350-seat parliament following December's election, confirm they will vote against Spanish Socialist Workers' Party (PSOE) leader Pedro Sanchez's candidacy to form a new government. ](/news/2016/03/2/the-conservative-people-s-party-pp-and-the-left-wing-podemos-party-which-together-hold-192-seats-in-spainas-350-seat-parliament-followi.md)
-_Context: Pedro Sanchez, parliament, Podemos, People's Party, election, Socialist Workers' Party_
+_Context: People's Party, election, Pedro Sanchez, parliament, Socialist Workers' Party, Podemos_
 
 ## [Previous Day...](/news/2016/03/1/index.md)
 

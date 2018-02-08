@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/17/u-s-air-raids-in-the-city-of-fallujah-allegedly
 
 ### [2004-09-17](/news/2004/09/17/index.md)
 
-##### airstrike
+##### Airstrike
 #  U.S. air raids in the city of Fallujah, allegedly aimed at militants loyal to Abu Musab al-Zarqawi, kill an estimated 60 fighters, according to claims from the U.S. military. A spokesman for Iraq's health ministry says at least two women and 17 children were among the wounded. Meanwhile, in central Baghdad, a suicide car bomb leaves at least 13 dead. 
 
 

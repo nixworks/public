@@ -5,13 +5,13 @@ Formats: [HTML](2014/10/16/index.html)  [JSON](2014/10/16/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [The Pakistan Air Force claims to have killed at least 27 militants in overnight airstrikes. ](/news/2014/10/16/the-pakistan-air-force-claims-to-have-killed-at-least-27-militants-in-overnight-airstrikes.md)
-_Context: War in North-West Pakistan, Pakistan Air Force_
+_Context: Pakistan Air Force, War in North-West Pakistan_
 
 ##### New Zealand
 ### [New Zealand, Malaysia, Angola, Spain and Venezuela have been elected to sit on the United Nations Security Council for two years from 2015. ](/news/2014/10/16/new-zealand-malaysia-angola-spain-and-venezuela-have-been-elected-to-sit-on-the-united-nations-security-council-for-two-years-from-2015.md)
 New Zealand is one of five countries to win seats for two years on the powerful UN Security Council.
 
-##### police
+##### Police
 ### [Brazilian police arrest Thiago Henrique Gomes da Rocha who they claim has killed at least 39 people over a three year period targeting homeless people, women and gays. ](/news/2014/10/16/brazilian-police-arrest-thiago-henrique-gomes-da-rocha-who-they-claim-has-killed-at-least-39-people-over-a-three-year-period-targeting-homel.md)
 Brazilian police in the state of Goiania arrest a man who they say has confessed to killing 39 people in cold blood.
 

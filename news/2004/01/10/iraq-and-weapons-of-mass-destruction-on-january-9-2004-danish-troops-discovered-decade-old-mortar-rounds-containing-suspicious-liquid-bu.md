@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/10/iraq-and-weapons-of-mass-destruction-on-january
 
 ### [2004-01-10](/news/2004/01/10/index.md)
 
-##### weapons of mass destruction
+##### Weapons of mass destruction
 #  Iraq and weapons of mass destruction: On January 9, 2004, Danish troops discovered decade-old mortar rounds containing suspicious liquid buried in Southern Iraq. Initial tests now indicate that the rounds contain the banned chemical weapon blister gas. Final tests should be available in two days.
 
 

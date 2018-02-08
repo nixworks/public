@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/25/al-qaeda-admits-responsibility-for-a-failed-bom
 
 ### [2006-02-25](/news/2006/02/25/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda admits responsibility for a failed bomb attempt at Abqaiq plants, the world's largest oil processing facilities. 
 
 

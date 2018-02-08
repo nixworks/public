@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/30/soldiers-who-attempted-a-mutiny-last-week-in-pa
 
 ### [2012-01-30](/news/2012/01/30/index.md)
 
-##### a mutiny
+##### A mutiny
 # Soldiers who attempted a mutiny last week in Papua New Guinea hand their weapons over to the Deputy Prime Minister Belden Namah in return for a general amnesty. 
 
 

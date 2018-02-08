@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-t
 
 ### [2013-05-8](/news/2013/05/8/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. 
 
 

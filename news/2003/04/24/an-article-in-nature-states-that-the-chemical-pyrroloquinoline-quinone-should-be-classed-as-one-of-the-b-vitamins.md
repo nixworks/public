@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/24/an-article-in-nature-states-that-the-chemical-p
 
 ### [2003-04-24](/news/2003/04/24/index.md)
 
-##### pyrroloquinoline quinone
+##### Pyrroloquinoline quinone
 #  An article in "Nature" states that the chemical pyrroloquinoline quinone should be classed as one of the B vitamins.
 
 

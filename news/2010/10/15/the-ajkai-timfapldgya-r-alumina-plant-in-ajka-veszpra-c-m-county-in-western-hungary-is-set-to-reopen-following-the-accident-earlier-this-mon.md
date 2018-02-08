@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/15/the-ajkai-timfapldgya-r-alumina-plant-in-ajka-v
 
 ### [2010-10-15](/news/2010/10/15/index.md)
 
-##### alumina
+##### Alumina
 # The Ajkai Timfoldgyar alumina plant in Ajka, Veszprem County, in western Hungary is set to reopen following the accident earlier this month as the death toll reaches nine. 
 
 

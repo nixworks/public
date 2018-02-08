@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/30/rwandaas-high-court-sentences-opposition-leader
 
 ### [2012-10-30](/news/2012/10/30/index.md)
 
-##### high court
+##### High court
 # Rwanda's high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. 
 
 Victoire Ingabire, a Hutu politician, was found guilty of two charges related to Rwanda’s 1994 genocide, in a trial widely seen as a test of the country’s tolerance of dissent.

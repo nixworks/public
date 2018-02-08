@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/21/seven-people-including-the-pilot-are-killed-in-
 
 ### [2015-11-21](/news/2015/11/21/index.md)
 
-##### helicopter crash
+##### Helicopter crash
 # Seven people, including the pilot, are killed in a helicopter crash on Fox Glacier in New Zealand. 
 
 Bodies of four tourists still on Fox Glacier unlikely to be recovered until at least Wednesday, police say.

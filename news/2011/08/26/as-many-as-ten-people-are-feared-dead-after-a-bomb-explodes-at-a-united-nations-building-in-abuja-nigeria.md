@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/26/as-many-as-ten-people-are-feared-dead-after-a-b
 
 ### [2011-08-26](/news/2011/08/26/index.md)
 
-##### bomb explodes
+##### Bomb explodes
 # As many as ten people are feared dead after a bomb explodes at a United Nations building in Abuja, Nigeria. 
 
 

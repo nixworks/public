@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-ri
 
 ### [2011-01-22](/news/2011/01/22/index.md)
 
-##### death toll from flooding
+##### Death toll from flooding
 # The death toll from flooding in South Africa rises to 70 and more than 8,000 families are homeless. Five other nearby countries - Botswana, Mozambique, Namibia, Zambia and Zimbabwe - are threatened by killer heavy rains. 
 
 At least 70 people have now died from flooding in South Africa, as heavy rains threaten countries from Mozambique to Namibia.

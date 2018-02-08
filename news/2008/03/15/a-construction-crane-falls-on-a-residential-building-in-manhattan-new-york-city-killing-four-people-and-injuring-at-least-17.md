@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/15/a-construction-crane-falls-on-a-residential-bui
 
 ### [2008-03-15](/news/2008/03/15/index.md)
 
-##### construction
+##### Construction
 #  A construction crane falls on a residential building in Manhattan, New York City, killing four people and injuring at least 17. 
 
 A giant crane fell and crushed a residential building in Manhattan on Saturday, killing four construction workers and injuring more than 10 other people, New York Mayor Michael Bloomberg said.

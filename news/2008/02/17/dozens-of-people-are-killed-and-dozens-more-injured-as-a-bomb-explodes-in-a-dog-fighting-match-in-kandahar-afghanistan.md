@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/17/dozens-of-people-are-killed-and-dozens-more-inj
 
 ### [2008-02-17](/news/2008/02/17/index.md)
 
-##### bomb explodes
+##### Bomb explodes
 #  Dozens of people are killed and dozens more injured as a bomb explodes in a dog fighting match in Kandahar, Afghanistan. 
 
 

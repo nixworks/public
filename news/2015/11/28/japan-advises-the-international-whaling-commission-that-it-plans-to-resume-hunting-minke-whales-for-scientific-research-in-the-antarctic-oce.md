@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/28/japan-advises-the-international-whaling-commiss
 
 ### [2015-11-28](/news/2015/11/28/index.md)
 
-##### whaling
+##### Whaling
 # Japan advises the International Whaling Commission that it plans to resume hunting minke whales for scientific research in the Antarctic Ocean by the end of March 2016. The United Nations' International Court of Justice (ICJ) ruled in March 2014 that Japan's decades-old whale hunt in the Antarctic should stop, prompting Tokyo to cancel the bulk of its whaling for the 2014-2015 season. ICJ decisions were binding and cannot be appealed. 
 
 International Court of Justice ruled last year that Japanese whaling must stop, amid widespread outrage at the practice

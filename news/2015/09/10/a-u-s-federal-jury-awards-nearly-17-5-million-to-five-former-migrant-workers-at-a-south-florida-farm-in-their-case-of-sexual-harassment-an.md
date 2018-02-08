@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/10/a-u-s-federal-jury-awards-nearly-17-5-million-t
 
 ### [2015-09-10](/news/2015/09/10/index.md)
 
-##### migrant workers
+##### Migrant workers
 # A U.S. federal jury awards nearly $17.5 million to five former migrant workers at a South Florida farm in their case of sexual harassment and abuse in their work. 
 
 A federal jury awarded almost $17.5 million to five former female employees of a South Florida farm who said they were raped and harassed at a vegetable packing plant, the U.S. Equal Employment Opportunity Commission (EEOC) announced on Thursday.

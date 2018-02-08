@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/12/a-massive-fire-burns-parts-of-the-boardwalk-in-
 
 ### [2013-09-12](/news/2013/09/12/index.md)
 
-##### fire
+##### Fire
 # A massive fire burns parts of the boardwalk in Seaside Park, New Jersey. Numerous decades-old buildings are destroyed. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

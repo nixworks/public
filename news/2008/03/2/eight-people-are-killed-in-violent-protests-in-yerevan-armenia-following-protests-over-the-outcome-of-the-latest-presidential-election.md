@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-y
 
 ### [2008-03-2](/news/2008/03/2/index.md)
 
-##### violent protests
+##### Violent protests
 #  Eight people are killed in violent protests in Yerevan, Armenia, following protests over the outcome of the latest presidential election. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/29/groups-of-indigenous-peoples-in-brazil-block-ro
 
 ### [2012-05-29](/news/2012/05/29/index.md)
 
-##### indigenous peoples in Brazil
+##### Indigenous peoples in Brazil
 # Groups of indigenous peoples in Brazil block roads and occupy government buildings. 
 
 Groups of Brazilian indigenous people block roads and occupy government buildings, calling for better healthcare in their communities.

@@ -13,7 +13,7 @@ The Turkish Army launched an operation targeting the Tomb of Suleyman Shah, whic
 
 ##### United Steelworkers
 ### [ The United Steelworkers union notifies the owner of the largest refinery in the United States that its members are on strike. The notification to Motiva constitutes a major escalation of ongoing labor-management confrontation in that industry. ](/news/2015/02/21/the-united-steelworkers-union-notifies-the-owner-of-the-largest-refinery-in-the-united-states-that-its-members-are-on-strike-the-notificat.md)
-_Context: Motiva, United Steelworkers, refinery, United States_
+_Context: United States, Motiva, United Steelworkers, refinery_
 
 ##### General Motors
 ### [ More than 5,000 workers at a General Motors plant in Brazil joins in a strike against the dismissal of proposal for another 800 factory employees. ](/news/2015/02/21/more-than-5-000-workers-at-a-general-motors-plant-in-brazil-joins-in-a-strike-against-the-dismissal-of-proposal-for-another-800-factory-emp.md)
@@ -33,7 +33,7 @@ Indonesia has recalled its new ambassador to Brazil after the South American cou
 
 ##### President
 ### [The President of Peru Ollanta Humala recalls the ambassador to Chile over spying allegations. ](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.md)
-_Context: Chile, President, Ollanta Humala_
+_Context: President, Ollanta Humala, Chile_
 
 ##### Willacy County Correctional Center
 ### [The Willacy County Correctional Center in Willacy County, Texas is emptied of thousands of inmates the day after a riot makes it uninhabitable. ](/news/2015/02/21/the-willacy-county-correctional-center-in-willacy-county-texas-is-emptied-of-thousands-of-inmates-the-day-after-a-riot-makes-it-uninhabitab.md)

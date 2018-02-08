@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/29/the-cabinet-balkenende-ii-of-the-netherlands-re
 
 ### [2006-06-29](/news/2006/06/29/index.md)
 
-##### forming a government
+##### Forming a government
 #  The cabinet Balkenende II of the Netherlands resigns after a row between the coalition partners about the citizenship of former MP Ayaan Hirsi Ali. 
 
 

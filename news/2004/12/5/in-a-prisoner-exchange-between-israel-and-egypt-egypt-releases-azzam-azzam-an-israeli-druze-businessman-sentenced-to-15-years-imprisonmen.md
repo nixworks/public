@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/5/in-a-prisoner-exchange-between-israel-and-egypt-
 
 ### [2004-12-5](/news/2004/12/5/index.md)
 
-##### prisoner exchange
+##### Prisoner exchange
 #  In a prisoner exchange between Israel and Egypt, Egypt releases Azzam Azzam, an Israeli Druze businessman sentenced to 15 years imprisonment by Egypt in 1997 on charges of spying for Israel, while Israel releases six Egyptian students who allegedly infiltrated Israel to kidnap soldiers. 
 
 

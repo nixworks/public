@@ -3,7 +3,7 @@ Formats: [HTML](2013/12/22/index.html)  [JSON](2013/12/22/index.json)  [XML](201
 
 ## [2013-12-22](/news/2013/12/22/index.md)
 
-##### barrel bomb
+##### Barrel bomb
 ### [Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. ](/news/2013/12/22/syrian-government-warplanes-drop-barrel-bombs-on-the-city-of-aleppo-killing-63-people-including-civilians.md)
 _Context: barrel bomb, Aleppo_
 
@@ -15,7 +15,7 @@ BENGHAZI, Libya -- A suicide car bombing at a security checkpoint in eastern Lib
 ### [A bomb explodes on a bus in Bat Yam, Israel, but an alert passenger averts a mass casualty incident after noticing the device and the bus driver orders the vehicle evacuated. ](/news/2013/12/22/a-bomb-explodes-on-a-bus-in-bat-yam-israel-but-an-alert-passenger-averts-a-mass-casualty-incident-after-noticing-the-device-and-the-bus-dr.md)
 Device in apparent Bat Yam terror attack blew up as sapper was defusing it; public told to be on alert for further bombings
 
-##### payment cards
+##### Payment cards
 ### [Blackmarket sales begin of credit and debit card data which was compromised due to a Target Corporation data breach. ](/news/2013/12/22/blackmarket-sales-begin-of-credit-and-debit-card-data-which-was-compromised-due-to-a-target-corporation-data-breach.md)
 Credit and debit card accounts stolen during a security breach involving retailer Target have reportedly flooded underground black markets, going on sale in batches of one million cards.
 

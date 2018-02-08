@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/30/an-ex-navy-seal-s-book-that-seems-to-contradict
 
 ### [2012-08-30](/news/2012/08/30/index.md)
 
-##### book
+##### Book
 # An ex-Navy Seal's book that seems to contradict the official version of the death of Osama bin Laden is not written with politics in mind, says the author. 
 
 

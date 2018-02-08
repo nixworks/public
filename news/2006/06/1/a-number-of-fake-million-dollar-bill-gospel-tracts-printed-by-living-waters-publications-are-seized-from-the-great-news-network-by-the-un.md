@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/1/a-number-of-fake-million-dollar-bill-gospel-trac
 
 ### [2006-06-1](/news/2006/06/1/index.md)
 
-##### million dollar bill
+##### Million dollar bill
 #  A number of fake million dollar bill gospel tracts, printed by Living Waters Publications, are seized from The Great News Network by the United States Secret Service as possible counterfeits. 
 
 

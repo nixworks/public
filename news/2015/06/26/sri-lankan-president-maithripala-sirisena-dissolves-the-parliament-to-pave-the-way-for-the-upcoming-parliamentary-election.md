@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/26/sri-lankan-president-maithripala-sirisena-disso
 
 ### [2015-06-26](/news/2015/06/26/index.md)
 
-##### election
+##### Election
 #  Sri Lankan President Maithripala Sirisena dissolves the Parliament to pave the way for the upcoming parliamentary election. 
 
 Sri Lankan President Maithripala Sirisena dissolves parliament, paving the way for an early general election.

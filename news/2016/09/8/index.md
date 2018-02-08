@@ -13,7 +13,7 @@ An American flag that turned up in Washington state two years ago is believed to
 
 ##### Solly Msimanga
 ### [Solly Msimanga, newly elected Democratic Alliance mayor of Tshwane, South Africa, rejects a fleet of luxury cars for himself and instead donates it to the city's police. ](/news/2016/09/8/solly-msimanga-newly-elected-democratic-alliance-mayor-of-tshwane-south-africa-rejects-a-fleet-of-luxury-cars-for-himself-and-instead-don.md)
-_Context: Tshwane, Solly Msimanga, luxury cars, South Africa, Democratic Alliance_
+_Context: luxury cars, South Africa, Democratic Alliance, Solly Msimanga, Tshwane_
 
 ##### International banking company
 ### [International banking company Wells Fargo agrees to pay $190 million, including $100 million to the U.S. Consumer Financial Protection Bureau (largest ever for the agency), to settle a case involving deceptive sales that pushed customers into fee-generating accounts they never requested. The bank fired 5,300 employees over "inappropriate sales conduct." The firings took place over a five-year period. ](/news/2016/09/8/international-banking-company-wells-fargo-agrees-to-pay-190-million-including-100-million-to-the-u-s-consumer-financial-protection-burea.md)
@@ -23,7 +23,7 @@ Wells Fargo has long been the envy of the banking industry for its ability to se
 ### [German scientists confirm that the cause of the Great Plague of London from 1665&ndash;1666 was "Yersinia pestis" (cause of the Bubonic plague). ](/news/2016/09/8/german-scientists-confirm-that-the-cause-of-the-great-plague-of-london-from-1665-ndash-1666-was-yersinia-pestis-cause-of-the-bubonic-plag.md)
 DNA testing has for the first time confirmed the identity of the bacteria behind the Great Plague of London.
 
-##### drug crackdown
+##### Drug crackdown
 ### [Budi Waseso, head of Indonesia's National Narcotics Agency (BNN, Badan Narkotika Nasional, says he plans on copying Rodrigo Duterte's hardline tactics against drug traffickers, which have killed almost 3,000 people in the Philippines. ](/news/2016/09/8/budi-waseso-head-of-indonesia-s-national-narcotics-agency-bnn-badan-narkotika-nasional-says-he-plans-on-copying-rodrigo-duterte-s-hardli.md)
 Indonesia&#039;s anti-drugs chief says he supports implementing a bloody crackdown on traffickers like the war on crime in the Philippines.
 
@@ -79,9 +79,9 @@ The mission has been described as a ‘slow high-five’ with a nearby asteroid 
 ### [The Earth has lost a tenth of its wilderness in the last two decades. ](/news/2016/09/8/the-earth-has-lost-a-tenth-of-its-wilderness-in-the-last-two-decades.md)
 _Context: wilderness, Earth_
 
-##### genus
+##### Genus
 ### [Genetic tests show that the genus giraffa, previously thought to contain one extant species, actually consists of four. ](/news/2016/09/8/genetic-tests-show-that-the-genus-giraffa-previously-thought-to-contain-one-extant-species-actually-consists-of-four.md)
-_Context: giraffa, genus_
+_Context: genus, giraffa_
 
 ## [Previous Day...](/news/2016/09/7/index.md)
 

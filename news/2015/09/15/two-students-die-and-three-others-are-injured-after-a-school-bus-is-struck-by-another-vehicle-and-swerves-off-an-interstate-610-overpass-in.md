@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/15/two-students-die-and-three-others-are-injured-a
 
 ### [2015-09-15](/news/2015/09/15/index.md)
 
-##### school bus
+##### School bus
 # Two students die and three others are injured after a school bus is struck by another vehicle and swerves off an Interstate 610 overpass in Houston, Texas. 
 
 Two students died and two others were hurt along with their bus driver Tuesday morning when a crash caused their school bus to plunge from Loop 610 in southeast Houston, officials said.

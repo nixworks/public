@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/3/nine-children-die-in-a-suicide-bombing-near-the-
 
 ### [2013-08-3](/news/2013/08/3/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Nine children die in a suicide bombing near the Indian consulate in the Afghan city of Jalalabad. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/21/the-pakistani-taliban-claims-to-have-shot-down-
 
 ### [2014-09-21](/news/2014/09/21/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. 
 
 &quot;It&#039;s difficult to access what really happened...&quot; 

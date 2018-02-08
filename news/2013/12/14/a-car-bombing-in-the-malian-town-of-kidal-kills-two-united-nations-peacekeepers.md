@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/14/a-car-bombing-in-the-malian-town-of-kidal-kills
 
 ### [2013-12-14](/news/2013/12/14/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bombing in the Malian town of Kidal kills two United Nations peacekeepers. 
 
 Two UN peacekeepers are killed and others are injured in a car bomb blast in the north-east Malian town of Kidal.

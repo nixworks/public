@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/14/index.html)  [JSON](2012/12/14/index.json)  [XML](201
 
 ##### Americans
 ### [American admiral James G. Stavridis, NATO's Supreme Allied Commander Europe claims that Scud missiles fired by Syria at rebel forces have landed "fairly close" to the border with Turkey. ](/news/2012/12/14/american-admiral-james-g-stavridis-nato-s-supreme-allied-commander-europe-claims-that-scud-missiles-fired-by-syria-at-rebel-forces-have-la.md)
-_Context: Scud missiles, Turkey, Americans, James G. Stavridis, Syria, admiral, Supreme Allied Commander Europe, NATO_
+_Context: Turkey, Scud missiles, Americans, Supreme Allied Commander Europe, James G. Stavridis, NATO, Syria, admiral_
 
 ##### Kenneth Kendall
 ### [Kenneth Kendall, who became the BBC's first in-vision television newsreader in 1955, dies aged 88. ](/news/2012/12/14/kenneth-kendall-who-became-the-bbc-s-first-in-vision-television-newsreader-in-1955-dies-aged-88.md)
@@ -27,7 +27,7 @@ Britain is again on flood alert today as high winds and heavy rainfall begin to 
 ### [A shooting at Sandy Hook Elementary School in Newtown, Connecticut, United States, leaves 28 people dead, including 20 children, 6 teachers, the shooter, and his mother. ](/news/2012/12/14/a-shooting-at-sandy-hook-elementary-school-in-newtown-connecticut-united-states-leaves-28-people-dead-including-20-children-6-teachers.md)
 A gunman kills 20 children and six adults at a primary school in Connecticut - in one of the deadliest mass shootings in recent US history.
 
-##### stabs 22 children
+##### Stabs 22 children
 ### [A 36-year-old man identified as Min Yingjun attacks an elderly woman with her own knife at her home, then stabs 22 children outside the nearby Chenpeng Village Primary School in Xinyang, Guangshan County, Henan, China. The attack on the children occurred as they were arriving for classes, and most of the victims are thought to be 6-11 years old. ](/news/2012/12/14/a-36-year-old-man-identified-as-min-yingjun-attacks-an-elderly-woman-with-her-own-knife-at-her-home-then-stabs-22-children-outside-the-near.md)
 A knife-wielding man injured 22 children and one adult outside a primary school in central China as students were arriving for classes Friday, police said, the latest in a series of periodic rampage attacks at Chinese schools and kindergartens.
 

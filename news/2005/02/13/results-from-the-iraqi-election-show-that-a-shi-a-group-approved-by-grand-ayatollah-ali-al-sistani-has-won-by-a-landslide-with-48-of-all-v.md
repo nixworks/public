@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/13/results-from-the-iraqi-election-show-that-a-shi
 
 ### [2005-02-13](/news/2005/02/13/index.md)
 
-##### legislative election
+##### Legislative election
 #  Results from the Iraqi election show that a Shi'a group approved by Grand Ayatollah Ali al-Sistani has won by a landslide with 48% of all votes cast. The nearest rival party, a Kurdish alliance of two parties, won 26% of the vote. The results will stand if not challenged within three days. 
 
 

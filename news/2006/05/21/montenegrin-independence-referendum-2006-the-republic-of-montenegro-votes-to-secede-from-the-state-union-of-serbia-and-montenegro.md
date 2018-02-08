@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/21/montenegrin-independence-referendum-2006-the-re
 
 ### [2006-05-21](/news/2006/05/21/index.md)
 
-##### dissolution
+##### Dissolution
 #  Montenegrin independence referendum, 2006: The Republic of Montenegro votes to secede from the State Union of Serbia and Montenegro. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/10/a-two-day-strike-by-the-united-kingdom-national
 
 ### [2009-06-10](/news/2009/06/10/index.md)
 
-##### strike
+##### Strike
 #  A two-day strike by the United Kingdom National Union of Rail, Maritime and Transport Workers disrupts train services in London. 
 
 

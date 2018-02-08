@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/29/index.html)  [JSON](2010/10/29/index.json)  [XML](201
 
 ##### George W. Bush
 ### [The memoir of George W. Bush reveals his initial belief that he had United Airlines Flight 93 shot down during the September 11 attacks in 2001. ](/news/2010/10/29/the-memoir-of-george-w-bush-reveals-his-initial-belief-that-he-had-united-airlines-flight-93-shot-down-during-the-september-11-attacks-in-2.md)
-_Context: United Airlines Flight 93, September 11 attacks, George W. Bush_
+_Context: September 11 attacks, George W. Bush, United Airlines Flight 93_
 
 ##### West Bank
 ### [Israeli soldiers fire tear gas and sound grenades to shut down rallies across the West Bank held to protest an annexation of land by Israel. The events are attended by Norwegian politicians Torunn Kanutte Husvik and Stine Renate Hheim. ](/news/2010/10/29/israeli-soldiers-fire-tear-gas-and-sound-grenades-to-shut-down-rallies-across-the-west-bank-held-to-protest-an-annexation-of-land-by-israel.md)
@@ -13,19 +13,19 @@ _Context: West Bank_
 
 ##### Israel
 ### [Israeli crossings authorities shut Gaza for the weekend. ](/news/2010/10/29/israeli-crossings-authorities-shut-gaza-for-the-weekend.md)
-_Context: Gaza Strip, Israel_
+_Context: Israel, Gaza Strip_
 
 ##### Shiite
 ### [A suicide bomber wearing an explosives belt kills at least 21 people, mostly Shiites, in Balad Ruz, the town north of Baghdad. ](/news/2010/10/29/a-suicide-bomber-wearing-an-explosives-belt-kills-at-least-21-people-mostly-shiites-in-balad-ruz-the-town-north-of-baghdad.md)
-_Context: Balad Ruz, Baghdad, Shiite_
+_Context: Shiite, Baghdad, Balad Ruz_
 
 ##### Islamist
 ### [At least one Islamist militant from the banned Islamic Movement of Uzbekistan is killed in an operation in Tajikistan. ](/news/2010/10/29/at-least-one-islamist-militant-from-the-banned-islamic-movement-of-uzbekistan-is-killed-in-an-operation-in-tajikistan.md)
-_Context: Islamic Movement of Uzbekistan, Tajikistan, Islamist_
+_Context: Tajikistan, Islamic Movement of Uzbekistan, Islamist_
 
 ##### Khadizai
 ### [20 militants are killed and six others wounded as helicopter gunships pound militant hideouts in Khadizai, Shahu Wam, Kasha and Saifal Dara areas of Orakzai tribal region of Pakistan. ](/news/2010/10/29/20-militants-are-killed-and-six-others-wounded-as-helicopter-gunships-pound-militant-hideouts-in-khadizai-shahu-wam-kasha-and-saifal-dara.md)
-_Context: Shahu Wam, Khadizai, Orakzai, Kasha, Pakistan, Saifal Dara_
+_Context: Orakzai, Pakistan, Kasha, Saifal Dara, Shahu Wam, Khadizai_
 
 ##### Mexico
 ### [At least nine Mexican police officers in the state of Jalisco are shot dead during an ambush with drug cartels, continuing a recent wave of violence connected to the Mexican Drug War. ](/news/2010/10/29/at-least-nine-mexican-police-officers-in-the-state-of-jalisco-are-shot-dead-during-an-ambush-with-drug-cartels-continuing-a-recent-wave-of.md)
@@ -33,11 +33,11 @@ At least nine Mexican police officers are shot and killed in an ambush - the six
 
 ##### Nigeria
 ### [Saboteurs attack an oil pipeline in Nigeria's Niger Delta, shutting in 4,000 barrels a day of crude oil production. ](/news/2010/10/29/saboteurs-attack-an-oil-pipeline-in-nigeria-s-niger-delta-shutting-in-4-000-barrels-a-day-of-crude-oil-production.md)
-_Context: Nigeria, Niger Delta_
+_Context: Niger Delta, Nigeria_
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants take control of a town on the border between Somalia, Ethiopia and Kenya from pro-government forces, following fighting that displaced 60,000 people. ](/news/2010/10/29/al-shabaab-militants-take-control-of-a-town-on-the-border-between-somalia-ethiopia-and-kenya-from-pro-government-forces-following-fighting.md)
-_Context: Ethiopia, Al-Shabaab, Kenya, Somalia_
+_Context: Ethiopia, Somalia, Al-Shabaab, Kenya_
 
 ##### Russia
 ### [Russian and American forces conduct their first joint anti-narcotics operation in Afghanistan. ](/news/2010/10/29/russian-and-american-forces-conduct-their-first-joint-anti-narcotics-operation-in-afghanistan.md)
@@ -51,7 +51,7 @@ North Korean troops have fired two shots across the border into South Korean ter
 ### [NATO is expected to reduce its peacekeeping force in Kosovo by half, citing improved security situation. ](/news/2010/10/29/nato-is-expected-to-reduce-its-peacekeeping-force-in-kosovo-by-half-citing-improved-security-situation.md)
 Nato says it will halve its force in Kosovo to 5,000 soldiers over the next few months because of improving security.
 
-##### suicide bombing
+##### Suicide bombing
 ### [The death toll from the suicide bombing of a cafe in the Diyala Governorate near Baghdad, Iraq reaches 22. ](/news/2010/10/29/the-death-toll-from-the-suicide-bombing-of-a-cafe-in-the-diyala-governorate-near-baghdad-iraq-reaches-22.md)
 The number of people killed whena suicide bomber attacked an Iraqi cafe northeast of Baghdad onFriday reached 22, with more than 45 injured, a provincialofficial said.
 
@@ -61,7 +61,7 @@ A &quot;suspicious object&quot; found to contain explosives at East Midlands Air
 
 ##### Parliament of New Zealand
 ### [The Parliament of New Zealand successfully amends New Zealand labour laws, as a part of a deal with Warner Bros. to keep the production of "The Hobbit" film project in the country. ](/news/2010/10/29/the-parliament-of-new-zealand-successfully-amends-new-zealand-labour-laws-as-a-part-of-a-deal-with-warner-bros-to-keep-the-production-of.md)
-_Context: ''The Hobbit'' film project, Warner Bros., Parliament of New Zealand_
+_Context: Warner Bros., Parliament of New Zealand, ''The Hobbit'' film project_
 
 ##### Kings of Leon
 ### [Kings of Leon are announced as headliner of the 30th anniversary of Ireland's Slane Concert, to be held at Slane Castle in May 2011. ](/news/2010/10/29/kings-of-leon-are-announced-as-headliner-of-the-30th-anniversary-of-ireland-s-slane-concert-to-be-held-at-slane-castle-in-may-2011.md)
@@ -69,15 +69,15 @@ American rock band The Kings of Leon have been confirmed as the headline act for
 
 ##### Wikimedia
 ### [Wikimedia, the owner of online encyclopedia Wikipedia, plans to open its first non-US office in India as it seeks to take advantage of the country's open Internet culture, the group tells AFP. ](/news/2010/10/29/wikimedia-the-owner-of-online-encyclopedia-wikipedia-plans-to-open-its-first-non-us-office-in-india-as-it-seeks-to-take-advantage-of-the-c.md)
-_Context: India, AFP, Internet, Wikimedia_
+_Context: Wikimedia, Internet, India, AFP_
 
 ##### Japan
 ### [Japan's Securities and Exchange Surveillance Commission and the Tokyo Stock Exchange investigate recent trading activity due to allegations of insider trading ahead of new share issues by Japanese companies. ](/news/2010/10/29/japan-s-securities-and-exchange-surveillance-commission-and-the-tokyo-stock-exchange-investigate-recent-trading-activity-due-to-allegations.md)
-_Context: Securities and Exchange Surveillance Commission, insider trading, Japan, Tokyo Stock Exchange_
+_Context: Securities and Exchange Surveillance Commission, Tokyo Stock Exchange, Japan, insider trading_
 
 ##### TeliaSonera
 ### [TeliaSonera, through its Nepal subsidiary Ncell, announces that a series of eight 3G wireless transmitters have been installed along the trail to base camps on Mount Everest, with coverage reaching the summit. ](/news/2010/10/29/teliasonera-through-its-nepal-subsidiary-ncell-announces-that-a-series-of-eight-3g-wireless-transmitters-have-been-installed-along-the-tra.md)
-_Context: Nepal, 3G, Ncell, TeliaSonera, Mount Everest_
+_Context: TeliaSonera, 3G, Mount Everest, Nepal, Ncell_
 
 ##### British Airways
 ### [British Airways reports a half-year profit of GBP158m, the first in two years. ](/news/2010/10/29/british-airways-reports-a-half-year-profit-of-gbp158m-the-first-in-two-years.md)
@@ -85,7 +85,7 @@ British Airways reports a profit of £158m, its first in two years, as the compa
 
 ##### German
 ### [German rail operator DB Fernverkehr conducts a test run of their high-speed Intercity-Express train inside the Channel Tunnel, with passengers on board. ](/news/2010/10/29/german-rail-operator-db-fernverkehr-conducts-a-test-run-of-their-high-speed-intercity-express-train-inside-the-channel-tunnel-with-passenge.md)
-_Context: Intercity-Express, German, Channel Tunnel, DB Fernverkehr_
+_Context: Intercity-Express, Channel Tunnel, DB Fernverkehr, German_
 
 ##### United States Court of Appeals for the Seventh Circuit
 ### [A U.S. Court of Appeals upholds the conviction of Conrad Black for one fraud count and one obstruction-of-justice charge, while reversing two other fraud counts on the basis of a Supreme Court decision last year. ](/news/2010/10/29/a-u-s-court-of-appeals-upholds-the-conviction-of-conrad-black-for-one-fraud-count-and-one-obstruction-of-justice-charge-while-reversing-tw.md)
@@ -113,11 +113,11 @@ Find the latest business news on Wall Street, jobs and the economy, the housing 
 
 ##### Iran
 ### [Iran says it is ready to resume international talks over its nuclear program "in a place and on a date convenient to both sides", says a letter to the European Union. ](/news/2010/10/29/iran-says-it-is-ready-to-resume-international-talks-over-its-nuclear-program-in-a-place-and-on-a-date-convenient-to-both-sides-says-a-let.md)
-_Context: nuclear program, European Union, Iran_
+_Context: European Union, nuclear program, Iran_
 
 ##### European Union
 ### [European Union leaders agree to reform of the Treaty of Lisbon to keep member states budget deficits in line at a two-day summit in Brussels, Belgium. ](/news/2010/10/29/european-union-leaders-agree-to-reform-of-the-treaty-of-lisbon-to-keep-member-states-budget-deficits-in-line-at-a-two-day-summit-in-brussels.md)
-_Context: Brussels, budget deficit, Treaty of Lisbon, European Union, Belgium_
+_Context: Belgium, Brussels, budget deficit, Treaty of Lisbon, European Union_
 
 ##### Foreign Minister
 ### [Foreign Ministers from Japan and China meet to try to resolve soured relations over a maritime territorial dispute. ](/news/2010/10/29/foreign-ministers-from-japan-and-china-meet-to-try-to-resolve-soured-relations-over-a-maritime-territorial-dispute.md)
@@ -125,7 +125,7 @@ A diplomatic spat between China and Japan over a group of disputed islands flare
 
 ##### United Nations
 ### [The UN Convention on Biological Diversity places a ban on geoengineering projects and experiments. ](/news/2010/10/29/the-un-convention-on-biological-diversity-places-a-ban-on-geoengineering-projects-and-experiments.md)
-_Context: Convention on Biological Diversity, geoengineering, United Nations_
+_Context: United Nations, geoengineering, Convention on Biological Diversity_
 
 ##### United Kingdom
 ### [A British man is sentenced to 18 weeks in prison for posting malicious and abusive messages on Facebook memorial sites, including the page for deceased reality TV star Jade Goody. ](/news/2010/10/29/a-british-man-is-sentenced-to-18-weeks-in-prison-for-posting-malicious-and-abusive-messages-on-facebook-memorial-sites-including-the-page-f.md)
@@ -141,7 +141,7 @@ Thousands of Argentines filed past a flag-draped coffin to pay their respects to
 
 ##### Burma
 ### [The Supreme Court in Burma hears an appeal from lawyers of Aung San Suu Kyi against her house arrest. ](/news/2010/10/29/the-supreme-court-in-burma-hears-an-appeal-from-lawyers-of-aung-san-suu-kyi-against-her-house-arrest.md)
-_Context: house arrest, Aung San Suu Kyi, Burma_
+_Context: Burma, Aung San Suu Kyi, house arrest_
 
 ## [Previous Day...](/news/2010/10/28/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/23/canadians-take-to-the-streets-to-protest-the-pr
 
 ### [2010-01-23](/news/2010/01/23/index.md)
 
-##### prorogation
+##### Prorogation
 # Canadians take to the streets to protest the prorogation of the 40th Canadian Parliament. 
 
 

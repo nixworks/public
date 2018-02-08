@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/16/at-least-33-coal-miners-are-trapped-in-a-mine-i
 
 ### [2007-04-16](/news/2007/04/16/index.md)
 
-##### coal
+##### Coal
 #  At least 33 coal miners are trapped in a mine in Baofeng county, Henan province, China. 
 
 

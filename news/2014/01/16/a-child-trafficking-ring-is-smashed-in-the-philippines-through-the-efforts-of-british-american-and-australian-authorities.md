@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/16/a-child-trafficking-ring-is-smashed-in-the-phil
 
 ### [2014-01-16](/news/2014/01/16/index.md)
 
-##### child trafficking
+##### Child trafficking
 # A child trafficking ring is smashed in the Philippines through the efforts of British, American, and Australian authorities. 
 
 

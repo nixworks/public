@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/6/43-us-states-report-an-epidemic-of-influenza-wit
 
 ### [2015-01-6](/news/2015/01/6/index.md)
 
-##### flu
+##### Flu
 # 43 US states report an epidemic of influenza, with 21 confirmed deaths. 
 
 

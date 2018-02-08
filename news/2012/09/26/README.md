@@ -7,13 +7,13 @@ Formats: [HTML](2012/09/26/index.html)  [JSON](2012/09/26/index.json)  [XML](201
 ### [Twin explosions near the headquarters of the Syrian Armed Forces in central Damascus kill at least four military guards. ](/news/2012/09/26/twin-explosions-near-the-headquarters-of-the-syrian-armed-forces-in-central-damascus-kill-at-least-four-military-guards.md)
 Rebels say dozens dead while Syrian military claims guards only wounded and top brass safe.
 
-##### unionize
+##### Unionize
 ### [Trade unions in Greece call a general strike in protest against continuing austerity measures. ](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in-protest-against-continuing-austerity-measures.md)
-_Context: unionize, general strike, Greece_
+_Context: unionize, Greece, general strike_
 
 ##### Russia
 ### [Russia and Japan schedule a sub-cabinet level meeting for October in Tokyo to discuss the Kuril Islands dispute. ](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.md)
-_Context: Russia, Japan, Tokyo, rival territorial claims_
+_Context: Tokyo, Japan, Russia, rival territorial claims_
 
 ##### Prime Minister of Japan
 ### [Prime Minister Yoshihiko Noda addresses the UNGA by stating that Japan is committed to a "peaceful solution" to its territorial disputes, but that it intends to "fulfill its responsibility" to protecting its sovereignty. ](/news/2012/09/26/prime-minister-yoshihiko-noda-addresses-the-unga-by-stating-that-japan-is-committed-to-a-peaceful-solution-to-its-territorial-disputes-bu.md)
@@ -25,7 +25,7 @@ Russian billionaire Alexander Lebedev was charged on Wednesday with hooliganism 
 
 ##### ANC Youth League
 ### [Expelled ANC Youth League president Julius Malema is charged with money laundering at a court in South Africa. ](/news/2012/09/26/expelled-anc-youth-league-president-julius-malema-is-charged-with-money-laundering-at-a-court-in-south-africa.md)
-_Context: money laundering, South Africa, ANC Youth League, Julius Malema_
+_Context: money laundering, Julius Malema, ANC Youth League, South Africa_
 
 ##### Turkey
 ### [A court ruling allows Turkey to ban access to the film "Innocence of Muslims". ](/news/2012/09/26/a-court-ruling-allows-turkey-to-ban-access-to-the-film-innocence-of-muslims.md)
@@ -37,7 +37,7 @@ Roisin Shortall has resigned as junior minister for health, over what she descri
 
 ##### Shinzo Abe
 ### [Former Japanese prime minister Shinzo Abe is elected the leader of the opposition Liberal Democratic Party. ](/news/2012/09/26/former-japanese-prime-minister-shinzo-abe-is-elected-the-leader-of-the-opposition-liberal-democratic-party.md)
-_Context: Shinzo Abe, Liberal Democratic Party_
+_Context: Liberal Democratic Party, Shinzo Abe_
 
 ## [Previous Day...](/news/2012/09/25/index.md)
 

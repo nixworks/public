@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/27/a-tropical-storm-watch-is-issued-for-tropical-s
 
 ### [2011-07-27](/news/2011/07/27/index.md)
 
-##### tropical storm
+##### Tropical storm
 # A tropical storm watch is issued for Tropical Storm Don in the US state of Texas between Port Mansfield north to San Luis Pass. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/25/a-vial-containing-drops-of-late-pope-john-paul-
 
 ### [2014-01-25](/news/2014/01/25/index.md)
 
-##### vial
+##### Vial
 # A vial containing drops of late Pope John Paul II's blood is stolen from the Church of San Pietro della Ienca in Abruzzo, Italy. 
 
 

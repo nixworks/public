@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/5/early-election-results-indicate-that-marc-ravalo
 
 ### [2006-12-5](/news/2006/12/5/index.md)
 
-##### election
+##### Election
 #  Early election results indicate that Marc Ravalomanana will be re-elected in a landslide as the President of Madagascar. 
 
 

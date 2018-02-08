@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/27/at-least-115-people-are-killed-in-a-government-
 
 ### [2011-02-27](/news/2011/02/27/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # At least 115 people are killed in a government offensive against Al-Qaeda linked militants in Somalia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter
 
 ### [2010-11-12](/news/2010/11/12/index.md)
 
-##### economic
+##### Economic
 # Eurozone economic growth slows in third quarter. 
 
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

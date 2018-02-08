@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/27/in-the-aftermath-of-the-sichuan-earthquake-the-
 
 ### [2008-05-27](/news/2008/05/27/index.md)
 
-##### deadly earthquake
+##### Deadly earthquake
 #  In the aftermath of the Sichuan earthquake, the People's Republic of China evacuates 100,000 people from Mianyang as engineers prepare to drain the landslide dam-created Tangjiashan Lake.
 
 

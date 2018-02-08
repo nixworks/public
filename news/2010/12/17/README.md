@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/17/index.html)  [JSON](2010/12/17/index.json)  [XML](201
 
 ##### Maoist
 ### [Maoist rebels abduct seven villagers in the Purulia district of India's West Bengal state. ](/news/2010/12/17/maoist-rebels-abduct-seven-villagers-in-the-purulia-district-of-india-s-west-bengal-state.md)
-_Context: West Bengal, Purulia, Maoist_
+_Context: West Bengal, Maoist, Purulia_
 
 ##### Pakistan
 ### [American missile attacks kill 57 suspected militants in a region in northwest Pakistan. ](/news/2010/12/17/american-missile-attacks-kill-57-suspected-militants-in-a-region-in-northwest-pakistan.md)
@@ -19,19 +19,19 @@ Partnership seen as &#039;vote of confidence&#039; in resource; billions to be s
 ### [The death toll from the Christmas Island wreck rises to 30 with many still missing. ](/news/2010/12/17/the-death-toll-from-the-christmas-island-wreck-rises-to-30-with-many-still-missing.md)
 _Context: Christmas Island, wreck_
 
-##### blizzards and widespread ice
+##### Blizzards and widespread ice
 ### [Further disruption is caused by blizzards and widespread ice in many parts of the United Kingdom, with more wintry weather forecast for the weekend. ](/news/2010/12/17/further-disruption-is-caused-by-blizzards-and-widespread-ice-in-many-parts-of-the-united-kingdom-with-more-wintry-weather-forecast-for-the.md)
 Blizzards and widespread ice in many parts of the UK are causing considerable disruption, with more wintry weather forecast for the weekend.
 
 ##### Cuba
 ### [Cuba is hit by a cold wave, and some locations register 50-year record low temperatures. ](/news/2010/12/17/cuba-is-hit-by-a-cold-wave-and-some-locations-register-50-year-record-low-temperatures.md)
-_Context: cold spell, Cuba_
+_Context: Cuba, cold spell_
 
 ##### Bolivia
 ### [Bolivia recognizes the State of Palestine. ](/news/2010/12/17/bolivia-recognizes-the-state-of-palestine.md)
 Fourth Latin American country recognizes Palestinian state, in line with 1967 borders
 
-##### government
+##### Government
 ### [The United Kingdom government announces plans to make prisoners serving less than four years eligible to vote. ](/news/2010/12/17/the-united-kingdom-government-announces-plans-to-make-prisoners-serving-less-than-four-years-eligible-to-vote.md)
 The government announces that prisoners serving fewer than four years will be eligible to vote, although a sentencing judge will be able to remove the right.
 
@@ -41,7 +41,7 @@ _Context: HIV, Cook Islands_
 
 ##### China
 ### [China launches 7th Beidou navigation satellite. ](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.md)
-_Context: Beidou, China_
+_Context: China, Beidou_
 
 ## [Previous Day...](/news/2010/12/16/index.md)
 

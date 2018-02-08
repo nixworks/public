@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/10/a-team-of-astronomers-working-on-the-yepun-tele
 
 ### [2004-09-10](/news/2004/09/10/index.md)
 
-##### astronomer
+##### Astronomer
 #  A team of astronomers working on the Yepun telescope in Chile believe they have made the first direct image of a planetary system beyond the solar system. The star, called 2M1207, is 230 light-years away and is much smaller and fainter than the Sun. 
 
 

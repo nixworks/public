@@ -23,9 +23,9 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 ### [An Italian rescue helicopter, carrying an injured skier from Gran Sasso d'Italia, crashes amid thick fog, killing six people. ](/news/2017/01/24/an-italian-rescue-helicopter-carrying-an-injured-skier-from-gran-sasso-d-italia-crashes-amid-thick-fog-killing-six-people.md)
 The helicopter had just picked up an injured skier from a resort in central Italy when it went down.
 
-##### kennel
+##### Kennel
 ### [ Fire destroys a kennel in Wasilla, Alaska, killing 46 Labrador Retrievers. Thirty-two other dogs survive the fire in the licensed shelter. ](/news/2017/01/24/fire-destroys-a-kennel-in-wasilla-alaska-killing-46-labrador-retrievers-thirty-two-other-dogs-survive-the-fire-in-the-licensed-shelter.md)
-_Context: Wasilla, Alaska, Labrador Retriever, kennel_
+_Context: kennel, Wasilla, Alaska, Labrador Retriever_
 
 ##### Police
 ### [Police discover US$20 million in a bed frame under a mattress at a Massachusetts home. The cash is believed to be linked to Telexfree, a pyramid scheme disguised as a company that claimed to provide internet phone services. A Brazilian man that police were following was charged in connection to the money. ](/news/2017/01/24/police-discover-us-20-million-in-a-bed-frame-under-a-mattress-at-a-massachusetts-home-the-cash-is-believed-to-be-linked-to-telexfree-a-pyr.md)
@@ -53,7 +53,7 @@ New deputy leader had previously vowed to prosecute ex-ruler Yahya Jammeh for al
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md)
-_Context: Donald Trump, U.S. President, Keystone XL, Dakota Access Pipeline, Presidency of Donald Trump_
+_Context: U.S. President, Dakota Access Pipeline, Presidency of Donald Trump, Donald Trump, Keystone XL_
 
 ## [Previous Day...](/news/2017/01/23/index.md)
 

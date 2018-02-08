@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/15/the-government-of-saudi-arabia-announces-plans-
 
 ### [2006-12-15](/news/2006/12/15/index.md)
 
-##### government
+##### Government
 #  The Government of Saudi Arabia announces plans to build a separation barrier between Saudi Arabia and Iraq. The barrier will cost $12 billion to build. 
 
 

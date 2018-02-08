@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/6/the-death-toll-from-floods-in-central-vietnam-ri
 
 ### [2010-10-6](/news/2010/10/6/index.md)
 
-##### flood
+##### Flood
 # The death toll from floods in central Vietnam rises to at least forty-nine. 
 
 The death toll from floods that devastated central Vietnam over recent days has reached at least 26, disaster officials say.

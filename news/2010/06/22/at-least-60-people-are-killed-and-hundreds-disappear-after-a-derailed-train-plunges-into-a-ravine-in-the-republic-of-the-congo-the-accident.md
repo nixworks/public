@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/22/at-least-60-people-are-killed-and-hundreds-disa
 
 ### [2010-06-22](/news/2010/06/22/index.md)
 
-##### yesterday's train crash
+##### Yesterday's train crash
 # At least 60 people are killed and hundreds disappear after a derailed train plunges into a ravine in the Republic of the Congo. The accident happened after the train left the coastal town of Pointe-Noire on the Chemin de Fer Congo Ocean (CFCO) line to the capital Brazzaville. 
 
 

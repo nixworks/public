@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/27/a-powerful-cyclone-hits-the-coast-of-southern-b
 
 ### [2004-03-27](/news/2004/03/27/index.md)
 
-##### cyclone
+##### Cyclone
 #  A powerful cyclone hits the coast of southern Brazil. Brazilian and U.S. meteorologists disagree over whether Cyclone Catarina is a hurricane, the first ever recorded in the South Atlantic. 
 
 

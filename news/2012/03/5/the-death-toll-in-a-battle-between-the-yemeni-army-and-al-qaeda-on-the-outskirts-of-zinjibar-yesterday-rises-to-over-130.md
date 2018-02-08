@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/5/the-death-toll-in-a-battle-between-the-yemeni-ar
 
 ### [2012-03-5](/news/2012/03/5/index.md)
 
-##### battle
+##### Battle
 # The death toll in a battle between the Yemeni Army and Al-Qaeda on the outskirts of Zinjibar yesterday rises to over 130. 
 
 

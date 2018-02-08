@@ -5,11 +5,11 @@ Formats: [HTML](2008/03/13/index.html)  [JSON](2008/03/13/index.json)  [XML](200
 
 ##### Darfur Conflict
 ### [ Darfur Conflict: Chad's President Idriss Deby and Sudan's President Omar al-Bashir meet in Senegal to sign the Dakar Agreement, the sixth peace agreement in five years. ](/news/2008/03/13/darfur-conflict-chad-s-president-idriss-da-c-by-and-sudan-s-president-omar-al-bashir-meet-in-senegal-to-sign-the-dakar-agreement-the-sixth.md)
-_Context: Sudan, Dakar Agreement, Idriss Deby, Senegal, President of Sudan, peace, President of Chad, Chad, Omar al-Bashir, Darfur Conflict_
+_Context: Dakar Agreement, Omar al-Bashir, Sudan, Senegal, peace, Idriss Deby, Chad, President of Chad, Darfur Conflict, President of Sudan_
 
 ##### Canadian House of Commons
 ### [ The Canadian House of Commons extends the Canadian military mission in Afghanistan until 2011. ](/news/2008/03/13/the-canadian-house-of-commons-extends-the-canadian-military-mission-in-afghanistan-until-2011.md)
-_Context: Afghanistan, military mission, Canadian House of Commons, Canadian Armed Forces_
+_Context: Canadian House of Commons, Canadian Armed Forces, Afghanistan, military mission_
 
 ##### Mar Paulos Faraj Rahho
 ### [ The body of Mar Paulos Faraj Rahho, the Chaldean Catholic archbishop of Mosul who was kidnapped in Iraq on February 29, is found in a shallow grave close to the city. ](/news/2008/03/13/the-body-of-mar-paulos-faraj-rahho-the-chaldean-catholic-archbishop-of-mosul-who-was-kidnapped-in-iraq-on-february-29-is-found-in-a-shall.md)
@@ -17,13 +17,13 @@ A Chaldean Catholic archbishop who was kidnapped in Iraq last month was found de
 
 ##### Gold prices
 ### [ The price of gold reaches $1000 per troy ounce for the first time. ](/news/2008/03/13/the-price-of-gold-reaches-1000-per-troy-ounce-for-the-first-time.md)
-_Context: Gold prices, gold, $, troy ounce_
+_Context: troy ounce, $, Gold prices, gold_
 
 ##### Serbia
 ### [ Serbian President Boris Tadic disbands parliament and calls an early general election for May 11. ](/news/2008/03/13/serbian-president-boris-tadia-disbands-parliament-and-calls-an-early-general-election-for-may-11.md)
-_Context: Serbia, parliament, Boris Tadic, President of Serbia, May 11, parliamentary election_
+_Context: Serbia, Boris Tadic, parliament, May 11, President of Serbia, parliamentary election_
 
-##### primaries
+##### Primaries
 ### [ Democratic Party (United States) presidential primaries, 2008: Geraldine Ferraro resigns from the Clinton campaign after making comments that "if Obama was a white man, he would not be in this position." ](/news/2008/03/13/democratic-party-united-states-presidential-primaries-2008-geraldine-ferraro-resigns-from-the-clinton-campaign-after-making-comments-th.md)
 In an interview, Geraldine A. Ferraro said that she stood by her controversial remarks, and accused the Obama campaign of deliberate distortion.
 
@@ -33,15 +33,15 @@ The dollar extended losses late on Thursday, hitting fresh record lows against t
 
 ##### Melbourne
 ### [ Melbourne, Adelaide and Hobart experience some of their warmest weather of record for this season as result of an Australian autumn heatwave. ](/news/2008/03/13/melbourne-adelaide-and-hobart-experience-some-of-their-warmest-weather-of-record-for-this-season-as-result-of-an-australian-autumn-heatwav.md)
-_Context: Adelaide, Hobart, Melbourne_
+_Context: Melbourne, Adelaide, Hobart_
 
 ##### European Union
 ### [ Leaders of the European Union meet in Brussels, Belgium with climate change and energy security dominating the agenda. ](/news/2008/03/13/leaders-of-the-european-union-meet-in-brussels-belgium-with-climate-change-and-energy-security-dominating-the-agenda.md)
-_Context: Belgium, European Union, energy security, Brussels, climate change_
+_Context: Belgium, climate change, energy security, Brussels, European Union_
 
 ##### Turkey
 ### [ Turkish prosecutor Abdurrahman Yalcinkaya asks the Constitutional Court of Turkey to ban the ruling Justice and Development Party for anti-secular activities. ](/news/2008/03/13/turkish-prosecutor-abdurrahman-yalassa-nkaya-asks-the-constitutional-court-of-turkey-to-ban-the-ruling-justice-and-development-party-for-ant.md)
-_Context: secular, Constitutional Court of Turkey, Turkey, ruling party, Abdurrahman Yalcinkaya_
+_Context: ruling party, Turkey, secular, Constitutional Court of Turkey, Abdurrahman Yalcinkaya_
 
 ## [Previous Day...](/news/2008/03/12/index.md)
 

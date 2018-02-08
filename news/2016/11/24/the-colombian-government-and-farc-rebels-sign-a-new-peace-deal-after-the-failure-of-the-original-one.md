@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
-##### lasting peace
+##### Lasting peace
 # The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. 
 
 

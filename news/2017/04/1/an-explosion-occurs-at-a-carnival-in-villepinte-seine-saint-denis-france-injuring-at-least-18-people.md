@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/1/an-explosion-occurs-at-a-carnival-in-villepinte-
 
 ### [2017-04-1](/news/2017/04/1/index.md)
 
-##### carnival
+##### Carnival
 # An explosion occurs at a carnival in Villepinte, Seine-Saint-Denis, France, injuring at least 18 people. 
 
 A huge explosion rocked a popular French carnival, injuring at least 18 people. Onlookers were hit by chunks of burning wood and other debris after the fireball erupted from the guy-style figure known as Mr Carnival which was made of straw and wood. &quot;Many are injured in the face, and all are in hospital,&quot; said Nathalie Crespin, a spokeswoman for the Paris fire brigade, adding that five were &quot;in a very bad way.&quot; 

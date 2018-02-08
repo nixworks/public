@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/24/a-bomb-is-discovered-on-a-tgv-railway-between-p
 
 ### [2004-03-24](/news/2004/03/24/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb is discovered on a TGV railway between Paris and Geneva near Troyes, France. 
 
 

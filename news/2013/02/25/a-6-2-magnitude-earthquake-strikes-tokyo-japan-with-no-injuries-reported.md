@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/25/a-6-2-magnitude-earthquake-strikes-tokyo-japan-
 
 ### [2013-02-25](/news/2013/02/25/index.md)
 
-##### magnitude
+##### Magnitude
 # A 6.2 magnitude earthquake strikes Tokyo, Japan, with no injuries reported. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/3/suspected-militants-throw-a-grenade-at-a-vehicle
 
 ### [2013-04-3](/news/2013/04/3/index.md)
 
-##### paramilitary group
+##### Paramilitary group
 # Suspected militants throw a grenade at a vehicle carrying paramilitary security officers in southern Pakistan, killing three people and wounding three others. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

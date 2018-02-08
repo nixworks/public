@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hi
 
 ### [2010-09-19](/news/2010/09/19/index.md)
 
-##### northern India
+##### Northern India
 # Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. 
 
 At Least 47 People Killed as Villages Devastated by Falling Boulders, Residents Swept Away by Floodwaters

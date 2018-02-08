@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/11/the-death-toll-from-flooding-in-indonesia-reach
 
 ### [2010-10-11](/news/2010/10/11/index.md)
 
-##### flood
+##### Flood
 # The death toll from flooding in Indonesia reaches 145 with West Papua most heavily affected. 
 
 

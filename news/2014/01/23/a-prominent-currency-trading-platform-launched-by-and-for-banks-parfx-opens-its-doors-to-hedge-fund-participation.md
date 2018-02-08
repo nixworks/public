@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/23/a-prominent-currency-trading-platform-launched-
 
 ### [2014-01-23](/news/2014/01/23/index.md)
 
-##### currency trading
+##### Currency trading
 # A prominent currency trading platform launched by and for banks, ParFX, opens its doors to hedge fund participation. 
 
 ParFX, a currency trading platform launched to curb the advantage of high-frequency traders, will allow hedge funds to join banks in its trade to increase liquidity and create a wider trading community.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/1/a-suicide-bomb-attack-kills-10-people-including-
 
 ### [2008-12-1](/news/2008/12/1/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb attack kills 10 people, including two policemen, in the southern province in Helmand in Afghanistan. 
 
 

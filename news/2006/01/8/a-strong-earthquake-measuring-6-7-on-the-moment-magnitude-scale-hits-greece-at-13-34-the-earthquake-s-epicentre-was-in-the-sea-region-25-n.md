@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/8/a-strong-earthquake-measuring-6-7-on-the-moment-
 
 ### [2006-01-8](/news/2006/01/8/index.md)
 
-##### earthquake
+##### Earthquake
 #  A strong earthquake measuring 6.7 on the moment magnitude scale hits Greece at 13:34. The earthquake's epicentre was in the sea region 25&nbsp;km east of the island of Kythira, about 200&nbsp;km south of Athens. Although it was felt as far as Sicily, south Italy, Egypt, and Amman in Jordan, it was not disastrous due to its deep hypocentre and the sea-bed epicentre. Little damage (mainly in Kythira) and few light injuries are reported. 
 
 

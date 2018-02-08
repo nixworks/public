@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/30/scientists-announce-that-a-green-meteorite-nort
 
 ### [2013-03-30](/news/2013/03/30/index.md)
 
-##### meteorite
+##### Meteorite
 # Scientists announce that a green meteorite Northwest Africa 7325, found in Morocco in 2012, may have originated on Mercury, which, if proven, would be the first known meteorite from that planet. 
 
 A strange, green meteorite called NWA 7325 may actually the first piece of Mercury ever found on Earth. Find out where the ancient meteorite was found. 

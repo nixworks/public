@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/7/a-nearly-25-year-study-published-today-in-paedia
 
 ### [2010-06-7](/news/2010/06/7/index.md)
 
-##### lesbian
+##### Lesbian
 # A nearly 25-year study published today in "Paediatrics" concludes that children raised in lesbian households are "psychologically well-adjusted" and have "fewer behavioral problems than their peers". 
 
 

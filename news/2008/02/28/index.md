@@ -13,7 +13,7 @@ _Context: Gaza Strip, Israeli Air Force_
 
 ##### Ecuador
 ### [ Ecuador suspends oil exports after a landslide cuts off its main pipeline. ](/news/2008/02/28/ecuador-suspends-oil-exports-after-a-landslide-cuts-off-its-main-pipeline.md)
-_Context: petroleum, Ecuador, landslide, line_
+_Context: Ecuador, petroleum, landslide, line_
 
 ##### Prince Henry of Wales
 ### [ International media report that Prince Henry of Wales has been serving in the Helmand province of Afghanistan. ](/news/2008/02/28/international-media-report-that-prince-henry-of-wales-has-been-serving-in-the-helmand-province-of-afghanistan.md)
@@ -21,15 +21,15 @@ Prince Harry has been secretly serving in Afghanistan with British troops since 
 
 ##### FBI
 ### [ The Federal Bureau of Investigation will review a denial by baseball star Roger Clemens that he ever used steroids or human growth hormone. ](/news/2008/02/28/the-federal-bureau-of-investigation-will-review-a-denial-by-baseball-star-roger-clemens-that-he-ever-used-steroids-or-human-growth-hormone.md)
-_Context: baseball, human growth hormone, Roger Clemens, FBI, anabolic steroid_
+_Context: baseball, Roger Clemens, anabolic steroid, FBI, human growth hormone_
 
-##### explosion
+##### Explosion
 ### [ A large explosion hits a shopping mall in Waukegan, Illinois. ](/news/2008/02/28/a-large-explosion-hits-a-shopping-mall-in-waukegan-illinois.md)
-_Context: Waukegan, Illinois, explosion, shopping mall_
+_Context: explosion, shopping mall, Waukegan, Illinois_
 
-##### militant
+##### Militant
 ### [ At least ten militants are killed in a rocket attack on a house in the Pakistani village of Kalosha in South Waziristan near the Afghanistan border. ](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-attack-on-a-house-in-the-pakistani-village-of-kalosha-in-south-waziristan-near-the-afghanista.md)
-_Context: Kalosha, South Waziristan, rocket, Pakistan, militant, Afghanistan_
+_Context: South Waziristan, rocket, militant, Kalosha, Pakistan, Afghanistan_
 
 ##### Prime Minister
 ### [ The former Prime Minister of Thailand Thaksin Shinawatra returns to Thailand to face corruption charges. ](/news/2008/02/28/the-former-prime-minister-of-thailand-thaksin-shinawatra-returns-to-thailand-to-face-corruption-charges.md)
@@ -37,7 +37,7 @@ _Context: Thaksin Shinawatra, Thailand, Prime Minister_
 
 ##### Kofi Annan
 ### [ Kofi Annan announces that Kenyan President Mwai Kibaki and opposition leader Raila Odinga have agreed to form a coalition government to resolve the country's political crisis. ](/news/2008/02/28/kofi-annan-announces-that-kenyan-president-mwai-kibaki-and-opposition-leader-raila-odinga-have-agreed-to-form-a-coalition-government-to-res.md)
-_Context: Kenya, president, post-election violence, Mwai Kibaki, Raila Odinga, Kofi Annan, coalition_
+_Context: coalition, Kenya, Mwai Kibaki, Raila Odinga, post-election violence, president, Kofi Annan_
 
 ##### 
 ### [ Applied mathematicians at Brown University have ](/news/2008/02/28/applied-mathematicians-at-brown-university-have.md)

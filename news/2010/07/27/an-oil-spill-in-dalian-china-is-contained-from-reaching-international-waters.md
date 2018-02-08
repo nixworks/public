@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/27/an-oil-spill-in-dalian-china-is-contained-from-
 
 ### [2010-07-27](/news/2010/07/27/index.md)
 
-##### oil spill
+##### Oil spill
 # An oil spill in Dalian, China, is contained from reaching international waters. 
 
 

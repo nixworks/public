@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/6/the-price-of-a-barrel-of-crude-oil-rises-a-singl
 
 ### [2008-06-6](/news/2008/06/6/index.md)
 
-##### crude oil
+##### Crude oil
 #  The price of a barrel of crude oil rises a single-day record of nearly US$11, settling at a new record of US$138.54. 
 
 

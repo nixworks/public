@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/28/one-person-is-killed-and-eleven-are-injured-in-
 
 ### [2010-06-28](/news/2010/06/28/index.md)
 
-##### derailment
+##### Derailment
 # One person is killed and eleven are injured in a derailment at Usti nad Labem, Czech Republic. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/19/british-police-resume-the-search-for-four-peopl
 
 ### [2015-07-19](/news/2015/07/19/index.md)
 
-##### police
+##### Police
 # British police resume the search for four people missing after an explosion at a mill in Cheshire. 
 
 Four people who are feared dead after an explosion at a wood treatment works in Cheshire are named by police, who say they are still hunting for signs of life.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/24/during-a-phone-call-between-u-s-president-donal
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # During a phone call between U.S. president Donald Trump and Philippine president Rodrigo Duterte, Trump allegedly congratulates Duterte on his drug war, which has been widely criticized for its brutality by human rights organizations. 
 
 

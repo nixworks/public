@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/27/at-least-30-people-are-killed-and-100-injured-i
 
 ### [2007-10-27](/news/2007/10/27/index.md)
 
-##### flood
+##### Flood
 #  At least 30 people are killed and 100 injured in flooding in the Democratic Republic of the Congo. 
 
 

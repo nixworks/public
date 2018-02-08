@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/14/u-s-forces-in-iraq-raid-a-warehouse-in-mosul-th
 
 ### [2005-08-14](/news/2005/08/14/index.md)
 
-##### coalition forces
+##### Coalition forces
 #  U.S. forces in Iraq raid a warehouse in Mosul. They uncover a suspected chemical weapons factory. 
 
 

@@ -31,7 +31,7 @@ _Context: Thailand_
 ### [The British Ministry of Defence suspends training flights in aircraft with ejector seats similar to that which killed a Red Arrows pilot on Tuesday. ](/news/2011/11/9/the-british-ministry-of-defence-suspends-training-flights-in-aircraft-with-ejector-seats-similar-to-that-which-killed-a-red-arrows-pilot-on.md)
 The MoD suspends training flights in aircraft with ejector seats like the one in which Red Arrows pilot Flt Lt Sean Cunningham died.
 
-##### earthquake
+##### Earthquake
 ### [A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. ](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leading-to-the-collapse-of-numerous-buildings-the-tremor-comes-in-the-wake-of-last-month-s-des.md)
 More than a dozen buildings, including at least one hotel, collapsed.
 
@@ -49,13 +49,13 @@ Thousands of head teachers in England and Wales have voted in favour of strike a
 
 ##### San Francisco, California
 ### [Voters in San Francisco, California, elect Ed Lee as the city's interim Mayor. Lee is the first Asian-American to become Mayor of San Francisco. ](/news/2011/11/9/voters-in-san-francisco-california-elect-ed-lee-as-the-city-s-interim-mayor-lee-is-the-first-asian-american-to-become-mayor-of-san-franci.md)
-_Context: California, Mayor of San Francisco, Asian-American, Ed Lee, San Francisco, California_
+_Context: Ed Lee, Mayor of San Francisco, Asian-American, San Francisco, California, California_
 
 ##### Russia
 ### [Russia's Fobos-Grunt mission to the Martian moon of Phobos runs into problems shortly after its launch, with no telemetry reported from the spacecraft. ](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.md)
 Russia&#39;s bid for its first interplanetary mission in 15 years went awry on Wednesday when an unmanned spacecraft failed to take the proper course toward Mars after its launch.
 
-##### nanoscopic
+##### Nanoscopic
 ### [Dutch scientists build a nanoscopic electric car made of a single complex molecule. Currently the world's smallest vehicle, the nanocar is capable of travelling small distances when an electric current is applied to it. ](/news/2011/11/9/dutch-scientists-build-a-nanoscopic-electric-car-made-of-a-single-complex-molecule-currently-the-world-s-smallest-vehicle-the-nanocar-is-c.md)
 Scientists report the design and test-driving of a single molecule with four &quot;wheels&quot;, powered by electron &quot;fuel&quot;.
 

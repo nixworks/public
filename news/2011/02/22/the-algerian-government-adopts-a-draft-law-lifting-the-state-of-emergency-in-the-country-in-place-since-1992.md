@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/22/the-algerian-government-adopts-a-draft-law-lift
 
 ### [2011-02-22](/news/2011/02/22/index.md)
 
-##### state of emergency
+##### State of emergency
 # The Algerian government adopts a draft law lifting the state of emergency in the country, in place since 1992. 
 
 

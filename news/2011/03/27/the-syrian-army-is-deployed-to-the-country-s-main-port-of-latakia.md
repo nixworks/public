@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/27/the-syrian-army-is-deployed-to-the-country-s-ma
 
 ### [2011-03-27](/news/2011/03/27/index.md)
 
-##### protestors
+##### Protestors
 # The Syrian Army is deployed to the country's main port of Latakia. 
 
 

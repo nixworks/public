@@ -9,9 +9,9 @@ _Context: Syria, humanitarian situation, Damascus, Government of Syria, Internat
 
 ##### New Zealand
 ### [New Zealand announces that it plans to withdraw its forces from Afghanistan's Bamiyan province by the end of April 2013. ](/news/2012/09/3/new-zealand-announces-that-it-plans-to-withdraw-its-forces-from-afghanistan-s-bamiyan-province-by-the-end-of-april-2013.md)
-_Context: New Zealand Defence Force, Afghanistan, New Zealand, Bamiyan_
+_Context: Bamiyan, New Zealand, New Zealand Defence Force, Afghanistan_
 
-##### car bomb
+##### Car bomb
 ### [A car bomb explodes near the U.S. consulate in the Pakistani city of Peshawar, killing at least three people and wounding up to 19 others. ](/news/2012/09/3/a-car-bomb-explodes-near-the-u-s-consulate-in-the-pakistani-city-of-peshawar-killing-at-least-three-people-and-wounding-up-to-19-others.md)
 Police say a bomber killed two people and himself when he hit a US consulate vehicle in Peshawar, Pakistan, but the US says no Americans died.
 
@@ -25,7 +25,7 @@ _Context: Los Angeles, Michael Clarke Duncan_
 
 ##### Jefferson Starship
 ### [Jefferson Starship guitarist Mark Abrahamian, aged 46, dies of a heart attack after a concert. ](/news/2012/09/3/jefferson-starship-guitarist-mark-abrahamian-aged-46-dies-of-a-heart-attack-after-a-concert.md)
-_Context: Jefferson Starship, Mark Abrahamian_
+_Context: Mark Abrahamian, Jefferson Starship_
 
 ##### Moody's Investors Service
 ### [The Moody's agency changes its outlook on the European Union's Aaa credit rating from stable to negative. ](/news/2012/09/3/the-moody-s-agency-changes-its-outlook-on-the-european-union-s-aaa-credit-rating-from-stable-to-negative.md)
@@ -35,13 +35,13 @@ Moody’s said the European Union’s rating would be particularly vulnerable to
 ### [The North Korean state news agency says "Typhoon-15" (Bolaven) left 48 people dead and caused major damage. ](/news/2012/09/3/the-north-korean-state-news-agency-says-typhoon-15-bolaven-left-48-people-dead-and-caused-major-damage.md)
 _Context: North Korea, Bolaven_
 
-##### Lebanon
+##### Lebanese
 ### [Lebanon bans smoking in closed public places like restaurants and cafs. ](/news/2012/09/3/lebanon-bans-smoking-in-closed-public-places-like-restaurants-and-cafes.md)
 Before heading to lunch or going out for drinks, find an ashtray and stub out that cigarette. Starting today, smoking is prohibited in all enclosed bars, restaurant and cafes in Lebanon in accordance with Law 174.
 
 ##### South Korea
 ### [South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. ](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.md)
-_Context: dispute, Liancourt Rocks, Japan, South Korea, first fleet_
+_Context: dispute, Liancourt Rocks, first fleet, Japan, South Korea_
 
 ##### DR Congo
 ### [The Democratic Republic of the Congo wants United Nations sanctions on Rwandese top military officials named in a June U.N. report as supporting the M23 rebels in the current east Congo conflict. ](/news/2012/09/3/the-democratic-republic-of-the-congo-wants-united-nations-sanctions-on-rwandese-top-military-officials-named-in-a-june-u-n-report-as-suppor.md)
@@ -51,7 +51,7 @@ Democratic Republic of Congo wants UN sanctions against top Rwandan generals for
 ### [Three hundred Hizb ut-Tahrir supporters protest in Jakarta ahead of Secretary of State Hillary Clinton's visit to Indonesia. ](/news/2012/09/3/three-hundred-hizb-ut-tahrir-supporters-protest-in-jakarta-ahead-of-secretary-of-state-hillary-clinton-s-visit-to-indonesia.md)
 Sep. 3 - More than 300 people from a hardline Muslim group protest in front of the U.S. embassy in Jakarta ahead of Hillary Clinton&#039;s visit to Indonesia. Sarah Sheffer reports.
 
-##### a creator
+##### A creator
 ### [Vorayuth Yoovidhya, the grandson of a creator of Red Bull, is arrested in Bangkok after an early morning hit-and-run that killed a police officer. ](/news/2012/09/3/vorayuth-yoovidhya-the-grandson-of-a-creator-of-red-bull-is-arrested-in-bangkok-after-an-early-morning-hit-and-run-that-killed-a-police-of.md)
 A grandson of the creator of the Red Bull energy drink has been arrested for driving a Ferrari that struck a police officer and dragged his dead body down a Bangkok street in an early-morning hit-and-run, police said.
 
@@ -63,9 +63,9 @@ A grandson of the creator of the Red Bull energy drink has been arrested for dri
 ### [Swaziland virgins perform an annual reed dance, paying homage to the king, pleasing tourists and compatriots. ](/news/2012/09/3/swaziland-virgins-perform-an-annual-reed-dance-paying-homage-to-the-king-pleasing-tourists-and-compatriots.md)
 Sep. 3 - Thousands of young virgins perform annual reed dance in Swaziland. Jessica Gray reports.
 
-##### beam
+##### Beam
 ### [Cracks in 3 of the 21 wooden beams of a European Parliament hemicycle roof lead to the temporary closure, among others, of the plenary debate room; parliamentary operations are reportedly unaffected. ](/news/2012/09/3/cracks-in-3-of-the-21-wooden-beams-of-a-european-parliament-hemicycle-roof-lead-to-the-temporary-closure-among-others-of-the-plenary-debat.md)
-_Context: beam, hemicycle roof_
+_Context: hemicycle roof, beam_
 
 ## [Previous Day...](/news/2012/09/2/index.md)
 

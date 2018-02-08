@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/6/an-autopsy-finds-that-the-death-of-united-states
 
 ### [2010-10-6](/news/2010/10/6/index.md)
 
-##### autopsy
+##### Autopsy
 # An autopsy finds that the death of United States actor Gary Coleman in Salt Lake City, Utah was an accident. 
 
 

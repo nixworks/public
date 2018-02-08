@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/11/president-luiz-ina-cio-lula-da-silva-signs-a-de
 
 ### [2010-08-11](/news/2010/08/11/index.md)
 
-##### president
+##### President
 # President Luiz Inacio Lula da Silva signs a decree promising Brazil's co-operation with United Nations sanctions against Iran. 
 
 

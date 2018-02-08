@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/6/ten-people-are-killed-in-a-clash-between-rival-d
 
 ### [2013-08-6](/news/2013/08/6/index.md)
 
-##### drug cartel
+##### Drug cartel
 # Ten people are killed in a clash between rival drug cartels in Honduras. 
 
 A shootout between rival drug gangs in Honduras leaves 17 people dead in a region infamous as a drugs transit route.

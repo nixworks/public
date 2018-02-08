@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/8/the-centre-right-european-people-s-party-increas
 
 ### [2009-06-8](/news/2009/06/8/index.md)
 
-##### centre-right
+##### Centre-right
 #  The centre-right European People's Party increases its plurality. 
 
 

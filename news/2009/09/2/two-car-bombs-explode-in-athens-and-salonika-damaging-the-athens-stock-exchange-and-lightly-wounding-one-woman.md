@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/2/two-car-bombs-explode-in-athens-and-salonika-dam
 
 ### [2009-09-2](/news/2009/09/2/index.md)
 
-##### car bombs
+##### Car bombs
 #  Two car bombs explode in Athens and Salonika, damaging the Athens Stock Exchange and lightly wounding one woman. 
 
 Two homemade bombs exploded this morning in the Greek cities of Athens and Salonika, injuring one woman.

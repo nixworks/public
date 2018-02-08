@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/4/a-suicide-bombing-at-a-funeral-in-the-eastern-af
 
 ### [2012-09-4](/news/2012/09/4/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a funeral in the eastern Afghan province of Nangarhar kills at least 25 people. 
 
 A suicide bomber attacks a funeral in the eastern Afghan province of Nangarhar, killing at least 25 civilians including the son of a district governor, officials say.

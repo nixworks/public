@@ -11,23 +11,23 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Houthi militants backed by Yemeni troops reportedly seize control of al-Rabu'ah, a town in Saudi Arabia's southwestern Asir region near the Yemeni border, forcing Saudi forces to pull out of the area. ](/news/2015/09/15/houthi-militants-backed-by-yemeni-troops-reportedly-seize-control-of-al-rabuaah-a-town-in-saudi-arabia-s-southwestern-asir-region-near-th.md)
 Yemeni Ansarullah fighters, backed by allied forces, seize al-Rabu’ah town in Saudi Arabia’s southwestern Asir region.
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 ### [The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. ](/news/2015/09/15/the-indonesian-province-of-riau-declares-a-state-of-emergency-due-to-high-levels-of-smoke-haze-from-forest-fires-in-riau-jambi-and-south-su.md)
 Indonesia has declared a haze emergency in Sumatra&#039;s Riau province, as the choking smoke surged way past already hazardous levels and forced thousands to flee Pekanbaru, Riau&#039;s capital, which is about 280km away from Singapore.. Read more at straitstimes.com.
 
-##### school bus
+##### School bus
 ### [Two students die and three others are injured after a school bus is struck by another vehicle and swerves off an Interstate 610 overpass in Houston, Texas. ](/news/2015/09/15/two-students-die-and-three-others-are-injured-after-a-school-bus-is-struck-by-another-vehicle-and-swerves-off-an-interstate-610-overpass-in.md)
 Two students died and two others were hurt along with their bus driver Tuesday morning when a crash caused their school bus to plunge from Loop 610 in southeast Houston, officials said.
 
-##### flash floods
+##### Flash floods
 ### [The death toll from yesterday's flash floods in the American towns of Hildale, Utah, and Colorado City, Arizona, rises to 12 with one person still missing. ](/news/2015/09/15/the-death-toll-from-yesterday-s-flash-floods-in-the-american-towns-of-hildale-utah-and-colorado-city-arizona-rises-to-12-with-one-person.md)
 Flash flooding triggered by a strong thunderstorm killed at least 12 people in southern Utah, authorities said early Tuesday.
 
-##### floatplane
+##### Floatplane
 ### [A floatplane crashes during takeoff near Iliamna in southwest Alaska, killing three people and injuring the other seven on board. ](/news/2015/09/15/a-floatplane-crashes-during-takeoff-near-iliamna-in-southwest-alaska-killing-three-people-and-injuring-the-other-seven-on-board.md)
 ANCHORAGE, Alaska (AP) - The day started out as a perfect Alaska excursion: Excited tourists heading for adventure at a remote fishing spot on a river.
 
-##### mountain climbers
+##### Mountain climbers
 ### [Seven mountain climbers die in an avalanche in the French Alps near the town of Pelvoux. ](/news/2015/09/15/seven-mountain-climbers-die-in-an-avalanche-in-the-french-alps-near-the-town-of-pelvoux.md)
 The avalanche occurred near the town of Pelvoux in southeast France.
 

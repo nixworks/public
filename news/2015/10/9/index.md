@@ -17,7 +17,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### 2015 Mina stampede
 ### [A new tally by the Associated Press places the death count from the Mina stampede at 1,453 killed making it the deadliest disaster ever to occur during the Hajj. ](/news/2015/10/9/a-new-tally-by-the-associated-press-places-the-death-count-from-the-mina-stampede-at-1-453-killed-making-it-the-deadliest-disaster-ever-to-o.md)
-_Context: 2015 Mina stampede, Associated Press, Hajj, disaster_
+_Context: disaster, 2015 Mina stampede, Hajj, Associated Press_
 
 ##### 2015 Guatemala landslide
 ### [The death toll from the landslides in Guatemala rises to 253 with 374 people still missing. ](/news/2015/10/9/the-death-toll-from-the-landslides-in-guatemala-rises-to-253-with-374-people-still-missing.md)
@@ -25,7 +25,7 @@ A hillside collapsed onto Santa Catarina Pinula on the south-eastern edge of Gua
 
 ##### Libyan Civil War (2014-present)
 ### [The United Nations envoy for Libya, Bernardino Leon, proposes a government of national unity for Libya led by Fayez Sarraj as Prime Minister. ](/news/2015/10/9/the-united-nations-envoy-for-libya-bernardino-lea3n-proposes-a-government-of-national-unity-for-libya-led-by-fayez-sarraj-as-prime-ministe.md)
-_Context: Libya, United Nations, Libyan Civil War (2014-present), Bernardino Leon, Libyan Prime Minister_
+_Context: Libyan Prime Minister, Bernardino Leon, Libyan Civil War (2014-present), Libya, United Nations_
 
 ##### Australia
 ### [Australia is to send refugees from Nauru and Manus Island to the Philippines. ](/news/2015/10/9/australia-is-to-send-refugees-from-nauru-and-manus-island-to-the-philippines.md)
@@ -33,11 +33,11 @@ Refugees who travelled to Australia by boat could be permanently resettled in th
 
 ##### Tunisian National Dialogue Quartet
 ### [The Tunisian National Dialogue Quartet wins the 2015 Nobel Peace Prize for its "decisive contribution to the building of a pluralistic democracy in Tunisia in the wake of the Jasmine Revolution of 2011." The Tunisian General Labour Union (UGTT), the Tunisian Confederation of Industry, Trade and Handicrafts (UTICA), the Tunisian Human Rights League (LTDH), and the Tunisian Order of Lawyers comprise the quartet. ](/news/2015/10/9/the-tunisian-national-dialogue-quartet-wins-the-2015-nobel-peace-prize-for-its-decisive-contribution-to-the-building-of-a-pluralistic-democ.md)
-_Context: Tunisia, Tunisian Order of Lawyers, Tunisian Human Rights League, Tunisian National Dialogue Quartet, Tunisian General Labour Union, Tunisian Confederation of Industry, Trade and Handicrafts, 2015 Nobel Peace Prize, Jasmine Revolution of 2011_
+_Context: Tunisian Confederation of Industry, Trade and Handicrafts, Tunisian Order of Lawyers, Tunisian General Labour Union, 2015 Nobel Peace Prize, Tunisian National Dialogue Quartet, Jasmine Revolution of 2011, Tunisian Human Rights League, Tunisia_
 
 ##### Territorial disputes in the South China Sea
 ### [China says it will "not stand for violations of its territorial waters in the name of freedom of navigation", following a statement from a Pentagon official, that the U.S. may consider sailing warships close to China's disputed artificial islands in the South China Sea within the next two weeks. ](/news/2015/10/9/china-says-it-will-not-stand-for-violations-of-its-territorial-waters-in-the-name-of-freedom-of-navigation-following-a-statement-from-a-p.md)
-_Context: China, Pentagon, South China Sea, Territorial disputes in the South China Sea, freedom of navigation, United States_
+_Context: Territorial disputes in the South China Sea, China, Pentagon, South China Sea, freedom of navigation, United States_
 
 ##### Northern Arizona University
 ### [One student is killed and three others wounded during an early morning shooting in a Northern Arizona University dorm in Flagstaff, Arizona. The suspected shooter was taken into custody. ](/news/2015/10/9/one-student-is-killed-and-three-others-wounded-during-an-early-morning-shooting-in-a-northern-arizona-university-dorm-in-flagstaff-arizona.md)

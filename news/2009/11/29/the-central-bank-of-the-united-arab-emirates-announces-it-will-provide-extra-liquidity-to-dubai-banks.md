@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/29/the-central-bank-of-the-united-arab-emirates-an
 
 ### [2009-11-29](/news/2009/11/29/index.md)
 
-##### central bank
+##### Central bank
 #  The central bank of the United Arab Emirates announces it will provide extra liquidity to Dubai banks. 
 
 Central Bank has issued a notice to the UAE banks and branches of foreign banks operating in the UAE making available to them a special additional liquidity facility linked to their current accounts at the Central bank at the rate of 50 basis points above the three months EIBOR 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-be
 
 ### [2013-02-26](/news/2013/02/26/index.md)
 
-##### sleep loss
+##### Sleep loss
 # A study finds that sleep loss can alter gene behavior, which may explain why it often precedes medical problems such as diabetes, obesity, and heart disease. 
 
 Just a week of inadequate sleep can alter the activity of hundreds of genes, which may help scientists explain how wakeful nights can lead to ailments such as diabetes, obesity and heart disease.

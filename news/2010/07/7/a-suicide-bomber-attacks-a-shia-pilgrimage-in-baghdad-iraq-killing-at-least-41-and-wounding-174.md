@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/7/a-suicide-bomber-attacks-a-shia-pilgrimage-in-ba
 
 ### [2010-07-7](/news/2010/07/7/index.md)
 
-##### series of bombings
+##### Series of bombings
 # A suicide bomber attacks a Shia pilgrimage in Baghdad, Iraq killing at least 41 and wounding 174. 
 
 More than 40 people are killed and 100 are wounded in a series of bomb attacks on Shia pilgrims in Baghdad, police say.

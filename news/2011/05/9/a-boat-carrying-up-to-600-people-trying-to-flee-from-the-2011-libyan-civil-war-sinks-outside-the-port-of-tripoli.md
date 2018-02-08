@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/9/a-boat-carrying-up-to-600-people-trying-to-flee-
 
 ### [2011-05-9](/news/2011/05/9/index.md)
 
-##### civil war
+##### Civil war
 # A boat carrying up to 600 people trying to flee from the 2011 Libyan civil war sinks outside the port of Tripoli. 
 
 A ship carrying up to 600 migrants trying to flee Libya has sunk just off the coast of the North African country, the U.N. Refugee Agency said Monday, citing witness accounts.

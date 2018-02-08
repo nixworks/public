@@ -9,7 +9,7 @@ At least 10 soldiers killed after a coordinated assault on an army base southwes
 
 ##### Insurgency in Jammu and Kashmir
 ### [At least 30 civilians have been killed by Indian Army soldiers as anti-government protests and violence spread across the state. ](/news/2016/07/11/at-least-30-civilians-have-been-killed-by-indian-army-soldiers-as-anti-government-protests-and-violence-spread-across-the-state.md)
-_Context: Indian Army, 2016 Kashmir unrest, Insurgency in Jammu and Kashmir_
+_Context: Indian Army, Insurgency in Jammu and Kashmir, 2016 Kashmir unrest_
 
 ##### Syrian Civil War
 ### [Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. ](/news/2016/07/11/rebels-in-aleppo-launch-an-assault-on-government-controlled-areas-in-the-city-this-comes-after-the-syrian-army-blocked-off-the-only-road-le.md)
@@ -29,11 +29,11 @@ Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica 
 
 ##### Flood
 ### [Floods resulting from the annual monsoon season cause 22 deaths and make 100,000 people homeless in India. ](/news/2016/07/11/floods-resulting-from-the-annual-monsoon-season-cause-22-deaths-and-make-100-000-people-homeless-in-india.md)
-_Context: monsoon, India, Flood_
+_Context: India, Flood, monsoon_
 
 ##### Lockheed C-130 Hercules
 ### [A Lockheed C-130 Hercules owned by the Portuguese Armed Forces catches fire while taking off from Montijo Air Base, killing at least three people. ](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portuguese-armed-forces-catches-fire-while-taking-off-from-montijo-air-base-killing-at-least-three-p.md)
-_Context: Montijo Air Base, Portuguese Armed Forces, Lockheed C-130 Hercules_
+_Context: Portuguese Armed Forces, Lockheed C-130 Hercules, Montijo Air Base_
 
 ##### St. Joseph courthouse shooting
 ### [At least three people die, including the shooter, in a shooting at the Berrien County courthouse in the U.S. state of Michigan. ](/news/2016/07/11/at-least-three-people-die-including-the-shooter-in-a-shooting-at-the-berrien-county-courthouse-in-the-u-s-state-of-michigan.md)

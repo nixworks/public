@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/13/an-archaeological-expedition-from-indiana-unive
 
 ### [2007-12-13](/news/2007/12/13/index.md)
 
-##### archaeological
+##### Archaeological
 #  An archaeological expedition from Indiana University finds the remains of William Kidd's ship, the "Quedagh Merchant", believed to have sunk in 1699, near Catalina Island, Dominican Republic. 
 
 

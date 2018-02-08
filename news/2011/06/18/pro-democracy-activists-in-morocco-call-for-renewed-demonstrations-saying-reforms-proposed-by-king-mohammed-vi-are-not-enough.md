@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/18/pro-democracy-activists-in-morocco-call-for-ren
 
 ### [2011-06-18](/news/2011/06/18/index.md)
 
-##### democratic
+##### Democratic
 # Pro-democracy activists in Morocco call for renewed demonstrations, saying reforms proposed by King Mohammed VI are not enough. 
 
 

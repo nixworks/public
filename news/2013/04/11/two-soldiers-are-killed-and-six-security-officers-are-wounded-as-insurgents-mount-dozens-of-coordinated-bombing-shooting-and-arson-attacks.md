@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/two-soldiers-are-killed-and-six-security-office
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### bomb
+##### Bomb
 # Two soldiers are killed and six security officers are wounded as insurgents mount dozens of coordinated bombing, shooting and arson attacks in the Pattani region of Thailand. 
 
 

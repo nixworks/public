@@ -21,7 +21,7 @@ Bolivia suspends the operating licence of LaMia, the airline whose plane crashed
 
 ##### Ukrainian crisis
 ### [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md)
-_Context: Ukrainian crisis, Russia, Ukraine, Crimea, its intervention in Ukraine_
+_Context: Crimea, Ukraine, its intervention in Ukraine, Ukrainian crisis, Russia_
 
 ##### Israeli-Palestinian conflict
 ### [The Israeli Ministry of Transportation orders a bus company in Beersheba to remove Arabic-language advertisements on their buses following complaints from several Jewish residents. ](/news/2016/12/1/the-israeli-ministry-of-transportation-orders-a-bus-company-in-beersheba-to-remove-arabic-language-advertisements-on-their-buses-following-c.md)
@@ -51,13 +51,13 @@ _Context: North Carolina, North Carolina  gubernatorial election, 2016_
 ### [The Jill Stein-initiated recounts begin in Wisconsin. ](/news/2016/12/1/the-jill-stein-initiated-recounts-begin-in-wisconsin.md)
 _Context: Jill Stein, Wisconsin, 2016 United States presidential election recounts_
 
-##### last month's presidential election
+##### Last month's presidential election
 ### [Francois Hollande, the President of France, announces that he will not run in next year's presidential election. This leaves the selection of a candidate for the French Socialist Party wide open. ](/news/2016/12/1/franassois-hollande-the-president-of-france-announces-that-he-will-not-run-in-next-year-s-presidential-election-this-leaves-the-selection.md)
 Surprise move not to stand for a second term in upcoming presidential election throws selection of a Socialist candidate wide open
 
 ##### Presidential transition of Donald Trump
 ### [President-elect Donald Trump names retired United States Marine Corps general James Mattis as United States Secretary of Defense. ](/news/2016/12/1/president-elect-donald-trump-names-retired-united-states-marine-corps-general-james-mattis-as-united-states-secretary-of-defense.md)
-_Context: Presidential transition of Donald Trump, Donald Trump, James Mattis, United States Secretary of Defense, Marine_
+_Context: United States Secretary of Defense, Donald Trump, Marine, James Mattis, Presidential transition of Donald Trump_
 
 ##### Roscosmos
 ### [Roscosmos cargo spacecraft Progress MS-04 fails to dock with the International Space Station after experiencing a rocket failure. The spacecraft is believed to have mainly burnt up in the atmosphere. ](/news/2016/12/1/roscosmos-cargo-spacecraft-progress-ms-04-fails-to-dock-with-the-international-space-station-after-experiencing-a-rocket-failure-the-spacec.md)

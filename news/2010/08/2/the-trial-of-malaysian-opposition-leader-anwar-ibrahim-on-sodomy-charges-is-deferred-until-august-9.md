@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-i
 
 ### [2010-08-2](/news/2010/08/2/index.md)
 
-##### trial
+##### Trial
 # The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. 
 
 

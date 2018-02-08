@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/8/five-autonomous-robots-have-completed-the-2005-d
 
 ### [2005-10-8](/news/2005/10/8/index.md)
 
-##### autonomous robot
+##### Autonomous robot
 #  Five autonomous robots have completed the 2005 DARPA Grand Challenge, the winner (to be declared on Sunday) travelling the 132 mile course in less than 7.5 hours. 
 
 

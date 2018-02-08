@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/7/a-five-hour-transit-of-mercury-takes-place-an-ev
 
 ### [2003-05-7](/news/2003/05/7/index.md)
 
-##### transit of Mercury
+##### Transit of Mercury
 #  A five-hour transit of Mercury takes place, an event that occurs only 13 times per century on average.
 
 

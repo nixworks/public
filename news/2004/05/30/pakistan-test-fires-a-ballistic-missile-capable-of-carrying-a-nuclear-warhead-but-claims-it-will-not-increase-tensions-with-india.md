@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/30/pakistan-test-fires-a-ballistic-missile-capable
 
 ### [2004-05-30](/news/2004/05/30/index.md)
 
-##### ballistic missile
+##### Ballistic missile
 #  Pakistan test-fires a ballistic missile capable of carrying a nuclear warhead, but claims it will not increase tensions with India. 
 
 

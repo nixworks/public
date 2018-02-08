@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/12/india-becomes-the-latest-country-to-ban-the-pai
 
 ### [2013-06-12](/news/2013/06/12/index.md)
 
-##### dextropropoxyphene
+##### Dextropropoxyphene
 # India becomes the latest country to ban the pain killer dextropropoxyphene. 
 
 The government has banned the manufacture, sale and distribution of painkiller drug dextropropoxyphene, a drug that has been banned in various countries. “...Central Government hereby suspends manufac

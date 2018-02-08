@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/23/two-children-and-one-adult-are-stabbed-to-death
 
 ### [2009-01-23](/news/2009/01/23/index.md)
 
-##### stabbed
+##### Stabbed
 #  Two children and one adult are stabbed to death in an attack on a creche in Belgium. 
 
 

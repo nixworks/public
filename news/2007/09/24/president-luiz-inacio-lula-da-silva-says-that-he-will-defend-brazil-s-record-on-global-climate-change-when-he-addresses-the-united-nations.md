@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/24/president-luiz-inacio-lula-da-silva-says-that-h
 
 ### [2007-09-24](/news/2007/09/24/index.md)
 
-##### president
+##### President
 #  President Luiz Incio Lula da Silva says that he will defend Brazil's record on global climate change when he addresses the United Nations General Assembly this week. 
 
 

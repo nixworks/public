@@ -11,19 +11,19 @@ Malaysian navy commandos foil an attempted ship hijacking in the Gulf of Aden, r
 ### [One person is killed and two others are injured in alleged Israeli tank shelling in the Gaza Strip, though the Israel Defense Forces denied they attacked and estimated that the blast was a failed rocket launch. ](/news/2011/01/22/one-person-is-killed-and-two-others-are-injured-in-alleged-israeli-tank-shelling-in-the-gaza-strip-though-the-israel-defense-forces-denied.md)
 One killed and two injured in Israeli tank shelling in the Gaza strip.
 
-##### a pro-democracy march
+##### A pro-democracy march
 ### [Several people are injured and others are arrested as police break up a pro-democracy march in Algiers. ](/news/2011/01/22/several-people-are-injured-and-others-are-arrested-as-police-break-up-a-pro-democracy-march-in-algiers.md)
 Several injured as police disperse 300 people who defied a ban and attempted to demonstrate in capital, Algiers.
 
 ##### Mexico
 ### [Mexico says 10 suspected drug gang members were killed in shootout with soldiers in Valle Hermoso, Tamaulipas. ](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.md)
-_Context: Tamaulipas, Valle Hermoso, Mexico_
+_Context: Valle Hermoso, Mexico, Tamaulipas_
 
 ##### Russia
 ### [At least two people are killed in a blaze at a shopping centre in the southwest Russian city of Ufa. ](/news/2011/01/22/at-least-two-people-are-killed-in-a-blaze-at-a-shopping-centre-in-the-southwest-russian-city-of-ufa.md)
-_Context: Ufa, Russia_
+_Context: Russia, Ufa_
 
-##### death toll from flooding
+##### Death toll from flooding
 ### [The death toll from flooding in South Africa rises to 70 and more than 8,000 families are homeless. Five other nearby countries - Botswana, Mozambique, Namibia, Zambia and Zimbabwe - are threatened by killer heavy rains. ](/news/2011/01/22/the-death-toll-from-flooding-in-south-africa-rises-to-70-and-more-than-8-000-families-are-homeless-five-other-nearby-countries-botswana.md)
 At least 70 people have now died from flooding in South Africa, as heavy rains threaten countries from Mozambique to Namibia.
 
@@ -31,7 +31,7 @@ At least 70 people have now died from flooding in South Africa, as heavy rains t
 ### [Moqtada al-Sadr, an Iraqi Shia leader, returns to Iran. ](/news/2011/01/22/moqtada-al-sadr-an-iraqi-shia-leader-returns-to-iran.md)
 It is not immediately clear why the Shia leader left Iraq and how long he will stay in Iran.
 
-##### investigation into the murder of Joanna Yeates
+##### Investigation into the murder of Joanna Yeates
 ### [Dutch national Vincent Tabak is charged with the murder of Joanna Yeates, and will make his first court appearance on 24 January. ](/news/2011/01/22/dutch-national-vincent-tabak-is-charged-with-the-murder-of-joanna-yeates-and-will-make-his-first-court-appearance-on-24-january.md)
 A 32-year-old man is charged with murdering Bristol landscape architect Jo Yeates.
 
@@ -49,7 +49,7 @@ Prime Minister Sali Berisha of Albania says there will be no Tunisia-style upris
 
 ##### Tunisia
 ### [Tunisia's prime minister Mohamed Ghannouchi promises in a TV interview to leave politics "in the shortest possible timeframe" after elections to be held following President Zine El Abidine Ben Ali's recent fall. ](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.md)
-_Context: Tunisia, Mohamed Ghannouchi, demonstrations that toppled his regime, President of Tunisia, Zine El Abidine Ben Ali_
+_Context: demonstrations that toppled his regime, Tunisia, Mohamed Ghannouchi, President of Tunisia, Zine El Abidine Ben Ali_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen announces he is to make a "significant" statement on his leadership of the ruling Fianna Fail party in Dublin at 14:00, to be broadcast on television and radio. ](/news/2011/01/22/taoiseach-brian-cowen-announces-he-is-to-make-a-significant-statement-on-his-leadership-of-the-ruling-fianna-fa-il-party-in-dublin-at-14-0.md)
@@ -57,7 +57,7 @@ Irish Prime Minister Brian Cowenwill address the media at 1400 GMT on Saturday, 
 
 ##### H-II Transfer Vehicle
 ### [An unmanned Japanese H-II Transfer Vehicle HTV-2 Resupply Craft was launched atop the H-IIB rocket Saturday on a mission to deliver cargo to the International Space Station. ](/news/2011/01/22/an-unmanned-japanese-h-ii-transfer-vehicle-htv-2-resupply-craft-was-launched-atop-the-h-iib-rocket-saturday-on-a-mission-to-deliver-cargo-to.md)
-_Context: H-II Transfer Vehicle, International Space Station, H-IIB_
+_Context: H-IIB, H-II Transfer Vehicle, International Space Station_
 
 ## [Previous Day...](/news/2011/01/21/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/29/index.html)  [JSON](2016/02/29/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [At least 40 people are killed and 58 others wounded following a suicide bombing at a Shi'ite funeral in the city of Miqdadiyah, Diyala Governorate. ISIL claim responsibility for the attack. ](/news/2016/02/29/at-least-40-people-are-killed-and-58-others-wounded-following-a-suicide-bombing-at-a-shi-ite-funeral-in-the-city-of-miqdadiyah-diyala-gover.md)
-_Context: Diyala Governorate, ISIL, Shi'ites, Iraqi Civil War (2014-present), Miqdadiyah_
+_Context: Iraqi Civil War (2014-present), Diyala Governorate, Shi'ites, ISIL, Miqdadiyah_
 
 ##### China
 ### [China says it expects to lay off 1.8 million state workers in the coal and steel sectors, or about 15 percent of the industries' workforce, as part of efforts to reduce industrial overcapacity. ](/news/2016/02/29/china-says-it-expects-to-lay-off-1-8-million-state-workers-in-the-coal-and-steel-sectors-or-about-15-percent-of-the-industries-workforce.md)
@@ -21,7 +21,7 @@ Police have fired tear gas and stun grenades after a few hundred migrants angry 
 
 ##### Pakistan
 ### [Pakistani authorities hang Mumtaz Qadri for his role in the murder of reformist Punjab governor Salmaan Taseer in 2011. ](/news/2016/02/29/pakistani-authorities-hang-mumtaz-qadri-for-his-role-in-the-murder-of-reformist-punjab-governor-salmaan-taseer-in-2011.md)
-_Context: Mumtaz Qadri, Punjab Province, Salmaan Taseer, Pakistan_
+_Context: Salmaan Taseer, Mumtaz Qadri, Pakistan, Punjab Province_
 
 ##### Calais migrant crisis
 ### [Clashes break out inside the Calais jungle camp in the port city of Calais between migrants and riot police as officials attempted to evict hundreds of migrants from the southern section of the camp. Several tents and wooden shacks were set on fire by migrants. ](/news/2016/02/29/clashes-break-out-inside-the-calais-jungle-camp-in-the-port-city-of-calais-between-migrants-and-riot-police-as-officials-attempted-to-evict.md)
@@ -35,7 +35,7 @@ Four teenage students were injured after a 14-year-old classmate pulled a gun an
 ### [Former Prime Minister of Malaysia Mahathir Mohamad quits the ruling United Malays National Organisation due to concerns over "corruption" under current PM Najib Razak. ](/news/2016/02/29/former-prime-minister-of-malaysia-mahathir-mohamad-quits-the-ruling-united-malays-national-organisation-due-to-concerns-over-corruption-un.md)
  Malaysia&#039;s former prime minister Mahathir Mohamad said on Monday he is quitting the ruling United Malays National Organisation (UMNO) party, as it is being seen as &#034;supporting corruption&#034; under Prime Minister Najib Razak&#039;s leadership.
 
-##### email server
+##### Email server
 ### [The United States Department of State releases the final batch of emails recovered from the private server of former Secretary of State and Democratic Party front runner in the race for the nomination for the 2016 presidential election. ](/news/2016/02/29/the-united-states-department-of-state-releases-the-final-batch-of-emails-recovered-from-the-private-server-of-former-secretary-of-state-and.md)
 The State Department will release later today the final batch of emails from Hillary Clinton&#x27;s private server.
 

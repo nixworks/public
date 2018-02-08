@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/29/an-open-letter-from-about-30-rabbi-wives-causes
 
 ### [2010-12-29](/news/2010/12/29/index.md)
 
-##### rabbi
+##### Rabbi
 # An open letter from about 30 rabbi wives causes controversy due to its call for Israeli girls not to date Arabs or work in places that employ non-jews, three weeks after a similar letter urged Jews not to engage in property trade with non-Jews. 
 
 A letter published by a group of rabbis in Israel has sparked calls for their dismissal.

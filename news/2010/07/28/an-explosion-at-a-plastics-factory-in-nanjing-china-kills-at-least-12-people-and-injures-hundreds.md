@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/28/an-explosion-at-a-plastics-factory-in-nanjing-c
 
 ### [2010-07-28](/news/2010/07/28/index.md)
 
-##### explosion
+##### Explosion
 # An explosion at a plastics factory in Nanjing, China, kills at least 12 people and injures hundreds. 
 
 At least 12 people died and 15 were seriously injured on Wednesday after an explosion at an abandoned plastics and chemicals factory in the eastern Chinese city of Nanjing, state television said.

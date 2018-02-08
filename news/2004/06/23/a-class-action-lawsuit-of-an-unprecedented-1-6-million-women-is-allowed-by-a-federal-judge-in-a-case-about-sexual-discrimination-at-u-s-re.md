@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/23/a-class-action-lawsuit-of-an-unprecedented-1-6-
 
 ### [2004-06-23](/news/2004/06/23/index.md)
 
-##### class action
+##### Class action
 #  A class action lawsuit of an unprecedented 1.6 million women is allowed by a federal judge in a case about sexual discrimination at U.S. retailer Wal Mart. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/21/facing-impeachment-over-corruption-charges-gove
 
 ### [2004-06-21](/news/2004/06/21/index.md)
 
-##### impeachment
+##### Impeachment
 #  Facing impeachment over corruption charges, Governor John G. Rowland of Connecticut announces that he will resign, effective July 1. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/24/a-tornado-in-mississippi-kills-at-least-10-peop
 
 ### [2010-04-24](/news/2010/04/24/index.md)
 
-##### tornado
+##### Tornado
 # A tornado in Mississippi kills at least 10 people. 
 
 

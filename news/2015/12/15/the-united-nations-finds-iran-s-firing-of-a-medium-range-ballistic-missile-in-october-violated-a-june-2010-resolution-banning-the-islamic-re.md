@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/15/the-united-nations-finds-iran-s-firing-of-a-med
 
 ### [2015-12-15](/news/2015/12/15/index.md)
 
-##### nuclear program
+##### Nuclear program
 # The United Nations finds Iran's firing of a medium-range ballistic missile in October violated a June 2010 resolution banning the Islamic Republic from launches capable of delivering nuclear weapons. The test was not technically a violation of the July nuclear deal between Iran and six world powers. It's not known if the Security Council will take any action. 
 
 United Nations experts said in a new report on Tuesday the launch used ballistic missile technology banned under a June 2010 resolution.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/09/18/the-body-of-abducted-british-schoolgirl-amanda-
 
 ### [2002-09-18](/news/2002/09/18/index.md)
 
-##### kidnapped
+##### Kidnapped
 #  The body of abducted British schoolgirl Amanda Dowler is found in remote woodland in Yateley near Hampshire.
 
 

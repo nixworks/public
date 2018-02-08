@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/2/two-months-after-his-resignation-pope-emeritus-b
 
 ### [2013-05-2](/news/2013/05/2/index.md)
 
-##### resignation
+##### Resignation
 # Two months after his resignation, Pope Emeritus Benedict XVI returns to live in Vatican City at the Mater Ecclesiae. 
 
 Former Pope Benedict returns to a new home in the Vatican, two months after becoming the first pontiff to resign in 600 years.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/7/the-prime-minister-of-israel-ariel-sharon-has-be
 
 ### [2006-01-7](/news/2006/01/7/index.md)
 
-##### prime minister of Israel
+##### Prime minister of Israel
 #  The prime minister of Israel Ariel Sharon has been transferred to a radiography theater to undergo a CT scan to determine the level of pressure on his brain. 
 
 Cautious optimism: Hadassah Hospital director briefs reporters, says latest CT scan shows slight improvement but adds Prime Minister Sharon&#39;s condition still life-threatening; extent of damage to PM&#39;s brain unknown

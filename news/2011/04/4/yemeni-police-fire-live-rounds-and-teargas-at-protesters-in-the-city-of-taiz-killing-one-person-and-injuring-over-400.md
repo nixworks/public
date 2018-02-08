@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/yemeni-police-fire-live-rounds-and-teargas-at-pr
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### policemen
+##### Policemen
 # Yemeni police fire live rounds and teargas at protesters in the city of Taiz killing one person and injuring over 400. 
 
 Police and armed men in civilian clothes opened fire on anti-government demonstrators in the Yemeni cities of Taiz and Hudaida on Monday, witnesses said, as a drive to oust President Ali Abdullah Saleh gathered pace.

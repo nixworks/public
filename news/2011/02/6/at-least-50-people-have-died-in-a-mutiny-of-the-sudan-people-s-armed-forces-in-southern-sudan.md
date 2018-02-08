@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/6/at-least-50-people-have-died-in-a-mutiny-of-the-
 
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-##### mutinous soldiers
+##### Mutinous soldiers
 # At least 50 people have died in a mutiny of the Sudan People's Armed Forces in southern Sudan. 
 
 At least 30 soldiers have been killed in southern Sudan during internal fighting among troops of the national army, state officials said.

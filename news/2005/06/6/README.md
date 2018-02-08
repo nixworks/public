@@ -5,15 +5,15 @@ Formats: [HTML](2005/06/6/index.html)  [JSON](2005/06/6/index.json)  [XML](2005/
 
 ##### Syria
 ### [ Syrian vice-president Abdel-Halim Khaddam resigns during a Ba'ath party congress ](/news/2005/06/6/syrian-vice-president-abdel-halim-khaddam-resigns-during-a-ba-ath-party-congress.md)
-_Context: Syria, Abdel-Halim Khaddam, Ba'ath_
+_Context: Ba'ath, Abdel-Halim Khaddam, Syria_
 
 ##### Ethiopia
 ### [ In Ethiopia, police arrest more than 500 students who protest against the parliamentary elections. The ruling EPRDF party claims victory but official results have been delayed until July 8 due to complaints of electoral fraud and opposition protests ](/news/2005/06/6/in-ethiopia-police-arrest-more-than-500-students-who-protest-against-the-parliamentary-elections-the-ruling-eprdf-party-claims-victory-bu.md)
-_Context: EPRDF, 2005 elections, Ethiopia, July 8, electoral fraud_
+_Context: July 8, 2005 elections, electoral fraud, Ethiopia, EPRDF_
 
 ##### Burundi
 ### [ In Burundi, former rebel group Hutu Forces for the Defence of Democracy wins 75 out of 129 seats in municipal elections ](/news/2005/06/6/in-burundi-former-rebel-group-hutu-forces-for-the-defence-of-democracy-wins-75-out-of-129-seats-in-municipal-elections.md)
-_Context: Hutu Forces for the Defence of Democracy, Burundi_
+_Context: Burundi, Hutu Forces for the Defence of Democracy_
 
 ##### Kyrgyzstan
 ### [ In Kyrgyzstan, the top prosecutor issues an arrest warrant for the former prime minister Nikolai Tanayev for mishandling government funds ](/news/2005/06/6/in-kyrgyzstan-the-top-prosecutor-issues-an-arrest-warrant-for-the-former-prime-minister-nikolai-tanayev-for-mishandling-government-funds.md)
@@ -29,15 +29,15 @@ _Context: Debian GNU/Linux_
 
 ##### Apple Computer
 ### [ Apple Computer announces they would change the processors for their Macintosh computer lineup from IBM to Intel. - ](/news/2005/06/6/apple-computer-announces-they-would-change-the-processors-for-their-macintosh-computer-lineup-from-ibm-to-intel.md)
-_Context: Macintosh, IBM, Intel, Apple Computer_
+_Context: Apple Computer, Macintosh, Intel, IBM_
 
 ##### Condoleezza Rice
 ### [ U.S. Secretary of State Condoleezza Rice opened the 35th General Assembly meeting of the Organization of American States Sunday in Fort Lauderdale, Florida. Secretary Rice called on member states to do more to protect democracy in the region, and strengthen civil society. ](/news/2005/06/6/u-s-secretary-of-state-condoleezza-rice-opened-the-35th-general-assembly-meeting-of-the-organization-of-american-states-sunday-in-fort-lau.md)
-_Context: the state, Condoleezza Rice, Fort Lauderdale, Florida, Organization of American States_
+_Context: the state, Organization of American States, Condoleezza Rice, Fort Lauderdale, Florida_
 
 ##### ICC
 ### [ The International Criminal Court announces an investigation into crimes against humanity in Darfur ](/news/2005/06/6/the-international-criminal-court-announces-an-investigation-into-crimes-against-humanity-in-darfur.md)
-_Context: ICC, Darfur, crimes against humanity_
+_Context: Darfur, crimes against humanity, ICC_
 
 ##### Bolivia
 ### [ Protests against privatisation of essential utilities continue in Bolivia ](/news/2005/06/6/protests-against-privatisation-of-essential-utilities-continue-in-bolivia.md)
@@ -45,11 +45,11 @@ _Context: Bolivia_
 
 ##### Bougainville Island
 ### [ In Bougainville, Joseph Kabui is elected president of the autonomous government ](/news/2005/06/6/in-bougainville-joseph-kabui-is-elected-president-of-the-autonomous-government.md)
-_Context: autonomous government, Joseph Kabui, Bougainville Island_
+_Context: Bougainville Island, autonomous government, Joseph Kabui_
 
 ##### Australia
 ### [ In Australia, Chinese defector Chen Yonglin claims that the Australian government rejected his request for political asylum without interviewing him. China states that his claims about a large espionage ring in Australia are false ](/news/2005/06/6/in-australia-chinese-defector-chen-yonglin-claims-that-the-australian-government-rejected-his-request-for-political-asylum-without-intervi.md)
-_Context: espionage, Australia, Chen Yonglin, China, political asylum_
+_Context: Australia, espionage, China, Chen Yonglin, political asylum_
 
 ## [Previous Day...](/news/2005/06/5/index.md)
 

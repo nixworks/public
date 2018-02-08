@@ -17,7 +17,7 @@ President Bush intends to nominate Undersecretary of State John R. Bolton to be 
 
 ##### Hans Bethe
 ### [ Hans Bethe, Nobel Laureate in Physics, discoverer of stellar fusion, key participant in development of atomic and hydrogen bombs, outspoken critic of arms race and nuclear testing, died at age 98. wikinews ](/news/2005/03/7/hans-bethe-nobel-laureate-in-physics-discoverer-of-stellar-fusion-key-participant-in-development-of-atomic-and-hydrogen-bombs-outspoken.md)
-_Context: Hans Bethe, stellar fusion, wikinews_
+_Context: wikinews, Hans Bethe, stellar fusion_
 
 ##### Avian flu virus
 ### [ A Vietnamese nurse is confirmed to have contracted the bird flu, raising the number bird flu patients in Vietnam to 22, since late 2004. ](/news/2005/03/7/a-vietnamese-nurse-is-confirmed-to-have-contracted-the-bird-flu-raising-the-number-bird-flu-patients-in-vietnam-to-22-since-late-2004.md)
@@ -25,13 +25,13 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Bono
 ### [ Irish singer Bono, of rock band U2, is nominated for World Bank presidency. ](/news/2005/03/7/irish-singer-bono-of-rock-band-u2-is-nominated-for-world-bank-presidency.md)
-_Context: World Bank, U2, rock band, Bono_
+_Context: U2, World Bank, rock band, Bono_
 
 ##### Sony Corporation
 ### [ Sony Corporation announces that its current US operations chief, British-born Howard Stringer, is to become its first-ever non-Japanese Chairman and Chief Executive Officer. ](/news/2005/03/7/sony-corporation-announces-that-its-current-us-operations-chief-british-born-howard-stringer-is-to-become-its-first-ever-non-japanese-cha.md)
-_Context: Howard Stringer, Sony Corporation_
+_Context: Sony Corporation, Howard Stringer_
 
-##### status
+##### Status
 ### [ The People's Republic of China warns that it will not tolerate the United States and Japan including Taiwan in any security alliance. ](/news/2005/03/7/the-people-s-republic-of-china-warns-that-it-will-not-tolerate-the-united-states-and-japan-including-taiwan-in-any-security-alliance.md)
 _Context: status_
 
@@ -57,15 +57,15 @@ _Context: Deutsche Borse, London Stock Exchange_
 
 ##### Malaysia
 ### [ Malaysia and Indonesia agree to talks about the border dispute in Borneo over oil resources. Indonesia has deployed military units to the area ](/news/2005/03/7/malaysia-and-indonesia-agree-to-talks-about-the-border-dispute-in-borneo-over-oil-resources-indonesia-has-deployed-military-units-to-the-a.md)
-_Context: oil, Indonesia, Malaysia, Borneo_
+_Context: Malaysia, Borneo, Indonesia, oil_
 
 ##### European Union
 ### [ Representatives of European Union meet with those of Turkey, a prospective new member. They also criticize Turkish police for violent handling of a demonstration that marked the International Women's Day in Istanbul. Turkish officials promise to investigate the case ](/news/2005/03/7/representatives-of-european-union-meet-with-those-of-turkey-a-prospective-new-member-they-also-criticize-turkish-police-for-violent-handl.md)
-_Context: Turkey, Istanbul, European Union, demonstration, International Women's Day_
+_Context: Turkey, European Union, Istanbul, demonstration, International Women's Day_
 
 ##### Momcilo Perisic
 ### [ Momcilo Perisic, former Yugoslavian army general, hands himself in to the United Nations war crimes tribunal in The Hague. He is charged with complicity of Serbian separatist war crimes in Bosnia and Croatia during the Yugoslav Wars. ](/news/2005/03/7/momailo-peria-ia-former-yugoslavian-army-general-hands-himself-in-to-the-united-nations-war-crimes-tribunal-in-the-hague-he-is-charged.md)
-_Context: Yugoslavia, The Hague, Bosnia and Herzegovina, Croatia, Yugoslav Wars, separatist, war crime, Momcilo Perisic, United Nations, Serbia_
+_Context: war crime, Serbia, United Nations, Croatia, Yugoslav Wars, Bosnia and Herzegovina, separatist, The Hague, Yugoslavia, Momcilo Perisic_
 
 ##### Dominican Republic
 ### [ A prison fire in the Dominican Republic claims 134 lives and injured 25. Fire started during a clash of prison gangs ](/news/2005/03/7/a-prison-fire-in-the-dominican-republic-claims-134-lives-and-injured-25-fire-started-during-a-clash-of-prison-gangs.md)
@@ -73,7 +73,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Adolfo Scilingo
 ### [ In Spain, prosecutors of the case of Adolfo Scilingo, Argentine naval officers accused of multiple counts of genocide, murder and terrorism, request a prison sentence of 9138 years ](/news/2005/03/7/in-spain-prosecutors-of-the-case-of-adolfo-scilingo-argentine-naval-officers-accused-of-multiple-counts-of-genocide-murder-and-terrorism.md)
-_Context: terrorism, Adolfo Scilingo, genocide, murder_
+_Context: Adolfo Scilingo, genocide, murder, terrorism_
 
 ##### Edvard Munch
 ### [ In Norway, police recovers three paintings of Edvard Munch the day after they were stolen ](/news/2005/03/7/in-norway-police-recovers-three-paintings-of-edvard-munch-the-day-after-they-were-stolen.md)
@@ -81,7 +81,7 @@ _Context: Edvard Munch_
 
 ##### Sierra Leone
 ### [ In Sierra Leone, three members of the former military government, Armed Forces Revolutionary Council, go on trial accused of crimes against humanity during the civil war. ](/news/2005/03/7/in-sierra-leone-three-members-of-the-former-military-government-armed-forces-revolutionary-council-go-on-trial-accused-of-crimes-against.md)
-_Context: crimes against humanity, Armed Forces Revolutionary Council, Sierra Leone, junta, civil war_
+_Context: crimes against humanity, Sierra Leone, junta, Armed Forces Revolutionary Council, civil war_
 
 ## [Previous Day...](/news/2005/03/6/index.md)
 

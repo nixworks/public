@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/a-candidate-for-election-in-pakistan-is-attacke
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### general election
+##### General election
 # A candidate for election in Pakistan is attacked and killed by assumed Taliban militants. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/17/a-fire-in-the-undercarriage-of-a-gatwick-expres
 
 ### [2013-01-17](/news/2013/01/17/index.md)
 
-##### fire
+##### Fire
 # A fire in the undercarriage of a Gatwick Express train prompts the evacuation of London Victoria station in England. 
 
 A fire on a Gatwick Express train prompts the evacuation of London Victoria station at the start of the rush hour.

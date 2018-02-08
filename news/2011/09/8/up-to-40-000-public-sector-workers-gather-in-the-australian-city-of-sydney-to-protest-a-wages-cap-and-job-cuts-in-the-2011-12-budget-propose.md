@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/8/up-to-40-000-public-sector-workers-gather-in-the
 
 ### [2011-09-8](/news/2011/09/8/index.md)
 
-##### public sector
+##### Public sector
 # Up to 40,000 public sector workers gather in the Australian city of Sydney to protest a wages cap and job cuts in the 2011-12 budget proposed by the Government of the State of New South Wales. 
 
 ROAD closures and public transport disruptions are set to plague Sydney today as police, firefighters, teachers and transport workers prepare for the biggest mass demonstration in two decades.

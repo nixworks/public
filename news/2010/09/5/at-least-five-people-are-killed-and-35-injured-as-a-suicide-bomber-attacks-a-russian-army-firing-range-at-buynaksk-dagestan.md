@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-a
 
 ### [2010-09-5](/news/2010/09/5/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # At least five people are killed and 35 injured as a suicide bomber attacks a Russian Army firing range at Buynaksk, Dagestan. 
 
 

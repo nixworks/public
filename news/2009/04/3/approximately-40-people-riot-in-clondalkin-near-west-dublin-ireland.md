@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/3/approximately-40-people-riot-in-clondalkin-near-
 
 ### [2009-04-3](/news/2009/04/3/index.md)
 
-##### riot
+##### Riot
 #  Approximately 40 people riot in Clondalkin, near West Dublin, Ireland. 
 
 

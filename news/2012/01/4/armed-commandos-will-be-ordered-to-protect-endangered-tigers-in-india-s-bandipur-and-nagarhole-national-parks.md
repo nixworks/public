@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/4/armed-commandos-will-be-ordered-to-protect-endan
 
 ### [2012-01-4](/news/2012/01/4/index.md)
 
-##### protect
+##### Protect
 # Armed commandos will be ordered to protect endangered tigers in India's Bandipur and Nagarhole national parks. 
 
 Armed commandos are to be deployed in the jungles of southern India to deter poachers from capturing and killing endangered tigers.

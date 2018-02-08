@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/2/after-about-three-months-captivity-as-a-hostage-
 
 ### [2006-04-2](/news/2006/04/2/index.md)
 
-##### hostage in Iraq
+##### Hostage in Iraq
 #  After about three months captivity as a hostage in Iraq, American journalist Jill Carroll returns to American soil in Boston, Massachusetts. 
 
 

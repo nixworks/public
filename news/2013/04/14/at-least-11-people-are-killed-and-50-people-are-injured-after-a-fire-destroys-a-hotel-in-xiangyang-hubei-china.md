@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/14/at-least-11-people-are-killed-and-50-people-are
 
 ### [2013-04-14](/news/2013/04/14/index.md)
 
-##### fire
+##### Fire
 # At least 11 people are killed and 50 people are injured after a fire destroys a hotel in Xiangyang, Hubei, China. 
 
 At least 11 killed and 50 others injured after blaze that started in internet cafe spreads to hotel in central China.

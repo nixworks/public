@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/9/a-province-wide-state-of-emergency-is-declared-f
 
 ### [2011-05-9](/news/2011/05/9/index.md)
 
-##### state of emergency
+##### State of emergency
 # A province-wide state of emergency is declared for Manitoba in the wake of hundred-year floods on the Assiniboine River and Red River of the North near Brandon. 
 
 

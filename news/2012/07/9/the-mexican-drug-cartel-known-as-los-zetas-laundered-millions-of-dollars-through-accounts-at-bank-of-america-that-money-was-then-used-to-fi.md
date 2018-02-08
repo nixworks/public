@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/9/the-mexican-drug-cartel-known-as-los-zetas-laund
 
 ### [2012-07-9](/news/2012/07/9/index.md)
 
-##### drug cartel
+##### Drug cartel
 # The Mexican drug cartel known as Los Zetas laundered millions of dollars through accounts at Bank of America; that money was then used to finance a horse racing business in the United States, allegedly ran by Jose Trevino Morales. 
 
 

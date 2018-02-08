@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/2/there-will-be-a-run-off-election-on-august-11-in
 
 ### [2013-08-2](/news/2013/08/2/index.md)
 
-##### run-off election
+##### Run-off election
 # There will be a run-off election on August 11 in the Malian presidential election between Ibrahim Boubacar Keita and Soumala Ciss as no candidate could achieve a majority in the election held earlier this week. 
 
 

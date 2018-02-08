@@ -3,11 +3,11 @@ Formats: [HTML](2015/07/22/index.html)  [JSON](2015/07/22/index.json)  [XML](201
 
 ## [2015-07-22](/news/2015/07/22/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 ### [ A suicide bomb attack kills at least 15 people in northern Afghanistan. ](/news/2015/07/22/a-suicide-bomb-attack-kills-at-least-15-people-in-northern-afghanistan.md)
 _Context: suicide bombing, Afghanistan_
 
-##### explosion
+##### Explosion
 ### [ Two explosions in the Nigerian city of Gombe killed at least 29 people. ](/news/2015/07/22/two-explosions-in-the-nigerian-city-of-gombe-killed-at-least-29-people.md)
 At least 29 people died and 60 were wounded in multiple bomb blasts at two bus stations in the northern Nigerian city of Gombe on Wednesday evening, a Red Cross official said.
 
@@ -31,13 +31,13 @@ Man suspected of killing nine black churchgoers in Charleston indicted by federa
 ### [ The former prime minister of Egypt, Ahmed Nazif, is sentenced to five years in prison after losing appeal against 3-year prison sentence for corruption. ](/news/2015/07/22/the-former-prime-minister-of-egypt-ahmed-nazif-is-sentenced-to-five-years-in-prison-after-losing-appeal-against-3-year-prison-sentence-fo.md)
 CAIRO: The Cairo Criminal Court sentenced Mubarak-era Prime Minister Ahmed Nazif to five years in prison and to pay a nine-million EGP ($1.5 million) fine over corruption charges related to illegal enrichment charges, judicial sources told Youm7 Wednesday. In September 2012, an Egyptian court sen
 
-##### robot football World Cup
+##### Robot football World Cup
 ### [ The finals of the robot football World Cup are held. A Chinese team defeats the Netherlands in the finals of the middle-weight non-humanoid league, while another lost in the final of the small humanoid class to a team from Japan. ](/news/2015/07/22/the-finals-of-the-robot-football-world-cup-are-held-a-chinese-team-defeats-the-netherlands-in-the-finals-of-the-middle-weight-non-humanoid.md)
 Football playing robots built by researchers at Eindhoven University have lost the final of the Robocup World Cup 4-1 to a Chinese team.
 
 ##### National Institutes of Health
 ### [ Scientists at the U.S. NIH's National Institute of Allergy and Infectious Diseases report a major breakthrough toward finding a new universal flu vaccine by using non-infectious H-proteins instead of whole viruses.](/news/2015/07/22/scientists-at-the-u-s-nih-s-national-institute-of-allergy-and-infectious-diseases-report-a-major-breakthrough-toward-finding-a-new-univers.md)
-_Context: universal flu vaccine, National Institutes of Health, National Institute of Allergy and Infectious Diseases, H-proteins_
+_Context: National Institutes of Health, National Institute of Allergy and Infectious Diseases, universal flu vaccine, H-proteins_
 
 ## [Previous Day...](/news/2015/07/21/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/12/an-explosion-in-the-new-york-city-neighbourhood
 
 ### [2014-03-12](/news/2014/03/12/index.md)
 
-##### explosion
+##### Explosion
 # An explosion in the New York City neighbourhood of East Harlem kills 8 and injures over 70. 
 
 EAST HARLEM (PIX11) -- Four people were killed and at least 63 people were injured after a massive gas explosion leveled two five-story buildings in East Harlem Wednesday morning in a blast that literally jolted a chunk of the city. One of the victims has been identified as 44-year-old Hunter College public safety officer Griselde Camacho. She started working with the school in 2008. Another has been identified as 67-year-old Carmen Tanco.

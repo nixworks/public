@@ -9,11 +9,11 @@ Collection of colour photographs reveal the private life of Adolf Hitler.
 
 ##### European Union
 ### [ The European Union's parliamentary election continues in the Czech Republic and Ireland. ](/news/2009/06/5/the-european-union-s-parliamentary-election-continues-in-the-czech-republic-and-ireland.md)
-_Context: election, European Parliament, Irish, Czech Republic, European Union_
+_Context: Czech Republic, Irish, European Parliament, European Union, election_
 
 ##### Irish
 ### [ Ireland conducts local elections and two by-elections in Dublin Central and Dublin South. ](/news/2009/06/5/ireland-conducts-local-elections-and-two-by-elections-in-dublin-central-and-dublin-south.md)
-_Context: Dublin South, local elections, Dublin Central, Irish, by-election_
+_Context: Dublin South, Dublin Central, Irish, local elections, by-election_
 
 ##### United States
 ### [ American economist Paul Krugman says that the Irish economy may not recover from the 2008-09 financial crisis until 2014. ](/news/2009/06/5/american-economist-paul-krugman-says-that-the-irish-economy-may-not-recover-from-the-2008a09-financial-crisis-until-2014.md)
@@ -21,7 +21,7 @@ Nobel Prize-winning economist Paul Krugman has predicted that the Irish economic
 
 ##### Italian Prime Minister
 ### [ The Prime Minister of Italy Silvio Berlusconi threatens to sue the Spanish newspaper "El Pais" for publishing indecent photographs of people at his villa in Sardinia. ](/news/2009/06/5/the-prime-minister-of-italy-silvio-berlusconi-threatens-to-sue-the-spanish-newspaper-el-paas-for-publishing-indecent-photographs-of-peop.md)
-_Context: indecent, Spain, El Pais, Silvio Berlusconi, Italian Prime Minister, Sardinia_
+_Context: Italian Prime Minister, indecent, El Pais, Silvio Berlusconi, Spain, Sardinia_
 
 ##### Irish
 ### [ Ireland's rate of unemployment reaches 11.8%. ](/news/2009/06/5/ireland-s-rate-of-unemployment-reaches-11-8.md)
@@ -31,41 +31,41 @@ The number of people on the Live Register hit 400,000 for the first time last mo
 ### [ Pope Benedict XVI is briefed on Ireland's Commission to Inquire into Child Abuse's public report. ](/news/2009/06/5/pope-benedict-xvi-is-briefed-on-ireland-s-commission-to-inquire-into-child-abuse-s-public-report.md)
 The country&#39;s two most senior Catholic clergymen have met meeting Pope Benedict in Rome this evening.
 
-##### bus fire
+##### Bus fire
 ### [ A bus fire kills at least 24 people in Chengdu, Sichuan, China. ](/news/2009/06/5/a-bus-fire-kills-at-least-24-people-in-chengdu-sichuan-china.md)
-_Context: Sichuan, bus fire, Chengdu, China_
+_Context: Chengdu, Sichuan, China, bus fire_
 
 ##### Brazil
 ### [ Brazil's Air Force confirms that no debris has been recovered from Air France Flight 447. ](/news/2009/06/5/brazil-s-air-force-confirms-that-no-debris-has-been-recovered-from-air-france-flight-447.md)
-_Context: Air France, Air Force, crash of Air France Flight 447, Brazil_
+_Context: crash of Air France Flight 447, Brazil, Air France, Air Force_
 
-##### presidential election
+##### Presidential election
 ### [ Presidential-election candidate Baciro Dabo and former Defense Minister Helder Proenca are accused of plotting a coup d'etat and killed by Guinea-Bissau's government. ](/news/2009/06/5/presidential-election-candidate-baciro-daba3-and-former-defense-minister-helder-proenca-are-accused-of-plotting-a-coup-d-a-c-tat-and-killed-b.md)
-_Context: coup, Defense Minister, presidential election, Guinea-Bissau, Baciro Dabo, Politics of Guinea-Bissau, Helder Proenca_
+_Context: Baciro Dabo, Helder Proenca, presidential election, coup, Guinea-Bissau, Politics of Guinea-Bissau, Defense Minister_
 
 ##### Baghdad
 ### [ A bomb kills nine people in a cafe in Baghdad, Iraq. ](/news/2009/06/5/a-bomb-kills-nine-people-in-a-cafa-c-in-baghdad-iraq.md)
-_Context: Iraq, Baghdad_
+_Context: Baghdad, Iraq_
 
 ##### Philippe Gomes
 ### [ Philippe Gomes is elected President of New Caledonia. ](/news/2009/06/5/philippe-goma-s-is-elected-president-of-new-caledonia.md)
-_Context: President, elected, New Caledonia, Philippe Gomes_
+_Context: New Caledonia, Philippe Gomes, elected, President_
 
-##### landslide
+##### Landslide
 ### [ A landslide buries approximately 59 people and kills at least two others in Chongqing, China. ](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.md)
-_Context: Chongqing, landslide, China_
+_Context: China, landslide, Chongqing_
 
-##### suicide attack
+##### Suicide attack
 ### [ A suicide attack kills at least 38 people at a mosque in Upper Dir District, Pakistan. ](/news/2009/06/5/a-suicide-attack-kills-at-least-38-people-at-a-mosque-in-upper-dir-district-pakistan.md)
-_Context: War in North-West Pakistan, Pakistan, mosque, suicide attack, Upper Dir District_
+_Context: Upper Dir District, suicide attack, mosque, War in North-West Pakistan, Pakistan_
 
 ##### United States
 ### [ Former United States State Department employee Kendall Myers and his wife, Gwendolyn, are arrested and charged with spying for Cuba's government. ](/news/2009/06/5/former-united-states-state-department-employee-kendall-myers-and-his-wife-gwendolyn-are-arrested-and-charged-with-spying-for-cuba-s-gover.md)
-_Context: Cuba, United States, spy, Kendall Myers, State Department, government_
+_Context: government, State Department, Kendall Myers, Cuba, United States, spy_
 
 ##### David Bain
 ### [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md)
-_Context: David Bain, New Zealand, Dunedin, retrial, murdering_
+_Context: New Zealand, David Bain, Dunedin, murdering, retrial_
 
 ## [Previous Day...](/news/2009/06/4/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/28/the-detailed-chemical-structure-of-a-single-mol
 
 ### [2009-08-28](/news/2009/08/28/index.md)
 
-##### chemical structure
+##### Chemical structure
 #  The detailed chemical structure of a single molecule has been imaged for the first time. The physical shape of single carbon nanotubes has been outlined before, using similar techniques, but the new method even shows up chemical bonds. 
 
 

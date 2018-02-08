@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/18/russian-smugglers-carrying-213-bear-paws-are-ar
 
 ### [2013-06-18](/news/2013/06/18/index.md)
 
-##### bear
+##### Bear
 # Russian smugglers carrying 213 bear paws are arrested in China. 
 
 

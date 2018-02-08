@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/21/france-faces-another-day-of-strikes-with-a-quar
 
 ### [2010-10-21](/news/2010/10/21/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # France faces another day of strikes with a quarter of petrol stations not having any fuel. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/28/a-second-day-of-voting-in-national-and-presiden
 
 ### [2009-11-28](/news/2009/11/28/index.md)
 
-##### elections last week
+##### Elections last week
 #  A second day of voting in national and presidential elections in Namibia takes place. 
 
 

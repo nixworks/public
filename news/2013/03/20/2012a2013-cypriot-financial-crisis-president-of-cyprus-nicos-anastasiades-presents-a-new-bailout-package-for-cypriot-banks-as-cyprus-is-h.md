@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/20/2012a2013-cypriot-financial-crisis-president-of
 
 ### [2013-03-20](/news/2013/03/20/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: President of Cyprus Nicos Anastasiades presents a new bailout package for Cypriot banks as Cyprus is hit with a liquidity crisis. 
 
 Cypriot leaders are set to decide on a new bailout plan as the US central bank plays down the impact of the crisis.

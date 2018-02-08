@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/19/due-to-increasing-rocket-attacks-aimed-at-israe
 
 ### [2007-09-19](/news/2007/09/19/index.md)
 
-##### government
+##### Government
 #  Due to increasing rocket attacks aimed at Israeli civilians, The Government of Israel declares the Palestinian-controlled Gaza Strip an "enemy entity", and announces plans to cut utilities to the territory. 
 
 

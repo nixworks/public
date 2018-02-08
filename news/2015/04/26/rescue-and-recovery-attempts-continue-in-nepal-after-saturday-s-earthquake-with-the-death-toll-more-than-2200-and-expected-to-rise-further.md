@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/26/rescue-and-recovery-attempts-continue-in-nepal-
 
 ### [2015-04-26](/news/2015/04/26/index.md)
 
-##### suspicions
+##### Suspicions
 # Rescue and recovery attempts continue in Nepal after Saturday's earthquake with the death toll more than 2200 and expected to rise further. 
 
 Tens of thousands of Nepalese who spent the night under a chilly sky were jolted awake by strong aftershocks Sunday, and rescuers aided by international teams cleared rubble in search of survivors after a powerful earthquake killed more than 1,900 people across the Himalayan region.

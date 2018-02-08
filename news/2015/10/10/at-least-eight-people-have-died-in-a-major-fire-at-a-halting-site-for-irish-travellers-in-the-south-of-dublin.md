@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/10/at-least-eight-people-have-died-in-a-major-fire
 
 ### [2015-10-10](/news/2015/10/10/index.md)
 
-##### halting site
+##### Halting site
 # At least eight people have died in a major fire at a halting site for Irish travellers in the south of Dublin. 
 
 Fire that broke out in south Dublin in early hours of morning kills members of two families 

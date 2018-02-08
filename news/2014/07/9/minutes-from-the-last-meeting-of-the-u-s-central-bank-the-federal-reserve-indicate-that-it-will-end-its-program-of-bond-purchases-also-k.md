@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central
 
 ### [2014-07-9](/news/2014/07/9/index.md)
 
-##### central bank
+##### Central bank
 # Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. 
 
 Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, after minutes from the last Federal Reserve meeting showed policymakers have started to detail how the central bank will end its easy monetary policy.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/16/a-six-year-old-boy-is-killed-and-two-other-chil
 
 ### [2012-04-16](/news/2012/04/16/index.md)
 
-##### co-educational school
+##### Co-educational school
 # A six-year-old boy is killed and two other children are wounded after a militant throws a hand grenade into a co-educational school near Peshawar, northwest Pakistan. 
 
 

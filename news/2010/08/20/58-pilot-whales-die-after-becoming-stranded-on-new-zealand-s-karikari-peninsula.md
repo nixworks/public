@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/20/58-pilot-whales-die-after-becoming-stranded-on-
 
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-##### pilot whale
+##### Pilot whale
 # 58 pilot whales die after becoming stranded on New Zealand's Karikari Peninsula. 
 
 Some 58 pilot whales die after being stranded on a northern New Zealand coast, as volunteers battle to save remaining survivors.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/15/the-indonesian-province-of-riau-declares-a-stat
 
 ### [2015-09-15](/news/2015/09/15/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 # The Indonesian province of Riau declares a state of emergency due to high levels of smoke haze from forest fires in Riau, Jambi and South Sumatra that have led thousands of people to flee the capital Pekanbaru. 
 
 Indonesia has declared a haze emergency in Sumatra&#039;s Riau province, as the choking smoke surged way past already hazardous levels and forced thousands to flee Pekanbaru, Riau&#039;s capital, which is about 280km away from Singapore.. Read more at straitstimes.com.

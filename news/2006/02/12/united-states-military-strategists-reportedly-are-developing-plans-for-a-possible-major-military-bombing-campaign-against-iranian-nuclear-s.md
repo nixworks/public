@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/12/united-states-military-strategists-reportedly-a
 
 ### [2006-02-12](/news/2006/02/12/index.md)
 
-##### nuclear program
+##### Nuclear program
 #  United States military strategists reportedly are developing plans for a possible major military bombing campaign against Iranian nuclear sites as a "last resort" in the event that diplomatic efforts fail to convince Iran to voluntarily end what Western governments consider to be efforts at acquiring a nuclear weapon. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

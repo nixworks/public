@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/3/more-than-230-people-are-killed-and-200-injured-
 
 ### [2010-07-3](/news/2010/07/3/index.md)
 
-##### fuel tanker
+##### Fuel tanker
 # More than 230 people are killed and 200 injured after a fuel tanker overturns and explodes in the South Kivu province of the Democratic Republic of the Congo. 
 
 Lorry carrying oil overturns and bursts into flames, engulfing the village of Sange.

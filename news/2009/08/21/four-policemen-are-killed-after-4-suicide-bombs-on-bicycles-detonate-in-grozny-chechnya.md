@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/21/four-policemen-are-killed-after-4-suicide-bombs
 
 ### [2009-08-21](/news/2009/08/21/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  Four policemen are killed after 4 suicide bombs on bicycles detonate in Grozny, Chechnya. 
 
 

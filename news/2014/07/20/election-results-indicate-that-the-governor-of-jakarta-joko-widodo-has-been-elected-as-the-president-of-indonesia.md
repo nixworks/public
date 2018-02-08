@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/20/election-results-indicate-that-the-governor-of-
 
 ### [2014-07-20](/news/2014/07/20/index.md)
 
-##### is now president
+##### Is now president
 # Election results indicate that the Governor of Jakarta Joko Widodo has been elected as the President of Indonesia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/27/the-head-of-the-joint-united-nations-ndash-afri
 
 ### [2009-08-27](/news/2009/08/27/index.md)
 
-##### peacekeeping mission
+##### Peacekeeping mission
 #  The head of the joint United Nations&ndash;African Union force in Darfur, Martin Agwai, says the war in the region is over and is now only suffering low-level disputes. 
 
 

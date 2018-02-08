@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/20/a-gunman-shoots-a-cardiovascular-surgeon-to-dea
 
 ### [2015-01-20](/news/2015/01/20/index.md)
 
-##### cardiovascular surgeon
+##### Cardiovascular surgeon
 # A gunman shoots a cardiovascular surgeon to death at Harvard Medical School's Brigham and Women's Hospital in Boston, Massachusetts, and then commits suicide. 
 
 

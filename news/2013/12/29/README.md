@@ -23,7 +23,7 @@ A bomb exploded outside an Egyptian army building north of Cairo on Sunday, woun
 ### [18 people are killed in attacks across Iraq, including a military general in a bombing in the northern city of Mosul. ](/news/2013/12/29/18-people-are-killed-in-attacks-across-iraq-including-a-military-general-in-a-bombing-in-the-northern-city-of-mosul.md)
 At least 18 people were killed in attacks across Iraq on Sunday, including a military general in a bombing in the northern city of Mosul, police and medical sources said.
 
-##### passenger ferry
+##### Passenger ferry
 ### [The passenger ferry "MS King Seaways", en route from Newcastle, England, to Amsterdam in the Netherlands, catches fire in the North Sea; a man is arrested on suspicion of arson. ](/news/2013/12/29/the-passenger-ferry-ms-king-seaways-en-route-from-newcastle-england-to-amsterdam-in-the-netherlands-catches-fire-in-the-north-sea-a-m.md)
 Two crew and four passengers evacuated by helicopter after fire forces Amsterdam-bound ferry to turn back to Newcastle
 
@@ -33,7 +33,7 @@ Thousands of people in eastern El Salvador are leaving their homes as the Chapar
 
 ##### Saudi Arabia
 ### [Saudi Arabia pledges US$3 billion to Lebanon to help strengthen their military. ](/news/2013/12/29/saudi-arabia-pledges-us-3-billion-to-lebanon-to-help-strengthen-their-military.md)
-_Context: Saudi Arabia, military, Lebanon_
+_Context: Saudi Arabia, military, Lebanese_
 
 ## [Previous Day...](/news/2013/12/28/index.md)
 

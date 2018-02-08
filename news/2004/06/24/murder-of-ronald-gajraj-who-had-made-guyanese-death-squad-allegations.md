@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/24/murder-of-ronald-gajraj-who-had-made-guyanese-d
 
 ### [2004-06-24](/news/2004/06/24/index.md)
 
-##### kill
+##### Kill
 #  Murder of Ronald Gajraj, who had made Guyanese death squad allegations.
 
 

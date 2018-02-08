@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/10/terrorism-on-the-eve-of-the-second-anniversary-
 
 ### [2003-09-10](/news/2003/09/10/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: On the eve of the second anniversary of the September 11 terrorist attacks, the Arabic-language television channel Al Jazeera airs a videotape, purportedly from Osama bin Laden. The videotape shows two men, including one meant to be bin Laden, walking down an (unidentified) rocky hillside. Al Jazeera said the other man seen on the tape, carrying an automatic rifle, was Ayman al-Zawahri, the Egyptian physician who merged his Islamic Jihad organization with Al Qaeda. The tape was claimed to have been made in late April or early May. An accompanying audiotape, attributed to the deputy, Ayman al-Zawahri, called on Iraqis to "bury" American troops in Iraq.
 
 

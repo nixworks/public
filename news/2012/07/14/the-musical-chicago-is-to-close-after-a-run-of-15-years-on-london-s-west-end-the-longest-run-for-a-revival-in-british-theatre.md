@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/14/the-musical-chicago-is-to-close-after-a-run-of-
 
 ### [2012-07-14](/news/2012/07/14/index.md)
 
-##### musical
+##### Musical
 # The musical "Chicago" is to close after a run of 15 years on London's West End, the longest run for a revival in British theatre. 
 
 Long-running West End show Chicago &amp;#8211; which has featured an array of star names &amp;#8211; is to close after nearly 15 years.

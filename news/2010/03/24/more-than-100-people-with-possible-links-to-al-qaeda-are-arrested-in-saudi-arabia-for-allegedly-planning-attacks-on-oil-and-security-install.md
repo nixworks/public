@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/24/more-than-100-people-with-possible-links-to-al-
 
 ### [2010-03-24](/news/2010/03/24/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # More than 100 people with possible links to Al-Qaeda are arrested in Saudi Arabia for allegedly planning attacks on oil and security installations in the country. 
 
 PM orders panel to freeze deliberations on construction in capital.

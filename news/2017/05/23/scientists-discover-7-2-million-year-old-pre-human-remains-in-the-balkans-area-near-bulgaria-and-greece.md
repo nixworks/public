@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/23/scientists-discover-7-2-million-year-old-pre-hu
 
 ### [2017-05-23](/news/2017/05/23/index.md)
 
-##### pre-human
+##### Pre-human
 # Scientists discover 7.2 million-year-old "pre-human" remains in the Balkans area near Bulgaria and Greece. 
 
 The common lineage of great apes and humans split several hundred thousand earlier than hitherto assumed, according to an international research team headed by Professor Madelaine Böhme from the Senckenberg Centre for Human Evolution and Palaeoenvironment at the University of Tübingen and Professor Nikolai Spassov from the Bulgarian Academy of Sciences. The researchers investigated two fossils of Graecopithecus freybergi with state-of-the-art methods and came to the conclusion that they belong to pre-humans. Their findings, published today in two papers in the journal PLOS ONE, further indicate that the split of the human lineage occurred in the Eastern Mediterranean and not - as customarily assumed - in Africa.

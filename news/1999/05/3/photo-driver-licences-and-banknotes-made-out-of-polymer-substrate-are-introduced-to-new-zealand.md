@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/05/3/photo-driver-licences-and-banknotes-made-out-of-
 
 ### [1999-05-3](/news/1999/05/3/index.md)
 
-##### polymer substrate
+##### Polymer substrate
 #  Photo driver licences and banknotes made out of polymer substrate are introduced to New Zealand.
 
 

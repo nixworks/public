@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/4/scientists-have-used-genetic-engineering-techniq
 
 ### [2003-06-4](/news/2003/06/4/index.md)
 
-##### genetic engineering
+##### Genetic engineering
 #  Scientists have used genetic engineering techniques to make chickens grow teeth.
 
 

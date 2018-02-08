@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/10/association-football-egypt-beats-cameroon-1-0-t
 
 ### [2008-02-10](/news/2008/02/10/index.md)
 
-##### football
+##### Football
 #  Association football: Egypt beats Cameroon 1-0 to win the 2008 Africa Cup of Nations in Ghana. 
 
 

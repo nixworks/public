@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/13/a-seven-year-old-girl-is-confirmed-as-the-first
 
 ### [2013-04-13](/news/2013/04/13/index.md)
 
-##### girl
+##### Girl
 # A seven-year-old girl is confirmed as the first person in Beijing, China, to catch the Influenza A virus subtype H7N9 bird flu. 
 
 

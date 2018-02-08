@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/6/former-us-baseball-player-lenny-dykstra-is-indic
 
 ### [2011-05-6](/news/2011/05/6/index.md)
 
-##### baseball
+##### Baseball
 # Former US baseball player Lenny Dykstra is indicted on 13 counts of bankruptcy fraud. 
 
 Remember how Lenny Dykstra was arrested for bankruptcy fraud? Yeah, he&#8217;s indicted now. Thirteen counts, reports CNBC&#8217;s Darren Rovell. If he is convicted on all counts he faces 80 year…

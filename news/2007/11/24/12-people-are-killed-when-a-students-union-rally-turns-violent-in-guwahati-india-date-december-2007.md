@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/24/12-people-are-killed-when-a-students-union-rall
 
 ### [2007-11-24](/news/2007/11/24/index.md)
 
-##### demonstration
+##### Demonstration
 #  12 people are killed when a students' union rally turns violent in Guwahati, India.date=December 2007 
 
 

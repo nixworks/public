@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/19/eight-corrections-officers-are-killed-in-an-amb
 
 ### [2009-04-19](/news/2009/04/19/index.md)
 
-##### corrections officer
+##### Corrections officer
 #  Eight corrections officers are killed in an ambush during a prisoner transfer in Nayarit, Mexico. 
 
 

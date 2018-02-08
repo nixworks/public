@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/4/the-right-wing-british-national-party-bnp-candid
 
 ### [2003-09-4](/news/2003/09/4/index.md)
 
-##### right wing
+##### Right wing
 #  The right wing British National Party (BNP) candidate Nicholas Geri, who is of Italian descent, wins a surprise victory in a local government by-election to Thurrock Borough Council in Essex. The Labour Party, which has a 21-seat majority on the Council, sees its candidate pushed into third place, behind the BNP and the Conservative Party. Turnout in the by-election was 22%.
 
 

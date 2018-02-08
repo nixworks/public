@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/29/space-a-technology-nasa-outlines-plans-for-the-
 
 ### [2003-09-29](/news/2003/09/29/index.md)
 
-##### space
+##### Space
 #  Space - Technology: NASA outlines plans for the Space Shuttle's Replacement, a ""Space Taxi"". The next-generation space vehicle is on the drawing boards now and NASA has just issued newly defined requirements.
 
 

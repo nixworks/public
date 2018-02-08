@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/29/an-unknown-number-are-dead-as-a-result-of-a-pol
 
 ### [2013-11-29](/news/2013/11/29/index.md)
 
-##### police helicopter that crashed
+##### Police helicopter that crashed
 # An unknown number are dead as a result of a police helicopter that crashed into a crowded pub on the north bank of the River Clyde in Glasgow, Scotland. 
 
 Thirty-two people are taken to hospital after a police helicopter with three people on board crashes into a busy pub in Glasgow.

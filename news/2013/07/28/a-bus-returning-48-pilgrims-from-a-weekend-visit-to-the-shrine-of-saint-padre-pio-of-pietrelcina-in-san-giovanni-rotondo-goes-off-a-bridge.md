@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/28/a-bus-returning-48-pilgrims-from-a-weekend-visi
 
 ### [2013-07-28](/news/2013/07/28/index.md)
 
-##### shrine
+##### Shrine
 # A bus returning 48 pilgrims from a weekend visit to the shrine of Saint Padre Pio of Pietrelcina, in San Giovanni Rotondo, goes off a bridge east of Naples, in Avellino Province, killing 39 people (including some children), and injuring at least 9 others. 
 
 

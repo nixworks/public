@@ -25,7 +25,7 @@ _Context: Italian Prime Minister, Silvio Berlusconi, found guilty_
 
 ##### Catalonia
 ### [According to reports in Catalonia, Argentine football star Lionel Messi has paid EUR10 million in Spanish back taxes for 2010 and 2011, and is looking to settle a claimed tax liability of EUR4.1 million for the 2007-2009 period that is the subject of a current investigation. ](/news/2013/06/24/according-to-reports-in-catalonia-argentine-football-star-lionel-messi-has-paid-a-10-million-in-spanish-back-taxes-for-2010-and-2011-and.md)
-_Context: Argentina, football, Catalonia, Lionel Messi, Spain_
+_Context: Spain, Lionel Messi, Catalonia, Argentina, football_
 
 ## [Previous Day...](/news/2013/06/23/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/18/forty-seven-people-are-injured-in-a-collision-b
 
 ### [2009-07-18](/news/2009/07/18/index.md)
 
-##### collision
+##### Collision
 #  Forty-seven people are injured in a collision between two Muni Metro light rail cars at the West Portal Station in San Francisco, United States. 
 
 

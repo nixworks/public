@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/19/three-kindergarteners-are-wounded-after-a-gun-g
 
 ### [2011-04-19](/news/2011/04/19/index.md)
 
-##### kindergarteners
+##### Kindergarteners
 # Three kindergarteners are wounded after a gun goes off in a school cafeteria in the U.S. state of Texas. The gun was brought to the school by a six-year-old child. 
 
 

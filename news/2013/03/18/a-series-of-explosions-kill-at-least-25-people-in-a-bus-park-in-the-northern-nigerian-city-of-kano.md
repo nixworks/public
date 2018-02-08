@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/18/a-series-of-explosions-kill-at-least-25-people-
 
 ### [2013-03-18](/news/2013/03/18/index.md)
 
-##### bus park
+##### Bus park
 # A series of explosions kill at least 25 people in a bus park in the northern Nigerian city of Kano. 
 
 

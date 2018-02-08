@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/22/in-local-and-regional-elections-in-spain-the-co
 
 ### [2011-05-22](/news/2011/05/22/index.md)
 
-##### local and regional elections
+##### Local and regional elections
 # In local and regional elections in Spain, the conservative People's Party performs well, while the ruling Socialist Party suffers heavy losses. 
 
 Spain’s Socialists suffered their worst electoral defeat in more than 30 years as voters punished Prime Minister Jose Luis Rodriguez Zapatero’s party for soaring unemployment and spending cuts that aimed to shield the country from Europe’s debt crisis.

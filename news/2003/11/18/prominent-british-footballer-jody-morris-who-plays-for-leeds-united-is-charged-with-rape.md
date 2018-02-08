@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/18/prominent-british-footballer-jody-morris-who-pl
 
 ### [2003-11-18](/news/2003/11/18/index.md)
 
-##### football
+##### Football
 #  Prominent British footballer Jody Morris, who plays for Leeds United, is charged with rape.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/5/five-people-are-killed-in-a-suicide-bomb-attack-
 
 ### [2009-10-5](/news/2009/10/5/index.md)
 
-##### killed
+##### Killed
 #  Five people are killed in a suicide bomb attack at a United Nations World Food Programme office in Islamabad, Pakistan. 
 
 An explosion apparently caused by a suicide bomber in the lobby of the World Food Program office in Islamabad killed at least five people.

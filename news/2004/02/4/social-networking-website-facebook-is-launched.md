@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/4/social-networking-website-facebook-is-launched.h
 
 ### [2004-02-4](/news/2004/02/4/index.md)
 
-##### social networking
+##### Social networking
 #  Social networking website Facebook is launched.
 
 

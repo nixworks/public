@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/at-least-14-people-are-killed-in-a-series-of-cl
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### drug traffickers
+##### Drug traffickers
 # At least 14 people are killed in a series of clashes between alleged drug traffickers and police in the Mexican state of Michoacan. The government states that a high-profile drug lord was killed in the battle. 
 
 

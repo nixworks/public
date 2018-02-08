@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/20/three-civilians-die-during-combat-between-islam
 
 ### [2009-05-20](/news/2009/05/20/index.md)
 
-##### civilian
+##### Civilian
 #  Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. 
 
 

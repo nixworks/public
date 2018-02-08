@@ -5,9 +5,9 @@ Formats: [HTML](2007/12/26/index.html)  [JSON](2007/12/26/index.json)  [XML](200
 
 ##### Perth
 ### [ Record temperatures stoke bushfires in Perth, Western Australia; arson is suspected. ](/news/2007/12/26/record-temperatures-stoke-bushfires-in-perth-western-australia-arson-is-suspected.md)
-_Context: Perth, arson_
+_Context: arson, Perth_
 
-##### six people killed
+##### Six people killed
 ### [ The bodies of six people killed on 24 December are found in a house in Carnation, Washington. ](/news/2007/12/26/the-bodies-of-six-people-killed-on-24-december-are-found-in-a-house-in-carnation-washington.md)
 _Context: six people killed, Carnation, Washington, 24 December_
 
@@ -17,7 +17,7 @@ _Context: Java, Indonesia_
 
 ##### Lagos
 ### [ At least 34 people are killed following a pipeline explosion in Lagos, Nigeria. ](/news/2007/12/26/at-least-34-people-are-killed-following-a-pipeline-explosion-in-lagos-nigeria.md)
-_Context: Lagos, Nigeria_
+_Context: Nigeria, Lagos_
 
 ## [Previous Day...](/news/2007/12/25/index.md)
 

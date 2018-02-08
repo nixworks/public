@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/22/a-panel-of-human-rights-experts-convened-by-the
 
 ### [2010-09-22](/news/2010/09/22/index.md)
 
-##### human rights
+##### Human rights
 # A panel of human rights experts convened by the United Nations Human Rights Council says Israel's seizure of the MV Mavi Marmara in the Gaza flotilla raid was "clearly unlawful". 
 
 

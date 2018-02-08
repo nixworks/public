@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/25/two-people-are-killed-and-more-than-a-dozen-inj
 
 ### [2008-04-25](/news/2008/04/25/index.md)
 
-##### semitrailer
+##### Semitrailer
 #  Two people are killed and more than a dozen injured after a semitrailer crashes into a Chicago Transit Authority station during rush hour. 
 
 

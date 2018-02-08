@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/10/the-first-democratic-election-takes-place-on-th
 
 ### [2008-12-10](/news/2008/12/10/index.md)
 
-##### election
+##### Election
 #  The first democratic election takes place on the Channel Island of Sark, a British crown dependency. 
 
 

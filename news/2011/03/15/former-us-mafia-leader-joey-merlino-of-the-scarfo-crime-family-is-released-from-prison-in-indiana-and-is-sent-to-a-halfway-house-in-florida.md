@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/15/former-us-mafia-leader-joey-merlino-of-the-scar
 
 ### [2011-03-15](/news/2011/03/15/index.md)
 
-##### mafia
+##### Mafia
 # Former US mafia leader Joey Merlino of the Scarfo crime family is released from prison in Indiana and is sent to a halfway house in Florida. 
 
 

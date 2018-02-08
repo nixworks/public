@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/4/suspected-al-qaeda-militants-attack-an-army-post
 
 ### [2014-04-4](/news/2014/04/4/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Suspected Al-Qaeda militants attack an army post in Hadramawt province killing at least eight soldiers and injuring eleven. 
 
 

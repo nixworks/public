@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/1/a-female-suicide-bomber-kills-41-people-and-inju
 
 ### [2010-02-1](/news/2010/02/1/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 # A female suicide bomber kills 41 people and injures a further 106 in an attack in the Iraqi capital Baghdad. 
 
 Dozens killed as female suicide bomber targets Shia Muslims on their way to Karbala.

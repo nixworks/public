@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/7/a-public-memorial-for-michael-jackson-takes-plac
 
 ### [2009-07-7](/news/2009/07/7/index.md)
 
-##### public memorial
+##### Public memorial
 #  A public memorial for Michael Jackson takes place at the Staples Center in Los Angeles, California, with over 17,000 viewing in Los Angeles, and millions more viewing around the world. 
 
 

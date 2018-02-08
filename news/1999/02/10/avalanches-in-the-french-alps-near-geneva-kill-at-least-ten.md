@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/02/10/avalanches-in-the-french-alps-near-geneva-kill-
 
 ### [1999-02-10](/news/1999/02/10/index.md)
 
-##### avalanche
+##### Avalanche
 #  Avalanches in the French Alps near Geneva kill at least ten.
 
 

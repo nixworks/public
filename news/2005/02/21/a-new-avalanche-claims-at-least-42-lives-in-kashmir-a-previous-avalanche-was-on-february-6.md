@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/21/a-new-avalanche-claims-at-least-42-lives-in-kas
 
 ### [2005-02-21](/news/2005/02/21/index.md)
 
-##### avalanche
+##### Avalanche
 #  A new avalanche claims at least 42 lives in Kashmir. A previous avalanche was on February 6 
 
 

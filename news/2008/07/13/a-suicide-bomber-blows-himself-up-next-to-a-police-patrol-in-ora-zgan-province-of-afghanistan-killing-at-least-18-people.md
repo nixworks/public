@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/13/a-suicide-bomber-blows-himself-up-next-to-a-pol
 
 ### [2008-07-13](/news/2008/07/13/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber blows himself up next to a police patrol in Oruzgan Province of Afghanistan killing at least 18 people. 
 
 

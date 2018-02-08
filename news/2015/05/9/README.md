@@ -25,7 +25,7 @@ _Context: Naxalite-Maoist insurgency, India, Chhattisgarh_
 
 ##### 2015 Pacific typhoon season
 ### [Thousands of people are evacuated from the Philippines island of Luzon ahead of Typhoon Noul (Dodong). ](/news/2015/05/9/thousands-of-people-are-evacuated-from-the-philippines-island-of-luzon-ahead-of-typhoon-noul-dodong.md)
-_Context: 2015 Pacific typhoon season, Luzon, Philippines_
+_Context: Philippines, 2015 Pacific typhoon season, Luzon_
 
 ##### 2015 Atlantic hurricane season
 ### [Tropical storm Ana forms near the states of North and South Carolina weeks before the official start of the hurricane season. ](/news/2015/05/9/tropical-storm-ana-forms-near-the-states-of-north-and-south-carolina-weeks-before-the-official-start-of-the-hurricane-season.md)
@@ -37,7 +37,7 @@ Military plane with six on board crashes during test flight near Seville, killin
 
 ##### Tornadoes of 2015
 ### [At least one person is killed and another injured in a tornado in the town of Cisco, Texas with tornadoes also reported in eastern Colorado. ](/news/2015/05/9/at-least-one-person-is-killed-and-another-injured-in-a-tornado-in-the-town-of-cisco-texas-with-tornadoes-also-reported-in-eastern-colorado.md)
-_Context: Colorado, Cisco, Texas, Tornadoes of 2015_
+_Context: Tornadoes of 2015, Cisco, Texas, Colorado_
 
 ##### China
 ### [Ten people are killed after a wall collapses on a construction project in China's Shandong province. ](/news/2015/05/9/ten-people-are-killed-after-a-wall-collapses-on-a-construction-project-in-china-s-shandong-province.md)
@@ -65,7 +65,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Moro Islamic Liberation Front
 ### [ The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. ](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.md)
-_Context: United Bangsamoro Justice Party, Philippines, Moro Islamic Liberation Front_
+_Context: Moro Islamic Liberation Front, United Bangsamoro Justice Party, Philippines_
 
 ## [Previous Day...](/news/2015/05/8/index.md)
 

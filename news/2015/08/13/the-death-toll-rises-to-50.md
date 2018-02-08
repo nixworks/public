@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/13/the-death-toll-rises-to-50.html)  [JSON](/news/
 
 ### [2015-08-13](/news/2015/08/13/index.md)
 
-##### the explosions last year
+##### The explosions last year
 # The death toll rises to 50. 
 
 

@@ -11,9 +11,9 @@ The explosion happened at the end of a pop concert by the US singer Ariana Grand
 ### [A controversial piece written in "The Atlantic" magazine about the Filipino servant caste and the Filipino American family involved in it triggers a debate in both the Philippines and the United States. ](/news/2017/05/22/a-controversial-piece-written-in-the-atlantic-magazine-about-the-filipino-servant-caste-and-the-filipino-american-family-involved-in-it-tr.md)
 Lola and the universality of women’s exploitation
 
-##### intravenous sodium bicarbonate
+##### Intravenous sodium bicarbonate
 ### [Because of a nationwide shortage of intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are rationing its use in heart surgery, chemotherapy, for patients whose blood is too acidic, and as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its-u.md)
-_Context: Amphastar, Pfizer, intravenous sodium bicarbonate, heart surgery, chemotherapy_
+_Context: intravenous sodium bicarbonate, chemotherapy, Amphastar, heart surgery, Pfizer_
 
 ##### North Korea's nuclear program
 ### [North Korea's official Korean Central News Agency reports the country's leader, Kim Jong-un, has approved deployment of the Pukguksong-2 intermediate-range ballistic missile, and ordered mass production of the system. The United Nations Security Council will hold a closed-door session Tuesday to discuss the test. ](/news/2017/05/22/north-koreaas-official-korean-central-news-agency-reports-the-country-s-leader-kim-jong-un-has-approved-deployment-of-the-pukguksong-2-i.md)
@@ -39,11 +39,11 @@ Redistricting is part of a bare-knuckled fight in North Carolina, where Democrat
 ### [U.S. Attorney General Jeff Sessions narrows the scope of the order against so-called sanctuary cities. ](/news/2017/05/22/u-s-attorney-general-jeff-sessions-narrows-the-scope-of-the-order-against-so-called-sanctuary-cities.md)
 The move by Attorney General Jeff Sessions comes after a federal judge blocked a key part of the directive, the threat of withholding federal funds.
 
-##### temporary protected status
+##### Temporary protected status
 ### [The temporary protected status of Haitians living in the United States is extended for six months. ](/news/2017/05/22/the-temporary-protected-status-of-haitians-living-in-the-united-states-is-extended-for-six-months.md)
 Tens of thousands of Haitians live in the U.S. under Temporary Protected Status.
 
-##### last general election
+##### Last general election
 ### [British Prime Minister Theresa May faces backlash after accusations emerge that the Conservatives allegedly planned on reducing social welfare spending. ](/news/2017/05/22/british-prime-minister-theresa-may-faces-backlash-after-accusations-emerge-that-the-conservatives-allegedly-planned-on-reducing-social-welfa.md)
 Prime minister spends day battling against accusations of indecision after change to policy outlined in manifesto
 
@@ -51,7 +51,7 @@ Prime minister spends day battling against accusations of indecision after chang
 ### [According to sources familiar with his decision, former U.S. National Security Advisor Michael Flynn invokes his Fifth Amendment protection against self-incrimination and declines to comply with a subpoena from the Senate Intelligence Committee investigating possible Russian interference in the 2016 U.S. election. ](/news/2017/05/22/according-to-sources-familiar-with-his-decision-former-u-s-national-security-advisor-michael-flynn-invokes-his-fifth-amendment-protection.md)
  Former White House national security adviser Michael Flynn declined on Monday to comply with a subpoena from the Senate Intelligence Committee as it investigat
 
-##### ongoing protests
+##### Ongoing protests
 ### [The birthplace of late President Hugo Chavez is burned by protesters as violence and looting spreads through Barinas, Venezuela following the death of a protester. ](/news/2017/05/22/the-birthplace-of-late-president-hugo-cha-vez-is-burned-by-protesters-as-violence-and-looting-spreads-through-barinas-venezuela-following-t.md)
 Protesters set fire to late President Hugo Chavez&apos;s childhood home in western Venezuela on Monday, an opposition lawmaker said.
 

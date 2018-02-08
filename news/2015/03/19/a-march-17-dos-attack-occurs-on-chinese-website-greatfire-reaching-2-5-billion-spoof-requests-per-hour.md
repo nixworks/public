@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/19/a-march-17-dos-attack-occurs-on-chinese-website
 
 ### [2015-03-19](/news/2015/03/19/index.md)
 
-##### from China
+##### From China
 # A March 17 DOS attack occurs on Chinese website GreatFire, reaching 2.5 billion spoof requests per hour. 
 
 Internet freedom organization GreatFire is being hit with large-scale cyberattacks in likely retaliation for challenging the Chinese regime&#039;s censorship.

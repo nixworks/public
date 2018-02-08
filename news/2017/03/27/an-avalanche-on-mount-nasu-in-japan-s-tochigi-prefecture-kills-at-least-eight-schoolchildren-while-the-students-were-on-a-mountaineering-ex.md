@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/27/an-avalanche-on-mount-nasu-in-japan-s-tochigi-p
 
 ### [2017-03-27](/news/2017/03/27/index.md)
 
-##### avalanche
+##### Avalanche
 # An avalanche on Mount Nasu in Japan's Tochigi Prefecture, kills at least eight schoolchildren while the students were on a mountaineering excursion. There are three students and three teachers missing. 
 
 An avalanche Monday killed seven Japanese high school students and a teacher on a mountain-climbing outing, and injured 40 more. 

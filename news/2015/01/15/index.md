@@ -3,7 +3,7 @@ Formats: [HTML](2015/01/15/index.html)  [JSON](2015/01/15/index.json)  [XML](201
 
 ## [2015-01-15](/news/2015/01/15/index.md)
 
-##### school massacre
+##### School massacre
 ### [Afghan security officials arrest five men in Kabul in relation to their suspected involvement in the Pakistan school massacre. ](/news/2015/01/15/afghan-security-officials-arrest-five-men-in-kabul-in-relation-to-their-suspected-involvement-in-the-pakistan-school-massacre.md)
 Five men accused of involvement in a Pakistan school massacre have been arrested in Afghanistan.
 
@@ -23,13 +23,13 @@ The impetus behind today’s announcement to reveal the Oscar nominees in 24 cat
 ### [The World Bank states that the Philippines can end poverty in a single generation. ](/news/2015/01/15/the-world-bank-states-that-the-philippines-can-end-poverty-in-a-single-generation.md)
 The World Bank said yesterday the Philippines can eliminate poverty within a generation as sustained economic growth in recent years has translated into more jobs and higher incomes. 
 
-##### francs
+##### Francs
 ### [The Swiss franc to euro exchange rate jumps by 30% immediately following a Swiss National Bank announcement. The bank will abandon its three-year-old cap on the swiss franc's value against the euro as well as lower the interest rate on sight deposits (instant access accounts) to -0.75% (the negative number meaning that the depositor has to pay the bank 0.75% per year to hold the depositor's money). ](/news/2015/01/15/the-swiss-franc-to-euro-exchange-rate-jumps-by-30-immediately-following-a-swiss-national-bank-announcement-the-bank-will-abandon-its-three.md)
 _Context: euro, francs, Swiss National Bank_
 
 ##### Target Corporation
 ### [Target will close all of its 133 stores in Canada and put Target Canada into bankruptcy. ](/news/2015/01/15/target-will-close-all-of-its-133-stores-in-canada-and-put-target-canada-into-bankruptcy.md)
-_Context: Target Corporation, Target Canada, Canadian_
+_Context: Target Corporation, Canadian, Target Canada_
 
 ##### RadioShack Corp
 ### [Electronics retailer RadioShack Corp will file for bankruptcy protection by next month. ](/news/2015/01/15/electronics-retailer-radioshack-corp-will-file-for-bankruptcy-protection-by-next-month.md)

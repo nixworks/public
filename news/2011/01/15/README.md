@@ -15,21 +15,21 @@ A U.S. marine shot and killed an Afghan police officer Saturday after a dispute 
 ### [An Iraqi soldier opens fire on U.S. troops at a training centre, killing two and injuring another before being killed himself.](/news/2011/01/15/an-iraqi-soldier-opens-fire-on-u-s-troops-at-a-training-centre-killing-two-and-injuring-another-before-being-killed-himself.md)
 Two U.S. soldiers were killed and a third injured when an Iraqi soldier opened fire on U.S. troops during training in the northern city of Mosul on Saturday, the U.S. military said.
 
-##### encyclopedia
+##### Encyclopedia
 ### [The online encyclopedia Wikipedia celebrates the tenth anniversary of its founding. ](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-the-tenth-anniversary-of-its-founding.md)
 The online encyclopedia Wikipedia, which gets nearly 400 million unique visitors a month, celebrates its 10th anniversary on Saturday.
 
-##### freedom of communication and expression
+##### Freedom of communication and expression
 ### [Advocates of free speech march through the streets of Sydney in support of WikiLeaks spokesperson Julian Assange, who is in England battling attempts by Sweden to have him extradited. Greens MP David Shoebridge addresses the crowd and calls for support from the Australian government. ](/news/2011/01/15/advocates-of-free-speech-march-through-the-streets-of-sydney-in-support-of-wikileaks-spokesperson-julian-assange-who-is-in-england-battling.md)
-_Context: WikiLeaks, freedom of communication and expression, England, Julian Assange, Sydney, David Shoebridge, Sweden, Australian Greens_
+_Context: Sydney, Sweden, England, WikiLeaks, Australian Greens, Julian Assange, David Shoebridge, freedom of communication and expression_
 
 ##### Westminster Cathedral
 ### [In Westminster Cathedral, three Anglican bishops are ordained as Catholic priests. ](/news/2011/01/15/in-westminster-cathedral-three-anglican-bishops-are-ordained-as-catholic-priests.md)
-_Context: Westminster Cathedral, Catholic Church, Church of England_
+_Context: Catholic Church, Church of England, Westminster Cathedral_
 
 ##### Rafael Ramirez
 ### [Rafael Ramirez, energy minister for Venezuela, a member of the Organization of Petroleum Exporting Countries, played down concern that rising oil prices may choke off the world's still-tentative recovery, and said there is no need of an emergency meeting of OPEC. ](/news/2011/01/15/rafael-ramarez-energy-minister-for-venezuela-a-member-of-the-organization-of-petroleum-exporting-countries-played-down-concern-that-risi.md)
-_Context: Venezuela, Organization of Petroleum Exporting Countries, Rafael Ramirez_
+_Context: Rafael Ramirez, Organization of Petroleum Exporting Countries, Venezuela_
 
 ##### Brazil
 ### [Brazilian soldiers arrive in Teresopolis as the death toll from floods and mudslides during Brazil's deadliest disaster passes 600. ](/news/2011/01/15/brazilian-soldiers-arrive-in-teresa3polis-as-the-death-toll-from-floods-and-mudslides-during-brazil-s-deadliest-disaster-passes-600.md)
@@ -53,7 +53,7 @@ A BRITISH undercover police officer who infiltrated protest movements across Eur
 
 ##### Iran
 ### [A group of international diplomats begins a two-day tour given by Iran as a gesture of goodwill and transparency in response to foreign concerns over its nuclear program. The European Union, Russia, and the People's Republic of China refuses its invitation. ](/news/2011/01/15/a-group-of-international-diplomats-begins-a-two-day-tour-given-by-iran-as-a-gesture-of-goodwill-and-transparency-in-response-to-foreign-conc.md)
-_Context: nuclear program, China, European Union, Iran, Russia_
+_Context: Iran, nuclear program, China, European Union, Russia_
 
 ##### Southern Sudanese Independence Referendum
 ### [The Southern Sudanese independence referendum, 2011 ends. ](/news/2011/01/15/the-southern-sudanese-independence-referendum-2011-ends.md)
@@ -65,7 +65,7 @@ France pledges to overhaul its medical regulatory system after a failure to ban 
 
 ##### China
 ### [China may station troops in North Korea to protect its investment projects and citizens.](/news/2011/01/15/china-may-station-troops-in-north-korea-to-protect-its-investment-projects-and-citizens.md)
-_Context: North Korea, People's Liberation Army, China_
+_Context: North Korea, China, People's Liberation Army_
 
 ## [Previous Day...](/news/2011/01/14/index.md)
 

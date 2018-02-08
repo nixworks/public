@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/16/eleven-miners-in-south-africa-are-freed-after-b
 
 ### [2014-02-16](/news/2014/02/16/index.md)
 
-##### miners in South Africa
+##### Miners in South Africa
 # Eleven miners in South Africa are freed after being trapped in an illegal gold mine where they had opened up old sealed shafts but the remaining estimated 19 trapped miners are refusing to come out for fear of being arrested. 
 
 More illegal miners surfaced at an abandoned South African gold mine today as rescuers expressed doubt over a report that 200 people were trapped underground.

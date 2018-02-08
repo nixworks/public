@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/26/the-caretaker-government-of-bangladesh-will-est
 
 ### [2008-05-26](/news/2008/05/26/index.md)
 
-##### government
+##### Government
 #  The caretaker government of Bangladesh will establish a truth commission to deal with past corruption by politicians. 
 
 

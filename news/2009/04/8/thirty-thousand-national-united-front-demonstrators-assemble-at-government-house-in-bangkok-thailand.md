@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/8/thirty-thousand-national-united-front-demonstrat
 
 ### [2009-04-8](/news/2009/04/8/index.md)
 
-##### red shirt
+##### Red shirt
 #  Thirty thousand National United Front demonstrators assemble at Government House in Bangkok, Thailand. 
 
 Thai Prime Minister Abhisit Vejjajiva insisted on Wednesday that an Asian summit, postponed once already, would go ahead in Thailand this week despite a mass rally in Bangkok by demonstrators intent on toppling him.

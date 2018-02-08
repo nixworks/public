@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/17/a-train-carrying-yellow-phosphorus-derails-in-w
 
 ### [2007-07-17](/news/2007/07/17/index.md)
 
-##### phosphorus
+##### Phosphorus
 #  A train carrying yellow phosphorus derails in western Ukraine, sending a toxic cloud over several villages. At least twenty people are hospitalized and hundreds are forced to evacuate. 
 
 A freight train derailed in Ukraine, releasing a cloud of toxic gas and that poisoned at least 20 people, authorities said Tuesday &#8212; an accident that touched nerves still raw more than two decades after the Chernobyl nuclear power plant disaster.

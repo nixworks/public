@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/1/a-member-of-the-board-of-directors-of-major-germ
 
 ### [2006-03-1](/news/2006/03/1/index.md)
 
-##### steel manufacturing
+##### Steel manufacturing
 #  A member of the board of directors of major German steel manufacturing company ThyssenKrupp AG says the company is "examining all its options," and may not complete its proposed acquisition of Canadian steel company Dofasco. 
 
 

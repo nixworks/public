@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/12/the-british-government-is-dragged-into-the-nati
 
 ### [2012-10-12](/news/2012/10/12/index.md)
 
-##### recent allegations of sexual abuse
+##### Recent allegations of sexual abuse
 # The British government is dragged into the nationwide scandal surrounding former BBC presenter and DJ Jimmy Savile, who faces hundreds of allegations surrounding his conduct in the presence of teenage girls. 
 
 

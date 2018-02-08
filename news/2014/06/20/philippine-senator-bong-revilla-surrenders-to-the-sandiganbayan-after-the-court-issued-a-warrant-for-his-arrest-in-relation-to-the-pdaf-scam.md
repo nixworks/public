@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/20/philippine-senator-bong-revilla-surrenders-to-t
 
 ### [2014-06-20](/news/2014/06/20/index.md)
 
-##### senators
+##### Senators
 # Philippine Senator Bong Revilla surrenders to the Sandiganbayan after the court issued a warrant for his arrest in relation to the PDAF scam. 
 
 

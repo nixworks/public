@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/14/2008-thai-political-crisis-the-acting-prime-min
 
 ### [2008-09-14](/news/2008/09/14/index.md)
 
-##### assemble
+##### Assemble
 #  2008 Thai political crisis: The Acting Prime Minister of Thailand Somchai Wongsawat lifts a state of emergency in place since September 2. 
 
 The acting prime minister of Thailand has lifted a state of emergency in the capital that was imposed on Sept. 2 amid an ongoing political crisis.

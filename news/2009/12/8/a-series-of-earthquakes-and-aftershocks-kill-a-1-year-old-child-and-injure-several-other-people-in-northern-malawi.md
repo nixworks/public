@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/8/a-series-of-earthquakes-and-aftershocks-kill-a-1
 
 ### [2009-12-8](/news/2009/12/8/index.md)
 
-##### earthquake
+##### Earthquake
 #  A series of earthquakes and aftershocks kill a 1 year old child and injure several other people in northern Malawi. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/26/more-than-half-a-million-chinese-manufactured-t
 
 ### [2007-09-26](/news/2007/09/26/index.md)
 
-##### lead paint
+##### Lead paint
 #  More than half a million Chinese-manufactured toys are recalled in the United States due to excess levels of lead paint including 269,000 of RC2 Corp's "Thomas & Friends" toy trains. 
 
 

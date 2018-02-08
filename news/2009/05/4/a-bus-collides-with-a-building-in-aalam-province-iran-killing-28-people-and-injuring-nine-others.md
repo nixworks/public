@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/4/a-bus-collides-with-a-building-in-aalam-province
 
 ### [2009-05-4](/news/2009/05/4/index.md)
 
-##### bus
+##### Bus
 #  A bus collides with a building in Ilam Province, Iran, killing 28 people and injuring nine others. 
 
 

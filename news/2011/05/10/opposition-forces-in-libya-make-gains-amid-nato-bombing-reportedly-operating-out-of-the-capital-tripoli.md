@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/10/opposition-forces-in-libya-make-gains-amid-nato
 
 ### [2011-05-10](/news/2011/05/10/index.md)
 
-##### civil war
+##### Civil war
 # Opposition forces in Libya make gains amid NATO bombing, reportedly operating out of the capital Tripoli. 
 
 

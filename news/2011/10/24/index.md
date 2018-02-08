@@ -25,7 +25,7 @@ Parts of south-west England, Northern Ireland and Wales begin to clear up after 
 
 ##### Tunisian Constituent Assembly
 ### [Following Tunisia's first election since the ousting of President Zine El Abidine Ben Ali in January, the moderate Islamist Renaissance Party declares victory, with their centre-left rivals, the Progressive Democratic Party, conceding defeat. The official results of the election are due to be released next week. ](/news/2011/10/24/following-tunisia-s-first-election-since-the-ousting-of-president-zine-el-abidine-ben-ali-in-january-the-moderate-islamist-renaissance-part.md)
-_Context: Tunisian Constituent Assembly, Zine El Abidine Ben Ali, Renaissance Party, Islamist, Jasmine Revolution of 2011, Progressive Democratic Party_
+_Context: Progressive Democratic Party, Renaissance Party, Zine El Abidine Ben Ali, Jasmine Revolution of 2011, Islamist, Tunisian Constituent Assembly_
 
 ##### United Kingdom
 ### [The British House of Commons votes to reject a proposed referendum on Britain's membership of the European Union, with 483 MPs voting against the proposal and 111 voting in favour. Among those who supported the proposal were 81 Conservative Party members, who rebelled against the anti-referendum stance of Prime Minister David Cameron, the leader of the Conservative Party. ](/news/2011/10/24/the-british-house-of-commons-votes-to-reject-a-proposed-referendum-on-britain-s-membership-of-the-european-union-with-483-mps-voting-agains.md)
@@ -35,9 +35,9 @@ The prime minister comfortably defeats an attempt to bring about a referendum on
 ### [Ghulam Nabi Azad, India's Minister of Health and Family Welfare, reports that the country has almost entirely eradicated polio through a vaccination program which immunises over 170 million children every year. No new polio cases have been reported in India for over nine months. ](/news/2011/10/24/ghulam-nabi-azad-india-s-minister-of-health-and-family-welfare-reports-that-the-country-has-almost-entirely-eradicated-polio-through-a-vac.md)
 India has &quot;never been closer&quot; to wiping out polio, Health Minister Ghulam Nabi Azad declares as he marks World Polio Day.
 
-##### coronal mass ejection
+##### Coronal mass ejection
 ### [A coronal mass ejection makes the Northern Lights visible over much of North America. ](/news/2011/10/24/a-coronal-mass-ejection-makes-the-northern-lights-visible-over-much-of-north-america.md)
-_Context: coronal mass ejection, North America, Northern Lights_
+_Context: Northern Lights, North America, coronal mass ejection_
 
 ## [Previous Day...](/news/2011/10/23/index.md)
 

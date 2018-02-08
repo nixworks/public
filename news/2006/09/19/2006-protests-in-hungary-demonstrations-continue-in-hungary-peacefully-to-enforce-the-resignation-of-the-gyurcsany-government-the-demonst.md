@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/19/2006-protests-in-hungary-demonstrations-continu
 
 ### [2006-09-19](/news/2006/09/19/index.md)
 
-##### crowds of about 1,000 demonstrators
+##### Crowds of about 1,000 demonstrators
 #  2006 protests in Hungary: demonstrations continue in Hungary peacefully to enforce the resignation of the Gyurcsny-government. The demonstrators expressed their regret on the vandalism done at the Hungarian Television's headquarters last night. In the meantime, farmers announced that they will close roads in the countryside and around Budapest. 
 
 

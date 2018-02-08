@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/18/a-gunman-attacks-the-offices-of-the-newspaper-l
 
 ### [2013-11-18](/news/2013/11/18/index.md)
 
-##### attacks
+##### Attacks
 # A gunman attacks the offices of the newspaper "Libration" and the bank Socit Gnrale in Paris, three days after attacking the offices of the news channel BFM TV. 
 
 A manhunt is under way in Paris after a gunman attacks a bank HQ and the newspaper Liberation, where a photographer was critically injured.

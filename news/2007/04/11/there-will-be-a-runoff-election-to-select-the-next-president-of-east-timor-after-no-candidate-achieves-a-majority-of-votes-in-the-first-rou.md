@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/11/there-will-be-a-runoff-election-to-select-the-n
 
 ### [2007-04-11](/news/2007/04/11/index.md)
 
-##### second round
+##### Second round
 #  There will be a runoff election to select the next President of East Timor after no candidate achieves a majority of votes in the first round of voting. There are three candidates in contention for the runoff; the Prime Minister of East Timor Dr Jos Ramos-Horta, the Fretilin candidate Francisco Guterres and Fernando de Arajo of the Democratic Party. 
 
 

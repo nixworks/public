@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/21/united-states-congressman-todd-akin-who-is-also
 
 ### [2012-08-21](/news/2012/08/21/index.md)
 
-##### lawmakers
+##### Lawmakers
 # United States Congressman Todd Akin, who is also a candidate for the United States Senate, vows to continue as the US-wide fall-out over his rape, pregnancy and anti-abortion comments rages on. 
 
 US Representative Todd Akin, under fire for controversial remarks on abortion and rape, has resisted pressure from fellow Republicans to drop out of the Missouri Senate race.

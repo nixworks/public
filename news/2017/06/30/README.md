@@ -27,7 +27,7 @@ Magistrates in France have placed Marine Le Pen under formal investigation. This
 ### [A study funded by Bayer and Syngenta confirms that neonicotinoid insecticides kill queen and worker bees. ](/news/2017/06/30/a-study-funded-by-bayer-and-syngenta-confirms-that-neonicotinoid-insecticides-kill-queen-and-worker-bees.md)
 A huge new study conducted in 33 sites across Europe finds that seeds coated with neonicotinoid pesticides harm bees living nearby. The damage, though, depends on local conditions.
 
-##### warming
+##### Warming
 ### [A temperature of 53.7degC (128.7degF) is recorded during the 2017 heat wave in Ahvaz, Khuzestan Province, breaking Iran's previous record and becoming one of the highest temperatures ever recorded on Earth. ](/news/2017/06/30/a-temperature-of-53-7adegc-128-7adegf-is-recorded-during-the-2017-heat-wave-in-ahvaz-khuzestan-province-breaking-iran-s-previous-record-and.md)
 Ahvaz hits hottest temperature ever recorded in Iran, and possibly the world.
 

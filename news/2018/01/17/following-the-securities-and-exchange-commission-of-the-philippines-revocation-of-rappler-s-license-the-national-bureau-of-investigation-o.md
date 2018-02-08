@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/17/following-the-securities-and-exchange-commissio
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
-##### covering
+##### Covering
 # Following the Securities and Exchange Commission of the Philippines' revocation of Rappler's license, the National Bureau of Investigation of the Philippines launches a probe into Rappler. 
 
 

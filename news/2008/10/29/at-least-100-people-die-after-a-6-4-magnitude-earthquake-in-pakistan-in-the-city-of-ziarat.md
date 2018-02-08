@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/29/at-least-100-people-die-after-a-6-4-magnitude-e
 
 ### [2008-10-29](/news/2008/10/29/index.md)
 
-##### it was struck
+##### It was struck
 #  At least 100 people die after a 6.4 magnitude earthquake in Pakistan in the city of Ziarat. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/1/u-s-president-donald-trump-confirms-that-the-uni
 
 ### [2017-06-1](/news/2017/06/1/index.md)
 
-##### plan to leave
+##### Plan to leave
 # U.S. President Donald Trump confirms that the United States will withdraw from the 2015 Paris Agreement on climate change mitigation. 
 
 World’s second largest greenhouse gas emitter will remove itself from global treaty as Trump claims accord ‘will harm’ American jobs

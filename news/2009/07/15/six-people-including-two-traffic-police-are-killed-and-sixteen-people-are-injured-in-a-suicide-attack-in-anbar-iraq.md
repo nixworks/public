@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/15/six-people-including-two-traffic-police-are-kil
 
 ### [2009-07-15](/news/2009/07/15/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Six people, including two traffic police, are killed and sixteen people are injured in a suicide attack in Anbar, Iraq. 
 
 A suicide car bomb has killed six people and wounded 16 others in Iraq&#39;s western Anbar province.

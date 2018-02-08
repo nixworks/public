@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/7/an-oil-tanker-carrying-35-000-tons-of-fuel-oil-r
 
 ### [2003-02-7](/news/2003/02/7/index.md)
 
-##### oil tanker
+##### Oil tanker
 #  An oil tanker carrying 35,000 tons of fuel oil ran aground off Denmark but no immediate spill was reported in the area noted for its wildlife, a Danish Royal Navy spokesman said.
 
 

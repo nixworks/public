@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/17/hundreds-of-people-protest-in-western-china-aft
 
 ### [2011-03-17](/news/2011/03/17/index.md)
 
-##### self-immolation
+##### Self-immolation
 # Hundreds of people protest in western China after the self-immolation of a Tibetan monk in Aba, Sichuan. 
 
 Heightened security and unrest is reported around a Tibetan Buddhist monastery in southwestern China after a monk self-immolates.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/13/a-car-bomb-explodes-near-a-hospital-in-the-liby
 
 ### [2013-05-13](/news/2013/05/13/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near a hospital in the Libyan city of Benghazi, killing at least nine people. 
 
 A car bomb explosion near a hospital in the Libyan city of Benghazi kills and injures several people, local officials say.

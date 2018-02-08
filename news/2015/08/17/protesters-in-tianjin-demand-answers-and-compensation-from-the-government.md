@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/17/protesters-in-tianjin-demand-answers-and-compen
 
 ### [2015-08-17](/news/2015/08/17/index.md)
 
-##### the explosions last year
+##### The explosions last year
 # Protesters in Tianjin demand answers and compensation from the government. 
 
 People in the Chinese city of Tianjin whose homes were damaged by the huge explosions at on 12 August have staged protests to demand compensation from the government.

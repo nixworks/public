@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/12/an-earthquake-of-a-magnitude-of-6-1-on-the-rich
 
 ### [2007-02-12](/news/2007/02/12/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of a magnitude of 6.1 on the Richter scale strikes about 160 km east of Cabo de SGBPo Vicente, Portugal, at 11:36 am (CET). 
 
 There has been an earthquake off the coast of the Algarve in Portugal.

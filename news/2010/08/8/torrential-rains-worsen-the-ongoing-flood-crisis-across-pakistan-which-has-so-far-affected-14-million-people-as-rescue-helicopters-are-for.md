@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/8/torrential-rains-worsen-the-ongoing-flood-crisis
 
 ### [2010-08-8](/news/2010/08/8/index.md)
 
-##### devastating floods
+##### Devastating floods
 # Torrential rains worsen the ongoing flood crisis across Pakistan, which has so far affected 14 million people, as rescue helicopters are forced to stay on the ground in the northwest of the country. 
 
 Prime minister visits flood-hit areas in Sindh as people take refuge in government buildings.

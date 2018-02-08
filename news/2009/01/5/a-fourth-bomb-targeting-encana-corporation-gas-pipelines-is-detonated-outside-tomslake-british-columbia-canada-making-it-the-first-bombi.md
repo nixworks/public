@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/5/a-fourth-bomb-targeting-encana-corporation-gas-p
 
 ### [2009-01-5](/news/2009/01/5/index.md)
 
-##### fourth bomb
+##### Fourth bomb
 #  A fourth bomb targeting EnCana Corporation gas pipelines is detonated outside Tomslake, British Columbia, Canada, making it the first bombing since the three original blasts in October 2008. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/12/a-coroner-in-australia-s-northern-territory-rul
 
 ### [2012-06-12](/news/2012/06/12/index.md)
 
-##### coroner
+##### Coroner
 # A coroner in Australia's Northern Territory rules that a dingo was responsible for the death of baby Azaria Chamberlain at Uluru in August 1980. 
 
 A 32-year legal mystery has came to an end in a case that split national opinion and attracted global headlines.

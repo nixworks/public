@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/14/heat-wave-french-health-officials-estimate-that
 
 ### [2003-08-14](/news/2003/08/14/index.md)
 
-##### heat wave
+##### Heat wave
 #  Heat wave: French health officials estimate that as many as 3,000 people may have died in France as a result of the heat wave. Fatalities and illnesses are swamping the French health system. The city of Paris launches its "Plan blanc" emergency response procedure. However, temperatures in Paris have now dropped from 40&nbsp;degC to 30&nbsp;degC.
 
 

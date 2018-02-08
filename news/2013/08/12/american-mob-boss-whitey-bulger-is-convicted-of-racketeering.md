@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/12/american-mob-boss-whitey-bulger-is-convicted-of
 
 ### [2013-08-12](/news/2013/08/12/index.md)
 
-##### mob boss
+##### Mob boss
 # American mob boss Whitey Bulger is convicted of racketeering. 
 
 

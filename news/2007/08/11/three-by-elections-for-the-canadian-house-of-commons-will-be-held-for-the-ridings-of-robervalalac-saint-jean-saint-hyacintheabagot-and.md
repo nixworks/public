@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/11/three-by-elections-for-the-canadian-house-of-co
 
 ### [2007-08-11](/news/2007/08/11/index.md)
 
-##### by-election
+##### By-election
 #  Three by-elections for the Canadian House of Commons will be held for the ridings of Roberval--Lac-Saint-Jean, Saint-Hyacinthe--Bagot and Outremont on September 17. 
 
 

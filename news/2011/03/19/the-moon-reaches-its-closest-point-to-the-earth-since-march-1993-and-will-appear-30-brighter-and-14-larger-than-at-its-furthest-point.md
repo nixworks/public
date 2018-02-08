@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/19/the-moon-reaches-its-closest-point-to-the-earth
 
 ### [2011-03-19](/news/2011/03/19/index.md)
 
-##### moon
+##### Moon
 # The moon reaches its closest point to the Earth since March 1993, and will appear 30% brighter and 14% larger than at its furthest point. 
 
 

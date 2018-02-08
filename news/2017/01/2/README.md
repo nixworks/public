@@ -5,11 +5,11 @@ Formats: [HTML](2017/01/2/index.html)  [JSON](2017/01/2/index.json)  [XML](2017/
 
 ##### 2017 Istanbul nightclub attack
 ### [The Islamic State in Iraq and the Levant claims responsibility for the attack in what it claims is a response to Turkey's actions in neighbouring Syria. ](/news/2017/01/2/the-islamic-state-in-iraq-and-the-levant-claims-responsibility-for-the-attack-in-what-it-claims-is-a-response-to-turkey-s-actions-in-neighbo.md)
-_Context: Islamic State in Iraq and the Levant, Turkey, 2017 Istanbul nightclub attack, Syria_
+_Context: 2017 Istanbul nightclub attack, Turkey, Syria, Islamic State in Iraq and the Levant_
 
 ##### January 2017 Baghdad bombings
 ### [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md)
-_Context: January 2017 Baghdad bombings, Iraq, Baghdad_
+_Context: Baghdad, January 2017 Baghdad bombings, Iraq_
 
 ##### Texas
 ### [In Texas, four children die with an additional six others injured after they are poisoned by phosgene gas sprayed in an inappropriate attempt as a pesticide. ](/news/2017/01/2/in-texas-four-children-die-with-an-additional-six-others-injured-after-they-are-poisoned-by-phosgene-gas-sprayed-in-an-inappropriate-attemp.md)
@@ -19,7 +19,7 @@ A poisonous gas believed to have been released when someone tried to wash away a
 ### [A wildfire destroys at least 100 homes in Valparaso, Chile, causing the evacuation of about 400 people. The Chilean Ministry of the Interior and Public Security reports that at least 19 people suffered from minor injuries. ](/news/2017/01/2/a-wildfire-destroys-at-least-100-homes-in-valparaiso-chile-causing-the-evacuation-of-about-400-people-the-chilean-ministry-of-the-interio.md)
  A large fire broke out in the coastal Chilean city of Valparaiso on Monday evening, burning at least 100 homes, prompting the evacuation of about 400 people an
 
-##### southern United States
+##### Southern United States
 ### [A powerful storm system hits the southern United States, resulting in four deaths in Alabama and severe damage across several states. ](/news/2017/01/2/a-powerful-storm-system-hits-the-southern-united-states-resulting-in-four-deaths-in-alabama-and-severe-damage-across-several-states.md)
 _Context: southern United States, Alabama_
 

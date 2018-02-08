@@ -17,17 +17,17 @@ Hurricane Maria slammed into Puerto Rico on Wednesday as the strongest storm to 
 
 ##### U.N. Prohibition of Nuclear Weapons Treaty
 ### [Fifty countries (50) sign the Treaty on the Prohibition of Nuclear Weapons, adopted on 7 July 2017, at the United Nations headquarters in New York City. The world's nuclear-weapon states oppose the measure. ](/news/2017/09/20/fifty-countries-50-sign-the-treaty-on-the-prohibition-of-nuclear-weapons-adopted-on-7-july-2017-at-the-united-nations-headquarters-in-ne.md)
-_Context: U.N. Prohibition of Nuclear Weapons Treaty, nuclear-weapon states_
+_Context: nuclear-weapon states, U.N. Prohibition of Nuclear Weapons Treaty_
 
 ##### Presidency of Donald Trump
 ### [ California Attorney General Xavier Becerra files suit in federal court against U.S. President Donald Trump's proposed plan for a wall along the U.S.-Mexico border. ](/news/2017/09/20/california-attorney-general-xavier-becerra-files-suit-in-federal-court-against-u-s-president-donald-trump-s-proposed-plan-for-a-wall-along.md)
  SACRAMENTO, Calif. (AP) — California&#39;s attorney general sued the Trump administration Wednesday over its plan to build a wall along the U.S.-Mexico border, arguing it&#39;s oversteppi
 
-##### secession
+##### Secession
 ### [Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." ](/news/2017/09/20/spanish-police-raid-catalan-government-offices-and-arrest-catalan-officials-as-part-of-the-effort-to-halt-a-banned-referendum-on-independenc.md)
 Spanish police raided Catalan government offices and arrested officials on Wednesday to halt a banned referendum on independence, an action the regional president said meant Madrid had effectively taken over his administration.
 
-##### drug crackdown
+##### Drug crackdown
 ### [Speaking to government workers at the presidential palace in Manila, President Rodrigo Duterte orders police to kill his eldest son, Paulo Duterte, if drug trafficking allegations against him are proven true, and adds that those who carried out the execution would be protected from prosecution. ](/news/2017/09/20/speaking-to-government-workers-at-the-presidential-palace-in-manila-president-rodrigo-duterte-orders-police-to-kill-his-eldest-son-paulo-d.md)
 Rodrigo Duterte has ordered police to kill his eldest son if drug trafficking allegations against him are proven true. The Philippine President added he would make sure those who carried out the execution would be protected from prosecution. 
 

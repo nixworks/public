@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/3/the-death-toll-from-a-fire-in-dhaka-rises-to-at-
 
 ### [2010-06-3](/news/2010/06/3/index.md)
 
-##### a fire
+##### A fire
 # The death toll from a fire in Dhaka rises to at least 87 people, injures more than 100 more and leaves others trapped and in danger. 
 
 More than 116 people die in a fire in the Bangladeshi capital Dhaka, with others feared trapped in buildings.

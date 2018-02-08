@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/23/war-in-somalia-ethiopia-begins-withdrawing-troo
 
 ### [2007-01-23](/news/2007/01/23/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Ethiopia begins withdrawing troops from Mogadishu. 
 
 

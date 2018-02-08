@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/23/scientists-record-what-they-believe-to-be-the-f
 
 ### [2012-04-23](/news/2012/04/23/index.md)
 
-##### orca
+##### Orca
 # Scientists record what they believe to be the first adult white orca in the wild off the coast of Kamchatka, Russia. 
 
 

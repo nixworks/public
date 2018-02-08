@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/12/voters-in-guam-washington-d-c-and-wyoming-head-
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
-##### presidential primaries
+##### Presidential primaries
 # Voters in Guam, Washington, D.C. and Wyoming head to the polls to vote in Republican Party caucuses, while Democratic Party members vote in the Northern Mariana Islands caucus. 
 
 Texas Sen. Ted Cruz took the Wyoming GOP caucuses by a wide margin Saturday night as Florida Sen. Marco Rubio won in Washington, DC. Cruz won 66 percent of the vote from the Cowboy State’s county c…

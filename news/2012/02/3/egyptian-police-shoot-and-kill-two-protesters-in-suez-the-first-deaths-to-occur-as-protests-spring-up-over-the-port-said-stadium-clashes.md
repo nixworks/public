@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/3/egyptian-police-shoot-and-kill-two-protesters-in
 
 ### [2012-02-3](/news/2012/02/3/index.md)
 
-##### police officers
+##### Police officers
 # Egyptian police shoot and kill two protesters in Suez, the first deaths to occur as protests spring up over the Port Said Stadium clashes. 
 
 Two people are shot dead and more than 400 injured in protests across Egypt sparked by the deaths of 74 people after a football match.

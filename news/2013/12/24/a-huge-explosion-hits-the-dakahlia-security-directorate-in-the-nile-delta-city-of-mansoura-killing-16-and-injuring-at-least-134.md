@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/24/a-huge-explosion-hits-the-dakahlia-security-dir
 
 ### [2013-12-24](/news/2013/12/24/index.md)
 
-##### huge explosion
+##### Huge explosion
 # A huge explosion hits the Dakahlia security directorate in the Nile Delta city of Mansoura, killing 16 and injuring at least 134. 
 
 

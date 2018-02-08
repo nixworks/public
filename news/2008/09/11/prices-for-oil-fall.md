@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/11/prices-for-oil-fall.html)  [JSON](/news/2008/09
 
 ### [2008-09-11](/news/2008/09/11/index.md)
 
-##### crude oil
+##### Crude oil
 #  Prices for oil fall 
 
 

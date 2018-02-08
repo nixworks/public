@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/29/one-of-the-guantanamo-detainees-omar-khadr-is-t
 
 ### [2012-09-29](/news/2012/09/29/index.md)
 
-##### the Guantanamo detainees
+##### The Guantanamo detainees
 # One of the Guantanamo detainees, Omar Khadr, is transferred to Canada to serve the remainder of his sentence. 
 
 

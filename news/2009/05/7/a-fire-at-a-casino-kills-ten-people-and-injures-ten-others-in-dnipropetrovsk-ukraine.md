@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/7/a-fire-at-a-casino-kills-ten-people-and-injures-
 
 ### [2009-05-7](/news/2009/05/7/index.md)
 
-##### casino
+##### Casino
 #  A fire at a casino kills ten people and injures ten others in Dnipropetrovsk, Ukraine. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/11/conflict-in-iraq-a-rocket-attack-in-southern-ba
 
 ### [2004-10-11](/news/2004/10/11/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: A rocket attack in southern Baghdad kills two US soldiers and injures five others, while in the northern city of Mosul a suicide car bomb detonated near a U.S. military convoy kills a U.S. soldier and two Iraqis and injures 27 others. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

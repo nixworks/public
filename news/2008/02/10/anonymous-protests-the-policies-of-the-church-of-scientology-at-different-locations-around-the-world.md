@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/10/anonymous-protests-the-policies-of-the-church-o
 
 ### [2008-02-10](/news/2008/02/10/index.md)
 
-##### protest
+##### Protest
 #  "Anonymous" protests the policies of the Church of Scientology at different locations around the world. 
 
 A shadowy, loose-knit consortium of activists and hackers called &#039;Anonymous&#039; is just the latest thorn in Scientology&#039;s side.

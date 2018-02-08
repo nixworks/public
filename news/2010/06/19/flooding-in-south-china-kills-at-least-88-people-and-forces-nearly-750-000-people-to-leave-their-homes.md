@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/19/flooding-in-south-china-kills-at-least-88-peopl
 
 ### [2010-06-19](/news/2010/06/19/index.md)
 
-##### floods in China
+##### Floods in China
 # Flooding in South China kills at least 88 people, and forces nearly 750,000 people to leave their homes. 
 
 At least 88 people have died in flooding caused by torrential rain in southern China, officials say.

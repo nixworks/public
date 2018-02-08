@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/20/a-13-year-old-boy-uses-a-home-made-crossbow-to-
 
 ### [2015-04-20](/news/2015/04/20/index.md)
 
-##### crossbow
+##### Crossbow
 # A 13-year-old boy uses a home-made crossbow to kill a teacher and wound four other people at his school in the city of Barcelona. 
 
 A student armed with a makeshift crossbow and a knife kills a teacher at a school in Barcelona, Spain.

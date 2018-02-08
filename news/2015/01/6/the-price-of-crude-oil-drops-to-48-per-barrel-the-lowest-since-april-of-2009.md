@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/6/the-price-of-crude-oil-drops-to-48-per-barrel-th
 
 ### [2015-01-6](/news/2015/01/6/index.md)
 
-##### crude oil
+##### Crude oil
 # The price of crude oil drops to $48 per barrel, the lowest since April of 2009. 
 
 

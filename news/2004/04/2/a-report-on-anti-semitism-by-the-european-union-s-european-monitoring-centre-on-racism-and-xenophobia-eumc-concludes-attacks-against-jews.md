@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/2/a-report-on-anti-semitism-by-the-european-union-
 
 ### [2004-04-2](/news/2004/04/2/index.md)
 
-##### anti-Semitism
+##### Anti-Semitism
 #  A report on anti-Semitism by the European Union's European Monitoring Centre on Racism and Xenophobia (EUMC) concludes attacks against Jews in Europe are rising, primarily ascribed to youths from neighborhoods sensitive to the Israeli-Palestinian conflict, principally of North African descent.date=April 2011
 
 

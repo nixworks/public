@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/10/talks-on-north-korea-s-nuclear-program-stall-in
 
 ### [2008-12-10](/news/2008/12/10/index.md)
 
-##### nuclear program
+##### Nuclear program
 #  Talks on North Korea's nuclear program stall in a dispute over verification. 
 
 

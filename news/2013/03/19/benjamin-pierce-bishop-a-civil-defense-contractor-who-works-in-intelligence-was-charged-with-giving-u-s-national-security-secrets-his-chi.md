@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/benjamin-pierce-bishop-a-civil-defense-contract
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### civil defense
+##### Civil defense
 # Benjamin Pierce Bishop, a civil defense contractor who works in intelligence, was charged with giving U.S. national security secrets his Chinese girlfriend. 
 
 

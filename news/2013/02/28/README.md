@@ -9,7 +9,7 @@ Thailand signs its first-ever deal with Muslim rebels based in Malaysia to begin
 
 ##### 2013 Rishon LeZion car bombing
 ### [2013 Rishon LeZion car bombing: At least 2 people are killed in a car bombing in Rishon LeZion near Tel Aviv, Israel. ](/news/2013/02/28/2013-rishon-lezion-car-bombing-at-least-2-people-are-killed-in-a-car-bombing-in-rishon-lezion-near-tel-aviv-israel.md)
-_Context: Israel, 2013 Rishon LeZion car bombing, Tel Aviv, Rishon LeZion, car bombing_
+_Context: Israel, 2013 Rishon LeZion car bombing, Tel Aviv, car bombing, Rishon LeZion_
 
 ##### United States
 ### [The United States announces that it will provide $60 million of food and medical aid, but not weapons, to rebel fighters. ](/news/2013/02/28/the-united-states-announces-that-it-will-provide-60-million-of-food-and-medical-aid-but-not-weapons-to-rebel-fighters.md)
@@ -25,7 +25,7 @@ Bombings target predominantly Shia Muslim areas in and around Baghdad against a 
 
 ##### Cannes Film Festival
 ### [The Cannes Film Festival board of directors announce that Steven Spielberg will head the 2013 Cannes Film Festival jury. ](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.md)
-_Context: 2013 Cannes Film Festival, Cannes Film Festival, Steven Spielberg_
+_Context: 2013 Cannes Film Festival, Steven Spielberg, Cannes Film Festival_
 
 ##### United States
 ### [Revised data indicates that the United States economy grew 0.1% in the fourth quarter of 2012. ](/news/2013/02/28/revised-data-indicates-that-the-united-states-economy-grew-0-1-in-the-fourth-quarter-of-2012.md)
@@ -39,11 +39,11 @@ India dumped a proposal to tighten rules for overseas investors seeking to benef
 ### [Girls Gone Wild files for bankruptcy protection citing $16 million in debts. ](/news/2013/02/28/girls-gone-wild-files-for-bankruptcy-protection-citing-16-million-in-debts.md)
 The company behind the &quot;Girls Gone Wild&quot; video series featuring scantily clad young women drinking, dancing and stripping, has filed for bankruptcy protection citing $16 million in debts, according to court papers obtained on Thursday.
 
-##### restaurant boat
+##### Restaurant boat
 ### [At least eight people are killed and several are missing after a restaurant boat sinks in the Tigris, in central Baghdad, Iraq. ](/news/2013/02/28/at-least-eight-people-are-killed-and-several-are-missing-after-a-restaurant-boat-sinks-in-the-tigris-in-central-baghdad-iraq.md)
 Iraqi officials say a crowded restaurant boat carrying dozens of guests has sunk in the Tigris river in central Baghdad, leaving at least eight people dead.
 
-##### genetic
+##### Genetic
 ### [A study finds common genetic links between five major psychiatric disorders: autism, ADHD, bipolar disorder, depression, and schizophrenia. ](/news/2013/02/28/a-study-finds-common-genetic-links-between-five-major-psychiatric-disorders-autism-adhd-bipolar-disorder-depression-and-schizophrenia.md)
 Five very different psych disorders have something in common--genetics.
 
@@ -69,11 +69,11 @@ Bradley Manning, the US Army private accused in the Wikileaks case, pleads guilt
 
 ##### Parliament
 ### [Parliament of Slovenia ousts Prime Minister Janez Jansa amid corruption allegations. Opposition leader Alenka Bratusek is tasked to form a new government. ](/news/2013/02/28/parliament-of-slovenia-ousts-prime-minister-janez-jana-a-amid-corruption-allegations-opposition-leader-alenka-bratua-ek-is-tasked-to-form-a.md)
-_Context: Janez Jansa, Prime Minister of Slovenia, Slovenia, Parliament, Alenka Bratusek_
+_Context: Slovenia, Alenka Bratusek, Janez Jansa, Prime Minister of Slovenia, Parliament_
 
 ##### Haruhiko Kuroda
 ### [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md)
-_Context: Haruhiko Kuroda, Prime Minister of Japan, Bank of Japan, Japan, Shinzo Abe_
+_Context: Shinzo Abe, Prime Minister of Japan, Haruhiko Kuroda, Japan, Bank of Japan_
 
 ##### Eastleigh by-election
 ### [Voters go to the polls in the Eastleigh by-election following the resignation of former UK Cabinet Minister Chris Huhne with Liberal Democrat candidate Mike Thornton retaining the seat for his party. ](/news/2013/02/28/voters-go-to-the-polls-in-the-eastleigh-by-election-following-the-resignation-of-former-uk-cabinet-minister-chris-huhne-with-liberal-democra.md)
@@ -87,7 +87,7 @@ Jack Lew was sworn in as Treasury secretary on Thursday, a White House official 
 ### [Pope Benedict XVI completes his last day of work before he starts his retirement. ](/news/2013/02/28/pope-benedict-xvi-completes-his-last-day-of-work-before-he-starts-his-retirement.md)
 Benedict XVI vows &quot;unconditional obedience and reverence&quot; to his eventual successor as pope on his final day in office at the Vatican.
 
-##### radiation belt
+##### Radiation belt
 ### [A temporary third radiation belt is discovered around planet Earth by NASA's twin Van Allen Probes. ](/news/2013/02/28/a-temporary-third-radiation-belt-is-discovered-around-planet-earth-by-nasa-s-twin-van-allen-probes.md)
 NASA has discovered a new radiation ring encircling the Earth. The short-lived radiation belt is a third Van Allen belt and was discovered by NASA&#039;s Van Allen Probes, scientists say.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/08/1/the-battle-of-ayta-al-sha-b-rages-with-multiple-
 
 ### [2006-08-1](/news/2006/08/1/index.md)
 
-##### war
+##### War
 #  The Battle of Ayta al-Sha`b rages, with multiple Israeli casualties. 
 
 (VIDEO) Cleared for publication: Army suffers a number of casualties during battles in Aita al-Shaab in south Lebanon. Paratroopers operating in village since pre-dawn Tuesday; at least six Hizbullah members killed in fighting 

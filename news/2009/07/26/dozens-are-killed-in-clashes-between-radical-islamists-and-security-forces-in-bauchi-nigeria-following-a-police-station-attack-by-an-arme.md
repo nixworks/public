@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/26/dozens-are-killed-in-clashes-between-radical-is
 
 ### [2009-07-26](/news/2009/07/26/index.md)
 
-##### alive when captured
+##### Alive when captured
 #  Dozens are killed in clashes between radical Islamists and security forces in Bauchi, Nigeria, following a police station attack by an armed gang in retaliation for the arrests of their leaders. 
 
 More than 50 Nigerians were killed today in clashes between security forces and militants in the northeastern city of Bauchi, &hellip;

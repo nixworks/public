@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/26/conflict-in-iraq-u-s-secretary-of-state-colin-p
 
 ### [2004-09-26](/news/2004/09/26/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: U.S. Secretary of State Colin Powell says, in an interview on the ABC television interview program "This Week," that the insurgency in Iraq is worsening, and that the aim of the insurgents is to disrupt the upcoming elections. 
 
 

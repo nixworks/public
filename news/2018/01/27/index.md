@@ -7,13 +7,13 @@ Formats: [HTML](2018/01/27/index.html)  [JSON](2018/01/27/index.json)  [XML](201
 ### [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md)
 Taliban insurgents claimed responsibility for the attack, which they said targeted police guarding a road leading to the former Interior Ministry in an area densely populated with civilians.
 
-##### military
+##### Military
 ### [Gunmen kill at least 14 soldiers at a military base in Soumpi, central Mali. ](/news/2018/01/27/gunmen-kill-at-least-14-soldiers-at-a-military-base-in-soumpi-central-mali.md)
 Unidentified&#x20;gunmen&#x20;on&#x20;Saturday&#x20;killed&#x20;at&#x20;least&#x20;14&#x20;soldiers&#x20;in&#x20;central&#x20;Mali,&#x20;an&#x20;area&#x20;targeted&#x20;by&#x20;a&#x20;growing&#x20;wave&#x20;of&#x20;attacks&#x20;by&#x20;Islamist&#x20;militants,&#x20;when&#x20;they&#x20;overran&#x20;a...
 
 ##### Energy in Europe
 ### [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md)
-_Context: Rex Tillerson, United States Secretary of State, energy security, Energy in Europe, Nord Stream 2, Poland_
+_Context: United States Secretary of State, Polish, Rex Tillerson, Nord Stream 2, Energy in Europe, energy security_
 
 ##### Paris
 ### [Riverside homes and businesses in Paris are on high alert as the swollen River Seine threatens to overflow its banks. ](/news/2018/01/27/riverside-homes-and-businesses-in-paris-are-on-high-alert-as-the-swollen-river-seine-threatens-to-overflow-its-banks.md)

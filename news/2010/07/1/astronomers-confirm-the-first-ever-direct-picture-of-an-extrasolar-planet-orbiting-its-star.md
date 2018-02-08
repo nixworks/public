@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/1/astronomers-confirm-the-first-ever-direct-pictur
 
 ### [2010-07-1](/news/2010/07/1/index.md)
 
-##### star
+##### Star
 # Astronomers confirm the first-ever direct picture of an extrasolar planet orbiting its star. 
 
 A team of astronomers says it holds bragging rights to releasing the first ever direct picture of an alien planet around a sunlike star.

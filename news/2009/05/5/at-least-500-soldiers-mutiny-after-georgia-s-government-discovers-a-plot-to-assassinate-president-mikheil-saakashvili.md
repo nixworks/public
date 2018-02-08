@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/5/at-least-500-soldiers-mutiny-after-georgia-s-gov
 
 ### [2009-05-5](/news/2009/05/5/index.md)
 
-##### soldiers
+##### Soldiers
 #  At least 500 soldiers mutiny after Georgia's government discovers a plot to assassinate President Mikheil Saakashvili. 
 
 

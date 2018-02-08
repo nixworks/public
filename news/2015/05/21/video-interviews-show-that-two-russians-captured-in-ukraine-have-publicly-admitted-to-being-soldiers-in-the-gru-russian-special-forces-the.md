@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/21/video-interviews-show-that-two-russians-capture
 
 ### [2015-05-21](/news/2015/05/21/index.md)
 
-##### military intervention in Ukraine
+##### Military intervention in Ukraine
 # Video interviews show that two Russians captured in Ukraine have publicly admitted to being soldiers in the GRU Russian special forces. The Donetsk People's Republic (separatists) authorities claim these men were official policemen in the self-proclaimed republic, publicized their ID badges, and claimed they retired from the Russian military last year. 
 
 European mediators in the Ukrainian crisis said Thursday that two men captured by Kiev&#x27;s troops had confessed to being members of the Russian armed forces sent in to back up pro-Moscow separatist fighters. The revelation by the Organization for Security and Co-operation in Europe (OSCE) provides

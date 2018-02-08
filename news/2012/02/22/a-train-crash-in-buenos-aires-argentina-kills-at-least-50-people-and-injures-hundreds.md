@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/22/a-train-crash-in-buenos-aires-argentina-kills-a
 
 ### [2012-02-22](/news/2012/02/22/index.md)
 
-##### train crash in Buenos Aires
+##### Train crash in Buenos Aires
 # A train crash in Buenos Aires, Argentina, kills at least 50 people and injures hundreds. 
 
 A commuter train crash at a station in the Argentine capital Buenos Aires kills at least 49 people and leaves more than 600 injured, officials say.

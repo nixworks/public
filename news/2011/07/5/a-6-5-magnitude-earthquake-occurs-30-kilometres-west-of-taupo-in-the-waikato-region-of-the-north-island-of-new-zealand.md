@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/5/a-6-5-magnitude-earthquake-occurs-30-kilometres-
 
 ### [2011-07-5](/news/2011/07/5/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.5 magnitude earthquake occurs 30 kilometres west of Taupo in the Waikato Region of the North Island of New Zealand. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/17/the-military-of-fiji-issues-an-ultimatum-to-the
 
 ### [2006-10-17](/news/2006/10/17/index.md)
 
-##### military government
+##### Military government
 #  The military of Fiji issues an ultimatum to the government to drop legislation which would give an amnesty to the leaders of the 2000 coup, or resign. 
 
 

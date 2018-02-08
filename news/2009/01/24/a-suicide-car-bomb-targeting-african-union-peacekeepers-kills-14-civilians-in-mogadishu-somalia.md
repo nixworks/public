@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/24/a-suicide-car-bomb-targeting-african-union-peac
 
 ### [2009-01-24](/news/2009/01/24/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide car bomb targeting African Union peacekeepers kills 14 civilians in Mogadishu, Somalia. 
 
 A suicide car bomb aimed at African Union (AU) peacekeepers in the Somali capital missed its target and killed 14 civilians on Saturday, witnesses said.

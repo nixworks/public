@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/18/28-people-die-in-a-fire-at-a-saudi-aramco-gas-p
 
 ### [2007-11-18](/news/2007/11/18/index.md)
 
-##### fire
+##### Fire
 #  28 people die in a fire at a Saudi Aramco gas pipeline in Hawiya, Saudi Arabia. Twelve more people are missing. 
 
 

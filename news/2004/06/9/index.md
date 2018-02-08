@@ -9,7 +9,7 @@ _Context: Iraq, Kurd_
 
 ##### Cologne
 ### [ An explosion injures at least 17 in a commercial district of Cologne, Germany. Authorities are treating it as a bomb attack. ](/news/2004/06/9/an-explosion-injures-at-least-17-in-a-commercial-district-of-cologne-germany-authorities-are-treating-it-as-a-bomb-attack.md)
-_Context: bomb, Cologne_
+_Context: Cologne, bomb_
 
 ##### British Phonographic Industry
 ### [ The British Phonographic Industry decides not to follow the rest of the IFPI in suing for file sharing of music. ](/news/2004/06/9/the-british-phonographic-industry-decides-not-to-follow-the-rest-of-the-ifpi-in-suing-for-file-sharing-of-music.md)
@@ -17,19 +17,19 @@ _Context: file sharing, music, IFPI, British Phonographic Industry_
 
 ##### Attorney General
 ### [ U.S. Attorney General John Ashcroft tells the Senate Judiciary Committee that George W. Bush did not approve the torture of terrorist prisoners; he also reiterates his stance that the Geneva Conventions do not apply to al-Qaeda fighters. ](/news/2004/06/9/u-s-attorney-general-john-ashcroft-tells-the-senate-judiciary-committee-that-george-w-bush-did-not-approve-the-torture-of-terrorist-priso.md)
-_Context: John Ashcroft, terrorism, Attorney General, Geneva Conventions, United States Senate, al-Qaeda, Judiciary Committee, George W. Bush, prison, torture_
+_Context: Geneva Conventions, al-Qaeda, George W. Bush, United States Senate, torture, Judiciary Committee, Attorney General, John Ashcroft, prison, terrorism_
 
 ##### Pakistan
 ### [ Twenty heavily armed foreign militants are killed by Pakistan in the South Waziristan mountainous tribal region near the Afghan border where it is believed that hundreds of al-Qaida members are hiding. ](/news/2004/06/9/twenty-heavily-armed-foreign-militants-are-killed-by-pakistan-in-the-south-waziristan-mountainous-tribal-region-near-the-afghan-border-wher.md)
-_Context: al-Qaida, Afghanistan, Waziristan, Pakistan_
+_Context: Waziristan, Afghanistan, Pakistan, al-Qaida_
 
-##### military
+##### Military
 ### [ Canada announces it will be increasing its non-military role in Iraq, while NATO is currently undecided about sending more support to Iraq. ](/news/2004/06/9/canada-announces-it-will-be-increasing-its-non-military-role-in-iraq-while-nato-is-currently-undecided-about-sending-more-support-to-iraq.md)
-_Context: military, NATO, Iraq_
+_Context: NATO, military, Iraq_
 
 ##### Fucking, Austria
 ### [ The village of Fucking, Austria, votes to keep its name, despite the cost of stolen traffic signs and possible embarrassment over its meaning in English. ](/news/2004/06/9/the-village-of-fucking-austria-votes-to-keep-its-name-despite-the-cost-of-stolen-traffic-signs-and-possible-embarrassment-over-its-meani.md)
-_Context: English, Fucking, Austria, traffic sign_
+_Context: traffic sign, Fucking, Austria, English_
 
 ## [Previous Day...](/news/2004/06/8/index.md)
 

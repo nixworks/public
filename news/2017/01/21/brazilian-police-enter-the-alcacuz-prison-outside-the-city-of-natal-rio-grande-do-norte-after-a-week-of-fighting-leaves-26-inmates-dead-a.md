@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/21/brazilian-police-enter-the-alcacuz-prison-outsi
 
 ### [2017-01-21](/news/2017/01/21/index.md)
 
-##### police
+##### Police
 # Brazilian police enter the Alcacuz prison outside the city of Natal, Rio Grande do Norte, after a week of fighting leaves 26 inmates dead. At least 126 people have been killed in Brazil's prisons since the beginning of the year. 
 
 

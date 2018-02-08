@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/10/philippine-army-forces-attack-abu-sayyaf-fighte
 
 ### [2011-03-10](/news/2011/03/10/index.md)
 
-##### army
+##### Army
 # Philippine Army forces attack Abu Sayyaf fighters in a mangrove in Sacol Island in Zamboanga City. 
 
 

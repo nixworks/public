@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/10/six-people-die-in-a-bomb-attack-on-a-festival-i
 
 ### [2006-10-10](/news/2006/10/10/index.md)
 
-##### bomb attack
+##### Bomb attack
 #  Six people die in a bomb attack on a festival in the town of Makilala in the Philippines. Two others are killed and four injured in a blast at a market in Tacurong, Sultan Kudarat. Officials blame Muslim extremist groups. 
 
 

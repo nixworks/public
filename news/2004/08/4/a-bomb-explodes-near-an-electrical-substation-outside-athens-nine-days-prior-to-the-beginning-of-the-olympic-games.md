@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/4/a-bomb-explodes-near-an-electrical-substation-ou
 
 ### [2004-08-4](/news/2004/08/4/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes near an electrical substation outside Athens, nine days prior to the beginning of the Olympic Games. 
 
 

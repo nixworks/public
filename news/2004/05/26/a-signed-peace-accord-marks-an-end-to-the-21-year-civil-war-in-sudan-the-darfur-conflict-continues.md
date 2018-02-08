@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/26/a-signed-peace-accord-marks-an-end-to-the-21-ye
 
 ### [2004-05-26](/news/2004/05/26/index.md)
 
-##### civil war in Sudan
+##### Civil war in Sudan
 #  A signed peace accord marks an end to the 21-year civil war in Sudan. The Darfur conflict continues. 
 
 Things to do in Miami

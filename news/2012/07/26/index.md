@@ -5,9 +5,9 @@ Formats: [HTML](2012/07/26/index.html)  [JSON](2012/07/26/index.json)  [XML](201
 
 ##### Syrian Army
 ### [The Syrian Army is reportedly preparing for a large-scale offensive in Aleppo, with the US State Department citing credible reports of tank columns moving into the city, backed by special forces, helicopter gunships and fixed-wing aircraft. ](/news/2012/07/26/the-syrian-army-is-reportedly-preparing-for-a-large-scale-offensive-in-aleppo-with-the-us-state-department-citing-credible-reports-of-tank.md)
-_Context: Syrian Army, US State Department, Aleppo_
+_Context: Aleppo, Syrian Army, US State Department_
 
-##### northwestern Pakistan
+##### Northwestern Pakistan
 ### [A bomb explosion in a crowded market in northwestern Pakistan close to the Afghan border kills at least seven people. ](/news/2012/07/26/a-bomb-explosion-in-a-crowded-market-in-northwestern-pakistan-close-to-the-afghan-border-kills-at-least-seven-people.md)
 A truck packed with explosives detonates in a crowded market in northwestern Pakistan.
 
@@ -25,7 +25,7 @@ Ivorian president Alassane Ouattara says cancellation of the debt will help the 
 
 ##### North Korea
 ### [Sixteen thousand people become homeless in North Korea after Tropical Storm Khanun hit last week. ](/news/2012/07/26/sixteen-thousand-people-become-homeless-in-north-korea-after-tropical-storm-khanun-hit-last-week.md)
-_Context: Tropical Storm Khanun, North Korea_
+_Context: North Korea, Tropical Storm Khanun_
 
 ##### Beijing
 ### [Officials in Beijing raise the death toll from weekend flooding to 77 after rescuers located additional bodies. This follows criticism, including from the Chinese state media, of the city's handling of the storm.](/news/2012/07/26/officials-in-beijing-raise-the-death-toll-from-weekend-flooding-to-77-after-rescuers-located-additional-bodies-this-follows-criticism-incl.md)

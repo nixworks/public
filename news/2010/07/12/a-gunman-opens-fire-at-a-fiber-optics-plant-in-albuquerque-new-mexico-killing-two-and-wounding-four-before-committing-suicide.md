@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/12/a-gunman-opens-fire-at-a-fiber-optics-plant-in-
 
 ### [2010-07-12](/news/2010/07/12/index.md)
 
-##### opens fire
+##### Opens fire
 # A gunman opens fire at a fiber optics plant in Albuquerque, New Mexico, killing two and wounding four before committing suicide. 
 
 

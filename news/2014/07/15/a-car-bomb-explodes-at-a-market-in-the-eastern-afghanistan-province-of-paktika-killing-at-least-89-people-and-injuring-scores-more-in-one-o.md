@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-
 
 ### [2014-07-15](/news/2014/07/15/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. 
 
 

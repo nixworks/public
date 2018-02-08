@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/31/2011-syrian-protests-bashar-al-assad-the-syrian
 
 ### [2011-03-31](/news/2011/03/31/index.md)
 
-##### protestors
+##### Protestors
 # 2011 Syrian protests:Bashar al-Assad, the Syrian president, authorises a review of emergency laws and an inquiry into the deaths of protesters. 
 
 Syrian president has set up committees to look into deaths of protesters and replacing decades-old emergency laws.

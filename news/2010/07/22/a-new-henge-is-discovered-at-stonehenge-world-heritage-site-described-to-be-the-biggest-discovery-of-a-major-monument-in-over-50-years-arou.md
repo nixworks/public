@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/22/a-new-henge-is-discovered-at-stonehenge-world-h
 
 ### [2010-07-22](/news/2010/07/22/index.md)
 
-##### henge
+##### Henge
 # A new henge is discovered at Stonehenge World Heritage Site, described to be the biggest discovery of a major monument in over 50 years around Stonehenge. 
 
 Archaeologists discover a second henge at Stonehenge, described as the most exciting find at the site in 50 years.

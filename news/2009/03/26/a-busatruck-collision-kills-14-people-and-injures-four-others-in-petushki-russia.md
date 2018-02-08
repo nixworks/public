@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/26/a-busatruck-collision-kills-14-people-and-injur
 
 ### [2009-03-26](/news/2009/03/26/index.md)
 
-##### bus
+##### Bus
 #  A bus-truck collision kills 14 people and injures four others in Petushki, Russia. 
 
 14 people have been killed and four injured after a bus collided with a truck and burst into flames east of Moscow.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/22/2011-libyan-civil-war-nato-warplanes-attack-the
 
 ### [2011-05-22](/news/2011/05/22/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: NATO warplanes attack the port of Tripoli and the residence of Libyan leader Muammar Gaddafi. 
 
 

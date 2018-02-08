@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/12/the-anti-graft-agency-of-the-communist-party-of
 
 ### [2015-03-12](/news/2015/03/12/index.md)
 
-##### anti-graft agency
+##### Anti-graft agency
 # The anti-graft agency of the Communist Party of China (CCFDI) investigates former Urumqi party chief Li Zhi. He is the first official investigated from Xinjiang since the campaign began in 2013. 
 
 

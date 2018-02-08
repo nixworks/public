@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/21/the-world-s-biggest-banks-endorse-a-rescue-plan
 
 ### [2007-10-21](/news/2007/10/21/index.md)
 
-##### bank
+##### Bank
 #  The world's biggest banks endorse a rescue plan, also supported by the United States Treasury, to restore the world's financial system. 
 
 

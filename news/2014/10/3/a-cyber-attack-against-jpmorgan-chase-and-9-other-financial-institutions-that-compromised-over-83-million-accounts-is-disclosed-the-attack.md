@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/3/a-cyber-attack-against-jpmorgan-chase-and-9-othe
 
 ### [2014-10-3](/news/2014/10/3/index.md)
 
-##### cyber-attack
+##### Cyber-attack
 # A cyber-attack against JPMorgan Chase and 9 other financial institutions that compromised over 83 million accounts is disclosed. The attack is considered one of the largest data breaches in history.
 
 Names, addresses, phone numbers and email addresses of the holders of some 83 million households and small business accounts were exposed when computer systems at JPMorgan Chase & Co (JPM.N) were recently compromised by hackers, making it one of the biggest data breaches in history.

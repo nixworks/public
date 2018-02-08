@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/1/the-leaders-of-the-people-s-republic-of-china-so
 
 ### [2015-11-1](/news/2015/11/1/index.md)
 
-##### trilateral summit
+##### Trilateral summit
 # The leaders of the People's Republic of China, South Korea and Japan hold their first summit in three years. 
 
 The return of trilateral talks among the three powers, last held in 2012, reflects their reliance on one another for badly needed growth.

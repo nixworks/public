@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/7/at-least-seven-soldiers-are-shot-to-death-and-at
 
 ### [2009-12-7](/news/2009/12/7/index.md)
 
-##### shot to death
+##### Shot to death
 #  At least seven soldiers are shot to death and at least three others are wounded in an ambush at Resadiye, Tokat Turkey, in the region's deadliest attack this decade. 
 
 The attack, which occurred in the north-central part of the country, was the deadliest in the region in more than a decade.

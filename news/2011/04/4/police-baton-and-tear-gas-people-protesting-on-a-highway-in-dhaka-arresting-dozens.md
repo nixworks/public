@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/police-baton-and-tear-gas-people-protesting-on-a
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### baton
+##### Baton
 # Police baton and tear gas people protesting on a highway in Dhaka, arresting dozens. 
 
 

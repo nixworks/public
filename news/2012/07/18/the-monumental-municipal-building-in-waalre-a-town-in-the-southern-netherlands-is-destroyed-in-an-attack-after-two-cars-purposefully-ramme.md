@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/18/the-monumental-municipal-building-in-waalre-a-t
 
 ### [2012-07-18](/news/2012/07/18/index.md)
 
-##### municipal building
+##### Municipal building
 # The monumental municipal building in Waalre, a town in the southern Netherlands, is destroyed in an attack after two cars purposefully rammed the building. 
 
 

@@ -21,7 +21,7 @@ _Context: Hurricane Maria, Atlantic hurricanes, Hurricane Irma_
 
 ##### Crime in France
 ### [A British Airways airplane is evacuated at Paris Charles de Gaulle Airport after a "direct threat" was made against it. After a search, it is declared safe. ](/news/2017/09/17/a-british-airways-airplane-is-evacuated-at-paris-charles-de-gaulle-airport-after-a-direct-threat-was-made-against-it-after-a-search-it-i.md)
-_Context: British Airways, Paris Charles de Gaulle Airport, Crime in France_
+_Context: British Airways, Crime in France, Paris Charles de Gaulle Airport_
 
 ##### Pakistan by-election
 ### [Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. ](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.md)
@@ -29,7 +29,7 @@ Long queues form outside polling stations to vote in the seat vacated by former 
 
 ##### Macanese legislative election
 ### [Voters in Macau vote for a new Legislative Assembly. ](/news/2017/09/17/voters-in-macau-vote-for-a-new-legislative-assembly.md)
-_Context: Macanese legislative election, Legislative Assembly, Macau_
+_Context: Legislative Assembly, Macau, Macanese legislative election_
 
 ##### Next Japanese general election
 ### [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md)

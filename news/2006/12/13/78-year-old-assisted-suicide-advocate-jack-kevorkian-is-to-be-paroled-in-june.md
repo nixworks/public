@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/13/78-year-old-assisted-suicide-advocate-jack-kevo
 
 ### [2006-12-13](/news/2006/12/13/index.md)
 
-##### assisted suicide
+##### Assisted suicide
 #  78-year-old assisted suicide advocate Jack Kevorkian is to be paroled in June. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/28/a-study-finds-common-genetic-links-between-five
 
 ### [2013-02-28](/news/2013/02/28/index.md)
 
-##### genetic
+##### Genetic
 # A study finds common genetic links between five major psychiatric disorders: autism, ADHD, bipolar disorder, depression, and schizophrenia. 
 
 Five very different psych disorders have something in common--genetics.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/22/at-least-30-people-are-injured-from-an-explosio
 
 ### [2015-12-22](/news/2015/12/22/index.md)
 
-##### line
+##### Line
 # At least 30 people are injured from an explosion at a gas pipeline near Villahermosa, Mexico. 
 
 

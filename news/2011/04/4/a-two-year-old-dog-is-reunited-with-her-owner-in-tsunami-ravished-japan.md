@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/a-two-year-old-dog-is-reunited-with-her-owner-in
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### dog
+##### Dog
 # A two-year-old dog is reunited with her owner in tsunami-ravished Japan. 
 
 

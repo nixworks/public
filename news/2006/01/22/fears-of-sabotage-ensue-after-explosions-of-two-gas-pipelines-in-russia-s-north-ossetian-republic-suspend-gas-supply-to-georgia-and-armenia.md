@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/22/fears-of-sabotage-ensue-after-explosions-of-two
 
 ### [2006-01-22](/news/2006/01/22/index.md)
 
-##### pipeline explosions
+##### Pipeline explosions
 #  Fears of sabotage ensue after explosions of two gas pipelines in Russia's North Ossetian Republic suspend gas supply to Georgia and Armenia. 
 
 

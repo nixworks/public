@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/3/a-sewage-leak-due-to-a-single-toilet-contaminate
 
 ### [2017-08-3](/news/2017/08/3/index.md)
 
-##### sewage
+##### Sewage
 # A sewage leak, due to a single toilet, contaminated about 200 passengers's bags at Nashville International Airport, according to Southwest Airlines. 
 
 The bags are currently being sanitized, the airline said.

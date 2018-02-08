@@ -7,7 +7,7 @@ Formats: [HTML](2014/04/24/index.html)  [JSON](2014/04/24/index.json)  [XML](201
 ### [The Ukrainian government says it's regained control of the city hall in the eastern port of Mariupol from pro-Russian separatists. Administrative buildings have been taken over in at least a dozen towns in Eastern Ukraine. ](/news/2014/04/24/the-ukrainian-government-says-it-s-regained-control-of-the-city-hall-in-the-eastern-port-of-mariupol-from-pro-russian-separatists-administr.md)
 Russia announces new military exercises on its border with Ukraine, after Kiev orders troops to move against separatists in the east.
 
-##### police
+##### Police
 ### [A policeman shoots dead three American medical staff in the Afghan capital of Kabul. The policeman is reported to have shot himself after the attack. ](/news/2014/04/24/a-policeman-shoots-dead-three-american-medical-staff-in-the-afghan-capital-of-kabul-the-policeman-is-reported-to-have-shot-himself-after-th.md)
 Three American medical staff are shot dead by a policeman guarding a hospital in the Afghan capital, Kabul, officials say.
 
@@ -21,9 +21,9 @@ Despite confusion over whether Netanyahu or security cabinet took decision, anno
 
 ##### Nevada
 ### [In Nevada the Bundy standoff continues; politicians who had voiced support for Bundy began to distance themselves after the rancher controversially suggested that African Americans might be better off picking cotton as slaves than "under government subsidy". ](/news/2014/04/24/in-nevada-the-bundy-standoff-continues-politicians-who-had-voiced-support-for-bundy-began-to-distance-themselves-after-the-rancher-controve.md)
-_Context: African American, Bundy family, Nevada_
+_Context: Bundy family, Nevada, African American_
 
-##### election
+##### Election
 ### [There is high turnout in 6th phase of elections for 16th Lok Sabha, in 11 states, for 117 seats and 180 million voters.](/news/2014/04/24/there-is-high-turnout-in-6th-phase-of-elections-for-16th-lok-sabha-in-11-states-for-117-seats-and-180-million-voters.md)
 _Context: election_
 

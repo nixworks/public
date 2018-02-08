@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/15/clean-up-crews-try-to-stop-coal-tar-in-the-dash
 
 ### [2006-06-15](/news/2006/06/15/index.md)
 
-##### coal tar
+##### Coal tar
 #  Clean up crews try to stop coal tar in the Dasha River entering the Wangkuai Reservoir supplying the city of Baoding in northern China. 
 
 

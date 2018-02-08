@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/6/deposed-iraq-president-saddam-hussein-has-refuse
 
 ### [2005-12-6](/news/2005/12/6/index.md)
 
-##### deposed
+##### Deposed
 #  Deposed Iraq president Saddam Hussein has refused to attend his trial for crimes against humanity, throwing the sometimes chaotic Iraqi proceedings into further confusion. 
 
 

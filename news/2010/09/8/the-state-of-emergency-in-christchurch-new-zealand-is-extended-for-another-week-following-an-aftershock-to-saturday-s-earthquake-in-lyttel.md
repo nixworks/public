@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/8/the-state-of-emergency-in-christchurch-new-zeala
 
 ### [2010-09-8](/news/2010/09/8/index.md)
 
-##### state of emergency
+##### State of emergency
 # The state of emergency in Christchurch, New Zealand, is extended for another week following an aftershock to Saturday's earthquake in Lyttelton. 
 
 The state of emergency in earthquake-stricken Christchurch has been extended for a further seven days after a violent aftershock this morning.

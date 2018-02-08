@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/27/the-village-of-um-el-nasser-in-the-gaza-strip-i
 
 ### [2007-03-27](/news/2007/03/27/index.md)
 
-##### village
+##### Village
 #  The village of Um el-Nasser in the Gaza Strip is flooded with sewage after the wall of a sewage pond gives way resulting in at least four deaths. 
 
 

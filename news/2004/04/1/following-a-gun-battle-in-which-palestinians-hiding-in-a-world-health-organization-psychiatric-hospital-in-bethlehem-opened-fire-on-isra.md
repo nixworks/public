@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/1/following-a-gun-battle-in-which-palestinians-hid
 
 ### [2004-04-1](/news/2004/04/1/index.md)
 
-##### gun
+##### Gun
 #  Following a gun battle, in which Palestinians hiding in a World Health Organization psychiatric hospital, in Bethlehem, opened fire on Israeli troops outside who came to arrest them, 12 of the Palestinians, mostly known militants from al-Aqsa Martyrs Brigades that make up part of Yasser Arafat's Fatah faction, are arrested. 
 
 

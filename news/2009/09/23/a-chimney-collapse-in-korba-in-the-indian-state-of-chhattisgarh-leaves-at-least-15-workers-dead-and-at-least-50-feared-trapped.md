@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/23/a-chimney-collapse-in-korba-in-the-indian-state
 
 ### [2009-09-23](/news/2009/09/23/index.md)
 
-##### chimney collapse
+##### Chimney collapse
 #  A chimney collapse in Korba in the Indian state of Chhattisgarh leaves at least 15 workers dead and at least 50 feared trapped. 
 
 

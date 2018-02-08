@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/16/al-qaeda-reportedly-free-an-italian-couple-that
 
 ### [2010-04-16](/news/2010/04/16/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Al-Qaeda reportedly free an Italian couple that they had been holding since December 2009. 
 
 

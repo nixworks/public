@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-th
 
 ### [2011-08-17](/news/2011/08/17/index.md)
 
-##### gold
+##### Gold
 # The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. 
 
 

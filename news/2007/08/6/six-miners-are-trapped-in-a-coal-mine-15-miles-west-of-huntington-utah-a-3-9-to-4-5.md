@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/6/six-miners-are-trapped-in-a-coal-mine-15-miles-w
 
 ### [2007-08-6](/news/2007/08/6/index.md)
 
-##### miner
+##### Miner
 #  Six miners are trapped in a coal mine 15 miles west of Huntington, Utah. A 3.9 to 4.5 
 
 

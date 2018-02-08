@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/24/the-government-of-nigeria-opens-two-swollen-dam
 
 ### [2010-09-24](/news/2010/09/24/index.md)
 
-##### government
+##### Government
 # The government of Nigeria opens two swollen dams in Jigawa State, displacing two million people. 
 
 Nigerian authorities opened the gates at two swollen dams Friday in the country&#39;s rain-soaked north, sending a flood into a neighboring state that has displaced 2 million people.

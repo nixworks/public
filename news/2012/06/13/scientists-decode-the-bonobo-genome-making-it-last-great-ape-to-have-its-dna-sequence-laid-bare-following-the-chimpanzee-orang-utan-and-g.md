@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/13/scientists-decode-the-bonobo-genome-making-it-l
 
 ### [2012-06-13](/news/2012/06/13/index.md)
 
-##### bonobo
+##### Bonobo
 # Scientists decode the bonobo genome, making it last great ape to have its DNA sequence laid bare, following the chimpanzee, orang-utan and gorilla. 
 
 Scientists decode the genetics of the bonobo, the last great ape to have its DNA sequence laid bare for comparison with humans.

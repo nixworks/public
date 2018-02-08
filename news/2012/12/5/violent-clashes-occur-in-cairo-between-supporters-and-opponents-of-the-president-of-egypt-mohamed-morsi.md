@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/5/violent-clashes-occur-in-cairo-between-supporter
 
 ### [2012-12-5](/news/2012/12/5/index.md)
 
-##### violent clashes
+##### Violent clashes
 # Violent clashes occur in Cairo between supporters and opponents of the President of Egypt Mohamed Morsi. 
 
 The political crisis in Egypt is deepening, with supporters and opponents of President Mohammed Morsi pelting each other with rocks outside the Presidential Palace in Cairo. Supporters of the president descended on demonstrators staging a sit-in to protest Morsi&#039;s powers and a draft constitution they say is biased. The president has returned to work at the compound despite the upheaval.

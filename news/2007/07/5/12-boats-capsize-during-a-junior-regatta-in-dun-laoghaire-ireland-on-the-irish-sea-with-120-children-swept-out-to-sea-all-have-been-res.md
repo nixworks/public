@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/5/12-boats-capsize-during-a-junior-regatta-in-dun-
 
 ### [2007-07-5](/news/2007/07/5/index.md)
 
-##### regatta
+##### Regatta
 #  12 boats capsize during a junior regatta in Dn Laoghaire, Ireland, on the Irish Sea, with 120 children swept out to sea. All have been rescued, according to the Irish Coast Guard, although 15 have been brought to hospital. 
 
 14 children and one adult have been taken to hospital after around 12 vessels capsized in high winds near Dún Laoghaire Harbour.

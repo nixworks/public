@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/28/in-the-continuing-negotiations-over-global-free
 
 ### [2005-10-28](/news/2005/10/28/index.md)
 
-##### free trade
+##### Free trade
 #  In the continuing negotiations over global free trade, the trade commissioner for the European Union, Peter Mandelson, said Friday that the EU will cut its average farm tariff by 47%, reducing the highest rates by 60%. Jacques Chirac, the president of France, said that he doesn't have France's support in such a proposal. 
 
 

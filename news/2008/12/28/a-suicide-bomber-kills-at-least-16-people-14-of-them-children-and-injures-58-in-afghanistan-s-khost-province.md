@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/28/a-suicide-bomber-kills-at-least-16-people-14-of
 
 ### [2008-12-28](/news/2008/12/28/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomber kills at least 16 people, 14 of them children, and injures 58 in Afghanistan's Khost Province. 
 
 

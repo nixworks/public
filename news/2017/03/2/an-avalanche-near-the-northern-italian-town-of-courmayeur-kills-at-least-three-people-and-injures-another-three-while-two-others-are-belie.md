@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/2/an-avalanche-near-the-northern-italian-town-of-c
 
 ### [2017-03-2](/news/2017/03/2/index.md)
 
-##### northern Italian
+##### Northern Italian
 # An avalanche near the northern Italian town of Courmayeur, kills at least three people and injures another three, while two others are believed missing. 
 
 The deaths happened in an off-piste area near the resort of Courmayeur.

@@ -11,7 +11,7 @@ Islamic State fighters tightened their grip on the historic Syrian city of Palmy
 ### [Al-Shabaab militants briefly take over a mosque in Kenya's Garissa County. ](/news/2015/05/21/al-shabaab-militants-briefly-take-over-a-mosque-in-kenya-s-garissa-county.md)
 Islamist militants al-Shabab briefly take over a mosque in northern Kenya, preaching for two hours, before disappearing into a nearby forest, locals say.
 
-##### military intervention in Ukraine
+##### Military intervention in Ukraine
 ### [Video interviews show that two Russians captured in Ukraine have publicly admitted to being soldiers in the GRU Russian special forces. The Donetsk People's Republic (separatists) authorities claim these men were official policemen in the self-proclaimed republic, publicized their ID badges, and claimed they retired from the Russian military last year. ](/news/2015/05/21/video-interviews-show-that-two-russians-captured-in-ukraine-have-publicly-admitted-to-being-soldiers-in-the-gru-russian-special-forces-the.md)
 European mediators in the Ukrainian crisis said Thursday that two men captured by Kiev&#x27;s troops had confessed to being members of the Russian armed forces sent in to back up pro-Moscow separatist fighters. The revelation by the Organization for Security and Co-operation in Europe (OSCE) provide...
 
@@ -23,7 +23,7 @@ The Boy Scouts of America must reverse its longstanding policy of excluding gay 
 ### [South Korea confirms its third case of Middle East Respiratory Syndrome. ](/news/2015/05/21/south-korea-confirms-its-third-case-of-middle-east-respiratory-syndrome.md)
  South Korea confirmed a third case of the Middle East Respiratory Syndrome (MERS) on Thursday, one day after it reported its first-ever case of the viral disease.
 
-##### cholera
+##### Cholera
 ### [Two prisoners die and 30 are hospitalised following a cholera outbreak at the Shimo la Tewa facility in Mombasa, Kenya. ](/news/2015/05/21/two-prisoners-die-and-30-are-hospitalised-following-a-cholera-outbreak-at-the-shimo-la-tewa-facility-in-mombasa-kenya.md)
 Two remandees have died and 30 others been admitted following a cholera outbreak at Shimo la Tewa prison in Mombasa.
 
@@ -37,7 +37,7 @@ The source of the outbreak is unknown, but most who fell ill reported eating sus
 
 ##### Brazilian
 ### [Brazilian anti-corruption blogger Evany Jose Metzker is found dead after investigating a drug dealing and prostitution case. ](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.md)
-_Context: Brazilian, blogger_
+_Context: blogger, Brazilian_
 
 ##### Death of Freddie Gray
 ### [A grand jury in the American city of Baltimore indicts six police officers relating to the death of Freddie Gray in police custody. All six officers will face charges of reckless endangerment. ](/news/2015/05/21/a-grand-jury-in-the-american-city-of-baltimore-indicts-six-police-officers-relating-to-the-death-of-freddie-gray-in-police-custody-all-six.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/12/the-remains-of-a-viking-warrior-are-found-at-a-
 
 ### [2003-08-12](/news/2003/08/12/index.md)
 
-##### viking
+##### Viking
 #  The remains of a viking warrior are found at a building site in Dublin. The warrior had been stabbed to death during a 9th-century Viking raid on "Dubhlinn monastery". The dagger was still attached to his body when his remains were found. The archaeological dig is expected to continue at the site for six months.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/24/more-than-30-political-prisoners-go-on-hunger-s
 
 ### [2011-05-24](/news/2011/05/24/index.md)
 
-##### political prisoner
+##### Political prisoner
 # More than 30 political prisoners go on hunger strike at Insein Prison in Burma to protest against their treatment. 
 
 A group of Burmese political prisoners stage a hunger strike over living conditions, as the UN warns that rights abuses are still widespread.

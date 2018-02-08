@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/1/european-antitrust-authorities-block-a-planned-m
 
 ### [2012-02-1](/news/2012/02/1/index.md)
 
-##### antitrust
+##### Antitrust
 # European antitrust authorities block a planned merger between NYSE Euronext and Deutsche Boerse. 
 
 NYSE Euronext and DeutscheBoerse said they have terminated their merger plans,following the decision by the European Commission to block theproposed deal.

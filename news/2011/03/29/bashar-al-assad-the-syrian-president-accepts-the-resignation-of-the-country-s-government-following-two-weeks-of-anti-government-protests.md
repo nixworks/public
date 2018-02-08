@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/29/bashar-al-assad-the-syrian-president-accepts-th
 
 ### [2011-03-29](/news/2011/03/29/index.md)
 
-##### protestors
+##### Protestors
 # Bashar al-Assad, the Syrian president, accepts the resignation of the country's government, following two weeks of anti-government protests that have gripped Syria. However Muhammad Naji al-Otari, the resigning prime minister will continue to serve as caretaker Prime Minister. 
 
 Government resigns as part of promised reforms after two weeks of protests, outgoing PM appointed caretaker premier.

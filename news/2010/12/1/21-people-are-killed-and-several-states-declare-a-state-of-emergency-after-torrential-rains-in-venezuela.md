@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/1/21-people-are-killed-and-several-states-declare-
 
 ### [2010-12-1](/news/2010/12/1/index.md)
 
-##### state of emergency
+##### State of emergency
 # 21 people are killed and several states declare a state of emergency after torrential rains in Venezuela. 
 
 

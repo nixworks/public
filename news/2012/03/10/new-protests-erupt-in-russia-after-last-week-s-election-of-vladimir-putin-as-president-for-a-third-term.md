@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/10/new-protests-erupt-in-russia-after-last-week-s-
 
 ### [2012-03-10](/news/2012/03/10/index.md)
 
-##### rally
+##### Rally
 # New protests erupt in Russia, after last week's election of Vladimir Putin as President for a third term. 
 
 

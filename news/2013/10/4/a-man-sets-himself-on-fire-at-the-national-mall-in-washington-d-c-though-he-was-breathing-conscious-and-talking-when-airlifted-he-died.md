@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/4/a-man-sets-himself-on-fire-at-the-national-mall-
 
 ### [2013-10-4](/news/2013/10/4/index.md)
 
-##### sets himself on fire
+##### Sets himself on fire
 # A man sets himself on fire at the National Mall in Washington, D.C. Though he was breathing, conscious, and talking when airlifted, he died later that night at MedStar Washington Hospital Center due to the extensive severe gas burns to his face and arms. A motive was unclear. 
 
 Authorities are still trying to identify the man who immolated himself in front of the Capitol Friday afternoon.

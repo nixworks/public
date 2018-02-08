@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/12/a-tugboat-crash-on-the-hudson-river-north-of-ne
 
 ### [2016-03-12](/news/2016/03/12/index.md)
 
-##### tugboat
+##### Tugboat
 # A tugboat crash on the Hudson River north of New York City results in one death and two people missing. 
 
 

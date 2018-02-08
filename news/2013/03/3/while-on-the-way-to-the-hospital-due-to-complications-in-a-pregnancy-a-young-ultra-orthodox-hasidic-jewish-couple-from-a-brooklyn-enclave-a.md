@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complica
 
 ### [2013-03-3](/news/2013/03/3/index.md)
 
-##### pregnancy
+##### Pregnancy
 # While on the way to the hospital due to complications in a pregnancy, a young Ultra-Orthodox Hasidic Jewish couple from a Brooklyn enclave are killed in a hit-and-run; the baby was delivered prematurely by C-section but died the next day of its injuries. The car owner was arrested soon after; the driver was arrested days later after a search. 
 
 

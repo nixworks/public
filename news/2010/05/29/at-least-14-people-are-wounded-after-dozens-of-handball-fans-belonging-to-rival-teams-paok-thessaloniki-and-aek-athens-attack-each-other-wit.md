@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/29/at-least-14-people-are-wounded-after-dozens-of-
 
 ### [2010-05-29](/news/2010/05/29/index.md)
 
-##### handball
+##### Handball
 # At least 14 people are wounded after dozens of handball fans belonging to rival teams PAOK Thessaloniki and AEK Athens attack each other with petrol bombs, knives, bricks and furniture, leading to a street battle in Lamia. Police deploy tear gas to bring the city under their control. 
 
 Fans of rival hanball teams clash in the central Greek town of Lamia, with at least 14 people hurt.

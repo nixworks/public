@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/22/a-shooting-at-marine-corps-base-quantico-in-vir
 
 ### [2013-03-22](/news/2013/03/22/index.md)
 
-##### shooting
+##### Shooting
 # A shooting at Marine Corps Base Quantico in Virginia, United States, kills three people, including the suspected shooter. 
 
 

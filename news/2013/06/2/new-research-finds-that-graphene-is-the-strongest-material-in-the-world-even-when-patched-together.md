@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/2/new-research-finds-that-graphene-is-the-stronges
 
 ### [2013-06-2](/news/2013/06/2/index.md)
 
-##### graphene
+##### Graphene
 # New research finds that graphene is the strongest material in the world, even when patched together. 
 
 

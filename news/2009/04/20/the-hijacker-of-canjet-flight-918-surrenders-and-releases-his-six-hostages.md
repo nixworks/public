@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/20/the-hijacker-of-canjet-flight-918-surrenders-an
 
 ### [2009-04-20](/news/2009/04/20/index.md)
 
-##### aircraft piracy
+##### Aircraft piracy
 #  The hijacker of CanJet Flight 918 surrenders and releases his six hostages. 
 
 

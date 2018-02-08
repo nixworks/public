@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/16/six-people-are-killed-and-eight-are-injured-som
 
 ### [2015-06-16](/news/2015/06/16/index.md)
 
-##### balcony
+##### Balcony
 # Six people are killed and eight are injured, some with life-threatening injuries, after a balcony collapses in Berkeley, California, near the campus of the University of California, Berkeley; five of the casualties are students. 
 
 Six people were killed and seven others wounded when a fourth-floor balcony collapsed in Berkeley, California, early Tuesday, police said.

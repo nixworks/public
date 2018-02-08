@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/9/a-fire-destroys-the-television-cultural-center-i
 
 ### [2009-02-9](/news/2009/02/9/index.md)
 
-##### fire
+##### Fire
 #  A fire destroys the Television Cultural Center in Beijing, China. 
 
 A fierce blaze started by an illegal fireworks show engulfed one of the Chinese capital’s most architecturally celebrated modern buildings on Monday.

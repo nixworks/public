@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/04/26/canada-s-largest-transit-agency-the-toronto-tra
 
 ### [2008-04-26](/news/2008/04/26/index.md)
 
-##### public transport
+##### Public transport
 #  Canada's largest transit agency; the Toronto Transit Commission is shut down by a surprise transit strike. 
 
 

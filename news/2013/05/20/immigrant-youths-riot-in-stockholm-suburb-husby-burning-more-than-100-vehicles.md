@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/20/immigrant-youths-riot-in-stockholm-suburb-husby
 
 ### [2013-05-20](/news/2013/05/20/index.md)
 
-##### immigration officials
+##### Immigration officials
 # Immigrant youths riot in Stockholm suburb Husby, burning more than 100 vehicles. 
 
 

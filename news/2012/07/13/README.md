@@ -9,19 +9,19 @@ A jetliner bound for Madrid returned to Kennedy Airport as a precaution Thursday
 
 ##### Bedouin
 ### [Bedouin men kidnap two tourists from the United States and their guide in Egypt's Sinai region and demand the release of a jailed tribesman for their return. ](/news/2012/07/13/bedouin-men-kidnap-two-tourists-from-the-united-states-and-their-guide-in-egypt-s-sinai-region-and-demand-the-release-of-a-jailed-tribesman.md)
-_Context: United States, Egypt, Sinai, Bedouin_
+_Context: Sinai, Egypt, United States, Bedouin_
 
 ##### Cambodia
 ### [Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. ](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.md)
-_Context: Thai passenger jet, Cambodia, machine gun_
+_Context: machine gun, Thai passenger jet, Cambodia_
 
-##### suicide bomber
+##### Suicide bomber
 ### [A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. ](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maiduguri-nigeria.md)
-_Context: mosque, suicide bomber, Maiduguri, Nigeria_
+_Context: suicide bomber, mosque, Nigeria, Maiduguri_
 
 ##### Hanifa Safi
 ### [A female Afghan politician, Hanifa Safi, dies in a bomb attack in eastern Afghanistan. ](/news/2012/07/13/a-female-afghan-politician-hanifa-safi-dies-in-a-bomb-attack-in-eastern-afghanistan.md)
-_Context: Afghanistan, Hanifa Safi_
+_Context: Hanifa Safi, Afghanistan_
 
 ##### Carol Ann Duffy
 ### [Carol Ann Duffy, the Poet Laureate of the United Kingdom, is announced as the winner of the 2012 PEN-Pinter Prize. ](/news/2012/07/13/carol-ann-duffy-the-poet-laureate-of-the-united-kingdom-is-announced-as-the-winner-of-the-2012-pen-pinter-prize.md)
@@ -29,27 +29,27 @@ Poet Laureate Carol Ann Duffy says she is &quot;hugely honoured&quot; by being a
 
 ##### Jennifer Lopez
 ### [Jennifer Lopez reveals she is leaving the hit American talent show "American Idol". ](/news/2012/07/13/jennifer-lopez-reveals-she-is-leaving-the-hit-american-talent-show-american-idol.md)
-_Context: American Idol, talent show, Jennifer Lopez_
+_Context: talent show, Jennifer Lopez, American Idol_
 
 ##### Academy Award
 ### [Academy Award winning producer Richard D. Zanuck dies in Los Angeles of a heart attack. ](/news/2012/07/13/academy-award-winning-producer-richard-d-zanuck-dies-in-los-angeles-of-a-heart-attack.md)
-_Context: Academy Award, Richard D. Zanuck, Los Angeles, heart attack_
+_Context: Richard D. Zanuck, Los Angeles, heart attack, Academy Award_
 
 ##### Moody's Investor Services
 ### [Moody's Investor Services downgrades Italy's government rating from A3 to Baa2. ](/news/2012/07/13/moody-s-investor-services-downgrades-italy-s-government-rating-from-a3-to-baa2.md)
-_Context: Italy, Moody's Investor Services_
+_Context: Moody's Investor Services, Italy_
 
 ##### Federal Reserve Bank of New York
 ### [The Federal Reserve Bank of New York is set to release documents outlining what it knew about the Libor scandal and what action it took. ](/news/2012/07/13/the-federal-reserve-bank-of-new-york-is-set-to-release-documents-outlining-what-it-knew-about-the-libor-scandal-and-what-action-it-took.md)
 With the scandal over alleged manipulation of a critical global interest rate threatening to migrate from London to Washington, pressure is growing on one former banking regulator to explain what he knew and when: Treasury Secretary Timothy F. Geithner.
 
-##### economic growth
+##### Economic growth
 ### [The economic growth rate for the People's Republic of China falls to 7.6 per cent, its lowest level in three years. ](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-republic-of-china-falls-to-7-6-per-cent-its-lowest-level-in-three-years.md)
-_Context: economic growth, China_
+_Context: China, economic growth_
 
 ##### Federal Aviation Administration
 ### [The Federal Aviation Administration fines Boeing $13.5 million for failing to provide fuel tank flammability instructions by designated deadline. ](/news/2012/07/13/the-federal-aviation-administration-fines-boeing-13-5-million-for-failing-to-provide-fuel-tank-flammability-instructions-by-designated-dead.md)
-_Context: Boeing Company, Federal Aviation Administration_
+_Context: Federal Aviation Administration, Boeing Company_
 
 ##### South Africa
 ### [Between 19 and 30 people are killed after a train crashes into a truck carrying farm labourers near the South African town of Malelane. ](/news/2012/07/13/between-19-and-30-people-are-killed-after-a-train-crashes-into-a-truck-carrying-farm-labourers-near-the-south-african-town-of-malelane.md)
@@ -57,11 +57,11 @@ At least 19 people are killed after a train hits a truck carrying farm workers a
 
 ##### Mystere-Falcon 20
 ### [Three Americans die in a Mystere-Falcon 20 after it crashes on the runway at Le Castellet Airport du Castellet, between Toulon and Marseille. ](/news/2012/07/13/three-americans-die-in-a-mystere-falcon-20-after-it-crashes-on-the-runway-at-le-castellet-airport-du-castellet-between-toulon-and-marseille.md)
-_Context: Marseille, Mystere-Falcon 20, Toulon_
+_Context: Toulon, Marseille, Mystere-Falcon 20_
 
-##### counties
+##### Counties
 ### [More than 1,000 counties in the United States are declared natural disaster areas after a drought spreads throughout the country. ](/news/2012/07/13/more-than-1-000-counties-in-the-united-states-are-declared-natural-disaster-areas-after-a-drought-spreads-throughout-the-country.md)
-_Context: counties, a drought_
+_Context: a drought, counties_
 
 ##### Wales
 ### [Parts of Wales are hit by flash floods following torrential rain. ](/news/2012/07/13/parts-of-wales-are-hit-by-flash-floods-following-torrential-rain.md)
@@ -85,7 +85,7 @@ One of Britain’s richest men has been arrested after his wife died of a suspec
 
 ##### ICC
 ### [The International Criminal Court issues an arrest warrant for war crimes against Sylvestre Mudacumura, the commander of the Congolese rebel group, the Democratic Forces for the Liberation of Rwanda. ](/news/2012/07/13/the-international-criminal-court-issues-an-arrest-warrant-for-war-crimes-against-sylvestre-mudacumura-the-commander-of-the-congolese-rebel.md)
-_Context: war crime, Democratic Forces for the Liberation of Rwanda, ICC, Sylvestre Mudacumura, DR Congo_
+_Context: DR Congo, war crime, Sylvestre Mudacumura, ICC, Democratic Forces for the Liberation of Rwanda_
 
 ##### Alabama
 ### [A federal judge in Alabama sentences Ulugbek Kodirov, an Uzbek national, to 15 years in prison for plotting to kill Barack Obama. ](/news/2012/07/13/a-federal-judge-in-alabama-sentences-ulugbek-kodirov-an-uzbek-national-to-15-years-in-prison-for-plotting-to-kill-barack-obama.md)
@@ -93,7 +93,7 @@ An Uzbek man who came to America pursuing an Ivy League medical degree but wound
 
 ##### Party of the Democratic Revolution
 ### [Mexico's presidential runner-up and PRD candidate, Andres Manuel Lopez Obrador, files a lawsuit against Enrique Pena Nieto for alleged vote-buyings, biased media coverage, and manipulated opinion polls in the recent Mexican elections. ](/news/2012/07/13/mexico-s-presidential-runner-up-and-prd-candidate-andra-c-s-manuel-la3pez-obrador-files-a-lawsuit-against-enrique-pea-a-nieto-for-alleged-vo.md)
-_Context: Andres Manuel Lopez Obrador, Party of the Democratic Revolution, Enrique Pena Nieto, Mexican presidential elections_
+_Context: Party of the Democratic Revolution, Mexican presidential elections, Enrique Pena Nieto, Andres Manuel Lopez Obrador_
 
 ## [Previous Day...](/news/2012/07/12/index.md)
 

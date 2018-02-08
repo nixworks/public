@@ -11,9 +11,9 @@ The leader of the deadly 2015 attack on Garissa University in Kenya has been kil
 ### [The United States announces new rules, that will go into effect on July 6, that amount to a near-total ban on the commercial trade of African elephant ivory. ](/news/2016/06/2/the-united-states-announces-new-rules-that-will-go-into-effect-on-july-6-that-amount-to-a-near-total-ban-on-the-commercial-trade-of-africa.md)
 The move is the latest step in the Obama administration’s fight against wildlife trafficking.
 
-##### environmental
+##### Environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: Arch Coal, bankruptcy, Sierra Club, environmental_
+_Context: Sierra Club, Arch Coal, bankruptcy, environmental_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)
@@ -21,7 +21,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 
 ##### Romania
 ### [A Romanian medical helicopter crashes near Cahul, Moldova, killing four people. ](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.md)
-_Context: Moldova, Romania, Cahul_
+_Context: Cahul, Romania, Moldova_
 
 ##### May 2016 United States storm complex
 ### [At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tactical-vehicle-overturns-near-fort-hood.md)
@@ -35,7 +35,7 @@ Micah Ferebee was being pushed in a stroller by his father on Westerville Road w
 ### [The German Bundestag passes a resolution classifying the Ottoman Empire's killing of Armenians in 1915 as genocide, provoking a furious reaction in Turkey. ](/news/2016/06/2/the-german-bundestag-passes-a-resolution-classifying-the-ottoman-empire-s-killing-of-armenians-in-1915-as-genocide-provoking-a-furious-reac.md)
 German MPs recognise the mass killing of Armenians by Ottoman Turks in 1915 as &quot;genocide&quot;, prompting Turkey to recall its ambassador in anger.
 
-##### autopsy
+##### Autopsy
 ### [An autopsy finds that American musician Prince died of an overdose of fentanyl, an opioid painkiller 50 times more powerful than heroin. ](/news/2016/06/2/an-autopsy-finds-that-american-musician-prince-died-of-an-overdose-of-fentanyl-an-opioid-painkiller-50-times-more-powerful-than-heroin.md)
 Officials in Minnesota said the singer sustained an accidental overdose of self-administered fentanyl, a type of synthetic opiate.
 
@@ -51,9 +51,9 @@ Three Syrians who were arrested Thursday in Germany, plus one in custody in Fran
 ### [24 people are killed and 368 arrested in the Indian city of Mathura as police attempt to clear members of a squatter group from land they are occupying. ](/news/2016/06/2/24-people-are-killed-and-368-arrested-in-the-indian-city-of-mathura-as-police-attempt-to-clear-members-of-a-squatter-group-from-land-they-ar.md)
 Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place when police went to evict the members of Azad Bharat Vidhik Vaicharik Kranti Satyagrahi, which has made outlandish demands for the removal of the President and Prime Minister and replacing of the Indian currency.
 
-##### breaks out in a rally
+##### Breaks out in a rally
 ### [Violence breaks out in a rally supporting Donald Trump in San Jose, California. An officer and several demonstrators were assaulted, and a few people were arrested. ](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald-trump-in-san-jose-california-an-officer-and-several-demonstrators-were-assaulted-and-a-f.md)
-_Context: Donald Trump, San Jose, California, breaks out in a rally_
+_Context: breaks out in a rally, Donald Trump, San Jose, California_
 
 ##### 
 ### [ In Ottawa, Canada Marc Leduc is found guilty first-degree murder in the killings of two women found dead in 2008 and 2011 involved in drugs and sex trade. His DNA was matched after he was arrested in a 2012 sex assault with a knife. ](/news/2016/06/2/in-ottawa-canada-marc-leduc-is-found-guilty-first-degree-murder-in-the-killings-of-two-women-found-dead-in-2008-and-2011-involved-in-drugs.md)
@@ -61,7 +61,7 @@ Marc Leduc has been found guilty of first-degree murder in the deaths of Pamela 
 
 ##### Paul Ryan
 ### [U.S. House Speaker Paul Ryan endorses Donald Trump for President of the United States. ](/news/2016/06/2/u-s-house-speaker-paul-ryan-endorses-donald-trump-for-president-of-the-united-states.md)
-_Context: Donald Trump, Paul Ryan_
+_Context: Paul Ryan, Donald Trump_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States accepts a petition by five people from American Samoa arguing that people born in this U.S. territory are entitled to U.S citizenship under the United States Constitution. The State Department currently opposes this idea. ](/news/2016/06/2/the-supreme-court-of-the-united-states-accepts-a-petition-by-five-people-from-american-samoa-arguing-that-people-born-in-this-u-s-territory.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/25/survivors-blame-officials-for-yesterday-s-death
 
 ### [2010-07-25](/news/2010/07/25/index.md)
 
-##### yesterday's death stampede
+##### Yesterday's death stampede
 # Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. 
 
 Survivors of a stampede at a dance music festival in Germany, in which 19 people were killed, blame organisers for the deaths.

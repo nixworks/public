@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/07/29/england-beats-india-in-the-first-cricket-test-m
 
 ### [2002-07-29](/news/2002/07/29/index.md)
 
-##### cricketer
+##### Cricketer
 #  England beats India in the first cricket Test match of the series.
 
 

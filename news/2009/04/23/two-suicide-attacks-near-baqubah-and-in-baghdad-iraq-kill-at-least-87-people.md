@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/23/two-suicide-attacks-near-baqubah-and-in-baghdad
 
 ### [2009-04-23](/news/2009/04/23/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  Two suicide attacks near Baqubah and in Baghdad, Iraq, kill at least 87 people. 
 
 

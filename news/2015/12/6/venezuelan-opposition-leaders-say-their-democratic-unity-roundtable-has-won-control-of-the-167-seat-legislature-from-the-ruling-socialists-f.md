@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/6/venezuelan-opposition-leaders-say-their-democrat
 
 ### [2015-12-6](/news/2015/12/6/index.md)
 
-##### landslide victory in the December 6 election
+##### Landslide victory in the December 6 election
 # Venezuelan opposition leaders say their Democratic Unity Roundtable has won control of the 167-seat legislature from the ruling Socialists for the first time since 1998. There is no confirmation on Sunday's election from the national electoral board. An opposition victory would be a major setback for the socialist revolution started 17 years ago by the late Hugo Chavez. 
 
 

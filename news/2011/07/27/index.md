@@ -9,7 +9,7 @@ Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20
 
 ##### Ghulam Haidar Hameedi
 ### [Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md)
-_Context: suicide bombing, Kandahar, Ghulam Haidar Hameedi_
+_Context: Kandahar, Ghulam Haidar Hameedi, suicide bombing_
 
 ##### NATO
 ### [NATO intervenes in the border clashes between Kosovo and Serbia. ](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.md)
@@ -19,21 +19,21 @@ International concern is raised over a Kosovo police bid to take over border cro
 ### [The Australian dollar reaches a post-float record against the United States dollar based on higher than expected consumer price index figures and concerns over a US default. ](/news/2011/07/27/the-australian-dollar-reaches-a-post-float-record-against-the-united-states-dollar-based-on-higher-than-expected-consumer-price-index-figure.md)
 The Australian dollar has cracked new highs above 110 US cents after the release of official inflation figures on Wednesday.The consumer price index (CPI) rose 0.9 per cent in Australia in the June quarter, ...
 
-##### landslide
+##### Landslide
 ### [Seventeen people are killed in landslides in South Korea caused by heavy rain including eight in the town of Chuncheon. ](/news/2011/07/27/seventeen-people-are-killed-in-landslides-in-south-korea-caused-by-heavy-rain-including-eight-in-the-town-of-chuncheon.md)
-_Context: Chuncheon, South Korea, landslide_
+_Context: South Korea, Chuncheon, landslide_
 
 ##### United Nations
 ### [The United Nations World Food Programme prepares an airlift to Mogadishu in Somalia to help relieve the 2011 Horn of Africa famine. ](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.md)
-_Context: United Nations, Mogadishu, World Food Programme, famine, Somalia_
+_Context: World Food Programme, Somalia, Mogadishu, famine, United Nations_
 
 ##### 2011 Pacific typhoon season
 ### [At least seventeen people are dead and 25 missing after Severe Tropical Storm Nock-ten (Juaning) hits the Philippines. ](/news/2011/07/27/at-least-seventeen-people-are-dead-and-25-missing-after-severe-tropical-storm-nock-ten-juaning-hits-the-philippines.md)
-_Context: Philippines, 2011 Pacific typhoon season_
+_Context: 2011 Pacific typhoon season, Philippines_
 
-##### tropical storm
+##### Tropical storm
 ### [A tropical storm watch is issued for Tropical Storm Don in the US state of Texas between Port Mansfield north to San Luis Pass. ](/news/2011/07/27/a-tropical-storm-watch-is-issued-for-tropical-storm-don-in-the-us-state-of-texas-between-port-mansfield-north-to-san-luis-pass.md)
-_Context: Texas, Port Mansfield, tropical storm, San Luis Pass, Tropical Storm Don_
+_Context: Texas, Tropical Storm Don, Port Mansfield, San Luis Pass, tropical storm_
 
 ##### 10 Downing Street
 ### [The Government of the United Kingdom expels Libyan diplomats loyal to Muammar Gaddafi from the United Kingdom and recognises the National Transitional Council. ](/news/2011/07/27/the-government-of-the-united-kingdom-expels-libyan-diplomats-loyal-to-muammar-gaddafi-from-the-united-kingdom-and-recognises-the-national-tr.md)
@@ -51,7 +51,7 @@ Police were unable to control an unruly crowd of roughly 2,000 people in Hollywo
 ### [Two men are convicted in St John's, Antigua of the 2008 murders of British honeymoon couple Ben and Catherine Mullany. ](/news/2011/07/27/two-men-are-convicted-in-st-john-s-antigua-of-the-2008-murders-of-british-honeymoon-couple-ben-and-catherine-mullany.md)
 Two men have been convicted of murdering British honeymoon couple Ben and Catherine Mullany on the holiday island of Antigua.
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 ### [Former "Daily Mirror" editor Piers Morgan says comments he made in 2009 on BBC Radio 4's "Desert Island Discs" do not suggest he printed stories obtained through illegal reporting. In the programme, he had spoken of "running the results" of work by third parties who did "rake through bins... tap people's phones". ](/news/2011/07/27/former-daily-mirror-editor-piers-morgan-says-comments-he-made-in-2009-on-bbc-radio-4-s-desert-island-discs-do-not-suggest-he-printed-sto.md)
 Ex-Mirror editor Piers Morgan denies that comments he previously made on BBC radio suggest he printed stories obtained through illegal reporting.
 
@@ -65,7 +65,7 @@ House Republicans delayed a vote on their bill to lift the debt ceiling as they 
 
 ##### Spanish politicians
 ### [Spanish protesters known as the "Indignants" begin a march from Madrid to Brussels in Belgium to protest at cuts in government expenditure in Spain. ](/news/2011/07/27/spanish-protesters-known-as-the-indignants-begin-a-march-from-madrid-to-brussels-in-belgium-to-protest-at-cuts-in-government-expenditure-i.md)
-_Context: Madrid, Spain, Belgium, Brussels, Spanish politicians_
+_Context: Spain, Belgium, Brussels, Madrid, Spanish politicians_
 
 ## [Previous Day...](/news/2011/07/26/index.md)
 

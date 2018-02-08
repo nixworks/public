@@ -25,11 +25,11 @@ _Context: Taiwan, Typhoon Nari_
 
 ##### Lower Manhattan
 ### [Eight people are injured (three seriously) in Lower Manhattan as a result of an explosion and partial collapse, of as-yet unknown cause, in a five-storey building, in Chinatown, Manhattan, New York City, on Pike Street, near Henry Street. ](/news/2013/07/11/eight-people-are-injured-three-seriously-in-lower-manhattan-as-a-result-of-an-explosion-and-partial-collapse-of-as-yet-unknown-cause-in.md)
-_Context: Pike Street, New York City, Henry Street, Manhattan, Chinatown, Lower Manhattan_
+_Context: Manhattan, Pike Street, Chinatown, Henry Street, New York City, Lower Manhattan_
 
 ##### Iranian
 ### [An Iranian exile group claims that it has evidence of secret nuclear facilities located in tunnels beneath a mountain near the town of Damavand. ](/news/2013/07/11/an-iranian-exile-group-claims-that-it-has-evidence-of-secret-nuclear-facilities-located-in-tunnels-beneath-a-mountain-near-the-town-of-damav.md)
-_Context: Iranian, Damavand, nuclear program_
+_Context: Iranian, nuclear program, Damavand_
 
 ##### Moscow
 ### [A district court in Moscow convicts the late investment fund auditor Sergei Magnitsky of tax evasion in Russia's first posthumous trial. ](/news/2013/07/11/a-district-court-in-moscow-convicts-the-late-investment-fund-auditor-sergei-magnitsky-of-tax-evasion-in-russia-s-first-posthumous-trial.md)
@@ -43,7 +43,7 @@ An Indian juvenile court defers its verdict in the case of an 18-year-old accuse
 ### [Three suspected robbers are killed in a shoot-out in Davao City, Philippines, and one suspected robber is returned to Manila to be imprisoned. ](/news/2013/07/11/three-suspected-robbers-are-killed-in-a-shoot-out-in-davao-city-philippines-and-one-suspected-robber-is-returned-to-manila-to-be-imprisone.md)
 MANILA -- Three suspected members of a kidnap-for-ransom group were killed in a shootout with police authorities in Davao City Thursday afternoon.
 
-##### lower house
+##### Lower house
 ### [The lower house of the Irish parliament passes the Protection of Life During Pregnancy Bill, legalising abortion when the woman's life is at risk. ](/news/2013/07/11/the-lower-house-of-the-irish-parliament-passes-the-protection-of-life-during-pregnancy-bill-legalising-abortion-when-the-woman-s-life-is-at.md)
 The Government has passed legislation for the first time allowing for abortion in limited circumstances.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/9/the-prime-minister-of-pakistan-yusuf-raza-gilani
 
 ### [2011-05-9](/news/2011/05/9/index.md)
 
-##### father's killing
+##### Father's killing
 # The Prime Minister of Pakistan Yusuf Raza Gilani warns the United States that it will defend its air space from incursions following the raid on Osama bin Laden's compound and denies collaborating with al-Qaeda. 
 
 Pakistan&#039;s prime minister will on Monday warn the United States it will defend its air space if American forces mount another raid on terrorists suspected of hiding inside the country.

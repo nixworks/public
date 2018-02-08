@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/13/al-qaeda-leader-ayman-al-zawahiri-pledges-alleg
 
 ### [2015-08-13](/news/2015/08/13/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Al-Qaeda leader Ayman al-Zawahiri pledges allegiance to the new Taliban chief Akhter Mansour in an audio message posted online. 
 
 Al-Qaeda leader Ayman al-Zawahiri pledges allegiance to the new Afghan Taliban chief in his first audio message in nearly a year.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/11/2006a2007-bangladeshi-political-crisis-banglade
 
 ### [2007-01-11](/news/2007/01/11/index.md)
 
-##### current political crisis
+##### Current political crisis
 #  2006-2007 Bangladeshi political crisis: Bangladesh President Iajuddin Ahmed steps down as interim leader just hours after declaring a state of emergency and a curfew in the country. 
 
 

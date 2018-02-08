@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/29/an-avalanche-near-mcbride-in-the-canadian-provi
 
 ### [2016-01-29](/news/2016/01/29/index.md)
 
-##### avalanche
+##### Avalanche
 # An avalanche near McBride in the Canadian province of British Columbia kills five people. 
 
 An avalanche near McBride, B.C., has killed five snowmobilers, say Valemount RCMP. The area is very popular among snowmobilers from British Columbia and Alberta this time of year.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/20/two-candidates-compete-in-the-final-elections-t
 
 ### [2012-09-20](/news/2012/09/20/index.md)
 
-##### final elections
+##### Final elections
 # Two candidates compete in the final elections to elect the Governor of Jakarta for the next five-year term. 
 
 Exit polls suggested on Thursday that Joko Widodo, the populist mayor of another city, has edged out Gov. Fauzi Bowo in a runoff for the leadership of the Indonesian capital.

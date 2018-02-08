@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/05/1/a-magnitude-6-4-earthquake-hits-bingol-turkey-ki
 
 ### [2003-05-1](/news/2003/05/1/index.md)
 
-##### magnitude 6.4 earthquake
+##### Magnitude 6.4 earthquake
 #  A magnitude 6.4 earthquake hits Bingl, Turkey, killing at least 177 people and injuring 520.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/18/two-cargo-ships-collide-in-the-east-china-sea-2
 
 ### [2007-03-18](/news/2007/03/18/index.md)
 
-##### cargo
+##### Cargo
 #  Two cargo ships collide in the East China Sea. 23 crew members are missing. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/23/a-huge-explosion-occurs-at-an-oil-refinery-in-c
 
 ### [2009-10-23](/news/2009/10/23/index.md)
 
-##### oil refinery fire
+##### Oil refinery fire
 #  A huge explosion occurs at an oil refinery in Catao, Puerto Rico. 
 
 

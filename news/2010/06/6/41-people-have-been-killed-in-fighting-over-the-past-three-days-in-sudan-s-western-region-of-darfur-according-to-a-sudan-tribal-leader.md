@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/6/41-people-have-been-killed-in-fighting-over-the-
 
 ### [2010-06-6](/news/2010/06/6/index.md)
 
-##### killed in fighting
+##### Killed in fighting
 # 41 people have been killed in fighting over the past three days in Sudan's western region of Darfur according to a Sudan tribal leader. 
 
 

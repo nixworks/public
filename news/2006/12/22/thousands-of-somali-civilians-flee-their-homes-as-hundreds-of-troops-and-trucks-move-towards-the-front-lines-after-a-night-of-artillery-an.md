@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/22/thousands-of-somali-civilians-flee-their-homes-
 
 ### [2006-12-22](/news/2006/12/22/index.md)
 
-##### artillery
+##### Artillery
 #  Thousands of Somali civilians flee their homes as hundreds of troops and trucks move towards the front lines, after a night of artillery and mortar fire. 
 
 

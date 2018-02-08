@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/4/the-united-states-congress-officially-declares-p
 
 ### [2013-01-4](/news/2013/01/4/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress officially declares President Barack Obama the winner of the 2012 presidential election. 
 
 

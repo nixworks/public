@@ -3,7 +3,7 @@ Formats: [HTML](2017/05/26/index.html)  [JSON](2017/05/26/index.json)  [XML](201
 
 ## [2017-05-26](/news/2017/05/26/index.md)
 
-##### open fire
+##### Open fire
 ### [Gunmen open fire on buses carrying Coptic Christians in Minya Governorate, Egypt, killing at least 28 people and injuring dozens more. ](/news/2017/05/26/gunmen-open-fire-on-buses-carrying-coptic-christians-in-minya-governorate-egypt-killing-at-least-28-people-and-injuring-dozens-more.md)
 Children are among at least 28 people massacred in Egypt and dozens more injured after gunmen opened fire on a bus carrying Coptic Christians. The health ministry said the victims had been on their way to the St Samuel the Confessor monastery when they were surrounded by eight to 10 attackers wearin...
 
@@ -29,7 +29,7 @@ Flooding and mudslides caused by monsoon rains leave at least 91 dead and more t
 
 ##### Turkish government
 ### [The Turkish government issues an arrest warrant for NBA Oklahoma City Thunder player Enes Kanter suspected of being a member of a "terror group." Kanter, a vocal supporter of Fethullah Gulen, was returning to the U.S. from a charity tour when, last Saturday, he was detained in Bucharest, Romania, because his Turkish passport had been revoked. Kanter says he plans on becoming a United States citizen. ](/news/2017/05/26/the-turkish-government-issues-an-arrest-warrant-for-nba-oklahoma-city-thunder-player-enes-kanter-suspected-of-being-a-member-of-a-terror-gr.md)
-_Context: Turkish government, Oklahoma City Thunder, Enes Kanter, Romania, United States citizen, Bucharest, Fethullah Gulen_
+_Context: Oklahoma City Thunder, Fethullah Gulen, United States citizen, Enes Kanter, Bucharest, Turkish government, Romania_
 
 ##### Chipotle Mexican Grill
 ### [A spokesman for the Chipotle Mexican Grill restaurant chain reveals that hackers stole customer payment data from most of their stores over a span of three weeks starting from the end of March. ](/news/2017/05/26/a-spokesman-for-the-chipotle-mexican-grill-restaurant-chain-reveals-that-hackers-stole-customer-payment-data-from-most-of-their-stores-over.md)
@@ -39,9 +39,9 @@ _Context: Chipotle Mexican Grill_
 ### [Two men are stabbed to death in a train in Portland, Oregon, after they attempt to intervene while a man shouts racial slurs at two teenage girls, one of them wearing a hijab. ](/news/2017/05/26/two-men-are-stabbed-to-death-in-a-train-in-portland-oregon-after-they-attempt-to-intervene-while-a-man-shouts-racial-slurs-at-two-teenage.md)
 Police say two men were stabbed to death when they tried to intervene as a man shouted hate speech at two young women
 
-##### diplomat
+##### Diplomat
 ### [Polish-American diplomat Zbigniew Brzezinski, counselor to President Lyndon B. Johnson (1966-1968) and President Jimmy Carter's National Security Advisor (1977-1981), dies at the age of 89. ](/news/2017/05/26/polish-american-diplomat-zbigniew-brzezinski-counselor-to-president-lyndon-b-johnson-1966a1968-and-president-jimmy-carter-s-national-s.md)
-_Context: Zbigniew Brzezinski, National Security Advisor, Jimmy Carter, diplomat, Lyndon B. Johnson_
+_Context: Zbigniew Brzezinski, Jimmy Carter, Lyndon B. Johnson, diplomat, National Security Advisor_
 
 ##### European Extremely Large Telescope
 ### [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md)

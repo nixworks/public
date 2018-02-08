@@ -11,9 +11,9 @@ Formats: [HTML](2017/05/1/index.html)  [JSON](2017/05/1/index.json)  [XML](2017/
 ### [A series of earthquakes, the largest registering 6.3, strike near Mosquito Lake, Alaska, near the Alaskan border with British Columbia, Canada. At least one office building and two schools were heavily damaged and evacuated in the Yukon. ](/news/2017/05/1/a-series-of-earthquakes-the-largest-registering-6-3-strike-near-mosquito-lake-alaska-near-the-alaskan-border-with-british-columbia-cana.md)
 A magnitude-6.3 aftershock has shaken British Columbia near the boundary with Alaska, nearly two hours after a 6.2 earthquake hit the same area.
 
-##### clear-air turbulence
+##### Clear-air turbulence
 ### [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md)
-_Context: clear-air turbulence, Suvarnabhumi Airport, Bangkok, fracture, Sheremetyevo International Airport, Aeroflot, Moscow_
+_Context: Bangkok, clear-air turbulence, fracture, Suvarnabhumi Airport, Aeroflot, Moscow, Sheremetyevo International Airport_
 
 ##### Momentum Movement
 ### [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/8/two-fossils-found-in-kenya-challenge-existing-vi
 
 ### [2007-08-8](/news/2007/08/8/index.md)
 
-##### fossil
+##### Fossil
 #  Two fossils found in Kenya challenge existing views of human evolution by showing that "Homo erectus" and "Homo habilis" lived side by side in eastern Africa for half a million years. 
 
 Two fossils have shaken the human family tree, possibly rearranging major branches thought to be in a straight ancestral line to Homo sapiens.

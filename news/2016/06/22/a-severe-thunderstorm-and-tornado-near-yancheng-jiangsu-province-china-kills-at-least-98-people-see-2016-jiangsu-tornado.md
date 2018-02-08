@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/22/a-severe-thunderstorm-and-tornado-near-yancheng
 
 ### [2016-06-22](/news/2016/06/22/index.md)
 
-##### severe thunderstorm
+##### Severe thunderstorm
 # A severe thunderstorm and tornado near Yancheng, Jiangsu Province, China, kills at least 98 people. See 2016 Jiangsu tornado. 
 
 A tornado and hailstorm kill at least 98 people and injure nearly 800 in the east Chinese province of Jiangsu, says state media.

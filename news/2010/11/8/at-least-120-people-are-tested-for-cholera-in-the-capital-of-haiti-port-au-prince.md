@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/8/at-least-120-people-are-tested-for-cholera-in-th
 
 ### [2010-11-8](/news/2010/11/8/index.md)
 
-##### worst epidemic of cholera
+##### Worst epidemic of cholera
 # At least 120 people are tested for cholera in the capital of Haiti, Port-au-Prince. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/26/football-fc-porto-defeat-as-monaco-fc-3a0-in-th
 
 ### [2004-05-26](/news/2004/05/26/index.md)
 
-##### footballer
+##### Footballer
 #  Football: FC Porto defeat AS Monaco FC 3-0 in the final of the UEFA Champions League 
 
 

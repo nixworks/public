@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/11/benigno-aquino-iii-the-president-of-the-philipp
 
 ### [2010-10-11](/news/2010/10/11/index.md)
 
-##### his predecessor
+##### His predecessor
 # Benigno Aquino III, the President of the Philippines, elects only for administrative, and no criminal charges to be laid in relation to the botched Manila hostage crisis in August. 
 
 

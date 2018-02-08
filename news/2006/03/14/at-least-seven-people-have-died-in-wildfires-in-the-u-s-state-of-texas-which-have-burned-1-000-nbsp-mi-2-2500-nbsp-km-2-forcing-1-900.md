@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/14/at-least-seven-people-have-died-in-wildfires-in
 
 ### [2006-03-14](/news/2006/03/14/index.md)
 
-##### wildfire
+##### Wildfire
 #  At least seven people have died in wildfires in the U.S. state of Texas which have burned 1,000&nbsp;mi 2 (2500&nbsp;km 2 ), forcing 1,900 people to evacuate. 
 
 

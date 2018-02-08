@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/1/scientists-use-a-geoid-model-to-illustrate-the-f
 
 ### [2011-04-1](/news/2011/04/1/index.md)
 
-##### geoid
+##### Geoid
 # Scientists use a geoid model to illustrate the force of gravity on Earth from data from the Goce satellite. 
 
 The European Space Agency releases an unusual illustration of Planet Earth which describes the variation in gravity across the surface of our world.

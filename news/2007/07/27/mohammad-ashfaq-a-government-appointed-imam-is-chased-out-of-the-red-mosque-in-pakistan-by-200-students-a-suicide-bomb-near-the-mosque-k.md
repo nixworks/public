@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/27/mohammad-ashfaq-a-government-appointed-imam-is-
 
 ### [2007-07-27](/news/2007/07/27/index.md)
 
-##### imam
+##### Imam
 #  Mohammad Ashfaq, a government appointed imam, is chased out of the Red Mosque in Pakistan by 200 students. A suicide bomb near the mosque kills at least 13 and injures another 50. 
 
 

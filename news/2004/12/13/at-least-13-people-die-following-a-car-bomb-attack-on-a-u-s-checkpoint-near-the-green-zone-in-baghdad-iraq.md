@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/13/at-least-13-people-die-following-a-car-bomb-att
 
 ### [2004-12-13](/news/2004/12/13/index.md)
 
-##### car bomb
+##### Car bomb
 #  At least 13 people die following a car bomb attack on a U.S. checkpoint near the Green Zone in Baghdad, Iraq. 
 
 

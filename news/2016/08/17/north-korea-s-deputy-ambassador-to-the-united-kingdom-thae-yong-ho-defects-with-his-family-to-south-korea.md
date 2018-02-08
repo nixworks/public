@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/17/north-korea-s-deputy-ambassador-to-the-united-k
 
 ### [2016-08-17](/news/2016/08/17/index.md)
 
-##### defects
+##### Defects
 # North Korea's deputy ambassador to the United Kingdom, Thae Yong-ho, defects with his family to South Korea. 
 
 

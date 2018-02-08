@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/9/conflict-in-iraq-a-peace-agreement-is-reached-in
 
 ### [2004-10-9](/news/2004/10/9/index.md)
 
-##### rebel-held
+##### Rebel-held
 #  Conflict in Iraq: A peace agreement is reached in the Baghdad slum of Sadr City between the Iraqi government and local militants loyal to Shia cleric Muqtada al-Sadr. The militants will turn in medium and heavy weapons during a five-day grace period, and Iraqi and US forces will then take control of the area. 
 
 

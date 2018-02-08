@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/25/around-2-000-yellow-shirt-protesters-in-thailan
 
 ### [2011-01-25](/news/2011/01/25/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 # Around 2,000 "yellow shirt" protesters in Thailand demonstrate over the government's handling of a border dispute with Cambodia. 
 
 

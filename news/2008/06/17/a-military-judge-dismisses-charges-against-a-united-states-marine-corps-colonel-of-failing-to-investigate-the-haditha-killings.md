@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/17/a-military-judge-dismisses-charges-against-a-un
 
 ### [2008-06-17](/news/2008/06/17/index.md)
 
-##### military judge
+##### Military judge
 #  A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. 
 
 

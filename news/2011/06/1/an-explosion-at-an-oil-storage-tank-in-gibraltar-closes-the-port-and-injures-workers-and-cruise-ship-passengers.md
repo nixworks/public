@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/1/an-explosion-at-an-oil-storage-tank-in-gibraltar
 
 ### [2011-06-1](/news/2011/06/1/index.md)
 
-##### oil
+##### Oil
 # An explosion at an oil storage tank in Gibraltar closes the port and injures workers and cruise ship passengers. 
 
 

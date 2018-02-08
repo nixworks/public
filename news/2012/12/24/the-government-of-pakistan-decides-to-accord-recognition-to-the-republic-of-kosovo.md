@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/24/the-government-of-pakistan-decides-to-accord-re
 
 ### [2012-12-24](/news/2012/12/24/index.md)
 
-##### government
+##### Government
 # The Government of Pakistan decides to accord recognition to the Republic of Kosovo. 
 
 Pakistan becomes the 98th state to formally recognise Kosovo as an independent country.

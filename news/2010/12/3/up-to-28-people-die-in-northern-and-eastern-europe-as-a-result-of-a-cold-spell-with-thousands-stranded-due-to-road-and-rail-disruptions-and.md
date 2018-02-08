@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/3/up-to-28-people-die-in-northern-and-eastern-euro
 
 ### [2010-12-3](/news/2010/12/3/index.md)
 
-##### northern Europe
+##### Northern Europe
 # Up to 28 people die in northern and eastern Europe as a result of a cold spell with thousands stranded due to road and rail disruptions and airport closures. 
 
 Heavy snow and freezing temperatures continue across northern Europe, with dozens of people reported killed by the cold or in weather-related accidents.

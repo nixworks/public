@@ -13,7 +13,7 @@ Topps Meat Co LLC announced on Friday it was going out of business, crushed by t
 
 ##### Canadian
 ### [ Canada stops the sale of Novartis anti-inflammatory drug Prexige and cancels its authorisation due to the risk of liver-related effects such as hepatitis. ](/news/2007/10/5/canada-stops-the-sale-of-novartis-anti-inflammatory-drug-prexige-and-cancels-its-authorisation-due-to-the-risk-of-liver-related-effects-suc.md)
-_Context: Canadian, Prexige, hepatitis, liver, drug, Novartis_
+_Context: hepatitis, Novartis, liver, drug, Canadian, Prexige_
 
 ##### Burma
 ### [ Burmese security forces claim that they are looking for four of the monks that led the protests. ](/news/2007/10/5/burmese-security-forces-claim-that-they-are-looking-for-four-of-the-monks-that-led-the-protests.md)
@@ -37,7 +37,7 @@ _Context: Maoist supporters, Seven Party Alliance, Elections_
 
 ##### SELENE
 ### [ SELENE, Japan's lunar probe, successfully achieves an orbit around the moon. ](/news/2007/10/5/selene-japan-s-lunar-probe-successfully-achieves-an-orbit-around-the-moon.md)
-_Context: moon, SELENE, orbit, Japan_
+_Context: Japan, moon, SELENE, orbit_
 
 ## [Previous Day...](/news/2007/10/4/index.md)
 

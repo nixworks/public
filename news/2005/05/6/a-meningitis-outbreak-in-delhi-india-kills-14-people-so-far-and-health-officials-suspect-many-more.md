@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/6/a-meningitis-outbreak-in-delhi-india-kills-14-pe
 
 ### [2005-05-6](/news/2005/05/6/index.md)
 
-##### meningitis
+##### Meningitis
 #  A meningitis outbreak in Delhi, India kills 14 people so far and health officials suspect many more. 
 
 

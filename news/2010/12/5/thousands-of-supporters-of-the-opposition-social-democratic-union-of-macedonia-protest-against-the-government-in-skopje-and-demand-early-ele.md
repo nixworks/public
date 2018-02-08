@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/5/thousands-of-supporters-of-the-opposition-social
 
 ### [2010-12-5](/news/2010/12/5/index.md)
 
-##### opposition
+##### Opposition
 # Thousands of supporters of the Opposition Social Democratic Union of Macedonia protest against the government in Skopje and demand early elections. 
 
 Thousands march against the conservative government, saying it has failed on the economy and obtaining EU accession.

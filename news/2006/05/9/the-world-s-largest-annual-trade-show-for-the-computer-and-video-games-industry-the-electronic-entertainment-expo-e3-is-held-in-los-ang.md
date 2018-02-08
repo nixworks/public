@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/9/the-world-s-largest-annual-trade-show-for-the-co
 
 ### [2006-05-9](/news/2006/05/9/index.md)
 
-##### trade show
+##### Trade show
 #  The world's largest annual trade show for the computer and video games industry, the Electronic Entertainment Expo (E), is held in Los Angeles. 
 
 

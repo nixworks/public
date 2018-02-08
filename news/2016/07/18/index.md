@@ -7,7 +7,7 @@ Formats: [HTML](2016/07/18/index.html)  [JSON](2016/07/18/index.json)  [XML](201
 ### [At least six Yemeni soldiers are killed in suicide bombings near the city of Al Mukalla. ](/news/2016/07/18/at-least-six-yemeni-soldiers-are-killed-in-suicide-bombings-near-the-city-of-al-mukalla.md)
 Two suicide bombers tried to ram vehicles laden with explosives through two Yemeni military checkpoints near the government-held port city of Mukalla on Monday, killing at least 10 people, the army and medics said.
 
-##### policemen
+##### Policemen
 ### [Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. ](/news/2016/07/18/three-policemen-and-one-civilian-are-killed-in-almaty-kazakhstan-in-an-attack-on-a-police-station-by-a-radical-islamist-one-gunman-is-rep.md)
 At least five people were killed and nine injured in a suspected Islamist attack on a police station in Almaty, Kazakhstan’s largest city. President Nursultan Nazarbaev has announced that it was a terror act.
 
@@ -33,7 +33,7 @@ U.K.-based chip designer ARM Holdings confirmed that it agreed to a $32 billion 
 
 ##### North Korea-South Korea relations
 ### [South Korea warns that North Korea could hold another nuclear test at any time. ](/news/2016/07/18/south-korea-warns-that-north-korea-could-hold-another-nuclear-test-at-any-time.md)
-_Context: North Korea, North Korea-South Korea relations, North Korea's nuclear program, South Korea_
+_Context: North Korea-South Korea relations, North Korea's nuclear program, North Korea, South Korea_
 
 ##### Turkey-United States relations
 ### [The United States Secretary of State John Kerry warns Turkey it could lose its NATO membership if it fails to uphold the principles of democracy. Around 8,000 police officers have been sacked in the country following the attempted coup, with more than 6,000 people in the army, the judiciary and other state bodies detained as part of President Recep Tayyip Erdogan's crackdown. ](/news/2016/07/18/the-united-states-secretary-of-state-john-kerry-warns-turkey-it-could-lose-its-nato-membership-if-it-fails-to-uphold-the-principles-of-democ.md)

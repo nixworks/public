@@ -19,13 +19,13 @@ _Context: Kunduz, Afghanistan_
 ### [An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. ](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.md)
 _Context: Ground Zero, New York City, National September 11 Memorial & Museum_
 
-##### union
+##### Union
 ### [Teachers in Chicago go on strike. Around 350,000 students are affected. ](/news/2012/09/10/teachers-in-chicago-go-on-strike-around-350-000-students-are-affected.md)
-_Context: Chicago, union_
+_Context: union, Chicago_
 
 ##### South Africa
 ### [Around 10,000 South African miners demonstrate at the Lonmin mines in Marikana ("Rooikoppies"), Rustenburg, Bojanala Platinum district, North West province. Fifteen thousand miners strike at the Gold Fields KDC West Driefontein mine. ](/news/2012/09/10/around-10-000-south-african-miners-demonstrate-at-the-lonmin-mines-in-marikana-rooikoppies-rustenburg-bojanala-platinum-district-nort.md)
-_Context: Bojanala Platinum district, Lonmin, Driefontein, North West province, Gold Fields, Marikana, South Africa, Rustenburg_
+_Context: North West province, Marikana, Lonmin, Bojanala Platinum district, Driefontein, Gold Fields, South Africa, Rustenburg_
 
 ##### Vietnam
 ### [Floods and landslides caused by heavy rain kill at least 29 people in northern and central Vietnam. ](/news/2012/09/10/floods-and-landslides-caused-by-heavy-rain-kill-at-least-29-people-in-northern-and-central-vietnam.md)
@@ -33,7 +33,7 @@ _Context: Vietnam_
 
 ##### Newfoundland and Labrador
 ### [Hurricane and tropical storm warnings are issued for parts of the Canadian province Newfoundland and Labrador as Tropical Storm Leslie approaches. ](/news/2012/09/10/hurricane-and-tropical-storm-warnings-are-issued-for-parts-of-the-canadian-province-newfoundland-and-labrador-as-tropical-storm-leslie-appro.md)
-_Context: Tropical Storm Leslie, Newfoundland and Labrador_
+_Context: Newfoundland and Labrador, Tropical Storm Leslie_
 
 ##### Isle of Wight
 ### [Three people are killed and several others seriously injured after a coach taking people home from the Isle of Wight-based music festival, Bestival 2012 crashes in Surrey, England. ](/news/2012/09/10/three-people-are-killed-and-several-others-seriously-injured-after-a-coach-taking-people-home-from-the-isle-of-wight-based-music-festival-b.md)
@@ -45,17 +45,17 @@ WASHINGTON (Reuters) - A new nationwide strategy to prevent suicides, especially
 
 ##### Yukiya Amano
 ### [Yukiya Amano, the head of the International Atomic Energy Agency (IAEA), urges Iran to grant IAEA inspectors immediate access to its contentious suspected nuclear facility in Parchin. ](/news/2012/09/10/yukiya-amano-the-head-of-the-international-atomic-energy-agency-iaea-urges-iran-to-grant-iaea-inspectors-immediate-access-to-its-content.md)
-_Context: IAEA inspectors, Yukiya Amano, Parchin, Iran, contentious, nuclear program, IAEA_
+_Context: nuclear program, Iran, Parchin, IAEA inspectors, Yukiya Amano, contentious, IAEA_
 
 ##### Japanese government
 ### [The Japanese government announces it will soon buy the disputed Senkaku Islands claimed by China (as Diaoyu Islands) and Taiwan (as Tiaoyutai Islands). Chinese leaders respond angrily. ](/news/2012/09/10/the-japanese-government-announces-it-will-soon-buy-the-disputed-senkaku-islands-claimed-by-china-as-diaoyu-islands-and-taiwan-as-tiaoyuta.md)
-_Context: Japanese government, Senkaku Islands, Taiwan, China, government, Senkaku Islands dispute_
+_Context: Senkaku Islands dispute, Senkaku Islands, Taiwan, China, government, Japanese government_
 
 ##### International Steering Group for Kosovo
 ### [The International Steering Group for Kosovo formally ends its supervision of the partially recognised Republic of Kosovo. ](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.md)
 _Context: International Steering Group for Kosovo, Kosovo_
 
-##### bazooka grenade
+##### Bazooka grenade
 ### [Three boys aged eight and nine are killed when a bazooka grenade, left over from a war in Cambodia, explodes. ](/news/2012/09/10/three-boys-aged-eight-and-nine-are-killed-when-a-bazooka-grenade-left-over-from-a-war-in-cambodia-explodes.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -63,9 +63,9 @@ Get the latest international news and world events from Asia, Europe, the Middle
 ### [Tariq al-Hashimi rejects the charges leading to his death sentence in Baghdad on Sunday. He, being a Sunni, claims to be a "target" of Shiite prime minister Nouri al-Maliki. He refuses to return to Iraq for an appeal as long as, according to him, the judicial system is "corrupt". He claims to put the verdict "on his chest as a medal". Al-Qaeda says "black days" are ahead. The reaction of Iraqi people on the street generally welcomes a fair rule of law but is wary of political influencing and sectarianism. ](/news/2012/09/10/tariq-al-hashimi-rejects-the-charges-leading-to-his-death-sentence-in-baghdad-on-sunday-he-being-a-sunni-claims-to-be-a-target-of-shiit.md)
 Iraqis have been reacting to yesterday’s death sentence handed to the country’s fugitive vice president, Tareq al-Hashemi, for running death
 
-##### ministry of health
+##### Ministry of health
 ### [According to a parliamentary answer by the ministry of health, the value of a life lost during a clinical trial is 2.2 lakh rupees ($ 4,000) in India in 2011. This number is the average compensation paid for deaths during clinical trials. No rules governing compensations for clinical trial-related injury or death have been approved by the Parliament of India yet. ](/news/2012/09/10/according-to-a-parliamentary-answer-by-the-ministry-of-health-the-value-of-a-life-lost-during-a-clinical-trial-is-2-2-lakh-rupees-4-000.md)
-_Context: clinical trial, rupee, ministry of health, India, value, Parliament of India, lakh_
+_Context: ministry of health, clinical trial, value, India, Parliament of India, lakh, rupee_
 
 ##### Federal Parliament of Somalia
 ### [Members of the new Somali Parliament elect Hassan Sheikh Mohamoud President. ](/news/2012/09/10/members-of-the-new-somali-parliament-elect-hassan-sheikh-mohamoud-president.md)

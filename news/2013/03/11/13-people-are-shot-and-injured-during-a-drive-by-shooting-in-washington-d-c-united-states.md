@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/13-people-are-shot-and-injured-during-a-drive-b
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### drive-by shooting
+##### Drive-by shooting
 # 13 people are shot and injured during a drive-by shooting in Washington, D.C., United States. 
 
 Thirteen people were injured in a drive-by shooting outside an apartment complex in Northwest D.C. early Monday in a sudden burst of violence involving what residents described as dozens of gunshots.

@@ -31,7 +31,7 @@ The rupee hit a record low on Monday as defence of the currency failed to stop i
 ### [Residents evacuated from Greenhorn Gulch area in Idaho from the Beaver Creek fire. ](/news/2013/08/17/residents-evacuated-from-greenhorn-gulch-area-in-idaho-from-the-beaver-creek-fire.md)
 _Context: Idaho_
 
-##### ferry
+##### Ferry
 ### [31 people dead and at least 170 are missing as a ferry sinks after colliding with a cargo ship in Philippines.](/news/2013/08/17/31-people-dead-and-at-least-170-are-missing-as-a-ferry-sinks-after-colliding-with-a-cargo-ship-in-philippines.md)
 At least 31 people die and around 170 are missing after a ferry with more than 800 on board collides with a cargo ship in the Philippines.
 
@@ -41,7 +41,7 @@ _Context: Yosemite National Park_
 
 ##### Metropolitan Police Authority
 ### [While they are not yet ready to say they are reopening the case after the 2008 inquiry jury's final verdict and report (faulty driving and unlawful killing), the Metropolitan Police Authority Specialist Crime and Operations Command in London is investigating the credibility and accuracy of supposedly new information from an unspecified source regarding the August 1997 Death of Diana, Princess of Wales. ](/news/2013/08/17/while-they-are-not-yet-ready-to-say-they-are-reopening-the-case-after-the-2008-inquiry-jury-s-final-verdict-and-report-faulty-driving-and-u.md)
-_Context: London, Metropolitan Police Authority, Death of Diana, Princess of Wales_
+_Context: Metropolitan Police Authority, Death of Diana, Princess of Wales, London_
 
 ## [Previous Day...](/news/2013/08/16/index.md)
 

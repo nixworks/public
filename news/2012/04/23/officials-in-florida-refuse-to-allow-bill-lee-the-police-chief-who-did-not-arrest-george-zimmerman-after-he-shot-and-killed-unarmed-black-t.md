@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/23/officials-in-florida-refuse-to-allow-bill-lee-t
 
 ### [2012-04-23](/news/2012/04/23/index.md)
 
-##### the state
+##### The state
 # Officials in Florida refuse to allow Bill Lee, the police chief who did not arrest George Zimmerman after he shot and killed unarmed black teenager Trayvon Martin, to resign. George Zimmerman, now facing a murder charge, is released on bail and taken to a secret location. 
 
 The police chief who chose not to arrest George Zimmerman after he shot and killed Trayvon Martin in Florida sees his offer to resign blocked.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/30/a-mass-shooting-occurs-in-east-texas-united-sta
 
 ### [2011-11-30](/news/2011/11/30/index.md)
 
-##### mass shooting
+##### Mass shooting
 # A mass shooting occurs in east Texas, United States. Four children are killed, all less than 5 years old. ([http:--edition.cnn.com-2011-12-01-justice-texas-mass-shooting-index.html?npt=NP1 CNN])
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/19/november-2007-strikes-in-france-the-transport-w
 
 ### [2007-11-19](/news/2007/11/19/index.md)
 
-##### public-sector strikes
+##### Public-sector strikes
 #  November 2007 strikes in France: The transport workers' strike enters its sixth day, but unions have agreed to restart negotiations with SNCF on November 22. 
 
 

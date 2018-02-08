@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/27/malian-forces-arrest-two-men-in-their-early-30s
 
 ### [2015-11-27](/news/2015/11/27/index.md)
 
-##### siege
+##### Siege
 # Malian forces arrest two men in their early 30s linked to a cell phone found at the scene of last week's deadly hotel attack. No details are provided on what their exact role was. 
 
 

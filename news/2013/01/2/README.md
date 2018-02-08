@@ -17,11 +17,11 @@ Senior Pakistani militant leader Mullah Nazir is killed by a US drone strike in 
 
 ##### Burma
 ### [Military aircraft in Burma target rebel held areas in Kachin State; the government later confirms the operation. ](/news/2013/01/2/military-aircraft-in-burma-target-rebel-held-areas-in-kachin-state-the-government-later-confirms-the-operation.md)
-_Context: Burma, Kachin State_
+_Context: Kachin State, Burma_
 
 ##### South Korea
 ### [Officials in South Korea note a significant decrease in the number of refugees from North Korea reaching the country. ](/news/2013/01/2/officials-in-south-korea-note-a-significant-decrease-in-the-number-of-refugees-from-north-korea-reaching-the-country.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### British
 ### [British comedian Jim Davidson is arrested for alleged historic sexual assaults. ](/news/2013/01/2/british-comedian-jim-davidson-is-arrested-for-alleged-historic-sexual-assaults.md)
@@ -41,15 +41,15 @@ THE PRESIDENTIAL Commission on Good Government (PCGG)-- which is tasked to pursu
 
 ##### Venezuela
 ### [The opposition in Venezuela urges the government to be more transparent about the health of president Hugo Chavez as his inauguration approaches on January 10 amid rumours of his deteriorating health. ](/news/2013/01/2/the-opposition-in-venezuela-urges-the-government-to-be-more-transparent-about-the-health-of-president-hugo-cha-vez-as-his-inauguration-appro.md)
-_Context: Hugo Chavez, inauguration approaches, Venezuela_
+_Context: inauguration approaches, Hugo Chavez, Venezuela_
 
 ##### U.S. President
 ### [U.S. President Barack Obama signs the American Taxpayer Relief Act of 2012, intended to prevent the "fiscal cliff". ](/news/2013/01/2/u-s-president-barack-obama-signs-the-american-taxpayer-relief-act-of-2012-intended-to-prevent-the-fiscal-cliff.md)
-_Context: U.S. President, American Taxpayer Relief Act of 2012, fiscal cliff, Barack Obama_
+_Context: American Taxpayer Relief Act of 2012, U.S. President, fiscal cliff, Barack Obama_
 
 ##### United States Secretary of State
 ### [U.S. Secretary of State Hillary Clinton is discharged from the NewYork-Presbyterian Hospital after being treated for a blood clot. ](/news/2013/01/2/u-s-secretary-of-state-hillary-clinton-is-discharged-from-the-newyorkapresbyterian-hospital-after-being-treated-for-a-blood-clot.md)
-_Context: blood clot, NewYork-Presbyterian Hospital, Hillary Clinton, United States Secretary of State_
+_Context: Hillary Clinton, NewYork-Presbyterian Hospital, blood clot, United States Secretary of State_
 
 ## [Previous Day...](/news/2013/01/1/index.md)
 

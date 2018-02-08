@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame
 
 ### [2017-05-16](/news/2017/05/16/index.md)
 
-##### synchrotron
+##### Synchrotron
 # The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority. 
 
 An advanced research centre to be shared by the troubled region has opened today in Jordan.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/26/an-air-raid-on-a-people-smuggling-convoy-in-sud
 
 ### [2009-05-26](/news/2009/05/26/index.md)
 
-##### people smugglers
+##### People smugglers
 #  An air raid on a people-smuggling convoy in Sudan in January killed 119 people. 
 
 

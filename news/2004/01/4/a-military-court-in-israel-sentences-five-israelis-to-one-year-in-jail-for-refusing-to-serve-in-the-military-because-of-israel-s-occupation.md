@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/4/a-military-court-in-israel-sentences-five-israel
 
 ### [2004-01-4](/news/2004/01/4/index.md)
 
-##### military judge
+##### Military judge
 #  A military court in Israel sentences five Israelis to one year in jail for refusing to serve in the military because of Israel's occupation of the West Bank and Gaza Strip. (Compare conscientious objector)
 
 

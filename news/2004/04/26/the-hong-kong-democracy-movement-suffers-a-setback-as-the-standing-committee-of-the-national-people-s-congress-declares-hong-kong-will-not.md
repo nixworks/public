@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/26/the-hong-kong-democracy-movement-suffers-a-setb
 
 ### [2004-04-26](/news/2004/04/26/index.md)
 
-##### pan-democracy
+##### Pan-democracy
 #  The Hong Kong democracy movement suffers a setback as the Standing Committee of the National People's Congress declares Hong Kong will not have direct elections for Chief Executive in 2007 nor for all its Legislative Councillers in 2008.
 
 

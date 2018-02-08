@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/28/a-storm-sweeps-across-western-europe-killing-at
 
 ### [2010-02-28](/news/2010/02/28/index.md)
 
-##### storm
+##### Storm
 # A storm sweeps across Western Europe, killing at least 50 people and leaving a million homes without power. 
 
 

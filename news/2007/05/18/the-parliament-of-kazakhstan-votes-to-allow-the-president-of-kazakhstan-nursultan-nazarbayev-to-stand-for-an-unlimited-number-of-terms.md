@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/18/the-parliament-of-kazakhstan-votes-to-allow-the
 
 ### [2007-05-18](/news/2007/05/18/index.md)
 
-##### parliament
+##### Parliament
 #  The Parliament of Kazakhstan votes to allow the President of Kazakhstan Nursultan Nazarbayev to stand for an unlimited number of terms. 
 
 

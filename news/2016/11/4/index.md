@@ -5,7 +5,7 @@ Formats: [HTML](2016/11/4/index.html)  [JSON](2016/11/4/index.json)  [XML](2016/
 
 ##### Kurdish-Turkish conflict
 ### [ A car bomb kills at least eight people and injures up to 100 in Diyarbakir, Turkey. ](/news/2016/11/4/a-car-bomb-kills-at-least-eight-people-and-injures-up-to-100-in-diyarbaka-r-turkey.md)
-_Context: Diyarbakir, Turkey, Kurdish-Turkish conflict_
+_Context: Kurdish-Turkish conflict, Turkey, Diyarbakir_
 
 ##### United States
 ### [Three U.S. service members are killed in an exchange of gunfire with Jordanian military guards outside the King Faisal Air Base near Al-Jafr, Jordan. A Jordanian officer is also injured in the incident. ](/news/2016/11/4/three-u-s-service-members-are-killed-in-an-exchange-of-gunfire-with-jordanian-military-guards-outside-the-king-faisal-air-base-near-al-jafr.md)
@@ -27,7 +27,7 @@ Bret Baier also retracted his report that Clinton&#39;s email server had been ha
 ### [The death toll from a boat accident near Singapore reaches 54. The victims are mostly Indonesian migrant workers. ](/news/2016/11/4/the-death-toll-from-a-boat-accident-near-singapore-reaches-54-the-victims-are-mostly-indonesian-migrant-workers.md)
 BATAM, Indonesia (AFP) - The death toll from aboat accident in Indonesia has climbed to 54, an official said on Friday (Nov 4), after dozens of bodies were found floating in the ocean.. Read more at straitstimes.com.
 
-##### smog
+##### Smog
 ### [At least 15 people are killed in an outbreak of heavy smog in the Pakistani province of Punjab. ](/news/2016/11/4/at-least-15-people-are-killed-in-an-outbreak-of-heavy-smog-in-the-pakistani-province-of-punjab.md)
 In last 12 hours, as many as 1,200 patients have visited hospitals due to smog-related emergencies
 
@@ -49,7 +49,7 @@ In the Palau presidential race, the incumbent, Tommy Remengesau, is leading his 
 
 ##### 2016 South Korean political scandal
 ### [The President of South Korea Park Geun-hye accepts full blame for the scandal over the influence of religious figure Choi Soon-sil in Park's administration and vows to accept the results of an independent investigation into her actions. ](/news/2016/11/4/the-president-of-south-korea-park-geun-hye-accepts-full-blame-for-the-scandal-over-the-influence-of-religious-figure-choi-soon-sil-in-park-s.md)
-_Context: Park Geun-hye, South Korean President, 2016 South Korean political scandal, Choi Soon-sil_
+_Context: Choi Soon-sil, 2016 South Korean political scandal, Park Geun-hye, South Korean President_
 
 ##### 2016 Turkish purges
 ### [Turkish security forces begin mass arrests of pro-Kurdish Peoples' Democratic Party (HDP) MPs, including co-leaders Selahattin Demirtas and Figen Yuksekdag. Internet access is reportedly blocked across southeastern Turkey. ](/news/2016/11/4/turkish-security-forces-begin-mass-arrests-of-pro-kurdish-peoples-democratic-party-hdp-mps-including-co-leaders-selahattin-demirtaa-and.md)

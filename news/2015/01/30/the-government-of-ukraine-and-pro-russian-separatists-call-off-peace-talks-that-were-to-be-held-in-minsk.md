@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/30/the-government-of-ukraine-and-pro-russian-separ
 
 ### [2015-01-30](/news/2015/01/30/index.md)
 
-##### military intervention in Ukraine
+##### Military intervention in Ukraine
 # The Government of Ukraine and pro-Russian separatists call off peace talks that were to be held in Minsk. 
 
 Civilians were killed on both sides in heavy fighting in eastern Ukraine on Friday, while an attempt to reopen peace talks in neighbouring Belarus was aborted before it began.

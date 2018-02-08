@@ -7,7 +7,7 @@ Formats: [HTML](2013/11/6/index.html)  [JSON](2013/11/6/index.json)  [XML](2013/
 ### [A bomb explodes in the center of the capital, Damascus, killing at least 8 people and injuring more than 50 others. ](/news/2013/11/6/a-bomb-explodes-in-the-center-of-the-capital-damascus-killing-at-least-8-people-and-injuring-more-than-50-others.md)
 Eight people are killed by am explosion blast in the Syrian capital Damascus, and another eight in a blast in the Druze town of Suweida, reports say.
 
-##### explode
+##### Explode
 ### [Several small bombs explode outside a provincial office of the Chinese Communist Party in the northern city of Taiyuan, killing at least one person and wounding eight others. ](/news/2013/11/6/several-small-bombs-explode-outside-a-provincial-office-of-the-chinese-communist-party-in-the-northern-city-of-taiyuan-killing-at-least-one.md)
 A series of small explosions kill at least one person outside a provincial office of the ruling Communist Party in northern China, state media report.
 
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Detroit
 ### [A shooting at a barbershop in Detroit, Michigan, U.S. kills 2 people and injures 7 others. ](/news/2013/11/6/a-shooting-at-a-barbershop-in-detroit-michigan-u-s-kills-2-people-and-injures-7-others.md)
-_Context: Detroit, Mich., U.S._
+_Context: U.S., Detroit, Mich._
 
 ##### Pervez Musharraf
 ### [Pakistan's ex-president Pervez Musharraf is released on bail. ](/news/2013/11/6/pakistan-s-ex-president-pervez-musharraf-is-released-on-bail.md)

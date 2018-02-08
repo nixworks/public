@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/8/the-funeral-of-pope-john-paul-ii-takes-place.htm
 
 ### [2005-04-8](/news/2005/04/8/index.md)
 
-##### funeral of Pope John Paul II
+##### Funeral of Pope John Paul II
 #  The funeral of Pope John Paul II takes place. 
 
 

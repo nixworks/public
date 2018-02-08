@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/29/seven-people-including-a-toddler-are-shot-while
 
 ### [2011-11-29](/news/2011/11/29/index.md)
 
-##### music video
+##### Music video
 # Seven people, including a toddler, are shot while recording a music video in Oakland, California. 
 
 

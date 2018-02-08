@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/4/president-of-brazil-luiz-ina-cio-lula-da-silva-t
 
 ### [2010-07-4](/news/2010/07/4/index.md)
 
-##### president
+##### President
 # President of Brazil Luiz Inacio Lula da Silva takes his last tour of Africa as president. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/12/terrorists-fire-an-anti-tank-missile-at-the-emb
 
 ### [2007-01-12](/news/2007/01/12/index.md)
 
-##### fire an anti-tank missile
+##### Fire an anti-tank missile
 #  Terrorists fire an anti-tank missile at the Embassy of the United States in Athens. No one is injured or killed. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/1/over-a-thousand-dead-blackbirds-and-other-fowl-f
 
 ### [2011-01-1](/news/2011/01/1/index.md)
 
-##### blackbirds
+##### Blackbirds
 # Over a thousand dead blackbirds and other fowl fall out of the sky in Arkansas after a violent tornado outbreak and hailstorm. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/24/hiv-positive-muppet-kami-is-appointed-un-mascot
 
 ### [2003-11-24](/news/2003/11/24/index.md)
 
-##### muppet
+##### Muppet
 #  HIV-positive muppet Kami is appointed UN mascot for juvenile AIDS victims.
 
 

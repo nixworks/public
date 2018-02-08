@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/22/a-court-hears-that-two-british-men-shot-dead-in
 
 ### [2012-03-22](/news/2012/03/22/index.md)
 
-##### the state
+##### The state
 # A court hears that two British men shot dead in the U.S. state of Florida last April were found with their shirts off and trousers round their thighs. 
 
 A Florida court hears two British men shot dead last year were found with their shirts off and trousers round their thighs.

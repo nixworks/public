@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/19/former-nurse-victorino-chua-has-been-found-guil
 
 ### [2015-05-19](/news/2015/05/19/index.md)
 
-##### poisoning patients
+##### Poisoning patients
 # Former nurse Victorino Chua has been found guilty of murder and poisoning patients at Stepping Hill Hospital in Stockport, Greater Manchester, U.K., and sentenced to 35 years in jail. 
 
 Nurse Victorino Chua is jailed for a minimum of 35 years for murdering and poisoning patients at Stepping Hill Hospital.

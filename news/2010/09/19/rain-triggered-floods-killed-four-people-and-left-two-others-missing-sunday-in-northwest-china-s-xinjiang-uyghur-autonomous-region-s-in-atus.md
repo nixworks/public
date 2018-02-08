@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/19/rain-triggered-floods-killed-four-people-and-le
 
 ### [2010-09-19](/news/2010/09/19/index.md)
 
-##### northwest China
+##### Northwest China
 # Rain-triggered floods killed four people and left two others missing Sunday in northwest China's Xinjiang Uyghur Autonomous Region's in Atush city. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/23/a-military-coup-is-announced-in-guinea-hours-af
 
 ### [2008-12-23](/news/2008/12/23/index.md)
 
-##### military coup
+##### Military coup
 #  A military coup is announced in Guinea, hours after the death of President Lansana Conte. 
 
 

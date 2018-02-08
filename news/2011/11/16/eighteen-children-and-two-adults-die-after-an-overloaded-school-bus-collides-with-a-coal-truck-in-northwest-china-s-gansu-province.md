@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/16/eighteen-children-and-two-adults-die-after-an-o
 
 ### [2011-11-16](/news/2011/11/16/index.md)
 
-##### collides
+##### Collides
 # Eighteen children and two adults die after an overloaded school bus collides with a coal truck in northwest China's Gansu province. 
 
 

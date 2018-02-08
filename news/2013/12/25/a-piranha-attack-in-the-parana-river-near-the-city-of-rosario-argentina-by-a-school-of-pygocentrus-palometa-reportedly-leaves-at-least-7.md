@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/25/a-piranha-attack-in-the-parana-river-near-the-c
 
 ### [2013-12-25](/news/2013/12/25/index.md)
 
-##### piranha
+##### Piranha
 # A piranha attack in the Parana River near the city of Rosario, Argentina by a school of "Pygocentrus palometa" reportedly leaves at least 70 injured. 
 
 A piranha feeding frenzy in Argentina reportedly has left at least 70 people injured, including seven children who lost parts of their fingers and toes.

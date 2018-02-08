@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/6/an-industry-wide-phishing-scheme-targets-sites-s
 
 ### [2009-10-6](/news/2009/10/6/index.md)
 
-##### phishing
+##### Phishing
 #  An "industry-wide phishing scheme" targets sites such as Google, Hotmail, Yahoo! and AOL, with passwords posted online and more than a quarter of a million accounts at risk. 
 
 

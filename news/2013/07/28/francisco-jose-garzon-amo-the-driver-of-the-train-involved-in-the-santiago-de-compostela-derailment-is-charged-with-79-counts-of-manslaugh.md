@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/28/francisco-jose-garzon-amo-the-driver-of-the-tra
 
 ### [2013-07-28](/news/2013/07/28/index.md)
 
-##### train that derailed
+##### Train that derailed
 # Francisco Jos Garzn Amo, the driver of the train involved in the Santiago de Compostela derailment, is charged with 79 counts of manslaughter in a Spanish court. 
 
 

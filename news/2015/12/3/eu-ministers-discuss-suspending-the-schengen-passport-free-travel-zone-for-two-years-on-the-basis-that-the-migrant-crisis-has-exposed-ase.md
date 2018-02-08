@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/3/eu-ministers-discuss-suspending-the-schengen-pas
 
 ### [2015-12-3](/news/2015/12/3/index.md)
 
-##### free travel
+##### Free travel
 # EU ministers discuss suspending the Schengen passport-free travel zone for two years, on the basis that the migrant crisis has exposed "serious deficiencies" at the Greek border that endanger the overall area. 
 
 

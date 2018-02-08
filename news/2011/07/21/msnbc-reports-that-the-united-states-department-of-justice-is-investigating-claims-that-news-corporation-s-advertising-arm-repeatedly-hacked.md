@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/21/msnbc-reports-that-the-united-states-department
 
 ### [2011-07-21](/news/2011/07/21/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # MSNBC reports that the United States Department of Justice is investigating claims that News Corporation's advertising arm repeatedly hacked into the computers of competitors. 
 
 Justice Department prosecutors are reviewing allegations that News Corp.&#8217;s advertising arm repeatedly hacked into the computers of a competitor in the United States as part of an effort to steal the rival firm&#8217;s business, according to a lawyer for the company. 

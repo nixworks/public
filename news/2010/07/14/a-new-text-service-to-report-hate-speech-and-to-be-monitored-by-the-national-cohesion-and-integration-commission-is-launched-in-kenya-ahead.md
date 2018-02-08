@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/14/a-new-text-service-to-report-hate-speech-and-to
 
 ### [2010-07-14](/news/2010/07/14/index.md)
 
-##### hate speech
+##### Hate speech
 # A new text service to report hate speech and to be monitored by the National Cohesion and Integration Commission is launched in Kenya ahead of the upcoming referendum on a new constitution. 
 
 A new text service to report hate speech in Kenya is launched ahead of a referendum on a new constitution.

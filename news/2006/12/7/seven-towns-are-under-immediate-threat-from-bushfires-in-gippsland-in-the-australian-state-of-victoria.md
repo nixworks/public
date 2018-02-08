@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/7/seven-towns-are-under-immediate-threat-from-bush
 
 ### [2006-12-7](/news/2006/12/7/index.md)
 
-##### bushfire
+##### Bushfire
 #  Seven towns are under immediate threat from bushfires in Gippsland in the Australian state of Victoria. 
 
 

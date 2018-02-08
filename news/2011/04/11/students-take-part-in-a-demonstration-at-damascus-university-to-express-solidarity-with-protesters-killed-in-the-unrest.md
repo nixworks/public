@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/11/students-take-part-in-a-demonstration-at-damasc
 
 ### [2011-04-11](/news/2011/04/11/index.md)
 
-##### protestors
+##### Protestors
 # Students take part in a demonstration at Damascus University to express solidarity with protesters killed in the unrest. 
 
 

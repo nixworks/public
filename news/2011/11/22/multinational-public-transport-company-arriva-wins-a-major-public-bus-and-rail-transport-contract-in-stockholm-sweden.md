@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/22/multinational-public-transport-company-arriva-w
 
 ### [2011-11-22](/news/2011/11/22/index.md)
 
-##### multinational
+##### Multinational
 # Multinational public transport company Arriva wins a major public bus and rail transport contract in Stockholm, Sweden. 
 
 

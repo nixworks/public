@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/6/2011-libyan-civil-war-rebels-retake-the-town-of-
 
 ### [2011-06-6](/news/2011/06/6/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebels retake the town of Yafran in the west of the country. 
 
 

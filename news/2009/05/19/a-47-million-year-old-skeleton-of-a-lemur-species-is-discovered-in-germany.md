@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/19/a-47-million-year-old-skeleton-of-a-lemur-speci
 
 ### [2009-05-19](/news/2009/05/19/index.md)
 
-##### skeleton
+##### Skeleton
 #  A 47-million-year-old skeleton of a lemur species is discovered in Germany. 
 
 

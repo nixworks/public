@@ -11,7 +11,7 @@ The Yemeni government and Shia Houthi rebels sign an agreement aimed at ending t
 ### [Tens of thousands of Kurds flee into Turkey ahead of an ISIL offensive. ](/news/2014/09/21/tens-of-thousands-of-kurds-flee-into-turkey-ahead-of-an-isil-offensive.md)
 Tens of thousands of Syrian Kurds have flooded into Turkey, prompting an appeal for international intervention.
 
-##### suicide bombing
+##### Suicide bombing
 ### [The Pakistani Taliban claims to have shot down a Pakistani Air Force F-16, and releases pictures of the wreckage. ](/news/2014/09/21/the-pakistani-taliban-claims-to-have-shot-down-a-pakistani-air-force-f-16-and-releases-pictures-of-the-wreckage.md)
 &quot;It&#039;s difficult to access what really happened...&quot; 
 

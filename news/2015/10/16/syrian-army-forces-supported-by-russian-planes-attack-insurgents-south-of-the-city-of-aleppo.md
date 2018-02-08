@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/16/syrian-army-forces-supported-by-russian-planes-
 
 ### [2015-10-16](/news/2015/10/16/index.md)
 
-##### the battle for Aleppo
+##### The battle for Aleppo
 # Syrian Army forces supported by Russian planes attack insurgents south of the city of Aleppo. 
 
 Turkey shot down a drone on Friday in an incident highlighting the dangers of multiple air combat operations over Syria, where government troops and their allies backed by Russian jets have launched an offensive against rebels near Aleppo.

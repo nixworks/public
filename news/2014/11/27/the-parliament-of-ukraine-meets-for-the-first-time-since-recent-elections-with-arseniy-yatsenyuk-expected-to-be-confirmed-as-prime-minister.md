@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/27/the-parliament-of-ukraine-meets-for-the-first-t
 
 ### [2014-11-27](/news/2014/11/27/index.md)
 
-##### parliament
+##### Parliament
 # The Parliament of Ukraine meets for the first time since recent elections with Arseniy Yatsenyuk expected to be confirmed as Prime Minister. 
 
 Government needed quickly to face Russian-backed insurgency and dying economy 

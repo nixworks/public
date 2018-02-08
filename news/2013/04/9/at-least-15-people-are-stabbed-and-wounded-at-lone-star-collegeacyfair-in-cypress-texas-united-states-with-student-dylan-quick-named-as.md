@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/9/at-least-15-people-are-stabbed-and-wounded-at-lo
 
 ### [2013-04-9](/news/2013/04/9/index.md)
 
-##### stabbed
+##### Stabbed
 # At least 15 people are stabbed and wounded at Lone Star College-CyFair in Cypress, Texas, United States, with student Dylan Quick named as a suspect. 
 
 A stabbing spree at Lone Star Community College in Texas has left 14 people injured, two of which are in critical condition.

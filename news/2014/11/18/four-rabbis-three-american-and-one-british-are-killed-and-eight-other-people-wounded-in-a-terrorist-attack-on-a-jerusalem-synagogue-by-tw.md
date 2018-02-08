@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/18/four-rabbis-three-american-and-one-british-are-
 
 ### [2014-11-18](/news/2014/11/18/index.md)
 
-##### terrorist attack
+##### Terrorist attack
 # Four rabbis (three American and one British) are killed, and eight other people wounded in a terrorist attack on a Jerusalem synagogue by two men armed with meat cleavers and guns. The two attackers were killed by police who arrived at the scene. One of the policemen died from his wounds. 
 
 Two Palestinians armed with a gun and meat cleavers kill four worshippers at a Jerusalem synagogue, before being shot dead.

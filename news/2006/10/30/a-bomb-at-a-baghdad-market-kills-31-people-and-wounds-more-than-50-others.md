@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/30/a-bomb-at-a-baghdad-market-kills-31-people-and-
 
 ### [2006-10-30](/news/2006/10/30/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb at a Baghdad market kills 31 people and wounds more than 50 others. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/14/former-british-soldier-turned-singer-songwriter
 
 ### [2010-11-14](/news/2010/11/14/index.md)
 
-##### singer-songwriter
+##### Singer-songwriter
 # Former British soldier turned singer-songwriter James Blunt claims that he stopped what he believed would be World War III by disobeying a direct order for his troops to attack Russian soldiers given by American General Wesley Clark while he was in Kosovo with NATO in 1999. 
 
 Kosovo, June 1999. Serbia has withdrawn from the campaign. Hundreds of thousands of refugees wait over the border to return to their homes. A column of 30,000 Nato troops is advancing towards Pristina airfield – a crucial strategic position.

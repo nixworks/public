@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/12/one-french-soldier-and-17-militants-are-killed-
 
 ### [2013-01-12](/news/2013/01/12/index.md)
 
-##### rescue attempt
+##### Rescue attempt
 # One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. 
 
 A&#x20;French&#x20;soldier&#x20;was&#x20;killed&#x20;and&#x20;another&#x20;was&#x20;captured&#x20;in&#x20;a&#x20;failed&#x20;French&#x20;commando&#x20;raid&#x20;on&#x20;Saturday&#x20;to&#x20;rescue&#x20;French&#x20;hostage&#x20;Denis&#x20;Allex,&#x20;who&#x20;is&#x20;also&#x20;believed&#x20;to&#x20;have&#x20;died&#x20;in&#x20;the&#x20;operation,&#x20;according&#x20;to&#x20;the&#x20;French&#x20;Defence&#x20;Ministry.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/2/proposed-internet-domain-xxx-for-pornography-has
 
 ### [2005-12-2](/news/2005/12/2/index.md)
 
-##### internet
+##### Internet
 #  Proposed internet domain .xxx for pornography has been dropped shortly before the domain was set to receive approval. 
 
 

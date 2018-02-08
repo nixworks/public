@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/29/the-legal-team-representing-glenn-mulcaire-the-
 
 ### [2011-07-29](/news/2011/07/29/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # The legal team representing Glenn Mulcaire, the private investigator at the centre of claims of phone hacking, says that he "acted on the instructions of others". 
 
 Glenn Mulcaire, the private investigator at the centre of phone-hacking claims, &quot;acted on the instructions of others&quot;, his legal team says.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/28/natural-disaster-hurricane-juan-is-expected-to-
 
 ### [2003-09-28](/news/2003/09/28/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: Hurricane Juan is expected to make landfall near Halifax, Nova Scotia.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/02/23/an-avalanche-destroys-the-austrian-village-of-g
 
 ### [1999-02-23](/news/1999/02/23/index.md)
 
-##### avalanche
+##### Avalanche
 #  An avalanche destroys the Austrian village of Galtr, killing 31.
 
 

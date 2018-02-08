@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/23/researchers-find-that-there-are-four-geneticall
 
 ### [2012-09-23](/news/2012/09/23/index.md)
 
-##### breast cancer
+##### Breast cancer
 # Researchers find that there are four genetically distinct types of breast cancer. 
 
 New findings are reshaping the understanding of breast cancer, pointing to the use of drugs approved for other cancers. “This is the road map for how we might cure breast cancer in the future,” a researcher said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/12/3/at-least-three-first-responders-are-injured-batt
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
-##### first responder
+##### First responder
 # At least three first responders are injured battling a 10-alarm fire that's spread to seven buildings in Cambridge, Massachusetts (US). 
 
 Cambridge police spokesman Jeremy Warnick says there have been some injuries reported, but none of them are serious

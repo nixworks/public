@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/16/same-sex-marriage-in-california-comes-into-effe
 
 ### [2008-06-16](/news/2008/06/16/index.md)
 
-##### ban
+##### Ban
 #  Same-sex marriage in California comes into effect following a court ruling on May 15, 2008. 
 
 California beginsmarrying gay and lesbian couples on Monday afternoon in a steplikely to challenge other states where laws define marriage asonly between a man and a woman.

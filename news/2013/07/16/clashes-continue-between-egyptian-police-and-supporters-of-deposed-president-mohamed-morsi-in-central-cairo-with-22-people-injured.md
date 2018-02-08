@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/16/clashes-continue-between-egyptian-police-and-su
 
 ### [2013-07-16](/news/2013/07/16/index.md)
 
-##### police officers
+##### Police officers
 # Clashes continue between Egyptian police and supporters of deposed President Mohamed Morsi in central Cairo with 22 people injured. 
 
 

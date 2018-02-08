@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/4/the-death-toll-from-monsoon-flooding-in-india-ex
 
 ### [2004-08-4](/news/2004/08/4/index.md)
 
-##### monsoon
+##### Monsoon
 #  The death toll from monsoon flooding in India exceeds 1,000. 
 
 India has evacuated more than 3,000 people from a Himalayan valley because of fears a lake in China will burst its banks and flood across the border, officials said on Tuesday.

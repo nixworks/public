@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/20/a-severe-sandstorm-affecting-northern-parts-of-
 
 ### [2010-03-20](/news/2010/03/20/index.md)
 
-##### sandstorm
+##### Sandstorm
 # A severe sandstorm affecting northern parts of China hits the capital Beijing, with health authorities urging people to stay inside. 
 
 

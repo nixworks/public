@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-em
 
 ### [2015-11-2](/news/2015/11/2/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 # The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. 
 
 JAKARTA • The authorities in Riau, the Indonesian province that is second-closest to Singapore, have extended its haze emergency status by another month even as four airports in Sumatra and Kalimantan stayed shut over the weekend.. Read more at straitstimes.com.

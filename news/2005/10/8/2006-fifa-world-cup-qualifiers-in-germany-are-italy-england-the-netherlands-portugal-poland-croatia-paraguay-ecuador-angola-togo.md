@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/8/2006-fifa-world-cup-qualifiers-in-germany-are-it
 
 ### [2005-10-8](/news/2005/10/8/index.md)
 
-##### defending champion
+##### Defending champion
 #  2006 FIFA World Cup qualifiers in Germany are: Italy, England, the Netherlands, Portugal, Poland, Croatia, Paraguay, Ecuador, Angola, Togo, Ghana, Tunisia, Ivory Coast and Costa Rica.
 
 

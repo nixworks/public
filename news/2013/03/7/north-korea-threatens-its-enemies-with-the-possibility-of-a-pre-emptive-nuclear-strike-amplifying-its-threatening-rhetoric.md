@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/7/north-korea-threatens-its-enemies-with-the-possi
 
 ### [2013-03-7](/news/2013/03/7/index.md)
 
-##### nuclear strike
+##### Nuclear strike
 # North Korea threatens its enemies with the possibility of a pre-emptive nuclear strike, amplifying its threatening rhetoric. 
 
 North Korea threatened the United States on Thursday with a preemptive nuclear strike, raising the level of rhetoric as the U.N. Security Council approved new sanctions against the reclusive country.

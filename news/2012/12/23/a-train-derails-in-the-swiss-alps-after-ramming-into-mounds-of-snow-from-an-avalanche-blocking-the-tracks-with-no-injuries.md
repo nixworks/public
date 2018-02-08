@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming
 
 ### [2012-12-23](/news/2012/12/23/index.md)
 
-##### train
+##### Train
 # A train derails in the Swiss Alps after ramming into mounds of snow from an avalanche blocking the tracks with no injuries. 
 
 

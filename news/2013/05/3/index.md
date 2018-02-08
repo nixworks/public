@@ -7,7 +7,7 @@ Formats: [HTML](2013/05/3/index.html)  [JSON](2013/05/3/index.json)  [XML](2013/
 ### [Israeli warplanes bomb a Syrian weapons facility in an overnight attack. ](/news/2013/05/3/israeli-warplanes-bomb-a-syrian-weapons-facility-in-an-overnight-attack.md)
 Israel aircraft bombed a target in Syria on Thursday, an Obama administration official said, as United States officials said they were weighing options that included their own airstrikes.
 
-##### largest rubber duck
+##### Largest rubber duck
 ### [The world's largest rubber duck is moved to Hong Kong. ](/news/2013/05/3/the-world-s-largest-rubber-duck-is-moved-to-hong-kong.md)
 Get the latest weird news stories from all over the world. Find bizarre and offbeat news about people, nature and unexplained mysteries at ABC News.
 
@@ -37,11 +37,11 @@ There has been mixed reaction over the Brian Shivers not guilty verdict.
 
 ##### Pakistan
 ### [Chaudhry Zulfiqar Ali, a prosecutor with Pakistan's Federal Investigation Agency leading the prosecution of former President Pervez Musharraf over alleged involvement in the assassination of Benazir Bhutto, is shot dead on the way to court in Islamabad. ](/news/2013/05/3/chaudhry-zulfiqar-ali-a-prosecutor-with-pakistan-s-federal-investigation-agency-leading-the-prosecution-of-former-president-pervez-musharra.md)
-_Context: Federal Investigation Agency, Benazir Bhutto, Pakistan, Islamabad, president, Pervez Musharraf_
+_Context: president, Pakistan, Pervez Musharraf, Islamabad, Federal Investigation Agency, Benazir Bhutto_
 
 ##### Daryl Washington
 ### [Daryl Washington, an American football player with the Arizona Cardinals, is arrested on aggravated assault charges in Phoenix, Arizona. ](/news/2013/05/3/daryl-washington-an-american-football-player-with-the-arizona-cardinals-is-arrested-on-aggravated-assault-charges-in-phoenix-arizona.md)
-_Context: Arizona Cardinals, Phoenix, Arizona, NFL, Daryl Washington_
+_Context: NFL, Phoenix, Arizona, Daryl Washington, Arizona Cardinals_
 
 ##### China
 ### [Police in China arrest more than 900 people as they shutdown a million dollar crime ring that was selling rat meat as mutton. ](/news/2013/05/3/police-in-china-arrest-more-than-900-people-as-they-shutdown-a-million-dollar-crime-ring-that-was-selling-rat-meat-as-mutton.md)

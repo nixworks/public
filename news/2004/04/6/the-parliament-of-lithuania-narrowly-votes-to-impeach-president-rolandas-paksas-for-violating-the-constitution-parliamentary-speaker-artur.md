@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/6/the-parliament-of-lithuania-narrowly-votes-to-im
 
 ### [2004-04-6](/news/2004/04/6/index.md)
 
-##### parliament
+##### Parliament
 #  The parliament of Lithuania narrowly votes to impeach President Rolandas Paksas for violating the constitution. Parliamentary speaker Arturas Paulauskas will act as president for two months pending new elections. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/22/despite-talks-between-the-transport-workers-the
 
 ### [2007-11-22](/news/2007/11/22/index.md)
 
-##### transport
+##### Transport
 #  Despite talks between the transport workers, the management and the government, the November 2007 strikes in France continue for a ninth day. 
 
 

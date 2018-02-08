@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/3/french-police-seek-500-kg-1-100-nbsp-lb-of-ammon
 
 ### [2004-05-3](/news/2004/05/3/index.md)
 
-##### kg
+##### Kg
 #  French police seek 500 kg (1,100&nbsp;lb) of ammonium nitrate fertilizer stolen from the port of Honfleur at the mouth of the Seine River. The fertilizer can be converted easily into a powerful explosive. Such an explosive was used in the 1995 Oklahoma City bombing. AZF suspended operations inside France while the group seeks to upgrade its arsenal. 
 
 

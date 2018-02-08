@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/27/the-united-states-congress-provides-funding-for
 
 ### [2010-07-27](/news/2010/07/27/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress provides funding for a troop increase for the War in Afghanistan. 
 
 The Congress on Tuesday gave President Barack Obama long-delayed funding for his troop increase in Afghanistan despite opposition from many fellow Democrats, while Obama played down the gravity of leaked war documents.

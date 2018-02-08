@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/19/two-suicide-bombings-in-the-iraqi-capital-baghd
 
 ### [2006-01-19](/news/2006/01/19/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  Two suicide bombings in the Iraqi capital, Baghdad, leave at least 22 people dead and 26 wounded. 
 
 

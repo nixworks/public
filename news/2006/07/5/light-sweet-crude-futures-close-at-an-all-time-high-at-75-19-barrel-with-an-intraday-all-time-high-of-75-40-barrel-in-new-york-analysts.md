@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/5/light-sweet-crude-futures-close-at-an-all-time-h
 
 ### [2006-07-5](/news/2006/07/5/index.md)
 
-##### crude oil
+##### Crude oil
 #  Light Sweet Crude futures close at an all-time high at $75.19-barrel, with an intraday all-time high of $75.40-barrel in New York. Analysts have downplayed the effect of North Korea's missile launch. 
 
 

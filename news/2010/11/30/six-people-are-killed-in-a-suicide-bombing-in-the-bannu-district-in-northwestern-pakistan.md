@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/30/six-people-are-killed-in-a-suicide-bombing-in-t
 
 ### [2010-11-30](/news/2010/11/30/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # Six people are killed in a suicide bombing in the Bannu district in northwestern Pakistan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/13/a-7-5-magnitude-earthquake-west-of-india-s-nico
 
 ### [2010-06-13](/news/2010/06/13/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.5-magnitude earthquake west of India's Nicobar Islands causes tremors felt along India's eastern seaboard and triggers a tsunami watch, which is later cancelled. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News

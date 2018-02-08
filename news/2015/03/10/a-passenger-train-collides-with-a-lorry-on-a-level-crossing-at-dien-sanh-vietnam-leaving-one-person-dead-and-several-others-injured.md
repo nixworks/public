@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/10/a-passenger-train-collides-with-a-lorry-on-a-le
 
 ### [2015-03-10](/news/2015/03/10/index.md)
 
-##### collides
+##### Collides
 # A passenger train collides with a lorry on a level crossing at Dien Sanh, Vietnam leaving one person dead and several others injured. 
 
 

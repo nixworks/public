@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/3/syrian-forces-shell-and-advance-on-the-city-of-h
 
 ### [2011-08-3](/news/2011/08/3/index.md)
 
-##### shell and advance
+##### Shell and advance
 # Syrian forces shell and advance on the city of Hama. 
 
 

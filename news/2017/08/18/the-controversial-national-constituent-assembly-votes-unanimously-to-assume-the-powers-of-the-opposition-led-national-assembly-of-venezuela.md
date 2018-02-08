@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/18/the-controversial-national-constituent-assembly
 
 ### [2017-08-18](/news/2017/08/18/index.md)
 
-##### democratic opposition
+##### Democratic opposition
 # The controversial National Constituent Assembly votes unanimously to assume the powers of the opposition-led National Assembly of Venezuela. 
 
 The opposition-led parliament says the move will be rejected by Venezuelans.

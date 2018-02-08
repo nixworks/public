@@ -3,9 +3,9 @@ Formats: [HTML](2013/12/20/index.html)  [JSON](2013/12/20/index.json)  [XML](201
 
 ## [2013-12-20](/news/2013/12/20/index.md)
 
-##### airport terminal
+##### Airport terminal
 ### [A gunman opens fire outside a terminal at Ninoy Aquino International Airport in Manila, Philippines, killing four people, including the mayor of Labangan, Ukol Talumpa. ](/news/2013/12/20/a-gunman-opens-fire-outside-a-terminal-at-ninoy-aquino-international-airport-in-manila-philippines-killing-four-people-including-the-mayo.md)
-_Context: Labangan, Philippines, Manila, airport terminal, Ninoy Aquino International Airport_
+_Context: Labangan, Manila, Ninoy Aquino International Airport, airport terminal, Philippines_
 
 ##### Egypt
 ### [Two Egyptian soldiers are killed and eight wounded in an operation targeting Sinai militants in the northern Sinai Peninsula. ](/news/2013/12/20/two-egyptian-soldiers-are-killed-and-eight-wounded-in-an-operation-targeting-sinai-militants-in-the-northern-sinai-peninsula.md)
@@ -41,7 +41,7 @@ _Context: anti-prostitution laws, Supreme Court of Canada_
 
 ##### Same-sex marriage
 ### [Same-sex marriage becomes legal in the U.S. state of Utah, and gay couples begin receiving marriage licenses, after a federal judge strikes down a provision of the Utah Constitution. ](/news/2013/12/20/same-sex-marriage-becomes-legal-in-the-u-s-state-of-utah-and-gay-couples-begin-receiving-marriage-licenses-after-a-federal-judge-strikes.md)
-_Context: United States, Utah Constitution, Utah, Same-sex marriage_
+_Context: Same-sex marriage, Utah Constitution, Utah, United States_
 
 ##### Uganda
 ### [Uganda passes law banning homosexuality. ](/news/2013/12/20/uganda-passes-law-banning-homosexuality.md)

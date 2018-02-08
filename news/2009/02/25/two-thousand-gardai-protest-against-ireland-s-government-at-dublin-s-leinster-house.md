@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/25/two-thousand-gardai-protest-against-ireland-s-g
 
 ### [2009-02-25](/news/2009/02/25/index.md)
 
-##### garda
+##### Garda
 #  Two thousand Garda protest against Ireland's government at Dublin's Leinster House. 
 
 Up to 2,000 members of An Garda Síochána have taken part in a demonstration against the Government&#39;s public service pension levy.

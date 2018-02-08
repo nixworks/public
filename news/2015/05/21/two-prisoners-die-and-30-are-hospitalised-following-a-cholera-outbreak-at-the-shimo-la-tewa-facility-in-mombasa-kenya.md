@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/21/two-prisoners-die-and-30-are-hospitalised-follo
 
 ### [2015-05-21](/news/2015/05/21/index.md)
 
-##### cholera
+##### Cholera
 # Two prisoners die and 30 are hospitalised following a cholera outbreak at the Shimo la Tewa facility in Mombasa, Kenya. 
 
 Two remandees have died and 30 others been admitted following a cholera outbreak at Shimo la Tewa prison in Mombasa.

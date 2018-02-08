@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/20/the-eye-of-hurricane-dean-rapidly-moves-westwar
 
 ### [2007-08-20](/news/2007/08/20/index.md)
 
-##### eye
+##### Eye
 #  The eye of Hurricane Dean rapidly moves westward, passing just south of Jamaica, bringing strong hurricane-force winds and storm surges to bear down on the island nation, though the strongest wind is believed to have been offshore. 
 
 

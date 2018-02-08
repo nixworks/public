@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/13/a-fire-kills-dozens-of-animals-at-a-zoo-in-karl
 
 ### [2010-11-13](/news/2010/11/13/index.md)
 
-##### zoo
+##### Zoo
 # A fire kills dozens of animals at a zoo in Karlsruhe, Germany. 
 
 A fire at a zoo in the German city of Karlsruhe leaves 26 animals dead, including Shetland ponies, sheep, goats and a llama.

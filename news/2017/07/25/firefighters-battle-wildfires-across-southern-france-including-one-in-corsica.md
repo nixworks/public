@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/25/firefighters-battle-wildfires-across-southern-f
 
 ### [2017-07-25](/news/2017/07/25/index.md)
 
-##### wildfire
+##### Wildfire
 # Firefighters battle wildfires across southern France, including one in Corsica. 
 
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x20;of&#x20;Corsica,&#x20;emergency&#x20;services&#x20;said.

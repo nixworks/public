@@ -25,7 +25,7 @@ JOHANNESBURG, South Africa -- The second-place finisher in Kenya&rsquo;s recent 
 
 ##### Nuon Chea
 ### [Nuon Chea, the most senior surviving Khmer Rouge leader, is declared fit for trial by a United Nations-backed court in Cambodia. ](/news/2013/03/30/nuon-chea-the-most-senior-surviving-khmer-rouge-leader-is-declared-fit-for-trial-by-a-united-nations-backed-court-in-cambodia.md)
-_Context: Nuon Chea, United Nations, Khmer Rouge, Cambodia_
+_Context: United Nations, Khmer Rouge, Cambodia, Nuon Chea_
 
 ##### Eiffel Tower
 ### [The Eiffel Tower is evacuated for a time after an anonymous caller made a bomb threat. No explosives were found, police are still searching for the caller. ](/news/2013/03/30/the-eiffel-tower-is-evacuated-for-a-time-after-an-anonymous-caller-made-a-bomb-threat-no-explosives-were-found-police-are-still-searching.md)
@@ -33,13 +33,13 @@ A terror alert at the Eiffel Tower has been cleared after the monument was evacu
 
 ##### Pittsburgh
 ### [Three people are shot (one critically) at three stores at the Edgewood Towne Center shopping plaza near Pittsburgh, Pennsylvania, United States. The victims were taken to UPMC Presbyterian Hospital while police searched the area. ](/news/2013/03/30/three-people-are-shot-one-critically-at-three-stores-at-the-edgewood-towne-center-shopping-plaza-near-pittsburgh-pennsylvania-united-sta.md)
-_Context: United States, Pittsburgh, Pennsylvania_
+_Context: Pennsylvania, United States, Pittsburgh_
 
-##### panda
+##### Panda
 ### [Famous panda Mei Xiang is artificially inseminated in the U.S. National Zoo after natural breeding failed to occur. ](/news/2013/03/30/famous-panda-mei-xiang-is-artificially-inseminated-in-the-u-s-national-zoo-after-natural-breeding-failed-to-occur.md)
-_Context: panda, Mei Xiang's, artificially inseminated, breeding, U.S. National Zoo_
+_Context: artificially inseminated, panda, U.S. National Zoo, breeding, Mei Xiang's_
 
-##### meteorite
+##### Meteorite
 ### [Scientists announce that a green meteorite Northwest Africa 7325, found in Morocco in 2012, may have originated on Mercury, which, if proven, would be the first known meteorite from that planet. ](/news/2013/03/30/scientists-announce-that-a-green-meteorite-northwest-africa-7325-found-in-morocco-in-2012-may-have-originated-on-mercury-which-if-proven.md)
 A strange, green meteorite called NWA 7325 may actually the first piece of Mercury ever found on Earth. Find out where the ancient meteorite was found. 
 

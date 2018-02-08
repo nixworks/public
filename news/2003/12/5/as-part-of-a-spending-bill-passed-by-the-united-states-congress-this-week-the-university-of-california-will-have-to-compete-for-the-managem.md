@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/5/as-part-of-a-spending-bill-passed-by-the-united-
 
 ### [2003-12-5](/news/2003/12/5/index.md)
 
-##### lawmakers
+##### Lawmakers
 # As part of a spending bill passed by the United States Congress this week, the University of California will have to compete for the management contract of all three of its national laboratories: Lawrence Berkeley, Lawrence Livermore, and Los Alamos. Previously, it was expected that only Los Alamos would be up for bidding. [http:--www.sfgate.com-cgi-bin-article.cgi?file=-chronicle-archive-2003-12-04-MNG0Q3FSQ51.DTL]
 
 

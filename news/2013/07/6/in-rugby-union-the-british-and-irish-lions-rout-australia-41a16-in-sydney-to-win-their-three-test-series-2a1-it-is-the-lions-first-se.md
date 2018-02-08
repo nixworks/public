@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/6/in-rugby-union-the-british-and-irish-lions-rout-
 
 ### [2013-07-6](/news/2013/07/6/index.md)
 
-##### rugby union
+##### Rugby union
 # In rugby union, the British and Irish Lions rout Australia 41-16 in Sydney to win their three-Test series 2-1. It is the Lions' first series win since 1997, when they defeated South Africa. 
 
 The British and Irish Lions secure a first series win in 16 years with a dominant victory over Australia in Sydney.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/3/a-6-0-magnitude-earthquake-centred-in-the-sea-of
 
 ### [2009-07-3](/news/2009/07/3/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.0 magnitude earthquake centred in the Sea of Cortez shakes western Mexico. 
 
 

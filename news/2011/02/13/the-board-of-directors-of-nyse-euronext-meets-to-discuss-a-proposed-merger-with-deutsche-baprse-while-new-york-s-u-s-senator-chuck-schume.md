@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/13/the-board-of-directors-of-nyse-euronext-meets-t
 
 ### [2011-02-13](/news/2011/02/13/index.md)
 
-##### board of directors
+##### Board of directors
 # The board of directors of NYSE Euronext meets to discuss a proposed merger with Deutsche Borse, while New York's U.S. Senator, Chuck Schumer tells reporters that he is confident the NYSE would run the merged entity. 
 
 A top lawmaker on Sunday created waves over two key aspects of the proposed merger between Deutsche Boerse and NYSE Euronext -- which management team will run the merged entity and what will be its name.

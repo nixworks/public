@@ -7,13 +7,13 @@ Formats: [HTML](2012/05/16/index.html)  [JSON](2012/05/16/index.json)  [XML](201
 ### [Cambodian police and soldiers clash with villagers after attempting to evict them from their land, where a Russian plantation project is to be headquartered. A teenage girl has reportedly been killed. ](/news/2012/05/16/cambodian-police-and-soldiers-clash-with-villagers-after-attempting-to-evict-them-from-their-land-where-a-russian-plantation-project-is-to.md)
 _Context: Cambodia_
 
-##### black box
+##### Black box
 ### [The black box from a Russian passenger jet that crashed in the Indonesian province of West Java on May 9 is recovered by Indonesian authorities. ](/news/2012/05/16/the-black-box-from-a-russian-passenger-jet-that-crashed-in-the-indonesian-province-of-west-java-on-may-9-is-recovered-by-indonesian-authorit.md)
-_Context: black box, West Java, Russian passenger jet that crashed, Indonesia_
+_Context: Indonesia, Russian passenger jet that crashed, West Java, black box_
 
 ##### Bosnian Serb
 ### [The trial of former Bosnian Serb Army Colonel General Ratko Mladic starts in the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.md)
-_Context: Army, Ratko Mladic, Colonel General, International Criminal Tribunal for the former Yugoslavia, The Hague, Bosnian Serb_
+_Context: The Hague, Colonel General, International Criminal Tribunal for the former Yugoslavia, Bosnian Serb, Army, Ratko Mladic_
 
 ##### Police
 ### [Police in the Australian state of Queensland remove an Aboriginal Tent Embassy in Musgrave Park in the state capital Brisbane. ](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.md)
@@ -25,11 +25,11 @@ Greece will hold fresh elections on 17 June and a judge is appointed to head an 
 
 ##### Jean-Marc Ayrault
 ### [Jean-Marc Ayrault is sworn in as the Prime Minister of France. ](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.md)
-_Context: Jean-Marc Ayrault, Prime Minister_
+_Context: Prime Minister, Jean-Marc Ayrault_
 
 ##### Parachuting Rat
 ### [Parachuting Rat, an artwork by Banksy, in Melbourne, estimated to be worth AU$50,000, has been accidentally destroyed by building work. ](/news/2012/05/16/parachuting-rat-an-artwork-by-banksy-in-melbourne-estimated-to-be-worth-au-50-000-has-been-accidentally-destroyed-by-building-work.md)
-_Context: Melbourne, Banksy, Parachuting Rat_
+_Context: Parachuting Rat, Banksy, Melbourne_
 
 ##### China Central Television Headquarters
 ### [China Central Television Headquarters in Beijing is completed, a decade after its design by OMA. ](/news/2012/05/16/china-central-television-headquarters-in-beijing-is-completed-a-decade-after-its-design-by-oma.md)

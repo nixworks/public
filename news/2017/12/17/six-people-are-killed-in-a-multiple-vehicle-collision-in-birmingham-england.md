@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-col
 
 ### [2017-12-17](/news/2017/12/17/index.md)
 
-##### multiple-vehicle collision
+##### Multiple-vehicle collision
 # Six people are killed in a multiple-vehicle collision in Birmingham, England. 
 
 A seventh person was critically injured in the accident in Birmingham involving multiple vehicles.

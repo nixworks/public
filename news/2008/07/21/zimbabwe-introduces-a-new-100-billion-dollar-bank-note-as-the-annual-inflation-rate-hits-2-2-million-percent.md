@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/21/zimbabwe-introduces-a-new-100-billion-dollar-ba
 
 ### [2008-07-21](/news/2008/07/21/index.md)
 
-##### dollar
+##### Dollar
 #  Zimbabwe introduces a new 100-billion-dollar bank note as the annual inflation rate hits 2.2 million percent. 
 
 

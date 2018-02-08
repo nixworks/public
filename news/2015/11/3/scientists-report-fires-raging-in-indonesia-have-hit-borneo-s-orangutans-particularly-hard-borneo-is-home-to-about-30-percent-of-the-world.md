@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/3/scientists-report-fires-raging-in-indonesia-have
 
 ### [2015-11-3](/news/2015/11/3/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 # Scientists report fires raging in Indonesia have hit Borneo's orangutans particularly hard. Borneo is home to about 30 percent of the world's wild orangutans, an endangered species. Smoke has already displaced many orangutans and caused health problems related to smoke inhalation, according to the Borneo Orangutan Survival Foundation (BOSF). 
 
 Wild orangutans in Borneo are being displaced by man-made fires that got out of hand, causing the animals to lose their homes and get respiratory infections. 

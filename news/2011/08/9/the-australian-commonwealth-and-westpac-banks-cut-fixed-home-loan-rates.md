@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/9/the-australian-commonwealth-and-westpac-banks-cu
 
 ### [2011-08-9](/news/2011/08/9/index.md)
 
-##### trend
+##### Trend
 # The Australian Commonwealth and Westpac banks cut fixed home loan rates. 
 
 Australian stocks staged a spectacular recovery today, reversing a massive slide to register a gain amid rumours that the US Federal Reserve is preparing another stimulus package.

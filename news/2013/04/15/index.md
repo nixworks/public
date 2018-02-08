@@ -3,17 +3,17 @@ Formats: [HTML](2013/04/15/index.html)  [JSON](2013/04/15/index.json)  [XML](201
 
 ## [2013-04-15](/news/2013/04/15/index.md)
 
-##### explosions
+##### Explosions
 ### [Two explosions in Boston, United States, near the finish line of the 2013 Boston Marathon leave 3 people dead and 183 injured. ](/news/2013/04/15/two-explosions-in-boston-united-states-near-the-finish-line-of-the-2013-boston-marathon-leave-3-people-dead-and-183-injured.md)
 At least three people are killed and more than 100 injured, some seriously, in two explosions at the finish line of the Boston Marathon.
 
-##### bombings
+##### Bombings
 ### [At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.md)
 Officials say at least 31 people have been killed and more than 200 others wounded in a series of early morning explosions across Iraq.
 
 ##### Canadian
 ### [Canadian and Somali security forces probe for evidence that Mahad Ali Dhore, a former York University student, was part of the Mogadishu suicide bombings. ](/news/2013/04/15/canadian-and-somali-security-forces-probe-for-evidence-that-mahad-ali-dhore-a-former-york-university-student-was-part-of-the-mogadishu-sui.md)
-_Context: Canadian, Mogadishu, suicide bombings, York University, Somalia, security forces_
+_Context: Mogadishu, Canadian, York University, Somalia, suicide bombings, security forces_
 
 ##### Lion Air
 ### [The pilot and co-pilot of a Lion Air plane that crashed at Ngurah Rai International Airport in Bali, Indonesia, pass initial drug tests, as investigators probe the causes of the accident that left dozens injured. ](/news/2013/04/15/the-pilot-and-co-pilot-of-a-lion-air-plane-that-crashed-at-ngurah-rai-international-airport-in-bali-indonesia-pass-initial-drug-tests-as.md)
@@ -25,9 +25,9 @@ The BBC says an edition of Panorama filmed secretly on a study trip to North Kor
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard announces that the late Swedish diplomat Raoul Wallenberg has been made an honorary Australian citizen. ](/news/2013/04/15/australian-prime-minister-julia-gillard-announces-that-the-late-swedish-diplomat-raoul-wallenberg-has-been-made-an-honorary-australian-citiz.md)
-_Context: Julia Gillard, Australian Prime Minister, honorary Australian citizen, Raoul Wallenberg, Australia, Sweden_
+_Context: Sweden, honorary Australian citizen, Australian Prime Minister, Julia Gillard, Australia, Raoul Wallenberg_
 
-##### territorial row
+##### Territorial row
 ### [A hearing into the territorial row between Thailand and Cambodia begins at the International Court of Justice in The Hague. ](/news/2013/04/15/a-hearing-into-the-territorial-row-between-thailand-and-cambodia-begins-at-the-international-court-of-justice-in-the-hague.md)
 A week-long hearing into a territorial dispute between Thailand and Cambodia begins in The Hague.
 

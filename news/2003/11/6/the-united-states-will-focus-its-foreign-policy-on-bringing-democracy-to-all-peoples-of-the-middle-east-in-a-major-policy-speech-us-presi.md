@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/6/the-united-states-will-focus-its-foreign-policy-
 
 ### [2003-11-6](/news/2003/11/6/index.md)
 
-##### foreign policy
+##### Foreign policy
 #  The United States will focus its foreign policy on bringing democracy to all peoples of the Middle East. In a major policy speech, US President George W. Bush states that some states people of the region should have responsible democratic leaders, announcing a new American "forward strategy of freedom in the Middle East." Bush states a failure to establish democracy in Iraq would embolden terrorists around the world, increase the danger to the US, and extinguish the hopes of millions in the region. "Our commitment to democracy is being tested in the Middle East," Bush states. He describes democratic reforms in the region as the next great turning point and blames decades of post-colonial Western foreign policy for allowing the many dictatorships and violent theocracies to develop. "As long as the Middle East remains a place where freedom does not flourish," Bush states, "it will remain a place of stagnation, resentment and violence ready for export. And with the spread of weapons that can bring catastrophic harm to our country and to our friends, it would be reckless to accept the status quo."
 
 

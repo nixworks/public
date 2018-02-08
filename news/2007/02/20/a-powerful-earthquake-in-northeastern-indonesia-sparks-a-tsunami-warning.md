@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/20/a-powerful-earthquake-in-northeastern-indonesia
 
 ### [2007-02-20](/news/2007/02/20/index.md)
 
-##### earthquake
+##### Earthquake
 #  A powerful earthquake in northeastern Indonesia sparks a tsunami warning. 
 
 

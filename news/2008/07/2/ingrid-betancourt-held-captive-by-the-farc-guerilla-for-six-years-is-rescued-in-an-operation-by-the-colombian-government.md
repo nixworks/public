@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/2/ingrid-betancourt-held-captive-by-the-farc-gueri
 
 ### [2008-07-2](/news/2008/07/2/index.md)
 
-##### ngrid Betancourt
+##### Ngrid Betancourt
 #  ngrid Betancourt, held captive by the FARC guerilla for six years, is rescued in an operation by the Colombian government. 
 
 

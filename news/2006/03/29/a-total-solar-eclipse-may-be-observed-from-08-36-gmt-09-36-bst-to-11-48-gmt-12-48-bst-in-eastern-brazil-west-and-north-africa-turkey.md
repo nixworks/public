@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/29/a-total-solar-eclipse-may-be-observed-from-08-3
 
 ### [2006-03-29](/news/2006/03/29/index.md)
 
-##### total solar eclipse
+##### Total solar eclipse
 #  A total solar eclipse may be observed from 08:36 GMT (09:36 BST) to 11:48 GMT (12:48 BST) in Eastern Brazil, West and North Africa, Turkey, Central Asia and Mongolia. 
 
 

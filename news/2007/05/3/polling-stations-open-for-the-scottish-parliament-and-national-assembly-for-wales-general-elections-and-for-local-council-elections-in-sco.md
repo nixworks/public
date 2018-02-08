@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/3/polling-stations-open-for-the-scottish-parliamen
 
 ### [2007-05-3](/news/2007/05/3/index.md)
 
-##### winning the most seats
+##### Winning the most seats
 #  Polling stations open for the Scottish Parliament and National Assembly for Wales general elections, and for local council elections in Scotland and parts of England. 
 
 

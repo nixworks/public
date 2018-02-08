@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/1/chinese-authorities-say-they-have-shut-down-near
 
 ### [2004-08-1](/news/2004/08/1/index.md)
 
-##### internet users
+##### Internet users
 #  Chinese authorities say they have shut down nearly 700 websites and arrested 224 people in a new campaign against internet pornography. 
 
 

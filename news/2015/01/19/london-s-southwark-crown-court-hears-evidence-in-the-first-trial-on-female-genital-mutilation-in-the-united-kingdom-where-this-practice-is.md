@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/19/london-s-southwark-crown-court-hears-evidence-i
 
 ### [2015-01-19](/news/2015/01/19/index.md)
 
-##### female genital mutilation
+##### Female genital mutilation
 # London's Southwark Crown Court hears evidence in the first trial on female genital mutilation in the United Kingdom, where this practice is illegal. 
 
 A UK doctor performed female genital mutilation on a young mother after she gave birth in hospital, a court has heard, in the first prosecution of its kind in the UK.

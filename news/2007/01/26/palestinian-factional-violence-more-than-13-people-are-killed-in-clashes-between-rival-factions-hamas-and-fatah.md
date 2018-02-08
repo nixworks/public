@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/26/palestinian-factional-violence-more-than-13-peo
 
 ### [2007-01-26](/news/2007/01/26/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence: More than 13 people are killed in clashes between rival factions Hamas and Fatah. 
 
 

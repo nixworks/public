@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/26/2012a2013-cypriot-financial-crisis-cyprus-s-min
 
 ### [2013-03-26](/news/2013/03/26/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: Cyprus's Ministry of Finance says banks will remain shut until Thursday to give regulators time to guard against a run on deposits, and that big depositors in Cypriot banks can lose up to 40% of their funds, while depositors with less than 100,000 euros in their accounts will not be affected by bailout plans. 
 
 

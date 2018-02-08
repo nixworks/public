@@ -3,17 +3,17 @@ Formats: [HTML](2008/05/7/index.html)  [JSON](2008/05/7/index.json)  [XML](2008/
 
 ## [2008-05-7](/news/2008/05/7/index.md)
 
-##### genome
+##### Genome
 ### [ The genome of the platypus is sequenced. ](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.md)
 _Context: genome, platypus_
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi, the Prime Minister of Italy, appoints his new Cabinet. ](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.md)
-_Context: forming a government, Silvio Berlusconi, Italian Prime Minister_
+_Context: forming a government, Italian Prime Minister, Silvio Berlusconi_
 
 ##### Hillary Clinton
 ### [ Hillary Clinton vows to remain as a candidate in the United States presidential election, 2008 despite financial problems which required her to lend her campaign $6.4 million dollars and dwindling chances of winning the Democratic Party nomination. ](/news/2008/05/7/hillary-clinton-vows-to-remain-as-a-candidate-in-the-united-states-presidential-election-2008-despite-financial-problems-which-required-he.md)
-_Context: Hillary Clinton, 2008, Democrat_
+_Context: 2008, Democrat, Hillary Clinton_
 
 ##### Brian Cowen
 ### [ Brian Cowen, TD is elected as Irish Taoiseach by 88 votes to 76. ](/news/2008/05/7/brian-cowen-td-is-elected-as-irish-taoiseach-by-88-votes-to-76.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/26/a-series-of-earthquakes-strikes-a-region-of-cen
 
 ### [2016-10-26](/news/2016/10/26/index.md)
 
-##### series of earthquakes
+##### Series of earthquakes
 # A series of earthquakes strikes a region of Central Italy already impacted by a major quake in August. Many buildings are damaged or destroyed across several towns. 
 
 

@@ -33,11 +33,11 @@ Eleven German MPs of Turkish origin are under police protection after declaring 
 
 ##### Secretary General of NATO
 ### [The Secretary General of NATO Jens Stoltenberg says that the military alliance plans on sending four multinational battalions to Estonia, Latvia, Lithuania and Poland in order to boost their defense. However, Stoltenberg said that the battalions will only be deployed on a rotational basis instead of being based permanently. ](/news/2016/06/13/the-secretary-general-of-nato-jens-stoltenberg-says-that-the-military-alliance-plans-on-sending-four-multinational-battalions-to-estonia-la.md)
-_Context: Lithuania, Estonia, Latvia, Jens Stoltenberg, Poland, Secretary General of NATO_
+_Context: Estonia, Secretary General of NATO, Lithuania, Polish, Latvia, Jens Stoltenberg_
 
 ##### Fiji
 ### [Fiji's ambassador to the United Nations Peter Thomson is elected as President of the United Nations General Assembly for its 71st session. ](/news/2016/06/13/fiji-s-ambassador-to-the-united-nations-peter-thomson-is-elected-as-president-of-the-united-nations-general-assembly-for-its-71st-session.md)
-_Context: Peter Thomson, Fiji, President of the United Nations General Assembly, United Nations_
+_Context: Peter Thomson, President of the United Nations General Assembly, Fiji, United Nations_
 
 ##### Netherlands
 ### [A 22-year-old Dutch woman held in Qatar for nearly three months after telling police she had been raped is released following the court ruling of a one-year suspended prison sentence. The Associated Press reports it isn't clear "[...] what sentence was given to the man she accused of rape." ](/news/2016/06/13/a-22-year-old-dutch-woman-held-in-qatar-for-nearly-three-months-after-telling-police-she-had-been-raped-is-released-following-the-court-ruli.md)

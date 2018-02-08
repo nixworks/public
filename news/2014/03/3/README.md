@@ -13,13 +13,13 @@ _Context: Pakistan, Islamabad_
 
 ##### Nigeria
 ### [Violence across Nigeria, between Islamic terrorists and the Nigerian military, kills dozens of people. ](/news/2014/03/3/violence-across-nigeria-between-islamic-terrorists-and-the-nigerian-military-kills-dozens-of-people.md)
-_Context: Nigeria, Islamic, Nigerian military_
+_Context: Nigerian military, Nigeria, Islamic_
 
 ##### 12 Years a Slave
 ### ["12 Years a Slave" wins three Oscars, including the Academy Award for Best Picture. ](/news/2014/03/3/12-years-a-slave-wins-three-oscars-including-the-academy-award-for-best-picture.md)
 Capping one of the tightest races in recent Academy Awards history, director Steve McQueen ’s searing survival tale “12 Years a Slave” won the best picture Oscar, beating out “American Hustle” and “Gravity.”
 
-##### cross the $1 billion mark
+##### Cross the $1 billion mark
 ### ["Frozen" becomes the eighteenth film and second animated film to cross the $1 billion mark in worldwide box office grosses. ](/news/2014/03/3/frozen-becomes-the-eighteenth-film-and-second-animated-film-to-cross-the-1-billion-mark-in-worldwide-box-office-grosses.md)
 “Frozen” had several reasons to celebrate last night (excluding the flubbed introduction of star Idina Menzel). Aside from nabbing two Oscars, including Disney’s first best animated feature win in …
 
@@ -33,7 +33,7 @@ Google Inc. and Samsung Electronics Co. joined Chinese mobile phone makers in ex
 
 ##### Microsoft
 ### [Microsoft founder Bill Gates regains the top spot as the world's richest person, according to Forbes magazine's annual ranking of global billionaires. ](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.md)
-_Context: Forbes, Microsoft, Bill Gates_
+_Context: Bill Gates, Microsoft, Forbes_
 
 ##### North Korea
 ### [North Korea announces that it will release Australian Christian missionary John Short on account of his age. ](/news/2014/03/3/north-korea-announces-that-it-will-release-australian-christian-missionary-john-short-on-account-of-his-age.md)
@@ -41,13 +41,13 @@ Australian missionary John Short arrives in Beijing after being released by Nort
 
 ##### Oscar Pistorius
 ### [The trial of Oscar Pistorius begins in Pretoria. ](/news/2014/03/3/the-trial-of-oscar-pistorius-begins-in-pretoria.md)
-_Context: Pretoria, Oscar Pistorius_
+_Context: Oscar Pistorius, Pretoria_
 
 ##### Victor Ponta
 ### [Romanian Prime Minister Victor Ponta announces the composition of his new government after days of complicated negotiations with main ethnic Hungarian party of Romania. ](/news/2014/03/3/romanian-prime-minister-victor-ponta-announces-the-composition-of-his-new-government-after-days-of-complicated-negotiations-with-main-ethnic.md)
-_Context: main ethnic Hungarian party of Romania, Victor Ponta_
+_Context: Victor Ponta, main ethnic Hungarian party of Romania_
 
-##### pithovirus
+##### Pithovirus
 ### [Scientists announce the discovery of "pithovirus", the largest giant virus yet known, from a 30,000-year-old sample of frozen tundra. ](/news/2014/03/3/scientists-announce-the-discovery-of-pithovirus-the-largest-giant-virus-yet-known-from-a-30-000-year-old-sample-of-frozen-tundra.md)
 Largest virus yet discovered hints at viral diversity trapped in permafrost.
 

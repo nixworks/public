@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/29/at-least-20-people-are-killed-and-42-injured-af
 
 ### [2008-05-29](/news/2008/05/29/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  At least 20 people are killed and 42 injured after two suicide bombings in northern Iraq. 
 
 

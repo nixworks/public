@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/14/a-drone-attack-conducted-by-the-united-states-k
 
 ### [2013-04-14](/news/2013/04/14/index.md)
 
-##### drones launch
+##### Drones launch
 # A drone attack conducted by the United States kills at least five people in Datta Khel, North Waziristan, Pakistan. 
 
 

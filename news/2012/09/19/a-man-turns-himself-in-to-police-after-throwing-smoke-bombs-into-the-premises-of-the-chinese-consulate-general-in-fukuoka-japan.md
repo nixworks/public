@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/19/a-man-turns-himself-in-to-police-after-throwing
 
 ### [2012-09-19](/news/2012/09/19/index.md)
 
-##### police
+##### Police
 # A man turns himself in to police after throwing smoke bombs into the premises of the Chinese Consulate General in Fukuoka, Japan. 
 
 

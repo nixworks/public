@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/10/at-least-four-policemen-are-killed-and-another-
 
 ### [2014-11-10](/news/2014/11/10/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least four policemen are killed and another four are wounded in separate attacks in Karachi and Rawalpindi. 
 
 

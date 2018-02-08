@@ -23,7 +23,7 @@ Indonesia has closed Bali airport, one of its busiest international terminals, c
 ### [A cargo plane crashes shortly after takeoff from Juba International Airport in Juba, South Sudan. 41 people have reportedly died. The five Armenian crew members were killed. ](/news/2015/11/4/a-cargo-plane-crashes-shortly-after-takeoff-from-juba-international-airport-in-juba-south-sudan-41-people-have-reportedly-died-the-five-a.md)
 An Antonov-12 Soviet-made cargo plane has crash-landed near South Sudan’s airport shortly after taking off. 41 people have been killed on board and on the ground.
 
-##### collapses
+##### Collapses
 ### [A building collapses in the Pakistani city of Lahore resulting in at least 18 deaths, at least 75 injured and around 150 people still trapped. ](/news/2015/11/4/a-building-collapses-in-the-pakistani-city-of-lahore-resulting-in-at-least-18-deaths-at-least-75-injured-and-around-150-people-still-trappe.md)
 At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to&#x20;150&#x20;trapped&#x20;on&#x20;Wednesday&#x20;when&#x20;a&#x20;factory&#x20;collapsed&#x20;near&#x20;the&#x20;eastern&#x20;Pakistani&#x20;city&#x20;of&#x20;Lahore,&#x20;officials&#x20;said,&#x20;adding&#x20;to&#x20;...
 
@@ -33,11 +33,11 @@ President Ma Ying-jeou of Taiwan is to confer with President Xi Jinping of China
 
 ##### Association of Southeast Asian Nations
 ### [An Association of Southeast Asian Nations (ASEAN) meeting in Malaysia fails to agree on a joint communique following disagreement between China and other nations over the South China Sea. ](/news/2015/11/4/an-association-of-southeast-asian-nations-asean-meeting-in-malaysia-fails-to-agree-on-a-joint-communique-following-disagreement-between-ch.md)
-_Context: Malaysia, South China Sea, Association of Southeast Asian Nations_
+_Context: Association of Southeast Asian Nations, Malaysia, South China Sea_
 
 ##### South Korea
 ### [South Korea and China agree to establish an emergency navy and military hotline. ](/news/2015/11/4/south-korea-and-china-agree-to-establish-an-emergency-navy-and-military-hotline.md)
-_Context: hotline, South Korea, China_
+_Context: China, South Korea, hotline_
 
 ##### China-United States relations
 ### [U.S. Secretary of Defense Ashton Carter and his counterpart from Malaysia, Hishammuddin Hussein, will visit the USS Theodore Roosevelt (CVN-71) as it cruises in the South China Sea, this in the wake of China's dismay over a U.S. Navy ship's sailing in the vicinity of artificial islands constructed by China in the Spratly Islands. ](/news/2015/11/4/u-s-secretary-of-defense-ashton-carter-and-his-counterpart-from-malaysia-hishammuddin-hussein-will-visit-the-uss-theodore-roosevelt-cvn.md)
@@ -73,7 +73,7 @@ Ethnically diverse ministers include 15 men and 15 women as new prime minister h
 
 ##### Belizean general election, 2015
 ### [Voters in Belize go to the polls with the United Democratic Party led by Dean Barrow hoping for a third consecutive term. ](/news/2015/11/4/voters-in-belize-go-to-the-polls-with-the-united-democratic-party-led-by-dean-barrow-hoping-for-a-third-consecutive-term.md)
-_Context: Dean Barrow, United Democratic Party, Belizean general election, 2015, Belize_
+_Context: Belizean general election, 2015, United Democratic Party, Dean Barrow, Belize_
 
 ## [Previous Day...](/news/2015/11/3/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/12/the-blueprint-for-the-chinese-space-program-inc
 
 ### [2007-03-12](/news/2007/03/12/index.md)
 
-##### spaceflight mission
+##### Spaceflight mission
 #  The blueprint for the Chinese space program, including the first Chinese-built astronomy satellite, a joint unmanned mission to Mars with Russia, and other extensive international cooperation, is released. 
 
 

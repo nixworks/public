@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/6/an-international-passenger-train-crashes-into-a-
 
 ### [2007-02-6](/news/2007/02/6/index.md)
 
-##### train
+##### Train
 #  An international passenger train crashes into a freight train in Komrom, Hungary, causing the engineer's death. Two of the 25 passengers also suffered injury. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/8/reports-confirm-that-british-hostage-kenneth-big
 
 ### [2004-10-8](/news/2004/10/8/index.md)
 
-##### hostage
+##### Hostage
 #  Reports confirm that British hostage Kenneth Bigley was beheaded yesterday by his captors, members of Abu Musab al-Zarqawi's Tawhid and Jihad militant group, despite last-minute exchanges between the group and the British government. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

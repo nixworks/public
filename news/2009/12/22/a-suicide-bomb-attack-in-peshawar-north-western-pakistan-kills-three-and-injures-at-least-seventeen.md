@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/22/a-suicide-bomb-attack-in-peshawar-north-western
 
 ### [2009-12-22](/news/2009/12/22/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb attack in Peshawar, north-western Pakistan, kills three and injures at least seventeen. 
 
 

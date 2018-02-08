@@ -9,7 +9,7 @@ _Context: 2011-2012 Syrian uprising, Arab League_
 
 ##### Dakar
 ### [Fires rage through Dakar after Senegal's top court rules that President Abdoulaye Wade can run for a third term in office next month and prevents his best-known opponent, Grammy Award-winning musician Youssou N'Dour, from running against him. ](/news/2012/01/28/fires-rage-through-dakar-after-senegal-s-top-court-rules-that-president-abdoulaye-wade-can-run-for-a-third-term-in-office-next-month-and-pre.md)
-_Context: Grammy Award, Abdoulaye Wade, Senegal, Youssou N'Dour, Dakar_
+_Context: Abdoulaye Wade, Grammy Award, Youssou N'Dour, Senegal, Dakar_
 
 ##### Islamist
 ### [11 Islamist militants are killed in a shootout in the northeastern Nigerian city of Maiduguri. ](/news/2012/01/28/11-islamist-militants-are-killed-in-a-shootout-in-the-northeastern-nigerian-city-of-maiduguri.md)
@@ -27,15 +27,15 @@ A fire at a drug rehabilitation centre in the Peruvian capital Lima kills at lea
 ### [The African Union opens its new headquarters in Addis Ababa. ](/news/2012/01/28/the-african-union-opens-its-new-headquarters-in-addis-ababa.md)
 The African Union inaugurates its newly built Chinese-funded headquarters in the Ethiopian capital, Addis Ababa.
 
-##### eurozone
+##### Eurozone
 ### [A German government plan is leaked proposing a eurozone "budget commissioner" to take control of Greece's economic affairs. ](/news/2012/01/28/a-german-government-plan-is-leaked-proposing-a-eurozone-budget-commissioner-to-take-control-of-greece-s-economic-affairs.md)
-_Context: eurozone, Greece_
+_Context: Greece, eurozone_
 
 ##### The Sun
 ### [A police officer and four journalists associated with British tabloid "The Sun" are arrested in relation to the News International phone hacking scandal, by detectives investigating payments made to police by journalists. The BBC understands the four journalists are ex-deputy editor Fergus Shanahan, ex-managing editor Graham Dudman, crime editor Mike Sullivan and head of news Chris Pharo. ](/news/2012/01/28/a-police-officer-and-four-journalists-associated-with-british-tabloid-the-sun-are-arrested-in-relation-to-the-news-international-phone-hac.md)
 Four current and former Sun journalists and a police officer are bailed by detectives investigating alleged corrupt payments.
 
-##### sea lions
+##### Sea lions
 ### [Eight sea lions are found shot dead in the U.S. state of Washington. ](/news/2012/01/28/eight-sea-lions-are-found-shot-dead-in-the-u-s-state-of-washington.md)
 At least eight sea lions have been shot dead in the US state of Washington in the past few weeks, wildlife officials say.
 
@@ -53,7 +53,7 @@ Tommy Sheridan&#039;s lawyer, Aamer Anwar, has accused prison authorities of try
 
 ##### Oakland, California
 ### [Approximately 300 people are arrested in the US city of Oakland, California during Occupy Oakland protests. ](/news/2012/01/28/approximately-300-people-are-arrested-in-the-us-city-of-oakland-california-during-occupy-oakland-protests.md)
-_Context: California, Occupy Oakland, Oakland, California_
+_Context: Oakland, California, California, Occupy Oakland_
 
 ## [Previous Day...](/news/2012/01/27/index.md)
 

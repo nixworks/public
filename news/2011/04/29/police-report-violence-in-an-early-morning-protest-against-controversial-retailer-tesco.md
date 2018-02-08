@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/29/police-report-violence-in-an-early-morning-prot
 
 ### [2011-04-29](/news/2011/04/29/index.md)
 
-##### early morning protest
+##### Early morning protest
 # Police report violence in an early morning protest against controversial retailer Tesco. 
 
 

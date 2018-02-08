@@ -27,7 +27,7 @@ Unilever has said ciao to its Ragu and Bertolli pasta sauce business, agreeing t
 ### [Nest Labs announces plans to recall 440,000 smoke alarms to fix a problem that could cause the alarms to not go off immediately after detecting smoke. ](/news/2014/05/22/nest-labs-announces-plans-to-recall-440-000-smoke-alarms-to-fix-a-problem-that-could-cause-the-alarms-to-not-go-off-immediately-after-detect.md)
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
-##### prime minister
+##### Prime minister
 ### [Prime Minister of Vietnam Nguyen TCNYn Dung says that his government is considering legal action against China over an oil rig that was deployed in waters that Vietnam claims. ](/news/2014/05/22/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-ng-says-that-his-government-is-considering-legal-action-against-china-over-an-oil-rig-that-was.md)
 * Vietnam says will &quot;resolutely defend its sovereignty&quot;* China says Vietnam making &quot;irresponsible accusations&quot;against it* Philippines submit
 
@@ -47,7 +47,7 @@ Dominican lawmakers give final approval to a bill offering a path to citizenship
 ### [Activision Blizzard files papers with a California court, calling for unidentified programmers that created cheats for Starcraft II to be made to compensate them for copyright infringement. ](/news/2014/05/22/activision-blizzard-files-papers-with-a-california-court-calling-for-unidentified-programmers-that-created-cheats-for-starcraft-ii-to-be-ma.md)
 Activision Blizzard is trying to sue the creators of cheats that allow Starcraft II players to improve their rankings and unlock new weapons.
 
-##### newly elected
+##### Newly elected
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in the United Kingdom and the Netherlands vote today. ](/news/2014/05/22/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-the-united-kingdom-and-the-netherlan.md)
 There&#8217;s now only one day to go until voting starts for the 2014 European Parliament elections! Each country in the EU...
 

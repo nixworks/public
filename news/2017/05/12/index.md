@@ -29,13 +29,13 @@ A judge in the Netherlands has ruled that a 12-year-old boy does not have to und
 
 ##### ''Costa Concordia'' disaster
 ### [The Italian Supreme Court of Cassation upholds Francesco Schettino's 16-year sentence for his role as Captain of the "Costa Concordia" in the deaths of 32 people. ](/news/2017/05/12/the-italian-supreme-court-of-cassation-upholds-francesco-schettino-s-16-year-sentence-for-his-role-as-captain-of-the-costa-concordia-in-th.md)
-_Context: Francesco Schettino, ''Costa Concordia'' disaster, Supreme Court of Cassation_
+_Context: Supreme Court of Cassation, Francesco Schettino, ''Costa Concordia'' disaster_
 
 ##### A shooting attack at a nursing home
 ### [A shooting attack at a nursing home in Kirkersville, Ohio, kills four people, including a police chief and the shooter. ](/news/2017/05/12/a-shooting-attack-at-a-nursing-home-in-kirkersville-ohio-kills-four-people-including-a-police-chief-and-the-shooter.md)
 An armed man gunned down a new village police chief on an Ohio street on Friday and then killed two employees in a nearby nursing home, where he later was found dead, a sheriff said. No nursing home residents were injured, nor were two hostages briefly held by the alleged gunman. The slain...
 
-##### re-elected
+##### Re-elected
 ### [Candidates debate on live television with the rivals of frontrunner and current president, Hassan Rouhani, taking aim at his economic policies. ](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.md)
 Iranian President Hassan Rouhani launched a stinging attack on his main conservative rival in next week’s election, accusing him of unethical management of the nation’s holiest religious site and failing to grasp what’s needed to rebuild the economy.
 

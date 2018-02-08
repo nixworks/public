@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/22/several-people-are-killed-after-a-bus-comes-off
 
 ### [2009-09-22](/news/2009/09/22/index.md)
 
-##### a bus comes off a road
+##### A bus comes off a road
 #  Several people are killed after a bus comes off a road and slides down an embankment into a river east of Dsseldorf, Germany. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/14/a-fire-onboard-the-german-container-ship-msc-fl
 
 ### [2012-07-14](/news/2012/07/14/index.md)
 
-##### container ship
+##### Container ship
 # A fire onboard the German container ship "MSC Flaminia" forces the crew to abandon ship in the middle of the Atlantic Ocean. 
 
 One seafarer is confirmed dead and one is still missing as a result of a serious fire on a containership in the middle of a North Atlantic voyage.

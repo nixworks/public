@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/18/a-suicide-bombing-attack-in-kabul-kills-at-leas
 
 ### [2014-11-18](/news/2014/11/18/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing attack in Kabul kills at least two people. 
 
 

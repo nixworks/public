@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/15/a-state-of-emergency-is-declared-in-the-new-zea
 
 ### [2013-10-15](/news/2013/10/15/index.md)
 
-##### state of emergency
+##### State of emergency
 # A state of emergency is declared in the New Zealand district of Whanganui due to flooding. 
 
 

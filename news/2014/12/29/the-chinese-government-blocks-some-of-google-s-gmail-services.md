@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/29/the-chinese-government-blocks-some-of-google-s-
 
 ### [2014-12-29](/news/2014/12/29/index.md)
 
-##### blocks
+##### Blocks
 # The Chinese government blocks some of Google's Gmail services. 
 
 

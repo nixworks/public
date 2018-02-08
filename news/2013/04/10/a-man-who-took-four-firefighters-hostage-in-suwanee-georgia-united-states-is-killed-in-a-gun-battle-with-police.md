@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/10/a-man-who-took-four-firefighters-hostage-in-suw
 
 ### [2013-04-10](/news/2013/04/10/index.md)
 
-##### firefighter
+##### Firefighter
 # A man who took four firefighters hostage in Suwanee, Georgia, United States, is killed in a gun battle with police. 
 
 

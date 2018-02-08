@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/5/three-people-are-killed-and-five-are-wounded-in-
 
 ### [2013-08-5](/news/2013/08/5/index.md)
 
-##### town hall meeting
+##### Town hall meeting
 # Three people are killed and five are wounded in a shooting at a town hall meeting in Ross Township, Pennsylvania, U.S. 
 
 

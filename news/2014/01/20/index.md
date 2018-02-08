@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/20/index.html)  [JSON](2014/01/20/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md)
-_Context: suicide bomber, Rawalpindi, Pakistan, War in North-West Pakistan, killing at least 13 people_
+_Context: War in North-West Pakistan, suicide bomber, Pakistan, Rawalpindi, killing at least 13 people_
 
 ##### December 2013 Volgograd bombings
 ### [An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic-games-to-be-held-in-sochi.md)
@@ -57,7 +57,7 @@ Under pressure from the United States, Ban Ki-moon, the United Nations secretary
 
 ##### Iran
 ### [Certain sanctions against Iran are lifted by the European Union and the United States through a nuclear deal. ](/news/2014/01/20/certain-sanctions-against-iran-are-lifted-by-the-european-union-and-the-united-states-through-a-nuclear-deal.md)
-_Context: Iran, European Union, United States_
+_Context: European Union, Iran, United States_
 
 ##### Global surveillance disclosures (2013-present)
 ### [Mike Rogers accuses Edward Snowden of collaborating with Russia. ](/news/2014/01/20/mike-rogers-accuses-edward-snowden-of-collaborating-with-russia.md)
@@ -77,13 +77,13 @@ Israel has become the first country in the world to make ‘revenge porn’ a cr
 
 ##### India
 ### [Police in India are investigating the death of Sunanda Pushkar, wife of Shashi Tharoor, after she had accused her husband of committing adultery with Pakistani journalist Mehr Tarar. ](/news/2014/01/20/police-in-india-are-investigating-the-death-of-sunanda-pushkar-wife-of-shashi-tharoor-after-she-had-accused-her-husband-of-committing-adul.md)
-_Context: Pakistan, Mehr Tarar, adultery, Sunanda Pushkar, Shashi Tharoor, India_
+_Context: Shashi Tharoor, Sunanda Pushkar, Mehr Tarar, India, Pakistan, adultery_
 
 ##### Vietnam
 ### [30 people are to be executed in Vietnam for smuggling drugs. ](/news/2014/01/20/30-people-are-to-be-executed-in-vietnam-for-smuggling-drugs.md)
 A Vietnamese court sentences 30 people to death over heroin smuggling in what is said to be said the largest such trial ever held in the country.
 
-##### legislature
+##### Legislature
 ### [The transitional National Assembly of the Central African Republic chooses Catherine Samba-Panza as the interim President, making her the country's first female head of state. ](/news/2014/01/20/the-transitional-national-assembly-of-the-central-african-republic-chooses-catherine-samba-panza-as-the-interim-president-making-her-the-co.md)
 Marin Ngoupana and Adrian Croft
 

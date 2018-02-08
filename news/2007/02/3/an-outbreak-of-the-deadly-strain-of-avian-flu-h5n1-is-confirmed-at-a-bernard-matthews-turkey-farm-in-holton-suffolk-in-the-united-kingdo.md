@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/3/an-outbreak-of-the-deadly-strain-of-avian-flu-h5
 
 ### [2007-02-3](/news/2007/02/3/index.md)
 
-##### avian flu
+##### Avian flu
 #  An outbreak of the deadly strain of avian flu, H5N1, is confirmed at a Bernard Matthews turkey farm in Holton, Suffolk in the United Kingdom. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/8/the-left-wing-political-party-bagong-alyansang-m
 
 ### [2016-07-8](/news/2016/07/8/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # The left-wing political party, Bagong Alyansang Makabayan, which is part of the current government, asks Philippine President Rodrigo Duterte to investigate the recent vigilante killings of suspected drug pushers. 
 
 Duterte won the May 9 election by landslide largely on a pledge to kill tens of thousands of narcotics suspects and other criminals, and has urged the police and civilians to help in the killings.

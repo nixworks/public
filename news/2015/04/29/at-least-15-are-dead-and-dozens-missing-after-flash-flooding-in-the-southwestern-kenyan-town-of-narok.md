@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/29/at-least-15-are-dead-and-dozens-missing-after-f
 
 ### [2015-04-29](/news/2015/04/29/index.md)
 
-##### flash flooding
+##### Flash flooding
 # At least 15 are dead and dozens missing after flash flooding in the southwestern Kenyan town of Narok. 
 
 At least 15 bodies were recovered from floodwaters and many more people were still missing, local media reports said.

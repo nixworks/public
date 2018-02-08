@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/8/authorities-are-investigating-how-a-hacker-obtai
 
 ### [2013-02-8](/news/2013/02/8/index.md)
 
-##### hackers
+##### Hackers
 # Authorities are investigating how a hacker obtained access to the e-mail accounts of George H. W. Bush as well as several of the former U.S. President's relatives and close friends. 
 
 

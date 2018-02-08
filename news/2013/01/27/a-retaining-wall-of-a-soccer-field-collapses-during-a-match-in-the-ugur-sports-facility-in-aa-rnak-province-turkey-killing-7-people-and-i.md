@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/27/a-retaining-wall-of-a-soccer-field-collapses-du
 
 ### [2013-01-27](/news/2013/01/27/index.md)
 
-##### retaining wall
+##### Retaining wall
 # A retaining wall of a soccer field collapses during a match in the Ugur Sports Facility in Sirnak Province, Turkey, killing 7 people and injuring 3 others. 
 
 Rescuers searched for possible survivors following the collapse of a soccer field retaining wall in Turkey that killed seven people, officials said.

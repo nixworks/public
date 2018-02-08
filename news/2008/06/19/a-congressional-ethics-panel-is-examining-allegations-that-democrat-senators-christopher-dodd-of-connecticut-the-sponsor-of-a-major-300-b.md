@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/19/a-congressional-ethics-panel-is-examining-alleg
 
 ### [2008-06-19](/news/2008/06/19/index.md)
 
-##### housing crisis
+##### Housing crisis
 #  A Congressional ethics panel is examining allegations that Democrat Senators Christopher Dodd of Connecticut (the sponsor of a major $300 billion housing bailout bill) and Kent Conrad of North Dakota received preferential loans by troubled mortgage lender Countrywide Financial Corp. 
 
 

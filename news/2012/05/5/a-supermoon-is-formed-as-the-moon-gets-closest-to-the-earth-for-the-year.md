@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-t
 
 ### [2012-05-5](/news/2012/05/5/index.md)
 
-##### supermoon
+##### Supermoon
 # A supermoon is formed as the moon gets closest to the earth for the year. 
 
 

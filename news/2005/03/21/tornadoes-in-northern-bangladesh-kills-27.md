@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/21/tornadoes-in-northern-bangladesh-kills-27.html)
 
 ### [2005-03-21](/news/2005/03/21/index.md)
 
-##### tornado
+##### Tornado
 #  Tornadoes in northern Bangladesh kills 27. 
 
 

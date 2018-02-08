@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/10/the-death-toll-in-wangjialing-coal-mine-s-flood
 
 ### [2010-04-10](/news/2010/04/10/index.md)
 
-##### death toll in Wangjialing coal mine's flood
+##### Death toll in Wangjialing coal mine's flood
 # The death toll in Wangjialing coal mine's flood in Shanxi rises to 28 after the recovery of another corpse. 
 
 

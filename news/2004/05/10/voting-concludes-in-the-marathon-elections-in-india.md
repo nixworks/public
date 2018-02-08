@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/10/voting-concludes-in-the-marathon-elections-in-i
 
 ### [2004-05-10](/news/2004/05/10/index.md)
 
-##### marathon elections
+##### Marathon elections
 #  Voting concludes in the marathon elections in India. 
 
 

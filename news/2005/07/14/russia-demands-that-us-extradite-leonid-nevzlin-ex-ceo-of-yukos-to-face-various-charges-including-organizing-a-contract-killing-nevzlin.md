@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/14/russia-demands-that-us-extradite-leonid-nevzlin
 
 ### [2005-07-14](/news/2005/07/14/index.md)
 
-##### extradition
+##### Extradition
 #  Russia demands that US extradite Leonid Nevzlin, ex-CEO of Yukos, to face various charges, including organizing a contract killing. Nevzlin addressed the Commission on Security and Cooperation in Europe on Wednesday in Washington DC [http:--english.pravda.ru-world-20-91-368-15797_nevzlin.html (Pravda)] [http:--www.kommersant.com-page.asp?id=590796 (Kommersant)] [http:--today.reuters.com-news-newsArticle.aspx?type=worldNews&storyID=2005-07-14T005643Z_01_N13712181_RTRIDST_0_INTERNATIONAL-RUSSIA-USA-YUKOS-DC.XML (Reuters)] (Link dead as of 00:39, 15 January 2007 (UTC))
 
 

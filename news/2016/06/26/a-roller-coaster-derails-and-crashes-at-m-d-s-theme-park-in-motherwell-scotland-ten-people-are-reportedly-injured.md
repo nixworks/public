@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/26/a-roller-coaster-derails-and-crashes-at-m-d-s-t
 
 ### [2016-06-26](/news/2016/06/26/index.md)
 
-##### roller coaster
+##### Roller coaster
 # A roller coaster derails and crashes at M&D's theme park in Motherwell, Scotland. Ten people are reportedly injured. 
 
 Eight children and two adults are injured after a rollercoaster derails and crashes at a theme park in North Lanarkshire, Scotland.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/17/the-national-assembly-of-serbia-unanimously-ado
 
 ### [2004-08-17](/news/2004/08/17/index.md)
 
-##### parliament
+##### Parliament
 #  The National Assembly of Serbia unanimously adopts new state symbols for Serbia: Boze Pravde becomes the new anthem and the coat of arms is adopted for the whole country. ([http:--news.bbc.co.uk-1-hi-world-europe-3573958.stm BBC])
 
 

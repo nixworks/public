@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/18/florida-governor-charlie-crist-ends-the-state-s
 
 ### [2007-07-18](/news/2007/07/18/index.md)
 
-##### the state
+##### The state
 #  Florida Governor Charlie Crist ends the state's temporary voluntary moratorium on the death penalty by signing the death warrant of Mark Dean Schwab, convicted in 1992 of kidnapping, raping and murdering an 11-year-old boy in Cocoa, Florida. He is scheduled to die on November 15, 2007. 
 
 

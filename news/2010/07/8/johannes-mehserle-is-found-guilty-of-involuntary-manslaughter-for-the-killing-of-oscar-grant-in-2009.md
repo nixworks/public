@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/8/johannes-mehserle-is-found-guilty-of-involuntary
 
 ### [2010-07-8](/news/2010/07/8/index.md)
 
-##### shooting of Oscar Grant
+##### Shooting of Oscar Grant
 # Johannes Mehserle is found guilty of involuntary manslaughter for the killing of Oscar Grant in 2009. 
 
 The involuntary manslaughter conviction of a white former transit officer in the death of an unarmed black man set the stage for a sentencing that could be just as explosive as the trial. 

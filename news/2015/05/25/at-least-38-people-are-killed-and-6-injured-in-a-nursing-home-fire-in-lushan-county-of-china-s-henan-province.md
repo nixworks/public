@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/25/at-least-38-people-are-killed-and-6-injured-in-
 
 ### [2015-05-25](/news/2015/05/25/index.md)
 
-##### nursing home
+##### Nursing home
 # At least 38 people are killed and 6 injured in a nursing home fire in Lushan County of China's Henan Province. 
 
 

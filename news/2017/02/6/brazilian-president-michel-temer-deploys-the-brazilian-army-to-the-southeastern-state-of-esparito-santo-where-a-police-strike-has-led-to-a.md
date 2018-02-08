@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/6/brazilian-president-michel-temer-deploys-the-bra
 
 ### [2017-02-6](/news/2017/02/6/index.md)
 
-##### president
+##### President
 # Brazilian President Michel Temer deploys the Brazilian Army to the southeastern state of Espirito Santo, where a police strike has led to a wave of violence and looting, including dozens of murders in the state capital, Vitoria. 
 
 As many as 50 people have died in crimewave, according to local reports, as Espirito Santo police stopped work over pay dispute amid worst recession

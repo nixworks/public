@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/4/india-wins-cricket-s-commonwealth-bank-series-in
 
 ### [2008-03-4](/news/2008/03/4/index.md)
 
-##### cricketer
+##### Cricketer
 #  India wins cricket's Commonwealth Bank Series in Australia. 
 
 

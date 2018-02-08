@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/3/an-outbreak-of-foot-and-mouth-disease-at-a-cattl
 
 ### [2007-08-3](/news/2007/08/3/index.md)
 
-##### outbreak
+##### Outbreak
 #  An outbreak of foot and mouth disease at a cattle farm in Surrey, UK is confirmed by Defra. The unlicenced movement of all livestock throughout the UK is prohibited. 
 
 

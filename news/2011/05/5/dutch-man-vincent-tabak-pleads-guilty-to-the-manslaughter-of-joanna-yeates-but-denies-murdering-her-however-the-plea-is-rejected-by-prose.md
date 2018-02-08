@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/dutch-man-vincent-tabak-pleads-guilty-to-the-man
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### killer of Joanna Yeates
+##### Killer of Joanna Yeates
 # Dutch man Vincent Tabak pleads guilty to the manslaughter of Joanna Yeates, but denies murdering her. However, the plea is rejected by prosecutors and he is committed for trial in October. 
 
 A man accused of killing Jo Yeates, whose body was found near Bristol on Christmas Day, admits her manslaughter but denies murder.

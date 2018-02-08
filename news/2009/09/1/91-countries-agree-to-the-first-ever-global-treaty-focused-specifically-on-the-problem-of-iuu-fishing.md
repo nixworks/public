@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/1/91-countries-agree-to-the-first-ever-global-trea
 
 ### [2009-09-1](/news/2009/09/1/index.md)
 
-##### illegally fish
+##### Illegally fish
 #  91 countries agree to the first ever global treaty focused specifically on the problem of IUU fishing. 
 
 91 FAO Members have agreed on an international agreement to implement &ldquo;port state measures&rdquo; to combat illegal fishing.

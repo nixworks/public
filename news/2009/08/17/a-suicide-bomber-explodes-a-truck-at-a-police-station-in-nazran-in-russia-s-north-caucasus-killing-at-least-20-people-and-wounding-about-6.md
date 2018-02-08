@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/17/a-suicide-bomber-explodes-a-truck-at-a-police-s
 
 ### [2009-08-17](/news/2009/08/17/index.md)
 
-##### explodes a truck
+##### Explodes a truck
 #  A suicide bomber explodes a truck at a police station in Nazran in Russia's North Caucasus, killing at least 20 people and wounding about 60 others. 
 
 The attack in Russia’s tumultuous North Caucasus region was the latest episode in a spate of violence to hit the area in recent weeks.

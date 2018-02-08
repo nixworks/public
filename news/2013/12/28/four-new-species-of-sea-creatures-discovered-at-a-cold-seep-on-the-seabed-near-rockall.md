@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/28/four-new-species-of-sea-creatures-discovered-at
 
 ### [2013-12-28](/news/2013/12/28/index.md)
 
-##### cold seep
+##### Cold seep
 # Four new species of sea creatures discovered at a cold seep on the seabed near Rockall 
 
 Four animals previously unknown to science discovered in deep water off Scotland, says the Scottish government.

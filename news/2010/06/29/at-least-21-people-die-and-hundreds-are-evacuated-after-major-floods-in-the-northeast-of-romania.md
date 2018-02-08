@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/29/at-least-21-people-die-and-hundreds-are-evacuat
 
 ### [2010-06-29](/news/2010/06/29/index.md)
 
-##### major floods
+##### Major floods
 # At least 21 people die and hundreds are evacuated after major floods in the northeast of Romania. 
 
 

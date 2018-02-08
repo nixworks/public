@@ -5,21 +5,21 @@ Formats: [HTML](2013/12/25/index.html)  [JSON](2013/12/25/index.json)  [XML](201
 
 ##### Tetiana Chornovol
 ### [Tetiana Chornovol, an Ukrainian civic activist and journalist, is dragged from her car and beaten by a group of men. Authorities say that this is the latest attack on government opponents. ](/news/2013/12/25/tetiana-chornovol-an-ukrainian-civic-activist-and-journalist-is-dragged-from-her-car-and-beaten-by-a-group-of-men-authorities-say-that-th.md)
-_Context: Ukraine, Tetiana Chornovol_
+_Context: Tetiana Chornovol, Ukraine_
 
-##### car bomb
+##### Car bomb
 ### [A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. ](/news/2013/12/25/a-car-bomb-explodes-near-a-church-as-christian-worshippers-were-leaving-a-christmas-service-in-the-capital-baghdad-killing-at-least-14-peo.md)
 Two bombs near a Catholic church and a market in Baghdad kill at least 35 people, as Iraqi Christians celebrated Christmas, officials say.
 
 ##### Pope Francis
 ### [Pope Francis gives his first "Urbi et Orbi" speech calling for peace amidst the Syrian civil war and the 2013 South Sudan political crisis. ](/news/2013/12/25/pope-francis-gives-his-first-urbi-et-orbi-speech-calling-for-peace-amidst-the-syrian-civil-war-and-the-2013-south-sudan-political-crisis.md)
-_Context: 2013 South Sudan political crisis, Urbi et Orbi, Syrian civil war, Pope Francis_
+_Context: Urbi et Orbi, Syrian civil war, 2013 South Sudan political crisis, Pope Francis_
 
 ##### Haiti
 ### [Eighteen Haitian migrants drown off the Turks and Caicos Islands after their sailboat carrying more than 50 suspected immigrants capsized while being towed into port. ](/news/2013/12/25/eighteen-haitian-migrants-drown-off-the-turks-and-caicos-islands-after-their-sailboat-carrying-more-than-50-suspected-immigrants-capsized-wh.md)
 Eighteen Haitians died on Wednesday morning off the Turks and Caicos islands after a sailboat carrying more than 50 suspected immigrants capsized while being towed into port, officials said.
 
-##### piranha
+##### Piranha
 ### [A piranha attack in the Parana River near the city of Rosario, Argentina by a school of "Pygocentrus palometa" reportedly leaves at least 70 injured. ](/news/2013/12/25/a-piranha-attack-in-the-parana-river-near-the-city-of-rosario-argentina-by-a-school-of-pygocentrus-palometa-reportedly-leaves-at-least-7.md)
 A piranha feeding frenzy in Argentina reportedly has left at least 70 people injured, including seven children who lost parts of their fingers and toes.
 

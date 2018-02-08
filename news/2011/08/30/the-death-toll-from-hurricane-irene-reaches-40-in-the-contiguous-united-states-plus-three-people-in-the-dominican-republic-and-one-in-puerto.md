@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/30/the-death-toll-from-hurricane-irene-reaches-40-
 
 ### [2011-08-30](/news/2011/08/30/index.md)
 
-##### contiguous United States
+##### Contiguous United States
 # The death toll from Hurricane Irene reaches 40 in the contiguous United States plus three people in the Dominican Republic and one in Puerto Rico. 
 
 The death toll from Hurricane Irene has spiralled to 38 across 11 states in the US as bodies were pulled from floodwaters and people were electrocuted by downed power lines.

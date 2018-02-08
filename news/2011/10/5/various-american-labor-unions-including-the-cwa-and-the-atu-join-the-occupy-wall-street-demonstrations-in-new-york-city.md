@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/5/various-american-labor-unions-including-the-cwa-
 
 ### [2011-10-5](/news/2011/10/5/index.md)
 
-##### labor union
+##### Labor union
 # Various American labor unions, including the CWA and the ATU, join the Occupy Wall Street demonstrations in New York City. 
 
 

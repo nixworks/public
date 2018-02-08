@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/10/massive-explosions-at-a-propane-facility-just-b
 
 ### [2008-08-10](/news/2008/08/10/index.md)
 
-##### propane
+##### Propane
 #  Massive explosions at a propane facility just before 4 a.m. erupt in the Toronto, Canada community of Downsview, resulting in the evacuation of thousands of people. The explosions also caused the closure of Highway 401, Canada's busiest highway, through that area of Toronto. At least 18 people are reported injured, one missing, and one firefighter has died in connection with the incident. 
 
 

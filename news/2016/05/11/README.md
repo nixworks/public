@@ -11,7 +11,7 @@ Furious commanders ordered the savage execution after the 45 men retreated from 
 ### [ MI5 raises the threat level for dissident Northern Ireland militants from "moderate" to "substantial", meaning there is a strong possibility of an attack on the British mainland. ](/news/2016/05/11/mi5-raises-the-threat-level-for-dissident-northern-ireland-militants-from-moderate-to-substantial-meaning-there-is-a-strong-possibilit.md)
 Britain has raised the threat level from dissident Northern Ireland militants to &quot;substantial,&quot; meaning an attack on the British mainland is considered a strong possibility, Home Secretary (Interior Minister) Theresa May said on Wednesday.
 
-##### ground-edge
+##### Ground-edge
 ### [A fragment of the world's oldest ground-edge axe dated at between 45,000 and 49,000 years old is found in the Kimberley region of Western Australia. ](/news/2016/05/11/a-fragment-of-the-world-s-oldest-ground-edge-axe-dated-at-between-45-000-and-49-000-years-old-is-found-in-the-kimberley-region-of-western-au.md)
 A fragment of the world&#39;s oldest known ground-edge axe is found in the remote Kimberley region of northern Australia.
 
@@ -37,7 +37,7 @@ German men convicted on the basis of a 19th century law criminalizing homosexual
 
 ##### Impeachment process against Dilma Rousseff
 ### [The Federal Senate of Brazil debates whether to suspend and impeach President Dilma Rousseff for allegedly breaching budget rules. The President's allies are not optimistic about the Senate vote. ](/news/2016/05/11/the-federal-senate-of-brazil-debates-whether-to-suspend-and-impeach-president-dilma-rousseff-for-allegedly-breaching-budget-rules-the-presi.md)
-_Context: Impeachment process against Dilma Rousseff, president, Senate, Dilma Rousseff, Brazil_
+_Context: Brazil, Senate, Dilma Rousseff, president, Impeachment process against Dilma Rousseff_
 
 ##### Recognition of same-sex unions in Italy
 ### [The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. ](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-legislation-recognizing-civil-unions-of-same-sex-couples.md)
@@ -45,7 +45,7 @@ The law, opposed by the Vatican, stops short of gay marriage but brings Italy mo
 
 ##### Ugandan general election, 2016
 ### [Uganda arrests opposition leader Kizza Besigye as he addressed a crowd of supporters in the capital Kampala, and shuts down access to social media within the country prior to President Yoweri Museveni's inauguration tomorrow. ](/news/2016/05/11/uganda-arrests-opposition-leader-kizza-besigye-as-he-addressed-a-crowd-of-supporters-in-the-capital-kampala-and-shuts-down-access-to-social.md)
-_Context: Uganda, Yoweri Museveni, Kizza Besigye, Kampala, Ugandan general election, 2016, inauguration, President, social media_
+_Context: Ugandan general election, 2016, Uganda, social media, President, inauguration, Kampala, Kizza Besigye, Yoweri Museveni_
 
 ## [Previous Day...](/news/2016/05/10/index.md)
 

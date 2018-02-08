@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/14/ten-people-die-in-an-explosion-and-fire-in-a-ca
 
 ### [2007-05-14](/news/2007/05/14/index.md)
 
-##### cafe
+##### Cafe
 #  Ten people die in an explosion and fire in a cafe in Orsk, Russia. 
 
 

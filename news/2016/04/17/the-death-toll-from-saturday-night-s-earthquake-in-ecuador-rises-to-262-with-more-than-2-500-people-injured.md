@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/17/the-death-toll-from-saturday-night-s-earthquake
 
 ### [2016-04-17](/news/2016/04/17/index.md)
 
-##### earthquake
+##### Earthquake
 # The death toll from Saturday night's earthquake in Ecuador rises to 262 with more than 2,500 people injured. 
 
 A huge earthquake hits northern Ecuador, killing at least 77 people, injuring hundreds and causing severe damage over a wide area.

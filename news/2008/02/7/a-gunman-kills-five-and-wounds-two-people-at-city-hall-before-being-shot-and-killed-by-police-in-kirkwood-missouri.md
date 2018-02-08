@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/7/a-gunman-kills-five-and-wounds-two-people-at-cit
 
 ### [2008-02-7](/news/2008/02/7/index.md)
 
-##### kills five and wounds two people
+##### Kills five and wounds two people
 #  A gunman kills five and wounds two people at city hall before being shot and killed by police in Kirkwood, Missouri. 
 
 A gunman killed two police officers and three city officials on Thursday night when he stormed into a city council meeting in a suburb of St. Louis, police said.

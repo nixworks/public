@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/15/a-customer-of-american-multinational-retail-cor
 
 ### [2012-05-15](/news/2012/05/15/index.md)
 
-##### multinational
+##### Multinational
 # A customer of American multinational retail corporation Wal-Mart is bitten by a rattlesnake on the premises of the Clarkston, Washington store. 
 
 A Wal-Mart customer is recovering after he was bitten by a rattlesnake while shopping in a garden department at the store chain.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/23/thousands-of-people-are-evacuated-as-forest-fir
 
 ### [2009-08-23](/news/2009/08/23/index.md)
 
-##### forest fires
+##### Forest fires
 #  Thousands of people are evacuated as forest fires reach the outskirts of the Greek capital, Athens. 
 
 A huge wildfire fanned by strong winds cut a swathe of destruction near Athens, burning houses, razing large patches of forest and sending thousands fleeing their homes.

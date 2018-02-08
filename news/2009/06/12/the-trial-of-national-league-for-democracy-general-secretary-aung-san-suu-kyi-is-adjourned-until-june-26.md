@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/12/the-trial-of-national-league-for-democracy-gene
 
 ### [2009-06-12](/news/2009/06/12/index.md)
 
-##### trial
+##### Trial
 #  The trial of National League for Democracy General Secretary Aung San Suu Kyi is adjourned until June 26. 
 
 

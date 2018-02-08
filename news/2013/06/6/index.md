@@ -17,7 +17,7 @@ Without clear signs that Obama will fulfill promise to close facility, more deta
 
 ##### War in Afghanistan (2001-present)
 ### [War in Afghanistan (2001-present): Seven Georgian servicemen are killed and nine wounded in an insurgent attack with a truck bomb on the ISAF base in Shir Ghazay, Afghanistan. ](/news/2013/06/6/war-in-afghanistan-2001apresent-seven-georgian-servicemen-are-killed-and-nine-wounded-in-an-insurgent-attack-with-a-truck-bomb-on-the-i.md)
-_Context: Georgian servicemen, War in Afghanistan (2001-present)_
+_Context: War in Afghanistan (2001-present), Georgian servicemen_
 
 ##### Kevin Barry
 ### [Kevin Barry wins one of the world's richest literary awards, the International IMPAC Dublin Literary Award. ](/news/2013/06/6/kevin-barry-wins-one-of-the-world-s-richest-literary-awards-the-international-impac-dublin-literary-award.md)
@@ -37,7 +37,7 @@ South Korea uses hotline to counterpropose talks at Panmunjom truce village afte
 
 ##### The Guardian
 ### [The Guardian obtains a copy of a court order signed on April 25 by Judge Roger Vinson of the secret Foreign Intelligence Surveillance Court (FISC). The order permits the FBI, and thereby the Obama administration, to indiscriminately collect phone records of millions of Verizon Communications customers on an "ongoing, daily basis", with all domestic and international calls affected. The permit is similar to one issued to the Bush administration. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-court-order-signed-on-april-25-by-judge-roger-vinson-of-the-secret-foreign-intelligence-surveillance-court.md)
-_Context: Verizon Communications, The Guardian, FBI, Roger Vinson, Obama administration, United States Foreign Intelligence Surveillance Court, Bush Administration_
+_Context: Obama administration, The Guardian, Verizon Communications, United States Foreign Intelligence Surveillance Court, Roger Vinson, Bush Administration, FBI_
 
 ##### National Security Agency
 ### [The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data-using-prism-spying-on-the-e-mails-and-web-act.md)
@@ -49,7 +49,7 @@ White House says National Security Agency gathering of data on millions of Ameri
 
 ##### Russian
 ### [12 Russian citizens appear in a Moscow court charged with offences at a 2012 anti-Vladimir Putin rally; critics claim it is reminiscent of the Soviet-era show trials. ](/news/2013/06/6/12-russian-citizens-appear-in-a-moscow-court-charged-with-offences-at-a-2012-anti-vladimir-putin-rally-critics-claim-it-is-reminiscent-of-t.md)
-_Context: Russian, Vladimir Putin, Moscow_
+_Context: Russian, Moscow, Vladimir Putin_
 
 ##### French-born
 ### [French Left wing activist Clement Meric dies after being attacked on Wednesday in Paris shopping district by a group of far-right skinheads. ](/news/2013/06/6/french-left-wing-activist-clement-meric-dies-after-being-attacked-on-wednesday-in-paris-shopping-district-by-a-group-of-far-right-skinheads.md)
@@ -59,9 +59,9 @@ FRENCH Prime Minister Jean-Marc Ayrault has ordered the &quot;dissolution&quot; 
 ### [New Jersey Governor Chris Christie appoints Jeffrey Chiesa (R-NJ) as a U.S. Senator following the death of Frank Lautenberg. He will serve until a special election is held later this year. ](/news/2013/06/6/new-jersey-governor-chris-christie-appoints-jeffrey-chiesa-r-nj-as-a-u-s-senator-following-the-death-of-frank-lautenberg-he-will-serve-u.md)
 New Jersey Gov. Chris Christie announced Thursday he will appoint the state&rsquo;s Republican attorney general Jeffrey Chiesa to serve as an interim senator to succeed the late Sen. Frank Lautenberg. Chiesa, a longtime Christie aide and former feder
 
-##### president
+##### President
 ### [The President of Brazil, Dilma Rousseff, approves a bill to modernize the infrastructure of all national ports in her country. She vetoes 13 contradictory sections. ](/news/2013/06/6/the-president-of-brazil-dilma-rousseff-approves-a-bill-to-modernize-the-infrastructure-of-all-national-ports-in-her-country-she-vetoes-13.md)
-_Context: infrastructure, Brazil, modernize, port, Dilma Rousseff, president_
+_Context: infrastructure, modernize, president, port, Dilma Rousseff, Brazil_
 
 ## [Previous Day...](/news/2013/06/5/index.md)
 

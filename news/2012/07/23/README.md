@@ -7,7 +7,7 @@ Formats: [HTML](2012/07/23/index.html)  [JSON](2012/07/23/index.json)  [XML](201
 ### [Syria Foreign Ministry spokesman Jihad Makdissi declares that Syria has stockpiles of chemical and biological weapons and that it plans to use them in case of a foreign attack, but never against its own citizens. ](/news/2012/07/23/syria-foreign-ministry-spokesman-jihad-makdissi-declares-that-syria-has-stockpiles-of-chemical-and-biological-weapons-and-that-it-plans-to-u.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### attacks
+##### Attacks
 ### [One hundred three people are killed in attacks across Iraq. ](/news/2012/07/23/one-hundred-three-people-are-killed-in-attacks-across-iraq.md)
 _Context: attacks, Iraq_
 
@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Apple
 ### [Talks between Apple and Samsung aimed at resolving patent law disputes deadlock over a dispute over the valuation of each other's patents. ](/news/2012/07/23/talks-between-apple-and-samsung-aimed-at-resolving-patent-law-disputes-deadlock-over-a-dispute-over-the-valuation-of-each-other-s-patents.md)
-_Context: patent law, valuation, Samsung, Apple_
+_Context: Samsung, valuation, Apple, patent law_
 
 ##### Beijing
 ### [After the heaviest rains in 60 years kill 37 in Beijing, 9 million microblog users criticise the government for the lack of warning and poor infrastructure. ](/news/2012/07/23/after-the-heaviest-rains-in-60-years-kill-37-in-beijing-9-million-microblog-users-criticise-the-government-for-the-lack-of-warning-and-poor.md)
@@ -41,7 +41,7 @@ The proceeding offered the first public glimpse of James E. Holmes since he was 
 
 ##### Sally Ride
 ### [Sally Ride, the first American female astronaut, dies of pancreatic cancer at the age of 61. Her obituary acknowledges her 27-year relationship with a woman. ](/news/2012/07/23/sally-ride-the-first-american-female-astronaut-dies-of-pancreatic-cancer-at-the-age-of-61-her-obituary-acknowledges-her-27-year-relations.md)
-_Context: United States, astronaut, pancreatic cancer, Sally Ride_
+_Context: astronaut, United States, Sally Ride, pancreatic cancer_
 
 ## [Previous Day...](/news/2012/07/22/index.md)
 

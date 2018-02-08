@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/24/six-people-and-an-infant-are-injured-in-a-shoot
 
 ### [2009-02-24](/news/2009/02/24/index.md)
 
-##### shooting
+##### Shooting
 #  Six people and an infant are injured in a shooting during Mardi Gras in New Orleans, United States. 
 
 

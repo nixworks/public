@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/12/a-school-teacher-who-stabbed-16-young-pupils-an
 
 ### [2010-06-12](/news/2010/06/12/index.md)
 
-##### teacher
+##### Teacher
 # A school teacher who stabbed 16 young pupils and a teacher in a knife rampage in south China in April is sentenced to death. 
 
 

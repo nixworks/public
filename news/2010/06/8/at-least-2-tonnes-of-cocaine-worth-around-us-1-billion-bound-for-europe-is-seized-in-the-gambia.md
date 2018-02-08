@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/8/at-least-2-tonnes-of-cocaine-worth-around-us-1-b
 
 ### [2010-06-8](/news/2010/06/8/index.md)
 
-##### cocaine
+##### Cocaine
 # At least 2 tonnes of cocaine worth around US$1 billion bound for Europe is seized in The Gambia. 
 
 At least two tonnes of cocaine with a street value of some $1bn is seized in The Gambia, destined for Europe.

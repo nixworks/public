@@ -1,0 +1,27 @@
+
+Formats: [HTML](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.html)  [JSON](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.json)  [XML](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.xml)  
+
+### [2018-02-7](/news/2018/02/7/index.md)
+
+##### Israeli involvement in the Syrian Civil War
+# Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. 
+
+
+
+
+### Sources:
+
+1. [Xinhua](http://www.xinhuanet.com/english/2018-02/07/c_136957080.htm)
+
+### Changes:
+
+1. [Syrian state media say that Israeli warplanes attacked a military position in the Damascus countryside from Lebanese airspace, with Syrian air defenses destroying most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-the-damascus-countryside-from-lebanese-airspace-with-syrian-a.md) _2018-02-08 00:30:22 (First version)_
+1. [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md) _(Current version)_
+
+### Related:
+
+1. [Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. ](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a-military-installation-outside-the-syrian-capital-damascus-overnight-syrian-state-tv-report.md) _Context: Israel, Israeli involvement in the Syrian Civil War, Syria_
+2. [Syria reports its air defense shot down an Israeli warplane that attacked a Syrian army position in al-Quneitra, near the Israeli-occupied Golan Heights. The Israel Defense Forces say that missiles were fired at their aircraft but none hit. ](/news/2016/09/13/syria-reports-its-air-defense-shot-down-an-israeli-warplane-that-attacked-a-syrian-army-position-in-al-quneitra-near-the-israeli-occupied-g.md) _Context: Israel, Syria, Syrian Air Defense Force_
+3. [A missile-strike in Jaramana in southern Syria kills high-ranking Lebanese Hezbollah commander Samir Kuntar and eight National Defence Force (NDF) personnel. The responsibility for the incident taken by the Free Syrian Army, though Hezbollah alleges Israeli involvement. Kuntar was the longest serving Lebanese prisoner in Israel until his release in 2008. On April 22, 1979 Kuntar and his team broke into an apartment building and kidnapped a father, 31-year-old Danny Haran, and his 4-year-old daughter, Einat, taking them to a nearby beach and killing them. ](/news/2015/12/20/a-missile-strike-in-jaramana-in-southern-syria-kills-high-ranking-lebanese-hezbollah-commander-samir-kuntar-and-eight-national-defence-force.md) _Context: Israel, Lebanese, Syria_
+4. [A massive sandstorm hits Lebanon and Syria as well as Jordan, Israel and Egypt. The Lebanese Health Ministry said the storm caused the deaths of two women, and sent hundreds to hospitals with breathing difficulties. Particularly hard hit were the 1.1 million Syrian refugees in Lebanon, many in flimsy tents in informal campsites. ](/news/2015/09/8/a-massive-sandstorm-hits-lebanon-and-syria-as-well-as-jordan-israel-and-egypt-the-lebanese-health-ministry-said-the-storm-caused-the-death.md) _Context: Israel, Lebanese, Syria_
+5. [ Israeli Prime Minister Ehud Olmert has said that there will be no ceasefire in Lebanon until an international force is deployed in the south of the country.[http:--news.bbc.co.uk-1-hi-world-middle_east-5237620.stm (BBC NEWS)] The supreme leader of Iran, Ayatollah Ali Khamenei, has urged the Muslim world to stand up to Israel and the US, criticising them for their role in the conflict in Lebanon.[http:--news.bbc.co.uk-1-hi-world-middle_east-5238162.stm (BBC NEWS)] An Israeli civilian is killed and 16 wounded as more than 210 rockets are fired at northern Israel, the biggest daily number since the beginning of the conflict on 12 July. [http:--www.ynetnews.com-articles-0,7340,L-3285425,00.html (Ynet)], [http:--www.haaretz.com-hasen-pages-ShArt.jhtml?itemNo=745563 (Haaretz)], [http:--news.bbc.co.uk-1-hi-world-middle_east-5239568.stm (BBC NEWS)] A Syrian-made missile fired from Lebanon lands near the West Bank city of Jenin, causing minor damage. [http:--www.haaretz.com-hasen-spages-745563.html (Haaretz)], [http:--www.ynetnews.com-articles-0,7340,L-3285425,00.html (Ynet)], [http:--www.allheadlinenews.com-articles-7004412825 (AHN)] A massive Israeli operation is completed near Baalbek. [http:--www.haaretz.com-hasen-spages-745276.html (Haaretz)] Israel plans to resume air strikes after a 48-hour partial suspension. [http:--www.abc.net.au-news-newsitems-200608-s1703813.htm (ABC News Australia)] North Country Colorectal in Port Jefferson, New York opens its doors to business.](/news/2006/08/2/israeli-prime-minister-ehud-olmert-has-said-that-there-will-be-no-ceasefire-in-lebanon-until-an-international-force-is-deployed-in-the-sout.md) _Context: Israel, Lebanese, Syria_

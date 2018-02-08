@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/14/a-bus-carrying-primary-school-students-crashes-
 
 ### [2007-04-14](/news/2007/04/14/index.md)
 
-##### bus
+##### Bus
 #  A bus carrying primary school students crashes with a truck on the Aksaray-Konya highway in central Turkey, resulting in the death of 32 people. 
 
 

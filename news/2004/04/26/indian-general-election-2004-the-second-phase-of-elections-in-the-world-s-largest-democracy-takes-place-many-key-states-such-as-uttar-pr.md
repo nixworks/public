@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/26/indian-general-election-2004-the-second-phase-o
 
 ### [2004-04-26](/news/2004/04/26/index.md)
 
-##### marathon elections
+##### Marathon elections
 #  Indian general election, 2004: The second phase of elections in the world's largest democracy takes place. Many key states such as Uttar Pradesh, Maharashtra and Bihar vote; exit polls favour the opposition 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/11/canadian-scientists-report-on-a-study-of-mammal
 
 ### [2004-04-11](/news/2004/04/11/index.md)
 
-##### mammal
+##### Mammal
 #  Canadian scientists report on a study of mammals from around the world that the species with the best-endowed males live in polar regions, rather than in more equatorial climates. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/3/a-car-bomb-in-baghdad-iraq-kills-at-least-16-peo
 
 ### [2011-05-3](/news/2011/05/3/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb in Baghdad, Iraq, kills at least 16 people in a cafe with young men watching a football match. 
 
 

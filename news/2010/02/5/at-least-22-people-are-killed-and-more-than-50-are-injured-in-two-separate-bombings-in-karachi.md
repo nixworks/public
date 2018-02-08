@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-a
 
 ### [2010-02-5](/news/2010/02/5/index.md)
 
-##### two separate bombings
+##### Two separate bombings
 # At least 22 people are killed and more than 50 are injured in two separate bombings in Karachi. 
 
 
@@ -18,7 +18,7 @@ Formats: [HTML](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-a
 
 ### Changes:
 
-1. [At least 40 people are killed and more than 140 are wounded in at least two explosions in Karbala during the final day of Arba'een. ](/news/2010/02/5/at-least-40-people-are-killed-and-more-than-140-are-wounded-in-at-least-two-explosions-in-karbala-during-the-final-day-of-arba-een.md) _2018-02-06 15:23:32 (First version)_
+1. [At least 40 people are killed and more than 140 are wounded in at least two explosions in Karbala during the final day of Arba'een. ](/news/2010/02/5/at-least-40-people-are-killed-and-more-than-140-are-wounded-in-at-least-two-explosions-in-karbala-during-the-final-day-of-arba-een.md) _2018-02-07 03:59:55 (First version)_
 1. [At least 22 people are killed and more than 50 are injured in two separate bombings in Karachi. ](/news/2010/02/5/at-least-22-people-are-killed-and-more-than-50-are-injured-in-two-separate-bombings-in-karachi.md) _(Current version)_
 
 ### Related:

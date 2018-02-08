@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircr
 
 ### [2013-04-28](/news/2013/04/28/index.md)
 
-##### technicals
+##### Technicals
 # Men in technicals, pickup trucks with anti-aircraft guns, block off and surround the Libyan foreign ministry in the capital Tripoli demanding a ban on Gaddafi-era officials working in the government 
 
 At least 20 vehicles loaded with anti-aircraft guns block road as 200 armed men demand removal of Gaddafi-era staff.

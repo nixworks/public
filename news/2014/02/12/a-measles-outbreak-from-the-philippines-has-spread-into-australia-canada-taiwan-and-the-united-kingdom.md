@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/12/a-measles-outbreak-from-the-philippines-has-spr
 
 ### [2014-02-12](/news/2014/02/12/index.md)
 
-##### measles
+##### Measles
 # A measles outbreak from the Philippines has spread into Australia, Canada, Taiwan, and the United Kingdom. 
 
 While the measles outbreak in the Philippines is already stemmed, Canada is just beginning to experience the viral disease. 

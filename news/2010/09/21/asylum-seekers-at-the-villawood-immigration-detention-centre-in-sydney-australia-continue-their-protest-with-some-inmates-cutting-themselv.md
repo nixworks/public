@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/21/asylum-seekers-at-the-villawood-immigration-det
 
 ### [2010-09-21](/news/2010/09/21/index.md)
 
-##### asylum seekers
+##### Asylum seekers
 # Asylum seekers at the Villawood Immigration Detention Centre in Sydney, Australia, continue their protest with some inmates cutting themselves until a meeting occurs with officials from the Department of Immigration and Citizenship. 
 
 Eleven men on the roof of the detention centre want to speak to Department of Immigration officials.

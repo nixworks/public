@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/8/the-ghanaian-election-is-extended-by-one-day-as-
 
 ### [2012-12-8](/news/2012/12/8/index.md)
 
-##### general election
+##### General election
 # The Ghanaian election is extended by one day as glitches in the electoral system cause extended delays in voting in some areas. 
 
 Ghana has been forced to extend voting in its presidential election by another day after technical glitches led to long delays in some areas.

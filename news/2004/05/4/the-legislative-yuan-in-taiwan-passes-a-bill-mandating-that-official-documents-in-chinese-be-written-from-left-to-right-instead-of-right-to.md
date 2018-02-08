@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/4/the-legislative-yuan-in-taiwan-passes-a-bill-man
 
 ### [2004-05-4](/news/2004/05/4/index.md)
 
-##### legislative chamber
+##### Legislative chamber
 #  The Legislative Yuan in Taiwan passes a bill mandating that official documents in Chinese be written from left to right instead of right to left, ending centuries of tradition. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/14/a-pistol-is-recovered-from-the-hand-bag-of-a-fl
 
 ### [2007-08-14](/news/2007/08/14/index.md)
 
-##### pistol
+##### Pistol
 #  A pistol is recovered from the hand bag of a flight attendant of Pakistan International Airlines. 
 
 

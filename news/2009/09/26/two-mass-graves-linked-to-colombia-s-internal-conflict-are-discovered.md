@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/26/two-mass-graves-linked-to-colombia-s-internal-c
 
 ### [2009-09-26](/news/2009/09/26/index.md)
 
-##### mass grave
+##### Mass grave
 #  Two mass graves linked to Colombia's internal conflict are discovered. 
 
 

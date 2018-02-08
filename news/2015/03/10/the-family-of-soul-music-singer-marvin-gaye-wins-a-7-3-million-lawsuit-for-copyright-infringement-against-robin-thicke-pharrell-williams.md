@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/10/the-family-of-soul-music-singer-marvin-gaye-win
 
 ### [2015-03-10](/news/2015/03/10/index.md)
 
-##### soul music
+##### Soul music
 # The family of soul music singer Marvin Gaye wins a $7.3 million lawsuit for copyright infringement against Robin Thicke, Pharrell Williams, and T.I. holding that Thicke's hit "Blurred Lines" resembled Gaye's "Got to Give It Up". 
 
 Robin Thicke has lost the &quot;Blurred Lines&quot; lawsuit he has been engaged in with the Marvin Gaye estate.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/11/strong-winds-cause-a-construction-crane-collaps
 
 ### [2015-09-11](/news/2015/09/11/index.md)
 
-##### disaster
+##### Disaster
 # Strong winds cause a construction crane collapse at the Masjid al-Haram mosque killing 107 people and injuring 283 others. Most of the people killed were on the annual Islamic hajj (pilgrimage) to Mecca. 
 
 At least 107 people died and 238 more were injured when a crane collapsed at the Grand Mosque of Mecca ahead of the annual Hajj pilgrimage, the Saudi Interior Ministry said on Friday. 

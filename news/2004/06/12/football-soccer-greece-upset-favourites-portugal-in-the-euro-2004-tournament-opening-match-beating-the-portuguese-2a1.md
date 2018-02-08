@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/12/football-soccer-greece-upset-favourites-portuga
 
 ### [2004-06-12](/news/2004/06/12/index.md)
 
-##### footballer
+##### Footballer
 #  Football (soccer): Greece upset favourites Portugal in the Euro 2004 tournament opening match, beating the Portuguese 2-1. 
 
 

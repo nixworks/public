@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/24/a-new-coalition-government-takes-office-in-finl
 
 ### [2014-06-24](/news/2014/06/24/index.md)
 
-##### coalition government
+##### Coalition government
 # A new coalition government takes office in Finland, the first led by a Swedish-speaking Finn since 1959. 
 
 

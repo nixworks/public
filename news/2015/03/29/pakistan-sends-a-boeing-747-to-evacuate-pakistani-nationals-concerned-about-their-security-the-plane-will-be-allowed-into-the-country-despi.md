@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakista
 
 ### [2015-03-29](/news/2015/03/29/index.md)
 
-##### attacks
+##### Attacks
 # Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. 
 
 Pakistan, which has yet to decide whether to offer military support to a Saudi-led campaign in Yemen, is flying jumbo jets to the Middle Eastern country to evacuate hundreds of nationals, a Defence Ministry official said on Sunday.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/11/the-number-of-worldwide-connections-to-cellular
 
 ### [2009-02-11](/news/2009/02/11/index.md)
 
-##### cellular network
+##### Cellular network
 #  The number of worldwide connections to cellular networks reaches four billion. 
 
 The number of connections on mobile phone networks has crossed the 4 billion mark worldwide, industry association GSMA said on Wednesday, forecasting further growth to 6 billion by 2013.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/14/a-speeding-bus-crashes-into-a-tractor-trailer-n
 
 ### [2007-04-14](/news/2007/04/14/index.md)
 
-##### bus
+##### Bus
 #  A speeding bus crashes into a tractor-trailer near Ciudad Juarez, Mexico, killing at least 23 people. 
 
 

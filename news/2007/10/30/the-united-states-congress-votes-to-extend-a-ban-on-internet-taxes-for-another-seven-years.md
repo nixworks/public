@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/30/the-united-states-congress-votes-to-extend-a-ba
 
 ### [2007-10-30](/news/2007/10/30/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress votes to extend a ban on Internet taxes for another seven years. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/18/modern-techniques-reveal-several-amino-acids-in
 
 ### [2008-10-18](/news/2008/10/18/index.md)
 
-##### amino acid
+##### Amino acid
 #  Modern techniques reveal several amino acids in vials left from the 1953 Miller-Urey experiment in addition to those that were detected by Stanley Miller. 
 
 

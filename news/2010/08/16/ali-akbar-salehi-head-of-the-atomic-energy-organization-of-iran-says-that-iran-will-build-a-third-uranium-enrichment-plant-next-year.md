@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/16/ali-akbar-salehi-head-of-the-atomic-energy-orga
 
 ### [2010-08-16](/news/2010/08/16/index.md)
 
-##### nuclear program
+##### Nuclear program
 # Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. 
 
 Nuke chief Salehi: New uranium enrichment site to open next year.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/22/at-least-73-miners-die-following-an-explosion-i
 
 ### [2009-02-22](/news/2009/02/22/index.md)
 
-##### miner
+##### Miner
 #  At least 73 miners die following an explosion in a coal mine in Gujiao, Shanxi, China. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/19/a-police-dispersal-occurs-between-combined-mino
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
-##### police dispersal
+##### Police dispersal
 # A police dispersal occurs between combined minority groups and anti-U.S. activists and the Philippine National Police in front of the U.S. Embassy in Manila. Police arrest 30 protesters with 60 people injured, several rammed by a police van driven during the dispersal. 
 
 (UPDATED) Some of the protesters are injured after cops forced a police vehicle through the crowd

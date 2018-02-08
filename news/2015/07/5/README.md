@@ -25,13 +25,13 @@ Early Sunday, a delegation from San Antonio was in Bonn, Germany, to witness the
 
 ##### 2015 Pacific typhoon season
 ### [Over 1,000 people in the Philippines are stranded temporarily by Severe Tropical Storm Linfa (Egay) as landslides occur in Palawan province. ](/news/2015/07/5/over-1-000-people-in-the-philippines-are-stranded-temporarily-by-severe-tropical-storm-linfa-egay-as-landslides-occur-in-palawan-province.md)
-_Context: Philippines, 2015 Pacific typhoon season, Palawan_
+_Context: Palawan, Philippines, 2015 Pacific typhoon season_
 
-##### wildfire
+##### Wildfire
 ### [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md)
 B.C. has seen more than 50 new wildfires over the weekend that have put people out of their homes or on evacuation alert, resulting in several communities declaring states of emergency. 
 
-##### referendum
+##### Referendum
 ### [Greek voters solidly reject (61.3 percent) the latest austerity proposal of the European Union, the International Monetary Fund and the European Central Bank. ](/news/2015/07/5/greek-voters-solidly-reject-61-3-percent-the-latest-austerity-proposal-of-the-european-union-the-international-monetary-fund-and-the-euro.md)
 Greeks have been voting today on whether or not to accept the proposals put to the country by its creditors, the ECB, EU and IMF. The leftist Syriza government rejected these proposals and is seeking a ‘no’ vote. Proponents of a ‘yes’ vote say this will keep Greece in the eurozone
 
@@ -41,7 +41,7 @@ Foreign ministry says Chinese tourists recently &quot;attacked and disturbed&quo
 
 ##### Russia
 ### [A Russian space capsule reaches the International Space Station allowing resupply of provisions after the crash of the SpaceX space capsule last week. ](/news/2015/07/5/a-russian-space-capsule-reaches-the-international-space-station-allowing-resupply-of-provisions-after-the-crash-of-the-spacex-space-capsule.md)
-_Context: Russia, International Space Station, SpaceX_
+_Context: Russia, SpaceX, International Space Station_
 
 ## [Previous Day...](/news/2015/07/4/index.md)
 

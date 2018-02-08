@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/27/the-trial-of-dr-conrad-murray-for-manslaughter-
 
 ### [2011-09-27](/news/2011/09/27/index.md)
 
-##### trial of Dr Conrad Murray
+##### Trial of Dr Conrad Murray
 # The trial of Dr Conrad Murray for manslaughter in connection to the death of American singer Michael Jackson begins in California. 
 
 

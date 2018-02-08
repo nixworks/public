@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/5/the-australian-army-is-called-in-to-assist-with-
 
 ### [2010-09-5](/news/2010/09/5/index.md)
 
-##### soldiers
+##### Soldiers
 # The Australian Army is called in to assist with flood relief in the state of Victoria. 
 
 The Defence Force will help evacuate residents in Victoria&#039;s north as the flood crisis worsens and scores of homes remain under water.

@@ -13,17 +13,17 @@ _Context: Battle of N'Djamena, Chad, Red Cross_
 
 ##### Israel
 ### [ Israeli attacks kill eight Hamas members on the Gaza Strip as Hamas claims responsibility for the Dimona attack. ](/news/2008/02/5/israeli-attacks-kill-eight-hamas-members-on-the-gaza-strip-as-hamas-claims-responsibility-for-the-dimona-attack.md)
-_Context: Gaza Strip, Dimona attack, Israel, Hamas_
+_Context: Israel, Gaza Strip, Hamas, Dimona attack_
 
 ##### Speaker
 ### [ Philippine House Speaker Jose de Venecia was ousted by the majority of the representatives of the House of Representatives and Davao City Rep. Prospero Nograles was elected as the 13th House Speaker and the first Speaker from Mindanao. ](/news/2008/02/5/philippine-house-speaker-jose-de-venecia-was-ousted-by-the-majority-of-the-representatives-of-the-house-of-representatives-and-davao-city-r.md)
-_Context: Prospero Nograles, Davao City, Speaker, Jose de Venecia_
+_Context: Prospero Nograles, Speaker, Jose de Venecia, Davao City_
 
 ##### 2008 Chinese winter storms
 ### [ 2008 Chinese winter storms: Chinese Premier Wen Jiabao visits disaster-affected region in Guizhou Province, one of the worst-hit provinces, to direct relief efforts. This is his third trip to disaster regions in eight days. ](/news/2008/02/5/2008-chinese-winter-storms-chinese-premier-wen-jiabao-visits-disaster-affected-region-in-guizhou-province-one-of-the-worst-hit-provinces.md)
-_Context: Premier of the People's Republic of China, 2008 Chinese winter storms, Guizhou, Wen Jiabao_
+_Context: 2008 Chinese winter storms, Wen Jiabao, Guizhou, Premier of the People's Republic of China_
 
-##### major tornado outbreak
+##### Major tornado outbreak
 ### [ A major tornado outbreak across the Southern United States leaves 57 people dead, and causes some polling places to be closed early. The hardest hit areas are in Alabama, Kentucky, Tennessee, Mississippi, and Arkansas including the Memphis area, northern Middle Tennessee and Jackson, Tennessee. ](/news/2008/02/5/a-major-tornado-outbreak-across-the-southern-united-states-leaves-57-people-dead-and-causes-some-polling-places-to-be-closed-early-the-ha.md)
 Local and state officials warned Wednesday that they would not tolerate a slow response from FEMA after tornadoes killed at least 55 people across the South, 31 of them in Tennessee.
 

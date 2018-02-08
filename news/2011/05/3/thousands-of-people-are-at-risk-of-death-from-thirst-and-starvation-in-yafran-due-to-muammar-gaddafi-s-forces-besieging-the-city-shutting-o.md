@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/3/thousands-of-people-are-at-risk-of-death-from-th
 
 ### [2011-05-3](/news/2011/05/3/index.md)
 
-##### civil war
+##### Civil war
 # Thousands of people are at risk of death from thirst and starvation in Yafran due to Muammar Gaddafi's forces besieging the city, shutting off water and blocking food supplies. 
 
 

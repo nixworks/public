@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/31/ukraine-and-russian-backed-separatists-conduct-
 
 ### [2015-01-31](/news/2015/01/31/index.md)
 
-##### military intervention in Ukraine
+##### Military intervention in Ukraine
 # Ukraine and Russian-backed separatists conduct peace talks as fighting rages in eastern Ukraine. 
 
 

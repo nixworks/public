@@ -31,9 +31,9 @@ The transfer announced by the Defense Department was the largest single group of
 ### [The Saudi Interior Ministry arrests 135 on terrorism offences, including dozens suspected of links to Islamic State of Iraq and the Levant. ](/news/2014/12/7/the-saudi-interior-ministry-arrests-135-on-terrorism-offences-including-dozens-suspected-of-links-to-islamic-state-of-iraq-and-the-levant.md)
 Interior ministry says some of those arrested were linked to ISIL and were planning attacks inside the Kingdom.
 
-##### chlorine
+##### Chlorine
 ### [A chlorine gas leak injures 19 at the Chicago's 'Furfest', a Furry convention. Police say the act was intentional. ](/news/2014/12/7/a-chlorine-gas-leak-injures-19-at-the-chicago-s-furfest-a-furry-convention-police-say-the-act-was-intentional.md)
-_Context: convention, chlorine, Furry, chlorine_
+_Context: Furry, chlorine, convention, chlorine_
 
 ##### United States Senate election in Louisiana, 2014
 ### [Democrat Mary Landrieu loses her bid for a fourth term representing Louisiana in the United States Senate to Republican Congressman Bill Cassidy in Saturday's runoff election, increasing the GOP majority in the U.S. Senate to 54 seats. ](/news/2014/12/7/democrat-mary-landrieu-loses-her-bid-for-a-fourth-term-representing-louisiana-in-the-united-states-senate-to-republican-congressman-bill-cas.md)

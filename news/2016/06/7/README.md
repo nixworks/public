@@ -9,7 +9,7 @@ ISTANBUL (AP) — A car bomb hit a police vehicle in Istanbul during the morning
 
 ##### 2016 Aktobe shootings
 ### [Kazakhstan police report the death toll from Sunday's attack in Aktobe is now 19&nbsp;-- three civilians, three National Guard servicemen, and 13 attackers. ](/news/2016/06/7/kazakhstan-police-report-the-death-toll-from-sunday-s-attack-in-aktobe-is-now-19-nbsp-a-three-civilians-three-national-guard-servicemen.md)
-_Context: Kazakhstan, 2016 Aktobe shootings, Aktobe_
+_Context: 2016 Aktobe shootings, Kazakhstan, Aktobe_
 
 ##### Department of Justice
 ### [The U.S. Justice Department announces pharmaceutical companies Genentech Inc. and OSI Pharmaceuticals Inc. will pay $67 million to settle False Claims Act allegations for misleading statements about the effectiveness of the drug Tarceva in treating non-small-cell lung carcinoma. ](/news/2016/06/7/the-u-s-justice-department-announces-pharmaceutical-companies-genentech-inc-and-osi-pharmaceuticals-inc-will-pay-67-million-to-settle-fa.md)
@@ -19,7 +19,7 @@ Pharmaceutical firms Genentech Inc. and OSI Pharmaceuticals LLC will pay $67 mil
 ### [The search continues for three missing people in the Australian states of New South Wales and Tasmania. Four deaths have so far been confirmed in the Australian Capital Territory, Tasmania and NSW. ](/news/2016/06/7/the-search-continues-for-three-missing-people-in-the-australian-states-of-new-south-wales-and-tasmania-four-deaths-have-so-far-been-confirm.md)
 Deadly storms in NSW and the ACT have claimed three lives amid grave concerns for three people missing in floods in Tasmania, and one man off Bondi Beach.
 
-##### mowed down
+##### Mowed down
 ### [ A pickup truck reported to be driving erratically mowed down a group of nine bicycle riders, killing five and injuring four near Kalamazoo, Michigan. The driver was arrested after fleeing. Authorities have not established any contributing causes of what is being called the worst bicycle accident in the county. ](/news/2016/06/7/a-pickup-truck-reported-to-be-driving-erratically-mowed-down-a-group-of-nine-bicycle-riders-killing-five-and-injuring-four-near-kalamazoo.md)
 The county prosecutor charged the 50-year-old man who struck nine bicyclists Tuesday, killing five of them, with five counts of second-degree murder.
 

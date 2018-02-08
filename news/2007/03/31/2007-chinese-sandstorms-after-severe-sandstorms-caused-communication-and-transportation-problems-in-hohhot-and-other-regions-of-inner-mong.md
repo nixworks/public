@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/31/2007-chinese-sandstorms-after-severe-sandstorms
 
 ### [2007-03-31](/news/2007/03/31/index.md)
 
-##### dust storm
+##### Dust storm
 #  2007 Chinese Sandstorms: After severe sandstorms caused communication and transportation problems in Hohhot and other regions of Inner Mongolia, the first severe sandstorm of the year hits Beijing and the surrounding regions of Liaoning, Xinjiang and Tianjin. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/12/at-a-republican-party-presidential-primary-deba
 
 ### [2011-11-12](/news/2011/11/12/index.md)
 
-##### nomination
+##### Nomination
 # At a Republican party presidential primary debate, US Presidential candidates Mitt Romney and Newt Gingrich say they would go to war to stop Iran from obtaining nuclear weapons. 
 
 At CBS News/National Journal Republican presidential debate, candidates split on willingness to go to war over nuclear weapons

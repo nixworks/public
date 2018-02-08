@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/15/close-to-half-a-million-people-stage-a-march-in
 
 ### [2006-09-15](/news/2006/09/15/index.md)
 
-##### march
+##### March
 #  Close to half a million people stage a march in Taipei to demand the resignation of President Chen Shui-Bian. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont
 
 ### [2015-01-6](/news/2015/01/6/index.md)
 
-##### shoots
+##### Shoots
 # A gunman shoots a doctor at the William Beaumont Army Medical Center in El Paso, Texas, and then kills himself. 
 
 

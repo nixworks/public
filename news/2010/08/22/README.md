@@ -13,7 +13,7 @@ _Context: Philippines, United States_
 
 ##### Brazil
 ### [Brazilian police rescue 35 hostages from InterContinental in So Conrado, Rio de Janeiro. ](/news/2010/08/22/brazilian-police-rescue-35-hostages-from-intercontinental-in-sao-conrado-rio-de-janeiro.md)
-_Context: Rio de Janeiro, Brazil, InterContinental, So Conrado_
+_Context: Rio de Janeiro, Brazil, So Conrado, InterContinental_
 
 ##### Transitional Federal Government
 ### [The Government of Somalia claims that 10 members of the al-Shabab militant group have been killed when bombs they were preparing went off prematurely in Mogadishu. ](/news/2010/08/22/the-government-of-somalia-claims-that-10-members-of-the-al-shabab-militant-group-have-been-killed-when-bombs-they-were-preparing-went-off-pr.md)
@@ -45,11 +45,11 @@ Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Israel, Ehud Barak, Cyprus, Gaza Strip, United States, Bolivia, France_
+_Context: Gaza Strip, Bolivia, France, Ehud Barak, Israel, United States, Cyprus_
 
 ##### Iran
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
-_Context: Iran, drone aircraft_
+_Context: drone aircraft, Iran_
 
 ##### Wassel Abu Yousef
 ### [Palestinian official Wassel Abu Yousef objects to Israeli Prime Minister Benjamin Netanyahu's talk of "preconditions" that the Palestinians should recognize Israel as the state of Jews and says such comments are a threat to direct talks next month. ](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.md)
@@ -75,7 +75,7 @@ Police in Mexico find four mutilated bodies hung from a bridge in the central ci
 ### [Protesters against the Park51 project for an Islamic community center two blocks away from Ground Zero of the World Trade Center site gather in New York City. ](/news/2010/08/22/protesters-against-the-park51-project-for-an-islamic-community-center-two-blocks-away-from-ground-zero-of-the-world-trade-center-site-gather.md)
 Opponents of a planned Islamic community center two blocks from Ground Zero in New York shouted &quot;Enough is enough&quot; at supporters of the project, as the two sides squared off today in dueling demonstrations.
 
-##### recent election
+##### Recent election
 ### [With results of the federal election in Australia indicating a hung parliament, Prime Minister Julia Gillard holds initial talks with independent candidates in an attempt to form a government. ](/news/2010/08/22/with-results-of-the-federal-election-in-australia-indicating-a-hung-parliament-prime-minister-julia-gillard-holds-initial-talks-with-indepe.md)
 Australian Prime Minister Julia Gillard contacts independent candidates as she begins trying to form a government after an inconclusive vote.
 

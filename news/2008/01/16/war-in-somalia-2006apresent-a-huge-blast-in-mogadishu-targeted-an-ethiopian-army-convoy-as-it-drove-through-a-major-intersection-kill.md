@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mog
 
 ### [2008-01-16](/news/2008/01/16/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. 
 
 

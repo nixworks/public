@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/6/a-tropical-storm-watch-is-in-place-for-bermuda-a
 
 ### [2011-09-6](/news/2011/09/6/index.md)
 
-##### tropical storm
+##### Tropical storm
 # A tropical storm watch is in place for Bermuda as Hurricane Katia gets closer. 
 
 

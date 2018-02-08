@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/4/in-a-referendum-voters-in-the-german-state-of-ba
 
 ### [2010-07-4](/news/2010/07/4/index.md)
 
-##### state
+##### State
 # In a referendum, voters in the German state of Bavaria vote to ban smoking at all pubs and restaurants. 
 
 The Oktoberfest beer festival in Munich is to become smoke-free after a referendum.

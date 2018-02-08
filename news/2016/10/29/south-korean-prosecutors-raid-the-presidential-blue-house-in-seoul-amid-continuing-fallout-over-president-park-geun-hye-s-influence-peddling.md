@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/29/south-korean-prosecutors-raid-the-presidential-
 
 ### [2016-10-29](/news/2016/10/29/index.md)
 
-##### political scandal
+##### Political scandal
 # South Korean prosecutors raid the presidential Blue House in Seoul amid continuing fallout over President Park Geun-hye's influence-peddling scandal involving cult leader Choi Soon-sil. 
 
 SEOUL (AFP/BLOOMBERG) - South Korean prosecutors on Saturday (Oct 29) raided the presidential Blue House, as well as the homes and offices of senior advisers to President Park Geun Hye, as she struggled with a corruption and influence-peddling scandal involving a close family friend.. Read more at straitstimes.com.

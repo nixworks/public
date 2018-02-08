@@ -31,7 +31,7 @@ The Archbishop of Tuam in County Galway says the Catholic church has no records 
 ### [The People's Republic of China claims to have arrested 29 people following recent terrorist attacks in the Xinjiang region. ](/news/2014/06/5/the-people-s-republic-of-china-claims-to-have-arrested-29-people-following-recent-terrorist-attacks-in-the-xinjiang-region.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### police officers
+##### Police officers
 ### [Pakistani police arrest multiple people involved in the stoning of Farzana Parveen, bringing the total number of people in custody to 12. ](/news/2014/06/5/pakistani-police-arrest-multiple-people-involved-in-the-stoning-of-farzana-parveen-bringing-the-total-number-of-people-in-custody-to-12.md)
 _Context: police officers, stoning of Farzana Parveen_
 
@@ -43,9 +43,9 @@ Canadian police on Thursday mounted a massive hunt for a 24-year-old gunman they
 ### [Four people are shot with one dead and three injured during a shooting on the campus of Seattle Pacific University. ](/news/2014/06/5/four-people-are-shot-with-one-dead-and-three-injured-during-a-shooting-on-the-campus-of-seattle-pacific-university.md)
 A gunman opened fire inside a building on the campus of a small university near downtown Seattle.
 
-##### hip hop
+##### Hip hop
 ### [American hip hop band the Beastie Boys win a $1.7 million copyright violation suit against the makers of Monster Energy drink for unauthorised use of their music in advertising. ](/news/2014/06/5/american-hip-hop-band-the-beastie-boys-win-a-1-7-million-copyright-violation-suit-against-the-makers-of-monster-energy-drink-for-unauthoris.md)
-_Context: Monster Energy, Beastie Boys, hip hop, copyright_
+_Context: Monster Energy, Beastie Boys, copyright, hip hop_
 
 ## [Previous Day...](/news/2014/06/4/index.md)
 

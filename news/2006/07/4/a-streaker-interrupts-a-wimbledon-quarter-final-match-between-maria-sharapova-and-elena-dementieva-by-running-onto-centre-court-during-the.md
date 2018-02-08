@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/4/a-streaker-interrupts-a-wimbledon-quarter-final-
 
 ### [2006-07-4](/news/2006/07/4/index.md)
 
-##### streaker
+##### Streaker
 #  A streaker interrupts a Wimbledon quarter-final match between Maria Sharapova and Elena Dementieva by running onto centre court during the second set. 
 
 

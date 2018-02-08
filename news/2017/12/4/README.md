@@ -21,11 +21,11 @@ Jeffrey Feltman will meet foreign minister and other diplomats in highest-level 
 
 ##### Tax Cuts and Jobs Act of 2017
 ### [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md)
-_Context: France, United States, Tax Cuts and Jobs Act of 2017, E.U. Ecofin, value added_
+_Context: United States, Tax Cuts and Jobs Act of 2017, France, value added, E.U. Ecofin_
 
 ##### Executive Order 13769
 ### [The Supreme Court of the United States rules that the act banning most people from eight countries, six of them Muslim-majority, to travel to the United States can take full effect pending legal challenges. ](/news/2017/12/4/the-supreme-court-of-the-united-states-rules-that-the-act-banning-most-people-from-eight-countries-six-of-them-muslim-majority-to-travel-t.md)
-_Context: legal challenges, Supreme Court of the United States, Executive Order 13769_
+_Context: Supreme Court of the United States, Executive Order 13769, legal challenges_
 
 ##### Syrian Civil War
 ### [The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the Salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. ](/news/2017/12/4/the-british-government-suspends-payments-to-the-so-called-free-syrian-police-after-a-bbc-panorama-investigation-revealed-that-the-cash-has-b.md)
@@ -33,7 +33,7 @@ A foreign aid scheme is suspended by the government, following a BBC Panorama in
 
 ##### Daphne Caruana Galizia
 ### [Malta arrests 10 people over the investigative journalist's murder on October 16. ](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-journalist-s-murder-on-october-16.md)
-_Context: Daphne Caruana Galizia, Malta_
+_Context: Malta, Daphne Caruana Galizia_
 
 ##### 2017 Spanish constitutional crisis
 ### [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md)

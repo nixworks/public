@@ -9,7 +9,7 @@ ARA News ALEPPO – At least 3o civilians were killed and dozens wounded in the 
 
 ##### War in Somalia (2009-present)
 ### [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md)
-_Context: Somalia, War in Somalia (2009-present), President, car bomb, Mogadishu_
+_Context: President, War in Somalia (2009-present), Mogadishu, Somalia, car bomb_
 
 ##### Iraq War (2014-present)
 ### [An Islamic State car bomb kills at least 12 people in Baghdad. ](/news/2015/09/21/an-islamic-state-car-bomb-kills-at-least-12-people-in-baghdad.md)
@@ -21,11 +21,11 @@ Air strikes by a Saudi-led coalition killed 50 people in Yemen when they hit a H
 
 ##### Moro conflict
 ### [Gunmen abduct a Norwegian resort manager, two Canadians, and a Filipino from a resort in the southern Philippines. ](/news/2015/09/21/gunmen-abduct-a-norwegian-resort-manager-two-canadians-and-a-filipino-from-a-resort-in-the-southern-philippines.md)
-_Context: Norwegian, Philippines, Filipino, Moro conflict, Canadian_
+_Context: Norwegian, Canadian, Moro conflict, Philippines, Filipino_
 
 ##### Pope Francis
 ### [Pope Francis, on the second day of his journey in Cuba, leaves Havana for Holguin. He says a Mass at Revolution Plaza, blesses Holguin from the Loma de la Cruz area, arrives in Santiago de Cuba, flies to Santiago de Cuba, meets with the Cuban Bishops at Saint Basil the Great Seminary, and says a prayer with them at the Minor Basilica of the Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre (Shrine of Our Lady of del Cobre). ](/news/2015/09/21/pope-francis-on-the-second-day-of-his-journey-in-cuba-leaves-havana-for-holguin-he-says-a-mass-at-revolution-plaza-blesses-holguin-from.md)
-_Context: Santiago de Cuba, Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre, Holguin, Pope Francis, Havana, Saint Basil the Great, Minor Basilica_
+_Context: Saint Basil the Great, Basilica Santuario Nacional de Nuestra Senora de la Caridad del Cobre, Minor Basilica, Pope Francis, Holguin, Havana, Santiago de Cuba_
 
 ##### CNIL
 ### [French regulator Commission nationale de l'informatique et des libertes (CNIL) rejects Google, Inc.'s appeal of their order that the company remove 'Right to be forgotten (RTBF)' search results worldwide. Failure to comply could subject Google to sanctions, from EUR300,000 (US$460,000) to 5 percent of global operating costs. ](/news/2015/09/21/french-regulator-commission-nationale-de-l-informatique-et-des-liberta-c-s-cnil-rejects-google-inc-s-appeal-of-their-order-that-the-compan.md)
@@ -37,7 +37,7 @@ Apple is accelerating efforts to build its first electric car, designating it in
 
 ##### Skype
 ### [Many Skype users are unable to access the service. The Microsoft-owned company acknowledges the problem. ](/news/2015/09/21/many-skype-users-are-unable-to-access-the-service-the-microsoft-owned-company-acknowledges-the-problem.md)
-_Context: Skype, Microsoft_
+_Context: Microsoft, Skype_
 
 ##### 2015 California wildfires
 ### [The toll of homes destroyed by Northern California wildfires reaches 1,600. ](/news/2015/09/21/the-toll-of-homes-destroyed-by-northern-california-wildfires-reaches-1-600.md)
@@ -71,7 +71,7 @@ _Context: Northern Ireland_
 ### [Governor of Wisconsin Scott Walker quits his campaign for the Republican Party nomination. ](/news/2015/09/21/governor-of-wisconsin-scott-walker-quits-his-campaign-for-the-republican-party-nomination.md)
 Gov. Scott Walker of Wisconsin quit the race for the Republican presidential nomination and urged some of his 15 rivals to do the same in hopes of uniting the party around an alternative to Donald J. Trump.
 
-##### recent coup
+##### Recent coup
 ### [The coup leader General Gilbert Diendere says that he is ready to hand over power to transitional authorities as the army marches on the capital Ouagadougou. ](/news/2015/09/21/the-coup-leader-general-gilbert-dienda-c-ra-c-says-that-he-is-ready-to-hand-over-power-to-transitional-authorities-as-the-army-marches-on-the-c.md)
 The coup leader in Burkina Faso says he is ready to hand over power to transitional civilian authorities, as the army is reportedly marching on the capital.
 

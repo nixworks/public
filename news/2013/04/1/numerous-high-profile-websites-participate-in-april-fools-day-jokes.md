@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/numerous-high-profile-websites-participate-in-ap
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### website
+##### Website
 # Numerous high-profile websites participate in April Fools' Day jokes. 
 
 Every April 1, the Web explodes with nonsense. Here is a rundown of many of 2013&#039;s most creative pranks.

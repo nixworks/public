@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/14/more-than-50-have-been-killed-by-lightning-stri
 
 ### [2016-05-14](/news/2016/05/14/index.md)
 
-##### lightning strike
+##### Lightning strike
 # More than 50 have been killed by lightning strikes in Bangladesh over the past two days. 
 
 Police in Bangladesh say more than 50 people across the country have died after being struck by lightning in the past two days.

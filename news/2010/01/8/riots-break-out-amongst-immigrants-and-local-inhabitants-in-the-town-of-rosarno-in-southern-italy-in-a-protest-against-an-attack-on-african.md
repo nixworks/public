@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/8/riots-break-out-amongst-immigrants-and-local-inh
 
 ### [2010-01-8](/news/2010/01/8/index.md)
 
-##### immigrant
+##### Immigrant
 # Riots break out amongst immigrants and local inhabitants in the town of Rosarno in southern Italy in a protest against an attack on African workers by white youths. 
 
 

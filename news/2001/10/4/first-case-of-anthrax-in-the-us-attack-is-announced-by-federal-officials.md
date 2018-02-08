@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/10/4/first-case-of-anthrax-in-the-us-attack-is-announ
 
 ### [2001-10-4](/news/2001/10/4/index.md)
 
-##### case of anthrax
+##### Case of anthrax
 #  First case of anthrax in the US (attack) is announced by federal officials.
 
 

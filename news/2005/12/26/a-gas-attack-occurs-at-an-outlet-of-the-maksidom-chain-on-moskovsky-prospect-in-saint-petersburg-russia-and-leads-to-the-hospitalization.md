@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/26/a-gas-attack-occurs-at-an-outlet-of-the-maksido
 
 ### [2005-12-26](/news/2005/12/26/index.md)
 
-##### gas attack
+##### Gas attack
 #  A gas attack occurs at an outlet of the Maksidom chain on Moskovsky Prospect in Saint Petersburg, Russia, and leads to the hospitalization of numerous victims. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/24/a-study-of-more-than-10-000-people-finds-a-corr
 
 ### [2013-05-24](/news/2013/05/24/index.md)
 
-##### cesarean section
+##### Cesarean section
 # A study of more than 10,000 people finds a correlation between cesarean section birth and childhood obesity. 
 
 By Genevra PittmanNEW YORK (Reuters Health) - More babies born via cesarean section grow up to be heavy kids and teens than those delivered vaginally

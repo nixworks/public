@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/9/the-president-of-pakistan-general-pervez-musharr
 
 ### [2007-08-9](/news/2007/08/9/index.md)
 
-##### president
+##### President
 #  The President of Pakistan General Pervez Musharraf pulls out of a meeting with the President of Afghanistan Hamid Karzai and tribal leaders in Kabul over fighting the Taliban. 
 
 

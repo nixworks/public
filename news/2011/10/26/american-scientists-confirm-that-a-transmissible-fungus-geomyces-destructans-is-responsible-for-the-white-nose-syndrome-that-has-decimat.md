@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/26/american-scientists-confirm-that-a-transmissibl
 
 ### [2011-10-26](/news/2011/10/26/index.md)
 
-##### fungus
+##### Fungus
 # American scientists confirm that a transmissible fungus, "Geomyces destructans", is responsible for the white-nose syndrome that has decimated bat populations across North America since 2006. 
 
 Scientists confirm that white-nose syndrome, a disease killing off bats in North America, is caused by a fungal infection.

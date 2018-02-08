@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/28/the-u-s-attorney-s-office-in-los-angeles-califo
 
 ### [2013-05-28](/news/2013/05/28/index.md)
 
-##### chief federal prosecutors
+##### Chief federal prosecutors
 # The U.S. Attorney's office in Los Angeles, California announces that Scott London, former senior partner with KPMG, has agreed to plead guilty on charges involving insider trading. 
 
 

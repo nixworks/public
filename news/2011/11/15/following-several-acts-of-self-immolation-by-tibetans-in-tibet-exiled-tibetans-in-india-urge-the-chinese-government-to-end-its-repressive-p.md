@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/15/following-several-acts-of-self-immolation-by-ti
 
 ### [2011-11-15](/news/2011/11/15/index.md)
 
-##### acts of self-immolation
+##### Acts of self-immolation
 # Following several acts of self-immolation by Tibetans in Tibet, exiled Tibetans in India urge the Chinese government to end its repressive policies restricting the religious freedom of Tibetans. 
 
 

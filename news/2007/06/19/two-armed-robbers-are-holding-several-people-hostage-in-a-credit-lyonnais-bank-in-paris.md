@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/19/two-armed-robbers-are-holding-several-people-ho
 
 ### [2007-06-19](/news/2007/06/19/index.md)
 
-##### hostage
+##### Hostage
 #  Two armed robbers are holding several people hostage in a Crdit Lyonnais bank in Paris. 
 
 

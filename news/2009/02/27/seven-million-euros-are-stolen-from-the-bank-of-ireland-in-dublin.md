@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/27/seven-million-euros-are-stolen-from-the-bank-of
 
 ### [2009-02-27](/news/2009/02/27/index.md)
 
-##### euro
+##### Euro
 #  Seven million euros are stolen from the Bank of Ireland in Dublin. 
 
 Up to &euro;7 million may have been stolen from a Dublin bank following a so-called tiger kidnapping in Co Kildare this morning.

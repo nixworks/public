@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/22/100-000-residents-are-displaced-on-the-third-da
 
 ### [2013-06-22](/news/2013/06/22/index.md)
 
-##### flooding in Alberta
+##### Flooding in Alberta
 # 100,000 residents are displaced on the third day of flooding in Alberta. 
 
 

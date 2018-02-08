@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/29/a-suicide-bomber-attacks-the-funeral-of-a-shiit
 
 ### [2006-06-29](/news/2006/06/29/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomber attacks the funeral of a Shiite soldier in Kirkuk, Iraq, killing four and wounding 27. 
 
 

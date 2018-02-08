@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/2/the-trial-over-the-murder-of-turkish-armenian-jo
 
 ### [2007-07-2](/news/2007/07/2/index.md)
 
-##### trial
+##### Trial
 #  The trial over the murder of Turkish-Armenian journalist Hrant Dink opens in Istanbul, Turkey. 
 
 

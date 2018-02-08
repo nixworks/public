@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/20/the-supreme-court-paves-the-way-for-the-prosecu
 
 ### [2017-06-20](/news/2017/06/20/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # The Supreme Court paves the way for the prosecution of Prosecutor General Luisa Ortega Diaz after she voiced criticism towards President Nicolas Maduro. 
 
 Venezuela&rsquo;s Supreme Court cleared the way for a trial against the country&rsquo;s chief prosecutor, who became a surprise hero to the opposition after breaking ranks with the government of President Nicolas Maduro over his efforts to concentrate power.

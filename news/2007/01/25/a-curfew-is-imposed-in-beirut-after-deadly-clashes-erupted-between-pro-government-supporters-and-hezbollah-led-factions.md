@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/25/a-curfew-is-imposed-in-beirut-after-deadly-clas
 
 ### [2007-01-25](/news/2007/01/25/index.md)
 
-##### curfew
+##### Curfew
 #  A curfew is imposed in Beirut after deadly clashes erupted between pro-government supporters and Hezbollah-led factions. 
 
 

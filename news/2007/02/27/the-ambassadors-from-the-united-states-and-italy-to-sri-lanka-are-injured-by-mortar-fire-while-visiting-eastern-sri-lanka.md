@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/27/the-ambassadors-from-the-united-states-and-ital
 
 ### [2007-02-27](/news/2007/02/27/index.md)
 
-##### ambassador
+##### Ambassador
 #  The ambassadors from the United States and Italy to Sri Lanka are injured by mortar fire while visiting eastern Sri Lanka. 
 
 

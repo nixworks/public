@@ -9,7 +9,7 @@ _Context: Syria, 2011 Syrian uprising, Damascus_
 
 ##### Kenya
 ### [The presidents of Kenya, Somalia and Uganda meet in Nairobi to discuss coordinated military operations against the al-Qaeda-linked Somali terrorist group Al-Shabaab. ](/news/2011/11/17/the-presidents-of-kenya-somalia-and-uganda-meet-in-nairobi-to-discuss-coordinated-military-operations-against-the-al-qaeda-linked-somali-te.md)
-_Context: Operation Linda Nchi, Kenya, Somalia, al-Qaeda, Al-Shabaab, Uganda, Nairobi_
+_Context: Nairobi, Somalia, Uganda, Al-Shabaab, Operation Linda Nchi, al-Qaeda, Kenya_
 
 ##### Swede
 ### [Swedish divers find the wreckage of the warship "Svardet", sunk in 1676 during the Battle of Oland. ](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.md)
@@ -29,7 +29,7 @@ _Context: Samoa, Apia, Polynesian Leaders Group_
 
 ##### North Korea
 ### [Reports emerge that nearly 14,000 North Korean anti-chemical-weapon suits, believed destined for Syria, were seized by Greek authorities in November 2009. ](/news/2011/11/17/reports-emerge-that-nearly-14-000-north-korean-anti-chemical-weapon-suits-believed-destined-for-syria-were-seized-by-greek-authorities-in.md)
-_Context: Syria, North Korea, Greece, chemical weapon_
+_Context: North Korea, Syria, chemical weapon, Greece_
 
 ##### House of Representatives
 ### [The United States House of Representatives considers censoring the Internet for the first time with the Stop Online Piracy Act. ](/news/2011/11/17/the-united-states-house-of-representatives-considers-censoring-the-internet-for-the-first-time-with-the-stop-online-piracy-act.md)
@@ -41,7 +41,7 @@ _Context: Nicaraguan President, Daniel Ortega, recent Presidential election_
 
 ##### China
 ### [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md)
-_Context: Tiangong-1, China, Shenzhou 8, Inner Mongolia_
+_Context: Shenzhou 8, Inner Mongolia, China, Tiangong-1_
 
 ## [Previous Day...](/news/2011/11/16/index.md)
 

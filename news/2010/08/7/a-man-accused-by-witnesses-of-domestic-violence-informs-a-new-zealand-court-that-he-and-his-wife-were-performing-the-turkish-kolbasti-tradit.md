@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/7/a-man-accused-by-witnesses-of-domestic-violence-
 
 ### [2010-08-7](/news/2010/08/7/index.md)
 
-##### domestic violence
+##### Domestic violence
 # A man accused by witnesses of domestic violence informs a New Zealand court that he and his wife were performing the Turkish kolbasti traditional dance at the time of the alleged incident in Hawera. 
 
 A man accused of beating his wife tells a New Zealand court they were performing a traditional dance, not fighting.

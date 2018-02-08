@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/27/at-least-ten-people-drown-and-thousands-move-to
 
 ### [2007-06-27](/news/2007/06/27/index.md)
 
-##### cyclone
+##### Cyclone
 #  At least ten people drown and thousands move to higher ground as a cyclone hits Balochistan, Pakistan. 
 
 

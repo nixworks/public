@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/9/at-least-20-people-are-killed-and-over-three-hun
 
 ### [2012-06-9](/news/2012/06/9/index.md)
 
-##### sectarian violence
+##### Sectarian violence
 # At least 20 people are killed and over three hundred houses are burned down during riots in western Burma. 
 
 

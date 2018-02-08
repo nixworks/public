@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/22/at-least-two-people-are-dead-from-windstorms-in
 
 ### [2013-11-22](/news/2013/11/22/index.md)
 
-##### windstorm
+##### Windstorm
 # At least two people are dead from windstorms in Northern California, U.S. 
 
 A man was killed in Oakland when a falling tree struck him on Austin Street near Fruitvale Avenue shortly after 8 p.m. Thursday, police said. About a half hour later, a motorist who appeared to be trying to avoid downed debris crashed on Skyline Boulevard in Oakland, police said.

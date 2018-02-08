@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-a
 
 ### [2017-06-18](/news/2017/06/18/index.md)
 
-##### defects
+##### Defects
 # A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. 
 
 The man swam with foam attached to his shoulders to help him stay afloat, officials say.

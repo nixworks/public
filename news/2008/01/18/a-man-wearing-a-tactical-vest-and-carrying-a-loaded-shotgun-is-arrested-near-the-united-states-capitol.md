@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/18/a-man-wearing-a-tactical-vest-and-carrying-a-lo
 
 ### [2008-01-18](/news/2008/01/18/index.md)
 
-##### tactical vest
+##### Tactical vest
 #  A man wearing a tactical vest and carrying a loaded shotgun is arrested near the United States Capitol. 
 
 A man with a shotgun was arrested a block from the U.S. Capitol on Friday but there were no shots fired or injuries, police said.

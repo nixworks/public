@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/12/gunmen-kill-nine-police-officers-and-injure-oth
 
 ### [2012-07-12](/news/2012/07/12/index.md)
 
-##### policemen
+##### Policemen
 # Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/7/at-least-five-people-are-killed-in-a-blast-outsi
 
 ### [2009-12-7](/news/2009/12/7/index.md)
 
-##### court
+##### Court
 #  At least five people are killed in a blast outside a court complex in Peshawar, Pakistan. 
 
 

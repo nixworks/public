@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/a-series-of-bombings-and-shootings-kills-at-lea
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### bombings
+##### Bombings
 # A series of bombings and shootings kills at least 98 people and injures 240 others across Iraq. 
 
 Up to 60 people are killed and scores are injured in a series of bomb attacks in Baghdad on the 10th anniversary of the US-led invasion of Iraq.

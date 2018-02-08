@@ -21,7 +21,7 @@ The US and Japan begin joint military exercises, amid simmering tensions with Ch
 
 ##### Asia-Europe Meeting
 ### [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asiaaeurope-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md)
-_Context: China, Choummaly Sayasone, Laos, Asia-Europe Meeting, Wen Jiabao, Vientiane_
+_Context: Choummaly Sayasone, Laos, Wen Jiabao, China, Vientiane, Asia-Europe Meeting_
 
 ##### British Prime Minister
 ### [British Prime Minister David Cameron orders a fresh investigation into allegations of sexual abuse involving a senior Conservative politician from the Thatcher era. The allegations concern sexual abuse at children's homes in Wales during the 1970s and 1980s. ](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.md)
@@ -31,7 +31,7 @@ _Context: Conservative Party, David Cameron, British Prime Minister_
 ### [A judge in Australia rules that Standard & Poor's misled investors in its rating of two pre-crisis issues of structured debt. ](/news/2012/11/5/a-judge-in-australia-rules-that-standard-poor-s-misled-investors-in-its-rating-of-two-pre-crisis-issues-of-structured-debt.md)
 McGraw-Hill Cos. and Moody’s Corp., owners of the two-largest credit rating firms, plummeted after an Australian judge ruled Standard &amp; Poor’s misled investors by giving its highest credit grade to securities whose value plunged during the global financial crisis.
 
-##### elections
+##### Elections
 ### [Thousands of people protest against alleged fraud in the recent parliamentary elections in Ukraine. ](/news/2012/11/5/thousands-of-people-protest-against-alleged-fraud-in-the-recent-parliamentary-elections-in-ukraine.md)
 Opposition leaders threaten not to recognise the new parliament as thousands rally in Kiev to protest alleged fraud.
 

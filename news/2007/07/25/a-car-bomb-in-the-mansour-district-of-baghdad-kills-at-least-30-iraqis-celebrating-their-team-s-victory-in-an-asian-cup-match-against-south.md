@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/25/a-car-bomb-in-the-mansour-district-of-baghdad-k
 
 ### [2007-07-25](/news/2007/07/25/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in the Mansour district of Baghdad kills at least 30 Iraqis celebrating their team's victory in an Asian Cup match against South Korea. Another suicide attack in East Baghdad kills another 20. 
 
 

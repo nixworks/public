@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-s
 
 ### [2013-06-21](/news/2013/06/21/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 15 and injures 20 in a Shi'ite mosque in the northwestern Pakistani city of Peshawar. 
 
 

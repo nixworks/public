@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/1/a-boat-carrying-70-asylum-seekers-en-route-to-au
 
 ### [2011-11-1](/news/2011/11/1/index.md)
 
-##### asylum seeker
+##### Asylum seeker
 # A boat carrying 70 asylum seekers en route to Australia sinks off the coast of Java in Indonesia with eight confirmed deaths and fifteen people missing. 
 
 

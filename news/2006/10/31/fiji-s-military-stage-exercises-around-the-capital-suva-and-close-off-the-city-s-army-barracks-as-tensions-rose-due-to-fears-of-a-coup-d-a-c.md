@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/31/fiji-s-military-stage-exercises-around-the-capi
 
 ### [2006-10-31](/news/2006/10/31/index.md)
 
-##### military government
+##### Military government
 #  Fiji's military stage exercises around the capital Suva and close off the city's army barracks as tensions rose due to fears of a coup d'etat. Fiji's military chief, Frank Bainimarama, has threatened to force the Prime Minister of Fiji Laisenia Qarase to resign unless the Prime Minister drops two Bills, one which will offer amnesty to some of those involved in a 2000 coup led by George Speight. 
 
 

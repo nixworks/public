@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/4/islamic-insurgents-kill-three-state-police-at-a-
 
 ### [2014-12-4](/news/2014/12/4/index.md)
 
-##### state police
+##### State police
 # Islamic insurgents kill three state police at a traffic circle before taking an empty school and a "press house" in Grozny. Ten state forces die with 28 injured in gun battles ending with ten insurgents killed. 
 
 Ten police officers were killed and 28 injured during an anti-terrorist operation in the Chechen capital, Grozny, the National Anti-Terrorist Committee has reported. The operation prevented major terrorist attacks planned in the city, the committee said.

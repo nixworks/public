@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/25/about-10-000-protesters-from-the-people-s-allia
 
 ### [2008-11-25](/news/2008/11/25/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  About 10,000 protesters from the People's Alliance for Democracy surround Prime Minister Somchai Wongsawat's temporary office at Don Mueang International Airport in Bangkok, Thailand. 
 
 

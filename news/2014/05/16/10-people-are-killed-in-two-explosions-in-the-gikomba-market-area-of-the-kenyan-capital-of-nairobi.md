@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/16/10-people-are-killed-in-two-explosions-in-the-g
 
 ### [2014-05-16](/news/2014/05/16/index.md)
 
-##### two explosions
+##### Two explosions
 # 10 people are killed in two explosions in the Gikomba market area of the Kenyan capital of Nairobi. 
 
 Two bomb explosions strike Gikomba market area of the Kenyan capital Nairobi, killing at least 10 people and injuring scores, officials say.

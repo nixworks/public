@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/23/a-major-clear-up-operation-begins-after-a-month
 
 ### [2012-06-23](/news/2012/06/23/index.md)
 
-##### northern England
+##### Northern England
 # A major clear-up operation begins after a month's worth of rain falls in 24 hours, causing flooding across parts of northern England. 
 
 A major clear-up is under way after torrential rain caused flooding across parts of northern England, forcing many people out of their homes.

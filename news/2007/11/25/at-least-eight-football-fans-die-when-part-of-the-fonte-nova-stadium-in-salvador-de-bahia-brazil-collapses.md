@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/25/at-least-eight-football-fans-die-when-part-of-t
 
 ### [2007-11-25](/news/2007/11/25/index.md)
 
-##### footballer
+##### Footballer
 #  At least eight football fans die when part of the Fonte Nova stadium in Salvador de Bahia, Brazil, collapses. 
 
 

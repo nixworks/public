@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/5/scientists-announce-the-discovery-of-a-new-speci
 
 ### [2007-07-5](/news/2007/07/5/index.md)
 
-##### cephalopod
+##### Cephalopod
 #  Scientists announce the discovery of a new species of cephalopod, dubbed 'octosquid', found off the coast of Hawaii. 
 
 

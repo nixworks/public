@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/21/a-7-3-m-w-earthquake-occurs-off-of-indonesia-ce
 
 ### [2007-01-21](/news/2007/01/21/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.3 M w earthquake occurs off of Indonesia, centered in the Molucca Sea. Buildings shake in northeastern Indonesia, panicking residents, but there are no reports of casualties. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

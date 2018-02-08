@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/22/a-suicide-bombing-in-baghdad-kills-at-least-21-
 
 ### [2014-07-22](/news/2014/07/22/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing in Baghdad kills at least 21 people. 
 
 A suicide driver rammed his explosive-laden car into a police checkpoint in the Iraqi capital killing 21 people, including more than a dozen civilians en route to a Shiite shrine in the final days of the Islamic holy month.

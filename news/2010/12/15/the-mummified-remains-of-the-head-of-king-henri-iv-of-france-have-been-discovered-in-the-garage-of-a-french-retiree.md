@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/15/the-mummified-remains-of-the-head-of-king-henri
 
 ### [2010-12-15](/news/2010/12/15/index.md)
 
-##### mummified
+##### Mummified
 # The mummified remains of the head of King Henri IV of France have been discovered in the garage of a French retiree. 
 
 

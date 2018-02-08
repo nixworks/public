@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/3/al-qaeda-founder-osama-bin-laden-criticizes-unit
 
 ### [2009-06-3](/news/2009/06/3/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Al-Qaeda founder Osama bin Laden criticizes United States President Barack Obama on an audio cassette. [http:--news.bbc.co.uk-2-hi-south_asia-8081828.stm (BBC)] [http:--www.timesonline.co.uk-tol-news-world-middle_east-article6423668.ece "(The Times)"]
 
 

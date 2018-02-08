@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/13/an-earthquake-of-magnitude-7-9-hits-chile-with-
 
 ### [2005-06-13](/news/2005/06/13/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of magnitude 7.9 hits Chile with epicenter in the northern region of Tarapaca near the Bolivian border, killing at least 8 people. 
 
 

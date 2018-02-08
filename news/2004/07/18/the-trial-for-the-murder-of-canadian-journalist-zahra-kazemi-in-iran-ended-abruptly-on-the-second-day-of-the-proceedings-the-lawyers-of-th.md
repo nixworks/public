@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/18/the-trial-for-the-murder-of-canadian-journalist
 
 ### [2004-07-18](/news/2004/07/18/index.md)
 
-##### journalist
+##### Journalist
 #  The trial for the murder of Canadian journalist Zahra Kazemi in Iran ended abruptly on the second day of the proceedings. The lawyers of the Kazemi family insisted that the time has not been enough for proofs to be given, witnesses to be brought to court, and the murderer to be identified.
 
 

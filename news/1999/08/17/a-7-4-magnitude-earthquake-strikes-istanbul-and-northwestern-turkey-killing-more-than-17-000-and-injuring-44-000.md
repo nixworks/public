@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/08/17/a-7-4-magnitude-earthquake-strikes-istanbul-and
 
 ### [1999-08-17](/news/1999/08/17/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 7.4-magnitude earthquake strikes Istanbul and northwestern Turkey, killing more than 17,000 and injuring 44,000. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/8/the-president-of-indonesia-joko-widodo-announces
 
 ### [2015-10-8](/news/2015/10/8/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 # The President of Indonesia Joko Widodo announces that he will seek help from other nations in putting out illegally lit forest fires that have caused the haze. 
 
 

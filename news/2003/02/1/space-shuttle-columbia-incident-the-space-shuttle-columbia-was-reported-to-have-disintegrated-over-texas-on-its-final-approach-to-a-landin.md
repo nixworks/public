@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/02/1/space-shuttle-columbia-incident-the-space-shuttl
 
 ### [2003-02-1](/news/2003/02/1/index.md)
 
-##### disintegrated during re-entry
+##### Disintegrated during re-entry
 #  Space Shuttle Columbia incident: The Space Shuttle Columbia was reported to have disintegrated over Texas on its final approach to a landing after its 28th space mission. All seven crew members were killed in the disaster. It was later discovered that a piece of foam insulation had broken off the external fuel tank and punctured a hole in the left wing during launch.
 
 

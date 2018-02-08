@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/21/a-tornado-hits-the-town-of-goderich-in-the-cana
 
 ### [2011-08-21](/news/2011/08/21/index.md)
 
-##### tornado
+##### Tornado
 # A tornado hits the town of Goderich in the Canadian province of Ontario causing significant damage and one death. 
 
 GODERICH, Ont. &amp;#8212; One person is dead after a powerful tornado struck an Ontario community Sunday, ripping roofs off the tops of houses, shattering windows and uprooting trees.

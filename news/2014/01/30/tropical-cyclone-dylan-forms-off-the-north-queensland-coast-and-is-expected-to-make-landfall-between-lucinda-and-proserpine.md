@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/30/tropical-cyclone-dylan-forms-off-the-north-quee
 
 ### [2014-01-30](/news/2014/01/30/index.md)
 
-##### northern
+##### Northern
 # Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. 
 
 

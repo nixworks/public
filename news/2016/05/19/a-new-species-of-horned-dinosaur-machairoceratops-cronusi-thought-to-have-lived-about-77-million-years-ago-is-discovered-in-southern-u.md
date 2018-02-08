@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/19/a-new-species-of-horned-dinosaur-machairocerato
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
-##### horned dinosaur
+##### Horned dinosaur
 #  A new species of horned dinosaur, "Machairoceratops cronusi", thought to have lived about 77 million years ago, is discovered in southern Utah. 
 
 Scientists have added another dinosaur species to the prehistoric catalog, and this one was found in what is now Utah.

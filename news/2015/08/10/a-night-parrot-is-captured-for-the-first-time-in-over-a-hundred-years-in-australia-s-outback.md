@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/10/a-night-parrot-is-captured-for-the-first-time-i
 
 ### [2015-08-10](/news/2015/08/10/index.md)
 
-##### night parrot
+##### Night parrot
 # A night parrot is captured for the first time in over a hundred years in Australia's outback. 
 
 The area of south-west Queensland where the elusive nocturnal parrot, presumed extinct, was caught is now to be protected

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/23/a-suicide-attack-kills-one-person-and-injures-t
 
 ### [2009-03-23](/news/2009/03/23/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills one person and injures three others in Islamabad, Pakistan. 
 
 

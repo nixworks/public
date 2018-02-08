@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/28/the-supreme-court-of-venezuela-bars-luisa-orteg
 
 ### [2017-06-28](/news/2017/06/28/index.md)
 
-##### democratic opposition
+##### Democratic opposition
 # The Supreme Court of Venezuela bars Luisa Ortega Diaz, the chief prosecutor and outspoken critic of president Nicolas Maduro, from leaving the country and freezes her assets. 
 
 Venezuela’s Supreme Tribunal of Justice banned prosecutor general Luisa Ortega Diaz from leaving the country.

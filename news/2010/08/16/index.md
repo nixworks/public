@@ -5,15 +5,15 @@ Formats: [HTML](2010/08/16/index.html)  [JSON](2010/08/16/index.json)  [XML](201
 
 ##### Philippines Armed Forces
 ### [The Philippine security forces announce they will extend the controversial counter-insurgency tactic Oplan Bantay Laya up until December 31, 2010. The political party Bagong Alyansang Makabayan condemned the extension. ](/news/2010/08/16/the-philippine-security-forces-announce-they-will-extend-the-controversial-counter-insurgency-tactic-oplan-bantay-laya-up-until-december-31.md)
-_Context: Philippines Armed Forces, communist insurgency, Oplan Bantay Laya, Bagong Alyansang Makabayan_
+_Context: communist insurgency, Bagong Alyansang Makabayan, Philippines Armed Forces, Oplan Bantay Laya_
 
 ##### Kashmir
 ### [3 more people are killed during protests in Kashmir. ](/news/2010/08/16/3-more-people-are-killed-during-protests-in-kashmir.md)
 Two suspected militants and a soldier die in a gun battle in Indian-administered Kashmir, police say.
 
-##### grenade
+##### Grenade
 ### [At least 2 people are injured after a grenade explosion outside a Televisa television station in Monterrey, Nuevo Leon, Mexico. ](/news/2010/08/16/at-least-2-people-are-injured-after-a-grenade-explosion-outside-a-televisa-television-station-in-monterrey-nuevo-lea3n-mexico.md)
-_Context: grenade, Mexico, Monterrey, Nuevo Leon, Televisa_
+_Context: grenade, Monterrey, Nuevo Leon, Mexico, Televisa_
 
 ##### Mexico
 ### [The mayor of the Mexican town of Santiago, Nuevo Leon, Edelmiro Cavazos, is abducted. ](/news/2010/08/16/the-mayor-of-the-mexican-town-of-santiago-nuevo-lea3n-edelmiro-cavazos-is-abducted.md)
@@ -39,17 +39,17 @@ A group of intellectuals and politicians calls on France to repay 17bn euros (£
 ### [AIRES Flight 8250 crashes upon landing on San Andres Island, Colombia; one death is reported. ](/news/2010/08/16/aires-flight-8250-crashes-upon-landing-on-san-andra-c-s-island-colombia-one-death-is-reported.md)
 Passenger dies of heart attack and 114 others are injured in crash.
 
-##### devastating floods
+##### Devastating floods
 ### [The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. ](/news/2010/08/16/the-devastating-floods-continue-as-a-concern-of-the-united-nations-with-officials-citing-a-lack-of-aid-funding-for-six-million-people-in-ur.md)
 As officials struggle with immediate response to the disaster, concerns are growing about the toll on the overall economy, food supply and stability.
 
 ##### Russia
 ### [Russia is battered by a severe storm following its recent heatwave, its hottest summer in recorded history. ](/news/2010/08/16/russia-is-battered-by-a-severe-storm-following-its-recent-heatwave-its-hottest-summer-in-recorded-history.md)
-_Context: its recent heatwave, Russia_
+_Context: Russia, its recent heatwave_
 
 ##### An explosion
 ### [An explosion at a maternity hospital in Romania's capital Bucharest, kills at least 4 babies, while 2 pregnant women and 8 newborn infants sustain burns and other injuries in serious condition. ](/news/2010/08/16/an-explosion-at-a-maternity-hospital-in-romania-s-capital-bucharest-kills-at-least-4-babies-while-2-pregnant-women-and-8-newborn-infants-s.md)
-_Context: Bucharest, An explosion, Romania_
+_Context: An explosion, Bucharest, Romania_
 
 ##### Nigeria
 ### [As many as 40 people are killed due to a fiery collision between a lorry load of sugar and a police checkpoint in Nigeria. ](/news/2010/08/16/as-many-as-40-people-are-killed-due-to-a-fiery-collision-between-a-lorry-load-of-sugar-and-a-police-checkpoint-in-nigeria.md)
@@ -103,7 +103,7 @@ Iraqi&#x20;political&#x20;turmoil&#x20;persisted&#x20;Monday&#x20;with&#x20;form
 ### [A book written by Chinese dissident Yu Jie critical of Premier Wen Jiabao goes on sale in Hong Kong, with threats of imprisonment from the mainland. ](/news/2010/08/16/a-book-written-by-chinese-dissident-yu-jie-critical-of-premier-wen-jiabao-goes-on-sale-in-hong-kong-with-threats-of-imprisonment-from-the-m.md)
 A book criticising the Chinese premier went on sale in Hong Kong Monday, despite alleged threats by Beijing against its author. Writer Yu Jie says he was...
 
-##### nuclear program
+##### Nuclear program
 ### [Ali Akbar Salehi, head of the Atomic Energy Organization of Iran, says that Iran will build a third uranium enrichment plant next year. ](/news/2010/08/16/ali-akbar-salehi-head-of-the-atomic-energy-organization-of-iran-says-that-iran-will-build-a-third-uranium-enrichment-plant-next-year.md)
 Nuke chief Salehi: New uranium enrichment site to open next year.
 
@@ -113,11 +113,11 @@ An Australian hospital says it has performed the southern hemisphere&#39;s first
 
 ##### Titi monkey
 ### [A new species of Titi monkey, the Caqueta Titi, is discovered in the Colombian department of Caqueta. ](/news/2010/08/16/a-new-species-of-titi-monkey-the-caqueta-titi-is-discovered-in-the-colombian-department-of-caqueta.md)
-_Context: Titi monkey, Colombian department, Caqueta Titi, Caqueta_
+_Context: Caqueta Titi, Caqueta, Colombian department, Titi monkey_
 
 ##### University of Toronto
 ### [Scientists at the University of Toronto claim that mountain climbers George Mallory and Andrew Irvine could not have reached the top of Mount Everest in 1924 as they were caught in a perfect storm. ](/news/2010/08/16/scientists-at-the-university-of-toronto-claim-that-mountain-climbers-george-mallory-and-andrew-irvine-could-not-have-reached-the-top-of-moun.md)
-_Context: mountain climber, Mount Everest, George Mallory, Andrew Irvine, perfect storm, University of Toronto_
+_Context: University of Toronto, Mount Everest, George Mallory, Andrew Irvine, perfect storm, mountain climber_
 
 ## [Previous Day...](/news/2010/08/15/index.md)
 

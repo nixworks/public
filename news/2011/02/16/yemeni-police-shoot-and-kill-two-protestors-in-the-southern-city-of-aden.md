@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/16/yemeni-police-shoot-and-kill-two-protestors-in-
 
 ### [2011-02-16](/news/2011/02/16/index.md)
 
-##### policemen
+##### Policemen
 # Yemeni police shoot and kill two protestors in the southern city of Aden. 
 
 

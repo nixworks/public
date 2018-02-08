@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/19/a-suicide-bomber-attacks-a-western-convoy-in-ka
 
 ### [2007-03-19](/news/2007/03/19/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber attacks a Western convoy in Kabul, causing casualties. 
 
 

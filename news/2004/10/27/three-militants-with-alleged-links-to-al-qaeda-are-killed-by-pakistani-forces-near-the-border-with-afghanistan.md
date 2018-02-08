@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/27/three-militants-with-alleged-links-to-al-qaeda-
 
 ### [2004-10-27](/news/2004/10/27/index.md)
 
-##### militant
+##### Militant
 #  Three militants with alleged links to al-Qaeda are killed by Pakistani forces near the border with Afghanistan. 
 
 

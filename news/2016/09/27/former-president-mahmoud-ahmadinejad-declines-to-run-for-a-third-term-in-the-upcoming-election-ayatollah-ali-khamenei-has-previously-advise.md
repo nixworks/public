@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/27/former-president-mahmoud-ahmadinejad-declines-t
 
 ### [2016-09-27](/news/2016/09/27/index.md)
 
-##### re-elected
+##### Re-elected
 # Former President Mahmoud Ahmadinejad declines to run for a third term in the upcoming election. Ayatollah Ali Khamenei has previously advised Ahmadinejad to not seek the presidency next year. 
 
 TEHRAN (Tasnim) – Former Iranian president Mahmoud Ahmadinejad said he does not have any plans for running in the country’s 12th presidential election due to be held on May 19, 2017.

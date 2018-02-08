@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/2/the-un-war-crimes-tribunal-in-the-hague-declares
 
 ### [2004-09-2](/news/2004/09/2/index.md)
 
-##### war crimes
+##### War crimes
 #  The UN war crimes tribunal in The Hague declares former Yugoslav President Slobodan Milosevic unfit to represent himself in his trial, and appoints two lawyers to his defense. 
 
 

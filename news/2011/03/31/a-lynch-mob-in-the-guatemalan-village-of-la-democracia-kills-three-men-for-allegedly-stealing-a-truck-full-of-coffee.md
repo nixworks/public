@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/31/a-lynch-mob-in-the-guatemalan-village-of-la-dem
 
 ### [2011-03-31](/news/2011/03/31/index.md)
 
-##### lynch mob
+##### Lynch mob
 # A lynch mob in the Guatemalan village of La Democracia kills three men for allegedly stealing a truck full of coffee. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/3/iran-warns-the-united-states-not-to-send-any-mor
 
 ### [2012-01-3](/news/2012/01/3/index.md)
 
-##### aircraft carrier
+##### Aircraft carrier
 # Iran warns the United States not to send any more aircraft carriers into the Persian Gulf. 
 
 

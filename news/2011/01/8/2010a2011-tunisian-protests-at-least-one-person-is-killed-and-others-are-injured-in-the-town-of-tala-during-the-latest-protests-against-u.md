@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/8/2010a2011-tunisian-protests-at-least-one-person-
 
 ### [2011-01-8](/news/2011/01/8/index.md)
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 # 2010-2011 Tunisian protests: At least one person is killed and others are injured in the town of Tala during the latest protests against unemployment and poor living conditions. 
 
 Fatalities reported after fresh clashes between demonstrators and security forces across north African nation.

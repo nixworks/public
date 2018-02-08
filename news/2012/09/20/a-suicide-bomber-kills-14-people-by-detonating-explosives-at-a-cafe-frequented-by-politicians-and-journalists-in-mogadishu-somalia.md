@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/20/a-suicide-bomber-kills-14-people-by-detonating-
 
 ### [2012-09-20](/news/2012/09/20/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 14 people by detonating explosives at a cafe frequented by politicians and journalists in Mogadishu, Somalia. 
 
 A Somali police official says a suicide bomber killed 14 people when he detonated his explosives at a Mogadishu cafe frequented by politicians and journalists in the capital.

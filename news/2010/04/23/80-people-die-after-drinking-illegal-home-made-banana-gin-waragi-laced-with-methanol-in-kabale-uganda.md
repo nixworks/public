@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/23/80-people-die-after-drinking-illegal-home-made-
 
 ### [2010-04-23](/news/2010/04/23/index.md)
 
-##### gin
+##### Gin
 # 80 people die after drinking illegal home-made banana gin (waragi) laced with methanol in Kabale, Uganda 
 
 

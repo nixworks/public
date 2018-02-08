@@ -7,7 +7,7 @@ Formats: [HTML](2013/03/15/index.html)  [JSON](2013/03/15/index.json)  [XML](201
 ### [American rapper Lil Wayne has a seizure in Los Angeles, United States. ](/news/2013/03/15/american-rapper-lil-wayne-has-a-seizure-in-los-angeles-united-states.md)
 _Context: seizure, Lil Wayne_
 
-##### double decker bus
+##### Double decker bus
 ### [At least 24 people die when a double decker bus veers off the Hex River Pass near De Doorns, Cape Town, South Africa. ](/news/2013/03/15/at-least-24-people-die-when-a-double-decker-bus-veers-off-the-hex-river-pass-near-de-doorns-cape-town-south-africa.md)
 Another two fatalities have increased the death toll in a bus accident on the Hex River Pass near De Doorns to 24, the Western Cape health department said.
 
@@ -15,11 +15,11 @@ Another two fatalities have increased the death toll in a bus accident on the He
 ### [Three people die after a twin-engine plane crashes into a parking lot in Fort Lauderdale, Florida, United States. ](/news/2013/03/15/three-people-die-after-a-twin-engine-plane-crashes-into-a-parking-lot-in-fort-lauderdale-florida-united-states.md)
 _Context: Fort Lauderdale, Florida, the state_
 
-##### fireworks
+##### Fireworks
 ### [At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. ](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-accident-in-jesus-tepactepec-tlaxcala-mexico.md)
 _Context: Tlaxcala, fireworks_
 
-##### drive-by shooting
+##### Drive-by shooting
 ### [A 19-year-old man is arrested in connection with a drive-by shooting in Washington, D.C., United States, on March 11, that injured 13 people. ](/news/2013/03/15/a-19-year-old-man-is-arrested-in-connection-with-a-drive-by-shooting-in-washington-d-c-united-states-on-march-11-that-injured-13-people.md)
 _Context: drive-by shooting, March 11_
 

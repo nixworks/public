@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/4/the-death-toll-from-flooding-in-haiti-caused-by-
 
 ### [2008-09-4](/news/2008/09/4/index.md)
 
-##### flood
+##### Flood
 #  The death toll from flooding in Haiti caused by Tropical Storm Hanna rises to 61. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/19/a-suicide-bomb-explodes-in-hillah-iraq-killing-
 
 ### [2006-11-19](/news/2006/11/19/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomb explodes in Hillah, Iraq, killing 17 and wounding 49. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/2/2010-strikes-in-france-millions-of-people-demons
 
 ### [2010-10-2](/news/2010/10/2/index.md)
 
-##### recent strikes and demonstrations
+##### Recent strikes and demonstrations
 # 2010 strikes in France: Millions of people demonstrate on the streets of France for a third day in more than 200 protests against President Nicolas Sarkozy's plans to raise the retirement age from 60 to 62. 
 
 Hundreds of thousands of people across France take part in the third day of demonstrations against pension reform in less than a month.

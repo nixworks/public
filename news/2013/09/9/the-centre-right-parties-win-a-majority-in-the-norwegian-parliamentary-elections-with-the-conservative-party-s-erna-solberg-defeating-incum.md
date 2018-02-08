@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/9/the-centre-right-parties-win-a-majority-in-the-n
 
 ### [2013-09-9](/news/2013/09/9/index.md)
 
-##### parliamentary election
+##### Parliamentary election
 # The centre-right parties win a majority in the Norwegian parliamentary elections, with the Conservative Party's Erna Solberg defeating incumbent Jens Stoltenberg (Labour) for the position of Prime Minister. 
 
 Norway&#039;s right wing has won parliamentary elections, with Conservative Party leader Erna Solberg set to become the country&#039;s next prime minister.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/14/police-find-48-kilograms-of-illegal-cannabis-in
 
 ### [2010-07-14](/news/2010/07/14/index.md)
 
-##### cannabis
+##### Cannabis
 # Police find 48 kilograms of illegal cannabis in Launceston and charge two men, after a week-long operation in one of the largest seizures of the drug in Tasmanian history. 
 
 Police have found 48kg of cannabis in Launceston and charged two men in one of the largest seizures of the drug in Tasmanian history.

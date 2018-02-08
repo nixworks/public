@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/4/the-wedding-of-prince-charles-and-camilla-parker
 
 ### [2005-04-4](/news/2005/04/4/index.md)
 
-##### wedding
+##### Wedding
 #  The wedding of Prince Charles and Camilla Parker-Bowles, also scheduled for Friday, April 8, will be postponed one day to avoid a time conflict and allow Prince Charles to attend the Papal funeral. 
 
 

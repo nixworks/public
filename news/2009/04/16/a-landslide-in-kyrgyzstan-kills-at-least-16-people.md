@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/16/a-landslide-in-kyrgyzstan-kills-at-least-16-peo
 
 ### [2009-04-16](/news/2009/04/16/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide in Kyrgyzstan kills at least 16 people. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/18/a-supposed-meteorite-impact-in-peru-leads-to-hu
 
 ### [2007-09-18](/news/2007/09/18/index.md)
 
-##### meteorite impact in Peru
+##### Meteorite impact in Peru
 #  A supposed meteorite impact in Peru leads to hundreds of nearby villagers falling ill from still unknown causes. 
 
 Dozens of people living in a Peruvian town near Lake Titicaca reported vomiting and headaches after they went to look at a crater apparently left by a meteorite that crashed down over the weekend, health officials said on Tuesday.

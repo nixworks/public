@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/13/battle-of-n-djamena-the-united-front-for-democr
 
 ### [2006-04-13](/news/2006/04/13/index.md)
 
-##### attempted coup
+##### Attempted coup
 #  Battle of N'Djamena: The United Front for Democratic Change's attack on the Chadian capital of N'Djamena is repelled by the Chadian army. 
 
 

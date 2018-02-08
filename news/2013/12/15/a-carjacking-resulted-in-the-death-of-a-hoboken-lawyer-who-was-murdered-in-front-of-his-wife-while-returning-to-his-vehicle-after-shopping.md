@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/15/a-carjacking-resulted-in-the-death-of-a-hoboken
 
 ### [2013-12-15](/news/2013/12/15/index.md)
 
-##### carjacking
+##### Carjacking
 # A carjacking resulted in the death of a Hoboken lawyer who was murdered in front of his wife while returning to his vehicle after shopping. 
 
 A 30-year-old lawyer leaving an upscale New Jersey mall after shopping with his wife 10 days before Christmas was shot and killed in a carjacking Sunday, prosecutors say.

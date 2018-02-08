@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/1/wooden-box-mines-suspected-to-come-from-north-ko
 
 ### [2010-08-1](/news/2010/08/1/index.md)
 
-##### landmine
+##### Landmine
 # Wooden box mines, suspected to come from North Korea, wash ashore on a South Korean beach killing one man and injuring another. 
 
 

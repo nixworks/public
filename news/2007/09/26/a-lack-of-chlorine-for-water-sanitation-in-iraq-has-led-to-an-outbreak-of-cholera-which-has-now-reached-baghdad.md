@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/26/a-lack-of-chlorine-for-water-sanitation-in-iraq
 
 ### [2007-09-26](/news/2007/09/26/index.md)
 
-##### chlorine
+##### Chlorine
 #  A lack of chlorine for water sanitation in Iraq has led to an outbreak of cholera which has now reached Baghdad. 
 
 

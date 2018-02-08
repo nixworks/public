@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authorit
 
 ### [2008-12-22](/news/2008/12/22/index.md)
 
-##### impoundment
+##### Impoundment
 #  An impoundment at the Tennessee Valley Authority's coal-fired power plant in Kingston, Tennessee, fails, resulting in a large volume of fly ash slurry being spilled onto surrounding land and the adjacent Emory and Clinch Rivers. 
 
 

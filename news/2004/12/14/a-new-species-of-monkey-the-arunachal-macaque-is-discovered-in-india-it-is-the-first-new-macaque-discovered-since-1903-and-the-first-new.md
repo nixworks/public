@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/14/a-new-species-of-monkey-the-arunachal-macaque-i
 
 ### [2004-12-14](/news/2004/12/14/index.md)
 
-##### monkey
+##### Monkey
 #  A new species of monkey, the Arunachal Macaque, is discovered in India. It is the first new macaque discovered since 1903 and the first new primate in 49 years. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/8/the-government-of-chad-renews-accusations-of-sud
 
 ### [2006-03-8](/news/2006/03/8/index.md)
 
-##### second Dby administration
+##### Second Dby administration
 #  The Government of Chad renews accusations of Sudanese support for attacks by the UFDC into eastern Chad, despite the recent signing of the Tripoli Accord and the successful formation of the ministerial committee. Sudan has accused Chad of supporting ARFWS rebels in the past, and Chad is believed to have stepped up support in light of recent attacks. 
 
 

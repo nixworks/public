@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/28/at-least-100-people-are-feared-trapped-or-burie
 
 ### [2010-06-28](/news/2010/06/28/index.md)
 
-##### landslide
+##### Landslide
 # At least 100 people are feared trapped or buried in a landslide in Guizhou Province in south-west China following continued heavy rain. 
 
 Officials say about 107 buried in southern China with little chances of survival.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/2/iran-s-opposition-says-200-people-were-arrested-
 
 ### [2011-03-2](/news/2011/03/2/index.md)
 
-##### protestors
+##### Protestors
 # Iran's opposition says 200 people were arrested during protests in the capital Tehran yesterday. 
 
 Iranian opposition groups say more than 200 people were arrested on Tuesday while trying to protest in Tehran over the reported imprisonment of two opposition leaders.

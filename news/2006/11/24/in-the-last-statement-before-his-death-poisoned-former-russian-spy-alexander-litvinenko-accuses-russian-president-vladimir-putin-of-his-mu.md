@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/24/in-the-last-statement-before-his-death-poisoned
 
 ### [2006-11-24](/news/2006/11/24/index.md)
 
-##### poison
+##### Poison
 #  In the last statement before his death, poisoned former Russian spy Alexander Litvinenko accuses Russian president Vladimir Putin of his murder. 
 
 News and opinion from The Times &amp; The Sunday Times

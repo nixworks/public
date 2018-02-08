@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/11/12/antibiotic-resistance-a-woman-in-the-us-city-of
 
 ### [2002-11-12](/news/2002/11/12/index.md)
 
-##### antibiotic-resistant bacteria
+##### Antibiotic-resistant bacteria
 #  Antibiotic resistance: A woman in the US city of Detroit who was infected in July by a strain of "Staphylococcus aureus" that is resistant to vancomycin, the antibiotic often viewed by doctors as the "antibiotic of last resort", is now reported to have tested to be clear of the infection. She is still being kept in isolation to prevent the infection from being spread to others.
 
 

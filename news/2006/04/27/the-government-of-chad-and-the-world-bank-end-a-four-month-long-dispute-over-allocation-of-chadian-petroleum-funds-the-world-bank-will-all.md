@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/27/the-government-of-chad-and-the-world-bank-end-a
 
 ### [2006-04-27](/news/2006/04/27/index.md)
 
-##### second Dby administration
+##### Second Dby administration
 #  The Government of Chad and the World Bank end a four-month-long dispute over allocation of Chadian petroleum funds. The World Bank will allow Chad to spend more of its oil revenue on its military in exchange for a resumption of oil output through the Chad-Cameroon pipeline. 
 
 Chad had tried to violate its agreement with the World Bank to dedicate most of the revenues from a bank-supported oil pipeline to poverty reduction.

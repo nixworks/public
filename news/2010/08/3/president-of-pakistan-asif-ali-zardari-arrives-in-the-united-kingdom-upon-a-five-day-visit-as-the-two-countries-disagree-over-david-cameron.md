@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/3/president-of-pakistan-asif-ali-zardari-arrives-i
 
 ### [2010-08-3](/news/2010/08/3/index.md)
 
-##### president
+##### President
 # President of Pakistan Asif Ali Zardari arrives in the United Kingdom upon a five-day visit as the two countries disagree over David Cameron's remarks on "the export of terror". 
 
 

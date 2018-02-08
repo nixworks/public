@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/19/at-least-44-people-are-killed-in-a-prison-brawl
 
 ### [2012-02-19](/news/2012/02/19/index.md)
 
-##### prison brawl
+##### Prison brawl
 # At least 44 people are killed in a prison brawl in Apodaca, Nuevo Leon. The brawl is believed to have been started after the Gulf Cartel and Los Zetas, two rival Mexican drug cartels, clashed inside the prison. 
 
 At least 44 inmates are killed and several more injured after a fight breaks out in a prison north of the Mexican city of Monterrey.

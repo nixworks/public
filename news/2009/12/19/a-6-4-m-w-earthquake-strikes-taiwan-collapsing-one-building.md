@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/19/a-6-4-m-w-earthquake-strikes-taiwan-collapsing-
 
 ### [2009-12-19](/news/2009/12/19/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.4 M w earthquake strikes Taiwan collapsing one building. 
 
 A strong earthquake rocked much of Taiwan on Saturday, geological officials said, with local television reporting minor injuries and structural damage to some buildings.

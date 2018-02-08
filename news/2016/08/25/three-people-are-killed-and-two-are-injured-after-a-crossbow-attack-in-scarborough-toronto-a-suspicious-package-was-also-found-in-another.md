@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/25/three-people-are-killed-and-two-are-injured-aft
 
 ### [2016-08-25](/news/2016/08/25/index.md)
 
-##### crossbow
+##### Crossbow
 # Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.
 
 Toronto police confirm there is a link between the three deaths involving a crossbow in east Toronto and a suspicious package found in the downtown area of the city. 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/1/a-group-of-29-persons-thought-to-be-north-korean
 
 ### [2004-09-1](/news/2004/09/1/index.md)
 
-##### defector
+##### Defector
 #  A group of 29 persons, thought to be North Korean defectors seeking asylum, storm a Japanese school in Beijing, China. 
 
 

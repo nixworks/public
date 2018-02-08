@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/8/83-prisoners-die-as-a-fire-breaks-out-in-a-priso
 
 ### [2010-12-8](/news/2010/12/8/index.md)
 
-##### fire breaks out
+##### Fire breaks out
 # 83 prisoners die as a fire breaks out in a prison in Santiago, Chile. 
 
 

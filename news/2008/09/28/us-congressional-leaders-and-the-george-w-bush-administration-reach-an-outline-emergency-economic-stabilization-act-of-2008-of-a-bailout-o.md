@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/28/us-congressional-leaders-and-the-george-w-bush-
 
 ### [2008-09-28](/news/2008/09/28/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  US Congressional leaders and the George W. Bush administration reach an outline Emergency Economic Stabilization Act of 2008 of a bailout of financial institutions as a result of the subprime mortgage crisis. 
 
 U.S. congressional leaders on Sunday said they had reached the broad outline of a deal to put in place a $700 billion financial system bailout but were awaiting details on paper before declaring it final.

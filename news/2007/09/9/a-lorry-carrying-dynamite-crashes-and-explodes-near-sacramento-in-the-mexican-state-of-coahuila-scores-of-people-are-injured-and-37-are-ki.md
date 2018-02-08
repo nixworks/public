@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/9/a-lorry-carrying-dynamite-crashes-and-explodes-n
 
 ### [2007-09-9](/news/2007/09/9/index.md)
 
-##### dynamite
+##### Dynamite
 #  A lorry carrying dynamite crashes and explodes near Sacramento in the Mexican state of Coahuila; scores of people are injured and 37 are killed, including three local reporters covering the story. 
 
 

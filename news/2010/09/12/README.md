@@ -29,7 +29,7 @@ Claude&#x20;Chabrol&#x20;&#x28;pictured&#x29;,&#x20;film&#x20;director&#x20;and&
 
 ##### Lady Gaga
 ### [Lady Gaga wins eight MTV Video Music Awards at the 2010 ceremony including Video of the Year for "Bad Romance". ](/news/2010/09/12/lady-gaga-wins-eight-mtv-video-music-awards-at-the-2010-ceremony-including-video-of-the-year-for-bad-romance.md)
-_Context: 2010 ceremony, MTV Video Music Awards, Bad Romance, Lady Gaga_
+_Context: Bad Romance, MTV Video Music Awards, 2010 ceremony, Lady Gaga_
 
 ##### 2010 Copiap mining accident
 ### [The 33 miners involved in the 2010 Copiap mining accident are permitted to smoke cigarettes after one month of underground entrapment. ](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.md)
@@ -39,7 +39,7 @@ Miners trapped underground in Chile for more than a month are allowed to smoke f
 ### [95 farm workers are rescued from difficult living conditions in two south-eastern states (Minas Gerais and Rio de Janeiro (state)) of Brazil. ](/news/2010/09/12/95-farm-workers-are-rescued-from-difficult-living-conditions-in-two-south-eastern-states-minas-gerais-and-rio-de-janeiro-state-of-brazil.md)
 The Brazilian authorities say they have rescued 95 farm workers who were being kept in slave-like conditions in two south-eastern states, reports say.
 
-##### pipeline explosion
+##### Pipeline explosion
 ### [The death toll rises to 7 from a pipeline explosion in San Bruno, California, near the U.S. city of San Francisco. ](/news/2010/09/12/the-death-toll-rises-to-7-from-a-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
 Specially trained dogs this evening found three victims, bringing the total to seven fatalities of the explosion, which happened at about 6:15 p.m. Thursday evening near Skyline Boulevard and San Bruno Avenue. Homes that have been completely destroyed will remain off-limits, while other residents wh...
 
@@ -65,7 +65,7 @@ Iranian authorities are ready to release on $500,000 (£325,000) bail one of the
 
 ##### Mexican marines
 ### [Mexican marines capture alleged Beltrn Leyva Cartel leader Sergio Villarreal Barragn in the state of Puebla. ](/news/2010/09/12/mexican-marines-capture-alleged-beltran-leyva-cartel-leader-sergio-villarreal-barragan-in-the-state-of-puebla.md)
-_Context: Puebla, Sergio Villarreal Barragn, Mexican marines, Beltrn Leyva Cartel_
+_Context: Sergio Villarreal Barragn, Beltrn Leyva Cartel, Puebla, Mexican marines_
 
 ##### Russian President
 ### [President of Russia Dmitry Medvedev approves a plan to overhaul Russia's police system. ](/news/2010/09/12/president-of-russia-dmitry-medvedev-approves-a-plan-to-overhaul-russia-s-police-system.md)

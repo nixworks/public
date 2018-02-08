@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/8/the-parliament-of-albania-fails-without-a-vote-i
 
 ### [2012-06-8](/news/2012/06/8/index.md)
 
-##### parliament
+##### Parliament
 # The Parliament of Albania fails without a vote in the third round to elect the President of the Republic of Albania. 
 
 

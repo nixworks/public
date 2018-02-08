@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/31/a-7-6-magnitude-earthquake-in-the-philippine-pr
 
 ### [2012-08-31](/news/2012/08/31/index.md)
 
-##### magnitude
+##### Magnitude
 # A 7.6-magnitude earthquake in the Philippine province of Eastern Samar kills at least one person. 
 
 

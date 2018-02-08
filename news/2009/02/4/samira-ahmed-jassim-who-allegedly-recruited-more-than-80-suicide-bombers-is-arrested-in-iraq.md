@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/4/samira-ahmed-jassim-who-allegedly-recruited-more
 
 ### [2009-02-4](/news/2009/02/4/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  Samira Ahmed Jassim, who allegedly recruited more than 80 suicide bombers, is arrested in Iraq. 
 
 

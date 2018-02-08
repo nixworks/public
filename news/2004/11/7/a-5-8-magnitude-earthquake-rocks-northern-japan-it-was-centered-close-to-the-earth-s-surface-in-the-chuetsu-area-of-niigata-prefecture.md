@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/7/a-5-8-magnitude-earthquake-rocks-northern-japan-
 
 ### [2004-11-7](/news/2004/11/7/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 5.8 magnitude earthquake rocks northern Japan. It was centered close to the Earth's surface in the Chuetsu area of Niigata prefecture. 
 
 

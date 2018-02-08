@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/12/a-new-species-of-guenon-monkey-discovered-in-20
 
 ### [2012-09-12](/news/2012/09/12/index.md)
 
-##### species
+##### Species
 # A new species of guenon monkey discovered in 2007 is now identified in Opala, DR Congo. Local inhabitants call it "lesula". The first specimen resembled the owl-faced monkey, but of unseen colour. More specimen have been located in a 6,500 square mile area. The species' genetic and anatomical distinctiveness (identification) has been determined in a study made the following three years. Its scientific name is "Cercopithecus lomamiensis". The publication already recommends it to the Red List of endangered species and proposes conservation measures for its Lomami and central Congo Basin habitat. 
 
 Researchers have identified a new species of African monkey, locally known as the lesula, described in the Sep. 12 issue of the open access journal PLOS ONE. This is only the second new species of African monkey discovered in the last 28 years. 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/21/one-hundred-thousand-people-protest-against-the
 
 ### [2009-03-21](/news/2009/03/21/index.md)
 
-##### protest
+##### Protest
 #  One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. 
 
 

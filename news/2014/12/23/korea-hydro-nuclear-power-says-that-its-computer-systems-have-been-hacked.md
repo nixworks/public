@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/23/korea-hydro-nuclear-power-says-that-its-compute
 
 ### [2014-12-23](/news/2014/12/23/index.md)
 
-##### recent nuclear power plant attack
+##### Recent nuclear power plant attack
 # Korea Hydro & Nuclear Power says that its computer systems have been hacked. 
 
 Computer systems at South Korea&#039;s nuclear plant operator have been hacked, the company said on Monday, sharply raising concerns about safeguards around nuclear facilities in a country that remains technically at war with North Korea.

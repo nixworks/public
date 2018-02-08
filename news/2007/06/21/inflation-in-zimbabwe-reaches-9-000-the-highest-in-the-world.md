@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/21/inflation-in-zimbabwe-reaches-9-000-the-highest
 
 ### [2007-06-21](/news/2007/06/21/index.md)
 
-##### dollar
+##### Dollar
 #  Inflation in Zimbabwe reaches 9,000%, the highest in the world. 
 
 

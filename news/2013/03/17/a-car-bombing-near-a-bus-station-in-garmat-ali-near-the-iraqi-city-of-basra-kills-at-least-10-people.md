@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-
 
 ### [2013-03-17](/news/2013/03/17/index.md)
 
-##### car bombing
+##### Car bombing
 # A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. 
 
 Ten people are killed as a car bomb explodes at a bus station near Basra in southern Iraq, days before the 10th anniversary of the US-led invasion.

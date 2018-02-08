@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-o
 
 ### [2005-02-28](/news/2005/02/28/index.md)
 
-##### suicide car bomb explodes
+##### Suicide car bomb explodes
 #  A suicide car bomb explodes in the Iraqi town of Hilla, 60 kilometres south of Baghdad. 125 people are killed and many injured.
 
 

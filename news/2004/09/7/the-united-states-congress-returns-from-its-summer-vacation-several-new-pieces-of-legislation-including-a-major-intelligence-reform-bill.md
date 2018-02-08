@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/7/the-united-states-congress-returns-from-its-summ
 
 ### [2004-09-7](/news/2004/09/7/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress returns from its summer vacation. Several new pieces of legislation, including a major intelligence reform bill, are in the works in response to the recommendations of the 9-11 Commission. 
 
 

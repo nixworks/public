@@ -57,7 +57,7 @@ Tyrannosaurs had sensitive snouts that they may have enjoyed rubbing together wh
 
 ##### SpaceX
 ### [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md)
-_Context: CRS-8, International Space Station, geostationary transfer orbit, Dragon cargo capsule, SES-10, autonomous drone ship, Falcon 9, SpaceX_
+_Context: Dragon cargo capsule, International Space Station, autonomous drone ship, CRS-8, Falcon 9, geostationary transfer orbit, SES-10, SpaceX_
 
 ## [Previous Day...](/news/2017/03/29/index.md)
 

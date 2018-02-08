@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/16/a-flare-dropped-from-a-new-jersey-national-guar
 
 ### [2007-05-16](/news/2007/05/16/index.md)
 
-##### flare
+##### Flare
 #  A flare dropped from a New Jersey National Guard F-16 Fighting Falcon is believed to be the cause of a wildfire that has burned 20 sqmi at the edge of Pinelands National Reserve, New Jersey, burning three homes and causing the evacuation of 2,500 other homes. 
 
 

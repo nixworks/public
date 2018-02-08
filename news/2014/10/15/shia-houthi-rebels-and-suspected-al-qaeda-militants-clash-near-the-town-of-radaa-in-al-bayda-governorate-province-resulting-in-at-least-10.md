@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/15/shia-houthi-rebels-and-suspected-al-qaeda-milit
 
 ### [2014-10-15](/news/2014/10/15/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # Shia Houthi rebels and suspected al-Qaeda militants clash near the town of Radaa in Al Bayda' Governorate province resulting in at least 10 deaths. 
 
 Shia Houthi rebels and al-Qaeda militants engage in heavy fighting in southern Yemen, as the rebels seek to expand the territory under their control.

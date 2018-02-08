@@ -23,13 +23,13 @@ Gunmen killed 12 people in a raid on a northeastern Nigerian village on Saturday
 ### ["The Day of the Doctor" premieres in 94 countries simultaneously to celebrate the 50th anniversary of British science-fiction show Doctor Who. ](/news/2013/11/23/the-day-of-the-doctor-premieres-in-94-countries-simultaneously-to-celebrate-the-50th-anniversary-of-british-science-fiction-show-doctor-wh.md)
 Doctor Who fans around the world watch its 50th anniversary episode, in what is believed to be the largest simulcast of a TV drama in history.
 
-##### military
+##### Military
 ### [The Armed Forces of the United States scales back its operations. ](/news/2013/11/23/the-armed-forces-of-the-united-states-scales-back-its-operations.md)
 The U.S. military has began scaling back its emergency relief operations in the Philippines as work shifts to recovery and rehabilitation in typhoon-hit areas, a U.S. aid agency official said on Saturday.
 
-##### several world powers
+##### Several world powers
 ### [P5+1 foreign ministers meet in Geneva for talks on Iran's nuclear program. ](/news/2013/11/23/p5-1-foreign-ministers-meet-in-geneva-for-talks-on-iran-s-nuclear-program.md)
-_Context: several world powers, nuclear program_
+_Context: nuclear program, several world powers_
 
 ##### Egypt
 ### [Egypt expels the Turkish ambassador, citing "interference". ](/news/2013/11/23/egypt-expels-the-turkish-ambassador-citing-interference.md)

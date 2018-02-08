@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/1/three-executives-of-allied-irish-banks-resign.ht
 
 ### [2009-05-1](/news/2009/05/1/index.md)
 
-##### executives
+##### Executives
 #  Three executives of Allied Irish Banks resign. 
 
 

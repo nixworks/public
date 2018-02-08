@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/26/in-sanford-florida-17-year-old-trayvon-martin-i
 
 ### [2012-02-26](/news/2012/02/26/index.md)
 
-##### a suburb of Orlando
+##### A suburb of Orlando
 # In Sanford, Florida, 17-year-old Trayvon Martin is shot and killed by George Zimmerman.
 
 

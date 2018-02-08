@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-pia
 
 ### [2009-05-29](/news/2009/05/29/index.md)
 
-##### dam
+##### Dam
 #  Four people are killed when a dam bursts in Piaui, Brazil. 
 
 

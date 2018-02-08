@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/15/amanda-knox-s-parents-have-been-indicted-for-al
 
 ### [2011-02-15](/news/2011/02/15/index.md)
 
-##### murder
+##### Murder
 # Amanda Knox's parents have been indicted for allegedly libeling police in Perugia, Italy in statements made surrounding the murder of Meredith Kercher. 
 
 

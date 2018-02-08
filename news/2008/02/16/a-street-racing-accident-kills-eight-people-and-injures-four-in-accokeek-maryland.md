@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/16/a-street-racing-accident-kills-eight-people-and
 
 ### [2008-02-16](/news/2008/02/16/index.md)
 
-##### street racing
+##### Street racing
 #  A street racing accident kills eight people and injures four in Accokeek, Maryland. 
 
 

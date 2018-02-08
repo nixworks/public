@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/24/a-magnitude-6-4-earthquake-occurs-in-the-aegean
 
 ### [2014-05-24](/news/2014/05/24/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 6.4 earthquake occurs in the Aegean Sea between Greece and Turkey with reports of serious damage on the Turkish island of Gokceada and the cities of Edirne and Canakkale. 
 
 

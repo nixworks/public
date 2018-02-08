@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/11/18-people-die-after-a-landslide-buries-a-villag
 
 ### [2013-01-11](/news/2013/01/11/index.md)
 
-##### landslide
+##### Landslide
 # 18 people die after a landslide buries a village in the Yunnan province of China, while 40 people are feared to be buried. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](2016/08/25/index.html)  [JSON](2016/08/25/index.json)  [XML](201
 
 ## [2016-08-25](/news/2016/08/25/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 ### [The death toll in Rodrigo Duterte's war on drugs reaches 1,900 people killed. ](/news/2016/08/25/the-death-toll-in-rodrigo-duterte-s-war-on-drugs-reaches-1-900-people-killed.md)
 Police records and data gathered by Al Jazeera show close to 6,000 killed since new president took office on June 30.
 
@@ -15,21 +15,21 @@ Turkish troops fired on U.S.-backed Kurdish militia fighters in northern Syria o
 ### [Miners in the Philippines criticize the government after a crackdown on mining closed more nickel and copper mines. ](/news/2016/08/25/miners-in-the-philippines-criticize-the-government-after-a-crackdown-on-mining-closed-more-nickel-and-copper-mines.md)
 Philippine miners claim the government’s environmental crackdown is a “demolition campaign” against mineral producers and are seeking to meet President Rodrigo Duterte amid a spate of shutdowns stemming from the probe, an industry official said.
 
-##### major quake in August
+##### Major quake in August
 ### [The search continues for survivors in central Italy with the death toll now 241. An aftershock of 4.7 MMS hits further east in the province near Norcia. ](/news/2016/08/25/the-search-continues-for-survivors-in-central-italy-with-the-death-toll-now-241-an-aftershock-of-4-7-mms-hits-further-east-in-the-province.md)
 The death toll from the central Italy earthquake reaches 250, amid fears many more bodies remain buried in the rubble.
 
 ##### 2015-16 Zika virus epidemic
 ### [Hong Kong's Centre for Health Protection confirms Hong Kong's first case of Zika virus in a 38-year-old woman and says it will report the case to the World Health Organization (WHO). ](/news/2016/08/25/hong-kong-s-centre-for-health-protection-confirms-hong-kong-s-first-case-of-zika-virus-in-a-38-year-old-woman-and-says-it-will-report-the-ca.md)
-_Context: Zika virus, 2015-16 Zika virus epidemic, Centre for Health Protection, Hong Kong, World Health Organization_
+_Context: Hong Kong, Zika virus, Centre for Health Protection, World Health Organization, 2015-16 Zika virus epidemic_
 
-##### crossbow
+##### Crossbow
 ### [Three people are killed and two are injured after a crossbow attack in Scarborough, Toronto. A suspicious package was also found in another linked event.](/news/2016/08/25/three-people-are-killed-and-two-are-injured-after-a-crossbow-attack-in-scarborough-toronto-a-suspicious-package-was-also-found-in-another.md)
 Toronto police confirm there is a link between the three deaths involving a crossbow in east Toronto and a suspicious package found in the downtown area of the city. 
 
 ##### Impeachment process against Dilma Rousseff
 ### [Brazil's Federal Senate begins the impeachment trial of suspended President Dilma Rousseff. ](/news/2016/08/25/brazil-s-federal-senate-begins-the-impeachment-trial-of-suspended-president-dilma-rousseff.md)
-_Context: Impeachment process against Dilma Rousseff, Senate, president, Dilma Rousseff, Brazil_
+_Context: president, Impeachment process against Dilma Rousseff, Brazil, Senate, Dilma Rousseff_
 
 ## [Previous Day...](/news/2016/08/24/index.md)
 

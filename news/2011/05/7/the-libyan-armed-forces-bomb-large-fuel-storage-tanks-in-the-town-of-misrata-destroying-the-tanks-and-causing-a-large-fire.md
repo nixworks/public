@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-
 
 ### [2011-05-7](/news/2011/05/7/index.md)
 
-##### civil war
+##### Civil war
 # The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/17/tornado-has-swept-threw-south-western-part-of-l
 
 ### [2010-08-17](/news/2010/08/17/index.md)
 
-##### tornado
+##### Tornado
 # Tornado has swept threw south western part of Lithuania, near city of Rusne 
 
 

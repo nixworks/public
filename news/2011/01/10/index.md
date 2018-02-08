@@ -11,7 +11,7 @@ An Arizona judge orders the 22-year-old man accused of killing six people and in
 ### [Three people are killed in a clash between Sudanese army and the Sudan Liberation Movement rebel group, in north Darfur, according to the United Nations-led peacekeeping mission. ](/news/2011/01/10/three-people-are-killed-in-a-clash-between-sudanese-army-and-the-sudan-liberation-movement-rebel-group-in-north-darfur-according-to-the-un.md)
 Three people were killed in an exchange of fire in Sudan’s western region of Darfur between the government and a rebel group, the United Nations-led peacekeeping mission said.
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bomber kills two policemen and a civilian, the second attack in four days for which the Taliban claims responsibility, while separately, three policemen are killed in a 'friendly fire' incident as US Vice President Joe Biden arrives for a visit in Afghanistan. ](/news/2011/01/10/a-suicide-bomber-kills-two-policemen-and-a-civilian-the-second-attack-in-four-days-for-which-the-taliban-claims-responsibility-while-separ.md)
 Insurgents Monday staged the second suicide bombing in four days in a strategic border district in southern Afghanistan, signaling determination to open a new front in the battle with coalition...
 
@@ -25,7 +25,7 @@ Basque separatists Eta call a permanent ceasefire in its fight for independence 
 
 ##### Karachi
 ### [Tens of thousands of people rally in Karachi, Pakistan to demand the release of Mumtaz Qadri, charged with killing Salman Taseer, the provincial governor of Punjab who had campaigned to amend the country's blasphemy laws. ](/news/2011/01/10/tens-of-thousands-of-people-rally-in-karachi-pakistan-to-demand-the-release-of-mumtaz-qadri-charged-with-killing-salman-taseer-the-provin.md)
-_Context: blasphemy law, Karachi, Pakistan, Punjab Province, Salman Taseer, Mumtaz Qadri_
+_Context: blasphemy law, Salman Taseer, Punjab Province, Pakistan, Mumtaz Qadri, Karachi_
 
 ##### Turkey
 ### [Turkey is considering demolishing a giant sculpture, meant to symbolize friendship between Turkey and Armenia, near the city of Kars. ](/news/2011/01/10/turkey-is-considering-demolishing-a-giant-sculpture-meant-to-symbolize-friendship-between-turkey-and-armenia-near-the-city-of-kars.md)
@@ -41,9 +41,9 @@ Brazilian Finance Minister Guido Mantega says the world is on course for a trade
 
 ##### U.S.
 ### [U.S. chemical company DuPont buys out Danish food ingredient and enzyme company Danisco for $5.8billion. ](/news/2011/01/10/u-s-chemical-company-dupont-buys-out-danish-food-ingredient-and-enzyme-company-danisco-for-5-8billion.md)
-_Context: Denmark, DuPont, Danisco, U.S._
+_Context: DuPont, Denmark, Danisco, U.S._
 
-##### floods
+##### Floods
 ### [At least eight people die and scores are missing as heavy floods continue in Queensland, Australia. ](/news/2011/01/10/at-least-eight-people-die-and-scores-are-missing-as-heavy-floods-continue-in-queensland-australia.md)
 _Context: floods, Australia, Queensland_
 
@@ -81,7 +81,7 @@ Warning to those involved in violent protests in north African nation tempered w
 
 ##### Republican
 ### [Former Republican United States House of Representatives Majority Leader Tom DeLay is sentenced to three years in prison for money laundering. ](/news/2011/01/10/former-republican-united-states-house-of-representatives-majority-leader-tom-delay-is-sentenced-to-three-years-in-prison-for-money-launderin.md)
-_Context: money laundering, Majority Leader, House of Representatives, Republican, Tom DeLay_
+_Context: Republican, money laundering, Tom DeLay, House of Representatives, Majority Leader_
 
 ##### Israel
 ### [More than 150 Israeli university lecturers support a boycott of the University Centre of Samaria in Ariel over concerns of "unbearably harsh conditions" faced by Palestinians living nearby, as well as Ariel being an "illegal settlement" and a roadblock to the establishment of an independent Palestinian state. ](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.md)

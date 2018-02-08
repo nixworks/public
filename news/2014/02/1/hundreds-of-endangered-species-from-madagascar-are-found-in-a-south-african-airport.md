@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/1/hundreds-of-endangered-species-from-madagascar-a
 
 ### [2014-02-1](/news/2014/02/1/index.md)
 
-##### endangered species
+##### Endangered species
 # Hundreds of endangered species from Madagascar are found in a South African airport. 
 
 

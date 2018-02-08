@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/1/same-sex-marriage-debates-the-cabinet-of-spanish
 
 ### [2004-10-1](/news/2004/10/1/index.md)
 
-##### same-sex marriage
+##### Same-sex marriage
 #  Same-sex marriage debates: The cabinet of Spanish Prime Minister Jos Luis Rodrguez Zapatero approves a bill to legalize same-sex marriage; the government believes that the bill will pass the full parliament. 
 
 

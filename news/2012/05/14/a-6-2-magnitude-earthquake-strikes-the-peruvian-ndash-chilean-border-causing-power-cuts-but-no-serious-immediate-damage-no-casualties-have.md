@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/14/a-6-2-magnitude-earthquake-strikes-the-peruvian
 
 ### [2012-05-14](/news/2012/05/14/index.md)
 
-##### magnitude
+##### Magnitude
 # A 6.2-magnitude earthquake strikes the Peruvian&ndash;Chilean border, causing power cuts but no serious immediate damage. No casualties have been reported. 
 
 

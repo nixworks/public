@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/18/twin-suicide-bombings-kill-31-and-wound-another
 
 ### [2013-06-18](/news/2013/06/18/index.md)
 
-##### al-Qahira
+##### Al-Qahira
 # Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. 
 
 At least 31 people are killed in a double suicide bomb attack at a Shia mosque in the Iraqi capital, Baghdad.

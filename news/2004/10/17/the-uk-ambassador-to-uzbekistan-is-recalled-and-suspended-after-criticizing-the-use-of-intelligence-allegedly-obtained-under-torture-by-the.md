@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/17/the-uk-ambassador-to-uzbekistan-is-recalled-and
 
 ### [2004-10-17](/news/2004/10/17/index.md)
 
-##### ambassador
+##### Ambassador
 #  The UK ambassador to Uzbekistan is recalled and suspended after criticizing the use of intelligence allegedly obtained under torture by the Uzbekistan government. 
 
 

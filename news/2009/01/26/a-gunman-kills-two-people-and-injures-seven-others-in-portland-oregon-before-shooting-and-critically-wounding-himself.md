@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-oth
 
 ### [2009-01-26](/news/2009/01/26/index.md)
 
-##### kills two people and injures seven others
+##### Kills two people and injures seven others
 #  A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. 
 
 

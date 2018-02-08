@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/12/iraqi-police-are-responsible-for-killing-two-u-
 
 ### [2004-03-12](/news/2004/03/12/index.md)
 
-##### police
+##### Police
 #  Iraqi police are responsible for killing two U.S. civilians, local investigators state. 
 
 

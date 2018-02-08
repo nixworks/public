@@ -7,13 +7,13 @@ Formats: [HTML](2015/08/19/index.html)  [JSON](2015/08/19/index.json)  [XML](201
 ### [A Boko Haram attack last week on a northeastern Nigerian village, Yadin Kukuwa killed at least 151 people. News of the attack was slow to emerge because the militants destroyed telecom masts around the village. ](/news/2015/08/19/a-boko-haram-attack-last-week-on-a-northeastern-nigerian-village-yadin-kukuwa-killed-at-least-151-people-news-of-the-attack-was-slow-to-em.md)
 A Boko Haram attack in a northeast Nigerian village left at least 151 people dead last week, with many drowning as they attempted to flee across a river.
 
-##### destroyed
+##### Destroyed
 ### [Islamic State militants behead 82-year-old antiquities scholar Khaled Asaad, who worked for over 50 years as head of antiquities in Palmyra. ](/news/2015/08/19/islamic-state-militants-behead-82-year-old-antiquities-scholar-khaled-asaad-who-worked-for-over-50-years-as-head-of-antiquities-in-palmyra.md)
 The archaeologist who looked after ancient ruins of Palmyra in Syria for 40 years is reported to have been murdered by Islamic State militants.
 
 ##### Iraq War (2014-present)
 ### [A suicide bomber kills at least 20 Iraqi Army troops in the city of Baiji. ](/news/2015/08/19/a-suicide-bomber-kills-at-least-20-iraqi-army-troops-in-the-city-of-baiji.md)
-_Context: Iraqi Army, Iraq War (2014-present), suicide bomber, Baiji_
+_Context: Baiji, suicide bomber, Iraq War (2014-present), Iraqi Army_
 
 ##### South Sudanese Civil War
 ### [Fighting resumes in South Sudan after the failure to reach a deal between tribes loyal to the president and tribes loyal to the former vice-president. ](/news/2015/08/19/fighting-resumes-in-south-sudan-after-the-failure-to-reach-a-deal-between-tribes-loyal-to-the-president-and-tribes-loyal-to-the-former-vice.md)
@@ -31,7 +31,7 @@ The German Bundestag is expected to approve €86bn bailout, paving the way for 
 ### [Samsung Bioepis Co., a drug development arm of global giant Samsung, picks four banks to manage an IPO it plans for the United States in 2016. ](/news/2015/08/19/samsung-bioepis-co-a-drug-development-arm-of-global-giant-samsung-picks-four-banks-to-manage-an-ipo-it-plans-for-the-united-states-in-201.md)
 _Context: Samsung, Samsung Bioepis Co._
 
-##### brush fire
+##### Brush fire
 ### [A brush fire burning near the American town of Twisp, Washington, kills three firefighters, injures as many as four others, and forces the evacuation of the towns of Twisp and Winthrop. ](/news/2015/08/19/a-brush-fire-burning-near-the-american-town-of-twisp-washington-kills-three-firefighters-injures-as-many-as-four-others-and-forces-the-e.md)
 DNR said there were reports of burn victims but it was unclear if those were firefighters or civilians.
 

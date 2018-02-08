@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/14/a-suicide-bombing-at-a-mosque-in-kandahar-afgha
 
 ### [2011-07-14](/news/2011/07/14/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a mosque in Kandahar, Afghanistan, kills four people and injures 11 including the head of the provincial religious council while they were praying for Ahmed Wali Karzai. 
 
 

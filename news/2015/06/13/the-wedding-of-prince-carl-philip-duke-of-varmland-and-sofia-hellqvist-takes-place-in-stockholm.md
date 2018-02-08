@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/13/the-wedding-of-prince-carl-philip-duke-of-varml
 
 ### [2015-06-13](/news/2015/06/13/index.md)
 
-##### wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist
+##### Wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist
 # The wedding of Prince Carl Philip, Duke of Vrmland, and Sofia Hellqvist takes place in Stockholm. 
 
 

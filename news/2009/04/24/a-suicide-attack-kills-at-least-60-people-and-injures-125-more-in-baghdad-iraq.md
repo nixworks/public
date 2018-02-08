@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/24/a-suicide-attack-kills-at-least-60-people-and-i
 
 ### [2009-04-24](/news/2009/04/24/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills at least 60 people and injures 125 more in Baghdad, Iraq. 
 
 Two suicide bombers have blown themselves up at the gates of a revered Shiite Muslim shrine in Baghdad, killing at least 60.

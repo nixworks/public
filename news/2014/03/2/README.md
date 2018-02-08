@@ -13,7 +13,7 @@ It was another tragic day in Maiduguri, Borno State capital, yesterday, after tw
 
 ##### 
 ### [Alabama's oldest hotel, the Mentone Springs Hotel - built in 1884 and listed on the register of historical places - burns to the ground. ](/news/2014/03/2/alabama-s-oldest-hotel-the-mentone-springs-hotel-built-in-1884-and-listed-on-the-register-of-historical-places-burns-to-the-ground.md)
-##### general election held on February 2
+##### General election held on February 2
 ### [Voters in Thailand go to the polls for a rerun of a general election hoped to end the current political crisis. ](/news/2014/03/2/voters-in-thailand-go-to-the-polls-for-a-rerun-of-a-general-election-hoped-to-end-the-current-political-crisis.md)
 A second round of voting in Thailand has gone ahead without incident.
 

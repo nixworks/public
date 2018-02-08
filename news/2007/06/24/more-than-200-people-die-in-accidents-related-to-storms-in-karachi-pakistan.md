@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/24/more-than-200-people-die-in-accidents-related-t
 
 ### [2007-06-24](/news/2007/06/24/index.md)
 
-##### storm
+##### Storm
 #  More than 200 people die in accidents related to storms in Karachi, Pakistan. 
 
 

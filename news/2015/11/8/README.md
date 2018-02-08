@@ -37,7 +37,7 @@ Once known as a Polish center, Hamtramck now has big Arab and Bangladeshi popula
 
 ##### Canadian Pacific
 ### [A Canadian Pacific Railway train carrying crude oil derails in Wisconsin; some of the 10 derailed cars are leaking oil. This is the second consecutive day for a freight train crash in the state. Yesterday, a BNSF Railway train wreck spilled thousands of gallons of ethanol. No injuries were reported in either accident. ](/news/2015/11/8/a-canadian-pacific-railway-train-carrying-crude-oil-derails-in-wisconsin-some-of-the-10-derailed-cars-are-leaking-oil-this-is-the-second-c.md)
-_Context: Canadian Pacific, crude oil, ethanol (C|H|3|C|H|2|O|H), BNSF Railway, Wisconsin_
+_Context: Wisconsin, Canadian Pacific, crude oil, BNSF Railway, ethanol (C|H|3|C|H|2|O|H)_
 
 ##### London
 ### [A 1-year-old from London with acute lymphoblastic leukemia who had undergone myriads of unsuccessful treatments since she was 14 weeks old is in remission thanks to gene-editing technology, used for just the second time, that allowed her to receive modified immune cells from another person. ](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.md)
@@ -49,7 +49,7 @@ Venezuela said a U.S. Coast Guard intelligence plane violated its airspace on Fr
 
 ##### European migrant crisis
 ### [Spain's interior minister Jorge Fernandez Diaz says the first of more than 1,400 refugees from Syria and Eritrea are being welcomed for resettlement in new homes across the country. ](/news/2015/11/8/spain-s-interior-minister-jorge-ferna-ndez-daaz-says-the-first-of-more-than-1-400-refugees-from-syria-and-eritrea-are-being-welcomed-for-re.md)
-_Context: Syria, interior minister, Spain, Eritrea, Jorge Fernandez Diaz, European migrant crisis_
+_Context: Spain, Jorge Fernandez Diaz, Eritrea, Syria, interior minister, European migrant crisis_
 
 ##### Hossam Bahgat
 ### [Hossam Bahgat, an investigative reporter for the independent Egyptian news website Mada Masr is detained and is interrogated on charges of publishing false news that could harm the nation. ](/news/2015/11/8/hossam-bahgat-an-investigative-reporter-for-the-independent-egyptian-news-website-mada-masr-is-detained-and-is-interrogated-on-charges-of-p.md)
@@ -59,7 +59,7 @@ Hossam Bahgat&#039;s recent investigative reporting has prominently featured the
 ### [Manhattan District Attorney Cyrus R. Vance, Jr. announces over $800 million in grants available to various agencies across the U.S. for law enforcement-related initiatives such as testing of potentially expired rape kits, the funding of an international center devoted to monitoring cyber attacks, and a program at John Jay College of Criminal Justice dedicated to training prosecutors. The grants are funded from criminal penalties paid by several international banks accused of violating sanctions. ](/news/2015/11/8/manhattan-district-attorney-cyrus-r-vance-jr-announces-over-800-million-in-grants-available-to-various-agencies-across-the-u-s-for-law.md)
 The Manhattan district attorney is giving grants, from criminal penalties against three international banks, for public and private criminal justice programs in New York and around the nation.
 
-##### last election
+##### Last election
 ### [Early official results show the Croatian Democratic Union (HDZ), the country's largest opposition party, has a slim lead over Prime Minister Zoran Milanovic's ruling Social Democrats (SDP) in today's elections. With 32 percent counted, the HDZ, has 61 of parliament's 151 seats and the SDP is second with 53. The third place Most (Bridge of Independent Lists) party is likely to have the balance of power in the parliament. ](/news/2015/11/8/early-official-results-show-the-croatian-democratic-union-hdz-the-country-s-largest-opposition-party-has-a-slim-lead-over-prime-minister.md)
 Croatia’s ruling center-left coalition faces a strong challenge from a conservative opposition as the Balkan country goes to the polls in its first parliamentary election since joining the European Union in 2013.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/20/at-least-6-people-are-killed-and-dozens-injured
 
 ### [2012-05-20](/news/2012/05/20/index.md)
 
-##### a 6.0-magnitude earthquake
+##### A 6.0-magnitude earthquake
 # At least 6 people are killed and dozens injured when a 6.0-magnitude earthquake strikes northern Italy. 
 
 

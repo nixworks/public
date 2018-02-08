@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/7/pro-russian-militants-recapture-the-city-hall-of
 
 ### [2014-05-7](/news/2014/05/7/index.md)
 
-##### southern Ukrainian
+##### Southern Ukrainian
 # Pro-Russian militants recapture the city hall of the southern Ukrainian city of Mariupol hours after the Ukrainian government forces took control of the building from the militants. 
 
 Pro-Russian separatists seize back the city hall in the southern Ukrainian port of Mariupol, hours after being ousted by security forces.

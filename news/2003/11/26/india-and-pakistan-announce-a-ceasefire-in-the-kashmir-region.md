@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/26/india-and-pakistan-announce-a-ceasefire-in-the-
 
 ### [2003-11-26](/news/2003/11/26/index.md)
 
-##### ceasefire
+##### Ceasefire
 #  India and Pakistan announce a ceasefire in the Kashmir region.
 
 

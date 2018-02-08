@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/5/39-people-are-injured-due-to-malfunctioning-fire
 
 ### [2013-07-5](/news/2013/07/5/index.md)
 
-##### fireworks
+##### Fireworks
 # 39 people are injured due to malfunctioning fireworks at a 4th of July event in Simi Valley, California. 
 
 More than two dozen people were injured when a wood platform holding live fireworks tipped over, sending the pyrotechnics into a crowd at an annual 4th of July show northwest of Los Angeles, authorities said Friday.

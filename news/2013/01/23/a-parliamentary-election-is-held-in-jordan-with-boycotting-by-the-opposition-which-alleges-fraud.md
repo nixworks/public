@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/23/a-parliamentary-election-is-held-in-jordan-with
 
 ### [2013-01-23](/news/2013/01/23/index.md)
 
-##### parliamentary election
+##### Parliamentary election
 # A parliamentary election is held in Jordan with boycotting by the opposition, which alleges fraud. 
 
 

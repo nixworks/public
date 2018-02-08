@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/25/at-least-24-people-are-killed-and-50-people-inj
 
 ### [2010-06-25](/news/2010/06/25/index.md)
 
-##### bus
+##### Bus
 # At least 24 people are killed and 50 people injured after an overcrowded bus crashes into a truck in the Patna district of Bihar state in India. 
 
 At least 24 people were killed and 50 injured when an overcrowded bus collided with a truck in eastern India.

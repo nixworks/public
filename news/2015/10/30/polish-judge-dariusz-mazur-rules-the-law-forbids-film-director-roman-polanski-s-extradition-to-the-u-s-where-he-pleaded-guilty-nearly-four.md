@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/30/polish-judge-dariusz-mazur-rules-the-law-forbid
 
 ### [2015-10-30](/news/2015/10/30/index.md)
 
-##### judiciary reforms
+##### Judiciary reforms
 # Polish Judge Dariusz Mazur rules the law forbids film director Roman Polanski's extradition to the U.S. where he pleaded guilty nearly four decades ago to having sex with a minor. The prosecutors can appeal the ruling. 
 
 The film director served 42 days in prison in 1977 after pleading guilty to having sex with a minor but then fled to France.

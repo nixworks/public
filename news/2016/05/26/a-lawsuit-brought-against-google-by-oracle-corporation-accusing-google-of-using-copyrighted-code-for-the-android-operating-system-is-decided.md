@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/26/a-lawsuit-brought-against-google-by-oracle-corp
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
-##### lawsuit
+##### Lawsuit
 # A lawsuit brought against Google by Oracle Corporation accusing Google of using copyrighted code for the Android operating system is decided in Google's favor. 
 
 The decision, which will be appealed, means that Google owes its Silicon Valley rival nothing for code it used in the Android operating system.

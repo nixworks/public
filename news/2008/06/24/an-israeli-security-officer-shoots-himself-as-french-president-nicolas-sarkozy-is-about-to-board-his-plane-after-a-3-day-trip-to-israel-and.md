@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/24/an-israeli-security-officer-shoots-himself-as-f
 
 ### [2008-06-24](/news/2008/06/24/index.md)
 
-##### suicide
+##### Suicide
 #  An Israeli security officer shoots himself as French President Nicolas Sarkozy is about to board his plane after a 3-day trip to Israel and the West Bank. 
 
 

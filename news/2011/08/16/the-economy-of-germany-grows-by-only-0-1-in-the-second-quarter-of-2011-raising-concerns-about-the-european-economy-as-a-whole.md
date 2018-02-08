@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/16/the-economy-of-germany-grows-by-only-0-1-in-the
 
 ### [2011-08-16](/news/2011/08/16/index.md)
 
-##### economy of Germany
+##### Economy of Germany
 # The economy of Germany grows by only 0.1% in the second quarter of 2011, raising concerns about the European economy as a whole. 
 
 

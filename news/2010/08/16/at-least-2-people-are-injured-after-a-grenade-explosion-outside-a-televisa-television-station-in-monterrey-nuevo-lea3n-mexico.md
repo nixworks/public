@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/16/at-least-2-people-are-injured-after-a-grenade-e
 
 ### [2010-08-16](/news/2010/08/16/index.md)
 
-##### grenade
+##### Grenade
 # At least 2 people are injured after a grenade explosion outside a Televisa television station in Monterrey, Nuevo Leon, Mexico. 
 
 

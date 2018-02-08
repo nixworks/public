@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/11/scientists-find-a-fossilised-head-and-identify-
 
 ### [2004-02-11](/news/2004/02/11/index.md)
 
-##### fossil
+##### Fossil
 #  Scientists find a fossilised head and identify it as part of a 400 million-year-old fly, making it the oldest known insect.
 
 

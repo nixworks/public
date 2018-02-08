@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/19/artillery-and-mortar-fire-again-rock-georgia-s-
 
 ### [2004-08-19](/news/2004/08/19/index.md)
 
-##### ordnance
+##### Ordnance
 #  Artillery and mortar fire again rock Georgia's breakaway republic of South Ossetia, scuppering efforts to enforce a ceasefire. 
 
 

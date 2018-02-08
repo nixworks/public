@@ -5,13 +5,13 @@ Formats: [HTML](2017/04/22/index.html)  [JSON](2017/04/22/index.json)  [XML](201
 
 ##### Pope Francis
 ### [Pope Francis, while honoring Christians killed under Nazism, communism, dictatorships, and terrorism at Rome's Basilica of St. Bartholomew, adds to those named the wife of a Muslim he met in Lesbos, Greece, who was killed by terrorists because she wouldn't throw down her crucifix. Francis referred to the Lesbos camp as a 'concentration camp' noting, despite the good will of local communities, many refugee camps are overcrowded and little more than prisons. ](/news/2017/04/22/pope-francis-while-honoring-christians-killed-under-nazism-communism-dictatorships-and-terrorism-at-rome-s-basilica-of-st-bartholomew.md)
-_Context: Nazism, Rome's Basilica of St. Bartholomew, Pope Francis, Muslim, refugee camp, Greece, communism, Lesbos, Christian, terrorism, dictator_
+_Context: Nazism, Christian, terrorism, Rome's Basilica of St. Bartholomew, communism, dictator, Lesbos, Muslim, refugee camp, Greece, Pope Francis_
 
 ##### American Airlines
 ### [American Airlines announces it is investigating a viral video of an incident on a San Francisco to Dallas flight which shows a male flight attendant upsetting a female passenger, who he had allegedly forcefully taken a baby buggy from, and threatening to fight a male passenger. The American Airlines employee has been suspended. ](/news/2017/04/22/american-airlines-announces-it-is-investigating-a-viral-video-of-an-incident-on-a-san-francisco-to-dallas-flight-which-shows-a-male-flight-a.md)
  American Airlines on Saturday apologized to a female passenger and suspended an employee after a video showing an onboard clash over a baby stroller went viral
 
-##### king
+##### King
 ### [Saudi Arabia's King Salman issues a number of royal decrees, one which restores financial allowances for civil servants and military personnel that had been cut seven months ago in response to the drop in oil prices. ](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-royal-decrees-one-which-restores-financial-allowances-for-civil-servants-and-military-personn.md)
  Saudi Arabia reinstated financial allowances for civil servants and military personnel on Saturday after better-than-expected budget figures, ending unpopular 
 
@@ -23,7 +23,7 @@ Guus Kouwenhoven convicted of selling weapons to ex-president Charles Taylor dur
 ### [The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. ](/news/2017/04/22/the-campaign-period-officially-ends-french-citizens-living-overseas-begin-voting-a-day-ahead-of-when-the-polls-open-in-france-final-opinio.md)
 The final hours of campaigning for the French presidential elections have been overshadowed by the shooting of police in central Paris. A tightly-contested first round is expected among the four main candidates.
 
-##### riot police
+##### Riot police
 ### [Thousands of German riot police are deployed to control protesters opposing the Alternative for Germany at the party's conference in Cologne. ](/news/2017/04/22/thousands-of-german-riot-police-are-deployed-to-control-protesters-opposing-the-alternative-for-germany-at-the-party-s-conference-in-cologne.md)
 Thousands of leftwing demonstrators are expected to protest in Cologne, with fears of clashes.
 

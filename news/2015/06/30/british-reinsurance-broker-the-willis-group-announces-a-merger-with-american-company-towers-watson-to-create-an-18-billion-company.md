@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/30/british-reinsurance-broker-the-willis-group-ann
 
 ### [2015-06-30](/news/2015/06/30/index.md)
 
-##### reinsurance
+##### Reinsurance
 # British reinsurance broker the Willis Group announces a merger with American company Towers Watson to create an $18 billion company. 
 
 

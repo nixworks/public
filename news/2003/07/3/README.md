@@ -9,7 +9,7 @@ _Context: World Meteorological Organisation, global warming_
 
 ##### George W. Bush
 ### [ President Bush continued to consider whether or not to contribute United States troops to a peacekeeping mission in Liberia. ](/news/2003/07/3/president-bush-continued-to-consider-whether-or-not-to-contribute-united-states-troops-to-a-peacekeeping-mission-in-liberia.md)
-_Context: U.N. peacekeeper, Liberia, George W. Bush_
+_Context: George W. Bush, Liberia, U.N. peacekeeper_
 
 ## [Previous Day...](/news/2003/07/2/index.md)
 

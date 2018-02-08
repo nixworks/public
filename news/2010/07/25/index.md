@@ -15,7 +15,7 @@ Al-Qaeda in the Islamic Maghreb says it has killed a French hostage being held i
 ### [There are reports that an airstrike on a village in Helmand Province has killed 45 civilians, including children, who were sheltering from violence. ](/news/2010/07/25/there-are-reports-that-an-airstrike-on-a-village-in-helmand-province-has-killed-45-civilians-including-children-who-were-sheltering-from-v.md)
 _Context: Helmand Province_
 
-##### yesterday's death stampede
+##### Yesterday's death stampede
 ### [Survivors blame officials for yesterday's death stampede at the Love Parade in Duisburg. ](/news/2010/07/25/survivors-blame-officials-for-yesterday-s-death-stampede-at-the-love-parade-in-duisburg.md)
 Survivors of a stampede at a dance music festival in Germany, in which 19 people were killed, blame organisers for the deaths.
 
@@ -25,15 +25,15 @@ BP chief Tony Hayward, widely criticised for his handling of the US oil spill, i
 
 ##### United States Secretary of the Treasury
 ### [United States Secretary of the Treasury Tim Geithner pushes for Congress to allow the tax cuts for high-income taxpayers in the Jobs and Growth Tax Relief Reconciliation Act of 2003 to expire at the end of 2010, while extending the act's tax cuts for middle- and lower-income taxpayers. ](/news/2010/07/25/united-states-secretary-of-the-treasury-tim-geithner-pushes-for-congress-to-allow-the-tax-cuts-for-high-income-taxpayers-in-the-jobs-and-gro.md)
-_Context: Tim Geithner, Jobs and Growth Tax Relief Reconciliation Act of 2003, lawmakers, United States Secretary of the Treasury_
+_Context: Jobs and Growth Tax Relief Reconciliation Act of 2003, Tim Geithner, lawmakers, United States Secretary of the Treasury_
 
 ##### Iraq Inquiry
 ### [Iraq Inquiry witness Carne Ross alleges the British government is covering up "embarrassing testimony" about its decision to invade Iraq in 2003. ](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.md)
-_Context: Carne Ross, Iraq Inquiry_
+_Context: Iraq Inquiry, Carne Ross_
 
 ##### Burma
 ### [Burmese military ruler General Than Shwe begins a five-day visit to India. ](/news/2010/07/25/burmese-military-ruler-general-than-shwe-begins-a-five-day-visit-to-india.md)
-_Context: Burma, India, Than Shwe_
+_Context: India, Burma, Than Shwe_
 
 ##### Kampala
 ### [At the African Union summit in Kampala, attended by 53 countries, its president, the President of Malawi Bingu wa Mutharika, states International Criminal Court indictments against the Sudanese president undermine African peace and security and calls for the issue to be solved in a different way. ](/news/2010/07/25/at-the-african-union-summit-in-kampala-attended-by-53-countries-its-president-the-president-of-malawi-bingu-wa-mutharika-states-internat.md)
@@ -45,11 +45,11 @@ Former Cuban President Fidel Castro makes his first reported appearance outside 
 
 ##### Alberto Contador
 ### [Alberto Contador wins the 2010 Tour de France, his third, as seven-times winner Lance Armstrong makes his final appearance. ](/news/2010/07/25/alberto-contador-wins-the-2010-tour-de-france-his-third-as-seven-times-winner-lance-armstrong-makes-his-final-appearance.md)
-_Context: Alberto Contador, 2010 Tour de France, Lance Armstrong_
+_Context: 2010 Tour de France, Alberto Contador, Lance Armstrong_
 
 ##### Fernando Alonso
 ### [Fernando Alonso wins the German Grand Prix ahead of Ferrari team-mate Felipe Massa at Hockenheim. ](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.md)
-_Context: Ferrari, German Grand Prix, Hockenheim, Fernando Alonso, Felipe Massa_
+_Context: German Grand Prix, Ferrari, Felipe Massa, Fernando Alonso, Hockenheim_
 
 ## [Previous Day...](/news/2010/07/24/index.md)
 

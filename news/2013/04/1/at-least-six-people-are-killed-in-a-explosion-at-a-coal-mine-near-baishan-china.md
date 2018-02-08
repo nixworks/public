@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/1/at-least-six-people-are-killed-in-a-explosion-at
 
 ### [2013-04-1](/news/2013/04/1/index.md)
 
-##### coal mine
+##### Coal mine
 # At least six people are killed in a explosion at a coal mine near Baishan, China. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/6/a-tsunami-warning-is-issued-for-a-wide-range-of-
 
 ### [2013-02-6](/news/2013/02/6/index.md)
 
-##### tsunami
+##### Tsunami
 # A tsunami warning is issued for a wide range of islands in the South Pacific after a magnitude 8.0 earthquake occurs off the coast of the Solomon Islands. 
 
 SIX bodies, including that of a child, have been found in the sodden wreckage left by a tsunami that smashed into villages in the Solomon Islands.

@@ -31,7 +31,7 @@ One person dies, three are unaccounted for and five are injured after the collap
 ### [At least two people are dead and 30 injured after a suspected tornado hits a trailer park near the village of Convent, Louisiana. At least one other person has died in the Deep South of the United States. ](/news/2016/02/23/at-least-two-people-are-dead-and-30-injured-after-a-suspected-tornado-hits-a-trailer-park-near-the-village-of-convent-louisiana-at-least-o.md)
 A suspected tornado slammed into a trailer park in Sugar Hill RV park near Convent, Louisiana damaging dozens of trailers
 
-##### magnitude
+##### Magnitude
 ### [A 4.8 magnitude earthquake strikes near Wasco, California, about 25 miles northwest of Bakersfield. There are no reports of damage or injuries. ](/news/2016/02/23/a-4-8-magnitude-earthquake-strikes-near-wasco-california-about-25-miles-northwest-of-bakersfield-there-are-no-reports-of-damage-or-injuri.md)
 A magnitude 4.8 earthquake was reported Tuesday afternoon three miles from Wasco, Calif., according to the U.S. Geological Survey.
 
@@ -49,7 +49,7 @@ In a move likely to further increase already volatile tensions in the South Chin
 
 ##### U.S. President
 ### [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-state.md)
-_Context: Cuba, Barack Obama, detainee, U.S. President_
+_Context: Barack Obama, detainee, Cuba, U.S. President_
 
 ##### 2016 U.S. presidential election
 ### [Republican Party voters, in precinct gatherings, hold the Nevada caucuses with Donald Trump winning, Marco Rubio coming second, and Ted Cruz finishing in third place. ](/news/2016/02/23/republican-party-voters-in-precinct-gatherings-hold-the-nevada-caucuses-with-donald-trump-winning-marco-rubio-coming-second-and-ted-cruz.md)

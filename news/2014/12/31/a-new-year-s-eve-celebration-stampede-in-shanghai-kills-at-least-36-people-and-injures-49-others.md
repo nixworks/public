@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/31/a-new-year-s-eve-celebration-stampede-in-shangh
 
 ### [2014-12-31](/news/2014/12/31/index.md)
 
-##### stampede
+##### Stampede
 # A New Year's Eve celebration stampede in Shanghai kills at least 36 people and injures 49 others. 
 
 

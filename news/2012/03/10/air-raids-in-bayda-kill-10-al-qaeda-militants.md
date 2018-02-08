@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/10/air-raids-in-bayda-kill-10-al-qaeda-militants.h
 
 ### [2012-03-10](/news/2012/03/10/index.md)
 
-##### al-Bayda
+##### Al-Bayda
 # Air raids in Bayda kill 10 Al-Qaeda militants. 
 
 Air strikes are launched against suspected al-Qaeda targets in southern Yemen, killing up to 45 militants, reports say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/5/protests-against-the-2003-iraq-war-students-prot
 
 ### [2003-03-5](/news/2003/03/5/index.md)
 
-##### protester
+##### Protester
 #  Protests against the 2003 Iraq war: Students protest and go on strike in a number of countries around the world.
 
 

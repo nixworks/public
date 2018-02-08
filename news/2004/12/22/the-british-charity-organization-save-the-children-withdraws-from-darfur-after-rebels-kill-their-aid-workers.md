@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/22/the-british-charity-organization-save-the-child
 
 ### [2004-12-22](/news/2004/12/22/index.md)
 
-##### charity
+##### Charity
 #  The British charity organization Save the Children withdraws from Darfur after rebels kill their aid workers. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/29/2008-sichuan-earthquake-china-begins-inspecting
 
 ### [2008-05-29](/news/2008/05/29/index.md)
 
-##### deadly earthquake
+##### Deadly earthquake
 #  2008 Sichuan earthquake: China begins inspecting the ruins of thousands of schools that collapsed in the Sichuan earthquake, searching for clues about why they crumbled. 
 
 

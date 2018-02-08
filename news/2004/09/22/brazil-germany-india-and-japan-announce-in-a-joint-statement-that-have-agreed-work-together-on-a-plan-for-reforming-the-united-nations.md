@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/22/brazil-germany-india-and-japan-announce-in-a-jo
 
 ### [2004-09-22](/news/2004/09/22/index.md)
 
-##### reforming the United Nations
+##### Reforming the United Nations
 #  Brazil, Germany, India, and Japan announce in a joint statement that have agreed work together on a plan for reforming the United Nations, including securing a permanent seat or seats on the UN Security Council for at least one of the four nations. 
 
 

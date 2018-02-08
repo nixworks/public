@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/31/a-plea-bargain-in-a-us-court-reveals-details-of
 
 ### [2004-07-31](/news/2004/07/31/index.md)
 
-##### plea bargain
+##### Plea bargain
 #  A plea bargain in a US court reveals details of an alleged Libyan plot to assassinate Saudi Arabian Crown Prince Abdullah. Leading US Muslim activist Abdurahman Alamoudi, founder of the American Muslim Council, admits taking part in the plot, as he pleads guilty to three charges of illegal dealings with Libya. US Attorney General John Ashcroft says the case has provided "critical intelligence" in the war on terror. 
 
 

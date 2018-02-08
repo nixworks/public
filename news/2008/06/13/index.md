@@ -13,27 +13,27 @@ Nearly all of anestimated 1,150 prisoners, including some 400 Taliban inmates,ha
 
 ##### Zimbabwe
 ### [ A Zimbabwe judge orders the police to bring Tendai Biti, the arrested Secretary-General of the Movement for Democratic Change to court on Saturday. ](/news/2008/06/13/a-zimbabwe-judge-orders-the-police-to-bring-tendai-biti-the-arrested-secretary-general-of-the-movement-for-democratic-change-to-court-on-s.md)
-_Context: Movement for Democratic Change, Tendai Biti, Zimbabwe_
+_Context: Zimbabwe, Tendai Biti, Movement for Democratic Change_
 
-##### mad cow disease
+##### Mad cow disease
 ### [ Kim Jong-hoon, the South Korean Minister for Trade, heads to the United States to push for additional safeguards against mad cow disease in talks with Susan Schwab, the United States Trade Representative as protests continue in South Korea over the decision to resume importing beef from the United States. ](/news/2008/06/13/kim-jong-hoon-the-south-korean-minister-for-trade-heads-to-the-united-states-to-push-for-additional-safeguards-against-mad-cow-disease-in.md)
-_Context: South Korea, mad cow disease, Susan Schwab, beef, United States, United States Trade Representative_
+_Context: South Korea, Susan Schwab, United States Trade Representative, mad cow disease, beef, United States_
 
 ##### Governor of Iowa
 ### [ The Governor of Iowa Chet Culver declares that 83 of the 99 counties in Iowa are disaster areas as flooding leads to evacuations in Cedar Rapids and Des Moines. ](/news/2008/06/13/the-governor-of-iowa-chet-culver-declares-that-83-of-the-99-counties-in-iowa-are-disaster-areas-as-flooding-leads-to-evacuations-in-cedar-r.md)
-_Context: disaster area, Iowa, Governor of Iowa, Cedar Rapids, Chet Culver, Des Moines, Iowa_
+_Context: Governor of Iowa, Des Moines, Iowa, Iowa, Chet Culver, Cedar Rapids, disaster area_
 
 ##### Nouri al-Maliki
 ### [ Nouri al-Maliki, the Prime Minister of Iraq, states talks with the United States on a long-term security agreement have reached "a dead end". ](/news/2008/06/13/nouri-al-maliki-the-prime-minister-of-iraq-states-talks-with-the-united-states-on-a-long-term-security-agreement-have-reached-a-dead-end.md)
-_Context: United States, Iraq Prime Minister, Nouri al-Maliki_
+_Context: Nouri al-Maliki, Iraq Prime Minister, United States_
 
-##### hydrogen sulfide
+##### Hydrogen sulfide
 ### [ A hydrogen sulfide leak at a fertiliser plant in Kunming, capital of Yunnan Province in China, kills six people and injures 28. ](/news/2008/06/13/a-hydrogen-sulfide-leak-at-a-fertiliser-plant-in-kunming-capital-of-yunnan-province-in-china-kills-six-people-and-injures-28.md)
 A poisonous gas leak at a fertiliser plant in south-west China has killed six people and left 28 others ill, state media reported.
 
 ##### Sagar Island
 ### [ At least 40 people are injured on Sagar Island in the Ganges delta in clashes between supporters of the Hindu nationalist Rashtriya Swayamsevak Sangh and local Muslim villagers. ](/news/2008/06/13/at-least-40-people-are-injured-on-sagar-island-in-the-ganges-delta-in-clashes-between-supporters-of-the-hindu-nationalist-rashtriya-swayams.md)
-_Context: Sagar Island, Ganges, Hindu, Rashtriya Swayamsevak Sangh_
+_Context: Ganges, Rashtriya Swayamsevak Sangh, Sagar Island, Hindu_
 
 ##### Finance Minister
 ### [ Finance ministers from the Group of Eight meet in Osaka, Japan with rising food and oil prices high on the Agenda. ](/news/2008/06/13/finance-ministers-from-the-group-of-eight-meet-in-osaka-japan-with-rising-food-and-oil-prices-high-on-the-agenda.md)
@@ -41,11 +41,11 @@ _Context: Finance Minister, Japan, Osaka, Group of Eight_
 
 ##### Pakistan
 ### [ Pakistani lawyers hold a protest rally in Islamabad to demand the reinstatement of judges sacked by the President of Pakistan Pervez Musharraf. ](/news/2008/06/13/pakistani-lawyers-hold-a-protest-rally-in-islamabad-to-demand-the-reinstatement-of-judges-sacked-by-the-president-of-pakistan-pervez-mushar.md)
-_Context: Islamabad, Pervez Musharraf, president, Pakistan_
+_Context: Pakistan, president, Pervez Musharraf, Islamabad_
 
 ##### China
 ### [ The People's Republic of China and Taiwan agree to regular civil aviation flights across the Taiwan Strait for the first time since 1949 with flights limited to weekend charters. ](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.md)
-_Context: civil aviation, Taiwan Strait, 1949, Taiwan, China_
+_Context: China, civil aviation, Taiwan Strait, 1949, Taiwan_
 
 ##### Irish
 ### [ Irish voters reject the Treaty of Lisbon in a referendum, thus putting into question the reform programme of the European Union. ](/news/2008/06/13/irish-voters-reject-the-treaty-of-lisbon-in-a-referendum-thus-putting-into-question-the-reform-programme-of-the-european-union.md)

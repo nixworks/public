@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/13/an-airstrike-kills-nine-al-qaida-fighters-in-so
 
 ### [2012-06-13](/news/2012/06/13/index.md)
 
-##### al Qaida
+##### Al Qaida
 # An airstrike kills nine al Qaida fighters in southern Yemen as the Yemeni military maintain pressure on the group a day after government troops backed by armed tribesmen recaptured two militant strongholds. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

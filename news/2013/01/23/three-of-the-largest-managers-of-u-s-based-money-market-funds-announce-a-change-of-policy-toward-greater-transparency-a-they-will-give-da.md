@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/23/three-of-the-largest-managers-of-u-s-based-mone
 
 ### [2013-01-23](/news/2013/01/23/index.md)
 
-##### money market fund
+##### Money market fund
 # Three of the largest managers of U.S.-based money market funds announce a change of policy toward greater transparency - they will give daily rather than monthly data on fund assets. 
 
 Three of the biggest managers of U.S. money market funds said on Wednesday they will start disclosing fund values each day rather than monthly, a move that could boost investor confidence and blunt new regulations.

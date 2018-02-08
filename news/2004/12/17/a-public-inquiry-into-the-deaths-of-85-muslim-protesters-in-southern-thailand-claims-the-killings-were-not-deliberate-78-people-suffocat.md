@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/17/a-public-inquiry-into-the-deaths-of-85-muslim-p
 
 ### [2004-12-17](/news/2004/12/17/index.md)
 
-##### public inquiry
+##### Public inquiry
 #  A public inquiry into the deaths of 85 Muslim protesters in southern Thailand claims the killings were "not deliberate". 78 people suffocated to death after being piled into army trucks by Thai security forces; 7 were shot at the separatist protests on October 25. 
 
 

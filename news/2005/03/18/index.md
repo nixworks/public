@@ -5,7 +5,7 @@ Formats: [HTML](2005/03/18/index.html)  [JSON](2005/03/18/index.json)  [XML](200
 
 ##### Woman Imam in NYC
 ### [ Woman Imam in NYC: Amina Wadud, an African American Muslim, and a professor of Islamic studies at Virginia Commonwealth University, led a congregation of about 60 women and 40 men in the weekly Muslim Friday, or Jumu'uah, prayer, despite the disapproval of mainstream Muslim scholars. ](/news/2005/03/18/woman-imam-in-nyc-amina-wadud-an-african-american-muslim-and-a-professor-of-islamic-studies-at-virginia-commonwealth-university-led-a-c.md)
-_Context: Amina Wadud, Woman Imam in NYC, Islamic studies, black, Virginia Commonwealth University, Jumu'uah_
+_Context: Jumu'uah, Amina Wadud, black, Woman Imam in NYC, Virginia Commonwealth University, Islamic studies_
 
 ##### Tel Aviv
 ### [ In Tel Aviv, 10,000 people rallied to support Israel's unilateral disengagement plan of 2004 and support Ariel Sharon's plan to leave the Gaza Strip now. ](/news/2005/03/18/in-tel-aviv-10-000-people-rallied-to-support-israel-s-unilateral-disengagement-plan-of-2004-and-support-ariel-sharon-s-plan-to-leave-the-g.md)
@@ -17,19 +17,19 @@ _Context: Seoul, Liancourt Rocks_
 
 ##### Ukraine
 ### [ The government of Ukraine admits that 18 Kh-55 Granat nuclear-capable cruise missiles (without warheads) were smuggled to Iran and China by arms dealers. ](/news/2005/03/18/the-government-of-ukraine-admits-that-18-kh-55-granat-nuclear-capable-cruise-missiles-without-warheads-were-smuggled-to-iran-and-china-by.md)
-_Context: cruise missile, China, Kh-55 Granat, Iran, Ukraine_
+_Context: cruise missile, Ukraine, China, Kh-55 Granat, Iran_
 
 ##### Netherlands
 ### [ In the Netherlands, businessman Frans van Anraat is put on trial for allegedly selling chemicals to Saddam Hussein to make poison gas. He is accused of complicity to commit war crimes and genocide. ](/news/2005/03/18/in-the-netherlands-businessman-frans-van-anraat-is-put-on-trial-for-allegedly-selling-chemicals-to-saddam-hussein-to-make-poison-gas-he-i.md)
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
-##### visa
+##### Visa
 ### [ US denies diplomatic visa to Indian politician Narendra Modi, chief minister of Gujarat ](/news/2005/03/18/us-denies-diplomatic-visa-to-indian-politician-narendra-modi-chief-minister-of-gujarat.md)
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Solomon Islands
 ### [ In the Solomon Islands, militia leader Harold Keke and two others receive a life sentence for murdering Augustine Geve ](/news/2005/03/18/in-the-solomon-islands-militia-leader-harold-keke-and-two-others-receive-a-life-sentence-for-murdering-augustine-geve.md)
-_Context: Harold Keke, Augustine Geve, Solomon Islands, life sentence_
+_Context: life sentence, Solomon Islands, Harold Keke, Augustine Geve_
 
 ##### United Nations
 ### [ The United Nations fires one employee and suspends six others without pay for allegations of sexual abuse in the Democratic Republic of Congo. ](/news/2005/03/18/the-united-nations-fires-one-employee-and-suspends-six-others-without-pay-for-allegations-of-sexual-abuse-in-the-democratic-republic-of-con.md)
@@ -37,11 +37,11 @@ _Context: Democratic Republic of Congo, United Nations_
 
 ##### SMTH BBS
 ### [ The SMTH BBS, the most popular newsgroup-like Bulletin Board System among Chinese university students and graduates, is forced by the PRC government to shut down off-campus access. ](/news/2005/03/18/the-smth-bbs-the-most-popular-newsgroup-like-bulletin-board-system-among-chinese-university-students-and-graduates-is-forced-by-the-prc-g.md)
-_Context: SMTH BBS, China, newsgroup, Bulletin Board System_
+_Context: SMTH BBS, newsgroup, China, Bulletin Board System_
 
 ##### Private
 ### [ Private Johnson Beharry of the British Army becomes the first person to receive the Victoria Cross since 1982 and the first living recipient since 1969. ](/news/2005/03/18/private-johnson-beharry-of-the-british-army-becomes-the-first-person-to-receive-the-victoria-cross-since-1982-and-the-first-living-recipien.md)
-_Context: Victoria Cross, Private, Johnson Beharry, British Army_
+_Context: Private, British Army, Victoria Cross, Johnson Beharry_
 
 ## [Previous Day...](/news/2005/03/17/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/18/65-deaths-have-been-attributed-to-blizzards-ice
 
 ### [2007-01-18](/news/2007/01/18/index.md)
 
-##### blizzards
+##### Blizzards
 #  65 deaths have been attributed to blizzards, ice storms and freezing rain since Friday (January 12) in nine U.S. states, including 23 in Oklahoma and 10 in Texas. 
 
 

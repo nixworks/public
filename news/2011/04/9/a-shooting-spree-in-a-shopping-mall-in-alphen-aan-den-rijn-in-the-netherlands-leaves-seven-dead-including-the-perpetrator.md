@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/9/a-shooting-spree-in-a-shopping-mall-in-alphen-aa
 
 ### [2011-04-9](/news/2011/04/9/index.md)
 
-##### shooting spree
+##### Shooting spree
 # A shooting spree in a shopping mall in Alphen aan den Rijn in the Netherlands leaves seven dead, including the perpetrator. 
 
 

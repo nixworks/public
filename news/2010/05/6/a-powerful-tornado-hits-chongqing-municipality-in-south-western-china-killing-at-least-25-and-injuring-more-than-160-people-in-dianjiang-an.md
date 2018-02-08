@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/6/a-powerful-tornado-hits-chongqing-municipality-i
 
 ### [2010-05-6](/news/2010/05/6/index.md)
 
-##### tornado
+##### Tornado
 # A powerful tornado hits Chongqing municipality in south-western China, killing at least 25 and injuring more than 160 people in Dianjiang and Liangping counties. 
 
 A tornado and strong winds in southwestern China killed 25 people and injured more than 150 early today, state media reported.

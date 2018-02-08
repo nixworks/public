@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/11/the-jury-is-selected-for-canadian-omar-khadr-s-
 
 ### [2010-08-11](/news/2010/08/11/index.md)
 
-##### jury
+##### Jury
 # The jury is selected for Canadian Omar Khadr's war crimes trial at Guantanamo Bay. 
 
 

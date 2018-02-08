@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-b
 
 ### [2006-10-28](/news/2006/10/28/index.md)
 
-##### genome
+##### Genome
 #  The genome of the honeybee "Apis mellifera" has been fully sequenced and analyzed. 
 
 

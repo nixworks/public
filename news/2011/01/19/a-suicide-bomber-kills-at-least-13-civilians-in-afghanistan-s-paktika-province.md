@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/19/a-suicide-bomber-kills-at-least-13-civilians-in
 
 ### [2011-01-19](/news/2011/01/19/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills at least 13 civilians in Afghanistan's Paktika Province. 
 
 

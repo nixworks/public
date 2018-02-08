@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/2/16-miners-are-trapped-underground-after-a-coal-m
 
 ### [2012-12-2](/news/2012/12/2/index.md)
 
-##### miner
+##### Miner
 # 16 miners are trapped underground after a coal mine was flooded in northeast China's Heilongjiang province. 
 
 

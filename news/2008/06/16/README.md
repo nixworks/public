@@ -5,23 +5,23 @@ Formats: [HTML](2008/06/16/index.html)  [JSON](2008/06/16/index.json)  [XML](200
 
 ##### Chad
 ### [ Chadian rebels take the town Biltine as they move toward the capital N'Djamena. ](/news/2008/06/16/chadian-rebels-take-the-town-biltine-as-they-move-toward-the-capital-n-djamena.md)
-_Context: Chad, N'Djamena, Biltine_
+_Context: Biltine, N'Djamena, Chad_
 
 ##### Taliban
 ### [ Hundreds of Taliban militants swarm in the Arghandab District of Kandahar Province with the Afghan government sending reinforcements to the nearby city of Kandahar. ](/news/2008/06/16/hundreds-of-taliban-militants-swarm-in-the-arghandab-district-of-kandahar-province-with-the-afghan-government-sending-reinforcements-to-the.md)
 Hundreds of Taliban fighters have swarmed an area outside Kandahar, in an apparent push for control just days after 400 Taliban members escaped from the Kandahar prison.
 
-##### ban
+##### Ban
 ### [ Same-sex marriage in California comes into effect following a court ruling on May 15, 2008. ](/news/2008/06/16/same-sex-marriage-in-california-comes-into-effect-following-a-court-ruling-on-may-15-2008.md)
 California beginsmarrying gay and lesbian couples on Monday afternoon in a steplikely to challenge other states where laws define marriage asonly between a man and a woman.
 
 ##### ICC
 ### [ International Criminal Court judges severely criticize prosecutors in the case against Thomas Lubanga. ](/news/2008/06/16/international-criminal-court-judges-severely-criticize-prosecutors-in-the-case-against-thomas-lubanga.md)
-_Context: ICC, Thomas Lubanga_
+_Context: Thomas Lubanga, ICC_
 
 ##### Israel
 ### [ Israel and Syria conclude talks on the Golan Heights issue held in Turkey. ](/news/2008/06/16/israel-and-syria-conclude-talks-on-the-golan-heights-issue-held-in-turkey.md)
-_Context: Syria, Israel, Golan Heights_
+_Context: Golan Heights, Israel, Syria_
 
 ##### Office for the Coordination of Humanitarian Affairs
 ### [ An official of the UN Office for the Coordination of Humanitarian Affairs reports that effect food crisis on Somalia is creating a worse humanitarian situation than the War in Darfur. ](/news/2008/06/16/an-official-of-the-un-office-for-the-coordination-of-humanitarian-affairs-reports-that-effect-food-crisis-on-somalia-is-creating-a-worse-hu.md)
@@ -29,11 +29,11 @@ _Context: Office for the Coordination of Humanitarian Affairs, Global food price
 
 ##### Tiger Woods
 ### [ Tiger Woods defeats Rocco Mediate in a playoff to win the 2008 U.S. Open Golf Championship. ](/news/2008/06/16/tiger-woods-defeats-rocco-mediate-in-a-playoff-to-win-the-2008-u-s-open-golf-championship.md)
-_Context: 2008 U.S. Open Golf Championship, Tiger Woods, Rocco Mediate_
+_Context: Rocco Mediate, Tiger Woods, 2008 U.S. Open Golf Championship_
 
 ##### European Union
 ### [ The European Union agrees to tougher sanctions against Iran for its alleged nuclear weapons program with the United Kingdom freezing assets of Iran's largest bank Bank Melli. ](/news/2008/06/16/the-european-union-agrees-to-tougher-sanctions-against-iran-for-its-alleged-nuclear-weapons-program-with-the-united-kingdom-freezing-assets.md)
-_Context: Iran, sanctions, United Kingdom, European Union, Iran and weapons of mass destruction, Bank Melli_
+_Context: European Union, Iran and weapons of mass destruction, United Kingdom, Iran, Bank Melli, sanctions_
 
 ##### France
 ### [ France announces plans to cut 54,000 defense jobs and push for a stronger European Security and Defence Policy as part of a new defense strategy. ](/news/2008/06/16/france-announces-plans-to-cut-54-000-defense-jobs-and-push-for-a-stronger-european-security-and-defence-policy-as-part-of-a-new-defense-str.md)
@@ -49,9 +49,9 @@ Japan on Monday turned back a Taiwan activist boat which approached a group of d
 
 ##### Summer 2008 China region floods
 ### [ Heavy rainstorm and major flooding continues in the South China region. Millions of people are affected in Anhui, Hunan, Jiangxi, Fujian and Guangdong. Tens of thousands of victims of the 2008 Sichuan earthquake are evacuated due to heavy rains as 65 people are dead or missing with flood warnings on the Yangtze River and Pearl River amongst other rivers. ](/news/2008/06/16/heavy-rainstorm-and-major-flooding-continues-in-the-south-china-region-millions-of-people-are-affected-in-anhui-hunan-jiangxi-fujian-an.md)
-_Context: Guangdong, Anhui, Yangtze River, Hunan, Jiangxi, Summer 2008 China region floods, flood, deadly earthquake, Fujian, Pearl_
+_Context: flood, Summer 2008 China region floods, deadly earthquake, Pearl, Jiangxi, Guangdong, Fujian, Hunan, Yangtze River, Anhui_
 
-##### suicide bombing
+##### Suicide bombing
 ### [ At least 12 police officers are killed and many more people wounded by a suicide bombing outside a police station in the town of Vavuniya in northern Sri Lanka. ](/news/2008/06/16/at-least-12-police-officers-are-killed-and-many-more-people-wounded-by-a-suicide-bombing-outside-a-police-station-in-the-town-of-vavuniya-i.md)
 _Context: Sri Lanka, suicide bombing, Vavuniya_
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/27/a-landslide-in-the-town-of-giraldo-in-colombia-
 
 ### [2010-09-27](/news/2010/09/27/index.md)
 
-##### landslide
+##### Landslide
 # A landslide in the town of Giraldo in Colombia's Antioquia Department buries 30 people with authorities believing there is little chance of them being rescued. 
 
 

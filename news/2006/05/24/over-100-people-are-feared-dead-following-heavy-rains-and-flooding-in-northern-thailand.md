@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/24/over-100-people-are-feared-dead-following-heavy
 
 ### [2006-05-24](/news/2006/05/24/index.md)
 
-##### flood
+##### Flood
 #  Over 100 people are feared dead following heavy rains and flooding in northern Thailand. 
 
 

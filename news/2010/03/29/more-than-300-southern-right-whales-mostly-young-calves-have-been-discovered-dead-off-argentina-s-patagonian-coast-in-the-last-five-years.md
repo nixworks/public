@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/29/more-than-300-southern-right-whales-mostly-youn
 
 ### [2010-03-29](/news/2010/03/29/index.md)
 
-##### southern right whale
+##### Southern right whale
 # More than 300 southern right whales, mostly young calves, have been discovered dead off Argentina's Patagonian coast in the last five years. 
 
 MORE than 300 southern right whales, most of them young calves, have been found dead in the past five years in the waters off Argentina&#039;s Patagonian coast, one of their most important breeding grounds.

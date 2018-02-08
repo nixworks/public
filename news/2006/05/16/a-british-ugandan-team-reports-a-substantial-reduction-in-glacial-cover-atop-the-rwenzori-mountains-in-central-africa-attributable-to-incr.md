@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/16/a-british-ugandan-team-reports-a-substantial-re
 
 ### [2006-05-16](/news/2006/05/16/index.md)
 
-##### glacier
+##### Glacier
 #  A British-Ugandan team reports a substantial reduction in glacial cover atop the Rwenzori Mountains in Central Africa, attributable to increases in air temperature over the past four decades. This "Mountains of the Moon", according to 2nd Century geographer Ptolemy, is one of the sources of the Nile, and is projected in the study to disappear in two decades. 
 
 

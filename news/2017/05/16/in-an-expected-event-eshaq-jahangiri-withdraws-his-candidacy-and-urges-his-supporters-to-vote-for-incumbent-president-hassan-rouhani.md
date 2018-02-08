@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/16/in-an-expected-event-eshaq-jahangiri-withdraws-
 
 ### [2017-05-16](/news/2017/05/16/index.md)
 
-##### re-elected
+##### Re-elected
 # In an expected event, Eshaq Jahangiri withdraws his candidacy and urges his supporters to vote for incumbent president Hassan Rouhani. 
 
 Eshaq Jahangiri pulled out to smooth the path for the moderate incumbent, Hassan Rouhani.

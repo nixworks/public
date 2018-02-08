@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/9/roman-catholic-child-sexual-abuse-investigation-
 
 ### [2010-03-9](/news/2010/03/9/index.md)
 
-##### sexual abuse
+##### Sexual abuse
 # Roman Catholic child sexual abuse investigation: The Dutch Catholic Church apologises and the country's religious leaders request an independent inquiry. A monastery head in Salzburg admits abuse of a boy more than four decades ago. The brother of Pope Benedict XVI admits physically disciplining students at a school in Germany before corporal punishment was banned in 1980. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/23/at-least-17-civilians-including-a-child-are-kil
 
 ### [2008-05-23](/news/2008/05/23/index.md)
 
-##### claymore mine
+##### Claymore mine
 #  At least 17 civilians including a child are killed in a claymore mine explosion in Kilinochchi, North of Sri Lanka. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/4/five-of-the-terrorists-who-attacked-an-indian-ai
 
 ### [2016-01-4](/news/2016/01/4/index.md)
 
-##### attack on Pathankot air base
+##### Attack on Pathankot air base
 # Five of the terrorists who attacked an Indian Air Force base in Pathankot, Punjab are reported to have been killed; mopping-up and search operations continue. National Security Guard officials state the operations will continue until the air base is made safe. 
 
 Reviewing the Pathankot air base attack, Prime Minister Narendra Modi is currently meeting with Parrikar, Swaraj and NSA Ajit Doval. Two terrorists are still holed-up inside the base.

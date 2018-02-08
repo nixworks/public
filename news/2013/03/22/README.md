@@ -7,9 +7,9 @@ Formats: [HTML](2013/03/22/index.html)  [JSON](2013/03/22/index.json)  [XML](201
 ### [Pakistan officials say that a US drone strike has killed 4 suspected insurgents in a car in Datta Khel in North Waziristan. ](/news/2013/03/22/pakistan-officials-say-that-a-us-drone-strike-has-killed-4-suspected-insurgents-in-a-car-in-datta-khel-in-north-waziristan.md)
 The attack hit a vehicle in northwestern Pakistan late on Thursday night, government officials said.
 
-##### al-Qaeda
+##### Al-Qaeda
 ### [Two al-Qaeda fighters and two pro-government militiamen are killed in clashes in Jaar, Yemen. ](/news/2013/03/22/two-al-qaeda-fighters-and-two-pro-government-militiamen-are-killed-in-clashes-in-jaar-yemen.md)
-_Context: Ja'ar, Yemen, al-Qaeda_
+_Context: Yemen, al-Qaeda, Ja'ar_
 
 ##### United States
 ### [American alternative rock band My Chemical Romance announces their breakup in one paragraph after a musical career spanning 12 years. ](/news/2013/03/22/american-alternative-rock-band-my-chemical-romance-announces-their-breakup-in-one-paragraph-after-a-musical-career-spanning-12-years.md)
@@ -23,13 +23,13 @@ A portrait of actor Hugo Weaving by Sydney artist Del Kathryn Barton has won thi
 ### [The People's Republic of China levies anti-dumping charges on the chemical resorcinol imported from the United States and Japan. ](/news/2013/03/22/the-people-s-republic-of-china-levies-anti-dumping-charges-on-the-chemical-resorcinol-imported-from-the-united-states-and-japan.md)
 China levied final anti-dumping duties on the chemical resorcinol imported from the United States and Japan, the Ministry of Commerce said on Friday, marking the latest in a series of tariffs on imported chemicals.
 
-##### collapse
+##### Collapse
 ### [2012-2013 Cypriot financial crisis: Minister of Finance of Cyprus Michael Sarris says that his talks with officials in Russia about a possible rescue package for Cypriot banks have led nowhere. ](/news/2013/03/22/2012a2013-cypriot-financial-crisis-minister-of-finance-of-cyprus-michael-sarris-says-that-his-talks-with-officials-in-russia-about-a-poss.md)
 European and Cypriot officials were locked in talks to find a formula to avert the Mediterranean island’s financial collapse, struggling to forge consensus on a bailout package before the European Central Bank cuts funding.
 
-##### snowfall
+##### Snowfall
 ### [Heavy snowfall causes widespread disruption to many parts of the United Kingdom, while torrential rain brings floods to South West England. ](/news/2013/03/22/heavy-snowfall-causes-widespread-disruption-to-many-parts-of-the-united-kingdom-while-torrential-rain-brings-floods-to-south-west-england.md)
-_Context: snowfall, South West England, United Kingdom_
+_Context: snowfall, United Kingdom, South West England_
 
 ##### 2013 Thailand refugee camp fire
 ### [2013 Thailand refugee camp fire: At least 30 people are killed and 200 are injured after a fire destroys a camp containing Burmese refugees near Ban Mae, Thailand. ](/news/2013/03/22/2013-thailand-refugee-camp-fire-at-least-30-people-are-killed-and-200-are-injured-after-a-fire-destroys-a-camp-containing-burmese-refugees.md)
@@ -41,7 +41,7 @@ One hundred kilograms of horsemeat imported from Hungary and labelled as beef ha
 
 ##### U.S. President
 ### [President of the United States Barack Obama visits Jordan and meets with King Abdullah II. He warns of extremist threat in Syria. ](/news/2013/03/22/president-of-the-united-states-barack-obama-visits-jordan-and-meets-with-king-abdullah-ii-he-warns-of-extremist-threat-in-syria.md)
-_Context: visit, U.S. President, United States, Abdullah II of Jordan, Barack Obama, Syria, Jordan_
+_Context: Abdullah II of Jordan, Jordan, Syria, Barack Obama, United States, visit, U.S. President_
 
 ##### Xi Jinping
 ### [Xi Jinping heads to Russia on the first stop of his maiden overseas tour as President of China. ](/news/2013/03/22/xi-jinping-heads-to-russia-on-the-first-stop-of-his-maiden-overseas-tour-as-president-of-china.md)
@@ -71,33 +71,33 @@ Two tourists, an Israeli man and a Norwegian woman, have been kidnapped by armed
 ### [Rwandan accused war criminal Bosco Ntaganda is transferred into the custody of the International Criminal Court. ](/news/2013/03/22/rwandan-accused-war-criminal-bosco-ntaganda-is-transferred-into-the-custody-of-the-international-criminal-court.md)
 Bosco Ntaganda has been taken into custody and is being flown to The Hague to stand trial.
 
-##### shooting
+##### Shooting
 ### [A shooting at Marine Corps Base Quantico in Virginia, United States, kills three people, including the suspected shooter. ](/news/2013/03/22/a-shooting-at-marine-corps-base-quantico-in-virginia-united-states-kills-three-people-including-the-suspected-shooter.md)
-_Context: shooting, Virginia, United States, Marine Corps Base Quantico_
+_Context: Virginia, shooting, United States, Marine Corps Base Quantico_
 
-##### state of emergency
+##### State of emergency
 ### [A state of emergency is imposed in the Burmese town of Meiktila after at least twenty people are killed in communal violence. ](/news/2013/03/22/a-state-of-emergency-is-imposed-in-the-burmese-town-of-meiktila-after-at-least-twenty-people-are-killed-in-communal-violence.md)
 Burma imposes a state of emergency in the town of Meiktila following three days of communal violence between Buddhists and Muslims.
 
 ##### Najib Mikati
 ### [Najib Mikati announces his resignation as Prime Minister of Lebanon. ](/news/2013/03/22/najib-mikati-announces-his-resignation-as-prime-minister-of-lebanon.md)
-_Context: Najib Mikati, Prime Minister of Lebanon, Lebanon_
+_Context: Najib Mikati, Prime Minister of Lebanon, Lebanese_
 
 ##### Australian Labor Party
 ### [Several Ministers and Australian Labor Party figures resign or are sacked following a leadership spill including Simon Crean, Martin Ferguson, Chris Bowen, Kim Carr, Richard Marles, Ed Husic and Joel Fitzgibbon. ](/news/2013/03/22/several-ministers-and-australian-labor-party-figures-resign-or-are-sacked-following-a-leadership-spill-including-simon-crean-martin-ferguso.md)
-_Context: Chris Bowen, leadership spill, Richard Marles, Martin Ferguson, Joel Fitzgibbon, Ed Husic, Simon Crean, Kim Carr, Australian Labor Party_
+_Context: Chris Bowen, Joel Fitzgibbon, Ed Husic, Richard Marles, Australian Labor Party, Simon Crean, Kim Carr, Martin Ferguson, leadership spill_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is being investigated over claims of illegal donations received from the country's richest woman, Liliane Bettencourt of L'Oreal. ](/news/2013/03/22/former-president-of-france-nicolas-sarkozy-is-being-investigated-over-claims-of-illegal-donations-received-from-the-country-s-richest-woman.md)
-_Context: Liliane Bettencourt, French President, France, Nicolas Sarkozy, L'Oreal, richest woman_
+_Context: L'Oreal, Liliane Bettencourt, Nicolas Sarkozy, richest woman, France, French President_
 
 ##### Pakistan
 ### [Former Pakistani President Pervez Musharraf is granted protective bail in several cases, paving the way for his return to Pakistan from self-imposed exile. ](/news/2013/03/22/former-pakistani-president-pervez-musharraf-is-granted-protective-bail-in-several-cases-paving-the-way-for-his-return-to-pakistan-from-self.md)
 Former Pakistani President Pervez Musharraf has been granted protective bail in several cases, paving the way for his return, his lawyers say.
 
-##### lizards
+##### Lizards
 ### [Two new species of lizards are discovered in the Andes Mountains in Peru. ](/news/2013/03/22/two-new-species-of-lizards-are-discovered-in-the-andes-mountains-in-peru.md)
-_Context: lizards, Andes Mountains, Peru_
+_Context: Andes Mountains, lizards, Peru_
 
 ## [Previous Day...](/news/2013/03/21/index.md)
 

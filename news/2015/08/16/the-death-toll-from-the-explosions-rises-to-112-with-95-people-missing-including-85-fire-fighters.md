@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/16/the-death-toll-from-the-explosions-rises-to-112
 
 ### [2015-08-16](/news/2015/08/16/index.md)
 
-##### the explosions last year
+##### The explosions last year
 # The death toll from the explosions rises to 112 with 95 people missing including 85 fire fighters. 
 
 Nearly 100 people missing from Tianjin blasts, including 85 firefighters, officials say, as death toll rises to 112.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/30/sixteen-people-including-mayor-reynaldo-parojin
 
 ### [2017-07-30](/news/2017/07/30/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # Sixteen people, including Mayor Reynaldo Parojinog Sr. and his wife, are killed in a police drug raid in Ozamiz City in the province of Misamis Occidental. The Parojinog family had been previously identified with their ties to the illegal drug trade, as well as the organized crime group Kuratong Baleleng. 
 
 Police were simultaneously serving six search warrants for the Mayor, his daughter and several family members at their properties when they were met with violent resistance

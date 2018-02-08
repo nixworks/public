@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/21/the-national-assembly-of-thailand-elects-coup-l
 
 ### [2014-08-21](/news/2014/08/21/index.md)
 
-##### military coup
+##### Military coup
 # The National Assembly of Thailand elects coup leader General Prayuth Chan-ocha as Prime Minister. 
 
 

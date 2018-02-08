@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/28/2012a2013-cypriot-financial-crisis-security-tig
 
 ### [2013-03-28](/news/2013/03/28/index.md)
 
-##### collapse
+##### Collapse
 # 2012-2013 Cypriot financial crisis: Security tightens in Cyprus as banks prepare to reopen after nearly two weeks, following a controversial international bailout that was negotiated with the European Union and the International Monetary Fund. 
 
 Banks in Cyprus reopen after a two-week closure sparked by negotiations over an EU-IMF bailout, but withdrawals are being tightly controlled.

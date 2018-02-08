@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/16/five-sticks-of-dynamite-are-found-in-the-printe
 
 ### [2008-12-16](/news/2008/12/16/index.md)
 
-##### dynamite
+##### Dynamite
 #  Five sticks of dynamite are found in the Printemps department store on the Boulevard Haussmann in Paris. 
 
 

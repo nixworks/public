@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/21/30-suspected-al-qaeda-militants-and-6-civilians
 
 ### [2014-04-21](/news/2014/04/21/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # 30 suspected al-Qaeda militants and 6 civilians are killed in a drone strike by the United States in Yemen. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/6/over-fifty-thousand-australians-have-been-placed
 
 ### [2010-09-6](/news/2010/09/6/index.md)
 
-##### evacuation
+##### Evacuation
 # Over fifty-thousand Australians have been placed on evacuation alert in the Australian state of Victoria in eleven towns since Saturday due to the 2010 Victorian floods. 
 
 

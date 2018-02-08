@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/17/at-least-25-people-are-killed-and-48-are-arrest
 
 ### [2017-08-17](/news/2017/08/17/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # At least 25 people are killed and 48 are arrested by the Philippine National Police Manila Police District in consecutive anti-drug operations in Manila within 24 hours. 
 
 AT least 25 suspected criminals were killed in simultaneous police operations in Manila over 24 hours, an official said Thursday. Chief Superintendent Joel Napoleon Coronel, director of the Manila Police District (MPD), clarified that in the 40 separate operations that started at 7 a.m. on Wednesday until 7 a.m. on Thursday, 14 of the 25

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/2/prime-minister-of-burkina-faso-tertius-zongo-con
 
 ### [2009-09-2](/news/2009/09/2/index.md)
 
-##### prime minister
+##### Prime minister
 #  Prime Minister of Burkina Faso Tertius Zongo confirms least three people were swept away by floods and thousands are left homeless in Ouagadougou and its suburbs. 
 
 

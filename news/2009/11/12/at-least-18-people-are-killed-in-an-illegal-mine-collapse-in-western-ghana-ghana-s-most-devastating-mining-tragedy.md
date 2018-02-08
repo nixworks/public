@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/12/at-least-18-people-are-killed-in-an-illegal-min
 
 ### [2009-11-12](/news/2009/11/12/index.md)
 
-##### killed in an illegal mine collapse
+##### Killed in an illegal mine collapse
 #  At least 18 people are killed in an illegal mine collapse in western Ghana, Ghana's most devastating mining tragedy. 
 
 At least 18 people, including 14 women, have been killed in the collapse of an illegal gold mine in Ghana.

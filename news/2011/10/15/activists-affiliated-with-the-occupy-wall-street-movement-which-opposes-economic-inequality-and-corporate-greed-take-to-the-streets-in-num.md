@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/15/activists-affiliated-with-the-occupy-wall-stree
 
 ### [2011-10-15](/news/2011/10/15/index.md)
 
-##### economic inequality
+##### Economic inequality
 # Activists affiliated with the Occupy Wall Street movement, which opposes economic inequality and corporate greed, take to the streets in numerous cities worldwide, including Sydney, Rome, Bucharest, Taipei, Tokyo, Toronto, Berlin, and Madrid, in a day of coordinated mass protests. 
 
 About 2,000 protesters with the Occupy Wall Street movement marched through New York’s financial district Saturday.

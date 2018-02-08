@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/16/a-recount-of-votes-in-the-march-7-iraqi-electio
 
 ### [2010-05-16](/news/2010/05/16/index.md)
 
-##### elections
+##### Elections
 # A recount of votes in the March 7 Iraqi election found no change in seat allocation for any of the blocs in the most populous province, Baghdad, in a setback for Prime Minister Nuri al-Maliki, who claimed there was election fraud and won a court appeal for the recount after his coalition came in second by two seats. 
 
 

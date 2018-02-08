@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/6/the-perjury-trial-of-retired-star-baseball-pitch
 
 ### [2011-07-6](/news/2011/07/6/index.md)
 
-##### perjury
+##### Perjury
 # The perjury trial of retired star baseball pitcher Roger Clemens commences in the U.S. over allegedly false statements made to a United States Congress Committee over use of performance-enhancing drugs. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/18/a-large-crater-dubbed-the-fried-egg-because-of-
 
 ### [2009-12-18](/news/2009/12/18/index.md)
 
-##### crater
+##### Crater
 #  A large crater, dubbed the "Fried Egg" because of its shape, is discovered off the coast of The Azores in the Atlantic Ocean, prompting speculation that it may have been caused up to 17 million years ago by meteor impact. 
 
 

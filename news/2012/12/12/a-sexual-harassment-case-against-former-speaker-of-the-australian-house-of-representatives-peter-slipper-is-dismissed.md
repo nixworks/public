@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/12/a-sexual-harassment-case-against-former-speaker
 
 ### [2012-12-12](/news/2012/12/12/index.md)
 
-##### sexual harassment
+##### Sexual harassment
 # A sexual harassment case against former Speaker of the Australian House of Representatives Peter Slipper is dismissed. 
 
 

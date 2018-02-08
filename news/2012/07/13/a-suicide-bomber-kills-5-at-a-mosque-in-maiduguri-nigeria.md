@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/13/a-suicide-bomber-kills-5-at-a-mosque-in-maidugu
 
 ### [2012-07-13](/news/2012/07/13/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 5 at a mosque in Maiduguri, Nigeria. 
 
 

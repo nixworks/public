@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/20/the-largest-rocket-ever-launched-from-the-west-
 
 ### [2011-01-20](/news/2011/01/20/index.md)
 
-##### spy satellite
+##### Spy satellite
 # The largest rocket ever launched from the west coast of the U.S. is launched carrying a secret payload; speculated to be a spy satellite.
 
 The largest rocket ever launched from the U.S. West Coast blasted off on Thursday from Vandenberg Air Force Base, carrying a top secret satellite into orbit, military officials said.

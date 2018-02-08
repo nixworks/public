@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/24/sixteen-members-of-al-qaeda-five-of-whom-have-b
 
 ### [2009-09-24](/news/2009/09/24/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Sixteen members of al-Qaeda, five of whom have been sentenced to death, are at large after escaping from prison north of Baghdad. 
 
 

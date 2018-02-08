@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/1/chinese-patriotic-catholic-association-outraged-
 
 ### [2006-05-1](/news/2006/05/1/index.md)
 
-##### state-backed church
+##### State-backed church
 #  Chinese Patriotic Catholic Association outraged Vatican by planning to ordain another bishop, Liu Xinhong in Anhui Province. On Sunday, China has already ordained Ma Yinglin, not approved by the Holy See, as a bishop in Yunnan. Hong Kong Cardinal Joseph Zen urged the Vatican to stop diplomatic talks with China [http:--www.guardian.co.uk-worldlatest-story-0,,-5793952,00.html]
 
 

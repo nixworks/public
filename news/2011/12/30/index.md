@@ -11,7 +11,7 @@ _Context: Kenyan Army, Al-Shabaab_
 ### [The Opposition Free Syrian Army claims to have suspended attacks on military targets pending a meeting with Arab League monitors. ](/news/2011/12/30/the-opposition-free-syrian-army-claims-to-have-suspended-attacks-on-military-targets-pending-a-meeting-with-arab-league-monitors.md)
 Syrian troops fire on tens of thousands of protesters as they hold rallies in front of visiting Arab League monitors, killing 35, activists say.
 
-##### mosque
+##### Mosque
 ### [An explosion reportedly occurs outside a mosque in the northern Nigerian city of Maiduguri with four deaths reported. However, the Nigerian military later denies it was an explosion, claiming the noise was caused by an armed robbery with two deaths. ](/news/2011/12/30/an-explosion-reportedly-occurs-outside-a-mosque-in-the-northern-nigerian-city-of-maiduguri-with-four-deaths-reported-however-the-nigerian.md)
 An attack blamed on the Islamist Boko Haram group hits the Nigerian city of Maiduguri, reports say, killing at least two people.
 
@@ -23,13 +23,13 @@ _Context: McDonald's restaurants, Dow Jones Industrial Average, Bank of America_
 ### [Members of the Canadian Auto Workers vote in favour of a strike at Caterpillar Inc's locomotive manufacturing plant in London, Ontario. ](/news/2011/12/30/members-of-the-canadian-auto-workers-vote-in-favour-of-a-strike-at-caterpillar-inc-s-locomotive-manufacturing-plant-in-london-ontario.md)
 Contract deadline set for just before 12 a.m. Sunday, while 98% voted in favour of action
 
-##### floods
+##### Floods
 ### [The death toll from the 2011 Thailand floods reaches 790. ](/news/2011/12/30/the-death-toll-from-the-2011-thailand-floods-reaches-790.md)
 _Context: floods_
 
 ##### Cyclone Thane
 ### [Cyclone Thane makes landfall near the southern Union Territory of Puducherry on India's southern coast. ](/news/2011/12/30/cyclone-thane-makes-landfall-near-the-southern-union-territory-of-puducherry-on-india-s-southern-coast.md)
-_Context: Union Territory, Cyclone Thane, India, Puducherry_
+_Context: Cyclone Thane, Puducherry, India, Union Territory_
 
 ##### North Korea
 ### [North Korea says that "foolish politicians around the world" should not expect any change in the country's policies. ](/news/2011/12/30/north-korea-says-that-foolish-politicians-around-the-world-should-not-expect-any-change-in-the-country-s-policies.md)
@@ -37,11 +37,11 @@ _Context: North Korea_
 
 ##### Ecuador
 ### [Ecuador vows to protect the Yasuni National Park in the Amazon basin after international donors contribute $100 million to a protection fund. ](/news/2011/12/30/ecuador-vows-to-protect-the-yasuni-national-park-in-the-amazon-basin-after-international-donors-contribute-100-million-to-a-protection-fund.md)
-_Context: Ecuador, Yasuni National Park, Amazon basin_
+_Context: Yasuni National Park, Ecuador, Amazon basin_
 
 ##### Mdecins Sans Frontires
 ### [The international aid group Mdecins Sans Frontires withdraws non-Somali workers from a hospital in Mogadishu after two of its aid workers were shot dead on Thursday. ](/news/2011/12/30/the-international-aid-group-medecins-sans-frontieres-withdraws-non-somali-workers-from-a-hospital-in-mogadishu-after-two-of-its-aid-workers.md)
-_Context: Somali, Mogadishu, Mdecins Sans Frontires_
+_Context: Mdecins Sans Frontires, Mogadishu, Somali_
 
 ##### Chinese
 ### [Former Chinese fugitive Lai Changxing is indicted on bribery and smuggling charges. ](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.md)
@@ -53,11 +53,11 @@ Defying opinion polls that suggested yesterday&#039;s general election was too c
 
 ##### Yemen
 ### [Tens of thousands of Yemenis protest against an immunity deal for former President Ali Abdullah Saleh demanding he face trial for deaths in the 2011 Yemeni uprising. ](/news/2011/12/30/tens-of-thousands-of-yemenis-protest-against-an-immunity-deal-for-former-president-ali-abdullah-saleh-demanding-he-face-trial-for-deaths-in.md)
-_Context: 2011 Yemeni uprising, President, Ali Abdullah Saleh, Yemen_
+_Context: President, Ali Abdullah Saleh, 2011 Yemeni uprising, Yemen_
 
 ##### DR Congo
 ### [The party of Democratic Republic of the Congo politician tienne Tshisekedi says he has been placed under house arrest in Kinshasa since he claimed to have won the presidential election earlier this year. ](/news/2011/12/30/the-party-of-democratic-republic-of-the-congo-politician-etienne-tshisekedi-says-he-has-been-placed-under-house-arrest-in-kinshasa-since-he.md)
-_Context: Kinshasa, DR Congo, presidential election, tienne Tshisekedi_
+_Context: tienne Tshisekedi, DR Congo, Kinshasa, presidential election_
 
 ## [Previous Day...](/news/2011/12/29/index.md)
 

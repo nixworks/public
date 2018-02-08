@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/30/concern-is-expressed-for-more-than-500-indigeno
 
 ### [2010-08-30](/news/2010/08/30/index.md)
 
-##### indigenous children
+##### Indigenous children
 # Concern is expressed for more than 500 indigenous women who have gone missing in Canada on the International Day of the Disappeared. 
 
 On International Day of the Disappeared, activists say fate of hundreds of missing indigenous women must be examined.

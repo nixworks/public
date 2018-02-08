@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/26/three-impeachment-complaints-against-philippine
 
 ### [2014-08-26](/news/2014/08/26/index.md)
 
-##### impeachment
+##### Impeachment
 # Three impeachment complaints against Philippines President Benigno Aquino III are deemed by the Philippine House of Representatives as "sufficient in form", paving the way for possible legal proceedings against him. 
 
 The House of Representatives Committee on Justice on Tuesday declared the three impeachment complaints filed against President Benigno Aquino III to be sufficient in form. 

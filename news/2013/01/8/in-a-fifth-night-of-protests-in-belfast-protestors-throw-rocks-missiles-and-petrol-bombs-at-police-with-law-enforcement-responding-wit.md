@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/8/in-a-fifth-night-of-protests-in-belfast-protesto
 
 ### [2013-01-8](/news/2013/01/8/index.md)
 
-##### protests
+##### Protests
 # In a fifth night of protests in Belfast, protestors throw rocks, "missiles", and petrol bombs at police, with law enforcement responding with water cannons and plastic bullets. 
 
 Police fired plastic bullets during a fifth night of rioting in Belfast over a decision to reduce the days when the union flag is flown at Belfast City Hall.

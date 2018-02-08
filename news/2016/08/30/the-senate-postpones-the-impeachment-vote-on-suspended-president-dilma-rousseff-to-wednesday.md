@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/30/the-senate-postpones-the-impeachment-vote-on-su
 
 ### [2016-08-30](/news/2016/08/30/index.md)
 
-##### impeached
+##### Impeached
 # The Senate postpones the impeachment vote on suspended President Dilma Rousseff to Wednesday. 
 
 

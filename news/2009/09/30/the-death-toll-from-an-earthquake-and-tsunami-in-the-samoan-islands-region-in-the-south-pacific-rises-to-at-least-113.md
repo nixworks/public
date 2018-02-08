@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/30/the-death-toll-from-an-earthquake-and-tsunami-i
 
 ### [2009-09-30](/news/2009/09/30/index.md)
 
-##### the deadly tsunami
+##### The deadly tsunami
 #  The death toll from an earthquake and tsunami in the Samoan Islands region in the South Pacific rises to at least 113. 
 
 

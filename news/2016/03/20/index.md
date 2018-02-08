@@ -9,7 +9,7 @@ The weekend attack targeting a busy shopping area points to a heightened terrori
 
 ##### The Church of Jesus Christ of Latter-day Saints in Utah
 ### [Dallin H. Oaks dedicates the Provo City Center Temple, the 150th LDS temple and the second temple converted from an LDS tabernacle. ](/news/2016/03/20/dallin-h-oaks-dedicates-the-provo-city-center-temple-the-150th-lds-temple-and-the-second-temple-converted-from-an-lds-tabernacle.md)
-_Context: LDS tabernacle, Provo City Center Temple, LDS temple, The Church of Jesus Christ of Latter-day Saints in Utah, Dallin H. Oaks_
+_Context: LDS temple, Provo City Center Temple, LDS tabernacle, Dallin H. Oaks, The Church of Jesus Christ of Latter-day Saints in Utah_
 
 ##### Cleveland
 ### [The United States-based Sherwin-Williams Company agrees to acquire rival U.S. paint company Valspar Corporation in an all-cash deal valued at about $9.3 billion (8.2 billion euros). ](/news/2016/03/20/the-united-states-based-sherwin-williams-company-agrees-to-acquire-rival-u-s-paint-company-valspar-corporation-in-an-all-cash-deal-valued-a.md)
@@ -19,13 +19,13 @@ The Sherwin-Williams Co (SHW.N) has agreed to acquire rival U.S. paint company V
 ### [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md)
 At least one Briton is thought to have been on board a bus which crashed in Spain, killing 13 exchange students. The bus, which was carrying 57 passengers, including at least one from the UK and four from Ireland, had been travelling back from Spain’s largest fireworks festival. It hit a crash bar...
 
-##### magnitude
+##### Magnitude
 ### [A 6.6 magnitude earthquake strikes off the eastern coast of Kamchatka Peninsula in Russia's Far East. Shaking was felt throughout large parts of the peninsula, but there were no immediate reports of damage or casualties. ](/news/2016/03/20/a-6-6-magnitude-earthquake-strikes-off-the-eastern-coast-of-kamchatka-peninsula-in-russia-s-far-east-shaking-was-felt-throughout-large-part.md)
  A strong earthquake with a preliminary magnitude of 6.6 has struck off the east coast of Kamchatka Peninsula in Russia Far East 
 
-##### military
+##### Military
 ### [An Indonesian military helicopter crash shortly after takeoff from Poso kills 13 passengers. Their mission was to try to capture Indonesia's most wanted militant, Abu Wardah Santoso, leader of the Islamic State affiliate East Indonesia Mujahidin network. ](/news/2016/03/20/an-indonesian-military-helicopter-crash-shortly-after-takeoff-from-poso-kills-13-passengers-their-mission-was-to-try-to-capture-indonesia-s.md)
-_Context: Poso, East Indonesia Mujahidin network, Abu Wardah Santoso, military helicopter, Indonesia, military, ISIL_
+_Context: Poso, military helicopter, military, ISIL, East Indonesia Mujahidin network, Abu Wardah Santoso, Indonesia_
 
 ##### United States-Cuban Thaw
 ### [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md)
@@ -37,7 +37,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Beninese presidential election, 2016
 ### [Voting for the second round of Benin's election begins with current President Thomas Boni Yayi stepping down after completing two terms. ](/news/2016/03/20/voting-for-the-second-round-of-benin-s-election-begins-with-current-president-thomas-boni-yayi-stepping-down-after-completing-two-terms.md)
-_Context: Beninese presidential election, 2016, Thomas Boni Yayi, Benin, President of Benin_
+_Context: President of Benin, Benin, Thomas Boni Yayi, Beninese presidential election, 2016_
 
 ##### Cape Verdean parliamentary election, 2016
 ### [Voters in Cape Verde go to the polls for an election. ](/news/2016/03/20/voters-in-cape-verde-go-to-the-polls-for-an-election.md)
@@ -49,7 +49,7 @@ Elections are held in Benin, Cape Verde, Congo, Niger and Zanzibar, while Senega
 
 ##### Laotian parliamentary election, 2016
 ### [An election is held in Laos, with voter turnout expected to be low. The only legal party in Laos is the Lao People's Revolutionary Party. ](/news/2016/03/20/an-election-is-held-in-laos-with-voter-turnout-expected-to-be-low-the-only-legal-party-in-laos-is-the-lao-people-s-revolutionary-party.md)
-_Context: Lao People's Revolutionary Party, Laos, Laotian parliamentary election, 2016_
+_Context: Laos, Laotian parliamentary election, 2016, Lao People's Revolutionary Party_
 
 ##### Nigerien general election, 2016
 ### [A run-off election begins in Niger with current President Mahamadou Issoufou highly favored to win as his main opponent Hama Amadou, who was earlier jailed, was flown out of the country for medical reasons. ](/news/2016/03/20/a-run-off-election-begins-in-niger-with-current-president-mahamadou-issoufou-highly-favored-to-win-as-his-main-opponent-hama-amadou-who-was.md)
@@ -69,7 +69,7 @@ Senegalese residents are voting on a referendum that would see some sweeping con
 
 ##### Tanzanian general election, 2015
 ### [A rerun of Zanzibar's presidential election takes place amid an opposition boycott. The election originally occurred at the same time as Tanzania's general election in 2015 but was annulled because of supposed fraud. ](/news/2016/03/20/a-rerun-of-zanzibar-s-presidential-election-takes-place-amid-an-opposition-boycott-the-election-originally-occurred-at-the-same-time-as-tan.md)
-_Context: Tanzania, Zanzibar, Tanzanian general election, 2015_
+_Context: Zanzibar, Tanzanian general election, 2015, Tanzania_
 
 ## [Previous Day...](/news/2016/03/19/index.md)
 

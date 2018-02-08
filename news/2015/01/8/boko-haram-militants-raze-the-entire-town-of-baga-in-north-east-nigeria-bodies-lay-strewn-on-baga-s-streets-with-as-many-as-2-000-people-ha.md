@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/8/boko-haram-militants-raze-the-entire-town-of-bag
 
 ### [2015-01-8](/news/2015/01/8/index.md)
 
-##### attack
+##### Attack
 # Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State, which is the worst-affected by the insurgency. 
 
 Bodies lay strewn on the streets of a key north-eastern Nigerian town following on-going raids by militant Islamists, officials tells the BBC.

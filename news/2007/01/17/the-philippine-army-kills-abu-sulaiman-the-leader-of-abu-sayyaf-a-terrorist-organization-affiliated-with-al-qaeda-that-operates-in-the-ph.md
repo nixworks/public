@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/17/the-philippine-army-kills-abu-sulaiman-the-lead
 
 ### [2007-01-17](/news/2007/01/17/index.md)
 
-##### army
+##### Army
 #  The Philippine Army kills Abu Sulaiman, the leader of Abu Sayyaf, a terrorist organization affiliated with Al Qaeda that operates in the Philippines. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/11/war-in-somalia-a-top-u-s-official-says-that-he-
 
 ### [2007-01-11](/news/2007/01/11/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: A top U.S. official says that he believes the airstrike in Somalia on the previous day failed to kill the al-Qaeda suspects they targeted. 
 
 

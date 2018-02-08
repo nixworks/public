@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/17/president-pervez-musharraf-of-pakistan-apologis
 
 ### [2007-03-17](/news/2007/03/17/index.md)
 
-##### president
+##### President
 #  President Pervez Musharraf of Pakistan apologises for a police raid on Geo TV's offices in Islamabad the day before, with 14 police officers suspended for their alleged part in the incident. 
 
 

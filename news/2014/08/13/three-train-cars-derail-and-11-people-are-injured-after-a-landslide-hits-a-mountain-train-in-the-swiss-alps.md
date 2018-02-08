@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/13/three-train-cars-derail-and-11-people-are-injur
 
 ### [2014-08-13](/news/2014/08/13/index.md)
 
-##### a landslide hits a mountain train
+##### A landslide hits a mountain train
 # Three train cars derail and 11 people are injured after a landslide hits a mountain train in the Swiss Alps. 
 
 

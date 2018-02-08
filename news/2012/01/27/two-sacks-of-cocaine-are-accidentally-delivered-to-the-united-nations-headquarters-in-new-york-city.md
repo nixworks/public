@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/27/two-sacks-of-cocaine-are-accidentally-delivered
 
 ### [2012-01-27](/news/2012/01/27/index.md)
 
-##### cocaine
+##### Cocaine
 # Two sacks of cocaine are accidentally delivered to the United Nations Headquarters in New York City. 
 
 Two sacks of cocaine were accidentally delivered to the UN&#039;s New York headquarters after apparently getting lost in the post.

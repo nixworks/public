@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/22/debate-is-stoked-over-whether-scientists-have-o
 
 ### [2009-11-22](/news/2009/11/22/index.md)
 
-##### climate change
+##### Climate change
 #  Debate is stoked over whether scientists have overstated the case for man-made climate change after computer hackers break into a server at University of East Anglia, the well-respected climate change research center. 
 
 

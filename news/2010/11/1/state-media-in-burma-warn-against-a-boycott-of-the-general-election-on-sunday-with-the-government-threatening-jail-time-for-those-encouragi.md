@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/1/state-media-in-burma-warn-against-a-boycott-of-t
 
 ### [2010-11-1](/news/2010/11/1/index.md)
 
-##### go on sale
+##### Go on sale
 # State media in Burma warn against a boycott of the general election on Sunday, with the government threatening jail time for those encouraging a boycott. 
 
 

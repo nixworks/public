@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/10/volunteers-are-working-to-save-the-remaining-li
 
 ### [2017-02-10](/news/2017/02/10/index.md)
 
-##### pilot whales
+##### Pilot whales
 # Volunteers are working to save the remaining live pilot whales beached at Farewell Spit on New Zealand's South Island. Project Jonah reports that 75 percent of the more than 400 stranded whales are dead. 
 
 Hundreds of volunteers in New Zealand have formed a human chain as they try to save hundreds of pilot whales beached there.

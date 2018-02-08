@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/7/an-airstrike-conducted-by-nato-kills-at-least-12
 
 ### [2013-04-7](/news/2013/04/7/index.md)
 
-##### airstrike
+##### Airstrike
 # An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. 
 
 Eleven children are reported to have been among those killed in a Nato air strike in Kunar province in eastern Afghanistan.

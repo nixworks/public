@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/22/a-5-7-magnitude-earthquake-strikes-chiautla-de-
 
 ### [2009-05-22](/news/2009/05/22/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 5.7-magnitude earthquake strikes Chiautla de Tapia, Puebla, Mexico. 
 
 

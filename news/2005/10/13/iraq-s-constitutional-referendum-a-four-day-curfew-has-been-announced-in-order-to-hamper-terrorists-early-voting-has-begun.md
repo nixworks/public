@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/13/iraq-s-constitutional-referendum-a-four-day-cur
 
 ### [2005-10-13](/news/2005/10/13/index.md)
 
-##### in the vote held
+##### In the vote held
 #  Iraq's Constitutional Referendum: A four day curfew has been announced in order to hamper terrorists. Early voting has begun. 
 
 

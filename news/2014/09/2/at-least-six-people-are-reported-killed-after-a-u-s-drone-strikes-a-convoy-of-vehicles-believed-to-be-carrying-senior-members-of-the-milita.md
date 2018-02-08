@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/2/at-least-six-people-are-reported-killed-after-a-
 
 ### [2014-09-2](/news/2014/09/2/index.md)
 
-##### al-Shabab
+##### Al-Shabab
 # At least six people are reported killed after a U.S. drone strikes a convoy of vehicles believed to be carrying senior members of the militant group Al-Shabaab. 
 
 

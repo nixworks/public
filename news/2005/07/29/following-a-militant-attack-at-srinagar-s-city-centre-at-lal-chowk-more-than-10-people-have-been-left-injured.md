@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/29/following-a-militant-attack-at-srinagar-s-city-
 
 ### [2005-07-29](/news/2005/07/29/index.md)
 
-##### militant
+##### Militant
 #  Following a militant attack at Srinagar's city centre at Lal Chowk more than 10 people have been left injured. 
 
 

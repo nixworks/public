@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/25/heavy-rain-causes-flooding-in-the-australian-st
 
 ### [2013-02-25](/news/2013/02/25/index.md)
 
-##### flooding
+##### Flooding
 # Heavy rain causes flooding in the Australian state of Queensland with one man reported dead in the northern Brisbane suburb of Caboolture. 
 
 A man is dead after his car was swept into floodwaters northwest of Caboolture on Monday afternoon.

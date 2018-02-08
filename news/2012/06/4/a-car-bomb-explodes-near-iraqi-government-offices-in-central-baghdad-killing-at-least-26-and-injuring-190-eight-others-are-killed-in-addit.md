@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/4/a-car-bomb-explodes-near-iraqi-government-office
 
 ### [2012-06-4](/news/2012/06/4/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near Iraqi government offices in central Baghdad, killing at least 26 and injuring 190. Eight others are killed in additional attacks across the country. 
 
 

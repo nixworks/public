@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/26/a-dog-is-discovered-carrying-the-hendra-virus-i
 
 ### [2011-07-26](/news/2011/07/26/index.md)
 
-##### dog
+##### Dog
 # A dog is discovered carrying the hendra virus in the Australian state of Queensland near the town of Beaudesert. It is the first time the virus has been detected in a species other than flying foxes, horses or humans. 
 
 THE deadly Hendra virus has been detected in a dog on a Queensland farm, authorities say.

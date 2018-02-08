@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/28/a-helicopter-crashes-in-eastern-afghanistan-kil
 
 ### [2012-05-28](/news/2012/05/28/index.md)
 
-##### helicopter
+##### Helicopter
 # A helicopter crashes in eastern Afghanistan, killing two ISAF troops. 
 
 

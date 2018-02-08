@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/11/uk-police-raid-the-greenacre-caravan-site-in-le
 
 ### [2011-09-11](/news/2011/09/11/index.md)
 
-##### caravan site
+##### Caravan site
 # UK police raid the Greenacre caravan site in Leighton Buzzard, rescuing 24 men who had been held there as slaves in squalid conditions . 
 
 

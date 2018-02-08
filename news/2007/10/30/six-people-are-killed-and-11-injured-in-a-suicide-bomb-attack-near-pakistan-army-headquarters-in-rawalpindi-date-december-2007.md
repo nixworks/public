@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/30/six-people-are-killed-and-11-injured-in-a-suici
 
 ### [2007-10-30](/news/2007/10/30/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  Six people are killed and 11 injured in a suicide bomb attack near Pakistan Army headquarters in Rawalpindi.date=December 2007 
 
 

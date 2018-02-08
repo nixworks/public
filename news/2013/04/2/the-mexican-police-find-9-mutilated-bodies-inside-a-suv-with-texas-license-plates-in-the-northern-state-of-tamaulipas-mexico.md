@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/2/the-mexican-police-find-9-mutilated-bodies-insid
 
 ### [2013-04-2](/news/2013/04/2/index.md)
 
-##### police
+##### Police
 # The Mexican police find 9 mutilated bodies inside a SUV with Texas license plates in the northern state of Tamaulipas, Mexico. 
 
 

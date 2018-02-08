@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/31/following-the-reply-and-hashtag-social-media-se
 
 ### [2012-07-31](/news/2012/07/31/index.md)
 
-##### hashtag
+##### Hashtag
 # Following the @ reply and # hashtag, social media service Twitter introduces the $ symbol, a way for users to click on stock symbols and see related tweets. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/17/world-stock-markets-decline-sharply-after-the-p
 
 ### [2008-03-17](/news/2008/03/17/index.md)
 
-##### stock market
+##### Stock market
 #  World stock markets decline sharply after the proposed sale of investment bank Bear Stearns to rival JPMorgan Chase. 
 
 

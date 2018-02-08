@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/3/a-suicide-bombing-in-eastern-afghanistan-kills-a
 
 ### [2013-06-3](/news/2013/06/3/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing in eastern Afghanistan kills at least 20 people, including 10 children. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/14/a-motorcycle-gunman-shoots-and-kills-a-journali
 
 ### [2015-02-14](/news/2015/02/14/index.md)
 
-##### journalist
+##### Journalist
 # A motorcycle gunman shoots and kills a journalist in the Philippines who had been critical of local officials' alleged involvement in the illegal drug trade. The murder of the journalist is the 34th since the regime of Benigno Aquino III began in 2010. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/7/officials-give-no-hope-for-the-missing-migrants-
 
 ### [2011-04-7](/news/2011/04/7/index.md)
 
-##### yesterday's fatal boat disaster
+##### Yesterday's fatal boat disaster
 # Officials give no hope for the missing migrants of yesterday's fatal boat disaster off Lampedusa in the Mediterranean Sea. 
 
 Hopes are fading for scores of migrants missing after a boat capsized off the Italian island of Lampedusa, officials say.

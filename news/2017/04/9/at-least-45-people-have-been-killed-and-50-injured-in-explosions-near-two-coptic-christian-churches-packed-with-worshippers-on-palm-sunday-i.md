@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/9/at-least-45-people-have-been-killed-and-50-injur
 
 ### [2017-04-9](/news/2017/04/9/index.md)
 
-##### explosions
+##### Explosions
 # At least 45 people have been killed and 50 injured in explosions near two Coptic Christian churches packed with worshippers on Palm Sunday in the Egyptian cities of Tanta and Alexandria. 
 
 Egypt President Sisi declares a state of emergency following two deadly bombings on Coptic churches.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/27/the-serial-rape-suspect-accused-of-terrorizing-
 
 ### [2005-12-27](/news/2005/12/27/index.md)
 
-##### the state
+##### The state
 #  The serial rape suspect accused of terrorizing two South Florida neighborhoods with attacks on victims ranging from elderly women to an 11-year-old girl was back in custody Tuesday, a week since his brazen jail escape, after a tipster recognized his face and called police. [https:--news.yahoo.com-s-ap-20051227-ap_on_re_us-inmate_escape (AP via Yahoo! News)] (Link dead as of 21:18, 14 January 2007 (UTC))
 
 

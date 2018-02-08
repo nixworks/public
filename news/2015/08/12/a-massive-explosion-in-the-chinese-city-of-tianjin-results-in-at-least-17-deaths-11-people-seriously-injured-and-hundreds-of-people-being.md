@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/12/a-massive-explosion-in-the-chinese-city-of-tian
 
 ### [2015-08-12](/news/2015/08/12/index.md)
 
-##### the explosions last year
+##### The explosions last year
 # A massive explosion in the Chinese city of Tianjin results in at least 17 deaths, 11 people seriously injured, and hundreds of people being hospitalised. 
 
 At least 17 people are killed and hundreds injured, state media report, as huge explosions rock the northern Chinese port city of Tianjin.

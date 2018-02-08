@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in
 
 ### [2012-09-26](/news/2012/09/26/index.md)
 
-##### unionize
+##### Unionize
 # Trade unions in Greece call a general strike in protest against continuing austerity measures. 
 
 

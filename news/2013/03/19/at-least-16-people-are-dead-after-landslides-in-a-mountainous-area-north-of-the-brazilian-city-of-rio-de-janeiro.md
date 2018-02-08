@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/19/at-least-16-people-are-dead-after-landslides-in
 
 ### [2013-03-19](/news/2013/03/19/index.md)
 
-##### landslide
+##### Landslide
 # At least 16 people are dead after landslides in a mountainous area north of the Brazilian city of Rio de Janeiro. 
 
 

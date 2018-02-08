@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/27/florida-hedge-fund-manager-arthur-nadel-is-arre
 
 ### [2009-01-27](/news/2009/01/27/index.md)
 
-##### the state
+##### The state
 #  Florida hedge fund manager Arthur Nadel is arrested by the United States Federal Bureau of Investigation and charged with fraud. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/27/nurse-roger-dean-pleads-guilty-to-eleven-counts
 
 ### [2013-05-27](/news/2013/05/27/index.md)
 
-##### nursing home
+##### Nursing home
 # Nurse Roger Dean pleads guilty to eleven counts of murder in relation to a fire at a nursing home in the Sydney suburb of Quakers Hill. 
 
 He was the aged-care nurse entrusted to treat the elderly and infirm, but instead Roger Dean started a fatal blaze and murdered 11 helpless nursing home residents.

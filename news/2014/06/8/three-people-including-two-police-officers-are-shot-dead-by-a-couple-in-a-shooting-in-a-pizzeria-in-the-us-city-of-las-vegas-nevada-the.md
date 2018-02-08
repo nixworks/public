@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/8/three-people-including-two-police-officers-are-s
 
 ### [2014-06-8](/news/2014/06/8/index.md)
 
-##### shot dead
+##### Shot dead
 # Three people, including two police officers, are shot dead by a couple in a shooting in a pizzeria in the US city of Las Vegas, Nevada. The woman (Amanda Miller) kills her husband (Jerad Miller) and then herself. 
 
 

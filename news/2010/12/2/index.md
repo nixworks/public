@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/2/index.html)  [JSON](2010/12/2/index.json)  [XML](2010/
 
 ##### African Union
 ### [About 8,000 African Union troops from Burundi and Uganda are deployed to the Somali capital Mogadishu, the scene of heavy fighting this week. ](/news/2010/12/2/about-8-000-african-union-troops-from-burundi-and-uganda-are-deployed-to-the-somali-capital-mogadishu-the-scene-of-heavy-fighting-this-week.md)
-_Context: Somalia, African Union, Burundi, Mogadishu, Uganda_
+_Context: African Union, Mogadishu, Somalia, Uganda, Burundi_
 
 ##### Philippine government
 ### [Representatives of the Philippines government and the National Democratic Front resume peace talks in Hong Kong. ](/news/2010/12/2/representatives-of-the-philippines-government-and-the-national-democratic-front-resume-peace-talks-in-hong-kong.md)
@@ -35,11 +35,11 @@ Norway examines allegations that Nobel Peace Laureate Muhammad Yunus diverted mi
 ### [Thousands of New Zealanders gather at the Omoto racecourse to commemorate the victims of the Pike River Mine disaster. ](/news/2010/12/2/thousands-of-new-zealanders-gather-at-the-omoto-racecourse-to-commemorate-the-victims-of-the-pike-river-mine-disaster.md)
 A memorial service has taken place in New Zealand for the 29 miners who were killed in the Pike River coal mine.
 
-##### foot-and-mouth disease
+##### Foot-and-mouth disease
 ### [More than 55,000 animals are being culled after a breakout of foot-and-mouth disease at pig farms in South Korea. ](/news/2010/12/2/more-than-55-000-animals-are-being-culled-after-a-breakout-of-foot-and-mouth-disease-at-pig-farms-in-south-korea.md)
 Culling of more than 55,000 animals begins after foot-and-mouth disease confirmed at pig farms.
 
-##### snow
+##### Snow
 ### [Heavy snowfall in the United Kingdom disrupting travel, with Gatwick Airport remaining closed. ](/news/2010/12/2/heavy-snowfall-in-the-united-kingdom-disrupting-travel-with-gatwick-airport-remaining-closed.md)
 Gatwick Airport will not reopen today as a continuing onslaught of snow and ice to wreaks havoc on the nation&#039;s airports, railways and roads.
 
@@ -57,7 +57,7 @@ Industry&#x20;Minister&#x20;Eric&#x20;Besson&#x20;&#x28;pictured&#x29;&#x20;has&
 
 ##### WikiLeaks
 ### [WikiLeaks spokesperson Julian Assange calls for the resignation of Hillary Clinton "if it can be shown that she was responsible for ordering U.S. diplomatic figures to engage in espionage in the United Nations, in violation of the international covenants to which the U.S. has signed up". ](/news/2010/12/2/wikileaks-spokesperson-julian-assange-calls-for-the-resignation-of-hillary-clinton-if-it-can-be-shown-that-she-was-responsible-for-ordering.md)
-_Context: Hillary Clinton, Julian Assange, espionage, United Nations, WikiLeaks_
+_Context: Hillary Clinton, WikiLeaks, United Nations, espionage, Julian Assange_
 
 ##### Time
 ### [Julian Assange grants an interview to "TIME" in which he talks about secrecy, saying "we keep secret the identity of our sources" but that secrecy "shouldn't be used to cover up abuses". ](/news/2010/12/2/julian-assange-grants-an-interview-to-time-in-which-he-talks-about-secrecy-saying-we-keep-secret-the-identity-of-our-sources-but-that-s.md)
@@ -65,15 +65,15 @@ _Context: Time_
 
 ##### Iran
 ### [Iran completes the fueling of its nuclear reactor at Bushehr. ](/news/2010/12/2/iran-completes-the-fueling-of-its-nuclear-reactor-at-bushehr.md)
-_Context: nuclear reactor, Bushehr, Iran_
+_Context: Bushehr, nuclear reactor, Iran_
 
 ##### Dick Cheney
 ### [Dick Cheney faces charges in Nigeria over $180 million dollars in bribes a subsidiary of Halliburton, of which Cheney was chief executive, paid to Nigerian officials. ](/news/2010/12/2/dick-cheney-faces-charges-in-nigeria-over-180-million-dollars-in-bribes-a-subsidiary-of-halliburton-of-which-cheney-was-chief-executive-p.md)
-_Context: Dick Cheney, Halliburton, Nigeria_
+_Context: Halliburton, Nigeria, Dick Cheney_
 
 ##### Iranian police
 ### [Police in Iran make several arrests of suspects in relation to an attack on two nuclear physicists that it claims are connected to the United States Central Intelligence Agency, Mossad from Israel, and MI6 in the United Kingdom. ](/news/2010/12/2/police-in-iran-make-several-arrests-of-suspects-in-relation-to-an-attack-on-two-nuclear-physicists-that-it-claims-are-connected-to-the-unite.md)
-_Context: nuclear physicists, Israel, Mossad, Iran, Iranian police, Central Intelligence Agency, MI6, United States, United Kingdom_
+_Context: United States, Central Intelligence Agency, United Kingdom, MI6, Iranian police, Iran, nuclear physicists, Israel, Mossad_
 
 ##### Taiwanese President
 ### [Former Taiwanese President Chen Shui-bian enters prison on being convicted of corruption charges. ](/news/2010/12/2/former-taiwanese-president-chen-shui-bian-enters-prison-on-being-convicted-of-corruption-charges.md)

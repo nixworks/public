@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/27/a-suicide-bomber-hits-a-pakistani-security-chec
 
 ### [2009-08-27](/news/2009/08/27/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber hits a Pakistani security checkpoint at the main border crossing for convoys ferrying NATO supplies into Afghanistan, killing at least 18 border guards. 
 
 A suicide bomber hit a Pakistani security checkpoint Thursday at the main border crossing for convoys ferrying NATO supplies into Afghanistan, killing at least 18 border guards, police said.

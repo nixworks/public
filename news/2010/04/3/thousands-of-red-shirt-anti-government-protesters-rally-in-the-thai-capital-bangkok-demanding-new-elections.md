@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/3/thousands-of-red-shirt-anti-government-protester
 
 ### [2010-04-3](/news/2010/04/3/index.md)
 
-##### red shirt
+##### Red shirt
 # Thousands of "red shirt" anti-government protesters rally in the Thai capital Bangkok demanding new elections. 
 
 

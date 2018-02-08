@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/16/traces-of-dioxin-are-found-in-stream-waters-nea
 
 ### [2011-06-16](/news/2011/06/16/index.md)
 
-##### dioxin
+##### Dioxin
 # Traces of dioxin are found in stream waters near the United States Army base Camp Carroll in South Korea where drums of Agent Orange were allegedly dumped three decades ago. 
 
 

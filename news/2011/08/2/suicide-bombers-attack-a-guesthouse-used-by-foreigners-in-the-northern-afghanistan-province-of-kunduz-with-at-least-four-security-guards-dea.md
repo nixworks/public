@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/2/suicide-bombers-attack-a-guesthouse-used-by-fore
 
 ### [2011-08-2](/news/2011/08/2/index.md)
 
-##### suicide-bomb
+##### Suicide-bomb
 # Suicide bombers attack a guesthouse used by foreigners in the northern Afghanistan province of Kunduz with at least four security guards dead. 
 
 Three suicide bombers attacked a guesthouse used by foreigners in the northern Afghan province of Kunduz on Tuesday, killing four Afghan security guards employed by a German company, a senior police detective said.

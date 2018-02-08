@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/31/at-least-15-people-die-after-liquid-ammonia-lea
 
 ### [2013-08-31](/news/2013/08/31/index.md)
 
-##### ammonia
+##### Ammonia
 # At least 15 people die after liquid ammonia leaks from a refrigeration unit at a cold storage plant in Shanghai. 
 
 At least 15 people have been killed after liquid ammonia leaked from a refrigeration unit at a cold storage plant in Shanghai, the government and state media say.

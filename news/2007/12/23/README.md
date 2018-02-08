@@ -5,11 +5,11 @@ Formats: [HTML](2007/12/23/index.html)  [JSON](2007/12/23/index.json)  [XML](200
 
 ##### Thailand
 ### [ Thailand's People Power Party, led by Samak Sundaravej, wins the 2007 general elections. ](/news/2007/12/23/thailand-s-people-power-party-led-by-samak-sundaravej-wins-the-2007-general-elections.md)
-_Context: Samak Sundaravej, Thailand, People's Power Party, 2007 general elections_
+_Context: Samak Sundaravej, People's Power Party, 2007 general elections, Thailand_
 
 ##### Saudi Arabia
 ### [ Saudi police arrest 28 men for allegedly planning terrorist attacks against holy sites in Mecca and Medina. ](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.md)
-_Context: Saudi Arabia, Mecca, terrorist attacks, Medina_
+_Context: Medina, Mecca, terrorist attacks, Saudi Arabia_
 
 ##### India
 ### [ India's Bharatiya Janata Party win elections in the state of Gujarat. ](/news/2007/12/23/india-s-bharatiya-janata-party-win-elections-in-the-state-of-gujarat.md)

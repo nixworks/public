@@ -17,7 +17,7 @@ _Context: Facundo Cabral, Guatemala City_
 
 ##### Milan
 ### [A Milan court orders Fininvest, Prime Minister of Italy Silvio Berlusconi's family company, to pay 560 million euros in damages to Compagnie Industriali Riunite in a long running legal dispute. ](/news/2011/07/9/a-milan-court-orders-fininvest-prime-minister-of-italy-silvio-berlusconi-s-family-company-to-pay-560-million-euros-in-damages-to-compagnie.md)
-_Context: Compagnie Industriali Riunite, Italian Prime Minister, euro, Silvio Berlusconi, Milan, Fininvest_
+_Context: Silvio Berlusconi, Italian Prime Minister, euro, Compagnie Industriali Riunite, Milan, Fininvest_
 
 ##### South Sudan
 ### [South Sudan secedes from Sudan, becoming a sovereign state. ](/news/2011/07/9/south-sudan-secedes-from-sudan-becoming-a-sovereign-state.md)

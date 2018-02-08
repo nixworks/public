@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/15/a-worldwide-media-circus-surrounds-an-incident-
 
 ### [2009-10-15](/news/2009/10/15/index.md)
 
-##### media circus
+##### Media circus
 #  A worldwide media circus surrounds an incident in which a six-year-old boy is alleged to be flying in a homemade hot-air balloon; the boy was later found safe at home. 
 
 

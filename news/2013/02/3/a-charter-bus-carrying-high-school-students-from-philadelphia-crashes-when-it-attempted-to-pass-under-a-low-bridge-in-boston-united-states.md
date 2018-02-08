@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/3/a-charter-bus-carrying-high-school-students-from
 
 ### [2013-02-3](/news/2013/02/3/index.md)
 
-##### bus
+##### Bus
 # A charter bus carrying high school students from Philadelphia crashes when it attempted to pass under a low bridge in Boston, United States, injuring 34 people. 
 
 A bus carrying 42 passengers traveling from Harvard University in Cambridge, Massachusetts, to Pennsylvania crashed into a Boston overpass on Saturday night, injuring 34 people, according to emergency officials.

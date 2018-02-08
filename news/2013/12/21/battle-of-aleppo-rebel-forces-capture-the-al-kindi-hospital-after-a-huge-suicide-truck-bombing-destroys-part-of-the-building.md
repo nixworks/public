@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/21/battle-of-aleppo-rebel-forces-capture-the-al-ki
 
 ### [2013-12-21](/news/2013/12/21/index.md)
 
-##### the battle for Aleppo
+##### The battle for Aleppo
 # Battle of Aleppo: Rebel forces capture the Al-Kindi hospital after a huge suicide truck bombing destroys part of the building. 
 
 Rebels in the Syrian city of Aleppo set off a massive suicide lorry bomb to seize back a strategic ruined hospital occupied by Assad loyalists.

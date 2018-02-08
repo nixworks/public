@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/5/following-a-start-of-year-hike-to-the-price-of-g
 
 ### [2017-01-5](/news/2017/01/5/index.md)
 
-##### gas
+##### Gas
 # Following a start-of-year hike to the price of gas, widespread riots and looting mostly targeting gas stations, supermarkets and department stores take place in several cities in Mexico. Over 250 people are said to have been arrested so far while blockades to PEMEX installations potentially lead to critical situations in some states. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/21/japanese-tokusatsu-television-series-kamen-ride
 
 ### [2007-01-21](/news/2007/01/21/index.md)
 
-##### tokusatsu
+##### Tokusatsu
 #  Japanese tokusatsu television series "Kamen Rider Kabuto" ends.
 
 

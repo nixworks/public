@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/31/a-new-disease-progressive-inflammatory-neuropat
 
 ### [2008-01-31](/news/2008/01/31/index.md)
 
-##### progressive inflammatory neuropathy
+##### Progressive inflammatory neuropathy
 #  A new disease, progressive inflammatory neuropathy (PIN), is found in pig slaughterhouse workers in southeastern Minnesota. 
 
 

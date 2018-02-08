@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/15/a-thailand-based-women-s-rights-group-accuses-m
 
 ### [2014-01-15](/news/2014/01/15/index.md)
 
-##### women's rights
+##### Women's rights
 # A Thailand-based women's rights group accuses Myanmar of using rape as a weapon of war. 
 
 

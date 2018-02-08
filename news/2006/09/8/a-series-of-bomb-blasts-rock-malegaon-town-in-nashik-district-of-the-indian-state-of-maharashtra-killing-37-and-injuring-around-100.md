@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/8/a-series-of-bomb-blasts-rock-malegaon-town-in-na
 
 ### [2006-09-8](/news/2006/09/8/index.md)
 
-##### bomb blasts
+##### Bomb blasts
 #  A series of bomb blasts rock Malegaon town in Nashik district of the Indian state of Maharashtra, killing 37 and injuring around 100. 
 
 

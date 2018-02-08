@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/28/four-people-are-killed-and-1-000-others-flee-th
 
 ### [2011-12-28](/news/2011/12/28/index.md)
 
-##### lahar
+##### Lahar
 # Four people are killed and 1,000 others flee their homes amid lahars from the Mount Gamalama volcano in Indonesia. 
 
 

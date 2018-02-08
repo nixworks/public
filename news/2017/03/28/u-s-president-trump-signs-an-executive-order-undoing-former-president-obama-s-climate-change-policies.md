@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/03/28/u-s-president-trump-signs-an-executive-order-un
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
-##### executive order
+##### Executive order
 # U.S. President Trump signs an executive order undoing former President Obama's climate change policies. 
 
 

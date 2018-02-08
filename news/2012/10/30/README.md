@@ -25,7 +25,7 @@ A popular Somali poet and songwriter, who was critical of Islamist fighters and 
 
 ##### J. Bernlef
 ### [Major Dutch writer J. Bernlef dies at home in Amsterdam. ](/news/2012/10/30/major-dutch-writer-j-bernlef-dies-at-home-in-amsterdam.md)
-_Context: Amsterdam, J. Bernlef_
+_Context: J. Bernlef, Amsterdam_
 
 ##### Amnesty International
 ### [Groups including Amnesty International and Human Rights Watch urge Qatar to release Mohammed al-Ajami, the poet held since last year on charges of "inciting to overthrow the ruling system" and "insulting the emir". ](/news/2012/10/30/groups-including-amnesty-international-and-human-rights-watch-urge-qatar-to-release-mohammed-al-ajami-the-poet-held-since-last-year-on-char.md)
@@ -37,15 +37,15 @@ _Context: Alan Bennett, National Trust_
 
 ##### Tamasin
 ### [Tamasin and Daniel Day-Lewis donate poet laureate Cecil Day-Lewis's archive&mdash;including manuscripts and a letter from W. H. Auden&mdash;to Oxford University's Bodleian Library. ](/news/2012/10/30/tamasin-and-daniel-day-lewis-donate-poet-laureate-cecil-day-lewis-s-archive-mdash-including-manuscripts-and-a-letter-from-w-h-auden-mdash.md)
-_Context: Daniel Day-Lewis, Tamasin, Bodleian Library, Oxford University, W. H. Auden, Cecil Day-Lewis_
+_Context: Bodleian Library, Tamasin, Oxford University, W. H. Auden, Cecil Day-Lewis, Daniel Day-Lewis_
 
 ##### The Stone Roses
 ### [The Stone Roses announce a series of performances in 2013, including their first London show since their reunion. ](/news/2012/10/30/the-stone-roses-announce-a-series-of-performances-in-2013-including-their-first-london-show-since-their-reunion.md)
-_Context: London, The Stone Roses, reunion_
+_Context: reunion, The Stone Roses, London_
 
 ##### The Walt Disney Company
 ### [The Walt Disney Company purchases Lucasfilm Ltd. from George Lucas for US$4.05 billion. Included in the deal are the rights to the "Star Wars" and "Indiana Jones" franchises. ](/news/2012/10/30/the-walt-disney-company-purchases-lucasfilm-ltd-from-george-lucas-for-us-4-05-billion-included-in-the-deal-are-the-rights-to-the-star-war.md)
-_Context: George Lucas, Indiana Jones, Lucasfilm Ltd., Star Wars, The Walt Disney Company_
+_Context: George Lucas, Lucasfilm Ltd., Indiana Jones, Star Wars, The Walt Disney Company_
 
 ##### United Nations
 ### [Aid workers and the United Nations raise concerns about rising food prices and increased cholera in Haiti, where Hurricane Sandy has killed at least 52 people. ](/news/2012/10/30/aid-workers-and-the-united-nations-raise-concerns-about-rising-food-prices-and-increased-cholera-in-haiti-where-hurricane-sandy-has-killed.md)
@@ -53,9 +53,9 @@ Officials fear rising food prices and an increase in cholera cases in Caribbean 
 
 ##### Hurricane Sandy
 ### [Hurricane Sandy makes landfall near Atlantic City, New Jersey, with widespread flooding and at least 29 deaths in the Northeastern United States. ](/news/2012/10/30/hurricane-sandy-makes-landfall-near-atlantic-city-new-jersey-with-widespread-flooding-and-at-least-29-deaths-in-the-northeastern-united-st.md)
-_Context: Hurricane Sandy, Northeastern United States, Atlantic City, New Jersey_
+_Context: Northeastern United States, Hurricane Sandy, Atlantic City, New Jersey_
 
-##### high court
+##### High court
 ### [Rwanda's high court sentences opposition leader, Victoire Ingabire, to eight years in prison, convicting her of "conspiring to harm the country through war and terror, and minimizing" the 1994 genocide in Rwanda. ](/news/2012/10/30/rwandaas-high-court-sentences-opposition-leader-victoire-ingabire-to-eight-years-in-prison-convicting-her-of-conspiring-to-harm-the-co.md)
 Victoire Ingabire, a Hutu politician, was found guilty of two charges related to Rwanda’s 1994 genocide, in a trial widely seen as a test of the country’s tolerance of dissent.
 

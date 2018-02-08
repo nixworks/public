@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/10/ten-people-are-trampled-to-death-at-a-rock-conc
 
 ### [2008-02-10](/news/2008/02/10/index.md)
 
-##### rock concert
+##### Rock concert
 #  Ten people are trampled to death at a rock concert in Bandung, Indonesia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/21/seven-people-are-shot-and-wounded-at-a-nightclu
 
 ### [2013-03-21](/news/2013/03/21/index.md)
 
-##### nightclub
+##### Nightclub
 # Seven people are shot and wounded at a nightclub in Chicago, Illinois, United States. 
 
 

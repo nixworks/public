@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/1/a-man-who-had-been-detained-since-december-2001-
 
 ### [2005-02-1](/news/2005/02/1/index.md)
 
-##### detention camps
+##### Detention camps
 #  A man who had been detained since December 2001 in the UK without a trial, or a charge, on suspicion of being involved in terrorism has been released without conditions, his lawyer states. 
 
 

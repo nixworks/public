@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/15/the-death-toll-from-the-explosions-in-tianjin-r
 
 ### [2015-08-15](/news/2015/08/15/index.md)
 
-##### the explosions last year
+##### The explosions last year
 # The death toll from the explosions in Tianjin rises to at least 85. In a further update, Chinese state media says that the death toll is at least 104. 
 
 Everyone within three kilometres of blast site in China urged to get out amid fears of poisoning by sodium cyanide as death toll rises to 104

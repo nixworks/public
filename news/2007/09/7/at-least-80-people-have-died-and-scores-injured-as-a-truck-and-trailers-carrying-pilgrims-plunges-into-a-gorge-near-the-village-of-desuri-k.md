@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/7/at-least-80-people-have-died-and-scores-injured-
 
 ### [2007-09-7](/news/2007/09/7/index.md)
 
-##### pilgrim
+##### Pilgrim
 #  At least 80 people have died and scores injured as a truck and trailers carrying pilgrims plunges into a gorge near the village of Desuri Ki Naal in Rajasthan, India. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/5/a-third-mass-rally-in-support-of-secularism-in-t
 
 ### [2007-05-5](/news/2007/05/5/index.md)
 
-##### third mass rally
+##### Third mass rally
 #  A third mass rally in support of secularism in Turkey is held in Canakkale, protesting against the Justice and Development Party (AKP) regarding the presidential election. 
 
 

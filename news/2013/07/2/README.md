@@ -21,7 +21,7 @@ _Context: Shi'ite_
 
 ##### Pakistan
 ### [At least seven people are killed in Pakistan after an American drone strike targets a militant compound near the border with Afghanistan. ](/news/2013/07/2/at-least-seven-people-are-killed-in-pakistan-after-an-american-drone-strike-targets-a-militant-compound-near-the-border-with-afghanistan.md)
-_Context: drones launch, Pakistan, Afghanistan_
+_Context: Pakistan, Afghanistan, drones launch_
 
 ##### Pope Francis
 ### [Pending approval from Pope Francis, reports that Pope John Paul II may be canonized at the end of the year are confirmed after approval by the Vatican Congregation for the Causes of Saints of an alleged second miracle. ](/news/2013/07/2/pending-approval-from-pope-francis-reports-that-pope-john-paul-ii-may-be-canonized-at-the-end-of-the-year-are-confirmed-after-approval-by-t.md)
@@ -45,7 +45,7 @@ Former Chad leader Hissene Habre has appeared in court in the Senagalese capital
 
 ##### Evo Morales
 ### [France and Portugal refuse to allow the plane of Bolivian President Evo Morales to land on their respective territories after suspicions that Edward Snowden was on board. ](/news/2013/07/2/france-and-portugal-refuse-to-allow-the-plane-of-bolivian-president-evo-morales-to-land-on-their-respective-territories-after-suspicions-tha.md)
-_Context: Evo Morales, Edward Snowden_
+_Context: Edward Snowden, Evo Morales_
 
 ##### Wales
 ### [Wales becomes the first country in the UK to adopt a presumed consent system of organ donation after members of its legislative assembly vote in favour of the system. ](/news/2013/07/2/wales-becomes-the-first-country-in-the-uk-to-adopt-a-presumed-consent-system-of-organ-donation-after-members-of-its-legislative-assembly-vot.md)
@@ -57,11 +57,11 @@ Portuguese Foreign Affairs Minister Paulo Portas, leader of junior coalition par
 
 ##### Communist Party of Cuba
 ### [The Communist Party of Cuba announces a shakeup of its leadership with former President of the National Assembly of People's Power Ricardo Alarcon and several others losing roles on the Central Committee. ](/news/2013/07/2/the-communist-party-of-cuba-announces-a-shakeup-of-its-leadership-with-former-president-of-the-national-assembly-of-people-s-power-ricardo-a.md)
-_Context: Ricardo Alarcon, Communist Party of Cuba, Parliament_
+_Context: Ricardo Alarcon, Parliament, Communist Party of Cuba_
 
 ##### Proton-M
 ### [A Russian Proton-M rocket carrying three GLONASS navigation satellites loses control and crashes shortly after launch from Baikonur Cosmodrome in Kazakhstan.](/news/2013/07/2/a-russian-proton-m-rocket-carrying-three-glonass-navigation-satellites-loses-control-and-crashes-shortly-after-launch-from-baikonur-cosmodro.md)
-_Context: Baikonur Cosmodrome, Proton-M, Kazakhstan, GLONASS_
+_Context: Baikonur Cosmodrome, Kazakhstan, GLONASS, Proton-M_
 
 ##### International Astronomical Union
 ### [The International Astronomical Union names Pluto's fourth and fifth moons, Kerberos and Styx. ](/news/2013/07/2/the-international-astronomical-union-names-pluto-s-fourth-and-fifth-moons-kerberos-and-styx.md)

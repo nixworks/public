@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/4/a-suicide-bomberer-in-irbil-a-kurdish-city-of-no
 
 ### [2005-05-4](/news/2005/05/4/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomberer in Irbil, a Kurdish city of Northern Iraq, kills more than 50 people. 
 
 

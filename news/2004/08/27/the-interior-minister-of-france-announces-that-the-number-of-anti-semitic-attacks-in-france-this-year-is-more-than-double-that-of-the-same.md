@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/27/the-interior-minister-of-france-announces-that-
 
 ### [2004-08-27](/news/2004/08/27/index.md)
 
-##### anti-Semitic
+##### Anti-Semitic
 #  The Interior Minister of France announces that the number of anti-Semitic attacks in France this year is more than double that of the same period last year. 
 
 

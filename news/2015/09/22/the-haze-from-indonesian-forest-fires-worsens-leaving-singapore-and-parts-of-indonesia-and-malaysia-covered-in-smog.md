@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/22/the-haze-from-indonesian-forest-fires-worsens-l
 
 ### [2015-09-22](/news/2015/09/22/index.md)
 
-##### recent incident of hazes in 2015
+##### Recent incident of hazes in 2015
 # The haze from Indonesian forest fires worsens leaving Singapore and parts of Indonesia and Malaysia covered in smog. 
 
 [JAKARTA] The haze from Indonesian forest fires intensified Tuesday afternoon, driving the pollution gauge in parts of the country to hazardous levels and blanketing downtown Singapore with a layer of smog. Read more at The Business Times.

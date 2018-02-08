@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/24/gardai-from-ireland-s-criminal-investigation-bu
 
 ### [2009-02-24](/news/2009/02/24/index.md)
 
-##### garda
+##### Garda
 #  Garda from Ireland's Criminal Investigation Bureau conduct a search for illegal documentation at the Anglo Irish Bank headquarters in Saint Stephen's Green, Dublin. 
 
 Gardaí attached to the ODCE have ended their search at the Anglo Irish Bank headquarters in Dublin.

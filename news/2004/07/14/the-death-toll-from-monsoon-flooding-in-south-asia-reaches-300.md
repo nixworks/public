@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/14/the-death-toll-from-monsoon-flooding-in-south-a
 
 ### [2004-07-14](/news/2004/07/14/index.md)
 
-##### monsoon
+##### Monsoon
 #  The death toll from monsoon flooding in South Asia reaches 300. 
 
 

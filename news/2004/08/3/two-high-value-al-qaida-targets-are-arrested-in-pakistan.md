@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/3/two-high-value-al-qaida-targets-are-arrested-in-
 
 ### [2004-08-3](/news/2004/08/3/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 #  Two 'high-value' al-Qaida targets are arrested in Pakistan. 
 
 

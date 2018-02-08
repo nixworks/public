@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/12/a-man-under-investigation-for-the-sexual-abuse-
 
 ### [2008-03-12](/news/2008/03/12/index.md)
 
-##### orphanage
+##### Orphanage
 #  A man under investigation for the sexual abuse of children at an orphanage in Sofia, Bulgaria, opens fire on teenage witnesses, killing one and wounding two others before committing suicide. 
 
 A gunman shot dead a 15-year-old girl and wounded two other children at a Bulgarian orphanage on Wednesday before killing himself, police said.

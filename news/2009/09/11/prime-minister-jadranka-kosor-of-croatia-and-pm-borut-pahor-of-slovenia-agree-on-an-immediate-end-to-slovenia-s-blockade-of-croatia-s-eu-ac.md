@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/11/prime-minister-jadranka-kosor-of-croatia-and-pm
 
 ### [2009-09-11](/news/2009/09/11/index.md)
 
-##### prime minister
+##### Prime minister
 #  Prime minister Jadranka Kosor of Croatia and PM Borut Pahor of Slovenia agree on an immediate end to Slovenia's blockade of Croatia's EU accession and further negotiation of the Gulf of Piran border dispute between two countries. 
 
 

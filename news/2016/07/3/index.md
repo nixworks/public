@@ -23,11 +23,11 @@ At least eight people have died after a Russian plane on a fire-fighting mission
 ### [The European Union warns Switzerland that it will lose access to its single market if it goes through with its plan to impose restrictions on the free movement of EU citizens. In a referendum held back in February 9, 2014, Swiss voters approved limiting the movement of economic migrants from the EU in the country. Current laws allow migrants to enter Switzerland without visas. ](/news/2016/07/3/the-european-union-warns-switzerland-that-it-will-lose-access-to-its-single-market-if-it-goes-through-with-its-plan-to-impose-restrictions-o.md)
 Swiss-EU talks reveal determination of EU to make no concessions to UK over Brexit terms
 
-##### drug crackdown
+##### Drug crackdown
 ### [Ten people are killed by the Philippine National Police within a week after Rodrigo Duterte took office as president and made statements encouraging the murder of illegal drug addicts. ](/news/2016/07/3/ten-people-are-killed-by-the-philippine-national-police-within-a-week-after-rodrigo-duterte-took-office-as-president-and-made-statements-enc.md)
-_Context: Philippine National Police, addicts, illegal drug, Rodrigo Duterte, drug crackdown_
+_Context: Philippine National Police, drug crackdown, illegal drug, Rodrigo Duterte, addicts_
 
-##### last month's presidential election
+##### Last month's presidential election
 ### [Former French President Nicolas Sarkozy resigns as leader of The Republicans party and announces his candidacy for President again. ](/news/2016/07/3/former-french-president-nicolas-sarkozy-resigns-as-leader-of-the-republicans-party-and-announces-his-candidacy-for-president-again.md)
 Leader of conservative Les Republicains party announces he will step down as its head, paving the way to enter primaries ahead of 2017 contest
 

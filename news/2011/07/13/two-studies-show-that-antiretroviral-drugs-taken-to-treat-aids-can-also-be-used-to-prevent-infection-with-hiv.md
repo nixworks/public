@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/13/two-studies-show-that-antiretroviral-drugs-take
 
 ### [2011-07-13](/news/2011/07/13/index.md)
 
-##### antiretroviral drugs
+##### Antiretroviral drugs
 # Two studies show that antiretroviral drugs taken to treat AIDS can also be used to prevent infection with HIV. 
 
 Two studies in Africa show AIDS drugs taken daily can cut the chance of HIV infection by half.

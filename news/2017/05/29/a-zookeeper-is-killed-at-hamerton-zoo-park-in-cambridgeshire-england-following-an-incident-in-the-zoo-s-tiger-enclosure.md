@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/29/a-zookeeper-is-killed-at-hamerton-zoo-park-in-c
 
 ### [2017-05-29](/news/2017/05/29/index.md)
 
-##### zookeeper
+##### Zookeeper
 # A zookeeper is killed at Hamerton Zoo Park in Cambridgeshire, England, following an incident in the zoo's tiger enclosure. 
 
 

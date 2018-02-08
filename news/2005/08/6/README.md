@@ -5,7 +5,7 @@ Formats: [HTML](2005/08/6/index.html)  [JSON](2005/08/6/index.json)  [XML](2005/
 
 ##### United Kingdom
 ### [ The British politician and former Cabinet Minister Robin Cook dies suddenly at the age of 59. ](/news/2005/08/6/the-british-politician-and-former-cabinet-minister-robin-cook-dies-suddenly-at-the-age-of-59.md)
-_Context: Robin Cook, United Kingdom, Cabinet Minister_
+_Context: Robin Cook, Cabinet Minister, United Kingdom_
 
 ##### Jimmy Wales
 ### [ Jimmy Wales clarifies the recent media statements made about possible changes to Wikipedia editorial content. ](/news/2005/08/6/jimmy-wales-clarifies-the-recent-media-statements-made-about-possible-changes-to-wikipedia-editorial-content.md)

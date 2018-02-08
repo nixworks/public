@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/06/10/terrorism-the-u-s-government-announced-that-it-
 
 ### [2002-06-10](/news/2002/06/10/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: The U.S. government announced that it had prevented an al-Qaida attempt to construct and detonate a radiological weapon (sometimes called a "dirty bomb") in the United States.
 
 

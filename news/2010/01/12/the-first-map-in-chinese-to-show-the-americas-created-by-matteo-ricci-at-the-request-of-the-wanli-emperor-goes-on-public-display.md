@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/12/the-first-map-in-chinese-to-show-the-americas-c
 
 ### [2010-01-12](/news/2010/01/12/index.md)
 
-##### map
+##### Map
 # The first map in Chinese to show the Americas, created by Matteo Ricci at the request of the Wanli Emperor, goes on public display. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/17/2010a2011-tunisian-protests-anti-government-dem
 
 ### [2011-01-17](/news/2011/01/17/index.md)
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 # 2010-2011 Tunisian protests: Anti-government demonstrations continue to take place as a new cabinet is named. 
 
 

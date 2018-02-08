@@ -11,7 +11,7 @@ Top-secret files detailing the interrogations of more than 700 suspects at the G
 ### [2011 Libyan Civil War:NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya) off-the-air. ](/news/2011/04/25/2011-libyan-civil-war-nato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knock-3-television.md)
 Syrian security forces backed by tanks advance into the restive city of Deraa, in an apparent escalation of a crackdown on the protest movement.
 
-##### human rights
+##### Human rights
 ### [A Nigerian human rights group says 500 people were killed in violence in the north of the country following the presidential election. ](/news/2011/04/25/a-nigerian-human-rights-group-says-500-people-were-killed-in-violence-in-the-north-of-the-country-following-the-presidential-election.md)
 The Civil Rights Congress of Nigeria, a Nigerian human rights group, has announced that at least 500 people were killed in post election violence that erupted in northern Nigeria after President Goodluck Jonathan was declared the winner of the presidential election. Supporters of Muhammadu Buhari , ...
 
@@ -47,7 +47,7 @@ Video games giant Nintendo says its profits slumped by 66% last year, as it conf
 ### [At least 17 people are killed and at least 24 others are injured as a four-storey building goes up in flames in Daxing, a suburb of Beijing. ](/news/2011/04/25/at-least-17-people-are-killed-and-at-least-24-others-are-injured-as-a-four-storey-building-goes-up-in-flames-in-daxing-a-suburb-of-beijing.md)
 A fire has swept through a four-storey building in the Chinese capital, Beijing, killing at least 17 people.
 
-##### human cannonball
+##### Human cannonball
 ### [A human cannonball performer is killed in public in Kent, England, UK. ](/news/2011/04/25/a-human-cannonball-performer-is-killed-in-public-in-kent-england-uk.md)
 A man acting as a &quot;human cannonball&quot; is killed in an accident at a stunt show in Kent after a safety net collapses.
 
@@ -57,29 +57,29 @@ A tornado destroyed 50 to 80 houses and killed at least one person in an Arkansa
 
 ##### Governor of Kentucky
 ### [The Governor of Kentucky Steve Beshear declares a state of emergency due to rising flood waters from the Ohio and Mississippi Rivers. ](/news/2011/04/25/the-governor-of-kentucky-steve-beshear-declares-a-state-of-emergency-due-to-rising-flood-waters-from-the-ohio-and-mississippi-rivers.md)
-_Context: Governor of Kentucky, Steve Beshear, Ohio, state of emergency, Mississippi River_
+_Context: Mississippi River, state of emergency, Steve Beshear, Ohio, Governor of Kentucky_
 
 ##### Kazakhstan
 ### [A Kazakh UNESCO official attempts to hijack a plane and divert it to Tripoli, Libya. ](/news/2011/04/25/a-kazakh-unesco-official-attempts-to-hijack-a-plane-and-divert-it-to-tripoli-libya.md)
-_Context: Tripoli, Kazakhstan, Libya, UNESCO_
+_Context: UNESCO, Kazakhstan, Tripoli, Libya_
 
 ##### Bangladesh
 ### [A court in Bangladesh clears Nobel laureate Muhammad Yunus of misappropriating Norwegian aid money at a micro-finance bank he founded. ](/news/2011/04/25/a-court-in-bangladesh-clears-nobel-laureate-muhammad-yunus-of-misappropriating-norwegian-aid-money-at-a-micro-finance-bank-he-founded.md)
-_Context: Nobel Prize, Muhammad Yunus, Bangladesh, Norway_
+_Context: Bangladesh, Muhammad Yunus, Nobel Prize, Norway_
 
 ##### King & Spalding
 ### [King & Spalding, a prominent Atlanta-based law firm, withdraws from litigation on behalf of the Defense of Marriage Act, and partner Paul Clement resigns in protest. ](/news/2011/04/25/king-spalding-a-prominent-atlanta-based-law-firm-withdraws-from-litigation-on-behalf-of-the-defense-of-marriage-act-and-partner-paul-cl.md)
-_Context: Paul Clement, King & Spalding, Defense of Marriage Act, Atlanta_
+_Context: Defense of Marriage Act, Atlanta, King & Spalding, Paul Clement_
 
 ##### Afghan-based
 ### [Nearly 500 prisoners, many of them Afghan-based Islamic militants, escape from Kandahar's Sarposa prison. ](/news/2011/04/25/nearly-500-prisoners-many-of-them-afghan-based-islamic-militants-escape-from-kandahar-s-sarposa-prison.md)
-_Context: Kandahar, Islamic terrorism, Afghan-based, Sarposa prison_
+_Context: Kandahar, Afghan-based, Sarposa prison, Islamic terrorism_
 
 ##### United Nations
 ### [The United Nations publishes the full "Reprt of the Secretary-General's Panel of Experts on Accountability In Sri Lanka" which finds "credible allegations" which, if proven, indicate that war crimes and crimes against humanity were committed both by the Government of Sri Lanka and the LTTE in the final stages of the Sri Lankan Civil War. ](/news/2011/04/25/the-united-nations-publishes-the-full-reprt-of-the-secretary-general-s-panel-of-experts-on-accountability-in-sri-lanka-which-finds-credib.md)
 Sri Lankan troops carried out widespread shelling which killed most of the thousands of civilians who died in a 2009 offensive against Tamil Tigers, UN experts say.
 
-##### die-in
+##### Die-in
 ### [About 700 anti-nuclear activists hold a die-in on the border of France and Germany to mark the 25th anniversary of the Chernobyl disaster and after the Fukushima I nuclear accidents in Japan. ](/news/2011/04/25/about-700-anti-nuclear-activists-hold-a-die-in-on-the-border-of-france-and-germany-to-mark-the-25th-anniversary-of-the-chernobyl-disaster-an.md)
 Around 700 anti-nuclear protesters staged a &#034;die in&#034; on a bridge on the Franco-German border on Monday, on the eve of the 25th anniversary of Chernobyl and after Japan&#039;s Fukushima nuclear accident.
 

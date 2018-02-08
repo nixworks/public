@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/6/the-french-ship-dignity-al-karama-is-reported-to
 
 ### [2011-07-6](/news/2011/07/6/index.md)
 
-##### international waters
+##### International waters
 # The French ship "Dignity Al Karama" is reported to have successfully reached international waters and is heading for the Gaza Strip, with hopes expressed that the remaining unsabotaged ships currently being held by Greek authorities will soon join it. 
 
 

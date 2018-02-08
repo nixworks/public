@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/25/new-traces-of-melamine-in-milk-products-are-dis
 
 ### [2010-01-25](/news/2010/01/25/index.md)
 
-##### melamine
+##### Melamine
 # New traces of melamine in milk products are discovered in China, more than a year after thousands of children became ill from a previous incident. 
 
 

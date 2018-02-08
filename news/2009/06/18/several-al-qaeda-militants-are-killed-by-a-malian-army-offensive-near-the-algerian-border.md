@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/18/several-al-qaeda-militants-are-killed-by-a-mali
 
 ### [2009-06-18](/news/2009/06/18/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  Several Al-Qaeda militants are killed by a Malian army offensive near the Algerian border. 
 
 Mali’s army on Tuesday attacked an al-Qaeda base near the Algerian border, killing several militants, security sources said, nearly two weeks after the group said it had killed a British hostage.

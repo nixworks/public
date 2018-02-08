@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/24/ten-corpses-with-gunshot-wounds-thought-to-belo
 
 ### [2009-10-24](/news/2009/10/24/index.md)
 
-##### corpses with gunshot wounds
+##### Corpses with gunshot wounds
 #  Ten corpses with gunshot wounds thought to belong to a kidnapped Colombian football team are located in Venezuela. 
 
 

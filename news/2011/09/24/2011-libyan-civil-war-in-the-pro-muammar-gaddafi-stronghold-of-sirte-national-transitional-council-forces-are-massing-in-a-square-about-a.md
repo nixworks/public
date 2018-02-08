@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/24/2011-libyan-civil-war-in-the-pro-muammar-gaddaf
 
 ### [2011-09-24](/news/2011/09/24/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: In the pro-Muammar Gaddafi stronghold of Sirte, National Transitional Council forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. 
 
 

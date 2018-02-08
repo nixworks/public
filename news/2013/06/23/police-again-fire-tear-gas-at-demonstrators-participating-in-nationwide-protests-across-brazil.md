@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/23/police-again-fire-tear-gas-at-demonstrators-par
 
 ### [2013-06-23](/news/2013/06/23/index.md)
 
-##### tear gas
+##### Tear gas
 # Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/11/a-fire-occurs-in-the-channel-tunnel-and-the-tun
 
 ### [2008-09-11](/news/2008/09/11/index.md)
 
-##### fire occurs
+##### Fire occurs
 #  A fire occurs in the Channel Tunnel and the tunnel is closed until further notice. 
 
 

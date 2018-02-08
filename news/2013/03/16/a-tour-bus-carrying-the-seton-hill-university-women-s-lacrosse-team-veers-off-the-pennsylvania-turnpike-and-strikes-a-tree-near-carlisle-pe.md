@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/16/a-tour-bus-carrying-the-seton-hill-university-w
 
 ### [2013-03-16](/news/2013/03/16/index.md)
 
-##### tour bus
+##### Tour bus
 # A tour bus carrying the Seton Hill University women's lacrosse team veers off the Pennsylvania Turnpike and strikes a tree near Carlisle, Pennsylvania, United States, killing the team's head coach, her unborn child, and the bus driver. 
 
 

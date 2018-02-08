@@ -5,13 +5,13 @@ Formats: [HTML](2013/12/3/index.html)  [JSON](2013/12/3/index.json)  [XML](2013/
 
 ##### Russia
 ### [Russian ballet dancer Pavel Dmitrichenko is convicted of organizing an acid attack on Sergei Filin, artistic director of the Bolshoi Theatre. ](/news/2013/12/3/russian-ballet-dancer-pavel-dmitrichenko-is-convicted-of-organizing-an-acid-attack-on-sergei-filin-artistic-director-of-the-bolshoi-theatre.md)
-_Context: Bolshoi Theatre, Sergei Filin, Pavel Dmitrichenko, Russia, ballet dancer_
+_Context: Bolshoi Theatre, ballet dancer, Sergei Filin, Russia, Pavel Dmitrichenko_
 
-##### inquiry
+##### Inquiry
 ### [An inquiry into the 1989 Jonesborough ambush finds that members of the Garda Siochana colluded with the IRA in the shooting of two RUC officers as they crossed the Irish border. ](/news/2013/12/3/an-inquiry-into-the-1989-jonesborough-ambush-finds-that-members-of-the-garda-saocha-na-colluded-with-the-ira-in-the-shooting-of-two-ruc-off.md)
 Irish police colluded in the IRA murders of two senior Northern Ireland policemen, an inquiry has found.
 
-##### cause of Yasser Arafat's death
+##### Cause of Yasser Arafat's death
 ### [A leaked French report on the cause of Yasser Arafat's death says he died of an infection. A Swiss inquiry had said polonium poisoning was most likely. ](/news/2013/12/3/a-leaked-french-report-on-the-cause-of-yasser-arafat-s-death-says-he-died-of-an-infection-a-swiss-inquiry-had-said-polonium-poisoning-was-m.md)
 French scientists say it is most likely that Palestinian leader Yasser Arafat did not die of poisoning, according to leaks from their report.
 

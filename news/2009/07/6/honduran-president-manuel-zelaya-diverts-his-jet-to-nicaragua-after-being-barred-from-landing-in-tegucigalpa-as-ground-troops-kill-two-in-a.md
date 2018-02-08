@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/6/honduran-president-manuel-zelaya-diverts-his-jet
 
 ### [2009-07-6](/news/2009/07/6/index.md)
 
-##### a ''coup d'tat''
+##### A ''coup d'tat''
 #  Honduran President Manuel Zelaya diverts his jet to Nicaragua after being barred from landing in Tegucigalpa as ground troops kill two in a battle against supporters with the country in turmoil. 
 
 

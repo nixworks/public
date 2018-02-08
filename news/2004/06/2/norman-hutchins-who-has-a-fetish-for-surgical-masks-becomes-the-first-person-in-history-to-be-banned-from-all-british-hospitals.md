@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/2/norman-hutchins-who-has-a-fetish-for-surgical-ma
 
 ### [2004-06-2](/news/2004/06/2/index.md)
 
-##### fetish
+##### Fetish
 #  Norman Hutchins, who has a fetish for surgical masks becomes the first person in history to be banned from all British hospitals. 
 
 

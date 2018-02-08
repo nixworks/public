@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/30/russia-begins-to-withdraw-its-troops-from-the-m
 
 ### [2005-07-30](/news/2005/07/30/index.md)
 
-##### military base
+##### Military base
 #  Russia begins to withdraw its troops from the military bases in Georgia 
 
 

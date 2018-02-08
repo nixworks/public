@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/7/eleven-police-officers-are-shot-with-five-dying-
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
-##### the shooting of Dallas police officers
+##### The shooting of Dallas police officers
 # Eleven police officers are shot, with five dying of gunshot wounds in Dallas, Texas during a protest against two black men killed within a day of each other. Police kill the shooter with a bomb delivered on a bomb defusing robot. 
 
 Snipers gunned down five police officers and injured seven others during protests over two fatal police shootings of black men — an explosion of violence described as the deadliest day for law enfo…

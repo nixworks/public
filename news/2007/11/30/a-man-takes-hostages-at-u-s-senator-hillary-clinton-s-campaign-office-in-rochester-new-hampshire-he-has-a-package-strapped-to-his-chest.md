@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/30/a-man-takes-hostages-at-u-s-senator-hillary-cli
 
 ### [2007-11-30](/news/2007/11/30/index.md)
 
-##### hostage
+##### Hostage
 #  A man takes hostages at U.S. Senator Hillary Clinton's campaign office in Rochester, New Hampshire. He has a package strapped to his chest. The siege ends at 6pm with his arrest. 
 
 A man suspected of holding at least four people hostage at a campaign office of Senator Hillary Rodham Clinton in Rochester, N.H., is in custody.

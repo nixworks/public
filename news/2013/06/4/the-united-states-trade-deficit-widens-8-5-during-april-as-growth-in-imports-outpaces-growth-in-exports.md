@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-durin
 
 ### [2013-06-4](/news/2013/06/4/index.md)
 
-##### trade deficit
+##### Trade deficit
 # The United States trade deficit widens 8.5% during April as growth in imports outpaces growth in exports. 
 
 A wide trade gap can restrain growth because it means Americans are spending more on foreign goods than United States companies are gaining in overseas sales.

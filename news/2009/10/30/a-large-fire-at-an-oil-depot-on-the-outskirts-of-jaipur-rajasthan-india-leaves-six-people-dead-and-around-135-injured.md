@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/30/a-large-fire-at-an-oil-depot-on-the-outskirts-o
 
 ### [2009-10-30](/news/2009/10/30/index.md)
 
-##### large fire
+##### Large fire
 #  A large fire at an oil depot on the outskirts of Jaipur, Rajasthan, India, leaves six people dead and around 135 injured. 
 
 

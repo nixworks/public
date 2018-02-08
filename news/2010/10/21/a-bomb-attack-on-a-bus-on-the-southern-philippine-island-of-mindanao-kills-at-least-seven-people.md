@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/21/a-bomb-attack-on-a-bus-on-the-southern-philippi
 
 ### [2010-10-21](/news/2010/10/21/index.md)
 
-##### bomb
+##### Bomb
 # A bomb attack on a bus on the southern Philippine island of Mindanao kills at least seven people. 
 
 A bomb attack on a bus in the southern Philippines kills nine people and injures several others, security personnel say.

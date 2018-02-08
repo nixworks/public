@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/21/after-the-shooting-of-kian-loyd-delos-santos-a-
 
 ### [2017-08-21](/news/2017/08/21/index.md)
 
-##### drug crackdown
+##### Drug crackdown
 # After the shooting of Kian Loyd delos Santos, a 17-year-old student, in the campaign against drugs in the Philippines, thousands of marchers protest in EDSA heeding calls from the Philippine Catholic Church to criticize the drug war. 
 
 

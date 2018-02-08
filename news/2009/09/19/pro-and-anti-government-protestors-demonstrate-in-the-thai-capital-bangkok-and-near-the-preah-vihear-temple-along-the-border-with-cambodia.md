@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/19/pro-and-anti-government-protestors-demonstrate-
 
 ### [2009-09-19](/news/2009/09/19/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  Pro and anti government protestors demonstrate in the Thai capital Bangkok and near the Preah Vihear Temple along the border with Cambodia. 
 
 

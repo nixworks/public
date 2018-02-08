@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/3/at-least-23-people-die-in-an-earthquake-in-weste
 
 ### [2008-02-3](/news/2008/02/3/index.md)
 
-##### earthquake
+##### Earthquake
 #  At least 23 people die in an earthquake in western Rwanda. 
 
 

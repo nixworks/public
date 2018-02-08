@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/4/police-arrest-a-student-for-allegedly-stabbing-a
 
 ### [2013-09-4](/news/2013/09/4/index.md)
 
-##### stabbing
+##### Stabbing
 # Police arrest a student for allegedly stabbing another student to death and injuring three more at Spring High School in Spring, Texas, U.S. 
 
 

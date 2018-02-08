@@ -5,23 +5,23 @@ Formats: [HTML](2009/05/29/index.html)  [JSON](2009/05/29/index.json)  [XML](200
 
 ##### MP
 ### [ Member of Parliament for Scunthorpe Elliot Morley will resign at the United Kingdom's 2010 General Election. ](/news/2009/05/29/member-of-parliament-for-scunthorpe-elliot-morley-will-resign-at-the-united-kingdom-s-2010-general-election.md)
-_Context: Parliament, Scunthorpe, Elliot Morley, United Kingdom, resignation, MP, 2010 general election_
+_Context: United Kingdom, MP, Parliament, resignation, 2010 general election, Scunthorpe, Elliot Morley_
 
 ##### United States
 ### [ American record producer Phil Spector is jailed for 19 years for murdering actress Lana Clarkson in 2003. ](/news/2009/05/29/american-record-producer-phil-spector-is-jailed-for-19-years-for-murdering-actress-lana-clarkson-in-2003.md)
-_Context: Phil Spector, record producer, murder, Lana Clarkson, United States_
+_Context: United States, murder, Lana Clarkson, Phil Spector, record producer_
 
-##### media
+##### Media
 ### [ American media companies Time Warner and AOL terminate their merger. ](/news/2009/05/29/american-media-companies-time-warner-and-aol-terminate-their-merger.md)
 Nearly a decade after high-flying upstart AOL bought media titan Time Warner Inc. in what turned out to be one of the most disastrous mergers in history, the two parted company Thursday, leaving both firms searching for their places in an altered media landscape.
 
 ##### Irish
 ### [ Irish brewery Beamish and Crawford closes after 217 years in business. ](/news/2009/05/29/irish-brewery-beamish-and-crawford-closes-after-217-years-in-business.md)
-_Context: Beamish and Crawford, brewery, Irish_
+_Context: brewery, Irish, Beamish and Crawford_
 
-##### broadcaster
+##### Broadcaster
 ### [ Irish broadcaster Pat Kenny hosts his final episode of "The Late Late Show". ](/news/2009/05/29/irish-broadcaster-pat-kenny-hosts-his-final-episode-of-the-late-late-show.md)
-_Context: The Late Late Show, Pat Kenny, broadcaster_
+_Context: Pat Kenny, broadcaster, The Late Late Show_
 
 ##### Kavya Shivashankar
 ### [ Kavya Shivashankar of Kansas wins the Scripps National Spelling Bee in Washington, D.C. ](/news/2009/05/29/kavya-shivashankar-of-kansas-wins-the-scripps-national-spelling-bee-in-washington-d-c.md)
@@ -29,35 +29,35 @@ Kavya Shivashankar emerges spelling bee winner after spelling her final word, &q
 
 ##### South Korean President
 ### [ Former President Roh Moo-hyun's state funeral is held in Seoul, South Korea. ](/news/2009/05/29/former-president-roh-moo-hyun-s-state-funeral-is-held-in-seoul-south-korea.md)
-_Context: Seoul, South Korea, state funeral, South Korean President, Roh Moo-hyun_
+_Context: state funeral, Seoul, Roh Moo-hyun, South Korean President, South Korea_
 
 ##### United States
 ### [ The United States Department of Defense will create a computer-security military command. ](/news/2009/05/29/the-united-states-department-of-defense-will-create-a-computer-security-military-command.md)
-_Context: U.S. military, United States, Computer security, military command_
+_Context: U.S. military, military command, Computer security, United States_
 
-##### dam
+##### Dam
 ### [ Four people are killed when a dam bursts in Piaui, Brazil. ](/news/2009/05/29/four-people-are-killed-when-a-dam-bursts-in-piaua-brazil.md)
 _Context: Brazil, dam, Piaui_
 
 ##### Lujo
 ### [ The lethal Lujo virus is identified in Africa. ](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.md)
-_Context: Africa, virus, Lujo_
+_Context: Lujo, virus, Africa_
 
 ##### North Korea
 ### [ North Korea launches a short-range ballistic missile. ](/news/2009/05/29/north-korea-launches-a-short-range-ballistic-missile.md)
-_Context: short-range ballistic missile, North Korea, North Korea's nuclear program_
+_Context: short-range ballistic missile, North Korea's nuclear program, North Korea_
 
 ##### Soyuz TMA-15
 ### [ Soyuz TMA-15 docks with the International Space Station. ](/news/2009/05/29/soyuz-tma-15-docks-with-the-international-space-station.md)
-_Context: International Space Station, Soyuz TMA-15, docks_
+_Context: docks, Soyuz TMA-15, International Space Station_
 
 ##### Government of Ireland
 ### [ Ireland's government intends to further recapitalize Anglo Irish Bank by EUR4 billion. ](/news/2009/05/29/ireland-s-government-intends-to-further-recapitalize-anglo-irish-bank-by-a-4-billion.md)
 The Government is to seek EU approval to inject up to &euro;4 billion of capital into the nationalised Anglo Irish Bank after it reported&hellip;
 
-##### civilian
+##### Civilian
 ### [ At least 20,000 civilians were reportedly killed during the final five months of Sri Lanka's civil war. ](/news/2009/05/29/at-least-20-000-civilians-were-reportedly-killed-during-the-final-five-months-of-sri-lanka-s-civil-war.md)
-_Context: killed, civilian, Sri Lankan Civil War, Sri Lanka_
+_Context: Sri Lankan Civil War, civilian, Sri Lanka, killed_
 
 ## [Previous Day...](/news/2009/05/28/index.md)
 

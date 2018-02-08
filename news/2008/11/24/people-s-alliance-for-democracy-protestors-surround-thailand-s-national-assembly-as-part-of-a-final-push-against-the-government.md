@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/24/people-s-alliance-for-democracy-protestors-surr
 
 ### [2008-11-24](/news/2008/11/24/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  People's Alliance for Democracy protestors surround Thailand's National Assembly as part of a "final push" against the government. 
 
 Thousands of Thai protesters surrounded parliament Monday in an effort to prevent lawmakers from meeting in what they say is their final push in a six-month campaign against the government.

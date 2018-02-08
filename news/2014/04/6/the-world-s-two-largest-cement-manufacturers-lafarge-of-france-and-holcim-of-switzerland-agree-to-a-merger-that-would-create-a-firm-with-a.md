@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/6/the-world-s-two-largest-cement-manufacturers-laf
 
 ### [2014-04-6](/news/2014/04/6/index.md)
 
-##### cement
+##### Cement
 # The world's two largest cement manufacturers, LaFarge of France and Holcim of Switzerland, agree to a merger that would create a firm with a market value of $55 billion. 
 
 * Combined entity would have market value of $55 bln* Firms to announce plan on Monday, Holcim would buy Lafarge* Companies already working t

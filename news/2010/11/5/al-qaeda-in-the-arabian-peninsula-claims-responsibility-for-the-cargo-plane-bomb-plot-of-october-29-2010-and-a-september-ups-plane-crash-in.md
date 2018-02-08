@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/5/al-qaeda-in-the-arabian-peninsula-claims-respons
 
 ### [2010-11-5](/news/2010/11/5/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 # Al-Qaeda in the Arabian Peninsula claims responsibility for the cargo plane bomb plot of October 29, 2010 and a September UPS plane crash in Dubai. 
 
 

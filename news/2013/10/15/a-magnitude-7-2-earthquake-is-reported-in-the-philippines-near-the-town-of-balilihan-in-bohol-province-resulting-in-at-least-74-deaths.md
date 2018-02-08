@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/10/15/a-magnitude-7-2-earthquake-is-reported-in-the-p
 
 ### [2013-10-15](/news/2013/10/15/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 7.2 earthquake is reported in the Philippines near the town of Balilihan in Bohol province resulting in at least 74 deaths. 
 
 A powerful earthquake measuring 7.2 struck islands popular with tourists in the Philippines on Tuesday, killing at least 74 people, some as they prayed in a centuries-old church, and causing widespread damage to infrastructure, officials said.

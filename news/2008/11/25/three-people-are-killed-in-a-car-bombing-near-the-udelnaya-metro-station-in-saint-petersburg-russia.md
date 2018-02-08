@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/25/three-people-are-killed-in-a-car-bombing-near-t
 
 ### [2008-11-25](/news/2008/11/25/index.md)
 
-##### car bombing
+##### Car bombing
 #  Three people are killed in a car bombing near the Udelnaya Metro station in Saint Petersburg, Russia. 
 
 

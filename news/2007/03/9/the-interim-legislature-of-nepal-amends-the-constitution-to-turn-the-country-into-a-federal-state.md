@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/9/the-interim-legislature-of-nepal-amends-the-cons
 
 ### [2007-03-9](/news/2007/03/9/index.md)
 
-##### no sitting national Legislature
+##### No sitting national Legislature
 #  The Interim legislature of Nepal amends the constitution to turn the country into a federal state. 
 
 

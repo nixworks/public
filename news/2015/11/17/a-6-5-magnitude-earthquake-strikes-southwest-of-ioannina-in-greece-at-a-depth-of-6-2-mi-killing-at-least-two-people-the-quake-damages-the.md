@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/17/a-6-5-magnitude-earthquake-strikes-southwest-of
 
 ### [2015-11-17](/news/2015/11/17/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.5-magnitude earthquake strikes southwest of Ioannina in Greece, at a depth of 6.2 mi killing at least two people. The quake damages the main road in the southwestern part of Lefkada. 
 
 A 6.5-magnitude earthquake struck southwest of Ioannina in Greece at a depth of some 10 kilometers, according to the US Geological Service. Two people have been reported dead. 

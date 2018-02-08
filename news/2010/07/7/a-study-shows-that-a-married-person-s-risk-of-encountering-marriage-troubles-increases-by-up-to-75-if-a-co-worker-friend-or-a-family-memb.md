@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/7/a-study-shows-that-a-married-person-s-risk-of-en
 
 ### [2010-07-7](/news/2010/07/7/index.md)
 
-##### divorce
+##### Divorce
 # A study shows that a married person's risk of encountering marriage troubles increases by up to 75% if a co-worker, friend, or a family member gets a divorce. 
 
 

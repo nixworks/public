@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/15/a-meeting-of-senior-officials-from-countries-th
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
-##### tensions
+##### Tensions
 # A meeting of senior officials from countries that backed South Korea in the Korean War begins today in Vancouver which will look at ways to better implement sanctions to push North Korea to abandon its nuclear weapons. China and Russia, which backed the North in the war but have since agreed to U.N. sanctions on Pyongyang, will not be attending the meeting. 
 
 

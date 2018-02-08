@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/3/in-response-to-his-million-dollar-bill-gospel-tr
 
 ### [2006-06-3](/news/2006/06/3/index.md)
 
-##### million dollar bill
+##### Million dollar bill
 #  In response to his million dollar bill gospel tracts being seized from The Great News Network by the United States Secret Service, Ray Comfort, founder of Living Waters Publications, states that he will refuse to turn over his supply of tracts without a warrant. 
 
 

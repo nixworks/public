@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/9/turkey-fully-abolishes-the-death-penalty.html)  
 
 ### [2004-01-9](/news/2004/01/9/index.md)
 
-##### capital punishment
+##### Capital punishment
 #  Turkey fully abolishes the death penalty.
 
 

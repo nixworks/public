@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/15/american-and-canadian-researchers-publish-a-pap
 
 ### [2003-06-15](/news/2003/06/15/index.md)
 
-##### gene linkage
+##### Gene linkage
 #  American and Canadian researchers publish a paper that uses gene linkage techniques to identify a mutation in the GRK3 gene as a possible cause of up to 10% of cases of bipolar disorder, one of the major mental illnesses.
 
 

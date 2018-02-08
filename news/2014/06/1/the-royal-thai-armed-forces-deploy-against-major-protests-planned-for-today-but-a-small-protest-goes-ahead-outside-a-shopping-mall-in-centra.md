@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/1/the-royal-thai-armed-forces-deploy-against-major
 
 ### [2014-06-1](/news/2014/06/1/index.md)
 
-##### military coup
+##### Military coup
 # The Royal Thai Armed Forces deploy against major protests planned for today but a small protest goes ahead outside a shopping mall in central Bangkok. 
 
 

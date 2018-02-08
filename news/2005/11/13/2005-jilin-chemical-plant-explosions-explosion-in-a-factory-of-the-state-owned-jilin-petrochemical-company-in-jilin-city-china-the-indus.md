@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/13/2005-jilin-chemical-plant-explosions-explosion-
 
 ### [2005-11-13](/news/2005/11/13/index.md)
 
-##### last year's toxic chemical spill
+##### Last year's toxic chemical spill
 #  2005 Jilin chemical plant explosions: Explosion in a factory of the state-owned Jilin Petrochemical Company in Jilin City, China. The industrial accident results in 100 tons of toxic benzene and nitrobenzene contaminating a river and posing a major health problem downstream, which is covered-up by the Chinese government. 
 
 

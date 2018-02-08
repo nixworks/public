@@ -3,7 +3,7 @@ Formats: [HTML](2013/02/16/index.html)  [JSON](2013/02/16/index.json)  [XML](201
 
 ## [2013-02-16](/news/2013/02/16/index.md)
 
-##### bomb
+##### Bomb
 ### [At least 84 people are killed and more than 190 injured after a bomb explodes at a market in Hazara Town on the outskirts of Quetta, in Pakistan. Most of the victims are members of the predominantly Twelver Shia Hazara minority that was targeted by Lashkar-e-Jhangvi only a month earlier. The organization later claims responsibility for the blasts. ](/news/2013/02/16/at-least-84-people-are-killed-and-more-than-190-injured-after-a-bomb-explodes-at-a-market-in-hazara-town-on-the-outskirts-of-quetta-in-paki.md)
 At least 84 people killed in attack on vegetable market that targeted Hazara Shias in southwestern city of Quetta.
 
@@ -19,9 +19,9 @@ BERLIN -- The 63rd Berlin International Film Festival handed out its awards Satu
 ### [A G20 finance ministers meeting occurs in Moscow, Russia, with the focus on so-called currency wars. ](/news/2013/02/16/a-g20-finance-ministers-meeting-occurs-in-moscow-russia-with-the-focus-on-so-called-currency-wars.md)
 Japan&#039;s aggressive attempts to spur on its struggling economy were set to escape censure from the G20 nations today as bickering in Moscow kept alive fears of a &quot;currency war&quot;.
 
-##### magnitude
+##### Magnitude
 ### [A magnitude 6.2 earthquake occurs near the southern Philippine island of Mindanao. ](/news/2013/02/16/a-magnitude-6-2-earthquake-occurs-near-the-southern-philippine-island-of-mindanao.md)
-_Context: earthquake, Mindanao, magnitude, Philippines, hits_
+_Context: Philippines, Mindanao, magnitude, hits, earthquake_
 
 ##### Knights of Columbus
 ### [Two firefighters are killed and two others are injured extinguishing an inferno at a Knights of Columbus fraternal lodge in Bryan, Texas, United States. ](/news/2013/02/16/two-firefighters-are-killed-and-two-others-are-injured-extinguishing-an-inferno-at-a-knights-of-columbus-fraternal-lodge-in-bryan-texas-un.md)
@@ -31,9 +31,9 @@ Two Texas firefighters died and two others were seriously injured battling a fir
 ### [Malaysia detains Australian Senator Nick Xenophon who was visiting as part of a delegation to discuss forthcoming elections and seeks to deport him for taking part in a protest in Kuala Lumpur last year. ](/news/2013/02/16/malaysia-detains-australian-senator-nick-xenophon-who-was-visiting-as-part-of-a-delegation-to-discuss-forthcoming-elections-and-seeks-to-dep.md)
 Malaysian officials detain Australian senator, Nick Xenophon, under national security laws as he arrives on an election fact-finding mission.
 
-##### presidential election
+##### Presidential election
 ### [During presidential election Anthony Carmona is elected to be the next President of Trinidad and Tobago from 18 March 2013. ](/news/2013/02/16/during-presidential-election-anthony-carmona-is-elected-to-be-the-next-president-of-trinidad-and-tobago-from-18-march-2013.md)
-_Context: presidential election, Trinidad and Tobago, Anthony Carmona, President_
+_Context: Anthony Carmona, Trinidad and Tobago, President, presidential election_
 
 ## [Previous Day...](/news/2013/02/15/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/13/mark-weston-the-first-person-to-face-a-second-m
 
 ### [2010-12-13](/news/2010/12/13/index.md)
 
-##### second murder trial
+##### Second murder trial
 # Mark Weston, the first person to face a second murder trial in the United Kingdom following the discovery of new forensic evidence is convicted of killing a woman in 1995. 
 
 The first person to face a second murder trial after the discovery of new forensic evidence is convicted of killing a woman in 1995.

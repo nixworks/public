@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/30/flooding-caused-by-monsoonal-rain-causes-hundre
 
 ### [2010-07-30](/news/2010/07/30/index.md)
 
-##### devastating floods
+##### Devastating floods
 # Flooding caused by monsoonal rain causes hundreds of deaths in northwestern Pakistan. 
 
 Bridges and streets swept away in what is reported as worst flooding in 100 years.

@@ -9,15 +9,15 @@ French&#x20;freelance&#x20;photojournalist&#x20;Olivier&#x20;Voisin&#x20;has&#x2
 
 ##### Chad
 ### [10 Chadian soldiers and 28 Islamist insurgents are killed in heavy fighting in the Adrar des Ifoghas mountains of northern Mali. ](/news/2013/02/24/10-chadian-soldiers-and-28-islamist-insurgents-are-killed-in-heavy-fighting-in-the-adrar-des-ifoghas-mountains-of-northern-mali.md)
-_Context: Chad, Adrar des Ifoghas, Islamist, Mali_
+_Context: Islamist, Adrar des Ifoghas, Mali, Chad_
 
-##### suicide bombing
+##### Suicide bombing
 ### [Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-province-in-eastern-afghani.md)
 KABUL, Afghanistan -- Afghan security forces foiled an apparent suicide bomber in central Kabul on Sunday morning but attackers struck police and intelligence offices in two other eastern cities,...
 
 ##### Yobe State
 ### [At least six people die in an attack in Ngalda, Yobe State, Nigeria. ](/news/2013/02/24/at-least-six-people-die-in-an-attack-in-ngalda-yobe-state-nigeria.md)
-_Context: Yobe State, Nigeria_
+_Context: Nigeria, Yobe State_
 
 ##### Africa
 ### [Eleven African nations including all the members of the African Great Lakes region sign a United Nations brokered peace deal for the eastern region of the Democratic Republic of the Congo. ](/news/2013/02/24/eleven-african-nations-including-all-the-members-of-the-african-great-lakes-region-sign-a-united-nations-brokered-peace-deal-for-the-eastern.md)
@@ -43,9 +43,9 @@ Nicos Anastasiades, leader of Cyprus’s main opposition Disy party, was poised 
 ### [Raul Castro is elected by the National Assembly of People's Power to a second term as the President of Cuba with Miguel Diaz-Canel announced as the First Vice-President of the Council of State. ](/news/2013/02/24/raaol-castro-is-elected-by-the-national-assembly-of-people-s-power-to-a-second-term-as-the-president-of-cuba-with-miguel-daaz-canel-announc.md)
 Cuban leader Raul Castro announced on Sunday he would step down from power after his second term as president ends in 2018, and the new parliament named a 52-year-old rising star to become his first vice president and most visible successor.
 
-##### chimpanzee
+##### Chimpanzee
 ### [A new study finds that chimpanzees will solve puzzles for the fun of it. ](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.md)
-_Context: fun, chimpanzee, puzzle_
+_Context: puzzle, chimpanzee, fun_
 
 ## [Previous Day...](/news/2013/02/23/index.md)
 

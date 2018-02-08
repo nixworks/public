@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-th
 
 ### [2011-01-15](/news/2011/01/15/index.md)
 
-##### encyclopedia
+##### Encyclopedia
 # The online encyclopedia Wikipedia celebrates the tenth anniversary of its founding. 
 
 The online encyclopedia Wikipedia, which gets nearly 400 million unique visitors a month, celebrates its 10th anniversary on Saturday.

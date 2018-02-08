@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/15/index.html)  [JSON](2011/11/15/index.json)  [XML](201
 
 ##### Pakistan
 ### [A suspected drone attack in Pakistan's North Waziristan province kills six militants. ](/news/2011/11/15/a-suspected-drone-attack-in-pakistan-s-north-waziristan-province-kills-six-militants.md)
-_Context: North Waziristan, Pakistan_
+_Context: Pakistan, North Waziristan_
 
 ##### New York Police Department
 ### [The New York Police Department evicts Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-evicts-occupy-wall-street-protesters-from-zuccotti-park.md)
@@ -17,11 +17,11 @@ _Context: UN peacekeepers, Syria, Syrian National Council_
 
 ##### 2011 Yemeni uprising
 ### [Following months of violent protests against his 33-year rule, Yemen's President Ali Abdullah Saleh says he will leave office "within 90 days" of an agreement regarding elections with the regional Gulf Cooperation Council.](/news/2011/11/15/following-months-of-violent-protests-against-his-33-year-rule-yemen-s-president-ali-abdullah-saleh-says-he-will-leave-office-within-90-day.md)
-_Context: Gulf Cooperation Council, Ali Abdullah Saleh, President, 2011 Yemeni uprising_
+_Context: Ali Abdullah Saleh, President, Gulf Cooperation Council, 2011 Yemeni uprising_
 
-##### acts of self-immolation
+##### Acts of self-immolation
 ### [Following several acts of self-immolation by Tibetans in Tibet, exiled Tibetans in India urge the Chinese government to end its repressive policies restricting the religious freedom of Tibetans. ](/news/2011/11/15/following-several-acts-of-self-immolation-by-tibetans-in-tibet-exiled-tibetans-in-india-urge-the-chinese-government-to-end-its-repressive-p.md)
-_Context: repressive policies in Tibet, exiled Tibetans, India, government, Tibet, acts of self-immolation_
+_Context: Tibet, India, exiled Tibetans, repressive policies in Tibet, government, acts of self-immolation_
 
 ##### Ai Weiwei
 ### [Chinese artist Ai Weiwei pays 8.45 million yuan in taxes after receiving a large number of donations from supporters who believe the debt was politically motivated because of his criticism of the Chinese government. ](/news/2011/11/15/chinese-artist-ai-weiwei-pays-8-45-million-yuan-in-taxes-after-receiving-a-large-number-of-donations-from-supporters-who-believe-the-debt-wa.md)
@@ -37,7 +37,7 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### Nauru
 ### [Nauru swears in its third President in less than a week, as President Freddie Pitcher, in office for just six days, is ousted in a 9-8 vote of no confidence. Sprent Dabwido is sworn in as the new president. ](/news/2011/11/15/nauru-swears-in-its-third-president-in-less-than-a-week-as-president-freddie-pitcher-in-office-for-just-six-days-is-ousted-in-a-9-8-vote.md)
-_Context: vote of no confidence, Freddie Pitcher, President of Nauru, Sprent Dabwido, Nauru_
+_Context: vote of no confidence, Freddie Pitcher, Nauru, President of Nauru, Sprent Dabwido_
 
 ##### New York Police Department
 ### [The New York Police Department clears Occupy Wall Street protesters from Zuccotti Park. ](/news/2011/11/15/the-new-york-police-department-clears-occupy-wall-street-protesters-from-zuccotti-park.md)

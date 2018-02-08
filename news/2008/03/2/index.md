@@ -5,23 +5,23 @@ Formats: [HTML](2008/03/2/index.html)  [JSON](2008/03/2/index.json)  [XML](2008/
 
 ##### Lufthansa
 ### [ A Lufthansa Airbus 320 nearly crashes while landing in Hamburg, Germany due to high winds. The pilot was able to stabilize the plane and successfully landed on the second try. No one was injured. ](/news/2008/03/2/a-lufthansa-airbus-320-nearly-crashes-while-landing-in-hamburg-germany-due-to-high-winds-the-pilot-was-able-to-stabilize-the-plane-and-su.md)
-_Context: German, Hamburg, A320, Lufthansa_
+_Context: Hamburg, Lufthansa, German, A320_
 
 ##### South American diplomatic crisis
 ### [ South American diplomatic crisis: President Hugo Chvez orders the closure of the Venezuelan embassy in Colombia and moves ten battalions to the Colombian-Venezuelan border in response to the killing of FARC leader Ral Reyes in Ecuador by Colombian armed forces the previous day. Rafael Correa, the President of Ecuador, orders troops to the Colombian border. The Colombian government accuses Correa of having "a relationship and commitments" with FARC. ](/news/2008/03/2/south-american-diplomatic-crisis-president-hugo-chavez-orders-the-closure-of-the-venezuelan-embassy-in-colombia-and-moves-ten-battalions-t.md)
-_Context: Venezuelan President, South American diplomatic crisis, Colombia, battalion, Rafael Correa, Venezuela, Revolutionary Armed Forces of Colombia, Ral Reyes, Ecuador, Hugo Chvez, President_
+_Context: South American diplomatic crisis, Ral Reyes, Rafael Correa, Venezuelan President, Colombia, Venezuela, President, Hugo Chvez, Ecuador, Revolutionary Armed Forces of Colombia, battalion_
 
 ##### Russia
 ### [ Two bombings in quick succession hit a Russian police convoy in the town of Khasavyurt in the Republic of Dagestan. ](/news/2008/03/2/two-bombings-in-quick-succession-hit-a-russian-police-convoy-in-the-town-of-khasavyurt-in-the-republic-of-dagestan.md)
 Two bombings hit a police convoy Sunday in a town in southern Russia near Chechnya, leaving an unspecified number of dead and injured.
 
-##### violent protests
+##### Violent protests
 ### [ Eight people are killed in violent protests in Yerevan, Armenia, following protests over the outcome of the latest presidential election. ](/news/2008/03/2/eight-people-are-killed-in-violent-protests-in-yerevan-armenia-following-protests-over-the-outcome-of-the-latest-presidential-election.md)
-_Context: Yerevan, presidential election, Armenia, violent protests_
+_Context: Armenia, violent protests, presidential election, Yerevan_
 
 ##### President
 ### [ President of Iran Mahmoud Ahmadinejad arrives in Baghdad for the first state visit to Iraq by an Iranian president since the Iran-Iraq War. ](/news/2008/03/2/president-of-iran-mahmoud-ahmadinejad-arrives-in-baghdad-for-the-first-state-visit-to-iraq-by-an-iranian-president-since-the-iran-iraq-war.md)
-_Context: Iran-Iraq War, Iran, Baghdad, Mahmoud Ahmadinejad, President, Iraq_
+_Context: Iraq, President, Iran, Baghdad, Mahmoud Ahmadinejad, Iran-Iraq War_
 
 ##### Russia
 ### [ Russian voters go to the polls to decide the country's next president. Dmitry Medvedev of the United Russia wins the election and is expected to succeed Vladimir Putin as the President of Russia. ](/news/2008/03/2/russian-voters-go-to-the-polls-to-decide-the-country-s-next-president-dmitry-medvedev-of-the-united-russia-wins-the-election-and-is-expect.md)

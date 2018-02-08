@@ -3,19 +3,19 @@ Formats: [HTML](2013/06/16/index.html)  [JSON](2013/06/16/index.json)  [XML](201
 
 ## [2013-06-16](/news/2013/06/16/index.md)
 
-##### car bomb
+##### Car bomb
 ### [A series of car bombings by insurgents across central and southern Iraq kill at least twenty people. ](/news/2013/06/16/a-series-of-car-bombings-by-insurgents-across-central-and-southern-iraq-kill-at-least-twenty-people.md)
 At least 30 people have been killed in a wave of car bombings across central and southern Iraq, police and medics say.
 
 ##### Quaid-e-Azam Residency
 ### [The Quaid-e-Azam Residency, a heritage site in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
-_Context: Ziarat, Quaid-e-Azam Residency, Balochistan Liberation Army, attack, Pakistan_
+_Context: Quaid-e-Azam Residency, Ziarat, Balochistan Liberation Army, attack, Pakistan_
 
 ##### Pakistan
 ### [Gunmen kill two polio vaccinators in northwest Pakistan. ](/news/2013/06/16/gunmen-kill-two-polio-vaccinators-in-northwest-pakistan.md)
 _Context: Pakistan_
 
-##### police officer
+##### Police officer
 ### [Four men, including a police officer, are stabbed at a mosque in Birmingham, England. ](/news/2013/06/16/four-men-including-a-police-officer-are-stabbed-at-a-mosque-in-birmingham-england.md)
 Four men including a police officer are in hospital after being stabbed during an attack at a mosque in the English city of Birmingham.
 
@@ -41,7 +41,7 @@ Power outages hit the Mexican capital of Mexico City on Sunday after an earthqua
 ### [Heavy rains in Uttarakhand, India result in wide-spread flooding, landslides, and at least 3 deaths. ](/news/2013/06/16/heavy-rains-in-uttarakhand-india-result-in-wide-spread-flooding-landslides-and-at-least-3-deaths.md)
 _Context: Uttarakhand_
 
-##### diplomatic ties
+##### Diplomatic ties
 ### [Egypt cuts diplomatic ties with Syria. ](/news/2013/06/16/egypt-cuts-diplomatic-ties-with-syria.md)
 Egyptian President Mohamed Mursi cut ties with Syria and sent his foreign minister to Ethiopia over a dam dispute as the Islamist leader flexed political muscle two weeks before he faces mass rallies against his rule.
 
@@ -49,7 +49,7 @@ Egyptian President Mohamed Mursi cut ties with Syria and sent his foreign minist
 ### [The Australian Competition and Consumer Commission says Australians lost over AU$93 million to online scams in 2012. ](/news/2013/06/16/the-australian-competition-and-consumer-commission-says-australians-lost-over-au-93-million-to-online-scams-in-2012.md)
 _Context: online scam, Australian Competition and Consumer Commission_
 
-##### arms smuggling
+##### Arms smuggling
 ### [Three policemen are arrested on charges of arms smuggling in Hamirpur, India. ](/news/2013/06/16/three-policemen-are-arrested-on-charges-of-arms-smuggling-in-hamirpur-india.md)
 _Context: Hamirpur, arms smuggling_
 
@@ -63,7 +63,7 @@ _Context: Robert Mugabe_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama chooses a Washington, D.C. lawyer, Clifford Sloan, with experience in all three branches of government to be the U.S. State Department's Special Envoy for closing the military-run prison at the Guantanamo Bay Naval Base. ](/news/2013/06/16/u-s-president-barack-obama-chooses-a-washington-d-c-lawyer-clifford-sloan-with-experience-in-all-three-branches-of-government-to-be-the.md)
-_Context: U.S. State Department, Special Envoy, Washington, D.C., Barack Obama, military base at Guantanamo Bay_
+_Context: Washington, D.C., U.S. State Department, Barack Obama, military base at Guantanamo Bay, Special Envoy_
 
 ##### 
 ### [Kuwait's Constitutional Court dissolves the nation's parliament and orders new elections. ](/news/2013/06/16/kuwait-s-constitutional-court-dissolves-the-nation-s-parliament-and-orders-new-elections.md)

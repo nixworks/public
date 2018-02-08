@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/24/a-sharia-court-in-kaduna-bans-the-civil-rights-
 
 ### [2010-03-24](/news/2010/03/24/index.md)
 
-##### sharia law
+##### Sharia law
 # A Sharia court in Kaduna bans the Civil Rights Congress of Nigeria from debating punishment amputations via Twitter. 
 
 

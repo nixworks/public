@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/20/the-transitional-national-assembly-of-the-centr
 
 ### [2014-01-20](/news/2014/01/20/index.md)
 
-##### legislature
+##### Legislature
 # The transitional National Assembly of the Central African Republic chooses Catherine Samba-Panza as the interim President, making her the country's first female head of state. 
 
 Marin Ngoupana and Adrian Croft

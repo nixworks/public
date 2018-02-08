@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/23/court-officials-arrive-on-the-remote-british-te
 
 ### [2004-09-23](/news/2004/09/23/index.md)
 
-##### territory
+##### Territory
 #  Court officials arrive on the remote British territory of Pitcairn Island, which has only 47 inhabitants, to begin the trial of seven islanders, on charges of sexual abuse that date back more than 40 years. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/23/a-bipartisan-group-of-fourteen-u-s-senators-has
 
 ### [2005-05-23](/news/2005/05/23/index.md)
 
-##### bipartisan
+##### Bipartisan
 #  A bipartisan group of fourteen U.S. Senators has successfully negotiated a compromise whereby a "nuclear option" showdown over judicial filibusters would be averted. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.

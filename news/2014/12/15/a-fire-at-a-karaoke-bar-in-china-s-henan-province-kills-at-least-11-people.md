@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/15/a-fire-at-a-karaoke-bar-in-china-s-henan-provin
 
 ### [2014-12-15](/news/2014/12/15/index.md)
 
-##### karaoke
+##### Karaoke
 # A fire at a karaoke bar in China's Henan province kills at least 11 people. 
 
 At least 11 people were killed after a fire broke out in a bar in central China’s Henan province, authorities said Mond

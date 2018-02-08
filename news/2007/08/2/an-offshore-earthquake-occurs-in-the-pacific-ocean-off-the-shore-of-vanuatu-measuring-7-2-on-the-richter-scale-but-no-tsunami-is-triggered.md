@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/2/an-offshore-earthquake-occurs-in-the-pacific-oce
 
 ### [2007-08-2](/news/2007/08/2/index.md)
 
-##### earthquake
+##### Earthquake
 #  An offshore earthquake occurs in the Pacific Ocean off the shore of Vanuatu measuring 7.2 on the Richter scale but no tsunami is triggered. 
 
 

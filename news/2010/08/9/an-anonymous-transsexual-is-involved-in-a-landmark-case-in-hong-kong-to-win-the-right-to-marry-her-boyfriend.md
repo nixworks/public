@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/9/an-anonymous-transsexual-is-involved-in-a-landma
 
 ### [2010-08-9](/news/2010/08/9/index.md)
 
-##### transsexual
+##### Transsexual
 # An anonymous transsexual is involved in a landmark case in Hong Kong to win the right to marry her boyfriend. 
 
 A woman who was born in Hong Kong as a man but underwent a sex change is fighting for the right to marry her boyfriend.

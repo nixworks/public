@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/14/the-claim-that-traces-of-the-deadly-poison-rici
 
 ### [2005-04-14](/news/2005/04/14/index.md)
 
-##### ricin
+##### Ricin
 #  The claim that traces of the deadly poison ricin had been found in the London apartment of alleged al-Qaeda operatives is proved wrong, according to a senior British official. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/30/following-the-controversial-discovery-of-geneti
 
 ### [2013-05-30](/news/2013/05/30/index.md)
 
-##### genetically modified wheat
+##### Genetically modified wheat
 # Following the controversial discovery of genetically modified wheat on a U.S. farm on May 29, Japan suspends imports of wheat from the U.S. 
 
 

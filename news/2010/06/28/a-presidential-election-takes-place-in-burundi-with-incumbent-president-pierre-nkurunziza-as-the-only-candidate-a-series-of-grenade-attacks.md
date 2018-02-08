@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/28/a-presidential-election-takes-place-in-burundi-
 
 ### [2010-06-28](/news/2010/06/28/index.md)
 
-##### presidential election
+##### Presidential election
 # A presidential election takes place in Burundi with incumbent President Pierre Nkurunziza as the only candidate. A series of grenade attacks also take place. 
 
 Incumbent president certain to win following boycott by oppositon candidates.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/25/a-wolverine-the-state-animal-of-michigan-has-be
 
 ### [2004-02-25](/news/2004/02/25/index.md)
 
-##### wolverine
+##### Wolverine
 #  A wolverine, the state animal of Michigan, has been spotted in that state for the first time in 200 years.
 
 

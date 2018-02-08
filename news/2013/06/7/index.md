@@ -3,7 +3,7 @@ Formats: [HTML](2013/06/7/index.html)  [JSON](2013/06/7/index.json)  [XML](2013/
 
 ## [2013-06-7](/news/2013/06/7/index.md)
 
-##### drones launch
+##### Drones launch
 ### [Drone attacks in Pakistan: A U.S. drone attack kills at least seven people in Pakistan. ](/news/2013/06/7/drone-attacks-in-pakistan-a-u-s-drone-attack-kills-at-least-seven-people-in-pakistan.md)
 Prime Minister Nawaz Sharif has often criticized the United States’ use of unmanned aircraft against militants.
 
@@ -13,15 +13,15 @@ _Context: Baghdad_
 
 ##### United Nations
 ### [The United Nations appeals for $4.4 billion of aid for refugees, the largest such request in the UN's history. ](/news/2013/06/7/the-united-nations-appeals-for-4-4-billion-of-aid-for-refugees-the-largest-such-request-in-the-un-s-history.md)
-_Context: United States dollars, United Nations_
+_Context: United Nations, United States dollars_
 
 ##### Bolivia
 ### [A suspected rapist is attacked and buried alive by an angry mob in Bolivia. ](/news/2013/06/7/a-suspected-rapist-is-attacked-and-buried-alive-by-an-angry-mob-in-bolivia.md)
 A mob in a Bolivian town buried alive a teenager alongside the body of a woman they suspected he had raped and murdered, Bolivian media reported on Friday.
 
-##### opens fire
+##### Opens fire
 ### [A gunman opens fire at Santa Monica College in Santa Monica, California, after setting a house on fire nearby, killing five people, including the suspect. ](/news/2013/06/7/a-gunman-opens-fire-at-santa-monica-college-in-santa-monica-california-after-setting-a-house-on-fire-nearby-killing-five-people-includin.md)
-_Context: California, Santa Monica, Santa Monica College, opens fire_
+_Context: opens fire, California, Santa Monica, Santa Monica College_
 
 ##### Assam
 ### [Villagers in Assam kill a 55-year-old man suspected of practicing black magic to "appease" a goddess. ](/news/2013/06/7/villagers-in-assam-kill-a-55-year-old-man-suspected-of-practicing-black-magic-to-appease-a-goddess.md)
@@ -51,7 +51,7 @@ SoftBank Corp. cleared a U.S. security review of its proposed $20.1 billion purc
 ### [Air New Zealand agrees to a record-setting AU$7.5 million fine for its part in a price-fixing scandal. ](/news/2013/06/7/air-new-zealand-agrees-to-a-record-setting-au-7-5-million-fine-for-its-part-in-a-price-fixing-scandal.md)
 ANALYSIS: Agreeing to a $7.5m settlement with the Commerce Commission yesterday will see the national carrier also receive the largest cartel penalty handed out against a single company under the Commerce Act. 
 
-##### catches fire
+##### Catches fire
 ### [A bus catches fire in the Chinese city of Xiamen, killing at least 42 people and injuring more than 30 others. ](/news/2013/06/7/a-bus-catches-fire-in-the-chinese-city-of-xiamen-killing-at-least-42-people-and-injuring-more-than-30-others.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
@@ -65,7 +65,7 @@ _Context: Nha Trang_
 
 ##### Breast milk
 ### [Breast milk boosts brain development by 30%, as compared to formula-fed babies, according to a new study. ](/news/2013/06/7/breast-milk-boosts-brain-development-by-30-as-compared-to-formula-fed-babies-according-to-a-new-study.md)
-_Context: formula, Breast milk_
+_Context: Breast milk, formula_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama and Chinese president Xi Jinping begin a two-day meeting of Sino-American relations. ](/news/2013/06/7/u-s-president-barack-obama-and-chinese-president-xi-jinping-begin-a-two-day-meeting-of-sino-american-relations.md)
@@ -73,7 +73,7 @@ Chinese President Xi Jinping and his US counterpart Barack Obama open two days o
 
 ##### David Cameron
 ### [UK premier David Cameron attracts criticism for attending the 61st annual summit of the secretive Bilderberg Group at The Grove, Watford. ](/news/2013/06/7/uk-premier-david-cameron-attracts-criticism-for-attending-the-61st-annual-summit-of-the-secretive-bilderberg-group-at-the-grove-watford.md)
-_Context: David Cameron, Bilderberg Group, The Grove, Watford, the 61st annual summit_
+_Context: David Cameron, The Grove, Watford, the 61st annual summit, Bilderberg Group_
 
 ##### 
 ### [The US government comes under heavy criticism at home and abroad when news of its secret PRISM surveillance program to monitor emails and other person information is leaked. ](/news/2013/06/7/the-us-government-comes-under-heavy-criticism-at-home-and-abroad-when-news-of-its-secret-prism-surveillance-program-to-monitor-emails-and-ot.md)
@@ -89,9 +89,9 @@ _Context: Cleveland, Ohio kidnapper_
 ### [Cambodia passes a controversial law that makes it illegal to deny atrocities committed by the Khmer Rouge regime. ](/news/2013/06/7/cambodia-passes-a-controversial-law-that-makes-it-illegal-to-deny-atrocities-committed-by-the-khmer-rouge-regime.md)
 _Context: Khmer Rouge_
 
-##### televised debate
+##### Televised debate
 ### [Candidates hold a third and final televised debate, giving their plans on domestic and foreign policies and also criticizing Mahmoud Ahmadinejad's nuclear and human rights policies. ](/news/2013/06/7/candidates-hold-a-third-and-final-televised-debate-giving-their-plans-on-domestic-and-foreign-policies-and-also-criticizing-mahmoud-ahmadin.md)
-_Context: Foreign relations of Iran, Human rights in Iran, Mahmoud Ahmadinejad, televised debate, nuclear program, Iranian government_
+_Context: Iranian government, Mahmoud Ahmadinejad, Foreign relations of Iran, televised debate, nuclear program, Human rights in Iran_
 
 ## [Previous Day...](/news/2013/06/6/index.md)
 

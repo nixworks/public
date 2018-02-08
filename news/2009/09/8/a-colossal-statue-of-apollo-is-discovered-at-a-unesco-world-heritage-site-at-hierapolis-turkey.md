@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/8/a-colossal-statue-of-apollo-is-discovered-at-a-u
 
 ### [2009-09-8](/news/2009/09/8/index.md)
 
-##### statue
+##### Statue
 #  A colossal statue of Apollo is discovered at a UNESCO World Heritage Site at Hierapolis, Turkey. 
 
 

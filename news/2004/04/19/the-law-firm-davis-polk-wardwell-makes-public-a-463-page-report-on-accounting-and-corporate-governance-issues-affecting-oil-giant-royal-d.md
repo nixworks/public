@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/19/the-law-firm-davis-polk-wardwell-makes-public-a
 
 ### [2004-04-19](/news/2004/04/19/index.md)
 
-##### accounting
+##### Accounting
 #  The law firm Davis Polk & Wardwell makes public a 463-page report on accounting and corporate governance issues affecting oil giant Royal Dutch-Shell. The report, prepared at the request of Shell's audit committee, explains how lax standards have allowed the company to vastly overstate the extent of its oil and natural gas reserves. 
 
 

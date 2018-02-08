@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/27/the-mayor-of-london-ken-livingstone-refers-to-t
 
 ### [2006-03-27](/news/2006/03/27/index.md)
 
-##### mayor of London
+##### Mayor of London
 #  The mayor of London, Ken Livingstone, refers to the United States Ambassador to the United Kingdom, Robert Tuttle, as a 'chiseling little crook' because the United States embassy continues to refuse to pay the London congestion charge. 
 
 

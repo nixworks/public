@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/24/at-least-two-people-are-killed-and-dozens-injur
 
 ### [2011-06-24](/news/2011/06/24/index.md)
 
-##### tractor-trailer
+##### Tractor-trailer
 # At least two people are killed and dozens injured after a tractor-trailer truck collides with the California Zephyr Amtrak train on US Route 95 in Nevada. 
 
 At least two people were killed and dozens injured on Friday when a tractor-trailer rig crashed through closed rail crossing gates and collided with an Amtrak train on a rural Nevada highway, authorities said.

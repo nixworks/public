@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/20/australians-vote-tomorrow-in-what-is-being-call
 
 ### [2010-08-20](/news/2010/08/20/index.md)
 
-##### recent election
+##### Recent election
 # Australians vote tomorrow in what is being called the closest election in 50 years, with some polls predicting a 50-50 draw. 
 
 

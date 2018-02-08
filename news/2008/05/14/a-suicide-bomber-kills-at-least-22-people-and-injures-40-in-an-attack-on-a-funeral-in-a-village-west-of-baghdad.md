@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-i
 
 ### [2008-05-14](/news/2008/05/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills at least 22 people and injures 40 in an attack on a funeral in a village west of Baghdad. 
 
 

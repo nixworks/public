@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-demo
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
-##### the email leak
+##### The email leak
 # Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. 
 
 The emails detail how bitter the relationship became, Bernie Sanders emerged as a real threat Hillary Clinton.

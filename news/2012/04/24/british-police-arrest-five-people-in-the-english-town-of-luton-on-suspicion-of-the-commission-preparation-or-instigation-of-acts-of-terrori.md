@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/24/british-police-arrest-five-people-in-the-englis
 
 ### [2012-04-24](/news/2012/04/24/index.md)
 
-##### police
+##### Police
 # British police arrest five people in the English town of Luton on suspicion of the commission, preparation or instigation of acts of terrorism. 
 
 Five men aged between 21 and 35 are arrested in Luton on suspicion of the commission, preparation or instigation of acts of terrorism.

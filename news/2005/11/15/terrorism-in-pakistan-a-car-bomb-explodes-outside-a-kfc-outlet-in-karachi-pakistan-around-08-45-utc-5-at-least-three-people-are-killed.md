@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/15/terrorism-in-pakistan-a-car-bomb-explodes-outsi
 
 ### [2005-11-15](/news/2005/11/15/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  Terrorism in Pakistan: A car bomb explodes outside a KFC outlet in Karachi, Pakistan around 08:45 (UTC+5). At least three people are killed and eight others wounded. 
 
 

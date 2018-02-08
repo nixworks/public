@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/11/suicide-bomber-kills-18-in-dera-ismail-khan-of-
 
 ### [2007-09-11](/news/2007/09/11/index.md)
 
-##### suicide-bomb
+##### Suicide-bomb
 #  Suicide bomber kills 18 in Dera Ismail Khan of Pakistan. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/8/al-qaeda-launches-an-attack-on-the-south-yemen-t
 
 ### [2014-10-8](/news/2014/10/8/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # al-Qaeda launches an attack on the south Yemen town of al-Bayda killing at least four soldiers before being beaten back by the army. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/6/thousands-of-people-attend-the-public-flagellati
 
 ### [2010-08-6](/news/2010/08/6/index.md)
 
-##### flagellation
+##### Flagellation
 # Thousands of people attend the public flagellation of 5 people in Aceh amid requests that the practice be banned. 
 
 Five people are caned in public in the Indonesian province of Aceh, despite calls by human rights groups to ban flogging.

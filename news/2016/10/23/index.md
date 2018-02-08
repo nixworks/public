@@ -25,15 +25,15 @@ _Context: Desert Hot Springs, California_
 
 ##### Aftermath of Brexit
 ### [Suzanne Evans, former UK Independence Party (UKIP) deputy chairman, and Paul Nuttall, President of the Initiative for Direct Democracy in Europe and Member of the European Parliament, each announce their candidacy for the UKIP leadership position, now held on interim basis by Nigel Farage. Other confirmed candidates are Bill Etheridge, Raheem Kassam, and Peter Whittle. ](/news/2016/10/23/suzanne-evans-former-uk-independence-party-ukip-deputy-chairman-and-paul-nuttall-president-of-the-initiative-for-direct-democracy-in-eu.md)
-_Context: Paul Nuttall, UKIP, Suzanne Evans, Peter Whittle, Bill Etheridge, Member of the European Parliament, Raheem Kassam, Aftermath of Brexit, UK Independence Party leadership election, November 2016, Nigel Farage_
+_Context: Aftermath of Brexit, Member of the European Parliament, Raheem Kassam, UKIP, Bill Etheridge, Paul Nuttall, Suzanne Evans, Nigel Farage, Peter Whittle, UK Independence Party leadership election, November 2016_
 
 ##### Lithuanian parliamentary election, 2016
 ### [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md)
-_Context: Lithuanian parliamentary election, 2016, Lithuanian Peasant and Greens Union, second round_
+_Context: Lithuanian parliamentary election, 2016, second round, Lithuanian Peasant and Greens Union_
 
-##### ten month interregnum
+##### Ten month interregnum
 ### [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md)
-_Context: ten month interregnum, Socialist Workers' Party, People's Party, Prime Minister, Mariano Rajoy_
+_Context: People's Party, Prime Minister, ten month interregnum, Mariano Rajoy, Socialist Workers' Party_
 
 ## [Previous Day...](/news/2016/10/22/index.md)
 

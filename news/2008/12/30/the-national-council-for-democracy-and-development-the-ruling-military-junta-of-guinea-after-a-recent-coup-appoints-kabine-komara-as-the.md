@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/30/the-national-council-for-democracy-and-developm
 
 ### [2008-12-30](/news/2008/12/30/index.md)
 
-##### junta
+##### Junta
 #  The National Council for Democracy and Development, the ruling military junta of Guinea after a recent coup, appoints Kabin Komara as the country's new Prime Minister. 
 
 

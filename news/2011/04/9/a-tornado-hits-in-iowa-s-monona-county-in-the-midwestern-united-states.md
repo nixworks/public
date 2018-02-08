@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/9/a-tornado-hits-in-iowa-s-monona-county-in-the-mi
 
 ### [2011-04-9](/news/2011/04/9/index.md)
 
-##### tornado
+##### Tornado
 # A tornado hits in Iowa's Monona County in the midwestern United States. 
 
 

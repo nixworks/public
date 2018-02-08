@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/8/the-country-s-first-reported-suicide-bomber-blow
 
 ### [2013-02-8](/news/2013/02/8/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # The country's first reported suicide bomber blows himself up in Gao, injuring one Malian soldier. In the north, French and Chadian forces retake the city of Tessalit. 
 
 GAO, Mali (AP) — A suspected al-Qaida-linked militant blew himself up near a military checkpoint Friday on the outskirts of Gao in the first suicide bombing attack since the French-led mission began, fueling fears of a looming insurgency by the jihadists who fled into the nearby desert just two weeks

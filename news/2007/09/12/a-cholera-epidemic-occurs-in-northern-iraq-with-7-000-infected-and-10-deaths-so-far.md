@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/12/a-cholera-epidemic-occurs-in-northern-iraq-with
 
 ### [2007-09-12](/news/2007/09/12/index.md)
 
-##### cholera
+##### Cholera
 #  A cholera epidemic occurs in northern Iraq with 7,000 infected and 10 deaths so far. 
 
 Ten people are known to have died and health officials warned that the epidemic could reach Baghdad within weeks.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us
 
 ### [2011-06-23](/news/2011/06/23/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/6/ten-people-are-injured-in-an-acid-attack-in-hong
 
 ### [2009-09-6](/news/2009/09/6/index.md)
 
-##### acid attack
+##### Acid attack
 #  Ten people are injured in an acid attack in Hong Kong. 
 
 

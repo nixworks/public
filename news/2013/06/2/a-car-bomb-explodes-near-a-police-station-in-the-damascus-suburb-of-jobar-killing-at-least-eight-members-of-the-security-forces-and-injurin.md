@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/2/a-car-bomb-explodes-near-a-police-station-in-the
 
 ### [2013-06-2](/news/2013/06/2/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near a police station in the Damascus suburb of Jobar, killing at least eight members of the security forces and injuring civilians. 
 
 

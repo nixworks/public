@@ -5,19 +5,19 @@ Formats: [HTML](2016/07/8/index.html)  [JSON](2016/07/8/index.json)  [XML](2016/
 
 ##### Insurgency in the North Caucasus
 ### [At least eight unidentified militants and one security officer are killed in ongoing clashes in rural Dagestan, Russia. ](/news/2016/07/8/at-least-eight-unidentified-militants-and-one-security-officer-are-killed-in-ongoing-clashes-in-rural-dagestan-russia.md)
-_Context: Dagestan, Russia, Federal Security Service, Insurgency in the North Caucasus_
+_Context: Dagestan, Federal Security Service, Insurgency in the North Caucasus, Russia_
 
 ##### Boko Haram insurgency
 ### [According to a Nigerian Army spokesman, a Boko Haram suicide bomber kills six people inside a mosque in the town of Damboa, Borno State. A second suicide bomber attempted to enter the same mosque but failed to gain entry and detonated his belt, killing only himself. ](/news/2016/07/8/according-to-a-nigerian-army-spokesman-a-boko-haram-suicide-bomber-kills-six-people-inside-a-mosque-in-the-town-of-damboa-borno-state-a-s.md)
-_Context: Damboa, Boko Haram, Boko Haram insurgency, Borno State, Nigerian Army_
+_Context: Borno State, Damboa, Boko Haram insurgency, Boko Haram, Nigerian Army_
 
 ##### Syrian Civil War
 ### [Airstrikes hit Darkush in Idlib Province near the Turkish border, killing at least 23 people, according to the Syrian Observatory for Human Rights. At least 25 died when rebels shelled government-held areas of Aleppo. Friday is the last day of a 72-hour Syrian Army-sponsored ceasefire. ](/news/2016/07/8/airstrikes-hit-darkush-in-idlib-province-near-the-turkish-border-killing-at-least-23-people-according-to-the-syrian-observatory-for-human.md)
-_Context: Turkey, Aleppo, Idlib Governorate, Syrian Army, Darkush, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Syrian Army, Turkey, Syrian Observatory for Human Rights, Darkush, Syrian Civil War, Aleppo, Idlib Governorate_
 
 ##### South Sudanese Civil War
 ### [Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. ](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people-s-liberation-army-factions-are-killed-in-clashes-in-the-capital-juba-with-reports-of-heavy.md)
-_Context: South Sudanese Civil War, local clashes, Riek Machar, Salva Kiir Mayardit, Juba, President, Sudan People's Liberation Army_
+_Context: local clashes, Juba, South Sudanese Civil War, Salva Kiir Mayardit, Sudan People's Liberation Army, President, Riek Machar_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Nepartak hits eastern Taiwan causing three deaths so far, 124 injuries, thousands of people to be evacuated, disrupting transport and power supplies. ](/news/2016/07/8/typhoon-nepartak-hits-eastern-taiwan-causing-three-deaths-so-far-124-injuries-thousands-of-people-to-be-evacuated-disrupting-transport-an.md)
@@ -33,17 +33,17 @@ Edhi created a charitable empire out of nothing, masterminding Pakistan&rsquo;s 
 
 ##### 2016 Warsaw summit
 ### [NATO members gather in Warsaw, Poland, for a two-day summit. Much of the focus will be on Russia and NATO's commitments in bolstering its presence in Eastern Europe. Other issues to be discussed will include Europe's migrant crises, ISIL extremists, and the United Kingdom's withdrawal from the European Union. ](/news/2016/07/8/nato-members-gather-in-warsaw-poland-for-a-two-day-summit-much-of-the-focus-will-be-on-russia-and-nato-s-commitments-in-bolstering-its-pr.md)
-_Context: Aftermath of the United Kingdom European Union membership referendum, 2016, Poland, NATO, European migrant crisis, Warsaw, ISIL, Eastern Europe, Russia, 2016 Warsaw summit_
+_Context: European migrant crisis, Eastern Europe, NATO, ISIL, 2016 Warsaw summit, Polish, Warsaw, Russia, Aftermath of the United Kingdom European Union membership referendum, 2016_
 
 ##### South Korea-United States relations
 ### [American and South Korean military officials agree to deploy a U.S. Terminal High Altitude Area Defense (THAAD) missile defense system in the country to counter North Korea's growing threats and use of ballistic missile and nuclear tests. ](/news/2016/07/8/american-and-south-korean-military-officials-agree-to-deploy-a-u-s-terminal-high-altitude-area-defense-thaad-missile-defense-system-in-th.md)
 Officials say Terminal High-Altitude Area Defence will be quickly deployed to counter North Korea’s missile threat
 
-##### drug crackdown
+##### Drug crackdown
 ### [The left-wing political party, Bagong Alyansang Makabayan, which is part of the current government, asks Philippine President Rodrigo Duterte to investigate the recent vigilante killings of suspected drug pushers. ](/news/2016/07/8/the-left-wing-political-party-bagong-alyansang-makabayan-which-is-part-of-the-current-government-asks-philippine-president-rodrigo-dutert.md)
 Duterte won the May 9 election by landslide largely on a pledge to kill tens of thousands of narcotics suspects and other criminals, and has urged the police and civilians to help in the killings.
 
-##### the shooting of Dallas police officers
+##### The shooting of Dallas police officers
 ### [Police kill Micah X Johnson, the gunman believed responsible for the killing of five police officers and shooting of seven more in Dallas, Texas following a standoff. ](/news/2016/07/8/police-kill-micah-x-johnson-the-gunman-believed-responsible-for-the-killing-of-five-police-officers-and-shooting-of-seven-more-in-dallas-t.md)
 The gunman involved in the shooting of 12 police officers in Dallas was a former Army reservist who served in Afghanistan.
 

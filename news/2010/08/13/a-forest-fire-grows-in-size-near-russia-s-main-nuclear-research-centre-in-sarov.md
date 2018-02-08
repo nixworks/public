@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/13/a-forest-fire-grows-in-size-near-russia-s-main-
 
 ### [2010-08-13](/news/2010/08/13/index.md)
 
-##### the recent wildfires
+##### The recent wildfires
 # A forest fire grows in size near Russia's main nuclear research centre in Sarov. 
 
 

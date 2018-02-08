@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/10/an-italian-intelligence-report-states-that-ital
 
 ### [2004-02-10](/news/2004/02/10/index.md)
 
-##### suicide bombers
+##### Suicide bombers
 #  An Italian intelligence report states that Italy is a departure point, as well as focus of logistic and financial support, for suicide bombers linked to al-Qaida and active against United States-led forces in Iraq. The suicide bombers were drawn from Muslim youths living on the fringes of society in Western Europe.
 
 

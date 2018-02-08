@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/1/thousands-of-citizens-battle-local-government-of
 
 ### [2008-07-1](/news/2008/07/1/index.md)
 
-##### major riot in Guizhou
+##### Major riot in Guizhou
 #  Thousands of citizens battle local government officials in a major riot in Guizhou in China over a police cover-up dealing with the death of a local girl. 
 
 

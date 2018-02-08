@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/18/thousands-protest-in-several-russian-cities-for
 
 ### [2011-12-18](/news/2011/12/18/index.md)
 
-##### protest
+##### Protest
 # Thousands protest in several Russian cities for a second week, against the results of the parliamentary elections. 
 
 

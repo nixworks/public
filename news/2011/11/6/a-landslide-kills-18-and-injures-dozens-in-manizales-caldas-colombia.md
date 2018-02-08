@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/6/a-landslide-kills-18-and-injures-dozens-in-maniz
 
 ### [2011-11-6](/news/2011/11/6/index.md)
 
-##### landslide
+##### Landslide
 # A landslide kills 18 and injures dozens in Manizales, Caldas, Colombia 
 
 

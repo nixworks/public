@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/20/scientists-prove-that-eating-less-salt-reduces-
 
 ### [2007-04-20](/news/2007/04/20/index.md)
 
-##### salt
+##### Salt
 #  Scientists prove that eating less salt reduces the chances of stroke or heart attack in the first long-term study on salt's effect on health. 
 
 

@@ -9,7 +9,7 @@ At least three persons, including two school students, were killed in two back-t
 
 ##### Syrian Army
 ### [More than 160 people have been killed in fighting between the Syrian Army and opposition forces in the suburbs of Damascus. ](/news/2013/11/24/more-than-160-people-have-been-killed-in-fighting-between-the-syrian-army-and-opposition-forces-in-the-suburbs-of-damascus.md)
-_Context: Damascus, Syrian Army_
+_Context: Syrian Army, Damascus_
 
 ##### Angola
 ### [Angola becomes the first modern country to outlaw Islam, along with other religions unapproved by the Ministry of Justice and Human Rights. Mosques are being destroyed. ](/news/2013/11/24/angola-becomes-the-first-modern-country-to-outlaw-islam-along-with-other-religions-unapproved-by-the-ministry-of-justice-and-human-rights.md)
@@ -33,7 +33,7 @@ Low turnout and vote abuses marred Sunday elections meant to complete democratic
 
 ##### Kiev
 ### [More than 100,000 people protest in Kiev, Ukraine, against the decision of Viktor Yanukovych's government to suspend preparations for signing of the association agreement with the European Union under pressure from Russia. ](/news/2013/11/24/more-than-100-000-people-protest-in-kiev-ukraine-against-the-decision-of-viktor-yanukovych-s-government-to-suspend-preparations-for-signin.md)
-_Context: Kiev, Ukraine-European Union relations, Viktor Yanukovych, European Union, Ukraine, Russia_
+_Context: Ukraine, Ukraine-European Union relations, Viktor Yanukovych, Kiev, European Union, Russia_
 
 ##### Pope Francis
 ### [Pope Francis venerates the purported remains of his first ever predecessor, as the Vatican gives a public display for what some claim are St Peter's remains. ](/news/2013/11/24/pope-francis-venerates-the-purported-remains-of-his-first-ever-predecessor-as-the-vatican-gives-a-public-display-for-what-some-claim-are-st.md)

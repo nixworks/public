@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/17/the-national-assembly-of-kenya-passes-a-bill-to
 
 ### [2009-09-17](/news/2009/09/17/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The National Assembly of Kenya passes a bill to reduce the number of ministries from 40 to 24. 
 
 

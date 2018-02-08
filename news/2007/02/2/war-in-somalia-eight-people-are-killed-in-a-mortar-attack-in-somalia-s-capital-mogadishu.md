@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mort
 
 ### [2007-02-2](/news/2007/02/2/index.md)
 
-##### two years of helping
+##### Two years of helping
 #  War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. 
 
 

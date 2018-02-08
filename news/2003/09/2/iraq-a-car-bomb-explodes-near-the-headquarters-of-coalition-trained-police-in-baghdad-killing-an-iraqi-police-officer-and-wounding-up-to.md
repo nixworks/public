@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/2/iraq-a-car-bomb-explodes-near-the-headquarters-o
 
 ### [2003-09-2](/news/2003/09/2/index.md)
 
-##### car bomb
+##### Car bomb
 #  Iraq: A car bomb explodes near the headquarters of Coalition trained police in Baghdad, killing an Iraqi police officer and wounding up to 10 bystanders. url=http:--www.cbsnews.com-stories-2003-02-24-iraq-main541815.shtml PM Appeals For Reconciliation February 2003 publisher= October 2015 Observers saw the incident as an attempt to destabilize the new Iraqi governing body. (See 2003 occupation of Iraq timeline)
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/3/all-outgoing-flights-from-the-uk-are-temporarily
 
 ### [2004-06-3](/news/2004/06/3/index.md)
 
-##### flights
+##### Flights
 #  All outgoing flights from the UK are temporarily grounded following an air traffic control computer failure. 
 
 

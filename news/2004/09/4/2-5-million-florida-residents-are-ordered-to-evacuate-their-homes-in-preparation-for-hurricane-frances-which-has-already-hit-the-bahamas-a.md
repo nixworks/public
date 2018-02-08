@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/4/2-5-million-florida-residents-are-ordered-to-eva
 
 ### [2004-09-4](/news/2004/09/4/index.md)
 
-##### the state
+##### The state
 #  2.5 million Florida residents are ordered to evacuate their homes in preparation for Hurricane Frances, which has already hit the Bahamas and Turks and Caicos Islands. Frances is currently a strong Category Two Hurricane, and will be very near the east coast of Florida by late tonight or early next morning. 
 
 

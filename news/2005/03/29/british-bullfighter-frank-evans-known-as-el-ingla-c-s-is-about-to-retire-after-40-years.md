@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/29/british-bullfighter-frank-evans-known-as-el-ing
 
 ### [2005-03-29](/news/2005/03/29/index.md)
 
-##### bullfighting
+##### Bullfighting
 #  British bullfighter Frank Evans, known as "El Ingles", is about to retire after 40 years. 
 
 

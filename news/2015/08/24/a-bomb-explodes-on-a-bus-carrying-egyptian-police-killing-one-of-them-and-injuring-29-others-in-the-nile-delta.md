@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/24/a-bomb-explodes-on-a-bus-carrying-egyptian-poli
 
 ### [2015-08-24](/news/2015/08/24/index.md)
 
-##### police officers
+##### Police officers
 # A bomb explodes on a bus carrying Egyptian police killing one of them and injuring 29 others in the Nile delta. 
 
 A bomb struck a bus carrying Egyptian policemen today, killing one and wounding 29, police said, the latest attack against security forces who are being targeted by Islamist State group jihadists.

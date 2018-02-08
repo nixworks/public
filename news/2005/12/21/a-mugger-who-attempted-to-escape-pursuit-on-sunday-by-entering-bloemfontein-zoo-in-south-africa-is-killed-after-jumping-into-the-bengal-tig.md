@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/21/a-mugger-who-attempted-to-escape-pursuit-on-sun
 
 ### [2005-12-21](/news/2005/12/21/index.md)
 
-##### robbery
+##### Robbery
 #  A mugger who attempted to escape pursuit on Sunday by entering Bloemfontein Zoo in South Africa is killed after jumping into the Bengal tigers area. He was found with bite marks all over his body, and all his clothes removed, but the tigers had not attempted to eat him, having been fed the previous afternoon. [http:--news.bbc.co.uk-1-hi-world-africa-4548494.stm (BBC)] [http:--www.mg.co.za-articlepage.aspx?area=-breaking_news-breaking_news__national-&articleid=259649 (Mail & Guardian (SA))]
 
 

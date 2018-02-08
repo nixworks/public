@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/8/in-mixed-martial-arts-mauricio-shogun-rua-wins-t
 
 ### [2010-05-8](/news/2010/05/8/index.md)
 
-##### mixed martial arts
+##### Mixed martial arts
 # In mixed martial arts, Mauricio "Shogun" Rua wins the UFC Light Heavyweight Championship from fellow Brazilian Lyoto Machida at UFC 113 in Montreal, Quebec, Canada. 
 
 This time, Mauricio “Shogun” Rua made sure the judges were not involved. Rua knocked out the previously unbeaten Lyoto Machida 3:35 into the first round to capture the light heavyweight championship. » Recap Post-Fight Video: Dana White Koscheck Kimbo Full News Conference

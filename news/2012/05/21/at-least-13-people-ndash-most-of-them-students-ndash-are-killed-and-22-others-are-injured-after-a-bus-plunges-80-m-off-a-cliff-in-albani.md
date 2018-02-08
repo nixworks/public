@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/21/at-least-13-people-ndash-most-of-them-students-
 
 ### [2012-05-21](/news/2012/05/21/index.md)
 
-##### a bus plunges 80|m|ft off a cliff
+##### A bus plunges 80|m|ft off a cliff
 # At least 13 people &ndash; most of them students &ndash; are killed and 22 others are injured after a bus plunges 80 m off a cliff in Albania. 
 
 At least 11 people - most of them students - are killed and 22 injured when a bus falls off a cliff in southern Albania, officials say.

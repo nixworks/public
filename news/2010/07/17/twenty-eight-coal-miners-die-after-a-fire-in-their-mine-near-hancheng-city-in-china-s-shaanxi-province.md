@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-th
 
 ### [2010-07-17](/news/2010/07/17/index.md)
 
-##### coal mine
+##### Coal mine
 # Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. 
 
 

@@ -17,15 +17,15 @@ Key ministers from the heavily criticised former government replaced while inter
 
 ##### Albania
 ### [Around 100,000 supporters of Albania's opposition Socialist Party pay silent tribute to three men shot dead at an anti-government protest a week ago. The Socialist supporters disperse calmly after a two-hour procession. ](/news/2011/01/28/around-100-000-supporters-of-albania-s-opposition-socialist-party-pay-silent-tribute-to-three-men-shot-dead-at-an-anti-government-protest-a.md)
-_Context: Socialist Party, Albania_
+_Context: Albania, Socialist Party_
 
-##### tear gas
+##### Tear gas
 ### [Police fire tear gas at anti-government protesters in Gabon two days after opposition leader Andre Mba Obame declares himself president. ](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.md)
-_Context: Gabon, Andre Mba Obame, tear gas, Independent_
+_Context: Gabon, tear gas, Andre Mba Obame, Independent_
 
 ##### Modu Fannami Gubio
 ### [At least four people, including Modu Fannami Gubio, a former opposition All Nigeria Peoples Party (ANPP) candidate for governor in Borno, Nigeria, are shot dead in Maiduguri. ](/news/2011/01/28/at-least-four-people-including-modu-fannami-gubio-a-former-opposition-all-nigeria-peoples-party-anpp-candidate-for-governor-in-borno-ni.md)
-_Context: Nigeria, Maiduguri, Borno State, All Nigeria Peoples Party, Modu Fannami Gubio_
+_Context: All Nigeria Peoples Party, Borno State, Modu Fannami Gubio, Nigeria, Maiduguri_
 
 ##### West Bank
 ### [During a clash between Palestinians and Israeli settlers in the West Bank, an Israeli settler shoots and kills an 18-year-old Palestinian. ](/news/2011/01/28/during-a-clash-between-palestinians-and-israeli-settlers-in-the-west-bank-an-israeli-settler-shoots-and-kills-an-18-year-old-palestinian.md)
@@ -43,7 +43,7 @@ Hurriyet Daily News is the leading news source for Turkey and the region. Hurriy
 ### [A 450-year-old "Madonna and Child" work sells for $16.9 million at Sotheby's in New York, a new auction record for Titian. ](/news/2011/01/28/a-450-year-old-madonna-and-child-work-sells-for-16-9-million-at-sotheby-s-in-new-york-a-new-auction-record-for-titian.md)
 A 450-year-old Madonna and Child painting by Titian sells for $16.9m (£10.7m), setting a new auction record for the Renaissance master.
 
-##### national credit rating
+##### National credit rating
 ### [Japan's national credit rating is dropped to AA- by Standard & Poor's. ](/news/2011/01/28/japan-s-national-credit-rating-is-dropped-to-aa-by-standard-poor-s.md)
 _Context: national credit rating, Standard & Poor's_
 
@@ -55,7 +55,7 @@ China introduces its first property tax for home buyers in an attempt to curb re
 ### [At least 17 people are killed and scores are injured during a fire on a ferry and a collision between two passenger trains on the island of Java in Indonesia. ](/news/2011/01/28/at-least-17-people-are-killed-and-scores-are-injured-during-a-fire-on-a-ferry-and-a-collision-between-two-passenger-trains-on-the-island-of.md)
 A fire on a crowded Indonesian ferry and a collision between two passenger trains, leave at least 14 people dead and scores injured.
 
-##### president
+##### President
 ### [President of Brazil Dilma Rousseff, speaking at a joint press conference with Rio de Janeiro state governor Sergio Cabral, vows to build 8,000 houses to be given free to people made homeless by the recent floods and landslides in Rio de Janeiro state. ](/news/2011/01/28/president-of-brazil-dilma-rousseff-speaking-at-a-joint-press-conference-with-rio-de-janeiro-state-governor-sa-c-rgio-cabral-vows-to-build-8.md)
 Brazil says it will build 8,000 free houses for people made homeless by floods and landslides in Rio de Janeiro state.
 
@@ -65,7 +65,7 @@ Nasa officials gather at Kennedy Space Center in Florida to mark the 25th annive
 
 ##### Lautan Teduh
 ### [At least 11 passengers of the Lautan Teduh ferry, which caught fire in the Sunda Strait, have been confirmed dead. The remains of nine of the passengers who died in the fire were taken to Krakatau Medika in Cilegon, while the other two were taken to Kalianda Hospital in Lampung. ](/news/2011/01/28/at-least-11-passengers-of-the-lautan-teduh-ferry-which-caught-fire-in-the-sunda-strait-have-been-confirmed-dead-the-remains-of-nine-of-th.md)
-_Context: Lautan Teduh, Lampung, Krakatau Medika, Sunda Strait, Cilegon, Kalianda Hospital_
+_Context: Cilegon, Krakatau Medika, Sunda Strait, Lautan Teduh, Lampung, Kalianda Hospital_
 
 ##### Jeddah
 ### [Flooding in Jeddah since the 26th kills 11 people, leaves three missing and destroys over 10,000 buildings, leading to protests in the city over poor infrastructure. ](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.md)
@@ -77,7 +77,7 @@ A Ugandan priest is escorted away by police after telling homosexuals to repent 
 
 ##### Daily Telegraph
 ### ["The Daily Telegraph" reports that the American government secretly backed leading figures behind the unfolding Egyptian uprising. ](/news/2011/01/28/the-daily-telegraph-reports-that-the-american-government-secretly-backed-leading-figures-behind-the-unfolding-egyptian-uprising.md)
-_Context: Daily Telegraph, Protesters_
+_Context: Protesters, Daily Telegraph_
 
 ##### Ahmet Davutoglu
 ### [Turkey's foreign minister Ahmet Davutoglu expresses concerns that Israel's report into its own commando operation resulting in the Gaza flotilla raid is "neither credible nor unbiased", he tells a news conference before departing for Montenegro. ](/news/2011/01/28/turkey-s-foreign-minister-ahmet-davutoalu-expresses-concerns-that-israel-s-report-into-its-own-commando-operation-resulting-in-the-gaza-flo.md)
@@ -89,7 +89,7 @@ Fine Gael leader Enda Kenny has told the president of the European Commission Jo
 
 ##### Chinese police
 ### [Chinese authorities offer no response to requests by jailed dissident and Nobel peace laureate Liu Xiaobo for family visits. ](/news/2011/01/28/chinese-authorities-offer-no-response-to-requests-by-jailed-dissident-and-nobel-peace-laureate-liu-xiaobo-for-family-visits.md)
-_Context: Nobel Peace Prize, dissident, Liu Xiaobo, Chinese police_
+_Context: Liu Xiaobo, Chinese police, dissident, Nobel Peace Prize_
 
 ##### Lahore
 ### [A U.S. official appears in court charged with the murder of two motorcyclists shot dead in Lahore, Pakistan. He may be executed if found guilty. ](/news/2011/01/28/a-u-s-official-appears-in-court-charged-with-the-murder-of-two-motorcyclists-shot-dead-in-lahore-pakistan-he-may-be-executed-if-found-gui.md)
@@ -117,11 +117,11 @@ Taoiseach Brian Cowen has said he will seek to dissolve the Dáil next Tuesday a
 
 ##### North Korea
 ### [North Korean leader Kim Jong-il's eldest son Kim Jong-nam says his father opposed the hereditary transfer of power, but did so to ensure stability. ](/news/2011/01/28/north-korean-leader-kim-jong-il-s-eldest-son-kim-jong-nam-says-his-father-opposed-the-hereditary-transfer-of-power-but-did-so-to-ensure-sta.md)
-_Context: Kim Jong-nam, North Korea, Kim Jong-il_
+_Context: North Korea, Kim Jong-il, Kim Jong-nam_
 
 ##### Burma
 ### [Burma's highest court upholds the dissolution of Aung San Suu Kyi's National League for Democracy party. ](/news/2011/01/28/burma-s-highest-court-upholds-the-dissolution-of-aung-san-suu-kyi-s-national-league-for-democracy-party.md)
-_Context: National League for Democracy, Burma, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, National League for Democracy, Burma_
 
 ## [Previous Day...](/news/2011/01/27/index.md)
 

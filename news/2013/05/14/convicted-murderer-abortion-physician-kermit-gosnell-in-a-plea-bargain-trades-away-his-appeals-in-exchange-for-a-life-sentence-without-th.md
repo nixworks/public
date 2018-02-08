@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/14/convicted-murderer-abortion-physician-kermit-go
 
 ### [2013-05-14](/news/2013/05/14/index.md)
 
-##### abortion
+##### Abortion
 # Convicted murderer, abortion physician Kermit Gosnell, in a plea bargain, trades away his appeals in exchange for a life sentence without the possibility of parole. 
 
 

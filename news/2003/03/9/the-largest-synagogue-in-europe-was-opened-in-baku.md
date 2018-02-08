@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/03/9/the-largest-synagogue-in-europe-was-opened-in-ba
 
 ### [2003-03-9](/news/2003/03/9/index.md)
 
-##### synagogue
+##### Synagogue
 #  The largest synagogue in Europe was opened in Baku.
 
 

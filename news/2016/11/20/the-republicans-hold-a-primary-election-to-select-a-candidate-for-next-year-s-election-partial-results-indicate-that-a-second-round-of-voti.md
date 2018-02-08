@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/20/the-republicans-hold-a-primary-election-to-sele
 
 ### [2016-11-20](/news/2016/11/20/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # The Republicans hold a primary election to select a candidate for next year's election. Partial results indicate that a second round of voting will occur with Francois Fillon and Alain Juppe as the two candidates in the second round. 
 
 French conservatives vote on a presidential candidate, with ex-President Sarkozy facing defeat.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/4/a-firebomb-is-thrown-into-a-restaurant-in-the-eg
 
 ### [2015-12-4](/news/2015/12/4/index.md)
 
-##### firebomb is thrown into a restaurant
+##### Firebomb is thrown into a restaurant
 # A firebomb is thrown into a restaurant in the Egyptian capital of Cairo killing 17 people. 
 
 A Molotov cocktail hurled at a Cairo restaurant killed 16 people and wounded two on Friday, Egyptian security officials said.

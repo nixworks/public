@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/13/a-fire-at-bashundhara-city-in-dhaka-bangladesh-
 
 ### [2009-03-13](/news/2009/03/13/index.md)
 
-##### fire
+##### Fire
 #  A fire at Bashundhara City in Dhaka, Bangladesh, kills seven people and injures at least 30 others. 
 
 

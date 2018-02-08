@@ -7,7 +7,7 @@ Formats: [HTML](2016/12/19/index.html)  [JSON](2016/12/19/index.json)  [XML](201
 ### [The Russian ambassador to Turkey Andrei Karlov is killed in a gun attack at an art gallery in Ankara. Russia calls the assassin, 22-year old police officer, Mevlut Mert Altintas, a "terrorist". Turkish Foreign Minister Mevlut Cavusoglu goes to Moscow for a planned trilateral meeting on Syria, saying "the incident will not impact relations between Turkey and Russia". ](/news/2016/12/19/the-russian-ambassador-to-turkey-andrei-karlov-is-killed-in-a-gun-attack-at-an-art-gallery-in-ankara-russia-calls-the-assassin-22-year-old.md)
 The shooting at an art exhibit, said to be carried out by a 22-year-old police officer, forced Turkey and Russia to confront a new crisis tied directly to the Syrian conflict.
 
-##### last week's attack on a Christmas market in Berlin
+##### Last week's attack on a Christmas market in Berlin
 ### [Twelve are killed and more than 50 others are injured as a truck rams into a packed Christmas market in Breitscheidplatz, Berlin, Germany. A suspect has been arrested in connection with the attack. ](/news/2016/12/19/twelve-are-killed-and-more-than-50-others-are-injured-as-a-truck-rams-into-a-packed-christmas-market-in-breitscheidplatz-berlin-germany-a.md)
 Fingerprints from a Tunisian suspect have been found inside the truck that smashed through a Berlin Christmas market on Monday in an attack that killed 12 people, and investigators assume the migrant was at the wheel, officials said.
 
@@ -19,9 +19,9 @@ Additional rules may be needed to monitor growth in Big Data, or collection of h
 ### [Companies shut down production in Beijing and cars are taken off the road after a red alert for smog is issued in northern China. Dozens of cities have closed schools due to the smog. ](/news/2016/12/19/companies-shut-down-production-in-beijing-and-cars-are-taken-off-the-road-after-a-red-alert-for-smog-is-issued-in-northern-china-dozens-of.md)
 _Context: Beijing, northern China_
 
-##### Poland
+##### Polish
 ### [Polish protesters block the parliament in order to prevent the possibility of legalizing restrictions on press freedom. ](/news/2016/12/19/polish-protesters-block-the-parliament-in-order-to-prevent-the-possibility-of-legalizing-restrictions-on-press-freedom.md)
-_Context: Poland, press freedom, Poland's parliament_
+_Context: Polish, press freedom, Poland's parliament_
 
 ##### Paris
 ### [A court in Paris finds International Monetary Fund Managing Director Christine Lagarde guilty of negligence in a 404 million euro "misuse of public funds" case. The court ruled that Lagarde won't be fined, won't serve any jail time, or receive a criminal record. The IMF Executive Board "looks forward to continuing to work with" her. ](/news/2016/12/19/a-court-in-paris-finds-international-monetary-fund-managing-director-christine-lagarde-guilty-of-negligence-in-a-404-million-euro-misuse-of.md)
@@ -37,7 +37,7 @@ Electors across the country met on Monday and officially gave Mr. Trump a majori
 
 ##### ALPHA
 ### [ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. ](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-first-time-the-spectrum-of-antihydrogen.md)
-_Context: antihydrogen, ALPHA, spectrum, CERN_
+_Context: CERN, antihydrogen, ALPHA, spectrum_
 
 ## [Previous Day...](/news/2016/12/18/index.md)
 

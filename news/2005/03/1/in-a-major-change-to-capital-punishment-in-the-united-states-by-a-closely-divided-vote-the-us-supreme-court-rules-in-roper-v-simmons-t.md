@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/1/in-a-major-change-to-capital-punishment-in-the-u
 
 ### [2005-03-1](/news/2005/03/1/index.md)
 
-##### executed in the United States
+##### Executed in the United States
 #  In a major change to capital punishment in the United States, by a closely-divided vote, the US Supreme Court rules, in Roper v. Simmons, that imposition of the death penalty on persons convicted of capital crimes committed before they were 18 is unconstitutional. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/26/in-one-of-canada-s-largest-class-action-lawsuit
 
 ### [2004-11-26](/news/2004/11/26/index.md)
 
-##### class-action lawsuit
+##### Class-action lawsuit
 #  In one of Canada's largest class-action lawsuits, the Court of Appeal for Ontario upholds a lower court ruling whereby Canadians whose same-sex partners died after April 1985 are entitled to Canada Pension Plan survivors' benefits. 
 
 

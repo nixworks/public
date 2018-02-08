@@ -19,19 +19,19 @@ _Context: 1998 United States embassy bombings, Tanzania, Fazul Abdullah Mohammed
 ### [2011 Yemeni uprising: Yemeni President Ali Abdullah Saleh's health is in poor condition a week after a bomb blast injured him and killed several others. ](/news/2011/06/11/2011-yemeni-uprising-yemeni-president-ali-abdullah-saleh-s-health-is-in-poor-condition-a-week-after-a-bomb-blast-injured-him-and-killed-sev.md)
 _Context: Ali Abdullah Saleh, President, 2011 Yemeni uprising, Yemen_
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war: Rebels make further gains west of Tripoli, battling in Zawiya just 30 miles from the capital. ](/news/2011/06/11/2011-libyan-civil-war-rebels-make-further-gains-west-of-tripoli-battling-in-zawiya-just-30-miles-from-the-capital.md)
-_Context: civil war, Zawiya, Tripoli_
+_Context: civil war, Tripoli, Zawiya_
 
 ##### South Korea
 ### [South Korea welcomes the return of ancient Korean royal books looted by French troops in 1866, during an invasion of Ganghwa Island in retaliation for Koreans' persecution of French Catholic missionaries. ](/news/2011/06/11/south-korea-welcomes-the-return-of-ancient-korean-royal-books-looted-by-french-troops-in-1866-during-an-invasion-of-ganghwa-island-in-retal.md)
-_Context: South Korea, ancient Korean royal books, France_
+_Context: ancient Korean royal books, France, South Korea_
 
 ##### Bruce Forsyth
 ### [Entertainer Bruce Forsyth is knighted in the Queen's Birthday Honours. Others recognised for their contribution to society include actor Colin Firth, and the team which secured England's Ashes victory over Australia. ](/news/2011/06/11/entertainer-bruce-forsyth-is-knighted-in-the-queen-s-birthday-honours-others-recognised-for-their-contribution-to-society-include-actor-col.md)
 Entertainment legend Bruce Forsyth is knighted in a list which also recognises Oscar winner Colin Firth, the Ashes heroes and hundreds of &quot;unsung heroes&quot;.
 
-##### go on sale
+##### Go on sale
 ### [Media censorship laws in Burma relating to sport, entertainment, lottery and fairytales are eased slightly, though restrictions on news titles remain. ](/news/2011/06/11/media-censorship-laws-in-burma-relating-to-sport-entertainment-lottery-and-fairytales-are-eased-slightly-though-restrictions-on-news-titl.md)
 _Context: Burma, go on sale_
 

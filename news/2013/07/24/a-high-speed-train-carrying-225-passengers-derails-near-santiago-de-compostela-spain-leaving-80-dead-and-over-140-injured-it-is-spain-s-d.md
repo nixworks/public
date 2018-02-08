@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/24/a-high-speed-train-carrying-225-passengers-dera
 
 ### [2013-07-24](/news/2013/07/24/index.md)
 
-##### train that derailed
+##### Train that derailed
 # A high-speed train carrying 225 passengers derails near Santiago de Compostela, Spain, leaving 80 dead and over 140 injured. It is Spain's deadliest rail incident since the 2004 Madrid train bombings, and the country's worst accidental train disaster since the Torre del Bierzo rail disaster in 1944. 
 
 The death toll from the July 24 rail crash in northwest Spain reached 80 people, making it the country’s worst such accident in more than 40 years. Questions were raised about the train’s speed.

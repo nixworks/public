@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/24/national-transitional-council-chairman-mustafa-
 
 ### [2011-08-24](/news/2011/08/24/index.md)
 
-##### heavy gunfire
+##### Heavy gunfire
 # National Transitional Council Chairman Mustafa Abdul Jalil announces legislative and presidential elections within eight months, and promises that Muammar Gaddafi will be tried in Libya. 
 
 Col Muammar Gaddafi last night reportedly vowed death or victory in the fight against &#034;aggression&#034; after his fortified headquarters in Tripoli were overrun.

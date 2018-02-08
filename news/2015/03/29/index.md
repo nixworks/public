@@ -3,7 +3,7 @@ Formats: [HTML](2015/03/29/index.html)  [JSON](2015/03/29/index.json)  [XML](201
 
 ## [2015-03-29](/news/2015/03/29/index.md)
 
-##### attacks
+##### Attacks
 ### [Pakistan sends a Boeing 747 to evacuate Pakistani nationals concerned about their security. The plane will be allowed into the country despite the no-fly zone declared by Saudi Arabia. ](/news/2015/03/29/pakistan-sends-a-boeing-747-to-evacuate-pakistani-nationals-concerned-about-their-security-the-plane-will-be-allowed-into-the-country-despi.md)
 Pakistan, which has yet to decide whether to offer military support to a Saudi-led campaign in Yemen, is flying jumbo jets to the Middle Eastern country to evacuate hundreds of nationals, a Defence Ministry official said on Sunday.
 
@@ -13,7 +13,7 @@ An Air Canada plane landing at Halifax, Nova Scotia, leaves the runway while lan
 
 ##### President
 ### [The President of Egypt Abdel Fattah el-Sisi announces that members of the Arab League have agreed in principle to form a joint military force to respond to security threats. ](/news/2015/03/29/the-president-of-egypt-abdel-fattah-el-sisi-announces-that-members-of-the-arab-league-have-agreed-in-principle-to-form-a-joint-military-forc.md)
-_Context: Arab League, Abdel Fattah el-Sisi, President_
+_Context: President, Abdel Fattah el-Sisi, Arab League_
 
 ##### Death of Lee Kuan Yew
 ### [Singapore holds a funeral and elaborate procession for Lee Kuan Yew, the first Prime Minister of Singapore. ](/news/2015/03/29/singapore-holds-a-funeral-and-elaborate-procession-for-lee-kuan-yew-the-first-prime-minister-of-singapore.md)
@@ -25,7 +25,7 @@ As results from Nigeria’s closely contested elections started coming in on Sun
 
 ##### France
 ### [Voters in France go to the polls for local government elections with initial polling suggesting favorable results for former President Nicolas Sarkozy's UMP. ](/news/2015/03/29/voters-in-france-go-to-the-polls-for-local-government-elections-with-initial-polling-suggesting-favorable-results-for-former-president-nicol.md)
-_Context: Nicolas Sarkozy, France, local government elections, French President, UMP_
+_Context: UMP, Nicolas Sarkozy, France, local government elections, French President_
 
 ##### Uzbekistani presidential election, 2015
 ### [Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.md)

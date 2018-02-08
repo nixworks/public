@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/9/a-car-bomb-explodes-outside-the-australian-embas
 
 ### [2004-09-9](/news/2004/09/9/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb explodes outside the Australian embassy in Jakarta, Indonesia, killing 9 people (according to the BBC) and wounding 180. Jemaah Islamiyah, the Southeast Asian terrorist group connected with Al Qaeda, is believed responsible. 
 
 

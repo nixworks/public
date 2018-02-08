@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/09/14/takeshi-onaga-the-governor-of-the-japanese-pref
 
 ### [2015-09-14](/news/2015/09/14/index.md)
 
-##### relocate MCAS Futenma to Henoko Bay in Nago
+##### Relocate MCAS Futenma to Henoko Bay in Nago
 # Takeshi Onaga, the governor of the Japanese prefecture of Okinawa, revokes approval for work on the US Marine Corps Air Station Futenma. 
 
 TOKYO (AFP) - The governor of Okinawa said on Monday (Sept 14) that he will revoke approval for work on a US air base in southern Japan, in the latest setback to the controversial plan.. Read more at straitstimes.com.

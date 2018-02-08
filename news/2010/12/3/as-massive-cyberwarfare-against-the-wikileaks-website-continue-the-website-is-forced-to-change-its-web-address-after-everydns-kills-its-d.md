@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/3/as-massive-cyberwarfare-against-the-wikileaks-we
 
 ### [2010-12-3](/news/2010/12/3/index.md)
 
-##### cyberwarfare
+##### Cyberwarfare
 # As "massive" cyberwarfare against the WikiLeaks website continue, the website is forced to change its web address after EveryDNS kills its domain due to the disruption caused to its other customers by the attacks. United States authorities are accused of carrying out the cyber attacks against the website. 
 
 Whistle-blowing website Wikileaks is forced to change its web address after the company providing its domain name cuts off service.

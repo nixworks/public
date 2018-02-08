@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/11/five-people-are-killed-after-an-ambulance-hits-
 
 ### [2012-06-11](/news/2012/06/11/index.md)
 
-##### ambulance
+##### Ambulance
 # Five people are killed after an ambulance hits a roadside bomb in Sar-e-Pul Province. 
 
 

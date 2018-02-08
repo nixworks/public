@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/28/the-death-toll-in-the-amagasaki-rail-crash-in-j
 
 ### [2005-04-28](/news/2005/04/28/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the Amagasaki rail crash in Japan rises to 104. Rescuers find the body of the train's driver. 
 
 

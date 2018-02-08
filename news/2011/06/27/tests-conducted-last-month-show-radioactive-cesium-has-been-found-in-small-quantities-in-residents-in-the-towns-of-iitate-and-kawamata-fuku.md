@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/27/tests-conducted-last-month-show-radioactive-ces
 
 ### [2011-06-27](/news/2011/06/27/index.md)
 
-##### radioactive
+##### Radioactive
 # Tests conducted last month show radioactive cesium has been found in small quantities in residents in the towns of Iitate and Kawamata, Fukushima, located about 25 miles (40 kilometers) from the crippled Fukushima Daiichi nuclear power plant. 
 
 Japanese researchers have found radiation in all 15 people tested last month from the area near the crippled Fukushima Daiichi nuclear power plant.

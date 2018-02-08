@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/19/elements-from-the-maritime-forces-of-india-japa
 
 ### [2015-10-19](/news/2015/10/19/index.md)
 
-##### maritime forces
+##### Maritime forces
 # Elements from the maritime forces of India, Japan, and the United States engage in joint military exercises in the Bay of Bengal. 
 
 aval warships, aircraft carriers and submarines from the U.S.

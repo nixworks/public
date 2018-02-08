@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/3/after-29-years-of-decriminalized-prostitution-in
 
 ### [2009-11-3](/news/2009/11/3/index.md)
 
-##### decriminalized prostitution
+##### Decriminalized prostitution
 #  After 29 years of decriminalized prostitution in the U.S. state of Rhode Island, Governor Donald Carcieri signs a bill into law outlawing prostitution. 
 
 

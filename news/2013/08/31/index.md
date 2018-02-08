@@ -11,7 +11,7 @@ BEIRUT - A United Nations chemical inspection team left Syria on Saturday as U.S
 ### [Veteran British broadcaster Sir David Frost - who famously interviewed former U.S. President Richard Nixon - dies on board the Queen Elizabeth of a heart attack, aged 74. ](/news/2013/08/31/veteran-british-broadcaster-sir-david-frost-a-who-famously-interviewed-former-u-s-president-richard-nixon-a-dies-on-board-the-queen-eli.md)
 Broadcaster and writer Sir David Frost dies at the age of 74 following a heart attack.
 
-##### ammonia
+##### Ammonia
 ### [At least 15 people die after liquid ammonia leaks from a refrigeration unit at a cold storage plant in Shanghai. ](/news/2013/08/31/at-least-15-people-die-after-liquid-ammonia-leaks-from-a-refrigeration-unit-at-a-cold-storage-plant-in-shanghai.md)
 At least 15 people have been killed after liquid ammonia leaked from a refrigeration unit at a cold storage plant in Shanghai, the government and state media say.
 

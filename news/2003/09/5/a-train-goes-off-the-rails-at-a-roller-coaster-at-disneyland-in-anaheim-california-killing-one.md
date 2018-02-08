@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/5/a-train-goes-off-the-rails-at-a-roller-coaster-a
 
 ### [2003-09-5](/news/2003/09/5/index.md)
 
-##### roller coaster
+##### Roller coaster
 #  A train goes off the rails at a roller coaster at Disneyland in Anaheim, California, killing one.
 
 

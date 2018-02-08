@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recrui
 
 ### [2011-02-10](/news/2011/02/10/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. 
 
 A boy in a school uniform blew himself up at a Pakistani army recruitment center on Thursday, killing 31 cadets, officials said, in an attack that challenges government assertions it has weakened militants.

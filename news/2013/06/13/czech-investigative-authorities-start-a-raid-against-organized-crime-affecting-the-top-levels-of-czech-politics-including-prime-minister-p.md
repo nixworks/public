@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/13/czech-investigative-authorities-start-a-raid-ag
 
 ### [2013-06-13](/news/2013/06/13/index.md)
 
-##### corruption scandal
+##### Corruption scandal
 # Czech investigative authorities start a raid against organized crime, affecting the top levels of Czech politics, including Prime Minister Petr Necas and his coalition government.
 
 Several officials, including a top aide to Prime Minister Petr Necas, are reported to have been detained. The coalition government has been rocked by a series of corruption scandals.

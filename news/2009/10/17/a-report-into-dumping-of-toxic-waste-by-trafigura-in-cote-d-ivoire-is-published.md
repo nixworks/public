@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigu
 
 ### [2009-10-17](/news/2009/10/17/index.md)
 
-##### the dumped waste
+##### The dumped waste
 #  A report into dumping of toxic waste by Trafigura in Cte d'Ivoire is published. 
 
 

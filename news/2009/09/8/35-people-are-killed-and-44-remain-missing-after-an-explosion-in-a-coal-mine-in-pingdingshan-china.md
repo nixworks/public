@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/8/35-people-are-killed-and-44-remain-missing-after
 
 ### [2009-09-8](/news/2009/09/8/index.md)
 
-##### coal mine
+##### Coal mine
 #  35 people are killed and 44 remain missing after an explosion in a coal mine in Pingdingshan, China. 
 
 At least 42 people killed and dozens more trapped in explosion at Henan coal mine.

@@ -7,7 +7,7 @@ Formats: [HTML](2013/06/23/index.html)  [JSON](2013/06/23/index.json)  [XML](201
 ### [Six Lebanese Army soldiers are killed and several others injured in clashes at a checkpoint on the outskirts of Sidon. ](/news/2013/06/23/six-lebanese-army-soldiers-are-killed-and-several-others-injured-in-clashes-at-a-checkpoint-on-the-outskirts-of-sidon.md)
 Residents flee scene of violence as at 10 soldiers are killed after clashes with followers of Sunni cleric.
 
-##### storm a hotel
+##### Storm a hotel
 ### [Gunmen storm a hotel in Northern Pakistan, killing nine tourists and a Pakistani tour guide. ](/news/2013/06/23/gunmen-storm-a-hotel-in-northern-pakistan-killing-nine-tourists-and-a-pakistani-tour-guide.md)
 Gunmen reported to be from the Taliban kill 10 people, including at least nine foreign tourists, at a mountain base camp in northern Pakistan.
 
@@ -15,11 +15,11 @@ Gunmen reported to be from the Taliban kill 10 people, including at least nine f
 ### [16 people are killed and more than 20 others wounded in tribal violence in Kenya. ](/news/2013/06/23/16-people-are-killed-and-more-than-20-others-wounded-in-tribal-violence-in-kenya.md)
 _Context: Kenya_
 
-##### tear gas
+##### Tear gas
 ### [Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/police-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md)
 _Context: tear gas, Brazil_
 
-##### al-Qaeda
+##### Al-Qaeda
 ### [Al-Qaeda-linked gunmen kidnap two sisters working on a film in the Philippines ](/news/2013/06/23/al-qaeda-linked-gunmen-kidnap-two-sisters-working-on-a-film-in-the-philippines.md)
 Al Qaeda-linked militants have snatched two sisters who had gone to a dangerous part of the Philippines to make a film.
 
@@ -49,7 +49,7 @@ Palestinian President Mahmoud Abbas on Sunday accepted the resignation of his ne
 
 ##### Nelson Mandela
 ### [Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. ](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.md)
-_Context: President, Nelson Mandela_
+_Context: Nelson Mandela, President_
 
 ## [Previous Day...](/news/2013/06/22/index.md)
 

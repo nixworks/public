@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/21/united-states-presidential-election-2008-bill-r
 
 ### [2007-05-21](/news/2007/05/21/index.md)
 
-##### presidential candidate
+##### Presidential candidate
 #  United States Presidential Election, 2008: Bill Richardson, the Democratic Governor of New Mexico, officially declares his candidacy for president in Los Angeles, California. 
 
 

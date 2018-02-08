@@ -15,7 +15,7 @@ Kuwait says the suicide bomber who carried out a mosque attack claimed by Islami
 ### [At least 24 militants are killed in Pakistan Air Force air strikes on positions in the Khyber Agency and North Waziristan. ](/news/2015/06/28/at-least-24-militants-are-killed-in-pakistan-air-force-air-strikes-on-positions-in-the-khyber-agency-and-north-waziristan.md)
 In the country’s Khyber Agency and North Waziristan tribal regions
 
-##### pride parade
+##### Pride parade
 ### [In Istanbul, Turkish police forces interrupt the LGBT pride parade, which was refused this year due to the holy month Ramadan, by firing water cannons and rubber pellets. ](/news/2015/06/28/in-istanbul-turkish-police-forces-interrupt-the-lgbt-pride-parade-which-was-refused-this-year-due-to-the-holy-month-ramadan-by-firing-wat.md)
 Turkish police fired water cannon and rubber pellets to disperse a gay pride parade in central Istanbul on Sunday, after organisers said they had been refused permission to march this year because of the Muslim holy month of Ramadan.
 
@@ -27,13 +27,13 @@ Greece moved to check the growing strains on its crippled financial system on Su
 ### [The Governor of Puerto Rico, Alejandro Garca Padilla, says that Puerto Rico's debts are "not payable". ](/news/2015/06/28/the-governor-of-puerto-rico-alejandro-garcia-padilla-says-that-puerto-rico-s-debts-are-not-payable.md)
 Gov. Alejandro García Padilla said that his administration would probably seek significant concessions from its creditors on a $72 billion debt load.
 
-##### recent MERS outbreak
+##### Recent MERS outbreak
 ### [The number of deaths from MERS in South Korea rises to 32, with the number of cases stabilizing at 182. ](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.md)
  South Korea reported an additional death from Middle East Respiratory Syndrome on Sunday, bringing its death toll to 32.
 
-##### diphtheria
+##### Diphtheria
 ### [A six-year-old boy whose parents refused to have him vaccinated dies of diphtheria, the first case in Spain since 1987. ](/news/2015/06/28/a-six-year-old-boy-whose-parents-refused-to-have-him-vaccinated-dies-of-diphtheria-the-first-case-in-spain-since-1987.md)
-_Context: diphtheria, Spain_
+_Context: Spain, diphtheria_
 
 ##### 2015 Clinton Correctional Facility escape
 ### [Remaining escapee David Sweat is shot and captured in upstate New York near the border with Canada. ](/news/2015/06/28/remaining-escapee-david-sweat-is-shot-and-captured-in-upstate-new-york-near-the-border-with-canada.md)

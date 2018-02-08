@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/28/39-people-are-injured-after-an-express-train-de
 
 ### [2011-05-28](/news/2011/05/28/index.md)
 
-##### derail
+##### Derail
 # 39 people are injured after an express train derails and catches fire in a tunnel on Hokkaido, Japan. 
 
 

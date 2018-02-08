@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/4/investigators-find-a-suicide-note-from-the-two-m
 
 ### [2007-07-4](/news/2007/07/4/index.md)
 
-##### suicide note
+##### Suicide note
 #  Investigators find a suicide note from the two men accused of involvement in the 2007 Glasgow International Airport attack. 
 
 

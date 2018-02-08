@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/3/four-years-after-defaulting-on-its-external-debt
 
 ### [2006-01-3](/news/2006/01/3/index.md)
 
-##### defaults
+##### Defaults
 #  Four years after defaulting on its external debt, Argentina pays its USD 9.57 billion debt with the International Monetary Fund. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

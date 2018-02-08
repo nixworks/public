@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/16/26-of-60-tank-cars-carrying-fuel-oil-derail-nea
 
 ### [2005-06-16](/news/2005/06/16/index.md)
 
-##### tank car
+##### Tank car
 #  26 of 60 tank cars carrying fuel oil derail near Rzhev, Russia (about 200 km - 125 miles northwest of Moscow), sending a very large amount of oil into the ground contaminating Moscow's water supply and the Volga River after flowing down the Vazuza River from the accident site. It is not yet known if this incident is related to the bomb that was exploded on June 12 that derailed a passenger train. 
 
 

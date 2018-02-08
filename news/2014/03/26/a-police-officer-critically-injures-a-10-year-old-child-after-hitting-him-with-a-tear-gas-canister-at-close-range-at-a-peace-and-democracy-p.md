@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/26/a-police-officer-critically-injures-a-10-year-o
 
 ### [2014-03-26](/news/2014/03/26/index.md)
 
-##### tear gas canister
+##### Tear gas canister
 # A police officer critically injures a 10-year-old child after hitting him with a tear gas canister at close range at a Peace and Democracy Party event in Diyarbakir, Turkey. 
 
 A boy aged 10 is critically injured after reportedly being hit by a police tear gas canister at a rally in the Turkish city of Diyarbakir.

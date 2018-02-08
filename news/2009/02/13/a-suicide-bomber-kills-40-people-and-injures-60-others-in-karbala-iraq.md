@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/13/a-suicide-bomber-kills-40-people-and-injures-60
 
 ### [2009-02-13](/news/2009/02/13/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomber kills 40 people and injures 60 others in Karbala, Iraq. 
 
 A female homicide bomber attacked a tent filled with women and children resting from a pilgrimage to a Shiite holy city south of Baghdad on Friday, killing 40 people and injuring 60 others.

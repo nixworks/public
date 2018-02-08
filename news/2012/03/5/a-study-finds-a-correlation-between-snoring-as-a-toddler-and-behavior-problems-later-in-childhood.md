@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/5/a-study-finds-a-correlation-between-snoring-as-a
 
 ### [2012-03-5](/news/2012/03/5/index.md)
 
-##### correlation
+##### Correlation
 # A study finds a correlation between snoring as a toddler and behavior problems later in childhood. 
 
 Children who snore, or who have other night-time breathing conditions are at risk from behavioural problems, a study of 11,000 UK children suggests.

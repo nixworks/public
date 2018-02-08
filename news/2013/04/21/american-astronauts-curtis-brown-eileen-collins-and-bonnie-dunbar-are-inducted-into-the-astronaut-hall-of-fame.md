@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/21/american-astronauts-curtis-brown-eileen-collins
 
 ### [2013-04-21](/news/2013/04/21/index.md)
 
-##### astronaut
+##### Astronaut
 # American astronauts Curtis Brown, Eileen Collins, and Bonnie Dunbar are inducted into the Astronaut Hall of Fame. 
 
 

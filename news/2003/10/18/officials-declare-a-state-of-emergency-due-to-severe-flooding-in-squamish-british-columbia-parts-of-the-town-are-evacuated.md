@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/18/officials-declare-a-state-of-emergency-due-to-s
 
 ### [2003-10-18](/news/2003/10/18/index.md)
 
-##### flood
+##### Flood
 #  Officials declare a state of emergency due to severe flooding in Squamish, British Columbia. Parts of the town are evacuated.
 
 

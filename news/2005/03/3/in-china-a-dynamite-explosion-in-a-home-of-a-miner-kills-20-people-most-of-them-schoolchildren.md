@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/3/in-china-a-dynamite-explosion-in-a-home-of-a-min
 
 ### [2005-03-3](/news/2005/03/3/index.md)
 
-##### dynamite
+##### Dynamite
 #  In China, a dynamite explosion in a home of a miner kills 20 people, most of them schoolchildren 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

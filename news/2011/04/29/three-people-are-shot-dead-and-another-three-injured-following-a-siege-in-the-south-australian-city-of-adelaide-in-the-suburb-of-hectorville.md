@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/29/three-people-are-shot-dead-and-another-three-in
 
 ### [2011-04-29](/news/2011/04/29/index.md)
 
-##### shot dead and another three injured
+##### Shot dead and another three injured
 # Three people are shot dead and another three injured following a siege in the South Australian city of Adelaide in the suburb of Hectorville. 
 
 Adelaide police have arrested a gunman following a siege that has left three people dead and three others injured.

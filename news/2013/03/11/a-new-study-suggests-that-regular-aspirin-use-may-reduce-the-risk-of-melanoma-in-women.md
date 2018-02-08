@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/11/a-new-study-suggests-that-regular-aspirin-use-m
 
 ### [2013-03-11](/news/2013/03/11/index.md)
 
-##### aspirin
+##### Aspirin
 # A new study suggests that regular aspirin use may reduce the risk of melanoma in women. 
 
 This is only the latest benefit for the wonder pill, which has been previously linked to protection against cancers of the bladder, breast, colon, esophagus, ovary, prostate and stomach.

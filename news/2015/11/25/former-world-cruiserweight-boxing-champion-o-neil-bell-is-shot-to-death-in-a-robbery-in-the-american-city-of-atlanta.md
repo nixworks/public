@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/25/former-world-cruiserweight-boxing-champion-o-ne
 
 ### [2015-11-25](/news/2015/11/25/index.md)
 
-##### cruiserweight
+##### Cruiserweight
 # Former world cruiserweight boxing champion O'Neil Bell is shot to death in a robbery in the American city of Atlanta. 
 
 

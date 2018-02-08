@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/11/traces-of-water-vapor-are-reported-to-have-been
 
 ### [2007-04-11](/news/2007/04/11/index.md)
 
-##### water vapor
+##### Water vapor
 #  Traces of water vapor are reported to have been found in the atmosphere of HD 209458 b, a first for extrasolar planets. 
 
 

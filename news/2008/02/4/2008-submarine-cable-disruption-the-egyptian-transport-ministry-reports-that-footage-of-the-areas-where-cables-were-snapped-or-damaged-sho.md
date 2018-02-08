@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/4/2008-submarine-cable-disruption-the-egyptian-tra
 
 ### [2008-02-4](/news/2008/02/4/index.md)
 
-##### break
+##### Break
 #  2008 submarine cable disruption: the Egyptian transport ministry reports that footage of the areas where cables were snapped or damaged shows no maritime traffic. 
 
 

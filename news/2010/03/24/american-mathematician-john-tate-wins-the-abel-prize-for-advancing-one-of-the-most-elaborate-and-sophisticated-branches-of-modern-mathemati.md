@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/24/american-mathematician-john-tate-wins-the-abel-
 
 ### [2010-03-24](/news/2010/03/24/index.md)
 
-##### mathematician
+##### Mathematician
 # American mathematician John Tate wins the Abel Prize for advancing "one of the most elaborate and sophisticated branches of modern mathematics" 
 
 

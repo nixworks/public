@@ -21,7 +21,7 @@ The online retail giant said it is seeking a location in North America for a new
 
 ##### Trump administraion
 ### [Fifteen states sue the Trump administration over potential violations of the Due Process Clause as a result of actions concerning the rescindment of the DACA program. ](/news/2017/09/7/fifteen-states-sue-the-trump-administration-over-potential-violations-of-the-due-process-clause-as-a-result-of-actions-concerning-the-rescin.md)
-_Context: Trump administraion, Deferred Action for Childhood Arrivals, Due Process Clause_
+_Context: Deferred Action for Childhood Arrivals, Trump administraion, Due Process Clause_
 
 ##### Atlantic hurricanes
 ### [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md)
@@ -37,7 +37,7 @@ The Latest on tensions on the Korean Peninsula (all times local):
 
 ##### Qatar-United States relations
 ### [Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. ](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to-help-people-in-texas-recover-from-harvey.md)
-_Context: Hurricane Harvey, Qatar-United States relations, Texas, Qatar_
+_Context: Qatar-United States relations, Hurricane Harvey, Texas, Qatar_
 
 ##### Australian Marriage Law Postal Survey
 ### [The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. ](/news/2017/09/7/the-high-court-of-australia-rejects-the-challenge-against-the-postal-survey-on-same-sex-marriage-allowing-the-survey-to-begin-in-mid-septem.md)
@@ -49,9 +49,9 @@ She says the due-process rights of the accused need to be protected.
 
 ##### Executive Order 13780
 ### [The United States Court of Appeals for the Ninth Circuit rejects the Trump administration arguments regarding the travel ban on grandparents, cousins and others with a "bona fide" relationship in the United States. ](/news/2017/09/7/the-united-states-court-of-appeals-for-the-ninth-circuit-rejects-the-trump-administration-arguments-regarding-the-travel-ban-on-grandparents.md)
-_Context: Trump administraion, United States Court of Appeals for the Ninth Circuit, Executive Order 13780, bona fide_
+_Context: bona fide, United States Court of Appeals for the Ninth Circuit, Trump administraion, Executive Order 13780_
 
-##### secession
+##### Secession
 ### [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md)
 Members of Catalonia&#39;s parliament who voted in favour of a referendum on independence set to face legal challenge.
 
@@ -59,7 +59,7 @@ Members of Catalonia&#39;s parliament who voted in favour of a referendum on ind
 ### [Seven first responders file a $1 million lawsuit against the Arkema chemical company for failing to warn them in advance about the environmental dangers from the plant explosion. The seven people, six police officers and an emergency worker, remain under a doctor's care. ](/news/2017/09/7/seven-first-responders-file-a-1-million-lawsuit-against-the-arkema-chemical-company-for-failing-to-warn-them-in-advance-about-the-environme.md)
 Police officers sickened by fumes from explosions at an Arkema SA chemical plant near Houston accused the company in a lawsuit of not warning them about toxic chemicals that left them vomiting and unable to catch their breath.
 
-##### drug crackdown
+##### Drug crackdown
 ### [The Philippine Senate investigates Paolo Duterte, the son of current Philippine President Rodrigo Duterte, in an alleged methamphetamine smuggling scandal. ](/news/2017/09/7/the-philippine-senate-investigates-paolo-duterte-the-son-of-current-philippine-president-rodrigo-duterte-in-an-alleged-methamphetamine-smu.md)
 Philippine President Rodrigo Duterte’s son denied any involvement in a drug smuggling case that is captivating the nation.
 

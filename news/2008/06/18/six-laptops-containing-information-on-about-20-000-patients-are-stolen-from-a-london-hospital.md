@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/18/six-laptops-containing-information-on-about-20-
 
 ### [2008-06-18](/news/2008/06/18/index.md)
 
-##### laptops
+##### Laptops
 #  Six laptops containing information on about 20,000 patients are stolen from a London hospital. 
 
 

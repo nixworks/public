@@ -33,7 +33,7 @@ The judge in the Oscar Pistorius trial orders that the South African Paralympic 
 
 ##### Portugal
 ### [Portuguese authorities charge Luiz Felipe Scolari, the coach of the Brazil national football team, with tax fraud allegedly carried out when he was the coach of Portugal. ](/news/2014/05/14/portuguese-authorities-charge-luiz-felipe-scolari-the-coach-of-the-brazil-national-football-team-with-tax-fraud-allegedly-carried-out-when.md)
-_Context: Portugal, Luiz Felipe Scolari, tax fraud, Brazil national football team, Portugal_
+_Context: tax fraud, Portugal, Luiz Felipe Scolari, Portugal, Brazil national football team_
 
 ## [Previous Day...](/news/2014/05/13/index.md)
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/18/the-chicago-teachers-union-and-chicago-public-s
 
 ### [2012-09-18](/news/2012/09/18/index.md)
 
-##### union
+##### Union
 # The Chicago Teachers Union and Chicago Public Schools reach a deal that would end an 8-day strike. 
 
 

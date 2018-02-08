@@ -7,7 +7,7 @@ Formats: [HTML](2013/09/13/index.html)  [JSON](2013/09/13/index.json)  [XML](201
 ### [Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported as killed and about 20 civilians injured. ](/news/2013/09/13/taliban-insurgents-attack-the-united-states-consulate-in-herat-afghanistan-with-two-members-of-the-afghan-national-police-reported-as-kill.md)
 Security forces put down an attack by Taliban insurgents on the US consulate in the Afghan city of Herat, which left several dead and 17 injured.
 
-##### al-Qaeda
+##### Al-Qaeda
 ### [Al-Qaeda's leader Ayman al-Zawahiri calls for attacks inside United States to "bleed America economically". ](/news/2013/09/13/al-qaeda-s-leader-ayman-al-zawahiri-calls-for-attacks-inside-united-states-to-bleed-america-economically.md)
 Al Qaeda leader Ayman al-Zawahri urged small-scale attacks inside the United States to &quot;bleed America economically&quot;, adding he hoped eventually to see a more significant strike, according to the SITE monitoring service.
 
@@ -21,11 +21,11 @@ Thirty-seven people have died in a fire at a psychiatric hospital in Russia’s 
 
 ##### Galati County
 ### [Nine people are confirmed dead following massive floods in the past 24 hours in Galati County, Romania. ](/news/2013/09/13/nine-people-are-confirmed-dead-following-massive-floods-in-the-past-24-hours-in-galaei-county-romania.md)
-_Context: Romania, Galati County_
+_Context: Galati County, Romania_
 
 ##### Floods in the United States: 2001-present
 ### [At least four people are dead, 80 unaccounted for and thousands have been evacuated following heavy floods in Boulder County in the US state of Colorado. ](/news/2013/09/13/at-least-four-people-are-dead-80-unaccounted-for-and-thousands-have-been-evacuated-following-heavy-floods-in-boulder-county-in-the-us-state.md)
-_Context: Floods in the United States: 2001-present, Colorado, Boulder County_
+_Context: Colorado, Floods in the United States: 2001-present, Boulder County_
 
 ##### World War II
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
@@ -33,7 +33,7 @@ HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish s
 
 ##### Crossville
 ### [Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. ](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.md)
-_Context: Tennessee, Crossville, U.S._
+_Context: U.S., Crossville, Tennessee_
 
 ##### India
 ### [An Indian court sentences four men to death for the 2012 Delhi gang rape case. ](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.md)
@@ -45,7 +45,7 @@ The gang&#039;s all here. Labor, Liberal, National - everyone is trying to remem
 
 ##### Narendra Modi
 ### [Narendra Modi is named as the Bharatiya Janata Party leader in next year's Indian general election. ](/news/2013/09/13/narendra-modi-is-named-as-the-bharatiya-janata-party-leader-in-next-year-s-indian-general-election.md)
-_Context: Bharatiya Janata Party, Indian general election, Narendra Modi_
+_Context: Narendra Modi, Indian general election, Bharatiya Janata Party_
 
 ## [Previous Day...](/news/2013/09/12/index.md)
 

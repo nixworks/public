@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/22/a-suicide-bomber-targeting-shiites-at-a-mosque-
 
 ### [2015-05-22](/news/2015/05/22/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber targeting Shiites at a mosque in Qatif, Saudi Arabia, has killed 19 and injured 28, per Red Crescent authorities. 
 
 A suicide bomber has targeted a mosque in eastern Saudi Arabia as worshippers commemorated the 7th century birth of a revered Shiite figure, the Interior Ministry and residents said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/26/a-post-mortem-examination-finds-russian-oligarc
 
 ### [2013-03-26](/news/2013/03/26/index.md)
 
-##### post-mortem examination
+##### Post-mortem examination
 # A post-mortem examination finds Russian oligarch Boris Berezovsky's death was "consistent with hanging", after the examination found nothing to indicate a violent struggle or involvement of another party. 
 
 

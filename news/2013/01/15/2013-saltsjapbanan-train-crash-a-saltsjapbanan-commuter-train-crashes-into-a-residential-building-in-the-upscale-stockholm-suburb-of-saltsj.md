@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/15/2013-saltsjapbanan-train-crash-a-saltsjapbanan-
 
 ### [2013-01-15](/news/2013/01/15/index.md)
 
-##### crash
+##### Crash
 # 2013 Saltsjobanan train crash: A Saltsjobanan commuter train crashes into a residential building in the upscale Stockholm suburb of Saltsjobaden seriously injuring one person. 
 
 A cleaning woman stole an empty commuter train in a suburb of Stockholm and crashed it into a house, injuring herself, Swedish officials say.

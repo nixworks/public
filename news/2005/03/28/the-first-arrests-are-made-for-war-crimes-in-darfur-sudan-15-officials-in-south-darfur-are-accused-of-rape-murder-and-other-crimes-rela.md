@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/28/the-first-arrests-are-made-for-war-crimes-in-da
 
 ### [2005-03-28](/news/2005/03/28/index.md)
 
-##### war crimes
+##### War crimes
 #  The first arrests are made for war crimes in Darfur, Sudan: 15 officials in South Darfur are accused of rape, murder, and other crimes related to the Darfur conflict. Whether they will be tried in a Sudanese or international court is uncertain at this time. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/27/the-planets-jupiter-and-neptune-experience-a-tr
 
 ### [2009-05-27](/news/2009/05/27/index.md)
 
-##### planet
+##### Planet
 #  The planets Jupiter and Neptune experience a triple conjunction as seen from Earth.
 
 

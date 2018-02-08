@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/4/the-iraqi-government-loses-control-of-fallujah-t
 
 ### [2014-01-4](/news/2014/01/4/index.md)
 
-##### federal government
+##### Federal government
 # The Iraqi government loses control of Fallujah to Islamist militants. 
 
 

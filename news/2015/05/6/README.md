@@ -9,7 +9,7 @@ The drug maker’s offer for Synageva has a huge 136 percent premium. Still, exc
 
 ##### Mount Hakone
 ### [Japanese authorities raise alert level for the Mount Hakone volcano in the Lake Ashi tourist area. ](/news/2015/05/6/japanese-authorities-raise-alert-level-for-the-mount-hakone-volcano-in-the-lake-ashi-tourist-area.md)
-_Context: Mount Hakone, Lake Ashi_
+_Context: Lake Ashi, Mount Hakone_
 
 ##### Germanwings Flight 9525
 ### [A French investigation finds that Andreas Lubitz, perpetrator copilot of the murder-suicide disaster of Germanwings Flight 9525 had practised rapid descent on a previous flight. ](/news/2015/05/6/a-french-investigation-finds-that-andreas-lubitz-perpetrator-copilot-of-the-murder-suicide-disaster-of-germanwings-flight-9525-had-practise.md)

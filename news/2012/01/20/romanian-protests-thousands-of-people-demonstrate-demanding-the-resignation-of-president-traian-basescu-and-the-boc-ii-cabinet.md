@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/20/romanian-protests-thousands-of-people-demonstra
 
 ### [2012-01-20](/news/2012/01/20/index.md)
 
-##### major social and political unrest
+##### Major social and political unrest
 # Romanian protests: Thousands of people demonstrate demanding the resignation of president Traian Basescu and the Boc II Cabinet. 
 
 Thursday saw some of the largest protests in Romania in years as thousands of people gathered in the capital Bucharest, calling on the government to resign.

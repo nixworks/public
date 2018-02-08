@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/11/a-measure-to-support-expansion-of-the-eurozone-
 
 ### [2011-10-11](/news/2011/10/11/index.md)
 
-##### eurozone
+##### Eurozone
 # A measure to support expansion of the eurozone bailout fund is halted due to its failure to pass in the Parliament of Slovakia. 
 
 

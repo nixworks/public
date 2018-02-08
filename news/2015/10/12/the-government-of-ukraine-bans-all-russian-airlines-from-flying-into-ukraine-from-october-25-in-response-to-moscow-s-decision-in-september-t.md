@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/12/the-government-of-ukraine-bans-all-russian-airl
 
 ### [2015-10-12](/news/2015/10/12/index.md)
 
-##### government of Ukraine
+##### Government of Ukraine
 # The government of Ukraine bans all Russian airlines from flying into Ukraine from October 25 in response to Moscow's decision in September to impose a similar ban on Ukrainian airlines. 
 
 

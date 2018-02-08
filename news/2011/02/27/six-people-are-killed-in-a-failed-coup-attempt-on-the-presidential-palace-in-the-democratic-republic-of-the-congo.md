@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/27/six-people-are-killed-in-a-failed-coup-attempt-
 
 ### [2011-02-27](/news/2011/02/27/index.md)
 
-##### military coup
+##### Military coup
 # Six people are killed in a failed coup attempt on the presidential palace in the Democratic Republic of the Congo. 
 
 

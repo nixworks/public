@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/19/taxicab-driver-christopher-halliwell-is-sentenc
 
 ### [2012-10-19](/news/2012/10/19/index.md)
 
-##### taxi
+##### Taxi
 # Taxicab driver Christopher Halliwell is sentenced to life imprisonment for murdering Sian O'Callaghan who went missing after visiting a nightclub in Swindon in March last year. 
 
 

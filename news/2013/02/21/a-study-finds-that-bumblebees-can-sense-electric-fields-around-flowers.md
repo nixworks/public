@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/21/a-study-finds-that-bumblebees-can-sense-electri
 
 ### [2013-02-21](/news/2013/02/21/index.md)
 
-##### bumblebee
+##### Bumblebee
 # A study finds that bumblebees can sense electric fields around flowers. 
 
 

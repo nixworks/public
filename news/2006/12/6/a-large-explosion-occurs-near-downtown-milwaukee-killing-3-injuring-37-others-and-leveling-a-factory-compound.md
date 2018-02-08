@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/6/a-large-explosion-occurs-near-downtown-milwaukee
 
 ### [2006-12-6](/news/2006/12/6/index.md)
 
-##### explosion
+##### Explosion
 #  A large explosion occurs near downtown Milwaukee, killing 3, injuring 37 others and leveling a factory compound.
 
 

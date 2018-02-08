@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/6/a-gunman-kills-the-headmaster-of-the-episcopal-s
 
 ### [2012-03-6](/news/2012/03/6/index.md)
 
-##### headmaster
+##### Headmaster
 # A gunman kills the headmaster of the Episcopal School of Jacksonville in Jacksonville, Florida, USA, and then kills himself. 
 
 

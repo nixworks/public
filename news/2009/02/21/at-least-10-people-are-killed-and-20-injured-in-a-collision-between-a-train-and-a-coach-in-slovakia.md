@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/21/at-least-10-people-are-killed-and-20-injured-in
 
 ### [2009-02-21](/news/2009/02/21/index.md)
 
-##### collision
+##### Collision
 #  At least 10 people are killed and 20 injured in a collision between a train and a coach in Slovakia. 
 
 At least 10 people have been killed and 20 injured in a collision between a train and a tourist coach in central Slovakia.

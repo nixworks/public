@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/21/after-10-hours-a-man-armed-with-a-rifle-and-wea
 
 ### [2009-10-21](/news/2009/10/21/index.md)
 
-##### rifle
+##### Rifle
 #  After 10 hours, a man armed with a rifle and wearing military camouflage holding 8 people hostage in downtown Edmonton, Canada during the 2009 Workers Compensation Board of Alberta Hostage crisis surrenders peacefully to the Edmonton Police Service 
 
 

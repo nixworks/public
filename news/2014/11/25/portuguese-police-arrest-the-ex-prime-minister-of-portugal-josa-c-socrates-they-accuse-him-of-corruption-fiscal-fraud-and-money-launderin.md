@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/25/portuguese-police-arrest-the-ex-prime-minister-
 
 ### [2014-11-25](/news/2014/11/25/index.md)
 
-##### prime minister of Portugal
+##### Prime minister of Portugal
 # Portuguese police arrest the ex-prime minister of Portugal, Jose Socrates. They accuse him of corruption, fiscal fraud, and money laundering. 
 
 {{ og_description }}

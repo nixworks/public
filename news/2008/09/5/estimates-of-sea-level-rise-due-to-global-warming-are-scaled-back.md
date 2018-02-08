@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/5/estimates-of-sea-level-rise-due-to-global-warmin
 
 ### [2008-09-5](/news/2008/09/5/index.md)
 
-##### global warming
+##### Global warming
 #  Estimates of sea-level rise due to global warming are scaled back. 
 
 Worldwide sea levels may rise by about 2.6 to 6.6 feet by 2100 thanks to global warming, but dire predictions of larger increases seem unrealistic, U.S. scientists said on Thursday.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/11/iraq-insurgency-at-least-eight-people-are-kille
 
 ### [2006-11-11](/news/2006/11/11/index.md)
 
-##### insurgents
+##### Insurgents
 #  Iraq insurgency: At least eight people are killed and thirty injured in two simultaneous explosions in Baghdad, Iraq. 
 
 

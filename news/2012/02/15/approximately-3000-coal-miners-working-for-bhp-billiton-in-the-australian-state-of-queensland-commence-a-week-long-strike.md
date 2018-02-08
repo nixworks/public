@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/15/approximately-3000-coal-miners-working-for-bhp-
 
 ### [2012-02-15](/news/2012/02/15/index.md)
 
-##### coal miner
+##### Coal miner
 # Approximately 3000 coal miners working for BHP Billiton in the Australian state of Queensland commence a week-long strike. 
 
 

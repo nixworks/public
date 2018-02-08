@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/10/teachers-in-chicago-go-on-strike-around-350-000
 
 ### [2012-09-10](/news/2012/09/10/index.md)
 
-##### union
+##### Union
 # Teachers in Chicago go on strike. Around 350,000 students are affected. 
 
 

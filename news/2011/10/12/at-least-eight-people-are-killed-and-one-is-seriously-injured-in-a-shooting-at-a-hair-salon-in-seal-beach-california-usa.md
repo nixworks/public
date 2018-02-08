@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/12/at-least-eight-people-are-killed-and-one-is-ser
 
 ### [2011-10-12](/news/2011/10/12/index.md)
 
-##### a shooting at a hair salon
+##### A shooting at a hair salon
 # At least eight people are killed and one is seriously injured in a shooting at a hair salon in Seal Beach, California, USA. 
 
 

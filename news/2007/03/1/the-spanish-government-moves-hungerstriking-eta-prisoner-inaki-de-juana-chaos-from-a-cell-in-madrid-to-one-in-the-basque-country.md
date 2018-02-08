@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/1/the-spanish-government-moves-hungerstriking-eta-
 
 ### [2007-03-1](/news/2007/03/1/index.md)
 
-##### hunger strike
+##### Hunger strike
 #  The Spanish Government moves hungerstriking ETA prisoner Iaki de Juana Chaos from a cell in Madrid to one in the Basque Country. 
 
 

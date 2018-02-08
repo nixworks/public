@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/30/sky-news-shows-a-study-where-it-is-claimed-that
 
 ### [2012-08-30](/news/2012/08/30/index.md)
 
-##### polygraph
+##### Polygraph
 # Sky News shows a study where it is claimed that the polygraph helps reduce crime. The device is being presented as "about 85% accurate" and sufficient legal evidence in combination with "other information". 
 
 Organisers of a pilot scheme say lie detector tests are helping identify sex offenders at risk of re-offending.

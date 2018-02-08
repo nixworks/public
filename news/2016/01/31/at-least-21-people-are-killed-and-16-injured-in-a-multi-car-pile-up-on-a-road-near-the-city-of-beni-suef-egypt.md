@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/31/at-least-21-people-are-killed-and-16-injured-in
 
 ### [2016-01-31](/news/2016/01/31/index.md)
 
-##### multi-car pile-up
+##### Multi-car pile-up
 # At least 21 people are killed and 16 injured in a multi-car pile-up on a road near the city of Beni Suef, Egypt. 
 
 

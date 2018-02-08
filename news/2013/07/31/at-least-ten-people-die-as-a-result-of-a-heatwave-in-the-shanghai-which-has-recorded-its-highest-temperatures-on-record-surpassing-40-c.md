@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/31/at-least-ten-people-die-as-a-result-of-a-heatwa
 
 ### [2013-07-31](/news/2013/07/31/index.md)
 
-##### heatwave
+##### Heatwave
 # At least ten people die as a result of a heatwave in the Shanghai which has recorded its highest temperatures on record, surpassing 40 C. 
 
 

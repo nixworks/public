@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/26/in-canada-geneticists-in-the-university-of-albe
 
 ### [2005-07-26](/news/2005/07/26/index.md)
 
-##### scientists
+##### Scientists
 #  In Canada, geneticists in the University of Alberta are testing hairs that allegedly belong to sasquatch 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

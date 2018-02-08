@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/27/a-roadside-bomb-in-afghanistan-results-in-the-d
 
 ### [2008-02-27](/news/2008/02/27/index.md)
 
-##### bomb
+##### Bomb
 #  A roadside bomb in Afghanistan results in the death of two NATO soldiers. 
 
 

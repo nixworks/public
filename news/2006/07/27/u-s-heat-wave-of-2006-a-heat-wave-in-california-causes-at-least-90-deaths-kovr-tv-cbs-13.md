@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/27/u-s-heat-wave-of-2006-a-heat-wave-in-california
 
 ### [2006-07-27](/news/2006/07/27/index.md)
 
-##### heat wave
+##### Heat wave
 #  U.S. Heat Wave of 2006: A heat wave in California causes at least 90 deaths. (KOVR-TV - CBS 13)
 
 

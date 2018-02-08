@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/17/dutch-newspaper-de-volkskrant-reports-that-offi
 
 ### [2006-11-17](/news/2006/11/17/index.md)
 
-##### de Volkskrant
+##### De Volkskrant
 #  Dutch newspaper "de Volkskrant" reports that officers of the Military Intelligence and Security Service of the Netherlands have physically abused prisoners in the Iraqi governorate of Al Muthanna. 
 
 

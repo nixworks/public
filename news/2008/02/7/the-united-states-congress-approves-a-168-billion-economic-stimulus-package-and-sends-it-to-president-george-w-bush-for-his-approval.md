@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/7/the-united-states-congress-approves-a-168-billio
 
 ### [2008-02-7](/news/2008/02/7/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress approves a $168 billion economic stimulus package and sends it to President George W. Bush for his approval. 
 
 Democrats agreed to add only payments for senior citizens and disabled veterans to a package already approved by the House with the backing of President Bush.

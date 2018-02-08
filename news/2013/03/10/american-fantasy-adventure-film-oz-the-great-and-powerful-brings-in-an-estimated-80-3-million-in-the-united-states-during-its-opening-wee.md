@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/10/american-fantasy-adventure-film-oz-the-great-an
 
 ### [2013-03-10](/news/2013/03/10/index.md)
 
-##### fantasy
+##### Fantasy
 # American fantasy adventure film "Oz the Great and Powerful" brings in an estimated $80.3 million in the United States during its opening weekend. 
 
 James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping year; start is third-biggest ever for a March release
@@ -25,4 +25,4 @@ James Franco-led, Toto-free Wizard of Oz prequel posts biggest debut of slumping
 2. [Multiple law-enforcement agencies seize a hoard of cannabis thought to be worth up to US$1.7&nbsp;billion in the Sierra Nevada in southern California, United States. ](/news/2010/07/30/multiple-law-enforcement-agencies-seize-a-hoard-of-cannabis-thought-to-be-worth-up-to-us-1-7-nbsp-billion-in-the-sierra-nevada-in-southern-c.md) _Context: US$, United States_
 3. [U.S. investment bank JPMorgan Chase is in talks to buy natural gas firm RBS Sempra for about US$4 billion. ](/news/2010/01/20/u-s-investment-bank-jpmorgan-chase-is-in-talks-to-buy-natural-gas-firm-rbs-sempra-for-about-us-4-billion.md) _Context: US$, United States_
 4. [ The United States begins occupying its new US$736 million embassy in Iraq, one of the largest embassies in the world. Presently under construction, it is approximately as large as the Vatican City and will permanently employ thousands of Americans, including a Marine detachment. ](/news/2008/04/14/the-united-states-begins-occupying-its-new-us-736-million-embassy-in-iraq-one-of-the-largest-embassies-in-the-world-presently-under-const.md) _Context: US$, United States_
-5. [Former President of the Maldives Mohamed Nasheed has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-has-called-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the.md) _Context: United States_
+5. [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as CEO of Wynn Resorts following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/02/6/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-ceo-of-wynn-resorts-following-sexual.md) _Context: United States_

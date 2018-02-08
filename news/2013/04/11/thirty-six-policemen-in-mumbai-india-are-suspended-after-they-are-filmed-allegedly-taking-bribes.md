@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/thirty-six-policemen-in-mumbai-india-are-suspen
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### policemen
+##### Policemen
 # Thirty-six policemen in Mumbai, India are suspended after they are filmed allegedly taking bribes. 
 
 

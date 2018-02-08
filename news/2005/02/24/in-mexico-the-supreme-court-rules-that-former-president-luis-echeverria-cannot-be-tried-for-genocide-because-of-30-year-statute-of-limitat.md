@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/24/in-mexico-the-supreme-court-rules-that-former-p
 
 ### [2005-02-24](/news/2005/02/24/index.md)
 
-##### supreme court
+##### Supreme court
 #  In Mexico, the supreme court rules that former President Luis Echeverra cannot be tried for genocide because of 30-year statute of limitations. Echeverra was accused of genocide because he ordered an attack on protesting students in 1971, resulting in 40 deaths. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

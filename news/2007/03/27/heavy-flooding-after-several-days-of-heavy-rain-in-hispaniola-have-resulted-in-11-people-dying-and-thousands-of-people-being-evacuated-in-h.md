@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/27/heavy-flooding-after-several-days-of-heavy-rain
 
 ### [2007-03-27](/news/2007/03/27/index.md)
 
-##### flood
+##### Flood
 #  Heavy flooding after several days of heavy rain in Hispaniola have resulted in 11 people dying and thousands of people being evacuated in Haiti and the Dominican Republic. 
 
 

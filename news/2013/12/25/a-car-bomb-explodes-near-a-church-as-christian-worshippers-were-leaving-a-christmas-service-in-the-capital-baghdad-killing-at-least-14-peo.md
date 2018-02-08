@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/25/a-car-bomb-explodes-near-a-church-as-christian-
 
 ### [2013-12-25](/news/2013/12/25/index.md)
 
-##### car bomb
+##### Car bomb
 # A car bomb explodes near a church as Christian worshippers were leaving a Christmas service in the capital, Baghdad, killing at least 14 people and wounding 28 others. 
 
 Two bombs near a Catholic church and a market in Baghdad kill at least 35 people, as Iraqi Christians celebrated Christmas, officials say.

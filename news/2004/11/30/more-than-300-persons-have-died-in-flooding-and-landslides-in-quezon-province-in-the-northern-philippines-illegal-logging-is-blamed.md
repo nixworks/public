@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/30/more-than-300-persons-have-died-in-flooding-and
 
 ### [2004-11-30](/news/2004/11/30/index.md)
 
-##### landslide
+##### Landslide
 #  More than 300 persons have died in flooding and landslides in Quezon Province, in the northern Philippines. Illegal logging is blamed. 
 
 

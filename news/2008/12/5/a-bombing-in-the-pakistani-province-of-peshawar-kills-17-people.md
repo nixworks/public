@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/5/a-bombing-in-the-pakistani-province-of-peshawar-
 
 ### [2008-12-5](/news/2008/12/5/index.md)
 
-##### bombing
+##### Bombing
 #  A bombing in the Pakistani province of Peshawar kills 17 people. 
 
 

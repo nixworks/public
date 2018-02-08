@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
-##### mass shooting
+##### Mass shooting
 # One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/21/the-islamic-state-in-iraq-and-the-levant-destro
 
 ### [2015-08-21](/news/2015/08/21/index.md)
 
-##### destroyed
+##### Destroyed
 # The Islamic State in Iraq and the Levant destroys the historic Mar Elian monastery near the town of Al-Qaryatayn in the Homs Governorate in Syria. 
 
 

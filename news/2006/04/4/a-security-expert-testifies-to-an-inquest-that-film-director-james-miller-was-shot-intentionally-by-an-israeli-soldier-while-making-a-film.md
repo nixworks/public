@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/4/a-security-expert-testifies-to-an-inquest-that-f
 
 ### [2006-04-4](/news/2006/04/4/index.md)
 
-##### film director
+##### Film director
 #  A security expert testifies to an inquest that film director James Miller was shot intentionally by an Israeli soldier while making a film in a Palestinian refugee camp in the Gaza Strip. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/5/police-investigating-the-murder-of-sian-o-callag
 
 ### [2011-04-5](/news/2011/04/5/index.md)
 
-##### murder of Sian O'Callaghan
+##### Murder of Sian O'Callaghan
 # Police investigating the murder of Sian O'Callaghan have identified human remains found at a second site as those of Swindon woman Becky Godden-Edwards, who had been missing for eight years. 
 
 

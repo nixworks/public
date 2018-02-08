@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/27/the-newly-elected-british-house-of-commons-comm
 
 ### [2015-05-27](/news/2015/05/27/index.md)
 
-##### newly elected
+##### Newly elected
 # The newly elected British House of Commons commences its session with the State Opening of Parliament ceremony in which the Queen's Speech is delivered. 
 
 

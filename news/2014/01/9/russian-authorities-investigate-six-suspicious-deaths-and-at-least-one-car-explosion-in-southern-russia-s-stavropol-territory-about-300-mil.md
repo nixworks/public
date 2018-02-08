@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/9/russian-authorities-investigate-six-suspicious-d
 
 ### [2014-01-9](/news/2014/01/9/index.md)
 
-##### police
+##### Police
 # Russian authorities investigate six suspicious deaths and at least one car explosion in southern Russia's Stavropol territory, about 300 miles from Sochi, the site of next month's Winter Olympics. 
 
 

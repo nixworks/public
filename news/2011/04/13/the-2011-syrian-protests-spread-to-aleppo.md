@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/13/the-2011-syrian-protests-spread-to-aleppo.html)
 
 ### [2011-04-13](/news/2011/04/13/index.md)
 
-##### protestors
+##### Protestors
 # The 2011 Syrian protests spread to Aleppo. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/9/no-candidate-wins-a-majority-in-the-maldives-fir
 
 ### [2008-10-9](/news/2008/10/9/index.md)
 
-##### absolute majority
+##### Absolute majority
 #  No candidate wins a majority in the Maldives' first democratic presidential election; the incumbent Maumoon Abdul Gayoom will face Mohamed Nasheed in a runoff. 
 
 

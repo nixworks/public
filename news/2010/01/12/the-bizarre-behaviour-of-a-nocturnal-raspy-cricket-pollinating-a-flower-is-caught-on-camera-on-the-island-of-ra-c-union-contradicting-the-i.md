@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/12/the-bizarre-behaviour-of-a-nocturnal-raspy-cric
 
 ### [2010-01-12](/news/2010/01/12/index.md)
 
-##### cricket
+##### Cricket
 # The "bizarre behaviour" of a nocturnal raspy cricket pollinating a flower is caught on camera on the island of Reunion, contradicting the image of crickets destroying flowers. 
 
 

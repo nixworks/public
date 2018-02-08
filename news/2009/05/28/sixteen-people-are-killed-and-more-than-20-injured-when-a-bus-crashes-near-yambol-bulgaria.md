@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/28/sixteen-people-are-killed-and-more-than-20-inju
 
 ### [2009-05-28](/news/2009/05/28/index.md)
 
-##### bus
+##### Bus
 #  Sixteen people are killed and more than 20 injured when a bus crashes near Yambol, Bulgaria. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/5/an-outbreak-of-cholera-hits-a-refugee-camp-in-ea
 
 ### [2012-08-5](/news/2012/08/5/index.md)
 
-##### cholera
+##### Cholera
 # An outbreak of cholera hits a refugee camp in eastern Democratic Republic of the Congo where thousands have fled fighting between M23 rebels and government troops. 
 
 At least nine people killed in makeshift camp for people displaced by clashes between M23 rebels and government troops.

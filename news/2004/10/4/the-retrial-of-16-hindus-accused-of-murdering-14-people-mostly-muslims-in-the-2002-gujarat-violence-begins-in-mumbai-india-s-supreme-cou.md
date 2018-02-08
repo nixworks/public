@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/4/the-retrial-of-16-hindus-accused-of-murdering-14
 
 ### [2004-10-4](/news/2004/10/4/index.md)
 
-##### riots
+##### Riots
 #  The retrial of 16 Hindus accused of murdering 14 people, mostly Muslims, in the 2002 Gujarat violence begins in Mumbai. India's Supreme Court ordered a re-trial after a Gujarat court acquitted the defendants. 
 
 

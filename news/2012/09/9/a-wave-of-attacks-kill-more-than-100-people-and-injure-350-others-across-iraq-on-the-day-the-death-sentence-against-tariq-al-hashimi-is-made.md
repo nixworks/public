@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/9/a-wave-of-attacks-kill-more-than-100-people-and-
 
 ### [2012-09-9](/news/2012/09/9/index.md)
 
-##### wave of attacks
+##### Wave of attacks
 # A wave of attacks kill more than 100 people and injure 350 others across Iraq on the day the death sentence against Tariq al-Hashimi is made public. 
 
 Insurgents wage assaults on security forces, gunning down soldiers at an army post and bombing police recruits

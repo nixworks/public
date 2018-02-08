@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/21/espionage-the-washington-times-reveals-the-arre
 
 ### [2003-09-21](/news/2003/09/21/index.md)
 
-##### spy
+##### Spy
 #  Espionage: The "Washington Times" reveals the arrest of U.S. Army Captain James Yee, an Islamic chaplain at the Guantanamo Bay naval base, for officials, speaking on condition of anonymity, state that FBI agents discovered classified documents carried by Yee and were questioning him before handing him over to the military.
 
 

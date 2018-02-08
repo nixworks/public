@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/17/fourteen-spanish-firefighters-have-died-while-a
 
 ### [2005-07-17](/news/2005/07/17/index.md)
 
-##### firemen
+##### Firemen
 #  Fourteen Spanish Firefighters have died while attempting to battle a forest fire in the central province of Guadalajara. 
 
 

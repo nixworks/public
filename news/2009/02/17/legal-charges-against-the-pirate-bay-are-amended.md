@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amende
 
 ### [2009-02-17](/news/2009/02/17/index.md)
 
-##### trial
+##### Trial
 #  Legal charges against The Pirate Bay are amended. 
 
 

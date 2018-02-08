@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/17/same-sex-marriage-in-the-u-s-state-of-californi
 
 ### [2010-08-17](/news/2010/08/17/index.md)
 
-##### same-sex couples
+##### Same-sex couples
 # Same-sex marriage in the U.S. state of California, due to resume on Wednesday, is blocked by the Ninth Circuit Court of Appeals until it is decided whether a ban is constitutional. 
 
 

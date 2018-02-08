@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/30/a-man-self-immolates-aboard-a-nozomi-shinkansen
 
 ### [2015-06-30](/news/2015/06/30/index.md)
 
-##### self-immolation
+##### Self-immolation
 #  A man self-immolates aboard a "Nozomi" Shinkansen train running from Tokyo to Osaka; the man and another passenger die. Eleven others were reported injured. 
 
 

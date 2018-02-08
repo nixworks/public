@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/17/a-french-regional-train-on-the-pau-bayonne-line
 
 ### [2014-07-17](/news/2014/07/17/index.md)
 
-##### regional train
+##### Regional train
 # A French regional train on the Pau-Bayonne line crashes into a high-speed train near the town of Denguin, resulting in at least 25 injuries. 
 
 A French high-speed TGV train is involved in a collision with a regional express in south-western France injuring dozens of people.

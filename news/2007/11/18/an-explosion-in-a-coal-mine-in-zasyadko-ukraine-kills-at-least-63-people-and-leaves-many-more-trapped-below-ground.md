@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/18/an-explosion-in-a-coal-mine-in-zasyadko-ukraine
 
 ### [2007-11-18](/news/2007/11/18/index.md)
 
-##### explosion in a coal mine
+##### Explosion in a coal mine
 #  An explosion in a coal mine in Zasyadko, Ukraine, kills at least 63 people and leaves many more trapped below ground. 
 
 

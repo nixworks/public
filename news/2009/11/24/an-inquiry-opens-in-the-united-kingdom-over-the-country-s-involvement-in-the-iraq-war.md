@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/24/an-inquiry-opens-in-the-united-kingdom-over-the
 
 ### [2009-11-24](/news/2009/11/24/index.md)
 
-##### inquiry opens
+##### Inquiry opens
 #  An inquiry opens in the United Kingdom over the country's involvement in the Iraq War. 
 
 

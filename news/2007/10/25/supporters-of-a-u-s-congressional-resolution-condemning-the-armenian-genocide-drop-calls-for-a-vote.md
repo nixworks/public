@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/25/supporters-of-a-u-s-congressional-resolution-co
 
 ### [2007-10-25](/news/2007/10/25/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  Supporters of a U.S. congressional resolution condemning the Armenian genocide drop calls for a vote. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/9/a-bomb-explosion-kills-ali-abadi-governor-of-shw
 
 ### [2010-11-9](/news/2010/11/9/index.md)
 
-##### explosion
+##### Explosion
 # A bomb explosion kills Ali Abadi, governor of Shwak district in Afghanistan's eastern province of Paktia. 
 
 

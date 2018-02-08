@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/13/the-eurozone-economy-grows-by-1-in-the-second-q
 
 ### [2010-08-13](/news/2010/08/13/index.md)
 
-##### eurozone
+##### Eurozone
 # The eurozone economy grows by 1% in the second quarter of 2010, with the German economy growing by 2.2%, its fastest quarterly growth in more than 20 years. 
 
 Figures show strongest quarterly increase in GDP since reunification in 1990.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/5/in-rugby-union-new-zealand-defeat-world-cup-winn
 
 ### [2008-07-5](/news/2008/07/5/index.md)
 
-##### rugby union
+##### Rugby union
 #  In rugby union, New Zealand defeat World Cup winners South Africa 19&ndash;8 in the opening match of the Tri Nations. 
 
 

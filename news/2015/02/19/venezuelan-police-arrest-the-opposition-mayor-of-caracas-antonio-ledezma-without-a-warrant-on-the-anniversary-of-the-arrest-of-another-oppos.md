@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/19/venezuelan-police-arrest-the-opposition-mayor-o
 
 ### [2015-02-19](/news/2015/02/19/index.md)
 
-##### police
+##### Police
 # Venezuelan police arrest the Opposition Mayor of Caracas Antonio Ledezma without a warrant on the anniversary of the arrest of another opposition leader Leopoldo Lopez. The President of Venezuela Nicolas Maduro accused him of organizing a coup d'etat with the support of the United States but the US has denied this. 
 
 The opposition mayor of Caracas was detained by Venezuelan intelligence police as President Nicolas Maduro, struggling to control inflation and a shrinking economy, steps up allegations of plots against his government.

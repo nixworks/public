@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/8/in-a-case-brought-by-a-group-of-former-ncaa-athl
 
 ### [2014-08-8](/news/2014/08/8/index.md)
 
-##### case
+##### Case
 # In a case brought by a group of former NCAA athletes, U.S. District Court judge Claudia Wilken rules that the NCAA violated antitrust law by restricting the compensation that college athletes can receive for their publicity rights. 
 
 

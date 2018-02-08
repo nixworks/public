@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/30/the-congress-of-colombia-unanimously-approves-a
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
-##### lasting peace
+##### Lasting peace
 # The Congress of Colombia unanimously approves a peace deal between the Government and rebel group FARC to end the Colombian conflict. 
 
 

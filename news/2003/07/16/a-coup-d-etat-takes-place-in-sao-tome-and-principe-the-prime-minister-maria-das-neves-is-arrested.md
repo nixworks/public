@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/16/a-coup-d-etat-takes-place-in-sao-tome-and-princ
 
 ### [2003-07-16](/news/2003/07/16/index.md)
 
-##### coup d'tat
+##### Coup d'tat
 #  A coup d'tat takes place in So Tom and Prncipe; the prime minister Maria das Neves is arrested.
 
 

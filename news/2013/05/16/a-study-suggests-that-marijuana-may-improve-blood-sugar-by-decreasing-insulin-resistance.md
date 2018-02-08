@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/16/a-study-suggests-that-marijuana-may-improve-blo
 
 ### [2013-05-16](/news/2013/05/16/index.md)
 
-##### marijuana
+##### Marijuana
 # A study suggests that marijuana may improve blood sugar by decreasing insulin resistance. 
 
 Researchers have found that marijuana users have lower fasting insulin levels compared to non-users, as well as healthier waist sizes and BMI scores. &nbsp;

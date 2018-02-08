@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/06/9/a-bus-plunges-over-a-ravine-in-brazil-s-sagbpo-p
 
 ### [2016-06-9](/news/2016/06/9/index.md)
 
-##### ravine
+##### Ravine
 # A bus plunges over a ravine in Brazil's SGBPo Paulo state, resulting in at least 18 people killed and 28 injured. 
 
 

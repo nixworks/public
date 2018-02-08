@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/22/saudi-arabia-s-king-salman-issues-a-number-of-r
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
-##### king
+##### King
 # Saudi Arabia's King Salman issues a number of royal decrees, one which restores financial allowances for civil servants and military personnel that had been cut seven months ago in response to the drop in oil prices. 
 
  Saudi Arabia reinstated financial allowances for civil servants and military personnel on Saturday after better-than-expected budget figures, ending unpopular 

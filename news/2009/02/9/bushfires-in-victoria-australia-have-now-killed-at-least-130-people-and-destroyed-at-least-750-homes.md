@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/9/bushfires-in-victoria-australia-have-now-killed-
 
 ### [2009-02-9](/news/2009/02/9/index.md)
 
-##### recent bushfires
+##### Recent bushfires
 #  Bushfires in Victoria, Australia, have now killed at least 130 people and destroyed at least 750 homes. 
 
 

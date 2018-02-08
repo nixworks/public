@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/04/10/protesters-against-a-proposed-trade-deal-with-c
 
 ### [2014-04-10](/news/2014/04/10/index.md)
 
-##### trade deal
+##### Trade deal
 # Protesters against a proposed trade deal with China peacefully ended their 24-day occupation of the legislature, as lawmakers prepare to review bills requiring greater oversight for such agreements. 
 
 Taiwanese students protesting a proposed trade deal with China yesterday ended their 24-day occupation of the legislature, as lawmakers prepare to review bills requiring greater oversight for such agreements.

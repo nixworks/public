@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/24/eleven-people-are-killed-during-a-stampede-at-t
 
 ### [2009-05-24](/news/2009/05/24/index.md)
 
-##### stampede
+##### Stampede
 #  Eleven people are killed during a stampede at the Mawazine world music festival in Rabat, Morocco. 
 
 

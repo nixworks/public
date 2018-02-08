@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/08/22/a-suicide-bomber-and-multiple-gunmen-suspected-
 
 ### [2014-08-22](/news/2014/08/22/index.md)
 
-##### attack a Sunni mosque
+##### Attack a Sunni mosque
 # A suicide bomber and multiple gunmen, suspected to be Shia militiamen, attack a Sunni mosque in the Diyala province, killing at least 65 people. 
 
 

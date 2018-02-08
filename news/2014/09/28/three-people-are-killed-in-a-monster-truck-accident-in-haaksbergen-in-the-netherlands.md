@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/28/three-people-are-killed-in-a-monster-truck-acci
 
 ### [2014-09-28](/news/2014/09/28/index.md)
 
-##### monster truck accident
+##### Monster truck accident
 # Three people are killed in a monster truck accident in Haaksbergen in the Netherlands. 
 
 Video shows the vehicle revving its engines before launching over the top of cars and ploughing towards a crowd of spectators.

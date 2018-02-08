@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/02/17/an-outbreak-of-dengue-fever-kills-91-people-in-
 
 ### [2004-02-17](/news/2004/02/17/index.md)
 
-##### dengue
+##### Dengue
 #  An outbreak of dengue fever kills 91 people in Indonesia and infects thousands more. Health officials report that 4,500 people have been hospitalized for the mosquito-borne disease, mostly in the capital and other parts of East Java, including the city of Yogyakarta. The number hospitalized is double that of last year. 
 
 

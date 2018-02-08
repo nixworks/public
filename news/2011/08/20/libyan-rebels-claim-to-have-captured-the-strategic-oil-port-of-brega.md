@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/20/libyan-rebels-claim-to-have-captured-the-strate
 
 ### [2011-08-20](/news/2011/08/20/index.md)
 
-##### civil war
+##### Civil war
 # Libyan rebels claim to have captured the strategic oil port of Brega. 
 
 Fighting erupted in Tripoli overnight after rebels closed in on the Libyan capital, raising hopes among his opponents that Muammar Gaddafi&rsquo;s regime is finally on the brink of collapse.

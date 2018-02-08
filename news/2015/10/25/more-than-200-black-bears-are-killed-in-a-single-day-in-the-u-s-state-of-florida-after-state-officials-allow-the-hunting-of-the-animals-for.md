@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/25/more-than-200-black-bears-are-killed-in-a-singl
 
 ### [2015-10-25](/news/2015/10/25/index.md)
 
-##### black bear
+##### Black bear
 # More than 200 black bears are killed in a single day in the U.S. state of Florida after state officials allow the hunting of the animals for the first time in 21 years; supporters say the aim is to cut down on the animals' surging population, but animal rights activists have criticized the hunts as cruel and ineffective. 
 
 Supporters say the aim of the hunt is to cut down on the surging population but opponents think the move is cruel and ineffective.

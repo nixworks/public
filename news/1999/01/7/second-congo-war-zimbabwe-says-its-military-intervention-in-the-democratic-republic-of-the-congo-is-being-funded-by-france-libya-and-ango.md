@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/01/7/second-congo-war-zimbabwe-says-its-military-inte
 
 ### [1999-01-7](/news/1999/01/7/index.md)
 
-##### civil war in the Democratic Republic of Congo
+##### Civil war in the Democratic Republic of Congo
 #  Second Congo War: Zimbabwe says its military intervention in the Democratic Republic of the Congo is being funded by France, Libya and Angola. 
 
 

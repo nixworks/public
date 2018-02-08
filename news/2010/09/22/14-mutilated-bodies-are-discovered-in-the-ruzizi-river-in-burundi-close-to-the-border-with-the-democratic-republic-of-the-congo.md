@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/22/14-mutilated-bodies-are-discovered-in-the-ruziz
 
 ### [2010-09-22](/news/2010/09/22/index.md)
 
-##### mutilated
+##### Mutilated
 # 14 mutilated bodies are discovered in the Ruzizi River in Burundi, close to the border with the Democratic Republic of the Congo. 
 
 Residents in northern Burundi are on alert after the discovery of 14 bodies, some of them mutilated, in a local river, an official says. 

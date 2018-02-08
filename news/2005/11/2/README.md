@@ -5,19 +5,19 @@ Formats: [HTML](2005/11/2/index.html)  [JSON](2005/11/2/index.json)  [XML](2005/
 
 ##### Guinea-Bissau
 ### [ Guinea-Bissau's President Nino Vieira appoints Aristides Gomes, a former African Development Bank official, as new Prime Minister, replacing the dismissed Carlos Gomes Jnior. ](/news/2005/11/2/guinea-bissau-s-president-nino-vieira-appoints-aristides-gomes-a-former-african-development-bank-official-as-new-prime-minister-replacin.md)
-_Context: Guinea-Bissau, Nino Vieira, Aristides Gomes, African Development Bank, Carlos Gomes Jnior_
+_Context: Nino Vieira, Guinea-Bissau, Carlos Gomes Jnior, Aristides Gomes, African Development Bank_
 
 ##### Donald E. Powell
 ### [ Donald E. Powell, former chief executive of the First National Bank of Amarillo, Texas and current Federal Deposit Insurance Corporation chairman is named to coordinate rebuilding of the Gulf Coast by President George W. Bush. ](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.md)
-_Context: FDIC, George W. Bush, Texas, Gulf Coast, Donald E. Powell, Amarillo_
+_Context: Gulf Coast, Amarillo, George W. Bush, Donald E. Powell, FDIC, Texas_
 
 ##### The Washington Post
 ### [ "The Washington Post" reports that the Central Intelligence Agency has been operating, perhaps as illegally, a covert network of "black site" prisons for terrorist suspects in eight foreign countries, including Afghanistan, Thailand, and several Eastern European democracies for the last four years, with little or no oversight from the United States Congress. ](/news/2005/11/2/the-washington-post-reports-that-the-central-intelligence-agency-has-been-operating-perhaps-as-illegally-a-covert-network-of-black-sit.md)
-_Context: lawmakers, Afghanistan, black site, The Washington Post, Eastern Europe, Central Intelligence Agency, Thailand_
+_Context: Eastern Europe, The Washington Post, black site, lawmakers, Thailand, Afghanistan, Central Intelligence Agency_
 
 ##### Iran
 ### [ Iran's President Mahmoud Ahmadinejad nominates Sadeq Mahsouli as Supervisor of Ministry of Petroleum of OPEC's number two producer, risking domestic political commotion and a parliamentary veto after already making a disturbance abroad with a call for Israel's destruction. ](/news/2005/11/2/iran-s-president-mahmoud-ahmadinejad-nominates-sadeq-mahsouli-as-supervisor-of-ministry-of-petroleum-of-opec-s-number-two-producer-risking.md)
-_Context: Mahmoud Ahmadinejad, Sadeq Mahsouli, veto, OPEC, Israel's destruction, Iran, Islamic Consultative Assembly, Supervisor of Ministry of Petroleum_
+_Context: Israel's destruction, Mahmoud Ahmadinejad, Supervisor of Ministry of Petroleum, veto, Iran, Islamic Consultative Assembly, Sadeq Mahsouli, OPEC_
 
 ##### Delhi
 ### [ The Delhi police release three sketches of one of the suspected bombers involved in 29 October 2005 Delhi bombings. ](/news/2005/11/2/the-delhi-police-release-three-sketches-of-one-of-the-suspected-bombers-involved-in-29-october-2005-delhi-bombings.md)
@@ -29,7 +29,7 @@ A car bomb ripped through Srinagar, killing six. | First Look: The Srinagar blas
 
 ##### Secretary of State for Work and Pensions
 ### [ The British Secretary of State for Work and Pensions, David Blunkett, resigns a second time, following allegations of ministerial misconduct over his directorship and purchase of shares in a bioscience company. John Hutton is named as his replacement. ](/news/2005/11/2/the-british-secretary-of-state-for-work-and-pensions-david-blunkett-resigns-a-second-time-following-allegations-of-ministerial-misconduc.md)
-_Context: David Blunkett, John Hutton, Secretary of State for Work and Pensions_
+_Context: David Blunkett, Secretary of State for Work and Pensions, John Hutton_
 
 ##### 2005 Paris riots
 ### [ The 2005 Paris riots continue for the sixth consecutive night. Rioting spread through impoverished suburbs, which was sparked by the death of two youths who were allegedly fleeing police and were accidentally electrocuted while hiding in an electrical substation. The riots have caused increased strains between the authorities and the inhabitants of the poor suburbs. ](/news/2005/11/2/the-2005-paris-riots-continue-for-the-sixth-consecutive-night-rioting-spread-through-impoverished-suburbs-which-was-sparked-by-the-death.md)
@@ -45,7 +45,7 @@ IDF soldier seriously wounded in exchanges of fire with wanted Palestinian terro
 
 ##### Ethiopia
 ### [ At least 23 people are killed and 160 wounded in clashes between opposition supporters and police in the Ethiopian capital of Addis Ababa. ](/news/2005/11/2/at-least-23-people-are-killed-and-160-wounded-in-clashes-between-opposition-supporters-and-police-in-the-ethiopian-capital-of-addis-ababa.md)
-_Context: Addis Ababa, Ethiopia_
+_Context: Ethiopia, Addis Ababa_
 
 ## [Previous Day...](/news/2005/11/1/index.md)
 

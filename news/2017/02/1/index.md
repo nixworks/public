@@ -21,7 +21,7 @@ A &quot;reckless&quot; attempt to save cash leads to starvation and dehydration 
 
 ##### Israel
 ### [Israel announces it will build an entirely new settlement in the West Bank for the first time in about twenty years. Many in the international community believe that such settlements are illegal but Israel disputes that. The settlement program is illegal under international law. ](/news/2017/02/1/israel-announces-it-will-build-an-entirely-new-settlement-in-the-west-bank-for-the-first-time-in-about-twenty-years-many-in-the-internation.md)
-_Context: Israel, West Bank_
+_Context: West Bank, Israel_
 
 ##### United Kingdom
 ### [The United Kingdom's House of Commons backs the Brexit bill by 498 votes to 114. ](/news/2017/02/1/the-united-kingdom-s-house-of-commons-backs-the-brexit-bill-by-498-votes-to-114.md)
@@ -29,7 +29,7 @@ The House of Commons vote was a crucial hurdle on the way to the country&rsquo;s
 
 ##### Israel
 ### [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md)
-_Context: West Bank, unauthorized outpost, Israel, Supreme Court, Palestine, Ramallah, Amona, Mateh Binyamin_
+_Context: Palestine, Amona, Mateh Binyamin, unauthorized outpost, Ramallah, Supreme Court, Israel, West Bank_
 
 ##### ZeniMax Media
 ### [A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. ](/news/2017/02/1/a-jury-finds-in-favor-of-video-game-publisher-zenimax-media-after-the-trial-of-its-copyright-lawsuit-against-oculus-and-facebook-regarding.md)

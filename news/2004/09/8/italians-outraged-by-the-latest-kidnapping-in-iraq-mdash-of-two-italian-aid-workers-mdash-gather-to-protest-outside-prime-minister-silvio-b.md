@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/09/8/italians-outraged-by-the-latest-kidnapping-in-ir
 
 ### [2004-09-8](/news/2004/09/8/index.md)
 
-##### kidnapping
+##### Kidnapping
 #  Italians outraged by the latest kidnapping in Iraq&mdash;of two Italian aid workers&mdash;gather to protest outside Prime Minister Silvio Berlusconi's offices in Rome. 
 
 

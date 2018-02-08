@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/30/two-earthquakes-occur-off-the-coast-of-west-pap
 
 ### [2010-09-30](/news/2010/09/30/index.md)
 
-##### earthquake
+##### Earthquake
 # Two earthquakes occur off the coast of West Papua in Indonesia of 6.2 and 7.2 in magnitude. 
 
 

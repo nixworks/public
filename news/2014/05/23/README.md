@@ -5,19 +5,19 @@ Formats: [HTML](2014/05/23/index.html)  [JSON](2014/05/23/index.json)  [XML](201
 
 ##### Egypt
 ### [Egyptian security forces claim to have killed Shadi el-Menei, the leader of Ansar Bait al-Maqdis, and three other senior members in overnight fighting. ](/news/2014/05/23/egyptian-security-forces-claim-to-have-killed-shadi-el-menei-the-leader-of-ansar-bait-al-maqdis-and-three-other-senior-members-in-overnigh.md)
-_Context: extremist groups, Egypt_
+_Context: Egypt, extremist groups_
 
-##### attack the Indian consulate
+##### Attack the Indian consulate
 ### [Gunmen attack the Indian consulate in Afghanistan's Herat Province. ](/news/2014/05/23/gunmen-attack-the-indian-consulate-in-afghanistan-s-herat-province.md)
 _Context: Afghanistan, attack the Indian consulate, Herat Province_
 
 ##### Chinese
 ### [Chinese media reports that five people involved in the rmqi bombings "blew themselves up". ](/news/2014/05/23/chinese-media-reports-that-five-people-involved-in-the-urumqi-bombings-blew-themselves-up.md)
-_Context: Chinese, rmqi_
+_Context: rmqi, Chinese_
 
 ##### Russian President
 ### [Russian President Vladimir Putin announces that he will respect the outcome of Ukraine's presidential election. ](/news/2014/05/23/russian-president-vladimir-putin-announces-that-he-will-respect-the-outcome-of-ukraine-s-presidential-election.md)
-_Context: Russian President, Ukrainian presidential election, Vladimir Putin_
+_Context: Ukrainian presidential election, Vladimir Putin, Russian President_
 
 ##### Syrian Civil War
 ### [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md)
@@ -25,19 +25,19 @@ BEIRUT - In the first attack to target a campaign event, a mortar shell slammed 
 
 ##### Russia
 ### [Russia and China veto a U.N. Security Council resolution that would have asked the International Criminal Court to investigate war crimes in Syria. ](/news/2014/05/23/russia-and-china-veto-a-u-n-security-council-resolution-that-would-have-asked-the-international-criminal-court-to-investigate-war-crimes-in.md)
-_Context: mass murders of thousands of political prisoner, China, Russia, ICC, United Nations Security Council_
+_Context: China, United Nations Security Council, mass murders of thousands of political prisoner, ICC, Russia_
 
 ##### Hubei
 ### [A Hubei court finds Chinese tycoon Liu Han, the former head of the conglomerate Hanlong Group, guilty of "organising and leading mafia-style crime and murder" and "obtain[ing] financial gains via illegal activities", sentencing him to death. ](/news/2014/05/23/a-hubei-court-finds-chinese-tycoon-liu-han-the-former-head-of-the-conglomerate-hanlong-group-guilty-of-organising-and-leading-mafia-style.md)
-_Context: China, Hubei, sentencing him to death, Hanlong Group_
+_Context: Hubei, sentencing him to death, Hanlong Group, China_
 
 ##### 2014 Isla Vista shootings
 ### [2014 Isla Vista shootings. Seven people have been killed and seven injured in a series of drive-by shootings in a student enclave next to the University of California campus in the American city of Santa Barbara, California. ](/news/2014/05/23/2014-isla-vista-shootings-seven-people-have-been-killed-and-seven-injured-in-a-series-of-drive-by-shootings-in-a-student-enclave-next-to-th.md)
-_Context: 2014 Isla Vista shootings, Santa Barbara, California, University of California, drive-by shooting_
+_Context: drive-by shooting, University of California, 2014 Isla Vista shootings, Santa Barbara, California_
 
 ##### European Union
 ### [Voters in the European Union go to the polls for a multi-day European Parliamentary election. Voters in Ireland and the Czech Republic vote today. ](/news/2014/05/23/voters-in-the-european-union-go-to-the-polls-for-a-multi-day-european-parliamentary-election-voters-in-ireland-and-the-czech-republic-vote.md)
-_Context: Czech Republic, Ireland, newly elected, European Union_
+_Context: Ireland, newly elected, European Union, Czech Republic_
 
 ##### Royal Thai Army
 ### [Royal Thai Army chief and coup leader General Prayuth Chan-ocha detains former Prime Minister of Thailand Yingluck Shinawatra after summoning her for talks a day after the coup. ](/news/2014/05/23/royal-thai-army-chief-and-coup-leader-general-prayuth-chan-ocha-detains-former-prime-minister-of-thailand-yingluck-shinawatra-after-summonin.md)
@@ -45,7 +45,7 @@ By Amy Sawitta Lefevre and Pracha Hariraksapitak BANGKOK (Reuters) - Thailand&#x
 
 ##### Barack Obama
 ### [Barack Obama nominates Julian Castro, the Mayor of San Antonio, to become the next Secretary of Housing and Urban Development. ](/news/2014/05/23/barack-obama-nominates-julian-castro-the-mayor-of-san-antonio-to-become-the-next-secretary-of-housing-and-urban-development.md)
-_Context: Barack Obama, Julian Castro, Mayor of San Antonio, Secretary of Housing and Urban Development_
+_Context: Barack Obama, Mayor of San Antonio, Secretary of Housing and Urban Development, Julian Castro_
 
 ##### Chelyabinsk meteor
 ### [Research shows that the Chelyabinsk meteor was the remnants of an asteroid that collided with another asteroid 290 million years before entering the Earth's atmosphere over Russia in February of last year. ](/news/2014/05/23/research-shows-that-the-chelyabinsk-meteor-was-the-remnants-of-an-asteroid-that-collided-with-another-asteroid-290-million-years-before-ente.md)

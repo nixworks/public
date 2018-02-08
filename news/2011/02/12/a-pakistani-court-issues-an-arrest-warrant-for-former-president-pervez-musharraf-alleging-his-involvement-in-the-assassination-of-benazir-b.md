@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/12/a-pakistani-court-issues-an-arrest-warrant-for-
 
 ### [2011-02-12](/news/2011/02/12/index.md)
 
-##### arrest warrant
+##### Arrest warrant
 # A Pakistani court issues an arrest warrant for former President Pervez Musharraf, alleging his involvement in the assassination of Benazir Bhutto. 
 
 

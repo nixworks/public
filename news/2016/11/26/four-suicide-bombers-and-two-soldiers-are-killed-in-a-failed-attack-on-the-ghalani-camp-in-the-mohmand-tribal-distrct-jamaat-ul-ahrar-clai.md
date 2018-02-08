@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/26/four-suicide-bombers-and-two-soldiers-are-kille
 
 ### [2016-11-26](/news/2016/11/26/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  Four suicide bombers and two soldiers are killed in a failed attack on the Ghalani camp in the Mohmand tribal distrct. Jamaat-ul-Ahrar claims responsibility. 
 
 Security forces valiantly defeated suicide attack on Ghalani Camp: ISPR.

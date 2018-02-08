@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/2/attempts-to-totally-outlaw-parents-spanking-chil
 
 ### [2004-11-2](/news/2004/11/2/index.md)
 
-##### spanking
+##### Spanking
 #  Attempts to totally outlaw parents spanking children in England and Wales fail as a majority of 424 to 75 members of parliament vote against the ban. 
 
 

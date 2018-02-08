@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/23/at-least-30-people-are-killed-as-a-result-of-he
 
 ### [2012-08-23](/news/2012/08/23/index.md)
 
-##### monsoon
+##### Monsoon
 # At least 30 people are killed as a result of heavy monsoon rain in the northern Indian state of Rajasthan. 
 
 Heavy monsoon rains in northern India and north-western Pakistan claim dozens of lives as they trigger flash floods and destroy homes.

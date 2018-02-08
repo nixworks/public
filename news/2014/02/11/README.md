@@ -19,7 +19,7 @@ _Context: Victoria_
 ### [The British Geological Society warns that 1.6 million properties in England and Wales are at risk from groundwater flooding with flood risks likely to be high until at least May. ](/news/2014/02/11/the-british-geological-society-warns-that-1-6-million-properties-in-england-and-wales-are-at-risk-from-groundwater-flooding-with-flood-risks.md)
 Some 1.6 million properties across Britain are now at risk of groundwater flooding and there is no end in sight, an expert says.
 
-##### military transport plane has crashed
+##### Military transport plane has crashed
 ### [A military transport plane has crashed in a mountainous area of Oum El Bouaghi Province in eastern Algeria, killing 77 people. ](/news/2014/02/11/a-military-transport-plane-has-crashed-in-a-mountainous-area-of-oum-el-bouaghi-province-in-eastern-algeria-killing-77-people.md)
 A military transport plane carrying members of the Algerian armed forces and their relatives crashed into a mountain on Tuesday, killing 77 people, the worst air disaster in the North African country in a decade.
 
@@ -33,7 +33,7 @@ _Context: Cyprus dispute_
 
 ##### North Korea
 ### [Talks between North Korea and the United States occur, with North and South Korea scheduled to start high-level talks tomorrow. ](/news/2014/02/11/talks-between-north-korea-and-the-united-states-occur-with-north-and-south-korea-scheduled-to-start-high-level-talks-tomorrow.md)
-_Context: United States, North Korea_
+_Context: North Korea, United States_
 
 ##### Geneva II
 ### [The second round of the Geneva II discussion occurs. ](/news/2014/02/11/the-second-round-of-the-geneva-ii-discussion-occurs.md)
@@ -49,7 +49,7 @@ The first of four U.S. Navy destroyers to form the centerpiece of Europe&rsquo;s
 
 ##### Republican
 ### [The Republican Party-controlled U.S. House of Representatives votes to raise the government's borrowing limit for the next year, without attaching conditions, and sends the measure to the Senate for approval. ](/news/2014/02/11/the-republican-party-controlled-u-s-house-of-representatives-votes-to-raise-the-government-s-borrowing-limit-for-the-next-year-without-att.md)
-_Context: U.S. debt limit, United States Senate, Republican, U.S. House of Representatives_
+_Context: U.S. House of Representatives, United States Senate, U.S. debt limit, Republican_
 
 ##### Kevin Faulconer
 ### [Kevin Faulconer is elected as Mayor of San Diego, California. ](/news/2014/02/11/kevin-faulconer-is-elected-as-mayor-of-san-diego-california.md)

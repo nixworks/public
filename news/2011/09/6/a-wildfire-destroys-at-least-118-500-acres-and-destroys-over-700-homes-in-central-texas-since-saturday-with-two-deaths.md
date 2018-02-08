@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/6/a-wildfire-destroys-at-least-118-500-acres-and-d
 
 ### [2011-09-6](/news/2011/09/6/index.md)
 
-##### wildfire
+##### Wildfire
 # A wildfire destroys at least 118,500 acres and destroys over 700 homes in Central Texas since Saturday with two deaths. 
 
 A raging wildfire near Austin, Texas, killed two people, officials said Tuesday, as firefighters fought to gain the upper hand against flames, wind and fatigue.

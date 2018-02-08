@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/27/the-biggest-earthquake-in-nearly-25-years-hits-
 
 ### [2008-02-27](/news/2008/02/27/index.md)
 
-##### earthquake
+##### Earthquake
 #  The biggest earthquake in nearly 25 years hits England (5.2 on Richter scale). 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/19/tens-of-thousands-of-people-are-evacuated-from-
 
 ### [2007-10-19](/news/2007/10/19/index.md)
 
-##### village
+##### Village
 #  Tens of thousands of people are evacuated from villages near Mount Kelud on Java as the volcano threatens to erupt. 
 
 

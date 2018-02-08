@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/21/20-people-are-killed-and-40-injured-after-clash
 
 ### [2009-08-21](/news/2009/08/21/index.md)
 
-##### clashes
+##### Clashes
 #  20 people are killed and 40 injured after clashes between pro-government and Islamist forces in Mogadishu, Somalia. 
 
 

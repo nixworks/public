@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/27/tens-of-thousands-of-people-march-through-dubli
 
 ### [2010-11-27](/news/2010/11/27/index.md)
 
-##### march
+##### March
 # Tens of thousands of people march through Dublin in protest at the Irish government's austerity measures. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/1/a-nightclub-fire-in-bangkok-thailand-kills-61-pe
 
 ### [2009-01-1](/news/2009/01/1/index.md)
 
-##### nightclub fire
+##### Nightclub fire
 #  A nightclub fire in Bangkok, Thailand, kills 61 people and injures more than 200. 
 
 

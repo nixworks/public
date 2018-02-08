@@ -17,7 +17,7 @@ _Context: Niger Delta, Nigerian_
 
 ##### Somalia
 ### [Over 100 people are killed in battles throughout Somalia between Islamist rebels and African Union forces over the past three days. ](/news/2010/12/5/over-100-people-are-killed-in-battles-throughout-somalia-between-islamist-rebels-and-african-union-forces-over-the-past-three-days.md)
-_Context: Somalia, African Union, Islamist_
+_Context: Somalia, Islamist, African Union_
 
 ##### King
 ### [Festivities are held for the 83rd birthday of King of Thailand Bhumibol Adulyadej, the longest reigning monarch in the world. ](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.md)
@@ -29,23 +29,23 @@ A newly-discovered poem by Philip Larkin will be heard for the first time on a B
 
 ##### Roman Polanski
 ### [Roman Polanski's "The Ghost Writer" wins six prizes at the European Film Awards in Estonia, with the director appearing from Paris via Skype. ](/news/2010/12/5/roman-polanski-s-the-ghost-writer-wins-six-prizes-at-the-european-film-awards-in-estonia-with-the-director-appearing-from-paris-via-skype.md)
-_Context: Paris, Skype, Roman Polanski, Estonia, The Ghost Writer, European Film Awards_
+_Context: Skype, European Film Awards, Roman Polanski, The Ghost Writer, Paris, Estonia_
 
 ##### Nicole Faria
 ### [20-year-old Nicole Faria from Bangalore, Miss India, wins the Miss Earth 2010 crown in Vinpearl Land, Nha Trang, Vietnam. ](/news/2010/12/5/20-year-old-nicole-faria-from-bangalore-miss-india-wins-the-miss-earth-2010-crown-in-vinpearl-land-nha-trang-vietnam.md)
-_Context: Miss Earth 2010, Nicole Faria, Vinpearl Land, Bangalore, Nha Trang, Vietnam, Miss India_
+_Context: Nicole Faria, Nha Trang, Miss India, Miss Earth 2010, Bangalore, Vietnam, Vinpearl Land_
 
 ##### International Labour Organisation
 ### [The International Labour Organisation asks Gulf states to reform labour laws related to millions of foreign workers and urges the introduction of a minimum wage. ](/news/2010/12/5/the-international-labour-organisation-asks-gulf-states-to-reform-labour-laws-related-to-millions-of-foreign-workers-and-urges-the-introducti.md)
 International Labour Organisation calls on Gulf states to reform labour laws governing millions of foreign workers.
 
-##### flood
+##### Flood
 ### [At least 174 people are dead and 1.5 million homeless following floods in Colombia. ](/news/2010/12/5/at-least-174-people-are-dead-and-1-5-million-homeless-following-floods-in-colombia.md)
 The death toll from weeks of heavy rains across Colombia has risen to 174 and over 1.5 million are now homeless, the Colombian Red Cross has said.
 
-##### prairie
+##### Prairie
 ### [22 people are killed in a prairie fire in Daofu County, Sichuan, China. ](/news/2010/12/5/22-people-are-killed-in-a-prairie-fire-in-daofu-county-sichuan-china.md)
-_Context: prairie, Daofu County, Sichuan_
+_Context: Daofu County, Sichuan, prairie_
 
 ##### Kaili
 ### [At least 6 people are killed and 36 wounded after an explosion in the city of Kaili, Guizhou province, China. ](/news/2010/12/5/at-least-6-people-are-killed-and-36-wounded-after-an-explosion-in-the-city-of-kaili-guizhou-province-china.md)
@@ -57,7 +57,7 @@ Italian police say they have arrested a man after his car ploughed into a group 
 
 ##### Australia
 ### [Hundreds of people evacuate the Australian town of Wagga Wagga as flood waters rise throughout New South Wales. ](/news/2010/12/5/hundreds-of-people-evacuate-the-australian-town-of-wagga-wagga-as-flood-waters-rise-throughout-new-south-wales.md)
-_Context: Wagga Wagga, NSW, Australia_
+_Context: NSW, Wagga Wagga, Australia_
 
 ##### 
 ### [7 people are rescued after becoming stranded for 8 days in a pub in England. ](/news/2010/12/5/7-people-are-rescued-after-becoming-stranded-for-8-days-in-a-pub-in-england.md)
@@ -71,11 +71,11 @@ Body of German tourist washes up on shore of Sharm el-Sheikh, just days after fo
 
 ##### Palestine
 ### [Brazil recognizes the State of Palestine based on borders at the time of Israel's 1967 conquest of the West Bank. ](/news/2010/12/5/brazil-recognizes-the-state-of-palestine-based-on-borders-at-the-time-of-israel-s-1967-conquest-of-the-west-bank.md)
-_Context: West Bank, Palestine_
+_Context: Palestine, West Bank_
 
 ##### United States
 ### [Newly released cables show the United States lobbied Spanish Prime Minister Jose Luis Rodriguez Zapatero, causing Rolls-Royce to lose an important contract. ](/news/2010/12/5/newly-released-cables-show-the-united-states-lobbied-spanish-prime-minister-josa-c-luis-rodraguez-zapatero-causing-rolls-royce-to-lose-an-i.md)
-_Context: Rolls-Royce, United States, Jose Luis Rodriguez Zapatero_
+_Context: Jose Luis Rodriguez Zapatero, Rolls-Royce, United States_
 
 ##### Hong Kong
 ### [Hundreds of people march in Hong Kong to demand the release of Chinese dissident Liu Xiaobo ahead of the Nobel Prize ceremony on Friday. ](/news/2010/12/5/hundreds-of-people-march-in-hong-kong-to-demand-the-release-of-chinese-dissident-liu-xiaobo-ahead-of-the-nobel-prize-ceremony-on-friday.md)
@@ -89,7 +89,7 @@ Former&#x20;South&#x20;African&#x20;President&#x20;Thabo&#x20;Mbeki&#x20;is&#x20
 ### [Egypt holds parliamentary runoff elections following alleged electoral fraud in last week's first round. ](/news/2010/12/5/egypt-holds-parliamentary-runoff-elections-following-alleged-electoral-fraud-in-last-week-s-first-round.md)
 Ruling party set to dominate second round of parliamentary polls, hit by withdrawal of two main opposition blocs.
 
-##### opposition
+##### Opposition
 ### [Thousands of supporters of the Opposition Social Democratic Union of Macedonia protest against the government in Skopje and demand early elections. ](/news/2010/12/5/thousands-of-supporters-of-the-opposition-social-democratic-union-of-macedonia-protest-against-the-government-in-skopje-and-demand-early-ele.md)
 Thousands march against the conservative government, saying it has failed on the economy and obtaining EU accession.
 

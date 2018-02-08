@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/23/the-death-toll-in-yesterday-s-train-crash-in-th
 
 ### [2010-06-23](/news/2010/06/23/index.md)
 
-##### yesterday's train crash
+##### Yesterday's train crash
 # The death toll in yesterday's train crash in the Republic of the Congo rises to 76. 
 
 Railway staff continue search for survivors of accident that killed at least 76 people.

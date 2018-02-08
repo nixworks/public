@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/08/29/u-s-officials-are-investigating-the-hacking-of-
 
 ### [2016-08-29](/news/2016/08/29/index.md)
 
-##### election
+##### Election
 # U.S. officials are investigating the hacking of election system databases in Illinois and Arizona. The FBI alerted all election officials nationwide about this issue earlier this month. 
 
 Officials are concerned that the Russians are attempting to interfere in the U.S. election and sow doubt about the electoral process.

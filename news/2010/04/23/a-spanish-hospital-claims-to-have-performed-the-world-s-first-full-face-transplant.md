@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/23/a-spanish-hospital-claims-to-have-performed-the
 
 ### [2010-04-23](/news/2010/04/23/index.md)
 
-##### face transplant
+##### Face transplant
 # A Spanish hospital claims to have performed the world's "first full-face transplant". 
 
 

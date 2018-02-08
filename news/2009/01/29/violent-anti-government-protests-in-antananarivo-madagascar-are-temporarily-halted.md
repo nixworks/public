@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/29/violent-anti-government-protests-in-antananariv
 
 ### [2009-01-29](/news/2009/01/29/index.md)
 
-##### government
+##### Government
 #  Violent anti-government protests in Antananarivo, Madagascar, are temporarily halted. 
 
 

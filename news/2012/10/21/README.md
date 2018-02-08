@@ -3,7 +3,7 @@ Formats: [HTML](2012/10/21/index.html)  [JSON](2012/10/21/index.json)  [XML](201
 
 ## [2012-10-21](/news/2012/10/21/index.md)
 
-##### assassination of  Wissam al-Hassan
+##### Assassination of  Wissam al-Hassan
 ### [2012 Beirut bombing: Lebanese security forces fire shots into the air and tear gas at crowds, as protesters attempt to breach government offices of prime minister Mikati in response to a car bomb that killed intelligence chief Wissam al-Hassan. ](/news/2012/10/21/2012-beirut-bombing-lebanese-security-forces-fire-shots-into-the-air-and-tear-gas-at-crowds-as-protesters-attempt-to-breach-government-off.md)
 Protesters try to storm offices of Lebanese PM Mikati, demanding his resignation over assassination of intelligence chief.
 
@@ -25,19 +25,19 @@ _Context: Syrian civil war_
 
 ##### Yash Chopra
 ### [Yash Chopra, one of India's most influential filmmakers, dies from dengue fever in Mumbai. ](/news/2012/10/21/yash-chopra-one-of-india-s-most-influential-filmmakers-dies-from-dengue-fever-in-mumbai.md)
-_Context: Yash Chopra, dengue, Mumbai_
+_Context: dengue, Yash Chopra, Mumbai_
 
 ##### Benedict XVI
 ### [Pope Benedict XVI names seven new saints, including Kateri Tekakwitha, Marianne Cope, Pedro Calungsod, and Anna Schffer. ](/news/2012/10/21/pope-benedict-xvi-names-seven-new-saints-including-kateri-tekakwitha-marianne-cope-pedro-calungsod-and-anna-schaffer.md)
-_Context: Kateri Tekakwitha, Marianne Cope, Anna Schffer, Benedict XVI, Pedro Calungsod_
+_Context: Marianne Cope, Benedict XVI, Pedro Calungsod, Kateri Tekakwitha, Anna Schffer_
 
-##### shooting
+##### Shooting
 ### [A shooting at a spa in Brookfield, Wisconsin, USA, leaves four people dead, including the shooter. ](/news/2012/10/21/a-shooting-at-a-spa-in-brookfield-wisconsin-usa-leaves-four-people-dead-including-the-shooter.md)
 A man who opened fire at a beauty spa in the US state of Wisconsin has killed three people, including his wife, and injured four.
 
 ##### Sharmeka Moffitt
 ### [Sharmeka Moffitt, 20, a female from Winnsboro, Louisiana, sustains burns to over 60% of her body in what was initially believed to be a possible hate crime after she had claimed, through relatives, to have been set afire by three unknown at large male hoodie-wearing assailants in Winnsboro's Civitan Park. It turned out she is believed by police to have set herself on fire and to have written the slur on her car (she has since opened her eyes and blinked to communicate with relatives at Louisiana State University Hospital Shreveport, where she underwent surgery). ](/news/2012/10/21/sharmeka-moffitt-20-a-female-from-winnsboro-louisiana-sustains-burns-to-over-60-of-her-body-in-what-was-initially-believed-to-be-a-poss.md)
-_Context: Louisiana State University Hospital Shreveport, Sharmeka Moffitt, Winnsboro, Louisiana_
+_Context: Sharmeka Moffitt, Louisiana State University Hospital Shreveport, Winnsboro, Louisiana_
 
 ##### Fidel Castro
 ### [Fidel Castro appears in public for the first time in many months. A photograph of the Cuban revolutionary leader appears to show him "doing very well." ](/news/2012/10/21/fidel-castro-appears-in-public-for-the-first-time-in-many-months-a-photograph-of-the-cuban-revolutionary-leader-appears-to-show-him-doing.md)

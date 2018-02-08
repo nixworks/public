@@ -27,7 +27,7 @@ A DEVASTATING fire ravaged a popular shopping mall that has left at least 37 peo
 ### [French President Emmanuel Macron says he will help strengthen the military forces of the G5 Sahel fighting Islamist militants in the Northern Mali conflict. ](/news/2017/12/23/french-president-emmanuel-macron-says-he-will-help-strengthen-the-military-forces-of-the-g5-sahel-fighting-islamist-militants-in-the-norther.md)
 President Emmanuel Macron said on Saturday France stood ready if needed to strengthen its military force fighting alongside African troops against Islamist insurgents in the Sahel.
 
-##### mail carrier
+##### Mail carrier
 ### [A mail carrier from Dublin, Ohio, (told that he would lose his job) allegedly kills 2 of his supervisors. ](/news/2017/12/23/a-mail-carrier-from-dublin-ohio-told-that-he-would-lose-his-job-allegedly-kills-2-of-his-supervisors.md)
 A&nbsp;mail carrier&nbsp;facing the loss of his job&nbsp;walked naked into the Dublin post office early Saturday and fatally shot his supervisor, police
 
@@ -37,7 +37,7 @@ The figure for the pro-democracy killings in Beijing in 1989 comes from newly-re
 
 ##### Peru
 ### [Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. ](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken-from-prison-to-a-local-hospital-for-treatment-for-abnormally-low-blood-pressure.md)
-_Context: low blood pressure, Alberto Fujimori, Peru_
+_Context: Peru, low blood pressure, Alberto Fujimori_
 
 ## [Previous Day...](/news/2017/12/22/index.md)
 

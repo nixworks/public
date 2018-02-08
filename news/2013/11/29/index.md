@@ -31,7 +31,7 @@ The Federal Opposition slams the decision to reject the sale of GrainCorp to US 
 ### [LAM Mozambique Airlines Flight 470 carrying 27 passengers and six crew members disappears in Namibia. ](/news/2013/11/29/lam-mozambique-airlines-flight-470-carrying-27-passengers-and-six-crew-members-disappears-in-namibia.md)
 A Mozambique Airlines plane flying from the capital, Maputo, to the Angolan capital, Luanda, goes missing with 34 people on board.
 
-##### police helicopter that crashed
+##### Police helicopter that crashed
 ### [An unknown number are dead as a result of a police helicopter that crashed into a crowded pub on the north bank of the River Clyde in Glasgow, Scotland. ](/news/2013/11/29/an-unknown-number-are-dead-as-a-result-of-a-police-helicopter-that-crashed-into-a-crowded-pub-on-the-north-bank-of-the-river-clyde-in-glasgo.md)
 Thirty-two people are taken to hospital after a police helicopter with three people on board crashes into a busy pub in Glasgow.
 
@@ -43,7 +43,7 @@ About 1,500 anti-government protesters have forced their way into the compound o
 ### [With their demands not being met, protests are scheduled to continue until at least Sunday 1 December 2013. ](/news/2013/11/29/with-their-demands-not-being-met-protests-are-scheduled-to-continue-until-at-least-sunday-1-december-2013.md)
 ##### Comet
 ### [At least part of Comet C-2012 S1 (also known as Comet Ison) emerged from behind the Sun's corona. ](/news/2013/11/29/at-least-part-of-comet-c-2012-s1-also-known-as-comet-ison-emerged-from-behind-the-sun-s-corona.md)
-_Context: Comet, Sun, C/2012 S1, corona_
+_Context: corona, Comet, C/2012 S1, Sun_
 
 ## [Previous Day...](/news/2013/11/28/index.md)
 

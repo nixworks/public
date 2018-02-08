@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/26/a-police-curfew-continues-for-a-seventh-day-in-
 
 ### [2010-12-26](/news/2010/12/26/index.md)
 
-##### curfew
+##### Curfew
 # A police curfew continues for a seventh day in the village of Inderkoot in Bandipora district, Kashmir, "as a precautionary measure", but is lifted from Sumbal. 
 
 

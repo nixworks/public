@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/30/a-train-fire-kills-32-passengers-and-injures-27
 
 ### [2012-07-30](/news/2012/07/30/index.md)
 
-##### train fire
+##### Train fire
 # A train fire kills 32 passengers and injures 27 on the Tamil Nadu Express in Andhra Pradesh, India. 
 
 Thirty-two people die in a fire on a passenger train travelling in the Indian state of Andhra Pradesh, officials say.

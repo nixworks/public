@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/16/it-is-reported-that-the-waterford-nuclear-gener
 
 ### [2011-05-16](/news/2011/05/16/index.md)
 
-##### flooding
+##### Flooding
 # It is reported that the Waterford Nuclear Generating Station in St. Charles Parish, Louisiana, USA, was restarted three days ago after a refueling shutdown on April 5, as the floodwaters are diverted to the Atchafalaya River. 
 
 Amy Thomasson, 38 and a single mother of three, spent her last night on the Louisiana land her family has farmed for more than 45 years packing photographs, furniture and clothes. A thunderstorm silhouetted the levee across the street that keeps the Atchafalaya River from her front yard.

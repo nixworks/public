@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shootin
 
 ### [2013-05-5](/news/2013/05/5/index.md)
 
-##### drive-by shooting
+##### Drive-by shooting
 # Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/27/a-fifth-outbreak-of-bird-flu-occurs-in-japan-wi
 
 ### [2011-01-27](/news/2011/01/27/index.md)
 
-##### avian influenza
+##### Avian influenza
 # A fifth outbreak of bird flu occurs in Japan, with a cull of 150,000 chickens underway. 
 
 Chickens at a poultry farm in southern Japan were confirmed as infected with the bird flu virus, authorities said Wednesday.

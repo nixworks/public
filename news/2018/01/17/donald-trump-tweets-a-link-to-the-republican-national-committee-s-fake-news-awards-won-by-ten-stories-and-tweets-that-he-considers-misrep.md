@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-na
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
-##### covering
+##### Covering
 # Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets that he considers misreported. The link also honors ten ways the President "has been getting results" thus far. 
 
 The president highlighted negative coverage he said showed bias.

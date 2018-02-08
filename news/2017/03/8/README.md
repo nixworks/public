@@ -39,7 +39,7 @@ Can silence and absence be loud in a digital space?
 ### [U.S. Congress passes a bill that mandates NASA send humans to Mars by 2033. ](/news/2017/03/8/u-s-congress-passes-a-bill-that-mandates-nasa-send-humans-to-mars-by-2033.md)
 It also gives NASA a $19.5 billion budget, cancels a mission to capture an asteroid, and calls on the space agency to search for aliens.
 
-##### space-time crystals
+##### Space-time crystals
 ### [Physicists synthesize space-time crystals for the first time. ](/news/2017/03/8/physicists-synthesize-space-time-crystals-for-the-first-time.md)
 Scientists have created an exotic form of matter known as a time crystal, which seems to defy the laws of thermodynamics.
 

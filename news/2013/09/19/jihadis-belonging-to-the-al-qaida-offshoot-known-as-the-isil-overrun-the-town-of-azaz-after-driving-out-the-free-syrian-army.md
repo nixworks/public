@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-know
 
 ### [2013-09-19](/news/2013/09/19/index.md)
 
-##### al-Qaida
+##### Al-Qaida
 # Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. 
 
 

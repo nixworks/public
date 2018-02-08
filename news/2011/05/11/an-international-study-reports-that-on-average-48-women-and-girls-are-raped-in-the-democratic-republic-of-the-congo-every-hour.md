@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/11/an-international-study-reports-that-on-average-
 
 ### [2011-05-11](/news/2011/05/11/index.md)
 
-##### rape
+##### Rape
 # An international study reports that, on average, 48 women and girls are raped in the Democratic Republic of the Congo every hour. 
 
 A US report says 48 women and girls are raped every hour in DR Congo, a rate significantly higher than a previous UN estimate.

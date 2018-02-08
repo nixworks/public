@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/8/uk-home-repossessions-rise-by-48.html)  [JSON](/
 
 ### [2008-08-8](/news/2008/08/8/index.md)
 
-##### repossession
+##### Repossession
 #  UK home repossessions rise by 48%. 
 
 

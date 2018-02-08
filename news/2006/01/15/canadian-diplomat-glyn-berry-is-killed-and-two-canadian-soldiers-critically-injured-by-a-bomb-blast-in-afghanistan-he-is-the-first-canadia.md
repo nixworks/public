@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/15/canadian-diplomat-glyn-berry-is-killed-and-two-
 
 ### [2006-01-15](/news/2006/01/15/index.md)
 
-##### diplomat
+##### Diplomat
 #  Canadian diplomat Glyn Berry is killed and two Canadian soldiers critically injured by a bomb blast in Afghanistan. He is the first Canadian diplomat to be killed on duty. 
 
 

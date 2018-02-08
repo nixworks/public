@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-in
 
 ### [2010-04-9](/news/2010/04/9/index.md)
 
-##### metro
+##### Metro
 # Shanghai Metro Line 2 opens service to Pudong International Airport. 
 
 

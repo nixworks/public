@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/21/a-fire-in-an-illegal-shoe-factory-kills-at-leas
 
 ### [2007-10-21](/news/2007/10/21/index.md)
 
-##### factory
+##### Factory
 #  A fire in an illegal shoe factory kills at least 34 people in Putian in Fujian province, China. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/10/at-least-ten-people-are-killed-and-25-injured-d
 
 ### [2009-03-10](/news/2009/03/10/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  At least ten people are killed and 25 injured during a suicide attack in Matara, Sri Lanka. 
 
 At least 10 people have been killed in an explosion in southern Sri Lanka.

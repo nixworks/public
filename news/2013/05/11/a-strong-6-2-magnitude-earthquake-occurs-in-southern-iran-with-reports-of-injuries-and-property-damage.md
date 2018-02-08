@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/11/a-strong-6-2-magnitude-earthquake-occurs-in-sou
 
 ### [2013-05-11](/news/2013/05/11/index.md)
 
-##### earthquake
+##### Earthquake
 # A strong 6.2 magnitude earthquake occurs in southern Iran with reports of injuries and property damage. 
 
 

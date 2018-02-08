@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/8/the-parliament-in-greece-elects-karolos-papoulia
 
 ### [2005-02-8](/news/2005/02/8/index.md)
 
-##### government
+##### Government
 #  The parliament in Greece elects Karolos Papoulias as their new president for the next five-year term. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/25/homemade-bombs-explode-in-four-metro-stations-a
 
 ### [2014-06-25](/news/2014/06/25/index.md)
 
-##### metro stations
+##### Metro stations
 # Homemade bombs explode in four metro stations and a court house in Greater Cairo, injuring eight people. 
 
 Eight people were hurt in northern Cairo when homemade explosive devices blew up at four metro stations and a courthouse on Wednesday morning in the first attacks in Cairo since Abdel Fattah al-Sisi became president earlier this month.

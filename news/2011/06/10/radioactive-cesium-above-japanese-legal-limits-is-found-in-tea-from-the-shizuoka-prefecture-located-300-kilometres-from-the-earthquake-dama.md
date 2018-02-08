@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/10/radioactive-cesium-above-japanese-legal-limits-
 
 ### [2011-06-10](/news/2011/06/10/index.md)
 
-##### cesium
+##### Cesium
 # Radioactive cesium above Japanese legal limits is found in tea from the Shizuoka Prefecture, located 300 kilometres from the earthquake-damaged Fukushima Daiichi Nuclear Power Plant. 
 
 

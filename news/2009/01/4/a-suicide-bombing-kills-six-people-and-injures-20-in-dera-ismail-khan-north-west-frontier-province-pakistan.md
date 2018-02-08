@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/4/a-suicide-bombing-kills-six-people-and-injures-2
 
 ### [2009-01-4](/news/2009/01/4/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bombing kills six people and injures 20 in Dera Ismail Khan, North-West Frontier Province, Pakistan. 
 
 

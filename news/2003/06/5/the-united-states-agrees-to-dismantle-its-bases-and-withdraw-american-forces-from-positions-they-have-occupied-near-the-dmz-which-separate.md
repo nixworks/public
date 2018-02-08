@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/5/the-united-states-agrees-to-dismantle-its-bases-
 
 ### [2003-06-5](/news/2003/06/5/index.md)
 
-##### safe zone
+##### Safe zone
 #  The United States agrees to dismantle its bases and withdraw American forces from positions they have occupied near the DMZ, which separates North and South Korea, for decades.
 
 

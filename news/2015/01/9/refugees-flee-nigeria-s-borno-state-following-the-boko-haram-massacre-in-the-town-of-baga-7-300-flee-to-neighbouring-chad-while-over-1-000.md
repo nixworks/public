@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/9/refugees-flee-nigeria-s-borno-state-following-th
 
 ### [2015-01-9](/news/2015/01/9/index.md)
 
-##### attack
+##### Attack
 # Refugees flee Nigeria's Borno State following the Boko Haram massacre in the town of Baga. 7,300 flee to neighbouring Chad while over 1,000 are trapped on the island of Kangala in Lake Chad. Nigeria's army vows to recapture the town, while Niger and Chad withdraw their forces from a transnational force tasked with combating militants. 
 
 UNHCR teams in Chad are at the border and seeking information on the new arrivals and their needs. The newly arrived are staying with local communities.

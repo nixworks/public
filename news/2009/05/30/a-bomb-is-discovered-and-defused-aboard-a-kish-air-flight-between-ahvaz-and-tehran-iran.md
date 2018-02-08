@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/30/a-bomb-is-discovered-and-defused-aboard-a-kish-
 
 ### [2009-05-30](/news/2009/05/30/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb is discovered and defused aboard a Kish Air flight between Ahvaz and Tehran, Iran. 
 
 

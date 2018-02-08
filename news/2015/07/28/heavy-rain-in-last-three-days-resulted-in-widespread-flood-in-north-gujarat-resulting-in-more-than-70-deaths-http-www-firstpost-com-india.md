@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/28/heavy-rain-in-last-three-days-resulted-in-wides
 
 ### [2015-07-28](/news/2015/07/28/index.md)
 
-##### widespread flood
+##### Widespread flood
 # Heavy rain in last three days resulted in widespread flood in north Gujarat resulting in more than 70 deaths.[http:--www.firstpost.com-india-gujarat-floods-72-people-dead-over-81000-cattle-perished-due-to-heavy-rains-2380592.html]
 
 

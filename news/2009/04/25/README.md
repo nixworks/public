@@ -13,11 +13,11 @@ Authorities in Ethiopia say they have arrested 35 people suspected of plotting t
 
 ##### African National Congress
 ### [ The African National Congress loses its supermajority in South Africa's National Assembly. ](/news/2009/04/25/the-african-national-congress-loses-its-supermajority-in-south-africa-s-national-assembly.md)
-_Context: National Assembly of South Africa, supermajority, African National Congress, loses, South Africa_
+_Context: South Africa, loses, African National Congress, supermajority, National Assembly of South Africa_
 
 ##### North Korea
 ### [ North Korea begins to reprocess fuel rods at its Yongbyon Nuclear Scientific Research Center. ](/news/2009/04/25/north-korea-begins-to-reprocess-fuel-rods-at-its-yongbyon-nuclear-scientific-research-center.md)
-_Context: begins, fuel rods, reprocess, Yongbyon Nuclear Scientific Research Center, North Korea_
+_Context: fuel rods, Yongbyon Nuclear Scientific Research Center, begins, North Korea, reprocess_
 
 ##### Iceland
 ### [ Iceland's legislative election occurs. ](/news/2009/04/25/iceland-s-legislative-election-occurs.md)
@@ -25,11 +25,11 @@ Prime Minister Johanna Sigurdardottir, buoyed by an election victory, said she w
 
 ##### Somalia
 ### [ Somali pirates hijack Germany's MV "Patriot" and release a Greek ship. ](/news/2009/04/25/somali-pirates-hijack-germany-s-mv-patriot-and-release-a-greek-ship.md)
-_Context: Somali pirates, German, pirate, Greece, MV, Somalia, ship_
+_Context: MV, pirate, Somali pirates, Greece, German, Somalia, ship_
 
 ##### University of Georgia
 ### [ University of Georgia Professor George Zinkhan allegedly kills three people in Athens, Georgia, United States. ](/news/2009/04/25/university-of-georgia-professor-george-zinkhan-allegedly-kills-three-people-in-athens-georgia-united-states.md)
-_Context: Professor, United States, Georgia, Athens, University of Georgia, George Zinkhan_
+_Context: Georgia, George Zinkhan, Professor, United States, University of Georgia, Athens_
 
 ## [Previous Day...](/news/2009/04/24/index.md)
 

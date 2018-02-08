@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/23/tens-of-thousands-of-people-protest-against-a-n
 
 ### [2009-08-23](/news/2009/08/23/index.md)
 
-##### women equal rights
+##### Women equal rights
 #  Tens of thousands of people protest against a new law which gives women equal rights in marriage in Bamako, Mali. 
 
 

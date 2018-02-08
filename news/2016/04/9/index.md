@@ -29,7 +29,7 @@ _Context: Tiran Island, Egypt-Saudi Arabia relations, Sanafir Island_
 
 ##### North Korea's nuclear program
 ### [ North Korea claims to have successfully tested the engine for an intercontinental ballistic missile. ](/news/2016/04/9/north-korea-claims-to-have-successfully-tested-the-engine-for-an-intercontinental-ballistic-missile.md)
-_Context: North Korea, North Korea's nuclear program, intercontinental ballistic missile_
+_Context: intercontinental ballistic missile, North Korea's nuclear program, North Korea_
 
 ##### 2016 Brussels bombings
 ### [ Mohamed Abrini has reportedly admitted to being the "man in the hat" sought after the Brussels bombings. He is also being charged with involvement in the November 2015 Paris attacks. ](/news/2016/04/9/mohamed-abrini-has-reportedly-admitted-to-being-the-man-in-the-hat-sought-after-the-brussels-bombings-he-is-also-being-charged-with-invo.md)
@@ -37,7 +37,7 @@ _Context: North Korea, North Korea's nuclear program, intercontinental ballistic
 
 ##### New Orleans Saints
 ### [ Former New Orleans Saints defensive end Will Smith is shot dead in a road rage incident. ](/news/2016/04/9/former-new-orleans-saints-defensive-end-will-smith-is-shot-dead-in-a-road-rage-incident.md)
-_Context: New Orleans Saints, road rage, Will Smith, defensive end_
+_Context: New Orleans Saints, Will Smith, defensive end, road rage_
 
 ##### 2016 U.S. presidential election
 ### [ Registered Democratic voters in the U.S. state of Wyoming gather, by county, for the Wyoming Democratic caucuses. Bernie Sanders is projected to win. ](/news/2016/04/9/registered-democratic-voters-in-the-u-s-state-of-wyoming-gather-by-county-for-the-wyoming-democratic-caucuses-bernie-sanders-is-project.md)

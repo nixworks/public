@@ -9,7 +9,7 @@ _Context: North Rhine-Westphalia, Bavaria_
 
 ##### Togo national football team
 ### [The Togo national football team is banned for two tournaments and fined $50,000 for withdrawing from the 2010 Africa Cup of Nations after the fatal attack on their team bus in Angola. The Government of Angola and Confederation of African Football are both to be sued by the families of the dead. ](/news/2010/01/30/the-togo-national-football-team-is-banned-for-two-tournaments-and-fined-50-000-for-withdrawing-from-the-2010-africa-cup-of-nations-after-th.md)
-_Context: Government of Angola, Angola, Confederation of African Football, Togo national football team attack, Togo national football team, 2010 Africa Cup of Nations_
+_Context: Confederation of African Football, Togo national football team attack, 2010 Africa Cup of Nations, Government of Angola, Angola, Togo national football team_
 
 ##### United States
 ### [The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to-a-dispute-as-to-who-should-pay-for-treat.md)
@@ -29,7 +29,7 @@ Abdel Malik al-Houthi offers Yemeni government conditional truce for fourth time
 
 ##### Italy
 ### [Judges across Italy stage a walk out over Prime Minister Silvio Berlusconi's proposed judicial reforms. ](/news/2010/01/30/judges-across-italy-stage-a-walk-out-over-prime-minister-silvio-berlusconi-s-proposed-judicial-reforms.md)
-_Context: Silvio Berlusconi, Italy_
+_Context: Italy, Silvio Berlusconi_
 
 ##### West Godavari District
 ### [12 people drown and least 20 others are missing after a boat accident in West Godavari District, Andhra Pradesh in India. ](/news/2010/01/30/12-people-drown-and-least-20-others-are-missing-after-a-boat-accident-in-west-godavari-district-andhra-pradesh-in-india.md)
@@ -49,11 +49,11 @@ _Context: Google, cyber attack, Internet Explorer 6_
 
 ##### Honda Motor Co.
 ### [Honda recalls 650,000 of the Honda Fit (also known as Honda Jazz) vehicles worldwide over potential electrical faults. ](/news/2010/01/30/honda-recalls-650-000-of-the-honda-fit-also-known-as-honda-jazz-vehicles-worldwide-over-potential-electrical-faults.md)
-_Context: Fit, Honda Motor Co._
+_Context: Honda Motor Co., Fit_
 
 ##### MacMillan
 ### [Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader. ](/news/2010/01/30/publishing-company-macmillan-said-that-on-line-retailer-amazon-com-inc-has-removed-all-macmillan-print-and-e-books-from-its-site-due-to-a.md)
-_Context: MacMillan, Kindle, Amazon.com, Inc., e-books_
+_Context: Kindle, e-books, MacMillan, Amazon.com, Inc._
 
 ## [Previous Day...](/news/2010/01/29/index.md)
 

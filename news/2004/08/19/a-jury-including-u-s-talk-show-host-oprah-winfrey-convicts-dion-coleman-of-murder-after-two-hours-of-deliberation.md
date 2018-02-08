@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfr
 
 ### [2004-08-19](/news/2004/08/19/index.md)
 
-##### jury
+##### Jury
 #  A jury including U.S. talk show host Oprah Winfrey convicts Dion Coleman of murder after two hours of deliberation. 
 
 

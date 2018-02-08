@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/22/official-government-figures-indicate-the-murder
 
 ### [2009-09-22](/news/2009/09/22/index.md)
 
-##### murder
+##### Murder
 #  Official government figures indicate the murder rate in South Africa has fallen, though robberies and sexual offences are on the increase. 
 
 

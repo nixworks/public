@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/20/2011-libyan-civil-war-more-than-200-people-are-
 
 ### [2011-02-20](/news/2011/02/20/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war:More than 200 people are killed and 900 other are injured as military troops attack protestors in Libya.
 
 Details emerge of massive casualties in the Libyan city of Benghazi, where doctors say more than 200 people have been killed in anti-government protests.

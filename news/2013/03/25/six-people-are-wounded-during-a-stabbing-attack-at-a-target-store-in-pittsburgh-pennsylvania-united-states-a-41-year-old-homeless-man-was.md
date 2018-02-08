@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/25/six-people-are-wounded-during-a-stabbing-attack
 
 ### [2013-03-25](/news/2013/03/25/index.md)
 
-##### stabbed
+##### Stabbed
 # Six people are wounded during a stabbing attack at a Target store in Pittsburgh, Pennsylvania, United States. A 41-year-old homeless man was arrested. 
 
 A 16-year-old Tennessee girl on spring break was stabbed Monday inside a downtown Target store in Pittsburgh while she was being used as a shield by a homeless man who was fleeing other people, police spokeswoman Diane Richard said.

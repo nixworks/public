@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/27/the-mascots-for-the-2010-winter-olympics-and-th
 
 ### [2007-11-27](/news/2007/11/27/index.md)
 
-##### mascots for the 2010 Winter Olympics and the 2010 Winter Paralympics
+##### Mascots for the 2010 Winter Olympics and the 2010 Winter Paralympics
 #  The mascots for the 2010 Winter Olympics and the 2010 Winter Paralympics are introduced. This is the first time that both Olympic and Paralympic mascots are unveiled at the same time. 
 
 The three mascots and a sidekick for the 2010 Winter Olympics in Vancouver are inspired by traditional First Nations creatures, it was announced Tuesday. 

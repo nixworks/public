@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/23/the-united-states-abandons-an-attempt-to-shield
 
 ### [2004-06-23](/news/2004/06/23/index.md)
 
-##### war crimes
+##### War crimes
 #  The United States abandons an attempt to shield its soldiers from war crimes prosecution by the International Criminal Court. 
 
 

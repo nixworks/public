@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/7/armenian-voters-approve-by-63-35-percent-to-32-4
 
 ### [2015-12-7](/news/2015/12/7/index.md)
 
-##### referendum
+##### Referendum
 # Armenian voters approve, by 63.35 percent to 32.42 percent, proposed amendments to the Constitution that change the country's form of government to a parliamentary republic. Sunday's election had a 50.51 percent turnout of its registered voters. The opposition alleged wide-spread fraud which the Armenian Revolutionary Federation said didn't happen. [http:--asbarez.com-142597-armenia-adopts-new-constitution- ("Asbarez")] 
 
 

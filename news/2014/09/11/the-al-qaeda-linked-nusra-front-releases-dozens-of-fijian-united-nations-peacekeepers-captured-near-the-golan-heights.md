@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/11/the-al-qaeda-linked-nusra-front-releases-dozens
 
 ### [2014-09-11](/news/2014/09/11/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # The al-Qaeda-linked Nusra Front releases dozens of Fijian United Nations peacekeepers captured near the Golan Heights. 
 
 Dozens of Fijian U.N. peacekeepers, released by al Qaeda-linked group Nusra Front in Syria, arrived in Israeli-held territory on the Golan Heights on Thursday, an Israeli military spokeswoman said.

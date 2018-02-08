@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/14/voting-takes-place-in-the-russian-presidential-
 
 ### [2004-03-14](/news/2004/03/14/index.md)
 
-##### presidential election
+##### Presidential election
 #  Voting takes place in the Russian presidential election. Incumbent Vladimir Putin wins by a large majority. The election is widely criticised by external observers who said Russian state television was very biased towards Putin during the campaign. 
 
 

@@ -5,23 +5,23 @@ Formats: [HTML](2006/01/20/index.html)  [JSON](2006/01/20/index.json)  [XML](200
 
 ##### Davis-Besse
 ### [ Three former workers at the Davis-Besse nuclear power plant in Ohio are indicted for repeatedly falsifying inspection reports and other information to the US Nuclear Regulatory Commission. The plant's owner, FirstEnergy Corporation, accepts a plea bargain and $28 million in fines in lieu of criminal prosecution. ](/news/2006/01/20/three-former-workers-at-the-davis-besse-nuclear-power-plant-in-ohio-are-indicted-for-repeatedly-falsifying-inspection-reports-and-other-inf.md)
-_Context: Davis-Besse, U.S. nuclear regulators, FirstEnergy_
+_Context: FirstEnergy, Davis-Besse, U.S. nuclear regulators_
 
 ##### Archeologist
 ### [ Archeologists digging under the Roman Forum, Rome, Italy, discover a tomb estimated at 3000 years old, predating the creation of the Forum by several centuries. ](/news/2006/01/20/archeologists-digging-under-the-roman-forum-rome-italy-discover-a-tomb-estimated-at-3000-years-old-predating-the-creation-of-the-forum.md)
-_Context: Archeologist, Roman Forum_
+_Context: Roman Forum, Archeologist_
 
 ##### Afghanistan
 ### [ Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar. The discovery comes just days after a suicide bomber killed Canadian diplomat Glyn Berry and seriously wounded three soldiers travelling with him. ](/news/2006/01/20/canadian-soldiers-in-afghanistan-have-defused-a-huge-car-bomb-found-not-far-from-their-base-near-kandahar-the-discovery-comes-just-days-af.md)
 Canadian soldiers in Afghanistan have defused a huge car bomb found not far from their base near Kandahar.
 
-##### nuclear war
+##### Nuclear war
 ### [ Embroiled in a nuclear standoff with the West, Iran says it is moving funds out of Europe to shield them from possible U.N. sanctions. ](/news/2006/01/20/embroiled-in-a-nuclear-standoff-with-the-west-iran-says-it-is-moving-funds-out-of-europe-to-shield-them-from-possible-u-n-sanctions.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 ##### Iraq
 ### [ Iraq's election commission says that an alliance of Shiite religious parties, the United Iraqi Alliance, has won the most seats in Iraq's new National Assembly after the December 2005 legislative elections. ](/news/2006/01/20/iraq-s-election-commission-says-that-an-alliance-of-shiite-religious-parties-the-united-iraqi-alliance-has-won-the-most-seats-in-iraq-s-n.md)
-_Context: National Assembly of Iraq, United Iraqi Alliance, December 2005, Iraq, Shiite_
+_Context: United Iraqi Alliance, Iraq, December 2005, Shiite, National Assembly of Iraq_
 
 ##### Kashmir
 ### [ At least 52 people including five children are killed after an overcrowded bus plunges down a deep gorge in Indian Kashmir. ](/news/2006/01/20/at-least-52-people-including-five-children-are-killed-after-an-overcrowded-bus-plunges-down-a-deep-gorge-in-indian-kashmir.md)
@@ -41,11 +41,11 @@ _Context: Haneda Airport_
 
 ##### Turkey
 ### [ Turkish police are reported to have taken into custody, Mehmet Ali Agca, the man who shot Pope John Paul&nbsp;II in 1981 after an appeals court ordered his return to prison to serve more time for killing a journalist. ](/news/2006/01/20/turkish-police-are-reported-to-have-taken-into-custody-mehmet-ali-aaca-the-man-who-shot-pope-john-paul-nbsp-ii-in-1981-after-an-appeals.md)
-_Context: Pope John Paul&nbsp;II, Turkey, Mehmet Ali Agca_
+_Context: Turkey, Pope John Paul&nbsp;II, Mehmet Ali Agca_
 
-##### whale
+##### Whale
 ### [ A whale, identified as a 5 metre (17') long Northern Bottlenose whale, is observed in the River Thames in Central London passing upstream of the Houses of Parliament. The "River Thames whale" is believed to have passed through the Thames Barrier about 1515 UTC on Thursday afternoon. Attempts are being made to guide it back to the Thames estuary, where a second whale has been sighted off Southend on Sea. ](/news/2006/01/20/a-whale-identified-as-a-5-metre-17-long-northern-bottlenose-whale-is-observed-in-the-river-thames-in-central-london-passing-upstream-o.md)
-_Context: River Thames, whale, River Thames whale, London, Bottlenose whale, Thames Barrier, Parliament, Southend on Sea_
+_Context: River Thames, whale, London, Bottlenose whale, River Thames whale, Thames Barrier, Parliament, Southend on Sea_
 
 ##### Young Patriots
 ### [ Protests by the pro-government Young Patriots in Cote d'Ivoire end after their leader, Charles Ble Goude, tells them to "go home and clean up the streets". ](/news/2006/01/20/protests-by-the-pro-government-young-patriots-in-ca-te-d-ivoire-end-after-their-leader-charles-bla-c-gouda-c-tells-them-to-go-home-and-cle.md)

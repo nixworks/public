@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/19/a-one-man-carjacking-and-shooting-spree-in-oran
 
 ### [2013-02-19](/news/2013/02/19/index.md)
 
-##### shooting spree
+##### Shooting spree
 # A one-man carjacking and shooting spree in Orange County, California, United States, results in the death of 4 people including the alleged gunman. 
 
 

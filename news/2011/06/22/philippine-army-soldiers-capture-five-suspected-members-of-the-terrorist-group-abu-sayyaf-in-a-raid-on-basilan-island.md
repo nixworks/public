@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/22/philippine-army-soldiers-capture-five-suspected
 
 ### [2011-06-22](/news/2011/06/22/index.md)
 
-##### army
+##### Army
 # Philippine Army soldiers capture five suspected members of the terrorist group Abu Sayyaf in a raid on Basilan Island. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/09/19/a-coup-d-etat-occurs-in-thailand-with-tanks-see
 
 ### [2006-09-19](/news/2006/09/19/index.md)
 
-##### coup d'tat
+##### Coup d'tat
 #  A coup d'tat occurs in Thailand, with tanks seen moving into place around government buildings in Bangkok. Prime Minister Thaksin Shinawatra declares a state of emergency in a TV broadcast from the United States, where he went for the United Nations General Assembly, but the transmission is reported to have been cut off. An announcement on Thai television declared that a "Council of Administrative Reform" with King Bhumibol Adulyadej as head of state had seized power in Bangkok and nearby provinces without any resistance. State TV stations are broadcasting messages of loyalty to the King, while international broadcast channels were blocked. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

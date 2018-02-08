@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/16/a-strong-aftershock-to-the-2008-sichuan-earthqu
 
 ### [2008-05-16](/news/2008/05/16/index.md)
 
-##### aftershock
+##### Aftershock
 #  A strong aftershock to the 2008 Sichuan earthquake knocks out roads and communications to some of the worst affected areas disrupting rescue efforts. 
 
 

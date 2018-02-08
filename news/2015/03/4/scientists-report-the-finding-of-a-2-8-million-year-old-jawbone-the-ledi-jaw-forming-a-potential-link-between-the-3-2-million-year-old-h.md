@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/03/4/scientists-report-the-finding-of-a-2-8-million-y
 
 ### [2015-03-4](/news/2015/03/4/index.md)
 
-##### hominin
+##### Hominin
 # Scientists report the finding of a 2.8-million-year-old jawbone (the "Ledi jaw") forming a potential link between the 3.2-million-year-old hominin (human-like primate) Lucy (Australopithecus) found in the same area, and the 2.35-million-year-old remains of "Homo habilis" found at nearby Hadar. If assigned to the genus "Homo", the new remains represent the oldest known human, some 400,000 years older than previously found. 
 
 Scientists working in Ethiopia have uncovered a jawbone fossil which may push the origin of humans back 400,000 years.

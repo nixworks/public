@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/25/the-death-toll-from-a-fire-in-a-garment-factory
 
 ### [2012-11-25](/news/2012/11/25/index.md)
 
-##### a fire in a garment factory
+##### A fire in a garment factory
 # The death toll from a fire in a garment factory in the Bangladeshi capital Dhaka rises to 112 as the search for victims continues. 
 
 

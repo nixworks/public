@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/15/a-severe-windstorm-hits-the-pacific-northwest-o
 
 ### [2006-12-15](/news/2006/12/15/index.md)
 
-##### windstorm
+##### Windstorm
 #  A severe windstorm hits the Pacific Northwest overnight, with wind gusts reported as high as 97 miles per hour. Three people were killed in Washington, and at the peak of the storm about one million homes in western Washington and over 400,000 in the Greater Portland area were without electricity. In British Columbia, Stanley Park sustains more than $9 million damage. 
 
 

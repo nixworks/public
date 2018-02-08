@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/5/a-suicide-bomber-kills-24-people-and-injures-at-
 
 ### [2009-02-5](/news/2009/02/5/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 #  A suicide bomber kills 24 people and injures at least 40 in Dera Ghazi Khan, Pakistan. 
 
 A suicide bomber blew himself up among worshippers streaming toward a Shiite Muslim mosque in central Pakistan on Thursday, killing 24 people and wounding dozens more. 

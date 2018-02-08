@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/11/u-s-military-records-show-that-attacks-against-
 
 ### [2004-01-11](/news/2004/01/11/index.md)
 
-##### capture of Saddam Hussein
+##### Capture of Saddam Hussein
 #  U.S. military records show that attacks against coalition soldiers have decreased by 22% in the four weeks following the capture of Saddam Hussein. More protests in Amarah take place. Demonstrators, many of them related to the victims of January 10, requested compensation. No significant violence reported. 
 
 

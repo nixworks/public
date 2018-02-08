@@ -13,13 +13,13 @@ STOCKHOLM (AP) — Sweden&#x27;s top prosecutor said Friday she is dropping an i
 
 ##### Anthony Weiner sexting scandals
 ### [Former U.S. Congressman Anthony Weiner pleads guilty to sexting with a 15-year-old girl. ](/news/2017/05/19/former-u-s-congressman-anthony-weiner-pleads-guilty-to-sexting-with-a-15-year-old-girl.md)
-_Context: Anthony Weiner, Anthony Weiner sexting scandals, sexting_
+_Context: Anthony Weiner sexting scandals, Anthony Weiner, sexting_
 
 ##### Corruption in Brazil
 ### [The Brazilian Supreme Federal Court releases a plea bargain testimony from JBS S.A., revealing that the company paid 500 million reais in bribes to politicians, including current President Michel Temer and his predecessors Dilma and Lula. ](/news/2017/05/19/the-brazilian-supreme-federal-court-releases-a-plea-bargain-testimony-from-jbs-s-a-revealing-that-the-company-paid-500-million-reais-in-br.md)
-_Context: Dilma Rousseff, Luiz Inacio Lula da Silva, Supreme Court, Brazilian real, Brazil, JBS S.A., Corruption in Brazil, president, plea bargain, Michel Temer_
+_Context: Brazil, Luiz Inacio Lula da Silva, Michel Temer, Supreme Court, Dilma Rousseff, JBS S.A., Corruption in Brazil, Brazilian real, president, plea bargain_
 
-##### re-elected
+##### Re-elected
 ### [Voters in Iran go to the polls to elect the President of Iran. Final opinion polls continue to predict that the incumbent Hassan Rouhani of the Moderation and Development Party will receive a majority of votes, with the conservative Combatant Clergy Association's Ebrahim Raisi as his main competition. ](/news/2017/05/19/voters-in-iran-go-to-the-polls-to-elect-the-president-of-iran-final-opinion-polls-continue-to-predict-that-the-incumbent-hassan-rouhani-of.md)
 Voters are to elect a new president, with incumbent Hassan Rouhani up against three challengers.
 

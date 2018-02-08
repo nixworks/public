@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/24/a-magnitude-7-1-earthquake-strikes-southwestern
 
 ### [2016-01-24](/news/2016/01/24/index.md)
 
-##### magnitude
+##### Magnitude
 # A magnitude 7.1 earthquake strikes southwestern Alaska, leaving 10,000 in the Anchorage area without power and forcing the evacuation of several homes on the Kenai Peninsula. The National Weather Service reported that there was no tsunami following the earthquake. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

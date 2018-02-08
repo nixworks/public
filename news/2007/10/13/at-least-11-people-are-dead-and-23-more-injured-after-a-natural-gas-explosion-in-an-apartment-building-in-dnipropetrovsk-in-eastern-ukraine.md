@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/13/at-least-11-people-are-dead-and-23-more-injured
 
 ### [2007-10-13](/news/2007/10/13/index.md)
 
-##### natural gas
+##### Natural gas
 #  At least 11 people are dead and 23 more injured after a natural gas explosion in an apartment building in Dnipropetrovsk in eastern Ukraine. 
 
 Ukrainian officials say at least 11 people were killed and 23 others injured in a natural gas explosion in an apartment building in eastern Ukraine.

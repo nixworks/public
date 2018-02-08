@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/9/ministers-from-natural-gas-exporting-countries-s
 
 ### [2007-04-9](/news/2007/04/9/index.md)
 
-##### natural gas
+##### Natural gas
 #  Ministers from natural gas exporting countries such as Russia, Kazakhstan and Iran meet in Doha, Qatar, prompting speculation that they might be looking at transforming the Gas Exporting Countries Forum into a cartel similar to OPEC. 
 
 

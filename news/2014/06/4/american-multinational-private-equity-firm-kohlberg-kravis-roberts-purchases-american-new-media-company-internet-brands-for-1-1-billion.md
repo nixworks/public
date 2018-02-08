@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/4/american-multinational-private-equity-firm-kohlb
 
 ### [2014-06-4](/news/2014/06/4/index.md)
 
-##### private equity firm
+##### Private equity firm
 # American multinational private equity firm Kohlberg Kravis Roberts purchases American new media company Internet Brands for $1.1 billion. 
 
 Internet Brands Inc., the El Segundo owner of CarsDirect.com and other online businesses, is being acquired by private equity giant Kohlberg Kravis Roberts in a deal worth $1.1 billion.

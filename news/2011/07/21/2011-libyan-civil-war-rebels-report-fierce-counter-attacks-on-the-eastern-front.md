@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/21/2011-libyan-civil-war-rebels-report-fierce-coun
 
 ### [2011-07-21](/news/2011/07/21/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Rebels report "fierce" counter-attacks on the eastern front. 
 
 Libyan leader Muammar Gaddafi ruled out on Thursday talks with the rebels seeking to end his 41-year-rule, casting doubt on a flurry of Western efforts to negotiate an end to a deepening civil conflict.

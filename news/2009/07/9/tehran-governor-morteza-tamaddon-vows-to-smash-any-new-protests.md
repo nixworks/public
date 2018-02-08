@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/9/tehran-governor-morteza-tamaddon-vows-to-smash-a
 
 ### [2009-07-9](/news/2009/07/9/index.md)
 
-##### protests against the regime
+##### Protests against the regime
 #  Tehran Governor Morteza Tamaddon vows to "smash" any new protests. 
 
 

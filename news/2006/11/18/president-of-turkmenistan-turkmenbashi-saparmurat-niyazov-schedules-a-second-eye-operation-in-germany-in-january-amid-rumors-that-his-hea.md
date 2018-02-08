@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/18/president-of-turkmenistan-turkmenbashi-saparmur
 
 ### [2006-11-18](/news/2006/11/18/index.md)
 
-##### president
+##### President
 #  President of Turkmenistan "Turkmenbashi" Saparmurat Niyazov schedules a second eye operation in Germany in January amid rumors that his health is poor. President Niyazov cannot be operated on in Turkmenistan because earlier this year he signed a decree that closed all hospitals outside of Ashgabat and replaced most healthcare staff with soldiers. 
 
 

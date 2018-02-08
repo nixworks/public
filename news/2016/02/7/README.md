@@ -7,13 +7,13 @@ Formats: [HTML](2016/02/7/index.html)  [JSON](2016/02/7/index.json)  [XML](2016/
 ### [The death toll from yesterday's earthquake in Taiwan rises to at least 29, with at least 120 trapped under collapsed buildings in Tainan, while 198 people have been rescued. ](/news/2016/02/7/the-death-toll-from-yesterday-s-earthquake-in-taiwan-rises-to-at-least-29-with-at-least-120-trapped-under-collapsed-buildings-in-tainan-wh.md)
 The death toll from Saturday’s earthquake rose to 29 by press time last night as rescuers continued to comb the debris of a toppled building in Tainan’s Yongkang District (永康) for survivors and victims.
 
-##### meteorite
+##### Meteorite
 ### [A man is killed and three other employees are injured following a suspected meteorite strike in a garden outside the Bharathidasan Engineering College in Tamil Nadu, India. Witnesses say they saw a mysterious object fall from the sky. If confirmed, this would be the first recorded fatality from a meteorite strike. ](/news/2016/02/7/a-man-is-killed-and-three-other-employees-are-injured-following-a-suspected-meteorite-strike-in-a-garden-outside-the-bharathidasan-engineeri.md)
 The explosion created a small crater near the building complex.
 
-##### explosion
+##### Explosion
 ### [One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. ](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-an-explosion-at-jcg-farms-an-american-feed-mill-near-atlanta-georgia.md)
-_Context: Atlanta, Georgia, explosion, feed mill_
+_Context: explosion, feed mill, Atlanta, Georgia_
 
 ##### North Korea's nuclear program
 ### [North Korea launches a long range rocket that critics claim is a test of banned technology for a long range missile that could hit the United States. South Korea's military says the rocket released an object into orbit. ](/news/2016/02/7/north-korea-launches-a-long-range-rocket-that-critics-claim-is-a-test-of-banned-technology-for-a-long-range-missile-that-could-hit-the-unite.md)

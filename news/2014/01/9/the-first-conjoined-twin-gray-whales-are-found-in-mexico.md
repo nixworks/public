@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/9/the-first-conjoined-twin-gray-whales-are-found-i
 
 ### [2014-01-9](/news/2014/01/9/index.md)
 
-##### conjoined twin
+##### Conjoined twin
 # The first conjoined twin gray whales are found in Mexico. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/6/three-gunmen-open-fire-at-a-house-in-miami-flori
 
 ### [2009-07-6](/news/2009/07/6/index.md)
 
-##### shooting
+##### Shooting
 #  Three gunmen open fire at a house in Miami, Florida, United States, killing one person and wounding eleven others. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/27/seven-people-including-the-gunman-are-killed-in
 
 ### [2003-08-27](/news/2003/08/27/index.md)
 
-##### shooting
+##### Shooting
 #  Seven people, including the gunman, are killed in a shooting in Chicago as a worker opens fire on his colleagues at a car parts store. The police shoot the gunman dead.
 
 

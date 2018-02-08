@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/20/a-wave-of-violence-continues-with-attacks-acros
 
 ### [2013-05-20](/news/2013/05/20/index.md)
 
-##### wave of violence
+##### Wave of violence
 # A wave of violence continues, with attacks across the country killing 133 and leaving 283 others injured. Almost 400 people have been killed in the last six days alone, as tribal leaders warn of impending civil war. 
 
 More than 70 people are killed and many more wounded by car bombs and suicide attacks in one of the worst days of violence in Iraq in recent months.

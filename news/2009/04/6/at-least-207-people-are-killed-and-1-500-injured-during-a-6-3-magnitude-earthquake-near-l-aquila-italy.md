@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/6/at-least-207-people-are-killed-and-1-500-injured
 
 ### [2009-04-6](/news/2009/04/6/index.md)
 
-##### magnitude
+##### Magnitude
 #  At least 207 people are killed and 1,500 injured during a 6.3-magnitude earthquake near L'Aquila, Italy. 
 
 

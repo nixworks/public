@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/22/a-bomb-explodes-from-beneath-a-car-in-the-leban
 
 ### [2005-07-22](/news/2005/07/22/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes from beneath a car in the Lebanese capital of Beirut causing injuries, but no deaths. 
 
 

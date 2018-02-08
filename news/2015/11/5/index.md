@@ -11,7 +11,7 @@ The Department of Foreign Affairs says it&rsquo;s aware of reports that a Canadi
 ### [British Prime Minister David Cameron, under pressure from Labour Party leader Jeremy Corbyn and the Foreign Affairs Committee, will not ask for a vote by Parliament to join the U.S. airstrikes in Syria. ](/news/2015/11/5/british-prime-minister-david-cameron-under-pressure-from-labour-party-leader-jeremy-corbyn-and-the-foreign-affairs-committee-will-not-ask.md)
 France has announced that it will deploy its only aircraft carrier to boost its efforts in the fight against Isis. In a statement by the French presidency following a meeting of its defence cabinet, the government said the Charles de Gaulle warship would be sent to the eastern Mediterranean for oper...
 
-##### iron ore
+##### Iron ore
 ### [An iron ore tailings dam bursts in the Brazilian state of Minas Gerais flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing up to 17 deaths and 45 missing. The dam is operated by Samarco MineracGBPo, a joint venture between BHP Billiton and Vale. ](/news/2015/11/5/an-iron-ore-tailings-dam-bursts-in-the-brazilian-state-of-minas-gerais-flooding-a-valley-causing-mudslides-in-the-nearby-village-of-bento-r.md)
 Brazilian authorities stepped up efforts to locate and care for victims of a massive mudslide triggered by ruptured dams at an iron ore mine owned by BHP Billiton Ltd. and Vale SA, in what is being described as the worst environmental disaster ever in the state of Minas Gerais.
 

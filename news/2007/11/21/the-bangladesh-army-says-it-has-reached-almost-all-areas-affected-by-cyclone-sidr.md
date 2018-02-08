@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/21/the-bangladesh-army-says-it-has-reached-almost-
 
 ### [2007-11-21](/news/2007/11/21/index.md)
 
-##### army
+##### Army
 #  The Bangladesh Army says it has reached almost all areas affected by cyclone Sidr. 
 
 

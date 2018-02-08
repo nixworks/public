@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/16/a-female-suicide-bomber-kills-13-people-in-the-
 
 ### [2014-11-16](/news/2014/11/16/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A female suicide bomber kills 13 people in the town of Abare in northeastern Nigeria. 
 
 The Nigerian army says it has recaptured the north-eastern Nigerian town of Chibok from Boko Haram militants, who seized the town on Thursday.

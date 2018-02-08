@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/11/officials-begin-to-evacuate-santa-catalina-isla
 
 ### [2007-05-11](/news/2007/05/11/index.md)
 
-##### evacuation
+##### Evacuation
 #  Officials begin to evacuate Santa Catalina Island, California, as wildfires on the island south of Los Angeles burn out of control. 
 
 

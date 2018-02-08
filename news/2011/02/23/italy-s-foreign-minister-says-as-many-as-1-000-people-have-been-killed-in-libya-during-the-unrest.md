@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-
 
 ### [2011-02-23](/news/2011/02/23/index.md)
 
-##### civil war
+##### Civil war
 # Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. 
 
 

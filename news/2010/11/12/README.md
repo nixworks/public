@@ -7,7 +7,7 @@ Formats: [HTML](2010/11/12/index.html)  [JSON](2010/11/12/index.json)  [XML](201
 ### [A convoy carrying Chinese mine workers is attacked in Cabinda Province, Angola, killing two soldiers. ](/news/2010/11/12/a-convoy-carrying-chinese-mine-workers-is-attacked-in-cabinda-province-angola-killing-two-soldiers.md)
 An Angolan minister tells the BBC that a convoy carrying Chinese mine workers was attacked in the region of Cabinda this week.
 
-##### austerity
+##### Austerity
 ### [Major Italian cultural attractions are closed as the government plans to cut its culture budget as part of austerity measures. ](/news/2010/11/12/major-italian-cultural-attractions-are-closed-as-the-government-plans-to-cut-its-culture-budget-as-part-of-austerity-measures.md)
 _Context: austerity_
 
@@ -25,15 +25,15 @@ Ireland is in talks to receive emergency funding from the European Union and is 
 
 ##### Brazil
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
-_Context: Brazil, Amazon Rainforest, logging_
+_Context: logging, Amazon Rainforest, Brazil_
 
-##### economic
+##### Economic
 ### [Eurozone economic growth slows in third quarter. ](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter.md)
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews
 
 ##### United Kingdom
 ### [United Kingdom holiday company Pontin's goes into administration. ](/news/2010/11/12/united-kingdom-holiday-company-pontin-s-goes-into-administration.md)
-_Context: United Kingdom, Pontin's_
+_Context: Pontin's, United Kingdom_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama's administration announces plans to nominate Joseph Smith to head the Federal Housing Finance Agency. Smith has been the banks commissioner in North Carolina since 2002. ](/news/2010/11/12/u-s-president-barack-obama-s-administration-announces-plans-to-nominate-joseph-smith-to-head-the-federal-housing-finance-agency-smith-has.md)
@@ -47,13 +47,13 @@ _Context: Android, Bing Search_
 ### [The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-hospitals-overflow-and-space-an.md)
 The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti which has now claimed 724 lives.
 
-##### nursing home
+##### Nursing home
 ### [Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. ](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injured-following-a-fire-in-a-nursing-home-in-pohang-south-korea.md)
-_Context: Pohang, nursing home, South Korea_
+_Context: South Korea, Pohang, nursing home_
 
 ##### Mount Bulusan
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: Mount Bulusan, volcano, Philippines_
+_Context: Mount Bulusan, Philippines, volcano_
 
 ##### European windstorm
 ### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km-h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
@@ -73,23 +73,23 @@ Medvedev and Kan to hold talks in Japanese city amid tensions over territorial d
 
 ##### European Union
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: Iran, European Union, nuclear program_
+_Context: Iran, nuclear program, European Union_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
 Supreme court rejects request to rescind ban on openly gay soldiers, while Obama pushes Senate to repeal it.
 
-##### human rights
+##### Human rights
 ### [The trial of eight police officers charged with the murder of human rights activist Floribert Chebeya begins in the Democratic Republic of the Congo. ](/news/2010/11/12/the-trial-of-eight-police-officers-charged-with-the-murder-of-human-rights-activist-floribert-chebeya-begins-in-the-democratic-republic-of-t.md)
 The trial starts of eight officers charged with the murder of prominent human rights activist Floribert Chebeya in the Democratic Republic of Congo.
 
 ##### Hassan Bamoum
 ### [Hassan Bamoum is arrested in Yemen prompting thousands of people to march through cities in the south. ](/news/2010/11/12/hassan-bamoum-is-arrested-in-yemen-prompting-thousands-of-people-to-march-through-cities-in-the-south.md)
-_Context: Yemen, Hassan Bamoum_
+_Context: Hassan Bamoum, Yemen_
 
 ##### Omar Bakri Muhammad
 ### [Omar Bakri Muhammad is sentenced to life imprisonment by a military court in Lebanon. ](/news/2010/11/12/omar-bakri-muhammad-is-sentenced-to-life-imprisonment-by-a-military-court-in-lebanon.md)
-_Context: Lebanon, life imprisonment, Omar Bakri Muhammad_
+_Context: Lebanese, life imprisonment, Omar Bakri Muhammad_
 
 ##### Transparency International
 ### [Transparency International names Poddala Jayantha, Sergei Magnitsky and Gregory Ngbwa Minsta as joint winners of a global award for integrity. ](/news/2010/11/12/transparency-international-names-poddala-jayantha-sergei-magnitsky-and-gregory-ngbwa-minsta-as-joint-winners-of-a-global-award-for-integrit.md)
@@ -113,11 +113,11 @@ Ethnic Karen armies have united as fresh fighting erupts on Thai-Myanmar border.
 
 ##### Jos Alencar
 ### [Jos Alencar, Vice-President and current Acting President of Brazil in the absence of Luiz Incio Lula da Silva, is taken to the Sirio Libanes hospital in So Paulo following a heart attack. ](/news/2010/11/12/jose-alencar-vice-president-and-current-acting-president-of-brazil-in-the-absence-of-luiz-inacio-lula-da-silva-is-taken-to-the-sirio-liban.md)
-_Context: Jos Alencar, Luiz Incio Lula da Silva, So Paulo_
+_Context: Luiz Incio Lula da Silva, So Paulo, Jos Alencar_
 
 ##### Israeli Prime Minister
 ### [Former Prime Minister of Israel Ariel Sharon is taken home from hospital still in a comatose state. ](/news/2010/11/12/former-prime-minister-of-israel-ariel-sharon-is-taken-home-from-hospital-still-in-a-comatose-state.md)
-_Context: Ariel Sharon, Israeli Prime Minister_
+_Context: Israeli Prime Minister, Ariel Sharon_
 
 ##### Mary Harney
 ### [Irish Health Minister Mary Harney is targeted with eggs and cheese by protestors shouting "Bloody Mary" in response to her healthcare funding cuts. It follows a similar incident involving red paint last week. ](/news/2010/11/12/irish-health-minister-mary-harney-is-targeted-with-eggs-and-cheese-by-protestors-shouting-bloody-mary-in-response-to-her-healthcare-fundin.md)
@@ -125,7 +125,7 @@ Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she
 
 ##### Prime Minister of Somalia
 ### [The Prime Minister of Somalia Mohamed Abdullahi Mohamed names a new Cabinet with doubts that the parliament will approve his choices. ](/news/2010/11/12/the-prime-minister-of-somalia-mohamed-abdullahi-mohamed-names-a-new-cabinet-with-doubts-that-the-parliament-will-approve-his-choices.md)
-_Context: Prime Minister of Somalia, parliament, Mohamed Abdullahi Mohamed_
+_Context: Mohamed Abdullahi Mohamed, Prime Minister of Somalia, parliament_
 
 ## [Previous Day...](/news/2010/11/11/index.md)
 

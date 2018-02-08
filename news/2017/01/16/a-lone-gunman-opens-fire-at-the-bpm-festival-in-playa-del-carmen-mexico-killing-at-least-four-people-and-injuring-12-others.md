@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/16/a-lone-gunman-opens-fire-at-the-bpm-festival-in
 
 ### [2017-01-16](/news/2017/01/16/index.md)
 
-##### the BPM Festival
+##### The BPM Festival
 # A lone gunman opens fire at the BPM Festival in Playa del Carmen, Mexico, killing at least four people and injuring 12 others. 
 
 Two Canadians, an Italian and a Colombian are among those killed at the Playa del Carmen resort.

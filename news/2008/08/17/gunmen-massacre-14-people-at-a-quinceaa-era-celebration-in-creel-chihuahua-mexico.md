@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/17/gunmen-massacre-14-people-at-a-quinceaa-era-cel
 
 ### [2008-08-17](/news/2008/08/17/index.md)
 
-##### quinceanera
+##### Quinceanera
 #  Gunmen massacre 14 people at a quinceanera celebration in Creel, Chihuahua, Mexico. 
 
 

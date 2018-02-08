@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/22/u-s-congressman-william-j-jefferson-d-la-refuse
 
 ### [2006-05-22](/news/2006/05/22/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  U.S. congressman William J. Jefferson (D-La) refuses to resign, as he denies allegations of bribery after an FBI weekend raid of his office. 
 
 

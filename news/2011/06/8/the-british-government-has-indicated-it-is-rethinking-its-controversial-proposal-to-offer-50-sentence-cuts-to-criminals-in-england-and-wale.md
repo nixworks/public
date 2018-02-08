@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/8/the-british-government-has-indicated-it-is-rethi
 
 ### [2011-06-8](/news/2011/06/8/index.md)
 
-##### the coalition
+##### The coalition
 # The British government has indicated it is rethinking its controversial proposal to offer 50% sentence cuts to criminals in England and Wales who enter early guilty pleas. 
 
 Plans to offer sentence discounts of up to 50% for an early guilty plea could be shelved - as Labour says crime policy is in &quot;a total mess&quot;.

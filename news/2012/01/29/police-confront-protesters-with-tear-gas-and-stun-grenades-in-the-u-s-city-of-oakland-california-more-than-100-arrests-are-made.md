@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/29/police-confront-protesters-with-tear-gas-and-st
 
 ### [2012-01-29](/news/2012/01/29/index.md)
 
-##### tear gas
+##### Tear gas
 # Police confront protesters with tear gas and stun grenades in the U.S. city of Oakland, California; more than 100 arrests are made. 
 
 Police have arrested more than 100 protesters from the Occupy movement in the US city of Oakland.

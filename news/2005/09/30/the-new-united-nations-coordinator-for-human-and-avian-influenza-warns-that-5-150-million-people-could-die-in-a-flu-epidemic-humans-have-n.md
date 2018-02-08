@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/30/the-new-united-nations-coordinator-for-human-an
 
 ### [2005-09-30](/news/2005/09/30/index.md)
 
-##### flu
+##### Flu
 #  The new United Nations coordinator for human and avian influenza warns that 5-150 million people could die in a flu epidemic. Humans have no natural immunity to the virus. 
 
 

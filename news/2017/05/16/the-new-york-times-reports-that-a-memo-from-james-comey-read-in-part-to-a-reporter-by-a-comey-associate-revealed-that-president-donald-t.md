@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-jam
 
 ### [2017-05-16](/news/2017/05/16/index.md)
 
-##### memo
+##### Memo
 # "The New York Times" reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. 
 
 The Republican chairman of the House Oversight Committee demanded Tuesday that the FBI turn over all documents it has about communications between President Donald Trump and former FBI Director James Comey. Chairman Jason Chaffetz of Utah sent the letter a few hours after it was reported that Trump allegedly asked Comey to end the FBI&#x27;s investigation into former National Security Adviser Michael Flynn, who resigned in February following reports that he misled Vice President Mike Pence about his conversations with Russia&#x27;s ambassador to the United States.

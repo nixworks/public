@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chil
 
 ### [2011-01-2](/news/2011/01/2/index.md)
 
-##### earthquake
+##### Earthquake
 # A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. 
 
 A 7.1-magnitude earthquake has struck central Chile, sending tens of thousands of people near coastal communities for higher ground over concerns it would generate a tsunami.

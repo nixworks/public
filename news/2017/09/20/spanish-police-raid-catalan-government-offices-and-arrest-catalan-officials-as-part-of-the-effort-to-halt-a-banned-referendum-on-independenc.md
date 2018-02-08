@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/09/20/spanish-police-raid-catalan-government-offices-
 
 ### [2017-09-20](/news/2017/09/20/index.md)
 
-##### secession
+##### Secession
 # Spanish police raid Catalan government offices and arrest Catalan officials as part of the effort to halt a banned referendum on independence. Catalan President Carles Puigdemont says, "The Spanish state has by all rights intervened in Catalonia's government and has established emergency rule." 
 
 Spanish police raided Catalan government offices and arrested officials on Wednesday to halt a banned referendum on independence, an action the regional president said meant Madrid had effectively taken over his administration.

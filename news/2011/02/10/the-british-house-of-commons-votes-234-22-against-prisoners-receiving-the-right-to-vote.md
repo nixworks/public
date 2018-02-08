@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/10/the-british-house-of-commons-votes-234-22-again
 
 ### [2011-02-10](/news/2011/02/10/index.md)
 
-##### the House of Commons
+##### The House of Commons
 # The British House of Commons votes 234-22 against prisoners receiving the right to vote. 
 
 The Commons overwhelmingly votes to keep the ban on prisoners voting, in defiance of a ruling by the European Court of Human Rights.

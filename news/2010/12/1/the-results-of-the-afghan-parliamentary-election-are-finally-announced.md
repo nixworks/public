@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/1/the-results-of-the-afghan-parliamentary-election
 
 ### [2010-12-1](/news/2010/12/1/index.md)
 
-##### parliamentary election
+##### Parliamentary election
 # The results of the Afghan parliamentary election are finally announced. 
 
 The results of parliamentary elections in Afghanistan have ushered in uncertainty, deepened skepticism of the government and stirred volatile ethnic fault lines.

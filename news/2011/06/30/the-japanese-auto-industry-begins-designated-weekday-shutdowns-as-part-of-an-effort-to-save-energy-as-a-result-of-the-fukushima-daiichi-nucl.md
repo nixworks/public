@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/30/the-japanese-auto-industry-begins-designated-we
 
 ### [2011-06-30](/news/2011/06/30/index.md)
 
-##### automakers
+##### Automakers
 # The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. 
 
 

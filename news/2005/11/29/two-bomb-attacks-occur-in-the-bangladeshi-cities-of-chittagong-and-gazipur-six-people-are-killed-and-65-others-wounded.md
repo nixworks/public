@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/29/two-bomb-attacks-occur-in-the-bangladeshi-citie
 
 ### [2005-11-29](/news/2005/11/29/index.md)
 
-##### bomb
+##### Bomb
 #  Two bomb attacks occur in the Bangladeshi cities of Chittagong and Gazipur. Six people are killed and 65 others wounded. 
 
 

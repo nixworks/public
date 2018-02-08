@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/22/at-least-a-dozen-wildfires-burning-throughout-s
 
 ### [2007-10-22](/news/2007/10/22/index.md)
 
-##### wildfires
+##### Wildfires
 #  At least a dozen wildfires burning throughout Southern California force the evacuations of more than 250,000 residents. 
 
 

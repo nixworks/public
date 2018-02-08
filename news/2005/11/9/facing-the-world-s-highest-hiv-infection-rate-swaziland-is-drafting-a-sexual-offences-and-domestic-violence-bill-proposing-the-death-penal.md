@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/9/facing-the-world-s-highest-hiv-infection-rate-sw
 
 ### [2005-11-9](/news/2005/11/9/index.md)
 
-##### highest HIV infection rate
+##### Highest HIV infection rate
 #  Facing the world's highest HIV infection rate, Swaziland is drafting a Sexual Offences and Domestic Violence Bill proposing the death penalty for child rape, incest and the intentional transmission of HIV. Amnesty International later expresses concern. [https:--www.amnesty.org-en-library-info-AFR55-003-2006] 
 
 

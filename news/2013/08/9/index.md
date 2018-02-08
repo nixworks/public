@@ -9,7 +9,7 @@ _Context: Al Qaeda, Yemen_
 
 ##### United States
 ### [The United States withdraws diplomats from its consulate in the Pakistani city of Lahore due to terrorist threats. ](/news/2013/08/9/the-united-states-withdraws-diplomats-from-its-consulate-in-the-pakistani-city-of-lahore-due-to-terrorist-threats.md)
-_Context: Pakistan, Lahore, United States_
+_Context: United States, Lahore, Pakistan_
 
 ##### Gunmen open fire
 ### [Gunmen open fire at a Sunni mosque in the city of Quetta killing at least eight people and injuring 24. ](/news/2013/08/9/gunmen-open-fire-at-a-sunni-mosque-in-the-city-of-quetta-killing-at-least-eight-people-and-injuring-24.md)
@@ -25,7 +25,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Clashes erupted between two communities
 ### [Clashes erupted between two communities after Eid prayers, in the Kishtwar district of Jammu and Kashmir, India, leaving two dead and several other injured. ](/news/2013/08/9/clashes-erupted-between-two-communities-after-eid-prayers-in-the-kishtwar-district-of-jammu-and-kashmir-india-leaving-two-dead-and-severa.md)
-_Context: Kishtwar, Jammu and Kashmir, Clashes erupted between two communities, Eid al-Fitr, India_
+_Context: India, Clashes erupted between two communities, Eid al-Fitr, Jammu and Kashmir, Kishtwar_
 
 ##### Taiwan
 ### [Taiwan's Control Yuan investigatory agency reports that the Taiwan Power Company's Jinshan Nuclear Power Plant has been leaking radioactive water for three years. ](/news/2013/08/9/taiwan-s-control-yuan-investigatory-agency-reports-that-the-taiwan-power-company-s-jinshan-nuclear-power-plant-has-been-leaking-radioactive.md)
@@ -33,13 +33,13 @@ _Context: Control Yuan, Taiwan Power Company, Jinshan Nuclear Power Plant, Taiwa
 
 ##### Rockwell Turbo Commander
 ### [Three people are missing after a Rockwell Turbo Commander turboprop plane crashes into two homes in East Haven, Connecticut, United States. ](/news/2013/08/9/three-people-are-missing-after-a-rockwell-turbo-commander-turboprop-plane-crashes-into-two-homes-in-east-haven-connecticut-united-states.md)
-_Context: Connecticut, East Haven, turboprop, Rockwell Turbo Commander_
+_Context: East Haven, Rockwell Turbo Commander, Connecticut, turboprop_
 
 ##### Ethiopian Air Force
 ### [An Ethiopian Air Force cargo plane carrying ammunition for international forces fighting Islamist militants in Somalia crashes and catches fire on landing at the Aden Adde International Airport in Mogadishu, killing four of the six crewmembers. ](/news/2013/08/9/an-ethiopian-air-force-cargo-plane-carrying-ammunition-for-international-forces-fighting-islamist-militants-in-somalia-crashes-and-catches-f.md)
-_Context: Aden Adde International Airport, Somalia, Ethiopian Air Force, Mogadishu_
+_Context: Ethiopian Air Force, Aden Adde International Airport, Mogadishu, Somalia_
 
-##### drug lord
+##### Drug lord
 ### [Mexican drug lord Rafael Caro Quintero, who was convicted for the 1985 murder of U.S. Drug Enforcement Administration Enrique Camarena, is ordered released from prison. ](/news/2013/08/9/mexican-drug-lord-rafael-caro-quintero-who-was-convicted-for-the-1985-murder-of-u-s-drug-enforcement-administration-enrique-camarena-is-o.md)
 Cartel boss has 40-year jail sentence for murder of American DEA agent Enrique Camarena overturned by court
 
@@ -47,7 +47,7 @@ Cartel boss has 40-year jail sentence for murder of American DEA agent Enrique C
 ### [Liu Tienan, the deputy head of China's National Development and Reform Commission, is expelled from the Communist Party for corruption. ](/news/2013/08/9/liu-tienan-the-deputy-head-of-china-s-national-development-and-reform-commission-is-expelled-from-the-communist-party-for-corruption.md)
 Liu Tienan, a former top economic official in China, is expelled from the Communist Party and removed from public office, state media report.
 
-##### the state
+##### The state
 ### [A 31-year-old Florida man kills his wife and posts a picture of her corpse with a confession onto Facebook. The picture is removed and the man is arrested. ](/news/2013/08/9/a-31-year-old-florida-man-kills-his-wife-and-posts-a-picture-of-her-corpse-with-a-confession-onto-facebook-the-picture-is-removed-and-the-m.md)
 _Context: the state, Facebook_
 

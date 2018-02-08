@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/01/20/a-digital-cable-and-satellite-network-dedicated
 
 ### [2000-01-20](/news/2000/01/20/index.md)
 
-##### digital cable
+##### Digital cable
 # A digital cable and satellite network dedicated to the soap operas, SOAPnet, begins re-airing soaps that originally aired on ABC, NBC and CBS.
 
 

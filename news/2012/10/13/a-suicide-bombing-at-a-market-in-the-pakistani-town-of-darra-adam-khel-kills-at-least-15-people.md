@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/13/a-suicide-bombing-at-a-market-in-the-pakistani-
 
 ### [2012-10-13](/news/2012/10/13/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a market in the Pakistani town of Darra Adam Khel kills at least 15 people. 
 
 At least 15 people are killed in a market bombing apparently aimed at an anti-Taliban group in north-west Pakistan, security officials say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/25/fifty-people-are-arrested-ahead-of-a-major-rall
 
 ### [2013-05-25](/news/2013/05/25/index.md)
 
-##### same-sex marriages
+##### Same-sex marriages
 # Fifty people are arrested ahead of a major rally against France's new law allowing same-sex marriage. 
 
 

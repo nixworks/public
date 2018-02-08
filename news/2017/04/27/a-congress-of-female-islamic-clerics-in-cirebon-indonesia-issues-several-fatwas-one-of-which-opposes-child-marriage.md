@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/27/a-congress-of-female-islamic-clerics-in-cirebon
 
 ### [2017-04-27](/news/2017/04/27/index.md)
 
-##### muslim cleric
+##### Muslim cleric
 # A congress of female Islamic clerics in Cirebon, Indonesia, issues several fatwas, one of which opposes child marriage. 
 
 Female Islamic clerics in Indonesia declared a series of fatwas Thursday, including one to tackle child marriage, a rare example of women taking a leading religious role in the Muslim-majority country.

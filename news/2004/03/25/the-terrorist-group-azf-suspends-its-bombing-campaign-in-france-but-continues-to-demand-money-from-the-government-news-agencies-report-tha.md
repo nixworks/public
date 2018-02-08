@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/25/the-terrorist-group-azf-suspends-its-bombing-ca
 
 ### [2004-03-25](/news/2004/03/25/index.md)
 
-##### terrorism
+##### Terrorism
 #  The terrorist group AZF suspends its bombing campaign in France but continues to demand money from the government. News agencies report that the government placed notices in "Libration" newspaper to contact the terrorists. 
 
 

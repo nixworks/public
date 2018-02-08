@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/20/a-suicide-bomber-in-iraq-kills-13-policemen-and
 
 ### [2005-06-20](/news/2005/06/20/index.md)
 
-##### suicide-bomb
+##### Suicide-bomb
 #  A Suicide bomber in Iraq kills 13 policemen, and injured more than 100 people, in the city of Irbil, northern Iraq. 
 
 

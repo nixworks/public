@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/24/a-painting-worth-up-to-3-million-euros-by-surre
 
 ### [2009-09-24](/news/2009/09/24/index.md)
 
-##### euro
+##### Euro
 #  A painting worth up to 3 million euros by surrealist artist Rene Magritte is stolen by thieves at a museum in Brussels. 
 
 

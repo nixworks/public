@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/14/a-major-earthquake-strikes-about-80-miles-130-k
 
 ### [2005-06-14](/news/2005/06/14/index.md)
 
-##### earthquake
+##### Earthquake
 #  A major earthquake strikes about 80 miles (130 kilometers) off the coast of northern California on Tuesday night, briefly prompting a tsunami warning along the Pacific coast but with no immediate reports of damages or injuries. 
 
 

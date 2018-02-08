@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/4/france-abolishes-the-legal-differences-between-l
 
 ### [2005-07-4](/news/2005/07/4/index.md)
 
-##### legitimate
+##### Legitimate
 #  France abolishes the legal differences between legitimate and illegitimate children. The decree will take effect July 2006. 
 
 

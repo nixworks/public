@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/30/a-firefight-leaves-3-suspected-militants-and-on
 
 ### [2005-01-30](/news/2005/01/30/index.md)
 
-##### militant
+##### Militant
 #  A firefight leaves 3 suspected militants and one Kuwaiti police officer dead after security forces raid an alleged hideout in Kuwait City. 
 
 

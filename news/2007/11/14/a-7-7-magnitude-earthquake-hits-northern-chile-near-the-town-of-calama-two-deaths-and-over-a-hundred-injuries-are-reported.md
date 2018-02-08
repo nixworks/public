@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/14/a-7-7-magnitude-earthquake-hits-northern-chile-
 
 ### [2007-11-14](/news/2007/11/14/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.7-magnitude earthquake hits northern Chile, near the town of Calama. Two deaths and over a hundred injuries are reported. 
 
 

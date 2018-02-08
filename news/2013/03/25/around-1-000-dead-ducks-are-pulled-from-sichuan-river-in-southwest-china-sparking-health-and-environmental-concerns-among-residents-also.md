@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/25/around-1-000-dead-ducks-are-pulled-from-sichuan
 
 ### [2013-03-25](/news/2013/03/25/index.md)
 
-##### duck
+##### Duck
 # Around 1,000 dead ducks are pulled from Sichuan River in southwest China, sparking health and environmental concerns among residents. Also, more than 16,000 dead pigs have been pulled from Shanghai's Huangpu River over the past two weeks. 
 
 Around 1,000 dead ducks have been pulled from a river in Sichuan, Chinese media report, while the Shanghai river pig toll passes 16,000.

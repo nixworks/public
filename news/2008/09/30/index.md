@@ -11,7 +11,7 @@ To Date, 27 Arrests In China Over Chemically-Tainted Milk Scandal
 ### [ Shares of major Irish banks rise sharply following the announcement of a State guarantee of all deposits in Allied Irish Banks, Bank of Ireland, Anglo Irish Bank, Irish Life & Permanent, Irish Nationwide Building Society and EBS, worth an estimated EUR400 billion. The guarantee includes Bank of Ireland branches in Northern Ireland while the coverage of AIB's subsidiary, First Trust is still under discussion. Deposits in foreign-owned banks remain guaranteed to EUR100,000. ](/news/2008/09/30/shares-of-major-irish-banks-rise-sharply-following-the-announcement-of-a-state-guarantee-of-all-deposits-in-allied-irish-banks-bank-of-ire.md)
 The Irish stock market has reacted positively to the decision by the Government to guarantee all deposits in Irish banks.
 
-##### human stampede
+##### Human stampede
 ### [ 147 people are dead after a human stampede at the Chamunda Hindu temple near Jodhpur in India. ](/news/2008/09/30/147-people-are-dead-after-a-human-stampede-at-the-chamunda-hindu-temple-near-jodhpur-in-india.md)
 At least 147 people died in a stampede at a temple in the Indian desert state of Rajasthan as Hindus gathered to begin one of the most important religious festivals of the year, police said Tuesday.
 

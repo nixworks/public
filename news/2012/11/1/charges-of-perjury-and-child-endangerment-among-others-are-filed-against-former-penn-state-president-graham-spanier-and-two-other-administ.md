@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/1/charges-of-perjury-and-child-endangerment-among-
 
 ### [2012-11-1](/news/2012/11/1/index.md)
 
-##### perjury
+##### Perjury
 # Charges of perjury and child endangerment, among others, are filed against former Penn State President Graham Spanier and two other administrators in connection with the Penn State scandal involving imprisoned former football coach Jerry Sandusky; new charges also are filed against Athletic Director Tim Curley and retired Vice President Gary Schultz, who are already under arrest on perjury and failure to report child abuse charges. 
 
 

@@ -37,7 +37,7 @@ Portugal Ahead pro-austerity coalition under Pedro Passos Coelho took 36.8% of t
 
 ##### Minsk
 ### [In Minsk, about 1,000 opposition activists protest Russia's plans to establish a military air base in Belarus, saying it would turn the former Soviet republic into a Kremlin "vassal" and add to regional tensions. Belarussian President Alexander Lukashenko has refrained from commenting on the initiative to establish the base. ](/news/2015/10/4/in-minsk-about-1-000-opposition-activists-protest-russia-s-plans-to-establish-a-military-air-base-in-belarus-saying-it-would-turn-the-form.md)
-_Context: Belarus, Alexander Lukashenko, Minsk_
+_Context: Minsk, Alexander Lukashenko, Belarus_
 
 ##### Kyrgyzstani parliamentary election, 2015
 ### [Voters in Kyrgyzstan go to the polls with the Social Democratic Party of Kyrgyzstan winning the most votes which will lead to a pro-Russian coalition. ](/news/2015/10/4/voters-in-kyrgyzstan-go-to-the-polls-with-the-social-democratic-party-of-kyrgyzstan-winning-the-most-votes-which-will-lead-to-a-pro-russian.md)

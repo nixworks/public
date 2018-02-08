@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/21/the-suspect-wanted-in-connection-with-the-shoot
 
 ### [2013-03-21](/news/2013/03/21/index.md)
 
-##### shooting
+##### Shooting
 # The suspect wanted in connection with the shooting death of prison chief Tom Clements in Colorado, is believed to be the man that was killed in a shootout with deputies in Montague County, Texas, United States. A deputy was seriously injured in the shootout. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched
 
 ### [2015-12-16](/news/2015/12/16/index.md)
 
-##### election
+##### Election
 # Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. 
 
 TV footage shows young man hitting prime minister on side of head but a party spokesperson said he was not hurt in the incident

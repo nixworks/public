@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/16/strikes-in-france-french-train-drivers-strike-a
 
 ### [2007-11-16](/news/2007/11/16/index.md)
 
-##### public-sector strikes
+##### Public-sector strikes
 #  Strikes in France: French train drivers' strike against President Nicolas Sarkozy's pension reform enters its third day. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/4/a-corporal-in-the-republic-of-korea-marine-corps
 
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-##### corporal
+##### Corporal
 # A corporal in the Republic of Korea Marine Corps goes on a killing spree while on duty at a guard post on South Korea's Ganghwa Island, killing 3 people and injuring 2 others. 
 
 

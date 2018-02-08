@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/20/a-truck-going-from-florida-to-maine-carrying-ab
 
 ### [2014-05-20](/news/2014/05/20/index.md)
 
-##### the state
+##### The state
 # A truck going from Florida to Maine carrying about 1.5 to 2 million bees crashes.
 
 ELLSWORTH, Maine — A truck hauling millions of honeybees north to blueberry barrens owned by Ellsworth-based Allen’s Blueberry Freezer Inc. overturned and unleashed the swarm on Interstate 95 in Delaware Tuesday evening, according to Maine’s state apiarist. “The bees coming up are strong and healthy, and there’s plenty of bees,” [...]

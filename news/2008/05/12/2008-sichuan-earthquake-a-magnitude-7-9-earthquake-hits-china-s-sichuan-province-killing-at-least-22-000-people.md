@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/12/2008-sichuan-earthquake-a-magnitude-7-9-earthqu
 
 ### [2008-05-12](/news/2008/05/12/index.md)
 
-##### deadly earthquake
+##### Deadly earthquake
 #  2008 Sichuan earthquake: A magnitude 7.9 earthquake hits China's Sichuan province, killing at least 22,000 people. 
 
 
@@ -19,4 +19,4 @@ Formats: [HTML](/news/2008/05/12/2008-sichuan-earthquake-a-magnitude-7-9-earthqu
 2. [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-m-w-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md) _Context: China, Sichuan, earthquake_
 3. [ A 6.0 magnitude earthquake strikes Sichuan, China, according to the US Geological Survey. ](/news/2008/08/5/a-6-0-magnitude-earthquake-strikes-sichuan-china-according-to-the-us-geological-survey.md) _Context: China, Sichuan, earthquake_
 4. [ China's Cabinet states that the death toll from the earthquake has reached 62,664. ](/news/2008/05/25/china-s-cabinet-states-that-the-death-toll-from-the-earthquake-has-reached-62-664.md) _Context: China, deadly earthquake, earthquake_
-5. [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 2 people are killed and over 100 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-2-people-are-killed-and-over-100-are.md) _Context: earthquake, magnitude_
+5. [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-7-people-are-killed-and-over-250-are.md) _Context: earthquake, magnitude_

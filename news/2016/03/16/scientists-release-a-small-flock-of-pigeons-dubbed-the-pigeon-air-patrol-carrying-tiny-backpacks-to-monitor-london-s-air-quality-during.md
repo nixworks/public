@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/16/scientists-release-a-small-flock-of-pigeons-dub
 
 ### [2016-03-16](/news/2016/03/16/index.md)
 
-##### pigeons
+##### Pigeons
 # Scientists release a small flock of pigeons, dubbed "The Pigeon Air Patrol", carrying tiny backpacks to monitor London's air quality during a period of moderate to high pollution. The backpacks contain sensors used to measure nitrogen dioxide and ozone levels. 
 
 Lightweight pollution sensors record the nitrogen dioxide and ozone in the air.

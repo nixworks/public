@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/26/scientists-discover-how-fossilized-dung-eating-
 
 ### [2007-03-26](/news/2007/03/26/index.md)
 
-##### fossil
+##### Fossil
 #  Scientists discover how fossilized dung-eating mites can provide vital information on the rise and fall of the Inca civilization in South America. 
 
 

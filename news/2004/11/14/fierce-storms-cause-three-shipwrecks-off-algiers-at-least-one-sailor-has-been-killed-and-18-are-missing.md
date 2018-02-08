@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/14/fierce-storms-cause-three-shipwrecks-off-algier
 
 ### [2004-11-14](/news/2004/11/14/index.md)
 
-##### shipwreck
+##### Shipwreck
 #  Fierce storms cause three shipwrecks off Algiers. At least one sailor has been killed and 18 are missing. 
 
 

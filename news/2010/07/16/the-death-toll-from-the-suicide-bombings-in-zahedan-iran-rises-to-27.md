@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/16/the-death-toll-from-the-suicide-bombings-in-zah
 
 ### [2010-07-16](/news/2010/07/16/index.md)
 
-##### recent bombings
+##### Recent bombings
 # The death toll from the suicide bombings in Zahedan, Iran, rises to 27. 
 
 

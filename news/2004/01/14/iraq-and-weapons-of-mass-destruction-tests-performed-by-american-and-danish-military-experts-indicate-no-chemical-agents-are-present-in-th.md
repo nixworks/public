@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/01/14/iraq-and-weapons-of-mass-destruction-tests-perf
 
 ### [2004-01-14](/news/2004/01/14/index.md)
 
-##### weapons of mass destruction
+##### Weapons of mass destruction
 #  Iraq and weapons of mass destruction: Tests performed by American and Danish military experts indicate no chemical agents are present in the "suspicious" mortar shells discovered in Iraq on January 9.
 
 

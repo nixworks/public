@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/20/at-least-seven-people-die-in-a-bomb-blast-in-th
 
 ### [2007-10-20](/news/2007/10/20/index.md)
 
-##### bomb
+##### Bomb
 #  At least seven people die in a bomb blast in the town of Dera Bugti in the Balochistan province of Pakistan. 
 
 

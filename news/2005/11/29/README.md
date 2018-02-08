@@ -5,7 +5,7 @@ Formats: [HTML](2005/11/29/index.html)  [JSON](2005/11/29/index.json)  [XML](200
 
 ##### 2005 Atlantic hurricane season
 ### [ The 2005 Atlantic hurricane season nears its official end but the 26th named storm of the season, Tropical Storm Epsilon, forms from a non-tropical low east of Bermuda. ](/news/2005/11/29/the-2005-atlantic-hurricane-season-nears-its-official-end-but-the-26th-named-storm-of-the-season-tropical-storm-epsilon-forms-from-a-non.md)
-_Context: 2005 Atlantic hurricane season, Bermuda, Tropical Storm Epsilon_
+_Context: Tropical Storm Epsilon, Bermuda, 2005 Atlantic hurricane season_
 
 ##### Virginia
 ### [ Virginia Governor Mark R. Warner grants clemency in the case of convicted murderer Robin Lovitt. It was about 24 hours before Lovitt was scheduled to be executed. Evidence against Lovitt had been illegally destroyed after his trial by a court clerk, preventing DNA testing that may have cleared him of the crime. Lovitt's execution was to be the 1,000th execution in the United States since the Supreme Court reinstated the death penalty in 1976. ](/news/2005/11/29/virginia-governor-mark-r-warner-grants-clemency-in-the-case-of-convicted-murderer-robin-lovitt-it-was-about-24-hours-before-lovitt-was-sc.md)
@@ -17,27 +17,27 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Government
 ### [ The Government of Lesotho offers all its citizens a free HIV test. Aimed at stopping and reversing the spread of AIDS, this is believed to be the first programme of its kind in the world. ](/news/2005/11/29/the-government-of-lesotho-offers-all-its-citizens-a-free-hiv-test-aimed-at-stopping-and-reversing-the-spread-of-aids-this-is-believed-to.md)
-_Context: AIDS, HIV, Government, Lesotho_
+_Context: Government, AIDS, Lesotho, HIV_
 
 ##### President of the Palestinian Authority
 ### [ President of the Palestinian Authority, Mahmoud Abbas, has cancelled the Fatah Primary Elections after accusations of voter fraud were made. ](/news/2005/11/29/president-of-the-palestinian-authority-mahmoud-abbas-has-cancelled-the-fatah-primary-elections-after-accusations-of-voter-fraud-were-made.md)
-_Context: Fatah, Primary Election, President of the Palestinian Authority, Mahmoud Abbas, electoral fraud_
+_Context: electoral fraud, Fatah, Mahmoud Abbas, Primary Election, President of the Palestinian Authority_
 
 ##### Col.
 ### [ Colonel Lawrence Wilkerson, a top aide to former Secretary of State Colin Powell, accused Vice-President Dick Cheney of ignoring a decision by President Bush on the treatment of prisoners in the war on terror. ](/news/2005/11/29/colonel-lawrence-wilkerson-a-top-aide-to-former-secretary-of-state-colin-powell-accused-vice-president-dick-cheney-of-ignoring-a-decision.md)
-_Context: Dick Cheney, Lawrence Wilkerson, Col., George W. Bush, Colin Powell, war on terror, Vice-President of the United States, Secretary of State_
+_Context: Dick Cheney, war on terror, George W. Bush, Colin Powell, Secretary of State, Vice-President of the United States, Lawrence Wilkerson, Col._
 
-##### bomb
+##### Bomb
 ### [ Two bomb attacks occur in the Bangladeshi cities of Chittagong and Gazipur. Six people are killed and 65 others wounded. ](/news/2005/11/29/two-bomb-attacks-occur-in-the-bangladeshi-cities-of-chittagong-and-gazipur-six-people-are-killed-and-65-others-wounded.md)
-_Context: Gazipur, bomb, Chittagong, Bangladesh_
+_Context: Bangladesh, Gazipur, Chittagong, bomb_
 
 ##### Carl Icahn
 ### [ Activist investor Carl Icahn announces that he has hired Lazard to advise him as he wages a proxy fight for control of Time Warner, the media empire. ](/news/2005/11/29/activist-investor-carl-icahn-announces-that-he-has-hired-lazard-to-advise-him-as-he-wages-a-proxy-fight-for-control-of-time-warner-the-med.md)
-_Context: Carl Icahn, Lazard, Time Warner, proxy fight_
+_Context: Time Warner, Lazard, Carl Icahn, proxy fight_
 
 ##### Canadian federal election, 2006
 ### [ Canadian federal election, 2006 - Canadian Governor General Michalle Jean formally dissolves Parliament, following Prime Minister Paul Martin's loss of a confidence vote, and calls a federal election for January 23, 2006. ](/news/2005/11/29/canadian-federal-election-2006-canadian-governor-general-michaelle-jean-formally-dissolves-parliament-following-prime-minister-paul-mar.md)
-_Context: Canadian federal election, 2006, Governor General, Canadian, Prime Minister, Michalle Jean, Paul Martin, confidence motion_
+_Context: Canadian federal election, 2006, Michalle Jean, Prime Minister, Paul Martin, Governor General, confidence motion, Canadian_
 
 ## [Previous Day...](/news/2005/11/28/index.md)
 

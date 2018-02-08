@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/04/18/a-small-aircraft-crashes-on-the-pirelli-buildin
 
 ### [2002-04-18](/news/2002/04/18/index.md)
 
-##### crashes
+##### Crashes
 #  A small aircraft crashes on the Pirelli building in Milan, Italy, killing two women.
 
 

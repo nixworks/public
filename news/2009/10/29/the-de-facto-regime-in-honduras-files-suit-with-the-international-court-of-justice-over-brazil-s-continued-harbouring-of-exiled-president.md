@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/29/the-de-facto-regime-in-honduras-files-suit-with
 
 ### [2009-10-29](/news/2009/10/29/index.md)
 
-##### political crisis in the country
+##### Political crisis in the country
 #  The "de facto" regime in Honduras files suit with the International Court of Justice over Brazil's continued harbouring of exiled president Manuel Zelaya in its Tegucigalpa embassy. 
 
 

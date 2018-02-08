@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashm
 
 ### [2014-07-21](/news/2014/07/21/index.md)
 
-##### ravine
+##### Ravine
 # A bus crashes into a ravine in Pakistan's Kashmir region killing 16 people with 37 others injured. 
 
 

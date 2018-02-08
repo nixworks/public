@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/8/a-ban-on-tobacco-smoking-in-public-places-begins
 
 ### [2005-02-8](/news/2005/02/8/index.md)
 
-##### tobacco
+##### Tobacco
 #  A ban on tobacco smoking in public places begins in Cuba. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/4/papal-conclave-2013-more-than-100-roman-catholic
 
 ### [2013-03-4](/news/2013/03/4/index.md)
 
-##### conclave
+##### Conclave
 # Papal conclave, 2013: More than 100 Roman Catholic cardinals meet in Rome to start the process of selecting a successor to Pope Benedict XVI. 
 
 

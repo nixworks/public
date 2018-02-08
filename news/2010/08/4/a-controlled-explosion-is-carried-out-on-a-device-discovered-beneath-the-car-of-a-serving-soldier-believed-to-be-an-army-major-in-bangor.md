@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/4/a-controlled-explosion-is-carried-out-on-a-devic
 
 ### [2010-08-4](/news/2010/08/4/index.md)
 
-##### major
+##### Major
 # A controlled explosion is carried out on a device discovered beneath the car of a serving soldier, believed to be an army major, in Bangor, County Down in Northern Ireland. 
 
 

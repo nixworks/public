@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/8/eight-children-are-killed-and-a-further-26-injur
 
 ### [2009-12-8](/news/2009/12/8/index.md)
 
-##### stampede
+##### Stampede
 #  Eight children are killed and a further 26 injured in a stampede at a school in Xiangtan, Hunan, in central China. 
 
 

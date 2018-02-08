@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/24/the-discovery-of-the-sauropod-genus-abydosaurus
 
 ### [2010-02-24](/news/2010/02/24/index.md)
 
-##### sauropod
+##### Sauropod
 # The discovery of the sauropod genus "Abydosaurus" is announced. 
 
 FOSSIL HUNTERS have done it again, unearthing a previously unknown species of dinosaur

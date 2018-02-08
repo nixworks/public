@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/5/scientists-uncover-evidence-that-humans-lived-in
 
 ### [2005-07-5](/news/2005/07/5/index.md)
 
-##### humans lived in the Americas
+##### Humans lived in the Americas
 #  Scientists uncover evidence that humans lived in the Americas 45,000 years ago, 30,000 years earlier than previously thought. 
 
 

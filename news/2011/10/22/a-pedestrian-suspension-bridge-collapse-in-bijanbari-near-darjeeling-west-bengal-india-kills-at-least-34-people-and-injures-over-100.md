@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/22/a-pedestrian-suspension-bridge-collapse-in-bija
 
 ### [2011-10-22](/news/2011/10/22/index.md)
 
-##### suspension bridge
+##### Suspension bridge
 # A pedestrian suspension bridge collapse in Bijanbari, near Darjeeling, West Bengal, India, kills at least 34 people and injures over 100. 
 
 

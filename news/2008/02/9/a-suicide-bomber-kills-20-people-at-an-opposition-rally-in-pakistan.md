@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/02/9/a-suicide-bomber-kills-20-people-at-an-oppositio
 
 ### [2008-02-9](/news/2008/02/9/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber kills 20 people at an opposition rally in Pakistan. 
 
 

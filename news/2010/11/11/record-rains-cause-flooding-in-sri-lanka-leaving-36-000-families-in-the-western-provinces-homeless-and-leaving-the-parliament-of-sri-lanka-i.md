@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/11/record-rains-cause-flooding-in-sri-lanka-leavin
 
 ### [2010-11-11](/news/2010/11/11/index.md)
 
-##### flood
+##### Flood
 # Record rains cause flooding in Sri Lanka leaving 36,000 families in the western provinces homeless and leaving the Parliament of Sri Lanka in Colombo under four feet of water. 
 
 

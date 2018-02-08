@@ -33,7 +33,7 @@ A Bay Area commuter train en route to Stockton derailed Monday night, authoritie
 
 ##### South Korea-United States relations
 ### [South Korea and the United States start a joint military exercise as North Korea repeats threats of "indiscriminate" nuclear strikes. ](/news/2016/03/7/south-korea-and-the-united-states-start-a-joint-military-exercise-as-north-korea-repeats-threats-of-indiscriminate-nuclear-strikes.md)
-_Context: South Korea-United States relations, South Korea, United States, North Korea_
+_Context: United States, South Korea-United States relations, North Korea, South Korea_
 
 ##### Israeli-Palestinian conflict
 ### [Indonesian President Joko "Jokowi" Widodo calls on Muslim leaders at the Organisation of Islamic Cooperation (OIC) summit meeting in Jakarta to unite and be part of the solution on Palestine, noting the entire world is concerned about its deteriorating situation. Jokowi also criticizes what he calls Israel's "unilateral and illegal policies." ](/news/2016/03/7/indonesian-president-joko-ajokowia-widodo-calls-on-muslim-leaders-at-the-organisation-of-islamic-cooperation-oic-summit-meeting-in-jak.md)
@@ -71,7 +71,7 @@ _Context: peephole, Erin Andrews, Internet_
 ### [Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-because-of-the-impact-his-candidacy-might-have.md)
 The former mayor of New York City revealed his decision in a column for Bloomberg View
 
-##### peer-reviewed
+##### Peer-reviewed
 ### [Research, published in the peer-reviewed scientific journal "Nature Geoscience", confirms that Mercury's darker than expected crusty exterior is from carbon, likely the remains of the planet's ancient surface crust of graphite, rather than carbon dust from comet impacts as previously postulated. ](/news/2016/03/7/research-published-in-the-peer-reviewed-scientific-journal-nature-geoscience-confirms-that-mercury-s-darker-than-expected-crusty-exterio.md)
 Mercury may have comet dust to thank for its dark appearance.
 

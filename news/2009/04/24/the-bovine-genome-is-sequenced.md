@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/24/the-bovine-genome-is-sequenced.html)  [JSON](/n
 
 ### [2009-04-24](/news/2009/04/24/index.md)
 
-##### bovine genome
+##### Bovine genome
 #  The bovine genome is sequenced. 
 
 

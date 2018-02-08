@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/2/a-judge-declines-to-throw-out-the-case-against-a
 
 ### [2013-03-2](/news/2013/03/2/index.md)
 
-##### judge
+##### Judge
 # A judge declines to throw out the case against actress Lindsay Lohan in which she is accused of lying to a California police officer after a car accident in 2012. 
 
 

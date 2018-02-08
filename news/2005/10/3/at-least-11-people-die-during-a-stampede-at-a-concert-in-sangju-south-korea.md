@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/10/3/at-least-11-people-die-during-a-stampede-at-a-co
 
 ### [2005-10-3](/news/2005/10/3/index.md)
 
-##### stampede
+##### Stampede
 #  At least 11 people die during a stampede at a concert in Sangju, South Korea. 
 
 

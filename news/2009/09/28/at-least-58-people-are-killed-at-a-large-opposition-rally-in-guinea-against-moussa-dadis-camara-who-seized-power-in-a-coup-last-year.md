@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposi
 
 ### [2009-09-28](/news/2009/09/28/index.md)
 
-##### massacre of opposition protesters
+##### Massacre of opposition protesters
 #  At least 58 people are killed at a large opposition rally in Guinea against Moussa Dadis Camara who seized power in a coup last year. 
 
 Security forces open fire on opposition supporters in capital, human rights group says.

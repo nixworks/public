@@ -11,7 +11,7 @@ More Syrians have been killed in the three weeks since peace talks began than at
 ### [Militants in northwestern Pakistan kill nine male family members of a slain leader of a pro-government militia in an attack on the family's house outside the city of Peshawar. ](/news/2014/02/12/militants-in-northwestern-pakistan-kill-nine-male-family-members-of-a-slain-leader-of-a-pro-government-militia-in-an-attack-on-the-family-s.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### measles
+##### Measles
 ### [A measles outbreak from the Philippines has spread into Australia, Canada, Taiwan, and the United Kingdom. ](/news/2014/02/12/a-measles-outbreak-from-the-philippines-has-spread-into-australia-canada-taiwan-and-the-united-kingdom.md)
 While the measles outbreak in the Philippines is already stemmed, Canada is just beginning to experience the viral disease. 
 
@@ -23,13 +23,13 @@ Man dies as winds gusting over 100mph lash parts of the UK in what the assistant
 ### [As the North American cold wave continues, a massive winter storm across states in the southern United States causes widespread power outages, travel disruptions and dangerous road conditions. ](/news/2014/02/12/as-the-north-american-cold-wave-continues-a-massive-winter-storm-across-states-in-the-southern-united-states-causes-widespread-power-outage.md)
 Utilities were expected to continue struggling as everything re-freezes overnight.
 
-##### sinkhole
+##### Sinkhole
 ### [A sinkhole opens underneath the National Corvette Museum in Bowling Green, Kentucky, swallowing 8 vintage Corvettes including the millionth Corvette built. ](/news/2014/02/12/a-sinkhole-opens-underneath-the-national-corvette-museum-in-bowling-green-kentucky-swallowing-8-vintage-corvettes-including-the-millionth.md)
 A 40-foot sinkhole developed inside the National Corvette Museum overnight in Bowling Green, KY, swallowing up eight vehicles, including two Corvette models on loan from General Motors. No one was in the museum at the time of the incident, which happened early this morning.
 
 ##### French President
 ### [French President Franois Hollande is hosted by US President Barack Obama at a White House state dinner, during a visit by Hollande to the US aimed at renewing the partnership between the two countries. ](/news/2014/02/12/french-president-francois-hollande-is-hosted-by-us-president-barack-obama-at-a-white-house-state-dinner-during-a-visit-by-hollande-to-the-u.md)
-_Context: White House state dinner, French President, Franois Hollande, Barack Obama, US President, renewing the partnership_
+_Context: US President, Franois Hollande, renewing the partnership, White House state dinner, French President, Barack Obama_
 
 ##### Garbage
 ### [Garbage from Canada is discovered to be being dumped in the Philippines. ](/news/2014/02/12/garbage-from-canada-is-discovered-to-be-being-dumped-in-the-philippines.md)
@@ -37,7 +37,7 @@ _Context: dumped, Garbage_
 
 ##### $
 ### [The Philippines recovers US $29 million from Ferdinand Marcos' bank accounts in Switzerland and Singapore. ](/news/2014/02/12/the-philippines-recovers-us-29-million-from-ferdinand-marcos-bank-accounts-in-switzerland-and-singapore.md)
-_Context: Singapore, Ferdinand Marcos, Switzerland, $_
+_Context: Switzerland, Singapore, $, Ferdinand Marcos_
 
 ##### Conservative Party
 ### [The BBC is told that the UK's three main political parties, the Conservatives, Labour and the Liberal Democrats, will declare that whoever forms the government after the next general election will not agree to a currency union with an independent Scotland. ](/news/2014/02/12/the-bbc-is-told-that-the-uk-s-three-main-political-parties-the-conservatives-labour-and-the-liberal-democrats-will-declare-that-whoever-f.md)

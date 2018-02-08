@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/26/peacekeeping-forces-in-egypt-were-attacked-outs
 
 ### [2006-04-26](/news/2006/04/26/index.md)
 
-##### peacekeepers
+##### Peacekeepers
 #  Peacekeeping Forces in Egypt were attacked outside the Nile Delta by two suicide bombers. No casualties. 
 
 

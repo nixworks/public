@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/16/travel-chaos-spreads-across-europe-as-planes-ar
 
 ### [2010-04-16](/news/2010/04/16/index.md)
 
-##### volcanic ash problems
+##### Volcanic ash problems
 # Travel chaos spreads across Europe as planes are grounded in the United Kingdom, Norway, Sweden, Finland and Russia as a result of the giant cloud of ash coming across from Iceland. 
 
 Irish airspace reopened and transatlantic flights from Dublin resumed earlier today, but severe disruptions continued.

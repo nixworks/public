@@ -3,7 +3,7 @@ Formats: [HTML](/news/2001/10/23/the-ipod-is-first-introduced-by-apple.html)  [J
 
 ### [2001-10-23](/news/2001/10/23/index.md)
 
-##### iPod
+##### IPod
 #  The iPod is first introduced by Apple.
 
 

@@ -11,7 +11,7 @@ At least four soldiers die in renewed fighting on the Thai-Cambodia border, brin
 ### [2011 Syrian protests:At least twelve people are killed by security forces during funerals. ](/news/2011/04/23/2011-syrian-protests-at-least-twelve-people-are-killed-by-security-forces-during-funerals.md)
 NATO carried out another series of air strikes on Tripoli early Saturday, Libyan government officials said.
 
-##### guest list
+##### Guest list
 ### [The guest list for the wedding of Prince William and Catherine Middleton is announced. ](/news/2011/04/23/the-guest-list-for-the-wedding-of-prince-william-and-catherine-middleton-is-announced.md)
 _Context: guest list, wedding of Prince William and Catherine Middleton_
 

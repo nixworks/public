@@ -27,7 +27,7 @@ The agreement comes as upscale American brands grapple with plummeting sales and
 ### [Following a similar move in France, the United Kingdom is to ban the sale of petrol and diesel cars by 2040 in order to reduce air pollution. A new tax will also be levied on diesel car drivers in 2020. ](/news/2017/07/25/following-a-similar-move-in-france-the-united-kingdom-is-to-ban-the-sale-of-petrol-and-diesel-cars-by-2040-in-order-to-reduce-air-pollution.md)
 The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel drivers from 2020.
 
-##### wildfire
+##### Wildfire
 ### [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md)
 Hundreds&#x20;of&#x20;firefighters&#x20;were&#x20;battling&#x20;blazes&#x20;across&#x20;southern&#x20;France&#x20;on&#x20;Monday,&#x20;with&#x20;one&#x20;inferno&#x20;spreading&#x20;across&#x20;900&#x20;hectares&#x20;of&#x20;forest&#x20;and&#x20;threatening&#x20;homes&#x20;on&#x20;the&#x20;island&#x...
 

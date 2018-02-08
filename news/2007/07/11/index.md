@@ -13,15 +13,15 @@ South Dakota carried out its first execution in 60 years on Wednesday, putting t
 
 ##### British Museum
 ### [ The British Museum states that the Nebo-Sarsekim Tablet, a clay tablet dating from 695 BC, contains a cuneiform inscription confirming the existence of a figure mentioned in the Old Testament. ](/news/2007/07/11/the-british-museum-states-that-the-nebo-sarsekim-tablet-a-clay-tablet-dating-from-695-bc-contains-a-cuneiform-inscription-confirming-the.md)
-_Context: clay tablet, 695 BC, cuneiform, Nebo-Sarsekim Tablet, Old Testament, British Museum_
+_Context: 695 BC, Old Testament, British Museum, Nebo-Sarsekim Tablet, cuneiform, clay tablet_
 
 ##### Pakistan Army
 ### [ The Pakistan Army claims that Operation Silence at the Lal Masjid is in its final stages and that 95% of the complex is under its control. It has found the bodies of 73 militants. ](/news/2007/07/11/the-pakistan-army-claims-that-operation-silence-at-the-lal-masjid-is-in-its-final-stages-and-that-95-of-the-complex-is-under-its-control.md)
-_Context: Pakistan Army, Operation Silence, Lal Masjid_
+_Context: Operation Silence, Lal Masjid, Pakistan Army_
 
 ##### 21 July 2005 London bombings
 ### [ Four people who carried out failed suicide bombings in London are jailed for life, with no chance of release for at least 40 years. In passing the sentence, the judge ruled that the plot was "part of an al-Qaida inspired and controlled sequence of attacks", although the British government has always claimed the attacks were "home grown", and not connected to al-Qaida. ](/news/2007/07/11/four-people-who-carried-out-failed-suicide-bombings-in-london-are-jailed-for-life-with-no-chance-of-release-for-at-least-40-years-in-pass.md)
-_Context: al-Qaida, 21 July 2005 London bombings_
+_Context: 21 July 2005 London bombings, al-Qaida_
 
 ##### Indonesia
 ### [ Indonesia evacuates thousands of people living near Mount Gamkonora as it appears likely to explode. ](/news/2007/07/11/indonesia-evacuates-thousands-of-people-living-near-mount-gamkonora-as-it-appears-likely-to-explode.md)
@@ -29,11 +29,11 @@ An official in Indonesia says Mount Gamkonora, in the east of the country, has s
 
 ##### Philippines
 ### [ 14 Philippines Marines are killed by insurgents in fighting. ](/news/2007/07/11/14-philippines-marines-are-killed-by-insurgents-in-fighting.md)
-_Context: Philippines, killed by insurgents_
+_Context: killed by insurgents, Philippines_
 
 ##### Libya
 ### [ The Supreme Court of Libya upholds the death penalty for the six Bulgarian medics and one Palestinian doctor accused of infecting children with HIV. ](/news/2007/07/11/the-supreme-court-of-libya-upholds-the-death-penalty-for-the-six-bulgarian-medics-and-one-palestinian-doctor-accused-of-infecting-children.md)
-_Context: sentenced to death, Libya, Palestinian, HIV trial in Libya, Bulgaria_
+_Context: Palestinian, HIV trial in Libya, Libya, Bulgaria, sentenced to death_
 
 ##### China
 ### [ The People's Republic of China bans diethylene glycol as an ingredient in toothpaste. ](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.md)
@@ -41,7 +41,7 @@ China has banned the use in toothpaste of a chemical linked to the recall of Chi
 
 ##### Chile
 ### [ A Chilean court rejects the extradition of former Peruvian President Alberto Fujimori. ](/news/2007/07/11/a-chilean-court-rejects-the-extradition-of-former-peruvian-president-alberto-fujimori.md)
-_Context: extradition, President, Peru, Chile, Alberto Fujimori_
+_Context: extradition, Chile, Peru, President, Alberto Fujimori_
 
 ## [Previous Day...](/news/2007/07/10/index.md)
 

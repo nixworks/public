@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/9/sectarian-violence-in-iraq-40-sunni-civilians-ar
 
 ### [2006-07-9](/news/2006/07/9/index.md)
 
-##### sectarian conflict
+##### Sectarian conflict
 #  Sectarian violence in Iraq: 40 Sunni civilians are massacred by Shia militiamen in Baghdad. 
 
 

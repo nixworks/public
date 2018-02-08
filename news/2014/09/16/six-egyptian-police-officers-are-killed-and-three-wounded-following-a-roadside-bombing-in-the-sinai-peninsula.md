@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/09/16/six-egyptian-police-officers-are-killed-and-thr
 
 ### [2014-09-16](/news/2014/09/16/index.md)
 
-##### police officers
+##### Police officers
 # Six Egyptian police officers are killed and three wounded following a roadside bombing in the Sinai peninsula. 
 
 Six Egyptian policemen have been killed by a roadside bomb in the Sinai peninsula, the interior ministry says.

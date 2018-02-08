@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/9/reports-of-irregularities-in-the-votes-for-the-2
 
 ### [2004-11-9](/news/2004/11/9/index.md)
 
-##### irregularities
+##### Irregularities
 #  Reports of "'irregularities"' in the votes for the "'2004 Presidential election"' emerge. Reports of voting machine error and electoral fraud center on Ohio and Florida.
 
 

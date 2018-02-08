@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/19/during-one-of-the-most-intense-thunderstorms-in
 
 ### [2005-08-19](/news/2005/08/19/index.md)
 
-##### thunderstorms
+##### Thunderstorms
 #  During one of the most intense thunderstorms in Toronto, Canada, a very heavy downpour of rain caused widespread flooding in the Greater Toronto Area and on the major freeway leading into downtown Toronto, the Don Valley Parkway. Damage is estimated at at least CAN$ 500,000,000.
 
 

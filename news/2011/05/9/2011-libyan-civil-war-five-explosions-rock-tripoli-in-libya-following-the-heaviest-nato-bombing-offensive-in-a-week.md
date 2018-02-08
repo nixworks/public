@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/9/2011-libyan-civil-war-five-explosions-rock-tripo
 
 ### [2011-05-9](/news/2011/05/9/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: Five explosions rock Tripoli in Libya following the heaviest NATO bombing offensive in a week. 
 
 

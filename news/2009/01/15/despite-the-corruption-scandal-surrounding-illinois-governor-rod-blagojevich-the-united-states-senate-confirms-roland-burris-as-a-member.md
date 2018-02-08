@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/15/despite-the-corruption-scandal-surrounding-illi
 
 ### [2009-01-15](/news/2009/01/15/index.md)
 
-##### corruption
+##### Corruption
 #  Despite the corruption scandal surrounding Illinois Governor Rod Blagojevich, the United States Senate confirms Roland Burris as a member. 
 
 

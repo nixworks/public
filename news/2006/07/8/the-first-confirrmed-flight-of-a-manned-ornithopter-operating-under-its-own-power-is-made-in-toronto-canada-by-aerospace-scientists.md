@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/8/the-first-confirrmed-flight-of-a-manned-ornithop
 
 ### [2006-07-8](/news/2006/07/8/index.md)
 
-##### ornithopter
+##### Ornithopter
 #  The first confirrmed flight of a manned ornithopter operating under its own power is made in Toronto, Canada by aerospace scientists. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/17/four-oil-companies-announce-a-plan-to-supply-eu
 
 ### [2009-05-17](/news/2009/05/17/index.md)
 
-##### oil companies
+##### Oil companies
 #  Four oil companies announce a plan to supply Europe with natural gas from Kurdistan, Iraq, via the Nabucco pipeline. 
 
 

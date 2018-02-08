@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/11/6/anti-semitism-with-approval-of-official-state-ce
 
 ### [2002-11-6](/news/2002/11/6/index.md)
 
-##### anti-Semitic
+##### Anti-Semitic
 # Anti-Semitism: With approval of official state censors, Egyptian television broadcast the first episode of a miniseries, "Horseman Without a Horse", based upon the debunked "Protocols of the Elders of Zion". It airs at the hour that Egyptian families gather together to break their fast during the fasting month of Ramadan.
 
 

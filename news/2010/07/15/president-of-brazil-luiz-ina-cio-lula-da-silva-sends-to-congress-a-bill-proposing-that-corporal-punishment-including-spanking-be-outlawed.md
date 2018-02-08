@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/15/president-of-brazil-luiz-ina-cio-lula-da-silva-
 
 ### [2010-07-15](/news/2010/07/15/index.md)
 
-##### president
+##### President
 # President of Brazil Luiz Inacio Lula da Silva sends to Congress a bill proposing that corporal punishment, including spanking, be outlawed. 
 
 

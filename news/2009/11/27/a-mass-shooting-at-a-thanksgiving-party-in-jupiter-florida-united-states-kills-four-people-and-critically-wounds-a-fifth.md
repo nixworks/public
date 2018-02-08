@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/27/a-mass-shooting-at-a-thanksgiving-party-in-jupi
 
 ### [2009-11-27](/news/2009/11/27/index.md)
 
-##### shooting
+##### Shooting
 #  A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. 
 
 

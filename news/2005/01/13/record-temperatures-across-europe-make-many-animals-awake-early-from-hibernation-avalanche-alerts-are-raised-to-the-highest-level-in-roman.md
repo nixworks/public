@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/01/13/record-temperatures-across-europe-make-many-ani
 
 ### [2005-01-13](/news/2005/01/13/index.md)
 
-##### hibernation
+##### Hibernation
 #  Record temperatures across Europe make many animals awake early from hibernation. Avalanche alerts are raised to the highest level in Romania and Austria. 
 
 

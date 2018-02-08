@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/24/at-least-30-suspected-al-qaeda-militants-are-ki
 
 ### [2009-12-24](/news/2009/12/24/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  At least 30 suspected Al-Qaeda militants are killed in an airstrike in Shabwah Governorate, Yemen. 
 
 

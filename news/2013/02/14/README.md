@@ -7,17 +7,17 @@ Formats: [HTML](2013/02/14/index.html)  [JSON](2013/02/14/index.json)  [XML](201
 ### [A 16-year-old child is shot dead at close range in Al-Daih, a village west of Manama, Bahrain. ](/news/2013/02/14/a-16-year-old-child-is-shot-dead-at-close-range-in-al-daih-a-village-west-of-manama-bahrain.md)
 Teenager and policeman killed during rallies to mark two years of anti-government protests, activists and officials say.
 
-##### state police
+##### State police
 ### [Four police officers are killed and five injured after a suicide bombing in the Russian republic of Dagestan. ](/news/2013/02/14/four-police-officers-are-killed-and-five-injured-after-a-suicide-bombing-in-the-russian-republic-of-dagestan.md)
 Four police officers have been killed and five others were injured when a vehicle exploded at a road police post in Russia’s Republic of Dagestan. The explosion happened during a routine road inspection.
 
-##### eurozone
+##### Eurozone
 ### [The eurozone slides into deeper recession, making 2012 the first year with no growth in any quarter since tracking began in 1995. Economic experts, who had not expected this, say that 2013's "early indicators are all pointing upwards". ](/news/2013/02/14/the-eurozone-slides-into-deeper-recession-making-2012-the-first-year-with-no-growth-in-any-quarter-since-tracking-began-in-1995-economic-e.md)
 The euro zone slipped deeper into recession in the last three months of 2012 after its largest economies shrank markedly at the&hellip;
 
 ##### Economy of Japan
 ### [The Economy of Japan declined by 0.4% from October to December 2012 indicating that Japan is still in a recession. ](/news/2013/02/14/the-economy-of-japan-declined-by-0-4-from-october-to-december-2012-indicating-that-japan-is-still-in-a-recession.md)
-_Context: Japan, Economy of Japan, recession_
+_Context: Japan, recession, Economy of Japan_
 
 ##### US Airways
 ### [US Airways and the bankrupt American Airlines announce a merger to form the world's largest air carrier trading as American Airlines. ](/news/2013/02/14/us-airways-and-the-bankrupt-american-airlines-announce-a-merger-to-form-the-world-s-largest-air-carrier-trading-as-american-airlines.md)
@@ -27,11 +27,11 @@ Would create world&rsquo;s largest airline, one of four big carriers with combin
 ### [Warren Buffett and Jorge Paulo Lemann announce that they are allying to buy H. J. Heinz Company for $28 billion. ](/news/2013/02/14/warren-buffett-and-jorge-paulo-lemann-announce-that-they-are-allying-to-buy-h-j-heinz-company-for-28-billion.md)
 Warren Buffett and Brazilian financier Jorge Paulo Lemann are teaming up to buy ketchup maker H.J. Heinz Co for $23.2 billion, in what could be the first step of a wave of mergers for the food and beverage industry.
 
-##### avalanche
+##### Avalanche
 ### [Two people are killed and a third injured following an avalanche in the Scottish Highlands. ](/news/2013/02/14/two-people-are-killed-and-a-third-injured-following-an-avalanche-in-the-scottish-highlands.md)
 A man and a woman die and a man is critically injured after being caught in an avalanche in the Highlands of Scotland.
 
-##### horses for meat
+##### Horses for meat
 ### [German authorities find horse meat in lasagne sold in Germany, as in Italy further tests will be conducted soon. ](/news/2013/02/14/german-authorities-find-horse-meat-in-lasagne-sold-in-germany-as-in-italy-further-tests-will-be-conducted-soon.md)
 Germany is the latest country to report horsemeat DNA in processed beef, as authorities across the EU are told to conduct tests.
 
@@ -49,7 +49,7 @@ Businessman Denis O&#39;Brien has been awarded €150,000 by a jury at the High 
 
 ##### Republican
 ### [Republican Senators filibuster the nomination of Chuck Hagel as US Secretary of Defence. ](/news/2013/02/14/republican-senators-filibuster-the-nomination-of-chuck-hagel-as-us-secretary-of-defence.md)
-_Context: Senator, filibuster, Republican, Chuck Hagel, United States Secretary of Defence_
+_Context: Senator, Republican, United States Secretary of Defence, filibuster, Chuck Hagel_
 
 ##### Large Hadron Collider
 ### [The Large Hadron Collider (LHC) will switch off for two years, giving time for engineers and scientists to install upgrades to the machine. ](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.md)

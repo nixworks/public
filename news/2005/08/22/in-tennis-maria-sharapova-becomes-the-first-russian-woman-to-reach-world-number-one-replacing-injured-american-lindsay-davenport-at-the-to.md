@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/22/in-tennis-maria-sharapova-becomes-the-first-rus
 
 ### [2005-08-22](/news/2005/08/22/index.md)
 
-##### tennis
+##### Tennis
 #  In tennis, Maria Sharapova becomes the first Russian woman to reach world number one replacing injured American Lindsay Davenport at the top of the WTA rankings. 
 
 

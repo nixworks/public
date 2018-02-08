@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/8/genetic-tests-show-that-the-genus-giraffa-previo
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
-##### genus
+##### Genus
 # Genetic tests show that the genus giraffa, previously thought to contain one extant species, actually consists of four. 
 
 

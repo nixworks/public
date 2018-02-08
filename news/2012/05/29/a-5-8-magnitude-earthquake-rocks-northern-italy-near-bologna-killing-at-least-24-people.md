@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/29/a-5-8-magnitude-earthquake-rocks-northern-italy
 
 ### [2012-05-29](/news/2012/05/29/index.md)
 
-##### earthquake
+##### Earthquake
 # A 5.8-magnitude earthquake rocks northern Italy near Bologna, killing at least 24 people. 
 
 At least 17 people killed and others trapped under rubble as 5.8-magnitude quake and aftershocks rattle northern Italy.

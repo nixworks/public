@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/17/2011-libyan-civil-war-forces-loyal-to-deposed-l
 
 ### [2011-09-17](/news/2011/09/17/index.md)
 
-##### civil war
+##### Civil war
 # 2011 Libyan civil war: forces loyal to deposed Libyan dictator Muammar Gaddafi launch a counter-attack against opposition fighters in the towns of Bani Walid and Sirte. 
 
 Fighting comes as NTC offers last chance to loyalists of deposed leader to join its ranks or be accused of treason.

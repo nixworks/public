@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/16/two-suspected-al-qaeda-members-and-two-governme
 
 ### [2012-10-16](/news/2012/10/16/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Two suspected al-Qaeda members and two government-aligned tribesmen are killed during an attack on a border checkpoint in Abyan, Yemen. 
 
 Two al Qaeda militants and two tribesmen allied to the army were killed in an attack on a military checkpoint in southern Yemen, tribal sources said on Tuesday.

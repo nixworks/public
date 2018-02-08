@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/23/in-the-equatorial-pacific-ocean-a-sea-launch-ze
 
 ### [2005-06-23](/news/2005/06/23/index.md)
 
-##### equator
+##### Equator
 #  In the equatorial Pacific Ocean, a Sea Launch Zenit-3SL rocket lifts off at 1403 GMT, and successfully places its payload, the 12,125-pound Intelsat Americas 8 satellite, in orbit. 
 
 

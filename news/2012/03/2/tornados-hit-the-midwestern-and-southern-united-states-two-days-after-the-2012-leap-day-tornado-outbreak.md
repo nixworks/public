@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/2/tornados-hit-the-midwestern-and-southern-united-
 
 ### [2012-03-2](/news/2012/03/2/index.md)
 
-##### tornadoes
+##### Tornadoes
 # Tornados hit the midwestern and southern United States two days after the 2012 Leap Day tornado outbreak. 
 
 At least 28 people are killed in the US states of Indiana, Kentucky and Ohio, as storms and tornadoes sweep across vast parts of the Midwest.

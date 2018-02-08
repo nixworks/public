@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/5/a-shooting-at-a-daycare-kills-two-people-in-gati
 
 ### [2013-04-5](/news/2013/04/5/index.md)
 
-##### daycare
+##### Daycare
 # A shooting at a daycare kills two people in Gatineau, Quebec, Canada. 
 
 Police in Gatineau, Que., have identified one of two men who were found dead after a shooting at a daycare on Friday morning.

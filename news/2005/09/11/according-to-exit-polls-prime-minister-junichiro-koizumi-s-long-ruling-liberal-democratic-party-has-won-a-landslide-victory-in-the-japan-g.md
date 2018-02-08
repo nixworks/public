@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/09/11/according-to-exit-polls-prime-minister-junichir
 
 ### [2005-09-11](/news/2005/09/11/index.md)
 
-##### exit poll
+##### Exit poll
 #  According to exit polls, Prime Minister Junichiro Koizumi's long-ruling Liberal Democratic Party has won a landslide victory in the Japan general election, 2005. Democratic Party leader Katsuya Okada concedes defeat and announces his resignation as party leader. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

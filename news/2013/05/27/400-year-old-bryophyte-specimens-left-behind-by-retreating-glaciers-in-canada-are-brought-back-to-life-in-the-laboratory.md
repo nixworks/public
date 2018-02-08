@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/27/400-year-old-bryophyte-specimens-left-behind-by
 
 ### [2013-05-27](/news/2013/05/27/index.md)
 
-##### bryophyte
+##### Bryophyte
 # 400-year-old bryophyte specimens left behind by retreating glaciers in Canada are brought back to life in the laboratory. 
 
 Plants covered over by glaciers centuries ago have been seen sprouting new growth, a find with implications for how ecosystems recover from ice ages.

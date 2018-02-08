@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/29/an-explosion-occurs-close-to-the-main-bazaar-in
 
 ### [2004-03-29](/news/2004/03/29/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion occurs close to the main bazaar in Tashkent, Uzbekistan, killing two and injuring around twenty; preliminary reports point to two female suicide bombers. Also in the capital, three police officers are shot dead; and, in the city of Bukhara, another explosion at a suspected terrorist bomb factory claims ten fatalities. 
 
 

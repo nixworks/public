@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/25/a-bribery-case-against-former-prime-minister-of
 
 ### [2012-02-25](/news/2012/02/25/index.md)
 
-##### bribes
+##### Bribes
 # A bribery case against former Prime Minister of Italy Silvio Berlusconi is dismissed due to the statute of limitations having expired. 
 
 An Italian court has thrown out bribery charges against former prime minister Silvio Berlusconi, saying the statute of limitations meant the long-running trial had run out of time.

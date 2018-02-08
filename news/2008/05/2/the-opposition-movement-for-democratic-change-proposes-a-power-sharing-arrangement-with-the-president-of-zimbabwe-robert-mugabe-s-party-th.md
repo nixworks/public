@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/2/the-opposition-movement-for-democratic-change-pr
 
 ### [2008-05-2](/news/2008/05/2/index.md)
 
-##### run-off presidential election
+##### Run-off presidential election
 #  The opposition Movement for Democratic Change proposes a power sharing arrangement with the President of Zimbabwe Robert Mugabe's party, the Zimbabwe African National Union, but not involving Mugabe. 
 
 

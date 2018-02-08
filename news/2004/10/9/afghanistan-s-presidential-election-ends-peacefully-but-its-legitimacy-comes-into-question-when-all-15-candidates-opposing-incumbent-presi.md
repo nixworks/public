@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/9/afghanistan-s-presidential-election-ends-peacefu
 
 ### [2004-10-9](/news/2004/10/9/index.md)
 
-##### presidential election
+##### Presidential election
 #  Afghanistan's presidential election ends peacefully, but its legitimacy comes into question when all 15 candidates opposing incumbent president Hamid Karzai withdraw, alleging that election irregularities had invalidated the vote. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/10/the-government-of-japan-extends-economic-sancti
 
 ### [2007-04-10](/news/2007/04/10/index.md)
 
-##### government
+##### Government
 #  The government of Japan extends economic sanctions against the North Korean government by an additional six months, citing a lack of progress in resolving kidnapping cases of Japanese citizens. 
 
 

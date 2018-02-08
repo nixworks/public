@@ -11,7 +11,7 @@ Leaked US diplomatic messages show Pakistani military requested more drone strik
 ### [2011-2012 Syrian uprising:Several people are killed and dozens of others are injured in Homs as Syrian security forces attack the funeral of protesters killed in yesterday's protest events during the country's uprising against the regime. ](/news/2011/05/21/2011a2012-syrian-uprising-several-people-are-killed-and-dozens-of-others-are-injured-in-homs-as-syrian-security-forces-attack-the-funeral.md)
 At least 11 dead and 27 injured in Homs, activists say, as thousands attend funerals for those killed on Friday.
 
-##### clash
+##### Clash
 ### [2011-2012 Spanish protests: Thousands of people defy a government ban on gatherings to protest across the country against the Spanish government's economic policies. ](/news/2011/05/21/2011a2012-spanish-protests-thousands-of-people-defy-a-government-ban-on-gatherings-to-protest-across-the-country-against-the-spanish-gove.md)
 _Context: clash_
 
@@ -19,7 +19,7 @@ _Context: clash_
 ### [At least 15 people are killed near the town of Landi Kotal in Pakistan after a bomb destroys an Afghanistan-bound oil tanker. ](/news/2011/05/21/at-least-15-people-are-killed-near-the-town-of-landi-kotal-in-pakistan-after-a-bomb-destroys-an-afghanistan-bound-oil-tanker.md)
 At least 15 people were killed in an oil tanker blaze after a bomb exploded on the Afghanistan-bound NATO vehicle near a Pakistani border town on Saturday.
 
-##### suicide attack
+##### Suicide attack
 ### [At least 3 people are killed in a suicide attack at the Charsad Bestar Hospital in Kabul, Afghanistan. ](/news/2011/05/21/at-least-3-people-are-killed-in-a-suicide-attack-at-the-charsad-bestar-hospital-in-kabul-afghanistan.md)
 At least six medical students dead and 23 others injured in suicide bombing inside military hospital.
 
@@ -43,11 +43,11 @@ A prophecy that Saturday is Judgment Day, and the start of the five-month end of
 ### [Britain formally backs French politician Christine Lagarde to become the next managing director of the International Monetary Fund, following the resignation of Dominique Strauss-Kahn over his alleged rape of a hotel chambermaid in New York City. ](/news/2011/05/21/britain-formally-backs-french-politician-christine-lagarde-to-become-the-next-managing-director-of-the-international-monetary-fund-followin.md)
 UK Chancellor George Osborne is to formally nominate Christine Lagarde for the post of managing director of the International Monetary Fund.
 
-##### dust storm
+##### Dust storm
 ### [At least 42 people are killed and over 50 injured in dust storms and thunderstorms in Uttar Pradesh, northern India, adding to the three-day toll of over eighty dead. ](/news/2011/05/21/at-least-42-people-are-killed-and-over-50-injured-in-dust-storms-and-thunderstorms-in-uttar-pradesh-northern-india-adding-to-the-three-day.md)
 The fury of a thunderstorm cooled the parched Gangetic Plains but left 41 dead and over three dozen injured in Uttar Pradesh on Saturday. 
 
-##### landslide
+##### Landslide
 ### [24 people are buried alive following a landslide at an orphanage in Malaysia, and 16 people are killed. ](/news/2011/05/21/24-people-are-buried-alive-following-a-landslide-at-an-orphanage-in-malaysia-and-16-people-are-killed.md)
 An avalanche of mud smashed into an orphanage in Malaysia killing at least five children, police said, after heavy monsoon rains lashed the capital Kuala Lumpur and surrounding areas on Saturday.
 
@@ -55,7 +55,7 @@ An avalanche of mud smashed into an orphanage in Malaysia killing at least five 
 ### [Iceland's most active volcano, Grimsvotn, erupts, triggering 50 small earthquakes. ](/news/2011/05/21/iceland-s-most-active-volcano-gramsvaptn-erupts-triggering-50-small-earthquakes.md)
 SECOND UPDATE: It has been confirmed that Grimsvotn volcano underneath the Vatnajokull glacier in southeast Iceland has begun erupting.A plume of ...
 
-##### tornado
+##### Tornado
 ### [A tornado in the US town of Reading, Kansas kills at least one person and destroys 20 homes. ](/news/2011/05/21/a-tornado-in-the-us-town-of-reading-kansas-kills-at-least-one-person-and-destroys-20-homes.md)
 One person was killed and at least 20 homes destroyed after a weekend tornado that struck a town in eastern Kansas, state officials said. 
 
@@ -69,7 +69,7 @@ Budget shortages have forced the World Food Program to cut rations for those rec
 
 ##### Wen Jiabao
 ### [The Premier of China, Wen Jiabao, and the President of South Korea, Lee Myung-bak, visit areas of northern Japan devastated by the 2011 Tohoku earthquake and tsunami, ahead of a trilateral summit tomorrow. ](/news/2011/05/21/the-premier-of-china-wen-jiabao-and-the-president-of-south-korea-lee-myung-bak-visit-areas-of-northern-japan-devastated-by-the-2011-tah.md)
-_Context: 2011 Tohoku earthquake and tsunami, Wen Jiabao, Lee Myung-bak_
+_Context: Wen Jiabao, 2011 Tohoku earthquake and tsunami, Lee Myung-bak_
 
 ##### Twitter
 ### [Hundreds of Twitter users post the name of an English Premier League footballer who won a superinjunction to stop details of his affair going public, in protest at the player's attempts to sue the social networking site. ](/news/2011/05/21/hundreds-of-twitter-users-post-the-name-of-an-english-premier-league-footballer-who-won-a-superinjunction-to-stop-details-of-his-affair-goin.md)
@@ -81,11 +81,11 @@ Ivory Coast stages an inauguration ceremony for President Alassane Ouattara afte
 
 ##### Seychelles
 ### [Polls close in the Seychelles after a three day three day presidential election with the incumbent President James Michel winning 55 per cent of the vote. ](/news/2011/05/21/polls-close-in-the-seychelles-after-a-three-day-three-day-presidential-election-with-the-incumbent-president-james-michel-winning-55-per-cen.md)
-_Context: James Michel, three day presidential election, Seychelles_
+_Context: Seychelles, James Michel, three day presidential election_
 
 ##### Herman Cain
 ### [U.S. businessman Herman Cain announces that he will be seeking the Republican Party nomination in the 2012 U.S. presidential election. ](/news/2011/05/21/u-s-businessman-herman-cain-announces-that-he-will-be-seeking-the-republican-party-nomination-in-the-2012-u-s-presidential-election.md)
-_Context: nomination, United States presidential election, 2012, his campaign, Herman Cain_
+_Context: Herman Cain, United States presidential election, 2012, nomination, his campaign_
 
 ##### Minnesota House of Representatives
 ### [The Minnesota House of Representatives votes to put a constitutional referendum on marriage before voters in the US state of Minnesota. ](/news/2011/05/21/the-minnesota-house-of-representatives-votes-to-put-a-constitutional-referendum-on-marriage-before-voters-in-the-us-state-of-minnesota.md)

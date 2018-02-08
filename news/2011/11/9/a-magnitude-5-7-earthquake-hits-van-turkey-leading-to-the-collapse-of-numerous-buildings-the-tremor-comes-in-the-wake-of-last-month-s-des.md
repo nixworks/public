@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leadi
 
 ### [2011-11-9](/news/2011/11/9/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. 
 
 More than a dozen buildings, including at least one hotel, collapsed.

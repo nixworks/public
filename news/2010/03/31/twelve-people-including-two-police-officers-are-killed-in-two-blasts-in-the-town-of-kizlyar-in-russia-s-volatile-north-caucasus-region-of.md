@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/31/twelve-people-including-two-police-officers-are
 
 ### [2010-03-31](/news/2010/03/31/index.md)
 
-##### the deaths of 12 people occur there in a double suicide attack
+##### The deaths of 12 people occur there in a double suicide attack
 # Twelve people, including two police officers, are killed in two blasts in the town of Kizlyar in Russia's volatile North Caucasus region of Dagestan. 
 
 

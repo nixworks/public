@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/9/at-least-13-people-are-missing-or-dead-after-the
 
 ### [2009-03-9](/news/2009/03/9/index.md)
 
-##### cargo ship
+##### Cargo ship
 #  At least 13 people are missing or dead after the cargo ship MV "Ibn al-Battuta" sinks near Port Safaga, Egypt. 
 
 

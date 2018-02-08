@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/23/nine-alpinists-die-and-six-are-missing-on-the-s
 
 ### [2012-09-23](/news/2012/09/23/index.md)
 
-##### alpinist
+##### Alpinist
 # Nine alpinists die and six are missing on the slopes of Mount Manaslu, Mansiri Himal Himalayas. 
 
 At least nine people are killed and several are missing in Nepal after an avalanche hits climbers and guides at a camp on a Himalayan peak.

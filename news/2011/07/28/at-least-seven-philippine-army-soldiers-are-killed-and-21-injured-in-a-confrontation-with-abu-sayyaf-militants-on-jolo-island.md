@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/28/at-least-seven-philippine-army-soldiers-are-kil
 
 ### [2011-07-28](/news/2011/07/28/index.md)
 
-##### army
+##### Army
 # At least seven Philippine Army soldiers are killed and 21 injured in a confrontation with Abu Sayyaf militants on Jolo Island. 
 
 

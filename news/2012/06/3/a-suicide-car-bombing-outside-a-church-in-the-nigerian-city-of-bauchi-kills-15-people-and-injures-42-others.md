@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/3/a-suicide-car-bombing-outside-a-church-in-the-ni
 
 ### [2012-06-3](/news/2012/06/3/index.md)
 
-##### suicide car bombing
+##### Suicide car bombing
 # A suicide car bombing outside a church in the Nigerian city of Bauchi kills 15 people and injures 42 others. 
 
 The Nation Newspaper is Nigeria&#039;s widest circulating newspaper covering News, Politics, Entertainment, Sports, Education and General interest stories.

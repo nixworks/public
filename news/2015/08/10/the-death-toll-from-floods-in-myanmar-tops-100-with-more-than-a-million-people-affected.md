@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-
 
 ### [2015-08-10](/news/2015/08/10/index.md)
 
-##### floods in Myanmar
+##### Floods in Myanmar
 # The death toll from floods in Myanmar tops 100 with more than a million people affected. 
 
 

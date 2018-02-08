@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea
 
 ### [2009-10-2](/news/2009/10/2/index.md)
 
-##### mosque
+##### Mosque
 #  Thousands of people gather at a mosque in Guinea's capital, Conakry, to identify those killed in Monday's opposition rally against military rule. 
 
 

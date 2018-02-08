@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/26/levels-of-radiation-in-tokyo-s-water-supply-ret
 
 ### [2011-03-26](/news/2011/03/26/index.md)
 
-##### radiation
+##### Radiation
 # Levels of radiation in Tokyo's water supply return to normal. 
 
 

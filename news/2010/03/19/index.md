@@ -9,15 +9,15 @@ _Context: Iran, Hossein Marashi_
 
 ##### NASA
 ### [NASA announces that "It is nearly certain that a new record 12-month global temperature will be set in 2010", in a new draft paper based on GISS temperature analysis. ](/news/2010/03/19/nasa-announces-that-it-is-nearly-certain-that-a-new-record-12-month-global-temperature-will-be-set-in-2010-in-a-new-draft-paper-based-on.md)
-_Context: GISS, NASA_
+_Context: NASA, GISS_
 
 ##### Netherlands
 ### [Dutch officials object to "ridiculous" and "out of the realm of fiction" claims by retired American general John J. Sheehan, a former NATO commander, that the use of gay soldiers in 1995 meant Dutch forces were "under-strength" and "poorly led" when attempting to protect Bosnian civilians in Srebrenica. ](/news/2010/03/19/dutch-officials-object-to-ridiculous-and-out-of-the-realm-of-fiction-claims-by-retired-american-general-john-j-sheehan-a-former-nato-c.md)
 Former US general says 1995 massacre due in part to Dutch army allowing gay troops.
 
-##### hoax
+##### Hoax
 ### [A hoax stating that at least 200 people have died in a mining accident in Bo, Sierra Leone, makes headlines around the world. ](/news/2010/03/19/a-hoax-stating-that-at-least-200-people-have-died-in-a-mining-accident-in-bo-sierra-leone-makes-headlines-around-the-world.md)
-_Context: Bo, hoax, Sierra Leone_
+_Context: Sierra Leone, hoax, Bo_
 
 ##### Sudan
 ### [At least 13 people die during clashes in Sudan. ](/news/2010/03/19/at-least-13-people-die-during-clashes-in-sudan.md)
@@ -25,13 +25,13 @@ Army official says fighting was triggered by nomads breaking a border agreement.
 
 ##### President
 ### [President of Yemen Ali Abdullah Saleh declares an end to his country's six-year war against the Houthis. ](/news/2010/03/19/president-of-yemen-ali-abdullah-saleh-declares-an-end-to-his-country-s-six-year-war-against-the-houthis.md)
-_Context: President, Ali Abdullah Saleh, Houthi_
+_Context: Ali Abdullah Saleh, Houthi, President_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI signs his letter to Irish Catholics, sent as his first official documented response to the issue of child sex abuse and due to be published by the Vatican on Saturday and read at Sunday Mass. ](/news/2010/03/19/pope-benedict-xvi-signs-his-letter-to-irish-catholics-sent-as-his-first-official-documented-response-to-the-issue-of-child-sex-abuse-and-du.md)
 Pope Benedict XVI has today signed off on a pastoral letter to the Irish faithful addressing the question of clerical sex abuse&hellip;
 
-##### drinking-water shortages
+##### Drinking-water shortages
 ### [China's State Commission of Disaster Relief says severe drought has affected 51 million Chinese and left more than 16 million people and 11 million livestock with drinking-water shortages. ](/news/2010/03/19/china-s-state-commission-of-disaster-relief-says-severe-drought-has-affected-51-million-chinese-and-left-more-than-16-million-people-and-11.md)
 _Context: drinking-water shortages_
 
@@ -41,11 +41,11 @@ Jeddah Summary Court sends copy of lawsuit filed against writer to justice minis
 
 ##### Ethiopia
 ### [Ethiopian Prime Minister Meles Zenawi says radio station the Voice of America (VOA) is promoting "destabilising propaganda" that is inciting genocide in his country. ](/news/2010/03/19/ethiopian-prime-minister-meles-zenawi-says-radio-station-the-voice-of-america-voa-is-promoting-destabilising-propaganda-that-is-inciting.md)
-_Context: Voice of America, Ethiopia, Meles Zenawi, Prime Minister, genocide_
+_Context: Ethiopia, genocide, Voice of America, Meles Zenawi, Prime Minister_
 
 ##### Egypt
 ### [Egyptian mosques pray for President Hosni Mubarak&mdash;who is ill and whose health is taboo&mdash;as images of his recovery in Germany are broadcast on television screens, boosting stock markets. ](/news/2010/03/19/egyptian-mosques-pray-for-president-hosni-mubarak-mdash-who-is-ill-and-whose-health-is-taboo-mdash-as-images-of-his-recovery-in-germany-are.md)
-_Context: Hosni Mubarak, Egypt, German, mosque, President_
+_Context: German, President, Egypt, mosque, Hosni Mubarak_
 
 ##### Switzerland
 ### [Switzerland ceases to deport asylum seekers in response to the death of a Nigerian man at Zrich Airport as he was being forcefully deported. Nigeria condemns the occurrence. ](/news/2010/03/19/switzerland-ceases-to-deport-asylum-seekers-in-response-to-the-death-of-a-nigerian-man-at-zurich-airport-as-he-was-being-forcefully-deported.md)
@@ -61,7 +61,7 @@ Sheikh Ahmed Mohammed Ahmed al-Tayeb named as head of Al-Azhar Islamic instituti
 
 ##### United States
 ### [A judge in the United States rejects a $657.5 million deal for 10,000 people involved in the aftermath of 9-11. ](/news/2010/03/19/a-judge-in-the-united-states-rejects-a-657-5-million-deal-for-10-000-people-involved-in-the-aftermath-of-9-11.md)
-_Context: September 11 attacks, United States_
+_Context: United States, September 11 attacks_
 
 ##### FIFA
 ### [FIFA dismisses the bid of Indonesia for the 2022 FIFA World Cup after the country failed to provide "guarantees". ](/news/2010/03/19/fifa-dismisses-the-bid-of-indonesia-for-the-2022-fifa-world-cup-after-the-country-failed-to-provide-guarantees.md)
@@ -73,15 +73,15 @@ _Context: Large Hadron Collider_
 
 ##### Amnesty International
 ### [Amnesty International asks Saudi Arabia's King Abdullah to intervene in the case of a Lebanese man sentenced to death for "sorcery". ](/news/2010/03/19/amnesty-international-asks-saudi-arabia-s-king-abdullah-to-intervene-in-the-case-of-a-lebanese-man-sentenced-to-death-for-sorcery.md)
-_Context: Lebanon, Abdullah, Amnesty International, Saudi Arabia_
+_Context: Saudi Arabia, Abdullah, Lebanese, Amnesty International_
 
 ##### Colombia
 ### [An investigation is urged into the assassination of Colombian human rights activist Johnny Hurtado. ](/news/2010/03/19/an-investigation-is-urged-into-the-assassination-of-colombian-human-rights-activist-johnny-hurtado.md)
-_Context: Johnny Hurtado, Colombia_
+_Context: Colombia, Johnny Hurtado_
 
 ##### Colombia
 ### [Colombian journalist, radio reporter and "El Pulso" magazine editor Clodomiro Castilla is shot to death while reading a book at his Montera home. ](/news/2010/03/19/colombian-journalist-radio-reporter-and-el-pulso-magazine-editor-clodomiro-castilla-is-shot-to-death-while-reading-a-book-at-his-monteria.md)
-_Context: Clodomiro Castilla, El Pulso, Montera, Colombia_
+_Context: Colombia, Clodomiro Castilla, El Pulso, Montera_
 
 ## [Previous Day...](/news/2010/03/18/index.md)
 

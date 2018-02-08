@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/8/an-avalanche-causes-one-death-and-temporarily-tr
 
 ### [2014-01-8](/news/2014/01/8/index.md)
 
-##### avalanche
+##### Avalanche
 # An avalanche causes one death and temporarily traps three others outside the boundaries of Vail Ski Resort on Vail Mountain in Colorado. 
 
 

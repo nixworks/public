@@ -45,7 +45,7 @@ Chinese police have detained nine people in connection with oil pipeline explosi
 
 ##### P.C.
 ### [P.C. Keith Wallis is charged as part of the investigation into the Plebgate incident at Downing Street. ](/news/2013/11/26/p-c-keith-wallis-is-charged-as-part-of-the-investigation-into-the-plebgate-incident-at-downing-street.md)
-_Context: P.C., Downing Street, Plebgate_
+_Context: Plebgate, Downing Street, P.C._
 
 ##### Lostprophets
 ### [Lostprophets frontman Ian Watkins pleads guilty at Cardiff Crown Court to a range of child sex offences including the attempted rape of a baby. ](/news/2013/11/26/lostprophets-frontman-ian-watkins-pleads-guilty-at-cardiff-crown-court-to-a-range-of-child-sex-offences-including-the-attempted-rape-of-a-ba.md)
@@ -53,7 +53,7 @@ The rock singer has pleaded guilty to offences including two of attempting to ra
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court agrees to hear certain major religious freedom cases that will decide whether a company that is for-profit (including family-run ones)- and other entities who are not themselves churches- can refuse to provide contraceptive coverage that would otherwise be required under the Patient Protection and Affordable Care Act; lower courts are split. ](/news/2013/11/26/the-u-s-supreme-court-agrees-to-hear-certain-major-religious-freedom-cases-that-will-decide-whether-a-company-that-is-for-profit-including.md)
-_Context: appeals court, Supreme Court of the United States, Obamacare_
+_Context: appeals court, Obamacare, Supreme Court of the United States_
 
 ##### Prime Minister
 ### [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md)

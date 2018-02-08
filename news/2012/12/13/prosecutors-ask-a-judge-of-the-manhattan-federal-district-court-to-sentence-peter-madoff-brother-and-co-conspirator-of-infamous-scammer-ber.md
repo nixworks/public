@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/13/prosecutors-ask-a-judge-of-the-manhattan-federa
 
 ### [2012-12-13](/news/2012/12/13/index.md)
 
-##### chief federal prosecutors
+##### Chief federal prosecutors
 # Prosecutors ask a judge of the Manhattan federal district court to sentence Peter Madoff, brother and co-conspirator of infamous scammer Bernard Madoff, to a sentence of ten years. 
 
 

@@ -7,7 +7,7 @@ Formats: [HTML](2012/11/10/index.html)  [JSON](2012/11/10/index.json)  [XML](201
 ### [Two suicide bombings in Daraa killed at least 20 Syrian troops. ](/news/2012/11/10/two-suicide-bombings-in-daraa-killed-at-least-20-syrian-troops.md)
 _Context: Daraa_
 
-##### conflicts
+##### Conflicts
 ### [At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo, the capital city of Sri Lanka. ](/news/2012/11/10/at-least-27-people-are-killed-and-dozens-are-wounded-in-conflicts-between-inmates-and-guards-at-welikada-prison-in-colombo-the-capital-city.md)
 At least 27 people are killed as clashes erupt between inmates and guards at a prison in the Sri Lankan capital, Colombo, authorities say.
 
@@ -41,7 +41,7 @@ George Entwistle quits after he admits a Newsnight report has caused a crisis of
 
 ##### U.S. President
 ### [President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama--more than the 270 needed to ensure election--to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes-in-the-presidential-election-pu.md)
-_Context: U.S. President, presidential election, Electoral College, the state, Barack Obama, Mitt Romney_
+_Context: Mitt Romney, U.S. President, presidential election, Electoral College, the state, Barack Obama_
 
 ## [Previous Day...](/news/2012/11/9/index.md)
 

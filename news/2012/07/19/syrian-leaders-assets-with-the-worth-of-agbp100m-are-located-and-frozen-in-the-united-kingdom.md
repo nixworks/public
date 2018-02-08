@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/19/syrian-leaders-assets-with-the-worth-of-agbp100
 
 ### [2012-07-19](/news/2012/07/19/index.md)
 
-##### the United Kingdom
+##### The United Kingdom
 # Syrian leaders' assets with the worth of GBP100m are located and frozen in the United Kingdom. 
 
 Assets worth £100m belonging to Syrian regime leaders have been located and frozen in Britain, the BBC has learned.

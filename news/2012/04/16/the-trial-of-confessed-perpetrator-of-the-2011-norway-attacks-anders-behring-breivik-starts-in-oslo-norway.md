@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/16/the-trial-of-confessed-perpetrator-of-the-2011-
 
 ### [2012-04-16](/news/2012/04/16/index.md)
 
-##### trial
+##### Trial
 # The trial of confessed perpetrator of the 2011 Norway attacks, Anders Behring Breivik, starts in Oslo, Norway. 
 
 

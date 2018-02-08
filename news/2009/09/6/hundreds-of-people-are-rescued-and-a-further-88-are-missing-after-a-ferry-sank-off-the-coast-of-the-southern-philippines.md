@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/6/hundreds-of-people-are-rescued-and-a-further-88-
 
 ### [2009-09-6](/news/2009/09/6/index.md)
 
-##### ferry
+##### Ferry
 #  Hundreds of people are rescued and a further 88 are missing after a ferry sank off the coast of the southern Philippines. 
 
 

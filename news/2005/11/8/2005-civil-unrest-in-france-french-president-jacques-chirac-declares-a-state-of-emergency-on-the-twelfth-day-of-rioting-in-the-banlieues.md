@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/8/2005-civil-unrest-in-france-french-president-jac
 
 ### [2005-11-8](/news/2005/11/8/index.md)
 
-##### civil unrest
+##### Civil unrest
 #  2005 civil unrest in France: French President Jacques Chirac declares a state of emergency on the twelfth day of rioting in the banlieues. This followed the re-activation in a cabinet emergency session of a 1955 law allowing local authorities to impose curfews. [https:--www.nytimes.com-2005-11-08-international-europe-08cnd-france.html (New York Times)] (registation required)
 
 

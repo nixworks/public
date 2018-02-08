@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/23/authorities-say-an-explosion-at-a-coal-mine-in-
 
 ### [2006-10-23](/news/2006/10/23/index.md)
 
-##### coal
+##### Coal
 #  Authorities say an explosion at a coal mine in eastern Pennsylvania has killed one person. 
 
 

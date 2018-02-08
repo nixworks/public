@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/12/the-death-toll-in-the-collapse-of-a-factory-in-
 
 ### [2005-04-12](/news/2005/04/12/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the collapse of a factory in Dacca, Bangladesh rises to 21 and hundreds are still trapped. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.

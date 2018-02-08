@@ -9,7 +9,7 @@ The vessels, one meant to take part in attacks on American cities, were captured
 
 ##### United States soldier
 ### [ United States Army Major Nidal Malik Hasan will face 13 charges of murder for the Fort Hood shooting. ](/news/2009/11/12/united-states-army-major-nidal-malik-hasan-will-face-13-charges-of-murder-for-the-fort-hood-shooting.md)
-_Context: Major, United States soldier, Fort Hood massacre, Nidal Malik Hasan_
+_Context: Fort Hood massacre, Major, Nidal Malik Hasan, United States soldier_
 
 ##### United States
 ### [ United States Federal prosecutors begin legal action to seize properties owned by the Alavi Foundation on the grounds that it has ties with Iran. ](/news/2009/11/12/united-states-federal-prosecutors-begin-legal-action-to-seize-properties-owned-by-the-alavi-foundation-on-the-grounds-that-it-has-ties-with.md)
@@ -17,11 +17,11 @@ Federal prosecutors sought a Manhattan skyscraper, the Piaget Building, and parc
 
 ##### Glasgow North East by-election
 ### [ In the Glasgow North East by-election, voters pick Labour candidate Willie Bain as the replacement for former Speaker of the British House of Commons Michael Martin. ](/news/2009/11/12/in-the-glasgow-north-east-by-election-voters-pick-labour-candidate-willie-bain-as-the-replacement-for-former-speaker-of-the-british-house.md)
-_Context: Speaker of the British House of Commons, Scottish Labour Party, Glasgow North East by-election, Michael Martin, Willie Bain_
+_Context: Scottish Labour Party, Michael Martin, Willie Bain, Glasgow North East by-election, Speaker of the British House of Commons_
 
 ##### Russia
 ### [ Russian President Dmitry Medvedev calls for an overhaul of the Russian economy and democratic modernisation in an annual state of nation address. ](/news/2009/11/12/russian-president-dmitry-medvedev-calls-for-an-overhaul-of-the-russian-economy-and-democratic-modernisation-in-an-annual-state-of-nation-ad.md)
-_Context: Russia, Dmitry Medvedev, Russian President, Russian economy_
+_Context: Russian President, Russian economy, Russia, Dmitry Medvedev_
 
 ##### Sri Lanka
 ### [ The head of the Sri Lankan armed forces Sarath Fonseka resigns over reports he is suspected to contest the next presidential election. ](/news/2009/11/12/the-head-of-the-sri-lankan-armed-forces-sarath-fonseka-resigns-over-reports-he-is-suspected-to-contest-the-next-presidential-election.md)
@@ -33,9 +33,9 @@ They travel thousands of miles to Beijing to bring their problems – land-grabb
 
 ##### Sheikh
 ### [ Sheikh Mohamed Abdi Aware, a Somali judge known for issuing tough sentences to pirates and Islamists, is shot dead in Somalia's Puntland region. ](/news/2009/11/12/sheikh-mohamed-abdi-aware-a-somali-judge-known-for-issuing-tough-sentences-to-pirates-and-islamists-is-shot-dead-in-somalia-s-puntland-re.md)
-_Context: Sheikh, Somali pirates, Islam, Puntland, Somalia_
+_Context: Sheikh, Puntland, Somali pirates, Somalia, Islam_
 
-##### killed in an illegal mine collapse
+##### Killed in an illegal mine collapse
 ### [ At least 18 people are killed in an illegal mine collapse in western Ghana, Ghana's most devastating mining tragedy. ](/news/2009/11/12/at-least-18-people-are-killed-in-an-illegal-mine-collapse-in-western-ghana-ghana-s-most-devastating-mining-tragedy.md)
 At least 18 people, including 14 women, have been killed in the collapse of an illegal gold mine in Ghana.
 
@@ -45,7 +45,7 @@ _Context: Maoist supporters, Nepal, President_
 
 ##### President of Palau
 ### [ Former President of Palau Tommy Remengesau is convicted of 12 ethics code violations. ](/news/2009/11/12/former-president-of-palau-tommy-remengesau-is-convicted-of-12-ethics-code-violations.md)
-_Context: Tommy Remengesau, President of Palau_
+_Context: President of Palau, Tommy Remengesau_
 
 ##### Venezuela
 ### [ The government of Venezuela nationalizes the Fama de America and Cafea coffee producers. ](/news/2009/11/12/the-government-of-venezuela-nationalizes-the-fama-de-america-and-cafea-coffee-producers.md)

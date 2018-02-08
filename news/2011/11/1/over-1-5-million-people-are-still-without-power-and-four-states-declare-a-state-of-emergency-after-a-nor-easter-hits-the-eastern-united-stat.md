@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/1/over-1-5-million-people-are-still-without-power-
 
 ### [2011-11-1](/news/2011/11/1/index.md)
 
-##### state of emergency
+##### State of emergency
 # Over 1.5 million people are still without power and four states declare a state of emergency after a nor'easter hits the Eastern United States. 
 
 

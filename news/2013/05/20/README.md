@@ -3,13 +3,13 @@ Formats: [HTML](2013/05/20/index.html)  [JSON](2013/05/20/index.json)  [XML](201
 
 ## [2013-05-20](/news/2013/05/20/index.md)
 
-##### wave of violence
+##### Wave of violence
 ### [A wave of violence continues, with attacks across the country killing 133 and leaving 283 others injured. Almost 400 people have been killed in the last six days alone, as tribal leaders warn of impending civil war. ](/news/2013/05/20/a-wave-of-violence-continues-with-attacks-across-the-country-killing-133-and-leaving-283-others-injured-almost-400-people-have-been-killed.md)
 More than 70 people are killed and many more wounded by car bombs and suicide attacks in one of the worst days of violence in Iraq in recent months.
 
 ##### Makhachkala
 ### [Twin car bombs explode in Makhachkala, capital of the Russian republic of Dagestan, killing 4 and injuring almost 50 others. Hours later authorities announced they have foiled a terror attack in Moscow.](/news/2013/05/20/twin-car-bombs-explode-in-makhachkala-capital-of-the-russian-republic-of-dagestan-killing-4-and-injuring-almost-50-others-hours-later-aut.md)
-_Context: Dagestan, Republic, Makhachkala, Moscow_
+_Context: Dagestan, Republic, Moscow, Makhachkala_
 
 ##### North Korea
 ### [North Korea launches short-ranged projectiles off its coast for the third day in a row. ](/news/2013/05/20/north-korea-launches-short-ranged-projectiles-off-its-coast-for-the-third-day-in-a-row.md)
@@ -41,15 +41,15 @@ _Context: bird flu, North Korea, Pyongyang_
 
 ##### Myanmar's president's office
 ### [The President of Myanmar Thein Sein visits the White House as part of his visit to the United States, the first by a Burmese head of state in 47 years. ](/news/2013/05/20/the-president-of-myanmar-thein-sein-visits-the-white-house-as-part-of-his-visit-to-the-united-states-the-first-by-a-burmese-head-of-state-i.md)
-_Context: Thein Sein, United States, Myanmar's president's office, White House_
+_Context: Myanmar's president's office, United States, Thein Sein, White House_
 
 ##### Guatemala
 ### [Guatemala's Constitutional Court overturns a genocide conviction against former dictator Efran Ros Montt due to a dispute over jurisdiction. ](/news/2013/05/20/guatemala-s-constitutional-court-overturns-a-genocide-conviction-against-former-dictator-efrain-rios-montt-due-to-a-dispute-over-jurisdictio.md)
 _Context: Efran Ros Montt, genocide, Guatemala_
 
-##### immigration officials
+##### Immigration officials
 ### [Immigrant youths riot in Stockholm suburb Husby, burning more than 100 vehicles. ](/news/2013/05/20/immigrant-youths-riot-in-stockholm-suburb-husby-burning-more-than-100-vehicles.md)
-_Context: Stockholm, immigration officials, Husby, riot_
+_Context: Husby, riot, Stockholm, immigration officials_
 
 ##### Church of Scotland
 ### [The Church of Scotland's General Assembly votes to allow openly gay men and women to become ministers. ](/news/2013/05/20/the-church-of-scotland-s-general-assembly-votes-to-allow-openly-gay-men-and-women-to-become-ministers.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/21/a-grand-jury-indicts-michael-jackson-on-charges
 
 ### [2004-04-21](/news/2004/04/21/index.md)
 
-##### indicted
+##### Indicted
 #  A grand jury indicts Michael Jackson on charges of child molestation. 
 
 

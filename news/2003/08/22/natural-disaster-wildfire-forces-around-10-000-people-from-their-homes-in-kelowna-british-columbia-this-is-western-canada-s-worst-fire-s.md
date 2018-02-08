@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/22/natural-disaster-wildfire-forces-around-10-000-
 
 ### [2003-08-22](/news/2003/08/22/index.md)
 
-##### natural catastrophe
+##### Natural catastrophe
 #  Natural disaster: Wildfire forces around 10,000 people from their homes in Kelowna, British Columbia. This is Western Canada's worst fire season in decades.
 
 

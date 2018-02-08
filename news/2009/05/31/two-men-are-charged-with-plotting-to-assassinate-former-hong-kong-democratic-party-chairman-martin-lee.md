@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/31/two-men-are-charged-with-plotting-to-assassinat
 
 ### [2009-05-31](/news/2009/05/31/index.md)
 
-##### assassinated
+##### Assassinated
 #  Two men are charged with plotting to assassinate former Hong Kong Democratic Party Chairman Martin Lee. 
 
 

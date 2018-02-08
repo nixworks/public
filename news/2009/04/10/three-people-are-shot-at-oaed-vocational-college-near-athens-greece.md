@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/10/three-people-are-shot-at-oaed-vocational-colleg
 
 ### [2009-04-10](/news/2009/04/10/index.md)
 
-##### shot
+##### Shot
 #  Three people are shot at OAED Vocational College near Athens, Greece. 
 
 

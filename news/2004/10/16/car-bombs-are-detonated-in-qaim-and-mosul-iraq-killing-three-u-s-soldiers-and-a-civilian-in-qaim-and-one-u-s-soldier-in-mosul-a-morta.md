@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/16/car-bombs-are-detonated-in-qaim-and-mosul-iraq-
 
 ### [2004-10-16](/news/2004/10/16/index.md)
 
-##### car bomb
+##### Car bomb
 #  Car bombs are detonated in Qaim and Mosul, Iraq, killing three U.S. soldiers and a civilian in Qaim, and one U.S. soldier in Mosul. A mortar attack in Qaim kills four Iraqis and wounds 30. 
 
 

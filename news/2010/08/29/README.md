@@ -13,7 +13,7 @@ _Context: President of Chechnya, Tsentoroi, Ramzan Kadyrov_
 
 ##### Palestinian
 ### [A Palestinian man is killed by the collapse of a smuggling tunnel under the border between Egypt and the Gaza Strip. ](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.md)
-_Context: Palestinian, Egypt, Gaza Strip_
+_Context: Gaza Strip, Palestinian, Egypt_
 
 ##### Afghanistan
 ### [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md)
@@ -21,11 +21,11 @@ Seven U.S. troops have died in weekend attacks in Afghanistan&#39;s embattled so
 
 ##### Catholic Church
 ### [The Catholic Church admits that during a meeting in April Godfried Danneels, the retired Catholic leader in Belgium, advised a person who had experienced abuse to remain silent until his abuser Roger Vangheluwe, the Bishop of Brugge, retired. ](/news/2010/08/29/the-catholic-church-admits-that-during-a-meeting-in-april-godfried-danneels-the-retired-catholic-leader-in-belgium-advised-a-person-who-ha.md)
-_Context: Belgium, Roger Vangheluwe, Godfried Danneels, Bishop of Brugge, Catholic Church_
+_Context: Godfried Danneels, Bishop of Brugge, Catholic Church, Roger Vangheluwe, Belgium_
 
 ##### 62nd Primetime Emmy Awards
 ### ["Mad Men" wins the Emmy for Outstanding Drama Series. ](/news/2010/08/29/mad-men-wins-the-emmy-for-outstanding-drama-series.md)
-_Context: 62nd Primetime Emmy Awards, Emmy Awards, Mad Men_
+_Context: 62nd Primetime Emmy Awards, Mad Men, Emmy Awards_
 
 ##### Last of the Summer Wine
 ### [The final episode of "Last of the Summer Wine" airs on BBC One after 37 years. ](/news/2010/08/29/the-final-episode-of-last-of-the-summer-wine-airs-on-bbc-one-after-37-years.md)
@@ -35,9 +35,9 @@ Michael Deacon reviews the last ever episode of The Last of the Summer Wine (BBC
 ### [A small semi-train is driven through the streets of Gaza after six months of construction, to the delight of children living in harsh conditions. ](/news/2010/08/29/a-small-semi-train-is-driven-through-the-streets-of-gaza-after-six-months-of-construction-to-the-delight-of-children-living-in-harsh-condit.md)
 _Context: Gaza Strip_
 
-##### devastating floods
+##### Devastating floods
 ### [Floods worsen in Pakistan as more towns are threatened. ](/news/2010/08/29/floods-worsen-in-pakistan-as-more-towns-are-threatened.md)
-_Context: Pakistan, devastating floods_
+_Context: devastating floods, Pakistan_
 
 ##### Sumatra
 ### [1 person dies as the Sumatran volcano Sinabung prompts a red alert by erupting for the first time in over 400 years, leading to Indonesia evacuating thousands of people. ](/news/2010/08/29/1-person-dies-as-the-sumatran-volcano-sinabung-prompts-a-red-alert-by-erupting-for-the-first-time-in-over-400-years-leading-to-indonesia-ev.md)
@@ -55,7 +55,7 @@ PA launches campaign to sell peace talks to Palestinians and Israelis.
 ### [Indonesian detainees riot and light a fire at the Northern Immigration Detention Centre in Darwin, Australia. ](/news/2010/08/29/indonesian-detainees-riot-and-light-a-fire-at-the-northern-immigration-detention-centre-in-darwin-australia.md)
 The Immigration Department says Indonesian crewmen being held at the Darwin immigration detention centre sparked a protest this morning.
 
-##### mayor
+##### Mayor
 ### [Unidentified gunmen assassinate Marco Antonio Leal Garcia, the mayor of the small town of Hidalgo in Tamaulipas, Mexico. ](/news/2010/08/29/unidentified-gunmen-assassinate-marco-antonio-leal-garcia-the-mayor-of-the-small-town-of-hidalgo-in-tamaulipas-mexico.md)
 Gunmen murdered the mayor of a town in the Mexican state of Tamaulipas where 72 migrants were massacred last week.
 

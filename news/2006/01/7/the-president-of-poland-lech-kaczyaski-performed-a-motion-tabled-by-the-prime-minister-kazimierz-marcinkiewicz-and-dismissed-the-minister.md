@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/7/the-president-of-poland-lech-kaczyaski-performed
 
 ### [2006-01-7](/news/2006/01/7/index.md)
 
-##### president of Poland
+##### President of Poland
 #  The president of Poland Lech Kaczynski performed a motion tabled by the prime minister Kazimierz Marcinkiewicz and dismissed the minister of finance Teresa Lubinska, nominating on her place Zyta Gilowska and giving her a position of deputy premier.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/09/17/2008-thai-political-crisis-somchai-wongsawat-ha
 
 ### [2008-09-17](/news/2008/09/17/index.md)
 
-##### assemble
+##### Assemble
 #  2008 Thai political crisis: Somchai Wongsawat has been elected as the next Prime Minister of Thailand by the National Assembly of Thailand with King Bhumibol Adulyadej having to endorse the selection. 
 
 

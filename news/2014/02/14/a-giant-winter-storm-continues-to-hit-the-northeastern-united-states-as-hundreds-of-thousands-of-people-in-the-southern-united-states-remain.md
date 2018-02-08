@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/14/a-giant-winter-storm-continues-to-hit-the-north
 
 ### [2014-02-14](/news/2014/02/14/index.md)
 
-##### winter storm
+##### Winter storm
 # A giant winter storm continues to hit the northeastern United States as hundreds of thousands of people in the southern United States remain without power. At least 22 people have died in the storm. 
 
 A storm unleashes a second wave of snowfall on the US north-east, after it cut power to half a million people and left 7,500 flights cancelled.

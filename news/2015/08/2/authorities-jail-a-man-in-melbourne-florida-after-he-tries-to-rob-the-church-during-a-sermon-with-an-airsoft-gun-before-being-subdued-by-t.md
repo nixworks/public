@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/2/authorities-jail-a-man-in-melbourne-florida-afte
 
 ### [2015-08-2](/news/2015/08/2/index.md)
 
-##### the state
+##### The state
 # Authorities jail a man in Melbourne, Florida, after he tries to rob the church during a sermon with an airsoft gun before being subdued by the Pastor. 
 
 

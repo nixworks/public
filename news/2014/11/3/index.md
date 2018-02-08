@@ -11,7 +11,7 @@ Islamic State fighters in Syria said on Monday they had taken control of a gas f
 ### [One World Trade Center officially opens, replacing its predecessor 13 years after the September 11 attacks. ](/news/2014/11/3/one-world-trade-center-officially-opens-replacing-its-predecessor-13-years-after-the-september-11-attacks.md)
 Thirteen years after the 9/11 terrorist attack, World Trade Center is opening for business again.
 
-##### asylum seeker
+##### Asylum seeker
 ### [A small boat carrying asylum seekers sinks in the Black Sea near the Turkish city of Istanbul resulting in at least 21 deaths. ](/news/2014/11/3/a-small-boat-carrying-asylum-seekers-sinks-in-the-black-sea-near-the-turkish-city-of-istanbul-resulting-in-at-least-21-deaths.md)
 A migrant boat carrying more than four times its maximum capacity has sunk in the Black Sea just off Istanbul, killing at least 21 people.
 

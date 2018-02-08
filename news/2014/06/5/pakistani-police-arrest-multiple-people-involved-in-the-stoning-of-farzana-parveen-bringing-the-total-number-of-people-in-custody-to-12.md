@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/06/5/pakistani-police-arrest-multiple-people-involved
 
 ### [2014-06-5](/news/2014/06/5/index.md)
 
-##### police officers
+##### Police officers
 # Pakistani police arrest multiple people involved in the stoning of Farzana Parveen, bringing the total number of people in custody to 12. 
 
 

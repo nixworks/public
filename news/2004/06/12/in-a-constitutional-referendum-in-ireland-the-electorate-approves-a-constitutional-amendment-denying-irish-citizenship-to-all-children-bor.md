@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/12/in-a-constitutional-referendum-in-ireland-the-e
 
 ### [2004-06-12](/news/2004/06/12/index.md)
 
-##### constitutional
+##### Constitutional
 #  In a Constitutional referendum in Ireland, the electorate approves a constitutional amendment denying Irish citizenship to all children born in Ireland unless one of the parents is an Irish citizen or the parents were legally resident for three years prior to the birth. This closes a perceived loophole where considerable numbers of women in the late stages of pregnancy were allegedly arriving in Ireland, since the parents of citizens were also allowed to remain in the country. 
 
 

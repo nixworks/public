@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/3/some-40-000-protest-inaction-on-global-warming-i
 
 ### [2005-12-3](/news/2005/12/3/index.md)
 
-##### global warming
+##### Global warming
 #  Some 40,000 protest inaction on global warming in Montreal. The demonstration, held as part of the United Nations Climate Change Conference, is one of the largest environmental protests ever and is accompanied by marches worldwide, including one in hurricane-devastated New Orleans. 
 
 

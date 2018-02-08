@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/19/an-audio-tape-with-a-voice-believed-to-be-al-qa
 
 ### [2008-03-19](/news/2008/03/19/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  An audio tape with a voice believed to be Al-Qaeda leader Osama bin Laden's is released, criticizing the European Union for allowing publication of cartoons that he claims insulted the Prophet Mohammed and threatening a strong reaction. 
 
 

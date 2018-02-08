@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/15/three-planets-are-discovered-via-gravitational-
 
 ### [2004-04-15](/news/2004/04/15/index.md)
 
-##### gravitational microlensing
+##### Gravitational microlensing
 #  Three planets are discovered via gravitational microlensing orbiting stars many light years away, including one that is more than three times farther away than the previous record holder. 
 
 

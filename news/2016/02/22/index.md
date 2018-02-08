@@ -17,7 +17,7 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 
 ##### 2015-16 South Pacific cyclone season
 ### [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md)
-_Context: 2015-16 South Pacific cyclone season, Fiji, Cyclone Winston_
+_Context: Fiji, 2015-16 South Pacific cyclone season, Cyclone Winston_
 
 ##### Russia-United States relations
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)
@@ -45,11 +45,11 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Philippine Senate election, 2016
 ### [Walden Bello, a socialist candidate for the Philippine Senate, files a petition that may disqualify boxer Manny Pacquiao for violating election rules regarding publicity. Based on the commission's rules, Pacquiao's wife, Jinkee Pacquiao, may substitute. ](/news/2016/02/22/walden-bello-a-socialist-candidate-for-the-philippine-senate-files-a-petition-that-may-disqualify-boxer-manny-pacquiao-for-violating-elect.md)
-_Context: Manny Pacquiao, Philippine Senate election, 2016, Jinkee Pacquiao, Walden Bello_
+_Context: Jinkee Pacquiao, Walden Bello, Philippine Senate election, 2016, Manny Pacquiao_
 
 ##### Ugandan general election, 2016
 ### [Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md)
-_Context: Kizza Besigye, Ugandan general election, 2016_
+_Context: Ugandan general election, 2016, Kizza Besigye_
 
 ##### Jat reservation agitation
 ### [Jat protesters reach an agreement with the Indian government on increased reservations similar to those authorized for economically disadvantaged lower castes. Authorities say at least 19 people have been killed in the three-day demonstrations. Protest leaders call for reopening blockaded roads in the northern state of Haryana. Water restrictions, implemented after protesters damaged the water station's New Dehli feed, remain in effect while engineers repair the equipment. ](/news/2016/02/22/jat-protesters-reach-an-agreement-with-the-indian-government-on-increased-reservations-similar-to-those-authorized-for-economically-disadvan.md)
@@ -63,7 +63,7 @@ Republican presidential candidate Ted Cruz said Monday he’s fired campaign com
 ### [Comoros authorities are counting ballots from Sunday's incident-free, presidential primary on Grande Comore island. The presidency rotates between the nation's three semi-autonomous islands, which also held gubernatorial elections. Provisional results are due Wednesday. Then, on April 10, 2016, the three leading candidates will vie in a runoff. ](/news/2016/02/22/comoros-authorities-are-counting-ballots-from-sunday-s-incident-free-presidential-primary-on-grande-comore-island-the-presidency-rotates-b.md)
 Comoros began counting ballots for its first round of presidential elections as authorities hailed an incident-free vote on the Indian Ocean archipelago that’s been hit by slowing economic growth.
 
-##### research institutions
+##### Research institutions
 ### [A new study by scientists from 14 research institutions, that is published in the March 2016 Global Change Biology Journal, finds all U.S. forests are threatened by drought and climate change. ](/news/2016/02/22/a-new-study-by-scientists-from-14-research-institutions-that-is-published-in-the-march-2016-global-change-biology-journal-finds-all-u-s-f.md)
 Forests nationwide are feeling the heat from increasing drought and climate change, according to a study by scientists from 14 research institutions. While the effects have been most pronounced in the West, the team found virtually all US forests are now experiencing some degree of change and are vu...
 

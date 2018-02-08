@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/12/5/an-offshore-oil-platform-operated-by-azerbaijan-
 
 ### [2015-12-5](/news/2015/12/5/index.md)
 
-##### offshore oil platform
+##### Offshore oil platform
 # An offshore oil platform operated by Azerbaijan's state energy company SOCAR catches fire in the Caspian Sea killing 32 workers. 
 
 At least one worker was killed and 30 others were missing on Saturday after an Azeri oil platform caught fire during high winds in the Caspian Sea on Friday, state energy company SOCAR said. 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/26/bird-flu-breaks-out-at-a-german-farm.html)  [JS
 
 ### [2007-08-26](/news/2007/08/26/index.md)
 
-##### bird flu
+##### Bird flu
 #  Bird flu breaks out at a German farm. 
 
 

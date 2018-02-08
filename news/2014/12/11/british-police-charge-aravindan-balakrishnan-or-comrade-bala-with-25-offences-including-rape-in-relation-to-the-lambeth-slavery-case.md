@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/11/british-police-charge-aravindan-balakrishnan-or
 
 ### [2014-12-11](/news/2014/12/11/index.md)
 
-##### police
+##### Police
 # British police charge Aravindan Balakrishnan or "Comrade Bala" with 25 offences including rape in relation to the Lambeth slavery case. 
 
 A man who led an obscure Maoist collective and allegedly held three women against their will in a London house for 30 years has been charged with 25 offences including rape, police said Thursday.

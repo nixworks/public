@@ -11,9 +11,9 @@ ISIL attacks on a natural gas plant and other targets in or close to Baghdad kil
 ### [A suicide bombing kills at least 30 and injures 70 others in the southern city of Mukalla, Yemen. The Islamic State of Iraq and the Levant claims responsibility for attack. ](/news/2016/05/15/a-suicide-bombing-kills-at-least-30-and-injures-70-others-in-the-southern-city-of-mukalla-yemen-the-islamic-state-of-iraq-and-the-levant-c.md)
 A suicide bomber killed at least 25 new recruits inside a police compound in the southern Yemeni city of Mukalla on Sunday in an attack claimed by Islamic State, medical and security sources said.
 
-##### rickshaw
+##### Rickshaw
 ### [A truck collides with a motorised rickshaw in the Adilabad district of India's Telangana state resulting in 16 deaths. ](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-the-adilabad-district-of-india-s-telangana-state-resulting-in-16-deaths.md)
-_Context: India, Adilabad district, rickshaw, Telangana_
+_Context: Adilabad district, India, Telangana, rickshaw_
 
 ##### Capital punishment in the Philippines
 ### [President-elect of the Philippines, Rodrigo Duterte, vows to reintroduce capital punishment and give security forces permission to shoot to kill for organized crime figures and people resisting arrest. Duterte is due to take office on June 30, 2016. ](/news/2016/05/15/president-elect-of-the-philippines-rodrigo-duterte-vows-to-reintroduce-capital-punishment-and-give-security-forces-permission-to-shoot-to.md)

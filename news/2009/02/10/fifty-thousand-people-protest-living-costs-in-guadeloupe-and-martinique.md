@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/10/fifty-thousand-people-protest-living-costs-in-g
 
 ### [2009-02-10](/news/2009/02/10/index.md)
 
-##### ongoing general strikes
+##### Ongoing general strikes
 #  Fifty thousand people protest living costs in Guadeloupe and Martinique. 
 
 

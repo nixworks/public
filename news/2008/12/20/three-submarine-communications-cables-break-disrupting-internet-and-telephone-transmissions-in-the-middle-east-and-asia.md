@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/20/three-submarine-communications-cables-break-dis
 
 ### [2008-12-20](/news/2008/12/20/index.md)
 
-##### submarine communications cable
+##### Submarine communications cable
 #  Three submarine communications cables break, disrupting Internet and telephone transmissions in the Middle East and Asia. 
 
 

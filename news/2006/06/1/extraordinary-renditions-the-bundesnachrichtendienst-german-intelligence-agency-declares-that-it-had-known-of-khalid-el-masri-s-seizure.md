@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/06/1/extraordinary-renditions-the-bundesnachrichtendi
 
 ### [2006-06-1](/news/2006/06/1/index.md)
 
-##### kidnapping
+##### Kidnapping
 #  Extraordinary renditions. The Bundesnachrichtendienst (German intelligence agency) declares that it had known of Khalid El-Masri's seizure 16 months before Germany was officially informed of his mistaken arrest in the name of the War on Terror. Germany had previously claimed that it did not know of el-Masri's abduction by the CIA and his stay in the Salt Pit in Afghanistan until his return to the country in May 2004 
 
 

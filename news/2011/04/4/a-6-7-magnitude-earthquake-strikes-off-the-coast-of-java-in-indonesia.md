@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/4/a-6-7-magnitude-earthquake-strikes-off-the-coast
 
 ### [2011-04-4](/news/2011/04/4/index.md)
 
-##### earthquake
+##### Earthquake
 # A 6.7 magnitude earthquake strikes off the coast of Java in Indonesia. 
 
 Hundreds of residents fled an Indonesian port town for higher ground on Monday when an earthquake struck south of Java with a magnitude estimated by US seismologists at 6.7.

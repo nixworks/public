@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/3/two-car-bombs-explode-minutes-apart-in-southern-
 
 ### [2006-02-3](/news/2006/02/3/index.md)
 
-##### car bombs
+##### Car bombs
 #  Two car bombs explode minutes apart in southern Baghdad, killing at least 16 people and wounding more than 90 others. 
 
 

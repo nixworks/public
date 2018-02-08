@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/18/a-gas-explosion-in-a-coal-mine-in-shanxi-provin
 
 ### [2007-03-18](/news/2007/03/18/index.md)
 
-##### coal
+##### Coal
 #  A gas explosion in a coal mine in Shanxi province in northern China traps 21 miners. 
 
 A gas explosion at a mine in northern China has left 21 workers trapped.

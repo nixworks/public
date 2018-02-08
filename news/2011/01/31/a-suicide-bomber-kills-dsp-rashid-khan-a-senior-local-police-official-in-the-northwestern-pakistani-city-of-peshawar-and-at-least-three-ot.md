@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/31/a-suicide-bomber-kills-dsp-rashid-khan-a-senior
 
 ### [2011-01-31](/news/2011/01/31/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills DSP Rashid Khan, a senior local police official in the northwestern Pakistani city of Peshawar, and at least three others. 
 
 

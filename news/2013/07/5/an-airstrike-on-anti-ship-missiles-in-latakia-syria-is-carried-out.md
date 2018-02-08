@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/5/an-airstrike-on-anti-ship-missiles-in-latakia-sy
 
 ### [2013-07-5](/news/2013/07/5/index.md)
 
-##### airstrike on anti-ship missiles in Latakia, Syria
+##### Airstrike on anti-ship missiles in Latakia, Syria
 # An airstrike on anti-ship missiles in Latakia, Syria is carried out.
 
 

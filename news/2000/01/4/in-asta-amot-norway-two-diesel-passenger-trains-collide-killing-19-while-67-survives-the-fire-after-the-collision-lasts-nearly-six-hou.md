@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/01/4/in-asta-amot-norway-two-diesel-passenger-trains-
 
 ### [2000-01-4](/news/2000/01/4/index.md)
 
-##### sta accident
+##### Sta accident
 # In sta, mot, Norway, two diesel passenger trains collide, killing 19, while 67 survives. The fire after the collision lasts nearly six hours.
 
 

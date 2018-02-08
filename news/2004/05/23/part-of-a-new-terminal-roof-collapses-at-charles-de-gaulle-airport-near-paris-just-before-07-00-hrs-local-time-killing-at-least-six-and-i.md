@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/23/part-of-a-new-terminal-roof-collapses-at-charle
 
 ### [2004-05-23](/news/2004/05/23/index.md)
 
-##### airport terminal
+##### Airport terminal
 #  Part of a new terminal roof collapses at Charles de Gaulle Airport near Paris just before 07:00 hrs local time, killing at least six, and injuring several others. 
 
 

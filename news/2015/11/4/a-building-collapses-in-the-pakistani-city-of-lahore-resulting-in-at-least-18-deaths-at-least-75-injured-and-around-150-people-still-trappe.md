@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/4/a-building-collapses-in-the-pakistani-city-of-la
 
 ### [2015-11-4](/news/2015/11/4/index.md)
 
-##### collapses
+##### Collapses
 # A building collapses in the Pakistani city of Lahore resulting in at least 18 deaths, at least 75 injured and around 150 people still trapped. 
 
 At&#x20;least&#x20;18&#x20;people&#x20;were&#x20;killed&#x20;and&#x20;up&#x20;to&#x20;150&#x20;trapped&#x20;on&#x20;Wednesday&#x20;when&#x20;a&#x20;factory&#x20;collapsed&#x20;near&#x20;the&#x20;eastern&#x20;Pakistani&#x20;city&#x20;of&#x20;Lahore,&#x20;officials&#x20;said,&#x20;adding&#x20;to&#x20;a&#x20;number&#x20;of&#x20;industrial&#x20;disasters&#x20;to&#x20;hit&#x20;the&#x20;South&#x20;Asian&#x20;nation.

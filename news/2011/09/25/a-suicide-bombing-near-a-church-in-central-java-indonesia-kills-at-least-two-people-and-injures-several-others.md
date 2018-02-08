@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/25/a-suicide-bombing-near-a-church-in-central-java
 
 ### [2011-09-25](/news/2011/09/25/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing near a church in Central Java, Indonesia, kills at least two people and injures several others. 
 
 

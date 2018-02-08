@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/9/a-ship-spills-toxic-bunker-fuel-into-english-bay
 
 ### [2015-04-9](/news/2015/04/9/index.md)
 
-##### bunker fuel
+##### Bunker fuel
 #  A ship spills toxic bunker fuel into English Bay, Vancouver. The fuel has washed up on Vancouver's beaches, prompting a warning from city officials. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/24/a-driver-arrested-on-suspicion-of-driving-under
 
 ### [2015-10-24](/news/2015/10/24/index.md)
 
-##### driving under the influence
+##### Driving under the influence
 # A driver, arrested on suspicion of driving under the influence (DUI), plows into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34 with eight in critical condition. The homecoming game with Kansas was played at 2:30 p.m. CT as scheduled. 
 
 

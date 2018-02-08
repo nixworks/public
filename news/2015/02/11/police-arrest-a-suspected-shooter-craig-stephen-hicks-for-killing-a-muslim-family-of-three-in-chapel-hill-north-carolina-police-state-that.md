@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/11/police-arrest-a-suspected-shooter-craig-stephen
 
 ### [2015-02-11](/news/2015/02/11/index.md)
 
-##### killing a Muslim family of three
+##### Killing a Muslim family of three
 # Police arrest a suspected shooter Craig Stephen Hicks for killing a Muslim family of three in Chapel Hill, North Carolina. Police state that the shooting was motivated by a long-standing neighbor dispute over parking. 
 
 A family of three young Muslims has been shot dead in their home in a quiet neighbourhood of North Carolina in the US.

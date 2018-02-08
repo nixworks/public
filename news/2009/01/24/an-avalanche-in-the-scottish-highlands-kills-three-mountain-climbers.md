@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/24/an-avalanche-in-the-scottish-highlands-kills-th
 
 ### [2009-01-24](/news/2009/01/24/index.md)
 
-##### avalanche
+##### Avalanche
 #  An avalanche in the Scottish Highlands kills three mountain climbers. 
 
 Three men have died following an avalanche on a mountain near Glencoe in Scotland.

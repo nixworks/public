@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/30/one-construction-worker-dies-and-at-least-one-m
 
 ### [2015-10-30](/news/2015/10/30/index.md)
 
-##### construction worker
+##### Construction worker
 # One construction worker dies and at least one more is under the rubble from the collapse of a building being demolished to make way for a Starwood Hotels and Resorts Worldwide luxury boutique hotel in New York City. 
 
 A building undergoing demolition in New York partially collapsed on Friday, killing one construction worker and temporarily trapping another in the rubble, authorities said.

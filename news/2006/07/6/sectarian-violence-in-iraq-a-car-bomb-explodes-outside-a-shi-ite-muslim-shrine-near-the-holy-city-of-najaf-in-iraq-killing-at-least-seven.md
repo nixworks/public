@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/6/sectarian-violence-in-iraq-a-car-bomb-explodes-o
 
 ### [2006-07-6](/news/2006/07/6/index.md)
 
-##### sectarian conflict
+##### Sectarian conflict
 #  Sectarian violence in Iraq: A car bomb explodes outside a Shi'ite Muslim shrine near the holy city of Najaf in Iraq, killing at least seven people. 
 
 

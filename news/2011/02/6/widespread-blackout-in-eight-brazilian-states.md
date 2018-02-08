@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/6/widespread-blackout-in-eight-brazilian-states.ht
 
 ### [2011-02-6](/news/2011/02/6/index.md)
 
-##### power outage
+##### Power outage
 # Widespread blackout in eight Brazilian states. 
 
 A widespread blackout hit at eight states in Brazil&#039;s northeast Friday exposing energy infrastructure vulnerabilities of the nation that will host an Olympics and a World Cup.

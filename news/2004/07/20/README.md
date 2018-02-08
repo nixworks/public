@@ -9,11 +9,11 @@ An investigator for an animal rights group captured video of chickens being kick
 
 ##### Sandy Berger
 ### [ Sandy Berger resigns as a foreign affairs advisor to John Kerry's presidential campaign after it is reported that Berger was under investigation for allegedly illegally taking classified documents belonging to the U.S. National Archives, intended for review by the 9-11 Commission, related to the Clinton administration's handling of millennium terror threats. ](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.md)
-_Context: presidential candidate, John Kerry, Sandy Berger, U.S. National Archives, 9/11 Commission, Bill Clinton_
+_Context: Sandy Berger, U.S. National Archives, 9/11 Commission, John Kerry, presidential candidate, Bill Clinton_
 
 ##### Prime Minister of Canada
 ### [ Canadian Prime minister Paul Martin announces his new cabinet, which includes new faces such as ice hockey great Ken Dryden and former BC premier Ujjal Dosanjh. ](/news/2004/07/20/canadian-prime-minister-paul-martin-announces-his-new-cabinet-which-includes-new-faces-such-as-ice-hockey-great-ken-dryden-and-former-bc-p.md)
-_Context: cabinet, Prime Minister of Canada, Paul Martin, Ken Dryden, Ujjal Dosanjh, ice hockey, British Columbia_
+_Context: Ken Dryden, Ujjal Dosanjh, ice hockey, cabinet, Paul Martin, British Columbia, Prime Minister of Canada_
 
 ##### Gloria Arroyo
 ### [ Gloria Arroyo, President of the Philippines, confirms that hostage Angelo de la Cruz has been freed by his captors after their demands for a one-month-early withdrawal of all 51 Filipino troops from Iraq were met. ](/news/2004/07/20/gloria-arroyo-president-of-the-philippines-confirms-that-hostage-angelo-de-la-cruz-has-been-freed-by-his-captors-after-their-demands-for.md)
@@ -25,7 +25,7 @@ _Context: Palestinian Authority, Ahmed Qurei_
 
 ##### European Union
 ### [ The European Union approves a 50-50 merger between BMG and Sony. ](/news/2004/07/20/the-european-union-approves-a-50-50-merger-between-bmg-and-sony.md)
-_Context: European Union, Sony, BMG_
+_Context: Sony, BMG, European Union_
 
 ## [Previous Day...](/news/2004/07/19/index.md)
 

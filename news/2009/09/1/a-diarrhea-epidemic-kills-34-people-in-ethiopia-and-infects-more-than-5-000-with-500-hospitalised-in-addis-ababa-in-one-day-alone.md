@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/1/a-diarrhea-epidemic-kills-34-people-in-ethiopia-
 
 ### [2009-09-1](/news/2009/09/1/index.md)
 
-##### diarrhea
+##### Diarrhea
 #  A diarrhea epidemic kills 34 people in Ethiopia and infects more than 5,000, with 500 hospitalised in Addis Ababa in one day alone. 
 
 

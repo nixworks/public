@@ -9,7 +9,7 @@ Turkey&#39;s prime minister has announced an end to the operation known as &quot
 
 ##### Iraqi Civil War (2014-present)
 ### [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md)
-_Context: Baghdad, Iraqi Civil War (2014-present), car bomb_
+_Context: Baghdad, car bomb, Iraqi Civil War (2014-present)_
 
 ##### Swedish Academy
 ### [The Swedish Academy announces that American singer-songwriter Bob Dylan has agreed to accept his Nobel Prize in Literature this weekend at a private location in Stockholm. ](/news/2017/03/29/the-swedish-academy-announces-that-american-singer-songwriter-bob-dylan-has-agreed-to-accept-his-nobel-prize-in-literature-this-weekend-at-a.md)
@@ -19,7 +19,7 @@ The American singer, who snubbed a ceremony in December, says no media must be p
 ### [The European Commission blocks the third attempt of the London Stock Exchange and Deutsche Borse at a merger, citing the danger of a "de facto monopoly in the crucial area of fixed income instruments". ](/news/2017/03/29/the-european-commission-blocks-the-third-attempt-of-the-london-stock-exchange-and-deutsche-baprse-at-a-merger-citing-the-danger-of-a-de-fa.md)
 Competition regulator says £21bn deal would create a ‘de facto monopoly’
 
-##### pickup truck
+##### Pickup truck
 ### [A head on crash between a pickup truck and a church bus outside Garner State Park in the American state of Texas kills at least 12 people and injures 3 others. ](/news/2017/03/29/a-head-on-crash-between-a-pickup-truck-and-a-church-bus-outside-garner-state-park-in-the-american-state-of-texas-kills-at-least-12-people-an.md)
 At least 13 people were killed and two others injured in a head-on crash Wednesday between a church bus and pickup truck in southwest Texas, officials said.
 
@@ -29,9 +29,9 @@ The Hawaii federal judge who brought President Trump&apos;s revised travel ban t
 
 ##### Brexit
 ### [The United Kingdom formally notifies the European Council of its intention to withdraw from the European Union and the European Atomic Energy Community. There is not yet agreement on a negotiations roadmap. ](/news/2017/03/29/the-united-kingdom-formally-notifies-the-european-council-of-its-intention-to-withdraw-from-the-european-union-and-the-european-atomic-energ.md)
-_Context: European Atomic Energy Community, European Council, European Union, United Kingdom, Brexit_
+_Context: European Council, European Atomic Energy Community, United Kingdom, European Union, Brexit_
 
-##### last month's presidential election
+##### Last month's presidential election
 ### [Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. ](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-support-for-emmanuel-macron-en-marche-rather-than-for-his-own-party-s-nominee-benoa-r-t-h.md)
 French Socialist Benoit Hamon called on all leftist voters to unite behind his presidential bid Wednesday after former prime minister Manuel Valls said he will vote for rival Emmanuel Macron rather than his own party’s nominee.
 

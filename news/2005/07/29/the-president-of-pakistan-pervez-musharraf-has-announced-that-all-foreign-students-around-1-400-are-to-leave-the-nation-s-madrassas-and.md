@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/29/the-president-of-pakistan-pervez-musharraf-has-
 
 ### [2005-07-29](/news/2005/07/29/index.md)
 
-##### president
+##### President
 #  The President of Pakistan, Pervez Musharraf, has announced that all foreign students (around 1,400) are to leave the nation's Madrassas and go home. 
 
 

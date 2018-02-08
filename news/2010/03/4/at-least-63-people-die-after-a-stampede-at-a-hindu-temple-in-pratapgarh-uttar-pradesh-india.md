@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/4/at-least-63-people-die-after-a-stampede-at-a-hin
 
 ### [2010-03-4](/news/2010/03/4/index.md)
 
-##### a stampede
+##### A stampede
 # At least 63 people die after a stampede at a Hindu temple in Pratapgarh, Uttar Pradesh, India. 
 
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

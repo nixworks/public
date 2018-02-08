@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/29/a-gunman-kills-at-least-eight-people-and-injure
 
 ### [2009-03-29](/news/2009/03/29/index.md)
 
-##### kills
+##### Kills
 #  A gunman kills at least eight people and injures three others at a nursing home in Carthage, North Carolina, United States. 
 
 

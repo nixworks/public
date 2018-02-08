@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/20/at-least-two-people-die-in-a-landslide-in-cotab
 
 ### [2008-06-20](/news/2008/06/20/index.md)
 
-##### landslide
+##### Landslide
 #  At least two people die in a landslide in Cotabato City in Mindanao as Typhoon Fengshen hits the Philippines. 
 
 

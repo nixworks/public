@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/17/irish-police-arrest-four-people-in-cork-and-thr
 
 ### [2005-02-17](/news/2005/02/17/index.md)
 
-##### garda
+##### Garda
 #  Irish police arrest four people in Cork and three in Dublin in raids concentrating on the financing of the Provisional IRA. Over 2.3 million pounds sterling were seized in Cork, and GBP60,000 in Northern Bank notes believed to be from the GBP26.5 million robbery in Belfast just before Christmas. Reportedly, among the people arrested are former Sinn Fin councillor Tom Hanlon and someone working in the banking industry. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/14/a-bridge-under-construction-completely-collapse
 
 ### [2007-08-14](/news/2007/08/14/index.md)
 
-##### bridge
+##### Bridge
 #  A bridge under construction completely collapses in Fenghuang County, Hunan Province, China, killing at least 47 people. 21 workers are injured, 13 are still missing.
 
 

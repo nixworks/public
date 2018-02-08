@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/16/the-uk-government-is-to-pay-millions-of-pounds-
 
 ### [2010-11-16](/news/2010/11/16/index.md)
 
-##### government
+##### Government
 # The UK Government is to pay millions of pounds in compensation to around a dozen British citizens who were held in detention overseas, including the camp at Guantanamo Bay, and who say British security services colluded in their torture. 
 
 About a dozen men, who accused UK security forces of colluding in their torture overseas, are to get millions of pounds in compensation.

@@ -15,23 +15,23 @@ United Nations human rights investigators have gathered testimony from casualtie
 ### [At least 10 people are killed and 26 others injured in attacks across Iraq. ](/news/2013/05/6/at-least-10-people-are-killed-and-26-others-injured-in-attacks-across-iraq.md)
 ##### Islamist
 ### [13 people die in clashes between Islamist protesters and Bangladesh Police officers in the Bangladesh capital of Dhaka and the outlying suburb of Kanchpur. ](/news/2013/05/6/13-people-die-in-clashes-between-islamist-protesters-and-bangladesh-police-officers-in-the-bangladesh-capital-of-dhaka-and-the-outlying-subu.md)
-_Context: Dhaka, Islamist, police officers_
+_Context: Islamist, Dhaka, police officers_
 
 ##### Jamiat Ulema-e-Islam
 ### [15 people are killed and another 50 are injured when a bomb detonates at a political rally of the Jamiat Ulema-e-Islam in Kurram Valley, Federally Administered Tribal Areas, Pakistan. ](/news/2013/05/6/15-people-are-killed-and-another-50-are-injured-when-a-bomb-detonates-at-a-political-rally-of-the-jamiat-ulema-e-islam-in-kurram-valley-fed.md)
-_Context: Pakistan, Kurram, Federally Administered Tribal Areas, Jamiat Ulema-e-Islam_
+_Context: Jamiat Ulema-e-Islam, Kurram, Pakistan, Federally Administered Tribal Areas_
 
 ##### Walmart
 ### [Wal-Mart passes ExxonMobil as the largest company by revenue on the annual Fortune 500 list. ](/news/2013/05/6/wal-mart-passes-exxonmobil-as-the-largest-company-by-revenue-on-the-annual-fortune-500-list.md)
-_Context: Walmart, Fortune 500, ExxonMobil Corporation_
+_Context: Fortune 500, Walmart, ExxonMobil Corporation_
 
 ##### Bank of America
 ### [Bank of America agrees to pay US$1.6 billion to insurer MBIA to settle a long-running dispute between MBIA and two companies Bank of America had since acquired. ](/news/2013/05/6/bank-of-america-agrees-to-pay-us-1-6-billion-to-insurer-mbia-to-settle-a-long-running-dispute-between-mbia-and-two-companies-bank-of-america.md)
-_Context: MBIA, US$, Bank of America_
+_Context: Bank of America, US$, MBIA_
 
 ##### Sweden
 ### [A new Swedish study published in the journal "Pediatrics" finds that children whose parents suck on their pacifiers have fewer allergies later in life. ](/news/2013/05/6/a-new-swedish-study-published-in-the-journal-pediatrics-finds-that-children-whose-parents-suck-on-their-pacifiers-have-fewer-allergies-lat.md)
-_Context: Pediatrics, pacifier, Sweden, allergies_
+_Context: Sweden, pacifier, Pediatrics, allergies_
 
 ##### German
 ### [Germany arrests a 93-year-old, alleged former Auschwitz guard, Hans Lipschis, on charges of murder. ](/news/2013/05/6/germany-arrests-a-93-year-old-alleged-former-auschwitz-guard-hans-lipschis-on-charges-of-murder.md)
@@ -45,7 +45,7 @@ The FBI says it believes &quot;a terror attack was disrupted&quot; when authorit
 ### [U.S. Air Force Lieutenant Colonel Jeff Krusinski, who was in charge of the Sexual Assault Prevention and Response Office, is arrested on charges of sexual assault. ](/news/2013/05/6/u-s-air-force-lieutenant-colonel-jeff-krusinski-who-was-in-charge-of-the-sexual-assault-prevention-and-response-office-is-arrested-on-cha.md)
 An Air Force officer in charge of the Sexual Assault Prevention and Response Office was arrested and charged with sexual battery over the weekend in a D.C. suburb.
 
-##### dinosaur
+##### Dinosaur
 ### [A stolen dinosaur skeleton is returned to Mongolia. ](/news/2013/05/6/a-stolen-dinosaur-skeleton-is-returned-to-mongolia.md)
 It&apos;s bad enough to go from roaming the earth as a fearsome predator to being uprooted and dragged across three continents, but to end up in a basement in Queens? No wonder the Tyrannosaurus Bataar was broken up. Literally. But not for long. Prosecutors and customs officials Monday loaded up box...
 

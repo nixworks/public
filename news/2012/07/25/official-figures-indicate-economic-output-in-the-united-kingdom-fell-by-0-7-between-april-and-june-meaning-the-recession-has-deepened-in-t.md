@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/25/official-figures-indicate-economic-output-in-th
 
 ### [2012-07-25](/news/2012/07/25/index.md)
 
-##### economic output
+##### Economic output
 # Official figures indicate economic output in the United Kingdom fell by 0.7% between April and June, meaning the recession has deepened in the country. 
 
 The UK recession has deepened, latest official figures show, after the output of the economy fell by a bigger-than-expected 0.7% between April and June.

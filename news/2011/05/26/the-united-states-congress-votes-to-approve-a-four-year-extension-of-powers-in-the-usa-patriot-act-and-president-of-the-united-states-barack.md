@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/26/the-united-states-congress-votes-to-approve-a-f
 
 ### [2011-05-26](/news/2011/05/26/index.md)
 
-##### lawmakers
+##### Lawmakers
 # The United States Congress votes to approve a four year extension of powers in the USA PATRIOT Act and President of the United States Barack Obama signs it into law. 
 
 Acting with minutes to spare, President Obama approved a four-year extension of expiring provisions of the Patriot Act, after Congress overcame mounting opposition from both parties to narrowly...

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/23/the-world-s-largest-mass-immunisation-against-y
 
 ### [2009-11-23](/news/2009/11/23/index.md)
 
-##### yellow fever
+##### Yellow fever
 #  The world's largest mass immunisation against yellow fever begins in West Africa, targeting 12 million people. 
 
 

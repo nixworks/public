@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/4/beijing-and-shanghai-place-orders-for-the-world-
 
 ### [2012-09-4](/news/2012/09/4/index.md)
 
-##### three-tiered
+##### Three-tiered
 # Beijing and Shanghai place orders for the world's longest bus, the 101 foot, five-axle, four-steering-axle, three-tiered "AutoTram". It carries 256 passengers and costs about $10 million a piece. Due to advanced electronics, it is said to be as maneuverable and precise as a conventional bus. 
 
 

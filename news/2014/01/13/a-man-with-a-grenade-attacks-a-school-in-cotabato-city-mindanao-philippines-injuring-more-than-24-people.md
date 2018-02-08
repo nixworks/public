@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/13/a-man-with-a-grenade-attacks-a-school-in-cotaba
 
 ### [2014-01-13](/news/2014/01/13/index.md)
 
-##### grenade
+##### Grenade
 # A man with a grenade attacks a school in Cotabato City, Mindanao, Philippines, injuring more than 24 people. 
 
 Fire in a bunkhouse at campus may have been started to distract authorities away from perpetrator.

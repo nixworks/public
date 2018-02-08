@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/08/14/work-is-completed-on-the-oresund-bridge-connect
 
 ### [1999-08-14](/news/1999/08/14/index.md)
 
-##### resund Bridge
+##### Resund Bridge
 #  Work is completed on the resund Bridge, connecting Denmark and Sweden.
 
 

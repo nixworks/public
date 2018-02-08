@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/05/5/files-purportedly-from-the-campaign-of-emmanuel-
 
 ### [2017-05-5](/news/2017/05/5/index.md)
 
-##### last month's presidential election
+##### Last month's presidential election
 # Files purportedly from the campaign of Emmanuel Macron are posted online. Macron campaign officials say the files are a mix of fake and authentic documents and drew parallels with what happened in the 2016 US Presidential elections. 
 
 

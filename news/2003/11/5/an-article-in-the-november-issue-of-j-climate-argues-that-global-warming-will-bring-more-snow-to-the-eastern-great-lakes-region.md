@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/5/an-article-in-the-november-issue-of-j-climate-ar
 
 ### [2003-11-5](/news/2003/11/5/index.md)
 
-##### global warming
+##### Global warming
 #  An article in the November issue of J. Climate argues that global warming will bring more snow to the Eastern Great Lakes region.
 
 

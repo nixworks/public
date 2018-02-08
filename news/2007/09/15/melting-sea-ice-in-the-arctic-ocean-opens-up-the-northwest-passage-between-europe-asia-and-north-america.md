@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/15/melting-sea-ice-in-the-arctic-ocean-opens-up-th
 
 ### [2007-09-15](/news/2007/09/15/index.md)
 
-##### sea ice
+##### Sea ice
 #  Melting sea ice in the Arctic Ocean opens up the Northwest Passage between Europe, Asia and North America. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/7/a-suicide-car-bomber-strikes-outside-the-indian-
 
 ### [2008-07-7](/news/2008/07/7/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide car bomber strikes outside the Indian embassy in Kabul, Afghanistan, with at least 41 people killed. 
 
 A Taliban suicide car bomb hitthe Indian Embassy in Kabul on Monday, killing 41 people andwounding 139, in an attack Afghan authorities said wascoordinated with foreign agents in the region, a likelyreference to Pakistan.

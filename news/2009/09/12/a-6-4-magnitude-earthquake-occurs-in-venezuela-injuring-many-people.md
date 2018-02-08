@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/12/a-6-4-magnitude-earthquake-occurs-in-venezuela-
 
 ### [2009-09-12](/news/2009/09/12/index.md)
 
-##### earthquake
+##### Earthquake
 #  A 6.4 magnitude earthquake occurs in Venezuela, injuring many people. 
 
 

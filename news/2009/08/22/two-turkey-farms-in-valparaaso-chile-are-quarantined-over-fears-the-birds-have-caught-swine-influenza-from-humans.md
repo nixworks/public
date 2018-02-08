@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/22/two-turkey-farms-in-valparaaso-chile-are-quaran
 
 ### [2009-08-22](/news/2009/08/22/index.md)
 
-##### turkey
+##### Turkey
 #  Two turkey farms in Valparaiso, Chile, are quarantined over fears the birds have caught swine influenza from humans. 
 
 Two turkey farms in Chile have been put under quarantine restrictions after fears the birds have caught swine flu from humans. Vets in the country said the A/H1N1 flu virus had been discovered in the two poultry plants in Valparaiso.

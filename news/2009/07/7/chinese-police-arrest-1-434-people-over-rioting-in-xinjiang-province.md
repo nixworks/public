@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/7/chinese-police-arrest-1-434-people-over-rioting-
 
 ### [2009-07-7](/news/2009/07/7/index.md)
 
-##### riots
+##### Riots
 #  Chinese police arrest 1,434 people over rioting in Xinjiang province. 
 
 Rival ethnic Uighur and Han Chinese groups take to streets defying security crackdown.

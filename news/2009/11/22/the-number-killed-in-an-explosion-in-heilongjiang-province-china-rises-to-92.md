@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/22/the-number-killed-in-an-explosion-in-heilongjia
 
 ### [2009-11-22](/news/2009/11/22/index.md)
 
-##### mine disaster
+##### Mine disaster
 #  The number killed in an explosion in Heilongjiang province, China rises to 92. 
 
 The explosion on Saturday was unusual in that it involved a large mine operated by one of China’s biggest state-owned companies.

@@ -3,9 +3,9 @@ Formats: [HTML](2011/01/17/index.html)  [JSON](2011/01/17/index.json)  [XML](201
 
 ## [2011-01-17](/news/2011/01/17/index.md)
 
-##### explosion
+##### Explosion
 ### [An explosion destroys a bus in the Khyber Pakhtunkhwa province of Pakistan, killing 18. ](/news/2011/01/17/an-explosion-destroys-a-bus-in-the-khyber-pakhtunkhwa-province-of-pakistan-killing-18.md)
-_Context: Pakistan, explosion, Northwestern Pakistan_
+_Context: Northwestern Pakistan, explosion, Pakistan_
 
 ##### Karachi
 ### [A partial curfew is imposed in parts of Karachi, Pakistan, aimed at ending a surge in ethnic and political violence that has claimed 29 lives in the past four days. ](/news/2011/01/17/a-partial-curfew-is-imposed-in-parts-of-karachi-pakistan-aimed-at-ending-a-surge-in-ethnic-and-political-violence-that-has-claimed-29-live.md)
@@ -17,7 +17,7 @@ Strike over export curbs rekindles a dispute that helped drive global grains pri
 
 ##### Walmart
 ### [Walmart's bid for South African retail store Massmart is approved by shareholders, with organized labour groups such as the Congress of South African Trade Unions threatening boycotts against the store.](/news/2011/01/17/walmart-s-bid-for-south-african-retail-store-massmart-is-approved-by-shareholders-with-organized-labour-groups-such-as-the-congress-of-sout.md)
-_Context: Congress of South African Trade Unions, Walmart, organized labour, Massmart, boycotts, South Africa_
+_Context: organized labour, Walmart, boycotts, Congress of South African Trade Unions, South Africa, Massmart_
 
 ##### GlaxoSmithKline
 ### [GlaxoSmithKline pays out $3.4 billion last quarter in legal settlings over their drug Avandia. ](/news/2011/01/17/glaxosmithkline-pays-out-3-4-billion-last-quarter-in-legal-settlings-over-their-drug-avandia.md)
@@ -33,7 +33,7 @@ _Context: Vietnam_
 
 ##### Armenian President
 ### [The President of Armenia accuses Turkey of "destroying" a bid to normalize relations between the two countries, who are locked in a dispute over the mass killings of Armenians by Ottoman Turks during World War I. ](/news/2011/01/17/the-president-of-armenia-accuses-turkey-of-destroying-a-bid-to-normalize-relations-between-the-two-countries-who-are-locked-in-a-dispute.md)
-_Context: reconciliation, Armenian President, Turkey, genocide of Armenians, First World War_
+_Context: Turkey, First World War, Armenian President, reconciliation, genocide of Armenians_
 
 ##### China
 ### [Two judges are fired and a court official suspended in China over a life sentence imposed on a man who evaded thousands in motorway toll fees. The ruling is also overturned. ](/news/2011/01/17/two-judges-are-fired-and-a-court-official-suspended-in-china-over-a-life-sentence-imposed-on-a-man-who-evaded-thousands-in-motorway-toll-fee.md)
@@ -59,7 +59,7 @@ Acts of self-immolation spreads through North Africa and Middle East after suici
 ### [The leader of the Israeli Labor Party Ehud Barak and four other Labor Party MKs announce their resignation from the party and the formation of a new "centrist Zionist and democratic" faction called "Independence". ](/news/2011/01/17/the-leader-of-the-israeli-labor-party-ehud-barak-and-four-other-labor-party-mks-announce-their-resignation-from-the-party-and-the-formation.md)
 Party leader, along with other ministers expected to form new party; House Committee scheduled to meet to vote on split; Eitan Cabel charges &quot;these MKs have decided to destroy party.&quot;
 
-##### demonstrations that toppled his regime
+##### Demonstrations that toppled his regime
 ### [2010-2011 Tunisian protests: Anti-government demonstrations continue to take place as a new cabinet is named. ](/news/2011/01/17/2010a2011-tunisian-protests-anti-government-demonstrations-continue-to-take-place-as-a-new-cabinet-is-named.md)
 _Context: demonstrations that toppled his regime_
 

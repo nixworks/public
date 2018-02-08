@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/7/a-disgruntled-bus-driver-goes-on-a-rampage-in-du
 
 ### [2006-05-7](/news/2006/05/7/index.md)
 
-##### bus driver
+##### Bus driver
 #  A disgruntled bus driver goes on a rampage in Dublin, Ireland, smashing through stopped and on-coming vehicles as he drives through streets, across tram lines and up the wrong side of a dual-carriageway. One woman is killed and 13 people more injured, including five Garda (Irish Police). Armed Garda open fire on three occasions to try to stop the bus. 
 
 A 61-year-old woman has been killed and 13 other people were injured, including five gardaí, after being hit by a stolen bus in Dublin.

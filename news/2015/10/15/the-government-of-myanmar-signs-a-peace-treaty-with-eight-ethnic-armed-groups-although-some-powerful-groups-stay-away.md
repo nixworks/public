@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/15/the-government-of-myanmar-signs-a-peace-treaty-
 
 ### [2015-10-15](/news/2015/10/15/index.md)
 
-##### government of Myanmar
+##### Government of Myanmar
 # The government of Myanmar signs a peace treaty with eight ethnic armed groups, although some powerful groups stay away. 
 
 

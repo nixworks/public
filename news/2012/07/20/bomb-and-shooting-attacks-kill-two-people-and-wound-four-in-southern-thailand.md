@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/20/bomb-and-shooting-attacks-kill-two-people-and-w
 
 ### [2012-07-20](/news/2012/07/20/index.md)
 
-##### southern Thailand
+##### Southern Thailand
 # Bomb and shooting attacks kill two people and wound four in southern Thailand. 
 
 Two civilians were killed and four wounded in bomb and shooting attacks in southern Thailand, a military spokesman said Friday, as the region marked the start of the Islamic holy month of Ramadan. A 25-year-old male security guard was shot dead...

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-uni
 
 ### [2016-02-14](/news/2016/02/14/index.md)
 
-##### northeastern United States
+##### Northeastern United States
 # The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/22/an-investigation-concludes-pilot-error-caused-t
 
 ### [2007-10-22](/news/2007/10/22/index.md)
 
-##### pilot error
+##### Pilot error
 #  An investigation concludes pilot error caused the crash of Garuda Indonesia Flight 200 on March 7, killing 21 people. 
 
 

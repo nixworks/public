@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-fo
 
 ### [2011-10-14](/news/2011/10/14/index.md)
 
-##### drones launch
+##### Drones launch
 # A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. 
 
 

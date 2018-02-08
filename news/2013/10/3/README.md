@@ -11,9 +11,9 @@ Fighter jets have bombed camps belonging to suspected Islamist militants in nort
 ### [The Tehrik-i-Taliban Pakistan attacks a compound belonging to former Tehrik-i-Taliban Pakistan commander Nabi Hanfi leaving 15 dead near the border of North Waziristan. ](/news/2013/10/3/the-tehrik-i-taliban-pakistan-attacks-a-compound-belonging-to-former-tehrik-i-taliban-pakistan-commander-nabi-hanfi-leaving-15-dead-near-the.md)
 Fifteen people are killed as five attackers, including at least three suicide bombers, launch an attack in northwest Pakistan.
 
-##### antitrust
+##### Antitrust
 ### [The antitrust chief of the European Union, Joaquin Almunia, discusses coming charges against Gazprom, the Russian natural gas monopolist. ](/news/2013/10/3/the-antitrust-chief-of-the-european-union-joaquin-almunia-discusses-coming-charges-against-gazprom-the-russian-natural-gas-monopolist.md)
-_Context: antitrust, Joaquin Almunia, European Union, Russia, Gazprom_
+_Context: Gazprom, European Union, Russia, antitrust, Joaquin Almunia_
 
 ##### Twitter Inc.
 ### [Twitter Inc. publicly files IPO related disclosure documents. ](/news/2013/10/3/twitter-inc-publicly-files-ipo-related-disclosure-documents.md)
@@ -27,19 +27,19 @@ Gambia has announced its withdrawal from the Commonwealth, barely six weeks befo
 ### [Russia evacuates Libya of all Russian diplomats and their families one day after an attack on their embassy left one dead. ](/news/2013/10/3/russia-evacuates-libya-of-all-russian-diplomats-and-their-families-one-day-after-an-attack-on-their-embassy-left-one-dead.md)
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
-##### migrant boat sinks
+##### Migrant boat sinks
 ### [2013 Mediterranean Sea migrant shipwreck. A fire engulfs a boat carrying African migrants off the coast of Lampedusa, Italy, killing at least 114 people, 200 remain missing. ](/news/2013/10/3/2013-mediterranean-sea-migrant-shipwreck-a-fire-engulfs-a-boat-carrying-african-migrants-off-the-coast-of-lampedusa-italy-killing-at-leas.md)
 The deaths of at least 111 people again underscored the dangerous, desperate efforts by many in Africa and the Middle East to reach Europe.
 
 ##### Murtala Muhammed International Airport
 ### [A passenger plane carrying 27 people crashes at the Murtala Muhammed International Airport in Lagos, Nigeria, with 13 deaths reported. ](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.md)
-_Context: Nigeria, Murtala Muhammed International Airport, Lagos_
+_Context: Murtala Muhammed International Airport, Nigeria, Lagos_
 
 ##### Lalu Prasad Yadav
 ### [Indian politician Lalu Prasad Yadav is sentenced to 5 years imprisonment for illegally taking money out of the Chaibasa treasury. ](/news/2013/10/3/indian-politician-lalu-prasad-yadav-is-sentenced-to-5-years-imprisonment-for-illegally-taking-money-out-of-the-chaibasa-treasury.md)
-_Context: Lalu Prasad Yadav, Chaibasa_
+_Context: Chaibasa, Lalu Prasad Yadav_
 
-##### fatally shot
+##### Fatally shot
 ### [A woman is fatally shot by police after striking a barrier at a White House security checkpoint followed by a car chase. ](/news/2013/10/3/a-woman-is-fatally-shot-by-police-after-striking-a-barrier-at-a-white-house-security-checkpoint-followed-by-a-car-chase.md)
 A police chase in Washington DC ends in gunfire, sparking panic at the White House and US Capitol and leaving a woman dead and two officers injured.
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/23/an-earthquake-of-moment-magnitude-8-1-occurs-at
 
 ### [2004-12-23](/news/2004/12/23/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake of moment magnitude 8.1 occurs at 14:59 UTC, 305 mi north of Macquarie Island. 
 
 

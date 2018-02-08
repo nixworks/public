@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/9/six-people-are-killed-and-41-others-injured-on-t
 
 ### [2012-12-9](/news/2012/12/9/index.md)
 
-##### bus
+##### Bus
 # Six people are killed and 41 others injured on the spot when a bus skids off the road and plunges into a 30-meter deep gorge in Chimaltenango, Guatemala. 
 
 

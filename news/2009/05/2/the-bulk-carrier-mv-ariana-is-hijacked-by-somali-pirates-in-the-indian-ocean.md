@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/2/the-bulk-carrier-mv-ariana-is-hijacked-by-somali
 
 ### [2009-05-2](/news/2009/05/2/index.md)
 
-##### bulk carrier
+##### Bulk carrier
 #  The bulk carrier MV "Ariana" is hijacked by Somali pirates in the Indian Ocean. 
 
 

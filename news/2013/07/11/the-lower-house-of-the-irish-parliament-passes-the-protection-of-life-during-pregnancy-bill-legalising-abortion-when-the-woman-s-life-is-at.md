@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/11/the-lower-house-of-the-irish-parliament-passes-
 
 ### [2013-07-11](/news/2013/07/11/index.md)
 
-##### lower house
+##### Lower house
 # The lower house of the Irish parliament passes the Protection of Life During Pregnancy Bill, legalising abortion when the woman's life is at risk. 
 
 The Government has passed legislation for the first time allowing for abortion in limited circumstances.

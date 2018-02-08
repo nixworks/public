@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/9/conflict-in-cote-d-ivoire-canada-has-decided-to-
 
 ### [2004-11-9](/news/2004/11/9/index.md)
 
-##### airlift
+##### Airlift
 #  Conflict in Cte d'Ivoire: Canada has decided to airlift its citizens out of the troubled Cte d'Ivoire following a similar course of action by France and the United Nations. Other countries such as Spain, Italy, Germany, and the United Kingdom will do so. 
 
 

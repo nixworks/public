@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/19/seven-car-bombs-are-detonated-in-baghdad-killin
 
 ### [2009-08-19](/news/2009/08/19/index.md)
 
-##### bombings
+##### Bombings
 #  Seven car bombs are detonated in Baghdad, killing at least 95, and wounding nearly 600. 
 
 Insurgents struck at the heart of Iraq’s government, killing at least 95 people in the worst attacks since U.S. forces handed over security responsibilities in June.

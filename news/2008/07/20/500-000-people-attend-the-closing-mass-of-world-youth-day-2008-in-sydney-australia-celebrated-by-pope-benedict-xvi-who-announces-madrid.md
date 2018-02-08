@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/20/500-000-people-attend-the-closing-mass-of-world
 
 ### [2008-07-20](/news/2008/07/20/index.md)
 
-##### mass
+##### Mass
 #  500,000 people attend the closing mass of World Youth Day 2008 in Sydney, Australia, celebrated by Pope Benedict XVI, who announces Madrid as the host city for the next World Youth Day in 2011. 
 
 

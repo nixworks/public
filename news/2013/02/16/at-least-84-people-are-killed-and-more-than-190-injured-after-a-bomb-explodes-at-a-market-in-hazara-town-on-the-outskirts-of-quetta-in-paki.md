@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/16/at-least-84-people-are-killed-and-more-than-190
 
 ### [2013-02-16](/news/2013/02/16/index.md)
 
-##### bomb
+##### Bomb
 # At least 84 people are killed and more than 190 injured after a bomb explodes at a market in Hazara Town on the outskirts of Quetta, in Pakistan. Most of the victims are members of the predominantly Twelver Shia Hazara minority that was targeted by Lashkar-e-Jhangvi only a month earlier. The organization later claims responsibility for the blasts. 
 
 At least 84 people killed in attack on vegetable market that targeted Hazara Shias in southwestern city of Quetta.

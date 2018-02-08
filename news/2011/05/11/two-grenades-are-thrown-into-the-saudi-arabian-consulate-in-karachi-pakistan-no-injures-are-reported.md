@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/11/two-grenades-are-thrown-into-the-saudi-arabian-
 
 ### [2011-05-11](/news/2011/05/11/index.md)
 
-##### grenade
+##### Grenade
 # Two grenades are thrown into the Saudi Arabian consulate in Karachi, Pakistan; no injures are reported. 
 
 

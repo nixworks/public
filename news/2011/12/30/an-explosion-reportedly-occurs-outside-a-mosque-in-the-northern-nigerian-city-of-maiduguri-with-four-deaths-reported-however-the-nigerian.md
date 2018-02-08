@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/30/an-explosion-reportedly-occurs-outside-a-mosque
 
 ### [2011-12-30](/news/2011/12/30/index.md)
 
-##### mosque
+##### Mosque
 # An explosion reportedly occurs outside a mosque in the northern Nigerian city of Maiduguri with four deaths reported. However, the Nigerian military later denies it was an explosion, claiming the noise was caused by an armed robbery with two deaths. 
 
 An attack blamed on the Islamist Boko Haram group hits the Nigerian city of Maiduguri, reports say, killing at least two people.

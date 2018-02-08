@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/10/three-construction-workers-are-killed-installin
 
 ### [2007-08-10](/news/2007/08/10/index.md)
 
-##### coal mine
+##### Coal mine
 #  Three construction workers are killed installing equipment at a coal mine in southwestern Indiana. 
 
 

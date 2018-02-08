@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/02/2/the-national-liberation-army-releases-former-con
 
 ### [2017-02-2](/news/2017/02/2/index.md)
 
-##### lasting peace
+##### Lasting peace
 # The National Liberation Army releases former congressman Odin Sanchez, who had been held hostage by the rebel group since April 2016, paving the way for peace talks to begin between the rebels and the Colombian government next week in Ecuador. 
 
 

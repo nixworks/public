@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/07/2/a-bridge-collapses-under-a-pakistan-army-train-a
 
 ### [2015-07-2](/news/2015/07/2/index.md)
 
-##### collapses under a Pakistan Army train
+##### Collapses under a Pakistan Army train
 # A bridge collapses under a Pakistan Army train at Gujranwala, killing nineteen and injuring over 100.
 
 The deceased include Pakistan Army Engineering Battalion Unit Commander Lt. Col Amir Jadoon, his wife and two kids.

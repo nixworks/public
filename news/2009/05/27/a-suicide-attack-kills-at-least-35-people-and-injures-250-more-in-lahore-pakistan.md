@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/27/a-suicide-attack-kills-at-least-35-people-and-i
 
 ### [2009-05-27](/news/2009/05/27/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills at least 35 people and injures 250 more in Lahore, Pakistan. 
 
 

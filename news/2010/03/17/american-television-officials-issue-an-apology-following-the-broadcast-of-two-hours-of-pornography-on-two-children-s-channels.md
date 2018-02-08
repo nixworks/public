@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/17/american-television-officials-issue-an-apology-
 
 ### [2010-03-17](/news/2010/03/17/index.md)
 
-##### pornography
+##### Pornography
 # American television officials issue an apology following the broadcast of two hours of pornography on two children's channels. 
 
 

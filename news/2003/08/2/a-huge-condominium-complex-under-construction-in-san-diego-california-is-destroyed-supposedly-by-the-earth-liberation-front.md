@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/2/a-huge-condominium-complex-under-construction-in
 
 ### [2003-08-2](/news/2003/08/2/index.md)
 
-##### condominium
+##### Condominium
 #  A huge condominium complex under construction in San Diego, California, is destroyed, supposedly by the Earth Liberation Front.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/9/a-new-series-of-hypodermic-needle-stabbings-occu
 
 ### [2009-09-9](/news/2009/09/9/index.md)
 
-##### hypodermic needle
+##### Hypodermic needle
 #  A new series of hypodermic needle stabbings occur in rmqi, northwestern China. 
 
 

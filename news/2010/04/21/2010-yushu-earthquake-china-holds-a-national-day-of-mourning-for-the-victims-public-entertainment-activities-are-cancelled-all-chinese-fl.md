@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/21/2010-yushu-earthquake-china-holds-a-national-da
 
 ### [2010-04-21](/news/2010/04/21/index.md)
 
-##### an earthquake struck on 14 April
+##### An earthquake struck on 14 April
 # 2010 Yushu earthquake: China holds a national day of mourning for the victims. Public entertainment activities are cancelled, all Chinese flags around the world flew at half-staff. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/31/a-main-belt-asteroid-discovered-at-ukraine-s-an
 
 ### [2013-01-31](/news/2013/01/31/index.md)
 
-##### main belt asteroid
+##### Main belt asteroid
 # A main belt asteroid discovered at Ukraine's Andrushivka Astronomical Observatory in August 2008 is named 274301 Wikipedia after the Wikipedia encyclopedia. 
 
 

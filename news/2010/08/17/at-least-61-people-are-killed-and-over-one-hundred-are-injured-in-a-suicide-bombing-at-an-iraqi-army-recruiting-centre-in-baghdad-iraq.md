@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/17/at-least-61-people-are-killed-and-over-one-hund
 
 ### [2010-08-17](/news/2010/08/17/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # At least 61 people are killed and over one hundred are injured in a suicide bombing at an Iraqi Army recruiting centre in Baghdad, Iraq. 
 
 Some&#x20;60&#x20;people&#x20;have&#x20;been&#x20;killed&#x20;and&#x20;scores&#x20;more&#x20;injured&#x20;after&#x20;a&#x20;suicide&#x20;attack&#x20;on&#x20;an&#x20;army&#x20;recruitment&#x20;centre&#x20;in&#x20;the&#x20;Iraqi&#x20;capital&#x20;of&#x20;Baghdad,&#x20;officials&#x20;say.

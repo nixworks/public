@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/4/nine-north-korean-defectors-arrive-in-south-kore
 
 ### [2011-10-4](/news/2011/10/4/index.md)
 
-##### defects
+##### Defects
 # Nine North Korean defectors arrive in South Korea after staying in Japan for three weeks. 
 
 

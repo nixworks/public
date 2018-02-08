@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/04/11/two-people-are-killed-and-41-injured-in-a-bus-c
 
 ### [2013-04-11](/news/2013/04/11/index.md)
 
-##### bus
+##### Bus
 # Two people are killed and 41 injured in a bus crash in Irving, Texas, United States. 
 
 

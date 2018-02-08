@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/16/heavy-snowfall-and-blizzard-conditions-hit-the-
 
 ### [2014-02-16](/news/2014/02/16/index.md)
 
-##### northeastern United States
+##### Northeastern United States
 # Heavy snowfall and blizzard conditions hit the northeastern United States days after a bad storm with between 15 and 17 inches of snow reported in Massachusetts and Maine. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

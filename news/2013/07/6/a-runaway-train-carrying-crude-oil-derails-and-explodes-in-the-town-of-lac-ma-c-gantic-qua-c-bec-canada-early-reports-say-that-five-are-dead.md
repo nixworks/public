@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/6/a-runaway-train-carrying-crude-oil-derails-and-e
 
 ### [2013-07-6](/news/2013/07/6/index.md)
 
-##### derails and explodes
+##### Derails and explodes
 # A runaway train carrying crude oil derails and explodes in the town of Lac-Megantic, Quebec, Canada. Early reports say that five are dead, a hundred are missing and 2000 are evacuated. 
 
 The train that careened into the centre of town early Saturday was unmanned when it derailed and exploded in a huge ball of flame, says a spokesperson for the company that owns the locomotive.

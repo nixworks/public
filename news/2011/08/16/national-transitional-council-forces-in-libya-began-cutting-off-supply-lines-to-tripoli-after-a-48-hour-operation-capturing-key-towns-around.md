@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/08/16/national-transitional-council-forces-in-libya-b
 
 ### [2011-08-16](/news/2011/08/16/index.md)
 
-##### civil war
+##### Civil war
 # National Transitional Council forces in Libya began cutting off supply lines to Tripoli after a 48 hour operation capturing key towns around the capital and surrounding the city. 
 
 

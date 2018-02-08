@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/09/10/terrorism-al-qaida-sued-over-september-11-attac
 
 ### [2003-09-10](/news/2003/09/10/index.md)
 
-##### terrorist
+##### Terrorist
 #  Terrorism: Al-Qaida sued over September 11 attacks. Major insurance companies are suing al-Qaida and Middle Eastern governments in a bid to recover billions of dollars in losses related to the September 11 attacks.
 
 

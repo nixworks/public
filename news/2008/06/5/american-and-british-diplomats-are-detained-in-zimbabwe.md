@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/5/american-and-british-diplomats-are-detained-in-z
 
 ### [2008-06-5](/news/2008/06/5/index.md)
 
-##### are detained
+##### Are detained
 #  American and British diplomats are detained in Zimbabwe. 
 
 

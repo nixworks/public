@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/24/49-unarmed-iraqi-army-recruits-based-at-kirkush
 
 ### [2004-10-24](/news/2004/10/24/index.md)
 
-##### recruits
+##### Recruits
 #  49 unarmed Iraqi army recruits, based at Kirkush, are ambushed, forced from their vehicles, laid out in rows of twelve people, and murdered by gunshot to the head. Abu Musab al-Zarqawi claims responsibility, describing the dead as apostates. 
 
 

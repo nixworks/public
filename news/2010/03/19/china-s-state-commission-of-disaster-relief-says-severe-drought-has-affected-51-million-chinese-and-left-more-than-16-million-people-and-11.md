@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/19/china-s-state-commission-of-disaster-relief-say
 
 ### [2010-03-19](/news/2010/03/19/index.md)
 
-##### drinking-water shortages
+##### Drinking-water shortages
 # China's State Commission of Disaster Relief says severe drought has affected 51 million Chinese and left more than 16 million people and 11 million livestock with drinking-water shortages. 
 
 

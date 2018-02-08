@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-
 
 ### [2015-10-24](/news/2015/10/24/index.md)
 
-##### synod on the family
+##### Synod on the family
 # The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. 
 
 Pope Francis called this assembly to reconsider the church’s approach to marriage and family at a time when the very definition of family is changing.

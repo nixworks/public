@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/18/at-least-19-people-are-killed-as-a-gold-mine-co
 
 ### [2015-04-18](/news/2015/04/18/index.md)
 
-##### gold mine
+##### Gold mine
 # At least 19 people are killed as a gold mine collapses in Tanzania's Msalala district. 
 
 

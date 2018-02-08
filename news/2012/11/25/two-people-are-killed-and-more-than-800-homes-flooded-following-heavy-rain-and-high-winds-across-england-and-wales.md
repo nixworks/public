@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/25/two-people-are-killed-and-more-than-800-homes-f
 
 ### [2012-11-25](/news/2012/11/25/index.md)
 
-##### fresh flooding
+##### Fresh flooding
 # Two people are killed and more than 800 homes flooded following heavy rain and high winds across England and Wales. 
 
 More than 800 homes are flooded, and two people are killed, after a band of heavy rain and strong winds sweeps across England and Wales.

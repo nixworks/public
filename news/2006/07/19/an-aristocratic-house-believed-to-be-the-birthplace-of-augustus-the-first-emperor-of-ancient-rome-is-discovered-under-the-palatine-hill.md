@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/07/19/an-aristocratic-house-believed-to-be-the-birthp
 
 ### [2006-07-19](/news/2006/07/19/index.md)
 
-##### aristocratic house
+##### Aristocratic house
 #  An aristocratic house believed to be the birthplace of Augustus, the first emperor of ancient Rome, is discovered under the Palatine Hill.
 
 

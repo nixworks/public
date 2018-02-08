@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/12/nineteen-people-are-injured-during-a-shooting-a
 
 ### [2013-05-12](/news/2013/05/12/index.md)
 
-##### shooting
+##### Shooting
 # Nineteen people are injured during a shooting at a Mother's Day parade in New Orleans, Louisiana, United States. 
 
 

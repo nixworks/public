@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/29/the-government-of-the-united-states-rules-that-
 
 ### [2016-01-29](/news/2016/01/29/index.md)
 
-##### email server
+##### Email server
 # The Government of the United States rules that 22 emails on Hillary Clinton's home server contained closely guarded information rated as "Top Secret". 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/15/president-pervez-musharraf-appoints-muhammad-mi
 
 ### [2007-11-15](/news/2007/11/15/index.md)
 
-##### president
+##### President
 #  President Pervez Musharraf appoints Muhammad Mian Soomro, Chairman of the Senate, as interim Prime Minister. 
 
 

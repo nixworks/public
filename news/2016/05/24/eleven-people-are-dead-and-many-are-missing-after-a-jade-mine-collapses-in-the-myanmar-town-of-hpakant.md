@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/05/24/eleven-people-are-dead-and-many-are-missing-aft
 
 ### [2016-05-24](/news/2016/05/24/index.md)
 
-##### jade
+##### Jade
 # Eleven people are dead and many are missing after a jade mine collapses in the Myanmar town of Hpakant. 
 
 YANGON: At least 11 people died in a landslide in a remote jade mining region of northern Myanmar with many more feared missing, authorities said Tuesday, the latest deadly incident to hit the shadowy industry.

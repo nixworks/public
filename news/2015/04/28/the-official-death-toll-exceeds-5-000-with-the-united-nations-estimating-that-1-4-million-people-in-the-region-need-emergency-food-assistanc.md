@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/04/28/the-official-death-toll-exceeds-5-000-with-the-
 
 ### [2015-04-28](/news/2015/04/28/index.md)
 
-##### suspicions
+##### Suspicions
 # The official death toll exceeds 5,000 with the United Nations estimating that 1.4 million people in the region need emergency food assistance. 
 
 An official says 250 people are believed missing following a mudslide and avalanche in an isolated village in rural Nepal not far from the epicentre of the weekend’s powerful earthquake. 

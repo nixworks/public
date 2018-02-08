@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/11/hundreds-of-civilians-march-to-the-muslim-shrin
 
 ### [2004-05-11](/news/2004/05/11/index.md)
 
-##### civilian
+##### Civilian
 #  Hundreds of civilians march to the Muslim shrines in Najaf, calling upon Moqtada al-Sadr to remove his Mahdi Army from the city. 
 
 Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.

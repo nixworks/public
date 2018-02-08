@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/25/the-minority-of-the-conservative-party-of-canad
 
 ### [2011-03-25](/news/2011/03/25/index.md)
 
-##### minority
+##### Minority
 # The minority of the Conservative Party of Canada led by Prime Minister Stephen Harper is defeated in a no confidence motion in the House of Commons with an election to be held in early May. 
 
 Stephen Harper on Saturday will ask that an election be called, after opposition MPs voted together to defeat the Conservative government.

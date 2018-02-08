@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/6/four-suspected-al-qaeda-militants-are-killed-in-
 
 ### [2013-08-6](/news/2013/08/6/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Four suspected Al-Qaeda militants are killed in a drone strike. 
 
 

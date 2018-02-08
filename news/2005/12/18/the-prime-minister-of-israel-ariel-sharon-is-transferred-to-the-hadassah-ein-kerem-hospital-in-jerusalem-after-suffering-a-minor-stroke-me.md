@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/12/18/the-prime-minister-of-israel-ariel-sharon-is-tr
 
 ### [2005-12-18](/news/2005/12/18/index.md)
 
-##### prime minister of Israel
+##### Prime minister of Israel
 #  The prime minister of Israel Ariel Sharon is transferred to the Hadassah Ein Kerem hospital in Jerusalem after suffering a minor stroke. Meanwhile, some Palestinians have taken to the streets in Gaza to celebrate Sharon's health condition and the Kahane organisation has urged Jews to pray for his death. [http:--www.ynetnews.com-articles-0,7340,L-3186378,00.html (Ynetnews)] (Wikinews)
 
 

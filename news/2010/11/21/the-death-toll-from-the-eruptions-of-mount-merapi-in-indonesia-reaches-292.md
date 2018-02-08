@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/21/the-death-toll-from-the-eruptions-of-mount-mera
 
 ### [2010-11-21](/news/2010/11/21/index.md)
 
-##### eruptions
+##### Eruptions
 # The death toll from the eruptions of Mount Merapi in Indonesia reaches 292. 
 
 

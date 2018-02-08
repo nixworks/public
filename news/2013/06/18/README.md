@@ -11,11 +11,11 @@ Several soldiers are reported to have been killed when gunmen attacked an armour
 ### [A bomb explodes in the Afghan capital of Kabul killing three people and wounding six. ](/news/2013/06/18/a-bomb-explodes-in-the-afghan-capital-of-kabul-killing-three-people-and-wounding-six.md)
 A bomb explodes in western Kabul on the day Nato formally handed over command of security responsibilities to Afghan forces.
 
-##### al-Qahira
+##### Al-Qahira
 ### [Twin suicide bombings kill 31 and wound another 60 in al-Qahira, Baghdad. ](/news/2013/06/18/twin-suicide-bombings-kill-31-and-wound-another-60-in-al-qahira-baghdad.md)
 At least 31 people are killed in a double suicide bomb attack at a Shia mosque in the Iraqi capital, Baghdad.
 
-##### suicide blast
+##### Suicide blast
 ### [A suicide blast kills 27 and wounds over 30 others at a funeral in Sher Garh, Mardan, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/06/18/a-suicide-blast-kills-27-and-wounds-over-30-others-at-a-funeral-in-sher-garh-mardan-khyber-pakhtunkhwa-pakistan.md)
 Bomber targets crowd of mourners in Khyber Pakhtunkhwa province, killing 29 people, including provincial legislator.
 
@@ -29,7 +29,7 @@ _Context: Tuareg_
 
 ##### President
 ### [President of Nigeria Goodluck Jonathan announces a N3 billion fund to "intervene" in Nollywood. ](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.md)
-_Context: N, Nollywood, Goodluck Jonathan, President_
+_Context: Nollywood, N, President, Goodluck Jonathan_
 
 ##### Michael Hastings
 ### [American journalist Michael Hastings dies in a car crash at age 33. ](/news/2013/06/18/american-journalist-michael-hastings-dies-in-a-car-crash-at-age-33.md)
@@ -75,7 +75,7 @@ A 98-year-old Nazi war crimes suspect, Laszlo Csatary, linked to the murder of J
 ### [The Eiffel Tower is evacuated for two hours after a man threatens to throw himself off, in the latest of a string of suicide bids from the Paris landmark. ](/news/2013/06/18/the-eiffel-tower-is-evacuated-for-two-hours-after-a-man-threatens-to-throw-himself-off-in-the-latest-of-a-string-of-suicide-bids-from-the-p.md)
 The Eiffel Tower had to be evacuated for two hours after a man threatened to throw himself off, in the latest of a string of suicide bids to cause chaos for visitors to the Paris landmark.
 
-##### bear
+##### Bear
 ### [Russian smugglers carrying 213 bear paws are arrested in China. ](/news/2013/06/18/russian-smugglers-carrying-213-bear-paws-are-arrested-in-china.md)
 _Context: bear_
 
@@ -85,11 +85,11 @@ A Greek court suspends a government order to close state broadcaster ERT - a mov
 
 ##### 2013 protests in Brazil
 ### [As many as 200,000 people march through Brazil's cities, with protestors having scaled the National Congress in Brasilia. ](/news/2013/06/18/as-many-as-200-000-people-march-through-brazil-s-cities-with-protestors-having-scaled-the-national-congress-in-brasilia.md)
-_Context: Brasilia, 2013 protests in Brazil, National Congress_
+_Context: 2013 protests in Brazil, Brasilia, National Congress_
 
 ##### National Security Agency
 ### [Several Federal officials, including National Security Agency (NSA) Director Keith Alexander, testify at a hearing held by the U.S. House Intelligence Committee over government surveillance programs whose existence was leaked earlier this month. ](/news/2013/06/18/several-federal-officials-including-national-security-agency-nsa-director-keith-alexander-testify-at-a-hearing-held-by-the-u-s-house-in.md)
-_Context: House of Representatives, Keith Alexander, National Security Agency, House Intelligence Committee_
+_Context: National Security Agency, House of Representatives, House Intelligence Committee, Keith Alexander_
 
 ##### Montreal
 ### [Montreal mayor Michael Applebaum resigns following fraud and corruption charges; he had replaced Gerald Tremblay who resigned because of similar allegations. ](/news/2013/06/18/montreal-mayor-michael-applebaum-resigns-following-fraud-and-corruption-charges-he-had-replaced-ga-c-rald-tremblay-who-resigned-because-of-si.md)
@@ -111,7 +111,7 @@ _Context: TOP500, Tianhe-2_
 ### [New data suggests that as many as 280 previously unknown craters exist on The Moon. ](/news/2013/06/18/new-data-suggests-that-as-many-as-280-previously-unknown-craters-exist-on-the-moon.md)
 Australian astronomers may have uncovered 280 new craters on the Moon using data to create a new &quot;high-resolution&quot; gravity map.
 
-##### chickens
+##### Chickens
 ### [A news study finds that chickens possess numeracy skills and self-control. ](/news/2013/06/18/a-news-study-finds-that-chickens-possess-numeracy-skills-and-self-control.md)
 _Context: chickens_
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/22/syrian-government-warplanes-drop-barrel-bombs-o
 
 ### [2013-12-22](/news/2013/12/22/index.md)
 
-##### barrel bomb
+##### Barrel bomb
 # Syrian government warplanes drop barrel bombs on the city of Aleppo killing 63 people, including civilians. 
 
 

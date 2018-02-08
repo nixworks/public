@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/27/a-flaw-in-the-internet-s-border-gateway-protoco
 
 ### [2008-08-27](/news/2008/08/27/index.md)
 
-##### internet
+##### Internet
 #  A flaw in the internet's Border Gateway Protocol that was described ten years ago now "can be used to invisibly eavesdrop on all traffic originating from a particular set of IP blocks." 
 
 

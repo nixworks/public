@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/19/u-s-congressman-henry-waxman-chairman-of-the-ho
 
 ### [2007-09-19](/news/2007/09/19/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  U.S. Congressman Henry Waxman, chairman of the House Committee on Oversight and Government Reform, announces that he will begin an investigation into the activities of Howard Krongard, Inspector General of the State Department. Krongard has been accused of interfering with investigations into corruption involving fraud in the building of the new United States Embassy in Iraq, the smuggling of illegal weapons into Iraq by Blackwater USA employees, and the activities of former chairman of the Broadcasting Board of Governors, Kenneth Tomlinson, in the use of his office for personal gain. 
 
 

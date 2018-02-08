@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/24/one-person-is-killed-and-57-are-injured-in-a-tr
 
 ### [2010-09-24](/news/2010/09/24/index.md)
 
-##### a train collision
+##### A train collision
 # One person is killed and 57 are injured in a train collision in Tunis. 
 
 

@@ -13,7 +13,7 @@ _Context: Malaysia, Pulau Mengalum, Chinese, Kota Kinabalu_
 
 ##### Pope Francis
 ### [Pope Francis takes "de facto" control of the Sovereign Military Order of Malta (the entity retains sovereignty under international law), forcing its leader Prince and Grand Master Matthew Festing to resign. ](/news/2017/01/28/pope-francis-takes-de-facto-control-of-the-sovereign-military-order-of-malta-the-entity-retains-sovereignty-under-international-law-for.md)
-_Context: Sovereign Military Order of Malta, sovereignty, Matthew Festing, international law, Pope Francis, Prince, Grand Master_
+_Context: Pope Francis, sovereignty, Prince, Matthew Festing, Sovereign Military Order of Malta, Grand Master, international law_
 
 ##### Turkey-United Kingdom relations
 ### [UK Prime Minister Theresa May and Turkish President Recep Tayyip Erdogan sign a GBP100 million defense deal to build new fighter jets. Under the deal, BAE Systems will collaborate with Turkish companies to build the TAI TFX. ](/news/2017/01/28/uk-prime-minister-theresa-may-and-turkish-president-recep-tayyip-erdoaan-sign-a-agbp100-million-defense-deal-to-build-new-fighter-jets-und.md)

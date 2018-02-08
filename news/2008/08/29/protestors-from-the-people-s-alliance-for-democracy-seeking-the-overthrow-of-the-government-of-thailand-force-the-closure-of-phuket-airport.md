@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/29/protestors-from-the-people-s-alliance-for-democ
 
 ### [2008-08-29](/news/2008/08/29/index.md)
 
-##### yellow shirt
+##### Yellow shirt
 #  Protestors from the People's Alliance for Democracy seeking the overthrow of the Government of Thailand force the closure of Phuket Airport, Krabi Airport and Hat Yai Airport. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](2012/09/23/index.html)  [JSON](2012/09/23/index.json)  [XML](201
 
 ## [2012-09-23](/news/2012/09/23/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 ### [A suicide bombing at a church in the northeastern Nigerian city of Bauchi kills at least two people and wounds up to 48 others. ](/news/2012/09/23/a-suicide-bombing-at-a-church-in-the-northeastern-nigerian-city-of-bauchi-kills-at-least-two-people-and-wounds-up-to-48-others.md)
 A suicide bomber in northern Nigeria attacks a Catholic church, killing at least two people and injuring 48, Red Cross officials say.
 
@@ -19,7 +19,7 @@ Edwin Wilson set up front companies abroad for the CIA, made millions in the arm
 ### [Former WBO heavyweight world champion Corrie Sanders, 46, dies after an armed robbery in South Africa. He upset Wladimir Klitschko with a second-round KO in 2003. ](/news/2012/09/23/former-wbo-heavyweight-world-champion-corrie-sanders-46-dies-after-an-armed-robbery-in-south-africa-he-upset-wladimir-klitschko-with-a-se.md)
 Corrie Sanders, the South African boxer who knocked out Wladimir Klitschko to become the WBO heavyweight champion, has died in a shooting incident while attending his nephew’s 21st birthday party.
 
-##### alpinist
+##### Alpinist
 ### [Nine alpinists die and six are missing on the slopes of Mount Manaslu, Mansiri Himal Himalayas. ](/news/2012/09/23/nine-alpinists-die-and-six-are-missing-on-the-slopes-of-mount-manaslu-mansiri-himal-himalayas.md)
 At least nine people are killed and several are missing in Nepal after an avalanche hits climbers and guides at a camp on a Himalayan peak.
 
@@ -29,7 +29,7 @@ Iran plans to switch its citizens onto a domestic Internet network in what offic
 
 ##### United States of America
 ### [Citing nuclear sanctions, the United States of America deny visas to 20 out of 160 Iranian officials, of which two are ministers, impeaching diplomats' attendance at next week's United Nations General Assembly meeting in New York. ](/news/2012/09/23/citing-nuclear-sanctions-the-united-states-of-america-deny-visas-to-20-out-of-160-iranian-officials-of-which-two-are-ministers-impeaching.md)
-_Context: New York City, visa-free travel, United States of America, Iran, United Nations General Assembly_
+_Context: United Nations General Assembly, United States of America, New York City, Iran, visa-free travel_
 
 ##### Libya
 ### [Libya dissolves all armed groups and militia not under the authority of the state. ](/news/2012/09/23/libya-dissolves-all-armed-groups-and-militia-not-under-the-authority-of-the-state.md)
@@ -37,17 +37,17 @@ Two groups in eastern city of Derna announce they will lay down arms, as Tripoli
 
 ##### Italy
 ### [Police in Italy arrest a man at Turin Caselle Airport on charges of impersonating a pilot. ](/news/2012/09/23/police-in-italy-arrest-a-man-at-turin-caselle-airport-on-charges-of-impersonating-a-pilot.md)
-_Context: Italy, Turin Caselle Airport, pilot_
+_Context: Italy, pilot, Turin Caselle Airport_
 
-##### parliamentary elections
+##### Parliamentary elections
 ### [Parliamentary elections are held in Belarus. The opposition sees the vote as undemocratic and boycotts it. ](/news/2012/09/23/parliamentary-elections-are-held-in-belarus-the-opposition-sees-the-vote-as-undemocratic-and-boycotts-it.md)
-_Context: parliamentary elections, Belarus_
+_Context: Belarus, parliamentary elections_
 
 ##### Syria
 ### [A conference to "rescue Syria" is held in Damascus by the National Coordination Body and around 20 other parties. Twenty eight parties, which are also opposed to the militarization of the conflict, have not participated. The conference calls for a ceasefire and a peaceful political transition to succeed the Assad regime. The armed opposition considers the position as "too lenient on the dictator". ](/news/2012/09/23/a-conference-to-rescue-syria-is-held-in-damascus-by-the-national-coordination-body-and-around-20-other-parties-twenty-eight-parties-whic.md)
-_Context: Damascus, National Coordination Body, Bashar al-Assad, Syria_
+_Context: Damascus, Syria, Bashar al-Assad, National Coordination Body_
 
-##### breast cancer
+##### Breast cancer
 ### [Researchers find that there are four genetically distinct types of breast cancer. ](/news/2012/09/23/researchers-find-that-there-are-four-genetically-distinct-types-of-breast-cancer.md)
 New findings are reshaping the understanding of breast cancer, pointing to the use of drugs approved for other cancers. “This is the road map for how we might cure breast cancer in the future,” a researcher said.
 

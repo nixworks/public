@@ -17,7 +17,7 @@ A massive twin bombing in the Turkish capital Ankara this month that killed 102 
 
 ##### 2015 Hindu Kush earthquake
 ### [Aid workers warn that survivors of the earthquake are at risk of dying of exposure as temperatures in Pakistan and Afghanistan fall to near freezing levels. ](/news/2015/10/28/aid-workers-warn-that-survivors-of-the-earthquake-are-at-risk-of-dying-of-exposure-as-temperatures-in-pakistan-and-afghanistan-fall-to-near.md)
-_Context: 2015 Hindu Kush earthquake, Pakistan, Afghanistan_
+_Context: Pakistan, 2015 Hindu Kush earthquake, Afghanistan_
 
 ##### JLENS
 ### [A military JLENS blimp from the United States Army broke loose from its moorings at the Aberdeen Proving Ground in Maryland, and drifted over 16,000 ft above Pennsylvania. F-16 Fighter jets were scrambled to track the blimp that has since deflated, causing widespread power outages from a long cable it dragged along the ground. ](/news/2015/10/28/a-military-jlens-blimp-from-the-united-states-army-broke-loose-from-its-moorings-at-the-aberdeen-proving-ground-in-maryland-and-drifted-ove.md)
@@ -41,7 +41,7 @@ Tuberculosis has surpassed HIV as the leading global cause of death, despite the
 
 ##### International Agency for Research on Cancer
 ### [The International Agency for Research on Cancer (IARC), the cancer agency of the World Health Organization (WHO), has evaluated the carcinogenicity of the consumption of red meat and processed meat. After thoroughly reviewing the accumulated scientific literature, a Working Group of 22 experts from 10 countries convened by the IARC Monographs Programme classified the consumption of red meat as probably carcinogenic to humans (Group 2A), based on limited evidence that the consumption of red meat causes cancer in humans and strong mechanistic evidence supporting a carcinogenic effect. This association was observed mainly for colorectal cancer, but associations were also seen for pancreatic cancer and prostate cancer. Processed meat was classified as carcinogenic to humans (Group 1), based on sufficient evidence in humans that the consumption of processed meat causes colorectal cancer. ](/news/2015/10/28/the-international-agency-for-research-on-cancer-iarc-the-cancer-agency-of-the-world-health-organization-who-has-evaluated-the-carcinog.md)
-_Context: red meat, cancer, carcinogenicity, pancreatic cancer, prostate cancer, processed meat, colorectal cancer, World Health Organization, International Agency for Research on Cancer, IARC Monographs Programme_
+_Context: carcinogenicity, International Agency for Research on Cancer, IARC Monographs Programme, pancreatic cancer, cancer, prostate cancer, processed meat, World Health Organization, colorectal cancer, red meat_
 
 ##### Censorship in Turkey
 ### [Turkish police storm and shut down both Kanalturk TV and Bugun, TV stations that have been critical of the ruling Justice and Development Party (AKP) ahead of a general election on November 1. Baris Yarkadas, a lawmaker with the main-opposition Republican People's Party (CHP), said "We are witnessing the police entering news organizations, delivering declarations and taking over journalists' seats--just like junta periods, this is called a police state". ](/news/2015/10/28/turkish-police-storm-and-shut-down-both-kanalta1-4rk-tv-and-buga1-4n-tv-stations-that-have-been-critical-of-the-ruling-justice-and-development.md)
@@ -57,7 +57,7 @@ Former U.S. House Speaker Dennis Hastert pleaded guilty on Wednesday to a federa
 
 ##### Ivorian presidential election, 2015
 ### [Official results from the presidential election held on Sunday show that President of the Ivory Coast Alassane Ouattara has been reelected. ](/news/2015/10/28/official-results-from-the-presidential-election-held-on-sunday-show-that-president-of-the-ivory-coast-alassane-ouattara-has-been-reelected.md)
-_Context: Ivorian presidential election, 2015, President of the Ivory Coast, Alassane Ouattara_
+_Context: President of the Ivory Coast, Alassane Ouattara, Ivorian presidential election, 2015_
 
 ##### Netherlands
 ### [In the Netherlands, the Undersecretary for Infrastructure and Environment Wilma Mansveld resigns following the publication of a damning report about the problems with the international high-speed rail service Fyra. ](/news/2015/10/28/in-the-netherlands-the-undersecretary-for-infrastructure-and-environment-wilma-mansveld-resigns-following-the-publication-of-a-damning-repo.md)

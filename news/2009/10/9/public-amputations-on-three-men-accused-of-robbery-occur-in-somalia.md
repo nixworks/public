@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/9/public-amputations-on-three-men-accused-of-robbe
 
 ### [2009-10-9](/news/2009/10/9/index.md)
 
-##### amputee
+##### Amputee
 #  Public amputations on three men accused of robbery occur in Somalia. 
 
 

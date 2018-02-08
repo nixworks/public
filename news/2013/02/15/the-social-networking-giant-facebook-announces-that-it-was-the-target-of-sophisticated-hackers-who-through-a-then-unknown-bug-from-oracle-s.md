@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/15/the-social-networking-giant-facebook-announces-
 
 ### [2013-02-15](/news/2013/02/15/index.md)
 
-##### social network
+##### Social network
 # The social networking giant Facebook announces that it was the target of sophisticated hackers, who through a then-unknown bug from Oracle's Java on an infected website, managed to infiltrate employees' laptops, and then the internal networks. There was no user data collected, but certain code and corporate e-mails could have been exfiltrated. 
 
 

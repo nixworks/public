@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/23/the-death-toll-from-flooding-in-the-australian-
 
 ### [2013-02-23](/news/2013/02/23/index.md)
 
-##### flooding
+##### Flooding
 # The death toll from flooding in the Australian state of New South Wales (NSW) rises to two as residents in northern NSW towns including Kempsey, Port Macquarie and Bellingen are evacuated. 
 
 

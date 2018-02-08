@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/22/a-suicide-bomber-kills-at-least-eight-people-at
 
 ### [2012-12-22](/news/2012/12/22/index.md)
 
-##### suicide
+##### Suicide
 # A suicide bomber kills at least eight people at a political rally in Peshawar, Pakistan. 
 
 A suicide bomber kills at least eight people, including a key provincial minister, at a political rally in the Pakistani city of Peshawar.

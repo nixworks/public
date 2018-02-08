@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/03/18/a-florida-jury-awards-hulk-hogan-115m-after-the
 
 ### [2016-03-18](/news/2016/03/18/index.md)
 
-##### lawsuit
+##### Lawsuit
 # A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a sex tape of the retired professional wrestler. Mr Hogan's legal team argued that the New York City-based website violated his privacy and that the video wasn't newsworthy. 
 
 A Florida jury awards Hulk Hogan $115m after the gossip news website Gawker published a private sex video of the retired professional wrestler.

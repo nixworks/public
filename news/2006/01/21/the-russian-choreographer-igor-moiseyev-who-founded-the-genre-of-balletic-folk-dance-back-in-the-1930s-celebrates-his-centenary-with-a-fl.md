@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/21/the-russian-choreographer-igor-moiseyev-who-fou
 
 ### [2006-01-21](/news/2006/01/21/index.md)
 
-##### choreographer
+##### Choreographer
 #  The Russian choreographer Igor Moiseyev, who founded the genre of balletic folk dance back in the 1930s, celebrates his centenary with a flamboyant show in the Moscow Kremlin Palace of Congresses. 
 
 

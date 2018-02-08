@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/30/multiple-law-enforcement-agencies-seize-a-hoard
 
 ### [2010-07-30](/news/2010/07/30/index.md)
 
-##### cannabis
+##### Cannabis
 # Multiple law-enforcement agencies seize a hoard of cannabis thought to be worth up to US$1.7&nbsp;billion in the Sierra Nevada in southern California, United States. 
 
 Police in California seize $1.7bn worth of marijuana in the Sierra Nevada mountains.

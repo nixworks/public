@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/23/asylum-seekers-at-the-scherger-immigration-dete
 
 ### [2011-07-23](/news/2011/07/23/index.md)
 
-##### asylum seekers
+##### Asylum seekers
 # Asylum seekers at the Scherger Immigration Detention Centre near Weipa in the Australian state of Queensland start harming themselves in protest. 
 
 Detainees in a remote immigration detention centre in Queensland have started self harm as part of a protest, an advocate says.

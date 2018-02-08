@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/04/29/the-final-deadline-no-more-extensions-for-the-t
 
 ### [2012-04-29](/news/2012/04/29/index.md)
 
-##### chemical weapons
+##### Chemical weapons
 # The final deadline (no more extensions) for the total destruction of chemical weapons stockpiles under the international Chemical Weapons Convention is reached. 
 
 

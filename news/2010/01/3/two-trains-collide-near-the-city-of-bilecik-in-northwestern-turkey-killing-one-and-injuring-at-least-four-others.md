@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/3/two-trains-collide-near-the-city-of-bilecik-in-n
 
 ### [2010-01-3](/news/2010/01/3/index.md)
 
-##### collide
+##### Collide
 # Two trains collide near the city of Bilecik in northwestern Turkey, killing one and injuring at least four others. 
 
 Hurriyet Daily News is the leading news source for Turkey and the region. Hurriyet daily news, turkish daily news, turkish news, hürriyet daily news, turkey news, daily news, hurriyet english, hurriyetdailynews

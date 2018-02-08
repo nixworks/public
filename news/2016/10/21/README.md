@@ -13,23 +13,23 @@ Singer-songwriter’s failure to respond to phone calls from the Swedish Academy
 
 ##### British American Tobacco
 ### [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md)
-_Context: tobacco, Reynolds American Inc, cigarette, $, British American Tobacco_
+_Context: tobacco, Reynolds American Inc, $, cigarette, British American Tobacco_
 
 ##### AT&T
 ### [AT&T reportedly agrees in principle to buy Time Warner for about $85 billion. ](/news/2016/10/21/at-t-reportedly-agrees-in-principle-to-buy-time-warner-for-about-85-billion.md)
 AT&T Inc (T.N) reached a deal to buy media company Time Warner Inc (TWX.N) for more than $80 billion, The Wall Street Journal reported on Saturday.
 
-##### magnitude
+##### Magnitude
 ### [A magnitude 6.6 earthquake hits Tottori Prefecture in western Japan. Local media report that there are 14 injuries in Kurayoshi. Tottori is Japan's least populous prefecture. ](/news/2016/10/21/a-magnitude-6-6-earthquake-hits-tottori-prefecture-in-western-japan-local-media-report-that-there-are-14-injuries-in-kurayoshi-tottori-is.md)
 A magnitude 6.6 earthquake struck Tottori prefecture in western Japan, causing power outages, train stoppages and a handful of injuries in the nation’s strongest shake in six months.
 
 ##### Atchison, Kansas
 ### [A chemical spill at the MGP Ingredients plant in Atchison, Kansas, United States, injures 26 people and leads to evacuations. The spill of sodium hypochlorite and sulfuric acid produces a toxic fog. ](/news/2016/10/21/a-chemical-spill-at-the-mgp-ingredients-plant-in-atchison-kansas-united-states-injures-26-people-and-leads-to-evacuations-the-spill-of-s.md)
-_Context: sulfuric acid, Atchison, Kansas, sodium hypochlorite_
+_Context: sodium hypochlorite, Atchison, Kansas, sulfuric acid_
 
 ##### London City Airport
 ### [Authorities evacuate London City Airport after a chemical incident, but, after some remediation, police later declare the airport safe. ](/news/2016/10/21/authorities-evacuate-london-city-airport-after-a-chemical-incident-but-after-some-remediation-police-later-declare-the-airport-safe.md)
-_Context: remediation, London City Airport_
+_Context: London City Airport, remediation_
 
 ##### 2016 Eseka train derailment
 ### [A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md)
@@ -37,13 +37,13 @@ A train derailed in Cameroon on Friday reportedly killing more than 50 people an
 
 ##### Mi-8
 ### [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md)
-_Context: Yamal Peninsula, Russia, Extreme North, Mi-8_
+_Context: Russia, Extreme North, Yamal Peninsula, Mi-8_
 
 ##### South Africa
 ### [South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. ](/news/2016/10/21/south-africa-formally-begins-the-process-of-withdrawing-from-the-international-criminal-court-amid-a-dispute-over-the-country-s-refusal-to-a.md)
 South Africa formally begins the process of withdrawing from the International Criminal Court, saying it did not want to help achieve &quot;regime change&quot;.
 
-##### car jacking
+##### Car jacking
 ### [The pursuit of a car jacking suspect in Albuquerque, New Mexico, United States, leaves four police officers injured and hospitalized. ](/news/2016/10/21/the-pursuit-of-a-car-jacking-suspect-in-albuquerque-new-mexico-united-states-leaves-four-police-officers-injured-and-hospitalized.md)
 Officer, deputy suffer injuries during chase
 

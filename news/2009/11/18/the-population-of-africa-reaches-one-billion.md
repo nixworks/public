@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/18/the-population-of-africa-reaches-one-billion.ht
 
 ### [2009-11-18](/news/2009/11/18/index.md)
 
-##### population of Africa
+##### Population of Africa
 #  The population of Africa reaches one billion. 
 
 

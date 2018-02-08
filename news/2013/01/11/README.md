@@ -15,27 +15,27 @@ France answered an urgent plea from the government of its former colony to help 
 ### [In the Central African Republic, the government signs a ceasefire agreement with rebels, ending a month of conflict and establishing a new coalition government. ](/news/2013/01/11/in-the-central-african-republic-the-government-signs-a-ceasefire-agreement-with-rebels-ending-a-month-of-conflict-and-establishing-a-new-c.md)
 Rebels fighting the government in the Central African Republic have signed a formal ceasefire and agreed to form a unity government following talks in Gabon.
 
-##### official portrait
+##### Official portrait
 ### [The first official portrait of the Duchess of Cambridge, painted by Paul Emsley, is unveiled to a mixed reception from critics. ](/news/2013/01/11/the-first-official-portrait-of-the-duchess-of-cambridge-painted-by-paul-emsley-is-unveiled-to-a-mixed-reception-from-critics.md)
 The first official painting of the Duchess of Cambridge goes on display at the National Portrait Gallery, but critics are divided over its quality.
 
-##### landslide
+##### Landslide
 ### [18 people die after a landslide buries a village in the Yunnan province of China, while 40 people are feared to be buried. ](/news/2013/01/11/18-people-die-after-a-landslide-buries-a-village-in-the-yunnan-province-of-china-while-40-people-are-feared-to-be-buried.md)
-_Context: landslide, China, Yunnan_
+_Context: Yunnan, landslide, China_
 
-##### bus
+##### Bus
 ### [29 people die and 12 people are injured after a bus veers off a mountain road in Doti, Nepal. ](/news/2013/01/11/29-people-die-and-12-people-are-injured-after-a-bus-veers-off-a-mountain-road-in-doti-nepal.md)
-_Context: bus, Doti, Nepal_
+_Context: Nepal, Doti, bus_
 
-##### fire
+##### Fire
 ### [A fire sweeps through a complex containing housing for foreign workers in Manama, Bahrain, leaving 13 foreign nationals dead. ](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.md)
 A fire at a building housing workers in the Bahraini capital Manama kills 13 people, officials say.
 
 ##### Metropolitan Police
 ### [The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. ](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirmed-214-separate-sexual-offences-committed-by-jimmy-savile-over-a-period-of-fifty-years.md)
-_Context: Jimmy Savile, Metropolitan Police, Jimmy Savile sexual abuse scandal, NSPCC_
+_Context: Jimmy Savile sexual abuse scandal, NSPCC, Jimmy Savile, Metropolitan Police_
 
-##### hostage situation
+##### Hostage situation
 ### [Three people are injured after a hostage situation takes place in a Nordstrom Rack chain in the neighborhood of Westchester in Los Angeles, California. ](/news/2013/01/11/three-people-are-injured-after-a-hostage-situation-takes-place-in-a-nordstrom-rack-chain-in-the-neighborhood-of-westchester-in-los-angeles.md)
 The first 911 call came at 11:08 p.m. A panicked man told an operator the barest of details: Nordstrom Rack in Westchester. Two armed men. Robbery. Police rushed to the sprawling Promenade at Howard...
 

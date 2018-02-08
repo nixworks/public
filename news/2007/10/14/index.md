@@ -3,27 +3,27 @@ Formats: [HTML](2007/10/14/index.html)  [JSON](2007/10/14/index.json)  [XML](200
 
 ## [2007-10-14](/news/2007/10/14/index.md)
 
-##### bomb
+##### Bomb
 ### [ A bomb explodes in a movie theatre in Ludhiana in India's Punjab state killing at least six people and wounding at least 30 others. ](/news/2007/10/14/a-bomb-explodes-in-a-movie-theatre-in-ludhiana-in-india-s-punjab-state-killing-at-least-six-people-and-wounding-at-least-30-others.md)
-_Context: bomb, Ludhiana, movie theatre, India, Punjab_
+_Context: bomb, Punjab, movie theatre, Ludhiana, India_
 
 ##### Italy
 ### [ Three million Italians go to the polls to elect the leader of the new Democratic Party. The current Mayor of Rome, Walter Veltroni, wins with about 75% of the votes. ](/news/2007/10/14/three-million-italians-go-to-the-polls-to-elect-the-leader-of-the-new-democratic-party-the-current-mayor-of-rome-walter-veltroni-wins-wi.md)
-_Context: Democratic Party, Mayor of Rome, Walter Veltroni, Italy_
+_Context: Italy, Walter Veltroni, Mayor of Rome, Democratic Party_
 
 ##### Israel
 ### [ The Attorney-General of Israel launches a third criminal inquiry into the behaviour of the Prime Minister of Israel Ehud Olmert before he was Prime Minister: the latest inquiry is into granting political favours as Trade Minister. ](/news/2007/10/14/the-attorney-general-of-israel-launches-a-third-criminal-inquiry-into-the-behaviour-of-the-prime-minister-of-israel-ehud-olmert-before-he-w.md)
-_Context: Israel, Israeli Prime Minister, Ehud Olmert, Prime Minister_
+_Context: Israeli Prime Minister, Ehud Olmert, Israel, Prime Minister_
 
 ##### Burma
 ### [ Burma restores some Internet access but continues to deny access to foreign news services such as the BBC and CNN, blogs and dissident sites. ](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.md)
-_Context: Burma, CNN, blog, Internet, BBC_
+_Context: CNN, BBC, Burma, blog, Internet_
 
 ##### Interfax
 ### [ The Interfax news agency reports that Russian security forces have received a warning of plans to assassinate the President of Russia Vladimir Putin in Iran.](/news/2007/10/14/the-interfax-news-agency-reports-that-russian-security-forces-have-received-a-warning-of-plans-to-assassinate-the-president-of-russia-vladi.md)
 President Vladimir Putin has been warned by his special services of a possible plot to assassinate him during a visit to Tehran this week, according to the Kremlin.
 
-##### flood
+##### Flood
 ### [ At least eight people including six tourists die when trapped by a flood in the Nam Talu cave in Khao Sok national park in southern Thailand. ](/news/2007/10/14/at-least-eight-people-including-six-tourists-die-when-trapped-by-a-flood-in-the-nam-talu-cave-in-khao-sok-national-park-in-southern-thailan.md)
 Eight people, including four Swiss, a Briton and a 10-year-old German boy, drowned when a flash flood trapped them in a cave in southern Thailand, but a British woman survived, officials said on Sunday.
 
@@ -37,7 +37,7 @@ Prime Minister John Howard has arrived at Government House in Canberra and he is
 
 ##### Acropolis of Athens
 ### [ After 25 centuries, the marbles of the Acropolis of Athens are cautiously moved to the New Acropolis Museum. ](/news/2007/10/14/after-25-centuries-the-marbles-of-the-acropolis-of-athens-are-cautiously-moved-to-the-new-acropolis-museum.md)
-_Context: Acropolis of Athens, New Acropolis Museum_
+_Context: New Acropolis Museum, Acropolis of Athens_
 
 ## [Previous Day...](/news/2007/10/13/index.md)
 

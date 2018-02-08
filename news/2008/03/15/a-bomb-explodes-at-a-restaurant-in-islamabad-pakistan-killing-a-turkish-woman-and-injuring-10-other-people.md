@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/15/a-bomb-explodes-at-a-restaurant-in-islamabad-pa
 
 ### [2008-03-15](/news/2008/03/15/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb explodes at a restaurant in Islamabad, Pakistan, killing a Turkish woman and injuring 10 other people. 
 
 

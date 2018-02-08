@@ -19,9 +19,9 @@ _Context: Baghdad_
 ### [Gunmen in Egypt's western desert province of New Valley Governorate attack a military checkpoint, killing at least 21 soldiers. Egypt reportedly declares a state of emergency on its border with Sudan. ](/news/2014/07/19/gunmen-in-egypt-s-western-desert-province-of-new-valley-governorate-attack-a-military-checkpoint-killing-at-least-21-soldiers-egypt-report.md)
 Gunmen killed 21 Egyptian military border guards near the frontier with Libya on Saturday, highlighting a growing threat from an area that security officials say has become a haven for militants seeking to topple the Cairo government.
 
-##### Poland
+##### Polish
 ### [Buses from Poland and Ukraine crash outside the German city of Dresden resulting in at least nine deaths and 40 people injured. ](/news/2014/07/19/buses-from-poland-and-ukraine-crash-outside-the-german-city-of-dresden-resulting-in-at-least-nine-deaths-and-40-people-injured.md)
-_Context: German, Poland, Dresden, Ukraine_
+_Context: German, Polish, Ukraine, Dresden_
 
 ##### China
 ### [At least 38 people are dead after a bus collides with a van carrying flammable liquids in China's Hunan province. ](/news/2014/07/19/at-least-38-people-are-dead-after-a-bus-collides-with-a-van-carrying-flammable-liquids-in-china-s-hunan-province.md)
@@ -33,11 +33,11 @@ A super typhoon has killed atleast fourteen people in China since making landfal
 
 ##### Russia
 ### [Russia bans 13 Americans including Congressman Jim Moran, Rear Adm. Richard Butler and Lynndie England in response to the United States banning Russians for human rights abuses. ](/news/2014/07/19/russia-bans-13-americans-including-congressman-jim-moran-rear-adm-richard-butler-and-lynndie-england-in-response-to-the-united-states-bann.md)
-_Context: Russia, United States, lawmakers, American, Lynndie England, Jim Moran_
+_Context: Lynndie England, United States, Jim Moran, American, Russia, lawmakers_
 
-##### the state
+##### The state
 ### [A Florida court awards $23.6 billion in punitive damages against R.J. Reynolds Tobacco Company in a case of a longtime smoker who died in 1996. ](/news/2014/07/19/a-florida-court-awards-23-6-billion-in-punitive-damages-against-r-j-reynolds-tobacco-company-in-a-case-of-a-longtime-smoker-who-died-in-19.md)
-_Context: R.J. Reynolds Tobacco Company, punitive damages, the state_
+_Context: punitive damages, R.J. Reynolds Tobacco Company, the state_
 
 ## [Previous Day...](/news/2014/07/18/index.md)
 

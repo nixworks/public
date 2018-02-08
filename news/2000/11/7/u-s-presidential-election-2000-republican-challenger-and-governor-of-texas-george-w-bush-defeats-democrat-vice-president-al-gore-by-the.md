@@ -3,7 +3,7 @@ Formats: [HTML](/news/2000/11/7/u-s-presidential-election-2000-republican-challe
 
 ### [2000-11-7](/news/2000/11/7/index.md)
 
-##### last election
+##### Last election
 #  U.S. presidential election, 2000: Republican challenger and Governor of Texas George W. Bush defeats Democrat Vice President Al Gore by the electoral college, despite Gore winning the popular votes, but the final outcome is not known for over a month because of disputed votes in Florida, until 12 December 2000 the US Supreme Court stop the recount.
 
 

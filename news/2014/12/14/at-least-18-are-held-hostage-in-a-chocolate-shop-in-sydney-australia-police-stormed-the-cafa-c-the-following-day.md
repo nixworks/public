@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/14/at-least-18-are-held-hostage-in-a-chocolate-sho
 
 ### [2014-12-14](/news/2014/12/14/index.md)
 
-##### held hostage
+##### Held hostage
 # At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the cafe the following day.
 
 

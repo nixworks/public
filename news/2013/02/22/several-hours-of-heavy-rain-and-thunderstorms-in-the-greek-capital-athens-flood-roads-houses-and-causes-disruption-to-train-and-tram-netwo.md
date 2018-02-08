@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/22/several-hours-of-heavy-rain-and-thunderstorms-i
 
 ### [2013-02-22](/news/2013/02/22/index.md)
 
-##### rain
+##### Rain
 # Several hours of heavy rain and thunderstorms in the Greek capital Athens flood roads, houses, and causes disruption to train and tram networks. 
 
 Heavy rain in the Greek capital Athens floods roads and homes, causing huge traffic jams and disrupting its train and tram network, officials say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/17/suspected-militants-armed-with-assault-rifles-a
 
 ### [2010-07-17](/news/2010/07/17/index.md)
 
-##### assault rifles
+##### Assault rifles
 # Suspected militants armed with assault rifles attack a bus in northwest Pakistan near the Afghanistan border, resulting in at least 16 casualties. 
 
 Suspected militants armed with assault rifles have killed up to 16 bus passengers in an ambush in north-west Pakistan.

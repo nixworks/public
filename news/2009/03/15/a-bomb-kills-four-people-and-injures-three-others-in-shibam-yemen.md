@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/15/a-bomb-kills-four-people-and-injures-three-othe
 
 ### [2009-03-15](/news/2009/03/15/index.md)
 
-##### bomb
+##### Bomb
 #  A bomb kills four people and injures three others in Shibam, Yemen. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/06/28/the-bald-eagle-is-removed-from-the-endangered-s
 
 ### [2007-06-28](/news/2007/06/28/index.md)
 
-##### bald eagle
+##### Bald eagle
 #  The bald eagle is removed from the endangered species list. 
 
 

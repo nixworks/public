@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/3/heavy-floods-in-the-balkans-forces-more-than-a-t
 
 ### [2010-12-3](/news/2010/12/3/index.md)
 
-##### flood
+##### Flood
 # Heavy floods in the Balkans forces more than a thousand people to evacuate from their homes. 
 
 Heavy snow and freezing temperatures continue across northern Europe, with dozens of people reported killed by the cold or in weather-related accidents.

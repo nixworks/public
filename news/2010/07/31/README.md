@@ -17,9 +17,9 @@ Almost more important than what is in the Black Saturday report is whether its r
 
 ##### "black box" flight data recorder
 ### [The black box for Airblue Flight 202 which crashed near Islamabad, Pakistan, is found. ](/news/2010/07/31/the-black-box-for-airblue-flight-202-which-crashed-near-islamabad-pakistan-is-found.md)
-_Context: Islamabad, Pakistan, "black box" flight data recorder, Flight 202, Airblue_
+_Context: Islamabad, Airblue, Pakistan, Flight 202, "black box" flight data recorder_
 
-##### devastating floods
+##### Devastating floods
 ### [The death toll from the 2010 Pakistan floods exceeds 900 and may climb further. ](/news/2010/07/31/the-death-toll-from-the-2010-pakistan-floods-exceeds-900-and-may-climb-further.md)
 _Context: devastating floods_
 
@@ -31,7 +31,7 @@ Germany holds an emotional memorial service for the 21 people killed in a stampe
 ### [United States and Michigan government officials say it will take months to clean up an oil spill in the Kalamazoo River in southern Michigan and considerably longer for the ecosystem to recover. ](/news/2010/07/31/united-states-and-michigan-government-officials-say-it-will-take-months-to-clean-up-an-oil-spill-in-the-kalamazoo-river-in-southern-michigan.md)
 Officials investigating the cause of a huge oil spill along a major river in southern Michigan say damage to wetlands and wildlife may last considerably longer.
 
-##### coal mine
+##### Coal mine
 ### [An explosion in a coal mine in Shanxi Province, China leaves 17 people dead while 24 miners are trapped by flooding in a nearby mine. ](/news/2010/07/31/an-explosion-in-a-coal-mine-in-shanxi-province-china-leaves-17-people-dead-while-24-miners-are-trapped-by-flooding-in-a-nearby-mine.md)
 An explosion at one coal mine operation in China left 17 people dead and another mine flooded, leaving 24 miners trapped, officials said.
 
@@ -47,9 +47,9 @@ Javier Canales and Alejandro Hernández, both camera operators, had been kidnapp
 ### [Pakistani intelligence officials cancel a planned visit to the United Kingdom after British Prime Minister David Cameron warned Pakistan to avoid links with groups that "promote the export of terror". However, a visit by President Asif Ali Zardari will go ahead. ](/news/2010/07/31/pakistani-intelligence-officials-cancel-a-planned-visit-to-the-united-kingdom-after-british-prime-minister-david-cameron-warned-pakistan-to.md)
 Pakistan says it expects &quot;fruitful&quot; talks between its president and David Cameron despite a row over comments about its alleged links to terror.
 
-##### police officers
+##### Police officers
 ### [Police fire rubber bullets to disperse rioting garment workers as protests spread beyond the capital Dhaka to other Bangladeshi cities. ](/news/2010/07/31/police-fire-rubber-bullets-to-disperse-rioting-garment-workers-as-protests-spread-beyond-the-capital-dhaka-to-other-bangladeshi-cities.md)
-_Context: police officers, Bangladesh, rubber bullet, Dhaka_
+_Context: Bangladesh, Dhaka, rubber bullet, police officers_
 
 ## [Previous Day...](/news/2010/07/30/index.md)
 

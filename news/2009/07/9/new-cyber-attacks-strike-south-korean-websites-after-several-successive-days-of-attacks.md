@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/9/new-cyber-attacks-strike-south-korean-websites-a
 
 ### [2009-07-9](/news/2009/07/9/index.md)
 
-##### cyber-war
+##### Cyber-war
 #  New cyber attacks strike South Korean websites, after several successive days of attacks. 
 
 

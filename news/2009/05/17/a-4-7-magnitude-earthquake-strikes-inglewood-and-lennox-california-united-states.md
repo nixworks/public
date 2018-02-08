@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/17/a-4-7-magnitude-earthquake-strikes-inglewood-an
 
 ### [2009-05-17](/news/2009/05/17/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 4.7-magnitude earthquake strikes Inglewood and Lennox, California, United States. 
 
 

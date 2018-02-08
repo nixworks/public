@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/28/central-china-s-hunan-province-begins-building-
 
 ### [2010-11-28](/news/2010/11/28/index.md)
 
-##### central China
+##### Central China
 # Central China's Hunan Province begins building the country's third National Supercomputing Center (NSCC), where the world's fastest supercomputer, the Tianhe-1A, will be installed. 
 
 

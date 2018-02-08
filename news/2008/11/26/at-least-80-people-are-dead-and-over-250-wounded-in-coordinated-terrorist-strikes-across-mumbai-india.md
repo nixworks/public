@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/26/at-least-80-people-are-dead-and-over-250-wounde
 
 ### [2008-11-26](/news/2008/11/26/index.md)
 
-##### coordinated terrorist strikes
+##### Coordinated terrorist strikes
 #  At least 80 people are dead and over 250 wounded in coordinated terrorist strikes across Mumbai, India. 
 
 At least six foreigners have been killed and the death toll has gone up to 101 in terror attacks by gunmen in Mumbai, senior police officer said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/04/6/in-a-friendly-fire-incident-u-s-warplanes-struck
 
 ### [2003-04-6](/news/2003/04/6/index.md)
 
-##### friendly fire
+##### Friendly fire
 #  In a friendly fire incident, U.S. warplanes struck a convoy of allied Kurdish fighters and U.S. Special Forces during a battle in northern Afghanistan. At least 18 people are killed and more than 45 wounded, including senior Kurdish commanders.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/25/the-retrial-of-vicky-pryce-the-ex-wife-of-forme
 
 ### [2013-02-25](/news/2013/02/25/index.md)
 
-##### jailed
+##### Jailed
 # The retrial of Vicky Pryce, the ex-wife of former UK Cabinet Minister Chris Huhne, begins hearing evidence. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/19/six-people-die-as-a-result-of-storms-in-the-mid
 
 ### [2007-10-19](/news/2007/10/19/index.md)
 
-##### midwestern
+##### Midwestern
 #  Six people die as a result of storms in the midwestern United States and Washington state. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/11/an-oil-spill-from-the-ship-rena-off-the-coast-o
 
 ### [2011-10-11](/news/2011/10/11/index.md)
 
-##### oil spill
+##### Oil spill
 # An oil spill from the ship Rena off the coast of Tauranga in New Zealand becomes the country's worst environmental disaster. 
 
 

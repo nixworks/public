@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/8/anthropologists-claim-to-have-proven-that-yersin
 
 ### [2010-10-8](/news/2010/10/8/index.md)
 
-##### anthropologists
+##### Anthropologists
 # Anthropologists claim to have proven that Yersinia pestis was responsible for the Black Death in Medieval Europe. 
 
 Anthropologists say they have confirmed long-running suspicions that a germ called Yersinia pestis caused the plague that wiped out an estimated third of Europe&#039;s population in the Middle Ages.

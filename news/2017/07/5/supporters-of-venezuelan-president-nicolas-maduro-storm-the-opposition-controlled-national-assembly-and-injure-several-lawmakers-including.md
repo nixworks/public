@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/07/5/supporters-of-venezuelan-president-nicolas-madur
 
 ### [2017-07-5](/news/2017/07/5/index.md)
 
-##### ongoing protests
+##### Ongoing protests
 # Supporters of Venezuelan President Nicols Maduro storm the opposition-controlled National Assembly and injure several lawmakers, including the President of the National Assembly, Julio Borges. Several journalists were also injured in the assault. 
 
 

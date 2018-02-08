@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/23/the-bombardment-of-homs-continues-for-the-20th-
 
 ### [2012-02-23](/news/2012/02/23/index.md)
 
-##### bombardment
+##### Bombardment
 # The bombardment of Homs continues for the 20th successive day, with water and food supplies quickly dwindling for residents. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/12/at-least-28-people-are-killed-in-a-mining-accid
 
 ### [2013-05-12](/news/2013/05/12/index.md)
 
-##### mining accident
+##### Mining accident
 # At least 28 people are killed in a mining accident in China's Sichuan Province. 
 
 

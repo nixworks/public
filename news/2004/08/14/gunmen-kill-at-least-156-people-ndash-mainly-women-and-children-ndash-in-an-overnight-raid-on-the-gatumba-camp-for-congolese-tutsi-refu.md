@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/14/gunmen-kill-at-least-156-people-ndash-mainly-wo
 
 ### [2004-08-14](/news/2004/08/14/index.md)
 
-##### overnight
+##### Overnight
 #  Gunmen kill at least 156 people &ndash; mainly women and children &ndash; in an overnight raid on the Gatumba camp for Congolese Tutsi refugees in Burundi, the UN says. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/1/new-gambling-legislation-comes-into-effect-in-th
 
 ### [2007-09-1](/news/2007/09/1/index.md)
 
-##### gambling
+##### Gambling
 #  New gambling legislation comes into effect in the United Kingdom, relaxing advertising restrictions and extending opening hours. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

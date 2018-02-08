@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/15/over-190-anti-iraq-war-protesters-are-arrested-
 
 ### [2007-09-15](/news/2007/09/15/index.md)
 
-##### anti-Iraq War
+##### Anti-Iraq War
 #  Over 190 anti-Iraq War protesters are arrested outside the United States Capitol. 
 
 

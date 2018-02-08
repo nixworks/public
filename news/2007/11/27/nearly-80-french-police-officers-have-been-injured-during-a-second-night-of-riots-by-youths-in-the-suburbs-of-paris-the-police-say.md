@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/27/nearly-80-french-police-officers-have-been-inju
 
 ### [2007-11-27](/news/2007/11/27/index.md)
 
-##### riots by youths
+##### Riots by youths
 #  Nearly 80 French police officers have been injured during a second night of riots by youths in the suburbs of Paris, the police say. 
 
 

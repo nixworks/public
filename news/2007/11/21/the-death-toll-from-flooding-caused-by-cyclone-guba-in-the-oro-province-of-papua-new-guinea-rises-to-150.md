@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/21/the-death-toll-from-flooding-caused-by-cyclone-
 
 ### [2007-11-21](/news/2007/11/21/index.md)
 
-##### flooding
+##### Flooding
 #  The death toll from flooding caused by cyclone Guba in the Oro Province of Papua New Guinea rises to 150. 
 
 

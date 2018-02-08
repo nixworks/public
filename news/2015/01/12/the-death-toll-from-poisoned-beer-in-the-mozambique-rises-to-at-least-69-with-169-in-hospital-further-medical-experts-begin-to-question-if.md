@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/12/the-death-toll-from-poisoned-beer-in-the-mozamb
 
 ### [2015-01-12](/news/2015/01/12/index.md)
 
-##### contaminated beer
+##### Contaminated beer
 # The death toll from poisoned beer in the Mozambique rises to at least 69 with 169 in hospital. Further, medical experts begin to question if the source of the contamination was the deliberate addition of crocodile bile or instead the often used foxglove flowers (which contain digitalis) for homebrewing locally-derived Pombe beer. 
 
 Radio Mozambique has updated the story this morning, confirming that 69 people have died and 196 are hospitalized after having attended a funeral on Friday in the village of Chitima in the western part of the country. The mourners had gathered later in the day in a neighborhood where Pombe (or Phombe) is sold, a fermented mix of sorghum, bran, corn, and sugar.

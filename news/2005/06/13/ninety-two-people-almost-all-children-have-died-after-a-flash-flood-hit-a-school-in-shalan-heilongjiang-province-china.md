@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/13/ninety-two-people-almost-all-children-have-died
 
 ### [2005-06-13](/news/2005/06/13/index.md)
 
-##### flash flood
+##### Flash flood
 #  Ninety-two people, almost all children, have died after a flash flood hit a school in Shalan, Heilongjiang province, China. 
 
 

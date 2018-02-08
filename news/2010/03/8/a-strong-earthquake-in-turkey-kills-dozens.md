@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/8/a-strong-earthquake-in-turkey-kills-dozens.html)
 
 ### [2010-03-8](/news/2010/03/8/index.md)
 
-##### strong earthquake
+##### Strong earthquake
 # A strong earthquake in Turkey kills dozens. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/19/as-part-of-an-ongoing-row-between-fota-and-the-
 
 ### [2009-06-19](/news/2009/06/19/index.md)
 
-##### ongoing row
+##### Ongoing row
 #  As part of an ongoing row between FOTA and the FIA, eight teams declare that they will leave Formula One and set up a new championship for the 2010 season. 
 
 

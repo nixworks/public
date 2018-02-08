@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/8/iraq-s-environmental-secretary-claims-that-11-po
 
 ### [2006-10-8](/news/2006/10/8/index.md)
 
-##### food poisoning
+##### Food poisoning
 #  Iraq's Environmental Secretary claims that 11 police officers have died of food poisoning in the Wasit province of that country. The governor of the Wasit province claims that no officers have died, but that several are in critical condition. It is unclear whether or not the poisonings were intentional. 
 
 

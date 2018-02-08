@@ -25,7 +25,7 @@ Britain’s economy has posted its 14th consecutive quarter of growth, but some 
 
 ##### China
 ### [China claims to have discovered the largest undersea hole dubbed "The Dragon's Hole" in the disputed Paracel Islands. ](/news/2016/07/27/china-claims-to-have-discovered-the-largest-undersea-hole-dubbed-the-dragon-s-hole-in-the-disputed-paracel-islands.md)
-_Context: China, The Dragon's Hole, Paracel Islands_
+_Context: Paracel Islands, The Dragon's Hole, China_
 
 ##### Facebook
 ### [Facebook beats earnings expectations. ](/news/2016/07/27/facebook-beats-earnings-expectations.md)
@@ -53,7 +53,7 @@ The crashed remains from Flight MH370 could be as much as 500km further north th
 
 ##### Ice Bucket Challenge
 ### [Two years after its launch, supporters of the Ice Bucket Challenge to bring awareness to ALS celebrate scientific discovery regarding NEK1. ](/news/2016/07/27/two-years-after-its-launch-supporters-of-the-ice-bucket-challenge-to-bring-awareness-to-als-celebrate-scientific-discovery-regarding-nek1.md)
-_Context: Ice Bucket Challenge, NEK1, ALS_
+_Context: NEK1, Ice Bucket Challenge, ALS_
 
 ##### 2015-16 Zika virus epidemic
 ### [Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/four-florida-residents-may-have-been-infected-by-the-virus-locally.md)
@@ -95,7 +95,7 @@ Laws will allow forces to conduct searches without a warrant and dispenses with 
 ### [Scientists have discovered that the region directly above the Great Red Spot on the planet Jupiter is about 700deg F (370deg C) warmer than the surrounding upper atmosphere. ](/news/2016/07/27/scientists-have-discovered-that-the-region-directly-above-the-great-red-spot-on-the-planet-jupiter-is-about-700adeg-f-370adeg-c-warmer-than-th.md)
 Jupiter&#039;s Great Red Spot may fuel the extreme heat observed in the planet&#039;s upper atmosphere, new research shows.
 
-##### orangutan
+##### Orangutan
 ### [Researchers have discovered that orangutans can control their vocal pitch, a link to human speech. ](/news/2016/07/27/researchers-have-discovered-that-orangutans-can-control-their-vocal-pitch-a-link-to-human-speech.md)
 _Context: orangutan, human speech_
 

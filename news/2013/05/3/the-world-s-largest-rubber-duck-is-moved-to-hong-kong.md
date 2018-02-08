@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/3/the-world-s-largest-rubber-duck-is-moved-to-hong
 
 ### [2013-05-3](/news/2013/05/3/index.md)
 
-##### largest rubber duck
+##### Largest rubber duck
 # The world's largest rubber duck is moved to Hong Kong. 
 
 Get the latest weird news stories from all over the world. Find bizarre and offbeat news about people, nature and unexplained mysteries at ABC News.

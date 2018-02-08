@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-b
 
 ### [2010-05-7](/news/2010/05/7/index.md)
 
-##### gunbattle
+##### Gunbattle
 # 5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. 
 
 

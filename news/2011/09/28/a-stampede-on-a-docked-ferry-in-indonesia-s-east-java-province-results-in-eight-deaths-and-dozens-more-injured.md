@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/28/a-stampede-on-a-docked-ferry-in-indonesia-s-eas
 
 ### [2011-09-28](/news/2011/09/28/index.md)
 
-##### stampede
+##### Stampede
 # A stampede on a docked ferry in Indonesia's East Java province results in eight deaths and dozens more injured. 
 
 

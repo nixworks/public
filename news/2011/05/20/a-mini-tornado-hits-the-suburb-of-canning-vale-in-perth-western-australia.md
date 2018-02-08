@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/20/a-mini-tornado-hits-the-suburb-of-canning-vale-
 
 ### [2011-05-20](/news/2011/05/20/index.md)
 
-##### tornado
+##### Tornado
 # A mini-tornado hits the suburb of Canning Vale in Perth, Western Australia. 
 
 A mini-tornado damaged 10 homes in Canning Vale and Perth drivers faced lengthy delays on the roads during peak-hours after a cold front swept through the city.

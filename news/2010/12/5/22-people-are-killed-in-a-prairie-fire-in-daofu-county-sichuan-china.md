@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/5/22-people-are-killed-in-a-prairie-fire-in-daofu-
 
 ### [2010-12-5](/news/2010/12/5/index.md)
 
-##### prairie
+##### Prairie
 # 22 people are killed in a prairie fire in Daofu County, Sichuan, China. 
 
 

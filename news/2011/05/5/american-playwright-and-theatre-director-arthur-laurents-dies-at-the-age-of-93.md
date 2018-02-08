@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/american-playwright-and-theatre-director-arthur-
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### playwright
+##### Playwright
 # American playwright and theatre director Arthur Laurents dies at the age of 93. 
 
 Mr. Laurents was a playwright, screenwriter and director who wrote and ultimately transformed two of Broadway’s landmark shows, “Gypsy” and “West Side Story.”

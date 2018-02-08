@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/16/four-men-including-a-police-officer-are-stabbed
 
 ### [2013-06-16](/news/2013/06/16/index.md)
 
-##### police officer
+##### Police officer
 # Four men, including a police officer, are stabbed at a mosque in Birmingham, England. 
 
 Four men including a police officer are in hospital after being stabbed during an attack at a mosque in the English city of Birmingham.

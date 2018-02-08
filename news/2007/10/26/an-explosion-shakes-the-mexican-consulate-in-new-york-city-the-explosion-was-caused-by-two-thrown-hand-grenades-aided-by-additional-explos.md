@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/26/an-explosion-shakes-the-mexican-consulate-in-ne
 
 ### [2007-10-26](/news/2007/10/26/index.md)
 
-##### explosion
+##### Explosion
 #  An explosion shakes the Mexican consulate in New York City. The explosion was caused by two thrown hand grenades aided by additional explosive material. 7 injuries were reported, with several windows blown out and debris entering the building. 
 
 

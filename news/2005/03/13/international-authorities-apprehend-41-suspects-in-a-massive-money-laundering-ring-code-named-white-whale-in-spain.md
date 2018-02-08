@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/03/13/international-authorities-apprehend-41-suspects
 
 ### [2005-03-13](/news/2005/03/13/index.md)
 
-##### money laundering
+##### Money laundering
 #  International authorities apprehend 41 suspects in a massive money laundering ring code-named White Whale in Spain. 
 
 

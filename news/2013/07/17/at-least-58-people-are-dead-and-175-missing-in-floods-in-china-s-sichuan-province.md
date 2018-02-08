@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/17/at-least-58-people-are-dead-and-175-missing-in-
 
 ### [2013-07-17](/news/2013/07/17/index.md)
 
-##### floods
+##### Floods
 # At least 58 people are dead and 175 missing in floods in China's Sichuan province. 
 
 

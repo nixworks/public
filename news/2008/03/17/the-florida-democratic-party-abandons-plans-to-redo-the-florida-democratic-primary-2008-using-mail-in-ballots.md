@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/17/the-florida-democratic-party-abandons-plans-to-
 
 ### [2008-03-17](/news/2008/03/17/index.md)
 
-##### the state
+##### The state
 #  The Florida Democratic Party abandons plans to redo the Florida Democratic primary, 2008 using mail-in ballots. 
 
 Barack Obama confronted the divisions between black and white as he sought to dispel the furor over his pastor’s words.

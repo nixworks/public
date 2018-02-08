@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/29/spain-is-reported-to-be-considering-doubling-he
 
 ### [2004-03-29](/news/2004/03/29/index.md)
 
-##### troop
+##### Troop
 #  Spain is reported to be considering doubling her number of troops stationed in Afghanistan. 
 
 

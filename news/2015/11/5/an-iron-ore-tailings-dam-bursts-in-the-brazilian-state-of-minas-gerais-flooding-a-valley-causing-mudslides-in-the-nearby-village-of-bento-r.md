@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/5/an-iron-ore-tailings-dam-bursts-in-the-brazilian
 
 ### [2015-11-5](/news/2015/11/5/index.md)
 
-##### iron ore
+##### Iron ore
 # An iron ore tailings dam bursts in the Brazilian state of Minas Gerais flooding a valley, causing mudslides in the nearby village of Bento Rodrigues and causing up to 17 deaths and 45 missing. The dam is operated by Samarco MineracGBPo, a joint venture between BHP Billiton and Vale. 
 
 Brazilian authorities stepped up efforts to locate and care for victims of a massive mudslide triggered by ruptured dams at an iron ore mine owned by BHP Billiton Ltd. and Vale SA, in what is being described as the worst environmental disaster ever in the state of Minas Gerais.

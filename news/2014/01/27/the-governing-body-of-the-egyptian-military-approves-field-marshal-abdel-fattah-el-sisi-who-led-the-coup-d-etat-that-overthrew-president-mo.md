@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/27/the-governing-body-of-the-egyptian-military-app
 
 ### [2014-01-27](/news/2014/01/27/index.md)
 
-##### governing body
+##### Governing body
 # The governing body of the Egyptian military approves Field Marshal Abdel Fattah el-Sisi, who led the coup d'tat that overthrew President Mohamed Morsi in July 2013, to run for the presidency in the upcoming election. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/1/the-ministry-of-social-affairs-and-health-plans-
 
 ### [2003-08-1](/news/2003/08/1/index.md)
 
-##### tobacco
+##### Tobacco
 #  The Ministry of Social Affairs and Health plans to propose an amendment to Finnish tobacco legislation which would make retail sales of tobacco products subject to a license.
 
 

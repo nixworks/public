@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/12/12/the-u-s-house-committee-on-the-judiciary-will-b
 
 ### [2004-12-12](/news/2004/12/12/index.md)
 
-##### election fraud
+##### Election fraud
 #  The U.S. House Committee on the Judiciary will be holding a congressional forum in Columbus concerning new evidence of election irregularities and fraud in Ohio, the issue of Ohio electors meeting while recounts and litigation are pending, and to discuss legislative and other responses to the problems, on Dec. 13. 
 
 

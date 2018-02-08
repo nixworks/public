@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/8/chinese-internet-authorities-shut-down-the-websi
 
 ### [2004-06-8](/news/2004/06/8/index.md)
 
-##### internet users
+##### Internet users
 #  Chinese Internet authorities shut down the website of the Open Constitutional Initiative (OCI), a leading website campaigning for greater constitutional protections in China. OCI is a group of intellectuals that have been posting essays on the website related to constitutional issues and the protections of citizens rights as laid out in the Constitution of the People's Republic of China.
 
 

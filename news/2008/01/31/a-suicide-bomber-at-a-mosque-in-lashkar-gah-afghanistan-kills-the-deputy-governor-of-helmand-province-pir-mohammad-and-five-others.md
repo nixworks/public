@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/31/a-suicide-bomber-at-a-mosque-in-lashkar-gah-afg
 
 ### [2008-01-31](/news/2008/01/31/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber at a mosque in Lashkar Gah, Afghanistan kills the deputy governor of Helmand Province, Pir Mohammad, and five others. 
 
 

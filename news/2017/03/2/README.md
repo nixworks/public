@@ -9,13 +9,13 @@ Formats: [HTML](2017/03/2/index.html)  [JSON](2017/03/2/index.json)  [XML](2017/
 
 ##### War in North-West Pakistan
 ### [A United States drone strike kills two alleged militants in the Kurram district of the Federally Administered Tribal Areas. ](/news/2017/03/2/a-united-states-drone-strike-kills-two-alleged-militants-in-the-kurram-district-of-the-federally-administered-tribal-areas.md)
-_Context: United States, Federally Administered Tribal Areas, Kurram, War in North-West Pakistan_
+_Context: United States, Federally Administered Tribal Areas, War in North-West Pakistan, Kurram_
 
-##### methane
+##### Methane
 ### [A methane gas explosion occurs at a coal mine in Lviv Oblast, Ukraine, killing at least eight miners, with another 20 unaccounted for. ](/news/2017/03/2/a-methane-gas-explosion-occurs-at-a-coal-mine-in-lviv-oblast-ukraine-killing-at-least-eight-miners-with-another-20-unaccounted-for.md)
 Rescue efforts in western Ukraine ongoing after methane gas blast kills eight miners and leaves 20 unaccounted for.
 
-##### northern Italian
+##### Northern Italian
 ### [An avalanche near the northern Italian town of Courmayeur, kills at least three people and injures another three, while two others are believed missing. ](/news/2017/03/2/an-avalanche-near-the-northern-italian-town-of-courmayeur-kills-at-least-three-people-and-injures-another-three-while-two-others-are-belie.md)
 The deaths happened in an off-piste area near the resort of Courmayeur.
 
@@ -33,7 +33,7 @@ Minority government introduces bill to restore 11-month conscription this summer
 
 ##### Political appointments of Donald Trump
 ### [The U.S. Senate confirms Donald Trump's appointment of his former opponents in the presidential primaries, neurosurgeon Ben Carson and Governor of Texas Rick Perry, as Secretaries of Housing and Urban Development and Energy respectively, with the support of all Republicans and some Democrats. ](/news/2017/03/2/the-u-s-senate-confirms-donald-trump-s-appointment-of-his-former-opponents-in-the-presidential-primaries-neurosurgeon-ben-carson-and-gover.md)
-_Context: Ben Carson, Donald Trump, Democrat, Republican, Political appointments of Donald Trump, presidential primaries, Rick Perry, Energy, Housing and Urban Development, United States Senate_
+_Context: Republican, Housing and Urban Development, presidential primaries, Ben Carson, Rick Perry, Political appointments of Donald Trump, Donald Trump, United States Senate, Democrat, Energy_
 
 ## [Previous Day...](/news/2017/03/1/index.md)
 

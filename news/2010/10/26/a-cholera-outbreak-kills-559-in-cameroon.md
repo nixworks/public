@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.html) 
 
 ### [2010-10-26](/news/2010/10/26/index.md)
 
-##### cholera
+##### Cholera
 # A cholera outbreak kills 559 in Cameroon. 
 
 

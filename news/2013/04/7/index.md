@@ -7,7 +7,7 @@ Formats: [HTML](2013/04/7/index.html)  [JSON](2013/04/7/index.json)  [XML](2013/
 ### [An air strike on Aleppo by the Syrian Air Force kills 15 people, including nine children. ](/news/2013/04/7/an-air-strike-on-aleppo-by-the-syrian-air-force-kills-15-people-including-nine-children.md)
 The violence in Syria continues. An air strike has killed 15 people in Aleppo. The British-based Syrian Observatory for Human Rights said a
 
-##### airstrike
+##### Airstrike
 ### [An airstrike conducted by NATO kills at least 12 people in the Afghan province of Kunar. ](/news/2013/04/7/an-airstrike-conducted-by-nato-kills-at-least-12-people-in-the-afghan-province-of-kunar.md)
 Eleven children are reported to have been among those killed in a Nato air strike in Kunar province in eastern Afghanistan.
 
@@ -25,7 +25,7 @@ China is to open disputed South China Sea islands up to tourism this month, stat
 
 ##### Doha
 ### [Hundreds of delegates meet in Doha, Qatar, to raise funds to rebuild the Sudanese region of Darfur, that has been racked by conflict. ](/news/2013/04/7/hundreds-of-delegates-meet-in-doha-qatar-to-raise-funds-to-rebuild-the-sudanese-region-of-darfur-that-has-been-racked-by-conflict.md)
-_Context: Darfur, Doha, Qatar, Sudan, conflict_
+_Context: Darfur, conflict, Sudan, Doha, Qatar_
 
 ##### United States
 ### [United States Secretary of State John Kerry arrives in Turkey, where he is to have talks addressing relations with Israel and the conflict in Syria. ](/news/2013/04/7/united-states-secretary-of-state-john-kerry-arrives-in-turkey-where-he-is-to-have-talks-addressing-relations-with-israel-and-the-conflict-i.md)
@@ -37,11 +37,11 @@ Egyptian police fired tear gas outside Cairo&#39;s Coptic cathedral on Sunday af
 
 ##### Singapore
 ### [Eric Ding Si Yang, a Singaporean businessman, is charged with corruption for offering free sex to three Lebanese football referees to induce them to fix a match in the AFC Cup. ](/news/2013/04/7/eric-ding-si-yang-a-singaporean-businessman-is-charged-with-corruption-for-offering-free-sex-to-three-lebanese-football-referees-to-induce.md)
-_Context: football, corruption, Lebanon, referees, match fixing, Singapore, AFC Cup, free sex_
+_Context: referees, free sex, match fixing, corruption, football, Lebanese, AFC Cup, Singapore_
 
 ##### Rehtaeh Parsons
 ### [Rehtaeh Parsons, a 17-year-old Canadian gang-rape victim from Halifax, Novia Scotia, is taken off of life support and dies three days after a suicide attempt. Parson's claimed to have been raped when she was 15, she had been bullied ever since the alleged incident; officials with the Royal Canadian Mounted Police and the justice system are deciding whether to file charges. ](/news/2013/04/7/rehtaeh-parsons-a-17-year-old-canadian-gang-rape-victim-from-halifax-novia-scotia-is-taken-off-of-life-support-and-dies-three-days-after.md)
-_Context: Halifax, life support, Canadian, Novia Scotia, gang-rape, Royal Canadian Mounted Police, suicide, Rehtaeh Parsons_
+_Context: Royal Canadian Mounted Police, life support, Halifax, suicide, Rehtaeh Parsons, gang-rape, Canadian, Novia Scotia_
 
 ##### Montenegro
 ### [Voters in Montenegro go to the polls for a presidential election with both candidates declaring themselves winner. ](/news/2013/04/7/voters-in-montenegro-go-to-the-polls-for-a-presidential-election-with-both-candidates-declaring-themselves-winner.md)

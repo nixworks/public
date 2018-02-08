@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/30/heavy-flooding-and-mudslides-claim-at-least-21-
 
 ### [2010-11-30](/news/2010/11/30/index.md)
 
-##### mudslide
+##### Mudslide
 # Heavy flooding and mudslides claim at least 21 lives in Venezuela, with the President of Venezuela declaring a state of emergency in the state of Falcon. 
 
 

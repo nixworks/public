@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/06/12/a-meteorite-plunges-into-a-family-s-living-room
 
 ### [2004-06-12](/news/2004/06/12/index.md)
 
-##### meteorite
+##### Meteorite
 #  A meteorite plunges into a family's living room in the Auckland, New Zealand, suburb of Ellerslie on Saturday afternoon. No one is hurt. Weighing 1.3 kilograms (2.9 pounds), it is the ninth ever meteorite to be found in the country, and the first to hit a home. 
 
 

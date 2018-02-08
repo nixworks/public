@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/5/three-miners-are-missing-but-dozens-have-been-re
 
 ### [2016-02-5](/news/2016/02/5/index.md)
 
-##### gold mine
+##### Gold mine
 # Three miners are missing but dozens have been rescued following a gold mine collapse in South Africa. 
 
 Scores of South African miners have been rescued and three workers missing in gold-mine collapse.

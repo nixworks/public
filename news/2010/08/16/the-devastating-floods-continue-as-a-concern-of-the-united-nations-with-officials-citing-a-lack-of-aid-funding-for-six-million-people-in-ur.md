@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/16/the-devastating-floods-continue-as-a-concern-of
 
 ### [2010-08-16](/news/2010/08/16/index.md)
 
-##### devastating floods
+##### Devastating floods
 # The devastating floods continue as a concern of the United Nations, with officials citing a lack of aid funding for six million people in urgent need of clean water. 
 
 As officials struggle with immediate response to the disaster, concerns are growing about the toll on the overall economy, food supply and stability.

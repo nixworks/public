@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/04/13/the-death-toll-in-the-collapse-of-a-factory-in-
 
 ### [2005-04-13](/news/2005/04/13/index.md)
 
-##### death toll
+##### Death toll
 #  The death toll in the collapse of a factory in Dacca, Bangladesh increases to 30. 
 
 

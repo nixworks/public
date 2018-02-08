@@ -5,7 +5,7 @@ Formats: [HTML](2004/02/17/index.html)  [JSON](2004/02/17/index.json)  [XML](200
 
 ##### Thomas O'Brien
 ### [ Bishop Thomas O'Brien, the former head of Arizona's largest Roman Catholic diocese, is convicted of a hit and run making him the first Catholic bishop in the United States to be convicted of a felony. ](/news/2004/02/17/bishop-thomas-o-brien-the-former-head-of-arizona-s-largest-roman-catholic-diocese-is-convicted-of-a-hit-and-run-making-him-the-first-cath.md)
-_Context: felony, Arizona, Roman Catholic, Thomas O'Brien_
+_Context: Roman Catholic, Arizona, Thomas O'Brien, felony_
 
 ##### Federal Aviation Administration
 ### [ The US FAA announces it will attempt to require a fuel tank inerting system in most large airliners in an effort to prevent fuel tank explosions such as the one which apparently destroyed TWA Flight 800 in 1996. The order could take two years to complete and then would require a retrofit of about 3,800 large Boeing and Airbus jets over the next seven years. ](/news/2004/02/17/the-us-faa-announces-it-will-attempt-to-require-a-fuel-tank-inerting-system-in-most-large-airliners-in-an-effort-to-prevent-fuel-tank-explo.md)
@@ -17,17 +17,17 @@ _Context: CNN, sexual abuse, priest_
 
 ##### Roman Curia
 ### [ Cardinal Walter Kasper, head of the Pontifical Council for the Promotion of Christian Unity, a top Vatican official arrives in Moscow for sensitive talks with the Russian Orthodox hierarchy, which accuses the Catholic Church of aggressive proselytizing in traditionally Orthodox lands. ](/news/2004/02/17/cardinal-walter-kasper-head-of-the-pontifical-council-for-the-promotion-of-christian-unity-a-top-vatican-official-arrives-in-moscow-for-s.md)
-_Context: Roman Curia, Orthodox_
+_Context: Orthodox, Roman Curia_
 
-##### dengue
+##### Dengue
 ### [ An outbreak of dengue fever kills 91 people in Indonesia and infects thousands more. Health officials report that 4,500 people have been hospitalized for the mosquito-borne disease, mostly in the capital and other parts of East Java, including the city of Yogyakarta. The number hospitalized is double that of last year. ](/news/2004/02/17/an-outbreak-of-dengue-fever-kills-91-people-in-indonesia-and-infects-thousands-more-health-officials-report-that-4-500-people-have-been-ho.md)
-_Context: Java, disease, Indonesia, dengue, mosquito, Yogyakarta_
+_Context: Java, mosquito, Indonesia, dengue, Yogyakarta, disease_
 
 ##### American Medical Association
 ### [ A study published in the latest issue of the "Journal of the American Medical Association" suggests breast cancer is linked to the use of antibiotics. ](/news/2004/02/17/a-study-published-in-the-latest-issue-of-the-journal-of-the-american-medical-association-suggests-breast-cancer-is-linked-to-the-use-of-a.md)
-_Context: American Medical Association, antibiotics, breast cancer_
+_Context: American Medical Association, breast cancer, antibiotics_
 
-##### board of directors
+##### Board of directors
 ### [ As expected, the board of directors of the Walt Disney Company unanimously rejects a hostile buyout offer by Comcast, saying the cable television giant's $66 billion bid is too low, but does not rule out accepting a higher bid in the future. ](/news/2004/02/17/as-expected-the-board-of-directors-of-the-walt-disney-company-unanimously-rejects-a-hostile-buyout-offer-by-comcast-saying-the-cable-tele.md)
 Things to do in Miami
 

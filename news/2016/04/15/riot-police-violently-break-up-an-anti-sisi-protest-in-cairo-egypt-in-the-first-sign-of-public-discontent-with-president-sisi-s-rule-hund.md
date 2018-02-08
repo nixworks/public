@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/15/riot-police-violently-break-up-an-anti-sisi-pro
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
-##### police
+##### Police
 # Riot police violently break up an anti-Sisi protest in Cairo, Egypt. In the first sign of public discontent with President Sisi's rule, hundreds of people gathered and shouted slogans calling for his overthrow. 
 
 

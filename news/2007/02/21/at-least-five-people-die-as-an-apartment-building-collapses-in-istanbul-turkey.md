@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/21/at-least-five-people-die-as-an-apartment-buildi
 
 ### [2007-02-21](/news/2007/02/21/index.md)
 
-##### apartment building
+##### Apartment building
 #  At least five people die as an apartment building collapses in Istanbul, Turkey. 
 
 

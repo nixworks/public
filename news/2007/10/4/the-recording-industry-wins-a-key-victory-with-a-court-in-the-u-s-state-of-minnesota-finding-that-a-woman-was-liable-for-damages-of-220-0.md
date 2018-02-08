@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/10/4/the-recording-industry-wins-a-key-victory-with-a
 
 ### [2007-10-4](/news/2007/10/4/index.md)
 
-##### recording industry
+##### Recording industry
 #  The recording industry wins a key victory with a court in the U.S. state of Minnesota finding that a woman was liable for damages of $220,000 for sharing copyrighted music online through Kazaa. 
 
 

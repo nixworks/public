@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/16/a-magnitude-7-8-earthquake-strikes-off-the-coas
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
-##### earthquake
+##### Earthquake
 # A magnitude 7.8 earthquake strikes off the coast of Ecuador, near the town of Muisne. The Pacific Tsunami Warning Center issues a tsunami alert for coastal areas of Ecuador and Colombia. At least 42 people are reported dead with deaths reported in the cities of Manta, Guayaquil and Portoviejo. 
 
  A powerful earthquake with a preliminary magnitude of 7.4 has struck off the coast of Ecuador, centered near Pedernales and Muis 

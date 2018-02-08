@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/21/a-landslide-in-indonesia-kills-at-least-seven-p
 
 ### [2005-02-21](/news/2005/02/21/index.md)
 
-##### landslide
+##### Landslide
 #  A landslide in Indonesia kills at least seven people and hundreds are reported missing 
 
 

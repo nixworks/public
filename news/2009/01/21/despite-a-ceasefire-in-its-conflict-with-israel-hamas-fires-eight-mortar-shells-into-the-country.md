@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/21/despite-a-ceasefire-in-its-conflict-with-israel
 
 ### [2009-01-21](/news/2009/01/21/index.md)
 
-##### ceasefire
+##### Ceasefire
 #  Despite a ceasefire in its conflict with Israel, Hamas fires eight mortar shells into the country. 
 
 

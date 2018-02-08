@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/29/a-mudslide-in-south-central-sri-lanka-kills-mor
 
 ### [2014-10-29](/news/2014/10/29/index.md)
 
-##### mudslide
+##### Mudslide
 # A mudslide in south-central Sri Lanka kills more than 100 people. 
 
 

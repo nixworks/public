@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/11/an-estimated-two-million-iranians-demonstrate-a
 
 ### [2005-02-11](/news/2005/02/11/index.md)
 
-##### pre-emptive strike
+##### Pre-emptive strike
 #  An estimated two million Iranians demonstrate against a possible U.S. pre-emptive strike aimed at preventing Iran from deploying nuclear weapons &ndash; a strike which top US military leaders deny considering. 
 
 

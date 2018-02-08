@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/6/a-significant-explosive-event-occurs-at-the-moun
 
 ### [2009-04-6](/news/2009/04/6/index.md)
 
-##### erupts
+##### Erupts
 #  A "significant explosive event" occurs at the Mount Redoubt volcano in Alaska. 
 
 

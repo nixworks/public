@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/05/29/tropical-storm-alma-the-first-tropical-storm-of
 
 ### [2008-05-29](/news/2008/05/29/index.md)
 
-##### tropical storm
+##### Tropical storm
 #  Tropical Storm Alma, the first tropical storm of the 2008 Pacific hurricane season, makes landfall in Nicaragua near the city of Leon bringing heavy rains and strong winds. 
 
 

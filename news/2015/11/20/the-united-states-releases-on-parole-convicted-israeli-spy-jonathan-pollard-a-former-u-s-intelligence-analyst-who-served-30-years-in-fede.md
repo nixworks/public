@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/20/the-united-states-releases-on-parole-convicted-
 
 ### [2015-11-20](/news/2015/11/20/index.md)
 
-##### parole
+##### Parole
 # The United States releases on parole convicted Israeli spy Jonathan Pollard, a former U.S. intelligence analyst, who served 30 years in federal prison. His parole, approved on July 28, 2015, is for five years during which time he has to remain in the United States. A supporter said Pollard will have a curfew and will wear a GPS unit. 
 
 Jonathan Pollard to be paroled on Friday, but won’t be able to travel or use the Internet

@@ -23,21 +23,21 @@ _Context: terrorism, Parliament of Malaysia_
 ### [At least 20 people die in a shootout between Indian police and timber smugglers in the southern state of Andhra Pradesh. ](/news/2015/04/7/at-least-20-people-die-in-a-shootout-between-indian-police-and-timber-smugglers-in-the-southern-state-of-andhra-pradesh.md)
 HYDERABAD, India (AFP) - At least 20 people died in a gun battle between the police and alleged timber smugglers in the southern Indian state of Andhra Pradesh on Tuesday, a local police chief said.. Read more at straitstimes.com.
 
-##### judge
+##### Judge
 ### [American judge Kenneth Marra strikes out claims that Virginia Roberts was forced to have sex with Prince Andrew, Duke of York in her claim against Jeffrey Epstein. ](/news/2015/04/7/american-judge-kenneth-marra-strikes-out-claims-that-virginia-roberts-was-forced-to-have-sex-with-prince-andrew-duke-of-york-in-her-claim-a.md)
 Claims that a woman was forced to have sex with Prince Andrew when she was 17 are to be struck from the record of a civil case in the US, a judge says.
 
 ##### Hatton Garden
 ### [Raiders using specialist cutting equipment break into an underground vault in the Hatton Garden Safe Deposit company in the London diamond district and empty 300 safety deposit boxes. ](/news/2015/04/7/raiders-using-specialist-cutting-equipment-break-into-an-underground-vault-in-the-hatton-garden-safe-deposit-company-in-the-london-diamond-d.md)
-_Context: Hatton Garden, London_
+_Context: London, Hatton Garden_
 
 ##### Shooting of Walter Scott
 ### [A North Charleston, South Carolina policeman is charged with murder after video footage emerges of him shooting an unarmed suspect attempting to flee on foot following a daytime traffic stop. ](/news/2015/04/7/a-north-charleston-south-carolina-policeman-is-charged-with-murder-after-video-footage-emerges-of-him-shooting-an-unarmed-suspect-attemptin.md)
-_Context: policeman, North Charleston, South Carolina, Shooting of Walter Scott_
+_Context: North Charleston, South Carolina, policeman, Shooting of Walter Scott_
 
 ##### Kentucky U.S. Senator
 ### [Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016. ](/news/2015/04/7/kentucky-u-s-senator-rand-paul-announces-that-he-will-seek-the-republican-nomination-for-the-u-s-presidency-in-2016.md)
-_Context: Kentucky U.S. Senator, presidential primaries, Rand Paul_
+_Context: Rand Paul, Kentucky U.S. Senator, presidential primaries_
 
 ##### Chicago mayoral election
 ### [Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-city-s-first-mayoral-runoff.md)

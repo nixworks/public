@@ -13,7 +13,7 @@ Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Isr
 
 ##### Japan
 ### [Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.md)
-_Context: Japan, Nagasaki, dropped_
+_Context: Nagasaki, Japan, dropped_
 
 ##### 
 ### [The Turkish government promotes two new generals. ](/news/2010/08/9/the-turkish-government-promotes-two-new-generals.md)
@@ -23,7 +23,7 @@ Baghdad traffic police are reportedly being given Kalashnikov assault rifles to 
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired more than 100 rounds of artillery into the Sea of Japan near the border highlighting the increase of tensions on the Korean Peninsula. ](/news/2010/08/9/south-korea-claims-that-north-korea-has-fired-more-than-100-rounds-of-artillery-into-the-sea-of-japan-near-the-border-highlighting-the-incre.md)
-_Context: Sea of Japan, North Korea, South Korea, Korean Peninsula_
+_Context: Korean Peninsula, South Korea, Sea of Japan, North Korea_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission suspends medical expeditions in Afghanistan following loss of personnel in the 2010 Badakhshan massacre. ](/news/2010/08/9/the-international-assistance-mission-suspends-medical-expeditions-in-afghanistan-following-loss-of-personnel-in-the-2010-badakhshan-massacre.md)
@@ -85,7 +85,7 @@ _Context: Israel, Israel's Channel 2_
 ### [A man from Israel is released after being detained as a suspected spy in Libya in return for the safe delivery to Gaza of 20 prefabricated houses, whose ship was forced to divert to Egypt in July. ](/news/2010/08/9/a-man-from-israel-is-released-after-being-detained-as-a-suspected-spy-in-libya-in-return-for-the-safe-delivery-to-gaza-of-20-prefabricated-h.md)
 An Israeli man freed by Libya after being held on suspicion of spying has flown back home, with Israel praising Tripoli for its handling of the matter.
 
-##### transsexual
+##### Transsexual
 ### [An anonymous transsexual is involved in a landmark case in Hong Kong to win the right to marry her boyfriend. ](/news/2010/08/9/an-anonymous-transsexual-is-involved-in-a-landmark-case-in-hong-kong-to-win-the-right-to-marry-her-boyfriend.md)
 A woman who was born in Hong Kong as a man but underwent a sex change is fighting for the right to marry her boyfriend.
 

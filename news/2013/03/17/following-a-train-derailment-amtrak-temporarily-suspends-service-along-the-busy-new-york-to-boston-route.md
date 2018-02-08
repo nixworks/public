@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/17/following-a-train-derailment-amtrak-temporarily
 
 ### [2013-03-17](/news/2013/03/17/index.md)
 
-##### train derailment
+##### Train derailment
 # Following a train derailment, Amtrak temporarily suspends service along the busy New York-to-Boston route. 
 
 

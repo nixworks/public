@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/19/united-states-congress-the-u-s-congress-has-pas
 
 ### [2004-11-19](/news/2004/11/19/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  United States Congress: The U.S. Congress has passed a bill reinstating and extending a ban on taxation of internet access for another three years. 
 
 

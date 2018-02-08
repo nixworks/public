@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/24/at-least-six-people-most-of-them-children-are-k
 
 ### [2007-11-24](/news/2007/11/24/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  At least six people, most of them children, are killed by a suicide bomber in Paghman, Afghanistan. 
 
 

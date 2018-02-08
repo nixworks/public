@@ -9,9 +9,9 @@ _Context: Tskhinvali_
 
 ##### State Attorney General
 ### [ The New York State Attorney General Andrew Cuomo reaches a $7 billion settlement with Citigroup to buy back auction rate securities from about 40,000 clients throughout the United States. ](/news/2008/08/7/the-new-york-state-attorney-general-andrew-cuomo-reaches-a-7-billion-settlement-with-citigroup-to-buy-back-auction-rate-securities-from-ab.md)
-_Context: Andrew Cuomo, State Attorney General, Citigroup, United States, auction rate securities_
+_Context: Citigroup, United States, auction rate securities, State Attorney General, Andrew Cuomo_
 
-##### unemployment benefits
+##### Unemployment benefits
 ### [ Claims for unemployment benefits in the United States rise to 455,000, the highest level since March 2002. ](/news/2008/08/7/claims-for-unemployment-benefits-in-the-united-states-rise-to-455-000-the-highest-level-since-march-2002.md)
 _Context: United States, unemployment benefits, March 2002_
 
@@ -21,13 +21,13 @@ Salim Ahmed Hamdan, the first detainee convicted after a war crimes trial in Gua
 
 ##### Mayor of Detroit
 ### [ The Mayor of Detroit Kwame Kilpatrick is ordered to go to jail for violating the terms of his bond for an ongoing perjury trial. ](/news/2008/08/7/the-mayor-of-detroit-kwame-kilpatrick-is-ordered-to-go-to-jail-for-violating-the-terms-of-his-bond-for-an-ongoing-perjury-trial.md)
-_Context: Mayor of Detroit, perjury, Kwame Kilpatrick_
+_Context: Mayor of Detroit, Kwame Kilpatrick, perjury_
 
-##### coup d'tat
+##### Coup d'tat
 ### [ The leaders of the 2008 Mauritanian coup d'tat promise to hold elections as soon as possible. ](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.md)
 _Context: coup d'tat_
 
-##### seek the impeachment
+##### Seek the impeachment
 ### [ Pakistan's ruling coalition announces it will seek the impeachment of President Pervez Musharraf. ](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-seek-the-impeachment-of-president-pervez-musharraf.md)
 _Context: Pervez Musharraf, seek the impeachment_
 

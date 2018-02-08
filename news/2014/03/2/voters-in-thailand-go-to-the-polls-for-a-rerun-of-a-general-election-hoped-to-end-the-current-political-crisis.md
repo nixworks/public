@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/2/voters-in-thailand-go-to-the-polls-for-a-rerun-o
 
 ### [2014-03-2](/news/2014/03/2/index.md)
 
-##### general election held on February 2
+##### General election held on February 2
 # Voters in Thailand go to the polls for a rerun of a general election hoped to end the current political crisis. 
 
 A second round of voting in Thailand has gone ahead without incident.

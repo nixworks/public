@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/22/more-than-100-people-die-in-floods-and-landslid
 
 ### [2007-07-22](/news/2007/07/22/index.md)
 
-##### flood
+##### Flood
 #  More than 100 people die in floods and landslides in China. 
 
 More than 100 people have died in floods and landslides in China where dykes protecting a swollen river in the east, which has already prompted tens of thousands to flee their homes, are in danger of being breached.

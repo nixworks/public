@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/21/a-gay-rights-protest-against-the-views-of-mosco
 
 ### [2010-09-21](/news/2010/09/21/index.md)
 
-##### gay rights
+##### Gay rights
 # A gay rights protest against the views of Moscow Mayor Yury Luzhkov is broken up with eight people arrested. 
 
 Moscow, Sep 21 (DPA) At least ten gay activists protesting against the anti-homosexual stance of Moscow Mayor Yuri Luzhkov have been arrested, police told...

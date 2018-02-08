@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/13/the-economic-growth-rate-for-the-people-s-repub
 
 ### [2012-07-13](/news/2012/07/13/index.md)
 
-##### economic growth
+##### Economic growth
 # The economic growth rate for the People's Republic of China falls to 7.6 per cent, its lowest level in three years. 
 
 

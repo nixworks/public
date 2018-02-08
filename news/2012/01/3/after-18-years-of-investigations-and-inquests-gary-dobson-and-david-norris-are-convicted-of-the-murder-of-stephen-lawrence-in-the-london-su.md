@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/3/after-18-years-of-investigations-and-inquests-ga
 
 ### [2012-01-3](/news/2012/01/3/index.md)
 
-##### murder of Stephen Lawrence
+##### Murder of Stephen Lawrence
 # After 18 years of investigations and inquests, Gary Dobson and David Norris are convicted of the murder of Stephen Lawrence in the London suburb of Eltham on 22 April 1993. Dobson and Norris are later sentenced to 15 years and 14 years' imprisonment, respectively. 
 
 Two men are convicted of the racist murder of black teenager Stephen Lawrence 18 years after the attack. What reaction has there been?

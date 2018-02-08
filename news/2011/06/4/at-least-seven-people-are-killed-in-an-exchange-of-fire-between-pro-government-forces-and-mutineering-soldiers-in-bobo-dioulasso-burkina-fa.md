@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/4/at-least-seven-people-are-killed-in-an-exchange-
 
 ### [2011-06-4](/news/2011/06/4/index.md)
 
-##### mutinous soldiers
+##### Mutinous soldiers
 # At least seven people are killed in an exchange of fire between pro-government forces and mutineering soldiers in Bobo-Dioulasso, Burkina Faso. 
 
 

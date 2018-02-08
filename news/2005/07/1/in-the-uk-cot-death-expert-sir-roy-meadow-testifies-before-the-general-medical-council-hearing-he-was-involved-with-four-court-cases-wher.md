@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/1/in-the-uk-cot-death-expert-sir-roy-meadow-testif
 
 ### [2005-07-1](/news/2005/07/1/index.md)
 
-##### cot death
+##### Cot death
 #  In the UK, cot death expert Sir Roy Meadow testifies before the General Medical Council hearing. He was involved with four court cases where four women were falsely accused of killing their children. Medical journal "The Lancet" defends him saying that he is just a "scapegoat" 
 
 

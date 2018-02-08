@@ -9,7 +9,7 @@ _Context: Armed Islamic Group, Abdelhak Layada, Algerian "national reconciliatio
 
 ##### Venezuela
 ### [ Venezuela introduces its new national flag with eight, instead of seven, stars and a slightly altered coat of arms. ](/news/2006/03/12/venezuela-introduces-its-new-national-flag-with-eight-instead-of-seven-stars-and-a-slightly-altered-coat-of-arms.md)
-_Context: national flag, Venezuela, coat of arms_
+_Context: Venezuela, national flag, coat of arms_
 
 ##### Slobodan Milosevic
 ### [ Reports claim that a post-mortem examination has found that former Yugoslav President Slobodan Milosevic died from heart failure. ](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/5/a-suicide-attack-kills-at-least-38-people-at-a-m
 
 ### [2009-06-5](/news/2009/06/5/index.md)
 
-##### suicide attack
+##### Suicide attack
 #  A suicide attack kills at least 38 people at a mosque in Upper Dir District, Pakistan. 
 
 

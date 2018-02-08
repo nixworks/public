@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/26/a-41-km-times-2-5-km-chunk-of-ice-102-5-km2-see
 
 ### [2008-03-26](/news/2008/03/26/index.md)
 
-##### iceberg
+##### Iceberg
 #  A 41 km &times; 2.5 km chunk of ice (102.5 km, see size comparisons) breaks away from the Antarctic Wilkins ice shelf, heralding the disintegration of the remaining 14,000 km 2 . 
 
 

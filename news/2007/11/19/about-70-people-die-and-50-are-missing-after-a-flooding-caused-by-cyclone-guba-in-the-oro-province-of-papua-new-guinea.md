@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/19/about-70-people-die-and-50-are-missing-after-a-
 
 ### [2007-11-19](/news/2007/11/19/index.md)
 
-##### flooding
+##### Flooding
 #  About 70 people die and 50 are missing after a flooding caused by cyclone Guba in the Oro Province of Papua New Guinea. 
 
 

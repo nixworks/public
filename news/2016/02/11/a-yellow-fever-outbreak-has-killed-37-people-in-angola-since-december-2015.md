@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/11/a-yellow-fever-outbreak-has-killed-37-people-in
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
-##### yellow fever
+##### Yellow fever
 # A yellow fever outbreak has killed 37 people in Angola since December 2015. 
 
 

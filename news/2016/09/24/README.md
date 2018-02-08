@@ -5,19 +5,19 @@ Formats: [HTML](2016/09/24/index.html)  [JSON](2016/09/24/index.json)  [XML](201
 
 ##### Iraqi Civil War (2014-present)
 ### [A triple suicide bomb attack north of Tikrit kills at least 11 and injures another 34 members of Iraqi security forces. ](/news/2016/09/24/a-triple-suicide-bomb-attack-north-of-tikrit-kills-at-least-11-and-injures-another-34-members-of-iraqi-security-forces.md)
-_Context: Iraqi security forces, Iraqi Civil War (2014-present), Tikrit_
+_Context: Iraqi Civil War (2014-present), Tikrit, Iraqi security forces_
 
-##### occurs
+##### Occurs
 ### [A terror bombing occurs in Budapest, Hungary, with two injuries reported. ](/news/2016/09/24/a-terror-bombing-occurs-in-budapest-hungary-with-two-injuries-reported.md)
 HUNGARIAN police are hunting a man they believed plotted a cold blooded terror attack after a massive explosion seriously injured two officers in the capital Budapest on Saturday.
 
 ##### Colombian conflict
 ### [The Revolutionary Armed Forces of Colombia (FARC), the country's largest rebel group, gives its approval to a peace deal agreement with the government. President Juan Manuel Santos and FARC leader Timoleon Jimenez, known as Timochenko, will sign the agreement on September 26. To complete the approval process, a referendum will be held on October 2. ](/news/2016/09/24/the-revolutionary-armed-forces-of-colombia-farc-the-country-s-largest-rebel-group-gives-its-approval-to-a-peace-deal-agreement-with-the.md)
-_Context: FARC, Colombian conflict, Colombian peace agreement referendum, 2016, Rodrigo Londono's, Juan Manuel Santos_
+_Context: Colombian peace agreement referendum, 2016, Colombian conflict, FARC, Juan Manuel Santos, Rodrigo Londono's_
 
 ##### Australia
 ### [The New South Wales State Emergency Service warns residents of the Australian town of Forbes to evacuate as the Lachlan River floods. ](/news/2016/09/24/the-new-south-wales-state-emergency-service-warns-residents-of-the-australian-town-of-forbes-to-evacuate-as-the-lachlan-river-floods.md)
-_Context: Forbes, Lachlan River, Australia_
+_Context: Australia, Lachlan River, Forbes_
 
 ##### 2016 Cascade Mall shooting
 ### [The death toll in yesterday's attack rises to five people with the assailant captured in Oak Harbor, Washington. ](/news/2016/09/24/the-death-toll-in-yesterday-s-attack-rises-to-five-people-with-the-assailant-captured-in-oak-harbor-washington.md)

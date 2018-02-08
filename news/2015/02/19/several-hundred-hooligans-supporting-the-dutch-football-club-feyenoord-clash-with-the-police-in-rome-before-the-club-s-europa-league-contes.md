@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/19/several-hundred-hooligans-supporting-the-dutch-
 
 ### [2015-02-19](/news/2015/02/19/index.md)
 
-##### hooligans
+##### Hooligans
 # Several hundred hooligans supporting the Dutch football club Feyenoord clash with the police in Rome, before the club's Europa League contest with local side Roma. In the clashes several people are injured and a large fragment of the 17th century Barcaccia fountain by Gianlorenzo Bernini is smashed. [http:--abcnews.go.com-Sports-wireStory-rome-mayor-dutch-pay-damage-feyenoord-fans-29097285 (AP via ABC (U.S.))]
 
 

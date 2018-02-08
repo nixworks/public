@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/06/8/polls-open-in-the-united-kingdom-with-labour-lea
 
 ### [2017-06-8](/news/2017/06/8/index.md)
 
-##### last general election
+##### Last general election
 # Polls open in the United Kingdom, with Labour leader Jeremy Corbyn and incumbent Theresa May of the Conservatives battling in a tight race, according to final opinion polling, to become prime minister. 
 
 On the eve of an election Prime Minister Theresa May returned to her core message that only she can deliver a good Brexit deal, moving on from a heated national debate over security after two deadly Islamist attacks.

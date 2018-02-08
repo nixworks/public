@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/31/a-spanish-court-approves-the-extradition-of-for
 
 ### [2011-05-31](/news/2011/05/31/index.md)
 
-##### extradition
+##### Extradition
 # A Spanish court approves the extradition of former Guatemalan Interior Minister Carlos Vielmann to face murder charges in connection with a 2006 uprising at the Pavon prison in Guatemala where seven inmates were killed. 
 
 A Spanish court on Tuesday approved the extradition of former Guatemalan Interior Minister Carlos Vielmann to his homeland to face 10 murder charges stemming from incidents at two prisons there.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/02/17/five-people-are-killed-and-eleven-are-injured-t
 
 ### [2013-02-17](/news/2013/02/17/index.md)
 
-##### gas explosion
+##### Gas explosion
 # Five people are killed and eleven are injured, two seriously, when an apartment complex is destroyed by a gas explosion in Frenstat pod Radhostem, Czech Republic. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/3/a-worker-kills-9-people-including-himself-in-a-w
 
 ### [2010-08-3](/news/2010/08/3/index.md)
 
-##### kills 9 people
+##### Kills 9 people
 # A worker kills 9 people, including himself, in a workplace incident at Hartford Distributors Inc in Connecticut, United States. 
 
 Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;of&#x20;Connecticut&#x20;on&#x20;Tuesday&#x20;when&#x20;a&#x20;disgruntled&#x20;beer&#x20;warehouse&#x20;employee&#x20;opened&#x20;fire&#x20;on&#x20;his&#x20;co-workers&#x20;before&#x20;shooting&#x20;himself.
@@ -22,4 +22,4 @@ Nine&#x20;people&#x20;were&#x20;killed&#x20;in&#x20;the&#x20;US&#x20;state&#x20;
 2. [February 2013 nor'easter: The death toll from a massive blizzard across the Northeastern United States and southeastern Canada rises to at least 15, with 40 inches of snow reported from Hamden, Connecticut. More than 900,000 customers lost power at the height of the storm, while airports in the region cancelled over 5,300 flights. ](/news/2013/02/9/february-2013-nor-easter-the-death-toll-from-a-massive-blizzard-across-the-northeastern-united-states-and-southeastern-canada-rises-to-at-l.md) _Context: Connecticut, United States_
 3. [A shooting at Sandy Hook Elementary School in Newtown, Connecticut, United States, leaves 28 people dead, including 20 children, 6 teachers, the shooter, and his mother. ](/news/2012/12/14/a-shooting-at-sandy-hook-elementary-school-in-newtown-connecticut-united-states-leaves-28-people-dead-including-20-children-6-teachers.md) _Context: Connecticut, United States_
 4. [ New Haven, Connecticut becomes the first United States city to give identification cards to undocumented immigrants. ](/news/2007/07/24/new-haven-connecticut-becomes-the-first-united-states-city-to-give-identification-cards-to-undocumented-immigrants.md) _Context: Connecticut, United States_
-5. [Former President of the Maldives Mohamed Nasheed has called from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asked India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-has-called-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the.md) _Context: United States_
+5. [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as CEO of Wynn Resorts following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/02/6/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-ceo-of-wynn-resorts-following-sexual.md) _Context: United States_

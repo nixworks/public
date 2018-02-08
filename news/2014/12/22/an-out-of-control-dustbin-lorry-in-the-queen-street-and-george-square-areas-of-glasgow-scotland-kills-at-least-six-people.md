@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/22/an-out-of-control-dustbin-lorry-in-the-queen-st
 
 ### [2014-12-22](/news/2014/12/22/index.md)
 
-##### dustbin lorry
+##### Dustbin lorry
 # An out-of-control dustbin lorry in the Queen Street and George Square areas of Glasgow, Scotland, kills at least six people. 
 
 Six people have been killed and eight others injured after an out-of-control bin lorry crashed into pedestrians in central Glasgow.

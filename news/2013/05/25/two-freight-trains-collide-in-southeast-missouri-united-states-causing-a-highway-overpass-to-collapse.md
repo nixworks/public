@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/25/two-freight-trains-collide-in-southeast-missour
 
 ### [2013-05-25](/news/2013/05/25/index.md)
 
-##### freight train
+##### Freight train
 # Two freight trains collide in southeast Missouri, United States, causing a highway overpass to collapse. 
 
 

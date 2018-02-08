@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/3/a-study-published-in-the-journal-cell-reports-th
 
 ### [2010-09-3](/news/2010/09/3/index.md)
 
-##### cerebral cortex
+##### Cerebral cortex
 # A study published in the journal "Cell" reports the discovery that the cerebral cortex of mammals shares a common evolutionary origin with mushroom bodies, brain structures involved in learning and memory in insects and other invertebrates. 
 
 

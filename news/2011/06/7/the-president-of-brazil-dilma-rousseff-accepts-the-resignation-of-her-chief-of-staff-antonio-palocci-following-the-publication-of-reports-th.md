@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/7/the-president-of-brazil-dilma-rousseff-accepts-t
 
 ### [2011-06-7](/news/2011/06/7/index.md)
 
-##### president
+##### President
 # The President of Brazil Dilma Rousseff accepts the resignation of her Chief-of-staff Antonio Palocci following the publication of reports that he became wealthy as a consultant while serving as a member of the National Congress of Brazil. 
 
 Brazilian President DilmaRousseff has accepted the resignation of her chief of staffAntonio Palocci, a government source told Reuters on Tuesday.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/12/a-heavy-blizzard-in-the-midwestern-us-states-of
 
 ### [2010-12-12](/news/2010/12/12/index.md)
 
-##### blizzard
+##### Blizzard
 # A heavy blizzard in the midwestern US states of Minnesota, Wisconsin, Iowa, Illinois and Michigan dropping about three feet of snow results in two deaths, road closures, flight cancellations and the inflatable roof of the Hubert H. Humphrey Metrodome in Minneapolis, Minnesota, collapsing. 
 
 

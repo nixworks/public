@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/8/the-third-acid-attack-since-december-2008-occurs
 
 ### [2009-06-8](/news/2009/06/8/index.md)
 
-##### acid attack
+##### Acid attack
 #  The third acid attack since December 2008 occurs in Mong Kok, Hong Kong. 
 
 

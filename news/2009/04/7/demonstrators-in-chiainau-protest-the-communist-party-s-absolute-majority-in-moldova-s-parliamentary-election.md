@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-
 
 ### [2009-04-7](/news/2009/04/7/index.md)
 
-##### demonstration
+##### Demonstration
 #  Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. 
 
 

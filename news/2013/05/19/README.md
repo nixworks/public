@@ -13,13 +13,13 @@ _Context: Taylor Swift, Billboard Music Awards_
 
 ##### Star Trek Into Darkness
 ### ["Star Trek Into Darkness" earns an estimated US$70.6 million during its opening weekend in the US and Canada. ](/news/2013/05/19/star-trek-into-darkness-earns-an-estimated-us-70-6-million-during-its-opening-weekend-in-the-us-and-canada.md)
-_Context: Star Trek Into Darkness, US$_
+_Context: US$, Star Trek Into Darkness_
 
-##### tornado
+##### Tornado
 ### [At least one person is killed and a dozen injured after a series of tornadoes hits the US states of Oklahoma, Kansas, Iowa and Illinois. ](/news/2013/05/19/at-least-one-person-is-killed-and-a-dozen-injured-after-a-series-of-tornadoes-hits-the-us-states-of-oklahoma-kansas-iowa-and-illinois.md)
 A massive tornado rips through neighbourhoods near Oklahoma City, on the second day in a row the state has been pummelled by giant twisters.
 
-##### short-range guided missiles
+##### Short-range guided missiles
 ### [North Korea fires three short-range guided missiles into its eastern waters. ](/news/2013/05/19/north-korea-fires-three-short-range-guided-missiles-into-its-eastern-waters.md)
 The tests broke the recent relative silence from the North, but the move was much less provocative than what had been feared earlier this year.
 
@@ -39,7 +39,7 @@ Nigel Wright, chief of staff of Canadian Prime Minister Stephen Harper, resigns 
 
 ##### Navy dolphins
 ### [US Navy dolphins find a rare nineteenth-century torpedo off the coast of California. ](/news/2013/05/19/us-navy-dolphins-find-a-rare-nineteenth-century-torpedo-off-the-coast-of-california.md)
-_Context: Navy dolphins, California, torpedo_
+_Context: Navy dolphins, torpedo, California_
 
 ## [Previous Day...](/news/2013/05/18/index.md)
 

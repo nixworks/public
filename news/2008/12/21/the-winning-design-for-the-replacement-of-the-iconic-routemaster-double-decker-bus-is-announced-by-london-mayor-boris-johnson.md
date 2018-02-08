@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/21/the-winning-design-for-the-replacement-of-the-i
 
 ### [2008-12-21](/news/2008/12/21/index.md)
 
-##### winning design
+##### Winning design
 #  The winning design for the replacement of the iconic Routemaster double-decker bus is announced by London mayor Boris Johnson. 
 
 

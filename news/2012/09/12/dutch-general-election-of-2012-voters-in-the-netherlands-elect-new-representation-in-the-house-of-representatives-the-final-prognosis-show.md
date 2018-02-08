@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/12/dutch-general-election-of-2012-voters-in-the-ne
 
 ### [2012-09-12](/news/2012/09/12/index.md)
 
-##### general election in the Netherlands
+##### General election in the Netherlands
 # Dutch general election of 2012, voters in the Netherlands elect new representation in the House of Representatives. The final prognosis shows 41 (+10) seats for incumbent Prime Minister Mark Rutte's People's Party for Freedom and Democracy (VVD) and 40 seats (+10) for PvdA, Diederik Samsom's Labour Party, out of a total 150 seats. Four other parties get between 12 and 15 seats: SP 15 (0), PVV 13 (-11), CDA 13 (-8), and D66 12 (+2) The remainder, 16 seats, are divided among five more parties. The final televised debate is cancelled. 
 
 

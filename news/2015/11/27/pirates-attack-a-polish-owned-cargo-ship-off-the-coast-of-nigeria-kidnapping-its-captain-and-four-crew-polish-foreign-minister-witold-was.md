@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/27/pirates-attack-a-polish-owned-cargo-ship-off-th
 
 ### [2015-11-27](/news/2015/11/27/index.md)
 
-##### piracy
+##### Piracy
 # Pirates attack a Polish-owned cargo ship off the coast of Nigeria, kidnapping its captain and four crew. Polish Foreign Minister, Witold Waszczykowski, said the as yet unidentified kidnappers have made no demands so far and Poland was currently liaising with Nigerian authorities. 
 
 Pirates attacked a Polish-owned cargo vessel off the Nigerian coast and kidnapped its captain and four crew, Polish authorities said, in the first documented incident of its kind in almost year in some of the deadliest shipping lanes on earth.
@@ -22,7 +22,7 @@ Pirates attacked a Polish-owned cargo vessel off the Nigerian coast and kidnappe
 ### Related:
 
 1. [Polish Foreign Minister Witold Waszczykowski, during a visit to Slovakia for talks on the future of NATO, says Russia is more dangerous than the Islamic State of Iraq and the Levant (ISIL). "By all evidence, Russia's activity is a sort of existential threat because this activity can destroy countries," Waszczykowski told reporters in Bratislava. He described ISIL as a very serious threat but said "it is not an existential threat for Europe". ](/news/2016/04/15/polish-foreign-minister-witold-waszczykowski-during-a-visit-to-slovakia-for-talks-on-the-future-of-nato-says-russia-is-more-dangerous-than.md) _Context: Witold Waszczykowski, foreign affairs_
-2. [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md) _Context: piracy_
-3. [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md) _Context: foreign affairs_
-4. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
-5. [United States Secretary of State Rex Tillerson says that the U.S. and Poland "oppose" the Nord Stream 2 pipeline. They see it as undermining Europe's overall energy security and stability. ](/news/2018/01/27/united-states-secretary-of-state-rex-tillerson-says-that-the-u-s-and-poland-oppose-the-nord-stream-2-pipeline-they-see-it-as-undermining.md) _Context: Poland_
+2. [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parlementarian Roza Thun (Civic Platform) a "szmalcownik" (meaning Nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parle.md) _Context: Polish_
+3. [An Anglo-Eastern Group oil tanker with 22 Indian crew members on board is reported missing off the coast of Benin. The area is well known for piracy. ](/news/2018/02/4/an-anglo-eastern-group-oil-tanker-with-22-indian-crew-members-on-board-is-reported-missing-off-the-coast-of-benin-the-area-is-well-known-fo.md) _Context: piracy_
+4. [New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. ](/news/2018/01/9/new-ministers-of-defence-finance-interior-health-environment-and-foreign-affairs-amongst-others-are-appointed.md) _Context: foreign affairs_
+5. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_

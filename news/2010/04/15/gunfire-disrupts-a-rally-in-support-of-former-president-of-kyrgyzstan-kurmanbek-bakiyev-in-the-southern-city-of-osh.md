@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/15/gunfire-disrupts-a-rally-in-support-of-former-p
 
 ### [2010-04-15](/news/2010/04/15/index.md)
 
-##### president
+##### President
 # Gunfire disrupts a rally in support of former President of Kyrgyzstan Kurmanbek Bakiyev in the southern city of Osh. 
 
 Ousted President Kurmanbek Bakiyev fled Kyrgyzstan on Thursday and a government source said he had quit, a week after an uprising against his five-year rule sparked fears of civil war.

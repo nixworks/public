@@ -9,7 +9,7 @@ One person died and another two were injured when a shell leftover from the Viet
 
 ##### Brazil
 ### [The death toll in Brazilian storms rises to 46 in Brazil's Alagoas and Pernambuco states. ](/news/2010/06/24/the-death-toll-in-brazilian-storms-rises-to-46-in-brazil-s-alagoas-and-pernambuco-states.md)
-_Context: Alagoas, Pernambuco, Brazil_
+_Context: Brazil, Alagoas, Pernambuco_
 
 ##### Athens
 ### [A parcel bomb delivered to the public order ministry in Athens, addressed to counter-terrorism minister Michalis Chrysohoidis, is opened by an aide, instantly killing him; Chrysohoidis is unhurt. Prime Minister George Papandreou labels it a terrorist attack. ](/news/2010/06/24/a-parcel-bomb-delivered-to-the-public-order-ministry-in-athens-addressed-to-counter-terrorism-minister-michalis-chrysohoidis-is-opened-by.md)
@@ -19,21 +19,21 @@ Parcel bomb kills one person at offices of the ministry of citizen protection in
 ### [Belgian authorities raid their country's Catholic Church HQ during an investigation into child sexual abuse as rumours circulate about a cover-up. ](/news/2010/06/24/belgian-authorities-raid-their-country-s-catholic-church-hq-during-an-investigation-into-child-sexual-abuse-as-rumours-circulate-about-a-cov.md)
 Authorities raid the headquarters of the Belgian Catholic Church during an investigation into child sex abuse claims.
 
-##### the widespread floods
+##### The widespread floods
 ### [Rescue workers continue the search for hundreds of people who have disappeared during floods in Brazil. ](/news/2010/06/24/rescue-workers-continue-the-search-for-hundreds-of-people-who-have-disappeared-during-floods-in-brazil.md)
 Rescue workers search for survivors as rains begin to ease in northeastern Brazil.
 
-##### train accident
+##### Train accident
 ### [At least twelve people are killed, and 17 more people are injured, in a train accident in Castelldefels, near Barcelona. ](/news/2010/06/24/at-least-twelve-people-are-killed-and-17-more-people-are-injured-in-a-train-accident-in-castelldefels-near-barcelona.md)
 A train speeding through a Spanish railway station strikes a group of people crossing the tracks, killing 12 and injuring 14.
 
-##### parliament in Israel
+##### Parliament in Israel
 ### [A Knesset parliamentary delegation to the Council of Europe, led by Yohanan Plesner, seeks to block a key vote intent on establishing an international probe into the Gaza flotilla raid. ](/news/2010/06/24/a-knesset-parliamentary-delegation-to-the-council-of-europe-led-by-yohanan-plesner-seeks-to-block-a-key-vote-intent-on-establishing-an-int.md)
 Plessner: The Turks are opening another front against us.
 
 ##### Australian Prime Minister
 ### [Prime Minister of Australia Kevin Rudd steps down after his leadership is contested following considerable drops in popularity in polls in recent months. Julia Gillard becomes Australia's first female Prime Minister. ](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.md)
-_Context: leadership is contested, Julia Gillard, Australian Prime Minister, Kevin Rudd_
+_Context: leadership is contested, Julia Gillard, Kevin Rudd, Australian Prime Minister_
 
 ##### Iraq
 ### [Several people are killed during suicide attacks and bombings across Iraq. ](/news/2010/06/24/several-people-are-killed-during-suicide-attacks-and-bombings-across-iraq.md)
@@ -45,7 +45,7 @@ A mass strike against plans to raise the retirement age in France has disrupted 
 
 ##### Hu Jintao
 ### [President Hu Jintao of China arrives in Ottawa on a three-day state visit to Canada. The two countries sign a tourism agreement. ](/news/2010/06/24/president-hu-jintao-of-china-arrives-in-ottawa-on-a-three-day-state-visit-to-canada-the-two-countries-sign-a-tourism-agreement.md)
-_Context: Ottawa, state visit, Hu Jintao_
+_Context: state visit, Hu Jintao, Ottawa_
 
 ##### 
 ### [Five American men are jailed for 10 years in Pakistan after being arrested in possession of maps of sensitive locations. The men deny they have links to militants and say they are charity workers. The verdict is announced inside a prison in the presence of American diplomats. ](/news/2010/06/24/five-american-men-are-jailed-for-10-years-in-pakistan-after-being-arrested-in-possession-of-maps-of-sensitive-locations-the-men-deny-they-h.md)
@@ -57,11 +57,11 @@ Iran flotilla organizers note Israel sees vessels from Iran, Lebanon as &#39;sig
 
 ##### United Nations
 ### [U.N. Secretary General Ban Ki-moon states as "illegal and unhelpful" the plan to demolish Palestinian homes in East Jerusalem to make way for a tourist park. ](/news/2010/06/24/u-n-secretary-general-ban-ki-moon-states-as-illegal-and-unhelpful-the-plan-to-demolish-palestinian-homes-in-east-jerusalem-to-make-way-fo.md)
-_Context: Ban Ki-moon, Palestinian, East Jerusalem, Secretary General of the United Nations, tourist park, United Nations_
+_Context: Palestinian, Ban Ki-moon, United Nations, East Jerusalem, tourist park, Secretary General of the United Nations_
 
 ##### United Nations Relief and Works Agency for Palestine Refugees in the Near East
 ### [United Nations Relief and Works Agency for Palestine Refugees in the Near East commissioner-general Filippo Grandi questions the fine print of Israel's promise to ease its blockade on Gaza, citing parts which are unclear and saying it is "urgent, because the conditions are very bad on the ground". ](/news/2010/06/24/united-nations-relief-and-works-agency-for-palestine-refugees-in-the-near-east-commissioner-general-filippo-grandi-questions-the-fine-print.md)
-_Context: Israel, fine print, Gaza Strip, United Nations Relief and Works Agency for Palestine Refugees in the Near East, Filippo Grandi_
+_Context: Israel, Gaza Strip, United Nations Relief and Works Agency for Palestine Refugees in the Near East, Filippo Grandi, fine print_
 
 ##### Philippine
 ### [Hooded gunmen kill 4 commuters in Philippines. ](/news/2010/06/24/hooded-gunmen-kill-4-commuters-in-philippines.md)
@@ -73,7 +73,7 @@ A Burundi minister voices concern at reports that opposition leader and ex-rebel
 
 ##### Benjamin Netanyahu
 ### [During a meeting with Benjamin Netanyahu, Austria's Chancellor Werner Faymann calls on him to lift the Gaza Strip embargo. ](/news/2010/06/24/during-a-meeting-with-benjamin-netanyahu-austria-s-chancellor-werner-faymann-calls-on-him-to-lift-the-gaza-strip-embargo.md)
-_Context: Gaza Strip, Benjamin Netanyahu, Werner Faymann_
+_Context: Benjamin Netanyahu, Gaza Strip, Werner Faymann_
 
 ##### Somaliland
 ### [Somaliland is set to go to the polls with its president facing a challenge to be reelected. ](/news/2010/06/24/somaliland-is-set-to-go-to-the-polls-with-its-president-facing-a-challenge-to-be-reelected.md)
@@ -81,7 +81,7 @@ _Context: Somaliland_
 
 ##### Russia
 ### [Russia's natural gas export monopoly Gazprom announces that it will restart gas supply to Belarus in full following payment of the debt. ](/news/2010/06/24/russia-s-natural-gas-export-monopoly-gazprom-announces-that-it-will-restart-gas-supply-to-belarus-in-full-following-payment-of-the-debt.md)
-_Context: Belarus, natural gas, monopoly, Russia, export, Gazprom_
+_Context: natural gas, monopoly, Belarus, Gazprom, Russia, export_
 
 ##### Bridgeport
 ### [Bridgeport, Connecticut in the United States is put under a state of emergency when hurricane-force winds from a strong storm went through, causing injuries and severe damage including the collapse of a multi-story building. ](/news/2010/06/24/bridgeport-connecticut-in-the-united-states-is-put-under-a-state-of-emergency-when-hurricane-force-winds-from-a-strong-storm-went-through.md)
@@ -97,7 +97,7 @@ _Context: Xinjiang, China_
 
 ##### Slovakia
 ### [Slovakia defeat defending champion Italy by a 3-2 score; following France's elimination on Tuesday, this marks the first time in World Cup history that both previous finalists fail to progress beyond the first round of play. ](/news/2010/06/24/slovakia-defeat-defending-champion-italy-by-a-3-2-score-following-france-s-elimination-on-tuesday-this-marks-the-first-time-in-world-cup-h.md)
-_Context: Italy, French, defending champion, elimination, 3-2 score, World Cup, Slovakia_
+_Context: defending champion, 3-2 score, Slovakia, Italy, World Cup, French, elimination_
 
 ##### United States
 ### [American John Isner defeats Frenchman Nicolas Mahut, 4-6, 6-3, 7-6 (7), 6-7 (3), 70-68, in the longest match in tennis history, finally advancing from the first round of the 2010 Wimbledon Gentlemen's Singles tournament. The match took over 11 hours, spanning three days. ](/news/2010/06/24/american-john-isner-defeats-frenchman-nicolas-mahut-4-6-6-3-7-6-7-6-7-3-70-68-in-the-longest-match-in-tennis-history-finally-adva.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/02/9/a-video-confirms-that-al-qaeda-has-kidnapped-can
 
 ### [2009-02-9](/news/2009/02/9/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 #  A video confirms that al-Qaeda has kidnapped Canadian diplomat Robert Fowler in Niger. 
 
 

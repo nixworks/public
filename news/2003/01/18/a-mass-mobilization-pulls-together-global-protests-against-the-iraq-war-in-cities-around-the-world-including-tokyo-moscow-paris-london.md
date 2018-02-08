@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/01/18/a-mass-mobilization-pulls-together-global-prote
 
 ### [2003-01-18](/news/2003/01/18/index.md)
 
-##### protester
+##### Protester
 #  A mass mobilization pulls together global protests against the Iraq war in cities around the world, including Tokyo, Moscow, Paris, London, Montreal, Ottawa, Toronto, Cologne, Bonn, Gothenburg, Istanbul and Cairo. NION and ANSWER hold protests in Washington, D.C. and San Francisco, California.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/10/18/tens-of-thousands-of-workers-participate-in-ant
 
 ### [2012-10-18](/news/2012/10/18/index.md)
 
-##### anti-austerity protests in Greece
+##### Anti-austerity protests in Greece
 # Tens of thousands of workers participate in anti-austerity protests in Greece. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/15/at-least-24-people-die-when-a-double-decker-bus
 
 ### [2013-03-15](/news/2013/03/15/index.md)
 
-##### double decker bus
+##### Double decker bus
 # At least 24 people die when a double decker bus veers off the Hex River Pass near De Doorns, Cape Town, South Africa. 
 
 Another two fatalities have increased the death toll in a bus accident on the Hex River Pass near De Doorns to 24, the Western Cape health department said.

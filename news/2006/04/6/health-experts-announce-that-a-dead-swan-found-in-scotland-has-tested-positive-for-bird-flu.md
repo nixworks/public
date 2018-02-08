@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/6/health-experts-announce-that-a-dead-swan-found-i
 
 ### [2006-04-6](/news/2006/04/6/index.md)
 
-##### swan
+##### Swan
 #  Health experts announce that a dead swan found in Scotland has tested positive for bird flu. 
 
 

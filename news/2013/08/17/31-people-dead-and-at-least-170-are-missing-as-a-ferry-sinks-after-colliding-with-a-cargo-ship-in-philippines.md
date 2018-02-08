@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/17/31-people-dead-and-at-least-170-are-missing-as-
 
 ### [2013-08-17](/news/2013/08/17/index.md)
 
-##### ferry
+##### Ferry
 # 31 people dead and at least 170 are missing as a ferry sinks after colliding with a cargo ship in Philippines.
 
 At least 31 people die and around 170 are missing after a ferry with more than 800 on board collides with a cargo ship in the Philippines.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/1/a-second-wave-of-pollutants-from-last-year-s-tox
 
 ### [2006-05-1](/news/2006/05/1/index.md)
 
-##### last year's toxic chemical spill
+##### Last year's toxic chemical spill
 #  A second wave of pollutants from last year's toxic chemical spill in Jilin City, China, trapped in the frozen Amur and Songhua Rivers during the winter, is now being released by the spring thaw, affecting Khabarovsk and other settlements in the Russian Far East. 
 
 

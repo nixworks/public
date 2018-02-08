@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/15/the-president-of-pakistan-pervez-musharraf-lift
 
 ### [2007-12-15](/news/2007/12/15/index.md)
 
-##### president
+##### President
 #  The President of Pakistan Pervez Musharraf lifts the state of emergency that he declared on November 3, 2007. 
 
 

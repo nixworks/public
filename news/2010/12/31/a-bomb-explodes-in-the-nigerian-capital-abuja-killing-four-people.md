@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/12/31/a-bomb-explodes-in-the-nigerian-capital-abuja-k
 
 ### [2010-12-31](/news/2010/12/31/index.md)
 
-##### bomb explodes
+##### Bomb explodes
 # A bomb explodes in the Nigerian capital Abuja, killing four people. 
 
 

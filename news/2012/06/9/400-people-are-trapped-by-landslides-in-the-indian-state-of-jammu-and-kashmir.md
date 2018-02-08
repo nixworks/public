@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/9/400-people-are-trapped-by-landslides-in-the-indi
 
 ### [2012-06-9](/news/2012/06/9/index.md)
 
-##### landslide
+##### Landslide
 # 400 people are trapped by landslides in the Indian state of Jammu and Kashmir. 
 
 

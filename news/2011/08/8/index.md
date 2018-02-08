@@ -7,7 +7,7 @@ Formats: [HTML](2011/08/8/index.html)  [JSON](2011/08/8/index.json)  [XML](2011/
 ### [The Syrian opposition reports that the Army has entered the town of Maarat an-Numan. ](/news/2011/08/8/the-syrian-opposition-reports-that-the-army-has-entered-the-town-of-maarat-an-numan.md)
 Bahrain has recalled its ambassador from Syria for consultation Foreign Minister Shaikh Khalid Bin Ahmad Al Khalifa said on Monday
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war: Fighting continues on the eastern and western fronts. ](/news/2011/08/8/2011-libyan-civil-war-fighting-continues-on-the-eastern-and-western-fronts.md)
 Opposition under attack near Zlitan in north, while Gaddafi fighters launch operation to retake Bir al-Ghanam in west.
 
@@ -23,9 +23,9 @@ The Australian share market has dropped again following its recovery from earlie
 ### [Rice futures trading on the Tokyo Grain Exchange is suspended following fears that the Japanese crop has been contaminated by radiation from the Fukushima Daiichi nuclear disaster. ](/news/2011/08/8/rice-futures-trading-on-the-tokyo-grain-exchange-is-suspended-following-fears-that-the-japanese-crop-has-been-contaminated-by-radiation-from.md)
 Rice futures in Tokyo surged in their first appearance on the bourse since 1939, triggering a suspension of trade, on concern radiation from the stricken Fukushima nuclear plant may spread to crops and curb supply.
 
-##### landslide
+##### Landslide
 ### [Seven people are killed in a landslide in Malaysia's Cameron Highlands. ](/news/2011/08/8/seven-people-are-killed-in-a-landslide-in-malaysia-s-cameron-highlands.md)
-_Context: landslide, Cameron Highlands, Malaysia_
+_Context: Cameron Highlands, Malaysia, landslide_
 
 ##### China
 ### [More than 100,000 people have been evacuated from China's Shandong Province as former Typhoon Muifa travels along the eastern coast as a tropical storm. ](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.md)
@@ -41,7 +41,7 @@ Rioting has spread across London with cars and buildings set alight on a third n
 
 ##### Mike Rann
 ### [Mike Rann, the Premier of the Australian state of South Australia, announces that he will be resigning on October 20 to be replaced by Education Minister Jay Weatherill. ](/news/2011/08/8/mike-rann-the-premier-of-the-australian-state-of-south-australia-announces-that-he-will-be-resigning-on-october-20-to-be-replaced-by-educa.md)
-_Context: South Australia, Premier of South Australia, Australia, Mike Rann, Jay Weatherill_
+_Context: Premier of South Australia, Jay Weatherill, Australia, South Australia, Mike Rann_
 
 ## [Previous Day...](/news/2011/08/7/index.md)
 

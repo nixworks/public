@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/11/a-woman-accused-of-sexually-abusing-girls-at-th
 
 ### [2010-10-11](/news/2010/10/11/index.md)
 
-##### sexual abuse
+##### Sexual abuse
 # A woman accused of sexually abusing girls at the Oprah Winfrey Leadership Academy for Girls in Meyerton, South Africa, is acquitted. 
 
 

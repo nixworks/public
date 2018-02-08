@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/29/more-than-50-000-greeks-with-diabetes-are-left-
 
 ### [2010-05-29](/news/2010/05/29/index.md)
 
-##### diabetes
+##### Diabetes
 # More than 50,000 Greeks with diabetes are left with insulin after Novo Nordisk, the world's leading supplier of the drug, withdraws from Greece in a "brutal capitalist blackmail" after being asked to reduce the cost of its medicine by the Greek government. 
 
 

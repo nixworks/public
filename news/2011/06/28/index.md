@@ -3,13 +3,13 @@ Formats: [HTML](2011/06/28/index.html)  [JSON](2011/06/28/index.json)  [XML](201
 
 ## [2011-06-28](/news/2011/06/28/index.md)
 
-##### drones launch
+##### Drones launch
 ### [Two U.S. drone missile attacks are reported to have killed at least 15 people in North Waziristan in a late night attack by the U.S. on the region. ](/news/2011/06/28/two-u-s-drone-missile-attacks-are-reported-to-have-killed-at-least-15-people-in-north-waziristan-in-a-late-night-attack-by-the-u-s-on-the.md)
 Two US drone missile attacks kill at least 15 people in the Pakistani tribal region bordering Afghanistan, officials say.
 
 ##### Refugees International
 ### [A report from Refugees International blames NATO's air strikes, its arming of militias, and home raids for the displacement of more than 250,000 people in Afghanistan, a problem which is increasing. ](/news/2011/06/28/a-report-from-refugees-international-blames-nato-s-air-strikes-its-arming-of-militias-and-home-raids-for-the-displacement-of-more-than-250.md)
-_Context: NATO, Refugees International, Afghanistan_
+_Context: NATO, Afghanistan, Refugees International_
 
 ##### Kabul
 ### [Afghan militants attack the Kabul InterContinental Hotel resulting in the deaths of nine Taliban members and five or six hotel workers or guests. ](/news/2011/06/28/afghan-militants-attack-the-kabul-intercontinental-hotel-resulting-in-the-deaths-of-nine-taliban-members-and-five-or-six-hotel-workers-or-gu.md)
@@ -21,9 +21,9 @@ Police use tear gas to disperse stone-throwing youths in Athens as a 48-hour gen
 
 ##### Freedom Flotilla II
 ### [Freedom Flotilla II: The propeller house and propeller shaft of the pro-Palestinian flotilla's Swedish ship "Juliano" are damaged by "hostile divers" in the Greek port of Piraeus, with participants suggesting sabotage. ](/news/2011/06/28/freedom-flotilla-ii-the-propeller-house-and-propeller-shaft-of-the-pro-palestinian-flotilla-s-swedish-ship-juliano-are-damaged-by-hostil.md)
-_Context: sabotage, Palestinian, Sweden, Piraeus, Freedom Flotilla II_
+_Context: Piraeus, Sweden, Palestinian, sabotage, Freedom Flotilla II_
 
-##### civil war
+##### Civil war
 ### [2011 Libyan civil war:Hospitals in Benghazi are reported to be running low on vital supplies. ](/news/2011/06/28/2011-libyan-civil-war-hospitals-in-benghazi-are-reported-to-be-running-low-on-vital-supplies.md)
 Scenes of jubilation in city besieged for weeks as Gaddafi becomes a wanted man.
 
@@ -45,7 +45,7 @@ Detained BBC reporter Urunboy Usmonov is both physically and psychologically fra
 
 ##### Christine Lagarde
 ### [Christine Lagarde, France's finance minister since 2007, is named the new head the International Monetary Fund (IMF) following the resignation of Dominique Strauss-Kahn. ](/news/2011/06/28/christine-lagarde-france-s-finance-minister-since-2007-is-named-the-new-head-the-international-monetary-fund-imf-following-the-resignati.md)
-_Context: International Monetary Fund, Dominique Strauss-Kahn, allegations of sexual assault, Christine Lagarde_
+_Context: Christine Lagarde, Dominique Strauss-Kahn, International Monetary Fund, allegations of sexual assault_
 
 ##### Tokyo Electric Power Company
 ### [The Tokyo Electric Power Company (Tepco) incurs wrath from shareholders at its first annual meeting since the Fukushima Daiichi nuclear disaster, with a motion asking the company to abandon nuclear power being defeated. ](/news/2011/06/28/the-tokyo-electric-power-company-tepco-incurs-wrath-from-shareholders-at-its-first-annual-meeting-since-the-fukushima-daiichi-nuclear-disa.md)
@@ -53,7 +53,7 @@ Angry Tepco shareholders fail to force the company to abandon nuclear power in t
 
 ##### New York Court of Appeals
 ### [The New York Court of Appeals rules that insurance policyholders opposed to a restructuring plan undertaken by MBIA in 2009 with the approval of its primary regulator, New York's insurance authorities, may sue for fraudulent conveyance in a trial court in that state. ](/news/2011/06/28/the-new-york-court-of-appeals-rules-that-insurance-policyholders-opposed-to-a-restructuring-plan-undertaken-by-mbia-in-2009-with-the-approva.md)
-_Context: New York Court of Appeals, fraudulent conveyance, MBIA, 2009, New York_
+_Context: New York Court of Appeals, New York, 2009, MBIA, fraudulent conveyance_
 
 ##### International Space Station
 ### [The crew of the International Space Station rush to a rescue shuttle amid concern of the need for a possible emergency evacuation back to Earth as a piece of space debris hurtles dangerously close. ](/news/2011/06/28/the-crew-of-the-international-space-station-rush-to-a-rescue-shuttle-amid-concern-of-the-need-for-a-possible-emergency-evacuation-back-to-ea.md)
@@ -79,17 +79,17 @@ The season&#8217;s first named storm, Tropical Storm Arlene, has spun up in the 
 ### [A ferry sinks off the coast of Haiti near Port-au-Prince resulting in at least five deaths and seven people missing. ](/news/2011/06/28/a-ferry-sinks-off-the-coast-of-haiti-near-port-au-prince-resulting-in-at-least-five-deaths-and-seven-people-missing.md)
 _Context: Haiti, Port-au-Prince_
 
-##### flash flood
+##### Flash flood
 ### [Fourteen people die following a flash flood in Davao City in the Philippines. ](/news/2011/06/28/fourteen-people-die-following-a-flash-flood-in-davao-city-in-the-philippines.md)
-_Context: Davao City, the Philippines, flash flood_
+_Context: flash flood, Davao City, the Philippines_
 
 ##### President of Sudan
 ### [The President of Sudan Omar Hassan al-Bashir arrives in Beijing for talks with Hu Jintao, the President of the People's Republic of China to discuss the recent partition with Southern Sudan. ](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.md)
-_Context: President of Sudan, Hu Jintao, Beijing, Omar Hassan al-Bashir, Chinese President, Southern Sudan_
+_Context: Southern Sudan, Hu Jintao, Beijing, Omar Hassan al-Bashir, Chinese President, President of Sudan_
 
 ##### German
 ### [Germany and the People's Republic of China hold a joint cabinet meeting in Berlin with many lucrative contracts signed. ](/news/2011/06/28/germany-and-the-people-s-republic-of-china-hold-a-joint-cabinet-meeting-in-berlin-with-many-lucrative-contracts-signed.md)
-_Context: Berlin, China, German_
+_Context: Berlin, German, China_
 
 ##### President
 ### [Six police officers are found guilty of crimes against the security of the state as a result of last September's attempted coup against President of Ecuador Rafael Correa who was tear gassed and imprisoned in a hospital. ](/news/2011/06/28/six-police-officers-are-found-guilty-of-crimes-against-the-security-of-the-state-as-a-result-of-last-september-s-attempted-coup-against-pres.md)
@@ -107,7 +107,7 @@ The hacktivist group Anonymous may be setting its sights on the city of Orlando,
 ### [Sir Michael Somare, veteran Prime Minister of Papua New Guinea, resigns due to ill-health according to his family. ](/news/2011/06/28/sir-michael-somare-veteran-prime-minister-of-papua-new-guinea-resigns-due-to-ill-health-according-to-his-family.md)
 The family of Papua New Guinea&#039;s prime minister Sir Michael Somare says the veteran leader is retiring because of ill health.
 
-##### boycott
+##### Boycott
 ### [Opposition parties boycott the swearing-in of the new parliament in Ankara after judges ban nine elected MPs. ](/news/2011/06/28/opposition-parties-boycott-the-swearing-in-of-the-new-parliament-in-ankara-after-judges-ban-nine-elected-mps.md)
 Opposition parties in Turkey boycott the swearing-in of the new parliament after nine MPs are barred from taking their seats.
 
@@ -119,7 +119,7 @@ Independent Kerry South TD Michael Healy-Rae has said he does not know who voted
 ### [The California State Legislature passes a 2011-12 budget containing significant increases in taxes. ](/news/2011/06/28/the-california-state-legislature-passes-a-2011-12-budget-containing-significant-increases-in-taxes.md)
 _Context: California State Legislature_
 
-##### pi
+##### Pi
 ### [Anti-pi groups mark Tau Day. ](/news/2011/06/28/anti-pi-groups-mark-tau-day.md)
 A movement to replace the mathematical constant pi with tau - a constant twice as large, or 6.28 - celebrates &quot;Tau Day&quot; on 28 June.
 

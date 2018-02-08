@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/10/massive-demonstrations-are-held-in-various-plac
 
 ### [2009-06-10](/news/2009/06/10/index.md)
 
-##### demonstration
+##### Demonstration
 #  Massive demonstrations are held in various places in the Philippines against the passage of the Constituent Assembly to amend the Constitution. 
 
 

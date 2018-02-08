@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/01/25/the-german-government-decides-it-will-abolish-t
 
 ### [2017-01-25](/news/2017/01/25/index.md)
 
-##### government
+##### Government
 # The German government decides it will abolish the crime of lese-majeste, almost one year after the Bohmermann affair. 
 
 The German government voted Wednesday to scrap a &quot;lese majeste&quot; law that Turkish President Recep Tayyip Erdogan had sought to employ against a popular German television satirist.

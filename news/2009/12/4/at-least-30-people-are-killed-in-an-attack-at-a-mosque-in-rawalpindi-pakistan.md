@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/4/at-least-30-people-are-killed-in-an-attack-at-a-
 
 ### [2009-12-4](/news/2009/12/4/index.md)
 
-##### mosque
+##### Mosque
 #  At least 30 people are killed in an attack at a mosque in Rawalpindi, Pakistan. 
 
 At least 26 people killed as armed men stage attack in Pakistani garrison city.

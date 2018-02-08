@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/1/a-prison-officer-is-killed-in-an-ambush-by-dissi
 
 ### [2012-11-1](/news/2012/11/1/index.md)
 
-##### prison officer
+##### Prison officer
 # A prison officer is killed in an ambush by dissident Irish republicans as he drives to work along Northern Ireland's M1 motorway. The officer, who worked at the province's Maghaberry Prison, is the first member of the Northern Ireland Prison Service to be killed in such an attack in 20 years. 
 
 The family of a Northern Ireland prison officer murdered as he drove to work are &quot;absolutely devastated&quot;, their minister says.

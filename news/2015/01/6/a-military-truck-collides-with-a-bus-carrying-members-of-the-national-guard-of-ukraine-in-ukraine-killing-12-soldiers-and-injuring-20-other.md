@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/6/a-military-truck-collides-with-a-bus-carrying-me
 
 ### [2015-01-6](/news/2015/01/6/index.md)
 
-##### national guardsman
+##### National guardsman
 # A military truck collides with a bus carrying members of the National Guard of Ukraine in Ukraine, killing 12 soldiers and injuring 20 others. 
 
 At least 12 Ukrainian servicemen were killed and more than 20 injured in eastern Ukraine when their bus hit military trucks, police and local media say.

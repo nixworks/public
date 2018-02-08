@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/12/unrest-continues-in-burma-as-more-buildings-are
 
 ### [2012-06-12](/news/2012/06/12/index.md)
 
-##### fighting between Buddhists and Muslims
+##### Fighting between Buddhists and Muslims
 # Unrest continues in Burma as more buildings are burned. 
 
 Gunshots are heard and buildings set on fire in an area affected by deadly violence between Buddhists and Muslims in western Burma, reports say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/02/27/a-large-rally-with-estimated-counts-ranging-fro
 
 ### [2016-02-27](/news/2016/02/27/index.md)
 
-##### deputy prime minister
+##### Deputy prime minister
 # A large rally, with estimated counts ranging from 7,500 to 100,000, honors former deputy prime minister and opposition leader Boris Nemtsov on the first anniversary of his assassination near the Kremlin. 
 
 Thousands of Russians marched through Moscow to honor slain Kremlin critic Boris Nemtsov on Saturday, the first anniversary of his death, and to press their demand that the authorities find and punish the person who ordered his killing.

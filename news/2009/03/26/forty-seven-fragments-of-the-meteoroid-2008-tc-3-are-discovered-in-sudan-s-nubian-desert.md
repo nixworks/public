@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/03/26/forty-seven-fragments-of-the-meteoroid-2008-tc-
 
 ### [2009-03-26](/news/2009/03/26/index.md)
 
-##### meteoroid
+##### Meteoroid
 #  Forty-seven fragments of the meteoroid 2008 TC 3 are discovered in Sudan's Nubian Desert. 
 
 

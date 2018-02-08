@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/23/in-an-unprecedented-move-the-british-government
 
 ### [2003-08-23](/news/2003/08/23/index.md)
 
-##### form of government
+##### Form of government
 #  In an unprecedented move, the British government submit thousands of official documents (many of which would not normally be seen by the public for 30 years) to the Hutton Inquiry, and publication on the Internet.
 
 

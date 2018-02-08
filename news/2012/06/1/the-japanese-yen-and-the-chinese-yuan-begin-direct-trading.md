@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/1/the-japanese-yen-and-the-chinese-yuan-begin-dire
 
 ### [2012-06-1](/news/2012/06/1/index.md)
 
-##### yen
+##### Yen
 # The Japanese yen and the Chinese yuan begin direct trading.
 
 

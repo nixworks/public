@@ -11,9 +11,9 @@ Formats: [HTML](2014/02/22/index.html)  [JSON](2014/02/22/index.json)  [XML](201
 ### [Pope Francis creates 19 new cardinals in a ceremony at St Peter's Basilica in Rome. In addition, the Pope emeritus Benedict XVI makes his first public appearance at the Vatican since his resignation in 2013. ](/news/2014/02/22/pope-francis-creates-19-new-cardinals-in-a-ceremony-at-st-peter-s-basilica-in-rome-in-addition-the-pope-emeritus-benedict-xvi-makes-his-fi.md)
 The leader of the Roman Catholic Church in England and Wales is created a cardinal at a ceremony in Rome.
 
-##### carbon monoxide
+##### Carbon monoxide
 ### [One person is dead and 28 are ill from a carbon monoxide leak at the Walt Whitman Shops in Huntington, New York. ](/news/2014/02/22/one-person-is-dead-and-28-are-ill-from-a-carbon-monoxide-leak-at-the-walt-whitman-shops-in-huntington-new-york.md)
-_Context: Walt Whitman Shops, New York, Huntington, carbon monoxide_
+_Context: New York, Walt Whitman Shops, Huntington, carbon monoxide_
 
 ##### Joaquin Guzman Loera
 ### [The Sinaloa cartel drug lord Joaquin Guzman Loera, also known as "El Chapo", is arrested in Mexico. ](/news/2014/02/22/the-sinaloa-cartel-drug-lord-joaquan-guzma-n-loera-also-known-as-el-chapo-is-arrested-in-mexico.md)

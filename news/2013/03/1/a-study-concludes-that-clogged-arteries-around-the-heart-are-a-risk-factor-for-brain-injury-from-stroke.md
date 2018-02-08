@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/1/a-study-concludes-that-clogged-arteries-around-t
 
 ### [2013-03-1](/news/2013/03/1/index.md)
 
-##### clogged arteries
+##### Clogged arteries
 # A study concludes that clogged arteries around the heart are a risk factor for brain injury from stroke. 
 
 

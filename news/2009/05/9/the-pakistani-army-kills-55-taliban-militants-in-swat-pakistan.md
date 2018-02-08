@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/9/the-pakistani-army-kills-55-taliban-militants-in
 
 ### [2009-05-9](/news/2009/05/9/index.md)
 
-##### military
+##### Military
 #  The Pakistani Army kills 55 Taliban militants in Swat, Pakistan. 
 
 Pakistan has been roused to fight the &quot;existential threat&quot; of a growing Islamist insurgency, the top U.S. commander for the Afghan-Pakistan war theater said on Sunday, as Islamabad intensified an offensive against Taliban militants.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/20/a-suicide-bomber-kills-at-least-10-people-and-i
 
 ### [2007-05-20](/news/2007/05/20/index.md)
 
-##### suicide bomb
+##### Suicide bomb
 #  A suicide bomber kills at least 10 people and injures 32 people in Gardez, the capital of Afghanistan's Paktia Province. 
 
 The attack came a day after another suicide bombing killed nine people, among them three German soldiers in the northern province of Kunduz.

@@ -15,7 +15,7 @@ American special operations forces and FBI agents have captured a militant who a
 ### [Archives from Hewlett-Packard founders William Hewlett and David Packard are among those destroyed by fires in a Santa Rosa neighborhood. ](/news/2017/10/29/archives-from-hewlett-packard-founders-william-hewlett-and-david-packard-are-among-those-destroyed-by-fires-in-a-santa-rosa-neighborhood.md)
 The papers of William Hewlett and David Packard chronicling the birth of Silicon Valley are no more.
 
-##### pickup truck
+##### Pickup truck
 ### [A pickup truck crashes into an Amish horse-drawn buggy, killing three preteen children and injuring six other passengers in Bushnell Township, Michigan. Police say the survivors' injuries are life-threatening. ](/news/2017/10/29/a-pickup-truck-crashes-into-an-amish-horse-drawn-buggy-killing-three-preteen-children-and-injuring-six-other-passengers-in-bushnell-townshi.md)
 SHERIDAN, Mich. -- Three children died and six other people were seriously injured when a pickup truck hit a horse-drawn buggy near Sheridan on Sunday morning. The accident occurred at 8:34 a.m. Sunday on East Condensery Road near Townhall Road in Evergreen Township near Sheridan, which is located i...
 

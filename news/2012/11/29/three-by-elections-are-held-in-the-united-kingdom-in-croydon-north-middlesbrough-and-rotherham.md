@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/11/29/three-by-elections-are-held-in-the-united-kingd
 
 ### [2012-11-29](/news/2012/11/29/index.md)
 
-##### by-election
+##### By-election
 # Three by-elections are held in the United Kingdom, in Croydon North, Middlesbrough and Rotherham. 
 
 Voters go to the polls in by-elections in Croydon North, Middlesbrough and Rotherham - three constituencies currently held by Labour.

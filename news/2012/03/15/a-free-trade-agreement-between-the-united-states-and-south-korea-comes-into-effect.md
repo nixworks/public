@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/03/15/a-free-trade-agreement-between-the-united-state
 
 ### [2012-03-15](/news/2012/03/15/index.md)
 
-##### free trade agreement
+##### Free trade agreement
 # A free trade agreement between the United States and South Korea comes into effect. 
 
 

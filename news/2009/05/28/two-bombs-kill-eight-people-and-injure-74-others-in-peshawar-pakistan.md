@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/05/28/two-bombs-kill-eight-people-and-injure-74-other
 
 ### [2009-05-28](/news/2009/05/28/index.md)
 
-##### bomb
+##### Bomb
 #  Two bombs kill eight people and injure 74 others in Peshawar, Pakistan. 
 
 

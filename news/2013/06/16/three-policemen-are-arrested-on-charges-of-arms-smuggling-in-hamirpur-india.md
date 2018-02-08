@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/16/three-policemen-are-arrested-on-charges-of-arms
 
 ### [2013-06-16](/news/2013/06/16/index.md)
 
-##### arms smuggling
+##### Arms smuggling
 # Three policemen are arrested on charges of arms smuggling in Hamirpur, India. 
 
 

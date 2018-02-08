@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/8/a-tornado-touches-down-in-brooklyn-new-york-just
 
 ### [2007-08-8](/news/2007/08/8/index.md)
 
-##### tornado
+##### Tornado
 #  A tornado touches down in Brooklyn, New York just after dawn during a violent thunderstorm that dropped near three inches of rain in the New York City area, crippling the city's subway and commuter rail system during the morning rush hour. 
 
 

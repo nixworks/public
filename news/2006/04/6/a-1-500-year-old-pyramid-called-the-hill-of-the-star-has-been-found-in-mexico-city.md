@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/04/6/a-1-500-year-old-pyramid-called-the-hill-of-the-
 
 ### [2006-04-6](/news/2006/04/6/index.md)
 
-##### pyramid
+##### Pyramid
 #  A 1,500-year-old pyramid called the Hill of the Star has been found in Mexico City. 
 
 

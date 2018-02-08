@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/2/at-least-two-people-are-dead-and-ten-injured-fol
 
 ### [2011-02-2](/news/2011/02/2/index.md)
 
-##### car bomb
+##### Car bomb
 # At least two people are dead and ten injured following the explosion of a car bomb in a commercial area of the Pakistani town of Peshawar. 
 
 

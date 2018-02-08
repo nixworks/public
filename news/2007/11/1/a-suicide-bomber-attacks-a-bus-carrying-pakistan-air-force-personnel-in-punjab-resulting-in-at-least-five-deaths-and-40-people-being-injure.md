@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/1/a-suicide-bomber-attacks-a-bus-carrying-pakistan
 
 ### [2007-11-1](/news/2007/11/1/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A suicide bomber attacks a bus carrying Pakistan Air Force personnel in Punjab resulting in at least five deaths and 40 people being injured. 
 
 

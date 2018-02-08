@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/29/a-gunman-opens-fire-at-the-adat-yeshurun-valley
 
 ### [2009-10-29](/news/2009/10/29/index.md)
 
-##### synagogue
+##### Synagogue
 #  A gunman opens fire at the Adat Yeshurun Valley Sephardic synagogue in North Hollywood, Los Angeles, United States, and wounds two people. 
 
 

@@ -5,17 +5,17 @@ Formats: [HTML](2011/05/13/index.html)  [JSON](2011/05/13/index.json)  [XML](201
 
 ##### Bahrain
 ### [The Bahraini government tortures doctors into confessions of "trying to overthrow the monarchy" by aiding wounded civilians who protested during the uprising. ](/news/2011/05/13/the-bahraini-government-tortures-doctors-into-confessions-of-trying-to-overthrow-the-monarchy-by-aiding-wounded-civilians-who-protested-du.md)
-_Context: King of Bahrain, Bahrain_
+_Context: Bahrain, King of Bahrain_
 
 ##### Ali Abdullah Saleh
 ### [3 people are killed and 18 others are wounded as troops shoot at medics, witnesses and people protesting against the Saleh regime in Ibb, Ta'izz and Sana'a, though Saleh remains defiant. Qatar withdraws from mediation efforts, saying Saleh has been full of "indecision and delays". ](/news/2011/05/13/3-people-are-killed-and-18-others-are-wounded-as-troops-shoot-at-medics-witnesses-and-people-protesting-against-the-saleh-regime-in-ibb-ta.md)
-_Context: Ibb, Ali Abdullah Saleh, Sana'a, Qatar, Ta'izz_
+_Context: Qatar, Ali Abdullah Saleh, Sana'a, Ta'izz, Ibb_
 
 ##### 
 ### [Soldiers are reportedly ordered not to fire on protesters. ](/news/2011/05/13/soldiers-are-reportedly-ordered-not-to-fire-on-protesters.md)
 Syrian President Bashar al-Assad has ordered troops not to fire on pro-democracy demonstrators, a rights campaigner said, ahead of Friday prayers that have become a rallying point for protesters in an eight-week uprising.
 
-##### imam
+##### Imam
 ### [A video shows 11 dead imams and 45 wounded Muslim holy men, 5 of whom are in a coma, alleged to have been caused by a NATO airstrike. Those attacked were said to have been at rest and sleeping while participating in a long peace march; Muslims and Christians unite in condemnation of the attack. ](/news/2011/05/13/a-video-shows-11-dead-imams-and-45-wounded-muslim-holy-men-5-of-whom-are-in-a-coma-alleged-to-have-been-caused-by-a-nato-airstrike-those.md)
 The Libyan leader responds to claims by the Italian foreign minister in an audio statement aired on state television.
 
@@ -23,7 +23,7 @@ The Libyan leader responds to claims by the Italian foreign minister in an audio
 ### [Authorities extend for 15 more days the detention of Hosni Mubarak, whose regime was overthrown by a recent popular revolution. ](/news/2011/05/13/authorities-extend-for-15-more-days-the-detention-of-hosni-mubarak-whose-regime-was-overthrown-by-a-recent-popular-revolution.md)
 Suzanne Mubarak, wife of the ousted Egyptian president, is detained for 15 days pending further investigations into corruption allegations.
 
-##### petrol bomb
+##### Petrol bomb
 ### [Dozens of people are injured in a petrol bomb attack on a bank in Gansu, northwest China. ](/news/2011/05/13/dozens-of-people-are-injured-in-a-petrol-bomb-attack-on-a-bank-in-gansu-northwest-china.md)
 A petrol bomb attack during a staff meeting at a rural bank in north-west China injures dozens of people, state media report.
 
@@ -57,11 +57,11 @@ The deputy governor of a prison in Durango, in northern Mexico is found decapita
 
 ##### United Kingdom
 ### [A 62-year-old British woman is beheaded in a supermarket on the Spanish island of Tenerife in what officials say appears to be a random attack. An individual is arrested. ](/news/2011/05/13/a-62-year-old-british-woman-is-beheaded-in-a-supermarket-on-the-spanish-island-of-tenerife-in-what-officials-say-appears-to-be-a-random-atta.md)
-_Context: Tenerife, Spain, United Kingdom_
+_Context: Spain, United Kingdom, Tenerife_
 
 ##### Republika Srpska
 ### [Republika Srpska President Milorad Dodik, speaking after meeting Catherine Ashton in Banja Luka, says a referendum "for the time being is not necessary". The referendum would have been a challenge to both Ashton and the courts of Bosnia. ](/news/2011/05/13/republika-srpska-president-milorad-dodik-speaking-after-meeting-catherine-ashton-in-banja-luka-says-a-referendum-for-the-time-being-is-no.md)
-_Context: President, Bosnian, Catherine Ashton, Republika Srpska, Milorad Dodik, Banja Luka_
+_Context: Bosnian, Milorad Dodik, President, Banja Luka, Catherine Ashton, Republika Srpska_
 
 ##### Plaid Cymru Party
 ### [Plaid Cymru leader Ieuan Wyn Jones vows to stand down from the role in the first half of the Welsh assembly's five-year term following the party's poor results at the recent election. ](/news/2011/05/13/plaid-cymru-leader-ieuan-wyn-jones-vows-to-stand-down-from-the-role-in-the-first-half-of-the-welsh-assembly-s-five-year-term-following-the-p.md)
@@ -69,7 +69,7 @@ Ieuan Wyn Jones reveals he will stand down as Plaid Cymru leader some time in th
 
 ##### FIFA
 ### [FIFA President Sepp Blatter fears being plunged into "a black hole" if AFC President Mohammed Bin Hammam defeats him in next month's leadership election. ](/news/2011/05/13/fifa-president-sepp-blatter-fears-being-plunged-into-a-black-hole-if-afc-president-mohammed-bin-hammam-defeats-him-in-next-month-s-leaders.md)
-_Context: President, Sepp Blatter, FIFA, Mohammed Bin Hammam, President, AFC_
+_Context: President, President, FIFA, Mohammed Bin Hammam, AFC, Sepp Blatter_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI tells Roman Catholic bishops around the world they must obey Summorum Pontificum, a papal order allowing priests to say the old-style Tridentine Mass, regardless of their opinion on it. ](/news/2011/05/13/pope-benedict-xvi-tells-roman-catholic-bishops-around-the-world-they-must-obey-summorum-pontificum-a-papal-order-allowing-priests-to-say-th.md)

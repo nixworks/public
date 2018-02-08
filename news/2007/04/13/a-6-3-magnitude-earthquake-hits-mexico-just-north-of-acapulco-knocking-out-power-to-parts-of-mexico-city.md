@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/13/a-6-3-magnitude-earthquake-hits-mexico-just-nor
 
 ### [2007-04-13](/news/2007/04/13/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 6.3 magnitude earthquake hits Mexico just north of Acapulco, knocking out power to parts of Mexico City. 
 
 A strong earthquake shook southern Mexico early Friday, knocking out power in parts of Mexico City and Acapulco, swaying tall buildings and sending frightened people into the streets in their pajamas.

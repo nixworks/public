@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/03/3/three-israelis-ignite-firecrackers-in-an-attempt
 
 ### [2006-03-3](/news/2006/03/3/index.md)
 
-##### firecracker
+##### Firecracker
 #  Three Israelis ignite firecrackers in an attempt to detonate gas canisters smuggled into the Church of the Annunciation in Nazareth during prayer services, sparking riots and confrontation between thousands of protestors and Israeli police. 
 
 Three people disguised as Christian pilgrims were removed from the Basilica of the Annunciation in the town of Nazareth on Friday.

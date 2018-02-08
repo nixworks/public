@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/06/29/giant-sudoku-puzzle-appears-near-bristol-englan
 
 ### [2005-06-29](/news/2005/06/29/index.md)
 
-##### sudoku
+##### Sudoku
 #  Giant sudoku puzzle appears near Bristol, England 
 
 

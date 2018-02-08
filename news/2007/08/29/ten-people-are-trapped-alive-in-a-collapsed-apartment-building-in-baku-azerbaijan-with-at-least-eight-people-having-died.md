@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/29/ten-people-are-trapped-alive-in-a-collapsed-apa
 
 ### [2007-08-29](/news/2007/08/29/index.md)
 
-##### apartment
+##### Apartment
 #  Ten people are trapped alive in a collapsed apartment building in Baku, Azerbaijan with at least eight people having died. 
 
 

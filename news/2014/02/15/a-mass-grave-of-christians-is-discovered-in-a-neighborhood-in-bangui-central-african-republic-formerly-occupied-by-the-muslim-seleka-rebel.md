@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/15/a-mass-grave-of-christians-is-discovered-in-a-n
 
 ### [2014-02-15](/news/2014/02/15/index.md)
 
-##### mass grave
+##### Mass grave
 # A mass grave of Christians is discovered in a neighborhood in Bangui, Central African Republic, formerly occupied by the Muslim Seleka rebels. 
 
 A top U.N. official warned on Wednesday of &quot;ethnic-religious cleansing&quot; in the Central African Republic, as peacekeepers uncovered a mass grave at a military camp occupied by Seleka rebels in the capital Bangui.

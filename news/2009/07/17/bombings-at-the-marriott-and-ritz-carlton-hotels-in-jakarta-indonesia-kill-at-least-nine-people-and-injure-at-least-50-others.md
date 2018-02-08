@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/17/bombings-at-the-marriott-and-ritz-carlton-hotel
 
 ### [2009-07-17](/news/2009/07/17/index.md)
 
-##### suicide attacks on two hotels
+##### Suicide attacks on two hotels
 #  Bombings at the Marriott and Ritz-Carlton Hotels in Jakarta, Indonesia, kill at least nine people and injure at least 50 others. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-c
 
 ### [2015-11-14](/news/2015/11/14/index.md)
 
-##### light aircraft
+##### Light aircraft
 # Four people are killed after a light aircraft crashes near the village of Churchstanton in Somerset. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-
 
 ### [2010-01-6](/news/2010/01/6/index.md)
 
-##### tourism
+##### Tourism
 # China's tourism revenue hits USD 185 billion in 2009. 
 
 

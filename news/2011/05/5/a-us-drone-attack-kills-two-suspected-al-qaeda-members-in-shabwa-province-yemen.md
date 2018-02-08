@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/5/a-us-drone-attack-kills-two-suspected-al-qaeda-m
 
 ### [2011-05-5](/news/2011/05/5/index.md)
 
-##### combat drone
+##### Combat drone
 # A US drone attack kills two suspected al-Qaeda members in Shabwa province, Yemen. 
 
 Two men suspected of being al-Qaeda militants were killed in Yemen by a missile strike said by witnesses and local officials to have been launched by an America drone.

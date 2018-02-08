@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/01/13/an-avalanche-kills-three-and-injures-one-at-the
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
-##### avalanche
+##### Avalanche
 # An avalanche kills three and injures one at the Les Deux Alpes ski resort in Isere departement of the French Alps. Officials are searching for other possible victims. 
 
 

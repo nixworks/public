@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/4/a-street-corner-sized-sinkhole-forms-at-the-inte
 
 ### [2015-08-4](/news/2015/08/4/index.md)
 
-##### sinkhole
+##### Sinkhole
 # A street-corner sized sinkhole forms at the intersection of Fifth Avenue and 64th Street in Sunset Park in Brooklyn, New York City, ruining the street corner. The northbound N Broadway Local train undergoes delays; there is at least one disconnected pipe and some gas lines requiring repair by National Grid workers. Local police cordon off the area. No fatalities or injuries are reported. 
 
 

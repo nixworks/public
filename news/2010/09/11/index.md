@@ -9,7 +9,7 @@ Denmark raised its terror attack preparedness on Saturday, the ninth anniversary
 
 ##### U.S. Army
 ### [U.S. Army Staff Sergeant Salvatore Giunta is awarded the Medal of Honor for his actions during the ongoing War in Afghanistan, the first living recipient to be so honored since the Vietnam War. ](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.md)
-_Context: Salvatore Giunta, Staff Sergeant, Vietnam War, U.S. Army, War in Afghanistan, Medal of Honor_
+_Context: U.S. Army, Vietnam War, War in Afghanistan, Medal of Honor, Salvatore Giunta, Staff Sergeant_
 
 ##### Muslim
 ### [Muslims around the world celebrate the feast of Eid al-Fitr marking the end of the holy month of Ramadan. ](/news/2010/09/11/muslims-around-the-world-celebrate-the-feast-of-eid-al-fitr-marking-the-end-of-the-holy-month-of-ramadan.md)
@@ -21,7 +21,7 @@ Director Sofia Coppola has taken the top prize at the Venice Film Festival for h
 
 ##### United States
 ### [US actor Kevin McCarthy best known for his roles in "Invasion of the Body Snatchers" and "Death of a Salesman" dies. ](/news/2010/09/11/us-actor-kevin-mccarthy-best-known-for-his-roles-in-invasion-of-the-body-snatchers-and-death-of-a-salesman-dies.md)
-_Context: Kevin McCarthy, Invasion of the Body Snatchers, Death of a Salesman, United States_
+_Context: Invasion of the Body Snatchers, United States, Death of a Salesman, Kevin McCarthy_
 
 ##### Thessaloniki
 ### [Police tear gas people in Thessaloniki as tens of thousands of people protest against Prime Minister George Papandreou's austerity plans. ](/news/2010/09/11/police-tear-gas-people-in-thessaloniki-as-tens-of-thousands-of-people-protest-against-prime-minister-george-papandreou-s-austerity-plans.md)
@@ -41,27 +41,27 @@ Accidental rupture leaves 10 workers dead and 20 injured, as firefighters bring 
 
 ##### Egypt
 ### [Officials in 3 Egyptian governorates declare a state of emergency after a barge leaked some 100 tons of gasoline into the Nile River north of Aswan. ](/news/2010/09/11/officials-in-3-egyptian-governorates-declare-a-state-of-emergency-after-a-barge-leaked-some-100-tons-of-gasoline-into-the-nile-river-north-o.md)
-_Context: Aswan, gas, governorates, Egypt, Nile River_
+_Context: governorates, Aswan, Egypt, Nile River, gas_
 
 ##### Mexico
 ### [Mexico experiences its record worst ever rainy season. ](/news/2010/09/11/mexico-experiences-its-record-worst-ever-rainy-season.md)
 Mexico said Thursday it is experiencing its worst rainy season on record and the rains are set to intensify, as the latest storms left 10 people dead and affected almost one million people.
 
-##### earthquake
+##### Earthquake
 ### [A moderate earthquake strikes Indonesia's North Maluku province. ](/news/2010/09/11/a-moderate-earthquake-strikes-indonesia-s-north-maluku-province.md)
 A moderate 5.9-magnitude earthquake struck Indonesia&#039;s North Maluku province, the meteorology and geophysics agency said, but no tsunami warning was issued.
 
-##### pipeline explosion
+##### Pipeline explosion
 ### [The death toll rises to 6 from the pipeline explosion in San Bruno, California near the U.S. city of San Francisco. ](/news/2010/09/11/the-death-toll-rises-to-6-from-the-pipeline-explosion-in-san-bruno-california-near-the-u-s-city-of-san-francisco.md)
-_Context: California, United States, pipeline explosion, San Bruno, San Francisco, California_
+_Context: United States, San Francisco, California, California, pipeline explosion, San Bruno_
 
 ##### Coach USA
 ### [Four people are dead and twenty-five people are hospitalised after a Coach USA Megabus crashes into a railroad overpass in Salina, New York. ](/news/2010/09/11/four-people-are-dead-and-twenty-five-people-are-hospitalised-after-a-coach-usa-megabus-crashes-into-a-railroad-overpass-in-salina-new-york.md)
-_Context: Coach USA, railroad, New York, overpass, Salina, Megabus_
+_Context: railroad, Salina, overpass, Megabus, Coach USA, New York_
 
 ##### Shanghai
 ### [More than 300 flights from Shanghai, China are delayed due to torrential rain caused by Tropical Storm Meranti. ](/news/2010/09/11/more-than-300-flights-from-shanghai-china-are-delayed-due-to-torrential-rain-caused-by-tropical-storm-meranti.md)
-_Context: Chinese, Shanghai, Typhoon Chaba_
+_Context: Chinese, Typhoon Chaba, Shanghai_
 
 ##### 2010 Atlantic hurricane season
 ### [Hurricane Igor reaches Category 1 in the Atlantic Ocean. ](/news/2010/09/11/hurricane-igor-reaches-category-1-in-the-atlantic-ocean.md)

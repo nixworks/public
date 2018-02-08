@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/30/at-least-25-people-have-died-as-a-result-of-for
 
 ### [2010-07-30](/news/2010/07/30/index.md)
 
-##### forest fires
+##### Forest fires
 # At least 25 people have died as a result of forest fires in eastern Russia with thousands of Russians being evacuated in the hottest summer since records began. 
 
 Forest fires sweeping across eastern Russia have killed at least 25 people and the forced the evacuation of thousands in the hottest weather since records began 130 years ago.

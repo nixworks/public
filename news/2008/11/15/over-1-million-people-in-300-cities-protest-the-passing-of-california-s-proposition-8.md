@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/15/over-1-million-people-in-300-cities-protest-the
 
 ### [2008-11-15](/news/2008/11/15/index.md)
 
-##### reversed its legalization
+##### Reversed its legalization
 #  Over 1 million people in 300 cities protest the passing of California's Proposition 8. 
 
 

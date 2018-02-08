@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/4/australian-army-soldier-sergeant-todd-langley-is
 
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-##### soldiers
+##### Soldiers
 # Australian Army soldier, Sergeant Todd Langley, is killed in fighting in Afghanistan, bringing Australian casualties in the war to 28. 
 
 

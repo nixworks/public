@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/30/a-presidential-election-takes-place-in-gabon.ht
 
 ### [2009-08-30](/news/2009/08/30/index.md)
 
-##### disputed presidential election
+##### Disputed presidential election
 #  A presidential election takes place in Gabon. 
 
 With the opposition divided, the son of the late president is expected to take power.

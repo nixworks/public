@@ -15,7 +15,7 @@ The number was far in excess of expectations and more than three times the 37,00
 ### [Ferdinand Pich, grandson of the inventor of the Volkswagen Beetle and chairman of Volkswagen for more than 20 years, steps down from that post under trade union pressure. ](/news/2015/04/25/ferdinand-piech-grandson-of-the-inventor-of-the-volkswagen-beetle-and-chairman-of-volkswagen-for-more-than-20-years-steps-down-from-that-p.md)
 Ferdinand Piech, a towering figure at Volkswagen (VOWG_p.DE) for more than two decades, resigned as its chairman on Saturday after losing a showdown he had provoked with Chief Executive Martin Winterkorn, ending an era at the iconic German carmaker.
 
-##### suspicions
+##### Suspicions
 ### [A strong 7.9 earthquake strikes between the Nepalese capital Kathmandu and the regional headquarter city of Pokhara. The Government of Nepal declares a state of emergency with 1500 dead. A number of UNESCO World Heritage Sites are destroyed, including the historic Dharahara tower. Deaths are also recorded in India, Bangladesh and the Chinese province of Tibet. ](/news/2015/04/25/a-strong-7-9-earthquake-strikes-between-the-nepalese-capital-kathmandu-and-the-regional-headquarter-city-of-pokhara-the-government-of-nepal.md)
 A magnitude-7.9 earthquake strikes in Nepal and northern India, killing more than 1,300 people.
 
@@ -33,7 +33,7 @@ Another @BmoreCityDOT warning about traffic congestion, &quot;unpredictable cond
 
 ##### Togolese presidential election, 2015
 ### [Voters in Togo go to the polls amid political unrest. ](/news/2015/04/25/voters-in-togo-go-to-the-polls-amid-political-unrest.md)
-_Context: Togolese presidential election, 2015, Togo_
+_Context: Togo, Togolese presidential election, 2015_
 
 ## [Previous Day...](/news/2015/04/24/index.md)
 

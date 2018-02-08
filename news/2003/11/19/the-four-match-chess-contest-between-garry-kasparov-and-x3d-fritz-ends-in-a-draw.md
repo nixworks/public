@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/19/the-four-match-chess-contest-between-garry-kasp
 
 ### [2003-11-19](/news/2003/11/19/index.md)
 
-##### chess
+##### Chess
 #  The four-match chess contest between Garry Kasparov and X3D Fritz ends in a draw.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/05/2/a-shell-containing-mustard-gas-was-found-in-the-
 
 ### [2004-05-2](/news/2004/05/2/index.md)
 
-##### mustard gas
+##### Mustard gas
 #  A shell containing mustard gas, was found in the middle of a street west of Baghdad. Officials from the Defense Department commented that this was part of an improvised explosive device (IED). It was not certain that use was to be made as a bomb. 
 
 Recent discoveries of sarin nerve gas and mustard gas in Iraq renew questions about what dangerous weapons Saddam Hussein had in Iraq.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/10/13/a-us-drone-attack-in-pakistan-s-north-wazirista
 
 ### [2011-10-13](/news/2011/10/13/index.md)
 
-##### drone attack
+##### Drone attack
 # A US drone attack in Pakistan's North Waziristan region destroys a Haqqani network militant compound, with four people reported killed. 
 
 

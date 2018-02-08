@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/6/at-least-12-million-people-are-now-affected-by-t
 
 ### [2010-08-6](/news/2010/08/6/index.md)
 
-##### devastating floods
+##### Devastating floods
 # At least 12 million people are now affected by the worst floods in the history of Pakistan with 1,600 people being killed and 650,000 homes being destroyed. 
 
 

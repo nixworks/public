@@ -5,15 +5,15 @@ Formats: [HTML](2016/12/8/index.html)  [JSON](2016/12/8/index.json)  [XML](2016/
 
 ##### War in Donbass
 ### [As of December 1, the total death toll for the war stands at an estimated 9,758 people according to a United Nations report released today. ](/news/2016/12/8/as-of-december-1-the-total-death-toll-for-the-war-stands-at-an-estimated-9-758-people-according-to-a-united-nations-report-released-today.md)
-_Context: War in Donbass, United Nations_
+_Context: United Nations, War in Donbass_
 
 ##### 2016 Aceh earthquake
 ### [International aid organisations arrive in the Indonesian province of Aceh as the death toll for the earthquake passes 100. ](/news/2016/12/8/international-aid-organisations-arrive-in-the-indonesian-province-of-aceh-as-the-death-toll-for-the-earthquake-passes-100.md)
-_Context: Indonesia, 2016 Aceh earthquake, Aceh_
+_Context: Indonesia, Aceh, 2016 Aceh earthquake_
 
-##### drug crackdown
+##### Drug crackdown
 ### [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md)
-_Context: constitutional constraints, drug crackdown, Oplan Tokhang, Philippine National Police, Philippines, senators_
+_Context: drug crackdown, constitutional constraints, Philippine National Police, senators, Oplan Tokhang, Philippines_
 
 ##### New Zealand National Party leadership election, 2016
 ### [Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.md)

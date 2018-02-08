@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/02/2/palestinian-factional-violence-hamas-and-its-riv
 
 ### [2007-02-2](/news/2007/02/2/index.md)
 
-##### clashes
+##### Clashes
 #  Palestinian factional violence: Hamas and its rival Fatah renew their truce when violence broke off again after the initial ceasefire. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

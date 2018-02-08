@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/12/6/one-person-is-killed-and-one-is-seriously-injure
 
 ### [2007-12-6](/news/2007/12/6/index.md)
 
-##### letter bomb
+##### Letter bomb
 #  One person is killed and one is seriously injured after a letter bomb explosion in a law office building in the 8th arrondissement of Paris, France. 
 
 

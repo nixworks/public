@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/11/15/an-earthquake-measuring-8-1-on-the-richter-scal
 
 ### [2006-11-15](/news/2006/11/15/index.md)
 
-##### magnitude
+##### Magnitude
 #  An earthquake measuring 8.1 on the Richter scale occurs at 11:14:19 UTC on the Pacific Ocean seafloor with an epicentre 390 kilometres (244 miles) east of Etorofu island (latitude 46.7 North, longitude 153.5 East). Tsunami warnings and watches are issued by the Pacific Tsunami Warning Center and the East Coast and Alaska Tsunami Warning Center. After expectations of a tsunami at least 2 metres (6 feet) high, the largest wave to hit Hokkaido measures only 40 centimetres (16 inches).
 
 

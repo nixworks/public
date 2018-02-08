@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/07/5/the-central-bank-of-russia-announces-it-will-sta
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
-##### against
+##### Against
 # The Central Bank of Russia announces it will start buying the Chinese yuan in an attempt to diversify its foreign-currency reserves away from the Euro and the U.S. dollar and to become less vulnerable to Western sanctions. 
 
 

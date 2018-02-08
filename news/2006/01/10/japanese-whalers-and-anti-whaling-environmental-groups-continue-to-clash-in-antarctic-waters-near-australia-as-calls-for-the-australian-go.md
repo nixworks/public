@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/01/10/japanese-whalers-and-anti-whaling-environmental
 
 ### [2006-01-10](/news/2006/01/10/index.md)
 
-##### whaling
+##### Whaling
 #  Japanese whalers and anti-whaling environmental groups continue to clash in Antarctic waters near Australia, as calls for the Australian Government to intervene intensify. 
 
 

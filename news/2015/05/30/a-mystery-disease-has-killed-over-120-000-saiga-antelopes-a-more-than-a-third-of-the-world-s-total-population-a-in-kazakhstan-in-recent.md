@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/30/a-mystery-disease-has-killed-over-120-000-saiga
 
 ### [2015-05-30](/news/2015/05/30/index.md)
 
-##### saiga antelope
+##### Saiga antelope
 # A mystery disease has killed over 120,000 saiga antelopes - more than a third of the world's total population - in Kazakhstan in recent weeks. 
 
 The sudden deaths of tens of thousands of endangered antelopes in Kazakhstan over the past two weeks leave scientists scrambling for answers and conservationists worried about the animal&#039;s future.

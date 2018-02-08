@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/15/a-mortar-attack-on-an-iranian-dissident-camp-in
 
 ### [2013-06-15](/news/2013/06/15/index.md)
 
-##### mortar
+##### Mortar
 # A mortar attack on an Iranian dissident camp in Iraq kills 2 people and wounds 27 others 
 
 Two people were killed in a mortar attack on an Iranian dissident camp in the Iraqi capital on Saturday, police sources said.

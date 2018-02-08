@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/20/the-midwestern-united-states-is-hit-by-a-massiv
 
 ### [2012-12-20](/news/2012/12/20/index.md)
 
-##### midwestern
+##### Midwestern
 # The midwestern United States is hit by a massive storm causing major disruption to traffic. 
 
 

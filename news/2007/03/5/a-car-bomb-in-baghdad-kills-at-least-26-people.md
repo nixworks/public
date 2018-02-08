@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/03/5/a-car-bomb-in-baghdad-kills-at-least-26-people.h
 
 ### [2007-03-5](/news/2007/03/5/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in Baghdad kills at least 26 people. 
 
 

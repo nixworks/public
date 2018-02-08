@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/8/roadside-car-bombs-kill-14-civilians-travelling-
 
 ### [2012-07-8](/news/2012/07/8/index.md)
 
-##### car bomb
+##### Car bomb
 # Roadside car bombs kill 14 civilians travelling in two vehicles in Afghanistan's Kandahar Province. 
 
 

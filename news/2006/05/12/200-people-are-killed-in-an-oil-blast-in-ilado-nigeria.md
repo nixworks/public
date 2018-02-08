@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-
 
 ### [2006-05-12](/news/2006/05/12/index.md)
 
-##### oil blast
+##### Oil blast
 #  200 people are killed in an oil blast in Ilado, Nigeria. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
@@ -16,7 +16,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ### Changes:
 
-1. [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md) _2018-02-06 14:52:03 (First version)_
+1. [ 21 people are killed in an Egyptian bus crash. ](/news/2006/05/12/21-people-are-killed-in-an-egyptian-bus-crash.md) _2018-02-07 03:29:50 (First version)_
 1. [ 200 people are killed in an oil blast in Ilado, Nigeria. ](/news/2006/05/12/200-people-are-killed-in-an-oil-blast-in-ilado-nigeria.md) _(Current version)_
 
 ### Related:

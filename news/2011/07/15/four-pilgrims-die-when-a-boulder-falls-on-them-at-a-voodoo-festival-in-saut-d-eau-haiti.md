@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/15/four-pilgrims-die-when-a-boulder-falls-on-them-
 
 ### [2011-07-15](/news/2011/07/15/index.md)
 
-##### pilgrim
+##### Pilgrim
 # Four pilgrims die when a boulder falls on them at a voodoo festival in Saut d'Eau, Haiti. 
 
 

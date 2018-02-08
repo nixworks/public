@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/09/22/a-mid-air-collision-destroys-iran-s-only-awacs-
 
 ### [2009-09-22](/news/2009/09/22/index.md)
 
-##### mid-air collision
+##### Mid-air collision
 #  A mid-air collision destroys Iran's only AWACS equipped aircraft, an Ilyushin Il-76MD. ([http:--www2.debka.com-headline.php?hid=6280 Debka]), ([http:--www.defensenews.com-story.php?i=4289949&c=AIR&s=MID Defensenews])
 
 

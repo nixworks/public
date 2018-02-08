@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/22/a-400lb-bomb-partially-explodes-outside-the-hea
 
 ### [2009-11-22](/news/2009/11/22/index.md)
 
-##### lb
+##### Lb
 #  A 400lb bomb partially explodes outside the headquarters of the Policing Board in Belfast, Northern Ireland. In another incident, three men are arrested after a shooting incident involving PSNI officers in the border village of Garrison, County Fermanagh. 
 
 A 400lb bomb partially exploded outside the Policing Board headquarters in Belfast.

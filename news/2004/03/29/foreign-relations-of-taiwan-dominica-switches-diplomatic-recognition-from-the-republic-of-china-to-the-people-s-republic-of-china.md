@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/29/foreign-relations-of-taiwan-dominica-switches-d
 
 ### [2004-03-29](/news/2004/03/29/index.md)
 
-##### diplomatic ties
+##### Diplomatic ties
 #  Foreign relations of Taiwan: Dominica switches diplomatic recognition from the Republic of China to the People's Republic of China. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.

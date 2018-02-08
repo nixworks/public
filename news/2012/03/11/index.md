@@ -9,13 +9,13 @@ A US soldier in Afghanistan shoots dead 16 civilians and wounds others after ent
 
 ##### Inter-ethnic violence
 ### [Inter-ethnic violence is reported in the Macedonian cities of Skopje and Tetovo overnight. ](/news/2012/03/11/inter-ethnic-violence-is-reported-in-the-macedonian-cities-of-skopje-and-tetovo-overnight.md)
-_Context: Skopje, Republic of Macedonia, Tetovo, Inter-ethnic violence_
+_Context: Republic of Macedonia, Inter-ethnic violence, Tetovo, Skopje_
 
 ##### Krsna Hrka
 ### [Slovakia's Krsna Hrka castle is heavily damaged in a fire. ](/news/2012/03/11/slovakia-s-krasna-horka-castle-is-heavily-damaged-in-a-fire.md)
 A massive fire has swept through one of the best-preserved castles in Slovakia, destroying much of the historic building.
 
-##### government
+##### Government
 ### [The Government of Pakistan bans the Islamist group Ahle Sunnah Wal Jamaat. ](/news/2012/03/11/the-government-of-pakistan-bans-the-islamist-group-ahle-sunnah-wal-jamaat.md)
 _Context: government_
 

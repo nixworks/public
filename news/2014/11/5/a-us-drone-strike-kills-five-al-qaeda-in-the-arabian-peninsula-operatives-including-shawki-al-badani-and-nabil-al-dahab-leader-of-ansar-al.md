@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-ara
 
 ### [2014-11-5](/news/2014/11/5/index.md)
 
-##### al-Qaeda insurgency in Yemen
+##### Al-Qaeda insurgency in Yemen
 # A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. 
 
 A senior Al Qaeda official wanted by the United States and a local leader of the militant group&#039;s affiliate Ansar al-Sharia are killed in a drone strike in Yemen.

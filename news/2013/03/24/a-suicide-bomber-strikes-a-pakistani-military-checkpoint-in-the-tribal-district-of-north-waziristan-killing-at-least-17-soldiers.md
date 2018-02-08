@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/24/a-suicide-bomber-strikes-a-pakistani-military-c
 
 ### [2013-03-24](/news/2013/03/24/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber strikes a Pakistani military checkpoint in the tribal district of North Waziristan, killing at least 17 soldiers. 
 
 

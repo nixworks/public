@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/6/experts-say-that-the-us-flu-season-will-be-worse
 
 ### [2003-12-6](/news/2003/12/6/index.md)
 
-##### flu
+##### Flu
 #  Experts say that the US flu season will be worse than average, but they are not yet ready to say how bad it will be. 
 
 

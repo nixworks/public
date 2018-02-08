@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/08/24/150-cases-of-food-poisoning-are-confirmed-to-be
 
 ### [2013-08-24](/news/2013/08/24/index.md)
 
-##### cronut
+##### Cronut
 # 150 cases of food poisoning are confirmed to be cronuts contaminated with S. aureus at the CNE in Toronto, Ontario. 
 
 Bacteria in the cronut burgers sold by a Canadian National Exhibition food vendor caused roughly 150 people to become ill with food poisoning, according to Toronto Public Health.

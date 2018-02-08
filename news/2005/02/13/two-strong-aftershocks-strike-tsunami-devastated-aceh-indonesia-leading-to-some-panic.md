@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/13/two-strong-aftershocks-strike-tsunami-devastate
 
 ### [2005-02-13](/news/2005/02/13/index.md)
 
-##### aftershock
+##### Aftershock
 #  Two strong aftershocks strike tsunami-devastated Aceh, Indonesia, leading to some panic. 
 
 

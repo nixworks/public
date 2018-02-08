@@ -17,11 +17,11 @@ _Context: Croatia, Turkey, UND Adriyatik_
 
 ##### President of Italy
 ### [ President of Italy Giorgio Napolitano dismisses the parliament; the cabinet sets early elections for 13 and 14 April. ](/news/2008/02/6/president-of-italy-giorgio-napolitano-dismisses-the-parliament-the-cabinet-sets-early-elections-for-13-and-14-april.md)
-_Context: President of Italy, Giorgio Napolitano, 14 April, parliament, re-elected, 13_
+_Context: parliament, 13, President of Italy, Giorgio Napolitano, re-elected, 14 April_
 
 ##### Centers for Disease Control
 ### [ The United States Centers for Disease Control says that an infected mother can transmit HIV to her baby via pre-chewed food. ](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.md)
-_Context: Centers for Disease Control, HIV_
+_Context: HIV, Centers for Disease Control_
 
 ## [Previous Day...](/news/2008/02/5/index.md)
 

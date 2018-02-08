@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/7/tests-confirm-a-second-outbreak-of-foot-and-mout
 
 ### [2007-08-7](/news/2007/08/7/index.md)
 
-##### foot and mouth
+##### Foot and mouth
 #  Tests confirm a second outbreak of foot and mouth disease in Surrey, England. Inspectors think that there is a "strong probability" that the disease came from a research site at Pirbright shared by Merial, a vaccine company and the Institute for Animal Health. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.

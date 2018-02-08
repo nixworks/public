@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/29/heavy-monsoon-rains-delay-the-salvage-of-the-wr
 
 ### [2010-07-29](/news/2010/07/29/index.md)
 
-##### monsoon
+##### Monsoon
 # Heavy monsoon rains delay the salvage of the wreckage of Airblue Flight 202 near Islamabad, Pakistan. 
 
 Heavy monsoon rains in Islamabad on Thursday hampered recovery efforts at the site of a Pakistani plane crash that killed all 152 people on board a day earlier, a senior police officer said.

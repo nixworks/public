@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/02/25/a-heavy-snowstorm-hits-the-east-coast-of-the-un
 
 ### [2011-02-25](/news/2011/02/25/index.md)
 
-##### snowstorm
+##### Snowstorm
 # A heavy snowstorm hits the East Coast of the United States causing flight cancellations and school closures. 
 
 

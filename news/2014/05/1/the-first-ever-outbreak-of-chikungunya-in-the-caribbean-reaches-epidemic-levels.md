@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/1/the-first-ever-outbreak-of-chikungunya-in-the-ca
 
 ### [2014-05-1](/news/2014/05/1/index.md)
 
-##### outbreak
+##### Outbreak
 # The first-ever outbreak of chikungunya in the Caribbean reaches epidemic levels. 
 
 

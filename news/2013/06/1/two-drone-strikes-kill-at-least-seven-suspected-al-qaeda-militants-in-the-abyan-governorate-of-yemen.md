@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/1/two-drone-strikes-kill-at-least-seven-suspected-
 
 ### [2013-06-1](/news/2013/06/1/index.md)
 
-##### al-Qaeda
+##### Al-Qaeda
 # Two drone strikes kill at least seven suspected al-Qaeda militants in the Abyan Governorate of Yemen. 
 
 Two drone strikes killed seven suspected al Qaeda militants in southern Yemen on Saturday, a local official said, nine days after U.S. President Barack Obama said he would only use such strikes when a threat was &quot;continuing and imminent&quot;.

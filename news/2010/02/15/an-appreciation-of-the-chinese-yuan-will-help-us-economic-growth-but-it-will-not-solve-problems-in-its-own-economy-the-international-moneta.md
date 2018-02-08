@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/02/15/an-appreciation-of-the-chinese-yuan-will-help-u
 
 ### [2010-02-15](/news/2010/02/15/index.md)
 
-##### yuan
+##### Yuan
 # An appreciation of the Chinese yuan will help US economic growth but it will not solve problems in its own economy, the International Monetary Fund (IMF) chief economist said Monday. 
 
 

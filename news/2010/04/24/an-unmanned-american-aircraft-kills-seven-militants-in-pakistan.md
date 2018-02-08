@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/04/24/an-unmanned-american-aircraft-kills-seven-milit
 
 ### [2010-04-24](/news/2010/04/24/index.md)
 
-##### drone
+##### Drone
 #  An unmanned American aircraft kills seven militants in Pakistan. 
 
 

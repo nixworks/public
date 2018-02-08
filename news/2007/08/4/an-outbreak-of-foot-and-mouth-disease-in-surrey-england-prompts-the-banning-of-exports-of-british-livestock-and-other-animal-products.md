@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/4/an-outbreak-of-foot-and-mouth-disease-in-surrey-
 
 ### [2007-08-4](/news/2007/08/4/index.md)
 
-##### outbreak of 2007
+##### Outbreak of 2007
 #  An outbreak of foot-and-mouth disease in Surrey, England prompts the banning of exports of British livestock and other animal products. 
 
 

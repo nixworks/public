@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/12/poland-extradites-israeli-citizen-and-suspected
 
 ### [2010-08-12](/news/2010/08/12/index.md)
 
-##### Poland
+##### Polish
 # Poland extradites Israeli citizen and suspected spy Uri Brodsky to Germany to face charges of being involved in the murder of Mahmoud al-Mabhouh in Dubai. 
 
 Poland extradites to Germany a suspected Israeli agent wanted in connection with the killing in Dubai of a Hamas commander, officials say.
@@ -17,8 +17,8 @@ Poland extradites to Germany a suspected Israeli agent wanted in connection with
 
 ### Related:
 
-1. [Germany allows suspected Israeli spy Uri Brodsky, connected of the murder of Mahmoud al-Mabhouh in Dubai, to go free after his recent extradition from Poland. ](/news/2010/08/13/germany-allows-suspected-israeli-spy-uri-brodsky-connected-of-the-murder-of-mahmoud-al-mabhouh-in-dubai-to-go-free-after-his-recent-extrad.md) _Context: Dubai, German, Israel, Mahmoud al-Mabhouh, Poland, Uri Brodsky, the murder_
+1. [Germany allows suspected Israeli spy Uri Brodsky, connected of the murder of Mahmoud al-Mabhouh in Dubai, to go free after his recent extradition from Poland. ](/news/2010/08/13/germany-allows-suspected-israeli-spy-uri-brodsky-connected-of-the-murder-of-mahmoud-al-mabhouh-in-dubai-to-go-free-after-his-recent-extrad.md) _Context: Dubai, German, Israel, Mahmoud al-Mabhouh, Polish, Uri Brodsky, the murder_
 2. [Officials in the United Arab Emirates express concern after Germany releases suspected Israeli spy Uri Brodsky, who has been linked with the murder of Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/14/officials-in-the-united-arab-emirates-express-concern-after-germany-releases-suspected-israeli-spy-uri-brodsky-who-has-been-linked-with-the.md) _Context: Dubai, German, Israel, Mahmoud al-Mabhouh, Uri Brodsky, the murder_
-3. [Poland detains a wanted man it says is the Israeli Mossad spy who used a German passport in the assassination of Mahmoud al-Mabhouh, while Germany seeks his extradition. ](/news/2010/06/12/poland-detains-a-wanted-man-it-says-is-the-israeli-mossad-spy-who-used-a-german-passport-in-the-assassination-of-mahmoud-al-mabhouh-while-g.md) _Context: German, Israel, Mahmoud al-Mabhouh, Poland, the murder_
-4. [A Polish appellate court upholds the decision of a lower court to extradite an alleged Mossad agent to Germany to face trial for forging a passport used in the slaying of Hamas commander Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/5/a-polish-appellate-court-upholds-the-decision-of-a-lower-court-to-extradite-an-alleged-mossad-agent-to-germany-to-face-trial-for-forging-a-p.md) _Context: Dubai, German, Mahmoud al-Mabhouh, Poland_
-5. [Israeli Uri Brodsky, suspected of assisting the assassination of Mahmoud al-Mabhouh in Dubai, is permitted to be extradited from Poland to Germany. ](/news/2010/07/7/israeli-uri-brodsky-suspected-of-assisting-the-assassination-of-mahmoud-al-mabhouh-in-dubai-is-permitted-to-be-extradited-from-poland-to-g.md) _Context: Dubai, German, Mahmoud al-Mabhouh, Poland_
+3. [Poland detains a wanted man it says is the Israeli Mossad spy who used a German passport in the assassination of Mahmoud al-Mabhouh, while Germany seeks his extradition. ](/news/2010/06/12/poland-detains-a-wanted-man-it-says-is-the-israeli-mossad-spy-who-used-a-german-passport-in-the-assassination-of-mahmoud-al-mabhouh-while-g.md) _Context: German, Israel, Mahmoud al-Mabhouh, Polish, the murder_
+4. [A Polish appellate court upholds the decision of a lower court to extradite an alleged Mossad agent to Germany to face trial for forging a passport used in the slaying of Hamas commander Mahmoud al-Mabhouh in Dubai. ](/news/2010/08/5/a-polish-appellate-court-upholds-the-decision-of-a-lower-court-to-extradite-an-alleged-mossad-agent-to-germany-to-face-trial-for-forging-a-p.md) _Context: Dubai, German, Mahmoud al-Mabhouh, Polish_
+5. [Israeli Uri Brodsky, suspected of assisting the assassination of Mahmoud al-Mabhouh in Dubai, is permitted to be extradited from Poland to Germany. ](/news/2010/07/7/israeli-uri-brodsky-suspected-of-assisting-the-assassination-of-mahmoud-al-mabhouh-in-dubai-is-permitted-to-be-extradited-from-poland-to-g.md) _Context: Dubai, German, Mahmoud al-Mabhouh, Polish_

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/12/13/the-death-toll-passes-6-000-officially-making-i
 
 ### [2013-12-13](/news/2013/12/13/index.md)
 
-##### typhoon
+##### Typhoon
 # The death toll passes 6,000, officially making it the deadliest recorded typhoon in the Philippines. 
 
 The death toll from Typhoon Haiyan that struck the central Philippines on Nov. 8 has passed 6,000 with nearly 1,800 people missing, officials said Friday.

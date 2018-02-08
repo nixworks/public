@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/06/27/thousands-of-protestors-from-the-national-unite
 
 ### [2009-06-27](/news/2009/06/27/index.md)
 
-##### red shirt
+##### Red shirt
 #  Thousands of protestors from the National United Front of Democracy Against Dictatorship call on the government to resign in Bangkok, Thailand. 
 
 

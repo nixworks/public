@@ -7,7 +7,7 @@ Formats: [HTML](2016/01/3/index.html)  [JSON](2016/01/3/index.json)  [XML](2016/
 ### [The Islamic State of Iraq and the Levant claims responsibility for a suicide bomb attack on a Iraqi Army base (Camp Speicher, now known as Tikrit Air Academy), near the town of Tikrit, north of Baghdad, that killed at least 15 and injured 22. ](/news/2016/01/3/the-islamic-state-of-iraq-and-the-levant-claims-responsibility-for-a-suicide-bomb-attack-on-a-iraqi-army-base-camp-speicher-now-known-as-t.md)
 Attacks by five suicide bombers on an Iraqi military base north of Baghdad on Sunday killed at least 15 members of the security forces and wounded 22 others, security sources said.
 
-##### terror-related
+##### Terror-related
 ### [Gunfire and loud explosions are heard at an Indian Air Force base in Pathankot, Punjab, as anti-terrorist operations continue. A further two militants, for a total of six, are reported to have been killed; seven military and paramilitary personnel are reported to have been killed, with up to 20 other security personnel wounded. ](/news/2016/01/3/gunfire-and-loud-explosions-are-heard-at-an-indian-air-force-base-in-pathankot-punjab-as-anti-terrorist-operations-continue-a-further-two.md)
 Pathankot terror attack: Operation continues for second day; PM Modi chairs high-level meeting - Operation continues even on Sunday
 

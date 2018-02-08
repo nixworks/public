@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/05/22/prime-minister-of-vietnam-nguya-n-taocnyn-da-c-
 
 ### [2014-05-22](/news/2014/05/22/index.md)
 
-##### prime minister
+##### Prime minister
 # Prime Minister of Vietnam Nguyen TCNYn Dung says that his government is considering legal action against China over an oil rig that was deployed in waters that Vietnam claims. 
 
 * Vietnam says will &quot;resolutely defend its sovereignty&quot;* China says Vietnam making &quot;irresponsible accusations&quot;against it* Philippines submit

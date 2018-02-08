@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/9/more-than-20-quarry-workers-are-buried-by-a-land
 
 ### [2011-05-9](/news/2011/05/9/index.md)
 
-##### quarry
+##### Quarry
 # More than 20 quarry workers are buried by a landslide in Luojiang near the Chinese resort city of Guilin. 
 
 

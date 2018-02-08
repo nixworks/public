@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/05/26/a-flash-flood-strikes-sao-paulo-brazil.html)  [
 
 ### [2005-05-26](/news/2005/05/26/index.md)
 
-##### flash flood
+##### Flash flood
 #  A flash flood strikes So Paulo, Brazil. 
 
 

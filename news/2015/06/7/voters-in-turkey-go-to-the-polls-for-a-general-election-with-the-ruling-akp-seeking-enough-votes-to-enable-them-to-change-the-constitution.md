@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/7/voters-in-turkey-go-to-the-polls-for-a-general-e
 
 ### [2015-06-7](/news/2015/06/7/index.md)
 
-##### election in June
+##### Election in June
 # Voters in Turkey go to the polls for a general election with the ruling AKP seeking enough votes to enable them to change the constitution. However, early projections show that they will lose their majority in the new parliament. 
 
 The election results represented a significant setback to President Recep Tayyip Erdogan, an Islamist who has steadily increased his power.

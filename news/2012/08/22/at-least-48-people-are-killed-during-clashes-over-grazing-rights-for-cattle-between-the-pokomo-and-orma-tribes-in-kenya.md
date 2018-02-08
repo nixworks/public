@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/22/at-least-48-people-are-killed-during-clashes-ov
 
 ### [2012-08-22](/news/2012/08/22/index.md)
 
-##### clashes
+##### Clashes
 # At least 48 people are killed during clashes, over grazing rights for cattle, between the Pokomo and Orma tribes in Kenya. 
 
 

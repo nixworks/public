@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/9/a-same-sex-marriage-demonstration-occurs-outside
 
 ### [2009-08-9](/news/2009/08/9/index.md)
 
-##### same-sex marriage
+##### Same-sex marriage
 #  A same-sex marriage demonstration occurs outside the Department of Justice, Equality and Law Reform in Dublin. 
 
 An estimated 5,000 same-sex marriage supporters have marched in Dublin to show their dissatisfaction with the proposed Civil Partnership Bill.

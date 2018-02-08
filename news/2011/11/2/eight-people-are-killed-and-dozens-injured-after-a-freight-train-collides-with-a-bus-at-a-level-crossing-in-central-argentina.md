@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/11/2/eight-people-are-killed-and-dozens-injured-after
 
 ### [2011-11-2](/news/2011/11/2/index.md)
 
-##### freight train
+##### Freight train
 # Eight people are killed and dozens injured after a freight train collides with a bus at a level crossing in central Argentina. 
 
 Six girls aged between 10 and 12 are among eight people killed in a level crossing accident in Argentina, where a freight train has slammed into a bus.

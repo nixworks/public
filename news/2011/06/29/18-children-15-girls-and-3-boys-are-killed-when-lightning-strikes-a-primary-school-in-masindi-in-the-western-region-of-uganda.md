@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/06/29/18-children-15-girls-and-3-boys-are-killed-when
 
 ### [2011-06-29](/news/2011/06/29/index.md)
 
-##### primary school
+##### Primary school
 # 18 children - 15 girls and 3 boys - are killed when lightning strikes a primary school in Masindi in the Western Region of Uganda. 
 
 Lightning strikes a primary school in western Uganda, killing at least 18 children and their teacher in a classroom, officials say.

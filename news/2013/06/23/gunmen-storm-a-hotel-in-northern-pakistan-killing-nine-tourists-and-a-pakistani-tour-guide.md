@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/23/gunmen-storm-a-hotel-in-northern-pakistan-killi
 
 ### [2013-06-23](/news/2013/06/23/index.md)
 
-##### storm a hotel
+##### Storm a hotel
 # Gunmen storm a hotel in Northern Pakistan, killing nine tourists and a Pakistani tour guide. 
 
 Gunmen reported to be from the Taliban kill 10 people, including at least nine foreign tourists, at a mountain base camp in northern Pakistan.

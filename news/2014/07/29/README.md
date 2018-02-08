@@ -25,9 +25,9 @@ The killing of President Hamid Karzai&rsquo;s cousin Hashmat by a Taliban suicid
 
 ##### Ukrainian Culture Ministry
 ### [The Ukrainian Culture Ministry decides not to issue distribution licenses for two Russian films: "The White Guard", and a film about Ukrainan-born Soviet wrestler Ivan Poddubny, as they "show contempt for the Ukrainian language, people and the state," and "some facts are distorted to benefit Russia." ](/news/2014/07/29/the-ukrainian-culture-ministry-decides-not-to-issue-distribution-licenses-for-two-russian-films-the-white-guard-and-a-film-about-ukraina.md)
-_Context: Ivan Poddubny, Ukrainian Culture Ministry, The White Guard_
+_Context: The White Guard, Ivan Poddubny, Ukrainian Culture Ministry_
 
-##### heatwave
+##### Heatwave
 ### [A heatwave in Japan has caused at least 15 deaths with more than 8000 hospitalised in the past week. ](/news/2014/07/29/a-heatwave-in-japan-has-caused-at-least-15-deaths-with-more-than-8000-hospitalised-in-the-past-week.md)
 Sweltering summer heat in Japan has left at least 15 people dead over the past week, while more than 8,000 others were rushed to hospital with heatstroke symptoms, official figures showed Tuesday. At least six people died on Saturday alone, when the state weather agency warned temperatures had toppe...
 
@@ -41,7 +41,7 @@ A West African airline halts flights to Liberia and Sierra Leone amid concern ab
 
 ##### Russia
 ### [Moscow describes Tokyo's decision to impose further sanctions on Russia in the wake of the downing of Malaysia Airlines Flight 17 as an "unfriendly step" that may harm "the entire system of relations" between Russia and Japan. ](/news/2014/07/29/moscow-describes-tokyo-s-decision-to-impose-further-sanctions-on-russia-in-the-wake-of-the-downing-of-malaysia-airlines-flight-17-as-an-unf.md)
-_Context: Russia, Japan, Malaysia Airlines Flight 17_
+_Context: Japan, Russia, Malaysia Airlines Flight 17_
 
 ##### European Union
 ### [The European Union and United States impose tougher sanctions against Russia over the Ukraine crisis. ](/news/2014/07/29/the-european-union-and-united-states-impose-tougher-sanctions-against-russia-over-the-ukraine-crisis.md)

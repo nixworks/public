@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/02/15/a-man-is-killed-after-a-monster-wave-strikes-th
 
 ### [2014-02-15](/news/2014/02/15/index.md)
 
-##### monster wave
+##### Monster wave
 # A man is killed after a monster wave strikes the "Marco Polo" cruise ship in the English Channel. 
 
 A passenger on a cruise ship has been killed in the English Channel and another airlifted to shore after their vessel was hit by a freak wave on Friday.

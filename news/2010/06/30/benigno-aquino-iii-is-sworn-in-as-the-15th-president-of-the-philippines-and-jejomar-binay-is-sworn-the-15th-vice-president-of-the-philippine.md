@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/30/benigno-aquino-iii-is-sworn-in-as-the-15th-pres
 
 ### [2010-06-30](/news/2010/06/30/index.md)
 
-##### his predecessor
+##### His predecessor
 # Benigno Aquino III is sworn in as the 15th President of the Philippines and Jejomar Binay is sworn the 15th Vice President of the Philippines.
 
 

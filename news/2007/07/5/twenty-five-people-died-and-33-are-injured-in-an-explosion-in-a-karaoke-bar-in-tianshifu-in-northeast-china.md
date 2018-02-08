@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/5/twenty-five-people-died-and-33-are-injured-in-an
 
 ### [2007-07-5](/news/2007/07/5/index.md)
 
-##### karaoke
+##### Karaoke
 #  Twenty-five people died and 33 are injured in an explosion in a karaoke bar in Tianshifu in northeast China. 
 
 Twenty-five people were killed and 33 injured in an explosion at a karaoke bar in north-east China, the official Xinhua news agency said.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/01/11/the-people-s-republic-of-china-conducts-a-land-
 
 ### [2010-01-11](/news/2010/01/11/index.md)
 
-##### anti-ballistic missile test
+##### Anti-ballistic missile test
 # The People's Republic of China conducts a land-based high-altitude anti-ballistic missile test. 
 
 

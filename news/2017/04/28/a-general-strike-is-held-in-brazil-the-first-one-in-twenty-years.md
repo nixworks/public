@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/28/a-general-strike-is-held-in-brazil-the-first-on
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
-##### general strike
+##### General strike
 # A general strike is held in Brazil, the first one in twenty years. 
 
 

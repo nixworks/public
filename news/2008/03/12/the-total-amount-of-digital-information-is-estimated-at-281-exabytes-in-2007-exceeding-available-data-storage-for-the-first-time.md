@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/12/the-total-amount-of-digital-information-is-esti
 
 ### [2008-03-12](/news/2008/03/12/index.md)
 
-##### digital information
+##### Digital information
 #  The total amount of digital information is estimated at 281 exabytes in 2007, exceeding available data storage for the first time. 
 
 

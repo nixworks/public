@@ -13,7 +13,7 @@ Prime Minister Julia Gillard says Australia will withdraw its troops from Afghan
 
 ##### Palestinian inmates held in Israeli jails
 ### [Palestinian inmates held in Israeli jails from Hamas, Islamic Jihad, the PFLP and the DFLP go on hunger strike on the Palestinian "Prisoners' Day". Thousands of people rally in towns and cities in both the West Bank and the Gaza Strip in support of their action, waving Palestinian flags and displaying photos of imprisoned relatives. ](/news/2012/04/17/palestinian-inmates-held-in-israeli-jails-from-hamas-islamic-jihad-the-pflp-and-the-dflp-go-on-hunger-strike-on-the-palestinian-prisoners.md)
-_Context: West Bank, hunger strike, Palestinian inmates held in Israeli jails, DFLP, Hamas, PFLP, Hamas, Gaza Strip_
+_Context: Gaza Strip, Hamas, PFLP, West Bank, hunger strike, Palestinian inmates held in Israeli jails, Hamas, DFLP_
 
 ##### Hezbollah
 ### [Hezbollah leader Hassan Nasrallah announces that Hezbollah are willing to mediate between the Syrian government and the opposition, in his first interview with the West in six years, in the first episode of a new interview show "The World Tomorrow", hosted by Julian Assange. ](/news/2012/04/17/hezbollah-leader-hassan-nasrallah-announces-that-hezbollah-are-willing-to-mediate-between-the-syrian-government-and-the-opposition-in-his-f.md)
@@ -33,7 +33,7 @@ Adele, Kate Bush and PJ Harvey will battle it out for best album at the Ivor Nov
 
 ##### Orange Prize for Fiction
 ### [The shortlist for the Orange Prize for Fiction is announced, featuring Ann Patchett and Anne Enright. ](/news/2012/04/17/the-shortlist-for-the-orange-prize-for-fiction-is-announced-featuring-ann-patchett-and-anne-enright.md)
-_Context: Ann Patchett, Orange Prize for Fiction, Anne Enright_
+_Context: Anne Enright, Ann Patchett, Orange Prize for Fiction_
 
 ##### St Cuthbert Gospel
 ### [The St Cuthbert Gospel, the oldest intact European book, is to stay on UK territory due to the GBP9 million raised for purchase by the British Library. ](/news/2012/04/17/the-st-cuthbert-gospel-the-oldest-intact-european-book-is-to-stay-on-uk-territory-due-to-the-agbp9-million-raised-for-purchase-by-the-brit.md)
@@ -47,7 +47,7 @@ Billionaire investor Warren Buffett says he has been diagnosed with stage one pr
 ### [Apple Inc. and Samsung Electronics both agree to settlement talks over pending smartphone related patent litigation. These talks have come about at the urging of U.S. District Court Judge Lucy Koh. ](/news/2012/04/17/apple-inc-and-samsung-electronics-both-agree-to-settlement-talks-over-pending-smartphone-related-patent-litigation-these-talks-have-come-a.md)
 Apple Inc and Samsung Electronics Co Ltd agreed that their chief executives would participate in settlement talks to try to resolve a patent lawsuit over smartphone and tablet technology, according to a court filing.
 
-##### mass attack
+##### Mass attack
 ### [Port Said Stadium disaster: A hearing of 73 men accused of involvement in the killing of 79 people is adjourned until May 5. ](/news/2012/04/17/port-said-stadium-disaster-a-hearing-of-73-men-accused-of-involvement-in-the-killing-of-79-people-is-adjourned-until-may-5.md)
 Hearing of 73 men accused of involvement in football violence that killed more than 70 people adjourned until May 5.
 
@@ -65,7 +65,7 @@ West African nation barred from regional bloc a week after military leaders seiz
 
 ##### Mali
 ### [Mali appoints Cheick Modibo Diarra, Microsoft chairman for Africa and a former NASA astrophysicist, as its interim prime minister after a coup d'etat. ](/news/2012/04/17/mali-appoints-cheick-modibo-diarra-microsoft-chairman-for-africa-and-a-former-nasa-astrophysicist-as-its-interim-prime-minister-after-a-co.md)
-_Context: Mali's coup, Microsoft, Cheick Modibo Diarra, NASA, Mali_
+_Context: Cheick Modibo Diarra, Mali, Microsoft, Mali's coup, NASA_
 
 ##### Israeli Prime Minister
 ### [Israeli Prime Minister Benjamin Netanyahu receives a Palestinian delegation delivering a letter from Palestinian Authority President Mahmoud Abbas detailing his demands for restarting peace talks after previous negotiations on a two-state solution stalled. ](/news/2012/04/17/israeli-prime-minister-benjamin-netanyahu-receives-a-palestinian-delegation-delivering-a-letter-from-palestinian-authority-president-mahmoud.md)

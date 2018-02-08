@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/21/in-the-debate-on-cosmogony-physical-review-publ
 
 ### [2012-08-21](/news/2012/08/21/index.md)
 
-##### cosmogony
+##### Cosmogony
 # In the debate on cosmogony, "Physical Review" publishes a study describing the Big Bang, 13.7 billion years ago, as actually a phase change ruled by event symmetry, possibly explaining better how our well-known spacetime could originate from original matter. 
 
 Physicists say the Big Bang was a phase change, like water freezing into ice, rather than an explosion. The theory could have big implications.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/05/19/a-suicide-bombing-at-a-police-checkpoint-in-the
 
 ### [2012-05-19](/news/2012/05/19/index.md)
 
-##### suicide bombing
+##### Suicide bombing
 # A suicide bombing at a police checkpoint in the eastern Afghan province of Khost kills 10 people, including a number of police officers. 
 
 A suicide bomber kills at least 10 people, a number of them children, at a checkpoint in the eastern Afghan province of Khost, officials say.

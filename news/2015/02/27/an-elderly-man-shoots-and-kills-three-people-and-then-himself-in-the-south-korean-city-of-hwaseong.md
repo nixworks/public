@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/27/an-elderly-man-shoots-and-kills-three-people-an
 
 ### [2015-02-27](/news/2015/02/27/index.md)
 
-##### shoots and kills
+##### Shoots and kills
 # An elderly man shoots and kills three people and then himself in the South Korean city of Hwaseong. 
 
  Four people were dead on Friday after a gunman armed with a hunting rifle opened fire inside a home in this city south of Seoul, authorities said.

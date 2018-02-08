@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/27/fourteen-police-and-41-militants-are-killed-in-
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
-##### police
+##### Police
 # Fourteen police and 41 militants are killed in clashes in western Uganda, leading to the arrest of tribal Rwenzururu king Charles Mumbere. 
 
 Police storm a palace and arrest a traditional king in Uganda over clashes that have left 55 dead.

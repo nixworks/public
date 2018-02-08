@@ -7,13 +7,13 @@ Formats: [HTML](2015/07/25/index.html)  [JSON](2015/07/25/index.json)  [XML](201
 ### [The Saudi-led military coalition announces that a 5-day humanitarian ceasefire has been agreed to, set to begin just before midnight Sunday. ](/news/2015/07/25/the-saudi-led-military-coalition-announces-that-a-5-day-humanitarian-ceasefire-has-been-agreed-to-set-to-begin-just-before-midnight-sunday.md)
 A Saudi-led military coalition announced a five-day humanitarian cease-fire in Yemen, where it has been carrying out a campaign of airstrikes against the country’s Iran-backed Houthi rebels since March.
 
-##### suicide bombing
+##### Suicide bombing
 ### [Two suicide bombings at a swimming pool in northern Iraq kill at least 12 people. ](/news/2015/07/25/two-suicide-bombings-at-a-swimming-pool-in-northern-iraq-kill-at-least-12-people.md)
-_Context: suicide bombing, Iraq, swimming pool_
+_Context: swimming pool, suicide bombing, Iraq_
 
 ##### Chris Brown
 ### [Chris Brown leaves the Philippines after he is prevented from leaving for four days due to a financial dispute between Brown and the Christian sect Iglesia ni Cristo. ](/news/2015/07/25/chris-brown-leaves-the-philippines-after-he-is-prevented-from-leaving-for-four-days-due-to-a-financial-dispute-between-brown-and-the-christi.md)
-_Context: Iglesia ni Cristo, Philippines, Chris Brown_
+_Context: Philippines, Chris Brown, Iglesia ni Cristo_
 
 ##### France
 ### [A large fire 12 mi west of the French city of Bordeaux ravages more than 350 ha of forest. ](/news/2015/07/25/a-large-fire-12-mi-west-of-the-french-city-of-bordeaux-ravages-more-than-350-ha-of-forest.md)

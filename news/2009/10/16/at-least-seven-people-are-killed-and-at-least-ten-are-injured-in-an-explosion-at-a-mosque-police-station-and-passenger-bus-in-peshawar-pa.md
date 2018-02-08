@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/16/at-least-seven-people-are-killed-and-at-least-t
 
 ### [2009-10-16](/news/2009/10/16/index.md)
 
-##### mosque
+##### Mosque
 #  At least seven people are killed and at least ten are injured in an explosion at a mosque, police station and passenger bus in Peshawar, Pakistan. 
 
 12 people have died after a twin suicide attack tore through a police compound in Pakistan.

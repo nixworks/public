@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/1/at-least-8-people-are-killed-and-36-injured-when
 
 ### [2012-12-1](/news/2012/12/1/index.md)
 
-##### bus
+##### Bus
 # At least 8 people are killed and 36 injured when a passenger bus overturns on the highway between the cities of Sucre and Potosi in southern Bolivia. 
 
 

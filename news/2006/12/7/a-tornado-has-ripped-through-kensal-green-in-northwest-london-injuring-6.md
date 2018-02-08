@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/12/7/a-tornado-has-ripped-through-kensal-green-in-nor
 
 ### [2006-12-7](/news/2006/12/7/index.md)
 
-##### tornado
+##### Tornado
 #  A tornado has ripped through Kensal Green in northwest London, injuring 6.
 
 News and opinion from The Times &amp; The Sunday Times

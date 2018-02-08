@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/05/26/the-chief-rabbi-of-a-west-bank-settlement-decla
 
 ### [2010-05-26](/news/2010/05/26/index.md)
 
-##### chief rabbi
+##### Chief rabbi
 # The chief rabbi of a West Bank settlement declares that women should be prohibited from standing in a local community election. 
 
 The chief rabbi of a West Bank settlement prohibits women from standing in a local election, saying they must be heard through their husbands.

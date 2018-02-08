@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/4/after-counting-special-votes-from-the-20-septemb
 
 ### [2014-10-4](/news/2014/10/4/index.md)
 
-##### special vote
+##### Special vote
 # After counting special votes from the 20 September New Zealand general election, the National Party loses its one-seat majority after losing a seat to the Green Party. With the support of ACT and United Future, National still forms a government, albeit a minority government. 
 
 

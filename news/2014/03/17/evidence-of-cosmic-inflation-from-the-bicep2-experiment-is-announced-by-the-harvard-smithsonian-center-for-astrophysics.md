@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/03/17/evidence-of-cosmic-inflation-from-the-bicep2-ex
 
 ### [2014-03-17](/news/2014/03/17/index.md)
 
-##### cosmic inflation
+##### Cosmic inflation
 # Evidence of cosmic inflation from the BICEP2 experiment is announced by the Harvard-Smithsonian Center for Astrophysics. 
 
 Scientists say they have found a signal left in the sky by the super-rapid expansion of space that occurred fractions of a second after the Big Bang.

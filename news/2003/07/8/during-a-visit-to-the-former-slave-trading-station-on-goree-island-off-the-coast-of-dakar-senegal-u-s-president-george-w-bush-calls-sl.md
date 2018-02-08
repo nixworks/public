@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/07/8/during-a-visit-to-the-former-slave-trading-stati
 
 ### [2003-07-8](/news/2003/07/8/index.md)
 
-##### slavery
+##### Slavery
 #  During a visit to the former slave-trading station on Goree Island, off the coast of Dakar, Senegal, U.S. President George W. Bush calls slavery "one of the greatest crimes of history", but stops short of an official apology. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/25/about-700-anti-nuclear-activists-hold-a-die-in-
 
 ### [2011-04-25](/news/2011/04/25/index.md)
 
-##### die-in
+##### Die-in
 # About 700 anti-nuclear activists hold a die-in on the border of France and Germany to mark the 25th anniversary of the Chernobyl disaster and after the Fukushima I nuclear accidents in Japan. 
 
 Around 700 anti-nuclear protesters staged a &#034;die in&#034; on a bridge on the Franco-German border on Monday, on the eve of the 25th anniversary of Chernobyl and after Japan&#039;s Fukushima nuclear accident.

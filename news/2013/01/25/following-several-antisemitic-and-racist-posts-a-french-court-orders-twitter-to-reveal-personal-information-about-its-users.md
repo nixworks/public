@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/25/following-several-antisemitic-and-racist-posts-
 
 ### [2013-01-25](/news/2013/01/25/index.md)
 
-##### antisemitic
+##### Antisemitic
 # Following several antisemitic and racist posts, a French court orders Twitter to reveal personal information about its users. 
 
 In yet another struggle over speech on the Internet, a French court told Twitter to identify people who had posted anti-Semitic and racist entries on the social network.

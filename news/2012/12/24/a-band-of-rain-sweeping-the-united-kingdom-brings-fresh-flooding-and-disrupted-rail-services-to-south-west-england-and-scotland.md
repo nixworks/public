@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/24/a-band-of-rain-sweeping-the-united-kingdom-brin
 
 ### [2012-12-24](/news/2012/12/24/index.md)
 
-##### rain
+##### Rain
 # A band of rain sweeping the United Kingdom brings fresh flooding and disrupted rail services to south-west England and Scotland. 
 
 A band of rain sweeping the UK brings fresh flooding to south-west England and Scotland, with train services disrupted.

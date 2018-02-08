@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/29/national-guard-troops-are-deployed-to-reach-stu
 
 ### [2014-01-29](/news/2014/01/29/index.md)
 
-##### ice
+##### Ice
 # National Guard troops are deployed to reach students stranded overnight on buses after ice and snow cause widespread traffic chaos in Atlanta, Georgia.
 
 

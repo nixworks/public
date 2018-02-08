@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/6/possession-of-marijuana-for-personal-use-of-peop
 
 ### [2012-12-6](/news/2012/12/6/index.md)
 
-##### marijuana
+##### Marijuana
 # Possession of marijuana for personal use of people aged over 21 becomes legal according to state law in the US state of Washington. 
 
 

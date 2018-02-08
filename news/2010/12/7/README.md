@@ -3,9 +3,9 @@ Formats: [HTML](2010/12/7/index.html)  [JSON](2010/12/7/index.json)  [XML](2010/
 
 ## [2010-12-7](/news/2010/12/7/index.md)
 
-##### bomb blast
+##### Bomb blast
 ### [One child is killed and 20 people are injured in a bomb blast at a temple in Varanasi, northern India. ](/news/2010/12/7/one-child-is-killed-and-20-people-are-injured-in-a-bomb-blast-at-a-temple-in-varanasi-northern-india.md)
-_Context: India, Varanasi, bomb blast_
+_Context: Varanasi, bomb blast, India_
 
 ##### John James Audubon
 ### [A copy of John James Audubon's "Birds of America" is sold at auction in London for a record GBP7.3 million ($10.3 million). ](/news/2010/12/7/a-copy-of-john-james-audubon-s-birds-of-america-is-sold-at-auction-in-london-for-a-record-agbp7-3-million-10-3-million.md)
@@ -15,7 +15,7 @@ A new record was set for the world&#039;s most expensive printed book at an auct
 ### [Irish Finance Minister Brian Lenihan, Jnr hands down the hardest budget in the country's history. ](/news/2010/12/7/irish-finance-minister-brian-lenihan-jnr-hands-down-the-hardest-budget-in-the-country-s-history.md)
 The High Court has ordered the release of a man who was placed in custody this morning following a protest outside Leinster House.
 
-##### insider trading
+##### Insider trading
 ### [U.S. authorities expand their investigation into insider trading among hedge funds and their service providers. John Kinnucan, an independent researcher for hedge funds, told Reuters that he expects the Federal Bureau of Investigation will at some point arrest him, "That's just how they operate." ](/news/2010/12/7/u-s-authorities-expand-their-investigation-into-insider-trading-among-hedge-funds-and-their-service-providers-john-kinnucan-an-independen.md)
 * US sends more than 12 subpoenas to hedge funds, others * Recipients may include more names on Kinnucan email * Probe focuses on use of e
 
@@ -53,7 +53,7 @@ The U.S. and Other Governments Are Attempting to Bring Down WikiLeaks and Its Fo
 
 ##### U.S.
 ### [A U.S. judge dismisses a lawsuit over the U.S. government putting American citizens on "capture or kill" lists. ](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.md)
-_Context: U.S., lawsuit,  "capture or kill"_
+_Context: lawsuit,  "capture or kill", U.S._
 
 ##### Egyptian parliamentary elections
 ### [Results from the parliamentary election in Egypt indicate the ruling National Democratic Party has won 80% of seats. ](/news/2010/12/7/results-from-the-parliamentary-election-in-egypt-indicate-the-ruling-national-democratic-party-has-won-80-of-seats.md)
@@ -61,7 +61,7 @@ Results indicate ruling party takes 80 per cent of parliament seats, which the o
 
 ##### Haitian general election, 2010-2011
 ### [The Haitian presidential election will go to the second round run-off between former first lady Mirlande Manigat and Jude Celestin from the governing Unity Party. ](/news/2010/12/7/the-haitian-presidential-election-will-go-to-the-second-round-run-off-between-former-first-lady-mirlande-manigat-and-jude-celestin-from-the.md)
-_Context: Mirlande Manigat, Haitian general election, 2010-2011, Jude Celestin_
+_Context: Jude Celestin, Haitian general election, 2010-2011, Mirlande Manigat_
 
 ##### Elizabeth Edwards
 ### [Attorney, author, and activist Elizabeth Edwards dies of cancer. ](/news/2010/12/7/attorney-author-and-activist-elizabeth-edwards-dies-of-cancer.md)

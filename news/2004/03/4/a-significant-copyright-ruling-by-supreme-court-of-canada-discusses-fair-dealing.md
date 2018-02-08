@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/4/a-significant-copyright-ruling-by-supreme-court-
 
 ### [2004-03-4](/news/2004/03/4/index.md)
 
-##### copyright
+##### Copyright
 #  A significant copyright ruling by Supreme Court of Canada discusses fair dealing. 
 
 

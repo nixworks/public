@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/2/two-climbers-from-an-international-expedition-pe
 
 ### [2008-08-2](/news/2008/08/2/index.md)
 
-##### scale
+##### Scale
 #  Two climbers from an international expedition perish after ice fall on K2 mountain in the Himalayas, and six members of the team have gone missing. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/09/5/a-hunter-is-blamed-for-starting-the-rim-fire-nea
 
 ### [2013-09-5](/news/2013/09/5/index.md)
 
-##### hunter
+##### Hunter
 # A hunter is blamed for starting the Rim Fire near Yosemite National Park. 
 
 

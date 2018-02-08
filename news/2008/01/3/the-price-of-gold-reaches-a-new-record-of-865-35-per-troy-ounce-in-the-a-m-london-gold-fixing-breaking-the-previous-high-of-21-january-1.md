@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/3/the-price-of-gold-reaches-a-new-record-of-865-35
 
 ### [2008-01-3](/news/2008/01/3/index.md)
 
-##### gold
+##### Gold
 #  The price of gold reaches a new record of $865.35 per troy ounce in the a.m. London Gold Fixing, breaking the previous high of 21 January 1980. 
 
 

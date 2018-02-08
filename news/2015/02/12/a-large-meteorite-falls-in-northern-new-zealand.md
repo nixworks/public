@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/02/12/a-large-meteorite-falls-in-northern-new-zealand
 
 ### [2015-02-12](/news/2015/02/12/index.md)
 
-##### meteorite
+##### Meteorite
 # A large meteorite falls in northern New Zealand. 
 
 Dash cams all over New Zealand are proving to be useful after at least two cams captured an astrological incident of a lifetime.

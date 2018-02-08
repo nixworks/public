@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/09/8/eight-people-are-missing-and-at-least-fifty-four
 
 ### [2010-09-8](/news/2010/09/8/index.md)
 
-##### wildfire
+##### Wildfire
 # Eight people are missing and at least fifty-four houses are destroyed in a wildfire burning west of Boulder, Colorado, in the United States. 
 
 

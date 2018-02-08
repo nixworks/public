@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/2/a-large-oil-spill-occurs-in-langesund-norway-aft
 
 ### [2009-08-2](/news/2009/08/2/index.md)
 
-##### oil spill
+##### Oil spill
 #  A large oil spill occurs in Langesund, Norway, after a Chinese ship, the "Full City", drifted aground. 
 
 

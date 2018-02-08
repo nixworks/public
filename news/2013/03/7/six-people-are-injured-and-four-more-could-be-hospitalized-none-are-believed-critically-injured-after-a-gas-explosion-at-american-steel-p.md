@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/03/7/six-people-are-injured-and-four-more-could-be-ho
 
 ### [2013-03-7](/news/2013/03/7/index.md)
 
-##### gas explosion
+##### Gas explosion
 # Six people are injured and four more could be hospitalized (none are believed critically injured) after a gas explosion at American Steel (part of Amsted Rail Co.), in the Greater St. Louis Metro East suburb of Granite City, Illinois. 
 
 Gas ignited at the plant, according to fire official.

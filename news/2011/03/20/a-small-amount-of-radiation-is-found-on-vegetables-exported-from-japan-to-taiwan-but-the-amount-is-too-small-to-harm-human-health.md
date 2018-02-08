@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/20/a-small-amount-of-radiation-is-found-on-vegetab
 
 ### [2011-03-20](/news/2011/03/20/index.md)
 
-##### radiation
+##### Radiation
 # A small amount of radiation is found on vegetables exported from Japan to Taiwan but the amount is too small to harm human health. 
 
 

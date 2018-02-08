@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/5/global-financial-crisis-of-2008-the-united-state
 
 ### [2008-12-5](/news/2008/12/5/index.md)
 
-##### financial crisis
+##### Financial crisis
 #  Global financial crisis of 2008: the United States Department of Labor reports that nonfarm payrolls contracted by 533,000 in November, the worst monthly job loss since 1974. 
 
 

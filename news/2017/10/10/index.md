@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/10/index.html)  [JSON](2017/10/10/index.json)  [XML](201
 
 ##### 2017 North Korea crisis
 ### [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md)
-_Context: 2017 North Korea crisis, South Korea, hackers, North Korea_
+_Context: 2017 North Korea crisis, South Korea, North Korea, hackers_
 
 ##### Economy of the United States
 ### [Multinational U.S. conglomerate Honeywell announces plans to spinoff its Homes, ADI Global Distribution, and Transportation Systems businesses into two separate, publicly-traded companies by the end of 2018. ](/news/2017/10/10/multinational-u-s-conglomerate-honeywell-announces-plans-to-spinoff-its-homes-adi-global-distribution-and-transportation-systems-business.md)
@@ -27,7 +27,7 @@ A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compr
 ### [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md)
 At least 13 people were killed when a fight broke out in a prison in the northern Mexican state of Nuevo Leon and security troops were sent in to quell the violence, a state security official said on Tuesday.
 
-##### allegation
+##### Allegation
 ### [A report by Ronan Farrow published in "The New Yorker" alleges that Weinstein had sexually assaulted or harassed 13 women, and raped three of them. ](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-yorker-alleges-that-weinstein-had-sexually-assaulted-or-harassed-13-women-and-raped-three-o.md)
 &quot;They thought remaining silent could jeopardize the next woman,&quot; Farrow said.
 

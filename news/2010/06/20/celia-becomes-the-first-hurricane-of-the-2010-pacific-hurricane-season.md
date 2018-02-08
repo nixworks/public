@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-p
 
 ### [2010-06-20](/news/2010/06/20/index.md)
 
-##### hurricane
+##### Hurricane
 # Celia becomes the first hurricane of the 2010 Pacific hurricane season. 
 
 

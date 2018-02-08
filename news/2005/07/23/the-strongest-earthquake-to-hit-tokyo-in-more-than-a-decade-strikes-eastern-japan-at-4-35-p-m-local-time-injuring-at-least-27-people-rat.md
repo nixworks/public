@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/23/the-strongest-earthquake-to-hit-tokyo-in-more-t
 
 ### [2005-07-23](/news/2005/07/23/index.md)
 
-##### earthquake
+##### Earthquake
 #  The strongest earthquake to hit Tokyo in more than a decade strikes eastern Japan at 4:35 p.m. local time, injuring at least 27 people, rattling buildings and disrupting train and plane services. 
 
 An earthquake with a magnitude of 6.0 shook eastern Japan, rattling buildings in Tokyo and disrupting train services.

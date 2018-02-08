@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/27/the-death-toll-from-flash-floods-in-the-philipp
 
 ### [2011-12-27](/news/2011/12/27/index.md)
 
-##### flash flood
+##### Flash flood
 # The death toll from flash floods in the Philippines caused by Tropical Storm Washi reaches 1,500 per some sources, but the National Disaster Risk Reduction and Management Council currently puts the number lower.
 
 The death toll from flash floods that swept away entire villages in the southern Philippines has climbed to nearly 1500, as authorities widen their search for bodies.

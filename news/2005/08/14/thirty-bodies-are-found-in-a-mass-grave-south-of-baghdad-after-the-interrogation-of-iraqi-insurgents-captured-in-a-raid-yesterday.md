@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/08/14/thirty-bodies-are-found-in-a-mass-grave-south-o
 
 ### [2005-08-14](/news/2005/08/14/index.md)
 
-##### mass grave
+##### Mass grave
 #  Thirty bodies are found in a mass grave south of Baghdad after the interrogation of Iraqi insurgents captured in a raid yesterday. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com

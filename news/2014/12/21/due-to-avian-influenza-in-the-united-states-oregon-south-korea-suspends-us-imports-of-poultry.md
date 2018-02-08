@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/12/21/due-to-avian-influenza-in-the-united-states-ore
 
 ### [2014-12-21](/news/2014/12/21/index.md)
 
-##### avian influenza
+##### Avian influenza
 # Due to avian influenza in the United States (Oregon), South Korea suspends US imports of poultry. 
 
 South Korea has suspended imports of US poultry and poultry products because of an outbreak of bird flu in the United States, the agriculture ministry said in a statement on Sunday.

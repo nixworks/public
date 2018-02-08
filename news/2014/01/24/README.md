@@ -3,7 +3,7 @@ Formats: [HTML](2014/01/24/index.html)  [JSON](2014/01/24/index.json)  [XML](201
 
 ## [2014-01-24](/news/2014/01/24/index.md)
 
-##### explode
+##### Explode
 ### [Three bombs explode in the Egyptian capital, Cairo, killing about five people. ](/news/2014/01/24/three-bombs-explode-in-the-egyptian-capital-cairo-killing-about-five-people.md)
 Six people are killed and some 100 others wounded as militants step up attacks against the authorities with a series of explosions across Cairo.
 

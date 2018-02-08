@@ -25,9 +25,9 @@ At least 39 people die as a bus transporting Hindu pilgrims from India swerves o
 
 ##### Hand, foot and mouth disease
 ### [Hand, foot and mouth disease kills 149 people in Hunan, China. ](/news/2012/07/15/hand-foot-and-mouth-disease-kills-149-people-in-hunan-china.md)
-_Context: Hunan, China, Hand, foot and mouth disease_
+_Context: China, Hunan, Hand, foot and mouth disease_
 
-##### tornado
+##### Tornado
 ### [One person is killed and ten are injured by a tornado in north west Poland ](/news/2012/07/15/one-person-is-killed-and-ten-are-injured-by-a-tornado-in-north-west-poland.md)
 One person died and 10 were wounded as heavy storms swept through the north-western part of Poland on Saturday evening.
 
@@ -49,7 +49,7 @@ The African Union breaks months of deadlock over its choice of leader, electing 
 
 ##### US Secretary of State
 ### [Egyptian protesters throw tomatoes and shoes at US Secretary of State Hillary Clinton's motorcade during her first visit to the country since the election of President Mohamed Morsi. ](/news/2012/07/15/egyptian-protesters-throw-tomatoes-and-shoes-at-us-secretary-of-state-hillary-clinton-s-motorcade-during-her-first-visit-to-the-country-sinc.md)
-_Context: US Secretary of State, Hillary Clinton, Mohamed Morsi_
+_Context: US Secretary of State, Mohamed Morsi, Hillary Clinton_
 
 ##### Jason Kidd
 ### [Jason Kidd is arrested by Southampton Town police for alleged drunken driving. ](/news/2012/07/15/jason-kidd-is-arrested-by-southampton-town-police-for-alleged-drunken-driving.md)
@@ -57,7 +57,7 @@ Jason Kidd was reportedly arrested early Sunday morning for alleged drunken driv
 
 ##### Israelis
 ### [Hundreds of Israeli protesters gather in Tel Aviv, Jerusalem, Haifa and Beersheba to show their solidarity with the man who self immolated on 14 July 2012. ](/news/2012/07/15/hundreds-of-israeli-protesters-gather-in-tel-aviv-jerusalem-haifa-and-beersheba-to-show-their-solidarity-with-the-man-who-self-immolated-o.md)
-_Context: Tel Aviv, Jerusalem, Israelis, Beersheba, Haifa_
+_Context: Tel Aviv, Israelis, Haifa, Beersheba, Jerusalem_
 
 ##### Soyuz rocket
 ### [A Russian Soyuz rocket begins its mission to the International Space Station with three international crew members. ](/news/2012/07/15/a-russian-soyuz-rocket-begins-its-mission-to-the-international-space-station-with-three-international-crew-members.md)

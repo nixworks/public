@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonst
 
 ### [2005-07-26](/news/2005/07/26/index.md)
 
-##### protest
+##### Protest
 #  At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. 
 
 

@@ -9,7 +9,7 @@ Fighting rages in Libya between Islamic State fighters and a militia alliance fr
 
 ##### United States
 ### [The United States embassy and consulates in Saudi Arabia close for Sunday and Monday due to heightened security concerns.](/news/2015/03/15/the-united-states-embassy-and-consulates-in-saudi-arabia-close-for-sunday-and-monday-due-to-heightened-security-concerns.md)
-_Context: United States, Saudi Arabia_
+_Context: Saudi Arabia, United States_
 
 ##### Tehreek-i-Taliban Pakistan
 ### [Two suicide bombers belonging to the Tehreek-i-Taliban Pakistan splinter group Jamaat-ul-Ahrar blow themselves up in twin bomb attacks on two churches in the Pakistani city of Lahore, killing at least fourteen people with 70 more injured. ](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.md)
@@ -23,7 +23,7 @@ Government says there are fears of widespread destruction and heavy loss of life
 ### [A car crash kills South African Minister of Public Service and Administration Collins Chabane. ](/news/2015/03/15/a-car-crash-kills-south-african-minister-of-public-service-and-administration-collins-chabane.md)
 Minister of Public Service and Administration Collins Chabane has died in a car crash, the Presidency has confirmed. 
 
-##### northern India
+##### Northern India
 ### [Rainstorms hit northern India, resulting in fourteen deaths and widespread damage to crops. ](/news/2015/03/15/rainstorms-hit-northern-india-resulting-in-fourteen-deaths-and-widespread-damage-to-crops.md)
 Widespread rains battered large swathes of North India on Sunday bringing mercury down by several notches, even as it claimed 14 lives and damaged crops in several regions.
 
@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### National Assembly
 ### [The National Assembly of Venezuela grants President Nicolas Maduro the power to legislate by decree for nine months. ](/news/2015/03/15/the-national-assembly-of-venezuela-grants-president-nicola-s-maduro-the-power-to-legislate-by-decree-for-nine-months.md)
-_Context: decree, Nicolas Maduro, National Assembly, Venezuela, President_
+_Context: decree, National Assembly, Venezuela, President, Nicolas Maduro_
 
 ## [Previous Day...](/news/2015/03/14/index.md)
 

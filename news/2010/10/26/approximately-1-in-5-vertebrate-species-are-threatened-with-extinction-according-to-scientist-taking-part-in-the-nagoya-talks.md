@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/26/approximately-1-in-5-vertebrate-species-are-thr
 
 ### [2010-10-26](/news/2010/10/26/index.md)
 
-##### vertebrate
+##### Vertebrate
 # Approximately 1 in 5 vertebrate species are threatened with extinction according to scientist taking part in the Nagoya talks.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/01/26/forty-people-are-killed-when-a-riverboat-sinks-
 
 ### [2009-01-26](/news/2009/01/26/index.md)
 
-##### riverboat
+##### Riverboat
 #  Forty people are killed when a riverboat sinks in central Vietnam. 
 
 

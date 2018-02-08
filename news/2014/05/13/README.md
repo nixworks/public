@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/13/index.html)  [JSON](2014/05/13/index.json)  [XML](201
 
 ##### Valery Bolotov
 ### [Valery Bolotov, a leader of the separatist movement in the eastern city of Luhansk, is wounded in an assassination attempt by an unknown assailant. ](/news/2014/05/13/valery-bolotov-a-leader-of-the-separatist-movement-in-the-eastern-city-of-luhansk-is-wounded-in-an-assassination-attempt-by-an-unknown-ass.md)
-_Context: Valery Bolotov, Eastern Ukraine, Luhansk_
+_Context: Eastern Ukraine, Luhansk, Valery Bolotov_
 
 ##### France
 ### [The body of 26-year-old French photojournalist Camille Lepage was found in the Bouar region. The French presidency released a statement saying she was "murdered" and announced that a team of investigators will be dispatched to the scene. ](/news/2014/05/13/the-body-of-26-year-old-french-photojournalist-camille-lepage-was-found-in-the-bouar-region-the-french-presidency-released-a-statement-sayi.md)
@@ -17,7 +17,7 @@ Villagers in northern Nigeria say they have repelled an attack by suspected mili
 
 ##### Christopher Columbus
 ### [Investigators claim to have found the wreck of Christopher Columbus's flagship, the "Santa Maria", off the north coast of Haiti. ](/news/2014/05/13/investigators-claim-to-have-found-the-wreck-of-christopher-columbus-s-flagship-the-santa-maria-off-the-north-coast-of-haiti.md)
-_Context: Santa Maria, Christopher Columbus, flagship, Haiti_
+_Context: Christopher Columbus, Santa Maria, flagship, Haiti_
 
 ##### Soma mine disaster
 ### [At least 238 miners are killed and 120 others trapped in a coal mine in the town of Soma in Turkey's Manisa Province. ](/news/2014/05/13/at-least-238-miners-are-killed-and-120-others-trapped-in-a-coal-mine-in-the-town-of-soma-in-turkey-s-manisa-province.md)
@@ -25,11 +25,11 @@ At least 17 people have been killed and hundreds are trapped after an explosion 
 
 ##### North Korea
 ### [An apartment block in the North Korean capital Pyongyang containing 100 families collapses. ](/news/2014/05/13/an-apartment-block-in-the-north-korean-capital-pyongyang-containing-100-families-collapses.md)
-_Context: North Korea, Pyongyang_
+_Context: Pyongyang, North Korea_
 
 ##### Vietnam
 ### [Thousands of Vietnamese workers stage anti-China protests in front of factories with Chinese names over Beijing's decision to locate an oil rig in waters of the South China Sea also claimed by Hanoi. ](/news/2014/05/13/thousands-of-vietnamese-workers-stage-anti-china-protests-in-front-of-factories-with-chinese-names-over-beijing-s-decision-to-locate-an-oil.md)
-_Context: Hanoi, Vietnam_
+_Context: Vietnam, Hanoi_
 
 ##### Ehud Olmert
 ### [Former Israeli Prime Minister Ehud Olmert has been sentenced to six years jail in a bribery case.](/news/2014/05/13/former-israeli-prime-minister-ehud-olmert-has-been-sentenced-to-six-years-jail-in-a-bribery-case.md)

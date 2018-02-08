@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/03/21/a-7-2-magnitude-earthquake-hits-western-china.h
 
 ### [2008-03-21](/news/2008/03/21/index.md)
 
-##### magnitude
+##### Magnitude
 #  A 7.2-magnitude earthquake hits western China. 
 
 

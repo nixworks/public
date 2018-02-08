@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/9/archaeologists-announce-that-the-mummy-of-queen-
 
 ### [2003-06-9](/news/2003/06/9/index.md)
 
-##### mummies
+##### Mummies
 #  Archaeologists announce that the mummy of Queen Nefertiti may have been found in the Valley of the Kings in Egypt.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/25/a-prison-riot-in-barquisimeto-venezuela-kills-a
 
 ### [2013-01-25](/news/2013/01/25/index.md)
 
-##### prison riot
+##### Prison riot
 # A prison riot in Barquisimeto, Venezuela, kills at least 50 people and injures about 90 people. 
 
 More than 50 people have been killed and dozens more injured in a prison riot in western Venezuela, hospital staff say.

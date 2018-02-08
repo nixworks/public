@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/25/a-string-of-attacks-in-iraq-targeting-iraqi-sec
 
 ### [2010-08-25](/news/2010/08/25/index.md)
 
-##### string of attacks
+##### String of attacks
 # A string of attacks in Iraq targeting Iraqi security forces leaves at least 56 people dead. 
 
 With a withering wave of assaults on security forces, which killed dozens, insurgents proved their ability to launch attacks virtually anywhere in Iraq.

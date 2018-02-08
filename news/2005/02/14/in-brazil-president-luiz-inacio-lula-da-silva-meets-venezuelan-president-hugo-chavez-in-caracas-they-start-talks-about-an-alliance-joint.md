@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-m
 
 ### [2005-02-14](/news/2005/02/14/index.md)
 
-##### president
+##### President
 #  In Brazil, President Luiz Incio Lula da Silva meets Venezuelan president Hugo Chvez in Caracas. They start talks about an alliance, joint energy projects and the sale of Brazilian fighter aircraft. 
 
 

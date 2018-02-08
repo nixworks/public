@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/11/twelve-people-have-died-following-a-train-crash
 
 ### [2006-10-11](/news/2006/10/11/index.md)
 
-##### train crash
+##### Train crash
 #  Twelve people have died following a train crash at Zoufftgen in north-east France, near the Luxembourg border. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/25/a-gas-leak-at-a-steel-mill-in-zunhua-china-caus
 
 ### [2008-12-25](/news/2008/12/25/index.md)
 
-##### gas leak
+##### Gas leak
 #  A gas leak at a steel mill in Zunhua, China, causes 17 deaths. 
 
 

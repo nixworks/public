@@ -9,7 +9,7 @@ Osama bin Laden used the militant group Harakat-ul-Mujahedeen, which has links t
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, warns of a possible escalation of the 2011 Syrian uprising as Syrian Army forces mass near the border with Turkey. ](/news/2011/06/24/hillary-clinton-the-united-states-secretary-of-state-warns-of-a-possible-escalation-of-the-2011-syrian-uprising-as-syrian-army-forces-mass.md)
-_Context: Syrian Army, 2011 Syrian uprising, Hillary Clinton, United States Secretary of State, Turkey_
+_Context: Syrian Army, Turkey, 2011 Syrian uprising, United States Secretary of State, Hillary Clinton_
 
 ##### Myanmar
 ### [Three explosions hit the Myanmar cities of Naypyidaw, Mandalay and Pyin U Lwin. ](/news/2011/06/24/three-explosions-hit-the-myanmar-cities-of-naypyidaw-mandalay-and-pyin-u-lwin.md)
@@ -21,7 +21,7 @@ EU&#x20;leaders&#x20;appointed&#x20;Italy&#x27;s&#x20;Mario&#x20;Draghi&#x20;&#x
 
 ##### Mudslide
 ### [Mudslides isolate 1,200 in Japan's Nagano Prefecture. ](/news/2011/06/24/mudslides-isolate-1-200-in-japan-s-nagano-prefecture.md)
-_Context: Mudslide, Nagano Prefecture, Japan_
+_Context: Japan, Mudslide, Nagano Prefecture_
 
 ##### 2011 Pacific typhoon season
 ### [Tropical Storm Meari hits the Philippines, leaving 11 people missing and over 40,000 displaced. ](/news/2011/06/24/tropical-storm-meari-hits-the-philippines-leaving-11-people-missing-and-over-40-000-displaced.md)
@@ -29,9 +29,9 @@ _Context: Philippines, 2011 Pacific typhoon season_
 
 ##### Souris River
 ### [The Souris River floods to record levels and overflows levee banks in the US town of Minot, North Dakota. ](/news/2011/06/24/the-souris-river-floods-to-record-levels-and-overflows-levee-banks-in-the-us-town-of-minot-north-dakota.md)
-_Context: North Dakota, Souris River, Minot, levee_
+_Context: Souris River, levee, Minot, North Dakota_
 
-##### tractor-trailer
+##### Tractor-trailer
 ### [At least two people are killed and dozens injured after a tractor-trailer truck collides with the California Zephyr Amtrak train on US Route 95 in Nevada. ](/news/2011/06/24/at-least-two-people-are-killed-and-dozens-injured-after-a-tractor-trailer-truck-collides-with-the-california-zephyr-amtrak-train-on-us-route.md)
 At least two people were killed and dozens injured on Friday when a tractor-trailer rig crashed through closed rail crossing gates and collided with an Amtrak train on a rural Nevada highway, authorities said.
 

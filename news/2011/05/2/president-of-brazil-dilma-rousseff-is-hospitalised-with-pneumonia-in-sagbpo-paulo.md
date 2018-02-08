@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/2/president-of-brazil-dilma-rousseff-is-hospitalis
 
 ### [2011-05-2](/news/2011/05/2/index.md)
 
-##### president
+##### President
 # President of Brazil Dilma Rousseff is hospitalised with pneumonia in SGBPo Paulo. 
 
 

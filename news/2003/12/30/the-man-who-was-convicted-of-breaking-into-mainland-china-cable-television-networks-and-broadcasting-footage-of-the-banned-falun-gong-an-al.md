@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/12/30/the-man-who-was-convicted-of-breaking-into-main
 
 ### [2003-12-30](/news/2003/12/30/index.md)
 
-##### mainland China
+##### Mainland China
 # The man who was convicted of breaking into mainland China cable television networks and broadcasting footage of the banned Falun Gong, an alleged cult, reportedly dies in prison. Pro-Falun Gong groups and the Hong Kong-based Information Centre for Human Rights and Democracy claim he was beaten to death.[http:--news.bbc.co.uk-2-hi-asia-pacific-3356699.stm]
 
 

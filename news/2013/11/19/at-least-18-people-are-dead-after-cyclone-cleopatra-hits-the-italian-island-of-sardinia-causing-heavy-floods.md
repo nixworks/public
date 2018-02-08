@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleop
 
 ### [2013-11-19](/news/2013/11/19/index.md)
 
-##### cyclone
+##### Cyclone
 # At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. 
 
 At least 18 people are killed in flooding after a cyclone lashes the island of Sardinia, prompting Italy to declare a state of emergency.

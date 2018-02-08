@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/09/20/following-an-investigation-in-the-wake-of-the-n
 
 ### [2012-09-20](/news/2012/09/20/index.md)
 
-##### conspiracy to hack mobile phones
+##### Conspiracy to hack mobile phones
 # Following an investigation in the wake of the News International phone hacking scandal, British media regulator Ofcom concludes that BSkyB is a "fit and proper" company to hold a broadcasting licence. 
 
 UK media regulator Ofcom says BSkyB is &quot;fit and proper&quot; to hold a broadcasting licence but criticises ex-chairman James Murdoch for &quot;ill-judged&quot; conduct.

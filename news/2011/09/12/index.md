@@ -23,9 +23,9 @@ Asian stocks plunge, with some shares hitting multiyear lows, after renewed fear
 ### [The UK's Independent Commission on Banking recommends that British banks should separate their retail banking divisions from investment banking arms to safeguard against riskier banking activities. ](/news/2011/09/12/the-uk-s-independent-commission-on-banking-recommends-that-british-banks-should-separate-their-retail-banking-divisions-from-investment-bank.md)
 Political parties welcome a report calling for banks to separate their retail banking and investment banking operations.
 
-##### a petrol pipeline explosion
+##### A petrol pipeline explosion
 ### [At least 75 people are killed by a petrol pipeline explosion in Nairobi, Kenya. ](/news/2011/09/12/at-least-75-people-are-killed-by-a-petrol-pipeline-explosion-in-nairobi-kenya.md)
-_Context: Kenya, Nairobi, a petrol pipeline explosion_
+_Context: a petrol pipeline explosion, Kenya, Nairobi_
 
 ##### Indonesia
 ### [At least 19 people die in a bus crash on the Indonesian island of Java. ](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.md)

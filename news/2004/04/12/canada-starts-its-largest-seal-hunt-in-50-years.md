@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/04/12/canada-starts-its-largest-seal-hunt-in-50-years
 
 ### [2004-04-12](/news/2004/04/12/index.md)
 
-##### seal
+##### Seal
 #  Canada starts its largest seal hunt in 50 years. 
 
 

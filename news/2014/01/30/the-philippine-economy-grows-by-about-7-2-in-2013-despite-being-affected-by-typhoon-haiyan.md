@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/01/30/the-philippine-economy-grows-by-about-7-2-in-20
 
 ### [2014-01-30](/news/2014/01/30/index.md)
 
-##### billions of pesos
+##### Billions of pesos
 # The Philippine economy grows by about 7.2% in 2013 despite being affected by Typhoon Haiyan. 
 
 The Philippines economic growth rate slows in the fourth quarter hurt by Typhoon Haiyan, which swept through the country in November.

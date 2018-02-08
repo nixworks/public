@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/4/a-group-of-approximately-300-indigenous-manifest
 
 ### [2013-06-4](/news/2013/06/4/index.md)
 
-##### indigenous
+##### Indigenous
 # A group of approximately 300 indigenous manifestants march toward the Brazilian capital of Brasilia to protest the death of Oziel Gabriel. 
 
 

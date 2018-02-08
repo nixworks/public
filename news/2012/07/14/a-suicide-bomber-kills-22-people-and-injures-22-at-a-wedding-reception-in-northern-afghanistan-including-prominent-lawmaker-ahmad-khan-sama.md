@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/14/a-suicide-bomber-kills-22-people-and-injures-22
 
 ### [2012-07-14](/news/2012/07/14/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 # A suicide bomber kills 22 people and injures 22 at a wedding reception in northern Afghanistan, including prominent lawmaker Ahmad Khan Samangani who was the father of the bride. 
 
 E-SHARIF, Afghanistan (Reuters) - A suicide bomber killed a prominent anti-Taliban politician and 22 other guests at a wedding reception in the northern Afghan province of Samangan on Saturday, officials said.

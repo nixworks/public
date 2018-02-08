@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off
 
 ### [2011-07-10](/news/2011/07/10/index.md)
 
-##### earthquake
+##### Earthquake
 # A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. 
 
 

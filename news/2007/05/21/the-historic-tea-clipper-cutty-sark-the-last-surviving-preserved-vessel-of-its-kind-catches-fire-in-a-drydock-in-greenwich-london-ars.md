@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/05/21/the-historic-tea-clipper-cutty-sark-the-last-su
 
 ### [2007-05-21](/news/2007/05/21/index.md)
 
-##### clipper
+##### Clipper
 #  The historic tea clipper "Cutty Sark", the last surviving preserved vessel of its kind, catches fire in a drydock in Greenwich, London. Arson is being considered as a possible cause. 
 
 

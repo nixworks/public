@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/05/26/at-least-one-person-is-killed-and-ten-people-ar
 
 ### [2013-05-26](/news/2013/05/26/index.md)
 
-##### party bus
+##### Party bus
 # At least one person is killed, and ten people are injured after a party bus collides with a passenger car near Burlingame, California, United States. 
 
 Party bus collides with a crashed car on Highway 101 in Burlingame

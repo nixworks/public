@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/10/26/voters-in-ukraine-go-to-the-polls-with-supporte
 
 ### [2014-10-26](/news/2014/10/26/index.md)
 
-##### recent elections
+##### Recent elections
 # Voters in Ukraine go to the polls with supporters of President Petro Poroshenko expected to do well. 
 
 

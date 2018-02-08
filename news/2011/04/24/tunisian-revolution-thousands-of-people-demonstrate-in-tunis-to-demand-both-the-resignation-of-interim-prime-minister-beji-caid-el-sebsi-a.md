@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/04/24/tunisian-revolution-thousands-of-people-demonst
 
 ### [2011-04-24](/news/2011/04/24/index.md)
 
-##### revolution
+##### Revolution
 # Tunisian revolution: Thousands of people demonstrate in Tunis to demand both the resignation of interim prime minister Beji Caid el Sebsi, a link with the old guard brought down in January's popular revolution, and the prosecution of Zine El Abidine Ben Ali, who fled to Saudi Arabia after being ousted, on charges such as murder and drug-trafficking. 
 
 Security forces in northern Syria reportedly kill three people and injure several, two days after the worst bloodshed since unrest began.

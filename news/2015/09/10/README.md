@@ -43,15 +43,15 @@ _Context: Azerbaijan, Khadija Ismayilova_
 ### [Venezuelan opposition leader Leopoldo Lopez is convicted and sentenced to 14 years imprisonment for allegedly inciting violence at anti-government rallies. ](/news/2015/09/10/venezuelan-opposition-leader-leopoldo-la3pez-is-convicted-and-sentenced-to-14-years-imprisonment-for-allegedly-inciting-violence-at-anti-gov.md)
 _Context: Venezuela, Leopoldo Lopez_
 
-##### migrant workers
+##### Migrant workers
 ### [A U.S. federal jury awards nearly $17.5 million to five former migrant workers at a South Florida farm in their case of sexual harassment and abuse in their work. ](/news/2015/09/10/a-u-s-federal-jury-awards-nearly-17-5-million-to-five-former-migrant-workers-at-a-south-florida-farm-in-their-case-of-sexual-harassment-an.md)
 A federal jury awarded almost $17.5 million to five former female employees of a South Florida farm who said they were raped and harassed at a vegetable packing plant, the U.S. Equal Employment Opportunity Commission (EEOC) announced on Thursday.
 
 ##### Peter Robinson
 ### [Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. ](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.md)
-_Context: Peter Robinson, Democratic Unionist Party, Northern Ireland, First Minister_
+_Context: Northern Ireland, First Minister, Peter Robinson, Democratic Unionist Party_
 
-##### eLife scientific journal
+##### ELife scientific journal
 ### ["Elife" publishes a discovery by scientists at the University of the Witwatersrand announcing a new species of hominid ("Homo naledi") in the Rising Star Cave in South Africa. Although the remains have yet to be properly dated, they could be three million years old. ](/news/2015/09/10/elife-publishes-a-discovery-by-scientists-at-the-university-of-the-witwatersrand-announcing-a-new-species-of-hominid-homo-naledi-in-th.md)
 Scientists in South Africa have discovered a new human-like species, which could change ideas about our early relatives.
 

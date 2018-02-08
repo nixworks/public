@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/22/the-syrian-military-shoots-down-a-turkish-f-4-p
 
 ### [2012-06-22](/news/2012/06/22/index.md)
 
-##### government forces
+##### Government forces
 # The Syrian military shoots down a Turkish F-4 Phantom fighter jet after it had entered Syrian airpsace over the Mediterranean Sea. 
 
 

@@ -7,7 +7,7 @@ Formats: [HTML](2012/08/18/index.html)  [JSON](2012/08/18/index.json)  [XML](201
 ### [Syrian opposition forces claim to have advanced close to the Aleppo International Airport in the course of the ongoing Battle of Aleppo. The Syrian state media claim the attacks were repulsed. Heavy fighting is ongoing in Aleppo and Damascus. ](/news/2012/08/18/syrian-opposition-forces-claim-to-have-advanced-close-to-the-aleppo-international-airport-in-the-course-of-the-ongoing-battle-of-aleppo-the.md)
 The insurgents’ seizure of areas near the airport comes as the United Nations and the Arab League announce that Lakhdar Brahimi, a veteran diplomat, will succeed Kofi Annan as the envoy to Syria.
 
-##### al-Qaeda
+##### Al-Qaeda
 ### [Al-Qaeda militants attack an intelligence headquarters in the southern Yemeni city of Aden, killing at least 14 people. ](/news/2012/08/18/al-qaeda-militants-attack-an-intelligence-headquarters-in-the-southern-yemeni-city-of-aden-killing-at-least-14-people.md)
 A top Taliban commander and his deputy are among dozens of insurgents killed in a Nato air strike in eastern Afghanistan, the alliance says.
 
@@ -33,15 +33,15 @@ _Context: Reserve Bank of India, monsoon_
 
 ##### Egypt
 ### [Egypt's state news agency says President Mohammed Morsi is to attend the upcoming Non-Aligned Movement meeting in Iran at the end of August. ](/news/2012/08/18/egypt-s-state-news-agency-says-president-mohammed-morsi-is-to-attend-the-upcoming-non-aligned-movement-meeting-in-iran-at-the-end-of-august.md)
-_Context: Iran, Non-Aligned Movement, Mohammed Morsi, Egypt_
+_Context: Egypt, Mohammed Morsi, Iran, Non-Aligned Movement_
 
 ##### U.S. District Court
 ### [A U.S. District Court judge declines Facebook's $20 million offer to settle a lawsuit revolving around privacy, expressing among other concerns that up to half of that money would be paid to attorneys, and none to the victims. ](/news/2012/08/18/a-u-s-district-court-judge-declines-facebook-s-20-million-offer-to-settle-a-lawsuit-revolving-around-privacy-expressing-among-other-conce.md)
 Facebook Inc., whose shares fell to a record low yesterday, failed to persuade a judge to approve a $20 million settlement resolving a lawsuit over “sponsored stories” that provides cash for advocacy groups and attorneys and no money for users.
 
-##### the House of Commons
+##### The House of Commons
 ### [The Treasury Committee of the House of Commons of the United Kingdom releases the first volume of a planned two-volume report on the LIBOR fixing scandal. ](/news/2012/08/18/the-treasury-committee-of-the-house-of-commons-of-the-united-kingdom-releases-the-first-volume-of-a-planned-two-volume-report-on-the-libor-f.md)
-_Context: the House of Commons, LIBOR, Libor scandal_
+_Context: LIBOR, Libor scandal, the House of Commons_
 
 ## [Previous Day...](/news/2012/08/17/index.md)
 

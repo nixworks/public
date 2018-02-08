@@ -9,11 +9,11 @@ A powerful earthquake measuring 6.5 on the Richter scale hit the Peloponnese reg
 
 ##### Georgian presidential election, 2008
 ### [ Georgian presidential election, 2008: Georgian Incumbent President Mikhail Saakashvili has been re-elected for a new mandate following a snap poll with nearly 53% of the votes. ](/news/2008/01/6/georgian-presidential-election-2008-georgian-incumbent-president-mikhail-saakashvili-has-been-re-elected-for-a-new-mandate-following-a-sn.md)
-_Context:  Georgian, Georgian presidential election, 2008, Mikhail Saakashvili_
+_Context: Mikhail Saakashvili, Georgian presidential election, 2008,  Georgian_
 
 ##### Iran
 ### [ Five armed Iranian boats confront three U.S. Navy warships in international waters near the Strait of Hormuz. ](/news/2008/01/6/five-armed-iranian-boats-confront-three-u-s-navy-warships-in-international-waters-near-the-strait-of-hormuz.md)
-_Context: U.S. Navy, Iran, Strait of Hormuz_
+_Context: Strait of Hormuz, Iran, U.S. Navy_
 
 ## [Previous Day...](/news/2008/01/5/index.md)
 

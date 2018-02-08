@@ -3,7 +3,7 @@ Formats: [HTML](2017/06/26/index.html)  [JSON](2017/06/26/index.json)  [XML](201
 
 ## [2017-06-26](/news/2017/06/26/index.md)
 
-##### lasting peace
+##### Lasting peace
 ### [The United Nations confirms that the FARC has completed its disarmament process, with former rebels due to make the transition to civilian life and the group to transform into a legal political party in the country. ](/news/2017/06/26/the-united-nations-confirms-that-the-farc-has-completed-its-disarmament-process-with-former-rebels-due-to-make-the-transition-to-civilian-l.md)
 The disarmament by the roughly 7,000 rebels brings Latin America&#39;s oldest civil conflict close to a formal end.
 
@@ -25,19 +25,19 @@ The Alaska Airlines passengers were reportedly not following directions and maki
 
 ##### CNN 2017 undercover videos controversy
 ### [Three CNN journalists, Thomas Frank, Eric Lichtblau, and Lex Haris, resign after the publication of a Russia-related article involving President Donald Trump that was retracted. ](/news/2017/06/26/three-cnn-journalists-thomas-frank-eric-lichtblau-and-lex-haris-resign-after-the-publication-of-a-russia-related-article-involving-presi.md)
-_Context: CNN 2017 undercover videos controversy, Eric Lichtblau, CNN, Donald Trump_
+_Context: CNN, CNN 2017 undercover videos controversy, Donald Trump, Eric Lichtblau_
 
 ##### Mongolian presidential election, 2017
 ### [Mongolians go to the polls to elect a new president. The centre-right Democratic Party's Battulga Khaltmaa wins a plurality of votes, but falls short of a majority, necessitating a second round. ](/news/2017/06/26/mongolians-go-to-the-polls-to-elect-a-new-president-the-centre-right-democratic-party-s-battulga-khaltmaa-wins-a-plurality-of-votes-but-fa.md)
-_Context: President of Mongolia, plurality, Battulga Khaltmaa, Democratic Party, Mongolian presidential election, 2017, Mongolia, second round_
+_Context: Mongolian presidential election, 2017, Battulga Khaltmaa, second round, Democratic Party, plurality, Mongolia, President of Mongolia_
 
 ##### Duterty presidency
 ### [President of the Philippines Rodrigo Duterte makes another lengthy absence from any public appearance after missing the Independence Day celebrations earlier in June. Rumors about his health continue to circulate within the minority although government officials deny any issues. ](/news/2017/06/26/president-of-the-philippines-rodrigo-duterte-makes-another-lengthy-absence-from-any-public-appearance-after-missing-the-independence-day-cel.md)
-_Context: Independence Day, Duterty presidency, President, Rodrigo Duterte_
+_Context: Independence Day, Rodrigo Duterte, President, Duterty presidency_
 
 ##### Politics of Israel
 ### [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md)
-_Context: Board of Governors, Western Wall, Politics of Israel, Israeli Prime Minister, Jewish Agency for Israel, Benjamin Netanyahu_
+_Context: Jewish Agency for Israel, Benjamin Netanyahu, Israeli Prime Minister, Politics of Israel, Western Wall, Board of Governors_
 
 ## [Previous Day...](/news/2017/06/25/index.md)
 

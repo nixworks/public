@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murd
 
 ### [2011-03-24](/news/2011/03/24/index.md)
 
-##### two girls
+##### Two girls
 # Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). 
 
 

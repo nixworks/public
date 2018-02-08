@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/11/13/the-economy-germany-france-and-the-netherlands-
 
 ### [2003-11-13](/news/2003/11/13/index.md)
 
-##### economist
+##### Economist
 #  The Economy: Germany, France and the Netherlands, which together account for more than half the economic activity of the eurozone, report returns to growth in the third quarter as a global economic recovery stokes demand for exports.
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/13/gunmen-open-fire-on-a-bus-containing-members-of
 
 ### [2015-05-13](/news/2015/05/13/index.md)
 
-##### open fire on a bus
+##### Open fire on a bus
 # Gunmen open fire on a bus containing members of the Ismaili Shia Muslim community in the Pakistani city of Karachi, killing at least 44 people and injuring a dozen. 
 
 Gun men opened fire on bus belonging to the Ismaili community

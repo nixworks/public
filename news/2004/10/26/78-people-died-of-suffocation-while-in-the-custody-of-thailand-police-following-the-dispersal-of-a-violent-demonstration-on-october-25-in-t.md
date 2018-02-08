@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/10/26/78-people-died-of-suffocation-while-in-the-cust
 
 ### [2004-10-26](/news/2004/10/26/index.md)
 
-##### suffocation
+##### Suffocation
 #  78 people died of suffocation while in the custody of Thailand police following the dispersal of a violent demonstration on October 25 in the restive Muslim-majority southern region of the country. The deaths appeared to have occurred during a five-hour trip in closed trucks to a detention facility. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/07/29/a-car-bomb-explodes-outside-a-police-barracks-i
 
 ### [2009-07-29](/news/2009/07/29/index.md)
 
-##### bombing of Burgos
+##### Bombing of Burgos
 #  A car bomb explodes outside a police barracks in the northern Spanish city of Burgos, injuring dozens of people. 
 
 A car bomb has exploded near a civil guards barracks in Burgos in northern Spain.

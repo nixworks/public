@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/01/8/the-discovery-of-the-first-example-of-a-triple-q
 
 ### [2007-01-8](/news/2007/01/8/index.md)
 
-##### quasar
+##### Quasar
 #  The discovery of the first example of a "triple quasar" is announced at the American Astronomical Society meeting in Seattle. 
 
 

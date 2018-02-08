@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/19/the-first-successful-trachea-transplant-using-a
 
 ### [2008-11-19](/news/2008/11/19/index.md)
 
-##### trachea
+##### Trachea
 #  The first successful trachea transplant using a tissue-engineered organ is performed in Spain. 
 
 

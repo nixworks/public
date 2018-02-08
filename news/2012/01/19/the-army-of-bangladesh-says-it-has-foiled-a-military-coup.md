@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/01/19/the-army-of-bangladesh-says-it-has-foiled-a-mil
 
 ### [2012-01-19](/news/2012/01/19/index.md)
 
-##### army
+##### Army
 # The army of Bangladesh says it has foiled a military coup. 
 
 The army in Bangladesh foils a coup planned against the government of Prime Minister Sheikh Hasina, a military spokesman says.

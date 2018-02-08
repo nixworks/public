@@ -5,15 +5,15 @@ Formats: [HTML](2009/06/17/index.html)  [JSON](2009/06/17/index.json)  [XML](200
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI warns traditionalist Catholic organisation Society of St. Pius X (SSPX) not to go ahead with plans to ordain more than 30 priests on June 19 and 27, saying the move could incur disciplinary action. ](/news/2009/06/17/pope-benedict-xvi-warns-traditionalist-catholic-organisation-society-of-st-pius-x-sspx-not-to-go-ahead-with-plans-to-ordain-more-than-30.md)
-_Context: traditionalist Catholic, Society of St. Pius X, ordain, warns, priests, Pope Benedict XVI_
+_Context: Pope Benedict XVI, warns, traditionalist Catholic, priests, Society of St. Pius X, ordain_
 
 ##### Kitty Ussher
 ### [ Kitty Ussher resigns as Exchequer Secretary to the Treasury and announces that she will stand down as Member of Parliament for Burnley at the next general election following involvement in the United Kingdom Parliamentary expenses scandal. ](/news/2009/06/17/kitty-ussher-resigns-as-exchequer-secretary-to-the-treasury-and-announces-that-she-will-stand-down-as-member-of-parliament-for-burnley-at-t.md)
-_Context: Burnley, Exchequer Secretary to the Treasury, United Kingdom Parliamentary expenses scandal, Kitty Ussher, MP_
+_Context: United Kingdom Parliamentary expenses scandal, Exchequer Secretary to the Treasury, Burnley, Kitty Ussher, MP_
 
 ##### United States
 ### [ United States President Barack Obama extends some benefits to the same-sex partners of federal government workers. ](/news/2009/06/17/united-states-president-barack-obama-extends-some-benefits-to-the-same-sex-partners-of-federal-government-workers.md)
-_Context: Barack Obama, United States, U.S. President, some benefits_
+_Context: United States, some benefits, Barack Obama, U.S. President_
 
 ##### Mir-Hossein Mousavi
 ### [ Mir-Hossein Mousavi calls for a day of mourning and rallies after several people die in protests following the presidential election. ](/news/2009/06/17/mir-hossein-mousavi-calls-for-a-day-of-mourning-and-rallies-after-several-people-die-in-protests-following-the-presidential-election.md)
@@ -25,11 +25,11 @@ Martin McGuinness has described racist attacks on a group of Romanian families i
 
 ##### Burma
 ### [ Burma's Supreme Court accepts an appeal by lawyers for National League for Democracy General Secretary Aung San Suu Kyi on whether to allow more defense witnesses to testify at her trial. ](/news/2009/06/17/burma-s-supreme-court-accepts-an-appeal-by-lawyers-for-national-league-for-democracy-general-secretary-aung-san-suu-kyi-on-whether-to-allow.md)
-_Context: trial, Supreme Court, Aung San Suu Kyi, General Secretary, Burma, National League for Democracy, defense_
+_Context: Supreme Court, trial, defense, Burma, Aung San Suu Kyi, National League for Democracy, General Secretary_
 
 ##### Mogadishu
 ### [ Seventeen people, including the head of Mogadishu's police force, are killed in fighting between the Transitional Federal Government and al-Shabaab. ](/news/2009/06/17/seventeen-people-including-the-head-of-mogadishu-s-police-force-are-killed-in-fighting-between-the-transitional-federal-government-and-al.md)
-_Context: declares, Mogadishu, Transitional Federal Government, Al-Shabaab_
+_Context: Al-Shabaab, Mogadishu, Transitional Federal Government, declares_
 
 ##### Maoist
 ### [ Maoist fighters kill 3 members of the ruling Communist Party in West Bengal. ](/news/2009/06/17/maoist-fighters-kill-3-members-of-the-ruling-communist-party-in-west-bengal.md)
@@ -37,15 +37,15 @@ _Context: Maoist, Communist Party of India-Marxist, West Bengal_
 
 ##### India
 ### [ Indian Prime Minister Manmohan Singh meets with Pakistani President Asif Ali Zardari. ](/news/2009/06/17/indian-prime-minister-manmohan-singh-meets-with-pakistani-president-asif-ali-zardari.md)
-_Context: Pakistan, Manmohan Singh, Prime Minister, president, India, Asif Ali Zardari_
+_Context: India, Asif Ali Zardari, Prime Minister, Manmohan Singh, president, Pakistan_
 
 ##### Peru
 ### [ The Peruvian government is to revoke land laws that resulted in deadly clashes with indigenous protesters in the Amazon. ](/news/2009/06/17/the-peruvian-government-is-to-revoke-land-laws-that-resulted-in-deadly-clashes-with-indigenous-protesters-in-the-amazon.md)
-_Context: Amazon rainforest, Peru, deadly clashes, Government of Peru_
+_Context: deadly clashes, Amazon rainforest, Government of Peru, Peru_
 
 ##### NASA
 ### [ NASA defers the launch of Space Shuttle "Endeavour" for a second time until July. ](/news/2009/06/17/nasa-defers-the-launch-of-space-shuttle-endeavour-for-a-second-time-until-july.md)
-_Context: NASA, Space Shuttle, Space Shuttle ''Endeavour''_
+_Context: Space Shuttle, Space Shuttle ''Endeavour'', NASA_
 
 ##### Bord Gais
 ### [ A laptop containing unencrypted bank account details of 75,000 Bord Gais customers is stolen in Dublin. ](/news/2009/06/17/a-laptop-containing-unencrypted-bank-account-details-of-75-000-bord-ga-is-customers-is-stolen-in-dublin.md)

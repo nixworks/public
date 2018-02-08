@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/11/6/nine-french-peacekeepers-and-a-u-s-citizen-are-k
 
 ### [2004-11-6](/news/2004/11/6/index.md)
 
-##### peacekeeping
+##### Peacekeeping
 #  Nine French peacekeepers and a U.S. citizen are killed in the rebel-held town of Bouake in Cte d'Ivoire after government warplanes bomb the town to root out insurgents. In response, the French military launches attacks which destroy two warplanes at Yamoussoukro airport. 
 
 

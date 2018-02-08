@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/26/three-muslim-rebels-are-killed-following-a-clas
 
 ### [2011-01-26](/news/2011/01/26/index.md)
 
-##### muslim
+##### Muslim
 # Three muslim rebels are killed following a clash with government security forces in the Southern Philippines. 
 
 

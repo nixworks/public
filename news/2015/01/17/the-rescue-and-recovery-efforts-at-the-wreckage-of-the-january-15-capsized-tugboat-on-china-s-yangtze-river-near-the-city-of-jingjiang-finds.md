@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/01/17/the-rescue-and-recovery-efforts-at-the-wreckage
 
 ### [2015-01-17](/news/2015/01/17/index.md)
 
-##### tugboat
+##### Tugboat
 # The rescue and recovery efforts at the wreckage of the January 15 capsized tugboat on China's Yangtze River near the city of Jingjiang finds that twenty-one people are dead while three are rescued. 
 
 Twenty-two people are confirmed dead after the body of the last missing person in a tugboat tragedy in China&#039;s Yangtze River was found on Saturday afternoon.. Read more at straitstimes.com.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/07/12/president-pervez-musharraf-praises-the-military
 
 ### [2007-07-12](/news/2007/07/12/index.md)
 
-##### president
+##### President
 #  President Pervez Musharraf praises the military for ending the Lal Masjid siege and vows to eradicate terrorism from Pakistan. 
 
 

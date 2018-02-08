@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/1/new-laws-against-age-discrimination-in-the-workp
 
 ### [2006-10-1](/news/2006/10/1/index.md)
 
-##### age discrimination
+##### Age discrimination
 #  New laws against age discrimination in the workplace - officially titled the Employment Equality (Age) Regulations 2006 - come into force in the United Kingdom. 
 
 

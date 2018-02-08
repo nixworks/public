@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/04/24/the-communist-party-of-britain-announces-it-wil
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
-##### last general election
+##### Last general election
 # The Communist Party of Britain announces it will not field any candidates in the upcoming general election for the first time since its formation in 1920, and endorses Labour leader Jeremy Corbyn, saying victory for Mr Corbyn at the general election in June would be "the first step towards a formation of left-led government at Westminster". 
 
 Britain’s Communist party will not field any general election candidates for the first time since its formation in 1920 in order to throw its weight behind Jeremy Corbyn’s Labour party. Declaring its endorsement of Labour’s leader, the Communist Party of Britain said victory for Mr Corbyn at the general election in June would be “the first step towards a formation of left-led government at Westminster”.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/11/8/the-united-states-congress-overrides-president-g
 
 ### [2007-11-8](/news/2007/11/8/index.md)
 
-##### lawmakers
+##### Lawmakers
 #  The United States Congress overrides President George W. Bush's veto of the $23 billion Water Resource Bill. 
 
 

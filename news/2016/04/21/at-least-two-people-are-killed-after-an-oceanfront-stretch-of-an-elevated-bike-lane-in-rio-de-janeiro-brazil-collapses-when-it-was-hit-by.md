@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/21/at-least-two-people-are-killed-after-an-oceanfr
 
 ### [2016-04-21](/news/2016/04/21/index.md)
 
-##### bike lane
+##### Bike lane
 # At least two people are killed after an oceanfront stretch of an elevated bike lane in Rio de Janeiro, Brazil, collapses when it was hit by a strong wave. Two other people were rescued alive, while another may be missing. The bike lane was among the projects built in preparation for the 2016 Summer Olympics. No Olympic event will be held on the path. 
 
 RIO DE JANEIRO (AP) — A new elevated bike path that was heralded as a top legacy project of the Rio de Janeiro Olympics collapsed Thursday, killing at least two people. The accident on the Tim Maia bike path was the latest…

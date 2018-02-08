@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jen
 
 ### [2006-02-3](/news/2006/02/3/index.md)
 
-##### persona non grata
+##### Persona non grata
 #  The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". 
 
 

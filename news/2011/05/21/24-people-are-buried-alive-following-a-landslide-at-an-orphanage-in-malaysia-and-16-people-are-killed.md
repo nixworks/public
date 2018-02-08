@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/05/21/24-people-are-buried-alive-following-a-landslid
 
 ### [2011-05-21](/news/2011/05/21/index.md)
 
-##### landslide
+##### Landslide
 # 24 people are buried alive following a landslide at an orphanage in Malaysia, and 16 people are killed. 
 
 An avalanche of mud smashed into an orphanage in Malaysia killing at least five children, police said, after heavy monsoon rains lashed the capital Kuala Lumpur and surrounding areas on Saturday.

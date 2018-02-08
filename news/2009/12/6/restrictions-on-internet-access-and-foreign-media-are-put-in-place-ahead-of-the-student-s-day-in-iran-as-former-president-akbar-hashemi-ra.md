@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/12/6/restrictions-on-internet-access-and-foreign-medi
 
 ### [2009-12-6](/news/2009/12/6/index.md)
 
-##### internet access
+##### Internet access
 #  Restrictions on internet access and foreign media are put in place ahead of the Student's Day in Iran, as former President Akbar Hashemi Rafsanjani urges "freedom" in the country. 
 
 

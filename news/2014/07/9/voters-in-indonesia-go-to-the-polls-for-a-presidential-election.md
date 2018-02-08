@@ -3,7 +3,7 @@ Formats: [HTML](/news/2014/07/9/voters-in-indonesia-go-to-the-polls-for-a-presid
 
 ### [2014-07-9](/news/2014/07/9/index.md)
 
-##### is now president
+##### Is now president
 # Voters in Indonesia go to the polls for a presidential election. 
 
 Indonesia&#039;s benchmark share gauge rose to highest level in weeks, and the rupiah surges on expectations of Joko Widodo&#039;s election win.

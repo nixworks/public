@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/07/12/english-rock-group-the-rolling-stones-celebrate
 
 ### [2012-07-12](/news/2012/07/12/index.md)
 
-##### rock music
+##### Rock music
 # English rock group, The Rolling Stones, celebrate the fiftieth anniversary of their first performance at the Marquee Club in Oxford Street, London. 
 
 

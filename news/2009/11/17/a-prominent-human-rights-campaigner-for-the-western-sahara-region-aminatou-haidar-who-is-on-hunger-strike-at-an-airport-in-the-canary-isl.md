@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-wes
 
 ### [2009-11-17](/news/2009/11/17/index.md)
 
-##### human rights
+##### Human rights
 #  A prominent human rights campaigner for the Western Sahara region, Aminatou Haidar, who is on hunger strike at an airport in the Canary Islands, is to appear in a Spanish court on charges of public disorder. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/9/a-non-radioactive-steam-leak-at-the-nuclear-powe
 
 ### [2004-08-9](/news/2004/08/9/index.md)
 
-##### radioactive
+##### Radioactive
 #  A non-radioactive steam leak at the nuclear power plant in Mihama, Fukui Prefecture, Japan, kills four and scalds eight others. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/07/7/a-serial-blast-injures-5-people-near-mahabodhi-t
 
 ### [2013-07-7](/news/2013/07/7/index.md)
 
-##### serial blast
+##### Serial blast
 # A serial blast injures 5 people near Mahabodhi temple at Bodh Gaya, in the Indian state of Bihar. 
 
 Nine blasts took place outside the world famous temple at around 5am today.Initial reports said that there has been no damage to the temple.

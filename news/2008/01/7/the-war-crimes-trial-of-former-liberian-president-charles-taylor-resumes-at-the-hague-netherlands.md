@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/01/7/the-war-crimes-trial-of-former-liberian-presiden
 
 ### [2008-01-7](/news/2008/01/7/index.md)
 
-##### war crimes
+##### War crimes
 #  The war crimes trial of former Liberian President Charles Taylor resumes at The Hague, Netherlands. 
 
 

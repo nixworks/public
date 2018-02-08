@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/08/6/russian-hackers-are-suspected-of-infiltrating-th
 
 ### [2015-08-6](/news/2015/08/6/index.md)
 
-##### hackers
+##### Hackers
 # Russian hackers are suspected of infiltrating the U.S. Pentagon e-mail system last week. 
 
 Russia is suspected of launching a cyber-attack against a Pentagon email network

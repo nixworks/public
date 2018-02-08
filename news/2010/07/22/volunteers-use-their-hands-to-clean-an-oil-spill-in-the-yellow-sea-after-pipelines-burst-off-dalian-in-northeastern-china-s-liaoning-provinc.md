@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/22/volunteers-use-their-hands-to-clean-an-oil-spil
 
 ### [2010-07-22](/news/2010/07/22/index.md)
 
-##### oil spill
+##### Oil spill
 # Volunteers use their hands to clean an oil spill in the Yellow Sea after pipelines burst off Dalian in Northeastern China's Liaoning Province, spilling 1,500 tonnes of oil and covering an area close to 1,000 km 2 and about 90 km of coast. 
 
 

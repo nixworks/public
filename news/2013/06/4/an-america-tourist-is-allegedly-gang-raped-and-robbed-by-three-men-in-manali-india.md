@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/4/an-america-tourist-is-allegedly-gang-raped-and-r
 
 ### [2013-06-4](/news/2013/06/4/index.md)
 
-##### gang rape
+##### Gang rape
 # An America tourist is allegedly gang raped and robbed by three men in Manali, India. 
 
 

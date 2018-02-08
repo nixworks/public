@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-
 
 ### [2011-03-18](/news/2011/03/18/index.md)
 
-##### memorial service
+##### Memorial service
 # A memorial service is held in Christchurch, New Zealand, for the victims of the 2011 Canterbury earthquake. 
 
 At a memorial service for those killed in the Christchurch earthquake, Prince William has paid tribute to the courage and determination of New Zealanders.

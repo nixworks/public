@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/07/20/in-china-coal-mine-explosion-in-shaanxi-provinc
 
 ### [2005-07-20](/news/2005/07/20/index.md)
 
-##### coal
+##### Coal
 #  In China, coal mine explosion in Shaanxi province kills 24&ndash;26 
 
 

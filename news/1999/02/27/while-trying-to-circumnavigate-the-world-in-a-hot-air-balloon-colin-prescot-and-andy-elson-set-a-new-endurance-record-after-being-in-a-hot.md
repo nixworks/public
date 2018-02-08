@@ -3,7 +3,7 @@ Formats: [HTML](/news/1999/02/27/while-trying-to-circumnavigate-the-world-in-a-h
 
 ### [1999-02-27](/news/1999/02/27/index.md)
 
-##### hot air balloon
+##### Hot air balloon
 #  While trying to circumnavigate the world in a hot air balloon, Colin Prescot and Andy Elson set a new endurance record after being in a hot air balloon for 233 hours and 55 minutes. 
 
 

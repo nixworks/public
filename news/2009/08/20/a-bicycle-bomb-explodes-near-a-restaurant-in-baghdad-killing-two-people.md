@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/20/a-bicycle-bomb-explodes-near-a-restaurant-in-ba
 
 ### [2009-08-20](/news/2009/08/20/index.md)
 
-##### bicycle bomb
+##### Bicycle bomb
 #  A bicycle bomb explodes near a restaurant in Baghdad, killing two people. 
 
 

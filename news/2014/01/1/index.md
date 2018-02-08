@@ -7,7 +7,7 @@ Formats: [HTML](2014/01/1/index.html)  [JSON](2014/01/1/index.json)  [XML](2014/
 ### [Police in Indonesia exchange gunfire with suspected militants near Jakarta, killing six people. ](/news/2014/01/1/police-in-indonesia-exchange-gunfire-with-suspected-militants-near-jakarta-killing-six-people.md)
 Six suspected terrorists killed in a shootout had a stash of explosives and links to other small terrorism cells in Indonesia.
 
-##### Lebanon
+##### Lebanese
 ### [Sources confirm that Lebanon has captured Majid bin Mohammad al-Majid, leader of the al-Qaeda-linked group Abdullah Azzam Brigades responsible for the recent bombing of the Iranian embassy in Beirut, Lebanon. ](/news/2014/01/1/sources-confirm-that-lebanon-has-captured-majid-bin-mohammad-al-majid-leader-of-the-al-qaeda-linked-group-abdullah-azzam-brigades-responsib.md)
 Ghosn denies he confirmed reports of the arrest of Majid bin Mohammad al-Majid, a Saudi who heads an Al-Qaeda-linked group that claimed responsibility for the deadly attack on the Iranian Embassy in Beirut.
 
@@ -33,13 +33,13 @@ The Palestinian ambassador to Prague was killed on Wednesday in an explosion tha
 
 ##### 
 ### [Catholic priest Rev. Eric Freed was found bludgeoned to death in the rectory of his church in Eureka, California. Suspect Gary Lee Bullock was arrested, and had been jailed, hospitalized and released due to erratic behavior just before the killing. Freed was named by the Vatican as one of 22 Catholic priests and religious who were killed during 2013 ](/news/2014/01/1/catholic-priest-rev-eric-freed-was-found-bludgeoned-to-death-in-the-rectory-of-his-church-in-eureka-california-suspect-gary-lee-bullock-w.md)
-##### addicts
+##### Addicts
 ### [Recreational marijuana stores open in Colorado. ](/news/2014/01/1/recreational-marijuana-stores-open-in-colorado.md)
-_Context: Colorado, marijuana, addicts_
+_Context: Colorado, addicts, marijuana_
 
 ##### Bill de Blasio
 ### [Bill de Blasio is sworn in as the 109th Mayor of New York City. ](/news/2014/01/1/bill-de-blasio-is-sworn-in-as-the-109th-mayor-of-new-york-city.md)
-_Context: Bill de Blasio, Mayor_
+_Context: Mayor, Bill de Blasio_
 
 ## [Previous Day...](/news/2013/12/31/index.md)
 

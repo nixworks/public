@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/9/the-first-use-of-a-biocontrol-agent-against-a-we
 
 ### [2010-03-9](/news/2010/03/9/index.md)
 
-##### biocontrol
+##### Biocontrol
 # The first use of a biocontrol agent against a weed in the European Union is approved -- the Japanese insect "Aphalara itadori" will be released at trial sites in England to combat invasive Japanese knotweed. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/10/11/an-earthquake-struck-southern-russia-with-tremo
 
 ### [2008-10-11](/news/2008/10/11/index.md)
 
-##### earthquake
+##### Earthquake
 #  An earthquake struck southern Russia with tremors felt across five Russian regions. The epicentre was in Chechnya, with 12 dead. 
 
 

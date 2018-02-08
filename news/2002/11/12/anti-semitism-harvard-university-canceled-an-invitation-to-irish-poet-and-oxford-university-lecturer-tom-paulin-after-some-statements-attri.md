@@ -3,7 +3,7 @@ Formats: [HTML](/news/2002/11/12/anti-semitism-harvard-university-canceled-an-in
 
 ### [2002-11-12](/news/2002/11/12/index.md)
 
-##### anti-Semitic
+##### Anti-Semitic
 # Anti-Semitism: Harvard University canceled an invitation to Irish poet and Oxford University lecturer Tom Paulin after some statements attributed to him in an article in an Egyptian newspaper, al-Ahram, were labelled anti-Jewish by university officials. Paulin is quoted (amongst other things) as saying that American Jewish settlers in Israel should be "shot dead.&nbsp;... I think they are Nazis, racists. I feel nothing but hatred for them." He is also quoted as saying that he understands "how suicide bombers feel", and recommends that Palestinians take up guerrilla warfare against civilians in order to create a sense of solidarity.
 
 

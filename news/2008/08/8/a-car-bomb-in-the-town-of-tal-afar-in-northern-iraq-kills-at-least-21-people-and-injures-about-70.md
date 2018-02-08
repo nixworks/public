@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/08/8/a-car-bomb-in-the-town-of-tal-afar-in-northern-i
 
 ### [2008-08-8](/news/2008/08/8/index.md)
 
-##### car bomb
+##### Car bomb
 #  A car bomb in the town of Tal Afar in northern Iraq kills at least 21 people and injures about 70. 
 
 

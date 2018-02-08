@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission
 
 ### [2015-11-21](/news/2015/11/21/index.md)
 
-##### siege
+##### Siege
 # Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. 
 
 

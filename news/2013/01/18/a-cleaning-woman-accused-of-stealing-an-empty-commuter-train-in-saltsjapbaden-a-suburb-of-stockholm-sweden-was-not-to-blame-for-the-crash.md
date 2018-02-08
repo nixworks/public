@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/18/a-cleaning-woman-accused-of-stealing-an-empty-c
 
 ### [2013-01-18](/news/2013/01/18/index.md)
 
-##### cleaning woman
+##### Cleaning woman
 # A cleaning woman accused of stealing an empty commuter train in Saltsjobaden, a suburb of Stockholm, Sweden, was not to blame for the crash. 
 
 A cleaning woman accused of stealing an empty commuter train in a suburb of Stockholm was not to blame for the crash, Swedish prosecutors say.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping
 
 ### [2009-08-29](/news/2009/08/29/index.md)
 
-##### peacekeeping mission
+##### Peacekeeping mission
 #  Two civilian members of the UNAMID peacekeeping force are kidnapped by armed men in Darfur, Sudan. 
 
 

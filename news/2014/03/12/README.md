@@ -15,7 +15,7 @@ A U.S. judge on Wednesday ordered former Goldman Sachs Group Inc trader Fabrice 
 ### [China requests activation of the International Charter on Space and Major Disasters meaning international space agencies join an "unprecedented" search for the Malaysian airliner which disappeared over an ocean Saturday. ](/news/2014/03/12/china-requests-activation-of-the-international-charter-on-space-and-major-disasters-meaning-international-space-agencies-join-an-unpreceden.md)
 _Context: International Charter on Space and Major Disasters_
 
-##### explosion
+##### Explosion
 ### [An explosion in the New York City neighbourhood of East Harlem kills 8 and injures over 70. ](/news/2014/03/12/an-explosion-in-the-new-york-city-neighbourhood-of-east-harlem-kills-8-and-injures-over-70.md)
 EAST HARLEM (PIX11) -- Four people were killed and at least 63 people were injured after a massive gas explosion leveled two five-story buildings in East Harlem Wednesday morning in a blast that literally jolted a chunk of the city. One of the victims has been identified as 44-year-old Hunter Colleg...
 
@@ -29,9 +29,9 @@ Fiji says 11 people have died and over 10,000 others have been infected during a
 
 ##### 2014 Crimean crisis
 ### [Russia says planned U.S. financial aid to Ukraine is illegal. ](/news/2014/03/12/russia-says-planned-u-s-financial-aid-to-ukraine-is-illegal.md)
-_Context: 2014 Crimean crisis, Ukraine, Russia, United States_
+_Context: Ukraine, United States, 2014 Crimean crisis, Russia_
 
-##### yeshiva
+##### Yeshiva
 ### [A new law levying criminal penalties on yeshiva students who dodge military service in the Israeli Defence Forces passes the Knesset with near unanimous support as the entire opposition boycotts the vote; Yoni Chetboun from Jewish Home is the lone no-voter. ](/news/2014/03/12/a-new-law-levying-criminal-penalties-on-yeshiva-students-who-dodge-military-service-in-the-israeli-defence-forces-passes-the-knesset-with-ne.md)
 Jewish Home MK lone &#8216;no&#8217; vote on bill to levy criminal sanctions on draft dodgers; opposition boycotts session
 

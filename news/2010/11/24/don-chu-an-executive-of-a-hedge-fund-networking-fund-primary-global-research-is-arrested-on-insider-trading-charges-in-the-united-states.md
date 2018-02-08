@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/24/don-chu-an-executive-of-a-hedge-fund-networking
 
 ### [2010-11-24](/news/2010/11/24/index.md)
 
-##### hedge fund
+##### Hedge fund
 # Don Chu, an executive of a hedge fund networking fund Primary Global Research, is arrested on insider trading charges in the United States. 
 
 An executive of a California research firm was arrested on Wednesday on securities fraud and conspiracy charges after U.S. prosecutors accused him of arranging for inside information to be leaked to hedge funds, the latest development in an investigation of the industry.

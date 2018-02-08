@@ -5,7 +5,7 @@ Formats: [HTML](2015/05/26/index.html)  [JSON](2015/05/26/index.json)  [XML](201
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber and gunmen attack a court building in the provincial capital of Maidan Shahr in Maidan Wardak resulting in the deaths of two police officers and four of the attackers. ](/news/2015/05/26/a-suicide-bomber-and-gunmen-attack-a-court-building-in-the-provincial-capital-of-maidan-shahr-in-maidan-wardak-resulting-in-the-deaths-of-tw.md)
-_Context: suicide bomber, Maidan Shahr, War in Afghanistan (2015-present), Maidan Wardak_
+_Context: Maidan Shahr, War in Afghanistan (2015-present), suicide bomber, Maidan Wardak_
 
 ##### Kenya
 ### [Thirteen Kenyan police officers are missing after an Al-Shabaab ambush in Garissa County. ](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.md)
@@ -17,7 +17,7 @@ Shellfire from Yemen killed one civilian and a member of the security forces in 
 
 ##### Boko Haram
 ### [Boko Haram kills at least 43 people in the town of Gubio in Nigeria's Borno State. ](/news/2015/05/26/boko-haram-kills-at-least-43-people-in-the-town-of-gubio-in-nigeria-s-borno-state.md)
-_Context: Borno State, Nigeria, Gubio, Boko Haram_
+_Context: Boko Haram, Borno State, Gubio, Nigeria_
 
 ##### Charter Communications
 ### [Charter Communications announces plans to merge with Time Warner Cable in a $55.1 billion deal. ](/news/2015/05/26/charter-communications-announces-plans-to-merge-with-time-warner-cable-in-a-55-1-billion-deal.md)
@@ -25,7 +25,7 @@ Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. f
 
 ##### China
 ### [Police in China catch 175 looters who raided the Niuheliang Neolithic archaeological site in Manchuria. ](/news/2015/05/26/police-in-china-catch-175-looters-who-raided-the-niuheliang-neolithic-archaeological-site-in-manchuria.md)
-_Context: Neolithic, China, Manchuria, Niuheliang_
+_Context: Niuheliang, China, Manchuria, Neolithic_
 
 ##### Tornadoes of 2015
 ### [Thirteen die in Ciudad Acuna, Mexico in the city's first-ever tornado. ](/news/2015/05/26/thirteen-die-in-ciudad-acua-a-mexico-in-the-city-s-first-ever-tornado.md)
@@ -51,7 +51,7 @@ Taiwan’s president, Ma Ying-jeou, pleads for claimants to put aside their diff
 ### [The Japan Ground Self-Defense Force will for the first time participate in Exercise Talisman Saber, a joint exercise between the United States and Australia. ](/news/2015/05/26/the-japan-ground-self-defense-force-will-for-the-first-time-participate-in-exercise-talisman-saber-a-joint-exercise-between-the-united-stat.md)
 Japanese troops will take part in a major US-Australian military exercise for the first time in July.
 
-##### same-sex marriage
+##### Same-sex marriage
 ### [A petition to legalize same-sex marriage in the Philippines is filed in the Supreme Court. ](/news/2015/05/26/a-petition-to-legalize-same-sex-marriage-in-the-philippines-is-filed-in-the-supreme-court.md)
 The 31-page petition highlights the need for a more LGBT-inclusive society and is the first known and reported legal action of its kind before the Philippine High Court
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/04/16/five-people-are-dead-and-five-are-in-hospital-a
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
-##### ecstasy
+##### Ecstasy
 # Five people are dead and five are in hospital after taking ecstasy at an Argentine version of the Time Warp Festival featuring electronic music acts. 
 
 Five people died and another five were hospitalized in critical condition on Saturday in Argentina&#x27;s capital city Buenos Aires after attending an electronic music festival where authorities suspect they consumed illegal drugs. The five victims who died at Time Warp, a music festival originally from

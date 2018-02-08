@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/25/a-lawyer-for-missing-coal-miners-in-the-crandal
 
 ### [2007-08-25](/news/2007/08/25/index.md)
 
-##### coal mine
+##### Coal mine
 #  A lawyer for missing coal miners in the Crandall Canyon mine in Utah says that a sixth probe has not found enough space for the men to survive. 
 
 

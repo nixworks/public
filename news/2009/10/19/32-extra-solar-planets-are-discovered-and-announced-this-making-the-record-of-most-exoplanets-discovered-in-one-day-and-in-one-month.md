@@ -3,7 +3,7 @@ Formats: [HTML](/news/2009/10/19/32-extra-solar-planets-are-discovered-and-annou
 
 ### [2009-10-19](/news/2009/10/19/index.md)
 
-##### exoplanets
+##### Exoplanets
 #  32 Extra Solar planets are discovered and announced, this making the record of most exoplanets discovered in one day and in one month. 
 
 

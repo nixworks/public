@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/17/index.html)  [JSON](2013/11/17/index.json)  [XML](201
 
 ##### Libya
 ### [Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md)
-_Context: Libya, Tripoli International Airport_
+_Context: Tripoli International Airport, Libya_
 
 ##### Doris Lessing
 ### [British author Doris Lessing, winner of the Nobel Prize for Literature in 2007, dies at the age of 94. ](/news/2013/11/17/british-author-doris-lessing-winner-of-the-nobel-prize-for-literature-in-2007-dies-at-the-age-of-94.md)
@@ -19,7 +19,7 @@ PlayStation 4 sales reached the 1 million mark within the console&#039;s first 2
 ### [The number of people displaced reaches 1.9 million people. Numbers vary between 1,000-20,000 for estimates about missing people. ](/news/2013/11/17/the-number-of-people-displaced-reaches-1-9-million-people-numbers-vary-between-1-000-20-000-for-estimates-about-missing-people.md)
 Flooding in Vietnam has killed at least 28 people since Friday, with nine others missing and nearly 80,000 displaced, state media and government reports said, after a tropical depression dumped heavy rains across central regions of the country.
 
-##### killed
+##### Killed
 ### [Fifty people are killed after a passenger Boeing 737 crash lands in the city of Kazan in central Russia. ](/news/2013/11/17/fifty-people-are-killed-after-a-passenger-boeing-737-crash-lands-in-the-city-of-kazan-in-central-russia.md)
 Fifty people died after a Boeing passenger plane crashed on landing in the city of Kazan in central Russia on Sunday, according to the Emergencies Ministry. A doctor working at the scene said that only ashes and rubble were left from the plane.
 
@@ -33,11 +33,11 @@ Abdulla Yameen is to be sworn in as president of the Maldives after a surprise w
 
 ##### Giorgi Margvelashvili
 ### [Giorgi Margvelashvili is sworn in as the President of Georgia following the victory in the October election. ](/news/2013/11/17/giorgi-margvelashvili-is-sworn-in-as-the-president-of-georgia-following-the-victory-in-the-october-election.md)
-_Context: President of Georgia, Giorgi Margvelashvili_
+_Context: Giorgi Margvelashvili, President of Georgia_
 
 ##### Chile
 ### [Voters in Chile go to the polls for a general election of president, senators, deputies, and regional advisers. The presidential election looks likely to go to a runoff between former President Michelle Bachelet and Evelyn Matthei of the ruling Coalition. ](/news/2013/11/17/voters-in-chile-go-to-the-polls-for-a-general-election-of-president-senators-deputies-and-regional-advisers-the-presidential-election-lo.md)
-_Context: Evelyn Matthei, President, regional advisers, senators, deputies, president, Chile, Michelle Bachelet_
+_Context: Michelle Bachelet, president, regional advisers, Chile, senators, deputies, President, Evelyn Matthei_
 
 ## [Previous Day...](/news/2013/11/16/index.md)
 

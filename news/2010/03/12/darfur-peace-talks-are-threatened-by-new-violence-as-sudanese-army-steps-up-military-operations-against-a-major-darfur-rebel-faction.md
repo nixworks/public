@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/03/12/darfur-peace-talks-are-threatened-by-new-violen
 
 ### [2010-03-12](/news/2010/03/12/index.md)
 
-##### conflict
+##### Conflict
 # Darfur peace talks are threatened by new violence as Sudanese army steps up military operations against a major Darfur rebel faction. 
 
 

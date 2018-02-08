@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/06/29/a-man-self-immolates-in-birmingham-city-centre-
 
 ### [2012-06-29](/news/2012/06/29/index.md)
 
-##### sets herself alight
+##### Sets herself alight
 # A man self-immolates in Birmingham city centre in a case reminiscent of Mohamed Bouazizi. 
 
 

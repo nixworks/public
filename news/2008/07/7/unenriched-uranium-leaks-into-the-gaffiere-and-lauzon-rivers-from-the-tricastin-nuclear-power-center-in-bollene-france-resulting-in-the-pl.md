@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/07/7/unenriched-uranium-leaks-into-the-gaffiere-and-l
 
 ### [2008-07-7](/news/2008/07/7/index.md)
 
-##### uranium
+##### Uranium
 #  Unenriched uranium leaks into the Gaffire and Lauzon rivers from the Tricastin Nuclear Power Center in Bollne, France resulting in the plant being closed. 
 
 

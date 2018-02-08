@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/01/10/twin-bombings-at-a-billiard-hall-in-the-southwe
 
 ### [2013-01-10](/news/2013/01/10/index.md)
 
-##### a month earlier
+##### A month earlier
 # Twin bombings at a billiard hall in the southwestern Pakistani city of Quetta kill at least 81 people and wound up to 120 others, hours after a bombing at a market area killed 11 people in the same city. 
 
 Twin blasts at a snooker hall in the south-western Pakistani city of Quetta kill 81 people, police say, after 11 died in an earlier market bombing.

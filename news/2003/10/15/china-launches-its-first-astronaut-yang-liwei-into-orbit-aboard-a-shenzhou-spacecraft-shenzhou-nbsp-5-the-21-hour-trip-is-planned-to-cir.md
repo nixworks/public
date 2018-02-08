@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/10/15/china-launches-its-first-astronaut-yang-liwei-i
 
 ### [2003-10-15](/news/2003/10/15/index.md)
 
-##### astronaut
+##### Astronaut
 #  China launches its first astronaut, Yang Liwei into orbit aboard a Shenzhou spacecraft, Shenzhou&nbsp;5. The 21-hour trip is planned to circle the planet 14 times.
 
 

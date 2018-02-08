@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/08/31/parliamentary-elections-take-place-in-angola.ht
 
 ### [2012-08-31](/news/2012/08/31/index.md)
 
-##### general election
+##### General election
 # Parliamentary elections take place in Angola. 
 
 Second election since end of 27-year civil war likely to keep Eduardo dos Santos in power despite strong opposition.

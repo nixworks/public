@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/01/2/strict-new-anti-smoking-legislation-comes-into-e
 
 ### [2011-01-2](/news/2011/01/2/index.md)
 
-##### banning
+##### Banning
 # Strict new anti-smoking legislation comes into effect in Spain. 
 
 

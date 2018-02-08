@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/11/3/ireland-s-high-court-rules-as-unconstitutional-t
 
 ### [2010-11-3](/news/2010/11/3/index.md)
 
-##### by-election
+##### By-election
 # Ireland's High Court rules as unconstitutional the government's delay in holding one of the four by-elections due in the country; the government then announces the by-election in the Donegal South-West constituency will take place by the end of the month. 
 
 The High Court in Dublin rules that the Irish government has &quot;unreasonably delayed&quot; holding a by-election in Donegal.

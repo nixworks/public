@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/5/casey-anthony-is-acquitted-of-murder-in-relation
 
 ### [2011-07-5](/news/2011/07/5/index.md)
 
-##### death of her daughter Caylee
+##### Death of her daughter Caylee
 # Casey Anthony is acquitted of murder in relation to the death of her daughter Caylee, but guilty on four counts of misdemeanor providing false information to a law enforcement officer. 
 
 Jurors in Orlando today found Casey Anthony not guilty of murder in the death of her 2-year-old daughter, Caylee.

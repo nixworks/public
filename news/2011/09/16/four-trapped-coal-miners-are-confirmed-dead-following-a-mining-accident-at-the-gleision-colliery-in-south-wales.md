@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/09/16/four-trapped-coal-miners-are-confirmed-dead-fol
 
 ### [2011-09-16](/news/2011/09/16/index.md)
 
-##### mining accident
+##### Mining accident
 # Four trapped coal miners are confirmed dead following a mining accident at the Gleision Colliery in South Wales. 
 
 The search for four miners trapped underground in a flooded Swansea Valley colliery ends with the discovery of the last body.

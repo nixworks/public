@@ -13,7 +13,7 @@ Anti-Lisbon campaigner Patricia McKenna has threatened the European Commission w
 
 ##### Libya
 ### [ Libyan leader Muammar al-Gaddafi and Venezuelan President Hugo Chavez sign eight accords in Caracas following the weekend's second ASA summit. ](/news/2009/09/28/libyan-leader-muammar-al-gaddafi-and-venezuelan-president-hugo-cha-vez-sign-eight-accords-in-caracas-following-the-weekend-s-second-asa-sum.md)
-_Context: Venezuela, Caracas, Libya, Hugo Chavez, Muammar al-Gaddafi, Venezuelan President_
+_Context: Venezuelan President, Caracas, Libya, Hugo Chavez, Venezuela, Muammar al-Gaddafi_
 
 ##### Typhoon Ketsana
 ### [ The death toll in the worst flooding in the Philippines for forty years reaches 140 as the capital Manila is "overwhelmed". ](/news/2009/09/28/the-death-toll-in-the-worst-flooding-in-the-philippines-for-forty-years-reaches-140-as-the-capital-manila-is-overwhelmed.md)
@@ -21,7 +21,7 @@ The death toll from devastating floods in the Philippine capital, Manila, and su
 
 ##### Roman Polanski
 ### [ Roman Polanski officially challenges his proposed extradition from Switzerland to the United States to face child sexual abuse charges stemming from a 1977 incident. ](/news/2009/09/28/roman-polanski-officially-challenges-his-proposed-extradition-from-switzerland-to-the-united-states-to-face-child-sexual-abuse-charges-stem.md)
-_Context: sexually assaulted, extradition, Roman Polanski, United States, Switzerland_
+_Context: extradition, Switzerland, United States, sexually assaulted, Roman Polanski_
 
 ##### Japan
 ### [ Japan's Liberal Democratic Party elects Sadakazu Tanigaki to replace Taro Aso. ](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.md)
@@ -33,11 +33,11 @@ _Context: Manuel Zelaya, President, Honduras_
 
 ##### Eldoret
 ### [ An Eldoret operation commences to close down Kenya's largest camp for people forced to flee their homes during the 2007-2008 Kenyan crisis ethnic violence. ](/news/2009/09/28/an-eldoret-operation-commences-to-close-down-kenya-s-largest-camp-for-people-forced-to-flee-their-homes-during-the-2007a2008-kenyan-crisi.md)
-_Context: post-election violence, Kenya, Eldoret_
+_Context: post-election violence, Eldoret, Kenya_
 
 ##### President of the autonomous Government of Southern Sudan
 ### [ President of the autonomous Government of Southern Sudan Salva Kiir says Sudan is at a "historic crossroads" which will lead to a split from the north. ](/news/2009/09/28/president-of-the-autonomous-government-of-southern-sudan-salva-kiir-says-sudan-is-at-a-historic-crossroads-which-will-lead-to-a-split-fro.md)
-_Context: Sudan, President of the autonomous Government of Southern Sudan, Salva Kiir Mayardit_
+_Context: Salva Kiir Mayardit, President of the autonomous Government of Southern Sudan, Sudan_
 
 ##### Australia
 ### [ Australia's 12 Apostles natural landmarks continue to crumble. ](/news/2009/09/28/australia-s-12-apostles-natural-landmarks-continue-to-crumble.md)
@@ -49,15 +49,15 @@ _Context: ashram, Little Cumbrae, Scotland_
 
 ##### Robert Mugabe
 ### [ Charges of plotting to topple Robert Mugabe against Jestina Mukoko, a prominent Zimbabwean rights activist, are thrown out after the Supreme Court rules she had been tortured while in custody. ](/news/2009/09/28/charges-of-plotting-to-topple-robert-mugabe-against-jestina-mukoko-a-prominent-zimbabwean-rights-activist-are-thrown-out-after-the-suprem.md)
-_Context: Jestina Mukoko, Zimbabwe, Robert Mugabe_
+_Context: Zimbabwe, Jestina Mukoko, Robert Mugabe_
 
 ##### Gregoire Ndahimana
 ### [ Gregoire Ndahimana, a former mayor accused of taking part in the 1994 Rwandan genocide, pleads not guilty at a United Nations tribunal. ](/news/2009/09/28/gra-c-goire-ndahimana-a-former-mayor-accused-of-taking-part-in-the-1994-rwandan-genocide-pleads-not-guilty-at-a-united-nations-tribunal.md)
-_Context: Gregoire Ndahimana, United Nations, Rwanda_
+_Context: United Nations, Rwanda, Gregoire Ndahimana_
 
 ##### Chinese Civilisation Revisited
 ### [ "Chinese Civilisation Revisited" by Xiao Jiansheng, a book about Chinese history which is outlawed in China, goes on sale in Hong Kong. ](/news/2009/09/28/chinese-civilisation-revisited-by-xiao-jiansheng-a-book-about-chinese-history-which-is-outlawed-in-china-goes-on-sale-in-hong-kong.md)
-_Context: China, Chinese Civilisation Revisited, Hong Kong_
+_Context: Chinese Civilisation Revisited, China, Hong Kong_
 
 ##### G20
 ### [ A police officer who served at the G20 demonstrations in London in April 2009 is to face a charge of assaulting a woman with a baton after becoming involved in a confrontation at a vigil for Ian Tomlinson. ](/news/2009/09/28/a-police-officer-who-served-at-the-g20-demonstrations-in-london-in-april-2009-is-to-face-a-charge-of-assaulting-a-woman-with-a-baton-after.md)
@@ -67,15 +67,15 @@ A police sergeant who allegedly struck a woman, Nicola Fisher, during G20 protes
 ### [ Spain's Pablo Pineda wins the best actor award at the San Sebastian International Film Festival, the first actor with Down's syndrome to win an international film award. ](/news/2009/09/28/spain-s-pablo-pineda-wins-the-best-actor-award-at-the-san-sebastia-n-international-film-festival-the-first-actor-with-down-s-syndrome-to-w.md)
 _Context: San Sebastian International Film Festival, Spain, Down's syndrome, Pablo Pineda_
 
-##### abstract impressionist
+##### Abstract impressionist
 ### [ Art historian Henry Adams claims abstract impressionist Jackson Pollock camouflaged his signature as a "hidden message" inside his famous 1943 "Mural". ](/news/2009/09/28/art-historian-henry-adams-claims-abstract-impressionist-jackson-pollock-camouflaged-his-signature-as-a-hidden-message-inside-his-famous-1.md)
 Jackson Pollock hid his signature inside one of his most important and valuable paintings, an art historian believes.
 
 ##### North Korea
 ### [ North Korea revises its constitution, removing all references to communism, while mentioning human rights for the first time, as well as stating Kim Jong-il as its "Supreme Leader". ](/news/2009/09/28/north-korea-revises-its-constitution-removing-all-references-to-communism-while-mentioning-human-rights-for-the-first-time-as-well-as-st.md)
-_Context: communism, constitution, human rights, North Korea, Kim Jong-il_
+_Context: Kim Jong-il, North Korea, communism, constitution, human rights_
 
-##### massacre of opposition protesters
+##### Massacre of opposition protesters
 ### [ At least 58 people are killed at a large opposition rally in Guinea against Moussa Dadis Camara who seized power in a coup last year. ](/news/2009/09/28/at-least-58-people-are-killed-at-a-large-opposition-rally-in-guinea-against-moussa-dadis-camara-who-seized-power-in-a-coup-last-year.md)
 Security forces open fire on opposition supporters in capital, human rights group says.
 
@@ -89,7 +89,7 @@ _Context: Ethiopia, Oxfam, East Africa_
 
 ##### Peru
 ### [ Former Peruvian President Alberto Fujimori pleads guilty to bribery and illegal phone-tapping of journalists, businessmen and opposition politicians. ](/news/2009/09/28/former-peruvian-president-alberto-fujimori-pleads-guilty-to-bribery-and-illegal-phone-tapping-of-journalists-businessmen-and-opposition-po.md)
-_Context: Alberto Fujimori, President, Peru_
+_Context: Peru, President, Alberto Fujimori_
 
 ## [Previous Day...](/news/2009/09/27/index.md)
 

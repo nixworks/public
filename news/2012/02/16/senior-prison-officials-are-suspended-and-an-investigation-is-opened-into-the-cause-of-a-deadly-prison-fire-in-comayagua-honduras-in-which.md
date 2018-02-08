@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/02/16/senior-prison-officials-are-suspended-and-an-in
 
 ### [2012-02-16](/news/2012/02/16/index.md)
 
-##### deadly prison fire
+##### Deadly prison fire
 # Senior prison officials are suspended and an investigation is opened into the cause of a deadly prison fire in Comayagua, Honduras, in which over 350 inmates died. 
 
 

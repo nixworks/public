@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/12/31/several-bombs-and-further-threats-by-a-disgrunt
 
 ### [2008-12-31](/news/2008/12/31/index.md)
 
-##### bomb
+##### Bomb
 #  Several bombs and further threats by a disgruntled resident lead police to evacuate downtown Aspen, Colorado, United States. 
 
 

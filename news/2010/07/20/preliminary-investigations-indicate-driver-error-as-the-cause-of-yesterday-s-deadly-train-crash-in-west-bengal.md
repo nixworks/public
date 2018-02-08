@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/20/preliminary-investigations-indicate-driver-erro
 
 ### [2010-07-20](/news/2010/07/20/index.md)
 
-##### yesterday's deadly train crash
+##### Yesterday's deadly train crash
 # Preliminary investigations indicate driver error as the cause of yesterday's deadly train crash in West Bengal. 
 
 

@@ -13,7 +13,7 @@ An aircraft part found on Reunion Island was from missing Flight MH370, says Mal
 
 ##### Italian Coast Guard
 ### [The Italian Corps of the Port Captaincies - Coast Guard and Irish Navy rescue 367 people as a boat carrying migrants founders off the coast of Libya with 25 people dying. ](/news/2015/08/5/the-italian-corps-of-the-port-captaincies-a-coast-guard-and-irish-navy-rescue-367-people-as-a-boat-carrying-migrants-founders-off-the-coas.md)
-_Context: Italian Coast Guard, Libya, Irish Navy_
+_Context: Libya, Irish Navy, Italian Coast Guard_
 
 ##### The Gold King Mine waste water spill
 ### [The Gold King Mine waste water spill releases 3 million gallons of heavy metal toxin tailings and waste water into the Animas River in Colorado. ](/news/2015/08/5/the-gold-king-mine-waste-water-spill-releases-3-million-gallons-of-heavy-metal-toxin-tailings-and-waste-water-into-the-animas-river-in-color.md)
@@ -23,7 +23,7 @@ _Context: Italian Coast Guard, Libya, Irish Navy_
 ### [Researchers based at the University of Helsinki, using data from Statistics Finland, suggests that fathers live longest when having children around the age of 25 to 30, rather than prior. ](/news/2015/08/5/researchers-based-at-the-university-of-helsinki-using-data-from-statistics-finland-suggests-that-fathers-live-longest-when-having-children.md)
 Here&apos;s some expert advice for would-be fathers: If possible, wait to have kids until you hit your mid-twenties. Becoming a parent sooner raises the chances of an early death, new research suggests.
 
-##### an outbreak of legionnaires disease in New York City
+##### An outbreak of legionnaires disease in New York City
 ### [The death toll from an outbreak of legionnaires disease in New York City rises to eight with 97 people sick. ](/news/2015/08/5/the-death-toll-from-an-outbreak-of-legionnaires-disease-in-new-york-city-rises-to-eight-with-97-people-sick.md)
 _Context: an outbreak of legionnaires disease in New York City_
 

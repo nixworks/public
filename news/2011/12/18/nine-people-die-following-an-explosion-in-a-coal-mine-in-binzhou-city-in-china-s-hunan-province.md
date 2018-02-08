@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coa
 
 ### [2011-12-18](/news/2011/12/18/index.md)
 
-##### coal mine
+##### Coal mine
 # Nine people die following an explosion in a coal mine in Binzhou City in China's Hunan Province. 
 
 

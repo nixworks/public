@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/05/5/a-local-tsunami-warning-is-issued-after-a-magnit
 
 ### [2015-05-5](/news/2015/05/5/index.md)
 
-##### tsunami
+##### Tsunami
 # A local tsunami warning is issued after a magnitude 7.4 earthquake occurs in the Pacific Ocean near the island of New Britain in Papua New Guinea. There is a small tsunami and some property damage. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

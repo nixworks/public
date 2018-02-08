@@ -19,9 +19,9 @@ _Context: Standard & Poor's, South Africa_
 ### [The European Union wins the 2012 [[Nobel Peace Prize]; "for over six decades [having] contributed to the advancement of peace and reconciliation, democracy and human rights in Europe". ](/news/2012/10/12/the-european-union-wins-the-2012-nobel-peace-prize-for-over-six-decades-having-contributed-to-the-advancement-of-peace-and-reconcilia.md)
 The European Union has won the Nobel Peace Prize, despite a year marked by riots on streets of many capitals and the looming prospect of an acrimonious break up amid an economic crisis caused by the euro.
 
-##### recent allegations of sexual abuse
+##### Recent allegations of sexual abuse
 ### [The British government is dragged into the nationwide scandal surrounding former BBC presenter and DJ Jimmy Savile, who faces hundreds of allegations surrounding his conduct in the presence of teenage girls. ](/news/2012/10/12/the-british-government-is-dragged-into-the-nationwide-scandal-surrounding-former-bbc-presenter-and-dj-jimmy-savile-who-faces-hundreds-of-al.md)
-_Context: Jimmy Savile, recent allegations of sexual abuse_
+_Context: recent allegations of sexual abuse, Jimmy Savile_
 
 ##### Hillsborough disaster
 ### [The UK's largest independent investigation into police wrongdoing will be conducted following a damning report into the 1989 Hillsborough disaster. ](/news/2012/10/12/the-uk-s-largest-independent-investigation-into-police-wrongdoing-will-be-conducted-following-a-damning-report-into-the-1989-hillsborough-di.md)

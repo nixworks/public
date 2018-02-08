@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/13/a-group-of-women-kill-an-alleged-rapist-during-
 
 ### [2004-08-13](/news/2004/08/13/index.md)
 
-##### rape
+##### Rape
 #  A group of women kill an alleged rapist during his trial in Nagpur, India. 
 
 

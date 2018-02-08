@@ -3,7 +3,7 @@ Formats: [HTML](/news/2012/12/24/a-minivan-carrying-15-children-to-kindergarten-
 
 ### [2012-12-24](/news/2012/12/24/index.md)
 
-##### minivan
+##### Minivan
 # A minivan carrying 15 children to kindergarten plunges into a roadside pond in a rural area of eastern China, killing 11 children. 
 
 

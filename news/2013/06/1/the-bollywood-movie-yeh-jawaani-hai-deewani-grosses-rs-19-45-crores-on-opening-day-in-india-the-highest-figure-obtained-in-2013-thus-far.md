@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/06/1/the-bollywood-movie-yeh-jawaani-hai-deewani-gros
 
 ### [2013-06-1](/news/2013/06/1/index.md)
 
-##### bollywood
+##### Bollywood
 # The bollywood movie "Yeh Jawaani Hai Deewani" grosses Rs 19.45 crores on opening day in India, the highest figure obtained in 2013 thus far. 
 
 Ranbir Kapoor&#039;s Badtameez Dil seems to have won the hearts of the audience in India as well as abroad.

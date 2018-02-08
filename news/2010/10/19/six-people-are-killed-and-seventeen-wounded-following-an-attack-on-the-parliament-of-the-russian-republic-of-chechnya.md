@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/10/19/six-people-are-killed-and-seventeen-wounded-fol
 
 ### [2010-10-19](/news/2010/10/19/index.md)
 
-##### an attack
+##### An attack
 # Six people are killed and seventeen wounded following an attack on the Parliament of the Russian republic of Chechnya. 
 
 At least six people are dead and 17 injured after militants attack parliament in the Russian republic of Chechnya.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2005/11/24/there-are-further-calls-in-the-media-and-parlia
 
 ### [2005-11-24](/news/2005/11/24/index.md)
 
-##### media
+##### Media
 #  There are further calls in the media and Parliament of the United Kingdom for Prime Minister Tony Blair to publish a full account of his discussions with US President Bush on the bombing of Al Jazeera TV station headquarters in Doha. A memo on the conversation has been partly leaked to the "Daily Mirror" newspaper, before the Official Secrets Act was invoked. 
 
 

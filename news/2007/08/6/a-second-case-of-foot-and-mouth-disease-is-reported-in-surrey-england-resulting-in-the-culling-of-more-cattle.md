@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/08/6/a-second-case-of-foot-and-mouth-disease-is-repor
 
 ### [2007-08-6](/news/2007/08/6/index.md)
 
-##### outbreak of 2007
+##### Outbreak of 2007
 #  A second case of foot and mouth disease is reported in Surrey, England, resulting in the culling of more cattle. 
 
 Britain&#039;s chief vet says another suspected case of foot and mouth disease has been reported near the site of the original outbreak and a new cull of about 50 cattle has therefore been ordered.

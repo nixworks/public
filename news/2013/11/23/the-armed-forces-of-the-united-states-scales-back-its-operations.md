@@ -3,7 +3,7 @@ Formats: [HTML](/news/2013/11/23/the-armed-forces-of-the-united-states-scales-ba
 
 ### [2013-11-23](/news/2013/11/23/index.md)
 
-##### military
+##### Military
 # The Armed Forces of the United States scales back its operations. 
 
 The U.S. military has began scaling back its emergency relief operations in the Philippines as work shifts to recovery and rehabilitation in typhoon-hit areas, a U.S. aid agency official said on Saturday.

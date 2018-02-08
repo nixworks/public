@@ -23,7 +23,7 @@ Prime Minister Mariano Rajoy announced he will set in motion the so-called const
 ### [New Zealand First leader Winston Peters chooses to create a minority coalition with the Labour Party and form the sixth Labour government. ](/news/2017/10/19/new-zealand-first-leader-winston-peters-chooses-to-create-a-minority-coalition-with-the-labour-party-and-form-the-sixth-labour-government.md)
 The decision has been made.
 
-##### nature reserves
+##### Nature reserves
 ### [Scientists studying flying insects in nature reserves and protected areas of western Germany report a decline of more than 75% of the population in about three decades. ](/news/2017/10/19/scientists-studying-flying-insects-in-nature-reserves-and-protected-areas-of-western-germany-report-a-decline-of-more-than-75-of-the-popula.md)
 In western Germany, populations of flying insects have fallen by around 80 percent in the last three decades.
 

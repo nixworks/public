@@ -3,7 +3,7 @@ Formats: [HTML](/news/2006/10/10/hundreds-of-thousands-of-people-made-a-protest-
 
 ### [2006-10-10](/news/2006/10/10/index.md)
 
-##### made a protest
+##### Made a protest
 #  Hundreds of thousands of people made a protest against President Chen Shui-bian in Taipei, Taiwan, surrounding Office of the President, where Chen took part in ceremony marking Double Tenth Day. 
 
 

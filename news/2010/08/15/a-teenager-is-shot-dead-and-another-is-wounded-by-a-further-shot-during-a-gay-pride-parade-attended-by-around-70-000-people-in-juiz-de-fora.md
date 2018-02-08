@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/15/a-teenager-is-shot-dead-and-another-is-wounded-
 
 ### [2010-08-15](/news/2010/08/15/index.md)
 
-##### gay pride
+##### Gay pride
 # A teenager is shot dead and another is wounded by a further shot during a gay pride parade attended by around 70,000 people in Juiz de Fora, Minas Gerais, Brazil. 
 
 

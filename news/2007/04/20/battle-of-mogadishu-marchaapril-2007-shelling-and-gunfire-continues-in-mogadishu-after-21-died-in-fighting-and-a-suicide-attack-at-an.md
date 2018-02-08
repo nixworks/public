@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/04/20/battle-of-mogadishu-marchaapril-2007-shelling-a
 
 ### [2007-04-20](/news/2007/04/20/index.md)
 
-##### heavy clashes
+##### Heavy clashes
 #  Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. 
 
 

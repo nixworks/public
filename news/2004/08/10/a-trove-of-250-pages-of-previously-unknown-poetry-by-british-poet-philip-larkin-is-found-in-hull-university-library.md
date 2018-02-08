@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/10/a-trove-of-250-pages-of-previously-unknown-poet
 
 ### [2004-08-10](/news/2004/08/10/index.md)
 
-##### poetry
+##### Poetry
 #  A trove of 250 pages of previously unknown poetry by British poet Philip Larkin is found in Hull University library. 
 
 

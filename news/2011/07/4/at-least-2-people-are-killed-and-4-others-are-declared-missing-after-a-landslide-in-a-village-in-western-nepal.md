@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/07/4/at-least-2-people-are-killed-and-4-others-are-de
 
 ### [2011-07-4](/news/2011/07/4/index.md)
 
-##### landslide
+##### Landslide
 # At least 2 people are killed and 4 others are declared missing after a landslide in a village in western Nepal. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2011/03/7/a-strong-6-6-magnitude-earthquake-occurs-off-the
 
 ### [2011-03-7](/news/2011/03/7/index.md)
 
-##### earthquake
+##### Earthquake
 # A strong 6.6 magnitude earthquake occurs off the coast of the Solomon Islands in the Pacific Ocean. 
 
 

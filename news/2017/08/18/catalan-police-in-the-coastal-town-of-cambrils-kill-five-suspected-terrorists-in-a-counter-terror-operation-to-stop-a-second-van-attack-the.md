@@ -3,7 +3,7 @@ Formats: [HTML](/news/2017/08/18/catalan-police-in-the-coastal-town-of-cambrils-
 
 ### [2017-08-18](/news/2017/08/18/index.md)
 
-##### van attack
+##### Van attack
 # Catalan police in the coastal town of Cambrils kill five suspected terrorists in a counter-terror operation to stop a second van attack. The police reported the attackers were wearing explosive vests, however they were later discovered to be fakes. 
 
 

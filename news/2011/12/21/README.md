@@ -5,7 +5,7 @@ Formats: [HTML](2011/12/21/index.html)  [JSON](2011/12/21/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Syria's opposition urge the United Nations and Arab League to hold emergency meetings after an alleged massacre took place in the northwest of the country, before Arab League monitors enter the country. ](/news/2011/12/21/2011-syrian-uprising-syria-s-opposition-urge-the-united-nations-and-arab-league-to-hold-emergency-meetings-after-an-alleged-massacre-took-p.md)
-_Context: Syria, 2011 Syrian uprising, Arab League, United Nations_
+_Context: United Nations, Arab League, Syria, 2011 Syrian uprising_
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Thousands of Yemeni protesters march from the city of Taez to the capital Sana'a to demand a trial for outgoing President Ali Abdullah Saleh for alleged crimes against anti-government protesters. ](/news/2011/12/21/2011-yemeni-uprising-thousands-of-yemeni-protesters-march-from-the-city-of-taez-to-the-capital-sana-a-to-demand-a-trial-for-outgoing-presid.md)
@@ -55,7 +55,7 @@ England captain John Terry is to face a criminal charge of using racist language
 ### [Soyuz TMA-03M, launched from Baikonur, carries a crew of three men to the International Space Station. ](/news/2011/12/21/soyuz-tma-03m-launched-from-baikonur-carries-a-crew-of-three-men-to-the-international-space-station.md)
  PR 37 2011 - After their launch from Baikonur Cosmodrome in Kazakhstan at 13:16 GMT (14:16 CET) today, ESA astronaut André Kuipers and crewmates Oleg Kononenko and Don Pettit are circling Earth every 90 minutes aboard the Soyuz TMA-3M spacecraft as they make their way to the Internationa&#8230;
 
-##### rebellion by villagers in Wukan
+##### Rebellion by villagers in Wukan
 ### [A rebellion by villagers in Wukan, southern China, ends after authorities say they will release three protesters detained and agree to other demands. ](/news/2011/12/21/a-rebellion-by-villagers-in-wukan-southern-china-ends-after-authorities-say-they-will-release-three-protesters-detained-and-agree-to-other.md)
 The rebellious Chinese fishing village of Wukan forced the ruling Communist Party to agree to the release of three villagers detained for protesting against corruption and land grabs on Wednesday.
 

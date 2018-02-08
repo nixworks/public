@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/12/at-least-two-people-are-killed-including-one-ca
 
 ### [2010-08-12](/news/2010/08/12/index.md)
 
-##### self-immolation
+##### Self-immolation
 # At least two people are killed, including one case of self-immolation from a balcony, while more than 80 sustain wounds after troops interrupt a protest against poor conditions with batons and flashbangs at a prison in Astana, Kazakhstan. 
 
 At least two inmates are killed and more than 80 injured during a prison riot in Kazakhstan, in an apparent protest over poor conditions.

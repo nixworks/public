@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/11/30/2008-thai-political-crisis-a-grenade-attack-on-
 
 ### [2008-11-30](/news/2008/11/30/index.md)
 
-##### assemble
+##### Assemble
 #  2008 Thai political crisis: A grenade attack on a People's Alliance for Democracy rally in Bangkok injures at least 46 people. 
 
 

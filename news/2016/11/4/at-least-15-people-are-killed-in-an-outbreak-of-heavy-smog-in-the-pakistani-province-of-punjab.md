@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/11/4/at-least-15-people-are-killed-in-an-outbreak-of-
 
 ### [2016-11-4](/news/2016/11/4/index.md)
 
-##### smog
+##### Smog
 # At least 15 people are killed in an outbreak of heavy smog in the Pakistani province of Punjab. 
 
 In last 12 hours, as many as 1,200 patients have visited hospitals due to smog-related emergencies

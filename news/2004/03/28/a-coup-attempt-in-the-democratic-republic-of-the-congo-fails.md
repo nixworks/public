@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/03/28/a-coup-attempt-in-the-democratic-republic-of-th
 
 ### [2004-03-28](/news/2004/03/28/index.md)
 
-##### coup d'etat
+##### Coup d'etat
 #  A coup attempt in the Democratic Republic of the Congo fails. 
 
 

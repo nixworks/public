@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/08/19/shares-of-stock-in-google-inc-begin-trading-on-
 
 ### [2004-08-19](/news/2004/08/19/index.md)
 
-##### stock
+##### Stock
 #  Shares of stock in Google, Inc. begin trading on the NASDAQ stock exchange at around $100 per share in one of the most highly anticipated initial public offerings of the year. It is estimated that the IPO raised a total of $1.66 billion, the third highest ever for an IPO. 
 
 

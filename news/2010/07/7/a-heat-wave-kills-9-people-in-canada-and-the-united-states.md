@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/7/a-heat-wave-kills-9-people-in-canada-and-the-uni
 
 ### [2010-07-7](/news/2010/07/7/index.md)
 
-##### heat wave
+##### Heat wave
 # A heat wave kills 9 people in Canada and the United States. 
 
 The scene inside Con Ed’s command center showed the urgency of the utility’s efforts and the nature of its reach.

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/09/7/a-beachgoer-in-australia-discovers-dinosaur-foot
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
-##### beach
+##### Beach
 # A beachgoer in Australia discovers dinosaur footprints believed to be around 130 million years old while combing the shore for shells. 
 
 

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/08/14/6-4-richter-scale-earthquake-near-the-greek-ion
 
 ### [2003-08-14](/news/2003/08/14/index.md)
 
-##### magnitude
+##### Magnitude
 #  6.4 Richter scale earthquake near the Greek Ionian island of Lefkada - 24 injured
 
 

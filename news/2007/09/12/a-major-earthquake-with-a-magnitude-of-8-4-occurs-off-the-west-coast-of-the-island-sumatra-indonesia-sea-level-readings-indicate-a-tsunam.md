@@ -3,7 +3,7 @@ Formats: [HTML](/news/2007/09/12/a-major-earthquake-with-a-magnitude-of-8-4-occu
 
 ### [2007-09-12](/news/2007/09/12/index.md)
 
-##### earthquake
+##### Earthquake
 #  A major earthquake with a magnitude of 8.4 occurs off the west-coast of the island Sumatra, Indonesia. Sea level readings indicate a tsunami might follow and a tsunami watch is put in place for the whole of the Indian Ocean. 
 
 

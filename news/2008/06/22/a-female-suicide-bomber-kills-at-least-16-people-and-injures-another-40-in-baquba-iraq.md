@@ -3,7 +3,7 @@ Formats: [HTML](/news/2008/06/22/a-female-suicide-bomber-kills-at-least-16-peopl
 
 ### [2008-06-22](/news/2008/06/22/index.md)
 
-##### suicide bomber
+##### Suicide bomber
 #  A female suicide bomber kills at least 16 people and injures another 40 in Baquba, Iraq. 
 
 

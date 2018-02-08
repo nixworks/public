@@ -3,7 +3,7 @@ Formats: [HTML](/news/2003/06/9/north-american-ice-hockey-the-new-jersey-devils-
 
 ### [2003-06-9](/news/2003/06/9/index.md)
 
-##### ice hockey
+##### Ice hockey
 #  North American ice hockey: The New Jersey Devils win the Stanley Cup, beating the Mighty Ducks of Anaheim, 3-0, in Game Seven of their championship series.
 
 

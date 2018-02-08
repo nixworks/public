@@ -3,7 +3,7 @@ Formats: [HTML](/news/2016/10/21/the-pursuit-of-a-car-jacking-suspect-in-albuque
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
-##### car jacking
+##### Car jacking
 # The pursuit of a car jacking suspect in Albuquerque, New Mexico, United States, leaves four police officers injured and hospitalized. 
 
 Officer, deputy suffer injuries during chase
