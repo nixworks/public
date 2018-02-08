@@ -5,11 +5,11 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Syrian Air Defense Force, Israeli involvement in the Syrian Civil War, Lebanese, Syria, Israel, Jamraya, Rif Dimashq Governorate_
+_Context: Israeli involvement in the Syrian Civil War, Jamraya, Rif Dimashq Governorate, Syrian Air Defense Force, Syria, Israel, Lebanese_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: United States Central Command, United States attacks on the Syrian government, Euphrates, Syria, Russia_
+_Context: United States attacks on the Syrian government, Russia, Syria, United States Central Command, Euphrates_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers in Kansas City and 500 workers in Iowa City (with about 700 workers remaining at P&G's two Iowa City factories.) ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
@@ -28,7 +28,7 @@ The European Parliament has voted overwhelmingly to dismiss one of its vice pres
 Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
 
 ##### List of speeches
-### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year Democrat pled eight hours non-stop for a vote to protect "Dreamer" immigrants who face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-democrat-pled-eight-hours-n.md)
+### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat pleads eight hours non-stop for a vote to protect "Dreamer" immigrants who face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-pleads-eight-h.md)
 House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immigrants whose protection from deportation ends next month.
 
 ##### Prehistoric Britain

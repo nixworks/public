@@ -4,8 +4,16 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/8/index.md)
 
 ##### Syrian Civil War
-### [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States now controls about a quarter of Syria. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-now-controls-about-a-quarter-of-syri.md)
+### [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States-allied groups now controls about a quarter of Syria. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-allied-groups-now-controls-about-a-q.md)
 The overnight clash came after pro-government forces attacked a U.S.-backed base in the eastern Syrian desert, prompting the U.S. to retaliate in &ldquo;self defense.&rdquo;
+
+##### Economy of Germany
+### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
+_Context: trade surplus, Economy of Germany_
+
+##### Joint Comprehensive Plan of Action
+### [A senior European External Action Service official says that the European Union could implement "blocking regulations", based on a legal framework set up in 1996 for E.U. trade wih Cuba, to protect its companies doing business with Iran, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-could-implement-blocking-regulations-based-on-a-legal-fra.md)
+The European Union could put in place regulations to protect its firms doing business in Iran if the United States withdraws from the 2015 nuclear deal and restores extraterritorial sanctions, a senior EU official said on Thursday.
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -17,11 +25,11 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Syrian Air Defense Force, Israeli involvement in the Syrian Civil War, Lebanese, Syria, Israel, Jamraya, Rif Dimashq Governorate_
+_Context: Israeli involvement in the Syrian Civil War, Jamraya, Rif Dimashq Governorate, Syrian Air Defense Force, Syria, Israel, Lebanese_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: United States Central Command, United States attacks on the Syrian government, Euphrates, Syria, Russia_
+_Context: United States attacks on the Syrian government, Russia, Syria, United States Central Command, Euphrates_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers in Kansas City and 500 workers in Iowa City (with about 700 workers remaining at P&G's two Iowa City factories.) ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
@@ -40,7 +48,7 @@ The European Parliament has voted overwhelmingly to dismiss one of its vice pres
 Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
 
 ##### List of speeches
-### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year Democrat pled eight hours non-stop for a vote to protect "Dreamer" immigrants who face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-democrat-pled-eight-hours-n.md)
+### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat pleads eight hours non-stop for a vote to protect "Dreamer" immigrants who face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-pleads-eight-h.md)
 House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immigrants whose protection from deportation ends next month.
 
 ##### Prehistoric Britain
@@ -73,7 +81,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: Mars, SpaceX, Elon Musk's Tesla Roadster, Falcon Heavy Demonstration Mission, David Bowie, elliptic orbit, Falcon Heavy, Life on Mars_
+_Context: Mars, SpaceX, Falcon Heavy, Elon Musk's Tesla Roadster, David Bowie, Falcon Heavy Demonstration Mission, elliptic orbit, Life on Mars_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
