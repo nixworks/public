@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israeli involvement in the Syrian Civil War, Syria, Rif Dimashq Governorate, Israel, Syrian Air Defense Force, Lebanese, Jamraya_
+_Context: Israel, Lebanese, Syria, Jamraya, Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Syrian Air Defense Force_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
@@ -16,7 +16,7 @@ Macedonia is ready to add a geographical qualifier to its name to help resolve a
 The European Parliament has voted overwhelmingly to dismiss one of its vice presidents. Ryszard Czarnecki of Poland&#39;s ruling PiS party had compared a rival Polish MEP to a Nazi collaborator.
 
 ##### Weinstein effect
-### [Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the Daily Mail. ](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretary-after-two-of-his-ex-wives-make-allegations-of-physical-and-emotional-abuse-porter-denies.md)
+### [Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the "Daily Mail". ](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretary-after-two-of-his-ex-wives-make-allegations-of-physical-and-emotional-abuse-porter-denies.md)
 Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
 
 ##### Prehistoric Britain

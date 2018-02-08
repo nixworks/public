@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretar
 ### [2018-02-7](/news/2018/02/7/index.md)
 
 ##### Weinstein effect
-# Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the Daily Mail. 
+# Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the "Daily Mail". 
 
 Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
 

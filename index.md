@@ -5,7 +5,7 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israeli involvement in the Syrian Civil War, Syria, Rif Dimashq Governorate, Israel, Syrian Air Defense Force, Lebanese, Jamraya_
+_Context: Israel, Lebanese, Syria, Jamraya, Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Syrian Air Defense Force_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
@@ -16,7 +16,7 @@ Macedonia is ready to add a geographical qualifier to its name to help resolve a
 The European Parliament has voted overwhelmingly to dismiss one of its vice presidents. Ryszard Czarnecki of Poland&#39;s ruling PiS party had compared a rival Polish MEP to a Nazi collaborator.
 
 ##### Weinstein effect
-### [Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the Daily Mail. ](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretary-after-two-of-his-ex-wives-make-allegations-of-physical-and-emotional-abuse-porter-denies.md)
+### [Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the "Daily Mail". ](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretary-after-two-of-his-ex-wives-make-allegations-of-physical-and-emotional-abuse-porter-denies.md)
 Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
 
 ##### Prehistoric Britain
@@ -53,7 +53,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: David Bowie, Falcon Heavy, Falcon Heavy Demonstration Mission, Elon Musk's Tesla Roadster, SpaceX, Life on Mars, Mars, elliptic orbit_
+_Context: elliptic orbit, Mars, David Bowie, Falcon Heavy, Elon Musk's Tesla Roadster, Life on Mars, SpaceX, Falcon Heavy Demonstration Mission_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
@@ -77,7 +77,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Theresa May, Secretary of State for Exiting the European Union, Brexit negotiations, David Davis, Prime Minister, Brexit, Michel Barnier, London, United Kingdom, European Union_
+_Context: Theresa May, London, United Kingdom, European Union, Prime Minister, David Davis, Michel Barnier, Brexit negotiations, Secretary of State for Exiting the European Union, Brexit_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)
