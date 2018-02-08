@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Syria, Jamraya, Syrian Air Defense Force, Israel, Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Lebanese_
+_Context: Israel, Syrian Air Defense Force, Lebanese, Israeli involvement in the Syrian Civil War, Jamraya, Syria, Rif Dimashq Governorate_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
