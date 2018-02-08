@@ -13,7 +13,7 @@ _Context: Canadian Senate, House of Commons, O Canada_
 
 ##### Apple Inc.
 ### [Apple Inc. briefly removed the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. ](/news/2018/02/1/apple-inc-briefly-removed-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate.md)
-_Context: App Store, Pavel Durov, Apple Inc., Telegram_
+_Context: Telegram, Apple Inc., Pavel Durov, App Store_
 
 ##### Japan
 ### [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md)
@@ -21,11 +21,11 @@ The three-storey building in the northern city of Sapporo is home to mostly elde
 
 ##### United States-Mexico relations
 ### [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Enrique Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-enrique-pea-a-nieto-and-foreign-secretary-luis-videg.md)
-_Context: Luis Videgaray, United States-Mexico relations, President, Rex Tillerson, Mexico, United States Secretary of State, Enrique Pena Nieto_
+_Context: Rex Tillerson, United States Secretary of State, President, United States-Mexico relations, Enrique Pena Nieto, Luis Videgaray, Mexico_
 
 ##### School shootings in the United States
 ### [Two 15-year-old students are seriously wounded and three other people injured in a shooting at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-seriously-wounded-and-three-other-people-injured-in-a-shooting-at-sal-castro-middle-school-in-los-angeles-cali.md)
-_Context: California, Los Angeles, School shootings in the United States_
+_Context: School shootings in the United States, Los Angeles, California_
 
 ##### Human rights in the State of Palestine
 ### [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md)
