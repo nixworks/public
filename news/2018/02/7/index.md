@@ -5,7 +5,11 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israel, Syrian Air Defense Force, Lebanese, Israeli involvement in the Syrian Civil War, Jamraya, Syria, Rif Dimashq Governorate_
+_Context: pro-government, Lebanese, Israeli involvement in the Syrian Civil War, Jamraya, Israel, Syrian Air Defense Force, Rif Dimashq Governorate_
+
+##### United States attacks on the Syrian government
+### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
+_Context: Euphrates, United States Central Command, pro-government, United States attacks on the Syrian government, Russia_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
