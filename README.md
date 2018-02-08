@@ -4,19 +4,23 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/7/index.md)
 
 ##### Israeli involvement in the Syrian Civil War
-### [Syrian state media say that Israeli warplanes attacked a military position in the Damascus countryside from Lebanese airspace, with Syrian air defenses destroying most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-the-damascus-countryside-from-lebanese-airspace-with-syrian-a.md)
-_Context: Syria, Israeli involvement in the Syrian Civil War, Israel, Damascus, Lebanese_
+### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
+_Context: Israel, Jamraya, Israeli involvement in the Syrian Civil War, Lebanese, Syrian Air Defense Force, Syria, Rif Dimashq Governorate_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
 Macedonia is ready to add a geographical qualifier to its name to help resolve a dispute with Greece that has held up its prospects of joining the European Union and NATO, Prime Minister Zoran Zaev said on Tuesday.
 
-##### European Parliament
-### [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parlementarian Roza Thun (Civic Platform) a "szmalcownik" (meaning nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parle.md)
+##### Politics of the European Union
+### [The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parlementarian Roza Thun (Civic Platform) a "szmalcownik" (meaning Nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. ](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss-ryszard-czarnecki-pis-as-one-of-its-14-vice-presidents-for-calling-fellow-polish-parle.md)
 The European Parliament has voted overwhelmingly to dismiss one of its vice presidents. Ryszard Czarnecki of Poland&#39;s ruling PiS party had compared a rival Polish MEP to a Nazi collaborator.
 
+##### Weinstein effect
+### [Rob Porter resigns as White House Staff Secretary after two of his ex-wives make allegations of physical and emotional abuse. Porter denies the allegations, which were first published by the Daily Mail. ](/news/2018/02/7/rob-porter-resigns-as-white-house-staff-secretary-after-two-of-his-ex-wives-make-allegations-of-physical-and-emotional-abuse-porter-denies.md)
+Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
+
 ##### Prehistoric Britain
-### [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md)
+### [Researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-brita.md)
 New research adds to a growing body of evidence showing how the British Isles received waves of immigrants over tens of thousands of years.
 
 ##### Opinion
@@ -28,7 +32,7 @@ Most of the daily information we see on the mainstream media today is the news e
 ## [Yesterday](/news/2018/02/6/index.md)
 
 ##### 2018 Hualien earthquake
-### [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-7-people-are-killed-and-over-250-are.md)
+### [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 9 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-9-people-are-killed-and-over-250-are.md)
 Two people have been killed and more than 100 are injured after two earthquakes struck Taiwan. The island&#039;s Premier, William Lai, confirmed 114 people had sustained &quot;light or severe injuries&quot; and others were reportedly trapped inside collapsed buildings. 
 
 ##### Weinstein effect
@@ -49,7 +53,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: Life on Mars, David Bowie, Falcon Heavy Demonstration Mission, SpaceX, Falcon Heavy, Mars, Elon Musk's Tesla Roadster, elliptic orbit_
+_Context: SpaceX, Mars, Elon Musk's Tesla Roadster, Life on Mars, elliptic orbit, Falcon Heavy Demonstration Mission, Falcon Heavy, David Bowie_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
@@ -60,7 +64,7 @@ While the hole over Antarctica has been closing, the protective ozone is thinnin
 ## [Day Before Yesterday](/news/2018/02/5/index.md)
 
 ##### Israeli-Palestinian conflict
-### [An Israeli man is stabbed to death by a Palestinian man outside the Israeli-occupied West Bank settlement of Ariel. ](/news/2018/02/5/an-israeli-man-is-stabbed-to-death-by-a-palestinian-man-outside-the-israeli-occupied-west-bank-settlement-of-ariel.md)
+### [An Israeli rabbi is stabbed to death by an Israeli Arab outside the Israeli-occupied West Bank settlement of Ariel. ](/news/2018/02/5/an-israeli-rabbi-is-stabbed-to-death-by-an-israeli-arab-outside-the-israeli-occupied-west-bank-settlement-of-ariel.md)
 A Palestinian stabbed and killed an Israeli man on Monday in a Jewish settlement in the occupied West Bank, Israeli officials said.
 
 ##### Syrian Civil War
@@ -73,7 +77,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: Theresa May, London, Brexit, Prime Minister, Brexit negotiations, Michel Barnier, Secretary of State for Exiting the European Union, European Union, United Kingdom, David Davis_
+_Context: Prime Minister, Brexit, Michel Barnier, David Davis, Theresa May, Brexit negotiations, Secretary of State for Exiting the European Union, London, European Union, United Kingdom_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/7/the-european-parliament-votes-447a196-to-dismiss
 
 ### [2018-02-7](/news/2018/02/7/index.md)
 
-##### European Parliament
+##### Politics of the European Union
 # The European Parliament votes 447-196 to dismiss Ryszard Czarnecki (PiS) as one of its 14 vice-presidents, for calling fellow Polish parlementarian Roza Thun (Civic Platform) a "szmalcownik" (meaning Nazi collaborator). It is the first time that the parliament invokes the powers of Article 21 of the Treaty on European Union to dismiss a senior office holder. Czarnecki remains a Member of the European Parliament. 
 
 The European Parliament has voted overwhelmingly to dismiss one of its vice presidents. Ryszard Czarnecki of Poland&#39;s ruling PiS party had compared a rival Polish MEP to a Nazi collaborator.
