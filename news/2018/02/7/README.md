@@ -5,7 +5,7 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in the Damascus countryside from Lebanese airspace, with Syrian air defenses destroying most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-the-damascus-countryside-from-lebanese-airspace-with-syrian-a.md)
-_Context: Israel, Israeli involvement in the Syrian Civil War, Lebanese, Damascus, Syria_
+_Context: Syria, Israeli involvement in the Syrian Civil War, Israel, Damascus, Lebanese_
 
 ##### Macedonia naming dispute
 ### [Prime Minister of Macedonia Zoran Zaev states that his country is ready to add a geographical qualifier to its name in order to end the dispute. He also says that his government renamed the country's main airport and a key highway. ](/news/2018/02/7/prime-minister-of-macedonia-zoran-zaev-states-that-his-country-is-ready-to-add-a-geographical-qualifier-to-its-name-in-order-to-end-the-disp.md)
