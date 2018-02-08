@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-at
 ### [2018-02-7](/news/2018/02/7/index.md)
 
 ##### Israeli involvement in the Syrian Civil War
-# Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. 
+# Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. 
 
 
 
@@ -16,7 +16,7 @@ Formats: [HTML](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-at
 ### Changes:
 
 1. [Syrian state media say that Israeli warplanes attacked a military position in the Damascus countryside from Lebanese airspace, with Syrian air defenses destroying most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-the-damascus-countryside-from-lebanese-airspace-with-syrian-a.md) _2018-02-08 00:30:22 (First version)_
-1. [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md) _(Current version)_
+1. [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md) _(Current version)_
 
 ### Related:
 
