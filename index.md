@@ -4,12 +4,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/8/index.md)
 
 ##### Syrian Civil War
-### [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States is now in overall control of about a quarter of Syria. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-is-now-in-overall-control-of-about-a.md)
+### [Syria and Russia say that the United States' military presence in Syria is "illegal". ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal.md)
 The overnight clash came after pro-government forces attacked a U.S.-backed base in the eastern Syrian desert, prompting the U.S. to retaliate in &ldquo;self defense.&rdquo;
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: trade surplus, Economy of Germany_
+_Context: Economy of Germany, trade surplus_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -23,9 +23,13 @@ The European Union could put in place regulations to protect its firms doing bus
 ### [The Gambia formally rejoins the Commonwealth five years after its former President Yahya Jammeh withdrew the West African country, calling it a "neocolonial institution". ](/news/2018/02/8/the-gambia-formally-rejoins-the-commonwealth-five-years-after-its-former-president-yahya-jammeh-withdrew-the-west-african-country-calling-i.md)
 BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African former British colony’s foreign ministry said on Thursday, five years after its now
 
+##### Belgium-Netherlands relations
+### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
+_Context: Bruges, Amsterdam, Belgium-Netherlands relations, concerns, Market Square_
+
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
+_Context: same-sex marriage, Bermuda, LGBT rights in Bermuda_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -37,11 +41,11 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israel, Lebanese, Jamraya, Syrian Air Defense Force, Israeli involvement in the Syrian Civil War, Syria, Rif Dimashq Governorate_
+_Context: Syria, Rif Dimashq Governorate, Israel, Lebanese, Jamraya, Israeli involvement in the Syrian Civil War, Syrian Air Defense Force_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: Euphrates, United States attacks on the Syrian government, Russia, United States Central Command, Syria_
+_Context: United States attacks on the Syrian government, Syria, Euphrates, Russia, United States Central Command_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers with the Kansas City factory and 500 workers at its two Iowa City factories (with the workforce at the latter plant being reduced to about 700 employees.) ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
@@ -93,7 +97,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: Life on Mars, Mars, David Bowie, Falcon Heavy Demonstration Mission, Falcon Heavy, SpaceX, Elon Musk's Tesla Roadster, elliptic orbit_
+_Context: Falcon Heavy, Mars, SpaceX, elliptic orbit, Falcon Heavy Demonstration Mission, David Bowie, Life on Mars, Elon Musk's Tesla Roadster_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)

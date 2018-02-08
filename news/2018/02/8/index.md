@@ -4,12 +4,12 @@ Formats: [HTML](2018/02/8/index.html)  [JSON](2018/02/8/index.json)  [XML](2018/
 ## [2018-02-8](/news/2018/02/8/index.md)
 
 ##### Syrian Civil War
-### [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States is now in overall control of about a quarter of Syria. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-is-now-in-overall-control-of-about-a.md)
+### [Syria and Russia say that the United States' military presence in Syria is "illegal". ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal.md)
 The overnight clash came after pro-government forces attacked a U.S.-backed base in the eastern Syrian desert, prompting the U.S. to retaliate in &ldquo;self defense.&rdquo;
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: trade surplus, Economy of Germany_
+_Context: Economy of Germany, trade surplus_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -23,9 +23,13 @@ The European Union could put in place regulations to protect its firms doing bus
 ### [The Gambia formally rejoins the Commonwealth five years after its former President Yahya Jammeh withdrew the West African country, calling it a "neocolonial institution". ](/news/2018/02/8/the-gambia-formally-rejoins-the-commonwealth-five-years-after-its-former-president-yahya-jammeh-withdrew-the-west-african-country-calling-i.md)
 BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African former British colony’s foreign ministry said on Thursday, five years after its now
 
+##### Belgium-Netherlands relations
+### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
+_Context: Bruges, Amsterdam, Belgium-Netherlands relations, concerns, Market Square_
+
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
+_Context: same-sex marriage, Bermuda, LGBT rights in Bermuda_
 
 ## [Previous Day...](/news/2018/02/7/index.md)
 
