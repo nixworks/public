@@ -11,8 +11,9 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ### Sources:
 
-1. [The New York Times](https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html)
-1. [Cover Image](https://static01.nyt.com/images/2018/02/09/us/politics/09dc-cong3/merlin_133466760_09c3c776-aa14-44ad-9a10-6a8a632b560b-facebookJumbo.jpg)
+1. [CNN](https://www.cnn.com/2018/02/08/politics/budget-vote-congress-shutdown/index.html)
+2. [The New York Times](https://www.nytimes.com/2018/02/08/us/politics/congress-budget-deal-vote.html)
+2. [Cover Image](https://static01.nyt.com/images/2018/02/09/us/politics/09dc-cong3/merlin_133466760_09c3c776-aa14-44ad-9a10-6a8a632b560b-facebookJumbo.jpg)
 
 ### Related:
 

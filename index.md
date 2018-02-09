@@ -29,7 +29,7 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: trade surplus, Economy of Germany_
+_Context: Economy of Germany, trade surplus_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -45,7 +45,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: concerns, Market Square, Bruges, Belgium-Netherlands relations, Amsterdam_
+_Context: Belgium-Netherlands relations, concerns, Market Square, Bruges, Amsterdam_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -53,7 +53,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: Bermuda, LGBT rights in Bermuda, same-sex marriage_
+_Context: same-sex marriage, Bermuda, LGBT rights in Bermuda_
 
 ##### Crime in Toronto
 ### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)
@@ -69,11 +69,11 @@ _Context: Jeff Kruse, Weinstein effect, Oregon State Senate_
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility.](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israeli involvement in the Syrian Civil War, Israel, Jamraya, Syria, Lebanese, Rif Dimashq Governorate, Syrian Air Defense Force_
+_Context: Israel, Syrian Air Defense Force, Israeli involvement in the Syrian Civil War, Lebanese, Rif Dimashq Governorate, Syria, Jamraya_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: United States Central Command, Euphrates, United States attacks on the Syrian government, Syria, Russia_
+_Context: United States attacks on the Syrian government, United States Central Command, Syria, Russia, Euphrates_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
@@ -92,7 +92,7 @@ The European Parliament has voted overwhelmingly to dismiss one of its vice pres
 Staff secretary Rob Porter calls claims of emotional and physical abuse by two ex-wives ‘outrageous’ and ‘false’
 
 ##### DREAM Act
-### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat pleads eight hours non-stop for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-pleads-eight-h.md)
+### [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat spoke for eight hours non-stop for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-spoke-for-eigh.md)
 House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immigrants whose protection from deportation ends next month.
 
 ##### Prehistoric Britain
