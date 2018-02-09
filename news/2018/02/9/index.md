@@ -9,11 +9,11 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Syrian Civil War
 ### [ Turkey arrests 17 left wing party leaders for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-left-wing-party-leaders-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Syrian Civil War, Turkey, left wing party, Afrin offensive, Turkish intervention in Syrian Civil War_
+_Context: Syrian Civil War, Turkey, Turkish intervention in Syrian Civil War, Afrin offensive, left wing party_
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh say they have successfully grown Human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-say-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
-_Context: Human, egg cell, University of Edinburgh_
+_Context: egg cell, University of Edinburgh, Human_
 
 ## [Previous Day...](/news/2018/02/8/index.md)
 
