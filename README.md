@@ -9,7 +9,7 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh say they have successfully grown Human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-say-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
-_Context: Human, University of Edinburgh, egg cell_
+_Context: University of Edinburgh, Human, egg cell_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -41,7 +41,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: concerns, Amsterdam, Belgium-Netherlands relations, Bruges, Market Square_
+_Context: Belgium-Netherlands relations, Market Square, Bruges, Amsterdam, concerns_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -57,7 +57,7 @@ McArthur, 66, a self-employed landscaper, was charged last month with five count
 
 ##### Weinstein effect
 ### [Jeff Kruse announces his resignation from the Oregon State Senate, effective March 15, amid allegations that he sexually harassed female colleagues and other staffers. Kruse denies the allegations. ](/news/2018/02/8/jeff-kruse-announces-his-resignation-from-the-oregon-state-senate-effective-march-15-amid-allegations-that-he-sexually-harassed-female-col.md)
-_Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
+_Context: Oregon State Senate, Jeff Kruse, Weinstein effect_
 
 ---
 
@@ -65,11 +65,11 @@ _Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility.](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Israel, Rif Dimashq Governorate, Lebanese, Syria, Syrian Air Defense Force, Jamraya, Israeli involvement in the Syrian Civil War_
+_Context: Lebanese, Israeli involvement in the Syrian Civil War, Rif Dimashq Governorate, Syria, Jamraya, Syrian Air Defense Force, Israel_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: Syria, Euphrates, United States attacks on the Syrian government, United States Central Command, Russia_
+_Context: Russia, United States attacks on the Syrian government, Syria, Euphrates, United States Central Command_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
