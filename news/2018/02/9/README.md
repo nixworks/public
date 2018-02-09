@@ -9,11 +9,11 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Syrian Civil War
 ### [ Turkey arrests 17 left wing party leaders for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-left-wing-party-leaders-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Syrian Civil War, Turkey, Turkish intervention in Syrian Civil War, Afrin offensive, left wing party_
+_Context: Turkish intervention in Syrian Civil War, Turkey, Afrin offensive, left wing party, Syrian Civil War_
 
 ##### University of Edinburgh
-### [Researchers at the University of Edinburgh say they have successfully grown Human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-say-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
-_Context: egg cell, University of Edinburgh, Human_
+### [Researchers at the University of Edinburgh announce they have successfully grown human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-announce-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
+STUDY QUESTIONCan complete oocyte development be achieved from human ovarian tissue containing primordial/unilaminar follicles and grown in vitro in a multi-step culture to meiotic maturation demonstrated by the formation of polar bodies and a Metaphase II spindle?SUMMARY ANSWERDevelopment of human ...
 
 ## [Previous Day...](/news/2018/02/8/index.md)
 

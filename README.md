@@ -9,11 +9,11 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Syrian Civil War
 ### [ Turkey arrests 17 left wing party leaders for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-left-wing-party-leaders-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Syrian Civil War, Turkey, Turkish intervention in Syrian Civil War, Afrin offensive, left wing party_
+_Context: Turkish intervention in Syrian Civil War, Turkey, Afrin offensive, left wing party, Syrian Civil War_
 
 ##### University of Edinburgh
-### [Researchers at the University of Edinburgh say they have successfully grown Human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-say-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
-_Context: egg cell, University of Edinburgh, Human_
+### [Researchers at the University of Edinburgh announce they have successfully grown human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-announce-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
+STUDY QUESTIONCan complete oocyte development be achieved from human ovarian tissue containing primordial/unilaminar follicles and grown in vitro in a multi-step culture to meiotic maturation demonstrated by the formation of polar bodies and a Metaphase II spindle?SUMMARY ANSWERDevelopment of human ...
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,7 +29,7 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: Economy of Germany, trade surplus_
+_Context: trade surplus, Economy of Germany_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -45,7 +45,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: concerns, Belgium-Netherlands relations, Market Square, Amsterdam, Bruges_
+_Context: concerns, Market Square, Bruges, Belgium-Netherlands relations, Amsterdam_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -53,7 +53,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
+_Context: Bermuda, LGBT rights in Bermuda, same-sex marriage_
 
 ##### Crime in Toronto
 ### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)
@@ -61,7 +61,7 @@ McArthur, 66, a self-employed landscaper, was charged last month with five count
 
 ##### Weinstein effect
 ### [Jeff Kruse announces his resignation from the Oregon State Senate, effective March 15, amid allegations that he sexually harassed female colleagues and other staffers. Kruse denies the allegations. ](/news/2018/02/8/jeff-kruse-announces-his-resignation-from-the-oregon-state-senate-effective-march-15-amid-allegations-that-he-sexually-harassed-female-col.md)
-_Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
+_Context: Jeff Kruse, Weinstein effect, Oregon State Senate_
 
 ---
 
@@ -69,11 +69,11 @@ _Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility.](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Syria, Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Israel, Lebanese, Jamraya, Syrian Air Defense Force_
+_Context: Israeli involvement in the Syrian Civil War, Israel, Jamraya, Syria, Lebanese, Rif Dimashq Governorate, Syrian Air Defense Force_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: United States attacks on the Syrian government, Russia, Euphrates, United States Central Command, Syria_
+_Context: United States Central Command, Euphrates, United States attacks on the Syrian government, Syria, Russia_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
