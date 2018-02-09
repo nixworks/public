@@ -5,14 +5,14 @@ Formats: [HTML](2018/02/7/index.html)  [JSON](2018/02/7/index.json)  [XML](2018/
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility.](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Jamraya, Syrian Air Defense Force, Lebanese, Syria, Israel_
+_Context: Lebanese, Syria, Rif Dimashq Governorate, Jamraya, Israel, Syrian Air Defense Force, Israeli involvement in the Syrian Civil War_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: Syria, United States Central Command, United States attacks on the Syrian government, Russia, Euphrates_
+_Context: United States attacks on the Syrian government, Russia, Syria, Euphrates, United States Central Command_
 
 ##### Procter and Gamble
-### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
+### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas, and reduce operations at its plant in Iowa City, Iowa, as the company plans to shift production to factories in Tablers Station, West Virginia, and Cincinnati, Ohio, by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-plant-in-iowa-city-iowa-as.md)
 “My grandfather started down there in 1935,” said the head of the plant’s union, who has logged 28 years there himself.
 
 ##### Macedonia naming dispute
@@ -32,7 +32,7 @@ Staff secretary Rob Porter calls claims of emotional and physical abuse by two e
 House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immigrants whose protection from deportation ends next month.
 
 ##### Prehistoric Britain
-### [Researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. ](/news/2018/02/7/researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-brita.md)
+### [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md)
 New research adds to a growing body of evidence showing how the British Isles received waves of immigrants over tens of thousands of years.
 
 ## [Previous Day...](/news/2018/02/6/index.md)

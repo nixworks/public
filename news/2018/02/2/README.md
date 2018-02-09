@@ -17,7 +17,7 @@ The South African workers had been stuck since Wednesday, when a power cut stopp
 
 ##### Mexico-United States relations
 ### [Mexico's Secretary of Foreign Affairs Luis Videgaray Caso, flanked by visiting United States Secretary of State Rex Tillerson and Canadian counterpart Chrystia Freeland, rejects "any option that would imply the use of violence" on the subject of Venezuela. On the eve of his visit, Tillerson had defended the 19th-century United States policy in Latin America and suggested that the Venezuelan Army could manage a "peaceful transition" from President Nicolas Maduro. ](/news/2018/02/2/mexico-s-secretary-of-foreign-affairs-luis-videgaray-caso-flanked-by-visiting-united-states-secretary-of-state-rex-tillerson-and-canadian-c.md)
-_Context: Mexican, Venezuela, Venezuelan Army, Rex Tillerson, Canadian counterpart, Chrystia Freeland, President, Nicolas Maduro, Mexico-United States relations, Secretary of Foreign Affairs, United States Secretary of State, Luis Videgaray Caso, 19th-century United States policy in Latin America_
+_Context: Venezuela, Mexico-United States relations, Chrystia Freeland, Canadian counterpart, Luis Videgaray Caso, Venezuelan Army, Secretary of Foreign Affairs, Mexican, Rex Tillerson, United States Secretary of State, President, 19th-century United States policy in Latin America, Nicolas Maduro_
 
 ##### Crime in France
 ### [After two days of questioning, influential Islamic academician and Oxford professor Tariq Ramadan is charged with the alleged rape of two women and jailed in Paris. ](/news/2018/02/2/after-two-days-of-questioning-influential-islamic-academician-and-oxford-professor-tariq-ramadan-is-charged-with-the-alleged-rape-of-two-wo.md)

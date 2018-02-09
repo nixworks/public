@@ -12,7 +12,7 @@ An amateur astronomer rediscovered a Nasa satellite which has been lost in space
 ### Sources:
 
 1. [Phys.org](https://phys.org/news/2018-01-nasa-re-discovered-image-satellite.html)
-2. [The Independent](http://www.independent.co.uk/news/science/nasa-sateillite-lost-discovered-12-years-later-amateur-astronomer-scott-tilley-image-canada-a8188926.html)
+2. [The Independent](https://www.independent.co.uk/news/science/nasa-sateillite-lost-discovered-12-years-later-amateur-astronomer-scott-tilley-image-canada-a8188926.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/02/01/11/nasa-image.jpg)
 
 ### Changes:
