@@ -12,7 +12,7 @@ STUDY QUESTIONCan complete oocyte development be achieved from human ovarian tis
 ### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-42976858)
-2. [MHR](https://doi.org/10.1093/molehr/gay002)
+2. [Oxford Academic](https://doi.org/10.1093/molehr/gay002)
 2. [Cover Image](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/molehr/Issue/24/2/2/m_molehr_24_2_cover.png?Expires=1581238793&amp;Signature=bqEJkjuiTygzSN451f1~3DvtPofYVbYryIT3YTcr88Ac3OduE3BMuIFoWHV67sd6h8bZwDZB2wSJRmhUmYbD3QAENgRJgOH5lQ6tHUXGsinTrABb96wrJvwc1hEBnOaOl2gtXdQXE0UPPFMGbwG5mu9wODGxgP-rOC6s6FO7r55C61aE0npyPJqZDL-j8NGArwZma6F7Jw2j1SYCOegk14t6C3iIdlCfXpfWZ0VUH-XkXwZIRLteg-XZR2rxfkGRXZ8~GnEHMfbOPZAfvw~eB4zBpuIqZdp0sNbAYMCdBuVxCS~IJ2uii3yrectq43m2IDYDrl78EI9zL0XywHC40A__&amp;Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q)
 
 ### Changes:
