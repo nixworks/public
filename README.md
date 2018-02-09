@@ -5,15 +5,15 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 
 ##### Earthquakes in 2018
 ### [A 5.8-magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Earthquakes in 2018, Mexican, Puerto Vallarta, Jalisco, Guadalajara_
+_Context: Puerto Vallarta, Guadalajara, Earthquakes in 2018, Jalisco, Mexican_
 
 ##### United States federal government shutdown of 2018
-### [The United States Government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
+### [The United States government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
 Government funding expired at midnight after Senator Rand Paul of Kentucky held up the Senate’s vote on a budget deal that would keep federal agencies open.
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Politics of Turkey, opposition, Afrin offensive, Peoples' Democratic Party, Turkey_
+_Context: Afrin offensive, Turkey, Politics of Turkey, Peoples' Democratic Party, opposition_
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh announce they have successfully grown human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-announce-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
@@ -53,7 +53,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: Amsterdam, Belgium-Netherlands relations, Bruges, concerns, Market Square_
+_Context: Amsterdam, concerns, Market Square, Belgium-Netherlands relations, Bruges_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -61,7 +61,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: same-sex marriage, Bermuda, LGBT rights in Bermuda_
+_Context: Bermuda, same-sex marriage, LGBT rights in Bermuda_
 
 ##### Crime in Toronto
 ### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)
@@ -69,7 +69,7 @@ McArthur, 66, a self-employed landscaper, was charged last month with five count
 
 ##### Weinstein effect
 ### [Jeff Kruse announces his resignation from the Oregon State Senate, effective March 15, amid allegations that he sexually harassed female colleagues and other staffers. Kruse denies the allegations. ](/news/2018/02/8/jeff-kruse-announces-his-resignation-from-the-oregon-state-senate-effective-march-15-amid-allegations-that-he-sexually-harassed-female-col.md)
-_Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
+_Context: Oregon State Senate, Jeff Kruse, Weinstein effect_
 
 ---
 
@@ -77,11 +77,11 @@ _Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility.](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Lebanese, Jamraya, Israel, Syrian Air Defense Force, Syria, Israeli involvement in the Syrian Civil War, Rif Dimashq Governorate_
+_Context: Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Jamraya, Syrian Air Defense Force, Lebanese, Syria, Israel_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: Euphrates, United States Central Command, Syria, United States attacks on the Syrian government, Russia_
+_Context: Syria, United States Central Command, United States attacks on the Syrian government, Russia, Euphrates_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
