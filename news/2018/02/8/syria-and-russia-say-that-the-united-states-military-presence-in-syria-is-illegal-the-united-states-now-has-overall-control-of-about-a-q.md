@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/8/syria-and-russia-say-that-the-united-states-mili
 ### [2018-02-8](/news/2018/02/8/index.md)
 
 ##### Syrian Civil War
-# Syria and Russia say that the United States' military presence in Syria is "illegal". The United States now has overall control of about a quarter of the Syrian territory. 
+# Syria and Russia say that the United States' military presence in Syria is "illegal". The United States now has overall control of about a quarter of Syrian territory. 
 
 The overnight clash came after pro-government forces attacked a U.S.-backed base in the eastern Syrian desert, prompting the U.S. to retaliate in &ldquo;self defense.&rdquo;
 
@@ -21,7 +21,8 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 4. [Syria and Russia say that the United States' military presence in Syria is "illegal". ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal.md) _2018-02-09 05:59:47 (Update)_
 5. [Syria government and Russian government say that the United States' military presence in Syria is "illegal". The United States now has overall control of about a quarter of the Syrian territory. ](/news/2018/02/8/syria-government-and-russian-government-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-now-has-overa.md) _2018-02-09 06:30:16 (Update)_
 6. [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States-backed Syrian Democratic Forces (SDF) now has overall control of about a quarter of the Syrian territory. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-backed-syrian-democratic-forces-sdf.md) _2018-02-09 10:30:19 (Update)_
-6. [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States now has overall control of about a quarter of the Syrian territory. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-now-has-overall-control-of-about-a-q.md) _(Current version)_
+7. [Syria and Russia say that the United States' military presence in Syria is illegal. The United States now has overall control of about a quarter of the Syrian territory. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-now-has-overall-control-of-about-a-qua.md) _2018-02-09 19:30:15 (Update)_
+7. [Syria and Russia say that the United States' military presence in Syria is "illegal". The United States now has overall control of about a quarter of Syrian territory. ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-now-has-overall-control-of-about-a-q.md) _(Current version)_
 
 ### Related:
 
