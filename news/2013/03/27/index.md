@@ -9,11 +9,11 @@ Five people are reported killed as Thai government begins talks with separatists
 
 ##### Government
 ### [The Government of Mali announces that 63 of their soldiers have been killed fighting jihadists since the French led intervention Operation Serval in January 2013. ](/news/2013/03/27/the-government-of-mali-announces-that-63-of-their-soldiers-have-been-killed-fighting-jihadists-since-the-french-led-intervention-operation-s.md)
-_Context: Mali, France, Operation Serval, Government, January 2013_
+_Context: France, Operation Serval, January 2013, Mali, Government_
 
 ##### Greece
 ### [A bomb explodes outside the residence of a Greek shipowner near Acropolis in central Athens; no one is injured. ](/news/2013/03/27/a-bomb-explodes-outside-the-residence-of-a-greek-shipowner-near-acropolis-in-central-athens-no-one-is-injured.md)
-_Context: Athens, Acropolis, Greece_
+_Context: Athens, Greece, Acropolis_
 
 ##### The Rolling Stones
 ### [The Rolling Stones are to headline Glastonbury Festival 2013 in Pilton, Somerset, England. ](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.md)
@@ -25,15 +25,15 @@ _Context: National Poetry Competition_
 
 ##### Kate Tempest
 ### [Kate Tempest wins the 2013 Ted Hughes Award for innovation in poetry. ](/news/2013/03/27/kate-tempest-wins-the-2013-ted-hughes-award-for-innovation-in-poetry.md)
-_Context: Kate Tempest, poetry, Ted Hughes Award_
+_Context: Kate Tempest, Ted Hughes Award, poetry_
 
 ##### 2013 Nantou earthquake
 ### [2013 Nantou earthquake: At least one person is killed and 19 others are injured when a 6.0-magnitude earthquake strikes near Taipei, Taiwan, causing a fire and shaking buildings. ](/news/2013/03/27/2013-nantou-earthquake-at-least-one-person-is-killed-and-19-others-are-injured-when-a-6-0-magnitude-earthquake-strikes-near-taipei-taiwan.md)
-_Context: magnitude, Taipei, Taiwan, 2013 Nantou earthquake, earthquake, hits_
+_Context: hits, magnitude, Taipei, Taiwan, earthquake, 2013 Nantou earthquake_
 
 ##### Tornado
 ### [A mini-tornado in the Philippines kills 12 people when a motorboat capsized. ](/news/2013/03/27/a-mini-tornado-in-the-philippines-kills-12-people-when-a-motorboat-capsized.md)
-_Context: Philippines, tornado, motorboat_
+_Context: motorboat, tornado, Philippines_
 
 ##### North Korea
 ### [North Korea renews war threats against South Korea and the United States, saying conditions "for a simmering nuclear war" have been created on the Korean peninsula. The country also says it is cutting a military hotline, which facilitates the travel of South Korean workers to a joint industrial complex in Kaesong. ](/news/2013/03/27/north-korea-renews-war-threats-against-south-korea-and-the-united-states-saying-conditions-for-a-simmering-nuclear-war-have-been-created.md)
@@ -57,11 +57,11 @@ _Context: Oscar Pistorius_
 
 ##### Wildlife
 ### [Wildlife officials in Cameroon find over 40 elephant carcasses, clustered in Nki and Lobeke national parks, with a horseback-riding band of about 300 poachers from Sudan being the chief suspects. ](/news/2013/03/27/wildlife-officials-in-cameroon-find-over-40-elephant-carcasses-clustered-in-nki-and-lobeke-national-parks-with-a-horseback-riding-band-of.md)
-_Context: poachers, Nki, Cameroon, Lobeke, elephant, Sudan, Wildlife_
+_Context: Lobeke, Sudan, Wildlife, Cameroon, poachers, elephant, Nki_
 
 ##### Spam-fighting group
 ### [A row between a spam-fighting group and the hosting firm CyberBunker sparks retaliatory attacks, flooding core infrastructure of the Internet, in what security experts are describing as the biggest cyberattack in history. ](/news/2013/03/27/a-row-between-a-spam-fighting-group-and-the-hosting-firm-cyberbunker-sparks-retaliatory-attacks-flooding-core-infrastructure-of-the-interne.md)
-_Context: hosting firm, spam-fighting group, Internet, cyberattack, CyberBunker_
+_Context: cyberattack, Internet, CyberBunker, hosting firm, spam-fighting group_
 
 ##### Wales
 ### [Police in Wales says they will call off the search for missing April Jones in about a month. ](/news/2013/03/27/police-in-wales-says-they-will-call-off-the-search-for-missing-april-jones-in-about-a-month.md)

@@ -5,19 +5,19 @@ Formats: [HTML](2009/03/31/index.html)  [JSON](2009/03/31/index.json)  [XML](200
 
 ##### Likud
 ### [ Likud Party Chairman Benjamin Netanyahu is inaugurated as Prime Minister of Israel. ](/news/2009/03/31/likud-party-chairman-benjamin-netanyahu-is-inaugurated-as-prime-minister-of-israel.md)
-_Context: Likud, Israeli Prime Minister, inaugurated, Benjamin Netanyahu, Israel, Chairman_
+_Context: inaugurated, Israel, Benjamin Netanyahu, Israeli Prime Minister, Likud, Chairman_
 
 ##### Flood
 ### [ Floods on New South Wales' Mid North Coast in Australia cause an emergency evacuation of Coffs Harbour. ](/news/2009/03/31/floods-on-new-south-wales-mid-north-coast-in-australia-cause-an-emergency-evacuation-of-coffs-harbour.md)
-_Context: NSW, Flood, Mid North Coast, Coffs Harbour, evacuation, Australia_
+_Context: NSW, Flood, evacuation, Australia, Coffs Harbour, Mid North Coast_
 
 ##### Taliban
 ### [ The Taliban's Students' Movement claims responsibility for an attack on a police academy in Lahore, Pakistan. ](/news/2009/03/31/the-taliban-s-students-movement-claims-responsibility-for-an-attack-on-a-police-academy-in-lahore-pakistan.md)
-_Context: Pakistani Taliban, Taliban, Pakistani police, Pakistan, academy, Lahore, attack_
+_Context: Pakistani police, Pakistan, Pakistani Taliban, Taliban, Lahore, academy, attack_
 
 ##### Somalia
 ### [ Seven Somali pirates are captured after mistakenly attacking the German Navy's FGS "Spessart" in the Gulf of Aden. ](/news/2009/03/31/seven-somali-pirates-are-captured-after-mistakenly-attacking-the-german-navy-s-fgs-spessart-in-the-gulf-of-aden.md)
-_Context: FGS, Gulf of Aden, Somali pirates, German navies, Somalia, ''Spessart'', German_
+_Context: FGS, Somali pirates, German, Gulf of Aden, German navies, ''Spessart'', Somalia_
 
 ## [Previous Day...](/news/2009/03/30/index.md)
 

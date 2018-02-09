@@ -17,7 +17,7 @@ MANILA -- President Benigno Aquino III paid tribute to the life and legacy of An
 
 ##### Gaia Cauchi
 ### [Gaia Cauchi of Malta, wins the Junior Eurovision Song Contest 2013 in Kiev, Ukraine, with her song "The Start." ](/news/2013/11/30/gaia-cauchi-of-malta-wins-the-junior-eurovision-song-contest-2013-in-kiev-ukraine-with-her-song-the-start.md)
-_Context: Junior Eurovision Song Contest 2013, Kiev, Malta, Ukraine, Gaia Cauchi_
+_Context: Kiev, Gaia Cauchi, Ukraine, Junior Eurovision Song Contest 2013, Malta_
 
 ##### LAM Mozambique Airlines
 ### [The wreckage of LAM Mozambique Airlines Flight 470 that went missing Friday is found in Namibia in the Bwabwata National Park with all 33 people on board having died. ](/news/2013/11/30/the-wreckage-of-lam-mozambique-airlines-flight-470-that-went-missing-friday-is-found-in-namibia-in-the-bwabwata-national-park-with-all-33-pe.md)

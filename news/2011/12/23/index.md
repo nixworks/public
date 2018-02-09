@@ -17,7 +17,7 @@ _Context: Somalia_
 
 ##### China Three Gorges Corp.
 ### [China Three Gorges Corp. wins a bid for its 21% stake in EDP-Energias de Portugal SA with an offer of EUR2.69 billion ($3.51 billion), in the first of a series of sales of state-owned assets under Portugal's austerity program. This is the first time a mainland Chinese firm has acquired a significant stake in a southern European company. ](/news/2011/12/23/china-three-gorges-corp-wins-a-bid-for-its-21-stake-in-edp-energias-de-portugal-sa-with-an-offer-of-a-2-69-billion-3-51-billion-in-th.md)
-_Context: China Three Gorges Corp., Energias de Portugal, state-owned, USD, mainland Chinese, EUR, Portugal_
+_Context: mainland Chinese, EUR, Energias de Portugal, USD, state-owned, Portugal, China Three Gorges Corp._
 
 ##### 2011 Christchurch earthquake
 ### [A series of large aftershocks from the 22 February earthquake &ndash; the largest registering magnitude 6.0 &ndash; strike the city of Christchurch, New Zealand. ](/news/2011/12/23/a-series-of-large-aftershocks-from-the-22-february-earthquake-ndash-the-largest-registering-magnitude-6-0-ndash-strike-the-city-of-chris.md)
@@ -29,11 +29,11 @@ North Korea says it will accept all South Korean delegations wishing to pay resp
 
 ##### Czech Republic
 ### [World leaders attend the funeral of former Czech President and dissident Vaclav Havel. ](/news/2011/12/23/world-leaders-attend-the-funeral-of-former-czech-president-and-dissident-va-clav-havel.md)
-_Context: Vaclav Havel, Czech Republic_
+_Context: Czech Republic, Vaclav Havel_
 
 ##### China
 ### [A Chinese court sentences dissident Chen Wei to nine years imprisonment for "inciting subversion of state power", after he published essays online calling for multiparty democracy. ](/news/2011/12/23/a-chinese-court-sentences-dissident-chen-wei-to-nine-years-imprisonment-for-inciting-subversion-of-state-power-after-he-published-essays.md)
-_Context: democratic, Chen Wei, China, multiparty_
+_Context: multiparty, China, Chen Wei, democratic_
 
 ##### Teargas
 ### [Police fire teargas in the southern Chinese town of Haimen, and state media air confessions from two detained activists amid a protest against a proposed new power plant. ](/news/2011/12/23/police-fire-teargas-in-the-southern-chinese-town-of-haimen-and-state-media-air-confessions-from-two-detained-activists-amid-a-protest-again.md)
@@ -41,7 +41,7 @@ Riot police fired teargas to break up a protest against a planned power station 
 
 ##### Burma
 ### [Burmese opposition leader Aung San Suu Kyi registers her National League for Democracy party, and visits Burma's parliament for the first time. ](/news/2011/12/23/burmese-opposition-leader-aung-san-suu-kyi-registers-her-national-league-for-democracy-party-and-visits-burma-s-parliament-for-the-first-ti.md)
-_Context: Aung San Suu Kyi, National League for Democracy, Burma_
+_Context: National League for Democracy, Aung San Suu Kyi, Burma_
 
 ##### DR Congo
 ### [Police in the Democratic Republic of the Congo ban the swearing-in ceremony for opposition leader Etienne Tshisekedi. ](/news/2011/12/23/police-in-the-democratic-republic-of-the-congo-ban-the-swearing-in-ceremony-for-opposition-leader-etienne-tshisekedi.md)

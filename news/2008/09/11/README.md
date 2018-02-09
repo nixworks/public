@@ -5,7 +5,7 @@ Formats: [HTML](2008/09/11/index.html)  [JSON](2008/09/11/index.json)  [XML](200
 
 ##### Ayman al-Zawahiri
 ### [ Ayman al-Zawahiri, number two leader of al Qaeda, questions Abu Ayyub al-Masri's ability to lead al Qaeda in Iraq, and accuses that organization's umbrella group, the Islamic State of Iraq, of lying to the media about its activities. ](/news/2008/09/11/ayman-al-zawahiri-number-two-leader-of-al-qaeda-questions-abu-ayyub-al-masri-s-ability-to-lead-al-qaeda-in-iraq-and-accuses-that-organiz.md)
-_Context: al Qaeda, al Qaeda in Iraq, Abu Ayyub al-Masri, Islamic State of Iraq, Ayman al-Zawahiri_
+_Context: al Qaeda, Islamic State of Iraq, al Qaeda in Iraq, Ayman al-Zawahiri, Abu Ayyub al-Masri_
 
 ##### Crude oil
 ### [ Prices for oil fall ](/news/2008/09/11/prices-for-oil-fall.md)
@@ -17,15 +17,15 @@ _Context: Bolivia, civil war_
 
 ##### Morgan Tsvangirai
 ### [ Morgan Tsvangirai, the leader of the Movement for Democratic Change, claims that a power sharing agreement has been reached with the President of Zimbabwe Robert Mugabe. ](/news/2008/09/11/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-claims-that-a-power-sharing-agreement-has-been-reached-with-the-presid.md)
-_Context: Robert Mugabe, President of Zimbabwe, Morgan Tsvangirai, Movement for Democratic Change_
+_Context: Movement for Democratic Change, President of Zimbabwe, Morgan Tsvangirai, Robert Mugabe_
 
 ##### Evacuation
 ### [ Officials order the evacuation of Galveston Island in the U.S. state of Texas before Hurricane Ike makes landfall later in the week. ](/news/2008/09/11/officials-order-the-evacuation-of-galveston-island-in-the-u-s-state-of-texas-before-hurricane-ike-makes-landfall-later-in-the-week.md)
-_Context: Texas, Galveston Island, Hurricane Ike, evacuation_
+_Context: Hurricane Ike, evacuation, Texas, Galveston Island_
 
 ##### U.S. President
 ### [ President George W. Bush is reported to have authorized United States special forces to conduct operations against insurgents inside Pakistan without seeking approval from the Government of Pakistan. ](/news/2008/09/11/president-george-w-bush-is-reported-to-have-authorized-united-states-special-forces-to-conduct-operations-against-insurgents-inside-pakist.md)
-_Context: George W. Bush, government, U.S. President, United States_
+_Context: U.S. President, George W. Bush, government, United States_
 
 ##### WorldPublicOpinion.org
 ### [ A new survey of residents of 17 countries by WorldPublicOpinion.org indicates that an average of 46 percent believe that Al-Qaeda was behind the 9-11 attacks of 2001. ](/news/2008/09/11/a-new-survey-of-residents-of-17-countries-by-worldpublicopinion-org-indicates-that-an-average-of-46-percent-believe-that-al-qaeda-was-behin.md)
@@ -33,11 +33,11 @@ Seven years after the Sept. 11 attacks, there is no consensus outside the United
 
 ##### Russian Air Force
 ### [ Two Russian Air Force Tu-160 bombers arrive in Venezuela to carry out training flights over a course of several days. ](/news/2008/09/11/two-russian-air-force-tu-160-bombers-arrive-in-venezuela-to-carry-out-training-flights-over-a-course-of-several-days.md)
-_Context: Venezuela, Russian Air Force, Tu-160_
+_Context: Russian Air Force, Venezuela, Tu-160_
 
 ##### Magnitude
 ### [ A 6.6 magnitude earthquake hits near Ternate, Indonesia, followed by a 7.2 magnitude quake near Hokkaido, Japan. ](/news/2008/09/11/a-6-6-magnitude-earthquake-hits-near-ternate-indonesia-followed-by-a-7-2-magnitude-quake-near-hokkaido-japan.md)
-_Context: earthquake, Ternate, Indonesia, magnitude, Japan, Hokkaido_
+_Context: earthquake, Hokkaido, magnitude, Japan, Ternate, Indonesia_
 
 ##### Indian state
 ### [ Forty people go missing in the northern Indian state of Bihar after a boat capsizes in the Harohar River. ](/news/2008/09/11/forty-people-go-missing-in-the-northern-indian-state-of-bihar-after-a-boat-capsizes-in-the-harohar-river.md)

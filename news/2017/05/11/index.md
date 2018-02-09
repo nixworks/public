@@ -5,7 +5,7 @@ Formats: [HTML](2017/05/11/index.html)  [JSON](2017/05/11/index.json)  [XML](201
 
 ##### Battle of Mosul
 ### [The Iraqi army's chief of staff, Lt Gen Othman al-Ghanmi, states that his security forces are only days away from completing the operation to recapture Mosul from ISIL. ](/news/2017/05/11/the-iraqi-army-s-chief-of-staff-lt-gen-othman-al-ghanmi-states-that-his-security-forces-are-only-days-away-from-completing-the-operation-t.md)
-_Context: ISIL, Othman al-Ghanmi, Iraq, Battle of Mosul, Mosul_
+_Context: ISIL, Iraq, Othman al-Ghanmi, Battle of Mosul, Mosul_
 
 ##### New Orleans City Council
 ### [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md)
@@ -21,7 +21,7 @@ High-level officials from the world&rsquo;s eight Arctic nations will meet in Al
 
 ##### Triple Talaq in India
 ### [The Supreme Court of India begins hearings on whether oral divorce is a fundamental right of Islam. ](/news/2017/05/11/the-supreme-court-of-india-begins-hearings-on-whether-oral-divorce-is-a-fundamental-right-of-islam.md)
-_Context: Islam, Triple Talaq in India, oral divorce, Supreme Court of India_
+_Context: Islam, Supreme Court of India, oral divorce, Triple Talaq in India_
 
 ##### Moscow
 ### [Moscow police detain five protesters after they attempted to deliver a petition to investigate the status of LGBT rights in Chechnya to the Prosecutor General of Russia. ](/news/2017/05/11/moscow-police-detain-five-protesters-after-they-attempted-to-deliver-a-petition-to-investigate-the-status-of-lgbt-rights-in-chechnya-to-the.md)
@@ -37,7 +37,7 @@ _Context: last general election, left-wing, Labour Party_
 
 ##### French parliamentary election, 2017
 ### [French President-elect Emmanuel Macron announces his slate of candidates for the upcoming elections for French Parliament. ](/news/2017/05/11/french-president-elect-emmanuel-macron-announces-his-slate-of-candidates-for-the-upcoming-elections-for-french-parliament.md)
-_Context: French Parliament, Emmanuel Macron, French parliamentary election, 2017_
+_Context: Emmanuel Macron, French Parliament, French parliamentary election, 2017_
 
 ## [Previous Day...](/news/2017/05/10/index.md)
 

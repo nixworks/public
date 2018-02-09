@@ -9,7 +9,7 @@ _Context: Mogadishu, Somalia_
 
 ##### Kenya
 ### [A bomb exploded at a downtown bus station in Kenya's capital as passengers boarded a bus, killing at least one person and wounding up to 39 others, police said. Suspicions centered on a Somali militant group. ](/news/2010/12/20/a-bomb-exploded-at-a-downtown-bus-station-in-kenya-s-capital-as-passengers-boarded-a-bus-killing-at-least-one-person-and-wounding-up-to-39.md)
-_Context: Kenya, Nairobi, Somali_
+_Context: Nairobi, Kenya, Somali_
 
 ##### Republic of Korea Marine Corps
 ### [The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. ](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.md)
@@ -17,7 +17,7 @@ South Korea holds live-firing exercises on an island close to the border with No
 
 ##### Taliban
 ### [13 Afghan soldiers were killed in two separate suicide attacks launched by Taliban in the capital city of Afghanistan. ](/news/2010/12/20/13-afghan-soldiers-were-killed-in-two-separate-suicide-attacks-launched-by-taliban-in-the-capital-city-of-afghanistan.md)
-_Context: Kabul, Afghanistan, Taliban_
+_Context: Kabul, Taliban, Afghanistan_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. ](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.md)
@@ -25,11 +25,11 @@ Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed 
 
 ##### Social network
 ### [Social network chief Mark Zuckerberg is photographed meeting CEO of Chinese search engine Baidu Robin Li, in Beijing, China. ](/news/2010/12/20/social-network-chief-mark-zuckerberg-is-photographed-meeting-ceo-of-chinese-search-engine-baidu-robin-li-in-beijing-china.md)
-_Context: Baidu, search engine, Robin Li, Mark Zuckerberg, Beijing, Social network_
+_Context: search engine, Robin Li, Social network, Mark Zuckerberg, Baidu, Beijing_
 
 ##### European Central Bank
 ### [The European Central Bank worries about its ability to provide further financial assistance to eurozone members due to flawed legislation. ](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.md)
-_Context: eurozone, European Central Bank_
+_Context: European Central Bank, eurozone_
 
 ##### Heathrow Airport
 ### [Heathrow Airport in London reopens after a weekend of heavy snowfall. ](/news/2010/12/20/heathrow-airport-in-london-reopens-after-a-weekend-of-heavy-snowfall.md)
@@ -49,7 +49,7 @@ _Context: Malaysia, Thailand_
 
 ##### Nairobi
 ### [Three people were killed and 23 wounded in a bomb attack on a bus in central Nairobi, Kenya. ](/news/2010/12/20/three-people-were-killed-and-23-wounded-in-a-bomb-attack-on-a-bus-in-central-nairobi-kenya.md)
-_Context: Nairobi, Kenya_
+_Context: Kenya, Nairobi_
 
 ##### Earthquake
 ### [A 6.5 magnitude earthquake hits southeastern Iran, near Bam with at least eleven people dead and hundreds injured. ](/news/2010/12/20/a-6-5-magnitude-earthquake-hits-southeastern-iran-near-bam-with-at-least-eleven-people-dead-and-hundreds-injured.md)
@@ -61,7 +61,7 @@ Russian President Dimitry Medvedev arrives in India on Tuesday to secure nuclear
 
 ##### North Korea
 ### [North Korea agrees with United States troubleshooter Bill Richardson to permit the return of United Nations nuclear inspectors. ](/news/2010/12/20/north-korea-agrees-with-united-states-troubleshooter-bill-richardson-to-permit-the-return-of-united-nations-nuclear-inspectors.md)
-_Context: North Korea, IAEA, United Nations, Bill Richardson, United States_
+_Context: United States, Bill Richardson, North Korea, IAEA, United Nations_
 
 ##### Israel
 ### [Israel orders all of their foreign envoys to thwart Palestinian attempts to draft a UN resolution with the aims of recognition of Palestinian and to pressure Israel to stop settling its citizens within Palestine. ](/news/2010/12/20/israel-orders-all-of-their-foreign-envoys-to-thwart-palestinian-attempts-to-draft-a-un-resolution-with-the-aims-of-recognition-of-palestinia.md)

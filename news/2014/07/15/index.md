@@ -9,7 +9,7 @@ Hamas under pressure to halt rocket attacks after rejecting Cairo-brokered peace
 
 ##### Car bomb
 ### [A car bomb explodes at a market in the eastern Afghanistan province of Paktika, killing at least 89 people and injuring scores more in one of the deadliest attacks of the war. ](/news/2014/07/15/a-car-bomb-explodes-at-a-market-in-the-eastern-afghanistan-province-of-paktika-killing-at-least-89-people-and-injuring-scores-more-in-one-o.md)
-_Context: Afghanistan, car bomb, Paktika_
+_Context: car bomb, Afghanistan, Paktika_
 
 ##### Snizhne
 ### [An airstrike on the rebel-held town of Snizhne kills at least eleven civilians. ](/news/2014/07/15/an-airstrike-on-the-rebel-held-town-of-snizhne-kills-at-least-eleven-civilians.md)
@@ -37,7 +37,7 @@ A rush-hour train derails on the Moscow metro, killing 21 people, the Russian au
 
 ##### 2009 Black Saturday bushfires
 ### [Ten thousand survivors of the Black Saturday bushfires in the Australian state of Victoria in February 2009 win a settlement of A$497.4 million against utility company SP AusNet, its maintenance contractor and the Victorian Department of Sustainability and Environment for poor inadequate maintenance and protection measures. ](/news/2014/07/15/ten-thousand-survivors-of-the-black-saturday-bushfires-in-the-australian-state-of-victoria-in-february-2009-win-a-settlement-of-a-497-4-mill.md)
-_Context: SP AusNet, Victoria, Victorian Department of Sustainability and Environment, Australia, 2009 Black Saturday bushfires_
+_Context: 2009 Black Saturday bushfires, Victoria, SP AusNet, Australia, Victorian Department of Sustainability and Environment_
 
 ##### Mexican police
 ### [Mexican police rescue 458 children and 138 adults from a Great Family Group Home in Michoacan state where they were allegedly badly mistreated including sexual abuse. ](/news/2014/07/15/mexican-police-rescue-458-children-and-138-adults-from-a-great-family-group-home-in-michoacan-state-where-they-were-allegedly-badly-mistreat.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/11/index.html)  [JSON](2015/06/11/index.json)  [XML](201
 
 ##### Military intervention against ISIL
 ### [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md)
-_Context: YPG, ISIL, Kobani, Military intervention against ISIL_
+_Context: YPG, ISIL, Military intervention against ISIL, Kobani_
 
 ##### Syrian Civil War
 ### [Al-Qaeda's affiliate in Syria, the Al-Nusra Front, shoots dead at least 20 Druze villagers in Idlib in what is being described as a "massacre". ](/news/2015/06/11/al-qaeda-s-affiliate-in-syria-the-al-nusra-front-shoots-dead-at-least-20-druze-villagers-in-idlib-in-what-is-being-described-as-a-massacr.md)
@@ -61,7 +61,7 @@ Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cr
 
 ##### Lake Champlain
 ### [Authorities from the Marshal's Service, the FBI, Customs, state and local police, and the Forest Police searching for 6 days in northeastern New York (about 25 miles south of the Canadian border, near Lake Champlain and Vermont, in the Adirondack Forest area, in Dannemora, New York and Plattsburgh, New York) for two high-risk murderers who staged an elaborate escape from the high-security Clinton Correctional Facility- the first there- the night of Friday, June 5, 2015 (it was discovered the next morning), using bloodhounds, find a scent and leftover evidence that could be from the two, Richard Matt and David Sweat. ](/news/2015/06/11/authorities-from-the-marshal-s-service-the-fbi-customs-state-and-local-police-and-the-forest-police-searching-for-6-days-in-northeastern.md)
-_Context: Richard Matt, Adirondack Forest, Clinton Correctional Facility, Dannemora, New York, Lake Champlain, Plattsburgh, New York, David Sweat, Vermont_
+_Context: Plattsburgh, New York, Adirondack Forest, David Sweat, Richard Matt, Clinton Correctional Facility, Lake Champlain, Vermont, Dannemora, New York_
 
 ## [Previous Day...](/news/2015/06/10/index.md)
 

@@ -17,7 +17,7 @@ The UN peacekeeping chief in southern Lebanon appeals for calm, after recent inc
 
 ##### Israel
 ### [Israel criticises Britain's ambassador to Lebanon for eulogising Mohammad Hussein Fadlallah, who recently died. ](/news/2010/07/9/israel-criticises-britain-s-ambassador-to-lebanon-for-eulogising-mohammad-hussein-fadlallah-who-recently-died.md)
-_Context: United Kingdom, Lebanese, Israel, Mohammad Hussein Fadlallah_
+_Context: Israel, Mohammad Hussein Fadlallah, Lebanese, United Kingdom_
 
 ##### General
 ### [Two weeks after the sacking of General Stanley A. McChrystal over comments that appeared in "Rolling Stone", a top French general is attacked for publicly criticising the United States-led war attempt on Afghanistan and questioning if the United States is controlling its allies. ](/news/2010/07/9/two-weeks-after-the-sacking-of-general-stanley-a-mcchrystal-over-comments-that-appeared-in-rolling-stone-a-top-french-general-is-attacke.md)
@@ -33,7 +33,7 @@ The UN Security Council has condemned a deadly attack on a South Korean warship 
 
 ##### Papua
 ### [At least 50,000 West Papuans march on the Papua provincial parliament in Jayapura calling for the rejection of special autonomy status offered by Indonesia in favor of independence; 20,000 camp outside the parliament overnight. ](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.md)
-_Context: Jayapura, autonomy, Papua, Papua, Indonesia_
+_Context: Jayapura, Indonesia, Papua, autonomy, Papua_
 
 ##### Government of Australia
 ### [The Australian Government is conducting a review on the proposed national internet filter. ](/news/2010/07/9/the-australian-government-is-conducting-a-review-on-the-proposed-national-internet-filter.md)
@@ -45,7 +45,7 @@ Johnson &amp; Johnson provided additional details on Friday about its two most r
 
 ##### Hangzhou Xiaoshan International Airport
 ### [Hangzhou Xiaoshan International Airport in Zhejiang, China, is closed after a UFO sighting. ](/news/2010/07/9/hangzhou-xiaoshan-international-airport-in-zhejiang-china-is-closed-after-a-ufo-sighting.md)
-_Context: UFO, Hangzhou Xiaoshan International Airport, Zhejiang_
+_Context: Hangzhou Xiaoshan International Airport, UFO, Zhejiang_
 
 ##### Google
 ### [China renews the internet content provider license for Google allowing it to continue operating in the country. ](/news/2010/07/9/china-renews-the-internet-content-provider-license-for-google-allowing-it-to-continue-operating-in-the-country.md)
@@ -57,7 +57,7 @@ _Context: United States Government, BP, Deepwater Horizon oil spill_
 
 ##### Bank of Korea
 ### [The South Korean Central Bank unexpectedly raise interest rates from 2% to 2.25%. ](/news/2010/07/9/the-south-korean-central-bank-unexpectedly-raise-interest-rates-from-2-to-2-25.md)
-_Context: Bank of Korea, interest rates_
+_Context: interest rates, Bank of Korea_
 
 ##### Wall Street
 ### [Wall Street ends the week with the strongest gains in a year, with the Dow Jones Industrial Average rising 5.3%, and NASDAQ rising 5%. ](/news/2010/07/9/wall-street-ends-the-week-with-the-strongest-gains-in-a-year-with-the-dow-jones-industrial-average-rising-5-3-and-nasdaq-rising-5.md)
@@ -69,7 +69,7 @@ Washington announces the successful completion of its biggest spy swap with Russ
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI appoints Archbishop Velasio de Paolis to lead the Legion of Christ following the previous head who had engaged in child sex abuse and a number of other crimes throughout his career. ](/news/2010/07/9/pope-benedict-xvi-appoints-archbishop-velasio-de-paolis-to-lead-the-legion-of-christ-following-the-previous-head-who-had-engaged-in-child-se.md)
-_Context: Velasio de Paolis, previous head, Pope Benedict XVI, Legion of Christ, Archbishop_
+_Context: Legion of Christ, Archbishop, Velasio de Paolis, Pope Benedict XVI, previous head_
 
 ##### China
 ### [Chinese officials seize 64 tonnes of raw dairy materials contaminated with melamine. ](/news/2010/07/9/chinese-officials-seize-64-tonnes-of-raw-dairy-materials-contaminated-with-melamine.md)
@@ -81,11 +81,11 @@ The Iranian authorities say a woman convicted of adultery, Sakineh Mohammadi Ash
 
 ##### Bangladesh
 ### [Salman Hossain, a Bangladeshi immigrant to Canada, is charged with online advocation of genocide against Canadian Jews. ](/news/2010/07/9/salman-hossain-a-bangladeshi-immigrant-to-canada-is-charged-with-online-advocation-of-genocide-against-canadian-jews.md)
-_Context: genocide, Canadian, immigrant, Bangladesh, Canadian Jews_
+_Context: Canadian, Canadian Jews, immigrant, Bangladesh, genocide_
 
 ##### Johannesburg
 ### [A painting in a Johannesburg shopping centre depicting an autopsy on the corpse of Nelson Mandela surrounded by nosy world leaders attracts controversy as the topic of Mandela's eventual death is taboo in South Africa. ](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.md)
-_Context: Nelson Mandela, South Africa, Johannesburg_
+_Context: South Africa, Nelson Mandela, Johannesburg_
 
 ##### Australia
 ### [Australia celebrates indigenous culture in NAIDOC Week with the 2010 theme "Unsung Heroes - Closing the Gap by Leading Their Way". ](/news/2010/07/9/australia-celebrates-indigenous-culture-in-naidoc-week-with-the-2010-theme-unsung-heroes-closing-the-gap-by-leading-their-way.md)

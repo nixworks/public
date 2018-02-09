@@ -25,7 +25,7 @@ Australian search officials saidon Thursday they had finished searching an area 
 
 ##### Oil tanker
 ### [An oil tanker is listing off the coast of Japan's Hyogo prefecture after an explosion and subsequent fire. Seven of the eight crew on board have been rescued while the captain is missing. ](/news/2014/05/29/an-oil-tanker-is-listing-off-the-coast-of-japan-s-hyogo-prefecture-after-an-explosion-and-subsequent-fire-seven-of-the-eight-crew-on-board.md)
-_Context: oil tanker, Hyogo prefecture_
+_Context: Hyogo prefecture, oil tanker_
 
 ##### Bill & Melinda Gates Foundation
 ### [A report sponsored by the Bill & Melinda Gates Foundation and published online by "the Lancet" finds that 30% of the world's population is overweight or obese. ](/news/2014/05/29/a-report-sponsored-by-the-bill-melinda-gates-foundation-and-published-online-by-the-lancet-finds-that-30-of-the-world-s-population-is-o.md)

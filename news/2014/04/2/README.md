@@ -9,7 +9,7 @@ Several bombs near Cairo university kill a police brigadier-general and wound fi
 
 ##### Kabul
 ### [A suicide bomber wearing a military uniform strikes a voter registration office in Kabul, Afghanistan killing 6 police officers. ](/news/2014/04/2/a-suicide-bomber-wearing-a-military-uniform-strikes-a-voter-registration-office-in-kabul-afghanistan-killing-6-police-officers.md)
-_Context: Kabul, Afghanistan_
+_Context: Afghanistan, Kabul_
 
 ##### Fort Hood
 ### [A shooting is reported at the Fort Hood Army Base near the US town of Killeen, Texas with reports of at least four deaths, including the gunman, and 14 injuries. ](/news/2014/04/2/a-shooting-is-reported-at-the-fort-hood-army-base-near-the-us-town-of-killeen-texas-with-reports-of-at-least-four-deaths-including-the-gun.md)
@@ -21,11 +21,11 @@ Chrysler said Wednesday that it would recall 870,000 SUVs to fix a defect in the
 
 ##### President
 ### [The President of Chile Michelle Bachelet declares the northern part of Chile to be a disaster zone including the regions of Arica y Parinacota, and Tarapaca. ](/news/2014/04/2/the-president-of-chile-michelle-bachelet-declares-the-northern-part-of-chile-to-be-a-disaster-zone-including-the-regions-of-arica-y-parinaco.md)
-_Context: Chile, President, Tarapaca, Michelle Bachelet, Arica y Parinacota_
+_Context: President, Michelle Bachelet, Tarapaca, Arica y Parinacota, Chile_
 
 ##### High Court of Australia
 ### [The High Court of Australia recognises a neutral third gender that is neither male nor female. ](/news/2014/04/2/the-high-court-of-australia-recognises-a-neutral-third-gender-that-is-neither-male-nor-female.md)
-_Context: third gender, High Court of Australia_
+_Context: High Court of Australia, third gender_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States, in "McCutcheon v. Federal Election Commission", votes 5-4 to overturn limits on the amount of money that an individual can donate to politicians' campaigns over a two-year cycle. ](/news/2014/04/2/the-supreme-court-of-the-united-states-in-mccutcheon-v-federal-election-commission-votes-5a4-to-overturn-limits-on-the-amount-of-mone.md)
@@ -33,7 +33,7 @@ The 5 to 4 decision
 
 ##### San Francisco
 ### [More than 100 mostly elderly residents of San Francisco's Chinatown are reported as victims of fraud from a travel agency. ](/news/2014/04/2/more-than-100-mostly-elderly-residents-of-san-francisco-s-chinatown-are-reported-as-victims-of-fraud-from-a-travel-agency.md)
-_Context: Chinatown, San Francisco_
+_Context: San Francisco, Chinatown_
 
 ##### Leland Yee
 ### [California State Senator Leland Yee's attorney Paul DeMeester is replaced by former San Francisco assistant district attorney Jim Lassart. ](/news/2014/04/2/california-state-senator-leland-yee-s-attorney-paul-demeester-is-replaced-by-former-san-francisco-assistant-district-attorney-jim-lassart.md)

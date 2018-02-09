@@ -3,7 +3,7 @@ Formats: [HTML](/news/2004/07/15/the-united-states-house-of-representatives-pass
 
 ### [2004-07-15](/news/2004/07/15/index.md)
 
-##### House of Representatives
+##### United States House of Representatives
 #  The United States House of Representatives passes a resolution condemning the International Court of Justice ruling on the Israeli West Bank barrier. 
 
 

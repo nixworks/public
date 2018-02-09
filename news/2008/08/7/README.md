@@ -9,7 +9,7 @@ _Context: Tskhinvali_
 
 ##### State Attorney General
 ### [ The New York State Attorney General Andrew Cuomo reaches a $7 billion settlement with Citigroup to buy back auction rate securities from about 40,000 clients throughout the United States. ](/news/2008/08/7/the-new-york-state-attorney-general-andrew-cuomo-reaches-a-7-billion-settlement-with-citigroup-to-buy-back-auction-rate-securities-from-ab.md)
-_Context: Citigroup, United States, auction rate securities, State Attorney General, Andrew Cuomo_
+_Context: State Attorney General, Andrew Cuomo, auction rate securities, Citigroup, United States_
 
 ##### Unemployment benefits
 ### [ Claims for unemployment benefits in the United States rise to 455,000, the highest level since March 2002. ](/news/2008/08/7/claims-for-unemployment-benefits-in-the-united-states-rise-to-455-000-the-highest-level-since-march-2002.md)
@@ -21,7 +21,7 @@ Salim Ahmed Hamdan, the first detainee convicted after a war crimes trial in Gua
 
 ##### Mayor of Detroit
 ### [ The Mayor of Detroit Kwame Kilpatrick is ordered to go to jail for violating the terms of his bond for an ongoing perjury trial. ](/news/2008/08/7/the-mayor-of-detroit-kwame-kilpatrick-is-ordered-to-go-to-jail-for-violating-the-terms-of-his-bond-for-an-ongoing-perjury-trial.md)
-_Context: Mayor of Detroit, Kwame Kilpatrick, perjury_
+_Context: Kwame Kilpatrick, Mayor of Detroit, perjury_
 
 ##### Coup d'tat
 ### [ The leaders of the 2008 Mauritanian coup d'tat promise to hold elections as soon as possible. ](/news/2008/08/7/the-leaders-of-the-2008-mauritanian-coup-d-etat-promise-to-hold-elections-as-soon-as-possible.md)

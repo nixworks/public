@@ -9,31 +9,31 @@ The U.S. unemployment rate reached 8.5 percent, its highest level in a quarter-c
 
 ##### Malaysia
 ### [ Former Malaysian Deputy Prime Minister Najib Tun Razak is inaugurated as Prime Minister. ](/news/2009/04/3/former-malaysian-deputy-prime-minister-najib-tun-razak-is-inaugurated-as-prime-minister.md)
-_Context: inaugurated, Malaysia, Prime Minister, Deputy Prime Minister, Najib Tun Razak_
+_Context: Prime Minister, Malaysia, Najib Tun Razak, inaugurated, Deputy Prime Minister_
 
 ##### France
 ### [ French police arrest 300 protesters as a NATO summit begins in Strasbourg. ](/news/2009/04/3/french-police-arrest-300-protesters-as-a-nato-summit-begins-in-strasbourg.md)
-_Context: French police, summit, protest, France, Strasbourg, NATO_
+_Context: protest, French police, Strasbourg, NATO, summit, France_
 
 ##### Soldier
 ### [ Four soldiers die as Thailand's Army and Cambodia's Army exchange gunfire near the Preah Vihear Temple. ](/news/2009/04/3/four-soldiers-die-as-thailand-s-army-and-cambodia-s-army-exchange-gunfire-near-the-preah-vihear-temple.md)
-_Context: Cambodia, Royal Thai Army, Army, Preah Vihear Temple, exchange gunfire, soldier, Thailand_
+_Context: exchange gunfire, Thailand, Army, Cambodia, Royal Thai Army, Preah Vihear Temple, soldier_
 
 ##### U.S. state
 ### [ The U.S. state of Iowa's Supreme Court legalizes same-sex marriage. ](/news/2009/04/3/the-u-s-state-of-iowa-s-supreme-court-legalizes-same-sex-marriage.md)
-_Context: Iowa Supreme Court, legalizes, Iowa, same-sex marriage, U.S. state_
+_Context: Iowa, same-sex marriage, U.S. state, legalizes, Iowa Supreme Court_
 
 ##### Riot
 ### [ Approximately 40 people riot in Clondalkin, near West Dublin, Ireland. ](/news/2009/04/3/approximately-40-people-riot-in-clondalkin-near-west-dublin-ireland.md)
-_Context: Irish, Dublin, Clondalkin, riot_
+_Context: Irish, riot, Dublin, Clondalkin_
 
 ##### Shooting
 ### [ Fourteen people die and 26 are injured during a shooting at the American Civic Association in Binghamton, New York. ](/news/2009/04/3/fourteen-people-die-and-26-are-injured-during-a-shooting-at-the-american-civic-association-in-binghamton-new-york.md)
-_Context: Binghamton, American Civic Association, shooting, New York_
+_Context: American Civic Association, New York, Binghamton, shooting_
 
 ##### Scotland
 ### [ Scottish footballers Barry Ferguson and Allan McGregor receive lifetime bans from the Scottish Football Association and are transfer-listed by Rangers Football Club. ](/news/2009/04/3/scottish-footballers-barry-ferguson-and-allan-mcgregor-receive-lifetime-bans-from-the-scottish-football-association-and-are-transfer-listed.md)
-_Context: Scottish Football Association, Scotland, football, Allan McGregor, ban, transfer-listed, Rangers F.C., Barry Ferguson_
+_Context: Scotland, Rangers F.C., Scottish Football Association, football, ban, Allan McGregor, transfer-listed, Barry Ferguson_
 
 ## [Previous Day...](/news/2009/04/2/index.md)
 

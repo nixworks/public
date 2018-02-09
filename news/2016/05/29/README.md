@@ -25,7 +25,7 @@ Seventeen people are killed as a fire tears through a building housing elderly p
 
 ##### European migrant crisis
 ### [The United Nations fears that approximately 700 migrants have drowned in three Mediterranean Sea shipwrecks over the past few days. ](/news/2016/05/29/the-united-nations-fears-that-approximately-700-migrants-have-drowned-in-three-mediterranean-sea-shipwrecks-over-the-past-few-days.md)
-_Context: Mediterranean Sea, United Nations, European migrant crisis_
+_Context: Mediterranean Sea, European migrant crisis, United Nations_
 
 ##### 2016 Atlantic hurricane season
 ### [Tropical Storm Bonnie makes landfall on the East Coast of the United States, affecting mainly the city of Charleston, South Carolina. ](/news/2016/05/29/tropical-storm-bonnie-makes-landfall-on-the-east-coast-of-the-united-states-affecting-mainly-the-city-of-charleston-south-carolina.md)
@@ -37,7 +37,7 @@ Ugandan President Yoweri Museveni said his country would halt security and milit
 
 ##### Mexico
 ### [Mexican international football player Alan Pulido, who plays for Olympiacos F.C., is kidnapped by masked men near his home in Ciudad Victoria, Tamaulipas. He is later rescued. ](/news/2016/05/29/mexican-international-football-player-alan-pulido-who-plays-for-olympiacos-f-c-is-kidnapped-by-masked-men-near-his-home-in-ciudad-victori.md)
-_Context: Olympiacos, Mexico, Tamaulipas, Ciudad Victoria, Alan Pulido_
+_Context: Ciudad Victoria, Alan Pulido, Olympiacos, Tamaulipas, Mexico_
 
 ##### 2016 U.S. presidential election
 ### [Gary Johnson, former Governor of New Mexico, secures the nomination for the Libertarian Party in the U.S. presidential election. Johnson picks former Massachusetts governor, and former Republican, William Weld as his running mate. ](/news/2016/05/29/gary-johnson-former-governor-of-new-mexico-secures-the-nomination-for-the-libertarian-party-in-the-u-s-presidential-election-johnson-pic.md)

@@ -9,11 +9,11 @@ Angola’s governing party took a lead in a parliamentary election and is on tra
 
 ##### Roger Federer
 ### [ Roger Federer defeats Andy Murray to win the U.S. Tennis Open for a record-breaking fifth consecutive time. ](/news/2008/09/8/roger-federer-defeats-andy-murray-to-win-the-u-s-tennis-open-for-a-record-breaking-fifth-consecutive-time.md)
-_Context: Roger Federer, Andy Murray, U.S. Tennis Open_
+_Context: Andy Murray, Roger Federer, U.S. Tennis Open_
 
 ##### Washington Mutual
 ### [ Washington Mutual, the largest savings and loan in the United States, ousts Chief Executive Kerry Killinger as a result of losses incurred as a result of the subprime mortgage crisis. ](/news/2008/09/8/washington-mutual-the-largest-savings-and-loan-in-the-united-states-ousts-chief-executive-kerry-killinger-as-a-result-of-losses-incurred.md)
-_Context: Chief Executive, savings and loan, subprime mortgage crisis, Washington Mutual, United States, Kerry Killinger_
+_Context: savings and loan, Washington Mutual, Kerry Killinger, United States, Chief Executive, subprime mortgage crisis_
 
 ##### Landslide
 ### [ A landslide triggered by heavy rain strikes a warehouse in Linfen in Shanxi province, China, killing at least 26 people and injuring others. ](/news/2008/09/8/a-landslide-triggered-by-heavy-rain-strikes-a-warehouse-in-linfen-in-shanxi-province-china-killing-at-least-26-people-and-injuring-others.md)
@@ -21,19 +21,19 @@ Heavy rain triggered a landslide triggered that killed at least 34 people in nor
 
 ##### Hurricane Ike
 ### [ Hurricane Ike makes landfall near Banes, Cuba, and weakens. ](/news/2008/09/8/hurricane-ike-makes-landfall-near-banes-cuba-and-weakens.md)
-_Context: Cuba, Banes, Hurricane Ike_
+_Context: Banes, Hurricane Ike, Cuba_
 
 ##### US military
 ### [ The US military is to 'review an inquiry' into an air raid on a village in Herat province, Afghanistan, after a new video evidence emerged indicating 'scores of civilian deaths'. The US air raid in Afghanistan left up to 90 people dead, 'many of them women and children', the Afghan government and the UN said. However, US officials claimed earlier that 'no more than seven civilians died'. The bodies of 'at least 10 children and many more adults' appear in two videos made with cell phones in the Afghan village Azizabad after the raid. ](/news/2008/09/8/the-us-military-is-to-review-an-inquiry-into-an-air-raid-on-a-village-in-herat-province-afghanistan-after-a-new-video-evidence-emerged.md)
-_Context: Herat, Azizabad, Afghanistan, US military, civilian_
+_Context: civilian, Afghanistan, US military, Azizabad, Herat_
 
 ##### Russian President
 ### [ President of Russia Dmitry Medvedev and President of France Nicolas Sarkozy announced after talks in Moscow that an agreement to pull Russian forces from Georgia within a month has been reached. The agreement has become possible as EU will send 200 civilian monitors to the area and guarantee that Georgia signs a pledge to not use military force in Abkhazia and South Ossetia again. ](/news/2008/09/8/president-of-russia-dmitry-medvedev-and-president-of-france-nicolas-sarkozy-announced-after-talks-in-moscow-that-an-agreement-to-pull-russi.md)
-_Context: Abkhazia, Nicolas Sarkozy, Russian President,  Georgian, French President, Dmitry Medvedev, South Ossetia, Moscow, Russian security forces_
+_Context: Nicolas Sarkozy, Russian security forces, Russian President, Moscow, Abkhazia, Dmitry Medvedev, South Ossetia,  Georgian, French President_
 
 ##### United Kingdom
 ### [ Three British Muslim men are found guilty of conspiracy to murder relating to the 2006 transatlantic aircraft plot. ](/news/2008/09/8/three-british-muslim-men-are-found-guilty-of-conspiracy-to-murder-relating-to-the-2006-transatlantic-aircraft-plot.md)
-_Context: murder, United Kingdom, conspiracy, 2006 transatlantic aircraft plot_
+_Context: murder, conspiracy, United Kingdom, 2006 transatlantic aircraft plot_
 
 ## [Previous Day...](/news/2008/09/7/index.md)
 

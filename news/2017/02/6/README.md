@@ -9,7 +9,7 @@ Formats: [HTML](2017/02/6/index.html)  [JSON](2017/02/6/index.json)  [XML](2017/
 
 ##### Afghanistan
 ### [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md)
-_Context: Pakistan, Afghanistan, Karachi_
+_Context: Afghanistan, Pakistan, Karachi_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md)
@@ -27,7 +27,7 @@ As many as 50 people have died in crimewave, according to local reports, as Espi
 ### [Israel passes the Regulation Law which retroactively legalizes 4,000 housing units in 16 settlements on Area C West Bank occupied Palestinian territories. ](/news/2017/02/6/israel-passes-the-regulation-law-which-retroactively-legalizes-4-000-housing-units-in-16-settlements-on-area-c-west-bank-occupied-palestinia.md)
 The legislation marks the first time that the Knesset has sought to impose Israeli law in Area C of the West Bank, which is under Israeli military and civilian rule.
 
-##### House of Representatives
+##### United States House of Representatives
 ### [U.S. Representative Matt Gaetz proposes a bill to eliminate the United States Environmental Protection Agency. ](/news/2017/02/6/u-s-representative-matt-gaetz-proposes-a-bill-to-eliminate-the-united-states-environmental-protection-agency.md)
 A House Republican is working to write a bill that, if passed, would completely abolish the Environmental Protection Agency (EPA).
 

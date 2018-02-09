@@ -21,27 +21,27 @@ Up to 300 feared dead after fighting between Muslim and Christian communities.
 
 ##### Christopher Speight
 ### [Christopher Speight, an American man suspected of shooting and killing eight people in Appomattox, Virginia, surrenders to police. ](/news/2010/01/20/christopher-speight-an-american-man-suspected-of-shooting-and-killing-eight-people-in-appomattox-virginia-surrenders-to-police.md)
-_Context: Christopher Speight, Appomattox, Virginia State Police trooper, Virginia, United States_
+_Context: Virginia, Appomattox, Christopher Speight, Virginia State Police trooper, United States_
 
 ##### United States
 ### [U.S. investment bank JPMorgan Chase is in talks to buy natural gas firm RBS Sempra for about US$4 billion. ](/news/2010/01/20/u-s-investment-bank-jpmorgan-chase-is-in-talks-to-buy-natural-gas-firm-rbs-sempra-for-about-us-4-billion.md)
-_Context: investment bank, natural gas, US$, RBS Sempra, United States, JPMorgan Chase_
+_Context: JPMorgan Chase, investment bank, United States, US$, natural gas, RBS Sempra_
 
 ##### Magnitude
 ### [A 6.1 magnitude aftershock rocks Haiti a week after the 2010 Haiti earthquake. ](/news/2010/01/20/a-6-1-magnitude-aftershock-rocks-haiti-a-week-after-the-2010-haiti-earthquake.md)
-_Context: 2010 Haiti earthquake, magnitude, aftershock, Haiti_
+_Context: Haiti, magnitude, aftershock, 2010 Haiti earthquake_
 
 ##### Burma
 ### [The Burmese Supreme Court announces it will return a verdict on the extended house arrest of Aung San Suu Kyi by next month. ](/news/2010/01/20/the-burmese-supreme-court-announces-it-will-return-a-verdict-on-the-extended-house-arrest-of-aung-san-suu-kyi-by-next-month.md)
-_Context: Aung San Suu Kyi, house arrest, Burma_
+_Context: Burma, house arrest, Aung San Suu Kyi_
 
 ##### Vietnam
 ### [Vietnamese human rights lawyer Le Cong Dinh is convicted on charges of subversion and sentenced to five years in prison. ](/news/2010/01/20/vietnamese-human-rights-lawyer-le-cong-dinh-is-convicted-on-charges-of-subversion-and-sentenced-to-five-years-in-prison.md)
-_Context: subversion, prison, Vietnam, Le Cong Dinh, human rights_
+_Context: human rights, Le Cong Dinh, Vietnam, prison, subversion_
 
 ##### Microsoft
 ### [Microsoft issues a patch for a serious security hole in Internet Explorer 6 after France and Germany advised their citizens to change browsers. ](/news/2010/01/20/microsoft-issues-a-patch-for-a-serious-security-hole-in-internet-explorer-6-after-france-and-germany-advised-their-citizens-to-change-browse.md)
-_Context: German, patch, Internet Explorer 6, web browser, Microsoft, security hole, France_
+_Context: France, Internet Explorer 6, patch, security hole, German, web browser, Microsoft_
 
 ##### 2D
 ### [The 2D version of the film "Avatar" is pulled from theaters in China.](/news/2010/01/20/the-2d-version-of-the-film-avatar-is-pulled-from-theaters-in-china.md)

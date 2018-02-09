@@ -21,7 +21,7 @@ Organizers of an event in Guangdong Province canceled the invitation to the Puza
 
 ##### Violence at UEFA Euro 2016
 ### [France deports twenty Russian football fans including Alexander Shprygin, the leader of the All-Russia Supporters Union, following violence at the England-Russia match in Marseille. ](/news/2016/06/16/france-deports-twenty-russian-football-fans-including-alexander-shprygin-the-leader-of-the-all-russia-supporters-union-following-violence.md)
-_Context: England, Marseille, Russian, Russia, France, Violence at UEFA Euro 2016_
+_Context: France, England, Marseille, Russia, Russian, Violence at UEFA Euro 2016_
 
 ##### Switzerland-European Union relations
 ### [Switzerland's Federal Assembly votes to officially withdraw the country's application to join the European Union. Following the vote, foreign minister Didier Burkhalter was quoted as saying that the government will now tell the EU to "consider the application as withdrawn". ](/news/2016/06/16/switzerland-s-federal-assembly-votes-to-officially-withdraw-the-country-s-application-to-join-the-european-union-following-the-vote-foreig.md)
@@ -57,7 +57,7 @@ An agreement was apparently reached to allow votes on whether to ban people on a
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This is the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/16/the-philadelphia-pennsylvania-city-council-approves-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1-2.md)
-_Context: sugar-sweetened and diet beverages, sugary drinks tax, Pennsylvania, City Council, United States, Philadelphia_
+_Context: United States, Philadelphia, sugary drinks tax, City Council, sugar-sweetened and diet beverages, Pennsylvania_
 
 ## [Previous Day...](/news/2016/06/15/index.md)
 

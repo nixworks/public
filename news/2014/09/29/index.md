@@ -13,7 +13,7 @@ Argentina will deposit itsnext interest payment due on its restructured debt on 
 
 ##### Ashraf Ghani
 ### [Ashraf Ghani is sworn in as new president of Afghanistan. ](/news/2014/09/29/ashraf-ghani-is-sworn-in-as-new-president-of-afghanistan.md)
-_Context: Afghanistan, Ashraf Ghani_
+_Context: Ashraf Ghani, Afghanistan_
 
 ## [Previous Day...](/news/2014/09/28/index.md)
 

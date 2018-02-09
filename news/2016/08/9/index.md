@@ -29,7 +29,7 @@ At least three people have died in Funchal, the capital of the Portuguese holida
 
 ##### Drug crackdown
 ### [Rodrigo Duterte says he might declare martial law in the Philippines if his spat with the Supreme Court escalates. ](/news/2016/08/9/rodrigo-duterte-says-he-might-declare-martial-law-in-the-philippines-if-his-spat-with-the-supreme-court-escalates.md)
-_Context: Rodrigo Duterte, Philippines, Supreme Court of the Philippines, drug crackdown, martial law_
+_Context: drug crackdown, martial law, Supreme Court of the Philippines, Philippines, Rodrigo Duterte_
 
 ##### Irom Chanu Sharmila
 ### [Irom Chanu Sharmila is set to end her 16-year fast against India's Armed Forces (Special Powers) Act.](/news/2016/08/9/irom-chanu-sharmila-is-set-to-end-her-16-year-fast-against-india-s-armed-forces-special-powers-act.md)
@@ -41,7 +41,7 @@ Julian Assange seemed to suggest Seth Rich was the source of DNC email leak.
 
 ##### Royal Melbourne Institute of Technology
 ### [A study conducted at the Royal Melbourne Institute of Technology shows a positive correlation with playing online video games and higher test scores in math, science and reading while a negative correlation with social media use. ](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institute-of-technology-shows-a-positive-correlation-with-playing-online-video-games-and-higher-tes.md)
-_Context: video games, social media, Royal Melbourne Institute of Technology_
+_Context: social media, video games, Royal Melbourne Institute of Technology_
 
 ## [Previous Day...](/news/2016/08/8/index.md)
 

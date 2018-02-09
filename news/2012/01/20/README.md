@@ -9,7 +9,7 @@ _Context: 2011-2012 Syrian uprising_
 
 ##### AMISOM
 ### [AMISOM troops raid Islamist hideouts in the Somali capital Mogadishu. ](/news/2012/01/20/amisom-troops-raid-islamist-hideouts-in-the-somali-capital-mogadishu.md)
-_Context: Islamist, Mogadishu, Somalia, AMISOM_
+_Context: Somalia, Mogadishu, AMISOM, Islamist_
 
 ##### Kano
 ### [Several people are killed in a series of bomb explosions in the city of Kano, Nigeria. ](/news/2012/01/20/several-people-are-killed-in-a-series-of-bomb-explosions-in-the-city-of-kano-nigeria.md)
@@ -21,7 +21,7 @@ Tribal fighting in South Sudan has left 120,000 people in need of emergency food
 
 ##### Tuareg
 ### [Fighting between Tuareg rebels and government troops in Mali kills 47 people. ](/news/2012/01/20/fighting-between-tuareg-rebels-and-government-troops-in-mali-kills-47-people.md)
-_Context: Mali, Tuareg_
+_Context: Tuareg, Mali_
 
 ##### Indonesia
 ### [An Indonesian man is charged with blasphemy after saying that God does not exist on his Facebook page. ](/news/2012/01/20/an-indonesian-man-is-charged-with-blasphemy-after-saying-that-god-does-not-exist-on-his-facebook-page.md)
@@ -29,11 +29,11 @@ An Indonesian man who said that God did not exist in a posting on a Facebook pag
 
 ##### Salman Rushdie
 ### [Writer Salman Rushdie withdraws from the Jaipur Literature Festival in India due to new concerns about his possible assassination. ](/news/2012/01/20/writer-salman-rushdie-withdraws-from-the-jaipur-literature-festival-in-india-due-to-new-concerns-about-his-possible-assassination.md)
-_Context: Salman Rushdie, ''The Satanic Verses'' controversy, India, Jaipur Literature Festival_
+_Context: ''The Satanic Verses'' controversy, Jaipur Literature Festival, Salman Rushdie, India_
 
 ##### Chile
 ### [Chile's Supreme Court convicts two retired generals of illegal weapons sales to Croatia in 1991 in violation of a United Nations arms embargo. ](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.md)
-_Context: Chile, United Nations, Croatia, Supreme Court_
+_Context: Supreme Court, United Nations, Chile, Croatia_
 
 ##### China
 ### [China warns Iran against developing nuclear weapons. ](/news/2012/01/20/china-warns-iran-against-developing-nuclear-weapons.md)
@@ -41,19 +41,19 @@ China is warning Iran against developing nuclear weapons, observers said.
 
 ##### Assassination of Hrant Dink
 ### [Marking five years since the assassination of Hrant Dink, Turks protest.](/news/2012/01/20/marking-five-years-since-the-assassination-of-hrant-dink-turks-protest.md)
-_Context: Turkey, assassination of Hrant Dink_
+_Context: assassination of Hrant Dink, Turkey_
 
 ##### 2011-2012 Yemeni uprising
 ### [2011-2012 Yemeni uprising: The Yemeni government modifies a new bill that would have granted legal immunity to aides of outgoing President Ali Abdullah Saleh. ](/news/2012/01/20/2011a2012-yemeni-uprising-the-yemeni-government-modifies-a-new-bill-that-would-have-granted-legal-immunity-to-aides-of-outgoing-president.md)
-_Context: Ali Abdullah Saleh, President, 2011-2012 Yemeni uprising, Yemen_
+_Context: 2011-2012 Yemeni uprising, Yemen, President, Ali Abdullah Saleh_
 
 ##### Cuba
 ### [Cuban dissident Wilmar Villar dies after going on hunger strike. ](/news/2012/01/20/cuban-dissident-wilmar-villar-dies-after-going-on-hunger-strike.md)
-_Context: Wilmar Villar, hunger strike, Cuba_
+_Context: hunger strike, Cuba, Wilmar Villar_
 
 ##### Madagascar
 ### [Madagascar's former President Marc Ravalomanana says he will return to the country after three years in exile. ](/news/2012/01/20/madagascar-s-former-president-marc-ravalomanana-says-he-will-return-to-the-country-after-three-years-in-exile.md)
-_Context: Marc Ravalomanana, President, Madagascar_
+_Context: Madagascar, President, Marc Ravalomanana_
 
 ##### Major social and political unrest
 ### [Romanian protests: Thousands of people demonstrate demanding the resignation of president Traian Basescu and the Boc II Cabinet. ](/news/2012/01/20/romanian-protests-thousands-of-people-demonstrate-demanding-the-resignation-of-president-traian-basescu-and-the-boc-ii-cabinet.md)

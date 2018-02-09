@@ -11,7 +11,7 @@ Formats: [HTML](/news/2003/03/5/a-car-bomb-exploded-in-caocuta-colombia-killing-
 
 ### Changes:
 
-1. [ A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.md) _2018-02-07 03:16:28 (First version)_
+1. [ A man exploded a bomb in a bus in Haifa, Israel, killing at least ten people.](/news/2003/03/5/a-man-exploded-a-bomb-in-a-bus-in-haifa-israel-killing-at-least-ten-people.md) _2018-02-08 03:17:00 (First version)_
 1. [ A car bomb exploded in Cucuta, Colombia killing at least seven people.](/news/2003/03/5/a-car-bomb-exploded-in-caocuta-colombia-killing-at-least-seven-people.md) _(Current version)_
 
 ### Related:

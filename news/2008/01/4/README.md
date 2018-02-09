@@ -9,7 +9,7 @@ _Context: China_
 
 ##### Transaven crash
 ### [ Transaven crash: A Venezuelan Let L-410 Turbolet carrying at least 14 people crashes near the Los Roques Archipelago. ](/news/2008/01/4/transaven-crash-a-venezuelan-let-l-410-turbolet-carrying-at-least-14-people-crashes-near-the-los-roques-archipelago.md)
-_Context: Transaven crash, Venezuela, Let L-410 Turbolet, Los Roques Archipelago_
+_Context: Venezuela, Los Roques Archipelago, Transaven crash, Let L-410 Turbolet_
 
 ##### 2008 Dakar Rally
 ### [ The 2008 Dakar Rally is cancelled due to safety concerns in Mauritania. ](/news/2008/01/4/the-2008-dakar-rally-is-cancelled-due-to-safety-concerns-in-mauritania.md)
@@ -17,11 +17,11 @@ _Context: 2008 Dakar Rally, Mauritanian_
 
 ##### North Korea
 ### [ North Korean officials accuse the United States of not fulfilling its promise of humanitarian aid after an international disarmament agreement. ](/news/2008/01/4/north-korean-officials-accuse-the-united-states-of-not-fulfilling-its-promise-of-humanitarian-aid-after-an-international-disarmament-agreem.md)
-_Context: international disarmament agreement, North Korea, United States, humanitarian aid_
+_Context: North Korea, international disarmament agreement, humanitarian aid, United States_
 
 ##### Indonesia
 ### [ Former Indonesian leader Suharto is taken to hospital in critical condition for anemia and low blood pressure. ](/news/2008/01/4/former-indonesian-leader-suharto-is-taken-to-hospital-in-critical-condition-for-anemia-and-low-blood-pressure.md)
-_Context: anemia, low blood pressure, Suharto, Indonesia_
+_Context: anemia, Suharto, Indonesia, low blood pressure_
 
 ## [Previous Day...](/news/2008/01/3/index.md)
 

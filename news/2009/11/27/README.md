@@ -5,7 +5,7 @@ Formats: [HTML](2009/11/27/index.html)  [JSON](2009/11/27/index.json)  [XML](200
 
 ##### Russia
 ### [ A Russian high-speed passenger train traveling on the Moscow - Saint Petersburg Railway derails near Uglovka in a suspected terrorist attack, killing 26 people and injuring more than 100. ](/news/2009/11/27/a-russian-high-speed-passenger-train-traveling-on-the-moscow-a-saint-petersburg-railway-derails-near-uglovka-in-a-suspected-terrorist-att.md)
-_Context: Uglovka, Russia, derails, Moscow - Saint Petersburg Railway, passenger train_
+_Context: derails, Russia, Moscow - Saint Petersburg Railway, passenger train, Uglovka_
 
 ##### Tiger Woods
 ### [ Tiger Woods, the world's number one golfer, is hospitalised after sustaining injuries in a car crash in Orlando, Florida, USA. ](/news/2009/11/27/tiger-woods-the-world-s-number-one-golfer-is-hospitalised-after-sustaining-injuries-in-a-car-crash-in-orlando-florida-usa.md)
@@ -13,19 +13,19 @@ Tiger Woods, the world&#039;s number one golfer, was injured in a car accident n
 
 ##### World Health Organization
 ### [ The World Health Organization reports a one-week global increase of more than 1,000 deaths (85% increase in Europe) from the pandemic H1N1-09 virus. ](/news/2009/11/27/the-world-health-organization-reports-a-one-week-global-increase-of-more-than-1-000-deaths-85-increase-in-europe-from-the-pandemic-h1n1.md)
-_Context: World Health Organization, pandemic H1N1/09 virus_
+_Context: pandemic H1N1/09 virus, World Health Organization_
 
 ##### Ferry accident
 ### [ A ferry carrying over 1000 people partially sinks in the Tetulia river in southern Bangladesh, trapping an unknown number of people. ](/news/2009/11/27/a-ferry-carrying-over-1000-people-partially-sinks-in-the-tetulia-river-in-southern-bangladesh-trapping-an-unknown-number-of-people.md)
-_Context: Bangladesh, Tetulia, ferry accident_
+_Context: ferry accident, Tetulia, Bangladesh_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency passes a resolution 25-3 condemning Iran for developing a secret uranium enrichment site. ](/news/2009/11/27/the-international-atomic-energy-agency-passes-a-resolution-25-3-condemning-iran-for-developing-a-secret-uranium-enrichment-site.md)
-_Context: Iran, uranium enrichment, developing, IAEA_
+_Context: Iran, developing, IAEA, uranium enrichment_
 
 ##### Vanuatu
 ### [ Vanuatu's Prime Minister Edward Natapei loses his parliamentary seat after he missed three consecutive sittings without submitting an explanation. ](/news/2009/11/27/vanuatu-s-prime-minister-edward-natapei-loses-his-parliamentary-seat-after-he-missed-three-consecutive-sittings-without-submitting-an-expla.md)
-_Context: Vanuatu, Edward Natapei_
+_Context: Edward Natapei, Vanuatu_
 
 ##### Namibia
 ### [ Voters in Namibia vote in a general election. ](/news/2009/11/27/voters-in-namibia-vote-in-a-general-election.md)
@@ -49,7 +49,7 @@ _Context: China National Space Administration, Chang'e 2_
 
 ##### Urges
 ### [ The Commonwealth Heads of Government Meeting 2009 opens with the following issues on its agenda: discussion of climate change ahead of the December United Nations Climate Change Conference; Rwanda's admission into the Commonwealth of Nations; and Sri Lanka's bid to host the 2011 meeting. ](/news/2009/11/27/the-commonwealth-heads-of-government-meeting-2009-opens-with-the-following-issues-on-its-agenda-discussion-of-climate-change-ahead-of-the.md)
-_Context: Conference on Climate Change, Rwanda, Commonwealth of Nations, Sri Lanka, urges_
+_Context: Commonwealth of Nations, Sri Lanka, Conference on Climate Change, Rwanda, urges_
 
 ##### South Korea
 ### [ South Korea's Truth and Reconciliation Commission acknowledges the government's execution of 5,000 civilians accused of sympathizing with North Korea during the early months of the Korean War. ](/news/2009/11/27/south-korea-s-truth-and-reconciliation-commission-acknowledges-the-government-s-execution-of-5-000-civilians-accused-of-sympathizing-with-n.md)
@@ -61,11 +61,11 @@ _Context: Buganda, Uganda_
 
 ##### Franz Josef Jung
 ### [ Franz Josef Jung resigns as Germany's Minister of Labour and Social Affairs following allegations of covering up the Kunduz airstrike, during which he served as Minister of Defence. ](/news/2009/11/27/franz-josef-jung-resigns-as-germany-s-minister-of-labour-and-social-affairs-following-allegations-of-covering-up-the-kunduz-airstrike-duri.md)
-_Context: Federal Minister for Defence, Kunduz airstrike, German, Minister of Labour and Social Affairs, Franz Josef Jung_
+_Context: Franz Josef Jung, Federal Minister for Defence, German, Minister of Labour and Social Affairs, Kunduz airstrike_
 
 ##### President of the European Commission
 ### [ President of the European Commission Jose Manuel Barroso nominates a new team of commissioners for his second five-year term. ](/news/2009/11/27/president-of-the-european-commission-josa-c-manuel-barroso-nominates-a-new-team-of-commissioners-for-his-second-five-year-term.md)
-_Context: President of the European Commission, Jose Manuel Barroso, European Commissioner_
+_Context: Jose Manuel Barroso, European Commissioner, President of the European Commission_
 
 ##### Space Shuttle Atlantis
 ### [ Space Shuttle "Atlantis" returns to Earth following the completion of its STS-129 mission. ](/news/2009/11/27/space-shuttle-atlantis-returns-to-earth-following-the-completion-of-its-sts-129-mission.md)
@@ -73,7 +73,7 @@ _Context: Space Shuttle Atlantis, STS-129_
 
 ##### Shooting
 ### [ A mass shooting at a Thanksgiving party in Jupiter, Florida, United States kills four people and critically wounds a fifth. ](/news/2009/11/27/a-mass-shooting-at-a-thanksgiving-party-in-jupiter-florida-united-states-kills-four-people-and-critically-wounds-a-fifth.md)
-_Context: Thanksgiving, Jupiter, shooting, United States, the state_
+_Context: Thanksgiving, the state, shooting, United States, Jupiter_
 
 ## [Previous Day...](/news/2009/11/26/index.md)
 

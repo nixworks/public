@@ -13,15 +13,15 @@ Libyan &quot;day of rage&quot; protesters defy Gadhafi crackdown; internal secur
 
 ##### Abdelhamid Mehri
 ### [Eighty-four-year-old Abdelhamid Mehri, former leader of Algeria's governing party, writes a letter to President Abdelaziz Bouteflika asking that he change his government in response to the unrest across the Arab world. ](/news/2011/02/17/eighty-four-year-old-abdelhamid-mehri-former-leader-of-algeria-s-governing-party-writes-a-letter-to-president-abdelaziz-bouteflika-asking.md)
-_Context: President, Abdelhamid Mehri, Abdelaziz Bouteflika, Arab Spring_
+_Context: Abdelaziz Bouteflika, Arab Spring, Abdelhamid Mehri, President_
 
 ##### Yemen
 ### [Several people are injured in clashes between pro and anti-government protesters in the Yemeni capital Sana'a. ](/news/2011/02/17/several-people-are-injured-in-clashes-between-pro-and-anti-government-protesters-in-the-yemeni-capital-sana-a.md)
-_Context: Yemen, Sana'a_
+_Context: Sana'a, Yemen_
 
 ##### Iraq
 ### [Two people are killed and 47 injured in a protest in the northern Iraqi city of Sulaimaniya. ](/news/2011/02/17/two-people-are-killed-and-47-injured-in-a-protest-in-the-northern-iraqi-city-of-sulaimaniya.md)
-_Context: Sulaimaniya, Iraq_
+_Context: Iraq, Sulaimaniya_
 
 ##### Israel
 ### [Israeli troops kill three Palestinian militants near Beit Lahia, in the northern Gaza Strip, who were approaching the border. ](/news/2011/02/17/israeli-troops-kill-three-palestinian-militants-near-beit-lahia-in-the-northern-gaza-strip-who-were-approaching-the-border.md)
@@ -41,7 +41,7 @@ _Context: Andy Warhol, Christie's, London_
 
 ##### Private equity
 ### [The private equity owners of Australian book sellers Angus & Robertson, the New Zealand news agency chain Whitcoulls and the Australasian franchise of Borders goes into voluntary administration. ](/news/2011/02/17/the-private-equity-owners-of-australian-book-sellers-angus-robertson-the-new-zealand-news-agency-chain-whitcoulls-and-the-australasian-fr.md)
-_Context: private equity, Australia, news agency, Borders, New Zealand, Whitcoulls, Angus & Robertson, voluntary administration_
+_Context: news agency, voluntary administration, Whitcoulls, Angus & Robertson, Australia, private equity, New Zealand, Borders_
 
 ##### Honda Motor Co.
 ### [Honda recalls nearly 700,000 vehicles in the Fit, Freed, and City model range due to a defective spring. ](/news/2011/02/17/honda-recalls-nearly-700-000-vehicles-in-the-fit-freed-and-city-model-range-due-to-a-defective-spring.md)
@@ -65,11 +65,11 @@ PA president declares that elections must include West Bank and the Hamas-contro
 
 ##### Rohingya
 ### [A boat containing 129 Rohingya refugees from Burma is found by Indonesia. ](/news/2011/02/17/a-boat-containing-129-rohingya-refugees-from-burma-is-found-by-indonesia.md)
-_Context: Burma, Indonesia, Rohingya_
+_Context: Indonesia, Burma, Rohingya_
 
 ##### Riyad Mansour
 ### [Riyad Mansour, the Palestinian United Nations observer, announces that the United Nations Security Council is to vote tomorrow on a resolution critical of Israeli settlement building in the West Bank and East Jerusalem. ](/news/2011/02/17/riyad-mansour-the-palestinian-united-nations-observer-announces-that-the-united-nations-security-council-is-to-vote-tomorrow-on-a-resoluti.md)
-_Context: Riyad Mansour, United Nations, West Bank, United Nations Security Council, East Jerusalem_
+_Context: East Jerusalem, United Nations Security Council, Riyad Mansour, United Nations, West Bank_
 
 ##### Arab Spring
 ### [Assessment suggests the possibility that social networks are more informed than U.S. intelligence about protesters in the Middle East. ](/news/2011/02/17/assessment-suggests-the-possibility-that-social-networks-are-more-informed-than-u-s-intelligence-about-protesters-in-the-middle-east.md)
@@ -77,11 +77,11 @@ Social networks may have known more than the US about Middle East revolts, asses
 
 ##### Iran
 ### [Iran requests permission from the Government of Egypt for the Iranian navy to pass through the Suez Canal. ](/news/2011/02/17/iran-requests-permission-from-the-government-of-egypt-for-the-iranian-navy-to-pass-through-the-suez-canal.md)
-_Context: Suez Canal, Government of Egypt, Iranian navy, Iran_
+_Context: Iranian navy, Suez Canal, Iran, Government of Egypt_
 
 ##### United States
 ### [The United States imposes sanctions on Iran's Refah Bank for allegedly facilitating the purchase of weapons by Iran's Defense Ministry. ](/news/2011/02/17/the-united-states-imposes-sanctions-on-iran-s-refah-bank-for-allegedly-facilitating-the-purchase-of-weapons-by-iran-s-defense-ministry.md)
-_Context: sanctions, Iran, United States, Refah Bank, Iran's Defense Ministry_
+_Context: Iran's Defense Ministry, sanctions, Refah Bank, Iran, United States_
 
 ##### CBC
 ### [The CBC releases information about an alleged attack originating from China against the computer networks of the Finance Department and Treasury Board in Canada, forcing the immediate shutdown of all internet access in both departments. ](/news/2011/02/17/the-cbc-releases-information-about-an-alleged-attack-originating-from-china-against-the-computer-networks-of-the-finance-department-and-trea.md)
@@ -93,7 +93,7 @@ An England football fan jailed in Portugal for his role in a riot during Euro 20
 
 ##### United States
 ### [United States authorities charge more than a hundred doctors, nurses and physical therapists in nine cities with Medicare fraud. ](/news/2011/02/17/united-states-authorities-charge-more-than-a-hundred-doctors-nurses-and-physical-therapists-in-nine-cities-with-medicare-fraud.md)
-_Context: fraud, Medicare, United States, physical therapists_
+_Context: United States, fraud, physical therapists, Medicare_
 
 ##### United States
 ### [Police arrest nine people allegedly involved in a United States-Mexico arms ring, and seize 300 weapons. ](/news/2011/02/17/police-arrest-nine-people-allegedly-involved-in-a-united-states-mexico-arms-ring-and-seize-300-weapons.md)
@@ -101,7 +101,7 @@ Police arrested nine people and seized 300 firearms, including assault rifles, i
 
 ##### Egypt
 ### [Former Egyptian Interior Minister Habib Ibrahim El Adly is arrested pending investigation of corruption allegations along with former Housing Minister Ahmed Maghrabi, former Tourism Minister Zuhair Garana and a former official from the National Democratic Party. ](/news/2011/02/17/former-egyptian-interior-minister-habib-ibrahim-el-adly-is-arrested-pending-investigation-of-corruption-allegations-along-with-former-housin.md)
-_Context: Ahmed Maghrabi, Habib Ibrahim El Adly, Zuhair Garana, Egypt, National Democratic Party_
+_Context: Egypt, Habib Ibrahim El Adly, Ahmed Maghrabi, National Democratic Party, Zuhair Garana_
 
 ##### Anthony Graves
 ### [Anthony Graves, an American man found innocent of the murders which left him on death row for 18 years, is denied restitution due to a technicality. ](/news/2011/02/17/anthony-graves-an-american-man-found-innocent-of-the-murders-which-left-him-on-death-row-for-18-years-is-denied-restitution-due-to-a-techn.md)
@@ -125,7 +125,7 @@ _Context: Serbia, Kosovo_
 
 ##### Governor
 ### [The Governor of Alaska Sean Parnell says that he will not implement the United States Patient Protection and Affordable Care Act after a Florida judge ruled it was unconstitutional. ](/news/2011/02/17/the-governor-of-alaska-sean-parnell-says-that-he-will-not-implement-the-united-states-patient-protection-and-affordable-care-act-after-a-flo.md)
-_Context: Obamacare, United States, Governor, the state, Sean Parnell_
+_Context: Obamacare, Governor, United States, Sean Parnell, the state_
 
 ## [Previous Day...](/news/2011/02/16/index.md)
 

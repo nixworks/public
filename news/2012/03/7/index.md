@@ -13,15 +13,15 @@ _Context: Afghanistan, British Army_
 
 ##### Valerie Amos
 ### [Valerie Amos, the United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, visits the Baba Amr district in the Syrian city of Homs. ](/news/2012/03/7/valerie-amos-the-united-nations-under-secretary-general-for-humanitarian-affairs-and-emergency-relief-coordinator-visits-the-baba-amr-dist.md)
-_Context: Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, United Nations, Homs, Syria, Valerie Amos_
+_Context: Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Homs, Syria, United Nations, Valerie Amos_
 
 ##### Series of avalanches
 ### [The death toll from a series of avalanches in Afghanistan's Badakhshan province rises to 50. ](/news/2012/03/7/the-death-toll-from-a-series-of-avalanches-in-afghanistan-s-badakhshan-province-rises-to-50.md)
-_Context: Badakhshan province, series of avalanches, Afghanistan_
+_Context: series of avalanches, Badakhshan province, Afghanistan_
 
 ##### Australia
 ### [The Australian town of Yenda, New South Wales, is flooded as floodwaters move through the Murray-Darling Basin. ](/news/2012/03/7/the-australian-town-of-yenda-new-south-wales-is-flooded-as-floodwaters-move-through-the-murrayadarling-basin.md)
-_Context: Yenda, New South Wales, Australia, Murray-Darling Basin_
+_Context: Australia, Murray-Darling Basin, Yenda, New South Wales_
 
 ##### Sweden
 ### [Swedish media report that the country has been helping Saudi Arabia plan the construction of a weapons factory. ](/news/2012/03/7/swedish-media-report-that-the-country-has-been-helping-saudi-arabia-plan-the-construction-of-a-weapons-factory.md)
@@ -41,7 +41,7 @@ Mustafa Abdel Jalil accuses Arab countries of funding effort to carve out easter
 
 ##### Sweden
 ### [Sweden's Prime Minister Fredrik Reinfeldt and his wife, Stockholm county council chair Filippa Reinfeldt, separate after two decades of marriage. ](/news/2012/03/7/sweden-s-prime-minister-fredrik-reinfeldt-and-his-wife-stockholm-county-council-chair-filippa-reinfeldt-separate-after-two-decades-of-marr.md)
-_Context: Filippa Reinfeldt, Sweden, prime minister, Stockholm county council, Fredrik Reinfeldt_
+_Context: prime minister, Sweden, Stockholm county council, Filippa Reinfeldt, Fredrik Reinfeldt_
 
 ##### Solar flare
 ### [The biggest solar flare in five years that occurred on March 6 nears Earth with the capacity to disrupt power grids, GPS systems and airline flights. ](/news/2012/03/7/the-biggest-solar-flare-in-five-years-that-occurred-on-march-6-nears-earth-with-the-capacity-to-disrupt-power-grids-gps-systems-and-airline.md)

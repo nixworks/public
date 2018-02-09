@@ -37,7 +37,7 @@ An Iranian asylum seeker dies after setting himself alight in a central Amsterda
 
 ##### Nigeria
 ### [25 people are killed in a bomb assault in the Nigerian town Suleja. ](/news/2011/04/7/25-people-are-killed-in-a-bomb-assault-in-the-nigerian-town-suleja.md)
-_Context: Nigeria, Suleja_
+_Context: Suleja, Nigeria_
 
 ##### Ai Weiwei
 ### [China's foreign ministry confirms police are investigating artist and government critic Ai Weiwei, who disappeared over the weekend, for suspected economic crimes amid reports that he has been force-fed milk powder while on hunger strike in prison in reference to his campaigns against the 2008 Chinese milk scandal. ](/news/2011/04/7/china-s-foreign-ministry-confirms-police-are-investigating-artist-and-government-critic-ai-weiwei-who-disappeared-over-the-weekend-for-sus.md)
@@ -45,7 +45,7 @@ China confirms the detained artist, Ai Weiwei, is being investigated for &quot;e
 
 ##### Montreal
 ### [Politicians in Montreal call for French rock star Bertrand Cantat to be denied entry after Theatre du Nouveau Monde hires him for some plays by Sophocles. ](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.md)
-_Context: Montreal, Sophocles, Bertrand Cantat, Theatre du Nouveau Monde_
+_Context: Montreal, Bertrand Cantat, Sophocles, Theatre du Nouveau Monde_
 
 ##### Eurozone
 ### [Eurozone interest rates are raised to 1.25 per cent from the record low of 1 per cent by the European Central Bank (ECB) amid concerns this could cause problems for countries such as Portugal and the Republic of Ireland. ](/news/2011/04/7/eurozone-interest-rates-are-raised-to-1-25-per-cent-from-the-record-low-of-1-per-cent-by-the-european-central-bank-ecb-amid-concerns-this.md)
@@ -77,11 +77,11 @@ Workers in Japan start injecting nitrogen into one of the reactors at the crippl
 
 ##### Power outage
 ### [Blackouts hit most Venezuelan states including the capital Caracas. ](/news/2011/04/7/blackouts-hit-most-venezuelan-states-including-the-capital-caracas.md)
-_Context: power outage, Caracas, Venezuela_
+_Context: power outage, Venezuela, Caracas_
 
 ##### State Department
 ### [A British government diplomat calls the United States Department of State to draw "attention to our concerns over Bradley Manning", the Welsh-born U.S. serviceman imprisoned by the U.S. military in solitary confinement and forced to sleep naked, conditions condemned by Amnesty International, the American Civil Liberties Union and British MPs among others. ](/news/2011/04/7/a-british-government-diplomat-calls-the-united-states-department-of-state-to-draw-attention-to-our-concerns-over-bradley-manning-the-wels.md)
-_Context: State Department, American Civil Liberties Union, Bradley Manning, Amnesty International, Wales_
+_Context: Wales, Bradley Manning, State Department, Amnesty International, American Civil Liberties Union_
 
 ##### David Cameron
 ### [UK prime minister David Cameron admits to students in Pakistan that Britain and its empire is to blame for many of the world's problems. ](/news/2011/04/7/uk-prime-minister-david-cameron-admits-to-students-in-pakistan-that-britain-and-its-empire-is-to-blame-for-many-of-the-world-s-problems.md)
@@ -97,11 +97,11 @@ Group of elderly Kenyans who say they were tortured by British officers in the 1
 
 ##### Hawaii Intermediate Court of Appeals
 ### [The Hawaii Intermediate Court of Appeals dismisses an appeal from a man wanting to see the President of the United States Barack Obama's birth certificate. ](/news/2011/04/7/the-hawaii-intermediate-court-of-appeals-dismisses-an-appeal-from-a-man-wanting-to-see-the-president-of-the-united-states-barack-obama-s-bir.md)
-_Context: Barack Obama citizenship conspiracy theories, U.S. President, Hawaii Intermediate Court of Appeals, birth certificate, Barack Obama_
+_Context: U.S. President, birth certificate, Barack Obama, Barack Obama citizenship conspiracy theories, Hawaii Intermediate Court of Appeals_
 
 ##### Labour Party
 ### [Former British Labour Party minister Elliot Morley pleads guilty to dishonestly claiming more than GBP30,000 in parliamentary expenses. ](/news/2011/04/7/former-british-labour-party-minister-elliot-morley-pleads-guilty-to-dishonestly-claiming-more-than-agbp30-000-in-parliamentary-expenses.md)
-_Context: Elliot Morley, United Kingdom Parliamentary expenses scandal, Labour Party_
+_Context: Labour Party, United Kingdom Parliamentary expenses scandal, Elliot Morley_
 
 ##### Nicola Roxon
 ### [Nicola Roxon, the Australian Minister for Health, announces plans to introduce legislation requiring tobacco products to be sold in plain packaging. ](/news/2011/04/7/nicola-roxon-the-australian-minister-for-health-announces-plans-to-introduce-legislation-requiring-tobacco-products-to-be-sold-in-plain-pa.md)
@@ -109,7 +109,7 @@ Australia will become the first country in the world to require tobacco products
 
 ##### Service Employees International Union
 ### [Seventeen people are arrested at a protest organised by the Service Employees International Union trying to storm the Governor of the US state of Washington's office in Olympia. ](/news/2011/04/7/seventeen-people-are-arrested-at-a-protest-organised-by-the-service-employees-international-union-trying-to-storm-the-governor-of-the-us-sta.md)
-_Context: Olympia, Governor of Washington, Washington, Service Employees International Union_
+_Context: Olympia, Governor of Washington, Service Employees International Union, Washington_
 
 ## [Previous Day...](/news/2011/04/6/index.md)
 

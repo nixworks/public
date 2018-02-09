@@ -25,7 +25,7 @@ _Context: Pakistan Taliban_
 
 ##### Landslide
 ### [At least 25 people die with dozens missing as a result of a landslide at a gold mining site in the Philippines Compostela Valley Province. ](/news/2012/01/5/at-least-25-people-die-with-dozens-missing-as-a-result-of-a-landslide-at-a-gold-mining-site-in-the-philippines-compostela-valley-province.md)
-_Context: Philippines, Compostela Valley Province, gold mining, landslide_
+_Context: gold mining, Compostela Valley Province, Philippines, landslide_
 
 ##### Wildfire
 ### [At least six firefighters die fighting wildfires in southern Chile with two badly burnt and one missing. ](/news/2012/01/5/at-least-six-firefighters-die-fighting-wildfires-in-southern-chile-with-two-badly-burnt-and-one-missing.md)
@@ -49,7 +49,7 @@ President Barack Obama has unveiled a strategy for a leaner US military focused 
 
 ##### Portia Simpson Miller
 ### [Portia Simpson Miller is sworn in for the second time as the Prime Minister of Jamaica. ](/news/2012/01/5/portia-simpson-miller-is-sworn-in-for-the-second-time-as-the-prime-minister-of-jamaica.md)
-_Context: Prime Minister of Jamaica, Portia Simpson Miller_
+_Context: Portia Simpson Miller, Prime Minister of Jamaica_
 
 ## [Previous Day...](/news/2012/01/4/index.md)
 

@@ -17,15 +17,15 @@ Japanese officials said Sunday they presumed partial meltdowns had occurred at t
 
 ##### 2011 Canterbury earthquake
 ### [Bob Parker, the mayor of the New Zealand city of Christchurch, estimates that the city centre is still "very, very dangerous" with up to a third of the buildings needing to be demolished. ](/news/2011/03/13/bob-parker-the-mayor-of-the-new-zealand-city-of-christchurch-estimates-that-the-city-centre-is-still-very-very-dangerous-with-up-to-a-t.md)
-_Context: Bob Parker, 2011 Canterbury earthquake, Christchurch, New Zealand_
+_Context: New Zealand, 2011 Canterbury earthquake, Bob Parker, Christchurch_
 
 ##### Shinmoedake
 ### [The Shinmoedake volcano in Kagoshima Prefecture, Japan explodes again. ](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.md)
-_Context: volcano, Kagoshima Prefecture, Japan, Shinmoedake_
+_Context: Kagoshima Prefecture, Japan, volcano, Shinmoedake_
 
 ##### Pacific Northwest
 ### [A wind and rainstorm in the Pacific Northwest of the United States results in the loss of power to 114,000 in Portland, Oregon. ](/news/2011/03/13/a-wind-and-rainstorm-in-the-pacific-northwest-of-the-united-states-results-in-the-loss-of-power-to-114-000-in-portland-oregon.md)
-_Context: United States, Portland, Oregon, Pacific Northwest_
+_Context: Pacific Northwest, Portland, Oregon, United States_
 
 ##### West Bank
 ### [UN Secretary-General Ban Ki-moon condemns the Palestinian Itamar attack that stabbed and murdered an Israeli family of five. ](/news/2011/03/13/un-secretary-general-ban-ki-moon-condemns-the-palestinian-itamar-attack-that-stabbed-and-murdered-an-israeli-family-of-five.md)
@@ -45,7 +45,7 @@ _Context: Virginia, Buchanan County_
 
 ##### Presidential election
 ### [A presidential election takes place in Benin, after previously being delayed. ](/news/2011/03/13/a-presidential-election-takes-place-in-benin-after-previously-being-delayed.md)
-_Context: presidential election, Benin_
+_Context: Benin, presidential election_
 
 ##### DR Congo
 ### [Congolese President Joseph Kabila fires two ministers over corruption and absence. ](/news/2011/03/13/congolese-president-joseph-kabila-fires-two-ministers-over-corruption-and-absence.md)
@@ -53,7 +53,7 @@ _Context: Kabila government, President, DR Congo_
 
 ##### Chad
 ### [Chadian President Idriss Deby postpones the 3 April presidential election after opposition candidates threatened a boycott over irregularities. ](/news/2011/03/13/chadian-president-idriss-deby-postpones-the-3-april-presidential-election-after-opposition-candidates-threatened-a-boycott-over-irregulariti.md)
-_Context: Chad, 3 April presidential election, Idriss Deby, Chadian President_
+_Context: 3 April presidential election, Chad, Idriss Deby, Chadian President_
 
 ##### President
 ### [The President of Pakistan Asif Ali Zardari asks the second largest Opposition party, the Pakistan Muslim League-Q, to join the Government. ](/news/2011/03/13/the-president-of-pakistan-asif-ali-zardari-asks-the-second-largest-opposition-party-the-pakistan-muslim-league-q-to-join-the-government.md)

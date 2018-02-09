@@ -5,11 +5,11 @@ Formats: [HTML](2009/05/6/index.html)  [JSON](2009/05/6/index.json)  [XML](2009/
 
 ##### European Parliament
 ### [ The European Parliament delays its planned reform of the European Union's telecommunications policy. ](/news/2009/05/6/the-european-parliament-delays-its-planned-reform-of-the-european-union-s-telecommunications-policy.md)
-_Context: reform, telecom, European Union, European Parliament_
+_Context: European Parliament, reform, European Union, telecom_
 
 ##### United States
 ### [ The United States Supervisory Capital Assessment Program finds that financial services companies JPMorgan Chase, and American Express do not need more capital from the Troubled Asset Relief Program. ](/news/2009/05/6/the-united-states-supervisory-capital-assessment-program-finds-that-financial-services-companies-jpmorgan-chase-and-american-express-do-no.md)
-_Context: capital, United States, companies, financial services, Troubled Asset Relief Program, stress test, American Express, JPMorgan Chase_
+_Context: American Express, financial services, companies, JPMorgan Chase, stress test, United States, Troubled Asset Relief Program, capital_
 
 ##### Car bomb
 ### [ A car bomb kills at least ten people and injures 30 others in Dora, Baghdad, Iraq. ](/news/2009/05/6/a-car-bomb-kills-at-least-ten-people-and-injures-30-others-in-dora-baghdad-iraq.md)
@@ -17,7 +17,7 @@ _Context: Dora, Iraq, car bomb, Baghdad_
 
 ##### Taliban
 ### [ The Taliban captures Mingora, Swat, Pakistan. ](/news/2009/05/6/the-taliban-captures-mingora-swat-pakistan.md)
-_Context: War in North-West Pakistan, Taliban, Pakistan, Swat, Pakistan, Mingora_
+_Context: Swat, Pakistan, Mingora, Taliban, War in North-West Pakistan, Pakistan_
 
 ##### Czech Republic
 ### [ Czech President Vaclav Klaus postpones his signing of the Senate-approved Treaty of Lisbon. ](/news/2009/05/6/czech-president-va-clav-klaus-postpones-his-signing-of-the-senate-approved-treaty-of-lisbon.md)
@@ -25,15 +25,15 @@ Czech President Vaclav Klaus has said he will not sign the EU&#39;s Lisbon Treat
 
 ##### Guinea
 ### [ Guinea withdraws ambassadors from 30 countries worldwide. ](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.md)
-_Context: withdraws, ambassador, Guinea_
+_Context: Guinea, withdraws, ambassador_
 
 ##### Somalia
 ### [ Somali pirates hijack Germany's MV "Victoria" and release the United Arab Emirates' MV "Al Meezan". ](/news/2009/05/6/somali-pirates-hijack-germany-s-mv-victoria-and-release-the-united-arab-emirates-mv-al-meezan.md)
-_Context: United Arab Emirates, Somalia, German, Somali pirates, pirate, MV_
+_Context: Somalia, German, MV, United Arab Emirates, Somali pirates, pirate_
 
 ##### U.S. state
 ### [ The U.S. state of Maine legalizes same-sex marriage. ](/news/2009/05/6/the-u-s-state-of-maine-legalizes-same-sex-marriage.md)
-_Context: legalizes, Maine, same-sex marriage, U.S. state_
+_Context: same-sex marriage, U.S. state, Maine, legalizes_
 
 ## [Previous Day...](/news/2009/05/5/index.md)
 

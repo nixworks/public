@@ -16,4 +16,5 @@ KANSAS &#8212; A Kansas City Police Captain has died after being shot in Kansas 
 
 ### Related:
 
-1. [Google announces plans to make the U.S. city of Kansas City, Kansas the first site in its ultra-high speed broadband network. ](/news/2011/03/30/google-announces-plans-to-make-the-u-s-city-of-kansas-city-kansas-the-first-site-in-its-ultra-high-speed-broadband-network.md) _Context: Kansas City, Kansas_
+1. [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers with the Kansas City factory and 500 workers at its two Iowa City factories (with the workforce at the latter plant being reduced to about 700 employees.) ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md) _Context: Kansas City, Kansas_
+2. [Google announces plans to make the U.S. city of Kansas City, Kansas the first site in its ultra-high speed broadband network. ](/news/2011/03/30/google-announces-plans-to-make-the-u-s-city-of-kansas-city-kansas-the-first-site-in-its-ultra-high-speed-broadband-network.md) _Context: Kansas City, Kansas_

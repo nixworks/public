@@ -5,7 +5,7 @@ Formats: [HTML](2017/12/25/index.html)  [JSON](2017/12/25/index.json)  [XML](201
 
 ##### War in Afghanistan (2001-present)
 ### [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md)
-_Context: War in Afghanistan (2001-present), ISIL, Amaq News Agency, National Directorate of Security, Kabul_
+_Context: War in Afghanistan (2001-present), Kabul, Amaq News Agency, National Directorate of Security, ISIL_
 
 ##### Saudi-led intervention in Yemen
 ### [More than 70 civilians are believed to have been killed in two-days of airstrikes by the Royal Saudi Air Force targeting Houthi forces. ](/news/2017/12/25/more-than-70-civilians-are-believed-to-have-been-killed-in-two-days-of-airstrikes-by-the-royal-saudi-air-force-targeting-houthi-forces.md)

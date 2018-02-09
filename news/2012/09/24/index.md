@@ -25,7 +25,7 @@ At least six people are killed after a building collapses in Pune city in the we
 
 ##### Taiwan
 ### [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md)
-_Context: Japan, Taiwan, China, Senkaku Islands_
+_Context: Taiwan, China, Senkaku Islands, Japan_
 
 ##### Jewish
 ### [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israelaunited-states-relations.md)
@@ -41,11 +41,11 @@ It supplies the world&#039;s technology giants, including Apple, but Foxconn has
 
 ##### Vietnam
 ### [Three bloggers in Vietnam are sentenced to four, ten and twelve years' imprisonment for "anti-state propaganda". ](/news/2012/09/24/three-bloggers-in-vietnam-are-sentenced-to-four-ten-and-twelve-years-imprisonment-for-anti-state-propaganda.md)
-_Context: propaganda, Vietnam_
+_Context: Vietnam, propaganda_
 
 ##### Israel
 ### [Former Israeli minister of industry, trade and labor Ehud Olmert, who is also a former prime minister, is given a fine and a suspended 1-year jail sentence for cronyism while in office. A bribery case related to a housing project in Jerusalem is still being investigated. ](/news/2012/09/24/former-israeli-minister-of-industry-trade-and-labor-ehud-olmert-who-is-also-a-former-prime-minister-is-given-a-fine-and-a-suspended-1-yea.md)
-_Context: Ehud Olmert, Israel, cronyism, Jerusalem_
+_Context: Jerusalem, Ehud Olmert, cronyism, Israel_
 
 ##### US military
 ### [The US military announces that two US Marines are charged with urinating on Taliban corpses in Afghanistan and failing to stop other misconduct by subordinates. ](/news/2012/09/24/the-us-military-announces-that-two-us-marines-are-charged-with-urinating-on-taliban-corpses-in-afghanistan-and-failing-to-stop-other-miscond.md)
@@ -61,15 +61,15 @@ _Context: Saudi Arabia_
 
 ##### Karim Masimov
 ### [Karim Masimov resigns as the Prime Minister of Kazakhstan after serving for five years. ](/news/2012/09/24/karim-masimov-resigns-as-the-prime-minister-of-kazakhstan-after-serving-for-five-years.md)
-_Context: Karim Masimov, Prime Minister, Kazakhstan_
+_Context: Prime Minister, Karim Masimov, Kazakhstan_
 
 ##### OSCE
 ### [The Organization for Security and Co-operation in Europe says recent parliamentary elections in Belarus were neither free nor fair. VRT calls them "a farce". ](/news/2012/09/24/the-organization-for-security-and-co-operation-in-europe-says-recent-parliamentary-elections-in-belarus-were-neither-free-nor-fair-vrt-call.md)
-_Context: parliamentary elections, OSCE, Belarus, VRT_
+_Context: OSCE, parliamentary elections, VRT, Belarus_
 
 ##### Jun Azumi
 ### [Jun Azumi, the Minister of Finance of Japan, says he is to step down and take on a senior function as the acting secretary-general of the Democratic Party of Japan. His announcement comes ahead of an expected cabinet reshuffle. ](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.md)
-_Context: Jun Azumi, Japan, Cabinet of Japan, Democratic Party, Minister of Finance_
+_Context: Minister of Finance, Japan, Cabinet of Japan, Jun Azumi, Democratic Party_
 
 ## [Previous Day...](/news/2012/09/23/index.md)
 

@@ -9,7 +9,7 @@ Police fire into the air to disperse protesters throwing stones and smashing up 
 
 ##### Iran
 ### [The Iranian government says an Israeli spying network - since dismantled - assassinated the University of Tehran's distinguished professor of elementary particle physics Masoud Alimohammadi; an Iranian foreign ministry spokesperson vows to sue. ](/news/2011/01/11/the-iranian-government-says-an-israeli-spying-network-since-dismantled-assassinated-the-university-of-tehran-s-distinguished-professor-o.md)
-_Context: University of Tehran, Israel, Iran, Masoud Alimohammadi_
+_Context: Iran, Masoud Alimohammadi, University of Tehran, Israel_
 
 ##### Julian Assange
 ### [Lawyers for Julian Assange warn that he could be killed if he is extradited to the U.S. from Britain; Assange draws parallels between the rhetoric of the 2011 Tucson shooting and the language used against him by commentators such as Joe Biden, U.S. Vice President. ](/news/2011/01/11/lawyers-for-julian-assange-warn-that-he-could-be-killed-if-he-is-extradited-to-the-u-s-from-britain-assange-draws-parallels-between-the-rh.md)
@@ -21,11 +21,11 @@ An Egyptian policeman shoots dead a Christian man and wounds others on a train, 
 
 ##### Georgian Army
 ### [Three Georgian Army soldiers are killed and 13 wounded when a mortar bomb explodes during exercises at a military base near Tbilisi, Georgia. ](/news/2011/01/11/three-georgian-army-soldiers-are-killed-and-13-wounded-when-a-mortar-bomb-explodes-during-exercises-at-a-military-base-near-tbilisi-georgia.md)
-_Context: Georgian Army,  Georgian, Tbilisi_
+_Context:  Georgian, Georgian Army, Tbilisi_
 
 ##### Abidjan
 ### [At least five people are killed in Abidjan, Ivory Coast, as clashes continue between police and supporters of presidential aspirant Alassane Ouattara. ](/news/2011/01/11/at-least-five-people-are-killed-in-abidjan-ivory-coast-as-clashes-continue-between-police-and-supporters-of-presidential-aspirant-alassane.md)
-_Context: Alassane Ouattara, Abidjan, Ivory Coast_
+_Context: Alassane Ouattara, Ivory Coast, Abidjan_
 
 ##### Israeli missile attack
 ### [An Israeli missile attack kills a Palestinian militant while he was riding a motorcycle in the Gaza Strip.](/news/2011/01/11/an-israeli-missile-attack-kills-a-palestinian-militant-while-he-was-riding-a-motorcycle-in-the-gaza-strip.md)
@@ -37,7 +37,7 @@ _Context: Nigeria_
 
 ##### Sao Paulo
 ### [At least 13 people are killed by floods and mudslides in Sao Paulo state, Brazil. ](/news/2011/01/11/at-least-13-people-are-killed-by-floods-and-mudslides-in-sao-paulo-state-brazil.md)
-_Context: Brazil, Sao Paulo_
+_Context: Sao Paulo, Brazil_
 
 ##### Floods
 ### [The floods in the Australian state of Queensland continue to worsen, with ten people confirmed dead as search and rescue efforts continue to locate dozens of missing people. ](/news/2011/01/11/the-floods-in-the-australian-state-of-queensland-continue-to-worsen-with-ten-people-confirmed-dead-as-search-and-rescue-efforts-continue-to.md)
@@ -45,7 +45,7 @@ The Brisbane River has broken its banks amid dire predictions of the biggest flo
 
 ##### Airline
 ### [Thousands of airline flights are cancelled in the south, Great Lakes and northeast regions of the United States due to storms. ](/news/2011/01/11/thousands-of-airline-flights-are-cancelled-in-the-south-great-lakes-and-northeast-regions-of-the-united-states-due-to-storms.md)
-_Context: southern United States, northeastern United States, United States, airline, Great Lakes_
+_Context: southern United States, United States, Great Lakes, airline, northeastern United States_
 
 ##### Kyrgzstan
 ### [An official investigation in Kyrgzstan into deadly ethnic riots last year reports that local Uzbek leaders were to blame. ](/news/2011/01/11/an-official-investigation-in-kyrgzstan-into-deadly-ethnic-riots-last-year-reports-that-local-uzbek-leaders-were-to-blame.md)
@@ -69,11 +69,11 @@ _Context: Alassane Ouattara, Laurent Gbagbo_
 
 ##### Palestinian Authority
 ### [The Palestinian National Authority states it will seek United Nations recognition through both the Security Council and the General Assembly in September. It is currently lobbying nations for recognition during the stalled peace talks with Israel. ](/news/2011/01/11/the-palestinian-national-authority-states-it-will-seek-united-nations-recognition-through-both-the-security-council-and-the-general-assembly.md)
-_Context: United Nations, Israel, United Nations General Assembly, officially recognises, Security Council, Palestinian Authority_
+_Context: United Nations General Assembly, United Nations, Israel, Security Council, officially recognises, Palestinian Authority_
 
 ##### China
 ### [China successfully tests the Chengdu J-20 Black Eagle, one of its fifth generation stealth, twin-engine fighter aircraft programs. ](/news/2011/01/11/china-successfully-tests-the-chengdu-j-20-black-eagle-one-of-its-fifth-generation-stealth-twin-engine-fighter-aircraft-programs.md)
-_Context: China, Chengdu J-20 Black Eagle_
+_Context: Chengdu J-20 Black Eagle, China_
 
 ##### Antimatter
 ### [Scientists detect streams of antimatter positrons annihilating electrons being responsible for Terrestrial gamma-ray flashes above the tops of thunderstorms. ](/news/2011/01/11/scientists-detect-streams-of-antimatter-positrons-annihilating-electrons-being-responsible-for-terrestrial-gamma-ray-flashes-above-the-tops.md)

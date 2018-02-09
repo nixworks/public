@@ -13,7 +13,7 @@ Lola and the universality of women’s exploitation
 
 ##### Intravenous sodium bicarbonate
 ### [Because of a nationwide shortage of intravenous sodium bicarbonate (i.e., baking soda solution), United States hospitals are rationing its use in heart surgery, chemotherapy, for patients whose blood is too acidic, and as an antidote to certain poisons. The two primary producers, Amphastar and Pfizer, indicate that supplies will not increase until late June. ](/news/2017/05/22/because-of-a-nationwide-shortage-of-intravenous-sodium-bicarbonate-i-e-baking-soda-solution-united-states-hospitals-are-rationing-its-u.md)
-_Context: intravenous sodium bicarbonate, chemotherapy, Amphastar, heart surgery, Pfizer_
+_Context: heart surgery, intravenous sodium bicarbonate, Amphastar, chemotherapy, Pfizer_
 
 ##### North Korea's nuclear program
 ### [North Korea's official Korean Central News Agency reports the country's leader, Kim Jong-un, has approved deployment of the Pukguksong-2 intermediate-range ballistic missile, and ordered mass production of the system. The United Nations Security Council will hold a closed-door session Tuesday to discuss the test. ](/news/2017/05/22/north-koreaas-official-korean-central-news-agency-reports-the-country-s-leader-kim-jong-un-has-approved-deployment-of-the-pukguksong-2-i.md)

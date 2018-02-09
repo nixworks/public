@@ -9,7 +9,7 @@ White and Silvia Aloisi
 
 ##### Red Cross
 ### [ The Red Cross recovers the bodies of 11 Colombian legislators who were shot while being held hostage by the Revolutionary Armed Forces of Colombia (FARC). ](/news/2007/09/8/the-red-cross-recovers-the-bodies-of-11-colombian-legislators-who-were-shot-while-being-held-hostage-by-the-revolutionary-armed-forces-of-c.md)
-_Context: Colombia, Red Cross, Revolutionary Armed Forces of Colombia_
+_Context: Colombia, Revolutionary Armed Forces of Colombia, Red Cross_
 
 ##### President of Argentina
 ### [ Former President of Argentina Carlos Menem is charged with involvement in the illegal sale of weapons to Ecuador and Croatia. ](/news/2007/09/8/former-president-of-argentina-carlos-menem-is-charged-with-involvement-in-the-illegal-sale-of-weapons-to-ecuador-and-croatia.md)
@@ -17,11 +17,11 @@ Former Argentine president Carlos Menem has been charged with involvement in the
 
 ##### Justine Henin
 ### [ Justine Henin of Belgium wins the U.S. Open women's tennis singles championship defeating Svetlana Kuznetsova of Russia 6-1 6-3 in the final. ](/news/2007/09/8/justine-henin-of-belgium-wins-the-u-s-open-women-s-tennis-singles-championship-defeating-svetlana-kuznetsova-of-russia-6-1-6-3-in-the-fina.md)
-_Context: Svetlana Kuznetsova, Russia, Justine Henin, U.S. Open, Belgium_
+_Context: Svetlana Kuznetsova, Belgium, Justine Henin, U.S. Open, Russia_
 
 ##### Morocco
 ### [ Morocco's conservative Istiqlal Party, a member of the kingdom's ruling coalition, wins most seats in parliamentary elections, according to provisional results released by the government ](/news/2007/09/8/morocco-s-conservative-istiqlal-party-a-member-of-the-kingdom-s-ruling-coalition-wins-most-seats-in-parliamentary-elections-according-to.md)
-_Context: Istiqlal Party, Morocco, parliamentary elections_
+_Context: Morocco, Istiqlal Party, parliamentary elections_
 
 ##### Algeria
 ### [ At least 16 people are killed and 30 injured in a car bomb attack on an Algerian naval barracks in the town of Dellys, 100km (62km) east of Algiers. ](/news/2007/09/8/at-least-16-people-are-killed-and-30-injured-in-a-car-bomb-attack-on-an-algerian-naval-barracks-in-the-town-of-dellys-100km-62km-east-of.md)
@@ -29,7 +29,7 @@ _Context: Algiers, Algeria, Dellys_
 
 ##### Hindu
 ### [ At least 85 Hindu pilgrims have died after a lorry accident in India. (Wikinews) ](/news/2007/09/8/at-least-85-hindu-pilgrims-have-died-after-a-lorry-accident-in-india-wikinews.md)
-_Context: India, (Wikinews), pilgrims, Hindu_
+_Context: pilgrims, (Wikinews), India, Hindu_
 
 ##### Tropical Storm Gabrielle
 ### [ Subtropical Storm Gabrielle is upgraded to a tropical storm as it approaches the eastern United States coastline. ](/news/2007/09/8/subtropical-storm-gabrielle-is-upgraded-to-a-tropical-storm-as-it-approaches-the-eastern-united-states-coastline.md)

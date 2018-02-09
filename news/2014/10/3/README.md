@@ -13,7 +13,7 @@ Names, addresses, phone numbers and email addresses of the holders of some 83 mi
 
 ##### Stefan Lfven
 ### [Sweden's new Prime Minister, Stefan Lfven, presents his minority government consisting of the Social Democrats and the Green Party; former EU commissioner Margot Wallstrm is the new foreign minister. ](/news/2014/10/3/sweden-s-new-prime-minister-stefan-lofven-presents-his-minority-government-consisting-of-the-social-democrats-and-the-green-party-former.md)
-_Context: Green Party, Social Democrats, Stefan Lfven, Margot Wallstrm_
+_Context: Green Party, Stefan Lfven, Margot Wallstrm, Social Democrats_
 
 ## [Previous Day...](/news/2014/10/2/index.md)
 

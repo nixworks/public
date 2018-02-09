@@ -41,11 +41,11 @@ Four of the largest chocolate producers in Canada have agreed to pay more than $
 
 ##### Rwanda
 ### [Voters in Rwanda go to the polls for a parliamentary election with the Rwandan Patriotic Front of President Paul Kagame achieving a landslide victory. ](/news/2013/09/16/voters-in-rwanda-go-to-the-polls-for-a-parliamentary-election-with-the-rwandan-patriotic-front-of-president-paul-kagame-achieving-a-landslid.md)
-_Context: Rwanda, President, Paul Kagame, parliamentary election, Rwandan Patriotic Front_
+_Context: parliamentary election, President, Rwandan Patriotic Front, Rwanda, Paul Kagame_
 
 ##### CSeries jets
 ### [Bombardier's CS100 successfully completes its first test flight out of Montreal-Mirabel International Airport. ](/news/2013/09/16/bombardier-s-cs100-successfully-completes-its-first-test-flight-out-of-montra-c-al-mirabel-international-airport.md)
-_Context: CSeries jets, Montreal-Mirabel International Airport_
+_Context: Montreal-Mirabel International Airport, CSeries jets_
 
 ## [Previous Day...](/news/2013/09/15/index.md)
 

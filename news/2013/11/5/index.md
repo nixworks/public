@@ -17,11 +17,11 @@ _Context: Lagos, Nigeria_
 
 ##### Sinaloa
 ### [Sports journalist Alberto Angulo Gerardo is killed in the Mexican state of Sinaloa. His death add ups to the death toll of more than 100 media workers killed in Mexico since the year 2000. ](/news/2013/11/5/sports-journalist-alberto-angulo-gerardo-is-killed-in-the-mexican-state-of-sinaloa-his-death-add-ups-to-the-death-toll-of-more-than-100-med.md)
-_Context: 100 media workers killed, Sinaloa_
+_Context: Sinaloa, 100 media workers killed_
 
 ##### Bangkok
 ### [Thousands of protesters fill the streets of Bangkok, Thailand, after lawmakers pass a draft bill for political amnesty which could allow self-exiled Prime Minister Thaksin Shinawatra to re-enter the country. ](/news/2013/11/5/thousands-of-protesters-fill-the-streets-of-bangkok-thailand-after-lawmakers-pass-a-draft-bill-for-political-amnesty-which-could-allow-sel.md)
-_Context: Bangkok, Thaksin Shinawatra, Prime Minister, Thailand_
+_Context: Bangkok, Thaksin Shinawatra, Thailand, Prime Minister_
 
 ##### United States
 ### [American rapper DMX is arrested in South Carolina for driving with a suspended licence, and without a vehicle tag or insurance. ](/news/2013/11/5/american-rapper-dmx-is-arrested-in-south-carolina-for-driving-with-a-suspended-licence-and-without-a-vehicle-tag-or-insurance.md)
@@ -41,7 +41,7 @@ Toronto Mayor Rob Ford says admitting to the world that he smoked crack cocaine 
 
 ##### Indian Space Research Organisation
 ### [The ISRO of India launches a PSLV-XL rocket carrying the Mars Orbiter Mission probe, which will eventually be sent to Mars. ](/news/2013/11/5/the-isro-of-india-launches-a-pslv-xl-rocket-carrying-the-mars-orbiter-mission-probe-which-will-eventually-be-sent-to-mars.md)
-_Context: Mars, India, Mars Orbiter Mission, PSLV-C38, Indian Space Research Organisation_
+_Context: Mars, PSLV-C38, India, Mars Orbiter Mission, Indian Space Research Organisation_
 
 ## [Previous Day...](/news/2013/11/4/index.md)
 

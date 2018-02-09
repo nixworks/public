@@ -13,7 +13,7 @@ A British-era bridge across the Savitri River on the Mumbai-Goa highway collapse
 
 ##### Emirates
 ### [An Emirates Boeing 777-300, flight EK521 from Thiruvananthapuram in India, crash lands at Dubai International Airport and bursts into flames. All 282 passengers and 18 crew evacuate safely, although one firefighter is killed during the rescue. ](/news/2016/08/3/an-emirates-boeing-777-300-flight-ek521-from-thiruvananthapuram-in-india-crash-lands-at-dubai-international-airport-and-bursts-into-flames.md)
-_Context: Thiruvananthapuram, India, flight EK521, Boeing 777-300, Emirates, Dubai International Airport_
+_Context: India, Thiruvananthapuram, Boeing 777-300, Dubai International Airport, flight EK521, Emirates_
 
 ##### 2016 Atlantic hurricane season
 ### [ Tropical Storm Earl, now about 265 miles (425 km) east-southeast of Belize City with top sustained winds of 70 mph (110 KM-H), becomes Hurricane Earl that could produce up to 16 inches of rain by the time it hits Belize. On Sunday, then a tropical wave, Earl was responsible for nine deaths, with four people still missing, in the Dominican Republic. ](/news/2016/08/3/tropical-storm-earl-now-about-265-miles-425-km-east-southeast-of-belize-city-with-top-sustained-winds-of-70-mph-110-km-h-becomes-hurr.md)

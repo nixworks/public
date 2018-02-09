@@ -13,7 +13,7 @@ Entire neighborhoods are blanketed in murky water, the waves in some cases reach
 
 ##### 2017 general election
 ### [Voters in Aruba go to the polls to elect a new Parliament, with the ruling Aruban People's Party losing 4 of its 13 seats. Prime Minister Mike Eman announces his intention to step down as leader of the Aruba People's Party](/news/2017/09/22/voters-in-aruba-go-to-the-polls-to-elect-a-new-parliament-with-the-ruling-aruban-people-s-party-losing-4-of-its-13-seats-prime-minister-mi.md)
-_Context: Prime Minister, 2017 general election, Aruban People's Party, Mike Eman, Aruba, Parliament_
+_Context: Aruba, Mike Eman, 2017 general election, Prime Minister, Parliament, Aruban People's Party_
 
 ##### Human evolution
 ### [A new study shows that Neanderthal brains developed more slowly than those of modern humans, contradicting previous studies. ](/news/2017/09/22/a-new-study-shows-that-neanderthal-brains-developed-more-slowly-than-those-of-modern-humans-contradicting-previous-studies.md)

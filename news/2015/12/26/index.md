@@ -21,7 +21,7 @@ The body of a 5-year-old boy, who went missing Friday after the car he was in wa
 
 ##### December 2015 Hindu Kush earthquake
 ### [Officials report at least four people died and more than 100 were injured, most in Pakistan, after Friday night's 6.3 magnitude earthquake in northeast Afghanistan. Casualty numbers may change since rescue teams have not reached all affected areas. ](/news/2015/12/26/officials-report-at-least-four-people-died-and-more-than-100-were-injured-most-in-pakistan-after-friday-night-s-6-3-magnitude-earthquake-i.md)
-_Context: Afghanistan, Pakistan, magnitude, December 2015 Hindu Kush earthquake_
+_Context: December 2015 Hindu Kush earthquake, Afghanistan, magnitude, Pakistan_
 
 ##### Chinese Foreign Ministry spokesperson
 ### [China's Foreign Ministry announces French journalist Ursula Gauthier of news magazine L'Obs would not be issued press credentials for 2016, effectively expelling her at the end of month. Gauthier allegedly made speculative reports on the deadly attack at a coal mine in Xinjiang. ](/news/2015/12/26/china-s-foreign-ministry-announces-french-journalist-ursula-gauthier-of-news-magazine-l-obs-would-not-be-issued-press-credentials-for-2016.md)

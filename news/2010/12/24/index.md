@@ -5,15 +5,15 @@ Formats: [HTML](2010/12/24/index.html)  [JSON](2010/12/24/index.json)  [XML](201
 
 ##### Christmas Eve
 ### [At least 32 people are killed in bomb blasts detonated during Christmas Eve celebrations near the city of Jos, Nigeria, while at least six people die in attacks on churches by suspected Islamists in the north-eastern city of Maiduguri.](/news/2010/12/24/at-least-32-people-are-killed-in-bomb-blasts-detonated-during-christmas-eve-celebrations-near-the-city-of-jos-nigeria-while-at-least-six-p.md)
-_Context: Islamists, Nigeria, Jos, Maiduguri, Christmas Eve_
+_Context: Jos, Islamists, Nigeria, Maiduguri, Christmas Eve_
 
 ##### Darfur
 ### [Rebel groups in the Darfur region of Sudan clash with government forces, three days after resuming ceasefire negotiations. ](/news/2010/12/24/rebel-groups-in-the-darfur-region-of-sudan-clash-with-government-forces-three-days-after-resuming-ceasefire-negotiations.md)
-_Context: Darfur, ceasefire, Sudan_
+_Context: Sudan, Darfur, ceasefire_
 
 ##### Boko Haram
 ### [Suspected Boko Haram members attack a church in northern Nigeria during Christmas Eve services. ](/news/2010/12/24/suspected-boko-haram-members-attack-a-church-in-northern-nigeria-during-christmas-eve-services.md)
-_Context: Boko Haram, Christmas Eve, Nigeria_
+_Context: Christmas Eve, Nigeria, Boko Haram_
 
 ##### Hizbul Islam
 ### [The Hizbul Islam group in Somalia join forces with al-Shabaab. ](/news/2010/12/24/the-hizbul-islam-group-in-somalia-join-forces-with-al-shabaab.md)
@@ -21,11 +21,11 @@ Militant groups vow to intensify anti-government and peacekeepers assaults as th
 
 ##### Iranian Revolutionary Guard
 ### [A member of the Iranian Revolutionary Guard captured in southern Afghanistan is accused of cross-border weapons smuggling by the NATO-led International Security Assistance Force. ](/news/2010/12/24/a-member-of-the-iranian-revolutionary-guard-captured-in-southern-afghanistan-is-accused-of-cross-border-weapons-smuggling-by-the-nato-led-in.md)
-_Context: Afghanistan, Iranian Revolutionary Guard, International Security Assistance Force, NATO_
+_Context: Iranian Revolutionary Guard, Afghanistan, NATO, International Security Assistance Force_
 
 ##### Christmas
 ### [A Christmas message by Pope Benedict XVI is broadcast by BBC Radio 4's "Thought for the Day" programme in the United Kingdom. ](/news/2010/12/24/a-christmas-message-by-pope-benedict-xvi-is-broadcast-by-bbc-radio-4-s-thought-for-the-day-programme-in-the-united-kingdom.md)
-_Context: Pope Benedict XVI, Christmas, Thought for the Day, BBC Radio 4, United Kingdom_
+_Context: Christmas, BBC Radio 4, Pope Benedict XVI, United Kingdom, Thought for the Day_
 
 ##### Bethlehem
 ### [Thousands of people gather in Bethlehem to celebrate Christmas. ](/news/2010/12/24/thousands-of-people-gather-in-bethlehem-to-celebrate-christmas.md)
@@ -69,7 +69,7 @@ Three countries to hold joint military exercises in April, agree to cooperate on
 
 ##### France
 ### [France is to build two warships for Russia in a new deal. ](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.md)
-_Context: France, Russia_
+_Context: Russia, France_
 
 ##### United Nations General Assembly
 ### [The United Nations General Assembly unanimously approves opposition candidate Alassane Ouattara as President of Cte d'Ivoire. ](/news/2010/12/24/the-united-nations-general-assembly-unanimously-approves-opposition-candidate-alassane-ouattara-as-president-of-cote-d-ivoire.md)
@@ -85,7 +85,7 @@ The city will celebrate Christmas and New Year under the shadow of terror . Mumb
 
 ##### China
 ### [New laws restricting car purchases in the Chinese capital Beijing come into force, in an attempt to combat serious traffic problems. ](/news/2010/12/24/new-laws-restricting-car-purchases-in-the-chinese-capital-beijing-come-into-force-in-an-attempt-to-combat-serious-traffic-problems.md)
-_Context: Beijing, China_
+_Context: China, Beijing_
 
 ##### Thongsing Thammavong
 ### [Thongsing Thammavong is named as the new Prime Minister of Laos, a day after the unexpected resignation of Bouasone Bouphavanh. ](/news/2010/12/24/thongsing-thammavong-is-named-as-the-new-prime-minister-of-laos-a-day-after-the-unexpected-resignation-of-bouasone-bouphavanh.md)
@@ -97,7 +97,7 @@ _Context: Tunisia_
 
 ##### Roman Catholic Church
 ### [The Roman Catholic Church in Cuba announces that the government will release two more political prisoners to exile in Spain. ](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.md)
-_Context: political prisoner, Cuba, Spain, Roman Catholic Church_
+_Context: political prisoner, Spain, Roman Catholic Church, Cuba_
 
 ##### Cte d'Ivoire
 ### [State television in Cte d'Ivoire goes off the air outside the capital Abidjan amid a political crisis. The Economic Community of West African States threatens to remove incumbent President Laurent Gbagbo by "legitimate force". ](/news/2010/12/24/state-television-in-cote-d-ivoire-goes-off-the-air-outside-the-capital-abidjan-amid-a-political-crisis-the-economic-community-of-west-afric.md)

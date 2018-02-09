@@ -5,15 +5,15 @@ Formats: [HTML](2006/04/18/index.html)  [JSON](2006/04/18/index.json)  [XML](200
 
 ##### Hu Jintao
 ### [ Hu Jintao arrives in Seattle, Washington, on his first visit to the United States since becoming President of the People's Republic of China in 2003. ](/news/2006/04/18/hu-jintao-arrives-in-seattle-washington-on-his-first-visit-to-the-united-states-since-becoming-president-of-the-people-s-republic-of-chin.md)
-_Context: Seattle, Hu Jintao, Chinese President_
+_Context: Hu Jintao, Seattle, Chinese President_
 
 ##### Bird flu
 ### [ The H5N1 strain of avian influenza is reported in Sudan following reports in neighbouring Egypt. ](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.md)
-_Context: bird flu, Sudan, Egypt, avian influenza_
+_Context: Sudan, bird flu, Egypt, avian influenza_
 
 ##### New York Stock Exchange
 ### [ The New York Stock Exchange is in merger talks with London Stock Exchange. If the merger went ahead, it would create a stock exchange giant. ](/news/2006/04/18/the-new-york-stock-exchange-is-in-merger-talks-with-london-stock-exchange-if-the-merger-went-ahead-it-would-create-a-stock-exchange-giant.md)
-_Context: New York Stock Exchange, London Stock Exchange_
+_Context: London Stock Exchange, New York Stock Exchange_
 
 ##### Tenth National Congress
 ### [ The Tenth National Congress of the Communist Party of Vietnam opens in Hanoi amid the PMU-18 corruption scandal. ](/news/2006/04/18/the-tenth-national-congress-of-the-communist-party-of-vietnam-opens-in-hanoi-amid-the-pmu-18-corruption-scandal.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### 2006 European floods
 ### [ 2006 European floods: Thousands of emergency workers in Romania, Bulgaria and Serbia try to bolster dikes to prevent flooding along the swollen Danube River, which has surged to its highest level in more than a century. ](/news/2006/04/18/2006-european-floods-thousands-of-emergency-workers-in-romania-bulgaria-and-serbia-try-to-bolster-dikes-to-prevent-flooding-along-the-swo.md)
-_Context: Bulgaria, 2006 European floods, Romania, Serbia, Danube, flooding, dikes_
+_Context: Bulgaria, flooding, Danube, 2006 European floods, Romania, dikes, Serbia_
 
 ##### El Al
 ### [ An El Al airplane in which a malfunction had been detected made a successful emergency landing at the Ben Gurion Airport. The flight, which had departed for Moscow made its way back to Tel Aviv after a malfunction was discovered in one of its wheels upon liftoff. The plane emptied its fuel tank above the sea and then landed at the Ben Gurion airport. ](/news/2006/04/18/an-el-al-airplane-in-which-a-malfunction-had-been-detected-made-a-successful-emergency-landing-at-the-ben-gurion-airport-the-flight-which.md)

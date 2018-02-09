@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/07/24/in-the-united-states-house-of-representatives-r
 
 ### [2010-07-24](/news/2010/07/24/index.md)
 
-##### House of Representatives
+##### United States House of Representatives
 # In the United States House of Representatives, Republicans introduce Resolution 1553, which expresses United States support for Israeli use of any necessary military force to eliminate any threat it believes Iran poses. 
 
 

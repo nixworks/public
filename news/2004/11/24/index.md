@@ -9,7 +9,7 @@ _Context: Government Accountability Office, 2004 U.S. presidential election cont
 
 ##### European Union
 ### [ Iran's nuclear program: The European Union rejects a request by Iran to be allowed to continue using uranium enrichment centrifuges. ](/news/2004/11/24/iran-s-nuclear-program-the-european-union-rejects-a-request-by-iran-to-be-allowed-to-continue-using-uranium-enrichment-centrifuges.md)
-_Context: Iran's nuclear program, Iran, centrifuge, European Union, uranium enrichment_
+_Context: Iran, centrifuge, Iran's nuclear program, uranium enrichment, European Union_
 
 ##### U.S. Department of Agriculture
 ### [ U.S. Department of Agriculture officials have announced that the possible U.S. case of mad cow disease from the previous week has tested negative twice in tests run by the National Veterinary Services Laboratory. ](/news/2004/11/24/u-s-department-of-agriculture-officials-have-announced-that-the-possible-u-s-case-of-mad-cow-disease-from-the-previous-week-has-tested-ne.md)
@@ -17,11 +17,11 @@ _Context: U.S. Department of Agriculture, mad cow, National Veterinary Services 
 
 ##### Ukraine
 ### [ Despite earlier reports that Ukraine's Prime Minister Viktor Yanukovych and opposition leader Viktor Yushchenko had agreed to hold talks over the country's heavily disputed elections, this now seems unlikely. Protests continue, with an official election result due to be announced at around 1400 UTC. ](/news/2004/11/24/despite-earlier-reports-that-ukraine-s-prime-minister-viktor-yanukovych-and-opposition-leader-viktor-yushchenko-had-agreed-to-hold-talks-ov.md)
-_Context: Ukraine, Viktor Yushchenko, Ukrainian presidential election controversy, Viktor Yanukovych_
+_Context: Viktor Yanukovych, Ukrainian presidential election controversy, Viktor Yushchenko, Ukraine_
 
 ##### Indonesia
 ### [ Indonesian police officials announce the arrest of four suspects wanted concerning the 2004 Australian Embassy bombing in Jakarta. ](/news/2004/11/24/indonesian-police-officials-announce-the-arrest-of-four-suspects-wanted-concerning-the-2004-australian-embassy-bombing-in-jakarta.md)
-_Context: Indonesia, 2004 Australian Embassy bombing in Jakarta_
+_Context: 2004 Australian Embassy bombing in Jakarta, Indonesia_
 
 ## [Previous Day...](/news/2004/11/23/index.md)
 

@@ -9,7 +9,7 @@ US Airways Group Inc has made a formal merger proposal to American Airlines pare
 
 ##### Strong
 ### [A strong earthquake of magnitude 7.3 occurs off the coast of Japan near the city of Kamaishi, prompting the Japan Meteorological Agency to issue a tsunami warning. 10 people are taken to hospital with injuries, no fatalities reported. ](/news/2012/12/7/a-strong-earthquake-of-magnitude-7-3-occurs-off-the-coast-of-japan-near-the-city-of-kamaishi-prompting-the-japan-meteorological-agency-to-i.md)
-_Context: tsunami, Japan, magnitude, occurs, Japan Meteorological Agency, Kamaishi, strong, earthquake_
+_Context: magnitude, Japan, tsunami, strong, Japan Meteorological Agency, earthquake, Kamaishi, occurs_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court grants review of California's ban on same-sex marriage (Proposition 8, which has been challenged), and also agrees to finally determine the constitutionality of the federal DOMA law, which the Obama administration has said it will not continue defending. This is the Court's most significant foray into the issue yet, though an overruling of the DOMA act would only mean the federal government would have to recognize such marriages in areas where they are already legal. ](/news/2012/12/7/the-united-states-supreme-court-grants-review-of-california-s-ban-on-same-sex-marriage-proposition-8-which-has-been-challenged-and-also.md)

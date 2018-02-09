@@ -17,7 +17,7 @@ At least six people killed by bomb-laden vehicle in Mogadishu, according to poli
 
 ##### Syrian Civil War
 ### [According to the Syrian Observatory for Human Rights, the total number of people killed and missing in Syria's war is now 465,000. ](/news/2017/03/13/according-to-the-syrian-observatory-for-human-rights-the-total-number-of-people-killed-and-missing-in-syria-s-war-is-now-465-000.md)
-_Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights_
+_Context: Syria, Syrian Observatory for Human Rights, Syrian Civil War_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [Turkey bans the Dutch ambassador, Cornelis Van Rij, from returning to the Embassy of the Netherlands in Ankara, and closes its airspace to Dutch diplomats in response to a Dutch ban on Turkish ministers speaking at pro-Erdogan rallies. ](/news/2017/03/13/turkey-bans-the-dutch-ambassador-cornelis-van-rij-from-returning-to-the-embassy-of-the-netherlands-in-ankara-and-closes-its-airspace-to-d.md)
@@ -25,11 +25,11 @@ Threat comes as Dutch ambassador banned from re-entry by Ankara and President Er
 
 ##### Proposed second Scottish independence referendum
 ### [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md)
-_Context: Scotland, United Kingdom, Scottish independence, Nicola Sturgeon, First Minister, Proposed second Scottish independence referendum_
+_Context: Nicola Sturgeon, Scottish independence, Scotland, Proposed second Scottish independence referendum, First Minister, United Kingdom_
 
 ##### United States immigration ban
 ### [The state of Washington, joined by the states of California, Maryland, Massachusetts, New York, and Oregon, asks a federal judge to stop, on constitutional grounds, the revised federal immigration-refugee rules from taking effect on Thursday, March 16. The state of Hawaii has filed a separate, similar request. ](/news/2017/03/13/the-state-of-washington-joined-by-the-states-of-california-maryland-massachusetts-new-york-and-oregon-asks-a-federal-judge-to-stop-on.md)
-_Context: Massachusetts, Hawaii, Oregon, United States immigration ban, New York, Washington, California, Maryland_
+_Context: Washington, Maryland, Hawaii, Massachusetts, Oregon, New York, California, United States immigration ban_
 
 ##### Hungarian presidential election, 2017
 ### [Janos Ader is re-elected President of Hungary by the National Assembly. ](/news/2017/03/13/ja-nos-ader-is-re-elected-president-of-hungary-by-the-national-assembly.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/7/index.html)  [JSON](2008/05/7/index.json)  [XML](2008/
 
 ##### Genome
 ### [ The genome of the platypus is sequenced. ](/news/2008/05/7/the-genome-of-the-platypus-is-sequenced.md)
-_Context: genome, platypus_
+_Context: platypus, genome_
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi, the Prime Minister of Italy, appoints his new Cabinet. ](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.md)

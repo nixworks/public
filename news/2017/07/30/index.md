@@ -25,7 +25,7 @@ A man who opened fire in a nightclub in Constance was then shot by police and la
 
 ##### Corruption in Iran
 ### [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md)
-_Context: Corruption in Iran, Mahmoud Ahmadinejad, Supreme Audit Court, President_
+_Context: Supreme Audit Court, Mahmoud Ahmadinejad, Corruption in Iran, President_
 
 ##### Drug crackdown
 ### [Sixteen people, including Mayor Reynaldo Parojinog Sr. and his wife, are killed in a police drug raid in Ozamiz City in the province of Misamis Occidental. The Parojinog family had been previously identified with their ties to the illegal drug trade, as well as the organized crime group Kuratong Baleleng. ](/news/2017/07/30/sixteen-people-including-mayor-reynaldo-parojinog-sr-and-his-wife-are-killed-in-a-police-drug-raid-in-ozamiz-city-in-the-province-of-misa.md)
@@ -41,7 +41,7 @@ The Senegalese legislative elections take place on Sunday, with President Macky 
 
 ##### Republic of the Congo parliamentary election, 2017
 ### [Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. ](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.md)
-_Context: Congolese Party of Labour, National Assembly, second round, Republic of the Congo, Republic of the Congo parliamentary election, 2017_
+_Context: National Assembly, Republic of the Congo parliamentary election, 2017, Republic of the Congo, Congolese Party of Labour, second round_
 
 ## [Previous Day...](/news/2017/07/29/index.md)
 

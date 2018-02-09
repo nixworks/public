@@ -5,7 +5,7 @@ Formats: [HTML](2008/06/28/index.html)  [JSON](2008/06/28/index.json)  [XML](200
 
 ##### State government
 ### [ The state government of India's Jammu and Kashmir has rebuked the decision to transfer forested land to Amarnath shrine following wide protests across the state. ](/news/2008/06/28/the-state-government-of-india-s-jammu-and-kashmir-has-rebuked-the-decision-to-transfer-forested-land-to-amarnath-shrine-following-wide-prot.md)
-_Context: Amarnath Yatra, state government, Jammu and Kashmir, protests, India_
+_Context: state government, India, Amarnath Yatra, Jammu and Kashmir, protests_
 
 ##### Los Angeles Dodgers
 ### [ The Los Angeles Dodgers become only the fifth team in modern major league baseball history to win a game in which they didn't get a hit, defeating the Anaheim Angels 1-0. ](/news/2008/06/28/the-los-angeles-dodgers-become-only-the-fifth-team-in-modern-major-league-baseball-history-to-win-a-game-in-which-they-didn-t-get-a-hit-de.md)
@@ -13,35 +13,35 @@ All the latest Sports News, Scores, Fantasy Games.
 
 ##### Guizhou
 ### [ Thousands of people riot in Guizhou province in southern China following the death of a girl and a perceived government coverup. ](/news/2008/06/28/thousands-of-people-riot-in-guizhou-province-in-southern-china-following-the-death-of-a-girl-and-a-perceived-government-coverup.md)
-_Context: Guizhou, China_
+_Context: China, Guizhou_
 
 ##### Paris
 ### [ Thousands of people rally in Paris in support of the European Union removing the People's Mujahedin of Iran from its list of terrorist organisations. ](/news/2008/06/28/thousands-of-people-rally-in-paris-in-support-of-the-european-union-removing-the-people-s-mujahedin-of-iran-from-its-list-of-terrorist-orga.md)
-_Context: People's Mujahedin of Iran, Paris, European Union, terrorist organisation_
+_Context: terrorist organisation, Paris, European Union, People's Mujahedin of Iran_
 
 ##### South Korea
 ### [ Police in South Korea use water cannons to disperse thousands of people protesting in Seoul about the resumption of beef imports from the United States. ](/news/2008/06/28/police-in-south-korea-use-water-cannons-to-disperse-thousands-of-people-protesting-in-seoul-about-the-resumption-of-beef-imports-from-the-u.md)
-_Context: Seoul, United States, South Korea, water cannon, beef imports_
+_Context: South Korea, Seoul, water cannon, beef imports, United States_
 
 ##### Community Assembly of Kosovo and Metohija
 ### [ The Community Assembly of Kosovo and Metohija, elected in May by the Serbian population, convenes its first meeting, in defiance of the Republic of Kosovo. ](/news/2008/06/28/the-community-assembly-of-kosovo-and-metohija-elected-in-may-by-the-serbian-population-convenes-its-first-meeting-in-defiance-of-the-rep.md)
-_Context: Serbian population, Community Assembly of Kosovo and Metohija, Kosovo_
+_Context: Community Assembly of Kosovo and Metohija, Kosovo, Serbian population_
 
 ##### Mdecins Sans Frontires
 ### [ Mdecins Sans Frontires claims that South Africa has expelled 450 Zimbabwean refugees. ](/news/2008/06/28/medecins-sans-frontieres-claims-that-south-africa-has-expelled-450-zimbabwean-refugees.md)
-_Context: Zimbabwe, Mdecins Sans Frontires, South Africa_
+_Context: Zimbabwe, South Africa, Mdecins Sans Frontires_
 
 ##### Wendy Alexander
 ### [ Wendy Alexander resigns as the leader of the Scottish Labour Party following a ruling from the Scottish Parliament's ethics committee over political donations. ](/news/2008/06/28/wendy-alexander-resigns-as-the-leader-of-the-scottish-labour-party-following-a-ruling-from-the-scottish-parliament-s-ethics-committee-over.md)
-_Context: political donations, Scottish Labour Party, Scottish Parliament, Wendy Alexander_
+_Context: Wendy Alexander, Scottish Parliament, Scottish Labour Party, political donations_
 
 ##### Pakistan
 ### [ Pakistan commences a military operation against Taliban militants in the Khyber Agency near Peshawar. ](/news/2008/06/28/pakistan-commences-a-military-operation-against-taliban-militants-in-the-khyber-agency-near-peshawar.md)
-_Context: Khyber Agency, Peshawar, Pakistan, Taliban_
+_Context: Pakistan, Khyber Agency, Peshawar, Taliban_
 
 ##### Philippines
 ### [ Filipino boxer Manny Pacquiao beats the American David Daz to win the WBC world lightweight title. Pacquiao becomes the first Asian boxer to win four titles in four different weight divisions. ](/news/2008/06/28/filipino-boxer-manny-pacquiao-beats-the-american-david-diaz-to-win-the-wbc-world-lightweight-title-pacquiao-becomes-the-first-asian-boxer.md)
-_Context: David Daz, United States, Manny Pacquiao, WBC, Philippines_
+_Context: WBC, United States, Manny Pacquiao, David Daz, Philippines_
 
 ## [Previous Day...](/news/2008/06/27/index.md)
 

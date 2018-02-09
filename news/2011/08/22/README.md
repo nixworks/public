@@ -13,11 +13,11 @@ _Context: Israel, Gaza Strip, Palestinian_
 
 ##### Pakistan
 ### [Pakistan announces it will send more troops to Bahrain in support of the King of Bahrain Hamad bin Isa Al Khalifa. ](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.md)
-_Context: Bahrain, Hamad bin Isa Al Khalifa, King of Bahrain, Pakistan_
+_Context: Pakistan, Bahrain, Hamad bin Isa Al Khalifa, King of Bahrain_
 
 ##### Soldiers
 ### [The Australian Army reports that another Australian soldier has been killed by an improvised explosive device lost in fighting in Afghanistan. ](/news/2011/08/22/the-australian-army-reports-that-another-australian-soldier-has-been-killed-by-an-improvised-explosive-device-lost-in-fighting-in-afghanista.md)
-_Context: Afghanistan, soldiers, improvised explosive device, Australian_
+_Context: improvised explosive device, Australian, Afghanistan, soldiers_
 
 ##### United Nations
 ### [The UN says 600 people have been killed in clashes in South Sudan. ](/news/2011/08/22/the-un-says-600-people-have-been-killed-in-clashes-in-south-sudan.md)
@@ -33,7 +33,7 @@ Nickolas Ashford, who has died aged 69, was a songwriter who, with his wife Vale
 
 ##### Australia
 ### [Australia's BlueScope Steel announces the loss of a thousand jobs with 800 jobs lost in Port Kembla and 200 jobs in Western Port. ](/news/2011/08/22/australia-s-bluescope-steel-announces-the-loss-of-a-thousand-jobs-with-800-jobs-lost-in-port-kembla-and-200-jobs-in-western-port.md)
-_Context: Port Kembla, Western Port, BlueScope Steel, Australia_
+_Context: Australia, BlueScope Steel, Port Kembla, Western Port_
 
 ##### Crude oil
 ### [The price of crude oil falls on world markets due to the downfall of Muammar Gaddafi and bleak global economic outlook. ](/news/2011/08/22/the-price-of-crude-oil-falls-on-world-markets-due-to-the-downfall-of-muammar-gaddafi-and-bleak-global-economic-outlook.md)
@@ -49,7 +49,7 @@ _Context: International Monetary Fund, Dominique Strauss-Kahn, New York City_
 
 ##### Jack Layton
 ### [Jack Layton, leader of Canada's New Democratic Party and Leader of the Opposition, dies from cancer at age 61. ](/news/2011/08/22/jack-layton-leader-of-canada-s-new-democratic-party-and-leader-of-the-opposition-dies-from-cancer-at-age-61.md)
-_Context: New Democratic Party, Canadian, Jack Layton, Leader of the Opposition_
+_Context: New Democratic Party, Jack Layton, Leader of the Opposition, Canadian_
 
 ## [Previous Day...](/news/2011/08/21/index.md)
 

@@ -21,11 +21,11 @@ _Context: 2011 Yemeni protests, Sana'a_
 
 ##### China
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)
-_Context: inflation, China_
+_Context: China, inflation_
 
 ##### Oman
 ### [Oman is to spend 1 billion rials in an attempt to prevent further anti-government protests. ](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.md)
-_Context: rials, anti-government protests, Oman_
+_Context: anti-government protests, rials, Oman_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton visits Japan to announce US assistance for the recovery effort following the 2011 Tohoku earthquake and tsunami. ](/news/2011/04/17/the-united-states-secretary-of-state-hillary-clinton-visits-japan-to-announce-us-assistance-for-the-recovery-effort-following-the-2011-taho.md)
@@ -33,7 +33,7 @@ Hillary Clinton announces joint reconstruction plans as she visits Japan to show
 
 ##### Tornado outbreak of April 14-16, 2011
 ### [More than forty people die in the tornado outbreak of April 14-16, 2011, with North Carolina being the worst affected state. ](/news/2011/04/17/more-than-forty-people-die-in-the-tornado-outbreak-of-april-14a16-2011-with-north-carolina-being-the-worst-affected-state.md)
-_Context: tornado outbreak of April 14-16, 2011, North Carolina_
+_Context: North Carolina, tornado outbreak of April 14-16, 2011_
 
 ##### China
 ### [At least twelve people are killed in a severe storm in China's Guangdong Province. ](/news/2011/04/17/at-least-twelve-people-are-killed-in-a-severe-storm-in-china-s-guangdong-province.md)
@@ -45,7 +45,7 @@ _Context: China, Beijing, Protestant_
 
 ##### National Coalition Party
 ### [The National Coalition Party wins the Finnish parliamentary election (44 seats), with the True Finns, third-place finishers, emerging as a new major political party (39 seats). Biggest losers are the Centre Party (36 seats); coalition talks will probably be held between the Coalition, the True Finns and the Social Democrats (42 seats).](/news/2011/04/17/the-national-coalition-party-wins-the-finnish-parliamentary-election-44-seats-with-the-true-finns-third-place-finishers-emerging-as-a-n.md)
-_Context: True Finns, parliamentary election, Centre Party, Social Democratic Party, National Coalition Party, Finland_
+_Context: True Finns, National Coalition Party, Finland, Centre Party, Social Democratic Party, parliamentary election_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan will be reelected as President of Nigeria based on unofficial results in the presidential election. ](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.md)
@@ -53,7 +53,7 @@ _Context: presidential election, Goodluck Jonathan, President_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ayatollah Ali Khamenei refuses to accept the resignation of Intelligence Chief Heyder Moslehi. ](/news/2011/04/17/the-supreme-leader-of-iran-ayatollah-ali-khamenei-refuses-to-accept-the-resignation-of-intelligence-chief-heyder-moslehi.md)
-_Context: Ayatollah, Ali Khamenei, Heyder Moslehi, Supreme Leader_
+_Context: Heyder Moslehi, Ali Khamenei, Ayatollah, Supreme Leader_
 
 ## [Previous Day...](/news/2011/04/16/index.md)
 

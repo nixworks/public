@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/7/index.html)  [JSON](2015/04/7/index.json)  [XML](2015/
 
 ##### Intervention in Yemen
 ### [The World Health Organisation estimates that 560 people have died, more than 1,700 people have been injured and more than 100,000 people have fled their homes following the intensification of fighting three weeks ago. ](/news/2015/04/7/the-world-health-organisation-estimates-that-560-people-have-died-more-than-1-700-people-have-been-injured-and-more-than-100-000-people-hav.md)
-_Context: Intervention in Yemen, World Health Organisation_
+_Context: World Health Organisation, Intervention in Yemen_
 
 ##### Dragon Aromatics
 ### [Following the deployment of 350 police, over 600 firefighters and over 400 soldiers, the fire at the Dragon Aromatics chemical plant in Zhangzhou (southeast China) restarts, forcing the evacuation of residents within a radius of 18km from the plant. ](/news/2015/04/7/following-the-deployment-of-350-police-over-600-firefighters-and-over-400-soldiers-the-fire-at-the-dragon-aromatics-chemical-plant-in-zhan.md)
@@ -29,15 +29,15 @@ Claims that a woman was forced to have sex with Prince Andrew when she was 17 ar
 
 ##### Hatton Garden
 ### [Raiders using specialist cutting equipment break into an underground vault in the Hatton Garden Safe Deposit company in the London diamond district and empty 300 safety deposit boxes. ](/news/2015/04/7/raiders-using-specialist-cutting-equipment-break-into-an-underground-vault-in-the-hatton-garden-safe-deposit-company-in-the-london-diamond-d.md)
-_Context: London, Hatton Garden_
+_Context: Hatton Garden, London_
 
 ##### Shooting of Walter Scott
 ### [A North Charleston, South Carolina policeman is charged with murder after video footage emerges of him shooting an unarmed suspect attempting to flee on foot following a daytime traffic stop. ](/news/2015/04/7/a-north-charleston-south-carolina-policeman-is-charged-with-murder-after-video-footage-emerges-of-him-shooting-an-unarmed-suspect-attemptin.md)
-_Context: North Charleston, South Carolina, policeman, Shooting of Walter Scott_
+_Context: Shooting of Walter Scott, policeman, North Charleston, South Carolina_
 
 ##### Kentucky U.S. Senator
 ### [Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016. ](/news/2015/04/7/kentucky-u-s-senator-rand-paul-announces-that-he-will-seek-the-republican-nomination-for-the-u-s-presidency-in-2016.md)
-_Context: Rand Paul, Kentucky U.S. Senator, presidential primaries_
+_Context: presidential primaries, Rand Paul, Kentucky U.S. Senator_
 
 ##### Chicago mayoral election
 ### [Rahm Emanuel is re-elected to a second term as Mayor of Chicago, defeating opponent Jesus "Chuy" Garcia in the city's first mayoral runoff election since switching to nonpartisan elections 20 years ago. ](/news/2015/04/7/rahm-emanuel-is-re-elected-to-a-second-term-as-mayor-of-chicago-defeating-opponent-jesaos-chuy-garcaa-in-the-city-s-first-mayoral-runoff.md)

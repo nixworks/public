@@ -9,7 +9,7 @@ The extremist group released what it said was a new recording of its leader, Abu
 
 ##### Credit card fraud
 ### [Whole Foods Market, recently acquired by Amazon, announces hacking of payment card information from some of its stores. ](/news/2017/09/28/whole-foods-market-recently-acquired-by-amazon-announces-hacking-of-payment-card-information-from-some-of-its-stores.md)
-_Context: Credit card fraud, Cybercrime, Whole Foods Market, Amazon_
+_Context: Amazon, Cybercrime, Credit card fraud, Whole Foods Market_
 
 ##### Atlantic hurricanes
 ### [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md)
@@ -21,7 +21,7 @@ AS BALI’S Mt Agung volcano continues to rumble ominously and more than 96,000 
 
 ##### Rohingya refugee crisis
 ### [At least 14 Rohingya people, including 10 children, fleeing violence in Myanmar are killed when their boat apparently hits a submerged object and capsizes just yards from the Bangladesh coast. ](/news/2017/09/28/at-least-14-rohingya-people-including-10-children-fleeing-violence-in-myanmar-are-killed-when-their-boat-apparently-hits-a-submerged-objec.md)
-_Context: Bangladesh, Myanmar, Rohingya, Rohingya refugee crisis_
+_Context: Rohingya, Myanmar, Bangladesh, Rohingya refugee crisis_
 
 ##### Japanese general election, 2017
 ### [Prime Minister Shinzo Abe dissolves the lower house of parliament prior to the October 22 election. ](/news/2017/09/28/prime-minister-shinza-abe-dissolves-the-lower-house-of-parliament-prior-to-the-october-22-election.md)

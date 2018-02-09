@@ -5,11 +5,11 @@ Formats: [HTML](2005/07/17/index.html)  [JSON](2005/07/17/index.json)  [XML](200
 
 ##### Prime Minister
 ### [ Former British Prime Minister Sir Edward Heath dies at his Salisbury home at the age of 89. ](/news/2005/07/17/former-british-prime-minister-sir-edward-heath-dies-at-his-salisbury-home-at-the-age-of-89.md)
-_Context: Salisbury, Prime Minister, Edward Heath_
+_Context: Prime Minister, Salisbury, Edward Heath_
 
 ##### Time
 ### [ "Time" correspondent Matthew Cooper reveals that last week he told a grand jury that Karl Rove&mdash;a top White House political adviser to U.S. President George W. Bush&mdash; was the first to reveal Valerie Plame's identity as a CIA agent. ](/news/2005/07/17/time-correspondent-matthew-cooper-reveals-that-last-week-he-told-a-grand-jury-that-karl-rove-mdash-a-top-white-house-political-adviser-to.md)
-_Context: Time, CIA, Matthew Cooper, grand jury, Valerie Plame, Karl Rove, George W. Bush_
+_Context: Matthew Cooper, Karl Rove, Time, CIA, George W. Bush, grand jury, Valerie Plame_
 
 ##### Firemen
 ### [ Fourteen Spanish Firefighters have died while attempting to battle a forest fire in the central province of Guadalajara. ](/news/2005/07/17/fourteen-spanish-firefighters-have-died-while-attempting-to-battle-a-forest-fire-in-the-central-province-of-guadalajara.md)
@@ -25,11 +25,11 @@ _Context: Baghdad, Conflict in Iraq_
 
 ##### Palestinians
 ### [ A Palestinian man is shot dead near the Israeli settlement of Netzarim in the Gaza Strip. Israel Defence Force sources claim he was armed. ](/news/2005/07/17/a-palestinian-man-is-shot-dead-near-the-israeli-settlement-of-netzarim-in-the-gaza-strip-israel-defence-force-sources-claim-he-was-armed.md)
-_Context: Israeli soldier, Gaza Strip, Israeli settlement, Palestinians, Netzarim_
+_Context: Palestinians, Israeli soldier, Gaza Strip, Netzarim, Israeli settlement_
 
 ##### Thailand
 ### [ Thailand declares emergency in three southern provinces of Narathiwat, Pattani and Yala because of increasing violence of Muslim insurgency. ](/news/2005/07/17/thailand-declares-emergency-in-three-southern-provinces-of-narathiwat-pattani-and-yala-because-of-increasing-violence-of-muslim-insurgency.md)
-_Context: Yala Province, Thailand, insurgency, Narathiwat, Pattani, state of emergency, Muslim_
+_Context: Muslim, Pattani, Narathiwat, Yala Province, insurgency, Thailand, state of emergency_
 
 ##### Yemen
 ### [ In Yemen, president Ali Abdullah Saleh announces that he won't seek re-election next year. ](/news/2005/07/17/in-yemen-president-ali-abdullah-saleh-announces-that-he-won-t-seek-re-election-next-year.md)
@@ -41,11 +41,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### The Party of the Left.
 ### [ In Germany, the Party of Democratic Socialism renames itself The Party of the Left. in a plan to join forces with the Labour and Social Justice Party. ](/news/2005/07/17/in-germany-the-party-of-democratic-socialism-renames-itself-the-party-of-the-left-in-a-plan-to-join-forces-with-the-labour-and-social-jus.md)
-_Context: Labour and Social Justice Party, The Party of the Left._
+_Context: The Party of the Left., Labour and Social Justice Party_
 
 ##### Sunni Council
 ### [ In The United Kingdom, Britain's Sunni Council announces a fatwa against suicide bombings. ](/news/2005/07/17/in-the-united-kingdom-britain-s-sunni-council-announces-a-fatwa-against-suicide-bombings.md)
-_Context: fatwa, Sunni Council, suicide bombing_
+_Context: suicide bombing, Sunni Council, fatwa_
 
 ##### Nigeria
 ### [ In Nigeria, Amaka Anajemba is sentenced for two years involvement with a money transfer scam worth $242 million. ](/news/2005/07/17/in-nigeria-amaka-anajemba-is-sentenced-for-two-years-involvement-with-a-money-transfer-scam-worth-242-million.md)
@@ -61,7 +61,7 @@ _Context: Kurdistan Workers' Party, minibus bombing in Kusadasi, Turkey_
 
 ##### Sunni Waqf Board
 ### [ In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal. ](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.md)
-_Context: Sunni Waqf Board, Taj Mahal_
+_Context: Taj Mahal, Sunni Waqf Board_
 
 ## [Previous Day...](/news/2005/07/16/index.md)
 

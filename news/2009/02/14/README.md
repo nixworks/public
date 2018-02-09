@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/14/index.html)  [JSON](2009/02/14/index.json)  [XML](200
 
 ##### Oil spill
 ### [ An oil spill occurs in the Celtic Sea near County Cork, Ireland. ](/news/2009/02/14/an-oil-spill-occurs-in-the-celtic-sea-near-county-cork-ireland.md)
-_Context: Cork, Celtic Sea, oil spill, Irish_
+_Context: Irish, oil spill, Cork, Celtic Sea_
 
 ##### Peru
 ### [ Peruvian director Claudia Llosa's "The Milk of Sorrow" wins the Golden Bear at the 59th Berlin International Film Festival. ](/news/2009/02/14/peruvian-director-claudia-llosa-s-the-milk-of-sorrow-wins-the-golden-bear-at-the-59th-berlin-international-film-festival.md)
@@ -25,7 +25,7 @@ _Context: Moon, Japan, National Astronomical Observatory, topographic map_
 
 ##### Somalia
 ### [ Somali pirates release the Japanese oil tanker "Chemstar Venus" and its 23 crew members. ](/news/2009/02/14/somali-pirates-release-the-japanese-oil-tanker-chemstar-venus-and-its-23-crew-members.md)
-_Context: Japan, oil tanker, Somali pirates, Somalia, ''Chemstar Venus''_
+_Context: ''Chemstar Venus'', Somali pirates, Japan, oil tanker, Somalia_
 
 ## [Previous Day...](/news/2009/02/13/index.md)
 

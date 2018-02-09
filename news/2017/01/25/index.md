@@ -29,11 +29,11 @@ The German government voted Wednesday to scrap a &quot;lese majeste&quot; law th
 
 ##### Domestic violence
 ### [The Russian Duma backs a law decriminalizing a first instance of domestic violence that does "not seriously injure" the person, making it an administrative offense. The bill also includes violence against children. ](/news/2017/01/25/the-russian-duma-backs-a-law-decriminalizing-a-first-instance-of-domestic-violence-that-does-not-seriously-injure-the-person-making-it-an.md)
-_Context: Duma, Russia, Domestic violence_
+_Context: Duma, Domestic violence, Russia_
 
 ##### Women's rights
 ### [Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. ](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilianne-ploumen-to-launch-a-fund-compensating-worldwide-for-the-united-states-newly-reinstated-m.md)
-_Context: Netherlands, Lilianne Ploumen, United States, Mexico City policy, Women's rights, Belgium_
+_Context: Women's rights, Mexico City policy, United States, Lilianne Ploumen, Belgium, Netherlands_
 
 ##### Vatican City State
 ### [The Vatican City State announces that Pope Francis will name a Pontifical Delegate to head the Sovereign Military Order of Malta after Prince and Grand Master Matthew Festing's unexpected forced resignation in a spat over condoms. ](/news/2017/01/25/the-vatican-city-state-announces-that-pope-francis-will-name-a-pontifical-delegate-to-head-the-sovereign-military-order-of-malta-after-princ.md)

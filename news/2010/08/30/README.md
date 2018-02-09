@@ -77,7 +77,7 @@ Hikers in Canada discover the frozen body of an American ice climber who fell to
 
 ##### Quito
 ### [42 killed, 11 injured in bus crash 55 miles south of Quito, Ecuador.](/news/2010/08/30/42-killed-11-injured-in-bus-crash-55-miles-south-of-quito-ecuador.md)
-_Context: Ecuador, Quito_
+_Context: Quito, Ecuador_
 
 ##### Ovadia Yosef
 ### [Ovadia Yosef, a senior rabbi from Shas, a party within Israel's coalition government, calls for Palestinian President Mahmoud Abbas to "vanish from our world". The United States condemns the remarks as "deeply offensive". ](/news/2010/08/30/ovadia-yosef-a-senior-rabbi-from-shas-a-party-within-israel-s-coalition-government-calls-for-palestinian-president-mahmoud-abbas-to-vani.md)
@@ -113,7 +113,7 @@ _Context: India, Blackberry_
 
 ##### Indonesia
 ### [Indonesian detainees continue to riot at the Northern Immigration Detention Facility. ](/news/2010/08/30/indonesian-detainees-continue-to-riot-at-the-northern-immigration-detention-facility.md)
-_Context: Indonesia, centres, Northern Territory_
+_Context: Indonesia, Northern Territory, centres_
 
 ##### South Africa
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)

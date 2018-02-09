@@ -5,7 +5,7 @@ Formats: [HTML](2017/09/25/index.html)  [JSON](2017/09/25/index.json)  [XML](201
 
 ##### Northern Rakhine State clashes
 ### [A mass grave of 28 Hindus, including children, allegedly slain by the Arakan Rohingya Salvation Army, is discovered by the Myanmar Army. ](/news/2017/09/25/a-mass-grave-of-28-hindus-including-children-allegedly-slain-by-the-arakan-rohingya-salvation-army-is-discovered-by-the-myanmar-army.md)
-_Context: ARSA, Myanmar Army, Northern Rakhine State clashes_
+_Context: Myanmar Army, Northern Rakhine State clashes, ARSA_
 
 ##### 2017 North Korea crisis
 ### [North Korea says that the recent flight of U.S. aircraft off the coast of North Korea amounts to a declaration of war. ](/news/2017/09/25/north-korea-says-that-the-recent-flight-of-u-s-aircraft-off-the-coast-of-north-korea-amounts-to-a-declaration-of-war.md)
@@ -25,7 +25,7 @@ _Context: Puerto Rico, U.S. government, Hurricane Maria, Atlantic hurricanes_
 
 ##### Crime in Nigeria
 ### [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md)
-_Context: Crime in Nigeria, Nigeria, Ogba Zoo, Benin City_
+_Context: Nigeria, Ogba Zoo, Benin City, Crime in Nigeria_
 
 ##### Crime in Russia
 ### [Russian police arrest a couple from the southern Krasnodar region that has allegedly murdered as many as 30 people since 1999 and consumed parts of the human bodies. ](/news/2017/09/25/russian-police-arrest-a-couple-from-the-southern-krasnodar-region-that-has-allegedly-murdered-as-many-as-30-people-since-1999-and-consumed-p.md)
@@ -37,7 +37,7 @@ The US and Britain are both opposed to the &quot;destabilising&quot; vote, argui
 
 ##### Japanese general election, 2017
 ### [The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. ](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-snap-election-with-the-election-to-be-held-on-october-22.md)
-_Context: Prime Minister of Japan, Japanese general election, 2017, Shinzo Abe_
+_Context: Shinzo Abe, Prime Minister of Japan, Japanese general election, 2017_
 
 ##### Caretaker
 ### [Frauke Petry resigns as leader of the far right Alternative for Germany (AfD), a day after the party won seats in the Bundestag for the first time, saying the party has become too "anarchical" and "could not offer a credible platform". ](/news/2017/09/25/frauke-petry-resigns-as-leader-of-the-far-right-alternative-for-germany-afd-a-day-after-the-party-won-seats-in-the-bundestag-for-the-firs.md)

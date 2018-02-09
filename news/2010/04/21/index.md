@@ -13,7 +13,7 @@ _Context: South Darfur_
 
 ##### Rovos Rail
 ### [A Rovos Rail luxury tourist train derails near Pretoria, South Africa, killing at least two people - a pregnant woman and her baby whose birth occurred during the derailment - and injuring at least 25 others. ](/news/2010/04/21/a-rovos-rail-luxury-tourist-train-derails-near-pretoria-south-africa-killing-at-least-two-people-a-a-pregnant-woman-and-her-baby-whose-b.md)
-_Context: Rovos Rail, South Africa, Pretoria_
+_Context: Pretoria, South Africa, Rovos Rail_
 
 ##### Polish
 ### [Poland announces the date of its presidential election &mdash; June 20 &mdash; to elect plane crash victim Lech Kaczynski's successor. ](/news/2010/04/21/poland-announces-the-date-of-its-presidential-election-mdash-june-20-mdash-to-elect-plane-crash-victim-lech-kaczyaski-s-successor.md)
@@ -29,7 +29,7 @@ Barack Obama was forced to interrupt a speech at a fundraising event after he wa
 
 ##### Nigeria
 ### [The Nigerian military exhumes seven fresh corpses from shallow graves near Jos in the latest round of apparent revenge killings. ](/news/2010/04/21/the-nigerian-military-exhumes-seven-fresh-corpses-from-shallow-graves-near-jos-in-the-latest-round-of-apparent-revenge-killings.md)
-_Context: events earlier this year, Nigeria, Jos_
+_Context: Nigeria, Jos, events earlier this year_
 
 ##### Bosnian
 ### [Bosnian police fired tear gas and water at war veterans in Sarajevo, during a protest against proposed state benefit cuts. ](/news/2010/04/21/bosnian-police-fired-tear-gas-and-water-at-war-veterans-in-sarajevo-during-a-protest-against-proposed-state-benefit-cuts.md)
@@ -37,11 +37,11 @@ Police fire tear gas after thousands of war veterans attempt to storm government
 
 ##### Asadho
 ### [The Asadho human rights group says the Democratic Republic of the Congo's army killed at least 11 civilians at the airport in Mbandaka this month. ](/news/2010/04/21/the-asadho-human-rights-group-says-the-democratic-republic-of-the-congo-s-army-killed-at-least-11-civilians-at-the-airport-in-mbandaka-this.md)
-_Context: DR Congo, Asadho, Mbandaka_
+_Context: Asadho, Mbandaka, DR Congo_
 
 ##### Greenpeace India's
 ### [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumping.md)
-_Context: Agencia Nacional de Energia Eletrica, National Electric Energy Agency,  Belo Monte hydroelectric project, Greenpeace India's, Brasilia, manure, ANEEL_
+_Context: Brasilia, manure, Greenpeace India's, Agencia Nacional de Energia Eletrica, National Electric Energy Agency,  Belo Monte hydroelectric project, ANEEL_
 
 ##### Philippines
 ### [More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. ](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.md)
@@ -53,7 +53,7 @@ Two North Korean spies have been arrested for plotting to assassinate a high-ran
 
 ##### Rwanda
 ### [Rwandan opposition leader Victoire Ingabire Umuhoza is arrested on charges such as collaboration with a terrorist organisation and genocide denial. ](/news/2010/04/21/rwandan-opposition-leader-victoire-ingabire-umuhoza-is-arrested-on-charges-such-as-collaboration-with-a-terrorist-organisation-and-genocide.md)
-_Context: Rwanda, genocide, Victoire Ingabire, terrorist_
+_Context: Victoire Ingabire, genocide, Rwanda, terrorist_
 
 ##### Viktor Yanukovych
 ### [Viktor Yanukovych and Dmitry Medvedev agree to extend the lease between Kiev and Moscow that allows Russia's Black Sea Fleet to be stationed in Ukraine in return for cheaper gas until 2042. ](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.md)
@@ -89,11 +89,11 @@ _Context: Arab, Syria_
 
 ##### Kelly Clarkson
 ### [U.S. pop singer Kelly Clarkson is criticised by anti-smoking groups in Indonesia and the United States for promoting cigarettes at an upcoming concert in Jakarta. ](/news/2010/04/21/u-s-pop-singer-kelly-clarkson-is-criticised-by-anti-smoking-groups-in-indonesia-and-the-united-states-for-promoting-cigarettes-at-an-upcomi.md)
-_Context: Jakarta, Kelly Clarkson, United States, Indonesia_
+_Context: United States, Jakarta, Indonesia, Kelly Clarkson_
 
 ##### Madonna of the Yarnwinder
 ### [Five men accused of conspiring to extort GBP4.25 million for the safe return of "Madonna of the Yarnwinder", an oil painting by Leonardo da Vinci, are cleared. ](/news/2010/04/21/five-men-accused-of-conspiring-to-extort-agbp4-25-million-for-the-safe-return-of-madonna-of-the-yarnwinder-an-oil-painting-by-leonardo-da.md)
-_Context: Madonna of the Yarnwinder, Leonardo da Vinci, oil painting_
+_Context: oil painting, Madonna of the Yarnwinder, Leonardo da Vinci_
 
 ##### Cirque du Soleil
 ### [Cirque du Soleil announces it will stage a live tour featuring the works of Michael Jackson. ](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live-tour-featuring-the-works-of-michael-jackson.md)
@@ -101,7 +101,7 @@ _Context: the works, Michael Jackson, Cirque du Soleil_
 
 ##### Oasis
 ### [The man who attacked Oasis guitarist Noel Gallagher on stage at the 2008 Virgin Festival in Toronto is put under house arrest for 12 months. ](/news/2010/04/21/the-man-who-attacked-oasis-guitarist-noel-gallagher-on-stage-at-the-2008-virgin-festival-in-toronto-is-put-under-house-arrest-for-12-months.md)
-_Context: Toronto, Oasis, Noel Gallagher, Virgin Festival_
+_Context: Toronto, Oasis, Virgin Festival, Noel Gallagher_
 
 ## [Previous Day...](/news/2010/04/20/index.md)
 

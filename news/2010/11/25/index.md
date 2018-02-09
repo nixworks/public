@@ -9,19 +9,19 @@ At least one person has been killed and more than 40 have been left wounded afte
 
 ##### Del Monte Foods
 ### [Del Monte Foods is purchased in a US$5 billion leveraged buyout led by Kohlberg Kravis Roberts. ](/news/2010/11/25/del-monte-foods-is-purchased-in-a-us-5-billion-leveraged-buyout-led-by-kohlberg-kravis-roberts.md)
-_Context: Kohlberg Kravis Roberts, Del Monte Foods, leveraged buyout_
+_Context: Kohlberg Kravis Roberts, leveraged buyout, Del Monte Foods_
 
 ##### Mi-8
 ### [Seven are killed and three injured in the rough landing of a Mi-8 helicopter in the Omsk region of Siberia, Russia. ](/news/2010/11/25/seven-are-killed-and-three-injured-in-the-rough-landing-of-a-mi-8-helicopter-in-the-omsk-region-of-siberia-russia.md)
-_Context: Russia, Omsk, Siberia, Mi-8_
+_Context: Mi-8, Omsk, Siberia, Russia_
 
 ##### North Korea
 ### [North Korea warns that it will launch further attacks on South Korea if it continues "reckless military provocation". ](/news/2010/11/25/north-korea-warns-that-it-will-launch-further-attacks-on-south-korea-if-it-continues-reckless-military-provocation.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Shanghai Cooperation Organization
 ### [The heads of government of the member states of the Shanghai Cooperation Organization meet in Dushanbe for their annual summit. ](/news/2010/11/25/the-heads-of-government-of-the-member-states-of-the-shanghai-cooperation-organization-meet-in-dushanbe-for-their-annual-summit.md)
-_Context: Dushanbe, Shanghai Cooperation Organization_
+_Context: Shanghai Cooperation Organization, Dushanbe_
 
 ##### Nigeria
 ### [A court in Nigeria charges an Iranian man over an illegal weapons shipment discovered in Lagos. ](/news/2010/11/25/a-court-in-nigeria-charges-an-iranian-man-over-an-illegal-weapons-shipment-discovered-in-lagos.md)
@@ -45,11 +45,11 @@ _Context: Egypt, Copt_
 
 ##### Tonga
 ### [Tongans go to the polls in the first general election in the nation's history in which the majority of parliament will be popularly elected. ](/news/2010/11/25/tongans-go-to-the-polls-in-the-first-general-election-in-the-nation-s-history-in-which-the-majority-of-parliament-will-be-popularly-elected.md)
-_Context: first general election, Tonga_
+_Context: Tonga, first general election_
 
 ##### United States Government
 ### [The United States Government sets aside an area in Alaska twice the size of the United Kingdom as a "critical habitat" for polar bears. ](/news/2010/11/25/the-united-states-government-sets-aside-an-area-in-alaska-twice-the-size-of-the-united-kingdom-as-a-critical-habitat-for-polar-bears.md)
-_Context: polar bear, Alaska, United Kingdom, United States Government_
+_Context: United Kingdom, United States Government, Alaska, polar bear_
 
 ##### United Kingdom
 ### [The United Kingdom experiences its earliest widespread snowfall for 17 years, with large parts of Scotland and north east England particularly affected. ](/news/2010/11/25/the-united-kingdom-experiences-its-earliest-widespread-snowfall-for-17-years-with-large-parts-of-scotland-and-north-east-england-particular.md)

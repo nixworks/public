@@ -5,11 +5,11 @@ Formats: [HTML](2006/02/20/index.html)  [JSON](2006/02/20/index.json)  [XML](200
 
 ##### Tuvalu
 ### [ Retired scientist Don Kennedy suggests the entire population of Tuvalu should move to the Fijian island of Kioa, to preserve Tuvaluan culture as their homeland becomes uninhabitable due to rising sea levels. ](/news/2006/02/20/retired-scientist-don-kennedy-suggests-the-entire-population-of-tuvalu-should-move-to-the-fijian-island-of-kioa-to-preserve-tuvaluan-cultu.md)
-_Context: rising sea levels, Tuvalu, Kioa_
+_Context: Tuvalu, Kioa, rising sea levels_
 
 ##### Iran
 ### [ Iranian Foreign Minister Manouchehr Mottaki denies that Iranian President Mahmoud Ahmadinejad said that he wanted Israel to be "wiped off the map", saying Ahmadinejad was misunderstood. ](/news/2006/02/20/iranian-foreign-minister-manouchehr-mottaki-denies-that-iranian-president-mahmoud-ahmadinejad-said-that-he-wanted-israel-to-be-wiped-off-t.md)
-_Context: wiped off the map, Manouchehr Mottaki, Mahmoud Ahmadinejad, Israel, Iranian President, Iran, Foreign Minister_
+_Context: Manouchehr Mottaki, Foreign Minister, Iran, wiped off the map, Israel, Mahmoud Ahmadinejad, Iranian President_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ Attacks by the Movement for the Emancipation of the Niger Delta destroy an oil pipeline and a military houseboat in southern Nigeria, cutting crude production by about twenty percent. The recent violence has caused a rise in international oil prices due to supply concerns. ](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.md)
@@ -25,7 +25,7 @@ _Context: Iran_
 
 ##### Brokeback Mountain
 ### [ Western romance "Brokeback Mountain" wins awards for best film and best director for Ang Lee at the BAFTA awards. ](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.md)
-_Context: British Academy of Film and Television Arts, Brokeback Mountain, Ang Lee_
+_Context: Brokeback Mountain, Ang Lee, British Academy of Film and Television Arts_
 
 ##### Osama bin Laden
 ### [ Osama bin Laden vows never to be captured alive, according to an audiotape that was posted Monday on a militant Web site. ](/news/2006/02/20/osama-bin-laden-vows-never-to-be-captured-alive-according-to-an-audiotape-that-was-posted-monday-on-a-militant-web-site.md)

@@ -9,7 +9,7 @@ At least six people have been killed in a bomb attack targeting a UN convoy near
 
 ##### NATO
 ### [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md)
-_Context: 2014 pro-Russian unrest in Ukraine, Islamic State in Iraq and the Levant, NATO, Belgium_
+_Context: 2014 pro-Russian unrest in Ukraine, Belgium, Islamic State in Iraq and the Levant, NATO_
 
 ##### Transparency International
 ### [Transparency International issues its 2014 Corruption Perceptions Index with Denmark achieving the highest rating and North Korea and Somalia tied with the lowest ranking. ](/news/2014/12/3/transparency-international-issues-its-2014-corruption-perceptions-index-with-denmark-achieving-the-highest-rating-and-north-korea-and-somali.md)
@@ -25,11 +25,11 @@ _Context: Israeli legislative election, 2015, parliament in Israel, Israel_
 
 ##### General election
 ### [Less than three months after winning the general election, Prime Minister of Sweden Stefan Lfven calls a snap general election after parliament rejected his government's budget proposal. ](/news/2014/12/3/less-than-three-months-after-winning-the-general-election-prime-minister-of-sweden-stefan-lofven-calls-a-snap-general-election-after-parlia.md)
-_Context: snap general election, Stefan Lfven, prime minister, general election_
+_Context: snap general election, prime minister, Stefan Lfven, general election_
 
 ##### Japan
 ### [The Japanese space agency, JAXA, launches the space explorer Hayabusa 2 from the Tanegashima Space Center on a six-year roundtrip mission to the asteroid (162173) 1999 JU3 to collect rock samples. ](/news/2014/12/3/the-japanese-space-agency-jaxa-launches-the-space-explorer-hayabusa-2-from-the-tanegashima-space-center-on-a-six-year-roundtrip-mission-to.md)
-_Context: Japan, Hayabusa 2, JAXA, Tanegashima Space Center, (162173) 1999 JU3_
+_Context: JAXA, Tanegashima Space Center, Hayabusa 2, (162173) 1999 JU3, Japan_
 
 ## [Previous Day...](/news/2014/12/2/index.md)
 

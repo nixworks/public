@@ -29,7 +29,7 @@ Agency will bar men who have had sex with another man in the previous year from 
 
 ##### Armenia-Russia relations
 ### [Russia reinforces the joint Armenian-Russian run Erebuni Airport, home to the Russian 3624th Air Base, with six attack and transport helicopters. The Russian Defence Ministry said the Mi-24 and Mi-8 helicopters had been transferred from a military base in the southern Russian region of Krasnodar Krai to the air base in Erebuni, Armenia. ](/news/2015/12/21/russia-reinforces-the-joint-armenian-russian-run-erebuni-airport-home-to-the-russian-3624th-air-base-with-six-attack-and-transport-helicop.md)
-_Context: Armenia-Russia relations, Ministry of Defence, Armenian, Russia, Krasnodar region, Mi-8, Russian Air Force, Armenia, Erebuni Airport, Mi-24_
+_Context: Armenian, Armenia-Russia relations, Ministry of Defence, Mi-24, Erebuni Airport, Russia, Krasnodar region, Russian Air Force, Armenia, Mi-8_
 
 ##### War in Donbass
 ### [The European Union extends Russian sanctions for interference in Ukraine another six months, until 31 July 2016. The EU says it's extending the sanctions because the Minsk peace accords would not be fully implemented by the end of this year. ](/news/2015/12/21/the-european-union-extends-russian-sanctions-for-interference-in-ukraine-another-six-months-until-31-july-2016-the-eu-says-it-s-extending.md)
@@ -45,7 +45,7 @@ Political fragmentation will lead to either a fragile government or an early ret
 
 ##### 2016 U.S. presidential election
 ### [South Carolina Senator Lindsey Graham ends his campaign for the Republican Party nomination for President. During his campaign he has failed to poll above single digits nationally or in the early voting states. ](/news/2015/12/21/south-carolina-senator-lindsey-graham-ends-his-campaign-for-the-republican-party-nomination-for-president-during-his-campaign-he-has-failed.md)
-_Context: 2016 U.S. presidential election, U.S. President, South Carolina, United States Senate, Republican Party presidential candidates, 2016, Republican, Lindsey Graham_
+_Context: 2016 U.S. presidential election, Lindsey Graham, South Carolina, Republican Party presidential candidates, 2016, U.S. President, Republican, United States Senate_
 
 ##### Israel
 ### [Israeli Vice Prime Minister Silvan Shalom (Likud party) resigns because of allegations he sexually harassed several women during his career. Israel's attorney general has started an investigation of Shalom, who also resigned his Interior Minister position and Knesset seat. ](/news/2015/12/21/israeli-vice-prime-minister-silvan-shalom-likud-party-resigns-because-of-allegations-he-sexually-harassed-several-women-during-his-career.md)
@@ -53,7 +53,7 @@ Israeli Interior Minister Silvan Shalom, the subject of sexual harassment allega
 
 ##### Future Iraqi Kurdistan independence referendum
 ### [President Massoud Barzani of Iraqi Kurdistan instructs senior party officials to work on preparations for holding a referendum to decide whether to secede from Iraq, a long-standing Kurdish aspiration. ](/news/2015/12/21/president-massoud-barzani-of-iraqi-kurdistan-instructs-senior-party-officials-to-work-on-preparations-for-holding-a-referendum-to-decide-whe.md)
-_Context: Kurdish, Future Iraqi Kurdistan independence referendum, Massoud Barzani_
+_Context: Future Iraqi Kurdistan independence referendum, Massoud Barzani, Kurdish_
 
 ## [Previous Day...](/news/2015/12/20/index.md)
 

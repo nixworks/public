@@ -5,15 +5,15 @@ Formats: [HTML](2006/04/22/index.html)  [JSON](2006/04/22/index.json)  [XML](200
 
 ##### Colombian Armed Conflict
 ### [ Colombian Armed Conflict: Seventeen Colombian soldiers and a secret policeman were killed by rebels in an ambush in the mountains near the Venezuelan border. ](/news/2006/04/22/colombian-armed-conflict-seventeen-colombian-soldiers-and-a-secret-policeman-were-killed-by-rebels-in-an-ambush-in-the-mountains-near-the.md)
-_Context: Colombia, Colombian Armed Conflict_
+_Context: Colombian Armed Conflict, Colombia_
 
 ##### War in Afghanistan (2001-present)
 ### [ Conflict in Afghanistan: Four Canadian soldiers were killed 75 kilometers north of Kandahar by a roadside bomb planted by Taliban militants. ](/news/2006/04/22/conflict-in-afghanistan-four-canadian-soldiers-were-killed-75-kilometers-north-of-kandahar-by-a-roadside-bomb-planted-by-taliban-militants.md)
-_Context: War in Afghanistan (2001-present), Kandahar, Taliban_
+_Context: Kandahar, Taliban, War in Afghanistan (2001-present)_
 
 ##### April 2006 Nepalese general strike
 ### [ April 2006 Nepalese general strike: Opposition leaders in Nepal reject King Gyanendra's proposals for restoring democracy. Thousands of protesters approaching the Narayanhity Royal Palace in Kathmandu are fired upon by security forces with tear gas. ](/news/2006/04/22/april-2006-nepalese-general-strike-opposition-leaders-in-nepal-reject-king-gyanendra-s-proposals-for-restoring-democracy-thousands-of-pro.md)
-_Context: Gyanendra of Nepal, Kathmandu, tear gas, Narayanhity Royal Palace, April 2006 Nepalese general strike, Nepal_
+_Context: April 2006 Nepalese general strike, Kathmandu, Nepal, Narayanhity Royal Palace, Gyanendra of Nepal, tear gas_
 
 ##### Re-elected
 ### [ The first city-wide election in New Orleans after Hurricane Katrina takes place. ](/news/2006/04/22/the-first-city-wide-election-in-new-orleans-after-hurricane-katrina-takes-place.md)

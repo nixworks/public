@@ -9,7 +9,7 @@ A group of Irish soccer supporters gathered at the French Embassy in Dublin this
 
 ##### President
 ### [ President of Egypt Hosni Mubarak says on national television he will not tolerate the "humiliation" of Egyptian nationals abroad following the riots between Algeria and Egypt over a qualifying match for the 2010 World Cup. ](/news/2009/11/21/president-of-egypt-hosni-mubarak-says-on-national-television-he-will-not-tolerate-the-humiliation-of-egyptian-nationals-abroad-following.md)
-_Context: 2010 World Cup, President, Algeria, qualifying match, Hosni Mubarak_
+_Context: Hosni Mubarak, qualifying match, Algeria, President, 2010 World Cup_
 
 ##### Italy
 ### [ Italian police arrest two Pakistani nationals suspected of providing logistical support to the group responsible for the attacks in Mumbai in 2008. ](/news/2009/11/21/italian-police-arrest-two-pakistani-nationals-suspected-of-providing-logistical-support-to-the-group-responsible-for-the-attacks-in-mumbai.md)
@@ -41,7 +41,7 @@ _Context: China, Heilongjiang_
 
 ##### Netherlands
 ### [ The Netherlands win the Junior Eurovision Song Contest 2009 with the song "Click Clack" by Ralf Mackenbach. ](/news/2009/11/21/the-netherlands-win-the-junior-eurovision-song-contest-2009-with-the-song-click-clack-by-ralf-mackenbach.md)
-_Context: Netherlands, Ralf Mackenbach, Junior Eurovision Song Contest 2009_
+_Context: Netherlands, Junior Eurovision Song Contest 2009, Ralf Mackenbach_
 
 ## [Previous Day...](/news/2009/11/20/index.md)
 

@@ -9,7 +9,7 @@ Israeli police: Security guard seriously wounded in stabbing at Jerusalem&rsquo;
 
 ##### Iraqi Civil War
 ### [ An Iraqi military parade in Baghdad celebrates final victory over the Islamic State of Iraq and the Levant. Prime Minister Haider al-Abadi declares December 10 an annual national holiday. ](/news/2017/12/10/an-iraqi-military-parade-in-baghdad-celebrates-final-victory-over-the-islamic-state-of-iraq-and-the-levant-prime-minister-haider-al-abadi.md)
-_Context: Baghdad, ISIL, Haider al-Abadi, Iraqi Civil War_
+_Context: Haider al-Abadi, Baghdad, Iraqi Civil War, ISIL_
 
 ##### California wildfires
 ### [New evacuations are ordered as the fires spread toward a string of California coastal cities. Santa Ana winds and rugged mountain terrain continue to hamper firefighting efforts. Authorities report the Thomas Fire is only 15 percent contained. ](/news/2017/12/10/new-evacuations-are-ordered-as-the-fires-spread-toward-a-string-of-california-coastal-cities-santa-ana-winds-and-rugged-mountain-terrain-co.md)

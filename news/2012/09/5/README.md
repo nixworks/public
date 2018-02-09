@@ -5,15 +5,15 @@ Formats: [HTML](2012/09/5/index.html)  [JSON](2012/09/5/index.json)  [XML](2012/
 
 ##### Killed
 ### [A drone strike conducted by the United States kills at least five suspected militants in the eastern Yemeni province of Hadhramaut. ](/news/2012/09/5/a-drone-strike-conducted-by-the-united-states-kills-at-least-five-suspected-militants-in-the-eastern-yemeni-province-of-hadhramaut.md)
-_Context: killed, Hadhramaut Governorate, Yemen_
+_Context: Yemen, Hadhramaut Governorate, killed_
 
 ##### Palestinian Authority
 ### [A Palestinian Authority colonel is killed by gunfire from unknown assailants in Jenin, West Bank. ](/news/2012/09/5/a-palestinian-authority-colonel-is-killed-by-gunfire-from-unknown-assailants-in-jenin-west-bank.md)
-_Context: Palestinian Authority, Jenin, West Bank_
+_Context: Palestinian Authority, West Bank, Jenin_
 
 ##### Second bailout
 ### [In a letter ordering terms for the next installment of the second bailout, the European Commission, European Central Bank and International Monetary Fund ("the troika") want Greece to raise the maximum amount of weekly work days to six. Prime Minister of the Netherlands Mark Rutte rules out a third bailout loan. Diederik Samsom of the Labour Party, excludes Greece from leaving the eurozone; he mentions tutelage. ](/news/2012/09/5/in-a-letter-ordering-terms-for-the-next-installment-of-the-second-bailout-the-european-commission-european-central-bank-and-international.md)
-_Context: second bailout, European Central Bank, International Monetary Fund, Labour Party, Prime Minister, Diederik Samsom, risk being forced out of the euro zone, Mark Rutte, European Commission_
+_Context: risk being forced out of the euro zone, Prime Minister, Mark Rutte, Labour Party, International Monetary Fund, European Commission, European Central Bank, second bailout, Diederik Samsom_
 
 ##### UNCTAD
 ### [The UNCTAD releases a report detailing the further deterioration of the occupied Palestinian territories's economic environment. ](/news/2012/09/5/the-unctad-releases-a-report-detailing-the-further-deterioration-of-the-occupied-palestinian-territories-s-economic-environment.md)
@@ -21,7 +21,7 @@ The United Nations UNCTAD agencyissued a gloomy outlook for the Palestinian econ
 
 ##### 7.6-magnitude earthquake
 ### [A 7.6-magnitude earthquake 87 miles west of the Costa Rican capital of San Jos triggers a tsunami alert for the coastlines of Costa Rica, Panama and Nicaragua. ](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.md)
-_Context: tsunami, Nicaragua, Costa Rica, Panama, 7.6-magnitude earthquake, San Jos_
+_Context: 7.6-magnitude earthquake, Panama, Nicaragua, tsunami, Costa Rica, San Jos_
 
 ##### A firecracker factory explodes
 ### [A firecracker factory explodes near Sivakasi, Tamil Nadu, killing 54 and injuring 50. ](/news/2012/09/5/a-firecracker-factory-explodes-near-sivakasi-tamil-nadu-killing-54-and-injuring-50.md)
@@ -37,7 +37,7 @@ Despite Vice President Xi Jinping&#039;s cancellation, Clinton met with Presiden
 
 ##### Mauritanian
 ### [Mauritania extradites former Libyan intelligence chief Abdullah Senussi, who was arrested in the capital Nouakchott in March after fleeing Libya during the civil war in 2011. The United States insist on a fair trial for the suspect, a "milestone in (Libya's) democratic transition". ](/news/2012/09/5/mauritania-extradites-former-libyan-intelligence-chief-abdullah-senussi-who-was-arrested-in-the-capital-nouakchott-in-march-after-fleeing-l.md)
-_Context: Nouakchott, Libyan Civil War, Mauritanian, government officials, insist, fair trial, Abdullah Senussi, Libya_
+_Context: Abdullah Senussi, Mauritanian, government officials, Libya, Libyan Civil War, insist, fair trial, Nouakchott_
 
 ##### Quebec rally
 ### [A masked gunman kills one person and wounds another at a Quebec rally for the new premier Pauline Marois. ](/news/2012/09/5/a-masked-gunman-kills-one-person-and-wounds-another-at-a-quebec-rally-for-the-new-premier-pauline-marois.md)
@@ -45,7 +45,7 @@ A masked gunman wearing a blue bathrobe opened fire during a midnight victory ra
 
 ##### Wang Lijun
 ### [Wang Lijun, the former vice mayor and police chief of Chongqing, faces charges of abuse of power, bribe-taking, defection, and bending the law for personal gain. The Chengdu city prosecutor says Wang has tried to cover up Gu Kailai's murder of businessman Neil Heywood. ](/news/2012/09/5/wang-lijun-the-former-vice-mayor-and-police-chief-of-chongqing-faces-charges-of-abuse-of-power-bribe-taking-defection-and-bending-the-l.md)
-_Context: most significant political scandals, abuse of power, Gu Kailai, Chongqing, Chengdu, Wang Lijun, Neil Heywood_
+_Context: Chongqing, most significant political scandals, abuse of power, Neil Heywood, Gu Kailai, Wang Lijun, Chengdu_
 
 ##### Benjamin Netanyahu
 ### [Benjamin Netanyahu interrupts an Israeli cabinet meeting on defense and security, citing inside leaks. ](/news/2012/09/5/benjamin-netanyahu-interrupts-an-israeli-cabinet-meeting-on-defense-and-security-citing-inside-leaks.md)

@@ -33,7 +33,7 @@ A fire at a budget hotel in the northern Philippines has killed 15 people and in
 
 ##### U.S. state
 ### [8 people are seriously injured when a tour bus carrying a church group lost control, slides off a road and rolls onto its side on an icy highway in the U.S. state of Colorado. ](/news/2010/12/19/8-people-are-seriously-injured-when-a-tour-bus-carrying-a-church-group-lost-control-slides-off-a-road-and-rolls-onto-its-side-on-an-icy-hig.md)
-_Context: Colorado, U.S. state_
+_Context: U.S. state, Colorado_
 
 ##### Italy
 ### [3 people are killed as blizzards and freezing temperatures hit Italy. ](/news/2010/12/19/3-people-are-killed-as-blizzards-and-freezing-temperatures-hit-italy.md)
@@ -45,7 +45,7 @@ Severe disruption caused by freezing weather continues, as Heathrow cancels hund
 
 ##### Guatemala
 ### [The Guatemalan military declares a state of siege in the department of Alta Verapaz to reclaim control of cities controlled by the Los Zetas Mexican drug gang. ](/news/2010/12/19/the-guatemalan-military-declares-a-state-of-siege-in-the-department-of-alta-verapaz-to-reclaim-control-of-cities-controlled-by-the-los-zetas.md)
-_Context: Los Zetas, Alta Verapaz, state of siege, Guatemalan Military, Guatemala, Mexico_
+_Context: Guatemalan Military, state of siege, Alta Verapaz, Guatemala, Los Zetas, Mexico_
 
 ##### Child pornography
 ### [Approximately 107 people are charged with possessing offensive child pornography in Austria. ](/news/2010/12/19/approximately-107-people-are-charged-with-possessing-offensive-child-pornography-in-austria.md)

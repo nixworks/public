@@ -5,11 +5,11 @@ Formats: [HTML](2007/09/12/index.html)  [JSON](2007/09/12/index.json)  [XML](200
 
 ##### Burj Dubai
 ### [ Burj Dubai in the United Arab Emirates reaches 555.3 metres, surpassing the 553.3 metre CN Tower in Toronto, Ontario Canada as the world's tallest free-standing structure on land, which it had been since 1976. The building is due for completion 2008 with a final projected height of 818 metres. ](/news/2007/09/12/burj-dubai-in-the-united-arab-emirates-reaches-555-3-metres-surpassing-the-553-3-metre-cn-tower-in-toronto-ontario-canada-as-the-world-s.md)
-_Context: tallest structure in the world, 1976, United Arab Emirates, CN Tower, Burj Dubai, 2008, Toronto, Ontario, Canadian_
+_Context: tallest structure in the world, 1976, Canadian, United Arab Emirates, 2008, Toronto, Ontario, Burj Dubai, CN Tower_
 
 ##### Russia
 ### [ Russian President Vladimir Putin fires the chief of the Russian Navy Vladimir Masorin, and appoints in his place the commander of the Russian Northern Fleet, Vladimir Vysotsky. ](/news/2007/09/12/russian-president-vladimir-putin-fires-the-chief-of-the-russian-navy-vladimir-masorin-and-appoints-in-his-place-the-commander-of-the-russi.md)
-_Context: Russian Northern Fleet, Vladimir Masorin, Russian Navy, Vladimir Vysotsky, Russia, Vladimir Putin_
+_Context: Russian Navy, Russian Northern Fleet, Russia, Vladimir Masorin, Vladimir Vysotsky, Vladimir Putin_
 
 ##### Afghanistan
 ### [ Airstrikes and Afghan army gunfire kills more than 45 Taliban insurgents on the first day of Ramadan. ](/news/2007/09/12/airstrikes-and-afghan-army-gunfire-kills-more-than-45-taliban-insurgents-on-the-first-day-of-ramadan.md)
@@ -17,19 +17,19 @@ _Context: Ramadan, Taliban, Afghanistan_
 
 ##### Eritrea
 ### [ Somali Islamists and opposition leaders meeting in Eritrea have joined forces in a new alliance to overthrow Somalia's transitional government. ](/news/2007/09/12/somali-islamists-and-opposition-leaders-meeting-in-eritrea-have-joined-forces-in-a-new-alliance-to-overthrow-somalia-s-transitional-governm.md)
-_Context: Eritrea, new alliance, Somalia_
+_Context: Eritrea, Somalia, new alliance_
 
 ##### Foot-and-mouth disease
 ### [ A new case of Foot-and-mouth disease in the UK was confirmed after it was assumed that the outbreak of 2007 had been under control. ](/news/2007/09/12/a-new-case-of-foot-and-mouth-disease-in-the-uk-was-confirmed-after-it-was-assumed-that-the-outbreak-of-2007-had-been-under-control.md)
-_Context: United Kingdom, outbreak of 2007, Foot-and-mouth disease_
+_Context: Foot-and-mouth disease, United Kingdom, outbreak of 2007_
 
 ##### Earthquake
 ### [ A major earthquake with a magnitude of 8.4 occurs off the west-coast of the island Sumatra, Indonesia. Sea level readings indicate a tsunami might follow and a tsunami watch is put in place for the whole of the Indian Ocean. ](/news/2007/09/12/a-major-earthquake-with-a-magnitude-of-8-4-occurs-off-the-west-coast-of-the-island-sumatra-indonesia-sea-level-readings-indicate-a-tsunam.md)
-_Context: Indian, tsunami, September 2007 Sumatra earthquakes, Sumatra, Indonesia, earthquake_
+_Context: September 2007 Sumatra earthquakes, earthquake, Indian, Indonesia, tsunami, Sumatra_
 
 ##### Vladimir Putin
 ### [ Vladimir Putin sacks Mikhail Fradkov's Second Cabinet and nominates Viktor Zubkov as his replacement. ](/news/2007/09/12/vladimir-putin-sacks-mikhail-fradkov-s-second-cabinet-and-nominates-viktor-zubkov-as-his-replacement.md)
-_Context: Mikhail Fradkov's Second Cabinet, Viktor Zubkov, Vladimir Putin_
+_Context: Viktor Zubkov, Mikhail Fradkov's Second Cabinet, Vladimir Putin_
 
 ##### China
 ### [ Thousands of ex-soldiers are rioting in the People's Republic of China in the cities of Baotou, Wuhan, and Baoji, breaking into cars, destroying classrooms, and setting fires. The riot is the largest protest since the 1989 Tiananmen Square protest. ](/news/2007/09/12/thousands-of-ex-soldiers-are-rioting-in-the-people-s-republic-of-china-in-the-cities-of-baotou-wuhan-and-baoji-breaking-into-cars-destr.md)
@@ -45,7 +45,7 @@ Peter Beattie was greeted with thunderous applause as he addressed the Queenslan
 
 ##### President
 ### [ Former President of the Philippines Joseph Estrada is found guilty of corruption in his 6-year trial and sentenced to Life Imprisonment. ](/news/2007/09/12/former-president-of-the-philippines-joseph-estrada-is-found-guilty-of-corruption-in-his-6-year-trial-and-sentenced-to-life-imprisonment.md)
-_Context: corruption, President, 6-year trial, Joseph Estrada_
+_Context: President, Joseph Estrada, corruption, 6-year trial_
 
 ##### Shinzo Abe
 ### [ Shinzo Abe, the current Prime Minister of Japan, announces his resignation after failing to win popular support in the aftermath of ruling Liberal Democratic Party's defeat in Upper House elections in July. The resignation comes into effect with the election of his successor in an LDP party conference on 19 September 2007. ](/news/2007/09/12/shinzo-abe-the-current-prime-minister-of-japan-announces-his-resignation-after-failing-to-win-popular-support-in-the-aftermath-of-ruling.md)
@@ -53,7 +53,7 @@ _Context: with the election of his successor, Shinzo Abe, Prime Minister of Japa
 
 ##### 2007
 ### [ Tropical Depression Eight and Tropical Depression Nine form near the Lesser Antilles and Gulf of Mexico respectively. ](/news/2007/09/12/tropical-depression-eight-and-tropical-depression-nine-form-near-the-lesser-antilles-and-gulf-of-mexico-respectively.md)
-_Context: 2007, Lesser Antilles, Gulf of Mexico, Tropical Depression Eight, Tropical Depression Nine_
+_Context: 2007, Lesser Antilles, Tropical Depression Eight, Tropical Depression Nine, Gulf of Mexico_
 
 ## [Previous Day...](/news/2007/09/11/index.md)
 

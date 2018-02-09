@@ -17,7 +17,7 @@ _Context: Mozambique, tropical storm_
 
 ##### FBI
 ### [The FBI shuts down Megaupload. In response, hacker group Anonymous shuts down the United States Department of Justice website and many websites of the government and entertainment industry. ](/news/2012/01/19/the-fbi-shuts-down-megaupload-in-response-hacker-group-anonymous-shuts-down-the-united-states-department-of-justice-website-and-many-websi.md)
-_Context: hacker group Anonymous, Department of Justice, Megaupload, FBI_
+_Context: hacker group Anonymous, FBI, Megaupload, Department of Justice_
 
 ##### News International
 ### [News International pays out compensation to 37 people, including the actor Jude Law and politician John Prescott. over phone hacking by the "News of the World". ](/news/2012/01/19/news-international-pays-out-compensation-to-37-people-including-the-actor-jude-law-and-politician-john-prescott-over-phone-hacking-by-the.md)

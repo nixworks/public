@@ -9,7 +9,7 @@ _Context: Harry Patch, First World War_
 
 ##### Iran
 ### [ Worldwide protests in 80 cities take place in support of Iranian protesters following the disputed presidential election. ](/news/2009/07/25/worldwide-protests-in-80-cities-take-place-in-support-of-iranian-protesters-following-the-disputed-presidential-election.md)
-_Context: presidential election, Iran, protests against the regime_
+_Context: Iran, presidential election, protests against the regime_
 
 ##### Iraq
 ### [ Voters go to the polls in Iraqi Kurdistan for legislative and presidential elections. ](/news/2009/07/25/voters-go-to-the-polls-in-iraqi-kurdistan-for-legislative-and-presidential-elections.md)
@@ -21,7 +21,7 @@ Fires which have raged across swathes of southern Europe are being brought under
 
 ##### Felipe Massa
 ### [ Felipe Massa is critically injured in a 160mph crash during qualifying for the 2009 Hungarian Grand Prix, when a suspension component from Rubens Barrichello's car hits him on his helmet. ](/news/2009/07/25/felipe-massa-is-critically-injured-in-a-160mph-crash-during-qualifying-for-the-2009-hungarian-grand-prix-when-a-suspension-component-from.md)
-_Context: Rubens Barrichello, Felipe Massa, 2009_
+_Context: Rubens Barrichello, 2009, Felipe Massa_
 
 ## [Previous Day...](/news/2009/07/24/index.md)
 

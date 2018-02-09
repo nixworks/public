@@ -13,7 +13,7 @@ _Context: Tripoli, Lebanon_
 
 ##### Turkey
 ### [Turkey restricts access to Twitter hours after the Prime Minister Recep Tayyip Erdogan threatens to "root out" the social network where politically sensitive documents had been published. ](/news/2014/03/21/turkey-restricts-access-to-twitter-hours-after-the-prime-minister-recep-tayyip-erdoaan-threatens-to-root-out-the-social-network-where-pol.md)
-_Context: Turkey, Twitter, Turkish Prime Minister, Recep Tayyip Erdogan_
+_Context: Twitter, Turkey, Recep Tayyip Erdogan, Turkish Prime Minister_
 
 ##### Russia
 ### [The Russian Federation Council, the upper house of the Federal Assembly, approves the annexation of Crimea. ](/news/2014/03/21/the-russian-federation-council-the-upper-house-of-the-federal-assembly-approves-the-annexation-of-crimea.md)
@@ -25,7 +25,7 @@ _Context: Russia, European Union, Ukraine_
 
 ##### Bernard A. Friedman
 ### [American judge Bernard A. Friedman of the United States District Court for the Eastern District of Michigan overturns Michigan's ban on same-sex marriages. ](/news/2014/03/21/american-judge-bernard-a-friedman-of-the-united-states-district-court-for-the-eastern-district-of-michigan-overturns-michigan-s-ban-on-same.md)
-_Context: Mich., U.S. District Judge for the Eastern District of Michigan, Bernard A. Friedman_
+_Context: Bernard A. Friedman, Mich., U.S. District Judge for the Eastern District of Michigan_
 
 ##### Qiubei County
 ### [A kindergarten lunch in Qiubei County, China, is poisoned, leaving 2 children dead and another 30 sick. ](/news/2014/03/21/a-kindergarten-lunch-in-qiubei-county-china-is-poisoned-leaving-2-children-dead-and-another-30-sick.md)

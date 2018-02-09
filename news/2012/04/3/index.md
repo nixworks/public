@@ -37,11 +37,11 @@ Tajikistan accuses Uzbekistan, of imposing a blockade which it says could destab
 
 ##### Qatar
 ### [Qatar rejects Iraq's demand to hand over fugitive Vice President Tariq Al-Hashemi. ](/news/2012/04/3/qatar-rejects-iraq-s-demand-to-hand-over-fugitive-vice-president-tariq-al-hashemi.md)
-_Context: Iraq, Qatar, Tariq Al-Hashemi_
+_Context: Qatar, Tariq Al-Hashemi, Iraq_
 
 ##### ASEAN
 ### [The latest ASEAN summit begins in the Cambodian capital Phnom Penh. ](/news/2012/04/3/the-latest-asean-summit-begins-in-the-cambodian-capital-phnom-penh.md)
-_Context: ASEAN, Phnom Penh, Cambodia_
+_Context: Cambodia, Phnom Penh, ASEAN_
 
 ##### China
 ### [A Chinese businessman with links to ousted Communist party official Bo Xilai is detained. ](/news/2012/04/3/a-chinese-businessman-with-links-to-ousted-communist-party-official-bo-xilai-is-detained.md)
@@ -53,11 +53,11 @@ RT&Eacute;&rsquo;s head of current affairs Ed Mulhall has retired and the editor
 
 ##### Oikos University shooting
 ### [A memorial service is held for the seven victims of the Oikos University shooting in the US city of Oakland, California. ](/news/2012/04/3/a-memorial-service-is-held-for-the-seven-victims-of-the-oikos-university-shooting-in-the-us-city-of-oakland-california.md)
-_Context: Oikos University shooting, California, Oakland, California_
+_Context: Oikos University shooting, Oakland, California, California_
 
 ##### New York Police Department
 ### [The New York Police Department orders an investigation into the death of French academic Richard Descoings who was found nude in his hotel room. ](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.md)
-_Context: French-born, Richard Descoings, New York Police Department_
+_Context: French-born, New York Police Department, Richard Descoings_
 
 ##### Maryland
 ### [Voters in the US states of Maryland and Wisconsin as well as Washington, D.C. go to the polls for Republican primaries with Mitt Romney projected as the winner in all three contests. ](/news/2012/04/3/voters-in-the-us-states-of-maryland-and-wisconsin-as-well-as-washington-d-c-go-to-the-polls-for-republican-primaries-with-mitt-romney-proj.md)

@@ -21,11 +21,11 @@ _Context: Pepe the Frog, Anti-Defamation League_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Megi makes landfall in eastern China a day after killing four people and injuring 260 on Taiwan. ](/news/2016/09/28/typhoon-megi-makes-landfall-in-eastern-china-a-day-after-killing-four-people-and-injuring-260-on-taiwan.md)
-_Context: 2016 Pacific typhoon season, Taiwan, Typhoon Megi, China_
+_Context: Taiwan, Typhoon Megi, 2016 Pacific typhoon season, China_
 
 ##### Indonesia
 ### [Indonesia authorities evacuate over 1,000 tourists from the island of Lombok after Mount Barujari erupts. ](/news/2016/09/28/indonesia-authorities-evacuate-over-1-000-tourists-from-the-island-of-lombok-after-mount-barujari-erupts.md)
-_Context: Lombok, Indonesia, Mount Barujari_
+_Context: Indonesia, Mount Barujari, Lombok_
 
 ##### South Australia
 ### [The state of South Australia suffers widespread blackouts triggered by severe weather conditions. ](/news/2016/09/28/the-state-of-south-australia-suffers-widespread-blackouts-triggered-by-severe-weather-conditions.md)
@@ -33,7 +33,7 @@ South Australians are preparing for one of the most extreme weather systems to h
 
 ##### United States Senate
 ### [The United States Senate and House of Representatives override the veto of President Barack Obama in regards to the Justice Against Sponsors of Terrorism Act. The act narrows the scope of the legal doctrine of foreign sovereign immunity, specifically, in this instance against the sovereign nation of Saudi Arabia. The action is the first such congressional veto override to Obama. ](/news/2016/09/28/the-united-states-senate-and-house-of-representatives-override-the-veto-of-president-barack-obama-in-regards-to-the-justice-against-sponsors.md)
-_Context: U.S. President, House of Representatives, United States Senate, Saudi Arabia, sovereign immunity, Justice Against Sponsors of Terrorism Act, Barack Obama_
+_Context: sovereign immunity, U.S. President, United States House of Representatives, United States Senate, Saudi Arabia, Barack Obama, Justice Against Sponsors of Terrorism Act_
 
 ##### 19th SAARC summit
 ### [Members of the 19th South Asian Association for Regional Cooperation (SAARC) summit, scheduled to be held in Pakistan during November 2016, postpone the meeting following a Indian-led boycott, including Afghanistan, Bangladesh and Bhutan in response to Pakistan's alleged involvement in a deadly terrorist attack on a Indian Army base in Uri, Jammu and Kashmir, on September 18. ](/news/2016/09/28/members-of-the-19th-south-asian-association-for-regional-cooperation-saarc-summit-scheduled-to-be-held-in-pakistan-during-november-2016.md)

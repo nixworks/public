@@ -13,7 +13,7 @@ Sweden has presented its new centre-left government and created a surprise by an
 
 ##### Special vote
 ### [After counting special votes from the 20 September New Zealand general election, the National Party loses its one-seat majority after losing a seat to the Green Party. With the support of ACT and United Future, National still forms a government, albeit a minority government. ](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.md)
-_Context: United Future, New Zealand general election, Green Party, special vote, ACT, New Zealand National Party, minority government_
+_Context: New Zealand National Party, ACT, special vote, United Future, Green Party, New Zealand general election, minority government_
 
 ##### Latvian parliamentary election, 2014
 ### [Latvia votes in a parliamentary election; Laimdota Straujuma's centre-right government keeps its majority. ](/news/2014/10/4/latvia-votes-in-a-parliamentary-election-laimdota-straujuma-s-centre-right-government-keeps-its-majority.md)
@@ -21,7 +21,7 @@ The incumbent prime minister of Latvia and her centre-right coalition look likel
 
 ##### Jean-Claude Duvalier
 ### [Jean-Claude Duvalier (Baby Doc), leader of Haiti from his father's death in 1971 until his overthrow by a popular uprising in 1986, dies of a heart attack. ](/news/2014/10/4/jean-claude-duvalier-baby-doc-leader-of-haiti-from-his-father-s-death-in-1971-until-his-overthrow-by-a-popular-uprising-in-1986-dies-of.md)
-_Context: father's, Haiti, Jean-Claude Duvalier_
+_Context: Haiti, father's, Jean-Claude Duvalier_
 
 ## [Previous Day...](/news/2014/10/3/index.md)
 

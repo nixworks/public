@@ -21,19 +21,19 @@ French President Nicolas Sarkozy angrily told David Cameron he was &#034;stupid&
 
 ##### Taiwan
 ### [ A strong 6.3 earthquake hits Taiwan in the middle of the night, waking people up in the capital Taipei. ](/news/2009/10/4/a-strong-6-3-earthquake-hits-taiwan-in-the-middle-of-the-night-waking-people-up-in-the-capital-taipei.md)
-_Context: Taipei, Taiwan_
+_Context: Taiwan, Taipei_
 
 ##### Pope Benedict XVI
 ### [ Pope Benedict XVI opens a three-week synod of African bishops with a Mass in St. Peter's Basilica in Rome. ](/news/2009/10/4/pope-benedict-xvi-opens-a-three-week-synod-of-african-bishops-with-a-mass-in-st-peter-s-basilica-in-rome.md)
-_Context: Rome, Italy, Pope Benedict XVI, Vatican, bishop, Africa, Mass, synod_
+_Context: bishop, synod, Vatican, Rome, Italy, Africa, Pope Benedict XVI, Mass_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao commences his three-day visit to North Korea, and is greeted at the airport by ailing leader Kim Jong-il. ](/news/2009/10/4/chinese-premier-wen-jiabao-commences-his-three-day-visit-to-north-korea-and-is-greeted-at-the-airport-by-ailing-leader-kim-jong-il.md)
-_Context: China, North Korea, Premier, Kim Jong-il, Wen Jiabao_
+_Context: Kim Jong-il, North Korea, Premier, China, Wen Jiabao_
 
 ##### United Kingdom
 ### [ The British and French governments announce a "historic" GBP2.5 billion allocation to the International Monetary Fund to help less wealthy countries. ](/news/2009/10/4/the-british-and-french-governments-announce-a-historic-agbp2-5-billion-allocation-to-the-international-monetary-fund-to-help-less-wealthy.md)
-_Context: United Kingdom, France, International Monetary Fund_
+_Context: France, International Monetary Fund, United Kingdom_
 
 ##### Nigeria
 ### [ One of the last prominent militant leaders in Nigeria's Niger Delta region, Government Ekpemupolo (Tompolo), agrees to an amnesty with the government. ](/news/2009/10/4/one-of-the-last-prominent-militant-leaders-in-nigeria-s-niger-delta-region-government-ekpemupolo-tompolo-agrees-to-an-amnesty-with-the.md)

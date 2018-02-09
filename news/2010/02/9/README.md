@@ -13,11 +13,11 @@ _Context: Philippine general election, 2010_
 
 ##### President of Sri Lanka
 ### [The recently-elected President of Sri Lanka Mahinda Rajapaksa dissolves his country's parliament one day after the arrest of Sarath Fonseka. ](/news/2010/02/9/the-recently-elected-president-of-sri-lanka-mahinda-rajapaksa-dissolves-his-country-s-parliament-one-day-after-the-arrest-of-sarath-fonseka.md)
-_Context: Parliament, Mahinda Rajapaksa, President of Sri Lanka, Sarath Fonseka_
+_Context: President of Sri Lanka, Sarath Fonseka, Parliament, Mahinda Rajapaksa_
 
 ##### Iran
 ### [The Italian Embassy in Iran is attacked by protesters unhappy with Italy's decision to scale back economic dealings and push for tighter sanctions and protests are also held outside French and Dutch embassies. ](/news/2010/02/9/the-italian-embassy-in-iran-is-attacked-by-protesters-unhappy-with-italy-s-decision-to-scale-back-economic-dealings-and-push-for-tighter-san.md)
-_Context: Iran, Italy, France, sanctions, Dutch_
+_Context: sanctions, France, Dutch, Italy, Iran_
 
 ##### Andal Ampatuan Jr.
 ### [Andal Ampatuan Jr., former ally of President Gloria Macapagal-Arroyo, and 196 other people are charged with murder in the Philippines, in connection with the Maguindanao massacre in November 2009. ](/news/2010/02/9/andal-ampatuan-jr-former-ally-of-president-gloria-macapagal-arroyo-and-196-other-people-are-charged-with-murder-in-the-philippines-in-co.md)
@@ -25,7 +25,7 @@ MANILA, Philippines - The Department of Justice on Tuesday recommended the filin
 
 ##### China
 ### [China sentences Tan Zuoren, who investigated poor construction after the 2008 Sichuan earthquake, to five years in prison for "inciting subversion of state power". ](/news/2010/02/9/china-sentences-tan-zuoren-who-investigated-poor-construction-after-the-2008-sichuan-earthquake-to-five-years-in-prison-for-inciting-subv.md)
-_Context: subversion, China, Tan Zuoren, deadly earthquake_
+_Context: China, subversion, Tan Zuoren, deadly earthquake_
 
 ## [Previous Day...](/news/2010/02/8/index.md)
 

@@ -17,15 +17,15 @@ Less than a week after powerful thunderstorm winds toppled a stage at the Indian
 
 ##### Hewlett-Packard
 ### [Hewlett-Packard shares drop 20% on news that the company plans to split off its personal computer division as a separate company.](/news/2011/08/19/hewlett-packard-shares-drop-20-on-news-that-the-company-plans-to-split-off-its-personal-computer-division-as-a-separate-company.md)
-_Context: Hewlett-Packard, PC_
+_Context: PC, Hewlett-Packard_
 
 ##### Tokyo Stock Exchange
 ### [The Tokyo Stock Exchange's Nikkei Stock Average falls by 1.9% in early trading as the trend of stock market falls continues. ](/news/2011/08/19/the-tokyo-stock-exchange-s-nikkei-stock-average-falls-by-1-9-in-early-trading-as-the-trend-of-stock-market-falls-continues.md)
-_Context: trend, Nikkei Stock Average, Tokyo Stock Exchange_
+_Context: Tokyo Stock Exchange, trend, Nikkei Stock Average_
 
 ##### J.C. Penney
 ### [U.S. retailing giant J.C. Penney agrees with its largest shareholder, William Ackman, that Ackman will cap his shareholdings at 16.5 percent, while increasing his exposure through a "synthetic long position." ](/news/2011/08/19/u-s-retailing-giant-j-c-penney-agrees-with-its-largest-shareholder-william-ackman-that-ackman-will-cap-his-shareholdings-at-16-5-percent.md)
-_Context: William Ackman, J.C. Penney_
+_Context: J.C. Penney, William Ackman_
 
 ##### Earthquake
 ### [A 6.8 magnitude earthquake occurs off the coast of Japan with a tsunami warning issued and then retracted. ](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast-of-japan-with-a-tsunami-warning-issued-and-then-retracted.md)
@@ -33,15 +33,15 @@ A strong earthquake with a preliminary magnitude of 6.8 jolted northeastern Japa
 
 ##### Chinese Academy of Sciences
 ### [A Chinese scientist is reported missing on Xinjiang Uyghur Autonomous Region's Muztagh Ata glacier after conducting research on the Tibetan Plateau. ](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.md)
-_Context: Chinese Academy of Sciences, Xinjiang Uyghur Autonomous Region, Tibetan Plateau, Muztagh Ata, glacier_
+_Context: glacier, Muztagh Ata, Chinese Academy of Sciences, Tibetan Plateau, Xinjiang Uyghur Autonomous Region_
 
 ##### Pittsburgh
 ### [Three people die in the city of Pittsburgh in the US state of Pennsylvania as a result of flash flooding. ](/news/2011/08/19/three-people-die-in-the-city-of-pittsburgh-in-the-us-state-of-pennsylvania-as-a-result-of-flash-flooding.md)
-_Context: Pittsburgh, Pennsylvania, flash flooding_
+_Context: Pennsylvania, Pittsburgh, flash flooding_
 
 ##### Sweden
 ### [The announcement of possible wreck relocation of Swedish 16th century warship Mars in the Baltic Sea. ](/news/2011/08/19/the-announcement-of-possible-wreck-relocation-of-swedish-16th-century-warship-mars-in-the-baltic-sea.md)
-_Context: Mars, Sweden, Baltic Sea_
+_Context: Sweden, Mars, Baltic Sea_
 
 ## [Previous Day...](/news/2011/08/18/index.md)
 

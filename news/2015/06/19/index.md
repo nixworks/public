@@ -9,15 +9,15 @@ Danny Gonen, 25, succumbs to wounds after coming under fire near settlement of D
 
 ##### European Central Bank
 ### [The European Central Bank increased the cap on cash available to Greek banks through emergency liquidity assistance, as those banks continue to experience steady withdrawals. Greek citizens have withdrawn over 3 billion Euros in the last month. ](/news/2015/06/19/the-european-central-bank-increased-the-cap-on-cash-available-to-greek-banks-through-emergency-liquidity-assistance-as-those-banks-continue.md)
-_Context: emergency liquidity assistance, European Central Bank_
+_Context: European Central Bank, emergency liquidity assistance_
 
 ##### Venstre
 ### [The centre-right opposition bloc led by "Venstre" wins the 2015 Danish general election, even though the Social Democrat party remains Denmark's largest. The anti-immigration Danish People's Party will be the second-largest in parliament. ](/news/2015/06/19/the-centre-right-opposition-bloc-led-by-venstre-wins-the-2015-danish-general-election-even-though-the-social-democrat-party-remains-denma.md)
-_Context: Danish People's Party, Danish general election, 2015, Venstre, Social Democrat_
+_Context: Venstre, Danish People's Party, Danish general election, 2015, Social Democrat_
 
 ##### Hawaii
 ### [Hawaii becomes the first U.S. state to raise the smoking age from 18 to 21, effective January 1, 2016, and will also outlaw sales, purchases, or uses of electronic cigarettes for those under 21. ](/news/2015/06/19/hawaii-becomes-the-first-u-s-state-to-raise-the-smoking-age-from-18-to-21-effective-january-1-2016-and-will-also-outlaw-sales-purchases.md)
-_Context: electronic cigarette, smoking age, Hawaii_
+_Context: Hawaii, electronic cigarette, smoking age_
 
 ## [Previous Day...](/news/2015/06/18/index.md)
 

@@ -17,11 +17,11 @@ _Context: 2010 Australian Open, Andy Murray, Roger Federer_
 
 ##### Egypt
 ### [Egypt become African Cup of Nations champions for a record third consecutive title after beating Ghana 1-0 in Estdio 11 de Novembro, Luanda, Angola, in the 2010 Africa Cup of Nations final. ](/news/2010/01/31/egypt-become-african-cup-of-nations-champions-for-a-record-third-consecutive-title-after-beating-ghana-1-0-in-estadio-11-de-novembro-luanda.md)
-_Context: 2010 Africa Cup of Nations, Luanda, Estdio 11 de Novembro, Egypt, Ghana national football team, Angola, African Cup of Nations_
+_Context: 2010 Africa Cup of Nations, African Cup of Nations, Luanda, Estdio 11 de Novembro, Angola, Egypt, Ghana national football team_
 
 ##### M<sub>w</sub>&nbsp;5.2
 ### [A M w &nbsp;5.2 earthquake in Sichuan province, China, kills one person and injures 11 others, destroying at least 100 homes. ](/news/2010/01/31/a-m-w-nbsp-5-2-earthquake-in-sichuan-province-china-kills-one-person-and-injures-11-others-destroying-at-least-100-homes.md)
-_Context: China, Sichuan, province, earthquake, M<sub>w</sub>&nbsp;5.2_
+_Context: China, earthquake, province, M<sub>w</sub>&nbsp;5.2, Sichuan_
 
 ##### Peru
 ### [The death toll from flooding in southern Peru rises to 20. ](/news/2010/01/31/the-death-toll-from-flooding-in-southern-peru-rises-to-20.md)
@@ -29,11 +29,11 @@ _Context: Peru_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [The Movement for the Emancipation of the Niger Delta (MEND), a militant group in the Niger delta region of Nigeria, announces the end of its unilateral ceasefire. ](/news/2010/01/31/the-movement-for-the-emancipation-of-the-niger-delta-mend-a-militant-group-in-the-niger-delta-region-of-nigeria-announces-the-end-of-its.md)
-_Context: militant, Movement for the Emancipation of the Niger Delta, Nigeria, Niger delta, ceasefire_
+_Context: Nigeria, ceasefire, Niger delta, Movement for the Emancipation of the Niger Delta, militant_
 
 ##### Burundi
 ### [Thirteen soldiers in Burundi have been arrested for allegedly plotting a coup to overthrow President Pierre Nkurunziza. ](/news/2010/01/31/thirteen-soldiers-in-burundi-have-been-arrested-for-allegedly-plotting-a-coup-to-overthrow-president-pierre-nkurunziza.md)
-_Context: military coup, Burundi, Presidents, Pierre Nkurunziza_
+_Context: Presidents, Pierre Nkurunziza, military coup, Burundi_
 
 ##### Battle of Fromelles
 ### [The remains of 250 British and Australian soldiers who died in the Battle of Fromelles during World War I are reburied in the first new Commonwealth War Graves Commission cemetery to be constructed in 50 years. ](/news/2010/01/31/the-remains-of-250-british-and-australian-soldiers-who-died-in-the-battle-of-fromelles-during-world-war-i-are-reburied-in-the-first-new-comm.md)

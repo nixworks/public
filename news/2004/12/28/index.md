@@ -5,15 +5,15 @@ Formats: [HTML](2004/12/28/index.html)  [JSON](2004/12/28/index.json)  [XML](200
 
 ##### Shiveluch
 ### [ The Shiveluch volcano on Russia's Kamchatka Peninsula erupts, causing a large earthquake and producing a 6500 ft plume of hot ash. ](/news/2004/12/28/the-shiveluch-volcano-on-russia-s-kamchatka-peninsula-erupts-causing-a-large-earthquake-and-producing-a-6500-ft-plume-of-hot-ash.md)
-_Context: Kamchatka Peninsula, earthquake, Shiveluch, volcano_
+_Context: Shiveluch, earthquake, volcano, Kamchatka Peninsula_
 
 ##### Israeli-Palestinian conflict
 ### [ An Israeli unmanned drone attempts to kill two suspected Hamas militants in Khan Yunis allegedly on their way to launch an attack on Israelis in Gush Katif with mortar weapons. An Israeli tank fires a shell in Khan Yunis wounding at least nine Palestinians, including a 13-year-old boy. IDF officials say they were opening fire at the source of Qassam rockets fired by Palestinians that landed in Neve Dekalim. No injuries are reported from the Qassam rocket attacks. ](/news/2004/12/28/an-israeli-unmanned-drone-attempts-to-kill-two-suspected-hamas-militants-in-khan-yunis-allegedly-on-their-way-to-launch-an-attack-on-israel.md)
-_Context: Neve Dekalim, Israeli soldier, Israeli-Palestinian conflict, Khan Yunis, Mortar, Qassam rocket, unmanned drone plane, Gush Katif, Hamas, Palestinians, Israel_
+_Context: Israeli-Palestinian conflict, Palestinians, Khan Yunis, Qassam rocket, Neve Dekalim, unmanned drone plane, Gush Katif, Israeli soldier, Israel, Hamas, Mortar_
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: In an apparent coordinated attack, insurgents raid a police station in Dijla and execute 12 police officers. Three Iraqi policemen are shot at a checkpoint outside of Tikrit. Four policemen and one national guardsman are gunned down at a police station in Ishaki. A local police commander is assassinated in Baquba. A car bomb detonated near a US-Iraqi military convoy in Samarra kills three national guardsmen and three civilians. All these attacks occurred in the Sunni Triangle. ](/news/2004/12/28/conflict-in-iraq-in-an-apparent-coordinated-attack-insurgents-raid-a-police-station-in-dijla-and-execute-12-police-officers-three-iraqi.md)
-_Context: Samarra, Dijla, Ishaki, Iraqi insurgency, Sunni Triangle, Tikrit, Baquba, Iraq, Conflict in Iraq_
+_Context: Conflict in Iraq, Iraq, Iraqi insurgency, Sunni Triangle, Dijla, Ishaki, Baquba, Samarra, Tikrit_
 
 ##### Tsunami
 ### [ The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 59,000 and still rising. ](/news/2004/12/28/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-59-000-and-still-rising.md)
@@ -25,7 +25,7 @@ _Context: Colombia, Revolutionary Armed Forces of Colombia_
 
 ##### Ukrainian presidential election
 ### [ Ukrainian presidential election: Prime Minister Viktor Yanukovych challenges the result of the re-run of the presidential election and threatens to take the case to the Supreme Court. ](/news/2004/12/28/ukrainian-presidential-election-prime-minister-viktor-yanukovych-challenges-the-result-of-the-re-run-of-the-presidential-election-and-thre.md)
-_Context: Viktor Yanukovych, Supreme Administrative Court of Ukraine, Prime Minister of Ukraine, Ukrainian presidential election_
+_Context: Supreme Administrative Court of Ukraine, Ukrainian presidential election, Viktor Yanukovych, Prime Minister of Ukraine_
 
 ## [Previous Day...](/news/2004/12/27/index.md)
 

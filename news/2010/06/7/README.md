@@ -9,7 +9,7 @@ Senior IDF officer says investigation of incident off Gaza&#39;s coastline deter
 
 ##### Canadian
 ### [Canadian poet Anne Michaels's novel "Fugitive Pieces" has been judged, by a panel of teenagers, the best Orange Prize for Fiction winner in its 15-year history. "Fugitive Pieces" won the Prize in 1997. ](/news/2010/06/7/canadian-poet-anne-michaels-s-novel-fugitive-pieces-has-been-judged-by-a-panel-of-teenagers-the-best-orange-prize-for-fiction-winner-in.md)
-_Context: Orange Prize for Fiction, Canadian, Fugitive Pieces, teenagers, Anne Michaels_
+_Context: Anne Michaels, Fugitive Pieces, Canadian, teenagers, Orange Prize for Fiction_
 
 ##### Chinese stock market
 ### [Chinese stock markets closed down Monday on weaker global recovery prospects. ](/news/2010/06/7/chinese-stock-markets-closed-down-monday-on-weaker-global-recovery-prospects.md)
@@ -17,7 +17,7 @@ _Context: Chinese stock market_
 
 ##### Tropical Storm Agatha
 ### [A total of 172 people are killed in the floods caused by Tropical Storm Agatha that struck Guatemala. ](/news/2010/06/7/a-total-of-172-people-are-killed-in-the-floods-caused-by-tropical-storm-agatha-that-struck-guatemala.md)
-_Context: Guatemala, Tropical Storm Agatha_
+_Context: Tropical Storm Agatha, Guatemala_
 
 ##### Midwest U.S.
 ### [At least 5 people are confirmed dead as tornados and storms batter the Midwest U.S. state of Ohio. ](/news/2010/06/7/at-least-5-people-are-confirmed-dead-as-tornados-and-storms-batter-the-midwest-u-s-state-of-ohio.md)
@@ -37,11 +37,11 @@ Mexico police find 55 bodies in an abandoned mine that appears to have been used
 
 ##### Polish
 ### [Polish officials say 6,000 Polish zloty were withdrawn using credit cards stolen from a passenger killed in the 2010 Polish Air Force Tu-154 crash near Smolensk. Poland says four soldiers have been arrested, while Russia denies this. ](/news/2010/06/7/polish-officials-say-6-000-polish-zloty-were-withdrawn-using-credit-cards-stolen-from-a-passenger-killed-in-the-2010-polish-air-force-tu-154.md)
-_Context: Polish zloty, Polish, Smolensk, Russia, 2010 Polish Air Force Tu-154 crash_
+_Context: 2010 Polish Air Force Tu-154 crash, Smolensk, Polish zloty, Polish, Russia_
 
 ##### Derailment
 ### [9 passengers are injured and a train carriage left dangling over an embankment after a derailment in Scotland. ](/news/2010/06/7/9-passengers-are-injured-and-a-train-carriage-left-dangling-over-an-embankment-after-a-derailment-in-scotland.md)
-_Context: derailment, Scotland_
+_Context: Scotland, derailment_
 
 ##### Migrant worker
 ### [The number of migrant workers who died or were injured at South Korea's workplaces has risen over the last three years to reach nearly 14,500. ](/news/2010/06/7/the-number-of-migrant-workers-who-died-or-were-injured-at-south-korea-s-workplaces-has-risen-over-the-last-three-years-to-reach-nearly-14-50.md)
@@ -49,7 +49,7 @@ _Context: migrant worker, South Korea_
 
 ##### Cyprus
 ### [The Cyprus-based Free Gaza Movement packs up and leaves Cyprus for London after the Cypriot government's decision to interfere with and disrupt last week's international aid flotilla. ](/news/2010/06/7/the-cyprus-based-free-gaza-movement-packs-up-and-leaves-cyprus-for-london-after-the-cypriot-government-s-decision-to-interfere-with-and-disr.md)
-_Context: Cyprus, London, Free Gaza Movement_
+_Context: Free Gaza Movement, London, Cyprus_
 
 ##### Helen Thomas
 ### [Veteran American journalist Helen Thomas announces she is retiring, after apologizing for making remarks saying Jews should leave Israel and return to Europe are widely condemned in the United States. ](/news/2010/06/7/veteran-american-journalist-helen-thomas-announces-she-is-retiring-after-apologizing-for-making-remarks-saying-jews-should-leave-israel-and.md)
@@ -75,11 +75,11 @@ A US military analyst is arrested on suspicion of leaking combat video and thous
 
 ##### Chancellor
 ### [Chancellor Angela Merkel agrees EUR80 billion of savings spread across four years with her coalition cabinet. ](/news/2010/06/7/chancellor-angela-merkel-agrees-a-80-billion-of-savings-spread-across-four-years-with-her-coalition-cabinet.md)
-_Context: Angela Merkel, her coalition cabinet, Chancellor_
+_Context: her coalition cabinet, Chancellor, Angela Merkel_
 
 ##### North Korea
 ### [North Korea holds a rare second session of its parliament, with Choe Yong-rim appointed to replace Kim Yong-il as Premier. ](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.md)
-_Context: Premier, Choe Yong-rim, Kim Yong-il, North Korea, its parliament_
+_Context: Kim Yong-il, Premier, Choe Yong-rim, its parliament, North Korea_
 
 ##### Maize
 ### [The genetically modified variety of maize known as NK603, outlawed across the European Union, is sown and contaminates fields in seven German states. ](/news/2010/06/7/the-genetically-modified-variety-of-maize-known-as-nk603-outlawed-across-the-european-union-is-sown-and-contaminates-fields-in-seven-germa.md)

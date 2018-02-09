@@ -9,7 +9,7 @@ _Context: Hosni Mubarak_
 
 ##### Southern Sudan
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
-_Context: Jonglei, Southern Sudan, state_
+_Context: Jonglei, state, Southern Sudan_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. ](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recruitment-centre-in-northwestern-pakistan-causing-at-least-27-deaths-and-40-injuries.md)
@@ -17,11 +17,11 @@ A boy in a school uniform blew himself up at a Pakistani army recruitment center
 
 ##### Revolutionary Armed Forces of Colombia
 ### [The FARC organisation releases the first of five hostages promised this week as a gesture of peace to the government in Colombia. ](/news/2011/02/10/the-farc-organisation-releases-the-first-of-five-hostages-promised-this-week-as-a-gesture-of-peace-to-the-government-in-colombia.md)
-_Context: Colombia, Revolutionary Armed Forces of Colombia_
+_Context: Revolutionary Armed Forces of Colombia, Colombia_
 
 ##### Israel
 ### [Israeli forces remove Palestinian tents near Nablus of which 8 were reportedly used as homes.](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.md)
-_Context: Nablus, Israel_
+_Context: Israel, Nablus_
 
 ##### Vietnam
 ### [Vietnam is to host the debut International Choir Festival. ](/news/2011/02/10/vietnam-is-to-host-the-debut-international-choir-festival.md)
@@ -57,11 +57,11 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 
 ##### Indonesia
 ### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
-_Context: terrorism, Indonesia, Muslim, Jakarta, Abu Bakar Bashir_
+_Context: Muslim, Jakarta, Indonesia, terrorism, Abu Bakar Bashir_
 
 ##### China
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)
-_Context: China, house arrest, Chen Guangcheng_
+_Context: house arrest, China, Chen Guangcheng_
 
 ##### The House of Commons
 ### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)

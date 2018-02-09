@@ -9,7 +9,7 @@ A strain of the salmonella bacteria that sickened more than 1,300 people has bee
 
 ##### Israeli Prime Minister
 ### [ Prime Minister of Israel Ehud Olmert announces his intention to resign as Prime Minister in two months as his Kadima party chooses a new leader. He will also resign as Chairman of Kadima effective in two months. One reason for resignation is the corruption scandal in which Olmert is embattled. ](/news/2008/07/30/prime-minister-of-israel-ehud-olmert-announces-his-intention-to-resign-as-prime-minister-in-two-months-as-his-kadima-party-chooses-a-new-le.md)
-_Context: Ehud Olmert, Kadima, Israeli Prime Minister_
+_Context: Israeli Prime Minister, Kadima, Ehud Olmert_
 
 ##### U.S. President
 ### [ U.S. President George W. Bush signs The Housing and Economic Recovery Act of 2008 in response to the subprime mortgage crisis. ](/news/2008/07/30/u-s-president-george-w-bush-signs-the-housing-and-economic-recovery-act-of-2008-in-response-to-the-subprime-mortgage-crisis.md)
@@ -17,15 +17,15 @@ U.S. President George W. Bush on Wednesday signed into law a sweeping rescue pac
 
 ##### United Kingdom
 ### [ In the United Kingdom, the Appellate Committee of the House of Lords rejects an appeal by alleged British computer hacker Gary McKinnon against extradition to the United States to face charges of hacking into Pentagon and NASA computers. ](/news/2008/07/30/in-the-united-kingdom-the-appellate-committee-of-the-house-of-lords-rejects-an-appeal-by-alleged-british-computer-hacker-gary-mckinnon-aga.md)
-_Context: Gary McKinnon, extradition, United States military, United Kingdom, NASA, computer, hacker, Appellate Committee of the House of Lords, United States_
+_Context: United States, United Kingdom, extradition, NASA, computer, Appellate Committee of the House of Lords, Gary McKinnon, hacker, United States military_
 
 ##### Australia
 ### [ Air safety investigators from the Australian Transport Safety Bureau confirm an oxygen cylinder was responsible for an explosion on board Qantas Flight 30 on 25 July 2008. ](/news/2008/07/30/air-safety-investigators-from-the-australian-transport-safety-bureau-confirm-an-oxygen-cylinder-was-responsible-for-an-explosion-on-board-q.md)
-_Context: Australian Transport Safety Bureau, safety, Qantas Flight 30, oxygen cylinder, Australia_
+_Context: safety, Australian Transport Safety Bureau, Australia, oxygen cylinder, Qantas Flight 30_
 
 ##### Bosnian Serb
 ### [ Bosnian Serb leader Radovan Karadzic is flown to The Hague to face a trial in the International Criminal Tribunal for the former Yugoslavia. ](/news/2008/07/30/bosnian-serb-leader-radovan-karada3-4ia-is-flown-to-the-hague-to-face-a-trial-in-the-international-criminal-tribunal-for-the-former-yugoslav.md)
-_Context: Radovan Karadzic, The Hague, Bosnian Serb, International Criminal Tribunal for the former Yugoslavia_
+_Context: The Hague, Radovan Karadzic, Bosnian Serb, International Criminal Tribunal for the former Yugoslavia_
 
 ##### NASA
 ### [ NASA confirms liquid lake on Titan. ](/news/2008/07/30/nasa-confirms-liquid-lake-on-titan.md)

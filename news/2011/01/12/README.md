@@ -33,15 +33,15 @@ More than 250 people die in the mountains of Rio de Janeiro state as flooding an
 
 ##### Haiti
 ### [Haitians commemorate the first anniversary of the 2010 earthquake. ](/news/2011/01/12/haitians-commemorate-the-first-anniversary-of-the-2010-earthquake.md)
-_Context: 2010 Haiti earthquake, Haiti_
+_Context: Haiti, 2010 Haiti earthquake_
 
 ##### South Korea
 ### [The South Korean Ministry for Reunification advises that it has reopened Red Cross communications with North Korea over the Panmunjom Border Area. ](/news/2011/01/12/the-south-korean-ministry-for-reunification-advises-that-it-has-reopened-red-cross-communications-with-north-korea-over-the-panmunjom-border.md)
-_Context: Red Cross, Panmunjeom, South Korea, North Korea_
+_Context: South Korea, Red Cross, Panmunjeom, North Korea_
 
 ##### Palestine
 ### [Palestinian militants on the Gaza Strip tell Hamas that they will cease firing rockets at Israel in order to prevent an Israel Defense Forces offensive. ](/news/2011/01/12/palestinian-militants-on-the-gaza-strip-tell-hamas-that-they-will-cease-firing-rockets-at-israel-in-order-to-prevent-an-israel-defense-force.md)
-_Context: Palestine, Israel Defense Forces, Israel, Gaza Strip, Hamas_
+_Context: Palestine, Israel Defense Forces, Israel, Hamas, Gaza Strip_
 
 ##### Tunisia
 ### [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md)
@@ -53,11 +53,11 @@ Officials say the 60 per cent benchmark needed to validate secession referendum 
 
 ##### Lebanese
 ### [Lebanon's Government led by Prime Minister Saad Hariri collapses following the withdrawal of Hezbollah. ](/news/2011/01/12/lebanon-s-government-led-by-prime-minister-saad-hariri-collapses-following-the-withdrawal-of-hezbollah.md)
-_Context: Hezbollah, Government, Lebanese, Saad Hariri, Prime Minister_
+_Context: Saad Hariri, Hezbollah, Lebanese, Prime Minister, Government_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama addresses the nation about the 2011 Tucson shooting following a visit to Representative Gabrielle Giffords in hospital. ](/news/2011/01/12/the-president-of-the-united-states-barack-obama-addresses-the-nation-about-the-2011-tucson-shooting-following-a-visit-to-representative-gabr.md)
-_Context: Barack Obama, 2011 Tucson shooting, Gabrielle Giffords, House of Representatives, U.S. President_
+_Context: Gabrielle Giffords, U.S. President, United States House of Representatives, 2011 Tucson shooting, Barack Obama_
 
 ##### Burma
 ### [Burma has passed a law enacting conscription for both males and females.](/news/2011/01/12/burma-has-passed-a-law-enacting-conscription-for-both-males-and-females.md)

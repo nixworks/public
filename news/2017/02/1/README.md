@@ -5,7 +5,7 @@ Formats: [HTML](2017/02/1/index.html)  [JSON](2017/02/1/index.json)  [XML](2017/
 
 ##### Azerbaijan
 ### [Four alleged extremists planning terror attacks in Azerbaijan are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group was connected to an unspecified religious extremist group abroad. ](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-in-azerbaijan-are-killed-in-a-shootout-with-the-country-s-security-forces-one-suspect-is-ar.md)
-_Context: shootout, country's security forces, Azerbaijan_
+_Context: shootout, Azerbaijan, country's security forces_
 
 ##### European Union roaming regulations
 ### [Negotiators reach a preliminary deal on capping mobile phone intercarrier ("wholesale") tariffs. Roaming charges on voice and data calls for consumers within the EU are expected to be terminated on June 15, 2017. ](/news/2017/02/1/negotiators-reach-a-preliminary-deal-on-capping-mobile-phone-intercarrier-wholesale-tariffs-roaming-charges-on-voice-and-data-calls-for.md)
@@ -21,7 +21,7 @@ A &quot;reckless&quot; attempt to save cash leads to starvation and dehydration 
 
 ##### Israel
 ### [Israel announces it will build an entirely new settlement in the West Bank for the first time in about twenty years. Many in the international community believe that such settlements are illegal but Israel disputes that. The settlement program is illegal under international law. ](/news/2017/02/1/israel-announces-it-will-build-an-entirely-new-settlement-in-the-west-bank-for-the-first-time-in-about-twenty-years-many-in-the-internation.md)
-_Context: West Bank, Israel_
+_Context: Israel, West Bank_
 
 ##### United Kingdom
 ### [The United Kingdom's House of Commons backs the Brexit bill by 498 votes to 114. ](/news/2017/02/1/the-united-kingdom-s-house-of-commons-backs-the-brexit-bill-by-498-votes-to-114.md)
@@ -29,7 +29,7 @@ The House of Commons vote was a crucial hurdle on the way to the country&rsquo;s
 
 ##### Israel
 ### [Israeli security forces begin evicting people from the illegal Amona, Mateh Binyamin, outpost built on private Palestinian-owned land near Ramallah in the central West Bank. The Supreme Court ordered residents to leave the area last year. ](/news/2017/02/1/israeli-security-forces-begin-evicting-people-from-the-illegal-amona-mateh-binyamin-outpost-built-on-private-palestinian-owned-land-near-r.md)
-_Context: Palestine, Amona, Mateh Binyamin, unauthorized outpost, Ramallah, Supreme Court, Israel, West Bank_
+_Context: Palestine, West Bank, Amona, Mateh Binyamin, unauthorized outpost, Ramallah, Supreme Court, Israel_
 
 ##### ZeniMax Media
 ### [A jury finds in favor of video game publisher ZeniMax Media after the trial of its copyright lawsuit against Oculus and Facebook, regarding virtual reality coding. ](/news/2017/02/1/a-jury-finds-in-favor-of-video-game-publisher-zenimax-media-after-the-trial-of-its-copyright-lawsuit-against-oculus-and-facebook-regarding.md)

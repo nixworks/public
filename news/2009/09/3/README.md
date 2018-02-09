@@ -17,11 +17,11 @@ Magnitude seven earthquake leave at least 46 people dead and thousands homeless.
 
 ##### Gabonese presidential election
 ### [ The results of Gabon's presidential election were delayed as backers of the main candidates waited outside the offices of the Electoral Commission. ](/news/2009/09/3/the-results-of-gabon-s-presidential-election-were-delayed-as-backers-of-the-main-candidates-waited-outside-the-offices-of-the-electoral-com.md)
-_Context: Gabonese presidential election, Gabon_
+_Context: Gabon, Gabonese presidential election_
 
 ##### Andromeda Galaxy
 ### [ Research indicates the Andromeda Galaxy appears to have expanded by digesting stars from other galaxies. ](/news/2009/09/3/research-indicates-the-andromeda-galaxy-appears-to-have-expanded-by-digesting-stars-from-other-galaxies.md)
-_Context: galaxies, Andromeda Galaxy, star_
+_Context: galaxies, star, Andromeda Galaxy_
 
 ##### Burma
 ### [ Burma's opposition leader Aung San Suu Kyi lodges an appeal against her conviction for breaching the terms of her house arrest. ](/news/2009/09/3/burma-s-opposition-leader-aung-san-suu-kyi-lodges-an-appeal-against-her-conviction-for-breaching-the-terms-of-her-house-arrest.md)
@@ -45,7 +45,7 @@ _Context: Australia_
 
 ##### Russia
 ### [ The Russian Supreme Court overturns a lower court ruling in the murder of journalist Anna Politkovskaya, ordering several probes into her death to be merged into one. ](/news/2009/09/3/the-russian-supreme-court-overturns-a-lower-court-ruling-in-the-murder-of-journalist-anna-politkovskaya-ordering-several-probes-into-her-d.md)
-_Context: Supreme Court, Anna Politkovskaya, Russia_
+_Context: Anna Politkovskaya, Russia, Supreme Court_
 
 ##### Thailand
 ### [ 11 people are shot dead and a bomb at a restaurant injures 27 amid unrest in Thailand's Muslim south. ](/news/2009/09/3/11-people-are-shot-dead-and-a-bomb-at-a-restaurant-injures-27-amid-unrest-in-thailand-s-muslim-south.md)

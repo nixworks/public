@@ -9,7 +9,7 @@ During the &quot;secret&quot; parleys with the alliance leaders in New Delhi, th
 
 ##### Albert II, Prince of Monaco
 ### [ Prince Albert of Monaco is formally enthroned. ](/news/2005/11/19/prince-albert-of-monaco-is-formally-enthroned.md)
-_Context: Albert II, Prince of Monaco, Monaco_
+_Context: Monaco, Albert II, Prince of Monaco_
 
 ## [Previous Day...](/news/2005/11/18/index.md)
 

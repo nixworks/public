@@ -37,7 +37,7 @@ Six people were confirmed dead Tuesday evening, when a Metro-North struck a car 
 
 ##### Iranian parliament
 ### [The Iranian parliament passes a new bill that requires the Rouhani administration to cancel the Geneva interim agreement on the Iranian nuclear program in case of new US sanctions, as a response to a similar action by the Congress. ](/news/2015/02/3/the-iranian-parliament-passes-a-new-bill-that-requires-the-rouhani-administration-to-cancel-the-geneva-interim-agreement-on-the-iranian-nucl.md)
-_Context: Geneva interim agreement on the Iranian nuclear program, Iranian parliament, Rouhani_
+_Context: Geneva interim agreement on the Iranian nuclear program, Rouhani, Iranian parliament_
 
 ##### Standard & Poor's
 ### [Standard & Poor's reaches settlements totaling $1.5 billion with the U.S. Justice Department and several U.S. states for inflating ratings on subprime mortgage bonds in the lead-up to the 2008 financial crisis. ](/news/2015/02/3/standard-poor-s-reaches-settlements-totaling-1-5-billion-with-the-u-s-justice-department-and-several-u-s-states-for-inflating-ratings-o.md)

@@ -17,7 +17,7 @@ _Context: Pakistan, Pakistani police, Peshawar_
 
 ##### Iran
 ### [Iran frees detained Al-Jazeera journalist Dorothy Parvaz, who had not been seen since being detained in Syria on April 29. ](/news/2011/05/18/iran-frees-detained-al-jazeera-journalist-dorothy-parvaz-who-had-not-been-seen-since-being-detained-in-syria-on-april-29.md)
-_Context: Al-Jazeera, Iran, Syria, Dorothy Parvaz_
+_Context: Iran, Dorothy Parvaz, Syria, Al-Jazeera_
 
 ##### Afghanistan
 ### [At least twelve people are killed and 80 injured during a protest in the Afghan city of Taloqan against the killing of four civilians in a NATO raid. ](/news/2011/05/18/at-least-twelve-people-are-killed-and-80-injured-during-a-protest-in-the-afghan-city-of-taloqan-against-the-killing-of-four-civilians-in-a-n.md)
@@ -25,7 +25,7 @@ At least 12 people are shot dead and 80 wounded by security forces in northern A
 
 ##### United States
 ### [The United States announces plans to impose sanctions on the President of Syria, Bashar al-Assad, and six members of his government, for alleged human rights breaches during the 2011 Syrian uprising. ](/news/2011/05/18/the-united-states-announces-plans-to-impose-sanctions-on-the-president-of-syria-bashar-al-assad-and-six-members-of-his-government-for-all.md)
-_Context: United States, 2011 Syrian uprising, human rights, President, Bashar al-Assad_
+_Context: human rights, Bashar al-Assad, President, United States, 2011 Syrian uprising_
 
 ##### United Nations
 ### [The United Nations claims that Sudan has bombed a village in Darfur. ](/news/2011/05/18/the-united-nations-claims-that-sudan-has-bombed-a-village-in-darfur.md)
@@ -41,7 +41,7 @@ Moody&#039;s cuts the ratings of Australia&#039;s big four banks from Aa2 to Aa1
 
 ##### Mwanza Province
 ### [Fifteen people are killed after two buses collide in Mwanza Province, northern Tanzania. ](/news/2011/05/18/fifteen-people-are-killed-after-two-buses-collide-in-mwanza-province-northern-tanzania.md)
-_Context: Tanzania, Mwanza Province_
+_Context: Mwanza Province, Tanzania_
 
 ##### United States Coast Guard
 ### [The United States Coast Guard reopens a section of the Mississippi River to shipping that was closed on Tuesday as a result of the 2011 Mississippi River floods. ](/news/2011/05/18/the-united-states-coast-guard-reopens-a-section-of-the-mississippi-river-to-shipping-that-was-closed-on-tuesday-as-a-result-of-the-2011-miss.md)
@@ -49,11 +49,11 @@ The US Coast Guard re-opens a section of the swollen Mississippi River to shippi
 
 ##### Tornado
 ### [A tornado hits the US city of Philadelphia, Pennsylvania for the first time since 1999. ](/news/2011/05/18/a-tornado-hits-the-us-city-of-philadelphia-pennsylvania-for-the-first-time-since-1999.md)
-_Context: Philadelphia, Pennsylvania, Pennsylvania, tornado_
+_Context: tornado, Philadelphia, Pennsylvania, Pennsylvania_
 
 ##### Sol Lneas Areas
 ### [Sol Lneas Areas Flight 5428 aircraft crashes in the southern Patagonia region of Argentina with all 22 people on board dying - icing of the propellor driven Saab 340 is cited as a possible cause. ](/news/2011/05/18/sol-lineas-aereas-flight-5428-aircraft-crashes-in-the-southern-patagonia-region-of-argentina-with-all-22-people-on-board-dying-icing-of-th.md)
-_Context: Argentina, Sol Lneas Areas, Saab 340, Flight 5428, Patagonia_
+_Context: Patagonia, Flight 5428, Saab 340, Argentina, Sol Lneas Areas_
 
 ##### Palestinian Authority
 ### [The Palestinian Authority calls on Israel to reinstate the rights of up to 140,000 people who lived in the occupied West Bank and lost their residency after travelling abroad. ](/news/2011/05/18/the-palestinian-authority-calls-on-israel-to-reinstate-the-rights-of-up-to-140-000-people-who-lived-in-the-occupied-west-bank-and-lost-their.md)
@@ -61,11 +61,11 @@ The Palestinian Authority wants Israel to reinstate the lost residency rights of
 
 ##### Dmitry Medvedev
 ### [Dmitry Medvedev, the President of Russia, warns of a potential new Cold War if the United States does not listen to Russia's concerns about its proposed missile defense system. ](/news/2011/05/18/dmitry-medvedev-the-president-of-russia-warns-of-a-potential-new-cold-war-if-the-united-states-does-not-listen-to-russia-s-concerns-about.md)
-_Context: Dmitry Medvedev, United States, missile defense, Russia, Russian President, Cold War_
+_Context: Russia, Russian President, United States, missile defense, Cold War, Dmitry Medvedev_
 
 ##### UK royal state visit to Ireland
 ### [UK royal state visit to Ireland: Queen Elizabeth II of the United Kingdom visits Croke Park in Dublin, where British troops killed 20 people in the Bloody Sunday massacre of 1920. ](/news/2011/05/18/uk-royal-state-visit-to-ireland-queen-elizabeth-ii-of-the-united-kingdom-visits-croke-park-in-dublin-where-british-troops-killed-20-people.md)
-_Context: Croke Park, Queen Elizabeth II, Bloody Sunday massacre of 1920, United Kingdom, UK royal state visit to Ireland, Dublin_
+_Context: Queen Elizabeth II, Bloody Sunday massacre of 1920, UK royal state visit to Ireland, United Kingdom, Croke Park, Dublin_
 
 ##### Ali Akbar Salehi
 ### [Ali Akbar Salehi, the Foreign Affairs Minister of Iran, claims that the Bushehr Nuclear Power Plant is operational. ](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.md)
@@ -73,15 +73,15 @@ Nuclear power plant has reached critical mass, will be powered up within weeks, 
 
 ##### Andrew Fastow
 ### [Andrew Fastow, the former Chief Financial Officer of Enron Corp., now in the custody of the Federal Bureau of Prisons with a release date of December 17, 2011, moves to a half-way house in Houston, Texas. ](/news/2011/05/18/andrew-fastow-the-former-chief-financial-officer-of-enron-corp-now-in-the-custody-of-the-federal-bureau-of-prisons-with-a-release-date-of.md)
-_Context: Houston, Chief Financial Officer, Texas, Federal Bureau of Prisons, Andrew Fastow, Enron Corp._
+_Context: Texas, Federal Bureau of Prisons, Chief Financial Officer, Houston, Enron Corp., Andrew Fastow_
 
 ##### Chicago
 ### [The jury is seated for the trial of Chicago businessman Tahawwur Hussain Rana for his alleged role in the 2008 Mumbai terrorist attacks. ](/news/2011/05/18/the-jury-is-seated-for-the-trial-of-chicago-businessman-tahawwur-hussain-rana-for-his-alleged-role-in-the-2008-mumbai-terrorist-attacks.md)
-_Context: Chicago, 2008 Mumbai attacks, Tahawwur Hussain Rana_
+_Context: Chicago, Tahawwur Hussain Rana, 2008 Mumbai attacks_
 
-##### President
+##### Guatemalan President
 ### [The President of Guatemala, Alvaro Colom, claims that Hugo Alvaro Gomez Vasquez, who has been arrested in relation to the killing of 27 cattle ranch workers, is a leader of the Los Zetas drug cartel in the country. ](/news/2011/05/18/the-president-of-guatemala-alvaro-colom-claims-that-hugo-alvaro-gomez-vasquez-who-has-been-arrested-in-relation-to-the-killing-of-27-catt.md)
-_Context: cattle ranch, Alvaro Colom, President, Los Zetas Cartel, Hugo Alvaro Gomez Vasquez_
+_Context: Guatemalan President, Hugo Alvaro Gomez Vasquez, Los Zetas Cartel, cattle ranch, Alvaro Colom_
 
 ##### Afghan
 ### [An Afghan detainee commits suicide at the US run Guantanamo Bay detention camp. ](/news/2011/05/18/an-afghan-detainee-commits-suicide-at-the-us-run-guantanamo-bay-detention-camp.md)
@@ -93,11 +93,11 @@ South Africans go to the polls to vote in local elections after one of the most 
 
 ##### San Francisco, California
 ### [Voters in the US city of San Francisco, California, will vote on a proposition to ban male circumcision in November. ](/news/2011/05/18/voters-in-the-us-city-of-san-francisco-california-will-vote-on-a-proposition-to-ban-male-circumcision-in-november.md)
-_Context: California, San Francisco, California, male circumcision_
+_Context: San Francisco, California, male circumcision, California_
 
 ##### Space Shuttle ''Endeavour''
 ### [The Space Shuttle "Endeavour" docks at the International Space Station for the final time. ](/news/2011/05/18/the-space-shuttle-endeavour-docks-at-the-international-space-station-for-the-final-time.md)
-_Context: Space Shuttle ''Endeavour'', International Space Station, final mission_
+_Context: Space Shuttle ''Endeavour'', final mission, International Space Station_
 
 ## [Previous Day...](/news/2011/05/17/index.md)
 

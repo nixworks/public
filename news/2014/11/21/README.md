@@ -19,9 +19,9 @@ Harare, Nov 21 (IANS/EFE) At least 11 people were killed and 40 others injured i
 ### [The World Health Organization reports that an outbreak of bubonic plague in Madagascar has killed 40 people. ](/news/2014/11/21/the-world-health-organization-reports-that-an-outbreak-of-bubonic-plague-in-madagascar-has-killed-40-people.md)
 An outbreak of plague in Madagascar has killed 40 people and infected dozens of others, the World Health Organization says.
 
-##### House of Representatives
+##### United States House of Representatives
 ### [The United States House of Representatives files a lawsuit against President Barack Obama for executive actions undertaken in relation to the implementation of the Affordable Care Act. ](/news/2014/11/21/the-united-states-house-of-representatives-files-a-lawsuit-against-president-barack-obama-for-executive-actions-undertaken-in-relation-to-th.md)
-_Context: executive actions, House of Representatives, U.S. President, Obamacare, Barack Obama_
+_Context: Barack Obama, Obamacare, executive actions, U.S. President, United States House of Representatives_
 
 ## [Previous Day...](/news/2014/11/20/index.md)
 

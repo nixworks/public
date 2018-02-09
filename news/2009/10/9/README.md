@@ -5,15 +5,15 @@ Formats: [HTML](2009/10/9/index.html)  [JSON](2009/10/9/index.json)  [XML](2009/
 
 ##### United Nations
 ### [ A United Nations plane from Uruguay attached to MINUSTAH monitoring the Haiti&ndash;Dominican Republic border crashes near Fonds-Verrettes, killing at least 11 people from Jordan and Uruguay. ](/news/2009/10/9/a-united-nations-plane-from-uruguay-attached-to-minustah-monitoring-the-haiti-ndash-dominican-republic-border-crashes-near-fonds-verrettes.md)
-_Context: MINUSTAH, Haiti, United Nations, Uruguay, Jordan, Fonds-Verrettes, Dominican Republic_
+_Context: Uruguay, Haiti, MINUSTAH, Jordan, Fonds-Verrettes, United Nations, Dominican Republic_
 
 ##### General Motors
 ### [ General Motors finalizes a deal to sell Hummer to China's Sichuan Tengzhong Heavy Industrial Machinery Company. ](/news/2009/10/9/general-motors-finalizes-a-deal-to-sell-hummer-to-china-s-sichuan-tengzhong-heavy-industrial-machinery-company.md)
-_Context: Sichuan Tengzhong Heavy Industrial Machinery Company, General Motors, Hummer_
+_Context: General Motors, Sichuan Tengzhong Heavy Industrial Machinery Company, Hummer_
 
 ##### Lunar ice
 ### [ In an attempt to determine the extent of lunar ice, NASA crashes two unmanned spacecraft into the Moon's south pole. ](/news/2009/10/9/in-an-attempt-to-determine-the-extent-of-lunar-ice-nasa-crashes-two-unmanned-spacecraft-into-the-moon-s-south-pole.md)
-_Context: NASA, lunar ice, Moon, LCROSS_
+_Context: LCROSS, NASA, Moon, lunar ice_
 
 ##### Polish
 ### [ A statement on Polish President Lech Kaczynski's website says a signing ceremony of the treaty will take place on Saturday at 1000 GMT. ](/news/2009/10/9/a-statement-on-polish-president-lech-kaczyaski-s-website-says-a-signing-ceremony-of-the-treaty-will-take-place-on-saturday-at-1000-gmt.md)
@@ -21,7 +21,7 @@ Czech President Vaclav Klaus wants an opt-out on the Charter of Fundamental Righ
 
 ##### Aung San Suu Kyi
 ### [ Aung San Suu Kyi is permitted to meet international diplomats to discuss international sanctions against Burma. ](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.md)
-_Context: Burma, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, Burma_
 
 ##### United States
 ### [ U.S. president Barack Obama wins the Nobel Peace Prize "for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples." ](/news/2009/10/9/u-s-president-barack-obama-wins-the-nobel-peace-prize-afor-his-extraordinary-efforts-to-strengthen-international-diplomacy-and-cooperati.md)
@@ -41,11 +41,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Wallace Souza
 ### [ Wallace Souza, the former Brazilian state legislator and host of "Canal Livre" who faces accusations of drug trafficking and murder, surrenders to police after being a fugitive for four days. ](/news/2009/10/9/wallace-souza-the-former-brazilian-state-legislator-and-host-of-canal-livre-who-faces-accusations-of-drug-trafficking-and-murder-surren.md)
-_Context: Canal Livre, Wallace Souza, Brazil_
+_Context: Brazil, Canal Livre, Wallace Souza_
 
 ##### India
 ### [ India plans a new offensive against Maoist Naxalite rebels active in parts of the country. ](/news/2009/10/9/india-plans-a-new-offensive-against-maoist-naxalite-rebels-active-in-parts-of-the-country.md)
-_Context: Maoist, Naxalite, India_
+_Context: Naxalite, India, Maoist_
 
 ##### Pakistan
 ### [ A suspected suicide car-bomber kills 49 people in the Pakistani city of Peshawar in an attack that the government said underscored the need for an all-out offensive against the Pakistani Taliban. ](/news/2009/10/9/a-suspected-suicide-car-bomber-kills-49-people-in-the-pakistani-city-of-peshawar-in-an-attack-that-the-government-said-underscored-the-need.md)

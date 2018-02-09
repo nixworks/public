@@ -13,7 +13,7 @@ _Context: Brent Crude, $_
 
 ##### Gap Inc.
 ### [US clothing company Gap Inc. agrees to distribute their apparels to Chinese e-commerce company JD.com. ](/news/2014/12/18/us-clothing-company-gap-inc-agrees-to-distribute-their-apparels-to-chinese-e-commerce-company-jd-com.md)
-_Context: JD.com, Gap Inc._
+_Context: Gap Inc., JD.com_
 
 ##### Central Intelligence Agency
 ### [A former US intelligence officer identifies Rolando "Rollie" Sarraff Trujillo as the Cuban Interior Ministry spy for the US Central Intelligence Agency, who was swapped in exchange for members of the Cuban Five. ](/news/2014/12/18/a-former-us-intelligence-officer-identifies-rolando-rollie-sarraff-trujillo-as-the-cuban-interior-ministry-spy-for-the-us-central-intellig.md)
@@ -25,7 +25,7 @@ The European Union banned investment in Crimea on Thursday, halting European hel
 
 ##### Death of Jennifer Laude
 ### [The United States refuses to extradite a United States Marine to the Philippines where he is charged with murder. ](/news/2014/12/18/the-united-states-refuses-to-extradite-a-united-states-marine-to-the-philippines-where-he-is-charged-with-murder.md)
-_Context: Death of Jennifer Laude, Philippines, United States, murder, U.S. Marine_
+_Context: United States, U.S. Marine, murder, Philippines, Death of Jennifer Laude_
 
 ##### Death Penalty Information Center
 ### [The Death Penalty Information Center states that thirty-five people have been executed in the United States in 2014, marking it the fewest number within two decades. ](/news/2014/12/18/the-death-penalty-information-center-states-that-thirty-five-people-have-been-executed-in-the-united-states-in-2014-marking-it-the-fewest-n.md)
@@ -33,11 +33,11 @@ _Context: Death Penalty Information Center, executed in the United States_
 
 ##### US District Court for South Carolina
 ### [The US District Court for South Carolina posthumously vacates the conviction of George Stinney, Jr. seventy years after his execution. ](/news/2014/12/18/the-us-district-court-for-south-carolina-posthumously-vacates-the-conviction-of-george-stinney-jr-seventy-years-after-his-execution.md)
-_Context: George Stinney, Jr., US District Court for South Carolina_
+_Context: US District Court for South Carolina, George Stinney, Jr._
 
 ##### Spanish politicians
 ### [Spanish police arrest thirteen more people, bringing the total now to more than seventy since the November 30th football fan brawl, which resulted in one death, before the Atletico Madrid&ndash;Deportivo La Corua match started in Madrid's Vicente Calderon Stadium. ](/news/2014/12/18/spanish-police-arrest-thirteen-more-people-bringing-the-total-now-to-more-than-seventy-since-the-november-30th-football-fan-brawl-which-re.md)
-_Context: Spanish politicians, Vicente Calderon Stadium, football, Deportivo La Corua, Atletico Madrid_
+_Context: Deportivo La Corua, Spanish politicians, Atletico Madrid, Vicente Calderon Stadium, football_
 
 ## [Previous Day...](/news/2014/12/17/index.md)
 

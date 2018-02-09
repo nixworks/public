@@ -21,11 +21,11 @@ The step is a reminder of the soaring valuations among consumer-driven technolog
 
 ##### Ismalia
 ### [A road accident along the highway between Ismalia and Cairo in Egypt, east of Cairo, involving a bus that collided with a microbus kills fifteen people. ](/news/2015/03/6/a-road-accident-along-the-highway-between-ismailia-and-cairo-in-egypt-east-of-cairo-involving-a-bus-that-collided-with-a-microbus-kills-fi.md)
-_Context: Ismalia, Egypt, Cairo_
+_Context: Egypt, Cairo, Ismalia_
 
 ##### Kentucky
 ### [Two massive snowy traffic jams in Kentucky strand motorists for 24 hours or longer. One stretched for about 26 miles along Interstate 65 from just north of Elizabethtown past Shepherdsville, and the other stretched the entire length of Interstate 24 in Kentucky, more than 90 miles. ](/news/2015/03/6/two-massive-snowy-traffic-jams-in-kentucky-strand-motorists-for-24-hours-or-longer-one-stretched-for-about-26-miles-along-interstate-65-fro.md)
-_Context: Elizabethtown, Shepherdsville, Kentucky, Interstate 24 in Kentucky, Interstate 65_
+_Context: Elizabethtown, Interstate 24 in Kentucky, Interstate 65, Kentucky, Shepherdsville_
 
 ##### FIFA
 ### [Writing in the FIFA Weekly magazine, FIFA president Sepp Blatter calls Iran to end its "intolerable" ban on women attending soccer matches, describing the situation as one that "cannot continue." ](/news/2015/03/6/writing-in-the-fifa-weekly-magazine-fifa-president-sepp-blatter-calls-iran-to-end-its-intolerable-ban-on-women-attending-soccer-matches.md)
@@ -37,15 +37,15 @@ The approval paves the way for alternatives to an entire class of complex and co
 
 ##### 2014 Taipei Metro attack
 ### [The New Taipei City district court sentences Cheng Chieh to death for the May 2014 knife attack on a Taipei Metro train that left four dead and 22 passengers injured. ](/news/2015/03/6/the-new-taipei-city-district-court-sentences-cheng-chieh-to-death-for-the-may-2014-knife-attack-on-a-taipei-metro-train-that-left-four-dead.md)
-_Context: 2014 Taipei Metro attack, Taipei Metro, New Taipei City_
+_Context: New Taipei City, 2014 Taipei Metro attack, Taipei Metro_
 
 ##### Central Intelligence Agency
 ### [Central Intelligence Agency (CIA) Director John O. Brennan announces plans for a major restructuring and reorganization, including a focus on digital espionage (through the creation of the CIA Directorate of Digital Innovation). The plan will end some longstanding divisions, and create ten new centers that team analysts with operators, fostering collaboration and focus on a range of new security issues and threats, and replacing geographic division offices with hybrid mission centers modeled on the CIA Counterterrorism Center. ](/news/2015/03/6/central-intelligence-agency-cia-director-john-o-brennan-announces-plans-for-a-major-restructuring-and-reorganization-including-a-focus-o.md)
-_Context: John Brennan, CIA Directorate of Digital Innovation, CIA Counterterrorism Center, Central Intelligence Agency_
+_Context: CIA Counterterrorism Center, Central Intelligence Agency, John Brennan, CIA Directorate of Digital Innovation_
 
 ##### Shahjalal International Airport
 ### [Customs officers at the Shahjalal International Airport catch Son Young Nam, a North Korean diplomat trying to smuggle an estimated $1.4 million worth of gold into Bangladesh. Bangladesh authorities release him but will still seek to press charges. ](/news/2015/03/6/customs-officers-at-the-shahjalal-international-airport-catch-son-young-nam-a-north-korean-diplomat-trying-to-smuggle-an-estimated-1-4-mil.md)
-_Context: Bangladesh, Shahjalal International Airport, North Korea, $_
+_Context: Bangladesh, North Korea, $, Shahjalal International Airport_
 
 ##### Madison Police Department
 ### [Madison Police Department officers fatally shoot an unarmed 19-year-old black teenager who was suspected of a recent battery. A struggle ensued between the suspect and an officer, and the teen was fatally shot. ](/news/2015/03/6/madison-police-department-officers-fatally-shoot-an-unarmed-19-year-old-black-teenager-who-was-suspected-of-a-recent-battery-a-struggle-ens.md)

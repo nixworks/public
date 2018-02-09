@@ -5,19 +5,19 @@ Formats: [HTML](2004/06/6/index.html)  [JSON](2004/06/6/index.json)  [XML](2004/
 
 ##### D-Day
 ### [ Heads of state and war veterans mark the sixtieth anniversary of the D-Day invasion of Nazi-controlled Europe in World War&nbsp;II. An estimated 250,000 people died in the Battle of Normandy. ](/news/2004/06/6/heads-of-state-and-war-veterans-mark-the-sixtieth-anniversary-of-the-d-day-invasion-of-nazi-controlled-europe-in-world-war-nbsp-ii-an-esti.md)
-_Context: D-Day, Battle of Normandy, Nazism, World War&nbsp;II_
+_Context: Nazism, Battle of Normandy, World War&nbsp;II, D-Day_
 
 ##### Palestinian
 ### [ Palestinian Fatah leader Marwan Barghouti is sentenced to five life terms plus forty years by an Israeli court for his role in Palestinian terrorism. ](/news/2004/06/6/palestinian-fatah-leader-marwan-barghouti-is-sentenced-to-five-life-terms-plus-forty-years-by-an-israeli-court-for-his-role-in-palestinian.md)
-_Context: Palestinian, life imprisonment, Israel, militants, Fatah, Marwan Barghouti_
+_Context: Palestinian, militants, life imprisonment, Marwan Barghouti, Fatah, Israel_
 
 ##### U.S. presence in Iraq
 ### [ U.S.-led occupation of Iraq: Brigadier General Mark Hertling, a top US commander in charge of Najaf, Iraq, states "The Moqtada militia is militarily defeated. We have killed scores of them over the last few weeks, and that is in Najaf alone.&nbsp;... The militia have been defeated, or have left." US Coalition patrols and checkpoints are still active around Najaf and its twin city of Kufa, Iraq. ](/news/2004/06/6/u-s-led-occupation-of-iraq-brigadier-general-mark-hertling-a-top-us-commander-in-charge-of-najaf-iraq-states-the-moqtada-militia-is-m.md)
-_Context: U.S. presence in Iraq, Brigadier General, commander, Muqtada al-Sadr, Iraq, Mahdi Army, Najaf, Mark Hertling, kill, military, Kufa_
+_Context: Iraq, Muqtada al-Sadr, Mark Hertling, commander, Kufa, Brigadier General, U.S. presence in Iraq, kill, Najaf, Mahdi Army, military_
 
 ##### French Open
 ### [ French Open: Gaston Gaudio wins the men's singles title, defeating compatriot Guillermo Coria 0-6, 3-6, 6-4, 6-1, 8-6. ](/news/2004/06/6/french-open-gasta3n-gaudio-wins-the-men-s-singles-title-defeating-compatriot-guillermo-coria-0a6-3a6-6a4-6a1-8a6.md)
-_Context: Guillermo Coria, Gaston Gaudio, French Open_
+_Context: French Open, Guillermo Coria, Gaston Gaudio_
 
 ## [Previous Day...](/news/2004/06/5/index.md)
 

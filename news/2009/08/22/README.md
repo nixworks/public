@@ -13,7 +13,7 @@ Argentina&#039;s Foreign Affairs Ministry &#147;harshly condemns&#148; the nomin
 
 ##### Islam
 ### [ Islamic insurgents attack a government checkpoint in Somalia's capital, Mogadishu, sparking a gunbattle that kills at least five people on the first day of Ramadan. ](/news/2009/08/22/islamic-insurgents-attack-a-government-checkpoint-in-somalia-s-capital-mogadishu-sparking-a-gunbattle-that-kills-at-least-five-people-on.md)
-_Context: Islam, Mogadishu, Somalia, Ramadan_
+_Context: Somalia, Islam, Mogadishu, Ramadan_
 
 ##### Movement for the Emancipation of the Niger Delta
 ### [ The militant group Movement for the Emancipation of the Niger Delta hands over hundreds of weapons to the Nigerian government as part of a weapons amnesty. ](/news/2009/08/22/the-militant-group-movement-for-the-emancipation-of-the-niger-delta-hands-over-hundreds-of-weapons-to-the-nigerian-government-as-part-of-a.md)
@@ -21,7 +21,7 @@ _Context: Nigeria, Movement for the Emancipation of the Niger Delta_
 
 ##### North Korea
 ### [ Officials from North and South Korea meet for talks for the first time in two years. ](/news/2009/08/22/officials-from-north-and-south-korea-meet-for-talks-for-the-first-time-in-two-years.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Brazil
 ### [ Brazilian President Luiz Inacio Lula da Silva arrives in Bolivia with a "strong tone-down message". ](/news/2009/08/22/brazilian-president-luiz-ina-cio-lula-da-silva-arrives-in-bolivia-with-a-strong-tone-down-message.md)
@@ -29,11 +29,11 @@ Brazilian president Lula da Silva considers that differences inside the Union of
 
 ##### Niger
 ### [ Niger's police use tear gas to injure and arrest several people during clashes with opponents of a new constitution that would enable President Mamadou Tandja to seek unlimited mandates. ](/news/2009/08/22/niger-s-police-use-tear-gas-to-injure-and-arrest-several-people-during-clashes-with-opponents-of-a-new-constitution-that-would-enable-presi.md)
-_Context: lachrymator, Niger, Nigerien President, Mamadou Tandja_
+_Context: Niger, lachrymator, Nigerien President, Mamadou Tandja_
 
 ##### Venezuelans
 ### [ Thousands of Venezuelans join rival marches in Caracas over a controversial education law that critics say strengthens President Hugo Chavez's grip over schools and universities. ](/news/2009/08/22/thousands-of-venezuelans-join-rival-marches-in-caracas-over-a-controversial-education-law-that-critics-say-strengthens-president-hugo-cha-v.md)
-_Context: Venezuelans, Caracas, Hugo Chavez_
+_Context: Hugo Chavez, Venezuelans, Caracas_
 
 ##### Turkey
 ### [ Two turkey farms in Valparaiso, Chile, are quarantined over fears the birds have caught swine influenza from humans. ](/news/2009/08/22/two-turkey-farms-in-valparaaso-chile-are-quarantined-over-fears-the-birds-have-caught-swine-influenza-from-humans.md)

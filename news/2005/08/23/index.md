@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Canadian
 ### [ Canada has sent 2 "Kingston"-class warships to the north Arctic port of Churchill, Manitoba following a territorial dispute with Denmark regarding Hans Island. ](/news/2005/08/23/canada-has-sent-2-kingston-class-warships-to-the-north-arctic-port-of-churchill-manitoba-following-a-territorial-dispute-with-denmark-re.md)
-_Context: Denmark, Hans Island, Churchill, Manitoba, Canadian, ''Kingston''-class warships, Arctic_
+_Context: Churchill, Manitoba, Canadian, Hans Island, Denmark, Arctic, ''Kingston''-class warships_
 
 ## [Previous Day...](/news/2005/08/22/index.md)
 

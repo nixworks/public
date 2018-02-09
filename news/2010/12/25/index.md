@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/25/index.html)  [JSON](2010/12/25/index.json)  [XML](201
 
 ##### Sudanese government troops
 ### [The Sudanese army says it has killed at least 40 rebels and wounded many more in a new offensive in the Darfur region, when army forces attacked joint positions of the Justice and Equality Movement and the Sudan Liberation Movement. ](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.md)
-_Context: Justice and Equality Movement, Sudanese government troops, Darfur, Sudan Liberation Movement, conflict_
+_Context: Sudanese government troops, conflict, Darfur, Justice and Equality Movement, Sudan Liberation Movement_
 
 ##### Christmas
 ### [At least 6 people are wounded as a bomb detonates in a church during Christmas Mass in the southern Philippines island of Jolo. ](/news/2010/12/25/at-least-6-people-are-wounded-as-a-bomb-detonates-in-a-church-during-christmas-mass-in-the-southern-philippines-island-of-jolo.md)
@@ -21,17 +21,17 @@ Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, he
 
 ##### Aurela Gace
 ### [Aurela Gace wins Albania's national selection for the Eurovision Song Contest 2011 with the entry "Kenga ime". ](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.md)
-_Context: Eurovision Song Contest 2011, Kenga ime, Aurela Gace, Albania's national selection_
+_Context: Albania's national selection, Eurovision Song Contest 2011, Kenga ime, Aurela Gace_
 
 ##### 
 ### [Leading writers criticise the British government for what they describe as its "repugnant, foolish and pointlessly destructive" decision to axe all funding for a free children's book scheme. ](/news/2010/12/25/leading-writers-criticise-the-british-government-for-what-they-describe-as-its-repugnant-foolish-and-pointlessly-destructive-decision-to.md)
 ##### Vietnam
 ### [Vietnam's credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
-_Context: inflation, Vinashin, Vietnam, state owned, trade deficit, credit rating agencies_
+_Context: state owned, credit rating agencies, Vietnam, trade deficit, Vinashin, inflation_
 
 ##### Vanuatu
 ### [A magnitude 7.3 earthquake strikes Vanuatu. A tsunami warning is issued for the region and later cancelled after a minor tsunami was recorded. ](/news/2010/12/25/a-magnitude-7-3-earthquake-strikes-vanuatu-a-tsunami-warning-is-issued-for-the-region-and-later-cancelled-after-a-minor-tsunami-was-recorde.md)
-_Context: Vanuatu, warnings_
+_Context: warnings, Vanuatu_
 
 ##### El Carmen
 ### [An overcrowded bus plunges into ravine near El Carmen, Ecuador, killing 41. ](/news/2010/12/25/an-overcrowded-bus-plunges-into-ravine-near-el-carmen-ecuador-killing-41.md)
@@ -51,7 +51,7 @@ _Context: South Korea, China_
 
 ##### Ecuador
 ### [Ecuador recognises Palestine as an independent state within its 1967 borders. ](/news/2010/12/25/ecuador-recognises-palestine-as-an-independent-state-within-its-1967-borders.md)
-_Context: Ecuador, Palestine, officially recognises_
+_Context: officially recognises, Palestine, Ecuador_
 
 ##### Mossad
 ### [Mossad announces an intention to apologize to Britain for using fake British passports during the assassination of Mahmoud al-Mabhouh in Dubai in January 2010. ](/news/2010/12/25/mossad-announces-an-intention-to-apologize-to-britain-for-using-fake-british-passports-during-the-assassination-of-mahmoud-al-mabhouh-in-dub.md)
@@ -63,11 +63,11 @@ _Context: Sudanese government, Darfur_
 
 ##### Dutch police
 ### [Dutch police arrest 12 Somalis on suspicion of plotting an imminent terrorist attack in the Netherlands. ](/news/2010/12/25/dutch-police-arrest-12-somalis-on-suspicion-of-plotting-an-imminent-terrorist-attack-in-the-netherlands.md)
-_Context: terrorist, Somalis, Dutch police, Netherlands_
+_Context: Somalis, Netherlands, Dutch police, terrorist_
 
 ##### Golf course
 ### [A dead female body is found near a golf course in North Somerset during a police search in Bristol for missing UK woman Joanna Yeates. ](/news/2010/12/25/a-dead-female-body-is-found-near-a-golf-course-in-north-somerset-during-a-police-search-in-bristol-for-missing-uk-woman-joanna-yeates.md)
-_Context: Bristol, Joanna Yeates, golf course, North Somerset_
+_Context: North Somerset, Joanna Yeates, golf course, Bristol_
 
 ##### Mir-Hossein Mousavi
 ### [A travel ban is announced against opposition candidates, Mir-Hossein Mousavi and Mehdi Karroubi, who featured in the disputed 2009 Iranian presidential election. ](/news/2010/12/25/a-travel-ban-is-announced-against-opposition-candidates-mir-hossein-mousavi-and-mehdi-karroubi-who-featured-in-the-disputed-2009-iranian-p.md)
@@ -79,7 +79,7 @@ The rocket geosynchronous satellite launch vehicle (GSLV) exploded mid-air momen
 
 ##### Atlanta
 ### [Atlanta in the U.S. state of Georgia gets its first white Christmas in 128 years affecting 500 flights. ](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.md)
-_Context: U.S. state, Atlanta, Georgia, white Christmas_
+_Context: Georgia, white Christmas, U.S. state, Atlanta_
 
 ## [Previous Day...](/news/2010/12/24/index.md)
 

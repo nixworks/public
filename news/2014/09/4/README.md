@@ -5,7 +5,7 @@ Formats: [HTML](2014/09/4/index.html)  [JSON](2014/09/4/index.json)  [XML](2014/
 
 ##### Monsoon
 ### [Monsoon rains in Pakistan kill more than 40 people. ](/news/2014/09/4/monsoon-rains-in-pakistan-kill-more-than-40-people.md)
-_Context: Monsoon, Pakistan_
+_Context: Pakistan, Monsoon_
 
 ##### Jammu and Kashmir
 ### [In the Indian state of Jammu and Kashmir, over 60 people are feared dead from floods. ](/news/2014/09/4/in-the-indian-state-of-jammu-and-kashmir-over-60-people-are-feared-dead-from-floods.md)
@@ -25,7 +25,7 @@ The list of proposed new EU commissioners is now complete, with enough women for
 
 ##### Viking ring fortress
 ### [For the first time in sixty years, a new Viking ring fortress is found, the fifth in present-day Denmark; it is located near the town of Koge and believed to have been founded by Harold Bluetooth. ](/news/2014/09/4/for-the-first-time-in-sixty-years-a-new-viking-ring-fortress-is-found-the-fifth-in-present-day-denmark-it-is-located-near-the-town-of-ka.md)
-_Context: Denmark, Koge, Harold Bluetooth, Viking ring fortress_
+_Context: Viking ring fortress, Harold Bluetooth, Denmark, Koge_
 
 ## [Previous Day...](/news/2014/09/3/index.md)
 

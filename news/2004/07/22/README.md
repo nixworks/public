@@ -5,11 +5,11 @@ Formats: [HTML](2004/07/22/index.html)  [JSON](2004/07/22/index.json)  [XML](200
 
 ##### Washington, DC
 ### [ Police seal off the Washington, DC, office building housing John Kerry's presidential campaign headquarters after an envelope containing a suspicious white powder is opened by a Kerry staff member. ](/news/2004/07/22/police-seal-off-the-washington-dc-office-building-housing-john-kerry-s-presidential-campaign-headquarters-after-an-envelope-containing-a.md)
-_Context: Washington, DC, presidential candidate, John Kerry_
+_Context: presidential candidate, John Kerry, Washington, DC_
 
 ##### Brewing
 ### [ Major North American brewers Coors and Molson announce they will go ahead with a proposed merger, creating the world's fifth-biggest brewing company. ](/news/2004/07/22/major-north-american-brewers-coors-and-molson-announce-they-will-go-ahead-with-a-proposed-merger-creating-the-world-s-fifth-biggest-brewin.md)
-_Context: Coors, merger, Molson, brewing_
+_Context: Molson, merger, Coors, brewing_
 
 ##### 9/11 Commission
 ### [ In the United States, the 9-11 Commission releases ](/news/2004/07/22/in-the-united-states-the-9-11-commission-releases.md)
@@ -17,7 +17,7 @@ _Context: 9/11 Commission_
 
 ##### 9/11 Commission
 ### [ The 9-11 Commission releases a transcript of the hijackers' conversation in the final moments of United Airlines Flight 93, which details how the hijackers forced the plane into the ground in Pennsylvania. ](/news/2004/07/22/the-9-11-commission-releases-a-transcript-of-the-hijackers-conversation-in-the-final-moments-of-united-airlines-flight-93-which-details-h.md)
-_Context: United Airlines Flight 93, 9/11 Commission, Pennsylvania_
+_Context: United Airlines Flight 93, Pennsylvania, 9/11 Commission_
 
 ##### Afghanistan
 ### [ United States and Afghan forces kill 10 suspected Islamic militants and arrest five others. ](/news/2004/07/22/united-states-and-afghan-forces-kill-10-suspected-islamic-militants-and-arrest-five-others.md)
@@ -37,19 +37,19 @@ _Context: E. coli_
 
 ##### Turkey
 ### [ In Turkey a passenger train travelling between Istanbul and Ankara derails at about 18:45 local time (16:45 UTC) near Pamukova in Sakarya Province. Initial fatality reports from the government suggested that 139 people were killed; this was reduced to approximately 30, without explanation, a few hours later, and the actual number is unclear. ](/news/2004/07/22/in-turkey-a-passenger-train-travelling-between-istanbul-and-ankara-derails-at-about-18-45-local-time-16-45-utc-near-pamukova-in-sakarya-p.md)
-_Context: Istanbul, Ankara, Pamukova, Turkey, Sakarya Province_
+_Context: Ankara, Istanbul, Pamukova, Turkey, Sakarya Province_
 
 ##### Prime Minister of Canada
 ### [ Following Canadian Prime Minister Paul Martin's cabinet shuffle two days earlier, Leader of the Opposition Stephen Harper announces a reshuffled Conservative Shadow Cabinet. ](/news/2004/07/22/following-canadian-prime-minister-paul-martin-s-cabinet-shuffle-two-days-earlier-leader-of-the-opposition-stephen-harper-announces-a-reshu.md)
-_Context: reshuffle, Paul Martin, Leader of the Opposition, Prime Minister of Canada, Shadow Cabinet, Stephen Harper, Conservative Party's_
+_Context: Paul Martin, Prime Minister of Canada, Leader of the Opposition, reshuffle, Stephen Harper, Shadow Cabinet, Conservative Party's_
 
 ##### Prosecutor
 ### [ Ignacio Carrill, the Special Prosecutor for Past Social and Political Movements in Mexico, presents the findings of the investigation into the "dirty war", where it classifies the killings by government forces as genocide, and requests warrants be issued for the arrest of former president Luis Echeverra and 11 other ex-government figures. ](/news/2004/07/22/ignacio-carrill-the-special-prosecutor-for-past-social-and-political-movements-in-mexico-presents-the-findings-of-the-investigation-into.md)
-_Context: dirty war, genocide, Prosecutor, Luis Echeverra, Mexico_
+_Context: dirty war, Luis Echeverra, genocide, Prosecutor, Mexico_
 
 ##### Same-sex marriage in the United States
 ### [ Same-sex marriage in the United States: the House of Representatives today passes legislation preventing federal courts from ordering courts in other states recognize same-sex marriage granted elsewhere. ](/news/2004/07/22/same-sex-marriage-in-the-united-states-the-house-of-representatives-today-passes-legislation-preventing-federal-courts-from-ordering-court.md)
-_Context: Same-sex marriage in the United States, House of Representatives_
+_Context: United States House of Representatives, Same-sex marriage in the United States_
 
 ## [Previous Day...](/news/2004/07/21/index.md)
 

@@ -33,19 +33,19 @@ More than 100 wildfires have broken out across Australia&#039;s east coast and f
 
 ##### British
 ### [A new inquest begins into the death of British singer Amy Winehouse after it was discovered that the original coroner was not qualified to conduct the inquiry. A second inquiry into Winehouse's death concludes that the singer died of alcohol poisoning. ](/news/2013/01/8/a-new-inquest-begins-into-the-death-of-british-singer-amy-winehouse-after-it-was-discovered-that-the-original-coroner-was-not-qualified-to-c.md)
-_Context: coroner, British, alcohol poisoning, Amy Winehouse_
+_Context: alcohol poisoning, Amy Winehouse, coroner, British_
 
 ##### Illinois
 ### [An Illinois man is killed by cyanide poisoning after winning the lottery. ](/news/2013/01/8/an-illinois-man-is-killed-by-cyanide-poisoning-after-winning-the-lottery.md)
-_Context: Illinois, cyanide poisoning_
+_Context: cyanide poisoning, Illinois_
 
 ##### Venezuela
 ### [The Venezuelan government announces that Hugo Chavez is in stable condition, and is still receiving medical treatment for a respiratory infection. ](/news/2013/01/8/the-venezuelan-government-announces-that-hugo-cha-vez-is-in-stable-condition-and-is-still-receiving-medical-treatment-for-a-respiratory-inf.md)
-_Context: Venezuela, Hugo Chavez, Venezuelan government_
+_Context: Hugo Chavez, Venezuelan government, Venezuela_
 
 ##### Roberto Maroni
 ### [Roberto Maroni announces that an electoral pact signed between his Lega Nord party and Silvio Berlusconi's People of Freedom party explicitly rules out Berlusconi assuming the Prime Minister of Italy position again. ](/news/2013/01/8/roberto-maroni-announces-that-an-electoral-pact-signed-between-his-lega-nord-party-and-silvio-berlusconi-s-people-of-freedom-party-explicitl.md)
-_Context: Roberto Maroni, Silvio Berlusconi, Lega Nord, Italian Prime Minister, People of Freedom_
+_Context: Italian Prime Minister, Lega Nord, Silvio Berlusconi, People of Freedom, Roberto Maroni_
 
 ##### Bob Brown
 ### [Bob Brown, former leader of the Australian Greens, becomes the President of the Sea Shepherd Conservation Society leading the campaign against Japanese whaling in the Southern Ocean. ](/news/2013/01/8/bob-brown-former-leader-of-the-australian-greens-becomes-the-president-of-the-sea-shepherd-conservation-society-leading-the-campaign-again.md)

@@ -45,11 +45,11 @@ Gay and lesbian activists eluded Russian security services in a five-hour game o
 
 ##### President of Malawi
 ### [President of Malawi Bingu wa Mutharika pardons a gay couple sentenced to 14 years in prison for "gross indecency and unnatural acts". ](/news/2010/05/29/president-of-malawi-bingu-wa-mutharika-pardons-a-gay-couple-sentenced-to-14-years-in-prison-for-gross-indecency-and-unnatural-acts.md)
-_Context: President of Malawi, Malawi, homosexuality, Bingu wa Mutharika, pardon_
+_Context: President of Malawi, pardon, Bingu wa Mutharika, homosexuality, Malawi_
 
 ##### Diabetes
 ### [More than 50,000 Greeks with diabetes are left with insulin after Novo Nordisk, the world's leading supplier of the drug, withdraws from Greece in a "brutal capitalist blackmail" after being asked to reduce the cost of its medicine by the Greek government. ](/news/2010/05/29/more-than-50-000-greeks-with-diabetes-are-left-with-insulin-after-novo-nordisk-the-world-s-leading-supplier-of-the-drug-withdraws-from-gre.md)
-_Context: insulin, Greece, diabetes, Novo Nordisk_
+_Context: Greece, Novo Nordisk, diabetes, insulin_
 
 ##### Handball
 ### [At least 14 people are wounded after dozens of handball fans belonging to rival teams PAOK Thessaloniki and AEK Athens attack each other with petrol bombs, knives, bricks and furniture, leading to a street battle in Lamia. Police deploy tear gas to bring the city under their control. ](/news/2010/05/29/at-least-14-people-are-wounded-after-dozens-of-handball-fans-belonging-to-rival-teams-paok-thessaloniki-and-aek-athens-attack-each-other-wit.md)
@@ -57,11 +57,11 @@ Fans of rival hanball teams clash in the central Greek town of Lamia, with at le
 
 ##### Austria
 ### [Another riot occurs in Austria as the Serbia national football team meet the New Zealand national football team ahead of the 2010 FIFA World Cup. ](/news/2010/05/29/another-riot-occurs-in-austria-as-the-serbia-national-football-team-meet-the-new-zealand-national-football-team-ahead-of-the-2010-fifa-world.md)
-_Context: Austria, 2010 FIFA World Cup, New Zealand national football team, Serbia national football team_
+_Context: New Zealand national football team, Serbia national football team, 2010 FIFA World Cup, Austria_
 
 ##### Pakistan
 ### [The leaders of Pakistan's Ahmadiyya religious minority ask the government to provide better protection for the group, as they bury those killed in yesterday's double mosque attack in Lahore. ](/news/2010/05/29/the-leaders-of-pakistan-s-ahmadiyya-religious-minority-ask-the-government-to-provide-better-protection-for-the-group-as-they-bury-those-kil.md)
-_Context: Friday's attack, Pakistan, Lahore, Ahmadiyya_
+_Context: Pakistan, Ahmadiyya, Lahore, Friday's attack_
 
 ##### Nepal
 ### [Nepal's political leaders agree to extend the parliamentary term for another year following talks to avert a political crisis. ](/news/2010/05/29/nepal-s-political-leaders-agree-to-extend-the-parliamentary-term-for-another-year-following-talks-to-avert-a-political-crisis.md)
@@ -69,11 +69,11 @@ Move will allow political party leaders more time to finalise new constitution.
 
 ##### Prime Minister
 ### [Prime Minister Viktor Orban, winner of the 2010 parliamentary elections in Hungary, assumes office. ](/news/2010/05/29/prime-minister-viktor-orba-n-winner-of-the-2010-parliamentary-elections-in-hungary-assumes-office.md)
-_Context: Viktor Orban, 2010 parliamentary elections, Prime Minister, Hungary_
+_Context: Hungary, Prime Minister, 2010 parliamentary elections, Viktor Orban_
 
 ##### Thailand
 ### [Thai Prime Minister Abhisit Vejjajiva lifts a curfew in the capital Bangkok and 23 provinces in the aftermath of protests but a state of emergency would remain. ](/news/2010/05/29/thai-prime-minister-abhisit-vejjajiva-lifts-a-curfew-in-the-capital-bangkok-and-23-provinces-in-the-aftermath-of-protests-but-a-state-of-eme.md)
-_Context: curfew, 2010 Thai political protests, Bangkok, state of emergency, Abhisit Vejjajiva, Thailand_
+_Context: 2010 Thai political protests, curfew, Abhisit Vejjajiva, Thailand, state of emergency, Bangkok_
 
 ##### United Kingdom Parliamentary expenses scandal
 ### [As part of the ongoing United Kingdom Parliamentary expenses scandal, Liberal Democrat MP David Laws resigns from his position as Chief Secretary to the Treasury after it is revealed he used expenses to cover rent for a non-marital partner, a practice banned in 2006. ](/news/2010/05/29/as-part-of-the-ongoing-united-kingdom-parliamentary-expenses-scandal-liberal-democrat-mp-david-laws-resigns-from-his-position-as-chief-secr.md)

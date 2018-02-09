@@ -25,13 +25,13 @@ A bill which allows same-sex weddings to take place in Scotland is passed by MSP
 
 ##### New York City Police Department
 ### [The New York City Police Department questions four suspected heroin dealers in connection with Philip Seymour Hoffman's death. ](/news/2014/02/4/the-new-york-city-police-department-questions-four-suspected-heroin-dealers-in-connection-with-philip-seymour-hoffman-s-death.md)
-_Context: New York City Police Department, Philip Seymour Hoffman, heroin_
+_Context: Philip Seymour Hoffman, heroin, New York City Police Department_
 
 ##### Super Bowl
 ### [Sixteen missing children are rescued from Super Bowl-associated sex-trade slavery in an FBI sting. ](/news/2014/02/4/sixteen-missing-children-are-rescued-from-super-bowl-associated-sex-trade-slavery-in-an-fbi-sting.md)
 Sixteen children were rescued from commercial sex trafficking and more than 45 pimps and their associates arrested in a sting operation conducted by law enforcement, the FBI announced Tuesday.
 
-##### House of Representatives
+##### United States House of Representatives
 ### [United States House of Representatives member Rob Andrews announces that he will retire at the end of his current term. ](/news/2014/02/4/united-states-house-of-representatives-member-rob-andrews-announces-that-he-will-retire-at-the-end-of-his-current-term.md)
 The Democrat is under an ethics investigation.
 

@@ -9,7 +9,7 @@ _Context: USA, South Carolina, Cherokee County killer_
 
 ##### Irish
 ### [ Ireland's Minister for Foreign Affairs, Michel Martin, calls for the immediate release of two aid workers who were kidnapped in Sudan's Darfur region. ](/news/2009/07/4/ireland-s-minister-for-foreign-affairs-micheal-martin-calls-for-the-immediate-release-of-two-aid-workers-who-were-kidnapped-in-sudan-s-da.md)
-_Context: Minister for Foreign Affairs, Michel Martin, Irish, Darfur, Sudan_
+_Context: Sudan, Michel Martin, Irish, Darfur, Minister for Foreign Affairs_
 
 ##### Bishop of Rochester
 ### [ Bishop of Rochester Michael Nazir-Ali calls on homosexuals to "repent and be changed" and says the Church of England will not be "rolled over by culture". ](/news/2009/07/4/bishop-of-rochester-michael-nazir-ali-calls-on-homosexuals-to-repent-and-be-changed-and-says-the-church-of-england-will-not-be-rolled-ov.md)
@@ -25,7 +25,7 @@ _Context: China_
 
 ##### United Nations
 ### [ The United Nations Secretary General Ban Ki-moon is denied access to meet detained National League for Democracy leader Aung San Suu Kyi while on a visit to Burma. ](/news/2009/07/4/the-united-nations-secretary-general-ban-ki-moon-is-denied-access-to-meet-detained-national-league-for-democracy-leader-aung-san-suu-kyi-wh.md)
-_Context: United Nations, Ban Ki-moon, National League for Democracy, Aung San Suu Kyi, Burma, United Nations Secretary-General_
+_Context: Burma, United Nations Secretary-General, National League for Democracy, Ban Ki-moon, United Nations, Aung San Suu Kyi_
 
 ##### Pakistan
 ### [ 12 militants are killed in an air raid in northwestern Pakistan. ](/news/2009/07/4/12-militants-are-killed-in-an-air-raid-in-northwestern-pakistan.md)
@@ -37,7 +37,7 @@ _Context: Russia, Ingushetia, Chechnya_
 
 ##### Iran
 ### [ The Iranian state-owned newspaper "Kayhan" calls for Mir-Hossein Mousavi to stand trial. ](/news/2009/07/4/the-iranian-state-owned-newspaper-kayhan-calls-for-mir-hossein-mousavi-to-stand-trial.md)
-_Context: Kayhan, Iran, State television, Mir-Hossein Mousavi_
+_Context: Mir-Hossein Mousavi, Kayhan, Iran, State television_
 
 ##### Mazandran
 ### [ 35 people are arrested in Mazandran, northern Iran, during post-election protests. ](/news/2009/07/4/35-people-are-arrested-in-mazandran-northern-iran-during-post-election-protests.md)

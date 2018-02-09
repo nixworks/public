@@ -13,19 +13,19 @@ _Context: Pope, Cardinal Joseph Ratzinger, Crimen sollicitationis_
 
 ##### Social Democrats party
 ### [ The Social Democratic Party of Austria has won today's election in Austria. ](/news/2006/10/1/the-social-democratic-party-of-austria-has-won-today-s-election-in-austria.md)
-_Context: Social Democrats party, Austria, October 2006 Austrian elections_
+_Context: Social Democrats party, October 2006 Austrian elections, Austria_
 
 ##### Russia
 ### [ Russian President Vladimir Putin has said Georgia's arrest of four Russian army officers for spying was "an act of state terrorism with hostage-taking". ](/news/2006/10/1/russian-president-vladimir-putin-has-said-georgia-s-arrest-of-four-russian-army-officers-for-spying-was-an-act-of-state-terrorism-with-hos.md)
-_Context: hostage-taking, terrorism, Vladimir Putin, Russia_
+_Context: Russia, Vladimir Putin, hostage-taking, terrorism_
 
 ##### Surayud Chulanont
 ### [ General Surayud Chulanont is appointed interim prime minister of Thailand by the ruling military regime, following the recent coup. ](/news/2006/10/1/general-surayud-chulanont-is-appointed-interim-prime-minister-of-thailand-by-the-ruling-military-regime-following-the-recent-coup.md)
-_Context: Thailand, coup, Surayud Chulanont_
+_Context: Surayud Chulanont, Thailand, coup_
 
 ##### Superbug
 ### [ A superbug, "Clostridium difficile", is said to have killed at least 49 people at hospitals in Leicester, England, according to a National Health Service investigation. Another 29 similar cases are being investigated by coroners. ](/news/2006/10/1/a-superbug-clostridium-difficile-is-said-to-have-killed-at-least-49-people-at-hospitals-in-leicester-england-according-to-a-national.md)
-_Context: Clostridium difficile, Leicester, England, coroner, National Health Service, superbug_
+_Context: coroner, superbug, National Health Service, Clostridium difficile, England, Leicester_
 
 ##### Israel
 ### [ The last Israeli troops leave Lebanon in accordance with UN Resolution 1701, two months after occupying the territory. UNIFIL officials, however, claim that they still occupy the border village of Ghajar. ](/news/2006/10/1/the-last-israeli-troops-leave-lebanon-in-accordance-with-un-resolution-1701-two-months-after-occupying-the-territory-unifil-officials-ho.md)
@@ -33,11 +33,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Age discrimination
 ### [ New laws against age discrimination in the workplace - officially titled the Employment Equality (Age) Regulations 2006 - come into force in the United Kingdom. ](/news/2006/10/1/new-laws-against-age-discrimination-in-the-workplace-officially-titled-the-employment-equality-age-regulations-2006-come-into-force-i.md)
-_Context: United Kingdom, age discrimination_
+_Context: age discrimination, United Kingdom_
 
 ##### National Rugby League
 ### [ In the Australian National Rugby League's premiership-deciding game for season 2006, the Brisbane Broncos defeat the Melbourne Storm by 15&ndash;8 to win its sixth premiership title. ](/news/2006/10/1/in-the-australian-national-rugby-league-s-premiership-deciding-game-for-season-2006-the-brisbane-broncos-defeat-the-melbourne-storm-by-15.md)
-_Context: National Rugby League, premiership-deciding game for season 2006, Brisbane Broncos, Melbourne Storm_
+_Context: Brisbane Broncos, National Rugby League, Melbourne Storm, premiership-deciding game for season 2006_
 
 ## [Previous Day...](/news/2006/09/30/index.md)
 

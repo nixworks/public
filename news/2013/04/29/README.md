@@ -23,15 +23,15 @@ BAGHDAD - The Iraqi government ordered 10 predominantly Sunni Muslim satellite t
 ### [It is revealed that Everett Dutschke was, earlier this month, charged with two child molestations involving three girls younger than 16. ](/news/2013/04/29/it-is-revealed-that-everett-dutschke-was-earlier-this-month-charged-with-two-child-molestations-involving-three-girls-younger-than-16.md)
 ##### Sentenced to death
 ### [Prosecutors discuss a plea deal (avoidance of the death penalty in exchange for a likely sentence of life in prison without parole) for the surviving Boston bomber, Dzhokhar Tsarnaev. Police have taken DNA from Tamerlan Tsarnaev's wife and are exploring the brothers' connection to two deceased Russian extremists. ](/news/2013/04/29/prosecutors-discuss-a-plea-deal-avoidance-of-the-death-penalty-in-exchange-for-a-likely-sentence-of-life-in-prison-without-parole-for-the.md)
-_Context: Russia, sentenced to death, Dzhokhar Tsarnaev, life in prison without parole, DNA, Boston_
+_Context: Dzhokhar Tsarnaev, Russia, sentenced to death, Boston, DNA, life in prison without parole_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court declines to hear a petition (Eaton Corp v. Z F Meritor) from Eaton Corp., letting stand a U.S. 3rd Circuit Court ruling on an antitrust issue that may limit the use of loyalty discounts in the form of rebates as a way of locking in customers. ](/news/2013/04/29/the-u-s-supreme-court-declines-to-hear-a-petition-eaton-corp-v-z-f-meritor-from-eaton-corp-letting-stand-a-u-s-3rd-circuit-court-ruli.md)
-_Context: Eaton Corp., Supreme Court of the United States, antitrust, United States court_
+_Context: United States court, Supreme Court of the United States, Eaton Corp., antitrust_
 
 ##### Explosion
 ### [A powerful explosion occurs in an office building in Prague, Czech Republic, believed to have been caused by natural gas, injures 35 people. Both the nearby Faculty of Arts and Sciences building of Charles University and the National Theater also sustain damage. ](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.md)
-_Context: Czech Republic, Charles University, Prague, explosion_
+_Context: Charles University, Prague, Czech Republic, explosion_
 
 ##### Boeing 747
 ### [A Boeing 747 crashes near an American military base in Bagram, Afghanistan, killing all seven American crew members onboard. ](/news/2013/04/29/a-boeing-747-crashes-near-an-american-military-base-in-bagram-afghanistan-killing-all-seven-american-crew-members-onboard.md)

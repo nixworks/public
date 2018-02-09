@@ -5,7 +5,7 @@ Formats: [HTML](2007/11/11/index.html)  [JSON](2007/11/11/index.json)  [XML](200
 
 ##### Duke of Cambridge
 ### [ Prince William, an officer in the Blues and Royals, laid a wreath for the first time by the Cenotaph as his grandmother The Queen and his father The Prince of Wales, looked on. ](/news/2007/11/11/prince-william-an-officer-in-the-blues-and-royals-laid-a-wreath-for-the-first-time-by-the-cenotaph-as-his-grandmother-the-queen-and-his-f.md)
-_Context: Duke of Cambridge, Prince Charles, Blues and Royals, wreath, Elizabeth II, Cenotaph_
+_Context: Duke of Cambridge, Blues and Royals, wreath, Elizabeth II, Prince Charles, Cenotaph_
 
 ##### France
 ### [ A majority of French citizens would support a union with the French-speaking Belgian region of Wallonia if Belgium were to cease to exist, according to a survey. ](/news/2007/11/11/a-majority-of-french-citizens-would-support-a-union-with-the-french-speaking-belgian-region-of-wallonia-if-belgium-were-to-cease-to-exist.md)
@@ -17,11 +17,11 @@ _Context: Netherlands, Flanders_
 
 ##### Danilo Trk
 ### [ Danilo Trk wins the 2007 Slovenian presidential elections with a large margin. ](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.md)
-_Context: 2007 Slovenian presidential elections, Danilo Trk_
+_Context: Danilo Trk, 2007 Slovenian presidential elections_
 
 ##### Khmer Rouge
 ### [ Former Khmer Rouge Foreign Minister, Ieng Sary and his wife, Ieng Thirith are arrested in Phnom Penh to face charges before that country's U.N. genocide tribunal. ](/news/2007/11/11/former-khmer-rouge-foreign-minister-ieng-sary-and-his-wife-ieng-thirith-are-arrested-in-phnom-penh-to-face-charges-before-that-country-s.md)
-_Context: genocide tribunal, Phnom Penh, Ieng Sary, U.N., Ieng Thirith, Khmer Rouge_
+_Context: Phnom Penh, genocide tribunal, U.N., Khmer Rouge, Ieng Sary, Ieng Thirith_
 
 ##### Ulster Defence Association
 ### [ The Ulster Defence Association announces that its Ulster Freedom Fighters' units are to stand down from midnight. ](/news/2007/11/11/the-ulster-defence-association-announces-that-its-ulster-freedom-fighters-units-are-to-stand-down-from-midnight.md)
@@ -29,7 +29,7 @@ The UDA has announced that units of its military wing, the Ulster Freedom Fighte
 
 ##### Gabriele Sandri
 ### [ Gabriele Sandri, a 26-year-old supporter of the sports club S.S. Lazio is killed by police in a service station near Arezzo, Italy. Football fans later clash with police in most Italian stadiums. ](/news/2007/11/11/gabriele-sandri-a-26-year-old-supporter-of-the-sports-club-s-s-lazio-is-killed-by-police-in-a-service-station-near-arezzo-italy-footbal.md)
-_Context: footballer, stadium, Italy, Lazio, filling station, police, Arezzo, Gabriele Sandri_
+_Context: police, Lazio, Italy, footballer, Arezzo, Gabriele Sandri, stadium, filling station_
 
 ## [Previous Day...](/news/2007/11/10/index.md)
 

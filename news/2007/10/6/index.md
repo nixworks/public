@@ -5,7 +5,7 @@ Formats: [HTML](2007/10/6/index.html)  [JSON](2007/10/6/index.json)  [XML](2007/
 
 ##### Cuba
 ### [ A collision between a train and a bus kills at least 28 people and injures over 70 in Cuba's eastern Granma province. ](/news/2007/10/6/a-collision-between-a-train-and-a-bus-kills-at-least-28-people-and-injures-over-70-in-cuba-s-eastern-granma-province.md)
-_Context: Cuba, Granma_
+_Context: Granma, Cuba_
 
 ##### Prime Minister
 ### [ The Prime Minister of the United Kingdom Gordon Brown rules out calling an early election. ](/news/2007/10/6/the-prime-minister-of-the-united-kingdom-gordon-brown-rules-out-calling-an-early-election.md)
@@ -13,7 +13,7 @@ _Context: Gordon Brown, Prime Minister_
 
 ##### Denmark
 ### [ Danish police arrest more than 400 people in protests in Copenhagen over the closure of the Ungdomshuset youth centre earlier in the year. ](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.md)
-_Context: Ungdomshuset, Copenhagen, Denmark_
+_Context: Denmark, Copenhagen, Ungdomshuset_
 
 ##### Typhoon Krosa
 ### [ Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md)
@@ -33,7 +33,7 @@ _Context: Jason Lewis, Expedition 360_
 
 ##### Quentin L. Cook
 ### [ Quentin L. Cook is called as an apostle of The Church of Jesus Christ of Latter-day Saints in the 177th Semi-Annual General Conference. ](/news/2007/10/6/quentin-l-cook-is-called-as-an-apostle-of-the-church-of-jesus-christ-of-latter-day-saints-in-the-177th-semi-annual-general-conference.md)
-_Context: Quentin L. Cook,  177th Semi-Annual General Conference, The Church of Jesus Christ of Latter-day Saints,  apostle_
+_Context:  apostle, The Church of Jesus Christ of Latter-day Saints,  177th Semi-Annual General Conference, Quentin L. Cook_
 
 ##### Royal Canadian Mounted Police
 ### [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md)

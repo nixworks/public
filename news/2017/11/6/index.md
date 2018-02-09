@@ -9,11 +9,11 @@ _Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 
 ##### Japan-United States relations
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
-_Context: Donald Trump, Japan, Japan-United States relations, 2017 North Korea crisis_
+_Context: Japan-United States relations, Japan, Donald Trump, 2017 North Korea crisis_
 
 ##### 2017 Lebanon-Saudi Arabia dispute
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)
-_Context: 2017 Lebanon-Saudi Arabia dispute, Saudi Arabia, Lebanese_
+_Context: Saudi Arabia, Lebanese, 2017 Lebanon-Saudi Arabia dispute_
 
 ##### Immigration to the United States
 ### [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md)

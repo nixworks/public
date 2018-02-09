@@ -17,11 +17,11 @@ One civilian has been killed and at least 20 others have been wounded after an I
 
 ##### The Elder Scrolls V: Skyrim
 ### [The Elder Scrolls V: Skyrim wins the game of the year at the Spike Video Game Awards. ](/news/2011/12/10/the-elder-scrolls-v-skyrim-wins-the-game-of-the-year-at-the-spike-video-game-awards.md)
-_Context: Spike Video Game Awards, The Elder Scrolls V: Skyrim_
+_Context: The Elder Scrolls V: Skyrim, Spike Video Game Awards_
 
 ##### Crashes into an elementary school
 ### [A light cargo plane crashes into an elementary school building in the Philippine city of Paraaque with 13 people dead. ](/news/2011/12/10/a-light-cargo-plane-crashes-into-an-elementary-school-building-in-the-philippine-city-of-paranaque-with-13-people-dead.md)
-_Context: crashes into an elementary school, Paraaque, Philippine_
+_Context: Paraaque, crashes into an elementary school, Philippine_
 
 ##### 6.5 magnitude earthquake
 ### [A 6.5 magnitude earthquake hits the Mexican state of Guerrero. It causes three deaths and is felt across several central states. ](/news/2011/12/10/a-6-5-magnitude-earthquake-hits-the-mexican-state-of-guerrero-it-causes-three-deaths-and-is-felt-across-several-central-states.md)
@@ -29,11 +29,11 @@ _Context: 6.5 magnitude earthquake, Guerrero_
 
 ##### John Key
 ### [Official results for the 26 November general election confirm John Key's National Party holding a plurality of the votes and seats. With confidence and supply agreements with ACT New Zealand and United Future confirmed, National forms a minority government with a one-seat majority, returning the Fifth National Government to a second term in office. ](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.md)
-_Context: United Future, New Zealand National Party, minority government, John Key, ACT, Fifth National Government, confidence and supply_
+_Context: New Zealand National Party, Fifth National Government, minority government, confidence and supply, John Key, ACT, United Future_
 
 ##### Russia
 ### [A day of protests begins in cities across Russia against alleged election fraud by Vladimir Putin and his United Russia party, with fifty thousand people marching in Moscow and 25 people arrested in Khabarovsk. ](/news/2011/12/10/a-day-of-protests-begins-in-cities-across-russia-against-alleged-election-fraud-by-vladimir-putin-and-his-united-russia-party-with-fifty-th.md)
-_Context: United Russia, Moscow, Khabarovsk, Vladimir Putin, Russia_
+_Context: Russia, Moscow, Vladimir Putin, Khabarovsk, United Russia_
 
 ##### DR Congo
 ### [At least six people are killed in clashes in the Democratic Republic of the Congo in the aftermath of disputed general elections in which Joseph Kabila was named President. ](/news/2011/12/10/at-least-six-people-are-killed-in-clashes-in-the-democratic-republic-of-the-congo-in-the-aftermath-of-disputed-general-elections-in-which-jo.md)
@@ -41,7 +41,7 @@ At least six people have been killed in the capital Kinshasa as opposition suppo
 
 ##### Cristina Kirchner
 ### [Cristina Fernndez de Kirchner is sworn as President of Argentina in a second consecutive mandate. ](/news/2011/12/10/cristina-fernandez-de-kirchner-is-sworn-as-president-of-argentina-in-a-second-consecutive-mandate.md)
-_Context: Cristina Kirchner, President of Argentina_
+_Context: President of Argentina, Cristina Kirchner_
 
 ##### Oscar Valds
 ### [Oscar Valds is named as the new Prime Minister of Peru, after Salomn Lerner Ghitis resigned. ](/news/2011/12/10/oscar-valdes-is-named-as-the-new-prime-minister-of-peru-after-salomon-lerner-ghitis-resigned.md)

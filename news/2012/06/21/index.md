@@ -9,7 +9,7 @@ A Syrian pilot is granted asylum in Jordan after flying a MiG-21 fighter jet acr
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Mexican marines detain Jesus Alfredo Guzman Salazar, the son of Joaquin Guzman Loera (alias "El Chapo"), Mexico's most-wanted drug lord in the western state of Jalisco. ](/news/2012/06/21/mexican-drug-war-mexican-marines-detain-jesaos-alfredo-guzma-n-salazar-the-son-of-joaquan-guzma-n-loera-alias-el-chapo-mexico-s-most.md)
-_Context: most-wanted drug lords, Mexican Drug War, Joaquin Guzman Loera, Jalisco_
+_Context: Joaquin Guzman Loera, Jalisco, most-wanted drug lords, Mexican Drug War_
 
 ##### War in Afghanistan (2001-present)
 ### [In Afghanistan, Taliban soldiers invade a hotel in Kabul, kill guests, and hold some hostages. ](/news/2012/06/21/in-afghanistan-taliban-soldiers-invade-a-hotel-in-kabul-kill-guests-and-hold-some-hostages.md)
@@ -37,7 +37,7 @@ Moody&rsquo;s Investors Service downgraded the debt ratings of 15 major internat
 
 ##### Avianca
 ### [Avianca, Copa Airlines and TACA Airlines join Star Alliance, becoming the 26th, 27th and 28th member airlines. This will prompt TAM Airlines to transfer to Oneworld in the foreseeable future ](/news/2012/06/21/avianca-copa-airlines-and-taca-airlines-join-star-alliance-becoming-the-26th-27th-and-28th-member-airlines-this-will-prompt-tam-airlines.md)
-_Context: TAM Airlines, TACA Airlines, Oneworld, Star Alliance, Copa Airlines, Avianca_
+_Context: Oneworld, Copa Airlines, TACA Airlines, Avianca, TAM Airlines, Star Alliance_
 
 ##### Dow Jones Industrial Average
 ### [The US Dow Jones Industrial Average falls by 251 points on the back of weak economic data and poor news from the Eurozone. ](/news/2012/06/21/the-us-dow-jones-industrial-average-falls-by-251-points-on-the-back-of-weak-economic-data-and-poor-news-from-the-eurozone.md)
@@ -77,7 +77,7 @@ He had been on a medical leave of absence since June 11, following a seizure and
 
 ##### Paraguayan President
 ### [President of Paraguay Fernando Lugo faces impeachment. ](/news/2012/06/21/president-of-paraguay-fernando-lugo-faces-impeachment.md)
-_Context: Paraguayan President, Fernando Lugo_
+_Context: Fernando Lugo, Paraguayan President_
 
 ## [Previous Day...](/news/2012/06/20/index.md)
 

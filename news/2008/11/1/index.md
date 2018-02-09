@@ -5,7 +5,7 @@ Formats: [HTML](2008/11/1/index.html)  [JSON](2008/11/1/index.json)  [XML](2008/
 
 ##### Floods
 ### [ Floods kill 24 people in Vietnam including 11 in the central province of Nghe An. ](/news/2008/11/1/floods-kill-24-people-in-vietnam-including-11-in-the-central-province-of-ngha-an.md)
-_Context: Vietnam, Nghe An Province, Floods_
+_Context: Floods, Nghe An Province, Vietnam_
 
 ##### Moro Islamic Liberation Front
 ### [ Nineteen Moro Islamic Liberation Front rebels are killed by Filipino military air strikes in the southern part of the island of Mindanao. ](/news/2008/11/1/nineteen-moro-islamic-liberation-front-rebels-are-killed-by-filipino-military-air-strikes-in-the-southern-part-of-the-island-of-mindanao.md)
@@ -17,7 +17,7 @@ A 5.0 magnitude aftershock rattled south-western Pakistan, three days after a po
 
 ##### Lunar probe
 ### [ India's first lunar mission, Chandrayaan-1, transmits two pictures of the Earth while en route to the Moon. ](/news/2008/11/1/india-s-first-lunar-mission-chandrayaan-1-transmits-two-pictures-of-the-earth-while-en-route-to-the-moon.md)
-_Context: lunar probe, Earth, Moon, Chandrayaan-1_
+_Context: Chandrayaan-1, Earth, lunar probe, Moon_
 
 ## [Previous Day...](/news/2008/10/31/index.md)
 

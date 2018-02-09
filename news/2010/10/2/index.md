@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/2/index.html)  [JSON](2010/10/2/index.json)  [XML](2010/
 
 ##### Nahr-e Saraj
 ### [A British soldier has been killed in an explosion while on patrol in Nahr-e Saraj District of Helmand Province in Afghanistan. ](/news/2010/10/2/a-british-soldier-has-been-killed-in-an-explosion-while-on-patrol-in-nahr-e-saraj-district-of-helmand-province-in-afghanistan.md)
-_Context: Nahr-e Saraj, Helmand_
+_Context: Helmand, Nahr-e Saraj_
 
 ##### Data Khel
 ### [3 drone strikes kill 18 people in the Data Khel area of North Waziristan in Pakistan's Federally Administered Tribal Area as the government continues to block a NATO supply route into Afghanistan, bringing the numbers of militant and civilian deaths to at least 150. ](/news/2010/10/2/3-drone-strikes-kill-18-people-in-the-data-khel-area-of-north-waziristan-in-pakistan-s-federally-administered-tribal-area-as-the-government.md)
@@ -21,7 +21,7 @@ Hundreds of thousands of people across France take part in the third day of demo
 
 ##### Chang'an
 ### [A four-story residential building under construction collapsed Saturday morning in Chang'an District of Xi'an City, northwest China's Shaanxi Province, killing eight workers and injuring three. ](/news/2010/10/2/a-four-story-residential-building-under-construction-collapsed-saturday-morning-in-chang-an-district-of-xi-an-city-northwest-china-s-shaanx.md)
-_Context: Xi'an City, Shaanxi, Chang'an_
+_Context: Xi'an City, Chang'an, Shaanxi_
 
 ##### Indonesia
 ### [In Indonesia, two trains are involved in a rear-end collision at Petarukan, killing 43 and injuring 50. Another train crash at Solo kills one person. ](/news/2010/10/2/in-indonesia-two-trains-are-involved-in-a-rear-end-collision-at-petarukan-killing-43-and-injuring-50-another-train-crash-at-solo-kills-on.md)
@@ -49,11 +49,11 @@ Paris Hilton is headed back to television -- this time in what is billed as a be
 
 ##### Palestinian Authority
 ### [Palestinian President Mahmoud Abbas tells that peace negotiations will not continue until Israel makes a new settlement freeze on the West Bank, ending the current Israel-Palestine peace negotiations after just one month, though maintaining contacts with the United States. ](/news/2010/10/2/palestinian-president-mahmoud-abbas-tells-that-peace-negotiations-will-not-continue-until-israel-makes-a-new-settlement-freeze-on-the-west-b.md)
-_Context: peace talks, West Bank, Israel, Palestinian Authority President, United States, Palestinian Authority, Mahmoud Abbas_
+_Context: Israel, West Bank, Palestinian Authority, Palestinian Authority President, Mahmoud Abbas, United States, peace talks_
 
 ##### Sweden
 ### [Sweden raises its threat level in response to reports that the country could be targeted by terrorists. ](/news/2010/10/2/sweden-raises-its-threat-level-in-response-to-reports-that-the-country-could-be-targeted-by-terrorists.md)
-_Context: terrorist, Sweden_
+_Context: Sweden, terrorist_
 
 ##### Spanish police
 ### [Spanish police arrest 41 people suspected of financing FARC rebels in Colombia. ](/news/2010/10/2/spanish-police-arrest-41-people-suspected-of-financing-farc-rebels-in-colombia.md)
@@ -69,7 +69,7 @@ California kidnapping victim Jaycee Dugard and her two young daughters will be s
 
 ##### President of Ecuador
 ### [President of Ecuador Rafael Correa declares "a great victory for the government" after defeating the 2010 Ecuador crisis in a nationally broadcast address from the presidential palace. ](/news/2010/10/2/president-of-ecuador-rafael-correa-declares-a-great-victory-for-the-government-after-defeating-the-2010-ecuador-crisis-in-a-nationally-bro.md)
-_Context: President of Ecuador, Rafael Correa, protested against being stripped of their bonuses_
+_Context: President of Ecuador, protested against being stripped of their bonuses, Rafael Correa_
 
 ##### Latvia
 ### [Voters in Latvia go to the polls in a parliamentary election. ](/news/2010/10/2/voters-in-latvia-go-to-the-polls-in-a-parliamentary-election.md)
@@ -81,7 +81,7 @@ A report on the second Lisbon Treaty has been published suggesting the reasons t
 
 ##### Kwa Geok Choo
 ### [Kwa Geok Choo, wife of first Prime Minister of Singapore Lee Kuan Yew and mother of current prime minister Lee Hsien Loong, dies at home. ](/news/2010/10/2/kwa-geok-choo-wife-of-first-prime-minister-of-singapore-lee-kuan-yew-and-mother-of-current-prime-minister-lee-hsien-loong-dies-at-home.md)
-_Context: Kwa Geok Choo, Lee Kuan Yew, Lee Hsien Loong, Prime Minister of Singapore_
+_Context: Lee Kuan Yew, Kwa Geok Choo, Lee Hsien Loong, Prime Minister of Singapore_
 
 ##### Washington, D.C.
 ### [Thousands of people rally in Washington, D.C., calling for improved civil rights in the country. ](/news/2010/10/2/thousands-of-people-rally-in-washington-d-c-calling-for-improved-civil-rights-in-the-country.md)

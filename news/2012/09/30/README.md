@@ -37,11 +37,11 @@ _Context: Spain_
 
 ##### Tokyo Stock Exchange
 ### [Nippon Steel & Sumitomo Metal Corporation's stock debuts on the Tokyo Stock Exchange. The formal merger of Nippon Steel and Sumitomo Metal Industries creates the world's second-largest steelmaker. ](/news/2012/09/30/nippon-steel-sumitomo-metal-corporation-s-stock-debuts-on-the-tokyo-stock-exchange-the-formal-merger-of-nippon-steel-and-sumitomo-metal-i.md)
-_Context: second-largest steelmaker, Sumitomo Metal Industries, Nippon Steel, Tokyo Stock Exchange_
+_Context: Nippon Steel, second-largest steelmaker, Tokyo Stock Exchange, Sumitomo Metal Industries_
 
 ##### Bo Guagua
 ### [Bo Guagua, the son of disgraced Chinese politician Bo Xilai, defends his father in his first comments on the political scandal. ](/news/2012/09/30/bo-guagua-the-son-of-disgraced-chinese-politician-bo-xilai-defends-his-father-in-his-first-comments-on-the-political-scandal.md)
-_Context: Bo Xilai, China, Bo Guagua_
+_Context: China, Bo Guagua, Bo Xilai_
 
 ## [Previous Day...](/news/2012/09/29/index.md)
 

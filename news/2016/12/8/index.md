@@ -13,7 +13,7 @@ _Context: Indonesia, Aceh, 2016 Aceh earthquake_
 
 ##### Drug crackdown
 ### [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md)
-_Context: drug crackdown, constitutional constraints, Philippine National Police, senators, Oplan Tokhang, Philippines_
+_Context: constitutional constraints, Philippine National Police, Oplan Tokhang, drug crackdown, Philippines, senators_
 
 ##### New Zealand National Party leadership election, 2016
 ### [Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.md)

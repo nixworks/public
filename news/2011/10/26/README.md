@@ -9,27 +9,27 @@ _Context: Syria, 2011 Syrian uprising_
 
 ##### Afghanistan
 ### [A bomb hidden in a fuel truck kills at least 5 people and injures 45 in Afghanistan's Parwan province. ](/news/2011/10/26/a-bomb-hidden-in-a-fuel-truck-kills-at-least-5-people-and-injures-45-in-afghanistan-s-parwan-province.md)
-_Context: Afghanistan, Parwan province_
+_Context: Parwan province, Afghanistan_
 
 ##### India
 ### [Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. ](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.md)
-_Context: India, Ra.One, Diwali, Hindu, Bollywood_
+_Context: Diwali, Hindu, India, Ra.One, Bollywood_
 
 ##### Coroner
 ### [A coroner finds that the death of British soul singer Amy Winehouse in July was caused by alcohol poisoning. ](/news/2011/10/26/a-coroner-finds-that-the-death-of-british-soul-singer-amy-winehouse-in-july-was-caused-by-alcohol-poisoning.md)
-_Context: alcohol poisoning, soul music, Amy Winehouse, British, coroner_
+_Context: soul music, alcohol poisoning, British, coroner, Amy Winehouse_
 
 ##### Composite
 ### [The composite-bodied Boeing 787 Dreamliner makes its first commercial flight with All Nippon Airways, flying between Tokyo and Hong Kong. ](/news/2011/10/26/the-composite-bodied-boeing-787-dreamliner-makes-its-first-commercial-flight-with-all-nippon-airways-flying-between-tokyo-and-hong-kong.md)
-_Context: All Nippon Airways, composite, Tokyo, 787 Dreamliner, Hong Kong_
+_Context: All Nippon Airways, 787 Dreamliner, Tokyo, Hong Kong, composite_
 
 ##### Tsuyoshi Kikukawa
 ### [Tsuyoshi Kikukawa resigns as the President and Chairman of Olympus Corporation, as financial and law enforcement bodies in Japan, the United States and the United Kingdom investigate the optical equipment company's acquisitions in recent years. ](/news/2011/10/26/tsuyoshi-kikukawa-resigns-as-the-president-and-chairman-of-olympus-corporation-as-financial-and-law-enforcement-bodies-in-japan-the-united.md)
-_Context: United Kingdom, Tsuyoshi Kikukawa, United States, Japan, Olympus Corp_
+_Context: United Kingdom, United States, Japan, Tsuyoshi Kikukawa, Olympus Corp_
 
 ##### Mexico
 ### [Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. ](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.md)
-_Context: Cancun, Hurricane Rina, Mexico_
+_Context: Hurricane Rina, Mexico, Cancun_
 
 ##### Turkey
 ### [The search for survivors of the Van earthquake in eastern Turkey enters its third day, with 459 confirmed deaths and over 1,300 injured. ](/news/2011/10/26/the-search-for-survivors-of-the-van-earthquake-in-eastern-turkey-enters-its-third-day-with-459-confirmed-deaths-and-over-1-300-injured.md)
@@ -41,7 +41,7 @@ Eurozone leaders holding a summit on the debt crisis find agreement on recapital
 
 ##### Goldman Sachs
 ### [Former Goldman Sachs and Procter and Gamble director Rajat Gupta pleads not guilty to the charge of leaking confidential information to convicted fraudster Raj Rajaratnam. ](/news/2011/10/26/former-goldman-sachs-and-procter-and-gamble-director-rajat-gupta-pleads-not-guilty-to-the-charge-of-leaking-confidential-information-to-conv.md)
-_Context: Goldman Sachs, Rajat Gupta, Raj Rajaratnam, Procter and Gamble_
+_Context: Goldman Sachs, Procter and Gamble, Raj Rajaratnam, Rajat Gupta_
 
 ##### Saif al-Islam Gaddafi
 ### [Saif al-Islam Gaddafi, son of the late Libyan dictator Muammar Gaddafi, is reported to be attempting to negotiate a surrender to the International Criminal Court. ](/news/2011/10/26/saif-al-islam-gaddafi-son-of-the-late-libyan-dictator-muammar-gaddafi-is-reported-to-be-attempting-to-negotiate-a-surrender-to-the-interna.md)
@@ -57,7 +57,7 @@ Update: 7:45 EST/3:45 PST What we know now: Scott Olsen, a US Marine who served 
 
 ##### Brazil
 ### [Brazilian Sports Minister Orlando Silva resigns following corruption allegations, but insists he is innocent. ](/news/2011/10/26/brazilian-sports-minister-orlando-silva-resigns-following-corruption-allegations-but-insists-he-is-innocent.md)
-_Context: Brazil, cabinet, Orlando Silva_
+_Context: Brazil, Orlando Silva, cabinet_
 
 ##### Fungus
 ### [American scientists confirm that a transmissible fungus, "Geomyces destructans", is responsible for the white-nose syndrome that has decimated bat populations across North America since 2006. ](/news/2011/10/26/american-scientists-confirm-that-a-transmissible-fungus-geomyces-destructans-is-responsible-for-the-white-nose-syndrome-that-has-decimat.md)
@@ -65,7 +65,7 @@ Scientists confirm that white-nose syndrome, a disease killing off bats in North
 
 ##### United Nations
 ### [The United Nations states that the world population will reach seven billion people by October 31, 2011. ](/news/2011/10/26/the-united-nations-states-that-the-world-population-will-reach-seven-billion-people-by-october-31-2011.md)
-_Context: world population, United Nations_
+_Context: United Nations, world population_
 
 ## [Previous Day...](/news/2011/10/25/index.md)
 

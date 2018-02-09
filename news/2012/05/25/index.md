@@ -5,11 +5,11 @@ Formats: [HTML](2012/05/25/index.html)  [JSON](2012/05/25/index.json)  [XML](201
 
 ##### Bomb exploded
 ### [A car bomb exploded in the Mexican border city of Nuevo Laredo, injuring 10 police officers during the Mexican Drug War. The attack was believed to have been carried out by Los Zetas, one of Mexico's most powerful drug trafficking organizations. ](/news/2012/05/25/a-car-bomb-exploded-in-the-mexican-border-city-of-nuevo-laredo-injuring-10-police-officers-during-the-mexican-drug-war-the-attack-was-beli.md)
-_Context: bomb exploded, Nuevo Laredo, Mexican Drug War, Los Zetas_
+_Context: Los Zetas, Mexican Drug War, Nuevo Laredo, bomb exploded_
 
 ##### Homs
 ### [Dozens of women and children are killed in a massacre by the Syrian army in the town of Houla, Homs province, Syria during the ongoing Syrian uprising. ](/news/2012/05/25/dozens-of-women-and-children-are-killed-in-a-massacre-by-the-syrian-army-in-the-town-of-houla-homs-province-syria-during-the-ongoing-syria.md)
-_Context: Syrian uprising (2011-present), Syria, Homs_
+_Context: Syrian uprising (2011-present), Homs, Syria_
 
 ##### French President
 ### [The President of France, Franois Hollande, makes a surprise visit to Afghanistan to visit French troops. ](/news/2012/05/25/the-president-of-france-francois-hollande-makes-a-surprise-visit-to-afghanistan-to-visit-french-troops.md)
@@ -17,11 +17,11 @@ French&#x20;President&#x20;Fran&#x00E7;ois&#x20;Hollande&#x20;made&#x20;a&#x20;s
 
 ##### Leveson Inquiry
 ### [As the Leveson Inquiry releases emails exchanged between UK Secretary of State for Culture, Media and Sport Jeremy Hunt and News Corporation lobbyist Fred Michel, Prime Minister David Cameron says he does not regret his decision to let Hunt rule on News Corp's bid for BSkyB. ](/news/2012/05/25/as-the-leveson-inquiry-releases-emails-exchanged-between-uk-secretary-of-state-for-culture-media-and-sport-jeremy-hunt-and-news-corporation.md)
-_Context: Leveson Inquiry, Jeremy Hunt, Fred Michel, News Corporation, David Cameron, Secretary of State for Culture, Media and Sport, BSkyB, Prime Minister_
+_Context: Prime Minister, Secretary of State for Culture, Media and Sport, Leveson Inquiry, Jeremy Hunt, BSkyB, Fred Michel, David Cameron, News Corporation_
 
 ##### Parliament of Papua New Guinea
 ### [Police blockade the Parliament of Papua New Guinea in Port Moresby the day after the government led by Prime Minister of Papua New Guinea Peter O'Neill lays sedition charges against the Chief Justice of the Supreme Court of Papua New Guinea, Sir Salamo Injia. ](/news/2012/05/25/police-blockade-the-parliament-of-papua-new-guinea-in-port-moresby-the-day-after-the-government-led-by-prime-minister-of-papua-new-guinea-pe.md)
-_Context: Chief Justice, Prime Minister, Parliament of Papua New Guinea, Supreme Court of Papua New Guinea, Peter O'Neill, Port Moresby, Salamo Injia, sedition_
+_Context: Port Moresby, Parliament of Papua New Guinea, Peter O'Neill, Salamo Injia, Chief Justice, Supreme Court of Papua New Guinea, sedition, Prime Minister_
 
 ##### First Minister
 ### [First Minister of Scotland Alex Salmond launches the "Yes" campaign for Scottish independence at Cineworld in Edinburgh. ](/news/2012/05/25/first-minister-of-scotland-alex-salmond-launches-the-yes-campaign-for-scottish-independence-at-cineworld-in-edinburgh.md)
@@ -29,7 +29,7 @@ The &quot;yes&quot; campaign for independence wants one million Scots to sign a 
 
 ##### SpaceX
 ### [A SpaceX Dragon becomes the first commercial spacecraft ever to dock with the International Space Station, completing docking at 12:02 pm EDT (16:02 UTC). ](/news/2012/05/25/a-spacex-dragon-becomes-the-first-commercial-spacecraft-ever-to-dock-with-the-international-space-station-completing-docking-at-12-02-pm-ed.md)
-_Context: Eastern Daylight Time, SpaceX, UTC, Dragon, its demo mission, International Space Station_
+_Context: International Space Station, its demo mission, Dragon, SpaceX, Eastern Daylight Time, UTC_
 
 ## [Previous Day...](/news/2012/05/24/index.md)
 

@@ -9,11 +9,11 @@ Ukrainian government forces have conducted a series of successful offensives in 
 
 ##### 2014 Israel-Gaza conflict
 ### [Hours before the expiration of the latest cease-fire Hamas claims responsibility for firing over 29 rockets into Israel reaching Jerusalem and Tel Aviv, Israel responds with airstrikes as the peace talks break down. ](/news/2014/08/19/hours-before-the-expiration-of-the-latest-cease-fire-hamas-claims-responsibility-for-firing-over-29-rockets-into-israel-reaching-jerusalem-a.md)
-_Context: Hamas, 2014 Israel-Gaza conflict, Israel, Tel Aviv, Jerusalem_
+_Context: Israel, Tel Aviv, Hamas, 2014 Israel-Gaza conflict, Jerusalem_
 
 ##### American
 ### [American journalist James Wright Foley, kidnapped in 2012, has reportedly been beheaded by Islamic State of Iraq and Syria. ](/news/2014/08/19/american-journalist-james-wright-foley-kidnapped-in-2012-has-reportedly-been-beheaded-by-islamic-state-of-iraq-and-syria.md)
-_Context: American, James Wright Foley, Islamic State of Iraq and Syria_
+_Context: Islamic State of Iraq and Syria, James Wright Foley, American_
 
 ##### Persian literature
 ### [Iranian poet and one of the most prominent figures of modern Persian literature, Simin Behbahani dies at the age of 87. ](/news/2014/08/19/iranian-poet-and-one-of-the-most-prominent-figures-of-modern-persian-literature-simin-behbahani-dies-at-the-age-of-87.md)

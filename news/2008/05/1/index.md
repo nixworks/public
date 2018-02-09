@@ -9,7 +9,7 @@ _Context: United States Air Force, T-38C_
 
 ##### Sudan
 ### [ Sudanese cameraman Sami Mohy El Din Muhammed Al Hajj is released from the Guantanamo Bay detention camp after more than six years in captivity. ](/news/2008/05/1/sudanese-cameraman-sami-mohy-el-din-muhammed-al-hajj-is-released-from-the-guantanamo-bay-detention-camp-after-more-than-six-years-in-captiv.md)
-_Context: cameraman, detainee, Sami Mohy El Din Muhammed Al Hajj, Sudan_
+_Context: detainee, cameraman, Sudan, Sami Mohy El Din Muhammed Al Hajj_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush authorises tougher sanctions on Myanmar including a freeze on assets held by Myanmar state owned companies held in the United States. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-authorises-tougher-sanctions-on-myanmar-including-a-freeze-on-assets-held-by-myanmar-stat.md)
@@ -17,11 +17,11 @@ U.S. President George W. Bush on Thursday said a vote in Myanmar this month woul
 
 ##### United States
 ### [ The United States Federal Reserve System auctions off $24.12 billion in Treasury securities to help relieve the subprime mortgage crisis. ](/news/2008/05/1/the-united-states-federal-reserve-system-auctions-off-24-12-billion-in-treasury-securities-to-help-relieve-the-subprime-mortgage-crisis.md)
-_Context: auction, subprime mortgage crisis, Treasury securities, United States, $, Federal Reserve System_
+_Context: $, subprime mortgage crisis, auction, Treasury securities, Federal Reserve System, United States_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush calls on the United States Congress to approve a $US700 million food aid package to help relieve the 2007-2008 world food price crisis. ](/news/2008/05/1/the-president-of-the-united-states-george-w-bush-calls-on-the-united-states-congress-to-approve-a-us700-million-food-aid-package-to-help.md)
-_Context: U.S. President, lawmakers, George W. Bush, 2007-2008 world food price crisis, food aid, $_
+_Context: $, U.S. President, food aid, 2007-2008 world food price crisis, lawmakers, George W. Bush_
 
 ##### Barbara Walters
 ### [ News anchor Barbara Walters admits to having affair with US Senator Edward Brooke. ](/news/2008/05/1/news-anchor-barbara-walters-admits-to-having-affair-with-us-senator-edward-brooke.md)
@@ -33,23 +33,23 @@ The state funeral of former President Sir Anthony Mamo will be held tomorrow, th
 
 ##### Bus
 ### [ Eight people are killed and at least 20 injured after a bus carrying North American and European tourists crashes on the Sinai peninsula in Egypt. ](/news/2008/05/1/eight-people-are-killed-and-at-least-20-injured-after-a-bus-carrying-north-american-and-european-tourists-crashes-on-the-sinai-peninsula-in.md)
-_Context: Sinai peninsula, North America, tourist, Egypt, Europe, bus_
+_Context: North America, Europe, tourist, bus, Sinai peninsula, Egypt_
 
 ##### Australia
 ### [ In Australia, a collision between a fishing boat and a runabout on Sydney Harbour kills five people. ](/news/2008/05/1/in-australia-a-collision-between-a-fishing-boat-and-a-runabout-on-sydney-harbour-kills-five-people.md)
-_Context: runabout, Australia, Sydney Harbour_
+_Context: Australia, Sydney Harbour, runabout_
 
 ##### England
 ### [ Voters in England and Wales go to the polls for the United Kingdom local elections, 2008. Early results showed the opposition Conservative Party performing strongly with 44 per cent of the vote while the governing Labour Party was performing poorly with 24 per cent of the vote.](/news/2008/05/1/voters-in-england-and-wales-go-to-the-polls-for-the-united-kingdom-local-elections-2008-early-results-showed-the-opposition-conservative.md)
-_Context: Wales, Labour Party, England, Conservative Party, local elections_
+_Context: Labour Party, Conservative Party, local elections, Wales, England_
 
 ##### Aden Hashi Farah "Eyrow"
 ### [ Aden Hashi Farah "Eyrow", a leader of Al-Shabaab in Somalia, is reported as being killed in a U.S. airstrike. ](/news/2008/05/1/aden-hashi-farah-eyrow-a-leader-of-al-shabaab-in-somalia-is-reported-as-being-killed-in-a-u-s-airstrike.md)
-_Context: Somalia, Al-Shabaab, Aden Hashi Farah "Eyrow", airstrike_
+_Context: Aden Hashi Farah "Eyrow", Somalia, Al-Shabaab, airstrike_
 
 ##### London Agreement on translation of European patents
 ### [ The London Agreement on translation of European patents, concluded in 2000, enters into force in 14 of the 34 Contracting States to the European Patent Convention. ](/news/2008/05/1/the-london-agreement-on-translation-of-european-patents-concluded-in-2000-enters-into-force-in-14-of-the-34-contracting-states-to-the-eur.md)
-_Context: London Agreement on translation of European patents, European Patent Convention_
+_Context: European Patent Convention, London Agreement on translation of European patents_
 
 ## [Previous Day...](/news/2008/04/30/index.md)
 

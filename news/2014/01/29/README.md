@@ -17,11 +17,11 @@ Seven people were killed after a luxury bus caught fire after colliding with a d
 
 ##### Ice
 ### [National Guard troops are deployed to reach students stranded overnight on buses after ice and snow cause widespread traffic chaos in Atlanta, Georgia.](/news/2014/01/29/national-guard-troops-are-deployed-to-reach-students-stranded-overnight-on-buses-after-ice-and-snow-cause-widespread-traffic-chaos-in-atlant.md)
-_Context: ice, snow_
+_Context: snow, ice_
 
 ##### MS ''Explorer of the Seas''
 ### [The cruise ship MS "Explorer of the Seas" returns to port; at least 684 of the 4237 people aboard had symptoms of norovirus. ](/news/2014/01/29/the-cruise-ship-ms-explorer-of-the-seas-returns-to-port-at-least-684-of-the-4237-people-aboard-had-symptoms-of-norovirus.md)
-_Context: MS ''Explorer of the Seas'', norovirus_
+_Context: norovirus, MS ''Explorer of the Seas''_
 
 ##### Stem cells
 ### [Scientists find a way to convert normal cells into stem cells, which can be used for any part of the body. Previously, the standard method of obtaining stem cells was to get them from an embryo. ](/news/2014/01/29/scientists-find-a-way-to-convert-normal-cells-into-stem-cells-which-can-be-used-for-any-part-of-the-body-previously-the-standard-method-o.md)
@@ -29,7 +29,7 @@ The new technique — a simple acid bath — has so far been used successfully o
 
 ##### Canadian
 ### [Canadian singer Justin Bieber surrenders to Toronto Police to face assault charges. ](/news/2014/01/29/canadian-singer-justin-bieber-surrenders-to-toronto-police-to-face-assault-charges.md)
-_Context: Canadian, Toronto Police, Justin Bieber_
+_Context: Canadian, Justin Bieber, Toronto Police_
 
 ##### Government's
 ### [In the Czech Republic a new coalition government is sworn in, led by Bohuslav Sobotka and consisting of the Social Democrats, the liberalist ANO 2011 and the Christian Democrats. ](/news/2014/01/29/in-the-czech-republic-a-new-coalition-government-is-sworn-in-led-by-bohuslav-sobotka-and-consisting-of-the-social-democrats-the-liberalist.md)
@@ -41,7 +41,7 @@ Backlash over online poll on Leningrad siege leads to channel being axed from ne
 
 ##### Barack Obama
 ### [U.S. President Barack Obama signs the myRA at a visit to U.S. Steel's Irvin Works in metropolitan Pittsburgh. ](/news/2014/01/29/u-s-president-barack-obama-signs-the-myra-at-a-visit-to-u-s-steel-s-irvin-works-in-metropolitan-pittsburgh.md)
-_Context: U.S. Steel, myRA, Pittsburgh, Irvin Works, Barack Obama_
+_Context: Pittsburgh, Barack Obama, Irvin Works, U.S. Steel, myRA_
 
 ## [Previous Day...](/news/2014/01/28/index.md)
 

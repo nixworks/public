@@ -5,7 +5,7 @@ Formats: [HTML](2010/11/8/index.html)  [JSON](2010/11/8/index.json)  [XML](2010/
 
 ##### AfghanistanAfghan
 ### [AfghanistanAfghan and NATO-led troops kill 15 Taliban militants in the southern Kandahar province during a joint operation. ](/news/2010/11/8/afghanistanafghan-and-nato-led-troops-kill-15-taliban-militants-in-the-southern-kandahar-province-during-a-joint-operation.md)
-_Context: AfghanistanAfghan, Taliban, Kandahar province, NATO_
+_Context: Taliban, AfghanistanAfghan, NATO, Kandahar province_
 
 ##### Fighting
 ### [Fighting erupts between ethnic rebel groups and Burmese government forces in the east of the country; thousands of people flee into Thailand. ](/news/2010/11/8/fighting-erupts-between-ethnic-rebel-groups-and-burmese-government-forces-in-the-east-of-the-country-thousands-of-people-flee-into-thailand.md)
@@ -13,7 +13,7 @@ Thousands flee across the Burmese border to escape clashes between troops and et
 
 ##### U.S.
 ### [An armed group kidnaps at least two Americans, two Frenchmen and a Canadian from an Transocean oil rig in the Okoro Oilfield off the coast of Niger Delta, Nigeria, injuring two others. ](/news/2010/11/8/an-armed-group-kidnaps-at-least-two-americans-two-frenchmen-and-a-canadian-from-an-transocean-oil-rig-in-the-okoro-oilfield-off-the-coast-o.md)
-_Context: U.S., oil rig, Frenchmen, Nigeria, Niger Delta, Transocean, Canadian, Okoro Oilfield_
+_Context: Transocean, Niger Delta, U.S., Frenchmen, Canadian, oil rig, Nigeria, Okoro Oilfield_
 
 ##### Iraq
 ### [Bomb attacks in the Iraqi cities of Karbala, Najaf and Basra kill at least nineteen people and injure scores more. ](/news/2010/11/8/bomb-attacks-in-the-iraqi-cities-of-karbala-najaf-and-basra-kill-at-least-nineteen-people-and-injure-scores-more.md)
@@ -25,7 +25,7 @@ _Context: high-profile exit from ''The Tonight Show'', Conan O'Brien, TBS_
 
 ##### Foreign Minister of Israel
 ### [The Foreign Minister of Israel, Avigdor Lieberman, denounces the left-wing performers who refuse to perform in a theatre in a Jewish settlement on the West Bank as an "extremist group trying to wage cultural terrorism". ](/news/2010/11/8/the-foreign-minister-of-israel-avigdor-lieberman-denounces-the-left-wing-performers-who-refuse-to-perform-in-a-theatre-in-a-jewish-settlem.md)
-_Context: West Bank, Foreign Minister of Israel, Avigdor Lieberman_
+_Context: Avigdor Lieberman, Foreign Minister of Israel, West Bank_
 
 ##### France
 ### [French novelist Michel Houellebecq wins the Prix Goncourt for his book "La Carte et le Territoire" ("The Map and the Territory"). ](/news/2010/11/8/french-novelist-michel-houellebecq-wins-the-prix-goncourt-for-his-book-la-carte-et-le-territoire-the-map-and-the-territory.md)
@@ -41,11 +41,11 @@ Australian airline Qantas says it is keeping its Airbus A380s grounded for furth
 
 ##### DHL
 ### [Express delivery company DHL promises better screening of customers and parcels before they are sent to airports after recent parcel bombs sent from Yemen and Greece. ](/news/2010/11/8/express-delivery-company-dhl-promises-better-screening-of-customers-and-parcels-before-they-are-sent-to-airports-after-recent-parcel-bombs-s.md)
-_Context: Greece, parcel bomb, DHL, Yemen bomb attacks_
+_Context: Greece, parcel bomb, Yemen bomb attacks, DHL_
 
 ##### Diesel fuel
 ### [A government conservation campaign, and possible hoarding by state oil companies, causes a severe shortage on diesel fuel in the People's Republic of China, disrupting industry and commerce. ](/news/2010/11/8/a-government-conservation-campaign-and-possible-hoarding-by-state-oil-companies-causes-a-severe-shortage-on-diesel-fuel-in-the-people-s-re.md)
-_Context: diesel fuel, China_
+_Context: China, diesel fuel_
 
 ##### Worst epidemic of cholera
 ### [At least 120 people are tested for cholera in the capital of Haiti, Port-au-Prince. ](/news/2010/11/8/at-least-120-people-are-tested-for-cholera-in-the-capital-of-haiti-port-au-prince.md)
@@ -53,7 +53,7 @@ _Context: Port-au-Prince, worst epidemic of cholera, Haiti_
 
 ##### German Foreign Minister
 ### [German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel. ](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.md)
-_Context: Gilad Shalit, Hamas, Gaza Strip, Guido Westerwelle, Israel, German Foreign Minister_
+_Context: Guido Westerwelle, German Foreign Minister, Hamas, Gaza Strip, Israel, Gilad Shalit_
 
 ##### Kimberley Process
 ### [The annual meeting of the Kimberley Process closes in Jerusalem without finding a solution to the issue of "blood diamond" exports from the Marange diamond fields of Zimbabwe. ](/news/2010/11/8/the-annual-meeting-of-the-kimberley-process-closes-in-jerusalem-without-finding-a-solution-to-the-issue-of-ablood-diamonda-exports-from.md)
@@ -61,11 +61,11 @@ Last week’s four-day annual plenary meeting of the diamond-regulating Kimberle
 
 ##### U.S. President
 ### [President of the United States Barack Obama backs a permanent seat for India on the UN Security Council. ](/news/2010/11/8/president-of-the-united-states-barack-obama-backs-a-permanent-seat-for-india-on-the-un-security-council.md)
-_Context: Barack Obama, UN Security Council, U.S. President_
+_Context: U.S. President, Barack Obama, UN Security Council_
 
 ##### Obama administration
 ### [The Obama administration bans cargo shipments from Somalia in the wake of the Yemen bomb attacks. ](/news/2010/11/8/the-obama-administration-bans-cargo-shipments-from-somalia-in-the-wake-of-the-yemen-bomb-attacks.md)
-_Context: Somalia, Yemen bomb attacks, Obama administration_
+_Context: Obama administration, Yemen bomb attacks, Somalia_
 
 ##### Israel
 ### [Israel has revealed plans to build nearly 1,300 housing units for Jewish settlers in east Jerusalem. ](/news/2010/11/8/israel-has-revealed-plans-to-build-nearly-1-300-housing-units-for-jewish-settlers-in-east-jerusalem.md)
@@ -81,11 +81,11 @@ _Context: Libya_
 
 ##### Kushchyovskaya
 ### [Unidentified attackers armed with knives kill 12 people in Kushchyovskaya, Krasnodar krai, Russia. ](/news/2010/11/8/unidentified-attackers-armed-with-knives-kill-12-people-in-kushchyovskaya-krasnodar-krai-russia.md)
-_Context: Krasnodar region, Russia, Kushchyovskaya_
+_Context: Krasnodar region, Kushchyovskaya, Russia_
 
 ##### U.S.
 ### [U.S. militant Lori Berenson is released from prison in Peru after serving more than a decade for collaborating with the Tupac Amaru Revolutionary Movement. ](/news/2010/11/8/u-s-militant-lori-berenson-is-released-from-prison-in-peru-after-serving-more-than-a-decade-for-collaborating-with-the-taopac-amaru-revolut.md)
-_Context: U.S., Tupac Amaru Revolutionary Movement, Lori Berenson, Peru_
+_Context: Peru, Tupac Amaru Revolutionary Movement, Lori Berenson, U.S._
 
 ##### Palestinian Authority
 ### [Human rights organizations say the Palestinian Authority is depriving Palestinians in Gaza affiliated with Hamas of passports; Hamas has retaliated by depriving Gazans belonging to Fatah of their passports. ](/news/2010/11/8/human-rights-organizations-say-the-palestinian-authority-is-depriving-palestinians-in-gaza-affiliated-with-hamas-of-passports-hamas-has-ret.md)
@@ -93,7 +93,7 @@ Human rights organizations say the PA is punishing Gaza Palestinians affiliated 
 
 ##### Parliamentary elections
 ### [Parliamentary elections in Azerbaijan were held in accordance with international standards. ](/news/2010/11/8/parliamentary-elections-in-azerbaijan-were-held-in-accordance-with-international-standards.md)
-_Context: Parliamentary elections, Azerbaijan_
+_Context: Azerbaijan, Parliamentary elections_
 
 ##### Western Sahara
 ### [Two people are killed and several injured after a protest camp in Western Sahara is broken up by Morocco, hours before talks on the disputed territory begin. ](/news/2010/11/8/two-people-are-killed-and-several-injured-after-a-protest-camp-in-western-sahara-is-broken-up-by-morocco-hours-before-talks-on-the-disputed.md)
@@ -101,19 +101,19 @@ At least five people are killed and dozens injured as Moroccan forces break up a
 
 ##### ECOWAS
 ### [An ECOWAS regional court in West Africa orders authorities in Niger to release deposed President Mamadou Tandja who was detained in a coup in February. ](/news/2010/11/8/an-ecowas-regional-court-in-west-africa-orders-authorities-in-niger-to-release-deposed-president-mamadou-tandja-who-was-detained-in-a-coup-i.md)
-_Context: ECOWAS, Mamadou Tandja, coup, Niger, West Africa_
+_Context: Niger, West Africa, coup, ECOWAS, Mamadou Tandja_
 
 ##### Australian Prime Minister
 ### [Australian Prime Minister Julia Gillard announces a referendum to decide whether indigenous Australians should be recognised in the Constitution. ](/news/2010/11/8/australian-prime-minister-julia-gillard-announces-a-referendum-to-decide-whether-indigenous-australians-should-be-recognised-in-the-constitu.md)
-_Context: Julia Gillard, referendum, Constitution, Australian Prime Minister, indigenous Australians_
+_Context: indigenous Australians, Julia Gillard, referendum, Australian Prime Minister, Constitution_
 
 ##### Vietnam Academy of Science and Technology
 ### [The reptile scientist, Ngo Van Tri of the Vietnam Academy of Science and Technology, discovers a species of self-cloning lizard later known as "Leiolepis ngovantrii" when he came across tanks full of them at small restaurants in rural villages in Ba Ria-Vung Tau Province. Ngo Van Tri becomes intrigued when he notices that all of the lizards appeared to be female. ](/news/2010/11/8/the-reptile-scientist-nga-van-tra-of-the-vietnam-academy-of-science-and-technology-discovers-a-species-of-self-cloning-lizard-later-kno.md)
-_Context: Ba Ria-Vung Tau Province, cloning, Leiolepis ngovantrii, Vietnam Academy of Science and Technology_
+_Context: Vietnam Academy of Science and Technology, cloning, Ba Ria-Vung Tau Province, Leiolepis ngovantrii_
 
 ##### Wen Jiabao
 ### [Chinese Premier Wen Jiabao unveils pictures of the moon's Sinus Iridum, or Bay of Rainbows, taken during China's Chang`e-2 lunar probe mission. ](/news/2010/11/8/chinese-premier-wen-jiabao-unveils-pictures-of-the-moon-s-sinus-iridum-or-bay-of-rainbows-taken-during-china-s-chang-e-2-lunar-probe-missi.md)
-_Context: Sinus Iridum, moon, Wen Jiabao, Chang`e-2, China_
+_Context: China, Sinus Iridum, Chang`e-2, Wen Jiabao, moon_
 
 ## [Previous Day...](/news/2010/11/7/index.md)
 

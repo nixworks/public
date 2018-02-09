@@ -25,7 +25,7 @@ The Somali National Theatre reopens in Mogadishu more than two decades after it 
 
 ##### German
 ### [Public sector workers in the German states of Lower Saxony and Bremen begin a 24-hour strike as part of pay negotiations. ](/news/2012/03/19/public-sector-workers-in-the-german-states-of-lower-saxony-and-bremen-begin-a-24-hour-strike-as-part-of-pay-negotiations.md)
-_Context: Lower Saxony, German, Bremen_
+_Context: Bremen, Lower Saxony, German_
 
 ##### Wendy's
 ### [Wendy's becomes the second best selling hamburger chain in the USA, overtaking Burger King. ](/news/2012/03/19/wendy-s-becomes-the-second-best-selling-hamburger-chain-in-the-usa-overtaking-burger-king.md)
@@ -61,7 +61,7 @@ Police are investigating a break-in at the home of the Irish minister for Justic
 
 ##### Interpol
 ### [An Interpol arrest warrant is issued for Michael Misick, former Premier of the Turks and Caicos Islands on corruption charges. ](/news/2012/03/19/an-interpol-arrest-warrant-is-issued-for-michael-misick-former-premier-of-the-turks-and-caicos-islands-on-corruption-charges.md)
-_Context: Premier of the Turks and Caicos Islands, Interpol, Michael Misick_
+_Context: Premier of the Turks and Caicos Islands, Michael Misick, Interpol_
 
 ##### Maldives
 ### [Demonstrations occur against Maldivian President Mohammed Waheed Hassan, accused of taking power in a coup, as he attempts to open parliament for the second time this month. ](/news/2012/03/19/demonstrations-occur-against-maldivian-president-mohammed-waheed-hassan-accused-of-taking-power-in-a-coup-as-he-attempts-to-open-parliamen.md)
@@ -69,7 +69,7 @@ Opposition supporters demonstrate against President Mohammed Waheed Hassan, who 
 
 ##### President
 ### [The President of East Timor Jose Ramos-Horta concedes defeat in the East Timorese presidential election with Taur Matan Ruak and Francisco Guterres likely to contest a runoff in April. ](/news/2012/03/19/the-president-of-east-timor-josa-c-ramos-horta-concedes-defeat-in-the-east-timorese-presidential-election-with-taur-matan-ruak-and-francisco.md)
-_Context: Jose Ramos-Horta, Taur Matan Ruak, President, 2012, Francisco Guterres_
+_Context: 2012, Francisco Guterres, Taur Matan Ruak, Jose Ramos-Horta, President_
 
 ##### Tonga
 ### [Tonga is in mourning following the death of King George Tupou V. ](/news/2012/03/19/tonga-is-in-mourning-following-the-death-of-king-george-tupou-v.md)

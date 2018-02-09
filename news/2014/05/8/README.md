@@ -21,7 +21,7 @@ The U.K. lender is abandoning its ambitions to be an elite global bank and said 
 
 ##### Petrobras
 ### [Brazilian oil company Petrobras announces that it plans to cut 8,000 jobs by voluntary dismissal after a significant loss of its economy due to ongoing crisis at its Pasadena Refining System. ](/news/2014/05/8/brazilian-oil-company-petrobras-announces-that-it-plans-to-cut-8-000-jobs-by-voluntary-dismissal-after-a-significant-loss-of-its-economy-due.md)
-_Context: Petrobras, voluntary dismissal, Pasadena Refining System_
+_Context: voluntary dismissal, Pasadena Refining System, Petrobras_
 
 ##### Thailand
 ### [Thailand's National Anti-Corruption Commission refers former Prime Minister Yingluck Shinawatra to face impeachment charges in the Senate over a failed rice subsidy scheme. ](/news/2014/05/8/thailand-s-national-anti-corruption-commission-refers-former-prime-minister-yingluck-shinawatra-to-face-impeachment-charges-in-the-senate-ov.md)

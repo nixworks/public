@@ -13,15 +13,15 @@ American border patrol agents discovered four charred bodies in rugged mountains
 
 ##### Ehud Barak
 ### [ Ehud Barak, the Defense Minister of Israel, approves a plan to cut off supplies of electricity to the Gaza Strip which has been recently declared as "hostile territory". ](/news/2007/10/25/ehud-barak-the-defense-minister-of-israel-approves-a-plan-to-cut-off-supplies-of-electricity-to-the-gaza-strip-which-has-been-recently-de.md)
-_Context: Israel, Ehud Barak, Gaza Strip_
+_Context: Ehud Barak, Israel, Gaza Strip_
 
 ##### United States
 ### [ The United States imposes economic sanctions against the Iranian Revolutionary Guard for its support of terrorism. ](/news/2007/10/25/the-united-states-imposes-economic-sanctions-against-the-iranian-revolutionary-guard-for-its-support-of-terrorism.md)
-_Context: Iranian Revolutionary Guard, economic sanction, United States, terrorism_
+_Context: Iranian Revolutionary Guard, economic sanction, terrorism, United States_
 
 ##### Yang
 ### [ Yang Jiechi, the foreign minister of China, meets with Pranab Mukherjee, the Foreign Minister of India, to discuss India's aspirations to become a Permanent Member of the United Nations Security Council. ](/news/2007/10/25/yang-jiechi-the-foreign-minister-of-china-meets-with-pranab-mukherjee-the-foreign-minister-of-india-to-discuss-india-s-aspirations-to-b.md)
-_Context: India, Yang, United Nations Security Council, Pranab Mukherjee, China_
+_Context: India, Pranab Mukherjee, United Nations Security Council, Yang, China_
 
 ##### A380
 ### [ The Airbus A380 takes off on its inaugural passenger flight from Singapore to Sydney. ](/news/2007/10/25/the-airbus-a380-takes-off-on-its-inaugural-passenger-flight-from-singapore-to-sydney.md)

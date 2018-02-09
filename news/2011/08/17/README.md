@@ -17,11 +17,11 @@ Verizon Communications Inc. told 45,000 striking workers that it will suspend ce
 
 ##### Gold
 ### [The price of gold reaches a new record after the President of Venezuela Hugo Chvez announces plans to nationalize the Venezuelan gold industry. ](/news/2011/08/17/the-price-of-gold-reaches-a-new-record-after-the-president-of-venezuela-hugo-chavez-announces-plans-to-nationalize-the-venezuelan-gold-indus.md)
-_Context: gold, Hugo Chvez, Venezuela, Venezuelan President_
+_Context: Venezuelan President, Hugo Chvez, gold, Venezuela_
 
 ##### Financial Times
 ### [The "Financial Times" reports that sources "familiar with the situation" say Liberty Media is losing interest in a purchase of Barnes & Noble, due to financing constraints. ](/news/2011/08/17/the-financial-times-reports-that-sources-familiar-with-the-situation-say-liberty-media-is-losing-interest-in-a-purchase-of-barnes-nobl.md)
-_Context: Barnes & Noble, Liberty Media, Financial Times_
+_Context: Barnes & Noble, Financial Times, Liberty Media_
 
 ##### Special Tribunal for Lebanon
 ### [The Special Tribunal for Lebanon publishes an indictment against Hezbollah members accused in the 2005 assassination of Lebanese Prime Minister Rafic Hariri. ](/news/2011/08/17/the-special-tribunal-for-lebanon-publishes-an-indictment-against-hezbollah-members-accused-in-the-2005-assassination-of-lebanese-prime-minis.md)
@@ -45,11 +45,11 @@ A fourth person is charged with murder after the deaths of three men who were st
 
 ##### Vasyl Dzharty
 ### [Vasyl Dzharty, the Prime Minister of Crimea, an autonomous region of Ukraine, dies in office. ](/news/2011/08/17/vasyl-dzharty-the-prime-minister-of-crimea-an-autonomous-region-of-ukraine-dies-in-office.md)
-_Context: Ukraine, Vasyl Dzharty, Prime Minister of Crimea, autonomous region_
+_Context: Vasyl Dzharty, autonomous region, Ukraine, Prime Minister of Crimea_
 
 ##### Singapore
 ### [Singapore's Presidential Elections Committee approves four presidential candidates for the presidential election on August 27: Tony Tan Keng Yam, Tan Cheng Bock, Tan Kin Lian and Tan Jee Say. ](/news/2011/08/17/singapore-s-presidential-elections-committee-approves-four-presidential-candidates-for-the-presidential-election-on-august-27-tony-tan-keng.md)
-_Context: Tan Kin Lian, Presidential Elections Committee, Tan Jee Say, Tan Cheng Bock, Singapore, Tony Tan Keng Yam, presidential election_
+_Context: Tan Jee Say, Tan Kin Lian, presidential election, Tony Tan Keng Yam, Presidential Elections Committee, Singapore, Tan Cheng Bock_
 
 ## [Previous Day...](/news/2011/08/16/index.md)
 

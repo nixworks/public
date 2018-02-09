@@ -33,11 +33,11 @@ US actor Al Pacino receives the National Medal of Arts at a White House ceremony
 
 ##### Australia and New Zealand Banking Group
 ### [The Australia and New Zealand Banking Group announces plans to cut 1000 jobs in Australia. ](/news/2012/02/13/the-australia-and-new-zealand-banking-group-announces-plans-to-cut-1000-jobs-in-australia.md)
-_Context: Australia and New Zealand Banking Group, Australia_
+_Context: Australia, Australia and New Zealand Banking Group_
 
 ##### Japan
 ### [Japan suffers negative economic growth for the fourth quarter of 2011 making it three out of four quarters that the Japanese economy shrinks. ](/news/2012/02/13/japan-suffers-negative-economic-growth-for-the-fourth-quarter-of-2011-making-it-three-out-of-four-quarters-that-the-japanese-economy-shrinks.md)
-_Context: Economy of Japan, economic growth, Japan_
+_Context: Japan, Economy of Japan, economic growth_
 
 ##### Rangers F.C.
 ### [Rangers F.C. announces an intent to enter administration. ](/news/2012/02/13/rangers-f-c-announces-an-intent-to-enter-administration.md)
@@ -45,7 +45,7 @@ Rangers Football Club lodges legal papers signalling its intention to go into ad
 
 ##### European Union
 ### [The European Union and United States approve Google's $12.5 billion acquisition of smartphone maker Motorola. ](/news/2012/02/13/the-european-union-and-united-states-approve-google-s-12-5-billion-acquisition-of-smartphone-maker-motorola.md)
-_Context: Motorola Mobility, Google, smartphone, United States, European Union_
+_Context: smartphone, European Union, Motorola Mobility, United States, Google_
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades the credit ratings of several European Union members including Italy, Malta, Portugal, Slovakia, Slovenia and Spain and issues a negative outlook for the ratings of Austria, France and the United Kingdom. ](/news/2012/02/13/moody-s-investors-service-downgrades-the-credit-ratings-of-several-european-union-members-including-italy-malta-portugal-slovakia-sloven.md)
@@ -53,23 +53,23 @@ continues to be well supported by a large, diversified and highly competitive ec
 
 ##### Magnitude
 ### [A 5.5-magnitude earthquake hits Northern California, near Weitchpec, according to the United States Geological Survey. ](/news/2012/02/13/a-5-5-magnitude-earthquake-hits-northern-california-near-weitchpec-according-to-the-united-states-geological-survey.md)
-_Context: United States Geological Survey, Northern California, magnitude, Weitchpec_
+_Context: United States Geological Survey, Weitchpec, magnitude, Northern California_
 
 ##### Azerbaijan
 ### [Azerbaijan rejects a claim by Iran that it has been helping Israeli spies in the killing of an Iranian nuclear scientist. ](/news/2012/02/13/azerbaijan-rejects-a-claim-by-iran-that-it-has-been-helping-israeli-spies-in-the-killing-of-an-iranian-nuclear-scientist.md)
-_Context: Israel, Azerbaijan, Iran_
+_Context: Iran, Azerbaijan, Israel_
 
 ##### Prime Minister
 ### [The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. ](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.md)
-_Context: contempt of court, Prime Minister, Supreme Court, Yousuf Raza Gilani_
+_Context: Yousuf Raza Gilani, Supreme Court, Prime Minister, contempt of court_
 
 ##### Abu Qatada
 ### [Abu Qatada, accused of being one of the United Kingdom's most dangerous preachers of Islamic extremism, is released from prison following a ruling from the European Court of Human Rights last week. ](/news/2012/02/13/abu-qatada-accused-of-being-one-of-the-united-kingdom-s-most-dangerous-preachers-of-islamic-extremism-is-released-from-prison-following-a.md)
-_Context: Abu Qatada, European Court of Human Rights, Islamic extremist group, United Kingdom_
+_Context: Islamic extremist group, United Kingdom, Abu Qatada, European Court of Human Rights_
 
 ##### Turkmenistan
 ### [The president of Turkmenistan, Gurbanguli Berdymukhamedov, wins a new five-year term with 97% of the vote, according to election officials. ](/news/2012/02/13/the-president-of-turkmenistan-gurbanguli-berdymukhamedov-wins-a-new-five-year-term-with-97-of-the-vote-according-to-election-officials.md)
-_Context: wins a new five-year term, Turkmenistan, Gurbanguli Berdymukhamedov_
+_Context: wins a new five-year term, Gurbanguli Berdymukhamedov, Turkmenistan_
 
 ##### Washington
 ### [Washington governor Christine Gregoire signs a bill into law that legalizes same-sex marriage in the state. ](/news/2012/02/13/washington-governor-christine-gregoire-signs-a-bill-into-law-that-legalizes-same-sex-marriage-in-the-state.md)
@@ -81,7 +81,7 @@ _Context: New Jersey, allow_
 
 ##### European Space Agency
 ### [The first launch of a new ESA carrier rocket Vega takes place from the Guiana Space Centre. ](/news/2012/02/13/the-first-launch-of-a-new-esa-carrier-rocket-vega-takes-place-from-the-guiana-space-centre.md)
-_Context: European Space Agency, Guiana Space Centre, Vega_
+_Context: European Space Agency, Vega, Guiana Space Centre_
 
 ## [Previous Day...](/news/2012/02/12/index.md)
 

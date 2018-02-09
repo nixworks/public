@@ -5,11 +5,11 @@ Formats: [HTML](2014/03/31/index.html)  [JSON](2014/03/31/index.json)  [XML](201
 
 ##### North Korea
 ### [North and South Korea exchange artillery fire across sea boundaries. ](/news/2014/03/31/north-and-south-korea-exchange-artillery-fire-across-sea-boundaries.md)
-_Context: South Korea, North Korea_
+_Context: North Korea, South Korea_
 
 ##### Kenya
 ### [Explosions kill at least five people and injure several more in the Kenyan capital, Nairobi. ](/news/2014/03/31/explosions-kill-at-least-five-people-and-injure-several-more-in-the-kenyan-capital-nairobi.md)
-_Context: Nairobi, Kenya_
+_Context: Kenya, Nairobi_
 
 ##### How I Met Your Mother
 ### ["How I Met Your Mother" airs its final episode. ](/news/2014/03/31/how-i-met-your-mother-airs-its-final-episode.md)
@@ -25,15 +25,15 @@ The International Court of Justice rules Japan must immediately stop its whaling
 
 ##### Tuvalu
 ### [Tuvalu withdraws its recognition of Abkhazia and South Ossetia after re-establishing diplomatic relations with Georgia. ](/news/2014/03/31/tuvalu-withdraws-its-recognition-of-abkhazia-and-south-ossetia-after-re-establishing-diplomatic-relations-with-georgia.md)
-_Context: South Ossetia,  Georgian, Abkhazia, recognition, Tuvalu_
+_Context: Abkhazia,  Georgian, recognition, South Ossetia, Tuvalu_
 
 ##### Pakistan
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)
-_Context: Pakistan, president, Pervez Musharraf, high treason, emergency rule_
+_Context: Pervez Musharraf, president, high treason, emergency rule, Pakistan_
 
 ##### French municipal elections, 2014
 ### [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md)
-_Context: Minister of the Interior, Franois Hollande, Prime Minister, Jean-Marc Ayrault, Manuel Valls, French municipal elections, 2014, PS, French President_
+_Context: French President, Manuel Valls, PS, Jean-Marc Ayrault, French municipal elections, 2014, Minister of the Interior, Franois Hollande, Prime Minister_
 
 ##### Intergovernmental Panel on Climate Change
 ### [The Intergovernmental Panel on Climate Change releases a new report outlining the impact of climate change on the world at the end of a week of meetings in Yokohama, Japan. ](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.md)

@@ -17,7 +17,7 @@ A string of moderate earthquakes hit central Italy on Wednesday, shaking an area
 
 ##### U.S. President
 ### [ Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. ](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.md)
-_Context: U.S. President, Houston Methodist San Jacinto Hospital, George H. W. Bush, Barbara, intensive care, pneumonia_
+_Context: George H. W. Bush, pneumonia, Barbara, intensive care, Houston Methodist San Jacinto Hospital, U.S. President_
 
 ##### Mayor of London
 ### [London Mayor Sadiq Khan declares a public health emergency for at least the next three days because of high levels of air pollution in the London area. The Department for Environment says this pollution episode could last until at least Sunday. ](/news/2017/01/18/london-mayor-sadiq-khan-declares-a-public-health-emergency-for-at-least-the-next-three-days-because-of-high-levels-of-air-pollution-in-the-l.md)
@@ -25,7 +25,7 @@ Mayor Sadiq Khan today put London on toxic air alert for at least three days. Ci
 
 ##### Mexican Police
 ### [At least four people are killed in a shootout between Mexican Police and unknown gunmen after the latter opened fire on the Quintana Roo state attorneys' office in Cancun. ](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.md)
-_Context: Cancun, Mexican Police, Quintana Roo_
+_Context: Quintana Roo, Mexican Police, Cancun_
 
 ##### Colegio Americano del Noreste 2017 shootings
 ### [A student wounds four people in a school shooting and then kills himself in Monterrey, Mexico. ](/news/2017/01/18/a-student-wounds-four-people-in-a-school-shooting-and-then-kills-himself-in-monterrey-mexico.md)

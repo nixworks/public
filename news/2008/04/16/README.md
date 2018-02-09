@@ -13,7 +13,7 @@ _Context: India, Gujarat, Narmada River_
 
 ##### United States Supreme Court
 ### [ The United States Supreme Court upholds the constitutionality of lethal injection as a form of capital punishment over Eighth Amendment "cruel and unusual punishment" challenges. ](/news/2008/04/16/the-united-states-supreme-court-upholds-the-constitutionality-of-lethal-injection-as-a-form-of-capital-punishment-over-eighth-amendment-cr.md)
-_Context: United States Supreme Court, constitutionality, cruel and unusual punishment, constitutional rights, lethal injection, capital punishment, upholds_
+_Context: lethal injection, United States Supreme Court, upholds, constitutional rights, capital punishment, cruel and unusual punishment, constitutionality_
 
 ## [Previous Day...](/news/2008/04/15/index.md)
 

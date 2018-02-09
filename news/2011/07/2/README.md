@@ -25,7 +25,7 @@ Eurozone finance ministers agree to release a further 12bn euros of emergency ai
 
 ##### Australia
 ### [Australia's Civil Aviation Safety Authority grounds all Tiger Airways flights in the country until July 9 due to a range of safety concerns. ](/news/2011/07/2/australia-s-civil-aviation-safety-authority-grounds-all-tiger-airways-flights-in-the-country-until-july-9-due-to-a-range-of-safety-concerns.md)
-_Context: Civil Aviation Safety Authority, Tiger Airways, Australia_
+_Context: Tiger Airways, Australia, Civil Aviation Safety Authority_
 
 ##### Coal mine
 ### [3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. ](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.md)
@@ -37,7 +37,7 @@ Mexican authorities have confirmed 11 deaths from Tropical Storm Arlene and the 
 
 ##### ExxonMobil Corporation
 ### [ExxonMobil workers attempt to contain an oil spill on the Yellowstone River in the US state of Montana. ](/news/2011/07/2/exxonmobil-workers-attempt-to-contain-an-oil-spill-on-the-yellowstone-river-in-the-us-state-of-montana.md)
-_Context: Yellowstone River, Montana, oil spill, ExxonMobil Corporation_
+_Context: Montana, Yellowstone River, ExxonMobil Corporation, oil spill_
 
 ##### Hong Kong
 ### [228 people are arrested during a large demonstration in Hong Kong amid frustration with government policies and rising property prices. ](/news/2011/07/2/228-people-are-arrested-during-a-large-demonstration-in-hong-kong-amid-frustration-with-government-policies-and-rising-property-prices.md)

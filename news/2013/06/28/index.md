@@ -17,7 +17,7 @@ _Context: Plateau State, Nigeria_
 
 ##### Songkhla
 ### [Two people are killed and seven injured in a bomb attack in Songkhla, Thailand. ](/news/2013/06/28/two-people-are-killed-and-seven-injured-in-a-bomb-attack-in-songkhla-thailand.md)
-_Context: Thailand, Songkhla_
+_Context: Songkhla, Thailand_
 
 ##### Karachi, Pakistan
 ### [Three people are killed and seven injured in an attack in Karachi, Pakistan ](/news/2013/06/28/three-people-are-killed-and-seven-injured-in-an-attack-in-karachi-pakistan.md)
@@ -57,7 +57,7 @@ _Context: John Constable, The Hay Wain_
 
 ##### California
 ### [Gay marriage in the state of California is legalized after the stay held on the unconstitutional California Proposition 8 is lifted. Two women who successfully challenged Proposition 8 in the Supreme Court of the United States are married in San Francisco. ](/news/2013/06/28/gay-marriage-in-the-state-of-california-is-legalized-after-the-stay-held-on-the-unconstitutional-california-proposition-8-is-lifted-two-wom.md)
-_Context: San Francisco, California, California, Supreme Court of the United States, California Proposition 8_
+_Context: San Francisco, California, Supreme Court of the United States, California Proposition 8, California_
 
 ## [Previous Day...](/news/2013/06/27/index.md)
 

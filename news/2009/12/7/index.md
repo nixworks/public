@@ -5,19 +5,19 @@ Formats: [HTML](2009/12/7/index.html)  [JSON](2009/12/7/index.json)  [XML](2009/
 
 ##### Pakistan national cricket team
 ### [ Pakistan's Raffatullah Momand and Aamer Sajjad set a new world record for a second wicket partnership scoring 580 runs in a first-class Quaid-i-Azam Trophy match, breaking the previous record of 576 held by Sri Lanka's Sanath Jayasuriya and Roshan Mahanama.](/news/2009/12/7/pakistanas-raffatullah-momand-and-aamer-sajjad-set-a-new-world-record-for-a-second-wicket-partnership-scoring-580-runs-in-a-first-class-q.md)
-_Context: run, Sanath Jayasuriya, Pakistan national cricket team, Roshan Mahanama, second wicket, first-class,  Quaid-i-Azam Trophy match, partnership_
+_Context: Sanath Jayasuriya, first-class, Pakistan national cricket team, second wicket,  Quaid-i-Azam Trophy match, partnership, Roshan Mahanama, run_
 
 ##### President
 ### [ Incumbent President of Romania Traian Basescu is declared the winner of Sunday's presidential election run-off, with the opposition demanding that the Constitutional Court annul the vote due to electoral fraud. ](/news/2009/12/7/incumbent-president-of-romania-traian-basescu-is-declared-the-winner-of-sunday-s-presidential-election-run-off-with-the-opposition-demand.md)
-_Context: Traian Basescu, President, Constitutional Court of Romania, presidential election run-off_
+_Context: President, Constitutional Court of Romania, Traian Basescu, presidential election run-off_
 
 ##### Northern Mariana Islands
 ### [ Incumbent Northern Mariana Islands Governor Benigno Fitial of the Covenant Party is declared the winner of the 2009 gubernatorial election and runoff over Republican Rep. Heinz Hofschneider. ](/news/2009/12/7/incumbent-northern-mariana-islands-governor-benigno-fitial-of-the-covenant-party-is-declared-the-winner-of-the-2009-gubernatorial-election.md)
-_Context: Benigno Fitial, Governor of the Northern Mariana Islands, Heinz Hofschneider, Republican, Northern Mariana Islands, Covenant Party, 2009 gubernatorial election and runoff_
+_Context: 2009 gubernatorial election and runoff, Benigno Fitial, Governor of the Northern Mariana Islands, Covenant Party, Republican, Heinz Hofschneider, Northern Mariana Islands_
 
 ##### President of Guinea
 ### [ President of Guinea Moussa Dadis Camara is reportedly unable to communicate following surgery due to an assassination attempt. ](/news/2009/12/7/president-of-guinea-moussa-dadis-camara-is-reportedly-unable-to-communicate-following-surgery-due-to-an-assassination-attempt.md)
-_Context: assassination, President of Guinea, Moussa Dadis Camara_
+_Context: President of Guinea, Moussa Dadis Camara, assassination_
 
 ##### Shot to death
 ### [ At least seven soldiers are shot to death and at least three others are wounded in an ambush at Resadiye, Tokat Turkey, in the region's deadliest attack this decade. ](/news/2009/12/7/at-least-seven-soldiers-are-shot-to-death-and-at-least-three-others-are-wounded-in-an-ambush-at-reaadiye-tokat-turkey-in-the-region-s-de.md)
@@ -37,15 +37,15 @@ Riot police fire tear gas at opposition supporters in central Tehran, witnesses 
 
 ##### Court
 ### [ At least five people are killed in a blast outside a court complex in Peshawar, Pakistan. ](/news/2009/12/7/at-least-five-people-are-killed-in-a-blast-outside-a-court-complex-in-peshawar-pakistan.md)
-_Context: Pakistan, court, Peshawar_
+_Context: court, Peshawar, Pakistan_
 
 ##### Sudan
 ### [ Sudanese police detain three senior figures from the Sudan People's Liberation Movement, the ruling party in South Sudan, at a demonstration calling for electoral reform in Khartoum. ](/news/2009/12/7/sudanese-police-detain-three-senior-figures-from-the-sudan-people-s-liberation-movement-the-ruling-party-in-south-sudan-at-a-demonstratio.md)
-_Context: Sudan People's Liberation Movement, Khartoum, South Sudan, Sudan_
+_Context: South Sudan, Sudan People's Liberation Movement, Sudan, Khartoum_
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan begins hearing a case against the National Reconciliation Ordinance which protected President Asif Ali Zardari and other key political figures against graft charges. ](/news/2009/12/7/the-supreme-court-of-pakistan-begins-hearing-a-case-against-the-national-reconciliation-ordinance-which-protected-president-asif-ali-zardar.md)
-_Context: Asif Ali Zardari, graft, amnesty protecting him, Pakistan, Supreme Court_
+_Context: Asif Ali Zardari, amnesty protecting him, Pakistan, Supreme Court, graft_
 
 ##### Defense Secretary
 ### [ U.S. Defense Secretary Robert Gates admits that the United States has had no information on the whereabouts of Osama bin Laden for many years. ](/news/2009/12/7/u-s-defense-secretary-robert-gates-admits-that-the-united-states-has-had-no-information-on-the-whereabouts-of-osama-bin-laden-for-many-yea.md)

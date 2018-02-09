@@ -17,7 +17,7 @@ Figures show strongest quarterly increase in GDP since reunification in 1990.
 
 ##### TAM Airlines
 ### [TAM Airlines of Brazil and LAN Airlines of Chile announce plans for a merger that would make the biggest carrier in the region. ](/news/2010/08/13/tam-airlines-of-brazil-and-lan-airlines-of-chile-announce-plans-for-a-merger-that-would-make-the-biggest-carrier-in-the-region.md)
-_Context: Brazil, Chile, LAN Airlines, TAM Airlines_
+_Context: TAM Airlines, Brazil, Chile, LAN Airlines_
 
 ##### Hong Kong Monetary Authority
 ### [The Hong Kong Monetary Authority announces it is to tighten some rules on mortgage lending, signalling that it is concerned about the dangers of a real estate bubble in Hong Kong. ](/news/2010/08/13/the-hong-kong-monetary-authority-announces-it-is-to-tighten-some-rules-on-mortgage-lending-signalling-that-it-is-concerned-about-the-danger.md)
@@ -33,7 +33,7 @@ Torrential rain brings landslides to more areas in China, as relief teams in dev
 
 ##### The recent wildfires
 ### [A forest fire grows in size near Russia's main nuclear research centre in Sarov. ](/news/2010/08/13/a-forest-fire-grows-in-size-near-russia-s-main-nuclear-research-centre-in-sarov.md)
-_Context: Sarov, Russia, the recent wildfires_
+_Context: Russia, Sarov, the recent wildfires_
 
 ##### Fornelos de Montes
 ### [2 firefighters are killed fighting wildfires in Fornelos de Montes, Pontevedra, in Galicia, Spain. ](/news/2010/08/13/2-firefighters-are-killed-fighting-wildfires-in-fornelos-de-montes-pontevedra-in-galicia-spain.md)
@@ -57,7 +57,7 @@ French officials lambast a senior army officer who was filmed on YouTube orderin
 
 ##### Tamil migrant
 ### [Sun Sea, a cargo ship carrying around 490 Tamil migrants, refugees and suspected human smugglers and Tamil Tigers as well as reports of tuberculosis outbreaks is scheduled to arrive in Esquimalt, British Columbia. The Royal Canadian Mounted Police and Canadian Navy are escorting and boarding the ship, and the ship's captain is suspected by the Sri Lankan Government of being a gun runner. ](/news/2010/08/13/sun-sea-a-cargo-ship-carrying-around-490-tamil-migrants-refugees-and-suspected-human-smugglers-and-tamil-tigers-as-well-as-reports-of-tube.md)
-_Context: tuberculosis, human smuggler, Tamil Tigers, Tamil migrant, British Columbia, Sri Lankan Government, gun runner, Canadian Navy, Esquimalt, refugee, Royal Canadian Mounted Police_
+_Context: tuberculosis, Tamil Tigers, Royal Canadian Mounted Police, Canadian Navy, Esquimalt, human smuggler, Sri Lankan Government, British Columbia, gun runner, Tamil migrant, refugee_
 
 ##### U.S. President
 ### [President of the United States Barack Obama signs a bill increasing security along his country's border with Mexico. ](/news/2010/08/13/president-of-the-united-states-barack-obama-signs-a-bill-increasing-security-along-his-country-s-border-with-mexico.md)
@@ -77,7 +77,7 @@ Iran is set to acquire its first civilian nuclear power plant following Russiaâ€
 
 ##### South Africa
 ### [Four bodies are discovered in an abandoned South African gold mine owned by relatives of Nelson Mandela and Jacob Zuma following a shooting. ](/news/2010/08/13/four-bodies-are-discovered-in-an-abandoned-south-african-gold-mine-owned-by-relatives-of-nelson-mandela-and-jacob-zuma-following-a-shooting.md)
-_Context: Jacob Zuma, South Africa, Nelson Mandela_
+_Context: South Africa, Nelson Mandela, Jacob Zuma_
 
 ##### Elias Abuelazam
 ### [Elias Abuelazam, an Arab Israeli arrested in the United States in connection with almost 20 stabbings across three U.S. states, agrees to face charges relating to one of the attacks. ](/news/2010/08/13/elias-abuelazam-an-arab-israeli-arrested-in-the-united-states-in-connection-with-almost-20-stabbings-across-three-u-s-states-agrees-to-fa.md)
@@ -97,11 +97,11 @@ The first trial at Guantanamo Bay under US President Barack Obama is suspended a
 
 ##### Erastus Akingbola
 ### [Erastus Akingbola, former head of the Intercontinental Bank of Nigeria, is charged with 22 counts of involvement in the bank's near collapse at a court in Lagos; he denies all counts. ](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.md)
-_Context: Lagos, Erastus Akingbola, Nigeria, Intercontinental Bank_
+_Context: Intercontinental Bank, Lagos, Nigeria, Erastus Akingbola_
 
 ##### Cook Islands
 ### [Cook Islands Prime Minister Jim Marurai sets the date for the upcoming 2010 general election for November 17th. ](/news/2010/08/13/cook-islands-prime-minister-jim-marurai-sets-the-date-for-the-upcoming-2010-general-election-for-november-17th.md)
-_Context: Cook Islands, general election, Jim Marurai, Prime Minister_
+_Context: Cook Islands, Jim Marurai, general election, Prime Minister_
 
 ##### Burma
 ### [Burma announces plans to hold its first election in 20 years on November 7. ](/news/2010/08/13/burma-announces-plans-to-hold-its-first-election-in-20-years-on-november-7.md)

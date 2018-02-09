@@ -5,11 +5,11 @@ Formats: [HTML](2017/10/24/index.html)  [JSON](2017/10/24/index.json)  [XML](201
 
 ##### Economy of the European Union
 ### [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md)
-_Context: trading activities, Volcker Rule, United States, too big to fail, European Union, Economy of the European Union, European Commission, European Banking Authority_
+_Context: Economy of the European Union, trading activities, European Banking Authority, Volcker Rule, European Commission, too big to fail, European Union, United States_
 
 ##### Banking in the United States
 ### [Vice President Mike Pence casts the tie-breaking vote late Tuesday night to repeal a rule that would have made it easier for Americans to sue their banks and credit card companies. ](/news/2017/10/24/vice-president-mike-pence-casts-the-tie-breaking-vote-late-tuesday-night-to-repeal-a-rule-that-would-have-made-it-easier-for-americans-to-su.md)
-_Context: Vice President, Mike Pence, Banking in the United States_
+_Context: Vice President, Banking in the United States, Mike Pence_
 
 ##### Immigration policy of Donald Trump
 ### [U.S. President Donald Trump signs an executive order which allows U.S. to resume its refugee program, with a 90-day review period for 11 countries identified as "high risk". ](/news/2017/10/24/u-s-president-donald-trump-signs-an-executive-order-which-allows-u-s-to-resume-its-refugee-program-with-a-90-day-review-period-for-11-cou.md)
@@ -21,7 +21,7 @@ Bad Rabbit, a new Petya-style ransomware attack, has been spreading quickly amon
 
 ##### 19th National Congress of the Communist Party of China
 ### [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md)
-_Context: Communist Party of China, General Secretary of the Communist Party of China, 19th National Congress of the Communist Party of China, Party Chairman, paramount leader, Mao Zedong, Xi Jinping, Beijing_
+_Context: paramount leader, 19th National Congress of the Communist Party of China, Xi Jinping, Mao Zedong, General Secretary of the Communist Party of China, Beijing, Communist Party of China, Party Chairman_
 
 ##### United States Senate elections, 2018
 ### [Republican Senator Jeff Flake from Arizona announces that he will not run again in 2018. ](/news/2017/10/24/republican-senator-jeff-flake-from-arizona-announces-that-he-will-not-run-again-in-2018.md)

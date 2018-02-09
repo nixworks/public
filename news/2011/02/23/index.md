@@ -5,7 +5,7 @@ Formats: [HTML](2011/02/23/index.html)  [JSON](2011/02/23/index.json)  [XML](201
 
 ##### Civil war
 ### [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md)
-_Context: Libya, Italy, civil war_
+_Context: Italy, Libya, civil war_
 
 ##### General People's Congress
 ### [Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/eight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md)
@@ -17,11 +17,11 @@ _Context: Enid Blyton_
 
 ##### Samsung
 ### [Samsung releases, in South Korea, a camera that can post photos and videos directly to Facebook and YouTube. ](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.md)
-_Context: Samsung, Facebook, YouTube, South Korea_
+_Context: South Korea, Samsung, Facebook, YouTube_
 
 ##### Australia
 ### [Australian businessman Lachlan Murdoch is appointed as acting CEO of Network Ten following the sacking of Grant Blackley. ](/news/2011/02/23/australian-businessman-lachlan-murdoch-is-appointed-as-acting-ceo-of-network-ten-following-the-sacking-of-grant-blackley.md)
-_Context: Network Ten, Lachlan, Australia_
+_Context: Lachlan, Network Ten, Australia_
 
 ##### Oil prices
 ### [Oil prices reach a two-year high due to uncertainty in the Middle East most notably in Libya. ](/news/2011/02/23/oil-prices-reach-a-two-year-high-due-to-uncertainty-in-the-middle-east-most-notably-in-libya.md)
@@ -29,7 +29,7 @@ OIL PRICES have risen to fresh two-year highs near $US96 a barrel in Asia amid t
 
 ##### Japan
 ### [Japan logs its first trade deficit in almost two years due to high commodity prices and weak demand for its exports. ](/news/2011/02/23/japan-logs-its-first-trade-deficit-in-almost-two-years-due-to-high-commodity-prices-and-weak-demand-for-its-exports.md)
-_Context: trade deficit, Japan_
+_Context: Japan, trade deficit_
 
 ##### Stock market
 ### [Stock markets in the United States and Europe fall due to uncertainty in the Middle East and rising oil prices. ](/news/2011/02/23/stock-markets-in-the-united-states-and-europe-fall-due-to-uncertainty-in-the-middle-east-and-rising-oil-prices.md)
@@ -45,15 +45,15 @@ Romanian weather officials announced on Wednesday that snow and wind will intens
 
 ##### President
 ### [President of the Philippines Benigno Aquino says the country has not resolved a row with Taiwan over deportations. ](/news/2011/02/23/president-of-the-philippines-benigno-aquino-says-the-country-has-not-resolved-a-row-with-taiwan-over-deportations.md)
-_Context: Taiwan, his predecessor, President_
+_Context: Taiwan, President, his predecessor_
 
 ##### Senegal
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
-_Context: diplomatic relations, Senegal, Iran_
+_Context: Senegal, diplomatic relations, Iran_
 
 ##### China
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: United Nations Security Council, North Korea, North Korea's nuclear program, sanctions, China_
+_Context: North Korea's nuclear program, sanctions, China, North Korea, United Nations Security Council_
 
 ##### Xinjiang
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
@@ -61,11 +61,11 @@ _Context: China, Xinjiang_
 
 ##### Thailand
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
-_Context: tiger, Thailand_
+_Context: Thailand, tiger_
 
 ##### United Kingdom
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
-_Context: blackmail, Coleen Rooney, Manchester United, Wayne Rooney, United Kingdom_
+_Context: Wayne Rooney, blackmail, Manchester United, Coleen Rooney, United Kingdom_
 
 ##### Colin Hatch
 ### [Colin Hatch, a convicted child murderer, is murdered in jail while serving his sentence; a 35-year-old male prisoner has been arrested on suspicion of murder. ](/news/2011/02/23/colin-hatch-a-convicted-child-murderer-is-murdered-in-jail-while-serving-his-sentence-a-35-year-old-male-prisoner-has-been-arrested-on-su.md)
@@ -81,7 +81,7 @@ King Abdullah announces $10.7 billion in pay raises, job creation and loan forgi
 
 ##### Federal Minister for Defence
 ### [German defence minister Karl-Theodor zu Guttenberg has his doctorate revoked by the University of Bayreuth for submitting a thesis riddled with plagiarisms. ](/news/2011/02/23/german-defence-minister-karl-theodor-zu-guttenberg-has-his-doctorate-revoked-by-the-university-of-bayreuth-for-submitting-a-thesis-riddled-w.md)
-_Context: thesis, doctorate, Karl-Theodor zu Guttenberg, University of Bayreuth, plagiarising, Federal Minister for Defence_
+_Context: Federal Minister for Defence, plagiarising, doctorate, thesis, Karl-Theodor zu Guttenberg, University of Bayreuth_
 
 ## [Previous Day...](/news/2011/02/22/index.md)
 

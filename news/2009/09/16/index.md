@@ -25,7 +25,7 @@ Argentina formally accepted Wednesday apologies from the Spanish government whic
 
 ##### Kenya
 ### [ Kenya's parliament nullifies President Mwai Kibaki's reappointment of Kenya's anti-corruption chief, Justice Aaron Ringera, who critics say has shown little interest in fighting graft. ](/news/2009/09/16/kenya-s-parliament-nullifies-president-mwai-kibaki-s-reappointment-of-kenya-s-anti-corruption-chief-justice-aaron-ringera-who-critics-say.md)
-_Context: Justice Aaron Ringera, president, Kenya, Mwai Kibaki_
+_Context: Justice Aaron Ringera, Kenya, president, Mwai Kibaki_
 
 ##### European Union
 ### [ The European Union casts doubt on last month's election results showing Afghan President Hamid Karzai winning the presidential election outright in the first round. ](/news/2009/09/16/the-european-union-casts-doubt-on-last-month-s-election-results-showing-afghan-president-hamid-karzai-winning-the-presidential-election-out.md)
@@ -33,15 +33,15 @@ Afghan President Hamid Karzai won the presidential vote outright in the first ro
 
 ##### World Meteorological Organisation
 ### [ The World Meteorological Organisation says the hole in the Ozone layer is smaller than in 2008. ](/news/2009/09/16/the-world-meteorological-organisation-says-the-hole-in-the-ozone-layer-is-smaller-than-in-2008.md)
-_Context: Ozone depletion, Ozone layer, World Meteorological Organisation_
+_Context: World Meteorological Organisation, Ozone layer, Ozone depletion_
 
 ##### China
 ### [ China says it has foiled a possible terrorist attack in Xinjiang, detaining six people. ](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.md)
-_Context: China, Xinjiang_
+_Context: Xinjiang, China_
 
 ##### Somalia
 ### [ The Somalian Islamist group Al-Shabaab call for reinforcements after a U.S. raid killed its leader Saleh Ali Saleh Nabhan. ](/news/2009/09/16/the-somalian-islamist-group-al-shabaab-call-for-reinforcements-after-a-u-s-raid-killed-its-leader-saleh-ali-saleh-nabhan.md)
-_Context: Islam, Al-Shabaab, Saleh Ali Saleh Nabhan, United States, Somalia_
+_Context: United States, Somalia, Islam, Saleh Ali Saleh Nabhan, Al-Shabaab_
 
 ##### Mexico
 ### [ Gunmen kill 10 people at a drug rehabilitation clinic in Mexico. ](/news/2009/09/16/gunmen-kill-10-people-at-a-drug-rehabilitation-clinic-in-mexico.md)
@@ -49,7 +49,7 @@ _Context: Mexico_
 
 ##### Kenya
 ### [ Kenya begins moving the first residents out of slums in the capital Nairobi, as part of a plan to clear all shanty towns over the next two to five years. ](/news/2009/09/16/kenya-begins-moving-the-first-residents-out-of-slums-in-the-capital-nairobi-as-part-of-a-plan-to-clear-all-shanty-towns-over-the-next-two.md)
-_Context: shanties, Kenya, slum, Nairobi_
+_Context: shanties, slum, Kenya, Nairobi_
 
 ##### Luas
 ### [ 21 people are injured, three seriously, after a collision involving a Luas tram and a double-decker bus on O'Connell Street in Dublin, the worst ever accident involving the city's trams. ](/news/2009/09/16/21-people-are-injured-three-seriously-after-a-collision-involving-a-luas-tram-and-a-double-decker-bus-on-o-connell-street-in-dublin-the.md)
@@ -57,7 +57,7 @@ Up to 26 people were injured, three seriously, when a Luas tram collided with a 
 
 ##### TEAMS
 ### [ The TEAMS cable system, providing high speed broadband to East Africa for the first time, is poised to go live. ](/news/2009/09/16/the-teams-cable-system-providing-high-speed-broadband-to-east-africa-for-the-first-time-is-poised-to-go-live.md)
-_Context: East Africa, TEAMS, broadband_
+_Context: broadband, TEAMS, East Africa_
 
 ##### Egypt
 ### [ Egyptian border guards shoot dead two sub-Saharan migrants, bringing to at least 14 the number killed this year as they try to cross illegally into Israel. ](/news/2009/09/16/egyptian-border-guards-shoot-dead-two-sub-saharan-migrants-bringing-to-at-least-14-the-number-killed-this-year-as-they-try-to-cross-illega.md)

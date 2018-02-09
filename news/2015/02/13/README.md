@@ -5,11 +5,11 @@ Formats: [HTML](2015/02/13/index.html)  [JSON](2015/02/13/index.json)  [XML](201
 
 ##### Internal conflict in Burma
 ### [Several days of clashes with Kokang rebels in the north of the country kills forty-seven Myanmar Army soldiers with dozens wounded. ](/news/2015/02/13/several-days-of-clashes-with-kokang-rebels-in-the-north-of-the-country-kills-forty-seven-myanmar-army-soldiers-with-dozens-wounded.md)
-_Context: Internal conflict in Burma, Myanmar Army, Kokang rebels, Kokang offensive_
+_Context: Myanmar Army, Kokang offensive, Kokang rebels, Internal conflict in Burma_
 
 ##### Assam conflict
 ### [A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.md)
-_Context: India, Sepon, Assam, Assam conflict, United Liberation Front of Assam_
+_Context: Assam conflict, India, Sepon, Assam, United Liberation Front of Assam_
 
 ##### War in Donbass
 ### [Ahead of the upcoming February 15 start of the agreed ceasefire, fighting in the past 24 hours kills eight Armed Forces of Ukraine service personnel. ](/news/2015/02/13/ahead-of-the-upcoming-february-15-start-of-the-agreed-ceasefire-fighting-in-the-past-24-hours-kills-eight-armed-forces-of-ukraine-service-p.md)
@@ -25,7 +25,7 @@ Boko Haram militants from Nigeria attack a village on the shores of Lake Chad ov
 
 ##### Fitch Ratings
 ### [Fitch Ratings downgrades Ukraine's credit rating to junk bond status predicting it is likely to default on its debts. ](/news/2015/02/13/fitch-ratings-downgrades-ukraine-s-credit-rating-to-junk-bond-status-predicting-it-is-likely-to-default-on-its-debts.md)
-_Context: Fitch Ratings, junk bond, Ukraine, credit rating_
+_Context: Ukraine, Fitch Ratings, junk bond, credit rating_
 
 ##### Freight train
 ### [A bus crashes with a freight train in the Mexican state of Nuevo Len, killing at least sixteen people and injuring 30. ](/news/2015/02/13/a-bus-crashes-with-a-freight-train-in-the-mexican-state-of-nuevo-leon-killing-at-least-sixteen-people-and-injuring-30.md)
@@ -33,7 +33,7 @@ At least 16 were killed and 30 injured in a collision between a freight train an
 
 ##### Ebola virus epidemic in West Africa
 ### [Sierra Leone quarantines 700 homes in the Aberdeen district of Freetown following the death of a fisherman. ](/news/2015/02/13/sierra-leone-quarantines-700-homes-in-the-aberdeen-district-of-freetown-following-the-death-of-a-fisherman.md)
-_Context: Aberdeen, Freetown, Ebola virus epidemic in West Africa, Sierra Leone_
+_Context: Freetown, Aberdeen, Ebola virus epidemic in West Africa, Sierra Leone_
 
 ##### United Nations
 ### [United Nations negotiators produce an early draft on an agreement to be put to a conference on climate change in Paris in December. ](/news/2015/02/13/united-nations-negotiators-produce-an-early-draft-on-an-agreement-to-be-put-to-a-conference-on-climate-change-in-paris-in-december.md)

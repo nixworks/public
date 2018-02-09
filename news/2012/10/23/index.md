@@ -13,7 +13,7 @@ At least nine people have been killed in car bomb and mortar attacks in predomin
 
 ##### Pakistani
 ### [A young Pakistani man, whose father was killed by drones alongside 40 others in March 2011, seeks to block the sharing of British intelligence with the CIA. This represents the first serious legal challenge in the English courts to Britain's involvement in the drones campaign. ](/news/2012/10/23/a-young-pakistani-man-whose-father-was-killed-by-drones-alongside-40-others-in-march-2011-seeks-to-block-the-sharing-of-british-intelligen.md)
-_Context: Pakistani, Central Intelligence Agency, drone_
+_Context: drone, Pakistani, Central Intelligence Agency_
 
 ##### Skyfall
 ### ["Skyfall", the 23rd James Bond film, receives its Royal premiere at London's Royal Albert Hall. ](/news/2012/10/23/skyfall-the-23rd-james-bond-film-receives-its-royal-premiere-at-london-s-royal-albert-hall.md)
@@ -69,11 +69,11 @@ Representatives of the Libertarian, Green, Constitution, and Justice parties hav
 
 ##### Japanese Justice Minister
 ### [Japanese Justice Minister Keishu Tanaka, who took office on October 1, resigns amid a scandal over alleged ties to an organized crime syndicate. ](/news/2012/10/23/japanese-justice-minister-keishu-tanaka-who-took-office-on-october-1-resigns-amid-a-scandal-over-alleged-ties-to-an-organized-crime-syndic.md)
-_Context: Keishu Tanaka, Japanese Justice Minister_
+_Context: Japanese Justice Minister, Keishu Tanaka_
 
 ##### Member of the Scottish Parliament
 ### [Two MSPs - John Finnie and Jean Urquhart - resign from the Scottish National Party over its stance on NATO, effectively reducing the party's absolute majority in the Scottish Parliament to two. ](/news/2012/10/23/two-msps-a-john-finnie-and-jean-urquhart-a-resign-from-the-scottish-national-party-over-its-stance-on-nato-effectively-reducing-the-par.md)
-_Context: Member of the Scottish Parliament, NATO, John Finnie, Scottish Parliament, Jean Urquhart, Scottish National Party_
+_Context: Member of the Scottish Parliament, Jean Urquhart, NATO, Scottish Parliament, Scottish National Party, John Finnie_
 
 ## [Previous Day...](/news/2012/10/22/index.md)
 

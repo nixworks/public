@@ -5,15 +5,15 @@ Formats: [HTML](2015/01/16/index.html)  [JSON](2015/01/16/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spring-of-2015.md)
-_Context: Syrian Civil War, Free Syrian Army, U.S. military_
+_Context: U.S. military, Syrian Civil War, Free Syrian Army_
 
 ##### Colombes
 ### [A hostage crisis at a post office in Colombes, Paris, ends with the attacker releasing the hostages and surrendering himself to the police. ](/news/2015/01/16/a-hostage-crisis-at-a-post-office-in-colombes-paris-ends-with-the-attacker-releasing-the-hostages-and-surrendering-himself-to-the-police.md)
-_Context: Paris, Colombes_
+_Context: Colombes, Paris_
 
 ##### Military
 ### [The Military of Chad enters Cameroon to assist in fighting against Boko Haram insurgents. ](/news/2015/01/16/the-military-of-chad-enters-cameroon-to-assist-in-fighting-against-boko-haram-insurgents.md)
-_Context: Chad, Cameroon, Boko Haram, Military_
+_Context: Boko Haram, Cameroon, Chad, Military_
 
 ##### BP
 ### [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 "Deepwater Horizon" oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-gul.md)
@@ -21,7 +21,7 @@ BP Plc (BP.L) will face a maximum fine of $13.7 billion under the Clean Water Ac
 
 ##### Obama Administration
 ### [The Obama Administration eases trade restrictions with Cuba, now permitting the sale of tools and equipment for private-sector use in Cuba. ](/news/2015/01/16/the-obama-administration-eases-trade-restrictions-with-cuba-now-permitting-the-sale-of-tools-and-equipment-for-private-sector-use-in-cuba.md)
-_Context: Obama Administration, private-sector, Cuba_
+_Context: Cuba, private-sector, Obama Administration_
 
 ##### Hunga Tonga
 ### [An explosion of the Hunga Tonga submerged volcano in the South Pacific Ocean, near Nuku'alofa, Tonga, disrupts air travel and creates a one-kilometer new island. ](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.md)
@@ -33,7 +33,7 @@ At least 176 people die in flash floods and 110,000 people are displaced, Malawi
 
 ##### Panda
 ### [Chinese officials impose an emergency ban on tourists approaching pandas subsequent to the death of two pandas from a canine distemper virus. ](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-tourists-approaching-pandas-subsequent-to-the-death-of-two-pandas-from-a-canine-distemper-virus.md)
-_Context: panda, canine distemper_
+_Context: canine distemper, panda_
 
 ##### Polk County, Florida
 ### [Polk County, Florida police arrest four men who face charges in having allegedly robbed an Auburndale, Florida pawn shop, and then fatally shot two women in their central Florida home. ](/news/2015/01/16/polk-county-florida-police-arrest-four-men-who-face-charges-in-having-allegedly-robbed-an-auburndale-florida-pawn-shop-and-then-fatally-s.md)

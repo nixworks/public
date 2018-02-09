@@ -5,7 +5,7 @@ Formats: [HTML](2016/07/13/index.html)  [JSON](2016/07/13/index.json)  [XML](201
 
 ##### Iraqi Civil War
 ### [A car bomb explodes at a checkpoint north of Baghdad, killing at least seven people. ](/news/2016/07/13/a-car-bomb-explodes-at-a-checkpoint-north-of-baghdad-killing-at-least-seven-people.md)
-_Context: Baghdad, Iraqi Civil War_
+_Context: Iraqi Civil War, Baghdad_
 
 ##### Insurgency in Jammu and Kashmir
 ### [The death toll from anti-government protests in the Indian state rises to 36 with over a thousand more being treated for injuries. Chief Minister Mehbooba Mufti has called for calm. ](/news/2016/07/13/the-death-toll-from-anti-government-protests-in-the-indian-state-rises-to-36-with-over-a-thousand-more-being-treated-for-injuries-chief-min.md)
@@ -21,7 +21,7 @@ South Sudan: U.S. troops were rushed to evacuate Americans and embassy personnel
 
 ##### Carla Hayden
 ### [Dr. Carla Hayden is confirmed to be the 14th Librarian of Congress, becoming the first woman and African-American to lead the Library of Congress.](/news/2016/07/13/dr-carla-hayden-is-confirmed-to-be-the-14th-librarian-of-congress-becoming-the-first-woman-and-african-american-to-lead-the-library-of-con.md)
-_Context: Carla Hayden, Library of Congress, Librarian of Congress_
+_Context: Librarian of Congress, Library of Congress, Carla Hayden_
 
 ##### Dagestan
 ### [A bus crashes on a highway in Dagestan, Russia, killing at least nine people and injuring dozens more. ](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-killing-at-least-nine-people-and-injuring-dozens-more.md)
@@ -29,11 +29,11 @@ _Context: Russia, Dagestan_
 
 ##### North Korea-South Korea relations
 ### [South Korea announces plans to deploy a Terminal High Altitude Area Defense anti-ballistic missile system in Seongju County in the country's south in order to deter against a North Korean attack. ](/news/2016/07/13/south-korea-announces-plans-to-deploy-a-terminal-high-altitude-area-defense-anti-ballistic-missile-system-in-seongju-county-in-the-country-s.md)
-_Context: Seongju County, North Korea-South Korea relations, North Korea, South Korea, U.S. Terminal High Altitude Area Defense (THAAD) system launchers_
+_Context: North Korea, South Korea, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, North Korea-South Korea relations, Seongju County_
 
 ##### Brooklyn
 ### [In Brooklyn, New York 33 people are treated for a possible K2 overdose. The drug is illegal to sell or produce in the state. ](/news/2016/07/13/in-brooklyn-new-york-33-people-are-treated-for-a-possible-k2-overdose-the-drug-is-illegal-to-sell-or-produce-in-the-state.md)
-_Context: New York City, Brooklyn, K2_
+_Context: New York City, K2, Brooklyn_
 
 ##### 2016 Zimbabwe protests
 ### [A Zimbabwean court dismisses charges against opposition leader Pastor Evan Mawarire who was accused of trying to overthrow the government. ](/news/2016/07/13/a-zimbabwean-court-dismisses-charges-against-opposition-leader-pastor-evan-mawarire-who-was-accused-of-trying-to-overthrow-the-government.md)
@@ -61,7 +61,7 @@ Baron Waqa has been re-elected as president of Nauru taking 16 of the 18 votes.
 
 ##### Human rights in Egypt
 ### [In a report by Amnesty International, the group documents findings of Egyptian officials forcibly making hundreds of people disappear and face torture in the past year in an attempt to crack down on dissent in the country. ](/news/2016/07/13/in-a-report-by-amnesty-international-the-group-documents-findings-of-egyptian-officials-forcibly-making-hundreds-of-people-disappear-and-fa.md)
-_Context: Amnesty International, torture, Human rights in Egypt, disappear_
+_Context: Human rights in Egypt, Amnesty International, disappear, torture_
 
 ## [Previous Day...](/news/2016/07/12/index.md)
 

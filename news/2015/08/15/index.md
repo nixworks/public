@@ -5,7 +5,7 @@ Formats: [HTML](2015/08/15/index.html)  [JSON](2015/08/15/index.json)  [XML](201
 
 ##### Iraq War (2014-present)
 ### [ISIL bombings kill 21 and wound more than 100 others in Shia neighborhoods of Baghdad. ](/news/2015/08/15/isil-bombings-kill-21-and-wound-more-than-100-others-in-shia-neighborhoods-of-baghdad.md)
-_Context: ISIL, Iraq War (2014-present), Shia, Baghdad_
+_Context: ISIL, Shia, Baghdad, Iraq War (2014-present)_
 
 ##### Yemeni Civil War (2015)
 ### [Saudi-backed forces loyal to the former Government retake the Shabwah Governorate from the Iran-backed rebels. ](/news/2015/08/15/saudi-backed-forces-loyal-to-the-former-government-retake-the-shabwah-governorate-from-the-iran-backed-rebels.md)
@@ -37,7 +37,7 @@ At least 40 migrants died after apparently getting trapped and suffocating in th
 
 ##### Ecuador
 ### [Ecuador evacuates several villages around the Cotopaxi volcano ahead of a possible eruption. ](/news/2015/08/15/ecuador-evacuates-several-villages-around-the-cotopaxi-volcano-ahead-of-a-possible-eruption.md)
-_Context: Ecuador, Cotopaxi_
+_Context: Cotopaxi, Ecuador_
 
 ## [Previous Day...](/news/2015/08/14/index.md)
 

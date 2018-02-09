@@ -16,7 +16,7 @@ Police in Taiwan investigate a self-proclaimed prophet whose doomsday warnings o
 
 ### Related:
 
-1. [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 7 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-7-people-are-killed-and-over-250-are.md) _Context: Taiwan, earthquake_
+1. [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 9 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-9-people-are-killed-and-over-250-are.md) _Context: Taiwan, earthquake_
 2. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: earthquake, tsunami_
 3. [A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. ](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-mindanao-philippines-triggering-tsunami-warnings.md) _Context: earthquake, tsunami_
 4. [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md) _Context: earthquake, tsunami_

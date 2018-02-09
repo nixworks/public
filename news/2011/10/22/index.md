@@ -9,7 +9,7 @@ North Korea and the US agree on restarting efforts to recover the remains of US 
 
 ##### Suspension bridge
 ### [A pedestrian suspension bridge collapse in Bijanbari, near Darjeeling, West Bengal, India, kills at least 34 people and injures over 100. ](/news/2011/10/22/a-pedestrian-suspension-bridge-collapse-in-bijanbari-near-darjeeling-west-bengal-india-kills-at-least-34-people-and-injures-over-100.md)
-_Context: Bijanbari, Darjeeling, West Bengal, India, suspension bridge_
+_Context: Darjeeling, India, suspension bridge, Bijanbari, West Bengal_
 
 ##### National Transitional Council
 ### [National Transitional Council chairman Mahmoud Jibril announces that Libyan elections will occur "within months". ](/news/2011/10/22/national-transitional-council-chairman-mahmoud-jibril-announces-that-libyan-elections-will-occur-within-months.md)
@@ -17,15 +17,15 @@ _Context: Libya, National Transitional Council, Mahmoud Jibril_
 
 ##### Morocco
 ### [Morocco, Togo, Guatemala and Pakistan are elected to the United Nations Security Council, with a fifth seat still undecided. ](/news/2011/10/22/morocco-togo-guatemala-and-pakistan-are-elected-to-the-united-nations-security-council-with-a-fifth-seat-still-undecided.md)
-_Context: Togo, Pakistan, United Nations Security Council, elected, Guatemala, Morocco_
+_Context: Pakistan, Morocco, Togo, United Nations Security Council, elected, Guatemala_
 
 ##### Saudi
 ### [Saudi heir Crown Prince Sultan bin Abdulaziz Al-Saud dies, leaving questions as to the succession in the kingdom. Hard-line conservative Prince Nayef bin Abdul-Aziz becomes likely successor. ](/news/2011/10/22/saudi-heir-crown-prince-sultan-bin-abdulaziz-al-saud-dies-leaving-questions-as-to-the-succession-in-the-kingdom-hard-line-conservative-pri.md)
-_Context: Crown Prince Sultan, Saudi, Nayef bin Abdul-Aziz_
+_Context: Crown Prince Sultan, Nayef bin Abdul-Aziz, Saudi_
 
 ##### Louisiana
 ### [Voters in the US state of Louisiana go to the polls for a gubernatorial election with incumbent Governor Bobby Jindal expected to be elected in the first round. ](/news/2011/10/22/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-a-gubernatorial-election-with-incumbent-governor-bobby-jindal-expected-to-be-elected.md)
-_Context: Bobby Jindal, Governor of Louisiana, gubernatorial election, Louisiana_
+_Context: gubernatorial election, Governor of Louisiana, Bobby Jindal, Louisiana_
 
 ## [Previous Day...](/news/2011/10/21/index.md)
 

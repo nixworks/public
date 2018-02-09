@@ -13,7 +13,7 @@ Srinagar: Two militants were killed in an encounter with security forces in Shop
 
 ##### At least 17 co-ordinated explosions
 ### [A series of bomb blasts in Baghdad, Iraq, kill at least 63 and injure 180. ](/news/2010/11/2/a-series-of-bomb-blasts-in-baghdad-iraq-kill-at-least-63-and-injure-180.md)
-_Context: Baghdad, At least 17 co-ordinated explosions, Iraq_
+_Context: Iraq, Baghdad, At least 17 co-ordinated explosions_
 
 ##### Fudan University
 ### [Fudan University releases the results of a survey that shows that 72.6% of Shanghai residents visited Shanghai Expo, an average of 2.31 times per resident. ](/news/2010/11/2/fudan-university-releases-the-results-of-a-survey-that-shows-that-72-6-of-shanghai-residents-visited-shanghai-expo-an-average-of-2-31-time.md)
@@ -37,19 +37,19 @@ _Context: flash floods in Thailand_
 
 ##### Tarapur
 ### [17 people are killed and three others injured when a truck carrying them overturned at Tarapur talukav near Indranaj in India. The truck was on its way from Surat to Bhavnagar. ](/news/2010/11/2/17-people-are-killed-and-three-others-injured-when-a-truck-carrying-them-overturned-at-tarapur-talukav-near-indranaj-in-india-the-truck-was.md)
-_Context: Tarapur, Bhavnagar, Surat, India, Indranaj_
+_Context: Bhavnagar, Surat, Tarapur, Indranaj, India_
 
 ##### Mounts Merapi
 ### [Continuing eruptions of Mount Merapi in Java, Indonesia, lead to cancellation of flights to the nearby city of Yogyakarta. ](/news/2010/11/2/continuing-eruptions-of-mount-merapi-in-java-indonesia-lead-to-cancellation-of-flights-to-the-nearby-city-of-yogyakarta.md)
-_Context: Yogyakarta, Mounts Merapi, Java, Indonesia_
+_Context: Java, Indonesia, Mounts Merapi, Yogyakarta_
 
 ##### Venezuelan President
 ### [President of Venezuela Hugo Chvez welcomes President of Colombia Juan Manuel Santos to Caracas. ](/news/2010/11/2/president-of-venezuela-hugo-chavez-welcomes-president-of-colombia-juan-manuel-santos-to-caracas.md)
-_Context: Venezuelan President, Colombian President, Caracas, Hugo Chvez, Colombia, Venezuela, Juan Manuel Santos_
+_Context: Colombian President, Venezuela, Colombia, Venezuelan President, Hugo Chvez, Juan Manuel Santos, Caracas_
 
 ##### Taiwan
 ### [A senior military intelligence officer is arrested in Taiwan for being a double agent for China. ](/news/2010/11/2/a-senior-military-intelligence-officer-is-arrested-in-taiwan-for-being-a-double-agent-for-china.md)
-_Context: double agent, China, Taiwan_
+_Context: China, double agent, Taiwan_
 
 ##### Japan
 ### [Japan temporarily recalls its ambassador to Russia amid a dispute over a visit by President Dmitry Medvedev to the Kuril Islands. ](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.md)
@@ -57,15 +57,15 @@ Russian President Dmitry Medvedev is said to be planning to visit more of the di
 
 ##### Prime Minister
 ### [UK Prime Minister David Cameron and the French President Nicolas Sarkozy meet in London and sign a treaty allowing joint development and testing of nuclear warheads, and outline plans for a joint army expeditionary force. ](/news/2010/11/2/uk-prime-minister-david-cameron-and-the-french-president-nicolas-sarkozy-meet-in-london-and-sign-a-treaty-allowing-joint-development-and-tes.md)
-_Context: Nicolas Sarkozy, expeditionary force, army, David Cameron, French President, London, nuclear warhead, Prime Minister_
+_Context: Nicolas Sarkozy, Prime Minister, army, nuclear warhead, David Cameron, French President, expeditionary force, London_
 
 ##### Zambia
 ### [A court in Zambia grants bail to two Chinese managers accused of attempted murder for shooting and injuring 11 coal miners during a protest over pay and working conditions. ](/news/2010/11/2/a-court-in-zambia-grants-bail-to-two-chinese-managers-accused-of-attempted-murder-for-shooting-and-injuring-11-coal-miners-during-a-protest.md)
-_Context: China, Zambia, bail_
+_Context: Zambia, bail, China_
 
 ##### Yemen
 ### [Yemen charges militant Islamic cleric Anwar al-Awlaki with incitement to kill foreigners. ](/news/2010/11/2/yemen-charges-militant-islamic-cleric-anwar-al-awlaki-with-incitement-to-kill-foreigners.md)
-_Context: Anwar al-Awlaki, Yemen, Islam_
+_Context: Islam, Anwar al-Awlaki, Yemen_
 
 ##### Civic United Front
 ### [Salum Khalfani Bar'wani of the opposition Civic United Front party is elected as a Member of Parliament, the first albino to serve elective office in Tanzania. ](/news/2010/11/2/salum-khalfani-bar-wani-of-the-opposition-civic-united-front-party-is-elected-as-a-member-of-parliament-the-first-albino-to-serve-elective.md)
@@ -85,7 +85,7 @@ _Context: Jim McDaid, lower house, TD_
 
 ##### All India Congress Committee
 ### [All India Congress Committee meeting begins at Talkatora Stadium in New Delhi. ](/news/2010/11/2/all-india-congress-committee-meeting-begins-at-talkatora-stadium-in-new-delhi.md)
-_Context: Talkatora Stadium, New Delhi, All India Congress Committee_
+_Context: New Delhi, All India Congress Committee, Talkatora Stadium_
 
 ##### U.S. Midterms
 ### [Voters in the United States go to the polls for elections for the House of Representatives, 37 Senate seats, 39 state and territorial governors and various local seats and issues. ](/news/2010/11/2/voters-in-the-united-states-go-to-the-polls-for-elections-for-the-house-of-representatives-37-senate-seats-39-state-and-territorial-govern.md)

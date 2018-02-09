@@ -9,11 +9,11 @@ _Context: brain tumour, CIA leak scandal, Robert Novak_
 
 ##### Scale
 ### [ Eleven climbers from an international expedition are reported dead after ice fall took out the fixed ropes on part of the route on K2 mountain in the Himalayas. ](/news/2008/08/4/eleven-climbers-from-an-international-expedition-are-reported-dead-after-ice-fall-took-out-the-fixed-ropes-on-part-of-the-route-on-k2-mount.md)
-_Context: Himalayas, scale, are reported dead, K2 mountain_
+_Context: K2 mountain, scale, Himalayas, are reported dead_
 
 ##### Kashgar
 ### [ A police post near Kashgar in the Xinjiang Uyghur Autonomous Region of China is attacked, leaving 16 officers dead and 16 others injured. ](/news/2008/08/4/a-police-post-near-kashgar-in-the-xinjiang-uyghur-autonomous-region-of-china-is-attacked-leaving-16-officers-dead-and-16-others-injured.md)
-_Context: Uyghur, China, attacked, Kashgar, Xinjiang, Autonomous Region_
+_Context: Xinjiang, China, Kashgar, Autonomous Region, Uyghur, attacked_
 
 ## [Previous Day...](/news/2008/08/3/index.md)
 

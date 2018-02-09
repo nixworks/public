@@ -29,7 +29,7 @@ The Archbishop of Dublin has said he respects the decisions by Bishops Eamonn Wa
 
 ##### Expresiones de Tulum
 ### [ The death by gunshot wound of "Expresiones de Tulum" journalist Alberto Velzquez, the 12th journalist to be killed in Mexico in 2009, is announced. ](/news/2009/12/25/the-death-by-gunshot-wound-of-expresiones-de-tulum-journalist-alberto-velazquez-the-12th-journalist-to-be-killed-in-mexico-in-2009-is-a.md)
-_Context: Expresiones de Tulum, Mexico, Alberto Velzquez_
+_Context: Mexico, Alberto Velzquez, Expresiones de Tulum_
 
 ##### Queen Elizabeth
 ### [ Elizabeth II of the United Kingdom remembers the dead soldiers of Afghanistan in the Royal Christmas Message. ](/news/2009/12/25/elizabeth-ii-of-the-united-kingdom-remembers-the-dead-soldiers-of-afghanistan-in-the-royal-christmas-message.md)

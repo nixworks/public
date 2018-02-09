@@ -21,7 +21,7 @@ Tributes pour in for the legendary guitarist and songwriter after he dies in Mis
 
 ##### March 2017 Ile-de-France attacks
 ### [French security forces shoot suspect Ziyed Ben Belgacem dead in Paris' Orly Airport after he put the pellet gun to her head and took away an assault rifle from one of three soldiers from "Sentinelle" operation patrolling the airport. Belgacem had earlier shot a police officer with a pellet gun. Later, he had threatened a bar and then carjacked another vehicle to the airport. ](/news/2017/03/18/french-security-forces-shoot-suspect-ziyed-ben-belgacem-dead-in-paris-orly-airport-after-he-put-the-pellet-gun-to-her-head-and-took-away-an.md)
-_Context: Paris, Orly Airport, March 2017 Ile-de-France attacks, "Sentinelle" operation_
+_Context: Paris, Orly Airport, "Sentinelle" operation, March 2017 Ile-de-France attacks_
 
 ## [Previous Day...](/news/2017/03/17/index.md)
 

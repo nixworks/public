@@ -9,7 +9,7 @@ Henry Allingham, who was the world&#39;s oldest man and oldest World War I veter
 
 ##### Irish
 ### [ Ireland's Green Party, part of the ruling coalition, votes by a two to one majority to campaign for the Treaty of Lisbon prior to the 2 October referendum. ](/news/2009/07/18/ireland-s-green-party-part-of-the-ruling-coalition-votes-by-a-two-to-one-majority-to-campaign-for-the-treaty-of-lisbon-prior-to-the-2-oct.md)
-_Context: Irish, the second Irish referendum, Green Party, Treaty of Lisbon_
+_Context: Irish, Treaty of Lisbon, the second Irish referendum, Green Party_
 
 ##### Nachterstedt
 ### [ Three people are missing in Nachterstedt, Germany, after their home collapses into a lake. ](/news/2009/07/18/three-people-are-missing-in-nachterstedt-germany-after-their-home-collapses-into-a-lake.md)
@@ -17,11 +17,11 @@ _Context: Nachterstedt, German_
 
 ##### Mauritanian
 ### [ Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. ](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.md)
-_Context: Mauritanian, coup d'tat, presidential election_
+_Context: coup d'tat, Mauritanian, presidential election_
 
 ##### Palestine
 ### [ Palestinian Prime Minister Salam Fayyad receives a slice as Nablus bakers attempt to set a record for the world's biggest kunafa. ](/news/2009/07/18/palestinian-prime-minister-salam-fayyad-receives-a-slice-as-nablus-bakers-attempt-to-set-a-record-for-the-world-s-biggest-kunafa.md)
-_Context: kunafa, Salam Fayyad, Nablus, Palestine, Prime Minister_
+_Context: Palestine, Salam Fayyad, Prime Minister, kunafa, Nablus_
 
 ##### Tour de France
 ### [ A woman is killed and two people are seriously injured in an accident involving a motorcycle on the Tour de France in France, the race's first fatal accident since 2002. ](/news/2009/07/18/a-woman-is-killed-and-two-people-are-seriously-injured-in-an-accident-involving-a-motorcycle-on-the-tour-de-france-in-france-the-race-s-fi.md)
@@ -37,19 +37,19 @@ More than 1,400 tonnes of waste including bags of blood, used syringes and old m
 
 ##### United Kingdom
 ### [ Over 100 UK and US schoolchildren and teachers are quarantined in Beijing due to swine flu. ](/news/2009/07/18/over-100-uk-and-us-schoolchildren-and-teachers-are-quarantined-in-beijing-due-to-swine-flu.md)
-_Context: United Kingdom, United States, Beijing, swine flu_
+_Context: Beijing, swine flu, United Kingdom, United States_
 
 ##### China
 ### [ China admits it shot dead 12 rioters in one riot incident in rmqi. ](/news/2009/07/18/china-admits-it-shot-dead-12-rioters-in-one-riot-incident-in-urumqi.md)
-_Context: China, riots, rmqi_
+_Context: riots, China, rmqi_
 
 ##### Collision
 ### [ Forty-seven people are injured in a collision between two Muni Metro light rail cars at the West Portal Station in San Francisco, United States. ](/news/2009/07/18/forty-seven-people-are-injured-in-a-collision-between-two-muni-metro-light-rail-cars-at-the-west-portal-station-in-san-francisco-united-st.md)
-_Context: collision, West Portal Station, San Francisco, light rail cars, Muni Metro, United States_
+_Context: West Portal Station, Muni Metro, light rail cars, collision, United States, San Francisco_
 
 ##### Paul Biyogh Mba
 ### [ Paul Biyogh Mba is appointed Prime Minister of Gabon after Jean Eyeghe Ndong launches his presidential campaign. ](/news/2009/07/18/paul-biyoghe-mba-is-appointed-prime-minister-of-gabon-after-jean-eyeghe-ndong-launches-his-presidential-campaign.md)
-_Context: Jean Eyeghe Ndong, Paul Biyogh Mba, Gabon, Prime Minister_
+_Context: Gabon, Jean Eyeghe Ndong, Prime Minister, Paul Biyogh Mba_
 
 ## [Previous Day...](/news/2009/07/17/index.md)
 

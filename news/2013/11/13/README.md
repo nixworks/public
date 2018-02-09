@@ -45,7 +45,7 @@ _Context: Philippines_
 
 ##### Marine
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
-_Context: Marine, ordnance, Southern California, Marine Corps Base Camp Pendleton_
+_Context: Marine, Marine Corps Base Camp Pendleton, ordnance, Southern California_
 
 ##### State Department
 ### [The United States State Department designates Boko Haram as a "terrorist" group. ](/news/2013/11/13/the-united-states-state-department-designates-boko-haram-as-a-terrorist-group.md)
@@ -53,11 +53,11 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 
 ##### China
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: China, Human Rights Council, Russia, Algeria, Vietnam, United Nations, Saudi Arabia, Cuba_
+_Context: Vietnam, China, Russia, United Nations, Algeria, Saudi Arabia, Human Rights Council, Cuba_
 
 ##### Kevin Rudd
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
-_Context: Australia, Politics of Australia, Kevin Rudd_
+_Context: Kevin Rudd, Australia, Politics of Australia_
 
 ##### Wikileak
 ### [Wikileaks publishes a secret draft chapter of the Trans-Pacific Partnership. ](/news/2013/11/13/wikileaks-publishes-a-secret-draft-chapter-of-the-trans-pacific-partnership.md)
@@ -69,7 +69,7 @@ New data also show that in the first month of open enrollment, 26,794 signed up 
 
 ##### Southern Ocean
 ### [A gigantic iceberg is floating in the Southern Ocean after breaking off the Pine Island Glacier in Antarctica. ](/news/2013/11/13/a-gigantic-iceberg-is-floating-in-the-southern-ocean-after-breaking-off-the-pine-island-glacier-in-antarctica.md)
-_Context: Southern Ocean, Antarctica, Pine Island Glacier_
+_Context: Pine Island Glacier, Southern Ocean, Antarctica_
 
 ##### Panthera blytheae
 ### [Scientists discover "Panthera blytheae" in Tibet, the oldest big cat fossil ever discovered. ](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.md)

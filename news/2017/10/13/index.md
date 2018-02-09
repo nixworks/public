@@ -5,7 +5,7 @@ Formats: [HTML](2017/10/13/index.html)  [JSON](2017/10/13/index.json)  [XML](201
 
 ##### Human rights in the Philippines
 ### [A group of civil society organizations, "among them groups working on human rights, youth and drug policy reform," have demanded that Apple Inc. remove from its App Store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-among-them-groups-working-on-human-rights-youth-and-drug-policy-reform-have-demanded-that-apple.md)
-_Context: Human rights in the Philippines, App Store, Apple Inc., drug crackdown_
+_Context: App Store, Apple Inc., Human rights in the Philippines, drug crackdown_
 
 ##### Economy of the United Kingdom
 ### [The head of the United Kingdom's Financial Conduct Authority Andrew Bailey admits to meeting oil giant Saudi Aramco over a potential GBP1.5 trillion listing on the London Stock Exchange. The regulator has been criticised for proposing changes to listing rules to accommodate sovereign-owned companies. ](/news/2017/10/13/the-head-of-the-united-kingdom-s-financial-conduct-authority-andrew-bailey-admits-to-meeting-oil-giant-saudi-aramco-over-a-potential-gbp1-5.md)

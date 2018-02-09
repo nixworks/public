@@ -17,7 +17,7 @@ Bombings in the Iraqi capital Saturday killed more than three dozen people hours
 
 ##### Islamist insurgency in Nigeria
 ### [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md)
-_Context: Nigeria, Islamist insurgency in Nigeria, Nigerian general election, 2015, Boko Haram_
+_Context: Nigerian general election, 2015, Nigeria, Islamist insurgency in Nigeria, Boko Haram_
 
 ##### NBC Nightly News
 ### [NBC Nightly News anchorman Brian Williams begins a temporary hiatus from broadcasting after he was caught lying about having been on board an underfire helicopter which crashed during the 2003 invasion of Iraq. ](/news/2015/02/7/nbc-nightly-news-anchorman-brian-williams-begins-a-temporary-hiatus-from-broadcasting-after-he-was-caught-lying-about-having-been-on-board-a.md)
@@ -33,7 +33,7 @@ _Context: TransAsia, TransAsia Airways Flight 235_
 
 ##### Douglasville
 ### [A gunman shoots six people, killing four, including several children, in Douglasville, Georgia, ending with the gunman committing suicide. ](/news/2015/02/7/a-gunman-shoots-six-people-killing-four-including-several-children-in-douglasville-georgia-ending-with-the-gunman-committing-suicide.md)
-_Context: Douglasville, Georgia_
+_Context: Georgia, Douglasville_
 
 ##### Monroeville Mall
 ### [A 17-year-old male opens fire on a man at the Monroeville Mall in the Pittsburgh, Pennsylvania area, striking his intended target as well as two bystanders hospitalizing three people. ](/news/2015/02/7/a-17-year-old-male-opens-fire-on-a-man-at-the-monroeville-mall-in-the-pittsburgh-pennsylvania-area-striking-his-intended-target-as-well-as.md)
@@ -45,7 +45,7 @@ Lawrence Springborg has been elected as leader of Qld&#039;s Liberal National Pa
 
 ##### Slovak same-sex marriage referendum
 ### [Although greater than 90% vote in favor of the referendum, Slovak election officials deem the result invalid due to a low 21% voter turnout, far short of the 50% or greater turnout required for the results to be legally binding. ](/news/2015/02/7/although-greater-than-90-vote-in-favor-of-the-referendum-slovak-election-officials-deem-the-result-invalid-due-to-a-low-21-voter-turnout.md)
-_Context: Slovak same-sex marriage referendum, Slovakia_
+_Context: Slovakia, Slovak same-sex marriage referendum_
 
 ## [Previous Day...](/news/2015/02/6/index.md)
 

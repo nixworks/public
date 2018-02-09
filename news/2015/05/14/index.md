@@ -17,7 +17,7 @@ Philadelphia mayor says all 243 passengers and crew accounted for as engineer wh
 
 ##### U.S. President
 ### [U.S. President Barack Obama meets with the Gulf Cooperation Council at the White House with a proposed nuclear deal with Iran top of the agenda.](/news/2015/05/14/u-s-president-barack-obama-meets-with-the-gulf-cooperation-council-at-the-white-house-with-a-proposed-nuclear-deal-with-iran-top-of-the-age.md)
-_Context: Barack Obama, Gulf Cooperation Council, Iran, White House, U.S. President_
+_Context: U.S. President, Iran, Barack Obama, White House, Gulf Cooperation Council_
 
 ##### Malaysia
 ### [Malaysia turns away two boats with more than 800 Rohingya and Bangladesh migrants abandoned at sea by human traffickers. ](/news/2015/05/14/malaysia-turns-away-two-boats-with-more-than-800-rohingya-and-bangladesh-migrants-abandoned-at-sea-by-human-traffickers.md)

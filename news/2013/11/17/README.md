@@ -37,7 +37,7 @@ _Context: Giorgi Margvelashvili, President of Georgia_
 
 ##### Chile
 ### [Voters in Chile go to the polls for a general election of president, senators, deputies, and regional advisers. The presidential election looks likely to go to a runoff between former President Michelle Bachelet and Evelyn Matthei of the ruling Coalition. ](/news/2013/11/17/voters-in-chile-go-to-the-polls-for-a-general-election-of-president-senators-deputies-and-regional-advisers-the-presidential-election-lo.md)
-_Context: Michelle Bachelet, president, regional advisers, Chile, senators, deputies, President, Evelyn Matthei_
+_Context: senators, deputies, regional advisers, Chile, Evelyn Matthei, President, Michelle Bachelet, president_
 
 ## [Previous Day...](/news/2013/11/16/index.md)
 

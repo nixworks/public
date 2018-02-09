@@ -13,7 +13,7 @@ _Context: 2010 Thai political protests_
 
 ##### Pakistan
 ### [The Pakistani military kills 100 Taliban in the northwest of the country. ](/news/2010/04/10/the-pakistani-military-kills-100-taliban-in-the-northwest-of-the-country.md)
-_Context: Taliban, Pakistan_
+_Context: Pakistan, Taliban_
 
 ##### Ilam
 ### [A blast injures at least 19 people outside a prison in Ilam. ](/news/2010/04/10/a-blast-injures-at-least-19-people-outside-a-prison-in-ilam.md)

@@ -13,11 +13,11 @@ Boeing Co. won U.S. approval for the 787 Dreamliner’s redesigned battery, sett
 
 ##### Serbia
 ### [Serbia and its former province of Kosovo reach an accord aimed at normalizing relations between the Balkan neighbours, potentially setting Belgrade on the path to membership of the European Union. ](/news/2013/04/19/serbia-and-its-former-province-of-kosovo-reach-an-accord-aimed-at-normalizing-relations-between-the-balkan-neighbours-potentially-setting-b.md)
-_Context: Serbia, Kosovo, Belgrade, European Union candidacy, Balkan, European Union_
+_Context: European Union candidacy, European Union, Belgrade, Serbia, Balkan, Kosovo_
 
 ##### Pakistan
 ### [Former Pakistani President Pervez Musharraf is arrested at his home on charges relating to unlawful detention of judges in 2007. He was present at the court when the arrest warrant was issued on Thursday, but had left before the warrant was served. ](/news/2013/04/19/former-pakistani-president-pervez-musharraf-is-arrested-at-his-home-on-charges-relating-to-unlawful-detention-of-judges-in-2007-he-was-pres.md)
-_Context: unlawful detention of judges, president, Pakistan, Pervez Musharraf_
+_Context: unlawful detention of judges, president, Pervez Musharraf, Pakistan_
 
 ##### India
 ### [A court in India sentences Mirza Himayat Baig to death for plotting the 2010 Pune bombing of a bakery which killed 17 people in Pune. ](/news/2013/04/19/a-court-in-india-sentences-mirza-himayat-baig-to-death-for-plotting-the-2010-pune-bombing-of-a-bakery-which-killed-17-people-in-pune.md)
@@ -29,7 +29,7 @@ _Context: Venezuela, Nicols Maduro, last month's presidential election, Presiden
 
 ##### Italy
 ### [In Italy, after failing to elect the President of Italy on the fourth ballot, Democratic leader Pier Luigi Bersani is to step down, pointing out traitors in his own party. ](/news/2013/04/19/in-italy-after-failing-to-elect-the-president-of-italy-on-the-fourth-ballot-democratic-leader-pier-luigi-bersani-is-to-step-down-pointing.md)
-_Context: Italy, Pier Luigi Bersani, Democratic Party, President of Italy_
+_Context: Democratic Party, Italy, President of Italy, Pier Luigi Bersani_
 
 ## [Previous Day...](/news/2013/04/18/index.md)
 

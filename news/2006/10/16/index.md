@@ -5,7 +5,7 @@ Formats: [HTML](2006/10/16/index.html)  [JSON](2006/10/16/index.json)  [XML](200
 
 ##### After 48 rounds of voting
 ### [ UN Security Council election: The United Nations General Assembly elects Belgium, Indonesia, Italy and South Africa to two-year terms on the Security Council, commencing 1 January 2007. The fifth seat remains deadlocked after ten rounds of voting between Guatemala and Venezuela and may be thrown open to other candidates from Latin America and the Caribbean. ](/news/2006/10/16/un-security-council-election-the-united-nations-general-assembly-elects-belgium-indonesia-italy-and-south-africa-to-two-year-terms-on-th.md)
-_Context: After 48 rounds of voting, South Africa, Italy, Guatemala, United Nations, Security Council, General Assembly, Indonesia, Latin America and the Caribbean, Venezuela, Belgium_
+_Context: South Africa, Security Council, Belgium, Italy, Indonesia, United Nations, General Assembly, Venezuela, After 48 rounds of voting, Guatemala, Latin America and the Caribbean_
 
 ##### United Nations Secretary-General
 ### [ United Nations Secretary-General Kofi Annan condemns movement by Eritrea of 1,500 troops and 14 tanks into the UNMEE-monitored Temporary Security Zone with Ethiopia as a "major breach" of the ceasefire agreement that ended the Eritrean-Ethiopian War. ](/news/2006/10/16/united-nations-secretary-general-kofi-annan-condemns-movement-by-eritrea-of-1-500-troops-and-14-tanks-into-the-unmee-monitored-temporary-se.md)
@@ -17,11 +17,11 @@ The United States confirmed Monday that North Korea did conduct a nuclear test o
 
 ##### Sudan
 ### [ The government of Sudan and the Eastern Front rebels sign a peace treaty in Asmara, Eritrea. ](/news/2006/10/16/the-government-of-sudan-and-the-eastern-front-rebels-sign-a-peace-treaty-in-asmara-eritrea.md)
-_Context: Sudan, Eritrea, peace treaty, Asmara, Eastern Front_
+_Context: Eritrea, Sudan, Asmara, peace treaty, Eastern Front_
 
 ##### Industrial and Commercial Bank of China
 ### [ The Industrial and Commercial Bank of China starts its dual initial public offering (IPO) in Hong Kong Stock Exchange and Shanghai Stock Exchange, in what would be the world's largest ever IPO. ](/news/2006/10/16/the-industrial-and-commercial-bank-of-china-starts-its-dual-initial-public-offering-ipo-in-hong-kong-stock-exchange-and-shanghai-stock-ex.md)
-_Context: Shanghai Stock Exchange, initial public offering, Industrial and Commercial Bank of China, Hong Kong Stock Exchange_
+_Context: initial public offering, Industrial and Commercial Bank of China, Shanghai Stock Exchange, Hong Kong Stock Exchange_
 
 ##### LTTE
 ### [ Suspected Tamil Tiger rebels detonate a truck packed with explosives amongst a convoy of buses carrying Sri Lankan Navy personnel in the country's northeast. Approximately 102 people are killed, and 150 people are wounded. ](/news/2006/10/16/suspected-tamil-tiger-rebels-detonate-a-truck-packed-with-explosives-amongst-a-convoy-of-buses-carrying-sri-lankan-navy-personnel-in-the-co.md)
@@ -29,11 +29,11 @@ _Context: Sri Lankan Navy, LTTE_
 
 ##### Sweden
 ### [ Swedish Minister for Culture Cecilia Steg Chil resigns after 11 days in office, the second resignation within the Cabinet of Fredrik Reinfeldt. ](/news/2006/10/16/swedish-minister-for-culture-cecilia-stego-chilo-resigns-after-11-days-in-office-the-second-resignation-within-the-cabinet-of-fredrik-rein.md)
-_Context: Sweden, Cecilia Steg Chil, Cabinet of Fredrik Reinfeldt_
+_Context: Cecilia Steg Chil, Sweden, Cabinet of Fredrik Reinfeldt_
 
 ##### Hong Kong
 ### [ The government of Hong Kong will not appeal a court ruling striking down the territory's sodomy law. ](/news/2006/10/16/the-government-of-hong-kong-will-not-appeal-a-court-ruling-striking-down-the-territory-s-sodomy-law.md)
-_Context: Hong Kong, sodomy law_
+_Context: sodomy law, Hong Kong_
 
 ##### Chemical element
 ### [ American and Russian scientists announce the discovery of a new chemical element with the atomic number 118, temporarily designated as Ununoctium. ](/news/2006/10/16/american-and-russian-scientists-announce-the-discovery-of-a-new-chemical-element-with-the-atomic-number-118-temporarily-designated-as-unun.md)
@@ -41,7 +41,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Uzbek President
 ### [ Uzbek President Islam Karimov fires Saidullo Begaliev, Governor of Andijan, for "short-sighted policies" and "lack of attention to the people's needs" that led to the Andijan massacre in 2005. Karimov appoints Ahmad Usmonov as Begaliev's replacement. ](/news/2006/10/16/uzbek-president-islam-karimov-fires-saidullo-begaliev-governor-of-andijan-for-short-sighted-policies-and-lack-of-attention-to-the-peop.md)
-_Context: Andijan massacre, Islam Karimov, Uzbek President, Andijan_
+_Context: Islam Karimov, Andijan, Andijan massacre, Uzbek President_
 
 ## [Previous Day...](/news/2006/10/15/index.md)
 

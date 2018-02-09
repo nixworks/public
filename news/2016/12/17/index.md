@@ -13,7 +13,7 @@ _Context: bolivar, Venezuela, Nicolas Maduro_
 
 ##### Indonesia
 ### [Tsunami warnings are issued for the Pacific region, including Indonesia and the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. ](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-region-including-indonesia-and-the-solomon-islands-following-a-7-9-magnitude-earthquake-east-o.md)
-_Context: Pacific Tsunami Warning Center, Papua New Guinea, magnitude, Solomon Islands, Indonesia_
+_Context: Pacific Tsunami Warning Center, Papua New Guinea, Indonesia, Solomon Islands, magnitude_
 
 ##### 2016-17 North American winter
 ### [Two people are killed and at least 15 are hospitalized following a 55-vehicle accident, involving a gas tanker explosion, on Interstate 95 in Baltimore, Maryland, as cold air causes rain and wet roads to freeze across the Eastern U.S. Three other deaths are reported from other accidents in the Baltimore-Washington, D.C. area. At least six people have been killed in total on icy roads. ](/news/2016/12/17/two-people-are-killed-and-at-least-15-are-hospitalized-following-a-55-vehicle-accident-involving-a-gas-tanker-explosion-on-interstate-95-i.md)

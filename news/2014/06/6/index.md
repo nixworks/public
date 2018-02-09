@@ -9,11 +9,11 @@ _Context: Afghan presidential election, 2014, Abdullah Abdullah, National Coalit
 
 ##### Russian President
 ### [Russian President Vladimir Putin and Ukrainian President-elect Petro Poroshenko call for a quick and peaceful end to the violence in eastern Ukraine. ](/news/2014/06/6/russian-president-vladimir-putin-and-ukrainian-president-elect-petro-poroshenko-call-for-a-quick-and-peaceful-end-to-the-violence-in-eastern.md)
-_Context: Vladimir Putin, Ukrainian President-elect, Petro Poroshenko, eastern Ukraine, Russian President_
+_Context: Vladimir Putin, Petro Poroshenko, Russian President, eastern Ukraine, Ukrainian President-elect_
 
 ##### Tehreek-i-Taliban Pakistan
 ### [Ashiqullah Mehsud, a senior commander in the Tehreek-i-Taliban Pakistan, is shot and killed by unknown assailants, speculated to be from the Mehsud splinter group, in the village of Urmuz in the North Waziristan region of Pakistan. ](/news/2014/06/6/ashiqullah-mehsud-a-senior-commander-in-the-tehreek-i-taliban-pakistan-is-shot-and-killed-by-unknown-assailants-speculated-to-be-from-the.md)
-_Context: Pakistan, North Waziristan, Urmuz, Mehsud, Tehreek-i-Taliban Pakistan_
+_Context: North Waziristan, Tehreek-i-Taliban Pakistan, Mehsud, Pakistan, Urmuz_
 
 ##### Iraq
 ### [Attacks across Iraq kill 27 people. ](/news/2014/06/6/attacks-across-iraq-kill-27-people.md)
@@ -21,7 +21,7 @@ _Context: Iraq_
 
 ##### Normandy
 ### [World leaders travel to Normandy in France to commemorate the 70th anniversary of D-Day, the first day of the Western Allies Invasion of Normandy during World War II. ](/news/2014/06/6/world-leaders-travel-to-normandy-in-france-to-commemorate-the-70th-anniversary-of-d-day-the-first-day-of-the-western-allies-invasion-of-nor.md)
-_Context: France, D-Day, Normandy, Invasion of Normandy, Western Allies, World War II_
+_Context: D-Day, France, Western Allies, Invasion of Normandy, World War II, Normandy_
 
 ##### Nun
 ### [Nun turned singer Cristina Scuccia wins the seventh season of "The Voice of Italy". ](/news/2014/06/6/nun-turned-singer-cristina-scuccia-wins-the-seventh-season-of-the-voice-of-italy.md)
@@ -53,11 +53,11 @@ Chinese-born Australian artist Guo Jian, detained before the Tiananmen anniversa
 
 ##### Canadian police
 ### [Canadian police arrest Justin Bourque, wanted for the alleged murder of three Royal Canadian Mounted Police officers and shooting two others in Moncton, New Brunswick. ](/news/2014/06/6/canadian-police-arrest-justin-bourque-wanted-for-the-alleged-murder-of-three-royal-canadian-mounted-police-officers-and-shooting-two-others.md)
-_Context: murder, Canadian police, Moncton, New Brunswick, Royal Canadian Mounted Police_
+_Context: Canadian police, Moncton, New Brunswick, Royal Canadian Mounted Police, murder_
 
 ##### Diet
 ### [Japan's parliament moves to ban the possession of child pornography. ](/news/2014/06/6/japan-s-parliament-moves-to-ban-the-possession-of-child-pornography.md)
-_Context: Diet, child pornography_
+_Context: child pornography, Diet_
 
 ##### Prosecutors
 ### [Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research. ](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.md)

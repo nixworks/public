@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/10/index.html)  [JSON](2013/09/10/index.json)  [XML](201
 
 ##### Human Rights Watch
 ### [Human Rights Watch issues a report concluding that Syrian government forces were most likely to be responsible for chemical weapons attacks on two suburbs in Damascus on August 21. ](/news/2013/09/10/human-rights-watch-issues-a-report-concluding-that-syrian-government-forces-were-most-likely-to-be-responsible-for-chemical-weapons-attacks.md)
-_Context: Damascus, Syria, chemical weapons, Human Rights Watch_
+_Context: chemical weapons, Human Rights Watch, Damascus, Syria_
 
 ##### 
 ### [Bomb attacks targeting both Shi'ite Muslims and Sunnis kill at least 16 people in Iraq. ](/news/2013/09/10/bomb-attacks-targeting-both-shi-ite-muslims-and-sunnis-kill-at-least-16-people-in-iraq.md)
@@ -19,7 +19,7 @@ Singer&#39;s provocative clip beats One Direction&#39;s Best Song Ever video wit
 
 ##### Alcoa
 ### [Alcoa, Hewlett-Packard, and Bank of America will be dropped from the Dow Jones Industrial Average from next week to be replaced by Visa Inc., Nike, Inc and Goldman Sachs. ](/news/2013/09/10/alcoa-hewlett-packard-and-bank-of-america-will-be-dropped-from-the-dow-jones-industrial-average-from-next-week-to-be-replaced-by-visa-inc.md)
-_Context: Nike, Inc, Visa Inc., Dow Jones Industrial Average, Hewlett-Packard, Alcoa, Goldman Sachs, Bank of America_
+_Context: Hewlett-Packard, Bank of America, Alcoa, Visa Inc., Goldman Sachs, Dow Jones Industrial Average, Nike, Inc_
 
 ##### Helicopter
 ### [Three people die after a helicopter working with the Canadian Coast Guard research ship CCGS "Amundsen" crashes in the Arctic Ocean. ](/news/2013/09/10/three-people-die-after-a-helicopter-working-with-the-canadian-coast-guard-research-ship-ccgs-amundsen-crashes-in-the-arctic-ocean.md)
@@ -35,11 +35,11 @@ New sales of semi-automatic rifles with removable magazines would be banned in C
 
 ##### John Roberts
 ### [John G. Roberts, Jr., Chief Justice of the United States, appoints Judge William Curtis Bryson as presiding judge of the United States Foreign Intelligence Surveillance Court of Review. ](/news/2013/09/10/john-g-roberts-jr-chief-justice-of-the-united-states-appoints-judge-william-curtis-bryson-as-presiding-judge-of-the-united-states-forei.md)
-_Context: John Roberts, Chief Justice, William Curtis Bryson, United States Foreign Intelligence Surveillance Court of Review_
+_Context: John Roberts, Chief Justice, United States Foreign Intelligence Surveillance Court of Review, William Curtis Bryson_
 
 ##### Ali Shamkhani
 ### [Ali Shamkhani is appointed as Secretary of Supreme National Security Council of Iran by President Hassan Rouhani. Rouhani also appoints Masoumeh Ebtekar as Vice President of Iran ](/news/2013/09/10/ali-shamkhani-is-appointed-as-secretary-of-supreme-national-security-council-of-iran-by-president-hassan-rouhani-rouhani-also-appoints-maso.md)
-_Context: President, First Vice President, Hassan Rouhani, Supreme National Security Council of Iran, Ali Shamkhani, Masoumeh Ebtekar_
+_Context: Hassan Rouhani, First Vice President, Ali Shamkhani, Masoumeh Ebtekar, President, Supreme National Security Council of Iran_
 
 ##### Nigel Evans
 ### [Nigel Evans resigns as Deputy Speaker of the British House of Commons after being charged with eight sexual offences. ](/news/2013/09/10/nigel-evans-resigns-as-deputy-speaker-of-the-british-house-of-commons-after-being-charged-with-eight-sexual-offences.md)
@@ -47,7 +47,7 @@ MP Nigel Evans resigns as Commons Deputy Speaker, after being charged with offen
 
 ##### IPhone 5c
 ### [Apple unveils the iPhone 5c and 5s ](/news/2013/09/10/apple-unveils-the-iphone-5c-and-5s.md)
-_Context: 5s, iPhone 5c_
+_Context: iPhone 5c, 5s_
 
 ## [Previous Day...](/news/2013/09/9/index.md)
 

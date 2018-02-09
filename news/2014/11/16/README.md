@@ -29,7 +29,7 @@ At least four people are killed when landslides engulf homes in southern Switzer
 
 ##### Influenza A virus subtype H5N1
 ### [Authorities in the Netherlands ban the sale of poultry and eggs following the discovery of the bird flu virus at a chicken farm. Authorities in the United Kingdom have also confirmed that the virus has been discovered at a Yorkshire duck farm with the birds being culled. ](/news/2014/11/16/authorities-in-the-netherlands-ban-the-sale-of-poultry-and-eggs-following-the-discovery-of-the-bird-flu-virus-at-a-chicken-farm-authorities.md)
-_Context: Netherlands, United Kingdom, eggs, Yorkshire, Influenza A virus subtype H5N1, poultry_
+_Context: United Kingdom, Netherlands, Yorkshire, eggs, Influenza A virus subtype H5N1, poultry_
 
 ##### Brisbane
 ### [Protestors in Brisbane burn Australian flags over indigenous rights. ](/news/2014/11/16/protestors-in-brisbane-burn-australian-flags-over-indigenous-rights.md)

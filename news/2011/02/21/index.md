@@ -13,19 +13,19 @@ _Context: Somalia_
 
 ##### Unit 731
 ### [An excavation begins at the Tokyo site of Unit 731, a covert Imperial Japanese Army biological and chemical warfare site that conducted human experimentation. ](/news/2011/02/21/an-excavation-begins-at-the-tokyo-site-of-unit-731-a-covert-imperial-japanese-army-biological-and-chemical-warfare-site-that-conducted-huma.md)
-_Context: biological, human experimentation, Imperial Japanese Army, chemical warfare, Unit 731_
+_Context: chemical warfare, human experimentation, Imperial Japanese Army, Unit 731, biological_
 
 ##### South Waziristan
 ### [A suspected United States missile strike kills four militants in the South Waziristan region of Pakistan. ](/news/2011/02/21/a-suspected-united-states-missile-strike-kills-four-militants-in-the-south-waziristan-region-of-pakistan.md)
-_Context: Pakistan, South Waziristan_
+_Context: South Waziristan, Pakistan_
 
 ##### Rock music
 ### [English rock band Deep Purple will release a record single of the song "Hush" in support of UK Record Store Day which is the third Saturday in April. ](/news/2011/02/21/english-rock-band-deep-purple-will-release-a-record-single-of-the-song-hush-in-support-of-uk-record-store-day-which-is-the-third-saturday.md)
-_Context: Hush, Record Store Day, Deep Purple, rock music_
+_Context: rock music, Hush, Record Store Day, Deep Purple_
 
 ##### BP
 ### [UK based oil giant BP agrees to pay Reliance Industries $7.2 billion for a stake in 23 oil and gas blocks in deep water off India. The two companies will also enter into a joint venture for marketing and sourcing natural gas. ](/news/2011/02/21/uk-based-oil-giant-bp-agrees-to-pay-reliance-industries-7-2-billion-for-a-stake-in-23-oil-and-gas-blocks-in-deep-water-off-india-the-two-c.md)
-_Context: natural gas, Reliance Industries, BP_
+_Context: BP, Reliance Industries, natural gas_
 
 ##### ConAgra
 ### [ConAgra lays off 234 workers from its Slim Jim manufacturing plant in Garner, North Carolina prior to the closure of the plant. ](/news/2011/02/21/conagra-lays-off-234-workers-from-its-slim-jim-manufacturing-plant-in-garner-north-carolina-prior-to-the-closure-of-the-plant.md)
@@ -41,11 +41,11 @@ The fear of bird flu has come back to haunt the poultry industry in Andhra Prade
 
 ##### Mount Bulusan
 ### [Mount Bulusan on the island of Luzon in the Philippines erupts. ](/news/2011/02/21/mount-bulusan-on-the-island-of-luzon-in-the-philippines-erupts.md)
-_Context: Philippines, Mount Bulusan, Luzon_
+_Context: Mount Bulusan, Luzon, Philippines_
 
 ##### Mali
 ### [At least thirty people are killed in a stampede at a Mali stadium following a sermon by a leading Muslim imam. ](/news/2011/02/21/at-least-thirty-people-are-killed-in-a-stampede-at-a-mali-stadium-following-a-sermon-by-a-leading-muslim-imam.md)
-_Context: imam, Muslim, Mali_
+_Context: Mali, imam, Muslim_
 
 ##### Tunisia
 ### [Tunisia asks Saudi Arabia to extradite former President Zine El Abidine Ben Ali who was ousted in January. ](/news/2011/02/21/tunisia-asks-saudi-arabia-to-extradite-former-president-zine-el-abidine-ben-ali-who-was-ousted-in-january.md)
@@ -57,7 +57,7 @@ _Context: crimes against humanity, DR Congo_
 
 ##### Bombay High Court
 ### [The Bombay High Court in India upholds the death sentence for convicted Pakistani terrorist Ajmal Kasab for his involvement in the 2008 Mumbai attacks. ](/news/2011/02/21/the-bombay-high-court-in-india-upholds-the-death-sentence-for-convicted-pakistani-terrorist-ajmal-kasab-for-his-involvement-in-the-2008-mumb.md)
-_Context: Bombay High Court, Ajmal Kasab, 2008 Mumbai attacks, Pakistan_
+_Context: Bombay High Court, 2008 Mumbai attacks, Pakistan, Ajmal Kasab_
 
 ##### 
 ### [China's top security official urges ways to "detect conflicts and problems early on" and improve "social management", after small protests took place inspired by events in the Middle East and North Africa. ](/news/2011/02/21/china-s-top-security-official-urges-ways-to-detect-conflicts-and-problems-early-on-and-improve-social-management-after-small-protests-t.md)
@@ -71,11 +71,11 @@ The U.S., with 4.5 percent of the world’s population and 25 percent of the wor
 
 ##### Alex Chernov
 ### [Jurist Alex Chernov is appointed as the next Governor of the Australian state of Victoria. ](/news/2011/02/21/jurist-alex-chernov-is-appointed-as-the-next-governor-of-the-australian-state-of-victoria.md)
-_Context: Alex Chernov, Governor, Victoria_
+_Context: Victoria, Alex Chernov, Governor_
 
 ##### Venezuela
 ### [Three Venezuelan hunger strikers are hospitalised after calling for an international probe into alleged human rights abuses by the President of Venezuela Hugo Chvez. ](/news/2011/02/21/three-venezuelan-hunger-strikers-are-hospitalised-after-calling-for-an-international-probe-into-alleged-human-rights-abuses-by-the-president.md)
-_Context: Venezuela, hunger strike, Hugo Chvez, human rights, President_
+_Context: hunger strike, Venezuela, President, human rights, Hugo Chvez_
 
 ## [Previous Day...](/news/2011/02/20/index.md)
 

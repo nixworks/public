@@ -13,11 +13,11 @@ Romanian prosecutors said they detained President Traian Basescu’s brother on 
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court cuts back sharply on the range of patentable software, in a case involving business methods. ](/news/2014/06/19/the-u-s-supreme-court-cuts-back-sharply-on-the-range-of-patentable-software-in-a-case-involving-business-methods.md)
-_Context: a case, software, Supreme Court of the United States, business methods_
+_Context: business methods, a case, Supreme Court of the United States, software_
 
 ##### Ukraine
 ### [The Ukraine Parliament confirms all government candidates, including that of foreign minister, appointed the previous day by President Petro Poroshenko. ](/news/2014/06/19/the-ukraine-parliament-confirms-all-government-candidates-including-that-of-foreign-minister-appointed-the-previous-day-by-president-petro.md)
-_Context: Ukraine, Petro Poroshenko_
+_Context: Petro Poroshenko, Ukraine_
 
 ## [Previous Day...](/news/2014/06/18/index.md)
 

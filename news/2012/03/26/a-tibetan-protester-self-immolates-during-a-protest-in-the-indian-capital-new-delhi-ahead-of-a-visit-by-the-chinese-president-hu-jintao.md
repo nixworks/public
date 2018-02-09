@@ -15,7 +15,7 @@ Formats: [HTML](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-pro
 
 ### Changes:
 
-1. [A Tibetan activist sets himself on fire at a demonstration in India's capital New Delhi ahead of a visit by the President of China Hu Jintao later in the week. ](/news/2012/03/26/a-tibetan-activist-sets-himself-on-fire-at-a-demonstration-in-india-s-capital-new-delhi-ahead-of-a-visit-by-the-president-of-china-hu-jintao.md) _2018-02-07 04:25:07 (First version)_
+1. [A Tibetan activist sets himself on fire at a demonstration in India's capital New Delhi ahead of a visit by the President of China Hu Jintao later in the week. ](/news/2012/03/26/a-tibetan-activist-sets-himself-on-fire-at-a-demonstration-in-india-s-capital-new-delhi-ahead-of-a-visit-by-the-president-of-china-hu-jintao.md) _2018-02-08 05:07:19 (First version)_
 1. [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md) _(Current version)_
 
 ### Related:

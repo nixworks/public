@@ -9,7 +9,7 @@ Sporadic gunfire punctuates a cautious calm in the north Lebanon city of Tripoli
 
 ##### Drones launch
 ### [A U.S. drone attack in Pakistan's South Waziristan tribal region kills at least 10 suspected militants. ](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-waziristan-tribal-region-kills-at-least-10-suspected-militants.md)
-_Context: South Waziristan, Pakistan, drones launch_
+_Context: South Waziristan, drones launch, Pakistan_
 
 ##### Suicide car bombing
 ### [A suicide car bombing outside a church in the Nigerian city of Bauchi kills 15 people and injures 42 others. ](/news/2012/06/3/a-suicide-car-bombing-outside-a-church-in-the-nigerian-city-of-bauchi-kills-15-people-and-injures-42-others.md)
@@ -17,7 +17,7 @@ The Nation Newspaper is Nigeria&#039;s widest circulating newspaper covering New
 
 ##### Diamond jubilee
 ### [The Diamond Jubilee of Elizabeth II of the United Kingdom reaches its peak with a pageant on the River Thames. ](/news/2012/06/3/the-diamond-jubilee-of-elizabeth-ii-of-the-united-kingdom-reaches-its-peak-with-a-pageant-on-the-river-thames.md)
-_Context: pageant, diamond jubilee, River Thames, Elizabeth II_
+_Context: Elizabeth II, diamond jubilee, River Thames, pageant_
 
 ##### Crashes
 ### [A plane carrying 153 people on board crashes in a residential neighborhood in Lagos, Nigeria, killing everyone on board and 10 people on the ground. ](/news/2012/06/3/a-plane-carrying-153-people-on-board-crashes-in-a-residential-neighborhood-in-lagos-nigeria-killing-everyone-on-board-and-10-people-on-the.md)
@@ -25,11 +25,11 @@ _Context: crashes, Lagos, Nigeria_
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Leon Panetta visits a former U.S. base in Cam Ranh Bay, the first visit by an American official of cabinet rank to Vietnam since the Vietnam War. ](/news/2012/06/3/united-states-secretary-of-defense-leon-panetta-visits-a-former-u-s-base-in-cam-ranh-bay-the-first-visit-by-an-american-official-of-cabine.md)
-_Context: Cam Ranh Bay, Vietnam, Leon Panetta, United States Secretary of Defense, Vietnam War_
+_Context: Leon Panetta, Vietnam War, United States Secretary of Defense, Cam Ranh Bay, Vietnam_
 
 ##### China
 ### [Police in China crack down on political activists marking the 23rd anniversary of the 1989 Tiananmen Square protests. ](/news/2012/06/3/police-in-china-crack-down-on-political-activists-marking-the-23rd-anniversary-of-the-1989-tiananmen-square-protests.md)
-_Context: 1989 Tiananmen Square protests, China_
+_Context: China, 1989 Tiananmen Square protests_
 
 ##### Japan
 ### [Police in Japan arrest Naoko Kikuchi, a member of the Aum Shinrikyo cult and one of the two fugitives still at large wanted over the deadly sarin gas attacks on the Tokyo subway in March 1995. ](/news/2012/06/3/police-in-japan-arrest-naoko-kikuchi-a-member-of-the-aum-shinrikyo-cult-and-one-of-the-two-fugitives-still-at-large-wanted-over-the-deadly.md)
@@ -41,7 +41,7 @@ _Context: Turkey, abortion_
 
 ##### BBC
 ### [Speaking on the BBC's "The Andrew Marr Show", British Prime Minister David Cameron says that Culture Secretary Jeremy Hunt "acted wisely" in his handling of the BSkyB takeover bid. ](/news/2012/06/3/speaking-on-the-bbc-s-the-andrew-marr-show-british-prime-minister-david-cameron-says-that-culture-secretary-jeremy-hunt-acted-wisely-in.md)
-_Context: Prime Minister, The Andrew Marr Show, BSkyB takeover bid, Secretary of State for Culture, Media and Sport, BBC, Jeremy Hunt, David Cameron_
+_Context: Jeremy Hunt, Secretary of State for Culture, Media and Sport, David Cameron, Prime Minister, BSkyB takeover bid, The Andrew Marr Show, BBC_
 
 ## [Previous Day...](/news/2012/06/2/index.md)
 

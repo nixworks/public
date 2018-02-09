@@ -19,9 +19,9 @@ French prosecutors say &quot;with certainty&quot; that a wing part found on Reun
 ### [A military parade is held in Beijing featuring 12,000 members of the People's Liberation Army, 500 vehicles and 200 People's Liberation Army Air Force air craft. Women of the Chinese military are allowed to participate in this particular parade for the first time. ](/news/2015/09/3/a-military-parade-is-held-in-beijing-featuring-12-000-members-of-the-people-s-liberation-army-500-vehicles-and-200-people-s-liberation-army.md)
 The military parade in Beijing on September 3, celebrating Japan’s surrender in World War II, is going to demonstrate some 500 units of China’s military hardware rolling across Tiananmen Square, accompanied by 12,000 troops.
 
-##### President
+##### Guatemalan President
 ### [The President of Guatemala, Otto Prez Molina, resigns after being charged in a corruption scandal; Vice President Alejandro Maldonado is sworn in as interim head of state. ](/news/2015/09/3/the-president-of-guatemala-otto-perez-molina-resigns-after-being-charged-in-a-corruption-scandal-vice-president-alejandro-maldonado-is-sw.md)
-_Context: Otto Prez Molina, President, Alejandro Maldonado_
+_Context: Guatemalan President, Otto Prez Molina, Alejandro Maldonado_
 
 ##### 2015 Bangkok bombing
 ### [Another suspect in the bombing is arrested in Narathiwat Province in southern Thailand and flown to Bangkok. ](/news/2015/09/3/another-suspect-in-the-bombing-is-arrested-in-narathiwat-province-in-southern-thailand-and-flown-to-bangkok.md)

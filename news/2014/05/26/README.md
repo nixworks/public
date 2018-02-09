@@ -9,7 +9,7 @@ DONETSK, Ukraine (Reuters) - Ukrainian government warplanes carried out airstrik
 
 ##### 276 girls kidnapped from northern Nigeria
 ### [Air Marshal Alex Barde, the Nigeria head of defense, tells protesters in Abuja that the military knows where the 300 girls kidnapped by Boko Haram are but are reluctant to rescue them due to the fear of having them killed. ](/news/2014/05/26/air-marshal-alex-barde-the-nigeria-head-of-defense-tells-protesters-in-abuja-that-the-military-knows-where-the-300-girls-kidnapped-by-boko.md)
-_Context: 276 girls kidnapped from northern Nigeria, Boko Haram, Abuja, Nigeria_
+_Context: Boko Haram, Abuja, Nigeria, 276 girls kidnapped from northern Nigeria_
 
 ##### Islam
 ### [Islamist terror group Boko Haram kills at least 33 security personnel during attacks in Nigeria's northeastern Yobe State. ](/news/2014/05/26/islamist-terror-group-boko-haram-kills-at-least-33-security-personnel-during-attacks-in-nigeria-s-northeastern-yobe-state.md)
@@ -17,7 +17,7 @@ _Context: Islam, Boko Haram, Yobe State, Nigeria_
 
 ##### Pfizer
 ### [Drugmaker Pfizer says it will not proceed with its attempted $119 billion bid for AstraZeneca. ](/news/2014/05/26/drugmaker-pfizer-says-it-will-not-proceed-with-its-attempted-119-billion-bid-for-astrazeneca.md)
-_Context: AstraZeneca, Pfizer_
+_Context: Pfizer, AstraZeneca_
 
 ##### Passenger train
 ### [At least 25 people are killed and 100 injured as a passenger train rams into a goods train in Uttar Pradesh, India.](/news/2014/05/26/at-least-25-people-are-killed-and-100-injured-as-a-passenger-train-rams-into-a-goods-train-in-uttar-pradesh-india.md)
@@ -33,15 +33,15 @@ Storms in southern and central China have left at least 26 people dead and 10 mi
 
 ##### 2014 Thai coup d'tat
 ### [Coup leader Prayuth Chan-ocha claims to have the confidence of King of Thailand Bhumibol Adulyadej. ](/news/2014/05/26/coup-leader-prayuth-chan-ocha-claims-to-have-the-confidence-of-king-of-thailand-bhumibol-adulyadej.md)
-_Context: Prayuth Chan-ocha, Bhumibol Adulyadej, King, 2014 Thai coup d'tat_
+_Context: Prayuth Chan-ocha, 2014 Thai coup d'tat, King, Bhumibol Adulyadej_
 
 ##### Narendra Modi
 ### [Shri Narendra Modi is sworn in as the 15th Prime Minister of India. ](/news/2014/05/26/shri-narendra-modi-is-sworn-in-as-the-15th-prime-minister-of-india.md)
-_Context: Narendra Modi, Prime Minister_
+_Context: Prime Minister, Narendra Modi_
 
 ##### Egyptian presidential election, 2014
 ### [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md)
-_Context: Egypt, Egyptian presidential election, 2014, Abdel Fattah el-Sisi_
+_Context: Egyptian presidential election, 2014, Egypt, Abdel Fattah el-Sisi_
 
 ## [Previous Day...](/news/2014/05/25/index.md)
 

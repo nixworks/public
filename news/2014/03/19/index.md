@@ -25,7 +25,7 @@ _Context: South Africa, Public Protector, Jacob Zuma, President_
 
 ##### Canadian
 ### [Canadian Minister of Finance Jim Flaherty resigns, planning a return to the private sector. Joe Oliver is named to replace him. ](/news/2014/03/19/canadian-minister-of-finance-jim-flaherty-resigns-planning-a-return-to-the-private-sector-joe-oliver-is-named-to-replace-him.md)
-_Context: Joe Oliver, Canadian, Finance Minister, Jim Flaherty_
+_Context: Jim Flaherty, Joe Oliver, Finance Minister, Canadian_
 
 ##### Vietnam
 ### [Vietnam jails prominent blogger for 'anti-state activities'.](/news/2014/03/19/vietnam-jails-prominent-blogger-for-anti-state-activities.md)

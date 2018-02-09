@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/23/index.html)  [JSON](2016/10/23/index.json)  [XML](201
 
 ##### Yemeni Civil War (2015-present)
 ### [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md)
-_Context: Saudi-led intervention in Yemen, Sana'a, Yemen, Yemeni Civil War (2015-present)_
+_Context: Yemeni Civil War (2015-present), Saudi-led intervention in Yemen, Sana'a, Yemen_
 
 ##### Naxalite-Maoist insurgency
 ### [Indian police kill at least 24 Maoist rebels during a raid in eastern Orissa State. ](/news/2016/10/23/indian-police-kill-at-least-24-maoist-rebels-during-a-raid-in-eastern-orissa-state.md)
@@ -25,15 +25,15 @@ _Context: Desert Hot Springs, California_
 
 ##### Aftermath of Brexit
 ### [Suzanne Evans, former UK Independence Party (UKIP) deputy chairman, and Paul Nuttall, President of the Initiative for Direct Democracy in Europe and Member of the European Parliament, each announce their candidacy for the UKIP leadership position, now held on interim basis by Nigel Farage. Other confirmed candidates are Bill Etheridge, Raheem Kassam, and Peter Whittle. ](/news/2016/10/23/suzanne-evans-former-uk-independence-party-ukip-deputy-chairman-and-paul-nuttall-president-of-the-initiative-for-direct-democracy-in-eu.md)
-_Context: Aftermath of Brexit, Member of the European Parliament, Raheem Kassam, UKIP, Bill Etheridge, Paul Nuttall, Suzanne Evans, Nigel Farage, Peter Whittle, UK Independence Party leadership election, November 2016_
+_Context: UKIP, Paul Nuttall, Nigel Farage, Peter Whittle, UK Independence Party leadership election, November 2016, Raheem Kassam, Aftermath of Brexit, Suzanne Evans, Bill Etheridge, Member of the European Parliament_
 
 ##### Lithuanian parliamentary election, 2016
 ### [Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. ](/news/2016/10/23/voters-head-to-the-polls-in-second-round-elections-in-constituencies-where-no-candidate-won-over-50-percent-on-october-9-with-the-lithuanian.md)
-_Context: Lithuanian parliamentary election, 2016, second round, Lithuanian Peasant and Greens Union_
+_Context: Lithuanian Peasant and Greens Union, Lithuanian parliamentary election, 2016, second round_
 
 ##### Ten month interregnum
 ### [The Socialist Workers' Party, following the party's 139-96 vote approving this action, say they will abstain from voting against acting Prime Minister Mariano Rajoy when he puts his People's Party coalition government to parliament this week, thereby ending the 10-month deadlock. ](/news/2016/10/23/the-socialist-workers-party-following-the-party-s-139a96-vote-approving-this-action-say-they-will-abstain-from-voting-against-acting-pr.md)
-_Context: People's Party, Prime Minister, ten month interregnum, Mariano Rajoy, Socialist Workers' Party_
+_Context: Mariano Rajoy, ten month interregnum, People's Party, Prime Minister, Socialist Workers' Party_
 
 ## [Previous Day...](/news/2016/10/22/index.md)
 

@@ -13,7 +13,7 @@ Hamas weapons factory targeted by Israel Air Force; rocket launched from Gaza ex
 
 ##### Government of India
 ### [The Government of India deploys the Army to the state of Gujarat after two days of caste-related violence results in seven deaths. ](/news/2015/08/27/the-government-of-india-deploys-the-army-to-the-state-of-gujarat-after-two-days-of-caste-related-violence-results-in-seven-deaths.md)
-_Context: Gujarat, caste-related violence, Indian Army, Government of India_
+_Context: Government of India, caste-related violence, Indian Army, Gujarat_
 
 ##### War in Donbass
 ### [Seven Ukraine servicemen have died and 13 were wounded in skirmishes with pro-Russian separatists in the past day. ](/news/2015/08/27/seven-ukraine-servicemen-have-died-and-13-were-wounded-in-skirmishes-with-pro-russian-separatists-in-the-past-day.md)
@@ -21,7 +21,7 @@ Seven Ukrainian servicemen have been killed and 13 wounded in fighting with pro-
 
 ##### Walmart
 ### [Walmart will stop selling the AR-15 and other semi-automatic rifles allegedly because of sluggish customer demand. ](/news/2015/08/27/walmart-will-stop-selling-the-ar-15-and-other-semi-automatic-rifles-allegedly-because-of-sluggish-customer-demand.md)
-_Context: Walmart, AR-15_
+_Context: AR-15, Walmart_
 
 ##### Panasonic
 ### [Panasonic will stop making lithium-ion batteries for phones and cameras in Beijing, China, with a cut of 1,300 jobs. The company will instead refocus on higher-margin products such as electric car batteries. ](/news/2015/08/27/panasonic-will-stop-making-lithium-ion-batteries-for-phones-and-cameras-in-beijing-china-with-a-cut-of-1-300-jobs-the-company-will-instea.md)
@@ -43,7 +43,7 @@ Hundreds of people are feared dead after two boats carrying up to 500 migrants c
 ### [A sinkhole in China swallows five people. ](/news/2015/08/27/a-sinkhole-in-china-swallows-five-people.md)
 ##### 2015 Atlantic hurricane season
 ### [Four people are killed on the Caribbean island of Dominica as a result of floods and landslides caused by Tropical Storm Erika. ](/news/2015/08/27/four-people-are-killed-on-the-caribbean-island-of-dominica-as-a-result-of-floods-and-landslides-caused-by-tropical-storm-erika.md)
-_Context: 2015 Atlantic hurricane season, Dominica, Caribbean, Tropical Storm Erika_
+_Context: 2015 Atlantic hurricane season, Caribbean, Dominica, Tropical Storm Erika_
 
 ##### David H. Murdock
 ### [David H. Murdock, the CEO and chairman of Dole Food Company, along with a fellow confidant, are ordered to pay $148 million for misleading directors and shareholders. ](/news/2015/08/27/david-h-murdock-the-ceo-and-chairman-of-dole-food-company-along-with-a-fellow-confidant-are-ordered-to-pay-148-million-for-misleading-d.md)
@@ -51,7 +51,7 @@ _Context: Dole Food Company, David H. Murdock, $_
 
 ##### Vassiliki Thanou-Christophilou
 ### [Vassiliki Thanou-Christophilou, the head of the Court of Cassation, is appointed as interim Prime Minister of Greece for the duration of the upcoming election. She is the first woman to hold the post. ](/news/2015/08/27/vassiliki-thanou-christophilou-the-head-of-the-court-of-cassation-is-appointed-as-interim-prime-minister-of-greece-for-the-duration-of-the.md)
-_Context: Court of Cassation, Greek Prime Minister, Greek legislative election, September 2015, Vassiliki Thanou-Christophilou_
+_Context: Vassiliki Thanou-Christophilou, Greek legislative election, September 2015, Court of Cassation, Greek Prime Minister_
 
 ##### Guatemala
 ### [Thousands of protesters joined a Guatemalan national strike Thursday demanding the resignation of President Otto Perez Molina for corruption. Five of 13 cabinet ministers have resigned since Friday, and Tuesday, the Supreme Court unanimously approved a motion to impeach the president. ](/news/2015/08/27/thousands-of-protesters-joined-a-guatemalan-national-strike-thursday-demanding-the-resignation-of-president-otto-pa-c-rez-molina-for-corruptio.md)

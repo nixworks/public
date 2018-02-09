@@ -45,7 +45,7 @@ Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&
 
 ##### Bolivia
 ### [A Bolivian-flagged all-female international aid ship bound for Gaza is delayed as Cyprus bans it from passing, with Israel's Ehud Barak calling on France and the United States to prevent it from sailing because, he says, it is "a needless provocation". ](/news/2010/08/22/a-bolivian-flagged-all-female-international-aid-ship-bound-for-gaza-is-delayed-as-cyprus-bans-it-from-passing-with-israel-s-ehud-barak-call.md)
-_Context: Gaza Strip, Bolivia, France, Ehud Barak, Israel, United States, Cyprus_
+_Context: Gaza Strip, Cyprus, Israel, France, Bolivia, United States, Ehud Barak_
 
 ##### Iran
 ### [Iran unveils a long range unmanned bomber, the Karrar drone their latest addition in a number of recently disclosed military hardware. ](/news/2010/08/22/iran-unveils-a-long-range-unmanned-bomber-the-karrar-drone-their-latest-addition-in-a-number-of-recently-disclosed-military-hardware.md)
@@ -53,7 +53,7 @@ _Context: drone aircraft, Iran_
 
 ##### Wassel Abu Yousef
 ### [Palestinian official Wassel Abu Yousef objects to Israeli Prime Minister Benjamin Netanyahu's talk of "preconditions" that the Palestinians should recognize Israel as the state of Jews and says such comments are a threat to direct talks next month. ](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.md)
-_Context: Israeli Prime Minister, Wassel Abu Yousef, Benjamin Netanyahu_
+_Context: Israeli Prime Minister, Benjamin Netanyahu, Wassel Abu Yousef_
 
 ##### South Africa
 ### [South African trade unions state that a court injunction successfully sought by the government is intended to "intimidate" workers who are striking in the hope of receiving better pay. ](/news/2010/08/22/south-african-trade-unions-state-that-a-court-injunction-successfully-sought-by-the-government-is-intended-to-intimidate-workers-who-are-s.md)

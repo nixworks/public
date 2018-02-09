@@ -35,7 +35,7 @@ _Context: Kyriakos Amiridis, Rio de Janeiro_
 
 ##### Ahmet Sik
 ### [Turkish journalist Ahmet Sik is arrested in Istanbul, allegedly over a social media posting. ](/news/2016/12/29/turkish-journalist-ahmet-aa-k-is-arrested-in-istanbul-allegedly-over-a-social-media-posting.md)
-_Context: Ahmet Sik, Istanbul_
+_Context: Istanbul, Ahmet Sik_
 
 ##### Pakistan
 ### [Naveed Baloch, the man from Pakistan who was wrongly arrested in the aftermath of the recent attack on a Christmas market in Berlin, gives an interview outlining the conditions in which he was held and reveals he is now in hiding amid fears for his life. ](/news/2016/12/29/naveed-baloch-the-man-from-pakistan-who-was-wrongly-arrested-in-the-aftermath-of-the-recent-attack-on-a-christmas-market-in-berlin-gives-a.md)

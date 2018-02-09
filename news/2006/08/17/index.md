@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Williams Alsup
 ### [ United States district court judge Williams Alsup orders Greg Anderson, the personal trainer of Barry Bonds to testify before a Grand Jury about use of steroids by athletes. ](/news/2006/08/17/united-states-district-court-judge-williams-alsup-orders-greg-anderson-the-personal-trainer-of-barry-bonds-to-testify-before-a-grand-jury.md)
-_Context: Williams Alsup, Barry Bonds, Greg Anderson_
+_Context: Barry Bonds, Williams Alsup, Greg Anderson_
 
 ##### U.S. federal court
 ### [ US District judge Anna Diggs Taylor orders the NSA warrantless surveillance program be shut down as unconstitutional. ](/news/2006/08/17/us-district-judge-anna-diggs-taylor-orders-the-nsa-warrantless-surveillance-program-be-shut-down-as-unconstitutional.md)

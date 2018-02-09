@@ -9,7 +9,7 @@ _Context: Syria, Israeli-Syrian ceasefire line incidents during the Syrian Civil
 
 ##### 2017 Sichuan landslide
 ### [An early-morning landslide buries 40 homes and leaves 15 people dead and 114 others missing in Aba Prefecture, Sichuan Province, China. At least 500 rescue workers are on scene, and a 2-km stretch of the river in Mao County is blocked. ](/news/2017/06/24/an-early-morning-landslide-buries-40-homes-and-leaves-15-people-dead-and-114-others-missing-in-aba-prefecture-sichuan-province-china-at-l.md)
-_Context: Sichuan Province, Aba Prefecture, 2017 Sichuan landslide, Mao County_
+_Context: 2017 Sichuan landslide, Aba Prefecture, Sichuan Province, Mao County_
 
 ##### 2016-17 Yemen cholera outbreak
 ### [The number of the cholera outbreak cases in Yemen passes 200,000, with over 1,300 deaths so far. There are an estimated 5,000 new cases every day. ](/news/2017/06/24/the-number-of-the-cholera-outbreak-cases-in-yemen-passes-200-000-with-over-1-300-deaths-so-far-there-are-an-estimated-5-000-new-cases-ever.md)
@@ -21,7 +21,7 @@ MPs are unable to access emails remotely, as Westminster deals with a hacking at
 
 ##### Papua New Guinean general election, 2017
 ### [Polling places open in Papua New Guinea, and will remain open for two weeks, to elect all 111 members of the National Parliament. The People's National Congress led by Prime Minister Peter O'Neill is considered likely to maintain a governing coalition, despite uncertainty due to lack of opinion polling. ](/news/2017/06/24/polling-places-open-in-papua-new-guinea-and-will-remain-open-for-two-weeks-to-elect-all-111-members-of-the-national-parliament-the-people.md)
-_Context: National Parliament, Papua New Guinea, opinion poll, Papua New Guinean general election, 2017, Prime Minister, Peter O'Neill, governing coalition, People's National Congress_
+_Context: National Parliament, opinion poll, Papua New Guinea, governing coalition, Prime Minister, People's National Congress, Peter O'Neill, Papua New Guinean general election, 2017_
 
 ## [Previous Day...](/news/2017/06/23/index.md)
 

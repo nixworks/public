@@ -21,7 +21,7 @@ Google announces the surprise sale of its Motorola Mobility unit, which it bough
 
 ##### Northern
 ### [Tropical Cyclone Dylan forms off the North Queensland coast and is expected to make landfall between Lucinda and Proserpine. ](/news/2014/01/30/tropical-cyclone-dylan-forms-off-the-north-queensland-coast-and-is-expected-to-make-landfall-between-lucinda-and-proserpine.md)
-_Context: Proserpine, Lucinda, northern_
+_Context: northern, Lucinda, Proserpine_
 
 ##### 
 ### [A man whose boat was adrift for sixteen months is rescued at the Marshall Islands. The journey began with a companion as part of a venture from Mexico for El Salvador in September 2012. ](/news/2014/01/30/a-man-whose-boat-was-adrift-for-sixteen-months-is-rescued-at-the-marshall-islands-the-journey-began-with-a-companion-as-part-of-a-venture-f.md)
@@ -37,7 +37,7 @@ Philippine police say 182 inmates complaining of hunger and squalid conditions h
 
 ##### Eric Holder
 ### [U.S. Attorney General Eric Holder announces that federal prosecutors will seek the death penalty against Boston Marathon bombing suspect Dzhokhar Tsarnaev. ](/news/2014/01/30/u-s-attorney-general-eric-holder-announces-that-federal-prosecutors-will-seek-the-death-penalty-against-boston-marathon-bombing-suspect-dzh.md)
-_Context: Eric Holder, Boston Marathon bombing, Capital punishment in the United States, Dzhokhar Tsarnaev_
+_Context: Eric Holder, Boston Marathon bombing, Dzhokhar Tsarnaev, Capital punishment in the United States_
 
 ##### American
 ### [American Amanda Knox is found guilty of the murder of Meredith Kercher together with Knox's former boyfriend Raffaele Sollecito. ](/news/2014/01/30/american-amanda-knox-is-found-guilty-of-the-murder-of-meredith-kercher-together-with-knox-s-former-boyfriend-raffaele-sollecito.md)
@@ -53,11 +53,11 @@ _Context: Thai Army, Bangkok, general election held on February 2_
 
 ##### Mohammad-Ali Najafi
 ### [Mohammad-Ali Najafi resigns as Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization, marking the first change in President Rouhani's cabinet. ](/news/2014/01/30/mohammad-ali-najafi-resigns-as-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-marking-the-first-change-in-president.md)
-_Context: Cultural Heritage, Handcrafts and Tourism Organization, Hassan Rouhani, Mohammad-Ali Najafi, cabinet_
+_Context: Mohammad-Ali Najafi, Cultural Heritage, Handcrafts and Tourism Organization, Hassan Rouhani, cabinet_
 
 ##### Netherlands
 ### [In the Netherlands, State Secretary of Finance Frans Weekers resigns after opposition parties give fierce criticism about his performance. ](/news/2014/01/30/in-the-netherlands-state-secretary-of-finance-frans-weekers-resigns-after-opposition-parties-give-fierce-criticism-about-his-performance.md)
-_Context: State Secretary, Finance, Frans Weekers, Netherlands_
+_Context: Frans Weekers, Netherlands, State Secretary, Finance_
 
 ##### Penguin
 ### [Scientists warn that penguin populations may be declining due to extreme environmental conditions related to climate change ](/news/2014/01/30/scientists-warn-that-penguin-populations-may-be-declining-due-to-extreme-environmental-conditions-related-to-climate-change.md)

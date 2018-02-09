@@ -13,7 +13,7 @@ Israeli troops shot to death a Palestinian man on Tuesday after he and others hu
 
 ##### England
 ### [English singer and lyricist Morrissey is diagnosed with severe pneumonia and hospitalised in San Francisco on his U.S. tour. ](/news/2013/03/12/english-singer-and-lyricist-morrissey-is-diagnosed-with-severe-pneumonia-and-hospitalised-in-san-francisco-on-his-u-s-tour.md)
-_Context: Morrissey, England, San Francisco, pneumonia, United States_
+_Context: San Francisco, Morrissey, United States, England, pneumonia_
 
 ##### Better Business Bureau
 ### [The Better Business Bureau expels the Los Angeles chapter, the nation's largest chapter, over a pay-to-play scheme. ](/news/2013/03/12/the-better-business-bureau-expels-the-los-angeles-chapter-the-nation-s-largest-chapter-over-a-pay-to-play-scheme.md)
@@ -29,7 +29,7 @@ A Japanese energy explorer said on Tuesday it extracted gas from offshore methan
 
 ##### Apollo Global Management
 ### [Private equity firm Apollo Global Management announces that it has purchased the rights to Twinkies and other Hostess Brands snacks and hopes to have the treats back on grocery shelves by summer. ](/news/2013/03/12/private-equity-firm-apollo-global-management-announces-that-it-has-purchased-the-rights-to-twinkies-and-other-hostess-brands-snacks-and-hope.md)
-_Context: Twinkie, Apollo Global Management, Hostess Brands, snack_
+_Context: snack, Apollo Global Management, Twinkie, Hostess Brands_
 
 ##### Bell AH-1 Cobra
 ### [An Israeli military helicopter Bell AH-1 Cobra crashes near Palmachim Airbase in southern Israel and kills two IAF pilots. ](/news/2013/03/12/an-israeli-military-helicopter-bell-ah-1-cobra-crashes-near-palmachim-airbase-in-southern-israel-and-kills-two-iaf-pilots.md)
@@ -57,11 +57,11 @@ Far-reaching restrictions on the trade in hardwood trees have been agreed at Cit
 
 ##### South Africa
 ### [South Africa exhumes the bodies of two people whose deaths may be tied to Winnie Madikizela-Mandela, ex-wife of Nelson Mandela. ](/news/2013/03/12/south-africa-exhumes-the-bodies-of-two-people-whose-deaths-may-be-tied-to-winnie-madikizela-mandela-ex-wife-of-nelson-mandela.md)
-_Context: Winnie Madikizela-Mandela, exhume, South Africa, Nelson Mandela_
+_Context: exhume, South Africa, Winnie Madikizela-Mandela, Nelson Mandela_
 
 ##### Opus Dei
 ### [The secretive Opus Dei sect is mobilising within the Irish professions to interfere with abortion law reform, according to Senator John Crown. ](/news/2013/03/12/the-secretive-opus-dei-sect-is-mobilising-within-the-irish-professions-to-interfere-with-abortion-law-reform-according-to-senator-john-crow.md)
-_Context: Abortion in the Republic of Ireland, abortion law, Irish, John Crown, Opus Dei, Seanad Eireann_
+_Context: abortion law, John Crown, Irish, Abortion in the Republic of Ireland, Opus Dei, Seanad Eireann_
 
 ##### United States Secret Service
 ### [The United States Secret Service launches an investigation after hackers post what they claim is personal data and credit information of celebrities, including First Lady Michelle Obama, online. ](/news/2013/03/12/the-united-states-secret-service-launches-an-investigation-after-hackers-post-what-they-claim-is-personal-data-and-credit-information-of-cel.md)
@@ -77,7 +77,7 @@ New York City police officer Gilberto Valle is convicted of plotting to murder h
 
 ##### United States
 ### [Authorities believe that a U.S. man suspected of killing his grandparents on March 8 in Renton, Washington, is barricaded in a hotel in Lincoln City, Oregon. ](/news/2013/03/12/authorities-believe-that-a-u-s-man-suspected-of-killing-his-grandparents-on-march-8-in-renton-washington-is-barricaded-in-a-hotel-in-linc.md)
-_Context: Washington, United States, Renton, Washington, March 8, Oregon, Lincoln City_
+_Context: United States, Washington, Renton, Washington, Oregon, March 8, Lincoln City_
 
 ##### Greenland
 ### [Voters in Greenland go to the polls for a parliamentary election. ](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.md)

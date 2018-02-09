@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/11/index.html)  [JSON](2015/07/11/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [A suicide bomber attacks the Nigerian city of Maiduguri killing at least one person. ](/news/2015/07/11/a-suicide-bomber-attacks-the-nigerian-city-of-maiduguri-killing-at-least-one-person.md)
-_Context: suicide bomber, Nigeria, Maiduguri, Boko Haram insurgency_
+_Context: Boko Haram insurgency, Maiduguri, suicide bomber, Nigeria_
 
 ##### South Thailand insurgency
 ### [At least seven people have been killed and dozens injured in a series of attacks in southern Thailand. ](/news/2015/07/11/at-least-seven-people-have-been-killed-and-dozens-injured-in-a-series-of-attacks-in-southern-thailand.md)
@@ -17,11 +17,11 @@ ISIS claims responsibility for bomb attack against Italian consulate in Cairo
 
 ##### War in Somalia (2009-present)
 ### [At least six civilians and four militants are killed in attacks on two hotels in the Somali capital of Mogadishu. ](/news/2015/07/11/at-least-six-civilians-and-four-militants-are-killed-in-attacks-on-two-hotels-in-the-somali-capital-of-mogadishu.md)
-_Context: Mogadishu, War in Somalia (2009-present), Somalia_
+_Context: War in Somalia (2009-present), Mogadishu, Somalia_
 
 ##### Yemeni crisis
 ### [A truce brokered by the United Nations due to last for the remainder of Ramadan is broken within an hour with both sides exchanging blame. ](/news/2015/07/11/a-truce-brokered-by-the-united-nations-due-to-last-for-the-remainder-of-ramadan-is-broken-within-an-hour-with-both-sides-exchanging-blame.md)
-_Context: United Nations, Yemeni crisis, truce, Saudi-led intervention in Yemen (2015-present), Ramadan_
+_Context: Saudi-led intervention in Yemen (2015-present), Ramadan, Yemeni crisis, truce, United Nations_
 
 ##### Greek government-debt crisis
 ### [The Hellenic Parliament passes a package of economic reforms to end the current stage of the debt crisis. ](/news/2015/07/11/the-hellenic-parliament-passes-a-package-of-economic-reforms-to-end-the-current-stage-of-the-debt-crisis.md)
@@ -41,7 +41,7 @@ Hundreds of people are evacuated from villages around a volcano in western Mexic
 
 ##### Serbia
 ### [Serbian Prime Minister Aleksandar Vucic is pelted with stones and other objects as he attempts to pay respects to the victims of the Bosnian Genocide, Vucic is a former member of the Serbian Radical Party, a far right anti-Islam party. ](/news/2015/07/11/serbian-prime-minister-aleksandar-vuaia-is-pelted-with-stones-and-other-objects-as-he-attempts-to-pay-respects-to-the-victims-of-the-bosni.md)
-_Context: Bosnian Genocide, Aleksandar Vucic, Serbia, Prime Minister of Serbia, Serbian Radical Party_
+_Context: Serbian Radical Party, Aleksandar Vucic, Prime Minister of Serbia, Serbia, Bosnian Genocide_
 
 ##### Russian military intervention in Ukraine
 ### [Dozens of Russian soldiers face trial for fleeing a training ground in Maikop, fearing deployment to Ukraine. ](/news/2015/07/11/dozens-of-russian-soldiers-face-trial-for-fleeing-a-training-ground-in-maikop-fearing-deployment-to-ukraine.md)

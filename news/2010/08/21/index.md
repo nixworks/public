@@ -21,7 +21,7 @@ At least 10 anti-government militants are believed to have died in Mogadishu whe
 
 ##### So Conrado
 ### [About 35 people are taken hostage by drug dealers at a tourist hotel in So Conrado, Rio de Janeiro; 1 woman, involved with them, is killed. ](/news/2010/08/21/about-35-people-are-taken-hostage-by-drug-dealers-at-a-tourist-hotel-in-sao-conrado-rio-de-janeiro-1-woman-involved-with-them-is-killed.md)
-_Context: So Conrado, Rio de Janeiro_
+_Context: Rio de Janeiro, So Conrado_
 
 ##### Vincent van Gogh
 ### [A Vincent van Gogh painting - known as both "Poppy Flowers" and "Vase with Flowers" - is stolen from the Mohammed Mahmoud Khalil art museum in Cairo, but is later said to have been recovered at Cairo Airport. ](/news/2010/08/21/a-vincent-van-gogh-painting-known-as-both-poppy-flowers-and-vase-with-flowers-is-stolen-from-the-mohammed-mahmoud-khalil-art-museum.md)
@@ -53,7 +53,7 @@ Salmonella-infected eggs traceable to a large producer in Iowa may have caused a
 
 ##### Italy
 ### [Italy backs France's crackdown and expulsion of Romani from the country. ](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.md)
-_Context: Roma, France, Italy_
+_Context: France, Italy, Roma_
 
 ##### Palestine
 ### [Palestinians warn that building on occupied land by Israel would threaten negotiations. ](/news/2010/08/21/palestinians-warn-that-building-on-occupied-land-by-israel-would-threaten-negotiations.md)
@@ -61,7 +61,7 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ##### Russia
 ### [Russian engineers start loading fuel into Iran's first nuclear reactor at Bushehr Nuclear Power Plant. ](/news/2010/08/21/russian-engineers-start-loading-fuel-into-iran-s-first-nuclear-reactor-at-bushehr-nuclear-power-plant.md)
-_Context: Bushehr power plant, engineers, nuclear reactor, Iran, Russia_
+_Context: engineers, Bushehr power plant, Iran, Russia, nuclear reactor_
 
 ##### Amnesty International
 ### [Amnesty International urges Saudi Arabia not to sever the spine of a man as punishment; the man has been convicted of paralysing another man. ](/news/2010/08/21/amnesty-international-urges-saudi-arabia-not-to-sever-the-spine-of-a-man-as-punishment-the-man-has-been-convicted-of-paralysing-another-man.md)

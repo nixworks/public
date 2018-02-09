@@ -13,7 +13,7 @@ NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 ##### Italy
 ### [ US releases a report that clears soldiers who shot Italian intelligence agent Nicola Calipari and journalist Giuliana Sgrena. ](/news/2005/04/30/us-releases-a-report-that-clears-soldiers-who-shot-italian-intelligence-agent-nicola-calipari-and-journalist-giuliana-sgrena.md)
-_Context: Giuliana Sgrena, Italy, Nicola Calipari_
+_Context: Italy, Giuliana Sgrena, Nicola Calipari_
 
 ##### Roraima
 ### [ In Roraima, Brazil, Macuxi Indians release four policemen they had held as hostages since April 22. The Macuxi protested against the creation of a huge reservation and demanded better living conditions. ](/news/2005/04/30/in-roraima-brazil-macuxi-indians-release-four-policemen-they-had-held-as-hostages-since-april-22-the-macuxi-protested-against-the-creati.md)
@@ -25,7 +25,7 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### Severo Moto
 ### [ Severo Moto, exiled politician from Equatorial Guinea, reappears in Spain. He says that he survived an assassination attempt in Croatia. ](/news/2005/04/30/severo-moto-exiled-politician-from-equatorial-guinea-reappears-in-spain-he-says-that-he-survived-an-assassination-attempt-in-croatia.md)
-_Context: Equatorial Guinea, assassination, Spain, Severo Moto, Croatia_
+_Context: assassination, Spain, Equatorial Guinea, Croatia, Severo Moto_
 
 ## [Previous Day...](/news/2005/04/29/index.md)
 

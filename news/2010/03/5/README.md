@@ -13,7 +13,7 @@ Minister for Foreign Affairs Micheál Martin has described the Israeli blockade 
 
 ##### Sumatra
 ### [A magnitude 6.5 earthquake occurs in the ocean off Sumatra with the possibility of a tsunami. ](/news/2010/03/5/a-magnitude-6-5-earthquake-occurs-in-the-ocean-off-sumatra-with-the-possibility-of-a-tsunami.md)
-_Context: tsunami, Sumatra_
+_Context: Sumatra, tsunami_
 
 ##### HIH Princess Toshi of Japan
 ### [HIH Princess Toshi of Japan is excused from school due to excessive bullying from classmates. ](/news/2010/03/5/hih-princess-toshi-of-japan-is-excused-from-school-due-to-excessive-bullying-from-classmates.md)
@@ -41,7 +41,7 @@ _Context: Kigali, genocide_
 
 ##### Pakistan army
 ### [Pakistan army kills 30 Taliban militants near Peshawar, the capital of North West Frontier Province. ](/news/2010/03/5/pakistan-army-kills-30-taliban-militants-near-peshawar-the-capital-of-north-west-frontier-province.md)
-_Context: Taliban, Northwestern Pakistan, Pakistan army, Peshawar_
+_Context: Pakistan army, Peshawar, Taliban, Northwestern Pakistan_
 
 ##### Shi'ite Muslims
 ### [A suicide bomber attacked a convoy of Shi'ite Muslims in northwest Pakistan, killing at least 12 people. ](/news/2010/03/5/a-suicide-bomber-attacked-a-convoy-of-shi-ite-muslims-in-northwest-pakistan-killing-at-least-12-people.md)

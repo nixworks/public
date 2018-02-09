@@ -13,7 +13,7 @@ _Context: Russia, Dagestan_
 
 ##### Palestine
 ### [Palestinians kill an Egyptian border guard and 50 people are injured in clashes between pro-Palestinian activists and Egyptian police as a Viva Palestina convoy nears the border with Gaza. ](/news/2010/01/6/palestinians-kill-an-egyptian-border-guard-and-50-people-are-injured-in-clashes-between-pro-palestinian-activists-and-egyptian-police-as-a-v.md)
-_Context: Viva Palestina, Gaza Strip, Palestine, Egypt_
+_Context: Viva Palestina, Egypt, Gaza Strip, Palestine_
 
 ##### Iris Robinson
 ### [Iris Robinson, the wife of Northern Ireland's First Minister, admits having previously attempted suicide. Her husband Peter Robinson gives an emotional interview in which he speaks of being "deeply hurt" after learning of her extramarital affair. ](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.md)
@@ -21,7 +21,7 @@ The wife of Northern Ireland First Minister Peter Robinson tried to kill herself
 
 ##### China
 ### [China becomes the largest exporting country, pushing Germany from first place. ](/news/2010/01/6/china-becomes-the-largest-exporting-country-pushing-germany-from-first-place.md)
-_Context: German, China, top export market_
+_Context: China, German, top export market_
 
 ##### Tourism
 ### [China's tourism revenue hits USD 185 billion in 2009. ](/news/2010/01/6/china-s-tourism-revenue-hits-usd-185-billion-in-2009.md)
@@ -37,35 +37,35 @@ _Context: Xiangtan County, Hunan_
 
 ##### Sea Shepherd
 ### [Sea Shepherd claims that the Japanese whaling fleet's "Shonan Maru" deliberately rammed and sunk their ship, the "Ady Gil".](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.md)
-_Context: Shonan Maru, Ady Gil, Sea Shepherd, whaling_
+_Context: Shonan Maru, Sea Shepherd, whaling, Ady Gil_
 
 ##### Dauletabad - Salyp Yar gas pipeline
 ### [The Dauletabad - Salyp Yar gas pipeline between Turkmenistan and Iran is opened. ](/news/2010/01/6/the-dauletabad-a-salyp-yar-gas-pipeline-between-turkmenistan-and-iran-is-opened.md)
-_Context: Dauletabad - Salyp Yar gas pipeline, Turkmenistan, Iran_
+_Context: Dauletabad - Salyp Yar gas pipeline, Iran, Turkmenistan_
 
 ##### Algeria
 ### [Algerian US ambassador Abdellah Baali and Nigerian Information Minister Dora Akunyili are upset at the decision of the United States to subject Algerians and Nigerians to tougher-than-usual security tests at airports, saying it is "discrimination" and "risks ties". Both have officially complained. ](/news/2010/01/6/algerian-us-ambassador-abdellah-baali-and-nigerian-information-minister-dora-akunyili-are-upset-at-the-decision-of-the-united-states-to-subj.md)
-_Context: Dora Akunyili, Nigeria, Algeria, Abdellah Baali, United States_
+_Context: Abdellah Baali, United States, Dora Akunyili, Nigeria, Algeria_
 
 ##### U.S.
 ### [The U.S. government lowers the threshold for information deemed important enough to put suspicious individuals on a watch list or no-fly list, or have their visa revoked. ](/news/2010/01/6/the-u-s-government-lowers-the-threshold-for-information-deemed-important-enough-to-put-suspicious-individuals-on-a-watch-list-or-no-fly-lis.md)
-_Context: visa-free travel, U.S._
+_Context: U.S., visa-free travel_
 
 ##### Yemen
 ### [Yemen arrests three suspected Al-Qaeda members, including one leader, northwest of the capital Sana'a. ](/news/2010/01/6/yemen-arrests-three-suspected-al-qaeda-members-including-one-leader-northwest-of-the-capital-sana-a.md)
-_Context: Yemen, al-Qaeda, Sana'a_
+_Context: al-Qaeda, Yemen, Sana'a_
 
 ##### Li Junqi
 ### [50-year-old Chinese journalist Li Junqi is imprisoned for 16 years after accepting bribes for his part in a mass three-month cover-up of a coal mine disaster in Hebei in which 35 people, including a rescue worker, were killed prior to the 2008 Summer Olympics in Beijing. ](/news/2010/01/6/50-year-old-chinese-journalist-li-junqi-is-imprisoned-for-16-years-after-accepting-bribes-for-his-part-in-a-mass-three-month-cover-up-of-a-c.md)
-_Context: bribes, Li Junqi, Hebei, Beijing, 2008 Summer Olympics_
+_Context: Beijing, bribes, 2008 Summer Olympics, Li Junqi, Hebei_
 
 ##### Japan
 ### [Japanese Finance Minister Hirohisa Fujii resigns at the age of 77 due to ill health. ](/news/2010/01/6/japanese-finance-minister-hirohisa-fujii-resigns-at-the-age-of-77-due-to-ill-health.md)
-_Context: Hirohisa Fujii, Japan_
+_Context: Japan, Hirohisa Fujii_
 
 ##### U.K. Cabinet
 ### [Ex-Cabinet Ministers Geoff Hoon and Patricia Hewitt call for a secret ballot to settle the debate over the leadership of the Labour Party of British Prime Minister Gordon Brown. ](/news/2010/01/6/ex-cabinet-ministers-geoff-hoon-and-patricia-hewitt-call-for-a-secret-ballot-to-settle-the-debate-over-the-leadership-of-the-labour-party-of.md)
-_Context: Gordon Brown, Patricia Hewitt, U.K. Cabinet, Labour Party, Prime Minister, Geoff Hoon_
+_Context: Geoff Hoon, Gordon Brown, Labour Party, Patricia Hewitt, U.K. Cabinet, Prime Minister_
 
 ##### Fabrice Bellard
 ### [Computer scientist Fabrice Bellard claims he has computed p to almost 2.7 trillion digits. ](/news/2010/01/6/computer-scientist-fabrice-bellard-claims-he-has-computed-i-to-almost-2-7-trillion-digits.md)

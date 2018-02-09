@@ -21,11 +21,11 @@ _Context: East China Sea, cargo_
 
 ##### Bob Woolmer
 ### [ Bob Woolmer, the Pakistan cricket coach, dies in a Kingston, Jamaica hospital following his team's shock loss to Ireland and consequent early elimination from the 2007 Cricket World Cup. ](/news/2007/03/18/bob-woolmer-the-pakistan-cricket-coach-dies-in-a-kingston-jamaica-hospital-following-his-team-s-shock-loss-to-ireland-and-consequent-ear.md)
-_Context: Ireland, 2007 Cricket World Cup, Bob Woolmer, Pakistani cricket team, Kingston_
+_Context: 2007 Cricket World Cup, Bob Woolmer, Kingston, Ireland, Pakistani cricket team_
 
 ##### Finnish parliamentary election
 ### [ Finnish parliamentary election: Voters go to the polls, with the centre-left governing coalition between the Centre Party and the Social Democratic Party continuing for another term under the leadership of Matti Vanhanen. The National Coalition Party had a strong result finishing with one seat less than the Centre Party. ](/news/2007/03/18/finnish-parliamentary-election-voters-go-to-the-polls-with-the-centre-left-governing-coalition-between-the-centre-party-and-the-social-de.md)
-_Context: coalition, Finnish parliamentary election, National Coalition Party, Social Democratic Party, Centre Party, Matti Vanhanen_
+_Context: National Coalition Party, coalition, Matti Vanhanen, Finnish parliamentary election, Centre Party, Social Democratic Party_
 
 ##### Sydney
 ### [ More than 200,000 Sydneysiders walk across the Sydney Harbour Bridge to mark the 75th anniversary of the icon's opening. The bridge had been closed to vehicular traffic for one day to mark the occasion. ](/news/2007/03/18/more-than-200-000-sydneysiders-walk-across-the-sydney-harbour-bridge-to-mark-the-75th-anniversary-of-the-icon-s-opening-the-bridge-had-bee.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/30/index.html)  [JSON](2011/09/30/index.json)  [XML](201
 
 ##### Al Qaeda in the Arabian Peninsula
 ### [Al Qaeda in the Arabian Peninsula leader and U.S. citizen Anwar al-Awlaki is reported killed in Yemen. ](/news/2011/09/30/al-qaeda-in-the-arabian-peninsula-leader-and-u-s-citizen-anwar-al-awlaki-is-reported-killed-in-yemen.md)
-_Context: Al Qaeda in the Arabian Peninsula, Yemen, Anwar al-Awlaki, U.S. citizen_
+_Context: Yemen, Al Qaeda in the Arabian Peninsula, U.S. citizen, Anwar al-Awlaki_
 
 ##### Heather Shanholtz
 ### [Heather Shanholtz received an award for "Best Swimwear Model" for 2011 at the Women in the Arts Awards. ](/news/2011/09/30/heather-shanholtz-received-an-award-for-best-swimwear-model-for-2011-at-the-women-in-the-arts-awards.md)

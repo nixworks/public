@@ -9,11 +9,11 @@ NASA loads the shuttle Discovery&#39;s external tank with rocket fuel in prepara
 
 ##### North Korea
 ### [ North Korean leaders say that they will respond to any pre-emptive attack from the US with an "annihilating strike and a nuclear war." ](/news/2006/07/3/north-korean-leaders-say-that-they-will-respond-to-any-pre-emptive-attack-from-the-us-with-an-annihilating-strike-and-a-nuclear-war.md)
-_Context: North Korea, United States, nuclear strike_
+_Context: United States, nuclear strike, North Korea_
 
 ##### Greece
 ### [ Greece is suspended from international football competition by FIFA due to Greek government interference in the sport. ](/news/2006/07/3/greece-is-suspended-from-international-football-competition-by-fifa-due-to-greek-government-interference-in-the-sport.md)
-_Context: Greece, football, government, FIFA_
+_Context: FIFA, Greece, government, football_
 
 ##### Subway accident in Valencia
 ### [ At least 41 people die during a lunchtime subway accident in Valencia, Spain when two cars of a train derail and overturn. Early reports indicate the train was travelling too fast. ](/news/2006/07/3/at-least-41-people-die-during-a-lunchtime-subway-accident-in-valencia-spain-when-two-cars-of-a-train-derail-and-overturn-early-reports-in.md)

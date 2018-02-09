@@ -9,7 +9,7 @@ Around 60 people have been killed in sectarian clashes in Central African Republ
 
 ##### Barack Obama
 ### [U.S. President Barack Obama nominates Janet Yellen to become the next chair of the Federal Reserve after Ben Bernanke leaves that office. ](/news/2013/10/9/u-s-president-barack-obama-nominates-janet-yellen-to-become-the-next-chair-of-the-federal-reserve-after-ben-bernanke-leaves-that-office.md)
-_Context: Federal Reserve, Janet Yellen, Barack Obama, Ben Bernanke_
+_Context: Barack Obama, Janet Yellen, Ben Bernanke, Federal Reserve_
 
 ##### Gazipur
 ### [A fire at a garment factory in Gazipur, Bangladesh, kills 10 people. ](/news/2013/10/9/a-fire-at-a-garment-factory-in-gazipur-bangladesh-kills-10-people.md)
@@ -39,11 +39,11 @@ _Context: Wheeling Federal Building, Wheeling, West Virginia_
 ### ["Elmo" is sent to jail as Times Square characters raise concerns. A bogus costumed Elmo, who collected tips for cuddling children in family photos in New York's Times Square, is sent to jail for a year for trying to extort $2 million from the Girl Scouts of the USA. ](/news/2013/10/9/elmo-is-sent-to-jail-as-times-square-characters-raise-concerns-a-bogus-costumed-elmo-who-collected-tips-for-cuddling-children-in-family.md)
 ##### Azerbaijan
 ### [Voters in Azerbaijan go to the polls for a presidential election with incumbent President Ilham Aliyev expected to be elected amid concerns about the fairness of the election. ](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.md)
-_Context: presidential election, Ilham Aliyev's, Azerbaijan, President_
+_Context: Ilham Aliyev's, Azerbaijan, presidential election, President_
 
 ##### President of Argentina
 ### [President Cristina Fernndez de Kirchner of Argentina successfully undergoes surgery to remove a subdural hematoma. Presidential duties will be carried out by Vice President Amado Boudou for the duration of Kirchner's estimated month-long recovery. ](/news/2013/10/9/president-cristina-fernandez-de-kirchner-of-argentina-successfully-undergoes-surgery-to-remove-a-subdural-hematoma-presidential-duties-will.md)
-_Context: subdural hematoma, Cristina Kirchner, Amado Boudou, President of Argentina_
+_Context: Cristina Kirchner, subdural hematoma, President of Argentina, Amado Boudou_
 
 ##### Nobel Prize
 ### [The Nobel Prize in Chemistry is awarded to Martin Karplus, Michael Levitt and Arieh Warshel for their work on multiscale models for complex chemical systems. ](/news/2013/10/9/the-nobel-prize-in-chemistry-is-awarded-to-martin-karplus-michael-levitt-and-arieh-warshel-for-their-work-on-multiscale-models-for-complex.md)

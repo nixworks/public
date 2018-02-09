@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/31/index.html)  [JSON](2014/10/31/index.json)  [XML](201
 
 ##### Blaise Compaore
 ### [Blaise Compaore resigns as President of Burkina Faso following the 2014 Burkinabe uprising. General Honore Traore assumes leadership on a transitional basis. ](/news/2014/10/31/blaise-compaora-c-resigns-as-president-of-burkina-faso-following-the-2014-burkinaba-c-uprising-general-honora-c-traora-c-assumes-leadership-on.md)
-_Context: Burkina Faso, President, Blaise Compaore, Honore Traore, 2014 Burkinabe uprising_
+_Context: Honore Traore, Burkina Faso, 2014 Burkinabe uprising, President, Blaise Compaore_
 
 ##### Nigeria
 ### [A bomb blast in Nigeria's Gombe State kills at least 4 people and injures 32. ](/news/2014/10/31/a-bomb-blast-in-nigeria-s-gombe-state-kills-at-least-4-people-and-injures-32.md)
@@ -17,7 +17,7 @@ The Bank of Japan shocked global financial markets on Friday by expanding its ma
 
 ##### Virgin Galactic's
 ### [One person is dead and another injured after Virgin Galactic's SpaceShipTwo explodes and crashes in California's Mojave Desert during a test flight of the spaceplane. ](/news/2014/10/31/one-person-is-dead-and-another-injured-after-virgin-galactic-s-spaceshiptwo-explodes-and-crashes-in-california-s-mojave-desert-during-a-test.md)
-_Context: spaceplane, Mojave Desert, California, SpaceShipTwo, test flight, explodes and crashes, Virgin Galactic's_
+_Context: California, Virgin Galactic's, SpaceShipTwo, spaceplane, explodes and crashes, test flight, Mojave Desert_
 
 ##### Ebola virus disease in the United States
 ### [A Maine judge imposes limited restrictions, but rejects state officials' bid to quarantine nurse Kaci Hickox, who returned to the United States last week after treating Ebola patients in Sierra Leone. ](/news/2014/10/31/a-maine-judge-imposes-limited-restrictions-but-rejects-state-officials-bid-to-quarantine-nurse-kaci-hickox-who-returned-to-the-united-sta.md)

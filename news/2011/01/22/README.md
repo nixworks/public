@@ -17,7 +17,7 @@ Several injured as police disperse 300 people who defied a ban and attempted to 
 
 ##### Mexico
 ### [Mexico says 10 suspected drug gang members were killed in shootout with soldiers in Valle Hermoso, Tamaulipas. ](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.md)
-_Context: Valle Hermoso, Mexico, Tamaulipas_
+_Context: Tamaulipas, Valle Hermoso, Mexico_
 
 ##### Russia
 ### [At least two people are killed in a blaze at a shopping centre in the southwest Russian city of Ufa. ](/news/2011/01/22/at-least-two-people-are-killed-in-a-blaze-at-a-shopping-centre-in-the-southwest-russian-city-of-ufa.md)
@@ -49,7 +49,7 @@ Prime Minister Sali Berisha of Albania says there will be no Tunisia-style upris
 
 ##### Tunisia
 ### [Tunisia's prime minister Mohamed Ghannouchi promises in a TV interview to leave politics "in the shortest possible timeframe" after elections to be held following President Zine El Abidine Ben Ali's recent fall. ](/news/2011/01/22/tunisia-s-prime-minister-mohamed-ghannouchi-promises-in-a-tv-interview-to-leave-politics-in-the-shortest-possible-timeframe-after-election.md)
-_Context: demonstrations that toppled his regime, Tunisia, Mohamed Ghannouchi, President of Tunisia, Zine El Abidine Ben Ali_
+_Context: demonstrations that toppled his regime, Mohamed Ghannouchi, President of Tunisia, Tunisia, Zine El Abidine Ben Ali_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen announces he is to make a "significant" statement on his leadership of the ruling Fianna Fail party in Dublin at 14:00, to be broadcast on television and radio. ](/news/2011/01/22/taoiseach-brian-cowen-announces-he-is-to-make-a-significant-statement-on-his-leadership-of-the-ruling-fianna-fa-il-party-in-dublin-at-14-0.md)

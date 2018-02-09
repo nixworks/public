@@ -33,7 +33,7 @@ A New York City man appeared in court on Tuesday and denied charges he shot and 
 
 ##### Obama administration
 ### [The Obama administration transfers 15 Guantanamo Bay detainees to the United Arab Emirates. ](/news/2016/08/15/the-obama-administration-transfers-15-guantanamo-bay-detainees-to-the-united-arab-emirates.md)
-_Context: Obama administration, detainee, United Arab Emirates_
+_Context: United Arab Emirates, Obama administration, detainee_
 
 ## [Previous Day...](/news/2016/08/14/index.md)
 

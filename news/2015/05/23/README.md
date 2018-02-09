@@ -17,7 +17,7 @@ One of the top rebel commanders in eastern Ukraine, Alexei Mozgovoi, is killed i
 
 ##### Oscar Romero
 ### [The Salvadoran Archbishop Oscar Romero, assassinated at the start of the Salvadoran Civil War, is beatified in Pope Francis's name, by Cardinal Angelo Amato, Prefect of the Congregation for the Causes of Saints, in San Salvador. ](/news/2015/05/23/the-salvadoran-archbishop-ascar-romero-assassinated-at-the-start-of-the-salvadoran-civil-war-is-beatified-in-pope-francis-s-name-by-card.md)
-_Context: Congregation for the Causes of Saints, San Salvador, Salvadoran Civil War, Pope Francis, Angelo Amato, Oscar Romero_
+_Context: Congregation for the Causes of Saints, Angelo Amato, San Salvador, Oscar Romero, Pope Francis, Salvadoran Civil War_
 
 ##### Eurovision Song Contest 2015
 ### [The final of the Eurovision Song Contest 2015 is held in Vienna, Austria with MCNYns Zelmerlow of Sweden winning for the song Heroes. ](/news/2015/05/23/the-final-of-the-eurovision-song-contest-2015-is-held-in-vienna-austria-with-macnyns-zelmerlapw-of-sweden-winning-for-the-song-heroes.md)
@@ -37,7 +37,7 @@ Down south in A.P., among those who succumbed to the killer heat were 40 persons
 
 ##### Flood
 ### [Record breaking rain causes flooding in the American states of Oklahoma and Texas with Oklahoma City recording record rainfall levels for the month of May. ](/news/2015/05/23/record-breaking-rain-causes-flooding-in-the-american-states-of-oklahoma-and-texas-with-oklahoma-city-recording-record-rainfall-levels-for-th.md)
-_Context: Texas, Oklahoma City, Oklahoma, flood_
+_Context: flood, Oklahoma, Oklahoma City, Texas_
 
 ##### Rohingya refugee crisis
 ### [ Julie Bishop, the Foreign Minister of Australia, says that Indonesia has advised that most of the people who have traveled to South East Asia by boat are from Bangladesh, not Rohingya from Myanmar. ](/news/2015/05/23/julie-bishop-the-foreign-minister-of-australia-says-that-indonesia-has-advised-that-most-of-the-people-who-have-traveled-to-south-east-as.md)
@@ -49,11 +49,11 @@ Cleveland police officer Michael Brelo was acquitted Saturday of manslaughter ch
 
 ##### Nigeria
 ### [Nigerian drug agents arrest senator-elect Buruji Kashamu for extradition to the United States for his alleged involvement in a drug deal 20 years ago that is claimed to be the basis for the television show "Orange is the New Black". ](/news/2015/05/23/nigerian-drug-agents-arrest-senator-elect-buruji-kashamu-for-extradition-to-the-united-states-for-his-alleged-involvement-in-a-drug-deal-20.md)
-_Context: United States, Orange is the New Black, Nigeria_
+_Context: Orange is the New Black, United States, Nigeria_
 
 ##### Myanmar's president's office
 ### [The President of Myanmar, Thein Sein, signs the Population Control Health Care Bill requiring some parents to space each child three years apart. ](/news/2015/05/23/the-president-of-myanmar-thein-sein-signs-the-population-control-health-care-bill-requiring-some-parents-to-space-each-child-three-years-a.md)
-_Context: Myanmar's president's office, Thein Sein_
+_Context: Thein Sein, Myanmar's president's office_
 
 ##### Peru
 ### [Peru declares a 60 day state of emergency in the Tambo Valley following violent protests against a mine project which has seen four deaths. ](/news/2015/05/23/peru-declares-a-60-day-state-of-emergency-in-the-tambo-valley-following-violent-protests-against-a-mine-project-which-has-seen-four-deaths.md)

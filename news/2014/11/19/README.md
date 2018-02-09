@@ -37,7 +37,7 @@ Officials from the Solomon Islands Electoral Commission declare the final result
 
 ##### Basuki Tjahaja Purnama
 ### [Basuki Tjahaja Purnama is inaugurated as the Governor of Jakarta, the first ethnic Chinese ever to hold the post. He succeeds Joko Widodo, who is now president. ](/news/2014/11/19/basuki-tjahaja-purnama-is-inaugurated-as-the-governor-of-jakarta-the-first-ethnic-chinese-ever-to-hold-the-post-he-succeeds-joko-widodo-w.md)
-_Context: Basuki Tjahaja Purnama, Joko Widodo, ethnic Chinese Christian, Governor, is now president_
+_Context: Governor, is now president, Joko Widodo, Basuki Tjahaja Purnama, ethnic Chinese Christian_
 
 ##### Scottish Parliament
 ### [The Scottish Parliament elects Nicola Sturgeon as the first female First Minister of Scotland. ](/news/2014/11/19/the-scottish-parliament-elects-nicola-sturgeon-as-the-first-female-first-minister-of-scotland.md)

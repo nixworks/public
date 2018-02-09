@@ -37,7 +37,7 @@ Julian Assange takes refuge in embassy in London to avoid extradition to Sweden 
 
 ##### 2012 G-20 Mexico summit
 ### [2012 G-20 Mexico summit: UK prime minister David Cameron confronts Argentine president Cristina Fernandez de Kirchner over a letter she sent to him regarding the Falkland Islands. ](/news/2012/06/19/2012-g-20-mexico-summit-uk-prime-minister-david-cameron-confronts-argentine-president-cristina-ferna-ndez-de-kirchner-over-a-letter-she-sen.md)
-_Context: Falkland Islands, David Cameron, 2012 G-20 Mexico summit, Cristina Fernandez de Kirchner_
+_Context: David Cameron, Cristina Fernandez de Kirchner, Falkland Islands, 2012 G-20 Mexico summit_
 
 ##### Supreme Court
 ### [The Supreme Court of Pakistan disqualifies prime minister Yousaf Raza Gillani from holding office after Gillani was found guilty in a contempt-of-court case on April 26. ](/news/2012/06/19/the-supreme-court-of-pakistan-disqualifies-prime-minister-yousaf-raza-gillani-from-holding-office-after-gillani-was-found-guilty-in-a-contem.md)
@@ -45,7 +45,7 @@ Supreme court rules that current prime minister cannot hold office two months af
 
 ##### Najran Province
 ### [A Saudi man is beheaded on charges of sorcery and witchcraft in Najran Province of Saudi Arabia. ](/news/2012/06/19/a-saudi-man-is-beheaded-on-charges-of-sorcery-and-witchcraft-in-najran-province-of-saudi-arabia.md)
-_Context: Saudi Arabia, Najran Province_
+_Context: Najran Province, Saudi Arabia_
 
 ##### Antonis Samaras
 ### [Antonis Samaras, leader of the New Democracy party in Greece, continues to negotiate with political rivals to form a coalition government, as Greece struggles to overcome its economic crisis. ](/news/2012/06/19/antonis-samaras-leader-of-the-new-democracy-party-in-greece-continues-to-negotiate-with-political-rivals-to-form-a-coalition-government-a.md)

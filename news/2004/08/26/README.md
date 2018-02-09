@@ -13,7 +13,7 @@ The Christian Science Monitor is an international news organization that deliver
 
 ##### Abu Hamza al-Masri
 ### [ Abu Hamza al-Masri, a well known Muslim cleric currently residing in the United Kingdom, is arrested under the Terrorism Act 2000 which covers the "commission, preparation or instigation of acts of terrorism". ](/news/2004/08/26/abu-hamza-al-masri-a-well-known-muslim-cleric-currently-residing-in-the-united-kingdom-is-arrested-under-the-terrorism-act-2000-which-cov.md)
-_Context: Terrorism Act, Abu Hamza al-Masri, terrorism_
+_Context: Terrorism Act, terrorism, Abu Hamza al-Masri_
 
 ## [Previous Day...](/news/2004/08/25/index.md)
 

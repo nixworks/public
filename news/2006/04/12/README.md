@@ -5,11 +5,11 @@ Formats: [HTML](2006/04/12/index.html)  [JSON](2006/04/12/index.json)  [XML](200
 
 ##### Chadian rebels
 ### [ United Front for Democratic Change rebels approach N'Djamena, the capital of Chad. ](/news/2006/04/12/united-front-for-democratic-change-rebels-approach-n-djamena-the-capital-of-chad.md)
-_Context: Chad, Chadian rebels, capital, N'Djamena_
+_Context: Chad, Chadian rebels, N'Djamena, capital_
 
 ##### Magdi Yacoub
 ### [ Coronary specialist Sir Magdi Yacoub operates on Welsh schoolgirl cardiomyopathy patient Hannah Clark, whose original heart is reconnected, after a donor heart was rejected by her body. This is a UK-first organ-replacement reversal. ](/news/2006/04/12/coronary-specialist-sir-magdi-yacoub-operates-on-welsh-schoolgirl-cardiomyopathy-patient-hannah-clark-whose-original-heart-is-reconnected.md)
-_Context: cardiomyopathy, organ-replacement reversal, heart, Magdi Yacoub_
+_Context: Magdi Yacoub, cardiomyopathy, organ-replacement reversal, heart_
 
 ##### Terrorism Act
 ### [ The UK's Terrorism Act 2006 comes into force, making illegal the act of glorifying terrorism. ](/news/2006/04/12/the-uk-s-terrorism-act-2006-comes-into-force-making-illegal-the-act-of-glorifying-terrorism.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Fossil
 ### [ Fossils of "Australopithecus anamensis" help bridge a long gap during a crucial phase of human evolution. ](/news/2006/04/12/fossils-of-australopithecus-anamensis-help-bridge-a-long-gap-during-a-crucial-phase-of-human-evolution.md)
-_Context: Fossil, human evolution, Australopithecus anamensis_
+_Context: human evolution, Australopithecus anamensis, Fossil_
 
 ## [Previous Day...](/news/2006/04/11/index.md)
 

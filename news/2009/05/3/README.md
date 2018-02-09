@@ -5,7 +5,7 @@ Formats: [HTML](2009/05/3/index.html)  [JSON](2009/05/3/index.json)  [XML](2009/
 
 ##### Nepal
 ### [ Nepalese Prime Minister Prachanda resigns. ](/news/2009/05/3/nepalese-prime-minister-prachanda-resigns.md)
-_Context: Prime Minister, Nepal, Prachanda_
+_Context: Nepal, Prime Minister, Prachanda_
 
 ##### Ricardo Martinelli
 ### [ Ricardo Martinelli of Democratic Change is elected as President of Panama. ](/news/2009/05/3/ricardo-martinelli-of-democratic-change-is-elected-as-president-of-panama.md)
@@ -13,15 +13,15 @@ A multimillionaire supermarket chain owner defeated a candidate of the governing
 
 ##### Avalanche
 ### [ An avalanche kills at least six people in the Central Eastern Alps in Austria. ](/news/2009/05/3/an-avalanche-kills-at-least-six-people-in-the-central-eastern-alps-in-austria.md)
-_Context: kills, Austria, Alps, avalanche, Central Eastern_
+_Context: avalanche, Austria, Central Eastern, Alps, kills_
 
 ##### France
 ### [ The French Navy frigate "Nivse" captures 11 Somali pirates. ](/news/2009/05/3/the-french-navy-frigate-nivose-captures-11-somali-pirates.md)
-_Context: captures, frigate, Nivse, Somalia, France, Somali pirates, French naval_
+_Context: Somalia, frigate, French naval, France, Somali pirates, captures, Nivse_
 
 ##### Army
 ### [ An Army helicopter crashes in Tchira, Venezuela, killing at least 18 people. ](/news/2009/05/3/an-army-helicopter-crashes-in-tachira-venezuela-killing-at-least-18-people.md)
-_Context: Venezuela, Army, helicopter, Tchira, crashes_
+_Context: crashes, Tchira, helicopter, Army, Venezuela_
 
 ##### Iraq
 ### [ Iraq will not extend the deadline for the United States Armed Forces to withdraw from the Iraq War. ](/news/2009/05/3/iraq-will-not-extend-the-deadline-for-the-united-states-armed-forces-to-withdraw-from-the-iraq-war.md)

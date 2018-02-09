@@ -5,15 +5,15 @@ Formats: [HTML](2009/06/28/index.html)  [JSON](2009/06/28/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The United Kingdom reports its second death from swine flu. ](/news/2009/06/28/the-united-kingdom-reports-its-second-death-from-swine-flu.md)
-_Context: swine flu, United Kingdom_
+_Context: United Kingdom, swine flu_
 
 ##### President
 ### [ President Manuel Zelaya is removed from office by the army ahead of a disputed constitutional referendum and sent to Costa Rica. ](/news/2009/06/28/president-manuel-zelaya-is-removed-from-office-by-the-army-ahead-of-a-disputed-constitutional-referendum-and-sent-to-costa-rica.md)
-_Context: President, Manuel Zelaya, Costa Rica, removed from office, constitutional referendum_
+_Context: removed from office, Manuel Zelaya, constitutional referendum, President, Costa Rica_
 
 ##### Presidential election
 ### [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md)
-_Context: acting president, Joo Bernardo Vieira, presidential election, Guinea-Bissau_
+_Context: presidential election, Joo Bernardo Vieira, Guinea-Bissau, acting president_
 
 ##### Albania
 ### [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md)
@@ -21,7 +21,7 @@ Albanians were voting in legislative elections seen as crucial for the European 
 
 ##### Iran
 ### [ Iranian authorities arrest eight employees at the British embassy in Tehran. ](/news/2009/06/28/iranian-authorities-arrest-eight-employees-at-the-british-embassy-in-tehran.md)
-_Context: United Kingdom, Iran, Tehran_
+_Context: Tehran, United Kingdom, Iran_
 
 ##### Argentina
 ### [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md)

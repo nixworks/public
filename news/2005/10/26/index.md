@@ -5,11 +5,11 @@ Formats: [HTML](2005/10/26/index.html)  [JSON](2005/10/26/index.json)  [XML](200
 
 ##### Conflict in Iraq
 ### [ Conflict in Iraq: Three U.S. Soldiers die in two separate insurgent attacks in Baghdad and near Baqouba. ](/news/2005/10/26/conflict-in-iraq-three-u-s-soldiers-die-in-two-separate-insurgent-attacks-in-baghdad-and-near-baqouba.md)
-_Context: Baghdad, United States soldier, Baqouba, United States, Conflict in Iraq, Iraqi insurgency_
+_Context: United States soldier, Iraqi insurgency, Baqouba, Conflict in Iraq, Baghdad, United States_
 
 ##### Baseball game
 ### [ Baseball: In the deciding game of the 2005 World Series, the Chicago White Sox defeat the Houston Astros 1-0 to sweep the series 4 games to 0. This is the first World Championship for the Sox since 1917. Outfielder Jermaine Dye is named Series MVP. ](/news/2005/10/26/baseball-in-the-deciding-game-of-the-2005-world-series-the-chicago-white-sox-defeat-the-houston-astros-1-0-to-sweep-the-series-4-games-to.md)
-_Context: 2005 World Series, baseball game, 1917, Houston Astros, Series MVP, Chicago White Sox, Jermaine Dye_
+_Context: 1917, Series MVP, Chicago White Sox, 2005 World Series, Houston Astros, Jermaine Dye, baseball game_
 
 ##### Iran
 ### [ For the first time in Iranian history, Indian soldiers killed fighting for the British in Iran have been commemorated in an official ceremony in Tehran. ](/news/2005/10/26/for-the-first-time-in-iranian-history-indian-soldiers-killed-fighting-for-the-british-in-iran-have-been-commemorated-in-an-official-ceremo.md)
@@ -29,7 +29,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United Kingdom
 ### [ The British Community Reference Laboratory for Avian Influenza in Weybridge confirms that swans found near Orahovica, Croatia, were infected by the H5N1 flu strain. ](/news/2005/10/26/the-british-community-reference-laboratory-for-avian-influenza-in-weybridge-confirms-that-swans-found-near-orahovica-croatia-were-infecte.md)
-_Context: Croatia, infection, swan, Community Reference Laboratory for Avian Influenza, Weybridge, bird flu, United Kingdom_
+_Context: infection, Community Reference Laboratory for Avian Influenza, bird flu, Croatia, United Kingdom, swan, Weybridge_
 
 ##### Politics of the United Kingdom
 ### [ The British Government, after several days of debating, confirms its plans to ban smoking in public places in England with the exemption of pubs and clubs not serving food. ](/news/2005/10/26/the-british-government-after-several-days-of-debating-confirms-its-plans-to-ban-smoking-in-public-places-in-england-with-the-exemption-of.md)
@@ -41,11 +41,11 @@ _Context: health care, Wal-Mart_
 
 ##### Pyramid
 ### [ What may be the first pyramid in Europe has been discovered in Bosnia. ](/news/2005/10/26/what-may-be-the-first-pyramid-in-europe-has-been-discovered-in-bosnia.md)
-_Context: pyramid, Bosnia and Herzegovina, Europe_
+_Context: pyramid, Europe, Bosnia and Herzegovina_
 
 ##### WNBA
 ### [ WNBA superstar Sheryl Swoopes of the Houston Comets publicly announces that she is a lesbian in an interview with ESPN The Magazine. ](/news/2005/10/26/wnba-superstar-sheryl-swoopes-of-the-houston-comets-publicly-announces-that-she-is-a-lesbian-in-an-interview-with-espn-the-magazine.md)
-_Context: ESPN The Magazine, lesbian, Houston Comets, Sheryl Swoopes, WNBA_
+_Context: WNBA, Sheryl Swoopes, Houston Comets, lesbian, ESPN The Magazine_
 
 ## [Previous Day...](/news/2005/10/25/index.md)
 

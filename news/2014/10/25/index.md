@@ -5,7 +5,7 @@ Formats: [HTML](2014/10/25/index.html)  [JSON](2014/10/25/index.json)  [XML](201
 
 ##### Iraqi insurgency (2011-present)
 ### [Kurdish peshmergas retake the city of Zumar and several nearby villages from ISIS, while Iraqi government forces and Shi'ite militias seize control of Jurf Al Sakhar. ](/news/2014/10/25/kurdish-peshmergas-retake-the-city-of-zumar-and-several-nearby-villages-from-isis-while-iraqi-government-forces-and-shi-ite-militias-seize.md)
-_Context: Iraqi insurgency (2011-present), Zumar, Kurdish Peshmerga, ISIL, Jurf Al Sakhar_
+_Context: ISIL, Kurdish Peshmerga, Jurf Al Sakhar, Iraqi insurgency (2011-present), Zumar_
 
 ##### Sinai insurgency
 ### [Egypt declares a three month state of emergency for parts of the Sinai Peninsula after at least 31 soldiers are killed in two attacks there. ](/news/2014/10/25/egypt-declares-a-three-month-state-of-emergency-for-parts-of-the-sinai-peninsula-after-at-least-31-soldiers-are-killed-in-two-attacks-there.md)

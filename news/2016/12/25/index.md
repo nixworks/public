@@ -5,11 +5,11 @@ Formats: [HTML](2016/12/25/index.html)  [JSON](2016/12/25/index.json)  [XML](201
 
 ##### Pope Francis
 ### [Pope Francis pleads for peace in a Christmas Mass in the Vatican. ](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-mass-in-the-vatican.md)
-_Context: Mass, Pope Francis, peace, Christmas, Vatican City_
+_Context: Mass, Vatican City, Pope Francis, peace, Christmas_
 
 ##### Bezeq
 ### [Bezeq, an Israeli telecoms company, says that it has received word from the country's telecoms regulator that it will be allowed to end the "structural separation" of its business operations by product (i.e. mobile phone, internet, land lines). ](/news/2016/12/25/bezeq-an-israeli-telecoms-company-says-that-it-has-received-word-from-the-country-s-telecoms-regulator-that-it-will-be-allowed-to-end-the.md)
-_Context: Bezeq, Israel_
+_Context: Israel, Bezeq_
 
 ##### 2016 Chiloe earthquake
 ### [A magnitude 7.7 earthquake in Chile spurs tsunami warnings. ](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsunami-warnings.md)
@@ -25,7 +25,7 @@ A typhoon with gusts of wind up to 255km/h makes landfall in the eastern Philipp
 
 ##### German
 ### [The German city of Augsburg is evacuated after a World War II-era explosive is discovered in the town. Explosive experts later defused the bomb. ](/news/2016/12/25/the-german-city-of-augsburg-is-evacuated-after-a-world-war-ii-era-explosive-is-discovered-in-the-town-explosive-experts-later-defused-the-b.md)
-_Context: World War II, German, Augsburg_
+_Context: Augsburg, World War II, German_
 
 ##### Pregnancy
 ### [Medical research reveals shrinkage in women's brains as a result of pregnancy. Loss of gray matter in certain regions of the brain may make the brain more efficient and specialized for child-rearing. There is also evidence of links to long-term changes in brain. ](/news/2016/12/25/medical-research-reveals-shrinkage-in-womenas-brains-as-a-result-of-pregnancy-loss-of-gray-matter-in-certain-regions-of-the-brain-may-mak.md)
@@ -41,7 +41,7 @@ Pakistan has released 220 Indian fishermen detained for crossing into its territ
 
 ##### 2016 Turkish purges
 ### [Turkey probes around 10,000 social media users for allegedly insulting government officials or supporting "terror-related activity." ](/news/2016/12/25/turkey-probes-around-10-000-social-media-users-for-allegedly-insulting-government-officials-or-supporting-terror-related-activity.md)
-_Context: 2016 Turkish purges, social media, Turkey, terrorism_
+_Context: social media, terrorism, 2016 Turkish purges, Turkey_
 
 ##### Al Jazeera
 ### [A producer of Al Jazeera is arrested in Egypt. ](/news/2016/12/25/a-producer-of-al-jazeera-is-arrested-in-egypt.md)

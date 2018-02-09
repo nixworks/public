@@ -13,7 +13,7 @@ Al Qaeda leader Ayman al-Zawahri urged small-scale attacks inside the United Sta
 
 ##### Baghdad
 ### [A bomb in a Baghdad Sunni mosque kills at least 30 people. ](/news/2013/09/13/a-bomb-in-a-baghdad-sunni-mosque-kills-at-least-30-people.md)
-_Context: Sunni, Baghdad_
+_Context: Baghdad, Sunni_
 
 ##### Russia
 ### [Dozens of people are feared dead after a fire at a psychiatric hospital in Russia's Novgorod Oblast. ](/news/2013/09/13/dozens-of-people-are-feared-dead-after-a-fire-at-a-psychiatric-hospital-in-russia-s-novgorod-oblast.md)
@@ -25,7 +25,7 @@ _Context: Galati County, Romania_
 
 ##### Floods in the United States: 2001-present
 ### [At least four people are dead, 80 unaccounted for and thousands have been evacuated following heavy floods in Boulder County in the US state of Colorado. ](/news/2013/09/13/at-least-four-people-are-dead-80-unaccounted-for-and-thousands-have-been-evacuated-following-heavy-floods-in-boulder-county-in-the-us-state.md)
-_Context: Colorado, Floods in the United States: 2001-present, Boulder County_
+_Context: Boulder County, Floods in the United States: 2001-present, Colorado_
 
 ##### World War II
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
@@ -33,11 +33,11 @@ HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish s
 
 ##### Crossville
 ### [Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. ](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.md)
-_Context: U.S., Crossville, Tennessee_
+_Context: Crossville, U.S., Tennessee_
 
 ##### India
 ### [An Indian court sentences four men to death for the 2012 Delhi gang rape case. ](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.md)
-_Context: India, 2012 Delhi gang rape case_
+_Context: 2012 Delhi gang rape case, India_
 
 ##### Bill Shorten
 ### [Bill Shorten and Anthony Albanese will contest a month-long ballot process to determine who will be the Leader of the Australian Labor Party and Leader of the Opposition. ](/news/2013/09/13/bill-shorten-and-anthony-albanese-will-contest-a-month-long-ballot-process-to-determine-who-will-be-the-leader-of-the-australian-labor-party.md)
@@ -45,7 +45,7 @@ The gang&#039;s all here. Labor, Liberal, National - everyone is trying to remem
 
 ##### Narendra Modi
 ### [Narendra Modi is named as the Bharatiya Janata Party leader in next year's Indian general election. ](/news/2013/09/13/narendra-modi-is-named-as-the-bharatiya-janata-party-leader-in-next-year-s-indian-general-election.md)
-_Context: Narendra Modi, Indian general election, Bharatiya Janata Party_
+_Context: Narendra Modi, Bharatiya Janata Party, Indian general election_
 
 ## [Previous Day...](/news/2013/09/12/index.md)
 

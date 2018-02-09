@@ -5,7 +5,7 @@ Formats: [HTML](2015/11/3/index.html)  [JSON](2015/11/3/index.json)  [XML](2015/
 
 ##### 2014-15 India-Pakistan border skirmishes
 ### [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md)
-_Context: Pakistan, 2014-15 India-Pakistan border skirmishes, Line of Control, Pakistan Army, Indian Army, India, Kashmir_
+_Context: Pakistan, Kashmir, India, Line of Control, Indian Army, Pakistan Army, 2014-15 India-Pakistan border skirmishes_
 
 ##### Russian military intervention in the Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. ](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.md)
@@ -49,11 +49,11 @@ The U.S.’s Pacific Fleet commander vowed in a Beijing speech to continue patro
 
 ##### Libyan Crisis (2011-present)
 ### [The New General National Congress (Libya Dawn) which controls the capital Tripoli, and much of western Libya, threatens to send 'hundreds of thousands' of refugees to Europe unless the European Union recognizes the Islamist-led government. ](/news/2015/11/3/the-new-general-national-congress-libya-dawn-which-controls-the-capital-tripoli-and-much-of-western-libya-threatens-to-send-hundreds-of.md)
-_Context: Libyan Crisis (2011-present), General National Congress, European Union, Tripoli, Islamists, Libya, Europe_
+_Context: Islamists, Europe, Libya, General National Congress, European Union, Libyan Crisis (2011-present), Tripoli_
 
 ##### Territorial disputes in the South China Sea
 ### [Japan has delivered two more ships to Vietnam that will be refurbished into patrol boats. The ships, which arrived in the port city of Da Nang, are the second delivery of a 2014 deal in which Tokyo is to provide Vietnam with six used fishing vessels that will be converted into patrol boats for Vietnam's coast guard in the South China Sea. ](/news/2015/11/3/japan-has-delivered-two-more-ships-to-vietnam-that-will-be-refurbished-into-patrol-boats-the-ships-which-arrived-in-the-port-city-of-da-na.md)
-_Context: Coast Guard, Japan-Vietnam relations, port city of Da Nang, Cabinet of Japan, South China Sea, Vietnam, Japan, Territorial disputes in the South China Sea_
+_Context: South China Sea, Territorial disputes in the South China Sea, Japan, Japan-Vietnam relations, port city of Da Nang, Coast Guard, Cabinet of Japan, Vietnam_
 
 ##### European migrant crisis
 ### [ German Chancellor Angela Merkel announces a plan to register and distribute incoming refugees evenly throughout the European Union. Refugees would be stopped at EU borders, have their application processed, and then, if accepted, sent to one of the Union's 28 member states. ](/news/2015/11/3/german-chancellor-angela-merkel-announces-a-plan-to-register-and-distribute-incoming-refugees-evenly-throughout-the-european-union-refugee.md)
@@ -61,7 +61,7 @@ German Chancellor Angela Merkel announced a plan to register and distribute inco
 
 ##### Journalist
 ### [Pakistani journalist Zaman Mehsud is shot dead by two motorcycle-riding gunmen in Pakistan's Khyber Pakhtunkhwa province, near the country's northwestern tribal region. According to a 2014 report, at least 56 journalists have been killed in Pakistan since 1992. ](/news/2015/11/3/pakistani-journalist-zaman-mehsud-is-shot-dead-by-two-motorcycle-riding-gunmen-in-pakistan-s-khyber-pakhtunkhwa-province-near-the-country-s.md)
-_Context: Pakistan, journalist, Northwestern Pakistan, motorcycle-riding, gunmen, Federally Administered Tribal Areas_
+_Context: gunmen, Pakistan, journalist, motorcycle-riding, Federally Administered Tribal Areas, Northwestern Pakistan_
 
 ##### Gubernatorial
 ### [ In Kentucky, Republican Matt Bevin defeats Democrat Jack Conway and independent Drew Curtis with 52 percent of the vote to succeed term-limited Democrat Steve Beshear. ](/news/2015/11/3/in-kentucky-republican-matt-bevin-defeats-democrat-jack-conway-and-independent-drew-curtis-with-52-percent-of-the-vote-to-succeed-term-lim.md)

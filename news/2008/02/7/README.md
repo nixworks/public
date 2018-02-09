@@ -29,7 +29,7 @@ Atlantis launches on schedule despite earlier forecasts of thunderstorms and hea
 
 ##### Muslim
 ### [ British Muslim cleric Abu Hamza al-Masri will be extradited to the United States to face terror charges. ](/news/2008/02/7/british-muslim-cleric-abu-hamza-al-masri-will-be-extradited-to-the-united-states-to-face-terror-charges.md)
-_Context: extradition, Abu Hamza al-Masri, Muslim, United States_
+_Context: Muslim, United States, extradition, Abu Hamza al-Masri_
 
 ##### United States
 ### [ There are mass arrests in the United States and Italy in an anti-Mafia sweep including three suspected senior members of the Gambino crime family. ](/news/2008/02/7/there-are-mass-arrests-in-the-united-states-and-italy-in-an-anti-mafia-sweep-including-three-suspected-senior-members-of-the-gambino-crime.md)
@@ -37,11 +37,11 @@ Police in the United States and Italy arrested 77 suspected members of the Mafia
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: 2008, Massachusetts governor, Mitt Romney, his campaign_
+_Context: Mitt Romney, 2008, Massachusetts governor, his campaign_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
-_Context: Eastern Orthodox Church, Church of Greece, Archbishop Ieronymos II of Athens_
+_Context: Eastern Orthodox Church, Archbishop Ieronymos II of Athens, Church of Greece_
 
 ##### Afghanistan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
@@ -49,15 +49,15 @@ _Context: Afghanistan, NATO_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: Afghanistan, David Miliband, Condoleezza Rice, Foreign Secretary, United States Secretary of State, United Kingdom_
+_Context: David Miliband, Afghanistan, Condoleezza Rice, Foreign Secretary, United Kingdom, United States Secretary of State_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
-_Context: hostile takeover, BHP Billiton, Rio Tinto_
+_Context: BHP Billiton, Rio Tinto, hostile takeover_
 
 ##### WHO
 ### [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md)
-_Context: WHO, tobacco_
+_Context: tobacco, WHO_
 
 ## [Previous Day...](/news/2008/02/6/index.md)
 

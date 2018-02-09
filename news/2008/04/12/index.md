@@ -9,15 +9,15 @@ _Context: Jacques-Edouard Alexis, Prime Minister of Haiti, National Assembly of 
 
 ##### Chinese President
 ### [ The President of the People's Republic of China Hu Jintao meets with the Vice-President-elect of Republic of China (Taiwan) Vincent Siew in the highest level talks between the two sides since 1949. ](/news/2008/04/12/the-president-of-the-people-s-republic-of-china-hu-jintao-meets-with-the-vice-president-elect-of-republic-of-china-taiwan-vincent-siew-in.md)
-_Context: Hu Jintao, Taiwan, Vincent Siew, Chinese President_
+_Context: Vincent Siew, Chinese President, Hu Jintao, Taiwan_
 
 ##### The Herald
 ### [ "The Herald", a government-run newspaper, reports that Robert Mugabe, the President of Zimbabwe, will not attend the regional crisis meeting in Lusaka, Zambia, to discuss the crisis over the 2008 presidential election. ](/news/2008/04/12/the-herald-a-government-run-newspaper-reports-that-robert-mugabe-the-president-of-zimbabwe-will-not-attend-the-regional-crisis-meetin.md)
-_Context: Lusaka, The Herald, newspaper, Robert Mugabe, run-off presidential election, Zambia, President of Zimbabwe_
+_Context: The Herald, run-off presidential election, Zambia, newspaper, Robert Mugabe, Lusaka, President of Zimbabwe_
 
 ##### Russia
 ### [ Russia threatens to block Ban Ki Moon from serving a second term as United Nations Secretary-General because of his stance on Kosovo's recent independence. The Kremlin is pressing Ban to ignore, or at least prolong, a proposed 120-day transition period to Kosovo independence from Serbia that expires on 16 June. Renewal of Serbia-Kosovo talks is possible. ](/news/2008/04/12/russia-threatens-to-block-ban-ki-moon-from-serving-a-second-term-as-united-nations-secretary-general-because-of-his-stance-on-kosovo-s-rece.md)
-_Context: 16 June, United Nations Secretary-General, Ban Ki Moon, Russia_
+_Context: Ban Ki Moon, 16 June, United Nations Secretary-General, Russia_
 
 ##### Sudan
 ### [ A Sudanese cargo plane crashes in Moldova, killing eight people. ](/news/2008/04/12/a-sudanese-cargo-plane-crashes-in-moldova-killing-eight-people.md)

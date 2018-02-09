@@ -17,11 +17,11 @@ First responders are treating the derailment in Washington state as a mass casua
 
 ##### MiG-29
 ### [ A Polish MiG-29 crash lands in a forest near Minsk Mazowiecki. The pilot survived despite not ejecting. ](/news/2017/12/18/a-polish-mig-29-crash-lands-in-a-forest-near-miask-mazowiecki-the-pilot-survived-despite-not-ejecting.md)
-_Context: MiG-29, Minsk Mazowiecki_
+_Context: Minsk Mazowiecki, MiG-29_
 
 ##### United States recognition of Jerusalem as Israeli capital
 ### [The Unites States vetoes an United Nations Security Council resolution calling for it to withdraw its declaration of a capital in Jerusalem, which was approved by the other 14 members. ](/news/2017/12/18/the-unites-states-vetoes-an-united-nations-security-council-resolution-calling-for-it-to-withdraw-its-declaration-of-a-capital-in-jerusalem.md)
-_Context: United States recognition of Jerusalem as Israeli capital, United Nations Security Council resolution, Jerusalem_
+_Context: Jerusalem, United Nations Security Council resolution, United States recognition of Jerusalem as Israeli capital_
 
 ##### United States-North Korea relations
 ### [The United States and the United Kingdom claim North Korea is directly responsible for the WannaCry ransomware attack which occurred earlier this year. ](/news/2017/12/18/the-united-states-and-the-united-kingdom-claim-north-korea-is-directly-responsible-for-the-wannacry-ransomware-attack-which-occurred-earlier.md)

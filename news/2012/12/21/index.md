@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/21/index.html)  [JSON](2012/12/21/index.json)  [XML](201
 
 ##### Alexandria
 ### [Clashes break out in Alexandria, Egypt, on the evening of the second leg of voting in the constitutional referendum. ](/news/2012/12/21/clashes-break-out-in-alexandria-egypt-on-the-evening-of-the-second-leg-of-voting-in-the-constitutional-referendum.md)
-_Context: constitutional referendum, Alexandria, Egypt_
+_Context: Egypt, Alexandria, constitutional referendum_
 
 ##### Kenya
 ### [At least 39 people are killed in clashes between rival communities in Kenya. ](/news/2012/12/21/at-least-39-people-are-killed-in-clashes-between-rival-communities-in-kenya.md)
@@ -41,11 +41,11 @@ Ministry of Defence has spent $22.7m settling claims from 205 Iraqis who alleged
 
 ##### Blair County
 ### [A shooting at a highway in Blair County, Pennsylvania kills three people and wounds three others. The gunman was killed in a shootout with police, and among the casualties were state troopers. ](/news/2012/12/21/a-shooting-at-a-highway-in-blair-county-pennsylvania-kills-three-people-and-wounds-three-others-the-gunman-was-killed-in-a-shootout-with-p.md)
-_Context: police, Pennsylvania State Police, Pennsylvania, shootout, Blair County_
+_Context: police, shootout, Pennsylvania State Police, Blair County, Pennsylvania_
 
 ##### Steve Jobs
 ### [Steve Jobs' GBP85m high-tech yacht "Venus" is impounded at the Port of Amsterdam after designer Philippe Starck claims he is still owed money. ](/news/2012/12/21/steve-jobs-agbp85m-high-tech-yacht-venus-is-impounded-at-the-port-of-amsterdam-after-designer-philippe-starck-claims-he-is-still-owed-mon.md)
-_Context: high-tech, Port of Amsterdam, Venus, Steve Jobs, yacht, Philippe Starck_
+_Context: Steve Jobs, high-tech, Venus, Philippe Starck, Port of Amsterdam, yacht_
 
 ##### U.S. President
 ### [U.S. President Barack Obama nominates John Kerry to succeed Hillary Clinton as Secretary of State. ](/news/2012/12/21/u-s-president-barack-obama-nominates-john-kerry-to-succeed-hillary-clinton-as-secretary-of-state.md)
@@ -57,7 +57,7 @@ Former UK prime minister Margaret Thatcher is recovering in hospital after havin
 
 ##### Romania
 ### [After seven months in office and a decisive victory in the elections, Romanian Prime Minister Victor Ponta and his cabinet receive the vote of confidence from Parliament with 402 votes in favor and 120 against. ](/news/2012/12/21/after-seven-months-in-office-and-a-decisive-victory-in-the-elections-romanian-prime-minister-victor-ponta-and-his-cabinet-receive-the-vote.md)
-_Context: Victor Ponta, Romania, Parliament of Romania, Prime Minister, vote of confidence_
+_Context: Victor Ponta, Romania, vote of confidence, Prime Minister, Parliament of Romania_
 
 ##### Technocrat
 ### [Technocrat Mario Monti resigns as Prime Minister of Italy after the parliamentary passing of Italy's latest austerity budget. ](/news/2012/12/21/technocrat-mario-monti-resigns-as-prime-minister-of-italy-after-the-parliamentary-passing-of-italy-s-latest-austerity-budget.md)
@@ -69,7 +69,7 @@ President Michael D Higgins has led tributes for Fine Gael Minister of State Sha
 
 ##### Netherlands
 ### [In the Netherlands, former Deputy Prime Minister Els Borst and former Vice President of the Council of State Herman Tjeenk Willink are granted the rare honorary title of Minister of State. ](/news/2012/12/21/in-the-netherlands-former-deputy-prime-minister-els-borst-and-former-vice-president-of-the-council-of-state-herman-tjeenk-willink-are-grant.md)
-_Context: Herman Tjeenk Willink, Minister of State, Vice President of the Council of State, Netherlands, Deputy Prime Minister of the Netherlands, Els Borst_
+_Context: Netherlands, Minister of State, Els Borst, Herman Tjeenk Willink, Deputy Prime Minister of the Netherlands, Vice President of the Council of State_
 
 ##### Sutter's Mill meteorite
 ### [After detailed study of the Sutter's Mill meteorite found in California on 22 April 2012, scientists report it contains some of the oldest material in the Solar System. ](/news/2012/12/21/after-detailed-study-of-the-sutter-s-mill-meteorite-found-in-california-on-22-april-2012-scientists-report-it-contains-some-of-the-oldest-m.md)

@@ -9,7 +9,7 @@ _Context: Syria_
 
 ##### UNESCO
 ### [A UNESCO World Heritage site is destroyed by Muslim fighters in Timbuktu. The mausoleum of Sidi Mahmoud Ben Amar is destroyed. The fighters are said to have ties with al-Qaida. ](/news/2012/06/30/a-unesco-world-heritage-site-is-destroyed-by-muslim-fighters-in-timbuktu-the-mausoleum-of-sidi-mahmoud-ben-amar-is-destroyed-the-fighters.md)
-_Context: al-Qaida, Timbuktu, UNESCO, Sidi Mahmoud Ben Amar_
+_Context: al-Qaida, Sidi Mahmoud Ben Amar, Timbuktu, UNESCO_
 
 ##### Salvador Dali
 ### [A Salvador Dali drawing lifted last week from a New York gallery is returned by post. ](/news/2012/06/30/a-salvador-dala-drawing-lifted-last-week-from-a-new-york-gallery-is-returned-by-post.md)
@@ -25,15 +25,15 @@ The government announces an independent review of the workings of the Libor inte
 
 ##### Samsung
 ### [Samsung is barred from selling its Galaxy Nexus phone in the United States due to a patent dispute with Apple Inc. ](/news/2012/06/30/samsung-is-barred-from-selling-its-galaxy-nexus-phone-in-the-united-states-due-to-a-patent-dispute-with-apple-inc.md)
-_Context: Galaxy Nexus, Samsung, Apple Inc_
+_Context: Samsung, Apple Inc, Galaxy Nexus_
 
 ##### Xinjiang
 ### [A strong earthquake hits the Xinjiang region of western China with rescuers dispatched to search for casualties. ](/news/2012/06/30/a-strong-earthquake-hits-the-xinjiang-region-of-western-china-with-rescuers-dispatched-to-search-for-casualties.md)
-_Context: Xinjiang, Chinese_
+_Context: Chinese, Xinjiang_
 
 ##### Strong storms
 ### [The death toll from storms in the Mid-Atlantic states of the United States reaches 13, with millions out of power and states of emergencies declared in the states of Ohio, West Virginia, Virginia and Maryland as well as the District of Columbia. ](/news/2012/06/30/the-death-toll-from-storms-in-the-mid-atlantic-states-of-the-united-states-reaches-13-with-millions-out-of-power-and-states-of-emergencies.md)
-_Context: Virginia, Mid-Atlantic, strong storms, Maryland, West Virginia, District of Columbia, United States, Ohio, state of emergency_
+_Context: District of Columbia, Mid-Atlantic, Virginia, United States, strong storms, West Virginia, Ohio, state of emergency, Maryland_
 
 ##### Barrio Azteca
 ### [A top leader of the Texan gang known as Barrio Azteca is extradited to the United States from Mexico. The gang member was responsible for killing two U.S. consulate workers in Ciudad Juarez in March 2010. ](/news/2012/06/30/a-top-leader-of-the-texan-gang-known-as-barrio-azteca-is-extradited-to-the-united-states-from-mexico-the-gang-member-was-responsible-for-ki.md)
@@ -41,15 +41,15 @@ MEXICO CITY (Reuters) - Mexico has extradited a drug gang leader to face charges
 
 ##### Mohamed Morsi
 ### [Mohamed Morsi is sworn in as President of Egypt, the first president elected since Hosni Mubarak was ousted in last year's revolution. ](/news/2012/06/30/mohamed-morsi-is-sworn-in-as-president-of-egypt-the-first-president-elected-since-hosni-mubarak-was-ousted-in-last-year-s-revolution.md)
-_Context: President, Mohamed Morsi, Hosni Mubarak, 2011 Egyptian revolution_
+_Context: Hosni Mubarak, President, Mohamed Morsi, 2011 Egyptian revolution_
 
 ##### President of Georgia
 ### [President of Georgia Mikheil Saakashvili names Interior Minister Vano Merabishvili as the country's new Prime Minister. ](/news/2012/06/30/president-of-georgia-mikheil-saakashvili-names-interior-minister-vano-merabishvili-as-the-country-s-new-prime-minister.md)
-_Context: President of Georgia, Mikheil Saakashvili, Prime Minister of Georgia, Vano Merabishvili_
+_Context: Prime Minister of Georgia, President of Georgia, Vano Merabishvili, Mikheil Saakashvili_
 
 ##### Molecule of the Year
 ### [The Molecule of the Year 2011 is BMP7 as announced by Isidro A. T. Savillo, President, ISMCBBPR. ](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.md)
-_Context: ISMCBBPR, BMP7, Molecule of the Year_
+_Context: ISMCBBPR, Molecule of the Year, BMP7_
 
 ## [Previous Day...](/news/2012/06/29/index.md)
 

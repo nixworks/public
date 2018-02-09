@@ -5,11 +5,11 @@ Formats: [HTML](2008/12/24/index.html)  [JSON](2008/12/24/index.json)  [XML](200
 
 ##### Mohamoud Mohamed Gacmodhere
 ### [ Mohamoud Mohamed Gacmodhere, who was appointed Prime Minister of Somalia by President Abdullahi Yusuf Ahmed last week, resigns. ](/news/2008/12/24/mohamoud-mohamed-gacmodhere-who-was-appointed-prime-minister-of-somalia-by-president-abdullahi-yusuf-ahmed-last-week-resigns.md)
-_Context: Prime Minister of Somalia, President, Somalia, Mohamoud Mohamed Gacmodhere, Abdullahi Yusuf Ahmed_
+_Context: President, Abdullahi Yusuf Ahmed, Prime Minister of Somalia, Somalia, Mohamoud Mohamed Gacmodhere_
 
 ##### Diet
 ### [ The National Diet of Japan approves a record budget of CNY88.55 trillion (US$980 billion) in response to the global economic downturn. ](/news/2008/12/24/the-national-diet-of-japan-approves-a-record-budget-of-cny88-55-trillion-us-980-billion-in-response-to-the-global-economic-downturn.md)
-_Context: Japan, Diet, yen, budget, current recession, $_
+_Context: budget, Japan, $, current recession, Diet, yen_
 
 ## [Previous Day...](/news/2008/12/23/index.md)
 

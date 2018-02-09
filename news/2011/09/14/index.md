@@ -9,15 +9,15 @@ The last survivors of a Taliban suicide squad have been killed ending a 20 hour 
 
 ##### Iraq
 ### [More than twenty people are killed and scores injured in attacks in Iraq, including 16 people killed in a car bombing in Babil Province. ](/news/2011/09/14/more-than-twenty-people-are-killed-and-scores-injured-in-attacks-in-iraq-including-16-people-killed-in-a-car-bombing-in-babil-province.md)
-_Context: Iraq, Babil Province, car bombing_
+_Context: car bombing, Babil Province, Iraq_
 
 ##### Archaeologist
 ### [Archaeologists in the US state of Maryland claim to have found a fort in the Zekiah Swamp in Charles County built to protect the "friendly" Piscataway Indians in 1680. ](/news/2011/09/14/archaeologists-in-the-us-state-of-maryland-claim-to-have-found-a-fort-in-the-zekiah-swamp-in-charles-county-built-to-protect-the-friendly.md)
-_Context: Charles County, Maryland, Zekiah Swamp, Piscataway Indians, Archaeologist_
+_Context: Zekiah Swamp, Charles County, Piscataway Indians, Archaeologist, Maryland_
 
 ##### Robert Zoellick
 ### [Robert Zoellick, the President of the World Bank, claims that the world economy has entered the "danger zone", with the United States, European Union and Japan having to make tough decisions. ](/news/2011/09/14/robert-zoellick-the-president-of-the-world-bank-claims-that-the-world-economy-has-entered-the-danger-zone-with-the-united-states-europ.md)
-_Context: Japan, Robert Zoellick, World Bank, United States, European Union_
+_Context: World Bank, European Union, Robert Zoellick, Japan, United States_
 
 ##### Tropical Storm Maria
 ### [Tropical Storm Maria is strengthening in the Atlantic Ocean with a hurricane watch issued in Bermuda for when it arrives either late tonight or tomorrow. ](/news/2011/09/14/tropical-storm-maria-is-strengthening-in-the-atlantic-ocean-with-a-hurricane-watch-issued-in-bermuda-for-when-it-arrives-either-late-tonight.md)
@@ -29,11 +29,11 @@ Former West Australian premier Brian Burke is set to face a new corruption trial
 
 ##### French-born
 ### [A French Appeals Court clears former Prime Minister Dominique de Villepin of charges of involvement in a smear campaign against current President Nicolas Sarkozy. ](/news/2011/09/14/a-french-appeals-court-clears-former-prime-minister-dominique-de-villepin-of-charges-of-involvement-in-a-smear-campaign-against-current-pres.md)
-_Context: Dominique de Villepin, Nicolas Sarkozy, French-born, French President, Prime Minister_
+_Context: French President, Dominique de Villepin, Nicolas Sarkozy, French-born, Prime Minister_
 
 ##### Paul Tiensten
 ### [Paul Tiensten, a former Minister in Papua New Guinea, flees to Australia after being summonsed in East New Britain Province to face charges of fraud and corruption. ](/news/2011/09/14/paul-tiensten-a-former-minister-in-papua-new-guinea-flees-to-australia-after-being-summonsed-in-east-new-britain-province-to-face-charges.md)
-_Context: Papua New Guinea, East New Britain Province, summons, Paul Tiensten, Australia_
+_Context: Paul Tiensten, Australia, Papua New Guinea, East New Britain Province, summons_
 
 ##### Conservative Party
 ### [Two days after his release from prison, British Conservative peer Lord Hanningfield is arrested on suspicion of fraudulently claiming expenses during his time as leader of Essex County Council. ](/news/2011/09/14/two-days-after-his-release-from-prison-british-conservative-peer-lord-hanningfield-is-arrested-on-suspicion-of-fraudulently-claiming-expens.md)
@@ -41,7 +41,7 @@ Lord Hanningfield, who was jailed for expenses fraud, has been arrested over mon
 
 ##### Court case
 ### [In a court case concerning the theft of Kevlar-related trade secrets, DuPont is awarded US$920 million in damages.](/news/2011/09/14/in-a-court-case-concerning-the-theft-of-kevlar-related-trade-secrets-dupont-is-awarded-us-920-million-in-damages.md)
-_Context: court case, DuPont, trade secrets, Kevlar_
+_Context: trade secrets, DuPont, Kevlar, court case_
 
 ##### Australian government
 ### [The Australian government's Minister for Broadband, Communications and the Digital Economy, Stephen Conroy, announces an inquiry into the national media. ](/news/2011/09/14/the-australian-government-s-minister-for-broadband-communications-and-the-digital-economy-stephen-conroy-announces-an-inquiry-into-the-na.md)

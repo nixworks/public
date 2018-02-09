@@ -17,7 +17,7 @@ Italian police say they have arrested 15 Muslim migrants after they allegedly th
 
 ##### Lawmakers
 ### [The United States Congress negotiates a deal to fast track the Trans-Pacific Partnership between the US and Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam. ](/news/2015/04/16/the-united-states-congress-negotiates-a-deal-to-fast-track-the-trans-pacific-partnership-between-the-us-and-australia-brunei-canada-chile.md)
-_Context: Mexico, Malaysia, Japan, lawmakers, Vietnam, Australia, Trans-Pacific Partnership, New Zealand, Brunei, Chile, Canadian, Peru, Singapore_
+_Context: Mexico, Trans-Pacific Partnership, Singapore, Japan, New Zealand, Brunei, Australia, lawmakers, Vietnam, Peru, Chile, Canadian, Malaysia_
 
 ##### Phoenix, Arizona
 ### [Five people are found dead after a business dispute in Phoenix, Arizona. ](/news/2015/04/16/five-people-are-found-dead-after-a-business-dispute-in-phoenix-arizona.md)

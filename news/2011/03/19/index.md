@@ -21,7 +21,7 @@ Hamas military wing claims responsibility for more than 50 mortar shells fired a
 
 ##### Polar bear
 ### [The polar bear Knut dies at the Berlin Zoo. ](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.md)
-_Context: Berlin Zoo, Knut, polar bear_
+_Context: Berlin Zoo, polar bear, Knut_
 
 ##### Tripura
 ### [A fire at a refugee camp in Tripura, northeastern India, kills at least 14 people. ](/news/2011/03/19/a-fire-at-a-refugee-camp-in-tripura-northeastern-india-kills-at-least-14-people.md)
@@ -33,7 +33,7 @@ Jakarta: At least 600 people have been evacuated to temporary shelters a day aft
 
 ##### Japan
 ### [Construction of temporary housing begins in the Japanese town of Rikuzentakata severely damaged in the 2011 Tohoku earthquake and tsunami. ](/news/2011/03/19/construction-of-temporary-housing-begins-in-the-japanese-town-of-rikuzentakata-severely-damaged-in-the-2011-tahoku-earthquake-and-tsunami.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami, Rikuzentakata_
+_Context: 2011 Tohoku earthquake and tsunami, Rikuzentakata, Japan_
 
 ##### Fukushima I nuclear accidents
 ### [The problems at the Fukushima I Nuclear Power Plant are upgraded to Level 5 on the International Nuclear Events Scale, the same as the Three Mile Island accident. ](/news/2011/03/19/the-problems-at-the-fukushima-i-nuclear-power-plant-are-upgraded-to-level-5-on-the-international-nuclear-events-scale-the-same-as-the-three.md)
@@ -41,11 +41,11 @@ Repercussions of Japan&#39;s triple disaster came into clearer focus Monday afte
 
 ##### U.S. Coast Guard
 ### [The U.S. Coast Guard begins investigating a reported oil spill in the Gulf of Mexico. ](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.md)
-_Context: U.S. Coast Guard, Gulf of Mexico, oil spill_
+_Context: oil spill, U.S. Coast Guard, Gulf of Mexico_
 
 ##### Carlos Pascual
 ### [Carlos Pascual resigns as United States Ambassador to Mexico due in part to tensions with the President of Mexico Felipe Calderon. ](/news/2011/03/19/carlos-pascual-resigns-as-united-states-ambassador-to-mexico-due-in-part-to-tensions-with-the-president-of-mexico-felipe-caldera3n.md)
-_Context: Carlos Pascual, Felipe Calderon, United States Ambassador to Mexico, President_
+_Context: Felipe Calderon, Carlos Pascual, President, United States Ambassador to Mexico_
 
 ##### Edinburgh University
 ### [Edinburgh University students vote in favour of boycotting Israeli goods and services, citing Israeli treatment of Palestinians.](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.md)
@@ -61,7 +61,7 @@ Millions of Egyptians vote in a referendum on constitutional reforms, a month af
 
 ##### Egyptian presidential election in September
 ### [Egyptian presidential hopeful Mohamed ElBaradei is pelted with rocks, bottles and cans in Cairo. ](/news/2011/03/19/egyptian-presidential-hopeful-mohamed-elbaradei-is-pelted-with-rocks-bottles-and-cans-in-cairo.md)
-_Context: Mohamed ElBaradei, Egyptian presidential election in September, Cairo_
+_Context: Egyptian presidential election in September, Cairo, Mohamed ElBaradei_
 
 ##### 14th Dalai Lama
 ### [The 14th Dalai Lama's submitted resignation as Head of State of the Central Tibetan Administration is denied by the Tibetan Parliament-in-exile. ](/news/2011/03/19/the-14th-dalai-lama-s-submitted-resignation-as-head-of-state-of-the-central-tibetan-administration-is-denied-by-the-tibetan-parliament-in-ex.md)
@@ -73,15 +73,15 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Iraq War
 ### [Anti-Iraq War demonstrators are arrested outside the White House in Washington DC including Daniel Ellsberg, the man who leaked the Pentagon Papers. ](/news/2011/03/19/anti-iraq-war-demonstrators-are-arrested-outside-the-white-house-in-washington-dc-including-daniel-ellsberg-the-man-who-leaked-the-pentagon.md)
-_Context: Pentagon Papers, White House, Iraq War, Washington DC, Daniel Ellsberg_
+_Context: Washington DC, Pentagon Papers, White House, Daniel Ellsberg, Iraq War_
 
 ##### Peru
 ### [Peruvian President Alan Garcia swears in Rosario Fernandez as Prime Minister, after the sudden resignation of Jose Antonio Chang. ](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.md)
-_Context: Prime Minister, Rosario Fernandez, Jose Antonio Chang, Alan Garcia, Peru, President_
+_Context: Peru, Rosario Fernandez, Jose Antonio Chang, Alan Garcia, President, Prime Minister_
 
 ##### Moon
 ### [The moon reaches its closest point to the Earth since March 1993, and will appear 30% brighter and 14% larger than at its furthest point. ](/news/2011/03/19/the-moon-reaches-its-closest-point-to-the-earth-since-march-1993-and-will-appear-30-brighter-and-14-larger-than-at-its-furthest-point.md)
-_Context: moon, closest point_
+_Context: closest point, moon_
 
 ## [Previous Day...](/news/2011/03/18/index.md)
 

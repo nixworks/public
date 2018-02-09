@@ -25,7 +25,7 @@ _Context: Typhoon Wipha, Japan_
 
 ##### Malala Yousafzai
 ### [Malala Yousafzai will be awarded with Honorary Canadian citizenship. ](/news/2013/10/16/malala-yousafzai-will-be-awarded-with-honorary-canadian-citizenship.md)
-_Context: Honorary Canadian citizenship, Malala Yousafzai_
+_Context: Malala Yousafzai, Honorary Canadian citizenship_
 
 ##### Miami International Airport
 ### [A terminal at Miami International Airport was briefly evacuated after a bomb-sniffing dog discovers "a possible explosive device". ](/news/2013/10/16/a-terminal-at-miami-international-airport-was-briefly-evacuated-after-a-bomb-sniffing-dog-discovers-a-possible-explosive-device.md)

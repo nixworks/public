@@ -21,7 +21,7 @@ A suicide car bomb attack by the Somali Islamist group al-Shabab kills four peop
 
 ##### Nairobi
 ### [A six-story building collapse in Nairobi, Kenya, kills one person and leaves several others injured. ](/news/2015/01/4/a-six-story-building-collapse-in-nairobi-kenya-kills-one-person-and-leaves-several-others-injured.md)
-_Context: Nairobi, Kenya_
+_Context: Kenya, Nairobi_
 
 ##### Pope Francis
 ### [Pope Francis announces the appointment of 20 new Cardinals, many of them coming from outside of Europe. ](/news/2015/01/4/pope-francis-announces-the-appointment-of-20-new-cardinals-many-of-them-coming-from-outside-of-europe.md)

@@ -17,7 +17,7 @@ A major chunk of the funding &ndash; US$1.5 billion &ndash; has been committed b
 
 ##### Floods in Japan
 ### [The death toll from recent torrential rain and flooding in Kyushu in southern Japan rises to 25. ](/news/2017/07/11/the-death-toll-from-recent-torrential-rain-and-flooding-in-kyushu-in-southern-japan-rises-to-25.md)
-_Context: Kyushu, Japan, Floods in Japan_
+_Context: Japan, Floods in Japan, Kyushu_
 
 ##### Meningococcal vaccine
 ### [Researchers in New Zealand have discovered that the MeNZB vaccine for meningitis may protect against gonorrhea by 30%. ](/news/2017/07/11/researchers-in-new-zealand-have-discovered-that-the-menzb-vaccine-for-meningitis-may-protect-against-gonorrhea-by-30.md)

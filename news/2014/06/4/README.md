@@ -9,11 +9,11 @@ Separatist rebels take Ukrainian military bases in the eastern region of Luhansk
 
 ##### Khalifa Haftar
 ### [A suicide car bomber detonates his vehicle at the residence of Khalifa Haftar in Benghazi, Libya, killing 4 of his guards and injuring another 3. ](/news/2014/06/4/a-suicide-car-bomber-detonates-his-vehicle-at-the-residence-of-khalifa-haftar-in-benghazi-libya-killing-4-of-his-guards-and-injuring-anoth.md)
-_Context: Benghazi, Libya, Khalifa Haftar_
+_Context: Libya, Benghazi, Khalifa Haftar_
 
 ##### Islamabad
 ### [A suicide bomber detonates his explosives near a military vehicle in Islamabad, Pakistan, killing 5 people. ](/news/2014/06/4/a-suicide-bomber-detonates-his-explosives-near-a-military-vehicle-in-islamabad-pakistan-killing-5-people.md)
-_Context: Islamabad, Pakistan_
+_Context: Pakistan, Islamabad_
 
 ##### John Banville
 ### [The master stylist John Banville wins this year's Prince of Asturias Award for Literature, announced in Oviedo, Spain. ](/news/2014/06/4/the-master-stylist-john-banville-wins-this-year-s-prince-of-asturias-award-for-literature-announced-in-oviedo-spain.md)
@@ -45,11 +45,11 @@ The mayor of Venice is among 35 people arrested in Italy over alleged corruption
 
 ##### Attorney General of Germany
 ### [The Attorney General of Germany, Harald Range, opens an investigation into the alleged NSA surveillance of Chancellor Angela Merkel's phone. ](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.md)
-_Context: NSA, surveillance of Chancellor Angela Merkel's phone, Harald Range, Attorney General of Germany_
+_Context: surveillance of Chancellor Angela Merkel's phone, NSA, Harald Range, Attorney General of Germany_
 
 ##### International Court of Arbitration
 ### [The International Court of Arbitration in The Hague urges China to respond to "Philippines v. China", the case filed by the Philippines regarding the Nine-dotted line. ](/news/2014/06/4/the-international-court-of-arbitration-in-the-hague-urges-china-to-respond-to-philippines-v-china-the-case-filed-by-the-philippines-rega.md)
-_Context: Philippines, The Hague, International Court of Arbitration, China, court decision, sweeping claim_
+_Context: International Court of Arbitration, The Hague, China, court decision, sweeping claim, Philippines_
 
 ##### Moncton
 ### [In the city of Moncton, New Brunswick, Canada, an armed gunman shoots five RCMP officers, killing three. ](/news/2014/06/4/in-the-city-of-moncton-new-brunswick-canada-an-armed-gunman-shoots-five-rcmp-officers-killing-three.md)

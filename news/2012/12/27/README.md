@@ -17,11 +17,11 @@ Toyota Motor Corp., moving to put years of legal problems behind it, has agreed 
 
 ##### New York
 ### [A New York state appeals court dismissed a lawsuit brought by several hedge funds against Porsche Automobil Holding, in a controversy that dates to the volatility of the stock price of Volkswagen in October 2008. ](/news/2012/12/27/a-new-york-state-appeals-court-dismissed-a-lawsuit-brought-by-several-hedge-funds-against-porsche-automobil-holding-in-a-controversy-that-d.md)
-_Context: New York, Volkswagen, hedge funds, state appeals court, Porsche Automobil Holding_
+_Context: Volkswagen, hedge funds, state appeals court, Porsche Automobil Holding, New York_
 
 ##### Japan
 ### [Japan's Coast Guard sends a rescue team to the Russian fishing trawler "Alanet" with 24 fishermen on board which is in distress off Japanese Hokkaido Island. ](/news/2012/12/27/japan-s-coast-guard-sends-a-rescue-team-to-the-russian-fishing-trawler-alanet-with-24-fishermen-on-board-which-is-in-distress-off-japanese.md)
-_Context: Hokkaido Island, Russia, fishing trawler, Japan, fishermen, rescue team, Japan Coast Guard_
+_Context: rescue team, Russia, Hokkaido Island, fishing trawler, fishermen, Japan Coast Guard, Japan_
 
 ##### Private investigator
 ### [Private investigator Paul Huebl claims Whitney Houston was killed by drug dealers in February 2012 after clocking up a $1.5 million debt. ](/news/2012/12/27/private-investigator-paul-huebl-claims-whitney-houston-was-killed-by-drug-dealers-in-february-2012-after-clocking-up-a-1-5-million-debt.md)
@@ -33,11 +33,11 @@ Iranian President MahmoudAhmadinejad on Thursday dismissed his only female cabin
 
 ##### Bilawal Bhutto Zardari
 ### [Bilawal Bhutto Zardari, the son of Pakistan's murdered ex-Prime Minister Benazir Bhutto, promises to fight militancy and maintain democracy, in his first major political speech marking five years since his mother's death. ](/news/2012/12/27/bilawal-bhutto-zardari-the-son-of-pakistan-s-murdered-ex-prime-minister-benazir-bhutto-promises-to-fight-militancy-and-maintain-democracy.md)
-_Context: Prime Minister, Benazir Bhutto, Bilawal Bhutto Zardari, Pakistan, Assassination of Benazir Bhutto_
+_Context: Pakistan, Benazir Bhutto, Prime Minister, Bilawal Bhutto Zardari, Assassination of Benazir Bhutto_
 
 ##### Catholic
 ### [Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. ](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.md)
-_Context: Ireland, Abortion in the Republic of Ireland, abortion, Catholic Church, Sean Brady, Catholic_
+_Context: Sean Brady, Catholic, Ireland, abortion, Abortion in the Republic of Ireland, Catholic Church_
 
 ##### Harry Reid
 ### [Harry Reid, the Democratic US Senate leader, says the U.S. appears to be heading over the fiscal cliff, with tax raises and spending cuts imminent. ](/news/2012/12/27/harry-reid-the-democratic-us-senate-leader-says-the-u-s-appears-to-be-heading-over-the-fiscal-cliff-with-tax-raises-and-spending-cuts-im.md)

@@ -25,7 +25,7 @@ _Context: Pope Francis, saints_
 
 ##### Footbridge
 ### [The collapse of a footbridge connecting the islands of Lembongan and Ceningan, near Bali, Indonesia, leaves 9 dead and 30 injured. ](/news/2016/10/16/the-collapse-of-a-footbridge-connecting-the-islands-of-lembongan-and-ceningan-near-bali-indonesia-leaves-9-dead-and-30-injured.md)
-_Context: Ceningan, footbridge, Bali, Indonesia, Lembongan_
+_Context: Lembongan, Ceningan, Bali, Indonesia, footbridge_
 
 ##### Yemeni Crisis
 ### [The United States and the United Kingdom call for, "within hours," an immediate and unconditional ceasefire in Yemen to end the violence following last week's Saudi airstrikes, based on bad information, that killed around 140 people. ](/news/2016/10/16/the-united-states-and-the-united-kingdom-call-for-within-hours-an-immediate-and-unconditional-ceasefire-in-yemen-to-end-the-violence-fol.md)
@@ -33,15 +33,15 @@ The United States and Britain called on Sunday for an immediate and unconditiona
 
 ##### Arson
 ### [An arsonist firebombs a Republican Party office in Hillsborough, North Carolina, and leaves a graffiti message reading, "Nazi Republicans get out of town or else." ](/news/2016/10/16/an-arsonist-firebombs-a-republican-party-office-in-hillsborough-north-carolina-and-leaves-a-graffiti-message-reading-nazi-republicans-ge.md)
-_Context: Hillsborough, North Carolina, Republican, Nazi, arson_
+_Context: arson, Nazi, Republican, Hillsborough, North Carolina_
 
 ##### Montenegrin parliamentary election, 2016
 ### [With over 95 percent of votes counted, Prime Minister Milo Dukanovic's Democratic Party of Socialists receives the most votes in this quadrennial election, but, by five seats, fails to gain an absolute majority. Djukanovic says he will seek a coalition with parties of national minorities. ](/news/2016/10/16/with-over-95-percent-of-votes-counted-prime-minister-milo-aukanovia-s-democratic-party-of-socialists-receives-the-most-votes-in-this-quad.md)
-_Context: Montenegrin parliamentary election, 2016, Democratic Party of Socialists, Milo Dukanovic, Prime Minister_
+_Context: Milo Dukanovic, Montenegrin parliamentary election, 2016, Prime Minister, Democratic Party of Socialists_
 
 ##### ExoMars project
 ### [The European Space Agency-Roscosmos operated Schiaparelli EDM lander successfully separates from the ExoMars Trace Gas Orbiter spacecraft, beginning a three-day descent to the surface of Mars. ](/news/2016/10/16/the-european-space-agency-roscosmos-operated-schiaparelli-edm-lander-successfully-separates-from-the-exomars-trace-gas-orbiter-spacecraft-b.md)
-_Context: Roscosmos, ''Schiaparelli'' lander, Mars, ExoMars project, European Space Agency, ExoMars Trace Gas Orbiter_
+_Context: European Space Agency, ''Schiaparelli'' lander, Roscosmos, ExoMars project, ExoMars Trace Gas Orbiter, Mars_
 
 ## [Previous Day...](/news/2016/10/15/index.md)
 

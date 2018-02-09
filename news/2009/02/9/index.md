@@ -5,19 +5,19 @@ Formats: [HTML](2009/02/9/index.html)  [JSON](2009/02/9/index.json)  [XML](2009/
 
 ##### Sussex spaniel
 ### [ Ten-year-old Sussex spaniel Clussexx Three D Grinchy Glee wins the 2009 Westminster Kennel Club Dog Show's Best-in-Show Award. ](/news/2009/02/9/ten-year-old-sussex-spaniel-clussexx-three-d-grinchy-glee-wins-the-2009-westminster-kennel-club-dog-show-s-best-in-show-award.md)
-_Context: dog show, Clussexx Three D Grinchy Glee, wins, Sussex spaniel, Westminster Kennel Club Dog Show_
+_Context: wins, Sussex spaniel, Clussexx Three D Grinchy Glee, Westminster Kennel Club Dog Show, dog show_
 
 ##### Mummies
 ### [ Thirty mummies are discovered in a 2,600-year-old ancient Egyptian tomb at Saqqara. ](/news/2009/02/9/thirty-mummies-are-discovered-in-a-2-600-year-old-ancient-egyptian-tomb-at-saqqara.md)
-_Context: Ancient Egypt, Saqqara, mummies, tomb_
+_Context: Saqqara, mummies, Ancient Egypt, tomb_
 
 ##### Bishop
 ### [ Bishop Richard Williamson is removed from a Roman Catholic seminary in Argentina after denying the Holocaust. ](/news/2009/02/9/bishop-richard-williamson-is-removed-from-a-roman-catholic-seminary-in-argentina-after-denying-the-holocaust.md)
-_Context: seminary, Roman Catholic Church, Holocaust, Bishop, Argentina, Richard Williamson, Holocaust denial_
+_Context: Roman Catholic Church, Richard Williamson, Argentina, Holocaust, Holocaust denial, seminary, Bishop_
 
 ##### Japan
 ### [ Japan's Nissan Motors cuts 20,000 jobs because of the global economic downturn. ](/news/2009/02/9/japan-s-nissan-motors-cuts-20-000-jobs-because-of-the-global-economic-downturn.md)
-_Context: current recession, Nissan Motors, Japan_
+_Context: current recession, Japan, Nissan Motors_
 
 ##### Cecile Manorohanta
 ### [ Cecile Manorohanta resigns as Madagascar's Minister for Defense. ](/news/2009/02/9/ca-c-cile-manorohanta-resigns-as-madagascar-s-minister-for-defense.md)
@@ -25,19 +25,19 @@ _Context: Defense Minister, Madagascar, Cecile Manorohanta_
 
 ##### Recent bushfires
 ### [ Bushfires in Victoria, Australia, have now killed at least 130 people and destroyed at least 750 homes. ](/news/2009/02/9/bushfires-in-victoria-australia-have-now-killed-at-least-130-people-and-destroyed-at-least-750-homes.md)
-_Context: recent bushfires, Australia, Victoria_
+_Context: Victoria, recent bushfires, Australia_
 
 ##### LTTE
 ### [ A Tamil Tiger suicide bomber kills 28 people and injures 90 others at a Sri Lankan refugee camp. ](/news/2009/02/9/a-tamil-tiger-suicide-bomber-kills-28-people-and-injures-90-others-at-a-sri-lankan-refugee-camp.md)
-_Context: refugee camp, Sri Lankan Civil War, suicide bombing, Sri Lanka, LTTE_
+_Context: Sri Lanka, suicide bombing, refugee camp, Sri Lankan Civil War, LTTE_
 
 ##### Associated Press
 ### [ The Associated Press receives a video showing Pakistani militants beheading kidnapped Polish engineer Piotr Stanczak. ](/news/2009/02/9/the-associated-press-receives-a-video-showing-pakistani-militants-beheading-kidnapped-polish-engineer-piotr-stanczak.md)
-_Context: militant, engineer, Associated Press, Polish, Pakistan_
+_Context: engineer, Associated Press, militant, Polish, Pakistan_
 
 ##### Al-Qaeda
 ### [ A video confirms that al-Qaeda has kidnapped Canadian diplomat Robert Fowler in Niger. ](/news/2009/02/9/a-video-confirms-that-al-qaeda-has-kidnapped-canadian-diplomat-robert-fowler-in-niger.md)
-_Context: al-Qaeda, Robert Fowler, diplomat, Niger, Canadian_
+_Context: diplomat, al-Qaeda, Robert Fowler, Canadian, Niger_
 
 ##### Major League Baseball
 ### [ Major League Baseball player Alex Rodriguez admits using performance-enhancing drugs between 2001 and 2003. ](/news/2009/02/9/major-league-baseball-player-alex-rodriguez-admits-using-performance-enhancing-drugs-between-2001-and-2003.md)

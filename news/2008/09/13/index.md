@@ -17,11 +17,11 @@ A tropical storm warning remains in effect from east of sargent texas eastward t
 
 ##### Lowgar Province
 ### [ Abullah Wardak, the Governor of the Lowgar Province of Afghanistan, is assassinated in a car bomb. ](/news/2008/09/13/abullah-wardak-the-governor-of-the-lowgar-province-of-afghanistan-is-assassinated-in-a-car-bomb.md)
-_Context: Lowgar Province, Afghanistan_
+_Context: Afghanistan, Lowgar Province_
 
 ##### Deadly landslide
 ### [ A mudslide caused by an illegal mine in Shanxi province in China kills 254 people. ](/news/2008/09/13/a-mudslide-caused-by-an-illegal-mine-in-shanxi-province-in-china-kills-254-people.md)
-_Context: Shanxi province, deadly landslide, China_
+_Context: China, Shanxi province, deadly landslide_
 
 ##### Sichuan
 ### [ A bus crashes into a 100 m gorge in Sichuan, China, killing 51. ](/news/2008/09/13/a-bus-crashes-into-a-100-m-gorge-in-sichuan-china-killing-51.md)
@@ -29,7 +29,7 @@ _Context: Sichuan, China_
 
 ##### All Blacks
 ### [ The All Blacks defeat Australia (28-24) to win the 2008 Tri Nations Series at the Suncorp Stadium in Brisbane, Australia. ](/news/2008/09/13/the-all-blacks-defeat-australia-28a24-to-win-the-2008-tri-nations-series-at-the-suncorp-stadium-in-brisbane-australia.md)
-_Context: All Blacks, Suncorp Stadium, Australia, Australia, Brisbane, 2008 Tri Nations Series_
+_Context: Australia, 2008 Tri Nations Series, Suncorp Stadium, Australia, All Blacks, Brisbane_
 
 ##### 
 ### [ Russians troops leave west, but remain in Georgia. ](/news/2008/09/13/russians-troops-leave-west-but-remain-in-georgia.md)

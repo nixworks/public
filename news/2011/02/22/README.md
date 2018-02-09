@@ -21,7 +21,7 @@ Iranian security forces have arrested a son of opposition leader Mehdi Karoubi, 
 
 ##### Jamaica
 ### [Jamaican reggae singer Buju Banton is found guilty on drugs charges in the U.S. state of Florida. ](/news/2011/02/22/jamaican-reggae-singer-buju-banton-is-found-guilty-on-drugs-charges-in-the-u-s-state-of-florida.md)
-_Context: Buju Banton, reggae, the state, drugs, Jamaica_
+_Context: drugs, Buju Banton, reggae, the state, Jamaica_
 
 ##### Moody's Investors Service
 ### [Moody's Investors Service downgrades Japan's credit rating due to concerns over high levels of government debt. ](/news/2011/02/22/moody-s-investors-service-downgrades-japan-s-credit-rating-due-to-concerns-over-high-levels-of-government-debt.md)
@@ -33,7 +33,7 @@ U.S. life insurer Metlife Inc (MET.N) has drawn three bidders for its Taiwan uni
 
 ##### Libya
 ### [Uncertainty in Libya leads to falls in world stock markets and increases in crude oil prices. ](/news/2011/02/22/uncertainty-in-libya-leads-to-falls-in-world-stock-markets-and-increases-in-crude-oil-prices.md)
-_Context: stock market, Libya, crude oil_
+_Context: Libya, stock market, crude oil_
 
 ##### 2011 Canterbury earthquake
 ### [An earthquake of 6.3 magnitude strikes the region of Canterbury in the South Island of New Zealand, disrupting communications to the area and closing Christchurch Airport. ](/news/2011/02/22/an-earthquake-of-6-3-magnitude-strikes-the-region-of-canterbury-in-the-south-island-of-new-zealand-disrupting-communications-to-the-area-an.md)
@@ -73,7 +73,7 @@ _Context: Indiana House of Representatives, Democrat_
 
 ##### USA
 ### [Voters in the USA city of Chicago go to the polls for the Chicago mayoral election with former White House Chief of Staff Rahm Emanuel winning. ](/news/2011/02/22/voters-in-the-usa-city-of-chicago-go-to-the-polls-for-the-chicago-mayoral-election-with-former-white-house-chief-of-staff-rahm-emanuel-winni.md)
-_Context: Chicago mayoral election, USA, Chicago, Illinois, White House Chief of Staff, Rahm Emanuel_
+_Context: Chicago mayoral election, Chicago, Illinois, Rahm Emanuel, USA, White House Chief of Staff_
 
 ## [Previous Day...](/news/2011/02/21/index.md)
 

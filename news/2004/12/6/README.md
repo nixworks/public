@@ -9,19 +9,19 @@ _Context: Houston Rockets, Calvin Murphy_
 
 ##### Sinn Fin
 ### [ Sinn Fin leader Gerry Adams recommends that Sinn Fin support a British-Irish power-sharing plan for Northern Ireland that involves the public decommissioning of the arms held by the Irish Republican Army. Ian Paisley of the loyalist Democratic Unionist Party may become first minister of Northern Ireland, with former IRA member Martin McGuinness as his deputy. ](/news/2004/12/6/sinn-fein-leader-gerry-adams-recommends-that-sinn-fein-support-a-british-irish-power-sharing-plan-for-northern-ireland-that-involves-the-pu.md)
-_Context: Democratic Unionist Party, Gerry Adams, Irish, Unionists, Ian Paisley, Sinn Fin, Irish Republican Army, Northern Ireland, Martin McGuinness_
+_Context: Irish Republican Army, Gerry Adams, Unionists, Martin McGuinness, Northern Ireland, Irish, Sinn Fin, Ian Paisley, Democratic Unionist Party_
 
 ##### Jeddah
 ### [ The U.S. consular compound in Jeddah, Saudi Arabia, is stormed by gunmen, who kill nine Saudis in a four-hour battle but do not gain entry to the consulate building itself. Saudi security forces kill three of the gunmen, arrest two others, and pursue several more. There are no Americans dead, though some are slightly wounded. ](/news/2004/12/6/the-u-s-consular-compound-in-jeddah-saudi-arabia-is-stormed-by-gunmen-who-kill-nine-saudis-in-a-four-hour-battle-but-do-not-gain-entry.md)
-_Context: Jeddah, Saudi Arabia, consulate_
+_Context: Saudi Arabia, consulate, Jeddah_
 
 ##### Basque
 ### [ In Spain the Basque separatist group ETA detonate seven bombs in bars, cafes and town squares across the country. The cities attacked are Len, vila, Santillana del Mar, Ciudad Real, Mlaga, Valladolid, and Alicante. All the attacks were preceded by warnings and nobody was seriously hurt. ](/news/2004/12/6/in-spain-the-basque-separatist-group-eta-detonate-seven-bombs-in-bars-cafes-and-town-squares-across-the-country-the-cities-attacked-are-l.md)
-_Context: Santillana del Mar, vila, Ciudad Real, Alicante, Basque, Mlaga, bombs, ETA, Len, Valladolid_
+_Context: Alicante, Basque, Mlaga, Len, Ciudad Real, vila, Valladolid, Santillana del Mar, ETA, bombs_
 
 ##### Ukrainian presidential election controversy
 ### [ Ukrainian presidential election controversy: EU foreign policy chief Javier Solana has returned to Ukraine for talks on the country's political crisis.](/news/2004/12/6/ukrainian-presidential-election-controversy-eu-foreign-policy-chief-javier-solana-has-returned-to-ukraine-for-talks-on-the-country-s-polit.md)
-_Context: European Union, Javier Solana, Ukrainian presidential election controversy, Ukraine_
+_Context: Ukrainian presidential election controversy, European Union, Javier Solana, Ukraine_
 
 ## [Previous Day...](/news/2004/12/5/index.md)
 

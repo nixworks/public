@@ -17,11 +17,11 @@ _Context: Mahmoud Abbas, Palestinian Authority President, Gaza Strip_
 
 ##### Ipswich
 ### [ Police in Ipswich, UK are hunting a possible serial killer after five prostitutes are found dead within the last ten days. ](/news/2006/12/12/police-in-ipswich-uk-are-hunting-a-possible-serial-killer-after-five-prostitutes-are-found-dead-within-the-last-ten-days.md)
-_Context: United Kingdom, Ipswich murder case, prostitute, Ipswich_
+_Context: Ipswich murder case, United Kingdom, Ipswich, prostitute_
 
 ##### Vietnam
 ### [ Vietnam will become the 150th member of the World Trade Organization on January 11, 2007. The move finalises Hanoi's near-12-year wait to join the WTO. ](/news/2006/12/12/vietnam-will-become-the-150th-member-of-the-world-trade-organization-on-january-11-2007-the-move-finalises-hanoi-s-near-12-year-wait-to-j.md)
-_Context: Vietnam, World Trade Organization_
+_Context: World Trade Organization, Vietnam_
 
 ## [Previous Day...](/news/2006/12/11/index.md)
 

@@ -9,7 +9,7 @@ Anti-government protesters in Bahrain flooded a main highway in a march stretchi
 
 ##### Head-on collision
 ### [Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. ](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.md)
-_Context: head-on collision, Amsterdam, Sloterdijk, Netherlands_
+_Context: Sloterdijk, Amsterdam, Netherlands, head-on collision_
 
 ##### Japan
 ### [Japan agrees to write off more than US$3.7 billion of debt owed by Burma and to resume development aid. ](/news/2012/04/21/japan-agrees-to-write-off-more-than-us-3-7-billion-of-debt-owed-by-burma-and-to-resume-development-aid.md)
@@ -21,15 +21,15 @@ The US Secret Service says three more employees are resigning over the prostitut
 
 ##### Kenya
 ### [Rangers in Kenya shoot dead five poachers in a clash in the Great Rift Valley. ](/news/2012/04/21/rangers-in-kenya-shoot-dead-five-poachers-in-a-clash-in-the-great-rift-valley.md)
-_Context: Kenya, poachers, Great Rift Valley_
+_Context: poachers, Great Rift Valley, Kenya_
 
 ##### Rutte cabinet
 ### [The Rutte cabinet, the minority cabinet of the Netherlands, collapses after partner Party for Freedom suspends its support. ](/news/2012/04/21/the-rutte-cabinet-the-minority-cabinet-of-the-netherlands-collapses-after-partner-party-for-freedom-suspends-its-support.md)
-_Context: Rutte cabinet, Netherlands, Party for Freedom_
+_Context: Netherlands, Rutte cabinet, Party for Freedom_
 
 ##### Species
 ### [Four new species of freshwater crab &ndash;bright purple in colour&ndash; are found in the Philippines. ](/news/2012/04/21/four-new-species-of-freshwater-crab-ndash-bright-purple-in-colour-ndash-are-found-in-the-philippines.md)
-_Context: Philippines, species_
+_Context: species, Philippines_
 
 ## [Previous Day...](/news/2012/04/20/index.md)
 

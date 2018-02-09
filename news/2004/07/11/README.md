@@ -9,15 +9,15 @@ _Context: Iraq, Ashraf Jehangir Qazi, Kofi Annan_
 
 ##### Boris Tadic
 ### [ Boris Tadic is inaugurated as the President of Serbia after winning the Serbian presidential election, 2004. ](/news/2004/07/11/boris-tadic-is-inaugurated-as-the-president-of-serbia-after-winning-the-serbian-presidential-election-2004.md)
-_Context: President of Serbia, inauguration, Boris Tadic, Serbian presidential election, 2004_
+_Context: Boris Tadic, inauguration, Serbian presidential election, 2004, President of Serbia_
 
 ##### Flash flood
 ### [ Flash floods caused by severe hail and rain strike Edmonton, Alberta (Canada), causing widespread damage including structural damage to the West Edmonton Mall. ](/news/2004/07/11/flash-floods-caused-by-severe-hail-and-rain-strike-edmonton-alberta-canada-causing-widespread-damage-including-structural-damage-to-the.md)
-_Context: hail, Alberta, Edmonton, Alberta, rain, Flash flood, West Edmonton Mall_
+_Context: Flash flood, West Edmonton Mall, rain, Edmonton, Alberta, hail, Alberta_
 
 ##### Monsoon
 ### [ Monsoon rains force millions of people to flee their homes in India, Nepal and Bangladesh. At least 80 people are reported killed. ](/news/2004/07/11/monsoon-rains-force-millions-of-people-to-flee-their-homes-in-india-nepal-and-bangladesh-at-least-80-people-are-reported-killed.md)
-_Context: Monsoon, Bangladesh, Nepal_
+_Context: Nepal, Monsoon, Bangladesh_
 
 ## [Previous Day...](/news/2004/07/10/index.md)
 

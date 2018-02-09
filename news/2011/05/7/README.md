@@ -9,7 +9,7 @@ Residents form a human chain in a bid to halt troops from sweeping into the coas
 
 ##### Civil war
 ### [The Libyan Armed Forces bomb large fuel storage tanks in the town of Misrata, destroying the tanks and causing a large fire. ](/news/2011/05/7/the-libyan-armed-forces-bomb-large-fuel-storage-tanks-in-the-town-of-misrata-destroying-the-tanks-and-causing-a-large-fire.md)
-_Context: Misrata, its armed forces, civil war_
+_Context: its armed forces, Misrata, civil war_
 
 ##### Nigeria
 ### [Sectarian violence in northern Nigeria kills at least 16 people. ](/news/2011/05/7/sectarian-violence-in-northern-nigeria-kills-at-least-16-people.md)
@@ -45,19 +45,19 @@ There were no survivors from the crash of an Indonesian passenger aircraft into 
 
 ##### Bolivia
 ### [The wreckage of a plane that crashed in Bolivia on Thursday has been found with four United Nations staff and two pilots dead. ](/news/2011/05/7/the-wreckage-of-a-plane-that-crashed-in-bolivia-on-thursday-has-been-found-with-four-united-nations-staff-and-two-pilots-dead.md)
-_Context: United Nations, Bolivia_
+_Context: Bolivia, United Nations_
 
 ##### China
 ### [China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. ](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.md)
-_Context: China, Xinjiang, Tajikistan, Kyrgyzstan_
+_Context: Kyrgyzstan, China, Tajikistan, Xinjiang_
 
 ##### Russia
 ### [Three Russian human rights activists monitoring trials of opposition activists in Belarus are expelled. ](/news/2011/05/7/three-russian-human-rights-activists-monitoring-trials-of-opposition-activists-in-belarus-are-expelled.md)
-_Context: Russia, Belarus_
+_Context: Belarus, Russia_
 
 ##### Yomiuri
 ### [The "Yomiuri" reports that Japan and the United States have given up on plans to relocate Marine Corps Air Station Futenma from Okinawa by 2014. ](/news/2011/05/7/the-yomiuri-reports-that-japan-and-the-united-states-have-given-up-on-plans-to-relocate-marine-corps-air-station-futenma-from-okinawa-by-2.md)
-_Context: United States, Japan, Okinawa, Yomiuri, Marine Corps Air Station Futenma_
+_Context: Yomiuri, Okinawa, Japan, United States, Marine Corps Air Station Futenma_
 
 ##### People's Action Party
 ### [The ruling People's Action Party retains control of government, winning 81 of 87 seats. ](/news/2011/05/7/the-ruling-people-s-action-party-retains-control-of-government-winning-81-of-87-seats.md)
@@ -65,11 +65,11 @@ Singapore’s long-governing People’s Action Party (PAP) won an absolute parli
 
 ##### Scottish National Party
 ### [The Scottish National Party urges British Prime Minister David Cameron to amend the Scotland Bill to give the Scottish Parliament greater legislative powers. ](/news/2011/05/7/the-scottish-national-party-urges-british-prime-minister-david-cameron-to-amend-the-scotland-bill-to-give-the-scottish-parliament-greater-le.md)
-_Context: Scottish Parliament, Scottish National Party, Scotland Bill, David Cameron_
+_Context: Scottish Parliament, David Cameron, Scotland Bill, Scottish National Party_
 
 ##### Scottish Liberal Democrat
 ### [Scottish Liberal Democrat leader Tavish Scott resigns after a collapse of his party's support at the Scottish Parliament election. ](/news/2011/05/7/scottish-liberal-democrat-leader-tavish-scott-resigns-after-a-collapse-of-his-party-s-support-at-the-scottish-parliament-election.md)
-_Context: Tavish Scott, recently victorious, Scottish Liberal Democrat_
+_Context: recently victorious, Tavish Scott, Scottish Liberal Democrat_
 
 ##### Secretary of State for Business
 ### [British Secretary of State for Business Vince Cable launches a fierce attack on the tactics of his party's Conservative coalition partners as "ruthless, calculating and very tribal" for the way they conducted themselves in the Alternative Vote referendum. ](/news/2011/05/7/british-secretary-of-state-for-business-vince-cable-launches-a-fierce-attack-on-the-tactics-of-his-party-s-conservative-coalition-partners-a.md)
@@ -89,7 +89,7 @@ Labour say they expect to be in government in Cardiff Bay by the end of next wee
 
 ##### Ecuador
 ### [Voters in Ecuador go to the polls for the Ecuadorian constitutional referendum with the government declaring victory based on exit polls. ](/news/2011/05/7/voters-in-ecuador-go-to-the-polls-for-the-ecuadorian-constitutional-referendum-with-the-government-declaring-victory-based-on-exit-polls.md)
-_Context: exit poll, Ecuador, Ecuadorian constitutional referendum_
+_Context: Ecuadorian constitutional referendum, exit poll, Ecuador_
 
 ## [Previous Day...](/news/2011/05/6/index.md)
 

@@ -37,7 +37,7 @@ Ukrainian MPs and the European Parliament are set to ratify a key EU association
 
 ##### Russian
 ### [Russian billionaire Vladimir Yevtushenkov is placed under house arrest for alleged money laundering. ](/news/2014/09/16/russian-billionaire-vladimir-yevtushenkov-is-placed-under-house-arrest-for-alleged-money-laundering.md)
-_Context: money laundering, Vladimir Yevtushenkov, Russian_
+_Context: Vladimir Yevtushenkov, Russian, money laundering_
 
 ## [Previous Day...](/news/2014/09/15/index.md)
 

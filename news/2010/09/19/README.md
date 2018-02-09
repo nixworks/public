@@ -9,7 +9,7 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 
 ##### United States soldier
 ### [The United States Army charges 5 US soldiers with murdering 3 Afghan civilians earlier this year. ](/news/2010/09/19/the-united-states-army-charges-5-us-soldiers-with-murdering-3-afghan-civilians-earlier-this-year.md)
-_Context: United States, Afghanistan, United States soldier_
+_Context: United States, United States soldier, Afghanistan_
 
 ##### 2 car bomb
 ### [2 car bombs explode in Baghdad, Iraq, killing at least 31 people and injuring 111. ](/news/2010/09/19/2-car-bombs-explode-in-baghdad-iraq-killing-at-least-31-people-and-injuring-111.md)
@@ -21,7 +21,7 @@ _Context: Government of India, Jammu and Kashmir_
 
 ##### Tajik
 ### [At least 40 Tajik soldiers are killed in an attack in the Rasht Valley in eastern Tajikistan. ](/news/2010/09/19/at-least-40-tajik-soldiers-are-killed-in-an-attack-in-the-rasht-valley-in-eastern-tajikistan.md)
-_Context: Rasht Valley, Tajik, Tajikistan_
+_Context: Tajikistan, Rasht Valley, Tajik_
 
 ##### Al-Shabaab
 ### [Islamist al-Shabaab insurgents in Somalia seize control of 2 independent radio stations in the capital Mogadishu. ](/news/2010/09/19/islamist-al-shabaab-insurgents-in-somalia-seize-control-of-2-independent-radio-stations-in-the-capital-mogadishu.md)
@@ -37,7 +37,7 @@ _Context: Otlubayir, Agri_
 
 ##### The King's Speech
 ### ["The King's Speech" is premiered at the 35th Toronto International Film Festival. ](/news/2010/09/19/the-king-s-speech-is-premiered-at-the-35th-toronto-international-film-festival.md)
-_Context: 35th, The King's Speech, Toronto International Film Festival_
+_Context: The King's Speech, 35th, Toronto International Film Festival_
 
 ##### Harry Potter
 ### [Original handwritten Harry Potter manuscripts are to be displayed at Scotland's Wigtown festival. ](/news/2010/09/19/original-handwritten-harry-potter-manuscripts-are-to-be-displayed-at-scotland-s-wigtown-festival.md)
@@ -45,7 +45,7 @@ Original handwritten manuscripts by Harry Potter author JK Rowling are going on 
 
 ##### Northwest China
 ### [Rain-triggered floods killed four people and left two others missing Sunday in northwest China's Xinjiang Uyghur Autonomous Region's in Atush city. ](/news/2010/09/19/rain-triggered-floods-killed-four-people-and-left-two-others-missing-sunday-in-northwest-china-s-xinjiang-uyghur-autonomous-region-s-in-atus.md)
-_Context: northwest China, Xinjiang Uyghur Autonomous Region, Atush_
+_Context: northwest China, Atush, Xinjiang Uyghur Autonomous Region_
 
 ##### Northern India
 ### [Heavy monsoon rains and landslides swept the hilly areas of northern India over the weekend, killing at least 47 people. 24 people died in Almorah district in Uttrakhand state, 23 people were either swept away in Pitthoragarh, Champawat and Uttarkashi regions. ](/news/2010/09/19/heavy-monsoon-rains-and-landslides-swept-the-hilly-areas-of-northern-india-over-the-weekend-killing-at-least-47-people-24-people-died-in-a.md)
@@ -69,11 +69,11 @@ Viva Palestina vehicles leave London en route to besieged Strip for what organis
 
 ##### United Kingdom
 ### [A British man of Somali origin, destined for Uganda, is arrested in Schiphol airport in Amsterdam on suspicion of being a terrorist. ](/news/2010/09/19/a-british-man-of-somali-origin-destined-for-uganda-is-arrested-in-schiphol-airport-in-amsterdam-on-suspicion-of-being-a-terrorist.md)
-_Context: United Kingdom, terrorism, Somalia, Uganda, Amsterdam Airport Schiphol, Amsterdam_
+_Context: terrorism, Amsterdam Airport Schiphol, Uganda, Somalia, United Kingdom, Amsterdam_
 
 ##### Air India Flight 182
 ### [Inderjit Singh Reyat, the only man convicted of the bombings of Air India Flight 182 and Narita International Airport in 1985, is found guilty of perjury. ](/news/2010/09/19/inderjit-singh-reyat-the-only-man-convicted-of-the-bombings-of-air-india-flight-182-and-narita-international-airport-in-1985-is-found-guil.md)
-_Context: Air India Flight 182, perjury, Narita International Airport_
+_Context: Narita International Airport, Air India Flight 182, perjury_
 
 ##### Police
 ### [At least four people are killed and a police officer seriously wounded in a shooting incident at a hospital in Lorrach, Germany. ](/news/2010/09/19/at-least-four-people-are-killed-and-a-police-officer-seriously-wounded-in-a-shooting-incident-at-a-hospital-in-laprrach-germany.md)
@@ -81,7 +81,7 @@ Four people are killed and one seriously injured in a shooting at a German hospi
 
 ##### Metropolitan Police
 ### [The Metropolitan Police release six men arrested on suspicion of being terrorists during Pope Benedict XVI's visit to the United Kingdom without charge. ](/news/2010/09/19/the-metropolitan-police-release-six-men-arrested-on-suspicion-of-being-terrorists-during-pope-benedict-xvi-s-visit-to-the-united-kingdom-wit.md)
-_Context: Metropolitan Police, visit of Pope Benedict XVI, terrorism, Pope Benedict XVI_
+_Context: visit of Pope Benedict XVI, Pope Benedict XVI, Metropolitan Police, terrorism_
 
 ##### Mexican
 ### [Eight Mexican police officers from the state of Guerrero are found dead. ](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.md)
@@ -93,7 +93,7 @@ Copac outreach meetings in Harare were Sunday abandoned after violence and chaos
 
 ##### Sweden
 ### [Voters in Sweden go to the polls for a general election with the centre-right Alliance government led by Prime Minister of Sweden Fredrik Reinfeldt winning the most seats but falling short of a majority ](/news/2010/09/19/voters-in-sweden-go-to-the-polls-for-a-general-election-with-the-centre-right-alliance-government-led-by-prime-minister-of-sweden-fredrik-re.md)
-_Context: Fredrik Reinfeldt, prime minister, Swedish general election, Sweden, The Alliance_
+_Context: Sweden, Swedish general election, Fredrik Reinfeldt, The Alliance, prime minister_
 
 ##### United Front for Democracy Against Dictatorship
 ### [The United Front for Democracy Against Dictatorship, or Red Shirts, hold protests on the fourth anniversary of the downfall of Prime Minister of Thailand Thaksin Shinawatra. ](/news/2010/09/19/the-united-front-for-democracy-against-dictatorship-or-red-shirts-hold-protests-on-the-fourth-anniversary-of-the-downfall-of-prime-ministe.md)
@@ -105,15 +105,15 @@ _Context: Yadira Garcia Vera, President, Minister for Basic Industry, Raul Castr
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI beatifies Cardinal John Henry Newman in an outdoor mass in Birmingham, England, on the final day of his visit to the UK. ](/news/2010/09/19/pope-benedict-xvi-beatifies-cardinal-john-henry-newman-in-an-outdoor-mass-in-birmingham-england-on-the-final-day-of-his-visit-to-the-uk.md)
-_Context: Birmingham, England, Pope Benedict XVI, Cardinal, John Henry Newman, beatified, visit of Pope Benedict XVI_
+_Context: beatified, John Henry Newman, Pope Benedict XVI, England, visit of Pope Benedict XVI, Birmingham, Cardinal_
 
 ##### Cult
 ### [Concerns are held about a cult-like group of Salvadoran migrants to the United States in Palmdale, California, who have gone missing after leaving a note that they were going to meet Jesus. They are later found alive in a park. ](/news/2010/09/19/concerns-are-held-about-a-cult-like-group-of-salvadoran-migrants-to-the-united-states-in-palmdale-california-who-have-gone-missing-after-l.md)
-_Context: El Salvador, Jesus, California, United States, cult, Palmdale_
+_Context: Palmdale, El Salvador, Jesus, cult, United States, California_
 
 ##### Armenia
 ### [Approximately 2,000 Armenians worship at the 10th century Church of the Holy Cross on Akdamar Island in Turkey for the first time since 1915. ](/news/2010/09/19/approximately-2-000-armenians-worship-at-the-10th-century-church-of-the-holy-cross-on-akdamar-island-in-turkey-for-the-first-time-since-1915.md)
-_Context: Armenia, 10th century, Akdamar Island, Turkey_
+_Context: 10th century, Armenia, Turkey, Akdamar Island_
 
 ## [Previous Day...](/news/2010/09/18/index.md)
 

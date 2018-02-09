@@ -9,7 +9,7 @@ Russian President Vladimir Putin has requested the use of Russian military force
 
 ##### War in Afghanistan (2001-present)
 ### [A welcome home parade in Darwin marks the official end of Australia's active involvement in the Afghanistan War. ](/news/2014/03/1/a-welcome-home-parade-in-darwin-marks-the-official-end-of-australia-s-active-involvement-in-the-afghanistan-war.md)
-_Context: Australia, War in Afghanistan (2001-present), Darwin_
+_Context: Darwin, Australia, War in Afghanistan (2001-present)_
 
 ##### War in North-West Pakistan
 ### [A bomb attack on a polio vaccination team in a village in Khyber Pakhtunkhwa Province kills at least ten people. ](/news/2014/03/1/a-bomb-attack-on-a-polio-vaccination-team-in-a-village-in-khyber-pakhtunkhwa-province-kills-at-least-ten-people.md)

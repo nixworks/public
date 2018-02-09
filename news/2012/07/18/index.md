@@ -37,7 +37,7 @@ Hungary is under pressure to prosecute the world&#039;s most wanted surviving Na
 
 ##### Municipal building
 ### [The monumental municipal building in Waalre, a town in the southern Netherlands, is destroyed in an attack after two cars purposefully rammed the building. ](/news/2012/07/18/the-monumental-municipal-building-in-waalre-a-town-in-the-southern-netherlands-is-destroyed-in-an-attack-after-two-cars-purposefully-ramme.md)
-_Context: Waalre, municipal building, Netherlands_
+_Context: municipal building, Netherlands, Waalre_
 
 ##### Indonesian Air Force
 ### [The Indonesian Air Force will for the first time send 4 Sukhoi Su-27 jet fighters to participate in war games alongside Australian F-A-18 Hornets and U.S Fighter jets from the 27 July 2012 to 17 August 2012.](/news/2012/07/18/the-indonesian-air-force-will-for-the-first-time-send-4-sukhoi-su-27-jet-fighters-to-participate-in-war-games-alongside-australian-f-a-18-ho.md)
@@ -45,7 +45,7 @@ Indonesia will send its front-line Sukhoi jet fighters to take part in Australia
 
 ##### Party of the Democratic Revolution
 ### [In Mexico, the PRD candidate, Andres Manuel Lopez Obrador, accuses the Institutional Revolutionary Party (PRI) of using illicit funds and laundering money to finance the campaign of Enrique Pena Nieto, the president-elect in the recent presidential elections. The PRI denies the claims and retorts that Lopez Obrador is acting out of desperation and irrationality. ](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.md)
-_Context: Andres Manuel Lopez Obrador, Institutional Revolutionary Party, Enrique Pena Nieto, Mexican presidential elections, Party of the Democratic Revolution_
+_Context: Enrique Pena Nieto, Institutional Revolutionary Party, Andres Manuel Lopez Obrador, Mexican presidential elections, Party of the Democratic Revolution_
 
 ##### Kim Jong-un
 ### [Kim Jong-un is officially announced as the Supreme Leader of North Korea, a position that he occupied "de facto" since his father's death. He also gains the rank of Marshal in the Korean People's Army. ](/news/2012/07/18/kim-jong-un-is-officially-announced-as-the-supreme-leader-of-north-korea-a-position-that-he-occupied-de-facto-since-his-father-s-death-h.md)

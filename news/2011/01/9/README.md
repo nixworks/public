@@ -57,11 +57,11 @@ Demonstrators gather outside the Iranian Embassy in London to protest at what th
 
 ##### United States Secretary of Defense
 ### [United States Secretary of Defense Robert Gates flies to China for a four-day trip after expressing American worries that the Chinese "clearly have potential to put some of our [military] capabilities at risk", adding that America has "to pay attention to them" and "respond appropriately with our own programmes". ](/news/2011/01/9/united-states-secretary-of-defense-robert-gates-flies-to-china-for-a-four-day-trip-after-expressing-american-worries-that-the-chinese-clear.md)
-_Context: Robert Gates, United States Secretary of Defense_
+_Context: United States Secretary of Defense, Robert Gates_
 
 ##### Li Keqiang
 ### [Chinese Vice Premier Li Keqiang begins a four-day visit to the UK; Scotland and China sign a green energy deal. ](/news/2011/01/9/chinese-vice-premier-li-keqiang-begins-a-four-day-visit-to-the-uk-scotland-and-china-sign-a-green-energy-deal.md)
-_Context: green energy, Li Keqiang_
+_Context: Li Keqiang, green energy_
 
 ##### The Guardian
 ### [An investigation by "The Guardian" newspaper reveals details of how Metropolitan police officer Mark Kennedy infiltrated dozens of protest groups in 22 countries using the pseudonym Mark Stone. ](/news/2011/01/9/an-investigation-by-the-guardian-newspaper-reveals-details-of-how-metropolitan-police-officer-mark-kennedy-infiltrated-dozens-of-protest-g.md)
@@ -77,7 +77,7 @@ People in Southern Sudan vote in a historic referendum that will decide whether 
 
 ##### Ulster Unionist Party
 ### [Ulster Unionist Party leader Tom Elliott accepts an invitation to meet with members of the Northern Ireland Gay Rights Association in a groundbreaking move. ](/news/2011/01/9/ulster-unionist-party-leader-tom-elliott-accepts-an-invitation-to-meet-with-members-of-the-northern-ireland-gay-rights-association-in-a-grou.md)
-_Context: Tom Elliott, Ulster Unionist Party_
+_Context: Ulster Unionist Party, Tom Elliott_
 
 ## [Previous Day...](/news/2011/01/8/index.md)
 

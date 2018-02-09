@@ -9,7 +9,7 @@ A general strike was being observed on Sunday in several regions of Syria to ste
 
 ##### 2011 Yemeni uprising
 ### [2011 Yemeni uprising: Hundreds of thousands of protesters demonstrate in Yemen calling for the trial of President Ali Abdullah Saleh. ](/news/2011/12/11/2011-yemeni-uprising-hundreds-of-thousands-of-protesters-demonstrate-in-yemen-calling-for-the-trial-of-president-ali-abdullah-saleh.md)
-_Context: Ali Abdullah Saleh, Yemen, 2011 Yemeni uprising_
+_Context: Ali Abdullah Saleh, 2011 Yemeni uprising, Yemen_
 
 ##### Tripoli International Airport
 ### [Two people are injured during a gun battle at Tripoli International Airport between militia and the Libyan army.](/news/2011/12/11/two-people-are-injured-during-a-gun-battle-at-tripoli-international-airport-between-militia-and-the-libyan-army.md)
@@ -25,7 +25,7 @@ The president of a U.N. climate conference has announced agreement on a program 
 
 ##### Panama
 ### [Former leader of Panama Manuel Noriega is extradited home from France and the United States where he has been serving jail sentences for the past 22 years to serve more time for his role in the murder of political opponents. ](/news/2011/12/11/former-leader-of-panama-manuel-noriega-is-extradited-home-from-france-and-the-united-states-where-he-has-been-serving-jail-sentences-for-the.md)
-_Context: Manuel Noriega, France, United States, Panama_
+_Context: France, Manuel Noriega, United States, Panama_
 
 ##### Ohio
 ### [A 16-year-old teenager in the U.S. state of Ohio is charged with murder in a deadly Craigslist robbery scheme.](/news/2011/12/11/a-16-year-old-teenager-in-the-u-s-state-of-ohio-is-charged-with-murder-in-a-deadly-craigslist-robbery-scheme.md)
@@ -41,7 +41,7 @@ _Context: Cte d'Ivoire, Parliamentary elections_
 
 ##### Russia
 ### [Russian President Dmitry Medvedev orders an inquiry into the disputed results of the parliamentary elections. ](/news/2011/12/11/russian-president-dmitry-medvedev-orders-an-inquiry-into-the-disputed-results-of-the-parliamentary-elections.md)
-_Context: Dmitry Medvedev, Russia, parliamentary elections_
+_Context: Dmitry Medvedev, parliamentary elections, Russia_
 
 ##### Taipei
 ### [Around 1,000 people protest in Taipei, demanding that the government make a weekly day off a legal right for Taiwan's 200,000 foreign live-in caregivers. ](/news/2011/12/11/around-1-000-people-protest-in-taipei-demanding-that-the-government-make-a-weekly-day-off-a-legal-right-for-taiwan-s-200-000-foreign-live-i.md)

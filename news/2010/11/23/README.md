@@ -33,7 +33,7 @@ _Context: Suriname_
 
 ##### Saudi Arabia
 ### [A Saudi woman accused of torturing her Indonesian maid is sent to jail while the maid is hospitalised, in a case that has caused tensions between the two countries. ](/news/2010/11/23/a-saudi-woman-accused-of-torturing-her-indonesian-maid-is-sent-to-jail-while-the-maid-is-hospitalised-in-a-case-that-has-caused-tensions-be.md)
-_Context: Saudi Arabia, Indonesia_
+_Context: Indonesia, Saudi Arabia_
 
 ##### The Gambia
 ### [The Gambia severs diplomatic and economic relations with Iran and orders Iranian government representatives to leave within 48 hours. The Gambia has given no reason for the move. ](/news/2010/11/23/the-gambia-severs-diplomatic-and-economic-relations-with-iran-and-orders-iranian-government-representatives-to-leave-within-48-hours-the-ga.md)
@@ -53,7 +53,7 @@ Taoiseach Brian Cowen has rejected Fine Gael&#39;s accusations that he is engage
 
 ##### Burma
 ### [Burmese pro-democracy leader Aung San Suu Kyi is reunited with her son for the first time in a decade. ](/news/2010/11/23/burmese-pro-democracy-leader-aung-san-suu-kyi-is-reunited-with-her-son-for-the-first-time-in-a-decade.md)
-_Context: Aung San Suu Kyi, Burma, democratic_
+_Context: Burma, democratic, Aung San Suu Kyi_
 
 ##### Abdullah II of Jordan
 ### [King Abdullah II of Jordan commissions the Prime Minister Samir Rifai to form a new government following recent elections. ](/news/2010/11/23/king-abdullah-ii-of-jordan-commissions-the-prime-minister-samir-rifai-to-form-a-new-government-following-recent-elections.md)

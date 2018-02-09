@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/7/index.html)  [JSON](2012/07/7/index.json)  [XML](2012/
 
 ##### Lebanese
 ### [The Lebanese army in Wadi Khaled is placed on alert after rockets from Syria kill two people in its territory. ](/news/2012/07/7/the-lebanese-army-in-wadi-khaled-is-placed-on-alert-after-rockets-from-syria-kill-two-people-in-its-territory.md)
-_Context: Wadi Khaled, Syria, Lebanese, Lebanese Army_
+_Context: Wadi Khaled, Lebanese Army, Lebanese, Syria_
 
 ##### Gabriel Garcia Marquez
 ### [Jaime Garcia Marquez tells his students that his brother Gabriel Garcia Marquez, the Colombian writer and recipient of the 1982 Nobel Prize for Literature, suffers from dementia that has ended his writing career. ](/news/2012/07/7/jaime-garcaa-ma-rquez-tells-his-students-that-his-brother-gabriel-garcaa-ma-rquez-the-colombian-writer-and-recipient-of-the-1982-nobel-pr.md)
@@ -53,11 +53,11 @@ Saudi Arabia&#039;s Princess Sara bint Talal bin Abdulaziz is claiming political
 
 ##### Hong Kong police
 ### [Hong Kong police seize 649 kilograms of cocaine, with a street value of US$98 million, in an anti-drug operation that began in April. ](/news/2012/07/7/hong-kong-police-seize-649-kilograms-of-cocaine-with-a-street-value-of-us-98-million-in-an-anti-drug-operation-that-began-in-april.md)
-_Context: cocaine, Hong Kong police_
+_Context: Hong Kong police, cocaine_
 
 ##### State Duma
 ### [The lower house of parliament in Russia gives initial backing to a bill forcing internationally-funded non-governmental organisations to carry a "foreign agent" tag. ](/news/2012/07/7/the-lower-house-of-parliament-in-russia-gives-initial-backing-to-a-bill-forcing-internationally-funded-non-governmental-organisations-to-car.md)
-_Context: State Duma, Russia, non-governmental organisations_
+_Context: non-governmental organisations, Russia, State Duma_
 
 ##### Libya
 ### [Voters in Libya go to the polls for a General National Congress election with those elected responsible for appointing a Prime Minister, cabinet and establishing a new constitution. ](/news/2012/07/7/voters-in-libya-go-to-the-polls-for-a-general-national-congress-election-with-those-elected-responsible-for-appointing-a-prime-minister-cab.md)
@@ -69,7 +69,7 @@ Early results in East Timor&#039;s parliamentary election indicate Xanana Gusmao
 
 ##### Barney Frank
 ### [American politician Barney Frank marries his long-time partner James Ready, becoming the first member of the United States House of Representatives to enter into a same-sex marriage. ](/news/2012/07/7/american-politician-barney-frank-marries-his-long-time-partner-james-ready-becoming-the-first-member-of-the-united-states-house-of-represen.md)
-_Context: Barney Frank, same-sex marriage, House of Representatives_
+_Context: same-sex marriage, United States House of Representatives, Barney Frank_
 
 ## [Previous Day...](/news/2012/07/6/index.md)
 

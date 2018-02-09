@@ -9,7 +9,7 @@ _Context: Egypt, Marsa Matrouh_
 
 ##### Yukos
 ### [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md)
-_Context: Russian President, Mikhail Khodorkovsky, Dmitry Medvedev, Yukos, Russia_
+_Context: Dmitry Medvedev, Mikhail Khodorkovsky, Yukos, Russian President, Russia_
 
 ##### United States Senate
 ### [ The United States Senate agrees to triple funding for the President's Emergency Plan for AIDS Relief to $48 billion. ](/news/2008/07/16/the-united-states-senate-agrees-to-triple-funding-for-the-president-s-emergency-plan-for-aids-relief-to-48-billion.md)
@@ -17,7 +17,7 @@ _Context: United States Senate, President's Emergency Plan for AIDS Relief_
 
 ##### Ben Bernanke
 ### [ Ben Bernanke, the Chairman of the Federal Reserve, assures the United States House of Representatives Financial Services Committee that giant mortgage companies Fannie Mae and Freddie Mac are in "no danger of failing." ](/news/2008/07/16/ben-bernanke-the-chairman-of-the-federal-reserve-assures-the-united-states-house-of-representatives-financial-services-committee-that-gia.md)
-_Context: Ben Bernanke, House of Representatives, Financial Services Committee, Federal Reserve, Fannie Mae, Freddie Mac_
+_Context: Freddie Mac, Financial Services Committee, United States House of Representatives, Ben Bernanke, Fannie Mae, Federal Reserve_
 
 ##### Malta
 ### [ A large transport strike enters into its third day on the island of Malta, bringing the island to a halt with the blockage of several roads. Bus drivers even attempted to break into the Prime Minister's office. ](/news/2008/07/16/a-large-transport-strike-enters-into-its-third-day-on-the-island-of-malta-bringing-the-island-to-a-halt-with-the-blockage-of-several-roads.md)
@@ -29,19 +29,19 @@ _Context: Sri Lankan military, Mannar, LTTE, Northern Province_
 
 ##### Hezbollah
 ### [ Hezbollah transfers the bodies of captured Israeli soldiers, Ehud Goldwasser and Eldad Regev, in exchange for the Lebanese convicted murderer Samir Kuntar, four other Hezbollah militants captured by Israel during the 2006 Lebanon War (Khaled Zidan, Maher Kurani, Mohammed Sarur and Hussein Suleiman), and the bodies of 200 Lebanese and Palestinians.](/news/2008/07/16/hezbollah-transfers-the-bodies-of-captured-israeli-soldiers-ehud-goldwasser-and-eldad-regev-in-exchange-for-the-lebanese-convicted-murder.md)
-_Context: Samir Kuntar, Eldad Regev, Lebanese, Ehud Goldwasser, Israeli-Lebanese war of 2006, Israel, Hezbollah, transfers_
+_Context: Israeli-Lebanese war of 2006, Eldad Regev, Samir Kuntar, Ehud Goldwasser, transfers, Israel, Lebanese, Hezbollah_
 
 ##### Bishop
 ### [ Hundreds of bishops from the worldwide Anglican Communion gather at Canterbury as the once-a-decade Lambeth Conference begins one month after the GAFCON. ](/news/2008/07/16/hundreds-of-bishops-from-the-worldwide-anglican-communion-gather-at-canterbury-as-the-once-a-decade-lambeth-conference-begins-one-month-aft.md)
-_Context: bishop, Lambeth Conference, Canterbury, GAFCON, Anglican Communion_
+_Context: Lambeth Conference, Anglican Communion, bishop, Canterbury, GAFCON_
 
 ##### Malaysia
 ### [ Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. ](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.md)
-_Context: sodomy, Anwar Ibrahim, Malaysia_
+_Context: Anwar Ibrahim, sodomy, Malaysia_
 
 ##### Afghanistan
 ### [ Afghan authorities confirm that 52 civilians were killed by an American airstrike at a wedding on Sunday. ](/news/2008/07/16/afghan-authorities-confirm-that-52-civilians-were-killed-by-an-american-airstrike-at-a-wedding-on-sunday.md)
-_Context: airstrike, United States, Afghanistan_
+_Context: airstrike, Afghanistan, United States_
 
 ## [Previous Day...](/news/2008/07/15/index.md)
 

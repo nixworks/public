@@ -17,7 +17,7 @@ UNITED NATIONS: The 193-member United Nations General Assembly elected Ivory Coa
 
 ##### North Korea's nuclear program
 ### [As a result of North Korea's repeated missile tests, the United Nations Security Council expands its targeted sanctions against the country, adding to the U.N. blacklist four entities, including the Koryo Bank and the Army's Strategic Rocket Force, and 14 people, including the North's head of intelligence operations. ](/news/2017/06/2/as-a-result-of-north-korea-s-repeated-missile-tests-the-united-nations-security-council-expands-its-targeted-sanctions-against-the-country.md)
-_Context: Army's Strategic Rocket Force, North Korea's nuclear program, United Nations Security Council_
+_Context: North Korea's nuclear program, United Nations Security Council, Army's Strategic Rocket Force_
 
 ##### Russia-Turkey relations
 ### [Russia lifts more trade sanctions it had placed on Turkey following the 2015 downing of a Russian fighter jet. ](/news/2017/06/2/russia-lifts-more-trade-sanctions-it-had-placed-on-turkey-following-the-2015-downing-of-a-russian-fighter-jet.md)
@@ -25,11 +25,11 @@ The Russian government continues to partially remove sanctions on Turkey. A new 
 
 ##### 2017 Resorts World Manila attack
 ### [At least 37 people are killed in a deliberately lit fire at Resorts World Manila in the Philippines. The perpetrator stole gaming chips and fired gun shots before committing suicide. ](/news/2017/06/2/at-least-37-people-are-killed-in-a-deliberately-lit-fire-at-resorts-world-manila-in-the-philippines-the-perpetrator-stole-gaming-chips-and.md)
-_Context: Resorts World Manila, 2017 Resorts World Manila attack, Philippines_
+_Context: 2017 Resorts World Manila attack, Philippines, Resorts World Manila_
 
 ##### War in Afghanistan (2015-present)
 ### [Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. ](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are-shot-dead-by-police-in-kabul-afghanistan-after-demanding-that-the-government-step-down-in.md)
-_Context: May 2017 Kabul attack, Kabul, War in Afghanistan (2015-present)_
+_Context: War in Afghanistan (2015-present), Kabul, May 2017 Kabul attack_
 
 ##### Penn State child sex abuse scandal
 ### [Former Pennsylvania State University president Graham Spanier, former vice president Gary Schultz, and former athletic director Timothy Curley are sentenced to prison for covering up ex-coach Jerry Sandusky's criminal sexual acts, thereby letting him victimize more boys. ](/news/2017/06/2/former-pennsylvania-state-university-president-graham-spanier-former-vice-president-gary-schultz-and-former-athletic-director-timothy-curl.md)
@@ -45,7 +45,7 @@ LEO Varadkar has been confirmed as the new leader of Fine Gael &#8211; and looks
 
 ##### Satellite of Jupiter
 ### [Two of Jupiter's moons, S-2003 J 18 and S-2011 J 2 are recovered, and a small 1.5-kilometer outer moon (S-2016 J 1) is discovered, the first moon discovered around a major planet in 6 years. ](/news/2017/06/2/two-of-jupiter-s-moons-s-2003-j-18-and-s-2011-j-2-are-recovered-and-a-small-1-5-kilometer-outer-moon-s-2016-j-1-is-discovered-the-first.md)
-_Context: S/2003 J 18, the first moon, satellite of Jupiter, S/2011 J 2, S/2016 J 1_
+_Context: satellite of Jupiter, the first moon, S/2016 J 1, S/2011 J 2, S/2003 J 18_
 
 ## [Previous Day...](/news/2017/06/1/index.md)
 

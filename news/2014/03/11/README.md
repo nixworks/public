@@ -5,15 +5,15 @@ Formats: [HTML](2014/03/11/index.html)  [JSON](2014/03/11/index.json)  [XML](201
 
 ##### Kabul
 ### [Gunmen in Kabul, Afghanistan kill Swedish Radio foreign correspondent Nils Horner. ](/news/2014/03/11/gunmen-in-kabul-afghanistan-kill-swedish-radio-foreign-correspondent-nils-horner.md)
-_Context: Nils Horner, Kabul, Swedish Radio, Afghanistan_
+_Context: Afghanistan, Nils Horner, Kabul, Swedish Radio_
 
 ##### Maoist
 ### [Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. ](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.md)
-_Context: India, Maoist, Chhattisgarh_
+_Context: Maoist, Chhattisgarh, India_
 
 ##### Israel
 ### [In response to mortar fire, an Israeli airstrike in the Gaza Strip kills three suspected militants. ](/news/2014/03/11/in-response-to-mortar-fire-an-israeli-airstrike-in-the-gaza-strip-kills-three-suspected-militants.md)
-_Context: Gaza Strip, Israel_
+_Context: Israel, Gaza Strip_
 
 ##### Anti-government protests
 ### [Protesters clash with police in Turkey after a 15-year-old boy died from a head injury sustained during anti-government protests. ](/news/2014/03/11/protesters-clash-with-police-in-turkey-after-a-15-year-old-boy-died-from-a-head-injury-sustained-during-anti-government-protests.md)
@@ -37,17 +37,17 @@ _Context: Men's Wearhouse, JoS. A. Bank Clothiers_
 
 ##### Chinese Coast Guard
 ### [Two Philippine ships are expelled by the Chinese Coast Guard from Ayungin Shoal in the Spratly group of islands. ](/news/2014/03/11/two-philippine-ships-are-expelled-by-the-chinese-coast-guard-from-ayungin-shoal-in-the-spratly-group-of-islands.md)
-_Context: Chinese Coast Guard, Spratly Islands_
+_Context: Spratly Islands, Chinese Coast Guard_
 
 ##### 
 ### [The search of one of Congress's stand-alone computers is referred to the Justice Department for investigation. ](/news/2014/03/11/the-search-of-one-of-congress-s-stand-alone-computers-is-referred-to-the-justice-department-for-investigation.md)
 ##### Caribbean
 ### [Fourteen Caribbean nations file a lawsuit against the United Kingdom, France, and the Netherlands for damages caused during the Atlantic slave trade. ](/news/2014/03/11/fourteen-caribbean-nations-file-a-lawsuit-against-the-united-kingdom-france-and-the-netherlands-for-damages-caused-during-the-atlantic-sla.md)
-_Context: Caribbean, France, Netherlands, United Kingdom, Atlantic slave trade_
+_Context: France, Caribbean, Atlantic slave trade, Netherlands, United Kingdom_
 
 ##### Joran van der Sloot
 ### [Joran van der Sloot faces an extradition case in the United States. ](/news/2014/03/11/joran-van-der-sloot-faces-an-extradition-case-in-the-united-states.md)
-_Context: Joran van der Sloot, United States_
+_Context: United States, Joran van der Sloot_
 
 ##### Libyan Parliament
 ### [The Libyan Parliament sacks Prime Minister Ali Zeidan and appoints former defense secretary Abdullah al-Thani as acting prime minister. ](/news/2014/03/11/the-libyan-parliament-sacks-prime-minister-ali-zeidan-and-appoints-former-defense-secretary-abdullah-al-thani-as-acting-prime-minister.md)

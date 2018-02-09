@@ -37,7 +37,7 @@ Hillary Clinton and Donald Trump will square off for the third and final time in
 
 ##### Iran
 ### [Iranian President Hassan Rouhani reshuffles his cabinet, replacing culture, education, and sports ministers. The new ministers still need the parliament's approval. ](/news/2016/10/19/iranian-president-hassan-rouhani-reshuffles-his-cabinet-replacing-culture-education-and-sports-ministers-the-new-ministers-still-need-th.md)
-_Context: Iranian Parliament, Hassan Rouhani, cabinet, Iran, President_
+_Context: Hassan Rouhani, Iran, cabinet, Iranian Parliament, President_
 
 ##### Croatian parliamentary election, 2016
 ### [Croatian lawmakers approve conservative Croatian Democratic Union party leader Andrej Plenkovic's new coalition government 91-45. ](/news/2016/10/19/croatian-lawmakers-approve-conservative-croatian-democratic-union-party-leader-andrej-plenkovia-s-new-coalition-government-91a45.md)

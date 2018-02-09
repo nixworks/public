@@ -5,11 +5,11 @@ Formats: [HTML](2008/10/24/index.html)  [JSON](2008/10/24/index.json)  [XML](200
 
 ##### Asia
 ### [ Government heads of 45 countries from Asia and Europe meet in Beijing as the 7th Asia-Europe Meeting convenes with financial crisis topping the agenda. ](/news/2008/10/24/government-heads-of-45-countries-from-asia-and-europe-meet-in-beijing-as-the-7th-asia-europe-meeting-convenes-with-financial-crisis-topping.md)
-_Context: current economic crisis, Asia, Europe, Beijing, Asia-Europe Meeting_
+_Context: current economic crisis, Asia-Europe Meeting, Asia, Beijing, Europe_
 
 ##### Government
 ### [ The government of Djibouti has said that the country will have to go to war with Eritrea unless the United Nations acts to resolve growing tension over a border dispute. ](/news/2008/10/24/the-government-of-djibouti-has-said-that-the-country-will-have-to-go-to-war-with-eritrea-unless-the-united-nations-acts-to-resolve-growing.md)
-_Context: Eritrea, border dispute, Djibouti, government, United Nations_
+_Context: Djibouti, United Nations, government, border dispute, Eritrea_
 
 ##### United States
 ### [ The mother and the brother of American actress and singer Jennifer Hudson are murdered. ](/news/2008/10/24/the-mother-and-the-brother-of-american-actress-and-singer-jennifer-hudson-are-murdered.md)

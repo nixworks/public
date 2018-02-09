@@ -5,7 +5,7 @@ Formats: [HTML](2012/06/15/index.html)  [JSON](2012/06/15/index.json)  [XML](201
 
 ##### Yemen
 ### [The Yemeni army captures Shuqra, the third militant stronghold to fall in the last week. ](/news/2012/06/15/the-yemeni-army-captures-shuqra-the-third-militant-stronghold-to-fall-in-the-last-week.md)
-_Context: Yemen, Shuqra_
+_Context: Shuqra, Yemen_
 
 ##### Paraguay
 ### [Police officers attempting to evict landless farmers occupying a property in the Paraguayan department of Canindey turn into clashes, killing 16 officers and farmers. ](/news/2012/06/15/police-officers-attempting-to-evict-landless-farmers-occupying-a-property-in-the-paraguayan-department-of-canindeyu-turn-into-clashes-killi.md)
@@ -21,15 +21,15 @@ The Italian government hopes to raise 10bn euros (£8.1bn; $12.6bn) selling off 
 
 ##### Goldman Sachs
 ### [Former Goldman Sachs director Rajat Gupta is convicted of three counts of securities fraud and one count of conspiracy related to insider trading in 2011.](/news/2012/06/15/former-goldman-sachs-director-rajat-gupta-is-convicted-of-three-counts-of-securities-fraud-and-one-count-of-conspiracy-related-to-insider-tr.md)
-_Context: Goldman Sachs, Rajat Gupta, insider trading in 2011_
+_Context: Rajat Gupta, insider trading in 2011, Goldman Sachs_
 
 ##### Moody's Investor Service
 ### [Moody's Investor Service downgrades the credit rating of five Dutch banks including ING Bank. ](/news/2012/06/15/moody-s-investor-service-downgrades-the-credit-rating-of-five-dutch-banks-including-ing-bank.md)
-_Context: Moody's Investor Service, ING Bank, Dutch, credit rating_
+_Context: credit rating, Moody's Investor Service, Dutch, ING Bank_
 
 ##### Herman Van Rompuy
 ### [Herman Van Rompuy, President of the European Council, convenes a conference call to discuss possible fall-out from the weekend's elections in Greece. ](/news/2012/06/15/herman-van-rompuy-president-of-the-european-council-convenes-a-conference-call-to-discuss-possible-fall-out-from-the-weekend-s-elections-i.md)
-_Context: Herman Van Rompuy, Greece, European Council_
+_Context: Greece, Herman Van Rompuy, European Council_
 
 ##### Yili Group
 ### [Chinese manufacturer Yili Group recalls baby formula after some products are discovered with high mercury levels. ](/news/2012/06/15/chinese-manufacturer-yili-group-recalls-baby-formula-after-some-products-are-discovered-with-high-mercury-levels.md)
@@ -53,11 +53,11 @@ Japanese police arrest the last fugitive of the Aum Shinrikyo cult wanted for th
 
 ##### China
 ### [China suspends three officials and the government of Ankang city apologizes to a woman, Feng Jianmei, 23, who is forced to undergo an illegal abortion seven months into her pregnancy after graphic photos of the mother and her dead baby are circulated online. ](/news/2012/06/15/china-suspends-three-officials-and-the-government-of-ankang-city-apologizes-to-a-woman-feng-jianmei-23-who-is-forced-to-undergo-an-illega.md)
-_Context: Ankang city, China, Feng Jianmei_
+_Context: China, Feng Jianmei, Ankang city_
 
 ##### Al Arabiya
 ### [Baker Atyani, "Al Arabiya{{'}}s" TV bureau chief for southeast Asia, disappears with four other people on the restive southern Philippine island of Jolo where Muslim militants are active. ](/news/2012/06/15/baker-atyani-al-arabiya-s-tv-bureau-chief-for-southeast-asia-disappears-with-four-other-people-on-the-restive-southern-philippine-is.md)
-_Context: Jolo, southeast Asia, Al Arabiya_
+_Context: southeast Asia, Jolo, Al Arabiya_
 
 ##### University of Alberta
 ### [Three employees of an armoured car company are reported dead and one injured in a shooting at the University of Alberta in Edmonton, Canada. ](/news/2012/06/15/three-employees-of-an-armoured-car-company-are-reported-dead-and-one-injured-in-a-shooting-at-the-university-of-alberta-in-edmonton-canada.md)
@@ -65,7 +65,7 @@ Edmonton police say an employee of G4S Security faces three counts of first-degr
 
 ##### Ukraine
 ### [Ukrainian prime minister Mykola Azarov is accused by the opposition of violating the law by drinking an alcoholic beverage in a government building. ](/news/2012/06/15/ukrainian-prime-minister-mykola-azarov-is-accused-by-the-opposition-of-violating-the-law-by-drinking-an-alcoholic-beverage-in-a-government-b.md)
-_Context: Ukraine, Mykola Azarov_
+_Context: Mykola Azarov, Ukraine_
 
 ##### Barack Obama
 ### [U.S. president Barack Obama announces that the U.S. will stop deporting some illegal immigrants. ](/news/2012/06/15/u-s-president-barack-obama-announces-that-the-u-s-will-stop-deporting-some-illegal-immigrants.md)
@@ -77,7 +77,7 @@ _Context: Congress of Colombia_
 
 ##### Holy See
 ### [The Holy See establishes the Personal Ordinariate of Our Lady of the Southern Cross, for former Anglicans in Australia. ](/news/2012/06/15/the-holy-see-establishes-the-personal-ordinariate-of-our-lady-of-the-southern-cross-for-former-anglicans-in-australia.md)
-_Context: Australia, Our Lady of the Southern Cross, Anglicans, Holy See, Personal Ordinariate_
+_Context: Anglicans, Australia, Holy See, Our Lady of the Southern Cross, Personal Ordinariate_
 
 ##### Bulgarian remains
 ### [Bulgarian remains believed by some to be John The Baptist are scientifically dated to the first century AD. ](/news/2012/06/15/bulgarian-remains-believed-by-some-to-be-john-the-baptist-are-scientifically-dated-to-the-first-century-ad.md)

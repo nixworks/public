@@ -25,15 +25,15 @@ _Context: South Korea, North Korea, rising tensions between the two neighboring 
 
 ##### Prime Minister of Norway
 ### [Former Prime Minister of Norway Jens Stoltenberg is appointed to succeed Denmark's Anders Fogh Rasmussen as the next Secretary General of NATO. ](/news/2014/03/28/former-prime-minister-of-norway-jens-stoltenberg-is-appointed-to-succeed-denmark-s-anders-fogh-rasmussen-as-the-next-secretary-general-of-na.md)
-_Context: Jens Stoltenberg, Anders Fogh Rasmussen, Prime Minister of Norway, Secretary General of NATO_
+_Context: Anders Fogh Rasmussen, Jens Stoltenberg, Secretary General of NATO, Prime Minister of Norway_
 
 ##### Buddhist
 ### [Buddhist mobs in western Myanmar reportedly target foreign aid groups and workers in reaction to supposedly disrespectful treatment of a Buddhist flag. ](/news/2014/03/28/buddhist-mobs-in-western-myanmar-reportedly-target-foreign-aid-groups-and-workers-in-reaction-to-supposedly-disrespectful-treatment-of-a-bud.md)
-_Context: Burma, Buddhist_
+_Context: Buddhist, Burma_
 
 ##### Brampton
 ### [A shooting occurs at a courthouse in Brampton, Ontario, Canada, with one shooter dead and a police officer injured. ](/news/2014/03/28/a-shooting-occurs-at-a-courthouse-in-brampton-ontario-canada-with-one-shooter-dead-and-a-police-officer-injured.md)
-_Context: Canadian, Brampton, Ontario_
+_Context: Brampton, Canadian, Ontario_
 
 ##### US Geological Survey
 ### [The US Geological Survey records a 5.1 magnitude earthquake in the Los Angeles area of California. ](/news/2014/03/28/the-us-geological-survey-records-a-5-1-magnitude-earthquake-in-the-los-angeles-area-of-california.md)

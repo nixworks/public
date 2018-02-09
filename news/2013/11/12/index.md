@@ -17,7 +17,7 @@ _Context: Nasdaq, stock exchanges_
 
 ##### Philippines
 ### [The Philippines faces a health crisis in the aftermath of Typhoon Haiyan with the official death toll at 1,774 and expected to rise quickly. ](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.md)
-_Context: Typhoon Haiyan (Yolanda), Philippines, health_
+_Context: Typhoon Haiyan (Yolanda), health, Philippines_
 
 ##### Hawaii
 ### [Hawaii becomes the 15th state in the United States to legalize same-sex marriage. ](/news/2013/11/12/hawaii-becomes-the-15th-state-in-the-united-states-to-legalize-same-sex-marriage.md)
@@ -25,11 +25,11 @@ The Aloha State is poised to allow gay couples to get married beginning Dec. 2.
 
 ##### U.S. District Court
 ### [A U.S. District Court judge, Victor Marrero, denies a motion by former New Jersey Governor Jon Corzine, the former CEO of MF Global, to dismiss investor litigation intended to hold him accountable for MF Global's blow-up in October 2011. ](/news/2013/11/12/a-u-s-district-court-judge-victor-marrero-denies-a-motion-by-former-new-jersey-governor-jon-corzine-the-former-ceo-of-mf-global-to-dism.md)
-_Context: MF Global, New Jersey Governor, Victor Marrero, Jon Corzine, U.S. District Court_
+_Context: U.S. District Court, MF Global, Jon Corzine, New Jersey Governor, Victor Marrero_
 
 ##### Thai Senate
 ### [The Senate of Thailand rejects an asylum bill that could have seen the return of former Prime Minister Thaksin Shinawatra. ](/news/2013/11/12/the-senate-of-thailand-rejects-an-asylum-bill-that-could-have-seen-the-return-of-former-prime-minister-thaksin-shinawatra.md)
-_Context: Prime Minister, Thai Senate, Thaksin Shinawatra_
+_Context: Thai Senate, Thaksin Shinawatra, Prime Minister_
 
 ## [Previous Day...](/news/2013/11/11/index.md)
 

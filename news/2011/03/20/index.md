@@ -13,7 +13,7 @@ Rocket alert system rings out across Ashkelon as rocket from Gaza slams into sou
 
 ##### Transitional Federal Government
 ### [12 people are killed in clashes between Transitional Federal Government troops and al-Shabaab rebels in southern Somalia. ](/news/2011/03/20/12-people-are-killed-in-clashes-between-transitional-federal-government-troops-and-al-shabaab-rebels-in-southern-somalia.md)
-_Context: Al-Shabaab, Somalia, Transitional Federal Government_
+_Context: Transitional Federal Government, Al-Shabaab, Somalia_
 
 ##### United States
 ### [A protest against the alleged "appalling" treatment by the United States of Bradley Manning occurs in London, with supporters from Wales, where Manning attended school, attending. ](/news/2011/03/20/a-protest-against-the-alleged-appalling-treatment-by-the-united-states-of-bradley-manning-occurs-in-london-with-supporters-from-wales-wh.md)
@@ -29,7 +29,7 @@ _Context: 1390, Nowruz_
 
 ##### BBC World Service
 ### [The BBC World Service is expected to sign an agreement with the United States State Department to enable it to combat censorship in Iran and the People's Republic of China. ](/news/2011/03/20/the-bbc-world-service-is-expected-to-sign-an-agreement-with-the-united-states-state-department-to-enable-it-to-combat-censorship-in-iran-and.md)
-_Context: BBC World Service, Iran, State Department, China_
+_Context: BBC World Service, State Department, China, Iran_
 
 ##### AT&T
 ### [AT&T and Deutsche Telekom reach an agreement for AT&T to purchase T-Mobile USA for $39 billion in cash and stock. ](/news/2011/03/20/at-t-and-deutsche-telekom-reach-an-agreement-for-at-t-to-purchase-t-mobile-usa-for-39-billion-in-cash-and-stock.md)
@@ -37,7 +37,7 @@ AT&amp;amp;T Inc. (NYSE: T) and Deutsche Telekom AG (FWB: DTE) today announced t
 
 ##### Radiation
 ### [A small amount of radiation is found on vegetables exported from Japan to Taiwan but the amount is too small to harm human health. ](/news/2011/03/20/a-small-amount-of-radiation-is-found-on-vegetables-exported-from-japan-to-taiwan-but-the-amount-is-too-small-to-harm-human-health.md)
-_Context: Taiwan, radiation, Japan, vegetables_
+_Context: Japan, Taiwan, radiation, vegetables_
 
 ##### Oil slick
 ### [A possible oil slick appears and spreads near the Mississippi Delta off the coast of Grand Isle, Louisiana, suspected to be an oil spill from the Matterhorn Seastar oil rig near the Deepwater Horizon oil spill location or silt contamination from a nearby dredging operation. ](/news/2011/03/20/a-possible-oil-slick-appears-and-spreads-near-the-mississippi-delta-off-the-coast-of-grand-isle-louisiana-suspected-to-be-an-oil-spill-fro.md)
@@ -49,7 +49,7 @@ State says 42-year old Palestinian engineer abducted in Ukraine being interrogat
 
 ##### U.S. President
 ### [U.S. president Barack Obama visits a favela and delivers a speech in Rio de Janeiro as part of his five-day Latin American journey. ](/news/2011/03/20/u-s-president-barack-obama-visits-a-favela-and-delivers-a-speech-in-rio-de-janeiro-as-part-of-his-five-day-latin-american-journey.md)
-_Context: U.S. President, Barack Obama, Rio de Janeiro, favela_
+_Context: favela, Rio de Janeiro, U.S. President, Barack Obama_
 
 ##### Sian O'Callaghan
 ### [Police are growing concerned for the safety of Sian O'Callaghan, a 22-year-old woman who went missing while walking home from a nightclub in the English city of Swindon in the early hours of Saturday 19 March. ](/news/2011/03/20/police-are-growing-concerned-for-the-safety-of-sian-o-callaghan-a-22-year-old-woman-who-went-missing-while-walking-home-from-a-nightclub-in.md)
@@ -77,7 +77,7 @@ Yemeni President Ali Abdullah Saleh fires his cabinet amid continuing protests a
 
 ##### Mahamadou Issoufou
 ### [Opposition leader Mahamadou Issoufou is elected President of Niger following over a year of transitionary rule under a military junta since a coup overthrew Mamadou Tandja. The runner-up in the election, former Prime Minister Seyni Oumarou, accepts the results. ](/news/2011/03/20/opposition-leader-mahamadou-issoufou-is-elected-president-of-niger-following-over-a-year-of-transitionary-rule-under-a-military-junta-since.md)
-_Context: elected, Prime Minister, Mahamadou Issoufou, Seyni Oumarou, a coup, Mamadou Tandja, President of Niger_
+_Context: Mahamadou Issoufou, Seyni Oumarou, President of Niger, a coup, Mamadou Tandja, elected, Prime Minister_
 
 ##### German
 ### [Voters in the German state of Saxony-Anhalt go to the polls for an election with the results indicating that the Christian Democratic Union is likely to remain in power. ](/news/2011/03/20/voters-in-the-german-state-of-saxony-anhalt-go-to-the-polls-for-an-election-with-the-results-indicating-that-the-christian-democratic-union.md)

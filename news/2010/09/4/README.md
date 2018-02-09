@@ -21,7 +21,7 @@ Four people were arrested during minor scuffles between gardaí and anti-war pro
 
 ##### State of emergency
 ### [A state of emergency and curfew are declared in Christchurch, New Zealand, after the 2010 Canterbury earthquake. ](/news/2010/09/4/a-state-of-emergency-and-curfew-are-declared-in-christchurch-new-zealand-after-the-2010-canterbury-earthquake.md)
-_Context: curfew, state of emergency, New Zealand, Christchurch, 2010 Canterbury earthquake_
+_Context: curfew, New Zealand, 2010 Canterbury earthquake, state of emergency, Christchurch_
 
 ##### Australia
 ### [Heavy rain in the Australian state of Victoria causes flooding in the towns of Ballarat, Maryborough and Bendigo with landslides blocking roads in the Victorian Alps. ](/news/2010/09/4/heavy-rain-in-the-australian-state-of-victoria-causes-flooding-in-the-towns-of-ballarat-maryborough-and-bendigo-with-landslides-blocking-ro.md)
@@ -35,7 +35,7 @@ Police in New Zealand name nine people, including four foreigners, who died when
 ### [NASA scientists advise the 33 miners trapped in Chile to regulate sleeping patterns, boost intake of Vitamin D and take exercise. ](/news/2010/09/4/nasa-scientists-advise-the-33-miners-trapped-in-chile-to-regulate-sleeping-patterns-boost-intake-of-vitamin-d-and-take-exercise.md)
 Scientists from the US space agency Nasa advise the trapped Chilean miners to exercise and regulate their day and night sleep patterns.
 
-##### President
+##### Guatemalan President
 ### [The President of Guatemala Alvaro Colom declares a state of emergency after weeks of heavy rain results in landslides with at least 21 people dead. ](/news/2010/09/4/the-president-of-guatemala-alvaro-colom-declares-a-state-of-emergency-after-weeks-of-heavy-rain-results-in-landslides-with-at-least-21-peopl.md)
 At least 18 people have been killed in Guatemala, including a dozen on a bus that was buried in a landslide, as heavy rains lashed the Central American nation and southern Mexico.
 
@@ -45,7 +45,7 @@ Two light aircraft collided during an aerial race in England Saturday, killing t
 
 ##### Hurricane Earl
 ### [Former Hurricane Earl loses its tropical storm status after making landfall in Nova Scotia, Canada but left one person dead and a million people without power in Canada. ](/news/2010/09/4/former-hurricane-earl-loses-its-tropical-storm-status-after-making-landfall-in-nova-scotia-canada-but-left-one-person-dead-and-a-million-pe.md)
-_Context: Nova Scotia, Canadian, tropical storm, Hurricane Earl_
+_Context: Hurricane Earl, tropical storm, Canadian, Nova Scotia_
 
 ##### DR Congo
 ### [Hundreds of people are believed to have died in the Democratic Republic of the Congo in river boat accidents. ](/news/2010/09/4/hundreds-of-people-are-believed-to-have-died-in-the-democratic-republic-of-the-congo-in-river-boat-accidents.md)
@@ -53,7 +53,7 @@ _Context: DR Congo, river boat_
 
 ##### Belarus
 ### [A prominent opposition journalist in Belarus, Oleg Bebenin, is found hanged; officials say he committed suicide. ](/news/2010/09/4/a-prominent-opposition-journalist-in-belarus-oleg-bebenin-is-found-hanged-officials-say-he-committed-suicide.md)
-_Context: suicide, Belarus, Oleg Bebenin_
+_Context: Belarus, Oleg Bebenin, suicide_
 
 ##### Argentina
 ### [A court in Argentina reopens an investigation into crimes against humanity under Francisco Franco in Spain. ](/news/2010/09/4/a-court-in-argentina-reopens-an-investigation-into-crimes-against-humanity-under-francisco-franco-in-spain.md)
@@ -61,7 +61,7 @@ An Argentine court reopens an investigation into alleged crimes against humanity
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, convicted of adultery and sentenced to death in Iran, reportedly faces the whip after "The Times" publishes an unveiled image of political activist Susan Hejrat in the mistaken belief it is her. ](/news/2010/09/4/sakineh-mohammadi-ashtiani-convicted-of-adultery-and-sentenced-to-death-in-iran-reportedly-faces-the-whip-after-the-times-publishes-an-u.md)
-_Context: Times, adultery, Sakineh Mohammadi Ashtiani, Susan Hejrat, Iran_
+_Context: Susan Hejrat, Times, Iran, Sakineh Mohammadi Ashtiani, adultery_
 
 ##### France
 ### [Thousands of people protest across France against the government's policy of deporting of Romani people. ](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.md)
@@ -73,7 +73,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Cabinet formation in the Netherlands
 ### [Cabinet formation in the Netherlands; Informateur Ivo Opstelten informs Queen Beatrix that the coalition formation between the People's Party for Freedom and Democracy (VVD) and the Christian Democratic Appeal (CDA) with support from the Party for Freedom (PVV) failed, after PVV leader Geert Wilders lost his confidence in the internal stability of the CDA parliamentary group after a letter of criticism was sent by CDA negotiator Ab Klink (CDA). ](/news/2010/09/4/cabinet-formation-in-the-netherlands-informateur-ivo-opstelten-informs-queen-beatrix-that-the-coalition-formation-between-the-people-s-part.md)
-_Context: Beatrix, Cabinet formation in the Netherlands, Party for Freedom, VVD, Ivo Opstelten, Ab Klink, Geert Wilders, CDA, Informateur_
+_Context: CDA, Cabinet formation in the Netherlands, Ivo Opstelten, Geert Wilders, Ab Klink, Party for Freedom, VVD, Informateur, Beatrix_
 
 ## [Previous Day...](/news/2010/09/3/index.md)
 

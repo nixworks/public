@@ -9,7 +9,7 @@ A suicide bomber killed 33 people and wounded 55 others in Madaen, about 25 km (
 
 ##### Jordanian air force
 ### [A Royal Jordanian Air Force warplane crashes, and its pilot is captured by Islamic State of Iraq and the Levant militants near the city of Ar-Raqqah in northern Syria. ](/news/2014/12/24/a-royal-jordanian-air-force-warplane-crashes-and-its-pilot-is-captured-by-islamic-state-of-iraq-and-the-levant-militants-near-the-city-of-a.md)
-_Context: ISIL, Ar-Raqqah, Jordanian air force, Syria_
+_Context: Syria, ISIL, Jordanian air force, Ar-Raqqah_
 
 ##### Sony Pictures Entertainment hack
 ### [Sony releases the film "The Interview" online via YouTube and Google Play. ](/news/2014/12/24/sony-releases-the-film-the-interview-online-via-youtube-and-google-play.md)

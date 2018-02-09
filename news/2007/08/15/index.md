@@ -9,19 +9,19 @@ _Context: Wikipedia Scanner, Wikipedia_
 
 ##### Hurricane Flossie
 ### [ Hurricane Flossie passes Hawaii causing some damage but not as much as feared. It has deteriorated to a tropical storm and should cause no further damage. ](/news/2007/08/15/hurricane-flossie-passes-hawaii-causing-some-damage-but-not-as-much-as-feared-it-has-deteriorated-to-a-tropical-storm-and-should-cause-no.md)
-_Context: tropical storm, Hawaii, Hurricane Flossie_
+_Context: Hurricane Flossie, tropical storm, Hawaii_
 
 ##### Hurricane
 ### [ A hurricane watch is issued for a portion of the Lesser Antilles including St. Lucia and Martinique due to the prospects of Tropical Storm Dean becoming a hurricane. ](/news/2007/08/15/a-hurricane-watch-is-issued-for-a-portion-of-the-lesser-antilles-including-st-lucia-and-martinique-due-to-the-prospects-of-tropical-storm.md)
-_Context: Tropical Storm Dean, Lesser Antilles, St. Lucia, hurricane, Martinique_
+_Context: hurricane, Martinique, Tropical Storm Dean, Lesser Antilles, St. Lucia_
 
 ##### Israeli Defence Force
 ### [ The Israeli Defence Force destroys a tunnel from the Gaza Strip towards Israel. ](/news/2007/08/15/the-israeli-defence-force-destroys-a-tunnel-from-the-gaza-strip-towards-israel.md)
-_Context: Gaza Strip, Israel, Israeli Defence Force_
+_Context: Israeli Defence Force, Gaza Strip, Israel_
 
 ##### U.S. President
 ### [ President of the United States George W. Bush, President of Mexico Felipe Calderon and the Prime Minister of Canada Stephen Harper to meet later this month under the North American Security and Prosperity Partnership (SPP) mechanism to discuss economic and security issues. ](/news/2007/08/15/president-of-the-united-states-george-w-bush-president-of-mexico-felipe-caldera3n-and-the-prime-minister-of-canada-stephen-harper-to-meet.md)
-_Context: Stephen Harper, President, U.S. President, Felipe Calderon, Security and Prosperity Partnership of North America, Prime Minister of Canada, George W. Bush_
+_Context: President, Felipe Calderon, Security and Prosperity Partnership of North America, George W. Bush, U.S. President, Prime Minister of Canada, Stephen Harper_
 
 ##### Jack McConnell
 ### [ Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. ](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.md)
@@ -41,7 +41,7 @@ Powerful earthquake registering 7.7 magnitude strikes near Lima, Peru, according
 
 ##### Japan
 ### [ Japan resumes economic and humanitarian aid to the Palestinian National Authority. ](/news/2007/08/15/japan-resumes-economic-and-humanitarian-aid-to-the-palestinian-national-authority.md)
-_Context: economic, Palestinian Authority, assistance, Japan, humanitarian_
+_Context: economic, Palestinian Authority, humanitarian, Japan, assistance_
 
 ##### Tropical Depression
 ### [ Tropical Depression Five strengthens into Tropical Storm Erin, causing tropical storm warnings to be issued for parts of Texas and Tamaulipas. ](/news/2007/08/15/tropical-depression-five-strengthens-into-tropical-storm-erin-causing-tropical-storm-warnings-to-be-issued-for-parts-of-texas-and-tamaulip.md)
@@ -49,11 +49,11 @@ Tropical Storm Erin, which formed in the western Gulf of Mexico early Wednesday,
 
 ##### Mexico
 ### [ Mexican authorities deport hundreds of illegal immigrants who got stuck on a closed GWI rail line in Chiapas. ](/news/2007/08/15/mexican-authorities-deport-hundreds-of-illegal-immigrants-who-got-stuck-on-a-closed-gwi-rail-line-in-chiapas.md)
-_Context: Chiapas, Mexico, rail line, GWI, illegal immigrants_
+_Context: GWI, Chiapas, Mexico, rail line, illegal immigrants_
 
 ##### 2007 South Asian floods
 ### [ 2007 South Asian floods: A landslide hits the Dharla village in the Indian state of Himachal Pradesh, killing at least five people. Another 55 are missing. ](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.md)
-_Context: India, 2007 South Asian floods, landslide, Dharla, Himachal Pradesh_
+_Context: Himachal Pradesh, India, landslide, Dharla, 2007 South Asian floods_
 
 ##### Kenya
 ### [ Hundreds of Kenyan journalists protest in the streets of Nairobi against a law that would require them to disclose their sources. ](/news/2007/08/15/hundreds-of-kenyan-journalists-protest-in-the-streets-of-nairobi-against-a-law-that-would-require-them-to-disclose-their-sources.md)
@@ -61,27 +61,27 @@ _Context: Kenya, Nairobi_
 
 ##### Australia
 ### [ Australia's foreign minister, Alexander Downer, confirms Australia will sell uranium and nuclear technology to India. ](/news/2007/08/15/australia-s-foreign-minister-alexander-downer-confirms-australia-will-sell-uranium-and-nuclear-technology-to-india.md)
-_Context: uranium, Alexander Downer, nuclear technology, Australia, India_
+_Context: Australia, nuclear technology, India, Alexander Downer, uranium_
 
 ##### Richard Boucher
 ### [ Richard Boucher, the U.S. Assistant Secretary of State, arrives in Pakistan to meet foreign minister Khurshid Mahmud Kasuri and President Pervez Musharraf. ](/news/2007/08/15/richard-boucher-the-u-s-assistant-secretary-of-state-arrives-in-pakistan-to-meet-foreign-minister-khurshid-mahmud-kasuri-and-president-p.md)
-_Context: United States, U.S. Assistant Secretary of State, Khurshid Mahmud Kasuri, Richard Boucher, Pervez Musharraf, Pakistan_
+_Context: Pakistan, United States, Richard Boucher, U.S. Assistant Secretary of State, Pervez Musharraf, Khurshid Mahmud Kasuri_
 
 ##### Cristina Fernandez de Kirchner
 ### [ Cristina Fernandez de Kirchner, Argentinian presidential candidate, presents Julio Cobos as her running mate. ](/news/2007/08/15/cristina-ferna-ndez-de-kirchner-argentinian-presidential-candidate-presents-julio-cobos-as-her-running-mate.md)
-_Context: Argentine general election, 2007, Argentina, Cristina Fernandez de Kirchner, Julio Cobos, running mate_
+_Context: Julio Cobos, Argentine general election, 2007, Cristina Fernandez de Kirchner, Argentina, running mate_
 
 ##### Ali Mohammed Ghedi
 ### [ Ali Mohammed Ghedi, the interim Prime Minister of Somalia, says he plans to create a Green Zone in Mogadishu and criticizes the United Nations for giving "so much emphasis on Darfur and not to Somalia". ](/news/2007/08/15/ali-mohammed-ghedi-the-interim-prime-minister-of-somalia-says-he-plans-to-create-a-green-zone-in-mogadishu-and-criticizes-the-united-nati.md)
-_Context: Darfur, Green Zone, Prime Minister of Somalia, United Nations, Ali Mohammed Ghedi, Mogadishu, Somalia_
+_Context: Somalia, Mogadishu, Darfur, Green Zone, Ali Mohammed Ghedi, Prime Minister of Somalia, United Nations_
 
 ##### ODM-Kenya
 ### [ ODM-Kenya, the main Kenyan opposition party, splits in two four months before the general elections. ](/news/2007/08/15/odm-kenya-the-main-kenyan-opposition-party-splits-in-two-four-months-before-the-general-elections.md)
-_Context: Kenya, ODM-Kenya, 2007 presidential election_
+_Context: 2007 presidential election, ODM-Kenya, Kenya_
 
 ##### Charles Murigande
 ### [ Charles Murigande, the foreign minister of Rwanda, criticizes the Democratic Republic of Congo for stopping military operations against the Democratic Forces for the Liberation of Rwanda. ](/news/2007/08/15/charles-murigande-the-foreign-minister-of-rwanda-criticizes-the-democratic-republic-of-congo-for-stopping-military-operations-against-the.md)
-_Context: Democratic Forces for the Liberation of Rwanda, Rwanda, Charles Murigande, Democratic Republic of Congo_
+_Context: Charles Murigande, Rwanda, Democratic Forces for the Liberation of Rwanda, Democratic Republic of Congo_
 
 ##### German
 ### [ Three Germans are killed by a bomb attack near Kabul. ](/news/2007/08/15/three-germans-are-killed-by-a-bomb-attack-near-kabul.md)
@@ -89,15 +89,15 @@ _Context: Kabul, German_
 
 ##### Japan
 ### [ On the 62nd anniversary of Japan's surrender in World War II, Prime Minister Shinzo Abe and his ministers do not visit the Yasukuni Shrine. ](/news/2007/08/15/on-the-62nd-anniversary-of-japan-s-surrender-in-world-war-ii-prime-minister-shinzo-abe-and-his-ministers-do-not-visit-the-yasukuni-shrine.md)
-_Context: Shinzo Abe, Yasukuni Shrine, World War II, Prime Minister of Japan, Japan_
+_Context: Japan, World War II, Shinzo Abe, Yasukuni Shrine, Prime Minister of Japan_
 
 ##### Russia
 ### [ Government sources reveal that the Russian administration of Boris Yeltsin sent unofficial signals to Finland at the end of 1991 about returning Karelia to Finland. ](/news/2007/08/15/government-sources-reveal-that-the-russian-administration-of-boris-yeltsin-sent-unofficial-signals-to-finland-at-the-end-of-1991-about-retu.md)
-_Context: Karelia, Finland, Boris Yeltsin, Russia_
+_Context: Karelia, Russia, Boris Yeltsin, Finland_
 
 ##### Shanghai Cooperation Organisation
 ### [ The Shanghai Cooperation Organisation invites Turkmenistan to its summit in Bishkek with a view to asking it to join. ](/news/2007/08/15/the-shanghai-cooperation-organisation-invites-turkmenistan-to-its-summit-in-bishkek-with-a-view-to-asking-it-to-join.md)
-_Context: Shanghai Cooperation Organisation, Turkmenistan, Bishkek_
+_Context: Turkmenistan, Bishkek, Shanghai Cooperation Organisation_
 
 ##### 2007 Qahtaniya bombings
 ### [ The death toll from the 2007 Qahtaniya bombings reaches 500 with 350 more people injured. ](/news/2007/08/15/the-death-toll-from-the-2007-qahtaniya-bombings-reaches-500-with-350-more-people-injured.md)
@@ -121,11 +121,11 @@ Queen Elizabeth II and British Prime Minister Gordon Brown have congratulated In
 
 ##### Bangladesh
 ### [ Bangladesh marks the 32nd anniversary of the assassination of Sheikh Mujibur Rahman, a pioneer of Bengali independence from Pakistan and their first President. ](/news/2007/08/15/bangladesh-marks-the-32nd-anniversary-of-the-assassination-of-sheikh-mujibur-rahman-a-pioneer-of-bengali-independence-from-pakistan-and-th.md)
-_Context: assassination, Sheikh Mujibur Rahman, Bangladesh, President, independence war_
+_Context: assassination, Bangladesh, President, Sheikh Mujibur Rahman, independence war_
 
 ##### United States
 ### [ The United States declares Iran's Islamic Revolutionary Guard Corps a "specially designated global terrorist," paving the way for increased financial pressure on Iran and its assets abroad. ](/news/2007/08/15/the-united-states-declares-iran-s-islamic-revolutionary-guard-corps-a-specially-designated-global-terrorist-paving-the-way-for-increased.md)
-_Context: Islamic Revolutionary Guard Corps, United States, Iran_
+_Context: United States, Iran, Islamic Revolutionary Guard Corps_
 
 ## [Previous Day...](/news/2007/08/14/index.md)
 

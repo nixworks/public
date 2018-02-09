@@ -13,19 +13,19 @@ Two suicide bombers have blown themselves up at the gates of a revered Shiite Mu
 
 ##### United States
 ### [ Two American Current TV journalists will be tried on criminal charges in North Korea. ](/news/2009/04/24/two-american-current-tv-journalists-will-be-tried-on-criminal-charges-in-north-korea.md)
-_Context: United States, trial, Current TV, journalist, indicted, North Korea_
+_Context: United States, Current TV, North Korea, trial, journalist, indicted_
 
 ##### Northern Mariana Islands
 ### [ Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. ](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.md)
-_Context: fraud, Timothy P. Villagomez, bribes, Northern Mariana Islands, Lieutenant Governor, wire fraud_
+_Context: bribes, wire fraud, Lieutenant Governor, fraud, Northern Mariana Islands, Timothy P. Villagomez_
 
 ##### Democrat
 ### [ Democrat Scott Murphy wins New York's 20th congressional district special election. ](/news/2009/04/24/democrat-scott-murphy-wins-new-york-s-20th-congressional-district-special-election.md)
-_Context: Democrat, special election, New York, 20th congressional district, Scott Murphy_
+_Context: special election, Scott Murphy, New York, Democrat, 20th congressional district_
 
 ##### American Southern Bank
 ### [ American Southern Bank in Kennesaw, Georgia, is closed. ](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.md)
-_Context: Georgia, banks failed, Kennesaw, American Southern Bank_
+_Context: American Southern Bank, Kennesaw, Georgia, banks failed_
 
 ##### Bovine genome
 ### [ The bovine genome is sequenced. ](/news/2009/04/24/the-bovine-genome-is-sequenced.md)

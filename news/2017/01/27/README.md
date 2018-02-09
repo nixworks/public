@@ -5,7 +5,7 @@ Formats: [HTML](2017/01/27/index.html)  [JSON](2017/01/27/index.json)  [XML](201
 
 ##### War in Somalia (2009-present)
 ### [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md)
-_Context: War in Somalia (2009-present), Somalia, AMISOM, Kenya, Al-Shabaab_
+_Context: Kenya, AMISOM, War in Somalia (2009-present), Somalia, Al-Shabaab_
 
 ##### Sir John Hurt
 ### [British actor Sir John Hurt dies at the age of 77. ](/news/2017/01/27/british-actor-sir-john-hurt-dies-at-the-age-of-77.md)

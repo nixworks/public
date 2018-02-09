@@ -9,7 +9,7 @@ Formats: [HTML](2010/05/7/index.html)  [JSON](2010/05/7/index.json)  [XML](2010/
 
 ##### Pakistan
 ### [4 policemen are killed and another seriously injured when militants open fire in Pakistan's Mansehra district of North-West Frontier Province. ](/news/2010/05/7/4-policemen-are-killed-and-another-seriously-injured-when-militants-open-fire-in-pakistan-s-mansehra-district-of-north-west-frontier-provinc.md)
-_Context: Mansehra, Northwestern Pakistan, Pakistan_
+_Context: Pakistan, Northwestern Pakistan, Mansehra_
 
 ##### Dubai
 ### [Dubai police name five new suspects in connection with the assassination of Mahmoud al-Mabhouh in January, involving passports from Australia, Britain and France. An Israeli citizen, Zev Barkan, wanted by New Zealand since 2004 for passport fraud, may have used a New Zealand passport. ](/news/2010/05/7/dubai-police-name-five-new-suspects-in-connection-with-the-assassination-of-mahmoud-al-mabhouh-in-january-involving-passports-from-australi.md)
@@ -29,11 +29,11 @@ _Context: South Africa, Rift Valley Fever_
 
 ##### Lithuania
 ### [An appeals court in Lithuania overturns a ruling which had earlier, due to fears over homophobic violence, prevented the country's first gay pride parade going ahead in Vilnius tomorrow. ](/news/2010/05/7/an-appeals-court-in-lithuania-overturns-a-ruling-which-had-earlier-due-to-fears-over-homophobic-violence-prevented-the-country-s-first-gay.md)
-_Context: gay pride, Vilnius, Lithuania, anti-gay_
+_Context: anti-gay, gay pride, Vilnius, Lithuania_
 
 ##### Nigeria
 ### [Lobbying for the role of Nigeria's new vice-president begins after Goodluck Jonathan's inauguration and Umaru Yar'Adua's death. ](/news/2010/05/7/lobbying-for-the-role-of-nigeria-s-new-vice-president-begins-after-goodluck-jonathan-s-inauguration-and-umaru-yar-adua-s-death.md)
-_Context: Goodluck Jonathan, Umaru Yar'Adua, Nigeria_
+_Context: Nigeria, Umaru Yar'Adua, Goodluck Jonathan_
 
 ##### Gunbattle
 ### [5 insurgents and 2 soldiers die in a "'gunbattle"' between Islamic rebels and Indian security forces in Kashmir. ](/news/2010/05/7/5-insurgents-and-2-soldiers-die-in-a-gunbattle-between-islamic-rebels-and-indian-security-forces-in-kashmir.md)
@@ -45,19 +45,19 @@ _Context: Central African Republic, Dembia_
 
 ##### Egypt
 ### [2 Egyptian peacekeepers are killed and 3 are injured by gunmen near Edd al-Fursan, South Darfur. ](/news/2010/05/7/2-egyptian-peacekeepers-are-killed-and-3-are-injured-by-gunmen-near-edd-al-fursan-south-darfur.md)
-_Context: South Darfur, Egypt, Edd al-Fursan_
+_Context: Edd al-Fursan, South Darfur, Egypt_
 
 ##### Confederation of African Football
 ### [Confederation of African Football (CAF) president Issa Hayatou asks his executive committee to lift sanctions imposed on the Togo national football team following an attack on their team bus ahead of the 2010 Africa Cup of Nations in Angola. ](/news/2010/05/7/confederation-of-african-football-caf-president-issa-hayatou-asks-his-executive-committee-to-lift-sanctions-imposed-on-the-togo-national-f.md)
-_Context: Confederation of African Football, Togo national football team attack, Issa Hayatou, 2010 Africa Cup of Nations, Angola, Togo national football team_
+_Context: Confederation of African Football, Angola, 2010 Africa Cup of Nations, Togo national football team, Togo national football team attack, Issa Hayatou_
 
 ##### National League for Democracy
 ### [A faction of the National League for Democracy in Burma forms its own political party to compete in elections, one day after the party disbanded. ](/news/2010/05/7/a-faction-of-the-national-league-for-democracy-in-burma-forms-its-own-political-party-to-compete-in-elections-one-day-after-the-party-disba.md)
-_Context: Burma, National League for Democracy_
+_Context: National League for Democracy, Burma_
 
 ##### Sierra Leone
 ### [The head of Sierra Leone's Anti-Corruption Commission, Abdul Tejan-Cole, resigns. ](/news/2010/05/7/the-head-of-sierra-leone-s-anti-corruption-commission-abdul-tejan-cole-resigns.md)
-_Context: Abdul Tejan-Cole, Sierra Leone_
+_Context: Sierra Leone, Abdul Tejan-Cole_
 
 ##### 
 ### [Flights take to the skies again in Ireland following recent Icelandic volcanic disruption. ](/news/2010/05/7/flights-take-to-the-skies-again-in-ireland-following-recent-icelandic-volcanic-disruption.md)

@@ -9,7 +9,7 @@ The Reform Party, a right of center, market-liberal force that has played a domi
 
 ##### Andorran parliamentary election, 2015
 ### [Despite losing five seats, the Democrats for Andorra narrowly retains their absolute majority in the General Council, winning 15 of the 28 seats. ](/news/2015/03/1/despite-losing-five-seats-the-democrats-for-andorra-narrowly-retains-their-absolute-majority-in-the-general-council-winning-15-of-the-28-s.md)
-_Context: General Council, Democrats for Andorra, Andorran parliamentary election, 2015_
+_Context: General Council, Andorran parliamentary election, 2015, Democrats for Andorra_
 
 ##### NASA
 ### [NASA astronauts perform the third of three ISS spacewalks completing the cabling reroutings needed in preparation for the 2017 arrival of the first commercial spacecraft capable of transporting astronauts. ](/news/2015/03/1/nasa-astronauts-perform-the-third-of-three-iss-spacewalks-completing-the-cabling-reroutings-needed-in-preparation-for-the-2017-arrival-of-th.md)

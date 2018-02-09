@@ -17,11 +17,11 @@ Two people were killed and four others seriously injured on Thursday in an explo
 
 ##### Dow Jones Industrial Average
 ### [ The Dow Jones Industrial Average falls more than 300 points due to concerns about weaknesses in the United States housing market and weak profit results. ](/news/2007/07/26/the-dow-jones-industrial-average-falls-more-than-300-points-due-to-concerns-about-weaknesses-in-the-united-states-housing-market-and-weak-p.md)
-_Context: United States, Dow Jones Industrial Average_
+_Context: Dow Jones Industrial Average, United States_
 
 ##### NASA
 ### [ NASA confirms that it discovered the apparent sabotage of a non-critical component of the International Space Station due to be carried up by the Space Shuttle Endeavour on August 7. ](/news/2007/07/26/nasa-confirms-that-it-discovered-the-apparent-sabotage-of-a-non-critical-component-of-the-international-space-station-due-to-be-carried-up.md)
-_Context: NASA, International Space Station, Space Shuttle ''Endeavour'', sabotage_
+_Context: NASA, International Space Station, sabotage, Space Shuttle ''Endeavour''_
 
 ##### Car bomb
 ### [ A car bomb in Baghdad kills at least 25 Iraqis and injures at least 50 more. ](/news/2007/07/26/a-car-bomb-in-baghdad-kills-at-least-25-iraqis-and-injures-at-least-50-more.md)
@@ -37,11 +37,11 @@ A federal judge ordered the government to pay $101 million to two men and the fa
 
 ##### Israel
 ### [ Israeli troops and airstrike kill four militants in an incursion into the Gaza Strip including three members of Islamic Jihad and one Hamas member. ](/news/2007/07/26/israeli-troops-and-airstrike-kill-four-militants-in-an-incursion-into-the-gaza-strip-including-three-members-of-islamic-jihad-and-one-hamas.md)
-_Context: Israel, Gaza Strip, Hamas, Hamas_
+_Context: Israel, Hamas, Hamas, Gaza Strip_
 
 ##### Explosion
 ### [ An explosion at an ordnance depot in Aleppo, Syria kills at least 15 people and injures 50 others. ](/news/2007/07/26/an-explosion-at-an-ordnance-depot-in-aleppo-syria-kills-at-least-15-people-and-injures-50-others.md)
-_Context: Syria, ordnance, Aleppo, explosion_
+_Context: Aleppo, explosion, ordnance, Syria_
 
 ##### 2007 European heat wave
 ### [ Effects of the 2007 European heat wave worsen with new forest fires being reported. ](/news/2007/07/26/effects-of-the-2007-european-heat-wave-worsen-with-new-forest-fires-being-reported.md)
@@ -49,11 +49,11 @@ _Context: 2007 European heat wave_
 
 ##### Earthquake
 ### [ A magnitude 7 earthquake in the Maluku Sea off the coast of Indonesia triggers a tsunami warning for North Maluku in Indonesia which is later cancelled. ](/news/2007/07/26/a-magnitude-7-earthquake-in-the-maluku-sea-off-the-coast-of-indonesia-triggers-a-tsunami-warning-for-north-maluku-in-indonesia-which-is-lat.md)
-_Context: earthquake, Maluku Islands, Indonesia, tsunami, North Maluku_
+_Context: Maluku Islands, earthquake, North Maluku, tsunami, Indonesia_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md)
-_Context: United States, Helmand province, War in Afghanistan (2001-present), Afghanistan_
+_Context: Helmand province, United States, War in Afghanistan (2001-present), Afghanistan_
 
 ##### Summer 2007 United Kingdom floods
 ### [ Summer 2007 United Kingdom floods: Flood water levels in the River Thames is expected to rise further as England expects more heavy rain. Two people die in Tewkesbury, Gloucestershire trying to pump water out of a club. ](/news/2007/07/26/summer-2007-united-kingdom-floods-flood-water-levels-in-the-river-thames-is-expected-to-rise-further-as-england-expects-more-heavy-rain-t.md)

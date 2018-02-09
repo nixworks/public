@@ -9,7 +9,7 @@ Officials say incident near camp for displaced people resulted in deaths of seve
 
 ##### War in North-West Pakistan
 ### [In response to yesterday's bombing at the Shrine of Lal Shahbaz Qalandar that killed 88 people, the Pakistan Army claims to have killed more than 100 terrorists and arrested many others. ](/news/2017/02/17/in-response-to-yesterday-s-bombing-at-the-shrine-of-lal-shahbaz-qalandar-that-killed-88-people-the-pakistan-army-claims-to-have-killed-more.md)
-_Context: Pakistan Army, yesterday's bombing, War in North-West Pakistan, Shrine of Lal Shahbaz Qalandar_
+_Context: yesterday's bombing, Pakistan Army, War in North-West Pakistan, Shrine of Lal Shahbaz Qalandar_
 
 ##### Mark Zuckerberg
 ### [Mark Zuckerberg publishes a new mission statement for his website, Facebook, including the development of artificial intelligence to identify potential tragic events such as suicides before they occur. ](/news/2017/02/17/mark-zuckerberg-publishes-a-new-mission-statement-for-his-website-facebook-including-the-development-of-artificial-intelligence-to-identif.md)
@@ -33,15 +33,15 @@ The remaining rats in the Pennsylvania facility were euthanized to prevent the s
 
 ##### European migrant crisis
 ### [Nearly five hundred African migrants swarm the border of Spain from Morocco. ](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-border-of-spain-from-morocco.md)
-_Context: Spain, European migrant crisis, Morocco, Africa_
+_Context: Spain, Africa, European migrant crisis, Morocco_
 
 ##### Cristina
 ### [Princess Cristina of Spain is acquitted of fraud but her husband is convicted. ](/news/2017/02/17/princess-cristina-of-spain-is-acquitted-of-fraud-but-her-husband-is-convicted.md)
-_Context: Cristina, fraud, Spain_
+_Context: Spain, fraud, Cristina_
 
 ##### Leila de Lima
 ### [Leila de Lima, senator and critic of the Philippine Drug War, is charged by Philippines justice secretary Vitaliano Aguirre II of alleged drug-related crimes. ](/news/2017/02/17/leila-de-lima-senator-and-critic-of-the-philippine-drug-war-is-charged-by-philippines-justice-secretary-vitaliano-aguirre-ii-of-alleged-dr.md)
-_Context: Leila de Lima, Philippines, Vitaliano Aguirre II, drug crackdown_
+_Context: drug crackdown, Leila de Lima, Vitaliano Aguirre II, Philippines_
 
 ##### Political appointments of Donald Trump
 ### [With a 52-46 vote, the U.S. Senate confirms Attorney General of Oklahoma Scott Pruitt as the Administrator of the Environmental Protection Agency. Breaking with party lines, Republican Susan Collins opposed the nomination, while Democrats Heidi Heitkamp and Joe Manchin supported Pruitt, who has been described as a climate change denier with a history of criticizing the agency he now leads. ](/news/2017/02/17/with-a-52a46-vote-the-u-s-senate-confirms-attorney-general-of-oklahoma-scott-pruitt-as-the-administrator-of-the-environmental-protection.md)

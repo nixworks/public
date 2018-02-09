@@ -13,7 +13,7 @@ Six activists given up to 15 years in prison for allegedly working with Iran to 
 
 ##### Michael Haneke
 ### [Michael Haneke scoops the Palme d'Or for "Love" at the 2012 Cannes Film Festival. ](/news/2012/05/27/michael-haneke-scoops-the-palme-d-or-for-love-at-the-2012-cannes-film-festival.md)
-_Context: Palme d'Or, 2012 Cannes Film Festival, Michael Haneke_
+_Context: 2012 Cannes Film Festival, Michael Haneke, Palme d'Or_
 
 ##### Tropical Storm Beryl
 ### [Tropical Storm Beryl makes landfall near the US city of Jacksonville with northern Florida and southern Georgia. ](/news/2012/05/27/tropical-storm-beryl-makes-landfall-near-the-us-city-of-jacksonville-with-northern-florida-and-southern-georgia.md)
@@ -25,7 +25,7 @@ Political parties in Greece criticise IMF head Christine Lagarde for suggesting 
 
 ##### French police
 ### [French police arrest the military leader of the Basque separatist group ETA Oroitz Gurruchaga Gogorza and his deputy Xabier Aramburu in the village of Cauna. ](/news/2012/05/27/french-police-arrest-the-military-leader-of-the-basque-separatist-group-eta-oroitz-gurruchaga-gogorza-and-his-deputy-xabier-aramburu-in-the.md)
-_Context: Xabier Aramburu, French police, Basque, ETA, Oroitz Gurruchaga Gogorza, Cauna_
+_Context: ETA, French police, Xabier Aramburu, Cauna, Basque, Oroitz Gurruchaga Gogorza_
 
 ##### Enda Kenny
 ### [Taoiseach Enda Kenny makes a televised address on the European Fiscal Compact ahead of Thursday's referendum. ](/news/2012/05/27/taoiseach-enda-kenny-makes-a-televised-address-on-the-european-fiscal-compact-ahead-of-thursday-s-referendum.md)

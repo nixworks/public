@@ -13,7 +13,7 @@ ADF confirms that district governor was killed in a firefight involving Australi
 
 ##### Sri Lankan Civil War
 ### [ Sri Lankan Civil War: The Sri Lanka Navy sinks 10 Liberation Tigers of Tamil Eelam (LTTE) boats and kills 25 LTTE rebels in heavy fighting off the port of Nachikkudah in Sri Lanka, according to the navy. ](/news/2008/09/18/sri-lankan-civil-war-the-sri-lanka-navy-sinks-10-liberation-tigers-of-tamil-eelam-ltte-boats-and-kills-25-ltte-rebels-in-heavy-fighting.md)
-_Context: Sri Lanka Navy, Sri Lankan Civil War, LTTE, Sri Lanka_
+_Context: Sri Lankan Civil War, Sri Lanka Navy, Sri Lanka, LTTE_
 
 ##### Russia
 ### [ Trading is suspended for the third day in succession on Russia's two main stock exchanges, the MICEX and the dollar-denominated RTS, amidst fear of financial collapse. News agencies are quoting Russia's Finance Minister, Alexei Kudrin, as saying trading on Russian exchanges won't resume until September 19. ](/news/2008/09/18/trading-is-suspended-for-the-third-day-in-succession-on-russia-s-two-main-stock-exchanges-the-micex-and-the-dollar-denominated-rts-amidst.md)
@@ -25,11 +25,11 @@ The federal government, trying to boost investor confidence in the face of a mar
 
 ##### United States soldier
 ### [ A United States Army CH-47 Chinook helicopter crashes in southern Iraq killing seven United States soldiers. ](/news/2008/09/18/a-united-states-army-ch-47-chinook-helicopter-crashes-in-southern-iraq-killing-seven-united-states-soldiers.md)
-_Context: United States soldier, Iraq, CH-47 Chinook, United States_
+_Context: Iraq, United States, CH-47 Chinook, United States soldier_
 
 ##### Bruessel
 ### [ Bruessel-EU:In European media, journalists report that some US politicians and military personnel supported with financial help the Anti-Europe Movement in Ireland against the Treaty of Lisbon. ](/news/2008/09/18/bruessel-eu-in-european-media-journalists-report-that-some-us-politicians-and-military-personnel-supported-with-financial-help-the-anti-eu.md)
-_Context: Bruessel, Treaty of Lisbon, Ireland, European Union_
+_Context: Ireland, European Union, Treaty of Lisbon, Bruessel_
 
 ## [Previous Day...](/news/2008/09/17/index.md)
 

@@ -33,7 +33,7 @@ The Sewol sank on 16 April 2014 killing 304 people, almost all school children o
 
 ##### American Health Care Act of 2017
 ### [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md)
-_Context: House of Representatives, American Health Care Act of 2017, Obamacare_
+_Context: United States House of Representatives, Obamacare, American Health Care Act of 2017_
 
 ##### Night parrot
 ### [The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. ](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.md)

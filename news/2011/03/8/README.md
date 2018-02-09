@@ -17,7 +17,7 @@ Twenty-one of the 23 oil workers kidnapped on Monday in the eastern department o
 
 ##### Copt
 ### [One person is killed in clashes between Coptic Christians and Muslims in the Egyptian capital Cairo. ](/news/2011/03/8/one-person-is-killed-in-clashes-between-coptic-christians-and-muslims-in-the-egyptian-capital-cairo.md)
-_Context: Christian, Copt, Egypt, Cairo, Muslim_
+_Context: Muslim, Christian, Egypt, Cairo, Copt_
 
 ##### Pakistani police
 ### [Police in Pakistan arrest a suspect over a car bombing in the eastern city of Faisalabad. ](/news/2011/03/8/police-in-pakistan-arrest-a-suspect-over-a-car-bombing-in-the-eastern-city-of-faisalabad.md)
@@ -25,15 +25,15 @@ Pakistan arrests a man after at least 25 people killed in an apparent car bomb b
 
 ##### Israel Defense Forces
 ### [Israeli troops and settlers open fire upon Palestinians in the West Bank while they repaired orchards previously attacked by settlers, injuring 8 Palestinians. ](/news/2011/03/8/israeli-troops-and-settlers-open-fire-upon-palestinians-in-the-west-bank-while-they-repaired-orchards-previously-attacked-by-settlers-injur.md)
-_Context: Israel Defense Forces, West Bank, Israeli settlement, Palestinians_
+_Context: Palestinians, Israel Defense Forces, Israeli settlement, West Bank_
 
 ##### Oil companies
 ### [Oil companies and banks have stopped trading with Libya after the introduction of sanctions leading to a shutdown of exports and further pressure on oil prices. ](/news/2011/03/8/oil-companies-and-banks-have-stopped-trading-with-libya-after-the-introduction-of-sanctions-leading-to-a-shutdown-of-exports-and-further-pre.md)
-_Context: sanctions, Libya, Oil companies_
+_Context: sanctions, Oil companies, Libya_
 
 ##### Redondo Beach
 ### [Authorities in Redondo Beach, California, in the US city of Los Angeles investigate what caused the death of millions of fish at the King Harbor Marina. ](/news/2011/03/8/authorities-in-redondo-beach-california-in-the-us-city-of-los-angeles-investigate-what-caused-the-death-of-millions-of-fish-at-the-king-ha.md)
-_Context: California, Los Angeles, California, Redondo Beach_
+_Context: Los Angeles, California, Redondo Beach, California_
 
 ##### Harrisburg, PA
 ### [7 children die in a farmhouse fire near Harrisburg, PA. ](/news/2011/03/8/7-children-die-in-a-farmhouse-fire-near-harrisburg-pa.md)
@@ -41,15 +41,15 @@ _Context: Harrisburg, PA_
 
 ##### China
 ### [China reiterates its claim over the disputed Spratly Islands after Vietnam and the Philippines protest over Chinese naval activity in their waters. ](/news/2011/03/8/china-reiterates-its-claim-over-the-disputed-spratly-islands-after-vietnam-and-the-philippines-protest-over-chinese-naval-activity-in-their.md)
-_Context: Spratly Islands, Philippines, Vietnam, China_
+_Context: Spratly Islands, China, Vietnam, Philippines_
 
 ##### Hideyuki Yoshioka
 ### [Lt. General Hideyuki Yoshioka, responsible for air systems development at Japan's Ministry of Defense, estimates that it is on track to develop a stealth fighter within three years. ](/news/2011/03/8/lt-general-hideyuki-yoshioka-responsible-for-air-systems-development-at-japan-s-ministry-of-defense-estimates-that-it-is-on-track-to-deve.md)
-_Context: Hideyuki Yoshioka, Ministry of Defense, stealth fighter, Japan_
+_Context: Ministry of Defense, stealth fighter, Hideyuki Yoshioka, Japan_
 
 ##### Mata Tuatagaloa Keli
 ### [Mata Tuatagaloa Keli is sworn in as Samoa's first female judge. ](/news/2011/03/8/mata-tuatagaloa-keli-is-sworn-in-as-samoa-s-first-female-judge.md)
-_Context: Samoa, Mata Tuatagaloa Keli_
+_Context: Mata Tuatagaloa Keli, Samoa_
 
 ##### Italian
 ### [Italian police seek to arrest 41 alleged members of the 'ndrangheta crime syndicate based in Calabria with suspects also sought in Germany, Canada and Australia. ](/news/2011/03/8/italian-police-seek-to-arrest-41-alleged-members-of-the-ndrangheta-crime-syndicate-based-in-calabria-with-suspects-also-sought-in-germany.md)
@@ -69,7 +69,7 @@ The prominent Syrian human rights activist and critic of the government Haitham 
 
 ##### Mexico
 ### [Mexico's youngest police chief, Marisol Valles Garcia of the town of Praxedis G. Guerrero, Chihuahua, seeks asylum to the United States after receiving death threats. ](/news/2011/03/8/mexico-s-youngest-police-chief-marisol-valles-garcaa-of-the-town-of-pra-xedis-g-guerrero-chihuahua-seeks-asylum-to-the-united-states-af.md)
-_Context: United States, Praxedis G. Guerrero, Chihuahua, Marisol Valles Garcia, Mexico_
+_Context: Mexico, Praxedis G. Guerrero, Chihuahua, United States, Marisol Valles Garcia_
 
 ##### Roman Catholic Church
 ### [Twenty-one Catholic priests in the US city of Philadelphia, Pennsylvania, are suspended after being named in an investigation in claims of widespread child molestation. ](/news/2011/03/8/twenty-one-catholic-priests-in-the-us-city-of-philadelphia-pennsylvania-are-suspended-after-being-named-in-an-investigation-in-claims-of-w.md)
@@ -81,11 +81,11 @@ _Context: Sudan, Darfur_
 
 ##### Panchen Lama
 ### [China's choice for the Panchen Lama, Gyaincain Norbu, says Tibetans have "never been freer", in an interview days before the third anniversary of deadly unrest. ](/news/2011/03/8/china-s-choice-for-the-panchen-lama-gyaincain-norbu-says-tibetans-have-never-been-freer-in-an-interview-days-before-the-third-anniversa.md)
-_Context: unrest in 2008, Panchen Lama, Tibetan, Gyaincain Norbu_
+_Context: unrest in 2008, Gyaincain Norbu, Panchen Lama, Tibetan_
 
 ##### President
 ### [Former President of Iran Hashemi Rafsanjani loses his position as head of the Assembly of Experts, the body responsible for choosing the Supreme Leader of Iran, being replaced by Mohammad-Reza Mahdavi Kani. ](/news/2011/03/8/former-president-of-iran-hashemi-rafsanjani-loses-his-position-as-head-of-the-assembly-of-experts-the-body-responsible-for-choosing-the-sup.md)
-_Context: Hashemi Rafsanjani, Mohammad-Reza Mahdavi Kani, President, Assembly of Experts, Supreme Leader_
+_Context: Hashemi Rafsanjani, President, Assembly of Experts, Supreme Leader, Mohammad-Reza Mahdavi Kani_
 
 ##### Iranian police
 ### [Opposition websites report that Iranian security forces have fired teargas at crowds in Tehran to disperse protestors. ](/news/2011/03/8/opposition-websites-report-that-iranian-security-forces-have-fired-teargas-at-crowds-in-tehran-to-disperse-protestors.md)

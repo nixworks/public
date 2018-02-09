@@ -25,7 +25,7 @@ Blizzards and widespread ice in many parts of the UK are causing considerable di
 
 ##### Cuba
 ### [Cuba is hit by a cold wave, and some locations register 50-year record low temperatures. ](/news/2010/12/17/cuba-is-hit-by-a-cold-wave-and-some-locations-register-50-year-record-low-temperatures.md)
-_Context: Cuba, cold spell_
+_Context: cold spell, Cuba_
 
 ##### Bolivia
 ### [Bolivia recognizes the State of Palestine. ](/news/2010/12/17/bolivia-recognizes-the-state-of-palestine.md)

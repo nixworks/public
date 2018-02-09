@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/7/index.html)  [JSON](2015/07/7/index.json)  [XML](2015/
 
 ##### Boko Haram insurgency
 ### [ A bomb attack has killed at least 25 people and wounded 32 others in northern Nigeria's Zaria. ](/news/2015/07/7/a-bomb-attack-has-killed-at-least-25-people-and-wounded-32-others-in-northern-nigeria-s-zaria.md)
-_Context: Zaria, Boko Haram insurgency, Timeline of Boko Haram insurgency_
+_Context: Timeline of Boko Haram insurgency, Boko Haram insurgency, Zaria_
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [ Air strikes and combat kill 200 in Yemen, highest daily toll so far. ](/news/2015/07/7/air-strikes-and-combat-kill-200-in-yemen-highest-daily-toll-so-far.md)
@@ -13,11 +13,11 @@ Saudi-led coalition air strikes and clashes killed at least 176 fighters and civ
 
 ##### Terrorism in Kenya
 ### [ Al-Shabaab militants kill 14 in northern Kenya. ](/news/2015/07/7/al-shabaab-militants-kill-14-in-northern-kenya.md)
-_Context: Terrorism in Kenya, War in Somalia (2009-present), Kenya, Al-Shabaab_
+_Context: Kenya, Terrorism in Kenya, Al-Shabaab, War in Somalia (2009-present)_
 
 ##### War in Afghanistan (2015-present)
 ### [ A NATO convoy is hit by a suicide car bomb in Kabul. Three or four civilians are injured; no fatalities have been reported. ](/news/2015/07/7/a-nato-convoy-is-hit-by-a-suicide-car-bomb-in-kabul-three-or-four-civilians-are-injured-no-fatalities-have-been-reported.md)
-_Context: NATO, War in Afghanistan (2015-present)_
+_Context: War in Afghanistan (2015-present), NATO_
 
 ##### Greek debt crisis timeline
 ### [Eurozone leaders hold a crisis meeting to discuss options on Greek debt following the referendum as Greek banks are near to running out of cash. For the last week Greek banks allowed to withdraw only 60 euros a day. ](/news/2015/07/7/eurozone-leaders-hold-a-crisis-meeting-to-discuss-options-on-greek-debt-following-the-referendum-as-greek-banks-are-near-to-running-out-of-c.md)
@@ -33,7 +33,7 @@ Malaysian authorities said Tuesday they have ordered six bank accounts to be fro
 
 ##### FBI
 ### [The FBI, U.S. Postal Service, and Indiana State Police seize electronics and other items from the Zionsville, Indiana home of Subway commercial spokesman Jared Fogle. The seizure comes two months after the former head of Fogle's foundation was arrested on child pornography charges. ](/news/2015/07/7/the-fbi-u-s-postal-service-and-indiana-state-police-seize-electronics-and-other-items-from-the-zionsville-indiana-home-of-subway-commerc.md)
-_Context: restaurant, FBI, Indiana State Police, Jared Fogle, child pornography, Zionsville, Indiana, U.S. Postal Service_
+_Context: restaurant, Jared Fogle, child pornography, Zionsville, Indiana, Indiana State Police, FBI, U.S. Postal Service_
 
 ## [Previous Day...](/news/2015/07/6/index.md)
 

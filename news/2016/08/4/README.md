@@ -9,11 +9,11 @@ The Syrian Observatory for Human Rights, a Britain-based opposition monitor, sai
 
 ##### Bank of England
 ### [As markets have expected, the Bank of England cuts the key interest rate to 0.25, the first cut since 2009. ](/news/2016/08/4/as-markets-have-expected-the-bank-of-england-cuts-the-key-interest-rate-to-0-25-the-first-cut-since-2009.md)
-_Context: 2009, Bank of England_
+_Context: Bank of England, 2009_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Earl makes landfall in Belize near Belize City early today. ](/news/2016/08/4/hurricane-earl-makes-landfall-in-belize-near-belize-city-early-today.md)
-_Context: Belize, 2016 Atlantic hurricane season, Belize City, Earl's_
+_Context: Belize City, 2016 Atlantic hurricane season, Earl's, Belize_
 
 ##### Wildfires
 ### [Wildfires in seven U.S. states are keeping thousands of firefighters at bay. ](/news/2016/08/4/wildfires-in-seven-u-s-states-are-keeping-thousands-of-firefighters-at-bay.md)
@@ -41,7 +41,7 @@ _Context: Nepal, Prime Minister, Pushpa Kamal Dahal_
 
 ##### China
 ### [China's unmanned lunar rover Yutu shuts down after exploring the Moon for 31 months. ](/news/2016/08/4/china-s-unmanned-lunar-rover-yutu-shuts-down-after-exploring-the-moon-for-31-months.md)
-_Context: China, Yutu, Moon, lunar rover_
+_Context: China, Moon, Yutu, lunar rover_
 
 ## [Previous Day...](/news/2016/08/3/index.md)
 

@@ -17,7 +17,7 @@ _Context: Mount Everest, Nepal_
 
 ##### Acapulco
 ### [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md)
-_Context: Mexico, Acapulco_
+_Context: Acapulco, Mexico_
 
 ##### Arizona Charlie's Decatur
 ### [Two security officers are killed in a shooting at the hotel-casino Arizona Charlie's Decatur in Las Vegas. ](/news/2017/12/30/two-security-officers-are-killed-in-a-shooting-at-the-hotel-casino-arizona-charlie-s-decatur-in-las-vegas.md)

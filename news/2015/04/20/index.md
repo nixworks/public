@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/20/index.html)  [JSON](2015/04/20/index.json)  [XML](201
 
 ##### War in Somalia (2009-present)
 ### [Nine people have been killed in a bomb attack on a convoy carrying food supplies to a United Nations compound in Garowe in the Somali region of Puntland. ](/news/2015/04/20/nine-people-have-been-killed-in-a-bomb-attack-on-a-convoy-carrying-food-supplies-to-a-united-nations-compound-in-garowe-in-the-somali-region.md)
-_Context: Garowe, a bomb attack, United Nations, Puntland, War in Somalia (2009-present)_
+_Context: Puntland, Garowe, War in Somalia (2009-present), a bomb attack, United Nations_
 
 ##### Sinai insurgency
 ### [A roadside bomb hits an armoured vehicle near the border town of Rafah in the northern Sinai Peninsula killing three people. ](/news/2015/04/20/a-roadside-bomb-hits-an-armoured-vehicle-near-the-border-town-of-rafah-in-the-northern-sinai-peninsula-killing-three-people.md)
@@ -29,7 +29,7 @@ Three people are killed in wild weather in NSW&#039;s Central Hunter region, whe
 
 ##### Blue Bell Creameries
 ### [Blue Bell Creameries recalls all of its products in the United States due to a "Listeria monocytogenes" outbreak. ](/news/2015/04/20/blue-bell-creameries-recalls-all-of-its-products-in-the-united-states-due-to-a-listeria-monocytogenes-outbreak.md)
-_Context: United States, Blue Bell Creameries, Listeria monocytogenes_
+_Context: Listeria monocytogenes, United States, Blue Bell Creameries_
 
 ##### Crossbow
 ### [A 13-year-old boy uses a home-made crossbow to kill a teacher and wound four other people at his school in the city of Barcelona. ](/news/2015/04/20/a-13-year-old-boy-uses-a-home-made-crossbow-to-kill-a-teacher-and-wound-four-other-people-at-his-school-in-the-city-of-barcelona.md)

@@ -17,7 +17,7 @@ At least 345 people die in a stampede on a bridge during festival celebrations i
 
 ##### Kim Tae-Young
 ### [South Korean Defense Minister Kim Tae-Young says the country may consider redeploying U.S. tactical nuclear weapons after the announcement of a new nuclear uranium enrichment plant by North Korea. ](/news/2010/11/22/south-korean-defense-minister-kim-tae-young-says-the-country-may-consider-redeploying-u-s-tactical-nuclear-weapons-after-the-announcement-o.md)
-_Context: uranium enrichment, Kim Tae-Young, North Korea_
+_Context: uranium enrichment, North Korea, Kim Tae-Young_
 
 ##### Parliament in Israel
 ### [Israel's parliament passes a bill requiring a special parliamentary majority or a referendum before Israel could relinquish the Golan Heights or east Jerusalem for a peace deal. ](/news/2010/11/22/israel-s-parliament-passes-a-bill-requiring-a-special-parliamentary-majority-or-a-referendum-before-israel-could-relinquish-the-golan-height.md)
@@ -25,11 +25,11 @@ Bill approved by vote of 65-33 now requires either Knesset super-majority or a n
 
 ##### Somalia
 ### [Ten Somalis go on trial in Germany for attacking a German ship in the country's first pirate trial in 400 years. ](/news/2010/11/22/ten-somalis-go-on-trial-in-germany-for-attacking-a-german-ship-in-the-country-s-first-pirate-trial-in-400-years.md)
-_Context: pirate, Somalia_
+_Context: Somalia, pirate_
 
 ##### DR Congo
 ### [Former Vice President of the Democratic Republic of the Congo, Jean-Pierre Bemba, goes on trial for crimes against humanity and war crimes at the International Criminal Court in The Hague. ](/news/2010/11/22/former-vice-president-of-the-democratic-republic-of-the-congo-jean-pierre-bemba-goes-on-trial-for-crimes-against-humanity-and-war-crimes-a.md)
-_Context: Jean-Pierre Bemba, crimes against humanity, The Hague, DR Congo, war crime, ICC_
+_Context: Jean-Pierre Bemba, crimes against humanity, ICC, war crime, DR Congo, The Hague_
 
 ##### Melamine
 ### [Chinese authorities begin a search for a batch of melamine-tainted products in Hubei. ](/news/2010/11/22/chinese-authorities-begin-a-search-for-a-batch-of-melamine-tainted-products-in-hubei.md)

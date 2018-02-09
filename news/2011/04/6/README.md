@@ -5,7 +5,7 @@ Formats: [HTML](2011/04/6/index.html)  [JSON](2011/04/6/index.json)  [XML](2011/
 
 ##### 2011 Yemeni protests
 ### [2011 Yemeni protests: six people are killed and hundreds injured in Yemen violence. ](/news/2011/04/6/2011-yemeni-protests-six-people-are-killed-and-hundreds-injured-in-yemen-violence.md)
-_Context: Yemen, 2011 Yemeni protests_
+_Context: 2011 Yemeni protests, Yemen_
 
 ##### NATO
 ### [NATO pledges to protect the besieged town of Misrata amid criticism from rebel fighters. ](/news/2011/04/6/nato-pledges-to-protect-the-besieged-town-of-misrata-amid-criticism-from-rebel-fighters.md)
@@ -43,7 +43,7 @@ A desperate search is mounted for scores of African migrants missing after a boa
 
 ##### United States Navy
 ### [A United States Navy F-A-18 crashes near Naval Air Station Lemoore in California. ](/news/2011/04/6/a-united-states-navy-f-a-18-crashes-near-naval-air-station-lemoore-in-california.md)
-_Context: California, United States Navy, Naval Air Station Lemoore, F/A-18_
+_Context: United States Navy, California, F/A-18, Naval Air Station Lemoore_
 
 ##### Ecuador
 ### [Ecuador expels the United States ambassador over Wikileaks diplomatic cables alleging corruption within the Ecuadorian police force. ](/news/2011/04/6/ecuador-expels-the-united-states-ambassador-over-wikileaks-diplomatic-cables-alleging-corruption-within-the-ecuadorian-police-force.md)
@@ -51,7 +51,7 @@ Ecuador expels the US ambassador in Quito after the release of a US diplomatic c
 
 ##### Found guilty
 ### [The trial of Prime Minister of Italy Silvio Berlusconi for having sex with an underage prostitute begins. ](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.md)
-_Context: Silvio Berlusconi, Italian Prime Minister, found guilty_
+_Context: Italian Prime Minister, found guilty, Silvio Berlusconi_
 
 ##### Irish
 ### [A tape recording is released of police in the Republic of Ireland allegedly threatening to rape two female protesters, one of whom is from North America, after arresting them, causing an outcry among women's groups and anti-rape organizations. ](/news/2011/04/6/a-tape-recording-is-released-of-police-in-the-republic-of-ireland-allegedly-threatening-to-rape-two-female-protesters-one-of-whom-is-from-n.md)
@@ -63,7 +63,7 @@ _Context: Enron, 5th Circuit Court of Appeals, Jeff Skilling_
 
 ##### Mexico
 ### [More than forty bodies are found in a mass grave in Mexico's Tamaulipas state. ](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.md)
-_Context: Mexico, Tamaulipas_
+_Context: Tamaulipas, Mexico_
 
 ##### United States Senate
 ### [The United States Senate defeated a measure that would have banned the Environmental Protection Agency from regulating greenhouse gas emissions under the Clean Air Act (United States). The new regulations which began being applied early this year affect air polluters such as power plants and oil refineries, attempts to address climate change mitigation. ](/news/2011/04/6/the-united-states-senate-defeated-a-measure-that-would-have-banned-the-environmental-protection-agency-from-regulating-greenhouse-gas-emissi.md)
@@ -71,7 +71,7 @@ Efforts to curtail the environmental agency’s programs are not likely to end: 
 
 ##### China
 ### [The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. ](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.md)
-_Context: state media, Ai Weiwei, Global Times, China_
+_Context: Global Times, China, state media, Ai Weiwei_
 
 ## [Previous Day...](/news/2011/04/5/index.md)
 

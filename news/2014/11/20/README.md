@@ -17,15 +17,15 @@ _Context: North Korea, United Nations Security Council, Human Rights Council_
 
 ##### NSW
 ### [The New South Wales Independent Commission against Corruption charges former ministers Eddie Obeid and Ian Macdonald for offenses of misconduct in public office in relation to mining licences. ](/news/2014/11/20/the-new-south-wales-independent-commission-against-corruption-charges-former-ministers-eddie-obeid-and-ian-macdonald-for-offenses-of-miscond.md)
-_Context: Ian Macdonald, NSW, Eddie Obeid, Independent Commission against Corruption_
+_Context: Independent Commission against Corruption, Eddie Obeid, NSW, Ian Macdonald_
 
 ##### Sanatorium
 ### [A knife attack in a sanatorium dormitory in the Northern China resort of Beidahe kills seven people, including six nurses. ](/news/2014/11/20/a-knife-attack-in-a-sanatorium-dormitory-in-the-northern-china-resort-of-beidahe-kills-seven-people-including-six-nurses.md)
-_Context: Beidahe, sanatorium, Northern China_
+_Context: sanatorium, Northern China, Beidahe_
 
 ##### Sinking of the MV ''Sewol''
 ### [A South Korean court sentences Kim Han-sik, the chief executive of Chonghaejin Marine, operator of the MV Sewol, to ten years in jail for negligence and embezzlement. ](/news/2014/11/20/a-south-korean-court-sentences-kim-han-sik-the-chief-executive-of-chonghaejin-marine-operator-of-the-mv-sewol-to-ten-years-in-jail-for-ne.md)
-_Context: Sinking of the MV ''Sewol'', MV ''Sewol'', South Korea, Chonghaejin Marine_
+_Context: MV ''Sewol'', Chonghaejin Marine, South Korea, Sinking of the MV ''Sewol''_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama announces executive orders to defer the deportations of a certain group of illegal immigrants: parents whose children are already U.S. citizens and legal permanent residents who have lived in the United States for five years or more. ](/news/2014/11/20/the-president-of-the-united-states-barack-obama-announces-executive-orders-to-defer-the-deportations-of-a-certain-group-of-illegal-immigrant.md)

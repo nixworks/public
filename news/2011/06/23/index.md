@@ -9,11 +9,11 @@ Syrian troops massed onthe Turkish border overnight, witnesses said on Thursday,
 
 ##### 2010-2011 Senegal protests
 ### [2010-2011 Senegal protests: Thousands of people gather outside parliament in Dakar to protest changes to the constitution and are dispersed with tear gas and rubber bullets by riot police. ](/news/2011/06/23/2010a2011-senegal-protests-thousands-of-people-gather-outside-parliament-in-dakar-to-protest-changes-to-the-constitution-and-are-disperse.md)
-_Context: Dakar, riot police, tear gas, rubber bullet, 2010-2011 Senegal protests_
+_Context: Dakar, riot police, 2010-2011 Senegal protests, tear gas, rubber bullet_
 
 ##### France
 ### [France announces plans to withdraw troops from Afghanistan in a similar timeframe to that announced for United States forces by President Barack Obama yesterday. ](/news/2011/06/23/france-announces-plans-to-withdraw-troops-from-afghanistan-in-a-similar-timeframe-to-that-announced-for-united-states-forces-by-president-ba.md)
-_Context: U.S. President, Afghanistan, France, United States, Barack Obama_
+_Context: France, Afghanistan, U.S. President, United States, Barack Obama_
 
 ##### Hamas
 ### [After Hamas rejects a call from the International Red Cross for access to Israeli soldier Gilad Shalit, held incommunicado since he was captured nearly five years ago, Israeli Prime Minister Benjamin Netanyahu says Israel will reduce Palestinian prisoners' privileges in response. ](/news/2011/06/23/after-hamas-rejects-a-call-from-the-international-red-cross-for-access-to-israeli-soldier-gilad-shalit-held-incommunicado-since-he-was-capt.md)
@@ -41,11 +41,11 @@ Telstra signs an $11 billion deal with the NBN Co to allow the new high-speed br
 
 ##### Greek labour unions
 ### [Greek labour unions declare a 48-hour general strike next week to protest new austerity measures set to be voted on by the Greek parliament. ](/news/2011/06/23/greek-labour-unions-declare-a-48-hour-general-strike-next-week-to-protest-new-austerity-measures-set-to-be-voted-on-by-the-greek-parliament.md)
-_Context: Greek labour unions, new austerity measures, general strike_
+_Context: Greek labour unions, general strike, new austerity measures_
 
 ##### Supreme Court of the United States
 ### [The U.S. Supreme Court rules on freedom of speech grounds against a state's effort to block pharmaceutical companies from selling information about the prescription records of particular doctors. ](/news/2011/06/23/the-u-s-supreme-court-rules-on-freedom-of-speech-grounds-against-a-state-s-effort-to-block-pharmaceutical-companies-from-selling-informatio.md)
-_Context: freedom of speech, Supreme Court of the United States, pharmaceutical companies_
+_Context: Supreme Court of the United States, pharmaceutical companies, freedom of speech_
 
 ##### Earthquake
 ### [An earthquake of 6.7 magnitude occurs off the coast of Japan's Iwate prefecture. ](/news/2011/06/23/an-earthquake-of-6-7-magnitude-occurs-off-the-coast-of-japan-s-iwate-prefecture.md)
@@ -53,7 +53,7 @@ An earthquake with a preliminary magnitude of 6.7 struck off the coast of Iwate 
 
 ##### Tropical storm
 ### [The fourth tropical storm of the 2011 Pacific typhoon season, Tropical Storm Haima (Egay), makes landfall in southern Guangdong Province in the People's Republic of China. ](/news/2011/06/23/the-fourth-tropical-storm-of-the-2011-pacific-typhoon-season-tropical-storm-haima-egay-makes-landfall-in-southern-guangdong-province-in.md)
-_Context: China, 2011 Pacific typhoon season, Guangdong Province, tropical storm_
+_Context: 2011 Pacific typhoon season, tropical storm, China, Guangdong Province_
 
 ##### U.S. nuclear regulators
 ### [U.S. nuclear regulators say two nuclear power plants at the Fort Calhoun plant, about 20 miles north of Omaha, Nebraska, have protected critical equipment from the rising waters of the Missouri River even though flooding has already reached the grounds of one of them. ](/news/2011/06/23/u-s-nuclear-regulators-say-two-nuclear-power-plants-at-the-fort-calhoun-plant-about-20-miles-north-of-omaha-nebraska-have-protected-crit.md)
@@ -61,23 +61,23 @@ U.S. nuclear regulators say two Nebraska nuclear power plants have protected cri
 
 ##### Earthquake
 ### [A 7.3 magnitude earthquake offshore from the US northern state of Alaska leads to a tsunami warning being issued but it is later cancelled. ](/news/2011/06/23/a-7-3-magnitude-earthquake-offshore-from-the-us-northern-state-of-alaska-leads-to-a-tsunami-warning-being-issued-but-it-is-later-cancelled.md)
-_Context: Alaska, earthquake, tsunami_
+_Context: tsunami, earthquake, Alaska_
 
 ##### Heavy flood
 ### [2011 China floods: An 'unprecedented' flash flood hits Beijing, leaving streets and many areas including Tiananmen Square and the Beijing Subway system underwater. ](/news/2011/06/23/2011-china-floods-an-unprecedented-flash-flood-hits-beijing-leaving-streets-and-many-areas-including-tiananmen-square-and-the-beijing-su.md)
-_Context: heavy flood, Beijing Subway, Tiananmen Square, Beijing, flash flood_
+_Context: flash flood, Beijing, heavy flood, Beijing Subway, Tiananmen Square_
 
 ##### Japan
 ### [The Japanese national broadcasting company NHK captures images of the Chinese Navy navigating the high seas between the islands of Japan's Okinawa prefecture. ](/news/2011/06/23/the-japanese-national-broadcasting-company-nhk-captures-images-of-the-chinese-navy-navigating-the-high-seas-between-the-islands-of-japan-s-o.md)
-_Context: NHK, Japan, People's Liberation Army Navy, Okinawa_
+_Context: People's Liberation Army Navy, NHK, Okinawa, Japan_
 
 ##### President of Indonesia
 ### [The President of Indonesia Susilo Bambang Yudhoyono condemns the beheading of an Indonesian maid in Saudi Arabia and condemns the Saudi Government of breaking the "norms and manners" of international relations. ](/news/2011/06/23/the-president-of-indonesia-susilo-bambang-yudhoyono-condemns-the-beheading-of-an-indonesian-maid-in-saudi-arabia-and-condemns-the-saudi-gove.md)
-_Context: Indonesia, government, beheading, Susilo Bambang Yudhoyono, President of Indonesia, Saudi Arabia_
+_Context: beheading, Indonesia, President of Indonesia, government, Susilo Bambang Yudhoyono, Saudi Arabia_
 
 ##### Apple Inc.
 ### [Computer firm Apple removes an application from its App Store that called for a "Third Intifada" against Israel. ](/news/2011/06/23/computer-firm-apple-removes-an-application-from-its-app-store-that-called-for-a-third-intifada-against-israel.md)
-_Context: Israel, App Store, Apple Inc., Intifada_
+_Context: Intifada, Israel, Apple Inc., App Store_
 
 ##### Death penalty
 ### [Four policemen are sentenced to death and another is sentenced to life imprisonment for last year's assassination of activist Floribert Chebeya in Democratic Republic of the Congo. ](/news/2011/06/23/four-policemen-are-sentenced-to-death-and-another-is-sentenced-to-life-imprisonment-for-last-year-s-assassination-of-activist-floribert-cheb.md)
@@ -97,7 +97,7 @@ Hacker collective of the moment LulzSec has just released a torrent of data it c
 
 ##### Fraud
 ### [Accused fraudster and US TV pitchman Don Lapre is arrested in Tempe, Arizona. ](/news/2011/06/23/accused-fraudster-and-us-tv-pitchman-don-lapre-is-arrested-in-tempe-arizona.md)
-_Context: fraud, Arizona, Don Lapre, Tempe, pitchman_
+_Context: Tempe, pitchman, Arizona, fraud, Don Lapre_
 
 ##### Levi Bellfield
 ### [Levi Bellfield &ndash; three years into a life sentence for the murder of two young women and the attempted murder of a third &ndash; is found guilty of the 2002 murder of Milly Dowler in Surrey, United Kingdom. ](/news/2011/06/23/levi-bellfield-ndash-three-years-into-a-life-sentence-for-the-murder-of-two-young-women-and-the-attempted-murder-of-a-third-ndash-is-fou.md)
@@ -105,7 +105,7 @@ Former nightclub doorman Levi Bellfield is found guilty of murdering 13-year-old
 
 ##### U.S. President
 ### [The President of the United States Barack Obama states that gay and lesbian couples "deserve the same legal rights as every other couple in this country" at a function for LGBT people in New York City. ](/news/2011/06/23/the-president-of-the-united-states-barack-obama-states-that-gay-and-lesbian-couples-deserve-the-same-legal-rights-as-every-other-couple-in.md)
-_Context: New York City, gay and bisexual men, U.S. President, Barack Obama_
+_Context: New York City, U.S. President, gay and bisexual men, Barack Obama_
 
 ##### New Jersey General Assembly
 ### [The New Jersey General Assembly passes a bill overhauling the health and pension benefits of public employees. ](/news/2011/06/23/the-new-jersey-general-assembly-passes-a-bill-overhauling-the-health-and-pension-benefits-of-public-employees.md)
@@ -113,7 +113,7 @@ After three hours of debate, the bill overhauling public worker pension and bene
 
 ##### E. coli blamed for 46 deaths
 ### [A study finds that the 2011 E. coli O104:H4 outbreak was a mix of two dangerous "E. coli" strains. ](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.md)
-_Context: E. coli blamed for 46 deaths, E. coli_
+_Context: E. coli, E. coli blamed for 46 deaths_
 
 ## [Previous Day...](/news/2011/06/22/index.md)
 

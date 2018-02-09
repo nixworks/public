@@ -5,7 +5,7 @@ Formats: [HTML](2006/01/27/index.html)  [JSON](2006/01/27/index.json)  [XML](200
 
 ##### President
 ### [ French President Jacques Chirac is successfully hoaxed by a Canadian DJ pretending to be Stephen Harper. ](/news/2006/01/27/french-president-jacques-chirac-is-successfully-hoaxed-by-a-canadian-dj-pretending-to-be-stephen-harper.md)
-_Context: President, Stephen Harper, hoax, Jacques Chirac, DJ_
+_Context: Stephen Harper, President, hoax, Jacques Chirac, DJ_
 
 ##### Holocaust
 ### [ European leaders remember the Holocaust, with the 61st anniversary of the liberation of the Auschwitz death camp. ](/news/2006/01/27/european-leaders-remember-the-holocaust-with-the-61st-anniversary-of-the-liberation-of-the-auschwitz-death-camp.md)
@@ -13,15 +13,15 @@ _Context: Holocaust, Auschwitz_
 
 ##### Earthquake
 ### [ A 7.7 magnitude earthquake strikes the Banda Sea of eastern Indonesia. ](/news/2006/01/27/a-7-7-magnitude-earthquake-strikes-the-banda-sea-of-eastern-indonesia.md)
-_Context: earthquake, Indonesia, Banda Sea_
+_Context: Banda Sea, Indonesia, earthquake_
 
 ##### World
 ### [ The world honours Mozart on his 250th birthday anniversary. ](/news/2006/01/27/the-world-honours-mozart-on-his-250th-birthday-anniversary.md)
-_Context: world, anniversary, birthday, Mozart_
+_Context: birthday, Mozart, anniversary, world_
 
 ##### President of Georgia
 ### [ President Mikhail Saakashvili of Georgia pledges to end his country's energy crisis by importing Iranian natural gas. Starting Monday, Georgia will import 2 million m 3 of gas a day at $120-m 3 , $10 more than for Russian gas. Georgia's supply of Russian gas has been interrupted since Sunday due to pipeline explosions. Saakashvili has accused Moscow of sabotage for political gain. ](/news/2006/01/27/president-mikhail-saakashvili-of-georgia-pledges-to-end-his-country-s-energy-crisis-by-importing-iranian-natural-gas-starting-monday-geor.md)
-_Context: pipeline explosions, natural gas, Moscow,  Georgian, Mikhail Saakashvili, President of Georgia, Iran_
+_Context:  Georgian, pipeline explosions, Moscow, President of Georgia, Iran, Mikhail Saakashvili, natural gas_
 
 ## [Previous Day...](/news/2006/01/26/index.md)
 

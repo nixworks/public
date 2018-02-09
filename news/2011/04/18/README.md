@@ -9,7 +9,7 @@ The best of British &amp; international news, opinion, sport, people &amp; busin
 
 ##### Muslim
 ### [Suspected Muslim insurgents detonate a bomb in southern Thailand, killing one and injuring 23 people. ](/news/2011/04/18/suspected-muslim-insurgents-detonate-a-bomb-in-southern-thailand-killing-one-and-injuring-23-people.md)
-_Context: Muslim, Thailand_
+_Context: Thailand, Muslim_
 
 ##### Syria
 ### [Eight killed in Syrian Protests. ](/news/2011/04/18/eight-killed-in-syrian-protests.md)
@@ -33,7 +33,7 @@ Get the latest Latin American and Caribbean news from BBC News in Latin America 
 
 ##### Piracy
 ### [An anti-piracy conference opens in Dubai, United Arab Emirates. ](/news/2011/04/18/an-anti-piracy-conference-opens-in-dubai-united-arab-emirates.md)
-_Context: United Arab Emirates, piracy, Dubai_
+_Context: Dubai, piracy, United Arab Emirates_
 
 ##### Uganda
 ### [Ugandan opposition leader Kizza Besigye is arrested during a protest against high food and fuel prices in the capital Kampala. ](/news/2011/04/18/ugandan-opposition-leader-kizza-besigye-is-arrested-during-a-protest-against-high-food-and-fuel-prices-in-the-capital-kampala.md)

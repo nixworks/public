@@ -5,11 +5,11 @@ Formats: [HTML](2013/05/8/index.html)  [JSON](2013/05/8/index.json)  [XML](2013/
 
 ##### Suicide bombing
 ### [A suicide car bombing hits a police station in the Bannu District of northwest Pakistan, killing at least two people and injuring twenty. ](/news/2013/05/8/a-suicide-car-bombing-hits-a-police-station-in-the-bannu-district-of-northwest-pakistan-killing-at-least-two-people-and-injuring-twenty.md)
-_Context: Bannu District, Pakistan, suicide bombing_
+_Context: Pakistan, Bannu District, suicide bombing_
 
 ##### Somalia
 ### [Nineteen people are killed in the Somali capital, Mogadishu, in suicide bombings and firefights between Al-Shabaab militants and government forces. ](/news/2013/05/8/nineteen-people-are-killed-in-the-somali-capital-mogadishu-in-suicide-bombings-and-firefights-between-al-shabaab-militants-and-government.md)
-_Context: Al-Shabaab, Somali military, Somalia, Mogadishu_
+_Context: Mogadishu, Al-Shabaab, Somalia, Somali military_
 
 ##### Chile
 ### [Amid protests for free education by tens of thousands of people in major cities across Chile, police clash with protesters. ](/news/2013/05/8/amid-protests-for-free-education-by-tens-of-thousands-of-people-in-major-cities-across-chile-police-clash-with-protesters.md)
@@ -33,11 +33,11 @@ The UN names three panel members of its first-ever human rights investigation in
 
 ##### World Trade Organization
 ### [The World Trade Organization advised that Roberto Azevedo of Brazil will be the next Director-General effective September 1, 2013. The formal announcement will be made following a special meeting of the General Council on Tuesday, May 14, 2013. ](/news/2013/05/8/the-world-trade-organization-advised-that-roberto-azevaado-of-brazil-will-be-the-next-director-general-effective-september-1-2013-the-form.md)
-_Context: Brazil, General Council, World Trade Organization, Director-General, Roberto Azevedo_
+_Context: Brazil, Director-General, General Council, Roberto Azevedo, World Trade Organization_
 
 ##### France
 ### [Police in France, Belgium and Switzerland arrest more than two dozen people in connection with the Brussels Airport diamond heist. ](/news/2013/05/8/police-in-france-belgium-and-switzerland-arrest-more-than-two-dozen-people-in-connection-with-the-brussels-airport-diamond-heist.md)
-_Context: Belgium, France, Switzerland, Brussels Airport diamond heist_
+_Context: Belgium, Switzerland, France, Brussels Airport diamond heist_
 
 ##### Italy
 ### [An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. ](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.md)

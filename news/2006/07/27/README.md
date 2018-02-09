@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/27/index.html)  [JSON](2006/07/27/index.json)  [XML](200
 
 ##### Somalia
 ### [ Somalia's interim government unravels as at least 20 government members resign, most being parliament members, accusing the country's virtually powerless government of failing to bring peace. ](/news/2006/07/27/somalia-s-interim-government-unravels-as-at-least-20-government-members-resign-most-being-parliament-members-accusing-the-country-s-virtu.md)
-_Context: Somalia, resign_
+_Context: resign, Somalia_
 
 ##### DR Congo
 ### [ The three main militia groups in the troubled DR Congo eastern province of Ituri have agreed to lay down arms and begin integrating into the Congolese army.](/news/2006/07/27/the-three-main-militia-groups-in-the-troubled-dr-congo-eastern-province-of-ituri-have-agreed-to-lay-down-arms-and-begin-integrating-into-th.md)
@@ -13,11 +13,11 @@ _Context: Ituri, DR Congo_
 
 ##### China
 ### [ More than 80 people dead and missing in China as a result of Typhoon Kaemi. ](/news/2006/07/27/more-than-80-people-dead-and-missing-in-china-as-a-result-of-typhoon-kaemi.md)
-_Context: Typhoon Kaemi, China_
+_Context: China, Typhoon Kaemi_
 
 ##### Rome, Italy
 ### [ In Rome, the President of the Venice Biennale Davide Croff and the Director of the 63rd Venice Film Festival Marco Mller have presented the line-up of the festival, which runs August 30 - September 9. ](/news/2006/07/27/in-rome-the-president-of-the-venice-biennale-davide-croff-and-the-director-of-the-63rd-venice-film-festival-marco-muller-have-presented-th.md)
-_Context: Venice Film Festival, Rome, Italy, Venice Biennale_
+_Context: Rome, Italy, Venice Biennale, Venice Film Festival_
 
 ##### 2006 Kodori crisis
 ### [ 2006 Kodori crisis: the rebel renegade Emzar Kvitsiani escapes as one civilian gets killed in the fighting. ](/news/2006/07/27/2006-kodori-crisis-the-rebel-renegade-emzar-kvitsiani-escapes-as-one-civilian-gets-killed-in-the-fighting.md)
@@ -25,7 +25,7 @@ _Context: 2006 Kodori crisis, Emzar Kvitsiani_
 
 ##### Fu Xiancai
 ### [ The government investigation of the assault that partially paralyzed Fu Xiancai, a Chinese activist protesting the displacement caused by the Three Gorges Dam, concludes that he hit himself in the back of the neck, breaking three vertebrae. ](/news/2006/07/27/the-government-investigation-of-the-assault-that-partially-paralyzed-fu-xiancai-a-chinese-activist-protesting-the-displacement-caused-by-t.md)
-_Context: vertebra, Fu Xiancai, displacement, China, Three Gorges Dam_
+_Context: vertebra, displacement, Fu Xiancai, Three Gorges Dam, China_
 
 ##### 2006
 ### [ The team for 2006 Tour de France winner Floyd Landis announces that he failed a drug test during the race, with high levels of testosterone. ](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.md)

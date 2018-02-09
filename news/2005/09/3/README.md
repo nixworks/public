@@ -13,15 +13,15 @@ _Context: Qatar_
 
 ##### China
 ### [ People's Republic of China President Hu Jintao has postponed his scheduled visit to Washington in the coming week. He plans to meet with President Bush later in the month while attending the United Nations General Assembly in New York City. ](/news/2005/09/3/people-s-republic-of-china-president-hu-jintao-has-postponed-his-scheduled-visit-to-washington-in-the-coming-week-he-plans-to-meet-with-pr.md)
-_Context: Washington, D.C., Chinese President, China, New York City, Hu Jintao, United Nations General Assembly_
+_Context: New York City, China, United Nations General Assembly, Washington, D.C., Chinese President, Hu Jintao_
 
 ##### Unilateral
 ### [ A unilateral three-month ceasefire is declared by Nepal's Maoist rebels as negotiations begin with an alliance of political parties. Their leader, Pushpa Kamal Dahal, said they would "not launch any offensive" during the truce. ](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-by-nepal-s-maoist-rebels-as-negotiations-begin-with-an-alliance-of-political-parties-their.md)
-_Context: ceasefire, Pushpa Kamal Dahal, unilateral, Nepal, Maoist supporters_
+_Context: ceasefire, unilateral, Nepal, Maoist supporters, Pushpa Kamal Dahal_
 
 ##### French President
 ### [ French President Jacques Chirac, 72, will be hospitalised for a week after suffering a "minor vascular incident" which is affecting his vision. ](/news/2005/09/3/french-president-jacques-chirac-72-will-be-hospitalised-for-a-week-after-suffering-a-minor-vascular-incident-which-is-affecting-his-vis.md)
-_Context: French President, Jacques Chirac_
+_Context: Jacques Chirac, French President_
 
 ## [Previous Day...](/news/2005/09/2/index.md)
 

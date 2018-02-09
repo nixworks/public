@@ -17,7 +17,7 @@ Malawian authorities have blocked a mass funeral for seven people killed during 
 
 ##### China
 ### [China is to ordain seven more bishops, amid a dispute with the Vatican. ](/news/2011/07/22/china-is-to-ordain-seven-more-bishops-amid-a-dispute-with-the-vatican.md)
-_Context: Holy See, China_
+_Context: China, Holy See_
 
 ##### Elliot Handler
 ### [Elliot Handler who cofounded Mattel with his wife dies at age 95. ](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.md)
@@ -45,11 +45,11 @@ Rejecting UN famine claims, opposition group says it will not allow certain supp
 
 ##### South Korea
 ### [South Korea seeks a bilateral meeting with North Korea to discuss nuclear issues at the sidelines of an ASEAN Regional Forum in Bali, Indonesia. ](/news/2011/07/22/south-korea-seeks-a-bilateral-meeting-with-north-korea-to-discuss-nuclear-issues-at-the-sidelines-of-an-asean-regional-forum-in-bali-indone.md)
-_Context: North Korea, South Korea, Bali, ASEAN Regional Forum, Indonesia_
+_Context: Bali, Indonesia, North Korea, South Korea, ASEAN Regional Forum_
 
 ##### North Korea
 ### [North Korea appoints Ri Yong-ho as its new negotiator in the Six-party talks on the North Korean nuclear weapons program. ](/news/2011/07/22/north-korea-appoints-ri-yong-ho-as-its-new-negotiator-in-the-six-party-talks-on-the-north-korean-nuclear-weapons-program.md)
-_Context: North Korea, North Korea's nuclear program, Six-party talks, Ri Yong-ho_
+_Context: Six-party talks, Ri Yong-ho, North Korea, North Korea's nuclear program_
 
 ##### Asylum seeker
 ### [Up to 100 asylum seekers, many from Iran, riot again at Australia's Christmas Island Immigration Reception and Processing Centre. ](/news/2011/07/22/up-to-100-asylum-seekers-many-from-iran-riot-again-at-australia-s-christmas-island-immigration-reception-and-processing-centre.md)
@@ -65,7 +65,7 @@ Strathclyde Police are investigating phone hacking and breaches of data protecti
 
 ##### Mexican police
 ### [Two Mexican police officers assigned to guard the United States consulate in Monterrey are killed in a drive-by shooting while off duty. ](/news/2011/07/22/two-mexican-police-officers-assigned-to-guard-the-united-states-consulate-in-monterrey-are-killed-in-a-drive-by-shooting-while-off-duty.md)
-_Context: United States, Monterrey, Mexican police_
+_Context: Mexican police, Monterrey, United States_
 
 ##### U.S. President
 ### [Debt negotiations between President of the United States Barack Obama and Speaker of the House of Representatives John Boehner collapse. ](/news/2011/07/22/debt-negotiations-between-president-of-the-united-states-barack-obama-and-speaker-of-the-house-of-representatives-john-boehner-collapse.md)

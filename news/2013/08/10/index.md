@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/10/index.html)  [JSON](2013/08/10/index.json)  [XML](201
 
 ##### Thailand
 ### [Gunmen kidnap four Thai tourists traveling in Nigeria's Rivers State. ](/news/2013/08/10/gunmen-kidnap-four-thai-tourists-traveling-in-nigeria-s-rivers-state.md)
-_Context: Rivers State, Thailand, Nigeria_
+_Context: Thailand, Rivers State, Nigeria_
 
 ##### Baghdad
 ### [A bomb kills four people and wounds 16 in a park south of Baghdad, Iraq. ](/news/2013/08/10/a-bomb-kills-four-people-and-wounds-16-in-a-park-south-of-baghdad-iraq.md)
@@ -29,7 +29,7 @@ _Context: Al Hoceima, Morocco, Royal Guardsmen_
 
 ##### Manitou Springs
 ### [Floods and mudslides in Manitou Springs, Colorado, United States leave at least three people missing and one dead. ](/news/2013/08/10/floods-and-mudslides-in-manitou-springs-colorado-united-states-leave-at-least-three-people-missing-and-one-dead.md)
-_Context: Manitou Springs, Colorado, United States_
+_Context: Colorado, United States, Manitou Springs_
 
 ##### Belfast
 ### [A total of 56 police officers are injured in Belfast, Northern Ireland after a night of Ulster loyalism rioting. ](/news/2013/08/10/a-total-of-56-police-officers-are-injured-in-belfast-northern-ireland-after-a-night-of-ulster-loyalism-rioting.md)
@@ -37,7 +37,7 @@ More than 50 police officers are injured in what have been described as &quot;sh
 
 ##### Boulevard, California
 ### [James Lee DiMaggio, a suspect in the Boulevard, California murders of Christina and Ethan Anderson, and the abduction of Hannah Anderson, is shot to death by an FBI agent in Ada County, Idaho. Hannah Anderson was unharmed. ](/news/2013/08/10/james-lee-dimaggio-a-suspect-in-the-boulevard-california-murders-of-christina-and-ethan-anderson-and-the-abduction-of-hannah-anderson-is.md)
-_Context: FBI agent, Boulevard, California, Ada County, Idaho_
+_Context: Boulevard, California, FBI agent, Ada County, Idaho_
 
 ## [Previous Day...](/news/2013/08/9/index.md)
 

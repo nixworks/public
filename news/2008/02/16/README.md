@@ -5,11 +5,11 @@ Formats: [HTML](2008/02/16/index.html)  [JSON](2008/02/16/index.json)  [XML](200
 
 ##### Suicide car bombing
 ### [ 37 people are killed in a suicide car bombing in Pakistan's tribal region after a meeting of the Pakistan Peoples Party, reports say. ](/news/2008/02/16/37-people-are-killed-in-a-suicide-car-bombing-in-pakistan-s-tribal-region-after-a-meeting-of-the-pakistan-peoples-party-reports-say.md)
-_Context: Pakistan Peoples Party, Pakistan, suicide car bombing_
+_Context: suicide car bombing, Pakistan Peoples Party, Pakistan_
 
 ##### Toshiba
 ### [ Toshiba plans to withdraw from HD DVD production, ending the format war in Blu-ray Disc's favor. ](/news/2008/02/16/toshiba-plans-to-withdraw-from-hd-dvd-production-ending-the-format-war-in-blu-ray-disc-s-favor.md)
-_Context: Toshiba, format war, HD DVD, Blu-ray Disc_
+_Context: HD DVD, format war, Toshiba, Blu-ray Disc_
 
 ##### Brown pelican
 ### [ Brown pelican delisted from endangered list. ](/news/2008/02/16/brown-pelican-delisted-from-endangered-list.md)
@@ -21,11 +21,11 @@ _Context: Harvard University, Debate, Speech_
 
 ##### U.S. President
 ### [ The President of the United States George W. Bush arrives in Benin on the first leg of a five-nation African tour. ](/news/2008/02/16/the-president-of-the-united-states-george-w-bush-arrives-in-benin-on-the-first-leg-of-a-five-nation-african-tour.md)
-_Context: Africa, Benin, U.S. President, George W. Bush_
+_Context: Benin, Africa, George W. Bush, U.S. President_
 
 ##### 2008
 ### [ United States presidential election, 2008: A majority of Michigan's Republican delegates say that they will support John McCain following the withdrawal of Michigan primary winner Mitt Romney from the race. McCain has also won the allegiance of a majority of Louisiana delegates. ](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.md)
-_Context: John McCain, Mich., Mitt Romney, primary election, Republican, Louisiana, 2008_
+_Context: Republican, primary election, Mich., John McCain, 2008, Louisiana, Mitt Romney_
 
 ##### Street racing
 ### [ A street racing accident kills eight people and injures four in Accokeek, Maryland. ](/news/2008/02/16/a-street-racing-accident-kills-eight-people-and-injures-four-in-accokeek-maryland.md)

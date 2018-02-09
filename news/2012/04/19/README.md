@@ -25,7 +25,7 @@ Irish comedian Dylan Moran becomes the first professional English-speaking comed
 
 ##### Men At Work
 ### [Men At Work flautist Greg Ham is found dead at his Melbourne home. ](/news/2012/04/19/men-at-work-flautist-greg-ham-is-found-dead-at-his-melbourne-home.md)
-_Context: Melbourne, Greg Ham, Men At Work_
+_Context: Men At Work, Melbourne, Greg Ham_
 
 ##### The Band
 ### [The Band singer and drummer Levon Helm dies of throat cancer at the age of 71. ](/news/2012/04/19/the-band-singer-and-drummer-levon-helm-dies-of-throat-cancer-at-the-age-of-71.md)
@@ -33,7 +33,7 @@ Mr. Helm, whose drumming merged muscle, swing, economy and finesse, helped forge
 
 ##### UH-60 Black Hawk
 ### [A UH-60 Black Hawk helicopter reportedly crashed in Afghanistan, killing all four on board. ](/news/2012/04/19/a-uh-60-black-hawk-helicopter-reportedly-crashed-in-afghanistan-killing-all-four-on-board.md)
-_Context: Afghanistan, UH-60 Black Hawk_
+_Context: UH-60 Black Hawk, Afghanistan_
 
 ##### The New York Times
 ### [An agent at the centre of the U.S. prostitution scandal in Colombia denied one of his escorts $770 from an agreed fee of $800, according to "The New York Times", thus prompting the row that revealed the scandal to the public. ](/news/2012/04/19/an-agent-at-the-centre-of-the-u-s-prostitution-scandal-in-colombia-denied-one-of-his-escorts-770-from-an-agreed-fee-of-800-according-to.md)
@@ -45,7 +45,7 @@ The solid-fuelled missile, which will bring the whole of China as well as other 
 
 ##### South Korea
 ### [South Korea deploys new cruise missiles capable of destroying targets such as missile and nuclear bases anywhere in North Korea. ](/news/2012/04/19/south-korea-deploys-new-cruise-missiles-capable-of-destroying-targets-such-as-missile-and-nuclear-bases-anywhere-in-north-korea.md)
-_Context: cruise missiles, North Korea, South Korea, military installations_
+_Context: South Korea, North Korea, military installations, cruise missiles_
 
 ##### Irish Department of Health
 ### [A report commissioned by the Irish Department of Health finds significant increase in narcolepsy among individuals given the GlaxoSmithKline developed swine flu vaccine Pandemrix compared to those who did not receive the vaccine. ](/news/2012/04/19/a-report-commissioned-by-the-irish-department-of-health-finds-significant-increase-in-narcolepsy-among-individuals-given-the-glaxosmithkline.md)

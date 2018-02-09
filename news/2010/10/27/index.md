@@ -5,7 +5,7 @@ Formats: [HTML](2010/10/27/index.html)  [JSON](2010/10/27/index.json)  [XML](201
 
 ##### India
 ### [Several people are injured in the Indian state of Jammu and Kashmir during protests marking the anniversary of the arrival of Indian forces in the region in 1947. ](/news/2010/10/27/several-people-are-injured-in-the-indian-state-of-jammu-and-kashmir-during-protests-marking-the-anniversary-of-the-arrival-of-indian-forces.md)
-_Context: Jammu and Kashmir, India_
+_Context: India, Jammu and Kashmir_
 
 ##### Al-Shabaab
 ### [Clashes between pro-government forces and al-Shabaab militants in southern Somalia kill 17 people. ](/news/2010/10/27/clashes-between-pro-government-forces-and-al-shabaab-militants-in-southern-somalia-kill-17-people.md)
@@ -25,7 +25,7 @@ _Context: Afghanistan, Taliban, Baghlan province_
 
 ##### NATO
 ### [A NATO soldier is killed in a roadside bomb attack in Afghanistan, taking the 2010 death toll for allied troops in Afghanistan to 603. ](/news/2010/10/27/a-nato-soldier-is-killed-in-a-roadside-bomb-attack-in-afghanistan-taking-the-2010-death-toll-for-allied-troops-in-afghanistan-to-603.md)
-_Context: 2010 death toll, NATO, War in Afghanistan (2001-present)_
+_Context: NATO, 2010 death toll, War in Afghanistan (2001-present)_
 
 ##### Hamas
 ### [An Islamic Jihad terrorist is killed when three men who approached an Israeli security fence from the Gaza Strip are fired upon by Israel Defense Forces tanks. ](/news/2010/10/27/an-islamic-jihad-terrorist-is-killed-when-three-men-who-approached-an-israeli-security-fence-from-the-gaza-strip-are-fired-upon-by-israel-de.md)
@@ -33,15 +33,15 @@ _Context: Israel Defense Forces, Gaza Strip, Hamas,  Israeli_
 
 ##### Warner Bros.
 ### [Warner Bros. and New Line confirm that the "The Hobbit" films will be shot in New Zealand. ](/news/2010/10/27/warner-bros-and-new-line-confirm-that-the-the-hobbit-films-will-be-shot-in-new-zealand.md)
-_Context: New Zealand, Warner Bros., The Hobbit, New Line_
+_Context: New Line, New Zealand, Warner Bros., The Hobbit_
 
 ##### Wells Fargo
 ### [American bank Wells Fargo admits it made mistakes in 55,000 real estate foreclosure cases. ](/news/2010/10/27/american-bank-wells-fargo-admits-it-made-mistakes-in-55-000-real-estate-foreclosure-cases.md)
-_Context: housing, foreclose, Wells Fargo_
+_Context: foreclose, housing, Wells Fargo_
 
 ##### China
 ### [One sailor drowns and 12 are missing after a freighter carrying Chinese crew capsized off Taiwan. ](/news/2010/10/27/one-sailor-drowns-and-12-are-missing-after-a-freighter-carrying-chinese-crew-capsized-off-taiwan.md)
-_Context: Taiwan, China_
+_Context: China, Taiwan_
 
 ##### Thailand
 ### [Floods in 18 Thai provinces kill 59 people. ](/news/2010/10/27/floods-in-18-thai-provinces-kill-59-people.md)
@@ -49,7 +49,7 @@ _Context: Thailand_
 
 ##### Mount Merapi volcanic eruption
 ### [Fatalities caused by the eruption of Mount Merapi in Indonesia's Yogyakarta province rises, with 28 people known to have been killed by hot ash. ](/news/2010/10/27/fatalities-caused-by-the-eruption-of-mount-merapi-in-indonesia-s-yogyakarta-province-rises-with-28-people-known-to-have-been-killed-by-hot.md)
-_Context: Mount Merapi volcanic eruption, Yogyakarta, Mounts Merapi, Indonesia_
+_Context: Mounts Merapi, Indonesia, Yogyakarta, Mount Merapi volcanic eruption_
 
 ##### Tsunami
 ### [The death toll from the tsunami following the October 2010 Sumatra earthquake reaches at least 282 with hundreds of people still missing. ](/news/2010/10/27/the-death-toll-from-the-tsunami-following-the-october-2010-sumatra-earthquake-reaches-at-least-282-with-hundreds-of-people-still-missing.md)
@@ -73,7 +73,7 @@ _Context: India, Malaysia, free trade_
 
 ##### Transparency International
 ### [Transparency International releases its Corruption Perception Index showing Denmark, New Zealand and Singapore as the least corrupt nations and Somalia as the most corrupt. ](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.md)
-_Context: Singapore, Somalia, Corruption Perception Index, Transparency International, New Zealand, Denmark_
+_Context: Transparency International, Singapore, New Zealand, Somalia, Denmark, Corruption Perception Index_
 
 ##### Kimba Wood
 ### [Judge Kimba Wood of the United States District Court for the Southern District of New York shuts down filesharing service LimeWire. ](/news/2010/10/27/judge-kimba-wood-of-the-united-states-district-court-for-the-southern-district-of-new-york-shuts-down-filesharing-service-limewire.md)
@@ -89,7 +89,7 @@ The killings in Nayarit State were the third mass shooting with apparent connect
 
 ##### Soviet
 ### [Former Soviet leader Mikhail Gorbachev says it was "impossible" for coalition forces to secure victory in Afghanistan in a BBC interview. ](/news/2010/10/27/former-soviet-leader-mikhail-gorbachev-says-it-was-aimpossiblea-for-coalition-forces-to-secure-victory-in-afghanistan-in-a-bbc-interview.md)
-_Context: Afghanistan, Mikhail Gorbachev, Soviet_
+_Context: Soviet, Afghanistan, Mikhail Gorbachev_
 
 ##### Vietnam
 ### [Three labour activists are sentenced to up to nine years in prison in Vietnam for distributing anti-government leaflets and going on strike. ](/news/2010/10/27/three-labour-activists-are-sentenced-to-up-to-nine-years-in-prison-in-vietnam-for-distributing-anti-government-leaflets-and-going-on-strike.md)
@@ -105,7 +105,7 @@ Three days of mourning have been declared in Argentina after former president Ne
 
 ##### National Assembly
 ### [The National Assembly of France takes a final vote on pension reform, with President Nicolas Sarkozy hoping that it will end the recent strikes and demonstrations. ](/news/2010/10/27/the-national-assembly-of-france-takes-a-final-vote-on-pension-reform-with-president-nicolas-sarkozy-hoping-that-it-will-end-the-recent-stri.md)
-_Context: National Assembly, French President, Nicolas Sarkozy, recent strikes and demonstrations, France_
+_Context: recent strikes and demonstrations, National Assembly, Nicolas Sarkozy, France, French President_
 
 ##### Myanmar snub-nosed monkey
 ### [Scientists announce the discovery of the Myanmar snub-nosed monkey. ](/news/2010/10/27/scientists-announce-the-discovery-of-the-myanmar-snub-nosed-monkey.md)

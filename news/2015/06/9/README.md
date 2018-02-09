@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/9/index.html)  [JSON](2015/06/9/index.json)  [XML](2015/
 
 ##### Naxalite-Maoist insurgency
 ### [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md)
-_Context: Indian police, Naxalite, Jharkhand, Maoist, Naxalite-Maoist insurgency_
+_Context: Maoist, Naxalite-Maoist insurgency, Jharkhand, Indian police, Naxalite_
 
 ##### Syrian Civil War
 ### [The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-governorate.md)
@@ -21,7 +21,7 @@ A massive fire at a Ukrainian fuel depot killed five people on Tuesday, official
 
 ##### China
 ### [At least four people are killed (including the gunman) and five people injured in a shooting incident in China's northern Hebei province. ](/news/2015/06/9/at-least-four-people-are-killed-including-the-gunman-and-five-people-injured-in-a-shooting-incident-in-china-s-northern-hebei-province.md)
-_Context: China, Hebei_
+_Context: Hebei, China_
 
 ##### 5th Circuit Court of Appeals
 ### [The United States Court of Appeals for the Fifth Circuit upholds a Texan law providing that abortion clinics meet the same standards as hospital style surgical clinics meaning that many abortion clinics must upgrade or close. ](/news/2015/06/9/the-united-states-court-of-appeals-for-the-fifth-circuit-upholds-a-texan-law-providing-that-abortion-clinics-meet-the-same-standards-as-hosp.md)

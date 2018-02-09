@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/7/index.html)  [JSON](2016/10/7/index.json)  [XML](2016/
 
 ##### Insurgency in Balochistan
 ### [Two bombs explode on a train near the town of Machh, Pakistan, killing at least six people with nineteen more injured. ](/news/2016/10/7/two-bombs-explode-on-a-train-near-the-town-of-machh-pakistan-killing-at-least-six-people-with-nineteen-more-injured.md)
-_Context: Machh, Insurgency in Balochistan, Pakistan_
+_Context: Pakistan, Insurgency in Balochistan, Machh_
 
 ##### Pound sterling
 ### [The pound sterling sustains a flash crash, dropping from an exchange rate of $1.23 per pound to $1.13 in a few minutes of trading today, then gaining much of it back. Observers blame this development on algorithmic trading. ](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.md)
@@ -17,7 +17,7 @@ Trading software may have overreacted to tweets about the French president’s c
 
 ##### Malaysia Airlines Flight 370
 ### [Authorities confirm that a wing part found in Mauritius in May is part of the aircraft from Malaysian Airlines Flight 370. ](/news/2016/10/7/authorities-confirm-that-a-wing-part-found-in-mauritius-in-may-is-part-of-the-aircraft-from-malaysian-airlines-flight-370.md)
-_Context: Mauritius, Malaysia, Malaysia Airlines Flight 370_
+_Context: Malaysia Airlines Flight 370, Malaysia, Mauritius_
 
 ##### 2016 Nobel Peace Prize
 ### [The Nobel Prize committee awards Colombian president Juan Manuel Santos the Nobel Peace Prize for his resolute efforts to bring the country's more than 50-year-long civil war to an end, a war that has cost the lives of at least 220 thousand Colombians and displaced close to six million people. ](/news/2016/10/7/the-nobel-prize-committee-awards-colombian-president-juan-manuel-santos-the-nobel-peace-prize-for-his-resolute-efforts-to-bring-the-country.md)

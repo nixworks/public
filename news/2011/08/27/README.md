@@ -13,7 +13,7 @@ AN elderly Bronx man whose body was found floating at a City Island marina just 
 
 ##### Parliament of India
 ### [The Parliament of India debates the Jan Lokpal anti-corruption legislation, prompted in part by an ongoing hunger strike by social activist Anna Hazare. ](/news/2011/08/27/the-parliament-of-india-debates-the-jan-lokpal-anti-corruption-legislation-prompted-in-part-by-an-ongoing-hunger-strike-by-social-activist.md)
-_Context: Anna Hazare, Parliament of India, Jan Lokpal, hunger strike_
+_Context: Parliament of India, Jan Lokpal, Anna Hazare, hunger strike_
 
 ##### Singapore
 ### [Voters in Singapore go to the polls for the presidential election. ](/news/2011/08/27/voters-in-singapore-go-to-the-polls-for-the-presidential-election.md)
@@ -21,7 +21,7 @@ _Context: Anna Hazare, Parliament of India, Jan Lokpal, hunger strike_
 
 ##### Jack Layton
 ### [Hundreds of thousands of Canadians attend events and tributes across Canada in honour of Jack Layton, as an unprecedented state funeral is held. ](/news/2011/08/27/hundreds-of-thousands-of-canadians-attend-events-and-tributes-across-canada-in-honour-of-jack-layton-as-an-unprecedented-state-funeral-is-h.md)
-_Context: state funeral, Jack Layton_
+_Context: Jack Layton, state funeral_
 
 ## [Previous Day...](/news/2011/08/26/index.md)
 

@@ -9,7 +9,7 @@ Hopes of a new initiative over Syria suffer a setback as a Russian spokesman rul
 
 ##### France 24
 ### [Romeo Langlois, a freelance journalist from France 24 who was abducted by the Revolutionary Armed Forces of Colombia (FARC) on April 28, is released by FARC in southern Colombia. ](/news/2012/05/30/romeo-langlois-a-freelance-journalist-from-france-24-who-was-abducted-by-the-revolutionary-armed-forces-of-colombia-farc-on-april-28-is.md)
-_Context: Revolutionary Armed Forces of Colombia, France 24, Colombia_
+_Context: Colombia, France 24, Revolutionary Armed Forces of Colombia_
 
 ##### South Africa
 ### [The South African gallery which exhibited Brett Murray's controversial painting "The Spear" reaches a deal with the ruling African National Congress (ANC), which opposes its display. ](/news/2012/05/30/the-south-african-gallery-which-exhibited-brett-murray-s-controversial-painting-the-spear-reaches-a-deal-with-the-ruling-african-national.md)
@@ -41,7 +41,7 @@ US President Barack Obama has caused an outcry in Poland after referring to a Na
 
 ##### Bilderberg Group
 ### [Enhanced security preparations are reported in the lead-up to the 2012 Bilderberg Conference in Chantilly, Virginia. ](/news/2012/05/30/enhanced-security-preparations-are-reported-in-the-lead-up-to-the-2012-bilderberg-conference-in-chantilly-virginia.md)
-_Context: Bilderberg Group, Chantilly, Virginia_
+_Context: Chantilly, Virginia, Bilderberg Group_
 
 ##### Wikileaks
 ### [Wikileaks founder Julian Assange loses his appeal in the Supreme Court of the United Kingdom against extradition to Sweden on rape charges. ](/news/2012/05/30/wikileaks-founder-julian-assange-loses-his-appeal-in-the-supreme-court-of-the-united-kingdom-against-extradition-to-sweden-on-rape-charges.md)
@@ -53,11 +53,11 @@ A UN-backed court in The Hague sentences former Liberian President Charles Taylo
 
 ##### Andy Coulson
 ### [Andy Coulson, former director of communications for British Prime Minister David Cameron, is detained for questioning by police investigating claims of perjury. ](/news/2012/05/30/andy-coulson-former-director-of-communications-for-british-prime-minister-david-cameron-is-detained-for-questioning-by-police-investigatin.md)
-_Context: Andy Coulson, Prime Minister, perjury, David Cameron_
+_Context: perjury, Andy Coulson, David Cameron, Prime Minister_
 
 ##### Leveson Inquiry
 ### [At the Leveson Inquiry into British media practices, UK Secretary of State for Business Vince Cable, who initially had responsibility for overseeing News Corporation's bid to take full control of BSkyB, tells the hearing he was warned the Liberal Democrats would be "done over" by the company's newspapers if he ruled against the takeover. ](/news/2012/05/30/at-the-leveson-inquiry-into-british-media-practices-uk-secretary-of-state-for-business-vince-cable-who-initially-had-responsibility-for-ov.md)
-_Context: Leveson Inquiry, Vince Cable, Secretary of State for Business, Liberal Democrats, BSkyB, News Corporation, BSkyB takeover bid_
+_Context: Leveson Inquiry, News Corporation, Liberal Democrats, BSkyB takeover bid, Vince Cable, BSkyB, Secretary of State for Business_
 
 ##### Seattle, Washington
 ### [A gunman opens fire in the U.S. city of Seattle, killing three people and injuring two more before shooting himself. A fourth person is killed in a separate incident in the city before the suspected gunman in both incidents kills himself. ](/news/2012/05/30/a-gunman-opens-fire-in-the-u-s-city-of-seattle-killing-three-people-and-injuring-two-more-before-shooting-himself-a-fourth-person-is-kill.md)
@@ -73,7 +73,7 @@ The High Court has refused an application by a Sinn Féin TD seeking to have the
 
 ##### Parliament
 ### [The Parliament of Albania fails without a vote in the first round to elect the President of the republic. ](/news/2012/05/30/the-parliament-of-albania-fails-without-a-vote-in-the-first-round-to-elect-the-president-of-the-republic.md)
-_Context: elects, President of Albania, parliament_
+_Context: parliament, President of Albania, elects_
 
 ##### Parliament of Papua New Guinea
 ### [The Parliament of Papua New Guinea meets to choose a new Prime Minister after a ruling by the Supreme Court last week, with "de facto" Prime Minister Peter O'Neill again chosen. ](/news/2012/05/30/the-parliament-of-papua-new-guinea-meets-to-choose-a-new-prime-minister-after-a-ruling-by-the-supreme-court-last-week-with-de-facto-prime.md)

@@ -17,7 +17,7 @@ Villagers in northern Nigeria say they have repelled an attack by suspected mili
 
 ##### Christopher Columbus
 ### [Investigators claim to have found the wreck of Christopher Columbus's flagship, the "Santa Maria", off the north coast of Haiti. ](/news/2014/05/13/investigators-claim-to-have-found-the-wreck-of-christopher-columbus-s-flagship-the-santa-maria-off-the-north-coast-of-haiti.md)
-_Context: Christopher Columbus, Santa Maria, flagship, Haiti_
+_Context: Christopher Columbus, flagship, Haiti, Santa Maria_
 
 ##### Soma mine disaster
 ### [At least 238 miners are killed and 120 others trapped in a coal mine in the town of Soma in Turkey's Manisa Province. ](/news/2014/05/13/at-least-238-miners-are-killed-and-120-others-trapped-in-a-coal-mine-in-the-town-of-soma-in-turkey-s-manisa-province.md)
@@ -29,7 +29,7 @@ _Context: Pyongyang, North Korea_
 
 ##### Vietnam
 ### [Thousands of Vietnamese workers stage anti-China protests in front of factories with Chinese names over Beijing's decision to locate an oil rig in waters of the South China Sea also claimed by Hanoi. ](/news/2014/05/13/thousands-of-vietnamese-workers-stage-anti-china-protests-in-front-of-factories-with-chinese-names-over-beijing-s-decision-to-locate-an-oil.md)
-_Context: Vietnam, Hanoi_
+_Context: Hanoi, Vietnam_
 
 ##### Ehud Olmert
 ### [Former Israeli Prime Minister Ehud Olmert has been sentenced to six years jail in a bribery case.](/news/2014/05/13/former-israeli-prime-minister-ehud-olmert-has-been-sentenced-to-six-years-jail-in-a-bribery-case.md)

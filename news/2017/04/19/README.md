@@ -13,7 +13,7 @@ ICC will investigate reports of rapes and killings by soldiers if DRC government
 
 ##### 21st Century Fox
 ### [ 21st Century Fox, the parent company of Fox News, announces the firing of Fox News commentator Bill O'Reilly. ](/news/2017/04/19/21st-century-fox-the-parent-company-of-fox-news-announces-the-firing-of-fox-news-commentator-bill-o-reilly.md)
-_Context: Bill O'Reilly, Fox News, 21st Century Fox_
+_Context: 21st Century Fox, Bill O'Reilly, Fox News_
 
 ##### Dubai
 ### [Citing a drop in demand, the Dubai-based, United Arab Emirates-owned airline Emirates Air announces a cut in flights to five of its 12 U.S. destinations. The airline's Dubai hub, third-busiest in the world, is a major stop for travelers in countries affected by President Donald Trump's travel ban, and is also one of several Middle East airports affected by a U.S. ban on tablets, laptops, and similar devices in the passenger cabin. ](/news/2017/04/19/citing-a-drop-in-demand-the-dubai-based-united-arab-emirates-owned-airline-emirates-air-announces-a-cut-in-flights-to-five-of-its-12-u-s.md)
@@ -41,7 +41,7 @@ The cash was kept in a Lagos flat for covert operations, intelligence officials 
 
 ##### Bharatiya Janata Party
 ### [Three senior figures in the Bharatiya Janata Party, L.K. Advani, Uma Bharati and Murli Manohar Joshi, will be tried for their alleged role in the destruction of the Babri Masjid Mosque in the northern Indian town of Ayodhya. ](/news/2017/04/19/three-senior-figures-in-the-bharatiya-janata-party-l-k-advani-uma-bharati-and-murli-manohar-joshi-will-be-tried-for-their-alleged-role-i.md)
-_Context: Ayodhya, India, Babri Masjid, Bharatiya Janata Party, L.K. Advani, Murli Manohar Joshi, Uma Bharati_
+_Context: Murli Manohar Joshi, Bharatiya Janata Party, L.K. Advani, Babri Masjid, India, Ayodhya, Uma Bharati_
 
 ##### Jakarta gubernatorial election, 2017
 ### [Indonesian voters in Jakarta return to the polls for the second round of a gubernatorial election between incumbent Basuki Tjahaja Purnama, whose alleged blasphemy sparked mass protests in November, and Anies Baswedan. Opinion polls give Baswedan a narrow lead. ](/news/2017/04/19/indonesian-voters-in-jakarta-return-to-the-polls-for-the-second-round-of-a-gubernatorial-election-between-incumbent-basuki-tjahaja-purnama.md)
@@ -49,11 +49,11 @@ The second round of voting in a bitterly fought campaign for Jakarta&#039;s top 
 
 ##### Last month's presidential election
 ### [The closely-watched CEVIPOF poll shows Emmanuel Macron and Marine Le Pen clinging to a narrow lead heading into the first stage of the election, with Le Pen recently becoming embroiled in a spat with the European Commission after refusing to appear on TF1 while there remained a Flag of Europe in the background. ](/news/2017/04/19/the-closely-watched-cevipof-poll-shows-emmanuel-macron-and-marine-le-pen-clinging-to-a-narrow-lead-heading-into-the-first-stage-of-the-elect.md)
-_Context: last month's presidential election, Emmanuel Macron, TF1, Marine Le Pen, CEVIPOF, European Commission, Flag of Europe_
+_Context: TF1, Flag of Europe, last month's presidential election, CEVIPOF, Emmanuel Macron, European Commission, Marine Le Pen_
 
 ##### Caretaker
 ### [Alternative for Germany chairwoman Frauke Petry announces that she will not lead the party in the September federal election, citing other party leaders' insistence on remaining a "fundamental opposition party", unwilling to join a coalition. ](/news/2017/04/19/alternative-for-germany-chairwoman-frauke-petry-announces-that-she-will-not-lead-the-party-in-the-september-federal-election-citing-other-p.md)
-_Context: Alternative for Germany, Frauke Petry, caretaker_
+_Context: Alternative for Germany, caretaker, Frauke Petry_
 
 ##### Last general election
 ### [The United Kingdom House of Commons approves by 522 votes to 13 a snap general election to be held on June 8. ](/news/2017/04/19/the-united-kingdom-house-of-commons-approves-by-522-votes-to-13-a-snap-general-election-to-be-held-on-june-8.md)
@@ -65,11 +65,11 @@ Party supports fixed-term parliaments but says it will not stand in the way of a
 
 ##### United States House of Representatives elections, 2018
 ### [Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. ](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-the-house-oversight-committee-announces-that-he-will-not-run-for-re-election-next-year.md)
-_Context: Jason Chaffetz, United States House of Representatives elections, 2018, House Oversight Committee, Utah_
+_Context: United States House of Representatives elections, 2018, Jason Chaffetz, House Oversight Committee, Utah_
 
 ##### Georgia's 6th congressional district special election, 2017
 ### [Local Republican candidate Karen Handel says she wants Donald Trump to campaign for her in the district. ](/news/2017/04/19/local-republican-candidate-karen-handel-says-she-wants-donald-trump-to-campaign-for-her-in-the-district.md)
-_Context: Georgia's 6th congressional district special election, 2017, Donald Trump, Karen Handel_
+_Context: Donald Trump, Georgia's 6th congressional district special election, 2017, Karen Handel_
 
 ##### Washington State University
 ### [Washington State University professor Peter Engels and his team announce they have created a fluid that displays negative mass. ](/news/2017/04/19/washington-state-university-professor-peter-engels-and-his-team-announce-they-have-created-a-fluid-that-displays-negative-mass.md)

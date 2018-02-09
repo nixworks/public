@@ -17,7 +17,7 @@ At least 13 people were killed when an illegal bridge under construction collaps
 
 ##### Derailment
 ### [A train derailment in the Raigad district of India's Maharashtra state causes at least 19 deaths and 130 people injured. ](/news/2014/05/4/a-train-derailment-in-the-raigad-district-of-india-s-maharashtra-state-causes-at-least-19-deaths-and-130-people-injured.md)
-_Context: Maharashtra, Raigad district, India, derailment_
+_Context: derailment, India, Raigad district, Maharashtra_
 
 ##### Peter Robinson
 ### [Northern Ireland's First Minister Peter Robinson accuses Sinn Fin of attempting to blackmail the Police Service of Northern Ireland over the arrest of Gerry Adams. ](/news/2014/05/4/northern-ireland-s-first-minister-peter-robinson-accuses-sinn-fein-of-attempting-to-blackmail-the-police-service-of-northern-ireland-over-th.md)
@@ -29,7 +29,7 @@ The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot;
 
 ##### Panamanian general election, 2014
 ### [Voters in Panama go to the polls for a general election. ](/news/2014/05/4/voters-in-panama-go-to-the-polls-for-a-general-election.md)
-_Context: Panama, Panamanian general election, 2014_
+_Context: Panamanian general election, 2014, Panama_
 
 ## [Previous Day...](/news/2014/05/3/index.md)
 

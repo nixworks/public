@@ -37,7 +37,7 @@ A New York businesswoman who wanted to bring a &quot;grander scale&quot; to her 
 
 ##### Karowe AK6
 ### [The world's second-largest diamond of gem quality, Karowe AK6, is found in the Karowe mine located north of the Botswanan capital Gaborone by the Lucara Diamond Corp. The 1,111-carat diamond is second only to the 3,106-carat Cullinan diamond (Star of Africa) found in South Africa in 1905. ](/news/2015/11/20/the-worldas-second-largest-diamond-of-gem-quality-karowe-ak6-is-found-in-the-karowe-mine-located-north-of-the-botswanan-capital-gaborone.md)
-_Context: South Africa, Cullinan diamond, Botswana, Karowe AK6, Gaborone, Lucara Diamond Corp._
+_Context: Botswana, Cullinan diamond, Karowe AK6, South Africa, Gaborone, Lucara Diamond Corp._
 
 ##### National Union of Journalists
 ### [Britain's National Union of Journalists announces a strike against the "Financial Times", protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-sin.md)
@@ -49,7 +49,7 @@ EU ministers hold emergency talks today on tightening border checks after the ki
 
 ##### North Korea-South Korea relations
 ### [North Korea and South Korea agree to hold talks next week. ](/news/2015/11/20/north-korea-and-south-korea-agree-to-hold-talks-next-week.md)
-_Context: North Korea, South Korea, North Korea-South Korea relations_
+_Context: North Korea, North Korea-South Korea relations, South Korea_
 
 ##### Sweden
 ### [Sweden's national security service "Sapo" are questioning terrorist suspect Moder Mothama Magid, a 22-year-old Iraqi, who is accused of planning to launch a terror attack on the Swedish capital Stockholm. ](/news/2015/11/20/sweden-s-national-security-service-sa-po-are-questioning-terrorist-suspect-moder-mothama-magid-a-22-year-old-iraqi-who-is-accused-of-pla.md)

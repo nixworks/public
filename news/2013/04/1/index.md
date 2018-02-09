@@ -5,11 +5,11 @@ Formats: [HTML](2013/04/1/index.html)  [JSON](2013/04/1/index.json)  [XML](2013/
 
 ##### Suicide bombing
 ### [A suicide attacker blows up a tanker lorry at the police headquarters in the Iraqi city of Tikrit, killing at least nine people. Three people are killed in a separate shooting in Baghdad. ](/news/2013/04/1/a-suicide-attacker-blows-up-a-tanker-lorry-at-the-police-headquarters-in-the-iraqi-city-of-tikrit-killing-at-least-nine-people-three-peopl.md)
-_Context: Tikrit, suicide bombing, Iraq, Baghdad_
+_Context: Baghdad, suicide bombing, Iraq, Tikrit_
 
 ##### Lebanese
 ### [Lebanese gunmen kidnap eight Syrians from the Alawites minority and demand a hostage exchange. ](/news/2013/04/1/lebanese-gunmen-kidnap-eight-syrians-from-the-alawites-minority-and-demand-a-hostage-exchange.md)
-_Context: Alawite, Lebanese, Syria_
+_Context: Alawite, Syria, Lebanese_
 
 ##### Teenager
 ### [Eli Reimer, aged sixteen, becomes the first teenager with Down syndrome to climb to Mount Everest's Base Camp. ](/news/2013/04/1/eli-reimer-aged-sixteen-becomes-the-first-teenager-with-down-syndrome-to-climb-to-mount-everest-s-base-camp.md)
@@ -29,7 +29,7 @@ Production of cheap copycat drugs for H.I.V. and cancer used by people in develo
 
 ##### Apple Inc.
 ### [Apple Inc. publishes a letter, signed by CEO Tim Cook, to Chinese customers, to address the growing controversy over the company's warranty policies in the country. ](/news/2013/04/1/apple-inc-publishes-a-letter-signed-by-ceo-tim-cook-to-chinese-customers-to-address-the-growing-controversy-over-the-company-s-warranty.md)
-_Context: Apple Inc., CEO, Tim Cook, China_
+_Context: Tim Cook, Apple Inc., China, CEO_
 
 ##### Newspaper
 ### [Privately owned newspapers go on sale in Myanmar for the first time since 1964. ](/news/2013/04/1/privately-owned-newspapers-go-on-sale-in-myanmar-for-the-first-time-since-1964.md)
@@ -37,23 +37,23 @@ Private newspapers are published in Burma for the first time in almost 50 years,
 
 ##### Coal mine
 ### [At least six people are killed in a explosion at a coal mine near Baishan, China. ](/news/2013/04/1/at-least-six-people-are-killed-in-a-explosion-at-a-coal-mine-near-baishan-china.md)
-_Context: China, coal mine, Baishan_
+_Context: coal mine, Baishan, China_
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: The annual session of North Korea's Parliament, the Supreme People's Assembly, takes place in Pyongyang, following repeated threats of violence by the leader Kim Jong-Un against South Korea and the United States. Choi Bu-Il is appointed Minister of Internal Security. ](/news/2013/04/1/2013-korean-crisis-the-annual-session-of-north-korea-s-parliament-the-supreme-people-s-assembly-takes-place-in-pyongyang-following-repea.md)
-_Context: Kim Jong-Un, Supreme People's Assembly, United States, South Korea, North Korea, Parliament, 2013 Korean crisis, Pyongyang_
+_Context: North Korea, Parliament, Kim Jong-Un, South Korea, Supreme People's Assembly, United States, Pyongyang, 2013 Korean crisis_
 
 ##### Japan
 ### [Japan accuses three Chinese surveillance ships of entering the territorial waters of Tokyo-controlled Senkaku Islands. ](/news/2013/04/1/japan-accuses-three-chinese-surveillance-ships-of-entering-the-territorial-waters-of-tokyo-controlled-senkaku-islands.md)
-_Context: China, Tokyo, Japan, surveillance, territorial waters, Senkaku Islands_
+_Context: Senkaku Islands, Japan, Tokyo, surveillance, territorial waters, China_
 
 ##### Scotland
 ### [Scotland's eight regional police forces are merged to create the nationwide Police Service of Scotland. ](/news/2013/04/1/scotland-s-eight-regional-police-forces-are-merged-to-create-the-nationwide-police-service-of-scotland.md)
-_Context: Police Service of Scotland, Scotland_
+_Context: Scotland, Police Service of Scotland_
 
 ##### Arapahoe County
 ### [Arapahoe County District Attorney George Brauchler decides, after speaking with survivors and relatives of the deceased, to pursue the death penalty against James Holmes, the perpetrator of the 2012 Aurora shooting; the case is given to a new judge. ](/news/2013/04/1/arapahoe-county-district-attorney-george-brauchler-decides-after-speaking-with-survivors-and-relatives-of-the-deceased-to-pursue-the-death.md)
-_Context: District Attorney, Arapahoe County, sentenced to death, 2012 Aurora shooting, James Holmes_
+_Context: District Attorney, 2012 Aurora shooting, Arapahoe County, sentenced to death, James Holmes_
 
 ##### Pirate
 ### [Pirates drown 16 fishermen in southern Bangladesh in order to steal their boats. ](/news/2013/04/1/pirates-drown-16-fishermen-in-southern-bangladesh-in-order-to-steal-their-boats.md)
@@ -61,19 +61,19 @@ Pirates off Bangladesh are thought to have drowned at least 16 fishermen after t
 
 ##### Social welfare
 ### [Major changes to welfare payments in the United Kingdom introduced by the Welfare Reform Act 2012 begin to go into effect. ](/news/2013/04/1/major-changes-to-welfare-payments-in-the-united-kingdom-introduced-by-the-welfare-reform-act-2012-begin-to-go-into-effect.md)
-_Context: United Kingdom, social welfare, Welfare Reform Act 2012_
+_Context: social welfare, Welfare Reform Act 2012, United Kingdom_
 
 ##### National Health Service
 ### [Health experts warn that the National Health Service in England is "not ready for" major changes passed in 2012 that go into effect today. ](/news/2013/04/1/health-experts-warn-that-the-national-health-service-in-england-is-not-ready-for-major-changes-passed-in-2012-that-go-into-effect-today.md)
-_Context: England, major changes, National Health Service_
+_Context: National Health Service, major changes, England_
 
 ##### President of Sudan
 ### [President of Sudan Omar al-Bashir orders the release of all political prisoners. ](/news/2013/04/1/president-of-sudan-omar-al-bashir-orders-the-release-of-all-political-prisoners.md)
-_Context: Omar al-Bashir, political prisoner, Sudan, President of Sudan_
+_Context: President of Sudan, Sudan, Omar al-Bashir, political prisoner_
 
 ##### Japan
 ### [Japanese researchers unveil the smelling screen, a digital display screen capable of emitting pinpointed smells. ](/news/2013/04/1/japanese-researchers-unveil-the-smelling-screen-a-digital-display-screen-capable-of-emitting-pinpointed-smells.md)
-_Context: Japan, smelling screen_
+_Context: smelling screen, Japan_
 
 ## [Previous Day...](/news/2013/03/31/index.md)
 

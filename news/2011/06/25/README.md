@@ -29,7 +29,7 @@ Peruvian President Alan Garcia said Saturday that &quot;dark political interests
 
 ##### Vietnam
 ### [10 people are killed in Vietnam by storms, seven of which were struck by lightning. ](/news/2011/06/25/10-people-are-killed-in-vietnam-by-storms-seven-of-which-were-struck-by-lightning.md)
-_Context: Vietnam, lightning_
+_Context: lightning, Vietnam_
 
 ##### Tropical storm
 ### [A strengthening tropical storm affects parts of eastern China, causing flooding, while a prolonged drought plagues the northwest of the country. ](/news/2011/06/25/a-strengthening-tropical-storm-affects-parts-of-eastern-china-causing-flooding-while-a-prolonged-drought-plagues-the-northwest-of-the-coun.md)

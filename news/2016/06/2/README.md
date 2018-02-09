@@ -13,7 +13,7 @@ The move is the latest step in the Obama administration’s fight against wildli
 
 ##### Environmental
 ### [A collection of environmental groups including the Sierra Club file a brief opposing the Arch Coal plan to exit from bankruptcy. ](/news/2016/06/2/a-collection-of-environmental-groups-including-the-sierra-club-file-a-brief-opposing-the-arch-coal-plan-to-exit-from-bankruptcy.md)
-_Context: Sierra Club, Arch Coal, bankruptcy, environmental_
+_Context: environmental, Sierra Club, bankruptcy, Arch Coal_
 
 ##### 2016 European floods
 ### [At least eleven people are killed in heavy flooding across Europe. ](/news/2016/06/2/at-least-eleven-people-are-killed-in-heavy-flooding-across-europe.md)
@@ -21,7 +21,7 @@ At least five people are dead and dozens of towns are inundated by flooding acro
 
 ##### Romania
 ### [A Romanian medical helicopter crashes near Cahul, Moldova, killing four people. ](/news/2016/06/2/a-romanian-medical-helicopter-crashes-near-cahul-moldova-killing-four-people.md)
-_Context: Cahul, Romania, Moldova_
+_Context: Moldova, Romania, Cahul_
 
 ##### May 2016 United States storm complex
 ### [At least five United States Army soldiers are killed and four are missing after their Light Medium Tactical Vehicle overturns near Fort Hood in Texas. ](/news/2016/06/2/at-least-five-united-states-army-soldiers-are-killed-and-four-are-missing-after-their-light-medium-tactical-vehicle-overturns-near-fort-hood.md)
@@ -53,7 +53,7 @@ Mathura clashes: 24 killed, 368 arrested in violence - The clashes took place wh
 
 ##### Breaks out in a rally
 ### [Violence breaks out in a rally supporting Donald Trump in San Jose, California. An officer and several demonstrators were assaulted, and a few people were arrested. ](/news/2016/06/2/violence-breaks-out-in-a-rally-supporting-donald-trump-in-san-jose-california-an-officer-and-several-demonstrators-were-assaulted-and-a-f.md)
-_Context: breaks out in a rally, Donald Trump, San Jose, California_
+_Context: San Jose, California, breaks out in a rally, Donald Trump_
 
 ##### 
 ### [ In Ottawa, Canada Marc Leduc is found guilty first-degree murder in the killings of two women found dead in 2008 and 2011 involved in drugs and sex trade. His DNA was matched after he was arrested in a 2012 sex assault with a knife. ](/news/2016/06/2/in-ottawa-canada-marc-leduc-is-found-guilty-first-degree-murder-in-the-killings-of-two-women-found-dead-in-2008-and-2011-involved-in-drugs.md)

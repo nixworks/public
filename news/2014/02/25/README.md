@@ -17,7 +17,7 @@ _Context: Asiana Airlines_
 
 ##### United States
 ### [The United States administration formally declares that it no longer recognizes Viktor Yanukovych as Ukraine's president as "his actions have undermined his legitimacy". ](/news/2014/02/25/the-united-states-administration-formally-declares-that-it-no-longer-recognizes-viktor-yanukovych-as-ukraineas-president-as-his-actions-h.md)
-_Context: Viktor Yanukovych, United States_
+_Context: United States, Viktor Yanukovych_
 
 ##### Hyde Park and Regent's Park bombings
 ### [A court in the UK rules that a man arrested in connection with the 1982 Hyde Park and Regent's Park bombings will not be prosecuted for his involvement.](/news/2014/02/25/a-court-in-the-uk-rules-that-a-man-arrested-in-connection-with-the-1982-hyde-park-and-regent-s-park-bombings-will-not-be-prosecuted-for-his.md)
@@ -33,7 +33,7 @@ While a crowd outside the court chanted “freedom” and “shame”, a judge i
 
 ##### China
 ### [China's National Meteorological Center of CMA warns of heavy smog in northern and central China over the next two days. ](/news/2014/02/25/china-s-national-meteorological-center-of-cma-warns-of-heavy-smog-in-northern-and-central-china-over-the-next-two-days.md)
-_Context: China, National Meteorological Center, smog, China_
+_Context: National Meteorological Center, China, China, smog_
 
 ## [Previous Day...](/news/2014/02/24/index.md)
 

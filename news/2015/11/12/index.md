@@ -25,7 +25,7 @@ Mario Draghi signaled that the European Central Bank is ready to boost its stimu
 
 ##### Montreal
 ### [The city of Montreal in Canada begins dumping 2 billion gallons of raw sewage into the Saint Lawrence River, an action the mayor, Denis Coderre, says is necessary to make repairs and improvements to the city's wastewater system. The move has caused outrage among residents and environmentalists, while the hashtag ""#flushgate"" is being used on social media sites to voice opposition to the dumping effort. ](/news/2015/11/12/the-city-of-montreal-in-canada-begins-dumping-2-billion-gallons-of-raw-sewage-into-the-saint-lawrence-river-an-action-the-mayor-denis-code.md)
-_Context: hashtag, Denis Coderre, Canadian, Saint Lawrence River, social media, Montreal_
+_Context: Saint Lawrence River, Canadian, social media, Denis Coderre, hashtag, Montreal_
 
 ##### Valletta Summit on Migration
 ### [The Valletta Summit on Migration concludes with European leaders setting up a fund to promote development in African countries, in return for help in the European migrant crisis. ](/news/2015/11/12/the-valletta-summit-on-migration-concludes-with-european-leaders-setting-up-a-fund-to-promote-development-in-african-countries-in-return-fo.md)

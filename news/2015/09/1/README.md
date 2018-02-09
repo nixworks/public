@@ -29,7 +29,7 @@ At least one person has been reported dead in yet another
 
 ##### Legionnaires' disease
 ### [The death toll from a Legionnaires' disease outbreak at a Quincy, Illinois veterans home rises to at least seven with more than the current number of 32 sickened expected since the incubation period for illness can be up to two weeks. ](/news/2015/09/1/the-death-toll-from-a-legionnaires-disease-outbreak-at-a-quincy-illinois-veterans-home-rises-to-at-least-seven-with-more-than-the-current.md)
-_Context: Quincy, Illinois, Legionnaires' disease_
+_Context: Legionnaires' disease, Quincy, Illinois_
 
 ##### European migrant crisis
 ### [Authorities in Hungary close the Budapest Keleti railway station to prevent hundreds of migrants from boarding trains to other European capitals. ](/news/2015/09/1/authorities-in-hungary-close-the-budapest-keleti-railway-station-to-prevent-hundreds-of-migrants-from-boarding-trains-to-other-european-capi.md)

@@ -13,7 +13,7 @@ An armed Palestinian man has been shot dead at a Jenin army post in the latest o
 
 ##### Somali pirates
 ### [Somali pirates seize a Mongolian bulk carrier off the coast of Oman. ](/news/2011/01/20/somali-pirates-seize-a-mongolian-bulk-carrier-off-the-coast-of-oman.md)
-_Context: Oman, Mongolia, Somali pirates_
+_Context: Mongolia, Oman, Somali pirates_
 
 ##### Muslim
 ### [Muslim separatists in southern Thailand kill four soldiers in an attack on an army base. ](/news/2011/01/20/muslim-separatists-in-southern-thailand-kill-four-soldiers-in-an-attack-on-an-army-base.md)
@@ -25,7 +25,7 @@ Bulgaria explained. Quality reporting and analyses tailored to the needs of fore
 
 ##### Iraq Inquiry
 ### [Iraq Inquiry documents show former British prime minister Tony Blair was offered an alternative to attacking Iraq during a secret meeting held eight days before its soldiers invaded the country in 2003. ](/news/2011/01/20/iraq-inquiry-documents-show-former-british-prime-minister-tony-blair-was-offered-an-alternative-to-attacking-iraq-during-a-secret-meeting-he.md)
-_Context: Tony Blair, Iraq Inquiry, Iraq War, Prime Minister, 2003 invasion of Iraq_
+_Context: 2003 invasion of Iraq, Iraq War, Iraq Inquiry, Tony Blair, Prime Minister_
 
 ##### Muslim
 ### [Prejudice against Muslims is declared socially acceptable and Britain is becoming less tolerant according to Sayeeda Warsi, Baroness Warsi, the first female British Muslim cabinet member, in a speech at the University of Leicester. ](/news/2011/01/20/prejudice-against-muslims-is-declared-socially-acceptable-and-britain-is-becoming-less-tolerant-according-to-sayeeda-warsi-baroness-warsi.md)
@@ -33,7 +33,7 @@ British politician says prejudice against Muslims is now socially acceptable and
 
 ##### Palme d'Or
 ### [Palme d'Or winner "Uncle Boonmee Who Can Recall His Past Lives" is denied a nomination at the Academy Awards in the foreign language film category. ](/news/2011/01/20/palme-d-or-winner-uncle-boonmee-who-can-recall-his-past-lives-is-denied-a-nomination-at-the-academy-awards-in-the-foreign-language-film-ca.md)
-_Context: Palme d'Or, Uncle Boonmee Who Can Recall His Past Lives, Academy Award_
+_Context: Academy Award, Palme d'Or, Uncle Boonmee Who Can Recall His Past Lives_
 
 ##### 
 ### [Three works of art stolen from a museum 15 years ago are retrieved. ](/news/2011/01/20/three-works-of-art-stolen-from-a-museum-15-years-ago-are-retrieved.md)
@@ -41,7 +41,7 @@ Three valuable paintings are found more than 15 years after they were stolen fro
 
 ##### Save the Children
 ### [Save the Children launches a GBP1 million appeal to help assist up to 400,000 children it expects are affected by a food crisis following Sri Lanka's worst floods in recent history. ](/news/2011/01/20/save-the-children-launches-a-agbp1-million-appeal-to-help-assist-up-to-400-000-children-it-expects-are-affected-by-a-food-crisis-following-s.md)
-_Context: Sri Lanka, Save the Children_
+_Context: Save the Children, Sri Lanka_
 
 ##### South Korea
 ### [South Korea accepts North Korea's proposal of high-level military talks to discuss "pending issues". ](/news/2011/01/20/south-korea-accepts-north-korea-s-proposal-of-high-level-military-talks-to-discuss-pending-issues.md)
@@ -65,11 +65,11 @@ The largest rocket ever launched from the U.S. West Coast blasted off on Thursda
 
 ##### Hong Kong
 ### [Customs officials in Hong Kong seize a haul of cocaine worth US$33.4m bound for China, originating from Bolivia. ](/news/2011/01/20/customs-officials-in-hong-kong-seize-a-haul-of-cocaine-worth-us-33-4m-bound-for-china-originating-from-bolivia.md)
-_Context: $, cocaine, China, Hong Kong, Bolivia_
+_Context: cocaine, $, China, Bolivia, Hong Kong_
 
 ##### Guantanamo Bay
 ### [New trials are reported to be starting soon at Guantanamo Bay after the United States Congress blocks President of the United States Barack Obama's attempts to close the prison; The Pentagon refuses to comment. ](/news/2011/01/20/new-trials-are-reported-to-be-starting-soon-at-guanta-namo-bay-after-the-united-states-congress-blocks-president-of-the-united-states-barack.md)
-_Context: U.S. President, lawmakers, Guantanamo Bay, United States military, Barack Obama_
+_Context: Guantanamo Bay, lawmakers, Barack Obama, U.S. President, United States military_
 
 ##### Haiti
 ### [Haiti's former president Jean-Claude "Baby Doc" Duvalier, now facing charges of corruption and theft of funds, hopes to becomes president again, according to his lawyer. ](/news/2011/01/20/haiti-s-former-president-jean-claude-baby-doc-duvalier-now-facing-charges-of-corruption-and-theft-of-funds-hopes-to-becomes-president-ag.md)
@@ -101,7 +101,7 @@ Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning
 
 ##### Shadow
 ### [Britain's Shadow Chancellor Alan Johnson resigns from the Labour Party's frontbench team for "personal" reasons. ](/news/2011/01/20/britain-s-shadow-chancellor-alan-johnson-resigns-from-the-labour-party-s-frontbench-team-for-personal-reasons.md)
-_Context: Labour Party, Shadow, Chancellor of the Exchequer, Alan Johnson_
+_Context: Shadow, Labour Party, Alan Johnson, Chancellor of the Exchequer_
 
 ##### 
 ### [2010 tied for the warmest year ever recorded, and the last decade was the warmest ever recorded, since records began in the 1800s.](/news/2011/01/20/2010-tied-for-the-warmest-year-ever-recorded-and-the-last-decade-was-the-warmest-ever-recorded-since-records-began-in-the-1800s.md)

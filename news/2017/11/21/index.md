@@ -13,7 +13,7 @@ _Context: 2017 eruption of Mount Agung, Mount Agung_
 
 ##### 2017 North Korea crisis
 ### [The U.S. Treasury imposes new sanctions on several North Korean shipping companies and vessels, along with four Chinese companies which have engaged in trading activities with North Korea. ](/news/2017/11/21/the-u-s-treasury-imposes-new-sanctions-on-several-north-korean-shipping-companies-and-vessels-along-with-four-chinese-companies-which-have.md)
-_Context: U.S. Treasury, Chinese companies, 2017 North Korea crisis, Sanctions against North Korea, North Korean shipping companies, vessels_
+_Context: Chinese companies, 2017 North Korea crisis, U.S. Treasury, Sanctions against North Korea, North Korean shipping companies, vessels_
 
 ##### Net neutrality in the United States
 ### [Federal Communications Commission chairman Ajit Pai announces his agency will take steps to repeal the regulations put in place under the Obama administration, including the classification of broadband Internet as a public utility. ](/news/2017/11/21/federal-communications-commission-chairman-ajit-pai-announces-his-agency-will-take-steps-to-repeal-the-regulations-put-in-place-under-the-ob.md)

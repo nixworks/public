@@ -21,7 +21,7 @@ The death toll has risen to at least 48 hostages killed during a four-day siege 
 
 ##### Prokopyevsky District
 ### [At least four miners are killed and four others trapped after a fire at a mine in Prokopyevsky District, Kemerovo Oblast, Russia. ](/news/2013/01/20/at-least-four-miners-are-killed-and-four-others-trapped-after-a-fire-at-a-mine-in-prokopyevsky-district-kemerovo-oblast-russia.md)
-_Context: Prokopyevsky District, Russia, Kemerovo Oblast_
+_Context: Kemerovo Oblast, Prokopyevsky District, Russia_
 
 ##### France
 ### [A French sailor who had spent three days adrift in a life raft in the Southern Ocean off the coast of Tasmania in Australia is rescued by the cruise ship MV "Orion". ](/news/2013/01/20/a-french-sailor-who-had-spent-three-days-adrift-in-a-life-raft-in-the-southern-ocean-off-the-coast-of-tasmania-in-australia-is-rescued-by-th.md)
@@ -37,7 +37,7 @@ A teenager is arrested in New Mexico over the fatal shootings of two adults and 
 
 ##### Drug lord
 ### [A drug lord named Mario Smith Pomare, who had long been wanted by the police in Colombia, is arrested at his villa on the Atlantic coast of Honduras. ](/news/2013/01/20/a-drug-lord-named-mario-smith-pomare-who-had-long-been-wanted-by-the-police-in-colombia-is-arrested-at-his-villa-on-the-atlantic-coast-of.md)
-_Context: Colombia, Honduras, drug lord, Atlantic Ocean_
+_Context: Honduras, Atlantic Ocean, drug lord, Colombia_
 
 ##### Second inauguration
 ### [The second inauguration of Barack Obama as the President of the United States takes place in the Blue Room of the White House. ](/news/2013/01/20/the-second-inauguration-of-barack-obama-as-the-president-of-the-united-states-takes-place-in-the-blue-room-of-the-white-house.md)
@@ -53,11 +53,11 @@ The Cabinet Committee on Political Affairs (CCPA) on Thursday raised the cap on 
 
 ##### German
 ### [In Germany, Chancellor Angela Merkel's centre-left opponents win a narrow victory in Lower Saxony state election. ](/news/2013/01/20/in-germany-chancellor-angela-merkel-s-centre-left-opponents-win-a-narrow-victory-in-lower-saxony-state-election.md)
-_Context: Chancellor, Angela Merkel, Lower Saxony state election, German_
+_Context: German, Chancellor, Angela Merkel, Lower Saxony state election_
 
 ##### Austria
 ### [Austria holds a national referendum, choosing between keeping the current system of a conscripted army and optional social service for young men, or introducing a professional army and a voluntary community service. ](/news/2013/01/20/austria-holds-a-national-referendum-choosing-between-keeping-the-current-system-of-a-conscripted-army-and-optional-social-service-for-young.md)
-_Context: army, professional army, national referendum, community service, Austria_
+_Context: Austria, army, community service, professional army, national referendum_
 
 ##### NASA
 ### [A NASA spacecraft, Mars Reconnaissance Orbiter, is providing new evidence of a wet underground environment on Mars that adds to an increasingly complex picture of the Red Planet's early evolution. ](/news/2013/01/20/a-nasa-spacecraft-mars-reconnaissance-orbiter-is-providing-new-evidence-of-a-wet-underground-environment-on-mars-that-adds-to-an-increasin.md)

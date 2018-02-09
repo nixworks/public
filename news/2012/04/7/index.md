@@ -9,15 +9,15 @@ Facility shut down after forces loyal to sacked air force chief surround Sanaa a
 
 ##### Burma
 ### [Burmese President Thein Sein meets representative from the Karen National Union, in an attempt to end one of the world's longest running civil conflicts. ](/news/2012/04/7/burmese-president-thein-sein-meets-representative-from-the-karen-national-union-in-an-attempt-to-end-one-of-the-world-s-longest-running-civ.md)
-_Context: Burma, Thein Sein, Internal conflict in Burma, Karen National Union, President of Burma_
+_Context: Internal conflict in Burma, Burma, Karen National Union, Thein Sein, President of Burma_
 
 ##### Avalanche
 ### [An avalanche buries about 130 Pakistani Army soldiers near the Siachen Glacier in the Himalayas near the border with India. ](/news/2012/04/7/an-avalanche-buries-about-130-pakistani-army-soldiers-near-the-siachen-glacier-in-the-himalayas-near-the-border-with-india.md)
-_Context: India, avalanche, Pakistani troops, Himalaya, Siachen Glacier_
+_Context: Siachen Glacier, avalanche, Pakistani troops, Himalaya, India_
 
 ##### Hamas
 ### [Hamas executes three men (of whom one was convicted of collaborating with Israel) in the Gaza Strip. ](/news/2012/04/7/hamas-executes-three-men-of-whom-one-was-convicted-of-collaborating-with-israel-in-the-gaza-strip.md)
-_Context: Israel, Gaza Strip, Hamas_
+_Context: Gaza Strip, Hamas, Israel_
 
 ##### Joyce Banda
 ### [Joyce Banda becomes the President of Malawi following the death of Bingu wa Mutharika. ](/news/2012/04/7/joyce-banda-becomes-the-president-of-malawi-following-the-death-of-bingu-wa-mutharika.md)

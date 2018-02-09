@@ -9,7 +9,7 @@ _Context: Iraq, Buhriz_
 
 ##### British
 ### [British singer Susan Boyle reveals she has Asperger syndrome. ](/news/2013/12/9/british-singer-susan-boyle-reveals-she-has-asperger-syndrome.md)
-_Context: British, Susan Boyle, Asperger syndrome_
+_Context: Asperger syndrome, Susan Boyle, British_
 
 ##### American Airlines Group
 ### [American Airlines Group is formed from the merger of AMR Corporation and US Airways Group and begins trading on the NASDAQ. ](/news/2013/12/9/american-airlines-group-is-formed-from-the-merger-of-amr-corporation-and-us-airways-group-and-begins-trading-on-the-nasdaq.md)
@@ -17,7 +17,7 @@ Eleven months after American Airlines and US Airways announced plans to merge, t
 
 ##### Accident
 ### [At least seven are dead following a train accident near Bintaro, Indonesia. ](/news/2013/12/9/at-least-seven-are-dead-following-a-train-accident-near-bintaro-indonesia.md)
-_Context: accident, Indonesia_
+_Context: Indonesia, accident_
 
 ##### Philippines
 ### [The Philippines and the Bangsamoro sign a power-sharing agreement, paving the way for the peace process. ](/news/2013/12/9/the-philippines-and-the-bangsamoro-sign-a-power-sharing-agreement-paving-the-way-for-the-peace-process.md)
@@ -29,15 +29,15 @@ Harold Rhode&apos;s elation at finding a trove of Jewish texts during the Iraq w
 
 ##### Prime Minister
 ### [Prime Minister of Thailand Yingluck Shinawatra announces that she plans to hold elections. ](/news/2013/12/9/prime-minister-of-thailand-yingluck-shinawatra-announces-that-she-plans-to-hold-elections.md)
-_Context: Yingluck Shinawatra, general election held on February 2, Prime Minister_
+_Context: Prime Minister, general election held on February 2, Yingluck Shinawatra_
 
 ##### Gustavo Petro
 ### [Gustavo Petro, mayor of Bogot, Colombia, is removed from office and banned from re-taking it for fifteen years, due to a failing city cleaning policy promoted by him. ](/news/2013/12/9/gustavo-petro-mayor-of-bogota-colombia-is-removed-from-office-and-banned-from-re-taking-it-for-fifteen-years-due-to-a-failing-city-clean.md)
-_Context: Bogot, Colombia, Gustavo Petro_
+_Context: Gustavo Petro, Colombia, Bogot_
 
 ##### Prime Minister of Ukraine
 ### [Former Prime Minister of Ukraine Yulia Tymoshenko sends a letter of support to Ukrainian protesters after they topple a statue of Lenin. ](/news/2013/12/9/former-prime-minister-of-ukraine-yulia-tymoshenko-sends-a-letter-of-support-to-ukrainian-protesters-after-they-topple-a-statue-of-lenin.md)
-_Context: Prime Minister of Ukraine, Yulia Tymoshenko, Lenin, Ukraine_
+_Context: Lenin, Prime Minister of Ukraine, Ukraine, Yulia Tymoshenko_
 
 ##### Russian President
 ### [President of Russia Vladimir Putin announces that RIA Novosti, Voice of Russia, and the State Fund of Television and Radio Programs will immediately be shut down. Newly created Rossia Segodnya (Russia Today) will take RIA Novosti's place as the government news agency. ](/news/2013/12/9/president-of-russia-vladimir-putin-announces-that-ria-novosti-voice-of-russia-and-the-state-fund-of-television-and-radio-programs-will-imm.md)

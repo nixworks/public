@@ -25,7 +25,7 @@ _Context: Bangladesh_
 
 ##### China
 ### [A Chinese fishing boat capsizes during a scuffle with a South Korean coastguard ship, leaving one dead and two missing. ](/news/2010/12/18/a-chinese-fishing-boat-capsizes-during-a-scuffle-with-a-south-korean-coastguard-ship-leaving-one-dead-and-two-missing.md)
-_Context: China, South Korea_
+_Context: South Korea, China_
 
 ##### United Kingdom
 ### [Roads, railways and airports across the United Kingdom are severely affected by further heavy snowfall. Severe weather warnings have been issued for many areas. ](/news/2010/12/18/roads-railways-and-airports-across-the-united-kingdom-are-severely-affected-by-further-heavy-snowfall-severe-weather-warnings-have-been-is.md)
@@ -53,7 +53,7 @@ _Context: incident near Eocheong island_
 
 ##### Nigeria
 ### [Nigeria agrees to drop corruption charges against Dick Cheney and Halliburton in exchange for a $250 million settlement. ](/news/2010/12/18/nigeria-agrees-to-drop-corruption-charges-against-dick-cheney-and-halliburton-in-exchange-for-a-250-million-settlement.md)
-_Context: Halliburton, settlement, Dick Cheney, Nigeria_
+_Context: Nigeria, Dick Cheney, settlement, Halliburton_
 
 ##### Russia
 ### [Hundreds of people, including nationalists, are arrested in the Russian capital Moscow in an attempt to prevent an outbreak of ethnic violence. ](/news/2010/12/18/hundreds-of-people-including-nationalists-are-arrested-in-the-russian-capital-moscow-in-an-attempt-to-prevent-an-outbreak-of-ethnic-violen.md)
@@ -65,7 +65,7 @@ At least 140 prisoners were on the loose Friday in northern Mexico after breakin
 
 ##### United States Senate
 ### [The United States Senate repeals "Don't Ask Don't Tell" by a vote of 65-35. The bill will now be sent to President Barack Obama to be signed. ](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.md)
-_Context: Barack Obama, Don't Ask Don't Tell, United States Senate_
+_Context: United States Senate, Barack Obama, Don't Ask Don't Tell_
 
 ##### Italy
 ### [An Italian court grants Amanda Knox a review of the forensic evidence used to convict her of the 2007 murder of British student Meredith Kercher. ](/news/2010/12/18/an-italian-court-grants-amanda-knox-a-review-of-the-forensic-evidence-used-to-convict-her-of-the-2007-murder-of-british-student-meredith-ker.md)
@@ -73,7 +73,7 @@ Amanda Knox has been granted a review of the forensic evidence used to convict h
 
 ##### Venezuela
 ### [The Venezuelan parliament temporarily grants more powers to President Hugo Chavez in the wake of recent flooding, allowing him to pass laws by decree without the support of the National Assembly.](/news/2010/12/18/the-venezuelan-parliament-temporarily-grants-more-powers-to-president-hugo-cha-vez-in-the-wake-of-recent-flooding-allowing-him-to-pass-laws.md)
-_Context: Venezuelan President, decree, Hugo Chavez, Venezuela, National Assembly_
+_Context: Hugo Chavez, Venezuelan President, decree, National Assembly, Venezuela_
 
 ## [Previous Day...](/news/2010/12/17/index.md)
 

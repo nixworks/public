@@ -13,7 +13,7 @@ This is the first official confirmation of mustard gas use in Syria since the co
 
 ##### The Church of Jesus Christ of Latter-day Saints
 ### [The Church of Jesus Christ of Latter-day Saints (Mormon) new policy states those in a same-sex marriage are to be considered apostates, and children living in a same-sex household may not be blessed as babies, or baptized until they are 18. ](/news/2015/11/6/the-church-of-jesus-christ-of-latter-day-saints-mormon-new-policy-states-those-in-a-same-sex-marriage-are-to-be-considered-apostates-and.md)
-_Context: same-sex marriage, apostates, blessed, baptized, The Church of Jesus Christ of Latter-day Saints_
+_Context: blessed, The Church of Jesus Christ of Latter-day Saints, same-sex marriage, apostates, baptized_
 
 ##### India
 ### [India has cancelled Greenpeace India's license to operate and gave the group 30 days to close down, citing financial fraud and falsification of data, the environment watchdog said on Friday. ](/news/2015/11/6/india-has-cancelled-greenpeace-india-s-license-to-operate-and-gave-the-group-30-days-to-close-down-citing-financial-fraud-and-falsification.md)
@@ -37,7 +37,7 @@ Brazilian authorities stepped up efforts to locate and care for victims of a mas
 
 ##### Pittsburgh
 ### [Researchers at Pittsburgh, Pennsylvania's Carnegie Mellon University (CMU) successfully use a 3-D printer (specifically, a fused deposition modeling (FDM) printer) to produce hair-like strands, inspired by the use of a hot glue gun to produce gossamer strands. Also, using certain materials (like collagens, alginates, and fibrins), with a 3-D printer and special bioprinting techniques, another team at CMU produced human coronary arteries and small, embryonic-like human hearts. ](/news/2015/11/6/researchers-at-pittsburgh-pennsylvania-s-carnegie-mellon-university-cmu-successfully-use-a-3-d-printer-specifically-a-fused-deposition.md)
-_Context: fibrin, Pennsylvania, human heart, fused deposition modeling, collagens, Carnegie Mellon University, alginates, glue gun, coronary arteries, Pittsburgh_
+_Context: Pennsylvania, fused deposition modeling, human heart, Pittsburgh, fibrin, alginates, Carnegie Mellon University, glue gun, coronary arteries, collagens_
 
 ##### Food and Drug Administration
 ### [The U.S. Food and Drug Administration approves a new, all-in-one pill to treat HIV patients that includes a new version of the drug tenofovir, which researchers think will help reduce side effects from the multi-drug regimens used for HIV. ](/news/2015/11/6/the-u-s-food-and-drug-administration-approves-a-new-all-in-one-pill-to-treat-hiv-patients-that-includes-a-new-version-of-the-drug-tenofovi.md)
@@ -57,17 +57,17 @@ The Obama administration is moving to increase and accelerate the number of Syri
 
 ##### Turkey-United States relations
 ### [The U.S Air Force deploys six F-15C fighter jets to Turkey's Incirlik Air Base to help defend Turkish airspace against potential intruders. ](/news/2015/11/6/the-u-s-air-force-deploys-six-f-15c-fighter-jets-to-turkey-s-incirlik-air-base-to-help-defend-turkish-airspace-against-potential-intruders.md)
-_Context: Turkey, F-15, Turkey-United States relations, United States Air Force, airspace, Incirlik Air Base_
+_Context: airspace, United States Air Force, Turkey, F-15, Turkey-United States relations, Incirlik Air Base_
 
 ##### Egypt-United States relations
 ### [Egypt receives the final four of its order of 20 Lockheed Martin F-16 Block 52 multi-role fighters, according to the Defense Ministry. The United States had delayed delivery following the 2013 coup d'etat. ](/news/2015/11/6/egypt-receives-the-final-four-of-its-order-of-20-lockheed-martin-f-16-block-52-multi-role-fighters-according-to-the-defense-ministry-the-u.md)
-_Context: Defense Ministry, Lockheed Martin F-16 Block 52 multi-role fighters, 2013 coup d'etat, United States, Egypt, Egypt-United States relations_
+_Context: Egypt-United States relations, Egypt, United States, 2013 coup d'etat, Lockheed Martin F-16 Block 52 multi-role fighters, Defense Ministry_
 
 ##### Japan-United States relations
 ### [Okinawa Governor Takeshi Onaga says he "cannot comply with the recommendation" from Tokyo's Land Minister Keiichi Ishii, and will not retract his revocation of a U.S. military base relocation permit. ](/news/2015/11/6/okinawa-governor-takeshi-onaga-says-he-cannot-comply-with-the-recommendation-from-tokyo-s-land-minister-keiichi-ishii-and-will-not-retrac.md)
 A dispute in Okinawa is escalating after the governor of the island refused to retract a revocation of a U.S. military base relocation permit.
 
-##### House of Representatives
+##### United States House of Representatives
 ### [The U.S. House passes the 2016 National Defense Authorization Act by a vote of 370-58. In addition to funding the U.S. military, the bill contains provisions for sweeping personnel reforms. The previous version of the bill was vetoed by President Barack Obama. Some sources expect swift passage by the U.S. Senate while other sources are not so optimistic. ](/news/2015/11/6/the-u-s-house-passes-the-2016-national-defense-authorization-act-by-a-vote-of-370-58-in-addition-to-funding-the-u-s-military-the-bill-co.md)
 The US House voted overwhelmingly Thursday to approve the 2016 defense policy bill that complies with the terms of the overarching budget deal between the president and congressional leadership.
 

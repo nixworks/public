@@ -9,7 +9,7 @@ A British security consultant kidnapped six days ago by gunmen in Somalia has de
 
 ##### United Kingdom
 ### [United Kingdom boyband JLS and hip-hop MC Tinie Tempah dominate the Music of Black Origin Awards in Liverpool. ](/news/2010/10/20/united-kingdom-boyband-jls-and-hip-hop-mc-tinie-tempah-dominate-the-music-of-black-origin-awards-in-liverpool.md)
-_Context: United Kingdom, Music of Black Origin Awards, JLS, Liverpool, boyband, Tinie Tempah, MC, hip-hop_
+_Context: MC, Tinie Tempah, Liverpool, United Kingdom, hip-hop, boyband, Music of Black Origin Awards, JLS_
 
 ##### France
 ### [France braces itself for another day of strikes against proposed cuts to pensions that the Senate will consider later this week. ](/news/2010/10/20/france-braces-itself-for-another-day-of-strikes-against-proposed-cuts-to-pensions-that-the-senate-will-consider-later-this-week.md)
@@ -17,11 +17,11 @@ French strikers impose new fuel blockades, hours after security forces clear pro
 
 ##### China
 ### [China denies reports that it has banned export of rare earth mineral to the United States and Europe following similar measures against Japan. ](/news/2010/10/20/china-denies-reports-that-it-has-banned-export-of-rare-earth-mineral-to-the-united-states-and-europe-following-similar-measures-against-japa.md)
-_Context: China, United States, Europe, rare earth mineral, Japan_
+_Context: China, rare earth mineral, Europe, United States, Japan_
 
 ##### Sino-Singapore Tianjin Eco-city
 ### [The Sino-Singapore Tianjin Eco-city holds a groundbreaking ceremony for its Eco-technology Park in Binhai New Area a key national strategic area in Tianjin. ](/news/2010/10/20/the-sino-singapore-tianjin-eco-city-holds-a-groundbreaking-ceremony-for-its-eco-technology-park-in-binhai-new-area-a-key-national-strategic.md)
-_Context: Binhai New Area, Sino-Singapore Tianjin Eco-city, Eco-technology Park, Tianjin_
+_Context: Binhai New Area, Eco-technology Park, Tianjin, Sino-Singapore Tianjin Eco-city_
 
 ##### Ecuador
 ### [All four Ecuadorean miners trapped underground since a mine collapse have been found dead. ](/news/2010/10/20/all-four-ecuadorean-miners-trapped-underground-since-a-mine-collapse-have-been-found-dead.md)
@@ -37,7 +37,7 @@ _Context: Swedish throne, Danish_
 
 ##### Batkivschyna
 ### [Leader of the Batkivschyna party Yulia Tymoshenko says that an additional monetary emission by the Ukrainian government of Hr 83.6 billion has already translated into growth in consumer prices. ](/news/2010/10/20/leader-of-the-batkivschyna-party-yulia-tymoshenko-says-that-an-additional-monetary-emission-by-the-ukrainian-government-of-hr-83-6-billion-h.md)
-_Context: Yulia Tymoshenko, Batkivschyna, Ukrainian government_
+_Context: Ukrainian government, Batkivschyna, Yulia Tymoshenko_
 
 ##### Tibet
 ### [At least 1,000 Tibetan students protest in China against a new language policy which they say erodes their culture. ](/news/2010/10/20/at-least-1-000-tibetan-students-protest-in-china-against-a-new-language-policy-which-they-say-erodes-their-culture.md)
@@ -45,7 +45,7 @@ At least 1,000 Tibetan students in north-west China protest against new curbs on
 
 ##### Spain
 ### [Spanish Prime Minister Jos Luis Rodrguez Zapatero reshuffles his cabinet in a move to strengthen his government. ](/news/2010/10/20/spanish-prime-minister-jose-luis-rodriguez-zapatero-reshuffles-his-cabinet-in-a-move-to-strengthen-his-government.md)
-_Context: Jos Luis Rodrguez Zapatero, Spain_
+_Context: Spain, Jos Luis Rodrguez Zapatero_
 
 ##### Guinea
 ### [The two rival presidential candidates in Guinea agree to go ahead with a presidential run-off on Sunday amid the replacement of the head of the election commission. ](/news/2010/10/20/the-two-rival-presidential-candidates-in-guinea-agree-to-go-ahead-with-a-presidential-run-off-on-sunday-amid-the-replacement-of-the-head-of.md)
@@ -61,7 +61,7 @@ The United States plans to sell up to $60 billion worth of military aircraft to 
 
 ##### Astronomer
 ### [Astronomers announce the discovery of the galaxy UDFy-38135539, the most distant object observed from earth. ](/news/2010/10/20/astronomers-announce-the-discovery-of-the-galaxy-udfy-38135539-the-most-distant-object-observed-from-earth.md)
-_Context: UDFy-38135539, Astronomer, distant object, galaxy_
+_Context: UDFy-38135539, distant object, Astronomer, galaxy_
 
 ## [Previous Day...](/news/2010/10/19/index.md)
 

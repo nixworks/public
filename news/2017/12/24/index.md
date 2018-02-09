@@ -9,7 +9,7 @@ Formats: [HTML](2017/12/24/index.html)  [JSON](2017/12/24/index.json)  [XML](201
 
 ##### Positions on Jerusalem
 ### [Guatemalan President Jimmy Morales says he will move his country's Israeli embassy from Tel Aviv to Jerusalem. ](/news/2017/12/24/guatemalan-president-jimmy-morales-says-he-will-move-his-country-s-israeli-embassy-from-tel-aviv-to-jerusalem.md)
-_Context: Jimmy Morales, Positions on Jerusalem, Israel, Tel Aviv, Jerusalem_
+_Context: Jerusalem, Jimmy Morales, Israel, Positions on Jerusalem, Tel Aviv_
 
 ##### Transport in Tunisia
 ### [Tunisia's Transport Ministry suspends Emirates Airlines flights to Tunis. ](/news/2017/12/24/tunisia-s-transport-ministry-suspends-emirates-airlines-flights-to-tunis.md)
@@ -17,7 +17,7 @@ Tunisia has barred Emirates Airlines flights from landing in its territory. The 
 
 ##### Sanctions against North Korea
 ### [North Korea's foreign ministry, in an official statement, says the latest United Nations sanctions are an act of war and are, in effect, a complete economic blockade. ](/news/2017/12/24/north-koreaas-foreign-ministry-in-an-official-statement-says-the-latest-united-nations-sanctions-are-an-act-of-war-and-are-in-effect-a.md)
-_Context: act of war, blockade, North Korea's foreign ministry, Sanctions against North Korea, United Nations sanctions_
+_Context: United Nations sanctions, blockade, North Korea's foreign ministry, Sanctions against North Korea, act of war_
 
 ##### Pardon of Alberto Fujimori
 ### [Peruvian President Pedro Pablo Kuczynski pardons Alberto Fujimori, who was serving a 25-year sentence for corruption and human rights violations. ](/news/2017/12/24/peruvian-president-pedro-pablo-kuczynski-pardons-alberto-fujimori-who-was-serving-a-25-year-sentence-for-corruption-and-human-rights-violat.md)
@@ -29,7 +29,7 @@ Turkey&#x20;on&#x20;Sunday&#x20;ordered&#x20;the&#x20;dismissal&#x20;of&#x20;ove
 
 ##### China
 ### [China's AVIC AG600, the world's largest amphibious aircraft, makes its maiden flight. State-owned Aviation Industry Corporation of China (AVIC) has spent almost eight years developing the aircraft, which is designed to carry out marine rescues and battle wildfires. ](/news/2017/12/24/china-s-avic-ag600-the-world-s-largest-amphibious-aircraft-makes-its-maiden-flight-state-owned-aviation-industry-corporation-of-china-av.md)
-_Context: AVIC AG600, China, amphibious aircraft, Aviation Industry Corporation of China_
+_Context: amphibious aircraft, Aviation Industry Corporation of China, AVIC AG600, China_
 
 ## [Previous Day...](/news/2017/12/23/index.md)
 

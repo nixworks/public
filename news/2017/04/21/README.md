@@ -9,7 +9,7 @@ Taliban fighters drove through checkpoints dressed in army uniforms before launc
 
 ##### Russia
 ### [Two people are killed in an attack in a Federal Security Service office in the Russian city of Khabarovsk. The gunman is also killed. The US-Israeli SITE Intelligence Group says Amaq News Agency claims the attack for Islamic State of Iraq and the Levant. The Russian Federal Security Service says the native 18-year-old perpetrator was a known member of a neo-nazi group. ](/news/2017/04/21/two-people-are-killed-in-an-attack-in-a-federal-security-service-office-in-the-russian-city-of-khabarovsk-the-gunman-is-also-killed-the-us.md)
-_Context: Russia, Amaq News Agency, SITE Intelligence Group, Khabarovsk, ISIL, Federal Security Service, neo-nazi_
+_Context: Khabarovsk, Russia, ISIL, neo-nazi, Federal Security Service, Amaq News Agency, SITE Intelligence Group_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II celebrates her 91st birthday. ](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.md)
@@ -17,7 +17,7 @@ The monarch marks the milestone at Newbury Racecourse, while volleys are fired i
 
 ##### United Kingdom
 ### [British sports retailer Sports Direct agreed to acquire the American retail chains Bob's Stores and Eastern Mountain Sports for $101 million out of bankruptcy. ](/news/2017/04/21/british-sports-retailer-sports-direct-agreed-to-acquire-the-american-retail-chains-bob-s-stores-and-eastern-mountain-sports-for-101-million.md)
-_Context: Bob's Stores, Sports Direct, United Kingdom, Eastern Mountain Sports_
+_Context: United Kingdom, Eastern Mountain Sports, Sports Direct, Bob's Stores_
 
 ##### Mpumalanga
 ### [At least 20 schoolchildren are killed after their minibus collides with a truck in Mpumalanga, South Africa. ](/news/2017/04/21/at-least-20-schoolchildren-are-killed-after-their-minibus-collides-with-a-truck-in-mpumalanga-south-africa.md)
@@ -33,7 +33,7 @@ A 28-year-old allegedly attacked the bus, injuring one footballer, to earn from 
 
 ##### Arms trader
 ### [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md)
-_Context: Pakistan, Arms trader, Chad, arms trafficking, Libya, Guinea-Bissau, Iran, Brussels, court_
+_Context: Iran, Chad, court, Guinea-Bissau, Libya, arms trafficking, Pakistan, Arms trader, Brussels_
 
 ##### Last month's presidential election
 ### [Yesterday's terrorist attack in Paris disrupts campaigning for the elections. ](/news/2017/04/21/yesterday-s-terrorist-attack-in-paris-disrupts-campaigning-for-the-elections.md)
@@ -45,11 +45,11 @@ The death toll in three weeks of violence at anti-government protests in Venezue
 
 ##### Re-elected
 ### [The six approved candidates, including the incumbent Hassan Rouhani, begin campaigning. ](/news/2017/04/21/the-six-approved-candidates-including-the-incumbent-hassan-rouhani-begin-campaigning.md)
-_Context: re-elected, Hassan Rouhani_
+_Context: Hassan Rouhani, re-elected_
 
 ##### Presidency of Donald Trump
 ### [The White House dismisses U.S. Surgeon General Vivek Murthy in its continuing transition from the prior presidential administration. The current Deputy Surgeon General, Rear Admiral Sylvia Trent-Adams, will serve as the acting SG. ](/news/2017/04/21/the-white-house-dismisses-u-s-surgeon-general-vivek-murthy-in-its-continuing-transition-from-the-prior-presidential-administration-the-cur.md)
-_Context: Sylvia Trent-Adams, Vivek Murthy, White House, U.S. Surgeon General, Presidency of Donald Trump_
+_Context: U.S. Surgeon General, White House, Vivek Murthy, Sylvia Trent-Adams, Presidency of Donald Trump_
 
 ##### Pakistan
 ### [Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. ](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-scheduled-session-demanding-prime-minister-nawaz-sharif-resign-during-the-investigation-of-his.md)

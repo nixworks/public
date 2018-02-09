@@ -25,7 +25,7 @@ U.S. offering $5M reward for Miguel Angel Trevino Morales, accused of being lead
 
 ##### American
 ### [Protests occur in several American cities following the acquittal of George Zimmerman in relation to the shooting of Trayvon Martin. ](/news/2013/07/14/protests-occur-in-several-american-cities-following-the-acquittal-of-george-zimmerman-in-relation-to-the-shooting-of-trayvon-martin.md)
-_Context: American, shooting of Trayvon Martin_
+_Context: shooting of Trayvon Martin, American_
 
 ## [Previous Day...](/news/2013/07/13/index.md)
 

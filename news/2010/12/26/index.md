@@ -9,11 +9,11 @@ Further violence has broken out in the city of Jos in central Nigeria following 
 
 ##### Turkey
 ### [Four Turkish workers are kidnapped in eastern Afghanistan. ](/news/2010/12/26/four-turkish-workers-are-kidnapped-in-eastern-afghanistan.md)
-_Context: Turkey, Afghanistan_
+_Context: Afghanistan, Turkey_
 
 ##### Somali pirates
 ### [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md)
-_Context: Thailand, Somali pirates, Somalia_
+_Context: Somalia, Thailand, Somali pirates_
 
 ##### Israel Defense Forces
 ### [Israeli forces kill 2 Palestinian militants of the al-Quds Brigades of the Islamic Jihad who were planting an explosive device to be used against an Israeli patrol near the border in the southern Gaza Strip. ](/news/2010/12/26/israeli-forces-kill-2-palestinian-militants-of-the-al-quds-brigades-of-the-islamic-jihad-who-were-planting-an-explosive-device-to-be-used-ag.md)
@@ -21,11 +21,11 @@ Two Islamic Jihad militants killed by fire along Strip border; Deputy PM: &quot;
 
 ##### Curfew
 ### [A police curfew continues for a seventh day in the village of Inderkoot in Bandipora district, Kashmir, "as a precautionary measure", but is lifted from Sumbal. ](/news/2010/12/26/a-police-curfew-continues-for-a-seventh-day-in-the-village-of-inderkoot-in-bandipora-district-kashmir-as-a-precautionary-measure-but-is.md)
-_Context: Inderkoot, Bandipora district, curfew, Kashmir, Sumbal_
+_Context: Inderkoot, Sumbal, Bandipora district, curfew, Kashmir_
 
 ##### Wikileaks
 ### [Wikileaks head Julian Assange says he has deals for his autobiography worth more than GBP1 million and needs the money to defend himself against allegations of sexual assault on two women in Sweden. ](/news/2010/12/26/wikileaks-head-julian-assange-says-he-has-deals-for-his-autobiography-worth-more-than-agbp1-million-and-needs-the-money-to-defend-himself-ag.md)
-_Context: Wikileaks, Julian Assange, sexual assault, Sweden_
+_Context: Julian Assange, Sweden, sexual assault, Wikileaks_
 
 ##### Protests
 ### [Protests against unemployment grow more violent as Tunisian security forces crack down on the residents in Sidi Bou Zid Governorate and a teenager is killed when police open fire. ](/news/2010/12/26/protests-against-unemployment-grow-more-violent-as-tunisian-security-forces-crack-down-on-the-residents-in-sidi-bou-zid-governorate-and-a-te.md)
@@ -37,7 +37,7 @@ _Context: Egypt_
 
 ##### Badaun
 ### [A collision between a bus and a mini-truck kills 34 people and leaves 30 injured, near the town of Badaun in Uttar Pradesh state, in northern India. ](/news/2010/12/26/a-collision-between-a-bus-and-a-mini-truck-kills-34-people-and-leaves-30-injured-near-the-town-of-badaun-in-uttar-pradesh-state-in-norther.md)
-_Context: Badaun, India, Uttar Pradesh_
+_Context: India, Uttar Pradesh, Badaun_
 
 ##### Jammu and Kashmir
 ### [Waves of cold in Jammu and Kashmir show no signs of relenting, though the minimum temperature improves. ](/news/2010/12/26/waves-of-cold-in-jammu-and-kashmir-show-no-signs-of-relenting-though-the-minimum-temperature-improves.md)
@@ -57,7 +57,7 @@ Israel will boycott a meeting at the United Nations to mark the 10th anniversary
 
 ##### New Delhi
 ### [The first humanitarian Asian flotilla, "Asia to Gaza Solidarity Caravan of Asia 1", which left New Delhi with people of 15 differing nationalities aboard, leaves Damascus for Latakia, its final stop before it reaches its destination. ](/news/2010/12/26/the-first-humanitarian-asian-flotilla-asia-to-gaza-solidarity-caravan-of-asia-1-which-left-new-delhi-with-people-of-15-differing-nationa.md)
-_Context: New Delhi, Damascus, Latakia_
+_Context: New Delhi, Latakia, Damascus_
 
 ##### Israel
 ### [Thousands of people shouting "death to Israel" gather at Sarayburnu port in Istanbul to welcome back the MV "Mavi Marmara", draped with a banner containing faces of the 9 people killed during the Gaza flotilla raid. ](/news/2010/12/26/thousands-of-people-shouting-death-to-israel-gather-at-sarayburnu-port-in-istanbul-to-welcome-back-the-mv-mavi-marmara-draped-with-a-ba.md)
@@ -73,15 +73,15 @@ The US has been pressed by various government for help with wiretapping criminal
 
 ##### Iran
 ### [A court in Iran convicts a man of spying for Israel. His identity is to be revealed after the sentence is confirmed. ](/news/2010/12/26/a-court-in-iran-convicts-a-man-of-spying-for-israel-his-identity-is-to-be-revealed-after-the-sentence-is-confirmed.md)
-_Context: Israel, Iran_
+_Context: Iran, Israel_
 
 ##### Egypt
 ### [Egypt sends to Damascus a dossier of sensitive technical information involving details of an Israeli spy ring in Syria, including a high ranking chemical expert who assisted Israel for 13 years. ](/news/2010/12/26/egypt-sends-to-damascus-a-dossier-of-sensitive-technical-information-involving-details-of-an-israeli-spy-ring-in-syria-including-a-high-ran.md)
-_Context: Syria, Egypt, Damascus_
+_Context: Egypt, Damascus, Syria_
 
 ##### Saudi Arabia
 ### [A Saudi woman, accused of attacking and torturing her Indonesian maid last month in a case that strained Saudi-Indonesia relations, now denies the charges, claiming that the maid tortured herself because she was "not normal." ](/news/2010/12/26/a-saudi-woman-accused-of-attacking-and-torturing-her-indonesian-maid-last-month-in-a-case-that-strained-saudi-indonesia-relations-now-deni.md)
-_Context: Saudi Arabia, Indonesian maid, Indonesia_
+_Context: Saudi Arabia, Indonesia, Indonesian maid_
 
 ##### Ezzeldeen Abu al-Aish
 ### [Dr Ezzeldeen Abu al-Aish files a lawsuit against Israel one day before the second anniversary of Israel's War on Gaza. Abu al-Aish's three daughters were killed at home by Israeli forces on live television on 16 January 2009 as the gynaecologist was doing an interview with Israel's Channel 10 television. ](/news/2010/12/26/dr-ezzeldeen-abu-al-aish-files-a-lawsuit-against-israel-one-day-before-the-second-anniversary-of-israel-s-war-on-gaza-abu-al-aish-s-three-d.md)
@@ -97,7 +97,7 @@ Officers investigating the disappearance of Bristol landscape architect Joanna Y
 
 ##### 2010 Ivorian presidential election controversy
 ### [Approximately 14,000 refugees have fled Cote d'Ivoire for Liberia following the disputed presidential election. ](/news/2010/12/26/approximately-14-000-refugees-have-fled-ca-te-d-ivoire-for-liberia-following-the-disputed-presidential-election.md)
-_Context: 2010 Ivorian presidential election controversy, Cote d'Ivoire, Liberia, refugee_
+_Context: Liberia, refugee, Cote d'Ivoire, 2010 Ivorian presidential election controversy_
 
 ##### Moscow
 ### [More than 1,500 people protest in Moscow, Russia against a recent wave of ethnic unrest following the shooting dead of a football fan. ](/news/2010/12/26/more-than-1-500-people-protest-in-moscow-russia-against-a-recent-wave-of-ethnic-unrest-following-the-shooting-dead-of-a-football-fan.md)
@@ -105,7 +105,7 @@ More than 1,500 stage protest in central Moscow against xenophobia following wav
 
 ##### President of the Dominican Republic
 ### [The 48th President of the Dominican Republic Salvador Jorge Blanco dies at his home in Santo Domingo. ](/news/2010/12/26/the-48th-president-of-the-dominican-republic-salvador-jorge-blanco-dies-at-his-home-in-santo-domingo.md)
-_Context: Salvador Jorge Blanco, Santo Domingo, President of the Dominican Republic_
+_Context: Santo Domingo, Salvador Jorge Blanco, President of the Dominican Republic_
 
 ##### Sri Lanka
 ### [The Sri Lankan government says more than 210 former Tamil Tiger rebels have passed a university entrance exam, with 40 qualifying for entry; the Movement for the Release of Political Prisoners calls for the release of all political prisoners. ](/news/2010/12/26/the-sri-lankan-government-says-more-than-210-former-tamil-tiger-rebels-have-passed-a-university-entrance-exam-with-40-qualifying-for-entry.md)
@@ -113,7 +113,7 @@ The Sri Lankan government says 200 detained former Tamil Tiger rebels have passe
 
 ##### Cape Town
 ### [Cape Town is to name a street after former President of South Africa, Nelson Mandela. ](/news/2010/12/26/cape-town-is-to-name-a-street-after-former-president-of-south-africa-nelson-mandela.md)
-_Context: President, Cape Town, Nelson Mandela_
+_Context: Nelson Mandela, Cape Town, President_
 
 ## [Previous Day...](/news/2010/12/25/index.md)
 

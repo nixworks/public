@@ -13,7 +13,7 @@ The father of two Cardiff jihadists thought to have been fighting alongside Reya
 
 ##### Saudi-led intervention in Yemen
 ### [The UN announces that it has grave concerns for around 96,000 children in Al Hudaydah, Yemen, who are starving due to the nearby fighting. ](/news/2015/09/8/the-un-announces-that-it-has-grave-concerns-for-around-96-000-children-in-al-hudaydah-yemen-who-are-starving-due-to-the-nearby-fighting.md)
-_Context: Saudi-led intervention in Yemen, Al Hudaydah, starvation, Yemen_
+_Context: Yemen, Saudi-led intervention in Yemen, Al Hudaydah, starvation_
 
 ##### New Zealand
 ### [New Zealand temporarily bans the sale or lending of the book "Into the River" by Ted Dawe, pending a review which could see the book restricted long-term. This is the first time in 22 years that a book has been restricted to this extent in New Zealand. ](/news/2015/09/8/new-zealand-temporarily-bans-the-sale-or-lending-of-the-book-into-the-river-by-ted-dawe-pending-a-review-which-could-see-the-book-restric.md)
@@ -57,7 +57,7 @@ _Context: Baltimore, Death of Freddie Gray_
 
 ##### Kim Davis
 ### [Kim Davis, the county clerk of Rowan County in the U.S. state of Kentucky, is released from jail on contempt of court charges but she may not interfere with her deputy clerks issuing marriage certificates to same sex couples. ](/news/2015/09/8/kim-davis-the-county-clerk-of-rowan-county-in-the-u-s-state-of-kentucky-is-released-from-jail-on-contempt-of-court-charges-but-she-may-no.md)
-_Context: county clerk, Kim Davis, contempt of court, Kentucky, Rowan County, Kentucky_
+_Context: Kim Davis, contempt of court, Kentucky, Rowan County, Kentucky, county clerk_
 
 ##### Matrimonial nullity trial reforms of Pope Francis
 ### [Pope Francis announces canon law reforms making it easier for people to obtain declarations of nullity (marriage annulments) ](/news/2015/09/8/pope-francis-announces-canon-law-reforms-making-it-easier-for-people-to-obtain-declarations-of-nullity-marriage-annulments.md)
@@ -65,7 +65,7 @@ Pope Francis unveils reforms intended to make it easier for Roman Catholics to g
 
 ##### Shinzo Abe
 ### [Shinzo Abe, the Prime Minister of Japan, is reelected (unopposed) President of the Liberal Democratic Party. ](/news/2015/09/8/shinzo-abe-the-prime-minister-of-japan-is-reelected-unopposed-president-of-the-liberal-democratic-party.md)
-_Context: Prime Minister of Japan, Liberal Democratic Party, Shinzo Abe_
+_Context: Liberal Democratic Party, Shinzo Abe, Prime Minister of Japan_
 
 ## [Previous Day...](/news/2015/09/7/index.md)
 

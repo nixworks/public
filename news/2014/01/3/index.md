@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/3/index.html)  [JSON](2014/01/3/index.json)  [XML](2014/
 
 ##### Israeli-Palestinian conflict
 ### [An 85-year-old man dies during Israeli suppression of a violent riot at Kufr Qaddoum near Nablus; he is the first Palestinian casualty from conflict with Israel in 2014. ](/news/2014/01/3/an-85-year-old-man-dies-during-israeli-suppression-of-a-violent-riot-at-kufr-qaddoum-near-nablus-he-is-the-first-palestinian-casualty-from.md)
-_Context: Nablus, Kufr Qaddoum, Israeli-Palestinian conflict_
+_Context: Kufr Qaddoum, Israeli-Palestinian conflict, Nablus_
 
 ##### Muslim Brotherhood
 ### [Thirteen people are killed in clashes between Muslim Brotherhood supporters, police and opponents. ](/news/2014/01/3/thirteen-people-are-killed-in-clashes-between-muslim-brotherhood-supporters-police-and-opponents.md)
@@ -25,11 +25,11 @@ High tides and strong winds lead to flooding in Wales and south-west England as 
 
 ##### Department of Health
 ### [The Philippine Department of Health declares a measles outbreak in Metro Manila. ](/news/2014/01/3/the-philippine-department-of-health-declares-a-measles-outbreak-in-metro-manila.md)
-_Context: Metro Manila, measles, Department of Health_
+_Context: Department of Health, Metro Manila, measles_
 
 ##### Its recognition
 ### [Paraguay announces withdrawal of its recognition of the Sahrawi Republic. ](/news/2014/01/3/paraguay-announces-withdrawal-of-its-recognition-of-the-sahrawi-republic.md)
-_Context: its recognition, Sahrawi Republic_
+_Context: Sahrawi Republic, its recognition_
 
 ##### El Chino Antrax
 ### [Authorities confirm the arrest of El Chino Antrax, a high-ranking Sinaloa Cartel leader, in the Netherlands. ](/news/2014/01/3/authorities-confirm-the-arrest-of-el-chino-antrax-a-high-ranking-sinaloa-cartel-leader-in-the-netherlands.md)

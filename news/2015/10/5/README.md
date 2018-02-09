@@ -13,7 +13,7 @@ At least 57 people were killed on Monday in car bomb attacks in Baghdad and the 
 
 ##### Yemeni Civil War (2015)
 ### [Fighting rages between Houthi militants and Hadi loyalists backed-by Saudi-led coalition forces along Yemen's Red Sea coast for control over the strategic Bab-el-Mandeb strait. Houthi officials say that their forces have destroyed six opposing tanks and killed multiple pro-Hadi fighters. Also, the UAE announces another of its soldiers has died during fighting in Ma'rib. ](/news/2015/10/5/fighting-rages-between-houthi-militants-and-hadi-loyalists-backed-by-saudi-led-coalition-forces-along-yemen-s-red-sea-coast-for-control-over.md)
-_Context: Yemeni Civil War (2015), United Arab Emirates, Saudi-led intervention in Yemen, Red Sea, Houthi, Bab-el-Mandeb, Ma'rib Governorate, Abd Rabbuh Mansur Hadi_
+_Context: Bab-el-Mandeb, United Arab Emirates, Yemeni Civil War (2015), Red Sea, Houthi, Ma'rib Governorate, Abd Rabbuh Mansur Hadi, Saudi-led intervention in Yemen_
 
 ##### American Apparel
 ### [Clothing manufacturer and retailer American Apparel files for bankruptcy. The company says that its 200+ retail stores will continue to operate without any interruptions. ](/news/2015/10/5/clothing-manufacturer-and-retailer-american-apparel-files-for-bankruptcy-the-company-says-that-its-200-retail-stores-will-continue-to-oper.md)
@@ -49,11 +49,11 @@ Former Chief Executive Donald Tsang Yam-kuen has been formally charged by the In
 
 ##### Trans-Pacific Partnership
 ### [The Trans-Pacific Partnership between the United States and 11 Pacific Rim countries is finalized in the American city of Atlanta. According to wikileaks, the main point of the deal will be that trans-national corporations will not be subjected to the laws of individual countries. Instead, an international system will be formed with the right to overrule national laws and legal decisions. ](/news/2015/10/5/the-trans-pacific-partnership-between-the-united-states-and-11-pacific-rim-countries-is-finalized-in-the-american-city-of-atlanta-according.md)
-_Context: United States, Atlanta, Trans-Pacific Partnership, Pacific Rim_
+_Context: Pacific Rim, United States, Trans-Pacific Partnership, Atlanta_
 
 ##### Governor Jerry Brown
 ### [Governor Jerry Brown signs legislation which will go into effect in late 2016, legalizing euthanasia statewide in California. ](/news/2015/10/5/governor-jerry-brown-signs-legislation-which-will-go-into-effect-in-late-2016-legalizing-euthanasia-statewide-in-california.md)
-_Context: Governor Jerry Brown, euthanasia_
+_Context: euthanasia, Governor Jerry Brown_
 
 ##### William C. Campbell
 ### [William C. Campbell, Satoshi Omura, and Tu Youyou win the 2015 Nobel Prize in Medicine for their work on parasitic diseases. ](/news/2015/10/5/william-c-campbell-satoshi-omura-and-tu-youyou-win-the-2015-nobel-prize-in-medicine-for-their-work-on-parasitic-diseases.md)

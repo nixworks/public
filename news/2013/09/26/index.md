@@ -13,7 +13,7 @@ Kenya seeks the arrest of Briton Samantha Lewthwaite - suspected al-Shabab membe
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants attack two Kenyan towns near the Somali border. ](/news/2013/09/26/al-shabaab-militants-attack-two-kenyan-towns-near-the-somali-border.md)
-_Context: Somalia, Al-Shabaab, Kenya_
+_Context: Kenya, Somalia, Al-Shabaab_
 
 ##### Paul Konigsberg
 ### [Authorities in the U.S. arrest Paul Konigsberg, an accountant, charging him with complicity in the Ponzi scheme of former New York financier Bernard Madoff, a scheme that unraveled in 2008. ](/news/2013/09/26/authorities-in-the-u-s-arrest-paul-konigsberg-an-accountant-charging-him-with-complicity-in-the-ponzi-scheme-of-former-new-york-financier.md)
@@ -25,7 +25,7 @@ UNITED NATIONS (Reuters) - The United States and Russia reached an agreement on 
 
 ##### South Korea
 ### [South Korean prosecutors charge Unified Progressive Party MP Lee Seok-ki with plotting an armed revolt in support of North Korea. ](/news/2013/09/26/south-korean-prosecutors-charge-unified-progressive-party-mp-lee-seok-ki-with-plotting-an-armed-revolt-in-support-of-north-korea.md)
-_Context: Unified Progressive Party, South Korea, North Korea_
+_Context: South Korea, Unified Progressive Party, North Korea_
 
 ##### United Nations
 ### [The UN-backed Special Court for Sierra Leone in The Hague rejects an appeal against a conviction of former President of Liberia Charles Taylor on war crime charges. ](/news/2013/09/26/the-un-backed-special-court-for-sierra-leone-in-the-hague-rejects-an-appeal-against-a-conviction-of-former-president-of-liberia-charles-tayl.md)

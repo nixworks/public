@@ -9,19 +9,19 @@ _Context: military operation, Gaza Strip, Israel_
 
 ##### Wind storm
 ### [ A wind storm in Europe kills four people in Austria, two people in Germany, and two people in the Czech Republic. ](/news/2008/03/1/a-wind-storm-in-europe-kills-four-people-in-austria-two-people-in-germany-and-two-people-in-the-czech-republic.md)
-_Context: Austria, German, Europe, Czech Republic, wind storm_
+_Context: German, Europe, Austria, wind storm, Czech Republic_
 
 ##### Armenian President
 ### [ The President of Armenia Robert Kocharyan declares a state of emergency following anti-government protests in Yerevan. ](/news/2008/03/1/the-president-of-armenia-robert-kocharyan-declares-a-state-of-emergency-following-anti-government-protests-in-yerevan.md)
-_Context: Robert Kocharyan, Yerevan, Armenian President, violent protests, Armenia_
+_Context: Robert Kocharyan, Armenia, Armenian President, violent protests, Yerevan_
 
 ##### Ral Reyes
 ### [ Ral Reyes, the second in command of the FARC guerilla organization, is killed in a Colombian military operation in northern Ecuador. ](/news/2008/03/1/raul-reyes-the-second-in-command-of-the-farc-guerilla-organization-is-killed-in-a-colombian-military-operation-in-northern-ecuador.md)
-_Context: Colombia, Revolutionary Armed Forces of Colombia, Ral Reyes, killed, Ecuador_
+_Context: Ral Reyes, killed, Revolutionary Armed Forces of Colombia, Colombia, Ecuador_
 
 ##### Abyei
 ### [ Renewed violence erupts in the Abyei region of Sudan. Approximately 70 deaths are reported and analysts warn that further conflict could threaten the peace process. ](/news/2008/03/1/renewed-violence-erupts-in-the-abyei-region-of-sudan-approximately-70-deaths-are-reported-and-analysts-warn-that-further-conflict-could-th.md)
-_Context: peace process, Abyei, Sudan_
+_Context: Sudan, Abyei, peace process_
 
 ## [Previous Day...](/news/2008/02/29/index.md)
 

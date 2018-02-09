@@ -5,7 +5,7 @@ Formats: [HTML](2015/07/14/index.html)  [JSON](2015/07/14/index.json)  [XML](201
 
 ##### Human stampede
 ### [At least 27 people are killed in a stampede at the Godavari Maha Pushkaram Hindu festival in the Indian state of Andhra Pradesh. ](/news/2015/07/14/at-least-27-people-are-killed-in-a-stampede-at-the-godavari-maha-pushkaram-hindu-festival-in-the-indian-state-of-andhra-pradesh.md)
-_Context: Human stampede, Andhra Pradesh, Godavari Maha Pushkaram, Hindu_
+_Context: Andhra Pradesh, Human stampede, Hindu, Godavari Maha Pushkaram_
 
 ##### NIOC
 ### [A helicopter belonging to the National Iranian Oil Company (NIOC) with four people on board (two crew members, a patient, and a person accompanying the patient) crashes in the Persian Gulf. ](/news/2015/07/14/a-helicopter-belonging-to-the-national-iranian-oil-company-nioc-with-four-people-on-board-two-crew-members-a-patient-and-a-person-accom.md)
@@ -37,7 +37,7 @@ After over nine years of travel in deep space, NASA&#39;s New Horizons spacecraf
 
 ##### Northumbria University
 ### [Scientists at Northumbria University in northeast England develop a computerized statistical model of the Sun's solar cycle (a measurement of the number of sunspots and solar flares, in this case between 1976 and 2008, and their intensity and activity). While preliminary, and not yet peer-reviewed, the data predicts irregularities in the cycle: the Northern Hemisphere could experience a slight lowering in temperatures in the 2030s. ](/news/2015/07/14/scientists-at-northumbria-university-in-northeast-england-develop-a-computerized-statistical-model-of-the-sun-s-solar-cycle-a-measurement-o.md)
-_Context: solar cycle, England, Sun, Northumbria University_
+_Context: England, Northumbria University, Sun, solar cycle_
 
 ##### CERN
 ### [Scientists at CERN's Large Hadron Collider announce discovery of the pentaquark. ](/news/2015/07/14/scientists-at-cern-s-large-hadron-collider-announce-discovery-of-the-pentaquark.md)

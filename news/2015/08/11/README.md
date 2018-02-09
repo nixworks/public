@@ -17,7 +17,7 @@ _Context: Buk missile system, Ukraine, Malaysia Airlines Flight 17_
 
 ##### Heatwave
 ### [A heatwave in Egypt has killed at least 42 people. ](/news/2015/08/11/a-heatwave-in-egypt-has-killed-at-least-42-people.md)
-_Context: heatwave, Egypt_
+_Context: Egypt, heatwave_
 
 ##### Argentina
 ### [Flooding in Argentina kills at least three people and 11,000 are made homeless. ](/news/2015/08/11/flooding-in-argentina-kills-at-least-three-people-and-11-000-are-made-homeless.md)
@@ -25,11 +25,11 @@ Flooding in Argentina which burst riverbanks and deluged city streets killed thr
 
 ##### Japan
 ### [Japan's Sendai Nuclear Power Plant in Satsumasendai in Kagoshima Prefecture on Kyushu restarts reactor no. 1. This is the first of 50-plus shut-down nuclear reactors to go back online since the 2011 Fukushima Daiichi nuclear disaster. The problems discovered in the reactor model after the disaster have not been fixed. ](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.md)
-_Context: Japan, Sendai Nuclear Power Plant, Kagoshima Prefecture, Kyushu, 50-plus shut-down nuclear reactors to go back online since the 2011, Satsumasendai, Fukushima Daiichi nuclear disaster_
+_Context: 50-plus shut-down nuclear reactors to go back online since the 2011, Sendai Nuclear Power Plant, Kyushu, Fukushima Daiichi nuclear disaster, Satsumasendai, Japan, Kagoshima Prefecture_
 
 ##### Syrian Civil War
 ### [In talks held regarding the course of the Syrian Civil War, Russia and Saudi Arabia fail to reach agreement over cooperation in the fight against ISIL, with the Saudi representative refusing any common struggle with Assad's regime. ](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.md)
-_Context: Saudi Arabia, Bashar al-Assad, Syrian Civil War, Russia, ISIL_
+_Context: Bashar al-Assad, ISIL, Russia, Saudi Arabia, Syrian Civil War_
 
 #####  Georgian
 ### [Georgia accuses Russia of cutting off its citizens from their farmland by installing border signposts demarcating the breakaway South Ossetia region, calling on Moscow to refrain from "escalation". ](/news/2015/08/11/georgia-accuses-russia-of-cutting-off-its-citizens-from-their-farmland-by-installing-border-signposts-demarcating-the-breakaway-south-osseti.md)
@@ -41,7 +41,7 @@ _Context: Puyallup, Washington_
 
 ##### Iraq's parliament
 ### [The Parliament of Iraq approves a package of measures proposed by Prime Minister Haider al-Abadi to tackle corruption and to abolish senior posts. ](/news/2015/08/11/the-parliament-of-iraq-approves-a-package-of-measures-proposed-by-prime-minister-haider-al-abadi-to-tackle-corruption-and-to-abolish-senior.md)
-_Context: Iraq Prime Minister, Haider al-Abadi, Iraq's parliament_
+_Context: Iraq's parliament, Haider al-Abadi, Iraq Prime Minister_
 
 ## [Previous Day...](/news/2015/08/10/index.md)
 

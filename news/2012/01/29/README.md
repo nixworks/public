@@ -13,11 +13,11 @@ Activists report tanks on the streets and clashes between Syrian soldiers and de
 
 ##### Sudan People's Liberation Movement - North
 ### [The Sudan People's Liberation Movement - North claims to have captured 29 Chinese workers and 9 members of the Sudan People's Armed Forces following a clash with government forces. ](/news/2012/01/29/the-sudan-people-s-liberation-movement-north-claims-to-have-captured-29-chinese-workers-and-9-members-of-the-sudan-people-s-armed-forces-f.md)
-_Context: Chinese, Sudan People's Liberation Movement - North, Sudan People's Armed Forces_
+_Context: Sudan People's Armed Forces, Sudan People's Liberation Movement - North, Chinese_
 
 ##### Nigeria
 ### [Gunmen attack a police station in the Nigerian city of Kano, with Boko Haram believed responsible. ](/news/2012/01/29/gunmen-attack-a-police-station-in-the-nigerian-city-of-kano-with-boko-haram-believed-responsible.md)
-_Context: Boko Haram, Kano, Nigeria_
+_Context: Nigeria, Kano, Boko Haram_
 
 ##### Happy Mondays
 ### [Happy Mondays, at the forefront of the Madchester scene, reform. ](/news/2012/01/29/happy-mondays-at-the-forefront-of-the-madchester-scene-reform.md)
@@ -25,7 +25,7 @@ Mancunian band Happy Mondays are to re-form for a two-week tour in May that will
 
 ##### 18th Screen Actors Guild Awards
 ### [The 18th Screen Actors Guild Awards is held in the US city of Los Angeles with Jean Dujardin winning the Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role for his role in "The Artist". ](/news/2012/01/29/the-18th-screen-actors-guild-awards-is-held-in-the-us-city-of-los-angeles-with-jean-dujardin-winning-the-screen-actors-guild-award-for-outst.md)
-_Context: 18th Screen Actors Guild Awards, Los Angeles, California, The Artist, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role, Jean Dujardin_
+_Context: Jean Dujardin, Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role, Los Angeles, California, 18th Screen Actors Guild Awards, The Artist_
 
 ##### Severe Tropical Cyclone Lua
 ### [Cyclone Iggy kills 14 people and injures 60 over a four day period in Indonesia. ](/news/2012/01/29/cyclone-iggy-kills-14-people-and-injures-60-over-a-four-day-period-in-indonesia.md)
@@ -49,23 +49,23 @@ _Context: Hamas, Abdullah II of Jordan, Khaled Meshaal_
 
 ##### IAEA
 ### [International Atomic Energy Agency (IAEA) inspectors begin a three-day visit to Iran. ](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.md)
-_Context: IAEA, Iran_
+_Context: Iran, IAEA_
 
 ##### Bangladesh
 ### [Bangladesh and India sign a deal to build a US$1.5 billion power plant. ](/news/2012/01/29/bangladesh-and-india-sign-a-deal-to-build-a-us-1-5-billion-power-plant.md)
-_Context: Bangladesh, India_
+_Context: India, Bangladesh_
 
 ##### Papua New Guinea
 ### [Former Papua New Guinea Army Colonel Yaura Sasa, who led a recent coup d'etat attempt to restore former Prime Minister Sir Michael Somare to power, is charged with mutiny. ](/news/2012/01/29/former-papua-new-guinea-army-colonel-yaura-sasa-who-led-a-recent-coup-d-a-c-tat-attempt-to-restore-former-prime-minister-sir-michael-somare-t.md)
-_Context: Papua New Guinea, mutinous soldiers, Papua New Guinea Defence Force, Colonel, Prime Minister, a mutiny, Yaura Sasa, Michael Somare_
+_Context: mutinous soldiers, Colonel, Papua New Guinea, Prime Minister, Michael Somare, a mutiny, Yaura Sasa, Papua New Guinea Defence Force_
 
 ##### Bangladeshi police
 ### [At least three people are killed and 100 injured in clashes between Bangladeshi police and members of the opposition Bangladesh Nationalist Party protesting against the government. ](/news/2012/01/29/at-least-three-people-are-killed-and-100-injured-in-clashes-between-bangladeshi-police-and-members-of-the-opposition-bangladesh-nationalist.md)
-_Context: Bangladesh Nationalist Party, Bangladeshi police_
+_Context: Bangladeshi police, Bangladesh Nationalist Party_
 
 ##### Shafia family deaths
 ### [Three members of the Shafia family are convicted of murder in relation to the Shafia family deaths in the Canadian city of Kingston, Ontario. ](/news/2012/01/29/three-members-of-the-shafia-family-are-convicted-of-murder-in-relation-to-the-shafia-family-deaths-in-the-canadian-city-of-kingston-ontario.md)
-_Context: Canadian, Ontario, Kingston, Shafia family deaths_
+_Context: Ontario, Canadian, Kingston, Shafia family deaths_
 
 ##### Burma
 ### [Large crowds greet Burmese opposition leader Aung San Suu Kyi as she begins a campaign for 1 April by-elections. ](/news/2012/01/29/large-crowds-greet-burmese-opposition-leader-aung-san-suu-kyi-as-she-begins-a-campaign-for-1-april-by-elections.md)
@@ -73,11 +73,11 @@ _Context: Burma, Aung San Suu Kyi_
 
 ##### Egypt
 ### [Voters in Egypt start voting in an election for the Shura Council (upper house), with Islamist parties seeking to consolidate their position. ](/news/2012/01/29/voters-in-egypt-start-voting-in-an-election-for-the-shura-council-upper-house-with-islamist-parties-seeking-to-consolidate-their-position.md)
-_Context: Egypt, Islamist, election, Shura Council_
+_Context: Islamist, election, Egypt, Shura Council_
 
 ##### President of Italy
 ### [Former President of Italy Oscar Luigi Scalfaro dies at the age of 93. ](/news/2012/01/29/former-president-of-italy-oscar-luigi-scalfaro-dies-at-the-age-of-93.md)
-_Context: Oscar Luigi Scalfaro, President of Italy_
+_Context: President of Italy, Oscar Luigi Scalfaro_
 
 ##### French President
 ### [The President of France Nicolas Sarkozy outlines an economic reform package increasing taxes and proposing a new tax on financial transactions. ](/news/2012/01/29/the-president-of-france-nicolas-sarkozy-outlines-an-economic-reform-package-increasing-taxes-and-proposing-a-new-tax-on-financial-transactio.md)

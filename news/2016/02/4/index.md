@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/4/index.html)  [JSON](2016/02/4/index.json)  [XML](2016/
 
 ##### Yemeni Civil War (2015-present)
 ### [A drone strike in Yemen's Shabwah Governorate kills six suspected Al-Qaeda in the Arabian Peninsula militants. ](/news/2016/02/4/a-drone-strike-in-yemen-s-shabwah-governorate-kills-six-suspected-al-qaeda-in-the-arabian-peninsula-militants.md)
-_Context: Yemen, Yemeni Civil War (2015-present), Shabwa province, al-Qaida_
+_Context: al-Qaida, Yemen, Yemeni Civil War (2015-present), Shabwa province_
 
 ##### Russian intervention in the Syrian Civil War
 ### [The Syrian Observatory for Human Rights reports Russian airstrikes on several rebel-held neighborhoods in the city of Aleppo, kills at least 21 civilians. ](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-on-several-rebel-held-neighborhoods-in-the-city-of-aleppo-kills-at-least.md)
@@ -29,11 +29,11 @@ The long-awaited Trans Pacific Partnership, one of the biggest multinational tra
 
 ##### European migrant crisis
 ### [The President of Finland, Sauli Niinisto, in an address to the Finnish parliament (Eduskunta), says the current flow of migrants into Europe threatens the continent's Western values and that the UN's Convention relating to the Status of Refugees is outdated, saying "All estimates predict that the flow of people will increase this year. This is challenging the ability of Western democracies to help and also challenging the very structures underlying the idea of Europe". ](/news/2016/02/4/the-president-of-finland-sauli-niinistap-in-an-address-to-the-finnish-parliament-eduskunta-says-the-current-flow-of-migrants-into-europ.md)
-_Context: European migrant crisis, Europe, Sauli Niinisto, United Nations, Westerners, Parliament of Finland, Convention relating to the Status of Refugees, President_
+_Context: Westerners, Sauli Niinisto, Parliament of Finland, European migrant crisis, Europe, President, United Nations, Convention relating to the Status of Refugees_
 
 ##### China
 ### [The People's Republic of China charges Zhao Liping, former Police Chief for Inner Mongolia with murder, bribery and possession of fire arms and explosives. ](/news/2016/02/4/the-people-s-republic-of-china-charges-zhao-liping-former-police-chief-for-inner-mongolia-with-murder-bribery-and-possession-of-fire-arms.md)
-_Context: Zhao Liping, Inner Mongolia, China_
+_Context: Zhao Liping, China, Inner Mongolia_
 
 ##### Deputy Prime Minister of the Netherlands
 ### [The suspect in the murder investigation of former Deputy Prime Minister of the Netherlands Els Borst admits to have assassinated her citing political motivations. ](/news/2016/02/4/the-suspect-in-the-murder-investigation-of-former-deputy-prime-minister-of-the-netherlands-els-borst-admits-to-have-assassinated-her-citing.md)

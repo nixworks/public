@@ -21,7 +21,7 @@ A fatal, 14-vehicle pileup that killed at least three people and left Highway 40
 
 ##### Crime in Utah
 ### [A shooting on the campus of the University of Utah leaves one student dead. A suspect is taken into custody. ](/news/2017/10/31/a-shooting-on-the-campus-of-the-university-of-utah-leaves-one-student-dead-a-suspect-is-taken-into-custody.md)
-_Context: Crime in Utah, University of Utah_
+_Context: University of Utah, Crime in Utah_
 
 ##### Crime in California
 ### [At an elementary school in Riverside, California, police shoot a parent who reportedly took a teacher hostage. ](/news/2017/10/31/at-an-elementary-school-in-riverside-california-police-shoot-a-parent-who-reportedly-took-a-teacher-hostage.md)
@@ -37,7 +37,7 @@ Private polling showed the Democratic candidate with soft support among Latinos 
 
 ##### 2017 in spaceflight
 ### [A Minotaur-C rocket launches from Vandenberg Air Force Base, California, and deploys 10 commercial Earth-imaging satellites for Planet Labs. It is the first successful mission for the Minotaur-C, formerly known as Taurus, since 2004. ](/news/2017/10/31/a-minotaur-c-rocket-launches-from-vandenberg-air-force-base-california-and-deploys-10-commercial-earth-imaging-satellites-for-planet-labs.md)
-_Context: California, successful mission, Planet Labs, Vandenberg Air Force Base, since 2004, 2017 in spaceflight, Minotaur-C_
+_Context: Minotaur-C, Vandenberg Air Force Base, since 2004, successful mission, 2017 in spaceflight, Planet Labs, California_
 
 ## [Previous Day...](/news/2017/10/30/index.md)
 

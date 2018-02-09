@@ -5,11 +5,11 @@ Formats: [HTML](2016/06/17/index.html)  [JSON](2016/06/17/index.json)  [XML](201
 
 ##### Military intervention against ISIL
 ### [The Iraqi government recaptures the main government compound in Fallujah. ](/news/2016/06/17/the-iraqi-government-recaptures-the-main-government-compound-in-fallujah.md)
-_Context: Iraq, Military intervention against ISIL, Fallujah, Third Battle of Fallujah_
+_Context: Iraq, Military intervention against ISIL, Third Battle of Fallujah, Fallujah_
 
 ##### Kurdish separatism in Iran
 ### [Kurdish rebels and Iranian Revolutionary guards clash in Oshnavieh, killing 12 rebels and three guards. There is dispute over who the rebels were. Iranian authorities claim it was the Party of Free Life of Kurdistan movement while a member of the Democratic Party of Iranian Kurdistan claimed their group was responsible for the fighting. ](/news/2016/06/17/kurdish-rebels-and-iranian-revolutionary-guards-clash-in-oshnavieh-killing-12-rebels-and-three-guards-there-is-dispute-over-who-the-rebels.md)
-_Context: 2016 West Iran clashes, Democratic Party of Iranian Kurdistan, Oshnavieh, Kurdish separatism in Iran, Iranian Revolutionary guards, Party of Free Life of Kurdistan_
+_Context: Iranian Revolutionary guards, Party of Free Life of Kurdistan, Oshnavieh, Kurdish separatism in Iran, Democratic Party of Iranian Kurdistan, 2016 West Iran clashes_
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants attack a funeral in the village of Kuda in the Adamawa State of Nigeria, killing 18 women, with more reportedly still missing. ](/news/2016/06/17/boko-haram-militants-attack-a-funeral-in-the-village-of-kuda-in-the-adamawa-state-of-nigeria-killing-18-women-with-more-reportedly-still-m.md)

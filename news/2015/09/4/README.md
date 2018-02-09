@@ -9,7 +9,7 @@ Gunmen in military uniform seized 18 Turkish workers on Wednesday from a sports 
 
 ##### Sinai insurgency
 ### [Two roadside bombs detonate in the Sinai Peninsula injuring six international peacekeepers, who were there to support the 1979 Egypt-Israel Peace Treaty. ](/news/2015/09/4/two-roadside-bombs-detonate-in-the-sinai-peninsula-injuring-six-international-peacekeepers-who-were-there-to-support-the-1979-egyptaisrae.md)
-_Context: Egypt-Israel Peace Treaty, Sinai insurgency, Sinai Peninsula_
+_Context: Sinai Peninsula, Sinai insurgency, Egypt-Israel Peace Treaty_
 
 ##### Saudi-led intervention in Yemen
 ### [An explosion at an arms depot in Yemen kills 45 Emirati soldiers who were part of the Saudi led coalition. ](/news/2015/09/4/an-explosion-at-an-arms-depot-in-yemen-kills-45-emirati-soldiers-who-were-part-of-the-saudi-led-coalition.md)
@@ -17,7 +17,7 @@ UAE warplanes carried out air strikes on Yemeni rebels Saturday as Emiratis mour
 
 ##### Tajikistan
 ### [ Clashes in and around Tajikistan's capital Dushanbe kill at least 17 people. Government representatives blame the attacks against security forces on former Deputy Defense Minister Aduhalim Nazarzoda, who fought against government forces in the Tajikistan Civil War. ](/news/2015/09/4/clashes-in-and-around-tajikistan-s-capital-dushanbe-kill-at-least-17-people-government-representatives-blame-the-attacks-against-security.md)
-_Context: Dushanbe, Tajikistan, Tajikistan Civil War_
+_Context: Tajikistan Civil War, Dushanbe, Tajikistan_
 
 ##### Russia's role in the Syrian Civil War
 ### [Russian President Vladimir Putin confirms that Russia is providing military aid in Syrian Civil War in support of the Bashar al-Assad regime and is providing heavy weapons, aircraft, tanks, serious training and logistical support to the Syrian Army. ](/news/2015/09/4/russian-president-vladimir-putin-confirms-that-russia-is-providing-military-aid-in-syrian-civil-war-in-support-of-the-bashar-al-assad-regime.md)
@@ -33,11 +33,11 @@ A ritual to let freshmen blow off steam left 30 cadets injured, including 24 wit
 
 ##### General Mills
 ### [General Mills sells subsidiary Green Giant to B&G Foods Inc. for $765 million. ](/news/2015/09/4/general-mills-sells-subsidiary-green-giant-to-b-g-foods-inc-for-765-million.md)
-_Context: $, General Mills, Green Giant_
+_Context: General Mills, $, Green Giant_
 
 ##### BlackBerry Limited
 ### [BlackBerry Limited announces it will purchase Good Technology, a provider of mobile software, as part of its broader shift to a services role within the internet of things. ](/news/2015/09/4/blackberry-limited-announces-it-will-purchase-good-technology-a-provider-of-mobile-software-as-part-of-its-broader-shift-to-a-services-rol.md)
-_Context: BlackBerry Limited, Good Technology, internet of things_
+_Context: Good Technology, BlackBerry Limited, internet of things_
 
 ##### Fiat Chrysler U.S.
 ### [Fiat Chrysler U.S. recalls 7,810 SUVs to prevent hacking. ](/news/2015/09/4/fiat-chrysler-u-s-recalls-7-810-suvs-to-prevent-hacking.md)
@@ -57,7 +57,7 @@ Forty-one people have been injured in central Switzerland when a British tourist
 
 ##### British
 ### [Two British VICE News journalists, Jake Hanrahan and Philip Pendlebury, arrested on 28 August in Diyarbakir Province in southeastern Turkey on terror charges, are released while their colleague, translator Mohammed Ismael Rasool, remains in custody. ](/news/2015/09/4/two-british-vice-news-journalists-jake-hanrahan-and-philip-pendlebury-arrested-on-28-august-in-diyarbakir-province-in-southeastern-turkey.md)
-_Context: Diyarbakir Province, British, VICE News, southeast Turkey_
+_Context: Diyarbakir Province, VICE News, southeast Turkey, British_
 
 ##### US Open (tennis)
 ### [US Open (tennis) drone arrest. ](/news/2015/09/4/us-open-tennis-drone-arrest.md)

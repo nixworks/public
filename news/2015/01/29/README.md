@@ -9,11 +9,11 @@ An inquest into the Sydney siege hears that one hostage was killed by police fir
 
 ##### Taliban insurgency
 ### [Taliban attacks across Afghanistan kill 17 people. ](/news/2015/01/29/taliban-attacks-across-afghanistan-kill-17-people.md)
-_Context: Afghanistan, Taliban, Taliban insurgency_
+_Context: Taliban, Taliban insurgency, Afghanistan_
 
 ##### Moro insurgency in the Philippines
 ### [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md)
-_Context: January 25 botched police operation, Philippine National Police, Moro insurgency in the Philippines, Zulkifli Abdhir, Chief Justice, peace deal, President, Filipino Muslims, Maria Lourdes Sereno, his predecessor, Supreme Court of the Philippines, peace treaty, Philippines_
+_Context: Filipino Muslims, his predecessor, Philippine National Police, Moro insurgency in the Philippines, Philippines, peace deal, peace treaty, January 25 botched police operation, Zulkifli Abdhir, Maria Lourdes Sereno, Chief Justice, Supreme Court of the Philippines, President_
 
 ##### Iraqi insurgency (2011-present)
 ### [Several attacks around Baghdad including bombings and shootings kill at least sixteen people. ](/news/2015/01/29/several-attacks-around-baghdad-including-bombings-and-shootings-kill-at-least-sixteen-people.md)
@@ -29,7 +29,7 @@ Yemeni officials said that Houthis have captured a camp south of the capital, wh
 
 ##### Paraguayan People's Army
 ### [The Paraguayan People's Army kills a German couple who lived on a ranch near Yby Yau in northern Paraguay. ](/news/2015/01/29/the-paraguayan-people-s-army-kills-a-german-couple-who-lived-on-a-ranch-near-yby-yaao-in-northern-paraguay.md)
-_Context: German, Paraguayan People's Army, Paraguay_
+_Context: German, Paraguay, Paraguayan People's Army_
 
 ##### Philippine economy
 ### [The Philippine economy grew by more than 6% in 2014 making it the second fastest growing economy in Asia after China. This is the longest sustained growth period in the country since the 1950s. ](/news/2015/01/29/the-philippine-economy-grew-by-more-than-6-in-2014-making-it-the-second-fastest-growing-economy-in-asia-after-china-this-is-the-longest-su.md)
@@ -41,7 +41,7 @@ A gas tank truck explodes outside a maternity hospital in Mexico City, killing a
 
 ##### Malaysia Airlines Flight 370
 ### [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md)
-_Context: Malaysia, Indian, Malaysia Airlines Flight 370_
+_Context: Malaysia Airlines Flight 370, Indian, Malaysia_
 
 ##### Northern England
 ### [Heavy snowfall in northern England leads to the closures of hundreds of schools, roads and Manchester Airport. ](/news/2015/01/29/heavy-snowfall-in-northern-england-leads-to-the-closures-of-hundreds-of-schools-roads-and-manchester-airport.md)

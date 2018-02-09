@@ -17,11 +17,11 @@ _Context: Rafah, Palestine, Egypt, Gaza Strip_
 
 ##### Earthquake
 ### [ An earthquake measuring 5.5 on the moment magnitude scale hits the area near Ruichang, Jiangxi in China, killing more than 14. ](/news/2005/11/26/an-earthquake-measuring-5-5-on-the-moment-magnitude-scale-hits-the-area-near-ruichang-jiangxi-in-china-killing-more-than-14.md)
-_Context: Ruichang, China, Jiangxi, earthquake, M<sub>w</sub>&nbsp;5.2_
+_Context: Jiangxi, M<sub>w</sub>&nbsp;5.2, earthquake, Ruichang, China_
 
 ##### Vijaypat Singhania
 ### [ Vijaypat Singhania of India sets a world record for highest hot air balloon flight, reaching 69,852 feet (20.29 km). ](/news/2005/11/26/vijaypat-singhania-of-india-sets-a-world-record-for-highest-hot-air-balloon-flight-reaching-69-852-feet-20-29-km.md)
-_Context: Vijaypat Singhania, hot air balloon, India_
+_Context: Vijaypat Singhania, India, hot air balloon_
 
 ## [Previous Day...](/news/2005/11/25/index.md)
 

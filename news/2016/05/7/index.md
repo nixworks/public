@@ -21,7 +21,7 @@ _Context: Law and Justice government_
 
 ##### Malaysia
 ### [In Malaysia, Sarawak voters go to the polls for a state election. ](/news/2016/05/7/in-malaysia-sarawak-voters-go-to-the-polls-for-a-state-election.md)
-_Context: state election, Malaysia, Sarawak_
+_Context: Malaysia, Sarawak, state election_
 
 ##### Singapore
 ### [Singapore's Bukit Batok by-elections conclude with more than 24,000 voters casting ballots. Murali Pillai of the People's Action Party emerged as the winner with 61.21% of the valid votes cast. This was the first Singaporean by-election following the 2015 general elections. ](/news/2016/05/7/singapore-s-bukit-batok-by-elections-conclude-with-more-than-24-000-voters-casting-ballots-murali-pillai-of-the-people-s-action-party-emerg.md)
@@ -29,11 +29,11 @@ The by-election is being contested by Singapore Democratic Party chief Dr Chee S
 
 ##### 2016 U.S. presidential election
 ### [Voters in Guam head to the polls to vote in the Democratic presidential caucus. ](/news/2016/05/7/voters-in-guam-head-to-the-polls-to-vote-in-the-democratic-presidential-caucus.md)
-_Context: Guam, United States presidential election in Guam, 2016, Democratic Party presidential primaries, 2016, 2016 U.S. presidential election, caucus_
+_Context: Guam, 2016 U.S. presidential election, United States presidential election in Guam, 2016, Democratic Party presidential primaries, 2016, caucus_
 
 ##### Iranian legislative election, 2016
 ### [Iran's elected Parliament member from Maragheh and Ajabshir district, Mohammad-Ali Hosseinzadeh, dies in a car crash in Zanjan. He was set to take office on 28 May. ](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.md)
-_Context: Mohammad-Ali Hosseinzadeh, Zanjan, Maragheh and Ajabshir, Iranian legislative election, 2016, MPs_
+_Context: MPs, Zanjan, Maragheh and Ajabshir, Mohammad-Ali Hosseinzadeh, Iranian legislative election, 2016_
 
 ## [Previous Day...](/news/2016/05/6/index.md)
 

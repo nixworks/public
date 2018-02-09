@@ -5,7 +5,7 @@ Formats: [HTML](2013/08/7/index.html)  [JSON](2013/08/7/index.json)  [XML](2013/
 
 ##### Syrian Army
 ### [The Syrian Army launches a large missile on the southern Damascus neighborhood of Yarmouk, largely inhabited by Palestinian refugees. ](/news/2013/08/7/the-syrian-army-launches-a-large-missile-on-the-southern-damascus-neighborhood-of-yarmouk-largely-inhabited-by-palestinian-refugees.md)
-_Context: Syrian Army, Damascus, Palestinian, Yarmouk Camp_
+_Context: Palestinian, Yarmouk Camp, Damascus, Syrian Army_
 
 ##### Al-Qaeda
 ### [Six suspect Al-Qaeda militants are killed in a drone strike in Southern Yemen. ](/news/2013/08/7/six-suspect-al-qaeda-militants-are-killed-in-a-drone-strike-in-southern-yemen.md)
@@ -25,19 +25,19 @@ _Context: Mohamed Morsi_
 
 ##### Karachi
 ### [A bombing in a market in Karachi, Pakistan, kills eleven people, mostly teenagers. ](/news/2013/08/7/a-bombing-in-a-market-in-karachi-pakistan-kills-eleven-people-mostly-teenagers.md)
-_Context: Karachi, kills eleven people_
+_Context: kills eleven people, Karachi_
 
 ##### Barack Obama
 ### [President Barack Obama affirms that the US will attend the upcoming G-20 meeting, despite differences with the Russian government and the cancellation of bilateral talks between Obama and President Putin. ](/news/2013/08/7/president-barack-obama-affirms-that-the-us-will-attend-the-upcoming-g-20-meeting-despite-differences-with-the-russian-government-and-the-ca.md)
-_Context: President Putin, G-20, meeting, Barack Obama_
+_Context: meeting, President Putin, Barack Obama, G-20_
 
 ##### Bank of England
 ### [Bank of England governor Mark Carney says the Bank will not consider raising United Kingdom interest rates until the unemployment rate has fallen to 7% or below. ](/news/2013/08/7/bank-of-england-governor-mark-carney-says-the-bank-will-not-consider-raising-united-kingdom-interest-rates-until-the-unemployment-rate-has-f.md)
-_Context: interest rate, United Kingdom, Bank of England, Mark Carney_
+_Context: Bank of England, interest rate, United Kingdom, Mark Carney_
 
 ##### Jomo Kenyatta International Airport
 ### [A large fire breaks out at Jomo Kenyatta International Airport in the Kenyan capital Nairobi. ](/news/2013/08/7/a-large-fire-breaks-out-at-jomo-kenyatta-international-airport-in-the-kenyan-capital-nairobi.md)
-_Context: Kenya, Jomo Kenyatta International Airport, Nairobi_
+_Context: Kenya, Nairobi, Jomo Kenyatta International Airport_
 
 ##### North Korea
 ### [North Korea and South Korea agree to resume talks on reopening the Kaesong industrial zone. ](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.md)

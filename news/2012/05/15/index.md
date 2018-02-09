@@ -9,11 +9,11 @@ At least 20 people are killed by Syrian security forces in the north-west town o
 
 ##### Yemen
 ### [At least 44 people are killed amid a Yemeni government offensive to retake Zinjibar and Jaar from Islamist militants. Among the casualties are three soldiers and at least 11 civilians. ](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.md)
-_Context: Zinjibar, Yemen, Ja'ar_
+_Context: Yemen, Ja'ar, Zinjibar_
 
 ##### Colombia
 ### [A targeted bombing in the Colombian capital Bogota injures former Interior Minister Fernando Londono, and kills his driver and a police officer. ](/news/2012/05/15/a-targeted-bombing-in-the-colombian-capital-bogota-injures-former-interior-minister-fernando-londoa-o-and-kills-his-driver-and-a-police-off.md)
-_Context: Fernando Londono, Colombia, Bogota, Interior Minister_
+_Context: Interior Minister, Colombia, Bogota, Fernando Londono_
 
 ##### Mexico
 ### [Mexican author Carlos Fuentes, one of the leading authors of the Latin American literary boom, dies in Mexico aged 83. ](/news/2012/05/15/mexican-author-carlos-fuentes-one-of-the-leading-authors-of-the-latin-american-literary-boom-dies-in-mexico-aged-83.md)
@@ -29,11 +29,11 @@ A Wal-Mart customer is recovering after he was bitten by a rattlesnake while sho
 
 ##### Sets herself alight
 ### [A man sets himself on fire outside the Oslo courthouse where mass murderer Anders Behring Breivik is on trial for the 2011 Norway attacks. ](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-courthouse-where-mass-murderer-anders-behring-breivik-is-on-trial-for-the-2011-norway-attacks.md)
-_Context: sets herself alight, Oslo, 2011 Norway attacks, Anders Behring Breivik_
+_Context: Anders Behring Breivik, Oslo, 2011 Norway attacks, sets herself alight_
 
 ##### India
 ### [Indian child actress Taruni Sachdev and her mother are revealed to be among the dead in yesterday's plane crash in northern Nepal, which killed 15 people. ](/news/2012/05/15/indian-child-actress-taruni-sachdev-and-her-mother-are-revealed-to-be-among-the-dead-in-yesterday-s-plane-crash-in-northern-nepal-which-kil.md)
-_Context: plane crash, Nepal, India, Taruni Sachdev_
+_Context: Taruni Sachdev, India, Nepal, plane crash_
 
 ##### Palestinian
 ### [Thousands of Palestinians demonstrate on the 64th anniversary of their "Nakba" (en, in remembrance of their exodus from the former Mandate of Palestine after Israel's declaration of independence in 1948. Demonstrators and Israeli policemen are lightly injured in several clashes. ](/news/2012/05/15/thousands-of-palestinians-demonstrate-on-the-64th-anniversary-of-their-nakba-en-in-remembrance-of-their-exodus-from-the-former-mandate-o.md)
@@ -49,11 +49,11 @@ Rebekah Brooks, the former News International chief executive, has been charged 
 
 ##### Iran
 ### [Majid Jamali Fashi, convicted of killing Iranian quantum field theorist and elementary-particle physicist Masoud Alimohammadi, is executed. ](/news/2012/05/15/majid-jamali-fashi-convicted-of-killing-iranian-quantum-field-theorist-and-elementary-particle-physicist-masoud-alimohammadi-is-executed.md)
-_Context: elementary-particle physicist, Masoud Alimohammadi, Iran, quantum field theorist_
+_Context: Iran, Masoud Alimohammadi, elementary-particle physicist, quantum field theorist_
 
 ##### Port St. John
 ### [A mother kills her four children and then herself in Port St. John, Florida. ](/news/2012/05/15/a-mother-kills-her-four-children-and-then-herself-in-port-st-john-florida.md)
-_Context: the state, Port St. John_
+_Context: Port St. John, the state_
 
 ##### Francois Hollande
 ### [Francois Hollande is sworn in as the 24th President of France. Hollande appoints Jean-Marc Ayrault as his Prime Minister. ](/news/2012/05/15/franassois-hollande-is-sworn-in-as-the-24th-president-of-france-hollande-appoints-jean-marc-ayrault-as-his-prime-minister.md)
@@ -61,7 +61,7 @@ Socialist Francois Hollande is sworn in as France&#039;s president before naming
 
 ##### Greece
 ### [Crisis-wracked Greece is forced to hold new general elections, after efforts by major political parties to form a coalition government end in failure. ](/news/2012/05/15/crisis-wracked-greece-is-forced-to-hold-new-general-elections-after-efforts-by-major-political-parties-to-form-a-coalition-government-end-i.md)
-_Context: Greece, coalition_
+_Context: coalition, Greece_
 
 ##### United States
 ### [The United States announces a national plan to develop an effective treatment for Alzheimer's disease by 2025. ](/news/2012/05/15/the-united-states-announces-a-national-plan-to-develop-an-effective-treatment-for-alzheimer-s-disease-by-2025.md)

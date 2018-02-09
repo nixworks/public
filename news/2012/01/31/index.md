@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Taliban
 ### [Taliban insurgents attack a Pakistani military post in Jogi with the Pakistani Army suffering seven casualties and another 10 soldiers killed. ](/news/2012/01/31/taliban-insurgents-attack-a-pakistani-military-post-in-jogi-with-the-pakistani-army-suffering-seven-casualties-and-another-10-soldiers-kille.md)
-_Context: Pakistan, Jogi, Taliban, Pakistani troops_
+_Context: Pakistan, Taliban, Pakistani troops, Jogi_
 
 ##### Afghanistan
 ### [An Afghan woman was killed by her husband and mother-in-law 3 months after giving birth to her third daughter after not producing a son. ](/news/2012/01/31/an-afghan-woman-was-killed-by-her-husband-and-mother-in-law-3-months-after-giving-birth-to-her-third-daughter-after-not-producing-a-son.md)
@@ -17,15 +17,15 @@ The Kunduz Province authorities say that a woman, 22, was strangled by her husba
 
 ##### Yemen
 ### [Six aid workers are kidnapped in Yemen's Al Mahwit Governorate. ](/news/2012/01/31/six-aid-workers-are-kidnapped-in-yemen-s-al-mahwit-governorate.md)
-_Context: Yemen, Al Mahwit Governorate_
+_Context: Al Mahwit Governorate, Yemen_
 
 ##### Royal Bank of Scotland
 ### [Former Royal Bank of Scotland CEO Fred Goodwin loses his knighthood from Queen Elizabeth II as a result of the near collapse of the bank in 2008. ](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.md)
-_Context: Queen Elizabeth II, Royal Bank of Scotland, Fred Goodwin, knighthood_
+_Context: Royal Bank of Scotland, Fred Goodwin, Queen Elizabeth II, knighthood_
 
 ##### Turkey
 ### [A search continues off Turkey's Black Sea coast for eight missing crew members of the Cambodia-flagged freighter the Vera. ](/news/2012/01/31/a-search-continues-off-turkey-s-black-sea-coast-for-eight-missing-crew-members-of-the-cambodia-flagged-freighter-the-vera.md)
-_Context: Cambodia, Turkey, freighter, Black Sea_
+_Context: Black Sea, Cambodia, freighter, Turkey_
 
 ##### Italian
 ### [Italian divers end their search for victims in the Costa Concordia disaster in the underwater section of the wreck. ](/news/2012/01/31/italian-divers-end-their-search-for-victims-in-the-costa-concordia-disaster-in-the-underwater-section-of-the-wreck.md)
@@ -33,11 +33,11 @@ Italian divers have abandoned their search for bodies inside the wrecked cruise 
 
 ##### Alaska Volcano Observatory
 ### [The Alaska Volcano Observatory raises its alert warning for the Cleveland Volcano after it starts forming a new lava dome indicating that the mountain could explode. ](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.md)
-_Context: Alaska Volcano Observatory, lava dome, Cleveland Volcano_
+_Context: lava dome, Alaska Volcano Observatory, Cleveland Volcano_
 
 ##### 2011-2012 Syrian uprising
 ### [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its proposal for the President of Syria Bashar al-Assad to hand over power to his deputy and prepare for elections. ](/news/2012/01/31/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-proposal-for-the-president-of-syria-ba.md)
-_Context: Arab League, Bashar al-Assad, President, 2011-2012 Syrian uprising, United Nations Security Council, Syria_
+_Context: Syria, Arab League, Bashar al-Assad, United Nations Security Council, 2011-2012 Syrian uprising, President_
 
 ##### IAEA
 ### [The International Atomic Energy Agency gives its approval to nuclear reactor safety checks made by Japan. ](/news/2012/01/31/the-international-atomic-energy-agency-gives-its-approval-to-nuclear-reactor-safety-checks-made-by-japan.md)
@@ -61,7 +61,7 @@ Prime minister says there is &quot;still time&quot; until general elections; Net
 
 ##### Democrat
 ### [Democratic Party candidate Suzanne Bonamici wins a special election to represent the 1st congressional district of Oregon in the United States House of Representatives. ](/news/2012/01/31/democratic-party-candidate-suzanne-bonamici-wins-a-special-election-to-represent-the-1st-congressional-district-of-oregon-in-the-united-stat.md)
-_Context: House of Representatives, special election, Oregon, 1st congressional district, Suzanne Bonamici, Democrat_
+_Context: 1st congressional district, special election, Suzanne Bonamici, Oregon, Democrat, United States House of Representatives_
 
 ## [Previous Day...](/news/2012/01/30/index.md)
 

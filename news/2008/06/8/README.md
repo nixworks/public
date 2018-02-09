@@ -13,15 +13,15 @@ _Context: Texas Governor's Mansion_
 
 ##### Southern Sudan
 ### [ A dispute between Southern Sudan and the central Sudanese government over Abyei will go to international arbitration. ](/news/2008/06/8/a-dispute-between-southern-sudan-and-the-central-sudanese-government-over-abyei-will-go-to-international-arbitration.md)
-_Context: Sudanese cabinet, Abyei, Southern Sudan_
+_Context: Abyei, Southern Sudan, Sudanese cabinet_
 
 ##### An earthquake
 ### [ At least two people have been killed as an earthquake rocked southern Greece, collapsing buildings and causing panic. ](/news/2008/06/8/at-least-two-people-have-been-killed-as-an-earthquake-rocked-southern-greece-collapsing-buildings-and-causing-panic.md)
-_Context: an earthquake, Greece_
+_Context: Greece, an earthquake_
 
 ##### Southern Sudan
 ### [ The government of Southern Sudan withdraws its mediation efforts at the Juba talks between Uganda and the rebel Lord's Resistance Army. ](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.md)
-_Context: Southern Sudan, Lord's Resistance Army, Uganda, Juba talks_
+_Context: Southern Sudan, Juba talks, Uganda, Lord's Resistance Army_
 
 ##### Ukraine
 ### [ At least 37 miners go missing after an explosion in an Ukrainian coal mine causes it to collapse. ](/news/2008/06/8/at-least-37-miners-go-missing-after-an-explosion-in-an-ukrainian-coal-mine-causes-it-to-collapse.md)

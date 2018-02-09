@@ -25,11 +25,11 @@ Police in Bedfordshire and Hertfordshire say they have had calls reporting the s
 
 ##### Alex Sparrow
 ### [Singer Alex Sparrow is seriously injured and in intensive care in Los Angeles, USA, after a high speed car crash. ](/news/2013/01/23/singer-alex-sparrow-is-seriously-injured-and-in-intensive-care-in-los-angeles-usa-after-a-high-speed-car-crash.md)
-_Context: accident, USA, Los Angeles, Alex Sparrow_
+_Context: USA, accident, Alex Sparrow, Los Angeles_
 
 ##### New Zealand
 ### [Rescuers from New Zealand and McMurdo Station looking for three Canadians aboard an airplane presumed to have gone down in Antarctica were grappling with bad weather conditions. ](/news/2013/01/23/rescuers-from-new-zealand-and-mcmurdo-station-looking-for-three-canadians-aboard-an-airplane-presumed-to-have-gone-down-in-antarctica-were-g.md)
-_Context: airplane, New Zealand, Antarctica, Canadians, McMurdo Station_
+_Context: airplane, McMurdo Station, Antarctica, Canadians, New Zealand_
 
 ##### Thailand
 ### [A court in Thailand sentences a magazine editor to ten years' imprisonment for publishing articles that were deemed to have insulted the monarchy. ](/news/2013/01/23/a-court-in-thailand-sentences-a-magazine-editor-to-ten-years-imprisonment-for-publishing-articles-that-were-deemed-to-have-insulted-the-mon.md)
@@ -37,7 +37,7 @@ A Thai court jails a magazine editor for 10 years for publishing two articles th
 
 ##### London
 ### [In a speech in London, British Prime Minister David Cameron outlines his intention to renegotiate the terms of the UK's membership of the European Union then offer a referendum on United Kingdom withdrawal from the European Union if a new deal is agreed. ](/news/2013/01/23/in-a-speech-in-london-british-prime-minister-david-cameron-outlines-his-intention-to-renegotiate-the-terms-of-the-uk-s-membership-of-the-eu.md)
-_Context: referendum, Prime Minister, London, United Kingdom withdrawal from the European Union, European Union, David Cameron_
+_Context: European Union, London, United Kingdom withdrawal from the European Union, Prime Minister, David Cameron, referendum_
 
 ##### United States military personnel
 ### [The United States Armed Forces overturns its ban on women serving in combat, reversing a 1994 rule, and potentially clearing the way for women to serve in front-line units and elite commando forces. ](/news/2013/01/23/the-united-states-armed-forces-overturns-its-ban-on-women-serving-in-combat-reversing-a-1994-rule-and-potentially-clearing-the-way-for-wom.md)
@@ -45,7 +45,7 @@ US Defence Secretary Leon Panetta lifts a ban on women in combat, potentially op
 
 ##### Parliamentary election
 ### [A parliamentary election is held in Jordan with boycotting by the opposition, which alleges fraud. ](/news/2013/01/23/a-parliamentary-election-is-held-in-jordan-with-boycotting-by-the-opposition-which-alleges-fraud.md)
-_Context: Jordan, parliamentary election_
+_Context: parliamentary election, Jordan_
 
 ## [Previous Day...](/news/2013/01/22/index.md)
 

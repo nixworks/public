@@ -13,7 +13,7 @@ A member of parliament in the Maldives is stabbed to death near his home amid po
 
 ##### Afghanistan
 ### [A bomb blast in southern Afghanistan kills a United States Army service member. ](/news/2012/10/2/a-bomb-blast-in-southern-afghanistan-kills-a-united-states-army-service-member.md)
-_Context: Afghanistan, United States soldier_
+_Context: United States soldier, Afghanistan_
 
 ##### Philippine
 ### [A minibus collides with a truck in the northern Philippine province of Ilocos Norte, killing at least 10 people. ](/news/2012/10/2/a-minibus-collides-with-a-truck-in-the-northern-philippine-province-of-ilocos-norte-killing-at-least-10-people.md)
@@ -37,7 +37,7 @@ A&#x20;French&#x20;intelligence&#x20;expert&#x20;has&#x20;poured&#x20;cold&#x20;
 
 ##### OSCE
 ### [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md)
-_Context: OSCE, parliamentary election, Prime Minister of Georgia, Bidzina Ivanishvili, Georgian Dream, United National Movement, Mikheil Saakashvili, President of Georgia_
+_Context: OSCE, United National Movement, Georgian Dream, Prime Minister of Georgia, Mikheil Saakashvili, parliamentary election, President of Georgia, Bidzina Ivanishvili_
 
 ## [Previous Day...](/news/2012/10/1/index.md)
 

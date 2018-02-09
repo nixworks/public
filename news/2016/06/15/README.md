@@ -21,7 +21,7 @@ European commission says Turkey has not met conditions of possible deal includin
 
 ##### Ukraine-NATO relations
 ### [NATO's defense ministers agree to boost support for Ukraine with a "comprehensive package of assistance", which will help it strengthen defense and to modernize its armed forces. ](/news/2016/06/15/nato-s-defense-ministers-agree-to-boost-support-for-ukraine-with-a-comprehensive-package-of-assistance-which-will-help-it-strengthen-defe.md)
-_Context: Ukraine, Ukrainian military, NATO, Ukraine-NATO relations_
+_Context: Ukraine, NATO, Ukrainian military, Ukraine-NATO relations_
 
 ##### Israel-Palestine relations
 ### [Israel announces plans for construction of a three-story residential building for Jewish settlers in a Palestinian neighborhood of East Jerusalem. ](/news/2016/06/15/israel-announces-plans-for-construction-of-a-three-story-residential-building-for-jewish-settlers-in-a-palestinian-neighborhood-of-east-jeru.md)
@@ -49,7 +49,7 @@ _Context: House of Commons, O Canada_
 
 ##### Philadelphia
 ### [The Philadelphia, Pennsylvania, City Council approves a a 1.5-cent-per-ounce tax on sugar-sweetened and diet beverages, effective January 1, 2017. This the first so-called sugary drinks tax in a major U.S. city. ](/news/2016/06/15/the-philadelphia-pennsylvania-city-council-approves-a-a-1-5-cent-per-ounce-tax-on-sugar-sweetened-and-diet-beverages-effective-january-1.md)
-_Context: City Council, Pennsylvania, sugar-sweetened and diet beverages, sugary drinks tax, Philadelphia, United States_
+_Context: sugar-sweetened and diet beverages, City Council, sugary drinks tax, Pennsylvania, United States, Philadelphia_
 
 ##### Second detection
 ### [Scientists confirm a second detection of gravitational waves by LIGO. ](/news/2016/06/15/scientists-confirm-a-second-detection-of-gravitational-waves-by-ligo.md)

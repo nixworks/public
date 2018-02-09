@@ -9,7 +9,7 @@ Russia says it has used a base in Iran to carry out air strikes in Syria, the fi
 
 ##### Houthi
 ### [Houthi shelling kills seven in Saudi Arabia; nine Yemenis from one family die from an airstrike by the Saudi-led alliance. ](/news/2016/08/16/houthi-shelling-kills-seven-in-saudi-arabia-nine-yemenis-from-one-family-die-from-an-airstrike-by-the-saudi-led-alliance.md)
-_Context: Houthi, airstrike, Saudi Arabia, Yemen_
+_Context: airstrike, Houthi, Yemen, Saudi Arabia_
 
 ##### Westfield World Trade Center
 ### [Westfield World Trade Center opens on schedule, part of the World Trade Center Ground Zero redevelopment in New York City. ](/news/2016/08/16/westfield-world-trade-center-opens-on-schedule-part-of-the-world-trade-center-ground-zero-redevelopment-in-new-york-city.md)

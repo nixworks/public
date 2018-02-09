@@ -13,11 +13,11 @@ Van Cliburn, the internationally celebrated pianist whose triumph at a 1958 Mosc
 
 ##### JPMorgan
 ### [JPMorgan announces it plans to cut 17,000 jobs over the next two years, primarily from the company's mortgage unit. ](/news/2013/02/27/jpmorgan-announces-it-plans-to-cut-17-000-jobs-over-the-next-two-years-primarily-from-the-company-s-mortgage-unit.md)
-_Context: mortgage, JPMorgan_
+_Context: JPMorgan, mortgage_
 
 ##### Reuters
 ### [Reuters reports that the Treasury of the Republic of Italy is working on the terms of a bailout for the third-largest lender in the country, Monte dei Paschi. ](/news/2013/02/27/reuters-reports-that-the-treasury-of-the-republic-of-italy-is-working-on-the-terms-of-a-bailout-for-the-third-largest-lender-in-the-country.md)
-_Context: Reuters, Republic of Italy, Monte dei Paschi_
+_Context: Reuters, Monte dei Paschi, Republic of Italy_
 
 ##### Severe Tropical Cyclone Rusty
 ### [Severe Tropical Cyclone Rusty intensifies to Category 4 status before crossing the coast of Western Australia between Port Hedland and Pardoo. ](/news/2013/02/27/severe-tropical-cyclone-rusty-intensifies-to-category-4-status-before-crossing-the-coast-of-western-australia-between-port-hedland-and-pardo.md)
@@ -49,7 +49,7 @@ Stephane Hessel, the former French Resistance fighter whose 2010 manifesto Time 
 
 ##### Chuck Hagel
 ### [Chuck Hagel is sworn in as United States Secretary of Defense, replacing Leon Panetta. ](/news/2013/02/27/chuck-hagel-is-sworn-in-as-united-states-secretary-of-defense-replacing-leon-panetta.md)
-_Context: United States, United States Secretary of Defense, Leon Panetta, Chuck Hagel_
+_Context: United States Secretary of Defense, Chuck Hagel, Leon Panetta, United States_
 
 ##### United States Senate
 ### [The United States Senate confirms Jack Lew as the Secretary of the Treasury. ](/news/2013/02/27/the-united-states-senate-confirms-jack-lew-as-the-secretary-of-the-treasury.md)

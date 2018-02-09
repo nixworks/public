@@ -25,7 +25,7 @@ _Context: Moussa Dadis Camara, Military of Guinea_
 
 ##### Gabon
 ### [ Gabon's constitutional court recounts votes from last month's disputed presidential election won by the son of longtime leader Omar Bongo. ](/news/2009/09/29/gabon-s-constitutional-court-recounts-votes-from-last-month-s-disputed-presidential-election-won-by-the-son-of-longtime-leader-omar-bongo.md)
-_Context: disputed presidential election, Omar Bongo, Gabon_
+_Context: disputed presidential election, Gabon, Omar Bongo_
 
 ##### Coventry
 ### [ A 14-year-old schoolgirl in Coventry, England, who died after being given a cervical cancer vaccine as part of that country's national immunisation programme is found to have suffered from a tumor in her heart and lungs. ](/news/2009/09/29/a-14-year-old-schoolgirl-in-coventry-england-who-died-after-being-given-a-cervical-cancer-vaccine-as-part-of-that-country-s-national-immu.md)

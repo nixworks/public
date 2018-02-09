@@ -21,7 +21,7 @@ The US and Japan begin joint military exercises, amid simmering tensions with Ch
 
 ##### Asia-Europe Meeting
 ### [Asian and European leaders meet at the Ninth Asia-Europe Meeting in Vientiane, Laos to discuss issues including the current financial crisis. 51 foreign leaders are expected to attend including premier of China Wen Jiabao and President of Laos Choummaly Sayasone. ](/news/2012/11/5/asian-and-european-leaders-meet-at-the-ninth-asiaaeurope-meeting-in-vientiane-laos-to-discuss-issues-including-the-current-financial-cris.md)
-_Context: Choummaly Sayasone, Laos, Wen Jiabao, China, Vientiane, Asia-Europe Meeting_
+_Context: China, Wen Jiabao, Laos, Asia-Europe Meeting, Choummaly Sayasone, Vientiane_
 
 ##### British Prime Minister
 ### [British Prime Minister David Cameron orders a fresh investigation into allegations of sexual abuse involving a senior Conservative politician from the Thatcher era. The allegations concern sexual abuse at children's homes in Wales during the 1970s and 1980s. ](/news/2012/11/5/british-prime-minister-david-cameron-orders-a-fresh-investigation-into-allegations-of-sexual-abuse-involving-a-senior-conservative-politicia.md)

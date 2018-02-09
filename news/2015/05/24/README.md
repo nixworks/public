@@ -9,7 +9,7 @@ Taliban insurgents attacked police checkpoints Sunday in volatile southern Afgha
 
 ##### 2015 Burundian unrest
 ### [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md)
-_Context: Zedi Feruzi, Union for Peace and Development, 2015 Burundian unrest, Burundi, Presidents, Pierre Nkurunziza_
+_Context: Pierre Nkurunziza, Burundi, Union for Peace and Development, Zedi Feruzi, 2015 Burundian unrest, Presidents_
 
 ##### Syrian Civil War
 ### [A Syrian military helicopter crashes near the town of Kweiras killing all on board. ](/news/2015/05/24/a-syrian-military-helicopter-crashes-near-the-town-of-kweiras-killing-all-on-board.md)
@@ -25,11 +25,11 @@ Eight people are missing from two different families following Sunday morning fl
 
 ##### Gloria Steinem
 ### [Feminist activists including Gloria Steinem cross the Korean Demilitarized Zone by bus after being denied permission to walk across. ](/news/2015/05/24/feminist-activists-including-gloria-steinem-cross-the-korean-demilitarized-zone-by-bus-after-being-denied-permission-to-walk-across.md)
-_Context: DMZ, Gloria Steinem_
+_Context: Gloria Steinem, DMZ_
 
 ##### Malaysia
 ### [Authorities in Malaysia find mass graves in more than a dozen camps near the border with Thailand where Rohingya migrants are held. ](/news/2015/05/24/authorities-in-malaysia-find-mass-graves-in-more-than-a-dozen-camps-near-the-border-with-thailand-where-rohingya-migrants-are-held.md)
-_Context: Rohingya, Thailand, Malaysia_
+_Context: Malaysia, Rohingya, Thailand_
 
 ##### Polish presidential election, 2015
 ### [Voters in Poland go to the polls for the second round of a Presidential election between President Bronislaw Komorowski and challenger Andrzej Duda with exit polls showing Duda ahead. ](/news/2015/05/24/voters-in-poland-go-to-the-polls-for-the-second-round-of-a-presidential-election-between-president-bronisaaw-komorowski-and-challenger-andr.md)
@@ -41,7 +41,7 @@ The international community must challenge Ethiopia’s oppressive regime by giv
 
 ##### Nobel Prize
 ### [Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. ](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.md)
-_Context: taxi, accident, Nobel Prize, John Forbes Nash, Jr._
+_Context: Nobel Prize, taxi, John Forbes Nash, Jr., accident_
 
 ## [Previous Day...](/news/2015/05/23/index.md)
 

@@ -17,7 +17,7 @@ China warns tortured efforts to raise the US debt ceiling have failed to defuse 
 
 ##### John Malone
 ### [The plans of cable entrepreneur John Malone to purchase book store chain Barnes & Noble may have hit a snag, especially over how to value the B&N eReader, the Nook. ](/news/2011/08/3/the-plans-of-cable-entrepreneur-john-malone-to-purchase-book-store-chain-barnes-noble-may-have-hit-a-snag-especially-over-how-to-value-th.md)
-_Context: John Malone, Nook, Barnes & Noble_
+_Context: Barnes & Noble, John Malone, Nook_
 
 ##### New Zealand
 ### [More than 26,000 people have permanently left New Zealand's Canterbury Region since the 2011 Christchurch earthquake in February. ](/news/2011/08/3/more-than-26-000-people-have-permanently-left-new-zealand-s-canterbury-region-since-the-2011-christchurch-earthquake-in-february.md)
@@ -25,7 +25,7 @@ _Context: Canterbury Region, 2011 Christchurch earthquake, New Zealand_
 
 ##### Bell 412 helicopter
 ### [Ten people die as a Bell 412 helicopter crashes in Indonesia's North Sulawesi province. ](/news/2011/08/3/ten-people-die-as-a-bell-412-helicopter-crashes-in-indonesia-s-north-sulawesi-province.md)
-_Context: Indonesia, Bell 412 helicopter, North Sulawesi_
+_Context: North Sulawesi, Bell 412 helicopter, Indonesia_
 
 ##### Computer security
 ### [Computer security firm McAfee uncovers one of the largest series of cyber attacks against the International Olympic Committee, Indian government, the United Nations, the steel industry and defence and security firms. ](/news/2011/08/3/computer-security-firm-mcafee-uncovers-one-of-the-largest-series-of-cyber-attacks-against-the-international-olympic-committee-indian-govern.md)
@@ -33,19 +33,19 @@ The UN and the International Olympic Committee were among those targeted by one 
 
 ##### President
 ### [The former President of Egypt, Hosni Mubarak, leaves the resort town of Sharm el-Sheikh, Egypt to return to Cairo for his trial. ](/news/2011/08/3/the-former-president-of-egypt-hosni-mubarak-leaves-the-resort-town-of-sharm-el-sheikh-egypt-to-return-to-cairo-for-his-trial.md)
-_Context: Hosni Mubarak, Cairo, President, trial, Sharm el-Sheikh_
+_Context: Sharm el-Sheikh, Hosni Mubarak, trial, President, Cairo_
 
 ##### Heather Mills
 ### [Charity campaigner Heather Mills tells the BBC's "Newsnight" that a senior Mirror Group journalist admitted hacking voicemails left for her by Sir Paul McCartney while they were together. ](/news/2011/08/3/charity-campaigner-heather-mills-tells-the-bbc-s-newsnight-that-a-senior-mirror-group-journalist-admitted-hacking-voicemails-left-for-her.md)
-_Context: Newsnight, Mirror Group, Paul McCartney, Heather Mills_
+_Context: Mirror Group, Newsnight, Heather Mills, Paul McCartney_
 
 ##### United Kingdom Parliamentary expenses scandal
 ### [Luke March, who was charged with investigating the United Kingdom Parliamentary expenses scandal, resigns from the Independent Parliamentary Standards Authority after refusing to name those under suspicion. ](/news/2011/08/3/luke-march-who-was-charged-with-investigating-the-united-kingdom-parliamentary-expenses-scandal-resigns-from-the-independent-parliamentary.md)
-_Context: United Kingdom Parliamentary expenses scandal, Independent Parliamentary Standards Authority_
+_Context: Independent Parliamentary Standards Authority, United Kingdom Parliamentary expenses scandal_
 
 ##### MPs
 ### [The Iranian parliament confirms four new ministers including Rostam Ghasemi as Minister of Petroleum. ](/news/2011/08/3/the-iranian-parliament-confirms-four-new-ministers-including-rostam-ghasemi-as-minister-of-petroleum.md)
-_Context: Iran's oil ministry, MPs, Rostam Ghasemi_
+_Context: MPs, Iran's oil ministry, Rostam Ghasemi_
 
 ##### David Wu
 ### [David Wu resigns his seat representing Oregon's 1st congressional district in the United States House of Representatives as a result of a sex scandal. ](/news/2011/08/3/david-wu-resigns-his-seat-representing-oregon-s-1st-congressional-district-in-the-united-states-house-of-representatives-as-a-result-of-a-se.md)

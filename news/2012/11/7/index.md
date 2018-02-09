@@ -13,7 +13,7 @@ _Context: A gunman opens fire, Moscow_
 
 ##### Earthquake measuring 7.3
 ### [An earthquake measuring 7.3 on the Richter scale kills 48 people in northern Guatemala. ](/news/2012/11/7/an-earthquake-measuring-7-3-on-the-richter-scale-kills-48-people-in-northern-guatemala.md)
-_Context: earthquake measuring 7.3, magnitude, Guatemala_
+_Context: magnitude, Guatemala, earthquake measuring 7.3_
 
 ##### United States elections, 2012
 ### [Voters in the states of Maine, Maryland, and Washington approve measures that would allow same-sex marriage, while Minnesota votes down an amendment that would define marriage as between one man and one woman. ](/news/2012/11/7/voters-in-the-states-of-maine-maryland-and-washington-approve-measures-that-would-allow-same-sex-marriage-while-minnesota-votes-down-an-a.md)

@@ -29,7 +29,7 @@ _Context: Natal, Rio Grande do Norte, Brazil, police_
 
 ##### Inauguration of Donald Trump protests
 ### [A crowd of over 500,000 gather in Washington DC, U.S., to advocate for women's rights and address the inauguration of Donald Trump ](/news/2017/01/21/a-crowd-of-over-500-000-gather-in-washington-dc-u-s-to-advocate-for-women-s-rights-and-address-the-inauguration-of-donald-trump.md)
-_Context: inauguration of Donald Trump, Inauguration of Donald Trump protests_
+_Context: Inauguration of Donald Trump protests, inauguration of Donald Trump_
 
 ##### 2016-2017 Gambian constitutional crisis
 ### [Former President Yahya Jammeh leaves The Gambia on a plane reportedly bound for Guinea. ](/news/2017/01/21/former-president-yahya-jammeh-leaves-the-gambia-on-a-plane-reportedly-bound-for-guinea.md)

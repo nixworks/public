@@ -5,7 +5,7 @@ Formats: [HTML](2014/02/3/index.html)  [JSON](2014/02/3/index.json)  [XML](2014/
 
 ##### Fox Broadcasting Company
 ### [Fox Broadcasting Company says Super Bowl XLVIII was watched by over 111 million people in the United States, making it the most viewed television event in U.S. history. ](/news/2014/02/3/fox-broadcasting-company-says-super-bowl-xlviii-was-watched-by-over-111-million-people-in-the-united-states-making-it-the-most-viewed-telev.md)
-_Context: Super Bowl XLVIII, Fox Broadcasting Company_
+_Context: Fox Broadcasting Company, Super Bowl XLVIII_
 
 ##### Gulf of Carpentaria
 ### [Cyclone Fletcher becomes the third cyclone to form in a week as it crosses the Gulf of Carpentaria into Queensland. ](/news/2014/02/3/cyclone-fletcher-becomes-the-third-cyclone-to-form-in-a-week-as-it-crosses-the-gulf-of-carpentaria-into-queensland.md)

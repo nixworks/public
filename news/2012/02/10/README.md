@@ -13,7 +13,7 @@ _Context: Greece_
 
 ##### Cardinal
 ### [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md)
-_Context: Italy, Cardinal, Pope Benedict XVI_
+_Context: Cardinal, Italy, Pope Benedict XVI_
 
 ##### Qatif
 ### [A protester is shot dead by security forces in Qatif, eastern Saudi Arabia, amid a demonstration calling for the release of Shia prisoners and democratic reforms. ](/news/2012/02/10/a-protester-is-shot-dead-by-security-forces-in-qatif-eastern-saudi-arabia-amid-a-demonstration-calling-for-the-release-of-shia-prisoners-a.md)
@@ -25,15 +25,15 @@ _Context: England, gay_
 
 ##### Somaliland
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)
-_Context: Puntland, Somaliland, Somalia_
+_Context: Puntland, Somalia, Somaliland_
 
 ##### United States Secretary of Defense
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Afghanistan, sniper, Leon Panetta, United States Secretary of Defense, Schutzstaffel, Nazi, Marine_
+_Context: Leon Panetta, sniper, Marine, United States Secretary of Defense, Schutzstaffel, Nazi, Afghanistan_
 
 ##### United States
 ### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: Central Intelligence Agency, Alabama, hacker group Anonymous, United States_
+_Context: United States, Central Intelligence Agency, hacker group Anonymous, Alabama_
 
 ##### President
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
@@ -41,7 +41,7 @@ _Context: Michael D. Higgins, President_
 
 ##### The Cats of Copenhagen
 ### ["The Cats of Copenhagen", a children's story by James Joyce, is published for the first time in Dublin, and is called an "outrage". ](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.md)
-_Context: Dublin, The Cats of Copenhagen, James Joyce_
+_Context: James Joyce, Dublin, The Cats of Copenhagen_
 
 ##### The Guard
 ### ["The Guard" wins "The Guardian"{{'}}s annual First Film award. ](/news/2012/02/10/the-guard-wins-the-guardian-s-annual-first-film-award.md)
@@ -49,11 +49,11 @@ _Context: The Guardian, The Guard_
 
 ##### Samuel Aranda
 ### [Spanish photographer Samuel Aranda wins the 2011 World Press Photo of the Year with an image of a veiled woman holding a wounded relative in her arms after a demonstration in Yemen. ](/news/2012/02/10/spanish-photographer-samuel-aranda-wins-the-2011-world-press-photo-of-the-year-with-an-image-of-a-veiled-woman-holding-a-wounded-relative-in.md)
-_Context: World Press Photo of the Year, Yemen, Samuel Aranda_
+_Context: Samuel Aranda, World Press Photo of the Year, Yemen_
 
 ##### Histadrut
 ### [A Histadrut general strike in Israel continues for a third day with banks, ports and the Tel Aviv Stock Exchange closed. ](/news/2012/02/10/a-histadrut-general-strike-in-israel-continues-for-a-third-day-with-banks-ports-and-the-tel-aviv-stock-exchange-closed.md)
-_Context: Tel Aviv Stock Exchange, general strike, Histadrut, Israel_
+_Context: Tel Aviv Stock Exchange, Histadrut, general strike, Israel_
 
 ##### Reuters
 ### [Reuters cites sources "familiar with the matter" as saying that Google will soon receive approval from both the European Union and the United States for its proposed acquisition of Motorola Mobility. ](/news/2012/02/10/reuters-cites-sources-familiar-with-the-matter-as-saying-that-google-will-soon-receive-approval-from-both-the-european-union-and-the-unite.md)
@@ -69,15 +69,15 @@ Argentine president Cristina Fernandez gave instructions for the formal complain
 
 ##### South Korea
 ### [A group of South Korean lawmakers make a rare visit to North Korea's Kaesong Industrial Region. ](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.md)
-_Context: Kaesong area, North Korea, South Korea_
+_Context: North Korea, Kaesong area, South Korea_
 
 ##### Uganda
 ### [A Ugandan lawmaker who propose the Anti-Homosexuality Bill scraps the proposed death penalty clause. ](/news/2012/02/10/a-ugandan-lawmaker-who-propose-the-anti-homosexuality-bill-scraps-the-proposed-death-penalty-clause.md)
-_Context: sentenced to death, Uganda, law_
+_Context: Uganda, sentenced to death, law_
 
 ##### Nat Rothschild
 ### [Banking scion Nat Rothschild loses his libel action against the "Daily Mail" for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelson.md)
-_Context: Peter Mandelson, Nat Rothschild, Daily Mail, Oleg Deripaska_
+_Context: Oleg Deripaska, Peter Mandelson, Daily Mail, Nat Rothschild_
 
 ##### Luka Bojovic
 ### [Luka Bojovic, an alleged member of the Zemun Clan, is arrested in Valencia, Spain, for involvement in over 20 murders in Serbia, the Netherlands and Spain, including the killing of former Prime Minister of Serbia Zoran Dindic. ](/news/2012/02/10/luka-bojovia-an-alleged-member-of-the-zemun-clan-is-arrested-in-valencia-spain-for-involvement-in-over-20-murders-in-serbia-the-nether.md)
@@ -85,11 +85,11 @@ A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zor
 
 ##### Uzbek
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, Barack Obama, Islamic Movement of Uzbekistan, Uzbek, Ulugbek Kodirov, Birmingham, U.S. President_
+_Context: Alabama, U.S. President, Barack Obama, Ulugbek Kodirov, Uzbek, Islamic Movement of Uzbekistan, Birmingham_
 
 ##### China
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
-_Context: China, Tibet, Wen Jiabao_
+_Context: Wen Jiabao, China, Tibet_
 
 ##### Zhu Yufi
 ### [Chinese dissident Zhu Yufi is jailed for seven years for "inciting subversion", after publishing a poem in support of freedom. ](/news/2012/02/10/chinese-dissident-zhu-yufi-is-jailed-for-seven-years-for-inciting-subversion-after-publishing-a-poem-in-support-of-freedom.md)

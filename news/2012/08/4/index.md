@@ -17,7 +17,7 @@ Gunmen in Nigeria storm an oil barge off the coast, killing two sailors and kidn
 
 ##### Iran
 ### [Iran claims to have successfully test fired a Fateh-110 missile. ](/news/2012/08/4/iran-claims-to-have-successfully-test-fired-a-fateh-110-missile.md)
-_Context: Fateh-110 missile, Iran_
+_Context: Iran, Fateh-110 missile_
 
 ##### North Korea
 ### [North Korea raises the death toll from recent floods to 169, with 400 missing. ](/news/2012/08/4/north-korea-raises-the-death-toll-from-recent-floods-to-169-with-400-missing.md)
@@ -29,11 +29,11 @@ Three jawans of fire services were among six persons killed as torrential rains 
 
 ##### Islam
 ### [Jailed Islamist cleric Abu Bakar Bashir threatens to wage war in Burma following alleged abuses by Buddhists against the country's Rohingya people by the Tatmadaw, in a letter to Burmese president Thein Sein. ](/news/2012/08/4/jailed-islamist-cleric-abu-bakar-bashir-threatens-to-wage-war-in-burma-following-alleged-abuses-by-buddhists-against-the-country-s-rohingya.md)
-_Context: Burma, Rohingya, Islam, Thein Sein, Abu Bakar Bashir, security forces_
+_Context: Burma, security forces, Islam, Thein Sein, Rohingya, Abu Bakar Bashir_
 
 ##### Sudan
 ### [Sudan confirms an oil agreement with neighbouring South Sudan. ](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.md)
-_Context: Sudan, South Sudan_
+_Context: South Sudan, Sudan_
 
 ##### Russia
 ### [The defence lawyer for the Russian band Pussy Riot says the accused face long jail terms, and accuses the court of pressuring the defendants and witnesses. ](/news/2012/08/4/the-defence-lawyer-for-the-russian-band-pussy-riot-says-the-accused-face-long-jail-terms-and-accuses-the-court-of-pressuring-the-defendants.md)
@@ -41,7 +41,7 @@ _Context: Pussy Riot, Russia_
 
 ##### Parliament of Afghanistan
 ### [The Parliament of Afghanistan votes to dismiss the Defence and Interior Ministers over continued cross-border shelling by Pakistan. ](/news/2012/08/4/the-parliament-of-afghanistan-votes-to-dismiss-the-defence-and-interior-ministers-over-continued-cross-border-shelling-by-pakistan.md)
-_Context: Pakistan, Parliament of Afghanistan_
+_Context: Parliament of Afghanistan, Pakistan_
 
 ## [Previous Day...](/news/2012/08/3/index.md)
 

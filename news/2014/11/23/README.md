@@ -9,7 +9,7 @@ A suicide bomber detonated his explosive vest in a crowd of spectators at a voll
 
 ##### Boko Haram
 ### [Boko Haram militants kill 48 fish traders near the border with Chad. ](/news/2014/11/23/boko-haram-militants-kill-48-fish-traders-near-the-border-with-chad.md)
-_Context: Boko Haram, Chad_
+_Context: Chad, Boko Haram_
 
 ##### War in Somalia (2009-present)
 ### [Kenyan security forces cross into Somalia and kill 100 members of Al-Shabaab in response to the terrorist group hijacking a bus and killing 28 people. ](/news/2014/11/23/kenyan-security-forces-cross-into-somalia-and-kill-100-members-of-al-shabaab-in-response-to-the-terrorist-group-hijacking-a-bus-and-killing.md)
@@ -29,7 +29,7 @@ The Philippines marks the fifth anniversary of its worst political massacre, as 
 
 ##### Tunisia's presidential election
 ### [Voters in Tunisia go to the polls Sunday in the first free presidential election since the Arab Spring's Jasmine Revolution. ](/news/2014/11/23/voters-in-tunisia-go-to-the-polls-sunday-in-the-first-free-presidential-election-since-the-arab-spring-s-jasmine-revolution.md)
-_Context: Tunisia's presidential election, Jasmine Revolution of 2011, Arab Spring, Tunisia_
+_Context: Tunisia, Tunisia's presidential election, Jasmine Revolution of 2011, Arab Spring_
 
 ##### Israel
 ### [The Cabinet of Israel approves legislation defining it as the nation state of the Jewish people. ](/news/2014/11/23/the-cabinet-of-israel-approves-legislation-defining-it-as-the-nation-state-of-the-jewish-people.md)

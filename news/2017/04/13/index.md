@@ -25,7 +25,7 @@ _Context: DR Congo, Belgium_
 
 ##### European Court of Human Rights
 ### [The European Court of Human Rights rules that Russia had failed to protect students and teachers during the 2004 Beslan school siege, which left 334 people dead, and orders the Russian Government to pay 2,955,000 euros to 409 relatives of the victims. The ruling was quickly denounced by Russia as "unacceptable". ](/news/2017/04/13/the-european-court-of-human-rights-rules-that-russia-had-failed-to-protect-students-and-teachers-during-the-2004-beslan-school-siege-which.md)
-_Context: Beslan school siege, Russia, Russian government, European Court of Human Rights, euro_
+_Context: Russia, euro, Beslan school siege, European Court of Human Rights, Russian government_
 
 ##### Mardan
 ### [One student is murdered and another injured in Mardan, Pakistan over alleged blasphemy. The student who died, Mashal Khan, was known on social media for his secular and liberal views. ](/news/2017/04/13/one-student-is-murdered-and-another-injured-in-mardan-pakistan-over-alleged-blasphemy-the-student-who-died-mashal-khan-was-known-on-soci.md)
@@ -33,7 +33,7 @@ The student was brutally murdered by a mob at a university campus in northern Pa
 
 ##### Democratic opposition
 ### [Thousands of people take to the streets in Caracas as Venezuelan authorities acknowledge a fifth death in the protests. ](/news/2017/04/13/thousands-of-people-take-to-the-streets-in-caracas-as-venezuelan-authorities-acknowledge-a-fifth-death-in-the-protests.md)
-_Context: Venezuela, Caracas, democratic opposition_
+_Context: democratic opposition, Caracas, Venezuela_
 
 ##### NASA
 ### [NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. ](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.md)

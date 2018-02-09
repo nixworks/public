@@ -17,7 +17,7 @@ Almost more important than what is in the Black Saturday report is whether its r
 
 ##### "black box" flight data recorder
 ### [The black box for Airblue Flight 202 which crashed near Islamabad, Pakistan, is found. ](/news/2010/07/31/the-black-box-for-airblue-flight-202-which-crashed-near-islamabad-pakistan-is-found.md)
-_Context: Islamabad, Airblue, Pakistan, Flight 202, "black box" flight data recorder_
+_Context: "black box" flight data recorder, Flight 202, Airblue, Pakistan, Islamabad_
 
 ##### Devastating floods
 ### [The death toll from the 2010 Pakistan floods exceeds 900 and may climb further. ](/news/2010/07/31/the-death-toll-from-the-2010-pakistan-floods-exceeds-900-and-may-climb-further.md)
@@ -49,7 +49,7 @@ Pakistan says it expects &quot;fruitful&quot; talks between its president and Da
 
 ##### Police officers
 ### [Police fire rubber bullets to disperse rioting garment workers as protests spread beyond the capital Dhaka to other Bangladeshi cities. ](/news/2010/07/31/police-fire-rubber-bullets-to-disperse-rioting-garment-workers-as-protests-spread-beyond-the-capital-dhaka-to-other-bangladeshi-cities.md)
-_Context: Bangladesh, Dhaka, rubber bullet, police officers_
+_Context: Dhaka, police officers, Bangladesh, rubber bullet_
 
 ## [Previous Day...](/news/2010/07/30/index.md)
 

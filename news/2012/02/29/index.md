@@ -13,7 +13,7 @@ Heavy fighting raged near Baba Amro in Homs on Wednesday after elite Syrian troo
 
 ##### Davy Jones
 ### [Davy Jones of The Monkees dies in Florida of a heart attack. ](/news/2012/02/29/davy-jones-of-the-monkees-dies-in-florida-of-a-heart-attack.md)
-_Context: The Monkees, the state, Davy Jones_
+_Context: The Monkees, Davy Jones, the state_
 
 ##### James
 ### [James Murdoch resigns from News International to focus on running News Limited's television business with the News International phone hacking scandal as a factor in the decision. ](/news/2012/02/29/james-murdoch-resigns-from-news-international-to-focus-on-running-news-limited-s-television-business-with-the-news-international-phone-hacki.md)
@@ -37,7 +37,7 @@ _Context: Liberal Democrats, Jenny Tonge_
 
 ##### President
 ### [The President of Venezuela Hugo Chvez is recovering from the removal of a tumour from his pelvis in a Cuban hospital. ](/news/2012/02/29/the-president-of-venezuela-hugo-chavez-is-recovering-from-the-removal-of-a-tumour-from-his-pelvis-in-a-cuban-hospital.md)
-_Context: President, tumour, Hugo Chvez, Cuba_
+_Context: Cuba, tumour, President, Hugo Chvez_
 
 ##### Egypt
 ### [Egypt announces that a presidential election will held on May 23-24. ](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.md)
@@ -45,7 +45,7 @@ _Context: Egypt, presidential election_
 
 ##### Mitt Romney
 ### [Mitt Romney wins the Republican caucuses held in the US state of Wyoming. ](/news/2012/02/29/mitt-romney-wins-the-republican-caucuses-held-in-the-us-state-of-wyoming.md)
-_Context: Mitt Romney, Wyoming, Wyoming, Republican_
+_Context: Republican, Wyoming, Wyoming, Mitt Romney_
 
 ## [Previous Day...](/news/2012/02/28/index.md)
 

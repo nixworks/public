@@ -9,7 +9,7 @@ Africa governance award judges fail to find suitable candidate for second year i
 
 ##### Transitional Federal Government
 ### [Fighting between Somali government troops and local police has killed at least 13 people in Mogadishu and gunmen killed a judiciary official of the semi-autonomous Puntland region in the Hamarjajab district. ](/news/2010/06/14/fighting-between-somali-government-troops-and-local-police-has-killed-at-least-13-people-in-mogadishu-and-gunmen-killed-a-judiciary-official.md)
-_Context: Puntland, Hamarjajab, Mogadishu, Transitional Federal Government_
+_Context: Hamarjajab, Puntland, Transitional Federal Government, Mogadishu_
 
 ##### Sinaloa
 ### [At least 28 prisoners are killed in a clash between rival gangs in Sinaloa, Mexico. ](/news/2010/06/14/at-least-28-prisoners-are-killed-in-a-clash-between-rival-gangs-in-sinaloa-mexico.md)
@@ -33,11 +33,11 @@ _Context: Egypt, 2010 FIFA World Cup, Al Jazeera Sports_
 
 ##### California
 ### [A California judge refuses to suspend the medical licence of Conrad Murray, the doctor charged in connection with Michael Jackson's death. ](/news/2010/06/14/a-california-judge-refuses-to-suspend-the-medical-licence-of-conrad-murray-the-doctor-charged-in-connection-with-michael-jackson-s-death.md)
-_Context: Conrad Murray, Michael Jackson, death, California_
+_Context: California, Michael Jackson, Conrad Murray, death_
 
 ##### Ganges River
 ### [At least 35 people are feared drowned and 50 people disappear after a boat capsizes on the Ganges River in northern India. ](/news/2010/06/14/at-least-35-people-are-feared-drowned-and-50-people-disappear-after-a-boat-capsizes-on-the-ganges-river-in-northern-india.md)
-_Context: India, Ganges River_
+_Context: Ganges River, India_
 
 ##### Philippines
 ### [At least 14 people are killed and at least 30 are injured when a tourist bus disappears over the edge of a ravine in the Philippines. ](/news/2010/06/14/at-least-14-people-are-killed-and-at-least-30-are-injured-when-a-tourist-bus-disappears-over-the-edge-of-a-ravine-in-the-philippines.md)
@@ -69,7 +69,7 @@ The arrest of several army officers in Guinea is not linked to the forthcoming e
 
 ##### Iraq
 ### [The Iraqi Council of Representatives convenes in Baghdad three months after inconclusive elections. ](/news/2010/06/14/the-iraqi-council-of-representatives-convenes-in-baghdad-three-months-after-inconclusive-elections.md)
-_Context: Baghdad, elections, Iraq, Iraqi Parliament_
+_Context: elections, Iraqi Parliament, Baghdad, Iraq_
 
 ##### Polish
 ### [Polish authorities arrest a suspected Israeli agent in connection with the murder of a Hamas operative in Dubai in January. ](/news/2010/06/14/polish-authorities-arrest-a-suspected-israeli-agent-in-connection-with-the-murder-of-a-hamas-operative-in-dubai-in-january.md)
@@ -77,7 +77,7 @@ Poland holds a suspected Israeli agent wanted in Germany in connection with the 
 
 ##### Lanseria International Airport
 ### [Lanseria International Airport reopens after the removal of the wreckage of yesterday's emergency landing involving mainly Al Jazeera Sports broadcast staff on their way to cover the 2010 FIFA World Cup game between Algeria and Slovenia in Polokwane. ](/news/2010/06/14/lanseria-international-airport-reopens-after-the-removal-of-the-wreckage-of-yesterday-s-emergency-landing-involving-mainly-al-jazeera-sports.md)
-_Context: Lanseria International Airport, Polokwane, 2010 FIFA World Cup, Algeria, Al Jazeera Sports, Slovenia_
+_Context: Al Jazeera Sports, Algeria, Lanseria International Airport, 2010 FIFA World Cup, Slovenia, Polokwane_
 
 ##### Ted Kennedy
 ### [New files on American politician Ted Kennedy, which were previously secret, are released. ](/news/2010/06/14/new-files-on-american-politician-ted-kennedy-which-were-previously-secret-are-released.md)

@@ -9,7 +9,7 @@ Passengers on District line reported seeing a device and hearing a bang on a tub
 
 ##### Oldest living people
 ### [Jamaican Violet Mosse-Brown, the world's oldest person, dies in Montego Bay at age 117. ](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.md)
-_Context: world's oldest person, Montego Bay, Oldest living people, Violet Mosse-Brown_
+_Context: Montego Bay, Oldest living people, world's oldest person, Violet Mosse-Brown_
 
 ##### Economy of California
 ### [Key housing bills pass in California, the U.S. state with the highest number of people suffering from homelessness and poverty. ](/news/2017/09/15/key-housing-bills-pass-in-california-the-u-s-state-with-the-highest-number-of-people-suffering-from-homelessness-and-poverty.md)
@@ -17,11 +17,11 @@ The California Assembly passed a package of bills Thursday that aim to address t
 
 ##### Atlantic hurricanes
 ### [In the aftermath of Hurricane Irma, the island of Barbuda is fully depopulated for the first time in 300 years. ](/news/2017/09/15/in-the-aftermath-of-hurricane-irma-the-island-of-barbuda-is-fully-depopulated-for-the-first-time-in-300-years.md)
-_Context: Barbuda, Atlantic hurricanes, depopulated, Hurricane Irma_
+_Context: Atlantic hurricanes, Barbuda, Hurricane Irma, depopulated_
 
 ##### 2017 Pacific typhoon season
 ### [Typhoon Doksuri (Maring) hits central Vietnam killing one person and injuring ten. ](/news/2017/09/15/typhoon-doksuri-maring-hits-central-vietnam-killing-one-person-and-injuring-ten.md)
-_Context: central Vietnam, 2017 Pacific typhoon season_
+_Context: 2017 Pacific typhoon season, central Vietnam_
 
 ##### Crocodile attack
 ### [A journalist for the British newspaper "Financial Times" is killed by a crocodile in Sri Lanka. ](/news/2017/09/15/a-journalist-for-the-british-newspaper-financial-times-is-killed-by-a-crocodile-in-sri-lanka.md)
@@ -41,7 +41,7 @@ Demonstrators have clashed with police in St. Louis following the acquittal of e
 
 ##### Politics of Iceland
 ### [Prime Minister Bjarni Benediktsson is criticised after his father wrote a letter recommending that a convicted child molester be pardoned. The Bright Future party withdraws from the governing coalition, triggering its collapse. ](/news/2017/09/15/prime-minister-bjarni-benediktsson-is-criticised-after-his-father-wrote-a-letter-recommending-that-a-convicted-child-molester-be-pardoned-t.md)
-_Context: Prime Minister, Bjarni Benediktsson, Bright Future, Politics of Iceland_
+_Context: Bjarni Benediktsson, Bright Future, Prime Minister, Politics of Iceland_
 
 ##### Drug crackdown
 ### [Around 1,200 members of the Philippine National Police in the suburb of Caloocan are fired over allegations of crimes attributed to the police. ](/news/2017/09/15/around-1-200-members-of-the-philippine-national-police-in-the-suburb-of-caloocan-are-fired-over-allegations-of-crimes-attributed-to-the-poli.md)

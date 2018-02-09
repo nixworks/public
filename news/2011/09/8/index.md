@@ -5,7 +5,7 @@ Formats: [HTML](2011/09/8/index.html)  [JSON](2011/09/8/index.json)  [XML](2011/
 
 ##### Russia
 ### [Six people are killed and at least three injured in a series of raids by Russian forces on suspected militants in the North Caucasus. ](/news/2011/09/8/six-people-are-killed-and-at-least-three-injured-in-a-series-of-raids-by-russian-forces-on-suspected-militants-in-the-north-caucasus.md)
-_Context: Russia, North Caucasus_
+_Context: North Caucasus, Russia_
 
 ##### United States
 ### [United States counterterrorism officials investigate reports of a potential terrorist threat against either New York City or Washington DC, linked to the 10th anniversary of the September 11 attacks on Sunday. ](/news/2011/09/8/united-states-counterterrorism-officials-investigate-reports-of-a-potential-terrorist-threat-against-either-new-york-city-or-washington-dc.md)
@@ -29,7 +29,7 @@ Millions were left in the dark Thursday, but SDG&E said it was making progress.
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate causes heavy rain on Mexico's Atlantic Ocean coast. ](/news/2011/09/8/tropical-storm-nate-causes-heavy-rain-on-mexico-s-atlantic-ocean-coast.md)
-_Context: Mexico, Tropical Storm Nate, Atlantic Ocean_
+_Context: Tropical Storm Nate, Mexico, Atlantic Ocean_
 
 ##### Tuiloma Neroni Slade
 ### [Secretary General Tuiloma Neroni Slade is reappointed to a second, three-year term as head of the Pacific Islands Forum. ](/news/2011/09/8/secretary-general-tuiloma-neroni-slade-is-reappointed-to-a-second-three-year-term-as-head-of-the-pacific-islands-forum.md)
@@ -45,7 +45,7 @@ President Barack Obama plans to propose sparking job growth by injecting more th
 
 ##### President of Vietnam
 ### [Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. ](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.md)
-_Context: Vo Chi Cong, President of Vietnam, Ho Chi Minh City_
+_Context: Ho Chi Minh City, Vo Chi Cong, President of Vietnam_
 
 ## [Previous Day...](/news/2011/09/7/index.md)
 

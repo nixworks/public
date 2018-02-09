@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/6/index.html)  [JSON](2016/06/6/index.json)  [XML](2016/
 
 ##### Jordanian intelligence
 ### [Five people working for Jordanian intelligence are killed in an attack in a Palestinian Baqa'a refugee camp near Amman. ](/news/2016/06/6/five-people-working-for-jordanian-intelligence-are-killed-in-an-attack-in-a-palestinian-baqa-a-refugee-camp-near-amman.md)
-_Context: Jordanian intelligence, Baqa'a refugee camp, Amman_
+_Context: Jordanian intelligence, Amman, Baqa'a refugee camp_
 
 ##### Australian east coast low
 ### [Three bodies have been discovered in flood waters: two in the state of New South Wales and one in the Australian Capital Territory. Two people are missing in Tasmania. ](/news/2016/06/6/three-bodies-have-been-discovered-in-flood-waters-two-in-the-state-of-new-south-wales-and-one-in-the-australian-capital-territory-two-peop.md)
@@ -29,7 +29,7 @@ The testing of thousands of old police &quot;rape kits&quot; has led to more tha
 
 ##### Peruvian general election, 2016
 ### [With more than 92% of the vote counted, Pedro Pablo Kuczynski is ahead of Keiko Fujimori by just over 103,000 votes, 50.3 percent to 49.6 percent, in the electorate of 23 million citizens. Ballots of Peruvians living abroad will begin to arrive tonight. Mariano Cucho, the head of the electoral office, says the count may not be finalized until Thursday or Friday. ](/news/2016/06/6/with-more-than-92-of-the-vote-counted-pedro-pablo-kuczynski-is-ahead-of-keiko-fujimori-by-just-over-103-000-votes-50-3-percent-to-49-6-pe.md)
-_Context: Pedro Pablo Kuczynski, Peru, Peruvian general election, 2016, Keiko Fujimori_
+_Context: Pedro Pablo Kuczynski, Keiko Fujimori, Peru, Peruvian general election, 2016_
 
 ##### Haitian presidential election, 2015-16
 ### [Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-voting-additional-measures-will-be-put-in.md)
@@ -37,7 +37,7 @@ _Context: Haiti, Haitian presidential election, 2015-16_
 
 ##### Democratic Party presidential primaries, 2016
 ### [The Associated Press reports that Hillary Clinton has the support of enough delegates to secure the Democratic Party nomination. Since delegates do not vote until the convention though, she is the presumptive nominee of the party. ](/news/2016/06/6/the-associated-press-reports-that-hillary-clinton-has-the-support-of-enough-delegates-to-secure-the-democratic-party-nomination-since-deleg.md)
-_Context: Hillary Clinton, Democrat, Democratic Party presidential primaries, 2016, Associated Press, presumptive nominee_
+_Context: presumptive nominee, Democrat, Hillary Clinton, Democratic Party presidential primaries, 2016, Associated Press_
 
 ## [Previous Day...](/news/2016/06/5/index.md)
 

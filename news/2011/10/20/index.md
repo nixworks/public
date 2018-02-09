@@ -13,7 +13,7 @@ The Basque separatist group Eta announces to the BBC a &quot;definitive cessatio
 
 ##### Government of Germany
 ### [The government of Germany states that national GDP growth in 2012 will be significantly lower than initially predicted, due to the eurozone's ongoing economic crisis. ](/news/2011/10/20/the-government-of-germany-states-that-national-gdp-growth-in-2012-will-be-significantly-lower-than-initially-predicted-due-to-the-eurozone.md)
-_Context: escalating economic crisis, eurozone, GDP, government of Germany_
+_Context: eurozone, GDP, escalating economic crisis, government of Germany_
 
 ##### Japan
 ### [Japanese optical and imaging equipment company Olympus faces a possible credit downgrade and plunging share prices, due to a spreading scandal over the recent dismissal of its chief executive, Michael Woodford. ](/news/2011/10/20/japanese-optical-and-imaging-equipment-company-olympus-faces-a-possible-credit-downgrade-and-plunging-share-prices-due-to-a-spreading-scand.md)
@@ -21,11 +21,11 @@ Scandal-hit Olympus Corp (7733.T) came under pressure from its biggest sharehold
 
 ##### Prime Minister
 ### [The Prime Minister of Thailand, Yingluck Shinawatra, admits that it is impossible to protect all of the capital Bangkok from ongoing nationwide flooding, describing the floods as a "national crisis". ](/news/2011/10/20/the-prime-minister-of-thailand-yingluck-shinawatra-admits-that-it-is-impossible-to-protect-all-of-the-capital-bangkok-from-ongoing-nationw.md)
-_Context: Bangkok, floods, Yingluck Shinawatra, Prime Minister_
+_Context: Prime Minister, floods, Yingluck Shinawatra, Bangkok_
 
 ##### Diving support vessel
 ### [The diving support vessel DSV Koosha 1 capsizes off the coast of Iran, resulting in the deaths of six commercial divers from India who are trapped in the vessel's diving chamber when the boat sinks. ](/news/2011/10/20/the-diving-support-vessel-dsv-koosha-1-capsizes-off-the-coast-of-iran-resulting-in-the-deaths-of-six-commercial-divers-from-india-who-are-t.md)
-_Context: diving chamber, diving support vessel, Iran, India, commercial diver, DSV Koosha 1_
+_Context: diving support vessel, India, DSV Koosha 1, diving chamber, commercial diver, Iran_
 
 ##### Greece
 ### [A man is killed and at least 74 people are injured in major riots in the Greek capital Athens on the second day of a nationwide general strike, as Greeks protest in their thousands against new austerity measures intended to alleviate the country's ongoing debt crisis. ](/news/2011/10/20/a-man-is-killed-and-at-least-74-people-are-injured-in-major-riots-in-the-greek-capital-athens-on-the-second-day-of-a-nationwide-general-stri.md)
@@ -33,7 +33,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Gilad Shalit prisoner exchange
 ### [Gilad Shalit prisoner exchange: The leading commander of the military wing of Hamas, Ahmed Jabari, confirms in an interview with the Saudi Arabian newspaper "Al-Hayat" that the prisoners released in exchange for captured Israeli Gilad Shalit were collectively responsible for the deaths of 569 Israeli civilians. ](/news/2011/10/20/gilad-shalit-prisoner-exchange-the-leading-commander-of-the-military-wing-of-hamas-ahmed-jabari-confirms-in-an-interview-with-the-saudi-a.md)
-_Context: Israel, Gilad Shalit prisoner exchange, Hamas, Saudi Arabia, Ahmed Jabari, Al-Hayat_
+_Context: Hamas, Al-Hayat, Ahmed Jabari, Israel, Saudi Arabia, Gilad Shalit prisoner exchange_
 
 ##### Parliament of New Zealand
 ### [The Parliament of New Zealand is dissolved in preparation for a general election on November 26. ](/news/2011/10/20/the-parliament-of-new-zealand-is-dissolved-in-preparation-for-a-general-election-on-november-26.md)
@@ -49,7 +49,7 @@ The Greek parliament passes a package of austerity measures despite two days of 
 
 ##### American Jobs Act
 ### [The American Jobs Act fails to garner the necessary sixty votes in the United States Senate to proceed. ](/news/2011/10/20/the-american-jobs-act-fails-to-garner-the-necessary-sixty-votes-in-the-united-states-senate-to-proceed.md)
-_Context: American Jobs Act, United States Senate_
+_Context: United States Senate, American Jobs Act_
 
 ## [Previous Day...](/news/2011/10/19/index.md)
 

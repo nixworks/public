@@ -9,7 +9,7 @@ Syrian President Bashar al-Assad delivers a rare televised speech, denouncing th
 
 ##### Indian Army
 ### [A cross-border raid conducted by Indian troops in the disputed Kashmir region results in the death of one Pakistani soldier and another critically wounded, according to Pakistani reports. ](/news/2013/01/6/a-cross-border-raid-conducted-by-indian-troops-in-the-disputed-kashmir-region-results-in-the-death-of-one-pakistani-soldier-and-another-crit.md)
-_Context: Pakistan Army, Indian Army, Kashmir, Kashmir conflict_
+_Context: Kashmir, Indian Army, Pakistan Army, Kashmir conflict_
 
 ##### Drones launch
 ### [A drone attack conducted by the United States kills at least ten people (suspected militants) in South Waziristan, Pakistan. ](/news/2013/01/6/a-drone-attack-conducted-by-the-united-states-kills-at-least-ten-people-suspected-militants-in-south-waziristan-pakistan.md)
@@ -21,7 +21,7 @@ _Context: Laiza, Kachin_
 
 ##### Spin Boldak
 ### [Suicide bombers kill four in an attack in Spin Boldak, Afghanistan. ](/news/2013/01/6/suicide-bombers-kill-four-in-an-attack-in-spin-boldak-afghanistan.md)
-_Context: Afghanistan, Spin Boldak_
+_Context: Spin Boldak, Afghanistan_
 
 ##### South Africa
 ### [South Africa announces it will send 400 more soldiers to the Central African Republic in an effort to assist the current regime, which faces a potential attack by the Seleka rebel coalition on the capital. ](/news/2013/01/6/south-africa-announces-it-will-send-400-more-soldiers-to-the-central-african-republic-in-an-effort-to-assist-the-current-regime-which-faces.md)
@@ -37,7 +37,7 @@ _Context: Gerard Helders, Minister of Colonial Affairs_
 
 ##### Apple Inc.
 ### [At Apple, applications developers say they gave Apple plenty of warning about issues with its iOS maps issues. ](/news/2013/01/6/at-apple-applications-developers-say-they-gave-apple-plenty-of-warning-about-issues-with-its-ios-maps-issues.md)
-_Context: iOS, developers, Apple Inc._
+_Context: developers, Apple Inc., iOS_
 
 ## [Previous Day...](/news/2013/01/5/index.md)
 

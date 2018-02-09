@@ -13,15 +13,15 @@ Saleh supporter killed in Hadramaut, while anti-government protester shot in pol
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Unrest continues in Cote d'Ivoire as the internationally-recognised President Alassane Ouattara heads to a mediation summit. ](/news/2011/03/9/2010a2011-ivorian-crisis-unrest-continues-in-ca-te-d-ivoire-as-the-internationally-recognised-president-alassane-ouattara-heads-to-a-medi.md)
-_Context: 2010-2011 Ivorian crisis, Cote d'Ivoire, Alassane Ouattara_
+_Context: 2010-2011 Ivorian crisis, Alassane Ouattara, Cote d'Ivoire_
 
 ##### Uganda
 ### [Police in Uganda fire tear gas at demonstrators protesting the win of incumbent President Yoweri Museveni in elections. ](/news/2011/03/9/police-in-uganda-fire-tear-gas-at-demonstrators-protesting-the-win-of-incumbent-president-yoweri-museveni-in-elections.md)
-_Context: elections, Yoweri Museveni, President, Uganda_
+_Context: Uganda, President, elections, Yoweri Museveni_
 
 ##### Christian
 ### [Clashes between Christian Copt and Muslims in the Egyptian capital Cairo kill 13 people and injure 140. ](/news/2011/03/9/clashes-between-christian-copt-and-muslims-in-the-egyptian-capital-cairo-kill-13-people-and-injure-140.md)
-_Context: Muslim, Christian, Copt, Cairo, Egypt_
+_Context: Egypt, Christian, Cairo, Copt, Muslim_
 
 ##### United Nations
 ### [According to the United Nations, Afghan civilian deaths increased by 15% in 2010, to 2777. ](/news/2011/03/9/according-to-the-united-nations-afghan-civilian-deaths-increased-by-15-in-2010-to-2777.md)
@@ -37,15 +37,15 @@ Zara Phillips and her rugby player fiance Mike Tindall are to be married at the 
 
 ##### Canadian
 ### [A government-sponsored study in Canada concludes that heavy metals and polycyclic aromatic compounds found in the Athabasca River downstream of oil sands plants, are not a natural occurrence but pollution resulting from those plants. ](/news/2011/03/9/a-government-sponsored-study-in-canada-concludes-that-heavy-metals-and-polycyclic-aromatic-compounds-found-in-the-athabasca-river-downstream.md)
-_Context: Canadian, oil sands, Athabasca River, aromatic, polycyclic_
+_Context: polycyclic, aromatic, Canadian, Athabasca River, oil sands_
 
 ##### Tsunami
 ### [A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. ](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.md)
-_Context: tsunami, Japan, earthquake, Honshu Island_
+_Context: Honshu Island, earthquake, tsunami, Japan_
 
 ##### New Jersey Governor
 ### [The Governor of the US state of New Jersey, Chris Christie declares a state of emergency along the Passaic and Delaware Rivers and Bound Brook in Somerset County in order to prepare for anticipated floods later in the week. ](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.md)
-_Context: New Jersey, Bound Brook, state of emergency, Somerset County, New Jersey Governor, Chris Christie, Passaic, Delaware River_
+_Context: Somerset County, state of emergency, Delaware River, Bound Brook, Passaic, New Jersey, New Jersey Governor, Chris Christie_
 
 ##### Antarctica
 ### [Ice loss from Antarctica and Greenland has accelerated over the past 20 years, according to new research, and will soon become the biggest driver of sea level rise. ](/news/2011/03/9/ice-loss-from-antarctica-and-greenland-has-accelerated-over-the-past-20-years-according-to-new-research-and-will-soon-become-the-biggest-d.md)
@@ -53,11 +53,11 @@ Ice loss from Antarctica and Greenland has accelerated over the last 20 years, r
 
 ##### North Korea
 ### [North Korea posts a rare interview with the families of defectors urging them to return home. ](/news/2011/03/9/north-korea-posts-a-rare-interview-with-the-families-of-defectors-urging-them-to-return-home.md)
-_Context: defects, North Korea_
+_Context: North Korea, defects_
 
 ##### Taiwan
 ### [Taiwan says it will end restrictions on Philippine workers imposed after a row over the deportation of 14 Taiwanese to mainland China. ](/news/2011/03/9/taiwan-says-it-will-end-restrictions-on-philippine-workers-imposed-after-a-row-over-the-deportation-of-14-taiwanese-to-mainland-china.md)
-_Context: China, Philippine, mainland China, Taiwan_
+_Context: Taiwan, mainland China, China, Philippine_
 
 ##### Denmark
 ### [Denmark upgrades its relation with Palestine to a mission, the second highest rank, following many other western nations recent upgrades.](/news/2011/03/9/denmark-upgrades-its-relation-with-palestine-to-a-mission-the-second-highest-rank-following-many-other-western-nations-recent-upgrades.md)
@@ -65,11 +65,11 @@ _Context: Palestine, Denmark, its relation_
 
 ##### Malaysia
 ### [Malaysia bans Shi'ites from promoting their faith to other Muslims, but remain able to practice it themselves. ](/news/2011/03/9/malaysia-bans-shi-ites-from-promoting-their-faith-to-other-muslims-but-remain-able-to-practice-it-themselves.md)
-_Context: Shia, Malaysia, Muslim_
+_Context: Muslim, Malaysia, Shia_
 
 ##### Judy Moran
 ### [Judy Moran, the matriarch of the Australian Moran crime family, is convicted of the murder of her brother-in-law Des Moran in Melbourne, Victoria. ](/news/2011/03/9/judy-moran-the-matriarch-of-the-australian-moran-crime-family-is-convicted-of-the-murder-of-her-brother-in-law-des-moran-in-melbourne-vic.md)
-_Context: Victoria, Judy Moran, Des "Tuppence" Moran, Australia, Melbourne_
+_Context: Judy Moran, Victoria, Des "Tuppence" Moran, Melbourne, Australia_
 
 ##### Federal grand jury
 ### [A Federal grand jury in the US city of Lubbock, Texas indicts Khalid Aldawsari on one charge of Attempted Use of a Weapon of Mass Destruction. ](/news/2011/03/9/a-federal-grand-jury-in-the-us-city-of-lubbock-texas-indicts-khalid-aldawsari-on-one-charge-of-attempted-use-of-a-weapon-of-mass-destructio.md)
@@ -101,7 +101,7 @@ Fine Gael leader Enda Kenny has been elected Taoiseach of the 31st D&aacute;il a
 
 ##### Canadian government
 ### [The minority government led by Prime Minister Stephen Harper is reprimanded by the Canadian House of Commons for failing to produce documents but avoids a no confidence motion. ](/news/2011/03/9/the-minority-government-led-by-prime-minister-stephen-harper-is-reprimanded-by-the-canadian-house-of-commons-for-failing-to-produce-document.md)
-_Context: Canadian government, Canadian House of Commons, Stephen Harper, no confidence motion, Prime Minister of Canada_
+_Context: Canadian House of Commons, Stephen Harper, Prime Minister of Canada, Canadian government, no confidence motion_
 
 ##### 2011 Wisconsin budget protests
 ### [Republicans in the Wisconsin Senate vote to remove collective bargaining rights from state employees separate from the budget to end the impasse over the state budget with no Democrat Senators present. ](/news/2011/03/9/republicans-in-the-wisconsin-senate-vote-to-remove-collective-bargaining-rights-from-state-employees-separate-from-the-budget-to-end-the-imp.md)
@@ -109,23 +109,23 @@ Wisconsin Gov. Scott Walker signed a bill on Friday that strips public workers o
 
 ##### Michigan State Senator
 ### [The Senate in the US state of Michigan approves a proposal to allow state-appointed emergency managers authority to break labor deals to turn around failing schools and cities most notably in Detroit. ](/news/2011/03/9/the-senate-in-the-us-state-of-michigan-approves-a-proposal-to-allow-state-appointed-emergency-managers-authority-to-break-labor-deals-to-tur.md)
-_Context: Detroit, Michigan State Senator, Mich._
+_Context: Mich., Michigan State Senator, Detroit_
 
 ##### King Mohammed VI of Morocco
 ### [King Mohammed VI of Morocco promises ""comprehensive constitutional reform" to expand individual and collective liberties in a televised address to the nation. ](/news/2011/03/9/king-mohammed-vi-of-morocco-promises-comprehensive-constitutional-reform-to-expand-individual-and-collective-liberties-in-a-televised-add.md)
-_Context: King Mohammed VI of Morocco, Morocco_
+_Context: Morocco, King Mohammed VI of Morocco_
 
 ##### Governor of Illinois
 ### [The Governor of the US state of Illinois, Pat Quinn, signs a law banning the death penalty and commutes the sentence of 15 death row prisoners to life without parole. ](/news/2011/03/9/the-governor-of-the-us-state-of-illinois-pat-quinn-signs-a-law-banning-the-death-penalty-and-commutes-the-sentence-of-15-death-row-prisone.md)
-_Context: Governor of Illinois, death row, Pat Quinn, sentenced to death, Illinois_
+_Context: death row, sentenced to death, Pat Quinn, Illinois, Governor of Illinois_
 
 ##### Space Shuttle
 ### [The Space Shuttle "Discovery" makes its final landing at the Kennedy Space Center in Florida, after 27 years of service. ](/news/2011/03/9/the-space-shuttle-discovery-makes-its-final-landing-at-the-kennedy-space-center-in-florida-after-27-years-of-service.md)
-_Context: Discovery, Kennedy Space Center, the state, Space Shuttle_
+_Context: Discovery, the state, Kennedy Space Center, Space Shuttle_
 
 ##### United States
 ### [The United States Food and Drug Administration approves the use of the drug Belimumab (Benlysta) to treat lupus, the first drug to be approved for this purpose in 56 years. ](/news/2011/03/9/the-united-states-food-and-drug-administration-approves-the-use-of-the-drug-belimumab-benlysta-to-treat-lupus-the-first-drug-to-be-approv.md)
-_Context: Belimumab, Food and Drug Administration, United States, lupus_
+_Context: Belimumab, Food and Drug Administration, lupus, United States_
 
 ## [Previous Day...](/news/2011/03/8/index.md)
 

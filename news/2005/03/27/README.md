@@ -9,7 +9,7 @@ _Context: Christian, Earth, Easter_
 
 ##### Easter
 ### [ In comments posted in a German newspaper Easter Sunday, Chancellor Gerhard Schrder expressed the hope that German-based companies will stop outsourcing, that they'll invest in employment opportunities within Germany. German companies have long complained of the stifling labor-regulatory-tax climate at home. ](/news/2005/03/27/in-comments-posted-in-a-german-newspaper-easter-sunday-chancellor-gerhard-schroder-expressed-the-hope-that-german-based-companies-will-sto.md)
-_Context: Gerhard Schrder, Easter_
+_Context: Easter, Gerhard Schrder_
 
 ## [Previous Day...](/news/2005/03/26/index.md)
 

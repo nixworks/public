@@ -9,31 +9,31 @@ Both the Ukrainian Army and Russian-backed militants said that their soldiers we
 
 ##### Dissident Irish Republican campaign
 ### [Police Service of Northern Ireland received a phone call in the early hours allegedly from a dissident republican group claiming to have planted an explosive in a Curryneirin neighborhood outside Derry, Northern Ireland. Police evacuated 12 homes before finding a device, describing it as "'It's a bomb and designed to kill".](/news/2015/02/17/police-service-of-northern-ireland-received-a-phone-call-in-the-early-hours-allegedly-from-a-dissident-republican-group-claiming-to-have-pla.md)
-_Context: dissident republican, Dissident Irish Republican campaign, Police Service of Northern Ireland, Derry, Northern Ireland_
+_Context: Derry, dissident republican, Dissident Irish Republican campaign, Police Service of Northern Ireland, Northern Ireland_
 
 ##### Okba Ibn Nafaa
 ### [Around 20 Okba Ibn Nafaa Islamist militants attack a checkpoint in Tunisia's central Kasserine region, killing four police officers and stealing their weapons. ](/news/2015/02/17/around-20-okba-ibn-nafaa-islamist-militants-attack-a-checkpoint-in-tunisia-s-central-kasserine-region-killing-four-police-officers-and-stea.md)
-_Context: Okba Ibn Nafaa, Tunisia, Kasserine region_
+_Context: Kasserine region, Okba Ibn Nafaa, Tunisia_
 
 ##### South Korea
 ### [South Korean company Samsung Electronics says that they have $56 billion in cash and plan to use some of it for mergers and acquisitions. ](/news/2015/02/17/south-korean-company-samsung-electronics-says-that-they-have-56-billion-in-cash-and-plan-to-use-some-of-it-for-mergers-and-acquisitions.md)
-_Context: $, mergers and acquisitions, Samsung, South Korea_
+_Context: mergers and acquisitions, South Korea, $, Samsung_
 
 ##### Carnival
 ### [Carnival festivities are cancelled after at least twenty people are killed in a float accident in Port-au-Prince. ](/news/2015/02/17/carnival-festivities-are-cancelled-after-at-least-twenty-people-are-killed-in-a-float-accident-in-port-au-prince.md)
-_Context: Port-au-Prince, killed, Carnival, float_
+_Context: killed, Port-au-Prince, float, Carnival_
 
 ##### North Korea
 ### [North Korea says that it will respond "very strongly" to a conference held in Washington, D.C. about human rights abuses. ](/news/2015/02/17/north-korea-says-that-it-will-respond-very-strongly-to-a-conference-held-in-washington-d-c-about-human-rights-abuses.md)
-_Context: North Korea, human rights, Washington, D.C._
+_Context: North Korea, Washington, D.C., human rights_
 
 ##### China
 ### [Chinese prosecutors say that they are investigating former top Communist Party official Su Rong for alleged corruption. ](/news/2015/02/17/chinese-prosecutors-say-that-they-are-investigating-former-top-communist-party-official-su-rong-for-alleged-corruption.md)
-_Context: Su Rong, Communist Party of China, China_
+_Context: Su Rong, China, Communist Party of China_
 
 ##### Guangdong
 ### [Chinese authorities also announce the indictment of former Guangdong official Zhu Mingguo, former Jinan CPC party chief Wang Min, and former Taiyuan party chief Chen Chuanping, all on charges of corruption. ](/news/2015/02/17/chinese-authorities-also-announce-the-indictment-of-former-guangdong-official-zhu-mingguo-former-jinan-cpc-party-chief-wang-min-and-former.md)
-_Context: Guangdong, Wang Min, Zhu Mingguo, Chen Chuanping, CPC party chief, Jinan, Taiyuan_
+_Context: Zhu Mingguo, Guangdong, Jinan, CPC party chief, Wang Min, Chen Chuanping, Taiyuan_
 
 ## [Previous Day...](/news/2015/02/16/index.md)
 

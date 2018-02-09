@@ -25,7 +25,7 @@ A ship with supplies for Gaza will dock in Egypt, officials say, following press
 
 ##### Israel
 ### [A new bill is introduced in the Israeli Knesset that would force Haredi Jewish schools to teach core subjects such as mathematics, science, English, and civics, or lose state funding. ](/news/2010/07/10/a-new-bill-is-introduced-in-the-israeli-knesset-that-would-force-haredi-jewish-schools-to-teach-core-subjects-such-as-mathematics-science.md)
-_Context: parliament in Israel, Israel, ultra-orthodox_
+_Context: Israel, parliament in Israel, ultra-orthodox_
 
 ##### Demonstrate
 ### [Between 1.1 and 1.5 million people, according to organisers, and 56000 demonstrators, according to spanish protesters-counting specialized company "Lynce", demonstrate in central Barcelona demanding greater autonomy for Catalonia within Spain. ](/news/2010/07/10/between-1-1-and-1-5-million-people-according-to-organisers-and-56000-demonstrators-according-to-spanish-protesters-counting-specialized-c.md)
@@ -33,11 +33,11 @@ More than a million people take part in a rally in north-eastern Spain seeking g
 
 ##### National League for Democracy
 ### [A breakaway group from the National League for Democracy in Burma registers to participate in the general election later this year. ](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.md)
-_Context: National League for Democracy, general elections, Burma_
+_Context: Burma, general elections, National League for Democracy_
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. ](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.md)
-_Context: Naoto Kan, Prime Minister of Japan, loses its majority, Japan_
+_Context: Prime Minister of Japan, Naoto Kan, loses its majority, Japan_
 
 ##### North Korea
 ### [North Korea offers to return to the six-party talks over its nuclear weapons programme. ](/news/2010/07/10/north-korea-offers-to-return-to-the-six-party-talks-over-its-nuclear-weapons-programme.md)
@@ -61,7 +61,7 @@ Underwater robots successfully remove a leaking cap as BP tries again to halt th
 
 ##### 2010 FIFA World Cup
 ### [2010 FIFA World Cup: Germany defeats Uruguay 3-2 to finish third. ](/news/2010/07/10/2010-fifa-world-cup-germany-defeats-uruguay-3-2-to-finish-third.md)
-_Context: Germany, 2010 FIFA World Cup, third, Uruguay_
+_Context: 2010 FIFA World Cup, Germany, third, Uruguay_
 
 ##### UEFA
 ### [UEFA President Michel Platini is released from hospital. ](/news/2010/07/10/uefa-president-michel-platini-is-released-from-hospital.md)

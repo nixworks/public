@@ -5,7 +5,7 @@ Formats: [HTML](2008/05/28/index.html)  [JSON](2008/05/28/index.json)  [XML](200
 
 ##### Leaning Tower
 ### [ Engineers announce that the Leaning Tower of Pisa has been stabilized for the first time, and will remain stable for 200 more years. ](/news/2008/05/28/engineers-announce-that-the-leaning-tower-of-pisa-has-been-stabilized-for-the-first-time-and-will-remain-stable-for-200-more-years.md)
-_Context: Leaning Tower, Pisa_
+_Context: Pisa, Leaning Tower_
 
 ##### Materpiscis
 ### [ Australian paleontologists discover "Materpiscis", a 380-million-year-old placoderm fish which is the earliest known animal to bear live young. ](/news/2008/05/28/australian-paleontologists-discover-materpiscis-a-380-million-year-old-placoderm-fish-which-is-the-earliest-known-animal-to-bear-live-yo.md)
@@ -21,15 +21,15 @@ An international conference being held in Dublin has accepted a draft convention
 
 ##### Ehud Barak
 ### [ Ehud Barak, the Defense Minister of Israel and Leader of the Labor Party, calls for the resignation of the Prime Minister of Israel Ehud Olmert to step aside to face corruption allegations. ](/news/2008/05/28/ehud-barak-the-defense-minister-of-israel-and-leader-of-the-labor-party-calls-for-the-resignation-of-the-prime-minister-of-israel-ehud-ol.md)
-_Context: Israeli Prime Minister, Ehud Olmert, Defense Minister, Ehud Barak, corruption, Labor Party_
+_Context: Labor Party, Israeli Prime Minister, Ehud Barak, Ehud Olmert, Defense Minister, corruption_
 
 ##### Majlis of Iran
 ### [ The Majlis of Iran elects Ali Larijani as its new Speaker. ](/news/2008/05/28/the-majlis-of-iran-elects-ali-larijani-as-its-new-speaker.md)
-_Context: Speaker, Majlis of Iran, Ali Larijani_
+_Context: Ali Larijani, Speaker, Majlis of Iran_
 
 ##### Nepal
 ### [ The Nepalese Constituent Assembly meets for the first time since the Nepalese Constituent Assembly election, 2008 with the Assembly expected to establish a new Constitution of Nepal. ](/news/2008/05/28/the-nepalese-constituent-assembly-meets-for-the-first-time-since-the-nepalese-constituent-assembly-election-2008-with-the-assembly-expecte.md)
-_Context: Constitution of Nepal, Nepal, Nepalese Constituent Assembly election, 2008, Constituent Assembly_
+_Context: Nepalese Constituent Assembly election, 2008, Nepal, Constitution of Nepal, Constituent Assembly_
 
 ## [Previous Day...](/news/2008/05/27/index.md)
 

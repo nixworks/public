@@ -21,7 +21,7 @@ THE Australian car industry is all but dead and South Australia is in shock foll
 
 ##### Stanley Fischer
 ### [Sources indicate that Stanley Fischer, former head of the central bank of Israel, is the front runner to become the new Vice Chair of the U.S. Federal Reserve as Janet Yellen ascends to the Chair. ](/news/2013/12/11/sources-indicate-that-stanley-fischer-former-head-of-the-central-bank-of-israel-is-the-front-runner-to-become-the-new-vice-chair-of-the-u.md)
-_Context: Israel, Janet Yellen, Federal Reserve, Stanley Fischer_
+_Context: Janet Yellen, Federal Reserve, Israel, Stanley Fischer_
 
 ##### Bubonic plague
 ### [Bubonic plague kills 20 people in a Madagascar village. ](/news/2013/12/11/bubonic-plague-kills-20-people-in-a-madagascar-village.md)
@@ -29,11 +29,11 @@ Twenty people have died following a deadly outbreak of the bubonic plague, medic
 
 ##### National Security Agency
 ### [The U.S. National Security Agency is secretly piggybacking on the tools that enable internet advertisers to track consumers, such tools are known as cookies; specifically, Google cookies are being tracked in order to determine targets for hacking. ](/news/2013/12/11/the-u-s-national-security-agency-is-secretly-piggybacking-on-the-tools-that-enable-internet-advertisers-to-track-consumers-such-tools-are.md)
-_Context: cookies, National Security Agency, Google_
+_Context: National Security Agency, cookies, Google_
 
 ##### Supreme Court of India
 ### [The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md)
-_Context: Supreme Court of India, homosexuality, Indian penal code_
+_Context: Indian penal code, Supreme Court of India, homosexuality_
 
 ##### Revenge porn
 ### [A revenge porn website is shutdown in San Diego after the owner, Kevin Christopher Bollaert, is accused of extorting money from one of its victims. ](/news/2013/12/11/a-revenge-porn-website-is-shutdown-in-san-diego-after-the-owner-kevin-christopher-bollaert-is-accused-of-extorting-money-from-one-of-its-v.md)

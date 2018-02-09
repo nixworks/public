@@ -9,7 +9,7 @@ CBS News correspondent David Martin reports Syrian regime vehicles have violated
 
 ##### Huwara
 ### [In a shooting incident near Huwara in the West Bank, a mob of some 200 Arabs hurl stones and rocks toward an Israeli car and try to lynch the driver. The Israeli driver fires his weapon, killing one Palestinian. ](/news/2017/05/18/in-a-shooting-incident-near-huwara-in-the-west-bank-a-mob-of-some-200-arabs-hurl-stones-and-rocks-toward-an-israeli-car-and-try-to-lynch-th.md)
-_Context: West Bank, hurl stones and rocks, lynch, Huwara_
+_Context: Huwara, lynch, hurl stones and rocks, West Bank_
 
 ##### Roger Ailes
 ### [Roger Ailes, the former Chairman and founding CEO of Fox News, dies at the age of 77. ](/news/2017/05/18/roger-ailes-the-former-chairman-and-founding-ceo-of-fox-news-dies-at-the-age-of-77.md)
@@ -17,7 +17,7 @@ _Context: Roger Ailes, Fox News_
 
 ##### Chris Cornell
 ### [Chris Cornell, the lead vocalist for the Seattle rock band Soundgarden, dies after a concert at the age of 52. ](/news/2017/05/18/chris-cornell-the-lead-vocalist-for-the-seattle-rock-band-soundgarden-dies-after-a-concert-at-the-age-of-52.md)
-_Context: Chris Cornell, Soundgarden_
+_Context: Soundgarden, Chris Cornell_
 
 ##### Pemberton Music Festival
 ### [The 2017 season of the Pemberton Music Festival, a prominent music festival scheduled to occur July 13-16 in the Canadian city of Pemberton, British Columbia, is cancelled following declaration of bankruptcy by the organizers. ](/news/2017/05/18/the-2017-season-of-the-pemberton-music-festival-a-prominent-music-festival-scheduled-to-occur-july-13a16-in-the-canadian-city-of-pemberto.md)

@@ -9,39 +9,39 @@ The Organization of American States lifted its 47-year suspension of Cuba on Wed
 
 ##### Labour Party
 ### [ Labour Party Members of the United Kingdom's Parliament circulate an e-mail that requests Prime Minister Gordon Brown's resignation. ](/news/2009/06/3/labour-party-members-of-the-united-kingdom-s-parliament-circulate-an-e-mail-that-requests-prime-minister-gordon-brown-s-resignation.md)
-_Context: Gordon Brown, MP, United Kingdom, e-mail, Labour Party, Parliament, Prime Minister_
+_Context: Parliament, MP, e-mail, Prime Minister, United Kingdom, Gordon Brown, Labour Party_
 
 ##### Remotely operated vehicle
 ### [ The remotely operated vehicle "Nereus" reaches the Challenger Deep in the Pacific Ocean's Mariana Trench. ](/news/2009/06/3/the-remotely-operated-vehicle-nereus-reaches-the-challenger-deep-in-the-pacific-ocean-s-mariana-trench.md)
-_Context: Nereus, Mariana Trench, Challenger Deep, remotely operated vehicle, South Pacific Ocean_
+_Context: Challenger Deep, Nereus, Mariana Trench, remotely operated vehicle, South Pacific Ocean_
 
 ##### India
 ### [ Indian Member of Parliament Meira Kumar becomes the first female Speaker of the House of the People. ](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.md)
-_Context: becomes, Meira Kumar, Lok Sabha, Parliament of India, India, MP, Speaker_
+_Context: Speaker, becomes, Parliament of India, India, Lok Sabha, Meira Kumar, MP_
 
 ##### President
 ### [ President Jacob Zuma vows to create 500,000 jobs through 2009 in South Africa's State of the Nation Address. ](/news/2009/06/3/president-jacob-zuma-vows-to-create-500-000-jobs-through-2009-in-south-africa-s-state-of-the-nation-address.md)
-_Context: President, Jacob Zuma, 2009, State of the Nation Address, South Africa_
+_Context: South Africa, State of the Nation Address, Jacob Zuma, 2009, President_
 
 ##### Nigeria
 ### [ The Nigerian government recaptures 130 of 150 inmates who escaped from a prison in Enugu. ](/news/2009/06/3/the-nigerian-government-recaptures-130-of-150-inmates-who-escaped-from-a-prison-in-enugu.md)
-_Context: Politics of Nigeria, Enugu, escape, Nigeria_
+_Context: Nigeria, escape, Politics of Nigeria, Enugu_
 
 ##### Madagascar
 ### [ Former Malagasy President Marc Ravalomanana is sentenced "in absentia" to incarceration until 2013 for misconduct. ](/news/2009/06/3/former-malagasy-president-marc-ravalomanana-is-sentenced-in-absentia-to-incarceration-until-2013-for-misconduct.md)
-_Context: political crisis, Marc Ravalomanana, 2013, Madagascar, incarceration, President, misconduct in office, in absentia_
+_Context: Madagascar, political crisis, incarceration, misconduct in office, 2013, President, in absentia, Marc Ravalomanana_
 
 ##### United States
 ### [ American author Marilynne Robinson wins the Orange Prize for Fiction for her novel "Home". ](/news/2009/06/3/american-author-marilynne-robinson-wins-the-orange-prize-for-fiction-for-her-novel-home.md)
-_Context: author, novel, Orange Prize for Fiction, Marilynne Robinson, United States, Home_
+_Context: Orange Prize for Fiction, Home, Marilynne Robinson, novel, United States, author_
 
 ##### U.S. state
 ### [ The U.S. state of New Hampshire legalizes same-sex marriage. ](/news/2009/06/3/the-u-s-state-of-new-hampshire-legalizes-same-sex-marriage.md)
-_Context: same-sex marriage, U.S. state, legalizes, New Hampshire_
+_Context: U.S. state, same-sex marriage, legalizes, New Hampshire_
 
 ##### Al-Qaeda
 ### [ The al-Qaeda Organization in the Islamic Maghreb executes British hostage Edwin Dwyer in the Sahara. ](/news/2009/06/3/the-al-qaeda-organization-in-the-islamic-maghreb-executes-british-hostage-edwin-dwyer-in-the-sahara.md)
-_Context: United Kingdom, Sahara, al-Qaeda, Maghreb, Al Qaeda in the Islamic Maghreb, Islam, hostage, Insurgency in the Maghreb (2002-present)_
+_Context: Al Qaeda in the Islamic Maghreb, al-Qaeda, United Kingdom, hostage, Insurgency in the Maghreb (2002-present), Maghreb, Islam, Sahara_
 
 ## [Previous Day...](/news/2009/06/2/index.md)
 

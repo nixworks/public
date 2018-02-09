@@ -5,11 +5,11 @@ Formats: [HTML](2006/12/23/index.html)  [JSON](2006/12/23/index.json)  [XML](200
 
 ##### UN Security Council
 ### [ The UN Security Council unanimously adopts Resolution 1737, sanctioning Iran for its nuclear program. ](/news/2006/12/23/the-un-security-council-unanimously-adopts-resolution-1737-sanctioning-iran-for-its-nuclear-program.md)
-_Context: Resolution 1737, Iran, UN Security Council_
+_Context: Resolution 1737, UN Security Council, Iran_
 
 ##### U.S. military
 ### [ The U.S. military reports that top Taliban military commander Mullah Akhtar Mohammad Osmani was killed on Tuesday by a U.S. airstrike while traveling by vehicle in a deserted area in the southern Afghanistan province of Helmand. Taliban spokesmen deny he is dead. ](/news/2006/12/23/the-u-s-military-reports-that-top-taliban-military-commander-mullah-akhtar-mohammad-osmani-was-killed-on-tuesday-by-a-u-s-airstrike-while.md)
-_Context: Helmand Province, Mullah Akhtar Mohammad Osmani, airstrike, U.S. military, Taliban, Afghanistan_
+_Context: Taliban, U.S. military, Mullah Akhtar Mohammad Osmani, Afghanistan, airstrike, Helmand Province_
 
 ## [Previous Day...](/news/2006/12/22/index.md)
 

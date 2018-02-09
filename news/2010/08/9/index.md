@@ -13,7 +13,7 @@ Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Isr
 
 ##### Japan
 ### [Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.md)
-_Context: Nagasaki, Japan, dropped_
+_Context: dropped, Japan, Nagasaki_
 
 ##### 
 ### [The Turkish government promotes two new generals. ](/news/2010/08/9/the-turkish-government-promotes-two-new-generals.md)
@@ -23,7 +23,7 @@ Baghdad traffic police are reportedly being given Kalashnikov assault rifles to 
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired more than 100 rounds of artillery into the Sea of Japan near the border highlighting the increase of tensions on the Korean Peninsula. ](/news/2010/08/9/south-korea-claims-that-north-korea-has-fired-more-than-100-rounds-of-artillery-into-the-sea-of-japan-near-the-border-highlighting-the-incre.md)
-_Context: Korean Peninsula, South Korea, Sea of Japan, North Korea_
+_Context: Sea of Japan, South Korea, North Korea, Korean Peninsula_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission suspends medical expeditions in Afghanistan following loss of personnel in the 2010 Badakhshan massacre. ](/news/2010/08/9/the-international-assistance-mission-suspends-medical-expeditions-in-afghanistan-following-loss-of-personnel-in-the-2010-badakhshan-massacre.md)
@@ -101,7 +101,7 @@ More than 200 police officers in Ciudad Juarez in Mexico detain their commander,
 ### [Muslim cleric Abu Bakar Bashir is arrested - along with his wife, the driver of the car he was in and another woman - by Indonesian police in Ciamis, West Java. ](/news/2010/08/9/muslim-cleric-abu-bakar-bashir-is-arrested-along-with-his-wife-the-driver-of-the-car-he-was-in-and-another-woman-by-indonesian-police-i.md)
 The controversial Muslim cleric, Abu Bakar Ba’asyir, is arrested in Indonesia on terror charges, accused of links to a militant training camp.
 
-##### House of Representatives
+##### United States House of Representatives
 ### [American politician Maxine Waters is formally charged with three counts of breaking ethics rules. ](/news/2010/08/9/american-politician-maxine-waters-is-formally-charged-with-three-counts-of-breaking-ethics-rules.md)
 A US House committee formally charges a California Democrat with using her influence to benefit a bank in which her husband was a shareholder.
 

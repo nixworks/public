@@ -21,7 +21,7 @@ _Context: US Capitol Building_
 
 ##### Egypt
 ### [An Egyptian court sentences the leader of the Muslim Brotherhood Mohamed Badie and fourteen other people to death for inciting violence. ](/news/2015/04/11/an-egyptian-court-sentences-the-leader-of-the-muslim-brotherhood-mohamed-badie-and-fourteen-other-people-to-death-for-inciting-violence.md)
-_Context: Muslim Brotherhood, Egypt, Mohamed Badie_
+_Context: Muslim Brotherhood, Mohamed Badie, Egypt_
 
 ##### Bangladesh
 ### [Bangladeshi Jamaat-e-Islami leader Muhammad Kamaruzzaman is executed for war crimes committed during the 1971 Liberation War. ](/news/2015/04/11/bangladeshi-jamaat-e-islami-leader-muhammad-kamaruzzaman-is-executed-for-war-crimes-committed-during-the-1971-liberation-war.md)
@@ -29,7 +29,7 @@ Muhammad Kamaruzzaman was found guilty of mass killing, murder, abduction, tortu
 
 ##### Nigeria
 ### [Voters in Nigeria go to the polls for gubernatorial and state Assembly elections. At least nine people are killed in election day violence, most of them in Rivers State. ](/news/2015/04/11/voters-in-nigeria-go-to-the-polls-for-gubernatorial-and-state-assembly-elections-at-least-nine-people-are-killed-in-election-day-violence.md)
-_Context: Nigeria, gubernatorial elections, Rivers State_
+_Context: gubernatorial elections, Rivers State, Nigeria_
 
 ## [Previous Day...](/news/2015/04/10/index.md)
 

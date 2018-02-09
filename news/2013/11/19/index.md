@@ -25,7 +25,7 @@ Bombardier (BBDb.TO) has signed a letter of intent to sell five CSeries jetliner
 
 ##### World Bank
 ### [The World Bank offers a US$500 million loan to the Philippines. ](/news/2013/11/19/the-world-bank-offers-a-us-500-million-loan-to-the-philippines.md)
-_Context: World Bank, Philippines_
+_Context: Philippines, World Bank_
 
 ##### Cyclone
 ### [At least 18 people are dead after Cyclone Cleopatra hits the Italian island of Sardinia, causing heavy floods. ](/news/2013/11/19/at-least-18-people-are-dead-after-cyclone-cleopatra-hits-the-italian-island-of-sardinia-causing-heavy-floods.md)
@@ -37,7 +37,7 @@ One person has died and as many as 50 workers are feared trapped after the roof 
 
 ##### Air Evac International
 ### [An Air Evac International Learjet 35 crashes shortly after take-off from Fort Lauderdale-Hollywood International Airport, on its way to Cozumel, Mexico, after calling mayday and during an attempt to return to the airport, possibly due to engine failure, leaving 2 persons dead and two missing as a result. ](/news/2013/11/19/an-air-evac-international-learjet-35-crashes-shortly-after-take-off-from-fort-lauderdale-hollywood-international-airport-on-its-way-to-cozu.md)
-_Context: mayday, Air Evac International, Cozumel, Mexico, Learjet 35, Fort Lauderdale-Hollywood International Airport_
+_Context: Cozumel, Mexico, Air Evac International, Learjet 35, Fort Lauderdale-Hollywood International Airport, mayday_
 
 ##### Creigh Deeds
 ### [Virginia State Senator Creigh Deeds was stabbed multiple times at his home by his son Austin "Gus" Deeds. His son, Gus was found dead from a self-inflicted gunshot wound in the home. ](/news/2013/11/19/virginia-state-senator-creigh-deeds-was-stabbed-multiple-times-at-his-home-by-his-son-austin-gus-deeds-his-son-gus-was-found-dead-from-a.md)
@@ -45,7 +45,7 @@ _Context: Creigh Deeds_
 
 ##### Trey Radel
 ### [U.S. Representative Trey Radel is arrested and charged with cocaine possession. ](/news/2013/11/19/u-s-representative-trey-radel-is-arrested-and-charged-with-cocaine-possession.md)
-_Context: Trey Radel, cocaine_
+_Context: cocaine, Trey Radel_
 
 ##### George Zimmerman
 ### [George Zimmerman is accused of felony aggravated assault and other charges for interactions with his current girlfriend. ](/news/2013/11/19/george-zimmerman-is-accused-of-felony-aggravated-assault-and-other-charges-for-interactions-with-his-current-girlfriend.md)

@@ -25,11 +25,11 @@ _Context: Hong Kong, Pope Benedict XVI, China_
 
 ##### Steve Coogan
 ### [Comedian Steve Coogan criticises the presenters of BBC television series "Top Gear" in relation to their recent insulting of Mexicans. He also criticies the BBC's "pitiful" and "mealy-mouthed" apology after it offended Mexicans. ](/news/2011/02/5/comedian-steve-coogan-criticises-the-presenters-of-bbc-television-series-top-gear-in-relation-to-their-recent-insulting-of-mexicans-he-al.md)
-_Context: BBC, Steve Coogan, Top Gear_
+_Context: Top Gear, Steve Coogan, BBC_
 
 ##### Inception
 ### ["Inception" and "The Social Network" win top prizes at the Writers Guild of America awards. ](/news/2011/02/5/inception-and-the-social-network-win-top-prizes-at-the-writers-guild-of-america-awards.md)
-_Context: The Social Network, Writers Guild of America, Inception_
+_Context: Inception, Writers Guild of America, The Social Network_
 
 ##### Mexico
 ### [Cold weather persists in northern Mexico in the aftermath of the January 31-February 2, 2011 North American winter storm with power shortages. ](/news/2011/02/5/cold-weather-persists-in-northern-mexico-in-the-aftermath-of-the-january-31afebruary-2-2011-north-american-winter-storm-with-power-shorta.md)
@@ -41,7 +41,7 @@ An&#x20;explosion&#x20;killed&#x20;five&#x20;workers&#x20;in&#x20;Romania&#x27;s
 
 ##### Firefighter
 ### [Six firefighters die and two are injured fighting a fire in China's Zhejiang Province. ](/news/2011/02/5/six-firefighters-die-and-two-are-injured-fighting-a-fire-in-china-s-zhejiang-province.md)
-_Context: firefighter, Zhejiang Province, China_
+_Context: China, Zhejiang Province, firefighter_
 
 ##### David Cameron
 ### [UK prime minister David Cameron uses an important speech at a security conference in Munich to say "state multiculturalism" has failed, adding that the UK needs a stronger national identity and promising to promote Western values. ](/news/2011/02/5/uk-prime-minister-david-cameron-uses-an-important-speech-at-a-security-conference-in-munich-to-say-state-multiculturalism-has-failed-addi.md)
@@ -61,7 +61,7 @@ Belgrade sees its biggest anti-government protest in years as tens of thousands 
 
 ##### Cleveland Cavaliers
 ### [The Cleveland Cavaliers set a new record for consecutive losses in a single National Basketball Association season in the United States. ](/news/2011/02/5/the-cleveland-cavaliers-set-a-new-record-for-consecutive-losses-in-a-single-national-basketball-association-season-in-the-united-states.md)
-_Context: United States, NBA, Cleveland Cavaliers_
+_Context: Cleveland Cavaliers, United States, NBA_
 
 ## [Previous Day...](/news/2011/02/4/index.md)
 

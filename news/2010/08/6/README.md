@@ -21,7 +21,7 @@ _Context: Gaza Strip, Israel_
 
 ##### May Hariri
 ### [An international aid ship, the "Saint Mariam", bearing only female passengers from all backgrounds, including singer May Hariri and several Americans, is to leave Tripoli bound for Gaza after overcoming an Israeli diplomatic mission designed to prevent it from setting sail. ](/news/2010/08/6/an-international-aid-ship-the-saint-mariam-bearing-only-female-passengers-from-all-backgrounds-including-singer-may-hariri-and-several.md)
-_Context: Tripoli, May Hariri, Israel, Gaza Strip_
+_Context: May Hariri, Israel, Tripoli, Gaza Strip_
 
 ##### United Arab Emirates
 ### [The United Arab Emirates says the incident in which the Japanese tanker, the MV "M. Star", was damaged in the Strait of Hormuz near Oman last week involved an explosives-laden dinghy. ](/news/2010/08/6/the-united-arab-emirates-says-the-incident-in-which-the-japanese-tanker-the-mv-m-star-was-damaged-in-the-strait-of-hormuz-near-oman-las.md)
@@ -29,7 +29,7 @@ Explosive-laden dinghy hit Japanese tanker in Strait of Hormuz, state news agenc
 
 ##### Zamboanga International Airport
 ### [An explosion at Zamboanga International Airport in the southern Philippines kills two people and injures 24. ](/news/2010/08/6/an-explosion-at-zamboanga-international-airport-in-the-southern-philippines-kills-two-people-and-injures-24.md)
-_Context: Philippines, Zamboanga International Airport_
+_Context: Zamboanga International Airport, Philippines_
 
 ##### France
 ### [French police dismantle Romani camps in Saint-Etienne by order of the president. ](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.md)
@@ -81,7 +81,7 @@ Acrid smoke from forest and peat-bog fires east of Moscow shrouded the city in s
 
 ##### Karangetang
 ### [Mount Karangetang, a volcano on the Indonesian island of Siau, erupts. ](/news/2010/08/6/mount-karangetang-a-volcano-on-the-indonesian-island-of-siau-erupts.md)
-_Context: Siau, Karangetang, Indonesia, volcano_
+_Context: Karangetang, Siau, Indonesia, volcano_
 
 ##### Hiroshima
 ### [Hiroshima marks the 65th anniversary of the world's first atomic bomb attack; United States representatives attend in an official capacity for the first time. ](/news/2010/08/6/hiroshima-marks-the-65th-anniversary-of-the-world-s-first-atomic-bomb-attack-united-states-representatives-attend-in-an-official-capacity-f.md)
@@ -89,7 +89,7 @@ The Japanese city of Hiroshima marks the 65th anniversary of the atomic bomb att
 
 ##### Venezuela
 ### [Venezuela's Hugo Chavez promises that his foreign minister will attend the inauguration of Juan Manuel Santos as Colombian president, two weeks after direct relations between the two countries were broken off, thanks to mediation efforts by President of Brazil Luiz Inacio Lula da Silva. ](/news/2010/08/6/venezuela-s-hugo-cha-vez-promises-that-his-foreign-minister-will-attend-the-inauguration-of-juan-manuel-santos-as-colombian-president-two-w.md)
-_Context: Juan Manuel Santos, Luiz Inacio Lula da Silva, Hugo Chavez, Colombia, Venezuela, Colombia-Venezuela relations, president_
+_Context: Juan Manuel Santos, president, Hugo Chavez, Colombia, Colombia-Venezuela relations, Venezuela, Luiz Inacio Lula da Silva_
 
 ##### South Africa
 ### [South Africa recalls its ambassador to Rwanda. ](/news/2010/08/6/south-africa-recalls-its-ambassador-to-rwanda.md)
@@ -117,11 +117,11 @@ Five people are caned in public in the Indonesian province of Aceh, despite call
 
 ##### Bosnian
 ### [A 25-year-old Bosnian immigrant is arraigned in a Brooklyn United States District Court for involvement in an alleged terrorist plot to blow up New York City's subway system. ](/news/2010/08/6/a-25-year-old-bosnian-immigrant-is-arraigned-in-a-brooklyn-united-states-district-court-for-involvement-in-an-alleged-terrorist-plot-to-blow.md)
-_Context: United States District Court, Bosnian, terrorism, subway, arraigned, Brooklyn, New York, New York City_
+_Context: subway, New York City, terrorism, United States District Court, Brooklyn, New York, arraigned, Bosnian_
 
 ##### Nelson Mandela
 ### [Jeremy Ractliffe, former head of the Nelson Mandela Children's Fund, admits he kept possible blood diamonds to protect the reputations of Mandela, Naomi Campbell and the fund but that he gave them to South African police and is willing to testify at Charles Taylor's trial. ](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.md)
-_Context: Nelson Mandela, South Africa, blood diamond, Charles Taylor, Naomi Campbell, Nelson Mandela Children's Fund_
+_Context: Nelson Mandela Children's Fund, Charles Taylor, Naomi Campbell, Nelson Mandela, blood diamond, South Africa_
 
 ##### Matamoros
 ### [At least 14 people are killed during a prison riot in Matamoros in the Mexican state of Tamaulipas. ](/news/2010/08/6/at-least-14-people-are-killed-during-a-prison-riot-in-matamoros-in-the-mexican-state-of-tamaulipas.md)
@@ -129,7 +129,7 @@ Police in Mexico say that at least 14 prisoners have been killed in a jail riot 
 
 ##### Sakineh Mohammadi Ashtiani
 ### [Sakineh Mohammadi Ashtiani, sentenced to death in Iran, speaks out, saying Iran is "desperately trying to distract attention and confuse the media so that they can kill me in secret". ](/news/2010/08/6/sakineh-mohammadi-ashtiani-sentenced-to-death-in-iran-speaks-out-saying-iran-is-desperately-trying-to-distract-attention-and-confuse-the.md)
-_Context: Sakineh Mohammadi Ashtiani, Iran_
+_Context: Iran, Sakineh Mohammadi Ashtiani_
 
 ##### Colombo
 ### [Police near Colombo arrest a suspected fraudster for whom they had previously appealed to Interpol; it is unknown if he denies the charges brought against him. ](/news/2010/08/6/police-near-colombo-arrest-a-suspected-fraudster-for-whom-they-had-previously-appealed-to-interpol-it-is-unknown-if-he-denies-the-charges-b.md)
@@ -169,7 +169,7 @@ Politicians in Nepal again fail to elect a new PM - meaning the country has been
 
 ##### Swaziland
 ### [Swaziland's justice minister and senator Ndumiso Mamba resigns from both positions over allegations of an affair with a wife of King Mswati III; the wife has denied the allegations. ](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.md)
-_Context: Swaziland, Ndumiso Mamba, King Mswati III_
+_Context: Ndumiso Mamba, Swaziland, King Mswati III_
 
 ##### Little brown bat
 ### [According to scientists, one million little brown bats ("Myotis lucifugus") have contracted white nose syndrome (WNS) and died in North America. ](/news/2010/08/6/according-to-scientists-one-million-little-brown-bats-myotis-lucifugus-have-contracted-white-nose-syndrome-wns-and-died-in-north-amer.md)
@@ -177,7 +177,7 @@ A disease known as white-nose syndrome is likely to wipe out a once-common speci
 
 ##### Confederate
 ### [U.S. scientists plan to rotate the Confederate submarine, the "H. L. Hunley", buried in the outer harbour of Charleston, South Carolina so that they can examine it more closely. ](/news/2010/08/6/u-s-scientists-plan-to-rotate-the-confederate-submarine-the-h-l-hunley-buried-in-the-outer-harbour-of-charleston-south-carolina-so-t.md)
-_Context: Confederate, submarine, Charleston, South Carolina, ''H. L. Hunley'', South Carolina_
+_Context: submarine, Charleston, South Carolina, Confederate, ''H. L. Hunley'', South Carolina_
 
 ##### Greenland
 ### [American scientists announce an ice sheet has broken from Greenland's Petermann Glacier. ](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.md)

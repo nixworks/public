@@ -13,7 +13,7 @@ Army says it is regaining control of Loder after fighting killed 33 and displace
 
 ##### Al-Shabaab
 ### [Al-Shabaab militants storm the Hotel Muna, close to the Presidential palace Villa Somalia in Mogadishu, killing at least 33 people including several MPs. ](/news/2010/08/24/al-shabaab-militants-storm-the-hotel-muna-close-to-the-presidential-palace-villa-somalia-in-mogadishu-killing-at-least-33-people-including.md)
-_Context: President, storm the Hotel Muna, Al-Shabaab, MPs, Villa Somalia_
+_Context: storm the Hotel Muna, President, Al-Shabaab, MPs, Villa Somalia_
 
 ##### Rwanda
 ### [Foreign human rights groups accuse Rwandan and Congolese rebels of gang-raping nearly 200 women and some baby boys over four days within miles of a U.N. peacekeepers' base in the village of Bunangiri, North Kivu province, Democratic Republic of the Congo. ](/news/2010/08/24/foreign-human-rights-groups-accuse-rwandan-and-congolese-rebels-of-gang-raping-nearly-200-women-and-some-baby-boys-over-four-days-within-mil.md)
@@ -21,7 +21,7 @@ Aid groups say up to 200 women were raped in four days near a UN peacekeeping ba
 
 ##### Lance-corporal
 ### [A lance-corporal in the Australian Army is killed in fighting with the Taliban in Afghanistan's Oruzgan province. ](/news/2010/08/24/a-lance-corporal-in-the-australian-army-is-killed-in-fighting-with-the-taliban-in-afghanistan-s-oruzgan-province.md)
-_Context: Oruzgan province, soldiers, Taliban, Afghanistan, lance-corporal_
+_Context: soldiers, Afghanistan, Oruzgan province, Taliban, lance-corporal_
 
 ##### Lindsay Lohan
 ### [American actor Lindsay Lohan is released from a rehabilitation centre 22 days into a three month program. ](/news/2010/08/24/american-actor-lindsay-lohan-is-released-from-a-rehabilitation-centre-22-days-into-a-three-month-program.md)
@@ -49,7 +49,7 @@ Niger is being hit by a &quot;second emergency&quot; as recent floods compound a
 
 ##### Agni Air Flight 101
 ### [Agni Air Flight 101, a small plane carrying fourteen people, crashes in Nepal's Makwanpur District with no survivors expected. ](/news/2010/08/24/agni-air-flight-101-a-small-plane-carrying-fourteen-people-crashes-in-nepal-s-makwanpur-district-with-no-survivors-expected.md)
-_Context: Agni Air Flight 101, Nepal, Makwanpur District_
+_Context: Makwanpur District, Nepal, Agni Air Flight 101_
 
 ##### 2010 Copiap mining accident
 ### [Rescue efforts start to free the men trapped following the 2010 Copiap mining accident. ](/news/2010/08/24/rescue-efforts-start-to-free-the-men-trapped-following-the-2010-copiapo-mining-accident.md)
@@ -57,7 +57,7 @@ Rescue workers established phone contact with the 33 trapped Chilean miners for 
 
 ##### Department of Justice
 ### [The United States Department of Justice states that it will appeal a decision by United States federal judge Royce C. Lamberth to block an executive order by President Barack Obama to expand embryonic stem cell research. ](/news/2010/08/24/the-united-states-department-of-justice-states-that-it-will-appeal-a-decision-by-united-states-federal-judge-royce-c-lamberth-to-block-an-e.md)
-_Context: executive order, Royce C. Lamberth, U.S. President, embryonic stem cell, Department of Justice, Federal District Judge, Barack Obama_
+_Context: Federal District Judge, Royce C. Lamberth, Barack Obama, embryonic stem cell, Department of Justice, U.S. President, executive order_
 
 ##### Samantha Cameron
 ### [Samantha Cameron, wife of the British Prime Minister David Cameron, gives birth to the couple's fourth child, a girl. ](/news/2010/08/24/samantha-cameron-wife-of-the-british-prime-minister-david-cameron-gives-birth-to-the-couple-s-fourth-child-a-girl.md)
@@ -65,7 +65,7 @@ David Cameron says he is a &quot;very proud dad&quot; after his wife Samantha ga
 
 ##### John McCain
 ### [John McCain wins the Republican Party primary election to become the nominee in the US Senate election in Arizona. ](/news/2010/08/24/john-mccain-wins-the-republican-party-primary-election-to-become-the-nominee-in-the-us-senate-election-in-arizona.md)
-_Context: primary election, John McCain, US Senate election in Arizona, Republican_
+_Context: US Senate election in Arizona, John McCain, Republican, primary election_
 
 ## [Previous Day...](/news/2010/08/23/index.md)
 

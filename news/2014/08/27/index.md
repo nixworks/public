@@ -21,7 +21,7 @@ _Context: United Nations High Commissioner for Refugees_
 
 ##### Christine Lagarde
 ### [Christine Lagarde, the Chief of the International Monetary Fund, is placed under investigation in France for alleged negligence dating back to her time as Minister of Finance. ](/news/2014/08/27/christine-lagarde-the-chief-of-the-international-monetary-fund-is-placed-under-investigation-in-france-for-alleged-negligence-dating-back.md)
-_Context: France, Christine Lagarde, Finance Minister, International Monetary Fund_
+_Context: France, Christine Lagarde, International Monetary Fund, Finance Minister_
 
 ## [Previous Day...](/news/2014/08/26/index.md)
 
