@@ -16,7 +16,7 @@ _Context: Economy of Germany, trade surplus_
 Japan has issued a stark warning to the Government over the risks Brexit poses to the county&rsquo;s businesses operating in the UK.
 
 ##### Joint Comprehensive Plan of Action
-### [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade wih Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md)
+### [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade with Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md)
 The European Union could put in place regulations to protect its firms doing business in Iran if the United States withdraws from the 2015 nuclear deal and restores extraterritorial sanctions, a senior EU official said on Thursday.
 
 ##### Commonwealth of Nations
@@ -25,7 +25,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: concerns, Belgium-Netherlands relations, Market Square, Bruges, Amsterdam_
+_Context: Amsterdam, Bruges, concerns, Market Square, Belgium-Netherlands relations_
 
 ##### United States-Guatemala relations
 ### [US President Donald Trump met with Guatemalan President Jimmy Morales. Trump thanked Morales for having supported the decision of the United States on the transfer of the Embassy of Tel Aviv to Jerusalem. They dealt with various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/us-president-donald-trump-met-with-guatemalan-president-jimmy-morales-trump-thanked-morales-for-having-supported-the-decision-of-the-united.md)
@@ -33,7 +33,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
+_Context: Bermuda, LGBT rights in Bermuda, same-sex marriage_
 
 ## [Previous Day...](/news/2018/02/7/index.md)
 

@@ -16,7 +16,7 @@ _Context: Economy of Germany, trade surplus_
 Japan has issued a stark warning to the Government over the risks Brexit poses to the county&rsquo;s businesses operating in the UK.
 
 ##### Joint Comprehensive Plan of Action
-### [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade wih Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md)
+### [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade with Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md)
 The European Union could put in place regulations to protect its firms doing business in Iran if the United States withdraws from the 2015 nuclear deal and restores extraterritorial sanctions, a senior EU official said on Thursday.
 
 ##### Commonwealth of Nations
@@ -25,7 +25,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: concerns, Belgium-Netherlands relations, Market Square, Bruges, Amsterdam_
+_Context: Amsterdam, Bruges, concerns, Market Square, Belgium-Netherlands relations_
 
 ##### United States-Guatemala relations
 ### [US President Donald Trump met with Guatemalan President Jimmy Morales. Trump thanked Morales for having supported the decision of the United States on the transfer of the Embassy of Tel Aviv to Jerusalem. They dealt with various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/us-president-donald-trump-met-with-guatemalan-president-jimmy-morales-trump-thanked-morales-for-having-supported-the-decision-of-the-united.md)
@@ -33,7 +33,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
+_Context: Bermuda, LGBT rights in Bermuda, same-sex marriage_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -45,11 +45,11 @@ Most of the daily information we see on the mainstream media today is the news e
 
 ##### Israeli involvement in the Syrian Civil War
 ### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Lebanese, Jamraya, Syrian Air Defense Force, Israel, Syria_
+_Context: Syrian Air Defense Force, Israel, Israeli involvement in the Syrian Civil War, Lebanese, Syria, Jamraya, Rif Dimashq Governorate_
 
 ##### United States attacks on the Syrian government
 ### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: Russia, Syria, United States Central Command, Euphrates, United States attacks on the Syrian government_
+_Context: Euphrates, United States attacks on the Syrian government, United States Central Command, Russia, Syria_
 
 ##### Procter and Gamble
 ### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers with the Kansas City factory and 500 workers at its two Iowa City factories (with the workforce at the latter plant being reduced to about 700 employees.) ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
@@ -101,7 +101,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: SpaceX, Falcon Heavy Demonstration Mission, Elon Musk's Tesla Roadster, David Bowie, Life on Mars, Falcon Heavy, Mars, elliptic orbit_
+_Context: Mars, Elon Musk's Tesla Roadster, elliptic orbit, SpaceX, Life on Mars, Falcon Heavy Demonstration Mission, Falcon Heavy, David Bowie_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)

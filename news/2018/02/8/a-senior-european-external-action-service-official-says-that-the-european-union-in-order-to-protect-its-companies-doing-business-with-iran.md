@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/8/a-senior-european-external-action-service-offici
 ### [2018-02-8](/news/2018/02/8/index.md)
 
 ##### Joint Comprehensive Plan of Action
-# A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade wih Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. 
+# A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade with Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. 
 
 The European Union could put in place regulations to protect its firms doing business in Iran if the United States withdraws from the 2015 nuclear deal and restores extraterritorial sanctions, a senior EU official said on Thursday.
 
@@ -17,7 +17,7 @@ The European Union could put in place regulations to protect its firms doing bus
 ### Changes:
 
 1. [A senior European External Action Service official says that the European Union could implement "blocking regulations", based on a legal framework set up in 1996 for E.U. trade wih Cuba, to protect its companies doing business with Iran, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-could-implement-blocking-regulations-based-on-a-legal-fra.md) _2018-02-08 20:30:24 (First version)_
-1. [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade wih Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md) _(Current version)_
+1. [A senior European External Action Service official says that the European Union, in order to protect its companies doing business with Iran, could implement "blocking regulations" based on a legal framework set up in 1996 for E.U. trade with Cuba, should the United States pull out of the 2015 nuclear deal and restore its sanctions. ](/news/2018/02/8/a-senior-european-external-action-service-official-says-that-the-european-union-in-order-to-protect-its-companies-doing-business-with-iran.md) _(Current version)_
 
 ### Related:
 

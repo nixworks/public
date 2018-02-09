@@ -33,7 +33,7 @@ _Context: Islah, Tawakkol Karman, Saudi-led intervention in Yemen, Nobel Peace P
 
 ##### Macedonia naming dispute
 ### [Tens of thousands of people demonstrate in Athens against the willingness manifested by the Cabinet of Greece to make concessions in the long-standing dispute with the Republic of Macedonia. ](/news/2018/02/4/tens-of-thousands-of-people-demonstrate-in-athens-against-the-willingness-manifested-by-the-cabinet-of-greece-to-make-concessions-in-the-lon.md)
-_Context: Macedonia naming dispute, Cabinet of Greece, Republic of Macedonia, Athens_
+_Context: Republic of Macedonia, Macedonia naming dispute, Cabinet of Greece, Athens_
 
 ##### Weinstein effect
 ### [Robert Doyle resigns as Lord Mayor of Melbourne after allegations of sexual misconduct were made against him. Melbourne City Council is investigating the allegations. ](/news/2018/02/4/robert-doyle-resigns-as-lord-mayor-of-melbourne-after-allegations-of-sexual-misconduct-were-made-against-him-melbourne-city-council-is-inve.md)
