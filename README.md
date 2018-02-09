@@ -1,10 +1,22 @@
 
 Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)  
 
-## [News](/news/2018/02/8/index.md)
+## [News](/news/2018/02/9/index.md)
+
+##### United States Government
+### [The United States Government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
+Government funding expired at midnight after Senator Rand Paul of Kentucky held up the Senate’s vote on a budget deal that would keep federal agencies open.
+
+##### Opinion
+### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
+Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+
+---
+
+## [Yesterday](/news/2018/02/8/index.md)
 
 ##### Syrian Civil War
-### [Syria and Russia say that the United States' military presence in Syria is "illegal". ](/news/2018/02/8/syria-and-russia-say-that-the-united-states-military-presence-in-syria-is-illegal.md)
+### [Syria government and Russian government say that the United States' military presence in Syria is "illegal". The United States now has overall control of about a quarter of the Syrian territory. ](/news/2018/02/8/syria-government-and-russian-government-say-that-the-united-states-military-presence-in-syria-is-illegal-the-united-states-now-has-overa.md)
 The overnight clash came after pro-government forces attacked a U.S.-backed base in the eastern Syrian desert, prompting the U.S. to retaliate in &ldquo;self defense.&rdquo;
 
 ##### Economy of Germany
@@ -25,34 +37,34 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: Amsterdam, Bruges, concerns, Market Square, Belgium-Netherlands relations_
+_Context: Bruges, Amsterdam, concerns, Belgium-Netherlands relations, Market Square_
 
 ##### United States-Guatemala relations
-### [US President Donald Trump met with Guatemalan President Jimmy Morales. Trump thanked Morales for having supported the decision of the United States on the transfer of the Embassy of Tel Aviv to Jerusalem. They dealt with various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/us-president-donald-trump-met-with-guatemalan-president-jimmy-morales-trump-thanked-morales-for-having-supported-the-decision-of-the-united.md)
+### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
 At Washington meeting, US president praises Jimmy Morales for following the US example on Israel
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
 _Context: Bermuda, LGBT rights in Bermuda, same-sex marriage_
 
-##### Opinion
-### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
-Most of the daily information we see on the mainstream media today is the news equivalent of fast-food.
+##### Crime in Toronto
+### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)
+McArthur, 66, a self-employed landscaper, was charged last month with five counts of first-degree murder in the deaths of missing men from the city&#039;s Gay Village.
 
 ---
 
-## [Yesterday](/news/2018/02/7/index.md)
+## [Day Before Yesterday](/news/2018/02/7/index.md)
 
 ##### Israeli involvement in the Syrian Civil War
-### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility. ](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
-_Context: Syrian Air Defense Force, Israel, Israeli involvement in the Syrian Civil War, Lebanese, Syria, Jamraya, Rif Dimashq Governorate_
+### [Syrian state media say that Israeli warplanes attacked a military position in Jamraya, Rif Dimashq Governorate, from Lebanese airspace, with the Syrian Air Defense Force intercepting most of the missiles. The target is rumored to be a weapon research facility.](/news/2018/02/7/syrian-state-media-say-that-israeli-warplanes-attacked-a-military-position-in-jamraya-rif-dimashq-governorate-from-lebanese-airspace-with.md)
+_Context: Lebanese, Syria government, Jamraya, Rif Dimashq Governorate, Israeli involvement in the Syrian Civil War, Israel, Syrian Air Defense Force_
 
 ##### United States attacks on the Syrian government
-### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. ](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
-_Context: Euphrates, United States attacks on the Syrian government, United States Central Command, Russia, Syria_
+### [United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.](/news/2018/02/7/united-states-central-command-says-that-it-killed-more-than-100-pro-government-troops-in-self-defense-strikes-8-km-east-of-the-euphrates-d.md)
+_Context: United States attacks on the Syrian government, Syria government, Euphrates, United States Central Command, Russian government_
 
 ##### Procter and Gamble
-### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers with the Kansas City factory and 500 workers at its two Iowa City factories (with the workforce at the latter plant being reduced to about 700 employees.) ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
+### [Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. ](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-its-plant-in-kansas-city-kansas-and-reduce-operations-at-its-iowa-city-iowa-plant-as-the.md)
 “My grandfather started down there in 1935,” said the head of the plant’s union, who has logged 28 years there himself.
 
 ##### Macedonia naming dispute
@@ -77,39 +89,7 @@ New research adds to a growing body of evidence showing how the British Isles re
 
 ---
 
-## [Day Before Yesterday](/news/2018/02/6/index.md)
-
-##### 2018 Hualien earthquake
-### [Multiple earthquakes, including a magnitude 6.4 earthquake, strike near Hualien City, Taiwan. At least 9 people are killed and over 250 are injured, with extensive damage to many structures in the city. ](/news/2018/02/6/multiple-earthquakes-including-a-magnitude-6-4-earthquake-strike-near-hualien-city-taiwan-at-least-9-people-are-killed-and-over-250-are.md)
-Two people have been killed and more than 100 are injured after two earthquakes struck Taiwan. The island&#039;s Premier, William Lai, confirmed 114 people had sustained &quot;light or severe injuries&quot; and others were reportedly trapped inside collapsed buildings. 
-
-##### Weinstein effect
-### [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as CEO of Wynn Resorts following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/02/6/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-ceo-of-wynn-resorts-following-sexual.md)
-Mr. Wynn, a billionaire casino mogul, stepped down on Tuesday as chief executive and chairman of the board of Wynn Resorts. He is accused of decades of sexual misconduct.
-
-##### Freedom of the press in Turkey
-### [Turkey detains nearly 600 people for social media posts and protests opposing the Afrin offensive in Syria. ](/news/2018/02/6/turkey-detains-nearly-600-people-for-social-media-posts-and-protests-opposing-the-afrin-offensive-in-syria.md)
-Turkey has so far detained 573 people for social media posts and protests criticizing its military offensive in Syria, the government said on Monday.
-
-##### Politics of the Maldives
-### [Former President of the Maldives Mohamed Nasheed calls from exile for other countries to intervene in a political crisis engulfing the island nation. Nasheed asks India to help release prisoners and the United States to curb leaders' financial transactions. ](/news/2018/02/6/former-president-of-the-maldives-mohamed-nasheed-calls-from-exile-for-other-countries-to-intervene-in-a-political-crisis-engulfing-the-islan.md)
-Mohamed Nasheed asks for India to help release political prisoners amid a worsening crisis.
-
-##### Amendment to the Act on the Institute of National Remembrance
-### [Polish President Andrzej Duda ratifies a controversial Holocaust bill, despite angry protests from Israel and the United States. Duda defends the legislation, which will make it illegal to accuse the Polish state of complicity in the Holocaust during the Nazi occupation. ](/news/2018/02/6/polish-president-andrzej-duda-ratifies-a-controversial-holocaust-bill-despite-angry-protests-from-israel-and-the-united-states-duda-defend.md)
-Andrzej Duda backs a controversial law that has drawn angry protests from Israel and the US.
-
-##### Falcon Heavy Demonstration Mission
-### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: Mars, Elon Musk's Tesla Roadster, elliptic orbit, SpaceX, Life on Mars, Falcon Heavy Demonstration Mission, Falcon Heavy, David Bowie_
-
-##### Ozone depletion
-### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
-While the hole over Antarctica has been closing, the protective ozone is thinning at the lower latitudes, where the sunlight is stronger and billions of people live
-
----
-
-## [Previous Day...](/news/2018/02/5/index.md)
+## [Previous Day...](/news/2018/02/6/index.md)
 
 ---
 

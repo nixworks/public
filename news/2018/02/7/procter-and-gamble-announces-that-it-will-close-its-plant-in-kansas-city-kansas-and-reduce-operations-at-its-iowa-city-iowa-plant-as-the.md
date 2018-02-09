@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/7/procter-and-gamble-announces-that-it-will-close-
 ### [2018-02-7](/news/2018/02/7/index.md)
 
 ##### Procter and Gamble
-# Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. The reductions will affect 280 full-time workers with the Kansas City factory and 500 workers at its two Iowa City factories (with the workforce at the latter plant being reduced to about 700 employees.) 
+# Procter and Gamble announces that it will close its plant in Kansas City, Kansas and reduce operations at its Iowa City, Iowa plant, as the company plans to shift production to factories in Tablers Station, West Virginia and Cincinnati, Ohio by 2020. 
 
 “My grandfather started down there in 1935,” said the head of the plant’s union, who has logged 28 years there himself.
 
