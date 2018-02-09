@@ -9,7 +9,7 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh say they have successfully grown Human egg cells in a laboratory for the first time. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-say-they-have-successfully-grown-human-egg-cells-in-a-laboratory-for-the-first-time.md)
-_Context: Human, University of Edinburgh, egg cell_
+_Context: University of Edinburgh, Human, egg cell_
 
 ## [Previous Day...](/news/2018/02/8/index.md)
 
