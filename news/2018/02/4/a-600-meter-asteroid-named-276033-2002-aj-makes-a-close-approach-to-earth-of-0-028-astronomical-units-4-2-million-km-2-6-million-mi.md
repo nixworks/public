@@ -16,5 +16,5 @@ A fast-moving asteroid will make a close flyby of Earth this Super Bowl Sunday (
 
 ### Related:
 
-1. [Asteroid 2018 CB makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). ](/news/2018/02/9/asteroid-2018-cb-makes-a-fly-by-past-earth-at-a-distance-of-around-64-500-km-40-100-mi.md) _Context: Asteroid close approaches to Earth in 2018_
+1. [As predicted, asteroid 2018 CB, which is 15-Meter (50-foot) wide, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). ](/news/2018/02/9/as-predicted-asteroid-2018-cb-which-is-15-meter-50-foot-wide-makes-a-fly-by-past-earth-at-a-distance-of-around-64-500-km-40-100-mi.md) _Context: Asteroid close approaches to Earth in 2018_
 2. [Astronomers announce that 2014 UZ224 is the third most distant Solar System object known from our Sun, currently over 90 times the Earth's distance from the Sun (90.8 AU or 8.44 billion miles), after Eris (96.2 AU) and V774104 (~103 AU). ](/news/2016/10/11/astronomers-announce-that-2014-uz224-is-the-third-most-distant-solar-system-object-known-from-our-sun-currently-over-90-times-the-earth-s-d.md) _Context: Astronomical unit_

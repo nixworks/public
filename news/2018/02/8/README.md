@@ -25,7 +25,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: concerns, Belgium-Netherlands relations, Market Square, Amsterdam, Bruges_
+_Context: Amsterdam, Market Square, Belgium-Netherlands relations, concerns, Bruges_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -33,7 +33,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, Bermuda, same-sex marriage_
+_Context: same-sex marriage, Bermuda, LGBT rights in Bermuda_
 
 ##### Crime in Toronto
 ### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)
