@@ -11,13 +11,15 @@ Israel shot down an Iranian drone launched from Syria and in response also struc
 ### [A double-decker bus overturns near Tai Po in Hong Kong, killing at least 19 people. ](/news/2018/02/10/a-double-decker-bus-overturns-near-tai-po-in-hong-kong-killing-at-least-19-people.md)
 Photographs show double-decker bus lying on its side with its roof torn off near Tai Po
 
+##### 
+### [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27.md)
 ##### India-Palestine relations
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)
 Narendra Modi backs independent Palestinian state during first trip by an Indian prime minister to occupied territories.
 
 ##### 2017-18 North Korea crisis
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: President of the Presidium of the Supreme People's Assembly, Moon Jae-in, North Korea, Kim Jong-Un, South Korean President, Kim Yong-nam, 2017-18 North Korea crisis, Blue House, Kim Yo-jong_
+_Context: Kim Yong-nam, Moon Jae-in, Blue House, President of the Presidium of the Supreme People's Assembly, 2017-18 North Korea crisis, South Korean President, Kim Jong-Un, Kim Yo-jong, North Korea_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
