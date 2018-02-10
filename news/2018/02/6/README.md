@@ -25,7 +25,7 @@ Andrzej Duda backs a controversial law that has drawn angry protests from Israel
 
 ##### Falcon Heavy Demonstration Mission
 ### [SpaceX successfully launches its long-awaited Falcon Heavy&mdash;a feat the space company hopes will lead to increased commercial and national security missions. Both boosters were successfully landed and recovered. The core didn't land and was softly ditched in the water near the drone ship. The rocket launched Elon Musk's Tesla Roadster, playing "Life on Mars" by David Bowie, which is expected to be in an elliptic orbit of the sun, close to Mars, for several hundred million years. ](/news/2018/02/6/spacex-successfully-launches-its-long-awaited-falcon-heavy-mdash-a-feat-the-space-company-hopes-will-lead-to-increased-commercial-and-nation.md)
-_Context: elliptic orbit, Life on Mars, Falcon Heavy Demonstration Mission, Mars, Elon Musk's Tesla Roadster, Falcon Heavy, David Bowie, SpaceX_
+_Context: Mars, Elon Musk's Tesla Roadster, elliptic orbit, SpaceX, Falcon Heavy, David Bowie, Life on Mars, Falcon Heavy Demonstration Mission_
 
 ##### Ozone depletion
 ### [Scientists (in the article published in the journal "Atmospheric Chemistry and Physics") warn that the ozone layer that protects people from the sun's ultraviolet radiation is recovering only over less populated areas. ](/news/2018/02/6/scientists-in-the-article-published-in-the-journal-atmospheric-chemistry-and-physics-warn-that-the-ozone-layer-that-protects-people-from.md)
