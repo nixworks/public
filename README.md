@@ -4,8 +4,12 @@ Formats: [HTML](/index.html)  [JSON](/index.json)  [XML](/index.xml)
 ## [News](/news/2018/02/10/index.md)
 
 ##### February 2018 Israel-Syria incident
-### [The Israeli Army says that it shot down a Syrian UAV manufactured in Iran and, in response, it bombed its Iranian launch base in Syria. ](/news/2018/02/10/the-israeli-army-says-that-it-shot-down-a-syrian-uav-manufactured-in-iran-and-in-response-it-bombed-its-iranian-launch-base-in-syria.md)
+### [The Israeli Army says that it shot down a Syrian UAV manufactured in Iran and, in response, it bombed the Tiyas Military Airbase in Homs Governorate, Syria, where it was launched from. ](/news/2018/02/10/the-israeli-army-says-that-it-shot-down-a-syrian-uav-manufactured-in-iran-and-in-response-it-bombed-the-tiyas-military-airbase-in-homs-gov.md)
 Israel shot down an Iranian drone launched from Syria and in response also struck Iranian targets there on Saturday, the Israeli military said.
+
+##### Double-decker bus
+### [A double-decker bus overturns near Tai Po in Hong Kong, killing at least 19 people. ](/news/2018/02/10/a-double-decker-bus-overturns-near-tai-po-in-hong-kong-killing-at-least-19-people.md)
+Photographs show double-decker bus lying on its side with its roof torn off near Tai Po
 
 ##### India-Palestine relations
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)
@@ -13,7 +17,7 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### Korean conflict
 ### [President of South Korea Moon Jae-in hosts talks at the Blue House with President of the Presidium of the Supreme People's Assembly of North Korea Kim Yong-nam and Kim Yo-jong, the sister of North Korea's leader Kim Jong-un. ](/news/2018/02/10/president-of-south-korea-moon-jae-in-hosts-talks-at-the-blue-house-with-president-of-the-presidium-of-the-supreme-people-s-assembly-of-north.md)
-_Context: Kim Yo-jong, Kim Jong-un, Korean conflict, Supreme People's Assembly, Kim Yong-nam, President of South Korea, Blue House, Moon Jae-in_
+_Context: Kim Yong-nam, Kim Jong-un, Blue House, Supreme People's Assembly, President of South Korea, Korean conflict, Moon Jae-in, Kim Yo-jong_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -29,7 +33,7 @@ Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
 
 ##### Earthquakes in 2018
 ### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Earthquakes in 2018, Guadalajara, Mexican, Jalisco, magnitude, Puerto Vallarta_
+_Context: Jalisco, Guadalajara, Mexican, Puerto Vallarta, Earthquakes in 2018, magnitude_
 
 ##### United States federal government shutdown of 2018
 ### [The United States government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
@@ -37,14 +41,14 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Peoples' Democratic Party, opposition, Turkey, Politics of Turkey, Afrin offensive_
+_Context: Peoples' Democratic Party, Turkey, Afrin offensive, opposition, Politics of Turkey_
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)
 STUDY QUESTIONCan complete oocyte development be achieved from human ovarian tissue containing primordial/unilaminar follicles and grown in vitro in a multi-step culture to meiotic maturation demonstrated by the formation of polar bodies and a Metaphase II spindle?SUMMARY ANSWERDevelopment of human ...
 
 ##### Asteroid close approaches to Earth in 2018
-### [Asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. ](/news/2018/02/9/asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distance-of-around-64.md)
+### [As predicted, asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. ](/news/2018/02/9/as-predicted-asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distanc.md)
 The space rock 2018 CB is up to 40m long and will come within 64,000km of the planet’s surface
 
 ---
@@ -57,7 +61,7 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: Economy of Germany, trade surplus_
+_Context: trade surplus, Economy of Germany_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -73,7 +77,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: Bruges, Belgium-Netherlands relations, Amsterdam, Market Square, concerns_
+_Context: Belgium-Netherlands relations, Amsterdam, Market Square, concerns, Bruges_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -81,7 +85,7 @@ At Washington meeting, US president praises Jimmy Morales for following the US e
 
 ##### LGBT rights in Bermuda
 ### [Bermuda repeals same-sex marriage, becoming the world's first jurisdiction to legalise, then repeal same-sex marriage. However, about half a dozen same-sex marriages that took place in Bermuda between the Supreme Court ruling in May 2017 and the repeal will continue to be recognised. ](/news/2018/02/8/bermuda-repeals-same-sex-marriage-becoming-the-world-s-first-jurisdiction-to-legalise-then-repeal-same-sex-marriage-however-about-half-a.md)
-_Context: LGBT rights in Bermuda, Bermuda, same-sex marriage_
+_Context: LGBT rights in Bermuda, same-sex marriage, Bermuda_
 
 ##### Crime in Toronto
 ### [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md)
@@ -89,7 +93,7 @@ McArthur, 66, a self-employed landscaper, was charged last month with five count
 
 ##### American
 ### [Mexican authorities arrest American-born Jose Maria Guizar Valencia, the alleged leader of the Zetas drug cartel, as he was entering a hotel in Mexico City's upscale neighborhood of Roma. ](/news/2018/02/8/mexican-authorities-arrest-american-born-jose-maria-guizar-valencia-the-alleged-leader-of-the-zetas-drug-cartel-as-he-was-entering-a-hotel.md)
-_Context: Zetas, Roma, Mexico City, American, drug cartel_
+_Context: Zetas, drug cartel, Mexico City, American, Roma_
 
 ##### Weinstein effect
 ### [Jeff Kruse announces his resignation from the Oregon State Senate, effective March 15, amid allegations that he sexually harassed female colleagues and other staffers. Kruse denies the allegations. ](/news/2018/02/8/jeff-kruse-announces-his-resignation-from-the-oregon-state-senate-effective-march-15-amid-allegations-that-he-sexually-harassed-female-col.md)

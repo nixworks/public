@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/9/as-predicted-asteroid-2018-cb-estimated-to-be-be
 ### [2018-02-9](/news/2018/02/9/index.md)
 
 ##### Asteroid close approaches to Earth in 2018
-# As predicted, asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). 
+# As predicted, asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. 
 
 The space rock 2018 CB is up to 40m long and will come within 64,000km of the planet’s surface
 
@@ -17,8 +17,8 @@ The space rock 2018 CB is up to 40m long and will come within 64,000km of the pl
 ### Changes:
 
 1. [As predicted, asteroid 2018 CB, which is 15-Meter (50-foot) wide, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). ](/news/2018/02/9/as-predicted-asteroid-2018-cb-which-is-15-meter-50-foot-wide-makes-a-fly-by-past-earth-at-a-distance-of-around-64-500-km-40-100-mi.md) _2018-02-10 00:30:22 (First version)_
-2. [Asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). ](/news/2018/02/9/asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distance-of-around-64.md) _2018-02-10 06:26:23 (Update)_
-2. [As predicted, asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). ](/news/2018/02/9/as-predicted-asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distanc.md) _(Current version)_
+2. [Asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. ](/news/2018/02/9/asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distance-of-around-64.md) _2018-02-10 19:30:22 (Update)_
+2. [As predicted, asteroid 2018 CB, estimated to be between 15 and 40 metres (50-130 feet) in diameter, makes a fly-by past Earth at a distance of around 64,500 km (40,100 mi). This is the second asteroid to make a fly-by this week. ](/news/2018/02/9/as-predicted-asteroid-2018-cb-estimated-to-be-between-15-and-40-metres-50a130-feet-in-diameter-makes-a-fly-by-past-earth-at-a-distanc.md) _(Current version)_
 
 ### Related:
 
