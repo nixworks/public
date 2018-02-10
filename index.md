@@ -15,9 +15,9 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)
 Narendra Modi backs independent Palestinian state during first trip by an Indian prime minister to occupied territories.
 
-##### Korean conflict
-### [President of South Korea Moon Jae-in hosts talks at the Blue House with President of the Presidium of the Supreme People's Assembly of North Korea Kim Yong-nam and Kim Yo-jong, the sister of North Korea's leader Kim Jong-un. ](/news/2018/02/10/president-of-south-korea-moon-jae-in-hosts-talks-at-the-blue-house-with-president-of-the-presidium-of-the-supreme-people-s-assembly-of-north.md)
-_Context: Kim Yong-nam, Kim Jong-un, Blue House, Supreme People's Assembly, President of South Korea, Korean conflict, Moon Jae-in, Kim Yo-jong_
+##### 2017-18 North Korea crisis
+### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
+_Context: President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, Blue House, Kim Jong-Un, Kim Yong-nam, Moon Jae-in, 2017-18 North Korea crisis, South Korean President, North Korea_
 
 ##### Opinion
 ### [The Post-Truth and the Context](/opinion/2017/04/4/the-post-truth-and-the-context/index.md)
@@ -33,7 +33,7 @@ Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
 
 ##### Earthquakes in 2018
 ### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Jalisco, Guadalajara, Mexican, Puerto Vallarta, Earthquakes in 2018, magnitude_
+_Context: Earthquakes in 2018, Jalisco, magnitude, Puerto Vallarta, Guadalajara, Mexican_
 
 ##### United States federal government shutdown of 2018
 ### [The United States government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
@@ -41,7 +41,7 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Peoples' Democratic Party, Turkey, Afrin offensive, opposition, Politics of Turkey_
+_Context: Peoples' Democratic Party, opposition, Afrin offensive, Politics of Turkey, Turkey_
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)
@@ -61,7 +61,7 @@ The overnight clash came after pro-government forces attacked a U.S.-backed base
 
 ##### Economy of Germany
 ### [Germany's trade surplus shrank in 2017 for the first time since 2009, reflecting strong domestic demand. ](/news/2018/02/8/germany-s-trade-surplus-shrank-in-2017-for-the-first-time-since-2009-reflecting-strong-domestic-demand.md)
-_Context: trade surplus, Economy of Germany_
+_Context: Economy of Germany, trade surplus_
 
 ##### Japan-United Kingdom relations
 ### [After a meeting with top Japanese business and British government executives in 10 Downing Street, Japan's ambassador to Britain warns that companies may discontinue their UK operations if a Brexit without a new trade deal makes them unprofitable. ](/news/2018/02/8/after-a-meeting-with-top-japanese-business-and-british-government-executives-in-10-downing-street-japan-s-ambassador-to-britain-warns-that.md)
@@ -77,7 +77,7 @@ BANJUL (Reuters) – Gambia has rejoined the Commonwealth, the tiny West African
 
 ##### Belgium-Netherlands relations
 ### [A judge in Amsterdam delays the extradition of the man suspected of a lethal stabbing on the Bruges Market Square, citing concerns over the living conditions in Belgian jails. ](/news/2018/02/8/a-judge-in-amsterdam-delays-the-extradition-of-the-man-suspected-of-a-lethal-stabbing-on-the-bruges-market-square-citing-concerns-over-the.md)
-_Context: Belgium-Netherlands relations, Amsterdam, Market Square, concerns, Bruges_
+_Context: Amsterdam, Belgium-Netherlands relations, Bruges, concerns, Market Square_
 
 ##### United States-Guatemala relations
 ### [U.S. President Donald Trump meets with Guatemalan President Jimmy Morales. Trump thanks Morales for having supported the decision of the United States to recognize Jerusalem as Israel's capital. They discuss various issues about the crisis in Venezuela, drug trafficking and the UN anti-corruption commission. ](/news/2018/02/8/u-s-president-donald-trump-meets-with-guatemalan-president-jimmy-morales-trump-thanks-morales-for-having-supported-the-decision-of-the-uni.md)
@@ -93,11 +93,11 @@ McArthur, 66, a self-employed landscaper, was charged last month with five count
 
 ##### American
 ### [Mexican authorities arrest American-born Jose Maria Guizar Valencia, the alleged leader of the Zetas drug cartel, as he was entering a hotel in Mexico City's upscale neighborhood of Roma. ](/news/2018/02/8/mexican-authorities-arrest-american-born-jose-maria-guizar-valencia-the-alleged-leader-of-the-zetas-drug-cartel-as-he-was-entering-a-hotel.md)
-_Context: Zetas, drug cartel, Mexico City, American, Roma_
+_Context: Zetas, drug cartel, American, Mexico City, Roma_
 
 ##### Weinstein effect
 ### [Jeff Kruse announces his resignation from the Oregon State Senate, effective March 15, amid allegations that he sexually harassed female colleagues and other staffers. Kruse denies the allegations. ](/news/2018/02/8/jeff-kruse-announces-his-resignation-from-the-oregon-state-senate-effective-march-15-amid-allegations-that-he-sexually-harassed-female-col.md)
-_Context: Weinstein effect, Oregon State Senate, Jeff Kruse_
+_Context: Weinstein effect, Jeff Kruse, Oregon State Senate_
 
 ---
 

@@ -15,9 +15,9 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)
 Narendra Modi backs independent Palestinian state during first trip by an Indian prime minister to occupied territories.
 
-##### Korean conflict
-### [President of South Korea Moon Jae-in hosts talks at the Blue House with President of the Presidium of the Supreme People's Assembly of North Korea Kim Yong-nam and Kim Yo-jong, the sister of North Korea's leader Kim Jong-un. ](/news/2018/02/10/president-of-south-korea-moon-jae-in-hosts-talks-at-the-blue-house-with-president-of-the-presidium-of-the-supreme-people-s-assembly-of-north.md)
-_Context: Kim Yong-nam, Kim Jong-un, Blue House, Supreme People's Assembly, President of South Korea, Korean conflict, Moon Jae-in, Kim Yo-jong_
+##### 2017-18 North Korea crisis
+### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
+_Context: President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, Blue House, Kim Jong-Un, Kim Yong-nam, Moon Jae-in, 2017-18 North Korea crisis, South Korean President, North Korea_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
