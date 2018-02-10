@@ -12,8 +12,9 @@ New research adds to a growing body of evidence showing how the British Isles re
 ### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-42939192)
-2. [The New York Times](https://www.nytimes.com/2018/02/07/world/europe/uk-cheddar-man-skeleton-skin.html)
-2. [Cover Image](https://static01.nyt.com/images/2018/02/08/world/europe/08cheddarman2/08cheddarman2-facebookJumbo.jpg)
+2. [Gene Expression](https://www.gnxp.com/WordPress/2018/02/06/the-genome-of-cheddar-man-is-about-to-be-published/)
+3. [The New York Times](https://www.nytimes.com/2018/02/07/world/europe/uk-cheddar-man-skeleton-skin.html)
+3. [Cover Image](https://static01.nyt.com/images/2018/02/08/world/europe/08cheddarman2/08cheddarman2-facebookJumbo.jpg)
 
 ### Changes:
 

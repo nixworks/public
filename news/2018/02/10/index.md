@@ -9,7 +9,7 @@ Israel shot down an Iranian drone launched from Syria and in response also struc
 
 ##### Korean conflict
 ### [President of South Korea Moon Jae-in hosts talks at the Blue House with President of the Presidium of the Supreme People's Assembly of North Korea Kim Yong-nam and Kim Yo-jong, the sister of North Korea's leader Kim Jong-un. ](/news/2018/02/10/president-of-south-korea-moon-jae-in-hosts-talks-at-the-blue-house-with-president-of-the-presidium-of-the-supreme-people-s-assembly-of-north.md)
-_Context: Kim Jong-un, Korean conflict, Kim Yo-jong, President of South Korea, Supreme People's Assembly, Kim Yong-nam, Blue House, Moon Jae-in_
+_Context: Moon Jae-in, Blue House, Kim Yong-nam, Supreme People's Assembly, Kim Yo-jong, Korean conflict, President of South Korea, Kim Jong-un_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
