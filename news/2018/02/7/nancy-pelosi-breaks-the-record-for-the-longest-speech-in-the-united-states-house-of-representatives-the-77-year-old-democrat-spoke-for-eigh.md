@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-s
 ### [2018-02-7](/news/2018/02/7/index.md)
 
 ##### DREAM Act
-# Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat spoke for eight hours non-stop for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. 
+# Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat spoke for eight hours non-stop, pleading for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. 
 
 House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immigrants whose protection from deportation ends next month.
 
@@ -18,7 +18,7 @@ House Democratic leader Nancy Pelosi read letters from &quot;Dreamer&quot; immig
 
 1. [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year Democrat pled eight hours non-stop for a vote to protect "Dreamer" immigrants who face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-democrat-pled-eight-hours-n.md) _2018-02-08 18:30:22 (First version)_
 2. [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat pleads eight hours non-stop for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-pleads-eight-h.md) _2018-02-09 14:30:17 (Update)_
-2. [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat spoke for eight hours non-stop for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-spoke-for-eigh.md) _(Current version)_
+2. [Nancy Pelosi breaks the record for the longest speech in the United States House of Representatives. The 77-year-old Democrat spoke for eight hours non-stop, pleading for a vote to protect "Dreamer" immigrants who illegally immigrated and face the threat of deportation. ](/news/2018/02/7/nancy-pelosi-breaks-the-record-for-the-longest-speech-in-the-united-states-house-of-representatives-the-77-year-old-democrat-spoke-for-eigh.md) _(Current version)_
 
 ### Related:
 

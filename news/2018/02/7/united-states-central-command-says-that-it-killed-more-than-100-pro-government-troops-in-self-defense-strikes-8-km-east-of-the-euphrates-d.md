@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/7/united-states-central-command-says-that-it-kille
 ### [2018-02-7](/news/2018/02/7/index.md)
 
 ##### United States attacks on the Syrian government
-# United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia.
+# United States Central Command says that it killed more than 100 pro-government troops in "self-defense" strikes 8 km east of the Euphrates de-confliction line that was reportedly agreed with Russia. 
 
 
 
