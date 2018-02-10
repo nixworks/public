@@ -9,11 +9,11 @@ An Egyptian police general is killed in fighting as security forces storm the Mu
 
 ##### Al-Qaida
 ### [Jihadis belonging to the al-Qaida offshoot known as the ISIL overrun the town of Azaz, after driving out the Free Syrian Army. ](/news/2013/09/19/jihadis-belonging-to-the-al-qaida-offshoot-known-as-the-isil-overrun-the-town-of-azaz-after-driving-out-the-free-syrian-army.md)
-_Context: ISIL, Azaz, al-Qaida, Free Syrian Army_
+_Context: Azaz, al-Qaida, ISIL, Free Syrian Army_
 
 ##### Japan
 ### [Japan reports that two Chinese ships have entered territorial waters off the coast of the disputed Senkaku Islands. ](/news/2013/09/19/japan-reports-that-two-chinese-ships-have-entered-territorial-waters-off-the-coast-of-the-disputed-senkaku-islands.md)
-_Context: territorial waters, China, Senkaku Islands dispute, Senkaku Islands, Japan_
+_Context: Senkaku Islands dispute, Senkaku Islands, territorial waters, China, Japan_
 
 ##### Singapore police
 ### [Singapore police arrest 14 people in Singapore in relation to alleged match fixing in football matches, including alleged financier and organiser Dan Tan Seet Eng. ](/news/2013/09/19/singapore-police-arrest-14-people-in-singapore-in-relation-to-alleged-match-fixing-in-football-matches-including-alleged-financier-and-orga.md)
@@ -33,7 +33,7 @@ _Context: Tom DeLay, money laundering, United States House Majority Leader_
 
 ##### JPMorgan Chase
 ### [JPMorgan Chase is fined $920 million for illegal practices (misleading investors and government regulators) related to trading losses in 2012. ](/news/2013/09/19/jpmorgan-chase-is-fined-920-million-for-illegal-practices-misleading-investors-and-government-regulators-related-to-trading-losses-in-201.md)
-_Context: JPMorgan Chase, United States dollars, fined_
+_Context: fined, JPMorgan Chase, United States dollars_
 
 ## [Previous Day...](/news/2013/09/18/index.md)
 

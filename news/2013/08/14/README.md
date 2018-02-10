@@ -37,11 +37,11 @@ A large UPS cargo plane crashed and burst into flames, killing its pilot and cop
 
 ##### 2013 Korean crisis
 ### [2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. ](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.md)
-_Context: 2013 Korean crisis, South Korea, North Korea, Kaesong area_
+_Context: Kaesong area, North Korea, South Korea, 2013 Korean crisis_
 
 ##### San Francisco Police Department
 ### [San Francisco police seize $1.5 million in ecstasy in one of the largest busts in department history.](/news/2013/08/14/san-francisco-police-seize-1-5-million-in-ecstasy-in-one-of-the-largest-busts-in-department-history.md)
-_Context: ecstasy, San Francisco Police Department_
+_Context: San Francisco Police Department, ecstasy_
 
 ##### University of Milan
 ### [A group of researchers led by a team at the University of Milan unveils a device which uses a magnetic pulse to stimulate the brain and measure the resulting electrical waves in order to more accurately assess the remaining level of brain function and consciousness in brain-damaged individuals. ](/news/2013/08/14/a-group-of-researchers-led-by-a-team-at-the-university-of-milan-unveils-a-device-which-uses-a-magnetic-pulse-to-stimulate-the-brain-and-meas.md)

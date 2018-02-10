@@ -5,7 +5,7 @@ Formats: [HTML](2016/05/27/index.html)  [JSON](2016/05/27/index.json)  [XML](201
 
 ##### Iraqi civil war
 ### [The United States reports 70 militants were killed, including ISIL commander Maher al-Bilawi, in a Fallujah airstrike on Wednesday. ](/news/2016/05/27/the-united-states-reports-70-militants-were-killed-including-isil-commander-maher-al-bilawi-in-a-fallujah-airstrike-on-wednesday.md)
-_Context: ISIL, Operation Breaking Terrorism, Fallujah, Iraqi civil war_
+_Context: Operation Breaking Terrorism, ISIL, Fallujah, Iraqi civil war_
 
 ##### Texas
 ### [Record rainfall and severe flooding in southeast Texas has killed at least two people with three others missing. On Thursday, a record 16.6 inches (42 cm) of rain fell in Brenham, west of Houston. ](/news/2016/05/27/record-rainfall-and-severe-flooding-in-southeast-texas-has-killed-at-least-two-people-with-three-others-missing-on-thursday-a-record-16-6.md)
@@ -41,7 +41,7 @@ The punishments, believed to be part of a wider crackdown by a judiciary dominat
 
 ##### Joaquin "El Chapo" Guzman
 ### [The legal team of Joaquin Guzman ("El Chapo"), the leader of the Sinaloa Cartel, has challenged the foreign ministry of Mexico's decision to extradite him to the United States. ](/news/2016/05/27/the-legal-team-of-joaquan-guzma-n-el-chapo-the-leader-of-the-sinaloa-cartel-has-challenged-the-foreign-ministry-of-mexico-s-decision.md)
-_Context: Secretary of Foreign Affairs, Sinaloa Cartel, United States, Joaquin "El Chapo" Guzman_
+_Context: Joaquin "El Chapo" Guzman, Secretary of Foreign Affairs, Sinaloa Cartel, United States_
 
 ##### Philippine presidential election, 2016
 ### [Rodrigo Duterte is officially elected as President and Leni Robredo as Vice President. ](/news/2016/05/27/rodrigo-duterte-is-officially-elected-as-president-and-leni-robredo-as-vice-president.md)

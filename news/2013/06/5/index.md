@@ -49,7 +49,7 @@ _Context: Michael Jackson_
 
 ##### A$
 ### [The Australian dollar hits a 20-month low against the United States dollar. ](/news/2013/06/5/the-australian-dollar-hits-a-20-month-low-against-the-united-states-dollar.md)
-_Context: A$, $_
+_Context: $, A$_
 
 ##### United States International Trade Commission
 ### [The United States International Trade Commission rules that Apple is infringing on a Samsung patent and bans the import of several popular Apple products. ](/news/2013/06/5/the-united-states-international-trade-commission-rules-that-apple-is-infringing-on-a-samsung-patent-and-bans-the-import-of-several-popular-a.md)
@@ -57,7 +57,7 @@ Samsung Electronics scored a victory over rival Apple Inc intheir long-running d
 
 ##### International Monetary Fund
 ### [The International Monetary Fund (IMF) says it underestimated the damage austerity would do to Greece. ](/news/2013/06/5/the-international-monetary-fund-imf-says-it-underestimated-the-damage-austerity-would-do-to-greece.md)
-_Context: International Monetary Fund, Greece, austerity_
+_Context: International Monetary Fund, austerity, Greece_
 
 ##### Amazon.com
 ### [Online retailer Amazon.com begins operations in India. ](/news/2013/06/5/online-retailer-amazon-com-begins-operations-in-india.md)
@@ -85,7 +85,7 @@ _Context: Legionnaires' Disease_
 
 ##### Bradley Manning
 ### [The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileaks-at-this-time.md)
-_Context: Bradley Manning, WikiLeaks_
+_Context: WikiLeaks, Bradley Manning_
 
 ##### Metropolitan Police Service
 ### [The jailing for two years of former Met Police officer Paul Flattley, who sold information to News International daily tabloid "The Sun" about Catherine, Duchess of Cambridge, Paul Gascoigne and a 15-year-old girl who died of an overdose, is revealed for the first time today, "legal reasons" having prevented its disclosure until now. ](/news/2013/06/5/the-jailing-for-two-years-of-former-met-police-officer-paul-flattley-who-sold-information-to-news-international-daily-tabloid-the-sun-abo.md)

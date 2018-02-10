@@ -17,27 +17,27 @@ _Context: Iranian opposition_
 
 ##### Philippine government
 ### [The Government of the Philippines and Communist Party of the Philippines hold their first peace talks in six years in Oslo, Norway. ](/news/2011/02/15/the-government-of-the-philippines-and-communist-party-of-the-philippines-hold-their-first-peace-talks-in-six-years-in-oslo-norway.md)
-_Context: Oslo, Philippine government, Norway, Communist_
+_Context: Communist, Philippine government, Norway, Oslo_
 
 ##### Prime Minister of Japan
 ### [The Prime Minister of Japan Naoto Kan vows to find the remains of the 12,000 Japanese soldiers still missing after the Battle of Iwo Jima of World War II. ](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.md)
-_Context: Naoto Kan, World War II, Imperial Japanese Army, Prime Minister of Japan, Battle of Iwo Jima_
+_Context: Imperial Japanese Army, World War II, Naoto Kan, Battle of Iwo Jima, Prime Minister of Japan_
 
 ##### Raymond Chandler
 ### [Writer Raymond Chandler's wife's ashes are buried over his casket during a ceremony in San Diego in the U.S. state of California. ](/news/2011/02/15/writer-raymond-chandler-s-wife-s-ashes-are-buried-over-his-casket-during-a-ceremony-in-san-diego-in-the-u-s-state-of-california.md)
-_Context: U.S. state, Raymond Chandler, California, San Diego_
+_Context: Raymond Chandler, U.S. state, San Diego, California_
 
 ##### China
 ### [The People's Republic of China orders makers of films and television programs to limit the amount of smoking shown on-screen. ](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.md)
-_Context: smoking, China_
+_Context: China, smoking_
 
 ##### Mtley Cre
 ### [Mtley Cre singer Vince Neil begins a 15-day jail sentence for drunk driving in Las Vegas. ](/news/2011/02/15/motley-crue-singer-vince-neil-begins-a-15-day-jail-sentence-for-drunk-driving-in-las-vegas.md)
-_Context: drunk driving, Vince Neil, Mtley Cre, Las Vegas_
+_Context: drunk driving, Las Vegas, Vince Neil, Mtley Cre_
 
 ##### Government of Malaysia
 ### [The Government of Malaysia cancels a concert by expatriate Iranian singer Mohsen Namjoo "because it is not appropriate in terms of religion, culture and the country's cosmopolitan nature". ](/news/2011/02/15/the-government-of-malaysia-cancels-a-concert-by-expatriate-iranian-singer-mohsen-namjoo-because-it-is-not-appropriate-in-terms-of-religion.md)
-_Context: Government of Malaysia, Iran, Mohsen Namjoo_
+_Context: Iran, Government of Malaysia, Mohsen Namjoo_
 
 ##### Inflation
 ### [Inflation in the People's Republic of China increases to 4.9 per cent. ](/news/2011/02/15/inflation-in-the-people-s-republic-of-china-increases-to-4-9-per-cent.md)
@@ -45,7 +45,7 @@ Chinese consumer price inflation quickened to 4.9% in the year to January, the N
 
 ##### Apple Inc.
 ### [Apple launches a subscription service for magazines, newspapers, videos, and music bought through its App Store. ](/news/2011/02/15/apple-launches-a-subscription-service-for-magazines-newspapers-videos-and-music-bought-through-its-app-store.md)
-_Context: Apple Inc., App Store_
+_Context: App Store, Apple Inc._
 
 ##### United Airlines
 ### [United Airlines temporarily grounds its fleet of 96 Boeing 757 jetliners so it can perform checks to earlier modifications to air-data computers. ](/news/2011/02/15/united-airlines-temporarily-grounds-its-fleet-of-96-boeing-757-jetliners-so-it-can-perform-checks-to-earlier-modifications-to-air-data-compu.md)
@@ -57,7 +57,7 @@ reaching impact on deals (Adds background, judge and Airgas comment, from paragr
 
 ##### Argentina
 ### [Argentina lodges an official complaint against the United States after America's landing of a military plane loaded with undeclared "sensitive material", including guns, drugs and satellite phones, leading the Argentinian government to express concerns that the U.S. was attempting to sneak its cargo into the country. ](/news/2011/02/15/argentina-lodges-an-official-complaint-against-the-united-states-after-america-s-landing-of-a-military-plane-loaded-with-undeclared-sensiti.md)
-_Context: Argentina, United States_
+_Context: United States, Argentina_
 
 ##### United States Secretary of State
 ### [The United States Secretary of State Hillary Clinton outlines a new policy on Internet freedomdate=August 2017. ](/news/2011/02/15/the-united-states-secretary-of-state-hillary-clinton-outlines-a-new-policy-on-internet-freedomdate-august-2017.md)
@@ -65,11 +65,11 @@ The State Department will finance programs to help Internet users around the wor
 
 ##### UNASUR Constitutive Treaty
 ### [The UNASUR Constitutive Treaty of the Union of South American Nations will come into force on March 11th, following the deposit of its ninth instrument of ratification, by the Uruguayan government. ](/news/2011/02/15/the-unasur-constitutive-treaty-of-the-union-of-south-american-nations-will-come-into-force-on-march-11th-following-the-deposit-of-its-ninth.md)
-_Context: UNASUR Constitutive Treaty, Uruguayan government, Union of South American Nations_
+_Context: UNASUR Constitutive Treaty, Union of South American Nations, Uruguayan government_
 
 ##### Islam
 ### [Islamic morality police arrest over 80 Muslims in Malaysia to prevent them from celebrating Valentine's Day. ](/news/2011/02/15/islamic-morality-police-arrest-over-80-muslims-in-malaysia-to-prevent-them-from-celebrating-valentine-s-day.md)
-_Context: Valentine's Day, Islam, Muslim, Malaysia_
+_Context: Islam, Muslim, Valentine's Day, Malaysia_
 
 ##### Italian Prime Minister
 ### [The Prime Minister of Italy Silvio Berlusconi is indicted on charges of paying for sex with an underaged girl and abuse of power in the so-called Rubygate scandal. ](/news/2011/02/15/the-prime-minister-of-italy-silvio-berlusconi-is-indicted-on-charges-of-paying-for-sex-with-an-underaged-girl-and-abuse-of-power-in-the-so-c.md)
@@ -93,11 +93,11 @@ _Context: Mexico City, U.S. Immigration and Customs Enforcement, Monterrey_
 
 ##### Palestinian
 ### [A Palestinian teen is released from Israeli custody after the police officer who alledegly beat a confession out of him fails to show up to an inquiry. The teenager was held in Israel for 7 months for allegedly throwing rocks before being released.](/news/2011/02/15/a-palestinian-teen-is-released-from-israeli-custody-after-the-police-officer-who-alledegly-beat-a-confession-out-of-him-fails-to-show-up-to.md)
-_Context: Israel, Palestinian, beat a confession_
+_Context: Israel, beat a confession, Palestinian_
 
 ##### Israel
 ### [The Israeli Knesset has passed a bill making boycotting Israeli individuals or organizations illegal.](/news/2011/02/15/the-israeli-knesset-has-passed-a-bill-making-boycotting-israeli-individuals-or-organizations-illegal.md)
-_Context: boycotting Israeli, Israel, parliament in Israel_
+_Context: boycotting Israeli, parliament in Israel, Israel_
 
 ##### WikiLeaks
 ### [A proposal by a consortium of private contractors to attack WikiLeaks and to discredit journalists in favour of the website - including Glenn Greenwald - is uncovered after thousands of e-mails are leaked onto the internet, some of which call for people who donate to be tracked and intimidated. ](/news/2011/02/15/a-proposal-by-a-consortium-of-private-contractors-to-attack-wikileaks-and-to-discredit-journalists-in-favour-of-the-website-including-glen.md)

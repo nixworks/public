@@ -5,7 +5,7 @@ Formats: [HTML](2010/09/20/index.html)  [JSON](2010/09/20/index.json)  [XML](201
 
 ##### Pakistan
 ### [A U.S. missile strike kills six alleged militants in northwestern Pakistan in Shawa near Mir Ali in the North Waziristan tribal area. ](/news/2010/09/20/a-u-s-missile-strike-kills-six-alleged-militants-in-northwestern-pakistan-in-shawa-near-mir-ali-in-the-north-waziristan-tribal-area.md)
-_Context: Shawa, Pakistan, Mir Ali, North Waziristan_
+_Context: Shawa, North Waziristan, Pakistan, Mir Ali_
 
 ##### Syed Ali Shah Geelani
 ### [MPs meet Syed Ali Shah Geelani in Kashmir in a bid to resolve the crisis, the first visit there by an all-party Indian team in two decades. ](/news/2010/09/20/mps-meet-syed-ali-shah-geelani-in-kashmir-in-a-bid-to-resolve-the-crisis-the-first-visit-there-by-an-all-party-indian-team-in-two-decades.md)
@@ -13,7 +13,7 @@ The main separatist leaders in Indian-administered Kashmir have rare meetings wi
 
 ##### Breguet Atlantique
 ### [France sends dozens of soldiers equipped with Breguet Atlantique and Mirage aircraft to Niamey, Niger, in its search for 7 kidnapped hostages. ](/news/2010/09/20/france-sends-dozens-of-soldiers-equipped-with-breguet-atlantique-and-mirage-aircraft-to-niamey-niger-in-its-search-for-7-kidnapped-hostage.md)
-_Context: Niamey, Niger, Breguet Atlantique, Mirage_
+_Context: Breguet Atlantique, Mirage, Niamey, Niger_
 
 ##### Somalia
 ### [GBC, the Somali radio station seized yesterday, is to now broadcast only Islamic messages. ](/news/2010/09/20/gbc-the-somali-radio-station-seized-yesterday-is-to-now-broadcast-only-islamic-messages.md)
@@ -25,15 +25,15 @@ The Colombian armed forces say they killed a senior Farc rebel leader in an atta
 
 ##### Glastonbury Abbey
 ### [The director of Glastonbury Abbey issues an apology after giving Hollywood actor Nicolas Cage access to the grave of King Arthur during a live TV broadcast. ](/news/2010/09/20/the-director-of-glastonbury-abbey-issues-an-apology-after-giving-hollywood-actor-nicolas-cage-access-to-the-grave-of-king-arthur-during-a-li.md)
-_Context: Hollywood, King Arthur, Nicolas Cage, Glastonbury Abbey_
+_Context: Glastonbury Abbey, Hollywood, King Arthur, Nicolas Cage_
 
 ##### United States
 ### [More than 600 antiquities lost in mysterious circumstances due to "inappropriate handover procedures" after being repatriated by the United States in 2009 are found and returned to the National Museum of Iraq. ](/news/2010/09/20/more-than-600-antiquities-lost-in-mysterious-circumstances-due-to-inappropriate-handover-procedures-after-being-repatriated-by-the-united.md)
-_Context: United States, National Museum of Iraq_
+_Context: National Museum of Iraq, United States_
 
 ##### United States
 ### [Jailed U.S. entertainer Lindsay Lohan has her probation revoked by Judge Elden Fox following a failed drug test. ](/news/2010/09/20/jailed-u-s-entertainer-lindsay-lohan-has-her-probation-revoked-by-judge-elden-fox-following-a-failed-drug-test.md)
-_Context: probation, United States, drug test, Lindsay Lohan_
+_Context: probation, United States, Lindsay Lohan, drug test_
 
 ##### Paran
 ### [110 people are wounded as a stadium collapses during a car race in Paran, Brazil. ](/news/2010/09/20/110-people-are-wounded-as-a-stadium-collapses-during-a-car-race-in-parana-brazil.md)
@@ -41,31 +41,31 @@ About 110 people have been injured, 22 seriously, when part of the seating at a 
 
 ##### Train
 ### [At least 21 people are killed and dozens are injured after two trains collide in the Shivpuri district of India's Madhya Pradesh state. ](/news/2010/09/20/at-least-21-people-are-killed-and-dozens-are-injured-after-two-trains-collide-in-the-shivpuri-district-of-india-s-madhya-pradesh-state.md)
-_Context: Madhya Pradesh, Shivpuri district, India, train_
+_Context: Madhya Pradesh, India, Shivpuri district, train_
 
 ##### Typhoon Fanapi
 ### [Typhoon Fanapi arrives in China's Fujian province after causing widespread damage in Taiwan. ](/news/2010/09/20/typhoon-fanapi-arrives-in-china-s-fujian-province-after-causing-widespread-damage-in-taiwan.md)
-_Context: Fujian, Chinese, Typhoon Fanapi, Taiwan_
+_Context: Taiwan, Chinese, Fujian, Typhoon Fanapi_
 
 ##### Russian Air Force
 ### [A Russian Air Force Sukhoi Su-27 aircraft crashes in the Russian Far East; both pilots are rescued alive. ](/news/2010/09/20/a-russian-air-force-sukhoi-su-27-aircraft-crashes-in-the-russian-far-east-both-pilots-are-rescued-alive.md)
-_Context: Russian SU-27 fighter jet, Far East, Russian Air Force_
+_Context: Russian Air Force, Russian SU-27 fighter jet, Far East_
 
 ##### Admiral
 ### [Admiral Thad Allen of the United States Coast Guard, the man responsible for leading the cleanup of the Deepwater Horizon oil spill, declares that BP's Macondo well is sealed. ](/news/2010/09/20/admiral-thad-allen-of-the-united-states-coast-guard-the-man-responsible-for-leading-the-cleanup-of-the-deepwater-horizon-oil-spill-declare.md)
-_Context: United States Coast Guard, Macondo, Deepwater Horizon oil spill, admiral, BP, Thad Allen_
+_Context: United States Coast Guard, Deepwater Horizon oil spill, Thad Allen, admiral, BP, Macondo_
 
 ##### IAEA
 ### [The 54th International Atomic Energy Agency (IAEA) General Conference opens in Vienna with attendance by 151 countries. ](/news/2010/09/20/the-54th-international-atomic-energy-agency-iaea-general-conference-opens-in-vienna-with-attendance-by-151-countries.md)
-_Context: Vienna, IAEA_
+_Context: IAEA, Vienna_
 
 ##### United States
 ### [The United States and Australia issue travel warnings for India following the shooting of two Taiwanese tourists outside the Jama Masjid mosque in Delhi. ](/news/2010/09/20/the-united-states-and-australia-issue-travel-warnings-for-india-following-the-shooting-of-two-taiwanese-tourists-outside-the-jama-masjid-mos.md)
-_Context: India, Jama Masjid, United States, Taiwan, Australia, Delhi, mosque_
+_Context: Jama Masjid, mosque, United States, India, Delhi, Australia, Taiwan_
 
 ##### New York City
 ### [World leaders arrive in New York City for a United Nations summit to discuss progress in implementing Millennium Development Goals. ](/news/2010/09/20/world-leaders-arrive-in-new-york-city-for-a-united-nations-summit-to-discuss-progress-in-implementing-millennium-development-goals.md)
-_Context: Millennium Development Goal, New York City, United Nations_
+_Context: United Nations, New York City, Millennium Development Goal_
 
 ##### Syria
 ### [A Syrian ship transporting food and medical aid to the Gaza Strip docks in El-Arish. ](/news/2010/09/20/a-syrian-ship-transporting-food-and-medical-aid-to-the-gaza-strip-docks-in-el-arish.md)
@@ -77,7 +77,7 @@ A father who lost his daughter in the Lockerbie bombing has travelled to Libya t
 
 ##### Sweden
 ### [Results in the Swedish general election show the centre-right Alliance government led by Prime Minister Fredrik Reinfeldt winning a plurality, with the Sweden Democrats holding the balance of power. ](/news/2010/09/20/results-in-the-swedish-general-election-show-the-centre-right-alliance-government-led-by-prime-minister-fredrik-reinfeldt-winning-a-pluralit.md)
-_Context: Sweden, Swedish general election, Fredrik Reinfeldt, Sweden Democrats, The Alliance, prime minister_
+_Context: The Alliance, Swedish general election, prime minister, Sweden, Sweden Democrats, Fredrik Reinfeldt_
 
 ##### Taoiseach
 ### [Irish Taoiseach Brian Cowen comes under pressure to resign from former ministers and backbenchers in his own party after last week's controversial live radio interview with Cathal Mac Coille on "Morning Ireland". ](/news/2010/09/20/irish-taoiseach-brian-cowen-comes-under-pressure-to-resign-from-former-ministers-and-backbenchers-in-his-own-party-after-last-week-s-controv.md)
@@ -95,7 +95,7 @@ German ministers propose a data protection code following meetings with firms su
 ### [A date is set for a North Korea Workers Party conference. ](/news/2010/09/20/a-date-is-set-for-a-north-korea-workers-party-conference.md)
 ##### Fiji
 ### [The death of a Fijian detainee at the Villawood Detention Centre in Sydney, Australia, sparks a rooftop protest by Tamil detainees. ](/news/2010/09/20/the-death-of-a-fijian-detainee-at-the-villawood-detention-centre-in-sydney-australia-sparks-a-rooftop-protest-by-tamil-detainees.md)
-_Context: Fiji, Villawood Detention Centre, Tamil, Sydney, Australia_
+_Context: Tamil, Sydney, Australia, Villawood Detention Centre, Fiji_
 
 ##### Jupiter
 ### [Jupiter becomes the brightest object in the night sky after the Moon as it makes its closest approach to Earth since 1963. ](/news/2010/09/20/jupiter-becomes-the-brightest-object-in-the-night-sky-after-the-moon-as-it-makes-its-closest-approach-to-earth-since-1963.md)

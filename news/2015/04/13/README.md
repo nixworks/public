@@ -13,7 +13,7 @@ Toxicology results have found one of the pilots on board a cargo plane that cras
 
 ##### Wildfires
 ### [Wildfires in Southern Siberia, Russia kill at least 26 people and damage 1,300 homes. ](/news/2015/04/13/wildfires-in-southern-siberia-russia-kill-at-least-26-people-and-damage-1-300-homes.md)
-_Context: Wildfires, Siberia_
+_Context: Siberia, Wildfires_
 
 ##### Russia
 ### [Russian president Vladimir Putin lifts the ban on delivery of S-300 missile air defense systems to Iran in connection to the nuclear dialogue. Israel and the United States oppose the deal on the grounds that Iran is a state sponsor of terrorism. ](/news/2015/04/13/russian-president-vladimir-putin-lifts-the-ban-on-delivery-of-s-300-missile-air-defense-systems-to-iran-in-connection-to-the-nuclear-dialogu.md)
@@ -21,11 +21,11 @@ The Russian president has repealed the ban prohibiting the delivery of S-300 mis
 
 ##### Libyan Civil War (2014-present)
 ### [In Tripoli, the Moroccan Embassy is damaged by a bomb explosion just hours after gunmen assault the South Korean mission. ISIL loyalists take credit for both attacks. ](/news/2015/04/13/in-tripoli-the-moroccan-embassy-is-damaged-by-a-bomb-explosion-just-hours-after-gunmen-assault-the-south-korean-mission-isil-loyalists-tak.md)
-_Context: ISIL, Libyan Civil War (2014-present), Tripoli_
+_Context: Libyan Civil War (2014-present), ISIL, Tripoli_
 
 ##### Managua
 ### [An American man working at Managua's U.S. embassy provokes a security scare in Nicaragua; the country's health ministry quarantines the Ebola suspect and asks that he be removed from the country immediately. ](/news/2015/04/13/an-american-man-working-at-managua-s-u-s-embassy-provokes-a-security-scare-in-nicaragua-the-country-s-health-ministry-quarantines-the-ebol.md)
-_Context: Ebola, Managua_
+_Context: Managua, Ebola_
 
 ##### Wayne Community College
 ### [A former work-study student is sought in a shooting of his print shop supervisor at Wayne Community College in Goldsboro, North Carolina and is still on the run. ](/news/2015/04/13/a-former-work-study-student-is-sought-in-a-shooting-of-his-print-shop-supervisor-at-wayne-community-college-in-goldsboro-north-carolina-and.md)
@@ -49,7 +49,7 @@ _Context: manslaughter by gross negligence, Tulsa, Oklahoma_
 
 ##### 2016 U.S. presidential election
 ### [Florida Senator Marco Rubio announces his candidacy for the Republican nomination in the 2016 presidential election. ](/news/2015/04/13/florida-senator-marco-rubio-announces-his-candidacy-for-the-republican-nomination-in-the-2016-presidential-election.md)
-_Context: the state, 2016 U.S. presidential election, Marco Rubio, Senator, Republican, candidacy_
+_Context: candidacy, 2016 U.S. presidential election, Senator, Republican, Marco Rubio, the state_
 
 ## [Previous Day...](/news/2015/04/12/index.md)
 

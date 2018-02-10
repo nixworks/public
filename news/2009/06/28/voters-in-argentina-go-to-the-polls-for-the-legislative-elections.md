@@ -15,7 +15,7 @@ Formats: [HTML](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-leg
 
 ### Changes:
 
-1. [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md) _2018-02-08 04:16:22 (First version)_
+1. [ Voters in Albania go to the polls in a parliamentary election. ](/news/2009/06/28/voters-in-albania-go-to-the-polls-in-a-parliamentary-election.md) _2018-02-09 04:10:50 (First version)_
 1. [ Voters in Argentina go to the polls for the legislative elections. ](/news/2009/06/28/voters-in-argentina-go-to-the-polls-for-the-legislative-elections.md) _(Current version)_
 
 ### Related:

@@ -17,7 +17,7 @@ A hand grenade hurled from a parking lot into a popular tourist area of Kuala Lu
 
 ##### Iraqi insurgency (2011-present)
 ### [A car bombing in a busy street in Baghdad's largest Shi'ite neighbourhood kills at least 12 people. ](/news/2014/10/9/a-car-bombing-in-a-busy-street-in-baghdad-s-largest-shi-ite-neighbourhood-kills-at-least-12-people.md)
-_Context: Baghdad, Iraqi insurgency (2011-present), car bombing, Shi'ite_
+_Context: car bombing, Baghdad, Shi'ite, Iraqi insurgency (2011-present)_
 
 ##### Patrick Modiano
 ### [The French novelist Patrick Modiano is awarded the 2014 Nobel Prize in Literature. ](/news/2014/10/9/the-french-novelist-patrick-modiano-is-awarded-the-2014-nobel-prize-in-literature.md)
@@ -37,7 +37,7 @@ Estonia on Thursday became the first former Soviet republic to grant equal right
 
 ##### 2014 pro-democracy street protests
 ### [Hong Kong government says it has called off a meeting on 10 October 2014 with student leaders of the pro-democracy movement. ](/news/2014/10/9/hong-kong-government-says-it-has-called-off-a-meeting-on-10-october-2014-with-student-leaders-of-the-pro-democracy-movement.md)
-_Context: Hong Kong, 2014 pro-democracy street protests_
+_Context: 2014 pro-democracy street protests, Hong Kong_
 
 ##### 
 ### [At least 12 people are killed in demonstrations across Turkey. ](/news/2014/10/9/at-least-12-people-are-killed-in-demonstrations-across-turkey.md)

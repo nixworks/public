@@ -5,7 +5,7 @@ Formats: [HTML](2005/05/7/index.html)  [JSON](2005/05/7/index.json)  [XML](2005/
 
 ##### Northern Ireland
 ### [ Northern Ireland's Ulster Unionist Party leader David Trimble, the 1998 Nobel Peace Prize winner who helped reach the Good Friday Agreement, resigns from the leadership post he has held for ten years, after losing his seat in the British general election the previous day. ](/news/2005/05/7/northern-ireland-s-ulster-unionist-party-leader-david-trimble-the-1998-nobel-peace-prize-winner-who-helped-reach-the-good-friday-agreement.md)
-_Context: Northern Ireland, British general election, Nobel Peace Prize, Good Friday Agreement, David Trimble, Ulster Unionist Party_
+_Context: Ulster Unionist Party, British general election, Northern Ireland, Good Friday Agreement, David Trimble, Nobel Peace Prize_
 
 ##### George Peter Nanos
 ### [ George Peter Nanos announces that he will step down as the director of the Los Alamos National Laboratory, making his term the shortest of any previous director. ](/news/2005/05/7/george-peter-nanos-announces-that-he-will-step-down-as-the-director-of-the-los-alamos-national-laboratory-making-his-term-the-shortest-of.md)

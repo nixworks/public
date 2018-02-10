@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/7/index.html)  [JSON](2017/11/7/index.json)  [XML](2017/
 
 ##### Air quality in Delhi
 ### [A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. ](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-capital-delhi-with-some-areas-30-times-more-polluted-than-the-world-health-organization-s-r.md)
-_Context: Delhi, a similar smog, India, Air quality in Delhi, World Health Organization_
+_Context: World Health Organization, a similar smog, Air quality in Delhi, India, Delhi_
 
 ##### North Korea's nuclear program
 ### [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md)
@@ -13,11 +13,11 @@ North Korea’s crippling nuclear test site is turning the area into a “wastel
 
 ##### Yemeni Crisis (2011-present)
 ### [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md)
-_Context: Iran, Saudi Arabia, Mohammad bin Salman, Yemeni Crisis (2011-present), Yemen_
+_Context: Yemen, Saudi Arabia, Yemeni Crisis (2011-present), Mohammad bin Salman, Iran_
 
 ##### South Korea-United States relations
 ### [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md)
-_Context: South Korea-United States relations, Donald Trump, North Korea, South Korea, 2017 North Korea crisis, U.S. President_
+_Context: South Korea-United States relations, 2017 North Korea crisis, South Korea, Donald Trump, North Korea, U.S. President_
 
 ##### Paris Agreement parties and signatories
 ### [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md)

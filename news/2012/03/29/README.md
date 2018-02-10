@@ -9,7 +9,7 @@ _Context: Adrienne Rich_
 
 ##### Spain
 ### [Workers in Spain commence a general strike over government austerity measures. ](/news/2012/03/29/workers-in-spain-commence-a-general-strike-over-government-austerity-measures.md)
-_Context: Spain, general strike_
+_Context: general strike, Spain_
 
 ##### Petrol stations
 ### [Queues form at petrol stations across the United Kingdom after government ministers urged motorists to top up their fuel tanks ahead of a possible strike by fuel tanker drivers. ](/news/2012/03/29/queues-form-at-petrol-stations-across-the-united-kingdom-after-government-ministers-urged-motorists-to-top-up-their-fuel-tanks-ahead-of-a-po.md)
@@ -25,7 +25,7 @@ At least 13 people have died in a riot and fire at a Honduran prison, officials 
 
 ##### Brazil
 ### [The leaders of Brazil, Russia, India, China and South Africa meet in New Delhi, India, for the 2012 BRICS summit. ](/news/2012/03/29/the-leaders-of-brazil-russia-india-china-and-south-africa-meet-in-new-delhi-india-for-the-2012-brics-summit.md)
-_Context: New Delhi, South Africa, India, 2012 BRICS summit, Brazil, China, Russia_
+_Context: 2012 BRICS summit, South Africa, New Delhi, Russia, India, Brazil, China_
 
 ##### Bologna
 ### [Two Italians set themselves on fire in Bologna and Verona. ](/news/2012/03/29/two-italians-set-themselves-on-fire-in-bologna-and-verona.md)
@@ -45,11 +45,11 @@ _Context: Sten Tolgfors, Swedish Minister for Defence, Saudi Arabia_
 
 ##### Iranian-born
 ### [Iranian-born Israeli politician Shaul Mofaz is elected as leader of the Kadima party and Israel's leader of opposition. ](/news/2012/03/29/iranian-born-israeli-politician-shaul-mofaz-is-elected-as-leader-of-the-kadima-party-and-israel-s-leader-of-opposition.md)
-_Context: Kadima, Shaul Mofaz, leader of opposition, Iranian-born, Israel, elected_
+_Context: Israel, Shaul Mofaz, leader of opposition, Iranian-born, Kadima, elected_
 
 ##### George Galloway
 ### [George Galloway of the Respect Party wins the United Kingdom House of Commons constituency of Bradford West in a by-election. ](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.md)
-_Context: constituency, United Kingdom House of Commons, Respect, by-election, Bradford West, George Galloway_
+_Context: George Galloway, Bradford West, constituency, by-election, United Kingdom House of Commons, Respect_
 
 ##### 10 Downing Street
 ### [The UK government says that viaspan, a solution used to preserve some donor organs, could be contaminated with bacteria after routine tests detected "Bacillus cereus" in the solution used to test the sterility of viaspan. ](/news/2012/03/29/the-uk-government-says-that-viaspan-a-solution-used-to-preserve-some-donor-organs-could-be-contaminated-with-bacteria-after-routine-tests.md)

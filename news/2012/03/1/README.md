@@ -13,11 +13,11 @@ _Context: Azerbaijan_
 
 ##### Turkish police
 ### [A bomb explodes on a Turkish police bus in Istanbul injuring three people. ](/news/2012/03/1/a-bomb-explodes-on-a-turkish-police-bus-in-istanbul-injuring-three-people.md)
-_Context: Turkish police, Istanbul_
+_Context: Istanbul, Turkish police_
 
 ##### NATO
 ### [Two members of the NATO International Security Assistance Force are killed in southern Afghanistan, one of whom is believed to be a member of the Afghan Army. ](/news/2012/03/1/two-members-of-the-nato-international-security-assistance-force-are-killed-in-southern-afghanistan-one-of-whom-is-believed-to-be-a-member-o.md)
-_Context: NATO, Afghanistan, International Security Assistance Force, Afghan Army_
+_Context: International Security Assistance Force, NATO, Afghan Army, Afghanistan_
 
 ##### Euro zone
 ### [Unemployment in the Euro zone rises to 10.7 per cent, the highest level in its history. ](/news/2012/03/1/unemployment-in-the-euro-zone-rises-to-10-7-per-cent-the-highest-level-in-its-history.md)
@@ -25,7 +25,7 @@ Euro zone joblessnessrose to a new euro-era high while inflation was largely ste
 
 ##### Brazil
 ### [Brazil announces the continuation of a "currency war" with the European Union and the United States with the extension of a financial transaction tax on foreign borrowings. ](/news/2012/03/1/brazil-announces-the-continuation-of-a-currency-war-with-the-european-union-and-the-united-states-with-the-extension-of-a-financial-transa.md)
-_Context: financial transaction tax, United States, Brazil, European Union_
+_Context: European Union, Brazil, financial transaction tax, United States_
 
 ##### Australia
 ### [Heavy rains in the Australian state of New South Wales leads to evacuations or warnings in the towns of Cooma, Goulburn, Queanbeyan and near the town of Kiama. ](/news/2012/03/1/heavy-rains-in-the-australian-state-of-new-south-wales-leads-to-evacuations-or-warnings-in-the-towns-of-cooma-goulburn-queanbeyan-and-near.md)
@@ -37,7 +37,7 @@ Passengers on the Costa Allegra speak of difficult conditions on board as the st
 
 ##### Vietnam
 ### [Vietnam claims that the People's Republic of China has assaulted Vietnamese fishermen in disputed waters in the South China Sea. ](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.md)
-_Context: Vietnam, China, disputed waters, South China Sea, Vietnamese_
+_Context: Vietnamese, disputed waters, China, South China Sea, Vietnam_
 
 ##### American
 ### [Americans working for non-government organisations who had been facing trial in Egypt are allowed to leave. ](/news/2012/03/1/americans-working-for-non-government-organisations-who-had-been-facing-trial-in-egypt-are-allowed-to-leave.md)
@@ -57,7 +57,7 @@ A suspected terrorist who was arrested in Jharkhand and on whose tip off two mor
 
 ##### Child murders
 ### [T.J. Lane, perpetrator of the Chardon High School shooting, is charged with 3 counts of aggravated murder. ](/news/2012/03/1/t-j-lane-perpetrator-of-the-chardon-high-school-shooting-is-charged-with-3-counts-of-aggravated-murder.md)
-_Context: aggravated murder, child murders_
+_Context: child murders, aggravated murder_
 
 ##### Martin O'Malley
 ### [Martin O'Malley, the Governor of the US state of Maryland, signs a law legalizing gay marriage in that state. ](/news/2012/03/1/martin-o-malley-the-governor-of-the-us-state-of-maryland-signs-a-law-legalizing-gay-marriage-in-that-state.md)

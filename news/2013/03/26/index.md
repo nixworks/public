@@ -21,7 +21,7 @@ _Context:  Saladin Province, Iraq, Tuz Khormato_
 
 ##### Collapse
 ### [2012-2013 Cypriot financial crisis: Cyprus's Ministry of Finance says banks will remain shut until Thursday to give regulators time to guard against a run on deposits, and that big depositors in Cypriot banks can lose up to 40% of their funds, while depositors with less than 100,000 euros in their accounts will not be affected by bailout plans. ](/news/2013/03/26/2012a2013-cypriot-financial-crisis-cyprus-s-ministry-of-finance-says-banks-will-remain-shut-until-thursday-to-give-regulators-time-to-gua.md)
-_Context: regulators, Cyprus, deposits, bailout, run, collapse_
+_Context: Cyprus, deposits, collapse, regulators, bailout, run_
 
 ##### Brazil
 ### [Leaders of Brazil, Russia, India, China and South Africa meet in Durban for the 2013 BRICS summit. ](/news/2013/03/26/leaders-of-brazil-russia-india-china-and-south-africa-meet-in-durban-for-the-2013-brics-summit.md)
@@ -41,11 +41,11 @@ Amanda Knox and her former boyfriend Raffaele Sollecito were acquitted on appeal
 
 ##### Arab League
 ### [The Arab League summit begins in Qatar, Doha, with the Syria conflict and possible talks between the Afghanistan government and the Taliban among the key issues. ](/news/2013/03/26/the-arab-league-summit-begins-in-qatar-doha-with-the-syria-conflict-and-possible-talks-between-the-afghanistan-government-and-the-taliban.md)
-_Context: Syrian civil war, summit, Afghanistan, Arab League, Afghan government's, Taliban, Doha, Qatar_
+_Context: Afghanistan, Syrian civil war, Doha, Afghan government's, Qatar, Taliban, Arab League, summit_
 
 ##### North Korea
 ### [North Korea issues a new threat to strike targets on the United States mainland, Hawaii and Guam, as well as South Korea, days after a new US-South Korea military pact. ](/news/2013/03/26/north-korea-issues-a-new-threat-to-strike-targets-on-the-united-states-mainland-hawaii-and-guam-as-well-as-south-korea-days-after-a-new-u.md)
-_Context: South Korea, North Korea, continental United States, military pact, Guam, Hawaii, US-South Korea, United States_
+_Context: North Korea, US-South Korea, Hawaii, continental United States, military pact, Guam, South Korea, United States_
 
 ##### Vietnam
 ### [Vietnam accuses a Chinese vessel of firing on one of its fishing boats in disputed waters in the South China Sea, setting it on fire. ](/news/2013/03/26/vietnam-accuses-a-chinese-vessel-of-firing-on-one-of-its-fishing-boats-in-disputed-waters-in-the-south-china-sea-setting-it-on-fire.md)
@@ -53,7 +53,7 @@ China defends the action of one of its patrol boats which is accused of opening 
 
 ##### Post-mortem examination
 ### [A post-mortem examination finds Russian oligarch Boris Berezovsky's death was "consistent with hanging", after the examination found nothing to indicate a violent struggle or involvement of another party. ](/news/2013/03/26/a-post-mortem-examination-finds-russian-oligarch-boris-berezovsky-s-death-was-consistent-with-hanging-after-the-examination-found-nothing.md)
-_Context: Boris Berezovsky, post-mortem examination, hanging, Russia_
+_Context: hanging, Boris Berezovsky, Russia, post-mortem examination_
 
 ##### DR Congo
 ### [Congolese war crimes suspect Bosco Ntaganda appears before the International Criminal Court at The Hague for the first time, following his surprise surrender last week. ](/news/2013/03/26/congolese-war-crimes-suspect-bosco-ntaganda-appears-before-the-international-criminal-court-at-the-hague-for-the-first-time-following-his-s.md)
@@ -65,15 +65,15 @@ An online petition calls for the sacking of Daily Mail columnist Richard Littlej
 
 ##### South Africa
 ### [A court in South Africa sentences Nigerian militant Henry Okah to 24 years' imprisonment for his involvement in the Abuja car bombings which killed at least 12 people in October 2010. ](/news/2013/03/26/a-court-in-south-africa-sentences-nigerian-militant-henry-okah-to-24-years-imprisonment-for-his-involvement-in-the-abuja-car-bombings-which.md)
-_Context: Abuja car bombings, Nigeria, Henry Okah, South Africa_
+_Context: Abuja car bombings, South Africa, Henry Okah, Nigeria_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court weighs the case of a California constitutional amendment banning same-sex unions, passed after gay marriage became legal there. ](/news/2013/03/26/the-united-states-supreme-court-weighs-the-case-of-a-california-constitutional-amendment-banning-same-sex-unions-passed-after-gay-marriage.md)
-_Context: California Proposition 8, gay marriage, California, same-sex unions, Supreme Court of the United States_
+_Context: gay marriage, California, California Proposition 8, same-sex unions, Supreme Court of the United States_
 
 ##### Italian
 ### [Italian foreign minister Giulio Terzi resigns from his post in protest over the return of two Italian marines to India to face charges for allegedly murdering fishermen. ](/news/2013/03/26/italian-foreign-minister-giulio-terzi-resigns-from-his-post-in-protest-over-the-return-of-two-italian-marines-to-india-to-face-charges-for-a.md)
-_Context: Italian, face charges, foreign minister, Italian marines, fishermen, India, Giulio Terzi_
+_Context: face charges, Italian marines, Italian, Giulio Terzi, foreign minister, fishermen, India_
 
 ##### United Kingdom
 ### [Former British Foreign Secretary David Miliband confirms he is to resign as an MP and move to the United States to become head of the International Rescue Committee in New York. ](/news/2013/03/26/former-british-foreign-secretary-david-miliband-confirms-he-is-to-resign-as-an-mp-and-move-to-the-united-states-to-become-head-of-the-intern.md)

@@ -9,7 +9,7 @@ Somali journalists refuse to obey the editorial orders of an Islamist group whic
 
 ##### Victor Julio Suarez Rojas
 ### [Victor Julio Suarez Rojas, the leader of the FARC guerrilla whose "nom de guerre" was "Mono Jojoy", is killed in a military operation by Colombian Armed Forces. ](/news/2010/09/23/vactor-julio-sua-rez-rojas-the-leader-of-the-farc-guerrilla-whose-nom-de-guerre-was-mono-jojoy-is-killed-in-a-military-operation-by-c.md)
-_Context: nom de guerre, Colombian Armed Forces, FARC, Victor Julio Suarez Rojas_
+_Context: Victor Julio Suarez Rojas, FARC, nom de guerre, Colombian Armed Forces_
 
 ##### Recent strikes and demonstrations
 ### [2010 strikes in France: French trade unions launch a new round of strikes over plans by the President Nicolas Sarkozy to lift the pension age to 62, with transport services and schools to be badly affected. ](/news/2010/09/23/2010-strikes-in-france-french-trade-unions-launch-a-new-round-of-strikes-over-plans-by-the-president-nicolas-sarkozy-to-lift-the-pension-ag.md)
@@ -21,11 +21,11 @@ At least six people die after a cassiterite mine collapsed in Burundi, 120km (75
 
 ##### China
 ### [The death toll in China from Typhoon Fanapi reaches 54 with dozens more people missing. ](/news/2010/09/23/the-death-toll-in-china-from-typhoon-fanapi-reaches-54-with-dozens-more-people-missing.md)
-_Context: China, Typhoon Fanapi_
+_Context: Typhoon Fanapi, China_
 
 ##### 2010 Atlantic hurricane season
 ### [2010 Atlantic hurricane season: Tropical Storm Matthew forms in the western Caribbean Sea with predictions that it could hit Central America on Friday or Saturday. ](/news/2010/09/23/2010-atlantic-hurricane-season-tropical-storm-matthew-forms-in-the-western-caribbean-sea-with-predictions-that-it-could-hit-central-america.md)
-_Context: Central America, Caribbean, 2010 Atlantic hurricane season_
+_Context: Central America, 2010 Atlantic hurricane season, Caribbean_
 
 #####  cell phones while driving
 ### [Approximately 16,000 people have died in the United States between 2001 and 2007 due to people using cell phones while driving, according to a new report. ](/news/2010/09/23/approximately-16-000-people-have-died-in-the-united-states-between-2001-and-2007-due-to-people-using-cell-phones-while-driving-according-to.md)
@@ -45,11 +45,11 @@ _Context: Iran, IAEA_
 
 ##### United States
 ### [The United States and other western nations including Britain, Sweden, Australia, Belgium, Uruguay and Spain walk out of the United Nations General Assembly following claims by the President of Iran Mahmoud Ahmadinejad that the "majority of the American people as well as most nations and politicians around the world" say that the 9-11 attacks were the work of the Government of the United States trying to protect Israel. ](/news/2010/09/23/the-united-states-and-other-western-nations-including-britain-sweden-australia-belgium-uruguay-and-spain-walk-out-of-the-united-nations.md)
-_Context: Mahmoud Ahmadinejad, Sweden, Spain, Uruguay, Australia, Israel, United Nations General Assembly, Government of the United States, President, 9/11 attacks, Belgium, United Kingdom, United States_
+_Context: 9/11 attacks, Mahmoud Ahmadinejad, Australia, Sweden, United Kingdom, United Nations General Assembly, United States, Belgium, President, Uruguay, Spain, Israel, United States government_
 
 ##### U.S. President
 ### [The President of the United States Barack Obama meets with the Premier of China Wen Jiabao, with the value of the renminbi the top issue for discussion. ](/news/2010/09/23/the-president-of-the-united-states-barack-obama-meets-with-the-premier-of-china-wen-jiabao-with-the-value-of-the-renminbi-the-top-issue-for.md)
-_Context: Wen Jiabao, U.S. President, Premier of the People's Republic of China, yuan, Barack Obama_
+_Context: yuan, Barack Obama, Wen Jiabao, Premier of the People's Republic of China, U.S. President_
 
 ##### China
 ### [Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. ](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.md)
@@ -57,15 +57,15 @@ China is investigating four Japanese who allegedly entered and filmed a Chinese 
 
 ##### U.S
 ### [The U.S state of Virginia executes its first woman since 1912; Teresa Lewis will also be the first woman in the U.S to be executed since 2005. ](/news/2010/09/23/the-u-s-state-of-virginia-executes-its-first-woman-since-1912-teresa-lewis-will-also-be-the-first-woman-in-the-u-s-to-be-executed-since-200.md)
-_Context: Virginia, U.S, Teresa Lewis_
+_Context: Virginia, Teresa Lewis, U.S_
 
 ##### Pakistan
 ### [Pakistani scientist Aafia Siddiqui is sentenced to 86 years in jail in a New York federal court for trying to kill United States soldiers in Afghanistan. ](/news/2010/09/23/pakistani-scientist-aafia-siddiqui-is-sentenced-to-86-years-in-jail-in-a-new-york-federal-court-for-trying-to-kill-united-states-soldiers-in.md)
-_Context: New York, Aafia Siddiqui, Afghanistan, Pakistan, United States_
+_Context: United States, Pakistan, New York, Afghanistan, Aafia Siddiqui_
 
 ##### North Korea
 ### [North Korea reshuffles senior officials days ahead of a meeting of the Korean Workers' Party expected to lead to a transition of power from Kim Jong-il to his son Kim Jong-un. ](/news/2010/09/23/north-korea-reshuffles-senior-officials-days-ahead-of-a-meeting-of-the-korean-workers-party-expected-to-lead-to-a-transition-of-power-from.md)
-_Context: Korean Workers' Party, Kim Jong-un, North Korea, Kim Jong-il_
+_Context: Kim Jong-un, Korean Workers' Party, North Korea, Kim Jong-il_
 
 ##### Guinea
 ### [The election commission in Guinea proposes 10 October as a revised date for the presidential run-off election. ](/news/2010/09/23/the-election-commission-in-guinea-proposes-10-october-as-a-revised-date-for-the-presidential-run-off-election.md)

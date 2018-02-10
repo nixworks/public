@@ -9,11 +9,11 @@ Militants fired shells containing banned poisonous substances at apartments in A
 
 ##### New Delhi
 ### [At least 13 are killed in a fire in New Delhi, India. ](/news/2016/11/11/at-least-13-are-killed-in-a-fire-in-new-delhi-india.md)
-_Context: New Delhi, India_
+_Context: India, New Delhi_
 
 ##### Anti-Trump protests
 ### [Protests and riots against president-elect Donald Trump take place in Portland, Los Angeles, New York City, and Atlanta, leading to the arrests of over 225 people. ](/news/2016/11/11/protests-and-riots-against-president-elect-donald-trump-take-place-in-portland-los-angeles-new-york-city-and-atlanta-leading-to-the-arre.md)
-_Context: Donald Trump, Portland, Oregon, riot, Atlanta, Los Angeles, New York City, Anti-Trump protests_
+_Context: Donald Trump, New York City, Anti-Trump protests, Los Angeles, Portland, Oregon, Atlanta, riot_
 
 ##### Atlas V
 ### [An Atlas V rocket successfully launches WorldView-4 for DigitalGlobe from Vandenberg Air Force Base after a two-month delay caused by wildfires near the spaceport. ](/news/2016/11/11/an-atlas-v-rocket-successfully-launches-worldview-4-for-digitalglobe-from-vandenberg-air-force-base-after-a-two-month-delay-caused-by-wildfi.md)

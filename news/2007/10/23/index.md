@@ -5,23 +5,23 @@ Formats: [HTML](2007/10/23/index.html)  [JSON](2007/10/23/index.json)  [XML](200
 
 ##### Venezuela
 ### [ Thousands of Venezuelan students clash with riot police and supporters of President Hugo Chavez over proposals to remove term limits from the presidency. ](/news/2007/10/23/thousands-of-venezuelan-students-clash-with-riot-police-and-supporters-of-president-hugo-cha-vez-over-proposals-to-remove-term-limits-from.md)
-_Context: President, term limits, Hugo Chavez, Venezuela_
+_Context: President, term limits, Venezuela, Hugo Chavez_
 
 ##### Argentina
 ### [ An Argentine court initiates legal proceedings against former president Fernando de la Rua for failing to prevent the deaths of five protesters during the December 2001 riots at the peak of the 1999-2002 economic crisis. ](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.md)
-_Context: 1999-2002 economic crisis, Fernando de la Rua, President of Argentina, December 2001 riots, Argentina_
+_Context: 1999-2002 economic crisis, Argentina, President of Argentina, Fernando de la Rua, December 2001 riots_
 
 ##### Space Shuttle
 ### [ Space Shuttle "Discovery" successfully lifts off from Kennedy Space Center in Florida in the United States. The Shuttle was carrying the STS-120 crew on an assembly mission to the International Space Station, as well as the Harmony module. ](/news/2007/10/23/space-shuttle-discovery-successfully-lifts-off-from-kennedy-space-center-in-florida-in-the-united-states-the-shuttle-was-carrying-the-st.md)
-_Context: United States, Space Shuttle, Harmony module, Kennedy Space Center, STS-120, Discovery, International Space Station, the state_
+_Context: STS-120, Kennedy Space Center, United States, Space Shuttle, International Space Station, Discovery, the state, Harmony module_
 
 ##### Kyrgyzstan
 ### [ Kyrgyz President Kurmanbek Bakiyev signs a decree dissolving the parliament, moving to strengthen his control after voters overwhelmingly approved constitutional changes in a referendum called by the president. ](/news/2007/10/23/kyrgyz-president-kurmanbek-bakiyev-signs-a-decree-dissolving-the-parliament-moving-to-strengthen-his-control-after-voters-overwhelmingly-a.md)
-_Context: Kyrgyzstan, president, President, constitutional changes in a referendum_
+_Context: president, President, constitutional changes in a referendum, Kyrgyzstan_
 
 ##### European Court of Justice
 ### [ The European Court of Justice rules against Germany's "Volkswagen Law", paving the way for Porsche to take over Volkswagen. ](/news/2007/10/23/the-european-court-of-justice-rules-against-germany-s-volkswagen-law-paving-the-way-for-porsche-to-take-over-volkswagen.md)
-_Context: Volkswagen, German, Volkswagen Law, Porsche, European Court of Justice_
+_Context: European Court of Justice, German, Porsche, Volkswagen Law, Volkswagen_
 
 ##### U.S. President
 ### [ President George W. Bush declares that an "emergency exists" in areas of California and authorises the Federal Emergency Management Agency (FEMA) to coordinate relief. ](/news/2007/10/23/president-george-w-bush-declares-that-an-emergency-exists-in-areas-of-california-and-authorises-the-federal-emergency-management-agency.md)
@@ -33,11 +33,11 @@ _Context: Somalia, Idris Osman, World Food Programme_
 
 ##### Nike, Inc.
 ### [ Nike agrees to buy United Kingdom sportswear firm Umbro for GBP285 million. ](/news/2007/10/23/nike-agrees-to-buy-united-kingdom-sportswear-firm-umbro-for-agbp285-million.md)
-_Context: United Kingdom, Umbro, GBP, Nike, Inc., sportswear_
+_Context: sportswear, Umbro, United Kingdom, GBP, Nike, Inc._
 
 ##### United States Government
 ### [ A United States Government report states that the Department of State is unable to account for much of the $1.2 billion in funding that it gave to DynCorp International to train Iraqi police. ](/news/2007/10/23/a-united-states-government-report-states-that-the-department-of-state-is-unable-to-account-for-much-of-the-1-2-billion-in-funding-that-it.md)
-_Context: $, DynCorp International, Iraq, United States Government, State Department_
+_Context: State Department, United States Government, DynCorp International, $, Iraq_
 
 ## [Previous Day...](/news/2007/10/22/index.md)
 

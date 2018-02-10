@@ -25,7 +25,7 @@ Ireland is in talks to receive emergency funding from the European Union and is 
 
 ##### Brazil
 ### [Brazil begins auctioning parts of the Amazon Rainforest to private companies for logging. ](/news/2010/11/12/brazil-begins-auctioning-parts-of-the-amazon-rainforest-to-private-companies-for-logging.md)
-_Context: Amazon Rainforest, Brazil, logging_
+_Context: Amazon Rainforest, logging, Brazil_
 
 ##### Economic
 ### [Eurozone economic growth slows in third quarter. ](/news/2010/11/12/eurozone-economic-growth-slows-in-third-quarter.md)
@@ -41,7 +41,7 @@ President Barack Obama will nominate a state bank regulator to be director of th
 
 ##### Bing Search
 ### [Bing Search for Android now available in market. ](/news/2010/11/12/bing-search-for-android-now-available-in-market.md)
-_Context: Android, Bing Search_
+_Context: Bing Search, Android_
 
 ##### United Nations
 ### [The United Nations appeals for nearly $164 million to fund the battle against Haiti's outbreak of cholera as hospitals overflow and space and time run out. ](/news/2010/11/12/the-united-nations-appeals-for-nearly-164-million-to-fund-the-battle-against-haiti-s-outbreak-of-cholera-as-hospitals-overflow-and-space-an.md)
@@ -49,11 +49,11 @@ The UN appeals for nearly $164m in aid to help fight a cholera outbreak in Haiti
 
 ##### Nursing home
 ### [Ten elderly people die and seventeen are injured following a fire in a nursing home in Pohang, South Korea. ](/news/2010/11/12/ten-elderly-people-die-and-seventeen-are-injured-following-a-fire-in-a-nursing-home-in-pohang-south-korea.md)
-_Context: South Korea, Pohang, nursing home_
+_Context: nursing home, Pohang, South Korea_
 
 ##### Mount Bulusan
 ### [Mount Bulusan, a volcano in the Philippines, erupts again. ](/news/2010/11/12/mount-bulusan-a-volcano-in-the-philippines-erupts-again.md)
-_Context: Mount Bulusan, volcano, Philippines_
+_Context: volcano, Philippines, Mount Bulusan_
 
 ##### European windstorm
 ### [An intense European windstorm in the British Isles kills an elderly woman and brings gusts exceeding 160 km-h. ](/news/2010/11/12/an-intense-european-windstorm-in-the-british-isles-kills-an-elderly-woman-and-brings-gusts-exceeding-160-km-h.md)
@@ -73,7 +73,7 @@ Medvedev and Kan to hold talks in Japanese city amid tensions over territorial d
 
 ##### European Union
 ### [The European Union agrees to meet with Iran to discuss its nuclear program. ](/news/2010/11/12/the-european-union-agrees-to-meet-with-iran-to-discuss-its-nuclear-program.md)
-_Context: Iran, nuclear program, European Union_
+_Context: European Union, nuclear program, Iran_
 
 ##### Supreme Court of the United States
 ### [The Supreme Court of the United States refuses to rescind the country's ban on openly gay soldiers. ](/news/2010/11/12/the-supreme-court-of-the-united-states-refuses-to-rescind-the-country-s-ban-on-openly-gay-soldiers.md)
@@ -89,7 +89,7 @@ _Context: Yemen, Hassan Bamoum_
 
 ##### Omar Bakri Muhammad
 ### [Omar Bakri Muhammad is sentenced to life imprisonment by a military court in Lebanon. ](/news/2010/11/12/omar-bakri-muhammad-is-sentenced-to-life-imprisonment-by-a-military-court-in-lebanon.md)
-_Context: Omar Bakri Muhammad, Lebanese, life imprisonment_
+_Context: life imprisonment, Omar Bakri Muhammad, Lebanese_
 
 ##### Transparency International
 ### [Transparency International names Poddala Jayantha, Sergei Magnitsky and Gregory Ngbwa Minsta as joint winners of a global award for integrity. ](/news/2010/11/12/transparency-international-names-poddala-jayantha-sergei-magnitsky-and-gregory-ngbwa-minsta-as-joint-winners-of-a-global-award-for-integrit.md)
@@ -97,7 +97,7 @@ A Sri Lankan journalist, a Russian lawyer and a Gabonese activist are commended 
 
 ##### Governor
 ### [A student who guessed the answers to former Governor of Alaska Sarah Palin's security questions in 2008 is convicted of hacking and sentenced to one year in state custody. ](/news/2010/11/12/a-student-who-guessed-the-answers-to-former-governor-of-alaska-sarah-palin-s-security-questions-in-2008-is-convicted-of-hacking-and-sentence.md)
-_Context: Governor, hacking, Sarah Palin_
+_Context: Governor, Sarah Palin, hacking_
 
 ##### Twitter
 ### [One day after the failure of his appeal, Twitterers combine to support Paul Chambers, a Briton convicted and fined for a threatening Twitter message. ](/news/2010/11/12/one-day-after-the-failure-of-his-appeal-twitterers-combine-to-support-paul-chambers-a-briton-convicted-and-fined-for-a-threatening-twitter.md)
@@ -125,7 +125,7 @@ Protestors threw eggs and cheese at Health Minister Mary Harney&#39;s car as she
 
 ##### Prime Minister of Somalia
 ### [The Prime Minister of Somalia Mohamed Abdullahi Mohamed names a new Cabinet with doubts that the parliament will approve his choices. ](/news/2010/11/12/the-prime-minister-of-somalia-mohamed-abdullahi-mohamed-names-a-new-cabinet-with-doubts-that-the-parliament-will-approve-his-choices.md)
-_Context: Mohamed Abdullahi Mohamed, Prime Minister of Somalia, parliament_
+_Context: Mohamed Abdullahi Mohamed, parliament, Prime Minister of Somalia_
 
 ## [Previous Day...](/news/2010/11/11/index.md)
 

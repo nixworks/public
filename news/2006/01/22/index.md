@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Pipeline explosions
 ### [ Fears of sabotage ensue after explosions of two gas pipelines in Russia's North Ossetian Republic suspend gas supply to Georgia and Armenia. ](/news/2006/01/22/fears-of-sabotage-ensue-after-explosions-of-two-gas-pipelines-in-russia-s-north-ossetian-republic-suspend-gas-supply-to-georgia-and-armenia.md)
-_Context:  Georgian, North Ossetia, pipeline explosions, Armenia_
+_Context: pipeline explosions, North Ossetia,  Georgian, Armenia_
 
 ## [Previous Day...](/news/2006/01/21/index.md)
 

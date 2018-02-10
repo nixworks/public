@@ -13,7 +13,7 @@ Swell Season, the Oscar-winning Irish act fronted by Glen Hansard, have said the
 
 ##### A. S. Byatt
 ### [Novelist A. S. Byatt and critic John Carey win the James Tait Black Memorial Prizes, Britain's oldest literary awards. ](/news/2010/08/20/novelist-a-s-byatt-and-critic-john-carey-win-the-james-tait-black-memorial-prizes-britain-s-oldest-literary-awards.md)
-_Context: James Tait Black Memorial Prize, John Carey, A. S. Byatt_
+_Context: A. S. Byatt, James Tait Black Memorial Prize, John Carey_
 
 ##### A. S. Byatt
 ### [A. S. Byatt criticises the Orange Prize as "sexist" and says women who write intellectual books are viewed as "unnatural". ](/news/2010/08/20/a-s-byatt-criticises-the-orange-prize-as-sexist-and-says-women-who-write-intellectual-books-are-viewed-as-unnatural.md)
@@ -21,7 +21,7 @@ _Context: Orange Prize, A. S. Byatt_
 
 ##### J. D. Salinger
 ### [J. D. Salinger's toilet is put on sale on eBay for $1 million. ](/news/2010/08/20/j-d-salinger-s-toilet-is-put-on-sale-on-ebay-for-1-million.md)
-_Context: J. D. Salinger, eBay_
+_Context: eBay, J. D. Salinger_
 
 ##### Mr Benn
 ### [Mr Benn is reprinted for the first time in 30 years. ](/news/2010/08/20/mr-benn-is-reprinted-for-the-first-time-in-30-years.md)
@@ -61,17 +61,17 @@ Palestinians warn negotiations would be threatened if building on occupied land 
 
 ##### Canada Post
 ### [Canada Post advises customers that it cannot accept mail to Gaza until further notice. Israel Post continues to inform postal services around the world that mail service to Gaza is unavailable. ](/news/2010/08/20/canada-post-advises-customers-that-it-cannot-accept-mail-to-gaza-until-further-notice-israel-post-continues-to-inform-postal-services-aroun.md)
-_Context: Israel Post, Gaza Strip, Canada Post_
+_Context: Gaza Strip, Canada Post, Israel Post_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad rejects calls from the United Nations Security Council to stop all uranium enrichment but promises to stop high level enrichment if the country is assured of uranium for a research reactor. ](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.md)
-_Context: President, uranium, Mahmoud Ahmadinejad, uranium enrichment, United Nations Security Council, nuclear-powered_
+_Context: President, United Nations Security Council, uranium enrichment, Mahmoud Ahmadinejad, nuclear-powered, uranium_
 
 ##### Hillary Clinton
 ### [Hillary Clinton, the United States Secretary of State, states that the United States "categorically disagrees" with the decision of the Scottish Government to release on compassionate grounds Abdelbaset al-Megrahi, the man convicted of bombing Pan Am Flight 103. ](/news/2010/08/20/hillary-clinton-the-united-states-secretary-of-state-states-that-the-united-states-categorically-disagrees-with-the-decision-of-the-scot.md)
-_Context: United States, United States Secretary of State, Hillary Clinton, Lockerbie bombing, Abdelbaset al-Megrahi, Scottish Government_
+_Context: Hillary Clinton, Scottish Government, Abdelbaset al-Megrahi, Lockerbie bombing, United States Secretary of State, United States_
 
-##### Mexico
+##### Mexican
 ### [6 police officers in Mexico are arrested and accused of participating in the kidnap and murder of Mayor Edelmiro Cavazos. ](/news/2010/08/20/6-police-officers-in-mexico-are-arrested-and-accused-of-participating-in-the-kidnap-and-murder-of-mayor-edelmiro-cavazos.md)
 Prosecutors have arrested six police officers they say participated in the kidnap and murder of a mayor as part of a drug war.
 
@@ -89,7 +89,7 @@ An alleged arms dealer nicknamed &quot;The Merchant of Death&quot;, who has been
 
 ##### 2010 Thai political protests
 ### [An Irish-born Australian man who admitted after initially pleading innocence to breaching the state of emergency during the anti-government protests in Thailand is deported to Australia; he says he was beaten, was treated harshly and was not shown an arrest warrant. ](/news/2010/08/20/an-irish-born-australian-man-who-admitted-after-initially-pleading-innocence-to-breaching-the-state-of-emergency-during-the-anti-government.md)
-_Context: Thailand, 2010 Thai political protests_
+_Context: 2010 Thai political protests, Thailand_
 
 ##### Shining Path
 ### [Shining Path leaders Abimael Guzmn and Elena Iparraguirre marry at a maximum-security prison near Lima; they fought for their right to marry by going on hunger strike earlier this year. ](/news/2010/08/20/shining-path-leaders-abimael-guzman-and-elena-iparraguirre-marry-at-a-maximum-security-prison-near-lima-they-fought-for-their-right-to-marr.md)
@@ -113,11 +113,11 @@ _Context: NCsoft, Lineage II_
 
 ##### Prime Minister
 ### [The two major political coalitions name their candidates for Prime Minister of the Solomon Islands following the general election: Steve Abana, the leader of the Democratic Party, and Danny Philip, the former Foreign Minister. ](/news/2010/08/20/the-two-major-political-coalitions-name-their-candidates-for-prime-minister-of-the-solomon-islands-following-the-general-election-steve-aba.md)
-_Context: Democratic Party, 2010 general election, Prime Minister, Foreign Minister, Solomon Islands, Danny Philip, Steve Abana_
+_Context: Prime Minister, Foreign Minister, Danny Philip, Steve Abana, Democratic Party, 2010 general election, Solomon Islands_
 
 ##### Wyclef Jean
 ### [Musician Wyclef Jean is reportedly omitted from the list of candidates for the Haitian presidential election. ](/news/2010/08/20/musician-wyclef-jean-is-reportedly-omitted-from-the-list-of-candidates-for-the-haitian-presidential-election.md)
-_Context: Wyclef Jean, Haiti, presidential election_
+_Context: presidential election, Haiti, Wyclef Jean_
 
 ##### Osh
 ### [Thousands of people rally in support of the mayor of Osh after rumours of his firing by Kyrgyzstan's interim government circulate. ](/news/2010/08/20/thousands-of-people-rally-in-support-of-the-mayor-of-osh-after-rumours-of-his-firing-by-kyrgyzstan-s-interim-government-circulate.md)
@@ -133,7 +133,7 @@ _Context: United States military, United States_
 
 ##### Benin
 ### [More than half of politicians in Benin call for impeachment proceedings against President Boni Yayi over his involvement in a Ponzi scheme. ](/news/2010/08/20/more-than-half-of-politicians-in-benin-call-for-impeachment-proceedings-against-president-boni-yayi-over-his-involvement-in-a-ponzi-scheme.md)
-_Context: Boni Yayi, Ponzi scheme, Benin, impeachment_
+_Context: Ponzi scheme, impeachment, Boni Yayi, Benin_
 
 ##### India
 ### [India approves a draft law intended to open its civilian nuclear power industry to private investment. ](/news/2010/08/20/india-approves-a-draft-law-intended-to-open-its-civilian-nuclear-power-industry-to-private-investment.md)
@@ -141,7 +141,7 @@ _Context: India_
 
 ##### Lockerbie bombing
 ### [Britain warns Libya not to celebrate the one year anniversary of the release of Pan Am Flight 103 bomber Abdelbaset al-Megrahi, released on compassionate grounds suffering terminal cancer and expected to live just three months. ](/news/2010/08/20/britain-warns-libya-not-to-celebrate-the-one-year-anniversary-of-the-release-of-pan-am-flight-103-bomber-abdelbaset-al-megrahi-released-on.md)
-_Context: Abdelbaset al-Megrahi, Lockerbie bombing_
+_Context: Lockerbie bombing, Abdelbaset al-Megrahi_
 
 ##### Recent election
 ### [Australians vote tomorrow in what is being called the closest election in 50 years, with some polls predicting a 50-50 draw. ](/news/2010/08/20/australians-vote-tomorrow-in-what-is-being-called-the-closest-election-in-50-years-with-some-polls-predicting-a-50-50-draw.md)
@@ -149,7 +149,7 @@ _Context: recent election_
 
 ##### Only by focused light
 ### [The world's first solar-diesel power station opens in Marble Bar, Western Australia. ](/news/2010/08/20/the-world-s-first-solar-diesel-power-station-opens-in-marble-bar-western-australia.md)
-_Context: Marble Bar, Western Australia, power station, diesel fuel, only by focused light_
+_Context: only by focused light, diesel fuel, Western Australia, power station, Marble Bar_
 
 ## [Previous Day...](/news/2010/08/19/index.md)
 

@@ -13,7 +13,7 @@ Around 100 Syrian soldiers and 80 Islamist fighters were killed during a two-day
 
 ##### Terrorism in Yemen
 ### [A pair of car bombs kill 20 children and 11 Houthi militants in Radaa, central Yemen. ](/news/2014/12/16/a-pair-of-car-bombs-kill-20-children-and-11-houthi-militants-in-radaa-central-yemen.md)
-_Context: central Yemen, Houthi militants, Terrorism in Yemen, Radaa_
+_Context: Houthi militants, Terrorism in Yemen, central Yemen, Radaa_
 
 ##### Gaza-Israel conflict
 ### [Israeli military troops kill one Palestinian man in a West Bank refugee camp. Israeli sources claim the man threw an explosive device at an army patrol. ](/news/2014/12/16/israeli-military-troops-kill-one-palestinian-man-in-a-west-bank-refugee-camp-israeli-sources-claim-the-man-threw-an-explosive-device-at-an.md)
@@ -65,7 +65,7 @@ A new law allowing those in same-sex relationships to get married in Scotland co
 
 ##### Arthur J. Schwab
 ### [Judge Arthur J. Schwab of the US District Court of Pennsylvania declares President Barack Obama's executive order on immigration unconstitutional. ](/news/2014/12/16/judge-arthur-j-schwab-of-the-us-district-court-of-pennsylvania-declares-president-barack-obama-s-executive-order-on-immigration-unconstitut.md)
-_Context: US District Court of Pennsylvania, unconstitutional, Arthur J. Schwab, Barack Obama_
+_Context: US District Court of Pennsylvania, Arthur J. Schwab, unconstitutional, Barack Obama_
 
 ##### NASA
 ### [For the first time, NASA emailed hardware, a wrench, to the International Space Station that was fabricated on the ISS's Zero Gravity 3D printer. ](/news/2014/12/16/for-the-first-time-nasa-emailed-hardware-a-wrench-to-the-international-space-station-that-was-fabricated-on-the-iss-s-zero-gravity-3d-pri.md)

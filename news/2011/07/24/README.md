@@ -5,11 +5,11 @@ Formats: [HTML](2011/07/24/index.html)  [JSON](2011/07/24/index.json)  [XML](201
 
 ##### Thailand
 ### [A Thai military helicopter crashes near the Myanmar border, the third in a week, with three people feared dead in the latest crash. ](/news/2011/07/24/a-thai-military-helicopter-crashes-near-the-myanmar-border-the-third-in-a-week-with-three-people-feared-dead-in-the-latest-crash.md)
-_Context: Myanmar, helicopter, Thailand, military_
+_Context: military, Myanmar, helicopter, Thailand_
 
 ##### Car bomb
 ### [A car bomb in the Yemeni port of Aden kills at least eight Army soldiers and wounds scores. ](/news/2011/07/24/a-car-bomb-in-the-yemeni-port-of-aden-kills-at-least-eight-army-soldiers-and-wounds-scores.md)
-_Context: Yemen, car bomb, Yemeni, Aden_
+_Context: Aden, Yemen, car bomb, Yemeni_
 
 ##### Japanese television
 ### [Japanese television switches totally to digital television from midday. ](/news/2011/07/24/japanese-television-switches-totally-to-digital-television-from-midday.md)

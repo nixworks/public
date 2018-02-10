@@ -37,7 +37,7 @@ Police in the United States and Italy arrested 77 suspected members of the Mafia
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney suspends his campaign. ](/news/2008/02/7/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-suspends-his-campaign.md)
-_Context: Mitt Romney, 2008, Massachusetts governor, his campaign_
+_Context: 2008, his campaign, Mitt Romney, Massachusetts governor_
 
 ##### Eastern Orthodox Church
 ### [ The Orthodox Church of Greece elects a new leader, Archbishop Ieronymos II of Athens. ](/news/2008/02/7/the-orthodox-church-of-greece-elects-a-new-leader-archbishop-ieronymos-ii-of-athens.md)
@@ -45,15 +45,15 @@ _Context: Eastern Orthodox Church, Archbishop Ieronymos II of Athens, Church of 
 
 ##### Afghanistan
 ### [ No agreement on Afghanistan ahead of NATO meeting. ](/news/2008/02/7/no-agreement-on-afghanistan-ahead-of-nato-meeting.md)
-_Context: Afghanistan, NATO_
+_Context: NATO, Afghanistan_
 
 ##### United States Secretary of State
 ### [ The United States Secretary of State Condoleezza Rice and United Kingdom Secretary of State for Foreign and Commonwealth Affairs David Miliband visit Afghanistan. ](/news/2008/02/7/the-united-states-secretary-of-state-condoleezza-rice-and-united-kingdom-secretary-of-state-for-foreign-and-commonwealth-affairs-david-mili.md)
-_Context: David Miliband, Afghanistan, Condoleezza Rice, Foreign Secretary, United Kingdom, United States Secretary of State_
+_Context: United Kingdom, Condoleezza Rice, Afghanistan, Foreign Secretary, David Miliband, United States Secretary of State_
 
 ##### Rio Tinto
 ### [ Rio Tinto rejects BHP Billiton's $147 billion hostile takeover bid. ](/news/2008/02/7/rio-tinto-rejects-bhp-billiton-s-147-billion-hostile-takeover-bid.md)
-_Context: BHP Billiton, Rio Tinto, hostile takeover_
+_Context: hostile takeover, Rio Tinto, BHP Billiton_
 
 ##### WHO
 ### [ WHO declares global tobacco control efforts and an approach to avoid tens of millions of premature deaths by the middle of this century. ](/news/2008/02/7/who-declares-global-tobacco-control-efforts-and-an-approach-to-avoid-tens-of-millions-of-premature-deaths-by-the-middle-of-this-century.md)

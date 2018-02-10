@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/2/the-government-of-the-united-states-claims-that-
 
 ### [2010-08-2](/news/2010/08/2/index.md)
 
-##### Government of the United States
+##### United States government
 # The Government of the United States claims that nearly 5 million barrels of oil have spilt from the "Deepwater Horizon" oil spill in the Gulf of Mexico, making it the largest accidental maritime oil spill ever. 
 
 Nearly five million barrels of oil have gushed from BP’s well, federal scientists said, announcing the most precise estimates yet of the flow. The number would make this the biggest known oil spill.

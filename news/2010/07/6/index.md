@@ -21,7 +21,7 @@ Army to press charges of manslaughter over deaths of Palestinian women during wa
 
 ##### Europe
 ### [3 people are killed in shooting at a McDonald's restaurant in Finland. ](/news/2010/07/6/3-people-are-killed-in-shooting-at-a-mcdonald-s-restaurant-in-finland.md)
-_Context: Europe, McDonald, Finland_
+_Context: McDonald, Finland, Europe_
 
 ##### Bradley Manning
 ### [Bradley Manning is finally charged with leaking the Collateral Murder video to Wikileaks, along with other documents, after spending more than a month detained in Kuwait without charge. ](/news/2010/07/6/bradley-manning-is-finally-charged-with-leaking-the-collateral-murder-video-to-wikileaks-along-with-other-documents-after-spending-more-th.md)
@@ -29,19 +29,19 @@ An American soldier suspected of leaking video footage of a US Apache helicopter
 
 ##### Ghana national football team
 ### [The Ghana national football team are to receive national awards after their success at the 2010 FIFA World Cup, while former UN Secretary-General Kofi Annan writes of his heartbreak. ](/news/2010/07/6/the-ghana-national-football-team-are-to-receive-national-awards-after-their-success-at-the-2010-fifa-world-cup-while-former-un-secretary-ge.md)
-_Context: Ghana national football team, Kofi Annan, 2010 FIFA World Cup_
+_Context: 2010 FIFA World Cup, Ghana national football team, Kofi Annan_
 
 ##### U.S. government
 ### [The Federal government of the United States files a lawsuit against the U.S. state of Arizona in its bid to overturn its controversial immigration law. ](/news/2010/07/6/the-federal-government-of-the-united-states-files-a-lawsuit-against-the-u-s-state-of-arizona-in-its-bid-to-overturn-its-controversial-immig.md)
-_Context: immigration law, U.S. government, Arizona, U.S. state_
+_Context: U.S. state, U.S. government, Arizona, immigration law_
 
 ##### French President
 ### [President of France Nicolas Sarkozy denies allegations of alleged illegal payments from France's richest woman, L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/6/president-of-france-nicolas-sarkozy-denies-allegations-of-alleged-illegal-payments-from-france-s-richest-woman-l-ora-c-al-heiress-liliane-bet.md)
-_Context: L'Oreal, French President, Liliane Bettencourt, Nicolas Sarkozy_
+_Context: Liliane Bettencourt, L'Oreal, French President, Nicolas Sarkozy_
 
 ##### Republican
 ### [Republican Governor of the U.S. state of Hawaii Linda Lingle vetoes a bill allowing same-sex civil unions. ](/news/2010/07/6/republican-governor-of-the-u-s-state-of-hawaii-linda-lingle-vetoes-a-bill-allowing-same-sex-civil-unions.md)
-_Context: same-sex civil union, Governor, Republican, veto, Hawaii, Linda Lingle_
+_Context: Hawaii, Governor, Republican, Linda Lingle, same-sex civil union, veto_
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu arrives in Washington, D.C. for talks with President of the United States Barack Obama. ](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.md)
@@ -49,11 +49,11 @@ Israeli PM Benjamin Netanyahu and US President Barack Obama hold White House tal
 
 ##### Rupert Murdoch
 ### [Rupert Murdoch takes a share in a rival to Aljazeera. ](/news/2010/07/6/rupert-murdoch-takes-a-share-in-a-rival-to-aljazeera.md)
-_Context: Aljazeera, Rupert Murdoch_
+_Context: Rupert Murdoch, Aljazeera_
 
 ##### Khan Shatyry Entertainment Center
 ### [The Khan Shatyry Entertainment Center, which features the tallest tent in the world, opens to the public in Astana, Kazakhstan. ](/news/2010/07/6/the-khan-shatyry-entertainment-center-which-features-the-tallest-tent-in-the-world-opens-to-the-public-in-astana-kazakhstan.md)
-_Context: Khan Shatyry Entertainment Center, Kazakhstan, Astana_
+_Context: Astana, Khan Shatyry Entertainment Center, Kazakhstan_
 
 ##### Sierra Leone
 ### [Sierra Leonean writer Olufemi Terry wins the Caine Prize for African Writing. ](/news/2010/07/6/sierra-leonean-writer-olufemi-terry-wins-the-caine-prize-for-african-writing.md)

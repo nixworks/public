@@ -9,7 +9,7 @@ A group of 21 Filipino UN peacekeepers captured by rebels in Syria earlier this 
 
 ##### Suicide bombings
 ### [At least 19 people are killed by two suicide bombings in the Afghan capital, Kabul, and in Khost Province, as Chuck Hagel, the United States Secretary of Defense, visits the city. ](/news/2013/03/9/at-least-19-people-are-killed-by-two-suicide-bombings-in-the-afghan-capital-kabul-and-in-khost-province-as-chuck-hagel-the-united-states.md)
-_Context: Kabul, Chuck Hagel, United States Secretary of Defense, suicide bombings, Khost, Afghanistan_
+_Context: suicide bombings, Kabul, United States Secretary of Defense, Afghanistan, Khost, Chuck Hagel_
 
 ##### Nigeria
 ### [Nigerian militant group Ansaru announces that it has killed seven foreigners that were being held hostage. ](/news/2013/03/9/nigerian-militant-group-ansaru-announces-that-it-has-killed-seven-foreigners-that-were-being-held-hostage.md)
@@ -25,7 +25,7 @@ _Context: United States, Kentucky, Knox County_
 
 ##### Sailboat
 ### [One man is killed and five others are injured after a sailboat breaks up and sinks off of San Clemente, California, United States. ](/news/2013/03/9/one-man-is-killed-and-five-others-are-injured-after-a-sailboat-breaks-up-and-sinks-off-of-san-clemente-california-united-states.md)
-_Context: San Clemente, United States, sailboat, California_
+_Context: California, San Clemente, United States, sailboat_
 
 ##### "Best Restaurant in the World"
 ### [Three time "Best Restaurant in the World" winner Noma is accused of giving 63 customers food poisoning. ](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.md)
@@ -33,7 +33,7 @@ Regardless of all the &#034;Please wash hands after using the toilet&#034; in mo
 
 ##### Google
 ### [Google will pay a $7 million penalty to settle an investigation into the collection of e-mails, passwords and other sensitive information sent over wireless networks from 2007-2010 in the United States. Google company cars taking street-level photos for its online mapping service also had been vacuuming up personal data transmitted over wireless networks that weren't protected by passwords. ](/news/2013/03/9/google-will-pay-a-7-million-penalty-to-settle-an-investigation-into-the-collection-of-e-mails-passwords-and-other-sensitive-information-se.md)
-_Context: Street View, personal data, Google Maps, United States dollars, password, wireless network, United States, Google, e-mail_
+_Context: Street View, United States, United States dollars, personal data, Google, wireless network, password, e-mail, Google Maps_
 
 ##### Egypt
 ### [An Egyptian court reaffirms the death sentence for 21 football fans for their role in the 2012 Port Said Stadium riot and sentenced two security officers to 15 years in jail for negligence. ](/news/2013/03/9/an-egyptian-court-reaffirms-the-death-sentence-for-21-football-fans-for-their-role-in-the-2012-port-said-stadium-riot-and-sentenced-two-secu.md)

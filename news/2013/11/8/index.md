@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/8/index.html)  [JSON](2013/11/8/index.json)  [XML](2013/
 
 ##### Somalia
 ### [At least 11 people are killed in the Somalian capital Mogadishu after a bomb explodes in a carpark. ](/news/2013/11/8/at-least-11-people-are-killed-in-the-somalian-capital-mogadishu-after-a-bomb-explodes-in-a-carpark.md)
-_Context: Mogadishu, Somalia_
+_Context: Somalia, Mogadishu_
 
 ##### UNESCO
 ### [UNESCO suspends the voting rights of the United States and Israel after both countries refused to pay their dues as a protest to the membership of the State of Palestine. ](/news/2013/11/8/unesco-suspends-the-voting-rights-of-the-united-states-and-israel-after-both-countries-refused-to-pay-their-dues-as-a-protest-to-the-members.md)
@@ -29,7 +29,7 @@ Palestinian officials say Israel is the only suspect in the 2004 death of Yasser
 
 ##### VND
 ### [Thieves steal six antiques worth billions of VND ($94 thousand) displayed at Hoa Khiem Palace in Tomb of King Tu Duc in Hue, Vietnam. ](/news/2013/11/8/thieves-steal-six-antiques-worth-billions-of-vnd-94-thousand-displayed-at-ha2a-khiaam-palace-in-tomb-of-king-ta-aa-c-c-in-huao-vietna.md)
-_Context: Tomb of King Tu Duc, Hue, VND, United States dollars, Vietnam_
+_Context: Hue, United States dollars, Tomb of King Tu Duc, VND, Vietnam_
 
 ## [Previous Day...](/news/2013/11/7/index.md)
 

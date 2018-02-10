@@ -11,7 +11,7 @@ Two days before he resigned as defense secretary, Donald H. Rumsfeld submitted a
 
 ##### Iraqi insurgency
 ### [ Iraqi insurgency: At least 50 people are killed by three car bombs exploding in Baghdad. ](/news/2006/12/2/iraqi-insurgency-at-least-50-people-are-killed-by-three-car-bombs-exploding-in-baghdad.md)
-_Context: Baghdad, Iraqi insurgency_
+_Context: Iraqi insurgency, Baghdad_
 
 ##### Bahrain
 ### [ Bahrainis go to the polls today in the second round of voting in the Kingdom's parliamentary elections. ](/news/2006/12/2/bahrainis-go-to-the-polls-today-in-the-second-round-of-voting-in-the-kingdom-s-parliamentary-elections.md)
@@ -27,27 +27,27 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### War in Chad (2005-present)
 ### [ War in Chad (2005-present)-Darfur conflict: Chadian rebels have attacked the eastern town of Guereda, neighbouring Sudan's war-torn Darfur region. ](/news/2006/12/2/war-in-chad-2005apresent-darfur-conflict-chadian-rebels-have-attacked-the-eastern-town-of-gua-c-ra-c-da-neighbouring-sudan-s-war-torn-dar.md)
-_Context: War in Chad (2005-present), Darfur, Chad, Guereda, Sudan, Darfur conflict_
+_Context: Guereda, Chad, Darfur conflict, Darfur, War in Chad (2005-present), Sudan_
 
 ##### Malakal
 ### [ Police and aid workers recover more than 100 bodies from Malakal in south Sudan resulting from fighting between former rebels and Government forces. ](/news/2006/12/2/police-and-aid-workers-recover-more-than-100-bodies-from-malakal-in-south-sudan-resulting-from-fighting-between-former-rebels-and-governmen.md)
-_Context: Malakal, Sudan_
+_Context: Sudan, Malakal_
 
 ##### Kazakhstan
 ### [ As Kazakhstan begins its nuclear program the Japanese Government sends a delegation to make sure nuclear materials are not susceptible to theft by Kazakh terrorists. ](/news/2006/12/2/as-kazakhstan-begins-its-nuclear-program-the-japanese-government-sends-a-delegation-to-make-sure-nuclear-materials-are-not-susceptible-to-t.md)
-_Context: Japanese Government, Kazakh terrorists, its nuclear program, Kazakhstan_
+_Context: Kazakhstan, Japanese Government, its nuclear program, Kazakh terrorists_
 
 ##### Fiji
 ### [ Fijian military commander Frank Bainimarama announces that he has taken control of Fiji. ](/news/2006/12/2/fijian-military-commander-frank-bainimarama-announces-that-he-has-taken-control-of-fiji.md)
-_Context: Fiji, 2006 coup d'etat, Voreqe Bainimarama_
+_Context: Fiji, Voreqe Bainimarama, 2006 coup d'etat_
 
 ##### Stephane Dion
 ### [ Stephane Dion is elected leader of the Liberal Party of Canada, defeating Michael Ignatieff. ](/news/2006/12/2/sta-c-phane-dion-is-elected-leader-of-the-liberal-party-of-canada-defeating-michael-ignatieff.md)
-_Context: Stephane Dion, Michael Ignatieff, Liberal Party's_
+_Context: Michael Ignatieff, Stephane Dion, Liberal Party's_
 
 ##### Ed Stelmach
 ### [ Ed Stelmach is elected leader of the Progressive Conservative Association of Alberta and will become the next premier of Alberta, replacing outgoing leader Ralph Klein and defeating competitors Jim Dinning and Ted Morton. ](/news/2006/12/2/ed-stelmach-is-elected-leader-of-the-progressive-conservative-association-of-alberta-and-will-become-the-next-premier-of-alberta-replacing.md)
-_Context: Alberta, Jim Dinning, premier, Ralph Klein, Ted Morton, Progressive Conservative Party, Ed Stelmach_
+_Context: Progressive Conservative Party, Alberta, Ed Stelmach, Ted Morton, Ralph Klein, Jim Dinning, premier_
 
 ## [Previous Day...](/news/2006/12/1/index.md)
 

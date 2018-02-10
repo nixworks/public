@@ -17,7 +17,7 @@ Reports from North Korea suggest reforms that will see farmers keep more of thei
 
 ##### Jordan
 ### [Jordan is to host the World Economic Forum (WEF) meeting on the Middle East and North Africa (MENA) in May 2013. ](/news/2012/09/24/jordan-is-to-host-the-world-economic-forum-wef-meeting-on-the-middle-east-and-north-africa-mena-in-may-2013.md)
-_Context: Jordan, the Middle East and North Africa (MENA), World Economic Forum_
+_Context: World Economic Forum, Jordan, the Middle East and North Africa (MENA)_
 
 ##### Building collapse
 ### [A building collapse in the Indian city of Pune kills at least six people. ](/news/2012/09/24/a-building-collapse-in-the-indian-city-of-pune-kills-at-least-six-people.md)
@@ -25,7 +25,7 @@ At least six people are killed after a building collapses in Pune city in the we
 
 ##### Taiwan
 ### [Dozens of Taiwanese fishing boats set sail for the disputed Senkaku Islands which are also claimed by China and Japan. ](/news/2012/09/24/dozens-of-taiwanese-fishing-boats-set-sail-for-the-disputed-senkaku-islands-which-are-also-claimed-by-china-and-japan.md)
-_Context: Taiwan, China, Senkaku Islands, Japan_
+_Context: China, Japan, Taiwan, Senkaku Islands_
 
 ##### Jewish
 ### [Jewish Democrats ask Prime Minister of Israel Benjamin Netanyahu to stop bringing "daylight" into Israel-United States relations. ](/news/2012/09/24/jewish-democrats-ask-prime-minister-of-israel-benjamin-netanyahu-to-stop-bringing-daylight-into-israelaunited-states-relations.md)
@@ -33,7 +33,7 @@ Israeli Prime Minister Benjamin Netanyahu is on the defensive after facing accus
 
 ##### Wang Lijun
 ### [Wang Lijun, the former police chief and vice-mayor of Chongqing, China, is sentenced to 15 years in prison for corruption-related charges and defection. ](/news/2012/09/24/wang-lijun-the-former-police-chief-and-vice-mayor-of-chongqing-china-is-sentenced-to-15-years-in-prison-for-corruption-related-charges-an.md)
-_Context: Wang Lijun, Chongqing, China_
+_Context: Chongqing, Wang Lijun, China_
 
 ##### Foxconn
 ### [Manufacturer Foxconn closes a factory in Taiyuan in China's Shanxi province after a fight breaks out between thousands of workers. ](/news/2012/09/24/manufacturer-foxconn-closes-a-factory-in-taiyuan-in-china-s-shanxi-province-after-a-fight-breaks-out-between-thousands-of-workers.md)
@@ -41,7 +41,7 @@ It supplies the world&#039;s technology giants, including Apple, but Foxconn has
 
 ##### Vietnam
 ### [Three bloggers in Vietnam are sentenced to four, ten and twelve years' imprisonment for "anti-state propaganda". ](/news/2012/09/24/three-bloggers-in-vietnam-are-sentenced-to-four-ten-and-twelve-years-imprisonment-for-anti-state-propaganda.md)
-_Context: Vietnam, propaganda_
+_Context: propaganda, Vietnam_
 
 ##### Israel
 ### [Former Israeli minister of industry, trade and labor Ehud Olmert, who is also a former prime minister, is given a fine and a suspended 1-year jail sentence for cronyism while in office. A bribery case related to a housing project in Jerusalem is still being investigated. ](/news/2012/09/24/former-israeli-minister-of-industry-trade-and-labor-ehud-olmert-who-is-also-a-former-prime-minister-is-given-a-fine-and-a-suspended-1-yea.md)
@@ -61,15 +61,15 @@ _Context: Saudi Arabia_
 
 ##### Karim Masimov
 ### [Karim Masimov resigns as the Prime Minister of Kazakhstan after serving for five years. ](/news/2012/09/24/karim-masimov-resigns-as-the-prime-minister-of-kazakhstan-after-serving-for-five-years.md)
-_Context: Prime Minister, Karim Masimov, Kazakhstan_
+_Context: Karim Masimov, Kazakhstan, Prime Minister_
 
 ##### OSCE
 ### [The Organization for Security and Co-operation in Europe says recent parliamentary elections in Belarus were neither free nor fair. VRT calls them "a farce". ](/news/2012/09/24/the-organization-for-security-and-co-operation-in-europe-says-recent-parliamentary-elections-in-belarus-were-neither-free-nor-fair-vrt-call.md)
-_Context: OSCE, parliamentary elections, VRT, Belarus_
+_Context: parliamentary elections, Belarus, VRT, OSCE_
 
 ##### Jun Azumi
 ### [Jun Azumi, the Minister of Finance of Japan, says he is to step down and take on a senior function as the acting secretary-general of the Democratic Party of Japan. His announcement comes ahead of an expected cabinet reshuffle. ](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.md)
-_Context: Minister of Finance, Japan, Cabinet of Japan, Jun Azumi, Democratic Party_
+_Context: Democratic Party, Japan, Jun Azumi, Minister of Finance, Cabinet of Japan_
 
 ## [Previous Day...](/news/2012/09/23/index.md)
 

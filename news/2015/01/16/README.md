@@ -5,7 +5,7 @@ Formats: [HTML](2015/01/16/index.html)  [JSON](2015/01/16/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The United States Department of Defense announces that it will send 400 troops to train moderate Syrian rebels in the spring of 2015. ](/news/2015/01/16/the-united-states-department-of-defense-announces-that-it-will-send-400-troops-to-train-moderate-syrian-rebels-in-the-spring-of-2015.md)
-_Context: U.S. military, Syrian Civil War, Free Syrian Army_
+_Context: Free Syrian Army, U.S. military, Syrian Civil War_
 
 ##### Colombes
 ### [A hostage crisis at a post office in Colombes, Paris, ends with the attacker releasing the hostages and surrendering himself to the police. ](/news/2015/01/16/a-hostage-crisis-at-a-post-office-in-colombes-paris-ends-with-the-attacker-releasing-the-hostages-and-surrendering-himself-to-the-police.md)
@@ -13,7 +13,7 @@ _Context: Colombes, Paris_
 
 ##### Military
 ### [The Military of Chad enters Cameroon to assist in fighting against Boko Haram insurgents. ](/news/2015/01/16/the-military-of-chad-enters-cameroon-to-assist-in-fighting-against-boko-haram-insurgents.md)
-_Context: Boko Haram, Cameroon, Chad, Military_
+_Context: Chad, Boko Haram, Cameroon, Military_
 
 ##### BP
 ### [U.S. federal magistrate Carl Barbier's ruling caps BP's fine under the Clean Water Act for its 2010 "Deepwater Horizon" oil spill in the Gulf of Mexico at $13.7 billion. ](/news/2015/01/16/u-s-federal-magistrate-carl-barbier-s-ruling-caps-bp-s-fine-under-the-clean-water-act-for-its-2010-deepwater-horizon-oil-spill-in-the-gul.md)
@@ -21,7 +21,7 @@ BP Plc (BP.L) will face a maximum fine of $13.7 billion under the Clean Water Ac
 
 ##### Obama Administration
 ### [The Obama Administration eases trade restrictions with Cuba, now permitting the sale of tools and equipment for private-sector use in Cuba. ](/news/2015/01/16/the-obama-administration-eases-trade-restrictions-with-cuba-now-permitting-the-sale-of-tools-and-equipment-for-private-sector-use-in-cuba.md)
-_Context: Cuba, private-sector, Obama Administration_
+_Context: Cuba, Obama Administration, private-sector_
 
 ##### Hunga Tonga
 ### [An explosion of the Hunga Tonga submerged volcano in the South Pacific Ocean, near Nuku'alofa, Tonga, disrupts air travel and creates a one-kilometer new island. ](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.md)
@@ -49,7 +49,7 @@ The court, after declining to take up the issue in October, is now likely to res
 
 ##### Pittsburgh
 ### [Pittsburgh police arrest Ryan Williams for the October 18, 2014 McKeesport, Pennsylvania arson attack and charge him with arson, burglary, and six counts of criminal homicide. The victims include four children ages 2 through 7. ](/news/2015/01/16/pittsburgh-police-arrest-ryan-williams-for-the-october-18-2014-mckeesport-pennsylvania-arson-attack-and-charge-him-with-arson-burglary-a.md)
-_Context: Pennsylvania, McKeesport, Pittsburgh_
+_Context: McKeesport, Pennsylvania, Pittsburgh_
 
 ##### Obama Administration
 ### [The Obama Administration imposes restrictions on state and local police's ability to seize personal property under the guidelines of the Equitable Sharing federal program. ](/news/2015/01/16/the-obama-administration-imposes-restrictions-on-state-and-local-police-s-ability-to-seize-personal-property-under-the-guidelines-of-the-equ.md)

@@ -25,7 +25,7 @@ _Context: North Caucasus, Russian Army_
 
 ##### Senegalese police
 ### [Senegalese police clash with protesters in Dakar in the fourth consecutive day of protests ahead of next week's presidential election. ](/news/2012/02/18/senegalese-police-clash-with-protesters-in-dakar-in-the-fourth-consecutive-day-of-protests-ahead-of-next-week-s-presidential-election.md)
-_Context: Senegalese police, Dakar, elected_
+_Context: Dakar, Senegalese police, elected_
 
 ##### American
 ### [The funeral of American entertainer Whitney Houston is held at the New Hope Baptist Church in Newark, New Jersey. ](/news/2012/02/18/the-funeral-of-american-entertainer-whitney-houston-is-held-at-the-new-hope-baptist-church-in-newark-new-jersey.md)
@@ -33,7 +33,7 @@ The New Hope Baptist Church, where pop star Whitney Houston first sang and famil
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.md)
-_Context: Cardinal, Pope Benedict XVI_
+_Context: Pope Benedict XVI, Cardinal_
 
 ##### Italian
 ### [The Italian film "Caesar Must Die" wins the Golden Bear at the 62nd Berlin International Film Festival. ](/news/2012/02/18/the-italian-film-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.md)
@@ -41,15 +41,15 @@ The Italian docudrama shows the staging of Shakespeare’s Julius Ceasar in a ma
 
 ##### Government
 ### [The Greek Cabinet approves additional austerity measures demanded by the European Union and International Monetary Fund. ](/news/2012/02/18/the-greek-cabinet-approves-additional-austerity-measures-demanded-by-the-european-union-and-international-monetary-fund.md)
-_Context: International Monetary Fund, European Union, government_
+_Context: European Union, government, International Monetary Fund_
 
 ##### China
 ### [At least nine people are killed and 24 injured after a bus crashes in China's Yunnan province. ](/news/2012/02/18/at-least-nine-people-are-killed-and-24-injured-after-a-bus-crashes-in-china-s-yunnan-province.md)
-_Context: China, Yunnan province_
+_Context: Yunnan province, China_
 
 ##### China
 ### [Twenty one people are given jail sentences in the People's Republic of China for match fixing, including Yang Yimin, a former deputy chief of the Chinese Football Association. ](/news/2012/02/18/twenty-one-people-are-given-jail-sentences-in-the-people-s-republic-of-china-for-match-fixing-including-yang-yimin-a-former-deputy-chief-o.md)
-_Context: Chinese Football Association, match fixing, China_
+_Context: match fixing, Chinese Football Association, China_
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund Managing Director Dominique Strauss-Kahn is summoned by French police to face questions about alleged involvement in a prostitution ring in the city of Lille. ](/news/2012/02/18/former-international-monetary-fund-managing-director-dominique-strauss-kahn-is-summoned-by-french-police-to-face-questions-about-alleged-inv.md)

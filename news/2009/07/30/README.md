@@ -5,7 +5,7 @@ Formats: [HTML](2009/07/30/index.html)  [JSON](2009/07/30/index.json)  [XML](200
 
 ##### Bryan, TX
 ### [ 70,000 people are evacuated from Bryan, TX, USA, after ammonium nitrate is released during a fire at the El Dorado Chemical Company warehouse there.](/news/2009/07/30/70-000-people-are-evacuated-from-bryan-tx-usa-after-ammonium-nitrate-is-released-during-a-fire-at-the-el-dorado-chemical-company-warehou.md)
-_Context: fire, ammonium nitrate, USA, Bryan, TX_
+_Context: ammonium nitrate, USA, fire, Bryan, TX_
 
 ##### Palmanova bombing
 ### [ At least two people are killed in a car bomb explosion at a Guardia Civil barracks in Palma Nova on the Spanish island of Mallorca. ](/news/2009/07/30/at-least-two-people-are-killed-in-a-car-bomb-explosion-at-a-guardia-civil-barracks-in-palma-nova-on-the-spanish-island-of-mallorca.md)
@@ -13,15 +13,15 @@ At least two people have been killed in an explosion at a civil guard barracks o
 
 ##### Albania
 ### [ Albania's Prime Minister Sali Berisha indicates he may legalise gay marriage in the country. ](/news/2009/07/30/albania-s-prime-minister-sali-berisha-indicates-he-may-legalise-gay-marriage-in-the-country.md)
-_Context: Albania, he may legalise, Prime Minister, Sali Berisha, same-sex couples_
+_Context: he may legalise, same-sex couples, Prime Minister, Sali Berisha, Albania_
 
 ##### Nigeria
 ### [ Nigerian forces attack a mosque used by the militant Islamist Boko Haram group. ](/news/2009/07/30/nigerian-forces-attack-a-mosque-used-by-the-militant-islamist-boko-haram-group.md)
-_Context: Boko Haram, Islamists, alive when captured, Nigeria_
+_Context: Boko Haram, alive when captured, Nigeria, Islamists_
 
 ##### United States Coast Guard
 ### [ The United States Coast Guard calls off its search for as many as 79 Haitians missing after their boat capsized near the Turks and Caicos Islands with two hundred people onboard. ](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.md)
-_Context: Haiti, United States Coast Guard, Turks and Caicos Islands, boat capsized_
+_Context: boat capsized, United States Coast Guard, Haiti, Turks and Caicos Islands_
 
 ##### Iran
 ### [ Iranian police clash with mourners at a Tehranian cemetery for a memorial to those killed in post-election violence, using teargas to disperse crowds from the grave of Neda Agha-Soltan and forcing Opposition leader Mir-Hossein Mousavi to make his exit. ](/news/2009/07/30/iranian-police-clash-with-mourners-at-a-tehranian-cemetery-for-a-memorial-to-those-killed-in-post-election-violence-using-teargas-to-dispe.md)
@@ -29,7 +29,7 @@ Iranian riot police have clashed with mourners who gathered at a cemetery to com
 
 ##### Cook Islands
 ### [ Cook Islands Prime Minister Jim Marurai fires Foreign Minister Wilkie Rasmussen, accusing him of plotting to topple the government. ](/news/2009/07/30/cook-islands-prime-minister-jim-marurai-fires-foreign-minister-wilkie-rasmussen-accusing-him-of-plotting-to-topple-the-government.md)
-_Context: Prime Minister, Wilkie Rasmussen, Cook Islands, Jim Marurai, Foreign Minister_
+_Context: Prime Minister, Foreign Minister, Wilkie Rasmussen, Cook Islands, Jim Marurai_
 
 ##### South Korea
 ### [ A South Korean fishing boat is towed away by a North Korean patrol boat. ](/news/2009/07/30/a-south-korean-fishing-boat-is-towed-away-by-a-north-korean-patrol-boat.md)
@@ -41,11 +41,11 @@ The Communist President Vladimir Voronin of Moldova has said that he is ready fo
 
 ##### Australia
 ### [ Australian Prime Minister Kevin Rudd promises to create 50,000 green jobs and apprenticeships to combat climate change and unemployment simultaneously. ](/news/2009/07/30/australian-prime-minister-kevin-rudd-promises-to-create-50-000-green-jobs-and-apprenticeships-to-combat-climate-change-and-unemployment-sim.md)
-_Context: Kevin Rudd, Australia, Australian Prime Minister_
+_Context: Australia, Australian Prime Minister, Kevin Rudd_
 
 ##### United States
 ### [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md)
-_Context: black, public intellectual, Barack Obama, Henry Louis Gates, United States, White House, U.S. President, racial profiling, altercation_
+_Context: United States, black, racial profiling, altercation, Barack Obama, White House, public intellectual, U.S. President, Henry Louis Gates_
 
 ##### Referendum Commission
 ### [ Referendum Commission research indicates a significant increase in the level of understanding of the Treaty of Lisbon among Irish voters. ](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.md)
@@ -53,7 +53,7 @@ Research indicates that there has been a substantial increase in the level of un
 
 ##### Islam
 ### [ Islamist militants kill at least 15 Algerian soldiers and injure 20 others in an ambush outside Tipaza. ](/news/2009/07/30/islamist-militants-kill-at-least-15-algerian-soldiers-and-injure-20-others-in-an-ambush-outside-tipaza.md)
-_Context: Algeria, Tipaza, Islam_
+_Context: Tipaza, Algeria, Islam_
 
 ##### Kitab Sultan
 ### [ 8 people are killed and 10 are injured in a bomb attack on the offices of a Sunni political party, Kitab Sultan, in Diyala Governorate. ](/news/2009/07/30/8-people-are-killed-and-10-are-injured-in-a-bomb-attack-on-the-offices-of-a-sunni-political-party-kitab-sultan-in-diyala-governorate.md)
@@ -65,7 +65,7 @@ A British woman suffering from multiple sclerosis has won what her lawyers descr
 
 ##### Iraq
 ### [ Iraq's government admit that seven Iranian exiles were killed when Iraqi forces took control of their camp north of Baghdad. ](/news/2009/07/30/iraq-s-government-admit-that-seven-iranian-exiles-were-killed-when-iraqi-forces-took-control-of-their-camp-north-of-baghdad.md)
-_Context: Iran, Iraq, Baghdad_
+_Context: Iraq, Baghdad, Iran_
 
 ##### University College Dublin
 ### [ University College Dublin quarantines seven language students after around sixty mainly Italian and Russian students are assessed by doctors for swine flu. ](/news/2009/07/30/university-college-dublin-quarantines-seven-language-students-after-around-sixty-mainly-italian-and-russian-students-are-assessed-by-doctor.md)
@@ -73,7 +73,7 @@ Figures from the Department of health confirm that 19 people have been hospitali
 
 ##### United States
 ### [ The United States Presidential Medal of Freedom is awarded to several international figures including Stephen Hawking, Billie Jean King, Harvey Milk, Sidney Poitier, Mary Robinson, Desmond Tutu and Muhammad Yunus. ](/news/2009/07/30/the-united-states-presidential-medal-of-freedom-is-awarded-to-several-international-figures-including-stephen-hawking-billie-jean-king-ha.md)
-_Context: Presidential Medal of Freedom with Distinction, Muhammad Yunus, Stephen Hawking, United States, Desmond Tutu, Mary Robinson, Harvey Milk, Billie Jean King, Sidney Poitier_
+_Context: Muhammad Yunus, Billie Jean King, Sidney Poitier, Stephen Hawking, Harvey Milk, United States, Desmond Tutu, Mary Robinson, Presidential Medal of Freedom with Distinction_
 
 ## [Previous Day...](/news/2009/07/29/index.md)
 

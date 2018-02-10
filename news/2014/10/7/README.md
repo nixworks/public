@@ -9,11 +9,11 @@ _Context: South Korea, Korean maritime border incidents, North Korea_
 
 ##### ISIL
 ### [A hospital in the northern Iraqi city of Tal Afar says that 29 suspected ISIL fighters were killed in airstrikes last night. ](/news/2014/10/7/a-hospital-in-the-northern-iraqi-city-of-tal-afar-says-that-29-suspected-isil-fighters-were-killed-in-airstrikes-last-night.md)
-_Context: Tal Afar, Iraq, ISIL_
+_Context: ISIL, Iraq, Tal Afar_
 
 ##### Earthquake
 ### [A magnitude 6.0 earthquake hits China's Yunnan province with at least one death reported. ](/news/2014/10/7/a-magnitude-6-0-earthquake-hits-china-s-yunnan-province-with-at-least-one-death-reported.md)
-_Context: China, earthquake, Yunnan province_
+_Context: earthquake, China, Yunnan province_
 
 ##### 2014 Pacific typhoon season
 ### [Supertyphoon Vongfong becomes the most intense storm of the year as it heads for Japan. ](/news/2014/10/7/supertyphoon-vongfong-becomes-the-most-intense-storm-of-the-year-as-it-heads-for-japan.md)
@@ -29,7 +29,7 @@ Myanmar on Tuesday pledged to release thousands of prisoners a month before a So
 
 ##### Umbrella revolution
 ### [Protesters who filled Hong Kong's streets for more democracy lessened Tuesday after the government finally agreed to negotiate with the student leaders. ](/news/2014/10/7/protesters-who-filled-hong-kong-s-streets-for-more-democracy-lessened-tuesday-after-the-government-finally-agreed-to-negotiate-with-the-stud.md)
-_Context: Hong Kong, Umbrella revolution_
+_Context: Umbrella revolution, Hong Kong_
 
 ##### Nobel Prize in Physics
 ### [Isamu Akasaki, Hiroshi Amano and Shuji Nakamura win the 2014 Nobel Prize in Physics for inventing blue light emitting diodes. ](/news/2014/10/7/isamu-akasaki-hiroshi-amano-and-shuji-nakamura-win-the-2014-nobel-prize-in-physics-for-inventing-blue-light-emitting-diodes.md)

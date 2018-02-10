@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/20/index.html)  [JSON](2014/01/20/index.json)  [XML](201
 
 ##### War in North-West Pakistan
 ### [A suicide bomber blows himself up near Pakistan's military headquarters in Rawalpindi killing at least 13 people. ](/news/2014/01/20/a-suicide-bomber-blows-himself-up-near-pakistan-s-military-headquarters-in-rawalpindi-killing-at-least-13-people.md)
-_Context: killing at least 13 people, Pakistan, War in North-West Pakistan, Rawalpindi, suicide bomber_
+_Context: suicide bomber, killing at least 13 people, War in North-West Pakistan, Rawalpindi, Pakistan_
 
 ##### December 2013 Volgograd bombings
 ### [An Islamist group claims responsibility for the bombings and threatens attacks on the 2014 Winter Olympic Games to be held in Sochi. ](/news/2014/01/20/an-islamist-group-claims-responsibility-for-the-bombings-and-threatens-attacks-on-the-2014-winter-olympic-games-to-be-held-in-sochi.md)
@@ -65,7 +65,7 @@ Several senior US lawmakers allege that intelligence leaker Edward Snowden may h
 
 ##### Kenneth Bae
 ### [Kenneth Bae, an American prisoner in North Korea, releases a message to the United States for help. ](/news/2014/01/20/kenneth-bae-an-american-prisoner-in-north-korea-releases-a-message-to-the-united-states-for-help.md)
-_Context: North Korea, Kenneth Bae_
+_Context: Kenneth Bae, North Korea_
 
 ##### Hong Kong
 ### [Hong Kong arrests an employer for abusing an Indonesian maid which resulted in protests by migrant workers from Indonesia and the Philippines in the Chinese territory. ](/news/2014/01/20/hong-kong-arrests-an-employer-for-abusing-an-indonesian-maid-which-resulted-in-protests-by-migrant-workers-from-indonesia-and-the-philippine.md)
@@ -77,7 +77,7 @@ Israel has become the first country in the world to make ‘revenge porn’ a cr
 
 ##### India
 ### [Police in India are investigating the death of Sunanda Pushkar, wife of Shashi Tharoor, after she had accused her husband of committing adultery with Pakistani journalist Mehr Tarar. ](/news/2014/01/20/police-in-india-are-investigating-the-death-of-sunanda-pushkar-wife-of-shashi-tharoor-after-she-had-accused-her-husband-of-committing-adul.md)
-_Context: adultery, India, Sunanda Pushkar, Pakistan, Shashi Tharoor, Mehr Tarar_
+_Context: Mehr Tarar, Pakistan, adultery, Shashi Tharoor, India, Sunanda Pushkar_
 
 ##### Vietnam
 ### [30 people are to be executed in Vietnam for smuggling drugs. ](/news/2014/01/20/30-people-are-to-be-executed-in-vietnam-for-smuggling-drugs.md)

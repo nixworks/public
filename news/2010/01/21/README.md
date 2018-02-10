@@ -5,7 +5,7 @@ Formats: [HTML](2010/01/21/index.html)  [JSON](2010/01/21/index.json)  [XML](201
 
 ##### China
 ### [Chinese Vice-Foreign Minister He Yafei downplays the government's row with Google, saying it does not affect relations with the United States. ](/news/2010/01/21/chinese-vice-foreign-minister-he-yafei-downplays-the-government-s-row-with-google-saying-it-does-not-affect-relations-with-the-united-state.md)
-_Context: Foreign Minister, He Yafei, Chinese government, China, Google, United States_
+_Context: Chinese government, China, Google, Foreign Minister, He Yafei, United States_
 
 ##### United States
 ### [U.S. Secretary of Defense Robert Gates makes his first visit to Pakistan. ](/news/2010/01/21/u-s-secretary-of-defense-robert-gates-makes-his-first-visit-to-pakistan.md)
@@ -17,35 +17,35 @@ Goldman Sachs reported strong earnings on Thursday, but the bank reduced the sha
 
 ##### United States
 ### [The United States sends an additional 2,000 troops to Haiti to help with earthquake relief efforts. ](/news/2010/01/21/the-united-states-sends-an-additional-2-000-troops-to-haiti-to-help-with-earthquake-relief-efforts.md)
-_Context: United States, Haiti, relief, 2010 Haiti earthquake_
+_Context: Haiti, 2010 Haiti earthquake, relief, United States_
 
 ##### China
 ### [Chinese economy grows 8.7% in 2009. ](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.md)
-_Context: Economy of the People's Republic of China, China_
+_Context: China, Economy of the People's Republic of China_
 
 ##### Virginia
 ### [Virginia, United States shootings suspect Christopher Speight is charged with first degree murder. ](/news/2010/01/21/virginia-united-states-shootings-suspect-christopher-speight-is-charged-with-first-degree-murder.md)
-_Context: United States, Christopher Speight, first degree murder, Virginia_
+_Context: United States, first degree murder, Virginia, Christopher Speight_
 
 ##### United States
 ### [United States Supreme Court overturns campaign spending limits by corporations and unions. ](/news/2010/01/21/united-states-supreme-court-overturns-campaign-spending-limits-by-corporations-and-unions.md)
-_Context: United States, overturns campaign spending limits_
+_Context: overturns campaign spending limits, United States_
 
 ##### Parliament
 ### [The Parliament of Angola approves a new constitution that abolishes direct presidential elections. ](/news/2010/01/21/the-parliament-of-angola-approves-a-new-constitution-that-abolishes-direct-presidential-elections.md)
-_Context: Parliament, constitution, elections, president, Angola_
+_Context: Angola, elections, president, constitution, Parliament_
 
 ##### Nigeria
 ### [Nigerian authorities relax a 24 hour curfew put in place in Jos due to recent religious violence. ](/news/2010/01/21/nigerian-authorities-relax-a-24-hour-curfew-put-in-place-in-jos-due-to-recent-religious-violence.md)
-_Context: Nigeria, Jos, events earlier this year, curfew_
+_Context: Jos, curfew, events earlier this year, Nigeria_
 
 ##### General Motors
 ### [General Motors confirms it will close an Opel factory in Antwerp, Belgium, cutting 2,300 jobs. ](/news/2010/01/21/general-motors-confirms-it-will-close-an-opel-factory-in-antwerp-belgium-cutting-2-300-jobs.md)
-_Context: Belgium, Antwerp, Opel, General Motors_
+_Context: General Motors, Belgium, Opel, Antwerp_
 
 ##### Yemen
 ### [Yemen stops issuing visas at international airports to "halt terrorist infiltration" following the Christmas Day bomb plot. ](/news/2010/01/21/yemen-stops-issuing-visas-at-international-airports-to-halt-terrorist-infiltration-following-the-christmas-day-bomb-plot.md)
-_Context: visa, Yemen, terrorism, Northwest Airlines Flight 253_
+_Context: Yemen, Northwest Airlines Flight 253, terrorism, visa_
 
 ##### Boards.ie
 ### [The internet forum boards.ie is attacked by hackers, forcing it to go offline and change the passwords of thousands of its users. ](/news/2010/01/21/the-internet-forum-boards-ie-is-attacked-by-hackers-forcing-it-to-go-offline-and-change-the-passwords-of-thousands-of-its-users.md)

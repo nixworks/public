@@ -5,11 +5,11 @@ Formats: [HTML](2008/02/13/index.html)  [JSON](2008/02/13/index.json)  [XML](200
 
 ##### United States Senate
 ### [ The United States Senate passes legislation to ban the Central Intelligence Agency from using certain interrogation methods including waterboarding. ](/news/2008/02/13/the-united-states-senate-passes-legislation-to-ban-the-central-intelligence-agency-from-using-certain-interrogation-methods-including-water.md)
-_Context: waterboarding, United States Senate, Central Intelligence Agency_
+_Context: Central Intelligence Agency, waterboarding, United States Senate_
 
 ##### Major League Baseball
 ### [ Former Major League Baseball pitcher Roger Clemens testifies to the United States House Committee on Oversight and Government Reform regarding performance enhancing drugs. ](/news/2008/02/13/former-major-league-baseball-pitcher-roger-clemens-testifies-to-the-united-states-house-committee-on-oversight-and-government-reform-regard.md)
-_Context: Roger Clemens, pitcher, House Oversight Committee, Major League Baseball, performance-enhancing drugs_
+_Context: Roger Clemens, Major League Baseball, pitcher, performance-enhancing drugs, House Oversight Committee_
 
 ##### Iraqi Parliament
 ### [ The Iraqi Parliament adopts an accord on the budget, detainees and federalism, setting provincial elections for late 2008. ](/news/2008/02/13/the-iraqi-parliament-adopts-an-accord-on-the-budget-detainees-and-federalism-setting-provincial-elections-for-late-2008.md)
@@ -17,11 +17,11 @@ _Context: Iraqi Parliament, provincial elections_
 
 ##### Sweden
 ### [ The Swedish government rejects the Nord Stream underwater natural gas pipeline from Russia to Germany. ](/news/2008/02/13/the-swedish-government-rejects-the-nord-stream-underwater-natural-gas-pipeline-from-russia-to-germany.md)
-_Context: German, Nord Stream, line, Sweden, Russia_
+_Context: German, line, Nord Stream, Sweden, Russia_
 
 ##### Hezbollah
 ### [ Hezbollah commander Imad Mugniyah is killed by a bomb attack in Damascus, Syria. ](/news/2008/02/13/hezbollah-commander-imad-mugniyah-is-killed-by-a-bomb-attack-in-damascus-syria.md)
-_Context: Damascus, Hezbollah, Syria, Imad Mugniyah_
+_Context: Imad Mugniyah, Damascus, Syria, Hezbollah_
 
 ##### Australian Prime Minister
 ### [ Prime Minister Kevin Rudd issues a formal apology to the Indigenous Stolen Generation on behalf of the Parliament of Australia. ](/news/2008/02/13/prime-minister-kevin-rudd-issues-a-formal-apology-to-the-indigenous-stolen-generation-on-behalf-of-the-parliament-of-australia.md)
@@ -33,11 +33,11 @@ Uno became the first beagle to win best in show at the Westminster Kennel Club o
 
 ##### Vancouver
 ### [ An explosion in Vancouver, British Columbia destroys a Starbucks and Taco Del Mar. Police report arson, originating in the taco restaurant. ](/news/2008/02/13/an-explosion-in-vancouver-british-columbia-destroys-a-starbucks-and-taco-del-mar-police-report-arson-originating-in-the-taco-restaurant.md)
-_Context: British Columbia, Starbucks, Vancouver, Taco Del Mar_
+_Context: Vancouver, Taco Del Mar, Starbucks, British Columbia_
 
 ##### Parliament of Malaysia
 ### [ Malaysian Parliament dissolved for The 13th Malaysian general election. ](/news/2008/02/13/malaysian-parliament-dissolved-for-the-13th-malaysian-general-election.md)
-_Context: Malaysian general election, 2008, Parliament of Malaysia_
+_Context: Parliament of Malaysia, Malaysian general election, 2008_
 
 ## [Previous Day...](/news/2008/02/12/index.md)
 

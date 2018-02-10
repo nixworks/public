@@ -13,7 +13,7 @@ Protesters leave St Paul&#039;s after staging a protest in solidarity with Russi
 
 ##### President of Mauritania
 ### [President of Mauritania Mohamed Ould Abdel Aziz, shot by troops yesterday, is flown to France. ](/news/2012/10/14/president-of-mauritania-mohamed-ould-abdel-aziz-shot-by-troops-yesterday-is-flown-to-france.md)
-_Context: President of Mauritania, France, Mohamed Ould Abdel Aziz_
+_Context: France, President of Mauritania, Mohamed Ould Abdel Aziz_
 
 ##### Collection of manuscripts
 ### [A collection of manuscripts by Franz Kafka and Max Brod must be handed over to the National Library of Israel, says the judge in Tel Aviv, sanctioning the heirs of Esther Hoffe, Brod's secretary. ](/news/2012/10/14/a-collection-of-manuscripts-by-franz-kafka-and-max-brod-must-be-handed-over-to-the-national-library-of-israel-says-the-judge-in-tel-aviv-s.md)
@@ -37,7 +37,7 @@ For most of his 30 years as Pennsylvania&#x27;s longest-serving U.S. senator and
 
 ##### Felix Baumgartner
 ### [Felix Baumgartner breaks the world human ascent by balloon record before space diving out of the "Red Bull Stratos" helium-filled balloon over Roswell, New Mexico. ](/news/2012/10/14/felix-baumgartner-breaks-the-world-human-ascent-by-balloon-record-before-space-diving-out-of-the-red-bull-stratos-helium-filled-balloon-ov.md)
-_Context: Felix Baumgartner, Red Bull Stratos, Roswell, New Mexico, space diving_
+_Context: Red Bull Stratos, Felix Baumgartner, space diving, Roswell, New Mexico_
 
 ## [Previous Day...](/news/2012/10/13/index.md)
 

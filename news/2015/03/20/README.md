@@ -9,9 +9,9 @@ Islamic State has published a video purporting to show the beheading of three Ku
 
 ##### Yemeni crisis
 ### [Islamic State claims responsibility for suicide bombings in Shiite mosques in Sanaa that kill 142 people. ](/news/2015/03/20/islamic-state-claims-responsibility-for-suicide-bombings-in-shiite-mosques-in-sanaa-that-kill-142-people.md)
-_Context: Sana'a, Yemeni crisis, Shiite, suicide bombing_
+_Context: suicide bombing, Shiite, Yemeni crisis, Sana'a_
 
-##### Mexico
+##### Mexican
 ### [An ambush on Mexican police in Ocotlan, Jalisco state kills ten with none of the gunmen apprehended. ](/news/2015/03/20/an-ambush-on-mexican-police-in-ocotlan-jalisco-state-kills-ten-with-none-of-the-gunmen-apprehended.md)
 Ten people were killed in a gunfight in western Mexico when suspected gang members ambushed a police convoy in one of the deadliest attacks on security forces since Mexican President Enrique Pena Nieto took office in December 2012.
 
@@ -29,7 +29,7 @@ An Argentine Beechcraft King Air has crashed and burned leaving 10 dead.
 
 ##### Biogen Idec
 ### [Biogen Idec Inc. reports that a drug in a phase II clinical research trial has achieved the first experimental demonstration of a statistically significant reduction in amyloid plaque as well as a slowing of clinical impairment in patients with Alzheimer's disease. The antibody drug, aducanumab, blocked beta amyloid formation, a protein that forms toxic brain-destroying plaques, and significantly slowed cognitive decline. ](/news/2015/03/20/biogen-idec-inc-reports-that-a-drug-in-a-phase-ii-clinical-research-trial-has-achieved-the-first-experimental-demonstration-of-a-statistica.md)
-_Context: aducanumab, phase II clinical research trial, antibodies, beta amyloid, Biogen Idec, Alzheimer's disease_
+_Context: phase II clinical research trial, beta amyloid, Alzheimer's disease, aducanumab, Biogen Idec, antibodies_
 
 ##### Subprime mortgage
 ### [To resolve claims they were misled about the company's subprime mortgage exposure, a U.S. District Court Judge, Laura Swain approves a settlement between shareholders and American multinational insurer AIG, providing for a payout of $970.5 million. ](/news/2015/03/20/to-resolve-claims-they-were-misled-about-the-company-s-subprime-mortgage-exposure-a-u-s-district-court-judge-laura-swain-approves-a-settl.md)

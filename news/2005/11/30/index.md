@@ -5,11 +5,11 @@ Formats: [HTML](2005/11/30/index.html)  [JSON](2005/11/30/index.json)  [XML](200
 
 ##### Hurricane Epsilon
 ### [ The 2005 Atlantic hurricane season officially ended today, despite Tropical Storm Epsilon's remaining active in the Atlantic. ](/news/2005/11/30/the-2005-atlantic-hurricane-season-officially-ended-today-despite-tropical-storm-epsilon-s-remaining-active-in-the-atlantic.md)
-_Context: Hurricane Epsilon, 2005 Atlantic hurricane season_
+_Context: 2005 Atlantic hurricane season, Hurricane Epsilon_
 
 ##### Gabon
 ### [ Gabon: Africa's longest serving president (since 1967), Omar Bongo, wins presidential elections, securing a further seven years in office. ](/news/2005/11/30/gabon-africa-s-longest-serving-president-since-1967-omar-bongo-wins-presidential-elections-securing-a-further-seven-years-in-office.md)
-_Context: Omar Bongo, presidential elections, Gabon_
+_Context: Omar Bongo, Gabon, presidential elections_
 
 ##### Military of the United States
 ### [ The US Military has been covertly paying to run news stories written by US Military "information operations" troops. The stories, usually praising the work of the U.S. Military, appeared in Baghdad newspapers ](/news/2005/11/30/the-us-military-has-been-covertly-paying-to-run-news-stories-written-by-us-military-information-operations-troops-the-stories-usually-p.md)
@@ -29,15 +29,15 @@ _Context: face transplant, France_
 
 ##### Death toll
 ### [ Death toll in northeast China coal mine blast reaches 150. ](/news/2005/11/30/death-toll-in-northeast-china-coal-mine-blast-reaches-150.md)
-_Context: coal mine, Death toll, China_
+_Context: China, Death toll, coal mine_
 
 ##### Giovanni Prezioso
 ### [ Giovanni Prezioso, the General Counsel of the U.S. Securities and Exchange Commission, announces that he's leaving that post, although he'll remain until early 2006 to aid with the transition. ](/news/2005/11/30/giovanni-prezioso-the-general-counsel-of-the-u-s-securities-and-exchange-commission-announces-that-he-s-leaving-that-post-although-he-l.md)
-_Context: Giovanni Prezioso, Securities and Exchange Commission, General Counsel_
+_Context: Giovanni Prezioso, General Counsel, Securities and Exchange Commission_
 
 ##### Walt Disney Co.
 ### [ There are reports that Walt Disney Co., which is trying to sell its ABC Radio unit, has narrowed the field of potential buyers to three: Entercom Communications Corp., Cumulus Media Inc. and a private equity firm Kohlberg Kravis Roberts. ](/news/2005/11/30/there-are-reports-that-walt-disney-co-which-is-trying-to-sell-its-abc-radio-unit-has-narrowed-the-field-of-potential-buyers-to-three-en.md)
-_Context: Kohlberg Kravis Roberts, ABC Radio, Cumulus Media, Entercom Communications Corp., Walt Disney Co._
+_Context: Cumulus Media, ABC Radio, Entercom Communications Corp., Kohlberg Kravis Roberts, Walt Disney Co._
 
 ## [Previous Day...](/news/2005/11/29/index.md)
 

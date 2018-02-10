@@ -17,19 +17,19 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Government
 ### [ The Government of Lesotho offers all its citizens a free HIV test. Aimed at stopping and reversing the spread of AIDS, this is believed to be the first programme of its kind in the world. ](/news/2005/11/29/the-government-of-lesotho-offers-all-its-citizens-a-free-hiv-test-aimed-at-stopping-and-reversing-the-spread-of-aids-this-is-believed-to.md)
-_Context: Government, Lesotho, AIDS, HIV_
+_Context: Lesotho, AIDS, Government, HIV_
 
 ##### President of the Palestinian Authority
 ### [ President of the Palestinian Authority, Mahmoud Abbas, has cancelled the Fatah Primary Elections after accusations of voter fraud were made. ](/news/2005/11/29/president-of-the-palestinian-authority-mahmoud-abbas-has-cancelled-the-fatah-primary-elections-after-accusations-of-voter-fraud-were-made.md)
-_Context: Primary Election, electoral fraud, Fatah, Mahmoud Abbas, President of the Palestinian Authority_
+_Context: Primary Election, Fatah, electoral fraud, Mahmoud Abbas, President of the Palestinian Authority_
 
 ##### Col.
 ### [ Colonel Lawrence Wilkerson, a top aide to former Secretary of State Colin Powell, accused Vice-President Dick Cheney of ignoring a decision by President Bush on the treatment of prisoners in the war on terror. ](/news/2005/11/29/colonel-lawrence-wilkerson-a-top-aide-to-former-secretary-of-state-colin-powell-accused-vice-president-dick-cheney-of-ignoring-a-decision.md)
-_Context: Colin Powell, Lawrence Wilkerson, Dick Cheney, Vice-President of the United States, Secretary of State, war on terror, George W. Bush, Col._
+_Context: war on terror, George W. Bush, Lawrence Wilkerson, Secretary of State, Vice-President of the United States, Col., Colin Powell, Dick Cheney_
 
 ##### Bomb
 ### [ Two bomb attacks occur in the Bangladeshi cities of Chittagong and Gazipur. Six people are killed and 65 others wounded. ](/news/2005/11/29/two-bomb-attacks-occur-in-the-bangladeshi-cities-of-chittagong-and-gazipur-six-people-are-killed-and-65-others-wounded.md)
-_Context: Chittagong, bomb, Bangladesh, Gazipur_
+_Context: bomb, Bangladesh, Gazipur, Chittagong_
 
 ##### Carl Icahn
 ### [ Activist investor Carl Icahn announces that he has hired Lazard to advise him as he wages a proxy fight for control of Time Warner, the media empire. ](/news/2005/11/29/activist-investor-carl-icahn-announces-that-he-has-hired-lazard-to-advise-him-as-he-wages-a-proxy-fight-for-control-of-time-warner-the-med.md)
@@ -37,7 +37,7 @@ _Context: proxy fight, Time Warner, Carl Icahn, Lazard_
 
 ##### Canadian federal election, 2006
 ### [ Canadian federal election, 2006 - Canadian Governor General Michalle Jean formally dissolves Parliament, following Prime Minister Paul Martin's loss of a confidence vote, and calls a federal election for January 23, 2006. ](/news/2005/11/29/canadian-federal-election-2006-canadian-governor-general-michaelle-jean-formally-dissolves-parliament-following-prime-minister-paul-mar.md)
-_Context: Governor General, Prime Minister, Michalle Jean, Canadian federal election, 2006, Canadian, confidence motion, Paul Martin_
+_Context: Canadian federal election, 2006, Governor General, Canadian, confidence motion, Paul Martin, Michalle Jean, Prime Minister_
 
 ## [Previous Day...](/news/2005/11/28/index.md)
 

@@ -41,7 +41,7 @@ A West African airline halts flights to Liberia and Sierra Leone amid concern ab
 
 ##### Russia
 ### [Moscow describes Tokyo's decision to impose further sanctions on Russia in the wake of the downing of Malaysia Airlines Flight 17 as an "unfriendly step" that may harm "the entire system of relations" between Russia and Japan. ](/news/2014/07/29/moscow-describes-tokyo-s-decision-to-impose-further-sanctions-on-russia-in-the-wake-of-the-downing-of-malaysia-airlines-flight-17-as-an-unf.md)
-_Context: Russia, Malaysia Airlines Flight 17, Japan_
+_Context: Japan, Russia, Malaysia Airlines Flight 17_
 
 ##### European Union
 ### [The European Union and United States impose tougher sanctions against Russia over the Ukraine crisis. ](/news/2014/07/29/the-european-union-and-united-states-impose-tougher-sanctions-against-russia-over-the-ukraine-crisis.md)

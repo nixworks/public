@@ -17,7 +17,7 @@ Tongans have celebrated the royal wedding of the Crown Prince to his second-cous
 
 ##### Rock music
 ### [English rock group, The Rolling Stones, celebrate the fiftieth anniversary of their first performance at the Marquee Club in Oxford Street, London. ](/news/2012/07/12/english-rock-group-the-rolling-stones-celebrate-the-fiftieth-anniversary-of-their-first-performance-at-the-marquee-club-in-oxford-street.md)
-_Context: Oxford Street, The Rolling Stones, London, rock music, Marquee Club_
+_Context: The Rolling Stones, rock music, Marquee Club, Oxford Street, London_
 
 ##### French-born
 ### [French automaker PSA Peugeot Citroen announces that it will cut 8000 jobs from its domestic operations as a result of a downturn in Europe. ](/news/2012/07/12/french-automaker-psa-peugeot-citroen-announces-that-it-will-cut-8000-jobs-from-its-domestic-operations-as-a-result-of-a-downturn-in-europe.md)
@@ -25,7 +25,7 @@ FRENCH auto group PSA Peugeot Citroen says it will cut 8000 jobs in its domestic
 
 ##### Wells Fargo
 ### [Wells Fargo decides to pay a $175 million settlement in a subprime mortgage compensation case. ](/news/2012/07/12/wells-fargo-decides-to-pay-a-175-million-settlement-in-a-subprime-mortgage-compensation-case.md)
-_Context: subprime mortgage, Wells Fargo_
+_Context: Wells Fargo, subprime mortgage_
 
 ##### US Treasury
 ### [The US Treasury announces that sanctions on Iran due to its nuclear program are further tightened. ](/news/2012/07/12/the-us-treasury-announces-that-sanctions-on-iran-due-to-its-nuclear-program-are-further-tightened.md)
@@ -33,7 +33,7 @@ _Context: Iran, US Treasury, nuclear program_
 
 ##### Mountaineering
 ### [At least nine mountaineers are killed and eight injured in an avalanche on Mont Maudit near Mont Blanc in the French Alps. ](/news/2012/07/12/at-least-nine-mountaineers-are-killed-and-eight-injured-in-an-avalanche-on-mont-maudit-near-mont-blanc-in-the-french-alps.md)
-_Context: French Alps, mountaineering, avalanche, Mont Maudit, Mont Blanc_
+_Context: avalanche, Mont Blanc, French Alps, Mont Maudit, mountaineering_
 
 ##### Okogbe
 ### [An oil tanker in Okogbe, Rivers State, Nigeria, explodes after crashing, leaving around 90-115 dead. ](/news/2012/07/12/an-oil-tanker-in-okogbe-rivers-state-nigeria-explodes-after-crashing-leaving-around-90-115-dead.md)
@@ -53,7 +53,7 @@ After what some described as a shambolic trial, two hotel workers are found not 
 
 ##### FBI
 ### [Former FBI Director Louis Freeh's report into the Penn State sex abuse scandal is released, alleging that late head football coach Joe Paterno and other school officials covered up child sexual abuse by former assistant coach Jerry Sandusky. ](/news/2012/07/12/former-fbi-director-louis-freeh-s-report-into-the-penn-state-sex-abuse-scandal-is-released-alleging-that-late-head-football-coach-joe-pater.md)
-_Context: Joe Paterno, Director of the Federal Bureau of Investigation, FBI, Penn State sex abuse scandal, Jerry Sandusky, Louis Freeh_
+_Context: Joe Paterno, Director of the Federal Bureau of Investigation, Jerry Sandusky, Louis Freeh, FBI, Penn State sex abuse scandal_
 
 ##### Attacks and beheads two people
 ### [A 38-year-old seller of antiquities attacks and beheads two people in the Chilean town of Lolol ](/news/2012/07/12/a-38-year-old-seller-of-antiquities-attacks-and-beheads-two-people-in-the-chilean-town-of-lolol.md)

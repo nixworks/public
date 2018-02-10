@@ -33,7 +33,7 @@ Looking for local news? Find your Fairfax newspaper on the list below.
 
 ##### China
 ### [Over 60,000 people are evacuated in China's Yunnan Province following an earthquake. ](/news/2011/02/2/over-60-000-people-are-evacuated-in-china-s-yunnan-province-following-an-earthquake.md)
-_Context: China, Yunnan Province_
+_Context: Yunnan Province, China_
 
 ##### Indian Railways
 ### [Fourteen job seekers traveling home on the rooftop of an overcrowded train, are killed when they hit a low overhead bridge in northern India. ](/news/2011/02/2/fourteen-job-seekers-traveling-home-on-the-rooftop-of-an-overcrowded-train-are-killed-when-they-hit-a-low-overhead-bridge-in-northern-india.md)
@@ -41,15 +41,15 @@ Fifteen youths were killed and several others injured on Tuesday when they fell 
 
 ##### United States
 ### [Six thousand flights are cancelled in the United States following the January 31-February 2, 2011 North American winter storm. ](/news/2011/02/2/six-thousand-flights-are-cancelled-in-the-united-states-following-the-january-31afebruary-2-2011-north-american-winter-storm.md)
-_Context: United States, January 31-February 2, 2011 North American winter storm_
+_Context: January 31-February 2, 2011 North American winter storm, United States_
 
 ##### Five-star
 ### [A fire destroys a five-star Sheraton hotel in the Heping District of Shenyang, Liaoning, China, then the tallest building in Northeastern China, after midnight fireworks celebrating the Chinese New Year set ablaze flammable thermal insulation outside the hotel walls. Firefighters were unable to put out the blaze as ladders could not reach the higher storeys of the building, but no casualties or injuries were reported. ](/news/2011/02/2/a-fire-destroys-a-five-star-sheraton-hotel-in-the-heping-district-of-shenyang-liaoning-china-then-the-tallest-building-in-northeastern-ch.md)
-_Context: Shenyang, Chinese New Year, Sheraton, five-star, Liaoning, thermal insulation, Northeastern China, firework, Heping District_
+_Context: Heping District, five-star, thermal insulation, Northeastern China, Sheraton, firework, Liaoning, Shenyang, Chinese New Year_
 
 ##### Sudanese cabinet
 ### [The Sudanese government, in its first official reaction after preliminary results were announced indicating a landslide vote in favor of Southern Sudan's independence, agrees to accept the results; Vice-President Ali Osman Taha says the government intends "to pursue a policy of good neighbourly relations with the south". ](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.md)
-_Context: Sudanese cabinet, Southern Sudanese Independence Referendum, Ali Osman Taha_
+_Context: Ali Osman Taha, Sudanese cabinet, Southern Sudanese Independence Referendum_
 
 ##### Julian Assange
 ### [Julian Assange, the founder of WikiLeaks, is awarded the Sydney Peace Medal. ](/news/2011/02/2/julian-assange-the-founder-of-wikileaks-is-awarded-the-sydney-peace-medal.md)
@@ -57,15 +57,15 @@ IN the estimation of the Sydney Peace Foundation, Australian Wikileaks founder J
 
 ##### Colleen LaRose
 ### [Colleen LaRose, known as "Jihad Jane", pleads guilty to participating in a terrorist plot to kill a Swedish cartoonist whose work offended many Muslims. ](/news/2011/02/2/colleen-larose-known-as-jihad-jane-pleads-guilty-to-participating-in-a-terrorist-plot-to-kill-a-swedish-cartoonist-whose-work-offended-m.md)
-_Context: work offended many Muslims, Lars Vilks, Colleen LaRose_
+_Context: Colleen LaRose, Lars Vilks, work offended many Muslims_
 
 ##### India
 ### [The Indian Central Bureau of Investigation arrests former minister for communications A. Raja and other officials associated with the 2G spectrum scam. ](/news/2011/02/2/the-indian-central-bureau-of-investigation-arrests-former-minister-for-communications-a-raja-and-other-officials-associated-with-the-2g-spe.md)
-_Context: A. Raja, India, CBI, 2G spectrum scam_
+_Context: CBI, A. Raja, India, 2G spectrum scam_
 
 ##### Federal District Judge
 ### [United States federal judge Carl J. Barbier rules that Deepwater Horizon oil spill compensation fund administrator Ken Feinberg should advise people that he is working for BP. ](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.md)
-_Context: BP, Ken Feinberg, Federal District Judge, Carl J. Barbier, Deepwater Horizon oil spill_
+_Context: Deepwater Horizon oil spill, Ken Feinberg, Federal District Judge, BP, Carl J. Barbier_
 
 ##### Parliament
 ### [The parliament of Kazakhstan approves a bill giving the President the power to declare a snap presidential election. ](/news/2011/02/2/the-parliament-of-kazakhstan-approves-a-bill-giving-the-president-the-power-to-declare-a-snap-presidential-election.md)
@@ -81,15 +81,15 @@ _Context: Wen Jiabao, Jinzhai County, Jiangxi_
 
 ##### Prime Minister
 ### [Prime Minister of New Zealand, John Key, announces a general election for November 26, giving an unusually long notice for poll. ](/news/2011/02/2/prime-minister-of-new-zealand-john-key-announces-a-general-election-for-november-26-giving-an-unusually-long-notice-for-poll.md)
-_Context: John Key, general election, Prime Minister_
+_Context: Prime Minister, John Key, general election_
 
 ##### Russian President
 ### [The President of Russia, Dmitry Medvedev, expands the Kremlin's human rights council and authorises it to investigate the cases of Sergei Magnitsky and Mikhail Khodorkovsky. ](/news/2011/02/2/the-president-of-russia-dmitry-medvedev-expands-the-kremlin-s-human-rights-council-and-authorises-it-to-investigate-the-cases-of-sergei-ma.md)
-_Context: Russian President, Sergei Magnitsky, Kremlin, Dmitry Medvedev, human rights, Mikhail Khodorkovsky_
+_Context: Sergei Magnitsky, Kremlin, Mikhail Khodorkovsky, Russian President, human rights, Dmitry Medvedev_
 
 ##### BBC
 ### [BBC executive Craig Oliver is chosen to replace Andy Coulson as British Prime Minister David Cameron's Director of Communications. ](/news/2011/02/2/bbc-executive-craig-oliver-is-chosen-to-replace-andy-coulson-as-british-prime-minister-david-cameron-s-director-of-communications.md)
-_Context: BBC, David Cameron, Andy Coulson, Craig Oliver_
+_Context: BBC, David Cameron, Craig Oliver, Andy Coulson_
 
 ##### United States Senate
 ### [The United States Senate votes down a repeal of healthcare reforms 47-51. ](/news/2011/02/2/the-united-states-senate-votes-down-a-repeal-of-healthcare-reforms-47-51.md)

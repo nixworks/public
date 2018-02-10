@@ -5,7 +5,7 @@ Formats: [HTML](2015/03/17/index.html)  [JSON](2015/03/17/index.json)  [XML](201
 
 ##### Peshawar
 ### [In Peshawar, an unknown assailant shoots and kills Pakistani lawyer Samiullah Afridi, who had defended Dr. Shakil Afridi (in regards to assisting CIA agents hunt al Qaeda leader Osama bin Laden), with two Pakistan militant groups, Jundullah and Jamaatul Ahrar, both claiming responsibility. ](/news/2015/03/17/in-peshawar-an-unknown-assailant-shoots-and-kills-pakistani-lawyer-samiullah-afridi-who-had-defended-dr-shakil-afridi-in-regards-to-assi.md)
-_Context: Peshawar, Pakistan, Jundallah, al Qaeda, CIA, Dr. Shakil Afridi, Jamaatul Ahrar, Osama bin Laden_
+_Context: Jamaatul Ahrar, Dr. Shakil Afridi, Pakistan, Peshawar, CIA, Osama bin Laden, al Qaeda, Jundallah_
 
 ##### Syrian Air Defense Force
 ### [Syrian Air Defense Force downs an American MQ-1 Predator surveillance drone operating in ISIL-free province of Latakia. ](/news/2015/03/17/syrian-air-defense-force-downs-an-american-mq-1-predator-surveillance-drone-operating-in-isil-free-province-of-latakia.md)
@@ -17,7 +17,7 @@ A Dutch UN peacekeeping helicopter crashes near Gao in northern Mali, killing tw
 
 ##### Philippines
 ### [The Philippines submits to The Hague-based Permanent Court of Arbitration a 3,000-page document containing additional volumes of arguments, evidence, and maps seeking to nullify China's sweeping claim over the resource-rich South China Sea. ](/news/2015/03/17/the-philippines-submits-to-the-hague-based-permanent-court-of-arbitration-a-3-000-page-document-containing-additional-volumes-of-arguments.md)
-_Context: South China Sea, China, Philippines, Permanent Court of Arbitration's, sweeping claim_
+_Context: Permanent Court of Arbitration's, Philippines, China, sweeping claim, South China Sea_
 
 ##### Australia
 ### [In Australia, the New South Wales Police charge the Roman Catholic Archbishop of Adelaide, Philip Wilson, with allegedly covering up a child sexual abuse crime committed by another priest, James Fletcher, in the 1970s. ](/news/2015/03/17/in-australia-the-new-south-wales-police-charge-the-roman-catholic-archbishop-of-adelaide-philip-wilson-with-allegedly-covering-up-a-child.md)
@@ -29,7 +29,7 @@ _Context: cyanide, White House, U.S. Secret Service_
 
 ##### Stover, Missouri
 ### [Federal authorities arrest a Missouri man, Cameron James Stout, 24, of Stover, Missouri for threatening to shoot U.S. President Barack Obama. ](/news/2015/03/17/federal-authorities-arrest-a-missouri-man-cameron-james-stout-24-of-stover-missouri-for-threatening-to-shoot-u-s-president-barack-obama.md)
-_Context: Stover, Missouri, Barack Obama_
+_Context: Barack Obama, Stover, Missouri_
 
 ##### Drive-by shooting
 ### [A drive-by shooting in Stockton, California kills three people and injures four more. ](/news/2015/03/17/a-drive-by-shooting-in-stockton-california-kills-three-people-and-injures-four-more.md)

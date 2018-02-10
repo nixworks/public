@@ -9,11 +9,11 @@ A double car bombing in the east Libyan city of Benghazi on Tuesday left at leas
 
 ##### 90th Academy Awards
 ### [The nominations for the upcoming Academy Awards are announced. Among the films nominated as the best of 2017 in film, "The Shape of Water" leads with thirteen nominations, with "Dunkirk" following behind with eight nominations. ](/news/2018/01/23/the-nominations-for-the-upcoming-academy-awards-are-announced-among-the-films-nominated-as-the-best-of-2017-in-film-the-shape-of-water-l.md)
-_Context: Dunkirk, 90th Academy Awards, 2017 in film, Academy Awards, The Shape of Water_
+_Context: Academy Awards, 2017 in film, The Shape of Water, 90th Academy Awards, Dunkirk_
 
 ##### Russia
 ### [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md)
-_Context: The Death of Stalin, Russia, Ministry of Culture, political satire_
+_Context: Ministry of Culture, political satire, Russia, The Death of Stalin_
 
 ##### World Economic Forum
 ### [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md)
@@ -33,7 +33,7 @@ A mid-air collision between a small airplane and a helicopter in southern German
 
 ##### Haiti-United States relations
 ### [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md)
-_Context: Haiti, embassy, Port-au-Prince, U.S. President, Haiti-United States relations, policy, United States, Donald Trump, Protests against Donald Trump_
+_Context: U.S. President, Port-au-Prince, Haiti-United States relations, embassy, Haiti, Donald Trump, policy, Protests against Donald Trump, United States_
 
 ##### School shooting
 ### [A school shooting at Marshall County High School in Draffenville, Kentucky kills two people and injures 19. The suspect is arrested. ](/news/2018/01/23/a-school-shooting-at-marshall-county-high-school-in-draffenville-kentucky-kills-two-people-and-injures-19-the-suspect-is-arrested.md)
@@ -49,7 +49,7 @@ Should the presidential vote be perceived as fraudulent, further foreign sanctio
 
 ##### United States Senate
 ### [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md)
-_Context: Federal Reserve Bank, Jerome Powell, United States Senate_
+_Context: Jerome Powell, United States Senate, Federal Reserve Bank_
 
 ##### Politics of Guatemala
 ### [President Jimmy Morales is questioned about the high costs he spends to buy food and other luxury items. ](/news/2018/01/23/president-jimmy-morales-is-questioned-about-the-high-costs-he-spends-to-buy-food-and-other-luxury-items.md)

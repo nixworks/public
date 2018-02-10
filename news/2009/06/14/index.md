@@ -21,7 +21,7 @@ _Context: Pakistan, Dera Ismail Khan, bomb blast_
 
 ##### Jodhaa Akbar
 ### [ "Jodhaa Akbar" wins the prize for best film at the Tenth International Indian Film Academy Awards held in Macau, China. ](/news/2009/06/14/jodhaa-akbar-wins-the-prize-for-best-film-at-the-tenth-international-indian-film-academy-awards-held-in-macau-china.md)
-_Context: Tenth International Indian Film Academy Awards, Jodhaa Akbar, Chinese, Macau_
+_Context: Tenth International Indian Film Academy Awards, Jodhaa Akbar, Macau, Chinese_
 
 ##### German
 ### [ Seven Germans, one Briton and a South Korean are captured by Shia rebels in Sa'dah, Yemen. ](/news/2009/06/14/seven-germans-one-briton-and-a-south-korean-are-captured-by-shia-rebels-in-sa-dah-yemen.md)
@@ -33,11 +33,11 @@ Belarus on Sunday signaled a growing rift with Russia, saying President Alexande
 
 ##### United Nations
 ### [ United Nations barges carrying aid and their Sudanese People's Liberation Army escort are attacked by tribesmen on the Sobat River, Sudan. ](/news/2009/06/14/united-nations-barges-carrying-aid-and-their-sudanese-people-s-liberation-army-escort-are-attacked-by-tribesmen-on-the-sobat-river-sudan.md)
-_Context: Sudan, attacked by tribesmen, Sudan People's Liberation Army, Sobat River, United Nations_
+_Context: Sudan People's Liberation Army, Sudan, United Nations, attacked by tribesmen, Sobat River_
 
 ##### Israeli Prime Minister
 ### [ Prime Minister of Israel Binyamin Netanyahu states he can visualise a Palestinian state, under certain conditions. ](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.md)
-_Context: Binyamin Netanyahu, Palestinian state, Israeli Prime Minister_
+_Context: Binyamin Netanyahu, Israeli Prime Minister, Palestinian state_
 
 ## [Previous Day...](/news/2009/06/13/index.md)
 

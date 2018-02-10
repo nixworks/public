@@ -17,7 +17,7 @@ Authorities apprehend Mexican drug kingpin Javier Arellano-Felix, leader of a vi
 
 ##### Russia
 ### [ A Russian border patrol boat fires on a Japanese crab fishing boat near Kaigara Island, part of the Kuril Islands. One fisherman is killed and three others detained by the Russian authorities. ](/news/2006/08/16/a-russian-border-patrol-boat-fires-on-a-japanese-crab-fishing-boat-near-kaigara-island-part-of-the-kuril-islands-one-fisherman-is-killed.md)
-_Context: Kaigara Island, Japan, Kuril Islands, Russia_
+_Context: Kuril Islands, Japan, Kaigara Island, Russia_
 
 ##### International Astronomical Union
 ### [ The International Astronomical Union proposes a new definition for a planet to be voted on August 24 which would include Charon, Eris, and Ceres as planets. ](/news/2006/08/16/the-international-astronomical-union-proposes-a-new-definition-for-a-planet-to-be-voted-on-august-24-which-would-include-charon-eris-and.md)
@@ -37,7 +37,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Omo River
 ### [ The death toll from the flooding of the Omo River in southern Ethiopia nears 500. ](/news/2006/08/16/the-death-toll-from-the-flooding-of-the-omo-river-in-southern-ethiopia-nears-500.md)
-_Context: Omo River, Ethiopia_
+_Context: Ethiopia, Omo River_
 
 ## [Previous Day...](/news/2006/08/15/index.md)
 

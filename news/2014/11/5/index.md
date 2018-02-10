@@ -21,7 +21,7 @@ Victim is Border Police officer from Druze village; another casualty in critical
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organisation appoints Dr Matshidiso Moeti of Botswana as its new Africa chief as the death toll from the virus passes 5,000. ](/news/2014/11/5/the-world-health-organisation-appoints-dr-matshidiso-moeti-of-botswana-as-its-new-africa-chief-as-the-death-toll-from-the-virus-passes-5-000.md)
-_Context: Africa, Botswana, World Health Organisation, Ebola virus epidemic in West Africa_
+_Context: Ebola virus epidemic in West Africa, World Health Organisation, Africa, Botswana_
 
 ## [Previous Day...](/news/2014/11/4/index.md)
 

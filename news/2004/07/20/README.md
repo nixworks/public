@@ -9,15 +9,15 @@ An investigator for an animal rights group captured video of chickens being kick
 
 ##### Sandy Berger
 ### [ Sandy Berger resigns as a foreign affairs advisor to John Kerry's presidential campaign after it is reported that Berger was under investigation for allegedly illegally taking classified documents belonging to the U.S. National Archives, intended for review by the 9-11 Commission, related to the Clinton administration's handling of millennium terror threats. ](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.md)
-_Context: Bill Clinton, U.S. National Archives, John Kerry, 9/11 Commission, Sandy Berger, presidential candidate_
+_Context: John Kerry, Bill Clinton, 9/11 Commission, U.S. National Archives, Sandy Berger, presidential candidate_
 
 ##### Prime Minister of Canada
 ### [ Canadian Prime minister Paul Martin announces his new cabinet, which includes new faces such as ice hockey great Ken Dryden and former BC premier Ujjal Dosanjh. ](/news/2004/07/20/canadian-prime-minister-paul-martin-announces-his-new-cabinet-which-includes-new-faces-such-as-ice-hockey-great-ken-dryden-and-former-bc-p.md)
-_Context: British Columbia, cabinet, Paul Martin, Ujjal Dosanjh, Ken Dryden, Prime Minister of Canada, ice hockey_
+_Context: cabinet, Paul Martin, Prime Minister of Canada, British Columbia, Ken Dryden, ice hockey, Ujjal Dosanjh_
 
 ##### Gloria Arroyo
 ### [ Gloria Arroyo, President of the Philippines, confirms that hostage Angelo de la Cruz has been freed by his captors after their demands for a one-month-early withdrawal of all 51 Filipino troops from Iraq were met. ](/news/2004/07/20/gloria-arroyo-president-of-the-philippines-confirms-that-hostage-angelo-de-la-cruz-has-been-freed-by-his-captors-after-their-demands-for.md)
-_Context: Gloria Arroyo, Iraq, President, Philippines, Angelo de la Cruz_
+_Context: Philippines, Iraq, President, Gloria Arroyo, Angelo de la Cruz_
 
 ##### Ahmed Qurei
 ### [ Ahmed Qurei, Prime Minister of the Palestinian Authority, agrees to withdraw his resignation, three days after tendering it. Qurei is maintaining a threat to quit "because he has no powers". ](/news/2004/07/20/ahmed-qurei-prime-minister-of-the-palestinian-authority-agrees-to-withdraw-his-resignation-three-days-after-tendering-it-qurei-is-maint.md)
@@ -25,7 +25,7 @@ _Context: Ahmed Qurei, Palestinian Authority_
 
 ##### European Union
 ### [ The European Union approves a 50-50 merger between BMG and Sony. ](/news/2004/07/20/the-european-union-approves-a-50-50-merger-between-bmg-and-sony.md)
-_Context: Sony, BMG, European Union_
+_Context: BMG, Sony, European Union_
 
 ## [Previous Day...](/news/2004/07/19/index.md)
 

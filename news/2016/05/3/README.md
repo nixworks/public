@@ -17,7 +17,7 @@ Researchers say they believe they have located the wreckage of the Endeavour, th
 
 ##### Azerbaijan
 ### [Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO-Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." ](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayilova-is-announced-as-the-winner-of-the-unesco-guillermo-cano-world-press-freedom-prize-for-2.md)
-_Context: Khadija Ismayilova, UNESCO/Guillermo Cano World Press Freedom Prize, Azerbaijan_
+_Context: UNESCO/Guillermo Cano World Press Freedom Prize, Khadija Ismayilova, Azerbaijan_
 
 ##### Philippine presidential election, 2016
 ### [The Philippine financial market continues to suffer amid speculation that Rodrigo Duterte may win the upcoming election. ](/news/2016/05/3/the-philippine-financial-market-continues-to-suffer-amid-speculation-that-rodrigo-duterte-may-win-the-upcoming-election.md)
@@ -37,7 +37,7 @@ _Context: Rodrigo Duterte, Iglesia ni Cristo_
 
 ##### Russia-Spain relations
 ### [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md)
-_Context: Viktor Zubkov, Prime Minister of Russia, Russia, Russia-Spain relations, money laundering, assassinated, organized crime from Russia, Anatoliy Serdyukov, Vladimir Putin, Russian President, Defense Minister, Spain_
+_Context: Russian President, Vladimir Putin, Anatoliy Serdyukov, Defense Minister, assassinated, Viktor Zubkov, money laundering, Prime Minister of Russia, Russia-Spain relations, Russia, Spain, organized crime from Russia_
 
 ##### Papua conflict
 ### [According to reports, the Indonesian police arrest close to 1,700 people in Papua and West Papua who were involved in attempted protests yesterday. ](/news/2016/05/3/according-to-reports-the-indonesian-police-arrest-close-to-1-700-people-in-papua-and-west-papua-who-were-involved-in-attempted-protests-yes.md)

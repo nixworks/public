@@ -9,7 +9,7 @@ Boko Haram militants seize Chibok, the north-eastern Nigerian town from which th
 
 ##### Ebola virus epidemic in West Africa
 ### [The World Health Organization reports that the death toll in the three worst affected countries in West Africa - Guinea, Liberia and Sierra Leone - has passed 5,000. ](/news/2014/11/13/the-world-health-organization-reports-that-the-death-toll-in-the-three-worst-affected-countries-in-west-africa-guinea-liberia-and-sierra.md)
-_Context: Sierra Leone, Liberia, West Africa, Ebola virus epidemic in West Africa, World Health Organization, Guinea_
+_Context: Ebola virus epidemic in West Africa, World Health Organization, Guinea, Liberia, Sierra Leone, West Africa_
 
 ##### Malaysia Airlines Flight 17
 ### [The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.md)

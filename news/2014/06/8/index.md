@@ -13,11 +13,11 @@ Authorities in Iraq say a double bombing at a Kurdish party office has killed 13
 
 ##### 2014 Jinnah International Airport attack
 ### [Gunmen attack Karachi's Jinnah International Airport resulting in at least 13 deaths and leading to all flights to and from the airport being cancelled. ](/news/2014/06/8/gunmen-attack-karachi-s-jinnah-international-airport-resulting-in-at-least-13-deaths-and-leading-to-all-flights-to-and-from-the-airport-bein.md)
-_Context: Jinnah International Airport, 2014 Jinnah International Airport attack, Karachi_
+_Context: Jinnah International Airport, Karachi, 2014 Jinnah International Airport attack_
 
 ##### Suicide bombing
 ### [24 people killed when militants attacked a Bus carrying Shia pilgrims from Iran to Quetta in Balochistan province of Pakistan.](/news/2014/06/8/24-people-killed-when-militants-attacked-a-bus-carrying-shia-pilgrims-from-iran-to-quetta-in-balochistan-province-of-pakistan.md)
-_Context: Quetta, suicide bombing, Iran, Balochistan, Pakistan_
+_Context: suicide bombing, Iran, Pakistan, Balochistan, Quetta_
 
 ##### 68th Tony Awards
 ### [The 68th Tony Awards are held in Radio City Music Hall in New York City with "All the Way" winning the Tony Award for Best Play. ](/news/2014/06/8/the-68th-tony-awards-are-held-in-radio-city-music-hall-in-new-york-city-with-all-the-way-winning-the-tony-award-for-best-play.md)
@@ -37,7 +37,7 @@ Leading Irish archbishop warns of more mass graves at other convents around the 
 
 ##### Shot dead
 ### [Three people, including two police officers, are shot dead by a couple in a shooting in a pizzeria in the US city of Las Vegas, Nevada. The woman (Amanda Miller) kills her husband (Jerad Miller) and then herself. ](/news/2014/06/8/three-people-including-two-police-officers-are-shot-dead-by-a-couple-in-a-shooting-in-a-pizzeria-in-the-us-city-of-las-vegas-nevada-the.md)
-_Context: shot dead, Las Vegas, Nevada_
+_Context: Las Vegas, Nevada, shot dead_
 
 ##### Abdel-Fattah el-Sissi
 ### [Abdel-Fattah el-Sissi is sworn in as President of Egypt for a four year term. ](/news/2014/06/8/abdel-fattah-el-sissi-is-sworn-in-as-president-of-egypt-for-a-four-year-term.md)

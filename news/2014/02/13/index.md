@@ -9,7 +9,7 @@ Afghan authorities release 65 detainees from the Bagram detention centre, a move
 
 ##### Policemen
 ### [At least eight police officers are killed in a suicide bomb attack in Karachi. ](/news/2014/02/13/at-least-eight-police-officers-are-killed-in-a-suicide-bomb-attack-in-karachi.md)
-_Context: policemen, Karachi, suicide bomb_
+_Context: Karachi, suicide bomb, policemen_
 
 ##### United States
 ### [The United States says that it is ready to defend its allies in case of an armed conflict. ](/news/2014/02/13/the-united-states-says-that-it-is-ready-to-defend-its-allies-in-case-of-an-armed-conflict.md)
@@ -17,7 +17,7 @@ _Context: United States_
 
 ##### Typhoon Haiyan (Yolanda)
 ### [Typhoon Haiyan victims are visited by former footballer David Beckham who seeks to raise awareness about their plight. ](/news/2014/02/13/typhoon-haiyan-victims-are-visited-by-former-footballer-david-beckham-who-seeks-to-raise-awareness-about-their-plight.md)
-_Context: footballer, Typhoon Haiyan (Yolanda), David Beckham_
+_Context: David Beckham, Typhoon Haiyan (Yolanda), footballer_
 
 ##### Luxor
 ### [Archaeologists unearth a painted, human-shaped sarcophagus that's 3,600 years old -- with a mummy still inside in Luxor, Egypt. ](/news/2014/02/13/archaeologists-unearth-a-painted-human-shaped-sarcophagus-that-s-3-600-years-old-with-a-mummy-still-inside-in-luxor-egypt.md)
@@ -41,7 +41,7 @@ _Context: Met Office, Winter storms_
 
 ##### Mount Kelud
 ### [Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. ](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.md)
-_Context: Java, Indonesia, Mount Kelud_
+_Context: Indonesia, Java, Mount Kelud_
 
 ##### Moscow
 ### [During a two-day visit by an Egyptian delegation in Moscow, Russian Foreign Minister Sergey Lavrov said that Moscow and Cairo have agreed to speed up work on drafting agreements on military-technological cooperation. Russian Defense Minister Sergey Shoigu added that this could include joint military exercises and training of Egyptian officers in Russian military academies.](/news/2014/02/13/during-a-two-day-visit-by-an-egyptian-delegation-in-moscow-russian-foreign-minister-sergey-lavrov-said-that-moscow-and-cairo-have-agreed-to.md)
@@ -73,7 +73,7 @@ Centre-left mayor of Florence tells Democratic party meeting that Italy urgently
 
 ##### Virginia
 ### [A Virginia judge rules the state's prohibition of gay marriage unconstitutional. ](/news/2014/02/13/a-virginia-judge-rules-the-state-s-prohibition-of-gay-marriage-unconstitutional.md)
-_Context: Virginia, gay marriage_
+_Context: gay marriage, Virginia_
 
 ##### Yutu
 ### [China's Yutu rover, after being pronounced dead the day previously, leaves dormancy one day late after malfunctioning prior to the Lunar night. ](/news/2014/02/13/china-s-yutu-rover-after-being-pronounced-dead-the-day-previously-leaves-dormancy-one-day-late-after-malfunctioning-prior-to-the-lunar-nig.md)

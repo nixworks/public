@@ -9,7 +9,7 @@ The freed captives were six Yemeni citizens, a Saudi and an Ethiopian, who were 
 
 ##### Islamic State in Iraq and the Levant
 ### [Syrian Air Force raids on the city of Raqqa kill at least 36 people. ](/news/2014/11/25/syrian-air-force-raids-on-the-city-of-raqqa-kill-at-least-36-people.md)
-_Context: Syrian Air Force, Islamic State in Iraq and the Levant, Raqqa_
+_Context: Syrian Air Force, Raqqa, Islamic State in Iraq and the Levant_
 
 ##### Suicide bomber
 ### [Two teenage girl suicide bombers kill more than 40 people in Maiduguri, the capital of Borno state in northeastern Nigeria. ](/news/2014/11/25/two-teenage-girl-suicide-bombers-kill-more-than-40-people-in-maiduguri-the-capital-of-borno-state-in-northeastern-nigeria.md)
@@ -33,7 +33,7 @@ Health authorities in Amsterdam are warning of dangerous drugs being sold to tou
 
 ##### 2014 pro-democracy street protests
 ### [Hong Kong authorities start clearing away barricades in the district of Mong Kok. ](/news/2014/11/25/hong-kong-authorities-start-clearing-away-barricades-in-the-district-of-mong-kok.md)
-_Context: Hong Kong, Mong Kok, 2014 pro-democracy street protests_
+_Context: 2014 pro-democracy street protests, Mong Kok, Hong Kong_
 
 ## [Previous Day...](/news/2014/11/24/index.md)
 

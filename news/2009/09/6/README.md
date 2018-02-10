@@ -9,7 +9,7 @@ _Context: Tipperary, 2009 All-Ireland Senior Hurling Championship Final, Kilkenn
 
 ##### Ferry
 ### [ Hundreds of people are rescued and a further 88 are missing after a ferry sank off the coast of the southern Philippines. ](/news/2009/09/6/hundreds-of-people-are-rescued-and-a-further-88-are-missing-after-a-ferry-sank-off-the-coast-of-the-southern-philippines.md)
-_Context: Philippines, ferry_
+_Context: ferry, Philippines_
 
 ##### Gabon
 ### [ A third day of clashes take place in Gabon's second largest city, Port-Gentil, over the disputed presidential election. ](/news/2009/09/6/a-third-day-of-clashes-take-place-in-gabon-s-second-largest-city-port-gentil-over-the-disputed-presidential-election.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/2/index.html)  [JSON](2011/11/2/index.json)  [XML](2011/
 
 ##### Alexis Jenni
 ### [French author Alexis Jenni wins France's literary Prix Goncourt for his novel "L'Art franais de la guerre". ](/news/2011/11/2/french-author-alexis-jenni-wins-france-s-literary-prix-goncourt-for-his-novel-l-art-francais-de-la-guerre.md)
-_Context: Prix Goncourt, Alexis Jenni, L'Art franais de la guerre, France_
+_Context: France, Alexis Jenni, Prix Goncourt, L'Art franais de la guerre_
 
 ##### Freight train
 ### [Eight people are killed and dozens injured after a freight train collides with a bus at a level crossing in central Argentina. ](/news/2011/11/2/eight-people-are-killed-and-dozens-injured-after-a-freight-train-collides-with-a-bus-at-a-level-crossing-in-central-argentina.md)
@@ -13,7 +13,7 @@ Six girls aged between 10 and 12 are among eight people killed in a level crossi
 
 ##### Australian
 ### [Australian WikiLeaks founder Julian Assange loses his appeal in England's High Court against extradition to Sweden to face questioning over sexual assault allegations. ](/news/2011/11/2/australian-wikileaks-founder-julian-assange-loses-his-appeal-in-england-s-high-court-against-extradition-to-sweden-to-face-questioning-over.md)
-_Context: Julian Assange, WikiLeaks, Sweden, Australian, High Court_
+_Context: WikiLeaks, Julian Assange, High Court, Sweden, Australian_
 
 ##### U.S. state
 ### [Four men are arrested in the U.S. state of Georgia for plotting to kill government officials with explosives and the toxic substance ricin. ](/news/2011/11/2/four-men-are-arrested-in-the-u-s-state-of-georgia-for-plotting-to-kill-government-officials-with-explosives-and-the-toxic-substance-ricin.md)
@@ -21,11 +21,11 @@ Four Georgia men have been accused of plotting to buy explosives and manufacture
 
 ##### Russian
 ### [Russian arms dealer Viktor Bout is convicted in New York City for conspiracy to smuggle weapons to the Colombian terrorist group FARC. ](/news/2011/11/2/russian-arms-dealer-viktor-bout-is-convicted-in-new-york-city-for-conspiracy-to-smuggle-weapons-to-the-colombian-terrorist-group-farc.md)
-_Context: FARC, New York City, Viktor Bout, Colombia, Russian_
+_Context: Viktor Bout, New York City, Russian, Colombia, FARC_
 
 ##### American
 ### [American actress Lindsay Lohan is sentenced to 30 days in a Los Angeles jail for breaching the terms of her parole. ](/news/2011/11/2/american-actress-lindsay-lohan-is-sentenced-to-30-days-in-a-los-angeles-jail-for-breaching-the-terms-of-her-parole.md)
-_Context: Los Angeles, American, Lindsay Lohan_
+_Context: American, Lindsay Lohan, Los Angeles_
 
 ##### Gaza Strip
 ### [An international flotilla of ships makes its way to the Gaza Strip on a purported humanitarian mission, with participants including Irish MEP Paul Murphy and former Irish parliamentarian Chris Andrews. ](/news/2011/11/2/an-international-flotilla-of-ships-makes-its-way-to-the-gaza-strip-on-a-purported-humanitarian-mission-with-participants-including-irish-me.md)
@@ -33,15 +33,15 @@ An Irish and a Canadian aid ship are currently in international waters on their 
 
 ##### Russia
 ### [Russia and Georgia strike a deal that will allow Russia to enter the World Trade Organization. ](/news/2011/11/2/russia-and-georgia-strike-a-deal-that-will-allow-russia-to-enter-the-world-trade-organization.md)
-_Context: World Trade Organization,  Georgian, Russia_
+_Context:  Georgian, Russia, World Trade Organization_
 
 ##### Greece
 ### [The Greek Cabinet unanimously supports plans by Prime Minister George Papandreou to hold a referendum on the European Union's proposed economic rescue plan. ](/news/2011/11/2/the-greek-cabinet-unanimously-supports-plans-by-prime-minister-george-papandreou-to-hold-a-referendum-on-the-european-union-s-proposed-econo.md)
-_Context: referendum, George Papandreou, European Union, Greek Prime Minister, Greece_
+_Context: referendum, Greek Prime Minister, Greece, European Union, George Papandreou_
 
 ##### China
 ### [China's unmanned Shenzhou 8 spacecraft successfully docks with the orbiting Tiangong 1 space station module, marking China's first orbital docking. ](/news/2011/11/2/china-s-unmanned-shenzhou-8-spacecraft-successfully-docks-with-the-orbiting-tiangong-1-space-station-module-marking-china-s-first-orbital-d.md)
-_Context: Shenzhou 8, China, Tiangong 1, space station_
+_Context: Tiangong 1, Shenzhou 8, space station, China_
 
 ## [Previous Day...](/news/2011/11/1/index.md)
 

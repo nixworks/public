@@ -9,7 +9,7 @@ _Context: Mulhouse_
 
 ##### Asteroid
 ### [ Newly discovered observations from March 2004 rule out the possibility that asteroid 2004 MN 4 (later named 99942 Apophis in July 2005) will hit Earth in 2029. ](/news/2004/12/27/newly-discovered-observations-from-march-2004-rule-out-the-possibility-that-asteroid-2004-mn-4-later-named-99942-apophis-in-july-2005-wil.md)
-_Context: 99942 Apophis, asteroid_
+_Context: asteroid, 99942 Apophis_
 
 ##### U.S. dollar
 ### [ The U.S. dollar hits a new low against the euro: USD 1.3640 to EUR 1.00. ](/news/2004/12/27/the-u-s-dollar-hits-a-new-low-against-the-euro-usd-1-3640-to-eur-1-00.md)
@@ -17,11 +17,11 @@ _Context: euro, U.S. dollar_
 
 ##### Ukraine
 ### [ Ukrainian Transport Minister Heorhiy Kyrpa, a staunch supporter of Viktor Yanukovych, is found shot dead at his home just outside of Kiev. It is unclear whether he was murdered or committed suicide. ](/news/2004/12/27/ukrainian-transport-minister-heorhiy-kyrpa-a-staunch-supporter-of-viktor-yanukovych-is-found-shot-dead-at-his-home-just-outside-of-kiev.md)
-_Context: Heorhiy Kyrpa, Viktor Yanukovych, Kiev, Ukraine_
+_Context: Viktor Yanukovych, Ukraine, Heorhiy Kyrpa, Kiev_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: Israeli police arrest Palestinian presidential candidate Mustafa Barghouti. A Jerusalem police spokesman says Mr Barghouti was "detained for questioning because he has the right to transit through Jerusalem but not be in Jerusalem itself".](/news/2004/12/27/israeli-palestinian-conflict-israeli-police-arrest-palestinian-presidential-candidate-mustafa-barghouti-a-jerusalem-police-spokesman-says.md)
-_Context: Jerusalem, Palestinian, Mustafa Barghouti, Israeli-Palestinian Conflict, Israel_
+_Context: Israel, Israeli-Palestinian Conflict, Palestinian, Jerusalem, Mustafa Barghouti_
 
 ##### Tsunami
 ### [ The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 20,000 and possibly as high as 45,000. ](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-20-000-and-possibly-as-high-as-45-000.md)

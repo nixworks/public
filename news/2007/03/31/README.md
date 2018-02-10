@@ -9,23 +9,23 @@ Official website of The Church of Jesus Christ of Latter-day Saints (Mormons). F
 
 #####  Insurgency in Somalia
 ### [ Insurgency in Somalia: Violence continues in Mogadishu for a third day, in what the Red Cross calls "the worst fighting in more than 15 years." ](/news/2007/03/31/insurgency-in-somalia-violence-continues-in-mogadishu-for-a-third-day-in-what-the-red-cross-calls-the-worst-fighting-in-more-than-15-yea.md)
-_Context: International Committee of the Red Cross,  Insurgency in Somalia, Mogadishu, Violence continues_
+_Context: Mogadishu, Violence continues, International Committee of the Red Cross,  Insurgency in Somalia_
 
 ##### Telecom New Zealand
 ### [ Telecom New Zealand shuts down its 025 D-AMPS cellular network. ](/news/2007/03/31/telecom-new-zealand-shuts-down-its-025-d-amps-cellular-network.md)
-_Context: Telecom New Zealand, D-AMPS cellular network_
+_Context: D-AMPS cellular network, Telecom New Zealand_
 
 ##### Dust storm
 ### [ 2007 Chinese Sandstorms: After severe sandstorms caused communication and transportation problems in Hohhot and other regions of Inner Mongolia, the first severe sandstorm of the year hits Beijing and the surrounding regions of Liaoning, Xinjiang and Tianjin. ](/news/2007/03/31/2007-chinese-sandstorms-after-severe-sandstorms-caused-communication-and-transportation-problems-in-hohhot-and-other-regions-of-inner-mong.md)
-_Context: Beijing, Xinjiang, Liaoning, Inner Mongolia, dust storm, Hohhot, Tianjin_
+_Context: Hohhot, Tianjin, Inner Mongolia, dust storm, Xinjiang, Liaoning, Beijing_
 
 ##### United States
 ### [ The United States rules out exchanging five Iranian officials seized in Irbil, Iraq, in January 2007 for the 15 Royal Navy sailors seized by Iran. ](/news/2007/03/31/the-united-states-rules-out-exchanging-five-iranian-officials-seized-in-irbil-iraq-in-january-2007-for-the-15-royal-navy-sailors-seized-b.md)
-_Context: United States, Royal Navy, Iraq, Iranian, sailors, held captive by Iran, January, Irbil, Iran_
+_Context: Iran, held captive by Iran, sailors, Irbil, January, Iranian, United States, Iraq, Royal Navy_
 
 ##### St. Louis Cardinals
 ### [ The St. Louis Cardinals and Cleveland Indians play in Major League Baseball's inaugural "Civil Rights Game" at AutoZone Park in Memphis, Tennessee, instituted to honor the history of civil rights in the United States. ](/news/2007/03/31/the-st-louis-cardinals-and-cleveland-indians-play-in-major-league-baseball-s-inaugural-civil-rights-game-at-autozone-park-in-memphis-te.md)
-_Context: Cleveland Indians, Memphis, Tennessee, St. Louis Cardinals, Tennessee, Civil Rights Game, AutoZone Park, history of civil rights in the United States, Major League Baseball_
+_Context: Major League Baseball, Civil Rights Game, Tennessee, Cleveland Indians, Memphis, Tennessee, AutoZone Park, St. Louis Cardinals, history of civil rights in the United States_
 
 ## [Previous Day...](/news/2007/03/30/index.md)
 

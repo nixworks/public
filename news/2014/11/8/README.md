@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/8/index.html)  [JSON](2014/11/8/index.json)  [XML](2014/
 
 ##### Military intervention against ISIS
 ### [Abu Bakr al-Baghdadi is critically wounded during a US airstrike at al-Qaim. ](/news/2014/11/8/abu-bakr-al-baghdadi-is-critically-wounded-during-a-us-airstrike-at-al-qaim.md)
-_Context: Abu Bakr al-Baghdadi, Al-Qa'im, Military intervention against ISIS_
+_Context: Military intervention against ISIS, Al-Qa'im, Abu Bakr al-Baghdadi_
 
 ##### War in Somalia
 ### [Al-Shabaab recaptures Kudhaa Island, at least 23 are killed. ](/news/2014/11/8/al-shabaab-recaptures-kudhaa-island-at-least-23-are-killed.md)
@@ -17,7 +17,7 @@ _Context: Akira Amari, Trans-Pacific Partnership_
 
 ##### North Korea
 ### [North Korea releases American detainees Kenneth Bae and Matthew Todd Miller. ](/news/2014/11/8/north-korea-releases-american-detainees-kenneth-bae-and-matthew-todd-miller.md)
-_Context: North Korea, Kenneth Bae, Matthew Todd Miller_
+_Context: Kenneth Bae, North Korea, Matthew Todd Miller_
 
 ## [Previous Day...](/news/2014/11/7/index.md)
 

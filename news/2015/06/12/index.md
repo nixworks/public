@@ -5,15 +5,15 @@ Formats: [HTML](2015/06/12/index.html)  [JSON](2015/06/12/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [Boko Haram militants raid five different villages around Maiduguri, Nigeria killing 37 people. ](/news/2015/06/12/boko-haram-militants-raid-five-different-villages-around-maiduguri-nigeria-killing-37-people.md)
-_Context: Boko Haram, Maiduguri, Nigeria, Boko Haram insurgency_
+_Context: Boko Haram, Boko Haram insurgency, Maiduguri, Nigeria_
 
 ##### Saudi-led intervention in Yemen
 ### [The Saudi-led coalition bombs the World Heritage Listed old quarter of Sana'a destroying three houses and killing five people. ](/news/2015/06/12/the-saudi-led-coalition-bombs-the-world-heritage-listed-old-quarter-of-sana-a-destroying-three-houses-and-killing-five-people.md)
-_Context: Saudi-led intervention in Yemen, Sana'a, World Heritage List_
+_Context: Sana'a, World Heritage List, Saudi-led intervention in Yemen_
 
 ##### Libyan Civil War (2014-present)
 ### [An armed group storms the Tunisian embassy in Libya taking ten hostages. ](/news/2015/06/12/an-armed-group-storms-the-tunisian-embassy-in-libya-taking-ten-hostages.md)
-_Context: Tunisia, Libyan Civil War (2014-present), Libya_
+_Context: Libya, Libyan Civil War (2014-present), Tunisia_
 
 ##### Operation Protective Edge
 ### [The Israel Defense Forces Advocate General has announced criminal investigations into three more incidents from Operation Protective Edge. Of the 190 incidents reported to the IDF, investigations have been completed on 105, with seven leading to criminal investigations. ](/news/2015/06/12/the-israel-defense-forces-advocate-general-has-announced-criminal-investigations-into-three-more-incidents-from-operation-protective-edge-o.md)
@@ -25,11 +25,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Japan
 ### [Japan approves a thirty-to-forty year plan to clean up the site of the Fukushima Daiichi nuclear disaster. ](/news/2015/06/12/japan-approves-a-thirty-to-forty-year-plan-to-clean-up-the-site-of-the-fukushima-daiichi-nuclear-disaster.md)
-_Context: Fukushima Daiichi nuclear disaster, Japan_
+_Context: Japan, Fukushima Daiichi nuclear disaster_
 
 ##### Nepal
 ### [Heavy rain hampers the search for dozens of missing people from the landslides in Nepal's Taplejung district which have resulted in at least 24 deaths in six villages. ](/news/2015/06/12/heavy-rain-hampers-the-search-for-dozens-of-missing-people-from-the-landslides-in-nepal-s-taplejung-district-which-have-resulted-in-at-least.md)
-_Context: Taplejung district, Nepal_
+_Context: Nepal, Taplejung district_
 
 ##### 2012-15 North American drought
 ### [California orders the biggest cuts to water allocations in the state's history because of the worst drought in the state's history. ](/news/2015/06/12/california-orders-the-biggest-cuts-to-water-allocations-in-the-state-s-history-because-of-the-worst-drought-in-the-state-s-history.md)
@@ -41,7 +41,7 @@ _Context: 2012-15 North American drought, California_
 
 ##### South Pacific Ocean
 ### [The Pacific Ocean nation of Palau burns four Vietnamese fishing boats caught poaching sea cucumbers and other marine life in its waters. ](/news/2015/06/12/the-pacific-ocean-nation-of-palau-burns-four-vietnamese-fishing-boats-caught-poaching-sea-cucumbers-and-other-marine-life-in-its-waters.md)
-_Context: sea cucumber, Vietnam, Palau, South Pacific Ocean_
+_Context: sea cucumber, South Pacific Ocean, Vietnam, Palau_
 
 ##### Pakistan
 ### [Pakistan orders the Save the Children NGO to leave the country claiming it supports "anti-Pakistan" activity. ](/news/2015/06/12/pakistan-orders-the-save-the-children-ngo-to-leave-the-country-claiming-it-supports-anti-pakistan-activity.md)
@@ -49,7 +49,7 @@ Pakistan orders the charity Save the Children out of the country, sealing its of
 
 ##### German
 ### [Germany doubles its funding to states and cities for asylum seekers as 450,000 are expected to enter the country during 2015. ](/news/2015/06/12/germany-doubles-its-funding-to-states-and-cities-for-asylum-seekers-as-450-000-are-expected-to-enter-the-country-during-2015.md)
-_Context: asylum seekers, German_
+_Context: German, asylum seekers_
 
 ##### Russian
 ### [Two Russian citizens are arrested for entering a Latvian military base as the Baltic nation was participating in US-led military exercises. ](/news/2015/06/12/two-russian-citizens-are-arrested-for-entering-a-latvian-military-base-as-the-baltic-nation-was-participating-in-us-led-military-exercises.md)
@@ -57,7 +57,7 @@ _Context: Baltics, Latvia, Russian_
 
 ##### Associated Press
 ### [The Associated Press reports that hackers linked to the People's Republic of China appear to have gained access to sensitive background material about people seeking security clearances from the United States government. ](/news/2015/06/12/the-associated-press-reports-that-hackers-linked-to-the-people-s-republic-of-china-appear-to-have-gained-access-to-sensitive-background-mate.md)
-_Context: hacker, China, Associated Press, United States government_
+_Context: Associated Press, China, United States government, hacker_
 
 ##### International Monetary Fund
 ### [Former International Monetary Fund head Dominique Strauss-Kahn is acquitted of pimping charges in France. ](/news/2015/06/12/former-international-monetary-fund-head-dominique-strauss-kahn-is-acquitted-of-pimping-charges-in-france.md)
@@ -65,7 +65,7 @@ French court clears former International Monetary Fund chief of ‘aggravated pi
 
 ##### Sudanese police
 ### [Sudanese police use tear gas to break up Khartoum protests against government land policy. ](/news/2015/06/12/sudanese-police-use-tear-gas-to-break-up-khartoum-protests-against-government-land-policy.md)
-_Context: tear gas, Khartoum, Sudanese police_
+_Context: Khartoum, Sudanese police, tear gas_
 
 ##### Chiril Gaburici
 ### [Chiril Gaburici resigns as the Prime Minister of Moldova after questions arise over his education qualifications. ](/news/2015/06/12/chiril-gaburici-resigns-as-the-prime-minister-of-moldova-after-questions-arise-over-his-education-qualifications.md)

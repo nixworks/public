@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### United Nations
 ### [ United Nations warns that about 90 million Africans could be infected by HIV in the future without further action against the spread of the disease. See AIDS in Africa. ](/news/2005/03/4/united-nations-warns-that-about-90-million-africans-could-be-infected-by-hiv-in-the-future-without-further-action-against-the-spread-of-the.md)
-_Context: United Nations, HIV, Africa, AIDS in Africa_
+_Context: Africa, AIDS in Africa, HIV, United Nations_
 
 ##### India
 ### [ President of India, APJ Kalam meets Syed Sibte Razi, governor of the northern state Jharkhand after opposition protests. Despite the hung elections in the assembly, the governor has appointed Jharkhand Mukti Morcha party member Shibu Soren as a chief minister. JMM is part of a political alliance backed by the Congress Party ](/news/2005/03/4/president-of-india-apj-kalam-meets-syed-sibte-razi-governor-of-the-northern-state-jharkhand-after-opposition-protests-despite-the-hung-e.md)
@@ -25,7 +25,7 @@ _Context: rupee, Bombay Stock Exchange, Sensex, market capitalisation_
 
 ##### President's rule
 ### [ President's rule is imposed in Goa and the Goa assembly is placed under suspended animation. ](/news/2005/03/4/president-s-rule-is-imposed-in-goa-and-the-goa-assembly-is-placed-under-suspended-animation.md)
-_Context: Goa assembly, Goa, President's rule_
+_Context: Goa, Goa assembly, President's rule_
 
 ## [Previous Day...](/news/2005/03/3/index.md)
 

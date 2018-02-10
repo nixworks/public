@@ -17,31 +17,31 @@ _Context: Punjab, Pakistani police, Mianwali_
 
 ##### Israel
 ### [ The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. ](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.md)
-_Context: rocket, Israel, Israeli Air Force, Gaza Strip, fire, Palestinian, militant_
+_Context: rocket, Israeli Air Force, Israel, fire, militant, Gaza Strip, Palestinian_
 
 ##### Brazil
 ### [ Brazilian Federal Police confiscate 3.8&nbsp;tons of cocaine from a ship at a Paranagua port. ](/news/2009/02/7/brazilian-federal-police-confiscate-3-8-nbsp-tons-of-cocaine-from-a-ship-at-a-paranagua-port.md)
-_Context: Brazil, cocaine, Paranagua, Brazilian police_
+_Context: cocaine, Brazil, Brazilian police, Paranagua_
 
 ##### Major League Baseball
 ### [ Major League Baseball player Alex Rodriguez allegedly tested positive for two anabolic steroids in 2003. ](/news/2009/02/7/major-league-baseball-player-alex-rodriguez-allegedly-tested-positive-for-two-anabolic-steroids-in-2003.md)
-_Context: Major League Baseball, Alex Rodriguez, performance-enhancing drugs, 2003 season, anabolic steroid_
+_Context: 2003 season, Major League Baseball, anabolic steroid, performance-enhancing drugs, Alex Rodriguez_
 
 ##### Embraer
 ### [ An Embraer EMB-110P1 air taxi carrying 20 people crashes in Amazonas, Brazil. ](/news/2009/02/7/an-embraer-emb-110p1-air-taxi-carrying-20-people-crashes-in-amazonas-brazil.md)
-_Context: 110P1, Amazonas, air taxi, Embraer, Brazil_
+_Context: air taxi, 110P1, Amazonas, Embraer, Brazil_
 
 ##### Madagascar
 ### [ Madagascar police kill at least 23 protesters during anti-government demonstrations in Antananarivo. ](/news/2009/02/7/madagascar-police-kill-at-least-23-protesters-during-anti-government-demonstrations-in-antananarivo.md)
-_Context: demonstrations, anti-government, Antananarivo, Madagascar, police_
+_Context: demonstrations, Antananarivo, anti-government, police, Madagascar_
 
 ##### Jennifer Frigge
 ### [ Jennifer Frigge becomes the first woman to swim across the Atlantic Ocean. ](/news/2009/02/7/jennifer-frigge-becomes-the-first-woman-to-swim-across-the-atlantic-ocean.md)
-_Context: Jennifer Frigge, Atlantic Ocean_
+_Context: Atlantic Ocean, Jennifer Frigge_
 
 ##### French Polynesia
 ### [ French Polynesian President Gaston Tong Sang resigns. ](/news/2009/02/7/french-polynesian-president-gaston-tong-sang-resigns.md)
-_Context: President, French Polynesia, Gaston Tong Sang_
+_Context: Gaston Tong Sang, French Polynesia, President_
 
 ## [Previous Day...](/news/2009/02/6/index.md)
 

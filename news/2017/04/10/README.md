@@ -45,7 +45,7 @@ Jadhav, a former Indian naval officer, was sentenced for spying, sabotage in Kar
 
 ##### Neil Gorsuch Supreme Court nomination
 ### [President Donald Trump's pick for the U.S. Supreme Court, Neil Gorsuch, is sworn in at the White House. ](/news/2017/04/10/president-donald-trump-s-pick-for-the-u-s-supreme-court-neil-gorsuch-is-sworn-in-at-the-white-house.md)
-_Context: Neil Gorsuch Supreme Court nomination, Neil Gorsuch, U.S. Supreme Court, White House, Donald Trump_
+_Context: Neil Gorsuch Supreme Court nomination, Neil Gorsuch, White House, Donald Trump, U.S. Supreme Court_
 
 ##### Alabama Governor
 ### [Alabama Governor Robert Bentley resigns as the Alabama House Judiciary Committee began impeachment proceedings against him over a relationship with a former aide. In addition, Bentley pleads guilty to two "failure to disclose" misdemeanors. Kay Ivey is sworn in as Alabama Governor. Under terms of the plea bargain, Bentley is forbidden from ever running for elected office in Alabama again. ](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-alabama-house-judiciary-committee-began-impeachment-proceedings-against-him-over-a-relationsh.md)

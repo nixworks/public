@@ -5,47 +5,47 @@ Formats: [HTML](2007/11/18/index.html)  [JSON](2007/11/18/index.json)  [XML](200
 
 ##### Silvio Berlusconi
 ### [ Silvio Berlusconi, Italy's former Prime Minister, announces he will dissolve the Forza Italia party and found a new one called Freedom People's Party. ](/news/2007/11/18/silvio-berlusconi-italy-s-former-prime-minister-announces-he-will-dissolve-the-forza-italia-party-and-found-a-new-one-called-freedom-peop.md)
-_Context: Italian Prime Minister, Italy, Forza Italia, Silvio Berlusconi, Freedom People's Party_
+_Context: Italian Prime Minister, Freedom People's Party, Forza Italia, Italy, Silvio Berlusconi_
 
 ##### Japan
 ### [ Japan resumes whaling of humpbacks for the first time in 40 years. Greenpeace and other environmentalist groups condemn the decision. ](/news/2007/11/18/japan-resumes-whaling-of-humpbacks-for-the-first-time-in-40-years-greenpeace-and-other-environmentalist-groups-condemn-the-decision.md)
-_Context: Japan, whaling, Greenpeace India's, humpbacks, environmentalist_
+_Context: humpbacks, environmentalist, Japan, Greenpeace India's, whaling_
 
 ##### Cyclone Sidr
 ### [ Cyclone Sidr: Rescue efforts reach the most remote areas of Bangladesh, as the death toll rises to 2,400 people. ](/news/2007/11/18/cyclone-sidr-rescue-efforts-reach-the-most-remote-areas-of-bangladesh-as-the-death-toll-rises-to-2-400-people.md)
-_Context: Bangladesh, Cyclone Sidr, Rescue_
+_Context: Cyclone Sidr, Rescue, Bangladesh_
 
 ##### 2007 Burmese anti-government protests
 ### [ 2007 Burmese anti-government protests: ASEAN Secretary General Ong Keng Yong says Burma will not be suspended from the organization. ](/news/2007/11/18/2007-burmese-anti-government-protests-asean-secretary-general-ong-keng-yong-says-burma-will-not-be-suspended-from-the-organization.md)
-_Context: Ong Keng Yong, Secretary General, 2007 Burmese anti-government protests, ASEAN, Burma_
+_Context: Ong Keng Yong, ASEAN, 2007 Burmese anti-government protests, Secretary General, Burma_
 
 ##### Hong Kong
 ### [ Hong Kong voters go to the polls in District Council elections, with pro-Beijing parties expected to recover. ](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.md)
-_Context: elections, District Council, China, Hong Kong, parties_
+_Context: elections, China, Hong Kong, District Council, parties_
 
 ##### Venezuela
 ### [ Venezuelan President Hugo Chvez opens the 2007 OPEC meeting in Saudi Arabia, warning the United States against attacking Iran. ](/news/2007/11/18/venezuelan-president-hugo-chavez-opens-the-2007-opec-meeting-in-saudi-arabia-warning-the-united-states-against-attacking-iran.md)
-_Context: Hugo Chvez, President, Iran, OPEC, Saudi Arabia, Venezuela, United States_
+_Context: Saudi Arabia, President, United States, OPEC, Hugo Chvez, Iran, Venezuela_
 
 ##### 2007 Writers Guild of America strike
 ### [ 2007 Writers Guild of America strike: Screenwriters announce they will resume negotiations with movie studios on November 26. ](/news/2007/11/18/2007-writers-guild-of-america-strike-screenwriters-announce-they-will-resume-negotiations-with-movie-studios-on-november-26.md)
-_Context: negotiation, 2007 Writers Guild of America strike, movie studio, Screenwriter_
+_Context: Screenwriter, movie studio, negotiation, 2007 Writers Guild of America strike_
 
 ##### Cyclone Sidr
 ### [ Cyclone Sidr: Rescue efforts in Bangladesh continue, with helicopters and ships being used to reach isolated areas. ](/news/2007/11/18/cyclone-sidr-rescue-efforts-in-bangladesh-continue-with-helicopters-and-ships-being-used-to-reach-isolated-areas.md)
-_Context: Cyclone Sidr, Rescue, Bangladesh, ship, helicopter_
+_Context: Cyclone Sidr, ship, helicopter, Rescue, Bangladesh_
 
 ##### Fire
 ### [ 28 people die in a fire at a Saudi Aramco gas pipeline in Hawiya, Saudi Arabia. Twelve more people are missing. ](/news/2007/11/18/28-people-die-in-a-fire-at-a-saudi-aramco-gas-pipeline-in-hawiya-saudi-arabia-twelve-more-people-are-missing.md)
-_Context: gas pipeline, Saudi Arabia, Hawiya, fire, Saudi Aramco_
+_Context: gas pipeline, Hawiya, fire, Saudi Aramco, Saudi Arabia_
 
 ##### Public-sector strikes
 ### [ Strikes in France: Transport workers strike for the fifth consecutive day, rejecting an offer by public railway company SNCF. ](/news/2007/11/18/strikes-in-france-transport-workers-strike-for-the-fifth-consecutive-day-rejecting-an-offer-by-public-railway-company-sncf.md)
-_Context: strike, railway company, public-sector strikes, Transport, France's national railway company_
+_Context: railway company, France's national railway company, strike, public-sector strikes, Transport_
 
 ##### George Charamba
 ### [ George Charamba, the spokesman for Robert Mugabe, the President of Zimbabwe, says the Mugabe government is preparing for a British invasion. ](/news/2007/11/18/george-charamba-the-spokesman-for-robert-mugabe-the-president-of-zimbabwe-says-the-mugabe-government-is-preparing-for-a-british-invasion.md)
-_Context: George Charamba, Robert Mugabe, President of Zimbabwe_
+_Context: Robert Mugabe, George Charamba, President of Zimbabwe_
 
 ##### Hashim Thai
 ### [ Hashim Thai, a former rebel leader who has promised to declare Kosovo's independence if mediation efforts fail, declares victory for his party in the parliamentary election. ](/news/2007/11/18/hashim-thaci-a-former-rebel-leader-who-has-promised-to-declare-kosovo-s-independence-if-mediation-efforts-fail-declares-victory-for-his-p.md)

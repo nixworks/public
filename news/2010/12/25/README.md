@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/25/index.html)  [JSON](2010/12/25/index.json)  [XML](201
 
 ##### Sudanese government troops
 ### [The Sudanese army says it has killed at least 40 rebels and wounded many more in a new offensive in the Darfur region, when army forces attacked joint positions of the Justice and Equality Movement and the Sudan Liberation Movement. ](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.md)
-_Context: Sudanese government troops, conflict, Darfur, Justice and Equality Movement, Sudan Liberation Movement_
+_Context: Sudan Liberation Movement, Sudanese government troops, conflict, Justice and Equality Movement, Darfur_
 
 ##### Christmas
 ### [At least 6 people are wounded as a bomb detonates in a church during Christmas Mass in the southern Philippines island of Jolo. ](/news/2010/12/25/at-least-6-people-are-wounded-as-a-bomb-detonates-in-a-church-during-christmas-mass-in-the-southern-philippines-island-of-jolo.md)
@@ -13,7 +13,7 @@ Blasts in Philippines and Nigeria kill at least 38 as church leaders call for pe
 
 ##### Cote d'Ivoire
 ### [UN: Approximately 14,000 people have fled Cote d'Ivoire and headed to Liberia due to the recent presidential election dispute. ](/news/2010/12/25/un-approximately-14-000-people-have-fled-ca-te-d-ivoire-and-headed-to-liberia-due-to-the-recent-presidential-election-dispute.md)
-_Context: Liberia, Cote d'Ivoire_
+_Context: Cote d'Ivoire, Liberia_
 
 ##### Mohammed Deif
 ### [Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel "ceases to exist". ](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.md)
@@ -21,13 +21,13 @@ Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, he
 
 ##### Aurela Gace
 ### [Aurela Gace wins Albania's national selection for the Eurovision Song Contest 2011 with the entry "Kenga ime". ](/news/2010/12/25/aurela-gaasse-wins-albania-s-national-selection-for-the-eurovision-song-contest-2011-with-the-entry-ka-nga-ime.md)
-_Context: Albania's national selection, Eurovision Song Contest 2011, Kenga ime, Aurela Gace_
+_Context: Kenga ime, Albania's national selection, Aurela Gace, Eurovision Song Contest 2011_
 
 ##### 
 ### [Leading writers criticise the British government for what they describe as its "repugnant, foolish and pointlessly destructive" decision to axe all funding for a free children's book scheme. ](/news/2010/12/25/leading-writers-criticise-the-british-government-for-what-they-describe-as-its-repugnant-foolish-and-pointlessly-destructive-decision-to.md)
 ##### Vietnam
 ### [Vietnam's credit rating is downgraded by credit rating agencies amid rising inflation, and a shrinking currency and widening trade deficit crisis; state owned shipbuilder Vinashin defaults on a loan to a group of international lenders. ](/news/2010/12/25/vietnamas-credit-rating-is-downgraded-by-credit-rating-agencies-amid-rising-inflation-and-a-shrinking-currency-and-widening-trade-deficit.md)
-_Context: state owned, credit rating agencies, Vietnam, trade deficit, Vinashin, inflation_
+_Context: credit rating agencies, Vinashin, inflation, trade deficit, state owned, Vietnam_
 
 ##### Vanuatu
 ### [A magnitude 7.3 earthquake strikes Vanuatu. A tsunami warning is issued for the region and later cancelled after a minor tsunami was recorded. ](/news/2010/12/25/a-magnitude-7-3-earthquake-strikes-vanuatu-a-tsunami-warning-is-issued-for-the-region-and-later-cancelled-after-a-minor-tsunami-was-recorde.md)
@@ -35,7 +35,7 @@ _Context: warnings, Vanuatu_
 
 ##### El Carmen
 ### [An overcrowded bus plunges into ravine near El Carmen, Ecuador, killing 41. ](/news/2010/12/25/an-overcrowded-bus-plunges-into-ravine-near-el-carmen-ecuador-killing-41.md)
-_Context: Ecuador, El Carmen_
+_Context: El Carmen, Ecuador_
 
 ##### Filmmakers
 ### [International filmmakers condemn the sentencing of Iranian director Jafar Panahi and a colleague to six-year sentences in jail and their being barred from writing-directing and producing films for 20-year, for opposition to the government. ](/news/2010/12/25/international-filmmakers-condemn-the-sentencing-of-iranian-director-jafar-panahi-and-a-colleague-to-six-year-sentences-in-jail-and-their-bei.md)
@@ -59,15 +59,15 @@ Israel will apologize for using British passports in the assassination of a Hama
 
 ##### Darfur
 ### [The director of an aid group working in Darfur is sentenced to one year in prison and fined on embezzlement charges after having been acquitted on the same charges earlier, in what as seen as an effort by the Sudanese government to silence Darfur human rights defenders and activists. ](/news/2010/12/25/the-director-of-an-aid-group-working-in-darfur-is-sentenced-to-one-year-in-prison-and-fined-on-embezzlement-charges-after-having-been-acquit.md)
-_Context: Sudanese government, Darfur_
+_Context: Darfur, Sudanese government_
 
 ##### Dutch police
 ### [Dutch police arrest 12 Somalis on suspicion of plotting an imminent terrorist attack in the Netherlands. ](/news/2010/12/25/dutch-police-arrest-12-somalis-on-suspicion-of-plotting-an-imminent-terrorist-attack-in-the-netherlands.md)
-_Context: Somalis, Netherlands, Dutch police, terrorist_
+_Context: terrorist, Dutch police, Netherlands, Somalis_
 
 ##### Golf course
 ### [A dead female body is found near a golf course in North Somerset during a police search in Bristol for missing UK woman Joanna Yeates. ](/news/2010/12/25/a-dead-female-body-is-found-near-a-golf-course-in-north-somerset-during-a-police-search-in-bristol-for-missing-uk-woman-joanna-yeates.md)
-_Context: North Somerset, Joanna Yeates, golf course, Bristol_
+_Context: North Somerset, Joanna Yeates, Bristol, golf course_
 
 ##### Mir-Hossein Mousavi
 ### [A travel ban is announced against opposition candidates, Mir-Hossein Mousavi and Mehdi Karroubi, who featured in the disputed 2009 Iranian presidential election. ](/news/2010/12/25/a-travel-ban-is-announced-against-opposition-candidates-mir-hossein-mousavi-and-mehdi-karroubi-who-featured-in-the-disputed-2009-iranian-p.md)
@@ -79,7 +79,7 @@ The rocket geosynchronous satellite launch vehicle (GSLV) exploded mid-air momen
 
 ##### Atlanta
 ### [Atlanta in the U.S. state of Georgia gets its first white Christmas in 128 years affecting 500 flights. ](/news/2010/12/25/atlanta-in-the-u-s-state-of-georgia-gets-its-first-white-christmas-in-128-years-affecting-500-flights.md)
-_Context: Georgia, white Christmas, U.S. state, Atlanta_
+_Context: white Christmas, U.S. state, Georgia, Atlanta_
 
 ## [Previous Day...](/news/2010/12/24/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2016/10/7/index.html)  [JSON](2016/10/7/index.json)  [XML](2016/
 
 ##### Insurgency in Balochistan
 ### [Two bombs explode on a train near the town of Machh, Pakistan, killing at least six people with nineteen more injured. ](/news/2016/10/7/two-bombs-explode-on-a-train-near-the-town-of-machh-pakistan-killing-at-least-six-people-with-nineteen-more-injured.md)
-_Context: Pakistan, Insurgency in Balochistan, Machh_
+_Context: Pakistan, Machh, Insurgency in Balochistan_
 
 ##### Pound sterling
 ### [The pound sterling sustains a flash crash, dropping from an exchange rate of $1.23 per pound to $1.13 in a few minutes of trading today, then gaining much of it back. Observers blame this development on algorithmic trading. ](/news/2016/10/7/the-pound-sterling-sustains-a-flash-crash-dropping-from-an-exchange-rate-of-1-23-per-pound-to-1-13-in-a-few-minutes-of-trading-today-the.md)

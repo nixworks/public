@@ -29,11 +29,11 @@ Activists in South Korea float propaganda leaflets to the North, a week after Py
 
 ##### Damian Rzeszowski
 ### [Damian Rzeszowski is sentenced to 30 years in prison for killing six people&mdash;including his wife and children&mdash;in Jersey. ](/news/2012/10/29/damian-rzeszowski-is-sentenced-to-30-years-in-prison-for-killing-six-people-mdash-including-his-wife-and-children-mdash-in-jersey.md)
-_Context: Damian Rzeszowski, his wife and children, Jersey_
+_Context: Jersey, his wife and children, Damian Rzeszowski_
 
 ##### U.S. Supreme Court
 ### [The U.S. Supreme Court declines to take on the review of an abortion-related appeal. The case, which is a proposed measure to amend the Oklahoma state constitution that was unanimously struck down by the Oklahoma Supreme Court, dealt with the constitutionality of state "personhood" laws that endorse the viewpoint that human life begins at conception, and would give human embryos rights and privileges given to citizens, which could have made it more difficult to have abortions for non-emergency reasons. ](/news/2012/10/29/the-u-s-supreme-court-declines-to-take-on-the-review-of-an-abortion-related-appeal-the-case-which-is-a-proposed-measure-to-amend-the-okla.md)
-_Context: U.S. Supreme Court, Oklahoma Supreme Court_
+_Context: Oklahoma Supreme Court, U.S. Supreme Court_
 
 ##### Simi Valley
 ### [Registered child sex offenders in Simi Valley, California, will not have to post a sign outside their home this Halloween reading in part "no candy," but they still are prohibited from decorating their houses and handing out candy, U.S. District Judge Percy Anderson ruled Tuesday, in a partial victory for the suing offenders and their wives before Halloween. ](/news/2012/10/29/registered-child-sex-offenders-in-simi-valley-california-will-not-have-to-post-a-sign-outside-their-home-this-halloween-reading-in-part-n.md)
@@ -41,7 +41,7 @@ _Context: Simi Valley_
 
 ##### Fernando Haddad
 ### [Fernando Haddad is elected mayor of SGBPo Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sagbpo-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md)
-_Context: SGBPo Paulo, Brazil, Brazil Workers' Party, Fernando Haddad_
+_Context: Brazil, SGBPo Paulo, Brazil Workers' Party, Fernando Haddad_
 
 ##### Coptic Christian pope
 ### [A shortlist of successors to the Coptic Pope is drawn up; a blindfolded child is then expected to pick from a list of three. ](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.md)

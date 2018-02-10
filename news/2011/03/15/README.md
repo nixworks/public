@@ -9,11 +9,11 @@ Four men have been arrested for the murder of an Al Jazeera journalist, and rebe
 
 ##### 2010-2011 Ivorian crisis
 ### [2010-2011 Ivorian crisis: Gunmen shoot four people dead at a roadblock run by supporters of disputed Cote d'Ivoire President Laurent Gbagbo. ](/news/2011/03/15/2010a2011-ivorian-crisis-gunmen-shoot-four-people-dead-at-a-roadblock-run-by-supporters-of-disputed-ca-te-d-ivoire-president-laurent-gbag.md)
-_Context: Cote d'Ivoire, 2010-2011 Ivorian crisis, Laurent Gbagbo, President_
+_Context: President, 2010-2011 Ivorian crisis, Laurent Gbagbo, Cote d'Ivoire_
 
 ##### Islam
 ### [A small bomb explodes in the offices of a moderate Islamic group in the Indonesian capital Jakarta, injuring four people. ](/news/2011/03/15/a-small-bomb-explodes-in-the-offices-of-a-moderate-islamic-group-in-the-indonesian-capital-jakarta-injuring-four-people.md)
-_Context: Islam, Indonesia, Jakarta_
+_Context: Jakarta, Islam, Indonesia_
 
 ##### Israeli Navy
 ### [The Israeli Navy intercepts the cargo ship "Victoria" which was carrying a long list of advanced weapons that were smuggled from Iran and were allegedly bound for the militant organizations operating in the Gaza Strip. ](/news/2011/03/15/the-israeli-navy-intercepts-the-cargo-ship-victoria-which-was-carrying-a-long-list-of-advanced-weapons-that-were-smuggled-from-iran-and-we.md)
@@ -37,27 +37,27 @@ _Context: Aung San Suu Kyi, European Union, Burma_
 
 ##### Egypt
 ### [Egypt dissolves State Security Investigations Service, its former internal security and spying agency. ](/news/2011/03/15/egypt-dissolves-state-security-investigations-service-its-former-internal-security-and-spying-agency.md)
-_Context: security personnel, Egypt_
+_Context: Egypt, security personnel_
 
 ##### Metropolitan Police
 ### [The Metropolitan Police in London, England launch an investigation into the death of reggae musician Smiley Culture in a police raid in Surrey. ](/news/2011/03/15/the-metropolitan-police-in-london-england-launch-an-investigation-into-the-death-of-reggae-musician-smiley-culture-in-a-police-raid-in-surr.md)
-_Context: Surrey, London, Smiley Culture, England, reggae, Metropolitan Police_
+_Context: London, Smiley Culture, England, Surrey, reggae, Metropolitan Police_
 
 ##### Mafia
 ### [Former US mafia leader Joey Merlino of the Scarfo crime family is released from prison in Indiana and is sent to a halfway house in Florida. ](/news/2011/03/15/former-us-mafia-leader-joey-merlino-of-the-scarfo-crime-family-is-released-from-prison-in-indiana-and-is-sent-to-a-halfway-house-in-florida.md)
-_Context: mafia, the state, halfway house, Scarfo crime family, Joey Merlino, Indiana_
+_Context: the state, Joey Merlino, Scarfo crime family, halfway house, mafia, Indiana_
 
 ##### German
 ### [German national Christian Gerhartsreiter is charged with the murder of a San Marino, California man in the 1980s. ](/news/2011/03/15/german-national-christian-gerhartsreiter-is-charged-with-the-murder-of-a-san-marino-california-man-in-the-1980s.md)
-_Context: Christian Gerhartsreiter, California, San Marino, German_
+_Context: German, San Marino, Christian Gerhartsreiter, California_
 
 ##### United States
 ### [The United States Drug Enforcement Administration seizes the state of Georgia's supply of a lethal injection drug due to questions over how it was imported to the US. ](/news/2011/03/15/the-united-states-drug-enforcement-administration-seizes-the-state-of-georgia-s-supply-of-a-lethal-injection-drug-due-to-questions-over-how.md)
-_Context: United States, Drug Enforcement Administration, Georgia, lethal injection_
+_Context: Drug Enforcement Administration, Georgia, lethal injection, United States_
 
 ##### United States
 ### [United States nurse William Francis Melchert-Dinkel is convicted of aiding the suicides of an English man and Canadian woman. ](/news/2011/03/15/united-states-nurse-william-francis-melchert-dinkel-is-convicted-of-aiding-the-suicides-of-an-english-man-and-canadian-woman.md)
-_Context: suicide, Canadian, William Francis Melchert-Dinkel, English, United States_
+_Context: United States, English, suicide, William Francis Melchert-Dinkel, Canadian_
 
 ##### British Medical Association
 ### [At a British Medical Association conference, delegates call for the coalition government to halt its plans to overhaul the National Health Service in England. However, they stop short of complete opposition to the proposals. ](/news/2011/03/15/at-a-british-medical-association-conference-delegates-call-for-the-coalition-government-to-halt-its-plans-to-overhaul-the-national-health-s.md)
@@ -65,11 +65,11 @@ Doctors at an emergency union meeting have called on the government to put a hal
 
 ##### Angela Merkel
 ### [Angela Merkel, the Chancellor of Germany, announces that Germany will shut down all of its pre-1980 nuclear reactors following the problems in Japan. ](/news/2011/03/15/angela-merkel-the-chancellor-of-germany-announces-that-germany-will-shut-down-all-of-its-pre-1980-nuclear-reactors-following-the-problems.md)
-_Context: Chancellor, nuclear reactor, German, Angela Merkel, Japan_
+_Context: German, Angela Merkel, Chancellor, Japan, nuclear reactor_
 
 ##### Mayor of Miami-Dade County
 ### [The Mayor of Miami-Dade County in the U.S. state of Florida, Carlos Alvarez, and County commissioner Natacha Seijas are defeated in recall elections. ](/news/2011/03/15/the-mayor-of-miami-dade-county-in-the-u-s-state-of-florida-carlos-alvarez-and-county-commissioner-natacha-seijas-are-defeated-in-recall-e.md)
-_Context: Mayor of Miami-Dade County, County commission, Carlos Alvarez, the state, U.S. state, recall_
+_Context: Mayor of Miami-Dade County, Carlos Alvarez, U.S. state, County commission, the state, recall_
 
 ## [Previous Day...](/news/2011/03/14/index.md)
 

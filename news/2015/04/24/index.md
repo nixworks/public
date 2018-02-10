@@ -17,11 +17,11 @@ _Context: UNICEF, Yemeni Civil War (2015)_
 
 ##### ISIL
 ### [Iraqi Army Brigadier-General Hassan Abbas Toufan and three other officers are killed in a targeted car bombing in Anbar province. ](/news/2015/04/24/iraqi-army-brigadier-general-hassan-abbas-toufan-and-three-other-officers-are-killed-in-a-targeted-car-bombing-in-anbar-province.md)
-_Context: Iraqi Army, ISIL, Anbar province_
+_Context: ISIL, Anbar province, Iraqi Army_
 
 ##### Boko Haram insurgency
 ### [Boko Haram recapture the border town of Marte from the Nigerian Army. ](/news/2015/04/24/boko-haram-recapture-the-border-town-of-marte-from-the-nigerian-army.md)
-_Context: Boko Haram, Boko Haram insurgency, Marte, Nigerian Army_
+_Context: Boko Haram insurgency, Boko Haram, Marte, Nigerian Army_
 
 ##### Balochistan conflict
 ### [Pakistani human rights campaigner Sabeen Mahmud is killed by gunmen after attending a seminar on Balochistan's "disappeared people" in Karachi. ](/news/2015/04/24/pakistani-human-rights-campaigner-sabeen-mahmud-is-killed-by-gunmen-after-attending-a-seminar-on-balochistanas-disappeared-people-in-kar.md)
@@ -45,7 +45,7 @@ A strong earthquake centered just off Kaikoura has caused problems with the Spar
 
 ##### Chile
 ### [Chilean authorities urge further evacuations near the Calbuco volcano after mudflows of volcanic debris are located in a nearby river after this week's eruption. ](/news/2015/04/24/chilean-authorities-urge-further-evacuations-near-the-calbuco-volcano-after-mudflows-of-volcanic-debris-are-located-in-a-nearby-river-after.md)
-_Context: Calbuco, Chile_
+_Context: Chile, Calbuco_
 
 ##### Statue of Liberty
 ### [The Statue of Liberty in New York is evacuated after a bomb threat. ](/news/2015/04/24/the-statue-of-liberty-in-new-york-is-evacuated-after-a-bomb-threat.md)
@@ -53,7 +53,7 @@ Statue of Liberty evacuated, US police respond to report of suspicious package
 
 ##### University of Utah
 ### [A study by the University of Utah show that the magma reserves of the Yellowstone supervolcano are much greater than previously thought. ](/news/2015/04/24/a-study-by-the-university-of-utah-show-that-the-magma-reserves-of-the-yellowstone-supervolcano-are-much-greater-than-previously-thought.md)
-_Context: Yellowstone supervolcano, University of Utah, magma_
+_Context: magma, University of Utah, Yellowstone supervolcano_
 
 ## [Previous Day...](/news/2015/04/23/index.md)
 

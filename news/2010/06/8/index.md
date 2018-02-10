@@ -21,7 +21,7 @@ _Context: European Union, Roma_
 
 ##### Afghanistan
 ### [21 nations, including the Presidents of Afghanistan, Russia and Syria, attending the Conference on Interaction and Confidence-Building Measures in Asia summit in Istanbul condemn Israel's deadly raid on the Gaza-bound aid flotilla, while Israel, the 22nd participant with a lower-level diplomat, disagrees. ](/news/2010/06/8/21-nations-including-the-presidents-of-afghanistan-russia-and-syria-attending-the-conference-on-interaction-and-confidence-building-measu.md)
-_Context: Syria, Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia, Gaza Strip, Istanbul, Israel, Russia, Gaza flotilla raid_
+_Context: Syria, Gaza Strip, Istanbul, Gaza flotilla raid, Russia, Israel, Afghanistan, Conference on Interaction and Confidence-Building Measures in Asia_
 
 ##### United States
 ### [The United States threatens Iran with its toughest nuclear sanctions yet, despite the nuclear fuel-swap arrangement Iran made with Brazil and Turkey in May. ](/news/2010/06/8/the-united-states-threatens-iran-with-its-toughest-nuclear-sanctions-yet-despite-the-nuclear-fuel-swap-arrangement-iran-made-with-brazil-an.md)
@@ -33,7 +33,7 @@ UNHCR says it was told to cease operations without explanation.
 
 ##### International Federation of Red Cross and Red Crescent Societies
 ### [The Red Crescent Society, for the first time since December 2008 and in a joint venture between Iran and Turkey, prepares to send two aid boats of donations and relief workers to Gaza. ](/news/2010/06/8/the-red-crescent-society-for-the-first-time-since-december-2008-and-in-a-joint-venture-between-iran-and-turkey-prepares-to-send-two-aid-bo.md)
-_Context: Gaza Strip, International Federation of Red Cross and Red Crescent Societies, Turkey, Iran_
+_Context: International Federation of Red Cross and Red Crescent Societies, Turkey, Gaza Strip, Iran_
 
 ##### North Korea
 ### [China lodges a formal protest to North Korea after a North Korean soldier fatally shot three Chinese citizens at their mutual border. ](/news/2010/06/8/china-lodges-a-formal-protest-to-north-korea-after-a-north-korean-soldier-fatally-shot-three-chinese-citizens-at-their-mutual-border.md)
@@ -41,7 +41,7 @@ China says it has filed a formal complaint with North Korea about the killing of
 
 ##### Uganda
 ### [Uganda undoes remarks suggesting President of Sudan Omar al-Bashir would not be welcome at July's African Union conference in Kampala. ](/news/2010/06/8/uganda-undoes-remarks-suggesting-president-of-sudan-omar-al-bashir-would-not-be-welcome-at-july-s-african-union-conference-in-kampala.md)
-_Context: Omar al-Bashir, Kampala, Uganda, African Union, Sudanese President_
+_Context: Omar al-Bashir, Kampala, Sudanese President, Uganda, African Union_
 
 ##### Television host
 ### [Television host Elena Skordelli goes on trial for the murder of Cypriot media mogul Andis Hadjicostis. ](/news/2010/06/8/television-host-elena-skordelli-goes-on-trial-for-the-murder-of-cypriot-media-mogul-andis-hadjicostis.md)
@@ -53,7 +53,7 @@ Jerome Kerviel appears in court accused of unauthorised deals that cost bank $5.
 
 ##### Governor of Illinois
 ### [The trial of former Governor of Illinois Rod Blagojevich on corruption charges begins today in the United States. ](/news/2010/06/8/the-trial-of-former-governor-of-illinois-rod-blagojevich-on-corruption-charges-begins-today-in-the-united-states.md)
-_Context: United States, Governor of Illinois, corruption, Rod Blagojevich_
+_Context: Rod Blagojevich, corruption, Governor of Illinois, United States_
 
 ##### UK Border Agency
 ### [Refugee agencies criticise the UK Border Agency's decision to deport Afghan children. ](/news/2010/06/8/refugee-agencies-criticise-the-uk-border-agency-s-decision-to-deport-afghan-children.md)
@@ -77,7 +77,7 @@ _Context: Philippine presidential election, President, Philippines, Joseph Estra
 
 ##### Japan
 ### [Japanese Prime Minister Naoto Kan is due to name his cabinet and be formally sworn in by Emperor Akihito. ](/news/2010/06/8/japanese-prime-minister-naoto-kan-is-due-to-name-his-cabinet-and-be-formally-sworn-in-by-emperor-akihito.md)
-_Context: Japan, Naoto Kan, Emperor Akihito, Prime Minister of Japan_
+_Context: Naoto Kan, Prime Minister of Japan, Japan, Emperor Akihito_
 
 ##### Spain
 ### [Public sector workers in Spain hold a major strike in protest against a 5% pay cut due to come into effect this month as part of a government austerity package. ](/news/2010/06/8/public-sector-workers-in-spain-hold-a-major-strike-in-protest-against-a-5-pay-cut-due-to-come-into-effect-this-month-as-part-of-a-governmen.md)
@@ -89,11 +89,11 @@ _Context: China, blocks mentions_
 
 ##### Egypt
 ### [Egypt permits legislators from the Muslim Brotherhood and other groups to enter the blockaded Gaza Strip. ](/news/2010/06/8/egypt-permits-legislators-from-the-muslim-brotherhood-and-other-groups-to-enter-the-blockaded-gaza-strip.md)
-_Context: Egypt, Gaza Strip, Muslim Brotherhood_
+_Context: Muslim Brotherhood, Gaza Strip, Egypt_
 
 ##### 11th Panchen Lama
 ### [The 11th Panchen Lama, the 20-year-old living Buddha on Monday visited south Tibet's Shannan Prefecture, held large prayer services and gave head-touch blessings to more than 5,000 local devotees. ](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.md)
-_Context: Tibet, Buddha, 11th Panchen Lama, Shannan Prefecture_
+_Context: 11th Panchen Lama, Tibet, Buddha, Shannan Prefecture_
 
 ##### Mars
 ### [Scientists find evidence that large seas once existed on Mars. ](/news/2010/06/8/scientists-find-evidence-that-large-seas-once-existed-on-mars.md)

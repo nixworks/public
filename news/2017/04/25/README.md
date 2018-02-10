@@ -13,7 +13,7 @@ Jimmy Wales said the new platform, Wikitribune, would be free to read and carry 
 
 ##### Ryan Zinke
 ### [United States Secretary of the Interior Ryan Zinke says that Donald Trump plans to review U.S. national monuments. ](/news/2017/04/25/united-states-secretary-of-the-interior-ryan-zinke-says-that-donald-trump-plans-to-review-u-s-national-monuments.md)
-_Context: Ryan Zinke, Donald Trump, U.S. national monument_
+_Context: Ryan Zinke, U.S. national monument, Donald Trump_
 
 ##### Makueni County
 ### [Twenty-seven people are killed in Kenya's Makueni County when a bus and a truck collide on the Nairobi-Mombasa Road. ](/news/2017/04/25/twenty-seven-people-are-killed-in-kenya-s-makueni-county-when-a-bus-and-a-truck-collide-on-the-nairobiamombasa-road.md)
@@ -29,7 +29,7 @@ It comes amid heightened tensions, and fears North Korea is planning more nuclea
 
 ##### Germany-Israel relations
 ### [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md)
-_Context: Germany-Israel relations, Israeli Prime Minister, veteran, Breaking the Silence, Benjamin Netanyahu, NGO, Sigmar Gabriel, Israel Defense Forces, Foreign Minister_
+_Context: Breaking the Silence, Foreign Minister, Sigmar Gabriel, Israel Defense Forces, Germany-Israel relations, Israeli Prime Minister, veteran, NGO, Benjamin Netanyahu_
 
 ##### India
 ### [India is to provide every cow with a biometric dog tag, in an effort to prevent cattle smuggling. ](/news/2017/04/25/india-is-to-provide-every-cow-with-a-biometric-dog-tag-in-an-effort-to-prevent-cattle-smuggling.md)
@@ -45,7 +45,7 @@ The national gun lobbying group on Monday filed a lawsuit aimed at overturning a
 
 ##### Immigration policy of Donald Trump
 ### [U.S. District Court Judge William Orrick rules that President Donald Trump's executive order withholding federal funds from sanctuary cities is unconstitutional. ](/news/2017/04/25/u-s-district-court-judge-william-orrick-rules-that-president-donald-trump-s-executive-order-withholding-federal-funds-from-sanctuary-cities.md)
-_Context: sanctuary cities, Donald Trump, Immigration policy of Donald Trump, William Orrick, executive order_
+_Context: sanctuary cities, Immigration policy of Donald Trump, Donald Trump, William Orrick, executive order_
 
 ## [Previous Day...](/news/2017/04/24/index.md)
 

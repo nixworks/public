@@ -25,7 +25,7 @@ _Context: Schering, Merck KGaA, pharmaceutical companies_
 
 ##### Metropolitan Police Service
 ### [ London Metropolitan Police chief Sir Ian Blair admits secretly recording conversations with the Attorney General Lord Goldsmith, an act that could lead to a civil legal proceedings if the other party has not granted permission for conversations to be taped. ](/news/2006/03/13/london-metropolitan-police-chief-sir-ian-blair-admits-secretly-recording-conversations-with-the-attorney-general-lord-goldsmith-an-act-tha.md)
-_Context: Metropolitan Police Service, Lord Goldsmith, Attorney General for England and Wales, Sir Ian Blair_
+_Context: Metropolitan Police Service, Sir Ian Blair, Attorney General for England and Wales, Lord Goldsmith_
 
 ## [Previous Day...](/news/2006/03/12/index.md)
 

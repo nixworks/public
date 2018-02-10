@@ -29,7 +29,7 @@ _Context: Belgium, Frank Van Den Bleeken, euthanise, Bruges_
 
 ##### Greek parliamentary election, 2015
 ### [Former Prime Minister George Papandreou announces the formation of a new party, Movement of Democratic Socialists, threatening to push the long-dominant PASOK under the election threshold. ](/news/2015/01/3/former-prime-minister-george-papandreou-announces-the-formation-of-a-new-party-movement-of-democratic-socialists-threatening-to-push-the-l.md)
-_Context: Greek parliamentary election, 2015, George Papandreou, PASOK, Movement of Democratic Socialists_
+_Context: Greek parliamentary election, 2015, George Papandreou, Movement of Democratic Socialists, PASOK_
 
 ## [Previous Day...](/news/2015/01/2/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2006/11/8/index.html)  [JSON](2006/11/8/index.json)  [XML](2006/
 
 ##### Supreme Council
 ### [ Legislators in the Jogorku Kenesh approve a new constitution amid fears of another revolution in Kyrgyzstan. ](/news/2006/11/8/legislators-in-the-jogorku-kenesh-approve-a-new-constitution-amid-fears-of-another-revolution-in-kyrgyzstan.md)
-_Context: war in Turkmenistan, Kyrgyzstan, constitution, Supreme Council_
+_Context: constitution, war in Turkmenistan, Supreme Council, Kyrgyzstan_
 
 ##### China
 ### [ China has a record high surplus in its balance of trade of $23.8 billion as exports rise and imports fall. ](/news/2006/11/8/china-has-a-record-high-surplus-in-its-balance-of-trade-of-23-8-billion-as-exports-rise-and-imports-fall.md)
@@ -17,7 +17,7 @@ Democrat Amy Klobuchar sailed to an easy victory in the U.S. Senate race Tuesday
 
 ##### Margaret Chan
 ### [ Dr. Margaret Chan, former director of Hong Kong Health Department, represented China to win the nomination to the Director-General of the World Health Organization. ](/news/2006/11/8/dr-margaret-chan-former-director-of-hong-kong-health-department-represented-china-to-win-the-nomination-to-the-director-general-of-the-w.md)
-_Context: World Health Organization, China, Health Department, Hong Kong, Margaret Chan_
+_Context: Health Department, China, World Health Organization, Margaret Chan, Hong Kong_
 
 ##### Pakistan
 ### [ At least 42 people die and 20 people are injured in a bomb blast outside an army training centre in north-west Pakistan. ](/news/2006/11/8/at-least-42-people-die-and-20-people-are-injured-in-a-bomb-blast-outside-an-army-training-centre-in-north-west-pakistan.md)
@@ -25,15 +25,15 @@ _Context: Pakistan_
 
 ##### Palestinian
 ### [ Nineteen Palestinian civilians are killed in the Gaza Strip from Israeli tank fire according to medical officers. ](/news/2006/11/8/nineteen-palestinian-civilians-are-killed-in-the-gaza-strip-from-israeli-tank-fire-according-to-medical-officers.md)
-_Context: Israel, Gaza Strip, Palestinian_
+_Context: Palestinian, Gaza Strip, Israel_
 
 ##### Ministers
 ### [ Five senior ministers in the Cabinet of the British Government are questioned by police as part of an investigation into alleged "cash for honours". ](/news/2006/11/8/five-senior-ministers-in-the-cabinet-of-the-british-government-are-questioned-by-police-as-part-of-an-investigation-into-alleged-cash-for.md)
-_Context: Cash for Peerages, U.K. Cabinet, Ministers, British Government_
+_Context: British Government, U.K. Cabinet, Cash for Peerages, Ministers_
 
 ##### Windows Vista
 ### [ Windows Vista, Microsoft's newest operating system is RTM (released to manufacturers). ](/news/2006/11/8/windows-vista-microsoft-s-newest-operating-system-is-rtm-released-to-manufacturers.md)
-_Context: Windows Vista, RTM, operating system_
+_Context: RTM, operating system, Windows Vista_
 
 ## [Previous Day...](/news/2006/11/7/index.md)
 

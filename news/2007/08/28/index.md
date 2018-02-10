@@ -9,7 +9,7 @@ _Context: North America, South Pacific Ocean, lunar eclipse_
 
 ##### Supreme Court
 ### [ The Supreme Court of Chile confirms a life sentence for Hugo Salas Wenzel, a Chilean general under former dictator Augusto Pinochet, for his role in the murder of 12 opponents of the regime. ](/news/2007/08/28/the-supreme-court-of-chile-confirms-a-life-sentence-for-hugo-salas-wenzel-a-chilean-general-under-former-dictator-augusto-pinochet-for-hi.md)
-_Context: Hugo Salas Wenzel, Chile, Supreme Court, Augusto Pinochet_
+_Context: Chile, Augusto Pinochet, Supreme Court, Hugo Salas Wenzel_
 
 ##### Sudan
 ### [ The Sudanese Government and the United Nations launch a flood appeal to help victims of recent flooding which has killed 89 people and destroyed 73,000 homes. ](/news/2007/08/28/the-sudanese-government-and-the-united-nations-launch-a-flood-appeal-to-help-victims-of-recent-flooding-which-has-killed-89-people-and-dest.md)
@@ -29,7 +29,7 @@ Biology, astronomy, chemistry, physics on FoxNews.com. In-depth natural science 
 
 ##### Federal District Judge
 ### [ A United States federal judge orders the extradition of former Panamanian President Manuel Noriega to France, where he has already been convicted "in absentia" on money-laundering charges. ](/news/2007/08/28/a-united-states-federal-judge-orders-the-extradition-of-former-panamanian-president-manuel-noriega-to-france-where-he-has-already-been-con.md)
-_Context: extradition, in absentia, Federal District Judge, money-laundering, Panamanian President, Manuel Noriega, France_
+_Context: extradition, in absentia, Panamanian President, Manuel Noriega, Federal District Judge, France, money-laundering_
 
 ##### Abdullah Gl
 ### [ Abdullah Gl of the Justice and Development Party is elected President of Turkey. ](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.md)
@@ -41,7 +41,7 @@ Black box data recorders from an Adam Air jet have been found, eight months afte
 
 ##### Ontario Court of Appeal
 ### [ The Ontario Court of Appeal acquits Steven Truscott of the 1959 murder of Lynne Harper, declaring the original trial that had sentenced the then-14-year-old to hang was a miscarriage of justice. The case has been a cause clbre for almost fifty years. ](/news/2007/08/28/the-ontario-court-of-appeal-acquits-steven-truscott-of-the-1959-murder-of-lynne-harper-declaring-the-original-trial-that-had-sentenced-the.md)
-_Context: cause clbre, Steven Truscott, Ontario Court of Appeal, miscarriage of justice, 1959, hanging_
+_Context: Ontario Court of Appeal, cause clbre, hanging, 1959, Steven Truscott, miscarriage of justice_
 
 ## [Previous Day...](/news/2007/08/27/index.md)
 

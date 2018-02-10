@@ -17,11 +17,11 @@ Peru gives a grandiose welcome to hundreds of Inca artefacts returned by Yale Un
 
 ##### Man Booker International Prize
 ### [The finalists for the Man Booker International Prize are announced, including Wang Anyi, Juan Goytisolo, James Kelman, John le Carre, Amin Maalouf, David Malouf, Dacia Maraini, Rohinton Mistry, Philip Pullman, Marilynne Robinson, Philip Roth, Su Tong and Anne Tyler. ](/news/2011/03/30/the-finalists-for-the-man-booker-international-prize-are-announced-including-wang-anyi-juan-goytisolo-james-kelman-john-le-carra-c-amin.md)
-_Context: Philip Roth, Wang Anyi, David Malouf, Dacia Maraini, Su Tong, Man Booker International Prize, James Kelman, Philip Pullman, Rohinton Mistry, John le Carre, Juan Goytisolo, Marilynne Robinson, Amin Maalouf, Anne Tyler_
+_Context: Su Tong, James Kelman, Amin Maalouf, Anne Tyler, Man Booker International Prize, John le Carre, Marilynne Robinson, Juan Goytisolo, Philip Roth, David Malouf, Philip Pullman, Wang Anyi, Rohinton Mistry, Dacia Maraini_
 
 ##### Orca
 ### [The orca Tilikum resumes performing shows at Seaworld Orlando 13 months after being involved in the death of trainer Dawn Blancheau. ](/news/2011/03/30/the-orca-tilikum-resumes-performing-shows-at-seaworld-orlando-13-months-after-being-involved-in-the-death-of-trainer-dawn-blancheau.md)
-_Context: orca, Seaworld Orlando, Tilikum_
+_Context: Tilikum, Seaworld Orlando, orca_
 
 ##### Governor of California
 ### [The former Governor of California Arnold Schwarzenegger returns to acting in an animated television series. ](/news/2011/03/30/the-former-governor-of-california-arnold-schwarzenegger-returns-to-acting-in-an-animated-television-series.md)
@@ -37,7 +37,7 @@ The Australian dollar has risen to a 29-year high against the US dollar as deman
 
 ##### Google
 ### [Google announces plans to make the U.S. city of Kansas City, Kansas the first site in its ultra-high speed broadband network. ](/news/2011/03/30/google-announces-plans-to-make-the-u-s-city-of-kansas-city-kansas-the-first-site-in-its-ultra-high-speed-broadband-network.md)
-_Context: Google, broadband, Kansas City, Kansas_
+_Context: Google, Kansas City, Kansas, broadband_
 
 ##### Obama Administration
 ### [Obama Administration endorses Pickens plan for natural gas vehicles. ](/news/2011/03/30/obama-administration-endorses-pickens-plan-for-natural-gas-vehicles.md)
@@ -73,7 +73,7 @@ _Context: North Korea, Yeonpyeong Island, South Korea_
 
 ##### Yonhap
 ### [The Yonhap news agency in South Korea reports that the People's Republic of China has reinforced fences and increased patrols along its border with North Korea in order to stop a flow of refugees. ](/news/2011/03/30/the-yonhap-news-agency-in-south-korea-reports-that-the-people-s-republic-of-china-has-reinforced-fences-and-increased-patrols-along-its-bord.md)
-_Context: South Korea, China, refugee, North Korea, Yonhap_
+_Context: South Korea, China, North Korea, refugee, Yonhap_
 
 ##### Filipino
 ### [Three Filipinos are executed on drug charges in the People's Republic of China. ](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.md)
@@ -81,7 +81,7 @@ Vice President Jejomar Binay confirms that the three convicted Filipino drug mul
 
 ##### Umar Patek
 ### [A man suspected of being Umar Patek wanted for his alleged role in the 2002 Bali bombings is arrested in Pakistan. ](/news/2011/03/30/a-man-suspected-of-being-umar-patek-wanted-for-his-alleged-role-in-the-2002-bali-bombings-is-arrested-in-pakistan.md)
-_Context: Umar Patek, 2002 Bali bombings, Pakistan_
+_Context: 2002 Bali bombings, Umar Patek, Pakistan_
 
 ##### Diamond
 ### [Diamonds worth millions are stolen from the BaselWorld Watch and Jewellery Fair in Basel, Switzerland. ](/news/2011/03/30/diamonds-worth-millions-are-stolen-from-the-baselworld-watch-and-jewellery-fair-in-basel-switzerland.md)
@@ -93,11 +93,11 @@ _Context: State Peace and Development Council, Burma_
 
 ##### Egypt
 ### [Egypt's transitional government promises to hold the Egyptian presidential election by November. ](/news/2011/03/30/egypt-s-transitional-government-promises-to-hold-the-egyptian-presidential-election-by-november.md)
-_Context: Egypt, Egyptian presidential election in September, November_
+_Context: Egyptian presidential election in September, Egypt, November_
 
 ##### Virophage
 ### [The first virophage virus found in a natural environment is discovered in Organic Lake in East Antarctica. ](/news/2011/03/30/the-first-virophage-virus-found-in-a-natural-environment-is-discovered-in-organic-lake-in-east-antarctica.md)
-_Context: virophage, East Antarctica, virus, Organic Lake_
+_Context: virus, East Antarctica, Organic Lake, virophage_
 
 ## [Previous Day...](/news/2011/03/29/index.md)
 

@@ -9,7 +9,7 @@ Two UN peacekeepers are killed and others are injured in a car bomb blast in the
 
 ##### Philippines
 ### [Philippine President Benigno Aquino III downplays the significance of the recent surge of violence against journalists in the country after three deaths. ](/news/2013/12/14/philippine-president-benigno-aquino-iii-downplays-the-significance-of-the-recent-surge-of-violence-against-journalists-in-the-country-after.md)
-_Context: his predecessor, Philippines, President_
+_Context: Philippines, President, his predecessor_
 
 #####  is thrown onto a bus
 ### [A grenade is thrown onto a bus in Nairobi, Kenya, killing at least four people and injuring 15 others. ](/news/2013/12/14/a-grenade-is-thrown-onto-a-bus-in-nairobi-kenya-killing-at-least-four-people-and-injuring-15-others.md)
@@ -21,7 +21,7 @@ LONDON (AP) — Known on the one hand for his starring role in &quot;Lawrence of
 
 ##### Nelson Mandela
 ### [The remains of Nelson Mandela are flown to the province of Eastern Cape, a day before his state funeral is held in Qunu. ](/news/2013/12/14/the-remains-of-nelson-mandela-are-flown-to-the-province-of-eastern-cape-a-day-before-his-state-funeral-is-held-in-qunu.md)
-_Context: Qunu, Eastern Cape, state funeral, province, Nelson Mandela_
+_Context: province, Qunu, Nelson Mandela, state funeral, Eastern Cape_
 
 ##### Tunisia
 ### [Tunisian politicians select Mehdi Jomaa as the acting Prime Minister of Tunisia until new elections are called. ](/news/2013/12/14/tunisian-politicians-select-mehdi-jomaa-as-the-acting-prime-minister-of-tunisia-until-new-elections-are-called.md)
@@ -33,7 +33,7 @@ Tens of thousands of people gather in Bogota to protest against the dismissal of
 
 ##### SPD
 ### [The Social Democratic Party of Germany agrees to join a coalition government led by Chancellor Angela Merkel. ](/news/2013/12/14/the-social-democratic-party-of-germany-agrees-to-join-a-coalition-government-led-by-chancellor-angela-merkel.md)
-_Context: Chancellor, Angela Merkel, SPD_
+_Context: SPD, Angela Merkel, Chancellor_
 
 ##### Yutu
 ### [China's mission carrying Yutu, China's first lunar rover, lands on the Moon. It is the first "soft" landing on the Moon since 1976 and the third ever robotic rover. ](/news/2013/12/14/china-s-mission-carrying-yutu-china-s-first-lunar-rover-lands-on-the-moon-it-is-the-first-soft-landing-on-the-moon-since-1976-and-the-t.md)

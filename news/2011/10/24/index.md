@@ -25,7 +25,7 @@ Parts of south-west England, Northern Ireland and Wales begin to clear up after 
 
 ##### Tunisian Constituent Assembly
 ### [Following Tunisia's first election since the ousting of President Zine El Abidine Ben Ali in January, the moderate Islamist Renaissance Party declares victory, with their centre-left rivals, the Progressive Democratic Party, conceding defeat. The official results of the election are due to be released next week. ](/news/2011/10/24/following-tunisia-s-first-election-since-the-ousting-of-president-zine-el-abidine-ben-ali-in-january-the-moderate-islamist-renaissance-part.md)
-_Context: Renaissance Party, Jasmine Revolution of 2011, Progressive Democratic Party, Islamist, Zine El Abidine Ben Ali, Tunisian Constituent Assembly_
+_Context: Tunisian Constituent Assembly, Jasmine Revolution of 2011, Renaissance Party, Islamist, Progressive Democratic Party, Zine El Abidine Ben Ali_
 
 ##### United Kingdom
 ### [The British House of Commons votes to reject a proposed referendum on Britain's membership of the European Union, with 483 MPs voting against the proposal and 111 voting in favour. Among those who supported the proposal were 81 Conservative Party members, who rebelled against the anti-referendum stance of Prime Minister David Cameron, the leader of the Conservative Party. ](/news/2011/10/24/the-british-house-of-commons-votes-to-reject-a-proposed-referendum-on-britain-s-membership-of-the-european-union-with-483-mps-voting-agains.md)
@@ -37,7 +37,7 @@ India has &quot;never been closer&quot; to wiping out polio, Health Minister Ghu
 
 ##### Coronal mass ejection
 ### [A coronal mass ejection makes the Northern Lights visible over much of North America. ](/news/2011/10/24/a-coronal-mass-ejection-makes-the-northern-lights-visible-over-much-of-north-america.md)
-_Context: Northern Lights, North America, coronal mass ejection_
+_Context: coronal mass ejection, North America, Northern Lights_
 
 ## [Previous Day...](/news/2011/10/23/index.md)
 

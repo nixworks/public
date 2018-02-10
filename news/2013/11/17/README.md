@@ -5,7 +5,7 @@ Formats: [HTML](2013/11/17/index.html)  [JSON](2013/11/17/index.json)  [XML](201
 
 ##### Libya
 ### [Libya's deputy intelligence chief Mustafa Noah is kidnapped outside Tripoli airport. ](/news/2013/11/17/libya-s-deputy-intelligence-chief-mustafa-noah-is-kidnapped-outside-tripoli-airport.md)
-_Context: Tripoli International Airport, Libya_
+_Context: Libya, Tripoli International Airport_
 
 ##### Doris Lessing
 ### [British author Doris Lessing, winner of the Nobel Prize for Literature in 2007, dies at the age of 94. ](/news/2013/11/17/british-author-doris-lessing-winner-of-the-nobel-prize-for-literature-in-2007-dies-at-the-age-of-94.md)
@@ -37,7 +37,7 @@ _Context: Giorgi Margvelashvili, President of Georgia_
 
 ##### Chile
 ### [Voters in Chile go to the polls for a general election of president, senators, deputies, and regional advisers. The presidential election looks likely to go to a runoff between former President Michelle Bachelet and Evelyn Matthei of the ruling Coalition. ](/news/2013/11/17/voters-in-chile-go-to-the-polls-for-a-general-election-of-president-senators-deputies-and-regional-advisers-the-presidential-election-lo.md)
-_Context: senators, deputies, regional advisers, Chile, Evelyn Matthei, President, Michelle Bachelet, president_
+_Context: Chile, Michelle Bachelet, senators, deputies, president, Evelyn Matthei, regional advisers, President_
 
 ## [Previous Day...](/news/2013/11/16/index.md)
 

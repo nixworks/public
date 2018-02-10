@@ -17,7 +17,7 @@ _Context: Abuja, Nigeria_
 
 ##### South Africa
 ### [South African platinum miners return to work after a five month strike ends. ](/news/2014/06/25/south-african-platinum-miners-return-to-work-after-a-five-month-strike-ends.md)
-_Context: South Africa, platinum_
+_Context: platinum, South Africa_
 
 ##### Bihar
 ### [4 killed in a train accident in Bihar, India. ](/news/2014/06/25/4-killed-in-a-train-accident-in-bihar-india.md)
@@ -37,7 +37,7 @@ _Context: United States, LeT, Jama'at-ud-Dawa_
 
 ##### Parliament of Romania
 ### [Both houses of the Romanian parliament widely adopt a joint statement urging Romania's president Traian Basescu to resign, following corruption scandals involving his arrested brother's graft case and one of his sons-in-law's implication in a criminal investigation. ](/news/2014/06/25/both-houses-of-the-romanian-parliament-widely-adopt-a-joint-statement-urging-romania-s-president-traian-basescu-to-resign-following-corrup.md)
-_Context: Traian Basescu, graft, Romania, corruption, Parliament of Romania_
+_Context: corruption, Traian Basescu, Parliament of Romania, Romania, graft_
 
 ## [Previous Day...](/news/2014/06/24/index.md)
 

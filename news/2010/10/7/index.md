@@ -73,7 +73,7 @@ Civil servants stage 24-hour strike in protest against pay cuts and pension free
 
 ##### $
 ### [The United States dollar reaches a 15-year low against the Japanese yen and depreciates against a range of other currencies due to concerns about further quantitative easing by the United States Federal Reserve. ](/news/2010/10/7/the-united-states-dollar-reaches-a-15-year-low-against-the-japanese-yen-and-depreciates-against-a-range-of-other-currencies-due-to-concerns.md)
-_Context: $, quantitative easing, currency, yen, United States Federal Reserve, Japan_
+_Context: United States Federal Reserve, quantitative easing, $, Japan, yen, currency_
 
 ##### Irrawaddy River
 ### [Nine, mostly children, die, after an overloaded river ferry capsizes in the Irrawaddy River delta, in Myanmar. ](/news/2010/10/7/nine-mostly-children-die-after-an-overloaded-river-ferry-capsizes-in-the-irrawaddy-river-delta-in-myanmar.md)
@@ -97,11 +97,11 @@ Toxic red sludge from a Hungarian alumina plant reached the Danube on Thursday a
 
 ##### Security Council
 ### [Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. ](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.md)
-_Context: Security Council, referendum on independence from Sudan, Sudan, Darfur_
+_Context: Security Council, Darfur, referendum on independence from Sudan, Sudan_
 
 ##### Russia
 ### [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md)
-_Context: Iran, ban on ballistic missile tests, anti-air, Russia, nuclear program_
+_Context: Russia, ban on ballistic missile tests, nuclear program, anti-air, Iran_
 
 ##### United States
 ### [The United States apologizes to Pakistan for a helicopter strike on a Pakistan Army border post that killed 3 soldiers. ](/news/2010/10/7/the-united-states-apologizes-to-pakistan-for-a-helicopter-strike-on-a-pakistan-army-border-post-that-killed-3-soldiers.md)
@@ -133,11 +133,11 @@ Zimbabwean Prime Minister Morgan Tsvangirai accuses President Robert Mugabe of v
 
 ##### United Kingdom
 ### [The United Kingdom Labour Party announces its Shadow Cabinet to be led by Ed Miliband. ](/news/2010/10/7/the-united-kingdom-labour-party-announces-its-shadow-cabinet-to-be-led-by-ed-miliband.md)
-_Context: Shadow Cabinet, United Kingdom, Ed Miliband, Labour Party_
+_Context: Shadow Cabinet, Labour Party, Ed Miliband, United Kingdom_
 
 ##### Mark Rutte
 ### [Mark Rutte of the People's Party for Freedom and Democracy is asked by Queen Beatrix of the Netherlands to become Prime Minister of the Netherlands leading a coalition government. ](/news/2010/10/7/mark-rutte-of-the-people-s-party-for-freedom-and-democracy-is-asked-by-queen-beatrix-of-the-netherlands-to-become-prime-minister-of-the-neth.md)
-_Context: VVD, Beatrix, Netherlands, Prime Minister, Mark Rutte_
+_Context: Beatrix, Prime Minister, Mark Rutte, Netherlands, VVD_
 
 ##### South Africa
 ### [South African Archbishop Desmond Tutu retires from public life after reaching his 79th birthday. ](/news/2010/10/7/south-african-archbishop-desmond-tutu-retires-from-public-life-after-reaching-his-79th-birthday.md)

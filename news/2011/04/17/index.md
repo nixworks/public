@@ -9,7 +9,7 @@ Thousands of people waving Syrian flags and shouting &quot;We Want Freedom!&quot
 
 ##### Civil war
 ### [Rebel forces in Libya regain the town of Ajdabiya. ](/news/2011/04/17/rebel-forces-in-libya-regain-the-town-of-ajdabiya.md)
-_Context: Libya, Ajdabiya, civil war_
+_Context: Ajdabiya, civil war, Libya_
 
 ##### NATO
 ### [NATO announces that eight soldiers from member countries died in fighting in Afghanistan. ](/news/2011/04/17/nato-announces-that-eight-soldiers-from-member-countries-died-in-fighting-in-afghanistan.md)
@@ -17,11 +17,11 @@ Three more NATO service members were killed in attacks in Afghanistan on Saturda
 
 ##### 2011 Yemeni protests
 ### [Fourteen people claimed to be responsible for shooting 52 protestors in Sana'a in March are referred to the state prosecutor. ](/news/2011/04/17/fourteen-people-claimed-to-be-responsible-for-shooting-52-protestors-in-sanaaa-in-march-are-referred-to-the-state-prosecutor.md)
-_Context: 2011 Yemeni protests, Sana'a_
+_Context: Sana'a, 2011 Yemeni protests_
 
 ##### China
 ### [China raises its bank reserves requirements as an anti-inflation move, an increase of 50 basis points (half of a percent) effective April 21. ](/news/2011/04/17/china-raises-its-bank-reserves-requirements-as-an-anti-inflation-move-an-increase-of-50-basis-points-half-of-a-percent-effective-april-21.md)
-_Context: China, inflation_
+_Context: inflation, China_
 
 ##### Oman
 ### [Oman is to spend 1 billion rials in an attempt to prevent further anti-government protests. ](/news/2011/04/17/oman-is-to-spend-1-billion-rials-in-an-attempt-to-prevent-further-anti-government-protests.md)
@@ -45,15 +45,15 @@ _Context: China, Beijing, Protestant_
 
 ##### National Coalition Party
 ### [The National Coalition Party wins the Finnish parliamentary election (44 seats), with the True Finns, third-place finishers, emerging as a new major political party (39 seats). Biggest losers are the Centre Party (36 seats); coalition talks will probably be held between the Coalition, the True Finns and the Social Democrats (42 seats).](/news/2011/04/17/the-national-coalition-party-wins-the-finnish-parliamentary-election-44-seats-with-the-true-finns-third-place-finishers-emerging-as-a-n.md)
-_Context: True Finns, National Coalition Party, Finland, Centre Party, Social Democratic Party, parliamentary election_
+_Context: parliamentary election, Centre Party, National Coalition Party, Social Democratic Party, Finland, True Finns_
 
 ##### Goodluck Jonathan
 ### [Goodluck Jonathan will be reelected as President of Nigeria based on unofficial results in the presidential election. ](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.md)
-_Context: presidential election, Goodluck Jonathan, President_
+_Context: presidential election, President, Goodluck Jonathan_
 
 ##### Supreme Leader
 ### [The Supreme Leader of Iran Ayatollah Ali Khamenei refuses to accept the resignation of Intelligence Chief Heyder Moslehi. ](/news/2011/04/17/the-supreme-leader-of-iran-ayatollah-ali-khamenei-refuses-to-accept-the-resignation-of-intelligence-chief-heyder-moslehi.md)
-_Context: Heyder Moslehi, Ali Khamenei, Ayatollah, Supreme Leader_
+_Context: Supreme Leader, Heyder Moslehi, Ali Khamenei, Ayatollah_
 
 ## [Previous Day...](/news/2011/04/16/index.md)
 

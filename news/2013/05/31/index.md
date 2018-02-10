@@ -13,7 +13,7 @@ _Context: Starbucks_
 
 ##### Firemen
 ### [Four firemen are killed and five others injured fighting a fire in Houston, Texas, U.S. ](/news/2013/05/31/four-firemen-are-killed-and-five-others-injured-fighting-a-fire-in-houston-texas-u-s.md)
-_Context: Houston, firemen, Texas_
+_Context: Texas, Houston, firemen_
 
 ##### Phoenix, Arizona
 ### [Four people are killed when two small planes collide near Phoenix, Arizona, U.S. ](/news/2013/05/31/four-people-are-killed-when-two-small-planes-collide-near-phoenix-arizona-u-s.md)
@@ -41,7 +41,7 @@ MP Patrick Mercer resigns the Tory whip to &quot;save my party embarrassment&quo
 
 ##### Presidential
 ### [Iranian presidential election: The first televised debate is held with candidates discussing their economic plans. ](/news/2013/05/31/iranian-presidential-election-the-first-televised-debate-is-held-with-candidates-discussing-their-economic-plans.md)
-_Context: economic, presidential, televised debate_
+_Context: televised debate, economic, presidential_
 
 ##### 
 ### [Zimbabwe's Constitutional Court orders elections must be held no later than July 31. ](/news/2013/05/31/zimbabwe-s-constitutional-court-orders-elections-must-be-held-no-later-than-july-31.md)

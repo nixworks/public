@@ -5,11 +5,11 @@ Formats: [HTML](2006/10/30/index.html)  [JSON](2006/10/30/index.json)  [XML](200
 
 ##### Bulgaria
 ### [ President of Bulgaria Georgi Parvanov is reelected after a run-off election with Volen Siderov in the presidential elections. ](/news/2006/10/30/president-of-bulgaria-georgi-parvanov-is-reelected-after-a-run-off-election-with-volen-siderov-in-the-presidential-elections.md)
-_Context: Volen Siderov, presidential elections, Bulgaria, Georgi Parvanov_
+_Context: presidential elections, Georgi Parvanov, Bulgaria, Volen Siderov_
 
 ##### Chenagai airstrike
 ### [ Chenagai airstrike: Pakistani helicopter gunships fired missiles and destroyed an al-Qaeda-linked training facility and killed 80 suspected terrorists in a northwestern tribal area near the Afghan border, in a madrassa near the town of Khar. ](/news/2006/10/30/chenagai-airstrike-pakistani-helicopter-gunships-fired-missiles-and-destroyed-an-al-qaeda-linked-training-facility-and-killed-80-suspected.md)
-_Context: helicopter, madrassa, Chenagai airstrike, Khar, terrorism, Afghanistan, al-Qaeda, Pakistan_
+_Context: madrassa, Afghanistan, helicopter, Pakistan, Chenagai airstrike, terrorism, al-Qaeda, Khar_
 
 ##### Israeli cabinet
 ### [ The Israeli cabinet has approved the addition of the Yisrael Beitenu party into the governing coalition. ](/news/2006/10/30/the-israeli-cabinet-has-approved-the-addition-of-the-yisrael-beitenu-party-into-the-governing-coalition.md)
@@ -21,7 +21,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Saddam Hussein
 ### [ Saddam Hussein's chief lawyer, Khalil al-Duleimi, walks out of court after 12 of his requests were rejected, but the chief judge immediately appoints other attorneys to defend the deposed President of Iraq. ](/news/2006/10/30/saddam-hussein-s-chief-lawyer-khalil-al-duleimi-walks-out-of-court-after-12-of-his-requests-were-rejected-but-the-chief-judge-immediatel.md)
-_Context: President of Iraq, Khalil al-Duleimi, Saddam Hussein_
+_Context: Saddam Hussein, President of Iraq, Khalil al-Duleimi_
 
 ##### Ahmed Qusai al-Taayie
 ### [ Specialist Ahmed Qusai al-Taayie, an Iraqi American United States Army soldier currently listed as missing in action in Iraq, is reported to have married an Iraqi citizen, against U.S. military regulations. ](/news/2006/10/30/specialist-ahmed-qusai-al-taayie-an-iraqi-american-united-states-army-soldier-currently-listed-as-missing-in-action-in-iraq-is-reported-t.md)

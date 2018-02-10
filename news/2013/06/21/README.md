@@ -5,11 +5,11 @@ Formats: [HTML](2013/06/21/index.html)  [JSON](2013/06/21/index.json)  [XML](201
 
 ##### Suicide bomber
 ### [A suicide bomber kills 15 and injures 20 in a Shi'ite mosque in the northwestern Pakistani city of Peshawar. ](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-shi-ite-mosque-in-the-northwestern-pakistani-city-of-peshawar.md)
-_Context: Peshawar, Pakistan, Shi'ite, kills 15 and injures 20, suicide bomber_
+_Context: kills 15 and injures 20, Shi'ite, Pakistan, Peshawar, suicide bomber_
 
 ##### Jews
 ### [A Jewish Israeli man is shot dead near Jerusalem's Western Wall after a guard mistakes him for a Palestinian militant after hearing him shout "Allahu Akbar". ](/news/2013/06/21/a-jewish-israeli-man-is-shot-dead-near-jerusalem-s-western-wall-after-a-guard-mistakes-him-for-a-palestinian-militant-after-hearing-him-shou.md)
-_Context: Israel, Jews, Allahu Akbar, Western Wall, Jerusalem, Palestinian_
+_Context: Western Wall, Jews, Israel, Palestinian, Jerusalem, Allahu Akbar_
 
 ##### Law firm
 ### [A gunman opens fire at a law firm and a Walmart in Greenville, North Carolina, U.S., injuring four people. The gunman is later shot by the police and brought into custody after being wounded. ](/news/2013/06/21/a-gunman-opens-fire-at-a-law-firm-and-a-walmart-in-greenville-north-carolina-u-s-injuring-four-people-the-gunman-is-later-shot-by-the-p.md)
@@ -25,7 +25,7 @@ Riga Castle has been badly damaged by fire. The historical building, which is lo
 
 ##### India
 ### [A three-story building collapses in the Indian town of Mumbra in Maharashtra state, with at least two deaths and many people reported trapped. ](/news/2013/06/21/a-three-story-building-collapses-in-the-indian-town-of-mumbra-in-maharashtra-state-with-at-least-two-deaths-and-many-people-reported-trappe.md)
-_Context: India, Maharashtra, Mumbra_
+_Context: Maharashtra, India, Mumbra_
 
 ##### 2013 North India floods
 ### [2013 North India floods: Nearly 14,000 people are believed to be missing in Uttarakhand state, with another 60,000 stranded and 150 killed. ](/news/2013/06/21/2013-north-india-floods-nearly-14-000-people-are-believed-to-be-missing-in-uttarakhand-state-with-another-60-000-stranded-and-150-killed.md)
@@ -33,7 +33,7 @@ Heroic rescue efforts by the army have rescued 14,000 people days after Uttarakh
 
 ##### Flooding in Alberta
 ### [75,000 people are evacuated from their homes during flooding in Calgary, Alberta, Canada. ](/news/2013/06/21/75-000-people-are-evacuated-from-their-homes-during-flooding-in-calgary-alberta-canada.md)
-_Context: Alberta, Canadian, Calgary, Alberta, flooding in Alberta_
+_Context: Alberta, flooding in Alberta, Canadian, Calgary, Alberta_
 
 ##### Taiwan
 ### [Taiwan reports the first human case of the H6N1 virus. ](/news/2013/06/21/taiwan-reports-the-first-human-case-of-the-h6n1-virus.md)

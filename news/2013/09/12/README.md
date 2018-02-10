@@ -5,7 +5,7 @@ Formats: [HTML](2013/09/12/index.html)  [JSON](2013/09/12/index.json)  [XML](201
 
 ##### Moro National Liberation Front
 ### [The Moro National Liberation Front attacks the Philippines town of Lamitan with five people missing and two injured. ](/news/2013/09/12/the-moro-national-liberation-front-attacks-the-philippines-town-of-lamitan-with-five-people-missing-and-two-injured.md)
-_Context: Lamitan, Philippines, Moro National Liberation Front_
+_Context: Moro National Liberation Front, Lamitan, Philippines_
 
 ##### Abu Mansoor Al-Amriki
 ### [American born Islamist militant Abu Mansoor Al-Amriki is shot dead in a dawn raid in a shootout with his former al-Shabaab colleagues in southern Somalia. ](/news/2013/09/12/american-born-islamist-militant-abu-mansoor-al-amriki-is-shot-dead-in-a-dawn-raid-in-a-shootout-with-his-former-al-shabaab-colleagues-in-sou.md)

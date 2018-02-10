@@ -9,7 +9,7 @@ At least 28 Huthi insurgents and 12 Yemeni soldiers were killed in clashes in th
 
 ##### Carrie Fisher
 ### [Carrie Fisher, the actress and writer best known for playing Princess Leia in the "Star Wars" franchise, dies following complications from a heart attack. ](/news/2016/12/27/carrie-fisher-the-actress-and-writer-best-known-for-playing-princess-leia-in-the-star-wars-franchise-dies-following-complications-from-a.md)
-_Context: Princess Leia, Star Wars, Carrie Fisher_
+_Context: Carrie Fisher, Princess Leia, Star Wars_
 
 ##### U.S. Federal Trade Commission
 ### [The U.S. Federal Trade Commission gives the antitrust go ahead to Abbott Laboratories in its acquisition of St. Jude Medical. ](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-antitrust-go-ahead-to-abbott-laboratories-in-its-acquisition-of-st-jude-medical.md)
@@ -29,7 +29,7 @@ Israel curbed relations with countries that voted in favor of a recent U.N. Secu
 
 ##### Japan-United States relations
 ### [Japanese Prime Minister Shinzo Abe makes a landmark visit to Naval Station Pearl Harbor in Pearl Harbor, Hawaii, offering "sincere and everlasting condolences" to the victims of the attack on Pearl Harbor by the Japanese empire on December 7, 1941. ](/news/2016/12/27/japanese-prime-minister-shinza-abe-makes-a-landmark-visit-to-naval-station-pearl-harbor-in-pearl-harbor-hawaii-offering-sincere-and-ever.md)
-_Context: attack on Pearl Harbor, Pearl Harbor, Hawaii, Empire of Japan, Naval Station Pearl Harbor, Shinzo Abe, Prime Minister of Japan, Japan, Japan-United States relations_
+_Context: Pearl Harbor, attack on Pearl Harbor, Empire of Japan, Japan-United States relations, Naval Station Pearl Harbor, Japan, Hawaii, Prime Minister of Japan, Shinzo Abe_
 
 ##### Basuki Tjahaja Purnama
 ### [Basuki Tjahaja Purnama, the Christian Governor of the Indonesian capital Jakarta, will face prosecution for blasphemy. ](/news/2016/12/27/basuki-tjahaja-purnama-the-christian-governor-of-the-indonesian-capital-jakarta-will-face-prosecution-for-blasphemy.md)
@@ -41,7 +41,7 @@ Former Argentine President Cristina Fernandez was indicted on Tuesday on charges
 
 ##### Cuba
 ### [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md)
-_Context: died, Cuba, Fidel Castro, President, Parliament_
+_Context: Cuba, Fidel Castro, died, President, Parliament_
 
 ## [Previous Day...](/news/2016/12/26/index.md)
 

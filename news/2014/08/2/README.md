@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/2/index.html)  [JSON](2014/08/2/index.json)  [XML](2014/
 
 ##### Krasnohorivka
 ### [Ukrainian forces retake control of the towns of Krasnohorivka and Staromykhailivka, outside the pro-Russian rebels' stronghold of Donetsk. ](/news/2014/08/2/ukrainian-forces-retake-control-of-the-towns-of-krasnohorivka-and-staromykhailivka-outside-the-pro-russian-rebels-stronghold-of-donetsk.md)
-_Context: Donetsk, Krasnohorivka, Staromykhailivka_
+_Context: Donetsk, Staromykhailivka, Krasnohorivka_
 
 ##### Nagorno-Karabakh conflict
 ### [Five more Azeri troops are killed in overnight fighting with ethnic Armenians in Nagorno-Karabakh. The casualties bring the death toll to at least 13 in a flare-up of violence over the last few days around Nagorno-Karabakh. Russia has said that any further escalation is unacceptable. ](/news/2014/08/2/five-more-azeri-troops-are-killed-in-overnight-fighting-with-ethnic-armenians-in-nagorno-karabakh-the-casualties-bring-the-death-toll-to-at.md)

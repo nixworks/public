@@ -9,11 +9,11 @@ _Context: Union of South American Nations, Mercosur, South America, Andean Commu
 
 ##### Claymore mine
 ### [ At least 17 civilians including a child are killed in a claymore mine explosion in Kilinochchi, North of Sri Lanka. ](/news/2008/05/23/at-least-17-civilians-including-a-child-are-killed-in-a-claymore-mine-explosion-in-kilinochchi-north-of-sri-lanka.md)
-_Context: Kilinochchi, Sri Lanka, claymore mine_
+_Context: Sri Lanka, Kilinochchi, claymore mine_
 
 ##### United Nations Secretary-General
 ### [ The Secretary-General of the United Nations Ban Ki-Moon states that Myanmar's State Peace and Development Council has decided to grant access to areas worst hit by Cyclone Nargis to international aid workers regardless of nationality. ](/news/2008/05/23/the-secretary-general-of-the-united-nations-ban-ki-moon-states-that-myanmar-s-state-peace-and-development-council-has-decided-to-grant-acce.md)
-_Context: Ban Ki-Moon, Cyclone Nargis, United Nations Secretary-General, Myanmar, State Peace and Development Council_
+_Context: Ban Ki-Moon, Cyclone Nargis, Myanmar, United Nations Secretary-General, State Peace and Development Council_
 
 ##### Industrial action
 ### [ Around 20,000 passengers are affected by unofficial industrial action by Iarnrd ireann, Ireland's national rail operator. ](/news/2008/05/23/around-20-000-passengers-are-affected-by-unofficial-industrial-action-by-iarnrod-eireann-ireland-s-national-rail-operator.md)
@@ -21,11 +21,11 @@ Around 20,000 rail passengers were affected by today&#39;s industrial action, ac
 
 ##### Hu Jintao
 ### [ Hu Jintao, the President of China, and the President of Russia Dmitry Medvedev condemn the United States' National missile defense system. ](/news/2008/05/23/hu-jintao-the-president-of-china-and-the-president-of-russia-dmitry-medvedev-condemn-the-united-states-national-missile-defense-system.md)
-_Context: Russian President, missile interceptor, Dmitry Medvedev, Chinese President, Hu Jintao, United States_
+_Context: Russian President, Chinese President, United States, Hu Jintao, missile interceptor, Dmitry Medvedev_
 
 ##### International Court of Justice
 ### [ The International Court of Justice awards sovereignty of Pedra Branca to Singapore, ending a 28-year dispute over the islet between Singapore and Malaysia. Malaysia was awarded sovereignty of an outcropping of Pedra Branca, Middle Rocks, while the sovereignty of South Ledge was left to be determined by the maritime boundary between the two nations, which is also a contentious point. ](/news/2008/05/23/the-international-court-of-justice-awards-sovereignty-of-pedra-branca-to-singapore-ending-a-28-year-dispute-over-the-islet-between-singapo.md)
-_Context: Singapore, Middle Rocks, International Court of Justice, Malaysia, South Ledge, Pedra Branca_
+_Context: Middle Rocks, Malaysia, South Ledge, Pedra Branca, Singapore, International Court of Justice_
 
 ##### Morocco
 ### [ Seven Moroccan tourists are killed in a bus crash in central France, near the city of Blois. ](/news/2008/05/23/seven-moroccan-tourists-are-killed-in-a-bus-crash-in-central-france-near-the-city-of-blois.md)

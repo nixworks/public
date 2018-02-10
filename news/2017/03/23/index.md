@@ -17,7 +17,7 @@ Government forces retreat as the district headquarters fall to militants after a
 
 ##### 2017 Antwerp attack
 ### [A man drives into a crowd of pedestrians in Antwerp, Belgium, injuring several people. Police arrest the man, who is believed to be North African born and living in France. ](/news/2017/03/23/a-man-drives-into-a-crowd-of-pedestrians-in-antwerp-belgium-injuring-several-people-police-arrest-the-man-who-is-believed-to-be-north-af.md)
-_Context: France, Antwerp, Belgium, 2017 Antwerp attack_
+_Context: Antwerp, Belgium, France, 2017 Antwerp attack_
 
 ##### United States
 ### [The American city of Fort Collins, Colorado, announces its intention to appeal a federal judge's ruling that blocked the city's ban on women appearing topless in public. ](/news/2017/03/23/the-american-city-of-fort-collins-colorado-announces-its-intention-to-appeal-a-federal-judge-s-ruling-that-blocked-the-cityas-ban-on-wom.md)
@@ -33,7 +33,7 @@ The Sewol sank on 16 April 2014 killing 304 people, almost all school children o
 
 ##### American Health Care Act of 2017
 ### [The United States House of Representatives approaches a vote on a replacement plan for the Patient Protection and Affordable Care Act (aka Obamacare). ](/news/2017/03/23/the-united-states-house-of-representatives-approaches-a-vote-on-a-replacement-plan-for-the-patient-protection-and-affordable-care-act-aka-o.md)
-_Context: United States House of Representatives, Obamacare, American Health Care Act of 2017_
+_Context: United States House of Representatives, American Health Care Act of 2017, Obamacare_
 
 ##### Night parrot
 ### [The night parrot is confirmed sighted (and photographed) in Western Australia for first time in nearly 100 years. ](/news/2017/03/23/the-night-parrot-is-confirmed-sighted-and-photographed-in-western-australia-for-first-time-in-nearly-100-years.md)

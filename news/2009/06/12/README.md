@@ -9,11 +9,11 @@ _Context: re-election, Iran_
 
 ##### Pittsburgh Penguins
 ### [ The Pittsburgh Penguins defeat the Detroit Red Wings in game seven to win the 2009 Stanley Cup Finals. ](/news/2009/06/12/the-pittsburgh-penguins-defeat-the-detroit-red-wings-in-game-seven-to-win-the-2009-stanley-cup-finals.md)
-_Context: Stanley Cup, 2009, Detroit Red Wings, Pittsburgh Penguins, Finals_
+_Context: Finals, Pittsburgh Penguins, 2009, Detroit Red Wings, Stanley Cup_
 
 ##### Fourth largest coalition
 ### [ The head of the fourth largest coalition in the Iraqi parliament, Harith al-Obeidi, is assassinated in west Baghdad. ](/news/2009/06/12/the-head-of-the-fourth-largest-coalition-in-the-iraqi-parliament-harith-al-obeidi-is-assassinated-in-west-baghdad.md)
-_Context: Iraqi Parliament, Iraq, Harith al-Obeidi, Baghdad, fourth largest coalition_
+_Context: Baghdad, Harith al-Obeidi, Iraq, fourth largest coalition, Iraqi Parliament_
 
 ##### United States
 ### [ U.S. television stations complete their switch from analog to digital television. ](/news/2009/06/12/u-s-television-stations-complete-their-switch-from-analog-to-digital-television.md)
@@ -21,35 +21,35 @@ The big DTV moment is here - like New Year&#8217;s Eve, labor pains or the mille
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council unanimously votes to impose further sanctions on North Korea, following recent nuclear and missile tests. ](/news/2009/06/12/the-united-nations-security-council-unanimously-votes-to-impose-further-sanctions-on-north-korea-following-recent-nuclear-and-missile-test.md)
-_Context: sanctions, sanctions, 2009, United Nations Security Council, North Korea_
+_Context: sanctions, North Korea, United Nations Security Council, 2009, sanctions_
 
 ##### Pakistan
 ### [ Prominent Pakistani anti-Taliban cleric Sarfraz Naeemi is killed in a suspected suicide bomb attack at his Islamic religious school in Lahore. ](/news/2009/06/12/prominent-pakistani-anti-taliban-cleric-sarfraz-naeemi-is-killed-in-a-suspected-suicide-bomb-attack-at-his-islamic-religious-school-in-laho.md)
-_Context: suicide bomb, Sarfraz Naeemi, Taliban, Islam, Pakistan, Lahore_
+_Context: Sarfraz Naeemi, Taliban, Pakistan, Lahore, Islam, suicide bomb_
 
 ##### Foreign Secretary
 ### [ The United Kingdom Foreign Secretary, David Miliband, is asked to explain how four Chinese detainees from Guantanamo Bay were released to Bermuda without the knowledge of Whitehall. ](/news/2009/06/12/the-united-kingdom-foreign-secretary-david-miliband-is-asked-to-explain-how-four-chinese-detainees-from-guanta-namo-bay-were-released-to.md)
-_Context: Guantanamo Bay, Whitehall, Foreign Secretary, David Miliband, Bermuda, Chinese_
+_Context: David Miliband, Bermuda, Foreign Secretary, Guantanamo Bay, Whitehall, Chinese_
 
 ##### City of Film
 ### [ The world's first City of Film is announced by UNESCO, with Bradford beating competition from Los Angeles, Cannes and Venice. ](/news/2009/06/12/the-world-s-first-city-of-film-is-announced-by-unesco-with-bradford-beating-competition-from-los-angeles-cannes-and-venice.md)
-_Context: Venice, UNESCO, City of Film, Cannes, Bradford, Los Angeles_
+_Context: Los Angeles, Cannes, Venice, City of Film, Bradford, UNESCO_
 
 ##### Mombasa
 ### [ Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. ](/news/2009/06/12/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.md)
-_Context: Somalia, Mombasa, Somali pirates, Nairobi_
+_Context: Somali pirates, Somalia, Mombasa, Nairobi_
 
 ##### Trial
 ### [ The trial of National League for Democracy General Secretary Aung San Suu Kyi is adjourned until June 26. ](/news/2009/06/12/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-is-adjourned-until-june-26.md)
-_Context: General Secretary, Aung San Suu Kyi, trial, National League for Democracy_
+_Context: National League for Democracy, Aung San Suu Kyi, trial, General Secretary_
 
 ##### India
 ### [ India is to withdraw troops from Kashmir's towns and cities for the first time in 20 years. ](/news/2009/06/12/india-is-to-withdraw-troops-from-kashmir-s-towns-and-cities-for-the-first-time-in-20-years.md)
-_Context: Kashmir, India_
+_Context: India, Kashmir_
 
 ##### Japan
 ### [ Two Japanese citizens are detained in Italy after allegedly attempting to take $134 billion worth of U.S. bonds over the border into Switzerland starting the Chiasso financial smuggling case. ](/news/2009/06/12/two-japanese-citizens-are-detained-in-italy-after-allegedly-attempting-to-take-134-billion-worth-of-u-s-bonds-over-the-border-into-switze.md)
-_Context: Japan, Italy, Switzerland, bonds, Chiasso financial smuggling case_
+_Context: Japan, bonds, Switzerland, Chiasso financial smuggling case, Italy_
 
 ## [Previous Day...](/news/2009/06/11/index.md)
 

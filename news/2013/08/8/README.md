@@ -13,11 +13,11 @@ A bomb kills 12 women and two children in eastern Afghanistan as they visit a gr
 
 ##### Yemen
 ### [Three U.S. drone strikes in central and southern Yemen kill 12 suspected al-Qaida militants. ](/news/2013/08/8/three-u-s-drone-strikes-in-central-and-southern-yemen-kill-12-suspected-al-qaida-militants.md)
-_Context: Yemen, al-Qaida_
+_Context: al-Qaida, Yemen_
 
 ##### African Union
 ### [African Union troops kill 24 militants in a foiled Al-Shabaab planned attack in southern Somalia city of Afmadow. ](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.md)
-_Context: Al-Shabaab, Somalia, African Union, Afmadow_
+_Context: African Union, Al-Shabaab, Afmadow, Somalia_
 
 ##### Cam Lo
 ### [A bus carrying 31 passengers, while crossing the Truc Khe Bridge that was under repair in Cam Lo (QuGBPng Tri, Viet Nam), falls into a river, leaving 17 passengers injured. ](/news/2013/08/8/a-bus-carrying-31-passengers-while-crossing-the-truc-khe-bridge-that-was-under-repair-in-cam-la-quaogbpng-tra-viet-nam-falls-into-a.md)

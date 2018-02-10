@@ -13,11 +13,11 @@ Canada and the EU have sign a tentative deal to open up markets and drop nearly 
 
 ##### Yoshitaka Shindo
 ### [Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. ](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.md)
-_Context: Philippines, Yasukuni Shrine, South Korea, China, Yoshitaka Shindo_
+_Context: China, Yoshitaka Shindo, South Korea, Philippines, Yasukuni Shrine_
 
 ##### Tijuana Cartel
 ### [Former Tijuana Cartel leader Francisco Rafael Arellano Felix is killed in Los Cabos, Baja California Sur. ](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.md)
-_Context: Francisco Rafael Arellano Felix, Los Cabos, Baja California Sur, Tijuana Cartel_
+_Context: Tijuana Cartel, Francisco Rafael Arellano Felix, Los Cabos, Baja California Sur_
 
 ##### India
 ### [Thirty-five members of the US owned MV Seaman Guard Ohio are arrested in the Indian port of Thoothukudi in Tamil Nadu for alleged illegal possession of arms and ammunition. ](/news/2013/10/18/thirty-five-members-of-the-us-owned-mv-seaman-guard-ohio-are-arrested-in-the-indian-port-of-thoothukudi-in-tamil-nadu-for-alleged-illegal-po.md)

@@ -37,11 +37,11 @@ Hundreds of thousands of commuters, visitors and residents of Washington, D.C., 
 
 ##### Wythenshawe Hall
 ### [A fire severely damages the 16th century Wythenshawe Hall, near Manchester, England. ](/news/2016/03/15/a-fire-severely-damages-the-16th-century-wythenshawe-hall-near-manchester-england.md)
-_Context: Wythenshawe Hall, Manchester, England_
+_Context: Manchester, Wythenshawe Hall, England_
 
 ##### Sterlitamak
 ### [A deadly fire breaks out at a rehabilitation center for addicts in Sterlitamak, Bashkortostan, a Republic of Russia, killing 12 people. An investigation was immediately launched. ](/news/2016/03/15/a-deadly-fire-breaks-out-at-a-rehabilitation-center-for-addicts-in-sterlitamak-bashkortostan-a-republic-of-russia-killing-12-people-an-i.md)
-_Context: Republic, Russia, Sterlitamak, Bashkortostan_
+_Context: Russia, Sterlitamak, Republic, Bashkortostan_
 
 ##### Centers for Disease Control and Prevention
 ### [The U.S. Centers for Disease Control and Prevention issues final recommendations urging doctors to try something besides an opioid when first treating pain, and if an opioid drug, such as hydrocodone or oxycodone, is the best choice, start with the lowest possible dose. ](/news/2016/03/15/the-u-s-centers-for-disease-control-and-prevention-issues-final-recommendations-urging-doctors-to-try-something-besides-an-opioid-when-firs.md)
@@ -61,7 +61,7 @@ Landmark resolution is the first of its kind to be passed in a national parliame
 
 ##### Shooting of Michael Brown
 ### [The Ferguson, Missouri, city council, after last month voting to change the terms of the agreement, reverses course and unanimously (6-0) agrees to accept a U.S. Justice Department overhaul of its troubled police force and municipal courts. This avoided a likely expensive legal battle with the federal government which had filed suit against the city following last month's vote. ](/news/2016/03/15/the-ferguson-missouri-city-council-after-last-month-voting-to-change-the-terms-of-the-agreement-reverses-course-and-unanimously-6-0-ag.md)
-_Context: Ferguson, Missouri, municipal courts, Shooting of Michael Brown, Department of Justice, city council, police force, Ferguson unrest_
+_Context: municipal courts, Department of Justice, Ferguson unrest, police force, Shooting of Michael Brown, Ferguson, Missouri, city council_
 
 ##### 2016 U.S. presidential election
 ### [Voters in the U.S. states of Florida, Illinois, Ohio, Missouri, North Carolina and the commonwealth of the Northern Mariana Islands head to the polls for Republican and Democratic Party primaries that the media has dubbed "Super Tuesday 2". ](/news/2016/03/15/voters-in-the-u-s-states-of-florida-illinois-ohio-missouri-north-carolina-and-the-commonwealth-of-the-northern-mariana-islands-head-to.md)
@@ -77,7 +77,7 @@ The new president is to take office on April 1.
 
 ##### Obama administration
 ### [The Obama administration announces it is cancelling plans to permit drilling for oil and gas off the southeastern U.S. Atlantic coast. A new plan involves 10 potential lease sales in the Gulf of Mexico and three off the coast of Alaska. ](/news/2016/03/15/the-obama-administration-announces-it-is-cancelling-plans-to-permit-drilling-for-oil-and-gas-off-the-southeastern-u-s-atlantic-coast-a-new.md)
-_Context: Obama administration, Gulf of Mexico, Southeastern United States, drilling for oil and gas, Atlantic Ocean, Alaska_
+_Context: Alaska, Southeastern United States, Atlantic Ocean, Gulf of Mexico, drilling for oil and gas, Obama administration_
 
 ##### Andrew Wiles
 ### [Andrew Wiles wins the 2016 Abel Prize for his solution to Fermat's last theorem. ](/news/2016/03/15/andrew-wiles-wins-the-2016-abel-prize-for-his-solution-to-fermat-s-last-theorem.md)

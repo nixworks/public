@@ -13,11 +13,11 @@ The U.N. Security Council agreed on Wednesday to partially lift a decades-old ar
 
 ##### European Commission
 ### [The European Commission fines Microsoft EUR561 million for failing to provide residents of the European Union with a selection of web browsers as an alternative to Internet Explorer. ](/news/2013/03/6/the-european-commission-fines-microsoft-a-561-million-for-failing-to-provide-residents-of-the-european-union-with-a-selection-of-web-browse.md)
-_Context: web browsers, European Commission, alternative, Microsoft, European Union, EUR, Internet Explorer_
+_Context: EUR, European Commission, Microsoft, alternative, European Union, web browsers, Internet Explorer_
 
 ##### UK
 ### [The UK's Office of Fair Trading gives the country's top 50 payday loans companies 12 weeks to change their practices after identifying "widespread irresponsible lending". ](/news/2013/03/6/the-uk-s-office-of-fair-trading-gives-the-country-s-top-50-payday-loans-companies-12-weeks-to-change-their-practices-after-identifying-wide.md)
-_Context: UK, payday loans, Office of Fair Trading_
+_Context: payday loans, Office of Fair Trading, UK_
 
 ##### Super King Air
 ### [All nine people, including two pilots and seven passengers, on board a Beechcraft Super King Air B200 airplane chartered by Peruvian mining company die after the plane became ensnared in power lines and crashed to the ground in the La Libertad Region, Peru. ](/news/2013/03/6/all-nine-people-including-two-pilots-and-seven-passengers-on-board-a-beechcraft-super-king-air-b200-airplane-chartered-by-peruvian-mining.md)
@@ -29,7 +29,7 @@ _Context: North Korea, South Korean military, South Korea_
 
 ##### Bob Carr
 ### [Bob Carr, the Australian Minister for Foreign Affairs, releases a report into the handling of the case of Ben Zygier who died in Israeli custody in December 2010 and was believed to be a Mossad agent. ](/news/2013/03/6/bob-carr-the-australian-minister-for-foreign-affairs-releases-a-report-into-the-handling-of-the-case-of-ben-zygier-who-died-in-israeli-cus.md)
-_Context: Mossad, Australian Foreign Minister, Australian, Bob Carr, Ben Zygier, Israel_
+_Context: Australian, Mossad, Australian Foreign Minister, Israel, Bob Carr, Ben Zygier_
 
 ##### United States Court of Appeals for the Seventh Circuit
 ### [The 7th Circuit U.S. Court of Appeals holds in favor of Google in a lawsuit based on Wisconsin privacy laws in a decision that will tend to protect the vendors of search engines from those who object to the unwholesome responses they get when entering a vanity search. ](/news/2013/03/6/the-7th-circuit-u-s-court-of-appeals-holds-in-favor-of-google-in-a-lawsuit-based-on-wisconsin-privacy-laws-in-a-decision-that-will-tend-to.md)
@@ -37,15 +37,15 @@ A Wisconsin woman trying to protect her &quot;wholesome&quot; image failed to pe
 
 ##### Ted Baillieu
 ### [Ted Baillieu resigns as the Premier of the Australian state of Victoria as his embattled government was pushed close to collapse. ](/news/2013/03/6/ted-baillieu-resigns-as-the-premier-of-the-australian-state-of-victoria-as-his-embattled-government-was-pushed-close-to-collapse.md)
-_Context: Premier, Australia, Ted Baillieu, government, Victoria_
+_Context: Premier, Australia, government, Ted Baillieu, Victoria_
 
 ##### Conclave
 ### [Papal conclave, 2013: The Brazilian Conference of Bishops (the largest such conference in the world) officially advises the cardinals of Brazil in the conclave explicitly to ask the mass media to print supportive articles on the Archbishop of SGBPo Paulo, Cardinal Odilo Scherer. ](/news/2013/03/6/papal-conclave-2013-the-brazilian-conference-of-bishops-the-largest-such-conference-in-the-world-officially-advises-the-cardinals-of-bra.md)
-_Context: Conference of Bishops, Cardinal, conclave, Archbishop of SGBPo Paulo, mass media, Odilo Scherer, Brazilian, Brazil_
+_Context: Brazil, Brazilian, Conference of Bishops, Cardinal, Odilo Scherer, conclave, mass media, Archbishop of SGBPo Paulo_
 
 ##### Y-chromosome haplogroup
 ### [A newly discovered Y-chromosome haplogroup is thought to push back the time of Y-chromosomal Adam to 338,000 years ago. ](/news/2013/03/6/a-newly-discovered-y-chromosome-haplogroup-is-thought-to-push-back-the-time-of-y-chromosomal-adam-to-338-000-years-ago.md)
-_Context: push back, Y-chromosomal Adam, Y-chromosome haplogroup_
+_Context: Y-chromosomal Adam, Y-chromosome haplogroup, push back_
 
 ## [Previous Day...](/news/2013/03/5/index.md)
 

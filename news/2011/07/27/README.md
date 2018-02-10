@@ -9,7 +9,7 @@ Norway&#x27;s&#x20;Prime&#x20;Minister&#x20;Jens&#x20;Stoltenberg&#x20;said&#x20
 
 ##### Ghulam Haidar Hameedi
 ### [Ghulam Haidar Hameedi, mayor of Kandahar, is killed in a suicide bombing. ](/news/2011/07/27/ghulam-haidar-hameedi-mayor-of-kandahar-is-killed-in-a-suicide-bombing.md)
-_Context: Kandahar, suicide bombing, Ghulam Haidar Hameedi_
+_Context: Kandahar, Ghulam Haidar Hameedi, suicide bombing_
 
 ##### NATO
 ### [NATO intervenes in the border clashes between Kosovo and Serbia. ](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.md)
@@ -25,7 +25,7 @@ _Context: South Korea, Chuncheon, landslide_
 
 ##### United Nations
 ### [The United Nations World Food Programme prepares an airlift to Mogadishu in Somalia to help relieve the 2011 Horn of Africa famine. ](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.md)
-_Context: Somalia, Mogadishu, famine, United Nations, World Food Programme_
+_Context: famine, United Nations, Somalia, World Food Programme, Mogadishu_
 
 ##### 2011 Pacific typhoon season
 ### [At least seventeen people are dead and 25 missing after Severe Tropical Storm Nock-ten (Juaning) hits the Philippines. ](/news/2011/07/27/at-least-seventeen-people-are-dead-and-25-missing-after-severe-tropical-storm-nock-ten-juaning-hits-the-philippines.md)
@@ -33,7 +33,7 @@ _Context: 2011 Pacific typhoon season, Philippines_
 
 ##### Tropical storm
 ### [A tropical storm watch is issued for Tropical Storm Don in the US state of Texas between Port Mansfield north to San Luis Pass. ](/news/2011/07/27/a-tropical-storm-watch-is-issued-for-tropical-storm-don-in-the-us-state-of-texas-between-port-mansfield-north-to-san-luis-pass.md)
-_Context: Port Mansfield, San Luis Pass, tropical storm, Tropical Storm Don, Texas_
+_Context: San Luis Pass, Texas, Port Mansfield, Tropical Storm Don, tropical storm_
 
 ##### 10 Downing Street
 ### [The Government of the United Kingdom expels Libyan diplomats loyal to Muammar Gaddafi from the United Kingdom and recognises the National Transitional Council. ](/news/2011/07/27/the-government-of-the-united-kingdom-expels-libyan-diplomats-loyal-to-muammar-gaddafi-from-the-united-kingdom-and-recognises-the-national-tr.md)
@@ -65,7 +65,7 @@ House Republicans delayed a vote on their bill to lift the debt ceiling as they 
 
 ##### Spanish politicians
 ### [Spanish protesters known as the "Indignants" begin a march from Madrid to Brussels in Belgium to protest at cuts in government expenditure in Spain. ](/news/2011/07/27/spanish-protesters-known-as-the-indignants-begin-a-march-from-madrid-to-brussels-in-belgium-to-protest-at-cuts-in-government-expenditure-i.md)
-_Context: Spain, Spanish politicians, Brussels, Belgium, Madrid_
+_Context: Madrid, Spain, Belgium, Brussels, Spanish politicians_
 
 ## [Previous Day...](/news/2011/07/26/index.md)
 

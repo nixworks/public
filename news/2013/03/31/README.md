@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/31/index.html)  [JSON](2013/03/31/index.json)  [XML](201
 
 ##### Adnan Wazir
 ### [A bomb kills two people and injures six others, including Adnan Wazir, a former Member of Parliament of the Awami National Party, in Bannu, Khyber Pakhtunkhwa, Pakistan. ](/news/2013/03/31/a-bomb-kills-two-people-and-injures-six-others-including-adnan-wazir-a-former-member-of-parliament-of-the-awami-national-party-in-bannu.md)
-_Context: Bannu District, Adnan Wazir, Awami National Party, Northwestern Pakistan, Parliament's, Pakistan_
+_Context: Awami National Party, Northwestern Pakistan, Parliament's, Pakistan, Bannu District, Adnan Wazir_
 
 ##### Islam
 ### [Rebel Islamist fighters attempt to infiltrate Timbuktu, but are repelled by French and Malian forces. ](/news/2013/03/31/rebel-islamist-fighters-attempt-to-infiltrate-timbuktu-but-are-repelled-by-french-and-malian-forces.md)
@@ -33,7 +33,7 @@ Thousands of barrels spill near town of Mayflower in Arkansas state in second cr
 
 ##### Multi-car pile-up
 ### [Three people are killed and more than 25 people are injured in a 100-vehicle pileup near the Virginia-North Carolina border. ](/news/2013/03/31/three-people-are-killed-and-more-than-25-people-are-injured-in-a-100-vehicle-pileup-near-the-virginia-north-carolina-border.md)
-_Context: North Carolina, Virginia, multi-car pile-up_
+_Context: North Carolina, multi-car pile-up, Virginia_
 
 ##### Flooding
 ### [Widespread flooding in Port Louis, Mauritius, leads to at least 11 deaths. ](/news/2013/03/31/widespread-flooding-in-port-louis-mauritius-leads-to-at-least-11-deaths.md)
@@ -41,7 +41,7 @@ At LEAST 11 people have died in flooding in the Mauritian capital Port Louis, of
 
 ##### China
 ### [Two people die in China from H7N9 avian influenza infection - a sub-type that had not previously been transmitted to humans. ](/news/2013/03/31/two-people-die-in-china-from-h7n9-avian-influenza-infection-a-a-sub-type-that-had-not-previously-been-transmitted-to-humans.md)
-_Context: avian influenza, China, H7N9 avian flu virus_
+_Context: China, avian influenza, H7N9 avian flu virus_
 
 ##### Afghanistan President
 ### [President of Afghanistan Hamid Karzai meets with Sheikh Hamad bin Khalifa Al Thani, the Emir of Qatar, to discuss plans for the Taliban to open an office in Doha in order to help solve the conflict in Afghanistan. ](/news/2013/03/31/president-of-afghanistan-hamid-karzai-meets-with-sheikh-hamad-bin-khalifa-al-thani-the-emir-of-qatar-to-discuss-plans-for-the-taliban-to-o.md)
@@ -53,11 +53,11 @@ Leader Kim Jong-Un presides over a party meeting that declares Pyongyang&#039;s 
 
 ##### District Attorney
 ### [A suspect is being sought in connection with the slayings of Kaufman County District Attorney Mike McLelland and his wife, whose bodies were found at their home in Kaufman County, Texas, United States. ](/news/2013/03/31/a-suspect-is-being-sought-in-connection-with-the-slayings-of-kaufman-county-district-attorney-mike-mclelland-and-his-wife-whose-bodies-were.md)
-_Context: United States, District Attorney, Kaufman County, Texas_
+_Context: Texas, District Attorney, Kaufman County, United States_
 
 ##### Gang
 ### [Three people are shot and killed and two others are wounded during a gang-related shooting at a party in Merced, California, United States. ](/news/2013/03/31/three-people-are-shot-and-killed-and-two-others-are-wounded-during-a-gang-related-shooting-at-a-party-in-merced-california-united-states.md)
-_Context: California, Merced, United States, gang_
+_Context: gang, California, Merced, United States_
 
 ##### Christians
 ### [Christians across the globe celebrate Easter, Christianity's most sacred holiday. ](/news/2013/03/31/christians-across-the-globe-celebrate-easter-christianity-s-most-sacred-holiday.md)

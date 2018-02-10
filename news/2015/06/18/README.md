@@ -25,7 +25,7 @@ Hong Kong’s legislature rejected a Beijing-backed election-reform plan, dealin
 
 ##### Holy See
 ### [At the Vatican, Pope Francis's officials in the Roman Curia formally release the text of his most recent encyclical, "Laudato si"'. The text, which had been quite anticipated by many sides on the climate change debate and been criticized by some for his involvement in the politicized and charged issue, had been previously leaked. ](/news/2015/06/18/at-the-vatican-pope-francis-s-officials-in-the-roman-curia-formally-release-the-text-of-his-most-recent-encyclical-laudato-si-the-text.md)
-_Context: Pope Francis, encyclical, Laudato si', Roman Curia, Holy See_
+_Context: Holy See, Pope Francis, Laudato si', encyclical, Roman Curia_
 
 ## [Previous Day...](/news/2015/06/17/index.md)
 

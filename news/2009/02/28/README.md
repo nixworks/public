@@ -5,39 +5,39 @@ Formats: [HTML](2009/02/28/index.html)  [JSON](2009/02/28/index.json)  [XML](200
 
 ##### Carpatair
 ### [ Carpatair Flight 128 - a Saab 2000 bound for Timisoara, Romania, from Chisinau, Moldova, and carrying 51 people - makes an emergency landing at Traian Vuia International Airport without its forward landing gear. ](/news/2009/02/28/carpatair-flight-128-a-a-saab-2000-bound-for-timiaoara-romania-from-chiainau-moldova-and-carrying-51-people-a-makes-an-emergency.md)
-_Context: undercarriage, Flight 128, Chisinau, Timisoara, emergency landing, Moldova, Romania, Carpatair, Traian Vuia International Airport, Saab 2000_
+_Context: Traian Vuia International Airport, undercarriage, Flight 128, Romania, Saab 2000, Moldova, emergency landing, Chisinau, Timisoara, Carpatair_
 
 ##### Burma
 ### [ Burma's government announces it will allow Rohingyas who have fled to neighboring countries to return only if they identify themselves as Bengalis. ](/news/2009/02/28/burma-s-government-announces-it-will-allow-rohingyas-who-have-fled-to-neighboring-countries-to-return-only-if-they-identify-themselves-as-b.md)
-_Context: government, Burma, Rohingya, Bengalis_
+_Context: Burma, Bengalis, Rohingya, government_
 
 ##### China
 ### [ Chinese Premier Wen Jiabao holds the first online discussion with Internet users before the National People's Congress's annual plenary session. ](/news/2009/02/28/chinese-premier-wen-jiabao-holds-the-first-online-discussion-with-internet-users-before-the-national-people-s-congress-s-annual-plenary-ses.md)
-_Context: Premier, Wen Jiabao, Internet, China, parliament, National People's Congress_
+_Context: parliament, Internet, Wen Jiabao, National People's Congress, China, Premier_
 
 ##### Standing Committee of the National People's Congress
 ### [ The Standing Committee of China's NPC approves the Food Safety Law, which will enhance supervision and strengthen quality standards. ](/news/2009/02/28/the-standing-committee-of-china-s-npc-approves-the-food-safety-law-which-will-enhance-supervision-and-strengthen-quality-standards.md)
-_Context: China, parliament, binding rules, Food Safety, quality standards, Standing Committee of the National People's Congress_
+_Context: Standing Committee of the National People's Congress, China, binding rules, parliament, Food Safety, quality standards_
 
 ##### California
 ### [ California Governor Arnold Schwarzenegger declares a state of emergency, due to severe drought. ](/news/2009/02/28/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-due-to-severe-drought.md)
-_Context: Arnold Schwarzenegger, drought, state of emergency, Governor of California, California_
+_Context: Arnold Schwarzenegger, drought, Governor of California, California, state of emergency_
 
 ##### Zimbabwe
 ### [ Zimbabwean President Robert Mugabe vows to continue his policy of distributing land from white to black farmers. ](/news/2009/02/28/zimbabwean-president-robert-mugabe-vows-to-continue-his-policy-of-distributing-land-from-white-to-black-farmers.md)
-_Context: Zimbabwe, Robert Mugabe, President, distributing land from white to black farmers_
+_Context: distributing land from white to black farmers, Robert Mugabe, President, Zimbabwe_
 
 ##### Colombia
 ### [ Colombia's military kills ten and captures eight Revolutionary Armed Forces members in Cundinamarca. ](/news/2009/02/28/colombia-s-military-kills-ten-and-captures-eight-revolutionary-armed-forces-members-in-cundinamarca.md)
-_Context: Colombia, Revolutionary Armed Forces of Colombia, Cundinamarca, military_
+_Context: Revolutionary Armed Forces of Colombia, Cundinamarca, Colombia, military_
 
 ##### Gene
 ### [ A gene linked to a genetic motor neurone disease is discovered. ](/news/2009/02/28/a-gene-linked-to-a-genetic-motor-neurone-disease-is-discovered.md)
-_Context: inherited, gene, motor neurone disease_
+_Context: gene, motor neurone disease, inherited_
 
 ##### Bangladesh
 ### [ Bangladesh's Army finds more mass graves where Bangladesh Rifles mutinied in Dhaka. ](/news/2009/02/28/bangladesh-s-army-finds-more-mass-graves-where-bangladesh-rifles-mutinied-in-dhaka.md)
-_Context: Dhaka, Bangladesh, army, 2009 Bangladesh Rifles revolt, Bangladesh Rifles, mass grave_
+_Context: 2009 Bangladesh Rifles revolt, mass grave, Bangladesh Rifles, Bangladesh, army, Dhaka_
 
 ##### Holy See
 ### [ The Holy See claims that the Roman Catholic Church's number of priests is slowly rising. ](/news/2009/02/28/the-holy-see-claims-that-the-roman-catholic-church-s-number-of-priests-is-slowly-rising.md)

@@ -25,7 +25,7 @@ Iran begins a relief operation after twin earthquakes in the north-west of the c
 
 ##### Himachal Pradesh
 ### [At least 52 people are killed and 46 wounded in a bus crash in Himachal Pradesh state of India. ](/news/2012/08/11/at-least-52-people-are-killed-and-46-wounded-in-a-bus-crash-in-himachal-pradesh-state-of-india.md)
-_Context: Himachal Pradesh, India_
+_Context: India, Himachal Pradesh_
 
 ##### Bangladesh
 ### [At least 13 people are killed and 15 injured as a result of a lightning strike at a mosque in a remote village in northeast Bangladesh. ](/news/2012/08/11/at-least-13-people-are-killed-and-15-injured-as-a-result-of-a-lightning-strike-at-a-mosque-in-a-remote-village-in-northeast-bangladesh.md)
@@ -33,7 +33,7 @@ _Context: Bangladesh_
 
 ##### Mitt Romney
 ### [Mitt Romney, the presumptive Republican Party nominee for the United States presidency, names Wisconsin Congressman Paul Ryan as the Republican Party's vice presidential candidate in the presidential election in November. ](/news/2012/08/11/mitt-romney-the-presumptive-republican-party-nominee-for-the-united-states-presidency-names-wisconsin-congressman-paul-ryan-as-the-republi.md)
-_Context: Paul Ryan, Republican, presumptive, Wisconsin, Mitt Romney, U.S. President, United States presidential election, 2012, vice presidential candidate_
+_Context: presumptive, U.S. President, Wisconsin, United States presidential election, 2012, Republican, vice presidential candidate, Mitt Romney, Paul Ryan_
 
 ## [Previous Day...](/news/2012/08/10/index.md)
 

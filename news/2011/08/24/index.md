@@ -9,7 +9,7 @@ Col Muammar Gaddafi last night reportedly vowed death or victory in the fight ag
 
 ##### Al-Qaeda
 ### [Air strikes kill 30 Al-Qaeda linked militants near Zinjibar in Yemen's Abyan Governorate with eight army soldiers killed in fighting. ](/news/2011/08/24/air-strikes-kill-30-al-qaeda-linked-militants-near-zinjibar-in-yemen-s-abyan-governorate-with-eight-army-soldiers-killed-in-fighting.md)
-_Context: Yemen, al-Qaeda, Zinjibar, Yemeni Army, Abyan Governorate_
+_Context: Yemeni Army, Zinjibar, al-Qaeda, Yemen, Abyan Governorate_
 
 ##### Moody's
 ### [Moody's credit rating agency downgrades Japan to Aa3 due to weak economic growth prospects and high levels of public debt. ](/news/2011/08/24/moody-s-credit-rating-agency-downgrades-japan-to-aa3-due-to-weak-economic-growth-prospects-and-high-levels-of-public-debt.md)
@@ -33,7 +33,7 @@ _Context: its nuclear weapons program, North Korea_
 
 ##### State police
 ### [Russian police arrest a former senior police officer Dmitry Pavlyuchenkov suspected of organising the murder of former Kremlin reporter Anna Politkovskaya in 2006. ](/news/2011/08/24/russian-police-arrest-a-former-senior-police-officer-dmitry-pavlyuchenkov-suspected-of-organising-the-murder-of-former-kremlin-reporter-anna.md)
-_Context: Kremlin, state police, Anna Politkovskaya_
+_Context: state police, Anna Politkovskaya, Kremlin_
 
 ## [Previous Day...](/news/2011/08/23/index.md)
 

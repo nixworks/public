@@ -5,19 +5,19 @@ Formats: [HTML](2009/04/5/index.html)  [JSON](2009/04/5/index.json)  [XML](2009/
 
 ##### PCRM
 ### [ The Communist Party wins an absolute majority in Moldova's parliamentary election. ](/news/2009/04/5/the-communist-party-wins-an-absolute-majority-in-moldova-s-parliamentary-election.md)
-_Context: absolute majority, election, Moldova, PCRM, Parliament_
+_Context: election, Moldova, absolute majority, PCRM, Parliament_
 
 ##### Strategic Command systems
 ### [ North American Aerospace Defense Command and United States Northern Command report that North Korea's Bright Star-2 communications satellite did not reach Earth's orbit. ](/news/2009/04/5/north-american-aerospace-defense-command-and-united-states-northern-command-report-that-north-korea-s-bright-star-2-communications-satellit.md)
-_Context: Kwangmyongsong-2, orbit, Earth, Strategic Command systems, communications satellite, United States Northern Command, North Korea_
+_Context: orbit, communications satellite, Strategic Command systems, Kwangmyongsong-2, United States Northern Command, North Korea, Earth_
 
 ##### United States
 ### [ U.S. President Barack Obama announces his plan for worldwide nuclear disarmament. ](/news/2009/04/5/u-s-president-barack-obama-announces-his-plan-for-worldwide-nuclear-disarmament.md)
-_Context: United States, free, Barack Obama, nuclear warheads, U.S. President_
+_Context: nuclear warheads, United States, Barack Obama, free, U.S. President_
 
 ##### Second round
 ### [ The second round of Macedonia's presidential election takes place. ](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.md)
-_Context: Republic of Macedonia, presidential, election, second round_
+_Context: second round, presidential, election, Republic of Macedonia_
 
 ## [Previous Day...](/news/2009/04/4/index.md)
 

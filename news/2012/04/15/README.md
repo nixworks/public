@@ -17,11 +17,11 @@ Nearly 400 prisoners including militants escaped early Sunday from a jail in nor
 
 ##### Sudan
 ### [Sudanese warplanes bomb the border town of Heglig, seized by South Sudan last week. ](/news/2012/04/15/sudanese-warplanes-bomb-the-border-town-of-heglig-seized-by-south-sudan-last-week.md)
-_Context: Sudan, South Sudan, Heglig_
+_Context: South Sudan, Sudan, Heglig_
 
 ##### Russia
 ### [Russian Orthodox patriarch Kirill says the church is stronger than its critics after a series of scandals. ](/news/2012/04/15/russian-orthodox-patriarch-kirill-says-the-church-is-stronger-than-its-critics-after-a-series-of-scandals.md)
-_Context: Russia, Orthodox, Kirill_
+_Context: Orthodox, Russia, Kirill_
 
 ##### Spain
 ### [Spanish King Juan Carlos is criticised for going on a hunting trip to Botswana while his country is in an economic crisis. ](/news/2012/04/15/spanish-king-juan-carlos-is-criticised-for-going-on-a-hunting-trip-to-botswana-while-his-country-is-in-an-economic-crisis.md)
@@ -37,15 +37,15 @@ Police beef up airport presence in anticipation of pro-Palestinians&#8217; arriv
 
 ##### U.S. Secret Service
 ### [The U.S. Secret Service announces it has put 11 agents on leave while it investigates alleged "inappropriate conduct" in Cartagena, Colombia, before the 6th Summit of the Americas there attended by U.S. President Barack Obama. It emerges that five soldiers are also facing investigation. ](/news/2012/04/15/the-u-s-secret-service-announces-it-has-put-11-agents-on-leave-while-it-investigates-alleged-inappropriate-conduct-in-cartagena-colombia.md)
-_Context: Barack Obama, U.S. Secret Service, Cartagena, 6th Summit of the Americas_
+_Context: 6th Summit of the Americas, Cartagena, U.S. Secret Service, Barack Obama_
 
 ##### North Korea
 ### [In his first public speech, North Korean leader Kim Jong-un calls for a push towards "final victory" at a ceremony in Kim Il-sung Square in the capital Pyongyang. ](/news/2012/04/15/in-his-first-public-speech-north-korean-leader-kim-jong-un-calls-for-a-push-towards-final-victory-at-a-ceremony-in-kim-il-sung-square-in.md)
-_Context: Pyongyang, Kim Il-sung Square, North Korea, Kim Jong-un_
+_Context: Kim Jong-un, Pyongyang, North Korea, Kim Il-sung Square_
 
 ##### Swaziland
 ### [Police in Swaziland detain at least seven activists on their way to a pro-democracy church service in the city of Manzini. ](/news/2012/04/15/police-in-swaziland-detain-at-least-seven-activists-on-their-way-to-a-pro-democracy-church-service-in-the-city-of-manzini.md)
-_Context: Manzini, Swaziland, democratic_
+_Context: democratic, Swaziland, Manzini_
 
 ##### Belarus
 ### [Belarus releases a second opposition leader amid pressure from the European Union. ](/news/2012/04/15/belarus-releases-a-second-opposition-leader-amid-pressure-from-the-european-union.md)
@@ -53,7 +53,7 @@ An opposition leader in Belarus was released from prison after serving two years
 
 ##### Thailand
 ### [Former Thai prime minister Thaksin Shinawatra plans an early return from exile. ](/news/2012/04/15/former-thai-prime-minister-thaksin-shinawatra-plans-an-early-return-from-exile.md)
-_Context: Thailand, Thaksin Shinawatra_
+_Context: Thaksin Shinawatra, Thailand_
 
 ## [Previous Day...](/news/2012/04/14/index.md)
 

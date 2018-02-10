@@ -21,7 +21,7 @@ At least eight people are killed by attackers with machetes near Jos in Nigeria,
 
 ##### South Korea
 ### [South Korea develops a long-range cruise missile capable of striking North Korea, Japan, Russia and China. ](/news/2010/07/17/south-korea-develops-a-long-range-cruise-missile-capable-of-striking-north-korea-japan-russia-and-china.md)
-_Context: Russia, South Korea, North Korea, Japan_
+_Context: Russia, North Korea, Japan, South Korea_
 
 ##### Assault rifles
 ### [Suspected militants armed with assault rifles attack a bus in northwest Pakistan near the Afghanistan border, resulting in at least 16 casualties. ](/news/2010/07/17/suspected-militants-armed-with-assault-rifles-attack-a-bus-in-northwest-pakistan-near-the-afghanistan-border-resulting-in-at-least-16-casua.md)
@@ -31,7 +31,7 @@ Suspected militants armed with assault rifles have killed up to 16 bus passenger
 ### [Thousands of mourners gather in Zahedan for a mass funeral for those killed in recent bombings; Iranian officials indicate that they believe the West carried out the atrocities. ](/news/2010/07/17/thousands-of-mourners-gather-in-zahedan-for-a-mass-funeral-for-those-killed-in-recent-bombings-iranian-officials-indicate-that-they-believe.md)
 Iran blamed the West and Israel on Saturday for twin suicide bombings which killed at least 27 people, despite condemnation of the attack by the European Union, United Nations and United States.
 
-##### Mexico
+##### Mexican
 ### [The Mexican military says Thursday's attack in Ciudad Juarez was a car bomb. ](/news/2010/07/17/the-mexican-military-says-thursday-s-attack-in-ciudad-jua-rez-was-a-car-bomb.md)
 Attack follows the arrest of Jesus Armando Acosta Guerrero, an alleged drug baron.
 
@@ -61,11 +61,11 @@ _Context: Israel, West Bank_
 
 ##### Typhoon Conson
 ### [Typhoon Conson makes landfall near Hai Phong, Vietnam, after devastating Southern China and the Philippines with at least 65 dead. ](/news/2010/07/17/typhoon-conson-makes-landfall-near-hai-phong-vietnam-after-devastating-southern-china-and-the-philippines-with-at-least-65-dead.md)
-_Context: Typhoon Conson, Hai Phong, Philippines, Vietnam_
+_Context: Vietnam, Philippines, Typhoon Conson, Hai Phong_
 
 ##### Israel
 ### [One month after Israel's announcement it was easing its Gazan blockade the humanitarian situation remains dire. ](/news/2010/07/17/one-month-after-israel-s-announcement-it-was-easing-its-gazan-blockade-the-humanitarian-situation-remains-dire.md)
-_Context: Israel, Gaza Strip_
+_Context: Gaza Strip, Israel_
 
 ##### Dalian
 ### [More than 2,000 firefighters fight a fire at the port of Dalian after two oil pipelines explode. ](/news/2010/07/17/more-than-2-000-firefighters-fight-a-fire-at-the-port-of-dalian-after-two-oil-pipelines-explode.md)
@@ -77,7 +77,7 @@ _Context: Greece_
 
 ##### Coal mine
 ### [Twenty-eight coal miners die after a fire in their mine near Hancheng City in China's Shaanxi Province. ](/news/2010/07/17/twenty-eight-coal-miners-die-after-a-fire-in-their-mine-near-hancheng-city-in-china-s-shaanxi-province.md)
-_Context: coal mine, Hancheng City, China, Shaanxi Province_
+_Context: coal mine, China, Shaanxi Province, Hancheng City_
 
 ##### Guido Westerwelle
 ### [German Foreign Minister Guido Westerwelle criticises a reported Israeli plan that would lead to Gaza's separation from the rest of the Palestinian territories becoming final. ](/news/2010/07/17/german-foreign-minister-guido-westerwelle-criticises-a-reported-israeli-plan-that-would-lead-to-gaza-s-separation-from-the-rest-of-the-pales.md)
@@ -85,7 +85,7 @@ German Foreign Minister Guido Westerwelle criticized on Saturday a reported Isra
 
 ##### High Representative of the Union for Foreign Affairs and Security Policy
 ### [High Representative of the Union for Foreign Affairs and Security Policy Catherine Ashton attends a joint press conference with Palestinian Prime Minister Salam Fayyad after their meeting in Ramallah. ](/news/2010/07/17/high-representative-of-the-union-for-foreign-affairs-and-security-policy-catherine-ashton-attends-a-joint-press-conference-with-palestinian.md)
-_Context: Catherine Ashton, High Representative of the Union for Foreign Affairs and Security Policy, Ramallah, Salam Fayyad_
+_Context: High Representative of the Union for Foreign Affairs and Security Policy, Salam Fayyad, Catherine Ashton, Ramallah_
 
 ##### Venezuela
 ### [Venezuela recalls its ambassador to Colombia following Colombian accusations that Venezuela is hosting rebels on its territory. ](/news/2010/07/17/venezuela-recalls-its-ambassador-to-colombia-following-colombian-accusations-that-venezuela-is-hosting-rebels-on-its-territory.md)
@@ -93,7 +93,7 @@ Move comes as Caracas rejects Colombian charges that it hosts rebels on its terr
 
 ##### German
 ### [German minister Ilse Aigner expresses annoyance at Facebook's privacy policy, saying the website is breaking the law by collecting information such as phone numbers. ](/news/2010/07/17/german-minister-ilse-aigner-expresses-annoyance-at-facebook-s-privacy-policy-saying-the-website-is-breaking-the-law-by-collecting-informati.md)
-_Context: Facebook, Ilse Aigner, German_
+_Context: Ilse Aigner, Facebook, German_
 
 ##### Bangladesh
 ### [Bangladeshi police arrest an army major who allegedly possessed hundreds of bottles of Phensedyl, an illegal cough syrup. ](/news/2010/07/17/bangladeshi-police-arrest-an-army-major-who-allegedly-possessed-hundreds-of-bottles-of-phensedyl-an-illegal-cough-syrup.md)
@@ -101,7 +101,7 @@ Police in northern Bangladesh arrest an army major for allegedly carrying hundre
 
 ##### Hugo Chavez
 ### [Hugo Chavez exhumes the corpse of Simon Bolivar to investigate suspicions of foul play being involved in his death. ](/news/2010/07/17/hugo-cha-vez-exhumes-the-corpse-of-sima3n-bolavar-to-investigate-suspicions-of-foul-play-being-involved-in-his-death.md)
-_Context: Hugo Chavez, Simon Bolivar_
+_Context: Simon Bolivar, Hugo Chavez_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard calls a federal election for 21 August 2010. ](/news/2010/07/17/the-prime-minister-of-australia-julia-gillard-calls-a-federal-election-for-21-august-2010.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2006/09/30/index.html)  [JSON](2006/09/30/index.json)  [XML](200
 
 ##### Los Angeles Times
 ### [ The "Los Angeles Times" has reported that Jason Grimsley, a former pitcher for several Major League Baseball teams who has been accused of supplying performance-enhancing drugs to several players, allegedly named stars Roger Clemens, Andy Pettitte, and Miguel Tejada in a sworn statement as users of performance-enhancers. ](/news/2006/09/30/the-los-angeles-times-has-reported-that-jason-grimsley-a-former-pitcher-for-several-major-league-baseball-teams-who-has-been-accused-of.md)
-_Context: Los Angeles Times, Jason Grimsley, doping, Miguel Tejada, Major League Baseball, Roger Clemens, Andy Pettitte_
+_Context: Miguel Tejada, Los Angeles Times, Roger Clemens, Jason Grimsley, Major League Baseball, doping, Andy Pettitte_
 
 ##### Nigeria
 ### [ In Nigeria, the collapse of a dam wall kills forty people in Gusau, Zamfara state. ](/news/2006/09/30/in-nigeria-the-collapse-of-a-dam-wall-kills-forty-people-in-gusau-zamfara-state.md)
@@ -21,7 +21,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### European Union
 ### [ Talks between the European Union and the United States Department of Homeland Security on the transfer of airline passenger data break down. The US demands over 30 items of data on each passenger, an earlier agreement which had been deemed to break European privacy laws. Midnight tonight was the deadline for reaching a new agreement. Airlines face losing landing rights in the US if they do not provide the information, and heavy fines in the EU if they do. ](/news/2006/09/30/talks-between-the-european-union-and-the-united-states-department-of-homeland-security-on-the-transfer-of-airline-passenger-data-break-down.md)
-_Context: European Union, Department of Homeland Security, United States_
+_Context: United States, European Union, Department of Homeland Security_
 
 ##### Autoroute 19
 ### [ Three lanes of the overpass on Boulevard de la Concorde and a pedestrian sidewalk collapsed onto Autoroute 19 in the Montreal area, Quebec. Two cars were trapped under, 5 were killed and at least 6 are injured, 2 critically. ](/news/2006/09/30/three-lanes-of-the-overpass-on-boulevard-de-la-concorde-and-a-pedestrian-sidewalk-collapsed-onto-autoroute-19-in-the-montreal-area-quebec.md)

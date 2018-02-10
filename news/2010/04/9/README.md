@@ -33,15 +33,15 @@ _Context: Thailand, red shirt_
 
 ##### German
 ### [Germany charges a former member of the Red Army Faction (RAF) in connection with the murder of Attorney General Siegfried Buback, who was shot alongside two other men in 1977. ](/news/2010/04/9/germany-charges-a-former-member-of-the-red-army-faction-raf-in-connection-with-the-murder-of-attorney-general-siegfried-buback-who-was-sh.md)
-_Context: Siegfried Buback, German, Red Army Faction, Attorney General of Germany_
+_Context: Red Army Faction, Attorney General of Germany, German, Siegfried Buback_
 
 ##### Sri Lanka
 ### [Sri Lanka's governing coalition wins a majority in the country's 2010 parliamentary election. ](/news/2010/04/9/sri-lanka-s-governing-coalition-wins-a-majority-in-the-country-s-2010-parliamentary-election.md)
-_Context: Sri Lanka, parliamentary election_
+_Context: parliamentary election, Sri Lanka_
 
 ##### Sudan
 ### [Ahead of Sudan's first multi-party elections in 24 years, some opposition parties criticise lack of access to balanced media coverage and accuse the government of manipulation. ](/news/2010/04/9/ahead-of-sudan-s-first-multi-party-elections-in-24-years-some-opposition-parties-criticise-lack-of-access-to-balanced-media-coverage-and-ac.md)
-_Context: post-election protests, Sudan_
+_Context: Sudan, post-election protests_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI encounters allegations he was responsible for obstructing the punishment of American paedophile priest Stephen Kiesle by signing ](/news/2010/04/9/pope-benedict-xvi-encounters-allegations-he-was-responsible-for-obstructing-the-punishment-of-american-paedophile-priest-stephen-kiesle-by-s.md)
@@ -61,15 +61,15 @@ A militant group linked to al Qaeda has claimed responsibility for suicide car b
 
 ##### Metro
 ### [Shanghai Metro Line 2 opens service to Pudong International Airport. ](/news/2010/04/9/shanghai-metro-line-2-opens-service-to-pudong-international-airport.md)
-_Context: Line 2, metro, Pudong International Airport_
+_Context: Pudong International Airport, metro, Line 2_
 
 ##### Air Force
 ### [U.S. helicopter - Air Force CV-22 Osprey - crashes in southern Afghanistan, killing three U.S. service members and one civilian employee. Zabiullah Mujahid says Taliban fighters shot down the chopper. ](/news/2010/04/9/u-s-helicopter-air-force-cv-22-osprey-crashes-in-southern-afghanistan-killing-three-u-s-service-members-and-one-civilian-employee-za.md)
-_Context: Taliban, CV-22 Osprey, Zabiullah Mujahid, Afghanistan, Air Force_
+_Context: Afghanistan, CV-22 Osprey, Taliban, Zabiullah Mujahid, Air Force_
 
 ##### Justice
 ### [Associate Justice John Paul Stevens of the U.S. Supreme Court announces his retirement after serving on the court for 34 years. ](/news/2010/04/9/associate-justice-john-paul-stevens-of-the-u-s-supreme-court-announces-his-retirement-after-serving-on-the-court-for-34-years.md)
-_Context: Justice, John Paul Stevens, Supreme Court of the United States_
+_Context: Supreme Court of the United States, Justice, John Paul Stevens_
 
 ##### Tangshan
 ### [ 4.1-magnitude earthquake jolts northern Chinese city of Tangshan. ](/news/2010/04/9/4-1-magnitude-earthquake-jolts-northern-chinese-city-of-tangshan.md)
@@ -77,7 +77,7 @@ _Context: Tangshan_
 
 ##### World Bank
 ### [ The World Bank approves a $3.75 billion loan for a coal-fired power plant in South Africa. ](/news/2010/04/9/the-world-bank-approves-a-3-75-billion-loan-for-a-coal-fired-power-plant-in-south-africa.md)
-_Context: South Africa,  coal based electricity, World Bank_
+_Context:  coal based electricity, South Africa, World Bank_
 
 ## [Previous Day...](/news/2010/04/8/index.md)
 

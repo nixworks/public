@@ -13,15 +13,15 @@ Twelve Palestinians, including the leader of the Popular Resistance Committees, 
 
 ##### Ashkelon Coast Regional Council
 ### [A Thai worker in the Ashkelon Coast Regional Council in Israel is injured by shrapnel of a rocket fired from the Gaza Strip. The Iron Dome mobile air defence system intercepts various rockets fired from the Gaza Strip at Ashdod. ](/news/2012/03/9/a-thai-worker-in-the-ashkelon-coast-regional-council-in-israel-is-injured-by-shrapnel-of-a-rocket-fired-from-the-gaza-strip-the-iron-dome-m.md)
-_Context: Ashkelon Coast Regional Council, Ashdod, Iron Dome_
+_Context: Ashdod, Iron Dome, Ashkelon Coast Regional Council_
 
 ##### Italy
 ### [Italian President Giorgio Napolitano calls on the British government to explain why it did not inform Italy about an attempt to rescue hostages Chris McManus and Franco Lamolinara until after the operation had been carried out. ](/news/2012/03/9/italian-president-giorgio-napolitano-calls-on-the-british-government-to-explain-why-it-did-not-inform-italy-about-an-attempt-to-rescue-hosta.md)
-_Context: President of Italy, 10 Downing Street, Italy, Giorgio Napolitano_
+_Context: President of Italy, Giorgio Napolitano, Italy, 10 Downing Street_
 
 ##### Simin Daneshvar
 ### [Simin Daneshvar, Iranian academic, novelist, fiction writer and translator dies at the age of 90. ](/news/2012/03/9/simin-daneshvar-iranian-academic-novelist-fiction-writer-and-translator-dies-at-the-age-of-90.md)
-_Context: Iran, Simin Daneshvar_
+_Context: Simin Daneshvar, Iran_
 
 ##### British Film Institute
 ### [The British Film Institute announces the rediscovery of the world's oldest Charles Dickens film, dating from 1901 and featuring a depiction of a character from "Bleak House". ](/news/2012/03/9/the-british-film-institute-announces-the-rediscovery-of-the-world-s-oldest-charles-dickens-film-dating-from-1901-and-featuring-a-depiction.md)
@@ -33,11 +33,11 @@ _Context: Pottermore_
 
 ##### Bankruptcy
 ### [A bankruptcy court appointed examiner, Susheel Kirpalani, issues a detailed report highly critical of the pre-bankruptcy restructuring of Dynegy Inc at the expense of bondholders and for the benefit of Carl Icahn and other shareholders. ](/news/2012/03/9/a-bankruptcy-court-appointed-examiner-susheel-kirpalani-issues-a-detailed-report-highly-critical-of-the-pre-bankruptcy-restructuring-of-dy.md)
-_Context: Carl Icahn, Dynegy Inc, Susheel Kirpalani, bankruptcy_
+_Context: Susheel Kirpalani, Carl Icahn, bankruptcy, Dynegy Inc_
 
 ##### Oxfam
 ### [Oxfam warns of a major food crisis in West Africa unless immediate action is taken. ](/news/2012/03/9/oxfam-warns-of-a-major-food-crisis-in-west-africa-unless-immediate-action-is-taken.md)
-_Context: Oxfam, West Africa_
+_Context: West Africa, Oxfam_
 
 ##### Bangkok
 ### [One person is killed and 20 injured in a hotel fire in Bangkok, Thailand. ](/news/2012/03/9/one-person-is-killed-and-20-injured-in-a-hotel-fire-in-bangkok-thailand.md)
@@ -45,7 +45,7 @@ _Context: Thailand, Bangkok_
 
 ##### China
 ### [China returns 31 North Korean refugees to North Korea, according to activists. ](/news/2012/03/9/china-returns-31-north-korean-refugees-to-north-korea-according-to-activists.md)
-_Context: North Korea, China_
+_Context: China, North Korea_
 
 ##### Bo Xilai
 ### [Chinese politician Bo Xilai speaks out for the first time since his aide attempted to defect at the American consulate. ](/news/2012/03/9/chinese-politician-bo-xilai-speaks-out-for-the-first-time-since-his-aide-attempted-to-defect-at-the-american-consulate.md)
@@ -53,7 +53,7 @@ Bo Xilai, the embattled Communist Party chief of Chongqing, said that he had fai
 
 ##### Commodore
 ### [Commodore Frank Bainimarama, Prime Minister of Fiji's military government, says a new constitution will be ready by February 2013. ](/news/2012/03/9/commodore-frank-bainimarama-prime-minister-of-fiji-s-military-government-says-a-new-constitution-will-be-ready-by-february-2013.md)
-_Context: 2013 constitution, Prime Minister, Fiji, Voreqe Bainimarama, Commodore_
+_Context: 2013 constitution, Fiji, Commodore, Voreqe Bainimarama, Prime Minister_
 
 ##### Lieutenant Governor of South Carolina
 ### [Lieutenant Governor of South Carolina Ken Ard resigns and pleads guilty to criminal charges related to handling of campaign funds. ](/news/2012/03/9/lieutenant-governor-of-south-carolina-ken-ard-resigns-and-pleads-guilty-to-criminal-charges-related-to-handling-of-campaign-funds.md)

@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/15/index.html)  [JSON](2008/01/15/index.json)  [XML](200
 
 ##### Palestinians
 ### [ 20 Palestinians are killed by the Israeli Defense Forces including 14 fighters and five civilians, with 55 people wounded. Hamas leader Mahmoud Zahar's son is killed. Dozens of rockets are fired into Israel by Hamas, landing in the town of Sderot, injuring 4 Israelis. An Ecuadorian laborer is also shot and killed by Hamas. ](/news/2008/01/15/20-palestinians-are-killed-by-the-israeli-defense-forces-including-14-fighters-and-five-civilians-with-55-people-wounded-hamas-leader-mah.md)
-_Context: Israeli Defense Forces, Israel, Sderot, Hamas, Mahmoud Zahar, Palestinians, Ecuadorian, Israelis_
+_Context: Israelis, Israeli Defense Forces, Sderot, Israel, Palestinians, Hamas, Mahmoud Zahar, Ecuadorian_
 
 ##### 2008
 ### [ United States presidential election, 2008: Mitt Romney wins the Republican Michigan primary with John McCain finishing second. Hillary Clinton wins the Democratic contest but she was the only leading contender in that election. Democratic candidates brace for a competitive primary in Nevada while Republicans contend for the South Carolina primary. ](/news/2008/01/15/united-states-presidential-election-2008-mitt-romney-wins-the-republican-michigan-primary-with-john-mccain-finishing-second-hillary-clin.md)
@@ -17,11 +17,11 @@ _Context: northern Iraq, 16 December, Bombing of northern Iraq_
 
 ##### War in Afghanistan
 ### [ War in Afghanistan (2001-present): The Pentagon announces plans to send 3,200 additional Marines to Afghanistan. ](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.md)
-_Context: Afghanistan, Marines, United States military, War in Afghanistan_
+_Context: Afghanistan, War in Afghanistan, Marines, United States military_
 
 ##### United States
 ### [ The U.S. Food and Drug Administration allows the production and sale of foods derived from cloned animals. ](/news/2008/01/15/the-u-s-food-and-drug-administration-allows-the-production-and-sale-of-foods-derived-from-cloned-animals.md)
-_Context: cloning, Food and Drug Administration, United States_
+_Context: Food and Drug Administration, United States, cloning_
 
 ## [Previous Day...](/news/2008/01/14/index.md)
 

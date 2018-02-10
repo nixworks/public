@@ -5,19 +5,19 @@ Formats: [HTML](2006/10/26/index.html)  [JSON](2006/10/26/index.json)  [XML](200
 
 ##### Australia
 ### [ In Australia, Sheikh Taj El-Din Hilaly apologizes after a public uproar over his statement comparing women who did not wear the hijab to "uncovered meat". ](/news/2006/10/26/in-australia-sheikh-taj-el-din-hilaly-apologizes-after-a-public-uproar-over-his-statement-comparing-women-who-did-not-wear-the-hijab-to-u.md)
-_Context: Australia, Taj El-Din Hilaly, hijab_
+_Context: Taj El-Din Hilaly, hijab, Australia_
 
 ##### National Assembly
 ### [ The National Assembly of Nicaragua passes a law banning all abortions in the run-up to general elections.](/news/2006/10/26/the-national-assembly-of-nicaragua-passes-a-law-banning-all-abortions-in-the-run-up-to-general-elections.md)
-_Context: National Assembly, abortion law, Nicaragua, 2006 general election_
+_Context: Nicaragua, abortion law, 2006 general election, National Assembly_
 
 ##### Russia
 ### [ A Russian Progress spacecraft hauling fresh food, oxygen and vital spare parts for the International Space Station (ISS) arrived at its orbital destination after a successful rendezvous marred by a last-minute antenna glitch. ](/news/2006/10/26/a-russian-progress-spacecraft-hauling-fresh-food-oxygen-and-vital-spare-parts-for-the-international-space-station-iss-arrived-at-its-orb.md)
-_Context: Russia, Progress spacecraft, International Space Station, arrived at its orbital destination_
+_Context: Progress spacecraft, International Space Station, Russia, arrived at its orbital destination_
 
 ##### Esperanza Fire
 ### [ Four firefighters are killed and one is critically injured as they tried to control the Esperanza Fire that drove hundreds from their homes near Palm Springs, California, United States. An arsonist started the fire. ](/news/2006/10/26/four-firefighters-are-killed-and-one-is-critically-injured-as-they-tried-to-control-the-esperanza-fire-that-drove-hundreds-from-their-homes.md)
-_Context: arsonist, United States, Palm Springs, California, Esperanza Fire_
+_Context: Esperanza Fire, arsonist, Palm Springs, California, United States_
 
 ##### Pskov
 ### [ Fifteen people die and 400 are admitted to hospital in Pskov, Russia, after consuming alcohol suspected of being tainted with medicinal drugs or chemicals. ](/news/2006/10/26/fifteen-people-die-and-400-are-admitted-to-hospital-in-pskov-russia-after-consuming-alcohol-suspected-of-being-tainted-with-medicinal-dru.md)
@@ -25,7 +25,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Governments of Kiribati
 ### [ The Governments of Kiribati and Tuvalu say the citizens of their countries will need to be permanently relocated over the next ten years due to rising sea levels caused by global warming. ](/news/2006/10/26/the-governments-of-kiribati-and-tuvalu-say-the-citizens-of-their-countries-will-need-to-be-permanently-relocated-over-the-next-ten-years-du.md)
-_Context: global warming, rising sea levels, Governments of Kiribati, Tuvalu_
+_Context: Governments of Kiribati, global warming, rising sea levels, Tuvalu_
 
 ##### ExxonMobil Corporation
 ### [ ExxonMobil Corp., the world's largest petroleum extracting company, says its third-quarter net income rose to USD $10.5 billion from $9.92 billion as crude prices rise to an all-time high. This is the second highest quarterly profit figure for a United States company. ](/news/2006/10/26/exxonmobil-corp-the-world-s-largest-petroleum-extracting-company-says-its-third-quarter-net-income-rose-to-usd-10-5-billion-from-9-92.md)

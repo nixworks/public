@@ -5,7 +5,7 @@ Formats: [HTML](2017/11/19/index.html)  [JSON](2017/11/19/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. ](/news/2017/11/19/syrian-government-troops-and-allied-militia-retake-abu-kamal-isil-s-last-urban-stronghold-in-syria.md)
-_Context: 2017 Abu Kamal offensive, ISIL, Syria, Abu Kamal, Syrian Civil War_
+_Context: Syrian Civil War, Abu Kamal, ISIL, 2017 Abu Kamal offensive, Syria_
 
 ##### Northern Rakhine State clashes
 ### [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md)
@@ -17,7 +17,7 @@ The incident occurred as a charity aid was distributing aid in the town of Sidi 
 
 ##### Charles Manson
 ### [Charles Manson, the infamous former cult leader who ordered the murder of Sharon Tate and others, dies at age 83. ](/news/2017/11/19/charles-manson-the-infamous-former-cult-leader-who-ordered-the-murder-of-sharon-tate-and-others-dies-at-age-83.md)
-_Context: and others, Sharon Tate, Charles Manson_
+_Context: Sharon Tate, Charles Manson, and others_
 
 ##### Crime in France
 ### [A policeman in the French city of Sarcelles kills his girlfriend's father, two passers-by and himself after she ended their relationship. ](/news/2017/11/19/a-policeman-in-the-french-city-of-sarcelles-kills-his-girlfriend-s-father-two-passers-by-and-himself-after-she-ended-their-relationship.md)

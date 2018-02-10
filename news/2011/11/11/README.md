@@ -13,15 +13,15 @@ Assailant armed with explosives had taken control of ferry carrying 20 people; a
 
 ##### First-person shooter
 ### [First-person shooter video game "Modern Warfare 3", published by Activision, sells over 6.5 million copies in North America and United Kingdom, setting a new record. ](/news/2011/11/11/first-person-shooter-video-game-modern-warfare-3-published-by-activision-sells-over-6-5-million-copies-in-north-america-and-united-kingd.md)
-_Context: Activision, First-person shooter, Modern Warfare 3, United Kingdom, North America_
+_Context: United Kingdom, Modern Warfare 3, First-person shooter, Activision, North America_
 
 ##### Francisco Blake Mora
 ### [Francisco Blake Mora, the Mexican Secretary of the Interior, dies in a plane crash on a way to a meeting with judicial officials. ](/news/2011/11/11/francisco-blake-mora-the-mexican-secretary-of-the-interior-dies-in-a-plane-crash-on-a-way-to-a-meeting-with-judicial-officials.md)
-_Context: Mexico, Francisco Blake Mora, Secretary of the Interior_
+_Context: Mexican, Francisco Blake Mora, Secretary of the Interior_
 
 ##### Supreme Court of Papua New Guinea
 ### [The Supreme Court of Papua New Guinea issues orders for the arrest of Deputy Prime Minister Belden Namah and Attorney General Allan Marat over contempt of court charges. ](/news/2011/11/11/the-supreme-court-of-papua-new-guinea-issues-orders-for-the-arrest-of-deputy-prime-minister-belden-namah-and-attorney-general-allan-marat-ov.md)
-_Context: Allan Marat, Supreme Court of Papua New Guinea, contempt of court, Belden Namah_
+_Context: Allan Marat, contempt of court, Supreme Court of Papua New Guinea, Belden Namah_
 
 ##### Ukraine
 ### [The former Prime Minister of Ukraine Yulia Tymoshenko, already serving a seven-year sentence for abuse of office, is charged with tax evasion, theft and concealing foreign currency revenues. ](/news/2011/11/11/the-former-prime-minister-of-ukraine-yulia-tymoshenko-already-serving-a-seven-year-sentence-for-abuse-of-office-is-charged-with-tax-evasio.md)
@@ -33,7 +33,7 @@ A man who confessed to murdering a Ugandan gay activist by beating him with a ha
 
 ##### Washington Nationals
 ### [Washington Nationals baseball catcher Wilson Ramos is found alive in Venezuela near where he was kidnapped on Wednesday. ](/news/2011/11/11/washington-nationals-baseball-catcher-wilson-ramos-is-found-alive-in-venezuela-near-where-he-was-kidnapped-on-wednesday.md)
-_Context: Wilson Ramos, baseball, Venezuela, Washington Nationals, catcher_
+_Context: catcher, Venezuela, baseball, Wilson Ramos, Washington Nationals_
 
 ##### Michael D. Higgins
 ### [Michael D. Higgins is inaugurated as the ninth President of Ireland. ](/news/2011/11/11/michael-d-higgins-is-inaugurated-as-the-ninth-president-of-ireland.md)

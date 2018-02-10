@@ -53,7 +53,7 @@ New deputy leader had previously vowed to prosecute ex-ruler Yahya Jammeh for al
 
 ##### Presidency of Donald Trump
 ### [U.S. President Donald Trump signs documents approving the construction of both the Keystone XL and Dakota Access Pipelines. ](/news/2017/01/24/u-s-president-donald-trump-signs-documents-approving-the-construction-of-both-the-keystone-xl-and-dakota-access-pipelines.md)
-_Context: U.S. President, Presidency of Donald Trump, Dakota Access Pipeline, Keystone XL, Donald Trump_
+_Context: U.S. President, Presidency of Donald Trump, Donald Trump, Dakota Access Pipeline, Keystone XL_
 
 ## [Previous Day...](/news/2017/01/23/index.md)
 

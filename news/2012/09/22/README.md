@@ -29,11 +29,11 @@ The Roman Catholic Church in the Australian state of Victoria confirms that more
 
 ##### Member of the European Parliament
 ### [Belgian MEP and former PM Guy Verhofstadt warns that the Flemish N-VA party and the far right are "the same". N-VA dismisses the criticism as "gratuitous". ](/news/2012/09/22/belgian-mep-and-former-pm-guy-verhofstadt-warns-that-the-flemish-n-va-party-and-the-far-right-are-the-same-n-va-dismisses-the-criticism-a.md)
-_Context: Belgian Prime Minister, far right, New Flemish Alliance, Member of the European Parliament, Guy Verhofstadt_
+_Context: New Flemish Alliance, far right, Guy Verhofstadt, Belgian Prime Minister, Member of the European Parliament_
 
 ##### Minister of railways
 ### [The minister of railways in Pakistan, Ghulam Ahmad Bilour, offers a bounty of USD 100,000 to the person who kills the maker of "Innocence of Muslims". The government of Pakistan condemns his act. ](/news/2012/09/22/the-minister-of-railways-in-pakistan-ghulam-ahmad-bilour-offers-a-bounty-of-usd-100-000-to-the-person-who-kills-the-maker-of-innocence-of.md)
-_Context: Innocence of Muslims, minister of railways, Ghulam Ahmad Bilour, Pakistan, government of Pakistan_
+_Context: Ghulam Ahmad Bilour, minister of railways, Pakistan, Innocence of Muslims, government of Pakistan_
 
 ## [Previous Day...](/news/2012/09/21/index.md)
 

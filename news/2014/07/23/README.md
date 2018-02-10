@@ -33,7 +33,7 @@ _Context: State Department_
 
 ##### Millau
 ### [Authorities in Millau, France have formally charged two men in last Sunday's machete attack in which three Clermont Auvergne rugby union players were injured. ](/news/2014/07/23/authorities-in-millau-france-have-formally-charged-two-men-in-last-sunday-s-machete-attack-in-which-three-clermont-auvergne-rugby-union-pla.md)
-_Context: Clermont Auvergne, Millau, France, rugby union_
+_Context: Clermont Auvergne, France, Millau, rugby union_
 
 ## [Previous Day...](/news/2014/07/22/index.md)
 

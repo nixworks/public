@@ -9,7 +9,7 @@ A series of blasts targeting Shia Muslims in Dhaka killed at least one person an
 
 ##### Sinai insurgency
 ### [A first lieutenant and two soldiers have been killed in an explosion which targeted a police armored vehicle in the northern Sinai city of Al-Arish. ](/news/2015/10/24/a-first-lieutenant-and-two-soldiers-have-been-killed-in-an-explosion-which-targeted-a-police-armored-vehicle-in-the-northern-sinai-city-of-a.md)
-_Context: first lieutenant, Sinai, Sinai insurgency, Egyptian parliamentary election, 2015, Arish_
+_Context: first lieutenant, Arish, Egyptian parliamentary election, 2015, Sinai, Sinai insurgency_
 
 ##### Israeli-Palestinian conflict (2015)
 ### [Violence continues while talks persist looking for a peaceful resolution. A 16-year old Palestinian is shot dead after he tried to stab an Israeli security guard at a West Bank border crossing. A 25-year old Palestinian protester died of wounds suffered last week when he was shot by Israeli troops during a border clash near the Gazan town of Khan Yunis. ](/news/2015/10/24/violence-continues-while-talks-persist-looking-for-a-peaceful-resolution-a-16-year-old-palestinian-is-shot-dead-after-he-tried-to-stab-an-i.md)
@@ -29,7 +29,7 @@ Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, c
 
 ##### Landmark
 ### [Close to 300 landmarks in 60 countries, from the Pyramids in Egypt, to the Eiffel Tower in Paris, and the Empire State Building in New York, were lit up in blue -- the official color of the United Nations -- to commemorate the 70th anniversary of the world body. ](/news/2015/10/24/close-to-300-landmarks-in-60-countries-from-the-pyramids-in-egypt-to-the-eiffel-tower-in-paris-and-the-empire-state-building-in-new-york.md)
-_Context: Empire State Building, Pyramid, landmark, New York City, Egypt, United Nations, Eiffel Tower, countries, Paris_
+_Context: landmark, Egypt, Paris, United Nations, Pyramid, countries, New York City, Eiffel Tower, Empire State Building_
 
 ##### Synod on the family
 ### [The three-week synod on the family convened by Pope Francis at the Vatican concludes with traditional Catholic orientations toward marriage and the family intact. ](/news/2015/10/24/the-three-week-synod-on-the-family-convened-by-pope-francis-at-the-vatican-concludes-with-traditional-catholic-orientations-toward-marriage.md)
@@ -45,7 +45,7 @@ Hurricane Patricia has weakened dramatically from the monster Category 5 storm t
 
 ##### Driving under the influence
 ### [A driver, arrested on suspicion of driving under the influence (DUI), plows into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34 with eight in critical condition. The homecoming game with Kansas was played at 2:30 p.m. CT as scheduled. ](/news/2015/10/24/a-driver-arrested-on-suspicion-of-driving-under-the-influence-dui-plows-into-the-oklahoma-state-homecoming-parade-in-stillwater-oklahom.md)
-_Context: Kansas, Oklahoma State Homecoming parade, Stillwater, Oklahoma, driving under the influence, homecoming game, 2015 Oklahoma State University homecoming parade crash_
+_Context: driving under the influence, homecoming game, Stillwater, Oklahoma, Kansas, 2015 Oklahoma State University homecoming parade crash, Oklahoma State Homecoming parade_
 
 ##### Costa Rica
 ### [Costa Rica's restive Turrialba Volcano erupts. ](/news/2015/10/24/costa-rica-s-restive-turrialba-volcano-erupts.md)
@@ -61,7 +61,7 @@ Police in Montenegro&#x27;s capital Podgorica fired tear gas on Saturday night t
 
 ##### Ahmed Adeeb
 ### [Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. ](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.md)
-_Context: President of the Maldives, Ahmed Adeeb, the Maldives, Abdulla Yameen_
+_Context: the Maldives, Ahmed Adeeb, President of the Maldives, Abdulla Yameen_
 
 ##### Law enforcement
 ### [A cache of over 7,000 stolen firearms is discovered by law enforcement in the U.S. state of South Carolina. ](/news/2015/10/24/a-cache-of-over-7-000-stolen-firearms-is-discovered-by-law-enforcement-in-the-u-s-state-of-south-carolina.md)

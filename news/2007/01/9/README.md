@@ -17,15 +17,15 @@ _Context: Iran, Mujahedin-e Khalq, Iran's nuclear program_
 
 ##### Kazakh President
 ### [ Kazakh President Nursultan Nazarbayev nominates Deputy Prime Minister Karim Masimov for Prime Minister. The Parliament will convene on 10 January to vote on the nomination. ](/news/2007/01/9/kazakh-president-nursultan-nazarbayev-nominates-deputy-prime-minister-karim-masimov-for-prime-minister-the-parliament-will-convene-on-10-j.md)
-_Context: Nursultan Nazarbayev, Prime Minister, parliament, Kazakh President, Karim Masimov, 10 January_
+_Context: 10 January, Prime Minister, parliament, Nursultan Nazarbayev, Kazakh President, Karim Masimov_
 
 ##### OVP
 ### [ The OVP, the future minority partner in the grand coalition government that will be sworn in in Austria on 2007-01-11, announces its future ministers. ](/news/2007/01/9/the-avp-the-future-minority-partner-in-the-grand-coalition-government-that-will-be-sworn-in-in-austria-on-2007-01-11-announces-its-futur.md)
-_Context: new government, Austria, OVP, grand coalition_
+_Context: new government, OVP, Austria, grand coalition_
 
 ##### Far right
 ### [ Far right parliamentarians increase their influence within the European Parliament by founding a new transnational caucus. ](/news/2007/01/9/far-right-parliamentarians-increase-their-influence-within-the-european-parliament-by-founding-a-new-transnational-caucus.md)
-_Context: a new transnational caucus, Far right_
+_Context: Far right, a new transnational caucus_
 
 ##### Hindu
 ### [ Hindu holy men in India threaten to boycott the Ganges River Festival because of pollution. ](/news/2007/01/9/hindu-holy-men-in-india-threaten-to-boycott-the-ganges-river-festival-because-of-pollution.md)
@@ -33,11 +33,11 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Hassan Mustafa Osama Nasr
 ### [ CIA Kidnap case: Hearings begin in Italy on whether to charge 25 CIA agents with kidnapping for the "extraordinary rendition" of Osama Nasr in 2003. The named agents have left the country. ](/news/2007/01/9/cia-kidnap-case-hearings-begin-in-italy-on-whether-to-charge-25-cia-agents-with-kidnapping-for-the-extraordinary-rendition-of-osama-nasr.md)
-_Context: extraordinary rendition, Hassan Mustafa Osama Nasr_
+_Context: Hassan Mustafa Osama Nasr, extraordinary rendition_
 
 ##### Steve Jobs
 ### [ Apple Inc. CEO Steve Jobs unveils the iPhone and changes the company name to Apple Inc. at the annual Macworld Expo in San Francisco. ](/news/2007/01/9/apple-inc-ceo-steve-jobs-unveils-the-iphone-and-changes-the-company-name-to-apple-inc-at-the-annual-macworld-expo-in-san-francisco.md)
-_Context: Steve Jobs, Apple Inc., iPhone, Macworld Expo, San Francisco_
+_Context: iPhone, Apple Inc., Macworld Expo, San Francisco, Steve Jobs_
 
 ## [Previous Day...](/news/2007/01/8/index.md)
 

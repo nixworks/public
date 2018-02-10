@@ -5,19 +5,19 @@ Formats: [HTML](2005/10/31/index.html)  [JSON](2005/10/31/index.json)  [XML](200
 
 ##### Guinea-Bissau
 ### [ Guinea-Bissau's president, Joo Bernardo Vieira, announces the dissolution of the government headed by his rival Prime Minister Carlos Gomes Junior. ](/news/2005/10/31/guinea-bissau-s-president-joao-bernardo-vieira-announces-the-dissolution-of-the-government-headed-by-his-rival-prime-minister-carlos-gome.md)
-_Context: Joo Bernardo Vieira, Carlos Gomes Junior, Guinea-Bissau_
+_Context: Guinea-Bissau, Carlos Gomes Junior, Joo Bernardo Vieira_
 
 ##### German
 ### [ In Germany, Social Democratic Party chairman Franz Mntefering announces his intention to retire after the party convention on November 14. The decision came after his candidate for Secretary General of the SPD, Kajo Wasserhvel, lost to left-wing candidate Andrea Nahles. ](/news/2005/10/31/in-germany-social-democratic-party-chairman-franz-muntefering-announces-his-intention-to-retire-after-the-party-convention-on-november-14.md)
-_Context: German, Andrea Nahles, Kajo Wasserhvel, Franz Mntefering, November 14, SPD_
+_Context: Franz Mntefering, November 14, SPD, German, Kajo Wasserhvel, Andrea Nahles_
 
 ##### United States
 ### [ U.S. President George W. Bush nominates Judge Samuel Alito of the Third Circuit Court of Appeals to the U.S. Supreme Court. ](/news/2005/10/31/u-s-president-george-w-bush-nominates-judge-samuel-alito-of-the-third-circuit-court-of-appeals-to-the-u-s-supreme-court.md)
-_Context: Samuel Alito, Supreme Court of the United States, U.S. President, Third Circuit Court of Appeals, United States, George W. Bush_
+_Context: George W. Bush, Samuel Alito, Third Circuit Court of Appeals, U.S. President, United States, Supreme Court of the United States_
 
 ##### Japan
 ### [ Japanese Prime Minister Junichiro Koizumi announces his fifth cabinet. Shinzo Abe, former Secretary General of the Liberal Democratic Party, becomes Chief Cabinet Secretary and is widely speculated to be Koizumi's chosen successor. Former Interior Minister Taro Aso becomes Foreign Minister, and is replaced by former economic advisor Heizo Takenaka. ](/news/2005/10/31/japanese-prime-minister-junichiro-koizumi-announces-his-fifth-cabinet-shinzo-abe-former-secretary-general-of-the-liberal-democratic-party.md)
-_Context: Junichiro Koizumi, Liberal Democratic Party, Japan, Prime Minister of Japan, Heizo Takenaka, Foreign Minister, Interior Minister, Chief Cabinet Secretary, Taro Aso, Shinzo Abe_
+_Context: Chief Cabinet Secretary, Taro Aso, Junichiro Koizumi, Shinzo Abe, Heizo Takenaka, Liberal Democratic Party, Interior Minister, Foreign Minister, Japan, Prime Minister of Japan_
 
 ##### United States military
 ### [ A Pentagon report suggests that since 2004 about 26,000 Iraqi people have been either killed or injured in attacks by insurgents. ](/news/2005/10/31/a-pentagon-report-suggests-that-since-2004-about-26-000-iraqi-people-have-been-either-killed-or-injured-in-attacks-by-insurgents.md)
@@ -25,11 +25,11 @@ _Context: 2004, Iraq, United States military_
 
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: 3 Palestinian militants die following an Israeli attack in the West Bank city of Jenin. ](/news/2005/10/31/israeli-palestinian-conflict-3-palestinian-militants-die-following-an-israeli-attack-in-the-west-bank-city-of-jenin.md)
-_Context: Jenin, Israel, Israeli-Palestinian Conflict, Palestinian, West Bank_
+_Context: Israel, Israeli-Palestinian Conflict, West Bank, Palestinian, Jenin_
 
 ##### Roman Catholic
 ### [ Roman Catholic priest, Father Athanase Seromba, denies charges of genocide at the International Criminal Tribunal for Rwanda. ](/news/2005/10/31/roman-catholic-priest-father-athanase-seromba-denies-charges-of-genocide-at-the-international-criminal-tribunal-for-rwanda.md)
-_Context: genocide, priest, Athanase Seromba, International Criminal Tribunal for Rwanda, Roman Catholic_
+_Context: Roman Catholic, Athanase Seromba, priest, International Criminal Tribunal for Rwanda, genocide_
 
 ##### Spain
 ### [ The Spanish telco Telefnica announces a GBP18 billion deal to buy the British mobile network operator O2 plc. ](/news/2005/10/31/the-spanish-telco-telefonica-announces-a-gbp18-billion-deal-to-buy-the-british-mobile-network-operator-o2-plc.md)
@@ -37,11 +37,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Infanta Leonor
 ### [ Infanta Leonor of Spain, second in the succession line to the Spanish throne, is born in Madrid at 01:46 AM, local time. ](/news/2005/10/31/infanta-leonor-of-spain-second-in-the-succession-line-to-the-spanish-throne-is-born-in-madrid-at-01-46-am-local-time.md)
-_Context: Spain, succession line to the Spanish throne, Madrid, Infanta Leonor_
+_Context: Madrid, Spain, succession line to the Spanish throne, Infanta Leonor_
 
 ##### GAM
 ### [ Exiled GAM leader, Bakhtiar Abdullah, visits the Indonesian special territory of Aceh for the first time in 25 years to see the peace process aimed at ending nearly three decades of conflict. ](/news/2005/10/31/exiled-gam-leader-bakhtiar-abdullah-visits-the-indonesian-special-territory-of-aceh-for-the-first-time-in-25-years-to-see-the-peace-proce.md)
-_Context: Indonesia, Bakhtiar Abdullah, GAM, Aceh_
+_Context: Bakhtiar Abdullah, Aceh, Indonesia, GAM_
 
 ## [Previous Day...](/news/2005/10/30/index.md)
 

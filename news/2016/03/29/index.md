@@ -13,11 +13,11 @@ WASHINGTON – An even split among the current eight justices of the U.S. Suprem
 
 ##### National Labor Relations Board
 ### [The U.S. National Labor Relations Board files an official complaint against a California warehouse after finding evidence it violated workers' rights to organize. The allegations of wrongdoing submitted by a worker group against California Cartage Company, LLC, which serves Amazon.com, Inc., Lowe's Companies. Inc., New Balance, and Sears Holdings Corp., will be heard by an NLRB administrative law judge in June 2016. None of the retailers were named in the NLRB complaint. ](/news/2016/03/29/the-u-s-national-labor-relations-board-files-an-official-complaint-against-a-california-warehouse-after-finding-evidence-it-violated-worker.md)
-_Context: Sears Holdings, Amazon.com, New Balance, Lowe's Companies. Inc., National Labor Relations Board, administrative law judge, California_
+_Context: New Balance, Amazon.com, National Labor Relations Board, Lowe's Companies. Inc., Sears Holdings, California, administrative law judge_
 
 ##### Alaska Airlines
 ### [Alaska Airlines cancels additional flights, due to the ongoing eruption of Mount Pavlof on the Alaska Peninsula. ](/news/2016/03/29/alaska-airlines-cancels-additional-flights-due-to-the-ongoing-eruption-of-mount-pavlof-on-the-alaska-peninsula.md)
-_Context: Alaska Airlines, Alaska Peninsula, Mount Pavlof_
+_Context: Mount Pavlof, Alaska Airlines, Alaska Peninsula_
 
 ##### 2016 Aero Teknic MU-2 crash
 ### [Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-jean-lapierre-was-one-of-the-p.md)
@@ -45,11 +45,11 @@ WASHINGTON — The State Department and Pentagon ordered the families of US dipl
 
 ##### Iran and weapons of mass destruction
 ### [Reuters reports the United States and its European allies have notified the UN that Iran's launching of nuclear-capable missiles violated United Nations Security Council resolution 2231 which endorsed the Iran deal, i.e., the Joint Comprehensive Plan of Action (JCPOA), last year. ](/news/2016/03/29/reuters-reports-the-united-states-and-its-european-allies-have-notified-the-un-that-iran-s-launching-of-nuclear-capable-missiles-violated-un.md)
-_Context: United Nations Security Council, Reuters, Iran, United States, Joint Comprehensive Plan of Action, Iran and weapons of mass destruction, United Nations Security Council Resolution 2231_
+_Context: United States, Iran, Reuters, Joint Comprehensive Plan of Action, United Nations Security Council Resolution 2231, United Nations Security Council, Iran and weapons of mass destruction_
 
 ##### Indonesian foreign ministry
 ### [The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. ](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indonesian-nationals-are-being-held-hostage-after-their-tug-boat-and-coal-barge-was-hijacked-in-phil.md)
-_Context: Abu Sayyaf, Indonesia, Indonesian foreign ministry, Philippines_
+_Context: Philippines, Indonesia, Abu Sayyaf, Indonesian foreign ministry_
 
 ##### EgyptAir Flight 181
 ### [A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. ](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-hostages-have-been-released-and-the-hijacker-has-no-evident-ties-to-any-terrorist-organizat.md)
@@ -61,7 +61,7 @@ His formal arrest was detailed in a police report that cited new security-camera
 
 ##### Transgender rights in the United States
 ### [Dozens of chief executive officers of major U.S. technology, biotech, and financial companies urge North Carolina to repeal a new state law forcing transgender people to use rest-rooms and changing-rooms according to the gender on their birth-certificate.](/news/2016/03/29/dozens-of-chief-executive-officers-of-major-u-s-technology-biotech-and-financial-companies-urge-north-carolina-to-repeal-a-new-state-law.md)
-_Context: chief executive officer, North Carolina, Transgender rights in the United States_
+_Context: North Carolina, chief executive officer, Transgender rights in the United States_
 
 ##### Supreme Court of the United States
 ### [In a move designed to head off a 4-4 decision, the U.S. Supreme Court directs lawyers for the Obama administration, and for the religious groups who challenge it, to submit written briefs on a possible remedy to the case: whether coverage could be provided through the group's insurance companies without any actual notice to the government. A 4-4 decision would not set a national precedent, and would let stand the preceding decision in each case. In these seven cases, the appeals court in six upheld the government mandate. ](/news/2016/03/29/in-a-move-designed-to-head-off-a-4-4-decision-the-u-s-supreme-court-directs-lawyers-for-the-obama-administration-and-for-the-religious-gr.md)
@@ -69,7 +69,7 @@ The U.S. Supreme Court today asked new questions in one of the term&#x27;s most 
 
 ##### Samuel Moreno Rojas
 ### [Samuel Moreno Rojas, the former mayor of the Colombian capital Bogota, is jailed for 18 years for taking bribes to award ambulance contracts. ](/news/2016/03/29/samuel-moreno-rojas-the-former-mayor-of-the-colombian-capital-bogota-is-jailed-for-18-years-for-taking-bribes-to-award-ambulance-contracts.md)
-_Context: Bogota, Colombia, Samuel Moreno Rojas_
+_Context: Colombia, Samuel Moreno Rojas, Bogota_
 
 ##### El Salvador
 ### [El Salvador declares a state of emergency in seven prisons and transfers 299 prisoners in a crackdown on gang violence. ](/news/2016/03/29/el-salvador-declares-a-state-of-emergency-in-seven-prisons-and-transfers-299-prisoners-in-a-crackdown-on-gang-violence.md)
@@ -85,7 +85,7 @@ A US government aid agency pulls $472m (£331m) of funding for a Tanzanian elect
 
 ##### Tennessee state Senate
 ### [In the United States, the Tennessee state Senate will vote on a bill, which narrowly passed the House last year, to declare the Holy Bible the official book of Tennessee. Governor Bill Haslam (R) was among those who opposed the bill in 2015. ](/news/2016/03/29/in-the-united-states-the-tennessee-state-senate-will-vote-on-a-bill-which-narrowly-passed-the-house-last-year-to-declare-the-holy-bible-t.md)
-_Context: Tennessee state Senate, Governor, House, Bill Haslam, Bible, Tennessee_
+_Context: House, Governor, Bill Haslam, Bible, Tennessee, Tennessee state Senate_
 
 ##### 2016 U.S. presidential election
 ### [Candidate Donald Trump says he will no longer honor his pledge to support the eventual Republican Party pick for president because, "I have been treated very unfairly." ](/news/2016/03/29/candidate-donald-trump-says-he-will-no-longer-honor-his-pledge-to-support-the-eventual-republican-party-pick-for-president-because-i-have.md)
@@ -97,7 +97,7 @@ Two police officers were killed and four wounded on Tuesday in the western Venez
 
 ##### FCC's
 ### [U.S. Federal Communications Commissioner Michael O'Rielly says, during a speech at the American Action Forum, that Netflix's admission last week that it has been intentionally slowing its video streaming transmission on some wireless mobile carriers for five years "deeply disturbing" which might warrant an investigation by the Federal Trade Commission and-or Congress. ](/news/2016/03/29/u-s-federal-communications-commissioner-michael-o-rielly-says-during-a-speech-at-the-american-action-forum-that-netflix-s-admission-last.md)
-_Context: Netflix, American Action Forum, U.S. Federal Trade Commission, Michael O'Rielly, FCC's, lawmakers_
+_Context: U.S. Federal Trade Commission, American Action Forum, lawmakers, FCC's, Michael O'Rielly, Netflix_
 
 ## [Previous Day...](/news/2016/03/28/index.md)
 

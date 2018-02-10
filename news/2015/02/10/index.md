@@ -5,7 +5,7 @@ Formats: [HTML](2015/02/10/index.html)  [JSON](2015/02/10/index.json)  [XML](201
 
 ##### War in Donbass
 ### [Fighting kills fifteen people and leaves 60 injured as missiles hit Ukraine's military headquarters in the city of Kramatorsk. ](/news/2015/02/10/fighting-kills-fifteen-people-and-leaves-60-injured-as-missiles-hit-ukraine-s-military-headquarters-in-the-city-of-kramatorsk.md)
-_Context: Ukraine, War in Donbass, Kramatorsk_
+_Context: War in Donbass, Ukraine, Kramatorsk_
 
 ##### Obama Administration
 ### [The Obama Administration announces the creation of the Cyber Threat Intelligence Integration Center, a new United States federal government agency that will be a fusion center between existing agencies and the private sector for real-time use against cyber attacks. ](/news/2015/02/10/the-obama-administration-announces-the-creation-of-the-cyber-threat-intelligence-integration-center-a-new-united-states-federal-government.md)
@@ -13,15 +13,15 @@ Calling the destructive cyberattack on Sony Pictures &quot;a game changer,&quot;
 
 ##### ISIL
 ### [The United States confirms the death of ISIL hostage Kayla Mueller. ](/news/2015/02/10/the-united-states-confirms-the-death-of-isil-hostage-kayla-mueller.md)
-_Context: Kayla Mueller, United States, ISIL_
+_Context: United States, Kayla Mueller, ISIL_
 
 ##### NBC Nightly News
 ### ["NBC Nightly News" suspends American newsreader Brian Williams from broadcasting for six months for exaggerating a story about his personal experiences on a helicopter during the 2003 invasion of Iraq. ](/news/2015/02/10/nbc-nightly-news-suspends-american-newsreader-brian-williams-from-broadcasting-for-six-months-for-exaggerating-a-story-about-his-personal.md)
-_Context: helicopter, 2003 invasion of Iraq, NBC Nightly News, Brian Williams_
+_Context: 2003 invasion of Iraq, Brian Williams, NBC Nightly News, helicopter_
 
 ##### Jon Stewart
 ### [American comedian and satirist Jon Stewart, host of Comedy Central's "The Daily Show", announces his departure from the show, which is due to take place at the end of the year. ](/news/2015/02/10/american-comedian-and-satirist-jon-stewart-host-of-comedy-central-s-the-daily-show-announces-his-departure-from-the-show-which-is-due-t.md)
-_Context: Comedy Central, Jon Stewart, The Daily Show_
+_Context: The Daily Show, Jon Stewart, Comedy Central_
 
 ##### European Broadcasting Union
 ### [The European Broadcasting Union announces that Australia will participate in the Eurovision Song Contest for the first time in Vienna 2015; it will be the first country ever outside of the European Broadcasting Area, as well as the first associated member of the EBU, to participate ](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.md)
@@ -33,7 +33,7 @@ _Context: market capitalization, $, Apple, Inc._
 
 ##### Wang Yu-chi
 ### [Wang Yu-chi resigns as Taiwan's Minister of the Mainland Affairs Council responsible for maintaining relations with the People's Republic of China. ](/news/2015/02/10/wang-yu-chi-resigns-as-taiwan-s-minister-of-the-mainland-affairs-council-responsible-for-maintaining-relations-with-the-people-s-republic-of.md)
-_Context: Mainland Affairs Council, China, Taiwan, Wang Yu-chi_
+_Context: Wang Yu-chi, China, Taiwan, Mainland Affairs Council_
 
 ##### Federal Court of Malaysia
 ### [The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. ](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.md)
@@ -45,7 +45,7 @@ _Context: Manhattan District Attorney, New York City, Cyrus R. Vance Jr._
 
 ##### Delhi Legislative Assembly election
 ### [The February 7 Delhi Legislative Assembly election results in the Aam Aadmi Party leading in 63 out of 70 seats. ](/news/2015/02/10/the-february-7-delhi-legislative-assembly-election-results-in-the-aam-aadmi-party-leading-in-63-out-of-70-seats.md)
-_Context: Aam Aadmi Party, Delhi Legislative Assembly election_
+_Context: Delhi Legislative Assembly election, Aam Aadmi Party_
 
 ## [Previous Day...](/news/2015/02/9/index.md)
 

@@ -9,7 +9,7 @@ _Context: Hosni Mubarak_
 
 ##### Southern Sudan
 ### [At least 16 people have been killed the Southern Sudanese state of Jonglei, breaking a ceasefire agreed last month. ](/news/2011/02/10/at-least-16-people-have-been-killed-the-southern-sudanese-state-of-jonglei-breaking-a-ceasefire-agreed-last-month.md)
-_Context: Jonglei, state, Southern Sudan_
+_Context: Jonglei, Southern Sudan, state_
 
 ##### Suicide bomber
 ### [A suicide bomber attacks a Pakistan Army recruitment centre in northwestern Pakistan causing at least 27 deaths and 40 injuries. ](/news/2011/02/10/a-suicide-bomber-attacks-a-pakistan-army-recruitment-centre-in-northwestern-pakistan-causing-at-least-27-deaths-and-40-injuries.md)
@@ -21,11 +21,11 @@ _Context: Revolutionary Armed Forces of Colombia, Colombia_
 
 ##### Israel
 ### [Israeli forces remove Palestinian tents near Nablus of which 8 were reportedly used as homes.](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.md)
-_Context: Israel, Nablus_
+_Context: Nablus, Israel_
 
 ##### Vietnam
 ### [Vietnam is to host the debut International Choir Festival. ](/news/2011/02/10/vietnam-is-to-host-the-debut-international-choir-festival.md)
-_Context: Vietnam, International Choir Festival_
+_Context: International Choir Festival, Vietnam_
 
 ##### Perm
 ### [Eight people are killed in a warehouse fire in Perm, Russia. ](/news/2011/02/10/eight-people-are-killed-in-a-warehouse-fire-in-perm-russia.md)
@@ -57,11 +57,11 @@ India and Pakistan haveagreed to formally resume peace talks that were broken of
 
 ##### Indonesia
 ### [The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. ](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.md)
-_Context: Muslim, Jakarta, Indonesia, terrorism, Abu Bakar Bashir_
+_Context: Indonesia, Abu Bakar Bashir, Muslim, terrorism, Jakarta_
 
 ##### China
 ### [Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. ](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.md)
-_Context: house arrest, China, Chen Guangcheng_
+_Context: China, house arrest, Chen Guangcheng_
 
 ##### The House of Commons
 ### [The British House of Commons votes 234-22 against prisoners receiving the right to vote. ](/news/2011/02/10/the-british-house-of-commons-votes-234-22-against-prisoners-receiving-the-right-to-vote.md)

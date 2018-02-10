@@ -21,7 +21,7 @@ CBS suspends star reporter Lara Logan and a producer for a discredited 60 Minute
 
 ##### Chancellor of the Exchequer
 ### [The U.K. Chancellor of the Exchequer asks the Bank of England whether it needs more power. The central bank's Financial Policy Committee will study the question. ](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.md)
-_Context: Bank of England, Chancellor of the Exchequer_
+_Context: Chancellor of the Exchequer, Bank of England_
 
 ##### Ford Motor Company
 ### [Ford recalls 140,000 Escape model cars from the United States and an additional 21,000 from other nations after 13 engine fires were reported. ](/news/2013/11/26/ford-recalls-140-000-escape-model-cars-from-the-united-states-and-an-additional-21-000-from-other-nations-after-13-engine-fires-were-reporte.md)
@@ -57,7 +57,7 @@ _Context: Obamacare, appeals court, Supreme Court of the United States_
 
 ##### Prime Minister
 ### [Protestors demand the resignation of Prime Minister Yingluck Shinawatra who they believe is the puppet of her deposed brother Thaksin. ](/news/2013/11/26/protestors-demand-the-resignation-of-prime-minister-yingluck-shinawatra-who-they-believe-is-the-puppet-of-her-deposed-brother-thaksin.md)
-_Context: Thaksin Shinawatra, Yingluck Shinawatra, Prime Minister_
+_Context: Prime Minister, Thaksin Shinawatra, Yingluck Shinawatra_
 
 ##### White Paper
 ### [A White Paper is released regarding the effects of Scotland's secession. ](/news/2013/11/26/a-white-paper-is-released-regarding-the-effects-of-scotland-s-secession.md)

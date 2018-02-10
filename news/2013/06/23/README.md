@@ -17,7 +17,7 @@ _Context: Kenya_
 
 ##### Tear gas
 ### [Police again fire tear gas at demonstrators participating in nationwide protests across Brazil. ](/news/2013/06/23/police-again-fire-tear-gas-at-demonstrators-participating-in-nationwide-protests-across-brazil.md)
-_Context: tear gas, Brazil_
+_Context: Brazil, tear gas_
 
 ##### Al-Qaeda
 ### [Al-Qaeda-linked gunmen kidnap two sisters working on a film in the Philippines ](/news/2013/06/23/al-qaeda-linked-gunmen-kidnap-two-sisters-working-on-a-film-in-the-philippines.md)
@@ -49,7 +49,7 @@ Palestinian President Mahmoud Abbas on Sunday accepted the resignation of his ne
 
 ##### Nelson Mandela
 ### [Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. ](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.md)
-_Context: President, Nelson Mandela_
+_Context: Nelson Mandela, President_
 
 ## [Previous Day...](/news/2013/06/22/index.md)
 

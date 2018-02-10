@@ -9,11 +9,11 @@ _Context: Girl Scout, Oklahoma City, cookies_
 
 ##### Australian Prime Minister
 ### [Australian Prime Minister Tony Abbott restores Knights and Dames to the Australian Honours System through the Order of Australia. ](/news/2014/03/25/australian-prime-minister-tony-abbott-restores-knights-and-dames-to-the-australian-honours-system-through-the-order-of-australia.md)
-_Context: Australian Prime Minister, Tony Abbott, Order of Australia, Dames, Australian Honours System, Knights_
+_Context: Dames, Australian Prime Minister, Knights, Order of Australia, Tony Abbott, Australian Honours System_
 
 ##### Manhattan
 ### [The U.S. District Court in Manhattan finds that the trustee of MF Global may proceed with a lawsuit against former executives thereof, including former CEO Jon Corzine. ](/news/2014/03/25/the-u-s-district-court-in-manhattan-finds-that-the-trustee-of-mf-global-may-proceed-with-a-lawsuit-against-former-executives-thereof-inclu.md)
-_Context: MF Global, Jon Corzine, Manhattan_
+_Context: Jon Corzine, Manhattan, MF Global_
 
 ##### Tak Province
 ### [A bus in Tak Province, Thailand, plunges into a ravine, killing 30 people and injuring 22. ](/news/2014/03/25/a-bus-in-tak-province-thailand-plunges-into-a-ravine-killing-30-people-and-injuring-22.md)
@@ -31,7 +31,7 @@ The head of the Irish police force resigns following a controversy over whistleb
 
 ##### Mohammed Badie
 ### [Mohammed Badie, the guide of Egypt's Muslim Brotherhood, will appear in court with 680 others to face charges of incitement to kill. ](/news/2014/03/25/mohammed-badie-the-guide-of-egypt-s-muslim-brotherhood-will-appear-in-court-with-680-others-to-face-charges-of-incitement-to-kill.md)
-_Context: Egypt, Mohammed Badie, Muslim Brotherhood_
+_Context: Muslim Brotherhood, Mohammed Badie, Egypt_
 
 ##### BASE jumping
 ### [Four men are arrested after BASE jumping from the top of the World Trade Center in New York City. ](/news/2014/03/25/four-men-are-arrested-after-base-jumping-from-the-top-of-the-world-trade-center-in-new-york-city.md)

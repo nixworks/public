@@ -5,11 +5,11 @@ Formats: [HTML](2008/07/15/index.html)  [JSON](2008/07/15/index.json)  [XML](200
 
 ##### Liseberg
 ### [ 18 people are injured after a funfair ride composed of a spinning arm with a compartment at one end which carries passengers collapses at the Liseberg theme park Gothenburg, Sweden. ](/news/2008/07/15/18-people-are-injured-after-a-funfair-ride-composed-of-a-spinning-arm-with-a-compartment-at-one-end-which-carries-passengers-collapses-at-t.md)
-_Context: Gothenburg, Sweden, Liseberg_
+_Context: Sweden, Liseberg, Gothenburg_
 
 ##### General Motors
 ### [ General Motors announces plans to suspend its dividend, sell off assets and cut 20% off salaried costs in a response to slumping car sales. ](/news/2008/07/15/general-motors-announces-plans-to-suspend-its-dividend-sell-off-assets-and-cut-20-off-salaried-costs-in-a-response-to-slumping-car-sales.md)
-_Context: dividend, General Motors_
+_Context: General Motors, dividend_
 
 ##### Terrorism
 ### [ A videotape of an interrogation of terrorism suspect Omar Khadr by Canadian officials at the Guantanamo Bay detention camp is released publicly. ](/news/2008/07/15/a-videotape-of-an-interrogation-of-terrorism-suspect-omar-khadr-by-canadian-officials-at-the-guantanamo-bay-detention-camp-is-released-publ.md)
@@ -21,11 +21,11 @@ A suicide bombing at an Iraqi army base north of Baghdad has killed at least 28 
 
 ##### Earthquake
 ### [ An earthquake with a 6.3 magnitude strikes near the island of Rhodes in Greece, leading to one death. ](/news/2008/07/15/an-earthquake-with-a-6-3-magnitude-strikes-near-the-island-of-rhodes-in-greece-leading-to-one-death.md)
-_Context: Greece, Rhodes, earthquake, strikes_
+_Context: Greece, strikes, Rhodes, earthquake_
 
 ##### Belgium
 ### [ Belgian prime minister Yves Leterme resigns after less than four months in office. King Albert II does not accept his resignation. ](/news/2008/07/15/belgian-prime-minister-yves-leterme-resigns-after-less-than-four-months-in-office-king-albert-ii-does-not-accept-his-resignation.md)
-_Context: Yves Leterme, Albert II of Belgium, Belgium, prime minister, King_
+_Context: prime minister, Belgium, Albert II of Belgium, King, Yves Leterme_
 
 ## [Previous Day...](/news/2008/07/14/index.md)
 

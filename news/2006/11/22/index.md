@@ -29,7 +29,7 @@ _Context: Iraq, United Nations_
 
 ##### Federal District Judge
 ### [ United States district judge for the Eastern District of Louisiana Eldon Fallon rules that over seven thousand federal lawsuits against pharmaceutical company Merck claiming that its drug Vioxx caused heart problems could not be combined into one class action suit. ](/news/2006/11/22/united-states-district-judge-for-the-eastern-district-of-louisiana-eldon-fallon-rules-that-over-seven-thousand-federal-lawsuits-against-pha.md)
-_Context: Merck & Co., Eldon Fallon, Vioxx, Eastern District of Louisiana, class action, Federal District Judge_
+_Context: Eldon Fallon, Eastern District of Louisiana, class action, Merck & Co., Vioxx, Federal District Judge_
 
 ##### Nigeria
 ### [ Seven foreign oil workers are taken hostage in Nigeria. Four people die in a rescue effort including one hostage, a soldier and two of the kidnappers. ](/news/2006/11/22/seven-foreign-oil-workers-are-taken-hostage-in-nigeria-four-people-die-in-a-rescue-effort-including-one-hostage-a-soldier-and-two-of-the.md)
@@ -41,7 +41,7 @@ News and opinion from The Times &amp; The Sunday Times
 
 ##### Prime Minister
 ### [ The Prime Minister of Nepal Girija Prasad Koirala and Maoist guerilla leader Prachanda sign a peace treaty ending 11 years of civil war in Nepal. ](/news/2006/11/22/the-prime-minister-of-nepal-girija-prasad-koirala-and-maoist-guerilla-leader-prachanda-sign-a-peace-treaty-ending-11-years-of-civil-war-in.md)
-_Context: Nepal, Prime Minister, Maoist, civil war, Prachanda, Girija Prasad Koirala_
+_Context: Prachanda, Nepal, Prime Minister, Girija Prasad Koirala, civil war, Maoist_
 
 ## [Previous Day...](/news/2006/11/21/index.md)
 

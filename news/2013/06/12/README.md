@@ -5,7 +5,7 @@ Formats: [HTML](2013/06/12/index.html)  [JSON](2013/06/12/index.json)  [XML](201
 
 ##### United Nations
 ### [United Nations peacekeepers from Austria start withdrawing from the Golan Heights. ](/news/2013/06/12/united-nations-peacekeepers-from-austria-start-withdrawing-from-the-golan-heights.md)
-_Context: peacekeepers, Golan Heights, United Nations, Austria_
+_Context: Austria, peacekeepers, United Nations, Golan Heights_
 
 ##### Scotland
 ### [Gunmen kidnap a Scottish man working for a British energy company in the Indonesian province of Aceh. ](/news/2013/06/12/gunmen-kidnap-a-scottish-man-working-for-a-british-energy-company-in-the-indonesian-province-of-aceh.md)
@@ -33,7 +33,7 @@ The U.S. dollar wallowed at a near four-month low against a basket of major curr
 
 ##### Safeway Inc
 ### [Safeway Inc agrees to sell its 200+ Canadian stores to Sobeys for US$5.7 billion. ](/news/2013/06/12/safeway-inc-agrees-to-sell-its-200-canadian-stores-to-sobeys-for-us-5-7-billion.md)
-_Context: Safeway Inc, Sobeys_
+_Context: Sobeys, Safeway Inc_
 
 ##### Nobel Memorial Prize in Economic Sciences
 ### [Nobel Prize-winning economist Robert W. Fogel dies at age 86. ](/news/2013/06/12/nobel-prize-winning-economist-robert-w-fogel-dies-at-age-86.md)

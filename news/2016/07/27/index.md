@@ -37,7 +37,7 @@ Coca-Cola share prices fall after the Dow component cut its organic revenue fore
 
 ##### Indonesia
 ### [In Indonesia, Sri Mulyani Indrawati assumes office as the new Finance Minister. ](/news/2016/07/27/in-indonesia-sri-mulyani-indrawati-assumes-office-as-the-new-finance-minister.md)
-_Context: Sri Mulyani Indrawati, Indonesia_
+_Context: Indonesia, Sri Mulyani Indrawati_
 
 ##### Tesla motors
 ### [Tesla motors opens a 'Gigafactory' near Reno in the middle of the Nevada desert. ](/news/2016/07/27/tesla-motors-opens-a-gigafactory-near-reno-in-the-middle-of-the-nevada-desert.md)
@@ -53,7 +53,7 @@ The crashed remains from Flight MH370 could be as much as 500km further north th
 
 ##### Ice Bucket Challenge
 ### [Two years after its launch, supporters of the Ice Bucket Challenge to bring awareness to ALS celebrate scientific discovery regarding NEK1. ](/news/2016/07/27/two-years-after-its-launch-supporters-of-the-ice-bucket-challenge-to-bring-awareness-to-als-celebrate-scientific-discovery-regarding-nek1.md)
-_Context: Ice Bucket Challenge, ALS, NEK1_
+_Context: ALS, Ice Bucket Challenge, NEK1_
 
 ##### 2015-16 Zika virus epidemic
 ### [Four Florida residents may have been infected by the virus locally. ](/news/2016/07/27/four-florida-residents-may-have-been-infected-by-the-virus-locally.md)

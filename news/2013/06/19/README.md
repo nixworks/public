@@ -13,7 +13,7 @@ Islamist militants carried out a deadly assault on the main U.N. compound in the
 
 ##### Nigeria
 ### [Armed bandits and robbers riding motorbikes kill 48 people in Nigeria's Zamfara State. ](/news/2013/06/19/armed-bandits-and-robbers-riding-motorbikes-kill-48-people-in-nigeria-s-zamfara-state.md)
-_Context: Nigeria, Zamfara State_
+_Context: Zamfara State, Nigeria_
 
 ##### James Gandolfini
 ### [American actor James Gandolfini, best known for portraying Tony Soprano in "The Sopranos", dies of a heart attack at the age of 51. ](/news/2013/06/19/american-actor-james-gandolfini-best-known-for-portraying-tony-soprano-in-the-sopranos-dies-of-a-heart-attack-at-the-age-of-51.md)
@@ -29,7 +29,7 @@ Sky News Australia has the top stories in news online from Australia and the res
 
 ##### France
 ### [Flash flooding in southwest France claims two victims and causes the shrine at Lourdes to be closed. ](/news/2013/06/19/flash-flooding-in-southwest-france-claims-two-victims-and-causes-the-shrine-at-lourdes-to-be-closed.md)
-_Context: France, Lourdes_
+_Context: Lourdes, France_
 
 ##### Nigel Evans
 ### [Nigel Evans, Deputy Speaker of the UK House of Commons, is arrested on suspicion of three counts of indecent assault. ](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.md)
@@ -41,7 +41,7 @@ An Italian court has rejected an attempt by Silvio Berlusconi to strike down a c
 
 ##### Domenico Dolce
 ### [An Italian court convicts fashion designers Domenico Dolce and Stefano Gabbana of tax evasion, giving them suspended sentences and heavy fines. ](/news/2013/06/19/an-italian-court-convicts-fashion-designers-domenico-dolce-and-stefano-gabbana-of-tax-evasion-giving-them-suspended-sentences-and-heavy-fin.md)
-_Context: Domenico Dolce, tax fraud, Stefano Gabbana_
+_Context: Domenico Dolce, Stefano Gabbana, tax fraud_
 
 ##### Xbox One
 ### [After receiving negative feedback, Microsoft decides to change many features of its upcoming Xbox One. ](/news/2013/06/19/after-receiving-negative-feedback-microsoft-decides-to-change-many-features-of-its-upcoming-xbox-one.md)

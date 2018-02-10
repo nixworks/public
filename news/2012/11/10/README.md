@@ -17,7 +17,7 @@ More than 30 rockets fired from the Strip hours after terrorists injure four sol
 
 ##### Pervari
 ### [Seventeen Turkish soldiers are killed in a helicopter crash on Herekol mountain in the Pervari area of Siirt province. The crash occurred due to bad weather conditions. ](/news/2012/11/10/seventeen-turkish-soldiers-are-killed-in-a-helicopter-crash-on-herekol-mountain-in-the-pervari-area-of-siirt-province-the-crash-occurred-du.md)
-_Context: Pervari, Siirt province_
+_Context: Siirt province, Pervari_
 
 ##### IUPUI
 ### [A married couple is presumed dead, seven are hospitalized, and five houses are completely destroyed (at least 27 were damaged and up to 81 were affected) in a massive explosion in the Richmond Hill neighborhood of the far southside of Indianapolis. A faulty furnace or gas leak is suspected. The blast, with an affected area of several blocks, was so large it registered on IUPUI earthquake detectors and was felt for several miles. ](/news/2012/11/10/a-married-couple-is-presumed-dead-seven-are-hospitalized-and-five-houses-are-completely-destroyed-at-least-27-were-damaged-and-up-to-81-w.md)
@@ -29,7 +29,7 @@ Two members of ruling Al-Sabah family were arrested after writing tweets sympath
 
 ##### Central African Republic
 ### [The president of the Central African Republic Francois Bozize orders the detention of his son after he refuses to pay a hotel bill. ](/news/2012/11/10/the-president-of-the-central-african-republic-franassois-boziza-c-orders-the-detention-of-his-son-after-he-refuses-to-pay-a-hotel-bill.md)
-_Context: Central African Republic, Francois Bozize_
+_Context: Francois Bozize, Central African Republic_
 
 ##### George Entwistle
 ### [George Entwistle steps down as Director-General of the BBC following the "Newsnight" child abuse broadcast row. ](/news/2012/11/10/george-entwistle-steps-down-as-director-general-of-the-bbc-following-the-newsnight-child-abuse-broadcast-row.md)
@@ -41,7 +41,7 @@ George Entwistle quits after he admits a Newsnight report has caused a crisis of
 
 ##### U.S. President
 ### [President of the United States Barack Obama officially wins the state of Florida and its 29 electoral votes in the presidential election, putting the final count to 332 electoral votes for Obama--more than the 270 needed to ensure election--to Mitt Romney's 206 electoral votes. ](/news/2012/11/10/president-of-the-united-states-barack-obama-officially-wins-the-state-of-florida-and-its-29-electoral-votes-in-the-presidential-election-pu.md)
-_Context: presidential election, Barack Obama, Mitt Romney, U.S. President, the state, Electoral College_
+_Context: the state, Barack Obama, Electoral College, Mitt Romney, presidential election, U.S. President_
 
 ## [Previous Day...](/news/2012/11/9/index.md)
 

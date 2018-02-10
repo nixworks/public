@@ -5,15 +5,15 @@ Formats: [HTML](2006/07/14/index.html)  [JSON](2006/07/14/index.json)  [XML](200
 
 ##### Juba
 ### [ Talks begin in Juba, Sudan between delegations from the Lord's Resistance Army and the Ugandan Government with a view to ending the conflict centred in Acholiland. The leader of the Ugandan delegation, Internal Affairs Minister Dr Ruhakana Rugunda had stated that obtaining a quick ceasefire is his priority. ](/news/2006/07/14/talks-begin-in-juba-sudan-between-delegations-from-the-lord-s-resistance-army-and-the-ugandan-government-with-a-view-to-ending-the-conflic.md)
-_Context: Lord's Resistance Army, Uganda, Juba, Ruhakana Rugunda_
+_Context: Juba, Ruhakana Rugunda, Lord's Resistance Army, Uganda_
 
 ##### Bosnian Serb
 ### [ The trial of seven former Bosnian Serb officers for alleged involvement in the Srebrenica massacre begins at The Hague war crimes tribunal. Five of the seven standing trial face genocide charges, as well as crimes against humanity. The trial is the largest yet staged at The Hague. ](/news/2006/07/14/the-trial-of-seven-former-bosnian-serb-officers-for-alleged-involvement-in-the-srebrenica-massacre-begins-at-the-hague-war-crimes-tribunal.md)
-_Context: Srebrenica massacre, The Hague, genocide, Bosnian Serb, International Criminal Tribunal for the Former Yugoslavia, crimes against humanity_
+_Context: International Criminal Tribunal for the Former Yugoslavia, Srebrenica massacre, crimes against humanity, Bosnian Serb, The Hague, genocide_
 
 ##### Jaroslaw Kaczynski
 ### [ Jaroslaw Kaczynski is sworn-in as the new Prime Minister of Poland by the President, Lech Kaczynski, his twin brother.](/news/2006/07/14/jarosaaw-kaczyaski-is-sworn-in-as-the-new-prime-minister-of-poland-by-the-president-lech-kaczyaski-his-twin-brother.md)
-_Context: Lech Kaczynski, Jaroslaw Kaczynski, Prime Minister_
+_Context: Jaroslaw Kaczynski, Prime Minister, Lech Kaczynski_
 
 ##### George W. Bush
 ### [ US President George W. Bush has said he will urge Israel to avoid civilian casualties in its attacks on Lebanon, but he's "not going to make military decisions for Israel". ](/news/2006/07/14/us-president-george-w-bush-has-said-he-will-urge-israel-to-avoid-civilian-casualties-in-its-attacks-on-lebanon-but-he-s-not-going-to-mak.md)

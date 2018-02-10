@@ -9,7 +9,7 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### France
 ### [ French lawmakers introduce a bill to criminalize Armenian Genocide denial. The legislation would imprison offenders for one year and fine them up to EUR45,000. Turkey calls upon French legislators to vote against the bill. The Turkish Parliament is considering a bill that would criminalize denial of French human rights violations in Algeria. ](/news/2006/10/9/french-lawmakers-introduce-a-bill-to-criminalize-armenian-genocide-denial-the-legislation-would-imprison-offenders-for-one-year-and-fine-t.md)
-_Context: Algeria, France, human rights, Turkey, genocide of Armenians, EUR_
+_Context: France, EUR, human rights, Turkey, genocide of Armenians, Algeria_
 
 ##### Google
 ### [ Google officially announces that they will buy video sharing website YouTube for US$1.65 billion. ](/news/2006/10/9/google-officially-announces-that-they-will-buy-video-sharing-website-youtube-for-us-1-65-billion.md)
@@ -17,11 +17,11 @@ _Context: USD, Google, YouTube_
 
 ##### South Korea
 ### [ South Korean Ban Ki-moon is nominated to succeed Kofi Annan as the United Nations Secretary-General in an affirmation vote by the Security Council. A confirmation vote by the General Assembly is expected within the next fortnight. ](/news/2006/10/9/south-korean-ban-ki-moon-is-nominated-to-succeed-kofi-annan-as-the-united-nations-secretary-general-in-an-affirmation-vote-by-the-security.md)
-_Context: Kofi Annan, Ban Ki-moon, United Nations Secretary-General, United Nations General Assembly, United Nations, South Korea, United Nations Security Council, fortnight_
+_Context: United Nations Secretary-General, Kofi Annan, Ban Ki-moon, United Nations Security Council, South Korea, United Nations, United Nations General Assembly, fortnight_
 
 ##### Korean Central News Agency
 ### [ The Korean Central News Agency of North Korea reports that the nation has tested its first nuclear weapon in an underground facility at Gilju in North Hamgyong province. This report was at least somewhat confirmed by a seismic event that was measured around the world. ](/news/2006/10/9/the-korean-central-news-agency-of-north-korea-reports-that-the-nation-has-tested-its-first-nuclear-weapon-in-an-underground-facility-at-gil.md)
-_Context: Gilju, Korean Central News Agency, nuclear weapon, North Korea, North Hamgyong_
+_Context: North Korea, North Hamgyong, Korean Central News Agency, nuclear weapon, Gilju_
 
 ##### United States
 ### [ American Edmund S. Phelps wins the 2006 Nobel Memorial Prize in Economic Sciences for work on the trade-offs between inflation and unemployment. ](/news/2006/10/9/american-edmund-s-phelps-wins-the-2006-nobel-memorial-prize-in-economic-sciences-for-work-on-the-trade-offs-between-inflation-and-unemploy.md)

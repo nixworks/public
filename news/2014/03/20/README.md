@@ -9,7 +9,7 @@ _Context: 2014 Kabul Serena Hotel attack, Kabul Serena Hotel, Taliban_
 
 ##### Baghdad
 ### [A suicide bomber attacks a cafe in Baghdad, Iraq, killing 12 people and injuring another 38. ](/news/2014/03/20/a-suicide-bomber-attacks-a-cafe-in-baghdad-iraq-killing-12-people-and-injuring-another-38.md)
-_Context: Iraq, Baghdad_
+_Context: Baghdad, Iraq_
 
 ##### Syrian
 ### [Syrian troops capture the 1,000-year-old Krak des Chevaliers crusader castle from rebels after laying siege to the fortress since January. ](/news/2014/03/20/syrian-troops-capture-the-1-000-year-old-krak-des-chevaliers-crusader-castle-from-rebels-after-laying-siege-to-the-fortress-since-january.md)
@@ -29,7 +29,7 @@ At least nine people are killed and five injured after a passenger train crashes
 
 ##### United States Senate Majority Leader
 ### [United States Senate Majority Leader Harry Reid orders an investigation into the breach by the CIA into the United States Senate Select Committee on Intelligence's computer systems. ](/news/2014/03/20/united-states-senate-majority-leader-harry-reid-orders-an-investigation-into-the-breach-by-the-cia-into-the-united-states-senate-select-comm.md)
-_Context: United States Senate Majority Leader, CIA, Harry Reid, Senate Intelligence Committee_
+_Context: Harry Reid, Senate Intelligence Committee, United States Senate Majority Leader, CIA_
 
 ##### 2014 Crimean crisis
 ### [The Chancellor of Germany, Angela Merkel, announces the possibility of further sanctions from the European Union against Russia for the invasion and annexation of Crimea. ](/news/2014/03/20/the-chancellor-of-germany-angela-merkel-announces-the-possibility-of-further-sanctions-from-the-european-union-against-russia-for-the-inva.md)

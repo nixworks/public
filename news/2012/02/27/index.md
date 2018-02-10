@@ -17,7 +17,7 @@ The Syrian military launches a new offensive against opposition-held towns in th
 
 ##### Bradley Manning
 ### [Jailed U.S. serviceman Bradley Manning, U.S. political scientist Gene Sharp and news network Al Jazeera are among those known to have been nominated for the 2012 Nobel Peace Prize. ](/news/2012/02/27/jailed-u-s-serviceman-bradley-manning-u-s-political-scientist-gene-sharp-and-news-network-al-jazeera-are-among-those-known-to-have-been-n.md)
-_Context: Al Jazeera, Nobel Peace Prize, Bradley Manning, Gene Sharp_
+_Context: Bradley Manning, Al Jazeera, Nobel Peace Prize, Gene Sharp_
 
 ##### German
 ### [The German Bundestag votes overwhelmingly in support for a Greek bailout. ](/news/2012/02/27/the-german-bundestag-votes-overwhelmingly-in-support-for-a-greek-bailout.md)
@@ -29,11 +29,11 @@ _Context: Yahoo, Facebook_
 
 ##### Astrakhan
 ### [A section of a nine-story apartment building in the city of Astrakhan, Russia, collapses in a natural gas explosion, injuring at least 12 people with 11 people missing ](/news/2012/02/27/a-section-of-a-nine-story-apartment-building-in-the-city-of-astrakhan-russia-collapses-in-a-natural-gas-explosion-injuring-at-least-12-pe.md)
-_Context: Astrakhan apartment gas explosion, Russia, Astrakhan_
+_Context: Astrakhan, Astrakhan apartment gas explosion, Russia_
 
 ##### East Africa
 ### [East Africa's high-speed internet access is severely damaged by a ship dropping its anchor onto the fibre-optic cables of the TEAMS and EASSy cable systems off the coast of Mombasa, Kenya. ](/news/2012/02/27/east-africa-s-high-speed-internet-access-is-severely-damaged-by-a-ship-dropping-its-anchor-onto-the-fibre-optic-cables-of-the-teams-and-eass.md)
-_Context: Kenya, Mombasa, East Africa, TEAMS, EASSy_
+_Context: TEAMS, Mombasa, EASSy, Kenya, East Africa_
 
 ##### Wales
 ### [A farming alert is issued in Wales as an outbreak of Schmallenberg virus affects livestock in at least 74 farms in England. ](/news/2012/02/27/a-farming-alert-is-issued-in-wales-as-an-outbreak-of-schmallenberg-virus-affects-livestock-in-at-least-74-farms-in-england.md)
@@ -41,7 +41,7 @@ Welsh farmers were today on high alert for signs of a deadly virus that has kill
 
 ##### Costa Allegra
 ### [The "Costa Allegra" cruise ship is left adrift in the Indian Ocean near the Seychelles following an engine room fire. ](/news/2012/02/27/the-costa-allegra-cruise-ship-is-left-adrift-in-the-indian-ocean-near-the-seychelles-following-an-engine-room-fire.md)
-_Context: Seychelles, engine room, Costa Allegra, Indian_
+_Context: Seychelles, Indian, engine room, Costa Allegra_
 
 ##### Transportation Safety Board of Canada
 ### [The Transportation Safety Board of Canada begins its investigation into the Burlington train derailment. ](/news/2012/02/27/the-transportation-safety-board-of-canada-begins-its-investigation-into-the-burlington-train-derailment.md)
@@ -53,7 +53,7 @@ In the darkest moments of last year’s nuclear accident, leaders secretly consi
 
 ##### Argentina
 ### [Argentina turns away two cruise ships from the port of Ushuaia &ndash; P&O Cruises "Adonia" and Princess Cruises' "Star Princess" &ndash; because the ships had earlier visited the Falkland Islands. ](/news/2012/02/27/argentina-turns-away-two-cruise-ships-from-the-port-of-ushuaia-ndash-p-o-cruises-adonia-and-princess-cruises-star-princess-ndash-be.md)
-_Context: Ushuaia, P&O Cruises, Princess Cruises, Argentina, Falkland Islands, cruise ship_
+_Context: Falkland Islands, Princess Cruises, Ushuaia, Argentina, cruise ship, P&O Cruises_
 
 ##### WikiLeaks
 ### [WikiLeaks begins disclosing 5 million e-mails from the private intelligence company Stratfor. ](/news/2012/02/27/wikileaks-begins-disclosing-5-million-e-mails-from-the-private-intelligence-company-stratfor.md)
@@ -69,11 +69,11 @@ One student was killed and four were injured in a shooting Monday morning&nbsp;a
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard wins a leadership ballot in the Australian Labor Party, defeating former Prime Minister Kevin Rudd. ](/news/2012/02/27/the-prime-minister-of-australia-julia-gillard-wins-a-leadership-ballot-in-the-australian-labor-party-defeating-former-prime-minister-kevin.md)
-_Context: Australian Prime Minister, Australian Labor Party, Kevin Rudd, Julia Gillard, leadership ballot_
+_Context: leadership ballot, Australian Prime Minister, Kevin Rudd, Australian Labor Party, Julia Gillard_
 
 ##### Ukraine's Minister of the Interior
 ### [Former Ukrainian interior minister Yuriy Lutsenko is sentenced to fours year in jail for embezzlement and abuse of office. ](/news/2012/02/27/former-ukrainian-interior-minister-yuriy-lutsenko-is-sentenced-to-fours-year-in-jail-for-embezzlement-and-abuse-of-office.md)
-_Context: abuse of office, embezzlement, Yuriy Lutsenko, Ukraine's Minister of the Interior_
+_Context: abuse of office, Yuriy Lutsenko, Ukraine's Minister of the Interior, embezzlement_
 
 ## [Previous Day...](/news/2012/02/26/index.md)
 

@@ -9,7 +9,7 @@ The missiles could provide protection for rebel fighters in the north by creatin
 
 ##### A gunman opens fire
 ### [A gunman opens fire in northeast Moscow, killing five and injuring two. ](/news/2012/11/7/a-gunman-opens-fire-in-northeast-moscow-killing-five-and-injuring-two.md)
-_Context: A gunman opens fire, Moscow_
+_Context: Moscow, A gunman opens fire_
 
 ##### Earthquake measuring 7.3
 ### [An earthquake measuring 7.3 on the Richter scale kills 48 people in northern Guatemala. ](/news/2012/11/7/an-earthquake-measuring-7-3-on-the-richter-scale-kills-48-people-in-northern-guatemala.md)

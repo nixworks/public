@@ -13,11 +13,11 @@ _Context: Games Convention_
 
 ##### Comair Flight 5191
 ### [ Comair Flight 5191 crashes in Lexington, Kentucky. Only one person, out of three crew and 47 passengers, survived. ](/news/2006/08/27/comair-flight-5191-crashes-in-lexington-kentucky-only-one-person-out-of-three-crew-and-47-passengers-survived.md)
-_Context: Lexington, Kentucky, Comair Flight 5191_
+_Context: Comair Flight 5191, Lexington, Kentucky_
 
 ##### Iran
 ### [ Iran test-fires a Sagheb missile during exercises in the Persian Gulf. ](/news/2006/08/27/iran-test-fires-a-sagheb-missile-during-exercises-in-the-persian-gulf.md)
-_Context: Sagheb, Iran, Persian Gulf_
+_Context: Persian Gulf, Iran, Sagheb_
 
 ##### Tropical Storm Ernesto
 ### [ Hurricane Ernesto becomes the first hurricane of the 2006 Atlantic hurricane season. Jeb Bush later declares a state of emergency due to its possible impact on Florida later in the week. ](/news/2006/08/27/hurricane-ernesto-becomes-the-first-hurricane-of-the-2006-atlantic-hurricane-season-jeb-bush-later-declares-a-state-of-emergency-due-to-it.md)
@@ -29,11 +29,11 @@ _Context: Iraq, Baghdad_
 
 ##### Pakistan
 ### [ Pakistan increases security in Balochistan as rioting follows the killing of rebel leader Nawab Akbar Bugti.](/news/2006/08/27/pakistan-increases-security-in-balochistan-as-rioting-follows-the-killing-of-rebel-leader-nawab-akbar-bugti.md)
-_Context: Pakistan, Balochistan, Nawab Akbar Bugti_
+_Context: Nawab Akbar Bugti, Balochistan, Pakistan_
 
 ##### Fox News
 ### [ Two Fox News Channel journalists are released after being held hostage for two weeks in the Gaza Strip. Steve Centanni and Olaf Wiig were earlier claimed to have been forced by their captors to convert to Islam. ](/news/2006/08/27/two-fox-news-channel-journalists-are-released-after-being-held-hostage-for-two-weeks-in-the-gaza-strip-steve-centanni-and-olaf-wiig-were-e.md)
-_Context: Gaza Strip, Olaf Wiig, Fox News, Islam, Steve Centanni_
+_Context: Olaf Wiig, Fox News, Steve Centanni, Gaza Strip, Islam_
 
 ## [Previous Day...](/news/2006/08/26/index.md)
 

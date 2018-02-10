@@ -25,7 +25,7 @@ A 400lb bomb partially exploded outside the Policing Board headquarters in Belfa
 
 ##### Romania
 ### [ Romanians go to the polls for the first round of the presidential election and to vote on proposed parliamentary reform. ](/news/2009/11/22/romanians-go-to-the-polls-for-the-first-round-of-the-presidential-election-and-to-vote-on-proposed-parliamentary-reform.md)
-_Context: presidential election run-off, proposed parliamentary reform, Romania_
+_Context: Romania, presidential election run-off, proposed parliamentary reform_
 
 ##### Jeong Nam-gyu
 ### [ Jeong Nam-gyu, one of South Korea's most prolific serial killers, commits suicide in his cell on death row. ](/news/2009/11/22/jeong-nam-gyu-one-of-south-korea-s-most-prolific-serial-killers-commits-suicide-in-his-cell-on-death-row.md)
@@ -33,15 +33,15 @@ _Context: Jeong Nam-gyu, South Korea_
 
 ##### Iran
 ### [ Former Iranian Vice President Mohammad-Ali Abtahi who was sentenced to six years imprisonment in connection with the June election protests is released on bail. ](/news/2009/11/22/former-iranian-vice-president-mohammad-ali-abtahi-who-was-sentenced-to-six-years-imprisonment-in-connection-with-the-june-election-protests.md)
-_Context: First Vice President, Iran, protests against the regime, Mohammad-Ali Abtahi_
+_Context: Mohammad-Ali Abtahi, protests against the regime, First Vice President, Iran_
 
 ##### 2009 Azerbaijan-Armenia negotiations in Munich
 ### [ 2009 Azerbaijan-Armenia negotiations in Munich: Azerbaijan and Armenia hold talks on the Nagorno-Karabakh conflict. Azerbaijan has warned that the meeting of presidents in Munich will be "decisive" and that its troops are ready to take the territory by force unless there is a breakthrough in negotiations. ](/news/2009/11/22/2009-azerbaijan-armenia-negotiations-in-munich-azerbaijan-and-armenia-hold-talks-on-the-nagorno-karabakh-conflict-azerbaijan-has-warned-t.md)
-_Context: Munich, Nagorno-Karabakh region, Azerbaijani forces, Azerbaijan, Armenia, 2009 Azerbaijan-Armenia negotiations in Munich_
+_Context: Armenia, Azerbaijan, 2009 Azerbaijan-Armenia negotiations in Munich, Azerbaijani forces, Nagorno-Karabakh region, Munich_
 
 ##### Climate change
 ### [ Debate is stoked over whether scientists have overstated the case for man-made climate change after computer hackers break into a server at University of East Anglia, the well-respected climate change research center. ](/news/2009/11/22/debate-is-stoked-over-whether-scientists-have-overstated-the-case-for-man-made-climate-change-after-computer-hackers-break-into-a-server-at.md)
-_Context: University of East Anglia, hackers, criticised, climate change_
+_Context: climate change, criticised, hackers, University of East Anglia_
 
 ##### Indonesia
 ### [ An Indonesian ferry carrying over 200 passengers sinks off the cost of Sumatra. ](/news/2009/11/22/an-indonesian-ferry-carrying-over-200-passengers-sinks-off-the-cost-of-sumatra.md)

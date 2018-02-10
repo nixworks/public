@@ -9,7 +9,7 @@ _Context: New York Yankees, baseball world series, Philadelphia Phillies_
 
 ##### Houthi
 ### [ Rebel Houthis in Yemen cross the border into Saudi Arabia, killing a Saudi security officer and injuring 11 others. ](/news/2009/11/4/rebel-houthis-in-yemen-cross-the-border-into-saudi-arabia-killing-a-saudi-security-officer-and-injuring-11-others.md)
-_Context: Houthi, Yemen, Saudi Arabia, Shia insurgency in Yemen_
+_Context: Houthi, Saudi Arabia, Yemen, Shia insurgency in Yemen_
 
 ##### Israeli navy
 ### [ The Israeli navy intercepts the Francop, a ship alleging to have Iranian weapons bound for Hezbollah in Lebanon. ](/news/2009/11/4/the-israeli-navy-intercepts-the-francop-a-ship-alleging-to-have-iranian-weapons-bound-for-hezbollah-in-lebanon.md)
@@ -37,11 +37,11 @@ Twenty-three US secret agents, accused of seizing imam, sentenced to jail in abs
 
 ##### United States
 ### [ United States officials meet Aung San Suu Kyi and the Burmese Prime Minister Thein Sein in rare talks. ](/news/2009/11/4/united-states-officials-meet-aung-san-suu-kyi-and-the-burmese-prime-minister-thein-sein-in-rare-talks.md)
-_Context: Thein Sein, Burma, United States, Prime Minister, Aung San Suu Kyi_
+_Context: Burma, Thein Sein, Aung San Suu Kyi, Prime Minister, United States_
 
 ##### President of Sierra Leone
 ### [ The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. ](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.md)
-_Context: Sierra Leone, Ernest Bai Koroma, President of Sierra Leone_
+_Context: Sierra Leone, President of Sierra Leone, Ernest Bai Koroma_
 
 ##### Italy
 ### [ Italian politicians and the Vatican condemn a ruling by the European Court of Human Rights that says having a crucifix in a classroom is a breach of human rights. ](/news/2009/11/4/italian-politicians-and-the-vatican-condemn-a-ruling-by-the-european-court-of-human-rights-that-says-having-a-crucifix-in-a-classroom-is-a.md)
@@ -49,15 +49,15 @@ Italian political leaders have united to condemn a European court ruling that cr
 
 ##### Earthquake
 ### [ Around 700 people are injured in two earthquakes in southern Iran. ](/news/2009/11/4/around-700-people-are-injured-in-two-earthquakes-in-southern-iran.md)
-_Context: earthquake, Iran_
+_Context: Iran, earthquake_
 
 ##### China
 ### [ China approves a Disney theme park in Shanghai after a decade of negotiations. ](/news/2009/11/4/china-approves-a-disney-theme-park-in-shanghai-after-a-decade-of-negotiations.md)
-_Context: Disney, theme park, China, Shanghai_
+_Context: Shanghai, theme park, China, Disney_
 
 ##### Australia
 ### [ Australia and New Zealand expel Fiji's top diplomats in response to the decision of the Government of Prime Minister Frank Bainimarama to expel senior Australian and New Zealand diplomats from Fiji. ](/news/2009/11/4/australia-and-new-zealand-expel-fiji-s-top-diplomats-in-response-to-the-decision-of-the-government-of-prime-minister-frank-bainimarama-to-e.md)
-_Context: Australia, Voreqe Bainimarama, New Zealand, Fiji, Prime Minister_
+_Context: Australia, Prime Minister, Voreqe Bainimarama, New Zealand, Fiji_
 
 ##### Huwei
 ### [ A fire at a warehouse in Huwei Yunlin County, Taiwan, destroys between 400 and 500 historic puppets. ](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.md)

@@ -9,7 +9,7 @@ One person was killed and least three wounded as an armed group seized a police 
 
 ##### Syrian Civil War
 ### [Syrian Government forces capture the main road into the parts of Aleppo controlled by rebels. ](/news/2016/07/17/syrian-government-forces-capture-the-main-road-into-the-parts-of-aleppo-controlled-by-rebels.md)
-_Context: Syrian Government, Aleppo, Syrian Civil War_
+_Context: Syrian Civil War, Syrian Government, Aleppo_
 
 ##### Second Libyan Civil War
 ### [UN-backed talks are underway in Tunis regarding the future of Libya, including discussions on forming a unified army for the Government of National Accord. ](/news/2016/07/17/un-backed-talks-are-underway-in-tunis-regarding-the-future-of-libya-including-discussions-on-forming-a-unified-army-for-the-government-of-n.md)
@@ -29,7 +29,7 @@ BEIJING (AP) — Eight people in an eastern Chinese city were killed when the co
 
 ##### Breighton Aerodrome
 ### [A helicopter crashes at Breighton Aerodrome in the United Kingdom, with reports of five casualties. ](/news/2016/07/17/a-helicopter-crashes-at-breighton-aerodrome-in-the-united-kingdom-with-reports-of-five-casualties.md)
-_Context: United Kingdom, Breighton Aerodrome_
+_Context: Breighton Aerodrome, United Kingdom_
 
 ##### 2016 shooting of Baton Rouge police officers
 ### [At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. ](/news/2016/07/17/at-least-three-baton-rouge-police-department-officers-are-shot-dead-and-several-others-are-wounded-by-a-gunman-in-baton-rouge-louisiana.md)

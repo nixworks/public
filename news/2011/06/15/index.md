@@ -37,7 +37,7 @@ Peruvian Nobel laureate Mario Vargas Llosa criticises authoritarian governments 
 
 ##### Academy of Motion Picture Arts and Sciences
 ### [The Academy of Motion Picture Arts and Sciences changes the rules regarding the Academy Award for Best Picture at the 84th Academy Awards, allowing anywhere from five to ten nominees, provided that each receives a minimum of 5% of the nominating votes. ](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.md)
-_Context: Academy of Motion Picture Arts and Sciences, Academy Award for Best Picture, 2012 Academy Awards_
+_Context: Academy Award for Best Picture, Academy of Motion Picture Arts and Sciences, 2012 Academy Awards_
 
 ##### Rapper
 ### [Dexter Isaac, a convicted killer, claims responsibility for an attempted assassination of rapper Tupac Shakur in 1994. ](/news/2011/06/15/dexter-isaac-a-convicted-killer-claims-responsibility-for-an-attempted-assassination-of-rapper-tupac-shakur-in-1994.md)
@@ -49,7 +49,7 @@ The federal government has served notice that it intends to introduce back-to-wo
 
 ##### TerreStar Networks
 ### [TerreStar Networks, a mobile-communications company that has been in bankruptcy since October 2010, picks Dish Network as the stalking horse bidder for an upcoming auction. ](/news/2011/06/15/terrestar-networks-a-mobile-communications-company-that-has-been-in-bankruptcy-since-october-2010-picks-dish-network-as-the-stalking-horse.md)
-_Context: stalking horse, Dish Network, bankruptcy, TerreStar Networks, October 2010_
+_Context: stalking horse, bankruptcy, Dish Network, October 2010, TerreStar Networks_
 
 ##### Northern Rock
 ### [British public-owned bank Northern Rock is to be privatised by the coalition government. ](/news/2011/06/15/british-public-owned-bank-northern-rock-is-to-be-privatised-by-the-coalition-government.md)
@@ -61,11 +61,11 @@ A close watch is being kept on river levels across the lower mid-north coast of 
 
 ##### Australia
 ### [Australian airlines QANTAS and Virgin Australia suspends flights to Perth, Western Australia, due to ash from the eruption in Chile, with flights to Tasmania and New Zealand also cancelled. ](/news/2011/06/15/australian-airlines-qantas-and-virgin-australia-suspends-flights-to-perth-western-australia-due-to-ash-from-the-eruption-in-chile-with-fl.md)
-_Context: Virgin Australia, Chile, QANTAS, Australia, Perth, Tasmania, New Zealand_
+_Context: New Zealand, Tasmania, Perth, Chile, Australia, QANTAS, Virgin Australia_
 
 ##### Yonhap
 ### [The Yonhap news agency reports that nine North Koreans have defected to South Korea across the Yellow Sea. ](/news/2011/06/15/the-yonhap-news-agency-reports-that-nine-north-koreans-have-defected-to-south-korea-across-the-yellow-sea.md)
-_Context: South Korea, Yellow Sea, North Korea, Yonhap_
+_Context: Yellow Sea, North Korea, Yonhap, South Korea_
 
 ##### Liberia
 ### [Liberia suspends diplomatic ties with Libya, after United States Secretary of State Hillary Clinton called on countries to sever ties with Libya. ](/news/2011/06/15/liberia-suspends-diplomatic-ties-with-libya-after-united-states-secretary-of-state-hillary-clinton-called-on-countries-to-sever-ties-with-l.md)
@@ -73,11 +73,11 @@ _Context: Liberia, United States Secretary of State, Libya, Hillary Clinton_
 
 ##### Australian Broadcasting Corporation
 ### [The Australian Broadcasting Corporation reports that the son of the acting Prime Minister of Papua New Guinea Sam Abal has been arrested on murder charges. ](/news/2011/06/15/the-australian-broadcasting-corporation-reports-that-the-son-of-the-acting-prime-minister-of-papua-new-guinea-sam-abal-has-been-arrested-on.md)
-_Context: Sam Abal, Papua New Guinea, Prime Minister, Australian Broadcasting Corporation_
+_Context: Sam Abal, Prime Minister, Australian Broadcasting Corporation, Papua New Guinea_
 
 ##### State's legislature
 ### [The General Assembly of the U.S. state of North Carolina votes on a motion to veto override by the Governor Bev Perdue of the state budget. ](/news/2011/06/15/the-general-assembly-of-the-u-s-state-of-north-carolina-votes-on-a-motion-to-veto-override-by-the-governor-bev-perdue-of-the-state-budget.md)
-_Context: veto override, Bev Perdue, Governor, North Carolina, state's legislature, U.S. state_
+_Context: Governor, Bev Perdue, state's legislature, veto override, U.S. state, North Carolina_
 
 ##### Public and Commercial Services Union
 ### [Members of the United Kingdom's Public and Commercial Services Union agree to join teachers and lecturers in strike action planned for 30 June. ](/news/2011/06/15/members-of-the-united-kingdom-s-public-and-commercial-services-union-agree-to-join-teachers-and-lecturers-in-strike-action-planned-for-30-ju.md)
@@ -85,7 +85,7 @@ Up to 750,000 public sector workers will strike on 30 June after members of the 
 
 ##### First
 ### [The first lunar eclipse of the year occurs with it being the first central lunar eclipse since 1990. ](/news/2011/06/15/the-first-lunar-eclipse-of-the-year-occurs-with-it-being-the-first-central-lunar-eclipse-since-1990.md)
-_Context: first, central lunar eclipse, lunar eclipse_
+_Context: lunar eclipse, first, central lunar eclipse_
 
 ## [Previous Day...](/news/2011/06/14/index.md)
 

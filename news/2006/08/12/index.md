@@ -5,7 +5,7 @@ Formats: [HTML](2006/08/12/index.html)  [JSON](2006/08/12/index.json)  [XML](200
 
 ##### War
 ### [ The United Nations Human Rights Council has voted to send a team to Lebanon to investigate alleged abuses by Israel. ](/news/2006/08/12/the-united-nations-human-rights-council-has-voted-to-send-a-team-to-lebanon-to-investigate-alleged-abuses-by-israel.md)
-_Context: United Nations, Israel, Lebanese, war, Human Rights Council_
+_Context: Israel, Human Rights Council, Lebanese, war, United Nations_
 
 ## [Previous Day...](/news/2006/08/11/index.md)
 

@@ -9,15 +9,15 @@ The parents of a US hostage who Islamic State militants say was killed by a Jord
 
 ##### Boko Haram
 ### [Boko Haram attacks two towns in Niger but is repulsed by the Niger Army with assistance from the Chad Air Force. ](/news/2015/02/6/boko-haram-attacks-two-towns-in-niger-but-is-repulsed-by-the-niger-army-with-assistance-from-the-chad-air-force.md)
-_Context: Niger, Chad Air Force, Niger Army, Boko Haram_
+_Context: Niger Army, Niger, Boko Haram, Chad Air Force_
 
 ##### German
 ### [German engineering firm Siemens announces plans to axe 7,800 jobs, 3000 of which are in Germany. ](/news/2015/02/6/german-engineering-firm-siemens-announces-plans-to-axe-7-800-jobs-3000-of-which-are-in-germany.md)
-_Context: German, German, Siemens_
+_Context: German, Siemens, German_
 
 ##### Ecuador
 ### [Ecuador declares a state of emergency in the Galpagos Islands after a ship, "The Floreana", carrying hazardous materials ran aground January 28. ](/news/2015/02/6/ecuador-declares-a-state-of-emergency-in-the-galapagos-islands-after-a-ship-the-floreana-carrying-hazardous-materials-ran-aground-januar.md)
-_Context: Ecuador, state of emergency, Galpagos Islands_
+_Context: Galpagos Islands, Ecuador, state of emergency_
 
 ##### Mexican police
 ### [Mexican police find at least 61 bodies in an abandoned crematorium in Acapulco. ](/news/2015/02/6/mexican-police-find-at-least-61-bodies-in-an-abandoned-crematorium-in-acapulco.md)

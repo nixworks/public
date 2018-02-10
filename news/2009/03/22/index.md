@@ -9,35 +9,35 @@ _Context: Mount Redoubt, Alaska, volcano_
 
 ##### Pilatus PC-12
 ### [ A Pilatus PC-12 crashes near Butte, Montana, killing at least 17 people. ](/news/2009/03/22/a-pilatus-pc-12-crashes-near-butte-montana-killing-at-least-17-people.md)
-_Context: Montana, Butte, crashes, Pilatus PC-12_
+_Context: crashes, Pilatus PC-12, Butte, Montana_
 
 ##### Police officer
 ### [ Four police officers are killed in Oakland, California, United States. ](/news/2009/03/22/four-police-officers-are-killed-in-oakland-california-united-states.md)
-_Context: Oakland, California, killed, police officer, United States, California_
+_Context: Oakland, California, killed, United States, California, police officer_
 
 ##### India
 ### [ India's Board of Control for Cricket will relocate the 2009 Premier League outside the country. ](/news/2009/03/22/india-s-board-of-control-for-cricket-will-relocate-the-2009-premier-league-outside-the-country.md)
-_Context: Indian Premier League, India, Board of Control for Cricket, win_
+_Context: Indian Premier League, India, win, Board of Control for Cricket_
 
 ##### India
 ### [ India and Pakistan exchange gunfire at the Line of Control. ](/news/2009/03/22/india-and-pakistan-exchange-gunfire-at-the-line-of-control.md)
-_Context: Pakistan, India, Line of Control, Gunshot, India-Pakistan relations_
+_Context: Gunshot, India, Line of Control, Pakistan, India-Pakistan relations_
 
 ##### England
 ### [ England defeats New Zealand to win the Women's Cricket World Cup. ](/news/2009/03/22/england-defeats-new-zealand-to-win-the-women-s-cricket-world-cup.md)
-_Context: New Zealand, Women's Cricket World Cup, England, win_
+_Context: win, New Zealand, England, Women's Cricket World Cup_
 
 ##### Australia
 ### [ An Australian motorcycle gang assaults and kills a man at Sydney Airport. ](/news/2009/03/22/an-australian-motorcycle-gang-assaults-and-kills-a-man-at-sydney-airport.md)
-_Context: Australia, Sydney Airport, beating, outlaw motorcycle gangs_
+_Context: Sydney Airport, beating, outlaw motorcycle gangs, Australia_
 
 ##### Tibet
 ### [ Ninety-three Tibetan monks are arrested after attacking a police station in Qinghai, China. ](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.md)
-_Context: China, attacking, monk, Tibet, Qinghai, arrest, police station_
+_Context: monk, attacking, arrest, Tibet, police station, Qinghai, China_
 
 ##### Pope
 ### [ Thousands of people assemble for Pope Benedict XVI's Catholic Mass in Luanda, Angola. ](/news/2009/03/22/thousands-of-people-assemble-for-pope-benedict-xvi-s-catholic-mass-in-luanda-angola.md)
-_Context: Angola, Mass, Roman Catholic Church, Pope, Pope Benedict XVI, Luanda_
+_Context: Mass, Angola, Pope, Roman Catholic Church, Luanda, Pope Benedict XVI_
 
 ##### Somalia
 ### [ Somali pirates release the Indian cargo ship "Al Rafiquei" one day after hijacking it. ](/news/2009/03/22/somali-pirates-release-the-indian-cargo-ship-al-rafiquei-one-day-after-hijacking-it.md)

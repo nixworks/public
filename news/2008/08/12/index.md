@@ -9,15 +9,15 @@ _Context: South Waziristan, Pakistan_
 
 ##### Mark David Chapman
 ### [ Mark David Chapman is denied parole for a fifth time for the murder of ex-Beatle John Lennon in 1980. ](/news/2008/08/12/mark-david-chapman-is-denied-parole-for-a-fifth-time-for-the-murder-of-ex-beatle-john-lennon-in-1980.md)
-_Context: Beatle, 1980, Mark David Chapman, John Lennon_
+_Context: Mark David Chapman, John Lennon, Beatle, 1980_
 
 ##### United States Treasury Department
 ### [ The United States Department of the Treasury imposes sanctions on five Iranian companies for assisting the development of the nuclear program of Iran. ](/news/2008/08/12/the-united-states-department-of-the-treasury-imposes-sanctions-on-five-iranian-companies-for-assisting-the-development-of-the-nuclear-progr.md)
-_Context: Iran, United States Treasury Department, nuclear program_
+_Context: Iran, nuclear program, United States Treasury Department_
 
 ##### Russian President
 ### [ President of Russia Dmitry Medvedev announced that the operation of Russian forces in South Ossetia is completed. He added that 'The aggressor has been punished, having sustained considerable losses. Its armed forces have been disorganised'. Medvedev also ordered the Russian Ministry of Defence to consider awarding the peacekeepers and military personnel that have 'showed their best' during the operation. ](/news/2008/08/12/president-of-russia-dmitry-medvedev-announced-that-the-operation-of-russian-forces-in-south-ossetia-is-completed-he-added-that-the-aggres.md)
-_Context:  peacekeepers, 2008 South Ossetia war, Battle of Tskhinvali, Dmitry Medvedev, Russian Ministry of Defence, Russian President_
+_Context: Russian President, Battle of Tskhinvali, 2008 South Ossetia war, Russian Ministry of Defence, Dmitry Medvedev,  peacekeepers_
 
 ##### Flood
 ### [ Floods and landslides associated with Tropical Storm Kammuri kill 28 people in southwest China and force 11,000 people from their homes. ](/news/2008/08/12/floods-and-landslides-associated-with-tropical-storm-kammuri-kill-28-people-in-southwest-china-and-force-11-000-people-from-their-homes.md)

@@ -37,7 +37,7 @@ A New York businesswoman who wanted to bring a &quot;grander scale&quot; to her 
 
 ##### Karowe AK6
 ### [The world's second-largest diamond of gem quality, Karowe AK6, is found in the Karowe mine located north of the Botswanan capital Gaborone by the Lucara Diamond Corp. The 1,111-carat diamond is second only to the 3,106-carat Cullinan diamond (Star of Africa) found in South Africa in 1905. ](/news/2015/11/20/the-worldas-second-largest-diamond-of-gem-quality-karowe-ak6-is-found-in-the-karowe-mine-located-north-of-the-botswanan-capital-gaborone.md)
-_Context: Botswana, Cullinan diamond, Karowe AK6, South Africa, Gaborone, Lucara Diamond Corp._
+_Context: Karowe AK6, South Africa, Gaborone, Cullinan diamond, Botswana, Lucara Diamond Corp._
 
 ##### National Union of Journalists
 ### [Britain's National Union of Journalists announces a strike against the "Financial Times", protesting the changes in pension arrangements since the acquisition of the FT by a Japanese media group, Nikkei. ](/news/2015/11/20/britain-s-national-union-of-journalists-announces-a-strike-against-the-financial-times-protesting-the-changes-in-pension-arrangements-sin.md)

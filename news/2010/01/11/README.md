@@ -17,11 +17,11 @@ _Context: Chinese Academy of Social Sciences_
 
 ##### United Nations Secretary-General
 ### [United Nations Secretary-General Ban Ki-moon outlines seven priorities for 2010 and urges a renewed focus on sustainable development, ending poverty, disease and hunger. ](/news/2010/01/11/united-nations-secretary-general-ban-ki-moon-outlines-seven-priorities-for-2010-and-urges-a-renewed-focus-on-sustainable-development-ending.md)
-_Context: United Nations Secretary-General, Ban Ki-moon, sustainable development_
+_Context: Ban Ki-moon, sustainable development, United Nations Secretary-General_
 
 ##### Wolfgang Wodarg
 ### [Wolfgang Wodarg, the Council of Europe's head of health affairs, claims that the 2009 flu pandemic was a "false pandemic" orchestrated by the pharmaceutical industry to sell vaccines. ](/news/2010/01/11/wolfgang-wodarg-the-council-of-europe-s-head-of-health-affairs-claims-that-the-2009-flu-pandemic-was-a-false-pandemic-orchestrated-by-th.md)
-_Context: Wolfgang Wodarg, flu pandemic, pharmaceutical industry, Council of Europe_
+_Context: Wolfgang Wodarg, Council of Europe, flu pandemic, pharmaceutical industry_
 
 ##### City Health Department
 ### [The New York City Health Department seeks national reduction of salt in food. ](/news/2010/01/11/the-new-york-city-health-department-seeks-national-reduction-of-salt-in-food.md)
@@ -29,7 +29,7 @@ _Context: City Health Department, salt_
 
 ##### United Nations
 ### [The United Nations seeks to virtually eliminate mother-to-child transmission of HIV-AIDS in Africa. Michel Sidib visited Sauri in western Kenya, which is a village of the Millennium Villages Project. ](/news/2010/01/11/the-united-nations-seeks-to-virtually-eliminate-mother-to-child-transmission-of-hiv-aids-in-africa-michel-sidibe-visited-sauri-in-western-k.md)
-_Context: Millennium Villages Project, Michel Sidib, United Nations, Kenya, Sauri, AIDS_
+_Context: Sauri, AIDS, United Nations, Michel Sidib, Kenya, Millennium Villages Project_
 
 ##### North Korea
 ### [North Korea proposes a peace treaty, replacing the Korean War armistice. ](/news/2010/01/11/north-korea-proposes-a-peace-treaty-replacing-the-korean-war-armistice.md)
@@ -37,7 +37,7 @@ _Context: North Korea, Korean War_
 
 ##### Perry v. Schwarzenegger
 ### ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md)
-_Context: Perry v. Schwarzenegger, San Francisco, same-sex marriage, landmark case, reversed its legalization_
+_Context: San Francisco, landmark case, same-sex marriage, reversed its legalization, Perry v. Schwarzenegger_
 
 ##### Ignacio Allende
 ### [Hundreds of prisoners are transferred from the Ignacio Allende prison in Veracruz, Mexico, in preparation for a controversial Mel Gibson film shoot. Protests from relatives of the prisoners are ignored. ](/news/2010/01/11/hundreds-of-prisoners-are-transferred-from-the-ignacio-allende-prison-in-veracruz-mexico-in-preparation-for-a-controversial-mel-gibson-fil.md)

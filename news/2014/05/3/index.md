@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Ukrainian military
 ### [The Armed Forces of Ukraine resume an offensive near Kramatorsk, as military observers from the Organization for Security and Cooperation in Europe are released after having been held hostage for a week. ](/news/2014/05/3/the-armed-forces-of-ukraine-resume-an-offensive-near-kramatorsk-as-military-observers-from-the-organization-for-security-and-cooperation-in.md)
-_Context: Organization for Security and Cooperation in Europe, Ukrainian military, Kramatorsk_
+_Context: Kramatorsk, Ukrainian military, Organization for Security and Cooperation in Europe_
 
 ##### Mombasa
 ### [Twin explosions are reported in the city of Mombasa, Kenya, with at least three people killed and several injured. ](/news/2014/05/3/twin-explosions-are-reported-in-the-city-of-mombasa-kenya-with-at-least-three-people-killed-and-several-injured.md)
@@ -21,7 +21,7 @@ At least three people have died and a number are wounded in two explosions in th
 
 ##### The mudslides
 ### [The death toll from the mudslides in Afghanistan rises to 2,100, with 4,000 people displaced. ](/news/2014/05/3/the-death-toll-from-the-mudslides-in-afghanistan-rises-to-2-100-with-4-000-people-displaced.md)
-_Context: the mudslides, Afghanistan_
+_Context: Afghanistan, the mudslides_
 
 ##### Middle East respiratory syndrome
 ### [The first U.S. case of MERS is reported in Munster, Indiana, of someone who travelled to Saudi Arabia. ](/news/2014/05/3/the-first-u-s-case-of-mers-is-reported-in-munster-indiana-of-someone-who-travelled-to-saudi-arabia.md)

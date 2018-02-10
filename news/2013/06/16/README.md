@@ -9,7 +9,7 @@ At least 30 people have been killed in a wave of car bombings across central and
 
 ##### Quaid-e-Azam Residency
 ### [The Quaid-e-Azam Residency, a heritage site in Ziarat, Pakistan, is badly damaged in an attack by Assailants, killing a police officer.](/news/2013/06/16/the-quaid-e-azam-residency-a-heritage-site-in-ziarat-pakistan-is-badly-damaged-in-an-attack-by-assailants-killing-a-police-officer.md)
-_Context: Quaid-e-Azam Residency, attack, Balochistan Liberation Army, Pakistan, Ziarat_
+_Context: attack, Ziarat, Balochistan Liberation Army, Quaid-e-Azam Residency, Pakistan_
 
 ##### Pakistan
 ### [Gunmen kill two polio vaccinators in northwest Pakistan. ](/news/2013/06/16/gunmen-kill-two-polio-vaccinators-in-northwest-pakistan.md)
@@ -33,7 +33,7 @@ _Context: Kim Kardashian_
 ### [Weyerhaeuser agrees to buy Longview Timber for US$2.65 billion. ](/news/2013/06/16/weyerhaeuser-agrees-to-buy-longview-timber-for-us-2-65-billion.md)
 _Context: Weyerhaeuser_
 
-##### Mexico
+##### Mexican
 ### [A 5.8-magnitude earthquake in southwestern Mexico causes power outages in Mexico City. ](/news/2013/06/16/a-5-8-magnitude-earthquake-in-southwestern-mexico-causes-power-outages-in-mexico-city.md)
 Power outages hit the Mexican capital of Mexico City on Sunday after an earthquake struck the center of the country, and officials said there was no other damage reported.
 
@@ -47,11 +47,11 @@ Egyptian President Mohamed Mursi cut ties with Syria and sent his foreign minist
 
 ##### Australian Competition and Consumer Commission
 ### [The Australian Competition and Consumer Commission says Australians lost over AU$93 million to online scams in 2012. ](/news/2013/06/16/the-australian-competition-and-consumer-commission-says-australians-lost-over-au-93-million-to-online-scams-in-2012.md)
-_Context: online scam, Australian Competition and Consumer Commission_
+_Context: Australian Competition and Consumer Commission, online scam_
 
 ##### Arms smuggling
 ### [Three policemen are arrested on charges of arms smuggling in Hamirpur, India. ](/news/2013/06/16/three-policemen-are-arrested-on-charges-of-arms-smuggling-in-hamirpur-india.md)
-_Context: arms smuggling, Hamirpur_
+_Context: Hamirpur, arms smuggling_
 
 ##### Google
 ### [Google announces a new system aimed at removing child pornography from the internet. ](/news/2013/06/16/google-announces-a-new-system-aimed-at-removing-child-pornography-from-the-internet.md)
@@ -63,7 +63,7 @@ _Context: Robert Mugabe_
 
 ##### Barack Obama
 ### [U.S. President Barack Obama chooses a Washington, D.C. lawyer, Clifford Sloan, with experience in all three branches of government to be the U.S. State Department's Special Envoy for closing the military-run prison at the Guantanamo Bay Naval Base. ](/news/2013/06/16/u-s-president-barack-obama-chooses-a-washington-d-c-lawyer-clifford-sloan-with-experience-in-all-three-branches-of-government-to-be-the.md)
-_Context: Washington, D.C., Barack Obama, U.S. State Department, Special Envoy, military base at Guantanamo Bay_
+_Context: Washington, D.C., U.S. State Department, military base at Guantanamo Bay, Special Envoy, Barack Obama_
 
 ##### 
 ### [Kuwait's Constitutional Court dissolves the nation's parliament and orders new elections. ](/news/2013/06/16/kuwait-s-constitutional-court-dissolves-the-nation-s-parliament-and-orders-new-elections.md)
@@ -73,7 +73,7 @@ PRAGUE - Czech Prime Minister Petr Necas says he will resign because a top aide 
 
 ##### Pope Francis
 ### [Pope Francis blesses thousands of Harley Davidson motorcycle enthusiasts on the company's 110th anniversary. ](/news/2013/06/16/pope-francis-blesses-thousands-of-harley-davidson-motorcycle-enthusiasts-on-the-company-s-110th-anniversary.md)
-_Context: Harley Davidson, Pope Francis_
+_Context: Pope Francis, Harley Davidson_
 
 ## [Previous Day...](/news/2013/06/15/index.md)
 

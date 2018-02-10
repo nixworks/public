@@ -5,7 +5,7 @@ Formats: [HTML](2016/02/22/index.html)  [JSON](2016/02/22/index.json)  [XML](201
 
 ##### Insurgency in Jammu and Kashmir
 ### [Loud explosions and gunfire are heard in a building where Kashmiri forces are fighting Jammu Kashmir Liberation Front militants in a standoff that has claimed the lives of five soldiers and one civilian. ](/news/2016/02/22/loud-explosions-and-gunfire-are-heard-in-a-building-where-kashmiri-forces-are-fighting-jammu-kashmir-liberation-front-militants-in-a-standof.md)
-_Context: Insurgency in Jammu and Kashmir, Kashmir, Jammu Kashmir Liberation Front, 2016 Pampore stand-off_
+_Context: 2016 Pampore stand-off, Kashmir, Insurgency in Jammu and Kashmir, Jammu Kashmir Liberation Front_
 
 ##### War in Afghanistan (2015-present)
 ### [A suicide bomber kills at least 13 people and injures 19 in Afghanistan's Parwan province. The Taliban claims responsibility. ](/news/2016/02/22/a-suicide-bomber-kills-at-least-13-people-and-injures-19-in-afghanistan-s-parwan-province-the-taliban-claims-responsibility.md)
@@ -17,11 +17,11 @@ Zimbabwe President Robert Mugabe ordered the expulsion of eight foreign diamond 
 
 ##### 2015-16 South Pacific cyclone season
 ### [The death toll in Fiji rises to at least 17 as authorities continue to assess the damage. All schools in the country are closed for the week. A nationwide curfew remains in effect. ](/news/2016/02/22/the-death-toll-in-fiji-rises-to-at-least-17-as-authorities-continue-to-assess-the-damage-all-schools-in-the-country-are-closed-for-the-week.md)
-_Context: Fiji, 2015-16 South Pacific cyclone season, Cyclone Winston_
+_Context: Cyclone Winston, Fiji, 2015-16 South Pacific cyclone season_
 
 ##### Russia-United States relations
 ### [Russia has announced that it will ask permission to fly unarmed surveillance planes over the United States citing the Open Skies Treaty. ](/news/2016/02/22/russia-has-announced-that-it-will-ask-permission-to-fly-unarmed-surveillance-planes-over-the-united-states-citing-the-open-skies-treaty.md)
-_Context: United States, Russia-United States relations, Open Skies Treaty_
+_Context: Russia-United States relations, United States, Open Skies Treaty_
 
 ##### European migrant crisis
 ### [German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". ](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-strongly-criticizes-austria-s-decision-to-put-a-daily-cap-on-the-number-of-refugees-the-country.md)
@@ -45,7 +45,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### Philippine Senate election, 2016
 ### [Walden Bello, a socialist candidate for the Philippine Senate, files a petition that may disqualify boxer Manny Pacquiao for violating election rules regarding publicity. Based on the commission's rules, Pacquiao's wife, Jinkee Pacquiao, may substitute. ](/news/2016/02/22/walden-bello-a-socialist-candidate-for-the-philippine-senate-files-a-petition-that-may-disqualify-boxer-manny-pacquiao-for-violating-elect.md)
-_Context: Walden Bello, Philippine Senate election, 2016, Manny Pacquiao, Jinkee Pacquiao_
+_Context: Jinkee Pacquiao, Manny Pacquiao, Walden Bello, Philippine Senate election, 2016_
 
 ##### Ugandan general election, 2016
 ### [Opposition leader Kizza Besigye is arrested while trying to obtain copies of the official election results. ](/news/2016/02/22/opposition-leader-kizza-besigye-is-arrested-while-trying-to-obtain-copies-of-the-official-election-results.md)

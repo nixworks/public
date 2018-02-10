@@ -13,15 +13,15 @@ _Context: India, a powerful storm, West Bengal_
 
 ##### Kyrgyzstan
 ### [Kyrgyzstan's interim leader Roza Otunbayeva says that President Kurmanbek Bakiyev must stand trial over riots last week. ](/news/2010/04/14/kyrgyzstan-s-interim-leader-roza-otunbayeva-says-that-president-kurmanbek-bakiyev-must-stand-trial-over-riots-last-week.md)
-_Context: Kurmanbek Bakiyev, Kyrgyzstan, president, Roza Otunbayeva, the recent unrest_
+_Context: president, the recent unrest, Roza Otunbayeva, Kyrgyzstan, Kurmanbek Bakiyev_
 
 ##### Eyjafjallajokull
 ### [Eruption in glacier volcano Eyjafjallajokull, Iceland, enters a new phase, causing local evacuations. ](/news/2010/04/14/eruption-in-glacier-volcano-eyjafjallajapkull-iceland-enters-a-new-phase-causing-local-evacuations.md)
-_Context: Eyjafjallajokull, Iceland_
+_Context: Iceland, Eyjafjallajokull_
 
 ##### Barack Obama
 ### [It is reported that U.S. President Barack Obama on Thursday will unveil a "bold and daring" new space mission to send astronauts to Mars months after he controversially scrapped a project to return to the Moon. ](/news/2010/04/14/it-is-reported-that-u-s-president-barack-obama-on-thursday-will-unveil-a-bold-and-daring-new-space-mission-to-send-astronauts-to-mars-mon.md)
-_Context: Barack Obama, Mars_
+_Context: Mars, Barack Obama_
 
 ##### Lech Kaczynski
 ### [Controversy arises over the decision to bury Polish President Lech Kaczynski in Wawel Cathedral in Krakow--a place reserved for Poland's kings and heroes. Hundreds of people have taken to the streets in protest, and thousands have joined an internet campaign objecting to the plan. ](/news/2010/04/14/controversy-arises-over-the-decision-to-bury-polish-president-lech-kaczyaski-in-wawel-cathedral-in-kraka3waa-place-reserved-for-poland-s.md)

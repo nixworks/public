@@ -13,7 +13,7 @@ Amman, March 1 (DPA) Hundreds of relatives protested in Amman Tuesday to press f
 
 ##### Civil war
 ### [Al-Jazeera reports that forces supporting Muammar Gaddafi have bombed targets in the Libyan city of Misrata. ](/news/2011/03/1/al-jazeera-reports-that-forces-supporting-muammar-gaddafi-have-bombed-targets-in-the-libyan-city-of-misrata.md)
-_Context: Al-Jazeera, Misrata, Muammar Gaddafi, civil war, Libya_
+_Context: Muammar Gaddafi, Libya, Misrata, Al-Jazeera, civil war_
 
 ##### Anti-government protests
 ### [2011 Omani protests: A fourth day of protests take place, with security forces firing into the air in an attempt to disperse protesters. ](/news/2011/03/1/2011-omani-protests-a-fourth-day-of-protests-take-place-with-security-forces-firing-into-the-air-in-an-attempt-to-disperse-protesters.md)
@@ -29,7 +29,7 @@ Archaeologists have recovered six cannons from the ships of Welsh privateer Henr
 
 ##### Christian Dior S.A.
 ### [Christian Dior S.A. fires fashion designer John Galliano following a series of anti-semitic remarks. ](/news/2011/03/1/christian-dior-s-a-fires-fashion-designer-john-galliano-following-a-series-of-anti-semitic-remarks.md)
-_Context: fashion designer, Christian Dior S.A., anti-semitic, John Galliano_
+_Context: Christian Dior S.A., anti-semitic, fashion designer, John Galliano_
 
 ##### Charlie Sheen
 ### [American actor Charlie Sheen loses custody of his two sons Bob and Max following claims by their mother Brooke Mueller that he made threats of domestic violence. ](/news/2011/03/1/american-actor-charlie-sheen-loses-custody-of-his-two-sons-bob-and-max-following-claims-by-their-mother-brooke-mueller-that-he-made-threats.md)
@@ -51,9 +51,9 @@ _Context: South Korean President, Lee Myung-bak, North Korea_
 ### [Eleven people are sentenced to death and twenty to life sentences for their roles in the Godhra train burning in New Delhi, India. ](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.md)
 31 people were convicted and 63 others, including the main accused Maulvi Umarji, were acquitted by a special court on February 22. 
 
-##### Mexico
+##### Mexican
 ### [Seventeen bodies are found in clandestine graves in Mexico's Guerrero state. ](/news/2011/03/1/seventeen-bodies-are-found-in-clandestine-graves-in-mexico-s-guerrero-state.md)
-_Context: Guerrero, Mexico_
+_Context: Mexican, Guerrero_
 
 ##### Zimbabwe
 ### [An internet campaign calls for protests demanding that Zimbabwean President Robert Mugabe step down, leading to an increased security presence. ](/news/2011/03/1/an-internet-campaign-calls-for-protests-demanding-that-zimbabwean-president-robert-mugabe-step-down-leading-to-an-increased-security-presen.md)
@@ -69,15 +69,15 @@ _Context: Chicago, Chicago police, Jody Weis_
 
 ##### 2011 Yemeni protests
 ### [The protests in Yemen continue with tens of thousands of protestors in the streets in a "Day of Rage". ](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.md)
-_Context: Yemen, 2011 Yemeni protests_
+_Context: 2011 Yemeni protests, Yemen_
 
 ##### German
 ### [The German Federal Minister for Defence Karl-Theodor zu Guttenberg resigns over a plagiarism scandal. ](/news/2011/03/1/the-german-federal-minister-for-defence-karl-theodor-zu-guttenberg-resigns-over-a-plagiarism-scandal.md)
-_Context: Federal Minister for Defence, plagiarising, German, Karl-Theodor zu Guttenberg_
+_Context: plagiarising, Federal Minister for Defence, Karl-Theodor zu Guttenberg, German_
 
 ##### Canadian
 ### [The Canadian Federal Court of Appeal rules against the Conservative Party of Canada on ad spending prior to the Canadian federal election, 2006, while the Harper government reaches 43% support and announces cuts to the budget. ](/news/2011/03/1/the-canadian-federal-court-of-appeal-rules-against-the-conservative-party-of-canada-on-ad-spending-prior-to-the-canadian-federal-election-2.md)
-_Context: Canadian federal election, 2006, Canadian, Conservative Party's, Harper government, Federal Court of Appeal_
+_Context: Federal Court of Appeal, Conservative Party's, Canadian, Harper government, Canadian federal election, 2006_
 
 ## [Previous Day...](/news/2011/02/28/index.md)
 

@@ -25,7 +25,7 @@ A magnitude 7.2 earthquake has hit Tajikistan, according to the US Geological Su
 
 ##### Pollution in China
 ### [Beijing's city government issues its first red alert for pollution, ordering schools to close, halting outdoor construction, and restricting car use due to hazardous air quality. ](/news/2015/12/7/beijing-s-city-government-issues-its-first-red-alert-for-pollution-ordering-schools-to-close-halting-outdoor-construction-and-restricting.md)
-_Context: Pollution in China, hazardous air quality, Beijing, pollution_
+_Context: pollution, Pollution in China, hazardous air quality, Beijing_
 
 ##### 2015-16 UK and Ireland windstorm season
 ### [Storm Desmond shatters U.K. rainfall records as an incredible 13.44 inches of rain fell in 24 hours at Honister Pass in the Lake District in North West England. The 15.94 inches of rain at Thirlmere -- also in the Lake District -- set a new record for the 48-hour period. ](/news/2015/12/7/storm-desmond-shatters-u-k-rainfall-records-as-an-incredible-13-44-inches-of-rain-fell-in-24-hours-at-honister-pass-in-the-lake-district-in.md)
@@ -41,11 +41,11 @@ Turkey accused Russia of a &quot;provocation&quot; on Sunday after a serviceman 
 
 ##### Russia
 ### [Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. ](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.md)
-_Context: Russia, IAEA, uranium, Joint Comprehensive Plan of Action, several world powers, low-enriched uranium, Iran_
+_Context: Russia, low-enriched uranium, several world powers, IAEA, Iran, uranium, Joint Comprehensive Plan of Action_
 
 ##### Iran's Cyber Police Chief
 ### [Iran's Cyber Police Chief announces the arrest of some 53 people for allegedly running websites supportive of the Islamic State militant group. ](/news/2015/12/7/iran-s-cyber-police-chief-announces-the-arrest-of-some-53-people-for-allegedly-running-websites-supportive-of-the-islamic-state-militant-gro.md)
-_Context: website, ISIL, Iran's Cyber Police Chief_
+_Context: Iran's Cyber Police Chief, website, ISIL_
 
 ##### Supreme Court of the United States
 ### [The United States Supreme Court declines ("Friedman v. Highland Park") to review the ability of cities and states to prohibit semiautomatic, high-capacity assault weapons that have been used in some of the nation's most deadly recent mass shootings. The nationwide assault weapons ban law expired in 2004. Since the "District of Columbia v. Heller" decision in 2008 found the Second Amendment provides the right for an individual to keep a weapon in the home, the court has avoided all cases that might clarify if that right is more expansive. ](/news/2015/12/7/the-united-states-supreme-court-declines-friedman-v-highland-park-to-review-the-ability-of-cities-and-states-to-prohibit-semiautomatic.md)
@@ -61,7 +61,7 @@ WASHINGTON -- The Obama administration will announce a new terror alert system &
 
 ##### Whaling
 ### [Australia is threatening to take legal action against Japan over its resumption of its controversial whale hunt in the Antarctic Ocean. A whaling fleet set sail last week, ignoring international condemnation, and last year's ruling by the International Court of Justice (ICJ) prohibiting these hunts. ](/news/2015/12/7/australia-is-threatening-to-take-legal-action-against-japan-over-its-resumption-of-its-controversial-whale-hunt-in-the-antarctic-ocean-a-wh.md)
-_Context: Japan, Australia, hunt, Southern Ocean, International Court of Justice, whaling, whale_
+_Context: hunt, whaling, International Court of Justice, Australia, whale, Southern Ocean, Japan_
 
 ##### Landslide victory in the December 6 election
 ### [Venezuela's National Electoral Council announces the opposition Democratic Unity Roundtable (MUD) has won at least 99 seats in the 167-member National Assembly in Sunday's elections. The previous-ruling United Social Party of Venezuela (PSUV) picked up 46. Results for 22 contests remain to be determined. Voter turnout was a stunning 74.3 percent. "Within seconds," President Nicolas Maduro recognized the opposition's win, saying that despite (his party's) adverse result, Venezuela's democracy has triumphed. ](/news/2015/12/7/venezuela-s-national-electoral-council-announces-the-opposition-democratic-unity-roundtable-mud-has-won-at-least-99-seats-in-the-167-membe.md)

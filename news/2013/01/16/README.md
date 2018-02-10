@@ -13,7 +13,7 @@ An Al Qaeda-linked group from Mali has attacked and taken control of a natural g
 
 ##### Diabaly
 ### [Battle of Diabaly: French troops are reported to be fighting rebels in the Malian town of Diabaly alongside Malian troops. ](/news/2013/01/16/battle-of-diabaly-french-troops-are-reported-to-be-fighting-rebels-in-the-malian-town-of-diabaly-alongside-malian-troops.md)
-_Context: Diabaly, Mali, Diabaly_
+_Context: Diabaly, Diabaly, Mali_
 
 ##### National Directorate of Security
 ### [The Afghan National Directorate of Security headquarters in Kabul are attacked by a team of suicide bombers, leaving a security guard dead and 17 others injured. ](/news/2013/01/16/the-afghan-national-directorate-of-security-headquarters-in-kabul-are-attacked-by-a-team-of-suicide-bombers-leaving-a-security-guard-dead-a.md)
@@ -37,7 +37,7 @@ At least 25 people were killed on Wednesday when a 12-storey building collapsed 
 
 ##### Organized crime from Russia
 ### [Russian mafia boss Aslan Usoyan is killed in Moscow. ](/news/2013/01/16/russian-mafia-boss-aslan-usoyan-is-killed-in-moscow.md)
-_Context: organized crime from Russia, Aslan Usoyan, Moscow_
+_Context: Moscow, Aslan Usoyan, organized crime from Russia_
 
 ##### Jutiapa
 ### [Carlos Castillo Medrano, the mayor of Jutiapa, Guatemala, is shot and killed by unidentified assailants. ](/news/2013/01/16/carlos-castillo-medrano-the-mayor-of-jutiapa-guatemala-is-shot-and-killed-by-unidentified-assailants.md)
@@ -45,7 +45,7 @@ Gunmen in Guatemala kill the mayor of the town of Jutiapa as President Otto Pere
 
 ##### Secretary of the Interior
 ### [US Interior Secretary Ken Salazar announces that he is to leave the office in March. ](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.md)
-_Context: Ken Salazar, Secretary of the Interior_
+_Context: Secretary of the Interior, Ken Salazar_
 
 ## [Previous Day...](/news/2013/01/15/index.md)
 

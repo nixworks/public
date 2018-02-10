@@ -17,7 +17,7 @@ Fifteen people died and around 130 were injured when a fire broke out in a hotel
 
 ##### Fire
 ### [A massive fire engulfs a warehouse holding 5,600 tons of rubber tires in Savannah, Georgia, United States. ](/news/2014/02/8/a-massive-fire-engulfs-a-warehouse-holding-5-600-tons-of-rubber-tires-in-savannah-georgia-united-states.md)
-_Context: rubber, Savannah, Georgia, warehouse, tons, fire_
+_Context: tons, fire, warehouse, rubber, Savannah, Georgia_
 
 ##### Argentina
 ### [A truck and a bus collide in the Argentine province of Mendoza, killing at least 17 people and injuring more than 10 others. ](/news/2014/02/8/a-truck-and-a-bus-collide-in-the-argentine-province-of-mendoza-killing-at-least-17-people-and-injuring-more-than-10-others.md)

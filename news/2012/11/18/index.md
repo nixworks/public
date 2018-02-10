@@ -33,7 +33,7 @@ _Context: ASEAN, human rights_
 
 ##### Same-sex marriage
 ### [Clashes take place at an anti-gay marriage protest in Paris, France. ](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.md)
-_Context: France, same-sex marriage, Paris_
+_Context: same-sex marriage, Paris, France_
 
 ## [Previous Day...](/news/2012/11/17/index.md)
 

@@ -17,11 +17,11 @@ _Context: San Francisco Bay Bridge_
 
 ##### Nidal Malik Hasan
 ### [Former U.S. Army Major and psychiatrist Nidal Malik Hasan is sentenced to death for the November 5, 2009, Fort Hood massacre that killed 13 and wounded 32 others. He will be granted an automatic appeal; the Army general (convening authority) who will review the case can grant him life without parole; any eventual military execution would need presidential approval. ](/news/2013/08/28/former-u-s-army-major-and-psychiatrist-nidal-malik-hasan-is-sentenced-to-death-for-the-november-5-2009-fort-hood-massacre-that-killed-13.md)
-_Context: Nidal Malik Hasan, Fort Hood massacre_
+_Context: Fort Hood massacre, Nidal Malik Hasan_
 
 ##### Iran
 ### [Iran pursues the 1953 Iranian coup d'tat case, which was orchestrated by US and Britain, in the international courts at The Hague. CIA officially admitted role in the coup on 20 August 2013. ](/news/2013/08/28/iran-pursues-the-1953-iranian-coup-d-etat-case-which-was-orchestrated-by-us-and-britain-in-the-international-courts-at-the-hague-cia-offi.md)
-_Context: The Hague, Iran, US, United Kingdom, 1953 Iranian coup d'tat_
+_Context: Iran, United Kingdom, The Hague, 1953 Iranian coup d'tat, US_
 
 ## [Previous Day...](/news/2013/08/27/index.md)
 

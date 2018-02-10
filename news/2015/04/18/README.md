@@ -25,7 +25,7 @@ The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, 
 
 ##### Gold mine
 ### [At least 19 people are killed as a gold mine collapses in Tanzania's Msalala district. ](/news/2015/04/18/at-least-19-people-are-killed-as-a-gold-mine-collapses-in-tanzania-s-msalala-district.md)
-_Context: gold mine, Tanzania_
+_Context: Tanzania, gold mine_
 
 ##### Libya
 ### [Hundreds of people are feared dead after a boat carrying people from Libya to Italy capsizes in the Mediterranean Sea. Twenty-eight people have been rescued. ](/news/2015/04/18/hundreds-of-people-are-feared-dead-after-a-boat-carrying-people-from-libya-to-italy-capsizes-in-the-mediterranean-sea-twenty-eight-people-h.md)

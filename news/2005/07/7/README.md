@@ -13,27 +13,27 @@ _Context: Gloria Arroyo, Philippines_
 
 ##### Egypt
 ### [ Egypt confirms its most senior envoy to Iraq, Ihab al-Sherif, has been killed after being kidnapped last week. A group related to Abu Musab al-Zarqawi has claimed responsibility. ](/news/2005/07/7/egypt-confirms-its-most-senior-envoy-to-iraq-ihab-al-sherif-has-been-killed-after-being-kidnapped-last-week-a-group-related-to-abu-musab.md)
-_Context: Iraq, Abu Musab al-Zarqawi, Ihab al-Sherif, kidnapping, Egypt_
+_Context: Iraq, kidnapping, Ihab al-Sherif, Abu Musab al-Zarqawi, Egypt_
 
 ##### Circumcising
 ### [ Researchers halt a study in Africa after results indicate that circumcised men are 70% less likely to contract AIDS. The study will be presented at the Third International AIDS Society Conference on HIV Pathogenesis and Treatment later this month. Meanwhile, others argue that ritual circumcision "increases" the risk of infection because of poor sanitary conditions. ](/news/2005/07/7/researchers-halt-a-study-in-africa-after-results-indicate-that-circumcised-men-are-70-less-likely-to-contract-aids-the-study-will-be-pres.md)
-_Context: circumcising, AIDS_
+_Context: AIDS, circumcising_
 
 ##### Brazil
 ### [ The Brazilian congress announces a referendum on banning firearms sales. ](/news/2005/07/7/the-brazilian-congress-announces-a-referendum-on-banning-firearms-sales.md)
-_Context: Brazil, firearm, gun control, referendum_
+_Context: referendum, Brazil, gun control, firearm_
 
 ##### Turkey
 ### [ In Turkey, a land mine placed on the tracks derails a freight train. There are no reports of casualties. ](/news/2005/07/7/in-turkey-a-land-mine-placed-on-the-tracks-derails-a-freight-train-there-are-no-reports-of-casualties.md)
-_Context: train, Turkey, land mine, freight_
+_Context: Turkey, train, land mine, freight_
 
 ##### Hungary
 ### [ In Hungary, a hoaxed bomb threat forces evacuation of three shopping malls. ](/news/2005/07/7/in-hungary-a-hoaxed-bomb-threat-forces-evacuation-of-three-shopping-malls.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
-##### Mexico
+##### Mexican
 ### [ In Mexico, the city of Nuevo Laredo chooses Omar Pimentel as the new chief of police. When gangsters assassinated the previous chief a month ago, Mexican federal police occupied the city and arrested the whole police force for investigation. ](/news/2005/07/7/in-mexico-the-city-of-nuevo-laredo-chooses-omar-pimentel-as-the-new-chief-of-police-when-gangsters-assassinated-the-previous-chief-a-mont.md)
-_Context: Mexico, Nuevo Laredo, Omar Pimentel_
+_Context: Mexican, Omar Pimentel, Nuevo Laredo_
 
 ## [Previous Day...](/news/2005/07/6/index.md)
 

@@ -9,7 +9,7 @@ _Context: Awami National Party, Karachi_
 
 ##### Two car bombings
 ### [43 killed and over 100 injured in two car bombings in Reyhanli, Turkey, near the Syrian border. ](/news/2013/05/11/43-killed-and-over-100-injured-in-two-car-bombings-in-reyhanla-turkey-near-the-syrian-border.md)
-_Context: Reyhanli, two car bombings, Turkey_
+_Context: Turkey, two car bombings, Reyhanli_
 
 ##### Ghana
 ### [A Ghanaian national goes on a spree attack with a pickaxe in Milan, Italy killing a passerby and wounding four others in an apparently random attack. ](/news/2013/05/11/a-ghanaian-national-goes-on-a-spree-attack-with-a-pickaxe-in-milan-italy-killing-a-passerby-and-wounding-four-others-in-an-apparently-rando.md)
@@ -25,7 +25,7 @@ _Context: Iran, earthquake_
 
 ##### Aizawl
 ### [A landslide in the city of Aizawl in India's Mizoram state kills at least eight people with 25 injured and 11 missing. ](/news/2013/05/11/a-landslide-in-the-city-of-aizawl-in-india-s-mizoram-state-kills-at-least-eight-people-with-25-injured-and-11-missing.md)
-_Context: India, Mizoram, Aizawl_
+_Context: Aizawl, Mizoram, India_
 
 ##### Manhunt
 ### [A manhunt is issued for a suspect in the shooting deaths of his wife and two children in Shasta County, California, United States. ](/news/2013/05/11/a-manhunt-is-issued-for-a-suspect-in-the-shooting-deaths-of-his-wife-and-two-children-in-shasta-county-california-united-states.md)

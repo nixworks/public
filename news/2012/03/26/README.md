@@ -5,11 +5,11 @@ Formats: [HTML](2012/03/26/index.html)  [JSON](2012/03/26/index.json)  [XML](201
 
 ##### Afghanistan
 ### [An Afghan police officer shoots and kills two British military personnel before being gunned down. ](/news/2012/03/26/an-afghan-police-officer-shoots-and-kills-two-british-military-personnel-before-being-gunned-down.md)
-_Context: British military, Afghanistan_
+_Context: Afghanistan, British military_
 
 ##### Tibet
 ### [A Tibetan protester self-immolates during a protest in the Indian capital New Delhi, ahead of a visit by the Chinese president Hu Jintao. ](/news/2012/03/26/a-tibetan-protester-self-immolates-during-a-protest-in-the-indian-capital-new-delhi-ahead-of-a-visit-by-the-chinese-president-hu-jintao.md)
-_Context: Tibet, India, Hu Jintao, self-immolation, New Delhi, China_
+_Context: New Delhi, Tibet, Hu Jintao, China, self-immolation, India_
 
 ##### Colombia
 ### [Colombian forces kill 32 FARC rebels in the latest government offensive. ](/news/2012/03/26/colombian-forces-kill-32-farc-rebels-in-the-latest-government-offensive.md)
@@ -21,7 +21,7 @@ _Context: Somali pirates, Maldives, Iran_
 
 ##### Syria
 ### [Syria responds to a peace plan proposed by envoy Kofi Annan to end the violence in the country. ](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.md)
-_Context: Syria, Kofi Annan_
+_Context: Kofi Annan, Syria_
 
 ##### Kenya
 ### [Oil is discovered in Kenya by London based Tullow Oil. ](/news/2012/03/26/oil-is-discovered-in-kenya-by-london-based-tullow-oil.md)
@@ -53,15 +53,15 @@ The former head of the International Monetary Fund, Dominique Strauss-Kahn, face
 
 ##### BBC
 ### [The BBC's "Panorama" alleges that a company owned by News Corporation recruited a pay-TV "pirate" to hack a rival's secret codes then post the details online. ](/news/2012/03/26/the-bbc-s-panorama-alleges-that-a-company-owned-by-news-corporation-recruited-a-pay-tv-pirate-to-hack-a-rival-s-secret-codes-then-post-t.md)
-_Context: Panorama, BBC, News Corporation_
+_Context: News Corporation, BBC, Panorama_
 
 ##### Campbell Newman
 ### [Campbell Newman is sworn in as the new Premier of the Australian state of Queensland following a landslide victory in Saturday's election. ](/news/2012/03/26/campbell-newman-is-sworn-in-as-the-new-premier-of-the-australian-state-of-queensland-following-a-landslide-victory-in-saturday-s-election.md)
-_Context: Queensland, Premier, Australia, election, Campbell Newman_
+_Context: Australia, election, Campbell Newman, Queensland, Premier_
 
 ##### Macky Sall
 ### [Macky Sall, former Prime Minister under Abdoulaye Wade's administration, is elected President of Senegal. ](/news/2012/03/26/macky-sall-former-prime-minister-under-abdoulaye-wade-s-administration-is-elected-president-of-senegal.md)
-_Context: Macky Sall, Abdoulaye Wade, elected, Senegal, President, Prime Minister of Senegal_
+_Context: Macky Sall, elected, Prime Minister of Senegal, Senegal, Abdoulaye Wade, President_
 
 ##### Cash for Access
 ### [In the wake of the Cash for Access scandal British Prime Minister, David Cameron publishes details of Conservative Party donors who have had dinner with him at 10 Downing Street. ](/news/2012/03/26/in-the-wake-of-the-cash-for-access-scandal-british-prime-minister-david-cameron-publishes-details-of-conservative-party-donors-who-have-had.md)

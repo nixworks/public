@@ -5,15 +5,15 @@ Formats: [HTML](2011/08/28/index.html)  [JSON](2011/08/28/index.json)  [XML](201
 
 ##### Suicide bombing
 ### [At least 29 people are killed in an suicide bombing in Baghdad's largest Sunni mosque including Khalid al-Fahdawi, a member of the Council of Representatives of Iraq. ](/news/2011/08/28/at-least-29-people-are-killed-in-an-suicide-bombing-in-baghdad-s-largest-sunni-mosque-including-khalid-al-fahdawi-a-member-of-the-council-o.md)
-_Context: Khalid al-Fahdawi, suicide bombing, mosque, Iraqi Parliament, Sunni Muslim, Baghdad_
+_Context: Iraqi Parliament, Baghdad, suicide bombing, mosque, Khalid al-Fahdawi, Sunni Muslim_
 
 ##### Notting Hill Carnival
 ### [The Notting Hill Carnival, the world's second largest street festival, gets underway peacefully in London with a heavy police presence due to recent riots. ](/news/2011/08/28/the-notting-hill-carnival-the-world-s-second-largest-street-festival-gets-underway-peacefully-in-london-with-a-heavy-police-presence-due-t.md)
-_Context: street festival, last year's riots in London, Notting Hill Carnival, London_
+_Context: street festival, Notting Hill Carnival, London, last year's riots in London_
 
 ##### 2011 MTV Video Music Awards
 ### [The 2011 MTV Video Music Awards conclude in Los Angeles with Katy Perry winning Video of the Year for Firework. ](/news/2011/08/28/the-2011-mtv-video-music-awards-conclude-in-los-angeles-with-katy-perry-winning-video-of-the-year-for-firework.md)
-_Context: Firework, Katy Perry, Video of the Year, Los Angeles, 2011 MTV Video Music Awards_
+_Context: Video of the Year, Katy Perry, Firework, 2011 MTV Video Music Awards, Los Angeles_
 
 ##### Delaware
 ### [A confirmed tornado in Delaware destroys a home and damages others. ](/news/2011/08/28/a-confirmed-tornado-in-delaware-destroys-a-home-and-damages-others.md)
@@ -29,7 +29,7 @@ A tram popular with tourists derails in the Brazilian city of Rio de Janeiro kil
 
 ##### 10 Downing Street
 ### [The Government of the United Kingdom pledges to raise the issue of the murder of WPC Yvonne Fletcher, allegedly by a Libyan official outside the embassy in London in 1984, with the new government in Tripoli. ](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.md)
-_Context: 10 Downing Street, Libya, murder of PC Yvonne Fletcher, WPC, London, Tripoli_
+_Context: Libya, WPC, London, murder of PC Yvonne Fletcher, 10 Downing Street, Tripoli_
 
 ##### Indians
 ### [Indian social activist Anna Hazare breaks a hunger strike after Parliament passes strong anti-corruption laws. ](/news/2011/08/28/indian-social-activist-anna-hazare-breaks-a-hunger-strike-after-parliament-passes-strong-anti-corruption-laws.md)
@@ -37,11 +37,11 @@ Anna Hazare ended his 12-day fast on Sunday morning before thousands of cheering
 
 ##### Tony Tan Keng Yam
 ### [Tony Tan Keng Yam becomes the President-elect of Singapore after winning the presidential election. ](/news/2011/08/28/tony-tan-keng-yam-becomes-the-president-elect-of-singapore-after-winning-the-presidential-election.md)
-_Context: President-elect, presidential election, Tony Tan Keng Yam, Singapore_
+_Context: President-elect, presidential election, Singapore, Tony Tan Keng Yam_
 
 ##### Nepal
 ### [Nepal elects Baburam Bhattarai as its new Prime Minister. ](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.md)
-_Context: Prime Minister, Baburam Bhattarai, Nepal_
+_Context: Baburam Bhattarai, Prime Minister, Nepal_
 
 ## [Previous Day...](/news/2011/08/27/index.md)
 

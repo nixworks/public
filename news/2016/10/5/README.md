@@ -3,9 +3,9 @@ Formats: [HTML](2016/10/5/index.html)  [JSON](2016/10/5/index.json)  [XML](2016/
 
 ## [2016-10-5](/news/2016/10/5/index.md)
 
-##### Mexico
+##### Mexican
 ### [Mexican tequila producer Jose Cuervo will delay its IPO until after the U.S. presidential election due to concern over potential market volatility. ](/news/2016/10/5/mexican-tequila-producer-jose-cuervo-will-delay-its-ipo-until-after-the-u-s-presidential-election-due-to-concern-over-potential-market-vola.md)
-_Context: Mexico, IPO, Jose Cuervo, tequila_
+_Context: tequila, Jose Cuervo, IPO, Mexican_
 
 ##### 2016 Pacific typhoon season
 ### [Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. ](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-islands-of-shikoku-and-kyushu-experiencing-heavy-rainfall.md)
@@ -13,7 +13,7 @@ At least three people have been killed as Typhoon Chaba batters South Korea.
 
 ##### Israeli Air Force
 ### [An Israeli Air Force F-16 crashes while attempting to land at Ramon Airbase in southern Israel, killing the pilot. A navigator who was also in the aircraft successfully ejects and escapes the incident unharmed. ](/news/2016/10/5/an-israeli-air-force-f-16-crashes-while-attempting-to-land-at-ramon-airbase-in-southern-israel-killing-the-pilot-a-navigator-who-was-also.md)
-_Context: F-16, Israel, Israeli Air Force, Ramon Airbase_
+_Context: F-16, Ramon Airbase, Israel, Israeli Air Force_
 
 ##### 2016 Atlantic hurricane season
 ### [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km-h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md)
@@ -21,7 +21,7 @@ Haitian election officials postponed Sunday&rsquo;s rerun presidential and legis
 
 ##### United Nations Secretary-General selection, 2016
 ### [The United Nations Security Council affirms the first step in the election of Portuguese Antonio Guterres as the next Secretary-General of the United Nations. If ratified by the General Assembly, he will take office on January 1, 2017. ](/news/2016/10/5/the-united-nations-security-council-affirms-the-first-step-in-the-election-of-portuguese-anta3nio-guterres-as-the-next-secretary-general-of.md)
-_Context: Portuguese, United Nations Security Council, General Assembly, Antonio Guterres, United Nations Secretary-General selection, 2016, United Nations Secretary-General_
+_Context: Antonio Guterres, United Nations Secretary-General selection, 2016, Portuguese, United Nations Security Council, United Nations Secretary-General, General Assembly_
 
 ##### Paris climate change agreement
 ### [The Paris Agreement on climate change which governs greenhouse gas emissions will take effect in November. ](/news/2016/10/5/the-paris-agreement-on-climate-change-which-governs-greenhouse-gas-emissions-will-take-effect-in-november.md)
@@ -53,7 +53,7 @@ WILLEMSTAD – The Supreme Electoral Council (SEC) held its first briefing today
 
 ##### French-born
 ### [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md)
-_Context: Nobel Prize in Chemistry, nanotechnology, French-born, Scotsman, Ben Feringa, Fraser Stoddart, Jean-Pierre Sauvage, Dutch_
+_Context: Nobel Prize in Chemistry, Dutch, Scotsman, French-born, Fraser Stoddart, nanotechnology, Ben Feringa, Jean-Pierre Sauvage_
 
 ##### Aerospace manufacturer
 ### [Aerospace manufacturer Blue Origin tests its New Shepard reusable launch system in Van Horn, Texas. ](/news/2016/10/5/aerospace-manufacturer-blue-origin-tests-its-new-shepard-reusable-launch-system-in-van-horn-texas.md)

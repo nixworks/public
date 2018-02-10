@@ -5,7 +5,7 @@ Formats: [HTML](2009/09/14/index.html)  [JSON](2009/09/14/index.json)  [XML](200
 
 ##### Norway
 ### [ Norwegians go to the polls for the Norwegian parliamentary election. ](/news/2009/09/14/norwegians-go-to-the-polls-for-the-norwegian-parliamentary-election.md)
-_Context: Norway, parliamentary election_
+_Context: parliamentary election, Norway_
 
 ##### France
 ### [ France's political "trial of the century" into the Clearstream affair&mdash;former Prime Minister Dominique de Villepin versus President Nicolas Sarkozy&mdash;opens at the Palais de Justice. ](/news/2009/09/14/france-s-political-trial-of-the-century-into-the-clearstream-affair-mdash-former-prime-minister-dominique-de-villepin-versus-president-ni.md)
@@ -25,11 +25,11 @@ Parliament approves law with stoning punishment for adultery, despite opposition
 
 ##### Uganda
 ### [ Dozens of people in Uganda are charged over riots in the capital Kampala over the visit of the King of Buganda, Ronald Muwenda Mutebi II. ](/news/2009/09/14/dozens-of-people-in-uganda-are-charged-over-riots-in-the-capital-kampala-over-the-visit-of-the-king-of-buganda-ronald-muwenda-mutebi-ii.md)
-_Context: Uganda, Kampala, kings, Ronald Muwenda Mutebi II_
+_Context: Kampala, Ronald Muwenda Mutebi II, Uganda, kings_
 
 ##### China
 ### [ China lodges a complaint with the World Trade Organization over the United States' decision to impose import duties on Chinese-made tires. ](/news/2009/09/14/china-lodges-a-complaint-with-the-world-trade-organization-over-the-united-states-decision-to-impose-import-duties-on-chinese-made-tires.md)
-_Context: World Trade Organization, United States, tire, China_
+_Context: United States, World Trade Organization, tire, China_
 
 ##### Toronto
 ### [ A large area of Toronto, Canada, is evacuated after a Pipe bomb was found in a truck, but the bomb is neutralized by the Toronto bomb squad. ](/news/2009/09/14/a-large-area-of-toronto-canada-is-evacuated-after-a-pipe-bomb-was-found-in-a-truck-but-the-bomb-is-neutralized-by-the-toronto-bomb-squad.md)
@@ -37,7 +37,7 @@ The bomb squad has neutralized a suspicious package found in a vehicle near Mark
 
 ##### Tennis
 ### [ In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. ](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.md)
-_Context: U.S. Open, Caroline Wozniacki, tennis, Kim Clijsters, Juan Martn del Potro, Roger Federer_
+_Context: Kim Clijsters, U.S. Open, Roger Federer, Juan Martn del Potro, tennis, Caroline Wozniacki_
 
 ##### United States
 ### [ American actor Patrick Swayze dies at age 57, after suffering from pancreatic cancer for more than 1 year. ](/news/2009/09/14/american-actor-patrick-swayze-dies-at-age-57-after-suffering-from-pancreatic-cancer-for-more-than-1-year.md)

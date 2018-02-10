@@ -5,15 +5,15 @@ Formats: [HTML](2004/12/10/index.html)  [JSON](2004/12/10/index.json)  [XML](200
 
 ##### Palestinian
 ### [ Israeli troops kill Rania Siam, an 8-year-old Palestinian girl, as she eats lunch in the kitchen of her home in Khan Yunis, Gaza Strip. Earlier, three mortar shells are fired into the nearby Israeli settlement of Neve Dekalim injuring four people, one of them a child. Hamas claims responsibility. Israeli troops fire in the general direction the source of mortar fire. The Israeli army says it will investigate Rania Siam's death. ](/news/2004/12/10/israeli-troops-kill-rania-siam-an-8-year-old-palestinian-girl-as-she-eats-lunch-in-the-kitchen-of-her-home-in-khan-yunis-gaza-strip-ear.md)
-_Context: Gaza Strip, Israel, Khan Yunis, Mortar fire, Palestinian_
+_Context: Khan Yunis, Israel, Mortar fire, Palestinian, Gaza Strip_
 
 ##### Prime Minister
 ### [ Italian Prime Minister Silvio Berlusconi is acquitted of bribery thanks to the statute of limitations. The court's ruling implied that Berlusconi probably was guilty of bribing a judge in 1991, but said that too much time had passed for him to be punished. ](/news/2004/12/10/italian-prime-minister-silvio-berlusconi-is-acquitted-of-bribery-thanks-to-the-statute-of-limitations-the-court-s-ruling-implied-that-berl.md)
-_Context: Silvio Berlusconi, statute of limitations, Prime Minister_
+_Context: Prime Minister, Silvio Berlusconi, statute of limitations_
 
 ##### Nobel Prize
 ### [ The 2004 Nobel Prizes are handed out at twin ceremonies in Oslo and Stockholm. ](/news/2004/12/10/the-2004-nobel-prizes-are-handed-out-at-twin-ceremonies-in-oslo-and-stockholm.md)
-_Context: Oslo, Nobel Prize, Stockholm_
+_Context: Oslo, Stockholm, Nobel Prize_
 
 ##### James Brown
 ### [ "Godfather of Soul" James Brown is diagnosed with prostate cancer and will undergo surgery next week. ](/news/2004/12/10/godfather-of-soul-james-brown-is-diagnosed-with-prostate-cancer-and-will-undergo-surgery-next-week.md)

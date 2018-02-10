@@ -7,13 +7,13 @@ Formats: [HTML](2015/04/1/index.html)  [JSON](2015/04/1/index.json)  [XML](2015/
 ### [Two United States Marine Corps F-18 fighters make a precautionary landing at Taiwan's Tainan Air Force Base. ](/news/2015/04/1/two-united-states-marine-corps-f-18-fighters-make-a-precautionary-landing-at-taiwan-s-tainan-air-force-base.md)
 The emergency landing of two U.S. Marine Corps F-18 fighter jets on the island of Taiwan appears to have been a political message from the Pentagon to Beijing following a recent Chinese bomber drill near the island nation that is a key rival to Beijing&#8217;s rule.
 
-##### Mexico
+##### Mexican
 ### [Flames engulf a Mexican state-run Pemex oil platform in the Gulf of Mexico, killing four workers. ](/news/2015/04/1/flames-engulf-a-mexican-state-run-pemex-oil-platform-in-the-gulf-of-mexico-killing-four-workers.md)
-_Context: Gulf of Mexico, Petroleos Mexicanos, Mexico_
+_Context: Gulf of Mexico, Mexican, Petroleos Mexicanos_
 
 ##### Russia
 ### [The Russian trawler "Dalniy Vostok" with 132 crew sinks off of the Kamchatka peninsula leaving at least 54 dead and 15 missing. ](/news/2015/04/1/the-russian-trawler-dalniy-vostok-with-132-crew-sinks-off-of-the-kamchatka-peninsula-leaving-at-least-54-dead-and-15-missing.md)
-_Context: Kamchatka peninsula, sinks, ''Dalniy Vostok'', Russia_
+_Context: Russia, ''Dalniy Vostok'', Kamchatka peninsula, sinks_
 
 ##### California
 ### [California governor Jerry Brown announces mandatory water restrictions in response to the worst drought in California history. ](/news/2015/04/1/california-governor-jerry-brown-announces-mandatory-water-restrictions-in-response-to-the-worst-drought-in-california-history.md)
@@ -33,7 +33,7 @@ _Context: New Jersey, Bob Menendez_
 
 ##### Atlanta
 ### [A court convicts eleven Atlanta, Georgia teachers as part of a mass cheating scandal. ](/news/2015/04/1/a-court-convicts-eleven-atlanta-georgia-teachers-as-part-of-a-mass-cheating-scandal.md)
-_Context: Georgia, Atlanta, mass cheating scandal_
+_Context: mass cheating scandal, Atlanta, Georgia_
 
 ##### Obama Administration
 ### [The Obama Administration targets overseas cyber attackers with a sanctions program. ](/news/2015/04/1/the-obama-administration-targets-overseas-cyber-attackers-with-a-sanctions-program.md)

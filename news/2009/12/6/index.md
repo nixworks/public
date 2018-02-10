@@ -5,11 +5,11 @@ Formats: [HTML](2009/12/6/index.html)  [JSON](2009/12/6/index.json)  [XML](2009/
 
 ##### Flamengo
 ### [ Flamengo wins its sixth Brazilian national football title, following a 2-1 win over Grmio in the last round of 2009 Campeonato Brasileiro Srie A. ](/news/2009/12/6/flamengo-wins-its-sixth-brazilian-national-football-title-following-a-2-1-win-over-gremio-in-the-last-round-of-2009-campeonato-brasileiro.md)
-_Context: association football, 2009 Campeonato Brasileiro Srie A, Grmio, Brazil, Flamengo_
+_Context: Grmio, 2009 Campeonato Brasileiro Srie A, Brazil, association football, Flamengo_
 
 ##### Internet access
 ### [ Restrictions on internet access and foreign media are put in place ahead of the Student's Day in Iran, as former President Akbar Hashemi Rafsanjani urges "freedom" in the country. ](/news/2009/12/6/restrictions-on-internet-access-and-foreign-media-are-put-in-place-ahead-of-the-student-s-day-in-iran-as-former-president-akbar-hashemi-ra.md)
-_Context: Student's Day, Iran, internet access, Akbar Hashemi Rafsanjani_
+_Context: Akbar Hashemi Rafsanjani, internet access, Iran, Student's Day_
 
 ##### Athens
 ### [ There are violent riots and protests in Athens between police and protesters as the city commemorates the first anniversary of the fatal shooting of 15-year-old Alexandros Grigoropoulos by a police officer. ](/news/2009/12/6/there-are-violent-riots-and-protests-in-athens-between-police-and-protesters-as-the-city-commemorates-the-first-anniversary-of-the-fatal-sh.md)
@@ -29,7 +29,7 @@ A MAN who is HIV-positive injected his wife with his blood while she slept, infe
 
 ##### Bolivia
 ### [ Voters in Bolivia go to the polls for a general election with exit polls indicating that the President of Bolivia Evo Morales has won. ](/news/2009/12/6/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-exit-polls-indicating-that-the-president-of-bolivia-evo-morales-has-won.md)
-_Context: general election, Bolivia, Evo Morales, President of Bolivia, exit poll_
+_Context: general election, exit poll, Bolivia, Evo Morales, President of Bolivia_
 
 ##### Romania
 ### [ Romanians take part in the 2nd round of a presidential election. ](/news/2009/12/6/romanians-take-part-in-the-2nd-round-of-a-presidential-election.md)

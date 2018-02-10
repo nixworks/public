@@ -5,15 +5,15 @@ Formats: [HTML](2008/10/21/index.html)  [JSON](2008/10/21/index.json)  [XML](200
 
 ##### Global financial crisis of September-October 2008
 ### [ Global financial crisis of September-October 2008: Iceland's Kaupthing Bank fails to pay interest to its 50-billion-yen (US$493 million) bondholders in Japan. ](/news/2008/10/21/global-financial-crisis-of-septemberaoctober-2008-iceland-s-kaupthing-bank-fails-to-pay-interest-to-its-50-billion-yen-us-493-million.md)
-_Context: yen, $, Japan, Iceland, Kaupthing Bank, Global financial crisis of September-October 2008_
+_Context: Kaupthing Bank, Iceland, Global financial crisis of September-October 2008, Japan, yen, $_
 
 ##### India
 ### [ India wins the second test match of the 2008-09 Border-Gavaskar cricket test series against Australia at Mohali by 320 runs](/news/2008/10/21/india-wins-the-second-test-match-of-the-2008-09-border-gavaskar-cricket-test-series-against-australia-at-mohali-by-320-runs.md)
-_Context: India, Mohali, 2008-09 Border-Gavaskar cricket test series, Australia_
+_Context: India, Australia, 2008-09 Border-Gavaskar cricket test series, Mohali_
 
 ##### Pakistan
 ### [ A trade route opens within Pakistan-administered Kashmir and India's Jammu and Kashmir state after a 60-year barrier. ](/news/2008/10/21/a-trade-route-opens-within-pakistan-administered-kashmir-and-india-s-jammu-and-kashmir-state-after-a-60-year-barrier.md)
-_Context: Pakistan, Pakistan-administered Kashmir, India, Line of Control, Jammu and Kashmir_
+_Context: Line of Control, Pakistan-administered Kashmir, Pakistan, Jammu and Kashmir, India_
 
 ## [Previous Day...](/news/2008/10/20/index.md)
 

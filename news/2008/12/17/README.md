@@ -9,7 +9,7 @@ _Context: Ruins of an entire ancient city, Peru, Wari culture_
 
 ##### South Korea
 ### [ South Korean actress Ok So-ri is given an eight-month suspended prison sentence for adultery after the Constitutional Court refused to strike down a law criminalizing adultery. ](/news/2008/12/17/south-korean-actress-ok-so-ri-is-given-an-eight-month-suspended-prison-sentence-for-adultery-after-the-constitutional-court-refused-to-stri.md)
-_Context: South Korea, Ok So-ri, Constitutional Court, adultery_
+_Context: Ok So-ri, Constitutional Court, South Korea, adultery_
 
 ##### Iraq
 ### [ Iraqi Parliament Speaker Mahmoud al-Mashhadani announces his resignation because of chaos over the treatment of Muntadhar al-Zaidi, the Al-Baghdadia TV journalist who threw his shoes at United States President George W. Bush. ](/news/2008/12/17/iraqi-parliament-speaker-mahmoud-al-mashhadani-announces-his-resignation-because-of-chaos-over-the-treatment-of-muntadhar-al-zaidi-the-al.md)
@@ -21,7 +21,7 @@ _Context: State Department, Blackwater Worldwide, civilian contractor_
 
 ##### United Nations
 ### [ The United Nations passes a resolution authorizing foreign countries to conduct military raids on land or by sea in pursuit of Somali pirates. ](/news/2008/12/17/the-united-nations-passes-a-resolution-authorizing-foreign-countries-to-conduct-military-raids-on-land-or-by-sea-in-pursuit-of-somali-pirat.md)
-_Context: Somalia, United Nations, Somali pirates_
+_Context: United Nations, Somalia, Somali pirates_
 
 ## [Previous Day...](/news/2008/12/16/index.md)
 

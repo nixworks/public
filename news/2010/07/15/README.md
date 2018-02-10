@@ -33,7 +33,7 @@ Gunman Raoul Moat told social workers he wanted to see a psychiatrist months bef
 
 ##### Francois-Marie Banier
 ### [Four people, including celebrity photographer Francois-Marie Banier, are arrested in a tax-evasion investigation into L'Oreal heiress Liliane Bettencourt. ](/news/2010/07/15/four-people-including-celebrity-photographer-franassois-marie-banier-are-arrested-in-a-tax-evasion-investigation-into-l-ora-c-al-heiress-lili.md)
-_Context: L'Oreal, Francois-Marie Banier, Liliane Bettencourt_
+_Context: Francois-Marie Banier, L'Oreal, Liliane Bettencourt_
 
 ##### Robbie Williams
 ### [Robbie Williams and Take That reunite. ](/news/2010/07/15/robbie-williams-and-take-that-reunite.md)
@@ -53,11 +53,11 @@ _Context: United Nations Command, North Korea_
 
 ##### Venezuelan President
 ### [President of Venezuela Hugo Chavez orders a review of Venezuela's ties with the Vatican following tensions between the government and Roman Catholic bishops. ](/news/2010/07/15/president-of-venezuela-hugo-cha-vez-orders-a-review-of-venezuela-s-ties-with-the-vatican-following-tensions-between-the-government-and-roman.md)
-_Context: Venezuelan government, bishop, Venezuelan President, Hugo Chavez, Roman Catholic, Holy See, Venezuela_
+_Context: Roman Catholic, Venezuelan President, Venezuelan government, bishop, Hugo Chavez, Venezuela, Holy See_
 
 ##### Decree
 ### [The Vatican issues a decree making the "attempted ordination of women" a grave crime in ecclesiastical law equivalent to child sexual abuse. ](/news/2010/07/15/the-vatican-issues-a-decree-making-the-attempted-ordination-of-women-a-grave-crime-in-ecclesiastical-law-equivalent-to-child-sexual-abuse.md)
-_Context: ordination of women, sexually assaulted, decree, ecclesiastical law_
+_Context: ecclesiastical law, decree, sexually assaulted, ordination of women_
 
 ##### Gambia
 ### [A Gambian judge sentences eight men to death for their role in an alleged coup plot. ](/news/2010/07/15/a-gambian-judge-sentences-eight-men-to-death-for-their-role-in-an-alleged-coup-plot.md)
@@ -69,7 +69,7 @@ Judges at the International Criminal Court order the accused in its first case -
 
 ##### Iraq
 ### [An Iraqi court orders a search for a man, who disappeared yesterday, accused of involvement in the murder of aid worker Margaret Hassan in 2004. ](/news/2010/07/15/an-iraqi-court-orders-a-search-for-a-man-who-disappeared-yesterday-accused-of-involvement-in-the-murder-of-aid-worker-margaret-hassan-in-2.md)
-_Context: Iraq, Margaret Hassan_
+_Context: Margaret Hassan, Iraq_
 
 ##### Holy See
 ### [The Vatican issues new instructions to speed up its own cases of priestly sexual abuse that are considered "most urgent". ](/news/2010/07/15/the-vatican-issues-new-instructions-to-speed-up-its-own-cases-of-priestly-sexual-abuse-that-are-considered-most-urgent.md)
@@ -85,7 +85,7 @@ Argentina becomes the first Latin American country to legalise gay marriage afte
 
 ##### President
 ### [President of Mexico Felipe Calderon replaces his Secretary of the Interior, Fernando Gomez Mont, after weeks of speculation. ](/news/2010/07/15/president-of-mexico-felipe-caldera3n-replaces-his-secretary-of-the-interior-fernando-gomez-mont-after-weeks-of-speculation.md)
-_Context: Secretary of the Interior, Fernando Gomez Mont, Felipe Calderon, President_
+_Context: President, Fernando Gomez Mont, Felipe Calderon, Secretary of the Interior_
 
 ##### CBS
 ### [Two major US TV networks, CBS and NBC, censor the "Kill the Ground Zero Mosque" advertisement by conservative group National Republican Trust which calls plans to erect a mosque near New York City's Ground Zero a "monstrosity". ](/news/2010/07/15/two-major-us-tv-networks-cbs-and-nbc-censor-the-kill-the-ground-zero-mosque-advertisement-by-conservative-group-national-republican-trus.md)
@@ -97,7 +97,7 @@ Dick Cheney, the former US Vice President, has undergone heart surgery, he has a
 
 ##### President
 ### [President of Brazil Luiz Inacio Lula da Silva sends to Congress a bill proposing that corporal punishment, including spanking, be outlawed. ](/news/2010/07/15/president-of-brazil-luiz-ina-cio-lula-da-silva-sends-to-congress-a-bill-proposing-that-corporal-punishment-including-spanking-be-outlawed.md)
-_Context: president, corporal punishment, Luiz Inacio Lula da Silva, spanking_
+_Context: Luiz Inacio Lula da Silva, president, corporal punishment, spanking_
 
 ##### United States
 ### [The United States Senate passes the financial reform package, aimed at curbing misconduct on Wall Street, with a 60-39 vote. ](/news/2010/07/15/the-united-states-senate-passes-the-financial-reform-package-aimed-at-curbing-misconduct-on-wall-street-with-a-60-39-vote.md)
@@ -117,7 +117,7 @@ Workers at the World Trade Center site excavate a ship believed to have been bur
 
 ##### Primate
 ### [Researchers discover a new species of fossil primate, "Saadanius hijazensis" which could be a common ancestor of Old World Monkeys and apes, including humans. ](/news/2010/07/15/researchers-discover-a-new-species-of-fossil-primate-saadanius-hijazensis-which-could-be-a-common-ancestor-of-old-world-monkeys-and-apes.md)
-_Context: Saadanius hijazensis, primate, ape, Old World Monkey_
+_Context: ape, Saadanius hijazensis, Old World Monkey, primate_
 
 ##### Golf
 ### [Golfer Rory McIlroy ties the record for lowest score (9-under par) at a major championship. ](/news/2010/07/15/golfer-rory-mcilroy-ties-the-record-for-lowest-score-9-under-par-at-a-major-championship.md)
@@ -125,11 +125,11 @@ Rory McIlroy today equalled the lowest ever round in a major championship with a
 
 ##### 800 metres
 ### [World 800 metres champion Caster Semenya wins her first race since her comeback. ](/news/2010/07/15/world-800-metres-champion-caster-semenya-wins-her-first-race-since-her-comeback.md)
-_Context: 800 metres, Caster Semenya_
+_Context: Caster Semenya, 800 metres_
 
 ##### Controversial
 ### [Controversial French footballer Thierry Henry retires from international football. ](/news/2010/07/15/controversial-french-footballer-thierry-henry-retires-from-international-football.md)
-_Context: Thierry Henry, Controversial_
+_Context: Controversial, Thierry Henry_
 
 ##### Zoo Aquarium de Madrid
 ### [Zoo Aquarium de Madrid bids for Paul the Octopus. ](/news/2010/07/15/zoo-aquarium-de-madrid-bids-for-paul-the-octopus.md)

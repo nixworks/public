@@ -21,7 +21,7 @@ _Context: bomb, United States, Afghanistan, United States armed forces_
 
 ##### Bangkok
 ### [An explosion occurs outside the head office of a government-run television station in Bangkok, Thailand. ](/news/2010/08/31/an-explosion-occurs-outside-the-head-office-of-a-government-run-television-station-in-bangkok-thailand.md)
-_Context: Bangkok, Thailand_
+_Context: Thailand, Bangkok_
 
 ##### Russia
 ### [3 Russian aircrew kidnapped in Sudan's Darfur region are released. ](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.md)
@@ -53,13 +53,13 @@ An unknown assailant threw two fire bombs at the Russian embassy in Minsk late o
 
 ##### Iran
 ### [Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. ](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.md)
-_Context: France, stoning, Iran, Carla Bruni, adultery, Sakineh Mohammadi Ashtiani_
+_Context: Carla Bruni, Iran, adultery, Sakineh Mohammadi Ashtiani, France, stoning_
 
 ##### Roj TV
 ### [The Danish-based Kurdish TV station Roj TV faces terror charges for supporting PKK. ](/news/2010/08/31/the-danish-based-kurdish-tv-station-roj-tv-faces-terror-charges-for-supporting-pkk.md)
 _Context: Roj TV_
 
-##### Mexico
+##### Mexican
 ### [Mexican authorities arrest top drug trafficker Edgar Valdez Villarreal. ](/news/2010/08/31/mexican-authorities-arrest-top-drug-trafficker-edgar-valdez-villarreal.md)
 Long-sought Edgar Valdez faces drug trafficking charges in the US and is known for brutal tactics to wipe out rivals.
 
@@ -79,7 +79,7 @@ In an address from the Oval Office, President Obama said that the nation had met
 ### [The South African government improves a pay offer to more than a million striking public sector workers in an attempt to end the two-week-long strike. ](/news/2010/08/31/the-south-african-government-improves-a-pay-offer-to-more-than-a-million-striking-public-sector-workers-in-an-attempt-to-end-the-two-week-lo.md)
 South African government negotiators have improved their pay offer to civil servants in a bid to end a crippling nation-wide strike which has lasted for more than two weeks.
 
-##### Mexico
+##### Mexican
 ### [As part of a lengthy interview with the Mexican newspaper "La Jornada", Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican-newspaper-la-jornada-fidel-castro-admits-responsibility-for-the-persecution-of-homosexual.md)
 Former Cuban President Fidel Castro says he is to blame for the persecution of homosexuals after the Cuban revolution of 1959.
 

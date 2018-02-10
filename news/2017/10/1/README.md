@@ -5,15 +5,15 @@ Formats: [HTML](2017/10/1/index.html)  [JSON](2017/10/1/index.json)  [XML](2017/
 
 ##### Yemeni Crisis (2011-present)
 ### [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md)
-_Context: Yemeni Crisis (2011-present), Sana'a, Houthi, Yemen, MQ-9 Reaper, Saba News Agency, United States_
+_Context: Houthi, Sana'a, United States, Yemeni Crisis (2011-present), Saba News Agency, MQ-9 Reaper, Yemen_
 
 ##### Marseille stabbing
 ### [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md)
-_Context: Marseille stabbing, ISIL, France, Marseille, Saint Charles_
+_Context: Saint Charles, Marseille stabbing, France, Marseille, ISIL_
 
 ##### Anglophone problem (Cameroon)
 ### [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md)
-_Context: Buea, Anglophone problem (Cameroon), Cameroon, Bamenda, Anglophone_
+_Context: Anglophone problem (Cameroon), Buea, Bamenda, Cameroon, Anglophone_
 
 ##### Syrian Civil War
 ### [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md)
@@ -25,7 +25,7 @@ In addition to the two fatalities, hospital officials said at least 24 people ha
 
 ##### United Kingdom
 ### [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md)
-_Context: bankruptcy, Monarch Airlines, United Kingdom_
+_Context: United Kingdom, Monarch Airlines, bankruptcy_
 
 ##### Vanuatu
 ### [Vanuatu begins evacuating 11,000 islanders from the island of Ambae because of the erupting volcano Manaro Voui which pollutes the water. ](/news/2017/10/1/vanuatu-begins-evacuating-11-000-islanders-from-the-island-of-ambae-because-of-the-erupting-volcano-manaro-voui-which-pollutes-the-water.md)
@@ -33,7 +33,7 @@ Vanuatu has launched a Dunkirk-style evacuation on the northern island of Ambae 
 
 ##### O. J. Simpson robbery case
 ### [Nevada prison authorities release former NFL player O. J. Simpson on parole after serving nine years for a 2007 Las Vegas armed robbery. Previously, a jury had acquitted Simpson of the 1995 murder of his ex-wife Nicole Brown Simpson and her friend Ron Goldman. ](/news/2017/10/1/nevada-prison-authorities-release-former-nfl-player-o-j-simpson-on-parole-after-serving-nine-years-for-a-2007-las-vegas-armed-robbery-pre.md)
-_Context: NFL, armed robbery, O. J. Simpson, Ron Goldman, Las Vegas, a jury had acquitted Simpson, parole, Nicole Brown Simpson, O. J. Simpson robbery case, Nevada_
+_Context: O. J. Simpson, O. J. Simpson robbery case, NFL, Ron Goldman, a jury had acquitted Simpson, parole, Las Vegas, Nicole Brown Simpson, Nevada, armed robbery_
 
 ##### Spanish constitutional crisis
 ### [The government of Catalonia holds a public referendum on whether their region should gain independence from Spain, despite the Spanish courts and government declaring the vote illegal and deploying police to deter voters. Catalan President Carles Puigdemont says Catalonia "has won the right to become an independent state." ](/news/2017/10/1/the-government-of-catalonia-holds-a-public-referendum-on-whether-their-region-should-gain-independence-from-spain-despite-the-spanish-court.md)

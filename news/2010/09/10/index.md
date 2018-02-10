@@ -17,7 +17,7 @@ _Context: Denmark, Copenhagen_
 
 ##### Russia
 ### [A Russian Ministry of Emergency Situations plane loaded with victims of the 2010 Vladikavkaz bombing lands at Moscow's Ramenskoye Airport as the death toll reaches 17. ](/news/2010/09/10/a-russian-ministry-of-emergency-situations-plane-loaded-with-victims-of-the-2010-vladikavkaz-bombing-lands-at-moscow-s-ramenskoye-airport-as.md)
-_Context: Ramenskoye Airport, 2010 Vladikavkaz bombing, Ministry of Emergency Situations, Russia, Moscow_
+_Context: 2010 Vladikavkaz bombing, Ministry of Emergency Situations, Moscow, Russia, Ramenskoye Airport_
 
 ##### British Army
 ### [A British Army soldier from the Duke of Lancaster's Regiment dies of injuries he received in the war in Afghanistan. ](/news/2010/09/10/a-british-army-soldier-from-the-duke-of-lancaster-s-regiment-dies-of-injuries-he-received-in-the-war-in-afghanistan.md)
@@ -45,7 +45,7 @@ Cause has not been determined; includes pogies, redfish, drum, crabs and shrimp
 
 ##### Yang
 ### [Yang Jiechi, the Foreign Minister of the People's Republic of China, calls for Japan to immediately release a fishing boat captain captured in disputed waters in the East China Sea. ](/news/2010/09/10/yang-jiechi-the-foreign-minister-of-the-people-s-republic-of-china-calls-for-japan-to-immediately-release-a-fishing-boat-captain-captured.md)
-_Context: Yang, Foreign Minister, East China Sea, Japan, fishing boat_
+_Context: Japan, fishing boat, Foreign Minister, East China Sea, Yang_
 
 ##### Iran
 ### [Iran delays the release of United States detainee Sarah Shourd because the legal processes have not been completed. ](/news/2010/09/10/iran-delays-the-release-of-united-states-detainee-sarah-shourd-because-the-legal-processes-have-not-been-completed.md)
@@ -55,13 +55,13 @@ Iran delays the release of Sarah Shourd, one of three US hikers arrested last ye
 ### [President of the United States Barack Obama urges Prime Minister of Israel Benjamin Netanyahu to extend a partial construction freeze on the West Bank. ](/news/2010/09/10/president-of-the-united-states-barack-obama-urges-prime-minister-of-israel-benjamin-netanyahu-to-extend-a-partial-construction-freeze-on-the.md)
 President Obama said Friday that he had urged Israeli Prime Minister Benjamin Netanyahu to extend a partial freeze on Israeli settlement construction in the West Bank because peace talks with the...
 
-##### Mexico
+##### Mexican
 ### [At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md)
-_Context: Texas, Mexico, U.S. border, Tamaulipas, McAllen, Reynosa_
+_Context: Mexican, U.S. border, Tamaulipas, McAllen, Texas, Reynosa_
 
 ##### Mario Viegas CarrascalGBPo
 ### [Mario Viegas CarrascalGBPo resigns as the Deputy Prime Minister of East Timor leaving the Prime Minister Xanana GusmGBPo without a majority in the Parliament. ](/news/2010/09/10/ma-rio-viegas-carrascalagbpo-resigns-as-the-deputy-prime-minister-of-east-timor-leaving-the-prime-minister-xanana-gusmagbpo-without-a-majori.md)
-_Context: Parliament, Prime Minister of East Timor, Xanana GusmGBPo, Deputy Prime Minister, East Timor, Mario Viegas CarrascalGBPo_
+_Context: Deputy Prime Minister, Xanana GusmGBPo, Prime Minister of East Timor, Mario Viegas CarrascalGBPo, Parliament, East Timor_
 
 ## [Previous Day...](/news/2010/09/9/index.md)
 

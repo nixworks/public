@@ -5,19 +5,19 @@ Formats: [HTML](2004/08/14/index.html)  [JSON](2004/08/14/index.json)  [XML](200
 
 ##### Overnight
 ### [ Gunmen kill at least 156 people &ndash; mainly women and children &ndash; in an overnight raid on the Gatumba camp for Congolese Tutsi refugees in Burundi, the UN says. ](/news/2004/08/14/gunmen-kill-at-least-156-people-ndash-mainly-women-and-children-ndash-in-an-overnight-raid-on-the-gatumba-camp-for-congolese-tutsi-refu.md)
-_Context: Gatumba, Burundi, refugee, Tutsi, overnight, DR Congo, United Nations_
+_Context: United Nations, Gatumba, Burundi, DR Congo, refugee, overnight, Tutsi_
 
 ##### Pope John Paul II
 ### [ An ailing Pope John Paul II visits the grotto of Lourdes on a two-day pilgrimage to one of the Roman Catholic world's most revered shrines. ](/news/2004/08/14/an-ailing-pope-john-paul-ii-visits-the-grotto-of-lourdes-on-a-two-day-pilgrimage-to-one-of-the-roman-catholic-world-s-most-revered-shrines.md)
-_Context: Roman Catholic, Pope John Paul II, Lourdes_
+_Context: Pope John Paul II, Lourdes, Roman Catholic_
 
 ##### Samarra
 ### [ US planes bomb the city of Samarra, north-west of Baghdad. In Najaf, a fragile ceasefire holds, with Muqtada al-Sadr making defiant statements but continuing negotiations. The Allawi government decides to withdraw from the negotiations in the afternoon. ](/news/2004/08/14/us-planes-bomb-the-city-of-samarra-north-west-of-baghdad-in-najaf-a-fragile-ceasefire-holds-with-muqtada-al-sadr-making-defiant-stateme.md)
-_Context: Iyad Allawi, Muqtada al-Sadr, Baghdad, Samarra, Najaf, ceasefire_
+_Context: ceasefire, Muqtada al-Sadr, Baghdad, Iyad Allawi, Samarra, Najaf_
 
 ##### Death by hanging
 ### [ India hangs convicted rapist and murderer Dhananjoy Chatterjee at dawn in Alipore jail, Kolkata &ndash; the country's first execution in nine years. ](/news/2004/08/14/india-hangs-convicted-rapist-and-murderer-dhananjoy-chatterjee-at-dawn-in-alipore-jail-kolkata-ndash-the-country-s-first-execution-in-ni.md)
-_Context: Kolkata, execution, Dhananjoy Chatterjee, rape, death by hanging, jail_
+_Context: jail, execution, Dhananjoy Chatterjee, Kolkata, death by hanging, rape_
 
 ## [Previous Day...](/news/2004/08/13/index.md)
 

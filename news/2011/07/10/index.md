@@ -9,7 +9,7 @@ Police in Bangladesh on Sunday fired tear gas and rubber bullets to disperse Isl
 
 ##### NATO
 ### [Three NATO service members are killed in separate attacks in Afghanistan. ](/news/2011/07/10/three-nato-service-members-are-killed-in-separate-attacks-in-afghanistan.md)
-_Context: Afghanistan, NATO_
+_Context: NATO, Afghanistan_
 
 ##### News International
 ### [The final edition of the "News of the World" is published in the United Kingdom. ](/news/2011/07/10/the-final-edition-of-the-news-of-the-world-is-published-in-the-united-kingdom.md)
@@ -17,7 +17,7 @@ Rupert Murdoch&#039;s takeover of BSkyB appeared to be dead in the water last ni
 
 ##### Earthquake
 ### [A strong earthquake of 7.1 magnitude occurs off the coast of Honshu in Japan sparking a tsunami warning. ](/news/2011/07/10/a-strong-earthquake-of-7-1-magnitude-occurs-off-the-coast-of-honshu-in-japan-sparking-a-tsunami-warning.md)
-_Context: Honshu Island, earthquake, tsunami warning, tsunami_
+_Context: earthquake, tsunami, tsunami warning, Honshu Island_
 
 ##### Beloye
 ### [A fire in a retirement home in the village of Beloye in the western Ukraine kills 16 people. ](/news/2011/07/10/a-fire-in-a-retirement-home-in-the-village-of-beloye-in-the-western-ukraine-kills-16-people.md)
@@ -25,11 +25,11 @@ _Context: Beloye, Ukraine_
 
 ##### Kalka Mail
 ### [A hundred people are injured as the Kalka Mail is derailed near the town of Fathepur Malwa in the Indian state of Uttar Pradesh. ](/news/2011/07/10/a-hundred-people-are-injured-as-the-kalka-mail-is-derailed-near-the-town-of-fathepur-malwa-in-the-indian-state-of-uttar-pradesh.md)
-_Context: Uttar Pradesh, India, Kalka Mail, derailed_
+_Context: India, Kalka Mail, Uttar Pradesh, derailed_
 
 ##### Bulgaria
 ### [The cruise ship "Bulgaria" sinks in the Volga River near Bolgar, Russia. At least 110 of the 196 on board go down with the ship and drown, while 80 were rescued alive. ](/news/2011/07/10/the-cruise-ship-bulgaria-sinks-in-the-volga-river-near-bolgar-russia-at-least-110-of-the-196-on-board-go-down-with-the-ship-and-drown-w.md)
-_Context: Russia, Bulgaria, Volga River, Bolgar_
+_Context: Bulgaria, Russia, Volga River, Bolgar_
 
 ##### Tumaco
 ### [Twenty prisoners escape from a jail in the town of Tumaco in Colombia's Narino Department with three people recaptured. ](/news/2011/07/10/twenty-prisoners-escape-from-a-jail-in-the-town-of-tumaco-in-colombia-s-naria-o-department-with-three-people-recaptured.md)
@@ -37,7 +37,7 @@ More than a dozen prisoners, some believed to be dangerous, are on the run in so
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia Julia Gillard announces the details of a plan to introduce a carbon tax. ](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.md)
-_Context: Julia Gillard, carbon tax, Australian Prime Minister_
+_Context: Australian Prime Minister, carbon tax, Julia Gillard_
 
 ##### Palestinian
 ### [Pro-Palestinian activists begin a week of protests on the West Bank. ](/news/2011/07/10/pro-palestinian-activists-begin-a-week-of-protests-on-the-west-bank.md)

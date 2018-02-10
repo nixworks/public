@@ -13,7 +13,7 @@ U.S. Vice President Dick Cheney visited Afghanistan on Thursday and met Presiden
 
 ##### Xinhua
 ### [ The Xinhua news agency reports for the first time that protests have spread to neighbouring provinces of Sichuan and Gansu as the Chinese authorities attempt to regain control. ](/news/2008/03/20/the-xinhua-news-agency-reports-for-the-first-time-that-protests-have-spread-to-neighbouring-provinces-of-sichuan-and-gansu-as-the-chinese-a.md)
-_Context: Sichuan, China, Gansu, Xinhua_
+_Context: Xinhua, Gansu, China, Sichuan_
 
 ## [Previous Day...](/news/2008/03/19/index.md)
 

@@ -13,11 +13,11 @@ _Context: Gordon Brown, Prime Minister_
 
 ##### Denmark
 ### [ Danish police arrest more than 400 people in protests in Copenhagen over the closure of the Ungdomshuset youth centre earlier in the year. ](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.md)
-_Context: Denmark, Copenhagen, Ungdomshuset_
+_Context: Copenhagen, Denmark, Ungdomshuset_
 
 ##### Typhoon Krosa
 ### [ Typhoon Krosa hits Taiwan, killing at least four people and injuring 40 more. ](/news/2007/10/6/typhoon-krosa-hits-taiwan-killing-at-least-four-people-and-injuring-40-more.md)
-_Context: Typhoon Krosa, Taiwan_
+_Context: Taiwan, Typhoon Krosa_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: A suicide bomb attack on a United States convoy in Kabul kills a U.S. soldier and five civilians. ](/news/2007/10/6/war-in-afghanistan-a-suicide-bomb-attack-on-a-united-states-convoy-in-kabul-kills-a-u-s-soldier-and-five-civilians.md)
@@ -25,7 +25,7 @@ A Taliban suicide car bomb killed five Afghan civilians and a U.S. soldier in Ka
 
 ##### Pervez Musharraf
 ### [ Pervez Musharraf wins the Pakistani Presidential Election in unofficial results. The announcement of the official result will be withheld until a Supreme Court verdict is made on the legality of his candidacy. ](/news/2007/10/6/pervez-musharraf-wins-the-pakistani-presidential-election-in-unofficial-results-the-announcement-of-the-official-result-will-be-withheld-u.md)
-_Context: Pervez Musharraf, Supreme Court, 2007 Pakistani presidential election_
+_Context: Supreme Court, 2007 Pakistani presidential election, Pervez Musharraf_
 
 ##### Jason Lewis
 ### [ Adventurer Jason Lewis of Expedition 360 completes the first human-powered circumnavigation of the globe. ](/news/2007/10/6/adventurer-jason-lewis-of-expedition-360-completes-the-first-human-powered-circumnavigation-of-the-globe.md)
@@ -33,7 +33,7 @@ _Context: Jason Lewis, Expedition 360_
 
 ##### Quentin L. Cook
 ### [ Quentin L. Cook is called as an apostle of The Church of Jesus Christ of Latter-day Saints in the 177th Semi-Annual General Conference. ](/news/2007/10/6/quentin-l-cook-is-called-as-an-apostle-of-the-church-of-jesus-christ-of-latter-day-saints-in-the-177th-semi-annual-general-conference.md)
-_Context:  apostle, The Church of Jesus Christ of Latter-day Saints,  177th Semi-Annual General Conference, Quentin L. Cook_
+_Context: The Church of Jesus Christ of Latter-day Saints, Quentin L. Cook,  177th Semi-Annual General Conference,  apostle_
 
 ##### Royal Canadian Mounted Police
 ### [ Christopher John Worden, a Royal Canadian Mounted Police constable from Hay River, Northwest Territories, is shot and killed by an unknown assailant. ](/news/2007/10/6/christopher-john-worden-a-royal-canadian-mounted-police-constable-from-hay-river-northwest-territories-is-shot-and-killed-by-an-unknown.md)

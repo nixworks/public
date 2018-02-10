@@ -5,7 +5,7 @@ Formats: [HTML](2012/03/10/index.html)  [JSON](2012/03/10/index.json)  [XML](201
 
 ##### 2011-2012 Syrian uprising
 ### [Syrian uprising: At least 45 women and children are killed and burned in Homs after the United Nations visited Syrian President Bashar al-Assad to discuss the uprising. ](/news/2012/03/10/syrian-uprising-at-least-45-women-and-children-are-killed-and-burned-in-homs-after-the-united-nations-visited-syrian-president-bashar-al-as.md)
-_Context: United Nations, Homs, Bashar al-Assad, President, 2011-2012 Syrian uprising_
+_Context: Bashar al-Assad, United Nations, Homs, 2011-2012 Syrian uprising, President_
 
 ##### Israeli-Palestinian clashes
 ### [March 2012 Gaza-Israel clashes: At least 130 rockets are fired into Israel from Gaza, and 12 Palestinians militants are killed as part of the latest escalation in violence in the region. ](/news/2012/03/10/march-2012-gaza-israel-clashes-at-least-130-rockets-are-fired-into-israel-from-gaza-and-12-palestinians-militants-are-killed-as-part-of-th.md)
@@ -25,7 +25,7 @@ At least six people are killed in a grenade attack in the Kenyan capital which t
 
 ##### Comics artist
 ### [French comics artist Jean Giraud, also known as Moebius, the creator of Blueberry and a range of influential science-fiction comics, dies at age 73. ](/news/2012/03/10/french-comics-artist-jean-giraud-also-known-as-mabius-the-creator-of-blueberry-and-a-range-of-influential-science-fiction-comics-dies-at.md)
-_Context: Jean Giraud, Blueberry, comics artist_
+_Context: Jean Giraud, comics artist, Blueberry_
 
 ##### Peru
 ### [A fire in Peru destroys half a million textbooks and other education materials. ](/news/2012/03/10/a-fire-in-peru-destroys-half-a-million-textbooks-and-other-education-materials.md)
@@ -45,7 +45,7 @@ _Context: rally, Vladimir Putin, Russian President, last week's election_
 
 ##### Cyclist
 ### [Hundreds of nude cyclists take to the street in Lima, Peru to protest unsafe road conditions. ](/news/2012/03/10/hundreds-of-nude-cyclists-take-to-the-street-in-lima-peru-to-protest-unsafe-road-conditions.md)
-_Context: cyclist, Peru, Lima_
+_Context: Peru, cyclist, Lima_
 
 ##### Frank Sherwood Rowland
 ### [Frank Sherwood Rowland, the winner of the 1995 Nobel Prize in Chemistry for warning about the depletion of the ozone layer, dies in the US state of California. ](/news/2012/03/10/frank-sherwood-rowland-the-winner-of-the-1995-nobel-prize-in-chemistry-for-warning-about-the-depletion-of-the-ozone-layer-dies-in-the-us-s.md)

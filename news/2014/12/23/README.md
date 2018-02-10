@@ -37,7 +37,7 @@ _Context: Food and Drug Administration_
 
 ##### Ukraine
 ### [The Parliament of Ukraine removes the country's legislative block on forming military alliances, allowing the government to push forward with plans to accede to NATO. ](/news/2014/12/23/the-parliament-of-ukraine-removes-the-countryas-legislative-block-on-forming-military-alliances-allowing-the-government-to-push-forward-w.md)
-_Context: NATO, Ukraine_
+_Context: Ukraine, NATO_
 
 ##### Russia and Pakistan
 ### [Russia and Pakistan sign their first energy deal for the Karachi&ndash;Lahore gas pipeline worth US$1.7 billion. ](/news/2014/12/23/russia-and-pakistan-sign-their-first-energy-deal-for-the-karachi-ndash-lahore-gas-pipeline-worth-us-1-7-billion.md)
@@ -45,7 +45,7 @@ Islamabad: For the first time, Pakistan and Russia have signed an energy deal wo
 
 ##### Hellenic Parliament
 ### [The Greek parliament fails to elect a new president in the second round of voting. ](/news/2014/12/23/the-greek-parliament-fails-to-elect-a-new-president-in-the-second-round-of-voting.md)
-_Context: Hellenic Parliament, elect a new Greek president_
+_Context: elect a new Greek president, Hellenic Parliament_
 
 ## [Previous Day...](/news/2014/12/22/index.md)
 

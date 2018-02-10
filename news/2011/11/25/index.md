@@ -9,7 +9,7 @@ _Context: Justice and Development Party, Morocco, parliamentary election_
 
 ##### Kamal Ganzouri
 ### [Kamal Ganzouri is appointed as new Prime Minister of Egypt as a replacement for Essam Sharaf, who resigned after protests. ](/news/2011/11/25/kamal-ganzouri-is-appointed-as-new-prime-minister-of-egypt-as-a-replacement-for-essam-sharaf-who-resigned-after-protests.md)
-_Context: 2011 Egyptian revolution, Kamal Ganzouri, Essam Sharaf, Prime Minister of Egypt_
+_Context: Kamal Ganzouri, 2011 Egyptian revolution, Prime Minister of Egypt, Essam Sharaf_
 
 ## [Previous Day...](/news/2011/11/24/index.md)
 

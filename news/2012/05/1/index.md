@@ -13,7 +13,7 @@ _Context: 2011-2012 Bahraini uprising, Manama_
 
 ##### Dhusamareb
 ### [An attack by a suicide bomber in a cafe attached to a hotel in Dhusamareb, Somalia, causes an indeterminate number of fatalities, including according to witnesses two MPs, Yusuf Mire Seerar and Abdiweli Sheik Mohamud. ](/news/2012/05/1/an-attack-by-a-suicide-bomber-in-a-cafa-c-attached-to-a-hotel-in-dhusamareb-somalia-causes-an-indeterminate-number-of-fatalities-including.md)
-_Context: Somalia, Dhusamareb_
+_Context: Dhusamareb, Somalia_
 
 ##### 2012 Mali counter-coup attempt
 ### [2012 Mali counter-coup attempt: Heavy fighting takes place in the Malian capital Bamako between coup supporters and opponents. ](/news/2012/05/1/2012-mali-counter-coup-attempt-heavy-fighting-takes-place-in-the-malian-capital-bamako-between-coup-supporters-and-opponents.md)
@@ -37,11 +37,11 @@ Tens of thousands of people take to the streets across the globe, protesting aga
 
 ##### Japan
 ### [April car sales in Japan rise by 92% year-over-year, a gain partially realized due to low sales in the wake of last year's earthquake and tsunami. ](/news/2012/05/1/april-car-sales-in-japan-rise-by-92-year-over-year-a-gain-partially-realized-due-to-low-sales-in-the-wake-of-last-year-s-earthquake-and-ts.md)
-_Context: Japan, 2011 Tohoku earthquake and tsunami_
+_Context: 2011 Tohoku earthquake and tsunami, Japan_
 
 ##### Obama administration
 ### [U.S. President Barack Obama visits Afghanistan on an unannounced visit coinciding with the first anniversary of Osama Bin Laden's assassination by the U.S. Special Forces in Pakistan, signing an agreement with Afghan President Hamid Karzai outlining a continuing U.S. role in Afghanistan after 2014. ](/news/2012/05/1/u-s-president-barack-obama-visits-afghanistan-on-an-unannounced-visit-coinciding-with-the-first-anniversary-of-osama-bin-laden-s-assassinat.md)
-_Context: Hamid Karzai, Pakistan, Obama administration, father's killing, Osama Bin Laden, Afghanistan_
+_Context: father's killing, Afghanistan, Pakistan, Hamid Karzai, Obama administration, Osama Bin Laden_
 
 ##### President of the European Commission
 ### [Five European presidents and the President of the European Commission cancel visits to Ukraine over the treatment of the former prime minister Yulia Tymoshenko. ](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.md)
@@ -49,7 +49,7 @@ Ukraine is facing growing isolation as five presidents and the EU Commission can
 
 ##### Egypt
 ### [Egypt security services foil an alleged Iranian plot to kill the Saudi ambassador in Cairo. ](/news/2012/05/1/egypt-security-services-foil-an-alleged-iranian-plot-to-kill-the-saudi-ambassador-in-cairo.md)
-_Context: Cairo, Egypt, Iran, Saudi Arabia_
+_Context: Egypt, Saudi Arabia, Iran, Cairo_
 
 ##### Li Keqiang
 ### [Chinese Vice-Premier Li Keqiang visits Moscow. China and Russia sign trade deals worth $15 billion. ](/news/2012/05/1/chinese-vice-premier-li-keqiang-visits-moscow-china-and-russia-sign-trade-deals-worth-15-billion.md)
@@ -65,7 +65,7 @@ _Context: Dominique Strauss-Kahn, Nafissatou Diallo_
 
 ##### Tomas Borge
 ### [Tomas Borge, the last surviving founding member of Nicaragua's socialist political party Sandinista National Liberation Front, dies. ](/news/2012/05/1/toma-s-borge-the-last-surviving-founding-member-of-nicaragua-s-socialist-political-party-sandinista-national-liberation-front-dies.md)
-_Context: Nicaragua, Sandinista National Liberation Front, Tomas Borge_
+_Context: Tomas Borge, Nicaragua, Sandinista National Liberation Front_
 
 ##### Turkey
 ### [A parliamentary committee begins work on Turkey's first fully civilian constitution. ](/news/2012/05/1/a-parliamentary-committee-begins-work-on-turkey-s-first-fully-civilian-constitution.md)
@@ -73,7 +73,7 @@ _Context: constitution, Turkey_
 
 ##### Tzipi Livni
 ### [Former opposition leader and foreign minister Tzipi Livni quits the Israeli parliament. ](/news/2012/05/1/former-opposition-leader-and-foreign-minister-tzipi-livni-quits-the-israeli-parliament.md)
-_Context: Israel, Tzipi Livni_
+_Context: Tzipi Livni, Israel_
 
 ## [Previous Day...](/news/2012/04/30/index.md)
 

@@ -13,7 +13,7 @@ Pakistani soldiers, Indian troops and one suspected rebel killed in separate inc
 
 ##### Kasai-Central clashes (2016-present)
 ### [According to the United Nations, the Congolese military has killed at least 101 people, including over 30 women, in the last five days while fighting Kamwina Nsapu rebels in Kasai-Central. ](/news/2017/02/14/according-to-the-united-nations-the-congolese-military-has-killed-at-least-101-people-including-over-30-women-in-the-last-five-days-while.md)
-_Context: Kasai-Central clashes (2016-present), Congolese military, Kasai-Central, United Nations_
+_Context: United Nations, Kasai-Central, Congolese military, Kasai-Central clashes (2016-present)_
 
 ##### Cigna
 ### [Cigna announces that it has terminated its merger with Anthem, a deal that was blocked by a U.S. federal judge last week. In addition, Cigna sues Anthem for the $1.85 billion reverse termination fee, and for more than $13 billion in additional damages. Anthem says Cigna has no right to terminate the merger, a deal which in January was extended to April 30, 2017. ](/news/2017/02/14/cigna-announces-that-it-has-terminated-its-merger-with-anthem-a-deal-that-was-blocked-by-a-u-s-federal-judge-last-week-in-addition-cigna.md)

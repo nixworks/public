@@ -5,15 +5,15 @@ Formats: [HTML](2009/07/29/index.html)  [JSON](2009/07/29/index.json)  [XML](200
 
 ##### Nigerian battles
 ### [ The death toll in Nigeria's worst violence since November 2008 reaches over 250. ](/news/2009/07/29/the-death-toll-in-nigeria-s-worst-violence-since-november-2008-reaches-over-250.md)
-_Context: alive when captured, Nigerian battles, Nigeria_
+_Context: Nigerian battles, alive when captured, Nigeria_
 
 ##### So Tom and Prncipe
 ### [ So Tom and Prncipe signs a loan deal with former colonial power Portugal aimed at anchoring the dobra to the euro. ](/news/2009/07/29/sao-tome-and-principe-signs-a-loan-deal-with-former-colonial-power-portugal-aimed-at-anchoring-the-dobra-to-the-euro.md)
-_Context: So Tom and Prncipe, dobra, euro, Portugal_
+_Context: So Tom and Prncipe, euro, Portugal, dobra_
 
 ##### Moldova
 ### [ Moldova goes to the polls for a parliamentary election, with an exit poll suggesting a setback for the Communist Party. ](/news/2009/07/29/moldova-goes-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-suggesting-a-setback-for-the-communist-party.md)
-_Context: exit poll, Communist Party, Moldova, parliamentary election_
+_Context: parliamentary election, exit poll, Communist Party, Moldova_
 
 ##### Massoud Barzani
 ### [ Massoud Barzani is re-elected President of Kurdistan. ](/news/2009/07/29/massoud-barzani-is-re-elected-president-of-kurdistan.md)
@@ -21,7 +21,7 @@ _Context: Massoud Barzani, Kurdish_
 
 ##### Guinea-Bissau
 ### [ Guinea-Bissau former leader Malam Bacai Sanh wins a presidential run-off to decide who replaces the assassinated Joo Bernardo Vieira. ](/news/2009/07/29/guinea-bissau-former-leader-malam-bacai-sanha-wins-a-presidential-run-off-to-decide-who-replaces-the-assassinated-joao-bernardo-vieira.md)
-_Context: Malam Bacai Sanh, Joo Bernardo Vieira, Guinea-Bissau_
+_Context: Guinea-Bissau, Malam Bacai Sanh, Joo Bernardo Vieira_
 
 ##### Bombing of Burgos
 ### [ A car bomb explodes outside a police barracks in the northern Spanish city of Burgos, injuring dozens of people. ](/news/2009/07/29/a-car-bomb-explodes-outside-a-police-barracks-in-the-northern-spanish-city-of-burgos-injuring-dozens-of-people.md)
@@ -29,15 +29,15 @@ A car bomb has exploded near a civil guards barracks in Burgos in northern Spain
 
 ##### Internet
 ### [ An Internet blog belonging to a group calling itself "al-Qaeda Organisation Indonesia" claims responsibility for the July 17 Jakarta hotel bombings. ](/news/2009/07/29/an-internet-blog-belonging-to-a-group-calling-itself-al-qaeda-organisation-indonesia-claims-responsibility-for-the-july-17-jakarta-hotel.md)
-_Context: Indonesia, al-Qaeda, blog, Internet, suicide attacks on two hotels_
+_Context: Internet, al-Qaeda, suicide attacks on two hotels, blog, Indonesia_
 
 ##### Iran
 ### [ Iran announces it is to put 20 people detained during protests on trial after the disputed presidential election. ](/news/2009/07/29/iran-announces-it-is-to-put-20-people-detained-during-protests-on-trial-after-the-disputed-presidential-election.md)
-_Context: re-election, protests against the regime, Iran_
+_Context: protests against the regime, re-election, Iran_
 
 ##### Venezuela
 ### [ Venezuela "freezes" diplomatic relations with Colombia, after a dispute over Swedish weapons bought by Venezuela were allegedly found on FARC rebels. ](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.md)
-_Context: Sweden, Revolutionary Armed Forces of Colombia, Colombia, Venezuela_
+_Context: Revolutionary Armed Forces of Colombia, Venezuela, Colombia, Sweden_
 
 ##### Kyrgyzstan
 ### [ Dozens of people are arrested at opposition rallies in Kyrgyzstan, protesting against the disputed presidential election. ](/news/2009/07/29/dozens-of-people-are-arrested-at-opposition-rallies-in-kyrgyzstan-protesting-against-the-disputed-presidential-election.md)
@@ -53,7 +53,7 @@ _Context: Lubna Ahmed Hussein, United Nations, Sudan_
 
 ##### France
 ### [ French President Nicolas Sarkozy claims he is fine after his fainting fit. ](/news/2009/07/29/french-president-nicolas-sarkozy-claims-he-is-fine-after-his-fainting-fit.md)
-_Context: Nicolas Sarkozy, fainting, fit, French President, France_
+_Context: Nicolas Sarkozy, French President, fainting, fit, France_
 
 ##### International Monetary Fund
 ### [ The International Monetary Fund says it will take "unprecedented" measures to help poor countries cope with the economic downturn. ](/news/2009/07/29/the-international-monetary-fund-says-it-will-take-unprecedented-measures-to-help-poor-countries-cope-with-the-economic-downturn.md)
@@ -61,7 +61,7 @@ _Context: International Monetary Fund_
 
 ##### Cuba
 ### [ Cuba and Russia sign a deal which allows Russia to begin oil exploration in the Gulf of Mexico. ](/news/2009/07/29/cuba-and-russia-sign-a-deal-which-allows-russia-to-begin-oil-exploration-in-the-gulf-of-mexico.md)
-_Context: petroleum, Cuba, Gulf of Mexico, Russia_
+_Context: petroleum, Cuba, Russia, Gulf of Mexico_
 
 ##### Kazakhstan
 ### [ A rocket is launched from Kazakhstan carrying two British-built satellites designed to help monitor natural disasters. ](/news/2009/07/29/a-rocket-is-launched-from-kazakhstan-carrying-two-british-built-satellites-designed-to-help-monitor-natural-disasters.md)

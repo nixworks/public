@@ -25,7 +25,7 @@ American Airlines, struggling to regain financial footing relative to stronger r
 
 ##### Bangkok
 ### [Floodwaters threaten the Thai capital of Bangkok as the 2011 Thai floods - which have killed 317 people and affected nearly nine million in Thailand since August - continue unabated. ](/news/2011/10/19/floodwaters-threaten-the-thai-capital-of-bangkok-as-the-2011-thai-floods-which-have-killed-317-people-and-affected-nearly-nine-million-in.md)
-_Context: Thailand, Bangkok, 2011 Thai floods_
+_Context: Bangkok, Thailand, 2011 Thai floods_
 
 ##### Elizabeth II
 ### [Queen Elizabeth II commences her 16th visit to Australia in the capital Canberra. ](/news/2011/10/19/queen-elizabeth-ii-commences-her-16th-visit-to-australia-in-the-capital-canberra.md)
@@ -33,7 +33,7 @@ The Queen will arrive in Canberra today for what may be her last official tour o
 
 ##### South Korean President
 ### [The President of South Korea, Lee Myung-bak, meets with the Prime Minister of Japan, Yoshihiko Noda, in Seoul. ](/news/2011/10/19/the-president-of-south-korea-lee-myung-bak-meets-with-the-prime-minister-of-japan-yoshihiko-noda-in-seoul.md)
-_Context: Lee Myung-bak, Yoshihiko Noda, Seoul, Prime Minister of Japan, South Korean President_
+_Context: Prime Minister of Japan, Lee Myung-bak, Yoshihiko Noda, Seoul, South Korean President_
 
 ##### Exotic animal
 ### [56 animals are intentionally released by their owner from an exotic animal farm in Muskingum County, Ohio. The owner subsequently commits suicide. ](/news/2011/10/19/56-animals-are-intentionally-released-by-their-owner-from-an-exotic-animal-farm-in-muskingum-county-ohio-the-owner-subsequently-commits-su.md)

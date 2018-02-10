@@ -25,7 +25,7 @@ BP chief Tony Hayward, widely criticised for his handling of the US oil spill, i
 
 ##### United States Secretary of the Treasury
 ### [United States Secretary of the Treasury Tim Geithner pushes for Congress to allow the tax cuts for high-income taxpayers in the Jobs and Growth Tax Relief Reconciliation Act of 2003 to expire at the end of 2010, while extending the act's tax cuts for middle- and lower-income taxpayers. ](/news/2010/07/25/united-states-secretary-of-the-treasury-tim-geithner-pushes-for-congress-to-allow-the-tax-cuts-for-high-income-taxpayers-in-the-jobs-and-gro.md)
-_Context: Jobs and Growth Tax Relief Reconciliation Act of 2003, lawmakers, Tim Geithner, United States Secretary of the Treasury_
+_Context: Tim Geithner, lawmakers, Jobs and Growth Tax Relief Reconciliation Act of 2003, United States Secretary of the Treasury_
 
 ##### Iraq Inquiry
 ### [Iraq Inquiry witness Carne Ross alleges the British government is covering up "embarrassing testimony" about its decision to invade Iraq in 2003. ](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.md)
@@ -33,7 +33,7 @@ _Context: Carne Ross, Iraq Inquiry_
 
 ##### Burma
 ### [Burmese military ruler General Than Shwe begins a five-day visit to India. ](/news/2010/07/25/burmese-military-ruler-general-than-shwe-begins-a-five-day-visit-to-india.md)
-_Context: Than Shwe, Burma, India_
+_Context: Than Shwe, India, Burma_
 
 ##### Kampala
 ### [At the African Union summit in Kampala, attended by 53 countries, its president, the President of Malawi Bingu wa Mutharika, states International Criminal Court indictments against the Sudanese president undermine African peace and security and calls for the issue to be solved in a different way. ](/news/2010/07/25/at-the-african-union-summit-in-kampala-attended-by-53-countries-its-president-the-president-of-malawi-bingu-wa-mutharika-states-internat.md)
@@ -45,11 +45,11 @@ Former Cuban President Fidel Castro makes his first reported appearance outside 
 
 ##### Alberto Contador
 ### [Alberto Contador wins the 2010 Tour de France, his third, as seven-times winner Lance Armstrong makes his final appearance. ](/news/2010/07/25/alberto-contador-wins-the-2010-tour-de-france-his-third-as-seven-times-winner-lance-armstrong-makes-his-final-appearance.md)
-_Context: Lance Armstrong, 2010 Tour de France, Alberto Contador_
+_Context: Lance Armstrong, Alberto Contador, 2010 Tour de France_
 
 ##### Fernando Alonso
 ### [Fernando Alonso wins the German Grand Prix ahead of Ferrari team-mate Felipe Massa at Hockenheim. ](/news/2010/07/25/fernando-alonso-wins-the-german-grand-prix-ahead-of-ferrari-team-mate-felipe-massa-at-hockenheim.md)
-_Context: German Grand Prix, Ferrari, Hockenheim, Fernando Alonso, Felipe Massa_
+_Context: German Grand Prix, Fernando Alonso, Felipe Massa, Ferrari, Hockenheim_
 
 ## [Previous Day...](/news/2010/07/24/index.md)
 

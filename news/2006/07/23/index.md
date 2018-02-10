@@ -25,11 +25,11 @@ _Context: United States, 2006, Floyd Landis_
 
 ##### Earthquake
 ### [ An "'earthquake"' of 6.1 magnitude off the coast of Gorontalo province on the Indonesian island of Sulawesi prompts warnings of a possible tsunami. ](/news/2006/07/23/an-earthquake-of-6-1-magnitude-off-the-coast-of-gorontalo-province-on-the-indonesian-island-of-sulawesi-prompts-warnings-of-a-possible.md)
-_Context: Indonesia, tsunami, Sulawesi island, Gorontalo, earthquake_
+_Context: Sulawesi island, Gorontalo, tsunami, Indonesia, earthquake_
 
 ##### Suicide bomb
 ### [ A suicide bomb explosion kills at least 26 people in a busy market in Sadr City, a predominantly Shi'a district of Baghdad. ](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-people-in-a-busy-market-in-sadr-city-a-predominantly-shi-a-district-of-baghdad.md)
-_Context: Sadr City, suicide bomb, Baghdad, Shi'a_
+_Context: Sadr City, suicide bomb, Shi'a, Baghdad_
 
 ## [Previous Day...](/news/2006/07/22/index.md)
 

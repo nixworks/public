@@ -5,7 +5,7 @@ Formats: [HTML](2007/01/2/index.html)  [JSON](2007/01/2/index.json)  [XML](2007/
 
 ##### United States
 ### [ A report by the United States Federal Bureau of Investigation reveals that twenty-six of their employees witnessed abuse at the Guantnamo Bay detainment camp in Cuba. ](/news/2007/01/2/a-report-by-the-united-states-federal-bureau-of-investigation-reveals-that-twenty-six-of-their-employees-witnessed-abuse-at-the-guantanamo.md)
-_Context: United States, Cuba, Guantnamo Bay detainment camp, FBI_
+_Context: FBI, United States, Cuba, Guantnamo Bay detainment camp_
 
 ##### Adam Air
 ### [ Earlier reports of the discovery of the wreckage of Adam Air Flight 574 are proved false. ](/news/2007/01/2/earlier-reports-of-the-discovery-of-the-wreckage-of-adam-air-flight-574-are-proved-false.md)

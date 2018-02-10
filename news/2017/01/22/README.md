@@ -21,7 +21,7 @@ Seven of those killed were in a Georgia trailer park apparently struck by a torn
 
 ##### Mauritian Prime Minister
 ### [Mauritian Prime Minister Anerood Jugnauth announces his intention to resign on Monday and hand power over to his son, Pravind Jugnauth. ](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-announces-his-intention-to-resign-on-monday-and-hand-power-over-to-his-son-pravind-jugnauth.md)
-_Context: Anerood Jugnauth, Mauritian Prime Minister, Pravind Jugnauth_
+_Context: Mauritian Prime Minister, Pravind Jugnauth, Anerood Jugnauth_
 
 ##### Israeli settlement
 ### [Following the inauguration of Donald Trump as President of the United States, Israel approves the construction of 566 new settlement homes in East Jerusalem. ](/news/2017/01/22/following-the-inauguration-of-donald-trump-as-president-of-the-united-states-israel-approves-the-construction-of-566-new-settlement-homes-i.md)
@@ -33,7 +33,7 @@ _Context: Anerood Jugnauth, Mauritian Prime Minister, Pravind Jugnauth_
 
 ##### India
 ### [The Indian state government of Tamil Nadu lifts its ban on the sport of Jallikattu, following five days of protests by demonstrators against the ban. ](/news/2017/01/22/the-indian-state-government-of-tamil-nadu-lifts-its-ban-on-the-sport-of-jallikattu-following-five-days-of-protests-by-demonstrators-against.md)
-_Context: Tamil Nadu, Jallikattu, India_
+_Context: India, Jallikattu, Tamil Nadu_
 
 ## [Previous Day...](/news/2017/01/21/index.md)
 

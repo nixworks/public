@@ -5,19 +5,19 @@ Formats: [HTML](2006/05/15/index.html)  [JSON](2006/05/15/index.json)  [XML](200
 
 ##### United States President
 ### [ United States President George W. Bush gives a speech proposing major immigration reform in the United States. ](/news/2006/05/15/united-states-president-george-w-bush-gives-a-speech-proposing-major-immigration-reform-in-the-united-states.md)
-_Context: George W. Bush, United States, United States President, a speech proposing major immigration reform_
+_Context: George W. Bush, United States President, a speech proposing major immigration reform, United States_
 
 ##### Mounts Merapi
 ### [ Mount Merapi erupts, according to the national Indonesian news agency. ](/news/2006/05/15/mount-merapi-erupts-according-to-the-national-indonesian-news-agency.md)
-_Context: erupts, Indonesia, Mounts Merapi_
+_Context: erupts, Mounts Merapi, Indonesia_
 
 ##### United States
 ### [ The United States State Department announces it will re-establish diplomatic ties with Libya and remove it from its list of states that sponsor terrorism. ](/news/2006/05/15/the-united-states-state-department-announces-it-will-re-establish-diplomatic-ties-with-libya-and-remove-it-from-its-list-of-states-that-spo.md)
-_Context: Libya, United States, its list of states that sponsor terrorism, State Department_
+_Context: United States, Libya, State Department, its list of states that sponsor terrorism_
 
 ##### Giorgio Napolitano
 ### [ Giorgio Napolitano is sworn in as President of the Italian Republic, following his election held on May 10. ](/news/2006/05/15/giorgio-napolitano-is-sworn-in-as-president-of-the-italian-republic-following-his-election-held-on-may-10.md)
-_Context: Giorgio Napolitano, election, President_
+_Context: Giorgio Napolitano, President, election_
 
 ##### Makoto Koga
 ### [ Makoto Koga, a political faction leader within the Liberal Democratic Party of Japan and former secretary general, proposes that Yasukuni Shrine set up a separate shrine for the 14 Class-A war criminals enshrined there. ](/news/2006/05/15/makoto-koga-a-political-faction-leader-within-the-liberal-democratic-party-of-japan-and-former-secretary-general-proposes-that-yasukuni-s.md)

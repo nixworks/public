@@ -17,7 +17,7 @@ A complete ban on the sale of cosmetics developed through animal testing is now 
 
 ##### Italy
 ### [Italian stocks lose value after Fitch Ratings downgrades the country's creditworthiness. ](/news/2013/03/11/italian-stocks-lose-value-after-fitch-ratings-downgrades-the-country-s-creditworthiness.md)
-_Context: creditworthiness, Fitch Ratings, Italy, stock_
+_Context: Italy, creditworthiness, stock, Fitch Ratings_
 
 ##### U.S.
 ### [Five U.S. service members are killed after a helicopter crash during a rainstorm in Daman district of Kandahar Province, Afghanistan. ](/news/2013/03/11/five-u-s-service-members-are-killed-after-a-helicopter-crash-during-a-rainstorm-in-daman-district-of-kandahar-province-afghanistan.md)
@@ -25,7 +25,7 @@ Five Americans from the Nato-led foreign forces in Afghanistan die in a helicopt
 
 ##### EA-6B Prowler
 ### [An EA-6B Prowler military plane crashes about 50 miles west of Spokane, Washington, United States, and kills three American Navy crew members. ](/news/2013/03/11/an-ea-6b-prowler-military-plane-crashes-about-50-miles-west-of-spokane-washington-united-states-and-kills-three-american-navy-crew-member.md)
-_Context: Spokane, Washington, crashes, EA-6B Prowler, American Navy, United States_
+_Context: United States, Washington, EA-6B Prowler, Spokane, American Navy, crashes_
 
 ##### Earthquake
 ### [Three minor earthquakes strike Southern California, United States. ](/news/2013/03/11/three-minor-earthquakes-strike-southern-california-united-states.md)
@@ -37,7 +37,7 @@ Workers in China are continuing to fish dead pigs from a river near Shanghai, wi
 
 ##### Shark
 ### [Five species of shark and two species of manta ray receive international protection as part of CITES. ](/news/2013/03/11/five-species-of-shark-and-two-species-of-manta-ray-receive-international-protection-as-part-of-cites.md)
-_Context: shark, CITES, manta ray_
+_Context: shark, manta ray, CITES_
 
 ##### Aspirin
 ### [A new study suggests that regular aspirin use may reduce the risk of melanoma in women. ](/news/2013/03/11/a-new-study-suggests-that-regular-aspirin-use-may-reduce-the-risk-of-melanoma-in-women.md)
@@ -69,15 +69,15 @@ In announcing a settlement, the agency said the state had misled investors about
 
 ##### New York
 ### [A New York state judge invalidates a New York City ban on the sale of soft drinks larger than 16 ounces that was set to take effect on March 12. The office of Mayor Michael Bloomberg indicates it will appeal. ](/news/2013/03/11/a-new-york-state-judge-invalidates-a-new-york-city-ban-on-the-sale-of-soft-drinks-larger-than-16-ounces-that-was-set-to-take-effect-on-march.md)
-_Context: Michael Bloomberg, March 12, New York City, soft drinks, ounces, ban, Mayor, New York_
+_Context: soft drinks, March 12, New York, ban, Mayor, New York City, ounces, Michael Bloomberg_
 
 ##### President
 ### [Interim President of Venezuela Nicolas Maduro files papers to stand in the presidential election on April 14 with Henrique Capriles Radonski standing as an opposition candidate. ](/news/2013/03/11/interim-president-of-venezuela-nicola-s-maduro-files-papers-to-stand-in-the-presidential-election-on-april-14-with-henrique-capriles-radonsk.md)
-_Context: President, last month's presidential election, Nicolas Maduro, April 14, Henrique Capriles, Venezuela_
+_Context: Venezuela, Nicolas Maduro, April 14, Henrique Capriles, President, last month's presidential election_
 
 ##### Hungary
 ### [Hungary's parliament passes a series of constitutional changes to counteract previous court rulings. Critics claim the move undermines the rule of law. ](/news/2013/03/11/hungary-s-parliament-passes-a-series-of-constitutional-changes-to-counteract-previous-court-rulings-critics-claim-the-move-undermines-the-r.md)
-_Context: National Assembly, constitutional, Hungary_
+_Context: National Assembly, Hungary, constitutional_
 
 ##### Falkland Islands
 ### [The results of the Falkland Islands sovereignty referendum are announced with 99.8% of voters supporting the Islands staying as an Overseas Territory of the United Kingdom. ](/news/2013/03/11/the-results-of-the-falkland-islands-sovereignty-referendum-are-announced-with-99-8-of-voters-supporting-the-islands-staying-as-an-overseas.md)
@@ -89,7 +89,7 @@ A pair of brown dwarfs has been spotted slightly more than six light years away.
 
 ##### Astrobiologist
 ### [A group of astrobiologists including Chandra Wickramasinghe say that algae-like structures inside a Polonnaruwa meteorite, that fell on December 29, 2012, in Sri Lanka, are clear evidence of panspermia, the idea that life exists throughout the Universe. ](/news/2013/03/11/a-group-of-astrobiologists-including-chandra-wickramasinghe-say-that-algae-like-structures-inside-a-polonnaruwa-meteorite-that-fell-on-dece.md)
-_Context: Chandra Wickramasinghe, astrobiologist, extraterrestrial, Universe, panspermia, December 29, Sri Lanka, algae, Polonnaruwa meteorite_
+_Context: Polonnaruwa meteorite, astrobiologist, Universe, Chandra Wickramasinghe, algae, December 29, panspermia, Sri Lanka, extraterrestrial_
 
 ## [Previous Day...](/news/2013/03/10/index.md)
 

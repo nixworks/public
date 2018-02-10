@@ -13,19 +13,19 @@ _Context: Economy of the United States, yuan, International Monetary Fund_
 
 ##### Aitutaki
 ### [Aid flights arrive on the island of Aitutaki, Cook Islands, where 90% of structures were damaged or destroyed by Cyclone Pat last week. ](/news/2010/02/15/aid-flights-arrive-on-the-island-of-aitutaki-cook-islands-where-90-of-structures-were-damaged-or-destroyed-by-cyclone-pat-last-week.md)
-_Context: Cyclone Pat, Cook Islands, Aitutaki_
+_Context: Cyclone Pat, Aitutaki, Cook Islands_
 
 ##### Somalia
 ### [Somalia's state minister for defence Yusuf Mohammed Siad survives an attempt on his life from a suicide bomber in Mogadishu. ](/news/2010/02/15/somalia-s-state-minister-for-defence-yusuf-mohammed-siad-survives-an-attempt-on-his-life-from-a-suicide-bomber-in-mogadishu.md)
-_Context: Somalia, Mogadishu, Yusuf Mohammed Siad_
+_Context: Yusuf Mohammed Siad, Somalia, Mogadishu_
 
 ##### Naxalite
 ### [A Naxalite attack on an army camp in West Bengal kills 24 Indian soldiers, with many more reported missing. ](/news/2010/02/15/a-naxalite-attack-on-an-army-camp-in-west-bengal-kills-24-indian-soldiers-with-many-more-reported-missing.md)
-_Context: Naxalite, India, attack on an army camp_
+_Context: Naxalite, attack on an army camp, India_
 
 ##### Kenya
 ### [Kenya's Prime Minister Raila Odinga accuses the President Mwai Kibaki of "overstepping" his powers after the latter re-appointed two ministers sacked by Odinga over a corruption scandal. ](/news/2010/02/15/kenya-s-prime-minister-raila-odinga-accuses-the-president-mwai-kibaki-of-overstepping-his-powers-after-the-latter-re-appointed-two-ministe.md)
-_Context: Kenya, Mwai Kibaki, Raila Odinga_
+_Context: Raila Odinga, Kenya, Mwai Kibaki_
 
 ##### United Nations
 ### [The United Nations Special Envoy to Myanmar, Tomas Quintana, arrives in the country on the first day of a five day visit to assess the progress on human rights. ](/news/2010/02/15/the-united-nations-special-envoy-to-myanmar-tomas-quintana-arrives-in-the-country-on-the-first-day-of-a-five-day-visit-to-assess-the-progr.md)
@@ -45,15 +45,15 @@ _Context: 2005 Sydney terrorism plot_
 
 ##### Cyclone Rene
 ### [Cyclone Rene hammers Tonga with gusts of 160 kilometres an hour, isolating Tongans for several days. Widespread damage is reported in the capital, Nuku`alofa, and contact is lost with the northern island of Vava`u. ](/news/2010/02/15/cyclone-rene-hammers-tonga-with-gusts-of-160-kilometres-an-hour-isolating-tongans-for-several-days-widespread-damage-is-reported-in-the-ca.md)
-_Context: Tonga, Cyclone Rene, Nuku`alofa, Vava`u_
+_Context: Nuku`alofa, Vava`u, Tonga, Cyclone Rene_
 
 ##### NATO
 ### [A joint NATO and Afghan military operation is succeeding in pushing Taliban fighters from their strongholds in Helmand province. ](/news/2010/02/15/a-joint-nato-and-afghan-military-operation-is-succeeding-in-pushing-taliban-fighters-from-their-strongholds-in-helmand-province.md)
-_Context: Taliban, NATO, Helmand, Afghanistan_
+_Context: Afghanistan, Taliban, Helmand, NATO_
 
 ##### Dario Cologna
 ### [Dario Cologna secures Switzerland's first ever Olympic cross-country gold medal and Norway delivers its poorest ever cross-country Olympic performance in the men's 15km freestyle cross-country competition ](/news/2010/02/15/dario-cologna-secures-switzerland-s-first-ever-olympic-cross-country-gold-medal-and-norway-delivers-its-poorest-ever-cross-country-olympic-p.md)
-_Context: Switzerland, Norway, Dario Cologna, men's 15km freestyle cross-country competition, cross-country skiers_
+_Context: Dario Cologna, Switzerland, Norway, cross-country skiers, men's 15km freestyle cross-country competition_
 
 ## [Previous Day...](/news/2010/02/14/index.md)
 

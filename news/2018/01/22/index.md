@@ -9,7 +9,7 @@ At least seven people died after clashes broke out between security forces and w
 
 ##### South Thailand insurgency
 ### [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md)
-_Context: Thailand, Yala Province, South Thailand insurgency_
+_Context: South Thailand insurgency, Yala Province, Thailand_
 
 ##### Net neutrality in the United States
 ### [Montana Governor Steve Bullock signs an executive order that bars any Internet service provider with state contracts from blocking or charging more for faster delivery of websites to any customer in the state. Montana is the first state to respond this way to the FCC's December 14, 2017, net neutrality ruling. ](/news/2018/01/22/montana-governor-steve-bullock-signs-an-executive-order-that-bars-any-internet-service-provider-with-state-contracts-from-blocking-or-chargi.md)
@@ -27,17 +27,17 @@ _Context: Oklahoma_
 ### [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md)
 At least 13 people, including a newborn, were killed on Sunday when a landslide pushed a bus into a ravine in southwest Colombia, the disaster relief agency said.
 
-##### United States recognition of Jerusalem as Israeli capital
+##### Recognize Jerusalem as Israel's capital
 ### [U.S. Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. ](/news/2018/01/22/u-s-vice-president-mike-pence-declares-during-a-speech-in-the-israeli-parliament-that-the-new-u-s-embassy-located-in-jerusalem-will-open-i.md)
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament
 
 ##### Palestine-European Union relations
 ### [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md)
-_Context: Federica Mogherini, European Union, High Representative of the Union for Foreign Affairs and Security Policy, East Jerusalem, Palestine, Mahmoud Abbas, Palestine-European Union relations, President of the State of Palestine_
+_Context: High Representative of the Union for Foreign Affairs and Security Policy, Palestine, East Jerusalem, Mahmoud Abbas, European Union, Palestine-European Union relations, President of the State of Palestine, Federica Mogherini_
 
 ##### Parliamentary Assembly of the Council of Europe
 ### [Italian politician Michele Nicoletti becomes the new President of the Parliamentary Assembly of the Council of Europe. ](/news/2018/01/22/italian-politician-michele-nicoletti-becomes-the-new-president-of-the-parliamentary-assembly-of-the-council-of-europe.md)
-_Context: Parliamentary Assembly of the Council of Europe, Michele Nicoletti, President of the Parliamentary Assembly of the Council of Europe_
+_Context: President of the Parliamentary Assembly of the Council of Europe, Michele Nicoletti, Parliamentary Assembly of the Council of Europe_
 
 ##### Tariffs in United States history
 ### [President Donald Trump imposes Section 201 tariffs on imported solar panels and washing machines. ](/news/2018/01/22/president-donald-trump-imposes-section-201-tariffs-on-imported-solar-panels-and-washing-machines.md)

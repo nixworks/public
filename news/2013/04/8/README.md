@@ -29,15 +29,15 @@ _Context: Madrid, Spain, Sara Montiel_
 
 ##### China
 ### [Chinese President Xi Jinping opens the Boao Forum for Asia in Boao, Hainan, by calling on entrepreneurs to form a united voice and vision for the common development of Asia. ](/news/2013/04/8/chinese-president-xi-jinping-opens-the-boao-forum-for-asia-in-boao-hainan-by-calling-on-entrepreneurs-to-form-a-united-voice-and-vision-fo.md)
-_Context: Asia, Chinese President, entrepreneur, Xi Jinping, Boao Forum for Asia, China, Hainan, Boao_
+_Context: entrepreneur, Chinese President, Boao, China, Boao Forum for Asia, Xi Jinping, Asia, Hainan_
 
 ##### Australia
 ### [Australian Prime Minister Julia Gillard, on a trip to Shanghai, China, announces that the Australian dollar is set to trade directly with the Chinese yuan, becoming the third currency to do so. ](/news/2013/04/8/australian-prime-minister-julia-gillard-on-a-trip-to-shanghai-china-announces-that-the-australian-dollar-is-set-to-trade-directly-with-th.md)
-_Context: China, Australian Prime Minister, A$, Australia-China relations, Shanghai, currency, yuan, Australia, Julia Gillard_
+_Context: Julia Gillard, yuan, China, Australia, A$, Shanghai, currency, Australia-China relations, Australian Prime Minister_
 
 ##### Caribou Coffee
 ### [Caribou Coffee announces plans to close all of its stores in the Chicago area. ](/news/2013/04/8/caribou-coffee-announces-plans-to-close-all-of-its-stores-in-the-chicago-area.md)
-_Context: Chicago, Caribou Coffee_
+_Context: Caribou Coffee, Chicago_
 
 ##### South Korea
 ### [A senior South Korean government official says that North Korea may be preparing for its fourth nuclear test, as increased activity is detected at its main test site. However, the South Korean Defence Ministry denied having clear signs that the test may be imminent. ](/news/2013/04/8/a-senior-south-korean-government-official-says-that-north-korea-may-be-preparing-for-its-fourth-nuclear-test-as-increased-activity-is-detec.md)
@@ -69,7 +69,7 @@ Forensic experts in Chile are exhuming the remains of poet Pablo Neruda to deter
 
 ##### Pakistan
 ### [Pakistan's former leader Pervez Musharraf is directed to appear before the country's Supreme Court on allegations of treason. ](/news/2013/04/8/pakistan-s-former-leader-pervez-musharraf-is-directed-to-appear-before-the-country-s-supreme-court-on-allegations-of-treason.md)
-_Context: Pakistan, Supreme Court, Pervez Musharraf, president, treason_
+_Context: treason, president, Supreme Court, Pakistan, Pervez Musharraf_
 
 ##### Margaret Thatcher
 ### [Margaret Thatcher, former British Prime Minister, dies of a stroke at the age of 87 in London. ](/news/2013/04/8/margaret-thatcher-former-british-prime-minister-dies-of-a-stroke-at-the-age-of-87-in-london.md)
@@ -77,7 +77,7 @@ The first woman to be UK prime minister, Baroness Thatcher, has died at the age 
 
 ##### Bangladesh
 ### [Bangladesh Prime Minister Sheikh Hasina rejects demands by Islamists for a new anti-blasphemy law to punish those who defame Islam and Prophet Muhammad. ](/news/2013/04/8/bangladesh-prime-minister-sheikh-hasina-rejects-demands-by-islamists-for-a-new-anti-blasphemy-law-to-punish-those-who-defame-islam-and-proph.md)
-_Context: Bangladesh, Islamists, Islam, Prime Minister, Sheikh Hasina, blasphemy, Prophet Muhammad_
+_Context: Prime Minister, Islam, Sheikh Hasina, Bangladesh, Prophet Muhammad, blasphemy, Islamists_
 
 ##### Filip Vujanovic
 ### [Electoral Commission chairman announces that Filip Vujanovic is re-elected as President of Montenegro. ](/news/2013/04/8/electoral-commission-chairman-announces-that-filip-vujanovia-is-re-elected-as-president-of-montenegro.md)

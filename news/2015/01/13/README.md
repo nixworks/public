@@ -13,7 +13,7 @@ _Context: military intervention in Ukraine, Ukraine_
 
 ##### Rob Wainwright
 ### [Rob Wainwright, the Director of Europol, tells a British parliamentary committee that up to 5000 European Union citizens have joined jihadist groups in the Middle East. ](/news/2015/01/13/rob-wainwright-the-director-of-europol-tells-a-british-parliamentary-committee-that-up-to-5000-european-union-citizens-have-joined-jihadis.md)
-_Context: Europol, Parliament, jihadist, Rob Wainwright, European Union, Middle East_
+_Context: Parliament, European Union, Middle East, Europol, Rob Wainwright, jihadist_
 
 ##### Indonesia AirAsia Flight 8501
 ### [Divers recover the cockpit voice recorder from the crashed jet. The Indonesian National Transportation Safety Committee states that by using the now collected recorders a preliminary report on the accident will be produced within a month and a final report after a year. ](/news/2015/01/13/divers-recover-the-cockpit-voice-recorder-from-the-crashed-jet-the-indonesian-national-transportation-safety-committee-states-that-by-using.md)
@@ -25,11 +25,11 @@ _Context: contaminated beer, Mozambique_
 
 ##### World Health Organization
 ### [The World Health Organization monitors an avian flu outbreak in Taiwan, as H5N8 avian flu virus infects nine farms. ](/news/2015/01/13/the-world-health-organization-monitors-an-avian-flu-outbreak-in-taiwan-as-h5n8-avian-flu-virus-infects-nine-farms.md)
-_Context: World Health Organization, avian flu, Taiwan, H5N8_
+_Context: H5N8, Taiwan, avian flu, World Health Organization_
 
 ##### Ebola virus epidemic in West Africa
 ### [China sends an additional 232 People's Liberation Army medical workers to West Africa to combat the outbreak (in addition to the 78 that had previously been stationed). ](/news/2015/01/13/china-sends-an-additional-232-people-s-liberation-army-medical-workers-to-west-africa-to-combat-the-outbreak-in-addition-to-the-78-that-had.md)
-_Context: China, West Africa, Ebola virus epidemic in West Africa, People's Liberation Army_
+_Context: Ebola virus epidemic in West Africa, People's Liberation Army, West Africa, China_
 
 ##### Pope Francis
 ### [Pope Francis arrives in Sri Lanka to begin a six day Asian tour. ](/news/2015/01/13/pope-francis-arrives-in-sri-lanka-to-begin-a-six-day-asian-tour.md)

@@ -15,9 +15,13 @@ A suicide bomber killed at least 11 soldiers and injured 13 at an army camp in n
 ### [A shooting in Macerata, Italy, leaves six African immigrants wounded. The suspect is arrested and the case is being treated as a racially motivated crime. ](/news/2018/02/3/a-shooting-in-macerata-italy-leaves-six-african-immigrants-wounded-the-suspect-is-arrested-and-the-case-is-being-treated-as-a-racially-mo.md)
 A man suspected of racially-motivated shootings that injure six is arrested in the town of Macerata.
 
+##### Closed amusement park ride
+### [ Epcot announces that Circle of Life: An Environmental Fable would close permanently. ](/news/2018/02/3/epcot-announces-that-circle-of-life-an-environmental-fable-would-close-permanently.md)
+_Context: Epcot, Closed amusement park ride, Circle of Life: An Environmental Fable_
+
 ##### 15760 Albion
 ### [15760 Albion (previously 1992 QB 1 ), the first discovered Kuiper belt object, is officially named by its discoverers. ](/news/2018/02/3/15760-albion-previously-1992-qb-1-the-first-discovered-kuiper-belt-object-is-officially-named-by-its-discoverers.md)
-_Context: Kuiper belt, 15760 Albion_
+_Context: 15760 Albion, Kuiper belt_
 
 ## [Previous Day...](/news/2018/02/2/index.md)
 

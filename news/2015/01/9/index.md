@@ -49,7 +49,7 @@ The president’s initiative, which would expand educational opportunities for m
 
 ##### Stockholm University
 ### [Stockholm University cuts its ties with the Confucius Institute citing concerns about foreign interference in academic freedom. ](/news/2015/01/9/stockholm-university-cuts-its-ties-with-the-confucius-institute-citing-concerns-about-foreign-interference-in-academic-freedom.md)
-_Context: Stockholm University, Confucius Institute_
+_Context: Confucius Institute, Stockholm University_
 
 ##### Lovejoy Comet
 ### [The Lovejoy Comet enters its brightest phase to roughly magnitude 4 or 5. ](/news/2015/01/9/the-lovejoy-comet-enters-its-brightest-phase-to-roughly-magnitude-4-or-5.md)

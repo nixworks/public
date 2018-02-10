@@ -13,11 +13,11 @@ The blast occurred at a checkpoint near the presidential palace just as the new 
 
 ##### Joint Comprehensive Plan of Action
 ### [Tasnim News Agency reports that, in a Nowruz speech, Supreme Leader of Iran Ali Khamenei said experts in his country can enrich uranium to 99 percent. ISNA reports that Iranian Foreign Minister Mohammad Javad Zarif is threatening to quit the Iran nuclear deal if the United States blocks Iran's version of the deal's implementation. ](/news/2017/03/21/tasnim-news-agency-reports-that-in-a-nowruz-speech-supreme-leader-of-iran-ali-khamenei-said-experts-in-his-country-can-enrich-uranium-to-9.md)
-_Context: Mohammad Javad Zarif, Ali Khamenei, Joint Comprehensive Plan of Action, ISNA, United States, Tasnim News Agency, Nowruz, Supreme Leader_
+_Context: United States, Supreme Leader, Mohammad Javad Zarif, Nowruz, Ali Khamenei, ISNA, Joint Comprehensive Plan of Action, Tasnim News Agency_
 
 ##### Rules
 ### [In a 6&ndash;2 decision ("NLRB v. SW General, Inc"), the U.S. Supreme Court puts new restrictions on presidential powers, limiting a president's authority to staff certain top government posts in a case involving an appointment to the National Labor Relations Board saying that under the Federal Vacancies Reform Act, a person cannot serve as the acting head of a federal agency once the president nominates him or her to permanently serve in the role if it is a position that requires U.S. Senate confirmation. The court upholds a lower court's ruling that then-President Barack Obama exceeded his legal authority with his temporary appointment of an NLRB general counsel in 2011. The ruling will give President Donald Trump and future presidents less flexibility in filling jobs that require Senate confirmation. ](/news/2017/03/21/in-a-6-ndash-2-decision-nlrb-v-sw-general-inc-the-u-s-supreme-court-puts-new-restrictions-on-presidential-powers-limiting-a-preside.md)
-_Context: National Labor Relations Board, Donald Trump, Barack Obama, Federal Vacancies Reform Act, Supreme Court of the United States, rules, Senate confirmation, United States Senate_
+_Context: Federal Vacancies Reform Act, Senate confirmation, Barack Obama, Supreme Court of the United States, rules, Donald Trump, United States Senate, National Labor Relations Board_
 
 ##### Bruno Le Roux
 ### [Bruno Le Roux resigns as France's Minister of the Interior amid a jobs scandal involving two of his daughters. Using public funds, Bruno had hired his 15 and 16-year-old daughters as parliamentary assistants while he was serving as a deputy in the French National Assembly. ](/news/2017/03/21/bruno-le-roux-resigns-as-france-s-minister-of-the-interior-amid-a-jobs-scandal-involving-two-of-his-daughters-using-public-funds-bruno-had.md)

@@ -29,7 +29,7 @@ McCain was diagnosed with a tumor called a glioblastoma after the removal of a b
 
 ##### Political appointments by Donald Trump
 ### [U.S. President Donald Trump nominates Mark Esper as Secretary of the Army. ](/news/2017/07/19/u-s-president-donald-trump-nominates-mark-esper-as-secretary-of-the-army.md)
-_Context: Donald Trump, Secretary of the Army, Mark Esper, Political appointments by Donald Trump_
+_Context: Political appointments by Donald Trump, Secretary of the Army, Donald Trump, Mark Esper_
 
 ##### Vietnam
 ### [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md)

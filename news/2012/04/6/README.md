@@ -17,7 +17,7 @@ A ban on tobacco displays is coming into force in England - with ministers promi
 
 ##### Afghanistan
 ### [Seven civilians die in Afghanistan's Panjwai district after a fuel tanker overturns. ](/news/2012/04/6/seven-civilians-die-in-afghanistan-s-panjwai-district-after-a-fuel-tanker-overturns.md)
-_Context: fuel, Afghanistan, Panjwai district_
+_Context: fuel, Panjwai district, Afghanistan_
 
 ##### United States Navy
 ### [A United States Navy FA-18 Hornet crashes into an apartment complex in the US city of Virginia Beach, Virginia with minimal injuries and no fatalities. ](/news/2012/04/6/a-united-states-navy-fa-18-hornet-crashes-into-an-apartment-complex-in-the-us-city-of-virginia-beach-virginia-with-minimal-injuries-and-no.md)
@@ -25,15 +25,15 @@ There are no reports so far of critical injuries or fatalities, but emergency cr
 
 ##### Japan
 ### [Japan renews a territorial claim over Liancourt Rocks (Takeshima-Dokdo), which South Korea also claims to be part of its territory. ](/news/2012/04/6/japan-renews-a-territorial-claim-over-liancourt-rocks-takeshima-dokdo-which-south-korea-also-claims-to-be-part-of-its-territory.md)
-_Context: Liancourt Rocks, South Korea, Japan_
+_Context: South Korea, Japan, Liancourt Rocks_
 
 ##### Amadou Sanogo
 ### [Capt Amadou Sanogo, the leader of the Mali coup, states that power will be transferred to the President of the National Assembly after separatist Tuaregs declare independence. ](/news/2012/04/6/capt-amadou-sanogo-the-leader-of-the-mali-coup-states-that-power-will-be-transferred-to-the-president-of-the-national-assembly-after-separ.md)
-_Context: National Assembly, Tuaregs, Amadou Sanogo, Mali_
+_Context: Mali, Amadou Sanogo, National Assembly, Tuaregs_
 
 ##### President
 ### [The new President of Yemen Abed Rabbo Mansour Hadi fires four governors and over a dozen military commanders including the half brother of former President Ali Abdullah Saleh who was head of the Yemeni Air Force. ](/news/2012/04/6/the-new-president-of-yemen-abed-rabbo-mansour-hadi-fires-four-governors-and-over-a-dozen-military-commanders-including-the-half-brother-of-f.md)
-_Context: Abed Rabbo Mansour Hadi, Ali Abdullah Saleh, Yemeni Air Force, President_
+_Context: Yemeni Air Force, Ali Abdullah Saleh, Abed Rabbo Mansour Hadi, President_
 
 ## [Previous Day...](/news/2012/04/5/index.md)
 

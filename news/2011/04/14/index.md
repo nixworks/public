@@ -41,11 +41,11 @@ North Korea confirms that it arrested a US citizen last November, and is prepari
 
 ##### Brazil
 ### [Leaders of Brazil, Russia, India, China and South Africa attend a BRICS summit in Sanya in China's Hainan Province. ](/news/2011/04/14/leaders-of-brazil-russia-india-china-and-south-africa-attend-a-brics-summit-in-sanya-in-china-s-hainan-province.md)
-_Context: Brazil, Russia, India, China, and South Africa, Sanya, Hainan Province, South Africa, India, Brazil, Russia, China_
+_Context: India, China, Sanya, Hainan Province, Russia, Brazil, Brazil, Russia, India, China, and South Africa, South Africa_
 
 ##### NATO
 ### [NATO foreign ministers meet in Berlin, Germany, to discuss issues including Libya. ](/news/2011/04/14/nato-foreign-ministers-meet-in-berlin-germany-to-discuss-issues-including-libya.md)
-_Context: NATO, civil war, Berlin, German_
+_Context: Berlin, NATO, civil war, German_
 
 ##### Rejean Hinse
 ### [Rejean Hinse, a Quebec man wrongly convicted of a crime in the 1960s before being acquitted by the Supreme Court of Canada 30 years later receives a record $13.1 million in compensation. ](/news/2011/04/14/ra-c-jean-hinse-a-quebec-man-wrongly-convicted-of-a-crime-in-the-1960s-before-being-acquitted-by-the-supreme-court-of-canada-30-years-later-r.md)
@@ -53,7 +53,7 @@ R&eacute;jean Hinse, a Quebecer who was wrongfully imprisoned in the 1960s befor
 
 ##### Chinese police
 ### [Chinese police hunt for a man believed to have killed ten people in Anshan City. ](/news/2011/04/14/chinese-police-hunt-for-a-man-believed-to-have-killed-ten-people-in-anshan-city.md)
-_Context: Chinese police, Anshan City_
+_Context: Anshan City, Chinese police_
 
 ##### Shas
 ### [Five months after his expulsion from the Shas party, Israeli rabbi Chaim Amsellem forms the Whole Nation party, and announces plans to run for the 19th Knesset on a secular-religious unity platform. ](/news/2011/04/14/five-months-after-his-expulsion-from-the-shas-party-israeli-rabbi-chaim-amsellem-forms-the-whole-nation-party-and-announces-plans-to-run-f.md)

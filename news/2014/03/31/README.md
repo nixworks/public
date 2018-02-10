@@ -25,15 +25,15 @@ The International Court of Justice rules Japan must immediately stop its whaling
 
 ##### Tuvalu
 ### [Tuvalu withdraws its recognition of Abkhazia and South Ossetia after re-establishing diplomatic relations with Georgia. ](/news/2014/03/31/tuvalu-withdraws-its-recognition-of-abkhazia-and-south-ossetia-after-re-establishing-diplomatic-relations-with-georgia.md)
-_Context: Abkhazia,  Georgian, recognition, South Ossetia, Tuvalu_
+_Context: Tuvalu,  Georgian, Abkhazia, South Ossetia, recognition_
 
 ##### Pakistan
 ### [A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. ](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.md)
-_Context: Pervez Musharraf, president, high treason, emergency rule, Pakistan_
+_Context: Pervez Musharraf, Pakistan, emergency rule, president, high treason_
 
 ##### French municipal elections, 2014
 ### [French government and Socialist Party admit major defeat following the The President of France Franois Hollande appoints Manuel Valls, previously Minister of the Interior, as the new Prime Minister. He replaces Jean-Marc Ayrault. ](/news/2014/03/31/french-government-and-socialist-party-admit-major-defeat-following-the-the-president-of-france-francois-hollande-appoints-manuel-valls-prev.md)
-_Context: French President, Manuel Valls, PS, Jean-Marc Ayrault, French municipal elections, 2014, Minister of the Interior, Franois Hollande, Prime Minister_
+_Context: PS, Minister of the Interior, Jean-Marc Ayrault, French President, Prime Minister, French municipal elections, 2014, Manuel Valls, Franois Hollande_
 
 ##### Intergovernmental Panel on Climate Change
 ### [The Intergovernmental Panel on Climate Change releases a new report outlining the impact of climate change on the world at the end of a week of meetings in Yokohama, Japan. ](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.md)

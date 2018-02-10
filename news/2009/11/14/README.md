@@ -13,19 +13,19 @@ Tony Alamo, a US preacher, has been sentenced to 175 years in prison for taking 
 
 ##### Ogaden National Liberation Front
 ### [ The Ogaden National Liberation Front, a separatist Somali rebel group in the southeast of Ethiopia, says it has begun a new offensive. ](/news/2009/11/14/the-ogaden-national-liberation-front-a-separatist-somali-rebel-group-in-the-southeast-of-ethiopia-says-it-has-begun-a-new-offensive.md)
-_Context: Ethiopia, Somalia, Ogaden National Liberation Front_
+_Context: Ethiopia, Ogaden National Liberation Front, Somalia_
 
 ##### Peru
 ### [ A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. ](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.md)
-_Context: spy, Peru, Chile_
+_Context: spy, Chile, Peru_
 
 ##### Saudi Arabia
 ### [ Two Saudi soldiers are killed and five wounded killed in fighting with Houthi rebels in northern Yemen. ](/news/2009/11/14/two-saudi-soldiers-are-killed-and-five-wounded-killed-in-fighting-with-houthi-rebels-in-northern-yemen.md)
-_Context: Shia insurgency in Yemen, Saudi Arabia, Houthi, Yemen_
+_Context: Houthi, Yemen, Saudi Arabia, Shia insurgency in Yemen_
 
 ##### Ultra-orthodox
 ### [ More than 1,000 ultra-Orthodox Jews demonstrate outside the offices of U.S. firm Intel in Israel in protest at work taking place at the site on the Jewish Sabbath. ](/news/2009/11/14/more-than-1-000-ultra-orthodox-jews-demonstrate-outside-the-offices-of-u-s-firm-intel-in-israel-in-protest-at-work-taking-place-at-the-sit.md)
-_Context: United States, Jew, Intel, Sabbath, Israel, ultra-orthodox_
+_Context: United States, ultra-orthodox, Israel, Intel, Jew, Sabbath_
 
 ##### Shooting range
 ### [ A fire at a shooting range in Busan, South Korea, kills 10 people, including two Japanese tourists, and injures six others. ](/news/2009/11/14/a-fire-at-a-shooting-range-in-busan-south-korea-kills-10-people-including-two-japanese-tourists-and-injures-six-others.md)
@@ -41,11 +41,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Jaipur
 ### [ Several people are killed and dozens injured after an express train crashes near Jaipur, India. ](/news/2009/11/14/several-people-are-killed-and-dozens-injured-after-an-express-train-crashes-near-jaipur-india.md)
-_Context: India, Jaipur_
+_Context: Jaipur, India_
 
 ##### United Nations
 ### [ The United Nations chief of the Food and Agriculture Organization completes a 24 hour hunger strike in Rome, Italy, ahead of a UN summit next week. ](/news/2009/11/14/the-united-nations-chief-of-the-food-and-agriculture-organization-completes-a-24-hour-hunger-strike-in-rome-italy-ahead-of-a-un-summit-ne.md)
-_Context: hunger strike, Italy, Food and Agriculture Organization, United Nations, Rome, Italy_
+_Context: Italy, Rome, Italy, Food and Agriculture Organization, United Nations, hunger strike_
 
 ##### Peshawar
 ### [ At least 11 people are killed and 24 injured after a bomb explodes in Peshawar, Pakistan. ](/news/2009/11/14/at-least-11-people-are-killed-and-24-injured-after-a-bomb-explodes-in-peshawar-pakistan.md)

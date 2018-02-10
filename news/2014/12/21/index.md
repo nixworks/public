@@ -17,7 +17,7 @@ South Korea has suspended imports of US poultry and poultry products because of 
 
 ##### Capital punishment in Jordan
 ### [After an eight-year informal moratorium on the death penalty, Jordan executes 11 men. ](/news/2014/12/21/after-an-eight-year-informal-moratorium-on-the-death-penalty-jordan-executes-11-men.md)
-_Context: Jordan, Capital punishment in Jordan, death penalty_
+_Context: Capital punishment in Jordan, death penalty, Jordan_
 
 ##### Pornography
 ### [China has detained more than thirty thousand people within two months for pornography and gambling. ](/news/2014/12/21/china-has-detained-more-than-thirty-thousand-people-within-two-months-for-pornography-and-gambling.md)
@@ -25,7 +25,7 @@ China has detained over 30,000 people during a two-month clamp down on pornograp
 
 ##### Beji Caid Essebsi
 ### [Beji Caid Essebsi of the secularist Nidaa Tounes party wins Tunisia's presidential election. ](/news/2014/12/21/beji-caid-essebsi-of-the-secularist-nidaa-tounes-party-wins-tunisia-s-presidential-election.md)
-_Context: Nidaa Tounes, Beji Caid Essebsi, Tunisia's presidential election_
+_Context: Tunisia's presidential election, Beji Caid Essebsi, Nidaa Tounes_
 
 ## [Previous Day...](/news/2014/12/20/index.md)
 

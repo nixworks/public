@@ -5,15 +5,15 @@ Formats: [HTML](2009/07/3/index.html)  [JSON](2009/07/3/index.json)  [XML](2009/
 
 ##### African Union
 ### [ The African Union stops cooperation with the International Criminal Court because it charged Sudanese President Omar al-Bashir with war crimes. ](/news/2009/07/3/the-african-union-stops-cooperation-with-the-international-criminal-court-because-it-charged-sudanese-president-omar-al-bashir-with-war-cri.md)
-_Context: ICC, war crime, President of Sudan, Sudan, African Union, Omar al-Bashir_
+_Context: President of Sudan, African Union, war crime, ICC, Omar al-Bashir, Sudan_
 
 ##### Mosque
 ### [ Three people die and over a dozen are injured in riots after a dead pig is thrown into an under-construction mosque in Mysore, India. ](/news/2009/07/3/three-people-die-and-over-a-dozen-are-injured-in-riots-after-a-dead-pig-is-thrown-into-an-under-construction-mosque-in-mysore-india.md)
-_Context: India, Mysore, mosque_
+_Context: mosque, Mysore, India_
 
 ##### John Demjanjuk
 ### [ John Demjanjuk is declared fit to stand trial for assisting in the deaths of 29,000 Jews in Treblinka extermination camp. ](/news/2009/07/3/john-demjanjuk-is-declared-fit-to-stand-trial-for-assisting-in-the-deaths-of-29-000-jews-in-treblinka-extermination-camp.md)
-_Context: Jewish, Treblinka extermination camp, John Demjanjuk_
+_Context: John Demjanjuk, Treblinka extermination camp, Jewish_
 
 ##### Algeria
 ### [ Energy ministers of Algeria, Niger and Nigeria sign the intergovernmental agreement on the Trans-Saharan gas pipeline. ](/news/2009/07/3/energy-ministers-of-algeria-niger-and-nigeria-sign-the-intergovernmental-agreement-on-the-trans-saharan-gas-pipeline.md)
@@ -25,11 +25,11 @@ Repair work is under way in Co Mayo to roads and bridges damaged by overnight fl
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon arrives in Burma, meeting junta leader Senior General Than Shwe and calling for the release of political prisoners. ](/news/2009/07/3/united-nations-secretary-general-ban-ki-moon-arrives-in-burma-meeting-junta-leader-senior-general-than-shwe-and-calling-for-the-release-of.md)
-_Context: Than Shwe, State Peace and Development Council, Burma, United Nations Secretary-General, Ban Ki-moon, United Nations_
+_Context: Than Shwe, United Nations, State Peace and Development Council, United Nations Secretary-General, Burma, Ban Ki-moon_
 
 ##### Iran
 ### [ Two Iranian staff working for the British embassy in Tehran will face trial over allegedly inciting protests. ](/news/2009/07/3/two-iranian-staff-working-for-the-british-embassy-in-tehran-will-face-trial-over-allegedly-inciting-protests.md)
-_Context: Iran, United Kingdom, protests against the regime, Tehran, trial_
+_Context: protests against the regime, Tehran, United Kingdom, trial, Iran_
 
 ##### Dinosaur
 ### [ Three dinosaur species&mdash;"Australovenator wintonensis", "Wintonotitan wattsi" and "Diamantinasaurus matildae"&mdash;are discovered in Australia. ](/news/2009/07/3/three-dinosaur-species-mdash-australovenator-wintonensis-wintonotitan-wattsi-and-diamantinasaurus-matildae-mdash-are-discovered-in-a.md)
@@ -37,7 +37,7 @@ Meet Australia&#039;s answer to velociraptor.
 
 ##### Syria
 ### [ Syria invites United States President Barack Obama to the Damascus summit. ](/news/2009/07/3/syria-invites-united-states-president-barack-obama-to-the-damascus-summit.md)
-_Context: Damascus, U.S. President, Syria, United States, Barack Obama_
+_Context: U.S. President, Syria, Damascus, Barack Obama, United States_
 
 ##### Algeria
 ### [ Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. ](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.md)
@@ -45,11 +45,11 @@ Algerian singer Cheb Mami went on trial in France on Thursday over accusations t
 
 ##### Portugal
 ### [ Manuel Pinho, Portugal's Economy Minister, resigns after performing a cuckold gesture at an opposition MP. ](/news/2009/07/3/manuel-pinho-portugal-s-economy-minister-resigns-after-performing-a-cuckold-gesture-at-an-opposition-mp.md)
-_Context: Portugal, MP, cuckold_
+_Context: MP, cuckold, Portugal_
 
 ##### North Korea
 ### [ North Korea broadcasts its first ever beer commercial, for Taedonggang beer. ](/news/2009/07/3/north-korea-broadcasts-its-first-ever-beer-commercial-for-taedonggang-beer.md)
-_Context: Taedonggang, beer, North Korea_
+_Context: North Korea, beer, Taedonggang_
 
 ##### Viareggio
 ### [ Two more people die in Viareggio, Italy, following the train explosion, bringing the death toll to 21. ](/news/2009/07/3/two-more-people-die-in-viareggio-italy-following-the-train-explosion-bringing-the-death-toll-to-21.md)
@@ -57,15 +57,15 @@ The death toll in this week&#39;s rail disaster in Italy rose to 21 after a woma
 
 ##### Killed after a fire
 ### [ Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. ](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.md)
-_Context: killed after a fire, London, Camberwell, England_
+_Context: London, Camberwell, killed after a fire, England_
 
 ##### United States
 ### [ American politician Sarah Palin, current Governor of Alaska and 2008 Vice Presidential candidate, announces her resignation as Governor, effective July 26. ](/news/2009/07/3/american-politician-sarah-palin-current-governor-of-alaska-and-2008-vice-presidential-candidate-announces-her-resignation-as-governor-ef.md)
-_Context: U.S. Vice President, 2008, Sarah Palin, Alaska, Governor, United States_
+_Context: Sarah Palin, U.S. Vice President, Governor, Alaska, United States, 2008_
 
 ##### Irish
 ### [ Two aid workers, including one Irish woman, with the charity GOAL are kidnapped by an armed gang in Sudan's Darfur region. ](/news/2009/07/3/two-aid-workers-including-one-irish-woman-with-the-charity-goal-are-kidnapped-by-an-armed-gang-in-sudan-s-darfur-region.md)
-_Context: Irish, GOAL, Sudan, Darfur_
+_Context: Sudan, GOAL, Irish, Darfur_
 
 ##### Paris
 ### [ Thirteen people are injured after the Paris to Cahors train derails near Limoges, France. ](/news/2009/07/3/thirteen-people-are-injured-after-the-paris-to-cahors-train-derails-near-limoges-france.md)
@@ -73,7 +73,7 @@ Thirteen people have been injured, after a train derailed near the southwestern 
 
 ##### Earthquake
 ### [ A 6.0 magnitude earthquake centred in the Sea of Cortez shakes western Mexico. ](/news/2009/07/3/a-6-0-magnitude-earthquake-centred-in-the-sea-of-cortez-shakes-western-mexico.md)
-_Context: Mexico, earthquake, Sea of Cortez_
+_Context: Sea of Cortez, Mexican, earthquake_
 
 ## [Previous Day...](/news/2009/07/2/index.md)
 

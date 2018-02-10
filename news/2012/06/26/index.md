@@ -9,11 +9,11 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). ](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.md)
-_Context: List of politicians killed in the Mexican Drug War, Mexican Drug War, Institutional Revolutionary Party, Apaxtla, Guerrero_
+_Context: List of politicians killed in the Mexican Drug War, Mexican Drug War, Apaxtla, Guerrero, Institutional Revolutionary Party_
 
 ##### Rohingya
 ### [Thousands of Muslim Rohingya people flee Burma following religious clashes with Buddhists. ](/news/2012/06/26/thousands-of-muslim-rohingya-people-flee-burma-following-religious-clashes-with-buddhists.md)
-_Context: Burma, Rohingya, Buddhist_
+_Context: Burma, Buddhist, Rohingya_
 
 ##### Libya
 ### [A bomb explodes outside the Tunisian consulate in Libya; no casualties are reported. ](/news/2012/06/26/a-bomb-explodes-outside-the-tunisian-consulate-in-libya-no-casualties-are-reported.md)
@@ -49,7 +49,7 @@ Stockton set to become the largest American city ever to declare bankruptcy.
 
 ##### Bhutan
 ### [Bhutan's four-century old Wangdue Phodrang Dzong, a ridge-top monastery, catches fire and is destroyed; however no relics were destroyed since the monastery was undergoing a renovation. ](/news/2012/06/26/bhutan-s-four-century-old-wangdue-phodrang-dzong-a-ridge-top-monastery-catches-fire-and-is-destroyed-however-no-relics-were-destroyed-sin.md)
-_Context: Wangdue Phodrang Dzong, Bhutan, monastery_
+_Context: Bhutan, monastery, Wangdue Phodrang Dzong_
 
 ##### Tropical Storm Debby
 ### [Tropical Storm Debby nears the Gulf Coast of the Florida peninsula as flash floods cut off sections of Interstate 10 and Interstate 75 in the state. ](/news/2012/06/26/tropical-storm-debby-nears-the-gulf-coast-of-the-florida-peninsula-as-flash-floods-cut-off-sections-of-interstate-10-and-interstate-75-in-th.md)

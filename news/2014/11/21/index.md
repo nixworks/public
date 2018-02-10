@@ -21,7 +21,7 @@ An outbreak of plague in Madagascar has killed 40 people and infected dozens of 
 
 ##### United States House of Representatives
 ### [The United States House of Representatives files a lawsuit against President Barack Obama for executive actions undertaken in relation to the implementation of the Affordable Care Act. ](/news/2014/11/21/the-united-states-house-of-representatives-files-a-lawsuit-against-president-barack-obama-for-executive-actions-undertaken-in-relation-to-th.md)
-_Context: Barack Obama, Obamacare, executive actions, U.S. President, United States House of Representatives_
+_Context: United States House of Representatives, executive actions, Barack Obama, U.S. President, Obamacare_
 
 ## [Previous Day...](/news/2014/11/20/index.md)
 

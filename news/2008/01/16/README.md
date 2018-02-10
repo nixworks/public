@@ -13,19 +13,19 @@ _Context: palm, Tahina spectabilis, Madagascar_
 
 ##### United States soldier
 ### [ Three United States Army soldiers are killed and another two wounded by small arms fire in the northern Salahuddin province of Iraq. ](/news/2008/01/16/three-united-states-army-soldiers-are-killed-and-another-two-wounded-by-small-arms-fire-in-the-northern-salahuddin-province-of-iraq.md)
-_Context: Salahuddin province, small arms, Iraq, United States soldier_
+_Context: United States soldier, small arms, Iraq, Salahuddin province_
 
 ##### Two years of helping
 ### [ War in Somalia (2006-present): A huge blast in Mogadishu targeted an Ethiopian army convoy as it drove through a major intersection, killing seven soldiers on board, witnesses reported. ](/news/2008/01/16/war-in-somalia-2006apresent-a-huge-blast-in-mogadishu-targeted-an-ethiopian-army-convoy-as-it-drove-through-a-major-intersection-kill.md)
-_Context: two years of helping, Ethiopian army, Mogadishu_
+_Context: Ethiopian army, two years of helping, Mogadishu_
 
 ##### War in Pakistan (2004-present)
 ### [ War in Pakistan (2004-present); Sararogha Fort raid: Islamic militants overrun and capture a Pakistani military outpost, Sararogha Fort, close to the Afghan border in a battle that kills seven Pakistani soldiers and leaves 20 missing. The Pakistani military claims 50 attackers also died. ](/news/2008/01/16/war-in-pakistan-2004apresent-sararogha-fort-raid-islamic-militants-overrun-and-capture-a-pakistani-military-outpost-sararogha-fort.md)
-_Context: Afghanistan, War in Pakistan (2004-present), military, Islamic militants, Sararogha Fort raid, Pakistan_
+_Context: Afghanistan, military, Pakistan, War in Pakistan (2004-present), Islamic militants, Sararogha Fort raid_
 
 ##### Avigdor Lieberman
 ### [ Avigdor Lieberman, the Israeli Strategic Affairs Minister, resigns from the Cabinet of Prime Minister Ehud Olmert with 10 party colleagues resigning from the government as well. ](/news/2008/01/16/avigdor-lieberman-the-israeli-strategic-affairs-minister-resigns-from-the-cabinet-of-prime-minister-ehud-olmert-with-10-party-colleagues.md)
-_Context: Prime Minister, Israel, forming a government, Avigdor Lieberman, Ehud Olmert_
+_Context: Prime Minister, Ehud Olmert, forming a government, Avigdor Lieberman, Israel_
 
 ##### Israel Defense Forces
 ### [ The Israel Defense Forces are dispatched to evacuate two settlements on the West Bank. ](/news/2008/01/16/the-israel-defense-forces-are-dispatched-to-evacuate-two-settlements-on-the-west-bank.md)
@@ -37,7 +37,7 @@ _Context: bus, Buttala, Sri Lanka, bomb_
 
 ##### Sun Microsystems
 ### [ Sun Microsystems announces the acquisition of MySQL AB, a leading open source relational database management system vendor, for US$1 billion. ](/news/2008/01/16/sun-microsystems-announces-the-acquisition-of-mysql-ab-a-leading-open-source-relational-database-management-system-vendor-for-us-1-billio.md)
-_Context: relational database management system, MySQL AB, open source, Sun Microsystems_
+_Context: relational database management system, Sun Microsystems, open source, MySQL AB_
 
 ## [Previous Day...](/news/2008/01/15/index.md)
 

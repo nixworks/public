@@ -17,7 +17,7 @@ A United Arab Emirates soldier was killed and another was wounded while fighting
 
 ##### Israeli-Palestinian conflict
 ### [Israel claims its forces shot dead five Palestinian attackers in three separate incidents. ](/news/2016/02/14/israel-claims-its-forces-shot-dead-five-palestinian-attackers-in-three-separate-incidents.md)
-_Context: Israel, Palestine, Israeli-Palestinian conflict_
+_Context: Israeli-Palestinian conflict, Palestine, Israel_
 
 ##### 69th British Academy Film Awards
 ### [The 69th British Academy Film Awards are held at the Royal Opera House in London. ](/news/2016/02/14/the-69th-british-academy-film-awards-are-held-at-the-royal-opera-house-in-london.md)
@@ -25,11 +25,11 @@ The British Academy of Film and Television Arts celebrated its biggest night ton
 
 ##### 2016 Christchurch earthquake
 ### [The U.S. Geological Survey reports a magnitude 5.8 earthquake strikes Christchurch in New Zealand. The St. John ambulance service says that several people suffered minor injuries from falls as they ran from the quake but there were no immediate reports of serious damage. ](/news/2016/02/14/the-u-s-geological-survey-reports-a-magnitude-5-8-earthquake-strikes-christchurch-in-new-zealand-the-st-john-ambulance-service-says-that.md)
-_Context: New Zealand, magnitude, earthquake, 2016 Christchurch earthquake, Christchurch, St. John ambulance service, United States Geological Survey_
+_Context: earthquake, Christchurch, United States Geological Survey, New Zealand, St. John ambulance service, magnitude, 2016 Christchurch earthquake_
 
 ##### Northeastern United States
 ### [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md)
-_Context: northeastern United States, Philadelphia, New York City_
+_Context: Philadelphia, New York City, northeastern United States_
 
 ##### British
 ### [All four members of the British indie band Viola Beach and their manager die in a road accident near Stockholm, Sweden. ](/news/2016/02/14/all-four-members-of-the-british-indie-band-viola-beach-and-their-manager-die-in-a-road-accident-near-stockholm-sweden.md)

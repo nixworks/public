@@ -17,7 +17,7 @@ Theresa May responds to claims she clashed with the EU Commission chief over Bre
 
 ##### Last month's presidential election
 ### [Far-right candidate Marine Le Pen is accused of plagiarising a speech by Francois Fillon. ](/news/2017/05/2/far-right-candidate-marine-le-pen-is-accused-of-plagiarising-a-speech-by-franassois-fillon.md)
-_Context: plagiarising, Marine Le Pen, last month's presidential election, Francois Fillon_
+_Context: last month's presidential election, plagiarising, Marine Le Pen, Francois Fillon_
 
 ##### Czech Republic
 ### [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md)

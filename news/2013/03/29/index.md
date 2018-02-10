@@ -5,7 +5,7 @@ Formats: [HTML](2013/03/29/index.html)  [JSON](2013/03/29/index.json)  [XML](201
 
 ##### United States
 ### [A blast near the United States Consulate in Peshawar, Pakistan, kills 10 people and wounds at least 31 others. ](/news/2013/03/29/a-blast-near-the-united-states-consulate-in-peshawar-pakistan-kills-10-people-and-wounds-at-least-31-others.md)
-_Context: Consulate, Peshawar, Pakistan, United States_
+_Context: Pakistan, Consulate, United States, Peshawar_
 
 ##### Shiite
 ### [Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md)
@@ -13,7 +13,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Electronic music
 ### [The electronic music band Kraftwerk is not allowed to perform at a music festival in China due to unspecified "political reasons". ](/news/2013/03/29/the-electronic-music-band-kraftwerk-is-not-allowed-to-perform-at-a-music-festival-in-china-due-to-unspecified-political-reasons.md)
-_Context: electronic music, China, Kraftwerk_
+_Context: China, electronic music, Kraftwerk_
 
 ##### TV show
 ### [After 25 years on the air, the American TV show "America's Most Wanted" is cancelled. ](/news/2013/03/29/after-25-years-on-the-air-the-american-tv-show-america-s-most-wanted-is-cancelled.md)
@@ -29,11 +29,11 @@ At least three people are killed and dozens more trapped after a multi-storey bu
 
 ##### 2013 Gyama Mine landslide
 ### [2013 Gyama Mine landslide: A large landslide buries 83 gold miners in China's Tibetan Autonomous Region near Lhasa. ](/news/2013/03/29/2013-gyama-mine-landslide-a-large-landslide-buries-83-gold-miners-in-china-s-tibetan-autonomous-region-near-lhasa.md)
-_Context: Lhasa, China, landslide, 2013 Gyama Mine landslide, Tibet_
+_Context: Tibet, Lhasa, landslide, China, 2013 Gyama Mine landslide_
 
 ##### Ice floes
 ### [More than 220 people are rescued from two ice floes that broke off of Latvia and were blown into the Gulf of Riga. ](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.md)
-_Context: Gulf of Riga, ice floes, Latvia_
+_Context: Latvia, ice floes, Gulf of Riga_
 
 ##### United States Navy
 ### [A United States Navy SEAL is killed in a training accident. ](/news/2013/03/29/a-united-states-navy-seal-is-killed-in-a-training-accident.md)
@@ -53,7 +53,7 @@ North Korea has revealed its plans to strike targets in Hawaii and the continent
 
 ##### Pakistan
 ### [A Pakistani lawyer throws a shoe at the former President Pervez Musharraf at the Sindh High Court, as Musharraf successfully extends his bail on charges of conspiracy to murder and sacking judges. ](/news/2013/03/29/a-pakistani-lawyer-throws-a-shoe-at-the-former-president-pervez-musharraf-at-the-sindh-high-court-as-musharraf-successfully-extends-his-bai.md)
-_Context: bail, Pervez Musharraf, president, Pakistan, conspiracy to murder, Sindh High Court_
+_Context: Sindh High Court, president, conspiracy to murder, bail, Pakistan, Pervez Musharraf_
 
 ##### Sri Lanka
 ### [Several people are injured in Sri Lanka's largest city Colombo when Buddhist monks lead hundreds of people to attack a Muslim owned clothing warehouse. ](/news/2013/03/29/several-people-are-injured-in-sri-lanka-s-largest-city-colombo-when-buddhist-monks-lead-hundreds-of-people-to-attack-a-muslim-owned-clothing.md)
@@ -77,7 +77,7 @@ Three-man crew earlier rocketed into space and glided to a smooth docking with t
 
 ##### New Jersey Institute of Technology
 ### [Scientists from New Jersey Institute of Technology's Swarm Lab announce that they have created robotic ants that behave very similarly to real ants. ](/news/2013/03/29/scientists-from-new-jersey-institute-of-technologyas-swarm-lab-announce-that-they-have-created-robotic-ants-that-behave-very-similarly-to.md)
-_Context: robot, New Jersey Institute of Technology, ant_
+_Context: New Jersey Institute of Technology, ant, robot_
 
 ## [Previous Day...](/news/2013/03/28/index.md)
 

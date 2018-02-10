@@ -5,11 +5,11 @@ Formats: [HTML](2016/07/29/index.html)  [JSON](2016/07/29/index.json)  [XML](201
 
 ##### Nigerian military
 ### [The Nigerian military commences bombing militants in Lagos and Ogun States with many militants reported dead. ](/news/2016/07/29/the-nigerian-military-commences-bombing-militants-in-lagos-and-ogun-states-with-many-militants-reported-dead.md)
-_Context: Ogun State, Lagos, Nigerian military_
+_Context: Lagos, Nigerian military, Ogun State_
 
 ##### Boko Haram insurgency
 ### [The United Nations suspends aid to dangerous areas of Nigeria's northeastern Borno State following Thursday's attack by Boko Haram (ISIL in Africa) on a humanitarian convoy where two soldiers and three civilians were wounded. However, UNICEF noted, aid will continue to the capital Maiduguri. ](/news/2016/07/29/the-united-nations-suspends-aid-to-dangerous-areas-of-nigeria-s-northeastern-borno-state-following-thursday-s-attack-by-boko-haram-isil-in.md)
-_Context: Boko Haram, Maiduguri, UNICEF, Borno State, United Nations, Nigeria, Boko Haram insurgency_
+_Context: UNICEF, Borno State, Nigeria, Maiduguri, United Nations, Boko Haram insurgency, Boko Haram_
 
 ##### Syrian civil war
 ### [British-based Syrian Observatory for Human Rights reports a Save the Children maternity hospital in Kafr Takharim in rebel-held Idlib Governorate is hit by airstrikes. No report on casualties. SOHR also says at least five people are killed and more than 25 injured from airstrikes in another part of the northern Idlib countryside. ](/news/2016/07/29/british-based-syrian-observatory-for-human-rights-reports-a-save-the-children-maternity-hospital-in-kafr-takharim-in-rebel-held-idlib-govern.md)
@@ -17,7 +17,7 @@ A Syrian maternity hospital in a rebel-held area of Idlib province was extensive
 
 ##### Cabinda War
 ### [The Front for the Liberation of the Enclave of Cabinda (FLEC) says it has killed nine Angolan soldiers and wounded 14 others in recent clashes in the oil-rich Cabinda Province. ](/news/2016/07/29/the-front-for-the-liberation-of-the-enclave-of-cabinda-flec-says-it-has-killed-nine-angolan-soldiers-and-wounded-14-others-in-recent-clash.md)
-_Context: Front for the Liberation of the Enclave of Cabinda, Cabinda Province, Angolan soldiers, Cabinda War_
+_Context: Front for the Liberation of the Enclave of Cabinda, Cabinda Province, Cabinda War, Angolan soldiers_
 
 ##### Bank of Japan
 ### [The Bank of Japan announces a 6 trillion yen stimulus package to help invigorate the Japanese economy. ](/news/2016/07/29/the-bank-of-japan-announces-a-6-trillion-yen-stimulus-package-to-help-invigorate-the-japanese-economy.md)

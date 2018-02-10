@@ -9,11 +9,11 @@ Shrimpers in Louisiana andAlabama have filed class-action lawsuits against oil g
 
 ##### U.S. government
 ### [A U.S. government panel, the U.S. Commission on International Religious Freedom, names Saudi Arabia and China among 13 countries as the most serious violators of religious freedom. ](/news/2010/04/29/a-u-s-government-panel-the-u-s-commission-on-international-religious-freedom-names-saudi-arabia-and-china-among-13-countries-as-the-most.md)
-_Context: China, U.S. government, freedom of worship, U.S. Commission on International Religious Freedom, Saudi Arabia_
+_Context: U.S. Commission on International Religious Freedom, U.S. government, Saudi Arabia, freedom of worship, China_
 
 ##### Migrant workers
 ### [Millions of mostly Asian women who work in countries like Saudi Arabia, Lebanon and the United Arab Emirates remain at risk of human trafficking, forced labor, confinement and sexual violence, the New York-based Human Rights Watch group reports. ](/news/2010/04/29/millions-of-mostly-asian-women-who-work-in-countries-like-saudi-arabia-lebanon-and-the-united-arab-emirates-remain-at-risk-of-human-traffic.md)
-_Context: United Arab Emirates, New York City, Lebanese, confinement, Human Rights Watch, Saudi Arabia, forced labor, human trafficking, sexual violence, migrant workers_
+_Context: United Arab Emirates, forced labor, Human Rights Watch, New York City, migrant workers, Lebanese, human trafficking, confinement, Saudi Arabia, sexual violence_
 
 ##### India
 ### [India and Pakistan agree to reopen discussion on "all issues of mutual concern." ](/news/2010/04/29/india-and-pakistan-agree-to-reopen-discussion-on-all-issues-of-mutual-concern.md)

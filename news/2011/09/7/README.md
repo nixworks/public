@@ -25,11 +25,11 @@ _Context: Saab Automobile, bankruptcy, Swede_
 
 ##### Yak Service
 ### [A Yak Service Yak-42 carrying the KHL hockey team Lokomotiv Yaroslavl crashes near Yaroslavl, Russia, killing 44. ](/news/2011/09/7/a-yak-service-yak-42-carrying-the-khl-hockey-team-lokomotiv-yaroslavl-crashes-near-yaroslavl-russia-killing-44.md)
-_Context: Yak Service, crashes, Yaroslavl, Lokomotiv Yaroslavl, KHL, Yak-42_
+_Context: Yaroslavl, KHL, Yak Service, crashes, Yak-42, Lokomotiv Yaroslavl_
 
 ##### Tropical Storm Nate
 ### [Tropical Storm Nate is set to arrive at the Atlantic coast of Mexico tonight or tomorrow morning. ](/news/2011/09/7/tropical-storm-nate-is-set-to-arrive-at-the-atlantic-coast-of-mexico-tonight-or-tomorrow-morning.md)
-_Context: Tropical Storm Nate, Mexico, Atlantic Ocean_
+_Context: Mexican, Atlantic Ocean, Tropical Storm Nate_
 
 ##### Broome County
 ### [Ten thousand people are ordered to evacuate in Broome County in the US state of New York due to flooding of the Chenango River and the Susquehanna River. ](/news/2011/09/7/ten-thousand-people-are-ordered-to-evacuate-in-broome-county-in-the-us-state-of-new-york-due-to-flooding-of-the-chenango-river-and-the-susqu.md)
@@ -37,7 +37,7 @@ Dozens of districts closed schools early due to flooding, power outages and conc
 
 ##### Prime Minister
 ### [The Prime Minister of India Manmohan Singh and the Prime Minister of Bangladesh Sheikh Hasina sign an accord ending four decades of disputes over the borders of India and Bangladesh. ](/news/2011/09/7/the-prime-minister-of-india-manmohan-singh-and-the-prime-minister-of-bangladesh-sheikh-hasina-sign-an-accord-ending-four-decades-of-disputes.md)
-_Context: Sheikh Hasina, Prime Minister, Prime Minister, borders, Bangladesh, India, Manmohan Singh_
+_Context: Prime Minister, borders, Manmohan Singh, Sheikh Hasina, Prime Minister, India, Bangladesh_
 
 ##### First Minister
 ### [Scottish First Minister Alex Salmond unveils a legislative programme for the coming year which includes plans to create a single police force and a single fire service for Scotland. ](/news/2011/09/7/scottish-first-minister-alex-salmond-unveils-a-legislative-programme-for-the-coming-year-which-includes-plans-to-create-a-single-police-forc.md)
@@ -45,7 +45,7 @@ Legislation to create a single police force and single fire service in Scotland 
 
 ##### Republican
 ### [Republican Party candidates in the 2012 US presidential election hold a debate in California's Simi Valley. ](/news/2011/09/7/republican-party-candidates-in-the-2012-us-presidential-election-hold-a-debate-in-california-s-simi-valley.md)
-_Context: Simi Valley, United States presidential election, 2012, California, Republican_
+_Context: Republican, United States presidential election, 2012, California, Simi Valley_
 
 ## [Previous Day...](/news/2011/09/6/index.md)
 

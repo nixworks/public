@@ -17,7 +17,7 @@ _Context: Kurdistan Workers' Party, Kurdish-Turkish conflict (2015-present)_
 
 ##### Allied Democratic Forces insurgency
 ### [Assailants from the Allied Democratic Forces (ADF) armed with machetes hacked at least 16 civilians to death in the Eastern Democratic Republic of the Congo. ](/news/2016/05/4/assailants-from-the-allied-democratic-forces-adf-armed-with-machetes-hacked-at-least-16-civilians-to-death-in-the-eastern-democratic-repub.md)
-_Context: DR Congo, Allied Democratic Forces insurgency, Allied Democratic Forces_
+_Context: DR Congo, Allied Democratic Forces, Allied Democratic Forces insurgency_
 
 ##### Israeli-Palestinian conflict
 ### [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md)
@@ -45,19 +45,19 @@ BRUSSELS (AP) — The European Union pressed ahead Wednesday with efforts to per
 
 ##### North Carolina Public Facilities Privacy & Security Act
 ### [The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. ](/news/2016/05/4/the-u-s-justice-department-notifies-north-carolina-governor-pat-mccrory-that-the-state-s-new-law-which-limits-restroom-access-for-transgend.md)
-_Context: North Carolina Public Facilities Privacy & Security Act, Pat McCrory, Title VII, Governor, 1964 Civil Rights Act, Department of Justice, restroom access for transgender people_
+_Context: North Carolina Public Facilities Privacy & Security Act, 1964 Civil Rights Act, Pat McCrory, restroom access for transgender people, Department of Justice, Governor, Title VII_
 
 ##### Nepalese Maoist Party
 ### [The Nepalese Maoist Party says that they will withdraw support from Prime Minister Khadga Prasad Sharma Oli and form a new government. ](/news/2016/05/4/the-nepalese-maoist-party-says-that-they-will-withdraw-support-from-prime-minister-khadga-prasad-sharma-oli-and-form-a-new-government.md)
-_Context: Nepalese Maoist Party, Prime Minister, Khadga Prasad Sharma Oli, the Nepalese government_
+_Context: Prime Minister, the Nepalese government, Khadga Prasad Sharma Oli, Nepalese Maoist Party_
 
 ##### 2016 U.S. presidential election
 ### [Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. ](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-he-was-the-last-republican-party-challenger-to-donald-trump-for-the-gop-presidential-nomina.md)
-_Context: John Kasich, Republican, Donald Trump, his campaign, Governor, 2016 U.S. presidential election_
+_Context: Republican, his campaign, John Kasich, Donald Trump, Governor, 2016 U.S. presidential election_
 
 ##### IBM
 ### [IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. ](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-quantum-computer-its-researchers-have-developed-in-yorktown-heights-new-york.md)
-_Context: Yorktown Heights, New York, quantum computer, IBM, qubit_
+_Context: IBM, quantum computer, Yorktown Heights, New York, qubit_
 
 ## [Previous Day...](/news/2016/05/3/index.md)
 

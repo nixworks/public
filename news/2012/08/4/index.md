@@ -21,7 +21,7 @@ _Context: Iran, Fateh-110 missile_
 
 ##### North Korea
 ### [North Korea raises the death toll from recent floods to 169, with 400 missing. ](/news/2012/08/4/north-korea-raises-the-death-toll-from-recent-floods-to-169-with-400-missing.md)
-_Context: North Korea, recent floods_
+_Context: recent floods, North Korea_
 
 ##### India
 ### [Heavy rains in the Indian state of Uttarakhand causes the loss of at least six lives in floods and landslides. ](/news/2012/08/4/heavy-rains-in-the-indian-state-of-uttarakhand-causes-the-loss-of-at-least-six-lives-in-floods-and-landslides.md)
@@ -29,7 +29,7 @@ Three jawans of fire services were among six persons killed as torrential rains 
 
 ##### Islam
 ### [Jailed Islamist cleric Abu Bakar Bashir threatens to wage war in Burma following alleged abuses by Buddhists against the country's Rohingya people by the Tatmadaw, in a letter to Burmese president Thein Sein. ](/news/2012/08/4/jailed-islamist-cleric-abu-bakar-bashir-threatens-to-wage-war-in-burma-following-alleged-abuses-by-buddhists-against-the-country-s-rohingya.md)
-_Context: Burma, security forces, Islam, Thein Sein, Rohingya, Abu Bakar Bashir_
+_Context: Burma, security forces, Thein Sein, Abu Bakar Bashir, Islam, Rohingya_
 
 ##### Sudan
 ### [Sudan confirms an oil agreement with neighbouring South Sudan. ](/news/2012/08/4/sudan-confirms-an-oil-agreement-with-neighbouring-south-sudan.md)

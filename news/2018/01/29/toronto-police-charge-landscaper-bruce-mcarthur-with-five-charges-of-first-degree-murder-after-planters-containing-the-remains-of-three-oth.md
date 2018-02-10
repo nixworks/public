@@ -21,5 +21,6 @@ Toronto landscaper Bruce McArthur now faces three additional counts of first-deg
 
 ### Related:
 
-1. [Canadian singer Justin Bieber surrenders to Toronto Police to face assault charges. ](/news/2014/01/29/canadian-singer-justin-bieber-surrenders-to-toronto-police-to-face-assault-charges.md) _Context: Toronto Police_
-2. [ A large area of Toronto, Canada, is evacuated after a Pipe bomb was found in a truck, but the bomb is neutralized by the Toronto bomb squad. ](/news/2009/09/14/a-large-area-of-toronto-canada-is-evacuated-after-a-pipe-bomb-was-found-in-a-truck-but-the-bomb-is-neutralized-by-the-toronto-bomb-squad.md) _Context: Toronto Police_
+1. [The remains of six people found on a property in East York are linked to alleged serial killer Bruce McArthur. This brings the total body count to eleven. ](/news/2018/02/8/the-remains-of-six-people-found-on-a-property-in-east-york-are-linked-to-alleged-serial-killer-bruce-mcarthur-this-brings-the-total-body-co.md) _Context: Crime in Toronto_
+2. [Canadian singer Justin Bieber surrenders to Toronto Police to face assault charges. ](/news/2014/01/29/canadian-singer-justin-bieber-surrenders-to-toronto-police-to-face-assault-charges.md) _Context: Toronto Police_
+3. [ A large area of Toronto, Canada, is evacuated after a Pipe bomb was found in a truck, but the bomb is neutralized by the Toronto bomb squad. ](/news/2009/09/14/a-large-area-of-toronto-canada-is-evacuated-after-a-pipe-bomb-was-found-in-a-truck-but-the-bomb-is-neutralized-by-the-toronto-bomb-squad.md) _Context: Toronto Police_

@@ -5,7 +5,7 @@ Formats: [HTML](2005/06/29/index.html)  [JSON](2005/06/29/index.json)  [XML](200
 
 ##### Serbia
 ### [ In Serbia, Belgrade court convicts 10 officials from the government of Slobodan Milosevic for an assassination attempt against then-opposition leader Vuk Draskovic. they include special police commander Milorad Ulemek and chief of state security Radomir Markovic ](/news/2005/06/29/in-serbia-belgrade-court-convicts-10-officials-from-the-government-of-slobodan-miloa-evia-for-an-assassination-attempt-against-then-oppos.md)
-_Context: Milorad Ulemek, assassination, Slobodan Milosevic, Radomir Markovic, Vuk Draskovic, Belgrade, Serbia_
+_Context: Slobodan Milosevic, Milorad Ulemek, Vuk Draskovic, Serbia, assassination, Belgrade, Radomir Markovic_
 
 ##### Ethiopia
 ### [ In Ethiopia, government promises to rerun some elections in constituencies where there have been allegations of election fraud ](/news/2005/06/29/in-ethiopia-government-promises-to-rerun-some-elections-in-constituencies-where-there-have-been-allegations-of-election-fraud.md)
@@ -17,15 +17,15 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 
 ##### International Federation for Human Rights
 ### [ International Federation for Human Rights demands that International Criminal Court investigate human rights abuses of Colombian paramilitary group Self-Defense Forces of Colombia (AUC) ](/news/2005/06/29/international-federation-for-human-rights-demands-that-international-criminal-court-investigate-human-rights-abuses-of-colombian-paramilita.md)
-_Context: Self-Defense Forces of Colombia, human rights, International Federation for Human Rights, ICC, Colombia_
+_Context: ICC, human rights, Self-Defense Forces of Colombia, International Federation for Human Rights, Colombia_
 
 ##### Liberia
 ### [ In Liberia, Gyude Bryant, president of transitional government, states that he is going to use death penalty against those who commit gboyo human sacrifice, especially presidential candidates trying to boost their chances ](/news/2005/06/29/in-liberia-gyude-bryant-president-of-transitional-government-states-that-he-is-going-to-use-death-penalty-against-those-who-commit-gboyo.md)
-_Context: Liberia, Gyude Bryant, sentenced to death, gboyo, human sacrifice_
+_Context: sentenced to death, Gyude Bryant, human sacrifice, gboyo, Liberia_
 
 ##### Sudoku
 ### [ Giant sudoku puzzle appears near Bristol, England ](/news/2005/06/29/giant-sudoku-puzzle-appears-near-bristol-england.md)
-_Context: England, sudoku, Bristol_
+_Context: Bristol, sudoku, England_
 
 ## [Previous Day...](/news/2005/06/28/index.md)
 

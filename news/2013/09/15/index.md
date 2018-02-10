@@ -9,7 +9,7 @@ A wave of car bombs and shootings across Iraq killed at least 36 people on Sunda
 
 ##### Saboteurs
 ### [Saboteurs blow up an export oil pipeline in Yemen. ](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.md)
-_Context: Yemen, Saboteurs, oil pipeline_
+_Context: Saboteurs, oil pipeline, Yemen_
 
 ##### Afghanistan
 ### [At least 27 miners die in an Afghanistan coal mine collapse. ](/news/2013/09/15/at-least-27-miners-die-in-an-afghanistan-coal-mine-collapse.md)
@@ -21,7 +21,7 @@ The move leaves Japan nuclear power-free for second time since 2011 Fukushima cr
 
 ##### Colombia
 ### [Six people die in a stampede in a bar following a police raid in the Colombian capital Bogota. ](/news/2013/09/15/six-people-die-in-a-stampede-in-a-bar-following-a-police-raid-in-the-colombian-capital-bogota.md)
-_Context: Bogota, Colombia_
+_Context: Colombia, Bogota_
 
 ##### Mount Sinabung
 ### [Nearly 6,000 people flee after Mount Sinabung explodes in Indonesia's North Sumatra province. ](/news/2013/09/15/nearly-6-000-people-flee-after-mount-sinabung-explodes-in-indonesia-s-north-sumatra-province.md)

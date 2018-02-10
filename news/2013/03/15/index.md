@@ -13,7 +13,7 @@ Another two fatalities have increased the death toll in a bus accident on the He
 
 ##### Fort Lauderdale, Florida
 ### [Three people die after a twin-engine plane crashes into a parking lot in Fort Lauderdale, Florida, United States. ](/news/2013/03/15/three-people-die-after-a-twin-engine-plane-crashes-into-a-parking-lot-in-fort-lauderdale-florida-united-states.md)
-_Context: the state, Fort Lauderdale, Florida_
+_Context: Fort Lauderdale, Florida, the state_
 
 ##### Fireworks
 ### [At least 16 people are killed in a fireworks accident in Jesus Tepactepec, Tlaxcala, Mexico. ](/news/2013/03/15/at-least-16-people-are-killed-in-a-fireworks-accident-in-jesus-tepactepec-tlaxcala-mexico.md)
@@ -25,7 +25,7 @@ _Context: drive-by shooting, March 11_
 
 ##### Italian Parliament
 ### [The Italian Parliament meets in Rome with the composition of the government still unclear three weeks after an inconclusive general election. ](/news/2013/03/15/the-italian-parliament-meets-in-rome-with-the-composition-of-the-government-still-unclear-three-weeks-after-an-inconclusive-general-election.md)
-_Context: 2013 Italian parliamentary election, Italian Parliament_
+_Context: Italian Parliament, 2013 Italian parliamentary election_
 
 ##### David Cameron
 ### [David Cameron and Nick Clegg, the leaders of the two parties which make up the UK coalition government, publish separate plans for press regulation in England and Wales. ](/news/2013/03/15/david-cameron-and-nick-clegg-the-leaders-of-the-two-parties-which-make-up-the-uk-coalition-government-publish-separate-plans-for-press-reg.md)

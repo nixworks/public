@@ -13,11 +13,11 @@ The attack comes ahead of the June 22 polling for by-election to Anantnag Assemb
 
 ##### Eastern Flight 980
 ### [The flight recorder casings and potential flight recorder of Eastern Flight 980, which crashed in 1985 on Mount Illimani, Bolivia, are recovered by hikers from Boston. ](/news/2016/06/4/the-flight-recorder-casings-and-potential-flight-recorder-of-eastern-flight-980-which-crashed-in-1985-on-mount-illimani-bolivia-are-recov.md)
-_Context: Mount Illimani, Eastern Flight 980_
+_Context: Eastern Flight 980, Mount Illimani_
 
 ##### Thailand
 ### [Thai authorities remove all 137 tigers from the Tiger Temple in Kanchanaburi Province. The remains of 30 more tiger cubs, in addition to the 40 carcasses found earlier, were discovered Thursday. Five men have been charged with possession of endangered animal parts without permission. ](/news/2016/06/4/thai-authorities-remove-all-137-tigers-from-the-tiger-temple-in-kanchanaburi-province-the-remains-of-30-more-tiger-cubs-in-addition-to-the.md)
-_Context: Thailand, endangered animal parts, Kanchanaburi Province, Tiger Temple_
+_Context: Kanchanaburi Province, endangered animal parts, Tiger Temple, Thailand_
 
 ##### Nigeria
 ### [Nigeria's information and culture minister says the government has recovered $9.1 billion in money and assets stolen from the oil sector. ](/news/2016/06/4/nigeriaas-information-and-culture-minister-says-the-government-has-recovered-9-1-billion-in-money-and-assets-stolen-from-the-oil-sector.md)

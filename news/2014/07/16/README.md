@@ -29,7 +29,7 @@ Go to NBCNews.com for breaking news, videos, and the latest top stories in world
 
 ##### The European Parliament
 ### [The European Parliament approves four new European commissioners: Jyrki Katainen as Commissioner for Economic and Monetary Affairs and the Euro, Ferdinando Nelli Feroci as Commissioner for Industry and Entrepreneurship, Martine Reicherts as Commissioner for Justice, Fundamental Rights and Citizenship, and Jacek Dominik as Commissioner for Financial Programming and Budget. ](/news/2014/07/16/the-european-parliament-approves-four-new-european-commissioners-jyrki-katainen-as-commissioner-for-economic-and-monetary-affairs-and-the-e.md)
-_Context: Ferdinando Nelli Feroci, Commissioner for Industry and Entrepreneurship, Commissioner for Economic and Monetary Affairs and the Euro, Martine Reicherts, Commissioner for Financial Programming and Budget, The European Parliament, Jacek Dominik, Commissioner for Justice, Fundamental Rights and Citizenship, Jyrki Katainen_
+_Context: The European Parliament, Commissioner for Industry and Entrepreneurship, Commissioner for Economic and Monetary Affairs and the Euro, Jyrki Katainen, Commissioner for Justice, Fundamental Rights and Citizenship, Ferdinando Nelli Feroci, Commissioner for Financial Programming and Budget, Jacek Dominik, Martine Reicherts_
 
 ##### Bashar Assad's
 ### [Bashar Assad is sworn in to serve his third term as President of Syria. ](/news/2014/07/16/bashar-assad-is-sworn-in-to-serve-his-third-term-as-president-of-syria.md)

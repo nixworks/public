@@ -29,7 +29,7 @@ Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu
 
 ##### Rocket launcher
 ### [4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. ](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.md)
-_Context: rocket launcher, Cambodia, Pursat Province_
+_Context: Cambodia, Pursat Province, rocket launcher_
 
 ##### Russia
 ### [Two Russian pilots are abducted in Sudan's western Darfur region. ](/news/2010/08/30/two-russian-pilots-are-abducted-in-sudan-s-western-darfur-region.md)
@@ -103,7 +103,7 @@ Expanded assets freeze list is part of a punishment over the sinking of the Sout
 ### [More than 100 Russian far-right skinheads attack a music festival in central Russia, injuring at least 10 people and leaving one 14-year-old girl dead. ](/news/2010/08/30/more-than-100-russian-far-right-skinheads-attack-a-music-festival-in-central-russia-injuring-at-least-10-people-and-leaving-one-14-year-old.md)
 More than 100 Russian skinheads have attacked a music festival in central Russia, reports say, injuring at least 10 people.
 
-##### Mexico
+##### Mexican
 ### [3,200 police officers have been fired so far this year by Mexico's federal police force due to extracurricular activities. ](/news/2010/08/30/3-200-police-officers-have-been-fired-so-far-this-year-by-mexico-s-federal-police-force-due-to-extracurricular-activities.md)
 The federal police force in Mexico dismisses 3,200 officers for incompetence, corruption or links to organised crime.
 
@@ -119,7 +119,7 @@ _Context: Indonesia, Northern Territory, centres_
 ### [South African rugby union player Bees Roux of the Bulls is charged with murdering a police officer in Pretoria. ](/news/2010/08/30/south-african-rugby-union-player-bees-roux-of-the-bulls-is-charged-with-murdering-a-police-officer-in-pretoria.md)
 South African rugby union player Bees Roux was charged with murder on Monday after allegedly beating a policeman to death in Pretoria.
 
-##### Mexico
+##### Mexican
 ### [Mexico captures alleged Mexican-American drug trafficker Edgar Valdez Villarreal in the state of Morelos near Mexico City. ](/news/2010/08/30/mexico-captures-alleged-mexican-american-drug-trafficker-edgar-valdez-villarreal-in-the-state-of-morelos-near-mexico-city.md)
 Mexico has captured major drug trafficker Edgar La Barbie Valdez in a second big coup for president Felipe Calderon in his battle against murderous trafficking cartels.
 

@@ -25,11 +25,11 @@ Hundreds of thousands of Senegalese are expected at ceremonies to mourn the lead
 
 ##### Ottawa
 ### [People take to the streets in Ottawa to celebrate Canada's 143rd birthday. ](/news/2010/07/1/people-take-to-the-streets-in-ottawa-to-celebrate-canada-s-143rd-birthday.md)
-_Context: Canada Day, Ottawa_
+_Context: Ottawa, Canada Day_
 
 ##### China
 ### [China's Xinhua launches a global 24-hour English TV news channel. ](/news/2010/07/1/china-s-xinhua-launches-a-global-24-hour-english-tv-news-channel.md)
-_Context: 24-hour English TV news channel, Xinhua, China, China_
+_Context: 24-hour English TV news channel, China, China, Xinhua_
 
 ##### Hurricane Alex
 ### [Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. ](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.md)
@@ -53,7 +53,7 @@ _Context: House Appropriations Committee, Nita Lowey_
 
 ##### Drug
 ### [More than 300 kilograms of drugs - opium, morphine, ice (methamphetamine hydrochloride), ketamine and dancing outreach - are incinerated in the suburbs of Lhasa, Tibet. ](/news/2010/07/1/more-than-300-kilograms-of-drugs-opium-morphine-ice-methamphetamine-hydrochloride-ketamine-and-dancing-outreach-are-incinerated-in.md)
-_Context: drug, methamphetamine hydrochloride, opium, dancing outreach, Tibet, ketamine, morphine, Lhasa_
+_Context: Tibet, dancing outreach, methamphetamine hydrochloride, opium, drug, Lhasa, morphine, ketamine_
 
 ##### Hong Kong
 ### [An estimated 52,000 people took part in anti-government protests in the former British colony of Hong Kong. ](/news/2010/07/1/an-estimated-52-000-people-took-part-in-anti-government-protests-in-the-former-british-colony-of-hong-kong.md)
@@ -67,7 +67,7 @@ _Context: United Kingdom_
 
 ##### Pierre Nkurunziza
 ### [Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. ](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.md)
-_Context: Pierre Nkurunziza, Burundi, President, presidential election_
+_Context: Burundi, Pierre Nkurunziza, presidential election, President_
 
 ##### Parliament of Finland
 ### [The Parliament of Finland approves the construction of two nuclear power stations. ](/news/2010/07/1/the-parliament-of-finland-approves-the-construction-of-two-nuclear-power-stations.md)

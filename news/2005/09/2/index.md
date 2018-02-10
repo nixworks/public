@@ -13,7 +13,7 @@ _Context: Beslan children killed a year ago, Vladimir Putin, United Russia, terr
 
 ##### NASA
 ### [ The NASA Mars Exploration Rover Mission robotic Spirit rover sends back a partial panoramic view from the top of "Husband Hill" at Gusev Crater on Mars. ](/news/2005/09/2/the-nasa-mars-exploration-rover-mission-robotic-spirit-rover-sends-back-a-partial-panoramic-view-from-the-top-of-husband-hill-at-gusev-cr.md)
-_Context: Mars Exploration Rover Mission, ''Spirit'' rover, Husband Hill, Mars, NASA, Gusev crater_
+_Context: Mars, Mars Exploration Rover Mission, Gusev crater, ''Spirit'' rover, NASA, Husband Hill_
 
 ## [Previous Day...](/news/2005/09/1/index.md)
 

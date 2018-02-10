@@ -17,7 +17,7 @@ Former first lady Nancy Reagan has died, according to a spokeswoman with the Rea
 
 ##### Coal miners
 ### [Twelve coal miners are killed following a gas leak in a mine near the Chinese city of Baishan in Jilin province. ](/news/2016/03/6/twelve-coal-miners-are-killed-following-a-gas-leak-in-a-mine-near-the-chinese-city-of-baishan-in-jilin-province.md)
-_Context: Jilin province, coal miners, Baishan_
+_Context: Jilin province, Baishan, coal miners_
 
 ##### European migrant crisis
 ### [At least 25 migrants, including 10 children, drown after their wooden boat capsizes in the Aegean Sea near the seaside town of Didim, Turkey. The Turkish Coast Guard was able to rescue 15 people. ](/news/2016/03/6/at-least-25-migrants-including-10-children-drown-after-their-wooden-boat-capsizes-in-the-aegean-sea-near-the-seaside-town-of-didim-turkey.md)
@@ -33,7 +33,7 @@ Billionaire Iranian businessman Babak Zanjani, accused by the West of sanctions-
 
 ##### Egyptian interior minister
 ### [Egyptian interior minister Magdy Abdel-Ghaffar accuses Hamas and the Egyptian Muslim Brotherhood in the June 2015 assassination of Attorney General Hisham Barakat. ](/news/2016/03/6/egyptian-interior-minister-magdy-abdel-ghaffar-accuses-hamas-and-the-egyptian-muslim-brotherhood-in-the-june-2015-assassination-of-attorney.md)
-_Context: Hisham Barakat, Hamas, Egyptian Muslim Brotherhood, Egyptian interior minister_
+_Context: Hamas, Egyptian interior minister, Hisham Barakat, Egyptian Muslim Brotherhood_
 
 ##### Beninese presidential election, 2016
 ### [Voters in Benin go to the polls for the first round of voting in a presidential election with 33 candidates vying to replace current President Thomas Yayi Boni. ](/news/2016/03/6/voters-in-benin-go-to-the-polls-for-the-first-round-of-voting-in-a-presidential-election-with-33-candidates-vying-to-replace-current-preside.md)

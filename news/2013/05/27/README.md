@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/27/index.html)  [JSON](2013/05/27/index.json)  [XML](201
 
 ##### Philippines police
 ### [Seven Philippine police officers are killed by a New People's Army land mine in the municipality of Allacapan, Cagayan. ](/news/2013/05/27/seven-philippine-police-officers-are-killed-by-a-new-people-s-army-land-mine-in-the-municipality-of-allacapan-cagayan.md)
-_Context: Philippines police, land mine, New People's Army, Allacapan, Cagayan_
+_Context: Philippines police, land mine, Allacapan, Cagayan, New People's Army_
 
 ##### Shi'ite
 ### [At least 75 people are killed and over 200 injured in a wave of bombings in Shi'ite neighbourhoods across Baghdad as sectarian violence in Iraq continues to increase. ](/news/2013/05/27/at-least-75-people-are-killed-and-over-200-injured-in-a-wave-of-bombings-in-shi-ite-neighbourhoods-across-baghdad-as-sectarian-violence-in-i.md)
@@ -21,7 +21,7 @@ _Context: flag, Romania, Guinness World Records_
 
 ##### Valeant Pharmaceuticals
 ### [Canadian drugmaker Valeant Pharmaceuticals announces it will purchase Bausch & Lomb for US$8.7 billion. ](/news/2013/05/27/canadian-drugmaker-valeant-pharmaceuticals-announces-it-will-purchase-bausch-lomb-for-us-8-7-billion.md)
-_Context: US$, Bausch & Lomb, Valeant Pharmaceuticals_
+_Context: Bausch & Lomb, US$, Valeant Pharmaceuticals_
 
 ##### Liberty Reserve
 ### [Digital currency Liberty Reserve is shut down and its founder arrested on money laundering charges in Costa Rica. ](/news/2013/05/27/digital-currency-liberty-reserve-is-shut-down-and-its-founder-arrested-on-money-laundering-charges-in-costa-rica.md)

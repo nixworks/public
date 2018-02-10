@@ -9,15 +9,15 @@ Syrian president has set up committees to look into deaths of protesters and rep
 
 ##### Laurent Gbagbo
 ### [Disputed President Laurent Gbagbo's army chief Phillippe Mangou seeks refuge in the South African ambassador's home in Abidjan. ](/news/2011/03/31/disputed-president-laurent-gbagbo-s-army-chief-phillippe-mangou-seeks-refuge-in-the-south-african-ambassador-s-home-in-abidjan.md)
-_Context: Laurent Gbagbo, South Africa, Abidjan, Phillippe Mangou_
+_Context: Laurent Gbagbo, Abidjan, Phillippe Mangou, South Africa_
 
 ##### James Franco
 ### ["'James Franco"' appears on the "Late Show with David Letterman", speaking publicly for the first time about his hosting performance on the 83rd Academy Awards. ](/news/2011/03/31/james-franco-appears-on-the-late-show-with-david-letterman-speaking-publicly-for-the-first-time-about-his-hosting-performance-on-the.md)
-_Context: 83rd Academy Awards, James Franco, Late Show with David Letterman_
+_Context: Late Show with David Letterman, James Franco, 83rd Academy Awards_
 
 ##### Google
 ### [Google agrees with the U.S. Federal Trade Commission to have an independent privacy audit every couple of years as a result of problems with the Google Buzz social network. ](/news/2011/03/31/google-agrees-with-the-u-s-federal-trade-commission-to-have-an-independent-privacy-audit-every-couple-of-years-as-a-result-of-problems-with.md)
-_Context: social network, Google Buzz, Google, U.S. Federal Trade Commission_
+_Context: Google, social network, Google Buzz, U.S. Federal Trade Commission_
 
 ##### U.S.
 ### [The U.S. Secretary of the Treasury, Timothy Geithner, says at a meeting in Nanjing, China that the "most important problem" in the world's monetary system is that some countries refuse to allow the free flow of the value of their currency. ](/news/2011/03/31/the-u-s-secretary-of-the-treasury-timothy-geithner-says-at-a-meeting-in-nanjing-china-that-the-most-important-problem-in-the-world-s-m.md)
@@ -25,7 +25,7 @@ _Context: social network, Google Buzz, Google, U.S. Federal Trade Commission_
 
 ##### Hanoi
 ### [Nine people are killed after a train crashes into a minibus in Hanoi, Vietnam. ](/news/2011/03/31/nine-people-are-killed-after-a-train-crashes-into-a-minibus-in-hanoi-vietnam.md)
-_Context: Hanoi, Vietnam_
+_Context: Vietnam, Hanoi_
 
 ##### Flood
 ### [The death toll from flooding in Southern Thailand rises to thirteen. ](/news/2011/03/31/the-death-toll-from-flooding-in-southern-thailand-rises-to-thirteen.md)
@@ -45,11 +45,11 @@ _Context: Indonesia, ASEAN_
 
 ##### Muammar Gaddafi
 ### [The Gaddafi government in Libya asks former Nicaraguan foreign minister Miguel d'Escoto Brockmann to represent it in the United Nations. ](/news/2011/03/31/the-gaddafi-government-in-libya-asks-former-nicaraguan-foreign-minister-miguel-d-escoto-brockmann-to-represent-it-in-the-united-nations.md)
-_Context: Muammar Gaddafi, United Nations, Miguel d'Escoto Brockmann, Libya, Nicaragua_
+_Context: United Nations, Miguel d'Escoto Brockmann, Libya, Muammar Gaddafi, Nicaragua_
 
 ##### Afghanistan
 ### [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md)
-_Context: Indonesia, Australia, Afghanistan_
+_Context: Australia, Indonesia, Afghanistan_
 
 ##### Philippine
 ### [Philippine authorities are to seek long jail terms for six Chinese poachers as part of a crackdown on foreigners stealing marine wildlife. ](/news/2011/03/31/philippine-authorities-are-to-seek-long-jail-terms-for-six-chinese-poachers-as-part-of-a-crackdown-on-foreigners-stealing-marine-wildlife.md)
@@ -61,7 +61,7 @@ AN AGREED all-party motion of censure against former minister Michael Lowry will
 
 ##### Baidu
 ### [Baidu deletes 2.8 million works from Baidu Wenku as part of a copyright dispute. ](/news/2011/03/31/baidu-deletes-2-8-million-works-from-baidu-wenku-as-part-of-a-copyright-dispute.md)
-_Context: Baidu, Baidu Wenku_
+_Context: Baidu Wenku, Baidu_
 
 ##### Austrian police
 ### [Austrian police arrest a man suspected of robbing banks while wearing a Barack Obama mask in Fornach. ](/news/2011/03/31/austrian-police-arrest-a-man-suspected-of-robbing-banks-while-wearing-a-barack-obama-mask-in-fornach.md)
@@ -69,7 +69,7 @@ Austria police have arrested a man suspected of robbing banks while wearing a ma
 
 ##### Lynch mob
 ### [A lynch mob in the Guatemalan village of La Democracia kills three men for allegedly stealing a truck full of coffee. ](/news/2011/03/31/a-lynch-mob-in-the-guatemalan-village-of-la-democracia-kills-three-men-for-allegedly-stealing-a-truck-full-of-coffee.md)
-_Context: Guatemala, La Democracia, truck, lynch mob_
+_Context: La Democracia, truck, Guatemala, lynch mob_
 
 ##### The 5 Browns
 ### [Keith Brown, the former manager and father of The 5 Browns classical music group is sentenced for ten years for sexual abuse of his daughters. ](/news/2011/03/31/keith-brown-the-former-manager-and-father-of-the-5-browns-classical-music-group-is-sentenced-for-ten-years-for-sexual-abuse-of-his-daughter.md)
@@ -81,7 +81,7 @@ Former Labour MP Jim Devine is jailed for 16 months at the Old Bailey for fraudu
 
 ##### China
 ### [China launches its largest crackdown on dissenters in years, according to activists, amid unrest in the Middle East. ](/news/2011/03/31/china-launches-its-largest-crackdown-on-dissenters-in-years-according-to-activists-amid-unrest-in-the-middle-east.md)
-_Context: dissent, China_
+_Context: China, dissent_
 
 ##### Governor of Ohio
 ### [The Governor of Ohio John Kasich signs a bill removing collective bargaining rights from Ohio government employees. ](/news/2011/03/31/the-governor-of-ohio-john-kasich-signs-a-bill-removing-collective-bargaining-rights-from-ohio-government-employees.md)
@@ -89,7 +89,7 @@ COLUMBUS—Gov. John Kasich plans to follow through on Thursday night with his p
 
 ##### Paleontologist
 ### [Paleontologists announce the discovery of Zhuchengtyrannus, a large dinosaur from Zucheng, Shandong Province in China. ](/news/2011/03/31/paleontologists-announce-the-discovery-of-zhuchengtyrannus-a-large-dinosaur-from-zucheng-shandong-province-in-china.md)
-_Context: Zucheng, Paleontologist, Shandong Province, Zhuchengtyrannus, dinosaur_
+_Context: Zhuchengtyrannus, Shandong Province, Paleontologist, Zucheng, dinosaur_
 
 ## [Previous Day...](/news/2011/03/30/index.md)
 

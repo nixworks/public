@@ -25,7 +25,7 @@ The remains of Hurricane Gonzalo will hit the UK tonight, bringing gales and tor
 
 ##### Dhaka
 ### [A collision between two buses on the Dhaka-Rajshahi highway leaves at least 30 people dead in northwestern Bangladesh. ](/news/2014/10/20/a-collision-between-two-buses-on-the-dhaka-rajshahi-highway-leaves-at-least-30-people-dead-in-northwestern-bangladesh.md)
-_Context: Bangladesh, Rajshahi, Dhaka_
+_Context: Bangladesh, Dhaka, Rajshahi_
 
 ##### Total
 ### [The Chief Executive Officer of Total S.A., Christophe de Margerie, dies in a plane crash in Moscow together with three members of the flight crew. ](/news/2014/10/20/the-chief-executive-officer-of-total-s-a-christophe-de-margerie-dies-in-a-plane-crash-in-moscow-together-with-three-members-of-the-flight.md)
@@ -33,11 +33,11 @@ Christophe de Margerie, chief executive of French oil company Total since 2007, 
 
 ##### Joko Widodo
 ### [Joko Widodo is sworn in as President of Indonesia. ](/news/2014/10/20/joko-widodo-is-sworn-in-as-president-of-indonesia.md)
-_Context: President of Indonesia, Joko Widodo, sworn in_
+_Context: sworn in, Joko Widodo, President of Indonesia_
 
 ##### Prime Minister of Japan
 ### [Two members of Prime Minister of Japan Shinzo Abe's cabinet, Trade Minister Yuko Obuchi and Justice Minister Midori Matsushima, resign over a scandal involving alleged misuse of political funds. ](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.md)
-_Context: Shinzo Abe, Prime Minister of Japan, Midori Matsushima, Yuko Obuchi_
+_Context: Yuko Obuchi, Midori Matsushima, Prime Minister of Japan, Shinzo Abe_
 
 ## [Previous Day...](/news/2014/10/19/index.md)
 

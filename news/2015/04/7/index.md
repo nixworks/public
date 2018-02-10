@@ -5,7 +5,7 @@ Formats: [HTML](2015/04/7/index.html)  [JSON](2015/04/7/index.json)  [XML](2015/
 
 ##### Intervention in Yemen
 ### [The World Health Organisation estimates that 560 people have died, more than 1,700 people have been injured and more than 100,000 people have fled their homes following the intensification of fighting three weeks ago. ](/news/2015/04/7/the-world-health-organisation-estimates-that-560-people-have-died-more-than-1-700-people-have-been-injured-and-more-than-100-000-people-hav.md)
-_Context: World Health Organisation, Intervention in Yemen_
+_Context: Intervention in Yemen, World Health Organisation_
 
 ##### Dragon Aromatics
 ### [Following the deployment of 350 police, over 600 firefighters and over 400 soldiers, the fire at the Dragon Aromatics chemical plant in Zhangzhou (southeast China) restarts, forcing the evacuation of residents within a radius of 18km from the plant. ](/news/2015/04/7/following-the-deployment-of-350-police-over-600-firefighters-and-over-400-soldiers-the-fire-at-the-dragon-aromatics-chemical-plant-in-zhan.md)
@@ -33,7 +33,7 @@ _Context: Hatton Garden, London_
 
 ##### Shooting of Walter Scott
 ### [A North Charleston, South Carolina policeman is charged with murder after video footage emerges of him shooting an unarmed suspect attempting to flee on foot following a daytime traffic stop. ](/news/2015/04/7/a-north-charleston-south-carolina-policeman-is-charged-with-murder-after-video-footage-emerges-of-him-shooting-an-unarmed-suspect-attemptin.md)
-_Context: Shooting of Walter Scott, policeman, North Charleston, South Carolina_
+_Context: Shooting of Walter Scott, North Charleston, South Carolina, policeman_
 
 ##### Kentucky U.S. Senator
 ### [Kentucky U.S. Senator Rand Paul announces that he will seek the Republican nomination for the U.S. presidency in 2016. ](/news/2015/04/7/kentucky-u-s-senator-rand-paul-announces-that-he-will-seek-the-republican-nomination-for-the-u-s-presidency-in-2016.md)

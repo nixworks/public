@@ -21,15 +21,15 @@ _Context: Iran, Geneva, several world powers, nuclear program_
 
 ##### Qatar
 ### [Qatar withdraws its ambassador from Egypt following disagreement over Egyptian Air Force strikes against Islamic State targets in Libya after the execution of 21 Coptic Christian hostages by Islamic State. ](/news/2015/02/19/qatar-withdraws-its-ambassador-from-egypt-following-disagreement-over-egyptian-air-force-strikes-against-islamic-state-targets-in-libya-afte.md)
-_Context: Egypt, Islamic State in Iraq and the Levant, Qatar, Egyptian Air Force, Libya, execution of 21 Coptic Christian_
+_Context: Qatar, execution of 21 Coptic Christian, Egyptian Air Force, Egypt, Islamic State in Iraq and the Levant, Libya_
 
 ##### Ronald Reagan UCLA Medical Center
 ### [2 people are dead and 7 others infected at the Ronald Reagan UCLA Medical Center, in Los Angeles County, California, after contracting a super-resistant bacterial infection of Carbapenem-resistant Enterobacteriaceae (CRE). 179 other people may have been exposed to the bacteria as well. ](/news/2015/02/19/2-people-are-dead-and-7-others-infected-at-the-ronald-reagan-ucla-medical-center-in-los-angeles-county-california-after-contracting-a-sup.md)
-_Context: Ronald Reagan UCLA Medical Center, Los Angeles County, California, Carbapenem-resistant Enterobacteriaceae_
+_Context: Carbapenem-resistant Enterobacteriaceae, Ronald Reagan UCLA Medical Center, Los Angeles County, California_
 
 ##### Prime Minister
 ### [Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. ](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.md)
-_Context: Prime Minister, indicted, Yingluck Shinawatra_
+_Context: Yingluck Shinawatra, Prime Minister, indicted_
 
 ##### Police
 ### [Venezuelan police arrest the Opposition Mayor of Caracas Antonio Ledezma without a warrant on the anniversary of the arrest of another opposition leader Leopoldo Lopez. The President of Venezuela Nicolas Maduro accused him of organizing a coup d'etat with the support of the United States but the US has denied this. ](/news/2015/02/19/venezuelan-police-arrest-the-opposition-mayor-of-caracas-antonio-ledezma-without-a-warrant-on-the-anniversary-of-the-arrest-of-another-oppos.md)

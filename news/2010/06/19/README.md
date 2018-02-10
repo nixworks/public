@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/19/index.html)  [JSON](2010/06/19/index.json)  [XML](201
 
 ##### Burma
 ### [Burmese Democracy activist Aung San Suu Kyi turns 65, as international and domestic pressure for her release from house arrest intensify. Guards surrounding her home allow her to receive a birthday cake and a bouquet of flowers from political supporters. ](/news/2010/06/19/burmese-democracy-activist-aung-san-suu-kyi-turns-65-as-international-and-domestic-pressure-for-her-release-from-house-arrest-intensify-gu.md)
-_Context: Aung San Suu Kyi, Burma_
+_Context: Burma, Aung San Suu Kyi_
 
 ##### San Bernardino
 ### [A gunman shoots 4 people then turns the gun on himself in San Bernardino, California. ](/news/2010/06/19/a-gunman-shoots-4-people-then-turns-the-gun-on-himself-in-san-bernardino-california.md)
@@ -33,15 +33,15 @@ _Context: Pakistan_
 
 ##### Al-Qaida
 ### [Four suspected al-Qaida gunmen blast their way into the intelligence headquarters. The attack on the heavily protected security complex kills 18 in the southern port city of Aden, Yemen. ](/news/2010/06/19/four-suspected-al-qaida-gunmen-blast-their-way-into-the-intelligence-headquarters-the-attack-on-the-heavily-protected-security-complex-kill.md)
-_Context: Yemen, al-Qaida, Aden_
+_Context: Aden, Yemen, al-Qaida_
 
 ##### Crown Princess Victoria
 ### [Sweden's Crown Princess Victoria marries Daniel Westling; Westling becomes Duke of Vastergotland. ](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.md)
-_Context: Crown Princess Victoria, marries, Daniel Westling_
+_Context: Daniel Westling, marries, Crown Princess Victoria_
 
 ##### Turkish Army
 ### [10 Turkish soldiers are killed during clashes with Kurdish rebels on the border of Turkey and Iraq, in Semdinli township of Hakkari province and in the Gediktepe-Tekeli region. ](/news/2010/06/19/10-turkish-soldiers-are-killed-during-clashes-with-kurdish-rebels-on-the-border-of-turkey-and-iraq-in-aemdinli-township-of-hakkac-ri-provin.md)
-_Context: Turkish Army, Semdinli, Gediktepe-Tekeli, Iraq, Hakkari province, Turkey, Kurdish_
+_Context: Iraq, Hakkari province, Turkish Army, Gediktepe-Tekeli, Kurdish, Semdinli, Turkey_
 
 ##### Istanbul
 ### [Roadside bomb blast kills 4, wounds 12 in bus carrying soldiers in Istanbul. ](/news/2010/06/19/roadside-bomb-blast-kills-4-wounds-12-in-bus-carrying-soldiers-in-istanbul.md)

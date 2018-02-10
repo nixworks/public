@@ -29,11 +29,11 @@ _Context: 6.5 magnitude earthquake, Guerrero_
 
 ##### John Key
 ### [Official results for the 26 November general election confirm John Key's National Party holding a plurality of the votes and seats. With confidence and supply agreements with ACT New Zealand and United Future confirmed, National forms a minority government with a one-seat majority, returning the Fifth National Government to a second term in office. ](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.md)
-_Context: New Zealand National Party, Fifth National Government, minority government, confidence and supply, John Key, ACT, United Future_
+_Context: confidence and supply, John Key, United Future, ACT, Fifth National Government, minority government, New Zealand National Party_
 
 ##### Russia
 ### [A day of protests begins in cities across Russia against alleged election fraud by Vladimir Putin and his United Russia party, with fifty thousand people marching in Moscow and 25 people arrested in Khabarovsk. ](/news/2011/12/10/a-day-of-protests-begins-in-cities-across-russia-against-alleged-election-fraud-by-vladimir-putin-and-his-united-russia-party-with-fifty-th.md)
-_Context: Russia, Moscow, Vladimir Putin, Khabarovsk, United Russia_
+_Context: Russia, Khabarovsk, Vladimir Putin, United Russia, Moscow_
 
 ##### DR Congo
 ### [At least six people are killed in clashes in the Democratic Republic of the Congo in the aftermath of disputed general elections in which Joseph Kabila was named President. ](/news/2011/12/10/at-least-six-people-are-killed-in-clashes-in-the-democratic-republic-of-the-congo-in-the-aftermath-of-disputed-general-elections-in-which-jo.md)
@@ -45,7 +45,7 @@ _Context: President of Argentina, Cristina Kirchner_
 
 ##### Oscar Valds
 ### [Oscar Valds is named as the new Prime Minister of Peru, after Salomn Lerner Ghitis resigned. ](/news/2011/12/10/oscar-valdes-is-named-as-the-new-prime-minister-of-peru-after-salomon-lerner-ghitis-resigned.md)
-_Context: Peru, Salomn Lerner Ghitis, Oscar Valds_
+_Context: Oscar Valds, Salomn Lerner Ghitis, Peru_
 
 ##### Asia
 ### [Astronomers in Asia, Australia and North America observe a total lunar eclipse. ](/news/2011/12/10/astronomers-in-asia-australia-and-north-america-observe-a-total-lunar-eclipse.md)

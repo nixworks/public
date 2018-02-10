@@ -17,7 +17,7 @@ A BUS carrying Pakistani soldiers has crashed into a deep ravine, killing 24 and
 
 ##### Tour bus
 ### [A tour bus carrying the Seton Hill University women's lacrosse team veers off the Pennsylvania Turnpike and strikes a tree near Carlisle, Pennsylvania, United States, killing the team's head coach, her unborn child, and the bus driver. ](/news/2013/03/16/a-tour-bus-carrying-the-seton-hill-university-women-s-lacrosse-team-veers-off-the-pennsylvania-turnpike-and-strikes-a-tree-near-carlisle-pe.md)
-_Context: Pennsylvania, Pennsylvania Turnpike's, tour bus, Seton Hill University, women's lacrosse, bus driver, United States, Carlisle_
+_Context: United States, Carlisle, Pennsylvania Turnpike's, tour bus, Pennsylvania, women's lacrosse, bus driver, Seton Hill University_
 
 ##### United States
 ### [A United States helicopter crashes near Kandahar in southern Afghanistan, killing one coalition service member and injuring another. ](/news/2013/03/16/a-united-states-helicopter-crashes-near-kandahar-in-southern-afghanistan-killing-one-coalition-service-member-and-injuring-another.md)
@@ -37,7 +37,7 @@ A group of eight men have allegedly raped a 39-year-old Swiss tourist and assaul
 
 ##### Drive-by shooting
 ### [Seven people are shot and wounded at a family gathering in an apparent gang-related drive-by shooting in Galt, California, United States. ](/news/2013/03/16/seven-people-are-shot-and-wounded-at-a-family-gathering-in-an-apparent-gang-related-drive-by-shooting-in-galt-california-united-states.md)
-_Context: Galt, drive-by shooting, California, United States_
+_Context: California, Galt, United States, drive-by shooting_
 
 ##### Zimbabwe
 ### [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md)
@@ -49,7 +49,7 @@ Pope Francis says he wants a &quot;poor Church for the poor&quot; as he confirms
 
 ##### Soyuz TMA-06M
 ### [Soyuz TMA-06M: Three astronauts return safely to Earth from the International Space Station aboard a Russian capsule. ](/news/2013/03/16/soyuz-tma-06m-three-astronauts-return-safely-to-earth-from-the-international-space-station-aboard-a-russian-capsule.md)
-_Context: astronauts, International Space Station, Earth, Russia, Soyuz TMA-06M_
+_Context: Soyuz TMA-06M, Earth, International Space Station, Russia, astronauts_
 
 ## [Previous Day...](/news/2013/03/15/index.md)
 

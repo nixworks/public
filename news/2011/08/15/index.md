@@ -17,7 +17,7 @@ A barrage of attacks struck Monday across Iraq, killing at least 84 people and w
 
 ##### Japan
 ### [Japan's economy shrinks by 0.3% in the April-June quarter confirming the country is in a recession caused in part by the 2011 Tohoku earthquake and tsunami and subsequent Fukushima Daiichi nuclear disaster. ](/news/2011/08/15/japan-s-economy-shrinks-by-0-3-in-the-april-june-quarter-confirming-the-country-is-in-a-recession-caused-in-part-by-the-2011-tahoku-earthq.md)
-_Context: Fukushima Daiichi nuclear disaster, 2011 Tohoku earthquake and tsunami, Japan, Economy of Japan_
+_Context: Fukushima Daiichi nuclear disaster, Japan, Economy of Japan, 2011 Tohoku earthquake and tsunami_
 
 ##### Dalian
 ### [Authorities in the north-eastern Chinese city of Dalian order a petrochemical plant, which produces paraxylene (PX), to be shut down and relocated, after tens of thousands of local residents protested through the streets on Sunday, fearing potential pollution. The protests resembled to a similar case, when citizens went on a protest "stroll" in the southeastern city of Xiamen in June 2007. ](/news/2011/08/15/authorities-in-the-north-eastern-chinese-city-of-dalian-order-a-petrochemical-plant-which-produces-paraxylene-px-to-be-shut-down-and-rel.md)
@@ -29,19 +29,19 @@ Connect to the most current information on stocks and bonds on Reuters.com for G
 
 ##### Hurricane Rina
 ### [Tropical Storm Gert passes Bermuda. ](/news/2011/08/15/tropical-storm-gert-passes-bermuda.md)
-_Context: Hurricane Rina, Bermuda_
+_Context: Bermuda, Hurricane Rina_
 
 ##### New Zealand
 ### [A cold snap in New Zealand causes widespread snow on both the North and South Islands, disruption to power supplies and the closures of roads and Wellington International Airport. ](/news/2011/08/15/a-cold-snap-in-new-zealand-causes-widespread-snow-on-both-the-north-and-south-islands-disruption-to-power-supplies-and-the-closures-of-road.md)
-_Context: New Zealand, Wellington International Airport, North Island, South Island_
+_Context: North Island, South Island, Wellington International Airport, New Zealand_
 
 ##### Japan
 ### [Japan's Cabinet approves a plan to establish a new energy watchdog under the Environment Ministry. ](/news/2011/08/15/japan-s-cabinet-approves-a-plan-to-establish-a-new-energy-watchdog-under-the-environment-ministry.md)
-_Context: Japan, Environment Ministry_
+_Context: Environment Ministry, Japan_
 
 ##### Egypt
 ### [Former Egyptian President Hosni Mubarak appears in court for the second session of his trial with his two sons Alaa and Gamal who share corruption charges with him; the trial is subsequently adjourned and ordered to be merged with that of former Interior Minister Habib al-Adly. ](/news/2011/08/15/former-egyptian-president-hosni-mubarak-appears-in-court-for-the-second-session-of-his-trial-with-his-two-sons-alaa-and-gamal-who-share-corr.md)
-_Context: President, Egypt, Gamel, Egyptian interior minister, Habib al-Adly, Hosni Mubarak, Alaa Mubarak_
+_Context: Alaa Mubarak, Hosni Mubarak, Egyptian interior minister, President, Egypt, Gamel, Habib al-Adly_
 
 ## [Previous Day...](/news/2011/08/14/index.md)
 

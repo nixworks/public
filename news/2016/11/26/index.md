@@ -41,7 +41,7 @@ Iraqi Sunnis say law was proof of Shia &quot;dictatorship&quot; but Prime Minist
 
 ##### Cuba
 ### [Cuban state television announces that former President Fidel Castro has died at age 90. ](/news/2016/11/26/cuban-state-television-announces-that-former-president-fidel-castro-has-died-at-age-90.md)
-_Context: died, President, Cuba, Fidel Castro_
+_Context: Cuba, Fidel Castro, died, President_
 
 ##### 2016 South Korean protests
 ### [South Koreans take to the streets en masse demanding the resignation of President Park Geun-hye amidst a corruption scandal. Around 1.5 million people rallied in the capital Seoul, while another 400,000 people demonstrated in provincial cities. ](/news/2016/11/26/south-koreans-take-to-the-streets-en-masse-demanding-the-resignation-of-president-park-geun-hye-amidst-a-corruption-scandal-around-1-5-mill.md)
@@ -49,11 +49,11 @@ Mass protests in capital Seoul and other provincial cities demand President Park
 
 ##### Kuwaiti general election, 2016
 ### [Kuwait, where citizens make up around 30 percent of the emirate's 4.4 million population, votes in a snap election following parliament's dissolution on 16 October amid the impact of falling oil prices. This is the first election the opposition has not boycotted in nearly four years. ](/news/2016/11/26/kuwait-where-citizens-make-up-around-30-percent-of-the-emirate-s-4-4-million-population-votes-in-a-snap-election-following-parliament-s-di.md)
-_Context: parliament's dissolution, Kuwaiti general election, 2016, snap election, Kuwait_
+_Context: Kuwait, parliament's dissolution, Kuwaiti general election, 2016, snap election_
 
 ##### 2016 United States presidential election recount and audit
 ### [The Clinton campaign announces it will participate in efforts to push for recounts by Jill Stein's campaign in Michigan, Pennsylvania and Wisconsin. ](/news/2016/11/26/the-clinton-campaign-announces-it-will-participate-in-efforts-to-push-for-recounts-by-jill-stein-s-campaign-in-michigan-pennsylvania-and-wi.md)
-_Context: Mich., presidential campaign, Wisconsin, Jill Stein, 2016 United States presidential election recount and audit, Pennsylvania_
+_Context: Jill Stein, presidential campaign, 2016 United States presidential election recount and audit, Pennsylvania, Mich., Wisconsin_
 
 ## [Previous Day...](/news/2016/11/25/index.md)
 

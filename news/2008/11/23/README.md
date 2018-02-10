@@ -9,11 +9,11 @@ Police in Honduras say that vice-president of the National Congress, Mario Ferna
 
 ##### Mahmoud Abbas
 ### [ Mahmoud Abbas is appointed as the President of the "State of Palestine" by the Central Council of the Palestinian National Authority. ](/news/2008/11/23/mahmoud-abbas-is-appointed-as-the-president-of-the-state-of-palestine-by-the-central-council-of-the-palestinian-national-authority.md)
-_Context: Palestinian state, Mahmoud Abbas, Palestinian Authority_
+_Context: Mahmoud Abbas, Palestinian state, Palestinian Authority_
 
 ##### Russia
 ### [ Human rights activists and opposition politicians in Russia's southern republic of Ingushetia say that the predominantly Muslim region is now in a state of civil war. ](/news/2008/11/23/human-rights-activists-and-opposition-politicians-in-russia-s-southern-republic-of-ingushetia-say-that-the-predominantly-muslim-region-is-n.md)
-_Context: civil war, Russia, federal subjects, Ingushetia, Islamists_
+_Context: federal subjects, Russia, Islamists, civil war, Ingushetia_
 
 ##### Guinea-Bissau
 ### [ One person is killed and several injured in an apparent failed coup attempt in Guinea-Bissau, hours after the controversial results of the parliamentary election were announced where the African Party for the Independence of Guinea and Cape Verde won 67 of 100 seats. ](/news/2008/11/23/one-person-is-killed-and-several-injured-in-an-apparent-failed-coup-attempt-in-guinea-bissau-hours-after-the-controversial-results-of-the.md)
@@ -25,23 +25,23 @@ Gulf Times - Qatar’s top-selling English daily newspaper published in Qatar an
 
 ##### University of Calgary
 ### [ Scientists led by the University of Calgary are searching for the remains of a meteorite that is believed to have struck northern Canada, around the border of Alberta and Saskatchewan, overnight. ](/news/2008/11/23/scientists-led-by-the-university-of-calgary-are-searching-for-the-remains-of-a-meteorite-that-is-believed-to-have-struck-northern-canada-a.md)
-_Context: Canadian, a meteorite, Alberta, Saskatchewan, University of Calgary_
+_Context: Alberta, Saskatchewan, a meteorite, University of Calgary, Canadian_
 
 ##### Venezuela
 ### [ Venezuelans go to the polls for regional elections. Allies of President Hugo Chvez win 17 of 21 governorships, but the opposition wins in the two biggest states of Miranda and Zulia as well as the mayorship of Caracas. ](/news/2008/11/23/venezuelans-go-to-the-polls-for-regional-elections-allies-of-president-hugo-chavez-win-17-of-21-governorships-but-the-opposition-wins-in.md)
-_Context: regional elections, Opposition, Caracas, Miranda, Zulia, Venezuela, states, Hugo Chvez, Venezuelan President_
+_Context: Venezuela, Opposition, Hugo Chvez, Zulia, regional elections, Caracas, states, Venezuelan President, Miranda_
 
 ##### Dalai Lama
 ### [ The Dalai Lama warns that he is losing confidence in Chinese officials and that the Tibetan people are facing "great danger". ](/news/2008/11/23/the-dalai-lama-warns-that-he-is-losing-confidence-in-chinese-officials-and-that-the-tibetan-people-are-facing-great-danger.md)
-_Context: China, Dalai Lama, Tibetan, Tibet_
+_Context: China, Tibet, Dalai Lama, Tibetan_
 
 ##### Calgary Stampeders
 ### [ The Calgary Stampeders defeat the Montreal Alouettes 22-14 to win the 96th Grey Cup. ](/news/2008/11/23/the-calgary-stampeders-defeat-the-montreal-alouettes-22-14-to-win-the-96th-grey-cup.md)
-_Context: Calgary Stampeders, Montreal Alouettes, 96th Grey Cup_
+_Context: Montreal Alouettes, 96th Grey Cup, Calgary Stampeders_
 
 ##### Columbus Crew
 ### [ The Columbus Crew defeat New York Red Bulls 3-1 to win MLS Cup 2008. ](/news/2008/11/23/the-columbus-crew-defeat-new-york-red-bulls-3-1-to-win-mls-cup-2008.md)
-_Context: New York Red Bulls, MLS Cup 2008, Columbus Crew_
+_Context: MLS Cup 2008, Columbus Crew, New York Red Bulls_
 
 ## [Previous Day...](/news/2008/11/22/index.md)
 

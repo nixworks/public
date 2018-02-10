@@ -25,7 +25,7 @@ _Context: German, Bavaria_
 
 ##### Logan International Airport
 ### [Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md)
-_Context: Massachusetts, Boston, Logan International Airport_
+_Context: Massachusetts, Logan International Airport, Boston_
 
 ##### Dieng Volcanic Complex
 ### [A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. ](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.md)
@@ -37,7 +37,7 @@ The captain of a Turkish freight ship on Monday said the Greek coast guard opene
 
 ##### Politics of New Jersey
 ### [Governor Chris Christie is caught sunbathing with his family on a beach he had ordered closed for the fourth of July holiday. The beach was closed to the public amid a state budget crisis. ](/news/2017/07/3/governor-chris-christie-is-caught-sunbathing-with-his-family-on-a-beach-he-had-ordered-closed-for-the-fourth-of-july-holiday-the-beach-was.md)
-_Context: Politics of New Jersey, budget crisis, holiday, Chris Christie_
+_Context: holiday, Chris Christie, Politics of New Jersey, budget crisis_
 
 ## [Previous Day...](/news/2017/07/2/index.md)
 

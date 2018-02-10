@@ -5,11 +5,11 @@ Formats: [HTML](2011/09/24/index.html)  [JSON](2011/09/24/index.json)  [XML](201
 
 ##### Civil war
 ### [2011 Libyan civil war: In the pro-Muammar Gaddafi stronghold of Sirte, National Transitional Council forces are massing in a square about a kilometer (0.6 miles) from the city center, as they weather heavy fire from pro-Gaddafi snipers. ](/news/2011/09/24/2011-libyan-civil-war-in-the-pro-muammar-gaddafi-stronghold-of-sirte-national-transitional-council-forces-are-massing-in-a-square-about-a.md)
-_Context: National Transitional Council, Sirte, civil war, Muammar Gaddafi_
+_Context: Sirte, National Transitional Council, civil war, Muammar Gaddafi_
 
 ##### Turkey
 ### [Turkey seizes a Syrian ship possibly carrying weapons to the Syrian Army, as the 2011 Syrian uprising continues. ](/news/2011/09/24/turkey-seizes-a-syrian-ship-possibly-carrying-weapons-to-the-syrian-army-as-the-2011-syrian-uprising-continues.md)
-_Context: Turkey, Syria, Syrian Army, 2011 Syrian uprising_
+_Context: 2011 Syrian uprising, Syria, Turkey, Syrian Army_
 
 ##### London
 ### [Six people die in a house fire in the London suburb of Neasden. ](/news/2011/09/24/six-people-die-in-a-house-fire-in-the-london-suburb-of-neasden.md)
@@ -17,11 +17,11 @@ Six members of the same family, including three children and two teenagers, have
 
 ##### Spanish politicians
 ### [A Spanish oil tanker hijacked off the coast of West Africa is freed, with no harm reportedly done to the crew, and no ransom paid to the pirates. ](/news/2011/09/24/a-spanish-oil-tanker-hijacked-off-the-coast-of-west-africa-is-freed-with-no-harm-reportedly-done-to-the-crew-and-no-ransom-paid-to-the-pir.md)
-_Context: oil tanker, Spanish politicians, West Africa_
+_Context: West Africa, oil tanker, Spanish politicians_
 
 ##### Oswald Grbel
 ### [Oswald Grbel, chief executive of Swiss bank UBS, resigns in the wake of a rogue trading scandal. ](/news/2011/09/24/oswald-grubel-chief-executive-of-swiss-bank-ubs-resigns-in-the-wake-of-a-rogue-trading-scandal.md)
-_Context: UBS, Oswald Grbel, Switzerland_
+_Context: Oswald Grbel, UBS, Switzerland_
 
 ##### United Russia
 ### [At the United Russia Congress, Prime Minister Vladimir Putin accepts President Dmitry Medvedev's proposal to run in the 2012 Russian presidential election. ](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.md)
@@ -29,11 +29,11 @@ Russian Prime Minister Vladimir Putin announces he has accepted a proposal to ru
 
 ##### Herman Cain
 ### [Herman Cain wins a Florida straw poll for the 2012 Republican presidential primaries. ](/news/2011/09/24/herman-cain-wins-a-florida-straw-poll-for-the-2012-republican-presidential-primaries.md)
-_Context: nomination, Herman Cain, the state_
+_Context: Herman Cain, nomination, the state_
 
 ##### Bahrain
 ### [Voters in Bahrain go to the polls for byelections caused by the resignation of Shiite members during the 2011 Bahraini uprising; many Shiite voters are expected to boycott the election. ](/news/2011/09/24/voters-in-bahrain-go-to-the-polls-for-byelections-caused-by-the-resignation-of-shiite-members-during-the-2011-bahraini-uprising-many-shiite.md)
-_Context: byelection, Bahrain, Shiite, 2011 Bahraini uprising_
+_Context: Bahrain, byelection, 2011 Bahraini uprising, Shiite_
 
 ##### United Arab Emirates
 ### [Voters in the United Arab Emirates go to the polls for parliamentary elections. ](/news/2011/09/24/voters-in-the-united-arab-emirates-go-to-the-polls-for-parliamentary-elections.md)

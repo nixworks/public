@@ -5,11 +5,11 @@ Formats: [HTML](2017/07/20/index.html)  [JSON](2017/07/20/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [Syrian rebels, who have benefited from the "covert" CIA military aid program, say they have not been officially informed of the U.S. decision to stop this aid, and add that its full impact depends on whether U.S. allies Jordan, Saudi Arabia, Qatar, and Turkey continue to support their fight. A Free Syrian Army commander warns this decision risks triggering the collapse of the moderate opposition. ](/news/2017/07/20/syrian-rebels-who-have-benefited-from-the-covert-cia-military-aid-program-say-they-have-not-been-officially-informed-of-the-u-s-decisio.md)
-_Context: Free Syrian Army, Syrian Civil War, Jordan, Central Intelligence Agency, Saudi Arabia, Qatar, Turkey_
+_Context: Saudi Arabia, Free Syrian Army, Qatar, Jordan, Syrian Civil War, Central Intelligence Agency, Turkey_
 
 ##### Chester Bennington
 ### [Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. ](/news/2017/07/20/chester-bennington-lead-vocalist-of-linkin-park-dies-at-his-home-in-the-los-angeles-suburb-of-palos-verdes-estates-california.md)
-_Context: Chester Bennington, Linkin Park, Palos Verdes Estates, California_
+_Context: Palos Verdes Estates, California, Linkin Park, Chester Bennington_
 
 ##### United States
 ### [A hearing in the U.S. Senate is held about alleged human rights violations in the Philippines's war against illegal drugs. ](/news/2017/07/20/a-hearing-in-the-u-s-senate-is-held-about-alleged-human-rights-violations-in-the-philippines-s-war-against-illegal-drugs.md)

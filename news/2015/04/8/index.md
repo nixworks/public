@@ -9,7 +9,7 @@ An Afghan man dressed in the uniform of local security forces opened fire on U.S
 
 ##### Sinai insurgency
 ### [Eleven civilians and two Egyptian Army soldiers have been killed in three attacks in the northern Sinai Peninsula. ](/news/2015/04/8/eleven-civilians-and-two-egyptian-army-soldiers-have-been-killed-in-three-attacks-in-the-northern-sinai-peninsula.md)
-_Context: Sinai Peninsula, Egyptian Army, Sinai insurgency_
+_Context: Sinai insurgency, Egyptian Army, Sinai Peninsula_
 
 ##### Royal Dutch Shell
 ### [Royal Dutch Shell purchases rival BG Group for around $70 billion. ](/news/2015/04/8/royal-dutch-shell-purchases-rival-bg-group-for-around-70-billion.md)
@@ -25,7 +25,7 @@ Thousands are evacuated in the southern Chinese province of Fujian as a massive 
 
 ##### Shipwreck
 ### [A shipwreck off the Haiti coast claims the life of 21 people. ](/news/2015/04/8/a-shipwreck-off-the-haiti-coast-claims-the-life-of-21-people.md)
-_Context: Haiti, shipwreck_
+_Context: shipwreck, Haiti_
 
 ##### Boston Marathon bombings
 ### [Boston Marathon bomber Dzhokhar Tsarnaev receives a guilty verdict on all legal charges against him. ](/news/2015/04/8/boston-marathon-bomber-dzhokhar-tsarnaev-receives-a-guilty-verdict-on-all-legal-charges-against-him.md)

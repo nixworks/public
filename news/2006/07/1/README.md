@@ -5,7 +5,7 @@ Formats: [HTML](2006/07/1/index.html)  [JSON](2006/07/1/index.json)  [XML](2006/
 
 ##### General elections
 ### [ Early elections in November are announced in the Netherlands. ](/news/2006/07/1/early-elections-in-november-are-announced-in-the-netherlands.md)
-_Context: General elections, Netherlands_
+_Context: Netherlands, General elections_
 
 ##### Discovery
 ### [ Discovery Mission STS-121's launch has been delayed today due to thunderstorms. The next launch attempt is scheduled for 3:26 PM EDT tomorrow, although more bad weather is forecast.](/news/2006/07/1/discovery-mission-sts-121-s-launch-has-been-delayed-today-due-to-thunderstorms-the-next-launch-attempt-is-scheduled-for-3-26-pm-edt-tomorr.md)
@@ -17,7 +17,7 @@ _Context: Osama Bin Laden, Somalia, Al Qaeda_
 
 ##### United Nations Security Council
 ### [ The United Nations Security Council votes unanimously to withdraw the 3,500 peacekeeping troops who are currently in Burundi on December 31, despite the continuing activities of the National Liberation Force rebel group. ](/news/2006/07/1/the-united-nations-security-council-votes-unanimously-to-withdraw-the-3-500-peacekeeping-troops-who-are-currently-in-burundi-on-december-31.md)
-_Context: rebel, United Nations Security Council, Burundi, December 31, peacekeeping troops, National Liberation Force_
+_Context: National Liberation Force, Burundi, December 31, rebel, peacekeeping troops, United Nations Security Council_
 
 ##### Sadr City
 ### [ At least 60 people die from a car bomb in a market in Sadr City, a Shiite district of Baghdad. ](/news/2006/07/1/at-least-60-people-die-from-a-car-bomb-in-a-market-in-sadr-city-a-shiite-district-of-baghdad.md)

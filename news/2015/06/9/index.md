@@ -5,7 +5,7 @@ Formats: [HTML](2015/06/9/index.html)  [JSON](2015/06/9/index.json)  [XML](2015/
 
 ##### Naxalite-Maoist insurgency
 ### [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md)
-_Context: Maoist, Naxalite-Maoist insurgency, Jharkhand, Indian police, Naxalite_
+_Context: Naxalite-Maoist insurgency, Naxalite, Indian police, Jharkhand, Maoist_
 
 ##### Syrian Civil War
 ### [The Southern Front of the Free Syrian Army claims to have captured a major Syrian Army base known as Brigade 52 in Daraa Governorate. ](/news/2015/06/9/the-southern-front-of-the-free-syrian-army-claims-to-have-captured-a-major-syrian-army-base-known-as-brigade-52-in-daraa-governorate.md)

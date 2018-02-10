@@ -5,11 +5,11 @@ Formats: [HTML](2006/05/29/index.html)  [JSON](2006/05/29/index.json)  [XML](200
 
 #####  labor dispute
 ### [ A labor dispute causes Toronto Transit Commission to shut down the city's public transit system unexpectedly, leaving commuters stranded. ](/news/2006/05/29/a-labor-dispute-causes-toronto-transit-commission-to-shut-down-the-city-s-public-transit-system-unexpectedly-leaving-commuters-stranded.md)
-_Context: TTC,  labor dispute_
+_Context:  labor dispute, TTC_
 
 ##### Italian municipal elections
 ### [ In the Italian municipal elections, centre-left incumbent mayors Walter Veltroni, Sergio Chiamparino and Rosa Russo Iervolino lead in Rome, Turin and Naples, respectively. In the regional election of Sicily, incumbent president Salvatore Cuffaro of the House of Freedoms leads over Rita Borsellino. ](/news/2006/05/29/in-the-italian-municipal-elections-centre-left-incumbent-mayors-walter-veltroni-sergio-chiamparino-and-rosa-russo-iervolino-lead-in-rome.md)
-_Context: Walter Veltroni, Sergio Chiamparino, Rome, Italy, House of Freedoms, Naples, Turin, Rosa Russo Iervolino, Salvatore Cuffaro, Italian municipal elections, Rita Borsellino, regional election of Sicily_
+_Context: Rome, Italy, Rosa Russo Iervolino, Salvatore Cuffaro, Naples, Italian municipal elections, House of Freedoms, regional election of Sicily, Sergio Chiamparino, Turin, Rita Borsellino, Walter Veltroni_
 
 ##### Kabul
 ### [ In Kabul, Afghanistan, thousands demonstrate against the United States after several civilians were killed in a car accident in which 3 US humvees collided with a traffic jam. ](/news/2006/05/29/in-kabul-afghanistan-thousands-demonstrate-against-the-united-states-after-several-civilians-were-killed-in-a-car-accident-in-which-3-us.md)

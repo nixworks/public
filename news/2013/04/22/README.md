@@ -17,11 +17,11 @@ KABUL, Afghanistan--Eleven people, including eight Turkish nationals, were captu
 
 ##### Nigeria
 ### [The Nigerian Red Cross claims that 185 people have been killed in Borno State in the north of country over the past few days as a result of fighting between militants and government state forces. The local military claim the numbers are inflated. ](/news/2013/04/22/the-nigerian-red-cross-claims-that-185-people-have-been-killed-in-borno-state-in-the-north-of-country-over-the-past-few-days-as-a-result-of.md)
-_Context: Red Cross, Borno State, Nigeria_
+_Context: Borno State, Nigeria, Red Cross_
 
 ##### Comedy Central
 ### [Comedy Central decides to not renew "Futurama", meaning that the show may end on September 4, 2013. ](/news/2013/04/22/comedy-central-decides-to-not-renew-futurama-meaning-that-the-show-may-end-on-september-4-2013.md)
-_Context: Futurama, Comedy Central_
+_Context: Comedy Central, Futurama_
 
 ##### News Corporation
 ### [News Corporation agrees to pay $139 million to American shareholders due to the phone hacking scandal. ](/news/2013/04/22/news-corporation-agrees-to-pay-139-million-to-american-shareholders-due-to-the-phone-hacking-scandal.md)
@@ -29,11 +29,11 @@ The company’s board was sued over the phone-hacking scandal and the purchase o
 
 ##### European Union
 ### [The European Union lifts an oil trade embargo it imposed on Syria during the early stages of the civil war to help the finances of the opposition. ](/news/2013/04/22/the-european-union-lifts-an-oil-trade-embargo-it-imposed-on-syria-during-the-early-stages-of-the-civil-war-to-help-the-finances-of-the-oppos.md)
-_Context: European Union, Syria, embargo, Syrian civil war_
+_Context: Syria, European Union, Syrian civil war, embargo_
 
 ##### European Union
 ### [The European Union lifts all sanctions and trade embargoes on Myanmar excluding arms trade and other trade of equipment that could be used for internal repression, citing the improvement of political freedoms. ](/news/2013/04/22/the-european-union-lifts-all-sanctions-and-trade-embargoes-on-myanmar-excluding-arms-trade-and-other-trade-of-equipment-that-could-be-used-f.md)
-_Context: embargo, European Union, Myanmar_
+_Context: embargo, Myanmar, European Union_
 
 ##### Ralph Lauren
 ### [Clothing retailer Ralph Lauren agrees to pay $1.6 million for claims of bribery to public officials in Argentina from 2005 to 2009. ](/news/2013/04/22/clothing-retailer-ralph-lauren-agrees-to-pay-1-6-million-for-claims-of-bribery-to-public-officials-in-argentina-from-2005-to-2009.md)

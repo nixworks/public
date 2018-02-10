@@ -9,7 +9,7 @@ _Context: suicide bomber, Bolivia_
 
 ##### French President
 ### [ French President Jacques Chirac retains his prime minister, Jean-Pierre Raffarin, but asks Raffarin to reform the country's government. ](/news/2004/03/30/french-president-jacques-chirac-retains-his-prime-minister-jean-pierre-raffarin-but-asks-raffarin-to-reform-the-country-s-government.md)
-_Context: Prime Minister, Jean-Pierre Raffarin, Jacques Chirac, French President_
+_Context: French President, Jacques Chirac, Prime Minister, Jean-Pierre Raffarin_
 
 ##### New Jersey
 ### [ New Jersey physicist Greg Olsen pays $20 million to conduct environmental research for eight days aboard the International Space Station. ](/news/2004/03/30/new-jersey-physicist-greg-olsen-pays-20-million-to-conduct-environmental-research-for-eight-days-aboard-the-international-space-station.md)
@@ -17,23 +17,23 @@ Things to do in Miami
 
 ##### Uzbekistan
 ### [ Police in Uzbekistan raid a militant's hideout south of the capital, Tashkent. Fighting has caused 23 deaths in the area. ](/news/2004/03/30/police-in-uzbekistan-raid-a-militant-s-hideout-south-of-the-capital-tashkent-fighting-has-caused-23-deaths-in-the-area.md)
-_Context: Uzbekistan, Tashkent_
+_Context: Tashkent, Uzbekistan_
 
 ##### Philippines
 ### [ The Philippines prevents a "Madrid-level attack" after arresting four members of the Muslim extremist Abu Sayyaf group. ](/news/2004/03/30/the-philippines-prevents-a-madrid-level-attack-after-arresting-four-members-of-the-muslim-extremist-abu-sayyaf-group.md)
-_Context: Philippines, Abu Sayyaf_
+_Context: Abu Sayyaf, Philippines_
 
 ##### White House
 ### [ The White House allows Condoleezza Rice, the president's National Security Advisor, to publicly testify under oath on the investigation into the September 11, 2001 attacks. ](/news/2004/03/30/the-white-house-allows-condoleezza-rice-the-president-s-national-security-advisor-to-publicly-testify-under-oath-on-the-investigation-int.md)
-_Context: White House, September 11, 2001 attacks, Condoleezza Rice, National Security Advisor_
+_Context: White House, September 11, 2001 attacks, National Security Advisor, Condoleezza Rice_
 
 ##### Terrorism Act
 ### [ Eight men are arrested after a series of raids in the UK under the Terrorism Act 2000. Half a ton of ammonium nitrate fertiliser was found during the raids. ](/news/2004/03/30/eight-men-are-arrested-after-a-series-of-raids-in-the-uk-under-the-terrorism-act-2000-half-a-ton-of-ammonium-nitrate-fertiliser-was-found.md)
-_Context: ammonium nitrate, Terrorism Act_
+_Context: Terrorism Act, ammonium nitrate_
 
 ##### SCO v. IBM
 ### [ "SCO v. IBM:" IBM has applied for a declaratory judgment that it does not infringe the SCO Group's copyrights. ](/news/2004/03/30/sco-v-ibm-ibm-has-applied-for-a-declaratory-judgment-that-it-does-not-infringe-the-sco-group-s-copyrights.md)
-_Context: SCO v. IBM, declaratory judgment, SCO Group, IBM_
+_Context: SCO Group, IBM, declaratory judgment, SCO v. IBM_
 
 ## [Previous Day...](/news/2004/03/29/index.md)
 

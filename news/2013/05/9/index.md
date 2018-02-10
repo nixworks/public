@@ -5,7 +5,7 @@ Formats: [HTML](2013/05/9/index.html)  [JSON](2013/05/9/index.json)  [XML](2013/
 
 ##### Prime Minister
 ### [Ali Haider Gillani, the son of former Pakistani Prime Minister Yousaf Raza Gillani, is abducted by unidentified gunmen at an election rally in the city of Multan two days before the May 11 general election. ](/news/2013/05/9/ali-haider-gillani-the-son-of-former-pakistani-prime-minister-yousaf-raza-gillani-is-abducted-by-unidentified-gunmen-at-an-election-rally.md)
-_Context: general election, Prime Minister, Yousaf Raza Gillani, Multan_
+_Context: general election, Yousaf Raza Gillani, Multan, Prime Minister_
 
 ##### Indonesian police
 ### [Indonesian police shoot dead seven terror suspects in raids on the island of Java including some allegedly planning to bomb the Sri Lankan embassy. ](/news/2013/05/9/indonesian-police-shoot-dead-seven-terror-suspects-in-raids-on-the-island-of-java-including-some-allegedly-planning-to-bomb-the-sri-lankan-e.md)
@@ -33,7 +33,7 @@ A gang of cyber-criminals operating in 26 countries stole $45 million by hacking
 
 ##### Government of Australia
 ### [The Australian government announces that it will hold a referendum on recognition of local government in the constitution simultaneously with the federal election on September 14. ](/news/2013/05/9/the-australian-government-announces-that-it-will-hold-a-referendum-on-recognition-of-local-government-in-the-constitution-simultaneously-wit.md)
-_Context: referendum, Senate election, local government, constitution, Government of Australia_
+_Context: referendum, local government, Senate election, Government of Australia, constitution_
 
 ## [Previous Day...](/news/2013/05/8/index.md)
 

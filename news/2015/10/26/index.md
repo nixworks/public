@@ -25,11 +25,11 @@ Defense Secretary Ash Carter said Friday the U.S. is likely to step up military 
 
 ##### Colombian conflict (1964-present)
 ### [At least 11 Colombian Army soldiers and one policeman have been killed in an ELN attack in northeast Colombia. ](/news/2015/10/26/at-least-11-colombian-army-soldiers-and-one-policeman-have-been-killed-in-an-eln-attack-in-northeast-colombia.md)
-_Context: ELN, Colombian conflict (1964-present), Colombia, Colombian Army_
+_Context: ELN, Colombia, Colombian conflict (1964-present), Colombian Army_
 
 ##### MTN Group
 ### [MTN Group is fined $5.2 billion by the Nigerian Communications Commission for failing to disconnect non-registered SIM cards. ](/news/2015/10/26/mtn-group-is-fined-5-2-billion-by-the-nigerian-communications-commission-for-failing-to-disconnect-non-registered-sim-cards.md)
-_Context: Nigerian Communications Commission, SIM, MTN Group_
+_Context: SIM, Nigerian Communications Commission, MTN Group_
 
 ##### Toyota
 ### [Toyota is once again the world's largest carmaker with 7.5 million units sold thus far in 2015, compared to Volkswagen's 7.43 million and General Motors' 7.2 million. ](/news/2015/10/26/toyota-is-once-again-the-world-s-largest-carmaker-with-7-5-million-units-sold-thus-far-in-2015-compared-to-volkswagen-s-7-43-million-and-ge.md)
@@ -69,7 +69,7 @@ Police in Indonesia say they have arrested an alleged Indian underworld don who 
 
 ##### Saudi Arabia
 ### [Saudi Arabia's Supreme Court upholds the death sentence of Shiite cleric Sheikh Nimr al-Nimr, who was found guilty of sedition and other charges following his involvement in the 2011 Arab Spring Movement. ](/news/2015/10/26/saudi-arabia-s-supreme-court-upholds-the-death-sentence-of-shiite-cleric-sheikh-nimr-al-nimr-who-was-found-guilty-of-sedition-and-other-cha.md)
-_Context: Shiite cleric, Saudi Arabia, Arab Spring, Supreme Court, Sheikh Nimr, sedition_
+_Context: Arab Spring, Supreme Court, sedition, Shiite cleric, Saudi Arabia, Sheikh Nimr_
 
 ##### Saudi Royal Family
 ### [A member of the Saudi Royal Family and four other people are detained in Lebanon for attempting to smuggle about two tons of Captagon pills and some cocaine on a private jet. This is the largest drug seizure in the history of Beirut's Rafik Hariri International Airport, according to Lebanon's state-run National News Agency. ](/news/2015/10/26/a-member-of-the-saudi-royal-family-and-four-other-people-are-detained-in-lebanon-for-attempting-to-smuggle-about-two-tons-of-captagon-pills.md)
@@ -77,7 +77,7 @@ Prince among five Saudis detained over seizure of two tonnes of amphetamines and
 
 ##### Israel
 ### [Israeli Prime Minister Benjamin Netanyahu orders a review of the status of certain Palestinian neighborhoods in East Jerusalem. Netanyahu says he is considering revoking residency status for Palestinians living there, according to Israel's Channel 2. ](/news/2015/10/26/israeli-prime-minister-benjamin-netanyahu-orders-a-review-of-the-status-of-certain-palestinian-neighborhoods-in-east-jerusalem-netanyahu-sa.md)
-_Context: Palestinians, Israeli Prime Minister, Israel's Channel 2, East Jerusalem, Benjamin Netanyahu, Israel, Arab citizen_
+_Context: Arab citizen, Palestinians, Benjamin Netanyahu, East Jerusalem, Israeli Prime Minister, Israel's Channel 2, Israel_
 
 ##### Gun politics in the United States
 ### [Leaders of nine national law enforcement groups, at the annual International Association of Chiefs of Police conference in Chicago, Illinois, call on federal lawmakers to strengthen background checks on gun purchases. ](/news/2015/10/26/leaders-of-nine-national-law-enforcement-groups-at-the-annual-international-association-of-chiefs-of-police-conference-in-chicago-illinois.md)

@@ -13,23 +13,23 @@ _Context: Colombia, FARC_
 
 ##### Australian Prime Minister
 ### [The Prime Minister of Australia, Kevin Rudd, announces a plan to settle asylum seekers who come by boat in Papua New Guinea. ](/news/2013/07/19/the-prime-minister-of-australia-kevin-rudd-announces-a-plan-to-settle-asylum-seekers-who-come-by-boat-in-papua-new-guinea.md)
-_Context: Kevin Rudd, asylum seeker, Papua New Guinea, Australian Prime Minister_
+_Context: Kevin Rudd, asylum seeker, Australian Prime Minister, Papua New Guinea_
 
 ##### Pope Francis
 ### [Pope Francis names a new Pontifical Commission to investigate current accounting practices among all Vatican offices and bodies and to help devise new strategies for greater fiscal responsibility and fiscal transparency. ](/news/2013/07/19/pope-francis-names-a-new-pontifical-commission-to-investigate-current-accounting-practices-among-all-vatican-offices-and-bodies-and-to-help.md)
-_Context: Pontifical Commission, accounting, Pope Francis, fiscal transparency, Holy See, fiscal responsibility_
+_Context: Holy See, Pontifical Commission, Pope Francis, fiscal transparency, accounting, fiscal responsibility_
 
 ##### Russian court
 ### [A Russian court releases Kremlin critic Alexei Navalny a day after being sentenced for alleged embezzlement. ](/news/2013/07/19/a-russian-court-releases-kremlin-critic-alexei-navalny-a-day-after-being-sentenced-for-alleged-embezzlement.md)
-_Context: Alexei Navalny, Russian court, embezzlement_
+_Context: embezzlement, Alexei Navalny, Russian court_
 
 ##### Cambodia
 ### [Cambodian opposition leader Sam Rainsy returns home to contest the general election after receiving a royal pardon for a conviction in 2009. ](/news/2013/07/19/cambodian-opposition-leader-sam-rainsy-returns-home-to-contest-the-general-election-after-receiving-a-royal-pardon-for-a-conviction-in-2009.md)
-_Context: Sam Rainsy, July elections, Cambodia_
+_Context: July elections, Cambodia, Sam Rainsy_
 
 ##### Muslim Brotherhood
 ### [The Muslim Brotherhood calls for millions of supporters to hold rallies across Egypt two weeks after Mohamed Morsi was deposed as president. ](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.md)
-_Context: coup d'tat, Muslim Brotherhood, Mohamed Morsi, Egypt_
+_Context: Egypt, coup d'tat, Muslim Brotherhood, Mohamed Morsi_
 
 ## [Previous Day...](/news/2013/07/18/index.md)
 

@@ -5,7 +5,7 @@ Formats: [HTML](2014/05/19/index.html)  [JSON](2014/05/19/index.json)  [XML](201
 
 ##### Chinese
 ### [Two Chinese workers are kidnapped from a controversial copper mine in Burma by activists. ](/news/2014/05/19/two-chinese-workers-are-kidnapped-from-a-controversial-copper-mine-in-burma-by-activists.md)
-_Context: Burma, Chinese_
+_Context: Chinese, Burma_
 
 ##### Russian President
 ### [Russia's President Vladimir Putin says he ordered troops in the Rostov, Belgorod and Bryansk regions to withdraw and return to their permanent bases. ](/news/2014/05/19/russia-s-president-vladimir-putin-says-he-ordered-troops-in-the-rostov-belgorod-and-bryansk-regions-to-withdraw-and-return-to-their-permane.md)
@@ -25,7 +25,7 @@ _Context: Pyongyang, North Korea_
 
 ##### Seoul Metropolitan Subway
 ### [An electrical problem causes an explosion south of Seoul in Seoul Metropolitan Subway Gunpo station, injuring 11 people. ](/news/2014/05/19/an-electrical-problem-causes-an-explosion-south-of-seoul-in-seoul-metropolitan-subway-gunpo-station-injuring-11-people.md)
-_Context: Seoul Metropolitan Subway, Gunpo_
+_Context: Gunpo, Seoul Metropolitan Subway_
 
 ##### Department of Justice
 ### [The United States Department of Justice charges five Chinese military officers with hacking into private-sector American companies in a bid for competitive advantage. ](/news/2014/05/19/the-united-states-department-of-justice-charges-five-chinese-military-officers-with-hacking-into-private-sector-american-companies-in-a-bid.md)
@@ -37,7 +37,7 @@ _Context: Libya, Saudi Arabia, Tripoli_
 
 ##### Same-sex couples
 ### [Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-u-s-federal-district-court-judge-rules-that-the-state-s-ban-on-such-marriages-violates-equal.md)
-_Context: same-sex couples, Oregon, Constitution_
+_Context: same-sex couples, Constitution, Oregon_
 
 ##### Egypt
 ### [An Egyptian court acquits 169 Muslim Brotherhood members for charges relating to unrest that followed the ousting of former Egyptian President Mohamed Morsi. ](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.md)

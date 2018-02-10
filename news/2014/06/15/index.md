@@ -5,7 +5,7 @@ Formats: [HTML](2014/06/15/index.html)  [JSON](2014/06/15/index.json)  [XML](201
 
 ##### Syrian Civil War
 ### [The Syrian Military retakes control of Kessab in north-western Syria. ](/news/2014/06/15/the-syrian-military-retakes-control-of-kessab-in-north-western-syria.md)
-_Context: Kessab, Syrian Military, Syrian Civil War, Syria_
+_Context: Syrian Military, Syrian Civil War, Kessab, Syria_
 
 ##### War in North-West Pakistan
 ### [Airstrikes in the northwestern tribal area bordering Afghanistan kill as many as 100 militants. ](/news/2014/06/15/airstrikes-in-the-northwestern-tribal-area-bordering-afghanistan-kill-as-many-as-100-militants.md)
@@ -17,7 +17,7 @@ _Context: Yemen, Aden_
 
 ##### United States
 ### [The United States evacuates personnel from its embassy in Baghdad as Islamic State in Iraq and the Levant nears the city. ](/news/2014/06/15/the-united-states-evacuates-personnel-from-its-embassy-in-baghdad-as-islamic-state-in-iraq-and-the-levant-nears-the-city.md)
-_Context: Baghdad, United States, Islamic State in Iraq and the Levant_
+_Context: Islamic State in Iraq and the Levant, Baghdad, United States_
 
 ##### Islamist
 ### [Islamist militants kill dozens of people in the Kenyan town of Mpeketoni in the Lamu Archipelago in a four hour series of attacks on hotels. ](/news/2014/06/15/islamist-militants-kill-dozens-of-people-in-the-kenyan-town-of-mpeketoni-in-the-lamu-archipelago-in-a-four-hour-series-of-attacks-on-hotels.md)
@@ -25,7 +25,7 @@ Attackers flying flags of Somalia&#039;s al-Shabaab carry out deadliest attack o
 
 ##### Gold
 ### [A report by the Official Monetary and Financial Institutions Forum finds that total global investments, including gold and stock, by public investors, such as central banks, sovereign wealth funds, and pension funds, now total $29.1 trillion. ](/news/2014/06/15/a-report-by-the-official-monetary-and-financial-institutions-forum-finds-that-total-global-investments-including-gold-and-stock-by-public.md)
-_Context: central banks, sovereign wealth funds, pension funds, stock, gold_
+_Context: central banks, stock, sovereign wealth funds, pension funds, gold_
 
 ##### Medtronic
 ### [Medtronic agrees to purchase Covidien for US$42.9 billion. ](/news/2014/06/15/medtronic-agrees-to-purchase-covidien-for-us-42-9-billion.md)

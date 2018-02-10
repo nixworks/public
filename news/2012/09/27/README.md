@@ -17,7 +17,7 @@ _Context: Myanmar, United States_
 
 ##### Los Angeles
 ### [A Los Angeles jury finds David Viens, the Lomita chef who told authorities that he cooked his dead wife's body to dispose of it, guilty of second-degree murder. ](/news/2012/09/27/a-los-angeles-jury-finds-david-viens-the-lomita-chef-who-told-authorities-that-he-cooked-his-dead-wifeas-body-to-dispose-of-it-guilty-of.md)
-_Context: David Viens, Lomita, second-degree murder, Los Angeles, chef_
+_Context: second-degree murder, chef, Los Angeles, David Viens, Lomita_
 
 ##### Nakoula Basseley Nakoula
 ### [Nakoula Basseley Nakoula, alleged producer of the film "Innocence of Muslims" and the trailer of which contributed to widespread attacks and protests, is arrested for violating the probation terms of his release after a conviction for bank fraud. ](/news/2012/09/27/nakoula-basseley-nakoula-alleged-producer-of-the-film-innocence-of-muslims-and-the-trailer-of-which-contributed-to-widespread-attacks-and.md)
@@ -29,11 +29,11 @@ _Context: Ivan Velazquez Caballero, San Luis Potosi, Los Zetas_
 
 ##### Northwestern University
 ### [The body of a missing Northwestern University student, a sophomore in the School of Engineering there, is found in Wilmette Harbor on Lake Michigan; police have thus far found no signs of foul play, but his family believes he had been kidnapped and had offered a $25,000 reward. ](/news/2012/09/27/the-body-of-a-missing-northwestern-university-student-a-sophomore-in-the-school-of-engineering-there-is-found-in-wilmette-harbor-on-lake-m.md)
-_Context: Wilmette, Northwestern University_
+_Context: Northwestern University, Wilmette_
 
 ##### Mass shooting
 ### [A mass shooting takes place at Accent Signage Systems, a sign company in Minneapolis, Minnesota, United States; five people are killed, including the gunman who committed suicide, and four others are wounded. ](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.md)
-_Context: Minneapolis, Minnesota, mass shooting_
+_Context: Minnesota, mass shooting, Minneapolis_
 
 ##### Parliament of Catalonia
 ### [The Parliament of Catalonia votes in favor of a resolution to hold a referendum on self-determination. ](/news/2012/09/27/the-parliament-of-catalonia-votes-in-favor-of-a-resolution-to-hold-a-referendum-on-self-determination.md)

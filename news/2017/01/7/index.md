@@ -29,7 +29,7 @@ U.S. Consulate in Guadalajara says FBI is offering $20,000 reward for informatio
 
 ##### President
 ### [Former President and Prime Minister of Portugal Mario Soares dies at the age of 92. ](/news/2017/01/7/former-president-and-prime-minister-of-portugal-ma-rio-soares-dies-at-the-age-of-92.md)
-_Context: Prime Minister of Portugal, President, Mario Soares_
+_Context: Mario Soares, President, Prime Minister of Portugal_
 
 ##### Nana Akufo-Addo
 ### [Nana Akufo-Addo is sworn in as the fifth President of Ghana. ](/news/2017/01/7/nana-akufo-addo-is-sworn-in-as-the-fifth-president-of-ghana.md)

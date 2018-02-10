@@ -5,7 +5,7 @@ Formats: [HTML](2014/11/14/index.html)  [JSON](2014/11/14/index.json)  [XML](201
 
 ##### Islamic State of Iraq and Syria
 ### [Iraqi forces expel ISIS from the refinery town of Baiji in northern Iraq. ](/news/2014/11/14/iraqi-forces-expel-isis-from-the-refinery-town-of-baiji-in-northern-iraq.md)
-_Context: Baiji, Iraq, Iraqi forces, refinery, Islamic State of Iraq and Syria_
+_Context: Baiji, Islamic State of Iraq and Syria, Iraqi forces, refinery, Iraq_
 
 ##### Russia
 ### [Russia plans an "alternative Wikipedia". ](/news/2014/11/14/russia-plans-an-alternative-wikipedia.md)
@@ -17,7 +17,7 @@ Sweden releases a sonar image it says is proof that a foreign submarine entered 
 
 ##### Prime Minister of Japan
 ### [Japanese Prime Minister Shinzo Abe is preparing to dissolve the Lower House of the Diet on Tuesday and call a snap election on December 14th in order to seek a public mandate on whether to delay a scheduled increase in the consumption tax. ](/news/2014/11/14/japanese-prime-minister-shinzo-abe-is-preparing-to-dissolve-the-lower-house-of-the-diet-on-tuesday-and-call-a-snap-election-on-december-14th.md)
-_Context: Prime Minister of Japan, snap election, on December 14th, Shinzo Abe, House of Representatives_
+_Context: Prime Minister of Japan, House of Representatives, snap election, Shinzo Abe, on December 14th_
 
 ## [Previous Day...](/news/2014/11/13/index.md)
 

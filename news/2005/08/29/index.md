@@ -9,15 +9,15 @@ _Context: landfall, New Orleans, UTC, Hurricane Katrina, CDT_
 
 ##### NSW
 ### [ New South Wales Opposition Leader, John Brogden, resigns from the leadership of the NSW Liberal Party after describing Helena Carr, wife of former Premier Bob Carr, as a "mail-order bride" and sexually harassing two female journalists. Brogden will remain Member for Pittwater until at least the next state election. ](/news/2005/08/29/new-south-wales-opposition-leader-john-brogden-resigns-from-the-leadership-of-the-nsw-liberal-party-after-describing-helena-carr-wife-of.md)
-_Context: NSW, John Brogden, Opposition, Helena Carr, Bob Carr, Premier, mail-order bride, Liberals, Member for Pittwater_
+_Context: Liberals, NSW, Bob Carr, Member for Pittwater, John Brogden, Opposition, Premier, mail-order bride, Helena Carr_
 
 ##### Nigeria
 ### [ The Nigerian Vice President's home in Maryland, USA was raided by the FBI. Atiku Abubakar's relations with President Olusegun Obasanjo have cooled and it is possible he might use the pretext of the FBI corruption investigation to dismiss him.](/news/2005/08/29/the-nigerian-vice-president-s-home-in-maryland-usa-was-raided-by-the-fbi-atiku-abubakar-s-relations-with-president-olusegun-obasanjo-have.md)
-_Context: corruption, Olusegun Obasanjo, Atiku Abubakar, FBI, Nigeria, President, Maryland_
+_Context: Atiku Abubakar, Olusegun Obasanjo, corruption, President, FBI, Maryland, Nigeria_
 
 ##### European Union
 ### [ Countries of the European Union attempt to work out a deal to end the "bra wars", the Chinese textile import row. ](/news/2005/08/29/countries-of-the-european-union-attempt-to-work-out-a-deal-to-end-the-bra-wars-the-chinese-textile-import-row.md)
-_Context: European Union, textile, bra wars_
+_Context: bra wars, European Union, textile_
 
 ## [Previous Day...](/news/2005/08/28/index.md)
 

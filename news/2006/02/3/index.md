@@ -5,7 +5,7 @@ Formats: [HTML](2006/02/3/index.html)  [JSON](2006/02/3/index.json)  [XML](2006/
 
 ##### Jamal al-Bedawi
 ### [ Jamal al-Bedawi, who masterminded the USS "Cole" bombing, and Fawaz al-Rabeiee, who planned the 2002 attack on the French tanker "Limburg", escape from a prison in Yemen along with 22 other prisoners, 12 of whom were convicted members of Al-Qaida. ](/news/2006/02/3/jamal-al-bedawi-who-masterminded-the-uss-cole-bombing-and-fawaz-al-rabeiee-who-planned-the-2002-attack-on-the-french-tanker-limburg.md)
-_Context: Fawaz al-Rabeiee, USS ''Cole'' bombing, Al-Qaida, 2002 attack on the French tanker ''Limburg'', Yemen, Jamal al-Bedawi_
+_Context: 2002 attack on the French tanker ''Limburg'', Yemen, Al-Qaida, Fawaz al-Rabeiee, Jamal al-Bedawi, USS ''Cole'' bombing_
 
 ##### Persona non grata
 ### [ The United States expels Venezuelan diplomat Jeny Figueredo Frias in retaliation for yesterday's expulsion of suspected US spy John Correa from Venezuela. A State Department spokesman described the move as part of "tit-for-tat diplomatic games". ](/news/2006/02/3/the-united-states-expels-venezuelan-diplomat-jeny-figueredo-frias-in-retaliation-for-yesterday-s-expulsion-of-suspected-us-spy-john-correa.md)
@@ -13,19 +13,19 @@ _Context: State Department, persona non grata, Venezuela_
 
 ##### IAEA
 ### [ The International Atomic Energy Agency has deferred until Saturday a vote on whether to report Iran to the UN Security Council over concerns its nuclear programs may produce weapons. ](/news/2006/02/3/the-international-atomic-energy-agency-has-deferred-until-saturday-a-vote-on-whether-to-report-iran-to-the-un-security-council-over-concern.md)
-_Context: Iran, United Nations Security Council, IAEA_
+_Context: IAEA, Iran, United Nations Security Council_
 
 ##### Assassination
 ### [ A plot to assassinate President Mikhail Saakashvili of Georgia by shooting down his helicopter has been foiled. ](/news/2006/02/3/a-plot-to-assassinate-president-mikhail-saakashvili-of-georgia-by-shooting-down-his-helicopter-has-been-foiled.md)
-_Context: President of Georgia, Mikhail Saakashvili,  Georgian, helicopter, assassination_
+_Context: President of Georgia, assassination, helicopter,  Georgian, Mikhail Saakashvili_
 
 ##### EuroMillions
 ### [ Queues build up at vendors as the EuroMillions lottery offers a jackpot of EUR180 million after 11 successive rollovers (statistically expected once in 25 years). Some British vendors report a 1200% increase in sales. EuroMillions tickets are sold in Austria, Belgium. France, Ireland, Luxembourg, Portugal, Spain, Switzerland and the United Kingdom. An Irish woman won EUR115,436,126 last July. ](/news/2006/02/3/queues-build-up-at-vendors-as-the-euromillions-lottery-offers-a-jackpot-of-a-180-million-after-11-successive-rollovers-statistically-expe.md)
-_Context: Luxembourg, lottery, EuroMillions, EUR_
+_Context: Luxembourg, lottery, EUR, EuroMillions_
 
 ##### Car bombs
 ### [ Two car bombs explode minutes apart in southern Baghdad, killing at least 16 people and wounding more than 90 others. ](/news/2006/02/3/two-car-bombs-explode-minutes-apart-in-southern-baghdad-killing-at-least-16-people-and-wounding-more-than-90-others.md)
-_Context: Baghdad, car bombs_
+_Context: car bombs, Baghdad_
 
 ##### Earthquake
 ### [ A strong earthquake registering magnitude 5.9 shakes northeastern Japan, but there is no danger of a tsunami. ](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.md)
@@ -41,7 +41,7 @@ Defense Secretary Donald H. Rumsfeld likened Venezuelan President Hugo Chavez to
 
 ##### D66
 ### [ Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. ](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.md)
-_Context: D66, International Security Assistance Force, Afghanistan, Boris Dittrich, NATO_
+_Context: D66, Afghanistan, Boris Dittrich, NATO, International Security Assistance Force_
 
 ## [Previous Day...](/news/2006/02/2/index.md)
 

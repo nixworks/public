@@ -17,7 +17,7 @@ A bomb explodes during a political meeting near the Nigerian capital, Abuja, lea
 
 ##### Frankfurt Airport
 ### [The suspect in a deadly attack on US airmen at Frankfurt Airport allegedly targeted US servicemen and had portrayed himself as an Islamist on the Internet according to German sources. ](/news/2011/03/3/the-suspect-in-a-deadly-attack-on-us-airmen-at-frankfurt-airport-allegedly-targeted-us-servicemen-and-had-portrayed-himself-as-an-islamist-o.md)
-_Context: Islamist, Frankfurt Airport_
+_Context: Frankfurt Airport, Islamist_
 
 ##### Ivory Coast
 ### [Ivory Coast security forces kill at least six women marching in support of Opposition leader Alassane Ouattara in Abidjan. ](/news/2011/03/3/ivory-coast-security-forces-kill-at-least-six-women-marching-in-support-of-opposition-leader-alassane-ouattara-in-abidjan.md)
@@ -33,7 +33,7 @@ UN agency says food prices at highest point in 20 years, as a result of stockpil
 
 ##### News Corporation
 ### [News Corporation, the third largest media company in the world, gets approval to buy out British Sky Broadcasting, the largest pay-TV broadcaster in the United Kingdom, for $12.7 billion. ](/news/2011/03/3/news-corporation-the-third-largest-media-company-in-the-world-gets-approval-to-buy-out-british-sky-broadcasting-the-largest-pay-tv-broadc.md)
-_Context: Media conglomerate, News Corporation, British Sky Broadcasting_
+_Context: British Sky Broadcasting, Media conglomerate, News Corporation_
 
 ##### WordPress.com
 ### [WordPress.com, a leading weblog host, is subjected to a huge Distributed Denial of Service attack. ](/news/2011/03/3/wordpress-com-a-leading-weblog-host-is-subjected-to-a-huge-distributed-denial-of-service-attack.md)
@@ -45,7 +45,7 @@ _Context: Airfare, jet fuel_
 
 ##### Mazda
 ### [Mazda recalls approximately 50,000 Mazda6 sedans after finding that a spider web could cause the fuel tank to crack and leak. ](/news/2011/03/3/mazda-recalls-approximately-50-000-mazda6-sedans-after-finding-that-a-spider-web-could-cause-the-fuel-tank-to-crack-and-leak.md)
-_Context: fuel tank, spider web, Mazda, sedan, Mazda6_
+_Context: fuel tank, spider web, Mazda6, Mazda, sedan_
 
 ##### 2011 Canterbury earthquake
 ### [New Zealand authorities state that they have given up finding survivors from the 2011 Canterbury earthquake with the final death toll expected to be approximately 240. ](/news/2011/03/3/new-zealand-authorities-state-that-they-have-given-up-finding-survivors-from-the-2011-canterbury-earthquake-with-the-final-death-toll-expect.md)
@@ -57,11 +57,11 @@ _Context: gorge_
 
 ##### President
 ### [The President of Mexico Felipe Caldern travels to Washington, D.C., to meet with the President of the United States Barack Obama, the Speaker of the United States House of Representatives and other leading political figures. ](/news/2011/03/3/the-president-of-mexico-felipe-calderon-travels-to-washington-d-c-to-meet-with-the-president-of-the-united-states-barack-obama-the-speak.md)
-_Context: U.S. Speaker of the House of Representatives, President, Barack Obama, Felipe Caldern_
+_Context: President, Felipe Caldern, Barack Obama, U.S. Speaker of the House of Representatives_
 
 ##### Robert Levinson
 ### [The United States reports that it has proof that Robert Levinson, a retired FBI agent missing in Iran since 2007, is alive. ](/news/2011/03/3/the-united-states-reports-that-it-has-proof-that-robert-levinson-a-retired-fbi-agent-missing-in-iran-since-2007-is-alive.md)
-_Context: Robert Levinson, Iran, FBI_
+_Context: Robert Levinson, FBI, Iran_
 
 ##### Bradley Manning
 ### [22 new charges are brought against Bradley Manning, including aiding the enemy, a capital offense. ](/news/2011/03/3/22-new-charges-are-brought-against-bradley-manning-including-aiding-the-enemy-a-capital-offense.md)
@@ -69,7 +69,7 @@ The US Army charges a soldier held in connection with the leak of US government 
 
 ##### White supremacist
 ### [White supremacist David Lynch, the co-founder of the American Front, is killed in Sacramento County, California with police detaining a person in connection with the incident. ](/news/2011/03/3/white-supremacist-david-lynch-the-co-founder-of-the-american-front-is-killed-in-sacramento-county-california-with-police-detaining-a-pers.md)
-_Context: Sacramento County, California, David Lynch, American Front, White supremacist_
+_Context: David Lynch, Sacramento County, California, American Front, White supremacist_
 
 ##### Target Corporation
 ### [Target Corporation pays $22.5 million to settle claims of toxic waste dumping in the city of Los Angeles and elsewhere in the US state of California. ](/news/2011/03/3/target-corporation-pays-22-5-million-to-settle-claims-of-toxic-waste-dumping-in-the-city-of-los-angeles-and-elsewhere-in-the-us-state-of-ca.md)
@@ -85,7 +85,7 @@ Republicans in both chambers of Congress introduced bills on Thursday that would
 
 ##### Congress of New Caledonia
 ### [The Congress of New Caledonia elects a new collegial government with Harold Martin as President of New Caledonia. However, the new government collapses minutes after being formed. ](/news/2011/03/3/the-congress-of-new-caledonia-elects-a-new-collegial-government-with-harold-martin-as-president-of-new-caledonia-however-the-new-governmen.md)
-_Context: President of New Caledonia, Harold Martin, Congress of New Caledonia_
+_Context: President of New Caledonia, Congress of New Caledonia, Harold Martin_
 
 ##### Anti-corruption
 ### [P. J. Thomas, India's chief of anti-corruption, resigns over charges brought against him of corruption stemming from 1992. ](/news/2011/03/3/p-j-thomas-india-s-chief-of-anti-corruption-resigns-over-charges-brought-against-him-of-corruption-stemming-from-1992.md)
@@ -93,7 +93,7 @@ _Context: anti-corruption_
 
 ##### Ahmed Shafiq
 ### [Ahmed Shafiq resigns as the Prime Minister of Egypt and is replaced by former transport minister Essam Sharaf. ](/news/2011/03/3/ahmed-shafiq-resigns-as-the-prime-minister-of-egypt-and-is-replaced-by-former-transport-minister-essam-sharaf.md)
-_Context: Prime Minister of Egypt, Essam Sharaf, Ahmed Shafiq_
+_Context: Prime Minister of Egypt, Ahmed Shafiq, Essam Sharaf_
 
 ##### 2011 Wisconsin budget protests
 ### [The Wisconsin Senate orders the arrest of 14 Democrat members who have been absent as part of the protests. ](/news/2011/03/3/the-wisconsin-senate-orders-the-arrest-of-14-democrat-members-who-have-been-absent-as-part-of-the-protests.md)
@@ -105,7 +105,7 @@ Get the latest breaking news across the U.S. on ABCNews.com
 
 ##### U.S. Speaker of the House of Representatives
 ### [Former Speaker of the United States House of Representatives Newt Gingrich announces plans to explore a bid for the Republican Party nomination in the 2012 US Presidential election. ](/news/2011/03/3/former-speaker-of-the-united-states-house-of-representatives-newt-gingrich-announces-plans-to-explore-a-bid-for-the-republican-party-nominat.md)
-_Context: United States presidential election, 2012, U.S. Speaker of the House of Representatives, Newt Gingrich, Republican_
+_Context: Newt Gingrich, U.S. Speaker of the House of Representatives, United States presidential election, 2012, Republican_
 
 ##### Constituency
 ### [Voters in the English constituency of Barnsley Central go to the polls for a by-election with Dan Jarvis of the Labour Party being elected with a strong swing in his favour. ](/news/2011/03/3/voters-in-the-english-constituency-of-barnsley-central-go-to-the-polls-for-a-by-election-with-dan-jarvis-of-the-labour-party-being-elected-w.md)
@@ -113,7 +113,7 @@ Labour hold the Barnsley Central seat in a by-election, while the Lib Dems slip 
 
 ##### Fouad Mebazaa
 ### [Fouad Mebazaa, the acting President of Tunisia, has called an election on July 24 to appoint a council to rewrite the constitution. ](/news/2011/03/3/fouad-mebazaa-the-acting-president-of-tunisia-has-called-an-election-on-july-24-to-appoint-a-council-to-rewrite-the-constitution.md)
-_Context: President of Tunisia, Fouad Mebazaa, constitution_
+_Context: constitution, President of Tunisia, Fouad Mebazaa_
 
 ##### 10 Downing Street
 ### [The UK Government releases 35 formerly classified files related to sightings of unidentified flying objects. ](/news/2011/03/3/the-uk-government-releases-35-formerly-classified-files-related-to-sightings-of-unidentified-flying-objects.md)
@@ -121,7 +121,7 @@ The government Thursday released 35 previously classified files documenting sigh
 
 ##### Daily Telegraph
 ### ["The Daily Telegraph" claims that German anaesthetist Joachim Boldt has conducted "fraudulent research" into drugs called colloids. ](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.md)
-_Context: Daily Telegraph, colloid, anaesthetist, Joachim Boldt_
+_Context: Daily Telegraph, colloid, Joachim Boldt, anaesthetist_
 
 ## [Previous Day...](/news/2011/03/2/index.md)
 

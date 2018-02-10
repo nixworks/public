@@ -9,11 +9,11 @@ _Context: Canadian, Robert Pickton_
 
 ##### Ice storms
 ### [ A series of ice storms across the central United States kills at least 24 and leaves nearly 1 million homes and businesses without electricity. ](/news/2007/12/11/a-series-of-ice-storms-across-the-central-united-states-kills-at-least-24-and-leaves-nearly-1-million-homes-and-businesses-without-electric.md)
-_Context: central United States, ice storms_
+_Context: ice storms, central United States_
 
 ##### President
 ### [ The former President of Peru, Alberto Fujimori, is sentenced to six years in prison for ordering a warrantless search while in office. ](/news/2007/12/11/the-former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-prison-for-ordering-a-warrantless-search-while-in-office.md)
-_Context: warrantless search, President, Alberto Fujimori, Peru_
+_Context: Alberto Fujimori, President, Peru, warrantless search_
 
 ##### United States
 ### [ The United States Federal Reserve cuts federal funds rates and discount rates by a quarter of a percentage point to 4.25% and 4.75% respectively, signaling its concerns about the impact of the subprime mortgage financial crisis on the United States economy. ](/news/2007/12/11/the-united-states-federal-reserve-cuts-federal-funds-rates-and-discount-rates-by-a-quarter-of-a-percentage-point-to-4-25-and-4-75-respect.md)

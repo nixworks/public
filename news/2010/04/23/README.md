@@ -5,11 +5,11 @@ Formats: [HTML](2010/04/23/index.html)  [JSON](2010/04/23/index.json)  [XML](201
 
 ##### Gin
 ### [80 people die after drinking illegal home-made banana gin (waragi) laced with methanol in Kabale, Uganda ](/news/2010/04/23/80-people-die-after-drinking-illegal-home-made-banana-gin-waragi-laced-with-methanol-in-kabale-uganda.md)
-_Context: Uganda, waragi, Kabale, gin, methanol_
+_Context: waragi, Kabale, Uganda, methanol, gin_
 
 ##### Yesterday's series of bombings
 ### [Dozens of people are killed and more than 100 others are wounded by a series of bomb explosions in Baghdad, mostly near Shia mosques around the time of Jumu'ah ](/news/2010/04/23/dozens-of-people-are-killed-and-more-than-100-others-are-wounded-by-a-series-of-bomb-explosions-in-baghdad-mostly-near-shia-mosques-around.md)
-_Context: Shia, mosque, Friday mass prayer, Baghdad, yesterday's series of bombings_
+_Context: Shia, Friday mass prayer, yesterday's series of bombings, mosque, Baghdad_
 
 ##### Gang
 ### [Seven people, including six police officers and a civilian, are killed and two other officers are injured in a shoot-out with suspected gang hitmen in Ciudad Juarez. ](/news/2010/04/23/seven-people-including-six-police-officers-and-a-civilian-are-killed-and-two-other-officers-are-injured-in-a-shoot-out-with-suspected-gang.md)
@@ -17,19 +17,19 @@ Initial reports say they were ambushed in an attack that investigators said migh
 
 ##### Angelina Teny
 ### [Two supporters of defeated independent state candidate Angelina Teny are killed by police and four others are injured during post-election protests in Bentiu. ](/news/2010/04/23/two-supporters-of-defeated-independent-state-candidate-angelina-teny-are-killed-by-police-and-four-others-are-injured-during-post-election-p.md)
-_Context: Bentiu, post-election protests, Angelina Teny_
+_Context: Angelina Teny, post-election protests, Bentiu_
 
 ##### Xinjiang Uyghur Autonomous Region
 ### [In a major transfer of power in the Xinjiang Uyghur Autonomous Region of China, Zhang Chunxian replaces Wang Lequan as the region's Party Committee Secretary; Wang has served in the post since 1994. ](/news/2010/04/23/in-a-major-transfer-of-power-in-the-xinjiang-uyghur-autonomous-region-of-china-zhang-chunxian-replaces-wang-lequan-as-the-region-s-party-co.md)
-_Context: Wang Lequan, Xinjiang Uyghur Autonomous Region, CPC party chief, Zhang Chunxian_
+_Context: Xinjiang Uyghur Autonomous Region, CPC party chief, Zhang Chunxian, Wang Lequan_
 
 ##### Red shirt
 ### [Red Shirt leader Veera Musikapong agrees to end the protests in Bangkok if the government agrees to dissolve parliament and hold elections within 90 days. ](/news/2010/04/23/red-shirt-leader-veera-musikapong-agrees-to-end-the-protests-in-bangkok-if-the-government-agrees-to-dissolve-parliament-and-hold-elections-w.md)
-_Context: Veera Musikapong, 2010 Thai political protests, Parliament, red shirt_
+_Context: red shirt, Parliament, Veera Musikapong, 2010 Thai political protests_
 
 ##### Greece
 ### [Greece activates the EUR45 billion aid package it was offered by Europe earlier in the month to combat the country's debt crisis. ](/news/2010/04/23/greece-activates-the-a-45-billion-aid-package-it-was-offered-by-europe-earlier-in-the-month-to-combat-the-country-s-debt-crisis.md)
-_Context: European Union, Greece, downgrades_
+_Context: downgrades, European Union, Greece_
 
 ##### Face transplant
 ### [A Spanish hospital claims to have performed the world's "first full-face transplant". ](/news/2010/04/23/a-spanish-hospital-claims-to-have-performed-the-world-s-first-full-face-transplant.md)
@@ -53,15 +53,15 @@ Israel&#39;s prime minister on Thursday rejected U.S. calls to halt construction
 
 ##### Newtownhamilton
 ### [A car bomb explodes outside a police station in Newtownhamilton, County Armagh, Northern Ireland. ](/news/2010/04/23/a-car-bomb-explodes-outside-a-police-station-in-newtownhamilton-county-armagh-northern-ireland.md)
-_Context: County Armagh, Newtownhamilton, Northern Ireland_
+_Context: Northern Ireland, Newtownhamilton, County Armagh_
 
 ##### North Korea
 ### [North Korea seizes five properties owned by South Korea in Kumgangsan. ](/news/2010/04/23/north-korea-seizes-five-properties-owned-by-south-korea-in-kamgangsan.md)
-_Context: Kumgangsan, South Korea, North Korea_
+_Context: South Korea, Kumgangsan, North Korea_
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad opens a trade fair in Bulawayo on his tour of Zimbabwe as the country's President Robert Mugabe back's Iran's "just cause" for developing nuclear energy. ](/news/2010/04/23/president-of-iran-mahmoud-ahmadinejad-opens-a-trade-fair-in-bulawayo-on-his-tour-of-zimbabwe-as-the-country-s-president-robert-mugabe-back-s.md)
-_Context: President, Robert Mugabe, Zimbabwe, President, Bulawayo, Mahmoud Ahmadinejad_
+_Context: Zimbabwe, Bulawayo, President, President, Robert Mugabe, Mahmoud Ahmadinejad_
 
 ##### France
 ### [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md)
@@ -81,11 +81,11 @@ _Context: China, Ministry of Human Resources and Social Security, MOHRSS_
 
 ##### Arizona
 ### [Arizona governor Jan Brewer signs the state's controversial immigrant detention bill into law. Supporters say it will take 'the handcuffs' off police; opponents say it will violate people's civil rights. ](/news/2010/04/23/arizona-governor-jan-brewer-signs-the-state-s-controversial-immigrant-detention-bill-into-law-supporters-say-it-will-take-the-handcuffs-o.md)
-_Context: Arizona, Jan Brewer, civil rights_
+_Context: Jan Brewer, Arizona, civil rights_
 
 ##### Kangchenjunga
 ### [The 2009 ascent of Kangchenjunga by Korean climber Oh Eun-sun, aiming to be the first woman to climb the 14 highest peaks on Earth, is declared "disputed" by Himalayan climbing records arbiter, Elizabeth Hawle. ](/news/2010/04/23/the-2009-ascent-of-kangchenjunga-by-korean-climber-oh-eun-sun-aiming-to-be-the-first-woman-to-climb-the-14-highest-peaks-on-earth-is-decla.md)
-_Context: Kangchenjunga, Earth, Himalayas, Elizabeth Hawle, Korea, Oh Eun-sun_
+_Context: Oh Eun-sun, Kangchenjunga, Elizabeth Hawle, Korea, Himalayas, Earth_
 
 ## [Previous Day...](/news/2010/04/22/index.md)
 

@@ -25,7 +25,7 @@ All the latest Football News, Results &amp; Fixtures, brought to you as it happe
 
 ##### Guangzhou South Railway Station
 ### [Asia's biggest railway station, the Guangzhou South Railway Station, came into use on the first day of Chinese spring festival transport rush of 2010. China's operational high-speed railways have exceeded 3,300 km. ](/news/2010/02/18/asia-s-biggest-railway-station-the-guangzhou-south-railway-station-came-into-use-on-the-first-day-of-chinese-spring-festival-transport-rus.md)
-_Context: Chinese spring festival, Guangzhou South Railway Station_
+_Context: Guangzhou South Railway Station, Chinese spring festival_
 
 ##### Niger
 ### [In Niger, a military junta named the Supreme Council for the Restoration of Democracy carries out a coup d'tat, suspending the constitution and detaining President Mamadou Tandja. ](/news/2010/02/18/in-niger-a-military-junta-named-the-supreme-council-for-the-restoration-of-democracy-carries-out-a-coup-d-etat-suspending-the-constitution.md)
@@ -33,7 +33,7 @@ Coup leaders suspend constitution after soldiers storm presidential palace in ca
 
 ##### Live Earth
 ### [Live Earth, organizer of The Dow Live Earth Run for Water, Cape Town race director announced The Parlotones concert at the Speir Wine Estate in Cape Town. ](/news/2010/02/18/live-earth-organizer-of-the-dow-live-earth-run-for-water-cape-town-race-director-announced-the-parlotones-concert-at-the-speir-wine-estate.md)
-_Context: Cape Town, The Parlotones, The Dow Live Earth Run for Water, Live Earth_
+_Context: Live Earth, The Parlotones, Cape Town, The Dow Live Earth Run for Water_
 
 ##### United Nations
 ### [The top climate change official at the United Nations and Executive Secretary of the United Nations Framework Convention on Climate Change, Yvo de Boer, announces his resignation. ](/news/2010/02/18/the-top-climate-change-official-at-the-united-nations-and-executive-secretary-of-the-united-nations-framework-convention-on-climate-change.md)

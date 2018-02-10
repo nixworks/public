@@ -21,11 +21,11 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ##### Tokelau
 ### [ Tokelau begins voting in a referendum to determine whether it remains a New Zealand territory, or becomes a state in free association with New Zealand. ](/news/2006/02/11/tokelau-begins-voting-in-a-referendum-to-determine-whether-it-remains-a-new-zealand-territory-or-becomes-a-state-in-free-association-with.md)
-_Context: Tokelau self-determination referendum, 2006, associated state, Tokelau_
+_Context: Tokelau, associated state, Tokelau self-determination referendum, 2006_
 
 ##### White House
 ### [ In the United States, it has been revealed that the White House knew of extensive flooding of New Orleans in the hours after Hurricane Katrina struck last August. Michael Brown, the former head of the Federal Emergency Management Agency (FEMA), told a Senate Committee that he informed the White House of the seriousness of the situation at a time when even the media were not fully aware of the extent of the flooding. ](/news/2006/02/11/in-the-united-states-it-has-been-revealed-that-the-white-house-knew-of-extensive-flooding-of-new-orleans-in-the-hours-after-hurricane-katr.md)
-_Context: Federal Emergency Management Agency, New Orleans, Hurricane Katrina, White House, Senate committees, Michael Brown_
+_Context: Federal Emergency Management Agency, New Orleans, Senate committees, White House, Michael Brown, Hurricane Katrina_
 
 ##### Muhammad
 ### [ The Danish editor who first published the Muhammad cartoons that sparked global protests has been placed on leave. ](/news/2006/02/11/the-danish-editor-who-first-published-the-muhammad-cartoons-that-sparked-global-protests-has-been-placed-on-leave.md)

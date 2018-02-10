@@ -9,11 +9,11 @@ _Context: Barack Obama, $, deficit_
 
 ##### Secretary of State
 ### [US Secretary of State Hillary Clinton presses China to back Iran sanctions for its nuclear program. ](/news/2010/02/1/us-secretary-of-state-hillary-clinton-presses-china-to-back-iran-sanctions-for-its-nuclear-program.md)
-_Context: Hillary Clinton, Iran, China, nuclear program, Secretary of State_
+_Context: Hillary Clinton, nuclear program, China, Secretary of State, Iran_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon arrives in Cyprus to begin talks aimed at reuniting the country. ](/news/2010/02/1/united-nations-secretary-general-ban-ki-moon-arrives-in-cyprus-to-begin-talks-aimed-at-reuniting-the-country.md)
-_Context: Cyprus dispute, Ban Ki-moon, United Nations Secretary-General, United Nations, Cyprus_
+_Context: Ban Ki-moon, Cyprus, United Nations Secretary-General, Cyprus dispute, United Nations_
 
 ##### Nigerian
 ### [Nigerian militant group the Movement for the Emancipation of the Niger Delta denies it attacked oil pipelines in the south of the country, after Shell closes three oil flow stations. ](/news/2010/02/1/nigerian-militant-group-the-movement-for-the-emancipation-of-the-niger-delta-denies-it-attacked-oil-pipelines-in-the-south-of-the-country-a.md)

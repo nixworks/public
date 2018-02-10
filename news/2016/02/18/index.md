@@ -29,7 +29,7 @@ Vatican City, Feb 18, 2016 / 11:00 am (CNA).- In his hour-long inflight news con
 
 ##### North Korea-South Korea relations
 ### [South Korea's National Intelligence Service warns that North Korea is currently planning a "terrorist attack" on South Korea, saying Kim Jong-un himself gave the order to North Korea's State Security Department to make preparations for attacks. The NIS warning covered a large number of possible targets, including "subways, shopping malls, exhibition centers, power plants" as well as possible cyber attacks. ](/news/2016/02/18/south-korea-s-national-intelligence-service-warns-that-north-korea-is-currently-planning-a-terrorist-attack-on-south-korea-saying-kim-jon.md)
-_Context: State Security Department, Kim Jong-un, South Korea's intelligence agency, North Korea, terrorist, South Korea, North Korea-South Korea relations_
+_Context: terrorist, North Korea-South Korea relations, State Security Department, South Korea, Kim Jong-un, South Korea's intelligence agency, North Korea_
 
 ##### Cuba-United States relations
 ### [The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.md)

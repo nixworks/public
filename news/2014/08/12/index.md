@@ -5,7 +5,7 @@ Formats: [HTML](2014/08/12/index.html)  [JSON](2014/08/12/index.json)  [XML](201
 
 ##### Vuhlehirsk
 ### [Ukrainian government forces recapture control of the city of Vuhlehirsk, Donetsk Oblast, from pro-Russian insurgents. ](/news/2014/08/12/ukrainian-government-forces-recapture-control-of-the-city-of-vuhlehirsk-donetsk-oblast-from-pro-russian-insurgents.md)
-_Context: Donetsk Oblast, Vuhlehirsk_
+_Context: Vuhlehirsk, Donetsk Oblast_
 
 ##### 2014 Israel-Gaza Conflict
 ### [The Foreign Press Association issues a statement condemning Hamas for intimidation and censorship and not allowing an objective reporting of events. ](/news/2014/08/12/the-foreign-press-association-issues-a-statement-condemning-hamas-for-intimidation-and-censorship-and-not-allowing-an-objective-reporting-of.md)

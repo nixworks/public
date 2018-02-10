@@ -3,7 +3,7 @@ Formats: [HTML](/news/2015/06/29/the-turkish-military-is-reportedly-preparing-fo
 
 ### [2015-06-29](/news/2015/06/29/index.md)
 
-##### Turkish involvement in the Syrian Civil War
+##### Opposition
 # The Turkish military is reportedly preparing for an imminent invasion of northern Syria following a National Security Council meeting. The aim is to establish a buffer zone for refugees and drive back Islamic State militants. The Kurdish militia group YPG have said they will oppose any Turkish intervention in Syria. Turkey has for decades fought against Kurdish separatist movements such as the PKK 
 
 National Security Council meets to discuss plan to send in troops to set up buffer zone and prevent formation of Kurdish state

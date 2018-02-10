@@ -9,11 +9,11 @@ Egypt blames a suicide bomber with foreign links for a blast which killed at lea
 
 ##### Bonaire
 ### [Bonaire, Saba and Sint Eustatius adopt the United States dollar as the sole legal currency, reducing the use of the Netherlands Antillean guilder to Curaao and Sint Maarten. ](/news/2011/01/1/bonaire-saba-and-sint-eustatius-adopt-the-united-states-dollar-as-the-sole-legal-currency-reducing-the-use-of-the-netherlands-antillean-gu.md)
-_Context: Curaao, Sint Eustatius, Bonaire, $, Saba, Sint Maarten, Netherlands Antillean guilder_
+_Context: Bonaire, Saba, Sint Maarten, Netherlands Antillean guilder, $, Sint Eustatius, Curaao_
 
 ##### A passenger plane explodes
 ### [Four people are killed and around 40 injured after a passenger plane explodes in Surgut in eastern Russia. ](/news/2011/01/1/four-people-are-killed-and-around-40-injured-after-a-passenger-plane-explodes-in-surgut-in-eastern-russia.md)
-_Context: a passenger plane explodes, Surgut, Russia_
+_Context: Russia, Surgut, a passenger plane explodes_
 
 ##### Hot air balloon
 ### [Two people are killed after a hot air balloon crashes onto a bowling green in Midsomer Norton, Somerset, United Kingdom. ](/news/2011/01/1/two-people-are-killed-after-a-hot-air-balloon-crashes-onto-a-bowling-green-in-midsomer-norton-somerset-united-kingdom.md)
@@ -21,7 +21,7 @@ Two men are killed as a hot air balloon crashes on a bowling green in Somerset.
 
 ##### Blackbirds
 ### [Over a thousand dead blackbirds and other fowl fall out of the sky in Arkansas after a violent tornado outbreak and hailstorm. ](/news/2011/01/1/over-a-thousand-dead-blackbirds-and-other-fowl-fall-out-of-the-sky-in-arkansas-after-a-violent-tornado-outbreak-and-hailstorm.md)
-_Context: Arkansas, blackbirds, tornado outbreak_
+_Context: tornado outbreak, Arkansas, blackbirds_
 
 ##### Earthquake
 ### [A deep earthquake measuring magnitude 7.0 hits near Santiago del Estero in northern Argentina. Only weak shaking is felt and no damage is reported. ](/news/2011/01/1/a-deep-earthquake-measuring-magnitude-7-0-hits-near-santiago-del-estero-in-northern-argentina-only-weak-shaking-is-felt-and-no-damage-is-re.md)
@@ -29,19 +29,19 @@ _Context: earthquake, Argentina, Santiago del Estero_
 
 ##### Canadian counterpart
 ### [Canada's Foreign Minister, Lawrence Cannon, urges Iran to improve the country's human rights record and denounces Iran for imposing "draconian death sentences and unfair jail terms," while expressing particular concern for the fate of two Canadians of dual nationality imprisoned in Iran. ](/news/2011/01/1/canada-s-foreign-minister-lawrence-cannon-urges-iran-to-improve-the-country-s-human-rights-record-and-denounces-iran-for-imposing-draconi.md)
-_Context: Canadian counterpart, Iranian human rights, dual nationality, Canadians, Iran, Lawrence Cannon_
+_Context: Iranian human rights, dual nationality, Canadian counterpart, Iran, Lawrence Cannon, Canadians_
 
 ##### Hungary
 ### [Hungary takes over the presidency of the European Union. ](/news/2011/01/1/hungary-takes-over-the-presidency-of-the-european-union.md)
-_Context: the Council of, European Union, Hungary_
+_Context: the Council of, Hungary, European Union_
 
 ##### Ford Open Prison
 ### [Specialist prison guards and firefighters are sent into Ford Open Prison in West Sussex, United Kingdom, after 40 inmates started a riot. Part of the prison has been destroyed by fire. ](/news/2011/01/1/specialist-prison-guards-and-firefighters-are-sent-into-ford-open-prison-in-west-sussex-united-kingdom-after-40-inmates-started-a-riot-pa.md)
-_Context: West Sussex, prison riot, Ford Open Prison_
+_Context: prison riot, Ford Open Prison, West Sussex_
 
 ##### Dilma Rousseff
 ### [Dilma Rousseff is sworn in as Brazil's first female President. ](/news/2011/01/1/dilma-rousseff-is-sworn-in-as-brazil-s-first-female-president.md)
-_Context: Brazil, president, Dilma Rousseff_
+_Context: president, Brazil, Dilma Rousseff_
 
 ##### Bolivia
 ### [The Bolivian government rescinds a government decree that significantly increased fuel prices after violent unrest. ](/news/2011/01/1/the-bolivian-government-rescinds-a-government-decree-that-significantly-increased-fuel-prices-after-violent-unrest.md)

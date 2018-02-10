@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/12/index.html)  [JSON](2013/01/12/index.json)  [XML](201
 
 ##### France
 ### [A French pilot is killed in a helicopter raid in northern Mali, according to French Minister of Defence Jean-Yves Le Drian. ](/news/2013/01/12/a-french-pilot-is-killed-in-a-helicopter-raid-in-northern-mali-according-to-french-minister-of-defence-jean-yves-le-drian.md)
-_Context: Mali, Minister of Defence, Jean-Yves Le Drian, France_
+_Context: Jean-Yves Le Drian, Minister of Defence, Mali, France_
 
 ##### Rescue attempt
 ### [One French soldier and 17 militants are killed in a failed attempt to free a French hostage in Bulo Marer, Somalia. ](/news/2013/01/12/one-french-soldier-and-17-militants-are-killed-in-a-failed-attempt-to-free-a-french-hostage-in-bulo-marer-somalia.md)
@@ -29,7 +29,7 @@ _Context: Czech Republic, Milos Zeman, Karel Schwarzenberg, Czech presidential e
 
 ##### Kuala Lumpur
 ### [Thousands of people gather in Kuala Lumpur, Malaysia, for the People's Uprising Rally, a protest over many government policies and decisions. ](/news/2013/01/12/thousands-of-people-gather-in-kuala-lumpur-malaysia-for-the-people-s-uprising-rally-a-protest-over-many-government-policies-and-decisions.md)
-_Context: Malaysia, People's Uprising Rally, Kuala Lumpur_
+_Context: People's Uprising Rally, Kuala Lumpur, Malaysia_
 
 ##### Beijing
 ### [Beijing's air pollution reaches levels judged as hazardous to human health. ](/news/2013/01/12/beijing-s-air-pollution-reaches-levels-judged-as-hazardous-to-human-health.md)

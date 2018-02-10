@@ -9,15 +9,15 @@ Rebels say dozens dead while Syrian military claims guards only wounded and top 
 
 ##### Unionize
 ### [Trade unions in Greece call a general strike in protest against continuing austerity measures. ](/news/2012/09/26/trade-unions-in-greece-call-a-general-strike-in-protest-against-continuing-austerity-measures.md)
-_Context: Greece, general strike, unionize_
+_Context: unionize, general strike, Greece_
 
 ##### Russia
 ### [Russia and Japan schedule a sub-cabinet level meeting for October in Tokyo to discuss the Kuril Islands dispute. ](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.md)
-_Context: Russia, rival territorial claims, Tokyo, Japan_
+_Context: rival territorial claims, Japan, Tokyo, Russia_
 
 ##### Prime Minister of Japan
 ### [Prime Minister Yoshihiko Noda addresses the UNGA by stating that Japan is committed to a "peaceful solution" to its territorial disputes, but that it intends to "fulfill its responsibility" to protecting its sovereignty. ](/news/2012/09/26/prime-minister-yoshihiko-noda-addresses-the-unga-by-stating-that-japan-is-committed-to-a-peaceful-solution-to-its-territorial-disputes-bu.md)
-_Context: Prime Minister of Japan, United Nations General Assembly, Japan, Yoshihiko Noda_
+_Context: United Nations General Assembly, Yoshihiko Noda, Prime Minister of Japan, Japan_
 
 ##### Russia
 ### [Russian billionaire Alexander Lebedev is charged with hooliganism and battery over a televised punch-up, with a possible five-year jail sentence in what he says is revenge for criticising President Vladimir Putin. ](/news/2012/09/26/russian-billionaire-alexander-lebedev-is-charged-with-hooliganism-and-battery-over-a-televised-punch-up-with-a-possible-five-year-jail-sent.md)
@@ -25,7 +25,7 @@ Russian billionaire Alexander Lebedev was charged on Wednesday with hooliganism 
 
 ##### ANC Youth League
 ### [Expelled ANC Youth League president Julius Malema is charged with money laundering at a court in South Africa. ](/news/2012/09/26/expelled-anc-youth-league-president-julius-malema-is-charged-with-money-laundering-at-a-court-in-south-africa.md)
-_Context: ANC Youth League, Julius Malema, South Africa, money laundering_
+_Context: ANC Youth League, South Africa, money laundering, Julius Malema_
 
 ##### Turkey
 ### [A court ruling allows Turkey to ban access to the film "Innocence of Muslims". ](/news/2012/09/26/a-court-ruling-allows-turkey-to-ban-access-to-the-film-innocence-of-muslims.md)

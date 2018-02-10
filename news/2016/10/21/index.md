@@ -13,7 +13,7 @@ Singer-songwriter’s failure to respond to phone calls from the Swedish Academy
 
 ##### British American Tobacco
 ### [British American Tobacco offers to buy out U.S. cigarette maker Reynolds American Inc in a $47 billion takeover that would create the world's biggest listed tobacco company. ](/news/2016/10/21/british-american-tobacco-offers-to-buy-out-u-s-cigarette-maker-reynolds-american-inc-in-a-47-billion-takeover-that-would-create-the-world.md)
-_Context: Reynolds American Inc, $, cigarette, tobacco, British American Tobacco_
+_Context: cigarette, Reynolds American Inc, tobacco, $, British American Tobacco_
 
 ##### AT&T
 ### [AT&T reportedly agrees in principle to buy Time Warner for about $85 billion. ](/news/2016/10/21/at-t-reportedly-agrees-in-principle-to-buy-time-warner-for-about-85-billion.md)
@@ -29,7 +29,7 @@ _Context: sulfuric acid, sodium hypochlorite, Atchison, Kansas_
 
 ##### London City Airport
 ### [Authorities evacuate London City Airport after a chemical incident, but, after some remediation, police later declare the airport safe. ](/news/2016/10/21/authorities-evacuate-london-city-airport-after-a-chemical-incident-but-after-some-remediation-police-later-declare-the-airport-safe.md)
-_Context: London City Airport, remediation_
+_Context: remediation, London City Airport_
 
 ##### 2016 Eseka train derailment
 ### [A passenger train derails in central Cameroon, killing at least 53 people and injuring 575 others. ](/news/2016/10/21/a-passenger-train-derails-in-central-cameroon-killing-at-least-53-people-and-injuring-575-others.md)
@@ -37,7 +37,7 @@ A train derailed in Cameroon on Friday reportedly killing more than 50 people an
 
 ##### Mi-8
 ### [A Mil Mi-8 helicopter crashes and leaves at least 19 dead and three others injured on the Yamal Peninsula in Russia's Extreme North. ](/news/2016/10/21/a-mil-mi-8-helicopter-crashes-and-leaves-at-least-19-dead-and-three-others-injured-on-the-yamal-peninsula-in-russia-s-extreme-north.md)
-_Context: Yamal Peninsula, Russia, Extreme North, Mi-8_
+_Context: Mi-8, Extreme North, Yamal Peninsula, Russia_
 
 ##### South Africa
 ### [South Africa formally begins the process of withdrawing from the International Criminal Court amid a dispute over the country's refusal to arrest Sudanese President Omar al-Bashir at last year's African Union summit in Johannesburg. ](/news/2016/10/21/south-africa-formally-begins-the-process-of-withdrawing-from-the-international-criminal-court-amid-a-dispute-over-the-country-s-refusal-to-a.md)
@@ -57,7 +57,7 @@ The former police chief of the Mexican city where 43 students disappeared in Sep
 
 ##### Tennessee Valley Authority
 ### [The Tennessee Valley Authority completes the Watts Bar Nuclear Plant, the first U.S. nuclear reactor to enter commercial operation in 20 years. ](/news/2016/10/21/the-tennessee-valley-authority-completes-the-watts-bar-nuclear-plant-the-first-u-s-nuclear-reactor-to-enter-commercial-operation-in-20-yea.md)
-_Context: Tennessee Valley Authority, nuclear reactor, Watts Bar Nuclear Plant_
+_Context: nuclear reactor, Tennessee Valley Authority, Watts Bar Nuclear Plant_
 
 ## [Previous Day...](/news/2016/10/20/index.md)
 

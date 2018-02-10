@@ -13,15 +13,15 @@ Consumer spending rose in January after falling for a record six straight months
 
 ##### Winter storm
 ### [ A winter storm in the eastern United States cancels 1,000 flights and cuts hundreds of thousands of people's electricity. ](/news/2009/03/2/a-winter-storm-in-the-eastern-united-states-cancels-1-000-flights-and-cuts-hundreds-of-thousands-of-people-s-electricity.md)
-_Context: electricity, East Coast of the United States, United States, winter storm_
+_Context: United States, East Coast of the United States, winter storm, electricity_
 
 ##### Acting president
 ### [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md)
-_Context: Joo Bernardo Vieira, assassinated, Guinea-Bissau, acting president, Bissau_
+_Context: Bissau, Joo Bernardo Vieira, acting president, Guinea-Bissau, assassinated_
 
 ##### Palestinian
 ### [ Palestinians accuse Israel of planning ethnic cleansing in Bustan, East Jerusalem. ](/news/2009/03/2/palestinians-accuse-israel-of-planning-ethnic-cleansing-in-bustan-east-jerusalem.md)
-_Context: Palestinian, East Jerusalem, ethnic cleansing, Bustan, Israel_
+_Context: Palestinian, Bustan, East Jerusalem, Israel, ethnic cleansing_
 
 ##### North Korea
 ### [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md)
@@ -29,7 +29,7 @@ North Korean generals met the U.S.-led U.N. military command in South Korea for 
 
 ##### Tamil
 ### [ Two thousand Tamil people have been killed and 5,000 injured in Vanni District during Sri Lanka's civil war. ](/news/2009/03/2/two-thousand-tamil-people-have-been-killed-and-5-000-injured-in-vanni-district-during-sri-lanka-s-civil-war.md)
-_Context: Tamil, Vanni District, Sri Lanka, Sri Lankan Civil War_
+_Context: Sri Lankan Civil War, Tamil, Sri Lanka, Vanni District_
 
 ## [Previous Day...](/news/2009/03/1/index.md)
 

@@ -21,11 +21,11 @@ Pro-Russian activists attack another official building in east Ukraine, ignoring
 
 ##### Washington Post
 ### [The "Washington Post" and "The Guardian" newspapers win the Pulitzer Prize for Public Service for their stories on the National Security Agency based on leaks from Edward Snowden. ](/news/2014/04/14/the-washington-post-and-the-guardian-newspapers-win-the-pulitzer-prize-for-public-service-for-their-stories-on-the-national-security-age.md)
-_Context: Edward Snowden, National Security Agency, Pulitzer Prize for Public Service, Washington Post, The Guardian_
+_Context: National Security Agency, Pulitzer Prize for Public Service, Edward Snowden, Washington Post, The Guardian_
 
 ##### United States
 ### [American financial services company TIAA-CREF agrees to buy Nuveen Investments for $6.25 billion. ](/news/2014/04/14/american-financial-services-company-tiaaacref-agrees-to-buy-nuveen-investments-for-6-25-billion.md)
-_Context: Nuveen Investments, TIAA-CREF, $, United States_
+_Context: TIAA-CREF, $, United States, Nuveen Investments_
 
 ##### Abu Hamza al-Masri
 ### [Radical British Muslim cleric Abu Hamza al-Masri goes on trial in the American state of New York for 11 alleged terrorism offenses. ](/news/2014/04/14/radical-british-muslim-cleric-abu-hamza-al-masri-goes-on-trial-in-the-american-state-of-new-york-for-11-alleged-terrorism-offenses.md)
@@ -37,7 +37,7 @@ A federal appeals court has ruled that the venue for Auernheimer&#039;s prosecut
 
 ##### Republic of Macedonia
 ### [Voters in the Republic of Macedonia head to the polls for a runoff presidential election. ](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.md)
-_Context: Republic of Macedonia, runoff presidential election_
+_Context: runoff presidential election, Republic of Macedonia_
 
 ##### Vietnam
 ### [Vietnam frees Nguyen Tien Trung and Vi Duc Hoi. ](/news/2014/04/14/vietnam-frees-nguyen-tien-trung-and-vi-duc-hoi.md)

@@ -9,7 +9,7 @@ Formats: [HTML](2017/05/30/index.html)  [JSON](2017/05/30/index.json)  [XML](201
 
 ##### China Labor Watch
 ### [China Labor Watch says one of its team was arrested and two others are missing when they were investigating labor practices at Ganzhou Huajian International Shoe City Co., whose products include Ivanka Trump-branded shoes. ](/news/2017/05/30/china-labor-watch-says-one-of-its-team-was-arrested-and-two-others-are-missing-when-they-were-investigating-labor-practices-at-ganzhou-huaji.md)
-_Context: Ganzhou, Ivanka Trump-branded, China Labor Watch_
+_Context: China Labor Watch, Ganzhou, Ivanka Trump-branded_
 
 ##### North Korea-United States relations
 ### [ A formation of United States B-1B bombers from Guam flew over Korea, staging a nuclear bomb dropping drill. North Korea calls it a military provocation. ](/news/2017/05/30/a-formation-of-united-states-b-1b-bombers-from-guam-flew-over-korea-staging-a-nuclear-bomb-dropping-drill-north-korea-calls-it-a-military.md)
@@ -21,11 +21,11 @@ _Context: European Union's Association Agreement with Ukraine, Ukraine-European 
 
 ##### South Korea-United States relations
 ### [South Korean President Moon Jae-in, who had campaigned on a parliamentary review of the country's missile defense system, orders an investigation of the anti-missile system after discovering the government was not informed when four more U.S. Terminal High Altitude Area Defense (THAAD) system launchers had been brought in and installed. ](/news/2017/05/30/south-korean-president-moon-jae-in-who-had-campaigned-on-a-parliamentary-review-of-the-country-s-missile-defense-system-orders-an-investig.md)
-_Context: South Korea-United States relations, parliamentary review, Moon Jae-in, South Korean President, U.S. Terminal High Altitude Area Defense (THAAD) system launchers_
+_Context: parliamentary review, U.S. Terminal High Altitude Area Defense (THAAD) system launchers, South Korean President, South Korea-United States relations, Moon Jae-in_
 
 ##### 2017 North Indian Ocean cyclone season
 ### [More than 300,000 people are evacuated in Bangladesh as Cyclone Mora approaches. ](/news/2017/05/30/more-than-300-000-people-are-evacuated-in-bangladesh-as-cyclone-mora-approaches.md)
-_Context: Cyclone Mora, Bangladesh, 2017 North Indian Ocean cyclone season_
+_Context: Bangladesh, 2017 North Indian Ocean cyclone season, Cyclone Mora_
 
 ##### Panama
 ### [Former Panamanian leader Manuel Noriega dies aged 83. ](/news/2017/05/30/former-panamanian-leader-manuel-noriega-dies-aged-83.md)

@@ -13,7 +13,7 @@ _Context: Hamas, Gaza Strip, Gaza-Israel conflict_
 
 ##### Islamist insurgency in Nigeria
 ### [A car bomb explodes in a market in the northeast Nigerian town of Maiduguri, the birthplace of Boko Haram, with dozens feared dead. ](/news/2014/07/1/a-car-bomb-explodes-in-a-market-in-the-northeast-nigerian-town-of-maiduguri-the-birthplace-of-boko-haram-with-dozens-feared-dead.md)
-_Context: Maiduguri, Boko Haram, car bomb, Islamist insurgency in Nigeria_
+_Context: car bomb, Maiduguri, Islamist insurgency in Nigeria, Boko Haram_
 
 ##### BNP Paribas
 ### [The United States imposes a record $9 billion fine on BNP Paribas for helping clients bypass sanctions against Cuba, Iran, and Sudan. The bank is also barred from certain US dollar dominated transactions for one year. ](/news/2014/07/1/the-united-states-imposes-a-record-9-billion-fine-on-bnp-paribas-for-helping-clients-bypass-sanctions-against-cuba-iran-and-sudan-the-ba.md)
@@ -21,7 +21,7 @@ French bank BNP Paribas BNPP.PA has pleaded guilty to two criminal charges and a
 
 ##### Sexual assault
 ### [Malaysia states that it will extradite a junior military official who returned home after being charged with sexual assault at its diplomatic mission in New Zealand. ](/news/2014/07/1/malaysia-states-that-it-will-extradite-a-junior-military-official-who-returned-home-after-being-charged-with-sexual-assault-at-its-diplomati.md)
-_Context: sexual assault, New Zealand_
+_Context: New Zealand, sexual assault_
 
 ##### French President
 ### [Former President of France Nicolas Sarkozy is held for questioning over alleged corruption. ](/news/2014/07/1/former-president-of-france-nicolas-sarkozy-is-held-for-questioning-over-alleged-corruption.md)
@@ -37,7 +37,7 @@ _Context: Martin Schulz, President of the European Parliament, SPD_
 
 ##### Iraqi Parliament
 ### [The Council of Representatives of Iraq is due to meet for the first time since recent elections to try and counter the surge made by the Islamic State of Iraq and the Levant. However, the meeting is delayed due to a lack of quorum. ](/news/2014/07/1/the-council-of-representatives-of-iraq-is-due-to-meet-for-the-first-time-since-recent-elections-to-try-and-counter-the-surge-made-by-the-isl.md)
-_Context: Iraqi Parliament, ISIL, elections_
+_Context: elections, ISIL, Iraqi Parliament_
 
 ##### Cabinet of Japan
 ### [The Cabinet of Japan lifts a ban on the Japan Self-Defense Forces fighting overseas. The move is aimed towards defending allied countries. ](/news/2014/07/1/the-cabinet-of-japan-lifts-a-ban-on-the-japan-self-defense-forces-fighting-overseas-the-move-is-aimed-towards-defending-allied-countries.md)

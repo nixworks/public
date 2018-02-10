@@ -5,11 +5,11 @@ Formats: [HTML](2011/04/5/index.html)  [JSON](2011/04/5/index.json)  [XML](2011/
 
 ##### Alassane Ouattara
 ### [Forces loyal to Alassane Ouattara claim to have captured Laurent Gbagbo's Presidential Palace in Abidjan. ](/news/2011/04/5/forces-loyal-to-alassane-ouattara-claim-to-have-captured-laurent-gbagbo-s-presidential-palace-in-abidjan.md)
-_Context: Alassane Ouattara, Presidential Palace, Abidjan, Laurent Gbagbo_
+_Context: Abidjan, Presidential Palace, Laurent Gbagbo, Alassane Ouattara_
 
 ##### Kabul University
 ### [1,000 students protest at Kabul University as protests continue in Afghanistan over the burning of a Qur'an "found guilty" by pastor Terry Jones' church in the U.S. state of Florida. ](/news/2011/04/5/1-000-students-protest-at-kabul-university-as-protests-continue-in-afghanistan-over-the-burning-of-a-qur-an-found-guilty-by-pastor-terry-j.md)
-_Context: the state, Afghanistan, U.S. state, church, Kabul University, Qur'an, Terry Jones_
+_Context: U.S. state, the state, church, Terry Jones, Kabul University, Qur'an, Afghanistan_
 
 ##### 
 ### [Amid ongoing protests, Syria opposition says Assad wants talks ](/news/2011/04/5/amid-ongoing-protests-syria-opposition-says-assad-wants-talks.md)
@@ -31,7 +31,7 @@ Bee Gees singer Robin Gibb pulls out of a series of shows in Brazil after he is 
 
 ##### Muhammad Yunus
 ### [Nobel laureate Muhammad Yunus loses his final appeal in the Supreme Court of Bangladesh against his dismissal from his own Grameen micro-finance bank; the bank thought him too old for the job. ](/news/2011/04/5/nobel-laureate-muhammad-yunus-loses-his-final-appeal-in-the-supreme-court-of-bangladesh-against-his-dismissal-from-his-own-grameen-micro-fin.md)
-_Context: Bangladesh, Muhammad Yunus_
+_Context: Muhammad Yunus, Bangladesh_
 
 ##### Muammar Gaddafi
 ### [Rebels against the Gaddafi regime in Libya have begun to export oil. ](/news/2011/04/5/rebels-against-the-gaddafi-regime-in-libya-have-begun-to-export-oil.md)
@@ -43,19 +43,19 @@ The U.S. Federal Trade Commission is considering a broad antitrust investigation
 
 ##### Wayne Swan
 ### [Wayne Swan, the Treasurer of Australia, advises that he is inclined to reject a proposed merger of the Australian Stock Exchange and the Singapore Stock Exchange. ](/news/2011/04/5/wayne-swan-the-treasurer-of-australia-advises-that-he-is-inclined-to-reject-a-proposed-merger-of-the-australian-stock-exchange-and-the-sin.md)
-_Context: Treasurer of Australia, Singapore Stock Exchange, Wayne Swan, Australian Stock Exchange_
+_Context: Treasurer of Australia, Wayne Swan, Australian Stock Exchange, Singapore Stock Exchange_
 
 ##### Texas Instruments
 ### [Texas Instruments announces plans to buy long-time rival National Semiconductor, in a transaction that would consolidate the market for analog chips. ](/news/2011/04/5/texas-instruments-announces-plans-to-buy-long-time-rival-national-semiconductor-in-a-transaction-that-would-consolidate-the-market-for-anal.md)
-_Context: analog chip, Texas Instruments, National Semiconductor_
+_Context: Texas Instruments, National Semiconductor, analog chip_
 
 ##### Cuba
 ### [Cuba and its partners announce plans to drill for oil in Cuban waters in the Gulf of Mexico. ](/news/2011/04/5/cuba-and-its-partners-announce-plans-to-drill-for-oil-in-cuban-waters-in-the-gulf-of-mexico.md)
-_Context: waters, Gulf of Mexico, Cuba_
+_Context: Gulf of Mexico, Cuba, waters_
 
 ##### Fukushima I nuclear accidents
 ### [Japan sets a maximum level of radiation for fish after a catch from Ibaraki prefecture is found with a high level of radioactive iodine from the nuclear accidents. ](/news/2011/04/5/japan-sets-a-maximum-level-of-radiation-for-fish-after-a-catch-from-ibaraki-prefecture-is-found-with-a-high-level-of-radioactive-iodine-from.md)
-_Context: Ibaraki prefecture, Fukushima I nuclear accidents, radiation, Japan, radioactive iodine_
+_Context: Japan, Ibaraki prefecture, radiation, radioactive iodine, Fukushima I nuclear accidents_
 
 ##### Misrata
 ### [For over 50 days, the Libyan city of Misrata has been shelled by artillery, tanks, and snipers, and for over 20 days has had its water intentionally shut off by Muammar Gaddafi's forces. As supplies run short, hundreds of thousands are at risk of death. ](/news/2011/04/5/for-over-50-days-the-libyan-city-of-misrata-has-been-shelled-by-artillery-tanks-and-snipers-and-for-over-20-days-has-had-its-water-inten.md)
@@ -79,15 +79,15 @@ The government is willing to make major changes to its overhaul of the NHS, mini
 
 ##### Idaho House of Representatives
 ### [The Idaho House of Representatives passes a bill banning abortion once a fetus is more than 20 weeks old. ](/news/2011/04/5/the-idaho-house-of-representatives-passes-a-bill-banning-abortion-once-a-fetus-is-more-than-20-weeks-old.md)
-_Context: fetus, abortion, Idaho House of Representatives_
+_Context: Idaho House of Representatives, abortion, fetus_
 
 ##### Wisconsin
 ### [More than a million voters go to the polls in the US state of Wisconsin for an election for a position on the Wisconsin Supreme Court with challenger Joanne Kloppenburg holding a narrow lead over incumbent David Prosser, Jr.. ](/news/2011/04/5/more-than-a-million-voters-go-to-the-polls-in-the-us-state-of-wisconsin-for-an-election-for-a-position-on-the-wisconsin-supreme-court-with-c.md)
-_Context: Wisconsin, Wisconsin Supreme Court, Joanne Kloppenburg, David Prosser, Jr._
+_Context: Wisconsin, Joanne Kloppenburg, Wisconsin Supreme Court, David Prosser, Jr._
 
 ##### The state
 ### [Florida Congresswoman Debbie Wasserman Schultz is appointed as the Chairwoman of the US Democratic National Committee. ](/news/2011/04/5/florida-congresswoman-debbie-wasserman-schultz-is-appointed-as-the-chairwoman-of-the-us-democratic-national-committee.md)
-_Context: Democratic National Committee, lawmakers, Debbie Wasserman Schultz, the state_
+_Context: Democratic National Committee, lawmakers, the state, Debbie Wasserman Schultz_
 
 ##### World Meteorological Organisation
 ### [The World Meteorological Organisation reports that the ozone layer is damaged to its worst extent ever in the Arctic. ](/news/2011/04/5/the-world-meteorological-organisation-reports-that-the-ozone-layer-is-damaged-to-its-worst-extent-ever-in-the-arctic.md)

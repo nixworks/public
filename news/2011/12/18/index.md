@@ -5,11 +5,11 @@ Formats: [HTML](2011/12/18/index.html)  [JSON](2011/12/18/index.json)  [XML](201
 
 ##### Arab League
 ### [The Arab League threatens to take Syria to the United Nations within two weeks if the country does not accept its proposals to end the crackdown on the uprising. ](/news/2011/12/18/the-arab-league-threatens-to-take-syria-to-the-united-nations-within-two-weeks-if-the-country-does-not-accept-its-proposals-to-end-the-crack.md)
-_Context: 2011 Syrian uprising, United Nations, Arab League, Syria_
+_Context: United Nations, Syria, 2011 Syrian uprising, Arab League_
 
 ##### Cairo
 ### [Clashes continue in Cairo's Tahrir Square for a third day between the Egyptian Army and protesters. ](/news/2011/12/18/clashes-continue-in-cairo-s-tahrir-square-for-a-third-day-between-the-egyptian-army-and-protesters.md)
-_Context: Egyptian Army, Tahrir Square, Cairo_
+_Context: Tahrir Square, Egyptian Army, Cairo_
 
 ##### United States soldier
 ### [The last convoy of United States Army soldiers withdraws from Iraq, marking the formal end of the Iraq War. ](/news/2011/12/18/the-last-convoy-of-united-states-army-soldiers-withdraws-from-iraq-marking-the-formal-end-of-the-iraq-war.md)
@@ -25,7 +25,7 @@ Angry protesters rally in the capital of a Kazakh oil-producing region after two
 
 ##### Coal mine
 ### [Nine people die following an explosion in a coal mine in Binzhou City in China's Hunan Province. ](/news/2011/12/18/nine-people-die-following-an-explosion-in-a-coal-mine-in-binzhou-city-in-china-s-hunan-province.md)
-_Context: Binzhou City, China, Hunan Province, coal mine_
+_Context: China, coal mine, Hunan Province, Binzhou City_
 
 ##### Drilling rig
 ### [The drilling rig "Kolskaya" with 76 people on board overturns in the Sea of Okhotsk off the coast of Sakhalin in the Russian Far East resulting in four deaths and fifty people missing. ](/news/2011/12/18/the-drilling-rig-kolskaya-with-76-people-on-board-overturns-in-the-sea-of-okhotsk-off-the-coast-of-sakhalin-in-the-russian-far-east-result.md)
@@ -37,7 +37,7 @@ _Context: Red Cross, Tropical Storm Washi, Philippines_
 
 ##### Iran
 ### [Iran releases two Kuwaiti journalists accused of spying. ](/news/2011/12/18/iran-releases-two-kuwaiti-journalists-accused-of-spying.md)
-_Context: spying, Kuwait, Iran_
+_Context: spying, Iran, Kuwait_
 
 ##### Occupy Wall Street
 ### [More than 50 Occupy Wall Street protesters are arrested as they attempted to establish a new encampment. ](/news/2011/12/18/more-than-50-occupy-wall-street-protesters-are-arrested-as-they-attempted-to-establish-a-new-encampment.md)
@@ -49,7 +49,7 @@ _Context: China, rebellion by villagers in Wukan_
 
 ##### Protest
 ### [Thousands protest in several Russian cities for a second week, against the results of the parliamentary elections. ](/news/2011/12/18/thousands-protest-in-several-russian-cities-for-a-second-week-against-the-results-of-the-parliamentary-elections.md)
-_Context: protest, parliamentary elections, Russia_
+_Context: Russia, protest, parliamentary elections_
 
 ##### Vclav Havel
 ### [Vclav Havel, former President of Czechoslovakia and President of the Czech Republic, dies. ](/news/2011/12/18/vaclav-havel-former-president-of-czechoslovakia-and-president-of-the-czech-republic-dies.md)

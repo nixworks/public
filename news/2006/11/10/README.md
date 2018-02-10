@@ -5,23 +5,23 @@ Formats: [HTML](2006/11/10/index.html)  [JSON](2006/11/10/index.json)  [XML](200
 
 ##### Los Angeles Police Department
 ### [ The Los Angeles Police Department holds an investigation after a video showing police officers beating a man is posted on YouTube. ](/news/2006/11/10/the-los-angeles-police-department-holds-an-investigation-after-a-video-showing-police-officers-beating-a-man-is-posted-on-youtube.md)
-_Context: Los Angeles Police Department, YouTube_
+_Context: YouTube, Los Angeles Police Department_
 
 ##### NASA
 ### [ NASA's Cassini spacecraft records a hurricane-like storm on the south pole of Saturn which is the first time such an event has been observed on another planet. ](/news/2006/11/10/nasa-s-cassini-spacecraft-records-a-hurricane-like-storm-on-the-south-pole-of-saturn-which-is-the-first-time-such-an-event-has-been-observe.md)
-_Context: NASA, Cassini, Saturn, hurricane_
+_Context: Saturn, NASA, Cassini, hurricane_
 
 ##### Nick Griffin
 ### [ Nick Griffin, the leader of the British National Party, and activist Mark Collett are cleared of inciting racial hatred after a retrial at Leeds Crown Court. ](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.md)
-_Context: Nick Griffin, Crown Court, Leeds, Mark Collett, British National Party_
+_Context: Crown Court, Nick Griffin, British National Party, Leeds, Mark Collett_
 
 ##### Russia
 ### [ Russia announces that it has reached an agreement with the United States over the terms of Russian entry to the World Trade Organization with a formal deal to be signed next week. ](/news/2006/11/10/russia-announces-that-it-has-reached-an-agreement-with-the-united-states-over-the-terms-of-russian-entry-to-the-world-trade-organization-wi.md)
-_Context: World Trade Organization, United States, Russia_
+_Context: United States, World Trade Organization, Russia_
 
 ##### Rice University
 ### [ Scientists at Rice University discover that using nanotechnology tiny particles of iron oxide, when placed under a strong magnet, bind with arsenic, a potentially important benefit for countries plagued with arsenic contamination of groundwater. ](/news/2006/11/10/scientists-at-rice-university-discover-that-using-nanotechnology-tiny-particles-of-iron-oxide-when-placed-under-a-strong-magnet-bind-with.md)
-_Context: Rice University, magnet, arsenic, nanotechnology, iron oxide, arsenic contamination of groundwater_
+_Context: iron oxide, arsenic, nanotechnology, arsenic contamination of groundwater, magnet, Rice University_
 
 ## [Previous Day...](/news/2006/11/9/index.md)
 

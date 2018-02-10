@@ -5,11 +5,11 @@ Formats: [HTML](2011/02/8/index.html)  [JSON](2011/02/8/index.json)  [XML](2011/
 
 ##### Yemen
 ### [A suspected US spy drone crashes near the south Yemen town of Loder with witnesses claiming that Al-Qaeda removed the wreckage. ](/news/2011/02/8/a-suspected-us-spy-drone-crashes-near-the-south-yemen-town-of-loder-with-witnesses-claiming-that-al-qaeda-removed-the-wreckage.md)
-_Context: al-Qaeda, Yemen_
+_Context: Yemen, al-Qaeda_
 
 ##### Dokka Umarov
 ### [Dokka Umarov, a Chechen warlord and one of Russia's most wanted men, claims responsibility for the bombing at Domodedovo International Airport last month. ](/news/2011/02/8/dokka-umarov-a-chechen-warlord-and-one-of-russia-s-most-wanted-men-claims-responsibility-for-the-bombing-at-domodedovo-international-airpo.md)
-_Context: Domodedovo International Airport bombing, Chechnya, Dokka Umarov, Russia, Domodedovo International Airport_
+_Context: Dokka Umarov, Domodedovo International Airport bombing, Russia, Chechnya, Domodedovo International Airport_
 
 ##### Blasphemy
 ### [Violence erupts at a blasphemy trial in Temanggung, central Java with three churches destroyed. ](/news/2011/02/8/violence-erupts-at-a-blasphemy-trial-in-temanggung-central-java-with-three-churches-destroyed.md)
@@ -25,43 +25,43 @@ _Context: United States, bankruptcy court, Ultimate Electronics_
 
 ##### London Stock Exchange
 ### [The London Stock Exchange in the United Kingdom is in advanced talks to merge with the TMX Group that operates Canada's two stock exchanges in Montreal and Toronto. ](/news/2011/02/8/the-london-stock-exchange-in-the-united-kingdom-is-in-advanced-talks-to-merge-with-the-tmx-group-that-operates-canada-s-two-stock-exchanges.md)
-_Context: Canadian, stock exchanges, London Stock Exchange, Toronto, United Kingdom, Montreal, TMX Group_
+_Context: Montreal, United Kingdom, Toronto, Canadian, London Stock Exchange, TMX Group, stock exchanges_
 
 ##### Drought
 ### [Drought hits Central China. Part of the Xiangjiang River dried-up in Changsha, Hunan province. ](/news/2011/02/8/drought-hits-central-china-part-of-the-xiangjiang-river-dried-up-in-changsha-hunan-province.md)
-_Context: Hunan province, Xiangjiang River, central China, Changsha, Drought_
+_Context: Hunan province, Drought, central China, Changsha, Xiangjiang River_
 
 ##### Indonesia
 ### [An Indonesian ferry carrying 226 passengers from Tanjung Priok to Bangka Belitung catches fire. ](/news/2011/02/8/an-indonesian-ferry-carrying-226-passengers-from-tanjung-priok-to-bangka-belitung-catches-fire.md)
-_Context: Tanjung Priok, Indonesia, Bangka Belitung_
+_Context: Indonesia, Bangka Belitung, Tanjung Priok_
 
 ##### Snow storm
 ### [A snow storm hits the Mountain West and Great Plains areas of the United States. ](/news/2011/02/8/a-snow-storm-hits-the-mountain-west-and-great-plains-areas-of-the-united-states.md)
-_Context: snow storm, Great Plains, United States, Mountain West_
+_Context: United States, snow storm, Mountain West, Great Plains_
 
 ##### North Korea
 ### [Officials from North Korea and South Korea meet in Panmunjom for military-level talks. ](/news/2011/02/8/officials-from-north-korea-and-south-korea-meet-in-panmunjom-for-military-level-talks.md)
-_Context: South Korea, North Korea, Panmunjeom_
+_Context: South Korea, Panmunjeom, North Korea_
 
 ##### Aung San Suu Kyi
 ### [Aung San Suu Kyi's National League for Democracy calls for talks with Western nations about possible changes to sanctions against Burma. ](/news/2011/02/8/aung-san-suu-kyi-s-national-league-for-democracy-calls-for-talks-with-western-nations-about-possible-changes-to-sanctions-against-burma.md)
-_Context: Aung San Suu Kyi, National League for Democracy, Burma_
+_Context: Burma, Aung San Suu Kyi, National League for Democracy_
 
 ##### Taiwan
 ### [Taiwan arrests Major General Lo Hsieh-che, head of the Taiwanese Army's electronic communications and information department, for allegedly leaking secrets to the People's Republic of China. ](/news/2011/02/8/taiwan-arrests-major-general-lo-hsieh-che-head-of-the-taiwanese-army-s-electronic-communications-and-information-department-for-allegedly.md)
-_Context: Taiwan, Lo Hsieh-che, Major General, Taiwanese Army, China_
+_Context: Taiwanese Army, Major General, Lo Hsieh-che, China, Taiwan_
 
 ##### Rohingya
 ### [Several dozen Rohingya boat refugees from Bangladesh and Myanmar are accepted to India at Port Blair in the Andaman Islands after being detained by the Thai Navy and rejected at sea, but face repatriation to Bangladesh. ](/news/2011/02/8/several-dozen-rohingya-boat-refugees-from-bangladesh-and-myanmar-are-accepted-to-india-at-port-blair-in-the-andaman-islands-after-being-deta.md)
-_Context: India, refugee, Port Blair, repatriation, Thai Navy, Rohingya, Bangladesh, Myanmar, Andaman Islands_
+_Context: Thai Navy, Andaman Islands, Myanmar, Port Blair, Rohingya, India, Bangladesh, refugee, repatriation_
 
 ##### Liberia
 ### [The lawyer for former Liberian President Charles Taylor walks out of court protesting that his client's rights to a fair trial had been abused. ](/news/2011/02/8/the-lawyer-for-former-liberian-president-charles-taylor-walks-out-of-court-protesting-that-his-client-s-rights-to-a-fair-trial-had-been-abus.md)
-_Context: President of Liberia, Charles Taylor, Liberia_
+_Context: President of Liberia, Liberia, Charles Taylor_
 
 ##### Mexican Army
 ### [The Mexican Army rescues 44 Guatemalan immigrants in Reynosa in northern Mexico. ](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.md)
-_Context: Mexico, Guatemala, Reynosa, Mexican Army_
+_Context: Guatemala, Mexican, Reynosa, Mexican Army_
 
 ##### Israel
 ### [The Israeli Knesset approves the "Bishara Bill", which would revoke the pension payments of Knesset members if they fail to appear at criminal proceedings held against them, or if convicted of severe felonies. ](/news/2011/02/8/the-israeli-knesset-approves-the-bishara-bill-which-would-revoke-the-pension-payments-of-knesset-members-if-they-fail-to-appear-at-crimin.md)
@@ -73,11 +73,11 @@ Pro-democracy supporters hold fresh rallies in Cairo, just hours after the relea
 
 ##### Philippines
 ### [Former Philippines Cabinet Secretary Angelo Reyes dies following an apparent suicide attempt possibly prompted by a scandal over alleged military corruption. ](/news/2011/02/8/former-philippines-cabinet-secretary-angelo-reyes-dies-following-an-apparent-suicide-attempt-possibly-prompted-by-a-scandal-over-alleged-mil.md)
-_Context: Angelo Reyes, suicide, Philippines_
+_Context: Philippines, Angelo Reyes, suicide_
 
 ##### George Osborne
 ### [George Osborne, the United Kingdom Chancellor of the Exchequer, announces that the tax on bank profits will become permanent. ](/news/2011/02/8/george-osborne-the-united-kingdom-chancellor-of-the-exchequer-announces-that-the-tax-on-bank-profits-will-become-permanent.md)
-_Context: George Osborne, United Kingdom, tax, Chancellor of the Exchequer_
+_Context: George Osborne, United Kingdom, Chancellor of the Exchequer, tax_
 
 ##### Labour Party
 ### [British Labour MP Eric Illsley resigns his seat two days before he is due to be sentenced for dishonestly claiming parliamentary expenses, thus triggering a by-election. ](/news/2011/02/8/british-labour-mp-eric-illsley-resigns-his-seat-two-days-before-he-is-due-to-be-sentenced-for-dishonestly-claiming-parliamentary-expenses-t.md)
@@ -89,7 +89,7 @@ _Context: USA Patriot Act, United States House of Representatives_
 
 ##### Brazil
 ### [Brazilian environmentalists and indigenous rights activists protest against the Belo Monte Dam in Brasilia. ](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.md)
-_Context: Belo Monte Dam, indigenous rights, Brasilia, Brazil_
+_Context: Brazil, Brasilia, indigenous rights, Belo Monte Dam_
 
 ## [Previous Day...](/news/2011/02/7/index.md)
 

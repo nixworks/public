@@ -9,7 +9,7 @@ Twenty-one skulls believed to be the remains of soldiers loyal to ousted former 
 
 ##### United States
 ### [The United States stops shipping supplies to Afghanistan through Pakistan due to protests over drone attacks. ](/news/2013/12/4/the-united-states-stops-shipping-supplies-to-afghanistan-through-pakistan-due-to-protests-over-drone-attacks.md)
-_Context: drones launch, United States, Pakistan, Afghanistan_
+_Context: Pakistan, United States, Afghanistan, drones launch_
 
 ##### Pakistan
 ### [Thirteen people are killed as a result of targetted shootings in Pakistan's biggest city Karachi. ](/news/2013/12/4/thirteen-people-are-killed-as-a-result-of-targetted-shootings-in-pakistan-s-biggest-city-karachi.md)
@@ -41,7 +41,7 @@ A teenager drowned and a child was missing as annual floods swept Johor, Pahang 
 
 ##### BART
 ### [Sixty are ill with fifteen others requiring treatment for smoke inhalation when a BART train makes an emergency stop in the Berkeley Hills Tunnel near the Rockridge station due to mechanical problems. ](/news/2013/12/4/sixty-are-ill-with-fifteen-others-requiring-treatment-for-smoke-inhalation-when-a-bart-train-makes-an-emergency-stop-in-the-berkeley-hills-t.md)
-_Context: Berkeley Hills Tunnel, Rockridge, BART_
+_Context: Rockridge, Berkeley Hills Tunnel, BART_
 
 ##### Xavier Bettel
 ### [Xavier Bettel becomes the first openly gay prime minister in Luxembourg and the third openly gay prime minister in Europe as the country's first government without participation of the Christian Social People's Party since 1979 takes office; Bettel's deputy, Etienne Schneider, is also openly gay, making Luxembourg the first country in the world with the two highest-ranking leaders of government being openly gay. ](/news/2013/12/4/xavier-bettel-becomes-the-first-openly-gay-prime-minister-in-luxembourg-and-the-third-openly-gay-prime-minister-in-europe-as-the-country-s-f.md)
@@ -53,7 +53,7 @@ _Context: Toomas Hendrik Ilves, Rein Lang, Urve Tiidus_
 
 ##### Laptev sea
 ### [A new island is discovered in the Laptev sea, and is given the name Yaya. ](/news/2013/12/4/a-new-island-is-discovered-in-the-laptev-sea-and-is-given-the-name-yaya.md)
-_Context: Yaya, Laptev sea_
+_Context: Laptev sea, Yaya_
 
 ## [Previous Day...](/news/2013/12/3/index.md)
 

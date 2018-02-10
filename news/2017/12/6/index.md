@@ -17,7 +17,7 @@ Finland&amp;#039;s main official centenary celebrations are in Helsinki and Kuop
 
 ##### Michelin
 ### [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md)
-_Context: Thailand, Bangkok, Michelin Guide, Michelin_
+_Context: Thailand, Michelin Guide, Michelin, Bangkok_
 
 ##### Weinstein effect
 ### [The "Silence Breakers", including those involved in the #MeToo movement, are named "Time" magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md)
@@ -27,7 +27,7 @@ _Context: Thailand, Bangkok, Michelin Guide, Michelin_
 ### [UNICEF reports that as many as 17 million babies worldwide face potential brain development issues due to their exposure to toxicity levels more than six times higher than considered safe in air. ](/news/2017/12/6/unicef-reports-that-as-many-as-17-million-babies-worldwide-face-potential-brain-development-issues-due-to-their-exposure-to-toxicity-levels.md)
 Toxic air is putting the brain development of millions of infants under one at risk, Unicef says.
 
-##### United States recognition of Jerusalem as Israeli capital
+##### Recognize Jerusalem as Israel's capital
 ### [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md)
 The U.S. State Department issued a cable to all its diplomatic posts worldwide on Wednesday asking its officials to defer non-essential travel to Israel, Jerusalem and the West Bank until Dec. 20 according to a copy of the cable seen by Reuters.
 

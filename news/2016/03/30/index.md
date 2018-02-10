@@ -9,7 +9,7 @@ Several loud explosions followed by heavy gunfire were heard over Tripoli in the
 
 ##### Naxalite-Maoist insurgency
 ### [At least seven Central Reserve Police Force (CRPF) personnel are killed in an IED attack on their vehicle in the Indian state of Chhattisgarh's Dantewada district. Naxalite insurgents are suspected to have been behind the attack. ](/news/2016/03/30/at-least-seven-central-reserve-police-force-crpf-personnel-are-killed-in-an-ied-attack-on-their-vehicle-in-the-indian-state-of-chhattisgar.md)
-_Context: Chhattisgarh, Naxalite-Maoist insurgency, Dantewada district, India, Indian Reserve policemen, Naxalite, IED_
+_Context: India, Indian Reserve policemen, Naxalite-Maoist insurgency, IED, Chhattisgarh, Naxalite, Dantewada district_
 
 ##### Taiwan
 ### [Taiwanese electronics company Foxconn agrees to buy 60% of the Japanese Sharp Corporation for 389 billion yen ($3.5 billion). ](/news/2016/03/30/taiwanese-electronics-company-foxconn-agrees-to-buy-60-of-the-japanese-sharp-corporation-for-389-billion-yen-3-5-billion.md)
@@ -21,7 +21,7 @@ Thai dams run low as an El Nino-induced water shortage reduces reservoirs to cri
 
 ##### Tornado
 ### [At least nine people are injured in severe storms that spawned multiple tornado touchdowns in northeastern Oklahoma and sections of the Southwestern United States. One patient is in critical condition; the others suffered serious injuries, according to the Emergency Medical Services Authority. Parts of Texas, Louisiana, and Arkansas are also impacted. A flash flood watch has been issued through Thursday evening. Two (2) to 4 inches of rain is expected, with perhaps 6 inches in some locations. ](/news/2016/03/30/at-least-nine-people-are-injured-in-severe-storms-that-spawned-multiple-tornado-touchdowns-in-northeastern-oklahoma-and-sections-of-the-sout.md)
-_Context: American Southwest, Emergency Medical Services Authority, Oklahoma, tornado, Louisiana, Texas, Arkansas_
+_Context: Arkansas, tornado, Oklahoma, Louisiana, American Southwest, Emergency Medical Services Authority, Texas_
 
 ##### McGill University
 ### [A new study by researchers at McGill University and the University of California, Los Angeles, finds that each additional month a woman has paid maternity leave is associated with decreased infant mortality by more than 10 percent. Researchers noted that paid maternity leave reduces stress because of the guarantee of income and job security, increases the chances for breastfeeding and other infant care, and allows a mother to seek more medical attention for herself. ](/news/2016/03/30/a-new-study-by-researchers-at-mcgill-university-and-the-university-of-california-los-angeles-finds-that-each-additional-month-a-woman-has.md)
@@ -33,7 +33,7 @@ The FDA said Wednesday it has relaxed its official requirements for the use of t
 
 ##### Air pollution in Mexico City
 ### [Mexico City, facing the capital's worst air-quality crisis in over a decade, issues a temporary order that all cars remain idle one day a week. Today, authorities report a pollution index of 108 (bad) after low readings during Holy Week. Vehicles will also be forced from the roads one Saturday a month. The measure will begin next Tuesday, April 5, and run until Thursday, June 30, 2016. Starting July 1, improved technology will be in place at smog-check centers where all vehicles must be tested every six months. ](/news/2016/03/30/mexico-city-facing-the-capital-s-worst-air-quality-crisis-in-over-a-decade-issues-a-temporary-order-that-all-cars-remain-idle-one-day-a-we.md)
-_Context: Air pollution in Mexico City, Mexico City, emissions-cheating, Holy Week_
+_Context: Mexico City, emissions-cheating, Air pollution in Mexico City, Holy Week_
 
 ##### Sweden
 ### [The Wallenberg family files an application to formally declare Swedish diplomat Raoul Wallenberg (born in 1912) to be dead. Wallenberg saved the lives of thousands of Jews in World War II only to disappear at the hands of the Soviet forces. ](/news/2016/03/30/the-wallenberg-family-files-an-application-to-formally-declare-swedish-diplomat-raoul-wallenberg-born-in-1912-to-be-dead-wallenberg-saved.md)
@@ -61,11 +61,11 @@ _Context: National Border Patrol Council, Donald Trump_
 
 ##### Myanmar general election, 2015
 ### [In Myanmar's capital Naypyidaw, Htin Kyaw is sworn in by House Speaker Mahn Win Khaing Than as the first civilian president in 54 years. Htin Kyaw, a close aide to Aung San Suu Kyi, takes power from former general Thein Sein. ](/news/2016/03/30/in-myanmar-s-capital-naypyidaw-htin-kyaw-is-sworn-in-by-house-speaker-mahn-win-khaing-than-as-the-first-civilian-president-in-54-years-hti.md)
-_Context: Thein Sein, Mahn Win Khaing Than, Myanmar, Myanmar general election, 2015, Naypyidaw, Htin Kyaw, Aung San Suu Kyi_
+_Context: Aung San Suu Kyi, Htin Kyaw, Myanmar general election, 2015, Naypyidaw, Thein Sein, Mahn Win Khaing Than, Myanmar_
 
 ##### Pakistan
 ### [The government of Pakistan warns that it will push to clear the Islamist protests occurring in Islamabad. Protests have broken out in the capital and other cities ever since Mumtaz Qadri was executed last February for his role in killing Punjab governor Salmaan Taseer in 2011 because he opposed Pakistan's blasphemy laws. ](/news/2016/03/30/the-government-of-pakistan-warns-that-it-will-push-to-clear-the-islamist-protests-occurring-in-islamabad-protests-have-broken-out-in-the-ca.md)
-_Context: Punjab Province, Salmaan Taseer, Islamists, Pakistan, Mumtaz Qadri, Islamabad_
+_Context: Islamabad, Islamists, Salmaan Taseer, Punjab Province, Mumtaz Qadri, Pakistan_
 
 ##### Libyan Civil War (2014-present)
 ### [The United Nations-backed Libyan Presidential Council arrives in Tripoli despite warnings by hardliners opposed to any unity government that they will attempt to keep them out of the city. ](/news/2016/03/30/the-united-nations-backed-libyan-presidential-council-arrives-in-tripoli-despite-warnings-by-hardliners-opposed-to-any-unity-government-that.md)

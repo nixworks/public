@@ -5,7 +5,7 @@ Formats: [HTML](2008/01/13/index.html)  [JSON](2008/01/13/index.json)  [XML](200
 
 ##### Atonement
 ### [ "Atonement" wins the Golden Globe for Best Motion Picture - Drama at the 65th Golden Globe Awards. "Sweeney Todd" wins the Golden Globe Award for Best Motion Picture - Musical or Comedy. ](/news/2008/01/13/atonement-wins-the-golden-globe-for-best-motion-picture-drama-at-the-65th-golden-globe-awards-sweeney-todd-wins-the-golden-globe-awa.md)
-_Context: Golden Globe Award for Best Motion Picture - Musical or Comedy, Atonement, 65th Golden Globe Awards, Golden Globe for Best Motion Picture - Drama, Sweeney Todd_
+_Context: Golden Globe for Best Motion Picture - Drama, Sweeney Todd, 65th Golden Globe Awards, Atonement, Golden Globe Award for Best Motion Picture - Musical or Comedy_
 
 ##### Flood
 ### [ Floods in Mozambique kill 50 people, lead to the evacuation of 30,000 and make 72,000 homeless. ](/news/2008/01/13/floods-in-mozambique-kill-50-people-lead-to-the-evacuation-of-30-000-and-make-72-000-homeless.md)

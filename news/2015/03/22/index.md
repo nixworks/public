@@ -29,7 +29,7 @@ Tropical cyclone Nathan has been lashing the Northern Territory with wind gusts 
 
 ##### Japan
 ### [Japan allocates 820 billion yen ($6.8 billion) for creating a nearly 400-kilometer (250-mile) chain of cement seawalls, at places nearly five stories high, against future tsunami disasters such as the one that struck the country's northeastern coast four years ago. ](/news/2015/03/22/japan-allocates-820-billion-yen-6-8-billion-for-creating-a-nearly-400-kilometer-250-mile-chain-of-cement-seawalls-at-places-nearly-fiv.md)
-_Context: tsunami, Japan, seawall, allocates, 2011 Tohoku earthquake and tsunami, $_
+_Context: seawall, $, Japan, tsunami, 2011 Tohoku earthquake and tsunami, allocates_
 
 ##### Venezuela
 ### [A Venezuelan bus plunges into a lake in Aragua state, southwest of the capital Caracas, killing at least eleven people with thirty-six others injured. ](/news/2015/03/22/a-venezuelan-bus-plunges-into-a-lake-in-aragua-state-southwest-of-the-capital-caracas-killing-at-least-eleven-people-with-thirty-six-other.md)

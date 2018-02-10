@@ -17,15 +17,15 @@ _Context: Ehud Barak, Israel, Gaza Strip_
 
 ##### United States
 ### [ The United States imposes economic sanctions against the Iranian Revolutionary Guard for its support of terrorism. ](/news/2007/10/25/the-united-states-imposes-economic-sanctions-against-the-iranian-revolutionary-guard-for-its-support-of-terrorism.md)
-_Context: Iranian Revolutionary Guard, economic sanction, terrorism, United States_
+_Context: Iranian Revolutionary Guard, United States, terrorism, economic sanction_
 
 ##### Yang
 ### [ Yang Jiechi, the foreign minister of China, meets with Pranab Mukherjee, the Foreign Minister of India, to discuss India's aspirations to become a Permanent Member of the United Nations Security Council. ](/news/2007/10/25/yang-jiechi-the-foreign-minister-of-china-meets-with-pranab-mukherjee-the-foreign-minister-of-india-to-discuss-india-s-aspirations-to-b.md)
-_Context: India, Pranab Mukherjee, United Nations Security Council, Yang, China_
+_Context: Yang, India, Pranab Mukherjee, China, United Nations Security Council_
 
 ##### A380
 ### [ The Airbus A380 takes off on its inaugural passenger flight from Singapore to Sydney. ](/news/2007/10/25/the-airbus-a380-takes-off-on-its-inaugural-passenger-flight-from-singapore-to-sydney.md)
-_Context: Singapore, Sydney, A380_
+_Context: Sydney, Singapore, A380_
 
 ##### Magnitude
 ### [ A 7.1 magnitude earthquake occurs off the coast of Sumatra in Indonesia approximately 135 kilometres south-west of Bengkulu. ](/news/2007/10/25/a-7-1-magnitude-earthquake-occurs-off-the-coast-of-sumatra-in-indonesia-approximately-135-kilometres-south-west-of-bengkulu.md)

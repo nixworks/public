@@ -5,11 +5,11 @@ Formats: [HTML](2009/10/20/index.html)  [JSON](2009/10/20/index.json)  [XML](200
 
 ##### Afghanistan
 ### [ Afghanistan's election commission orders a run-off election for November 7 in the Afghan presidential election. ](/news/2009/10/20/afghanistan-s-election-commission-orders-a-run-off-election-for-november-7-in-the-afghan-presidential-election.md)
-_Context: Afghanistan, presidential election, run-off election_
+_Context: Afghanistan, run-off election, presidential election_
 
 ##### Canon laws
 ### [ In a set of canon laws, the Vatican welcomes groups of Anglicans as "personal ordinariates" into the Catholic Church, Pope Benedict XVI announces. ](/news/2009/10/20/in-a-set-of-canon-laws-the-vatican-welcomes-groups-of-anglicans-as-personal-ordinariates-into-the-catholic-church-pope-benedict-xvi-ann.md)
-_Context: canon laws, Anglican, Holy See, Catholic Church, Pope Benedict XVI_
+_Context: Holy See, Anglican, canon laws, Catholic Church, Pope Benedict XVI_
 
 ##### Yemen
 ### [ A court in Yemen sentences 10 Shi'ite Houthi rebels to death and jailed five others over clashes which killed hundreds of people last year. ](/news/2009/10/20/a-court-in-yemen-sentences-10-shi-ite-houthi-rebels-to-death-and-jailed-five-others-over-clashes-which-killed-hundreds-of-people-last-year.md)
@@ -17,15 +17,15 @@ Ten Houthis given death penalty and five others jailed over deadly clashes.
 
 ##### North Korea
 ### [ Nine North Koreans who entered the Danish embassy in Hanoi, Vietnam, last month leave for South Korea. ](/news/2009/10/20/nine-north-koreans-who-entered-the-danish-embassy-in-hanoi-vietnam-last-month-leave-for-south-korea.md)
-_Context: Denmark, North Korea, South Korea, Vietnam, Hanoi_
+_Context: North Korea, Hanoi, Vietnam, South Korea, Denmark_
 
 ##### Richard Herman
 ### [ Richard Herman resigns as the Chancellor of the University of Illinois at Urbana-Champaign as a result of an admissions scandal. ](/news/2009/10/20/richard-herman-resigns-as-the-chancellor-of-the-university-of-illinois-at-urbanaachampaign-as-a-result-of-an-admissions-scandal.md)
-_Context: admissions scandal, Richard Herman, University of Illinois at Urbana-Champaign_
+_Context: Richard Herman, admissions scandal, University of Illinois at Urbana-Champaign_
 
 ##### Sun Microsystems
 ### [ Sun Microsystems announces plans to lay off up to 3,000 workers as it prepares for a merger with Oracle Corp. ](/news/2009/10/20/sun-microsystems-announces-plans-to-lay-off-up-to-3-000-workers-as-it-prepares-for-a-merger-with-oracle-corp.md)
-_Context: Sun Microsystems, Oracle Corp, lay off_
+_Context: lay off, Oracle Corp, Sun Microsystems_
 
 ##### Kyrgyzstan
 ### [ The entire government of Kyrgyzstan resigns as President Kurmanbek Bakiyev announces a new reform campaign. ](/news/2009/10/20/the-entire-government-of-kyrgyzstan-resigns-as-president-kurmanbek-bakiyev-announces-a-new-reform-campaign.md)
@@ -33,11 +33,11 @@ Taiwan News Online Taiwan News is one of the most widely visited English-languag
 
 ##### Niger
 ### [ Niger is suspended by the Economic Community of West African States (ECOWAS) after its President Tandja Mamadou went ahead with a parliamentary election it had asked to be postponed over boycotts. ](/news/2009/10/20/niger-is-suspended-by-the-economic-community-of-west-african-states-ecowas-after-its-president-tandja-mamadou-went-ahead-with-a-parliamen.md)
-_Context: Tandja Mamadou, ECOWAS, Nigerien President, Niger, parliamentary election_
+_Context: Tandja Mamadou, Niger, parliamentary election, Nigerien President, ECOWAS_
 
 ##### Bomb explosions
 ### [ At least four students are killed and many injured in bomb explosions at an Islamic university in Islamabad, Pakistan. ](/news/2009/10/20/at-least-four-students-are-killed-and-many-injured-in-bomb-explosions-at-an-islamic-university-in-islamabad-pakistan.md)
-_Context: Islamic university, bomb explosions, Islamabad_
+_Context: Islamabad, Islamic university, bomb explosions_
 
 ##### Piracy off the coast of Somalia
 ### [ China pledges to rescue the crew aboard the Chinese ship "De Xin Hai" after it is hijacked by Somali pirates in the Indian Ocean. The pirates threaten to kill the crew if there is any attempt to rescue them. ](/news/2009/10/20/china-pledges-to-rescue-the-crew-aboard-the-chinese-ship-de-xin-hai-after-it-is-hijacked-by-somali-pirates-in-the-indian-ocean-the-pirat.md)
@@ -49,7 +49,7 @@ Detectives investigating the murders of two British soldiers in Co Antrim in Mar
 
 ##### Iran
 ### [ Iran buries its dead members of the Revolutionary Guard, killed in a suicide attack two days ago. Thousands of people attend the funerals. ](/news/2009/10/20/iran-buries-its-dead-members-of-the-revolutionary-guard-killed-in-a-suicide-attack-two-days-ago-thousands-of-people-attend-the-funerals.md)
-_Context: bomb attack, Iranian Revolutionary guards, Iran_
+_Context: Iran, Iranian Revolutionary guards, bomb attack_
 
 ##### Supreme Court of the United States
 ### [ The Supreme Court of the United States agrees to decide whether federal courts have the power to order prisoners held at Guantanamo Bay to be released into the country. ](/news/2009/10/20/the-supreme-court-of-the-united-states-agrees-to-decide-whether-federal-courts-have-the-power-to-order-prisoners-held-at-guantanamo-bay-to.md)

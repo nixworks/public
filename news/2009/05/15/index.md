@@ -9,31 +9,31 @@ Automaker Not Renewing Franchises; Company Says Bankruptcy Possible Without Bond
 
 ##### United States
 ### [ The United States releases Lakhdar Boumediene from Guantanamo Bay Naval Base's detention center. ](/news/2009/05/15/the-united-states-releases-lakhdar-boumediene-from-guanta-namo-bay-naval-base-s-detention-center.md)
-_Context: military base at Guantanamo Bay, United States, Lakhdar Boumediene, detainee, Guantanamo Bay_
+_Context: detainee, United States, military base at Guantanamo Bay, Guantanamo Bay, Lakhdar Boumediene_
 
 ##### Indigenous peoples
 ### [ Sixty-five indigenous peoples declare an insurgency against Peru's government. ](/news/2009/05/15/sixty-five-indigenous-peoples-declare-an-insurgency-against-peru-s-government.md)
-_Context: Peru, insurgency, Government of Peru, indigenous peoples_
+_Context: Peru, Government of Peru, insurgency, indigenous peoples_
 
 ##### Shahid Malik
 ### [ Shahid Malik resigns as the United Kingdom's Parliamentary Under-Secretary of State for Justice. ](/news/2009/05/15/shahid-malik-resigns-as-the-united-kingdom-s-parliamentary-under-secretary-of-state-for-justice.md)
-_Context: expenses controversy, Justice, United Kingdom, Shahid Malik, minister_
+_Context: Shahid Malik, Justice, expenses controversy, United Kingdom, minister_
 
 ##### Eurozone
 ### [ The Eurozone's 16 national economies contract by 2.5% throughout the first fiscal quarter of 2009. ](/news/2009/05/15/the-eurozone-s-16-national-economies-contract-by-2-5-throughout-the-first-fiscal-quarter-of-2009.md)
-_Context: Eurozone, first fiscal quarter, 4th quarter of 2007 and the second quarter of 2009, 2009, national economies_
+_Context: national economies, first fiscal quarter, 4th quarter of 2007 and the second quarter of 2009, 2009, Eurozone_
 
 ##### United States
 ### [ U.S. President Barack Obama will resume military tribunals for detainees at Guantanamo Bay. ](/news/2009/05/15/u-s-president-barack-obama-will-resume-military-tribunals-for-detainees-at-guanta-namo-bay.md)
-_Context: Barack Obama, detainee, military tribunal, United States, U.S. President, detainees_
+_Context: U.S. President, detainees, Barack Obama, detainee, military tribunal, United States_
 
 ##### Suicide attack
 ### [ A suicide attack kills three people in Grozny, Chechnya, Russia. ](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.md)
-_Context: Russia, suicide attack, Grozny, Chechnya_
+_Context: suicide attack, Russia, Grozny, Chechnya_
 
 ##### Demonstration
 ### [ Demonstrators demand the resignation of Guatemalan President Alvaro Colom. ](/news/2009/05/15/demonstrators-demand-the-resignation-of-guatemalan-president-alvaro-colom.md)
-_Context: Guatemala, Alvaro Colom, resignation, Guatemalan President, demonstration_
+_Context: Alvaro Colom, Guatemalan President, resignation, Guatemala, demonstration_
 
 ##### Sudan
 ### [ Sudan accuses Chad of launching two air raids on its territory. ](/news/2009/05/15/sudan-accuses-chad-of-launching-two-air-raids-on-its-territory.md)
@@ -41,7 +41,7 @@ Sudan Friday accused its neighbor Chad of launching two bombing raids on its ter
 
 ##### Nicaragua
 ### [ The Central Bank of Nicaragua introduces new 10 and 20 Cordoba banknotes. ](/news/2009/05/15/the-central-bank-of-nicaragua-introduces-new-10-and-20-ca3rdoba-banknotes.md)
-_Context: Cordoba banknotes, Nicaragua_
+_Context: Nicaragua, Cordoba banknotes_
 
 ## [Previous Day...](/news/2009/05/14/index.md)
 

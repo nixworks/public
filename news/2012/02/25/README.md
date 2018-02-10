@@ -17,7 +17,7 @@ A suicide bombing claimed by al Qaeda killed at least 26 people outside a presid
 
 ##### Bahrain
 ### [Bahrain's Opposition Al-Wefaq group claims that a woman has died from tear gas inhalation. ](/news/2012/02/25/bahrain-s-opposition-al-wefaq-group-claims-that-a-woman-has-died-from-tear-gas-inhalation.md)
-_Context: Al-Wefaq, Bahrain, tear gas_
+_Context: Al-Wefaq, tear gas, Bahrain_
 
 ##### Spanish Navy
 ### [Treasure from the Spanish Navy frigate "Nuestra Seora de las Mercedes" returns to Spain after being recovered by Odyssey Marine Exploration in 2007. ](/news/2012/02/25/treasure-from-the-spanish-navy-frigate-nuestra-senora-de-las-mercedes-returns-to-spain-after-being-recovered-by-odyssey-marine-exploration.md)
@@ -45,7 +45,7 @@ An Italian court has thrown out bribery charges against former prime minister Si
 
 ##### Pakistan
 ### [Pakistani authorities start demolition of Osama bin Laden's former compound in Abbottabad. ](/news/2012/02/25/pakistani-authorities-start-demolition-of-osama-bin-laden-s-former-compound-in-abbottabad.md)
-_Context: compound in Abbottabad, Osama bin Laden, Pakistan_
+_Context: compound in Abbottabad, Pakistan, Osama bin Laden_
 
 ##### Tel Aviv
 ### [A thousand people hold a protest in Tel Aviv over Israel's proposed plan to deport hundreds of migrant workers. ](/news/2012/02/25/a-thousand-people-hold-a-protest-in-tel-aviv-over-israel-s-proposed-plan-to-deport-hundreds-of-migrant-workers.md)
@@ -57,7 +57,7 @@ Voter suppression tactics, including a pattern of harassing phone calls, were a 
 
 ##### World Health Organisation
 ### [The World Health Organisation removes India from the list of polio endemic countries with only Pakistan, Afghanistan and Nigeria remaining. ](/news/2012/02/25/the-world-health-organisation-removes-india-from-the-list-of-polio-endemic-countries-with-only-pakistan-afghanistan-and-nigeria-remaining.md)
-_Context: Pakistan, India, endemic, Nigeria, Afghanistan, World Health Organisation, polio_
+_Context: World Health Organisation, Nigeria, India, endemic, Afghanistan, Pakistan, polio_
 
 ## [Previous Day...](/news/2012/02/24/index.md)
 

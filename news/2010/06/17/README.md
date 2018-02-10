@@ -15,7 +15,7 @@ _Context: Maharashtra, India_
 ### [At least 46 people are killed, 50 others disappear and millions are affected following heavy five-day rains in China's southern regions. ](/news/2010/06/17/at-least-46-people-are-killed-50-others-disappear-and-millions-are-affected-following-heavy-five-day-rains-in-china-s-southern-regions.md)
 ##### Myanmar
 ### [46 people die when heavy rains trigger landslides in western Myanmar, in Rakhine state in an area bordering Bangladesh. ](/news/2010/06/17/46-people-die-when-heavy-rains-trigger-landslides-in-western-myanmar-in-rakhine-state-in-an-area-bordering-bangladesh.md)
-_Context: Bangladesh, Myanmar, Rakhine State_
+_Context: Rakhine State, Bangladesh, Myanmar_
 
 ##### Netherlands
 ### [Dutch novelist Gerbrand Bakker wins the 2010 International IMPAC Dublin Literary Award for his novel "The Twin". ](/news/2010/06/17/dutch-novelist-gerbrand-bakker-wins-the-2010-international-impac-dublin-literary-award-for-his-novel-the-twin.md)
@@ -35,7 +35,7 @@ Seven churches, a power station and an elementary school are also razed. The reg
 
 ##### BP
 ### [BP Chief Executive Tony Hayward testifies before the U.S. Congress, apologizing for the spill but avoiding answering most questions and stating that he was unaware of the risks at the Deepwater Horizon rig that exploded in April causing the oil spill. ](/news/2010/06/17/bp-chief-executive-tony-hayward-testifies-before-the-u-s-congress-apologizing-for-the-spill-but-avoiding-answering-most-questions-and-stat.md)
-_Context: BP, Deepwater Horizon oil spill, U.S. Congress, Tony Hayward, Deepwater Horizon_
+_Context: Deepwater Horizon, BP, U.S. Congress, Tony Hayward, Deepwater Horizon oil spill_
 
 ##### Israel
 ### [Israel's decision to ease the Gaza blockade is welcomed by the United Nations and the United States; Gaza's Hamas rulers say this is propaganda by Israel. ](/news/2010/06/17/israel-s-decision-to-ease-the-gaza-blockade-is-welcomed-by-the-united-nations-and-the-united-states-gaza-s-hamas-rulers-say-this-is-propaga.md)
@@ -51,7 +51,7 @@ First Game 7 of Finals in Five Years Ends with Los Angeles Win
 
 ##### Turkey
 ### [Turkish warplanes carry out a series of airstrikes against suspected Kurdish targets in Iraq and Turkish soldiers withdraw from Iraqi territory after sending troops in pursuit of Kurdish rebels in the latest fighting between Turkey and Kurdish rebels. ](/news/2010/06/17/turkish-warplanes-carry-out-a-series-of-airstrikes-against-suspected-kurdish-targets-in-iraq-and-turkish-soldiers-withdraw-from-iraqi-territ.md)
-_Context: Turkey, Kurdistan Workers' Party, disarm, Kurdish, Iraq_
+_Context: Iraq, Turkey, disarm, Kurdish, Kurdistan Workers' Party_
 
 ##### Times Square bomber
 ### [The Times Square bombing attempt suspect is indicted on 10 terrorism and weapons charges in New York City. ](/news/2010/06/17/the-times-square-bombing-attempt-suspect-is-indicted-on-10-terrorism-and-weapons-charges-in-new-york-city.md)
@@ -79,15 +79,15 @@ European Union leaders approve new sanctions on Iran that are tougher than recen
 
 ##### Austria
 ### [Powerful Austrian publisher and household name Hans Dichand, who greatly influenced Austrian politics, dies aged 89. ](/news/2010/06/17/powerful-austrian-publisher-and-household-name-hans-dichand-who-greatly-influenced-austrian-politics-dies-aged-89.md)
-_Context: Austria, Austrian politics, Hans Dichand_
+_Context: Austria, Hans Dichand, Austrian politics_
 
 ##### Kenya
 ### [Kenyan Assistant Roads Minister Wilfred Machage is suspended by President Mwai Kibaki after being charged, alongside two other MPs, with inciting hatred yesterday. ](/news/2010/06/17/kenyan-assistant-roads-minister-wilfred-machage-is-suspended-by-president-mwai-kibaki-after-being-charged-alongside-two-other-mps-with-inc.md)
-_Context: Mwai Kibaki, Kenya, Wilfred Machage, president_
+_Context: Wilfred Machage, Mwai Kibaki, president, Kenya_
 
 ##### Rwanda
 ### [Rwanda releases from custody an American lawyer for health reasons. The lawyer is charged with genocide denial and threatening state security, the first outsider tried under the country's 2003 anti-genocide legislation. ](/news/2010/06/17/rwanda-releases-from-custody-an-american-lawyer-for-health-reasons-the-lawyer-is-charged-with-genocide-denial-and-threatening-state-securit.md)
-_Context: United States, Rwanda_
+_Context: Rwanda, United States_
 
 ##### Surveillance cameras
 ### [Hundreds of surveillance cameras, alleged to be part of a counter-terrorism operation in highly Muslim areas, are put into temporary disuse in parts of Birmingham, England, after protest by the local population. ](/news/2010/06/17/hundreds-of-surveillance-cameras-alleged-to-be-part-of-a-counter-terrorism-operation-in-highly-muslim-areas-are-put-into-temporary-disuse.md)

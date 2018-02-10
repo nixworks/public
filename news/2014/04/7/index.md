@@ -9,7 +9,7 @@ Russian soldier shoots dead naval officer in Crimea, defence ministry says
 
 ##### Finance Minister
 ### [The Finance Minister of France, Michel Sapin, says that his country is committed to both budget cuts and growth, and willing to make "tough brave" decisions. ](/news/2014/04/7/the-finance-minister-of-france-michel-sapin-says-that-his-country-is-committed-to-both-budget-cuts-and-growth-and-willing-to-make-tough.md)
-_Context: Michel Sapin, Finance Minister, France_
+_Context: Finance Minister, Michel Sapin, France_
 
 ##### President
 ### [The President of Ireland, Michael D. Higgins, arrives in the United Kingdom for a state visit, the first to the UK by an Irish Head of State. ](/news/2014/04/7/the-president-of-ireland-michael-d-higgins-arrives-in-the-united-kingdom-for-a-state-visit-the-first-to-the-uk-by-an-irish-head-of-state.md)
@@ -33,7 +33,7 @@ Former secretary general of Nato, Lord Robertson, says Scottish independence wou
 
 ##### Cu Huy Ha Vu
 ### [Lawyer Cu Huy Ha Vu, one of Vietnam's most famous dissidents, is released early from prison. Afterwards, he travels to the United States. ](/news/2014/04/7/lawyer-ca1-huy-ha-va-c-one-of-vietnamas-most-famous-dissidents-is-released-early-from-prison-afterwards-he-travels-to-the-united-state.md)
-_Context: Cu Huy Ha Vu, Vietnam_
+_Context: Vietnam, Cu Huy Ha Vu_
 
 ##### Heartbleed bug
 ### [A critical vulnerability referred to as the Heartbleed bug is discovered in certain versions of the popular OpenSSL software which allows attackers to steal information from internet servers which would otherwise be protected. ](/news/2014/04/7/a-critical-vulnerability-referred-to-as-the-heartbleed-bug-is-discovered-in-certain-versions-of-the-popular-openssl-software-which-allows-at.md)

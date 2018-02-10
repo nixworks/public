@@ -5,11 +5,11 @@ Formats: [HTML](2011/11/17/index.html)  [JSON](2011/11/17/index.json)  [XML](201
 
 ##### 2011 Syrian uprising
 ### [2011 Syrian uprising: Explosions and gunfire are reported in the Syrian capital Damascus. ](/news/2011/11/17/2011-syrian-uprising-explosions-and-gunfire-are-reported-in-the-syrian-capital-damascus.md)
-_Context: Syria, Damascus, 2011 Syrian uprising_
+_Context: Syria, 2011 Syrian uprising, Damascus_
 
 ##### Kenya
 ### [The presidents of Kenya, Somalia and Uganda meet in Nairobi to discuss coordinated military operations against the al-Qaeda-linked Somali terrorist group Al-Shabaab. ](/news/2011/11/17/the-presidents-of-kenya-somalia-and-uganda-meet-in-nairobi-to-discuss-coordinated-military-operations-against-the-al-qaeda-linked-somali-te.md)
-_Context: Al-Shabaab, Somalia, al-Qaeda, Nairobi, Kenya, Uganda, Operation Linda Nchi_
+_Context: Al-Shabaab, Uganda, Operation Linda Nchi, Kenya, Somalia, Nairobi, al-Qaeda_
 
 ##### Swede
 ### [Swedish divers find the wreckage of the warship "Svardet", sunk in 1676 during the Battle of Oland. ](/news/2011/11/17/swedish-divers-find-the-wreckage-of-the-warship-sva-rdet-sunk-in-1676-during-the-battle-of-aland.md)
@@ -25,11 +25,11 @@ Authorities charged Oscar Ramiro Ortega-Hernandez with trying to assassinate Pre
 
 ##### Polynesian Leaders Group
 ### [The Polynesian Leaders Group, an eight-member governmental cooperative regional grouping, is formally launched in Apia, Samoa. ](/news/2011/11/17/the-polynesian-leaders-group-an-eight-member-governmental-cooperative-regional-grouping-is-formally-launched-in-apia-samoa.md)
-_Context: Polynesian Leaders Group, Samoa, Apia_
+_Context: Apia, Polynesian Leaders Group, Samoa_
 
 ##### North Korea
 ### [Reports emerge that nearly 14,000 North Korean anti-chemical-weapon suits, believed destined for Syria, were seized by Greek authorities in November 2009. ](/news/2011/11/17/reports-emerge-that-nearly-14-000-north-korean-anti-chemical-weapon-suits-believed-destined-for-syria-were-seized-by-greek-authorities-in.md)
-_Context: Syria, chemical weapon, Greece, North Korea_
+_Context: Syria, Greece, North Korea, chemical weapon_
 
 ##### United States House of Representatives
 ### [The United States House of Representatives considers censoring the Internet for the first time with the Stop Online Piracy Act. ](/news/2011/11/17/the-united-states-house-of-representatives-considers-censoring-the-internet-for-the-first-time-with-the-stop-online-piracy-act.md)
@@ -37,11 +37,11 @@ Several Web giants are voicing their opposition to the new Internet piracy bill 
 
 ##### Daniel Ortega
 ### [Daniel Ortega, the President of Nicaragua, is declared the winner of the recent Presidential election, but opponents protest the results. ](/news/2011/11/17/daniel-ortega-the-president-of-nicaragua-is-declared-the-winner-of-the-recent-presidential-election-but-opponents-protest-the-results.md)
-_Context: Daniel Ortega, recent Presidential election, Nicaraguan President_
+_Context: recent Presidential election, Daniel Ortega, Nicaraguan President_
 
 ##### China
 ### [China's unmanned Shenzhou 8 spacecraft successfully returns to Earth, landing in the Inner Mongolia autonomous region after docking twice with the Tiangong-1 orbital laboratory module. ](/news/2011/11/17/china-s-unmanned-shenzhou-8-spacecraft-successfully-returns-to-earth-landing-in-the-inner-mongolia-autonomous-region-after-docking-twice-wi.md)
-_Context: China, Inner Mongolia, Tiangong-1, Shenzhou 8_
+_Context: Shenzhou 8, China, Tiangong-1, Inner Mongolia_
 
 ## [Previous Day...](/news/2011/11/16/index.md)
 

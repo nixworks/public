@@ -13,11 +13,11 @@ Former Maoist rebel leader Prachanda has been elected as Nepal&#039;s first repu
 
 ##### Catholic Church
 ### [ Leftist former Catholic bishop Fernando Lugo is sworn in as the President of Paraguay, ending 60 years of one-party rule. ](/news/2008/08/15/leftist-former-catholic-bishop-fernando-lugo-is-sworn-in-as-the-president-of-paraguay-ending-60-years-of-one-party-rule.md)
-_Context: Fernando Lugo, Catholic Church, Paraguayan President_
+_Context: Catholic Church, Paraguayan President, Fernando Lugo_
 
 ##### President of Chad
 ### [ Former President Hissene Habre is sentenced to death "in absentia" by a Chadian court for a military assault on the capital. ](/news/2008/08/15/former-president-hissa-ne-habra-c-is-sentenced-to-death-in-absentia-by-a-chadian-court-for-a-military-assault-on-the-capital.md)
-_Context: President of Chad, Chad, Hissene Habre, military assault_
+_Context: Hissene Habre, President of Chad, Chad, military assault_
 
 ##### 
 ### [ Russia threatens Poland with military consequences for allowing the United States of America to place defense missiles within its borders. ](/news/2008/08/15/russia-threatens-poland-with-military-consequences-for-allowing-the-united-states-of-america-to-place-defense-missiles-within-its-borders.md)
@@ -27,11 +27,11 @@ The conflict may be over, but not the war of words. Moscow claims some Western n
 
 ##### 2008 Summer Olympics
 ### [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.md)
-_Context: United States, Michael Phelps, 2008 Summer Olympics, gold medal_
+_Context: gold medal, United States, 2008 Summer Olympics, Michael Phelps_
 
 ##### Free Tibet
 ### [ Five people are arrested in Beijing after unfurling a "free Tibet" banner on the Central TV Tower, the highest building in Beijing. ](/news/2008/08/15/five-people-are-arrested-in-beijing-after-unfurling-a-free-tibet-banner-on-the-central-tv-tower-the-highest-building-in-beijing.md)
-_Context: Central TV Tower, free Tibet_
+_Context: free Tibet, Central TV Tower_
 
 ## [Previous Day...](/news/2008/08/14/index.md)
 

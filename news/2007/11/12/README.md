@@ -5,19 +5,19 @@ Formats: [HTML](2007/11/12/index.html)  [JSON](2007/11/12/index.json)  [XML](200
 
 ##### Didymus Mutasa
 ### [ Didymus Mutasa, the Minister of Lands and Security of Zimbabwe, admits in a court in Paris, France, that the Mugabe government stole land from ten citizens of the Netherlands. If the government does not voluntarily compensate the citizens then they have the right to seize property owned by the Zimbabwean government of equal value. ](/news/2007/11/12/didymus-mutasa-the-minister-of-lands-and-security-of-zimbabwe-admits-in-a-court-in-paris-france-that-the-mugabe-government-stole-land-f.md)
-_Context: Robert Mugabe, Zimbabwe, Didymus Mutasa_
+_Context: Didymus Mutasa, Robert Mugabe, Zimbabwe_
 
 ##### Milan
 ### [ The Milan Court of Appeal sentences Giovanni Consorte, Ivano Sacchetti and Emilio Gnutti to six months in jail for insider trading in the Unipol case. ](/news/2007/11/12/the-milan-court-of-appeal-sentences-giovanni-consorte-ivano-sacchetti-and-emilio-gnutti-to-six-months-in-jail-for-insider-trading-in-the-u.md)
-_Context: Giovanni Consorte, Unipol, Ivano Sacchetti, Court of Appeal, Emilio Gnutti, Milan, insider trading_
+_Context: Milan, Unipol, Court of Appeal, Ivano Sacchetti, Emilio Gnutti, Giovanni Consorte, insider trading_
 
 ##### Kenya
 ### [ Kenyan President Mwai Kibaki reappoints Samuel Kivuitu as the head of Kenya's Electoral Commission ahead of the 2007 general election. ](/news/2007/11/12/kenyan-president-mwai-kibaki-reappoints-samuel-kivuitu-as-the-head-of-kenya-s-electoral-commission-ahead-of-the-2007-general-election.md)
-_Context: Samuel Kivuitu, President of Kenya, Kenya, 2007 presidential election, Mwai Kibaki_
+_Context: Kenya, President of Kenya, 2007 presidential election, Samuel Kivuitu, Mwai Kibaki_
 
 #####  Georgian
 ### [ Georgian opposition parties choose Levan Gachechiladze as their common candidate to challenge President Mikheil Saakashvili in the 2008 presidential election. ](/news/2007/11/12/georgian-opposition-parties-choose-levan-gachechiladze-as-their-common-candidate-to-challenge-president-mikheil-saakashvili-in-the-2008-pre.md)
-_Context: Mikheil Saakashvili,  Georgian, Levan Gachechiladze, President of Georgia, Georgian presidential election, 2008_
+_Context: President of Georgia, Georgian presidential election, 2008, Levan Gachechiladze, Mikheil Saakashvili,  Georgian_
 
 ##### IBM
 ### [ IBM announces it will buy business intelligence firm Cognos for US$5 billion. ](/news/2007/11/12/ibm-announces-it-will-buy-business-intelligence-firm-cognos-for-us-5-billion.md)
@@ -25,23 +25,23 @@ _Context: business intelligence, IBM, Cognos_
 
 ##### Anti-racism
 ### [ A 16-year-old Spanish anti-racism activist is killed during a far-right anti-immigration protest in Madrid. ](/news/2007/11/12/a-16-year-old-spanish-anti-racism-activist-is-killed-during-a-far-right-anti-immigration-protest-in-madrid.md)
-_Context: Madrid, far-right, anti-racism_
+_Context: anti-racism, Madrid, far-right_
 
 ##### Yvan Colonna
 ### [ The trial of Yvan Colonna, a Corsican separatist accused of murdering former Prefect of Corse-du-Sud Claude Erignac in 1998, opens in Paris. ](/news/2007/11/12/the-trial-of-yvan-colonna-a-corsican-separatist-accused-of-murdering-former-prefect-of-corse-du-sud-claude-arignac-in-1998-opens-in-pari.md)
-_Context: Corse-du-Sud, Prefect, Corsica, separatist, Claude Erignac, Yvan Colonna_
+_Context: Corse-du-Sud, Yvan Colonna, Corsica, Claude Erignac, separatist, Prefect_
 
 ##### Airbus
 ### [ Airbus and Boeing both win a giant order of 100 planes from Dubai Aerospace Enterprise, a United Arab Emirates jet leasing corporation. ](/news/2007/11/12/airbus-and-boeing-both-win-a-giant-order-of-100-planes-from-dubai-aerospace-enterprise-a-united-arab-emirates-jet-leasing-corporation.md)
-_Context: Dubai Aerospace Enterprise, United Arab Emirates, Airbus, Boeing Company_
+_Context: United Arab Emirates, Dubai Aerospace Enterprise, Airbus, Boeing Company_
 
 ##### Government
 ### [ A new government headed by the Bharatiya Janata Party, India's main opposition party, takes office in the state of Karnataka. ](/news/2007/11/12/a-new-government-headed-by-the-bharatiya-janata-party-india-s-main-opposition-party-takes-office-in-the-state-of-karnataka.md)
-_Context: Karnataka, Bharatiya Janata Party, government, opposition party_
+_Context: opposition party, government, Karnataka, Bharatiya Janata Party_
 
 ##### Bank of America
 ### [ Bank of America, Citigroup and JPMorgan Chase agree to a US$75 billion plan designed to heal the credit markets. ](/news/2007/11/12/bank-of-america-citigroup-and-jpmorgan-chase-agree-to-a-us-75-billion-plan-designed-to-heal-the-credit-markets.md)
-_Context: Citigroup, Bank of America, JPMorgan Chase, credit market_
+_Context: Citigroup, JPMorgan Chase, Bank of America, credit market_
 
 ##### War in Afghanistan (2001-present)
 ### [ War in Afghanistan: The United States Army kills 15 insurgents and three civilians in the Helmand Province. ](/news/2007/11/12/war-in-afghanistan-the-united-states-army-kills-15-insurgents-and-three-civilians-in-the-helmand-province.md)
@@ -49,31 +49,31 @@ _Context: War in Afghanistan (2001-present), Helmand Province_
 
 ##### Nigeria
 ### [ Nigeria's State Security Service arrests a group of Islamic militants with suspected links to al-Qaeda. ](/news/2007/11/12/nigeria-s-state-security-service-arrests-a-group-of-islamic-militants-with-suspected-links-to-al-qaeda.md)
-_Context: al-Qaeda, State Security Service, Nigeria_
+_Context: State Security Service, al-Qaeda, Nigeria_
 
 ##### Fatah
 ### [ Thousands of Fatah supporters gather in Gaza to mark the third anniversary of Yasser Arafat's death. Hamas security forces kill seven people and wound several. ](/news/2007/11/12/thousands-of-fatah-supporters-gather-in-gaza-to-mark-the-third-anniversary-of-yasser-arafat-s-death-hamas-security-forces-kill-seven-peopl.md)
-_Context: Gaza Strip, Hamas, Fatah, Yasser Arafat_
+_Context: Fatah, Yasser Arafat, Gaza Strip, Hamas_
 
 ##### Airstrike
 ### [ Pakistan Army renews air attacks in the Swat valley targeting extremists positions.date=December 2007 Foreign ministers of the Commonwealth of Nations meet in London to discuss the issue of Pakistan. They demand that President Pervez Musharraf lift the state of emergency, release political prisoners and step down as army chief by November 22, or otherwise the country will be "suspended from the Councils of the Commonwealth." ](/news/2007/11/12/pakistan-army-renews-air-attacks-in-the-swat-valley-targeting-extremists-positions-date-december-2007-foreign-ministers-of-the-commonwealth.md)
-_Context: president, Pervez Musharraf, airstrike, foreign ministers, Pakistan Army, political prisoner, state of emergency, Swat valley, Commonwealth of Nations, Pakistan_
+_Context: Pakistan Army, Commonwealth of Nations, state of emergency, Pakistan, airstrike, president, foreign ministers, Swat valley, Pervez Musharraf, political prisoner_
 
 ##### Russian Army
 ### [ Russian troops kill eight suspected militants in Makhachkala, Dagestan. ](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.md)
-_Context: militant, Dagestan, Russian Army, Makhachkala_
+_Context: militant, Russian Army, Dagestan, Makhachkala_
 
 ##### Ceferino Namuncura
 ### [ Ceferino Namuncura is the first indigenous Argentinian to be beatified by the Roman Catholic Church. 100,000 people attend the ceremony in Chimpay. ](/news/2007/11/12/ceferino-namuncura-is-the-first-indigenous-argentinian-to-be-beatified-by-the-roman-catholic-church-100-000-people-attend-the-ceremony-in.md)
-_Context: Native Americans, Argentina, Roman Catholic Church, Ceferino Namuncura, beatified, Chimpay_
+_Context: Argentina, Chimpay, beatified, Ceferino Namuncura, Roman Catholic Church, Native Americans_
 
 ##### Sea of Azov
 ### [ Four ships sink during a powerful storm in the Sea of Azov and Black Sea. 2,000 tonnes of fuel oil are spilled into the Strait of Kerch. Three sailors die and eight are missing. ](/news/2007/11/12/four-ships-sink-during-a-powerful-storm-in-the-sea-of-azov-and-black-sea-2-000-tonnes-of-fuel-oil-are-spilled-into-the-strait-of-kerch-th.md)
-_Context: Sea of Azov, Black Sea, Strait of Kerch, fuel oil, tonne_
+_Context: Black Sea, Sea of Azov, Strait of Kerch, fuel oil, tonne_
 
 ##### Intel
 ### [ Intel announces that it is using a hafnium compound instead of silicon dioxide to insulate transistors in its newly introduced Penryn microprocessor, eliminating power leakage through the gate (but not through the channel). ](/news/2007/11/12/intel-announces-that-it-is-using-a-hafnium-compound-instead-of-silicon-dioxide-to-insulate-transistors-in-its-newly-introduced-penryn-micro.md)
-_Context: transistor, channel, silicon dioxide, Intel, microprocessor, gate, Penryn, hafnium, compound_
+_Context: microprocessor, Intel, gate, transistor, hafnium, channel, silicon dioxide, compound, Penryn_
 
 ## [Previous Day...](/news/2007/11/11/index.md)
 

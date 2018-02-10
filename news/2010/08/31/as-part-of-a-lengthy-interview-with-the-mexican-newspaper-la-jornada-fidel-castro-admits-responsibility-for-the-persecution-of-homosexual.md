@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/31/as-part-of-a-lengthy-interview-with-the-mexican
 
 ### [2010-08-31](/news/2010/08/31/index.md)
 
-##### Mexico
+##### Mexican
 # As part of a lengthy interview with the Mexican newspaper "La Jornada", Fidel Castro admits responsibility for the persecution of homosexuals in Cuba after the revolution of 1959.
 
 Former Cuban President Fidel Castro says he is to blame for the persecution of homosexuals after the Cuban revolution of 1959.

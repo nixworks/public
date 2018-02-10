@@ -13,15 +13,15 @@ _Context: Yola, Boko Haram insurgency_
 
 ##### Turkey-PKK conflict
 ### [The Turkish Air Force strikes 64 PKK targets in northern Iraq reportedly killing up to 60 PKK militants. ](/news/2015/09/11/the-turkish-air-force-strikes-64-pkk-targets-in-northern-iraq-reportedly-killing-up-to-60-pkk-militants.md)
-_Context: Turkish Air Force, Turkey-PKK conflict, PKK, Kurdish_
+_Context: PKK, Turkish Air Force, Turkey-PKK conflict, Kurdish_
 
 ##### 2015 Burundian unrest
 ### [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md)
-_Context: 2015 Burundian unrest, Burundi, Bujumbura, assassinated_
+_Context: 2015 Burundian unrest, Bujumbura, Burundi, assassinated_
 
 ##### Britney Spears
 ### [Britney Spears announces a two-year extension in performing "Britney: Piece of Me" on the Las Vegas Strip. ](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.md)
-_Context: Britney Spears, Las Vegas Strip, Britney: Piece of Me_
+_Context: Britney: Piece of Me, Las Vegas Strip, Britney Spears_
 
 ##### 2015 Pacific typhoon season
 ### [At least three people die, 27 are injured, and 26 people are missing, the majority of them in and around Joso city in Ibaraki Prefecture, as a result of floods and landslides in Japan after heavy rainfall caused by Tropical Storm Etau. ](/news/2015/09/11/at-least-three-people-die-27-are-injured-and-26-people-are-missing-the-majority-of-them-in-and-around-jasa-city-in-ibaraki-prefecture.md)
@@ -33,7 +33,7 @@ At least 107 people died and 238 more were injured when a crane collapsed at the
 
 ##### General Assembly
 ### [The UN General Assembly votes in favor of flying the flags of non-member observer states outside the headquarters in New York City. Palestine will raise their flag on September 30, while Vatican City has made no plans yet. ](/news/2015/09/11/the-un-general-assembly-votes-in-favor-of-flying-the-flags-of-non-member-observer-states-outside-the-headquarters-in-new-york-city-palestin.md)
-_Context: Palestine, General Assembly, observer states, Vatican City, New York City_
+_Context: General Assembly, Palestine, observer states, Vatican City, New York City_
 
 ##### United States-Cuban Thaw
 ### [Cuba announces it will release more than 3,500 prisoners in a goodwill gesture ahead of next week's visit by Pope Francis. ](/news/2015/09/11/cuba-announces-it-will-release-more-than-3-500-prisoners-in-a-goodwill-gesture-ahead-of-next-week-s-visit-by-pope-francis.md)
@@ -49,7 +49,7 @@ Notes detailing torture of Guantanamo Bay detainee Abu Zubaydah while in CIA cus
 
 ##### Mark Karpeles
 ### [Mark Karpeles, the CEO of defunct Bitcoin exchange Mt. Gox, is charged with embezzlement in Japan. Karpeles asserts his own innocence. ](/news/2015/09/11/mark-karpela-s-the-ceo-of-defunct-bitcoin-exchange-mt-gox-is-charged-with-embezzlement-in-japan-karpeles-asserts-his-own-innocence.md)
-_Context: Mt. Gox, Bitcoin, Mark Karpeles, Japan, embezzlement_
+_Context: Mt. Gox, embezzlement, Mark Karpeles, Japan, Bitcoin_
 
 ##### 2006 Mumbai train bombings
 ### [A Mumbai, India court convicts twelve men with one man acquitted for their roles in the bombing which killed 209 people and injured 714. ](/news/2015/09/11/a-mumbai-india-court-convicts-twelve-men-with-one-man-acquitted-for-their-roles-in-the-bombing-which-killed-209-people-and-injured-714.md)

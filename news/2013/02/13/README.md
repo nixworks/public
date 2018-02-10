@@ -9,7 +9,7 @@ _Context: Syrian opposition, Syrian Armed Forces, Aleppo International Airport, 
 
 ##### Muslim
 ### [16 Muslim insurgents are killed during an attack on a military base in the Thai province of Narathiwat. ](/news/2013/02/13/16-muslim-insurgents-are-killed-during-an-attack-on-a-military-base-in-the-thai-province-of-narathiwat.md)
-_Context: Thailand, Muslim, Narathiwat_
+_Context: Muslim, Thailand, Narathiwat_
 
 ##### NATO
 ### [Afghan officials say that a NATO airstrike in the Kunar Province of Afghanistan kills 10 civilians and injures more including 3 children. ](/news/2013/02/13/afghan-officials-say-that-a-nato-airstrike-in-the-kunar-province-of-afghanistan-kills-10-civilians-and-injures-more-including-3-children.md)
@@ -21,15 +21,15 @@ Iran said Wednesday that it has begun installing a new generation of centrifuges
 
 ##### Apple Inc.
 ### [Apple Inc. is denied their request to sell their phones under the name "iPhone" in Brazil after regulators voted in favor of IGB Electronica who won the rights to use the name in 2008. ](/news/2013/02/13/apple-inc-is-denied-their-request-to-sell-their-phones-under-the-name-iphone-in-brazil-after-regulators-voted-in-favor-of-igb-electronica.md)
-_Context: IGB Electronica, Brazil, iPhone, Apple Inc._
+_Context: IGB Electronica, iPhone, Apple Inc., Brazil_
 
 ##### Antonov An-24
 ### [South Airlines Flight 8971: An Antonov An-24 aircraft carrying 44 passengers and 8 crew members crash lands near the Eastern Ukrainian city of Donetsk, killing 4 people on board and injuring 8 others. ](/news/2013/02/13/south-airlines-flight-8971-an-antonov-an-24-aircraft-carrying-44-passengers-and-8-crew-members-crash-lands-near-the-eastern-ukrainian-city.md)
-_Context: Eastern Ukraine, Ukraine, Antonov An-24, crash lands, Donetsk_
+_Context: crash lands, Donetsk, Antonov An-24, Ukraine, Eastern Ukraine_
 
 ##### Tibetan Buddhist
 ### [A Tibetan monk sets himself on fire near Boudhanath in Nepal in protest of the Chinese occupation of Tibet. ](/news/2013/02/13/a-tibetan-monk-sets-himself-on-fire-near-boudhanath-in-nepal-in-protest-of-the-chinese-occupation-of-tibet.md)
-_Context: sets himself, sets herself alight, Tibetan Buddhist, protest, Tibet, China, Nepal, Boudhanath_
+_Context: protest, Tibet, Tibetan Buddhist, Nepal, sets himself, China, sets herself alight, Boudhanath_
 
 ##### European Union
 ### [The European Union urges member states to conduct random tests to tackle an ongoing horse meat contamination scandal. Simon Coveney, Ireland's Minister for Agriculture, Food and the Marine, says that the scandal is a "Europe-wide issue that needs a Europe-wide solution". ](/news/2013/02/13/the-european-union-urges-member-states-to-conduct-random-tests-to-tackle-an-ongoing-horse-meat-contamination-scandal-simon-coveney-ireland.md)
@@ -41,11 +41,11 @@ As it prepared to meet with the deputy director of the United Nations nuclear wa
 
 ##### President of the Maldives
 ### [Former President of the Maldives Mohamed Nasheed takes refuge in the Indian embassy in the city of Male, Maldives saying that his trial for political abuse and corruption is a "politically motivated sham". ](/news/2013/02/13/former-president-of-the-maldives-mohamed-nasheed-takes-refuge-in-the-indian-embassy-in-the-city-of-mala-c-maldives-saying-that-his-trial-for.md)
-_Context: President of the Maldives, Male, Mohamed Nasheed, India, Maldives_
+_Context: India, President of the Maldives, Maldives, Male, Mohamed Nasheed_
 
 ##### Barry Bonds
 ### [A lawyer representing Barry Bonds appeals his obstruction of justice charge to the United States Court of Appeals for the Ninth Circuit. ](/news/2013/02/13/a-lawyer-representing-barry-bonds-appeals-his-obstruction-of-justice-charge-to-the-united-states-court-of-appeals-for-the-ninth-circuit.md)
-_Context: Barry Bonds, United States Court of Appeals for the Ninth Circuit, obstruction of justice charges_
+_Context: United States Court of Appeals for the Ninth Circuit, Barry Bonds, obstruction of justice charges_
 
 ##### Stepfather
 ### [After a 12 mi chase, a man was caught for shooting a woman and her stepfather near a South Carolina courthouse. ](/news/2013/02/13/after-a-12-mi-chase-a-man-was-caught-for-shooting-a-woman-and-her-stepfather-near-a-south-carolina-courthouse.md)
@@ -57,7 +57,7 @@ Israel confirms it imprisoned an Australian-Israeli man under a false identity f
 
 ##### U.S.
 ### [The U.S. administration's nominee to become next Treasury Secretary, Jack Lew, testifies before the financial committee of the United States Senate at the start of his confirmation hearing. ](/news/2013/02/13/the-u-s-administration-s-nominee-to-become-next-treasury-secretary-jack-lew-testifies-before-the-financial-committee-of-the-united-states.md)
-_Context: Jack Lew, U.S., United States Senate, Treasury Secretary_
+_Context: Treasury Secretary, Jack Lew, United States Senate, U.S._
 
 ## [Previous Day...](/news/2013/02/12/index.md)
 

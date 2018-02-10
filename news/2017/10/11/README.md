@@ -29,7 +29,7 @@ Caitlan Coleman, Joshua Boyle and three children freed after couple were abducte
 
 ##### Politics of Peru
 ### [The Peruvian Pedro Pablo Kuczynski Administration, through the Ministry of Justice, appoints a new head to the Direction of Presidential Graces, which is believed to be a first step towards granting a pardon to 79-year-old former president Alberto Fujimori (1990-2000), although President Kuczynski has denied it. In April 2009, a three-judge panel had sentenced Fujimori for acts of corruption, human rights violations, and various others crimes. Fujimori, who has been in jail since 2007 and whose health has deteriorated, including alleged tongue cancer, has applied for a pardon unsuccessfully on two occasions. ](/news/2017/10/11/the-peruvian-pedro-pablo-kuczynski-administration-through-the-ministry-of-justice-appoints-a-new-head-to-the-direction-of-presidential-gra.md)
-_Context: Ministry of Justice, Alberto Fujimori, human rights violations, corruption, Peruvian, Pedro Pablo Kuczynski, tongue cancer, 2007, Politics of Peru_
+_Context: Ministry of Justice, human rights violations, corruption, Pedro Pablo Kuczynski, Politics of Peru, Peruvian, Alberto Fujimori, 2007, tongue cancer_
 
 ##### Discovery and exploration of the Solar System
 ### ["Nature" publishes research from The Institute of Astrophysics of Andalusia at the Glorieta de la Astronomia of Granada, Spain, describing the discovery that a ring system orbits the trans-Neptunian dwarf planet Haumea. ](/news/2017/10/11/nature-publishes-research-from-the-institute-of-astrophysics-of-andalusia-at-the-glorieta-de-la-astronomaa-of-granada-spain-describing.md)
@@ -37,7 +37,7 @@ It’s the only dwarf planet to have a ring — as far as we know
 
 ##### 2017 in spaceflight
 ### [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md)
-_Context: SES, Airbus, first stage is re-used, SpaceX, EchoStar 105, Cape Canaveral, Falcon 9 Full Thrust, the state, supersynchronous orbit, Falcon, 2017 in spaceflight, Luxembourg, EchoStar, launches, SES-11, United States_
+_Context: EchoStar, Airbus, SES, United States, EchoStar 105, launches, SpaceX, SES-11, 2017 in spaceflight, first stage is re-used, Cape Canaveral, Falcon, Falcon 9 Full Thrust, Luxembourg, supersynchronous orbit, the state_
 
 ## [Previous Day...](/news/2017/10/10/index.md)
 

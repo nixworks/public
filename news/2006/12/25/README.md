@@ -17,7 +17,7 @@ _Context: Flood, Indonesia, Aceh, North Sumatra_
 
 ##### Ethiopia
 ### [ Ethiopian jets have bombed two airports in Somalia in a widening operation against the Islamic Courts Union. ](/news/2006/12/25/ethiopian-jets-have-bombed-two-airports-in-somalia-in-a-widening-operation-against-the-islamic-courts-union.md)
-_Context: Islamic Courts Union, Ethiopia, Somalia_
+_Context: Somalia, Ethiopia, Islamic Courts Union_
 
 ## [Previous Day...](/news/2006/12/24/index.md)
 

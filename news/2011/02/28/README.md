@@ -9,15 +9,15 @@ Rights groups fear dozens killed in violent backlash against supposed Gaddafi-hi
 
 ##### Ethiopia
 ### [Ethiopia and Kenya may attack the al-Shabaab Islamist militant group in Somalia, following its threat to target Kenya. ](/news/2011/02/28/ethiopia-and-kenya-may-attack-the-al-shabaab-islamist-militant-group-in-somalia-following-its-threat-to-target-kenya.md)
-_Context: Somalia, Al-Shabaab, Ethiopia, Kenya, Islamist_
+_Context: Somalia, Ethiopia, Islamist, Kenya, Al-Shabaab_
 
 ##### Yangon
 ### [A bomb explodes in Yangon, Burma, injuring eight people. ](/news/2011/02/28/a-bomb-explodes-in-yangon-burma-injuring-eight-people.md)
-_Context: Yangon, Burma_
+_Context: Burma, Yangon_
 
 ##### Frank Buckles
 ### [Frank Buckles, the last surviving veteran of World War I in the United States, passes away in Charles Town, West Virginia, aged 110. ](/news/2011/02/28/frank-buckles-the-last-surviving-veteran-of-world-war-i-in-the-united-states-passes-away-in-charles-town-west-virginia-aged-110.md)
-_Context: Frank Buckles, last surviving veteran, United States, First World War, Charles Town, West Virginia_
+_Context: Frank Buckles, First World War, last surviving veteran, United States, Charles Town, West Virginia_
 
 ##### Product placement
 ### [The ban on product placement in television programmes is lifted, allowing advertisers to pay for their goods to be seen on British TV. The first product to be displayed in this regard is a Nescafe coffee machine, which appeared on "This Morning". ](/news/2011/02/28/the-ban-on-product-placement-in-television-programmes-is-lifted-allowing-advertisers-to-pay-for-their-goods-to-be-seen-on-british-tv-the-f.md)
@@ -37,15 +37,15 @@ _Context: HSBC, United Kingdom_
 
 ##### United States Government
 ### [The United States Government grants its first deepwater drilling license since the Deepwater Horizon oil spill to Noble Energy. ](/news/2011/02/28/the-united-states-government-grants-its-first-deepwater-drilling-license-since-the-deepwater-horizon-oil-spill-to-noble-energy.md)
-_Context: Deepwater Horizon oil spill, Noble Energy, deepwater drilling, United States Government_
+_Context: Deepwater Horizon oil spill, Noble Energy, United States Government, deepwater drilling_
 
 ##### Bandeira do Sul
 ### [At least 16 people in Bandeira do Sul are killed after a high-voltage electric powerline crashed onto a float participating in a parade ahead of Brazil's carnival celebrations. ](/news/2011/02/28/at-least-16-people-in-bandeira-do-sul-are-killed-after-a-high-voltage-electric-powerline-crashed-onto-a-float-participating-in-a-parade-ahea.md)
-_Context: Brazil, Bandeira do Sul, Brazilian Carnival_
+_Context: Brazil, Brazilian Carnival, Bandeira do Sul_
 
 ##### New Zealand
 ### [New Zealand police evacuate 60 properties in Christchurch suburbs after cracks from the 2011 Canterbury earthquake appear in cliffs. ](/news/2011/02/28/new-zealand-police-evacuate-60-properties-in-christchurch-suburbs-after-cracks-from-the-2011-canterbury-earthquake-appear-in-cliffs.md)
-_Context: New Zealand, 2011 Canterbury earthquake, Christchurch_
+_Context: 2011 Canterbury earthquake, New Zealand, Christchurch_
 
 ##### Chinese
 ### [Eleven Chinese fishermen are missing after their fishing boat sinks in the East China Sea. ](/news/2011/02/28/eleven-chinese-fishermen-are-missing-after-their-fishing-boat-sinks-in-the-east-china-sea.md)
@@ -69,7 +69,7 @@ Michael Lewis, best-selling author of &quot;The Big Short&quot; about the mortga
 
 ##### Seychelles
 ### [A court in the Seychelles sentences ten Somali pirates to 20 years in prison. ](/news/2011/02/28/a-court-in-the-seychelles-sentences-ten-somali-pirates-to-20-years-in-prison.md)
-_Context: Somali pirates, Seychelles_
+_Context: Seychelles, Somali pirates_
 
 ##### Warwickshire Fire Service
 ### [In the United Kingdom, three senior fire officers from the Warwickshire Fire Service are to face manslaughter by gross negligence charges over the deaths of four firefighters in a warehouse blaze in 2007. ](/news/2011/02/28/in-the-united-kingdom-three-senior-fire-officers-from-the-warwickshire-fire-service-are-to-face-manslaughter-by-gross-negligence-charges-ov.md)
@@ -85,7 +85,7 @@ British security guard Danny Fitzsimons is jailed for 20 years by an Iraqi court
 
 ##### Venezuela
 ### [Venezuelan union leader Ruben Gonzalez is sentenced to seven years in jail in connection with a strike at the state iron mining company. ](/news/2011/02/28/venezuelan-union-leader-ruben-gonzalez-is-sentenced-to-seven-years-in-jail-in-connection-with-a-strike-at-the-state-iron-mining-company.md)
-_Context: Venezuela, Ruben Gonzalez, iron mining_
+_Context: Ruben Gonzalez, Venezuela, iron mining_
 
 ##### Tanzania
 ### [The President of Tanzania, Jakaya Kikwete, accuses the opposition of provoking violence in the country in an attempt to remove the government. ](/news/2011/02/28/the-president-of-tanzania-jakaya-kikwete-accuses-the-opposition-of-provoking-violence-in-the-country-in-an-attempt-to-remove-the-governmen.md)
@@ -97,7 +97,7 @@ Prosecutor also orders financial assets of former president and his family insid
 
 ##### Iran
 ### [Iran confirms that it is holding two Opposition leaders MirHosein Mousavi and Mehdi Karroubi under house arrest. ](/news/2011/02/28/iran-confirms-that-it-is-holding-two-opposition-leaders-mirhosein-mousavi-and-mehdi-karroubi-under-house-arrest.md)
-_Context: Mehdi Karroubi, house arrest, Iran, Mir-Hossein Mousavi, reformist_
+_Context: house arrest, Mehdi Karroubi, reformist, Iran, Mir-Hossein Mousavi_
 
 ##### Ali Abdullah Saleh
 ### [President Ali Abdullah Saleh offers to form a unity government with the opposition. ](/news/2011/02/28/president-ali-abdullah-saleh-offers-to-form-a-unity-government-with-the-opposition.md)

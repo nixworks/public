@@ -5,7 +5,7 @@ Formats: [HTML](2009/08/10/index.html)  [JSON](2009/08/10/index.json)  [XML](200
 
 ##### South Africa
 ### [ In an open letter four South African opposition leaders accuse President Jacob Zuma of abuse of power after his naming of Sandile Ngcobo as Chief Justice. The office of President Jacob Zuma responds by saying there was "nothing unconstitutional" in Zuma's action. ](/news/2009/08/10/in-an-open-letter-four-south-african-opposition-leaders-accuse-president-jacob-zuma-of-abuse-of-power-after-his-naming-of-sandile-ngcobo-as.md)
-_Context: South Africa, Chief Justice, Jacob Zuma, Sandile Ngcobo, President_
+_Context: President, Sandile Ngcobo, South Africa, Jacob Zuma, Chief Justice_
 
 ##### Union of South American Nations
 ### [ The UNASUR summit opens in Quito to discuss issues such as Venezuela's "ethics responsibility" clause, Colombian military bases and the Honduras crisis. ](/news/2009/08/10/the-unasur-summit-opens-in-quito-to-discuss-issues-such-as-venezuela-s-aethics-responsibilitya-clause-colombian-military-bases-and-the.md)
@@ -13,11 +13,11 @@ An &ldquo;ethics responsibly&rdquo; clause for the media and a strong criticism 
 
 ##### Joseph Msika
 ### [ At the funeral of Vice-President Joseph Msika, President Robert Mugabe lashes out at "racist" western countries, saying "Zimbabwe need not be tied to any one corner of the world, least of all, to a corner of former imperialist and racist colonisers". ](/news/2009/08/10/at-the-funeral-of-vice-president-joseph-msika-president-robert-mugabe-lashes-out-at-racist-western-countries-saying-zimbabwe-need-not.md)
-_Context: Robert Mugabe, Joseph Msika, Zimbabwe, President of Zimbabwe_
+_Context: Joseph Msika, Robert Mugabe, President of Zimbabwe, Zimbabwe_
 
 ##### Africa
 ### [ During a tour of Africa, Hillary Clinton, the United States Secretary of State, attacks a Congolese university student for asking about the opinion of her husband Bill Clinton. ](/news/2009/08/10/during-a-tour-of-africa-hillary-clinton-the-united-states-secretary-of-state-attacks-a-congolese-university-student-for-asking-about-the.md)
-_Context: DR Congo, Bill Clinton, Africa, Hillary Clinton, United States, United States Secretary of State_
+_Context: United States, United States Secretary of State, Bill Clinton, Hillary Clinton, Africa, DR Congo_
 
 ##### Ecuador
 ### [ Ecuadorean President Rafael Correa is sworn in for a second term vowing to deepen his socialist "revolution". ](/news/2009/08/10/ecuadorean-president-rafael-correa-is-sworn-in-for-a-second-term-vowing-to-deepen-his-socialist-arevolutiona.md)
@@ -37,11 +37,11 @@ _Context: North Korea, Hyundai Asan_
 
 ##### Libya
 ### [ Libya and Chad sign seven agreements to boost trade, security and political co-operation. ](/news/2009/08/10/libya-and-chad-sign-seven-agreements-to-boost-trade-security-and-political-co-operation.md)
-_Context: seven agreements, Libya, Chad_
+_Context: Chad, Libya, seven agreements_
 
 ##### Austria
 ### [ Negotiators gather in Austria for informal talks aimed at unblocking a 34-year-old dispute between Morocco and the Western Sahara independence movement. ](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.md)
-_Context: Western Sahara, Morocco, Austria_
+_Context: Austria, Morocco, Western Sahara_
 
 ##### Secret Intelligence Service
 ### [ The head of MI6 John Scarlett denies complicity in the alleged torture of British detainee Binyam Mohamed, as the government rejects calls for an inquiry. ](/news/2009/08/10/the-head-of-mi6-john-scarlett-denies-complicity-in-the-alleged-torture-of-british-detainee-binyam-mohamed-as-the-government-rejects-calls.md)
@@ -57,7 +57,7 @@ Delegates at West Bank conference hope to rejuvinate Palestinan political moveme
 
 ##### Iraq
 ### [ A series of bombings in Iraq kill 48 people and injure 231 in Baghdad and Mosul in continuing violence between Shiites and Sunnis in the area. ](/news/2009/08/10/a-series-of-bombings-in-iraq-kill-48-people-and-injure-231-in-baghdad-and-mosul-in-continuing-violence-between-shiites-and-sunnis-in-the-ar.md)
-_Context: Baghdad, Mosul, Iraq_
+_Context: Mosul, Baghdad, Iraq_
 
 ##### Ecuador
 ### [ Ecuador's Health Minister Caroline Chang says South America's twelve nations have pledged to respect regional vaccine price ceilings to prevent businesses from exploiting fear of the A-H1N1 flu pandemic. ](/news/2009/08/10/ecuadoras-health-minister-caroline-chang-says-south-americaas-twelve-nations-have-pledged-to-respect-regional-vaccine-price-ceilings-to.md)
@@ -65,7 +65,7 @@ South America&#039;s twelve nations on Saturday pledged to respect regional vacc
 
 ##### Namibia
 ### [ Two Namibians and a Chinese who are suspected in a corruption investigation involving a firm linked to the son of China's President Hu Jintao appear in a Windhoek court asking to be released on bail. ](/news/2009/08/10/two-namibians-and-a-chinese-who-are-suspected-in-a-corruption-investigation-involving-a-firm-linked-to-the-son-of-china-s-president-hu-jint.md)
-_Context: Namibia, China, Windhoek, Chinese President, Hu Jintao_
+_Context: China, Hu Jintao, Namibia, Chinese President, Windhoek_
 
 ## [Previous Day...](/news/2009/08/9/index.md)
 

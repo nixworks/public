@@ -9,19 +9,19 @@ _Context: Allah, Abdel Aziz al-Rantissi, Hamas_
 
 ##### University of Cambridge
 ### [ Cambridge University wins a controversial victory in the 150th Boat Race by six lengths, with a total time of 18:47 minutes. ](/news/2004/03/28/cambridge-university-wins-a-controversial-victory-in-the-150th-boat-race-by-six-lengths-with-a-total-time-of-18-47-minutes.md)
-_Context: Boat Race, University of Cambridge_
+_Context: University of Cambridge, Boat Race_
 
 ##### Arab League
 ### [ The Arab League summit is postponed. The meeting was put off indefinitely because of differences of opinion regarding ways to encourage reform in the region, including democratization. ](/news/2004/03/28/the-arab-league-summit-is-postponed-the-meeting-was-put-off-indefinitely-because-of-differences-of-opinion-regarding-ways-to-encourage-ref.md)
-_Context: democratic, Arab League, summit_
+_Context: summit, democratic, Arab League_
 
 ##### Home Secretary
 ### [ UK Home Secretary David Blunkett prepares to publish a white paper on organized crime that will unveil new details of the Serious Organised Crime Agency, the proposed "British FBI". ](/news/2004/03/28/uk-home-secretary-david-blunkett-prepares-to-publish-a-white-paper-on-organized-crime-that-will-unveil-new-details-of-the-serious-organised.md)
-_Context: FBI, Serious Organised Crime Agency, Home Secretary, organization, white paper, David Blunkett, publish_
+_Context: publish, white paper, Serious Organised Crime Agency, David Blunkett, FBI, Home Secretary, organization_
 
 ##### Israel
 ### [ Israeli State Attorney Edna Arbel recommends that Prime Minister Ariel Sharon be indicted for taking bribes. ](/news/2004/03/28/israeli-state-attorney-edna-arbel-recommends-that-prime-minister-ariel-sharon-be-indicted-for-taking-bribes.md)
-_Context: Edna Arbel, Israel, Ariel Sharon, Israeli Prime Minister_
+_Context: Edna Arbel, Israeli Prime Minister, Israel, Ariel Sharon_
 
 ##### French regional elections
 ### [ The French regional elections result in massive losses for the governing conservative parties and victories for socialist-green alliances in at least 20 of 22 regions. ](/news/2004/03/28/the-french-regional-elections-result-in-massive-losses-for-the-governing-conservative-parties-and-victories-for-socialist-green-alliances-i.md)
@@ -29,11 +29,11 @@ _Context: French regional elections_
 
 ##### Coup d'etat
 ### [ A coup attempt in the Democratic Republic of the Congo fails. ](/news/2004/03/28/a-coup-attempt-in-the-democratic-republic-of-the-congo-fails.md)
-_Context: DR Congo, coup d'etat_
+_Context: coup d'etat, DR Congo_
 
 ##### Cecilia Zhang
 ### [ The skeletal remains of Cecilia Zhang are found in a Toronto ravine after her high-publicity kidnapping. ](/news/2004/03/28/the-skeletal-remains-of-cecilia-zhang-are-found-in-a-toronto-ravine-after-her-high-publicity-kidnapping.md)
-_Context: Cecilia Zhang, kidnapping, Toronto_
+_Context: kidnapping, Toronto, Cecilia Zhang_
 
 ## [Previous Day...](/news/2004/03/27/index.md)
 

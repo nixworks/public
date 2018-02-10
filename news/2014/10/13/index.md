@@ -9,11 +9,11 @@ BAGHDAD (Reuters) - Three bombs exploded in Shi&#x27;ite parts of Baghdad on Mon
 
 ##### 2014 Pacific typhoon season
 ### [Typhoon Vongfong makes landfall in the Japanese island of Kyushu causing the evacuation of 150,000 people and disruption to plane and train services. ](/news/2014/10/13/typhoon-vongfong-makes-landfall-in-the-japanese-island-of-kyushu-causing-the-evacuation-of-150-000-people-and-disruption-to-plane-and-train.md)
-_Context: Kyushu, Japan, Typhoon Vongfong, 2014 Pacific typhoon season_
+_Context: Japan, Kyushu, Typhoon Vongfong, 2014 Pacific typhoon season_
 
 ##### 2014 North Indian Ocean cyclone season
 ### [Cyclone Hudhud is downgraded to a tropical depression having caused at least 8 deaths in India with 5 dead in Andhra Pradesh and 3 people dead in Orissa. ](/news/2014/10/13/cyclone-hudhud-is-downgraded-to-a-tropical-depression-having-caused-at-least-8-deaths-in-india-with-5-dead-in-andhra-pradesh-and-3-people-de.md)
-_Context: Cyclone Hudhud, 2014 North Indian Ocean cyclone season, India, Orissa State, Andhra Pradesh_
+_Context: Orissa State, 2014 North Indian Ocean cyclone season, Andhra Pradesh, Cyclone Hudhud, India_
 
 ##### Earthquake
 ### [A 7.4 magnitude earthquake occurs off the coast of El Salvador with a tsunami warning issued for the Pacific Ocean coasts of El Salvador, Nicaragua and Honduras. ](/news/2014/10/13/a-7-4-magnitude-earthquake-occurs-off-the-coast-of-el-salvador-with-a-tsunami-warning-issued-for-the-pacific-ocean-coasts-of-el-salvador-ni.md)
@@ -23,7 +23,7 @@ A magnitude 7.3 earthquake struck late on Monday off the coast of El Salvador an
 ### [A United States Marine is detained on the "USS Peleliu", which is docked in Subic Bay, Philippines, after he allegedy murdered Filipino transgender woman Jennifer Laude. ](/news/2014/10/13/a-united-states-marine-is-detained-on-the-uss-peleliu-which-is-docked-in-subic-bay-philippines-after-he-allegedy-murdered-filipino-tran.md)
 A U.S. Marine was in custody aboard the USS Peleliu in the Philippines after the murder of a transgender individual, the Marine Corps Times reported, citing an internal Navy memo.
 
-##### Mexico
+##### Mexican
 ### [Protesters in the Mexican state of Guerrero attack the state government headquarters in the state capital Chilpancingo over the disappearance of 43 students. ](/news/2014/10/13/protesters-in-the-mexican-state-of-guerrero-attack-the-state-government-headquarters-in-the-state-capital-chilpancingo-over-the-disappearanc.md)
 Mexican riot police are deployed to Chilpancingo after local government offices were set on fire over the disappearance of 43 students.
 
@@ -33,7 +33,7 @@ Influential Brazilian environmentalist Marina Silva backs opposition candidate A
 
 ##### Kim Jong-un
 ### [Kim Jong-un, the leader of North Korea makes his first public appearance in five weeks. ](/news/2014/10/13/kim-jong-un-the-leader-of-north-korea-makes-his-first-public-appearance-in-five-weeks.md)
-_Context: North Korea, Kim Jong-un_
+_Context: Kim Jong-un, North Korea_
 
 ##### Evo Morales
 ### [Evo Morales, president of Bolivia is re-elected for a third 5 year term. ](/news/2014/10/13/evo-morales-president-of-bolivia-is-re-elected-for-a-third-5-year-term.md)

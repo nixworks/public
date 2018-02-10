@@ -17,7 +17,7 @@ Chinese soldiers and paramilitary police deployed amid simmering ethnic tensions
 
 ##### India
 ### [ Thousands of mourners from across southern India pay their respects to the dead chief minister of Andhra Pradesh, Y. S. Rajasekhara Reddy. ](/news/2009/09/4/thousands-of-mourners-from-across-southern-india-pay-their-respects-to-the-dead-chief-minister-of-andhra-pradesh-y-s-rajasekhara-reddy.md)
-_Context: India, Y. S. Rajasekhara Reddy, Andhra Pradesh_
+_Context: India, Andhra Pradesh, Y. S. Rajasekhara Reddy_
 
 ##### The Gambia
 ### [ Six Gambian journalists jailed for criticising President Yahya Jammeh are freed. ](/news/2009/09/4/six-gambian-journalists-jailed-for-criticising-president-yahya-jammeh-are-freed.md)
@@ -33,7 +33,7 @@ _Context: National League for Democracy, Aung San Suu Kyi, Burma_
 
 ##### North Korea
 ### [ North Korea announces it is in the final stage of uranium enrichment, as Russia, South Korea, Japan and the United States express concern. ](/news/2009/09/4/north-korea-announces-it-is-in-the-final-stage-of-uranium-enrichment-as-russia-south-korea-japan-and-the-united-states-express-concern.md)
-_Context: South Korea, Russia, North Korea's nuclear program, uranium enrichment, Japan, United States, North Korea_
+_Context: United States, uranium enrichment, South Korea, Russia, Japan, North Korea, North Korea's nuclear program_
 
 ##### Kunduz airstrike
 ### [ More than 90 people, among them at least 40 civilians, are killed when an American jetfighter called in by German troops attacks two fuel tankers hijacked by Taliban-insurgents in Kunduz, northern Afghanistan. ](/news/2009/09/4/more-than-90-people-among-them-at-least-40-civilians-are-killed-when-an-american-jetfighter-called-in-by-german-troops-attacks-two-fuel-t.md)
@@ -41,11 +41,11 @@ As many as 40 Afghan civilians were feared to be among the 90 people killed in a
 
 ##### Madagascan Army
 ### [ The armed forces in Madagascar reject calls by opposition groups to take over the country's institutions for an interim period. ](/news/2009/09/4/the-armed-forces-in-madagascar-reject-calls-by-opposition-groups-to-take-over-the-country-s-institutions-for-an-interim-period.md)
-_Context: Madagascar, political crisis, Madagascan Army_
+_Context: political crisis, Madagascar, Madagascan Army_
 
 ##### International Monetary Fund
 ### [ The International Monetary Fund grants Zimbabwe a US$ 500 million loan, its first to the country in 10 years. ](/news/2009/09/4/the-international-monetary-fund-grants-zimbabwe-a-us-500-million-loan-its-first-to-the-country-in-10-years.md)
-_Context: Zimbabwe, International Monetary Fund, $_
+_Context: International Monetary Fund, Zimbabwe, $_
 
 ##### Arctic
 ### [ Temperatures in the Arctic are at their highest for 2000 years, according to a new study. ](/news/2009/09/4/temperatures-in-the-arctic-are-at-their-highest-for-2000-years-according-to-a-new-study.md)
@@ -69,7 +69,7 @@ _Context: Air India Flight 829, Chhatrapati Shivaji International Airport, Mumba
 
 ##### Bangladesh
 ### [ Two Bangladeshi newspapers, the "Daily Manab Zamin" and the "New Nation", apologise after publishing an article taken from satirical US website "The Onion", which claimed the Moon landings were faked. ](/news/2009/09/4/two-bangladeshi-newspapers-the-daily-manab-zamin-and-the-new-nation-apologise-after-publishing-an-article-taken-from-satirical-us-web.md)
-_Context: New Nation, Moon, Bangladesh, Daily Manab Zamin, United States, The Onion_
+_Context: Daily Manab Zamin, Bangladesh, United States, Moon, The Onion, New Nation_
 
 ##### United States
 ### [ Former US soldier Steven D. Green is sentenced to life in prison with no possibility of release for the murder of an Iraqi girl and her family.](/news/2009/09/4/former-us-soldier-steven-d-green-is-sentenced-to-life-in-prison-with-no-possibility-of-release-for-the-murder-of-an-iraqi-girl-and-her-fam.md)

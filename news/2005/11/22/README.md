@@ -5,23 +5,23 @@ Formats: [HTML](2005/11/22/index.html)  [JSON](2005/11/22/index.json)  [XML](200
 
 ##### Israeli-Lebanese conflict
 ### [ Israeli-Lebanese conflict: Israeli planes bomb targets in Southern Lebanon. ](/news/2005/11/22/israelialebanese-conflict-israeli-planes-bomb-targets-in-southern-lebanon.md)
-_Context: Israeli-Lebanese conflict, Israeli Air Force_
+_Context: Israeli Air Force, Israeli-Lebanese conflict_
 
 ##### Flood
 ### [ Floods and mudslides due to Tropical Storm Gamma, the 24th named storm in the 2005 Atlantic hurricane season, kill at least 32 people in Honduras. ](/news/2005/11/22/floods-and-mudslides-due-to-tropical-storm-gamma-the-24th-named-storm-in-the-2005-atlantic-hurricane-season-kill-at-least-32-people-in-ho.md)
-_Context: 2005 Atlantic hurricane season, mudslide, Flood, Honduras, Tropical Storm Gamma_
+_Context: Tropical Storm Gamma, 2005 Atlantic hurricane season, Honduras, mudslide, Flood_
 
 ##### Angela Merkel
 ### [ After two months of negotiations, Angela Merkel is elected the first female Chancellor of Germany by a coalition of the CDU-CSU and SPD delegates in the Bundestag. ](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.md)
-_Context: Christian Democratic Union, Angela Merkel, CSU, Bundestag, SPD, Chancellor, grand coalition_
+_Context: SPD, grand coalition, Christian Democratic Union, Chancellor, Bundestag, CSU, Angela Merkel_
 
 ##### Kenya
 ### [ Kenyan voters overwhelmingly reject a new constitution, which would have given the president greater power, in a national referendum, which used symbols on the ballot paper to assist illiterate voters. ](/news/2005/11/22/kenyan-voters-overwhelmingly-reject-a-new-constitution-which-would-have-given-the-president-greater-power-in-a-national-referendum-which.md)
-_Context: referendum, constitution, Kenya_
+_Context: Kenya, referendum, constitution_
 
 ##### Al Jazeera bombing memo
 ### [ Al Jazeera bombing memo: British "Daily Mirror" tabloid publishes an article suggesting that George W. Bush discussed with Tony Blair a plan to bomb the offices of the Al Jazeera TV station. ](/news/2005/11/22/al-jazeera-bombing-memo-british-daily-mirror-tabloid-publishes-an-article-suggesting-that-george-w-bush-discussed-with-tony-blair-a-pla.md)
-_Context: Daily Mirror, tabloid, Al Jazeera bombing memo, George W. Bush, Tony Blair, Al Jazeera_
+_Context: Daily Mirror, Tony Blair, Al Jazeera, tabloid, George W. Bush, Al Jazeera bombing memo_
 
 ## [Previous Day...](/news/2005/11/21/index.md)
 

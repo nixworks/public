@@ -9,7 +9,7 @@ _Context: 2017 Saudi Arabian anti-corruption arrests, Al-Waleed bin Talal_
 
 ##### Japan-United States relations
 ### [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md)
-_Context: Japan-United States relations, Japan, Donald Trump, 2017 North Korea crisis_
+_Context: 2017 North Korea crisis, Japan-United States relations, Japan, Donald Trump_
 
 ##### 2017 Lebanon-Saudi Arabia dispute
 ### [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md)

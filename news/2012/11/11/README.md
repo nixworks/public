@@ -9,11 +9,11 @@ Syrian opposition groups havesigned an initial agreement to form a new coalition
 
 ##### 2012 Northern Mali conflict
 ### [2012 Northern Mali conflict: West African nations agree to send a 3,300-strong force to northern Mali to regain area controlled by Islamist insurgent groups. ](/news/2012/11/11/2012-northern-mali-conflict-west-african-nations-agree-to-send-a-3-300-strong-force-to-northern-mali-to-regain-area-controlled-by-islamist.md)
-_Context: Mali, Islam, West Africa, 2012 Northern Mali conflict_
+_Context: Mali, 2012 Northern Mali conflict, West Africa, Islam_
 
 ##### Bangladesh
 ### [Bangladesh detains five Rohingya Muslims who fled fighting between Buddhists and Muslims in Burma. ](/news/2012/11/11/bangladesh-detains-five-rohingya-muslims-who-fled-fighting-between-buddhists-and-muslims-in-burma.md)
-_Context: Burma, Bangladesh, Rohingya, fighting between Buddhists and Muslims_
+_Context: Bangladesh, Burma, fighting between Buddhists and Muslims, Rohingya_
 
 ##### Strong earthquake
 ### [A strong earthquake with the magnitude 6.8 hits northern Burma, killing at least 12 people. ](/news/2012/11/11/a-strong-earthquake-with-the-magnitude-6-8-hits-northern-burma-killing-at-least-12-people.md)
@@ -25,15 +25,15 @@ Mohammad al-Dahabi found guilty of embezzlement and abuse of office and fined $3
 
 ##### Paraguay
 ### [Authorities in Paraguay arrest a Bolivian drug lord and seize nearly 1700kg of cocaine near the border with Brazil. ](/news/2012/11/11/authorities-in-paraguay-arrest-a-bolivian-drug-lord-and-seize-nearly-1700kg-of-cocaine-near-the-border-with-brazil.md)
-_Context: Brazil, cocaine, Paraguay, Bolivia_
+_Context: Paraguay, Bolivia, cocaine, Brazil_
 
 ##### Tibet
 ### [A Tibetan teenager dies after self-immolating in Gansu, China, in the seventh such incident this week and 70th since 2009. ](/news/2012/11/11/a-tibetan-teenager-dies-after-self-immolating-in-gansu-china-in-the-seventh-such-incident-this-week-and-70th-since-2009.md)
-_Context: sets himself, China, Gansu, self-immolation, Tibet_
+_Context: China, self-immolation, sets himself, Tibet, Gansu_
 
 ##### Iran
 ### [The Iranian parliament is to investigate the death of prominent blogger Sattar Beheshti in police custody. ](/news/2012/11/11/the-iranian-parliament-is-to-investigate-the-death-of-prominent-blogger-sattar-beheshti-in-police-custody.md)
-_Context: Sattar Beheshti, Iran_
+_Context: Iran, Sattar Beheshti_
 
 ## [Previous Day...](/news/2012/11/10/index.md)
 

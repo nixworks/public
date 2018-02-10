@@ -9,7 +9,7 @@ Thailand&#039;s anti-government protesters have given tacit support to a plan fo
 
 ##### Argentine
 ### [Former Argentine President Nstor Kirchner is unanimously elected the first Secretary General of the Union of South American Nations (Unasur) at a heads of state summit held in Campana, Argentina. ](/news/2010/05/4/former-argentine-president-nestor-kirchner-is-unanimously-elected-the-first-secretary-general-of-the-union-of-south-american-nations-unasur.md)
-_Context: heads of state, Argentine, President, Campana, Argentina, Nstor Kirchner, Union of South American Nations_
+_Context: Argentina, Nstor Kirchner, Union of South American Nations, heads of state, Campana, Argentine, President_
 
 ##### United States authorities
 ### [U.S. Customs and Border Protection agents arrest Faisal Shahzad, a naturalized U.S. citizen from Pakistan, in connection with the attempted car bombing in Times Square as he tried to flee the country. ](/news/2010/05/4/u-s-customs-and-border-protection-agents-arrest-faisal-shahzad-a-naturalized-u-s-citizen-from-pakistan-in-connection-with-the-attempted.md)
@@ -29,7 +29,7 @@ The calamitous oil spill in the Gulf of Mexico isn&#39;t just a mess for the peo
 
 ##### Picasso
 ### [Pablo Picasso's "Nude, Green Leaves and Bust" sells for US$106 million at Christie's in New York, becoming the most expensive work of art sold at auction. ](/news/2010/05/4/pablo-picasso-s-nude-green-leaves-and-bust-sells-for-us-106-million-at-christie-s-in-new-york-becoming-the-most-expensive-work-of-art-so.md)
-_Context: Christie's, New York City, Picasso, new record, Nude, Green Leaves and Bust_
+_Context: Nude, Green Leaves and Bust, Christie's, new record, Picasso, New York City_
 
 ##### JCall
 ### [A new European Jewish group, JCall, supported by thousands of European Jews is founded to lobby for a resolution to the Middle East conflict.](/news/2010/05/4/a-new-european-jewish-group-jcall-supported-by-thousands-of-european-jews-is-founded-to-lobby-for-a-resolution-to-the-middle-east-conflict.md)
@@ -37,11 +37,11 @@ New left-wing Jewish initiative in Europe, modeled after J Street, defends itsel
 
 ##### Hohhot
 ### [At least 10 people die and 14 are injured in a fire at a dormitory for railway workers in Hohhot, Inner Mongolia. ](/news/2010/05/4/at-least-10-people-die-and-14-are-injured-in-a-fire-at-a-dormitory-for-railway-workers-in-hohhot-inner-mongolia.md)
-_Context: Inner Mongolia, Hohhot_
+_Context: Hohhot, Inner Mongolia_
 
 ##### Remembrance of the Dead
 ### [Dozens of people are injured when panic breaks out at the Remembrance of the Dead in Amsterdam, the Netherlands. ](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.md)
-_Context: Amsterdam, Netherlands, Remembrance of the Dead_
+_Context: Netherlands, Remembrance of the Dead, Amsterdam_
 
 ##### Snubfin dolphin
 ### [Experts announce a rescue plan intended to preserve the existence of the endangered snubfin dolphin, the only dolphin unique to Australia. ](/news/2010/05/4/experts-announce-a-rescue-plan-intended-to-preserve-the-existence-of-the-endangered-snubfin-dolphin-the-only-dolphin-unique-to-australia.md)

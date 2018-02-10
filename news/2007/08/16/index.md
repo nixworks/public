@@ -9,15 +9,15 @@ Three rescue workers are dead and six others were injured during an attempt to r
 
 ##### Russia
 ### [ The leaders of Russia, China and Iran use the forum of the Shanghai Cooperation Organisation to warn the United States not to become too heavily involved in Central Asia. ](/news/2007/08/16/the-leaders-of-russia-china-and-iran-use-the-forum-of-the-shanghai-cooperation-organisation-to-warn-the-united-states-not-to-become-too-he.md)
-_Context: United States, Iran, Russia, China, Shanghai Cooperation Organisation, Central Asia_
+_Context: China, Russia, Iran, Central Asia, Shanghai Cooperation Organisation, United States_
 
 ##### British government
 ### [ The British government is preparing to evacuate all Britons from Zimbabwe, about 22,000 people, due to increasing violence and shortage of food. ](/news/2007/08/16/the-british-government-is-preparing-to-evacuate-all-britons-from-zimbabwe-about-22-000-people-due-to-increasing-violence-and-shortage-of.md)
-_Context: British government, Zimbabwe_
+_Context: Zimbabwe, British government_
 
 ##### BirdLife International
 ### [ International conservation group BirdLife International launches a critical fundraising campaign to save 189 endangered species of birds. ](/news/2007/08/16/international-conservation-group-birdlife-international-launches-a-critical-fundraising-campaign-to-save-189-endangered-species-of-birds.md)
-_Context: bird, BirdLife International, endangered species_
+_Context: BirdLife International, bird, endangered species_
 
 ##### United States
 ### [ U.S. jihadist Jose Padilla is convicted on all counts of supporting terrorism. ](/news/2007/08/16/u-s-jihadist-josa-c-padilla-is-convicted-on-all-counts-of-supporting-terrorism.md)
@@ -25,7 +25,7 @@ WTOP brings you the latest news, traffic, and weather information for the Washin
 
 ##### Human rights in Iran
 ### [ Human rights in Iran: Over 200 people are arrested in Iran for attending an "illegal rock concert" which included alcohol and female singers. ](/news/2007/08/16/human-rights-in-iran-over-200-people-are-arrested-in-iran-for-attending-an-illegal-rock-concert-which-included-alcohol-and-female-singer.md)
-_Context: female singers, alcohol, rock concert, Human rights in Iran, Iran_
+_Context: Human rights in Iran, rock concert, female singers, Iran, alcohol_
 
 ##### Red Cross
 ### [ The Red Cross estimates that the death toll from North Korean floods has reached 220. North Korea estimates that it has wiped out a tenth of its farmland. ](/news/2007/08/16/the-red-cross-estimates-that-the-death-toll-from-north-korean-floods-has-reached-220-north-korea-estimates-that-it-has-wiped-out-a-tenth-o.md)
@@ -37,7 +37,7 @@ The aid deal signed in a ceremony in Jerusalem represents a 25 percent rise in U
 
 ##### 2007
 ### [ 2007 Atlantic hurricane season: Hurricane Dean becomes the first hurricane of the season, threatening the Lesser Antilles, while Tropical Storm Erin threatens Texas. At least five people died in thunderstorms resulting from Erin while another two people went missing. ](/news/2007/08/16/2007-atlantic-hurricane-season-hurricane-dean-becomes-the-first-hurricane-of-the-season-threatening-the-lesser-antilles-while-tropical-s.md)
-_Context: 2007, Texas, Lesser Antilles, hurricane, Hurricane Dean, Tropical Storm Erin_
+_Context: Tropical Storm Erin, hurricane, Lesser Antilles, Texas, Hurricane Dean, 2007_
 
 ##### Peru
 ### [ Peru's civil defense agency estimates that the death toll from the 2007 Peru earthquake is now 337 with 827 more injured. The coastal province of Ica is hardest hit. A 6.3 magnitude aftershock hits the country. The Government of Peru declares a state of emergency. ](/news/2007/08/16/peru-s-civil-defense-agency-estimates-that-the-death-toll-from-the-2007-peru-earthquake-is-now-337-with-827-more-injured-the-coastal-provi.md)
@@ -45,7 +45,7 @@ A powerful earthquake has devastated several Peruvian cities killing at least 33
 
 ##### Supreme Court
 ### [ The Supreme Court of Pakistan hears a petition from the former Prime Minister Nawaz Sharif to be able to return to the country and contest elections. ](/news/2007/08/16/the-supreme-court-of-pakistan-hears-a-petition-from-the-former-prime-minister-nawaz-sharif-to-be-able-to-return-to-the-country-and-contest.md)
-_Context: Supreme Court, Prime Minister, Nawaz Sharif, election_
+_Context: Prime Minister, Nawaz Sharif, election, Supreme Court_
 
 ##### United States
 ### [ United States forces launch an airborne assault on a desert compound south of Baghdad in search of Sunni militants in the first phase of Operation Marne Husky. ](/news/2007/08/16/united-states-forces-launch-an-airborne-assault-on-a-desert-compound-south-of-baghdad-in-search-of-sunni-militants-in-the-first-phase-of-op.md)
@@ -53,15 +53,15 @@ U.S. forces launched an airborne assault on a desert compound south of Baghdad o
 
 ##### Prime Minister
 ### [ The Prime Minister of Kyrgyzstan Almaz Atambayev and the President of the People's Republic of China Hu Jintao meet to discuss Kyrgyz participation in a Turkmenistan-China gas pipeline. ](/news/2007/08/16/the-prime-minister-of-kyrgyzstan-almaz-atambayev-and-the-president-of-the-people-s-republic-of-china-hu-jintao-meet-to-discuss-kyrgyz-parti.md)
-_Context: Almaz Atambayev, China, Kyrgyzstan, Turkmenistan, Prime Minister, Hu Jintao, Chinese President_
+_Context: Prime Minister, China, Turkmenistan, Almaz Atambayev, Hu Jintao, Kyrgyzstan, Chinese President_
 
 ##### Hugo Chavez
 ### [ Hugo Chavez, the President of Venezuela, announces plans to abolish term limits for the President by changing the Constitution. ](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.md)
-_Context: Venezuela, term limit, the constitution, Hugo Chavez, President_
+_Context: term limit, President, the constitution, Hugo Chavez, Venezuela_
 
 ##### Japan
 ### [ Japan is hit by a 5.3 magnitude earthquake off the coast of Honshu. ](/news/2007/08/16/japan-is-hit-by-a-5-3-magnitude-earthquake-off-the-coast-of-honsha.md)
-_Context: Japan, Honshu Island, earthquake_
+_Context: earthquake, Honshu Island, Japan_
 
 ## [Previous Day...](/news/2007/08/15/index.md)
 

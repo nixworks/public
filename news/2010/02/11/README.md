@@ -9,7 +9,7 @@ European leaders sought to prop up Greece with words of support at a summit on T
 
 ##### European Parliament
 ### [The European Parliament rejects an agreement that would have granted the United States Terrorist Finance Tracking Program unlimited access to the SWIFT bank transactions database. ](/news/2010/02/11/the-european-parliament-rejects-an-agreement-that-would-have-granted-the-united-states-terrorist-finance-tracking-program-unlimited-access-t.md)
-_Context: European Parliament, United States, Society for Worldwide Interbank Financial Telecommunication, Terrorist Finance Tracking Program_
+_Context: Society for Worldwide Interbank Financial Telecommunication, United States, European Parliament, Terrorist Finance Tracking Program_
 
 ##### Sri Lanka
 ### [Protests continue in Sri Lanka after the arrest of opposition candidate Sarath Fonseka. ](/news/2010/02/11/protests-continue-in-sri-lanka-after-the-arrest-of-opposition-candidate-sarath-fonseka.md)
@@ -21,7 +21,7 @@ The fashion world&#039;s leading voices have paid tribute to the outlandish avan
 
 ##### Beijing
 ### [A court in Beijing upholds a sentence against Chinese dissident Liu Xiaobo who was sentenced to 11 years imprisonment on charges of subversion. ](/news/2010/02/11/a-court-in-beijing-upholds-a-sentence-against-chinese-dissident-liu-xiaobo-who-was-sentenced-to-11-years-imprisonment-on-charges-of-subversi.md)
-_Context: dissident, China, Liu Xiaobo, subversion, Beijing_
+_Context: Beijing, China, Liu Xiaobo, subversion, dissident_
 
 ##### President
 ### [President Mahmoud Ahmadinejad announces that Iran is now a nuclear state, following a successful 20% uranium enrichment. ](/news/2010/02/11/president-mahmoud-ahmadinejad-announces-that-iran-is-now-a-nuclear-state-following-a-successful-20-uranium-enrichment.md)
@@ -33,11 +33,11 @@ _Context: trade secrets, Goldman Sachs, Sergey Aleynikov_
 
 ##### United States
 ### [Former U.S. President Bill Clinton has two coronary stents implanted in his heart at the NewYork-Presbyterian Hospital in New York City, after chest pains. ](/news/2010/02/11/former-u-s-president-bill-clinton-has-two-coronary-stents-implanted-in-his-heart-at-the-newyorkapresbyterian-hospital-in-new-york-city-a.md)
-_Context: United States, coronary stent, NewYork-Presbyterian Hospital, Bill Clinton, U.S. President, New York City_
+_Context: New York City, coronary stent, U.S. President, NewYork-Presbyterian Hospital, United States, Bill Clinton_
 
 ##### Haiti
 ### [Haiti announces that the 10 American missionaries accused of attempted kidnapping will be released from custody. ](/news/2010/02/11/haiti-announces-that-the-10-american-missionaries-accused-of-attempted-kidnapping-will-be-released-from-custody.md)
-_Context: United States, Haiti_
+_Context: Haiti, United States_
 
 ##### Soufriere Hills volcano
 ### [A large eruption occurs at the Soufriere Hills volcano in Montserrat after a partial lava dome collapse, sending ash to a height of 50,000 feet. ](/news/2010/02/11/a-large-eruption-occurs-at-the-soufria-re-hills-volcano-in-montserrat-after-a-partial-lava-dome-collapse-sending-ash-to-a-height-of-50-000.md)

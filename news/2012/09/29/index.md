@@ -5,7 +5,7 @@ Formats: [HTML](2012/09/29/index.html)  [JSON](2012/09/29/index.json)  [XML](201
 
 ##### Somali Civil War
 ### [Somali Civil War: Al-Shabaab militants withdraw from the Somali port city of Kismayo after Somali and African Union forces launched a coordinated assault on Kismayo on Friday. ](/news/2012/09/29/somali-civil-war-al-shabaab-militants-withdraw-from-the-somali-port-city-of-kismayo-after-somali-and-african-union-forces-launched-a-coordi.md)
-_Context: Al-Shabaab, AMISOM, Somalia, Kismayo, Battle of Kismayo, Somalia army soldiers, Somali Civil War_
+_Context: Somali Civil War, Somalia, Somalia army soldiers, Al-Shabaab, Kismayo, AMISOM, Battle of Kismayo_
 
 ##### Syrian Civil War
 ### [Syrian Civil War: Fire rages through the Souq of the Ancient City of Aleppo, a World Heritage Site. ](/news/2012/09/29/syrian-civil-war-fire-rages-through-the-souq-of-the-ancient-city-of-aleppo-a-world-heritage-site.md)
@@ -21,7 +21,7 @@ At least 10 people die after heavy rains trigger flash floods in the southern Sp
 
 ##### The Guantanamo detainees
 ### [One of the Guantanamo detainees, Omar Khadr, is transferred to Canada to serve the remainder of his sentence. ](/news/2012/09/29/one-of-the-guantanamo-detainees-omar-khadr-is-transferred-to-canada-to-serve-the-remainder-of-his-sentence.md)
-_Context: Omar Khadr, the Guantanamo detainees, Canadian_
+_Context: the Guantanamo detainees, Omar Khadr, Canadian_
 
 ##### Iran
 ### [Iran accuses the United States of "double standards" over the U.S.' delisting of the Mujahideen-e Khalq as a terrorist entity. ](/news/2012/09/29/iran-accuses-the-united-states-of-double-standards-over-the-u-s-delisting-of-the-mujahideen-e-khalq-as-a-terrorist-entity.md)

@@ -13,15 +13,15 @@ _Context: Israel_
 
 ##### Civil Unions and Relationships Acts
 ### [ Civil unions in New Zealand: Parliament passes civil union legislation by 65 votes to 55. The new law provides a way for "de facto" couples, including same-sex couples, to gain legal recognition of their relationships, but stops short of same-sex marriage. ](/news/2004/12/8/civil-unions-in-new-zealand-parliament-passes-civil-union-legislation-by-65-votes-to-55-the-new-law-provides-a-way-for-de-facto-couples.md)
-_Context: civil union, same-sex marriage, Parliament of New Zealand, Civil Unions and Relationships Acts_
+_Context: Parliament of New Zealand, same-sex marriage, Civil Unions and Relationships Acts, civil union_
 
 ##### White House
 ### [ The White House affirms that, despite reports to the contrary, John Snow will remain Treasury Secretary during President George W. Bush's second term of office. Meanwhile, Secretary of Veterans Affairs Anthony Principi announces his expected resignation. ](/news/2004/12/8/the-white-house-affirms-that-despite-reports-to-the-contrary-john-snow-will-remain-treasury-secretary-during-president-george-w-bush-s-s.md)
-_Context: second term, United States Secretary of the Treasury, U.S. President, U.S. Secretary of Veterans Affairs, Anthony Principi, White House, John W. Snow, George W. Bush_
+_Context: White House, George W. Bush, U.S. President, John W. Snow, Anthony Principi, second term, United States Secretary of the Treasury, U.S. Secretary of Veterans Affairs_
 
 ##### United States Senate
 ### [ The United States Senate follows the U.S. House of Representatives in approving a complete overhaul of government intelligence services, creating the post of United States Director of National Intelligence. ](/news/2004/12/8/the-united-states-senate-follows-the-u-s-house-of-representatives-in-approving-a-complete-overhaul-of-government-intelligence-services-cr.md)
-_Context: United States Senate, U.S. National Intelligence Director, United States House of Representatives_
+_Context: United States House of Representatives, U.S. National Intelligence Director, United States Senate_
 
 ##### European Union
 ### [ The European Union says it is not ready to lift its 15-year-old arms embargo on the People's Republic of China, set after the Tiananmen Square protests of 1989. ](/news/2004/12/8/the-european-union-says-it-is-not-ready-to-lift-its-15-year-old-arms-embargo-on-the-people-s-republic-of-china-set-after-the-tiananmen-squ.md)
@@ -33,11 +33,11 @@ Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAs
 
 ##### IBM
 ### [ IBM announces that it will sell its PC hardware business to Lenovo, a Chinese computer company. ](/news/2004/12/8/ibm-announces-that-it-will-sell-its-pc-hardware-business-to-lenovo-a-chinese-computer-company.md)
-_Context: PC, computer, mainland China, Lenovo, IBM_
+_Context: IBM, Lenovo, PC, computer, mainland China_
 
 ##### Jayendra Saraswathi
 ### [ Sri Jayendra Saraswathi, a senior Hindu cleric, has been denied bail over his murder charge in India's southern Tamil Nadu state. ](/news/2004/12/8/sri-jayendra-saraswathi-a-senior-hindu-cleric-has-been-denied-bail-over-his-murder-charge-in-india-s-southern-tamil-nadu-state.md)
-_Context: murder, Tamil Nadu, Jayendra Saraswathi_
+_Context: Tamil Nadu, Jayendra Saraswathi, murder_
 
 ## [Previous Day...](/news/2004/12/7/index.md)
 

@@ -9,23 +9,23 @@ The Palestinian government warns that it will pull out of peace talks if Israel 
 
 ##### NATO
 ### [Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. ](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.md)
-_Context: Afghanistan, NATO, International Security Assistance Force, improvised explosive device_
+_Context: Afghanistan, improvised explosive device, NATO, International Security Assistance Force_
 
 ##### National Assembly
 ### [At least 17 people, including a member of the National Assembly of Pakistan, Maulana Noor Mohammed Wazir, are killed in the bombing of a mosque in Pakistan's South Waziristan region. ](/news/2010/08/23/at-least-17-people-including-a-member-of-the-national-assembly-of-pakistan-maulana-noor-mohammed-wazir-are-killed-in-the-bombing-of-a-mos.md)
-_Context: National Assembly, Maulana Noor Mohammed Wazir, Pakistan, bomb, South Waziristan, mosque_
+_Context: National Assembly, Maulana Noor Mohammed Wazir, Pakistan, mosque, bomb, South Waziristan_
 
 ##### Anne Frank tree
 ### [The Anne Frank tree in Amsterdam is knocked down by a gust of heavy wind, breaking off about a meter above ground. ](/news/2010/08/23/the-anne-frank-tree-in-amsterdam-is-knocked-down-by-a-gust-of-heavy-wind-breaking-off-about-a-meter-above-ground.md)
-_Context: Amsterdam, Anne Frank tree_
+_Context: Anne Frank tree, Amsterdam_
 
 ##### Jimena Navarrete
 ### [Jimena Navarrete, representing Mexico, wins Miss Universe 2010. ](/news/2010/08/23/jimena-navarrete-representing-mexico-wins-miss-universe-2010.md)
-_Context: Mexico, Jimena Navarrete, Miss Universe 2010_
+_Context: Miss Universe 2010, Jimena Navarrete, Mexican_
 
 ##### Australia
 ### [Australia's stock market and currency lose value because of the country's hung parliament. ](/news/2010/08/23/australia-s-stock-market-and-currency-lose-value-because-of-the-country-s-hung-parliament.md)
-_Context: hung parliament, Australia_
+_Context: Australia, hung parliament_
 
 ##### 
 ### [More than 250,000 people are evacuated due to floods across China and North Korea. ](/news/2010/08/23/more-than-250-000-people-are-evacuated-due-to-floods-across-china-and-north-korea.md)
@@ -45,11 +45,11 @@ Thailand says it will resume diplomatic ties with Cambodia, after Phnom Penh ann
 
 ##### Elephant
 ### [2 tonnes of elephant ivory and five rhino horns disguised as avocados destined for Malaysia are seized in Nairobi, Kenya. ](/news/2010/08/23/2-tonnes-of-elephant-ivory-and-five-rhino-horns-disguised-as-avocados-destined-for-malaysia-are-seized-in-nairobi-kenya.md)
-_Context: Malaysia, elephant, ivory, rhino, Kenya, Nairobi_
+_Context: Nairobi, rhino, ivory, elephant, Kenya, Malaysia_
 
 ##### China
 ### [China considers removing the death penalty for several economic crimes. ](/news/2010/08/23/china-considers-removing-the-death-penalty-for-several-economic-crimes.md)
-_Context: death penalty, China_
+_Context: China, death penalty_
 
 ##### Islam
 ### [25 prisoners, including Islamic militants, escape from a prison in Dushanbe, Tajikistan. ](/news/2010/08/23/25-prisoners-including-islamic-militants-escape-from-a-prison-in-dushanbe-tajikistan.md)

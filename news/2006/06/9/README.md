@@ -13,7 +13,7 @@ _Context: FIFA World Cup Stadium Munich, defending champion_
 
 ##### World War II
 ### [ The suspected WWII 'bomb' under Broadmead in Bristol, United Kingdom turns out to be a piece of reinforced concrete. ](/news/2006/06/9/the-suspected-wwii-bomb-under-broadmead-in-bristol-united-kingdom-turns-out-to-be-a-piece-of-reinforced-concrete.md)
-_Context: Bristol, Broadmead, World War II, United Kingdom_
+_Context: Broadmead, United Kingdom, World War II, Bristol_
 
 ## [Previous Day...](/news/2006/06/8/index.md)
 

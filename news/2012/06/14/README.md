@@ -9,7 +9,7 @@ Tunisian authorities ban protests planned for Friday, after rival Islamist ralli
 
 ##### Mexican Drug War
 ### [Mexican Drug War: Victor Manuel Baez Chino, a journalist for the Mexican newspaper "Milenio", is found dead after being kidnapped in the coastal state of Veracruz. ](/news/2012/06/14/mexican-drug-war-vactor-manuel-ba-ez-chino-a-journalist-for-the-mexican-newspaper-milenio-is-found-dead-after-being-kidnapped-in-the-c.md)
-_Context: more than 80 have been killed, Mexican Drug War, Milenio_
+_Context: Milenio, Mexican Drug War, more than 80 have been killed_
 
 ##### Togo
 ### [Violent protests demanding election reform in Togo enter into a third day. ](/news/2012/06/14/violent-protests-demanding-election-reform-in-togo-enter-into-a-third-day.md)
@@ -29,7 +29,7 @@ Westlife singer Shane Filan is declared bankrupt in the UK after his Irish prope
 
 ##### German
 ### [German deputy finance minister Steffen Kampeter rejects calls to pool European debt, saying "debt is a national responsibility." ](/news/2012/06/14/german-deputy-finance-minister-steffen-kampeter-rejects-calls-to-pool-european-debt-saying-debt-is-a-national-responsibility.md)
-_Context: German, Steffen Kampeter_
+_Context: Steffen Kampeter, German_
 
 ##### Nokia
 ### [Nokia announces it will cut 10,000 jobs. ](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.md)
@@ -45,15 +45,15 @@ A massive explosion at a government-owned steel plant in the southern Indian sta
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton says that the supreme leader of North Korea Kim Jong-un "has a choice to make" about the country's current policies. ](/news/2012/06/14/united-states-secretary-of-state-hillary-clinton-says-that-the-supreme-leader-of-north-korea-kim-jong-un-has-a-choice-to-make-about-the-co.md)
-_Context: United States Secretary of State, leader, Hillary Clinton, Kim Jong-un_
+_Context: Hillary Clinton, Kim Jong-un, leader, United States Secretary of State_
 
 ##### Jose Trevino Morales
 ### [Jose Trevino Morales, an alleged money launderer of the Mexican criminal group Los Zetas and a prominent quarter horse racer in the U.S., is arrested in Lexington, Oklahoma. ](/news/2012/06/14/josa-c-trevia-o-morales-an-alleged-money-launderer-of-the-mexican-criminal-group-los-zetas-and-a-prominent-quarter-horse-racer-in-the-u-s.md)
-_Context: Los Zetas, Jose Trevino Morales, Lexington, Oklahoma_
+_Context: Lexington, Oklahoma, Los Zetas, Jose Trevino Morales_
 
 ##### Prime Minister
 ### [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md)
-_Context: Rebekah Brooks, News International, Andy Coulson, David Cameron, Prime Minister, Leveson Inquiry_
+_Context: Prime Minister, Rebekah Brooks, Leveson Inquiry, News International, Andy Coulson, David Cameron_
 
 ##### UK Supreme Court
 ### [The UK Supreme Court dismisses a bid by WikiLeaks founder Julian Assange to reopen his appeal against extradition to Sweden over alleged sex crimes. ](/news/2012/06/14/the-uk-supreme-court-dismisses-a-bid-by-wikileaks-founder-julian-assange-to-reopen-his-appeal-against-extradition-to-sweden-over-alleged-sex.md)
@@ -73,7 +73,7 @@ Falkland Islanders mark 30 years since the end of the war with Argentina with a 
 
 ##### U.S. President
 ### [A new survey finds that global support for U.S. president Barack Obama has declined since 2009. ](/news/2012/06/14/a-new-survey-finds-that-global-support-for-u-s-president-barack-obama-has-declined-since-2009.md)
-_Context: Barack Obama, U.S. President_
+_Context: U.S. President, Barack Obama_
 
 ##### Venezuela
 ### [Venezuela's president Hugo Chavez gives a televised address from the country's defence ministry to discuss his defence plans. ](/news/2012/06/14/venezuela-s-president-hugo-cha-vez-gives-a-televised-address-from-the-country-s-defence-ministry-to-discuss-his-defence-plans.md)
@@ -81,7 +81,7 @@ _Context: Venezuela, Hugo Chavez_
 
 ##### HBO
 ### [HBO issues a public apology for any offence suffered after the use of a severed head in "Game of Thrones"; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.md)
-_Context: Game of Thrones, George W. Bush, HBO_
+_Context: HBO, George W. Bush, Game of Thrones_
 
 ##### Stem cell
 ### [A 10-year-old girl receives what is believed to be the world's first stem cell assisted vein transplant. ](/news/2012/06/14/a-10-year-old-girl-receives-what-is-believed-to-be-the-world-s-first-stem-cell-assisted-vein-transplant.md)
@@ -93,11 +93,11 @@ As big as a city block, the newfound space rock 2012 LZ1 will pass close to our 
 
 ##### Australia
 ### [Australia announces plans to create the world's largest marine reserve. ](/news/2012/06/14/australia-announces-plans-to-create-the-world-s-largest-marine-reserve.md)
-_Context: Australia, marine reserve_
+_Context: marine reserve, Australia_
 
 ##### Legionnaires' disease
 ### [A second person dies after contracting Legionnaires' disease in Edinburgh. ](/news/2012/06/14/a-second-person-dies-after-contracting-legionnaires-disease-in-edinburgh.md)
-_Context: Edinburgh, Legionnaires' disease_
+_Context: Legionnaires' disease, Edinburgh_
 
 ## [Previous Day...](/news/2012/06/13/index.md)
 

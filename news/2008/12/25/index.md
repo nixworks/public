@@ -9,11 +9,11 @@ _Context: state of emergency, Marshall Islands, flood_
 
 ##### Maruti Suzuki
 ### [ Maruti Suzuki, India's largest automobile manufacturer, declares it has not achieved the growth planned for 2008 and may cut production amidst global crisis. ](/news/2008/12/25/maruti-suzuki-india-s-largest-automobile-manufacturer-declares-it-has-not-achieved-the-growth-planned-for-2008-and-may-cut-production-ami.md)
-_Context: global crisis, largest automobile manufacturer, Maruti Suzuki, India_
+_Context: global crisis, India, largest automobile manufacturer, Maruti Suzuki_
 
 ##### Gas leak
 ### [ A gas leak at a steel mill in Zunhua, China, causes 17 deaths. ](/news/2008/12/25/a-gas-leak-at-a-steel-mill-in-zunhua-china-causes-17-deaths.md)
-_Context: steel mill, gas leak, China, Zunhua_
+_Context: China, Zunhua, gas leak, steel mill_
 
 ##### Explosion
 ### [ An explosion at an apartment in Yevpatoria, Ukraine, kills at least 19. ](/news/2008/12/25/an-explosion-at-an-apartment-in-yevpatoria-ukraine-kills-at-least-19.md)
@@ -21,7 +21,7 @@ An explosion ripped through an apartment building in southern Ukraine, killing 1
 
 ##### Israel
 ### [ Israel moves closer to an invasion of the Gaza Strip after a Palestinian militant attack. ](/news/2008/12/25/israel-moves-closer-to-an-invasion-of-the-gaza-strip-after-a-palestinian-militant-attack.md)
-_Context: Gaza Strip, Israel, Palestinian_
+_Context: Israel, Palestinian, Gaza Strip_
 
 ## [Previous Day...](/news/2008/12/24/index.md)
 

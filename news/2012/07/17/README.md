@@ -5,7 +5,7 @@ Formats: [HTML](2012/07/17/index.html)  [JSON](2012/07/17/index.json)  [XML](201
 
 ##### Marissa Mayer
 ### [Marissa Mayer, who was a top executive at Google for the past 13 years, is appointed Yahoo! Inc.'s CEO. ](/news/2012/07/17/marissa-mayer-who-was-a-top-executive-at-google-for-the-past-13-years-is-appointed-yahoo-inc-s-ceo.md)
-_Context: Yahoo! Inc., Google, Marissa Mayer_
+_Context: Google, Marissa Mayer, Yahoo! Inc._
 
 ##### Syria
 ### [The Syrian consulate in Almaty, Kazakhstan, is seriously damaged by a fire which its staff blame on an arson attack. ](/news/2012/07/17/the-syrian-consulate-in-almaty-kazakhstan-is-seriously-damaged-by-a-fire-which-its-staff-blame-on-an-arson-attack.md)
@@ -17,11 +17,11 @@ A military court sentences an Afghan soldier to death over the killing of five F
 
 ##### Delta Air Lines
 ### [Several 1-inch needles are found in sandwiches on multiple Delta Air Lines flights from Amsterdam Airport Schiphol to the United States. The FBI and Dutch authorities launch a criminal investigation. ](/news/2012/07/17/several-1-inch-needles-are-found-in-sandwiches-on-multiple-delta-air-lines-flights-from-amsterdam-airport-schiphol-to-the-united-states-the.md)
-_Context: United States, Netherlands, Delta Air Lines, FBI, Amsterdam Airport Schiphol_
+_Context: FBI, Delta Air Lines, Netherlands, Amsterdam Airport Schiphol, United States_
 
 ##### SkyWest Airlines
 ### [A pilot for SkyWest Airlines on administrative leave attempts to steal a Bombardier CRJ200 at St. George Municipal Airport in the U.S. state of Utah, killing himself after. ](/news/2012/07/17/a-pilot-for-skywest-airlines-on-administrative-leave-attempts-to-steal-a-bombardier-crj200-at-st-george-municipal-airport-in-the-u-s-state.md)
-_Context: administrative leave, Bombardier CRJ200, SkyWest Airlines, St. George Municipal Airport, Utah_
+_Context: St. George Municipal Airport, Bombardier CRJ200, SkyWest Airlines, administrative leave, Utah_
 
 ##### Alabama
 ### [Seventeen people are wounded after being shot in a bar in Alabama, United States. ](/news/2012/07/17/seventeen-people-are-wounded-after-being-shot-in-a-bar-in-alabama-united-states.md)

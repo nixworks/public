@@ -17,7 +17,7 @@ At least 15 people are killed in a market bombing apparently aimed at an anti-Ta
 
 ##### Mexican Drug War
 ### [Mexican Drug War: The Mexican Army kills Manuel Torres Felix, one of the leaders of the Sinaloa Cartel. ](/news/2012/10/13/mexican-drug-war-the-mexican-army-kills-manuel-torres-fa-c-lix-one-of-the-leaders-of-the-sinaloa-cartel.md)
-_Context: Sinaloa Cartel, Mexican Drug War, Manuel Torres Felix_
+_Context: Manuel Torres Felix, Sinaloa Cartel, Mexican Drug War_
 
 ##### Insurgency in the North Caucasus
 ### [Insurgency in the North Caucasus: A Russian army soldier and three Islamic militants die in a skirmish in the North Caucasus republic of Dagestan. ](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.md)

@@ -41,7 +41,7 @@ _Context: South Korea_
 
 ##### New England Patriots
 ### [Former New England Patriots tight end Aaron Hernandez is charged with two counts of murder in relation to a drive-by shooting in Boston's South End district in July 2012. ](/news/2014/05/15/former-new-england-patriots-tight-end-aaron-hernandez-is-charged-with-two-counts-of-murder-in-relation-to-a-drive-by-shooting-in-boston-s-so.md)
-_Context: Boston, South End, Aaron Hernandez, tight end, New England Patriots_
+_Context: Aaron Hernandez, tight end, New England Patriots, South End, Boston_
 
 ##### Meriam Yehya Ibrahim
 ### [An eight month pregnant Christian woman, Meriam Yehya Ibrahim, is sentenced to death by hanging for apostasy in Sudan in a case that has drawn widespread international condemnation.](/news/2014/05/15/an-eight-month-pregnant-christian-woman-meriam-yehya-ibrahim-is-sentenced-to-death-by-hanging-for-apostasy-in-sudan-in-a-case-that-has-dra.md)

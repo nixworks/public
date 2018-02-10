@@ -5,7 +5,7 @@ Formats: [HTML](2012/10/6/index.html)  [JSON](2012/10/6/index.json)  [XML](2012/
 
 ##### Defense ministry
 ### [The South Korean Ministry of National Defense states that a North Korean soldier has defected to South Korea after killing two of his superiors. ](/news/2012/10/6/the-south-korean-ministry-of-national-defense-states-that-a-north-korean-soldier-has-defected-to-south-korea-after-killing-two-of-his-superi.md)
-_Context: defects, North Korea, South Korea, defense ministry_
+_Context: North Korea, defense ministry, South Korea, defects_
 
 ##### Vatican City
 ### [A court in the Vatican finds Pope Benedict XVI's former butler Paolo Gabriele guilty of theft for stealing and leaking confidential documents and sentences Gabriele to 18 months' imprisonment. ](/news/2012/10/6/a-court-in-the-vatican-finds-pope-benedict-xvi-s-former-butler-paolo-gabriele-guilty-of-theft-for-stealing-and-leaking-confidential-document.md)
@@ -21,7 +21,7 @@ _Context: Israel, Iran, Treaty on the Non-Proliferation of Nuclear Weapons_
 
 ##### Social Democratic and Labour Party
 ### [Former Social Democratic and Labour Party leader John Hume receives the papal knighthood at a special Mass in Derry's St Eugene's Cathedral. ](/news/2012/10/6/former-social-democratic-and-labour-party-leader-john-hume-receives-the-papal-knighthood-at-a-special-mass-in-derry-s-st-eugene-s-cathedral.md)
-_Context: John Hume, Derry, papal knighthood, St Eugene's Cathedral, Social Democratic and Labour Party_
+_Context: Social Democratic and Labour Party, St Eugene's Cathedral, Derry, John Hume, papal knighthood_
 
 ## [Previous Day...](/news/2012/10/5/index.md)
 

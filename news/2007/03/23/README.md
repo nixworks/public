@@ -5,7 +5,7 @@ Formats: [HTML](2007/03/23/index.html)  [JSON](2007/03/23/index.json)  [XML](200
 
 ##### Condoleezza Rice
 ### [ Condoleezza Rice, the United States Secretary of State, travels to the Middle East to talk with Israel and the Palestinian National Authority about the peace process. ](/news/2007/03/23/condoleezza-rice-the-united-states-secretary-of-state-travels-to-the-middle-east-to-talk-with-israel-and-the-palestinian-national-authori.md)
-_Context: Middle East, Israel, Condoleezza Rice, Palestinian Authority, United States Secretary of State_
+_Context: Palestinian Authority, Israel, Condoleezza Rice, United States Secretary of State, Middle East_
 
 ##### Sami Al-Arian
 ### [ Sami Al-Arian, the former university professor convicted of funneling money to Palestinian Islamic Jihad, ends his hunger strike to protest his imprisonment, after 60 days. ](/news/2007/03/23/sami-al-arian-the-former-university-professor-convicted-of-funneling-money-to-palestinian-islamic-jihad-ends-his-hunger-strike-to-protest.md)
@@ -13,35 +13,35 @@ _Context: Palestinian Islamic Jihad, Sami Al-Arian_
 
 ##### Jorge Noguera
 ### [ Jorge Noguera, former Colombian intelligence chief, is freed from prison following a ruling by an appeals court after having been jailed last month for collaborating with right wing militia. ](/news/2007/03/23/jorge-noguera-former-colombian-intelligence-chief-is-freed-from-prison-following-a-ruling-by-an-appeals-court-after-having-been-jailed-la.md)
-_Context: Jorge Noguera, militia, prison, Colombia, appeals court_
+_Context: militia, Jorge Noguera, appeals court, Colombia, prison_
 
 ##### Taliban
 ### [ A Taliban attack on a convoy carrying supplies to foreign troops in southern Afghanistan kills 17 Afghan security guards and drivers. ](/news/2007/03/23/a-taliban-attack-on-a-convoy-carrying-supplies-to-foreign-troops-in-southern-afghanistan-kills-17-afghan-security-guards-and-drivers.md)
-_Context: Afghanistan, convoy, Taliban_
+_Context: convoy, Taliban, Afghanistan_
 
 ##### President
 ### [ The President of Iran Mahmoud Ahmadinejad cancels a trip to address the United Nations Security Council before it decides whether to impose further sanctions, saying the United States government had been "obstructive" in issuing visas to members of his entourage. ](/news/2007/03/23/the-president-of-iran-mahmoud-ahmadinejad-cancels-a-trip-to-address-the-united-nations-security-council-before-it-decides-whether-to-impose.md)
-_Context: President, visa, Mahmoud Ahmadinejad, United Nations Security Council, United States government_
+_Context: United Nations Security Council, President, United States government, visa, Mahmoud Ahmadinejad_
 
 ##### Missile hits an Ilyushin airplane
 ### [ A missile hits an Ilyushin airplane assisting the African Union Mission to Somalia as it takes off from Mogadishu, killing up to 11 people. ](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-the-african-union-mission-to-somalia-as-it-takes-off-from-mogadishu-killing-up-to-11-people.md)
-_Context: Mogadishu, AMISOM, missile hits an Ilyushin airplane_
+_Context: Mogadishu, missile hits an Ilyushin airplane, AMISOM_
 
 ##### United States Senate
 ### [ The United States Senate votes 52-47 to approve a budget plan that aims to achieve a balanced budget within five years and aims to find offsets for tax cuts passed in President Bush's first term. ](/news/2007/03/23/the-united-states-senate-votes-52-47-to-approve-a-budget-plan-that-aims-to-achieve-a-balanced-budget-within-five-years-and-aims-to-find-off.md)
-_Context: tax cuts passed, balanced budget, budget, U.S. President, first term, George W. Bush, United States Senate_
+_Context: George W. Bush, balanced budget, United States Senate, first term, U.S. President, tax cuts passed, budget_
 
 ##### United States House of Representatives
 ### [ The United States House of Representatives votes in favor of withdrawing all U.S. troops from Iraq by August 2008. President Bush promises to veto the bill. ](/news/2007/03/23/the-united-states-house-of-representatives-votes-in-favor-of-withdrawing-all-u-s-troops-from-iraq-by-august-2008-president-bush-promises.md)
-_Context: United States House of Representatives, U.S. President, 2008, veto, troop cut, bill into law, George W. Bush_
+_Context: United States House of Representatives, 2008, troop cut, U.S. President, bill into law, veto, George W. Bush_
 
 ##### Royal Navy
 ### [ 15 Royal Navy servicemen of the HMS "Cornwall" operating in Iraqi waters are seized by Iranian authorities after inspecting a ship suspected of smuggling. ](/news/2007/03/23/15-royal-navy-servicemen-of-the-hms-cornwall-operating-in-iraqi-waters-are-seized-by-iranian-authorities-after-inspecting-a-ship-suspecte.md)
-_Context: Iraq, Royal Navy, held captive by Iran, HMS ''Cornwall''_
+_Context: held captive by Iran, HMS ''Cornwall'', Iraq, Royal Navy_
 
 ##### Nepal
 ### [ Nepal's Government orders a judicial probe into clashes between Maoists and supporters of the Madhesi People's Rights Forum. ](/news/2007/03/23/nepal-s-government-orders-a-judicial-probe-into-clashes-between-maoists-and-supporters-of-the-madhesi-people-s-rights-forum.md)
-_Context: Maoist, Nepal, Madhesi People's Rights Forum_
+_Context: Nepal, Madhesi People's Rights Forum, Maoist_
 
 ##### Sri Lanka
 ### [ Heavy fighting is reported in northwest Sri Lanka between the Army and the Tamil Tigers. ](/news/2007/03/23/heavy-fighting-is-reported-in-northwest-sri-lanka-between-the-army-and-the-tamil-tigers.md)
@@ -49,7 +49,7 @@ _Context: Sri Lanka, Tamil Tigers, Army_
 
 ##### Democratic Republic of Congo
 ### [ Democratic Republic of Congo's chief prosecutor issues an arrest warrant for Senator Jean-Pierre Bemba who has sought refuge in the South African embassy as fighting continues in Kinshasa. ](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.md)
-_Context: Senator, Kinshasa, Democratic Republic of Congo, prosecutor, South Africa, Jean-Pierre Bemba_
+_Context: South Africa, Senator, prosecutor, Kinshasa, Democratic Republic of Congo, Jean-Pierre Bemba_
 
 ##### European Union
 ### [ Celebrations to mark the 50th birthday of the European Union begin. ](/news/2007/03/23/celebrations-to-mark-the-50th-birthday-of-the-european-union-begin.md)
@@ -57,15 +57,15 @@ _Context: European Union_
 
 ##### Burnley Tunnel
 ### [ At least three people die after an accident involving four cars and three trucks causes a fire in the Burnley Tunnel in Melbourne, Australia. Both the Burnley tunnel and nearby Domain Tunnel are evacuated. ](/news/2007/03/23/at-least-three-people-die-after-an-accident-involving-four-cars-and-three-trucks-causes-a-fire-in-the-burnley-tunnel-in-melbourne-australi.md)
-_Context: Australia, Domain Tunnel, Burnley Tunnel, Melbourne_
+_Context: Domain Tunnel, Australia, Melbourne, Burnley Tunnel_
 
 ##### Veterinarian
 ### [ Veterinarians warn that thousands of cats and dogs may die in the wake of the Menu Foods voluntary recall of over 60 million cans of aminopterin-contaminated pet food across North America. ](/news/2007/03/23/veterinarians-warn-that-thousands-of-cats-and-dogs-may-die-in-the-wake-of-the-menu-foods-voluntary-recall-of-over-60-million-cans-of-aminop.md)
-_Context: Veterinarian, Menu Foods, aminopterin, recall, pet food, North America_
+_Context: pet food, North America, aminopterin, Menu Foods, Veterinarian, recall_
 
 ##### Toe River
 ### [ 16 people are dead and twelve more missing after a passenger schooner capsized in the Toe River, Myanmar. ](/news/2007/03/23/16-people-are-dead-and-twelve-more-missing-after-a-passenger-schooner-capsized-in-the-toe-river-myanmar.md)
-_Context: Myanmar, Toe River_
+_Context: Toe River, Myanmar_
 
 ## [Previous Day...](/news/2007/03/22/index.md)
 

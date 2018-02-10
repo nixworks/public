@@ -5,27 +5,27 @@ Formats: [HTML](2006/01/16/index.html)  [JSON](2006/01/16/index.json)  [XML](200
 
 ##### U.S. President
 ### [ Former United States President Gerald Ford is hospitalized with pneumonia. ](/news/2006/01/16/former-united-states-president-gerald-ford-is-hospitalized-with-pneumonia.md)
-_Context: Gerald Ford, U.S. President, pneumonia_
+_Context: U.S. President, Gerald Ford, pneumonia_
 
 ##### Rizgar Mohammed Amin
 ### [ Rizgar Mohammed Amin, the chief judge in the Saddam Hussein trial, tenders his resignation, following criticism of his handling of the trial. ](/news/2006/01/16/rizgar-mohammed-amin-the-chief-judge-in-the-saddam-hussein-trial-tenders-his-resignation-following-criticism-of-his-handling-of-the-tria.md)
-_Context: Rizgar Mohammed Amin, Trials of Saddam Hussein, Saddam Hussein_
+_Context: Saddam Hussein, Trials of Saddam Hussein, Rizgar Mohammed Amin_
 
 ##### United Nations
 ### [ The United Nations appeals for US$240 million of food aid for West Africa to feed at least 10 million people affected by the food crisis, with Niger being the worst-affected country. ](/news/2006/01/16/the-united-nations-appeals-for-us-240-million-of-food-aid-for-west-africa-to-feed-at-least-10-million-people-affected-by-the-food-crisis-w.md)
-_Context: West Africa, United Nations, Niger_
+_Context: Niger, United Nations, West Africa_
 
 ##### Dockworker
 ### [ A dockworkers' strike in Europe has thousands of workers off the job in protest over proposed liberalization of European Union rules on port services. A demonstration outside the European Parliament in Strasbourg leaves twelve French police officers injured. ](/news/2006/01/16/a-dockworkers-strike-in-europe-has-thousands-of-workers-off-the-job-in-protest-over-proposed-liberalization-of-european-union-rules-on-por.md)
-_Context: European Union, strike, Strasbourg, European Parliament, dockworker_
+_Context: Strasbourg, European Union, dockworker, strike, European Parliament_
 
 ##### U.S. Vice President
 ### [ Former US Vice President Al Gore blasts President George W. Bush's policy of spying on American citizen conversations with suspected overseas terrorists, saying President Bush "repeatedly and persistently" broke the law in connection with the NSA warrantless surveillance controversy, says the United States Constitution is in danger. ](/news/2006/01/16/former-us-vice-president-al-gore-blasts-president-george-w-bush-s-policy-of-spying-on-american-citizen-conversations-with-suspected-overse.md)
-_Context: U.S. Vice President, U.S. President, United States Constitution, warrantless wiretapping, George W. Bush, Al Gore_
+_Context: U.S. President, U.S. Vice President, United States Constitution, George W. Bush, Al Gore, warrantless wiretapping_
 
 ##### Premier
 ### [ The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. ](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.md)
-_Context: Premier, Geoff Gallop, depression_
+_Context: depression, Geoff Gallop, Premier_
 
 ##### Afghanistan
 ### [ At least 27 people are killed in two suicide bombings in Afghanistan. ](/news/2006/01/16/at-least-27-people-are-killed-in-two-suicide-bombings-in-afghanistan.md)
@@ -33,7 +33,7 @@ _Context: Afghanistan_
 
 ##### Ellen Johnson Sirleaf
 ### [ Ellen Johnson Sirleaf is sworn in as Liberia's new president. She becomes Africa's first female elected head of state. ](/news/2006/01/16/ellen-johnson-sirleaf-is-sworn-in-as-liberia-s-new-president-she-becomes-africa-s-first-female-elected-head-of-state.md)
-_Context: president, Ellen Johnson Sirleaf, Liberia_
+_Context: Liberia, president, Ellen Johnson Sirleaf_
 
 ##### Vladivostok
 ### [ Nine people die after jumping from a burning eight-story office building in the Russian city of Vladivostok amid allegations of blocked emergency exits and fire code violations. ](/news/2006/01/16/nine-people-die-after-jumping-from-a-burning-eight-story-office-building-in-the-russian-city-of-vladivostok-amid-allegations-of-blocked-eme.md)
@@ -45,7 +45,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Iraq
 ### [ Iraq's electoral commission rules Monday that more than 99 percent of the ballots from the Dec. 15 parliamentary elections are valid, opening the way for a new government to start coming together. ](/news/2006/01/16/iraq-s-electoral-commission-rules-monday-that-more-than-99-percent-of-the-ballots-from-the-dec-15-parliamentary-elections-are-valid-openi.md)
-_Context: Iraq, December 2005_
+_Context: December 2005, Iraq_
 
 ## [Previous Day...](/news/2006/01/15/index.md)
 

@@ -9,7 +9,7 @@ At least eight people were killed on Saturday in a stampede in a soccer stadium 
 
 ##### South China Sea disputes
 ### [Indonesia renames part of the South China Sea as "North Natuna Sea," angering China. ](/news/2017/07/15/indonesia-renames-part-of-the-south-china-sea-as-north-natuna-sea-angering-china.md)
-_Context: Natuna, South China Sea disputes, China, South China Sea, Indonesia_
+_Context: Natuna, South China Sea disputes, South China Sea, China, Indonesia_
 
 ##### Crime in Iran
 ### [An attack by a man armed with a knife in Tehran Metro's Shahr-e-Rey Station leaves two injured. The attacker is shot dead by the police. ](/news/2017/07/15/an-attack-by-a-man-armed-with-a-knife-in-tehran-metro-s-shahr-e-rey-station-leaves-two-injured-the-attacker-is-shot-dead-by-the-police.md)
@@ -17,7 +17,7 @@ Tehran police shot dead a man who attacked a clergyman and other people with a k
 
 ##### Politics of Hong Kong
 ### [Thousands protest silently in Hong Kong honoring the life of dissident Liu Xiaobo. ](/news/2017/07/15/thousands-protest-silently-in-hong-kong-honoring-the-life-of-dissident-liu-xiaobo.md)
-_Context: Politics of Hong Kong, Hong Kong, Liu Xiaobo_
+_Context: Liu Xiaobo, Hong Kong, Politics of Hong Kong_
 
 ##### Politics of China
 ### [Chen Min'er replaces Sun Zhengcai as Communist Party Secretary of Chongqing; Sun Zhigang becomes party chief of Guizhou. ](/news/2017/07/15/chen-min-er-replaces-sun-zhengcai-as-communist-party-secretary-of-chongqing-sun-zhigang-becomes-party-chief-of-guizhou.md)
@@ -29,7 +29,7 @@ Stanford University’s Maryam Mirzakhani was the first and only woman to win th
 
 ##### Tardigrade
 ### [A newly-published paper suggests that some tardigrades may outlive most life on Earth. ](/news/2017/07/15/a-newly-published-paper-suggests-that-some-tardigrades-may-outlive-most-life-on-earth.md)
-_Context: life, Earth, Tardigrade, tardigrade_
+_Context: Earth, life, Tardigrade, tardigrade_
 
 ## [Previous Day...](/news/2017/07/14/index.md)
 

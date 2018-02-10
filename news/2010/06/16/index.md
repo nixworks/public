@@ -5,7 +5,7 @@ Formats: [HTML](2010/06/16/index.html)  [JSON](2010/06/16/index.json)  [XML](201
 
 ##### Jamaica
 ### [The Jamaican Government orders civilians to keep off the streets for two days in several slums in Kingston because authorities are still hunting for Christopher Coke, alleged by the United States to be a drug lord. ](/news/2010/06/16/the-jamaican-government-orders-civilians-to-keep-off-the-streets-for-two-days-in-several-slums-in-kingston-because-authorities-are-still-hun.md)
-_Context: drug lord, Jamaica, United States, Kingston, Christopher "Dudus" Coke_
+_Context: drug lord, Jamaica, Christopher "Dudus" Coke, United States, Kingston_
 
 ##### United States
 ### [American police in Seattle say they will "review training procedured" following the surfacing of a video which attrated international attention. The video shows a white officer from the Seattle department punching a black teenaged girl in the face when she tried intervene while the officer was confronting another girl about crossing the road at a legally forbidden area. Seattle police deny any wrongdoing. ](/news/2010/06/16/american-police-in-seattle-say-they-will-review-training-procedured-following-the-surfacing-of-a-video-which-attrated-international-attent.md)
@@ -17,7 +17,7 @@ Refugee agencies express concern over reported plans by the UK to deport about 5
 
 ##### Iran
 ### [Iran's atomic energy chief says Iran will begin building a new nuclear reactor, and Iran will keep enriching uranium, despite UN nuclear sanctions. ](/news/2010/06/16/iran-s-atomic-energy-chief-says-iran-will-begin-building-a-new-nuclear-reactor-and-iran-will-keep-enriching-uranium-despite-un-nuclear-san.md)
-_Context: Iran, ban on ballistic missile tests, nuclear reactor_
+_Context: Iran, nuclear reactor, ban on ballistic missile tests_
 
 ##### U.S. President
 ### [U.S. President Barack Obama announces that BP will finance a $20 billion fund to compensate people whose livelihoods have been damaged by the devastating oil spill in the Gulf of Mexico, and the company's chairman apologized for the worst spill in U.S. history. ](/news/2010/06/16/u-s-president-barack-obama-announces-that-bp-will-finance-a-20-billion-fund-to-compensate-people-whose-livelihoods-have-been-damaged-by-th.md)
@@ -35,9 +35,9 @@ _Context: Bangladesh, Cox's Bazar_
 ### [At least 25 people die during flooding in the Var department of Cote d'Azur, Southern France. ](/news/2010/06/16/at-least-25-people-die-during-flooding-in-the-var-department-of-ca-te-d-azur-southern-france.md)
 Flash floods in south-eastern France leave at least 19 people dead and hundreds of homes flooded, officials say.
 
-##### Mexico
+##### Mexican
 ### [A shootout in the Mexican tourist town of Taxco leaves 15 dead. ](/news/2010/06/16/a-shootout-in-the-mexican-tourist-town-of-taxco-leaves-15-dead.md)
-_Context: Taxco, Mexico_
+_Context: Taxco, Mexican_
 
 ##### Baghdad
 ### [Two separate blasts in eastern Baghdad kill 1 person and wound another 8. ](/news/2010/06/16/two-separate-blasts-in-eastern-baghdad-kill-1-person-and-wound-another-8.md)
@@ -69,7 +69,7 @@ Colombian informants share a $1.2m reward for helping the rescue of four securit
 
 ##### LeTV
 ### [Chinese video-sharing websites, like LeTV Entertainment, Sohu.com, and Voole.com, reveals more film investment in SH.](/news/2010/06/16/chinese-video-sharing-websites-like-letv-entertainment-sohu-com-and-voole-com-reveals-more-film-investment-in-sh.md)
-_Context: Voole, Sohu, LeTV_
+_Context: Sohu, Voole, LeTV_
 
 ##### Dutch
 ### [Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. ](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.md)
@@ -81,7 +81,7 @@ _Context: Lhasa, Dragon Boat Festival_
 
 ##### Jesus Christ
 ### [A six-storey statue of Jesus Christ is struck by lightning and razed to the ground in a city in the US state of Ohio. ](/news/2010/06/16/a-six-storey-statue-of-jesus-christ-is-struck-by-lightning-and-razed-to-the-ground-in-a-city-in-the-us-state-of-ohio.md)
-_Context: United States, Jesus Christ, Ohio_
+_Context: Ohio, Jesus Christ, United States_
 
 ##### Italy
 ### [Researchers from four Italian universities identify human remains discovered in a church in Tuscany as "almost certainly" being those of Renaissance artist Caravaggio. ](/news/2010/06/16/researchers-from-four-italian-universities-identify-human-remains-discovered-in-a-church-in-tuscany-as-almost-certainly-being-those-of-ren.md)

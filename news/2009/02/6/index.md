@@ -5,7 +5,7 @@ Formats: [HTML](2009/02/6/index.html)  [JSON](2009/02/6/index.json)  [XML](2009/
 
 ##### Sweden
 ### [ Sweden ends its moratorium on the construction of nuclear power plants. ](/news/2009/02/6/sweden-ends-its-moratorium-on-the-construction-of-nuclear-power-plants.md)
-_Context: Sweden, nuclear power, moratorium_
+_Context: nuclear power, moratorium, Sweden_
 
 ##### United States
 ### [ The United States Food and Drug Administration approves ATryn, the first drug made using genetically engineered animals. ](/news/2009/02/6/the-united-states-food-and-drug-administration-approves-atryn-the-first-drug-made-using-genetically-engineered-animals.md)
@@ -21,23 +21,23 @@ About 84 children have died over the past three months after taking a teething d
 
 ##### Pakistan
 ### [ Pakistani nuclear scientist Abdul Qadeer Khan is released from house arrest in Islamabad. ](/news/2009/02/6/pakistani-nuclear-scientist-abdul-qadeer-khan-is-released-from-house-arrest-in-islamabad.md)
-_Context: Abdul Qadeer Khan, nuclear scientist, house arrest, Islamabad, Pakistan_
+_Context: nuclear scientist, Abdul Qadeer Khan, Pakistan, Islamabad, house arrest_
 
 ##### United Nations
 ### [ United Nations Secretary-General Ban Ki-moon visits Iraq to meet with Prime Minister Nouri al-Maliki. ](/news/2009/02/6/united-nations-secretary-general-ban-ki-moon-visits-iraq-to-meet-with-prime-minister-nouri-al-maliki.md)
-_Context: United Nations, Nouri al-Maliki, United Nations Secretary-General, Ban Ki-moon, Iraq Prime Minister, Iraq_
+_Context: Iraq, Ban Ki-moon, United Nations Secretary-General, Iraq Prime Minister, Nouri al-Maliki, United Nations_
 
 ##### Sri Lanka
 ### [ Sri Lanka's government refuses to negotiate with the Tamil Tigers at what it calls a "crucial and final stage" of the ongoing civil war. ](/news/2009/02/6/sri-lanka-s-government-refuses-to-negotiate-with-the-tamil-tigers-at-what-it-calls-a-crucial-and-final-stage-of-the-ongoing-civil-war.md)
-_Context: Sri Lankan Civil War, Sri Lanka, LTTE, government_
+_Context: government, LTTE, Sri Lankan Civil War, Sri Lanka_
 
 ##### Russia
 ### [ Russia's government will allow the U.S. Armed Forces to ship nonlethal equipment to Afghanistan through Russian territory. ](/news/2009/02/6/russia-s-government-will-allow-the-u-s-armed-forces-to-ship-nonlethal-equipment-to-afghanistan-through-russian-territory.md)
-_Context: United States military personnel, Russian government, United States, nonlethal equipment, Afghanistan, Russia_
+_Context: United States military personnel, United States, nonlethal equipment, Afghanistan, Russian government, Russia_
 
 ##### Somalia
 ### [ Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. ](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.md)
-_Context: Somalia, ransom, MV, Egypt, Somali pirates_
+_Context: MV, Somali pirates, Egypt, ransom, Somalia_
 
 ##### USS
 ### [ The USS "Port Royal" runs aground off Hawaii. ](/news/2009/02/6/the-uss-port-royal-runs-aground-off-hawaii.md)
@@ -45,7 +45,7 @@ Ticonderoga-class guided missile cruiser the USS Port Royal has run aground off 
 
 ##### Chief Minister
 ### [ Chief Minister of Perak, Malaysia, Mohammad Nizar Jamaluddin is forcibly removed from office and threatens legal action. ](/news/2009/02/6/chief-minister-of-perak-malaysia-mohammad-nizar-jamaluddin-is-forcibly-removed-from-office-and-threatens-legal-action.md)
-_Context: Mohammad Nizar Jamaluddin, Chief Minister, Perak, Malaysia_
+_Context: Chief Minister, Malaysia, Perak, Mohammad Nizar Jamaluddin_
 
 ##### Desmond Tutu
 ### [ Archbishop Desmond Tutu will help establish a Truth and Reconciliation Commission in the Solomon Islands. ](/news/2009/02/6/archbishop-desmond-tutu-will-help-establish-a-truth-and-reconciliation-commission-in-the-solomon-islands.md)

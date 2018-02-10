@@ -5,11 +5,11 @@ Formats: [HTML](2009/10/17/index.html)  [JSON](2009/10/17/index.json)  [XML](200
 
 ##### Czech Republic
 ### [ Czech President Vclav Klaus compares the Treaty of Lisbon to "an unstoppable speeding train" that he is being forced to sign. ](/news/2009/10/17/czech-president-vaclav-klaus-compares-the-treaty-of-lisbon-to-an-unstoppable-speeding-train-that-he-is-being-forced-to-sign.md)
-_Context: Vclav Klaus, Czech Republic, President, Treaty of Lisbon_
+_Context: Vclav Klaus, Treaty of Lisbon, Czech Republic, President_
 
 ##### The dumped waste
 ### [ A report into dumping of toxic waste by Trafigura in Cte d'Ivoire is published. ](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.md)
-_Context: Cte d'Ivoire, the dumped waste, Trafigura_
+_Context: Trafigura, the dumped waste, Cte d'Ivoire_
 
 ##### Rio de Janeiro
 ### [ Two police officers are killed after their police helicopter is shot down by drug gangs in Rio de Janeiro, Brazil. Ten drug traffickers were also killed in the violence. ](/news/2009/10/17/two-police-officers-are-killed-after-their-police-helicopter-is-shot-down-by-drug-gangs-in-rio-de-janeiro-brazil-ten-drug-traffickers-wer.md)
@@ -25,7 +25,7 @@ _Context: Colorado, balloon boy hoax, Fort Collins, Colorado_
 
 ##### South Korea
 ### [ A South Korean legislator claims North Korea is holding 154,000 of its citizens in gulags. ](/news/2009/10/17/a-south-korean-legislator-claims-north-korea-is-holding-154-000-of-its-citizens-in-gulags.md)
-_Context: North Korea, gulags, South Korea_
+_Context: South Korea, gulags, North Korea_
 
 ##### Colombia
 ### [ A Colombian military official claims that eight FARC guerrillas and five Colombian army soldiers have been killed in heavy fighting in Cauca Department. ](/news/2009/10/17/a-colombian-military-official-claims-that-eight-farc-guerrillas-and-five-colombian-army-soldiers-have-been-killed-in-heavy-fighting-in-cauc.md)
@@ -33,7 +33,7 @@ _Context: Cauca Department, Colombian army, Revolutionary Armed Forces of Colomb
 
 ##### Iran
 ### [ Iran frees "Newsweek" reporter Maziar Bahari on bail after four months in detention following the disputed presidential election. ](/news/2009/10/17/iran-frees-newsweek-reporter-maziar-bahari-on-bail-after-four-months-in-detention-following-the-disputed-presidential-election.md)
-_Context: Maziar Bahari, re-election, Newsweek, Iran_
+_Context: Maziar Bahari, Newsweek, Iran, re-election_
 
 ##### Abortion
 ### [ More than one million anti-abortion protesters march through Madrid in one of the largest demonstrations since 2003 and 2004 anti-war protests. ](/news/2009/10/17/more-than-one-million-anti-abortion-protesters-march-through-madrid-in-one-of-the-largest-demonstrations-since-2003-and-2004-anti-war-prote.md)
@@ -45,15 +45,15 @@ The funeral of Boyzone singer Stephen Gately has taken place.
 
 ##### Pakistan Army
 ### [ 30,000 troops from the Pakistan Army begin an offensive operation against the Taliban and their allies in South Waziristan. ](/news/2009/10/17/30-000-troops-from-the-pakistan-army-begin-an-offensive-operation-against-the-taliban-and-their-allies-in-south-waziristan.md)
-_Context: South Waziristan, Pakistan Army, Taliban, ongoing offensive_
+_Context: Taliban, South Waziristan, ongoing offensive, Pakistan Army_
 
 ##### His party
 ### [ The government of the Maldives, including President Mohamed Nasheed, holds the world's first underwater Cabinet meeting, to highlight the threat of global warming. ](/news/2009/10/17/the-government-of-the-maldives-including-president-mohamed-nasheed-holds-the-world-s-first-underwater-cabinet-meeting-to-highlight-the-t.md)
-_Context: Maldives, global warming, his party, Mohamed Nasheed_
+_Context: Mohamed Nasheed, Maldives, his party, global warming_
 
 ##### India
 ### [ 32 people are killed in a fire at a fireworks warehouse in southern India, during the Diwali celebrations. ](/news/2009/10/17/32-people-are-killed-in-a-fire-at-a-fireworks-warehouse-in-southern-india-during-the-diwali-celebrations.md)
-_Context: Diwali, India_
+_Context: India, Diwali_
 
 ## [Previous Day...](/news/2009/10/16/index.md)
 

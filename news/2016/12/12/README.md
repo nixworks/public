@@ -33,7 +33,7 @@ President-elect says he sees no reason why the US should continuing abiding by O
 
 ##### China-Mexico relations
 ### [Representatives from China and Mexico pledge to deepen ties between their countries as a reaction to Donald Trump's positions on trade. ](/news/2016/12/12/representatives-from-china-and-mexico-pledge-to-deepen-ties-between-their-countries-as-a-reaction-to-donald-trump-s-positions-on-trade.md)
-_Context: Mexico, China, China-Mexico relations, Donald Trump's positions on trade_
+_Context: China, Donald Trump's positions on trade, China-Mexico relations, Mexican_
 
 ##### Cuba-European Union relations
 ### [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md)
@@ -49,7 +49,7 @@ Former Portuguese Prime Minister Antonio Guterres was sworn in on Monday as the 
 
 ##### Pakistan
 ### [Pakistan appoints Lt. Gen. Naveed Mukhtar as the new head of the Inter-Services Intelligence. ](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-new-head-of-the-inter-services-intelligence.md)
-_Context: Inter-Services Intelligence, Pakistan_
+_Context: Pakistan, Inter-Services Intelligence_
 
 ##### Christine Lagarde
 ### [Christine Lagarde, the managing director of the International Monetary Fund, goes on trial in France for alleged negligence as Finance Minister resulting in the loss of hundreds of millions of euros. ](/news/2016/12/12/christine-lagarde-the-managing-director-of-the-international-monetary-fund-goes-on-trial-in-france-for-alleged-negligence-as-finance-minis.md)
@@ -69,7 +69,7 @@ More than a decade after he tried and failed to become the country&#039;s leader
 
 ##### Gambian presidential election, 2016
 ### [The president of Senegal urges The Gambia's fallen dictator Yahya Jammeh to respect the result of the polls. ](/news/2016/12/12/the-president-of-senegal-urges-the-gambia-s-fallen-dictator-yahya-jammeh-to-respect-the-result-of-the-polls.md)
-_Context: Senegal, Gambian presidential election, 2016, Yahya Jammeh, The Gambia_
+_Context: Yahya Jammeh, Senegal, Gambian presidential election, 2016, The Gambia_
 
 ##### Earlier this month
 ### [Being forced into opposition a year earlier, by the resignation of Prime Minister Victor Ponta amid the Colectiv nightclub fire tragedy, the Social Democratic Party returns to government following a landslide victory in last Sunday's parliamentary elections. ](/news/2016/12/12/being-forced-into-opposition-a-year-earlier-by-the-resignation-of-prime-minister-victor-ponta-amid-the-colectiv-nightclub-fire-tragedy-the.md)

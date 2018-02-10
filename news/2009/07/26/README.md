@@ -13,11 +13,11 @@ More than 50 Nigerians were killed today in clashes between security forces and 
 
 ##### China
 ### [ Chinese hackers target the website of Australia's biggest film festival in Melbourne over a documentary about Uyghur leader Rebiya Kadeer. ](/news/2009/07/26/chinese-hackers-target-the-website-of-australia-s-biggest-film-festival-in-melbourne-over-a-documentary-about-uyghur-leader-rebiya-kadeer.md)
-_Context: China, Melbourne, Australia, Rebiya Kadeer, Uyghur, Melbourne International Film Festival_
+_Context: Melbourne, China, Rebiya Kadeer, Uyghur, Australia, Melbourne International Film Festival_
 
 ##### Fernando Chui Sai On
 ### [ Fernando Chui Sai On is elected the third Chief Executive of Macau. ](/news/2009/07/26/fernando-chui-sai-on-is-elected-the-third-chief-executive-of-macau.md)
-_Context: Macau, Chief Executive, Fernando Chui Sai On_
+_Context: Fernando Chui Sai On, Macau, Chief Executive_
 
 ##### Rinkeby
 ### [ Six people are killed in an apartment building fire in Rinkeby, Stockholm. ](/news/2009/07/26/six-people-are-killed-in-an-apartment-building-fire-in-rinkeby-stockholm.md)
@@ -29,7 +29,7 @@ India becomes the sixth nation to join the elite A-league as Manmohan Singh form
 
 ##### Guinea-Bissau
 ### [ Voters in Guinea-Bissau take part in a runoff presidential election between Kumba Iala and Malam Bacai Sanha. ](/news/2009/07/26/voters-in-guinea-bissau-take-part-in-a-runoff-presidential-election-between-kumba-iala-and-malam-bacai-sanha.md)
-_Context: presidential election, Malam Bacai Sanha, Guinea-Bissau, Kumba Iala_
+_Context: Guinea-Bissau, presidential election, Kumba Iala, Malam Bacai Sanha_
 
 ##### France
 ### [ French President Nicolas Sarkozy takes ill whilst exercising. ](/news/2009/07/26/french-president-nicolas-sarkozy-takes-ill-whilst-exercising.md)

@@ -9,7 +9,7 @@ The biggest leak of military records in US history, released by Wikileaks, shows
 
 ##### Kirovohrad
 ### [Three bombs explode in front of government offices in Kirovohrad, Ukraine, ahead of a visit by President Viktor Yanukovych. ](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.md)
-_Context: Ukraine, Kirovohrad, Viktor Yanukovych_
+_Context: Ukraine, Viktor Yanukovych, Kirovohrad_
 
 ##### Indonesia
 ### [Indonesia admits that the men seen torturing Papuan villagers in a video were soldiers of the Indonesian National Armed Forces. ](/news/2010/10/22/indonesia-admits-that-the-men-seen-torturing-papuan-villagers-in-a-video-were-soldiers-of-the-indonesian-national-armed-forces.md)
@@ -17,7 +17,7 @@ Indonesia admits that the men seen torturing Papuan villagers in a video uploade
 
 ##### Pakistan
 ### [A bomb attack killed six Pakistani soldiers in the Orakzai tribal region. ](/news/2010/10/22/a-bomb-attack-killed-six-pakistani-soldiers-in-the-orakzai-tribal-region.md)
-_Context: Pakistan, Orakzai_
+_Context: Orakzai, Pakistan_
 
 ##### Mosque
 ### [At least two people are killed following a blast near a mosque in Peshawar, Pakistan. ](/news/2010/10/22/at-least-two-people-are-killed-following-a-blast-near-a-mosque-in-peshawar-pakistan.md)
@@ -25,7 +25,7 @@ At least 3 people were killed and 22 others sustained severe injuries when a hom
 
 ##### Islam
 ### [Fighting between pro-government forces and Islamist insurgents in Beled-Hawa district of Somalia near the Kenyan border has killed 12 people. ](/news/2010/10/22/fighting-between-pro-government-forces-and-islamist-insurgents-in-beled-hawa-district-of-somalia-near-the-kenyan-border-has-killed-12-people.md)
-_Context: Beled-Hawa, Islam, Somalia, Kenya_
+_Context: Islam, Kenya, Somalia, Beled-Hawa_
 
 ##### Iran
 ### [2 Iranian films, 'Michael' and 'When the Light Shines', win top prizes at Italy's "13th International Religions Today Film Festival" at its closing ceremony. ](/news/2010/10/22/2-iranian-films-amichaela-and-awhen-the-light-shinesa-win-top-prizes-at-italy-s-a13th-international-religions-today-film-festiva.md)
@@ -45,11 +45,11 @@ Clashes break out outside a major oil refinery in France after riot police move 
 
 ##### Premier
 ### [The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. ](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.md)
-_Context: Premier, Brad Wall, takeover, Potash Corporation of Saskatchewan, Canadian government, BHP Billiton_
+_Context: Brad Wall, BHP Billiton, takeover, Premier, Canadian government, Potash Corporation of Saskatchewan_
 
 ##### China
 ### [China's urban unemployment rate fell to 4.1% at September. ](/news/2010/10/22/chinaas-urban-unemployment-rate-fell-to-4-1-at-september.md)
-_Context: China, unemployment rate_
+_Context: unemployment rate, China_
 
 ##### Unemployment
 ### [Unemployment fell in 23 states and Washington, D.C., rose in 11 states.](/news/2010/10/22/unemployment-fell-in-23-states-and-washington-d-c-rose-in-11-states.md)
@@ -57,7 +57,7 @@ Nearly half of U.S. states reported drops in their unemployment rates last month
 
 ##### Haiti
 ### [The Haitian Health Ministry informs the World Health Organisation of a cholera outbreak north of Port-au-Prince; at least 150 people have been killed. ](/news/2010/10/22/the-haitian-health-ministry-informs-the-world-health-organisation-of-a-cholera-outbreak-north-of-port-au-prince-at-least-150-people-have-be.md)
-_Context: World Health Organisation, Port-au-Prince, Haiti, cholera outbreak_
+_Context: cholera outbreak, Haiti, Port-au-Prince, World Health Organisation_
 
 ##### Uganda
 ### [An outbreak of jiggers, a rotting disease, kills 20 people in Uganda and sickens a further 20,000. ](/news/2010/10/22/an-outbreak-of-jiggers-a-rotting-disease-kills-20-people-in-uganda-and-sickens-a-further-20-000.md)
@@ -65,7 +65,7 @@ _Context: Uganda_
 
 ##### United Nations Secretary-General
 ### [Secretary-General of the United Nations Ban Ki-moon warns that North Korea is headed for a "chronic" food crisis with droughts and floods in various parts of the country. ](/news/2010/10/22/secretary-general-of-the-united-nations-ban-ki-moon-warns-that-north-korea-is-headed-for-a-chronic-food-crisis-with-droughts-and-floods-in.md)
-_Context: drought, United Nations Secretary-General, Ban Ki-moon, flood, North Korea_
+_Context: flood, drought, United Nations Secretary-General, North Korea, Ban Ki-moon_
 
 ##### Typhoon Megi
 ### [Typhoon Megi kills 7 people and leaves 23 missing after triggering landslides in Taiwan. ](/news/2010/10/22/typhoon-megi-kills-7-people-and-leaves-23-missing-after-triggering-landslides-in-taiwan.md)
@@ -73,7 +73,7 @@ _Context: Typhoon Megi, Taiwan_
 
 ##### Cyclone Giri
 ### [Cyclone Giri, which rapidly intensified with winds of 144mph, makes landfall in western Burma. ](/news/2010/10/22/cyclone-giri-which-rapidly-intensified-with-winds-of-144mph-makes-landfall-in-western-burma.md)
-_Context: Cyclone Giri, Burma_
+_Context: Burma, Cyclone Giri_
 
 ##### Forest fire
 ### [Forest fires in Sumatra, Indonesia, cause a thick haze to drift over Singapore. ](/news/2010/10/22/forest-fires-in-sumatra-indonesia-cause-a-thick-haze-to-drift-over-singapore.md)

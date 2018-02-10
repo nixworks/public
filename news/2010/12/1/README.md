@@ -5,7 +5,7 @@ Formats: [HTML](2010/12/1/index.html)  [JSON](2010/12/1/index.json)  [XML](2010/
 
 ##### Naxalite
 ### [Two villagers and 10 Naxalites are killed in firing between a group of criminals and Maoists in Munger, India. ](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.md)
-_Context: Naxalite, India, Munger, Maoist_
+_Context: Munger, Naxalite, India, Maoist_
 
 ##### Roman
 ### [Two walls collapse at the ancient Roman city of Pompeii during heavy rains, the third such incident in a month. ](/news/2010/12/1/two-walls-collapse-at-the-ancient-roman-city-of-pompeii-during-heavy-rains-the-third-such-incident-in-a-month.md)
@@ -13,7 +13,7 @@ _Context: Roman, Pompeii_
 
 ##### Russia
 ### [Russia's Gazprom and Ukraine's Naftogaz Ukrainy have agreed to set up two joint ventures, the Russian company said after a meeting between its CEO Alexei Miller and Ukrainian Fuel and Energy Minister Yuri Boiko. ](/news/2010/12/1/russiaas-gazprom-and-ukraineas-naftogaz-ukrainy-have-agreed-to-set-up-two-joint-ventures-the-russian-company-said-after-a-meeting-betwe.md)
-_Context: Yuri Boiko, Naftogaz Ukrainy, Ukrainian Fuel and Energy Minister, Russia, Ukraine, Gazprom, Alexei Miller_
+_Context: Gazprom, Yuri Boiko, Russia, Ukraine, Naftogaz Ukrainy, Ukrainian Fuel and Energy Minister, Alexei Miller_
 
 ##### State of emergency
 ### [21 people are killed and several states declare a state of emergency after torrential rains in Venezuela. ](/news/2010/12/1/21-people-are-killed-and-several-states-declare-a-state-of-emergency-after-torrential-rains-in-venezuela.md)
@@ -21,15 +21,15 @@ _Context: state of emergency, Venezuela_
 
 ##### U.N. climate change talks
 ### [At the 2010 United Nations Climate Change Conference, Google unveils an initiative using Google Earth allowing users to view the effects of deforestation, impacts and videos on global warming and climate change. ](/news/2010/12/1/at-the-2010-united-nations-climate-change-conference-google-unveils-an-initiative-using-google-earth-allowing-users-to-view-the-effects-of.md)
-_Context: Google, U.N. climate change talks, deforestation, climate change, Google Earth, effects of global warming, global warming_
+_Context: Google, climate change, Google Earth, U.N. climate change talks, global warming, deforestation, effects of global warming_
 
 ##### Kazakhstan
 ### [Kazakhstan hosts its first OSCE summit in a decade. ](/news/2010/12/1/kazakhstan-hosts-its-first-osce-summit-in-a-decade.md)
-_Context: OSCE, Kazakhstan_
+_Context: Kazakhstan, OSCE_
 
 ##### South Korea
 ### [South Korea states that it will hold more military exercises with the United States following the conclusion of a naval exercise in the Yellow Sea, despite threats from North Korea. ](/news/2010/12/1/south-korea-states-that-it-will-hold-more-military-exercises-with-the-united-states-following-the-conclusion-of-a-naval-exercise-in-the-yell.md)
-_Context: North Korea, United States, Yellow Sea, South Korea_
+_Context: North Korea, Yellow Sea, South Korea, United States_
 
 ##### Israel
 ### [Israel reveals plans to build 625 more homes in the Palestinian territories, close to East Jerusalem. ](/news/2010/12/1/israel-reveals-plans-to-build-625-more-homes-in-the-palestinian-territories-close-to-east-jerusalem.md)
@@ -37,7 +37,7 @@ Israel on Wednesday revealed plans to build new homes on West Bank land it has a
 
 ##### Japan
 ### [Japanese police arrest a leading mob figure, Tadashi Irie, third-in-command of the Yamaguchi-gumi. ](/news/2010/12/1/japanese-police-arrest-a-leading-mob-figure-tadashi-irie-third-in-command-of-the-yamaguchi-gumi.md)
-_Context: Yamaguchi-gumi, Japan, Tadashi Irie_
+_Context: Yamaguchi-gumi, Tadashi Irie, Japan_
 
 ##### Iran
 ### [Iran executes Shahla Jahed by hanging eight years after she was sentenced to death for murdering the wife of footballer Nasser Mohammadkhani, her husband under a temporary marriage. ](/news/2010/12/1/iran-executes-shahla-jahed-by-hanging-eight-years-after-she-was-sentenced-to-death-for-murdering-the-wife-of-footballer-nasser-mohammadkhani.md)

@@ -25,15 +25,15 @@ _Context: England, gay_
 
 ##### Somaliland
 ### [Secessionists battle with forces from Somaliland near the border with Puntland in northern Somalia. ](/news/2012/02/10/secessionists-battle-with-forces-from-somaliland-near-the-border-with-puntland-in-northern-somalia.md)
-_Context: Puntland, Somalia, Somaliland_
+_Context: Somalia, Puntland, Somaliland_
 
 ##### United States Secretary of Defense
 ### [The United States Secretary of Defense Leon Panetta tells the Marine Corps to re-investigate and take appropriate action against snipers who posed with a logo resembling that of the Nazi Schutzstaffel in Afghanistan. ](/news/2012/02/10/the-united-states-secretary-of-defense-leon-panetta-tells-the-marine-corps-to-re-investigate-and-take-appropriate-action-against-snipers-who.md)
-_Context: Leon Panetta, sniper, Marine, United States Secretary of Defense, Schutzstaffel, Nazi, Afghanistan_
+_Context: Schutzstaffel, Leon Panetta, Nazi, United States Secretary of Defense, sniper, Marine, Afghanistan_
 
 ##### United States
 ### [The United States Central Intelligence Agency website and Alabama state websites go down with reports that Anonymous is responsible. ](/news/2012/02/10/the-united-states-central-intelligence-agency-website-and-alabama-state-websites-go-down-with-reports-that-anonymous-is-responsible.md)
-_Context: United States, Central Intelligence Agency, hacker group Anonymous, Alabama_
+_Context: Alabama, hacker group Anonymous, United States, Central Intelligence Agency_
 
 ##### President
 ### [A new book of poetry by President of Ireland Michael D. Higgins is negatively reviewed by leading critic Professor Kevin Kiely, who says the President "can be accused of crimes against literature". ](/news/2012/02/10/a-new-book-of-poetry-by-president-of-ireland-michael-d-higgins-is-negatively-reviewed-by-leading-critic-professor-kevin-kiely-who-says-the.md)
@@ -41,7 +41,7 @@ _Context: Michael D. Higgins, President_
 
 ##### The Cats of Copenhagen
 ### ["The Cats of Copenhagen", a children's story by James Joyce, is published for the first time in Dublin, and is called an "outrage". ](/news/2012/02/10/the-cats-of-copenhagen-a-children-s-story-by-james-joyce-is-published-for-the-first-time-in-dublin-and-is-called-an-outrage.md)
-_Context: James Joyce, Dublin, The Cats of Copenhagen_
+_Context: Dublin, James Joyce, The Cats of Copenhagen_
 
 ##### The Guard
 ### ["The Guard" wins "The Guardian"{{'}}s annual First Film award. ](/news/2012/02/10/the-guard-wins-the-guardian-s-annual-first-film-award.md)
@@ -53,7 +53,7 @@ _Context: Samuel Aranda, World Press Photo of the Year, Yemen_
 
 ##### Histadrut
 ### [A Histadrut general strike in Israel continues for a third day with banks, ports and the Tel Aviv Stock Exchange closed. ](/news/2012/02/10/a-histadrut-general-strike-in-israel-continues-for-a-third-day-with-banks-ports-and-the-tel-aviv-stock-exchange-closed.md)
-_Context: Tel Aviv Stock Exchange, Histadrut, general strike, Israel_
+_Context: Histadrut, Israel, general strike, Tel Aviv Stock Exchange_
 
 ##### Reuters
 ### [Reuters cites sources "familiar with the matter" as saying that Google will soon receive approval from both the European Union and the United States for its proposed acquisition of Motorola Mobility. ](/news/2012/02/10/reuters-cites-sources-familiar-with-the-matter-as-saying-that-google-will-soon-receive-approval-from-both-the-european-union-and-the-unite.md)
@@ -69,15 +69,15 @@ Argentine president Cristina Fernandez gave instructions for the formal complain
 
 ##### South Korea
 ### [A group of South Korean lawmakers make a rare visit to North Korea's Kaesong Industrial Region. ](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.md)
-_Context: North Korea, Kaesong area, South Korea_
+_Context: South Korea, Kaesong area, North Korea_
 
 ##### Uganda
 ### [A Ugandan lawmaker who propose the Anti-Homosexuality Bill scraps the proposed death penalty clause. ](/news/2012/02/10/a-ugandan-lawmaker-who-propose-the-anti-homosexuality-bill-scraps-the-proposed-death-penalty-clause.md)
-_Context: Uganda, sentenced to death, law_
+_Context: sentenced to death, law, Uganda_
 
 ##### Nat Rothschild
 ### [Banking scion Nat Rothschild loses his libel action against the "Daily Mail" for a statement that he is "puppet master" for Peter Mandelson and Russian oligarch Oleg Deripaska. ](/news/2012/02/10/banking-scion-nat-rothschild-loses-his-libel-action-against-the-daily-mail-for-a-statement-that-he-is-puppet-master-for-peter-mandelson.md)
-_Context: Oleg Deripaska, Peter Mandelson, Daily Mail, Nat Rothschild_
+_Context: Nat Rothschild, Peter Mandelson, Daily Mail, Oleg Deripaska_
 
 ##### Luka Bojovic
 ### [Luka Bojovic, an alleged member of the Zemun Clan, is arrested in Valencia, Spain, for involvement in over 20 murders in Serbia, the Netherlands and Spain, including the killing of former Prime Minister of Serbia Zoran Dindic. ](/news/2012/02/10/luka-bojovia-an-alleged-member-of-the-zemun-clan-is-arrested-in-valencia-spain-for-involvement-in-over-20-murders-in-serbia-the-nether.md)
@@ -85,11 +85,11 @@ A man suspected of involvement in the 2003 killing of Serbian Prime Minister Zor
 
 ##### Uzbek
 ### [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md)
-_Context: Alabama, U.S. President, Barack Obama, Ulugbek Kodirov, Uzbek, Islamic Movement of Uzbekistan, Birmingham_
+_Context: U.S. President, Alabama, Barack Obama, Uzbek, Islamic Movement of Uzbekistan, Ulugbek Kodirov, Birmingham_
 
 ##### China
 ### [Chinese Premier Wen Jiabao pledges greater freedoms in Tibet, hours after two protesters are killed demanding the end of Chinese rule in the region; seven officials are also sacked for "neglecting state duties". ](/news/2012/02/10/chinese-premier-wen-jiabao-pledges-greater-freedoms-in-tibet-hours-after-two-protesters-are-killed-demanding-the-end-of-chinese-rule-in-the.md)
-_Context: Wen Jiabao, China, Tibet_
+_Context: China, Wen Jiabao, Tibet_
 
 ##### Zhu Yufi
 ### [Chinese dissident Zhu Yufi is jailed for seven years for "inciting subversion", after publishing a poem in support of freedom. ](/news/2012/02/10/chinese-dissident-zhu-yufi-is-jailed-for-seven-years-for-inciting-subversion-after-publishing-a-poem-in-support-of-freedom.md)

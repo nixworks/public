@@ -29,11 +29,11 @@ North Korea warns that US-South Korean plans for military maneuvers put peninsul
 
 ##### China
 ### [China warns the U.S. against performing any military acts within their exclusive economic zone, ahead of joint South Korean-U.S. military exercises aimed at threatening North Korea. ](/news/2010/11/26/china-warns-the-u-s-against-performing-any-military-acts-within-their-exclusive-economic-zone-ahead-of-joint-south-korean-u-s-military-ex.md)
-_Context: North Korea, U.S., exclusive economic zone, South Korea, China,  threatening_
+_Context:  threatening, China, exclusive economic zone, North Korea, U.S., South Korea_
 
 ##### Lebanon's Prime Minister
 ### [Lebanon's Prime Minister Saad Hariri visits Iran, seeking help to prevent violence if a U.N.-backed tribunal indicts Hezbollah members for killing former prime minister, Rafiq Hariri, and 21 others in a car bombing ](/news/2010/11/26/lebanon-s-prime-minister-saad-hariri-visits-iran-seeking-help-to-prevent-violence-if-a-u-n-backed-tribunal-indicts-hezbollah-members-for-k.md)
-_Context: Saad Hariri, U.N., killing former prime minister, Rafiq Hariri, Hezbollah, Lebanon's Prime Minister_
+_Context: U.N., Hezbollah, killing former prime minister, Rafiq Hariri, Saad Hariri, Lebanon's Prime Minister_
 
 ##### Rwanda
 ### [A Rwandan court reschedules the trial date of the United Democratic Forces opposition party leader, Victoire Ingabire, for another 30 days for prosecutors to complete building their case against her. ](/news/2010/11/26/a-rwandan-court-reschedules-the-trial-date-of-the-united-democratic-forces-opposition-party-leader-victoire-ingabire-for-another-30-days-f.md)
@@ -41,7 +41,7 @@ A Rwandan court gave prosecutors an extra 30 days to complete their investigatio
 
 ##### Pakistani police
 ### [Pakistani police arrest two Islamist militants planning a suicide bombing attack against a mosque and a government building in Islamabad. ](/news/2010/11/26/pakistani-police-arrest-two-islamist-militants-planning-a-suicide-bombing-attack-against-a-mosque-and-a-government-building-in-islamabad.md)
-_Context: Islamists, Islamabad, Pakistani police, suicide bombing attack_
+_Context: Islamabad, Islamists, suicide bombing attack, Pakistani police_
 
 ##### Saudi Arabia
 ### [Authorities in Saudi Arabia arrest 149 people with links to al-Qaeda suspected of planning attacks on government officials and journalists. ](/news/2010/11/26/authorities-in-saudi-arabia-arrest-149-people-with-links-to-al-qaeda-suspected-of-planning-attacks-on-government-officials-and-journalists.md)
@@ -61,7 +61,7 @@ A gunman opened fire on a campaign rally near Taipei yesterday, killing one man 
 
 ##### Kim Kwan-jin
 ### [Kim Kwan-jin becomes the new Minister for Defense in South Korea, replacing Kim Tae-Young who resigned following the shelling of Yeonpyeong. ](/news/2010/11/26/kim-kwan-jin-becomes-the-new-minister-for-defense-in-south-korea-replacing-kim-tae-young-who-resigned-following-the-shelling-of-yeonpyeong.md)
-_Context: Kim Kwan-jin, defense ministry, South Korea, Kim Tae-Young, shelling of Yeonpyeong_
+_Context: defense ministry, Kim Tae-Young, Kim Kwan-jin, South Korea, shelling of Yeonpyeong_
 
 ##### Pearse Doherty
 ### [Pearse Doherty of Sinn Fein wins a by-election for the Donegal South-West constituency in the Irish parliament reducing the majority of Fianna Fail and the Green Party to two. ](/news/2010/11/26/pearse-doherty-of-sinn-fa-c-in-wins-a-by-election-for-the-donegal-southawest-constituency-in-the-irish-parliament-reducing-the-majority-of-f.md)
@@ -69,7 +69,7 @@ Sinn Fein candidate Pearse Doherty is elected to the Irish parliament in the wak
 
 ##### Police in the UK
 ### [Police in the UK are seeking the power to take down websites they deem "criminal", with critics worried over the lack of judicial oversight. ](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.md)
-_Context: censoring the Internet, judicial, Police in the UK_
+_Context: judicial, censoring the Internet, Police in the UK_
 
 ## [Previous Day...](/news/2010/11/25/index.md)
 

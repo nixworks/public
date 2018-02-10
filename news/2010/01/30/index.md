@@ -9,7 +9,7 @@ _Context: Bavaria, North Rhine-Westphalia_
 
 ##### Togo national football team
 ### [The Togo national football team is banned for two tournaments and fined $50,000 for withdrawing from the 2010 Africa Cup of Nations after the fatal attack on their team bus in Angola. The Government of Angola and Confederation of African Football are both to be sued by the families of the dead. ](/news/2010/01/30/the-togo-national-football-team-is-banned-for-two-tournaments-and-fined-50-000-for-withdrawing-from-the-2010-africa-cup-of-nations-after-th.md)
-_Context: Angola, Confederation of African Football, Government of Angola, Togo national football team, Togo national football team attack, 2010 Africa Cup of Nations_
+_Context: Government of Angola, 2010 Africa Cup of Nations, Confederation of African Football, Togo national football team, Togo national football team attack, Angola_
 
 ##### United States
 ### [The United States suspends medical evacuations in the aftermath of the 2010 Haiti earthquake due to a dispute as to who should pay for treatment. ](/news/2010/01/30/the-united-states-suspends-medical-evacuations-in-the-aftermath-of-the-2010-haiti-earthquake-due-to-a-dispute-as-to-who-should-pay-for-treat.md)
@@ -41,11 +41,11 @@ Government rejects resignation
 
 ##### China
 ### [China suspends military exchanges and reviews cooperation on issues with the United States after the latter agreed to a proposed weapons sale to Taiwan. ](/news/2010/01/30/china-suspends-military-exchanges-and-reviews-cooperation-on-issues-with-the-united-states-after-the-latter-agreed-to-a-proposed-weapons-sal.md)
-_Context: United States, Taiwan, China_
+_Context: United States, China, Taiwan_
 
 ##### Google
 ### [Google begins to phase out its support for Internet Explorer 6 after it was identified as a weak link in cyber attacks on the search engine. ](/news/2010/01/30/google-begins-to-phase-out-its-support-for-internet-explorer-6-after-it-was-identified-as-a-weak-link-in-cyber-attacks-on-the-search-engine.md)
-_Context: cyber attack, Internet Explorer 6, Google_
+_Context: Google, cyber attack, Internet Explorer 6_
 
 ##### Honda Motor Co.
 ### [Honda recalls 650,000 of the Honda Fit (also known as Honda Jazz) vehicles worldwide over potential electrical faults. ](/news/2010/01/30/honda-recalls-650-000-of-the-honda-fit-also-known-as-honda-jazz-vehicles-worldwide-over-potential-electrical-faults.md)
@@ -53,7 +53,7 @@ _Context: Fit, Honda Motor Co._
 
 ##### MacMillan
 ### [Publishing company MacMillan said that on-line retailer Amazon.com, Inc. has removed all MacMillan print and e-books from its site due to a dispute over the pricing of books sold through Amazon's Kindle reader. ](/news/2010/01/30/publishing-company-macmillan-said-that-on-line-retailer-amazon-com-inc-has-removed-all-macmillan-print-and-e-books-from-its-site-due-to-a.md)
-_Context: e-books, MacMillan, Amazon.com, Inc., Kindle_
+_Context: e-books, Amazon.com, Inc., MacMillan, Kindle_
 
 ## [Previous Day...](/news/2010/01/29/index.md)
 

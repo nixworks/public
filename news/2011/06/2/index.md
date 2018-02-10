@@ -5,19 +5,19 @@ Formats: [HTML](2011/06/2/index.html)  [JSON](2011/06/2/index.json)  [XML](2011/
 
 ##### Abyei
 ### [Almost 100 civilians are killed in the disputed Abyei region between North and South Sudan since northern troops seized the area on 21 May. ](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.md)
-_Context: South Sudan, Abyei, Sudan_
+_Context: Sudan, South Sudan, Abyei_
 
 ##### Syrian civil war
 ### [Syrian civil war: At least 13 people are killed in a continuing crackdown by security forces in Syria; opposition leaders meeting in Turkey call for President Bashar al-Assad to step down. ](/news/2011/06/2/syrian-civil-war-at-least-13-people-are-killed-in-a-continuing-crackdown-by-security-forces-in-syria-opposition-leaders-meeting-in-turkey.md)
-_Context: Syria, Turkey, Bashar al-Assad, Syrian civil war, President_
+_Context: Turkey, President, Syrian civil war, Bashar al-Assad, Syria_
 
 ##### Pakistan Army
 ### [Twenty-five Pakistan Army soldiers die after an attack by Afghan militants on a border post in the Dir District. ](/news/2011/06/2/twenty-five-pakistan-army-soldiers-die-after-an-attack-by-afghan-militants-on-a-border-post-in-the-dir-district.md)
-_Context: Dir District, Afghan, Pakistan Army_
+_Context: Pakistan Army, Dir District, Afghan_
 
 ##### Sniper
 ### [A freelance reporter claims that snipers are shooting at protesters in the Yemeni capital Sana'a. ](/news/2011/06/2/a-freelance-reporter-claims-that-snipers-are-shooting-at-protesters-in-the-yemeni-capital-sana-a.md)
-_Context: sniper, 2011 Yemeni uprising, Sana'a, Yemen_
+_Context: Yemen, sniper, 2011 Yemeni uprising, Sana'a_
 
 ##### FBI
 ### [The FBI investigate claims that hackers in China attacked the Google email accounts of officials in the United States and Asian countries, as well as Chinese pro-democracy activists. ](/news/2011/06/2/the-fbi-investigate-claims-that-hackers-in-china-attacked-the-google-email-accounts-of-officials-in-the-united-states-and-asian-countries-a.md)
@@ -29,7 +29,7 @@ Judges including journalist John Pilger voted unanimously for the WikiLeaks foun
 
 ##### Scripps National Spelling Bee
 ### [The finals of the Scripps National Spelling Bee are held in the US town of Oxon Hill, Maryland with Sukanya Roy of South Abington, Pennsylvania. ](/news/2011/06/2/the-finals-of-the-scripps-national-spelling-bee-are-held-in-the-us-town-of-oxon-hill-maryland-with-sukanya-roy-of-south-abington-pennsylva.md)
-_Context: Pennsylvania, Maryland, Scripps National Spelling Bee, Oxon Hill, South Abington_
+_Context: Pennsylvania, Scripps National Spelling Bee, South Abington, Oxon Hill, Maryland_
 
 ##### PlayStation Network outage
 ### [Following the PlayStation Network outage, the Sony website SonyPictures.com has been hacked, with unencrypted passwords and personal information of Sony customers within the website's database being discovered by the hackers. ](/news/2011/06/2/following-the-playstation-network-outage-the-sony-website-sonypictures-com-has-been-hacked-with-unencrypted-passwords-and-personal-informa.md)
@@ -45,11 +45,11 @@ At a climate meeting in Brazil, the bank agreed to help cities pay for projects 
 
 ##### Chevron Corporation
 ### [Four people die after an explosion and fire at a Chevron oil refinery in Pembroke Dock, Wales. ](/news/2011/06/2/four-people-die-after-an-explosion-and-fire-at-a-chevron-oil-refinery-in-pembroke-dock-wales.md)
-_Context: oil refinery, Chevron Corporation, Pembroke Dock, Wales_
+_Context: Wales, Pembroke Dock, oil refinery, Chevron Corporation_
 
 ##### Russia
 ### [42 people are injured and 13,000 people evacuated from settlements in Russia's Udmurt Republic following an ammo depot fire. ](/news/2011/06/2/42-people-are-injured-and-13-000-people-evacuated-from-settlements-in-russia-s-udmurt-republic-following-an-ammo-depot-fire.md)
-_Context: Udmurt Republic, Russia, ammo depot_
+_Context: ammo depot, Russia, Udmurt Republic_
 
 ##### Libyan Civil War
 ### [Approximately 250 people fleeing from the Libyan Civil War to Europe may have died as their ship sinks off the coast of Tunisia. ](/news/2011/06/2/approximately-250-people-fleeing-from-the-libyan-civil-war-to-europe-may-have-died-as-their-ship-sinks-off-the-coast-of-tunisia.md)
@@ -57,7 +57,7 @@ UN says up to 150 bodies found off the Tunisian coast a day after a boat reporte
 
 ##### South Korea
 ### [South Korea and the United States launch an investigation into allegations by former United States Army soldiers that chemicals including Agent Orange were dumped at Camp Carroll near the city of Daegu. ](/news/2011/06/2/south-korea-and-the-united-states-launch-an-investigation-into-allegations-by-former-united-states-army-soldiers-that-chemicals-including-ag.md)
-_Context: South Korea, Agent Orange, United States soldier, United States, Camp Carroll, Daegu_
+_Context: United States, South Korea, Agent Orange, Camp Carroll, United States soldier, Daegu_
 
 ##### Yuma County
 ### [Five people are killed and one person injured in a multiple shooting at Yuma County, Arizona. ](/news/2011/06/2/five-people-are-killed-and-one-person-injured-in-a-multiple-shooting-at-yuma-county-arizona.md)
@@ -65,7 +65,7 @@ _Context: Arizona, Yuma County_
 
 ##### California
 ### [Philip and Nancy Garrido are given life sentences in the US state of California for the Kidnapping of Jaycee Lee Dugard. ](/news/2011/06/2/philip-and-nancy-garrido-are-given-life-sentences-in-the-us-state-of-california-for-the-kidnapping-of-jaycee-lee-dugard.md)
-_Context: California, Kidnapping of Jaycee Lee Dugard_
+_Context: Kidnapping of Jaycee Lee Dugard, California_
 
 ##### Prime Minister of Japan
 ### [Prime Minister of Japan Naoto Kan survives a no-confidence motion in the Diet ](/news/2011/06/2/prime-minister-of-japan-naoto-kan-survives-a-no-confidence-motion-in-the-diet.md)

@@ -17,11 +17,11 @@ _Context: Kosovo, embassies, Prime Minister, Hajredin Kui_
 
 ##### Australian Prime Minister
 ### [ The Prime Minister of Australia Kevin Rudd announces that current Governor of Queensland Quentin Bryce will become Australia's next Governor-General. Ms Bryce will be the first woman appointed to the role. ](/news/2008/04/13/the-prime-minister-of-australia-kevin-rudd-announces-that-current-governor-of-queensland-quentin-bryce-will-become-australia-s-next-governo.md)
-_Context: Australian Prime Minister, Quentin Bryce, Governor, Australia, Kevin Rudd, Governor-General of Australia_
+_Context: Quentin Bryce, Governor, Australia, Australian Prime Minister, Governor-General of Australia, Kevin Rudd_
 
 ##### China
 ### [ Thousands of pro-China demonstrators gathered in front of the Canadian Parliament Building in Ottawa to show their support for the Chinese government and 2008 Beijing Olympics. ](/news/2008/04/13/thousands-of-pro-china-demonstrators-gathered-in-front-of-the-canadian-parliament-building-in-ottawa-to-show-their-support-for-the-chinese.md)
-_Context: Parliament of Canada, government, Ottawa, 2008 Beijing Olympics, China_
+_Context: Parliament of Canada, Ottawa, 2008 Beijing Olympics, government, China_
 
 ## [Previous Day...](/news/2008/04/12/index.md)
 

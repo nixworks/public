@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/11/index.html)  [JSON](2014/01/11/index.json)  [XML](201
 
 ##### Aitizaz Hassan
 ### [Aitizaz Hassan, a Pakistani boy who died after trying to stop a suicide bomber, is nominated for an award by Nawaz Sharif. ](/news/2014/01/11/aitizaz-hassan-a-pakistani-boy-who-died-after-trying-to-stop-a-suicide-bomber-is-nominated-for-an-award-by-nawaz-sharif.md)
-_Context: Pakistan, Aitizaz Hassan, Nawaz Sharif_
+_Context: Aitizaz Hassan, Nawaz Sharif, Pakistan_
 
 ##### Syrian Civil War
 ### [500 people are killed in inter-factional fighting between an alliance of secular rebels and moderate Islamists against radical Islamists. ](/news/2014/01/11/500-people-are-killed-in-inter-factional-fighting-between-an-alliance-of-secular-rebels-and-moderate-islamists-against-radical-islamists.md)
@@ -41,7 +41,7 @@ Get the latest health&nbsp;news, diet &amp; fitness information, medical researc
 
 ##### Chemical leak
 ### [A chemical leak in West Virginia morphs into a crisis after the contamination of a portion of the state's water supply. ](/news/2014/01/11/a-chemical-leak-in-west-virginia-morphs-into-a-crisis-after-the-contamination-of-a-portion-of-the-state-s-water-supply.md)
-_Context: West Virginia, water supply, chemical leak_
+_Context: water supply, West Virginia, chemical leak_
 
 ##### Cyclone Ian
 ### [Cyclone Ian strikes Tonga with damage to buildings reported. ](/news/2014/01/11/cyclone-ian-strikes-tonga-with-damage-to-buildings-reported.md)
@@ -57,7 +57,7 @@ Ten U.S. Air Force officers are being investigated for alleged illegal drug poss
 
 ##### Torture
 ### [A ten-year-old servant girl is tortured to death in Punjab raising concerns about human rights in Pakistan. ](/news/2014/01/11/a-ten-year-old-servant-girl-is-tortured-to-death-in-punjab-raising-concerns-about-human-rights-in-pakistan.md)
-_Context: Punjab Province, Pakistan, torture, human rights_
+_Context: Punjab Province, torture, Pakistan, human rights_
 
 ##### Bilbao
 ### [About 110,000 people march peacefully through Bilbao, demanding Basque independence and freedom for more than 600 ETA prisoners. ](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.md)
@@ -65,7 +65,7 @@ At least 100,000 people march through the northern Spanish city of Bilbao after 
 
 ##### X-ray astronomers
 ### [X-ray astronomers find evidence of a black hole at the center of a dwarf galaxy gobbling up a star; this is the first such event ever filmed. ](/news/2014/01/11/x-ray-astronomers-find-evidence-of-a-black-hole-at-the-center-of-a-dwarf-galaxy-gobbling-up-a-star-this-is-the-first-such-event-ever-filmed.md)
-_Context: X-ray astronomers, star, black hole, dwarf galaxy_
+_Context: X-ray astronomers, black hole, dwarf galaxy, star_
 
 ##### Prime Minister of Israel
 ### [Former Israeli Prime Minister Ariel Sharon dies at the age of 85 after spending eight years in a coma following a stroke. ](/news/2014/01/11/former-israeli-prime-minister-ariel-sharon-dies-at-the-age-of-85-after-spending-eight-years-in-a-coma-following-a-stroke.md)

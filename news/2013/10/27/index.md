@@ -21,7 +21,7 @@ Commuters are being warned of travel disruption on Monday as a storm bringing se
 
 ##### Brooklyn
 ### [A 37-year-old woman and four children are stabbed to death in Brooklyn, New York City, New York. A man is arrested in connection with the murders. ](/news/2013/10/27/a-37-year-old-woman-and-four-children-are-stabbed-to-death-in-brooklyn-new-york-city-new-york-a-man-is-arrested-in-connection-with-the-mu.md)
-_Context: New York, New York City, Brooklyn_
+_Context: New York City, Brooklyn, New York_
 
 #####  Georgian
 ### [Voters in Georgia go to the polls for a presidential election with Giorgi Margvelashvili winning a landslide victory. ](/news/2013/10/27/voters-in-georgia-go-to-the-polls-for-a-presidential-election-with-giorgi-margvelashvili-winning-a-landslide-victory.md)

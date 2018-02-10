@@ -9,7 +9,7 @@ A fragile 48-hour ceasefire in Yemen ended on Monday after failing to stem viole
 
 ##### War in Afghanistan
 ### [At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. ](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-injured-in-a-suicide-bombing-at-a-kabul-shia-mosque-isil-claims-responsibility.md)
-_Context: November 2016 Kabul suicide bombing, ISIL, mosque, suicide bombing, Shia, Kabul, War in Afghanistan_
+_Context: ISIL, Shia, suicide bombing, mosque, November 2016 Kabul suicide bombing, Kabul, War in Afghanistan_
 
 ##### Boko Haram insurgency
 ### [A militant attack on a base in Lake Chad leaves six Cameroonian soldiers dead. ](/news/2016/11/21/a-militant-attack-on-a-base-in-lake-chad-leaves-six-cameroonian-soldiers-dead.md)
@@ -21,7 +21,7 @@ At least three children were killed and 20 people wounded by a blast in the Liby
 
 ##### South Sudan Conflict
 ### [A detachment of Japanese troops land in South Sudan to aid in U.N. peacekeeping operations, Japan's first such action since World War II. ](/news/2016/11/21/a-detachment-of-japanese-troops-land-in-south-sudan-to-aid-in-u-n-peacekeeping-operations-japan-s-first-such-action-since-world-war-ii.md)
-_Context: United Nations, World War II, South Sudan Conflict_
+_Context: World War II, United Nations, South Sudan Conflict_
 
 ##### William Trevor
 ### [Novelist, playwright and short story writer William Trevor dies in Devon, England. ](/news/2016/11/21/novelist-playwright-and-short-story-writer-william-trevor-dies-in-devon-england.md)
@@ -33,7 +33,7 @@ _Context: New Hampshire, 2016-17 North American winter_
 
 ##### President of Bolivia
 ### [The President of Bolivia Evo Morales declares a national emergency due to water shortages caused by a drought. ](/news/2016/11/21/the-president-of-bolivia-evo-morales-declares-a-national-emergency-due-to-water-shortages-caused-by-a-drought.md)
-_Context: President of Bolivia, Evo Morales_
+_Context: Evo Morales, President of Bolivia_
 
 ##### 2016 Chattanooga school bus crash
 ### [At least six people are killed as an elementary school bus carrying dozens of students crashes in Chattanooga, Tennessee. ](/news/2016/11/21/at-least-six-people-are-killed-as-an-elementary-school-bus-carrying-dozens-of-students-crashes-in-chattanooga-tennessee.md)
@@ -41,11 +41,11 @@ Tree slices through school bus carrying 35 passengers, grades K-5, after acciden
 
 ##### Russia-United States relations
 ### [President Barack Obama and Vladimir Putin meet in Peru on the sidelines of the Asia-Pacific Economic Cooperation conference to discuss involvement in the Syrian Civil War. ](/news/2016/11/21/president-barack-obama-and-vladimir-putin-meet-in-peru-on-the-sidelines-of-the-asia-pacific-economic-cooperation-conference-to-discuss-invol.md)
-_Context: Asia-Pacific Economic Cooperation, Vladimir Putin, Peru, Barack Obama, APEC Peru 2016, Syrian Civil War, Russia-United States relations_
+_Context: Syrian Civil War, APEC Peru 2016, Barack Obama, Asia-Pacific Economic Cooperation, Vladimir Putin, Peru, Russia-United States relations_
 
 ##### NATO-Russia relations
 ### [Russia deploys its S-400 missile system in Kaliningrad, an exclave between Poland and Lithuania, in response to "NATO expansion" near its borders. The United States criticizes the move as "destabilizing" to Europe. Russia announced the planned deployment over a decade ago. ](/news/2016/11/21/russia-deploys-its-s-400-missile-system-in-kaliningrad-an-exclave-between-poland-and-lithuania-in-response-to-nato-expansion-near-its-bo.md)
-_Context: Polish, United States, Lithuania, Russia, S-400 missile, Kaliningrad, NATO-Russia relations, NATO_
+_Context: NATO, Russia, Lithuania, S-400 missile, United States, Kaliningrad, Polish, NATO-Russia relations_
 
 ##### Philippine criminal law
 ### [Concern is raised by the United Nations and human rights groups after Rodrigo Duterte proposes a law that allows jailing children as young as nine for certain crimes. ](/news/2016/11/21/concern-is-raised-by-the-united-nations-and-human-rights-groups-after-rodrigo-duterte-proposes-a-law-that-allows-jailing-children-as-young-a.md)
@@ -53,7 +53,7 @@ _Context: Philippine criminal law, Rodrigo Duterte_
 
 ##### Corruption investigation of Luiz Inacio Lula da Silva
 ### [Testimony begins in a corruption case against former President of Brazil Luiz Inacio Lula da Silva. ](/news/2016/11/21/testimony-begins-in-a-corruption-case-against-former-president-of-brazil-luiz-ina-cio-lula-da-silva.md)
-_Context: Luiz Inacio Lula da Silva, Corruption investigation of Luiz Inacio Lula da Silva, president_
+_Context: president, Luiz Inacio Lula da Silva, Corruption investigation of Luiz Inacio Lula da Silva_
 
 ##### Presidency of Donald Trump
 ### [President-elect Donald Trump announces his plans for his first day in office, including quitting the Trans-Pacific Partnership (TPP) and canceling restrictions on United States energy production. ](/news/2016/11/21/president-elect-donald-trump-announces-his-plans-for-his-first-day-in-office-including-quitting-the-trans-pacific-partnership-tpp-and-can.md)

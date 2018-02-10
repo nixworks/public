@@ -5,11 +5,11 @@ Formats: [HTML](2008/05/13/index.html)  [JSON](2008/05/13/index.json)  [XML](200
 
 ##### U.S.
 ### [ U.S. federal prosecutors have filed a new indictment against baseball slugger Barry Bonds, charging him with 14 counts of lying to a grand jury and one count of obstruction of justice when he denied knowingly using performance-enhancing drugs. ](/news/2008/05/13/u-s-federal-prosecutors-have-filed-a-new-indictment-against-baseball-slugger-barry-bonds-charging-him-with-14-counts-of-lying-to-a-grand.md)
-_Context: obstruction of justice, perjury, baseball, U.S., Barry Bonds_
+_Context: Barry Bonds, baseball, U.S., perjury, obstruction of justice_
 
 ##### Wayne Swan
 ### [ Wayne Swan, the Treasurer of Australia, delivers his first budget establishing $40 billion funds for infrastructure, health and education. ](/news/2008/05/13/wayne-swan-the-treasurer-of-australia-delivers-his-first-budget-establishing-40-billion-funds-for-infrastructure-health-and-education.md)
-_Context: A$, Treasurer of Australia, infrastructure, Wayne Swan_
+_Context: A$, Wayne Swan, infrastructure, Treasurer of Australia_
 
 ##### Hewlett-Packard
 ### [ Hewlett-Packard agrees to buy Electronic Data Systems for $13.9 billion dollars. ](/news/2008/05/13/hewlett-packard-agrees-to-buy-electronic-data-systems-for-13-9-billion-dollars.md)
@@ -29,15 +29,15 @@ _Context: government, Pakistan, Nawaz Sharif, Pakistan Muslim League_
 
 ##### Bomb blasts
 ### [ A series of bomb blasts hits the Indian city of Jaipur, killing at least 60 people and injuring 150. ](/news/2008/05/13/a-series-of-bomb-blasts-hits-the-indian-city-of-jaipur-killing-at-least-60-people-and-injuring-150.md)
-_Context: bomb blasts, India, Jaipur_
+_Context: Jaipur, India, bomb blasts_
 
 ##### Iraq
 ### [ Eleven people are killed and 20 wounded in clashes between Iraqi militias and the United States Army in the Sadr City district of Baghdad. ](/news/2008/05/13/eleven-people-are-killed-and-20-wounded-in-clashes-between-iraqi-militias-and-the-united-states-army-in-the-sadr-city-district-of-baghdad.md)
-_Context: Baghdad, Sadr City, Iraq, militia, United States soldier_
+_Context: Sadr City, United States soldier, militia, Iraq, Baghdad_
 
 ##### U.S. military
 ### [ The United States Department of Defense drops charges against Mohammed al Qahtani, who was suspected of being the "20th hijacker" in the September 11, 2001 attacks. ](/news/2008/05/13/the-united-states-department-of-defense-drops-charges-against-mohammed-al-qahtani-who-was-suspected-of-being-the-20th-hijacker-in-the-se.md)
-_Context: Mohammed al Qahtani, September 11, 2001 attacks, U.S. military_
+_Context: U.S. military, September 11, 2001 attacks, Mohammed al Qahtani_
 
 ## [Previous Day...](/news/2008/05/12/index.md)
 

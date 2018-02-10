@@ -9,11 +9,11 @@ _Context: Pakistan_
 
 ##### Egypt
 ### [Egyptian authorities blame the Gaza-based Army of Islam group for an attack on a Coptic Christian church in Alexandria on 1 January. ](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.md)
-_Context: New Year's Day church bombing, Alexandria, Army of Islam, Christian, Egypt, Copt, Gaza Strip_
+_Context: Gaza Strip, New Year's Day church bombing, Copt, Alexandria, Egypt, Army of Islam, Christian_
 
 ##### Australia
 ### [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md)
-_Context: Afghanistan, Ben Roberts-Smith, Australia, offensive in the Shah Wali Kot region, Victoria Cross_
+_Context: Afghanistan, Victoria Cross, Ben Roberts-Smith, offensive in the Shah Wali Kot region, Australia_
 
 ##### Somali pirate
 ### [Somali pirates threaten to kill all hostage South Korean seamen in revenge for the killing of pirates by South Koreans. ](/news/2011/01/23/somali-pirates-threaten-to-kill-all-hostage-south-korean-seamen-in-revenge-for-the-killing-of-pirates-by-south-koreans.md)
@@ -45,7 +45,7 @@ Negotiations to resolve the stand-off over Iran&#039;s nuclear programme have en
 
 ##### BBC
 ### [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md)
-_Context: Tsutomu Yamaguchi, Japan, United States, Nagasaki, BBC, Hiroshima_
+_Context: Japan, Hiroshima, BBC, Tsutomu Yamaguchi, United States, Nagasaki_
 
 ##### Iceland
 ### [A "spy" computer is found in an office next to Icelandic MP Birgitta Jonsdottir who has been the target in the United States Department of Justice-Twitter case concerning the WikiLeaks website. ](/news/2011/01/23/a-spy-computer-is-found-in-an-office-next-to-icelandic-mp-birgitta-jonsdottir-who-has-been-the-target-in-the-united-states-department-of-j.md)
@@ -77,7 +77,7 @@ Thousands march in Brussels to demand political rivals form a government after s
 
 ##### Red shirt
 ### [Around 27,000 anti-government red shirt protestors march in Bangkok, Thailand, calling for the release of imprisoned leaders. ](/news/2011/01/23/around-27-000-anti-government-red-shirt-protestors-march-in-bangkok-thailand-calling-for-the-release-of-imprisoned-leaders.md)
-_Context: Thailand, Bangkok, red shirt_
+_Context: Bangkok, red shirt, Thailand_
 
 ##### Yemen
 ### [A female Islamic activist is arrested in Yemen after organising a 2,500-strong demonstration at the Sana'a University. ](/news/2011/01/23/a-female-islamic-activist-is-arrested-in-yemen-after-organising-a-2-500-strong-demonstration-at-the-sana-a-university.md)
@@ -101,11 +101,11 @@ Tasmanian Premier David Bartlett has confirmed he will stand down as the state&#
 
 ##### President
 ### [President of Iran Mahmoud Ahmadinejad designed Ali Akbar Salehi, the current acting Foreign Minister to the Parliament to succeed Manouchehr Mottaki who was dismissed on December. ](/news/2011/01/23/president-of-iran-mahmoud-ahmadinejad-designed-ali-akbar-salehi-the-current-acting-foreign-minister-to-the-parliament-to-succeed-manouchehr.md)
-_Context: Manouchehr Mottaki, MPs, President, Ali Akbar Salehi, foreign minister, Mahmoud Ahmadinejad_
+_Context: MPs, Manouchehr Mottaki, Mahmoud Ahmadinejad, President, Ali Akbar Salehi, foreign minister_
 
 ##### President
 ### [President of Pakistan Asif Ali Zardari launches an emergency polio immunisation programme targeting 32 million children under the age of five. ](/news/2011/01/23/president-of-pakistan-asif-ali-zardari-launches-an-emergency-polio-immunisation-programme-targeting-32-million-children-under-the-age-of-fiv.md)
-_Context: president, polio, Asif Ali Zardari_
+_Context: polio, Asif Ali Zardari, president_
 
 ## [Previous Day...](/news/2011/01/22/index.md)
 

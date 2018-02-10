@@ -45,7 +45,7 @@ _Context: Philippines_
 
 ##### Marine
 ### [Four members of the United States Marine Corps are killed after ordnance accidentally explodes after a training exercise at Marine Corps Base Camp Pendleton in Southern California. ](/news/2013/11/13/four-members-of-the-united-states-marine-corps-are-killed-after-ordnance-accidentally-explodes-after-a-training-exercise-at-marine-corps-bas.md)
-_Context: Marine, Marine Corps Base Camp Pendleton, ordnance, Southern California_
+_Context: ordnance, Marine Corps Base Camp Pendleton, Southern California, Marine_
 
 ##### State Department
 ### [The United States State Department designates Boko Haram as a "terrorist" group. ](/news/2013/11/13/the-united-states-state-department-designates-boko-haram-as-a-terrorist-group.md)
@@ -53,7 +53,7 @@ The United States formally designated Nigerian militant groups Boko Haram and An
 
 ##### China
 ### [China, Russia, Cuba, Saudi Arabia, Vietnam, and Algeria are elected to the United Nations Human Rights Council. ](/news/2013/11/13/china-russia-cuba-saudi-arabia-vietnam-and-algeria-are-elected-to-the-united-nations-human-rights-council.md)
-_Context: Vietnam, China, Russia, United Nations, Algeria, Saudi Arabia, Human Rights Council, Cuba_
+_Context: Human Rights Council, Saudi Arabia, Vietnam, China, Cuba, Algeria, United Nations, Russia_
 
 ##### Kevin Rudd
 ### [Kevin Rudd announces his retirement from Australian politics. ](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.md)
@@ -77,7 +77,7 @@ A sister species of the snow leopard roamed the plateau of Tibet nearly 5 millio
 
 ##### World Wildlife Fund
 ### [WWF releases a photo, taken by a camera trap in a forest in central Vietnam in September, of one of Earth's rarest mammals, the saola, which hadn't been seen in 15 years. ](/news/2013/11/13/wwf-releases-a-photo-taken-by-a-camera-trap-in-a-forest-in-central-vietnam-in-september-of-one-of-earth-s-rarest-mammals-the-saola-which.md)
-_Context: saola, central Vietnam, World Wildlife Fund_
+_Context: World Wildlife Fund, saola, central Vietnam_
 
 ## [Previous Day...](/news/2013/11/12/index.md)
 

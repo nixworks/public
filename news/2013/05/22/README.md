@@ -29,7 +29,7 @@ Independent MP Craig Thomson is facing 19 new charges after appearing in a Melbo
 
 ##### Orlando, Florida
 ### [In Orlando, Florida, Ibragim Todashev, a suspect under FBI questioning with ties to the April 2013 Boston Marathon bombings suspects, after initially being cooperative, goes on to attack an agent (in the course of the questioning) and is shot dead as a result. ](/news/2013/05/22/in-orlando-florida-ibragim-todashev-a-suspect-under-fbi-questioning-with-ties-to-the-april-2013-boston-marathon-bombings-suspects-after.md)
-_Context: Boston Marathon bombings, FBI, Orlando, Florida_
+_Context: Orlando, Florida, FBI, Boston Marathon bombings_
 
 ##### 2013 Woolwich attack
 ### [In London, a uniformed soldier is murdered in the street. Two men carrying knives and a meat cleaver are subsequently shot and apprehended by police. The UK government is treating it as a terrorist incident. ](/news/2013/05/22/in-london-a-uniformed-soldier-is-murdered-in-the-street-two-men-carrying-knives-and-a-meat-cleaver-are-subsequently-shot-and-apprehended-b.md)
@@ -37,7 +37,7 @@ A man is killed in a machete attack and two suspects shot and wounded by police 
 
 ##### Iraq War
 ### [A decorated combat veteran of the Iraq War and United States Military Academy (West Point) U.S. Army staff member, Sgt. 1st Class Michael McClendon, is relieved of his duties for allegedly planting cameras to spy on female cadets. ](/news/2013/05/22/a-decorated-combat-veteran-of-the-iraq-war-and-united-states-military-academy-west-point-u-s-army-staff-member-sgt-1st-class-michael-mc.md)
-_Context: U.S. Army, West Point, Iraq War_
+_Context: U.S. Army, Iraq War, West Point_
 
 ## [Previous Day...](/news/2013/05/21/index.md)
 

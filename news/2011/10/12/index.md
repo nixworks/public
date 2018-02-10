@@ -5,7 +5,7 @@ Formats: [HTML](2011/10/12/index.html)  [JSON](2011/10/12/index.json)  [XML](201
 
 ##### Burma
 ### [Burmese comedian, actor and dissident Zarganar is released as part of an amnesty by the government of Myanmar for over 6,000 dissidents. ](/news/2011/10/12/burmese-comedian-actor-and-dissident-zarganar-is-released-as-part-of-an-amnesty-by-the-government-of-myanmar-for-over-6-000-dissidents.md)
-_Context: amnesty, Zarganar, Burma, Myanmar_
+_Context: Myanmar, amnesty, Burma, Zarganar_
 
 ##### Prime Minister
 ### [The Prime Minister of New Zealand John Key warns that the container ship Rena which ran agound on Astrolabe Reef a week ago could break up as oil slicks have appeared on beaches near Tauranga. ](/news/2011/10/12/the-prime-minister-of-new-zealand-john-key-warns-that-the-container-ship-rena-which-ran-agound-on-astrolabe-reef-a-week-ago-could-break-up-a.md)
@@ -13,7 +13,7 @@ The second officer of the Rena is facing a charge under the Maritime Transport A
 
 ##### 2011 United States listeriosis outbreak
 ### [The death toll from the 2011 United States listeriosis outbreak reaches a total of 23 dead with 116 affected, making it the deadliest outbreak of foodborne illness in the U.S. in 25 years. ](/news/2011/10/12/the-death-toll-from-the-2011-united-states-listeriosis-outbreak-reaches-a-total-of-23-dead-with-116-affected-making-it-the-deadliest-outbre.md)
-_Context: foodborne illness, 2011 United States listeriosis outbreak_
+_Context: 2011 United States listeriosis outbreak, foodborne illness_
 
 ##### A shooting at a hair salon
 ### [At least eight people are killed and one is seriously injured in a shooting at a hair salon in Seal Beach, California, USA. ](/news/2011/10/12/at-least-eight-people-are-killed-and-one-is-seriously-injured-in-a-shooting-at-a-hair-salon-in-seal-beach-california-usa.md)

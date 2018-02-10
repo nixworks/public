@@ -5,7 +5,7 @@ Formats: [HTML](2016/06/23/index.html)  [JSON](2016/06/23/index.json)  [XML](201
 
 ##### Boko Haram insurgency
 ### [According to Medecins Sans Frontieres, more than 1,200 people have died of starvation and illness at a refugee camp for those fleeing Boko Haram in northeastern Nigeria. ](/news/2016/06/23/according-to-ma-c-decins-sans-frontia-res-more-than-1-200-people-have-died-of-starvation-and-illness-at-a-refugee-camp-for-those-fleeing-boko.md)
-_Context: Boko Haram insurgency, Nigeria, Medecins Sans Frontieres, Boko Haram_
+_Context: Nigeria, Medecins Sans Frontieres, Boko Haram insurgency, Boko Haram_
 
 ##### 2016 Jiangsu tornado
 ### [A tornado, accompanied by heavy rainfall and hailstones, kills at least 98 people and injures 800 in the eastern Chinese province of Jiangsu ](/news/2016/06/23/a-tornado-accompanied-by-heavy-rainfall-and-hailstones-kills-at-least-98-people-and-injures-800-in-the-eastern-chinese-province-of-jiangsu.md)
@@ -41,11 +41,11 @@ _Context: Death of Freddie Gray, Baltimore_
 
 ##### Viernheim shooting
 ### [An unidentified man who had been reported to have fired shots inside a theater has been shot dead by police in Viernheim, Germany. No other fatalities were reported. ](/news/2016/06/23/an-unidentified-man-who-had-been-reported-to-have-fired-shots-inside-a-theater-has-been-shot-dead-by-police-in-viernheim-germany-no-other.md)
-_Context: Viernheim, Viernheim shooting, German_
+_Context: German, Viernheim shooting, Viernheim_
 
 ##### European Union membership referendum
 ### [Voters in the United Kingdom go to the polls to vote in a referendum on whether the UK should leave the European Union. ](/news/2016/06/23/voters-in-the-united-kingdom-go-to-the-polls-to-vote-in-a-referendum-on-whether-the-uk-should-leave-the-european-union.md)
-_Context: European Union, United Kingdom, European Union membership referendum_
+_Context: European Union, European Union membership referendum, United Kingdom_
 
 ##### Colombian conflict
 ### [The government of Colombia and FARC rebels sign a ceasefire deal, putting an end to 50 years of conflict in the country between the two sides. ](/news/2016/06/23/the-government-of-colombia-and-farc-rebels-sign-a-ceasefire-deal-putting-an-end-to-50-years-of-conflict-in-the-country-between-the-two-side.md)

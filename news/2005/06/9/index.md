@@ -5,15 +5,15 @@ Formats: [HTML](2005/06/9/index.html)  [JSON](2005/06/9/index.json)  [XML](2005/
 
 ##### Clementina Cantoni
 ### [ Italian Clementina Cantoni a worker with CARE International who was held hostage in Afghanistan is released unharmed. ](/news/2005/06/9/italian-clementina-cantoni-a-worker-with-care-international-who-was-held-hostage-in-afghanistan-is-released-unharmed.md)
-_Context: Afghanistan, CARE International, Clementina Cantoni_
+_Context: Clementina Cantoni, CARE International, Afghanistan_
 
 ##### Syria
 ### [ In Syria, the ruling Baath party votes to end the state of emergency that has lasted for 40 years. ](/news/2005/06/9/in-syria-the-ruling-baath-party-votes-to-end-the-state-of-emergency-that-has-lasted-for-40-years.md)
-_Context: Ba'ath Party, state of emergency, Syria_
+_Context: Ba'ath Party, Syria, state of emergency_
 
 ##### Mullah Krekar
 ### [ In Norway, Mullah Krekar, Kurdish founder of Ansar al-Islam, goes to court to resist deportation to Iraq. ](/news/2005/06/9/in-norway-mullah-krekar-kurdish-founder-of-ansar-al-islam-goes-to-court-to-resist-deportation-to-iraq.md)
-_Context: Ansar al-Islam, Mullah Krekar, Kurd, deportation, Iraq_
+_Context: Kurd, Mullah Krekar, Iraq, deportation, Ansar al-Islam_
 
 ##### Raul Salinas de Gortari
 ### [ In Mexico, a court overturns the murder conviction of Raul Salinas de Gortari, brother of former president Carlos Salinas de Gortari. ](/news/2005/06/9/in-mexico-a-court-overturns-the-murder-conviction-of-raul-salinas-de-gortari-brother-of-former-president-carlos-salinas-de-gortari.md)
@@ -29,11 +29,11 @@ _Context: coup, Qaboos, Oman_
 
 ##### 2005 Atlantic hurricane season
 ### [ 2005 Atlantic hurricane season: Tropical Storm Arlene, the first storm of the season, forms south of Cuba, and is expected to strike Cuba and the U.S. Gulf coast later in the week. ](/news/2005/06/9/2005-atlantic-hurricane-season-tropical-storm-arlene-the-first-storm-of-the-season-forms-south-of-cuba-and-is-expected-to-strike-cuba-a.md)
-_Context: 2005 Atlantic hurricane season, Cuba_
+_Context: Cuba, 2005 Atlantic hurricane season_
 
 ##### Bolivia
 ### [ Protesters in Bolivia take over seven oil fields managed by BP and Repsol YPF. ](/news/2005/06/9/protesters-in-bolivia-take-over-seven-oil-fields-managed-by-bp-and-repsol-ypf.md)
-_Context: Repsol YPF, Bolivia, BP, oil field_
+_Context: BP, Repsol YPF, Bolivia, oil field_
 
 ##### Parliament House
 ### [ In Australia, Parliament House and the embassies of the US, the UK, Japan and South Korea receive suspicious packages containing white powder. Federal Police later state that analysis showed the powder to be "harmless", and was sent as a hoax, following similar events in the past week. ](/news/2005/06/9/in-australia-parliament-house-and-the-embassies-of-the-us-the-uk-japan-and-south-korea-receive-suspicious-packages-containing-white-powd.md)
@@ -45,11 +45,11 @@ _Context: Zimbabwe, general strike_
 
 ##### Togo
 ### [ Togolese president Faure Gnassingb names Edem Kodjo, leader of the opposition Patriotic Pan-African Party, as prime minister. ](/news/2005/06/9/togolese-president-faure-gnassingbe-names-edem-kodjo-leader-of-the-opposition-patriotic-pan-african-party-as-prime-minister.md)
-_Context: Edem Kodjo, Patriotic Pan-African Party, Togo, Faure Gnassingb_
+_Context: Faure Gnassingb, Patriotic Pan-African Party, Edem Kodjo, Togo_
 
 ##### Bank of America
 ### [ A former Bank of America broker, Theodore Sihpol is acquitted by a jury in a New York Court of charges that he assisted a New Jersey hedge fund in trading illegally in mutual funds, at the expense of investors in the latter. ](/news/2005/06/9/a-former-bank-of-america-broker-theodore-sihpol-is-acquitted-by-a-jury-in-a-new-york-court-of-charges-that-he-assisted-a-new-jersey-hedge.md)
-_Context: Bank of America, New Jersey, New York City, hedge fund, Theodore Sihpol_
+_Context: New York City, Bank of America, Theodore Sihpol, hedge fund, New Jersey_
 
 ## [Previous Day...](/news/2005/06/8/index.md)
 

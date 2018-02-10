@@ -41,7 +41,7 @@ Tuberculosis has surpassed HIV as the leading global cause of death, despite the
 
 ##### International Agency for Research on Cancer
 ### [The International Agency for Research on Cancer (IARC), the cancer agency of the World Health Organization (WHO), has evaluated the carcinogenicity of the consumption of red meat and processed meat. After thoroughly reviewing the accumulated scientific literature, a Working Group of 22 experts from 10 countries convened by the IARC Monographs Programme classified the consumption of red meat as probably carcinogenic to humans (Group 2A), based on limited evidence that the consumption of red meat causes cancer in humans and strong mechanistic evidence supporting a carcinogenic effect. This association was observed mainly for colorectal cancer, but associations were also seen for pancreatic cancer and prostate cancer. Processed meat was classified as carcinogenic to humans (Group 1), based on sufficient evidence in humans that the consumption of processed meat causes colorectal cancer. ](/news/2015/10/28/the-international-agency-for-research-on-cancer-iarc-the-cancer-agency-of-the-world-health-organization-who-has-evaluated-the-carcinog.md)
-_Context: carcinogenicity, processed meat, World Health Organization, IARC Monographs Programme, cancer, pancreatic cancer, red meat, prostate cancer, colorectal cancer, International Agency for Research on Cancer_
+_Context: red meat, colorectal cancer, pancreatic cancer, International Agency for Research on Cancer, IARC Monographs Programme, prostate cancer, cancer, carcinogenicity, World Health Organization, processed meat_
 
 ##### Censorship in Turkey
 ### [Turkish police storm and shut down both Kanalturk TV and Bugun, TV stations that have been critical of the ruling Justice and Development Party (AKP) ahead of a general election on November 1. Baris Yarkadas, a lawmaker with the main-opposition Republican People's Party (CHP), said "We are witnessing the police entering news organizations, delivering declarations and taking over journalists' seats--just like junta periods, this is called a police state". ](/news/2015/10/28/turkish-police-storm-and-shut-down-both-kanalta1-4rk-tv-and-buga1-4n-tv-stations-that-have-been-critical-of-the-ruling-justice-and-development.md)
@@ -57,7 +57,7 @@ Former U.S. House Speaker Dennis Hastert pleaded guilty on Wednesday to a federa
 
 ##### Ivorian presidential election, 2015
 ### [Official results from the presidential election held on Sunday show that President of the Ivory Coast Alassane Ouattara has been reelected. ](/news/2015/10/28/official-results-from-the-presidential-election-held-on-sunday-show-that-president-of-the-ivory-coast-alassane-ouattara-has-been-reelected.md)
-_Context: Alassane Ouattara, Ivorian presidential election, 2015, President of the Ivory Coast_
+_Context: Ivorian presidential election, 2015, Alassane Ouattara, President of the Ivory Coast_
 
 ##### Netherlands
 ### [In the Netherlands, the Undersecretary for Infrastructure and Environment Wilma Mansveld resigns following the publication of a damning report about the problems with the international high-speed rail service Fyra. ](/news/2015/10/28/in-the-netherlands-the-undersecretary-for-infrastructure-and-environment-wilma-mansveld-resigns-following-the-publication-of-a-damning-repo.md)

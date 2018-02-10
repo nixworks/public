@@ -25,7 +25,7 @@ A Francis Bacon painting of a man and his reflection brought in $44.9m at Sotheb
 
 ##### Salman Rushdie
 ### [Salman Rushdie, Art Spiegelman and Mario Vargas Llosa are among those to protest against the planned spending of US$300 million on the Fifth Avenue branch of the New York Public Library, saying it is "a misplaced use of funds in a time of great scarcity". A letter signed by more than 700 writers, academics and others is sent to the library. ](/news/2012/05/10/salman-rushdie-art-spiegelman-and-mario-vargas-llosa-are-among-those-to-protest-against-the-planned-spending-of-us-300-million-on-the-fifth.md)
-_Context: Salman Rushdie, Fifth Avenue, Art Spiegelman, Mario Vargas Llosa, New York Public Library_
+_Context: Fifth Avenue, Salman Rushdie, Mario Vargas Llosa, New York Public Library, Art Spiegelman_
 
 ##### United Kingdom
 ### [As many as 400,000 public sector workers in the United Kingdom resolve to stage a 24-hour mass strike in protest against planned pension cuts. ](/news/2012/05/10/as-many-as-400-000-public-sector-workers-in-the-united-kingdom-resolve-to-stage-a-24-hour-mass-strike-in-protest-against-planned-pension-cut.md)
@@ -53,11 +53,11 @@ Most travel agencies in China are suspending tours to the Philippines amid tensi
 
 ##### Australian Federal Police
 ### [A dozen members of the Australian Federal Police are expelled from Vanuatu, following a diplomatic row over the arrest of the Prime Minister of Vanuatu's private secretary in Australia last month. ](/news/2012/05/10/a-dozen-members-of-the-australian-federal-police-are-expelled-from-vanuatu-following-a-diplomatic-row-over-the-arrest-of-the-prime-minister.md)
-_Context: Australia, Australian Federal Police, Prime Minister of Vanuatu, Vanuatu_
+_Context: Australian Federal Police, Australia, Prime Minister of Vanuatu, Vanuatu_
 
 ##### London
 ### [London's Metropolitan Police launches its 14th investigation into alleged police racism in six weeks. ](/news/2012/05/10/london-s-metropolitan-police-launches-its-14th-investigation-into-alleged-police-racism-in-six-weeks.md)
-_Context: London, Metropolitan Police_
+_Context: Metropolitan Police, London_
 
 ##### David Cameron
 ### [British prime minister David Cameron allowed his former spokesman Andy Coulson, the ex-editor of the now-defunct "News of the World" tabloid, access to some of the British government's most sensitive secrets without full security clearance, the Leveson Inquiry is told. ](/news/2012/05/10/british-prime-minister-david-cameron-allowed-his-former-spokesman-andy-coulson-the-ex-editor-of-the-now-defunct-news-of-the-world-tabloid.md)

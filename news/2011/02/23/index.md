@@ -5,7 +5,7 @@ Formats: [HTML](2011/02/23/index.html)  [JSON](2011/02/23/index.json)  [XML](201
 
 ##### Civil war
 ### [Italy's foreign minister says as many as 1,000 people have been killed in Libya during the unrest. ](/news/2011/02/23/italy-s-foreign-minister-says-as-many-as-1-000-people-have-been-killed-in-libya-during-the-unrest.md)
-_Context: Italy, Libya, civil war_
+_Context: Libya, civil war, Italy_
 
 ##### General People's Congress
 ### [Eight members of the ruling General People's Congress party resign after the deaths of protestors. ](/news/2011/02/23/eight-members-of-the-ruling-general-people-s-congress-party-resign-after-the-deaths-of-protestors.md)
@@ -17,11 +17,11 @@ _Context: Enid Blyton_
 
 ##### Samsung
 ### [Samsung releases, in South Korea, a camera that can post photos and videos directly to Facebook and YouTube. ](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.md)
-_Context: South Korea, Samsung, Facebook, YouTube_
+_Context: YouTube, Samsung, South Korea, Facebook_
 
 ##### Australia
 ### [Australian businessman Lachlan Murdoch is appointed as acting CEO of Network Ten following the sacking of Grant Blackley. ](/news/2011/02/23/australian-businessman-lachlan-murdoch-is-appointed-as-acting-ceo-of-network-ten-following-the-sacking-of-grant-blackley.md)
-_Context: Lachlan, Network Ten, Australia_
+_Context: Australia, Network Ten, Lachlan_
 
 ##### Oil prices
 ### [Oil prices reach a two-year high due to uncertainty in the Middle East most notably in Libya. ](/news/2011/02/23/oil-prices-reach-a-two-year-high-due-to-uncertainty-in-the-middle-east-most-notably-in-libya.md)
@@ -45,15 +45,15 @@ Romanian weather officials announced on Wednesday that snow and wind will intens
 
 ##### President
 ### [President of the Philippines Benigno Aquino says the country has not resolved a row with Taiwan over deportations. ](/news/2011/02/23/president-of-the-philippines-benigno-aquino-says-the-country-has-not-resolved-a-row-with-taiwan-over-deportations.md)
-_Context: Taiwan, President, his predecessor_
+_Context: President, his predecessor, Taiwan_
 
 ##### Senegal
 ### [Senegal severs diplomatic relations with Iran, accusing it of supplying weapons to anti-government rebels that killed Senegalese soldiers. ](/news/2011/02/23/senegal-severs-diplomatic-relations-with-iran-accusing-it-of-supplying-weapons-to-anti-government-rebels-that-killed-senegalese-soldiers.md)
-_Context: Senegal, diplomatic relations, Iran_
+_Context: Iran, diplomatic relations, Senegal_
 
 ##### China
 ### [The People's Republic of China refuses to let the United Nations Security Council publish a report on North Korea's efforts to avoid sanctions on its nuclear program. ](/news/2011/02/23/the-people-s-republic-of-china-refuses-to-let-the-united-nations-security-council-publish-a-report-on-north-korea-s-efforts-to-avoid-sanctio.md)
-_Context: North Korea's nuclear program, sanctions, China, North Korea, United Nations Security Council_
+_Context: sanctions, United Nations Security Council, North Korea, North Korea's nuclear program, China_
 
 ##### Xinjiang
 ### [Four men from Xinjiang in western China are to be executed following convictions for terrorism in the region last year. ](/news/2011/02/23/four-men-from-xinjiang-in-western-china-are-to-be-executed-following-convictions-for-terrorism-in-the-region-last-year.md)
@@ -61,7 +61,7 @@ _Context: China, Xinjiang_
 
 ##### Thailand
 ### [Thai police seize six tiger cubs at the house of a suspected weapons dealer. ](/news/2011/02/23/thai-police-seize-six-tiger-cubs-at-the-house-of-a-suspected-weapons-dealer.md)
-_Context: Thailand, tiger_
+_Context: tiger, Thailand_
 
 ##### United Kingdom
 ### [Three people are arrested in the United Kingdom in connection with an alleged attempt to blackmail Coleen Rooney, the wife of Manchester United F.C. star Wayne Rooney. ](/news/2011/02/23/three-people-are-arrested-in-the-united-kingdom-in-connection-with-an-alleged-attempt-to-blackmail-coleen-rooney-the-wife-of-manchester-uni.md)
@@ -81,7 +81,7 @@ King Abdullah announces $10.7 billion in pay raises, job creation and loan forgi
 
 ##### Federal Minister for Defence
 ### [German defence minister Karl-Theodor zu Guttenberg has his doctorate revoked by the University of Bayreuth for submitting a thesis riddled with plagiarisms. ](/news/2011/02/23/german-defence-minister-karl-theodor-zu-guttenberg-has-his-doctorate-revoked-by-the-university-of-bayreuth-for-submitting-a-thesis-riddled-w.md)
-_Context: Federal Minister for Defence, plagiarising, doctorate, thesis, Karl-Theodor zu Guttenberg, University of Bayreuth_
+_Context: Federal Minister for Defence, plagiarising, thesis, doctorate, University of Bayreuth, Karl-Theodor zu Guttenberg_
 
 ## [Previous Day...](/news/2011/02/22/index.md)
 

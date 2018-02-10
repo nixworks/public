@@ -5,15 +5,15 @@ Formats: [HTML](2009/11/7/index.html)  [JSON](2009/11/7/index.json)  [XML](2009/
 
 ##### United Kingdom
 ### [ A British tourist is shot dead by a masked gunman in the U.S. state of Texas. ](/news/2009/11/7/a-british-tourist-is-shot-dead-by-a-masked-gunman-in-the-u-s-state-of-texas.md)
-_Context: Texas, United Kingdom_
+_Context: United Kingdom, Texas_
 
 ##### Saudi Arabia
 ### [ Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. ](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.md)
-_Context: Saudi Arabia, Houthi, Yemen, due to fighting_
+_Context: Houthi, Saudi Arabia, due to fighting, Yemen_
 
 ##### Bermeo
 ### [ Thousands of people in Bermeo, Spain, demonstrate for the release of 36 Spanish fishermen being held by Somali pirates. ](/news/2009/11/7/thousands-of-people-in-bermeo-spain-demonstrate-for-the-release-of-36-spanish-fishermen-being-held-by-somali-pirates.md)
-_Context: Somali pirates, Spain, Bermeo_
+_Context: Spain, Bermeo, Somali pirates_
 
 ##### Andorra
 ### [ At least two workers are killed after a bridge under construction collapses in Andorra. ](/news/2009/11/7/at-least-two-workers-are-killed-after-a-bridge-under-construction-collapses-in-andorra.md)
@@ -21,11 +21,11 @@ _Context: Andorra_
 
 ##### NATO
 ### [ A NATO airstrike kills 7 members of the Afghan security force in the western province of Badghis. ](/news/2009/11/7/a-nato-airstrike-kills-7-members-of-the-afghan-security-force-in-the-western-province-of-badghis.md)
-_Context: Afghanistan, NATO, Badghis Province_
+_Context: Afghanistan, Badghis Province, NATO_
 
 ##### Madagascar
 ### [ Rival factions in Madagascar agree to form a unity government to end the political crisis in the country. ](/news/2009/11/7/rival-factions-in-madagascar-agree-to-form-a-unity-government-to-end-the-political-crisis-in-the-country.md)
-_Context: Madagascar, political crisis, unity_
+_Context: political crisis, Madagascar, unity_
 
 ##### South Island
 ### [ Scientists in the South Island, New Zealand, discover the first dinosaur footprints in the country, thought to be 70 million years old. ](/news/2009/11/7/scientists-in-the-south-island-new-zealand-discover-the-first-dinosaur-footprints-in-the-country-thought-to-be-70-million-years-old.md)
@@ -37,7 +37,7 @@ _Context: Russia, Tatar Strait_
 
 ##### Northern Mariana Islands
 ### [ Voters in the Northern Mariana Islands go to the polls to elect the governor, legislature and local municipal offices. ](/news/2009/11/7/voters-in-the-northern-mariana-islands-go-to-the-polls-to-elect-the-governor-legislature-and-local-municipal-offices.md)
-_Context: 2009 gubernatorial election and runoff, legislature, go to the polls, municipal, Northern Mariana Islands_
+_Context: municipal, go to the polls, Northern Mariana Islands, 2009 gubernatorial election and runoff, legislature_
 
 ##### Venezuela
 ### [ Venezuela deploys 15,000 soldiers to its border with Colombia. ](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.md)
@@ -57,7 +57,7 @@ Italian police say they have arrested one of the country&#039;s leading organise
 
 ##### Ecuador
 ### [ Ecuador rations its electricity, leading to some blackouts in areas, including the capital Quito. ](/news/2009/11/7/ecuador-rations-its-electricity-leading-to-some-blackouts-in-areas-including-the-capital-quito.md)
-_Context: Quito, Ecuador_
+_Context: Ecuador, Quito_
 
 ##### Cuba
 ### [ Cuba removes peas and potatoes from its list of rationed foods but increases their prices. ](/news/2009/11/7/cuba-removes-peas-and-potatoes-from-its-list-of-rationed-foods-but-increases-their-prices.md)
@@ -69,7 +69,7 @@ _Context: Caracas_
 
 ##### Ashmolean Museum
 ### [ Ashmolean Museum in Oxfordshire, the UK's oldest museum, reopens after renovations. ](/news/2009/11/7/ashmolean-museum-in-oxfordshire-the-uk-s-oldest-museum-reopens-after-renovations.md)
-_Context: Ashmolean Museum, Oxfordshire_
+_Context: Oxfordshire, Ashmolean Museum_
 
 ## [Previous Day...](/news/2009/11/6/index.md)
 

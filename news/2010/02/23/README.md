@@ -5,7 +5,7 @@ Formats: [HTML](2010/02/23/index.html)  [JSON](2010/02/23/index.json)  [XML](201
 
 ##### Sudan
 ### [Sudanese President Omar al-Bashir and the main Darfur rebel group, the Justice and Equality Movement, sign a ceasefire deal. ](/news/2010/02/23/sudanese-president-omar-al-bashir-and-the-main-darfur-rebel-group-the-justice-and-equality-movement-sign-a-ceasefire-deal.md)
-_Context: Omar al-Bashir, Justice and Equality Movement, Darfur, Sudan_
+_Context: Omar al-Bashir, Sudan, Justice and Equality Movement, Darfur_
 
 ##### Green Party
 ### [Former Irish Green Party leader Trevor Sargent resigns as Minister of State for Food and Horticulture after admitting "an error of judgment" involving his contacts with the Garda Siochana. ](/news/2010/02/23/former-irish-green-party-leader-trevor-sargent-resigns-as-minister-of-state-for-food-and-horticulture-after-admitting-an-error-of-judgment.md)
@@ -17,7 +17,7 @@ The United Arab Emirates has identified a further two Irish passport numbers all
 
 ##### United Nations
 ### [A United Nations report says mobile phones are used by around 4.6 billion in total or two-thirds of the world population, including more than half of people in the developing world. ](/news/2010/02/23/a-united-nations-report-says-mobile-phones-are-used-by-around-4-6-billion-in-total-or-two-thirds-of-the-world-population-including-more-tha.md)
-_Context: developing countries, United Nations, mobile phone_
+_Context: United Nations, developing countries, mobile phone_
 
 ##### China
 ### [China increases controls on the internet, requiring anyone who wishes to set up a website to produce identification and meet regulators. ](/news/2010/02/23/china-increases-controls-on-the-internet-requiring-anyone-who-wishes-to-set-up-a-website-to-produce-identification-and-meet-regulators.md)
@@ -25,11 +25,11 @@ _Context: blocks mentions, China_
 
 ##### Mauritanian
 ### [Mauritania recalls its ambassador from Mali after the latter released four members of Al-Qaeda in the Islamic Maghreb. ](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.md)
-_Context: Mali, Al Qaeda in the Islamic Maghreb, its ambassador, Mauritanian_
+_Context: Mauritanian, Al Qaeda in the Islamic Maghreb, Mali, its ambassador_
 
 ##### Iran
 ### [Iranian authorities arrest the leader of the Jundallah, Abdolmalek Rigi, a Sunni militant organisation based in southeastern Iran. ](/news/2010/02/23/iranian-authorities-arrest-the-leader-of-the-jundallah-abdolmalek-rigi-a-sunni-militant-organisation-based-in-southeastern-iran.md)
-_Context: Sunni, Jundallah, Iran, Abdolmalek Rigi_
+_Context: Abdolmalek Rigi, Jundallah, Sunni, Iran_
 
 ##### Landslide
 ### [At least five people are killed and dozens buried in a landslide near Bandung in West Java, Indonesia. ](/news/2010/02/23/at-least-five-people-are-killed-and-dozens-buried-in-a-landslide-near-bandung-in-west-java-indonesia.md)
@@ -41,7 +41,7 @@ _Context: Northern Ireland, Newry_
 
 ##### Denmark
 ### [Danish Prime Minister Lars Lokke Rasmussen carries out a major cabinet reshuffling, bringing in female ministers in charge of Defence and Foreign Affairs, the first in Denmark's history. ](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.md)
-_Context: Defence, Denmark, Prime Minister of Denmark, Foreign Affairs, Lars Lokke Rasmussen_
+_Context: Lars Lokke Rasmussen, Defence, Foreign Affairs, Prime Minister of Denmark, Denmark_
 
 ## [Previous Day...](/news/2010/02/22/index.md)
 

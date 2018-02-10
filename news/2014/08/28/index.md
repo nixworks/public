@@ -25,11 +25,11 @@ A top US public health official says the Ebola outbreak is set to get worse befo
 
 ##### Australia
 ### [Australia, Malaysia and the People's Republic of China reach an agreement about the costs and direction of the ongoing search for the wreckage of Malaysia Airlines Flight 370 which is believed to have crashed in the Indian Ocean southwest of Western Australia. ](/news/2014/08/28/australia-malaysia-and-the-people-s-republic-of-china-reach-an-agreement-about-the-costs-and-direction-of-the-ongoing-search-for-the-wrecka.md)
-_Context: Australia, Malaysia, China, Indian, Western Australia_
+_Context: Indian, Australia, Western Australia, China, Malaysia_
 
 ##### Australia
 ### [Australia and Indonesia sign a code of conduct to govern diplomatic ties following revelations in late 2013 that Australia's Defence Signals Directorate had tapped the phones of the President of Indonesia Susilo Bambang Yudhoyono. ](/news/2014/08/28/australia-and-indonesia-sign-a-code-of-conduct-to-govern-diplomatic-ties-following-revelations-in-late-2013-that-australia-s-defence-signals.md)
-_Context: code of conduct, Defence Signals Directorate, President of Indonesia, Indonesia, Australia, Susilo Bambang Yudhoyono_
+_Context: Defence Signals Directorate, code of conduct, Australia, President of Indonesia, Indonesia, Susilo Bambang Yudhoyono_
 
 ##### Cops
 ### [Sound supervisor Bryce Dion is accidentally shot and killed by police after being caught in the crossfire while working to film an episode for the reality series "Cops". ](/news/2014/08/28/sound-supervisor-bryce-dion-is-accidentally-shot-and-killed-by-police-after-being-caught-in-the-crossfire-while-working-to-film-an-episode-f.md)

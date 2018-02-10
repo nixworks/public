@@ -13,19 +13,19 @@ Left-wing activists claimed responsibility for a minor explosion on Thursday at 
 
 ##### Iranian state media
 ### [Iran's state-run news channel Press TV's account is frozen by National Westminster Bank in the UK; no reason was given. (](/news/2011/01/27/iran-s-state-run-news-channel-press-tv-s-account-is-frozen-by-national-westminster-bank-in-the-uk-no-reason-was-given.md)
-_Context: Iranian state media, Press TV, National Westminster Bank_
+_Context: Press TV, Iranian state media, National Westminster Bank_
 
 ##### Overstock.com
 ### [Internet retailer Overstock.com has amended its complaint in a long-standing lawsuit against Goldman Sachs and Merrill Lynch to demand treble damages under New Jersey's racketeering statute. Merrill Lynch is a subsidiary of Bank of America. ](/news/2011/01/27/internet-retailer-overstock-com-has-amended-its-complaint-in-a-long-standing-lawsuit-against-goldman-sachs-and-merrill-lynch-to-demand-trebl.md)
-_Context: Goldman Sachs, Overstock.com, Merrill Lynch, New Jersey, Bank of America_
+_Context: Overstock.com, Bank of America, Merrill Lynch, Goldman Sachs, New Jersey_
 
 ##### Media conglomerate
 ### [Giant media conglomerate News Corp. says it will launch a digital newspaper as content of Apple's iPad, on 2 February. This is a later launch date than many had expected. ](/news/2011/01/27/giant-media-conglomerate-news-corp-says-it-will-launch-a-digital-newspaper-as-content-of-apple-s-ipad-on-2-february-this-is-a-later-launc.md)
-_Context: iPad, digital newspaper, News Corp., media conglomerate_
+_Context: iPad, News Corp., media conglomerate, digital newspaper_
 
 ##### Residential apartment
 ### [Ten construction workers die after falling from the 28th floor of a skyscraper being built in Manila, the Philippine capital. ](/news/2011/01/27/ten-construction-workers-die-after-falling-from-the-28th-floor-of-a-skyscraper-being-built-in-manila-the-philippine-capital.md)
-_Context: Philippine, Manila, residential apartment_
+_Context: residential apartment, Philippine, Manila_
 
 ##### Australia
 ### [The Australian government proposes a new "flood tax" to raise funds for reconstruction work following severe flooding in the east of the country. ](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.md)
@@ -41,7 +41,7 @@ Tens of thousands of government workers in India protest at the brutal killing o
 
 ##### Macau
 ### [Macau tycoon Stanley Ho is to sue relatives accused of trying to steal his vast casino empire. ](/news/2011/01/27/macau-tycoon-stanley-ho-is-to-sue-relatives-accused-of-trying-to-steal-his-vast-casino-empire.md)
-_Context: Macau, Stanley Ho_
+_Context: Stanley Ho, Macau_
 
 ##### Botswana
 ### [A court in Botswana rules that indigenous Bushmen can drill wells for water in the Kalahari Desert. ](/news/2011/01/27/a-court-in-botswana-rules-that-indigenous-bushmen-can-drill-wells-for-water-in-the-kalahari-desert.md)
@@ -57,7 +57,7 @@ Tens of thousands of Yemenis demonstrate in the capital, Sanaa, calling on Presi
 
 ##### Tunisia
 ### [Thousands continue protesting in Tunisia calling on remaining figures of ousted President Zine El Abidine Ben Ali's regime to leave the interim government. ](/news/2011/01/27/thousands-continue-protesting-in-tunisia-calling-on-remaining-figures-of-ousted-president-zine-el-abidine-ben-ali-s-regime-to-leave-the-inte.md)
-_Context: Zine El Abidine Ben Ali, Tunisia, President of Tunisia_
+_Context: Tunisia, President of Tunisia, Zine El Abidine Ben Ali_
 
 ##### Lebanese
 ### [Lebanese prime minister Najib Mikati begins consultations on forming a new government. ](/news/2011/01/27/lebanese-prime-minister-najib-mikati-begins-consultations-on-forming-a-new-government.md)
@@ -65,11 +65,11 @@ _Context: Najib Mikati, Lebanese_
 
 ##### Burma
 ### [Burma faces criticism at the United Nations Human Rights Council over its human rights record. ](/news/2011/01/27/burma-faces-criticism-at-the-united-nations-human-rights-council-over-its-human-rights-record.md)
-_Context: Burma, Human Rights Council, human rights record_
+_Context: Human Rights Council, human rights record, Burma_
 
 ##### Supreme Court
 ### [The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. ](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.md)
-_Context: Mayor of Chicago, Illinois, U.S. President, U.S. state, Supreme Court, Rahm Emanuel, Barack Obama_
+_Context: Rahm Emanuel, Illinois, Barack Obama, Mayor of Chicago, U.S. state, Supreme Court, U.S. President_
 
 ##### Tel Aviv University's
 ### [Researchers from Tel Aviv University and the University of Michigan announce a breakthrough to fight bacteria by developing a technique that neutralizes the ability of bacteria to develop resistance to antibiotics. ](/news/2011/01/27/researchers-from-tel-aviv-university-and-the-university-of-michigan-announce-a-breakthrough-to-fight-bacteria-by-developing-a-technique-that.md)

@@ -5,11 +5,11 @@ Formats: [HTML](2010/11/16/index.html)  [JSON](2010/11/16/index.json)  [XML](201
 
 ##### Battambang province
 ### [An anti-tank mine explodes under a truck in Battambang province of Cambodia, killing all 14 people aboard. ](/news/2010/11/16/an-anti-tank-mine-explodes-under-a-truck-in-battambang-province-of-cambodia-killing-all-14-people-aboard.md)
-_Context: Cambodia, Battambang province_
+_Context: Battambang province, Cambodia_
 
 ##### United States
 ### [A suspected US missile attack on insurgents in the village of Bangi Dar in the North Waziristan region of Pakistan kills at least 15. ](/news/2010/11/16/a-suspected-us-missile-attack-on-insurgents-in-the-village-of-bangi-dar-in-the-north-waziristan-region-of-pakistan-kills-at-least-15.md)
-_Context: United States, Pakistan, North Waziristan_
+_Context: United States, North Waziristan, Pakistan_
 
 ##### Iran
 ### [Iran started a 5-day air defense drill, claimed by its government to be the biggest drill of its kind ever. The drills are held near its nuclear facilities. ](/news/2010/11/16/iran-started-a-5-day-air-defense-drill-claimed-by-its-government-to-be-the-biggest-drill-of-its-kind-ever-the-drills-are-held-near-its-nuc.md)
@@ -25,7 +25,7 @@ Prince William is to marry long-term girlfriend Kate Middleton next year after t
 
 ##### UNESCO
 ### [UNESCO adds traditional dishes of France and Mexico to the Representative List of the Intangible Cultural Heritage of Humanity at a committee meeting in Nairobi, the first time cuisine is added to the list. ](/news/2010/11/16/unesco-adds-traditional-dishes-of-france-and-mexico-to-the-representative-list-of-the-intangible-cultural-heritage-of-humanity-at-a-committe.md)
-_Context: UNESCO, Representative List of the Intangible Cultural Heritage of Humanity, Mexico, Nairobi, France_
+_Context: France, Nairobi, Representative List of the Intangible Cultural Heritage of Humanity, UNESCO, Mexican_
 
 ##### New York archbishop
 ### [New York archbishop Timothy Dolan is voted president of the United States Conference of Catholic Bishops. ](/news/2010/11/16/new-york-archbishop-timothy-dolan-is-voted-president-of-the-united-states-conference-of-catholic-bishops.md)
@@ -33,7 +33,7 @@ Archbishop Timothy M. Dolan of New York will lead the United States Conference o
 
 ##### Facebook
 ### [Facebook announces that it will launch a new messaging platform, providing an email address of "@facebook.com." ](/news/2010/11/16/facebook-announces-that-it-will-launch-a-new-messaging-platform-providing-an-email-address-of-facebook-com.md)
-_Context: @facebook.com, email, Facebook_
+_Context: Facebook, @facebook.com, email_
 
 ##### ExxonMobil Corporation
 ### [ExxonMobil says a raid by Movement for the Emancipation of the Niger Delta, a militant Nigerian group, has eliminated 45,000 barrels a day of production of natural gas liquids and condensates. ](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.md)
@@ -57,7 +57,7 @@ Foreign minister says it has reported Iran to UN Security Council for possible s
 
 ##### Villawood Immigration Detention Centre
 ### [Detainees at the Villawood Immigration Detention Centre in Sydney, Australia, go on a hunger strike following the suicide of an Iraqi detainee. ](/news/2010/11/16/detainees-at-the-villawood-immigration-detention-centre-in-sydney-australia-go-on-a-hunger-strike-following-the-suicide-of-an-iraqi-detain.md)
-_Context: Sydney, hunger strike, Australia, Villawood Immigration Detention Centre, Iraq_
+_Context: Sydney, Iraq, hunger strike, Villawood Immigration Detention Centre, Australia_
 
 ##### Thailand
 ### [Thailand extradites suspected Russian arms dealer Viktor Bout to the United States to face terrorism charges. ](/news/2010/11/16/thailand-extradites-suspected-russian-arms-dealer-viktor-bout-to-the-united-states-to-face-terrorism-charges.md)
@@ -73,7 +73,7 @@ About a dozen men, who accused UK security forces of colluding in their torture 
 
 ##### Herman Van Rompuy
 ### [President Herman Van Rompuy predicts the possible collapse of the European Union but then says "I'm very confident we will overcome this". ](/news/2010/11/16/president-herman-van-rompuy-predicts-the-possible-collapse-of-the-european-union-but-then-says-i-m-very-confident-we-will-overcome-this.md)
-_Context: European Union, Herman Van Rompuy_
+_Context: Herman Van Rompuy, European Union_
 
 ##### Taoiseach
 ### [Taoiseach Brian Cowen addresses Dail Eireann ahead of a meeting of EU finance ministers, saying Ireland has not applied for financial support from the European Union. ](/news/2010/11/16/taoiseach-brian-cowen-addresses-da-il-aireann-ahead-of-a-meeting-of-eu-finance-ministers-saying-ireland-has-not-applied-for-financial-supp.md)
@@ -85,11 +85,11 @@ _Context: Charlie Rangel, United States House Committee on Standards of Official
 
 ##### U.S. President
 ### [The President of the United States Barack Obama presents a Medal of Honor, the highest United States military decoration to Staff Sgt Salvatore Giunta at the White House. ](/news/2010/11/16/the-president-of-the-united-states-barack-obama-presents-a-medal-of-honor-the-highest-united-states-military-decoration-to-staff-sgt-salvat.md)
-_Context: U.S. President, Medal of Honor, Salvatore Giunta, Barack Obama, United States, White House_
+_Context: U.S. President, Medal of Honor, White House, Barack Obama, Salvatore Giunta, United States_
 
 ##### Republican
 ### [U.S. Republican Party Senators adopt a ban on earmarking, or setting aside money in bills for specific purposes specified by legislators. ](/news/2010/11/16/u-s-republican-party-senators-adopt-a-ban-on-earmarking-or-setting-aside-money-in-bills-for-specific-purposes-specified-by-legislators.md)
-_Context: Republican, earmarking, United States Senate_
+_Context: Republican, United States Senate, earmarking_
 
 ##### Potsdam Institute for Climate Impact Research
 ### [A study done by the Potsdam Institute for Climate Impact Research concluded that reduced wintertime Arctic sea ice cover could create anomalies in wind patterns, resulting in overall cooler winters in continents across the northern hemisphere. ](/news/2010/11/16/a-study-done-by-the-potsdam-institute-for-climate-impact-research-concluded-that-reduced-wintertime-arctic-sea-ice-cover-could-create-anomal.md)

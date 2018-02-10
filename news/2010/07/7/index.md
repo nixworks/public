@@ -33,7 +33,7 @@ A complex in Norway housing rejected asylum seekers was burned to the ground fol
 
 ##### United Kingdom
 ### [The United Kingdom is to hand over responsibility for Afghanistan's Sangin area to the United States. ](/news/2010/07/7/the-united-kingdom-is-to-hand-over-responsibility-for-afghanistan-s-sangin-area-to-the-united-states.md)
-_Context: United Kingdom, Sangin, United States, Afghanistan_
+_Context: Sangin, United States, Afghanistan, United Kingdom_
 
 ##### Bruno Fernandes de Souza
 ### [A judge orders the arrest of Bruno Fernandes de Souza, one of Brazil's top footballers, in connection with the disappearance of his former mistress. ](/news/2010/07/7/a-judge-orders-the-arrest-of-bruno-fernandes-de-souza-one-of-brazil-s-top-footballers-in-connection-with-the-disappearance-of-his-former-m.md)
@@ -61,7 +61,7 @@ Ex-ruler of Panama sentenced to seven years in prison for laundering drug money.
 
 ##### Constitutional Court of Turkey
 ### [The Constitutional Court of Turkey annuls key parts of government-backed constitutional reforms designed for possible European Union membership, rejecting opposition calls for the rest to be rejected as well and permitting the rest to be put to a national referendum in September. ](/news/2010/07/7/the-constitutional-court-of-turkey-annuls-key-parts-of-government-backed-constitutional-reforms-designed-for-possible-european-union-members.md)
-_Context: Constitutional Court of Turkey, European Union, referendum_
+_Context: Constitutional Court of Turkey, referendum, European Union_
 
 ##### Uri Brodsky
 ### [Israeli Uri Brodsky, suspected of assisting the assassination of Mahmoud al-Mabhouh in Dubai, is permitted to be extradited from Poland to Germany. ](/news/2010/07/7/israeli-uri-brodsky-suspected-of-assisting-the-assassination-of-mahmoud-al-mabhouh-in-dubai-is-permitted-to-be-extradited-from-poland-to-g.md)
@@ -69,7 +69,7 @@ An Israeli allegedly linked to the killing of a Hamas operative in Dubai can be 
 
 ##### Gaza Strip
 ### [Israel rejects as "failed to meet the criteria" the application of Fatima Sharif, the Gaza human rights attorney who hoped to study for a master's degree in human rights and democracy at Birzeit University in the Israeli-occupied West Bank. ](/news/2010/07/7/israel-rejects-as-failed-to-meet-the-criteria-the-application-of-fatima-sharif-the-gaza-human-rights-attorney-who-hoped-to-study-for-a-ma.md)
-_Context: human rights, Gaza Strip, West Bank, master's degree, Birzeit University_
+_Context: Birzeit University, master's degree, West Bank, Gaza Strip, human rights_
 
 ##### Cuba
 ### [Cuba releases 52 political prisoners in its aim to improve its human rights record, the largest number the country has released for decades. ](/news/2010/07/7/cuba-releases-52-political-prisoners-in-its-aim-to-improve-its-human-rights-record-the-largest-number-the-country-has-released-for-decades.md)
@@ -93,7 +93,7 @@ Human Rights Watch calls on Iran to stop the execution by stoning of a woman con
 
 ##### France
 ### [French prosecutors launch an investigation into alleged illegal campaign funding for French President Nicolas Sarkozy. ](/news/2010/07/7/french-prosecutors-launch-an-investigation-into-alleged-illegal-campaign-funding-for-french-president-nicolas-sarkozy.md)
-_Context: Nicolas Sarkozy, French President, France_
+_Context: Nicolas Sarkozy, France, French President_
 
 ##### New Zealand
 ### [New Zealand environmental activist Peter Bethune is given a two year suspended sentence in a Tokyo District Court for his role in boarding a Japanese whaling ship. ](/news/2010/07/7/new-zealand-environmental-activist-peter-bethune-is-given-a-two-year-suspended-sentence-in-a-tokyo-district-court-for-his-role-in-boarding-a.md)
@@ -121,7 +121,7 @@ _Context: European Union_
 
 ##### FIFA World Cup 2010
 ### [Spain defeats Germany 1-0 to win its semi-final and for its first time, along with Netherlands make the 2010 FIFA World Cup Final. ](/news/2010/07/7/spain-defeats-germany-1-0-to-win-its-semi-final-and-for-its-first-time-along-with-netherlands-make-the-2010-fifa-world-cup-final.md)
-_Context: 2010 FIFA World Cup Final, third, FIFA World Cup 2010, Netherlands, Spain, Germany_
+_Context: Netherlands, 2010 FIFA World Cup Final, Germany, Spain, FIFA World Cup 2010, third_
 
 ## [Previous Day...](/news/2010/07/6/index.md)
 

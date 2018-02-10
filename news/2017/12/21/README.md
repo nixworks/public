@@ -9,11 +9,11 @@ Nineteen people have been injured after a SUV ran down pedestrians on the corner
 
 ##### Border incidents involving North and South Korea
 ### [A Korean People's Army soldier defects to South Korea after crossing the Korean Demilitarized Zone (DMZ). South Korean border guards fired warning shots at North Korean troops who approached the Military Demarcation Line, in search of the missing soldier. He is the fourth North Korean soldier to defect this year. ](/news/2017/12/21/a-korean-people-s-army-soldier-defects-to-south-korea-after-crossing-the-korean-demilitarized-zone-dmz-south-korean-border-guards-fired-w.md)
-_Context: Military Demarcation Line, defects, Korean People's Army, Border incidents involving North and South Korea, South Korea, DMZ_
+_Context: Border incidents involving North and South Korea, DMZ, defects, Korean People's Army, Military Demarcation Line, South Korea_
 
 ##### HMAS ''AE1''
 ### [The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after a 103-year search. ](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarine-to-serve-in-the-royal-australian-navy-is-found-near-the-duke-of-york-islands-after-a-10.md)
-_Context: Royal Australian Navy, submarine, Duke of York Islands, HMAS ''AE1''_
+_Context: Duke of York Islands, submarine, Royal Australian Navy, HMAS ''AE1''_
 
 ##### Papa John's Pizza
 ### [Papa John's Pizza founder John Schnatter announces he will step down from his position as CEO on January 1, 2018. The move comes two months after he criticized NFL leadership over national anthem protests by NFL players. He will be succeeded by COO Steve Ritchie. ](/news/2017/12/21/papa-john-s-pizza-founder-john-schnatter-announces-he-will-step-down-from-his-position-as-ceo-on-january-1-2018-the-move-comes-two-months.md)
@@ -31,7 +31,7 @@ _Context: Philippines, Luzon_
 ### [A fire at a fitness center in Jecheon, South Korea, kills at least 29 people and leaves 26 others injured. ](/news/2017/12/21/a-fire-at-a-fitness-center-in-jecheon-south-korea-kills-at-least-29-people-and-leaves-26-others-injured.md)
 (UPDATED) The fire is believed to have started at a parking lot on the first floor of an eight-story building
 
-##### United Nations General Assembly resolution ES-10/L.22
+##### Supported the decision
 ### [The United Nations General Assembly votes 128-9, with 35 abstentions, in a nonbinding resolution to demand that the United States rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. ](/news/2017/12/21/the-united-nations-general-assembly-votes-128a9-with-35-abstentions-in-a-nonbinding-resolution-to-demand-that-the-united-states-rescind.md)
 OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday that delivered a resounding rebuke to Donald Trump over his decision to move the U.S. embassy from Tel Aviv to Jerusa…
 
@@ -45,11 +45,11 @@ Separatist and pro-Spanish parties in Catalonia contest a snap regional election
 
 ##### Elections in Cuba
 ### [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md)
-_Context: Raul Castro, Parliament, Elections in Cuba, Cuba, President_
+_Context: President, Elections in Cuba, Parliament, Raul Castro, Cuba_
 
 ##### Government shutdown in the United States
 ### [House and Senate pass a continuing resolution bill to avert a government shutdown until January 19, 2018. ](/news/2017/12/21/house-and-senate-pass-a-continuing-resolution-bill-to-avert-a-government-shutdown-until-january-19-2018.md)
-_Context: Government shutdown in the United States, continuing resolution_
+_Context: continuing resolution, Government shutdown in the United States_
 
 ##### Life expectancy
 ### [The United States Centers for Disease Control and Prevention reports life expectancy in 2016 in America declined for the second year in a row because of the opioid crisis. ](/news/2017/12/21/the-united-states-centers-for-disease-control-and-prevention-reports-life-expectancy-in-2016-in-america-declined-for-the-second-year-in-a-ro.md)

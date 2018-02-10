@@ -5,7 +5,7 @@ Formats: [HTML](2011/11/10/index.html)  [JSON](2011/11/10/index.json)  [XML](201
 
 ##### Syria
 ### [Opposition activists claim that at least 38 people, including six children, have been killed by security forces across Syria: 16 in the city of Homs, 10 in Idlib, six in Hama, three in the suburbs of Damascus and three in Daraa. ](/news/2011/11/10/opposition-activists-claim-that-at-least-38-people-including-six-children-have-been-killed-by-security-forces-across-syria-16-in-the-city.md)
-_Context: Hama, Idlib, Syria, Homs, Daraa, Damascus_
+_Context: Syria, Homs, Damascus, Daraa, Hama, Idlib_
 
 ##### Hinchingbrooke Hospital
 ### [Hinchingbrooke Hospital in the English county of Cambridgeshire becomes the first NHS hospital to be run by a private firm. Healthcare partnership Circle has been awarded a ten-year contract, and will take over administration of the hospital &ndash; which has heavy financial debts &ndash; in February 2012. ](/news/2011/11/10/hinchingbrooke-hospital-in-the-english-county-of-cambridgeshire-becomes-the-first-nhs-hospital-to-be-run-by-a-private-firm-healthcare-partn.md)
@@ -21,11 +21,11 @@ The remarks by Ayatollah Ali Khamenei come in the aftermath of incriminating U.N
 
 ##### New Zealand
 ### [The New Zealand Department of Labour files 25 criminal charges in relation to the Pike River Mine disaster, which killed 29 miners in November 2010. ](/news/2011/11/10/the-new-zealand-department-of-labour-files-25-criminal-charges-in-relation-to-the-pike-river-mine-disaster-which-killed-29-miners-in-novemb.md)
-_Context: Department of Labour, disaster, New Zealand, Pike River Mine_
+_Context: Pike River Mine, disaster, Department of Labour, New Zealand_
 
 ##### Israel
 ### [Israel's Supreme Court upholds a seven-year rape sentence against former President Moshe Katsav. ](/news/2011/11/10/israel-s-supreme-court-upholds-a-seven-year-rape-sentence-against-former-president-moshe-katsav.md)
-_Context: rape, President, Israel, Moshe Katsav, Supreme Court_
+_Context: Israel, President, Supreme Court, Moshe Katsav, rape_
 
 ##### James Murdoch
 ### [James Murdoch, the chief executive of News International, makes his second appearance before the House of Commons Culture, Media and Sport Committee, as the News International phone hacking scandal continues. ](/news/2011/11/10/james-murdoch-the-chief-executive-of-news-international-makes-his-second-appearance-before-the-house-of-commons-culture-media-and-sport-c.md)
@@ -57,19 +57,19 @@ _Context: Imam Moussa al-Sadr, Arab League, Muammar Gaddafi, Iranian-Lebanese sc
 
 ##### South Africa
 ### [In South Africa, controversial ANC Youth League leader Julius Malema is suspended from the country's ruling party for 5 years. ](/news/2011/11/10/in-south-africa-controversial-anc-youth-league-leader-julius-malema-is-suspended-from-the-country-s-ruling-party-for-5-years.md)
-_Context: Julius Malema, South Africa, ANC_
+_Context: ANC, South Africa, Julius Malema_
 
 ##### Canadian
 ### [200,000 Canadian college and university students vote in favour of boycotting classes in Quebec. Thousands are expected to participate in a protest march against tuition fee increases in Montreal. ](/news/2011/11/10/200-000-canadian-college-and-university-students-vote-in-favour-of-boycotting-classes-in-quebec-thousands-are-expected-to-participate-in-a.md)
-_Context: Canadian, tuition fee, Montreal, Quebec_
+_Context: tuition fee, Canadian, Quebec, Montreal_
 
 ##### Virginia
 ### [Incumbent Virginia State Senator Edd Houck concedes defeat in the state elections, giving the Republican Party control over the Virginia General Assembly. ](/news/2011/11/10/incumbent-virginia-state-senator-edd-houck-concedes-defeat-in-the-state-elections-giving-the-republican-party-control-over-the-virginia-gen.md)
-_Context: Virginia, Virginia General Assembly, State Senator, state elections, Edd Houck, Republican_
+_Context: state elections, Virginia General Assembly, Virginia, State Senator, Edd Houck, Republican_
 
 ##### President of Liberia
 ### [The incumbent President of Liberia, Ellen Johnson Sirleaf, is declared the winner of the Liberian presidential election, gaining 90% of the vote following a boycott by opposition candidate Winston Tubman. ](/news/2011/11/10/the-incumbent-president-of-liberia-ellen-johnson-sirleaf-is-declared-the-winner-of-the-liberian-presidential-election-gaining-90-of-the.md)
-_Context: Ellen Johnson Sirleaf, President of Liberia, Liberian presidential election, Winston Tubman_
+_Context: President of Liberia, Ellen Johnson Sirleaf, Liberian presidential election, Winston Tubman_
 
 ## [Previous Day...](/news/2011/11/9/index.md)
 

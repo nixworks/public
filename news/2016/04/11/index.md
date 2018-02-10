@@ -21,7 +21,7 @@ At least five people are killed after a suicide bomb attack on a restaurant near
 
 ##### 2008 financial crisis
 ### [Goldman Sachs agrees to pay $5.06 billion to settle allegations that it sold packages of shoddy mortgages prior to the global financial crisis.. The U.S. Justice Department settlement includes a $2.385 billion civil penalty, and $1.8 billion for distressed borrowers and communities affected by the housing crisis. ](/news/2016/04/11/goldman-sachs-agrees-to-pay-5-06-billion-to-settle-allegations-that-it-sold-packages-of-shoddy-mortgages-prior-to-the-global-financial-cris.md)
-_Context: Goldman Sachs, housing crisis, Department of Justice, 2008 financial crisis_
+_Context: housing crisis, 2008 financial crisis, Goldman Sachs, Department of Justice_
 
 ##### 2014-16 El Nino event
 ### [A severe heat wave grips Malaysia as much of Southeast Asia struggles with unusually hot and dry weather created by the El Nino season. Temperatures in Malaysia soared above 37degC, prompting more than 250 schools to close. ](/news/2016/04/11/a-severe-heat-wave-grips-malaysia-as-much-of-southeast-asia-struggles-with-unusually-hot-and-dry-weather-created-by-the-el-nia-o-season-tem.md)
@@ -33,7 +33,7 @@ U.S. Secretary of State John Kerry on Monday called his visit to a memorial to v
 
 ##### Houthi insurgency in Yemen
 ### [Ismail Ould Cheikh Ahmed, the United Nations special envoy for Yemen, says he welcomes the tentative truce that started at midnight Yemen time. The truce opens unhindered access for relief aid to all of Yemen. Peace talks are set to start later this month. ](/news/2016/04/11/ismail-ould-cheikh-ahmed-the-united-nations-special-envoy-for-yemen-says-he-welcomes-the-tentative-truce-that-started-at-midnight-yemen-ti.md)
-_Context: Yemeni Crisis (2011-present), Yemen, United Nations, Houthi insurgency in Yemen, Ismail Ould Cheikh Ahmed_
+_Context: Yemen, Yemeni Crisis (2011-present), Ismail Ould Cheikh Ahmed, Houthi insurgency in Yemen, United Nations_
 
 ##### North Korea-South Korea relations
 ### [South Korea announces that a colonel from North Korea's military spy agency defected to the south last year. Senior-level defections are rare, most being low level operatives. ](/news/2016/04/11/south-korea-announces-that-a-colonel-from-north-korea-s-military-spy-agency-defected-to-the-south-last-year-senior-level-defections-are-rar.md)
@@ -61,7 +61,7 @@ Democracy Spring is a movement organization committed to winning fundamental ref
 
 ##### Prime Minister
 ### [The Prime Minister of Kyrgyzstan Temir Sariyev announces he will resign from his post. This comes after several Parliament members accused Sariyev and his cabinet of corruption. The Kyrgyz presidential press service said President Almazbek Atambayev accepted his resignation. ](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-announces-he-will-resign-from-his-post-this-comes-after-several-parliament-members-accused-s.md)
-_Context: Prime Minister, Parliament, Temir Sariyev, Kyrgyzstan, Almazbek Atambayev, president_
+_Context: Almazbek Atambayev, Parliament, Kyrgyzstan, Temir Sariyev, president, Prime Minister_
 
 ##### Darfurian status referendum, 2016
 ### [Voting for a referendum begins in Darfur, Sudan. Voters will be asked during the three-day referendum to decide on the permanent administrative status of the region. The choices are for the creation of a Darfur Region composed of the States of Darfur, or the retention of the status quo states system. Darfur is currently divided into five states. Voters will decide this week whether the area should go back to being one region, as it was until 1994. However, there are fears of voter apathy and if the referendum will be credible. ](/news/2016/04/11/voting-for-a-referendum-begins-in-darfur-sudan-voters-will-be-asked-during-the-three-day-referendum-to-decide-on-the-permanent-administrat.md)
@@ -73,7 +73,7 @@ Issues of changing a certain article of the South Ossetian constitution will be 
 
 ##### 2015-16 protests in Brazil
 ### [A committee of Brazil's Chamber of Deputies votes 38-27 to recommend the impeachment of President Dilma Rousseff, who faces charges of breaking budget laws to support her re-election in 2014. ](/news/2016/04/11/a-committee-of-brazil-s-chamber-of-deputies-votes-38-27-to-recommend-the-impeachment-of-president-dilma-rousseff-who-faces-charges-of-break.md)
-_Context: Impeachment process against Dilma Rousseff, 2015-16 protests in Brazil, Dilma Rousseff, president, Brazil's Chamber of Deputies, Brazil, 2014_
+_Context: Dilma Rousseff, 2014, Brazil's Chamber of Deputies, Impeachment process against Dilma Rousseff, 2015-16 protests in Brazil, Brazil, president_
 
 ## [Previous Day...](/news/2016/04/10/index.md)
 

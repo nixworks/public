@@ -13,7 +13,7 @@ Hezbollah leader Sheikh Hassan Nasrallah reveals what he says is evidence of Isr
 
 ##### Japan
 ### [Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.md)
-_Context: dropped, Japan, Nagasaki_
+_Context: dropped, Nagasaki, Japan_
 
 ##### 
 ### [The Turkish government promotes two new generals. ](/news/2010/08/9/the-turkish-government-promotes-two-new-generals.md)
@@ -23,7 +23,7 @@ Baghdad traffic police are reportedly being given Kalashnikov assault rifles to 
 
 ##### South Korea
 ### [South Korea claims that North Korea has fired more than 100 rounds of artillery into the Sea of Japan near the border highlighting the increase of tensions on the Korean Peninsula. ](/news/2010/08/9/south-korea-claims-that-north-korea-has-fired-more-than-100-rounds-of-artillery-into-the-sea-of-japan-near-the-border-highlighting-the-incre.md)
-_Context: Sea of Japan, South Korea, North Korea, Korean Peninsula_
+_Context: Korean Peninsula, South Korea, North Korea, Sea of Japan_
 
 ##### International Assistance Mission
 ### [The International Assistance Mission suspends medical expeditions in Afghanistan following loss of personnel in the 2010 Badakhshan massacre. ](/news/2010/08/9/the-international-assistance-mission-suspends-medical-expeditions-in-afghanistan-following-loss-of-personnel-in-the-2010-badakhshan-massacre.md)
@@ -93,7 +93,7 @@ A woman who was born in Hong Kong as a man but underwent a sex change is fightin
 ### [Recently resigned Zambian Defence Minister George Mpombo, a critic of President Rupiah Banda, is imprisoned for 60 days due to a bounced cheque. ](/news/2010/08/9/recently-resigned-zambian-defence-minister-george-mpombo-a-critic-of-president-rupiah-banda-is-imprisoned-for-60-days-due-to-a-bounced-che.md)
 Jailed Zambian MP George Mpombo complains that prisoners in the country get no breakfast.
 
-##### Mexico
+##### Mexican
 ### [More than 200 Mexican police suspend and hold their own commander at gunpoint in a Ciudad Juarez hotel over allegations of drugs-related corruption. ](/news/2010/08/9/more-than-200-mexican-police-suspend-and-hold-their-own-commander-at-gunpoint-in-a-ciudad-jua-rez-hotel-over-allegations-of-drugs-related-co.md)
 More than 200 police officers in Ciudad Juarez in Mexico detain their commander, accusing him of corruption.
 
@@ -131,7 +131,7 @@ _Context: Angelino Garzon_
 
 ##### Guinea
 ### [Guinea's presidential run-off is scheduled for 19 September. ](/news/2010/08/9/guinea-s-presidential-run-off-is-scheduled-for-19-september.md)
-_Context: November's presidential poll, Guinea_
+_Context: Guinea, November's presidential poll_
 
 ## [Previous Day...](/news/2010/08/8/index.md)
 

@@ -17,7 +17,7 @@ Formats: [HTML](/news/2011/12/4/voters-in-slovenia-go-to-the-polls-for-a-parliam
 
 ### Changes:
 
-1. [Voters in Croatia go to the polls for a parliamentary election with an exit poll showing the centre-left Kukuriku coalition set to win a majority. ](/news/2011/12/4/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-showing-the-centre-left-kukuriku-coalition-set-to-win-a-maj.md) _2018-02-08 05:03:22 (First version)_
+1. [Voters in Croatia go to the polls for a parliamentary election with an exit poll showing the centre-left Kukuriku coalition set to win a majority. ](/news/2011/12/4/voters-in-croatia-go-to-the-polls-for-a-parliamentary-election-with-an-exit-poll-showing-the-centre-left-kukuriku-coalition-set-to-win-a-maj.md) _2018-02-09 04:55:17 (First version)_
 1. [Voters in Slovenia go to the polls for a parliamentary election with early results showing Positive Slovenia with an early lead. ](/news/2011/12/4/voters-in-slovenia-go-to-the-polls-for-a-parliamentary-election-with-early-results-showing-positive-slovenia-with-an-early-lead.md) _(Current version)_
 
 ### Related:

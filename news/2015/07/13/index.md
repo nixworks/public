@@ -9,7 +9,7 @@ Get the latest international news and world events from Asia, Europe, the Middle
 
 ##### Saudi-led military intervention in Yemen (2015-present)
 ### [An airstrike by the Saudi-led coalition kills 25 civilians and wounds 50 in Sanaa, the capital of Yemen. Last week a ceasefire agreement was reached. ](/news/2015/07/13/an-airstrike-by-the-saudi-led-coalition-kills-25-civilians-and-wounds-50-in-sanaa-the-capital-of-yemen-last-week-a-ceasefire-agreement-was.md)
-_Context: Yemen, Saudi-led military intervention in Yemen (2015-present), Sanaa, Saudi Arabia_
+_Context: Saudi-led military intervention in Yemen (2015-present), Sanaa, Yemen, Saudi Arabia_
 
 ##### Timeline
 ### [Eurozone leaders agree on a bailout deal for Greece providing the Hellenic Parliament passes reforms into law by July 15. ](/news/2015/07/13/eurozone-leaders-agree-on-a-bailout-deal-for-greece-providing-the-hellenic-parliament-passes-reforms-into-law-by-july-15.md)
@@ -41,7 +41,7 @@ _Context: Barack Obama, U.S. President_
 
 ##### Boston Marathon bombing
 ### [Son of Boston police captain is charged with a foiled plot to bomb a university, inspired by Boston Marathon bombing, on alleged behalf of ISIS. He is scheduled Tuesday for a bail hearing at a federal court in Springfield. ](/news/2015/07/13/son-of-boston-police-captain-is-charged-with-a-foiled-plot-to-bomb-a-university-inspired-by-boston-marathon-bombing-on-alleged-behalf-of-i.md)
-_Context: Springfield, Boston Marathon bombing_
+_Context: Boston Marathon bombing, Springfield_
 
 ##### United Arab Emirates
 ### [Alaa Bader Abdullah, 31, is executed in the United Arab Emirates for the murder of Ibolya Ryan, a Romanian-American teacher. ](/news/2015/07/13/alaa-bader-abdullah-31-is-executed-in-the-united-arab-emirates-for-the-murder-of-ibolya-ryan-a-romanian-american-teacher.md)
@@ -49,7 +49,7 @@ The United Arab Emirates executed a UAE woman convicted of terrorism early on Mo
 
 ##### John Boehner
 ### [The male defendant is found not guilty of death threats on US Majority Speaker of the House, John Boehner, by reason of insanity. He is still in jail and due for another trial on August 21 to determine his ability to adjust to society. ](/news/2015/07/13/the-male-defendant-is-found-not-guilty-of-death-threats-on-us-majority-speaker-of-the-house-john-boehner-by-reason-of-insanity-he-is-stil.md)
-_Context: reason of insanity, John Boehner_
+_Context: John Boehner, reason of insanity_
 
 ##### Netherlands
 ### [Dutch Finance Minister Jeroen Dijsselbloem was re-elected president of the Eurogroup for a second term. ](/news/2015/07/13/dutch-finance-minister-jeroen-dijsselbloem-was-re-elected-president-of-the-eurogroup-for-a-second-term.md)

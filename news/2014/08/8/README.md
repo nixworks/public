@@ -29,11 +29,11 @@ There was no immediate word on whether the shooter, John W. Hinckley, could face
 
 ##### Case
 ### [In a case brought by a group of former NCAA athletes, U.S. District Court judge Claudia Wilken rules that the NCAA violated antitrust law by restricting the compensation that college athletes can receive for their publicity rights. ](/news/2014/08/8/in-a-case-brought-by-a-group-of-former-ncaa-athletes-u-s-district-court-judge-claudia-wilken-rules-that-the-ncaa-violated-antitrust-law-by.md)
-_Context: Claudia Wilken, case, NCAA, United States antitrust law, United States District Court for the Northern District of California_
+_Context: United States antitrust law, Claudia Wilken, NCAA, case, United States District Court for the Northern District of California_
 
 ##### Italian senate
 ### [The Italian senate votes in favor of a dramatic reduction of its own size and powers to challenge laws proposed in the lower house, and for turning itself into an unelected body. ](/news/2014/08/8/the-italian-senate-votes-in-favor-of-a-dramatic-reduction-of-its-own-size-and-powers-to-challenge-laws-proposed-in-the-lower-house-and-for.md)
-_Context: Italian senate, lower house_
+_Context: lower house, Italian senate_
 
 ##### Juan Manuel Santos
 ### [Juan Manuel Santos is sworn in for a second term as President of Colombia. ](/news/2014/08/8/juan-manuel-santos-is-sworn-in-for-a-second-term-as-president-of-colombia.md)

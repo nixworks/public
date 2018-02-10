@@ -21,23 +21,23 @@ Two U.S. soldiers were killed and two others injured when a helicopter crashed o
 
 ##### Miner
 ### [Nine miners are rescued from a collapsed copper mine in southern Peru. ](/news/2012/04/11/nine-miners-are-rescued-from-a-collapsed-copper-mine-in-southern-peru.md)
-_Context: miner, copper, Peru_
+_Context: copper, miner, Peru_
 
 ##### Philippine Navy
 ### [Vessels from the Philippine Navy and Chinese maritime surveillance are at a standoff after the Philippines attempted to arrest Chinese fishermen in the South China Sea. ](/news/2012/04/11/vessels-from-the-philippine-navy-and-chinese-maritime-surveillance-are-at-a-standoff-after-the-philippines-attempted-to-arrest-chinese-fishe.md)
-_Context: Philippines, Chinese, Philippine Navy, South China Sea_
+_Context: Philippine Navy, Philippines, Chinese, South China Sea_
 
 ##### House of Reeves
 ### [A looter who started a fire at a House of Reeves store during last year's riots in London is jailed for eleven and a half years. ](/news/2012/04/11/a-looter-who-started-a-fire-at-a-house-of-reeves-store-during-last-year-s-riots-in-london-is-jailed-for-eleven-and-a-half-years.md)
-_Context: House of Reeves, last year's riots in London_
+_Context: last year's riots in London, House of Reeves_
 
 ##### The state
 ### [A Florida special prosecutor charges George Zimmerman with murder in the second degree in relation to the death of Trayvon Martin. ](/news/2012/04/11/a-florida-special-prosecutor-charges-george-zimmerman-with-murder-in-the-second-degree-in-relation-to-the-death-of-trayvon-martin.md)
-_Context: George Zimmerman, the state, Trayvon Martin_
+_Context: the state, George Zimmerman, Trayvon Martin_
 
 ##### South Korea
 ### [Voters in South Korea go to the polls for a legislative election with the governing Saenuri Party retaining control of the National Assembly of South Korea. ](/news/2012/04/11/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-governing-saenuri-party-retaining-control-of-the-national-assembly.md)
-_Context: legislative election, National Assembly of South Korea, South Korea, Saenuri Party_
+_Context: South Korea, legislative election, National Assembly of South Korea, Saenuri Party_
 
 ##### Kim Jong Un
 ### [Kim Jong Un is named as the First Secretary of the North Korean Workers Party with his late father Kim Jong Il declared as its "eternal" General Secretary. ](/news/2012/04/11/kim-jong-un-is-named-as-the-first-secretary-of-the-north-korean-workers-party-with-his-late-father-kim-jong-il-declared-as-its-eternal-gen.md)
@@ -45,11 +45,11 @@ North Korea fueled up a rocket Wednesday in preparation for what appeared to be 
 
 ##### President
 ### [First President of Algeria Ahmed Ben Bella dies at the age of 95. ](/news/2012/04/11/first-president-of-algeria-ahmed-ben-bella-dies-at-the-age-of-95.md)
-_Context: Algeria, President, Ahmed Ben Bella_
+_Context: Ahmed Ben Bella, President, Algeria_
 
 ##### Lucas Papademos
 ### [Lucas Papademos resigns as the Prime Minister of Greece, calling an election for May 6. ](/news/2012/04/11/lucas-papademos-resigns-as-the-prime-minister-of-greece-calling-an-election-for-may-6.md)
-_Context: first election on May 6, Greek Prime Minister, Lucas Papademos_
+_Context: Greek Prime Minister, Lucas Papademos, first election on May 6_
 
 ## [Previous Day...](/news/2012/04/10/index.md)
 

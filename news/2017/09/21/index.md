@@ -17,7 +17,7 @@ _Context: Standard & Poor's, Economy of China, China_
 
 ##### European migration crisis
 ### [At least five migrants have died and ninety are missing after their boat sinks off the western coast of Libya. ](/news/2017/09/21/at-least-five-migrants-have-died-and-ninety-are-missing-after-their-boat-sinks-off-the-western-coast-of-libya.md)
-_Context: European migration crisis, Libya_
+_Context: Libya, European migration crisis_
 
 ##### Atlantic hurricanes
 ### [Maria, now a Category 3 hurricane with maximum sustained winds of 125 mph (205 km-h), is passing offshore of the northern coast of the Dominican Republic, expected to impact the Turks and Caicos Islands and southeastern Bahamas later tonight and Friday. ](/news/2017/09/21/maria-now-a-category-3-hurricane-with-maximum-sustained-winds-of-125-mph-205-km-h-is-passing-offshore-of-the-northern-coast-of-the-domin.md)
@@ -25,7 +25,7 @@ Puerto Ricans are facing the crushing devastation wrought by Hurricane Maria —
 
 ##### 2017 Central Mexico earthquake
 ### [Rescuers are focusing on 10 collapsed buildings where people may still be alive. Mexico City Mayor Miguel Angel Mancera reports the death toll is now at least 273, with 50 people still missing. ](/news/2017/09/21/rescuers-are-focusing-on-10-collapsed-buildings-where-people-may-still-be-alive-mexico-city-mayor-miguel-angel-mancera-reports-the-death-t.md)
-_Context: 2017 Central Mexico earthquake, Mexico City Mayor, Miguel Angel Mancera_
+_Context: Mexico City Mayor, 2017 Central Mexico earthquake, Miguel Angel Mancera_
 
 ##### North Korea-United States relations
 ### [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md)

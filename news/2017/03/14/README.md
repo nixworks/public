@@ -21,7 +21,7 @@ Here&#039;s the latest on Winter Storm Stella.
 
 ##### Europol
 ### [Europol reports a total of more than 10,000 assault rifles and 400 shelling weapons were seized in northern Spain during an anti-trafficking operation in January. ](/news/2017/03/14/europol-reports-a-total-of-more-than-10-000-assault-rifles-and-400-shelling-weapons-were-seized-in-northern-spain-during-an-anti-trafficking.md)
-_Context: Europol, Arms trader, Spain_
+_Context: Spain, Arms trader, Europol_
 
 ##### AMBER Alert
 ### [An AMBER Alert is issued in Tennessee and Alabama for Elizabeth Thomas, who is believed to have been kidnapped by her former high school teacher Tad Cummins. ](/news/2017/03/14/an-amber-alert-is-issued-in-tennessee-and-alabama-for-elizabeth-thomas-who-is-believed-to-have-been-kidnapped-by-her-former-high-school-tea.md)

@@ -3,7 +3,7 @@ Formats: [HTML](/news/2010/08/5/the-u-s-government-charges-14-people-as-particip
 
 ### [2010-08-5](/news/2010/08/5/index.md)
 
-##### Government of the United States
+##### United States government
 # The U.S. Government charges 14 people as participants in "a deadly pipeline" sending money and fighters from the United States to the Somalian insurgency group Al-Shabaab. 
 
 US officials charge 14 people with providing money, personnel and services to the Somali militant group al-Shabab.

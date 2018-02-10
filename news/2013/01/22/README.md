@@ -5,7 +5,7 @@ Formats: [HTML](2013/01/22/index.html)  [JSON](2013/01/22/index.json)  [XML](201
 
 ##### Jordan
 ### [The government of Jordan says that more than 12,000 Syrians have fled to Jordan in the past six days. ](/news/2013/01/22/the-government-of-jordan-says-that-more-than-12-000-syrians-have-fled-to-jordan-in-the-past-six-days.md)
-_Context: Jordan, Syria_
+_Context: Syria, Jordan_
 
 ##### Baghdad
 ### [Car bombings in Baghdad kill at least 17 people and injure dozens of others. ](/news/2013/01/22/car-bombings-in-baghdad-kill-at-least-17-people-and-injure-dozens-of-others.md)
@@ -13,11 +13,11 @@ Car bombs in and around the Iraqi capital, Baghdad, have killed at least 17 peop
 
 ##### Colombia
 ### [In Colombia, FARC rebels dynamite two southern oil pipelines and planted a bomb on the top coal exporter's northern railway after the end of a rebel ceasefire. ](/news/2013/01/22/in-colombia-farc-rebels-dynamite-two-southern-oil-pipelines-and-planted-a-bomb-on-the-top-coal-exporter-s-northern-railway-after-the-end-of.md)
-_Context: FARC, ceasefire, oil pipeline, Colombia_
+_Context: Colombia, FARC, ceasefire, oil pipeline_
 
 ##### James Bond
 ### [The James Bond film "Skyfall" opens in China with censored scenes, prompting criticism from fans. ](/news/2013/01/22/the-james-bond-film-skyfall-opens-in-china-with-censored-scenes-prompting-criticism-from-fans.md)
-_Context: James Bond, Skyfall, China, Censorship in China_
+_Context: James Bond, Skyfall, Censorship in China, China_
 
 ##### United Nations Security Council
 ### [The United Nations Security Council passes Resolution 2087, condemning North Korea's December 2012 rocket launch and expanding economic sanctions against the country. ](/news/2013/01/22/the-united-nations-security-council-passes-resolution-2087-condemning-north-korea-s-december-2012-rocket-launch-and-expanding-economic-sanc.md)

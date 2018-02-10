@@ -9,31 +9,31 @@ A suicide bomber tried to assassinate the head of Saudi Arabia’s antiterrorism
 
 ##### Reading Rainbow
 ### [ "Reading Rainbow", the third longest-running children's show on United States public-service television network PBS, ends its 26-year run. ](/news/2009/08/28/reading-rainbow-the-third-longest-running-children-s-show-on-united-states-public-service-television-network-pbs-ends-its-26-year-run.md)
-_Context: Reading Rainbow, PBS, United States_
+_Context: PBS, United States, Reading Rainbow_
 
 ##### Chemical structure
 ### [ The detailed chemical structure of a single molecule has been imaged for the first time. The physical shape of single carbon nanotubes has been outlined before, using similar techniques, but the new method even shows up chemical bonds. ](/news/2009/08/28/the-detailed-chemical-structure-of-a-single-molecule-has-been-imaged-for-the-first-time-the-physical-shape-of-single-carbon-nanotubes-has.md)
-_Context: carbon nanotubes, chemical structure, similar techniques, chemical bonds, molecule_
+_Context: similar techniques, carbon nanotubes, molecule, chemical structure, chemical bonds_
 
 ##### United Nations
 ### [ The United Nations warns that poultry farms could become infected with the H1N1 virus, following the discovery of the virus in turkeys in Chile last week. ](/news/2009/08/28/the-united-nations-warns-that-poultry-farms-could-become-infected-with-the-h1n1-virus-following-the-discovery-of-the-virus-in-turkeys-in-c.md)
-_Context: United Nations, virus, Chile, poultry, turkey, H1N1 virus_
+_Context: United Nations, turkey, H1N1 virus, poultry, Chile, virus_
 
 ##### Survival manual
 ### [ According to declassified documents released this week, a survival manual produced by Transport Canada was used by U.S. interrogators to set limits on dousing detainees with cold water as a form of water torture. ](/news/2009/08/28/according-to-declassified-documents-released-this-week-a-survival-manual-produced-by-transport-canada-was-used-by-u-s-interrogators-to-se.md)
-_Context: survival manual, water torture, dousing, detainee, detainees, Transport Canada_
+_Context: Transport Canada, survival manual, dousing, detainees, water torture, detainee_
 
 ##### Japan
 ### [ Japan's unemployment rate reaches a record high of 5.7%. ](/news/2009/08/28/japan-s-unemployment-rate-reaches-a-record-high-of-5-7.md)
-_Context: Japan, unemployment rate_
+_Context: unemployment rate, Japan_
 
 ##### Iceland
 ### [ Iceland's Althing votes in favour of repaying more than US$5 billion owed to the governments of the Netherlands and the United Kingdom as a result of the collapse of the Icesave bank. ](/news/2009/08/28/iceland-s-althing-votes-in-favour-of-repaying-more-than-us-5-billion-owed-to-the-governments-of-the-netherlands-and-the-united-kingdom-as-a.md)
-_Context: Althing, $, United Kingdom, Iceland, Netherlands, Icesave_
+_Context: Iceland, Althing, United Kingdom, Netherlands, Icesave, $_
 
 ##### Los Angeles County, California
 ### [ The Los Angeles County coroner rules that American entertainer and musician Michael Jackson's death was a homicide caused by acute intoxication from the drug propofol. ](/news/2009/08/28/the-los-angeles-county-coroner-rules-that-american-entertainer-and-musician-michael-jackson-s-death-was-a-homicide-caused-by-acute-intoxica.md)
-_Context: coroner, propofol, Michael Jackson, homicide, death, Los Angeles County, California, intoxication, drug, United States_
+_Context: propofol, intoxication, homicide, drug, coroner, Michael Jackson, Los Angeles County, California, death, United States_
 
 ##### Italian Prime Minister
 ### [ Prime Minister of Italy Silvio Berlusconi launches legal action against French weekly "Nouvel Observateur", Spanish newspaper "El Pas", and Italian newspaper "La Repubblica", and has authorized his attorneys to prepare cases against British newspapers, charging the newspapers with libel. ](/news/2009/08/28/prime-minister-of-italy-silvio-berlusconi-launches-legal-action-against-french-weekly-nouvel-observateur-spanish-newspaper-el-pais-an.md)
@@ -41,7 +41,7 @@ Italian Prime Minister Silvio Berlusconi is launching legal actions against medi
 
 ##### King Mohammed VI of Morocco
 ### [ King Mohammed VI of Morocco is hospitalized for five days for treatment of a rotavirus and dehydration. ](/news/2009/08/28/king-mohammed-vi-of-morocco-is-hospitalized-for-five-days-for-treatment-of-a-rotavirus-and-dehydration.md)
-_Context: rotavirus, dehydration, King Mohammed VI of Morocco_
+_Context: King Mohammed VI of Morocco, rotavirus, dehydration_
 
 ##### Myanmar Armed Forces
 ### [ Clashes between rebels and government troops in the Kokang region of northeastern Burma continue, with around 30,000 refugees fleeing across the border to China. ](/news/2009/08/28/clashes-between-rebels-and-government-troops-in-the-kokang-region-of-northeastern-burma-continue-with-around-30-000-refugees-fleeing-acros.md)
@@ -49,11 +49,11 @@ Fresh fighting has erupted between Myanmar forces and an armed ethnic group in t
 
 ##### United Nations
 ### [ United Nations diplomats confirm the United Arab Emirates seized a North Korean ship carrying weapons to Iran, in violation of Security Council Resolution 1874. ](/news/2009/08/28/united-nations-diplomats-confirm-the-united-arab-emirates-seized-a-north-korean-ship-carrying-weapons-to-iran-in-violation-of-security-cou.md)
-_Context: United Arab Emirates, United Nations, sanctions, North Korea, United Nations Security Council, Iran_
+_Context: sanctions, United Arab Emirates, United Nations, Iran, United Nations Security Council, North Korea_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad calls for opposition leaders to be punished over election protests which occurred earlier this year. ](/news/2009/08/28/iranian-president-mahmoud-ahmadinejad-calls-for-opposition-leaders-to-be-punished-over-election-protests-which-occurred-earlier-this-year.md)
-_Context: Iran, Mahmoud Ahmadinejad, President, protests against the regime_
+_Context: President, protests against the regime, Mahmoud Ahmadinejad, Iran_
 
 ##### NASA
 ### [ NASA launches the 103 (STS-128) for a resupply and crew rotation mission to the International Space Station. The mission will also deliver the Multi-Purpose Logistics Module Leonardo. This is Discovery's 37th flight and will celebrate the 25th anniversary of its first flight during the mission. ](/news/2009/08/28/nasa-launches-the-103-sts-128-for-a-resupply-and-crew-rotation-mission-to-the-international-space-station-the-mission-will-also-deliver.md)

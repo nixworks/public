@@ -33,11 +33,11 @@ Homes in Stonehaven are evacuated after significant flooding hit the Aberdeenshi
 
 ##### Train
 ### [A train derails in the Swiss Alps after ramming into mounds of snow from an avalanche blocking the tracks with no injuries. ](/news/2012/12/23/a-train-derails-in-the-swiss-alps-after-ramming-into-mounds-of-snow-from-an-avalanche-blocking-the-tracks-with-no-injuries.md)
-_Context: train, avalanche, snow, Swiss Alps_
+_Context: train, Swiss Alps, avalanche, snow_
 
 ##### Fire
 ### [At least 600 shops are destroyed as a fire sweeps through a market and money exchange in Kabul, Afghanistan. ](/news/2012/12/23/at-least-600-shops-are-destroyed-as-a-fire-sweeps-through-a-market-and-money-exchange-in-kabul-afghanistan.md)
-_Context: fire, Kabul, money exchange, Afghanistan, market_
+_Context: Afghanistan, fire, Kabul, market, money exchange_
 
 ##### South Korea
 ### [The South Korean defence ministry says the launch of a satellite into space by North Korea was a disguised test of a 10,000 km range missile. ](/news/2012/12/23/the-south-korean-defence-ministry-says-the-launch-of-a-satellite-into-space-by-north-korea-was-a-disguised-test-of-a-10-000-km-range-missile.md)

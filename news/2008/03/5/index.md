@@ -5,7 +5,7 @@ Formats: [HTML](2008/03/5/index.html)  [JSON](2008/03/5/index.json)  [XML](2008/
 
 ##### 2008 National People's Congress
 ### [ The first plenary session of the 11th National People's Congress begins in China. Premier Wen Jiabao delivers the last annual government report in his first term of office. ](/news/2008/03/5/the-first-plenary-session-of-the-11th-national-people-s-congress-begins-in-china-premier-wen-jiabao-delivers-the-last-annual-government-re.md)
-_Context: 2008 National People's Congress, 11th, Wen Jiabao, China, parliament, Premier of the People's Republic of China_
+_Context: 2008 National People's Congress, parliament, Premier of the People's Republic of China, Wen Jiabao, China, 11th_
 
 ##### Jimmy Wales
 ### [ Jimmy Wales, co-founder of Wikipedia, is facing allegations that he used the Wikimedia Foundation funds to pay for personal expenses. ](/news/2008/03/5/jimmy-wales-co-founder-of-wikipedia-is-facing-allegations-that-he-used-the-wikimedia-foundation-funds-to-pay-for-personal-expenses.md)
@@ -13,7 +13,7 @@ _Context: Jimmy Wales, Wikipedia, Wikimedia Foundation_
 
 ##### Republican
 ### [ U.S. Republican presidential nominee John McCain is endorsed by President George W. Bush. ](/news/2008/03/5/u-s-republican-presidential-nominee-john-mccain-is-endorsed-by-president-george-w-bush.md)
-_Context: John McCain, Republican, George W. Bush, U.S. President_
+_Context: U.S. President, George W. Bush, John McCain, Republican_
 
 ##### Warren Buffett
 ### [ Warren Buffett, CEO of Berkshire Hathaway, is named the richest person in the world by "Forbes" magazine. ](/news/2008/03/5/warren-buffett-ceo-of-berkshire-hathaway-is-named-the-richest-person-in-the-world-by-forbes-magazine.md)

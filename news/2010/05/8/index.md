@@ -9,11 +9,11 @@ _Context: 2010 general election, New Zealand, disfranchisement_
 
 ##### United States Senate
 ### [U.S. Senator Bob Bennett, Republican from Utah, is ousted from his party's primary ballot at the state's Republican convention, meaning he will not have a chance for a fourth term. ](/news/2010/05/8/u-s-senator-bob-bennett-republican-from-utah-is-ousted-from-his-party-s-primary-ballot-at-the-state-s-republican-convention-meaning-he-w.md)
-_Context: Republican, Utah, primary election, Bob Bennett, United States Senate_
+_Context: Republican, primary election, Bob Bennett, Utah, United States Senate_
 
 ##### Khatlon
 ### [Mudslides and floods have killed 16, and more than 40 are missing in some districts of the southern Khatlon region in Tajikistan. ](/news/2010/05/8/mudslides-and-floods-have-killed-16-and-more-than-40-are-missing-in-some-districts-of-the-southern-khatlon-region-in-tajikistan.md)
-_Context: Khatlon, Tajikistan_
+_Context: Tajikistan, Khatlon_
 
 ##### Europe
 ### [Most flights between Europe and North America face delays today. ](/news/2010/05/8/most-flights-between-europe-and-north-america-face-delays-today.md)
@@ -21,15 +21,15 @@ Irish airports remained open today, but there is disruption in some parts of sou
 
 ##### Vilnius
 ### [Hundreds of people take part in a two-hour march, "For Equality", in Vilnius at Lithuania's first gay pride, with police shooting tear gas and arresting at least 12 people who threw stones and fireworks at marchers. ](/news/2010/05/8/hundreds-of-people-take-part-in-a-two-hour-march-for-equality-in-vilnius-at-lithuania-s-first-gay-pride-with-police-shooting-tear-gas-a.md)
-_Context: Vilnius, gay pride, tear gas, Lithuania_
+_Context: Lithuania, Vilnius, tear gas, gay pride_
 
 ##### Naxalite
 ### [Naxalite rebels blow up a bullet-proof vehicle of the Central Reserve Police Force in the Bijapur district of Chhattisgarh, India, killing seven officers. ](/news/2010/05/8/naxalite-rebels-blow-up-a-bullet-proof-vehicle-of-the-central-reserve-police-force-in-the-bijapur-district-of-chhattisgarh-india-killing-s.md)
-_Context: Chhattisgarh, Bijapur, India, Indian Reserve policemen, Naxalite_
+_Context: Naxalite, Chhattisgarh, India, Indian Reserve policemen, Bijapur_
 
 ##### United Nations
 ### [United Nations Secretary-General Ban Ki-moon discusses climate change with Bolivian president Evo Morales Ayma. ](/news/2010/05/8/united-nations-secretary-general-ban-ki-moon-discusses-climate-change-with-bolivian-president-evo-morales-ayma.md)
-_Context: President of Bolivia, Bolivia, Evo Morales Ayma, climate change, Ban Ki-moon, United Nations Secretary-General, United Nations_
+_Context: Bolivia, United Nations, Evo Morales Ayma, United Nations Secretary-General, President of Bolivia, Ban Ki-moon, climate change_
 
 ##### Pope Benedict XVI
 ### [Pope Benedict XVI accepts the resignation of Walter Mixa of Augsburg, a bishop who admitted physically abusing children after initially denying accusations. ](/news/2010/05/8/pope-benedict-xvi-accepts-the-resignation-of-walter-mixa-of-augsburg-a-bishop-who-admitted-physically-abusing-children-after-initially-deny.md)
@@ -45,7 +45,7 @@ Italians trapped in unhappy marriages will be heading to the country&#039;s firs
 
 ##### London
 ### [London's Harrod's department store is sold to the Qatari royal family by Mohamed Al-Fayed who retires after 25 years as its chairman. ](/news/2010/05/8/london-s-harrod-s-department-store-is-sold-to-the-qatari-royal-family-by-mohamed-al-fayed-who-retires-after-25-years-as-its-chairman.md)
-_Context: Mohamed Al-Fayed, London, Qatar, Qatari royal family, Harrod's_
+_Context: Qatar, Qatari royal family, London, Harrod's, Mohamed Al-Fayed_
 
 ##### Mixed martial arts
 ### [In mixed martial arts, Mauricio "Shogun" Rua wins the UFC Light Heavyweight Championship from fellow Brazilian Lyoto Machida at UFC 113 in Montreal, Quebec, Canada. ](/news/2010/05/8/in-mixed-martial-arts-mauricio-shogun-rua-wins-the-ufc-light-heavyweight-championship-from-fellow-brazilian-lyoto-machida-at-ufc-113-in-m.md)

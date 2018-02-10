@@ -9,7 +9,7 @@ At least 18 people were killed in a gunfight between two feuding tribes in south
 
 ##### Italian
 ### [Two Italian priests and a Canadian nun have been kidnapped by gunmen in Cameroon. ](/news/2014/04/5/two-italian-priests-and-a-canadian-nun-have-been-kidnapped-by-gunmen-in-cameroon.md)
-_Context: Canadian, Italian, Cameroon_
+_Context: Canadian, Cameroon, Italian_
 
 ##### Tyson Foods Incorporated
 ### [Tyson Foods recalls 75,000 pounds of frozen chicken nuggets due to complaints that pieces of plastic were found in its products. ](/news/2014/04/5/tyson-foods-recalls-75-000-pounds-of-frozen-chicken-nuggets-due-to-complaints-that-pieces-of-plastic-were-found-in-its-products.md)
@@ -29,11 +29,11 @@ PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters 
 
 ##### Sinn Fein
 ### [Sinn Fein's Martin McGuinness, the Deputy First Minister of Northern Ireland accepts an invitation to attend several events during the forthcoming State visit of Irish President Michael D. Higgins to the United Kingdom, including a banquet to be held by Elizabeth II at Windsor Castle. ](/news/2014/04/5/sinn-fa-c-inas-martin-mcguinness-the-deputy-first-minister-of-northern-ireland-accepts-an-invitation-to-attend-several-events-during-the-fo.md)
-_Context: Martin McGuinness, Deputy First Minister of Northern Ireland, banquet, Windsor Castle, Sinn Fein, Elizabeth II, Michael D. Higgins, President_
+_Context: Martin McGuinness, banquet, Michael D. Higgins, Windsor Castle, Deputy First Minister of Northern Ireland, President, Elizabeth II, Sinn Fein_
 
 ##### Roman Catholic Archdiocese of Atlanta
 ### [Roman Catholic Archdiocese of Atlanta archbishop Wilton Gregory announces he will sell his recently-acquired $2.2 million mansion amid criticism amongst parishioners. ](/news/2014/04/5/roman-catholic-archdiocese-of-atlanta-archbishop-wilton-gregory-announces-he-will-sell-his-recently-acquired-2-2-million-mansion-amid-criti.md)
-_Context: Wilton Gregory, Roman Catholic Archdiocese of Atlanta_
+_Context: Roman Catholic Archdiocese of Atlanta, Wilton Gregory_
 
 ## [Previous Day...](/news/2014/04/4/index.md)
 

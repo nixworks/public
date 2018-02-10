@@ -5,7 +5,7 @@ Formats: [HTML](2012/12/13/index.html)  [JSON](2012/12/13/index.json)  [XML](201
 
 ##### Russia
 ### [Russia's Deputy Foreign Minister Mikhail Bogdanov confirms his country is working on mobilization plans to evacuate its citizens from Syria. In the statement, the Foreign Ministry acknowledges for the first time that the rebels might win as the Syrian government is losing control of more and more territory. ](/news/2012/12/13/russia-s-deputy-foreign-minister-mikhail-bogdanov-confirms-his-country-is-working-on-mobilization-plans-to-evacuate-its-citizens-from-syria.md)
-_Context: Syria, Syrian National Coalition, Russia, Syrian government, Foreign Ministry_
+_Context: Foreign Ministry, Syrian government, Russia, Syria, Syrian National Coalition_
 
 ##### West Bank
 ### [Five people are injured in the West Bank ahead of the funeral of a deaf teenager shot dead by Israeli forces. ](/news/2012/12/13/five-people-are-injured-in-the-west-bank-ahead-of-the-funeral-of-a-deaf-teenager-shot-dead-by-israeli-forces.md)
@@ -13,15 +13,15 @@ Five injured in West Bank clashes between Palestinian youths and Israeli soldier
 
 ##### Japan
 ### [Japan scrambles fighter jets in response to a Chinese plane seen near the disputed Senkaku Islands, marking the first time aircraft are involved in the dispute. ](/news/2012/12/13/japan-scrambles-fighter-jets-in-response-to-a-chinese-plane-seen-near-the-disputed-senkaku-islands-marking-the-first-time-aircraft-are-invo.md)
-_Context: Senkaku Islands, aircraft, Senkaku Islands dispute, fighter jets, Japan, China_
+_Context: fighter jets, Japan, China, aircraft, Senkaku Islands dispute, Senkaku Islands_
 
 ##### The Tallow Candle
 ### ["The Tallow Candle", an early work by Hans Christian Andersen, is found at the bottom of a box in Denmark. ](/news/2012/12/13/the-tallow-candle-an-early-work-by-hans-christian-andersen-is-found-at-the-bottom-of-a-box-in-denmark.md)
-_Context: Denmark, The Tallow Candle, Hans Christian Andersen_
+_Context: The Tallow Candle, Hans Christian Andersen, Denmark_
 
 ##### Mark Rothko
 ### [Wlodzimierz Umaniec, who daubed a Mark Rothko painting with black paint in the name of yellowism, is jailed for two years in the UK. ](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.md)
-_Context: UK, Mark Rothko_
+_Context: Mark Rothko, UK_
 
 ##### Finance Minister
 ### [Finance Ministers from the European Union agree to giving the European Central Bank new powers to supervise euro zone banks. ](/news/2012/12/13/finance-ministers-from-the-european-union-agree-to-giving-the-european-central-bank-new-powers-to-supervise-euro-zone-banks.md)
@@ -33,11 +33,11 @@ Labour Chairman and TD Colm Keaveney is to be expelled from the parliamentary pa
 
 ##### Chief federal prosecutors
 ### [Prosecutors ask a judge of the Manhattan federal district court to sentence Peter Madoff, brother and co-conspirator of infamous scammer Bernard Madoff, to a sentence of ten years. ](/news/2012/12/13/prosecutors-ask-a-judge-of-the-manhattan-federal-district-court-to-sentence-peter-madoff-brother-and-co-conspirator-of-infamous-scammer-ber.md)
-_Context: Peter Madoff, Bernard Madoff, judge, Manhattan, chief federal prosecutors, U.S. District Judge_
+_Context: U.S. District Judge, Bernard Madoff, Manhattan, chief federal prosecutors, judge, Peter Madoff_
 
 ##### Tropical
 ### [Tropical Cyclone Evan makes landfall near the Samoan capital Apia causing at least two deaths and the declaration of a state of disaster. ](/news/2012/12/13/tropical-cyclone-evan-makes-landfall-near-the-samoan-capital-apia-causing-at-least-two-deaths-and-the-declaration-of-a-state-of-disaster.md)
-_Context: Tropical, Apia, Cyclone Evan, Samoa, landfall_
+_Context: Apia, Cyclone Evan, Samoa, Tropical, landfall_
 
 ##### Philippines
 ### [The death toll in the Philippines from Typhoon Bopha rises over 900 with hundreds still unaccounted for. ](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.md)
@@ -57,7 +57,7 @@ The nurse duped by a prank call from an Australian Radio DJs while she was carin
 
 ##### Hugo Black
 ### [A worker at the chief clerk's office (making reference to a will) at the Hugo Black U.S. Federal Courthouse in Birmingham, Alabama shoots himself in the head. ](/news/2012/12/13/a-worker-at-the-chief-clerk-s-office-making-reference-to-a-will-at-the-hugo-black-u-s-federal-courthouse-in-birmingham-alabama-shoots-hi.md)
-_Context: Birmingham, Alabama, Hugo Black_
+_Context: Hugo Black, Birmingham, Alabama_
 
 ##### Israel
 ### [Israel's Justice Ministry announces that Foreign Minister Avigdor Lieberman, while he will not face more serious money laundering and witness tampering corruption charges, will be charged with breach of trust and fraud in connection with illegally obtaining funds from shell companies which occurred prior to his Ministry service. ](/news/2012/12/13/israel-s-justice-ministry-announces-that-foreign-minister-avigdor-lieberman-while-he-will-not-face-more-serious-money-laundering-and-witnes.md)
@@ -65,7 +65,7 @@ Avigdor Lieberman charged with fraud and breach of trust but cleared of more ser
 
 ##### Bosnian
 ### [Former Bosnian intelligence chief Zdravko Tolimir, believed to be a top aide to Ratko Mladic, is sentenced to life imprisonment by ICTY for his role in the Srebrenica massacre. ](/news/2012/12/13/former-bosnian-intelligence-chief-zdravko-tolimir-believed-to-be-a-top-aide-to-ratko-mladia-is-sentenced-to-life-imprisonment-by-icty-for.md)
-_Context: Srebrenica massacre, Zdravko Tolimir, International Criminal Tribunal for the former Yugoslavia, Bosnian, Ratko Mladic, life imprisonment_
+_Context: Ratko Mladic, Srebrenica massacre, life imprisonment, International Criminal Tribunal for the former Yugoslavia, Bosnian, Zdravko Tolimir_
 
 ##### Ambassador to the United Nations
 ### [U.S. Ambassador to the United Nations Susan Rice withdraws her name from consideration to be nominated U.S. Secretary of State, following increasing opposition to her nomination by Republican members of the Senate. ](/news/2012/12/13/u-s-ambassador-to-the-united-nations-susan-rice-withdraws-her-name-from-consideration-to-be-nominated-u-s-secretary-of-state-following-in.md)
@@ -81,15 +81,15 @@ David Cameron says Culture Secretary Maria Miller has &quot;excellent answers&qu
 
 ##### 10 Downing Street
 ### [The British government pays GBP2.23 million to the family of Sami al-Saadi, who with his wife and young children, was abducted with the help of MI-6, forced onto a plane and secretly flown to Tripoli, where he was tortured for years by the security police of the former dictator Muammar Gaddafi. ](/news/2012/12/13/the-british-government-pays-agbp2-23-million-to-the-family-of-sami-al-saadi-who-with-his-wife-and-young-children-was-abducted-with-the-hel.md)
-_Context: 10 Downing Street, MI-6, Tripoli, Muammar Gaddafi_
+_Context: Tripoli, 10 Downing Street, Muammar Gaddafi, MI-6_
 
 ##### North Korea
 ### [North Korea's first satellite successfully put into orbit, Kwangmyongsong-3 Unit 2, appears to be spinning out of control, according to U.S. officials. South Korean sources later deny the report, saying the satellite appears to be orbiting Earth normally. ](/news/2012/12/13/north-korea-s-first-satellite-successfully-put-into-orbit-kwangmyangsang-3-unit-2-appears-to-be-spinning-out-of-control-according-to-u.md)
-_Context: first, South Korea, Earth, North Korea, U.S., orbit, satellite, successfully, rocket launch_
+_Context: rocket launch, U.S., South Korea, first, satellite, successfully, North Korea, Earth, orbit_
 
 ##### U.S.
 ### [U.S. space agency NASA admits it posted online a photograph taken from the International Space Station of an Indian mountain Saser Muztagh, claiming it as Mount Everest. With Nepalese netizens left puzzled by this, it took a Nepalese expert to point out the agency's inaccuracy. ](/news/2012/12/13/u-s-space-agency-nasa-admits-it-posted-online-a-photograph-taken-from-the-international-space-station-of-an-indian-mountain-saser-muztagh.md)
-_Context: Mount Everest, International Space Station, photograph, U.S., netizen, Nepal, NASA, India, Saser Muztagh_
+_Context: International Space Station, Saser Muztagh, Mount Everest, U.S., photograph, India, netizen, NASA, Nepal_
 
 ## [Previous Day...](/news/2012/12/12/index.md)
 

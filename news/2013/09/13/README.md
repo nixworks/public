@@ -25,7 +25,7 @@ _Context: Galati County, Romania_
 
 ##### Floods in the United States: 2001-present
 ### [At least four people are dead, 80 unaccounted for and thousands have been evacuated following heavy floods in Boulder County in the US state of Colorado. ](/news/2013/09/13/at-least-four-people-are-dead-80-unaccounted-for-and-thousands-have-been-evacuated-following-heavy-floods-in-boulder-county-in-the-us-state.md)
-_Context: Boulder County, Floods in the United States: 2001-present, Colorado_
+_Context: Boulder County, Colorado, Floods in the United States: 2001-present_
 
 ##### World War II
 ### [A World War II shell explodes in the Finnish town of Kemi in Lapland, killing one person and causing the evacuation of hundreds of residents. ](/news/2013/09/13/a-world-war-ii-shell-explodes-in-the-finnish-town-of-kemi-in-lapland-killing-one-person-and-causing-the-evacuation-of-hundreds-of-residents.md)
@@ -33,7 +33,7 @@ HELSINKI (Reuters) - One of several wartime artillery shells kept in a Finnish s
 
 ##### Crossville
 ### [Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. ](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.md)
-_Context: Crossville, U.S., Tennessee_
+_Context: Crossville, Tennessee, U.S._
 
 ##### India
 ### [An Indian court sentences four men to death for the 2012 Delhi gang rape case. ](/news/2013/09/13/an-indian-court-sentences-four-men-to-death-for-the-2012-delhi-gang-rape-case.md)
@@ -45,7 +45,7 @@ The gang&#039;s all here. Labor, Liberal, National - everyone is trying to remem
 
 ##### Narendra Modi
 ### [Narendra Modi is named as the Bharatiya Janata Party leader in next year's Indian general election. ](/news/2013/09/13/narendra-modi-is-named-as-the-bharatiya-janata-party-leader-in-next-year-s-indian-general-election.md)
-_Context: Narendra Modi, Bharatiya Janata Party, Indian general election_
+_Context: Indian general election, Bharatiya Janata Party, Narendra Modi_
 
 ## [Previous Day...](/news/2013/09/12/index.md)
 

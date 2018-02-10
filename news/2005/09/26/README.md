@@ -13,11 +13,11 @@ _Context: school, Iraqi insurgency, Baghdad, Iskandariya_
 
 ##### Israeli-Palestinian conflict
 ### [ Israeli-Palestinian conflict: Israeli Airstrikes on Palestinian targets continue, with the Israel Defense Forces firing missiles in Gaza, knocking out the power supply to the East of the city, the Khan Yunis refugee camp and Rafah. Hamas had earlier declared an end to rocket attacks following pressure from the Palestinian National Authority and Egypt. ](/news/2005/09/26/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-targets-continue-with-the-israel-defense-forces-firing-missiles-in-gaza-k.md)
-_Context: Israel Defense Forces, Egypt, Israel, Gaza Strip, Hamas, Palestine, Khan Yunis, Airstrike, Palestinian Authority, Rafah, Israeli-Palestinian conflict_
+_Context: Gaza Strip, Palestine, Palestinian Authority, Israel Defense Forces, Egypt, Airstrike, Hamas, Israeli-Palestinian conflict, Rafah, Israel, Khan Yunis_
 
 ##### Israel
 ### [ An Israeli citizen from an Israeli settlement east of Jerusalem was found murdered in Ramallah after Hamas killed the man they accused of being a member of the Shabak. ](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.md)
-_Context: Jerusalem, Shin Bet's, Israel, Israeli settlement, Ramallah, Hamas_
+_Context: Jerusalem, Ramallah, Hamas, Israel, Israeli settlement, Shin Bet's_
 
 ## [Previous Day...](/news/2005/09/25/index.md)
 

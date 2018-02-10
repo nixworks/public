@@ -21,11 +21,11 @@ Government says 88 people, including Saudis and Yemenis, held on suspicion of pl
 
 ##### Syrian Civil War
 ### [ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md)
-_Context: ISIL, Syrian Civil War, Steven Sotloff_
+_Context: ISIL, Steven Sotloff, Syrian Civil War_
 
 ##### Iraqi insurgency (2011-present)
 ### [The United States sends an additional 250 US troops to protect American personnel. ](/news/2014/09/2/the-united-states-sends-an-additional-250-us-troops-to-protect-american-personnel.md)
-_Context: United States, Iraqi insurgency (2011-present)_
+_Context: Iraqi insurgency (2011-present), United States_
 
 ##### President of Kenya
 ### [Former Kenyan presidential candidate Quincy Timberlake is charged with murder in the Australian city of Brisbane. ](/news/2014/09/2/former-kenyan-presidential-candidate-quincy-timberlake-is-charged-with-murder-in-the-australian-city-of-brisbane.md)
@@ -37,7 +37,7 @@ The FBI has announced that it will be investigating a hack that leaked celebriti
 
 ##### Impeachment in the Philippines
 ### [The impeachment cases against Benigno Aquino III are scrapped by the Philippine Congress, where his party currently holds the majority. ](/news/2014/09/2/the-impeachment-cases-against-benigno-aquino-iii-are-scrapped-by-the-philippine-congress-where-his-party-currently-holds-the-majority.md)
-_Context: his predecessor, Impeachment in the Philippines, party, Congress of the Philippines_
+_Context: party, Congress of the Philippines, Impeachment in the Philippines, his predecessor_
 
 ## [Previous Day...](/news/2014/09/1/index.md)
 

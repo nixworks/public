@@ -9,27 +9,27 @@ _Context: TGV train, world's fastest conventional train, LGV Est_
 
 ##### Suicide attack
 ### [ A suicide truck bomb kills at least 15 people in Baghdad. ](/news/2007/02/13/a-suicide-truck-bomb-kills-at-least-15-people-in-baghdad.md)
-_Context: suicide attack, car bomb, Baghdad_
+_Context: Baghdad, suicide attack, car bomb_
 
 ##### Netherlands
 ### [ Dutch oil-trading company Trafigura agrees to pay the Cte d'Ivoire government $198 million to clean up a 2006 toxic waste spill which led to the deaths of 10 people. ](/news/2007/02/13/dutch-oil-trading-company-trafigura-agrees-to-pay-the-cote-d-ivoire-government-198-million-to-clean-up-a-2006-toxic-waste-spill-which-led.md)
-_Context: oil, 2006 toxic waste spill, Cte d'Ivoire, Netherlands, USD, government, Trafigura_
+_Context: Netherlands, Cte d'Ivoire, USD, 2006 toxic waste spill, government, Trafigura, oil_
 
 ##### Iran
 ### [ Iranian President Mahmoud Ahmadinejad says his administration is open to negotiations regarding its nuclear program. ](/news/2007/02/13/iranian-president-mahmoud-ahmadinejad-says-his-administration-is-open-to-negotiations-regarding-its-nuclear-program.md)
-_Context: Iranian government, Iran, nuclear program, Mahmoud Ahmadinejad, President_
+_Context: nuclear program, President, Iranian government, Iran, Mahmoud Ahmadinejad_
 
 ##### 2008
 ### [ United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney (R) formally announces his candidacy for president. ](/news/2007/02/13/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-r-formally-announces-his-candidacy-for-president.md)
-_Context: U.S. President, Mitt Romney, 2008, Massachusetts governor, Republican_
+_Context: U.S. President, Mitt Romney, Massachusetts governor, 2008, Republican_
 
 ##### Tornado
 ### [ A tornado strikes New Orleans, Louisiana leaving one dead and three people injured. ](/news/2007/02/13/a-tornado-strikes-new-orleans-louisiana-leaving-one-dead-and-three-people-injured.md)
-_Context: New Orleans, tornado, Louisiana_
+_Context: tornado, Louisiana, New Orleans_
 
 ##### Berlin
 ### [ A small business jet heading to Berlin, Germany crashes during take-off at Vnukovo airport in Moscow, Russia. ](/news/2007/02/13/a-small-business-jet-heading-to-berlin-germany-crashes-during-take-off-at-vnukovo-airport-in-moscow-russia.md)
-_Context: Russia, Moscow, Vnukovo airport, Berlin, German_
+_Context: German, Moscow, Vnukovo airport, Russia, Berlin_
 
 ##### Ma Ying-jeou
 ### [ Ma Ying-jeou, the party chairman of the Kuomintang, resigns after being indicted by the Taiwan High Prosecutors Office on charges of embezzlement during his tenure as the mayor of Taipei. ](/news/2007/02/13/ma-ying-jeou-the-party-chairman-of-the-kuomintang-resigns-after-being-indicted-by-the-taiwan-high-prosecutors-office-on-charges-of-embezz.md)
@@ -41,15 +41,15 @@ _Context: Kosovo_
 
 ##### Japan
 ### [ Japan holds an international conference to push for the resumption of commercial whaling. Anti-whaling nations in the International Whaling Commission such as the United States, United Kingdom and Australia have boycotted the conference. ](/news/2007/02/13/japan-holds-an-international-conference-to-push-for-the-resumption-of-commercial-whaling-anti-whaling-nations-in-the-international-whaling.md)
-_Context: Australia, United Kingdom, whaling, International Whaling Commission, Japan, United States, boycott_
+_Context: United States, boycott, whaling, United Kingdom, Australia, International Whaling Commission, Japan_
 
 ##### Bikfaya
 ### [ At least three people have been killed in bomb blasts that hit two buses in the village of Bikfaya near Beirut, Lebanon. ](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.md)
-_Context: Bikfaya, Beirut, Lebanon_
+_Context: Beirut, Lebanon, Bikfaya_
 
 ##### World Bank
 ### [ The World Bank has approved construction of the Baglihar Dam on the Chenab River in Indian-administered Kashmir. ](/news/2007/02/13/the-world-bank-has-approved-construction-of-the-baglihar-dam-on-the-chenab-river-in-indian-administered-kashmir.md)
-_Context: India, Kashmir, Chenab River, Baglihar Dam, World Bank_
+_Context: Baglihar Dam, India, Chenab River, Kashmir, World Bank_
 
 ## [Previous Day...](/news/2007/02/12/index.md)
 

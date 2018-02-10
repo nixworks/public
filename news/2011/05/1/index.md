@@ -29,7 +29,7 @@ _Context: Afghanistan, Taliban_
 
 ##### Tear gas
 ### [Police use tear gas and batons on people protesting against their government in Maldives. ](/news/2011/05/1/police-use-tear-gas-and-batons-on-people-protesting-against-their-government-in-maldives.md)
-_Context: tear gas, Maldives, baton_
+_Context: baton, tear gas, Maldives_
 
 ##### Christian
 ### [A crowd of hundreds of people attack a Christian seminary, a church and houses of local Christians in Gujranwala, Pakistan, after finding out that two Christians who had been accused of blasphemy have been released from protective custody by the police. ](/news/2011/05/1/a-crowd-of-hundreds-of-people-attack-a-christian-seminary-a-church-and-houses-of-local-christians-in-gujranwala-pakistan-after-finding-ou.md)
@@ -41,15 +41,15 @@ Thousands of Holocaust survivors and Israelis Sunday mourned the 6 million Jews 
 
 ##### Pope
 ### [Pope John Paul II is beatified by Pope Benedict XVI in Saint Peter's Square, Rome. ](/news/2011/05/1/pope-john-paul-ii-is-beatified-by-pope-benedict-xvi-in-saint-peter-s-square-rome.md)
-_Context: Pope Benedict XVI, Saint Peter's Square, Pope, Pope John Paul II, beatified, Rome, Italy_
+_Context: Pope Benedict XVI, Pope John Paul II, Pope, Rome, Italy, beatified, Saint Peter's Square_
 
 ##### William Martin Morris
 ### [Pope Benedict XVI also removes William Martin Morris as the Bishop of the Roman Catholic Diocese of Toowoomba in Australia for allegedly advocating the ordination of women and married priests. ](/news/2011/05/1/pope-benedict-xvi-also-removes-william-martin-morris-as-the-bishop-of-the-roman-catholic-diocese-of-toowoomba-in-australia-for-allegedly-adv.md)
-_Context: Australia, Roman Catholic Diocese of Toowoomba, bishops, William Martin Morris_
+_Context: William Martin Morris, Roman Catholic Diocese of Toowoomba, bishops, Australia_
 
 ##### Australia
 ### [Australian television personality Karl Stefanovic wins the Gold Logie Award for Most Popular Personality on Australian Television at the Logie Awards of 2011. ](/news/2011/05/1/australian-television-personality-karl-stefanovic-wins-the-gold-logie-award-for-most-popular-personality-on-australian-television-at-the-log.md)
-_Context: Gold Logie Award for Most Popular Personality on Australian Television, Karl Stefanovic, Australia, Logie Awards of 2011_
+_Context: Karl Stefanovic, Gold Logie Award for Most Popular Personality on Australian Television, Logie Awards of 2011, Australia_
 
 ##### National Association of Head Teachers
 ### [British head teachers vote 99.6 per cent in favour of staging a ballot on a strike over pension cuts in what would be a first national strike by the National Association of Head Teachers (NAHT). ](/news/2011/05/1/british-head-teachers-vote-99-6-per-cent-in-favour-of-staging-a-ballot-on-a-strike-over-pension-cuts-in-what-would-be-a-first-national-strik.md)
@@ -65,15 +65,15 @@ Hundreds of thousands of Cubans turn out for May Day parades in what was billed 
 
 ##### IAEA
 ### [The International Atomic Energy Agency is sending a team to Japan this month to inspect the crippled Fukushima nuclear plants and will present its preliminary evaluation of the crisis in June.](/news/2011/05/1/the-international-atomic-energy-agency-is-sending-a-team-to-japan-this-month-to-inspect-the-crippled-fukushima-nuclear-plants-and-will-prese.md)
-_Context: Japan, Fukushima I nuclear accidents, IAEA_
+_Context: Fukushima I nuclear accidents, IAEA, Japan_
 
 ##### Flight Data Recorder
 ### [The Memory Unit of the Flight Data Recorder from Air France 447 is recovered from the bottom of the Atlantic Ocean, nearly two years after the jet crashed. ](/news/2011/05/1/the-memory-unit-of-the-flight-data-recorder-from-air-france-447-is-recovered-from-the-bottom-of-the-atlantic-ocean-nearly-two-years-after-t.md)
-_Context: Flight Data Recorder, Air France 447, Atlantic Ocean_
+_Context: Flight Data Recorder, Atlantic Ocean, Air France 447_
 
 ##### Indian Air Force
 ### [The Indian Air Force searches unsuccessfully for a helicopter containing Dorjee Khandu, the Chief Minister of Arunachal Pradesh state and four others. ](/news/2011/05/1/the-indian-air-force-searches-unsuccessfully-for-a-helicopter-containing-dorjee-khandu-the-chief-minister-of-arunachal-pradesh-state-and-fo.md)
-_Context: Arunachal Pradesh, helicopter, Indian Air Force, Dorjee Khandu, Chief Minister_
+_Context: Chief Minister, Dorjee Khandu, Arunachal Pradesh, helicopter, Indian Air Force_
 
 ##### Blog
 ### [Police investigate a blogger Teacher Wang for fraud after he predicts a magnitude-14 earthquake and 170m (560ft) high tsunami is to strike Taiwan on 11 May, toppling the Taipei 101 skyscraper and Presidential Office building. The prediction is removed from the internet. ](/news/2011/05/1/police-investigate-a-blogger-teacher-wang-for-fraud-after-he-predicts-a-magnitude-14-earthquake-and-170m-560ft-high-tsunami-is-to-strike-t.md)
@@ -97,7 +97,7 @@ _Context: Police, al-Qaeda_
 
 ##### China
 ### [China outlaws smoking in public places, affecting one third of smokers internationally. ](/news/2011/05/1/china-outlaws-smoking-in-public-places-affecting-one-third-of-smokers-internationally.md)
-_Context: China, smokers_
+_Context: smokers, China_
 
 ##### Iran
 ### [Iranian President Mahmoud Ahmadinejad is to end a boycott of official duties, amid an apparent rift with the Supreme Leader Ayatollah Ali Khamenei. ](/news/2011/05/1/iranian-president-mahmoud-ahmadinejad-is-to-end-a-boycott-of-official-duties-amid-an-apparent-rift-with-the-supreme-leader-ayatollah-ali-kh.md)

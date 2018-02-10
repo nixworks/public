@@ -9,7 +9,7 @@ Germany&#x27;s Siemens AG (SIEGn.DE) has agreed to buy U.S. The acquisition, whi
 
 ##### German
 ### [German pharmaceutical company Merck KGaA agrees to buy American chemical company Sigma-Aldrich for US$17 billion. ](/news/2014/09/22/german-pharmaceutical-company-merck-kgaa-agrees-to-buy-american-chemical-company-sigma-aldrich-for-us-17-billion.md)
-_Context: German, Merck KGaA, $, Sigma-Aldrich_
+_Context: $, Merck KGaA, Sigma-Aldrich, German_
 
 ##### Malaysia
 ### [Malaysia-based company Aegis Limited is criticized by the government of the Philippines for creating an advertisement that attacks the country. ](/news/2014/09/22/malaysia-based-company-aegis-limited-is-criticized-by-the-government-of-the-philippines-for-creating-an-advertisement-that-attacks-the-count.md)
@@ -17,7 +17,7 @@ The BPO firm says the video was outsourced to another agency
 
 ##### Fiji First Party
 ### [The Fiji First Party led by Voreqe Bainimarama wins 32 out of 50 seats in the Parliament in last week's general election. ](/news/2014/09/22/the-fiji-first-party-led-by-voreqe-bainimarama-wins-32-out-of-50-seats-in-the-parliament-in-last-week-s-general-election.md)
-_Context: Parliament, Fiji First Party, democratic elections, Voreqe Bainimarama_
+_Context: Parliament, Voreqe Bainimarama, democratic elections, Fiji First Party_
 
 ##### Hong Kong
 ### [Students from more than 20 universities and colleges in Hong Kong are boycotting class in protest against Beijing's decision to rule out fully democratic elections. ](/news/2014/09/22/students-from-more-than-20-universities-and-colleges-in-hong-kong-are-boycotting-class-in-protest-against-beijingas-decision-to-rule-out-f.md)
@@ -25,7 +25,7 @@ Week-long boycott of classes in protest against Beijing’s decision to rule out
 
 ##### NASA
 ### [NASA's MAVEN space probe successfully arrives in orbit over Mars. ](/news/2014/09/22/nasa-s-maven-space-probe-successfully-arrives-in-orbit-over-mars.md)
-_Context: Mars, MAVEN, NASA_
+_Context: Mars, NASA, MAVEN_
 
 ## [Previous Day...](/news/2014/09/21/index.md)
 

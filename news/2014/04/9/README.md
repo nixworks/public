@@ -17,7 +17,7 @@ Pro-Russian separatists reinforced barricades around the state security building
 
 ##### Toyota
 ### [Toyota announces that it will recall nearly 6.5 million vehicles due to steering and other faults. ](/news/2014/04/9/toyota-announces-that-it-will-recall-nearly-6-5-million-vehicles-due-to-steering-and-other-faults.md)
-_Context: recall, Toyota_
+_Context: Toyota, recall_
 
 ##### Microsoft
 ### [Microsoft officially concludes Windows XP after 12 years of support. ](/news/2014/04/9/microsoft-officially-concludes-windows-xp-after-12-years-of-support.md)

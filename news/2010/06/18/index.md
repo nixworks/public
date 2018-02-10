@@ -13,7 +13,7 @@ Rescuers in Colombia resume work to free dozens of miners trapped underground, b
 
 ##### Kyrgyzstan
 ### [Interim Kyrgyzstan leader Roza Otunbayeva visits Osh and says the death toll from her country's worst ethnic clashes in two decades could be 2,000. ](/news/2010/06/18/interim-kyrgyzstan-leader-roza-otunbayeva-visits-osh-and-says-the-death-toll-from-her-country-s-worst-ethnic-clashes-in-two-decades-could-be.md)
-_Context: Roza Otunbayeva, Osh, Kyrgyzstan_
+_Context: Roza Otunbayeva, Kyrgyzstan, Osh_
 
 ##### India
 ### [Indian Muslim television preacher Zakir Naik is banned from entry into the United Kingdom for what is described as "unacceptable behaviour". He was due to lecture in Sheffield and London. ](/news/2010/06/18/indian-muslim-television-preacher-zakir-naik-is-banned-from-entry-into-the-united-kingdom-for-what-is-described-as-unacceptable-behaviour.md)
@@ -25,11 +25,11 @@ Palestinian president urges George Mitchell to press Israel to lift its blockade
 
 ##### International Monetary Fund
 ### [International Monetary Fund (IMF) head Dominique Strauss-Kahn meets with Prime Minister of Spain Jose Luis Rodriguez Zapatero in Madrid. ](/news/2010/06/18/international-monetary-fund-imf-head-dominique-strauss-kahn-meets-with-prime-minister-of-spain-josa-c-luis-rodraguez-zapatero-in-madrid.md)
-_Context: Jose Luis Rodriguez Zapatero, Dominique Strauss-Kahn, Prime Minister, International Monetary Fund, Madrid_
+_Context: International Monetary Fund, Dominique Strauss-Kahn, Prime Minister, Jose Luis Rodriguez Zapatero, Madrid_
 
 ##### President of Sri Lanka
 ### [President of Sri Lanka Mahinda Rajapaksa responds in a speech at a commemorative military pageant to critics of the army who say human rights abuses were committed against civilians during the 2009 defeat of the Liberation Tigers of Tamil Eelam rebels. ](/news/2010/06/18/president-of-sri-lanka-mahinda-rajapaksa-responds-in-a-speech-at-a-commemorative-military-pageant-to-critics-of-the-army-who-say-human-right.md)
-_Context: LTTE, President of Sri Lanka, Mahinda Rajapaksa_
+_Context: Mahinda Rajapaksa, President of Sri Lanka, LTTE_
 
 ##### The Gambia
 ### [Two former military chiefs in The Gambia are charged over an alleged plot to remove President Yahya Jammeh from office in 2006; critics say the government is manipulating coup allegations for its own gain. ](/news/2010/06/18/two-former-military-chiefs-in-the-gambia-are-charged-over-an-alleged-plot-to-remove-president-yahya-jammeh-from-office-in-2006-critics-say.md)
@@ -37,7 +37,7 @@ Two ex-military chiefs in The Gambia are charged over an alleged plot to oust Pr
 
 ##### Polish presidential election, 2010
 ### [The Polish presidential election is being held earlier, following the death of Polish President Lech Kaczynski in a plane crash on 10 April 2010 near Smolensk. The two front-runners are Bronislaw Komorowski from the ruling center-right Civic Platform (Platforma Obywatelska) party and Jaroslaw Kaczynski from the right-wing Law and Justice (Prawo i Sprawiedliwosc) party. ](/news/2010/06/18/the-polish-presidential-election-is-being-held-earlier-following-the-death-of-polish-president-lech-kaczyaski-in-a-plane-crash-on-10-april.md)
-_Context: Polish presidential election, 2010, PiS, 2010 Polish Air Force Tu-154 crash, Lech Kaczynski, the death, Civic Platform, Bronislaw Komorowski, Smolensk, Jaroslaw Kaczynski_
+_Context: Jaroslaw Kaczynski, 2010 Polish Air Force Tu-154 crash, PiS, the death, Bronislaw Komorowski, Civic Platform, Polish presidential election, 2010, Lech Kaczynski, Smolensk_
 
 ##### India
 ### [Indian government ministers meet for the first time as they re-examine the 1984 Bhopal disaster. ](/news/2010/06/18/indian-government-ministers-meet-for-the-first-time-as-they-re-examine-the-1984-bhopal-disaster.md)
@@ -45,7 +45,7 @@ Indian government ministers who are re-examining the 1984 Bhopal gas disaster ho
 
 ##### Indonesia
 ### [A landslide triggered by torrential rain kills 8 people in Indonesia's eastern province of Maluku; bodies are found in Batugantung Dalam. ](/news/2010/06/18/a-landslide-triggered-by-torrential-rain-kills-8-people-in-indonesia-s-eastern-province-of-maluku-bodies-are-found-in-batugantung-dalam.md)
-_Context: Batugantung Dalam, Maluku, Indonesia_
+_Context: Indonesia, Maluku, Batugantung Dalam_
 
 ##### Abu Ghraib
 ### [8 people are killed and 8 others wounded in two attacks in the Abu Ghraib area west of Baghdad. ](/news/2010/06/18/8-people-are-killed-and-8-others-wounded-in-two-attacks-in-the-abu-ghraib-area-west-of-baghdad.md)
@@ -57,7 +57,7 @@ Portuguese novelist Jose Saramago, who won the Nobel Prize for literature in 199
 
 ##### Iran nuclear chief
 ### [The Atomic Energy Organization of Iran (AEOI) starts designing a newer and a more powerful nuclear research reactor than the current Tehran reactor, according to AEOI director Ali Akbar Salehi. ](/news/2010/06/18/the-atomic-energy-organization-of-iran-aeoi-starts-designing-a-newer-and-a-more-powerful-nuclear-research-reactor-than-the-current-tehran.md)
-_Context: Iran nuclear chief, Tehran, Ali Akbar Salehi, nuclear research reactor_
+_Context: Ali Akbar Salehi, Iran nuclear chief, Tehran, nuclear research reactor_
 
 ##### United States
 ### [The United States welcomes alleged genocide denial lawyer Peter Erlinder's release on health grounds by Rwanda. ](/news/2010/06/18/the-united-states-welcomes-alleged-genocide-denial-lawyer-peter-erlinder-s-release-on-health-grounds-by-rwanda.md)
@@ -65,11 +65,11 @@ The US welcomes the release by a Rwandan court of genocide lawyer Peter Erlinder
 
 ##### Tornado
 ### [Two people die during a series of tornadoes in Wadena and Otter Tail County, Minnesota, United States. ](/news/2010/06/18/two-people-die-during-a-series-of-tornadoes-in-wadena-and-otter-tail-county-minnesota-united-states.md)
-_Context: United States, Wadena, Otter Tail County, Minnesota, tornado_
+_Context: Wadena, Otter Tail County, Minnesota, United States, tornado_
 
 ##### FIFA
 ### [FIFA receives a complaint about its security after a football fan breaks into the dressing room of the England national football team during a 2010 FIFA World Cup game in which the team were booed in South Africa. ](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.md)
-_Context: South Africa, England, 2010 FIFA World Cup, FIFA_
+_Context: South Africa, FIFA, 2010 FIFA World Cup, England_
 
 ##### John Lennon
 ### [John Lennon's handwritten lyrics to "A Day in the Life" sell for $1.2 million at Sotheby's. ](/news/2010/06/18/john-lennon-s-handwritten-lyrics-to-a-day-in-the-life-sell-for-1-2-million-at-sotheby-s.md)

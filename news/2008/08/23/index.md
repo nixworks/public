@@ -9,7 +9,7 @@ _Context: War in Somalia (2006-09), Somalia, Elasha_
 
 ##### War in North-West Pakistan
 ### [ A suicide bomber attacks a police station in Swat, NWFP, killing at least six officers and injuring several more. ](/news/2008/08/23/a-suicide-bomber-attacks-a-police-station-in-swat-nwfp-killing-at-least-six-officers-and-injuring-several-more.md)
-_Context: Swat, Pakistan, Northwestern Pakistan, War in North-West Pakistan_
+_Context: Northwestern Pakistan, Swat, Pakistan, War in North-West Pakistan_
 
 ##### 2008 South Ossetia war
 ### [ Russia announces that its military has pulled out of Georgia, although reports indicate that it has not complied with the cease-fire agreement. ](/news/2008/08/23/russia-announces-that-its-military-has-pulled-out-of-georgia-although-reports-indicate-that-it-has-not-complied-with-the-cease-fire-agreem.md)
@@ -21,15 +21,15 @@ Tropical Storm Fay was downgraded to a tropical depression Saturday night, but c
 
 ##### King Air A-100
 ### [ A King Air A-100 crashes near Moab, Utah, USA, resulting in the death of the pilot and nine passengers. ](/news/2008/08/23/a-king-air-a-100-crashes-near-moab-utah-usa-resulting-in-the-death-of-the-pilot-and-nine-passengers.md)
-_Context: USA, King Air A-100, Moab, Utah_
+_Context: King Air A-100, Moab, Utah, USA_
 
 ##### United States
 ### [ The United States Department of Health and Human Services announces plans to implement a rule that would protect healthcare workers from being fired or otherwise penalized for refusing to provide services they find morally objectionable, such as performing abortions or dispensing contraception. ](/news/2008/08/23/the-united-states-department-of-health-and-human-services-announces-plans-to-implement-a-rule-that-would-protect-healthcare-workers-from-be.md)
-_Context: abortion, contraception, U.S. Health and Human Services Department's, United States_
+_Context: U.S. Health and Human Services Department's, contraception, United States, abortion_
 
 ##### 2008
 ### [ U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. ](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.md)
-_Context: 2008, Joe Biden, running mate, United States Senate, Barack Obama_
+_Context: 2008, Barack Obama, running mate, United States Senate, Joe Biden_
 
 ## [Previous Day...](/news/2008/08/22/index.md)
 

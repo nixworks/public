@@ -5,7 +5,7 @@ Formats: [HTML](2009/04/22/index.html)  [JSON](2009/04/22/index.json)  [XML](200
 
 ##### United Kingdom
 ### [ The United Kingdom's new government budget will increase borrowing and tax high-income earners to 50%. ](/news/2009/04/22/the-united-kingdom-s-new-government-budget-will-increase-borrowing-and-tax-high-income-earners-to-50.md)
-_Context: His Majesty's Government, tax, borrowing, budget, United Kingdom, high-income earners_
+_Context: borrowing, tax, high-income earners, United Kingdom, budget, His Majesty's Government_
 
 ##### South Africa
 ### [ South Africa's general election begins. ](/news/2009/04/22/south-africa-s-general-election-begins.md)
@@ -13,15 +13,15 @@ _Context: South Africa, loses_
 
 ##### Naxalite
 ### [ The Naxalite movement releases 500 hostages from a hijacked train in Latehar, India. ](/news/2009/04/22/the-naxalite-movement-releases-500-hostages-from-a-hijacked-train-in-latehar-india.md)
-_Context: Latehar, hostage, Naxalite, India, Naxalite-Maoist insurgency_
+_Context: India, hostage, Latehar, Naxalite-Maoist insurgency, Naxalite_
 
 ##### Argentina
 ### [ Argentina claims 1700000 km2 of the World Ocean. ](/news/2009/04/22/argentina-claims-1700000-km2-of-the-world-ocean.md)
-_Context: World Ocean, Argentina, claims_
+_Context: Argentina, World Ocean, claims_
 
 ##### Japan
 ### [ Japan reports its first annual trade deficit since 1981. ](/news/2009/04/22/japan-reports-its-first-annual-trade-deficit-since-1981.md)
-_Context: trade surplus, Economy of Japan, Japan_
+_Context: trade surplus, Japan, Economy of Japan_
 
 ## [Previous Day...](/news/2009/04/21/index.md)
 

@@ -5,15 +5,15 @@ Formats: [HTML](2011/09/5/index.html)  [JSON](2011/09/5/index.json)  [XML](2011/
 
 ##### Turkey
 ### [Turkish air force strikes kill four members of the PKK in Northern Iraq. ](/news/2011/09/5/turkish-air-force-strikes-kill-four-members-of-the-pkk-in-northern-iraq.md)
-_Context: Turkish Air Force, Turkey, Kurdistan Workers' Party, Kurdish_
+_Context: Turkey, Kurdistan Workers' Party, Kurdish, Turkish Air Force_
 
 ##### Iran
 ### [One person is killed and two injured by Iranian artillery shelling near the Iraqi border town of Siydah Khan, near Arbil. ](/news/2011/09/5/one-person-is-killed-and-two-injured-by-iranian-artillery-shelling-near-the-iraqi-border-town-of-siydah-khan-near-arbil.md)
-_Context: Iraq, Iran, Arbil_
+_Context: Iran, Arbil, Iraq_
 
 ##### Sky News
 ### [Sky News reports that 30,000 Libyans may be missing as a result of the civil war. ](/news/2011/09/5/sky-news-reports-that-30-000-libyans-may-be-missing-as-a-result-of-the-civil-war.md)
-_Context: civil war, Sky News, Libya_
+_Context: Libya, Sky News, civil war_
 
 ##### Mosque
 ### [A mosque in the Palestinian village of Kasra, north of Jerusalem, is attacked overnight, residents say. ](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-north-of-jerusalem-is-attacked-overnight-residents-say.md)
@@ -25,11 +25,11 @@ _Context: Pakistan, Younis al-Mauritani_
 
 ##### Libya
 ### [A convoy of troops loyal to former Libyan leader Muammar Gaddafi crosses the border with Niger arriving in Agadez. ](/news/2011/09/5/a-convoy-of-troops-loyal-to-former-libyan-leader-muammar-gaddafi-crosses-the-border-with-niger-arriving-in-agadez.md)
-_Context: Agadez, Libya, Muammar Gaddafi, Niger_
+_Context: Niger, Agadez, Muammar Gaddafi, Libya_
 
 ##### Typhoon Talas
 ### [Rescuers in Japan look for survivors of Typhoon Talas, which has killed at least 35 people, with the Wakayama Prefecture on the Kii Peninsula the worst affected. ](/news/2011/09/5/rescuers-in-japan-look-for-survivors-of-typhoon-talas-which-has-killed-at-least-35-people-with-the-wakayama-prefecture-on-the-kii-peninsul.md)
-_Context: Typhoon Talas, Kii Peninsula, Wakayama Prefecture_
+_Context: Kii Peninsula, Wakayama Prefecture, Typhoon Talas_
 
 ##### 2011 Somalian famine
 ### [The 2011 Somalian famine, which has killed 30,000 children and tens of thousands more adults, spreads to the Bay Region of Somalia. ](/news/2011/09/5/the-2011-somalian-famine-which-has-killed-30-000-children-and-tens-of-thousands-more-adults-spreads-to-the-bay-region-of-somalia.md)

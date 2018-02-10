@@ -5,7 +5,7 @@ Formats: [HTML](2014/01/18/index.html)  [JSON](2014/01/18/index.json)  [XML](201
 
 ##### Iran
 ### [An Iranian diplomat is killed in Yemen's capital Sana'a when he resisted gunmen who were trying to kidnap him near the ambassador's residence. ](/news/2014/01/18/an-iranian-diplomat-is-killed-in-yemen-s-capital-sana-a-when-he-resisted-gunmen-who-were-trying-to-kidnap-him-near-the-ambassador-s-residenc.md)
-_Context: Yemen, Sana'a, Iran_
+_Context: Sana'a, Iran, Yemen_
 
 ##### Russia
 ### [Seven suspected militants are killed by Russian security forces in a shootout near Makhachkala in Dagestan. ](/news/2014/01/18/seven-suspected-militants-are-killed-by-russian-security-forces-in-a-shootout-near-makhachkala-in-dagestan.md)
@@ -21,15 +21,15 @@ A 16-year-old boy from Bristol has set a new world record by becoming the younge
 
 ##### Belden Namah
 ### [A warrant is issued for the arrest of Belden Namah, the Leader of the Opposition in Papua New Guinea over claims he threatened the police commissioner in a letter. ](/news/2014/01/18/a-warrant-is-issued-for-the-arrest-of-belden-namah-the-leader-of-the-opposition-in-papua-new-guinea-over-claims-he-threatened-the-police-co.md)
-_Context: Papua New Guinea, Belden Namah_
+_Context: Belden Namah, Papua New Guinea_
 
 ##### Autopsy
 ### [An autopsy finds Sunanda Pushkar, the wife of Indian cabinet minister Shashi Tharoor found dead in her hotel room on Friday, had died a "sudden and unnatural death". ](/news/2014/01/18/an-autopsy-finds-sunanda-pushkar-the-wife-of-indian-cabinet-minister-shashi-tharoor-found-dead-in-her-hotel-room-on-friday-had-died-a-sud.md)
-_Context: Sunanda Pushkar, autopsy, India, Shashi Tharoor_
+_Context: autopsy, Shashi Tharoor, India, Sunanda Pushkar_
 
 ##### Egyptian constitutional referendum, 2014
 ### [Egypt's election council claims that 98.1% of voters supported the new military-backed constitution with a 38.6% turnout. ](/news/2014/01/18/egypt-s-election-council-claims-that-98-1-of-voters-supported-the-new-military-backed-constitution-with-a-38-6-turnout.md)
-_Context: Egypt, Egyptian constitutional referendum, 2014, constitution, Egyptian military_
+_Context: Egyptian military, Egyptian constitutional referendum, 2014, Egypt, constitution_
 
 ## [Previous Day...](/news/2014/01/17/index.md)
 

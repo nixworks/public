@@ -13,7 +13,7 @@ The office of Libyan PM Abdurrahim al-Keib is attacked by ex-rebels demanding co
 
 ##### Paul Simon
 ### [Paul Simon and Yo-Yo Ma are awarded the Polar Music Prize. ](/news/2012/05/8/paul-simon-and-yo-yo-ma-are-awarded-the-polar-music-prize.md)
-_Context: Polar Music Prize, Yo-Yo Ma, Paul Simon_
+_Context: Yo-Yo Ma, Polar Music Prize, Paul Simon_
 
 ##### Beijing
 ### [A court in Beijing intends to hear artist and dissident Ai Weiwei, held and gagged on charges of tax evasion by the People's Republic of China. ](/news/2012/05/8/a-court-in-beijing-intends-to-hear-artist-and-dissident-ai-weiwei-held-and-gagged-on-charges-of-tax-evasion-by-the-people-s-republic-of-chi.md)
@@ -29,7 +29,7 @@ A Palestinian who has been on hunger strike for 71 days in protest at his detent
 
 ##### South Africa
 ### [A South African court rules that the country is obliged under international law to investigate human rights abuses in Zimbabwe. ](/news/2012/05/8/a-south-african-court-rules-that-the-country-is-obliged-under-international-law-to-investigate-human-rights-abuses-in-zimbabwe.md)
-_Context: international law, Human rights in Zimbabwe, Zimbabwe, South Africa_
+_Context: Zimbabwe, international law, South Africa, Human rights in Zimbabwe_
 
 ##### Al Jazeera
 ### [Al Jazeera closes its English-language bureau in China after its reporter Melissa Chan is expelled from the country. ](/news/2012/05/8/al-jazeera-closes-its-english-language-bureau-in-china-after-its-reporter-melissa-chan-is-expelled-from-the-country.md)
@@ -41,7 +41,7 @@ A Thai man in his 60s who was jailed for 20 years for sending text messages deem
 
 ##### CIA
 ### [A CIA double agent was involved in a foiled bomb plot by Al-Qaeda in the Arabian Peninsula to blow up an U.S.-bound flight, according to government officials. ](/news/2012/05/8/a-cia-double-agent-was-involved-in-a-foiled-bomb-plot-by-al-qaeda-in-the-arabian-peninsula-to-blow-up-an-u-s-bound-flight-according-to-gov.md)
-_Context: CIA, al-Qaida, double agent_
+_Context: al-Qaida, CIA, double agent_
 
 ##### New York Court of Appeals
 ### [The New York Court of Appeals, in The People v. James Kent, rules that merely viewing child pornography (or having a cache of it, as on a cell phone), despite its offensiveness, is not in itself illegal in the state, so long as one is not aware of the cache or did not download the images ono a drive in order to view them; state legislators have stated they will work to close those loopholes through formulation of legislation. Distribution, production, and purposeful possession would still be illegal.](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.md)
@@ -57,7 +57,7 @@ Late-night political drama: Early elections averted as Likud, Kadima agree on un
 
 ##### Burma
 ### [Burmese opposition leader Aung San Suu Kyi is given a passport for the first time in 24 years. ](/news/2012/05/8/burmese-opposition-leader-aung-san-suu-kyi-is-given-a-passport-for-the-first-time-in-24-years.md)
-_Context: passport, Aung San Suu Kyi, Burma_
+_Context: Aung San Suu Kyi, passport, Burma_
 
 ##### United States elections
 ### [The U.S. state of North Carolina bans same-sex marriage. ](/news/2012/05/8/the-u-s-state-of-north-carolina-bans-same-sex-marriage.md)

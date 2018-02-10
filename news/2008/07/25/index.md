@@ -13,15 +13,15 @@ Terrorists, on Friday, triggered eight serial blasts in 35 minutes at seven plac
 
 ##### Qantas Flight 30
 ### [ Qantas Flight 30 makes an emergency landing in Manila after an unknown event causes a hole in the plane. ](/news/2008/07/25/qantas-flight-30-makes-an-emergency-landing-in-manila-after-an-unknown-event-causes-a-hole-in-the-plane.md)
-_Context: Metro Manila, Qantas Flight 30_
+_Context: Qantas Flight 30, Metro Manila_
 
 ##### Google
 ### [ Google announces that it has indexed over 1 trillion unique web pages. ](/news/2008/07/25/google-announces-that-it-has-indexed-over-1-trillion-unique-web-pages.md)
-_Context: Google, indexed_
+_Context: indexed, Google_
 
 ##### Kapiliele Faupala
 ### [ Kapiliele Faupala is crowned the new King of Wallis (Uvea), succeeding the late Tomasi Kulimoetoke II, who died in 2007. ](/news/2008/07/25/kapiliele-faupala-is-crowned-the-new-king-of-wallis-uvea-succeeding-the-late-tomasi-kulimoetoke-ii-who-died-in-2007.md)
-_Context: Tomasi Kulimoetoke II, Kapiliele Faupala, King of Wallis (Uvea)_
+_Context: King of Wallis (Uvea), Kapiliele Faupala, Tomasi Kulimoetoke II_
 
 ## [Previous Day...](/news/2008/07/24/index.md)
 

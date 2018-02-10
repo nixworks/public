@@ -7,7 +7,7 @@ Formats: [HTML](2005/07/28/index.html)  [JSON](2005/07/28/index.json)  [XML](200
 ### [ Two people have died following an explosion which destroyed a train tanker carrying oil, believed to have been caused by a bomb on the tracks. [Death Toll Confirmed]](/news/2005/07/28/two-people-have-died-following-an-explosion-which-destroyed-a-train-tanker-carrying-oil-believed-to-have-been-caused-by-a-bomb-on-the-trac.md)
 ##### Israeli-Palestinian Conflict
 ### [ Israeli-Palestinian Conflict: A Palestinian man has been shot dead by Israeli soldiers, who had suspected him of involvement in a Suicide bombing. ](/news/2005/07/28/israeli-palestinian-conflict-a-palestinian-man-has-been-shot-dead-by-israeli-soldiers-who-had-suspected-him-of-involvement-in-a-suicide-b.md)
-_Context: Israeli-Palestinian Conflict, Israel, Palestinian, Suicide bomb_
+_Context: Palestinian, Israeli-Palestinian Conflict, Suicide bomb, Israel_
 
 ##### Train
 ### [ Seven people have been killed and 38 others injured in an explosion on a moving passenger train in India. ](/news/2005/07/28/seven-people-have-been-killed-and-38-others-injured-in-an-explosion-on-a-moving-passenger-train-in-india.md)
@@ -19,11 +19,11 @@ The IRA has ended its armed campaign and has ordered all its units to dump arms.
 
 ##### Tornado
 ### [ The strongest tornado in Britain in 25 years, rating a 2 on the Fujita scale, hits Birmingham, damaging homes and injuring 20 people. ](/news/2005/07/28/the-strongest-tornado-in-britain-in-25-years-rating-a-2-on-the-fujita-scale-hits-birmingham-damaging-homes-and-injuring-20-people.md)
-_Context: Birmingham, Fujita scale, United Kingdom, tornado_
+_Context: tornado, Birmingham, United Kingdom, Fujita scale_
 
 ##### Islamic Human Rights Commission
 ### [ The Islamic Human Rights Commission has released a statement which claims that the number of attacks on South Asians in the UK has risen 13 fold since the July 2005 London bombings. ](/news/2005/07/28/the-islamic-human-rights-commission-has-released-a-statement-which-claims-that-the-number-of-attacks-on-south-asians-in-the-uk-has-risen-13.md)
-_Context: Islamic Human Rights Commission, July 2005 London bombings_
+_Context: July 2005 London bombings, Islamic Human Rights Commission_
 
 ##### Uganda
 ### [ Ugandans are voting in a referendum to decide whether to readopt a multi-party system ](/news/2005/07/28/ugandans-are-voting-in-a-referendum-to-decide-whether-to-readopt-a-multi-party-system.md)
@@ -31,15 +31,15 @@ _Context: national constitutional referendum, Uganda_
 
 ##### Lal Krishna Advani
 ### [ In India, Lal Krishna Advani of the Bharatiya Janata Party and seven others are charged with inciting riots in Ayodhya in 1992 ](/news/2005/07/28/in-india-lal-krishna-advani-of-the-bharatiya-janata-party-and-seven-others-are-charged-with-inciting-riots-in-ayodhya-in-1992.md)
-_Context: Lal Krishna Advani, Bharatiya Janata Party, Ayodhya_
+_Context: Ayodhya, Lal Krishna Advani, Bharatiya Janata Party_
 
 ##### United States House of Representatives
 ### [ In the United States, the House of Representatives approves the Dominican Republic-Central America Free Trade Agreement, 217-215, sending the approved treaty to President George W. Bush. ](/news/2005/07/28/in-the-united-states-the-house-of-representatives-approves-the-dominican-republic-central-america-free-trade-agreement-217-215-sending-t.md)
-_Context: George W. Bush, Dominican Republic-Central America Free Trade Agreement, U.S. President, United States House of Representatives_
+_Context: Dominican Republic-Central America Free Trade Agreement, United States House of Representatives, U.S. President, George W. Bush_
 
 ##### Fatwa
 ### [ In the US, number of American-Muslim scholars announce a fatwa that condemns terrorism and religious extremism ](/news/2005/07/28/in-the-us-number-of-american-muslim-scholars-announce-a-fatwa-that-condemns-terrorism-and-religious-extremism.md)
-_Context: terrorism, religious extremism, fatwa_
+_Context: religious extremism, terrorism, fatwa_
 
 ##### Serbia
 ### [ In Serbia, Ljiljana Zelen-Karadzic, wife of Radovan Karadzic, goes public to ask her husband to give himself up ](/news/2005/07/28/in-serbia-ljiljana-zelen-karada3-4ia-wife-of-radovan-karada3-4ia-goes-public-to-ask-her-husband-to-give-himself-up.md)
@@ -47,7 +47,7 @@ _Context: Serbia, Radovan Karadzic_
 
 ##### Polish
 ### [ Poland recalls its ambassador to Belarus and demands that the European Union impose sanctions after Belarusian police storms the offices of the country's Polish minority ](/news/2005/07/28/poland-recalls-its-ambassador-to-belarus-and-demands-that-the-european-union-impose-sanctions-after-belarusian-police-storms-the-offices-of.md)
-_Context: Polish, Belarus, European Union, sanctions_
+_Context: Polish, sanctions, Belarus, European Union_
 
 ##### Canadian
 ### [ In Canada, gene lab confirms that alleged sasquatch hairs actually belong to a bison ](/news/2005/07/28/in-canada-gene-lab-confirms-that-alleged-sasquatch-hairs-actually-belong-to-a-bison.md)
@@ -55,7 +55,7 @@ _Context: sasquatch, bison, Canadian_
 
 ##### Bulgaria
 ### [ In Bulgaria, Bulgarian Socialist Party fails to form a government due to hung parliament. President Georgi Parvanov approaches the National Movement Simeon II of former king Simeon Saxe-Coburg-Gotha ](/news/2005/07/28/in-bulgaria-bulgarian-socialist-party-fails-to-form-a-government-due-to-hung-parliament-president-georgi-parvanov-approaches-the-national.md)
-_Context: Socialist Party, Simeon Saxe-Coburg-Gotha, Georgi Parvanov, Bulgaria, National Movement Simeon II_
+_Context: Bulgaria, Socialist Party, Simeon Saxe-Coburg-Gotha, Georgi Parvanov, National Movement Simeon II_
 
 ##### Guinea-Bissau
 ### [ In Guinea-Bissau, electoral commission declares JoGBPo Bernardo Vieira winner of the presidential election with a 52-55% majority ](/news/2005/07/28/in-guinea-bissau-electoral-commission-declares-joagbpo-bernardo-vieira-winner-of-the-presidential-election-with-a-52-55-majority.md)

@@ -13,7 +13,7 @@ _Context: Indonesia, tsunami, earthquake, magnitude_
 
 ##### United States
 ### [ United States President-elect Barack Obama resigns his Senate seat. ](/news/2008/11/16/united-states-president-elect-barack-obama-resigns-his-senate-seat.md)
-_Context: United States, Barack Obama, President-elect, United States Senate, U.S. President_
+_Context: U.S. President, United States Senate, President-elect, Barack Obama, United States_
 
 ## [Previous Day...](/news/2008/11/15/index.md)
 

@@ -9,11 +9,11 @@ After pledging to &#8220;restore trust and credibility to the White House,&#8221
 
 ##### Pakistan
 ### [ Pakistan announces the capture of Ahmed Khalfan Ghailani, only the second person on the FBI Most Wanted Terrorists list to be detained. He is wanted in connection with the 1998 U.S. embassy bombings. The US Government had offered a reward of up to $25 million for information leading to the arrest of Ghailani. ](/news/2004/07/29/pakistan-announces-the-capture-of-ahmed-khalfan-ghailani-only-the-second-person-on-the-fbi-most-wanted-terrorists-list-to-be-detained-he.md)
-_Context: Ahmed Khalfan Ghailani, FBI Most Wanted Terrorists, 1998 U.S. embassy bombings, Pakistan_
+_Context: Ahmed Khalfan Ghailani, Pakistan, FBI Most Wanted Terrorists, 1998 U.S. embassy bombings_
 
 ##### Bank of England
 ### [ The Bank of England says that consumer debt in the United Kingdom has passed one trillion pounds for the first time. Coupled with increasing interest rates, this increased amount of debt has caused a sharp rise in the number of people seeking help with money problems &ndash; up 44% on five years ago. ](/news/2004/07/29/the-bank-of-england-says-that-consumer-debt-in-the-united-kingdom-has-passed-one-trillion-pounds-for-the-first-time-coupled-with-increasin.md)
-_Context: consumer, debt, interest rate, Bank of England, GBP, trillion_
+_Context: GBP, consumer, trillion, debt, Bank of England, interest rate_
 
 ##### Sydney Opera House
 ### [ Two Australian anti-war protestors who daubed "No War" in red paint on the top sail of the Sydney Opera House on March 18, 2003, take their case to the New South Wales Court of Appeal. David Burgess, 33, and Will Saunders, 42, claim their defence of self-defence was not heard by their original trial judge. ](/news/2004/07/29/two-australian-anti-war-protestors-who-daubed-no-war-in-red-paint-on-the-top-sail-of-the-sydney-opera-house-on-march-18-2003-take-their.md)
@@ -33,7 +33,7 @@ Find a local lawyer and free legal information at FindLaw, the award-winning web
 
 ##### Monterey Bay Aquarium
 ### [ Scientists at the Monterey Bay Aquarium Research Institute announce the discovery of a new genus of deep sea worms, "Osedax" (meaning "bone devourer"). The worms feed on lipids found in the bones of whale carcasses. ](/news/2004/07/29/scientists-at-the-monterey-bay-aquarium-research-institute-announce-the-discovery-of-a-new-genus-of-deep-sea-worms-osedax-meaning-bone.md)
-_Context: Monterey Bay Aquarium, lipid, whale, Osedax_
+_Context: lipid, Monterey Bay Aquarium, Osedax, whale_
 
 ## [Previous Day...](/news/2004/07/28/index.md)
 

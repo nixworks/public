@@ -17,19 +17,19 @@ The Boston Celtics have beaten the LA Lakers 131-92 in game six of the NBA final
 
 ##### French President
 ### [ President Nicolas Sarkozy announces that France intends to return to the military structure of NATO for the first time since Charles de Gaulle led it out of the organisation in 1966. ](/news/2008/06/17/president-nicolas-sarkozy-announces-that-france-intends-to-return-to-the-military-structure-of-nato-for-the-first-time-since-charles-de-gau.md)
-_Context: Nicolas Sarkozy, 1966, French President, Charles de Gaulle, NATO, France_
+_Context: French President, France, NATO, 1966, Charles de Gaulle, Nicolas Sarkozy_
 
 ##### Military judge
 ### [ A military judge dismisses charges against a United States Marine Corps colonel of failing to investigate the Haditha killings. ](/news/2008/06/17/a-military-judge-dismisses-charges-against-a-united-states-marine-corps-colonel-of-failing-to-investigate-the-haditha-killings.md)
-_Context: military judge, Marine, Haditha killings_
+_Context: Haditha killings, military judge, Marine_
 
 ##### UNHCR
 ### [ In its annual report, the UNHCR says the number of refugees in the world rose to 11.4 million in 2007 from 9.9m in 2006. ](/news/2008/06/17/in-its-annual-report-the-unhcr-says-the-number-of-refugees-in-the-world-rose-to-11-4-million-in-2007-from-9-9m-in-2006.md)
-_Context: UNHCR, refugee_
+_Context: refugee, UNHCR_
 
 ##### Tsutomu Miyazaki
 ### [ Tsutomu Miyazaki, known as "The Otaku Murderer", is executed by hanging in Tokyo for the murders and cannibalization of four young girls in 1988 and 1989. He was hanged with two others, each convicted in separate, unrelated murders. ](/news/2008/06/17/tsutomu-miyazaki-known-as-the-otaku-murderer-is-executed-by-hanging-in-tokyo-for-the-murders-and-cannibalization-of-four-young-girls-in.md)
-_Context: hanging, capital punishment, murder, Otaku, Tokyo, 1988, Tsutomu Miyazaki, cannibal, 1989_
+_Context: Tokyo, cannibal, capital punishment, hanging, murder, Tsutomu Miyazaki, 1989, Otaku, 1988_
 
 ##### Deadly earthquake
 ### [ In the aftermath of the 2008 Sichuan earthquake, the Chinese government faces growing criticism from grieving parents who allege that corrupt and shoddy construction was behind the disproportionately high number of collapsed school buildings. ](/news/2008/06/17/in-the-aftermath-of-the-2008-sichuan-earthquake-the-chinese-government-faces-growing-criticism-from-grieving-parents-who-allege-that-corru.md)
@@ -41,11 +41,11 @@ _Context: Lebanese_
 
 ##### Korean Confederation of Trade Unions
 ### [ The Korean Confederation of Trade Unions calls a one day strike for July 2 in protest at the President of South Korea Lee Myung-bak's economic reform plans. ](/news/2008/06/17/the-korean-confederation-of-trade-unions-calls-a-one-day-strike-for-july-2-in-protest-at-the-president-of-south-korea-lee-myung-bak-s-econo.md)
-_Context: July 2, Lee Myung-bak, Korean Confederation of Trade Unions, South Korean President_
+_Context: July 2, Korean Confederation of Trade Unions, Lee Myung-bak, South Korean President_
 
 ##### Summer 2008 China region floods
 ### [ Summer 2008 China region floods: Large areas of southern China are hit by the worst floods in decades with Guangzhou and Shenzhen worst affected. So far, 63 people have died and 1.66 million have been evacuated. ](/news/2008/06/17/summer-2008-china-region-floods-large-areas-of-southern-china-are-hit-by-the-worst-floods-in-decades-with-guangzhou-and-shenzhen-worst-aff.md)
-_Context: China, Summer 2008 China region floods, Shenzhen, Guangzhou_
+_Context: China, Guangzhou, Shenzhen, Summer 2008 China region floods_
 
 ## [Previous Day...](/news/2008/06/16/index.md)
 

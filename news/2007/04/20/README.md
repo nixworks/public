@@ -9,11 +9,11 @@ _Context: Mairead Corrigan, barrier, Nobel Peace Prize_
 
 ##### President
 ### [ President of Cuba Fidel Castro meets briefly with Wu Guanzheng, a member of the Politburo of the Chinese Communist Party in his first official duties since transferring power in July 2006. ](/news/2007/04/20/president-of-cuba-fidel-castro-meets-briefly-with-wu-guanzheng-a-member-of-the-politburo-of-the-chinese-communist-party-in-his-first-offic.md)
-_Context: Wu Guanzheng, Politburo, Chinese Communist Party, President, Fidel Castro, transferring power_
+_Context: President, transferring power, Politburo, Chinese Communist Party, Fidel Castro, Wu Guanzheng_
 
 ##### G4
 ### [ The G4 group of nations, which includes Brazil, India, Germany and Japan, says that it would revive efforts for United Nations Security Council reform. ](/news/2007/04/20/the-g4-group-of-nations-which-includes-brazil-india-germany-and-japan-says-that-it-would-revive-efforts-for-united-nations-security-cou.md)
-_Context: German, G4, Japan, India, Brazil, United Nations Security Council reform_
+_Context: German, Japan, G4, Brazil, United Nations Security Council reform, India_
 
 ##### India
 ### [ India and the People's Republic of China resume talks to resolve border disputes. ](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.md)
@@ -21,11 +21,11 @@ _Context: China, India_
 
 ##### United States
 ### [ The United States asks India to stop military cooperation with Iran. ](/news/2007/04/20/the-united-states-asks-india-to-stop-military-cooperation-with-iran.md)
-_Context: India, United States, Iran_
+_Context: India, Iran, United States_
 
 ##### U.S. state
 ### [ The U.S. state of Virginia observes a day of mourning for the victims in the Virginia Tech massacre. ](/news/2007/04/20/the-u-s-state-of-virginia-observes-a-day-of-mourning-for-the-victims-in-the-virginia-tech-massacre.md)
-_Context: largest mass shooting in US history, Virginia, day of mourning, U.S. state_
+_Context: Virginia, U.S. state, day of mourning, largest mass shooting in US history_
 
 ##### Heavy clashes
 ### [ Battle of Mogadishu (March-April 2007): Shelling and gunfire continues in Mogadishu after 21 died in fighting and a suicide attack at an Ethiopian base the previous day. ](/news/2007/04/20/battle-of-mogadishu-marchaapril-2007-shelling-and-gunfire-continues-in-mogadishu-after-21-died-in-fighting-and-a-suicide-attack-at-an.md)
@@ -33,19 +33,19 @@ _Context: heavy clashes, Mogadishu, Ethiopia_
 
 ##### Salt
 ### [ Scientists prove that eating less salt reduces the chances of stroke or heart attack in the first long-term study on salt's effect on health. ](/news/2007/04/20/scientists-prove-that-eating-less-salt-reduces-the-chances-of-stroke-or-heart-attack-in-the-first-long-term-study-on-salt-s-effect-on-healt.md)
-_Context: heart attack, stroke, salt_
+_Context: heart attack, salt, stroke_
 
 ##### Earthquake
 ### [ A series of earthquakes, the strongest being 6.1 magnitude, strikes the Okinawa island chain of Japan. A tsunami warning is issued but later cancelled. ](/news/2007/04/20/a-series-of-earthquakes-the-strongest-being-6-1-magnitude-strikes-the-okinawa-island-chain-of-japan-a-tsunami-warning-is-issued-but-late.md)
-_Context: earthquake, island, tsunami, Japan, Okinawa, magnitude_
+_Context: earthquake, island, tsunami, magnitude, Japan, Okinawa_
 
 ##### 2007 pet food recalls
 ### [ The 2007 pet food recalls: A new study of pigs at a hog farm in California points to the possibility that melamine has entered the human food supply. ](/news/2007/04/20/the-2007-pet-food-recalls-a-new-study-of-pigs-at-a-hog-farm-in-california-points-to-the-possibility-that-melamine-has-entered-the-human-fo.md)
-_Context: California, 2007 pet food recalls, melamine, pig_
+_Context: 2007 pet food recalls, pig, California, melamine_
 
 ##### Johnson Space Center Shooting
 ### [ Johnson Space Center Shooting: A NASA spokesperson says that one of the buildings at the Johnson Space Center in Houston, Texas has been evacuated after an employee opens fire. The gunman killed a male hostage as well as himself. ](/news/2007/04/20/johnson-space-center-shooting-a-nasa-spokesperson-says-that-one-of-the-buildings-at-the-johnson-space-center-in-houston-texas-has-been-ev.md)
-_Context: Johnson Space Center, Texas, Johnson Space Center Shooting, NASA, hostage, Houston_
+_Context: Houston, NASA, Johnson Space Center, Johnson Space Center Shooting, hostage, Texas_
 
 ## [Previous Day...](/news/2007/04/19/index.md)
 

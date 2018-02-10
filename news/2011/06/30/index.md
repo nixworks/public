@@ -25,15 +25,15 @@ Peacekeepers to stay another year as war estimated to have taken five million li
 
 ##### Amnesty International
 ### [Amnesty International calls on the People's Republic of China to stop the harassment, arbitrary detention and torture of human rights lawyers. ](/news/2011/06/30/amnesty-international-calls-on-the-people-s-republic-of-china-to-stop-the-harassment-arbitrary-detention-and-torture-of-human-rights-lawyer.md)
-_Context: China, human rights, Amnesty International_
+_Context: human rights, China, Amnesty International_
 
 ##### Al-Shamukh
 ### [Al-Shamukh, a popular jihadist Internet forum, is knocked off the Internet by a fairly sophisticated cyberattack. ](/news/2011/06/30/al-shamukh-a-popular-jihadist-internet-forum-is-knocked-off-the-internet-by-a-fairly-sophisticated-cyberattack.md)
-_Context: jihad, Al-Shamukh_
+_Context: Al-Shamukh, jihad_
 
 ##### Iraq War
 ### [Iraq War: The United States has lost a total of 15 troops in Iraq this month, making it the deadliest month for U.S. forces in Iraq since June 2009, when 14 soldiers were killed fighting the Iraqi insurgency. ](/news/2011/06/30/iraq-war-the-united-states-has-lost-a-total-of-15-troops-in-iraq-this-month-making-it-the-deadliest-month-for-u-s-forces-in-iraq-since-ju.md)
-_Context: United States, Iraq, Iraq War, Iraqi insurgency_
+_Context: United States, Iraqi insurgency, Iraq, Iraq War_
 
 ##### Glenn Beck
 ### [Glenn Beck hosts his final program on the US Fox News Channel. ](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.md)
@@ -41,7 +41,7 @@ _Context: Fox News, Glenn Beck_
 
 ##### Beijing-Shanghai High-Speed Railway
 ### [The Beijing-Shanghai High-Speed Railway commences commercial operation in the People's Republic of China. ](/news/2011/06/30/the-beijingashanghai-high-speed-railway-commences-commercial-operation-in-the-people-s-republic-of-china.md)
-_Context: China, Beijing-Shanghai High-Speed Railway_
+_Context: Beijing-Shanghai High-Speed Railway, China_
 
 ##### Automakers
 ### [The Japanese auto industry begins designated weekday shutdowns as part of an effort to save energy as a result of the Fukushima Daiichi nuclear disaster. ](/news/2011/06/30/the-japanese-auto-industry-begins-designated-weekday-shutdowns-as-part-of-an-effort-to-save-energy-as-a-result-of-the-fukushima-daiichi-nucl.md)
@@ -49,7 +49,7 @@ _Context: automakers, Fukushima Daiichi nuclear disaster_
 
 ##### Samsung
 ### [Samsung Electronics lodges a claim with the US International Trade Commission to stop Apple Inc. importing six products including the iPhone, iPod and iPads for alleged patent infringements. ](/news/2011/06/30/samsung-electronics-lodges-a-claim-with-the-us-international-trade-commission-to-stop-apple-inc-importing-six-products-including-the-iphone.md)
-_Context: International Trade Commission, Samsung, iPads, patent, iPod, iPhone, Apple Inc._
+_Context: iPhone, patent, iPads, International Trade Commission, Samsung, iPod, Apple Inc._
 
 ##### Italy
 ### [Italy's government attempts to bring in its own austerity measures to calm turbulent markets and reassure investors. ](/news/2011/06/30/italy-s-government-attempts-to-bring-in-its-own-austerity-measures-to-calm-turbulent-markets-and-reassure-investors.md)
@@ -69,11 +69,11 @@ Imported fenugreek seedsfrom Egypt may be the source of highly toxic E. coli out
 
 ##### Tropical Storm Arlene
 ### [Tropical Storm Arlene, the first tropical storm of the 2011 Atlantic hurricane season, makes landfall near Cabo Rojo bringing heavy rain to Mexico and southern Texas. ](/news/2011/06/30/tropical-storm-arlene-the-first-tropical-storm-of-the-2011-atlantic-hurricane-season-makes-landfall-near-cabo-rojo-bringing-heavy-rain-to.md)
-_Context: Mexico, Texas, tropical storm, Tropical Storm Arlene, Hurricane Rina, Cabo Rojo_
+_Context: Mexican, Tropical Storm Arlene, Cabo Rojo, Texas, tropical storm, Hurricane Rina_
 
 ##### Nagano Prefecture
 ### [A 5.4 magnitude earthquake hits Nagano Prefecture in Japan, resulting in at least seven injuries. ](/news/2011/06/30/a-5-4-magnitude-earthquake-hits-nagano-prefecture-in-japan-resulting-in-at-least-seven-injuries.md)
-_Context: Japan, Nagano Prefecture_
+_Context: Nagano Prefecture, Japan_
 
 ##### Midwestern
 ### [A heavy thunderstorm hits the midwestern United States of Illinois and Wisconsin leaving thousands of homes without power and causing transport problems in Chicago. ](/news/2011/06/30/a-heavy-thunderstorm-hits-the-midwestern-united-states-of-illinois-and-wisconsin-leaving-thousands-of-homes-without-power-and-causing-transp.md)
@@ -93,7 +93,7 @@ _Context: Catherine, Duchess of Cambridge, Duke of Cambridge, 2011 royal tour of
 
 ##### United States Secretary of State
 ### [United States Secretary of State Hillary Clinton is in Budapest today. ](/news/2011/06/30/united-states-secretary-of-state-hillary-clinton-is-in-budapest-today.md)
-_Context: Budapest, United States Secretary of State, Hillary Clinton_
+_Context: United States Secretary of State, Budapest, Hillary Clinton_
 
 ##### Prime Minister of Israel
 ### [Israeli Prime Minister Binyamin Netanyahu says that Israel is "fully entitled to work against" attempts by the Gaza-bound "provocation flotilla" to smuggle arms into the Hamas-controlled Gaza Strip. ](/news/2011/06/30/israeli-prime-minister-binyamin-netanyahu-says-that-israel-is-fully-entitled-to-work-against-attempts-by-the-gaza-bound-provocation-floti.md)
@@ -101,7 +101,7 @@ Tánaiste Eamon Gilmore has said he is concerned about reports that a Gaza bound
 
 ##### Taiwan
 ### [Taiwanese media reports that former President Lee Teng-hui has been indicted on charges of embezzlement from a state diplomatic fund. ](/news/2011/06/30/taiwanese-media-reports-that-former-president-lee-teng-hui-has-been-indicted-on-charges-of-embezzlement-from-a-state-diplomatic-fund.md)
-_Context: embezzlement, President, indicted, Taiwan, Lee Teng-hui_
+_Context: indicted, Taiwan, embezzlement, President, Lee Teng-hui_
 
 ##### French President
 ### [A man who attempts to knock down President of France Nicolas Sarkozy in Brax is arrested by officers. ](/news/2011/06/30/a-man-who-attempts-to-knock-down-president-of-france-nicolas-sarkozy-in-brax-is-arrested-by-officers.md)
@@ -117,7 +117,7 @@ Lebanese media says UN-backed court has charged four Hezbollah members for 2005 
 
 ##### Naples
 ### [Head of Naples police intervention brigade Vittorio Pisani is investigated in Italy after coming under suspicion of leaking information to the mafia. ](/news/2011/06/30/head-of-naples-police-intervention-brigade-vittorio-pisani-is-investigated-in-italy-after-coming-under-suspicion-of-leaking-information-to-t.md)
-_Context: mafia, Naples, Vittorio Pisani, Italy_
+_Context: mafia, Vittorio Pisani, Naples, Italy_
 
 ##### Neil Entwistle
 ### [Englishman Neil Entwistle is appealing his murder conviction of his wife and daughter in Massachusetts, USA. ](/news/2011/06/30/englishman-neil-entwistle-is-appealing-his-murder-conviction-of-his-wife-and-daughter-in-massachusetts-usa.md)
@@ -137,11 +137,11 @@ Schools, courts and jobcentres are among the services affected across the UK as 
 
 ##### 2011 Spanish protests
 ### [2011 Spanish protests: Riot police in full gear surround scores of "indignados" protesting against austerity, political corruption and rising unemployment and evict them from their six-week encampment in Barcelona's Plaza de Catalunya. ](/news/2011/06/30/2011-spanish-protests-riot-police-in-full-gear-surround-scores-of-indignados-protesting-against-austerity-political-corruption-and-risin.md)
-_Context: Barcelona, 2011 Spanish protests, Plaza de Catalunya_
+_Context: 2011 Spanish protests, Barcelona, Plaza de Catalunya_
 
 ##### Indonesian National Police
 ### [The Indonesian National Police arrests at least one suspect in connection to the alleged forgery of documents associated with the 2009 legislative elections. ](/news/2011/06/30/the-indonesian-national-police-arrests-at-least-one-suspect-in-connection-to-the-alleged-forgery-of-documents-associated-with-the-2009-legis.md)
-_Context: 2009 legislative elections, forgery, Indonesian National Police_
+_Context: forgery, Indonesian National Police, 2009 legislative elections_
 
 ##### Bangladesh
 ### [Bangladesh's parliament overturns a requirement, dating from the mid-1990s, that general elections be watched over by non-partisan caretaker governments; the opposition protests over fears that future elections could be rigged. ](/news/2011/06/30/bangladesh-s-parliament-overturns-a-requirement-dating-from-the-mid-1990s-that-general-elections-be-watched-over-by-non-partisan-caretaker.md)
