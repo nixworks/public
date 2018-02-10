@@ -17,7 +17,7 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### 2017-18 North Korea crisis
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, Blue House, Kim Jong-Un, Kim Yong-nam, Moon Jae-in, 2017-18 North Korea crisis, South Korean President, North Korea_
+_Context: President of the Presidium of the Supreme People's Assembly, Moon Jae-in, North Korea, Kim Jong-Un, South Korean President, Kim Yong-nam, 2017-18 North Korea crisis, Blue House, Kim Yo-jong_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
