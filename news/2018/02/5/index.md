@@ -17,7 +17,7 @@ Analysts say the fall actually stems from signs of improvement in the US economy
 
 ##### Brexit negotiations
 ### [After talks with Prime Minister of the United Kingdom Theresa May and Secretary of State for Exiting the European Union David Davis in London, E.U. chief negotiator Michel Barnier calls on the United Kingdom to make a choice on what sort of future relationship it wants with the European Union after Brexit. ](/news/2018/02/5/after-talks-with-prime-minister-of-the-united-kingdom-theresa-may-and-secretary-of-state-for-exiting-the-european-union-david-davis-in-londo.md)
-_Context: David Davis, European Union, Secretary of State for Exiting the European Union, United Kingdom, Brexit, Michel Barnier, London, Prime Minister, Theresa May, Brexit negotiations_
+_Context: Brexit, Prime Minister, Theresa May, Secretary of State for Exiting the European Union, European Union, Brexit negotiations, London, United Kingdom, Michel Barnier, David Davis_
 
 ##### 2017 Dutch-Turkish diplomatic incident
 ### [The Netherlands withdraw their ambassador in Ankara and say that they will not accept a new Turkish ambassador in The Hague. Dutch foreign minister Halbe Zijlstra says, "We have not agreed on how to normalise ties." ](/news/2018/02/5/the-netherlands-withdraw-their-ambassador-in-ankara-and-say-that-they-will-not-accept-a-new-turkish-ambassador-in-the-hague-dutch-foreign-m.md)

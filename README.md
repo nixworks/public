@@ -9,7 +9,7 @@ An Antonov An-148 operated by Saratov Airlines and carrying 65 passengers and si
 
 ##### United Kingdom
 ### [United Kingdom Secretary of State for International Development Penny Mordaunt tells BBC One that Oxfam's failure to pass on information regarding sexual misconduct allegations of its workers in Haiti and Chad shows an "absolute" absence and failure of moral leadership. ](/news/2018/02/11/united-kingdom-secretary-of-state-for-international-development-penny-mordaunt-tells-bbc-one-that-oxfam-s-failure-to-pass-on-information-reg.md)
-_Context: BBC One, United Kingdom, Oxfam, Penny Mordaunt, Chad, Haiti, Secretary of State for International Development, sexual misconduct allegations_
+_Context: Secretary of State for International Development, Chad, Haiti, Penny Mordaunt, United Kingdom, sexual misconduct allegations, BBC One, Oxfam_
 
 ##### Sri Lankan local elections, 2018
 ### [In provisional results with most votes in, the opposition SLPP (Rajapaksa) is projected to win 44.05% of the vote, the ruling coalition parties UNP (Wickremesinghe) and SLFP (Sirisena) gather 31.65% and 9.52% respectively. Rosy Senanayake (UNP) is set to become the first female mayor of the capital Colombo. ](/news/2018/02/11/in-provisional-results-with-most-votes-in-the-opposition-slpp-rajapaksa-is-projected-to-win-44-05-of-the-vote-the-ruling-coalition-part.md)
@@ -37,7 +37,7 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 
 ##### West Java
 ### [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27 people. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27-people.md)
-_Context: Indonesia, West Java_
+_Context: West Java, Indonesia_
 
 ##### Helicopter
 ### [A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. ](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-grand-canyon-in-the-southwestern-united-states-killing-three-people-and-injuring-the-other-four.md)
@@ -49,15 +49,15 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: South Korean President, President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, Blue House, Kim Yong-nam, North Korea-South Korea relations, North Korea, Moon Jae-in, Kim Jong-Un_
+_Context: Blue House, President of the Presidium of the Supreme People's Assembly, South Korean President, Kim Yo-jong, North Korea-South Korea relations, North Korea, Kim Yong-nam, Kim Jong-Un, Moon Jae-in_
 
 ##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politico, Federal Railroad Administration, Politics of the United States, Madison County, Mississippi_
+_Context: Politico, Politics of the United States, Federal Railroad Administration, Madison County, Mississippi_
 
 ##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: Gerry Adams, Sinn Fein, president of Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald_
+_Context: president of Sinn Fein, Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald, Gerry Adams_
 
 ---
 
@@ -69,7 +69,7 @@ Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
 
 ##### Earthquakes in 2018
 ### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Earthquakes in 2018, Guadalajara, Puerto Vallarta, Mexican, magnitude, Jalisco_
+_Context: Guadalajara, Puerto Vallarta, Mexican, Earthquakes in 2018, magnitude, Jalisco_
 
 ##### IOS jailbreaking
 ### [A Vice Motherboard report traces the origin of a significant iOS source code leak to an Apple intern and five "friends" in the iOS jailbreaking community. ](/news/2018/02/9/a-vice-motherboard-report-traces-the-origin-of-a-significant-ios-source-code-leak-to-an-apple-intern-and-five-friends-in-the-ios-jailbreak.md)
@@ -85,11 +85,11 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Presidency of Donald Trump
 ### [Rachel Brand, Associate Attorney General since May 2017, plans to step down in the next several weeks in favor of a job in the private sector. ](/news/2018/02/9/rachel-brand-associate-attorney-general-since-may-2017-plans-to-step-down-in-the-next-several-weeks-in-favor-of-a-job-in-the-private-secto.md)
-_Context: Rachel Brand, Presidency of Donald Trump, Associate Attorney General_
+_Context: Associate Attorney General, Presidency of Donald Trump, Rachel Brand_
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: Turkey, opposition, Politics of Turkey, Peoples' Democratic Party, Turkish military operation in Afrin_
+_Context: Turkey, Politics of Turkey, opposition, Peoples' Democratic Party, Turkish military operation in Afrin_
 
 ##### Human genetics
 ### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)
