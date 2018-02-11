@@ -29,15 +29,15 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: President of the Presidium of the Supreme People's Assembly, South Korean President, North Korea, Kim Jong-Un, North Korea-South Korea relations, Kim Yong-nam, Blue House, Kim Yo-jong, Moon Jae-in_
+_Context: Kim Yong-nam, Kim Jong-Un, North Korea, Kim Yo-jong, Moon Jae-in, North Korea-South Korea relations, President of the Presidium of the Supreme People's Assembly, Blue House, South Korean President_
 
 ##### Federal Railroad Administration
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Madison County, Mississippi, Politico, Federal Railroad Administration_
+_Context: Politico, Federal Railroad Administration, Madison County, Mississippi_
 
 ##### Mary Lou McDonald
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: Sinn Fein, Mary Lou McDonald, Gerry Adams, president of Sinn Fein_
+_Context: Sinn Fein, Mary Lou McDonald, president of Sinn Fein, Gerry Adams_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
