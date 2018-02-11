@@ -19,9 +19,13 @@ Photographs show double-decker bus lying on its side with its roof torn off near
 ### [Indian Prime Minister Narendra Modi visits Palestine, saying that he backs an independent Palestine state. This event has been labeled as "historic" as it is the first time an Indian Prime Minister has visited Palestine. ](/news/2018/02/10/indian-prime-minister-narendra-modi-visits-palestine-saying-that-he-backs-an-independent-palestine-state-this-event-has-been-labeled-as-h.md)
 Narendra Modi backs independent Palestinian state during first trip by an Indian prime minister to occupied territories.
 
-##### 2017-18 North Korea crisis
+##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Moon Jae-in, South Korean President, Blue House, Kim Yo-jong, President of the Presidium of the Supreme People's Assembly, North Korea, Kim Jong-Un, 2017-18 North Korea crisis, Kim Yong-nam_
+_Context: Moon Jae-in, South Korean President, Kim Jong-Un, North Korea, Kim Yong-nam, Kim Yo-jong, Blue House, North Korea-South Korea relations, President of the Presidium of the Supreme People's Assembly_
+
+##### Federal Railroad Administration
+### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
+_Context: Madison County, Mississippi, Federal Railroad Administration, Politico_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 
