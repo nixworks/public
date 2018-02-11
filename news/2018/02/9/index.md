@@ -9,7 +9,7 @@ Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
 
 ##### Earthquakes in 2018
 ### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Guadalajara, Puerto Vallarta, Mexican, magnitude, Jalisco, Earthquakes in 2018_
+_Context: Mexican, Guadalajara, Earthquakes in 2018, Puerto Vallarta, Jalisco, magnitude_
 
 ##### Vice Motherboard
 ### [A Vice Motherboard report traces the origin of a significant iOS source code leak to an Apple intern and five "friends" in the iOS jailbreaking community. ](/news/2018/02/9/a-vice-motherboard-report-traces-the-origin-of-a-significant-ios-source-code-leak-to-an-apple-intern-and-five-friends-in-the-ios-jailbreak.md)
@@ -21,7 +21,7 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: opposition, Turkey, Turkish military operation in Afrin, Peoples' Democratic Party, Politics of Turkey_
+_Context: Turkish military operation in Afrin, opposition, Politics of Turkey, Turkey, Peoples' Democratic Party_
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)
