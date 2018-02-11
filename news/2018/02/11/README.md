@@ -17,7 +17,7 @@ Party backed by former President Mahinda Rajapaksa set to score landslide victor
 
 ##### Earth
 ### [ A study is made to glimpse what Earth-sized exoplanets are made of. ](/news/2018/02/11/a-study-is-made-to-glimpse-what-earth-sized-exoplanets-are-made-of.md)
-_Context: Earth, exoplanet_
+_Context: exoplanet, Earth_
 
 ## [Previous Day...](/news/2018/02/10/index.md)
 
