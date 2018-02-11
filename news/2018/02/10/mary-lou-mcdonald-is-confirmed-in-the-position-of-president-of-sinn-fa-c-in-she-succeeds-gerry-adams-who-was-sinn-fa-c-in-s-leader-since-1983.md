@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-
 
 ### [2018-02-10](/news/2018/02/10/index.md)
 
-##### Mary Lou McDonald
+##### Politics of the Republic of Ireland
 # Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. 
 
 

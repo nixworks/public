@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/9/the-new-york-times-reports-that-the-cia-handed-1
 
 ### [2018-02-9](/news/2018/02/9/index.md)
 
-##### New York Times
+##### Russian espionage in the United States
 # The New York Times reports that the CIA handed $100,000 to an unnamed Russian intelligence source in a Berlin hotel room, allegedly expecting to get back stolen NSA hacking tools. 
 
 U.S. agents met the Russian in a Berlin hotel room with a suitcase full of cash.

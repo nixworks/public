@@ -11,13 +11,13 @@ Israel shot down an Iranian drone launched from Syria and in response also struc
 ### [The Kurdish YPG shoots down a Turkish Air Force T129 ATAK helicopter over Syria's Afrin District, killing both pilots. ](/news/2018/02/10/the-kurdish-ypg-shoots-down-a-turkish-air-force-t129-atak-helicopter-over-syria-s-afrin-district-killing-both-pilots.md)
 Turkish premier says two soldiers died after their helicopter was shot down during Ankara&#39;s offensive in northern Syria.
 
-##### Tai Po Road bus flip accident
+##### 2018 Hong Kong bus accident
 ### [A double-decker bus overturns near Tai Po in Hong Kong, killing at least 19 people. ](/news/2018/02/10/a-double-decker-bus-overturns-near-tai-po-in-hong-kong-killing-at-least-19-people.md)
 Photographs show double-decker bus lying on its side with its roof torn off near Tai Po
 
 ##### West Java
 ### [A bus carrying local tourists crashes in West Java, Indonesia, killing at least 27 people. ](/news/2018/02/10/a-bus-carrying-local-tourists-crashes-in-west-java-indonesia-killing-at-least-27-people.md)
-_Context: West Java, Indonesia_
+_Context: Indonesia, West Java_
 
 ##### Helicopter
 ### [A Papillon Tours helicopter crashes in the Grand Canyon in the Southwestern United States, killing three people and injuring the other four on board. ](/news/2018/02/10/a-papillon-tours-helicopter-crashes-in-the-grand-canyon-in-the-southwestern-united-states-killing-three-people-and-injuring-the-other-four.md)
@@ -29,15 +29,15 @@ Narendra Modi backs independent Palestinian state during first trip by an Indian
 
 ##### North Korea-South Korea relations
 ### [South Korean President Moon Jae-in hosts talks at the Blue House with North Korean President of the Presidium of the Supreme People's Assembly Kim Yong-nam and Kim Jong-Un's sister Kim Yo-jong. ](/news/2018/02/10/south-korean-president-moon-jae-in-hosts-talks-at-the-blue-house-with-north-korean-president-of-the-presidium-of-the-supreme-people-s-assemb.md)
-_Context: Kim Yong-nam, Kim Jong-Un, North Korea, Kim Yo-jong, Moon Jae-in, North Korea-South Korea relations, President of the Presidium of the Supreme People's Assembly, Blue House, South Korean President_
+_Context: South Korean President, President of the Presidium of the Supreme People's Assembly, Kim Yo-jong, Blue House, Kim Yong-nam, North Korea-South Korea relations, North Korea, Moon Jae-in, Kim Jong-Un_
 
-##### Federal Railroad Administration
+##### Politics of the United States
 ### [Heath Hall, the acting Federal Railroad Administration chief, resigns "effective immediately" over a Politico report that he has a second job in Madison County, Mississippi. ](/news/2018/02/10/heath-hall-the-acting-federal-railroad-administration-chief-resigns-effective-immediately-over-a-politico-report-that-he-has-a-second-jo.md)
-_Context: Politico, Federal Railroad Administration, Madison County, Mississippi_
+_Context: Politico, Federal Railroad Administration, Politics of the United States, Madison County, Mississippi_
 
-##### Mary Lou McDonald
+##### Politics of the Republic of Ireland
 ### [Mary Lou McDonald is confirmed in the position of president of Sinn Fein. She succeeds Gerry Adams, who was Sinn Fein's leader since 1983. ](/news/2018/02/10/mary-lou-mcdonald-is-confirmed-in-the-position-of-president-of-sinn-fa-c-in-she-succeeds-gerry-adams-who-was-sinn-fa-c-in-s-leader-since-1983.md)
-_Context: Sinn Fein, Mary Lou McDonald, president of Sinn Fein, Gerry Adams_
+_Context: Gerry Adams, Sinn Fein, president of Sinn Fein, Politics of the Republic of Ireland, Mary Lou McDonald_
 
 ## [Previous Day...](/news/2018/02/9/index.md)
 

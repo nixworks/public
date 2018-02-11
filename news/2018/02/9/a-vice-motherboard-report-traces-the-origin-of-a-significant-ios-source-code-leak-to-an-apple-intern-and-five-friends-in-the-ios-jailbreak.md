@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/9/a-vice-motherboard-report-traces-the-origin-of-a
 
 ### [2018-02-9](/news/2018/02/9/index.md)
 
-##### Vice Motherboard
+##### IOS jailbreaking
 # A Vice Motherboard report traces the origin of a significant iOS source code leak to an Apple intern and five "friends" in the iOS jailbreaking community. 
 
 Earlier this week, a portion of iOS source code was posted online to GitHub, and in an interesting twist, a new report from Motherboard reveals that the code was originally leaked by a former Apple intern. The Verge reports: According to Motherboard, the intern who stole the code took it and distri...

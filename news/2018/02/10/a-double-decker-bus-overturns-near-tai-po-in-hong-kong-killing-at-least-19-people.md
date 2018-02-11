@@ -3,7 +3,7 @@ Formats: [HTML](/news/2018/02/10/a-double-decker-bus-overturns-near-tai-po-in-ho
 
 ### [2018-02-10](/news/2018/02/10/index.md)
 
-##### Tai Po Road bus flip accident
+##### 2018 Hong Kong bus accident
 # A double-decker bus overturns near Tai Po in Hong Kong, killing at least 19 people. 
 
 Photographs show double-decker bus lying on its side with its roof torn off near Tai Po
