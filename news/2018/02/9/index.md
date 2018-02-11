@@ -9,7 +9,11 @@ Richard Desmond agrees to sell newspapers along with celebrity magazine OK!
 
 ##### Earthquakes in 2018
 ### [A 5.8 magnitude earthquake strikes off the coast of the Mexican state of Jalisco, prompting evacuations in the tourist resort of Puerto Vallarta and is felt in the country's second-largest metropolitan area of Guadalajara. No casualties are reported. ](/news/2018/02/9/a-5-8-magnitude-earthquake-strikes-off-the-coast-of-the-mexican-state-of-jalisco-prompting-evacuations-in-the-tourist-resort-of-puerto-vall.md)
-_Context: Jalisco, Puerto Vallarta, Guadalajara, magnitude, Mexican, Earthquakes in 2018_
+_Context: Jalisco, Puerto Vallarta, Mexican, Earthquakes in 2018, Guadalajara, magnitude_
+
+##### Trade secret
+### [A Vice Motherboard report traces the origin of a significant iOS source code leak to an Apple intern and five "friends" in the iOS jailbreaking community. ](/news/2018/02/9/a-vice-motherboard-report-traces-the-origin-of-a-significant-ios-source-code-leak-to-an-apple-intern-and-five-friends-in-the-ios-jailbreak.md)
+Earlier this week, a portion of iOS source code was posted online to GitHub, and in an interesting twist, a new report from Motherboard reveals that the code was originally leaked by a former Apple intern. The Verge reports: According to Motherboard, the intern who stole the code took it and distri....
 
 ##### United States federal government shutdown of 2018
 ### [The United States government runs out of funding for the second time this year, prompting another government shutdown. ](/news/2018/02/9/the-united-states-government-runs-out-of-funding-for-the-second-time-this-year-prompting-another-government-shutdown.md)
@@ -17,7 +21,7 @@ Government funding expired at midnight after Senator Rand Paul of Kentucky held 
 
 ##### Politics of Turkey
 ### [Turkey arrests 17 leaders of the left-wing Peoples' Democratic Party for opposition to the ongoing Afrin offensive. ](/news/2018/02/9/turkey-arrests-17-leaders-of-the-left-wing-peoples-democratic-party-for-opposition-to-the-ongoing-afrin-offensive.md)
-_Context: opposition, Peoples' Democratic Party, Afrin offensive, Politics of Turkey, Turkey_
+_Context: Politics of Turkey, opposition, Afrin offensive, Peoples' Democratic Party, Turkey_
 
 ##### University of Edinburgh
 ### [Researchers at the University of Edinburgh claim they have successfully brought prepubescent-sourced, immature human egg cells to maturity in a laboratory for the first time. The work may be significant because it may allow the harvesting and preservation of eggs from young girls undergoing toxic cancer treatment before their lifetime reservoirs of those cells are destroyed. ](/news/2018/02/9/researchers-at-the-university-of-edinburgh-claim-they-have-successfully-brought-prepubescent-sourced-immature-human-egg-cells-to-maturity-i.md)

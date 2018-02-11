@@ -4,7 +4,7 @@ Formats: [HTML](/news/2018/02/7/without-peer-review-publication-researchers-at-l
 ### [2018-02-7](/news/2018/02/7/index.md)
 
 ##### Prehistoric Britain
-# Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. 
+# Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Some scientists in the field state that the sample may have been contaminated with modern DNA weakening the results. 
 
 New research adds to a growing body of evidence showing how the British Isles received waves of immigrants over tens of thousands of years.
 
@@ -19,7 +19,7 @@ New research adds to a growing body of evidence showing how the British Isles re
 ### Changes:
 
 1. [Researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. The study has not yet been published in a peer-reviewed journal. ](/news/2018/02/7/researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that-early-inhabitants-of-great-brita.md) _2018-02-10 11:30:15 (First version)_
-1. [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Other scientists in the field state that the sample may have been contaminated with modern DNA invalidating the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md) _(Current version)_
+1. [Without peer-review publication researchers at London's Natural History Museum state that the DNA extracted from "Cheddar Man" reveals that early inhabitants of Great Britain had blue eyes and dark skin. The name "Cheddar Man" was given to a fossil of a human man that lived thousands of years ago, which was discovered in 1903. Some scientists in the field state that the sample may have been contaminated with modern DNA weakening the results. ](/news/2018/02/7/without-peer-review-publication-researchers-at-london-s-natural-history-museum-state-that-the-dna-extracted-from-cheddar-man-reveals-that.md) _(Current version)_
 
 ### Related:
 
